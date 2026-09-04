@@ -1,0 +1,28 @@
+{
+  "_comment": "Controlled vocabulary for Stage 4 name/term correction. Seeded ahead of Stage 4 build-out -- known_asr_variants are observed mishearings to correct on sight; add more as they turn up across sources (Zoom transcript, YouTube captions, Whisper).",
+  "terms": [
+    {
+      "canonical": "Techspressionist",
+      "category": "movement_term",
+      "known_asr_variants": ["text freshness", "text brush", "tech express system"],
+      "notes": "Observed in Zoom transcript for Salon 92 ('text freshness', 'text brush') and YouTube auto-captions for Salon 20 ('tech express system'), consistently right before 'Salon'. Watch for this pattern specifically before the word 'Salon', across every ASR source."
+    },
+    {
+      "canonical": "Techspressionism",
+      "category": "movement_term",
+      "known_asr_variants": [],
+      "notes": "Noun form of Techspressionist; no confirmed ASR variant observed yet, but expect similar mangling."
+    },
+    { "canonical": "Onland", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "MUD Foundation", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "Loop Art Critique", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "Kunstmatrix", "category": "platform", "known_asr_variants": [] },
+    { "canonical": "Artivive", "category": "platform", "known_asr_variants": [] },
+    { "canonical": "Pollock-Krasner", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "Southampton Arts Center", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "CAMUZ", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "ICA Miami", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "MOWNA", "category": "organization", "known_asr_variants": [] },
+    { "canonical": "LACDA", "category": "organization", "known_asr_variants": [] }
+  ]
+}
