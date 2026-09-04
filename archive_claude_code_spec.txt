@@ -1,0 +1,211 @@
+# Techspressionist Salon Archive — Build Specification
+
+A searchable, citable transcript archive of the Techspressionism YouTube channel.
+
+**Owner:** Colin Goldberg
+**Environment:** Apple Silicon Mac (M5), macOS
+**Deliverable:** A static, self-contained corpus + search interface, deployable to GitHub Pages or a subdirectory of techspressionism.com
+
+---
+
+## Purpose
+
+The Techspressionist Salon recordings (100+ sessions since September 2020, plus Interviews, Roundtables, and Presentations) are the movement's primary source material. They are currently unsearchable video. The goal is to make them citable: a researcher should be able to find a specific claim, quote it, link to the exact moment, and reference a stable identifier.
+
+Success criteria, in priority order:
+
+1. Every session has an accurate, timestamped transcript.
+2. Artist names are spelled correctly and consistently throughout.
+3. Full-text search returns results across the whole corpus in under a second.
+4. Every transcript segment deep-links to the corresponding moment in the source video.
+5. The corpus is versioned, archivable, and depositable to an institutional repository.
+
+---
+
+## Two constraints that shape the design
+
+**Speaker attribution already exists.** Salon video descriptions on techspressionism.com and YouTube contain manual speaker indexes in the form:
+
+```
+00:04:48 – Ariel Baron-Robbins (USA)
+00:18:18 – Systaime (France)
+00:30:00 – Michael Pierre Price (USA)
+```
+
+Do NOT run speaker diarization. Parse these timestamps and segment transcripts against them. This is more accurate than any automated approach and costs nothing.
+
+**Proper nouns are the failure mode.** The artist index at https://techspressionism.com/artists/ lists 350+ artists across 45+ countries. ASR will mangle these names, and inconsistent spelling makes the archive unsearchable. A name-correction pass against the index is not optional.
+
+---
+
+## Pipeline
+
+### Stage 1 — Metadata harvest
+
+Single pass over the channel:
+
+```
+yt-dlp --flat-playlist --dump-json <channel-url> > raw/channel.json
+```
+
+Then per-video metadata. Capture: video ID, title, upload date, duration, description, thumbnail URL.
+
+Parse from title and description:
+- Session number (e.g. "Salon 92", "Salon #48") — note both formats appear
+- Session title (e.g. "Breaking AI")
+- Recording date — **important:** the recording date in the description often differs from the YouTube upload date. Capture both; prefer recording date for citation.
+- Moderator
+- Speaker index (timestamp / name / country triples)
+
+Write `data/sessions.json` as the canonical metadata store. Everything downstream reads from this.
+
+Flag for manual review any session where the speaker index is missing or unparseable, rather than guessing.
+
+### Stage 2 — Captions first, ASR second
+
+Attempt YouTube's existing captions before transcribing anything:
+
+```
+yt-dlp --write-auto-subs --write-subs --sub-langs en --skip-download --sub-format vtt
+```
+
+Human-uploaded subtitles (`--write-subs`) are highest quality where present. Auto-captions are usually adequate and free. Only fall back to Whisper where captions are absent or visibly poor (heuristic: unusually low word count relative to duration, or high rate of `[Music]` / `[Inaudible]` markers).
+
+Log which source each transcript came from in the session metadata. This matters for provenance.
+
+### Stage 3 — Whisper for the remainder
+
+On Apple Silicon, use `mlx-whisper` (fastest) or `whisper.cpp` with Metal. Model: `large-v3`.
+
+Extract audio first — do not transcribe video files:
+
+```
+yt-dlp -f bestaudio -x --audio-format wav --audio-quality 0
+ffmpeg -i input.wav -ar 16000 -ac 1 -c:a pcm_s16le output.wav
+```
+
+16kHz mono is what Whisper wants; feeding it anything else wastes time on resampling.
+
+Output word-level timestamps if the implementation supports it. Segment-level is acceptable.
+
+**Note on multilingual sessions:** at least one Salon (#48) includes French-language presentation. Detect language per segment rather than assuming English for the whole file, and preserve the original language transcript alongside any translation. Some sessions already have translated transcript PDFs on the site — check before re-translating.
+
+### Stage 4 — Name correction
+
+Scrape the artist index into `data/artists.json`: name, country, and any alternate spellings or handles.
+
+Then, per transcript:
+
+- Fuzzy-match candidate name mentions against the index
+- Auto-correct only high-confidence matches
+- Write low-confidence matches to `review/name-candidates.csv` with surrounding context for human review — do NOT silently guess
+
+Also correct against a small controlled vocabulary of recurring proper nouns: Techspressionism, Techspressionist, Onland, MUD Foundation, Loop Art Critique, Kunstmatrix, Artivive, Pollock-Krasner, Southampton Arts Center, CAMUZ, ICA Miami, MOWNA, LACDA.
+
+The speaker index from Stage 1 is a strong prior — a name appearing in a session's speaker list is far more likely to appear in that session's transcript.
+
+### Stage 5 — Corpus format
+
+One Markdown file per session at `corpus/salon-092.md`:
+
+```markdown
+---
+type: salon              # salon | interview | roundtable | presentation
+number: 92
+title: "Breaking AI"
+date_recorded: 2025-03-06
+date_published: 2025-05-06
+video_id: "xxxxxxxxxxx"
+url: "https://www.youtube.com/watch?v=xxxxxxxxxxx"
+duration_seconds: 5412
+moderator: "Colin Goldberg"
+curator: "Renata Janiszewska"
+speakers:
+  - name: "Ariel Baron-Robbins"
+    country: "USA"
+    start: 288
+transcript_source: "auto-captions"   # auto-captions | subtitles | whisper-large-v3
+languages: ["en"]
+---
+
+## Ariel Baron-Robbins [04:48](https://www.youtube.com/watch?v=xxxxxxxxxxx&t=288s)
+
+Transcript text for this speaker's segment...
+```
+
+Rationale for Markdown + YAML: human-readable, diff-able in git, trivially parsed, survives tool changes, and readable in fifty years. Also generate `corpus/corpus.json` as a machine-readable mirror for anyone who wants the whole thing programmatically.
+
+Include Interviews, Roundtables, and Presentations in the same corpus, distinguished by the `type` field. They are the same kind of source material and splitting them makes cross-searching harder.
+
+### Stage 6 — Search interface
+
+Use **Pagefind**. It indexes static output at build time, requires no server, and handles a corpus of this size comfortably.
+
+Requirements:
+- Full-text search across all transcripts
+- Filter by type, year, speaker, country
+- Results show session title, date, speaker, and matching excerpt
+- Every result links to the transcript AND deep-links to the video timestamp
+- Works as a static deployment
+
+Do not build semantic/embedding search in v1. Keyword search solves the actual research use case; add embeddings only if a real need appears.
+
+### Stage 7 — Citation and deposit
+
+Per-session citation block rendered on each transcript page, in a format researchers can paste:
+
+> Techspressionist Salon 92, "Breaking AI," recorded 6 March 2025. Techspressionism Salon Archive. [DOI]
+
+Deposit the versioned corpus to **Zenodo** for DOIs. Zenodo issues both a concept DOI (all versions) and per-version DOIs, which is exactly right for a growing archive.
+
+Consider subsequent deposit to an institutional repository — Rhizome's ArtBase and university new-media collections are both plausible homes.
+
+---
+
+## Repository structure
+
+```
+techspressionism-archive/
+├── README.md
+├── data/
+│   ├── sessions.json
+│   ├── artists.json
+│   └── vocabulary.json
+├── raw/                    # gitignored — source audio, captions
+├── corpus/                 # the deliverable
+│   ├── salon-001.md
+│   ├── ...
+│   └── corpus.json
+├── review/                 # human-review queues
+│   ├── name-candidates.csv
+│   └── parse-failures.csv
+├── scripts/
+│   ├── 01-harvest.py
+│   ├── 02-captions.py
+│   ├── 03-transcribe.py
+│   ├── 04-correct-names.py
+│   └── 05-build-corpus.py
+└── site/                   # Pagefind output
+```
+
+Keep it a separate repository from the WordPress site. Easier to hand to a researcher, easier to deposit, and it keeps a large corpus out of the site's backups.
+
+---
+
+## Build order
+
+Do not build the whole pipeline before testing it.
+
+1. Run Stages 1–5 on **three sessions only**: one recent, one from 2021, one with a non-English speaker. Inspect the output by hand.
+2. Fix what's wrong. Description parsing is where the surprises will be — six years of formats drift.
+3. Then batch the remainder.
+4. Search interface last, once the corpus is stable.
+
+---
+
+## Open decisions for Colin
+
+- **Hosting:** separate repo + GitHub Pages, or a subdirectory of techspressionism.com? (Recommendation: separate repo, linked from a `/salon/archive/` page on the site.)
+- **Scope:** all four content types in v1, or Salons first? (Recommendation: Salons first, structure for the rest.)
+- **Corrections:** should the archive accept correction submissions from participants? A transcript of someone's own words that they can't correct is a small ongoing friction.
+- **Licensing:** the site is CC BY 4.0. Confirm this extends to transcripts, and state it in the README.

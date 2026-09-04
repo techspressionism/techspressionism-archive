@@ -1,0 +1,470 @@
+---
+type: salon
+number: 102
+title: Art-Science Intra-Action // Heidi Boisvert
+date_recorded: 2026-01-08
+date_published: 2026-01-10
+video_id: VxS9DBtseCE
+url: "https://www.youtube.com/watch?v=VxS9DBtseCE"
+duration_seconds: 6847
+moderator: Heidi Boisvert – Gainesville, FL
+speakers:
+  - name: Gal Nissim
+    country: galnissim.com
+    start: 2677
+  - name: Laura Splan
+    country: laurasplan.com
+    start: 312
+  - name: Sue Huang
+    country: studiosuehuang.com
+    start: 1385
+  - name: Janet Biggs
+    country: jbiggs.com
+    start: 3984
+  - name: Gal Nissim - galnissim.com
+    country: null
+    start: 2677
+  - name: Laura Splan - laurasplan.com
+    country: null
+    start: 312
+  - name: Sue Huang - studiosuehuang.com
+    country: null
+    start: 1385
+  - name: Janet Biggs - jbiggs.com
+    country: null
+    start: 3984
+transcript_source: zoom-transcript
+languages: ["en"]
+---
+
+## Colin Goldberg [00:03](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3s)
+
+Hello everyone, my name is Colin Goldberg, and I'm a Tex-pressionist. Welcome to Texpressionist Salon number 102. Today is Thursday, January 8th. 2026, and this salon's title is Art Science Interaction. Our salons are a time and place in cyberspace where artists gather once a month to hang out, share their work, and discuss matters relating to art, philosophy, and technology. These meetups were conceived as a modern counterpart to the surrealist salons of the 1920s, in which artists could meet informally to socialize and discuss ideas. Textpressionism is a 100% volunteer-based international artist community. So That's my little blurb about… Textpressionism and, our salon, so, all of you are more than welcome, or people viewing on YouTube are more than welcome to join us. You can find out, what the upcoming salon is at textpressionism.com slash salon. And also get the Zoom links there. There's also an archive of the last 101 salons on that page. So, our moderator today is Heidi Boir, who is an interdisciplinary artist, experienced designer, creative technologist, and academic researcher who interrogates the neurobiological and sociocultural effects of media and technology. She studies the role of the body, the senses, and emotion in human perception and social change. Boivaire is mapping the world's first media genome, while taking great care with its far-reaching ethical implications. She also architects expanded reality and transmedia storytelling experiences, and devises large-scale networked dance and theater using biocreative technology. She founded Future Perfect Lab, a creative agency and think tank that works with social justice organizations to design playful, emerging media campaigns to transform the public imagination. She also co-founded XTH, a company creating novel modes of expression through biotechnology and the human body. Boiver is an associate professor of AI and the arts at the University of Florida, a senior research fellow at the Norman Lear Center, a research affiliate at MIT's Open Documentary Lab, and part of New Inc.'s Creative Science Track. So I ask, once again, if anyone on here has not muted yourselves, please do so at this time, and we're going to hold all questions until the end, after all of the participating artists have shared. So without further ado, I'm going to hand the mic over to Heidi. Thanks very much, Heidi, for, for moderating.
+
+## Heidi Boisvert [02:57](https://www.youtube.com/watch?v=VxS9DBtseCE&t=177s)
+
+Hi, everybody. Thanks, Colin, for inviting me to come back and put together a salon around art and science interaction, new modes of knowledge production. Interaction is actually a term that Karen Berard, the STS scholar, coined to replace the word interaction, which necessitates pre-established bodies that then participate in action with one another another. Intraaction understands agency as not an inherent property of an individual or a human to be exercised, but as a dynamism of forces, in which all designated things are constantly exchanging and diffracting, influencing and working inseparably. Interaction also acknowledges that the impossibility of an absolute separation, or classically understood objectivity, in which an apparatus, essentially a technology or medium used to measure a property or a person, using an apparatus, are not considered to be part of of the process that allows for specifically located outcomes of measurement. So today, I've invited some of my favorite interdisciplinary artists, and also colleagues or cohort members from our creative science track at New Inc, who are deeply engaged with science in their creative practice, to share some of their work, the methods of engaging, their methods of engaging with Scientists, the tech they employ, and what role the body plays in their work. And then, what I'm gonna do is moderate a discussion about new modes of knowledge production. So just quickly, the format for today, each artist will present around 10 to 15 minutes of their work. The order will be, Laura Splan, then Sue Wong, Gal Neeson, and then Janet Biggs will, close us out. And then I'll moderate a conversation for about 20 minutes or so about their work, or the relationship between their work, and then we'll open, it up to Q&A from the audience. Before each of the artists talks, I'm also just going to read a bio to introduce the artist, so… First, up is Laura Splan - laurasplan.com is a New York City-based artist working at the intersections of science, technology, and culture. Her research-based studio practice in interdisciplinary collaborations culminate in multimedia exhibitions and events that reveal the GUI, or GUI, or liminal technological interfaces that mediate our relationship to the biological world. Her multimedia artworks have been presented at the Museum of Modern Art in New York. Brooklyn Museum, Santa Monica Art Center in Barcelona, the Gallery FOFA in Montreal, and the Nobel Prize Museum at, and I'm not gonna pronounce this correctly, the Javalks in Stockholm. Commissions include projects for Museum of the Moving Image, the Vanderbilt Planetarium, the Beale Center for Art and Technology, and Bruges Triennial. Her work is represented in Spelter Digital Art Collection and Toma Foundation, and she has been featured on Science Friday. Her research has been supported by the Simons Foundation, Jerome Foundation, Creative Australia, EY Metaverse Lab, New Inc. at the New Museum, and AS 2020's National Endowment for the Arts Digital Fellowship. So, I'll turn it over to you, Laura.
+
+## Laura Splan [06:35](https://www.youtube.com/watch?v=VxS9DBtseCE&t=395s)
+
+Thank you so much, Heidi. I'm gonna go ahead and share my screen before I get started. All set. Can you see my slide?
+
+## Colin Goldberg [07:00](https://www.youtube.com/watch?v=VxS9DBtseCE&t=420s)
+
+Yep.
+
+## Laura Splan [07:01](https://www.youtube.com/watch?v=VxS9DBtseCE&t=421s)
+
+Okay. Great. Great! Well, thank you so much for having me. I'm thrilled to be part of this panel of artists doing such interesting interdisciplinary art, and… Thank you, Heidi, for that introduction. And Colin for hosting. I'm zooming from Greenpoint, Brooklyn. I have a very heavy, sleepy cat on my lap that might get up in the middle of this presentation. So, in my own work, I've had the opportunity to collaborate with several laboratories, scientists, and engineers. And today, I'll be tracing connections within these collaborations that are grounded in interrogations of technological representations of nature and of our bodies. And I've been particularly interested in examining the interfaces that mediate and often obscure cultural subjectivities embedded within scientific tools. During a residency at a biotech lab specializing in antibody discovery called Integral Molecular, I found myself unraveling proteins in molecular visualization software that was introduced to me by scientists who were using it to examine protein interactions. I was soon able to use the software's morphing feature to animate folded and unfolded proteins that I had unraveled by hand. And I found the software's color palette to be a curious mix of references to both technology and nature, with colors like TV underscore blue and sky blue. And its references to nature implied idyllic representations of the natural world, such as blue skies, green forests, ripe fruit, and romantic flowers. And these naming conventions provided additional layers of abstraction built into the interfaces of the technologies we use to engage with and manipulate the natural world. So I began to make a series of prints and animations using viral protein models, using only colors that referenced nature, with colors like marine. Aquamarine, sky blue, Lime, lime and Forest, Raspberry, slate, violet, And orange oxygen salmon. And my collaborations with the scientists at Interval Molecular ranged from explorations of the software, which is called Pymol, to conversations about the use of color in molecular visualization, to the research the lab was doing on SARS-CoV-2 at the onset of the COVID pandemic. And in August of 2020, Biobat Artspace at the Brooklyn Army Terminal presented timed viewings of my immersive audiovisual installation with projections of the animations, accompanied by soundscapes made in collaboration with the lab over Zoom. Another collaboration known as Sticky Settings was initiated by the Simons Foundation, and I worked with Adam Lamson, who's a theoretical biophysicist at the Flatiron Institute's Center for Computational Biology. An atom simulates how DNA packs into chromosomes in a process called chromatin configuration. That studies the biophysics of the individual nucleosomes, or, quote, beads on a string. And we collaborated on a number of wide-ranging artworks that included computerized Jacquard weavings of scientific visualizations that resulted from his computational simulations. And the production of the weavings were led by conversations around abstraction, noise, tangibility, and color, as they relate to representations of data with contact maps, chimographs, and other visualization formats. We also collaborated on a series of 3D animations with movement and sound driven by Adam's equations for chromatin simulations. And the animations divested Adam's previous simulations of the constraints and conventions of science to become something more ethereal and meditative. For another animation, I began to drill down into the nucleosomes of the chromatin. And I began working with models of the individual histone proteins wrapped in DNA, where epigenetic processes affect gene expression based on environmental influences such as pollution. And I also began creating a series of AI-generated landscapes with text prompts that include excerpts from scientific studies citing the epigenetic or transgenerational inheritance Of sensitivity to the scent of cherry blossoms, or the cancer-causing effects of pesticide exposure. And the results were hauntingly idyllic in ways that seemed to say more about the bias of idealized notions of nature that AI models might be trained on. With these new animations, I was interested in creating simultaneous sensations of the micro and macro, past and present, internal and external. And biological and technological. I also had the opportunity to collaborate with the Vanderbilt Planetarium director, Dave Bush, on adapting the animations for their planetarium. We collaborated on unique star projections and sequences that bookended a 24-minute guided meditation through a nucleosome that began and ended in the local night sky. The narration for the animations was written with AI assistance, with prompts that were crafted with the intent of conflating the educational conventions of planetarium show scripts with the language and sensibilities of guided meditation. I essentially asked ChatGPT to write a guided meditation for chromatin. And it was an absurd attempt at sublining the audience into understanding the complex science of epigenetics through an immersive sensory experience that included rose scent in reference to the epigenetic inheritance of sensitivity to scent and to the use of pesticides on flower farms. I've also presented this work as an interactive installation that engages audiences with concepts of complexity and predictability through sensory experiences that are seemingly simple and accessible. Baroque Bodies Sway uses visitors' movements to influence 3D animation AI-generated imagery and data-driven sound, which you'll hear in another excerpt. As visitors are compelled to inspect landscapes reflected on 3D protein surfaces, their movements manipulate the camera's perspective on a nucleosome model. And each entry into the space triggers an additional sound element that is added to an accumulating ethereal soundscape. For this installation, I collaborated with epigeneticist Hannah Louie Park on new text prompts for landscapes infused with her research on the effects of glyphosate exposure from pesticides on gene expression. And with that last, that last excerpt, you can sort of see how there was a component of emergence in relation to social behavior, where People's interactions and awareness of each other in the space would affect not only how they moved in the space, but also the, experience of sound and the model, and, was particularly entertaining to watch with the last two Probably siblings pushing each other around in the space. So… My most recent work has been engaged in biological computing and emerging machine learning technologies. And Cryptic Lineages is an expansive body of work that premiered at the Museum of the Moving Image with a multimedia performance screening that included AI-generated video, recorded narration, live vocalizations, and choreographed movements. Using a biocomputing technology called physical reservoir computing as a conceptual scaffold. Cryptic Lineages delves into the use of organic systems to perform machine learning tasks. Drawing upon real scientific experiments using water, bacteria, strawberry plants, and living tissue to process information, the work interrogates the increasingly porous boundaries between the computational and the organic. Shifting properties such as the metabolic activity of bacteria, or changes in the behavior of water under pressure, are treated as computational inputs in reservoir computing. Natural responses to external stimuli are used as data streams for modeling, prediction, or classification. And research for the project included remote meetings with scientists over Zoom who were creating physical reservoir computers with a number of organic systems. I'll play an excerpt of the performance and talk about the project a little more. to the unknown. Prepare to take a deep breath. As you slip beneath the surface into a wastewater reservoir holding yesterday's amusements, your skin tingles with the ripples forming around you. A symphony of ions, mapping the memory of flow. How many more dissolved salts and conductivity? Organic matter kisses your lips. Sour and metallic at the edges. Alive with bacteria rehearsing their next move. Hormones flickering like static. Fear and flavor, mixing with the taste of caffeine in the back of your throat. You are becoming aware that this particular chaos Is marking your passing like a bell? Frayed strands. Gathering in indiscriminate waters. Maybe human. Maybe rat, cat, bat. Pangolin, raccoon. Perhaps a reservoir species we have not yet imagined. Biological phenomenon. Computational. Cryptic lineages. Where input and output… The work confronts the socio-political complexities of harnessing the intrinsic processes of dynamical systems to predict changes, forecast events, or detect anomalous behavior while exploring themes of energy, waste, labor, and the instrumentalization of bodies. I think as a whole, all of these projects and the collaborations offer poetic reflections on how our cultural constructions of nature and the individual might shape or be reshaped by the future of computing. And meaningful critical dialogues among artists and scientists can offer a unique possibility for understanding entanglements of science in our everyday surroundings and within our own bodies. Thank you so much, and I'd like to thank my project supporters, and I'll also be sharing some links in the chat, if you would like to view the videos in full, they're all on Vimeo, and You can see more information about all the projects on my website. Excuse me.
+
+## Heidi Boisvert [21:41](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1301s)
+
+Okay, thank you, Laura, for kicking us off. It's amazing to see all of the work.
+
+## Laura Splan [21:46](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1306s)
+
+my share for me, for some reason, it won't let me.
+
+## Heidi Boisvert [21:49](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1309s)
+
+That you were.
+
+## Laura Splan [21:51](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1311s)
+
+You can stop my share, I can't… for some reason, I'm not able to stop it.
+
+## Heidi Boisvert [21:56](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1316s)
+
+Okay. I think, Colin, you might have to do that.
+
+## Laura Splan [22:01](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1321s)
+
+Yeah.
+
+## Heidi Boisvert [22:03](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1323s)
+
+Because you're the host.
+
+## Colin Goldberg [22:04](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1324s)
+
+Yeah, let's see…
+
+## Heidi Boisvert [22:06](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1326s)
+
+I think if who shares hers next, it'll probably just replace it.
+
+## Laura Splan [22:12](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1332s)
+
+I don't know why it's not letting us know.
+
+## Colin Goldberg [22:14](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1334s)
+
+bet. I don't know if that works. stop video. Did that…
+
+## Laura Splan [22:19](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1339s)
+
+I got it, I found it.
+
+## Colin Goldberg [22:20](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1340s)
+
+Okay.
+
+## Heidi Boisvert [22:22](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1342s)
+
+Sorry. Great. Thank you, Laura. That was, so rich, so many questions, and it was also really beautiful to see all the work, together, you know, the relationship between the work, which I haven't seen in a long time.
+
+## Laura Splan [22:38](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1358s)
+
+And then I… for some reason, I'm not… I think I'm not able to share my video because you might have stopped it, Colin.
+
+## Colin Goldberg [22:44](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1364s)
+
+What happened there?
+
+## Laura Splan [22:51](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1371s)
+
+I'm here.
+
+## Colin Goldberg [22:53](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1373s)
+
+Alright, let me see if I can… I'm not seeing you in the lineup, but…
+
+## Heidi Boisvert [22:58](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1378s)
+
+I'm gonna move forward, while you guys figure that out, just to introduce Sue, who's up next. So Sue Wong is a new media artist, whose work examines collective experience, ecological intimacy, and speculative futures. She is a 2025 through 2026 Rutgers New Brunswick Laureate for Bodies of Flora, a project exploring botanical loss and social memory. Wong has exhibited nationally. And internationally, at MOCA, Los Angeles Contemporary Arts Center, Cincinnati, Philadelphia Contemporary. Isaiah in Montreal, and Electronica in Linz, among others. Her residencies include Leonardo at Girasi, LMCC, New Ink, and the studio at Mass Mocha. Wong holds I don't know… oh, you can hear me, correct? Wong holds an MFA in Media Arts from UCLA, and a BS in Science, Technology, and International Affairs from Georgetown University. She is an Assistant Professor of Art and Design at Rutgers University in New Brunswick. Sue, are you ready for us?
+
+## Sue Huang [24:12](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1452s)
+
+I am ready.
+
+## Heidi Boisvert [24:14](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1454s)
+
+Great, great.
+
+## Sue Huang [24:15](https://www.youtube.com/watch?v=VxS9DBtseCE&t=1455s)
+
+Hello, everyone, thanks for the introduction, Heidi. So I'm gonna, I'm gonna share a screen here. Let's see… There you go. Oh, is this gonna bring me… oops. Everybody close their eyes for a second? Okay. So I, so, hello, everyone. So, my talk today is going to be, about ecological intimacies of the second body, and as Heidi mentioned, I teach at Rutgers in the Department of Art and Design, and, my work focuses on… Intimacies, ecological intimacies, also, like, thinking a lot about language and, also more recently about, AI and the body, which is what I want to talk about with all of you today. I'm also going to be today introducing, for the first time to a public audience, some of the research, that I'm engaging with in my laureate project, so I'm excited to be able to share some of the outcomes. We are, like, halfway through the year now, with that. And before I get into that, though, I want to talk a little bit about some of the research that led me to the laureate proposal and project. And some of that starts with, actually New Ink, where I met, all of my, colleagues here. And I had, at that time, been working on a project called, Erotic Ecologies. And the project, what you're seeing here is a kind of prototype of, Some imagery, mixing together images from the, Smithsonian Field Book Archives and Internet Erotica Film. The project was examining, ecological loss, by thinking about how we talk about ecology, using language. And so I started examining different ways in which we have recorded, information about, our ecological histories, and that led me to the Smithsonian Field Book Archives, which is a very large archive of scientific field books, which exist at the Smithsonian Institution Archives, which has been, they've been digitizing for a very long time now. I think they may be up at, you know, upwards of thousands of books at this point. At the time when I did this project, they were at around, 700. books digitized. And I was looking at these PDFs, and I was, like, really interested in this kind of, like, long history of language. In which scientists were using to kind of, like, examine our… our, you know, ecological histories, documenting the landscapes and the species. And it was ranging all the way from the mid-1800s to the late 1900s. So I scraped all of this language from the PDFs, and, parsed out the noun phrases, and I mixed this together, some of this language here. I mixed it together with, internet erotica, that is amateur written erotica from, you know, kind of like literotica, like, written by people on the internet. And what I was thinking about here was, you know, are there ways to kind of examine, You know, juxtapose, our scientific language about ecology, our ecological histories, with something different which can allow us to access some other kind of memory, or some other kind of, like, relationship, to, other beings. And, what I generated from that was these. you know, different kinds of phrases, so I'll read one here. They moved like a mountain, tugging at my Shanghai beach bed, and setting off my prairie rams with their steamy vegetations. So, what I ended up here with was, a kind of, like, erotic sentence, or, like, erotic, phrases, that were really not talking about the human body, but rather about the ecological body, or the broader ecological body, using this language from the Smithsonian Field Book Archives. So, after, you know, I generated all of this language, which was quite a significant amount of language, which could be kind of endlessly generated, on this, specific data set, I, thought, well, what am I going to do with this language? And I decided to treat it kind of like clay, like a kind of material that I could, like, maybe shape or, like, sculpt into different things. And I did make this, like, piece, which I'll just talk about very briefly, called Desert Center USA, which was an automated phone piece, where you could call this phone number, and it would bring you into this automated phone system, and you could click through it and hear, the different, kind of phrases read to you. This kind of, like, soft, erotic poetry. It kind of called back to. Maybe kind of like phone sex lines, but also it's really about ecology and thinking about how you could hear, this kind of historic language in, like, a different way. And so you can see here a little bit of the kind of, like, entry menu into the automated phone system, which would, which would allow you to press 1 for mountains, or if you wanted to hear about deepish waters, you could press 2, or if you wanted to hear about pinkish caterpillars, press 4, and so on and so forth. And then I decided, well, okay, I want to do something else with this language, and I, started exploring, the idea of doing a kind of speculative narrative, and I developed this science fiction piece called, Total Archive, which was based on a found government document, from the future. And the government document was written by an intern who, was working in a government office in the Natural History Museum, and, she was down in the storage archives working. And through this document, you kind of discover a whole ecological history of the world up until that point. And you discover things like, that she doesn't recognize all of these objects that she's being asked to catalog. And she, and you realize that there's been a kind of, like, cataclysmic, memory loss, amongst humans, where they've started to forget all of these different, Beings or objects in our world. And, that leads her into a formaldehyde jar, where she, goes into a kind of hallucinatory state, where you hear the same, erotic ecological language that I was just mentioning. I presented this piece at the MoMA Titus theater, as part of the BDC Summit, last summer, as a kind of live reading, accompanied by video and sound. So I'm gonna show just a short clip from that. In the scene, I'm gonna show… I'm gonna show two scenes. I'm gonna show first the scene where, She is describing the processes for categorizing all of the objects. And then I'll show a short scene from the hallucination. Methodologies. Each small object in the museum's collections is housed, According to its physical characteristics. Affixed to a sheet of archival paper, if sufficiently flat and stable. Wrapped in a paper envelope, if three-dimensional or fragmented. Placed into a box, if bulky or irregular in shape. Placed in a jar of chemical solution. Storage. Each specimen in the museum's holdings is tagged with a standardized label that includes a unique identifier and essential collection information. The labels in the UEL collection lacked data for most categories. I worked to complete each one to the best of my ability, relying on observation and reference materials. As an example, the label for one UEO that I worked on read, catalog number 1211. Unassigned. Collected by unknown. Date. Unknown. Locality. Identified by Unverified. Measurements. Not recorded. Notes. None available. Under measurements, I added the remarks. 15 centimeters in diameter by 1 centimeter thick. Under notes, I added the remarks. A star-shaped form. With 5 elongated appendages. The surface has a rough sandpaper-like texture. Coloration includes cream speckling. Okay, I'm gonna pause it there, just because I want to show a little bit of the hallucination scene. So, she ends up going into, she sniffs this botanical seed, and ends up going into a hallucinatory state, ends up inside of a formaldehyde jar where she's swimming around, and she hears this text here. The voice seemed to come from a wet storage jar sitting on the counter. I transcribed the words as I heard them. I don't know how. But you're dreaming me. You're playing with your Yukons on my small fish. As you lay between my abundant past blooms, over you. Skin to skin. Fusing you with my willow basins. You look up at me. And we kiss. I am the pale gray dawn, slipping into your cloud. My fresh brieise is so sweet. It pulls you into the brackish lagoon of my black sandpiece. I bite into your fine insects and watch you laugh. As a heavy rain moves down your wild meadowland to the top of a small sand dollar. Okay, well, I'm just gonna pause right here on the scene to talk a little bit about the 3D models here. And the 3D models I collected from different research and science labs from around the country, when I was building out the scene, you know, I was like, well, you know, like, a lot of… I discovered all these labs were starting to 3D scan different objects. And I was, and the reason I talk about this is because it leads directly into my next project, which is I became kind of curious about, you know, what the scientists were, you know, trying to achieve with these 3D scans, and I talked to some of them, and they were like, well, we're 3D scanning them. Some of them, they were like, well, we're just scanning them, we're not sure yet exactly what we're going to do with them. We're just scanning things to kind of document them. And I started thinking about this kind of, like, idea of memory, and thinking about, like, well, what are we doing with all of these, memories that we are kind of archiving or documenting. And, this brings me back… I'm gonna step back a little bit here, which is that when I was doing the research for that project, I was also… it led me into, looking into, ecological loss and extinction. And one of the things I came across in my research was this plant called Silphium, which is a botanical that went extinct about 2,000 years ago in… with the ancient Greeks, and Silphium is also one of the first documented extinctions in written human history. And I… I… one of the first things I did with it was I took the written description of it, because it was documented in Theophrastus' Inquiry into plants, in Pliny the Alder's Historia Naturalis, where it's described. And I took these descriptions, and I put it into an AI, and I wanted to see what it… what did it look like based on these descriptions. And I got this. And I was like, well, that's kind of interesting, because we have no idea, really, what it looked like. It's a plant that's disappeared, but we have a description of it. And so I tried to do a little reconstruction of it in clay, and I thought it was kind of like an interesting exercise. So I wrote up a proposal based around this idea, which became my project Bodies of Flora. Which I'll show really quickly here. Bodies of Flora is my Rutgers laureate project. I'm working together with the Chrysler Herbarium, on this project, and the original proposal for the project was to examine what it meant, to, lose the bodies of plants which go extinct. And specifically here, we're examining the, the native flora of New Jersey, and, plants in New Jersey that are either endangered or have gone extinct. And… The idea here was to take the morphological descriptions of the plants, that is, the text descriptions of the plants from the science archives. to resurrect the bodies of these plants, and to examine what does it mean to be able to see the body of this plant again, and how can we use that resurrection to, bring the plant back into the cultural consciousness. So it's examining extinction from two sides. One is that there is a biological side to extinction in which the body disappears, and that there is also a kind of cultural extinction in in which the memory of a being disappears, and that is, like, what we're curious about here is what can we do to, resurrect or bring those memories back into the fold. So I'm working here with Lena Strui, who's a plant biologist at Rutgers, and, I've been examining these monographs or morphological descriptions of the plants in the archives. And also the holotypes, that is the, pressed specimens of the plants. There's an example here on the left of Elodia Schwinitzi, which is a, a plant which went extinct. Maybe it was last seen in the, like, late 1800s, around the Delaware and Raritan Canal. And I started out by, you know, first generating some 2D images from the morphological descriptions. And then generating 3D models from these. This is one example of a 3D model generated from the morphological description. Here, is also a wireframe of Swamp Pink, a plant which is, like, highly endangered, only exists in a few patches now in New Jersey. And so very few people have seen it. And we are making a few things out of this, research. One of them is, This, image of… Sorry, this image is from our web archive, which we're building out, which is a kind of, like, web documentation of both the primary source material and also the speculative plants which we're generating from the morphological descriptions. And one… One of the things I've been playing with is taking these models. And here you can see, an image that we're making cyanotypes from these models. This was, like, an early prototype cyanotype from the 3D model. And cyanotypes are tightly tied to the history of botanical, of botanical documentation. So I was interested in hearing kind of, like, juxtaposing this, like, speculative plant with this kind of historical medium. For botanical, exploration. And we are also exploring here, kind of an early prototype for, hand-making the paper out of mugwort, which is an invasive species, a weed in New Jersey. So this is a handmade paper with The, speculative, plant, printed onto it, as a cyanotype. And we'll be doing these as, like, larger form, pieces, and I'm interested in hearing, kind of, like, the juxtaposition of the two forms, both into, like, one, print that tells a kind of, like, narrative history of these, of, New Jersey's ecological history. And then, I'm working also on this, like, current video essay, which is what I'll end on here. Do I have enough time to show the whole thing, Heidi? It's about 4 minutes.
+
+## Heidi Boisvert [41:48](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2508s)
+
+Well, we have about 40 minutes left, so maybe just show a portion of it, if that's okay.
+
+## Sue Huang [41:54](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2514s)
+
+Okay, I'll show a short clip here. When I started this project in the summer of 2025, I thought I would spend most of my time sorting through archives in the basement of the Biological Sciences Building. In the Chrysler Herbarium, surrounded by the flattened bodies of plants. But as I looked deeper into their histories. The line between past and present blurred. Even a dead plant does not wholly live in the tomb of a cabinet. It lives in half-truths, half-fictions. It is steeped in mystery. Mystery 1. I began tracking the history of Elodia Schwinitzy, or Schweinitzy's waterweed. A plant said to have gone extinct in the 1800s, or perhaps the 1900s. No one really knows. According to the archives, it was last seen in 1832. Recorded as a specimen collected by Louis David von Schweinitz in Bethlehem, Pennsylvania, in pools and streams that would later be reshaped by the construction of the Delaware and Raritan Canal. Through my work in the herbarium, I learned of the word holotype, a single specimen defining a newly described species. It serves as the name-bearing reference for future comparisons. I like this word, holotype. It reminds me of Hologram. A virtual image of a whole object, suspended in three dimensions. Like holotype. Hologram feels futuristic, yet antique. Tying together eras. One foot in the age of talking robots. The other in the realm of a Victorian curiosity cabinet. I will stop there, and yeah, I look forward to talking more about, these projects together in the Q&A. Thank you.
+
+## Heidi Boisvert [44:24](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2664s)
+
+Thank you so much. I also love that you tied in the earlier work to help us understand your underlying psychic structures. Alright. Gal, you ready to go?
+
+## Gal Nissim [44:36](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2676s)
+
+Yeah, I'm ready, and let me just…
+
+## Heidi Boisvert [44:39](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2679s)
+
+throw you. So Gal Nissim is a New York-based interdisciplinary artist and researcher investigating human and animal interactions. Nissum creates interactive works, often involving living organisms that explore complex scientific themes, using sound, video, sculpture, installation, and humor. She aims to help people rebuild our relationship with the living world. Nissum's work has been exhibited at the New Museum, Tel Aviv Museum of Art, Times Square, Pioneer Works, Central Park, New York Hall of Science, Artport Tel Aviv in Public Space. Science Gallery Detroit, and G-Streamer Conference in Berlin, among others. Nissan was awarded the Young Artist Award in 2022 by the Israel Ministry of Culture, Lower Manhattan Cultural Council LMCC Culture and Animals Foundation, and the Wiseman Institute for Science for Outstanding Young Researchers.
+
+## Gal Nissim [45:40](https://www.youtube.com/watch?v=VxS9DBtseCE&t=2740s)
+
+Thank you so much, Heidi. So, let me just share my screen. Can everyone see? Perfect. And I'm currently at my studio at Wave Hill. I'm not sure if folks are familiar with Wave Hill. It's a really beautiful space in the Bronx, kind of like a private botanical garden, and they have an artist residency, and I'm currently doing that. So you can see, this is where I'm at. So I wanted to kind of introduce some of the previous work and also share some work that I've been working and developing currently. So, as Heidi mentioned, I'm an artist and a researcher, and before moving to New York, I studied both a cognitive science and biology, including studying art, and I studied, like, multi-species from humans to bats. And technology is something that is very prominent in my work as well. So, while technology has often been used to shield us from nature, I use to reconnect people. Sorry, I use it to reconnect people to nature, and trying to enhance the feeling of being present. And the main goal of a lot of the questions that I'm asking is To try to make the audience reevaluate our responsibility as a dominant species, and reevaluate preconceptions that we have Towards the natural world, the more than human world, and specifically the animals. So, the first project I wanted to share with you is called the Synnthrobe Preserve. And I do a lot of those immersive, very participatory experiences, and the reason why is that I'm trying to create intimate experiences of discovery and engagement with broad audiences to create spaces for examination and rethinking. So, using a lot of cognitive aspects and kind of, like, cognitive tricks around that, spending a lot of time with the work as well. So this is a series of augmented experiences, audio walks, augmented reality walks, that explore urban wildlife, specifically. And currently, there are three walks or experiences in New York City. Each walk highlights a different synthropic animal, and you might ask yourself, what are synthropic animals? So, you can see some heroes here, some examples. These are animals that thrive next to us. They're non-domesticated animals, but they are known by scientists to be more Some of them cannot, like rats, cannot be found unless they're in a proximity… some proximity to a people, and some are more… count as more successful than their, rural cousins, in some ways, like raccoons, Pigeons are feral, so each walk is focused on a different synthropic animal and tells this story, and it's also very, very site-specific, so it weaves in ecological aspects of this space as well. And these are self-guided experiences. Even though they're events, everything is embedded in a web app that guides you through, and during the walk, it's designed in a way that you encounter these animals. a… there's a lot… there's a… there are two other chapters in Tel Aviv. This one is called A Golden House, and it's augmented reality, a walk at Yarkon Park, and it focuses on the Golden Jackals. So, this one has an augmented reality component. And the participants are walking in the footsteps of jackals and their cubs, and they also… there's a new element that started here that kind of, like, is something that I do a lot with my work right now, and these are mythologies, and how ancient knowledge is being weaved in. So a lot of the stories are also incorporate Anubis, who is the Jekyll god, and I wanted to kind of, like, share, because probably most of you don't know this park, but just to kind of, like, give you a sense of how centric it is. So, even though jackals are very similar to coyotes in their size, and you see that this park is surrounded with residential, so people would encounter them in their trash can rooms, or a… I have a friend who sent me a picture of a jackal waiting on her next to her door. So, and of course, people take their dogs there, so there are a lot of interactions with the jackals there. And that creates that tension. And this piece was… had a performative aspect, so we had Rangers, and it was supported by Artport. which is a great organization based in Tel Aviv, and people would get these maps that had more information. Of course, you didn't need the map to navigate the walk, but it had poetry around each chapter, so there were 7 chapters in total, and each chapter started With an augmented reality in animation. And each, animation was very, very site-specific. And I wanted to share with you this image here. So, the animations were inspired by the Egyptian mythology, particularly, and there were two reasons for that. The first reason, I do a lot of research. When I go to that space, I talk to researchers, ecologists, but also I discovered in the archives of the that they had found, the archaeological archives, that they found an ancient Egyptian tomb in the park that had these amulets, that, represent a heart. So, kind of, that inspired the whole thing about the mythologies, but also the way the Egyptians saw jackals. They saw them taking the bodies after they buried them and eating them, and they channeled that fear and created, like, many jackal gods that were perceived in a very positive aspect, so it's very, very different from how a contemporary fear is being translated, and I wanted to kind of, like, bring that in. and show you, like, a very short video describing the interaction. So you would scan with your phone a… this… a golden pluck, and it had all… all the plucks had a very specific, real hieroglyphic. So this is a hand, a kind of, like, serving a cheek, and it's telling the story of how in the 60s, there was an extensive poisoning campaign by the Israeli government, because there was a lot of fear of rabies, and they kind of were able to exterminate The majority of the population, and this is the jackals telling that story. Sorry? Methite Mahalo. species. seafood. And it was also very important for me that the audience would The augmented reality is not competing with the animals that inhabit that space, and the walks would be done either in sunrise or sunset, which is when the jackals are very visible, and As part of… and of course, part of the research was to identify these hot spots of where they're burying, where they live, which is not very hard to see once you get to know them. And I wanted to share with you this. So this is part of the walk as well, and you would… it looks like this very remote place, but it's a birdwatching center, and they… They have their cubs, and it's kind of… it looks almost like a nursery, so the caregivers, they work at groups, and some are just their older siblings that are watching them. And making sure they're not doing anything. too dangerous. Mmm… Another… the second chapter that I mentioned, from the Center Preserve that is in Tel Aviv, it was shown at the Tel Aviv Museum, and is called Helm of Hades. And I was looking at the museum as a living body, and how it has its own microbiome, and the conflict that museum has as a place for visitors to experience, but also So, needing to keep it sterile all the time, like the no-touching element. And it was part of a very special exhibition that went back to the origins of the name museums, coming from the muses. And how fine art was not even count as elevated enough to be count as part of the muses, and the curator invited me to create this piece, and the show had no objects at all. It was only bodies in space, so… And it also inspired the name Helm of Hades. The story tells about this helmet that whoever wears it becomes invisible. So that was a way of talking about microbes that inhabit this space. We feel them, we feel their effect, but we can't see them. And I wanted to show you, like, a very short, video. That describes the work. Moler. be botan. Lower Chaman reg got a note. krin. Manchillo. A vous, qui remittance Ferzes. Uchmandata. La minim shayna. So as you can see, the exploration of mythologies is something that is important in my recent work, and I continued that in this work particularly. This is a time-based sculpture co-created with wild birds, so as they eat the seeds, they reveal a secondary sculpture underneath, and like, mythology… to kind of, like, re-think about these mythologies, when I think about art and science, I also think about who owns knowledge and how knowledge is being valued, and not all knowledge is equally acknowledged. Some is celebrated, while other forms are overlooked, and it's very common when we think about Indigenous knowledge in a powerful example for that imbalance. And when I try to consider mythologies, that brings me to my current projects that I'm working on, and I wanted to share with you, and how, like. what was really interesting for me is thinking about how our ancestors came with these stories by looking and observing the natural world and having this really intimate connection, that oftentimes when we live in cities, it's something that… it feels much more remote and harder to… to do. We kind of, like, are shielding ourselves in this very comfortable situation, so not dismissing it, and all these rituals and crafts were coming from these interactions. So, thinking about those things as well. So, this piece is called Revelation, and it was developed as a part of the residency that I did in the Everglades, which was very extreme. I… you can see this, a crocodile… I was very, very close to her, and didn't have a zoom lens when I filmed her, and she was kind of absorbing the sun, preparing herself for the day. So, I was very intrigued by these animals that are very… they have this mythological aspect to them, and the Everglades is one of… it's the only place they say, in the world that has both crocodiles and alligators, and it made me go back to the Bible and the origins… the original stories of Genesis, and apparently there's one word for both, it's called taninim. And it's the first animal that appears in the Bible, and the reason is because there's a Babylonian mythology that kind of, like, inspired the Genesis story. And I was also very intrigued by how this is a spectrum. Crocodiles or alligators in the Bible are… can be, like, describing snakes, alligators, serpents, dragons even. And I was also looking at a… how these creatures are very, very fragile. So what you see here, these are baby alligators, and Alligators are keystone species, and they were endangered at one point, and then with policy making, they were able to bring back these populations back, and I was pregnant at the time, and thinking about these mothers that are expecting or nurturing, and talking to scientists, telling me that there's no textbook of motherhood. Which failed to vary a on point at that time, in how each individual has their own methodology or agenda for mothering. And that created that, like, inspired this a video sculpture installation that was exhibited at the Clemente in the Lower East Side this year, and is, as I mentioned, rooted in biblical and ancient myths, and it reimagines crocodiles as both sacred and feared, and explores motherhood across species and focuses on stories of genesis. So, I was really intrigued by the book of Revelation, John's vision in the book of Revelation, and how Revelation had this, like, dual meaning of both apocalypse and Revelation. And the wallpaper that you see behind the sculpture was reimagined… the reimagined Babylonian Genesis story that had this a female crocodilian goddess that… from her upper body, the sky were created, and from her lower body, the earth was created, and the sea. And it was… I was reimagining that through conversations with AI, and then formed this wallpaper in collaboration, and had… Kind of like both the beginning and the end in this installation, and it had this cyclical-y feel to it. And the last, very quickly, I'm gonna talk about… the last project is called Invasive Thoughts, so this is a current project that I'm working on. Also, I was invited to come back to the Everglades for an alumni residency this May, and I joined a python hunters, that's what you see here. She's holding a python, a Burmese python, and there's a lot of Complexities around that species, and they count as invasives. And you can see her holding a python here as well. So, this is a… it weaves together interviews with conservationists, biologists, reptile hobbyists, hunters, and animal welfare scientists. And the work invites viewers to consider the idea of violence as an act of care, and how we use language to justify drastic measures, such as calling pythons to protect native species, and what I'm interested in the most is how, mythology affects scientific biases, so these creatures are really majestic, they're really beautiful, and they have, like, a lot of room in mythologies all across cultures as well. So, this is a… a really beautiful python that I encounter. She's called Big Mama, so it also has this… I'm keeping exploring the motherhood aspect in this project as well. And just to give you, like, a sense, she's 16 and a half feet long, and you have to have at least 4 people handling her, otherwise it's life-threatening, and it was beautiful to see how this scientist. love her and appreciate her, but also she was supposed to be killed, because they didn't think she would lay, but she did perform for the research. So they decided to keep her, and she became, like, her status kind of rose, and became… she became everyone's favorite, that's what they said. So, these tensions and a love and hate relationship were really inspiring. Thank you, everyone, and… These are my contacts, and I would love to stay in touch if anyone is interested. I'll paste it in the chat as well.
+
+## Heidi Boisvert [01:05:47](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3947s)
+
+Thank you, y'all. It's great to see the early work that I've actually never seen before, to understand the connective tissue. I guess the other thing about this, it's going to be a multi-channel video installation you're working on, right?
+
+## Gal Nissim [01:05:59](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3959s)
+
+Yeah, let's say Heidi saw the process we were addressing together this summer, and it was a huge help in conceptualizing a lot of the work.
+
+## Heidi Boisvert [01:06:11](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3971s)
+
+All right, so we have our last presenter. I don't know if we're going to have time for a Q&A. I guess we'll open that up to the audience. So, Janet, are you still with us?
+
+## Janet Biggs [01:06:20](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3980s)
+
+I am. Great.
+
+## Heidi Boisvert [01:06:22](https://www.youtube.com/watch?v=VxS9DBtseCE&t=3982s)
+
+Alright, so Janet Biggs is a research-based interdisciplinary artist known for immersive work in video, sound, and performance. whose work focuses on individuals in extreme landscapes and situations, navigating the territory between art, science, and technology. Biggs has worked with institutions such as NOAA, NASA, and CERN, pretty much all the big ones. Her work was… has garnered support from organizations such as the Guggenheim Foundation and the National Endowment for the Arts. And she's had recognition from the New York Times, Art Forum, and Art News. Her work has been exhibited and collected at museums and institutions worldwide. Biggs is also a member of the Explorers Club, and works with Kristen Tierney Tierney Gallery here in New York. Well, I'm not in New York, I'm actually in Florida right now. Analytics Forever, as well, in Geneva, Switzerland, and cornersmith in, Washington, D.C, so… Can't wait to see what you've been up to lately.
+
+## Janet Biggs [01:07:25](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4045s)
+
+Let's… let's see what I'm. Not too lately. I'm just gonna check… we are good there, and here. And here, I'm just gonna give you actually a little bit of a visual to back up, that lovely introduction that Heidi just gave me. I am… and I'm also really excited to be back with the cohort and presenting, in this context. So, I'm an interdisciplinary artist. I work primarily in video installation, some performance, and sound. In the course of making my work, it's taken me all over the planet, so to both polar regions, inside of active volcanoes in Indonesia and Ethiopia, to the desert of western China, the Taklamakan Desert, which is a growing desert. Into areas of conflict in the Horn of Africa and to Mars, or at least as close as one can get these days, as a member of a Mars simulation, with the Mars Desert Research Station. I'll talk a little bit more about that soon. My installations generally look like this going up, so large-scale screens that are synchronized with spatialized sound, and like this once they are up and running. I have learned some new skills throughout the course of the production of my work, how to film in a kayak backwards with a polar bear over my shoulder. How to sit on a camel with a camera facing forward, sideways, and backwards, and how to film inside of a spacesuit. I have had an incredible honor of working with NOAA and NASA and CERN, the Hadron Collider. I've worked with a wide range of individuals, from Yemeni refugees in Djibouti to an ice expert and Arctic explorer. To, bioresearchers and, to astrophysicists and astroengineers and a robot named Shimon. And in 2020, I was able to send a project up to the International Space Station as part of MIT Media Lab's Space Exploration Initiative. I'm just gonna talk about a couple projects. So, back to Mars. I… after 3 years of attempting, I became a crew member of a simulation crew at the Mars Desert Research Station. And these are international crews that are brought together of scientists and engineers to conduct research on Earth in the hopes of one day doing the same thing on Mars, and they're extremely competitive. It was not easy to convince them that an artist should be part of that crew. After I was there and in simulation for a number of weeks, I came out with this footage, and I thought, I want to do something immersive for an audience, and I need sound. Not just the inherent sound of what I film, but perhaps other sound. And so I reached out to my friend Shimon Robot, who is actually at, Georgia Tech and was developed by Gil Weinberg, and Shimon has, generative AI, and the data set is essentially, like, the wealth of music history. And so Shimon has aural input and can hear what other musicians are playing, and Shimon improvises. On what they're playing, and when I spoke to Gil Weinberg about Shimon, I said, is… can this robot watch my video and compose a score and play it? And he said, yeah, not yet. So, we spent the next year working collaboratively, and working for visual recognition development in the robot, and then eventually Shimon did, in fact, compose a score for my video and play it. And because it's gen… Shimon is generative, every time Shimon would play the score, it would change slightly, so it was a bit of a challenge to sort of, you know, keep… keep Shimon in wraps, and and… and the work… so working with Gil and Georgia Tech, through that process, I also met an individual, Jason Barnes, and Jason is a drummer who lost his arm in a workplace accident. I spent… 20 years before I was a self-sustaining artist, as, my day job was making prosthetics, so I have a background in, in… this technology, and Jason, after he lost his arm, went to Gil. and said, can you help me with a prosthesis? And so Gil developed this prosthesis in collaboration, where one stick is controlled by Jason, and the other stick has generative AI and can hear what I'm sorry, not generative AI, just AI, and can hear what Jason is playing and improvise off of Jason. So Jason is now a self-described cybernetic drummer, and can drum at speeds that exceed human capability. And here's a little clip from some of the work we did together. So, one of the things that I found in my life is that not only do projects develop and sort of collide with the next project, or at least, inspire the next project, but individuals, collaborations, do the same thing. And so, when I was working with Gil Weinberg, I met his PhD candidate, Richard Savory. Richard has now gone on to, leave, get his PhD and move on, and… I had an idea for a project, and I reached out to Richard, and my idea was I wanted to create an AI entity that was based on my aunt. I was the guardian for my aunt for the last 10 years of her life. She was autistic, obsessive-compulsive, and non-speaking. And, she had passed away many years before, and I wanted to make this AI entity as a way to advocate for a larger diversity in the development of this technology, especially neurodiversity, inclusion, and So Richard and I made this… AI entity, which is disembodied, and the entity is, is genitive, is… was built with prosody, so the language of poetry. The entity can hear emotion and respond with emotion in real time. And this is my aunt and a bit of the code that we started out with. We developed the, database by using a friend of mine, Mary Esther Carter, who's an incredible musician, singer, composer, using her vocals inside of… we recorded her in an anechoic chamber at Nokia Belt Labs. The first time AIN performed was at the new museum, and it was really a pretty traditional Presidium presentation with some other musicians that, excuse me, that helped support the project. And then COVID shutdown happened, and this project was just kind of feeling like it had real resonance. And so the next time AIM performed, it was under the New York… it was livestreamed under the New York 2020 shutdown guidelines. And so, Mary Esther Carter… actually, I went into a space and set up technology, a sound engineer, I left, a sound engineer went in, set up his technology. And then Mary went in after we cleaned each time and performed, so that all the technology was run remotely, and essentially I directed from my kitchen. And here's a quick clip from that. So, AAN has gone on to perform at a lot of different, situations and venues. This is at the United Nations headquarters in New York City on the first International Day of Care and Support. And most recently, AIN performed at Jude de Pomme, which is a museum in Paris, and I'm gonna show… play a little clip. There were 3 human, human… collaborators with AIN, and just to give you an idea of how much the generative nature has, has come, to fruition in AIN's development. So I'm just very briefly gonna say that my experience, especially with art and science collaborations, early… early on at least, felt more like a kind of vampiring. That I would be interested in a science, scientist, or some area of science. And I would track someone down, potentially stalk them, and go, you know, just suck up all their information, go back to my studio and make a piece. And it really lacked any kind of responsibility to their research, to the potential, and it absolutely did not create a new method of knowledge production. That changed for me in a really profound way, again in 2020, because of a collaboration that was generated by the Spencer Museum of Art, their Arts Integrated Research Initiative that brought me together with a high-energy nuclear physicist from CERN, Daniel Tapia Takaki, and a computational mathematician, Agnieska Midlar. And because we couldn't do the traditional thing. We were funded for a year, we were supposed to come together, go to CERN, make a work, and have a museum exhibition. But, you know, we were shut down, and so we talked… every week for a couple of hours for about a year and a half before you even met each other. And what that did is it developed trust, and it developed a shared language, which was really essential. We moved from being a collaboration to a collective. We knew that it was essential that the work was generative of each other, but have real substance for each one of us in our fields. So we made a couple of museum exhibitions, but we also, we wrote, collectively wrote an article for Siam, a leading mathematics journal. We produced, papers for snow Conference of International Physicists, and we continue to produce, and most recently, produced another museum exhibition at the Becker Museum of Art. And so, I am looking forward to hopefully a few minutes of talking together. So, let's, let's… do we have time for conversation?
+
+## Heidi Boisvert [01:21:31](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4891s)
+
+I'm not sure. I mean, if you want to wrap up, did you have one more project you wanted to share? And then I think.
+
+## Janet Biggs [01:21:36](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4896s)
+
+on the webinar.
+
+## Heidi Boisvert [01:21:36](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4896s)
+
+Probably… no, you're good? Okay.
+
+## Janet Biggs [01:21:38](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4898s)
+
+I am good, I am good.
+
+## Heidi Boisvert [01:21:39](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4899s)
+
+Okay, great, great.
+
+## Colin Goldberg [01:21:43](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4903s)
+
+I mean, if you guys, Heidi, if you want to, you know, extend it for a little bit, I'm totally fine with that. You know, there's no real hard and fast, time limit, and it would be great to have a little bit of discourse between the participants.
+
+## Heidi Boisvert [01:22:00](https://www.youtube.com/watch?v=VxS9DBtseCE&t=4920s)
+
+Okay, great. Is everybody able to stay for a few minutes? And I also don't know if there are questions from the audience. I mean, I can kick off one question if that is, to get us started. I have had about 10, so maybe I kind of start with the… the most crucial one, which I think has been, threaded throughout around knowledge production. And I was hoping also that the questions that I probably sent you maybe helped shape your… your presentation, because I saw some, connections. So, I will, kick it off, one question, and then I'll open it up to the audience to see if they have any questions about the specific works. And this is a question for everyone. Your work kind of collectively functions less as representation and more as what I was observing as, like, research instrument. How do you understand what kind of knowledge your work produces? And then, you know, what knowledge emerges that can't emerge through academic, scientific, or policy frameworks alone. So, I thought that might at least kind of help thread the main focus of the talk. So, and I appreciate your, sense of ethics, also, Janet, in terms of, like, understanding your process in the past, and then how do you work differently moving forward? And it's actually opposite… often the opposite, where artists are instrumentalized by science to help science communication, so it was interesting to hear that. So, yeah, so the question is, How do you understand what kind of knowledge your work produces that, you know, other fields can't produce?
+
+## Laura Splan [01:23:43](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5023s)
+
+I think for me, that's come out in a couple different ways. One is in direct relationship to the scientists, and… Witnessing how the… any artworks that I create on my own, or that we create together kind of shift their own understanding of their research. in often very delightful ways, where some, you know, Adam and I made weavings together, and he was interacting with the weavings in a very, like, tactile and active and energetic way that I would never interact with what you know, I usually think of as, like, an art object, and and kind of noticing things in his own research that he hadn't… Notice in the same way on a small image on a screen. But the other way is just witnessing how viewers view the artwork, and in an embodied way, And particularly with the interactive installation work, where, the most exciting thing is when you feel like you can kind of get an audience to interact, in an embodied… or in a way that kind of embodies the science that the work is about, or referencing. That there can be kind of a, A certain kind of knowledge production that comes from simply participating or viewing art.
+
+## Heidi Boisvert [01:25:07](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5107s)
+
+Wonderful. Others?
+
+## Janet Biggs [01:25:10](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5110s)
+
+Heidi, I'm gonna just follow up on what you were saying, the kind of inverse of my experience. I have had… also had scientists come to me and ask me if, you know, their idea of an artist is, oh, they can potentially take my very complex scientific, you know, structures, ideas, information, and make it understandable and palatable to a wider audience. And my response has often been, hire a PR firm. I am an equal researcher, and and so I also need to be respected for my ability to create knowledge, and that if we come together, that maybe we can create new forms of that.
+
+## Heidi Boisvert [01:25:54](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5154s)
+
+Wonderful. Girl?
+
+## Gal Nissim [01:25:58](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5158s)
+
+Yeah, I can jump in. I think for me, because I have the scientific language, because of my background, it gave me, like, a way in, but then… It created really interesting philosophical conversations with some folks about life and death, and how do they define that, especially with the invasive management. And to kind of resonate what Laura was saying about the embodiment, I think… having… a participant or an audience being active, and move through a journey of thought, and using sometimes science as kind of like a way of temptation to create trust is something that I often do, is a manipulation. But I think having, like, wider conversations, and also it's something that I feel like is much more necessary to think in a more multidisciplinary and less divided way, especially in the world that we live on… in, so that's kind of, like… where I go with that.
+
+## Heidi Boisvert [01:27:11](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5231s)
+
+knowledge, yeah. Sue, do you want to talk about the… remember the conversation we were having about your encounter with the botanist, and her kind of resistance to, like, new knowledge formation emerging from speculation?
+
+## Sue Huang [01:27:25](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5245s)
+
+Yeah, it's gonna be interesting, because, yeah, when I was working, with the herbarium scientists, there were some interesting conversations that came out of that, because I think there was some, you know, concern on their side about the idea of kind of a speculative plant, and that there might be kind of confusion or, you know, this kind of, like, mixture between, like, fact and fiction was a little bit, you know, like, they were interested, but also a little bit, like, cautious. And, I… and it was interesting for me, also, because the deeper I was going into the research and conversations with scientists, the more I was kind of realizing how slippery the science is, also. You know, that actually, you know, a plant could be extinct, and then it's not extinct, and then it's extinct again, and then it's not extinct when it's found again, and then, you know, a plant may be one species, as you saw in that video. It may be of one species, but then… With some sort of consensus, it may become, you know, part of a different species, or… some people may disagree. And so… so these kind of, like, and it brings me back to an original idea I had when I was starting this all out, which was a discussion with some biologists, is that species are not even real. It's a social construct. So… so… These kinds of things, like, thinking about, like, categorization, like, the ways in which we organize knowledge, and that as a kind of tension with the way the world really is, which is, you know, quite in some ways, like, can be kind of frightening for a lot of people, which is that it's really, you know, a mesh of, of, of slippery, undefined, borders. is a kind of interesting kind of tension point in the conversation, I think, between, like, art and science, or in production, also, because, yeah, maybe I'm a little bit more, like, at least in these conversations, I've been, like, kind of curious about, like, the slipperiness of those borders, and I think, at least in my, you know, conversations, the scientists I've worked with have been, trying to hold that line a little bit in my production. They want to make sure that I'm, like, producing the things that kind of adhere to the standard knowledge. Yeah.
+
+## Heidi Boisvert [01:29:51](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5391s)
+
+Hmm, fascinating. I would love to open it up to the audience, just because I know there were some things in the chat that I couldn't quite follow, and then we'll probably close it out. If there are any questions. Is there an audience left? Okay, Steven.
+
+## Stephen Pare [01:30:13](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5413s)
+
+Yeah, just a quick, comment from my own experience to what Sue was just talking about. I got a degree in biology at one point in my deep, dark past. I just remember, our… my, introductory biology textbook Defining a species as, two individuals can mate together, so…
+
+## Sue Huang [01:30:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5442s)
+
+Hmm.
+
+## Stephen Pare [01:30:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5442s)
+
+Even within those narrow parameters, which don't always work, There's this very animal-centric kind of point of view about that. Doesn't apply to… Most living things, in fact, to most plants and most bacteria. All that sort of thing. We've sort of… Come a long way in a couple of hundred years from that sort of 18th century. Idea, where you can… designate a species, you know, with two Latin words. And, anyway, no question, sorry, just a comment. Sort of part of the bigger, expansion, I think, of our, you know, reduction of our human self-importance, or something like that.
+
+## Heidi Boisvert [01:31:37](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5497s)
+
+Great, thank you. Cynthia, I think I see your hand up, and I saw Judith, I believe,'s hand up also?
+
+## Cynthia DiDonato [01:31:44](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5504s)
+
+Should I speak first, or did… Go ahead. shall I speak first?
+
+## Heidi Boisvert [01:31:51](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5511s)
+
+Yep, sure.
+
+## Cynthia DiDonato [01:31:52](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5512s)
+
+Okay. First of all, I want to thank all of you for the presentations that you have made. Today, science needs to be seen as important in our world as we presently know it. Now, as an educator, I think it's fantastic to see that you are sharing the concept… scientific concepts, but using things that the average person might relate to. I think using erotica. To, explain scientific processes. make it real for people, and I can't say enough about how wonderful that is. And I do appreciate what you've done, all of you. I presently am involved in a science and art collaboration for the second time with a postdoc at Woods Hole. institute? And, involving the albatross and how wind shapes the movement of the albatross through dynamic saw… sawing. And I love the fact that I've gotten some ideas from you, for my own project. So, I can't say enough. I would also mention that Karen Leflur and Cynthia Bess Rubin are also working on science and art projects, and I know when, I get off here, and the recording is on, I'll be listening to it again. Thank you.
+
+## Heidi Boisvert [01:33:23](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5603s)
+
+Thank you. I guess maybe Judith put her hand down? Clayton?
+
+## Clayton Campbell [01:33:30](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5610s)
+
+Yeah, hi, thank you, everyone, for what was a really nice afternoon. I have a specific question for Laura. Laura, you mentioned, in your planetarium project that you were using chat for prompts. I'm not sure if I heard that right, but could you talk about that process a bit, and how you put that all together?
+
+## Laura Splan [01:33:53](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5633s)
+
+Yeah, so I wanted to create a narration for… To accompany the animations, and…
+
+## Clayton Campbell [01:34:01](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5641s)
+
+Right.
+
+## Laura Splan [01:34:02](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5642s)
+
+I had this idea of… Something that would conflate guided meditation with, planetarian conventions, which are more educational. And… so I was kind of ex… researching… On my own, like, the structures and the conventions of each of those, and found that there were actually a lot of correlations in structure, in terms of changes in scale, changes in, like, awareness of scale, and also, like, body scanning, or, like, scanning surfaces. So I went into ChatGPT and kind of gave it instructions that were informed by some of that research, and… Asked it to create a guided meditation for chromatin. Which would be using some of those conventions of changes in scale, shifts in scale, and then also body scanning, but at the molecular level. And, and kind of… narrating those changes that are happening at the nucleosome, histone protein DNA level as chromatin packs into chromosome. And the idea, too, was to, to, again, to kind of sublime the audience into some sort of understanding of this complex science. And there were other elements that I infused in the narration as well, so it wasn't completely just straight from ChatGPT. I did a lot of additional augmenting and writing, for example. It was at the Vanderbilt Museum, the planetarium show, and so I… found a book of love poems that Gloria Vanderbilt wrote, and I infused the script with some of her poetry. One line from her… one of her poems was the line, a reassuring tendril to find you in the darkness, which I thought was just so, evocative of chromatin and… The idea of, Of genetics and lineage, but, yeah, so it was… that was part of the process.
+
+## Clayton Campbell [01:36:16](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5776s)
+
+Were you using any of the, material from chat as prompts? for, AI video, or any kind of the material you were.
+
+## Laura Splan [01:36:26](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5786s)
+
+UC.
+
+## Clayton Campbell [01:36:26](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5786s)
+
+That ended up in the visuals in the planetarium.
+
+## Laura Splan [01:36:30](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5790s)
+
+No, the visuals for the planetarium were, the only AI elements for the planetarium were the reflections on the surfaces of the, proteins and the DNA.
+
+## Clayton Campbell [01:36:41](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5801s)
+
+Okay.
+
+## Laura Splan [01:36:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5802s)
+
+Which were generated from, epigenetics research, including, you know, Janet mentioned this collision of collaborations and projects, and the Planetarium show was one of those where I was already using Research from several scientists to generate those landscape images that were reflected. In the proteins.
+
+## Clayton Campbell [01:37:06](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5826s)
+
+Okay, and so they were generated through, I wasn't clear how they were generated, I guess.
+
+## Laura Splan [01:37:12](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5832s)
+
+I was using the journey for the landscapes.
+
+## Clayton Campbell [01:37:16](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5836s)
+
+Okay. Alright, thanks. Thank you so much.
+
+## Laura Splan [01:37:21](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5841s)
+
+Yes.
+
+## Clayton Campbell [01:37:22](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5842s)
+
+That's really, really, very great, great stuff. Really appreciated your presentation.
+
+## Laura Splan [01:37:28](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5848s)
+
+Thank you.
+
+## Clayton Campbell [01:37:29](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5849s)
+
+-
+
+## Heidi Boisvert [01:37:30](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5850s)
+
+Colin, you have a question? Also, Lee, I see? I don't know, Colin, are you wrapping up, or do you want to ask your question? Oh, I think we just lost Colin. Where did he go? All right, Lee, do you want to ask your question?
+
+## Colin Goldberg [01:37:47](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5867s)
+
+Do you guys, oh, there you are.
+
+## Heidi Boisvert [01:37:49](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5869s)
+
+Oh, now we can…
+
+## Colin Goldberg [01:37:50](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5870s)
+
+Yeah, so I just, yeah, I just had a question, and then I guess we could go to Lee, and then maybe we should wrap after that. So I was wondering, you know, and this is a question for each of the presenters. Was there a moment in your artistic development that you could remember specifically where science came into your practice, or what you were doing, intersected, or when this intra-action, you know, happened, whether it's a specific project. Or a point in time where you thought, you know, this makes sense for these two things to come together. Don't all jump in.
+
+## Sue Huang [01:38:35](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5915s)
+
+I can jump in here. Yeah, I don't know that I ever specifically set out to work with science directly, although my background in undergrad was science and technology policy originally, and then I started doing new media art from the studio side. But my actual… my original start was actually in interactive narrative work in my early, kind of, career, and I was, so I was always, like, very interested in, like, the audience and kind of, like, human… human engagement. So I think my entry into thinking about the science side was really thinking about the human relationship. the human relationships, both with each other, but also, you know, externally into the world. And my first, kind of, like, really… set in science project was, this project called Time of… In the Time of Clouds, which was, thinking about the disappearance of clouds, but I was really thinking about, you know, what was the impact of the disappearance of clouds on our own kind of cultural consciousness, kind of, like, collective memory. And that's kind of… even now, like, the further I go into these things, I… you know, the work is really rooted very much in The collective human relationship, both with each other, but also with other beings.
+
+## Heidi Boisvert [01:40:04](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6004s)
+
+Cool. Others, I feel like it'd be great to hear from each of you on this question. I can jump in, but I don't know if you can hear the… okay, yeah, there was a humidifier working. So for me, I… that was the reason why I moved to New York. I was looking for a program that combines art and science from…
+
+## Gal Nissim [01:40:25](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6025s)
+
+and I tried to do it myself. I studied at the Betzel Art Academy and a Belgian Cognitive Science and the Hebrew University. But for me, something that clicked on the topic of animals specifically. was when I did my fellowship at the Weitzmann Institute, I was studying bat navigation in 3D space, and seeing the justification systems and being exposed to very invasive animal testings. I was in, like, an open brain surgery when we put electrodes in the brain. in a neighboring lab kind of, like, create… were… they were studying Alzheimer's, so they needed to have this hybrid creature that had two different brains, but one blood system to check the blood-brain barrier in… kind of… so, all of these, how they were creating and using animals as a sculpting material, and as a sculptor, it was really fascinating for me, so that kind of, like, started my focus on animals and human-animal interaction.
+
+## Heidi Boisvert [01:41:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6102s)
+
+Fascinating.
+
+## Janet Biggs [01:41:43](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6103s)
+
+I can kind of, jump on to the end of Gala, actually, because, one of my early, impulses to reach out across disciplines to the sciences was because of, I have too many relatives that have suffered from Alzheimer's disease, and I was working on a project that was really rooted in, you know, my history, the emotional side of those kinds of relationships when people are suffering from such extreme diagnoses. And I realized I… I didn't know anything about the biological underpinnings of the disease, and it was important to me that if I'm gonna really talk about this, I wanted to… literally flesh it out more. And so I reached out to neuroscientists that were working both at NYU and at University of Houston. And one of the most extraordinary things is in the research happening, in, University of Houston at the Zabriski Lab, there were… they were… Breeding rats, again, back to Gal, breeding rats with a predisposition for Alzheimer's, and then surgically removing the brains. They were able to keep the brains viable for up to about a week after removal from the bodies, and they were taking audio sensors and permeating, the brain's into finding individual cells, and permeating the cells with these audio sensors, and listening to the sound of two cells trying to talk to each other in what they considered a normal brain. And then they would increase the temperature, and change the magnesium levels, and essentially start an Alzheimer's state. And I had always thought that everything dampened down. You know, memory loss is a dampening and a loss, and what happens in the brain because of the… Disruption with the tautangles and amyloid proteins is that these cells are frantically trying to talk to each other, and it turns into a hyperactive state. And it changed my approach to the project completely, through learning, you know, through being in a lab and seeing what is actually being researched and experimentation.
+
+## Heidi Boisvert [01:43:56](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6236s)
+
+Wow. It's fascinating. These stories, these origin stories. Laura, do you have one?
+
+## Laura Splan [01:44:04](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6244s)
+
+Well, my brain is gonna explode in thinking about, like, what's one origin story, because there's so many different influences, I mean, I was just kind of thinking about how actually my first collaboration with A scientist, per se, was… In, like, middle school. Where I asked my dentist to collaborate with me on my science fair project. And it was testing different types of fillings with different kinds of, you know, essentially, like, materials testing kind of approach. And using scientific method, and I was so disappointed when my project didn't win, because I thought it was really good. And then the next year, I did the same exact project, but with nail polish instead of dental fillings. And… it won first place. And it was just such a, like, kind of head-scratching moment, where I was like, it's the same experiment, but… The same, like, scientific rigor, but with different, you know, one little, like, switch, and it taught me something about, like, how even science was kind of hungry for different, ways to kind of destabilize what we think of as science, or, Just the kind of, you know, even the seductiveness of materials and the kind of baggage of materials that, that even science can be imbued with. But I don't know, that was… that was the story that came to mind when… when you mentioned that.
+
+## Heidi Boisvert [01:45:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6342s)
+
+That's a great one.
+
+## Colin Goldberg [01:45:45](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6345s)
+
+That's… that's awesome. Well, thanks so much, you guys, for… for sharing those, those, those thoughts. with us, you know, like I said in the beginning, my parents both have a science background, chemists, and so I think as an artist, like, I've always approach things, in an experimental way, whether it's playing with different media or software, and in fact, you know, before there was a group, I actually wrote a document called the Text Expressionist Manifesto, and one of the points in it was that the scientific method could be applied to anything, including in the realm of aesthetics. And I always thought, you know. Really, it's, you know, the scientific method is something that's universally applicable in a lot of areas, so this, discussion has been really, really interesting for me. So, yeah, thank you all.
+
+## Heidi Boisvert [01:46:41](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6401s)
+
+Lee, do you wanna… Wrap us up.
+
+## Lee Musgrave [01:46:45](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6405s)
+
+Very, very quickly, first of all, I want to thank all of you for very engaging presentations, and to some extent, you pretty much answered my question. What I was curious to know, if any of you had a really fantastic taking advantage of chance experience. That you decided to move forward with, and it turned out very positive.
+
+## Heidi Boisvert [01:47:16](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6436s)
+
+You might have dumbfounded everybody.
+
+## Laura Splan [01:47:19](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6439s)
+
+Thank you. I didn't hear the question, like, what was the question? Was there an element of chance?
+
+## Lee Musgrave [01:47:27](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6447s)
+
+Sure.
+
+## Heidi Boisvert [01:47:27](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6447s)
+
+follow the thread on, like, in your process, I guess, in your creative process or scientific protocol, you know, the relationship between those two, if there's a Part of chance that emerges, and then you kind of, like, followed that thread. And it turned out positively.
+
+## Laura Splan [01:47:44](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6464s)
+
+Yeah, so…
+
+## Heidi Boisvert [01:47:45](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6465s)
+
+Surprisingly.
+
+## Laura Splan [01:47:46](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6466s)
+
+Yeah, every project has an element of chance. Sometimes I feel like I'm just at a slot machine. when I'm starting a project and kind of exploring and seeing where that goes. But also, like, paying attention to failure. Is a big part of that. Experience and chance, and seeing what the possibilities within each failure are.
+
+## Sue Huang [01:48:12](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6492s)
+
+Yeah, I often feel like my projects are kind of, like, daisy-chained together, in a way. Like, I mean, I kind of showed a little bit of that today, but it's like… It's like going down one rabbit hole, like, your intuition will hook onto one thing, maybe, and then, like, lead you somewhere else for maybe the next project, maybe sometimes within the same project. And I think I… those are elements of chance, in a way, like, sometimes you read a thing, or you come upon a thing, and then… And then just follow that line, like, I feel… I feel like a lot of… A lot of my practice is just intuitively following things that hook my interest.
+
+## Lee Musgrave [01:48:55](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6535s)
+
+Thank you.
+
+## Heidi Boisvert [01:48:59](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6539s)
+
+Right, anybody else want to respond, or… Should we move to close?
+
+## Janet Biggs [01:49:10](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6550s)
+
+I would be really hard-pressed to think of, Project that wasn't based on chance, and following it through, and you know, kind of without, sort of blindly and passionately following it through, and so then, whether it's successful, I'm not really sure I can determine that. But I think Chance Is… is, you know, if we don't slip sideways off of some, more, stable ground, then why bother making work?
+
+## Gal Nissim [01:49:45](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6585s)
+
+I totally agree, and I… I think a lot of the times, conversations, and when you hear people reflect on the things that you said, they can connect dots that sometimes you're blind to, so having those collaborations, conversations, and interactions with others… It's also a really beautiful chance moment.
+
+## Heidi Boisvert [01:50:13](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6613s)
+
+Great. Thank you, everybody. So grateful you could take some time to share your work with us today. Colin, I don't know if there are things you usually say at the end of each of these to kind of, like, wrap it up or close out the space, so I'll cede the floor to you.
+
+## Colin Goldberg [01:50:29](https://www.youtube.com/watch?v=VxS9DBtseCE&t=6629s)
+
+Okay, yeah, I mean, I just want to say, thank you to you, Heidi, for, you know, organizing this, this great group and bringing in, your friends and colleagues to share their work with us. You know, and welcome you all to be, you know, part of this community as much as you'd like. You know, it's a… always open, and I would also, you know, like I said in the beginning, encourage each of you, and this goes for you, Heidi, too, if you have other ideas, that would be, you know, the basis for a salon, like organizing it around another topic, because I'm sure each of you has a circle of Friends and colleagues who work in your, you know, various areas of expertise or interest. And certainly, at this point, almost all artists work with technology. I mean, so, you know, it's fairly… you know, I like the idea of the group and this project in general being as open as possible and inclusive as possible, because that's what yields the most interesting Kind of conversations, and just… you know, it's in its development. So, but I want to really thank, each of you. It's been an amazing salon. I have to say, probably one of my favorites, that we've had, and we've had over 100 of them, so, you know, I just think it's very, it's really interesting, to see, a whole bunch of new viewpoints come into the conversation at once, in this way. And also, it makes me, you know, it makes me think about what… what is expression? You know, what is expressiveness? And everybody has… different, things that they care about, you know, that move them emotionally. One thing that really stuck out was when Janet said, you know, the scientists probably should hire a PR firm. If that's all they're looking for is for an artist to make their work more palatable to, like, the layperson or whatever, and it, you know, just underscores this idea of a hierarchy where, you know, artists are down here, and scientists are up here, in terms of, like. the realm of academia, or whatever you want to call it. So it's refreshing, you know, to think about, you know, being on equal footing, and the idea of artistic research on par with scientific research is also something that, you know, is sort of a new way of thinking about things for me, being somewhat outside of academia at this point. So, so yeah, you know, I'm… We did go a little bit over, but certainly well worthwhile, and I appreciate that, you know, we were able to also have a little bit of conversation between the presenters, so I want to thank you all again. And, you know, we will be here, generally, it's almost always the first Thursday of the month. This, month was not the first Thursday, because that was actually New Year's Day, although there were a couple people who showed up on the 1st of January, and I got a phone call shortly after touching down at the airport, like, where is everybody? So I was like, oh yeah, it really wasn't the first Thursday, but at any rate. I want to thank you, everyone, and, you know, we will see you, hopefully again in a month, and whoever would like to stay around, I will keep the Zoom open. So, with that being said, I will stop the recording in 3, 2, 1, and cut.
