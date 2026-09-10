@@ -229,7 +229,7 @@ Welcome!
 
 ## Colin Goldberg [46:22](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2782s)
 
-Alright. So next up is Cynthia DiDonato Denado.
+Alright. So next up is Cynthia di Denado.
 
 ## Cynthia DiDonato [46:28](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2788s)
 
@@ -293,7 +293,7 @@ Okay? And then finally, mixing the idea of materials with photography and using,
 
 ## Colin Goldberg [01:02:39](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3759s)
 
-Awesome. Thanks. So much. Really interesting. Especially the physical material that you're manipulating. It really feels digital. So it's really interesting to see that it's actually physical sort of fabric and other things. so let's see, I got a message from Cynthia Beth Rubin I think she is going to be okay with sharing her presentation during the recording which is great. So so, Cynthia, take it away.
+Awesome. Thanks. So much. Really interesting. Especially the physical material that you're manipulating. It really feels digital. So it's really interesting to see that it's actually physical sort of fabric and other things. so let's see, I got a message from Cynthia Beth Rubin that I think she is going to be okay with sharing her presentation during the recording which is great. So so, Cynthia, take it away.
 
 ## Cynthia Beth Rubin [01:03:15](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3795s)
 

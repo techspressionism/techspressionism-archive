@@ -16,9 +16,8 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-IN_PATH = ROOT / "review" / "name-candidates.csv"
-OUT_PATH = ROOT / "review" / "name-candidates.csv"
-RAW_BACKUP_PATH = ROOT / "raw" / "name-candidates-raw.csv"
+IN_PATH = ROOT / "review" / "name-candidates.csv"       # raw, one row per hit (Stage 4/5 output)
+OUT_PATH = ROOT / "review" / "name-candidates-summary.csv"  # collapsed, one row per pattern -- work from this
 
 LIKELY_NOISE_THRESHOLD = 10  # a genuine name mention doesn't recur identically this often
 
@@ -49,13 +48,7 @@ def main():
 
     summary.sort(key=lambda s: -s["count"])
 
-    RAW_BACKUP_PATH.parent.mkdir(parents=True, exist_ok=True)
-    if not RAW_BACKUP_PATH.exists():
-        with open(RAW_BACKUP_PATH, "w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
-            writer.writeheader()
-            writer.writerows(rows)
-
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_PATH, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["count", "matched_text", "candidate_name", "similarity", "session_count", "sessions", "likely_noise", "example_context"])
         writer.writeheader()
@@ -67,7 +60,7 @@ def main():
     print(f"{noise_rows} patterns ({noise_events} of the original rows) flagged likely_noise (>= {LIKELY_NOISE_THRESHOLD} identical repeats)")
     print(f"{len(summary) - noise_rows} patterns worth an actual look")
     print(f"\nWrote deduplicated queue to {OUT_PATH}")
-    print(f"Raw (undeduplicated) queue backed up to {RAW_BACKUP_PATH}")
+    
 
 
 if __name__ == "__main__":

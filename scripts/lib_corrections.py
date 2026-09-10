@@ -9,9 +9,9 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 STRONG_PRIOR_AUTO = 0.72
-STRONG_PRIOR_REVIEW = 0.55
+STRONG_PRIOR_REVIEW = 0.63
 INDEX_AUTO = 0.92
-INDEX_REVIEW = 0.75
+INDEX_REVIEW = 0.80
 
 SUPPRESSIONS_PATH = Path(__file__).resolve().parent.parent / "data" / "review-suppressions.json"
 
@@ -36,6 +36,18 @@ SUPPRESSED_PAIRS = load_suppressions()
 WORD_RE = re.compile(r"\S+")
 SENTENCE_END_RE = re.compile(r"[.!?]\s*$")
 EDGE_PUNCT_RE = re.compile(r"^[^\w]+|[^\w]+$")
+
+# function words that show up as the trailing/leading token of a fuzzy name
+# window ("michael price is", "carter hi", "and spalter") -- eating them
+# during a substitution corrupts the sentence
+EDGE_STOPWORDS = {
+    "a", "an", "the", "and", "or", "is", "was", "are", "were", "be", "been",
+    "as", "at", "to", "of", "in", "on", "i", "i'm", "im", "you", "we", "he",
+    "she", "it", "hi", "so", "but", "that", "this", "here", "there", "who",
+    "with", "for", "my", "his", "her", "our", "oh", "now", "just", "would",
+    "will", "can", "could", "has", "have", "had", "do", "does", "did", "not",
+    "am", "by", "from", "up", "out", "if", "then", "than", "about", "us",
+}
 
 
 def apply_vocabulary(text, vocab_terms):
@@ -85,13 +97,40 @@ def best_window_match(tokens, name):
     return best
 
 
-def correct_names_in_text(text, candidates, auto_threshold, review_threshold, session_number, cue_start, review_rows, corrections, single_token_auto_ok=True):
+def correct_names_in_text(text, candidates, auto_threshold, review_threshold, session_number, cue_start, review_rows, corrections, single_token_auto_ok=True, known_good=frozenset()):
     tokens = tokenize_with_spans(text)
     # process longest names first so multi-word corrections don't get
     # clobbered by a shorter name matching a sub-span of an already-applied one
-    for name in sorted(candidates, key=lambda n: -len(n.split())):
+    name_token_count = {n: len(n.split()) for n in candidates}
+    for name in sorted(candidates, key=lambda n: -name_token_count[n]):
         ratio, start, end = best_window_match(tokens, name)
-        is_single_token = len(name.split()) == 1
+        is_single_token = name_token_count[name] == 1
+        if start is not None and not is_single_token:
+            # if the window's edge tokens are function words that don't
+            # correspond to a name token ("michael price IS", "AND spalter",
+            # "carter HI"), trim them out of the span and re-score -- eating
+            # them during a substitution corrupts the sentence
+            span_words = text[start:end].split()
+            nlow = [w.lower() for w in name.split()]
+
+            def edge_junk(w, name_word):
+                w = w.strip(".,!?;:'").lower()
+                return w in EDGE_STOPWORDS and w != name_word and (not name_word or w[0] != name_word[0])
+
+            while len(span_words) > 1 and edge_junk(span_words[-1], nlow[-1]):
+                end -= len(span_words[-1]) + 1
+                span_words.pop()
+            while len(span_words) > 1 and edge_junk(span_words[0], nlow[0]):
+                start += len(span_words[0]) + 1
+                span_words.pop(0)
+            ratio = SequenceMatcher(None, " ".join(span_words).lower().strip(".,!?;:"), name.lower()).ratio()
+            # a good multi-word name match needs the *last* tokens to actually
+            # correspond -- otherwise "Michael worked" scores 0.73 against
+            # "Michael Woodruff" on the first token alone and eats "worked"
+            if len(span_words) >= 2:
+                last_sim = SequenceMatcher(None, span_words[-1].strip(".,!?;:'").lower(), nlow[-1]).ratio()
+                if last_sim < 0.45:
+                    ratio = min(ratio, review_threshold - 0.01)
         if ratio >= auto_threshold and (single_token_auto_ok or not is_single_token):
             original = text[start:end]
             if original.lower() != name.lower():
@@ -101,6 +140,17 @@ def correct_names_in_text(text, candidates, auto_threshold, review_threshold, se
         elif ratio >= review_threshold:
             original = text[start:end]
             if (original.lower(), name) in SUPPRESSED_PAIRS:
+                continue
+            # the matched span is already a correctly-spelled name (an artist
+            # index entry or vocab canonical) -- nothing to review, it's just
+            # a near-collision with a *different* real person
+            if original.strip(".,!?;:").lower() in known_good:
+                continue
+            # short single-token weak-prior candidates (cryptic handles like
+            # "MCHX", "cha", "SUDO", "LORDOF") fuzzy-match hundreds of ordinary
+            # words and can never auto-correct anyway -- only surface a
+            # near-exact hit worth a human glance, not the long tail of noise
+            if not single_token_auto_ok and is_single_token and len(name) <= 6 and ratio < 0.95:
                 continue
             context_start = max(0, start - 60)
             context_end = min(len(text), end + 60)
@@ -134,6 +184,7 @@ def correct_text(text, session, artists, vocab_terms, session_number, cue_start,
     """Full correction pass (vocabulary + both name pools) on one span of text."""
     text, n = apply_vocabulary(text, vocab_terms)
     strong_prior, index_names = build_candidate_pools(session, artists, vocab_terms)
-    text = correct_names_in_text(text, strong_prior, STRONG_PRIOR_AUTO, STRONG_PRIOR_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=True)
-    text = correct_names_in_text(text, index_names, INDEX_AUTO, INDEX_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=False)
+    known_good = {a["name"].lower() for a in artists} | {t["canonical"].lower() for t in vocab_terms}
+    text = correct_names_in_text(text, strong_prior, STRONG_PRIOR_AUTO, STRONG_PRIOR_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=True, known_good=known_good)
+    text = correct_names_in_text(text, index_names, INDEX_AUTO, INDEX_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=False, known_good=known_good)
     return text, n

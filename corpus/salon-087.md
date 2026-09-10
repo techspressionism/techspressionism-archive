@@ -610,7 +610,7 @@ cari ann shim sham**: Thank you. cari ann shim sham**: So we conclude cari ann s
 
 ## Nina Sobell [02:06:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7580s)
 
-I just wanted to know. Is Lee Day. Here still was Lee Day Lee Day part of the show, or I saw him in the very beginning. I didn't know whether we missed his work. No lee, day, no.
+I just wanted to know. Is Lee Day. Here still was Lee Day Lee Day part of the show, or I saw him in the very beginning. I didn't know whether we missed his work. No Lee Day, no.
 
 ## Unattributed [02:06:37](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7597s)
 

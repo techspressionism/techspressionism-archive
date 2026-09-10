@@ -39,7 +39,7 @@ languages: ["en"]
 
 ## Colin Goldberg (on Roman Verostko) [00:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3s)
 
-Hello, Internet. My name is Colin Goldberg, and welcome to the 83rd text question, is salon today is Thursday, June 6, th 2024, and we have a wide variety of artists from all over the world here on Zoom. today's topic is influences. So we have a couple of people lined up to get us started talking about their artistic influences. And I would encourage anyone else who's in the zoom to, you know, share on pretty much anything that you want regarding current work or anything else. So influences is really just a jumping off point and doesn't need to focus necessarily on influences, and certainly does not need to be anything that has been prepared in advance. You know, we started out with just a handful of people number of years ago, and everything was pretty much off the cuff and you know, I think that keeps it fresh. So we can start off with and when you share maybe just introduce yourself and let the audience know, and everyone else in the zoom know where you're zooming in from because I think it, it helps to establish context. So with that being, said, the 1st artist that's gonna share is Susan DeTroy.
+Hello, Internet. My name is Colin Goldberg, and welcome to the 83rd text question, is salon today is Thursday, June 6, th 2024, and we have a wide variety of artists from all over the world here on Zoom. today's topic is influences. So we have a couple of people lined up to get us started talking about their artistic influences. And I would encourage anyone else who's in the zoom to, you know, share on pretty much anything that you want regarding current work or anything else. So influences is really just a jumping off point and doesn't need to focus necessarily on influences, and certainly does not need to be anything that has been prepared in advance. You know, we started out with just a handful of people number of years ago, and everything was pretty much off the cuff and you know, I think that keeps it fresh. So we can start off with and when you share maybe just introduce yourself and let the audience know, and everyone else in the zoom know where you're zooming in from because I think it, it helps to establish context. So with that being, said, the 1st artist that's gonna share is Susan Detroy.
 
 ## Susan DeTroy [01:41](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=101s)
 
@@ -267,7 +267,7 @@ Hi.
 
 ## Colin Goldberg (on Roman Verostko) [01:17:49](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4669s)
 
-Oppose alright motion carries. We have a salon topic, independence for July 4, th to be moderated by Roz Dimon. So there we go. As for the last number of salons, I don't know how many the Promotional Graphic will be created by mid journey in collaboration with myself. So that's that's how I use. AI is creating the a little album cover. Art for these saloons.
+Oppose alright motion carries. We have a salon topic, independence for July 4, th to be moderated by Roz dime. So there we go. As for the last number of salons, I don't know how many the Promotional Graphic will be created by mid journey in collaboration with myself. So that's that's how I use. AI is creating the a little album cover. Art for these saloons.
 
 ## Roz Dimon [01:18:24](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4704s)
 

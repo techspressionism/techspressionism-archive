@@ -108,7 +108,7 @@
         "start_display": "00:39:30"
       },
       {
-        "name": "Carmen “Payasa” Moses",
+        "name": "Carmen Moses",
         "country": "Augusta, GA USA",
         "start_seconds": 2938,
         "start_display": "00:48:58"
@@ -124,7 +124,7 @@
       "speaker_added_from_site:Lucie Králíková",
       "speaker_added_from_site:Patrick Lichty",
       "speaker_added_from_site:Leslie Kell",
-      "speaker_added_from_site:Carmen “Payasa” Moses"
+      "speaker_added_from_site:Carmen Moses"
     ],
     "transcript_quality": {
       "word_count": 17685,
@@ -447,7 +447,7 @@
         "start_display": "01:36:05"
       },
       {
-        "name": "TECHSPRESSIONIST COLLAB#1 - Collaborations Across Borders, Time and Space",
+        "name": "TECHSPRESSIONIST COLLAB#1",
         "country": null,
         "start_seconds": 5765,
         "start_display": "01:36:05"
@@ -462,7 +462,7 @@
       "country_backfilled_from_site:Andrea Bonaceto",
       "country_backfilled_from_site:Tommy Mintz",
       "country_backfilled_from_site:Clive Holden",
-      "speaker_added_from_site:TECHSPRESSIONIST COLLAB#1 - Collaborations Across Borders, Time and Space"
+      "speaker_added_from_site:TECHSPRESSIONIST COLLAB#1"
     ],
     "transcript_quality": {
       "word_count": 21598,
@@ -745,7 +745,7 @@
         "start_display": "00:02:43"
       },
       {
-        "name": "Emma Anne Johnson  (Brooklyn, NY USA)",
+        "name": "Emma Anne Johnson (Brooklyn, NY USA)",
         "country": null,
         "start_seconds": 2330,
         "start_display": "00:38:50"
@@ -862,6 +862,12 @@
         "start_display": "00:25:35"
       },
       {
+        "name": "Deann Stein Hasinoff",
+        "country": "International Society of Experimental Artists",
+        "start_seconds": 3294,
+        "start_display": "00:54:54"
+      },
+      {
         "name": "Davonte Bradley",
         "country": "Richmond, Virginia USA",
         "start_seconds": 4527,
@@ -875,9 +881,7 @@
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [
-      "speaker_index_partially_unparseable"
-    ],
+    "flags": [],
     "notes": [
       "country_backfilled_from_site:Verneda Lights",
       "country_backfilled_from_site:Darcy Gerbarg",
@@ -943,12 +947,6 @@
         "start_display": "00:02:55"
       },
       {
-        "name": "Davonte \"Davo\" Bradley",
-        "country": null,
-        "start_seconds": 6885,
-        "start_display": "01:54:45"
-      },
-      {
         "name": "Davonte Bradley",
         "country": "Richmond, Virginia USA",
         "start_seconds": 6885,
@@ -959,7 +957,7 @@
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Holly Gordon",
-      "speaker_added_from_site:Davonte Bradley"
+      "country_backfilled_from_site:Davonte Bradley"
     ],
     "transcript_quality": {
       "word_count": 15908,
@@ -1825,49 +1823,49 @@
     "moderator": null,
     "speakers": [
       {
-        "name": "Verneda Lights - SC USA",
+        "name": "Verneda Lights",
         "country": null,
         "start_seconds": 96,
         "start_display": "00:01:36"
       },
       {
-        "name": "Giovanna Sun - Brooklyn, NY YSA",
+        "name": "Giovanna Sun",
         "country": null,
         "start_seconds": 541,
         "start_display": "00:09:01"
       },
       {
-        "name": "Tommy Mintz - NYC, NY USA",
+        "name": "Tommy Mintz",
         "country": null,
         "start_seconds": 1102,
         "start_display": "00:18:22"
       },
       {
-        "name": "Marlow Shami - Goshen, Connecticut USA",
+        "name": "Marlow Shami",
         "country": null,
         "start_seconds": 1102,
         "start_display": "00:18:22"
       },
       {
-        "name": "Lee Musgrave - White Salmon WA USA",
+        "name": "Lee Musgrave",
         "country": null,
         "start_seconds": 1861,
         "start_display": "00:31:01"
       },
       {
-        "name": "Susan DeTroy - Eugene OR USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 2225,
         "start_display": "00:37:05"
       },
       {
-        "name": "Michael Pierre Price - Phoeniz AZ USA",
+        "name": "Michael Pierre Price",
         "country": null,
         "start_seconds": 2700,
         "start_display": "00:45:00"
       },
       {
-        "name": "Colin Goldberg - Vermont USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 3055,
         "start_display": "00:50:55"
@@ -1902,76 +1900,72 @@
     "moderator": "Davonte Bradley",
     "speakers": [
       {
-        "name": "Michael Pierre Price - Arizona USA",
+        "name": "Michael Pierre Price",
         "country": null,
         "start_seconds": 271,
         "start_display": "00:04:31"
       },
       {
-        "name": "Renata Janiszewska - Canada",
+        "name": "Renata Janiszewska",
         "country": null,
         "start_seconds": 718,
         "start_display": "00:11:58"
       },
       {
-        "name": "Colin Goldberg - Vermont USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 1077,
         "start_display": "00:17:57"
       },
       {
-        "name": "!5 - Susan DeTroy - Oregon USA",
-        "country": null,
-        "start_seconds": 25,
-        "start_display": "00:00:25"
-      },
-      {
-        "name": "Roz Dimon - New York USA",
+        "name": "Roz Dimon",
         "country": null,
         "start_seconds": 2160,
         "start_display": "00:36:00"
       },
       {
-        "name": "Patrick Lichty - Minnesota USA",
+        "name": "Patrick Lichty",
         "country": null,
         "start_seconds": 2670,
         "start_display": "00:44:30"
       },
       {
-        "name": "Carla Gannis - New York USA",
+        "name": "Carla Gannis",
         "country": null,
         "start_seconds": 3060,
         "start_display": "00:51:00"
       },
       {
-        "name": "Lee Day - New York USA",
+        "name": "Lee Day",
         "country": null,
         "start_seconds": 3590,
         "start_display": "00:59:50"
       },
       {
-        "name": "Verneda Lights (Narrative) - South Carolina USA",
+        "name": "Verneda Lights (Narrative)",
         "country": null,
         "start_seconds": 3884,
         "start_display": "01:04:44"
       },
       {
-        "name": "Davonte Bradley - Virginia USA",
+        "name": "Davonte Bradley",
         "country": null,
         "start_seconds": 4728,
         "start_display": "01:18:48"
       },
       {
-        "name": "Susan DeTroy - Oregon USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 1515,
         "start_display": "00:25:15"
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [],
+    "flags": [
+      "speaker_index_partially_unparseable"
+    ],
     "notes": [
-      "speaker_added_from_site:Susan DeTroy - Oregon USA"
+      "speaker_added_from_site:Susan DeTroy"
     ],
     "transcript_quality": {
       "word_count": 11035,
@@ -1995,49 +1989,49 @@
     "moderator": "Davonte Bradley",
     "speakers": [
       {
-        "name": "Renata Janiszewska - Canada",
+        "name": "Renata Janiszewska",
         "country": null,
         "start_seconds": 200,
         "start_display": "00:03:20"
       },
       {
-        "name": "Harvey Birnbaum - USA",
+        "name": "Harvey Birnbaum",
         "country": null,
         "start_seconds": 860,
         "start_display": "00:14:20"
       },
       {
-        "name": "Marlow Shami - USA",
+        "name": "Marlow Shami",
         "country": null,
         "start_seconds": 1940,
         "start_display": "00:32:20"
       },
       {
-        "name": "R. Gopakumar - India",
+        "name": "R. Gopakumar",
         "country": "Based in Bahrain",
         "start_seconds": 2534,
         "start_display": "00:42:14"
       },
       {
-        "name": "Lucy Boyd Wilson - USA",
+        "name": "Lucy Boyd Wilson",
         "country": null,
         "start_seconds": 3649,
         "start_display": "01:00:49"
       },
       {
-        "name": "Chanhee Choi - USA",
+        "name": "Chanhee Choi",
         "country": null,
         "start_seconds": 4230,
         "start_display": "01:10:30"
       },
       {
-        "name": "Susan DeTroy - USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 4995,
         "start_display": "01:23:15"
       },
       {
-        "name": "Colin Goldberg & Steve Miller - USA",
+        "name": "Colin Goldberg & Steve Miller",
         "country": null,
         "start_seconds": 5920,
         "start_display": "01:38:40"
@@ -2220,37 +2214,37 @@
     "moderator": "Colin Goldberg",
     "speakers": [
       {
-        "name": "Verneda Lights - SC USA",
+        "name": "Verneda Lights",
         "country": null,
         "start_seconds": 114,
         "start_display": "00:01:54"
       },
       {
-        "name": "Tim Fabian -PA USA",
+        "name": "Tim Fabian",
         "country": null,
         "start_seconds": 414,
         "start_display": "00:06:54"
       },
       {
-        "name": "Michael Warner -  NY USA",
+        "name": "Michael Warner",
         "country": null,
         "start_seconds": 870,
         "start_display": "00:14:30"
       },
       {
-        "name": "Cynthia Beth Rubin - CT USA",
+        "name": "Cynthia Beth Rubin",
         "country": null,
         "start_seconds": 1270,
         "start_display": "00:21:10"
       },
       {
-        "name": "Tommy Mintz - NY USA",
+        "name": "Tommy Mintz",
         "country": null,
         "start_seconds": 1685,
         "start_display": "00:28:05"
       },
       {
-        "name": "Malavika Mandal Andrew - Mumbai India",
+        "name": "Malavika Mandal Andrew",
         "country": null,
         "start_seconds": 2020,
         "start_display": "00:33:40"
@@ -2262,31 +2256,31 @@
         "start_display": "00:40:36"
       },
       {
-        "name": "Cynthia DiDonato - RI USA",
+        "name": "Cynthia DiDonato",
         "country": null,
         "start_seconds": 2761,
         "start_display": "00:46:01"
       },
       {
-        "name": "David Bloom - MI USA",
+        "name": "David Bloom",
         "country": null,
         "start_seconds": 3026,
         "start_display": "00:50:26"
       },
       {
-        "name": "Sahar Moussavi - Iran",
+        "name": "Sahar Moussavi",
         "country": null,
         "start_seconds": 3733,
         "start_display": "01:02:13"
       },
       {
-        "name": "Renata Janiszewska - Canada",
+        "name": "Renata Janiszewska",
         "country": null,
         "start_seconds": 3884,
         "start_display": "01:04:44"
       },
       {
-        "name": "Greggory Hill - OH USA",
+        "name": "Greggory Hill",
         "country": null,
         "start_seconds": 4486,
         "start_display": "01:14:46"
@@ -2317,19 +2311,19 @@
     "moderator": null,
     "speakers": [
       {
-        "name": "Zachary Zaitzeff - Louisiana USA",
+        "name": "Zachary Zaitzeff",
         "country": null,
         "start_seconds": 134,
         "start_display": "00:02:14"
       },
       {
-        "name": "Steve Miller - Sagaponack NY USA",
+        "name": "Steve Miller",
         "country": null,
         "start_seconds": 2235,
         "start_display": "00:37:15"
       },
       {
-        "name": "Colin Goldberg - Vermont USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 3950,
         "start_display": "01:05:50"
@@ -2341,9 +2335,9 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "speaker_added_from_site:Zachary Zaitzeff - Louisiana USA",
-      "speaker_added_from_site:Steve Miller - Sagaponack NY USA",
-      "speaker_added_from_site:Colin Goldberg - Vermont USA"
+      "speaker_added_from_site:Zachary Zaitzeff",
+      "speaker_added_from_site:Steve Miller",
+      "speaker_added_from_site:Colin Goldberg"
     ],
     "transcript_quality": {
       "word_count": 12962,
@@ -2367,49 +2361,49 @@
     "moderator": "Renata Janiszewska",
     "speakers": [
       {
-        "name": "Karen LaFleur - MA USA",
+        "name": "Karen LaFleur",
         "country": null,
         "start_seconds": 82,
         "start_display": "00:01:22"
       },
       {
-        "name": "Cynthia Beth Rubin - CT USA",
+        "name": "Cynthia Beth Rubin",
         "country": null,
         "start_seconds": 511,
         "start_display": "00:08:31"
       },
       {
-        "name": "Marlow Shami - CT USA",
+        "name": "Marlow Shami",
         "country": null,
         "start_seconds": 1023,
         "start_display": "00:17:03"
       },
       {
-        "name": "Colin Goldberg - VT USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 1823,
         "start_display": "00:30:23"
       },
       {
-        "name": "Michael Pierre Price - AZ USA",
+        "name": "Michael Pierre Price",
         "country": null,
         "start_seconds": 2448,
         "start_display": "00:40:48"
       },
       {
-        "name": "Susan DeTroy - OR USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 3357,
         "start_display": "00:55:57"
       },
       {
-        "name": "Lee Day - NY USA",
+        "name": "Lee Day",
         "country": null,
         "start_seconds": 3855,
         "start_display": "01:04:15"
       },
       {
-        "name": "Greggory Hill - OH USA",
+        "name": "Greggory Hill",
         "country": null,
         "start_seconds": 4107,
         "start_display": "01:08:27"
@@ -2442,43 +2436,43 @@
     "moderator": "Michael Pierre Price - AZ USA",
     "speakers": [
       {
-        "name": "Susan DeTroy - OR USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 283,
         "start_display": "00:04:43"
       },
       {
-        "name": "Karen LaFleur - MA USA",
+        "name": "Karen LaFleur",
         "country": null,
         "start_seconds": 679,
         "start_display": "00:11:19"
       },
       {
-        "name": "Chalda Maloff - TX USA",
+        "name": "Chalda Maloff",
         "country": null,
         "start_seconds": 1059,
         "start_display": "00:17:39"
       },
       {
-        "name": "Colin Goldberg - VT USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 1403,
         "start_display": "00:23:23"
       },
       {
-        "name": "Cynthia DiDonato - RI USA",
+        "name": "Cynthia DiDonato",
         "country": null,
         "start_seconds": 1766,
         "start_display": "00:29:26"
       },
       {
-        "name": "Roz Dimon - NY USA",
+        "name": "Roz Dimon",
         "country": null,
         "start_seconds": 2224,
         "start_display": "00:37:04"
       },
       {
-        "name": "Tommy Mintz - NY USA",
+        "name": "Tommy Mintz",
         "country": null,
         "start_seconds": 2835,
         "start_display": "00:47:15"
@@ -2509,37 +2503,37 @@
     "moderator": "Davonte Bradley - VA USA",
     "speakers": [
       {
-        "name": "Tommy Mintz - NY USA",
+        "name": "Tommy Mintz",
         "country": null,
         "start_seconds": 200,
         "start_display": "00:03:20"
       },
       {
-        "name": "Susan DeTroy - OR USA",
+        "name": "Susan DeTroy",
         "country": null,
         "start_seconds": 972,
         "start_display": "00:16:12"
       },
       {
-        "name": "Cheryl Audet-Lavoie - VA USA",
+        "name": "Cheryl Audet-Lavoie",
         "country": null,
         "start_seconds": 1059,
         "start_display": "00:17:39"
       },
       {
-        "name": "Colin Goldberg - VT USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 2032,
         "start_display": "00:33:52"
       },
       {
-        "name": "Cynthia DiDonato - RI USA",
+        "name": "Cynthia DiDonato",
         "country": null,
         "start_seconds": 2707,
         "start_display": "00:45:07"
       },
       {
-        "name": "Davonte Bradley - VA USA",
+        "name": "Davonte Bradley",
         "country": null,
         "start_seconds": 3416,
         "start_display": "00:56:56"
@@ -3189,13 +3183,13 @@
     "moderator": "Michael Pierre Price - AZ USA",
     "speakers": [
       {
-        "name": "Cynthia DiDonato - RI USA",
+        "name": "Cynthia DiDonato",
         "country": "Midjourney Tutorial",
         "start_seconds": 418,
         "start_display": "00:06:58"
       },
       {
-        "name": "Michael Pierre Price - AZ USA",
+        "name": "Michael Pierre Price",
         "country": "ARTIST PRESENTATIONS",
         "start_seconds": 1198,
         "start_display": "00:19:58"
@@ -3222,8 +3216,8 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "country_backfilled_from_site:Cynthia DiDonato - RI USA",
-      "country_backfilled_from_site:Michael Pierre Price - AZ USA"
+      "country_backfilled_from_site:Cynthia DiDonato",
+      "country_backfilled_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
       "word_count": 11385,
@@ -3912,7 +3906,7 @@
         "start_display": "00:22:44"
       },
       {
-        "name": "Tommy Mintz: Chief Curator",
+        "name": "Tommy Mintz",
         "country": "NYC NY USA",
         "start_seconds": 1770,
         "start_display": "00:29:30"
@@ -4698,7 +4692,7 @@
         "start_display": "00:03:40"
       },
       {
-        "name": "Bill Rogers “Stellarfire”",
+        "name": "Bill Rogers",
         "country": "Mountain View, CA USA",
         "start_seconds": 992,
         "start_display": "00:16:32"
@@ -4781,39 +4775,11 @@
         "country": "jbiggs.com",
         "start_seconds": 3984,
         "start_display": "01:06:24"
-      },
-      {
-        "name": "Gal Nissim - galnissim.com",
-        "country": null,
-        "start_seconds": 2677,
-        "start_display": "00:44:37"
-      },
-      {
-        "name": "Laura Splan - laurasplan.com",
-        "country": null,
-        "start_seconds": 312,
-        "start_display": "00:05:12"
-      },
-      {
-        "name": "Sue Huang - studiosuehuang.com",
-        "country": null,
-        "start_seconds": 1385,
-        "start_display": "00:23:05"
-      },
-      {
-        "name": "Janet Biggs - jbiggs.com",
-        "country": null,
-        "start_seconds": 3984,
-        "start_display": "01:06:24"
       }
     ],
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "speaker_added_from_site:Gal Nissim - galnissim.com",
-      "speaker_added_from_site:Laura Splan - laurasplan.com",
-      "speaker_added_from_site:Sue Huang - studiosuehuang.com",
-      "speaker_added_from_site:Janet Biggs - jbiggs.com",
       "session_title_manually_overridden:trailing guest name ('Heidi Boisvert') left in the parsed title"
     ],
     "transcript_quality": {
@@ -4850,7 +4816,7 @@
         "start_display": "00:34:17"
       },
       {
-        "name": "Colin Goldberg - North Bennington, VT USA",
+        "name": "Colin Goldberg",
         "country": null,
         "start_seconds": 2931,
         "start_display": "00:48:51"
@@ -4860,19 +4826,11 @@
         "country": "Tehran, Iran",
         "start_seconds": 3817,
         "start_display": "01:03:37"
-      },
-      {
-        "name": "Colin Goldberg",
-        "country": null,
-        "start_seconds": 2931,
-        "start_display": "00:48:51"
       }
     ],
     "transcript_source": "zoom-transcript",
     "flags": [],
-    "notes": [
-      "speaker_added_from_site:Colin Goldberg"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 11294,
       "duration_seconds": 5924,
@@ -5078,7 +5036,7 @@
         "start_display": "00:15:47"
       },
       {
-        "name": "Beau Tardy Artist – B!",
+        "name": "Beau Tardy Artist",
         "country": "Houston, TX USA",
         "start_seconds": 1435,
         "start_display": "00:23:55"

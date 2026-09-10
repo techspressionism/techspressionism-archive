@@ -283,7 +283,7 @@ awesome? Thanks so much. And your it just made me think also about the fact that
 
 ## Renata Janiszewska [01:31:12](https://www.youtube.com/watch?v=fEzz3PiADrU&t=5472s)
 
-I interviewed Nina Sobell. I think it was October of.
+I interviewed Nina Sobel. I think it was October of.
 
 ## Colin Goldberg [01:31:17](https://www.youtube.com/watch?v=fEzz3PiADrU&t=5477s)
 

@@ -4,7 +4,11 @@
     {
       "canonical": "Techspressionist",
       "category": "movement_term",
-      "known_asr_variants": ["text freshness", "text brush", "tech express system"],
+      "known_asr_variants": [
+        "text freshness",
+        "text brush",
+        "tech express system"
+      ],
       "notes": "Observed in Zoom transcript for Salon 92 ('text freshness', 'text brush') and YouTube auto-captions for Salon 20 ('tech express system'), consistently right before 'Salon'. Watch for this pattern specifically before the word 'Salon', across every ASR source."
     },
     {
@@ -13,16 +17,119 @@
       "known_asr_variants": [],
       "notes": "Noun form of Techspressionist; no confirmed ASR variant observed yet, but expect similar mangling."
     },
-    { "canonical": "Onland", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "MUD Foundation", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "Loop Art Critique", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "Kunstmatrix", "category": "platform", "known_asr_variants": [] },
-    { "canonical": "Artivive", "category": "platform", "known_asr_variants": [] },
-    { "canonical": "Pollock-Krasner", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "Southampton Arts Center", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "CAMUZ", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "ICA Miami", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "MOWNA", "category": "organization", "known_asr_variants": [] },
-    { "canonical": "LACDA", "category": "organization", "known_asr_variants": [] }
+    {
+      "canonical": "Onland",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "MUD Foundation",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Loop Art Critique",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Kunstmatrix",
+      "category": "platform",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Artivive",
+      "category": "platform",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Pollock-Krasner",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Southampton Arts Center",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "CAMUZ",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "ICA Miami",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "MOWNA",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "LACDA",
+      "category": "organization",
+      "known_asr_variants": []
+    },
+    {
+      "canonical": "Davonte Bradley",
+      "category": "person",
+      "known_asr_variants": [
+        "davo bradley",
+        "devante bradley",
+        "devonta bradley",
+        "devonte bradley"
+      ],
+      "notes": "Community co-founder, aka DAVO; ASR mishears the first name. Bare \"Davo\" left alone (intentional informal usage)."
+    },
+    {
+      "canonical": "Joseph Nechvatal",
+      "category": "person",
+      "known_asr_variants": [
+        "joseph neckvital"
+      ],
+      "notes": "Artist in the index; phonetic ASR error on the surname."
+    },
+    {
+      "canonical": "Roz Dimon",
+      "category": "person",
+      "known_asr_variants": [
+        "roz diamond"
+      ],
+      "notes": "Recurring participant; ASR hears the surname as \"diamond\"."
+    },
+    {
+      "canonical": "Sasha Stiles",
+      "category": "person",
+      "known_asr_variants": [
+        "sasha styles"
+      ],
+      "notes": "Artist in the index."
+    },
+    {
+      "canonical": "Suzanne Anker",
+      "category": "person",
+      "known_asr_variants": [
+        "suzanne anchor"
+      ],
+      "notes": "Artist in the index (Wikipedia-notable)."
+    },
+    {
+      "canonical": "Nina Sobell",
+      "category": "person",
+      "known_asr_variants": [
+        "nina soel"
+      ],
+      "notes": "Recurring participant (Wikipedia-notable)."
+    },
+    {
+      "canonical": "Susan Detroy",
+      "category": "person",
+      "known_asr_variants": [
+        "susan detroit"
+      ],
+      "notes": "Recurring participant; ASR hears the surname as the city."
+    }
   ]
 }

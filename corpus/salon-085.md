@@ -56,7 +56,7 @@ Just wanna say that we're very encouraging and welcoming to people, even though 
 
 ## C B Rubin [04:34](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=274s)
 
-That's a really good point. We're trying to get one of those AI translators to work. But I thought we had one, and it turns out, it costs like $1,500 to subscribe. So we're not doing that. But we have simultaneously, just paste it into Google translator reverso. What's going on into the chat, and that has worked. thank you for putting the other link into the chat. It's not the same link as this link to join on Tuesdays. It's on the website, but it's a different link. And anyway. once you sign up, you'll just get a reminder every week with the link. So you can just go to the Techspressionist, website and sign up. And it's a good idea for people to go to Techspressionist website every now and then. Anyway, there's always great information, including information about the wonderful upcoming exhibit. Hello, Brooklyn! Where, hopefully, we'll see a lot of people in person rape. So now I think we should just jump in and get going. So, William Rogers 1st and I'm going to put on my timer and give you I will give you a 2 min warning. I find a 1 min warning often is not enough. So Are you ready to share your screen.
+That's a really good point. We're trying to get one of those AI translators to work. But I thought we had one, and it turns out, it costs like $1,500 to subscribe. So we're not doing that. But we have simultaneously, just paste it into Google translator reverso. What's going on into the chat, and that has worked. thank you for putting the other link into the chat. It's not the same link as this link to join on Tuesdays. It's on the website, but it's a different link. And anyway. once you sign up, you'll just get a reminder every week with the link. So you can just go to the Techspressionist, website and sign up. And it's a good idea for people to go to Techspressionist website every now and then. Anyway, there's always great information, including information about the wonderful upcoming exhibit. Hello, Brooklyn! Where, hopefully, we'll see a lot of people in person rape. So now I think we should just jump in and get going. So, William, your 1st and I'm going to put on my timer and give you I will give you a 2 min warning. I find a 1 min warning often is not enough. So Are you ready to share your screen.
 
 ## William Rogers [06:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=372s)
 
@@ -320,7 +320,7 @@ I think maybe I can share now. Oh, okay, cool.
 
 ## C B Rubin [27:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1666s)
 
-Let's go to William Rogers now and then. okay. go ahead.
+Let's go to William right now and then. okay. go ahead.
 
 ## William Rogers [27:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1673s)
 
@@ -456,7 +456,7 @@ Thank you.
 
 ## C B Rubin [43:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2629s)
 
-Okay, thank you so much. So next, I have Susan DeTroy.
+Okay, thank you so much. So next, I have Susan Detroy.
 
 ## Susan DeTroy [43:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2634s)
 

@@ -89,7 +89,7 @@ Suzanne. I see you have your hand up. I have my hand up because I just want to m
 
 ## Steve Miller [24:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1498s)
 
-Well, full disclosure I work with Suzanne Anker I've lectured at the Bio art course, and she started if she doesn't say more about it. A unique kind of study of. you know, another level of getting into nature and understanding. You know how things are formed, how things grow, and that printing that you're talking about. So we did print on that stainless steel, that camouflage version. And yeah, they're very dirt, and so far they've held up really well outdoors. I've got a bunch of pieces outdoors in my case. I am laminating them to keep the ink away from you know, the elements. But yeah, they've lasted pretty well. It's a great technology. And again, just to give a boost to Sva. They've got every technology to possibly imagine. And a really innovative study in the bio program. Thanks for mentioning that Suzette Renata.
+Well, full disclosure I work with Suzanne, and I've lectured at the Bio art course, and she started if she doesn't say more about it. A unique kind of study of. you know, another level of getting into nature and understanding. You know how things are formed, how things grow, and that printing that you're talking about. So we did print on that stainless steel, that camouflage version. And yeah, they're very dirt, and so far they've held up really well outdoors. I've got a bunch of pieces outdoors in my case. I am laminating them to keep the ink away from you know, the elements. But yeah, they've lasted pretty well. It's a great technology. And again, just to give a boost to Sva. They've got every technology to possibly imagine. And a really innovative study in the bio program. Thanks for mentioning that Suzette Renata.
 
 ## Renata Janiszewska [25:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1559s)
 
@@ -113,7 +113,7 @@ great! Well, that was a wonderful talk, Steve and as you know, I'm a very big fa
 
 ## Colin Goldberg [29:22](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1762s)
 
-according to Wikipedia Suzanne Anker is an American visual artist and theorist, and considered a pioneer in bio art. She's been working on the relationship between art and the biological sciences for more than 25 years. Her practice investigates the ways in which nature is being altered in the 20 first century. and concern with genetics, climate change, species, extinction and toxic degradation per more, calls attention to the beauty of life, and the necessity for enlightened thinking about Nature's tangled bank anchor frequently assembles with predefined and found materials, botanical specimens, medical museum artifacts, laboratory apparatus, microscopic images, and geological specimens. So II met Susan. I think must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 19 sixties. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne Anker the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been deeply involved with the School of Visual Arts in Manhattan for a long time. So so I'll pass the mic on to you, Suzanne Anker you know, if you want to take it from there.
+according to Wikipedia Suzanne Anker is an American visual artist and theorist, and considered a pioneer in bio art. She's been working on the relationship between art and the biological sciences for more than 25 years. Her practice investigates the ways in which nature is being altered in the 20 first century. and concern with genetics, climate change, species, extinction and toxic degradation per more, calls attention to the beauty of life, and the necessity for enlightened thinking about Nature's tangled bank anchor frequently assembles with predefined and found materials, botanical specimens, medical museum artifacts, laboratory apparatus, microscopic images, and geological specimens. So II met Susan. I think must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 19 sixties. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne for the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been deeply involved with the School of Visual Arts in Manhattan for a long time. So so I'll pass the mic on to you, Suzanne, and you know, if you want to take it from there.
 
 ## Suzanne Anker [31:08](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1868s)
 
@@ -133,7 +133,7 @@ Okay, I'm back. Thanks so much, Suzanne. So we have some time for some questions
 
 ## Suzanne Anker [47:06](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2826s)
 
-Suzanne Anker to call them, or I see Steve Miller has a question.
+Suzanne wants to call them, or I see Steve Miller has a question.
 
 ## Steve Miller [47:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2832s)
 
@@ -169,7 +169,7 @@ it's true. And and now we, we even have rocks that are in e encrusted in plastic
 
 ## Michael Price [52:27](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3147s)
 
-Wow, Suzanne, brilliant, totally totally awesome presentation. I I'm fascinated with the way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve Miller will appreciate where I'm coming from to the the micro scale of quantum mechanics and and looking at the mathematics involved. And I was curious, and I if I missed this. I apologize. But we're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a a curiosity for me is looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or or if I missed that. And I apologize.
+Wow, Suzanne, brilliant, totally totally awesome presentation. I I'm fascinated with the way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve will will appreciate where I'm coming from to the the micro scale of quantum mechanics and and looking at the mathematics involved. And I was curious, and I if I missed this. I apologize. But we're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a a curiosity for me is looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or or if I missed that. And I apologize.
 
 ## Suzanne Anker [53:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3218s)
 
@@ -585,7 +585,7 @@ Okay, so you are pointing out some of the challenges of of working in a interfac
 
 ## Cynthia DiDonato [01:48:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6520s)
 
-Well, I, for one, would be very happy. I know Susan Detroit is also interested.
+Well, I, for one, would be very happy. I know Susan Detroy is also interested.
 
 ## Michael Price [01:48:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6527s)
 

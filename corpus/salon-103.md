@@ -15,15 +15,12 @@ speakers:
   - name: Renata Janiszewska
     country: Lion’s Head, Canada
     start: 2057
-  - name: Colin Goldberg - North Bennington, VT USA
+  - name: Colin Goldberg
     country: null
     start: 2931
   - name: Sahar Moussavi
     country: Tehran, Iran
     start: 3817
-  - name: Colin Goldberg
-    country: null
-    start: 2931
 transcript_source: zoom-transcript
 languages: ["en"]
 ---
@@ -34,7 +31,7 @@ Action.
 
 ## Michael Pierre Price [00:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3s)
 
-Hello, my name's Michael Pierre-Price, and I'm an artist, a Texpressionist artist out of Phoenix, Arizona. And I want to welcome you today. Today is February the 5th, 2026, and this is Tex-pressionism Salon Number 103. Before we get started on our topic today, though, we have a special salon coming up in April. And I want to introduce Erin Ko to talk a little bit about that upcoming salon. Erin.
+Hello, my name's Michael Pierre Price and I'm an artist, a Texpressionist artist out of Phoenix, Arizona. And I want to welcome you today. Today is February the 5th, 2026, and this is Tex-pressionism Salon Number 103. Before we get started on our topic today, though, we have a special salon coming up in April. And I want to introduce Erin Ko to talk a little bit about that upcoming salon. Erin.
 
 ## Erin Ko [00:35](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=35s)
 
