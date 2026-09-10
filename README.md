@@ -4,17 +4,17 @@ A searchable, citable transcript archive of the Techspressionism YouTube channel
 
 ## Status
 
-Build order per spec: prove the pipeline on 3 test sessions (most recent Salon, one from 2021, Salon 48) by hand before batching. Currently mid-way through that pass.
+Pipeline has been run across all 99 known Salon videos. Still working through metadata-review flags and the name-correction queue; corpus format is stable.
 
 | Stage | Status | Notes |
 |---|---|---|
-| 1 — Metadata harvest | Done, validated on 3 sessions | `scripts/01-harvest.py`. Also cross-references the WordPress export and YouTube thumbnails (see below) to fill gaps the description alone can't. |
-| 2 — Captions/transcript selection | Done, validated on 3 sessions | `scripts/02-transcripts.py`. Source priority differs from the original spec -- see below. |
-| 3 — Whisper fallback | Built, **unvalidated** | `scripts/03-whisper-transcribe.py`, via `mlx-whisper` in `.venv` (not system Python -- see below). No real session has needed it yet: cross-referencing local Zoom transcripts against the full YouTube caption batch shows all 99 known Salon videos already resolve via Stage 2. Written ahead of need; per-segment multilingual detection (spec's Salon 48 French note) is a known unimplemented gap -- see the script's docstring. |
+| 1 — Metadata harvest | Run across all 99 sessions | `scripts/01-harvest.py`. Cross-references the WordPress export and YouTube thumbnails to fill description gaps. Open review flags: 27 missing speaker index, 22 missing moderator, 3 undated (panel-format sessions with no date in any source), 1 unparseable title. |
+| 2 — Captions/transcript selection | Run across all 99 sessions | `scripts/02-transcripts.py`. 69 YouTube auto-captions, 30 Zoom transcript. Source priority differs from the original spec -- see below. |
+| 3 — Whisper fallback | Built, **unvalidated** | `scripts/03-whisper-transcribe.py`, via `mlx-whisper` in `.venv` (not system Python -- see below). No real session has needed it yet: all 99 known Salon videos already resolve via Stage 2. Per-segment multilingual detection (spec's Salon 48 French note) is a known unimplemented gap -- see the script's docstring. |
 | 3b — Push transcript to YouTube as captions | Scaffolded, not runnable | `scripts/03b-upload-captions.py`. Requires OAuth setup Colin hasn't done yet -- see below. |
-| 4 — Name correction | Done, validated on 3 sessions | `scripts/04-correct-names.py` + `scripts/04a-parse-artist-index.py`. |
-| 5 — Corpus format | In progress | |
-| 6 — Search interface | Not started | |
+| 4 — Name correction | Run across all 99 sessions | `scripts/04-correct-names.py` + `scripts/04a-parse-artist-index.py`. ~3,100 candidates in `review/name-candidates.csv`; `data/review-suppressions.json` holds hand-curated always-false-positive pairs. |
+| 5 — Corpus format | Run across all 99 sessions | `scripts/05-build-corpus.py` -> `corpus/salon-NNN.md` + `corpus/corpus.json` (mirror, now carries `speakers` with resolved country + raw location, and `languages`). |
+| 6 — Search interface | Built | `scripts/06-build-site.py` -> `site/` (static, Pagefind). Full-text search; filters for type/year/speaker/country; every result deep-links to the transcript segment and the exact video second. Preview: `python3 scripts/06-build-site.py && (cd site && python3 -m http.server)`. Not yet deployed -- hosting undecided (private repo + free GitHub Pages don't mix; options are Pro, going public, or Netlify/Cloudflare Pages). |
 | 7 — Citation/deposit | Not started | |
 
 ## Setup
@@ -52,6 +52,26 @@ For sessions where YouTube never generates auto-captions (it doesn't always -- h
 
 This is a deliberate one-time setup step for Colin, not something to do casually or automatically -- do it when ready. Once auth is set up, actual upload runs still need per-session confirmation before publishing, same as any action that modifies public content on Colin's behalf.
 
+## Rebuilding
+
+Stages run in order and each reads the previous stage's output. Stage 1
+regenerates `data/sessions.json` from scratch, so re-running it means
+re-running 2 -> 4 -> 5 -> 6 after (2 restores the `transcript_source`
+fields 1 drops). Clear `review/name-candidates.csv` before a full 4+5 run
+or it accumulates duplicates.
+
+```
+python3 scripts/01-harvest.py raw/video_json/*.json
+python3 scripts/02-transcripts.py
+rm -f review/name-candidates.csv
+python3 scripts/04-correct-names.py
+python3 scripts/05-build-corpus.py
+python3 scripts/06-build-site.py
+```
+
 ## Repository structure
 
-See spec for the intended full layout. `raw/` is gitignored (source audio/video/captions, WordPress export cache). `data/` holds canonical parsed metadata. `review/` holds human-review queues (`name-candidates.csv`, flagged sessions from `sessions.json`'s `flags` field).
+See spec for the intended full layout. `raw/` and `site/` are gitignored
+(source media + WordPress export cache; build output). `data/` holds
+canonical parsed metadata. `review/` holds human-review queues
+(`name-candidates.csv`, flagged sessions from `sessions.json`'s `flags`).
