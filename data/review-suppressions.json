@@ -193,5 +193,161 @@
     "matched_text": "sometimes",
     "candidate_name": "Systaime",
     "observed_count": 10
+  },
+  {
+    "matched_text": "cynthia did",
+    "candidate_name": "Cynthia DiDonato",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "susan and",
+    "candidate_name": "Susan Huang",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "susan thank",
+    "candidate_name": "Susan Huang",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "giovanna and",
+    "candidate_name": "Giovanna Sun",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "giovanna i",
+    "candidate_name": "Giovanna Sun",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "are each",
+    "candidate_name": "Andrew Reach",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "lean into",
+    "candidate_name": "Leila Pinto",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "marks like",
+    "candidate_name": "Mark Klink",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "any you",
+    "candidate_name": "Andy Young",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "mark were",
+    "candidate_name": "Mark Walker",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "lord of",
+    "candidate_name": "LORDOF",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "red here",
+    "candidate_name": "Reed Hearne",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "tommy it",
+    "candidate_name": "Tommy Mintz",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "tommy might",
+    "candidate_name": "Tommy Mintz",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "carrie ann",
+    "candidate_name": "Carrie MaKenna",
+    "observed_count": null,
+    "note": "coincidental phrase collision, confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "so and",
+    "candidate_name": "Soy Nando",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael price",
+    "candidate_name": "Michael Rees",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael pierre",
+    "candidate_name": "Michael Pointer",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael for",
+    "candidate_name": "Michael Farmer",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael for",
+    "candidate_name": "Michael Roller",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael so",
+    "candidate_name": "Michael Rees",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael spalter",
+    "candidate_name": "Michael Pointer",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael was",
+    "candidate_name": "Michael Rees",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael has",
+    "candidate_name": "Michael Rees",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael i",
+    "candidate_name": "Michael Pointer",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
+  },
+  {
+    "matched_text": "michael you",
+    "candidate_name": "Michael Lorsung",
+    "observed_count": null,
+    "note": "coincidental collision (wrong Michael / common phrase), confirmed 2026-09-10"
   }
 ]

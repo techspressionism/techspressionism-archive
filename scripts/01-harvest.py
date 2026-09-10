@@ -241,7 +241,22 @@ AGENDA_WORDS_RE = re.compile(
 )
 
 
+def clean_speaker_name(name):
+    """Strip a trailing " - Location" and quoted nicknames that leak into the
+    name field from inconsistent description formatting ("Cynthia DiDonato -
+    RI USA", 'Davonte "Davo" Bradley')."""
+    if not name:
+        return name
+    name = re.sub(r'\s*["“”][^"“”]*["“”]\s*', " ", name)
+    name = re.sub(r"\s*:.*$", "", name)  # "Tommy Mintz: Chief Curator" -> "Tommy Mintz"
+    # " - Location" tail -- require spaces around the dash so real hyphenated
+    # surnames ("Baron-Robbins") are untouched
+    name = re.sub(r"\s+[-–—]\s*\S.*$", "", name)
+    return re.sub(r"\s{2,}", " ", name).strip(" -–—,")
+
+
 def is_plausible_speaker(entry):
+    entry["name"] = clean_speaker_name(entry.get("name"))
     name = (entry.get("name") or "").strip()
     if len(name) < 3 or not any(c.isalpha() for c in name):
         return False

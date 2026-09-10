@@ -101,7 +101,7 @@ I just well, yeah, I mean, I design it for both. Actually, some of the design, j
 
 ## Renata Janiszewska [33:21](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=2001s)
 
-You're open to collaboration. Okay, thanks. I look forward to listening to more information and comments after we finish up with the presentations. Next is Erin Ko, who is a New York based artist. and her practice builds on hybrid approaches to art, sculpture, video and sound with reality, expanding technologies layered and mediated realities. Technosocioisolation digital privilege and transcendence through technology are are some of the themes she explores. The result is an ongoing mashup of street art, mixed reality, totems, paintings, nfts, performances. machine learning, wearables, and other collaborative works. She works with many organizations, including the Museum of Moving Image. 3rd Rail art Recess and the Jean Frankel Theatre. She is a member of Krama collective Lumen prize. and Moma's R. And D saloons. Please give a warm welcome to Erin Ko.
+You're open to collaboration. Okay, thanks. I look forward to listening to more information and comments after we finish up with the presentations. Next is Erin Coe, who is a New York based artist. and her practice builds on hybrid approaches to art, sculpture, video and sound with reality, expanding technologies layered and mediated realities. Technosocioisolation digital privilege and transcendence through technology are are some of the themes she explores. The result is an ongoing mashup of street art, mixed reality, totems, paintings, nfts, performances. machine learning, wearables, and other collaborative works. She works with many organizations, including the Museum of Moving Image. 3rd Rail art Recess and the Jean Frankel Theatre. She is a member of Krama collective Lumen prize. and Moma's R. And D saloons. Please give a warm welcome to Erin Coe.
 
 ## Erin Ko [34:48](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=2088s)
 
@@ -205,7 +205,7 @@ Thank you. Cynthia has a question.
 
 ## Cynthia DiDonato [01:07:04](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=4024s)
 
-Yes, I have a question for Erin as well. You talked about projection of the video or animation on people. Could you tell me more about what that means.
+Yes, I have a question for Erin Ko as well. You talked about projection of the video or animation on people. Could you tell me more about what that means.
 
 ## Erin Ko [01:07:18](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=4038s)
 

@@ -50,6 +50,10 @@ def parse_artist_line(line):
     if not strong_match:
         return None
     name = clean(strong_match.group(1))
+    # many entries wrap the "Name - Location" separator inside the <strong>
+    # ("<strong>Mario De Meyer<em> - </em></strong>Ghent"), leaving a dangling
+    # dash/comma on the name after tag stripping
+    name = re.sub(r"\s*[-–—,]+\s*$", "", name).strip()
     if not name:
         return None
 

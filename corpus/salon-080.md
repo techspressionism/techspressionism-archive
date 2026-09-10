@@ -30,7 +30,7 @@ languages: ["en"]
 
 ## Renata Janiszewska [00:02](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=2s)
 
-Hello, and welcome to the eightieth text expressionism partis salon. I'm Renati Anyushka, and I'm coming to you today from the village of Lion's head. In Ontario, Canada. Our topic to day is money. Our first presenting artist is Susan DeTroy. Susan is a mixed media artist who lives and practices in Eugene Oregon. And so, Susan. over to you.
+Hello, and welcome to the eightieth text expressionism partis salon. I'm Renati Anyushka, and I'm coming to you today from the village of Lion's head. In Ontario, Canada. Our topic to day is money. Our first presenting artist is Susan Detroy. Susan is a mixed media artist who lives and practices in Eugene Oregon. And so, Susan. over to you.
 
 ## Susan DeTroy [00:39](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=39s)
 
@@ -130,7 +130,7 @@ Hey? What's up? Thanks, Frenada. and thank you, Susan, for your presentation? So
 
 ## Renata Janiszewska [23:42](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=1422s)
 
-meet at 2 25 a pound. That's something something notable. Thank you very much, Colin. Yeah. Now, I'd like to introduce 2 or one speaker from Mona mowna (The Museum of Wild and Newfangled Art) art. and some of you may have already met Carrie-ann and Joey at the last salon. but one of their mandates of the Museum is that artists should be paid and paid well. So with that little introduction, I'm going to ask either Joey or Carrie Anne to speak. Please
+meet at 2 25 a pound. That's something something notable. Thank you very much, Colin. Yeah. Now, I'd like to introduce 2 or one speaker from Mona Maudna is the museum of wild and newfangled art. and some of you may have already met Carrie-ann and Joey at the last salon. but one of their mandates of the Museum is that artists should be paid and paid well. So with that little introduction, I'm going to ask either Joey or Carrie Anne to speak. Please
 
 ## Unattributed [24:26](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=1466s)
 
@@ -218,7 +218,7 @@ Okay, good. So I'll just play from start. So what is money but value? I give you
 
 ## Renata Janiszewska [01:00:47](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=3647s)
 
-It was our pleasure. Thank you. I wanted to get back to something that Carrie Ann said earlier. The the question, Why is the art world not sustainable? Or, as Colin Goldberg say, the art industry. any thoughts, anyone.
+It was our pleasure. Thank you. I wanted to get back to something that Carrie Ann said earlier. The the question, Why is the art world not sustainable? Or, as Colin would say, the art industry. any thoughts, anyone.
 
 ## Roz Dimon [01:01:11](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=3671s)
 
