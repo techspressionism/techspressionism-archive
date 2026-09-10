@@ -226,8 +226,8 @@ INDEX_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Techspressionist Salon Archive</title>
 <link rel="stylesheet" href="style.css">
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
+<link href="pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="pagefind/pagefind-ui.js"></script>
 </head>
 <body>
 <header class="site"><div class="wrap"><strong>Techspressionist Salon Archive</strong>
@@ -242,21 +242,23 @@ in the recording.</p>
 window.addEventListener('DOMContentLoaded', () => {{
   new PagefindUI({{
     element: "#search",
+    // resolve the bundle relative to wherever index.html actually sits
+    // (site root locally, project subpath on GitHub Pages)
+    bundlePath: location.pathname.replace(/[^/]*$/, "") + "pagefind/",
     showSubResults: true,
     showImages: false,
     pageSize: 8,
     translations: {{ placeholder: "Search transcripts…", zero_results: "No matches for [SEARCH_TERM]" }},
     processResult: (result) => {{
-      // each sub-result links into the transcript at the matching segment;
-      // also give it a direct deep-link to that second of the video
+      // Pagefind derives its own base URL from bundlePath, so result URLs
+      // already resolve correctly under a project subpath. Just add a direct
+      // deep-link to the matching second of the video on each sub-result.
       const yt = result.meta && result.meta.youtube;
-      if (yt && result.sub_results) {{
-        for (const sr of result.sub_results) {{
-          const m = (sr.url || "").match(/#t(\\d+)/);
-          if (m) {{
-            const link = yt + "&t=" + m[1] + "s";
-            sr.excerpt = sr.excerpt + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>';
-          }}
+      for (const sr of (result.sub_results || [])) {{
+        const m = (sr.url || "").match(/#t(\\d+)/);
+        if (yt && m) {{
+          const link = yt + "&t=" + m[1] + "s";
+          sr.excerpt = sr.excerpt + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>';
         }}
       }}
       return result;
