@@ -2,7 +2,7 @@
 type: salon
 number: 70
 title: Learning Through Making
-date_recorded: 2020-09-01
+date_recorded: 2023-05-24
 date_published: 2023-06-01
 video_id: GW0Vig0R8wA
 url: "https://www.youtube.com/watch?v=GW0Vig0R8wA"

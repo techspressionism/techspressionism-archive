@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=XpQRmDG0f5s"
 duration_seconds: 5908
 moderator: null
 speakers:
-  - name: Introduction by Cynthia Beth Rubin, Exhibition Organizer
-    country: null
-    start: 203
   - name: Annette Weintraub
     country: NYC, NY USA
     start: 782
@@ -39,16 +36,11 @@ speakers:
   - name: Stephen Paré
     country: Houston TX USA
     start: 3086
-  - name: Digital Screen Artworks
-    country: Presented by Lucy Boyd Wilson
-    start: 3521
-  - name: Digital Screen Artworks - Presented by Lucy Boyd Wilson
-    country: Digital Screen Music by Stephen Paré
-    start: 3521
 transcript_source: zoom-transcript
 languages: ["en"]
 flags:
   - moderator_missing
+  - speaker_index_partially_unparseable
 ---
 
 ## Colin Goldberg [00:00](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=0s)
@@ -165,7 +157,7 @@ Yes, great, thank you. That was funny. Yeah, I want to, so, acknowledgement, I m
 
 ## Cynthia Beth Rubin [55:37](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3337s)
 
-Okay, thank you. That was… that was really great, and we're gonna hear more from Steven in a minute, because we will be seeing the Digital Screen Artworks, but before we do that, I wanted to take a minute to see if Sharin, who… it's very late at night for her, we had the time change, so when we first said, we're doing this Zoom, you can come, and it'll be at 9 o'clock your time in the evening, like, a little late, but not so bad, and then all of a sudden, whoops, it's 10 o'clock at night, and now it's 11 o'clock at night. But, Sharin… Would you like to say hello?
+Okay, thank you. That was… that was really great, and we're gonna hear more from Steven in a minute, because we will be seeing the digital screen, videos, but before we do that, I wanted to take a minute to see if Sharin, who… it's very late at night for her, we had the time change, so when we first said, we're doing this Zoom, you can come, and it'll be at 9 o'clock your time in the evening, like, a little late, but not so bad, and then all of a sudden, whoops, it's 10 o'clock at night, and now it's 11 o'clock at night. But, Sharin… Would you like to say hello?
 
 ## Unattributed [56:22](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3382s)
 
@@ -205,7 +197,7 @@ Yeah.
 
 ## Cynthia Beth Rubin [57:38](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3458s)
 
-Thank you so much. I mean, this, Sharin, you've been wonderful to work with, and as I mentioned earlier, you keep bringing people to see the work. And, we carried over some catalogs, and Sharin is making sure that people get the catalogs, and she is talking to people about possibly traveling the show. So, very hard at work on our behalf. As well as welcoming us so much. So, at this point, we are going to turn to Lucy Boyd-Wilson, who can share her screen, we… and she will mention a little bit of an overview of the Digital Screen Artworks that we had, and as you will find out, you'll be hearing, Stephen's work. So, okay, let's see.
+Thank you so much. I mean, this, Sharin, you've been wonderful to work with, and as I mentioned earlier, you keep bringing people to see the work. And, we carried over some catalogs, and Sharin is making sure that people get the catalogs, and she is talking to people about possibly traveling the show. So, very hard at work on our behalf. As well as welcoming us so much. So, at this point, we are going to turn to Lucy Boyd-Wilson, who can share her screen, we… and she will mention a little bit of an overview of the digital screen artists that we had, and as you will find out, you'll be hearing, Stephen's work. So, okay, let's see.
 
 ## Lucy Boyd-Wilson [58:35](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3515s)
 
@@ -245,7 +237,7 @@ Yeah, wonderful. Thank you so much.
 
 ## Cynthia Beth Rubin [01:11:16](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4276s)
 
-Yeah, certificates of participation. It's a nice touch. Gregory Little, I still have to send you yours. So, one of the requirements for the show was that people attend, and that was one of the reasons for doing the Digital Screen Artworks well, because there were a lot of wonderful people who were unable to come. And then, of course, we made exceptions for some emergency, unforeseen circumstances. But, it's a great model for future international shows. Due. And we hope… More. So, any questions? Comments? Really? No questions?
+Yeah, certificates of participation. It's a nice touch. Gregory Little, I still have to send you yours. So, one of the requirements for the show was that people attend, and that was one of the reasons for doing the digital reel as well, because there were a lot of wonderful people who were unable to come. And then, of course, we made exceptions for some emergency, unforeseen circumstances. But, it's a great model for future international shows. Due. And we hope… More. So, any questions? Comments? Really? No questions?
 
 ## Michael Pierre Price [01:12:06](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4326s)
 
@@ -333,7 +325,7 @@ Nope. I'm just… I'm just taken by how you guys got that whole thing together, 
 
 ## Cynthia Beth Rubin [01:19:23](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4763s)
 
-You mean… well, technically today, first, the big picture is that we met over Zoom pretty regularly. We didn't have an absolute tight schedule of saying, you know, every Monday at such and such a time. we… we… there were times when we knew we had to meet more frequently, and then, actually, in the past two weeks, we didn't meet at all once we set what we were going to do for today, because people were madly working on their presentations and catching up on their lives. But… the meeting to plan the exhibit was absolutely essential, and, what people did… I mean, there are people in this group here Who, worked on the catalog. In fact, we could do a quick little, like, you know. who worked on the catalog? Like, who helped design the catalog and do the layout thing? Do you want to, like, want to wave your hand a little and say you were a catalog person? Yeah, including, I'm seeing Cynthia Di Donato actually proofread our, the Uzbek. Because chat… without being able to read it, because chat GPT translated people's names, and we had to… we wanted to translate them back, proper names, so that was great. And so, all these people who just raised their hand. People, Roz designed the logo, the overall design of the catalog was just a huge job in going back in and fixing the styles, the proofreading, and I think… Who else helped proofread besides, Cynthia? I know Annette did it, Roz Dimon it, Steven did it, I… I did it, but as you can see, I'm… the alphabet's not my strong point, so that, you know, proofreading. We had… I'm trying to think… I mean, there was so much work that went into this, just the communication back and forth, Sardor at the U.S. Embassy really pushed us to be culturally aware, which was great. We didn't exactly follow Patrick's advice to practice our Russian, which would have been helpful. We… but we practiced our different ways of communicating. So what else? You know, Michael Woodruff forever on the videos, and if you notice, he did this really great thing of having bars at the bottom to give you an idea of how long it was going, which was really important. We wanted to make it quick enough so that walking around the gallery, people would catch more than one artist, but long enough so you would become interested, and then we had the websites there. Lucy worked on communicating with all of the Digital Screen Artworks and organizing, which… which was really great. Lee. stepped in so many times to do so many things. Helping us envision the space was a really biggie, dealing with some of the catalog issues that we had. And, what else, Lee?
+You mean… well, technically today, first, the big picture is that we met over Zoom pretty regularly. We didn't have an absolute tight schedule of saying, you know, every Monday at such and such a time. we… we… there were times when we knew we had to meet more frequently, and then, actually, in the past two weeks, we didn't meet at all once we set what we were going to do for today, because people were madly working on their presentations and catching up on their lives. But… the meeting to plan the exhibit was absolutely essential, and, what people did… I mean, there are people in this group here Who, worked on the catalog. In fact, we could do a quick little, like, you know. who worked on the catalog? Like, who helped design the catalog and do the layout thing? Do you want to, like, want to wave your hand a little and say you were a catalog person? Yeah, including, I'm seeing Cynthia Di Donato actually proofread our, the Uzbek. Because chat… without being able to read it, because chat GPT translated people's names, and we had to… we wanted to translate them back, proper names, so that was great. And so, all these people who just raised their hand. People, Roz designed the logo, the overall design of the catalog was just a huge job in going back in and fixing the styles, the proofreading, and I think… Who else helped proofread besides, Cynthia? I know Annette did it, Roz Dimon it, Steven did it, I… I did it, but as you can see, I'm… the alphabet's not my strong point, so that, you know, proofreading. We had… I'm trying to think… I mean, there was so much work that went into this, just the communication back and forth, Sardor at the U.S. Embassy really pushed us to be culturally aware, which was great. We didn't exactly follow Patrick's advice to practice our Russian, which would have been helpful. We… but we practiced our different ways of communicating. So what else? You know, Michael Woodruff forever on the videos, and if you notice, he did this really great thing of having bars at the bottom to give you an idea of how long it was going, which was really important. We wanted to make it quick enough so that walking around the gallery, people would catch more than one artist, but long enough so you would become interested, and then we had the websites there. Lucy worked on communicating with all of the digital screen artists and organizing, which… which was really great. Lee. stepped in so many times to do so many things. Helping us envision the space was a really biggie, dealing with some of the catalog issues that we had. And, what else, Lee?
 
 ## Lee Day [01:22:53](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4973s)
 

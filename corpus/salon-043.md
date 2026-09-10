@@ -2,7 +2,7 @@
 type: salon
 number: 43
 title: FEMME TECH
-date_recorded: 2022-05-12
+date_recorded: 2022-05-11
 date_published: 2022-05-12
 video_id: KyBLFghq4N0
 url: "https://www.youtube.com/watch?v=KyBLFghq4N0"

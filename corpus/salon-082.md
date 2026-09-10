@@ -2,7 +2,7 @@
 type: salon
 number: 82
 title: April 4, 2024
-date_recorded: 2020-09-01
+date_recorded: 2024-04-04
 date_published: 2024-05-06
 video_id: Lc0jSsfTb9A
 url: "https://www.youtube.com/watch?v=Lc0jSsfTb9A"

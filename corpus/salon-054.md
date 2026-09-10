@@ -2,7 +2,7 @@
 type: salon
 number: 54
 title: Open Studios
-date_recorded: 2020-09-01
+date_recorded: 2022-10-12
 date_published: 2022-10-13
 video_id: NFt4AfP-aRA
 url: "https://www.youtube.com/watch?v=NFt4AfP-aRA"

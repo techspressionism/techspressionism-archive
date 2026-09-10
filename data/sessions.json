@@ -13,12 +13,6 @@
     "moderator": "Davonte Bradley",
     "speakers": [
       {
-        "name": "Open Discussion 55:00",
-        "country": null,
-        "start_seconds": 7200,
-        "start_display": "02:00:00"
-      },
-      {
         "name": "Frédéric Pons",
         "country": "Pantin, France",
         "start_seconds": 210,
@@ -56,15 +50,17 @@
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [],
+    "flags": [
+      "speaker_index_missing"
+    ],
     "notes": [
+      "recording_date_from_title",
       "speaker_added_from_site:Frédéric Pons",
       "speaker_added_from_site:Giovanna Sun",
       "speaker_added_from_site:Malavika Mandal Andrew",
       "speaker_added_from_site:Michael Pointer",
       "speaker_added_from_site:Lucy Boyd-Wilson",
-      "speaker_added_from_site:Karen LaFleur",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:Karen LaFleur"
     ],
     "transcript_quality": {
       "word_count": 17291,
@@ -123,12 +119,12 @@
       "speaker_index_missing"
     ],
     "notes": [
+      "recording_date_from_title",
       "speaker_added_from_site:Roz Dimon",
       "speaker_added_from_site:Lucie Králíková",
       "speaker_added_from_site:Patrick Lichty",
       "speaker_added_from_site:Leslie Kell",
-      "speaker_added_from_site:Carmen “Payasa” Moses",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:Carmen “Payasa” Moses"
     ],
     "transcript_quality": {
       "word_count": 17685,
@@ -185,12 +181,12 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Anne Morgan Spalter",
       "country_backfilled_from_site:Darcy Gerbarg",
       "country_backfilled_from_site:Sherry Karver",
       "country_backfilled_from_site:Brandon Gellis",
-      "country_backfilled_from_site:Davonte Bradley",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Davonte Bradley"
     ],
     "transcript_quality": {
       "word_count": 17679,
@@ -247,12 +243,12 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Steve Miller",
       "country_backfilled_from_site:Ryan Henderson",
       "country_backfilled_from_site:Lauren Woods",
       "country_backfilled_from_site:Jan Swinburne",
-      "country_backfilled_from_site:Lucie Králíková",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Lucie Králíková"
     ],
     "transcript_quality": {
       "word_count": 14553,
@@ -303,11 +299,11 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Carter Hodgkin",
       "country_backfilled_from_site:Michael Rees",
       "country_backfilled_from_site:Colin Goldberg",
-      "country_backfilled_from_site:Michael Pierre Price",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
       "word_count": 18033,
@@ -352,10 +348,10 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Negin Ehtesabian",
       "country_backfilled_from_site:Diane Marsella",
-      "country_backfilled_from_site:Sue Beyer",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Sue Beyer"
     ],
     "transcript_quality": {
       "word_count": 17266,
@@ -400,10 +396,10 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Susan de Troy",
       "country_backfilled_from_site:Sherry Karver",
-      "country_backfilled_from_site:Deann Stein Hasinoff",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Deann Stein Hasinoff"
     ],
     "transcript_quality": {
       "word_count": 18172,
@@ -462,11 +458,11 @@
       "moderator_missing"
     ],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Andrea Bonaceto",
       "country_backfilled_from_site:Tommy Mintz",
       "country_backfilled_from_site:Clive Holden",
-      "speaker_added_from_site:TECHSPRESSIONIST COLLAB#1 - Collaborations Across Borders, Time and Space",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:TECHSPRESSIONIST COLLAB#1 - Collaborations Across Borders, Time and Space"
     ],
     "transcript_quality": {
       "word_count": 21598,
@@ -511,10 +507,10 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Randi Matushevitz",
       "country_backfilled_from_site:Gary Hopkins",
-      "country_backfilled_from_site:Roz Dimon",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Roz Dimon"
     ],
     "transcript_quality": {
       "word_count": 18985,
@@ -559,10 +555,10 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Michael Pierre Price",
       "country_backfilled_from_site:Greggory Hill",
-      "country_backfilled_from_site:Michael Pointer",
-      "recording_date_backfilled_from_site"
+      "country_backfilled_from_site:Michael Pointer"
     ],
     "transcript_quality": {
       "word_count": 16746,
@@ -866,12 +862,6 @@
         "start_display": "00:25:35"
       },
       {
-        "name": "Deann Stein Hasinoff: Presentation on ISEA",
-        "country": "International Society of Experimental Artists",
-        "start_seconds": 3294,
-        "start_display": "00:54:54"
-      },
-      {
         "name": "Davonte Bradley",
         "country": "Richmond, Virginia USA",
         "start_seconds": 4527,
@@ -885,7 +875,9 @@
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [],
+    "flags": [
+      "speaker_index_partially_unparseable"
+    ],
     "notes": [
       "country_backfilled_from_site:Verneda Lights",
       "country_backfilled_from_site:Darcy Gerbarg",
@@ -1221,7 +1213,7 @@
     "number": 34,
     "title_raw": "Techspressionist Salon #34 - Old-school Open Mic with Robert DuGrenier - December 7, 2021",
     "session_title": "Old-school Open Mic with Robert DuGrenier",
-    "date_recorded": "2021-01-04",
+    "date_recorded": "2021-12-07",
     "date_published": "2022-01-05",
     "duration_seconds": 6898,
     "thumbnail": "https://i.ytimg.com/vi/lUmGsX0p78E/maxresdefault.jpg",
@@ -1237,8 +1229,8 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "country_backfilled_from_site:Robert DuGrenier",
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title",
+      "country_backfilled_from_site:Robert DuGrenier"
     ],
     "transcript_quality": {
       "word_count": 16787,
@@ -1266,28 +1258,15 @@
         "country": "NYC NY USA",
         "start_seconds": 84,
         "start_display": "00:01:24"
-      },
-      {
-        "name": "MICHAEL PIERRE PRICE",
-        "country": "Phoenix, AZ USA",
-        "start_seconds": 5420,
-        "start_display": "01:30:20"
-      },
-      {
-        "name": "PRÏNCE MAGNØLIA X ST RIVERA",
-        "country": "PRÏNCE MAGNØLÏA",
-        "start_seconds": 2743,
-        "start_display": "00:45:43"
       }
     ],
     "transcript_source": "youtube-auto-captions",
     "flags": [
-      "moderator_missing"
+      "moderator_missing",
+      "speaker_index_partially_unparseable"
     ],
     "notes": [
       "country_backfilled_from_site:LILY KOSTRZEWA",
-      "country_backfilled_from_site:MICHAEL PIERRE PRICE",
-      "speaker_added_from_site:PRÏNCE MAGNØLIA X ST RIVERA",
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
@@ -1344,18 +1323,12 @@
     "number": 37,
     "title_raw": "Techspressionist Salon #37 - Diana de Avila & Patrick Lichty - February 16, 2022",
     "session_title": "Diana de Avila & Patrick Lichty",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-02-16",
     "date_published": "2022-02-17",
     "duration_seconds": 5252,
     "thumbnail": "https://i.ytimg.com/vi/1hehNivSYTo/maxresdefault.jpg",
     "moderator": null,
     "speakers": [
-      {
-        "name": "DIANA DE AVILA",
-        "country": "Sarasota, FL USA",
-        "start_seconds": 131,
-        "start_display": "00:02:11"
-      },
       {
         "name": "PATRICK LICHTY",
         "country": "Winona MN USA",
@@ -1365,10 +1338,11 @@
     ],
     "transcript_source": "youtube-auto-captions",
     "flags": [
-      "moderator_missing"
+      "moderator_missing",
+      "speaker_index_partially_unparseable"
     ],
     "notes": [
-      "country_backfilled_from_site:DIANA DE AVILA",
+      "recording_date_from_title",
       "country_backfilled_from_site:PATRICK LICHTY"
     ],
     "transcript_quality": {
@@ -1394,13 +1368,13 @@
     "speakers": [
       {
         "name": "STEVE MILLER",
-        "country": "SAGAPONACK NY // USA",
+        "country": null,
         "start_seconds": 91,
         "start_display": "00:01:31"
       },
       {
         "name": "LEE DAY",
-        "country": "Bearsville NY // USA",
+        "country": null,
         "start_seconds": 1919,
         "start_display": "00:31:59"
       }
@@ -1410,8 +1384,6 @@
       "moderator_missing"
     ],
     "notes": [
-      "country_backfilled_from_site:STEVE MILLER",
-      "country_backfilled_from_site:LEE DAY",
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
@@ -1440,7 +1412,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 12066,
@@ -1468,7 +1440,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10348,
@@ -1485,7 +1457,7 @@
     "number": 43,
     "title_raw": "Techspressionist Salon #43 - FEMME TECH - May 11, 2022 - Moderated by Roz Dimon",
     "session_title": "FEMME TECH",
-    "date_recorded": "2022-05-12",
+    "date_recorded": "2022-05-11",
     "date_published": "2022-05-12",
     "duration_seconds": 6295,
     "thumbnail": "https://i.ytimg.com/vi/KyBLFghq4N0/maxresdefault.jpg",
@@ -1496,7 +1468,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 13270,
@@ -1540,7 +1512,7 @@
     "number": 45,
     "title_raw": "Techspressionist Salon #45 -  \"...AND BEYOND\" : Show & Tell- June 8, 2022",
     "session_title": "\"...AND BEYOND\" : Show & Tell",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-06-08",
     "date_published": "2022-06-10",
     "duration_seconds": 5278,
     "thumbnail": "https://i.ytimg.com/vi/pxavr84wDJs/maxresdefault.jpg",
@@ -1552,7 +1524,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10774,
@@ -1569,7 +1541,7 @@
     "number": 46,
     "title_raw": "Salon 46 - Weird Media - June 22, 2022",
     "session_title": "Weird Media",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-06-22",
     "date_published": "2022-06-23",
     "duration_seconds": 5350,
     "thumbnail": "https://i.ytimg.com/vi/xo2ql3MgJlw/maxresdefault.jpg",
@@ -1580,7 +1552,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10603,
@@ -1608,7 +1580,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 11891,
@@ -1652,7 +1624,7 @@
     "number": 49,
     "title_raw": "Techspressionist Salon 49 - Movement  - August 3, 2022",
     "session_title": "Movement",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-08-03",
     "date_published": "2022-08-04",
     "duration_seconds": 5908,
     "thumbnail": "https://i.ytimg.com/vi/iVP63DGbCGY/maxresdefault.jpg",
@@ -1662,7 +1634,9 @@
     "flags": [
       "speaker_index_missing"
     ],
-    "notes": [],
+    "notes": [
+      "recording_date_from_title"
+    ],
     "transcript_quality": {
       "word_count": 14779,
       "duration_seconds": 5908,
@@ -1689,7 +1663,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 13875,
@@ -1717,7 +1691,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 12491,
@@ -1760,7 +1734,7 @@
     "number": 53,
     "title_raw": "Techspressionist Salon 53 - Photography and Media Confluence - September 28, 2022",
     "session_title": "Photography and Media Confluence",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-09-28",
     "date_published": "2022-09-29",
     "duration_seconds": 5974,
     "thumbnail": "https://i.ytimg.com/vi/ACwcZ2XHb9E/maxresdefault.jpg",
@@ -1771,7 +1745,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 12281,
@@ -1788,7 +1762,7 @@
     "number": 54,
     "title_raw": "Techspressionist Salon 54 - Open Studios - October 12, 2022",
     "session_title": "Open Studios",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-10-12",
     "date_published": "2022-10-13",
     "duration_seconds": 6088,
     "thumbnail": "https://i.ytimg.com/vi/NFt4AfP-aRA/maxresdefault.jpg",
@@ -1798,9 +1772,7 @@
     "flags": [
       "speaker_index_missing"
     ],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 12568,
       "duration_seconds": 6088,
@@ -1816,7 +1788,7 @@
     "number": 55,
     "title_raw": "Techspressionist Salon 55 - The NFT Space - October 27, 2022",
     "session_title": "The NFT Space",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-10-27",
     "date_published": "2022-10-27",
     "duration_seconds": 5419,
     "thumbnail": "https://i.ytimg.com/vi/sfMxOAC97Yo/maxresdefault.jpg",
@@ -1827,7 +1799,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 13386,
@@ -1904,7 +1876,7 @@
       "moderator_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 13752,
@@ -1921,7 +1893,7 @@
     "number": 57,
     "title_raw": "Techspressionist Salon 57 - Nightmares - November 23, 2022",
     "session_title": "Nightmares",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-11-23",
     "date_published": "2022-11-25",
     "duration_seconds": 5423,
     "thumbnail": "https://i.ytimg.com/vi/Q_5yvTBIL5M/maxresdefault.jpg",
@@ -1997,8 +1969,7 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "speaker_added_from_site:Susan DeTroy - Oregon USA",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:Susan DeTroy - Oregon USA"
     ],
     "transcript_quality": {
       "word_count": 11035,
@@ -2015,7 +1986,7 @@
     "number": 58,
     "title_raw": "Techspressionist Salon 58 - Dreams - December 7, 2022",
     "session_title": "Dreams",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-12-07",
     "date_published": "2022-12-08",
     "duration_seconds": 6309,
     "thumbnail": "https://i.ytimg.com/vi/7zhZis1d3po/maxresdefault.jpg",
@@ -2073,7 +2044,7 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 11284,
@@ -2090,24 +2061,12 @@
     "number": 59,
     "title_raw": "Techspressionist Salon 59 - AI: Trends and Issues - December 21, 2022",
     "session_title": "AI: Trends and Issues",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2022-12-21",
     "date_published": "2022-12-22",
     "duration_seconds": 5873,
     "thumbnail": "https://i.ytimg.com/vi/M3lz4NxC8N4/maxresdefault.jpg",
     "moderator": "Davonte Bradley (Davo)",
     "speakers": [
-      {
-        "name": "Opening remarks",
-        "country": "Davo",
-        "start_seconds": 0,
-        "start_display": "00:00:00"
-      },
-      {
-        "name": "Techspressionism Introduction",
-        "country": "Colin Goldberg",
-        "start_seconds": 74,
-        "start_display": "00:01:14"
-      },
       {
         "name": "Journal announcement",
         "country": "Verneda Lights",
@@ -2188,23 +2147,16 @@
       },
       {
         "name": "Paul Kroner",
-        "country": "Exhibition Announcement",
+        "country": null,
         "start_seconds": 5560,
         "start_display": "01:32:40"
-      },
-      {
-        "name": "Introduction",
-        "country": "Colin Goldberg",
-        "start_seconds": 74,
-        "start_display": "00:01:14"
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [],
-    "notes": [
-      "speaker_added_from_site:Introduction",
-      "recording_date_backfilled_from_site"
+    "flags": [
+      "speaker_index_partially_unparseable"
     ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 14373,
       "duration_seconds": 5873,
@@ -2220,7 +2172,7 @@
     "number": 60,
     "title_raw": "Techspressionist Salon 60 - Media Platforms - January 4, 2023",
     "session_title": "Media Platforms",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-01-04",
     "date_published": "2023-01-05",
     "duration_seconds": 5917,
     "thumbnail": "https://i.ytimg.com/vi/Iu25Pv7EqK0/maxresdefault.jpg",
@@ -2243,9 +2195,7 @@
     "flags": [
       "moderator_missing"
     ],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 13772,
       "duration_seconds": 5917,
@@ -2261,7 +2211,7 @@
     "number": 61,
     "title_raw": "Techspressionist Salon 61 - Open Studios - January 18, 2023",
     "session_title": "Open Studios",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-01-18",
     "date_published": "2023-01-19",
     "duration_seconds": 5529,
     "thumbnail": "https://i.ytimg.com/vi/axa3_RqLoWw/maxresdefault.jpg",
@@ -2342,9 +2292,7 @@
     ],
     "transcript_source": "youtube-auto-captions",
     "flags": [],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 11075,
       "duration_seconds": 5529,
@@ -2360,7 +2308,7 @@
     "number": 62,
     "title_raw": "Techspressionist Salon 62 - Art Pirates - February 1, 2023",
     "session_title": "Art Pirates",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-02-01",
     "date_published": "2023-02-05",
     "duration_seconds": 5572,
     "thumbnail": "https://i.ytimg.com/vi/k8Prps3LUKE/maxresdefault.jpg",
@@ -2393,8 +2341,7 @@
     "notes": [
       "speaker_added_from_site:Zachary Zaitzeff - Louisiana USA",
       "speaker_added_from_site:Steve Miller - Sagaponack NY USA",
-      "speaker_added_from_site:Colin Goldberg - Vermont USA",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:Colin Goldberg - Vermont USA"
     ],
     "transcript_quality": {
       "word_count": 12962,
@@ -2431,15 +2378,9 @@
       },
       {
         "name": "Marlow Shami - CT USA",
-        "country": "00:53:57 - Video presentation",
+        "country": null,
         "start_seconds": 1023,
         "start_display": "00:17:03"
-      },
-      {
-        "name": "Video presentation",
-        "country": null,
-        "start_seconds": 3237,
-        "start_display": "00:53:57"
       },
       {
         "name": "Colin Goldberg - VT USA",
@@ -2473,10 +2414,10 @@
       }
     ],
     "transcript_source": "youtube-auto-captions",
-    "flags": [],
-    "notes": [
-      "country_backfilled_from_site:Marlow Shami - CT USA"
+    "flags": [
+      "speaker_index_partially_unparseable"
     ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 11832,
       "duration_seconds": 5420,
@@ -2620,7 +2561,7 @@
     "number": 66,
     "title_raw": "Techspressionist Salon 66 - Mediums - March 29, 2023",
     "session_title": "Mediums",
-    "date_recorded": "2023-03-30",
+    "date_recorded": "2023-03-29",
     "date_published": "2023-04-07",
     "duration_seconds": 5337,
     "thumbnail": "https://i.ytimg.com/vi/UBx4LDG--60/maxresdefault.jpg",
@@ -2654,9 +2595,9 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
+      "recording_date_from_title",
       "country_backfilled_from_site:Mark Strodl",
-      "speaker_added_from_site:Morgan Harper Nichols USA",
-      "recording_date_backfilled_from_site"
+      "speaker_added_from_site:Morgan Harper Nichols USA"
     ],
     "transcript_quality": {
       "word_count": 12571,
@@ -2715,8 +2656,8 @@
       "moderator_missing"
     ],
     "notes": [
-      "speaker_added_from_site:Michael Pierre Price",
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title",
+      "speaker_added_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
       "word_count": 12233,
@@ -2733,7 +2674,7 @@
     "number": 68,
     "title_raw": "Techspressionist Salon 68 - Appropriation - April 26, 2023",
     "session_title": "Appropriation",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-04-26",
     "date_published": "2023-05-08",
     "duration_seconds": 5872,
     "thumbnail": "https://i.ytimg.com/vi/vMQWnv70FvA/maxresdefault.jpg",
@@ -2779,7 +2720,7 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 13206,
@@ -2796,7 +2737,7 @@
     "number": 69,
     "title_raw": "Techspressionist Salon 69 - Monochrome  - May 10, 2023",
     "session_title": "Monochrome",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-05-10",
     "date_published": "2023-05-16",
     "duration_seconds": 5535,
     "thumbnail": "https://i.ytimg.com/vi/90wRPqAgA98/maxresdefault.jpg",
@@ -2883,9 +2824,7 @@
     ],
     "transcript_source": "youtube-auto-captions",
     "flags": [],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 10673,
       "duration_seconds": 5535,
@@ -2901,7 +2840,7 @@
     "number": 70,
     "title_raw": "Techspressionist Salon 70 - Learning Through Making  - May 24 2023",
     "session_title": "Learning Through Making",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-05-24",
     "date_published": "2023-06-01",
     "duration_seconds": 5438,
     "thumbnail": "https://i.ytimg.com/vi/GW0Vig0R8wA/maxresdefault.jpg",
@@ -2964,9 +2903,7 @@
     ],
     "transcript_source": "youtube-auto-captions",
     "flags": [],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 12331,
       "duration_seconds": 5438,
@@ -3116,7 +3053,7 @@
     "number": 73,
     "title_raw": "Techspressionist Salon 73 - Counterpoint  - August 3, 2023",
     "session_title": "Counterpoint",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2023-08-03",
     "date_published": "2023-08-23",
     "duration_seconds": 4507,
     "thumbnail": "https://i.ytimg.com/vi/oimOOlyY0BY/maxresdefault.jpg",
@@ -3162,8 +3099,8 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "country_backfilled_from_site:Susan DeTroy",
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title",
+      "country_backfilled_from_site:Susan DeTroy"
     ],
     "transcript_quality": {
       "word_count": 8876,
@@ -3226,7 +3163,7 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 12494,
@@ -3391,19 +3328,13 @@
         "country": "Cape Cod, MA USA",
         "start_seconds": 4873,
         "start_display": "01:21:13"
-      },
-      {
-        "name": "CYBERIANA Q & A",
-        "country": "https://techspressionism.com/cyberiana",
-        "start_seconds": 5590,
-        "start_display": "01:33:10"
       }
     ],
     "transcript_source": "zoom-transcript",
-    "flags": [],
-    "notes": [
-      "country_backfilled_from_site:CYBERIANA Q & A"
+    "flags": [
+      "speaker_index_partially_unparseable"
     ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 22994,
       "duration_seconds": 10822,
@@ -3448,40 +3379,11 @@
         "country": "Lion's Head Canada",
         "start_seconds": 3480,
         "start_display": "00:58:00"
-      },
-      {
-        "name": "55",
-        "country": "Karen LaFleur // Cape Cod MA USA",
-        "start_seconds": 2,
-        "start_display": "00:00:02"
-      },
-      {
-        "name": "50",
-        "country": "Seth Indigo Carnes // NYC/Roscoe NY USA",
-        "start_seconds": 27,
-        "start_display": "00:00:27"
-      },
-      {
-        "name": "47",
-        "country": "Sherry Karver // Oakland CA USA",
-        "start_seconds": 45,
-        "start_display": "00:00:45"
-      },
-      {
-        "name": "00",
-        "country": "Renata Janiszewska //Lion's Head Canada",
-        "start_seconds": 58,
-        "start_display": "00:00:58"
       }
     ],
     "transcript_source": "zoom-transcript",
     "flags": [],
-    "notes": [
-      "speaker_added_from_site:55",
-      "speaker_added_from_site:50",
-      "speaker_added_from_site:47",
-      "speaker_added_from_site:00"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 14391,
       "duration_seconds": 5599,
@@ -3607,7 +3509,7 @@
     "number": 81,
     "title_raw": "Techspressionist Salon 81 - Open Studios // April 4, 2024",
     "session_title": "April 4, 2024",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2024-04-04",
     "date_published": "2024-04-04",
     "duration_seconds": 5305,
     "thumbnail": "https://i.ytimg.com/vi/VfiH4ayJbGE/maxresdefault.jpg",
@@ -3677,7 +3579,7 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10961,
@@ -3694,7 +3596,7 @@
     "number": 82,
     "title_raw": "Techspressionist Salon 82 - Storytelling // April 4, 2024",
     "session_title": "April 4, 2024",
-    "date_recorded": "2020-09-01",
+    "date_recorded": "2024-04-04",
     "date_published": "2024-05-06",
     "duration_seconds": 5686,
     "thumbnail": "https://i.ytimg.com/vi/Lc0jSsfTb9A/maxresdefault.jpg",
@@ -3734,7 +3636,7 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 12865,
@@ -4112,7 +4014,7 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10825,
@@ -4169,7 +4071,7 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 11461,
@@ -4186,7 +4088,7 @@
     "number": 91,
     "title_raw": "Techspressionist Salon 91 - Origins Part Two -- February 6, 2025",
     "session_title": "Origins Part Two",
-    "date_recorded": "2025-01-02",
+    "date_recorded": "2025-02-06",
     "date_published": "2025-02-11",
     "duration_seconds": 5088,
     "thumbnail": "https://i.ytimg.com/vi/5RXM-lkRkhI/maxresdefault.jpg",
@@ -4232,7 +4134,7 @@
     "transcript_source": "youtube-auto-captions",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 11511,
@@ -4283,7 +4185,7 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_from_title"
     ],
     "transcript_quality": {
       "word_count": 10791,
@@ -4341,39 +4243,27 @@
       },
       {
         "name": "Tommy Mintz",
-        "country": "Hello Chelsea Exhibition Preview",
+        "country": null,
         "start_seconds": 780,
         "start_display": "00:13:00"
       },
       {
         "name": "Yuge Zhou",
-        "country": "Curator Introduction",
+        "country": null,
         "start_seconds": 1162,
         "start_display": "00:19:22"
       },
       {
         "name": "Yuge Zhou",
-        "country": "About 150 Media Stream",
+        "country": null,
         "start_seconds": 1275,
         "start_display": "00:21:15"
-      },
-      {
-        "name": "Yuge Zhou // Installation Tour / Curator Q&A",
-        "country": "Video Walkthrough: Colin Mason",
-        "start_seconds": 1635,
-        "start_display": "00:27:15"
       },
       {
         "name": "Colin Goldberg",
         "country": "Interior Lanscape",
         "start_seconds": 2730,
         "start_display": "00:45:30"
-      },
-      {
-        "name": "Renata Janiszewska // Souffles Pastels",
-        "country": "Pastel Sighs",
-        "start_seconds": 2905,
-        "start_display": "00:48:25"
       },
       {
         "name": "Karen LaFleur",
@@ -4383,26 +4273,15 @@
       },
       {
         "name": "Jan Swinburne",
-        "country": "SONIC FLIGHT: Towards Peace",
+        "country": null,
         "start_seconds": 3586,
         "start_display": "00:59:46"
-      },
-      {
-        "name": "Q&A",
-        "country": "Moderated by Renata Janiszewska",
-        "start_seconds": 3942,
-        "start_display": "01:05:42"
-      },
-      {
-        "name": "Closing Remarks",
-        "country": "Renata Janiszewska",
-        "start_seconds": 4260,
-        "start_display": "01:11:00"
       }
     ],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "moderator_missing"
+      "moderator_missing",
+      "speaker_index_partially_unparseable"
     ],
     "notes": [],
     "transcript_quality": {
@@ -4428,7 +4307,7 @@
     "speakers": [
       {
         "name": "SURPRISE CAMEO!!",
-        "country": "Exhibition Information",
+        "country": null,
         "start_seconds": 1409,
         "start_display": "00:23:29"
       }
@@ -4437,9 +4316,7 @@
     "flags": [
       "moderator_missing"
     ],
-    "notes": [
-      "country_backfilled_from_site:SURPRISE CAMEO!!"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 12197,
       "duration_seconds": 4784,
@@ -4662,43 +4539,43 @@
     "speakers": [
       {
         "name": "Verneda Lights",
-        "country": "https://www.instagram.com/vernedalights/",
+        "country": null,
         "start_seconds": 130,
         "start_display": "00:02:10"
       },
       {
         "name": "J Eric Cook",
-        "country": "https://www.instagram.com/ad.tumulum/",
+        "country": null,
         "start_seconds": 1195,
         "start_display": "00:19:55"
       },
       {
         "name": "Clara Francesca",
-        "country": "https://www.instagram.com/clar_esca/",
+        "country": null,
         "start_seconds": 1850,
         "start_display": "00:30:50"
       },
       {
         "name": "Anne Wichmann",
-        "country": "https://www.instagram.com/shes_excited/",
+        "country": null,
         "start_seconds": 2289,
         "start_display": "00:38:09"
       },
       {
         "name": "Naz Karagoz",
-        "country": "https://www.instagram.com/duality.live/",
+        "country": null,
         "start_seconds": 2769,
         "start_display": "00:46:09"
       },
       {
         "name": "Susan Detroy",
-        "country": "https://beacons.ai/susandetroyartist",
+        "country": null,
         "start_seconds": 2990,
         "start_display": "00:49:50"
       },
       {
         "name": "Heidi Boisvert",
-        "country": "https://www.instagram.com/hjboisvert/",
+        "country": null,
         "start_seconds": 3742,
         "start_display": "01:02:22"
       }
@@ -4706,13 +4583,6 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "country_backfilled_from_site:Verneda Lights",
-      "country_backfilled_from_site:J Eric Cook",
-      "country_backfilled_from_site:Clara Francesca",
-      "country_backfilled_from_site:Anne Wichmann",
-      "country_backfilled_from_site:Naz Karagoz",
-      "country_backfilled_from_site:Susan Detroy",
-      "country_backfilled_from_site:Heidi Boisvert",
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
@@ -4736,12 +4606,6 @@
     "thumbnail": "https://i.ytimg.com/vi/XpQRmDG0f5s/maxresdefault.jpg",
     "moderator": null,
     "speakers": [
-      {
-        "name": "Introduction by Cynthia Beth Rubin, Exhibition Organizer",
-        "country": null,
-        "start_seconds": 203,
-        "start_display": "00:03:23"
-      },
       {
         "name": "Annette Weintraub",
         "country": "NYC, NY USA",
@@ -4795,27 +4659,14 @@
         "country": "Houston TX USA",
         "start_seconds": 3086,
         "start_display": "00:51:26"
-      },
-      {
-        "name": "Digital Screen Artworks",
-        "country": "Presented by Lucy Boyd Wilson",
-        "start_seconds": 3521,
-        "start_display": "00:58:41"
-      },
-      {
-        "name": "Digital Screen Artworks - Presented by Lucy Boyd Wilson",
-        "country": "Digital Screen Music by Stephen Paré",
-        "start_seconds": 3521,
-        "start_display": "00:58:41"
       }
     ],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "moderator_missing"
+      "moderator_missing",
+      "speaker_index_partially_unparseable"
     ],
-    "notes": [
-      "speaker_added_from_site:Digital Screen Artworks - Presented by Lucy Boyd Wilson"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 11970,
       "duration_seconds": 5908,
@@ -5085,7 +4936,7 @@
     "number": 106,
     "title_raw": "Techspressionist Salon 106 // France",
     "session_title": "France",
-    "date_recorded": "2020-09-01",
+    "date_recorded": null,
     "date_published": "2026-05-27",
     "duration_seconds": 4706,
     "thumbnail": "https://i.ytimg.com/vi/kAXUgOIUjw0/maxresdefault.jpg",
@@ -5124,11 +4975,10 @@
     ],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "moderator_missing"
+      "moderator_missing",
+      "recording_date_unparseable"
     ],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 9682,
       "duration_seconds": 4706,
@@ -5144,7 +4994,7 @@
     "number": 107,
     "title_raw": "Techspressionist Salon 107 // New Artists",
     "session_title": "New Artists",
-    "date_recorded": "2020-09-01",
+    "date_recorded": null,
     "date_published": "2026-06-09",
     "duration_seconds": 5773,
     "thumbnail": "https://i.ytimg.com/vi/xm747MwGbiA/maxresdefault.jpg",
@@ -5152,11 +5002,10 @@
     "speakers": [],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "speaker_index_missing"
+      "speaker_index_missing",
+      "recording_date_unparseable"
     ],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 13576,
       "duration_seconds": 5773,
@@ -5172,7 +5021,7 @@
     "number": 108,
     "title_raw": "Techspressionist Salon 108 // Los Angeles and Beyond",
     "session_title": "Los Angeles and Beyond",
-    "date_recorded": "2020-09-01",
+    "date_recorded": null,
     "date_published": "2026-07-16",
     "duration_seconds": 5538,
     "thumbnail": "https://i.ytimg.com/vi/RSGBYaBbWgg/maxresdefault.jpg",
@@ -5181,11 +5030,10 @@
     "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
-      "speaker_index_missing"
+      "speaker_index_missing",
+      "recording_date_unparseable"
     ],
-    "notes": [
-      "recording_date_backfilled_from_site"
-    ],
+    "notes": [],
     "transcript_quality": {
       "word_count": 11375,
       "duration_seconds": 5538,
@@ -5253,7 +5101,6 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_backfilled_from_site",
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY AUGUST 6, 2026'), confirmed by Colin Goldberg 2026-08-16"
     ],
     "transcript_quality": {

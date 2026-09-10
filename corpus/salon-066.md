@@ -2,7 +2,7 @@
 type: salon
 number: 66
 title: Mediums
-date_recorded: 2023-03-30
+date_recorded: 2023-03-29
 date_published: 2023-04-07
 video_id: UBx4LDG--60
 url: "https://www.youtube.com/watch?v=UBx4LDG--60"

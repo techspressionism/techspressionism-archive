@@ -2,7 +2,7 @@
 type: salon
 number: 73
 title: Counterpoint
-date_recorded: 2020-09-01
+date_recorded: 2023-08-03
 date_published: 2023-08-23
 video_id: oimOOlyY0BY
 url: "https://www.youtube.com/watch?v=oimOOlyY0BY"

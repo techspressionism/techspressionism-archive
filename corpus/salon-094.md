@@ -13,39 +13,28 @@ speakers:
     country: History of Techspressionism
     start: 0
   - name: Tommy Mintz
-    country: Hello Chelsea Exhibition Preview
+    country: null
     start: 780
   - name: Yuge Zhou
-    country: Curator Introduction
+    country: null
     start: 1162
   - name: Yuge Zhou
-    country: About 150 Media Stream
+    country: null
     start: 1275
-  - name: Yuge Zhou // Installation Tour / Curator Q&A
-    country: "Video Walkthrough: Colin Mason"
-    start: 1635
   - name: Colin Goldberg
     country: Interior Lanscape
     start: 2730
-  - name: Renata Janiszewska // Souffles Pastels
-    country: Pastel Sighs
-    start: 2905
   - name: Karen LaFleur
     country: Mycorrhizal
     start: 3190
   - name: Jan Swinburne
-    country: "SONIC FLIGHT: Towards Peace"
+    country: null
     start: 3586
-  - name: Q&A
-    country: Moderated by Renata Janiszewska
-    start: 3942
-  - name: Closing Remarks
-    country: Renata Janiszewska
-    start: 4260
 transcript_source: zoom-transcript
 languages: ["en"]
 flags:
   - moderator_missing
+  - speaker_index_partially_unparseable
 ---
 
 ## Colin Goldberg [00:05](https://www.youtube.com/watch?v=npycONiSa_c&t=5s)
@@ -100,7 +89,7 @@ Okay. Alright I'm gonna share my screen. so I'm gonna start with, like, just a b
 
 Alright. Thanks so much. Yuga for for sharing about the installation site, and thank you to Colin Mason for the awesome walkthrough. It's really pretty incredible to be here in person. And to see just the scale of this work. It was also, you know, a challenge to create work. At this size we had some technical constraints that we had to deal with. And basically, the proportions are something like 15,600 by 2160. So it's like the equivalent of 4 4 k screens lined up together. So I'm just going to share very quickly on my work. I've used up a lot of time already talking about expressionism. So I'm just going to quickly share on my piece, which is called Interior landscape, and I'm just going to put on the actual piece which is at the proportions of the screen. Can you guys see my screen? Okay. okay, so as an undergraduate painting student, I studied under Angelo Ippolito, who is a noted New York school abstract expressionist. and when I asked my professor what his work was about, Ippolito simply responded, it's about paint. I found his answer, at 1st frustrating and then liberating. It allowed me to appreciate and then fully embrace abstraction without the need for explanation. Prior to that my work was primarily figurative. So, in the words of Marcel Duchamp, a work of art is completed by the viewer. And I really like that. Years later, I related my professor's response. It's about paint to Marshall Mcluhan's famous phrase. The medium is the message. and that's kind of the way that abstract expressionism developed, I think, ideologically is, there didn't need to be a real concrete explanation of the work, very emotionally based, like the action paintings of Pollock or Rothko's color field paintings. So my particular work in the exhibition, then, is about pixels, and it draws upon the surrealist practice of automatic drawing which aims to produce art without thought or intervention from the conscious mind. Each mark, color, and motion is influenced by the sum of the previous ones. As the work develops organically from the subconscious. So it's really created in a stream of consciousness way. There's no preconceived notion of what it's going to end up like, although the initial composition with the different various elements is done as a still digital drawing in adobe illustrator, the actual animation is done in adobe animate. So expressionism is an approach that provides me with a glimpse inside myself through the oracle of technology. Thus the title of my piece in this exhibition interior landscape. It's about pixels. And now I'd like to pass the mic on to Renata Yanashewska, who's our next artist presenter, and Renata is going to be taking over moderation from here. So I want to thank you guys all. And I'm going to head downstairs. But again, a real honor to be part of this project, and I appreciate all of my 3 co-conspirators who created work for this show as well. So I'll pass the mic on to Renata.
 
-## Renata Janiszewska // Souffles Pastels [53:08](https://www.youtube.com/watch?v=npycONiSa_c&t=3188s)
+## renata Janiszewska [53:08](https://www.youtube.com/watch?v=npycONiSa_c&t=3188s)
 
 Thank you very much, Colin, and I want to say thank you to Yuga, and also to her assistant, Colin Mason, for all the work they did with us, and how they helped make this project happen in a really smooth way. I'm just going to share my screen. And yeah, I. I really appreciate expressionism because I work. I live and work in a fairly isolated part of Canada. There are only 800 people in the village where I live and the art that's produced around me. It tends to be based more on the landscape around. because I use digital tools to do my work. I really always would like places to show that work on a screen rather than printing it out. This installation at 150 is so good as a place to get a different perspective on the work that I'm creating. I do the music, and I do all the images myself. And in this piece in particular, I I made a lot of interplay happen between abstraction and representation. So here you see an abstract part of of my 2 min piece. The piece is called Pastel Souf. which in English means pastel size, and the color palette that I used in this piece was fairly muted in in many places, although when you see it from different angles, the colors really changed a lot from where they 1st started to seeing them on the actual installation itself. So portraiture has been a preoccupation of mine for some time now, and I use a really large variety of softwares to make my work look a certain way in this. Still, you're seeing a piece made entirely out of emojis. It's it's a still from a video work, and it's got a kind of reference to Italian Renaissance art. And this is not from the work itself. This is like a prior sketch that I did before I made the piece for 150 media stream, and so you can see, the proportions of this are almost a square. But I did set this little excerpt and sorry in that last bit. There you saw some data mashing which is a technique that I find challenging to work with this excerpt. I'm showing you now is at the scale of the work that you see on the installation. So it's very long and sorry. It's very wide and not very tall. Sorry folks. And then finally, you see it as it is in the installation. But at night time bye. I just want to say thank you again to my fellow artists who worked on this project with me. I couldn't have surmounted the technical challenges without the help of Karen Lafleur, and also without the support and comradeship of my other fellow artists, Jan Swinburne and Colin Goldberg. And now I'm going to pass the presentation on to Karen LaFleur.
 
@@ -132,7 +121,7 @@ Yes.
 
 Okay, great. Let me get to my share and get rid of zoom. Okay. So I also wanted to thank everybody for 1 50 media stream, and you exhaust my colleagues. David Goldblum, for getting things rolling and helping us with, you know, actually being able to get into Chicago and test things as well, and take pictures. and yeah, it's just been a really fascinating project all along, and a great group of artists to be working with. We really were able to help each other out with this. So I'm just going to talk a little bit about this project. I got really excited about being able to show at 1 50 media, because a lot of my work is centered in sound, and the form of the the blades actually did sort of fit the idea of a waveform, so that that was an interesting and really exciting piece for me. This sonic flight towards peace is a project. It's an iteration of a project that I've shown elsewhere. And I was really happy to create it for something for this particular space. And I'll just talk about the process a little bit. This form that you see is actually the sound of a sonic jet that flew over my house during one of the Toronto air shows. So it was so. It was like a big sonic boom. And I basically captured that sound and was really interested in the fact that the waveform itself kind of resembled a plane. You know it looks like it has wings and a tip, and certain planes are designed that way. So that that was really interesting. And you know. So I worked from this low resolution image and just gradually worked with changing it a still and then working towards actually animating I it's let's see if this will go. There's a lag! Very crude, simple animation, and then went to secondary iterations, and then this was the 1st time I actually use the image. And it's it's a video, a standard video with it, traveling through space, which was the idea of sound and distorted sound, and something. you know, invisible, made visible kind of being transformed all through technology into this sort of organic form. Was something that really kind of I found very intriguing. So There's a still which you can see a lot more of the details that you know, if you're not at 1 50, you're probably not seeing, and I think I've got a. The next one is just gives you an idea of the sort of feathery movement of this sound. And it's it's really interesting, too, because of the times that we're living in. And you know the idea of war jets and unsettledness and everything else, and being able to transform something that's meant to, you know, defend or harm, or whatever way you want to look at it into actually something that's peaceful and sort of talks more to. you know the kind of nicer side of life. And then through the process and through working for this particular installation, it seemed I ended up with this color scheme, and, like everyone said we, we had to do a lot of iterations and experiment and see what worked. And because, you know, it is a switch, and the Leds have their own quality, the blades. There's all sorts of things. So the idea was to, you know. push, kind of push ourselves and explore what we could do here. And I think this is the video which will give you you can't hear the soundtrack. Let's see, there should be sound on this. So that's kind of where that ended up, and I wanted you to get a good sound of the jet and let you see what it ended up as okay. And I think that's it for me. And I will hand it back to Renetta and thank you. Everyone for this opportunity, and being narrows. stop, share. Okay, thanks.
 
-## Renata Janiszewska // Souffles Pastels [01:12:23](https://www.youtube.com/watch?v=npycONiSa_c&t=4343s)
+## renata Janiszewska [01:12:23](https://www.youtube.com/watch?v=npycONiSa_c&t=4343s)
 
 Alright. Thank you, Jeff. It's time to open it up. If you have any questions, and you've been putting them into the chat. If you just want to raise your hand, then I can call on you. Alvin.
 
@@ -140,7 +129,7 @@ Alright. Thank you, Jeff. It's time to open it up. If you have any questions, an
 
 So I've I've got. I've been making my own videos, and my largest ones are start with about 600 source files. Each one's about 15 MB. So the raw source files run just shy of 10 gigs. But when you're making Mp. 4 s. At least with the software I have, you're limited to 4 GB which wouldn't be big enough for this. Which can you recommend software that could concatenate those files into a large enough file for a project like that. That's sort of interesting to me.
 
-## Renata Janiszewska // Souffles Pastels [01:13:31](https://www.youtube.com/watch?v=npycONiSa_c&t=4411s)
+## renata Janiszewska [01:13:31](https://www.youtube.com/watch?v=npycONiSa_c&t=4411s)
 
 Erin or Jen any. You're both muted.
 
@@ -244,7 +233,7 @@ I've had Mp. 4 s. Larger than that.
 
 Yeah, yeah, that's where software like, compressor. It's it's it's interface is awkward as hell. But it it does do things. You can really get, you know, the unusual aspect ratio, but you can adjust. You can operase a fair bit. You can also operase a lot in final cut pro 2, and probably other. You know, Davinci, and all of those other apps as well. So yeah, you have to play. Hmm.
 
-## Renata Janiszewska // Souffles Pastels [01:17:58](https://www.youtube.com/watch?v=npycONiSa_c&t=4678s)
+## renata Janiszewska [01:17:58](https://www.youtube.com/watch?v=npycONiSa_c&t=4678s)
 
 Yeah, thank you, Jen, and thanks, Karen. Are there any other questions? Do I see any hands? Okay? As Tommy mentioned the next salon, which is the 1st Thursday in June, will be taking place around the show. Hello, Chelsea, which just opened on April the 30, th and runs until June 25.th In Manhattan, at the Hudson Gilt Gallery you can find a micro site about the show and also about the 1 50 media stream show on the textpressionism website. We have a catalog that was put together for the 1 50 show. It's it's worth taking a look at. Again on the textpressionism.com website. and the one the one salo after the the June one is up in the air, I believe. Oh, no, it's an open mic. That's right. So the July 1st salon is an open mic one. Sorry it's not the first.st It's the 1st Thursday in July. and that means, if you do, if you're an artist and you do want to share work at that to either email, me or DM, me on Instagram, and I'll put your name in the in the list. So far, I think I have 2 people already lined up for that particular song. So that's the 1st Thursday in July. Open Mic. And with that I guess I'll hand it over to Michael to just close it out.
 

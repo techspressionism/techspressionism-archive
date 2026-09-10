@@ -47,6 +47,54 @@ def seconds_to_display(total):
     return f"{h:02d}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
 
 
+def _norm(s):
+    return "".join(c for c in (s or "").lower() if c.isalnum() or c == " ").strip()
+
+
+COUNTRY_SUFFIXES = {
+    "usa": "USA", "us": "USA", "u s a": "USA", "united states": "USA", "america": "USA",
+    "uk": "United Kingdom", "u k": "United Kingdom", "united kingdom": "United Kingdom",
+    "england": "United Kingdom", "scotland": "United Kingdom", "wales": "United Kingdom",
+    "uae": "United Arab Emirates",
+}
+
+US_STATE_CODES = {
+    "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga", "hi", "id", "il", "in",
+    "ia", "ks", "ky", "la", "me", "md", "ma", "mi", "mn", "ms", "mo", "mt", "ne", "nv",
+    "nh", "nj", "nm", "ny", "nc", "nd", "oh", "ok", "or", "pa", "ri", "sc", "sd", "tn",
+    "tx", "ut", "vt", "va", "wa", "wv", "wi", "wy", "dc",
+}
+
+
+def build_country_resolver(artists):
+    by_name = {}
+    valid = set()
+    for a in artists:
+        if a.get("country"):
+            by_name[_norm(a["name"])] = a["country"]
+            valid.add(a["country"])
+    valid_norm = {_norm(c): c for c in valid}
+
+    def resolve(name, raw_location):
+        hit = by_name.get(_norm(name))
+        if hit:
+            return hit
+        loc = _norm(raw_location)
+        if not loc:
+            return None
+        for suffix, canon in COUNTRY_SUFFIXES.items():
+            if loc == suffix or loc.endswith(" " + suffix):
+                return canon
+        for cn, canon in valid_norm.items():
+            if loc == cn or loc.endswith(" " + cn):
+                return canon
+        if loc.split()[-1] in US_STATE_CODES:  # "Brooklyn NY", "Astoria, NY"
+            return "USA"
+        return None
+
+    return resolve
+
+
 def normalize_speaker_name(raw_name, session_speakers, artists):
     """Zoom's own speaker label is the participant's self-identification --
     not ASR output -- so it's already high-confidence and should mostly be
@@ -200,6 +248,7 @@ def main():
         vocab_terms = json.load(f)["terms"]
 
     numbers = set(sys.argv[1:]) if len(sys.argv) > 1 else None
+    resolve_country = build_country_resolver(artists)
     review_rows = []
     corpus_json = []
 
@@ -213,7 +262,19 @@ def main():
             corpus_json.append({**{k: session[k] for k in [
                 "type", "number", "session_title", "date_recorded", "date_published",
                 "video_id", "url", "duration_seconds", "moderator", "transcript_source", "flags",
-            ]}, "segments": segments})
+            ]},
+                "speakers": [
+                    {
+                        "name": s["name"],
+                        "location": s.get("country"),
+                        "country": resolve_country(s["name"], s.get("country")),
+                        "start": s["start_seconds"],
+                    }
+                    for s in sorted(session.get("speakers", []), key=lambda s: s["start_seconds"])
+                ],
+                "languages": ["en"],
+                "segments": segments,
+            })
 
     corpus_json_path = CORPUS_DIR / "corpus.json"
     existing = []

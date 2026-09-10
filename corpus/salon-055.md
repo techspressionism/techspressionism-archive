@@ -2,7 +2,7 @@
 type: salon
 number: 55
 title: The NFT Space
-date_recorded: 2020-09-01
+date_recorded: 2022-10-27
 date_published: 2022-10-27
 video_id: sfMxOAC97Yo
 url: "https://www.youtube.com/watch?v=sfMxOAC97Yo"

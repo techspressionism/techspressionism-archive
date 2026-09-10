@@ -2,7 +2,7 @@
 type: salon
 number: 45
 title: "\"...AND BEYOND\" : Show & Tell"
-date_recorded: 2020-09-01
+date_recorded: 2022-06-08
 date_published: 2022-06-10
 video_id: pxavr84wDJs
 url: "https://www.youtube.com/watch?v=pxavr84wDJs"
