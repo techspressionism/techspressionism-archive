@@ -1,7 +1,7 @@
 ---
 type: salon
 number: 92
-title: Breaking AI - AI Art
+title: Breaking AI
 date_recorded: 2025-03-06
 date_published: 2025-03-06
 video_id: bdzAVjhHPaw

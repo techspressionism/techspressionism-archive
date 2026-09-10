@@ -2,5 +2,21 @@
   "w8IHfgE2veI": {
     "date_recorded": "2026-08-06",
     "source": "thumbnail graphic ('THURSDAY AUGUST 6, 2026'), confirmed by Colin Goldberg 2026-08-16"
+  },
+  "cYU7eKBcCto": {
+    "session_title": "Collab #2 Exhibition Opening Reception",
+    "source": "trailing abbreviated date ('Sept. 14, 2021') left in the parsed title"
+  },
+  "ufGrnsSaMQo": {
+    "session_title": "Steve Miller & Lee Day",
+    "source": "all-caps YouTube title with a trailing compressed date ('030222')"
+  },
+  "bdzAVjhHPaw": {
+    "session_title": "Breaking AI",
+    "source": "trailing SEO tag ('AI Art') left in the parsed title"
+  },
+  "VxS9DBtseCE": {
+    "session_title": "Art-Science Intra-Action",
+    "source": "trailing guest name ('Heidi Boisvert') left in the parsed title"
   }
 }

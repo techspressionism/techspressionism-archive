@@ -899,7 +899,7 @@
     "type": "salon",
     "number": 26,
     "title_raw": "Techspressionist Salon #26 - Collab #2 Exhibition Opening Reception - Sept. 14, 2021",
-    "session_title": "Collab #2 Exhibition Opening Reception - Sept. 14, 2021",
+    "session_title": "Collab #2 Exhibition Opening Reception",
     "date_recorded": "2021-09-14",
     "date_published": "2021-09-15",
     "duration_seconds": 6501,
@@ -912,7 +912,8 @@
       "speaker_index_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_backfilled_from_site",
+      "session_title_manually_overridden:trailing abbreviated date ('Sept. 14, 2021') left in the parsed title"
     ],
     "transcript_quality": {
       "word_count": 14027,
@@ -1359,7 +1360,7 @@
     "type": "salon",
     "number": 38,
     "title_raw": "TECHSPRESSIONIST SALON #38 - STEVE MILLER & LEE DAY - 030222",
-    "session_title": "STEVE MILLER & LEE DAY - 030222",
+    "session_title": "Steve Miller & Lee Day",
     "date_recorded": "2022-03-02",
     "date_published": "2022-03-03",
     "duration_seconds": 5402,
@@ -1384,7 +1385,8 @@
       "moderator_missing"
     ],
     "notes": [
-      "recording_date_backfilled_from_site"
+      "recording_date_backfilled_from_site",
+      "session_title_manually_overridden:all-caps YouTube title with a trailing compressed date ('030222')"
     ],
     "transcript_quality": {
       "word_count": 12629,
@@ -4150,7 +4152,7 @@
     "type": "salon",
     "number": 92,
     "title_raw": "Techspressionist Salon 92 - Breaking AI -- March 6, 2025 - AI Art",
-    "session_title": "Breaking AI - AI Art",
+    "session_title": "Breaking AI",
     "date_recorded": "2025-03-06",
     "date_published": "2025-03-06",
     "duration_seconds": 5706,
@@ -4185,7 +4187,8 @@
     "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
-      "recording_date_from_title"
+      "recording_date_from_title",
+      "session_title_manually_overridden:trailing SEO tag ('AI Art') left in the parsed title"
     ],
     "transcript_quality": {
       "word_count": 10791,
@@ -4748,7 +4751,7 @@
     "type": "salon",
     "number": 102,
     "title_raw": "Techspressionist Salon 102 // Art-Science Intra-Action // Heidi Boisvert",
-    "session_title": "Art-Science Intra-Action // Heidi Boisvert",
+    "session_title": "Art-Science Intra-Action",
     "date_recorded": "2026-01-08",
     "date_published": "2026-01-10",
     "duration_seconds": 6847,
@@ -4810,7 +4813,8 @@
       "speaker_added_from_site:Gal Nissim - galnissim.com",
       "speaker_added_from_site:Laura Splan - laurasplan.com",
       "speaker_added_from_site:Sue Huang - studiosuehuang.com",
-      "speaker_added_from_site:Janet Biggs - jbiggs.com"
+      "speaker_added_from_site:Janet Biggs - jbiggs.com",
+      "session_title_manually_overridden:trailing guest name ('Heidi Boisvert') left in the parsed title"
     ],
     "transcript_quality": {
       "word_count": 14439,
