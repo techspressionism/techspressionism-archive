@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you cite material from this archive, please use the metadata below. Per-session citations appear on each transcript page in the search site."
+title: "Techspressionist Salon Archive"
+abstract: >-
+  A searchable, citable transcript archive of the Techspressionist Salon,
+  a monthly gathering of artists working with technology, running since
+  September 2020. Transcripts are timestamped and speaker-attributed, and
+  each segment links to the corresponding moment in the source recording.
+type: dataset
+authors:
+  - family-names: Goldberg
+    given-names: Colin
+    email: colin@goldberg.art
+repository-code: "https://github.com/techspressionism/techspressionism-archive"
+url: "https://techspressionism.com/"
+license: CC-BY-4.0
+keywords:
+  - techspressionism
+  - digital art
+  - new media art
+  - art and technology
+  - artist talks
+  - oral history
+  - transcripts

@@ -15,7 +15,7 @@ Pipeline has been run across all 99 known Salon videos. Still working through me
 | 4 — Name correction | Run across all 99 sessions | `scripts/04-correct-names.py` + `scripts/04a-parse-artist-index.py`. ~3,100 candidates in `review/name-candidates.csv`; `data/review-suppressions.json` holds hand-curated always-false-positive pairs. |
 | 5 — Corpus format | Run across all 99 sessions | `scripts/05-build-corpus.py` -> `corpus/salon-NNN.md` + `corpus/corpus.json` (mirror, now carries `speakers` with resolved country + raw location, and `languages`). |
 | 6 — Search interface | Built | `scripts/06-build-site.py` -> `site/` (static, Pagefind). Full-text search; filters for type/year/speaker/country; every result deep-links to the transcript segment and the exact video second. Preview: `python3 scripts/06-build-site.py && (cd site && python3 -m http.server)`. Not yet deployed -- hosting undecided (private repo + free GitHub Pages don't mix; options are Pro, going public, or Netlify/Cloudflare Pages). |
-| 7 — Citation/deposit | Not started | |
+| 7 — Citation/deposit | Citation blocks done; deposit pending | Each transcript page renders a paste-ready citation (with a "Copy" button). `CITATION.cff` (GitHub "Cite this repository") and `.zenodo.json` are in place. The actual Zenodo deposit needs the repo public + a Zenodo account linked -- see "Depositing to Zenodo" below. |
 
 ## Setup
 
@@ -68,6 +68,31 @@ python3 scripts/04-correct-names.py
 python3 scripts/05-build-corpus.py
 python3 scripts/06-build-site.py
 ```
+
+## Depositing to Zenodo
+
+Zenodo issues a concept DOI (stable across all versions) plus a per-version
+DOI on each release -- the right model for a growing archive. Once the repo
+is public:
+
+1. Sign in to [zenodo.org](https://zenodo.org) with GitHub, and flip the
+   switch for `techspressionism/techspressionism-archive` on the GitHub tab.
+2. Cut a GitHub release (e.g. `v0.1`). Zenodo archives that release and
+   mints the DOIs; `.zenodo.json` supplies the metadata.
+3. Put the concept DOI badge in this README, and replace the
+   `[DOI pending Zenodo deposit]` placeholder in `scripts/06-build-site.py`
+   (`build_citation`) with the concept DOI, then rebuild the site.
+
+A later deposit to an institutional repository (Rhizome's ArtBase, a
+university new-media collection) is worth considering as a second home.
+
+## Licensing
+
+Everything here is intended as **CC BY 4.0**, matching techspressionism.com.
+This needs Colin's explicit confirmation that it extends to the transcripts
+(they are recordings of participants' own words) before a `LICENSE` file is
+added and the deposit is made. `CITATION.cff` and `.zenodo.json` already
+declare `CC-BY-4.0`.
 
 ## Repository structure
 

@@ -1,7 +1,7 @@
 ---
 type: salon
 number: 26
-title: "Collab #2 Exhibition Opening Reception - Sept. 14, 2021"
+title: "Collab #2 Exhibition Opening Reception"
 date_recorded: 2021-09-14
 date_published: 2021-09-15
 video_id: cYU7eKBcCto

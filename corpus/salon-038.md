@@ -1,7 +1,7 @@
 ---
 type: salon
 number: 38
-title: STEVE MILLER & LEE DAY - 030222
+title: Steve Miller & Lee Day
 date_recorded: 2022-03-02
 date_published: 2022-03-03
 video_id: ufGrnsSaMQo

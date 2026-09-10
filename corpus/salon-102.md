@@ -1,7 +1,7 @@
 ---
 type: salon
 number: 102
-title: Art-Science Intra-Action // Heidi Boisvert
+title: Art-Science Intra-Action
 date_recorded: 2026-01-08
 date_published: 2026-01-10
 video_id: VxS9DBtseCE

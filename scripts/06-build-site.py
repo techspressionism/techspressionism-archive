@@ -93,6 +93,12 @@ section.seg p { margin:.3rem 0 0; }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .intro { color:var(--muted); max-width:44rem; }
 .yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
+.cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
+.cite h2 { font-size:.95rem; margin:0 0 .5rem; }
+.cite blockquote { margin:0; font-size:.92rem; color:#333; }
+.cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
+.cite button:hover { border-color:var(--accent); color:var(--accent); }
+.cite .doi { color:var(--muted); }
 """
 
 PAGE_TMPL = """<!doctype html>
@@ -120,10 +126,26 @@ recorded <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date
 {segments}
 </div>
 </article>
+<section class="cite" data-pagefind-ignore>
+<h2>Cite this session</h2>
+<blockquote id="citation">{citation}</blockquote>
+<button type="button" onclick="navigator.clipboard.writeText(document.getElementById('citation').innerText).then(()=>{{this.textContent='Copied';setTimeout(()=>this.textContent='Copy citation',1500)}})">Copy citation</button>
+</section>
 </main>
 </body>
 </html>
 """
+
+
+def build_citation(entry):
+    number = entry["number"]
+    title = e(entry.get("session_title") or "Untitled")
+    date = entry.get("date_recorded")
+    if date:
+        head = f'Techspressionist Salon {number}, &ldquo;{title},&rdquo; recorded {fmt_date(date)}.'
+    else:
+        head = f'Techspressionist Salon {number}, &ldquo;{title}.&rdquo;'
+    return f'{head} <em>Techspressionist Salon Archive</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
 
 
 def build_session_page(entry):
@@ -193,6 +215,7 @@ def build_session_page(entry):
         speakers=speakers_html,
         flags=flags_html,
         segments="\n".join(seg_html),
+        citation=build_citation(entry),
     )
 
 
