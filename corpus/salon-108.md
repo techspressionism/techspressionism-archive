@@ -2,7 +2,7 @@
 type: salon
 number: 108
 title: Los Angeles and Beyond
-date_recorded: 2020-09-01
+date_recorded: null
 date_published: 2026-07-16
 video_id: RSGBYaBbWgg
 url: "https://www.youtube.com/watch?v=RSGBYaBbWgg"
@@ -14,6 +14,7 @@ languages: ["en"]
 flags:
   - moderator_missing
   - speaker_index_missing
+  - recording_date_unparseable
 ---
 
 ## Randi Matushevitz [00:02](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=2s)

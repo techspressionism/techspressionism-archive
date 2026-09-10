@@ -10,7 +10,7 @@ duration_seconds: 4784
 moderator: null
 speakers:
   - name: SURPRISE CAMEO!!
-    country: Exhibition Information
+    country: null
     start: 1409
 transcript_source: zoom-transcript
 languages: ["en"]

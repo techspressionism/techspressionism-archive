@@ -2,7 +2,7 @@
 type: salon
 number: 62
 title: Art Pirates
-date_recorded: 2020-09-01
+date_recorded: 2023-02-01
 date_published: 2023-02-05
 video_id: k8Prps3LUKE
 url: "https://www.youtube.com/watch?v=k8Prps3LUKE"

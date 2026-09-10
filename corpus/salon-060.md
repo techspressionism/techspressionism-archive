@@ -2,7 +2,7 @@
 type: salon
 number: 60
 title: Media Platforms
-date_recorded: 2020-09-01
+date_recorded: 2023-01-04
 date_published: 2023-01-05
 video_id: Iu25Pv7EqK0
 url: "https://www.youtube.com/watch?v=Iu25Pv7EqK0"

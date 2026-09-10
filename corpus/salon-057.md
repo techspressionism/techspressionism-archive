@@ -2,7 +2,7 @@
 type: salon
 number: 57
 title: Nightmares
-date_recorded: 2020-09-01
+date_recorded: 2022-11-23
 date_published: 2022-11-25
 video_id: Q_5yvTBIL5M
 url: "https://www.youtube.com/watch?v=Q_5yvTBIL5M"

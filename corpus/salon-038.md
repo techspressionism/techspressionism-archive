@@ -10,10 +10,10 @@ duration_seconds: 5402
 moderator: null
 speakers:
   - name: STEVE MILLER
-    country: SAGAPONACK NY // USA
+    country: null
     start: 91
   - name: LEE DAY
-    country: Bearsville NY // USA
+    country: null
     start: 1919
 transcript_source: youtube-auto-captions
 languages: ["en"]

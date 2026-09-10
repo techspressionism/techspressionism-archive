@@ -21,11 +21,10 @@ speakers:
   - name: Karen LaFleur
     country: Cape Cod, MA USA
     start: 4873
-  - name: CYBERIANA Q & A
-    country: "https://techspressionism.com/cyberiana"
-    start: 5590
 transcript_source: zoom-transcript
 languages: ["en"]
+flags:
+  - speaker_index_partially_unparseable
 ---
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3s)

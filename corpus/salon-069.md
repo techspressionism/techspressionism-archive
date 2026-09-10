@@ -2,7 +2,7 @@
 type: salon
 number: 69
 title: Monochrome
-date_recorded: 2020-09-01
+date_recorded: 2023-05-10
 date_published: 2023-05-16
 video_id: 90wRPqAgA98
 url: "https://www.youtube.com/watch?v=90wRPqAgA98"

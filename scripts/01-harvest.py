@@ -22,7 +22,7 @@ OUT_PATH = ROOT / "data" / "sessions.json"
 MONTHS = (
     "January|February|March|April|May|June|July|August|September|October|November|December"
 )
-FULL_DATE_RE = re.compile(rf"\b({MONTHS})\s+(\d{{1,2}}),?\s+(\d{{4}})\b")
+FULL_DATE_RE = re.compile(rf"\b({MONTHS})\s+(\d{{1,2}}),?\s+(\d{{4}})\b", re.IGNORECASE)
 NUMERIC_DATE_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(\d{2,4})\b")
 
 SALON_NUMBER_RE = re.compile(r"Salon\s*#?\s*(\d+)", re.IGNORECASE)
@@ -59,25 +59,36 @@ def seconds_to_display(total):
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 
+BOILERPLATE_DATE_RE = re.compile(r"first\s+techspressionist\s+salon\s+was\s+held\s+on", re.IGNORECASE)
+
+
+def _boilerplate_context(text, pos):
+    """True if a date match at `pos` sits in the recurring "The First
+    Techspressionist Salon was held on September 1, 2020" boilerplate that
+    appears in most descriptions and every site page -- not a session date."""
+    return bool(BOILERPLATE_DATE_RE.search(text[max(0, pos - 60):pos]))
+
+
 def find_recording_date(text):
-    """Return (date_iso, flag) using the first full month-name date found."""
-    m = FULL_DATE_RE.search(text)
-    if m:
+    """Return (date_iso, flag) using the first real month-name or numeric
+    date found, skipping the first-salon boilerplate date."""
+    for m in FULL_DATE_RE.finditer(text):
+        if _boilerplate_context(text, m.start()):
+            continue
         month_name, day, year = m.groups()
         try:
-            dt = datetime.strptime(f"{month_name} {day} {year}", "%B %d %Y")
-            return dt.strftime("%Y-%m-%d"), None
+            return datetime.strptime(f"{month_name.capitalize()} {day} {year}", "%B %d %Y").strftime("%Y-%m-%d"), None
         except ValueError:
             pass
-    m = NUMERIC_DATE_RE.search(text)
-    if m:
+    for m in NUMERIC_DATE_RE.finditer(text):
+        if _boilerplate_context(text, m.start()):
+            continue
         mo, day, year = m.groups()
         year = int(year)
         if year < 100:
             year += 2000
         try:
-            dt = datetime(year, int(mo), int(day))
-            return dt.strftime("%Y-%m-%d"), None
+            return datetime(year, int(mo), int(day)).strftime("%Y-%m-%d"), None
         except ValueError:
             pass
     return None, "recording_date_unparseable"
@@ -202,7 +213,8 @@ def parse_speaker_index(description):
             continue
         has_timestamp = bool(re.search(TIME_RE, stripped))
         entry = parse_speaker_line(stripped)
-        if entry:
+        if entry and is_plausible_speaker(entry):
+            entry["country"] = sanitize_country(entry.get("country"))
             speakers.append(entry)
         elif has_timestamp and re.match(r"^\d{1,2}:\d{2}", stripped):
             # looks like a timestamp line but didn't parse cleanly
@@ -220,13 +232,67 @@ def normalize_name(name):
     return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
+BARE_TIME_RE = re.compile(r"^\d{1,2}:\d{2}(?::\d{2})?$")
+AGENDA_WORDS_RE = re.compile(
+    r"\b(q\s*&\s*a|presentation|walkthrough|preview|exhibition|tour|panel|"
+    r"discussion|screenshares?|artworks?|closing remarks|opening remarks|"
+    r"video|intro(?:duction)?|break|lineup|schedule)\b",
+    re.IGNORECASE,
+)
+
+
+def is_plausible_speaker(entry):
+    name = (entry.get("name") or "").strip()
+    if len(name) < 3 or not any(c.isalpha() for c in name):
+        return False
+    if BARE_TIME_RE.match(name) or name.isdigit():
+        return False
+    if "http" in name.lower() or "//" in name:
+        return False
+    if AGENDA_WORDS_RE.search(name):
+        return False
+    if name.isupper() and len(name.split()) > 2:  # "SONIC FLIGHT: TOWARDS PEACE"
+        return False
+    return True
+
+
+def sanitize_country(country):
+    if not country:
+        return None
+    c = country.strip()
+    if "http" in c.lower() or "//" in c or ":" in c or len(c) > 45:
+        return None
+    if any(ch.isdigit() for ch in c):  # real place names don't carry digits
+        return None
+    if AGENDA_WORDS_RE.search(c):
+        return None
+    return c or None
+
+
 def parse_site_speaker_index(text):
-    """techspressionism.com salon pages format speaker blocks two ways:
+    """techspressionism.com salon pages format speaker blocks several ways:
     - single-line, same as YouTube: 'HH:MM:SS – Name – Country'
     - two-line (older era): 'H:MM:SS – Name' followed by a bare 'Location' line
-    Peek at the next non-blank line when no country was captured inline.
+    - timestamp alone on its line, then 'Name // Location' on the next
+    Join a bare-timestamp line onto the following line before parsing, and
+    peek at the next non-blank line when no country was captured inline.
     """
-    lines = text.split("\n")
+    raw_lines = text.split("\n")
+    lines = []
+    i = 0
+    while i < len(raw_lines):
+        stripped = raw_lines[i].strip()
+        if BARE_TIME_RE.match(stripped):
+            j = i + 1
+            while j < len(raw_lines) and not raw_lines[j].strip():
+                j += 1
+            if j < len(raw_lines):
+                lines.append(f"{stripped} {raw_lines[j].strip()}")
+                i = j + 1
+                continue
+        lines.append(raw_lines[i])
+        i += 1
+
     speakers = []
     n = len(lines)
     for i, raw_line in enumerate(lines):
@@ -249,7 +315,9 @@ def parse_site_speaker_index(text):
                     and not candidate.endswith(".")
                 ):
                     entry["country"] = clean(candidate)
-        speakers.append(entry)
+        if is_plausible_speaker(entry):
+            entry["country"] = sanitize_country(entry.get("country"))
+            speakers.append(entry)
     return speakers
 
 
@@ -339,6 +407,14 @@ def harvest_one(video_json_path):
     speakers, speaker_flags = parse_speaker_index(description)
 
     notes = []
+    # the YouTube title usually carries the recording date too ("Salon 53 -
+    # Photography and Media Confluence - September 28, 2022"); trust it when
+    # the description had none
+    if date_recorded is None and title_raw:
+        title_date, _ = find_recording_date(title_raw)
+        if title_date:
+            date_recorded, date_flag = title_date, None
+            notes.append("recording_date_from_title")
     site_path = SITE_TEXT_DIR / f"salon-{number}.txt" if number is not None else None
     if site_path and site_path.exists():
         site_text = site_path.read_text()
@@ -346,9 +422,12 @@ def harvest_one(video_json_path):
         speakers = merge_site_speakers(speakers, site_speakers, notes)
         if not speakers and site_speakers:
             speaker_flags = [f for f in speaker_flags if f != "speaker_index_missing"]
-        # a day-precision date on the site can resolve a description-only gap
+        # a day-precision date on the site can resolve a description-only gap.
+        # only trust a date in the page header -- deeper in, the recurring
+        # boilerplate and artist bios ("began experimenting in 1983", etc.)
+        # produce false matches.
         if date_recorded is None:
-            site_date, site_date_flag = find_recording_date(site_text)
+            site_date, site_date_flag = find_recording_date(site_text[:400])
             if site_date:
                 date_recorded = site_date
                 date_flag = None

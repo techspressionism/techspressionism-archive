@@ -2,7 +2,7 @@
 type: salon
 number: 34
 title: Old-school Open Mic with Robert DuGrenier
-date_recorded: 2021-01-04
+date_recorded: 2021-12-07
 date_published: 2022-01-05
 video_id: lUmGsX0p78E
 url: "https://www.youtube.com/watch?v=lUmGsX0p78E"

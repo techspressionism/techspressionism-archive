@@ -2,7 +2,7 @@
 type: salon
 number: 107
 title: New Artists
-date_recorded: 2020-09-01
+date_recorded: null
 date_published: 2026-06-09
 video_id: xm747MwGbiA
 url: "https://www.youtube.com/watch?v=xm747MwGbiA"
@@ -13,6 +13,7 @@ transcript_source: zoom-transcript
 languages: ["en"]
 flags:
   - speaker_index_missing
+  - recording_date_unparseable
 ---
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=xm747MwGbiA&t=3s)

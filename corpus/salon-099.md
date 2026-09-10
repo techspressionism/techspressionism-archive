@@ -10,25 +10,25 @@ duration_seconds: 6302
 moderator: Erin Ko – NYC
 speakers:
   - name: Verneda Lights
-    country: "https://www.instagram.com/vernedalights/"
+    country: null
     start: 130
   - name: J Eric Cook
-    country: "https://www.instagram.com/ad.tumulum/"
+    country: null
     start: 1195
   - name: Clara Francesca
-    country: "https://www.instagram.com/clar_esca/"
+    country: null
     start: 1850
   - name: Anne Wichmann
-    country: "https://www.instagram.com/shes_excited/"
+    country: null
     start: 2289
   - name: Naz Karagoz
-    country: "https://www.instagram.com/duality.live/"
+    country: null
     start: 2769
   - name: Susan Detroy
-    country: "https://beacons.ai/susandetroyartist"
+    country: null
     start: 2990
   - name: Heidi Boisvert
-    country: "https://www.instagram.com/hjboisvert/"
+    country: null
     start: 3742
 transcript_source: zoom-transcript
 languages: ["en"]

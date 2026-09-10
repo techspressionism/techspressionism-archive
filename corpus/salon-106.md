@@ -2,7 +2,7 @@
 type: salon
 number: 106
 title: France
-date_recorded: 2020-09-01
+date_recorded: null
 date_published: 2026-05-27
 video_id: kAXUgOIUjw0
 url: "https://www.youtube.com/watch?v=kAXUgOIUjw0"
@@ -28,6 +28,7 @@ transcript_source: zoom-transcript
 languages: ["en"]
 flags:
   - moderator_missing
+  - recording_date_unparseable
 ---
 
 ## Cynthia Beth Rubin [00:00](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=0s)

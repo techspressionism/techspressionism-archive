@@ -2,7 +2,7 @@
 type: salon
 number: 68
 title: Appropriation
-date_recorded: 2020-09-01
+date_recorded: 2023-04-26
 date_published: 2023-05-08
 video_id: vMQWnv70FvA
 url: "https://www.youtube.com/watch?v=vMQWnv70FvA"

@@ -2,7 +2,7 @@
 type: salon
 number: 53
 title: Photography and Media Confluence
-date_recorded: 2020-09-01
+date_recorded: 2022-09-28
 date_published: 2022-09-29
 video_id: ACwcZ2XHb9E
 url: "https://www.youtube.com/watch?v=ACwcZ2XHb9E"

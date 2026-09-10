@@ -2,7 +2,7 @@
 type: salon
 number: 58
 title: Dreams
-date_recorded: 2020-09-01
+date_recorded: 2022-12-07
 date_published: 2022-12-08
 video_id: 7zhZis1d3po
 url: "https://www.youtube.com/watch?v=7zhZis1d3po"

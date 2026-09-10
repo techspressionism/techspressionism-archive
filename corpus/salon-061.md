@@ -2,7 +2,7 @@
 type: salon
 number: 61
 title: Open Studios
-date_recorded: 2020-09-01
+date_recorded: 2023-01-18
 date_published: 2023-01-19
 video_id: axa3_RqLoWw
 url: "https://www.youtube.com/watch?v=axa3_RqLoWw"

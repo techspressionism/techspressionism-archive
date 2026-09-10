@@ -2,7 +2,7 @@
 type: salon
 number: 49
 title: Movement
-date_recorded: 2020-09-01
+date_recorded: 2022-08-03
 date_published: 2022-08-04
 video_id: iVP63DGbCGY
 url: "https://www.youtube.com/watch?v=iVP63DGbCGY"

@@ -2,7 +2,7 @@
 type: salon
 number: 46
 title: Weird Media
-date_recorded: 2020-09-01
+date_recorded: 2022-06-22
 date_published: 2022-06-23
 video_id: xo2ql3MgJlw
 url: "https://www.youtube.com/watch?v=xo2ql3MgJlw"
