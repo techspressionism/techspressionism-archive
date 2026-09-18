@@ -5,17 +5,43 @@
       "canonical": "Techspressionist",
       "category": "movement_term",
       "known_asr_variants": [
-        "text freshness",
+        "fortexpressionist",
+        "taxpressionist",
+        "tech express system",
+        "tech expressionist",
+        "tech suppressionist",
+        "tex expressionist",
+        "texpressionist",
         "text brush",
-        "tech express system"
+        "text expressionist",
+        "text freshness",
+        "text impressionist",
+        "text suppressionist",
+        "textpressionist"
       ],
       "notes": "Observed in Zoom transcript for Salon 92 ('text freshness', 'text brush') and YouTube auto-captions for Salon 20 ('tech express system'), consistently right before 'Salon'. Watch for this pattern specifically before the word 'Salon', across every ASR source."
     },
     {
       "canonical": "Techspressionism",
       "category": "movement_term",
-      "known_asr_variants": [],
-      "notes": "Noun form of Techspressionist; no confirmed ASR variant observed yet, but expect similar mangling."
+      "known_asr_variants": [
+        "attack suppressionism",
+        "dexpressionism",
+        "ontoexpressionism",
+        "sexpressionism",
+        "tax depressionism",
+        "taxpressionism",
+        "tech expressionism",
+        "tech suppressionism",
+        "techpressionism",
+        "techsuppressionism",
+        "tex expressionism",
+        "texpressionism",
+        "text expressionism",
+        "text impressionism",
+        "textpressionism"
+      ],
+      "notes": "Confirmed via full-corpus survey 2026-09-18 (647 legit \"expressionism\"/\"impressionism\" references excluded by not matching those bare words -- only tech/tex/tax/text-prefixed and merged forms are misspellings of this term)."
     },
     {
       "canonical": "Onland",
