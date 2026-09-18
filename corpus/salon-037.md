@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=1hehNivSYTo"
 duration_seconds: 5252
 moderator: null
 speakers:
-  - name: PATRICK LICHTY
+  - name: Patrick Lichty
     country: Winona MN USA
     start: 1868
 transcript_source: youtube-auto-captions
@@ -19,7 +19,7 @@ flags:
   - speaker_index_partially_unparseable
 ---
 
-## PATRICK LICHTY [31:08](https://www.youtube.com/watch?v=1hehNivSYTo&t=1868s)
+## Patrick Lichty [31:08](https://www.youtube.com/watch?v=1hehNivSYTo&t=1868s)
 
 Right.
 

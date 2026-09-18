@@ -18,7 +18,7 @@ speakers:
   - name: Michael Pierre Price
     country: USA
     start: 1800
-  - name: Randi Matsushevitz
+  - name: Randi Matushevitz
     country: USA
     start: 2573
 transcript_source: zoom-transcript
@@ -29,7 +29,7 @@ languages: ["en"]
 
 And hash. Hey, everyone my name is Colin Goldberg, and we're here at Techspressionist. Salon number 92, which is called breaking AI. Today's Thursday, March 6, th 2025, and I'm zooming in from North Bennington, Vermont. We have a very wide range of people here in the salon. And we have 4 artists presenting. So It's gonna be basically on AI and how the presenting artists incorporate AI into their studio practices. So I'm gonna give a quick introduction for those who might be here for your very 1st salon, or for people who are watching this as a recording on Youtube, just a little background. On what a Techspressionist in a salon is.
 
-So the salons are a time and place in cyberspace where artists can gather once a month to share their work and to discuss matters relating to art, philosophy, and technology. The meetups were conceived of as a modern counterpart to the surrealist salons of the 19 twenties in which artists could meet informally to socialize and to discuss ideas. Techspressionism is a 100% volunteer based international artist community. We're not an organization in any kind of real sense of the word. I like to think of Techspressionism as an Ism which is very vague, but kind of the antithesis of an organization.
+So the salons are a time and place in cyberspace where artists can gather once a month to share their work and to discuss matters relating to art, philosophy, and technology. The meetups were conceived of as a modern counterpart to the surrealist salons of the 1920s in which artists could meet informally to socialize and to discuss ideas. Techspressionism is a 100% volunteer based international artist community. We're not an organization in any kind of real sense of the word. I like to think of Techspressionism as an Ism which is very vague, but kind of the antithesis of an organization.
 
 The 1st salon was held on September 1st 2020, and included myself, Patrick Lichty, Steve Miller, and Oz Van Rosen, all of whom are artists in the community as well as art historian, Helen Harrison. So Helen in 1990, after serving as curator of the Parish Art Museum in Southampton, New York, Director of the Public Art Preservation Committee in Manhattan, and Curator of Guildhall Museum, in East Hampton, became director of the Pollock Krasner House and Study Center, which is a national historic Landmark Museum, and the former home of abstract expressionists, Jackson, Pollock and Lee Krasner.
 
@@ -51,7 +51,7 @@ Hello! You guys, can you guys hear me? Oh, no, no. Okay. Sorry. I'm in front of 
 
 Right now, I'm actually doing a project, a couple different projects. One's with AI. So I'm going to show mostly that. But I also want to talk about loop Art critique, which is a I run this place. I created it. And it's a place for artists to come together, and in small groups have a 6 week long series of art critiques so kind of like a residency. But it's really just sort of a gathering of a small group of people. And then there's an Exhibition, and Renata has been a part of it, and Joey and a couple other people here. And actually, Patrick is. Leahy is in it right now. So I didn't even know that about him being part of Techspressionist. So I guess we have a whole thing, anyway. So I just wanted to show. And this is actually all about process. Loop is an artwork. It's not a for profit. It's not a nonprofit, it's an artwork. It exists on its own and literally contains people talking about their processes, and also people working on works in process and showing them to each other and getting feedback. So it's a feedback space To talk about what I'm doing with AI right now, I'm going to switch over to where I have my.
 
-Where is it? There it is. Okay. So I have been, I love technology, obviously. And I have been interested in working with AI for a long time. Let me see if this is actually going to work. Yeah. But I 1st came from like a video art perspective. So I was a drawer and painter. And then I became like a video artist who really liked like 19 seventies video art and did a lot of work that looks sort of like that. And then I decided to. I decided a couple years ago that I wanted to try to recreate these old video pieces.
+Where is it? There it is. Okay. So I have been, I love technology, obviously. And I have been interested in working with AI for a long time. Let me see if this is actually going to work. Yeah. But I 1st came from like a video art perspective. So I was a drawer and painter. And then I became like a video artist who really liked like 1970s video art and did a lot of work that looks sort of like that. And then I decided to. I decided a couple years ago that I wanted to try to recreate these old video pieces.
 
 Using AI To see what would happen, and also because I knew the AI would kind of get it wrong. And I was interested in how it would Process guys, how it would process the The process that I was doing. It's hard to talk about. So this is a piece I made for my graduate Exhibition for my Mfa. Which I got from University of South Florida, and it's a picture of me attempting to draw my own shadow. But I'm you can't see any lines. I'm using white chalk. And can can you guys please? I'm sorry I'm live.
 
@@ -101,7 +101,7 @@ Alright. Well, I didn't understand that, but apparently we have captioning enabl
 
 ## Systaime [21:20](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=1280s)
 
-Yeah, I fight through circuit on the digital throne. You know. I recycle my waste. Yeah, I'm in the business. I make dirt clean. Bro. Call me finesse. I smoke motherboards, put the chip in my life. I am Michael Boraz, also known as Systaime. Since the mid 19 nineties I have explored the digital realm, relentlessly questioning our hyper-connected society and its absurdities. My artistic journey, positioned at the intersection of art and technology, has led me to experiment with diverse media and techniques as technology evolves.
+Yeah, I fight through circuit on the digital throne. You know. I recycle my waste. Yeah, I'm in the business. I make dirt clean. Bro. Call me finesse. I smoke motherboards, put the chip in my life. I am Michael Boraz, also known as Systaime. Since the mid 1990s I have explored the digital realm, relentlessly questioning our hyper-connected society and its absurdities. My artistic journey, positioned at the intersection of art and technology, has led me to experiment with diverse media and techniques as technology evolves.
 
 Early in my career I played a key role in the French trash touch, a movement marked by a raw, provocative aesthetic that sought to deconstruct established codes. This period embraced a Diy approach, where mashups, collages, and sampling repurposed visual and sound fragments from the web and obsolete objects Challenging our relationship with media and technology. With the rise of generative AI, a new era of digital art emerged. AI, now accessible without extensive technical know-how offers unprecedented creative possibilities. For me. AI is an additional tool in my palette. It automates, tasks, generates endless variations, and helps explore new forms. Yet artistic intent remains paramount.
 
@@ -183,7 +183,7 @@ All right. Thank you. Michael. Definitely. Very interesting to see the diversity
 
 So without further ado, I will pass the mic on to Randy. Okay.
 
-## Randi Matsushevitz [43:34](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=2614s)
+## Randi Matushevitz [43:34](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=2614s)
 
 Hey? Hi, everyone. Okay, here we go. Let me share this. And let's optimized for Okay, I don't think it's late. Okay. So I wanted to start by saying, I am interested in contemporary portraiture, and what I have been doing is feeding my paintings into AI. So here's this painting here on the left, and this is an example of the variety of things that I will get here in this to start us off in this. Pdf, I've created. So I'm very interested in the fact that the paintings and the interpretation from different photo and video apps editing apps will create a variety of textures, genders, shapes holding Actual marks from the paintings, create crooked teeth like the mistakes. As The 1st presenter was saying so, so this is an overview of the variety of mistakes and broad Results I cannot get. So here to start with a painting. And then here's a few different interpretations.
 
@@ -201,7 +201,7 @@ And there's no sound on this one. So then, again, using all these different apps
 
 All right. Thanks so much, Randy. Really interesting to see this work, and I think the last work of yours that I really looked at was when I was curating the show in Southampton, and I saw those those animations and portraits that you'd created for that so I could definitely see the continuity and the evolution of things. It's really interesting.
 
-## Randi Matsushevitz [48:49](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=2929s)
+## Randi Matushevitz [48:49](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=2929s)
 
 What's really interesting about the AI is that I can get anthropomorphic imagery. So some of those are on my website where I can make plant human Characters like, you know, the it's unknown what I'll get, and I feel it's a collaboration. I'm not controlling it on any level, and it's that mixture of what I, my painting, and then all the interpretations and the reinterpretations, as Michael was saying, and the 100th version, and then you find the one that, you know did something unusual Unrealism, as he said.
 
@@ -237,7 +237,7 @@ Alright! Thanks to both of you. So I did discover where this raise hand tool is 
 
 You're muted.
 
-## Anton Dubrovin [55:53](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3353s)
+## Anton Dubrovin (MCHX) [55:53](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3353s)
 
 Yeah, Hi, Hi, everyone Let me put down the hand. Okay? Yeah. 1st of all, it was really amazing. Showcase. I really, I really enjoyed all the works from System Michael and Randy. I was really surprised and like Blown away, really enjoyed it. Everything. So I also work with AI a bit and the main problem for me is curating the Ideas and the outputs. So I would like to hear from from you artists, how do you, curate? How do you? How did? How do you do? You stay focused on the idea, or you just exploring? And so what's your take on curating the outputs?
 
@@ -247,15 +247,15 @@ Yeah, thank you.
 
 Okay? So who would like to answer this? 1st Out of the artists that are still here, do you, wanna Randy? You want to.
 
-## Randi Matsushevitz [57:16](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3436s)
+## Randi Matushevitz [57:16](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3436s)
 
 Sure. So how do you, curate? What you show you mean, like what you choose to present to the world?
 
-## Anton Dubrovin [57:24](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3444s)
+## Anton Dubrovin (MCHX) [57:24](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3444s)
 
 Yeah, yeah, I mean, like, for example, at 1st you have one idea, then it's developing. But all the all the way through. You need to curate all the outputs right? And then you need to go to like finish line. And so yeah. So I just want to know. How do you do.
 
-## Randi Matsushevitz [57:50](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3470s)
+## Randi Matushevitz [57:50](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3470s)
 
 So for me, it's a lot of gut instinct. It's what I read. The more I work with the tools, whether, like I said, it's video apps or art breeder or mid journey, or you have choices. It's a very quick I save everything. And then but really, the longer I work with it because I started working with it back in November with AI in this way. Then you get used to certain things it produces, and then you challenge it. So you experiment. And the ones when you look back like when I look back at my photo stream of what I've saved, certain ones just stand out. They're interesting to me. They hold up like in anything with the arc, and that's the one I go with.
 
@@ -307,7 +307,7 @@ I'm trying to elicit.
 
 Whatever is in that black box to look at things in really different ways, that I wouldn't necessarily think on my own. But my input is there in the mix. And so that's where that sets a collaborator is really important. And I think you just sort of. I think Randy was right. You just sort of recognize this is this is got. This is a kernel. This is something really, really good here. And and that's kind of where you know how I would answer Anton's question from my from my standpoint.
 
-## Anton Dubrovin [01:05:49](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3949s)
+## Anton Dubrovin (MCHX) [01:05:49](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3949s)
 
 Think, think.
 
@@ -315,7 +315,7 @@ Think, think.
 
 Awesome just out of curiosity. Anton, where are you zooming in from.
 
-## Anton Dubrovin [01:05:58](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3958s)
+## Anton Dubrovin (MCHX) [01:05:58](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3958s)
 
 Right now, I'm zooming from Moscow. We came back here in December, due to personal reasons. And yeah, before we were in Georgia Tbilisi. So yeah. So now in Moscow. Don't know. Maybe until Until summer or longer. Not sure yet.
 
@@ -325,7 +325,7 @@ Awesome. Thank you. Yeah, I had a feeling. It's another thing about this group t
 
 But I do see Lee has his hand up there, so I'll give him first.St Dibs. Randy, did you have another question or.
 
-## Randi Matsushevitz [01:07:29](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4049s)
+## Randi Matushevitz [01:07:29](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4049s)
 
 I just wanted to add to what system was saying, that it's about the ethical use of AI AI, cause it's here. It's here. It's here in our language it's with, you know. It's it's everywhere, and I do see it as a tool also. So I just wanted to add that in.
 

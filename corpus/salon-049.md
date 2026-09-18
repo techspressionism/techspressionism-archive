@@ -7,7 +7,7 @@ date_published: 2022-08-04
 video_id: iVP63DGbCGY
 url: "https://www.youtube.com/watch?v=iVP63DGbCGY"
 duration_seconds: 5908
-moderator: COLIN GOLDBERG
+moderator: Colin Goldberg
 speakers:
 transcript_source: youtube-auto-captions
 languages: ["en"]

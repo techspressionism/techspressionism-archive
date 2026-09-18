@@ -12,7 +12,7 @@ speakers:
   - name: Visheh
     country: Iran/Cyprus
     start: 66
-  - name: Adrianne Wortzel
+  - name: Adrienne Wortzel
     country: Astoria, NY USA
     start: 536
   - name: Void-Sign
@@ -92,7 +92,7 @@ Thank you.
 
 Alright, so, our next presenter is Adrianne Wortzel.
 
-## Adrianne Wortzel [08:57](https://www.youtube.com/watch?v=w8IHfgE2veI&t=537s)
+## Adrienne Wortzel [08:57](https://www.youtube.com/watch?v=w8IHfgE2veI&t=537s)
 
 Okay, sharing screen….
 
@@ -112,7 +112,7 @@ I'm fascinated by the cycle, which, you know, starts with the need, then there's
 
 One minute.
 
-## Adrianne Wortzel [14:36](https://www.youtube.com/watch?v=w8IHfgE2veI&t=876s)
+## Adrienne Wortzel [14:36](https://www.youtube.com/watch?v=w8IHfgE2veI&t=876s)
 
 Well, actually, I am done.
 
@@ -120,7 +120,7 @@ Well, actually, I am done.
 
 Okay, well, you still have a minute if you'd like to share anything, but if, if you're all set, then if you could just paste, your website address into the chat, so that way people can bookmark it and,
 
-## Adrianne Wortzel [14:53](https://www.youtube.com/watch?v=w8IHfgE2veI&t=893s)
+## Adrienne Wortzel [14:53](https://www.youtube.com/watch?v=w8IHfgE2veI&t=893s)
 
 Yeah.
 
@@ -470,7 +470,7 @@ Absolutely, thank you. And, yeah, it's really interesting, Visheh, to see artist
 
 I mean, it's become very mainstream, I think, in the last, you know, in the time period since this group has been Formulating, or at least more mainstream, or pseudo-mainstream, but, you know, first with NFTs, and now with AI art, and I feel like, mobile apps in general, and I feel like, you know, a lot of people who wouldn't have even considered themselves an artist In the past are able to experiment and play with these tools and create things that they, you know, think are cool and enjoy. So, Is there anybody else who is…
 
-## Adrianne Wortzel [01:00:50](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3650s)
+## Adrienne Wortzel [01:00:50](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3650s)
 
 Excuse me, I have a question for Tommy. And the question is. How… are you drawing and photographing simultaneously? Are you switching from one to the other? Because I wonder if there are two mindsets, two completely different mindsets, and how you manage to bridge… bridge them.
 
@@ -480,7 +480,7 @@ Thanks, Adrianne. So, what I do is I hold my camera close to my chest with a str
 
 And there are significant photographers from history that I admire, like Henri Cartier Bresson, for example, who started as street photographers, most notably were, you know, photojournalists or whatever out on the street, but then ended careers as people who just wanted to draw. We do caricatures and stuff like that. And so I'm… I don't know, midlife crisis, I'm trying to do both at once, or something. But yeah, no, thank you, Adrianne. Both at once.
 
-## Adrianne Wortzel [01:02:32](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3752s)
+## Adrienne Wortzel [01:02:32](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3752s)
 
 I'm doing well. Thank you.
 
@@ -578,7 +578,7 @@ I'll pick that one up real quick. I mean, for me, I've been doing digital art fo
 
 I didn't do any, layering of pre-existing Images, which, you know, typically if I'm doing commercial work or something, you know, there'll be reference or whatever. But, I just wanted to go freehand, and to approach it almost as if I just… Had, like, an airbrush, and I was just going to do airbrush work, except I was doing it on Photoshop, you know? And it was really liberating, in a way. So, to me, actually, now at this point. It's almost like going in reverse. I'm trying to simplify. I'm trying to simplify and trying to break down the technology so that the technology serves me, not that I'm serving the technology, which has sort of been… The MO throughout a lot of my career, so now I'm trying to simplify the technology, or to make it as transparent as possible, so that I can just Beau Tardy Artist, you know, and not be, Completely preoccupied with the technology as I'm doing it. Anyway, that's sort of… A sketch of an answer, I hope.
 
-## Adrianne Wortzel [01:07:24](https://www.youtube.com/watch?v=w8IHfgE2veI&t=4044s)
+## Adrienne Wortzel [01:07:24](https://www.youtube.com/watch?v=w8IHfgE2veI&t=4044s)
 
 I'd like to say something. That my… a lot of my work is about that. It's about that cycle of, technology where it happens over and over again through every civilization that, you know, there's a need, then there's the new, and then there's ubiquity in our… in Western culture, in any case. And, then it descends into obst… Being obsolete as, and then there's a new, either a new version of that, or a completely new paradigm. And that fascinates me, because I don't mean it in a doomsday way, like, oh, there's nothing new under the sun. I think it's kind of a celebration of how we just go on and on and on. And, so almost every technology excites me. Now I'm actually working on an AI Piece, which I can't even talk about yet, and a podcast, because we are inventing ArtNetWeb, which was an organization that existed in the 90s.
 

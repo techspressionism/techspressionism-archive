@@ -181,6 +181,12 @@ def build_promo_image(entry):
     return f'<div class="promo" data-pagefind-ignore><img src="thumbnails/{e(video_id)}.jpg" alt="{alt}" loading="lazy"></div>'
 
 
+def emphasize(escaped):
+    """_Title_ markers from Stage 5 -> <em>. Runs on already-escaped text; a
+    doubled underscore (the '[__]' blank-audio artifact) never matches."""
+    return re.sub(r"(?<![\w_])_(?=[^\s_])(.+?)(?<=[^\s_])_(?![\w_])", r"<em>\1</em>", escaped)
+
+
 def build_session_page(entry):
     number = entry["number"]
     video_id = entry["video_id"]
@@ -223,7 +229,7 @@ def build_session_page(entry):
         # raw whitespace inside a single <p>, so they need to become actual
         # separate <p> elements or they render as one undifferentiated block
         paragraphs = [p.strip() for p in (seg.get("text") or "").split("\n\n") if p.strip()]
-        paragraphs_html = "".join(f"<p>{e(p)}</p>" for p in paragraphs) or "<p></p>"
+        paragraphs_html = "".join(f"<p>{emphasize(e(p))}</p>" for p in paragraphs) or "<p></p>"
         seg_html.append(
             f'<section class="seg">'
             f'<h2 class="seg-head" id="t{start}">'

@@ -12,30 +12,30 @@ speakers:
   - name: Renata Janiszewska
     country: Lion's Head Canada
     start: 1075
+  - name: Sahar Moussavi
+    country: Tehran Iran
+    start: 1112
   - name: Lee Schnaiberg
     country: Montreal CA
     start: 1635
+  - name: Bill Rogers
+    country: Mountain View CA USA
+    start: 1673
+  - name: Verneda Lights
+    country: Port Royal SC USA
+    start: 2134
   - name: Colin Goldberg
     country: North Bennington VT USA
     start: 2178
   - name: Roz Dimon
     country: Shelter Island NY USA
     start: 3187
-  - name: Susan DeTroy
-    country: Eugene OR USA
-    start: 3449
-  - name: Sahar Moussavi
-    country: Tehran Iran
-    start: 1112
-  - name: William Rogers
-    country: Mountain View CA USA
-    start: 1673
-  - name: Verneda Lights
-    country: Port Royal SC USA
-    start: 2134
   - name: Deann Stein Hasinoff
     country: Edmonton Canada
     start: 3217
+  - name: Susan Detroy
+    country: Eugene OR USA
+    start: 3449
   - name: Annette Weintraub
     country: NYC NY USA
     start: 3493
@@ -70,7 +70,7 @@ Once you sign up, you'll just get a reminder every week with the link. So you ca
 
 So. Are you ready to share your screen.
 
-## William Rogers [06:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=372s)
+## Bill Rogers [06:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=372s)
 
 Sure.
 
@@ -78,7 +78,7 @@ Sure.
 
 Okay.
 
-## William Rogers [06:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=375s)
+## Bill Rogers [06:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=375s)
 
 Dry. Now, there's sound optimize. Video. Yes, yes, yes, just in case.
 
@@ -88,7 +88,7 @@ Setting up to share.
 
 And you told us you're coming from San Francis, from the Bay Area, from San Jose.
 
-## William Rogers [06:45](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=405s)
+## Bill Rogers [06:45](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=405s)
 
 Yes.
 
@@ -96,7 +96,7 @@ Yes.
 
 Okay. Great.
 
-## William Rogers [06:48](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=408s)
+## Bill Rogers [06:48](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=408s)
 
 I'm attempting to share my screen.
 
@@ -106,7 +106,7 @@ And it's not working.
 
 It's not working. Okay, do you have a Powerpoint or Google? So what do you have.
 
-## William Rogers [07:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=424s)
+## Bill Rogers [07:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=424s)
 
 No.
 
@@ -114,7 +114,7 @@ No.
 
 Know what? Can you put? Your, we're gonna move on to the next person and come back to you.
 
-## William Rogers [07:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=434s)
+## Bill Rogers [07:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=434s)
 
 On the next person.
 
@@ -122,7 +122,7 @@ On the next person.
 
 And maybe you could put your work into Google drive.
 
-## William Rogers [07:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=438s)
+## Bill Rogers [07:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=438s)
 
 Drop.
 
@@ -130,7 +130,7 @@ Drop.
 
 Box and send the link.
 
-## William Rogers [07:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=440s)
+## Bill Rogers [07:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=440s)
 
 No. I need to share, and I can't share.
 
@@ -138,7 +138,7 @@ No. I need to share, and I can't share.
 
 You need? Okay, what format is it in.
 
-## William Rogers [07:28](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=448s)
+## Bill Rogers [07:28](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=448s)
 
 We want to. The next person.
 
@@ -284,7 +284,7 @@ And I want to show you one of my videos.
 
 I hope you can see my video.
 
-## Susan DeTroy [20:09](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1209s)
+## Susan Detroy [20:09](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1209s)
 
 Yes.
 
@@ -374,7 +374,7 @@ Rape. Wonderful. Do you wanna try sharing again and seeing if you click the butt
 
 Okay, that's great. I think that gives us an idea. So we can move on. Thank you. People can put comments for Sahar in the chat. And Sahar. If you have any of these on Vimeo or Instagram. That goes for anybody, feel free to put the link, and then people can see the videos so great. Thank you. Verneta, were you able to get your Share to work? And, William, you're raising your hand? You're muted so I can't hear what.
 
-## William Rogers [27:43](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1663s)
+## Bill Rogers [27:43](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1663s)
 
 I think maybe I can share now. Oh, okay, cool.
 
@@ -382,7 +382,7 @@ I think maybe I can share now. Oh, okay, cool.
 
 Let's go to William right now and then. Okay. Go ahead.
 
-## William Rogers [27:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1673s)
+## Bill Rogers [27:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1673s)
 
 Okay, we're gonna try again.
 
@@ -390,7 +390,7 @@ Okay, we're gonna try again.
 
 Okay.
 
-## William Rogers [28:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1680s)
+## Bill Rogers [28:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1680s)
 
 Hey?
 
@@ -400,7 +400,7 @@ Okay, I'm punting again. It's asking for a password.
 
 It's working.
 
-## William Rogers [28:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1695s)
+## Bill Rogers [28:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1695s)
 
 Oh, you can see my screen.
 
@@ -408,7 +408,7 @@ Oh, you can see my screen.
 
 Yeah, yeah.
 
-## William Rogers [28:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1698s)
+## Bill Rogers [28:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1698s)
 
 Excellent. Okay, I am William Rogers. And my artist name is Stellar Fire.
 
@@ -434,11 +434,11 @@ I like to think that he got a kick out of making that and sharing it with his fr
 
 Yep.
 
-## Susan DeTroy [33:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2033s)
+## Susan Detroy [33:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2033s)
 
 Yes.
 
-## William Rogers [33:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2034s)
+## Bill Rogers [33:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2034s)
 
 So that's why I'm doing this. I have a need to create. And I really want to share my creations and touch people and hopefully give them a positive vibe.
 
@@ -446,7 +446,7 @@ So that's why I'm doing this. I have a need to create. And I really want to shar
 
 Great. Can you put your Instagram in the chat? That would be really useful and.
 
-## William Rogers [34:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2052s)
+## Bill Rogers [34:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2052s)
 
 I will, I will do that.
 
@@ -454,7 +454,7 @@ I will, I will do that.
 
 I just wanna mention again that when people share, you need to click the boxes in the upper right? That say, share video, share sound if you have video, so we got to see that image. It was really great to see it, but we couldn't hear because you didn't click the little box that said, Share sound
 
-## William Rogers [34:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2076s)
+## Bill Rogers [34:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2076s)
 
 What day.
 
@@ -466,7 +466,7 @@ I heard it.
 
 Pardon.
 
-## William Rogers [34:42](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2082s)
+## Bill Rogers [34:42](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2082s)
 
 I tried.
 
@@ -482,7 +482,7 @@ I think I heard it.
 
 Well, I heard some of it, but I we couldn't hear it as well as if you you know the zoom interface. Just why don't they make the default share, video, share, sound if you're sharing, and everyone wants that. But no, they want you to like Jump through something else. So.
 
-## William Rogers [35:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2104s)
+## Bill Rogers [35:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2104s)
 
 Next time I'll try and dialed in a little bit more.
 
@@ -490,7 +490,7 @@ Next time I'll try and dialed in a little bit more.
 
 Little boxes that's all under in the upper right. There are 2 little boxes that say, share video, share sound, and they just make life a lot easier. So.
 
-## William Rogers [35:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2120s)
+## Bill Rogers [35:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2120s)
 
 Heard it.
 
@@ -534,7 +534,7 @@ Alabaster even, and greenish. So I decided to use the Burnish brass appearance o
 
 ## Verneda Lights [42:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2532s)
 
-Okay. And here we have another picture of Jesus. I have taken the perspective of black exploitation movies from the 19 seventies, and we have Jesus in a super fly type attire, and he's shooting shots of tequila with Judas. It's scary it. And here we have at the very end Jesus, and Simon the Cyrene. Simon was a black man From the north of Africa, from the country of Cyrene, and he was conscripted by Roman soldiers to help Jesus carry his cross. And so I use my nephew and his son As the models for Simon and Christ.
+Okay. And here we have another picture of Jesus. I have taken the perspective of black exploitation movies from the 1970s, and we have Jesus in a super fly type attire, and he's shooting shots of tequila with Judas. It's scary it. And here we have at the very end Jesus, and Simon the Cyrene. Simon was a black man From the north of Africa, from the country of Cyrene, and he was conscripted by Roman soldiers to help Jesus carry his cross. And so I use my nephew and his son As the models for Simon and Christ.
 
 And I was told by a very angry viewer on Facebook that they weren't black enough. And I said, Well, I didn't answer. But you know people have all kinds of ways of looking at situations. So that's my perspective.
 
@@ -560,7 +560,7 @@ Thank you.
 
 Okay, thank you so much. So next, I have Susan DeTroy.
 
-## Susan DeTroy [43:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2634s)
+## Susan Detroy [43:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2634s)
 
 Hi! I come to you from a town called Eugene, in Oregon, which is in what's called the Willamette Valley of Oregon, which is in western Oregon. Between the Cascades and the Coastal mountains. That's where I'm from. Okay.
 
@@ -586,7 +586,7 @@ And I thought, Oh, I love this angle. So I took some images. This is one of my f
 
 This is your 2 min warning.
 
-## Susan DeTroy [50:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3030s)
+## Susan Detroy [50:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3030s)
 
 Okay, thank you.
 
@@ -604,7 +604,7 @@ This is a very recent rework. These are very recent. These are my most recent pi
 
 Okay, thanks. So that's time. So.
 
-## Susan DeTroy [52:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3143s)
+## Susan Detroy [52:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3143s)
 
 That's perfect. Because That's it. Okay.
 
@@ -612,7 +612,7 @@ That's perfect. Because That's it. Okay.
 
 Perfect. Okay, did have a question in the chat about your about the app. You could go back and look at that.
 
-## Susan DeTroy [52:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3156s)
+## Susan Detroy [52:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3156s)
 
 I'm good.
 
@@ -1016,7 +1016,7 @@ Is this working right now? Are you seeing this? Because it just told me my pause
 
 No.
 
-## Susan DeTroy [01:16:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4589s)
+## Susan Detroy [01:16:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4589s)
 
 No.
 

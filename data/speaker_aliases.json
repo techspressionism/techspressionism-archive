@@ -1,0 +1,37 @@
+{
+  "_comment": "Canonical speaker names. Applied in Stage 5 to segment headings, the session speaker list, and frontmatter. Generic rules (in lib_speakers.py) already strip trailing parentheticals like '(cont)' or '(on Roman Verostko)', drop stray leading numbers, and Title-Case ALL-CAPS names; list only exceptions here. Keys are matched case-insensitively.",
+  "aliases": {
+    "Anton Dubrovin": "Anton Dubrovin (MCHX)",
+    "Anton MCHX": "Anton Dubrovin (MCHX)",
+    "Anton Dubrovin (MCHX)": "Anton Dubrovin (MCHX)",
+    "Adrianne Wortzel": "Adrienne Wortzel",
+    "Annnette Weintraub": "Annette Weintraub",
+    "Chanee Choi": "Chanhee Choi",
+    "Deann S Hasinoff": "Deann Stein Hasinoff",
+    "Deann Stein Hassinoff": "Deann Stein Hasinoff",
+    "Galina Schevchenko": "Galina Shevchenko",
+    "Lucy Boyd Wilson": "Lucy Boyd-Wilson",
+    "Randi Matsushevitz": "Randi Matushevitz",
+    "Stephen Pare": "Stephen Paré",
+    "Susan de Troy": "Susan Detroy",
+    "Susan DeTroy": "Susan Detroy",
+    "William Rogers": "Bill Rogers",
+    "Morgan Harper Nichols USA": "Morgan Harper Nichols",
+    "Sahar Moussavi سحر": "Sahar Moussavi",
+    "Cari Ann Shim Sham": "cari ann shim sham",
+    "mowna (The Museum of Wild and Newfangled Art)": "mowna"
+  },
+  "not_speakers": [
+    "COLLAB #1",
+    "TECHSPRESSIONIST COLLAB#1",
+    "Journal announcement",
+    "SURPRISE CAMEO!!",
+    "Adios from Everywhere"
+  ],
+  "duos": {
+    "Colin Goldberg & Steve Miller": ["Colin Goldberg", "Steve Miller"],
+    "Joey Zaza & Cari Ann Shim Sham": ["Joey Zaza", "cari ann shim sham"],
+    "Lorin Roser And Nina Kuo (NYC, NY USA)": ["Lorin Roser", "Nina Kuo"],
+    "NPT / Negin Ehtesabian and Patrick Lichty": ["Negin Ehtesabian", "Patrick Lichty"]
+  }
+}

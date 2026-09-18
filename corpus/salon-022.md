@@ -9,11 +9,14 @@ url: "https://www.youtube.com/watch?v=sbMbH55efqM"
 duration_seconds: 6968
 moderator: Davonte Bradley
 speakers:
-  - name: Lorin Roser And Nina Kuo (NYC, NY USA)
-    country: null
+  - name: Lorin Roser
+    country: NYC, NY USA
     start: 163
-  - name: Emma Anne Johnson (Brooklyn, NY USA)
-    country: null
+  - name: Nina Kuo
+    country: NYC, NY USA
+    start: 163
+  - name: Emma Anne Johnson
+    country: Brooklyn, NY USA
     start: 2330
 transcript_source: youtube-auto-captions
 languages: ["en"]
@@ -27,7 +30,7 @@ So general format how these salons generally work is that you know we have our t
 
 All right so that being said nina lauren are you ready to present.
 
-## Lorin Roser And Nina Kuo (NYC, NY USA) [02:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=163s)
+## Lorin Roser And Nina Kuo [02:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=163s)
 
 Sure can you hear us yep we can hear you just fine great. All right you have the floor okay well first off I'm just gonna run like a demo reel. Okay so.
 
@@ -139,7 +142,7 @@ And I wanted to let everyone know also both both artists that just presented are
 
 All right so now we have our.
 
-## Emma Anne Johnson (Brooklyn, NY USA) [38:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=2330s)
+## Emma Anne Johnson [38:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=2330s)
 
 Second presentation for the day with emma are you ready to go. Yeah thank you all right can you hear me okay yep and for for everyone because I didn't say this before but it's kind of just like an implied thing if you have any questions or comments that you'd like to say please save those for the end of the presentation and keep yourself muted for the duration of the presentation. Just because you know that's respectful and. Interrupting would be rude so yeah this is a convenient thing emma you have the floor okay thank you all right for the background noise new york doesn't know how to be quiet. But I'm gonna share my screen [Music].
 

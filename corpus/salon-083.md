@@ -9,10 +9,10 @@ url: "https://www.youtube.com/watch?v=ekZHtu7TM9Q"
 duration_seconds: 5397
 moderator: Colin Goldberg // North Bennington VT USA
 speakers:
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 98
-  - name: Colin Goldberg (on Roman Verostko)
+  - name: Colin Goldberg
     country: North Bennington VT USA
     start: 735
   - name: Stephen Paré
@@ -30,18 +30,15 @@ speakers:
   - name: Michael Woodruff
     country: London UK
     start: 3383
-  - name: Colin Goldberg (on Angelo Ipplolito)
-    country: North Bennington VT USA
-    start: 3867
 transcript_source: zoom-transcript
 languages: ["en"]
 ---
 
-## Colin Goldberg (on Roman Verostko) [00:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3s)
+## Colin Goldberg [00:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3s)
 
 Hello, Internet. My name is Colin Goldberg, and welcome to the 83rd text question, is salon Today is Thursday, June 6, th 2024, and we have a wide variety of artists from all over the world here on Zoom. Today's topic is influences. So we have a couple of people lined up to get us started talking about their artistic influences. And I would encourage anyone else who's in the zoom to, you know, share on pretty much anything that you want regarding Current work or anything else. So influences is really just a jumping off point and doesn't need to focus necessarily on influences, and certainly does not need to be anything that Has been prepared in advance. You know, we started out with just a handful of people number of years ago, and everything was pretty much off the cuff and you know, I think that keeps it fresh. So we can start off with and when you share maybe just introduce yourself and let the audience know, and everyone else in the zoom know where you're zooming in from because I think it, it helps to establish context. So with that being, said, the 1st artist that's gonna share is Susan DeTroy.
 
-## Susan DeTroy [01:41](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=101s)
+## Susan Detroy [01:41](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=101s)
 
 Good morning. I come to you from Eugene Oregon. Where it's sunny. You can see the sun's coming through the window. We're having lovely weather here, and so I jumped in because I I love to share my work. And I'm going to share I'm gonna share. Video that I've been producing. And I would say that My influences are multiple. Particularly, I'm influenced by The natural world. I do a lot of a lot of my work. That's video is rooted in the natural world Roses and plants and forest.
 
@@ -85,21 +82,21 @@ There you go. Oops. It doesn't. Things are happening. So those are my latest pro
 
 Thanks.
 
-## Colin Goldberg (on Roman Verostko) [12:16](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=736s)
+## Colin Goldberg [12:16](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=736s)
 
 Alright. Thank you, Susan.
 
-## Susan DeTroy [12:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=739s)
+## Susan Detroy [12:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=739s)
 
 Sure.
 
-## Colin Goldberg (on Roman Verostko) [12:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=739s)
+## Colin Goldberg [12:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=739s)
 
 And be before we move on. I just wanted to say that. You know, my colleague from graduate school. Patrick Lichty was signed on to moderate this salon, and he's actually not here because a friend passed away. Who's A pretty important artist, I would say, quite an important artist in the context of this group, particularly by the name of Roman Verasco. And I just wanted to share my screen really quickly. And just pull up something a little bit about him. So if any you guys are interested in looking him up, I would encourage you to do so.
 
-I had the pleasure of corresponding with him a little bit since this group started, and you know he's somebody that I would certainly count among my influences. I was a little bit Starstruck to be honest, that you know, we had been communicating, and did a couple of Zoom calls, and he, you know, he's part. He's now actually included in the the Techspressionist, visual artist index. At 1st he was a little bit hesitant to you know, to Be added to it. Because, he said, you know, he identifies as an algorithmist, which is I would say, probably you know, one of the if not the 1st actual Computer art movements? And he's been involved. You know, he's been involved in algorithmic art for or he he had. You know he's a pioneer, basically him Ver vera molnar chuck, Suri. I'm not sure if I'm pronouncing that right. But these are some of Roman's pieces, and he actually To me, has a direct lineage to Techspressionism, even though he himself didn't identify that way. He lived in New York City, during the time of the abstract expressionists in the 19 fifties live, and, you know, spent time with a lot of them. Downtown. Actually, he just looking at some of the emails that he had sent me.
+I had the pleasure of corresponding with him a little bit since this group started, and you know he's somebody that I would certainly count among my influences. I was a little bit Starstruck to be honest, that you know, we had been communicating, and did a couple of Zoom calls, and he, you know, he's part. He's now actually included in the the Techspressionist, visual artist index. At 1st he was a little bit hesitant to you know, to Be added to it. Because, he said, you know, he identifies as an algorithmist, which is I would say, probably you know, one of the if not the 1st actual Computer art movements? And he's been involved. You know, he's been involved in algorithmic art for or he he had. You know he's a pioneer, basically him Ver vera molnar chuck, Suri. I'm not sure if I'm pronouncing that right. But these are some of Roman's pieces, and he actually To me, has a direct lineage to Techspressionism, even though he himself didn't identify that way. He lived in New York City, during the time of the abstract expressionists in the 1950s live, and, you know, spent time with a lot of them. Downtown. Actually, he just looking at some of the emails that he had sent me.
 
-But he he said that he had met quite a few of the American abstract expressionist while he lived down there. At a later time I'd like to assist. Expressionism awakens memories of abstract expressionism a title that many critics question the 19 sixties, and I forget the alternative suggestions at a later time. I'd like to share something about my experience with the abstract expressionists. I knew New York in the late 19 fifties and sixties. I did attend meetings of the club in the village that was organized by Philip Pavia, who is editor of the it is Journal, which is quite a famous journal. That led me to understand. The Brush Stroke Club consisted of active artists. Many lived in or near the village, and I met quite a few at Rinehart, Motherwell, Philip Guston, and George, you know, come to mind, etc, etc. So you know, I feel like Roman in particular, is relevant to what this group is doing in terms of his direct involvement with American abstract expressionism and his interest in technology. Which you could see these plotter drugs of his on the screen. That you know, he actually inspired me. He was one of the artists. Probably I would say the artist that inspired me to get a plotter. And I think it's extremely interesting. What he was doing with the plotter is that you know he didn't just use standard pen plotting Pens. He actually mounted calligraphic brushes in the plotter arm, and you know, use that to create a lot of his work. He also wrote the code that generates that generated all of these images, and you can see definitely an Asian influence In the work. So I just wanted to share a little bit about this guy, you should definitely look him up if if you have not come familiar with his work, because I think he's certainly you know one of the most I would say.
+But he he said that he had met quite a few of the American abstract expressionist while he lived down there. At a later time I'd like to assist. Expressionism awakens memories of abstract expressionism a title that many critics question the 1960s, and I forget the alternative suggestions at a later time. I'd like to share something about my experience with the abstract expressionists. I knew New York in the late 1950s and 60s. I did attend meetings of the club in the village that was organized by Philip Pavia, who is editor of the it is Journal, which is quite a famous journal. That led me to understand. The Brush Stroke Club consisted of active artists. Many lived in or near the village, and I met quite a few at Rinehart, Motherwell, Philip Guston, and George, you know, come to mind, etc, etc. So you know, I feel like Roman in particular, is relevant to what this group is doing in terms of his direct involvement with American abstract expressionism and his interest in technology. Which you could see these plotter drugs of his on the screen. That you know, he actually inspired me. He was one of the artists. Probably I would say the artist that inspired me to get a plotter. And I think it's extremely interesting. What he was doing with the plotter is that you know he didn't just use standard pen plotting Pens. He actually mounted calligraphic brushes in the plotter arm, and you know, use that to create a lot of his work. He also wrote the code that generates that generated all of these images, and you can see definitely an Asian influence In the work. So I just wanted to share a little bit about this guy, you should definitely look him up if if you have not come familiar with his work, because I think he's certainly you know one of the most I would say.
 
 Important computer artists that, you know, has has come our way so far. So yeah, that's it. I just wanted to give him, you know, Sort of some props, because if it wasn't for people like Roman, I don't know that, you know, many people would be would have moved in that direction. I know a bunch of the people in the zoom or at least a couple I know, Cynthia, I believe, and Nina might have known him personally to some degree. So Yeah, at any rate. I guess I will. I said I wasn't gonna share. But these, you know, I I would say I you know I I hadn't really thought about him being an influence until actually his passing, and he was 94, and the last time I spoke with him he was extremely lucid, you know, and Still continuing to make work. This is, you know, a couple of months ago.
 
@@ -109,11 +106,11 @@ And. Very inspiring, you know, individual and and quite an interesting story. Pe
 
 Calling.
 
-## Susan DeTroy [18:09](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1089s)
+## Susan Detroy [18:09](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1089s)
 
 Kristen. I have a quick question. We answer questions at the end that people have asked.
 
-## Colin Goldberg (on Roman Verostko) [18:15](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1095s)
+## Colin Goldberg [18:15](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1095s)
 
 Yeah, I think that maybe we'll round it up at the end, because I think a lot of times, you know. There's some crossover or synergy between what people share. And it just makes for a more interesting conversation. So, yeah, so. And you know what? Like 1225. So we we usually go, or we basically go from 12 to 1 30. So maybe like around 1, 1, 15, or something if it starts to. You know, the pool of people that want to present individually starts to dwindle, and we can kind of open it up. General conversation that seems like good Way to go. So.
 
@@ -153,7 +150,7 @@ If I can figure out how to. Stop share. That's it.
 
 Thank you.
 
-## Colin Goldberg (on Roman Verostko) [26:36](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1596s)
+## Colin Goldberg [26:36](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1596s)
 
 Okay. Thank you, Steven. I did. Wanna note that. We have at least one Ca, actual Karen, a an artist named Karen in in the lineup. So I just wanted to say that. You know, that is actually the name of individuals also. Not necessarily a you know, an Internet meme. Actually, my prom name is named Karen, and she's about as far from a Karen as you could possibly imagine. The stereotypical term. So I just wanted to put that out there.
 
@@ -163,7 +160,7 @@ Thanks for clarifying that. I'll just if I could just add really quickly, I'm to
 
 So there was. I'm. If Karen denotes something. Steve, I think, denotes A A very average person.
 
-## Colin Goldberg (on Roman Verostko) [28:04](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1684s)
+## Colin Goldberg [28:04](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1684s)
 
 Right on. Well, you know, every every name or word has its own individual personal connotation. So I just wanted to to add a little footnote there, so you know no feathers are ruffled out there in the ether, or you know. What have you so? Alright! Let me. Just see. To Istan Vernada.
 
@@ -177,7 +174,7 @@ You.
 
 Okay, can everybody see it?
 
-## Colin Goldberg (on Roman Verostko) [30:42](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1842s)
+## Colin Goldberg [30:42](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1842s)
 
 Yep.
 
@@ -209,7 +206,7 @@ And more sunflowers with a class of 1974. So That's me.
 
 Thank you so much.
 
-## Colin Goldberg (on Roman Verostko) [40:31](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2431s)
+## Colin Goldberg [40:31](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2431s)
 
 Thank you. Bernadette. Really interesting.
 
@@ -217,7 +214,7 @@ Thank you. Bernadette. Really interesting.
 
 Yeah, by the way, we. Ways. And I mentioned that we met our goal. We raise over Our goals. So we're approaching close to $300,000 that was raised in that pain. Isn't that cool? Yay.
 
-## Colin Goldberg (on Roman Verostko) [40:52](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2452s)
+## Colin Goldberg [40:52](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2452s)
 
 Facing.
 
@@ -227,7 +224,7 @@ Yeah. Yeah. And I use an AI infused campaign to accomplish it. I did so because 
 
 What's going on here and now in the 21st century, and I want to do it. I wanted to do it in a way in which historians of the future Could look back at our class and see if they saw nothing but our 50th reunion. They would be able to tell or discern core Truth about who we are as women in America at this Point in time. So, thanks for listening, everybody.
 
-## Colin Goldberg (on Roman Verostko) [42:23](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2543s)
+## Colin Goldberg [42:23](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2543s)
 
 Thank you. Grenada. Really beautiful work and an interesting application of AI. I also appreciate context In which you know the works being used in a way that is. You know, Commerce related. Supporting your Alma Mater. You know. It it just it puts another perspective on how we, as far as can, you know, utilize our craft. So thank you for that. So it looks like we have 2 artists left, and I think, after Karen and Roz, we're gonna close out the individual presentation. So we'll have some time for just open conversation.
 
@@ -239,7 +236,7 @@ Let me get my sound on here.
 
 And I think I've shown you this before, but. I've shown so many I can't remember. Oh, great. Seriously. Zoom, get out of the way. I need that button. There. Can you see the book with a solid gray background? Yes.
 
-## Susan DeTroy [43:51](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2631s)
+## Susan Detroy [43:51](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2631s)
 
 Yes.
 
@@ -271,7 +268,7 @@ And I'll end with this the fact that now, if you've seen this before, I know I'v
 
 Thank you. Everybody.
 
-## Colin Goldberg (on Roman Verostko) [49:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2943s)
+## Colin Goldberg [49:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=2943s)
 
 Awesome thanks. So much for sharing Karen. Okay? And actually, I had one more artist message me asking if he could present briefly. So after Roz we have one more, Michael Woodruff, and make a hard cut off after Michael. So lots of time so Roz, take it away.
 
@@ -291,7 +288,7 @@ And it'd been quite a kind of glitzy kind of exciting show. And he said, well, I
 
 Influential thing about. Well. All of it. Thanks.
 
-## Colin Goldberg (on Roman Verostko) [56:07](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3367s)
+## Colin Goldberg [56:07](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3367s)
 
 Thank you, Ross. I was. Not familiar with that particular piece. But have met James a number of times. So now it puts him in a little bit of a different light. There.
 
@@ -299,7 +296,7 @@ Thank you, Ross. I was. Not familiar with that particular piece. But have met Ja
 
 Yeah.
 
-## Colin Goldberg (on Roman Verostko) [56:20](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3380s)
+## Colin Goldberg [56:20](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3380s)
 
 I.
 
@@ -307,7 +304,7 @@ I.
 
 Yeah.
 
-## Colin Goldberg (on Roman Verostko) [56:21](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3381s)
+## Colin Goldberg [56:21](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3381s)
 
 Alright. So we have one more artist presenting and that would be Michael Woodruff. So take it away, Michael.
 
@@ -315,7 +312,7 @@ Alright. So we have one more artist presenting and that would be Michael Woodruf
 
 Hi, Colin. Thanks. Yeah. I hadn't planned to present, but you'd I know you'd mentioned the abstract expressionists. And that was like one of my first, st when I sort of think I can do what I do and be an artist that was like one of.
 
-## Colin Goldberg (on Roman Verostko) [56:42](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3402s)
+## Colin Goldberg [56:42](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3402s)
 
 Do you mind just letting everyone know where you're zooming in from? If you don't mind.
 
@@ -345,7 +342,7 @@ You know I always think animation for me is such an overlooked, and you know yea
 
 So yeah, that's My inspirations. Stop sharing.
 
-## Colin Goldberg (on Roman Verostko) [01:04:14](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3854s)
+## Colin Goldberg [01:04:14](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=3854s)
 
 Alright. Thank you, Michael. Very diverse and interesting set of influences. You know what you shared actually made me think about just one Other quick person that I want to give a shout out to. That's related to expressionism, I would say somewhat directly, and that is a painter by the name of Angelo Ippolito, who's actually my undergraduate painting professor at Binghamton University. And he was a second generation abstract expressionist lived and worked in downtown New York after coming to America from Italy, and he was the 1st abstract painter that I'd ever met before I met him. I was working in sort of the fashion that was inspired by surrealist painters like Mcreeco people like that.
 
@@ -353,7 +350,7 @@ And he kind of opened my eyes to abstraction. And you know the students that wou
 
 And he didn't Have anything further to say about it. The idea that the viewer completes the painting Is something that a lot of people have difficulty with even now. I remember trying to use that as a defense of my own work in graduate school, and many of my Mfa colleagues didn't like that. But I think that you know, realistically, a lot of times, working abstractly, at least for myself, I don't have a preconceived notion of what the ideas about you know it's where I'm at in terms of my mood, my mental state. What's going on in my life, and it just manifests in the work. So Angelo was definitely a big influence on me. His son.
 
-John and Bolito actually was also an influence on me, and and in that he was a curator at the Guggenheim. I believe he's now at University of Maine. He works in digital media, you know, and within the art field. And he curated show Called mediascape. That I saw in the mid, I believe, mid to late 19 nineties. It was at the Guganine, and so they had a small satellite gallery, and so and it had Manzune Pake. It had all these, you know now very well known people working in new media. And it just made a huge Impact on me. So it's very interesting to think that both father and son, at least for me, had had a very large influence. So I just wanted to mention Angelo, and he was one of the people that actually encouraged me as an artist. He Said, you know there were. I had 2 painting professors, Hippolito and Shapiro and Shapiro said to us.
+John and Bolito actually was also an influence on me, and and in that he was a curator at the Guggenheim. I believe he's now at University of Maine. He works in digital media, you know, and within the art field. And he curated show Called mediascape. That I saw in the mid, I believe, mid to late 1990s. It was at the Guganine, and so they had a small satellite gallery, and so and it had Manzune Pake. It had all these, you know now very well known people working in new media. And it just made a huge Impact on me. So it's very interesting to think that both father and son, at least for me, had had a very large influence. So I just wanted to mention Angelo, and he was one of the people that actually encouraged me as an artist. He Said, you know there were. I had 2 painting professors, Hippolito and Shapiro and Shapiro said to us.
 
 You know, being an artist, is great, but if you have the brains to be a dentist you should go. Be a dentist and Shapiro said. If you want to be an artist, you know, I suggest that you move to New York and give it a shot. So I followed his lead. And you know, I appreciate that. So we don't have a whole lot of time to to chat, but I'm gonna open it up. Now, if anyone has any questions for any of the other artists you know, or just general conversation threading things together, the floor is open. I don't.
 
@@ -369,7 +366,7 @@ So go ahead.
 
 I loved your videos. They're they're beautiful. I was wondering about the music in the second video. It seems so perfect that wall, so what is that piece?
 
-## Susan DeTroy [01:08:24](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4104s)
+## Susan Detroy [01:08:24](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4104s)
 
 Mind me what I showed. Second, what was the second? The forest? So I I'll have to get the. I'll look at the video to tell you the name of it, but one To reinforce once again that The Co. Working is influential. Since Cynthia Bath, Rubin suggested that I use Adobe stock for music. And I did a free trial, and I got licensed to a number of Muse up Music, clips, or songs. And so it's 1 of those. And I'd have to look on the film to remember which exactly one it is. But that's how I changed from that experience. Was I changed from using the music that was in the editor.
 
@@ -379,7 +376,7 @@ Which is pretty deep. Actually, Capcot has a pretty deep sound and and audio lib
 
 Is.
 
-## Susan DeTroy [01:10:01](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4201s)
+## Susan Detroy [01:10:01](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4201s)
 
 Helpful!
 
@@ -387,7 +384,7 @@ Helpful!
 
 Yeah, I just wanted to to add to that and say, it's that adobe stock actually has freelance composers who are like real composers trying to make a living at it. So it's not music. It's, you know. As you can tell from the music.
 
-## Susan DeTroy [01:10:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4219s)
+## Susan Detroy [01:10:19](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4219s)
 
 It's very deep. The library they have is very deep and it was fun. It was fun Browsing the library and finding things that felt like they were gonna fit with the work that I do. So.
 
@@ -399,7 +396,7 @@ I often all of the imagery in my dining escapes. I source, if if I'm gonna use s
 
 I want them to come. Large part of this larger revolution bouquet that we're talking about here in this group. I have to say, this is just this meeting today, a lot among many. It's just so much more exciting, I have to say than some of the stuff that I'm that's in my local purview, which we have lots of talent. But I just, I really believe in what we're we're talking about here. This was a really great day. Thank you, Colin.
 
-## Susan DeTroy [01:12:36](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4356s)
+## Susan Detroy [01:12:36](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4356s)
 
 Yeah, up I I always At the end of my films. I all any sound I used is always listed at the end. So That's right. So. Sandra, I. Give me a way to email you and I'll send you the information. It's really hard for me to get to find it when I'm on the zoom. So if you put it put your email in the chat, I'll email you the information.
 
@@ -407,11 +404,11 @@ Yeah, up I I always At the end of my films. I all any sound I used is always lis
 
 Thank you. Susan.
 
-## Susan DeTroy [01:13:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4383s)
+## Susan Detroy [01:13:03](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4383s)
 
 Sure! Thanks.
 
-## Colin Goldberg (on Roman Verostko) [01:13:11](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4391s)
+## Colin Goldberg [01:13:11](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4391s)
 
 Anyone else. Scojo, you're taking off very nice to see you, and a lot of the other kind of regulars I haven't seen in a while. It's awesome. I think, moving to once a month. Format actually works out really? Well, it gives people sort of you know, a chance to Gather their thoughts. Materials come back and reconvene so, and it also makes the whole production schedule a little bit more. Easy one thing that I did wanna mention is that. And I didn't realize this until looking at the calendar just now. But the 1st Thursday of July happens to be Independence Day, July 4, th so I mean we'll still have a salon. I'll be here, I don't know. Like you know, I'll be. I'll I'm willing to take an hour and a half away from a barbecue, or whatever might be happening on that day to Be here.
 
@@ -427,7 +424,7 @@ So yeah, I just wanted to mention that to you and to Youtube in case anyways wat
 
 I wonder, Colin, if maybe on independent on July, when we have a meeting, if ever, if we should have the theme Either Independence or America, or something like that. It doesn't have to be like patriotic. Of course it could be like per Stephen. Steven's great thing today. I don't know how people can stay blind to what's going on. I really appreciated it. So I don't know. I just thought it's just an idea to throw out there as a, as a topic.
 
-## Colin Goldberg (on Roman Verostko) [01:16:50](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4610s)
+## Colin Goldberg [01:16:50](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4610s)
 
 Well, you know our tradition, Roz, you come up with the topic. You are inherently volunteering to moderate this a lot.
 
@@ -435,7 +432,7 @@ Well, you know our tradition, Roz, you come up with the topic. You are inherentl
 
 So what do you think? Okay.
 
-## Colin Goldberg (on Roman Verostko) [01:17:02](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4622s)
+## Colin Goldberg [01:17:02](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4622s)
 
 Alright. Well, you don't even have to.
 
@@ -443,7 +440,7 @@ Alright. Well, you don't even have to.
 
 All go.
 
-## Colin Goldberg (on Roman Verostko) [01:17:05](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4625s)
+## Colin Goldberg [01:17:05](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4625s)
 
 You don't even have to wait till the after party. Then that's awesome. Alright, so well, actually, no, we have to. We have to follow the the guidelines, which is like. I like to say that one of the very few things that I learned that was of practical use by being in a fraternity, which is Robert's rules and would anyone like to make a motion that we have the next salon topic be independence? Anyone? Okay, Nina. Nina makes a motion. Do we have a second.
 
@@ -451,7 +448,7 @@ You don't even have to wait till the after party. Then that's awesome. Alright, 
 
 Second.
 
-## Colin Goldberg (on Roman Verostko) [01:17:45](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4665s)
+## Colin Goldberg [01:17:45](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4665s)
 
 Okay, all those in favor.
 
@@ -463,7 +460,7 @@ Aye.
 
 Hi.
 
-## Colin Goldberg (on Roman Verostko) [01:17:49](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4669s)
+## Colin Goldberg [01:17:49](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4669s)
 
 Oppose Alright Motion carries. We have a salon topic, independence for July 4, th to be moderated by Roz dime. So there we go. As for the last number of salons, I don't know how many the Promotional Graphic will be created by mid journey in collaboration with myself. So that's that's how I use. AI is creating the a little album cover. Art for these saloons.
 
@@ -471,7 +468,7 @@ Oppose Alright Motion carries. We have a salon topic, independence for July 4, t
 
 They're great. They're wonderful!
 
-## Colin Goldberg (on Roman Verostko) [01:18:26](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4706s)
+## Colin Goldberg [01:18:26](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4706s)
 
 Thank you. Yeah. I like to, you know, incorporate my my design. Background a little bit What we do here. So we still have a little bit of time. Anyone have anything they'd like to share. Yet.
 
@@ -479,7 +476,7 @@ Thank you. Yeah. I like to, you know, incorporate my my design. Background a lit
 
 I just wanted to say that I just participated in the last cohort of the Loop Art Critique and Residency, and it was super fun, and so interesting, and just really enjoyed every moment of it. 6 weeks getting together in in the metaverse, the on the loop in the loop metaverse and sharing art and critiquing each other's each other's work and our final. Our final exhibition is this, Saturday at noon Eastern time and. It's it's hosted on the on the loop metaverse, which is the same, the same technology as Mozilla hubs, and which which we all know from Siberiana. So I especially wanted you guys to know about this because you're familiar with J, jumping into that particular Style metaphors and moving around. So that's this, this last day for this current exhibition. And there's ongoing cohorts happening every 6 weeks or so so.
 
-## Colin Goldberg (on Roman Verostko) [01:19:59](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4799s)
+## Colin Goldberg [01:19:59](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4799s)
 
 Awesome, Lucy, would you mind posting a link to the chat so people will know how to get there? And it will it. Will it be on the main loop? Is it loop? I/O on the main loop website as well like, will people be able to get find their way there. So if people on Youtube who can't see the chat Google Loop Art Critique, you should be able to get the information there. And I'm glad you brought that up because, the artist actually that created the the the main image for the Brooklyn Exhibition, Renati and a chefska who also happens to be The in Instagram curator for the Techspressionist community she was recently interviewed on loop, and I believe she was involved in this West Set of artists involved to some degree. Was that the case, Lucy? I'm not 100% sure. But.
 
@@ -487,7 +484,7 @@ Awesome, Lucy, would you mind posting a link to the chat so people will know how
 
 Yes, she was a Jura for the I think it's the the previous Residency.
 
-## Colin Goldberg (on Roman Verostko) [01:21:09](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4869s)
+## Colin Goldberg [01:21:09](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4869s)
 
 Okay. Gotcha gotcha. Yeah. She had a very interesting interview. That's, I think, accessible through her Instagram account. She has a link tree link there. And the whole interview process happens within the Corner of the metaverse. I don't know exactly how people talk about different areas on the metaverse. But the loop zone so awesome very cool. Done. Does anyone else have anything.
 
@@ -497,7 +494,7 @@ I have. I have a quick announcement, which is Sigraph. Asia is going to be in To
 
 I just put that in the chat.
 
-## Colin Goldberg (on Roman Verostko) [01:22:35](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4955s)
+## Colin Goldberg [01:22:35](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4955s)
 
 Awesome. Thank you for sharing that Cynthia. And I just did get a question. Regarding the the show in Brooklyn. The curator is Tommy Mints, MINT z. So if you look him up you should be able to find all the relevant ways to get in touch with him. I'm not sure if he's still accepting submissions at this time. But he certainly, you know, has a website and social media, so you could always drop the line and see if he's still accepting submissions. And he is actually a tenured professor at Kingsborough of digital art and photography. So and he creates very interesting algorithmic art.
 
@@ -507,7 +504,7 @@ Involving photography. And I believe, python code that he wrote so Up. Alright. 
 
 Yeah, I I was chair of the lifetime achievement and digital art committee Sig graph. And we gave him the award. And I have one of his pieces. I don't not sure where it is now. I gotta find it and Yes, and we corresponded just 2 weeks ago. I mean, we corresponded regularly through Facebook Messenger. And just 2 weeks ago we were in touch, or 3 weeks ago. Maybe.
 
-## Colin Goldberg (on Roman Verostko) [01:24:16](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5056s)
+## Colin Goldberg [01:24:16](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5056s)
 
 Did you have any thoughts or things you would want to share about him, since this is sort of Is commemorating his, you know his passing and life.
 
@@ -519,7 +516,7 @@ So. And the fact that he had been very involved in the church. Roman, are still 
 
 Okay, so let's.
 
-## Colin Goldberg (on Roman Verostko) [01:25:50](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5150s)
+## Colin Goldberg [01:25:50](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5150s)
 
 Yeah, and thank you very much. For that. You know, I think it's it's really interesting how he Crossed over and Patrick. You know, is kind of a connection to Roman as well. Through Minneapolis or Roman Was based, and I didn't realize this. I was just looking at another email that I had received from him that before. He said, Minneapolis proceeded Silicon Valley, and it was my good fortune to get a job teaching our history. The Minneapolis College bar and design in 1,968 Minneapolis was the home of control data. Honeywell Sperry ran super computer and univac at a research center in St. Paul. So I didn't realize that actually, it's really interesting historically, in terms of just the history of technology and computing in this country.
 
@@ -529,7 +526,7 @@ And he did. Wanna go on to say, and this is very gracious. Him that this is mean
 
 And I'd like to point out that Roman was actually Dean of Liberal arts. So this idea of bringing in from I concepts, from other fields From philosophy and psychology. Was what he did. His academic life.
 
-## Colin Goldberg (on Roman Verostko) [01:27:32](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5252s)
+## Colin Goldberg [01:27:32](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5252s)
 
 And you know, and he actually there is a an art center that was established in his name the Roscoe center for the arts. Which is It's not located.
 
@@ -537,7 +534,7 @@ And you know, and he actually there is a an art center that was established in h
 
 Latrobe, Pennsylvania.
 
-## Colin Goldberg (on Roman Verostko) [01:27:48](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5268s)
+## Colin Goldberg [01:27:48](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=5268s)
 
 Right right, Metro, and that that that art center has a fairly large collection of his work, and also you know, I believe other artists Relate to what he did. He had a pretty large volume volume, volume of you know, pre digital work as well. Traditional paintings, you know, very interesting. Kind of work that preceded was interested computing. So again, I'm encouraging here and on the web to to look them up and check them out so alright. So I think we will wrap up the recording.
 

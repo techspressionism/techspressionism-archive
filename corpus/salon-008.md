@@ -15,12 +15,12 @@ speakers:
   - name: Giovanna Sun
     country: NYC, NY USA
     start: 660
-  - name: Malavika Mandal Andrew
-    country: Mumbai, India
-    start: 1912
   - name: Michael Pointer
     country: Wichita, KS USA
     start: 1423
+  - name: Malavika Mandal Andrew
+    country: Mumbai, India
+    start: 1912
   - name: Lucy Boyd-Wilson
     country: Fallbrook, CA USA
     start: 2335

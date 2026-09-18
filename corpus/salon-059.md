@@ -7,11 +7,8 @@ date_published: 2022-12-22
 video_id: M3lz4NxC8N4
 url: "https://www.youtube.com/watch?v=M3lz4NxC8N4"
 duration_seconds: 5873
-moderator: Davonte Bradley (Davo)
+moderator: Davonte Bradley
 speakers:
-  - name: Journal announcement
-    country: Verneda Lights
-    start: 204
   - name: ScoJo
     country: Introductory Questions
     start: 330
@@ -39,7 +36,7 @@ speakers:
   - name: Jennifer Hrabota Lesser
     country: null
     start: 3937
-  - name: Chanee Choi
+  - name: Chanhee Choi
     country: null
     start: 4434
   - name: Colin Goldberg
@@ -57,7 +54,7 @@ flags:
   - speaker_index_partially_unparseable
 ---
 
-## Davonte Bradley (Davo) [00:05](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=5s)
+## Davonte Bradley [00:05](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=5s)
 
 Hello hello hello and welcome everyone to Art expressionism virtual salon number 60. Is that right I think that's fine oh almost 60. Getting ahead of myself.
 
@@ -187,7 +184,7 @@ But when people actually start you know break it down that's when you start expo
 
 Let's see I have a couple more people and we are actually running low on time so I'm gonna try get to everybody as quickly as I can.
 
-## Chanee Choi [01:13:54](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=4434s)
+## Chanhee Choi [01:13:54](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=4434s)
 
 Chinese still here make sure you want you to share my work the relative about the issues and topic today but I don't think it is better timing to just show it's a little bit long path belong to I just wanted to add more comments from Jennifer that. As a new media artists I enjoy. Ai and machine learning as a tool to play around with but when I hang out with my friends who are illustrators who actually need to get a lot of contracts with our industry companies they are having a lot of struggles and worried about the point how much AI can copy their work so I I couldn't just avoid their idea because they are also same artists they are just in different fields and then have a different positions to live as well for me I'm not interested in Academia and Educators so I I feel I found out this is very interesting point to catch up and how to to see the predict the future too but for example people who are not related in our field but they are still the same artists with us just using different tools they have a different idea I totally understandable so.
 

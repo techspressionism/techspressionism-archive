@@ -27,7 +27,10 @@ speakers:
   - name: Michael Woodruff
     country: London UK
     start: 2165
-  - name: NPT / Negin Ehtesabian and Patrick Lichty
+  - name: Negin Ehtesabian
+    country: Winona, MN USA
+    start: 2488
+  - name: Patrick Lichty
     country: Winona, MN USA
     start: 2488
   - name: Roz Dimon
@@ -397,7 +400,7 @@ Absolutely. Every Tuesday, we gather together on Zoom, to… Share our work afte
 
 So, the co-working aspect of it really makes it work better than just a regular quick group, because you focus back into what you're doing for an hour before you present. So, Alan, you have something to say?
 
-## ALLEN HIRSH [01:15:42](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4542s)
+## Allen Hirsh [01:15:42](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4542s)
 
 I just want to second what Cynthia's just said. For me, the people there are so skilled, it's greatly improved me. I mean, it just… you get all kinds of interesting, talented feedback. And people give you ideas about how to improve your work, and how to think about directions that you wouldn't have thought of yourself, because the group is, in fact, very skilled. I really want to make that clear.
 

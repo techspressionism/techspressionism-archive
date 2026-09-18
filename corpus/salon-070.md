@@ -15,6 +15,9 @@ speakers:
   - name: Cristina Inciarte
     country: Orlando FL USA
     start: 1970
+  - name: Colin Goldberg
+    country: North Bennington VT USA
+    start: 2048
   - name: Vytas Gaizutis
     country: Everett WA USA
     start: 2190
@@ -24,12 +27,6 @@ speakers:
   - name: Michael Pierre Price
     country: Phoenix AZ USA
     start: 3714
-  - name: Colin Goldberg
-    country: North Bennington VT USA
-    start: 4020
-  - name: Colin Goldberg
-    country: North Bennington VT USA
-    start: 2048
   - name: Lee Schnaiberg
     country: Montreal Canada
     start: 4608

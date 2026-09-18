@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=hyYpGwwt2G0"
 duration_seconds: 5235
 moderator: Michael Pierre Price - AZ USA
 speakers:
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: null
     start: 283
   - name: Karen LaFleur
@@ -42,7 +42,7 @@ So before we before we get going on today's topic. We do have an announcement th
 
 The the go-to program oftentimes Photoshop or photoshop clones. Their Hallmark is is this idea of layers. And for modern digital musical recordings. Multiple tracks. Again layers within music recording. And to and today I think it's really kind of interesting because this is salon number 64.. Which 64 is a power of two so again and it's all coming together so I really like that and commodore 64. Yes exactly 64-bit Computing and all of that so I just I think it's lovely that we're that we're having this conversation today. And then also. Just sort of the the meaning of layers is something that we use linguistically to peel back layers to find out what's at the Crux of something. And layers implies complexity and depth which I think for this for this group of artists is something that we all sort of thrive on and. Utilize in our work every day. And also connections and information and strata and evolution so I think there's a lot here for us to look at and talk about. And I'm happy to introduce Susan DeTroy to be our first artist presenting today so go for it Susan.
 
-## Susan DeTroy [04:43](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=283s)
+## Susan Detroy [04:43](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=283s)
 
 Thank you oh and I just wanted to chime in when presenters come on if you could just state where you're zooming in from also that would be awesome sure hi I'm Susan DeTroy I'm in Oregon in the valley Willamette Valley of Oregon that was a great introduction Michael because I was relating to all the words that you were using that seemed apropos of of what I create and so I'm going to do my best to. Screen share.
 

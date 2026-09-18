@@ -9,18 +9,18 @@ url: "https://www.youtube.com/watch?v=oimOOlyY0BY"
 duration_seconds: 4507
 moderator: Cynthia DiDonato // North Providence RI USA
 speakers:
+  - name: Karen LaFleur
+    country: Cape Cod MA USA
+    start: 33
   - name: Stephen Paré
     country: Houston TX USA
     start: 350
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 960
   - name: Judith Jacobs
     country: null
     start: 1589
-  - name: 20 Karen LaFleur
-    country: Cape Cod MA USA
-    start: 33
   - name: Kristen Doner
     country: null
     start: 2615
@@ -35,7 +35,7 @@ languages: ["en"]
 
 We're good hello and welcome to Salon 73. It's August 3rd 2023 and we've had a change in our meetings in case you haven't heard we're meeting on the first Thursday of every month. Techspressionist salons are a time and place in cyberspace where artists gather to hang out share their work and discuss matters relating to Art philosophy and Technology.
 
-## 20 Karen LaFleur [00:33](https://www.youtube.com/watch?v=oimOOlyY0BY&t=33s)
+## Karen LaFleur [00:33](https://www.youtube.com/watch?v=oimOOlyY0BY&t=33s)
 
 After finishing today's recording we will have an after party. If you care to attend we always discuss what we hope to have for a theme and Michael will have a few remarks as well at the end of this particular recording. The theme today is CounterPoint and.
 
@@ -99,7 +99,7 @@ I thought I would borrow that for. This kind of method of creating these. Vertic
 
 I do it horizontally sometimes but it's. The best results are usually like this where there's a series of vertical systems and sort of embedded in them as an image.
 
-## Susan DeTroy [16:00](https://www.youtube.com/watch?v=oimOOlyY0BY&t=960s)
+## Susan Detroy [16:00](https://www.youtube.com/watch?v=oimOOlyY0BY&t=960s)
 
 Thank you Stephen.
 

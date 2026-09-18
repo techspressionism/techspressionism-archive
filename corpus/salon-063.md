@@ -24,7 +24,7 @@ speakers:
   - name: Michael Pierre Price
     country: null
     start: 2448
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: null
     start: 3357
   - name: Lee Day
@@ -159,7 +159,7 @@ Did you see this time okay yes yes thank you that was beautiful thanks for your 
 
 There's and I was looking through my work and I realized like oh my gosh yes.
 
-## Susan DeTroy [55:57](https://www.youtube.com/watch?v=j-nNutQp8wc&t=3357s)
+## Susan Detroy [55:57](https://www.youtube.com/watch?v=j-nNutQp8wc&t=3357s)
 
 I I use this so I'm going to attempt to screen share we'll see what happens.
 

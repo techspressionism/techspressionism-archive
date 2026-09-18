@@ -18,12 +18,6 @@ speakers:
   - name: Clive Holden
     country: Toronto, Canada
     start: 4025
-  - name: "COLLAB #1"
-    country: null
-    start: 5765
-  - name: "TECHSPRESSIONIST COLLAB#1"
-    country: null
-    start: 5765
 transcript_source: youtube-auto-captions
 languages: ["en"]
 flags:

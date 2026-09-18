@@ -24,7 +24,7 @@ speakers:
   - name: Roz Dimon
     country: Shelter Island NY USA
     start: 3187
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 3449
 transcript_source: zoom-transcript
@@ -421,7 +421,7 @@ And It's not me that's so happy. It's Ted Kavanaugh. I actually did it right whe
 
 And they have these funny titles like she says, so happy, plus I'm a blonde. Ted Cruz is like, oh, I just love myself, and only me. Giuliani is feeling the joy, and I think I'll finally end with my latest one of Mr. Trump himself. I can't call him President and this is called trump. Turkey gobbler and a there you go. All right. I'm gonna unshare. Thank you very much. Thank you. It's been a great session. Do, people? We can open up our mics and Hey? Yeah.
 
-## Susan DeTroy [57:26](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3446s)
+## Susan Detroy [57:26](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3446s)
 
 Hi, Susan! Here, I ha! I it's gonna be super hot here today. So I had to be outside doing some, getting some watering started before I could concentrate. But I would like to share one piece that I've done that, I think, is connected, and I've had trouble sharing recently from my ipad. So I'll try it if it doesn't work. I have the link to the video in Youtube. And and we'll try that. I shared this in my in the co-working group and here, I wanna get my video on so you can see me. I want to reinforce The. Positivity and Importance currently, in my work of the co-working Techspressionism group. It has, supported being. Part of that group has supported my work. I feel connected to people in ways that I didn't imagine.
 
@@ -437,7 +437,7 @@ Yes.
 
 Just wonderful.
 
-## Susan DeTroy [59:35](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3575s)
+## Susan Detroy [59:35](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3575s)
 
 Are you seeing capcut.
 
@@ -445,7 +445,7 @@ Are you seeing capcut.
 
 Yes.
 
-## Susan DeTroy [59:38](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3578s)
+## Susan Detroy [59:38](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3578s)
 
 Yay!
 
@@ -453,7 +453,7 @@ Yay!
 
 Good.
 
-## Susan DeTroy [59:41](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3581s)
+## Susan Detroy [59:41](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3581s)
 
 Going to go full screen and share this video. And hopefully, you'll hear the sound. Also, I push the button for sound. A. I don't know.
 
@@ -465,7 +465,7 @@ Not saying it.
 
 Yeah, we're not. We're not seeing. We're just seeing your screen tab cut with a lot of different images on it.
 
-## Susan DeTroy [01:00:08](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3608s)
+## Susan Detroy [01:00:08](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3608s)
 
 Okay, let's try it a different way. Let's try it from here. See if it do. You see, are you seeing this? Are you seeing the a film.
 
@@ -473,7 +473,7 @@ Okay, let's try it a different way. Let's try it from here. See if it do. You se
 
 No, we're still seeing the Cap. Cut it, says Cap, cut in the top left, and they're about 20 images, or more than that.
 
-## Susan DeTroy [01:00:31](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3631s)
+## Susan Detroy [01:00:31](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3631s)
 
 Okay. This is what happened. This is what was happening. I don't know why it in the zoom. It's not letting me do this alright. So I'm going to try going to The chat and opening it from the chat. Hold on! I'm gonna stop sharing.
 
@@ -485,7 +485,7 @@ Are you? Seeing that Youtube.
 
 I don't think you're sharing.
 
-## Susan DeTroy [01:01:23](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3683s)
+## Susan Detroy [01:01:23](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3683s)
 
 Okay, just a second. Yeah, yeah, I'm not sharing yet. Alright. So many buttons to push. Okay. I'm working at it.
 
@@ -493,7 +493,7 @@ Okay, just a second. Yeah, yeah, I'm not sharing yet. Alright. So many buttons t
 
 Understand. I put out all the lights and The Shangri-la Hotel in Singapore, like.
 
-## Susan DeTroy [01:01:39](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3699s)
+## Susan Detroy [01:01:39](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3699s)
 
 Start, broadcast, okay.
 
@@ -501,7 +501,7 @@ Start, broadcast, okay.
 
 Share.
 
-## Susan DeTroy [01:01:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3703s)
+## Susan Detroy [01:01:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3703s)
 
 Screen.
 
@@ -511,7 +511,7 @@ Okay, start brought. Okay. Says it's broadcasting. Alright. So now, do you see t
 
 Yeah.
 
-## Susan DeTroy [01:02:03](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3723s)
+## Susan Detroy [01:02:03](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3723s)
 
 Okay. You see the big screen.
 
@@ -519,7 +519,7 @@ Okay. You see the big screen.
 
 Do with a little text underneath it. But yeah, we see the start button, the play button.
 
-## Susan DeTroy [01:02:11](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3731s)
+## Susan Detroy [01:02:11](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3731s)
 
 Okey dokey! Good! Here we go. A. A Shoo!
 
@@ -531,7 +531,7 @@ We're not seeing it!
 
 No, we're hearing music, but the.
 
-## Susan DeTroy [01:02:34](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3754s)
+## Susan Detroy [01:02:34](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3754s)
 
 Damn it.
 
@@ -543,7 +543,7 @@ Like welcome somebody else.
 
 I have it up. I'm happy. If you stop sharing, I'll just jump in and share.
 
-## Susan DeTroy [01:02:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3763s)
+## Susan Detroy [01:02:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3763s)
 
 Okay.
 
@@ -551,7 +551,7 @@ Okay.
 
 You're great, I don't know. Thank you.
 
-## Susan DeTroy [01:02:45](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3765s)
+## Susan Detroy [01:02:45](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3765s)
 
 Why it, I'm pushing optimize for video, but it's Not doing it.
 
@@ -559,7 +559,7 @@ Why it, I'm pushing optimize for video, but it's Not doing it.
 
 It has to do, I think, with some of the permissions that we now have.
 
-## Susan DeTroy [01:02:58](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3778s)
+## Susan Detroy [01:02:58](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3778s)
 
 Okay, that makes.
 
@@ -567,7 +567,7 @@ Okay, that makes.
 
 Like this?
 
-## Susan DeTroy [01:03:00](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3780s)
+## Susan Detroy [01:03:00](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3780s)
 
 Nothing I need to do ahead of time.
 
@@ -575,7 +575,7 @@ Nothing I need to do ahead of time.
 
 When it's being recorded. Are people seeing this.
 
-## Susan DeTroy [01:03:06](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3786s)
+## Susan Detroy [01:03:06](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3786s)
 
 Oh, cause it's being recorded. Okay. A. Thank you.
 
@@ -597,7 +597,7 @@ A A A.
 
 Thank you.
 
-## Susan DeTroy [01:06:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3975s)
+## Susan Detroy [01:06:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3975s)
 
 You're welcome.
 
@@ -605,7 +605,7 @@ You're welcome.
 
 I'm glad you finally got it to work.
 
-## Susan DeTroy [01:06:19](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3979s)
+## Susan Detroy [01:06:19](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3979s)
 
 Yeah, thank you, Cynthia. Cynthia.
 
@@ -613,7 +613,7 @@ Yeah, thank you, Cynthia. Cynthia.
 
 I just done that quite a few times, jumped in. And that cooperation in this group is is something I love. Yeah. Alrighty.
 
-## Susan DeTroy [01:06:32](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3992s)
+## Susan Detroy [01:06:32](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3992s)
 
 Yeah, thanks. I I have to. I'm I'm assuming I need to go into my settings, my zoom settings in some Pre online in some way to Make it. So I can share when the video is being recorded. So Anyway, thanks everybody, yeah. It was. It's a piece that is still speaking to me. I'm I have not entirely verbalized what it's about entirely. But it does have influences about What's happening in our political, in our country and Some inner twining of the Environmental crisis. We are living As well as the political crisis. Thank you.
 
@@ -737,7 +737,7 @@ Good.
 
 Is anybody else have a comment, for I might just say a few words and then pass it over to Colin.
 
-## Susan DeTroy [01:16:31](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4591s)
+## Susan Detroy [01:16:31](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4591s)
 
 I have questions.
 

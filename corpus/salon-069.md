@@ -21,7 +21,7 @@ speakers:
   - name: Sahar Moussavi
     country: Tehran, Iran
     start: 918
-  - name: Deann Stein Hassinoff
+  - name: Deann Stein Hasinoff
     country: Edmonton, Canada
     start: 1364
   - name: Cynthia DiDonato
@@ -114,7 +114,7 @@ Is it connected yes yeah it's getting there. Okay. So.
 
 Do you see my screen yeah it still looks like we're.
 
-On this [&nbsp;__&nbsp;] an initial screen here but I we're seeing something. Okay it start okay we're starting to get there okay okay now we are. Okay so I'm sad I'm sorry I'm zooming from Iran and I want to present some of my. Black and white pieces tonight. So I will start with some of my hand drawing black and white I know it's not it takes expressions and but I just wanted to include them because I like them and I used to draw these drawings with a black pen and it was meditative and it helped me to focus so I will go to my. Photos. I usually take car light photos at night and I. Try to find some shapes and objects in these photos by. Moving my camera or just taking the photos while the car I'm driving or the car is moving and. And I found that when I convert these photos to black and white. It changes to a new material. So I use this new material in my pieces as the main element or as part of a collage for example this is actually an original photo that I just added a layer in. Photoshop and then I use the same photo for the next piece. In black and white. So I use this material in different ways after a while I started discovering that. Discovering with that different ways to change the lights I was really into these slides and I wanted to discover new objects and shapes so I used glitchlab Android and the result was interesting for me because now I had a 3D object which was totally different from the original 2D photo. Maybe I can zoom and you can see that the light has changed to a 3D object.
+On this [ __ ] an initial screen here but I we're seeing something. Okay it start okay we're starting to get there okay okay now we are. Okay so I'm sad I'm sorry I'm zooming from Iran and I want to present some of my. Black and white pieces tonight. So I will start with some of my hand drawing black and white I know it's not it takes expressions and but I just wanted to include them because I like them and I used to draw these drawings with a black pen and it was meditative and it helped me to focus so I will go to my. Photos. I usually take car light photos at night and I. Try to find some shapes and objects in these photos by. Moving my camera or just taking the photos while the car I'm driving or the car is moving and. And I found that when I convert these photos to black and white. It changes to a new material. So I use this new material in my pieces as the main element or as part of a collage for example this is actually an original photo that I just added a layer in. Photoshop and then I use the same photo for the next piece. In black and white. So I use this material in different ways after a while I started discovering that. Discovering with that different ways to change the lights I was really into these slides and I wanted to discover new objects and shapes so I used glitchlab Android and the result was interesting for me because now I had a 3D object which was totally different from the original 2D photo. Maybe I can zoom and you can see that the light has changed to a 3D object.
 
 And what was fascinating that is a new 3D image is very stronger than the colored versions. It seems classic and powerful and it suddenly changes the whole atmosphere. It really doesn't the colored version doesn't have this powerful effect.
 
@@ -126,9 +126,9 @@ These are also another lodges using 3D renders and other objects and glitch phot
 
 Actually but so thank you so much this was my presentation thank you for hearing and I will stop. Sharing.
 
-[&nbsp;__&nbsp;] I'll have I have a few questions I'll ask you a little later on about your setup for doing that okay okay.
+[ __ ] I'll have I have a few questions I'll ask you a little later on about your setup for doing that okay okay.
 
-## Deann Stein Hassinoff [22:44](https://www.youtube.com/watch?v=90wRPqAgA98&t=1364s)
+## Deann Stein Hasinoff [22:44](https://www.youtube.com/watch?v=90wRPqAgA98&t=1364s)
 
 All right next up we have Deanne Deanna I haven't seen you in a while it's good to see you today and looking forward to seeing your images yeah you know the. The life schedule often interrupts my ability to participate but I'm glad this I think might be the last week I can be here for a while but I'm glad to be able to be here. See if I can get this. That's going it's been a while.
 

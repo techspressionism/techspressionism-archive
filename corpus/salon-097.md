@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=w6dn7xxG6ds"
 duration_seconds: 5587
 moderator: null
 speakers:
-  - name: Anton Dubrovin
+  - name: Anton Dubrovin (MCHX)
     country: Moscow, Russia
     start: 148
   - name: Allen Hirsh
@@ -21,9 +21,6 @@ speakers:
   - name: Chris Bly
     country: Portland, OR, USA
     start: 2756
-  - name: Anton Dubrovin (MCHX)
-    country: Moscow, Russia
-    start: 148
 transcript_source: zoom-transcript
 languages: ["en"]
 flags:
@@ -38,7 +35,7 @@ So Basically, I'm not gonna give a whole long winded explanation about creative 
 
 So the featured artists for today's salon are Anton Dubrovin, who is from Kazakhstan, zooming in from Moscow, Russia. Right now we have Allen Hirsh who's from Chevy Chase, Maryland, here in the States, Elio Ramos-Colón Colon, who's from Garab, Puerto Rico, and Chris Bly from Portland, Oregon. So without further ado, that's the the lineup in that order. Each artist is going to have about 15 min or so to present. Share your work through screen share, and I will start a timer for each artist, and then around 2 min before it ends. I'll just give you a heads up. So, Anton, you want to take it away.
 
-## Anton Dubrovin [02:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=150s)
+## Anton Dubrovin (MCHX) [02:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=150s)
 
 Yeah, Hi, everyone so nice to see you. Yeah. And I'm excited to start. So yeah. We'll go. I will have a to share a screen now. And oh, okay. So I would like to start with a little introduction how I started with art and and my journey. So I was always fascinated with abstract art, and especially Movements like color, field, and obstructive expressionism. And you see, the artworks of the artist that I was really moved and inspired with. So it's really like, moved me deeply, especially the focus on Theory, scholar transcendence, spirituality, and how they impact How the works back the viewer emotionally and physically. So this is where I felt that I want to start creating my works.
 
@@ -64,7 +61,7 @@ My approach should be something that you can live with. Let it like play, and wh
 
 Alright. Thank you, Anton. Do you want to? Stop your share.
 
-## Anton Dubrovin [13:25](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=805s)
+## Anton Dubrovin (MCHX) [13:25](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=805s)
 
 Because
 
@@ -178,7 +175,7 @@ I cannot move my transparencies.
 
 Sorry I'm having some problems. I don't know why why I cannot move my transparencies. You can hear you now.
 
-## Anton Dubrovin [34:40](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2080s)
+## Anton Dubrovin (MCHX) [34:40](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2080s)
 
 Yes.
 
@@ -468,7 +465,7 @@ I was just wondering, whether anyone had considered using open frameworks or whe
 
 Anybody.
 
-## Anton Dubrovin [01:22:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4950s)
+## Anton Dubrovin (MCHX) [01:22:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4950s)
 
 I, personally don't use open frameworks. But it's just because I'm I like I like doing everything myself.
 
@@ -476,7 +473,7 @@ I, personally don't use open frameworks. But it's just because I'm I like I like
 
 In progress right.
 
-## Anton Dubrovin [01:22:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4966s)
+## Anton Dubrovin (MCHX) [01:22:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4966s)
 
 And but I feel like it's it's not something that you cannot do. I think it's really cool, and a lot of artists do use. And this kind of work frameworks. And Yeah, but for me, I'm just I really like being knowing what I what I do, what I can do with, and all only rely only on my own knowledge. And and yeah, this is why I approach.
 
@@ -488,7 +485,7 @@ I'll put it in more explicit terms. I'm too self-centered to do that. Like Anton
 
 Alright!
 
-## Anton Dubrovin [01:23:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5026s)
+## Anton Dubrovin (MCHX) [01:23:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5026s)
 
 Yeah.
 
@@ -522,7 +519,7 @@ For me. It it. The the complexity of the math means that, you know initially I d
 
 You know, really tight manual control.
 
-## Anton Dubrovin [01:27:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5267s)
+## Anton Dubrovin (MCHX) [01:27:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5267s)
 
 Any of the other artists.
 
@@ -530,7 +527,7 @@ Any of the other artists.
 
 Speak to you.
 
-## Anton Dubrovin [01:27:50](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5270s)
+## Anton Dubrovin (MCHX) [01:27:50](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5270s)
 
 Yeah, yeah. It's a great question. And I've I've seen a lot of Actually artist in Web 3 are also discussing it. And and talk about like generative art and gold art. But I personally feel like it's impossible to eliminate the hand of artist from the artwork. Even like all the iron in this moment, we we still see the The personal style and approach of the artist. And yeah, so even if it's really minimalistic or conceptual work. It still has this kind of aura. And Like.
 
@@ -540,7 +537,7 @@ I don't know this story of the artist. It's it goes within the artwork. So. But 
 
 Yeah. I wanted to. I wanted to. I'm having some problems. I have it. Some product. Yeah, let's see, like. Turn off. Okay. I want to comment on that. That. Okay, let me stop here. Okay, yeah. I want. I wanted to say, okay again.
 
-## Anton Dubrovin [01:29:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5384s)
+## Anton Dubrovin (MCHX) [01:29:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5384s)
 
 Yeah. Go on.
 

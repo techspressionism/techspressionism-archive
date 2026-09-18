@@ -18,6 +18,9 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 1077
+  - name: Susan Detroy
+    country: null
+    start: 1515
   - name: Roz Dimon
     country: null
     start: 2160
@@ -30,15 +33,12 @@ speakers:
   - name: Lee Day
     country: null
     start: 3590
-  - name: Verneda Lights (Narrative)
+  - name: Verneda Lights
     country: null
     start: 3884
   - name: Davonte Bradley
     country: null
     start: 4728
-  - name: Susan DeTroy
-    country: null
-    start: 1515
 transcript_source: youtube-auto-captions
 languages: ["en"]
 flags:
@@ -109,7 +109,7 @@ Loved to use Flash in the early 2000s oh my gosh late 90s early 2000s flash was 
 
 All right okay I think next up we.
 
-## Susan DeTroy [25:15](https://www.youtube.com/watch?v=Q_5yvTBIL5M&t=1515s)
+## Susan Detroy [25:15](https://www.youtube.com/watch?v=Q_5yvTBIL5M&t=1515s)
 
 Have.
 
@@ -219,7 +219,7 @@ Residency he didn't get out.
 
 He just did not done a piece with planes flying through his body.
 
-## Verneda Lights (Narrative) [01:04:44](https://www.youtube.com/watch?v=Q_5yvTBIL5M&t=3884s)
+## Verneda Lights [01:04:44](https://www.youtube.com/watch?v=Q_5yvTBIL5M&t=3884s)
 
 I had nightmares as a child and. One of the major nightmares that I had recurrent nightmare. Started when I was about three years old and it would be where. I'd see these Billows of clouds and Smoke and Ashes and people running and screaming and hollering and. Knowing that death and destruction were. Obvious. And I remember my mom because I grew up in a military family my father this is a portrait there was a Marine and my mom would say that the Americans were so blessed because we had never had Modern Warfare on American soil. But I knew from the nightmares that I had even had as a toddler and all throughout grade school Etc that this was a war on American soil. And I I knew inside me that that was going to happen in my lifetime and. I gave it a name I called it the world chaos dream. And continued throughout. Undergraduate school Medical School Medical Practice every couple of weeks I would have the world chaos dream and then when I closed my practice in 1999. You know I was at a Crossroads and I didn't really know what direction I was going to take after walking away from a medical practice. And. I took that opportunity to spend some time with family and whatnot and I visited my parents and. Who were greatly greatly greatly upset that I did determined I was going to do something else and I didn't know what that something else was and. So I went to spend some time with my brother in Philadelphia. And I got on a plane on the last flight out of Savannah on September 10th 2001.. So I was in the air you know. As midnight crossed over into September 11th and. When we flew over a part of Pennsylvania we lost altitude very quickly and people started screaming and whatnot but then the plane levels off and everything was fine but that it gave me a fear that I was not familiar with when that happened and then when I got to my brother's place you know. Slept well that night and I woke up the next morning I said well I gotta call my mom let her know that I'm all right and I called my mother my mother said did you hear about the terrible thing that happened in New York and I said no what happened and she said well why don't you just you know turn on the TV and watch the news and then call me back. And. I did as she instructed and I turned on the news and there was the world chaos stream. Looking right at me you know as people terrified when we covered with dust you know they look like they belong more in Pompeii than in New York City and when I saw that I said okay you know there's a reason why I've been having this dream. This is I took it as a sign and my sign was that no more medicine you know no more going back to that well ball and chain sort of existence anymore but I had to forge A New Path and. I was so agitated by what I saw that I didn't really know what to do and I tried to write about it. And because that's what I knew I knew about portrait I could write a poem but the Poetry wasn't happening to express what I felt. And then I stumbled upon paint a little rainy day program in the Microsoft you know puts into the PCS I ran into paint and. So felt how soothing the colors were and I would just play with the colors and calm myself and then that moved into using forms and shapes and whatnot and. From that experience I created my first series of digital artworks and I called it Beauty for Ashes a 911 art Memorial. And for the pieces. Out of the 12 were finalists in the 2003 Boston cyber Arts Festival. And that was when I knew that I had I had found my past but in 9 11 was my signal to Pivot. From Medical Arts into Visual Arts and I didn't want to discuss it tonight that's why I chose to be quiet. But lo and behold it found me anyway. You know so thank you thank you for. Sharing that and remembrances to George fifeld who passed on a couple weeks ago. Who ran Boston side Grenada that was such a premonition you know you obviously I the story is very compelling and I sometimes we know we have a premonition sometimes we just know there's this recurring thing going on so the threat was really quite quite a journey thank you for sharing that and I just had to comment Lee. I my heart was breaking through that whole series of photographs and I thank you for sharing I there I have a few connections to that disaster and a lot of universal ones like we all do but I hope that I hope that you're sharing helped a little bit with your own experience of I I don't know how you find closure with this kind of thing you know but helps in your own healing process because it was very potent and. Thank you yeah thank you thank you.
 

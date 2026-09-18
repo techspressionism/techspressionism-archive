@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=b8yrqPIj934"
 duration_seconds: 7396
 moderator: null
 speakers:
-  - name: LILY KOSTRZEWA
+  - name: Lily Kostrzewa
     country: NYC NY USA
     start: 84
 transcript_source: youtube-auto-captions
@@ -19,7 +19,7 @@ flags:
   - speaker_index_partially_unparseable
 ---
 
-## LILY KOSTRZEWA [01:24](https://www.youtube.com/watch?v=b8yrqPIj934&t=84s)
+## Lily Kostrzewa [01:24](https://www.youtube.com/watch?v=b8yrqPIj934&t=84s)
 
 Yo lily.
 

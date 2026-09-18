@@ -26,6 +26,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from lib_corrections import apply_vocabulary, correct_text
+from lib_speakers import canonical_name, finalize_speakers
 
 ROOT = Path(__file__).resolve().parent.parent
 SESSIONS_PATH = ROOT / "data" / "sessions.json"
@@ -252,6 +253,8 @@ def build_body(session, segments):
 # nouns, so there's no risk of clobbering a genuine capitalized word.
 ZOOM_PARAGRAPH_MIN_CHARS = 450
 
+TITLES = json.loads((ROOT / "data" / "titles.json").read_text())["titles"]
+
 CONTINUATION_LOWERCASE_WORDS = {
     "he", "she", "it", "they", "we", "you", "and", "but", "so", "then",
     "there", "here", "that", "this", "who", "which", "because", "if",
@@ -266,6 +269,41 @@ def fix_continuation_capitalization(text):
     word = (m.group(1) + m.group(2)).lower()
     if word in CONTINUATION_LOWERCASE_WORDS:
         return m.group(1).lower() + text[1:]
+    return text
+
+
+DECADE_DIGITS = {
+    "twenties": "20", "thirties": "30", "forties": "40", "fifties": "50",
+    "sixties": "60", "seventies": "70", "eighties": "80", "nineties": "90",
+}
+_DECADE_WORDS = "|".join(DECADE_DIGITS)
+
+
+def fix_spoken_decades(text):
+    """ASR renders "nineteen sixties" as "19 sixties". Unlike a bare year,
+    this shape has exactly one meaning, so a general rule is safe. A second
+    decade directly joined to the first is shortened ("1960s and 70s")."""
+    text = re.sub(rf"\b19 ({_DECADE_WORDS})\b", lambda m: f"19{DECADE_DIGITS[m.group(1).lower()]}s", text, flags=re.I)
+    text = re.sub(r"\b19 hundreds\b", "1900s", text, flags=re.I)
+    # "1960s and seventies" / "1960s and 1970s" -> "1960s and 70s"
+    text = re.sub(
+        rf"\b(19\d0s)( and | or | to | through )(?:19(\d0)s|({_DECADE_WORDS}))\b",
+        lambda m: f"{m.group(1)}{m.group(2)}{m.group(3) or DECADE_DIGITS[m.group(4).lower()]}s",
+        text, flags=re.I)
+    return text
+
+
+TITLES_PATH = ROOT / "data" / "titles.json"
+TITLE_HITS = {}
+
+
+def italicize_titles(text):
+    """Wrap hand-verified book titles in _underscores_ (Stage 6 renders them
+    as italics). Exact-phrase matching only -- guessing where a title ends
+    from context alone is how false italics creep in."""
+    for entry in TITLES:
+        text, n = re.subn(re.escape(entry["find"]), lambda m, r=entry["replace"]: r, text, flags=re.I)
+        TITLE_HITS[entry["find"]] = TITLE_HITS.get(entry["find"], 0) + n
     return text
 
 
@@ -362,6 +400,16 @@ def process_session(session, artists, vocab_terms, review_rows):
         print(f"Salon {session['number']}: no usable transcript source ({source}), skipping corpus build")
         return None
 
+    # canonical names are applied only to what gets published -- the raw
+    # speaker labels above still drive segmentation and Zoom-label matching
+    for seg in segments:
+        seg["text"] = italicize_titles(fix_spoken_decades(seg["text"].replace("&nbsp;", " ")))
+        if seg["speaker"]:
+            seg["speaker"] = canonical_name(seg["speaker"])
+    session = {**session, "speakers": finalize_speakers(session.get("speakers", []))}
+    if session.get("moderator"):
+        session["moderator"] = canonical_name(session["moderator"])
+
     frontmatter = build_frontmatter(session, segments)
     body = build_body(session, segments)
     md = f"{frontmatter}\n\n{body}\n"
@@ -369,7 +417,7 @@ def process_session(session, artists, vocab_terms, review_rows):
     CORPUS_DIR.mkdir(parents=True, exist_ok=True)
     out_path = CORPUS_DIR / f"salon-{int(session['number']):03d}.md"
     out_path.write_text(md)
-    return out_path, segments
+    return out_path, segments, session
 
 
 def main():
@@ -390,7 +438,7 @@ def main():
             continue
         result = process_session(session, artists, vocab_terms, review_rows)
         if result:
-            out_path, segments = result
+            out_path, segments, session = result
             print(f"Salon {session['number']}: {len(segments)} segments -> {out_path}")
             corpus_json.append({**{k: session[k] for k in [
                 "type", "number", "session_title", "date_recorded", "date_published",
@@ -408,6 +456,12 @@ def main():
                 "languages": ["en"],
                 "segments": segments,
             })
+
+    if numbers is None:
+        unmatched = [k for k, n in TITLE_HITS.items() if n == 0]
+        print(f"Book titles italicized: {sum(TITLE_HITS.values())} across {len(TITLE_HITS) - len(unmatched)}/{len(TITLE_HITS)} entries")
+        for k in unmatched:
+            print(f"  WARNING: titles.json entry matched nothing: {k!r}")
 
     corpus_json_path = CORPUS_DIR / "corpus.json"
     existing = []

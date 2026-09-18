@@ -1,0 +1,155 @@
+{
+  "_comment": "Hand-verified book titles to italicize. 'find' is matched case-insensitively against the finished text; 'replace' wraps the title in _underscores_ (rendered as italics on the site). Add entries as titles turn up; Stage 5 warns when one stops matching.",
+  "titles": [
+    {
+      "find": "called the computer and the visual arts",
+      "replace": "called _The Computer in the Visual Arts_",
+      "notes": "Salons 9-10: Anne Spalter's book; ASR 'and' for 'in' (Salon 11 has it right)."
+    },
+    {
+      "find": "called the computer in the visual arts",
+      "replace": "called _The Computer in the Visual Arts_",
+      "notes": ""
+    },
+    {
+      "find": "book called power knowledge",
+      "replace": "book called _Power/Knowledge_",
+      "notes": "Salon 11: Foucault."
+    },
+    {
+      "find": "book called golden escherbach",
+      "replace": "book called _Gödel, Escher, Bach_",
+      "notes": "Salon 18: Hofstadter; ASR."
+    },
+    {
+      "find": "which is called digital fictions the future of storytelling",
+      "replace": "which is called _Digital Fictions: The Future of Storytelling_",
+      "notes": "Salon 18."
+    },
+    {
+      "find": "book called the book of ice",
+      "replace": "book called _The Book of Ice_",
+      "notes": "Salon 18."
+    },
+    {
+      "find": "book called flatlands by edwin abbott",
+      "replace": "book called _Flatland_ by Edwin Abbott",
+      "notes": "Salon 18."
+    },
+    {
+      "find": "book called flatlands and amusingly enough if you haven't read flatlands",
+      "replace": "book called _Flatland_ and amusingly enough if you haven't read _Flatland_",
+      "notes": "Salon 52."
+    },
+    {
+      "find": "book called art in theory from 1900 to 2000",
+      "replace": "book called _Art in Theory 1900 to 2000_",
+      "notes": "Salon 19."
+    },
+    {
+      "find": "book called expanded cinema",
+      "replace": "book called _Expanded Cinema_",
+      "notes": "Salon 20."
+    },
+    {
+      "find": "called fear of a black universe an outsider's guide. To the future of physics",
+      "replace": "called _Fear of a Black Universe: An Outsider's Guide to the Future of Physics_",
+      "notes": "Salon 20."
+    },
+    {
+      "find": "book called the midnight library",
+      "replace": "book called _The Midnight Library_",
+      "notes": "Salon 26."
+    },
+    {
+      "find": "book called mastery",
+      "replace": "book called _Mastery_",
+      "notes": "Salon 27."
+    },
+    {
+      "find": "book of short poems called generational",
+      "replace": "book of short poems called _Generational_",
+      "notes": "Salon 29."
+    },
+    {
+      "find": "surfing the cosmos",
+      "replace": "_Surfing the Cosmos_",
+      "notes": "Salons 38, 52, 77. The website 'surfingthecosmos.Com' has no spaces and is untouched."
+    },
+    {
+      "find": "book called art communication",
+      "replace": "book called _Art Communication_",
+      "notes": "Salon 47."
+    },
+    {
+      "find": "book called einstein picasso",
+      "replace": "book called _Einstein, Picasso_",
+      "notes": "Salon 52."
+    },
+    {
+      "find": "essays called society of the spectacle",
+      "replace": "essays called _The Society of the Spectacle_",
+      "notes": "Salon 52: Debord."
+    },
+    {
+      "find": "book called the art of noise",
+      "replace": "book called _The Art of Noise_",
+      "notes": "Salon 52."
+    },
+    {
+      "find": "book called from a to b and back again the philosophy of andy warhol",
+      "replace": "book called _From A to B and Back Again: The Philosophy of Andy Warhol_",
+      "notes": "Salon 52."
+    },
+    {
+      "find": "book which is called architecture of subterranean species",
+      "replace": "book which is called _Architecture of Subterranean Species_",
+      "notes": "Salon 71."
+    },
+    {
+      "find": "book that I called Dark",
+      "replace": "book that I called _Dark_",
+      "notes": "Salon 71."
+    },
+    {
+      "find": "book is entitled After the flood",
+      "replace": "book is entitled _After the Flood_",
+      "notes": "Salon 72."
+    },
+    {
+      "find": "book called Money Value Art",
+      "replace": "book called _Money Value Art_",
+      "notes": "Salon 77."
+    },
+    {
+      "find": "called The Gift",
+      "replace": "called _The Gift_",
+      "notes": "Salon 80: Lewis Hyde."
+    },
+    {
+      "find": "book I recently published called Metagraphs",
+      "replace": "book I recently published called _Metagraphs_",
+      "notes": "Salon 87 only: elsewhere (Salons 12, 64, 84) Metagraphs is an artwork series, not a book."
+    },
+    {
+      "find": "book called Discipline and Punishment",
+      "replace": "book called _Discipline and Punishment_",
+      "notes": "Salon 90: Colin's report. Foucault's published title is 'Discipline and Punish'; transcript wording kept."
+    },
+    {
+      "find": "called The Archaeology of Knowledge",
+      "replace": "called _The Archaeology of Knowledge_",
+      "notes": "Salon 90."
+    },
+    {
+      "find": "the Mirror Production,",
+      "replace": "_The Mirror Production_,",
+      "notes": "Salon 90. Published title is 'The Mirror of Production'."
+    },
+    {
+      "find": "called The Computer in the Art Room",
+      "replace": "called _The Computer in the Art Room_",
+      "notes": "Salon 104."
+    }
+  ]
+}

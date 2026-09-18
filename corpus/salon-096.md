@@ -9,24 +9,18 @@ url: "https://www.youtube.com/watch?v=VaKW4Gnh9eE"
 duration_seconds: 5396
 moderator: Renata Janiszewska
 speakers:
-  - name: Galina Schevchenko
-    country: null
+  - name: Galina Shevchenko
+    country: Chicago IL USA
     start: 147
   - name: Michael Pierre Price
     country: Phoenix AZ USA
     start: 1028
-  - name: Adios from Everywhere
-    country: Brooklyn NYC USA
-    start: 1642
   - name: Erin Ko
     country: NYC NY USA
     start: 2014
   - name: eegun
     country: Istanbul, Turkey
     start: 3034
-  - name: Galina Shevchenko
-    country: Chicago IL USA
-    start: 147
 transcript_source: zoom-transcript
 languages: ["en"]
 ---

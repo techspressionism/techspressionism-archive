@@ -7,7 +7,7 @@ date_published: 2022-06-23
 video_id: xo2ql3MgJlw
 url: "https://www.youtube.com/watch?v=xo2ql3MgJlw"
 duration_seconds: 5350
-moderator: PATRICK LICHTY
+moderator: Patrick Lichty
 speakers:
 transcript_source: youtube-auto-captions
 languages: ["en"]

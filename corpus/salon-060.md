@@ -12,7 +12,7 @@ speakers:
   - name: Jaime Bautista
     country: null
     start: 1184
-  - name: Lucy Boyd Wilson
+  - name: Lucy Boyd-Wilson
     country: null
     start: 1737
 transcript_source: youtube-auto-captions
@@ -51,7 +51,7 @@ Thank you Roz and yeah you know this is definitely a pretty open session as far 
 
 I thought I'd share a little bit about social VR platforms. As in Social virtual reality that's one of one of the mediums that I create in and with and for and in. 2021 I participated in the year-long challenge of creating a new piece each each week with a with a group called VR art live so all of us were creating in or with virtual reality and one of the things that we did was we'd get together in virtual reality. Spaces and hang out hang out or visit each other's artwork. On various social media platforms and I'm social VR platforms. The main one that we used was called VR chat also we use sometimes old space or Mozilla hubs those are the main ones in particular VR chat so I'm gonna share my share my screen.
 
-## Lucy Boyd Wilson [28:57](https://www.youtube.com/watch?v=Iu25Pv7EqK0&t=1737s)
+## Lucy Boyd-Wilson [28:57](https://www.youtube.com/watch?v=Iu25Pv7EqK0&t=1737s)
 
 So okay I was I was looking at absolutely the last guy's Instagram sorry I don't remember your name. Okay. All right yes highway right. Okay so what what do we look like in virtual reality well first of all we're all wearing our headsets in our own living rooms and and bedrooms and whatever. But then we get together in these spaces. And this was. Just a space one one place that we would gather and these are my two friends Willow Moon and chroma snack those are their VR names and.
 
