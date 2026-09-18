@@ -25,7 +25,7 @@ import sys
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from lib_corrections import correct_text
+from lib_corrections import apply_vocabulary, correct_text
 
 ROOT = Path(__file__).resolve().parent.parent
 SESSIONS_PATH = ROOT / "data" / "sessions.json"
@@ -244,6 +244,31 @@ def build_body(session, segments):
     return "\n\n".join(parts)
 
 
+# Words Zoom capitalizes as a matter of course at the start of every cue,
+# regardless of whether that cue actually starts a new sentence. Safe to
+# lowercase only when we've decided the cue is a plain-space continuation
+# of the previous one (no gap-based punctuation inserted) -- a small,
+# closed set of pronouns/conjunctions that are never themselves proper
+# nouns, so there's no risk of clobbering a genuine capitalized word.
+ZOOM_PARAGRAPH_MIN_CHARS = 450
+
+CONTINUATION_LOWERCASE_WORDS = {
+    "he", "she", "it", "they", "we", "you", "and", "but", "so", "then",
+    "there", "here", "that", "this", "who", "which", "because", "if",
+    "when", "while",
+}
+
+
+def fix_continuation_capitalization(text):
+    m = re.match(r"([A-Z])([a-z']*)\b", text)
+    if not m:
+        return text
+    word = (m.group(1) + m.group(2)).lower()
+    if word in CONTINUATION_LOWERCASE_WORDS:
+        return m.group(1).lower() + text[1:]
+    return text
+
+
 def segments_from_zoom(session, artists, vocab_terms):
     path = CORRECTED_DIR / f"salon-{int(session['number']):03d}.json"
     with open(path) as f:
@@ -255,13 +280,39 @@ def segments_from_zoom(session, artists, vocab_terms):
         speaker = normalize_speaker_name(cue["speaker"], session.get("speakers", []), artists) if cue["speaker"] else None
         text = capitalize_known_terms(cue["text"], known_terms)
         if segments and segments[-1]["speaker"] == speaker:
-            # Zoom's own cue boundaries already mark natural pauses within one
-            # speaker's turn -- keep them as paragraph breaks instead of
-            # flattening the whole turn into one run-on block
-            segments[-1]["text"] += "\n\n" + text
+            # Zoom's cue boundaries are its own internal processing chunks,
+            # NOT reliable pause/paragraph markers -- consecutive cues are
+            # sometimes 0.1s apart, cut off mid-sentence with no terminal
+            # punctuation. Only insert a period/paragraph break where the
+            # actual gap suggests a real pause (same two thresholds as the
+            # YouTube pause-based path); a near-zero gap just continues the
+            # sentence exactly as-is, even if the cue text alone looks
+            # unpunctuated -- inventing a period there is worse than leaving
+            # one out.
+            gap = cue["start"] - segments[-1]["end"]
+            prev = segments[-1]["text"]
+            needs_period = not prev.rstrip().endswith((".", "!", "?"))
+            paragraph_len = len(prev) - (prev.rfind("\n\n") + 2 if "\n\n" in prev else 0)
+            if gap >= PARAGRAPH_PAUSE_SECONDS:
+                joiner = (".\n\n" if needs_period else "\n\n")
+            elif gap >= SENTENCE_PAUSE_SECONDS:
+                joiner = (". " if needs_period else " ")
+            elif not needs_period and paragraph_len >= ZOOM_PARAGRAPH_MIN_CHARS:
+                # Zoom cues are near-contiguous, so pauses never trigger a
+                # break in a fluent monologue; fall back to length, but only
+                # at a real sentence end so we never split mid-sentence.
+                joiner = "\n\n"
+            else:
+                joiner = " "
+                if needs_period:
+                    text = fix_continuation_capitalization(text)
+            segments[-1]["text"] += joiner + text
             segments[-1]["end"] = cue["end"]
         else:
             segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": text})
+
+    for seg in segments:
+        seg["text"], _ = apply_vocabulary(seg["text"], vocab_terms)
     return segments
 
 

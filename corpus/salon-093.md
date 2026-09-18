@@ -18,59 +18,19 @@ flags:
 
 ## Michael Pierre Price [00:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2s)
 
-Welcome. This is Techspressionism. 93. It is April 3, rd 2,025.
-
-We have a special presentation today. It's a hybrid salon where we are combining our international online audience with a live audience from the Cape Cod Museum of Art. Just 1 1 bit of piece of information here. After the presentations, we will have a Q. And a session.
-
-The way that we will order the Q. And A is that the live audience will do their questions to our presenters first, st and then we will do the Q. And a session for our online audience to ask the presenters who are at the at the Museum. So with that, I am going to
-
-Throw the microphone over to Benton Jones, who is the Director of Art at the Cape Cod Museum of Art. Benton. Welcome
+Welcome. This is Techspressionism. 93. It is April 3, rd 2,025. We have a special presentation today. It's a hybrid salon where we are combining our international online audience with a live audience from the Cape Cod Museum of Art. Just 1 1 bit of piece of information here. After the presentations, we will have a Q. And a session. The way that we will order the Q. And A is that the live audience will do their questions to our presenters first, st and then we will do the Q. And a session for our online audience to ask the presenters who are at the at the Museum. So with that, I am going to Throw the microphone over to Benton Jones, who is the Director of Art at the Cape Cod Museum of Art. Benton. Welcome
 
 ## Cape Cod Museum of Art [01:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=62s)
 
-Great. Thank you very much, Michael, and I'm very happy to be part of this groundbreaking event here at the Museum live from Cape cod.
+Great. Thank you very much, Michael, and I'm very happy to be part of this groundbreaking event here at the Museum live from Cape cod. I'm Ben Jones. I'm the director of art, and I'm enthusiastic to be able to host this hybrid in-person and online 93rd expressionist salon in our Delessandro auditorium. Our museum encompasses 7 gallery spaces with rotating exhibitions here, and outdoor sculpture garden on our 22 acre center for the arts campus. Like the Techspressionists. We, too, were founded by artists, founder and ceramicist. Harry Hall recognized that the artwork being created in our region was being exported in mass to galleries and museums worldwide, and Cape Cod needed a place where artwork, relevant to the region could be collected, preserved, and celebrated now and for generations to come.
 
-I'm Ben Jones. I'm the director of art, and I'm enthusiastic to be able to host this hybrid in-person and online 93rd expressionist salon in our Delessandro auditorium. Our museum encompasses 7 gallery spaces with rotating exhibitions here, and outdoor sculpture garden on our 22 acre center for the arts campus.
+We were established in 1981 for that purpose. As the textrectionists are acutely aware, the mediums that artwork can manifest is rapidly changing and evolving, and like libraries. We, too, must reinvent ourselves to maintain relevance. In 2022 we had our 1st exhibition dedicated To digitally created artworks in an exhibition titled Pixels. This is when I was 1st introduced to the Techspressionist community of artists.
 
-Like the Techspressionists. We, too, were founded by artists, founder and ceramicist. Harry Hall recognized that the artwork being created in our region was being exported in mass to galleries and museums worldwide, and Cape Cod needed a place where artwork, relevant to the region could be collected, preserved, and celebrated now and for generations to come.
+And and that was through one of your members, Karen LaFleur and Karen proposed an exhibition of her own work. Moving image artwork. In a collaborative exhibition generated between Cape Cod based Karen, Lafleur, and Canadian-based Renada Yanaszewska, Titled Mariniana. The interrupted wave which took place from November 21, st 2024 to February 9, th 2025. Right here in our 90 seat Auditorium. It received recognition from Artscope Magazine. I actually have a copy here, got front page recognition and a 6 page article By Lee Roscoe, who's here with us today also.
 
-We were established in 1981 for that purpose.
+So thank you for that recognition. And we're fortunate to have Karen and Renata with us in person here today. In fact, Renata flew in just yesterday from Lions head. Canada Jana Shefska, Sorry is a new media artist. Her video works, feature, animation, loops, digital paintings and music. She composes herself Using custom brushes. She expresses themes of biodegeneration, altered perception and feminism. Karen LaFleur moving image artwork explores the interplay between interior and exterior worlds with a focus on adaptability. She reveals vulnerabilities and complex relationships and highlights, resiliencies in her ever shifting landscapes.
 
-As the textrectionists are acutely aware, the mediums that artwork can manifest is rapidly changing and evolving, and like libraries.
-
-We, too, must reinvent ourselves to maintain relevance. In 2022 we had our 1st exhibition dedicated
-
-To digitally created artworks in an exhibition titled Pixels. This is when I was 1st introduced to the Techspressionist community of artists.
-
-And and that was through one of your members, Karen LaFleur and Karen proposed an exhibition of her own work. Moving image artwork. In a collaborative exhibition generated between Cape Cod based Karen, Lafleur, and Canadian-based Renada Yanaszewska, Titled Mariniana.
-
-The interrupted wave which took place from November 21, st 2024 to February 9, th 2025. Right here in our 90 seat Auditorium. It received recognition from Artscope Magazine.
-
-I actually have a copy here, got front page recognition and a 6 page article
-
-By Lee Roscoe, who's here with us today also.
-
-So thank you for that recognition.
-
-And we're fortunate to have Karen and Renata with us in person here today. In fact, Renata flew in just yesterday from Lions head. Canada
-
-Jana Shefska, Sorry is a new media artist. Her video works, feature, animation, loops, digital paintings and music. She composes herself
-
-Using custom brushes. She expresses themes of biodegeneration, altered perception and feminism. Karen LaFleur moving image artwork explores the interplay between interior and exterior worlds with a focus on adaptability. She reveals vulnerabilities and complex relationships and highlights, resiliencies in her ever shifting landscapes.
-
-So we are going to now watch the trailer for marine yana, and as you can
-
-Interpret from the title this
-
-Body of work reflects on our relationship with the ocean. So with that, can you start the trailer?
-
-This is Karen here.
-
-Thank you, Brenton. Hi, everyone!
-
-See if I can get this
-
-Trailer up and running for you here.
+So we are going to now watch the trailer for marine yana, and as you can Interpret from the title this Body of work reflects on our relationship with the ocean. So with that, can you start the trailer? This is Karen here. Thank you, Brenton. Hi, everyone! See if I can get this Trailer up and running for you here.
 
 Okay, and view looking for full screen.
 
@@ -78,45 +38,25 @@ Can you see my screen? Yes.
 
 Oh, there it is!
 
-Do
+Do.
 
 Do it.
 
-Do do
+Do do.
 
 So with that. I'm going to welcome Karen LaFleur to the podium.
 
-Thank you, Benton.
+Thank you, Benton. It's a delight to be here. I see all these faces in the audience Happy to share Techspressionism with you, as international community has been integral in the expansion and connection of artists using technology to come together through technology. And today is one example of us trying to do an outreach to the land-based art venues because there's a lot of exciting artwork being done online. And we're trying to bring the 2 worlds together. I'd like to introduce before we begin Our host, who's on the salon because Michael won't be presenting today, but he's sort of the master wizard for the the salon end there.
 
-It's a delight to be here. I see all these faces in the audience
-
-Happy to share Techspressionism with you, as international community has been integral in the expansion and connection of artists using technology to come together through technology. And today is one example of us trying to do an outreach to the land-based art venues
-
-Because there's a lot of exciting artwork being done online. And we're trying to bring the 2 worlds together. I'd like to introduce before we begin
-
-Our host, who's on the salon because Michael won't be presenting today, but he's sort of the master wizard for the the salon end there.
-
-Michael Pierre Price will be our host online. His work is pioneering synthesis of modern physics, neuroscience and spirituality, using advanced technology to create printed works of fine art inspired by an aesthetic that is both thought-provoking and unorthodox. Michael Pierre Price is here to us today from Arizona.
-
-Our 1st speaker that's going to come up today will be Colin Goldberg Colin Goldberg got this whole ball rolling for all of us during the pandemic. He'll start to speak to you about its history. He coined the phrase Techspressionism in 2011, and he is recognized for his role in developing this community of artists working with technology that forms the core of this international movement.
+Michael Pierre Price will be our host online. His work is pioneering synthesis of modern physics, neuroscience and spirituality, using advanced technology to create printed works of fine art inspired by an aesthetic that is both thought-provoking and unorthodox. Michael Pierre Price is here to us today from Arizona. Our 1st speaker that's going to come up today will be Colin Goldberg Colin Goldberg got this whole ball rolling for all of us during the pandemic. He'll start to speak to you about its history. He coined the phrase Techspressionism in 2011, and he is recognized for his role in developing this community of artists working with technology that forms the core of this international movement.
 
 So I will hand the podium over to Colin Goldberg.
 
-All right. Thanks, Karen for the introduction, and Hi, everyone and thanks for joining us here today. My name is Colin Goldberg, and I'm an artist based in North Bennington, Vermont.
-
-To start whoop participants enable translation.
-
-Okay? To start. I'd like to extend my thanks to the Cape Cod Museum of Art and the Museum director, Benton Jones, for inviting us here today.
-
-I'm going to present a quick history of Techspressionism, a term I coined in 2011 and began developing into an artist group in 2020.
+All right. Thanks, Karen for the introduction, and Hi, everyone and thanks for joining us here today. My name is Colin Goldberg, and I'm an artist based in North Bennington, Vermont. To start whoop participants enable translation. Okay? To start. I'd like to extend my thanks to the Cape Cod Museum of Art and the Museum director, Benton Jones, for inviting us here today. I'm going to present a quick history of Techspressionism, a term I coined in 2011 and began developing into an artist group in 2020.
 
 Let me get this screen share going here.
 
-Okay?
-
-So Techspressionism is defined as an artistic approach in which technology is utilized as a means to express emotional experience. The term is derived from 2 root words technology and expressionism. So a lot of people
-
-Can't have a hard time pronouncing it and think it's Techspressionism. And I just tell people it's expressionism with a T so just Techspressionism. I'll start with a little bit of background information on my personal artistic development which will provide some context on how the term originated.
+Okay? So Techspressionism is defined as an artistic approach in which technology is utilized as a means to express emotional experience. The term is derived from 2 root words technology and expressionism. So a lot of people Can't have a hard time pronouncing it and think it's Techspressionism. And I just tell people it's expressionism with a T so just Techspressionism. I'll start with a little bit of background information on my personal artistic development which will provide some context on how the term originated.
 
 I was born in the Bronx, New York, in 1971, and I grew up on the east end of Long Island, where my father got a job teaching chemistry at Southampton College.
 
@@ -126,79 +66,31 @@ I've loved to draw since I was a kid and got my start with computer art as a hig
 
 ## Cape Cod Museum of Art [12:01](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=721s)
 
-I created my 1st digital drawings, using various input tools, including a light pen which let you draw right on the computer monitor and the Koala pad, which was an early drawing tablet. I also experimented with telecommunications, using the Commodore 64, and a 1,200 baud dial-up modem.
+I created my 1st digital drawings, using various input tools, including a light pen which let you draw right on the computer monitor and the Koala pad, which was an early drawing tablet. I also experimented with telecommunications, using the Commodore 64, and a 1,200 baud dial-up modem. Since this was before the World Wide Web. Most of my time online was spent dialing into underground bbss or bulletin board systems run out of people's homes. Most bbss were run by nerdy kids like myself.
 
-Since this was before the World Wide Web. Most of my time online was spent dialing into underground bbss or bulletin board systems run out of people's homes. Most bbss were run by nerdy kids like myself.
+They existed primarily for the purpose of trading pirated video games with other kids around the world, dialing into the boards by hacking the phone system, since there was no web. Yet These pirate crews created elaborate audiovisual intros to the cracked games creating early underground digital art in what became known as the demo scene. I see the demo scene of the 19 eighties as a digital counterpart to the underground graffiti bombers of the time, and also a cultural precursor to the Nft scene of today. In the summer of 1992, I did an internship as a studio assistant for an artist named Steve Miller, who'd been incorporating technology into his art for years.
 
-They existed primarily for the purpose of trading pirated video games with other kids around the world, dialing into the boards by hacking the phone system, since there was no web. Yet
+His studio is a renovated potato barn in sagaponic New York, and was the former studio of the artist Frank Stella. 30 years later we launched Techspressionism.Com from the studio's front porch. That's Steve at the top left, giving me the rabbit ears. During the internship I learned screen printing from a fellow assistant named Robert Barden, who had been Warhol's printer for many years. He's on the top right there. As a student at Binghamton I studied painting under a noted New York School abstract expressionist painter named Angelo Ippolito.
 
-These pirate crews created elaborate audiovisual intros to the cracked games creating early underground digital art in what became known as the demo scene.
+He opened my eyes to abstraction and encouraged me to move to New York after my graduation to pursue a career as an artist. I moved to New York City in 1994, and my 1st job in the city was developing CD-roms at a small multimedia shop in the East village. One morning the shop's owner came in and said, there's a new way to distribute multimedia globally. It's called the World Wide Web. We've got to get in on it. Being the youngest guy in the shop I was tasked with learning how to code. HTML.
 
-I see the demo scene of the 19 eighties as a digital counterpart to the underground graffiti bombers of the time, and also a cultural precursor to the Nft scene of today.
+These are 2 early sites I designed and coded in the Mid Nineties, the launched Websites for Popular Science magazine and golf magazine. I also worked with a team to launch snapple.Com onto the web in 1996, at a freelancer at their ad agency and was part of a small team of designers that built Merrill Lynch's intranet or Internal Corporate network. That was about 1997, 30 years later. This online development experience would become an essential component in Techspressionism's development with Techspressionism.Com serving as a content repository for the movement housing our artist index documentation of our online and offline exhibitions and the recordings of our salons, roundtable discussions and artist interviews.
 
-In the summer of 1992, I did an internship as a studio assistant for an artist named Steve Miller, who'd been incorporating technology into his art for years.
+In the evenings I use the same tools I worked with in my day job to experiment with my 1st explorations into abstract digital art. This piece, entitled Urbanite is a digital drawing of mine from 1999. It's an early example. From a metagraph series of vector-based digital drawings which I animated and minted to the blockchain as audiovisual nfts. 25 years later. Recently I've produced a selection of my metagraphs as large-scale augmented reality. Digital monoprints on Vinyl, which animate on the gallery wall when viewed with a mobile app this piece, called Kneeling Icon, was purchased by the Hearst Corporation in 2022, and is permanently installed in Hearst Tower on 57th Street, in New York City In 2,005. I ran a painted service through my inkjet printer. For the 1st time I hacked the printer, removing the roller wheels to allow the work to pass unscathed beneath the printheads. This is an early work on paper. From my Wireframe series.
 
-His studio is a renovated potato barn in sagaponic New York, and was the former studio of the artist Frank Stella.
+Based on this body of work I was awarded, awarded a full scholarship to the Mfa. Computer art program at Bowling Green State University, in Ohio, where I would go on to meet Patrick Lichty, a fellow artist and graduate school colleague, who had become one of the co-founders of the Techspressionist artist group. In 2020,. The 2,005 painting Pollock studio shown on the left is one of my 1st works on canvas incorporating digital overprinting. In 2,005 it was accepted into the permanent collection of the Pollock, Krasner House and Study Center, which is the former home and studio of the painters, Jackson, Pollock and Lee Krasner, the Pollock house's director, Helen Harrison would go on to become a key figure in Techspressionism's formation as an artist group.
 
-30 years later we launched Techspressionism.Com from the studio's front porch. That's Steve at the top left, giving me the rabbit ears. During the internship I learned screen printing from a fellow assistant named Robert Barden, who had been Warhol's printer for many years. He's on the top right there. As a student at Binghamton I studied painting under a noted New York School abstract expressionist painter named Angelo Ippolito.
+And continues to serve as an advisor for the project. I coined the term Techspressionism in 2011 as the title of his pop-up exhibition in Southampton, New York. I never felt comfortable referring to my work as digital art, since much of it was created with physical paint and brushes. The term Techspressionism literally just popped into my head, and I used it as the title of the show. Helen Harrison wrote the catalog introduction, which was the 1st use of the term Techspressionism in critical commentary.
 
-He opened my eyes to abstraction and encouraged me to move to New York after my graduation to pursue a career as an artist.
+Miss Harrison would later generously offer her time in the movement's development, and was instrumental in helping to define the term, notably stressing the importance of defining Techspressionism as an approach rather than a style. This allowed the term to be applicable to a wide range of artistic styles, both figurative and abstract. In 2014 I wrote the 1st draft of the Techspressionist manifesto which was inspired by artistic manifestos of the past, including Andre Breton's Surrealist Manifesto, and Marinetti's Futurist Manifesto.
 
-I moved to New York City in 1994, and my 1st job in the city was developing CD-roms at a small multimedia shop in the East village.
-
-One morning the shop's owner came in and said, there's a new way to distribute multimedia globally. It's called the World Wide Web. We've got to get in on it.
-
-Being the youngest guy in the shop I was tasked with learning how to code. HTML.
-
-These are 2 early sites I designed and coded in the Mid Nineties, the launched Websites for Popular Science magazine and golf magazine. I also worked with a team to launch snapple.Com onto the web in 1996, at a freelancer at their ad agency and was part of a small team of designers that built Merrill Lynch's intranet or Internal Corporate network. That was about 1997,
-
-30 years later. This online development experience would become an essential component in Techspressionism's development with Techspressionism.Com serving as a content repository for the movement housing our artist index documentation of our online and offline exhibitions and the recordings of our salons, roundtable discussions and artist interviews.
-
-In the evenings I use the same tools I worked with in my day job to experiment with my 1st explorations into abstract digital art. This piece, entitled Urbanite is a digital drawing of mine from 1999.
-
-It's an early example. From a metagraph series of vector-based digital drawings which I animated and minted to the blockchain as audiovisual nfts. 25 years later.
-
-Recently I've produced a selection of my metagraphs as large-scale augmented reality. Digital monoprints on Vinyl, which animate on the gallery wall when viewed with a mobile app this piece, called Kneeling Icon, was purchased by the Hearst Corporation in 2022, and is permanently installed in Hearst Tower on 57th Street, in New York City
-
-In 2,005. I ran a painted service through my inkjet printer. For the 1st time I hacked the printer, removing the roller wheels to allow the work to pass unscathed beneath the printheads. This is an early work on paper. From my Wireframe series.
-
-Based on this body of work I was awarded, awarded a full scholarship to the Mfa. Computer art program at Bowling Green State University, in Ohio, where I would go on to meet Patrick Lichty, a fellow artist and graduate school colleague, who had become one of the co-founders of the Techspressionist artist group. In 2020,
-
-The 2,005 painting Pollock studio shown on the left is one of my 1st works on canvas incorporating digital overprinting. In 2,005 it was accepted into the permanent collection of the Pollock, Krasner House and Study Center, which is the former home and studio of the painters, Jackson, Pollock and Lee Krasner, the Pollock house's director, Helen Harrison would go on to become a key figure in Techspressionism's formation as an artist group.
-
-And continues to serve as an advisor for the project.
-
-I coined the term Techspressionism in 2011 as the title of his pop-up exhibition in Southampton, New York.
-
-I never felt comfortable referring to my work as digital art, since much of it was created with physical paint and brushes. The term Techspressionism literally just popped into my head, and I used it as the title of the show.
-
-Helen Harrison wrote the catalog introduction, which was the 1st use of the term Techspressionism in critical commentary.
-
-Miss Harrison would later generously offer her time in the movement's development, and was instrumental in helping to define the term, notably stressing the importance of defining Techspressionism as an approach rather than a style. This allowed the term to be applicable to a wide range of artistic styles, both figurative and abstract.
-
-In 2014 I wrote the 1st draft of the Techspressionist manifesto which was inspired by artistic manifestos of the past, including Andre Breton's Surrealist Manifesto, and Marinetti's Futurist Manifesto.
-
-There's 10 points in the manifesto, but I feel that the 1st 3 are the most central. The 1st point is that the computer and technology in general are not separate from humankind, but are a natural extension of us. The second point is that technology is a continuum as old as humanity, not a novelty or fad.
-
-The 3rd point is that the computer is just one of a long string of tools that have enabled human expression, including the typewriter, the camera, the printing press, the pen, the pencil and paint
-
-Techspressionism was 1st referred to as a movement in Wired in 2014, in an article titled, If Picasso had a macbook pro ironically, at that time I was the only artist using the term to describe their work.
-
-The term Techspressionism was 1st discussed on television in a Pbs interview recorded during a 2015 artist Residency. I did at the studios of Key West in Florida.
+There's 10 points in the manifesto, but I feel that the 1st 3 are the most central. The 1st point is that the computer and technology in general are not separate from humankind, but are a natural extension of us. The second point is that technology is a continuum as old as humanity, not a novelty or fad. The 3rd point is that the computer is just one of a long string of tools that have enabled human expression, including the typewriter, the camera, the printing press, the pen, the pencil and paint Techspressionism was 1st referred to as a movement in Wired in 2014, in an article titled, If Picasso had a macbook pro ironically, at that time I was the only artist using the term to describe their work. The term Techspressionism was 1st discussed on television in a Pbs interview recorded during a 2015 artist Residency. I did at the studios of Key West in Florida.
 
 The interview aired on the Pbs Miami show art loft, and was later syndicated to other Pbs. Stations across the United States.
 
-One morning in the summer of 2020, I did a Google search for Techspressionism, and I saw that an artist named Oz Van Rosen had independently used the term to describe her work in several articles online.
+One morning in the summer of 2020, I did a Google search for Techspressionism, and I saw that an artist named Oz Van Rosen had independently used the term to describe her work in several articles online. I reached out and asked if she was interested in developing an artist group around Techspressionism, and she was receptive to the idea. We decided to use Instagram as a platform to locate other artists and established an account for Techspressionism featuring our work.
 
-I reached out and asked if she was interested in developing an artist group around Techspressionism, and she was receptive to the idea.
-
-We decided to use Instagram as a platform to locate other artists and established an account for Techspressionism featuring our work.
-
-Later that month I met with my friend Steve Miller to discuss the idea. We did some brainstorming, and on August 20, second 2020 Techspressionism.Com launched from the front porch of Miller's sagaponic studio.
-
-Shortly thereafter I contacted Helen Harrison, who supported the idea and agreed to serve in an advisory role to the project.
-
-Kellen suggested organizing an exhibition to gauge interest in developing an artist group. So we organized a Zoom Meetup to discuss the next steps.
+Later that month I met with my friend Steve Miller to discuss the idea. We did some brainstorming, and on August 20, second 2020 Techspressionism.Com launched from the front porch of Miller's sagaponic studio. Shortly thereafter I contacted Helen Harrison, who supported the idea and agreed to serve in an advisory role to the project. Kellen suggested organizing an exhibition to gauge interest in developing an artist group. So we organized a Zoom Meetup to discuss the next steps.
 
 The 1st Expressionist salon was held on September 1st 2020, and in attendance were Helen Harrison, Oz Van Rosen, myself, Steve Miller, and my friend and graduate school colleague, Patrick Lichty, who was teaching animation in Abu Dhabi at the time
 
@@ -208,115 +100,37 @@ We collectively established the current definition of Techspressionism with the 
 
 ## Cape Cod Museum of Art [20:31](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1231s)
 
-The salons have become a core component in Techspressionism's development as a movement. Techspressionists started as an artist group during the pandemic when many people were quarantined and Zoom gained worldwide popularity as a means of communication.
+The salons have become a core component in Techspressionism's development as a movement. Techspressionists started as an artist group during the pandemic when many people were quarantined and Zoom gained worldwide popularity as a means of communication. These meetups were inspired by the surrealist salons of the 19 twenties in which artists could meet informally to socialize and discuss ideas. These international artist meetups include regulars from Canada, the UK, Iran and Germany, as well as visitors. From.
 
-These meetups were inspired by the surrealist salons of the 19 twenties in which artists could meet informally to socialize and discuss ideas.
+What's that? Okay, we have a little feedback from the audience. So this screenshot from Salon number 2 is the earliest photographic documentation of the salons artist Davonte Bradley, also known as Davo, is visible in the lower left, proposed recording our salons and creating a Techspressionism Youtube channel to house them, which launched in 2021. So all of the past salons, starting with Number 8, are archived on the Techspressionism Youtube Channel, which is at youtube dot com slash Techspressionism Salons are held on the 1st Thursday of each month at noon Eastern time, and are free and open to the public.
 
-These international artist meetups include regulars from Canada, the Uk. Iran and Germany, as well as visitors. From
+Artists, are encouraged to share their work online via zoom screen sharing. So sometimes we have a specific topic, and artists are pre-selected by a curator, and other times we have sort of an open studios format where artists can just jump in and show what they're working on. Techspressionism's growth model is based on self-identification. Basically, you're a Techspressionist when you say you are. To further this philosophical approach we introduced the hashtag Techspressionism on Instagram to spread the word and to allow artists to self identify with the term. The Instagram hashtag has been the primary mechanism by which Techspressionism has propagated itself internationally. And as an aside, I actually became interested in A field called memetics, which is something that was established by the geneticist, Richard Dawkins, back in the 19 eighties, and he was the originator of the term meme. So before all of the Internet cat memes that everyone's familiar with. It was actually a study of the propagation of cultural information, and it follows a genetic model in which ideas are passed from host to host, which would be us Through a variety of mechanisms. One of them that I think, is extremely efficient is social media.
 
-What's that?
+So there's currently over 80,000 posts on Instagram using the hashtag Techspressionism. And that's from about 2020 when it 1st started being used. The Techspressionist visual artist index was established in October 2020. It's a curated collection of artists primarily discovered through their use of the hashtag on Instagram Over the past 3 years. Our artist index has grown from the 4 artists in our initial salon, along with Helen, to over 350 artists from more than 45 countries.
 
-Okay, we have a little feedback from the audience.
+Artists working with technology can add the hashtag Techspressionism on Instagram to gain visibility to the group's Instagram curator, Canadian artist, Renata Janiszewska, who is here with us today. And recently exhibited her work at this museum, along with her collaborator, Karen LaFleur. Using the hashtag, is a prerequisite for inclusion in the Artist index as the group's membership is based on self-identification. When the Techspressionism Youtube Channel launched in 2021, it also became the platform for an ongoing series of artist interviews, and the format is that artists interview other artists in the spirit of Andy Warhol's Interview Magazine. So he established this idea in print.
 
-So this screenshot from Salon number 2 is the earliest photographic documentation of the salons artist Davonte Bradley, also known as Davo, is visible in the lower left, proposed recording our salons and creating a Techspressionism Youtube channel to house them, which launched in 2021.
+These interviews include discussions with many pioneers in the field, such as the artist, Anne Spalter, who is the founder of the digital art programs at the Rhode Island School of Design and Brown University and Frank Gillette, who was a seminal video artist of the 19 sixties, whose work was included in signals. The recent video art survey at the Museum of Modern Art, and he worked directly with Marshall Mcluhan also, which I thought was pretty cool In the 19 seventies. The German artist, Joseph Boes created the term social sculpture to embody his understanding of art's potential to transform society.
 
-So all of the past salons, starting with Number 8, are archived on the Techspressionism Youtube Channel, which is at youtube dot com slash Techspressionism
+I was 1st introduced to social sculpture by Joseph Neck, fatal, an American artist based in Paris, who creates paintings using computer viruses and robots. And I was actually introduced to Joseph through Steve Miller as a work of art. A social sculpture includes human activity that strives to structure and shape society or the environment. The central idea of a social sculptor is an artist who creates structures in society using language, thoughts, actions, and objects. From my standpoint the primary transformative goals of Techspressionism include the following opportunities To present innovative work in a broad range of styles reflecting the expressive potential of electronic media to demonstrate that artists have always adopted contemporary technologies for creative purposes and to exercise curatorial inclusivity regarding gender equality and international focus and sociocultural diversity. Michael Price, today's Moderator, established the Techspressionism roundtable series.
 
-Salons are held on the 1st Thursday of each month at noon Eastern time, and are free and open to the public.
+The 1st Round Table which I moderated was a lively discussion on the movement between Helen Harrison and Christiane Paul, the curator of digital art at the Whitney Museum. This recording, along with the other roundtables, is available for viewing Techspressionism.Com. So now I'm going to go a little bit into the exhibitions we've done from 2021 to the present. Our 1st exhibition, and the 1st number of exhibitions were held online because the group was founded during the pandemic.
 
-Artists, are encouraged to share their work online via zoom screen sharing. So sometimes we have a specific topic, and artists are pre-selected by a curator, and other times we have sort of an open studios format where artists can just jump in and show what they're working on.
+Our 1st exhibition or series of exhibitions were the Techspressionism Collab Series. This project, initiated by Davo, Aka, Davonte Bradley, was inspired by the idea of notable collaborations. Specifically the one between Andy Warhol and Jean-michel Basquiat The project involves 2 artists passing a digital file back and forth to create a collaborative piece piece. The show and our subsequent online exhibitions were produced using a Berlin-based virtual exhibition platform called Kunst Matrix, with whom we established a technology partnership in 2021 In May of 2021. The exhibition nft now, which was curated by Anne Spalter, opened on Techspressionism.Com. As one of the Web's 1st curated exhibitions of nfts.
 
-Techspressionism's growth model is based on self-identification. Basically, you're a Techspressionist when you say you are.
+Spaltzer's Nft artwork was featured in the New York Times. After fetching a personal record in an nft auction at Sotheby's. The Online Show was selected as a Freeze Week editor's Pick in Artnet news and has been archived for viewing at expressionism dot com nft now. So you can actually navigate through this virtual gallery. Click on the pieces, and then you're taken to the platform on which the nfts are traded.
 
-To further this philosophical approach we introduced the hashtag Techspressionism on Instagram to spread the word and to allow artists to self identify with the term. The Instagram hashtag has been the primary mechanism by which Techspressionism has propagated itself internationally. And as an aside, I actually became interested in
+Techspressionism 2021 was a survey exhibition featuring artists from 26 Nations. This exhibition curated by myself and Patrick Lichty, received over 1,200 artwork submissions in the initial online call for entry. Techspressionism, digital and beyond was the 1st large-scale physical group exhibition of Techspressionist artworks. This exhibition, which I curated for the Southampton Art Center in Southampton, New York, included paintings, sculptures, nfts, time-based works digital still images, installation works and prints. The show included the works of more than 90 artists working with technology from more than 20 countries around the world, including Afghanistan, Australia, Belgium, Brazil, Canada, Canary Islands, the Czech Republic, France, Germany, Hong, Kong, India, Iran, Italy, the Netherlands, Peru, Puerto Rico, Russia, Taiwan, Turkey, Uganda, Ukraine, and the United States.
 
-A field called memetics, which is something that was established by the geneticist, Richard Dawkins, back in the 19 eighties, and he was the originator of the term meme. So before all of the Internet cat memes that everyone's familiar with. It was actually a study of the propagation of cultural information, and it follows a genetic model in which ideas are passed from host to host, which would be us
+And you can see on that slide. There's a grid of images that were created by soliciting high resolution images from artists from 15 different countries which I had fabricated on aluminum panels, using a budget that we were afforded through the art center. And the works were signed using technology similar to docusign and many of them sold actually through the exhibition, and 100% of the the funds went directly to the artists. These are a couple other installation shots from that show. The work in the back there. The grid of 9 is by Frank Gillette, who's known for his video art, but also has been creating Photoshop work. The large painting on the left is Steve Miller, the one with the pink, and that's actually, I believe, a satellite image over the Brazilian rainforest, I think, and then the large sculpture, the inflatable on the right, is by an artist named Michael Rees, and that also includes an augmented reality component. So there's the grid.
 
-Through a variety of mechanisms. One of them that I think, is extremely efficient is social media.
+And this is a group shot of the artists. Some of the artists that were at the Exhibition at its opening.
 
-So there's currently over 80,000 posts on Instagram using the hashtag Techspressionism. And that's from about 2020 when it 1st started being used.
+This last summer the Kingsborough Art Museum, hosted Hello, Brooklyn, to express in 2024, which was a group exhibition of digital artists curated by Tommy Mintz, Sung, Jin Lee and Oceana Andres. The exhibition included over a hundred expressive and innovative works in various styles and mediums by an international selection of artists. And here are some fun candid shots from the opening in Brooklyn.
 
-The Techspressionist visual artist index was established in October 2020. It's a curated collection of artists primarily discovered through their use of the hashtag on Instagram
+This fall. The 1st exhibition of Techspressionist artworks outside of the United States will be held at the contemporary Art Museum of Uzbekistan. It is tentatively called simply Techspressionism, or the Uzbek translation of that The curator, Cynthia Beth Rubin, will lead a group of 12 artists to Uzbekistan in September. The exhibition will be opening September 3, rd and will be up for 3 or 4 weeks. I'm just gonna stop my share here. And we also have 2 upcoming shows opening later this month in Chicago and Chelsea, in New York City, which leads me to introduce our next speaker, the Curator of Hello, Brooklyn, and Hello, Chelsea, the New York artist, Tommy Mintz.
 
-Over the past 3 years. Our artist index has grown from the 4 artists in our initial salon, along with Helen, to over 350 artists from more than 45 countries.
-
-Artists working with technology can add the hashtag Techspressionism on Instagram to gain visibility to the group's Instagram curator, Canadian artist, Renata Janiszewska, who is here with us today.
-
-And recently exhibited her work at this museum, along with her collaborator, Karen LaFleur.
-
-Using the hashtag, is a prerequisite for inclusion in the Artist index as the group's membership is based on self-identification.
-
-When the Techspressionism Youtube Channel launched in 2021, it also became the platform for an ongoing series of artist interviews, and the format is that artists interview other artists in the spirit of Andy Warhol's Interview Magazine. So he established this idea in print.
-
-These interviews include discussions with many pioneers in the field, such as the artist, Anne Spalter, who is the founder of the digital art programs at the Rhode Island School of Design and Brown University and Frank Gillette, who was a seminal video artist of the 19 sixties, whose work was included in signals. The recent video art survey at the Museum of Modern Art, and he worked directly with Marshall Mcluhan also, which I thought was pretty cool
-
-In the 19 seventies. The German artist, Joseph Boes created the term social sculpture to embody his understanding of art's potential to transform society.
-
-I was 1st introduced to social sculpture by Joseph Neck, fatal, an American artist based in Paris, who creates paintings using computer viruses and robots. And I was actually introduced to Joseph through Steve Miller as a work of art. A social sculpture includes human activity that strives to structure and shape society or the environment.
-
-The central idea of a social sculptor is an artist who creates structures in society using language, thoughts, actions, and objects.
-
-From my standpoint the primary transformative goals of Techspressionism include the following opportunities
-
-To present innovative work in a broad range of styles reflecting the expressive potential of electronic media to demonstrate that artists have always adopted contemporary technologies for creative purposes
-
-And to exercise curatorial inclusivity regarding gender equality and international focus and sociocultural diversity.
-
-Michael Price, today's Moderator, established the Techspressionism roundtable series.
-
-The 1st Round Table which I moderated was a lively discussion on the movement between Helen Harrison and Christiane Paul, the curator of digital art at the Whitney Museum.
-
-This recording, along with the other roundtables, is available for viewing Techspressionism.Com.
-
-So now I'm going to go a little bit into the exhibitions we've done from 2021 to the present.
-
-Our 1st exhibition, and the 1st number of exhibitions were held online because the group was founded during the pandemic.
-
-Our 1st exhibition or series of exhibitions were the Techspressionism Collab Series. This project, initiated by Davo, Aka, Davonte Bradley, was inspired by the idea of notable collaborations. Specifically the one between Andy Warhol and Jean-michel Basquiat
-
-The project involves 2 artists passing a digital file back and forth to create a collaborative piece piece.
-
-The show and our subsequent online exhibitions were produced using a Berlin-based virtual exhibition platform called Kunst Matrix, with whom we established a technology partnership in 2021
-
-In May of 2021. The exhibition nft now, which was curated by Anne Spalter, opened on Techspressionism.Com. As one of the Web's 1st curated exhibitions of nfts.
-
-Spaltzer's Nft artwork was featured in the New York Times. After fetching a personal record in an nft auction at Sotheby's.
-
-The Online Show was selected as a Freeze Week editor's Pick in Artnet news and has been archived for viewing at expressionism dot com nft now. So you can actually navigate through this virtual gallery. Click on the pieces, and then you're taken to the platform on which the nfts are traded.
-
-Techspressionism 2021 was a survey exhibition featuring artists from 26 Nations. This exhibition curated by myself and Patrick Lichty, received over 1,200 artwork submissions in the initial online call for entry
-
-Techspressionism, digital and beyond was the 1st large-scale physical group exhibition of Techspressionist artworks.
-
-This exhibition, which I curated for the Southampton Art Center in Southampton, New York, included paintings, sculptures, nfts, time-based works digital still images, installation works and prints.
-
-The show included the works of more than 90 artists working with technology from more than 20 countries around the world, including Afghanistan, Australia, Belgium, Brazil, Canada, Canary Islands, the Czech Republic, France, Germany, Hong, Kong, India, Iran, Italy, the Netherlands, Peru, Puerto Rico, Russia, Taiwan, Turkey, Uganda, Ukraine, and the United States.
-
-And you can see on that slide. There's a grid of images that were created by soliciting high resolution images from artists from 15 different countries which I had fabricated on aluminum panels, using a budget that we were afforded through the art center. And the works were signed using technology similar to docusign and many of them sold actually through the exhibition, and 100% of the the funds went directly to the artists.
-
-These are a couple other installation shots from that show
-
-The work in the back there. The grid of 9 is by Frank Gillette, who's known for his video art, but also has been creating Photoshop work. The large painting on the left is Steve Miller, the one with the pink, and that's actually, I believe, a satellite image over the Brazilian rainforest, I think, and then the large sculpture, the inflatable on the right, is by an artist named Michael Rees, and that also includes an augmented reality component.
-
-So there's the grid.
-
-And this is a group shot of the artists. Some of the artists that were at the Exhibition at its opening
-
-This last summer the Kingsborough Art Museum, hosted Hello, Brooklyn, to express in 2024, which was a group exhibition of digital artists curated by Tommy Mintz, Sung, Jin Lee and Oceana Andres. The exhibition included over a hundred expressive and innovative works in various styles and mediums by an international selection of artists. And here are some fun candid shots from the opening in Brooklyn
-
-This fall. The 1st exhibition of Techspressionist artworks outside of the United States will be held at the contemporary Art Museum of Uzbekistan.
-
-It is tentatively called simply Techspressionism, or the Uzbek translation of that
-
-The curator, Cynthia Beth Rubin, will lead a group of 12 artists to Uzbekistan in September. The exhibition will be opening September 3, rd and will be up for 3 or 4 weeks.
-
-I'm just gonna stop my share here.
-
-And we also have 2 upcoming shows opening later this month in Chicago and Chelsea, in New York City, which leads me to introduce our next speaker, the Curator of Hello, Brooklyn, and Hello, Chelsea, the New York artist, Tommy Mintz.
-
-Tommy's work draws upon the aesthetics of street photography, digital culture, culture, mapping and performance.
-
-He's interested in the rapid pace of construction, displacement, and efforts of preservation both in the physical world and the digital world. So with that, I'm going to sign off and hand the mic over to Tommy
+Tommy's work draws upon the aesthetics of street photography, digital culture, culture, mapping and performance. He's interested in the rapid pace of construction, displacement, and efforts of preservation both in the physical world and the digital world. So with that, I'm going to sign off and hand the mic over to Tommy
 
 ## Tommy ipad [32:23](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1943s)
 
@@ -328,21 +142,11 @@ I'm good
 
 ## Tommy ipad [32:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1945s)
 
-It's
+It's.
 
-Oh, well, it's really wonderful to see the history of how the group has evolved and come together. I mean, it really does feel like a
+Oh, well, it's really wonderful to see the history of how the group has evolved and come together. I mean, it really does feel like a Very. Well-developed community, almost family, where we're really getting to know each other's work in a substantive way. I'm going to try to share just a few pictures of once again the Hello, Brooklyn! Show that Oop oop one second. That Colin mentioned a moment ago, and the show was so well received that we've been asked to present it again.
 
-Very
-
-Well-developed community, almost family, where we're really getting to know each other's work in a substantive way. I'm going to try to share just a few pictures of once again the Hello, Brooklyn! Show that
-
-Oop oop one second
-
-That Colin mentioned a moment ago, and the show was so well received that we've been asked to present it again.
-
-The upcoming exhibition is going to be sorry. I need to
-
-Have something here to show pictures. Now are we seeing pictures of Hello, Brooklyn?
+The upcoming exhibition is going to be sorry. I need to Have something here to show pictures. Now are we seeing pictures of Hello, Brooklyn?
 
 ## Michael Pierre Price [33:18](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1998s)
 
@@ -350,37 +154,17 @@ Yes.
 
 ## Tommy ipad [33:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1999s)
 
-Great sorry about that. So Hello, Brooklyn was a kind of a sprawling show, if you will. We had a very large space, and the challenge of the upcoming exhibit, and Hudson Guild Gallery from April 30th to June 25th is that all of these works are going to be put into a much smaller space. So we're going to have a very interesting cozy show coming up, and I encourage everybody to
-
-Mark your calendar. April 30th is the opening reception. 4, 41 West 26th Street in Manhattan. And really I don't have that much else to say. Besides, it's been a wonderful experience as a both artist and as I hesitate to say, curator, but organizer
-
-And it's helped both sort of expand my sense of what
-
-Aesthetically as possible with digital work, and also what's possible with building a community? Unconstrained by
-
-Geographic boundaries. So thank you, Colin, and thank you for the chance to speak up in Cape Cod. I appreciate it.
+Great sorry about that. So Hello, Brooklyn was a kind of a sprawling show, if you will. We had a very large space, and the challenge of the upcoming exhibit, and Hudson Guild Gallery from April 30th to June 25th is that all of these works are going to be put into a much smaller space. So we're going to have a very interesting cozy show coming up, and I encourage everybody to Mark your calendar. April 30th is the opening reception. 4, 41 West 26th Street in Manhattan. And really I don't have that much else to say. Besides, it's been a wonderful experience as a both artist and as I hesitate to say, curator, but organizer and it's helped both sort of expand my sense of what. Aesthetically as possible with digital work, and also what's possible with building a community? Unconstrained by Geographic boundaries. So thank you, Colin, and thank you for the chance to speak up in Cape Cod. I appreciate it.
 
 And I'm gonna pass the microphone back
 
 ## Cape Cod Museum of Art [34:49](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2089s)
 
-Thank you, Tommy. We'll be showing up next.
-
-I think it's Renata coming up next, and we're going to show you some samples of a show that Renata myself.
-
-Colin Goldberg, and one of the artists who's going to present online Jan Swinburne. And also we should thank David Bloom and the curator, Yuga Zhao. For this show. It's in Chicago. It opens at the end of April.
-
-Take it away, trailer.
-
-Oh, okay, you want to put the trailer on.
+Thank you, Tommy. We'll be showing up next. I think it's Renata coming up next, and we're going to show you some samples of a show that Renata myself. Colin Goldberg, and one of the artists who's going to present online Jan Swinburne. And also we should thank David Bloom and the curator, Yuga Zhao. For this show. It's in Chicago. It opens at the end of April. Take it away, trailer. Oh, okay, you want to put the trailer on.
 
 Okay, that's the whole thing.
 
-Hello! I'm Renata Yanniszewska, and I'm very happy to be here. Thank you, Benton, and thank you to the museum staff for hosting us
-
-For our show in Chicago, which starts at the end of April, we made a catalog which is available on the website expressionism.Com.
-
-Yes, it was sharing
+Hello! I'm Renata Yanniszewska, and I'm very happy to be here. Thank you, Benton, and thank you to the museum staff for hosting us For our show in Chicago, which starts at the end of April, we made a catalog which is available on the website expressionism.Com. Yes, it was sharing
 
 ## Michael Pierre Price [37:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2233s)
 
@@ -404,33 +188,15 @@ Okay.
 
 ## Cape Cod Museum of Art [37:29](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2249s)
 
-What we'll do is we'll we'll do the new trailer.
+What we'll do is we'll we'll do the new trailer. We'll share right now. Okay, okay. Because we missed Colin. I just have to find it. This is technology folks. Okay, where's my full screen window? Full screen, full screen bit to full screen. Here we go.
 
-We'll share right now. Okay, okay.
+Good. Now, Colin's work is in there.
 
-Because we missed Colin.
+We unshare it here. Hold on! Oh, there is.
 
-I just have to find it. This is technology folks.
+Yeah, but I've got to find it. That's the trouble with Zoom. The zoom always likes to lose it. You want to go to expressionism.Com right? No, no keynote. Oh, keynote. Okay.
 
-Okay, where's my full screen window? Full screen, full screen bit to full screen. Here we go.
-
-Good. Now, Colin's work is in there
-
-We unshare it here.
-
-Hold on!
-
-Oh, there is.
-
-Yeah, but I've got to find it. That's the trouble with Zoom. The zoom always likes to lose it.
-
-You want to go to expressionism.Com right? No, no keynote. Oh, keynote. Okay.
-
-This is, gonna go share and then stop.
-
-We're on it.
-
-Are you seeing the screen
+This is, gonna go share and then stop. We're on it. Are you seeing the screen
 
 ## Michael Pierre Price [40:31](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2431s)
 
@@ -446,9 +212,7 @@ It's in slide show mode.
 
 ## Cape Cod Museum of Art [40:36](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2436s)
 
-They have to hit play.
-
-Yeah, it's in line. You have to drag that. Drag that over
+They have to hit play. Yeah, it's in line. You have to drag that. Drag that over
 
 ## Michael Pierre Price [40:45](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2445s)
 
@@ -456,91 +220,39 @@ Okay.
 
 ## Cape Cod Museum of Art [40:47](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2447s)
 
-It's going to be on for people, though it's going to be on for people in the audience. We dragged it into position. Okay, it's gone
+It's going to be on for people, though it's going to be on for people in the audience. We dragged it into position. Okay, it's gone Good, all right. So 4 of us decided to do this project together and to make the the title about Expressionism, because we were bringing it to an audience in Chicago where we've never had an exhibition. And. The challenge was that the the as you saw in the trailer? The screen is very. It's 150 feet long and very tall, about 12 feet tall at the highest point. So to make a video that size Just as an example. The average size of one of my videos might be 2,000 pixels along the longest point, the longest side. This was 15,000 pixels.
 
-Good, all right. So
-
-4 of us decided to do this project together and to make the the title about Expressionism, because we were bringing it to an audience in Chicago where we've never had an exhibition.
-
-And
-
-The challenge was that the the as you saw in the trailer? The screen is very. It's 150 feet long
-
-And very tall, about 12 feet tall at the highest point. So to make a video that size
-
-Just as an example. The average size of one of my videos might be 2,000 pixels along the longest point, the longest side. This was 15,000 pixels.
-
-So to have a file that size on your computer takes a considerable amount of power computing power and to manipulate it and to blend it with the other artists, and we had to literally work separately and then join it up, and then take it back again, and then join it up in another manner, and finally export it to the venue where they did film it with a drone, which is what you saw on the trailer.
-
-So okay,
+So to have a file that size on your computer takes a considerable amount of power computing power and to manipulate it and to blend it with the other artists, and we had to literally work separately and then join it up, and then take it back again, and then join it up in another manner, and finally export it to the venue where they did film it with a drone, which is what you saw on the trailer. So okay,.
 
 Misbehaving. Yeah, yeah, wow!
 
 We're stuck in full screen. Guys.
 
-Do you know what, Colin? We're stuck?
+Do you know what, Colin? We're stuck? Totally. It's Zoom can't do it. There she goes! How did you advance it? Just with the button cursor keys. Okay, is she doing these? Yeah. The 1st slide is a still from one of my pieces of animation for the final work. And I move between representation, which is not realistic, but it represents actual, recognizable things in this case faces to abstraction throughout my work. For this particular project. It literally goes between abstraction to representation.
 
-Totally. It's Zoom can't do it.
-
-There she goes! How did you advance it? Just with the button cursor keys. Okay, is she doing these?
-
-Yeah. The 1st slide is a still from one of my pieces of animation for the final work.
-
-And I move between representation, which is not realistic, but it represents actual, recognizable things in this case faces to abstraction throughout my work. For this particular project. It literally goes between abstraction to representation.
-
-This is a still of the entire screen with the work projected in the daytime. It's quite amazing to me how well the color translated.
-
-It might be a little bit brighter, because you're seeing it from a screen than you would when you were standing in the atrium there.
+This is a still of the entire screen with the work projected in the daytime. It's quite amazing to me how well the color translated. It might be a little bit brighter, because you're seeing it from a screen than you would when you were standing in the atrium there.
 
 That was a section of the two-minute piece of mine with my own original music.
 
 And that was the recent drone footage that was filmed about 3 weeks ago for us in Chicago. So I'm going to hand it over to Colin Goldberg now.
 
-Okay, so my piece is called Interior Landscape. And
+Okay, so my piece is called Interior Landscape. And when I was a graduate student. We had to do critiques, and I often struggled with that because I didn't really know how to come up with an explanation for my work. So, as I said before, I was as an undergraduate student, I studied under this painter Angelo epolito, and when he was asked by us by the students what his work was about. He just responded, it's about paint. And I found that answer both frustrating and liberating. It fully allowed me to embrace abstraction without a need for explanation. And there's a saying I'm not sure exactly who said it, but that the viewer completes the work which I really like. Years later I related my professor's response to Marshall Mcluhan's favorite phrase, the medium is the message My artistic process draws upon the surrealist practice of automatic drawing which aims to produce art without thought or intervention from the conscious mind. Each mark, color, and motion is influenced by the sum of the previous ones. As the work develops organically from the subconscious.
 
-When I was a graduate student. We had to do critiques, and I often struggled with that because I didn't really know how to come up with an explanation for my work. So, as I said before, I was as an undergraduate student, I studied under this painter Angelo epolito, and when he was asked by us by the students what his work was about. He just responded, it's about paint.
-
-And I found that answer both frustrating and liberating. It fully allowed me to embrace abstraction without a need for explanation. And there's a saying I'm not sure exactly who said it, but that the viewer completes the work which I really like. Years later I related my professor's response to Marshall Mcluhan's favorite phrase, the medium is the message
-
-My artistic process draws upon the surrealist practice of automatic drawing which aims to produce art without thought or intervention from the conscious mind. Each mark, color, and motion is influenced by the sum of the previous ones. As the work develops organically from the subconscious.
-
-When I look back years after a piece is completed, I can often understand it more clearly when I see it. In context.
-
-Techspressionism is an approach that provides me with a glimpse inside myself through the oracle of technology.
-
-This line of thinking led me to the title of my piece in this exhibition, which is interior landscape.
-
-One thing that I find particularly attractive about abstract art is the variety of interpretations it can generate. I closed with this in the words of Marcel Duchamp, a work of art is completed by the viewer. That's who said it. What do you see in it.
+When I look back years after a piece is completed, I can often understand it more clearly when I see it. In context. Techspressionism is an approach that provides me with a glimpse inside myself through the oracle of technology. This line of thinking led me to the title of my piece in this exhibition, which is interior landscape. One thing that I find particularly attractive about abstract art is the variety of interpretations it can generate. I closed with this in the words of Marcel Duchamp, a work of art is completed by the viewer. That's who said it. What do you see in it.
 
 Please.
 
 Awesome.
 
-Alright.
+Alright. Pass it on to.
 
-Pass it on to
+Hello, everyone again I'm back. It was a real pleasure to do this project, and, like Renata said in the very beginning, a super challenge technologically, for us artists to be able to create this giant space. And there are a few people I know. We've thanked the Museum, the audience for being here. And Benton Jones. All the work that he's done on this project for the theater is amazing. And to allow us to come here today is just a delight, because I believe it was 2,002 was my 1st exhibit here at the Museum, and it was actually in this room. So we've come full circle. And that show, too, was also digital art.
 
-Hello, everyone again I'm back.
+That was my night driving series of embedded stories into prints. There's some people that haven't been mentioned here today, and that's I'd like to go through them. Yuka Sao is the curator for the 150 Mediastream project. We thank her immensely for her support through this project, because, like Renata said, it has a super challenge for us to do technologically, and the opportunity to view our work on 150 foot video wall by 22 feet high is just amazing.
 
-It was a real pleasure to do this project, and, like Renata said in the very beginning, a super challenge technologically, for us artists to be able to create this giant space. And there are a few people I know. We've thanked the Museum, the audience for being here.
+The other person is David Bloom. David Bloom is the producer for our team. He's the 1st person, maybe the 1st contact to 150 mediastream. So we thank David immensely for all his support. In fact. Photo you're looking at right now probably is one of his, because he would drive in from Chicago a couple hours away and take pictures for us over this two-year development when the tests were going up on the screen. So thank you, David. And of course we thank Michael for being the host today, and all the Techspressionist artists as well as those who are here today. Perhaps in the salon who are not normal visitors. We welcome you, too.
 
-And Benton Jones. All the work that he's done on this project for the theater is amazing. And to allow us to come here today is just a delight, because I believe it was
-
-2,002 was my 1st exhibit here at the Museum, and it was actually in this room. So we've come full circle. And that show, too, was also digital art.
-
-That was my night driving series of embedded stories into prints. There's some people that haven't been mentioned here today, and that's I'd like to go through them.
-
-Yuka Sao is the curator for the 150 Mediastream project. We thank her immensely for her support through this project, because, like Renata said, it has a super challenge for us to do technologically, and the opportunity to view our work on 150 foot video wall by 22 feet high is just amazing.
-
-The other person is David Bloom. David Bloom is the producer for our team. He's the 1st person, maybe the 1st contact to 150 mediastream. So we thank David immensely for all his support. In fact.
-
-Photo you're looking at right now probably is one of his, because he would drive in from Chicago a couple hours away and take pictures for us over this two-year development when the tests were going up on the screen. So thank you, David. And of course we thank Michael for being the host today, and all the Techspressionist artists as well as those who are here today. Perhaps in the salon
-
-Who are not normal visitors. We welcome you, too.
-
-My project for 150 mediastream was titled Mccorasol, and I'll explain that in the next couple of slides
-
-This is as Renata showed a section of the piece. It's probably, you know, a short 3rd or a fat quarter of the actual length of the piece. If I put it up on the screen to show you the whole thing. It'd be a pencil line going across here. So this is a zoom in on the artwork, and also the music is by Nancy Tucker, who does all the music for my moving image artworks.
+My project for 150 mediastream was titled Mccorasol, and I'll explain that in the next couple of slides this is as Renata showed a section of the piece. It's probably, you know, a short 3rd or a fat quarter of the actual length of the piece. If I put it up on the screen to show you the whole thing. It'd be a pencil line going across here. So this is a zoom in on the artwork, and also the music is by Nancy Tucker, who does all the music for my moving image artworks.
 
 She's an amazing composer.
 
@@ -548,91 +260,27 @@ Oh.
 
 A.
 
-The slide, you see here is going to explain my corasol
+The slide, you see here is going to explain my corasol On the top right, these little white drawing lines, those are actually mycelium, and they're little tiny roots in all our soil under every plant that attach themselves to the roots of a tree or a plant, and literally extends their root system. And when I was thinking about what is Techspressionism to me. It's the art of being able to communicate with people and to be able to discuss ideas and make these connections that just keep growing. One root connects to the next to the next to the next. So the red lines you see dancing across your screen are my abstract interpretation. They literally grow across the screen On the piece, but the piece comes into 150 media stream black screen, and the silver disc you see down there on the lower left runs across the screen all the way up the 150 foot, backs up a little bit, and then presents the piece. So here's the beginning here In slow motion, very slow motion, so that you can see how things are actually growing as they come across the screen.
 
-On the top right, these little white drawing lines, those are actually mycelium, and they're little tiny roots in all our soil under every plant that attach themselves to the roots of a tree or a plant, and literally extends their root system.
+I don't know. I don't have the little bar. This is Zoom. That's the best we can get. That's the best we can get. Zoom is blocking us today. Oh, look! It's making me do. It Wouldn't let us advance last time. Thank you. It's annoying me, too, on the screen. And then down below would be the full 150 foot, and then a little more, because I didn't put all of it on the screen. It's about 80%. See? Now, I'm stuck in zoom. Get it out. Is that the end of the presentation? No, stop share. Yeah.
 
-And when I was thinking about what is Techspressionism to me. It's the art of being able to communicate with people and to be able to discuss ideas and make these connections that just keep growing. One root connects to the next to the next to the next. So the red lines you see dancing across your screen are my abstract interpretation. They literally grow across the screen
-
-On the piece, but the piece comes into 150 media stream black screen, and the silver disc you see down there on the lower left runs across the screen all the way up the 150 foot, backs up a little bit, and then presents the piece. So here's the beginning here
-
-In slow motion, very slow motion, so that you can see how things are actually growing as they come across the screen.
-
-I don't know. I don't have the little bar. This is Zoom.
-
-That's the best we can get. That's the best we can get. Zoom is blocking us today. Oh, look! It's making me do. It
-
-Wouldn't let us advance last time. Thank you.
-
-It's annoying me, too, on the screen.
-
-And then down below would be the full 150 foot, and then a little more, because I didn't put all of it on the screen. It's about 80%.
-
-See? Now, I'm stuck in zoom.
-
-Get it out. Is that the end of the presentation? No, stop share.
-
-Yeah.
-
-It's me, is it this one
-
-I'm trying to find the presentation
-
-Share first, st and then that's what I'll do.
-
-Try it again.
+It's me, is it this one. I'm trying to find the presentation. Share first, st and then that's what I'll do. Try it again.
 
 Hang on, guys. We're balancing about 6 technologies here.
 
-And let's see if I can go back to zoom
+And let's see if I can go back to zoom and trick zoom into C. Now you got to trick it. So it sees it again. Okay? Flip.
 
-And trick zoom into C. Now
+There we go. When we started this project. The 1st thing that was sent to us is the gray template that you see on the top. And Renata talked a little bit about the challenges in doing this project. And you know, when we got these file sizes, of course, we were all concerned about that. But then we realized that some softwares we can type in 15,360 pixels. But when you go to rip the file, ie. Make the final movie and actually made it a different shape than was on the wall. So for myself, I had to experiment with like 3 different softwares, in order to be able to find one that I could do one part of my piece in, and then switch it over to another part and keep jumping back and forth between softwares. So this was not only a challenge to get the whole piece of 4.
 
-You got to trick it. So it sees it again.
+It's 8 min, I believe, a little over 8 min between 2 min for each artist to get and knit that together into one exhibit. But it was also a challenge individually with our own software on our desktops. And then you see the full 150 feet image that I worked with in the center, and then at the bottom is that gray template dropped over the top, so it really cuts down your vision of what you're creating. So you're constantly jumping back and forth between what you're creating and then dropping this template over the things that you want to appear on the screen. And this is my last slide for the presentation.
 
-Okay?
+The one on the right we just received along with the drone footage. This is my piece at night on the video wall. Which is really dramatic. I love this shot, but if you notice in the right-hand side that color piece on the left-hand side of that colored image. There are these white lines that are kind of streaking in across, and they almost touch the little orange globe in the red ring on the left. Now look at the full left, and there are many people in this audience who knows Philip Piper. Philip Piper was my husband. For over 30 years. He passed away way too young at about 50 years old, an absolutely brilliant artist, and the reason that I selected different parts and pieces of his little white sketches here to embed within my 150 media stream Artwork, is that, Phil? His whole life was a very early transplant patient. So he spent 17 and a half years on dialysis, etc, and yet he still created beautiful work which is in the collection here at the Museum.
 
-Flip.
-
-There we go.
-
-When we started this project.
-
-The 1st thing that was sent to us is the gray template that you see on the top. And Renata talked a little bit about the challenges in doing this project. And you know, when we got these file sizes, of course, we were all concerned about that. But then we realized that some softwares we can type in 15,360 pixels.
-
-But when you go to rip the file, ie. Make the final movie and actually made it a different shape than was on the wall. So for myself, I had to experiment with like 3 different softwares, in order to be able to find one that I could do one part of my piece in, and then switch it over to another part and keep jumping back and forth between softwares. So this was not only a challenge to get the whole piece of 4.
-
-It's 8 min, I believe, a little over 8 min between 2 min for each artist to get and knit that together into one exhibit. But it was also a challenge individually with our own software on our desktops.
-
-And then you see the full 150 feet image that I worked with in the center, and then at the bottom is that gray template dropped over the top, so it really cuts down your vision of what you're creating. So you're constantly jumping back and forth between what you're creating and then dropping this template over the things that you want to appear on the screen.
-
-And this is my last slide for the presentation.
-
-The one on the right we just received along with the drone footage. This is my piece at night on the video wall.
-
-Which is really dramatic. I love this shot, but if you notice in the right-hand side that color piece on the left-hand side of that colored image. There are these white lines that are kind of streaking in across, and they almost touch the little orange globe in the red ring on the left.
-
-Now look at the full left, and there are many people in this audience who knows Philip Piper. Philip Piper was my husband. For over 30 years. He passed away way too young at about 50 years old, an absolutely brilliant artist, and the reason that I selected different parts and pieces of his little white sketches here to embed within my 150 media stream
-
-Artwork, is that, Phil? His whole life was a very early transplant patient. So he spent 17 and a half years on dialysis, etc, and yet he still created beautiful work which is in the collection here at the Museum.
-
-But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago.
-
-So for me
-
-Personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there
-
-This part of the presentation.
-
-And we're going to go online
-
-To Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
+But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago. So for me Personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there this part of the presentation. And we're going to go online. To Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
 
 ## Michael Pierre Price [57:59](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3479s)
 
-Thank you, Karen.
-
-So I want to introduce
+Thank you, Karen. So I want to introduce
 
 ## Cape Cod Museum of Art [58:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3482s)
 
@@ -640,19 +288,11 @@ Cool and
 
 ## Michael Pierre Price [58:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3486s)
 
-Jan Swinburne intermediate practice overlaps images, sculpture, and experimental moving image art in 2 streams.
-
-Gallery-oriented exhibitions and time-based experimental forms.
-
-Her thematic focus revolves around speech, languages, landscape degenerated and regenerated images and sounds.
-
-Jan lives in Toronto. Welcome, Jan.
+Jan Swinburne intermediate practice overlaps images, sculpture, and experimental moving image art in 2 streams. Gallery-oriented exhibitions and time-based experimental forms. Her thematic focus revolves around speech, languages, landscape degenerated and regenerated images and sounds. Jan lives in Toronto. Welcome, Jan.
 
 ## Jan Swinburne [58:38](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3518s)
 
-Hi, Michael! I'll just pull up my screen share and hope it works.
-
-Just give me a second here.
+Hi, Michael! I'll just pull up my screen share and hope it works. Just give me a second here.
 
 Okay, we don't need this every. Can you see that
 
@@ -662,97 +302,25 @@ Yes.
 
 ## Jan Swinburne [58:58](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3538s)
 
-Alright. Let's see if we can make this go.
+Alright. Let's see if we can make this go. You have a second to click on. Okay, so my piece I thought maybe I'd talk a little bit about My work and how this Came about. I'm interested in in making the invisible visible. And that's something that technology can definitely help with so sonic flight is an iterative project that began with An image of the sound of a war jet, a waveform that flew over my house, and it was shocking to me that the waveform actually looked a bit like the jet plane, so that made me very interested.
 
-You have a second to click on. Okay, so my piece I thought maybe I'd talk a little bit about
+In sort of translating this. And so I used that project for the 1 50 media stream. And you can see here one of the shots of the process is still. And you see this form. And this is the actual sound of the jet going over that I've Translated numerous times, which I think I'm going to take you right to the end, and then hopefully go back and show you how this was evolved. I was interested in in it. The fact that it was a war jet, too, and like translating something in that manner in the context of this large scale thing, where you'd have kind of this peaceful experience of something that is usually kind of Boggling and sort of disruptive. So I'm just gonna shoot ahead to Okay, this is a detail of what one of the original iterations. And I just wanted to you to get the close-up view of the feathery sort of things happening. And that motion that isn't won't be apparent unless you're actually at the site.
 
-My work and how this
+So it's just kind of a nice detail of sort of how this goes. This one is I exhibited here in Toronto. And it's it's sonic flight hover in place. And I'm gonna go back to The beginnings. Actually, I wanted to show you where this started. Okay, this this is the image of the the jet that flew over my house, and this is exactly what I've taken, and then translated 1st 1st iteration and into a still. And then I think this moves if it will go, maybe. Nope, oh, yeah, there we go.
 
-Came about. I'm interested in in making the invisible visible. And that's something that technology can definitely help with
+And that was like an early iteration of just the animation and getting it going. And then this is the second transformation. Let's see if this. Where it's a little bit more refined. And then go back. This was the 1st actual time based video that I made with the piece. And it's just a short clip. And I sort of imagined sound traveling through space. And you know, what does this mean? And it's interesting that you know, this machine may ended up sort of making this Organic looking form through technology, which is something I found really interesting as well. So this was just the very beginnings of this project. Actually, let me take that back.
 
-So sonic flight is an iterative project that began with
+And then I showed you this for the detail. I think this is, you know, that's the still actually. So that just gives you some idea of where this comes from this one is, that's the moving. And okay, go back. One more. Okay. And then we came to this project. Which, as everyone has said, was like technically one of the most challenging projects I've ever encountered. Also working at a distance and not just being able to pop down and see how the the screen would translate the image. But this still sort of captures some of the nice details.
 
-An image of the sound of a war jet, a waveform that flew over my house, and
+The led sort of washes out, I think some of the yellow colors. But it's hard to tell, because I'm seeing everything translated and translated and translated, which actually kind of fits with this work, because it is multiple translations of this image. I also did the soundtrack for this as well. So there's the actual in the very beginning. The harsh jet sound, and then translates into this image of, you know, this slow travel across time of this thing, and you know hopefully, it is a very peaceful experience for people, and it's just something calm and kind of mysterious for the viewer. But, as Colin said, you know, they complete the work.
 
-It was shocking to me that the waveform actually looked a bit like the jet plane, so that made me very interested.
+And this is.
 
-In sort of translating this.
+View. At night.
 
-And so I used that project for the 1 50 media stream.
+There's again a still at night Sort of gives you an idea of the scale as well, which is always a good thing. And I really consider this space, too, because that was another interesting challenge with this project because of the building that it's in that there's a lot of considerations as to the The management and what the management and the the clients or members and people who work there could also live with for 2 months as well. So there had to be sensitivity towards the space and sort of you know how activated or unactivated the sound, the sound quality, whether things were moving quickly or not.
 
-And you can see here one of the shots of the process is still. And you see this form.
-
-And this is the actual sound of the jet going over that I've
-
-Translated numerous times, which I think I'm going to take you right to the end, and then hopefully go back and show you how this was evolved. I was interested in in it. The fact that it was a war jet, too, and like translating something in that manner in the context of this large scale thing, where you'd have kind of this peaceful experience of something that is usually kind of
-
-Boggling and sort of disruptive. So I'm just gonna shoot ahead to
-
-Okay, this is a detail of what one of the original iterations. And I just wanted to you to get the close-up view of the feathery sort of things happening. And that motion that isn't won't be apparent unless you're actually at the site.
-
-So it's just kind of a nice detail of sort of how this goes. This one is I exhibited here in Toronto. And it's it's sonic flight hover in place. And I'm gonna go back to
-
-The beginnings. Actually, I wanted to show you where this started.
-
-Okay, this this is the image of the the jet that flew over my house, and this is exactly what I've taken, and then translated
-
-1st 1st iteration and into a still.
-
-And then I think this moves if it will go, maybe.
-
-Nope, oh, yeah, there we go.
-
-And that was like an early iteration of just the animation and getting it going.
-
-And then this is the second transformation. Let's see if this
-
-Where it's a little bit more refined. And then go back.
-
-This was the 1st actual time based video that I made with the piece.
-
-And it's just a short clip. And I sort of imagined sound traveling through space. And you know, what does this mean? And it's interesting that you know, this machine may ended up sort of making this
-
-Organic looking form through technology, which is something I found really interesting as well. So
-
-This was just the very beginnings of this project. Actually, let me take that back.
-
-And then I showed you this for the detail.
-
-I think this is, you know, that's the still actually.
-
-So that just gives you some idea of where this comes from this one is, that's the moving.
-
-And okay, go back. One more.
-
-Okay. And then we came to this project.
-
-Which, as everyone has said, was like technically one of the most challenging projects I've ever encountered. Also working at a distance and not just being able to pop down and see how the the screen would translate the image. But this still sort of captures some of the nice details.
-
-The led sort of washes out, I think some of the yellow colors. But it's hard to tell, because I'm seeing everything translated and translated and translated, which actually kind of fits with this work, because it is multiple translations of this image. I also did the soundtrack for this as well. So there's the actual in the very beginning.
-
-The harsh jet sound, and then translates into
-
-This image of, you know, this slow travel across time of this thing, and you know hopefully, it is a very peaceful experience for people, and it's just something calm and kind of mysterious for the viewer. But, as Colin said, you know, they complete the work.
-
-And this is
-
-View. At night
-
-There's again a still at night
-
-Sort of gives you an idea of the scale as well, which is always a good thing.
-
-And I really consider this space, too, because that was another interesting challenge with this project because of the building that it's in that there's a lot of considerations as to the
-
-The management and what the management
-
-And the the clients or members and people who work there could also live with for 2 months as well. So there had to be sensitivity towards the space and sort of you know how activated or unactivated the sound, the sound quality, whether things were moving quickly or not.
-
-Which was all really interesting from my point of view, to work with technically, and
-
-It took a while. So I think that's it
-
-For me. Let me just escape
+Which was all really interesting from my point of view, to work with technically, and it took a while. So I think that's it For me. Let me just escape
 
 ## Cape Cod Museum of Art [01:06:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3979s)
 
@@ -760,15 +328,7 @@ And stop my share.
 
 ## Jan Swinburne [01:06:26](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3986s)
 
-And I really wanted to thank everyone for having us today and
-
-My colleagues for helping out so much and being part of this project. It's been
-
-Extremely exciting. And the Curator and David
-
-And 1 50 media stream for having us. I think it's been really great. So
-
-That's it for me. Thanks
+And I really wanted to thank everyone for having us today and My colleagues for helping out so much and being part of this project. It's been Extremely exciting. And the Curator and David and 1 50 media stream for having us. I think it's been really great. So That's it for me. Thanks
 
 ## Cape Cod Museum of Art [01:06:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4013s)
 
@@ -782,133 +342,39 @@ What a wonderful project! I'm gonna hand it back to Cape Cod.
 
 ## Cape Cod Museum of Art [01:07:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4026s)
 
-Great thanks, Michael. So the show in Chicago opens on April 28, th
+Great thanks, Michael. So the show in Chicago opens on April 28, th and that's at 1 50 North Riverside Drive, in Chicago. The show in Chelsea opens April 30.Th So we have overlapping exhibitions, and the next salon is actually going to be broadcast from Chicago. I'm going to be down there moderating that with the curator, Yuga, and the other 3 artists, Karen, Renata and Jan, are going to be zooming in, so we'll be on site, or I'll be on site and be able to give a little walkthrough live.
 
-And that's at 1 50 North Riverside Drive, in Chicago.
+And that's going to be on the 1st Thursday of May at noon. So at this point. We're going to open it up for some Q&A, and we're going to have 2 pieces of it, one for the offline audience and one for the online audience. So if you guys have any questions, feel free to raise your hand and let me get the microphone for you, they won't hear you online. You say, Wall, but it seems to be in little panels. So as someone who's a technical idiot, could you explain the panels that it seems to appear on. Thank you. I think that was the choice of the designer of the installation itself. An architect who's from Chicago Rather than have a screen, he decided to make a big picket fence. So that was the artistic decision of the architect who made the model for this. And then every artist who's been invited to show has had to contend with the shape. Also the it's, you know. It's like going and seeing a picture of a Grand Canyon. We can't really explain the size of this space, but it is a huge atrium walkthrough, I mean, the ceilings are Double triple the size of the 22 foot high screen. It's all glass, and the whole building in Chicago is cantilevered at the bottom. And so all this light comes in, and I think the designer and everybody wanted to keep that light airiness within the space. And so each one of those blades is an individual monitor. So there's a lot of coordination going on here. Do you want to say anything?
 
-The show in Chelsea opens April 30.Th So we have overlapping exhibitions, and the next salon is actually going to be broadcast from Chicago. I'm going to be down there moderating that with the curator, Yuga, and the other 3 artists, Karen, Renata and Jan, are going to be zooming in, so we'll be on site, or I'll be on site and be able to give a little walkthrough live.
+No, I think that was a pretty good explanation. Do we have any other questions from the live audience here while we're talking about that screen you mentioned, the audio is playing, and I'm also curious. What is the lobby? What is that? The building, for it looks like that's the lobby. And there's 2 reception desks. What is there a technology related purpose for the building? I believe it's mostly businesses that are housed there, corporate clients. And they're actually the people who fund the exhibition platform like pay for the screens and the setup and everything else like that. And I think it's also the headquarters of One of the large hotel chains. They also pay the artists as well. Yeah, actually, that's another thing that's important to note is that this was a commission. So we actually got paid by 150 mediastream to create our work, which is amazing and are even working with a Pr person where there was a budget that was also afforded by 150 mediastream. So it's really an amazing opportunity for us as artists, to be able to produce work on this scale, and also to be able to get compensated for it and get it out there in the world, and also to give Techspressionism a platform Both in real life and through this presentation.
 
-And that's going to be on the 1st Thursday of May at noon.
+Absolutely. I had another question. Sure you know how much storage did you need? What type of laptop or desktop did you have to use? I mean, I know if I'm making a movie, there's a hell of a lot of storage. So what you know how many gigabytes tell us a little bit about that. If you could. Well, all 3 of us are unashamed apple users, and we all have, I believe, an m. 1 Machine. I actually composited the work together from the different artists in final cut. And Geez, I'm not even sure exactly how many gigs it ended up being, but quite a large file. And yeah, I'm not even sure exactly how big it was, but it was a large file. It's hard to say how large, because all our files were different. We all had different technologies. Some people knew how to compress large files.
 
-So at this point. We're going to open it up for some Q&A, and we're going to have 2 pieces of it, one for the offline audience and one for the online audience. So if you guys have any questions, feel free to raise your hand and let me get the microphone for you, they won't hear you online.
+But may not have had the power to do it, so they'd help the people who had the power to do it, to be able to compress the file in the end. Some people helped other artists within the group to knit their pieces together, because if you couldn't put that much data across 15, 1,360 pixels across, and actually make the thing move. Then the artist would create 4 separate 4 K films, and then they all have to be knitted together. So each one of the artists within the group our files kept passing around to. Who had the capability?
 
-You say, Wall, but it seems to be in little panels. So as someone who's a technical idiot, could you explain the panels that it seems to appear on. Thank you. I think that was the choice of the designer of the installation itself. An architect who's from Chicago
+Any other questions, Cynthia. Thank you. I want to say hello to the Techspressionists over at the salon. I'm thrilled to be here today to witness this event, and I would like to say, ask the question of Renata and Karen Your piece, the interrupted wave. Can you tell us How that came about in terms of concept and putting your 2 pieces together, which I'm sure has to be a challenge. Well, we worked together from the very beginning of the project. We talked a lot every month. We talked for 2 and a half hours minimum.
 
-Rather than have a screen, he decided to make a big picket fence. So that was the artistic decision of the architect who made the model for this. And then every artist who's been invited to show has had to contend with the shape.
+And we prepared for those meetings by creating work. A lot of the work we created never made it into the final cut. But the concept was partly because of the environment that the Cape Cod Museum of Art inhabits. We wanted to make a piece that had a meaning for Cape Cod residents, and Karen grew up. Had a boat of her own when she was quite young here, and is very, very familiar with the marshes and the coasts, and she also collaborated with Lucas. So that was another Part of the piece, so we had to decide I would do myth, I would do.
 
-Also the it's, you know. It's like going and seeing a picture of a Grand Canyon. We can't really explain the size of this space, but it is a huge atrium walkthrough, I mean, the ceilings are
+Mariana was the ocean seen through the lens of mythology and Mariana, for Karen was seen through the lens of science. And I think you know a little bit about that part. Yeah. We came together a couple of things. When Renard and I were putting this together. It evolved. Benton knows this. It took a while to come to a theme because we wanted to create a piece that wasn't separate, but was an actual whole concept. And you kind of think like when you look at the beach, you know it technically. I mean, you know, the moon pulls the tides and all of that. But if you jump off a boat in the middle of the ocean.
 
-Double triple the size of the 22 foot high screen. It's all glass, and the whole building in Chicago is cantilevered at the bottom. And so all this light comes in, and I think the designer and everybody wanted to keep that light airiness within the space. And so each one of those blades is an individual monitor. So there's a lot of coordination going on here. Do you want to say anything?
+There's that mystery. What's down there? And that was the side that Renata was working with the emotional side. I was working on the science side. So it's kind of an umbrella of our own reactions to the ocean. I also worked with a group out of Rhode Island. The Rhode Island Art League has a program called Synergy and Synergy. Once a year, matches, artists and scientists together, and you work with the scientists all year long. You study, you know their technologies, what their whole projects, and then you interpret their projects and their data, which is not easy.
 
-No, I think that was a pretty good explanation. Do we have any other questions from the live audience here while we're talking about that screen you mentioned, the audio is playing, and
+Cynthia's part of this project, too, that just asked the question. And you get to know the ocean from the scientist's point of view, and you create an artwork with them together that goes on. Exhibit. This is where Lucas Tanza came in, and I worked with Lucas Tanza on eddies and water body boundaries. Where we look at the ocean it looks like one large pond of water, but it isn't. They're separate water bodies, and along the edges, little eddies and whirlpools start, and there's nutrients and things that cross on these little whirlpools, and that's what they're studying. So when you saw the trailer, you might have seen swirling motions. So that's from Lucas's study.
 
-I'm also curious. What is the lobby? What is that? The building, for it looks like that's the lobby. And there's 2 reception desks. What is there a technology related purpose for the building?
+I also want to note that the the person asking the question is, Cynthia DiDonato is also an active member of the group, and Cynthia, along with another Cynthia, Cynthia Beth Rubin, who's curating and leading the show to Uzbekistan. They created. An ongoing series called the Techspressionism Co-working, in which, on the I guess every it's every Tuesday at noon, artists can get together online and just create work, discuss it. And that's also something that's completely open to the public and free. And there's a registration for that on the homepage of Techspressionism.Com On the homepage. You could also find the registration for the upcoming salon, so I invite everybody to join us. I think we have time for maybe one more in-person question. And then we're going to switch to the online audience. The salon might go a little past the hour and a half Time that we usually do. But I think that's okay. So are there any other questions from the audience here at the Museum?
 
-I believe it's mostly businesses that are housed there, corporate clients. And they're actually the people who fund the exhibition platform like pay for the screens and the setup and everything else like that. And I think it's also the headquarters of
+I was just curious about 1st of all, the work is fabulous and beautiful to all of you. Really incredible work! What various softwares are you working with for animation? And just curious because it's so involved and intricate. Well, I'll start, I guess, in my piece for the Chicago show. I use a program primarily a program called Adobe Animate. So the initial drawings were done in illustrator, which I use for pretty much all of my work, and then that easily imports into adobe animate, which is actually the current Incarnation of a program called Flash, which became popular in the 19 nineties for web animation. So that same program, you know, evolved into what's now adobe animate. But they're basically the same program, and that uses an approach called Tweening, in which the different elements would be positioned in a certain way. And then down the road in the timeline.
 
-One of the large hotel chains. They also pay the artists as well. Yeah, actually, that's another thing that's important to note is that this was a commission. So we actually got paid by 150 mediastream to create our work, which is amazing
+You can move them, and it creates all the the movement in between. So that's what what I use. I start all my work, all my moving image work starts with a still painting. So I make my still paintings on an ipad pro with a stylus using software called adobe fresco, which, by the way, is a free app. You can try it. It's in the app store if you have an apple device, and no, I don't. I'm not getting paid by apple, but that's where it starts. And then I put it through software, different Types of software, keynote, glitch effect glitche. And I move them in and out of them, so it might pass 3 times or 4 times until it gets into the editing software. And that's where I finalize it, and I add the soundtrack.
 
-And are even working with a Pr person where there was a budget that was also afforded by 150 mediastream. So it's really an amazing opportunity for us as artists, to be able to produce work on this scale, and also to be able to get compensated for it and get it out there in the world, and also to give Techspressionism a platform
-
-Both in real life and through this presentation.
-
-Absolutely. I had another question. Sure
-
-You know how much storage did you need? What type of laptop or desktop did you have to use? I mean, I know if I'm making a movie, there's a hell of a lot of storage. So what you know how many gigabytes tell us a little bit about that. If you could. Well, all 3 of us are unashamed apple users, and we all have, I believe, an m. 1
-
-Machine. I actually composited the work together from the different artists in final cut. And
-
-Geez, I'm not even sure exactly how many gigs
-
-It ended up being, but quite a large file. And yeah, I'm not even sure exactly how big it was, but it was a large file. It's hard to say how large, because all our files were different. We all had different technologies. Some people knew how to compress large files.
-
-But may not have had the power to do it, so they'd help the people who had the power to do it, to be able to compress the file in the end. Some people helped other artists within the group to knit their pieces together, because if you couldn't put that much data across 15,
-
-1,360 pixels across, and actually make the thing move. Then the artist would create 4 separate 4 K films, and then they all have to be knitted together. So each one of the artists within the group our files kept passing around to. Who had the capability?
-
-Any other questions, Cynthia.
-
-Thank you. I want to say hello to the Techspressionists over at the salon. I'm thrilled to be here today to witness
-
-This event, and I would like to say, ask the question of Renata and Karen
-
-Your piece, the interrupted wave. Can you tell us
-
-How that came about in terms of concept and putting your 2 pieces together, which I'm sure has to be a challenge. Well, we worked together from the very beginning of the project.
-
-We talked a lot every month. We talked for 2 and a half hours minimum.
-
-And we prepared for those meetings by creating work. A lot of the work we created never made it into the final cut.
-
-But the concept was partly because of the environment that the Cape Cod Museum of Art inhabits.
-
-We wanted to make a piece that had a meaning for Cape Cod residents, and Karen grew up.
-
-Had a boat of her own when she was quite young here, and is very, very familiar with the marshes and the coasts, and she also collaborated with Lucas. So that was another
-
-Part of the piece, so we had to decide I would do myth, I would do.
-
-Mariana was the ocean seen through the lens of mythology and Mariana, for Karen was seen through the lens of science. And I think you know a little bit about that part.
-
-Yeah. We came together a couple of things. When Renard and I were putting this together. It evolved. Benton knows this. It took a while to come to a theme because we wanted to create a piece that wasn't separate, but was an actual whole concept.
-
-And you kind of think like when you look at the beach, you know it technically. I mean, you know, the moon pulls the tides and all of that. But if you jump off a boat in the middle of the ocean.
-
-There's that mystery. What's down there? And that was the side that Renata was working with the emotional side. I was working on the science side. So it's kind of an umbrella of our own reactions to the ocean.
-
-I also worked with a group out of Rhode Island. The Rhode Island Art League has a program called Synergy and Synergy. Once a year, matches, artists and scientists together, and you work with the scientists all year long. You study, you know their technologies, what their whole projects, and then you interpret their projects and their data, which is not easy.
-
-Cynthia's part of this project, too, that just asked the question.
-
-And you get to know the ocean from the scientist's point of view, and you create an artwork with them together that goes on. Exhibit. This is where Lucas Tanza came in, and I worked with Lucas Tanza on eddies and water body boundaries.
-
-Where we look at the ocean it looks like one large pond of water, but it isn't. They're separate water bodies, and along the edges, little eddies and whirlpools start, and there's nutrients and things that cross on these little whirlpools, and that's what they're studying. So when you saw the trailer, you might have seen swirling motions. So that's from Lucas's study.
-
-I also want to note that the the person asking the question is, Cynthia DiDonato is also an active member of the group, and Cynthia, along with another Cynthia, Cynthia Beth Rubin, who's curating and leading the show to Uzbekistan. They created.
-
-An ongoing series called the Techspressionism Co-working, in which, on the I guess every it's every Tuesday at noon, artists can get together online and just create work, discuss it. And that's also something that's completely open to the public and free. And there's a registration for that on the homepage of Techspressionism.Com
-
-On the homepage. You could also find the registration for the upcoming salon, so I invite everybody to join us. I think we have time for maybe one more in-person question. And then we're going to switch to the online audience. The salon might go a little past the hour and a half
-
-Time that we usually do. But I think that's okay. So are there any other questions from the audience here at the Museum?
-
-I was just curious about 1st of all, the work is fabulous and beautiful to all of you. Really incredible work! What various softwares are you working with for animation? And just curious because it's so involved and intricate.
-
-Well, I'll start, I guess, in my piece for the Chicago show. I use a program primarily a program called Adobe Animate. So the initial drawings were done in illustrator, which I use for pretty much all of my work, and then that easily imports into adobe animate, which is actually the current
-
-Incarnation of a program called Flash, which became popular in the 19 nineties for web animation. So that same program, you know, evolved into what's now adobe animate. But they're basically the same program, and that uses an approach called Tweening, in which the different elements would be positioned in a certain way. And then down the road in the timeline.
-
-You can move them, and it creates all the the movement in between. So that's what what I use.
-
-I start all my work, all my moving image work starts with a still painting. So I make my still paintings on an ipad pro with a stylus using software called adobe fresco, which, by the way, is a free app. You can try it. It's in the app store if you have an apple device, and no, I don't. I'm not getting paid by apple, but that's where it starts. And then I put it through software, different
-
-Types of software, keynote, glitch effect glitche. And I move them in and out of them, so it might pass 3 times or 4 times until it gets into the editing software. And that's where I finalize it, and I add the soundtrack.
-
-And for my process it's totally different. I start with a drawing, and then the drawing goes into Photoshop Photoshop is where all the color work happens.
-
-Then within Photoshop I take my drawing apart to every little dot and squiggle that's in the drawing, so that they're all in separate layers.
-
-Those separate layers get imported into motion.
-
-That's where the basic animation starts. And then from there it goes to final cut pro in order to render the clips together into a film. If there's an effect that I cannot get in those softwares, I will use blender. I will use after effects, and also cinema 4 d. And I just want to mention any of you people who want to stay around. We will be showing Mariniana in its full 20 min
-
-Exhibition mode after the we leave the salon.
-
-Yeah.
+And for my process it's totally different. I start with a drawing, and then the drawing goes into Photoshop Photoshop is where all the color work happens. Then within Photoshop I take my drawing apart to every little dot and squiggle that's in the drawing, so that they're all in separate layers. Those separate layers get imported into motion. That's where the basic animation starts. And then from there it goes to final cut pro in order to render the clips together into a film. If there's an effect that I cannot get in those softwares, I will use blender. I will use after effects, and also cinema 4 d. And I just want to mention any of you people who want to stay around. We will be showing Mariniana in its full 20 min Exhibition mode after the we leave the salon. Yeah.
 
 And I guess we go back. Jen, do you want to say a few words about your process as well
 
 ## Jan Swinburne [01:20:52](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4852s)
 
-Yeah, I I'm very interested in taking images apart and working with low resolution
-
-And then transforming them. So in this instance, it was the still that I ended up animating which I touched on. But in my other work is general. You know it's it's generally I degrade images and change them through various apps, like
-
-So many old ones, new ones, and kind of end up with
-
-The, you know the this result in this case, and in other cases, you know, it's work with sound waves. So
-
-That's it. Basically
+Yeah, I I'm very interested in taking images apart and working with low resolution and then transforming them. So in this instance, it was the still that I ended up animating which I touched on. But in my other work is general. You know it's it's generally I degrade images and change them through various apps, like so many old ones, new ones, and kind of end up with The, you know the this result in this case, and in other cases, you know, it's work with sound waves. So That's it. Basically
 
 ## Cape Cod Museum of Art [01:21:39](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4899s)
 
@@ -916,47 +382,23 @@ Alright awesome. Well, I think what we're gonna do now is switch to the online a
 
 ## Michael Pierre Price [01:22:05](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4925s)
 
-Alright. Great also. If if you're familiar using the raise hand symbol from zoom, that would be great. And I see I'm gonna pick Alan Hirsch first, st
-
-Since he's had his hand raised for a little while
+Alright. Great also. If if you're familiar using the raise hand symbol from zoom, that would be great. And I see I'm gonna pick Alan Hirsch first, st Since he's had his hand raised for a little while
 
 ## Allen Hirsh [01:22:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4940s)
 
-Thanks, Alan.
+Thanks, Alan. All right. So I'm I'm calling from Chevy Chase, Maryland, just north of the DC. Line. I have just a couple of simple questions. I just became aware of this group. I'm a scientist, but and I'm also a mathematical artist. So what you see behind my head is all done with a giant mathematical program that I've written myself, and I manipulate everything, Pixel, by Pixel. So it's pretty unusual. And I'd like to become an active member of the group, and I don't entirely. I mean, there was some mention about putting hashtags in my Instagram. I certainly have a lot of Instagram, but I don't know if there's a more direct way of doing it by going to your website or something like that.
 
-All right. So I'm I'm calling from Chevy Chase, Maryland, just north of the DC. Line.
-
-I have just a couple of simple questions. I just became aware of this group.
-
-I'm a scientist, but and I'm also a mathematical artist. So what you see behind my head is all done with a giant mathematical program that I've written myself, and I manipulate everything, Pixel, by Pixel.
-
-So it's pretty unusual.
-
-And I'd like to become an active member of the group, and I don't entirely. I mean, there was some mention about putting hashtags in my Instagram. I certainly have a lot of Instagram, but I don't know if there's a more direct way of doing it by going to your website or something like that.
-
-And people might find what I do. Pretty interesting. I also make videos of with this kind of
-
-Art behind my head, anyway. So I I that's just simply how do I become more participatory
+And people might find what I do. Pretty interesting. I also make videos of with this kind of Art behind my head, anyway. So I I that's just simply how do I become more participatory
 
 ## Cape Cod Museum of Art [01:23:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5005s)
 
-Sure, that's a good question. So definitely, I think attending the salons is the primary way that people can get involved with the group on a personal level. We also do have a Facebook group. If you go on Facebook and just search for Techspressionism, that's a place where people are encouraged to share their work, get feedback. But at the salons, you know, some of them, like, I said, are an open studios format, where
+Sure, that's a good question. So definitely, I think attending the salons is the primary way that people can get involved with the group on a personal level. We also do have a Facebook group. If you go on Facebook and just search for Techspressionism, that's a place where people are encouraged to share their work, get feedback. But at the salons, you know, some of them, like, I said, are an open studios format, where Artists are encouraged just to share whatever they have going on, or, you know, show a little bit of a survey of what they've done in the past, and I believe we have one coming up, maybe in August.
 
-Artists are encouraged just to share whatever they have going on, or, you know, show a little bit of a survey of what they've done in the past, and I believe we have one coming up, maybe in August.
-
-Oh, okay, yeah. July is going to be the next one where it's sort of free form. So a lot of those ones. You know, there'll be a moderator. I don't even know if we have a moderator sign. But maybe we will.
-
-Renata just volunteered. So you know we'll have a little notification in the kind of the announcement for the Salon that people who are interested in presenting to email Renata, and she'll sort of create a lineup
-
-In advance which makes it easier to be able to accommodate people. But certainly, you know, we invite people to share their work, and, you know, get involved that way. So there's also, I believe, on the website a tab called Community, that also includes a bunch of different ways to get involved with the, you know, with the group. So
+Oh, okay, yeah. July is going to be the next one where it's sort of free form. So a lot of those ones. You know, there'll be a moderator. I don't even know if we have a moderator sign. But maybe we will. Renata just volunteered. So you know we'll have a little notification in the kind of the announcement for the Salon that people who are interested in presenting to email Renata, and she'll sort of create a lineup In advance which makes it easier to be able to accommodate people. But certainly, you know, we invite people to share their work, and, you know, get involved that way. So there's also, I believe, on the website a tab called Community, that also includes a bunch of different ways to get involved with the, you know, with the group. So
 
 ## Allen Hirsh [01:25:01](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5101s)
 
-Just say, say one more thing.
-
-I've got a a digital piece in the dreamscapes
-
-Show coming up at the Museum where you are
+Just say, say one more thing. I've got a a digital piece in the dreamscapes Show coming up at the Museum where you are
 
 ## Cape Cod Museum of Art [01:25:11](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5111s)
 
@@ -968,11 +410,7 @@ I work right in the museum
 
 ## Cape Cod Museum of Art [01:25:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5114s)
 
-Fantastic. Well, that that's awesome, very cool. And I think that after
-
-The Chicago salon next month, that's when the
-
-The Open Studios is going to be. And the one after that, I think, is code based work, creative coding. Yeah. And the artists for that one have already been sort of curated by Renata. And that should be a really interesting salon as well. It's artists working with algorithmic art and things of that nature. So
+Fantastic. Well, that that's awesome, very cool. And I think that after The Chicago salon next month, that's when the The Open Studios is going to be. And the one after that, I think, is code based work, creative coding. Yeah. And the artists for that one have already been sort of curated by Renata. And that should be a really interesting salon as well. It's artists working with algorithmic art and things of that nature. So
 
 ## Michael Pierre Price [01:25:48](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5148s)
 
@@ -992,9 +430,7 @@ Okay.
 
 ## Michael Pierre Price [01:26:24](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5184s)
 
-There is a link for the coworking group there.
-
-And if you sign up, then basically you'll be sent an email with a link to the coworking
+There is a link for the coworking group there. And if you sign up, then basically you'll be sent an email with a link to the coworking
 
 ## Allen Hirsh [01:26:36](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5196s)
 
@@ -1026,9 +462,7 @@ Doing it so well
 
 ## Cape Cod Museum of Art [01:27:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5228s)
 
-And one other thing, Alan, that just came to mind is that you know, if you have any ideas about activities like
-
-Maybe putting a show together or creating some other kinds of initiatives like that certainly encouraged all these different things like the co-working and the show in Uzbekistan. Tommy's exhibitions in Brooklyn and Chelsea were all things that they just came up with and organized themselves. So people, you know, and I personally encourage people to be proactive use Techspressionism as a way to put things together, that you're interested in
+And one other thing, Alan, that just came to mind is that you know, if you have any ideas about activities like Maybe putting a show together or creating some other kinds of initiatives like that certainly encouraged all these different things like the co-working and the show in Uzbekistan. Tommy's exhibitions in Brooklyn and Chelsea were all things that they just came up with and organized themselves. So people, you know, and I personally encourage people to be proactive use Techspressionism as a way to put things together, that you're interested in
 
 ## Allen Hirsh [01:27:46](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5266s)
 
@@ -1036,9 +470,7 @@ Thank you.
 
 ## Michael Pierre Price [01:27:48](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5268s)
 
-Any other questions.
-
-Anyone.
+Any other questions. Anyone.
 
 ## Cape Cod Museum of Art [01:27:55](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5275s)
 
@@ -1046,9 +478,7 @@ I see that Patrick is here. I don't know if you want to say a couple words as a 
 
 ## patrick lichty [01:28:03](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5283s)
 
-Oh, okay, yeah. Hi, I'm Patrick. I've been in digital media for
-
-How long? Colin? Maybe 30, 35 years. I'm not sure. So
+Oh, okay, yeah. Hi, I'm Patrick. I've been in digital media for How long? Colin? Maybe 30, 35 years. I'm not sure. So
 
 ## Cape Cod Museum of Art [01:28:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5293s)
 
@@ -1056,13 +486,7 @@ Longer than I've known you. That's
 
 ## patrick lichty [01:28:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5294s)
 
-Okay, okay, yeah. And
-
-Well, maybe I don't know. But yeah, we we Colin gave me a call and said, we, yeah, we've known each other for a long, long time since mid 2 thousands said,
-
-You know, you like collectives. And that and said, and actually, it's kind of funny is that one of my early influences was Vasi Kandinsky, one of the original expressionists and that sort of thing. So he said, You know, what do you think about something that addresses, you know, expressionism and and digital art and that sort of thing? I said, Yeah, let's let's let's give it a shot, and although a lot of my
-
-School schedule doesn't allow me to be that active in that sort of thing, because it's usually during the times of the salons and that sort of thing. It's really kind of interesting how you know this. This project has, you know, ballooned as much as it is, and I think it kind of says you know a lot, for you know I'd say people's generosity. I don't know what. What do you think, Colin
+Okay, okay, yeah. And Well, maybe I don't know. But yeah, we we Colin gave me a call and said, we, yeah, we've known each other for a long, long time since mid 2 thousands said, you know, you like collectives. And that and said, and actually, it's kind of funny is that one of my early influences was Vasi Kandinsky, one of the original expressionists and that sort of thing. So he said, You know, what do you think about something that addresses, you know, expressionism and and digital art and that sort of thing? I said, Yeah, let's let's let's give it a shot, and although a lot of my School schedule doesn't allow me to be that active in that sort of thing, because it's usually during the times of the salons and that sort of thing. It's really kind of interesting how you know this. This project has, you know, ballooned as much as it is, and I think it kind of says you know a lot, for you know I'd say people's generosity. I don't know what. What do you think, Colin
 
 ## Cape Cod Museum of Art [01:29:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5354s)
 
@@ -1070,61 +494,31 @@ Well, one thing that I think is really interesting that you've brought to the gr
 
 ## patrick lichty [01:29:30](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5370s)
 
-Yeah, yeah, I mean.
+Yeah, yeah, I mean. Yeah, if if we think about it. So you know, we, you know, we when we put this thing together, I say, you know, technology, you know, technological expressionism. And you know to me, I thought, Okay, you know, is this is this something new or not? And on one hand, I said, because we're using something that uses the language of art, you know of art history, I said. Probably isn't. And then, if it isn't. Then how can we think about this is that you know, if we can think about this from you know the original time of you know the expressions like Kandinsky and Kirchner and and Munch, you know the scream.
 
-Yeah, if if we think about it. So you know, we, you know, we when we put this thing together, I say, you know, technology, you know, technological expressionism.
+And then going forward to people like Jackson, Pollock and Ed Reinhard, and that sort of thing and second wave with the abstract expressionists. And then the 19 nineties, you know. You know, with the, you know, with the 3rd wave expressionists, the neo expressionists, you know. The thing is is that you know, thinking about the idea of wanting to engage us again, you know, from. You know, from a certain perspective. I think it. It made sense to me to you know that this was something that was drawing from all these things.
 
-And you know to me, I thought, Okay, you know, is this is this something new or not? And on one hand, I said, because we're using something that uses the language of art, you know of art history, I said.
-
-Probably isn't. And then, if it isn't. Then how can we think about this is that you know, if we can think about this from you know the original time of you know the expressions like Kandinsky and Kirchner and and Munch, you know the scream.
-
-And then going forward to people like Jackson, Pollock and Ed Reinhard, and that sort of thing and second wave with the abstract expressionists. And then the 19 nineties, you know. You know, with the, you know, with the 3rd wave expressionists, the neo expressionists, you know. The thing is is that you know, thinking about the idea of wanting to engage us again, you know, from.
-
-You know, from a certain perspective. I think it. It made sense to me to you know that this was something that was drawing from all these things.
-
-You know whether people thought of it as a you know, I really kind of thought more of a community than a than a movement, you know. But the thing is is that there was this intention of having you know this, this tie to, you know expressionism as such, and you know in in that way it says, Well, you know, it seems to be that you know this. This has been going long enough, and it's large, large enough. You know that. You know. It's a
-
-You know, it's it's definitely something that you know ties into that tradition and and tries to move it into. You know the it's its next wave, you know. So this is, that's my position on it.
+You know whether people thought of it as a you know, I really kind of thought more of a community than a than a movement, you know. But the thing is is that there was this intention of having you know this, this tie to, you know expressionism as such, and you know in in that way it says, Well, you know, it seems to be that you know this. This has been going long enough, and it's large, large enough. You know that. You know. It's a you know, it's it's definitely something that you know ties into that tradition and and tries to move it into. You know the it's its next wave, you know. So this is, that's my position on it.
 
 ## Cape Cod Museum of Art [01:31:16](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5476s)
 
-Thanks, Patrick. It's really, I think, very compelling way to look at it. And you know I was always uncomfortable with this idea of using that term movement as well. It made me question, What is that? You know? What does that mean? I remember asking Helen Harrison, what do you think constitutes an art movement, she said, well, movement implies momentum, you know. And she said, You guys really clearly have some sort of momentum. So I thought that was interesting, and also
-
-What I could maybe consider to be the movement piece of it is something like the hashtag being spread online where there's a core group that meets on these salons. And that's kind of the community and the artist group. And then there's all these other people adopting this term for themselves, who might not even know that there's a community behind it. So I think that it's multilayered.
+Thanks, Patrick. It's really, I think, very compelling way to look at it. And you know I was always uncomfortable with this idea of using that term movement as well. It made me question, What is that? You know? What does that mean? I remember asking Helen Harrison, what do you think constitutes an art movement, she said, well, movement implies momentum, you know. And she said, You guys really clearly have some sort of momentum. So I thought that was interesting, and also What I could maybe consider to be the movement piece of it is something like the hashtag being spread online where there's a core group that meets on these salons. And that's kind of the community and the artist group. And then there's all these other people adopting this term for themselves, who might not even know that there's a community behind it. So I think that it's multilayered.
 
 See, Steve is in here, too. Steve was at the original 1st salon, so I also would like to invite Steve to to pop on and and say a few words if you'd like Steve
 
 ## Steve Miller [01:32:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5540s)
 
-Hey, Colin? Thanks. Listen. I I don't have much to add. You guys are really well organized, and you know the way this is has grown from. You know, our conversation on the front porch to this really fleshed out international community is nothing less than amazing, and, you know, just happy to be a part of it, and you know I've made some friendships in this group, and really happy to see
-
-Where this is going to go, and it seems to keep expanding. So movement, I think, is really appropriate. It is a movement, and there is momentum and thanks. So much for inviting me
+Hey, Colin? Thanks. Listen. I I don't have much to add. You guys are really well organized, and you know the way this is has grown from. You know, our conversation on the front porch to this really fleshed out international community is nothing less than amazing, and, you know, just happy to be a part of it, and you know I've made some friendships in this group, and really happy to see Where this is going to go, and it seems to keep expanding. So movement, I think, is really appropriate. It is a movement, and there is momentum and thanks. So much for inviting me
 
 ## Cape Cod Museum of Art [01:32:58](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5578s)
 
-Awesome. Thank you, Steve. So I think maybe we're
+Awesome. Thank you, Steve. So I think maybe we're Yeah. I think we'll go to Benton now. Has some words he'd like to say to to finalize us being here, and I invite people to stay after if they wish to see Mariniana. Great. So I opened up here today, so I'll close. But yes, thank you all for being here. What an insightful and welcoming community Techspressionists have built! I love the the fact that it's a self identifying group. That really is the most inclusive way to be so. I think that's just a great way of Being inclusive and not keeping it just for yourselves.
 
-Yeah. I think we'll go to Benton now. Has some words he'd like to say to to finalize us being here, and I invite people to stay after if they wish to see Mariniana
+I did want to mention that, Karen LaFleur. We're going to use one of her A still of her moving images to blanket our elevator. And so we're going to create a vinyl image of the elevator, something like a doctor who? Where you're going into this space and and Getting transported. And so thank you very much, Karen, for that, and I'm also excited to have permission from Karen and Vernada to propose their collaborative artwork, Nuremiana, to become part of our Cape Cod Museum of Art's permanent collection.
 
-Great. So I opened up here today, so I'll close. But yes, thank you all for being here. What an insightful and welcoming community Techspressionists have built!
+We have over 2,000 artworks in our growing collection, but this will be the 1st artwork that doesn't occupy physical space. And there's many practical questions that we need to address as we move forward with this groundbreaking shift. You know questions like how you will, steward the digital asset in a way that ensures its stability and accessibility. And then what the terms? What the term ownership actually means, and who retains copyright. And and so, anyway, that could be a whole salon on its own. I think we could, and I'd love to attend that one because I have to figure this all out.
 
-I love the the fact that it's a self identifying group. That really is the most inclusive way to be so. I think that's just a great way of
-
-Being inclusive and not keeping it just for yourselves.
-
-I did want to mention that, Karen LaFleur. We're going to use one of her
-
-A still of her moving images to blanket our elevator. And so we're going to create a vinyl image of the elevator, something like a doctor who? Where you're going into this space and and
-
-Getting transported. And so thank you very much, Karen, for that, and I'm also excited to have permission from Karen and Vernada to propose their collaborative artwork, Nuremiana, to become part of our Cape Cod Museum of Art's permanent collection.
-
-We have over 2,000 artworks in our growing collection, but this will be the 1st artwork that doesn't occupy physical space. And there's many practical questions that we need to address as we move forward with this groundbreaking shift.
-
-You know questions like how you will, steward the digital asset in a way that ensures its stability and accessibility. And then what the terms? What the term ownership actually means, and who retains copyright. And and so, anyway, that could be a whole salon on its own. I think we could, and I'd love to attend that one because I have to figure this all out.
-
-So yeah, with that, I think we'll close up the the conversation for today. And I really do appreciate people traveling from afar to get here and everyone in the online community. And I look forward to being part of it. Thank you.
-
-Thank you.
+So yeah, with that, I think we'll close up the the conversation for today. And I really do appreciate people traveling from afar to get here and everyone in the online community. And I look forward to being part of it. Thank you. Thank you.
 
 ## Michael Pierre Price [01:35:44](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5744s)
 
