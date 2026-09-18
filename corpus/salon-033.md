@@ -26,7 +26,7 @@ flags:
 
 ## DAVID BLOOM [02:40](https://www.youtube.com/watch?v=dJbRASddqhg&t=160s)
 
-Okay I'm I'm DAVID BLOOM I'm located in birmingham michigan which is a suburb of detroit. I'm I'm a new artist it's really cool to be here I stumbled on technology. As a way of elevating and to and adding to and augmenting the the work that I'm doing. There there's not a huge body of work but I will kind of take you through how I got to the whole technology thing and the project that involved technology and music. And then I'll talk a little bit about the zip us up collaborative art project that we just completed in birmingham it was a national art project a collaborative public art project with 40 artists from around the country so with that let me share my screen.
+Okay I'm I'm David Bloom I'm located in birmingham michigan which is a suburb of detroit. I'm I'm a new artist it's really cool to be here I stumbled on technology. As a way of elevating and to and adding to and augmenting the the work that I'm doing. There there's not a huge body of work but I will kind of take you through how I got to the whole technology thing and the project that involved technology and music. And then I'll talk a little bit about the zip us up collaborative art project that we just completed in birmingham it was a national art project a collaborative public art project with 40 artists from around the country so with that let me share my screen.
 
 To make sure I'm sharing sound okay that's clicked. Okay can you guys see.
 

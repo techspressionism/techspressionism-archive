@@ -121,7 +121,7 @@ Thank you Lee all right. And we have.
 
 ## Susan DeTroy [37:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2225s)
 
-Susan DeTroy up next.
+Susan Detroy up next.
 
 Thanks to this quietly because I'm gonna talk about aging and. So I I interpreted the idea to think about the culture that we live with and. How how that culture. Impedes our understanding of who we are as human beings as we age and I want to oh I don't know if I share okay share I I'm going to share with you a keynote that I have started for another presentation. It's not finished yet but. Okay.
 

@@ -65,7 +65,7 @@ Completely working for some reason. But
 
 I do. I am taking some
 
-Notes of a list. So if anyone who would like to to share. Wants to just kind of jump in after we have Michael Woodruff, Michael Price, Cynthia Beth Rubin, Tommy Mintz, and Susan DeTroy. So far the line up, so
+Notes of a list. So if anyone who would like to to share. Wants to just kind of jump in after we have Michael Woodruff, Michael Price, Cynthia Beth Rubin, Tommy Mintz, and Susan Detroy. So far the line up, so
 
 We'll get started with Michael Woodruff
 
@@ -633,7 +633,7 @@ Name for the show is the wild and newfangled Expressionism Exhibition. So we do 
 
 So
 
-So yeah, we have a couple of other artists lined up to present next up is Susan DeTroy. And if you'd like to present, if you haven't presented, and you'd like to present. Just drop a line in the chat or drop me a DM. In the chat, and I'll add you to the queue. We just have one other artist after Susan. So
+So yeah, we have a couple of other artists lined up to present next up is Susan Detroy. And if you'd like to present, if you haven't presented, and you'd like to present. Just drop a line in the chat or drop me a DM. In the chat, and I'll add you to the queue. We just have one other artist after Susan. So
 
 ## Susan DeTroy [32:53](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=1973s)
 
@@ -735,7 +735,7 @@ Thank you, Lucy. Beautiful work!
 
 Awesome. So we have.
 
-Next up is Susan DeTroy. Who at this point is looking like our last presenter.
+Next up is Susan Detroy. Who at this point is looking like our last presenter.
 
 Unless someone else would like to jump in
 

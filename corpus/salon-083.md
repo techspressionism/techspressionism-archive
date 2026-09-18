@@ -53,7 +53,7 @@ Current work or anything else. So influences is really just a jumping off point 
 
 Has been prepared in advance. You know, we started out with just a handful of people number of years ago, and everything was pretty much off the cuff and you know, I think that keeps it fresh. So
 
-We can start off with and when you share maybe just introduce yourself and let the audience know, and everyone else in the zoom know where you're zooming in from because I think it, it helps to establish context. So with that being, said, the 1st artist that's gonna share is Susan DeTroy.
+We can start off with and when you share maybe just introduce yourself and let the audience know, and everyone else in the zoom know where you're zooming in from because I think it, it helps to establish context. So with that being, said, the 1st artist that's gonna share is Susan Detroy.
 
 ## Susan DeTroy [01:41](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=101s)
 

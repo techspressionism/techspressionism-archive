@@ -40,7 +40,7 @@ In Ontario, Canada.
 
 Our topic to day is money.
 
-Our first presenting artist is Susan DeTroy. Susan is a mixed media artist who lives and practices in Eugene Oregon.
+Our first presenting artist is Susan Detroy. Susan is a mixed media artist who lives and practices in Eugene Oregon.
 
 And so, Susan. Over to you.
 
