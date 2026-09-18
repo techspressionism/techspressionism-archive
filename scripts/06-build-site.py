@@ -94,6 +94,7 @@ section.seg p { margin:.3rem 0 0; }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .intro { color:var(--muted); max-width:44rem; }
+.intro .watch-ref { color:var(--accent); font-weight:600; }
 .yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
@@ -243,9 +244,11 @@ INDEX_TMPL = """<!doctype html>
 <header class="site"><div class="wrap"><strong>Techspressionist Salon Archive</strong>
 <span class="d">{count} recorded sessions &middot; earliest {first_date}</span></div></header>
 <main>
-<p class="intro">A searchable, citable transcript archive of the Techspressionist Salon, running since 2020.
-Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify
-a quote via its &#9654;&nbsp;watch link before citing. Built with custom Python and Claude Code.</p>
+<p class="intro">A searchable, citable transcript archive of the <a href="https://techspressionism.com/Salon">Techspressionist Salon</a>
+&mdash; a monthly gathering of artists working with technology, running since September 2020. Search the full text
+below, or browse the session list. Every result links to the transcript and to the exact moment in the recording.
+Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
+via its <span class="watch-ref">&#9654;&nbsp;watch</span> link before citing. Built with custom Python and Claude Code.</p>
 <div id="search"></div>
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
