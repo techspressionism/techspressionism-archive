@@ -1062,7 +1062,7 @@ Thank you.
 
 ## C B Rubin [43:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2629s)
 
-Okay, thank you so much. So next, I have Susan DeTroy.
+Okay, thank you so much. So next, I have Susan Detroy.
 
 ## Susan DeTroy [43:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2634s)
 

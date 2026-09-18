@@ -195,13 +195,19 @@ def build_session_page(entry):
         start = int(seg.get("start") or 0)
         speaker = seg.get("speaker") or "Unattributed"
         yt = f"{url}&t={start}s"
+        # paragraph breaks are real "\n\n" in the text (from pause-based
+        # restoration or Zoom's own cue boundaries) -- browsers collapse
+        # raw whitespace inside a single <p>, so they need to become actual
+        # separate <p> elements or they render as one undifferentiated block
+        paragraphs = [p.strip() for p in (seg.get("text") or "").split("\n\n") if p.strip()]
+        paragraphs_html = "".join(f"<p>{e(p)}</p>" for p in paragraphs) or "<p></p>"
         seg_html.append(
             f'<section class="seg">'
             f'<h2 class="seg-head" id="t{start}">'
             f'<span class="speaker">{e(speaker)}</span>'
             f'<a class="tc" href="{e(yt)}" data-pagefind-ignore>{hhmmss(start)} &#9654; watch</a>'
             f'</h2>'
-            f'<p>{e(seg.get("text") or "")}</p>'
+            f'{paragraphs_html}'
             f'</section>'
         )
 

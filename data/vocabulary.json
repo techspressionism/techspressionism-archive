@@ -188,6 +188,14 @@
         "davao"
       ],
       "notes": "Davonte Bradley's nickname; ASR consistently hears it as the Philippine city Davao."
+    },
+    {
+      "canonical": "segued",
+      "category": "common_word",
+      "known_asr_variants": [
+        "segwayed"
+      ],
+      "notes": "ASR eggcorn (segue sounds like Segway). Deliberately NOT correcting bare \"segway\" -- one genuine instance in the corpus refers to an actual Segway scooter, and vocabulary substitution has no context awareness to tell them apart."
     }
   ]
 }

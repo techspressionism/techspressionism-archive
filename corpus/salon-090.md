@@ -1160,7 +1160,7 @@ Of two-dimensional figure people. The population consisted of two-dimensional fi
 
 Many sides, and the more sides they had as polygons, the more powerful they were. Women were pictured as straight lines, so that if they turned towards you they were very dangerous. There's a high danger of impalement. And so they constructed their houses so that
 
-There wouldn't be any accidents when the woman turned and could hardly be seen how this segwayed into robotics. Well.
+There wouldn't be any accidents when the woman turned and could hardly be seen how this segued into robotics. Well.
 
 I was always interested in avatars, and actually early on
 
@@ -1202,7 +1202,7 @@ You know their family members.
 
 And it's it's a very it's called tender portraits
 
-Is some more. And this okay? So then it segwayed into using every single thing I could to express
+Is some more. And this okay? So then it segued into using every single thing I could to express
 
 Emotion through robotic entities, including, let's see if this will play
 
