@@ -196,6 +196,89 @@
         "segwayed"
       ],
       "notes": "ASR eggcorn (segue sounds like Segway). Deliberately NOT correcting bare \"segway\" -- one genuine instance in the corpus refers to an actual Segway scooter, and vocabulary substitution has no context awareness to tell them apart."
+    },
+    {
+      "canonical": "Clipping Suburbia, Japan.",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "clipping. Suburbia. Japan."
+      ],
+      "notes": "Salon 38: project name + location run together as three false sentences."
+    },
+    {
+      "canonical": "Sacramento, California, and",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "Sacramento. California and."
+      ],
+      "notes": "Salon 70: city/state pause misread as a sentence break."
+    },
+    {
+      "canonical": "Brazil, Iran, Canada.",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "Brazil. Iran Canada."
+      ],
+      "notes": "Salon 71: list of countries, pauses misread as sentence breaks."
+    },
+    {
+      "canonical": "at RISD, Rhode Island School of Design,",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "at Risd.\n\nRhode Island School of Design,",
+        "at Risd. Rhode Island School of Design,"
+      ],
+      "notes": "Salon 88: acronym + its own expansion split into false sentences/paragraph."
+    },
+    {
+      "canonical": "RISD",
+      "category": "acronym_fix",
+      "known_asr_variants": [
+        "Risd"
+      ],
+      "notes": "Rhode Island School of Design -- Zoom/generic capitalization only title-cases an unrecognized word ('Risd'), it has no notion of acronyms. Placed after the more specific 'at RISD, Rhode Island...' phrase fix so that one still matches first."
+    },
+    {
+      "canonical": "Phoenix, Arizona. Today",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "Phoenix. Arizona\n\nToday",
+        "Phoenix. Arizona. Today",
+        "Phoenix. Arizona Today"
+      ],
+      "notes": "Salon 90: Colin's reported example -- city/state pause misread as sentence break, next real sentence misread as a paragraph break."
+    },
+    {
+      "canonical": "the UK, Iran and Germany",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "the Uk. Iran and Germany"
+      ],
+      "notes": "Salon 93: country list, pause misread as sentence break."
+    },
+    {
+      "canonical": "the UK, Iran, and Germany",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "the UK. Iran, and Germany"
+      ],
+      "notes": "Salon 94: same list, same fix, this session already had the Oxford comma after Iran."
+    },
+    {
+      "canonical": "20-30 years,",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "2030 years,"
+      ],
+      "notes": "Salon 90: ASR smushed a spoken range (\"twenty to thirty years\") into a single 4-digit number that reads as a year."
+    },
+    {
+      "canonical": "From 1954, people",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "From 1954 people"
+      ],
+      "notes": "Missing comma after an introductory year."
     }
   ]
 }

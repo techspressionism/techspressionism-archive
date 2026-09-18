@@ -103,7 +103,7 @@ I do it horizontally sometimes but it's. The best results are usually like this 
 
 Thank you Stephen.
 
-On in the interest of time to Susan Detroy. Oh okay. I wasn't expecting to be next but great is that for me to present or to just speak to present okay okay great. Let me get my notes Here I. As usual thought about the topic and. Yesterday evening. Was looking through my photos and. Came Upon an idea that I think fits the topic well which is I'm gonna screen share.
+On in the interest of time to Susan DeTroy. Oh okay. I wasn't expecting to be next but great is that for me to present or to just speak to present okay okay great. Let me get my notes Here I. As usual thought about the topic and. Yesterday evening. Was looking through my photos and. Came Upon an idea that I think fits the topic well which is I'm gonna screen share.
 
 I I thought about the idea of. How in. In the still photography that I do that's mostly hypstematic. During the pandemic. I was out and about quite a bit and. The work that I did to me has a sense of. Loneliness and. And emptiness in the.
 

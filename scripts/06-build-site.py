@@ -19,6 +19,7 @@ Usage:
 import html
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -26,6 +27,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS_JSON = ROOT / "corpus" / "corpus.json"
 SITE_DIR = ROOT / "site"
+THUMBNAILS_SRC_DIR = ROOT / "assets" / "thumbnails"  # tracked in git -- CI has no access to raw/
+THUMBNAILS_OUT_DIR = SITE_DIR / "thumbnails"
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
@@ -107,6 +110,8 @@ section.seg p { margin:.3rem 0 0; }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
+.promo { margin:0 0 1.2rem; }
+.promo img { width:100%; max-width:640px; height:auto; display:block; border-radius:.4rem; border:1px solid var(--line); }
 """
 
 PAGE_TMPL = """<!doctype html>
@@ -121,6 +126,7 @@ PAGE_TMPL = """<!doctype html>
 <header class="site"><div class="wrap"><strong><a href="index.html">Techspressionist Salon Archive</a></strong></div></header>
 <main>
 <article data-pagefind-body>
+{promo_image}
 <h1 data-pagefind-meta="title:{meta_title}">Salon {number} <span class="topic">{topic}</span></h1>
 <p class="meta">
 <span data-pagefind-filter="type:{type}" data-pagefind-meta="type:{type}">{type_cap}</span> &middot;
@@ -156,6 +162,18 @@ def build_citation(entry):
     else:
         head = f'Techspressionist Salon {number}, &ldquo;{title}.&rdquo;'
     return f'{head} <em>Techspressionist Salon Archive</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
+
+
+def build_promo_image(entry):
+    """The salon's promo graphic (same image used as the YouTube thumbnail
+    and techspressionism.com's featured image for that session), shown at
+    the top of the transcript page only -- not on the index or in search
+    results. Cached locally by Stage 1; not every session has one."""
+    video_id = entry["video_id"]
+    if not (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists():
+        return ""
+    alt = e(f"Promo graphic for Salon {entry['number']} — {entry.get('session_title') or 'Untitled'}")
+    return f'<div class="promo" data-pagefind-ignore><img src="thumbnails/{e(video_id)}.jpg" alt="{alt}" loading="lazy"></div>'
 
 
 def build_session_page(entry):
@@ -217,6 +235,7 @@ def build_session_page(entry):
     return PAGE_TMPL.format(
         title=e(f"Salon {number} — {entry.get('session_title') or 'Untitled'}"),
         meta_title=e(f"Salon {number} — {entry.get('session_title') or 'Untitled'}"),
+        promo_image=build_promo_image(entry),
         type=e(stype),
         type_cap=e(stype.capitalize()),
         year=e(year),
@@ -382,7 +401,15 @@ def main():
     (SITE_DIR / "index.html").write_text(build_index(corpus))
     for entry in corpus:
         (SITE_DIR / f"salon-{entry['number']:03d}.html").write_text(build_session_page(entry))
-    print(f"Wrote {len(corpus) + 2} files to {SITE_DIR}")
+
+    THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
+    copied = 0
+    for entry in corpus:
+        src = THUMBNAILS_SRC_DIR / f"{entry['video_id']}.jpg"
+        if src.exists():
+            shutil.copy2(src, THUMBNAILS_OUT_DIR / src.name)
+            copied += 1
+    print(f"Wrote {len(corpus) + 2} files to {SITE_DIR}, copied {copied} promo images")
 
     if no_index:
         print("Skipped Pagefind indexing (--no-index). Run: npx -y pagefind --site site")
