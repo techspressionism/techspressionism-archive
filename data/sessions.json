@@ -4898,7 +4898,7 @@
     "number": 106,
     "title_raw": "Techspressionist Salon 106 // France",
     "session_title": "France",
-    "date_recorded": null,
+    "date_recorded": "2026-05-07",
     "date_published": "2026-05-27",
     "duration_seconds": 4706,
     "thumbnail": "https://i.ytimg.com/vi/kAXUgOIUjw0/maxresdefault.jpg",
@@ -4937,10 +4937,11 @@
     ],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "moderator_missing",
-      "recording_date_unparseable"
+      "moderator_missing"
     ],
-    "notes": [],
+    "notes": [
+      "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY MAY 7, 2026'), confirmed by Colin Goldberg 2026-09-18"
+    ],
     "transcript_quality": {
       "word_count": 9682,
       "duration_seconds": 4706,
@@ -4956,7 +4957,7 @@
     "number": 107,
     "title_raw": "Techspressionist Salon 107 // New Artists",
     "session_title": "New Artists",
-    "date_recorded": null,
+    "date_recorded": "2026-06-04",
     "date_published": "2026-06-09",
     "duration_seconds": 5773,
     "thumbnail": "https://i.ytimg.com/vi/xm747MwGbiA/maxresdefault.jpg",
@@ -4964,10 +4965,11 @@
     "speakers": [],
     "transcript_source": "zoom-transcript",
     "flags": [
-      "speaker_index_missing",
-      "recording_date_unparseable"
+      "speaker_index_missing"
     ],
-    "notes": [],
+    "notes": [
+      "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY JUNE 4, 2026'), confirmed by Colin Goldberg 2026-09-18"
+    ],
     "transcript_quality": {
       "word_count": 13576,
       "duration_seconds": 5773,
@@ -4983,7 +4985,7 @@
     "number": 108,
     "title_raw": "Techspressionist Salon 108 // Los Angeles and Beyond",
     "session_title": "Los Angeles and Beyond",
-    "date_recorded": null,
+    "date_recorded": "2026-07-16",
     "date_published": "2026-07-16",
     "duration_seconds": 5538,
     "thumbnail": "https://i.ytimg.com/vi/RSGBYaBbWgg/maxresdefault.jpg",
@@ -4992,10 +4994,11 @@
     "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
-      "speaker_index_missing",
-      "recording_date_unparseable"
+      "speaker_index_missing"
     ],
-    "notes": [],
+    "notes": [
+      "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY JULY 16, 2026'), confirmed by Colin Goldberg 2026-09-18"
+    ],
     "transcript_quality": {
       "word_count": 11375,
       "duration_seconds": 5538,

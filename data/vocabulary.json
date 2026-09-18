@@ -14,10 +14,18 @@
         "texpressionist",
         "text brush",
         "text expressionist",
+        "text freshenist",
         "text freshness",
         "text impressionist",
+        "text prussianist",
+        "text rationist",
+        "text russianist",
         "text suppressionist",
-        "textpressionist"
+        "textbretionist",
+        "textfectionist",
+        "textionist",
+        "textpressionist",
+        "textprressionist"
       ],
       "notes": "Observed in Zoom transcript for Salon 92 ('text freshness', 'text brush') and YouTube auto-captions for Salon 20 ('tech express system'), consistently right before 'Salon'. Watch for this pattern specifically before the word 'Salon', across every ASR source."
     },
@@ -39,7 +47,15 @@
         "texpressionism",
         "text expressionism",
         "text impressionism",
-        "textpressionism"
+        "textbretionism",
+        "textfractionism",
+        "textfreshianism",
+        "textionism",
+        "textpressidism",
+        "textpressionism",
+        "textprussianism",
+        "textrationism",
+        "textressionism"
       ],
       "notes": "Confirmed via full-corpus survey 2026-09-18 (647 legit \"expressionism\"/\"impressionism\" references excluded by not matching those bare words -- only tech/tex/tax/text-prefixed and merged forms are misspellings of this term)."
     },
@@ -156,6 +172,22 @@
         "susan detroit"
       ],
       "notes": "Recurring participant; ASR hears the surname as the city."
+    },
+    {
+      "canonical": "Davonte",
+      "category": "person",
+      "known_asr_variants": [
+        "devonte"
+      ],
+      "notes": "First-name-only correction for bare mentions (no surname attached); the full-name \"Davonte Bradley\" term above handles \"devonte bradley\" and must stay earlier in this list so that fires first."
+    },
+    {
+      "canonical": "Davo",
+      "category": "person",
+      "known_asr_variants": [
+        "davao"
+      ],
+      "notes": "Davonte Bradley's nickname; ASR consistently hears it as the Philippine city Davao."
     }
   ]
 }

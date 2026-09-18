@@ -20,6 +20,7 @@ Usage:
     python3 scripts/05-build-corpus.py 20 48 109
 """
 import json
+import re
 import sys
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -37,6 +38,80 @@ REVIEW_CSV = ROOT / "review" / "name-candidates.csv"
 
 NORMALIZE_THRESHOLD = 0.6
 AUDIO_SHARED_PREFIX = "Audio shared by "
+
+# Raw YouTube-caption ASR has no punctuation at all. There's no punctuation-
+# restoration model available locally, so this is a heuristic: a pause
+# between words is a reasonable proxy for a sentence or paragraph break (the
+# same signal captioning tools use). It won't pick "!" or "?" over ".", and
+# it adds no commas -- pause timing alone is too noisy a signal for comma
+# placement, so mid-sentence punctuation is deliberately left to whatever
+# the name-correction pass already does.
+SENTENCE_PAUSE_SECONDS = 1.3
+PARAGRAPH_PAUSE_SECONDS = 3.0
+
+
+def restore_punctuation(words):
+    """words: ordered list of {"start": seconds, "text": word}. Returns
+    punctuated, paragraphed, sentence-capitalized text."""
+    if not words:
+        return ""
+    out = []
+    capitalize_next = True
+    for i, w in enumerate(words):
+        text = w["text"]
+        if capitalize_next and text:
+            text = text[0].upper() + text[1:]
+            capitalize_next = False
+        if out and not out[-1].endswith("\n\n"):
+            out.append(" ")
+        out.append(text)
+        if i + 1 < len(words):
+            gap = words[i + 1]["start"] - w["start"]
+            if gap >= PARAGRAPH_PAUSE_SECONDS:
+                out.append(".\n\n")
+                capitalize_next = True
+            elif gap >= SENTENCE_PAUSE_SECONDS:
+                out.append(".")
+                capitalize_next = True
+    if out and not out[-1].rstrip().endswith((".", "!", "?", "\n\n")):
+        out.append(".")
+    return "".join(out)
+
+
+def build_known_terms(session, vocab_terms, artists):
+    """Proper nouns safe to capitalize on sight, case-insensitive exact
+    match, word-boundary-anchored. Deliberately excludes single-token names
+    (handles like "cha", "meta", real-word names like a hypothetical "Art")
+    -- those collide with ordinary vocabulary too easily to capitalize
+    blindly; the fuzzy correction pass already handles them more carefully.
+    Full multi-word names carry effectively no such risk (an exact "colin
+    goldberg" match is never a coincidence), so unlike the fuzzy pool this
+    draws on the whole artist index, not just this session's own speakers
+    -- someone like Colin Goldberg gets mentioned constantly without being
+    formally indexed as "speaking" in most sessions."""
+    terms = set()
+    for s in session.get("speakers", []):
+        if len(s["name"].split()) >= 2:
+            terms.add(s["name"])
+    if session.get("moderator") and len(session["moderator"].split()) >= 2:
+        terms.add(session["moderator"])
+    for a in artists:
+        if len(a["name"].split()) >= 2:
+            terms.add(a["name"])
+    for t in vocab_terms:
+        terms.add(t["canonical"])
+    return sorted(terms, key=lambda t: -len(t))
+
+
+def capitalize_known_terms(text, terms):
+    for term in terms:
+        # a lambda replacement is used verbatim -- re.sub's string-replacement
+        # form treats a literal backslash-digit in `term` as a group
+        # reference (this once crashed on a mangled artist-index entry)
+        text = re.sub(rf"\b{re.escape(term)}\b", lambda m, t=term: t, text, flags=re.IGNORECASE)
+    text = re.sub(r"\bi\b", "I", text)  # standalone pronoun
+    text = re.sub(r"(^|[.!?\n]\s*)([a-z])", lambda m: m.group(1) + m.group(2).upper(), text)
+    return text
 
 
 def seconds_to_display(total):
@@ -169,19 +244,24 @@ def build_body(session, segments):
     return "\n\n".join(parts)
 
 
-def segments_from_zoom(session, artists):
+def segments_from_zoom(session, artists, vocab_terms):
     path = CORRECTED_DIR / f"salon-{int(session['number']):03d}.json"
     with open(path) as f:
         data = json.load(f)
 
+    known_terms = build_known_terms(session, vocab_terms, artists)
     segments = []
     for cue in data["cues"]:
         speaker = normalize_speaker_name(cue["speaker"], session.get("speakers", []), artists) if cue["speaker"] else None
+        text = capitalize_known_terms(cue["text"], known_terms)
         if segments and segments[-1]["speaker"] == speaker:
-            segments[-1]["text"] += " " + cue["text"]
+            # Zoom's own cue boundaries already mark natural pauses within one
+            # speaker's turn -- keep them as paragraph breaks instead of
+            # flattening the whole turn into one run-on block
+            segments[-1]["text"] += "\n\n" + text
             segments[-1]["end"] = cue["end"]
         else:
-            segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": cue["text"]})
+            segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": text})
     return segments
 
 
@@ -208,13 +288,15 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
         end = boundaries[i + 1][0] if i + 1 < len(boundaries) else None
         segments.append({"speaker": name, "start": start, "boundary_end": end})
 
+    known_terms = build_known_terms(session, vocab_terms, artists)
     result = []
     for seg in segments:
-        seg_words = [w["text"] for w in words if w["start"] >= seg["start"] and (seg["boundary_end"] is None or w["start"] < seg["boundary_end"])]
+        seg_words = [w for w in words if w["start"] >= seg["start"] and (seg["boundary_end"] is None or w["start"] < seg["boundary_end"])]
         if not seg_words:
             continue
-        text = " ".join(seg_words)
+        text = restore_punctuation(seg_words)
         text, _ = correct_text(text, session, artists, vocab_terms, session["number"], seg["start"], review_rows, [])
+        text = capitalize_known_terms(text, known_terms)
         result.append({"speaker": seg["speaker"], "start": seg["start"], "end": seg["boundary_end"], "text": text})
     return result
 
@@ -222,7 +304,7 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
 def process_session(session, artists, vocab_terms, review_rows):
     source = session.get("transcript_source")
     if source == "zoom-transcript":
-        segments = segments_from_zoom(session, artists)
+        segments = segments_from_zoom(session, artists, vocab_terms)
     elif source in ("youtube-auto-captions", "youtube-subtitles"):
         segments = segments_from_youtube(session, artists, vocab_terms, review_rows)
     else:
