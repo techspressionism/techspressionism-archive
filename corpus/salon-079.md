@@ -21,7 +21,10 @@ speakers:
   - name: Cynthia Beth Rubin
     country: New Haven CT
     start: 3091
-  - name: Joey Zaza & Cari Ann Shim Sham
+  - name: Joey Zaza
+    country: MOWNA
+    start: 4505
+  - name: cari ann shim sham
     country: MOWNA
     start: 4505
 transcript_source: zoom-transcript

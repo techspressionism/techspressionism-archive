@@ -15,7 +15,7 @@ speakers:
   - name: Stephen Paré
     country: Arizona USA
     start: 1380
-  - name: Deann S Hasinoff
+  - name: Deann Stein Hasinoff
     country: Edmonton Canada
     start: 1992
   - name: Karen LaFleur
@@ -168,7 +168,7 @@ Thank you.
 
 Wow! That That's gonna need some explanation after we're done. That was awesome. Thank you. Thanks, Steven. Love, that I love the evocative imagery and and your words along with with the artwork. Thank you for sharing that. Okay, our next presenter is Dean.
 
-## Deann S Hasinoff [33:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=1997s)
+## Deann Stein Hasinoff [33:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=1997s)
 
 Hoping my dog will. Stay silent. Well, usually this is exactly when he starts to bark. So. So when when this subject of storytelling came up, I thought about my own Approach to art making, which originally when I first started using digital art about 10 years ago or so. Had to do with me processing my own personal story. And so the first. Attempts I had at at. Doing that were just some digital sketches that I had made to sort of start to take the ideas out of my head and put them somewhere else.
 
@@ -320,7 +320,7 @@ You won't come.
 
 The ad.
 
-## Deann S Hasinoff [01:00:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3617s)
+## Deann Stein Hasinoff [01:00:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3617s)
 
 Yeah, my question is for Roz. So the the work that you showed us is extremely emotional, and I'm wondering in creating that. How do you? How do you approach it? Because you are have such a personal connection to it? And it is so highly charged. Does it Do the emotions fuel you? Or do they get in the way at sometimes in terms of making your creative decisions.
 
@@ -384,7 +384,7 @@ Well, I I I I dabbled AI a little when I had time about a year or so ago, and I 
 
 Thank you. Yes, exactly. Dan, you have your hand up.
 
-## Deann S Hasinoff [01:08:12](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4092s)
+## Deann Stein Hasinoff [01:08:12](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4092s)
 
 Yeah, I had a question for Steven. When you were presenting your reading your work, and you had your artwork showing on slides as it goes across when you were creating the artwork. Were you creating that in conjunction with Like, as you were writing, you were creating artwork, and that kind of flows? Or were you looking at your story and going back to work you've created already, and choosing ones that made the most sense in terms of a visual complement to what you are reading.
 
@@ -436,7 +436,7 @@ I think the dreams are critical for him. I mean the thing for his Action for his
 
 ## Lee Musgrave [01:16:20](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4580s)
 
-You know, back in the in the 19 seventies, I remember lots of discussions about semantics Surrounding the term housewife and most of Academia came to the conclusion that it should be referred to as domestic engineering.
+You know, back in the in the 1970s, I remember lots of discussions about semantics Surrounding the term housewife and most of Academia came to the conclusion that it should be referred to as domestic engineering.
 
 ## Roz Dimon [01:16:45](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4605s)
 

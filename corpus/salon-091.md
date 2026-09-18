@@ -21,7 +21,7 @@ speakers:
   - name: Victor Acevedo
     country: null
     start: 2231
-  - name: Annnette Weintraub
+  - name: Annette Weintraub
     country: null
     start: 3077
   - name: Michael Pierre Price
@@ -97,7 +97,7 @@ Yeah I'm just moving stuff oh so they you know they're not obscuring. My. Vision
 
 Affirmation of that sort of visual metaphor that graphical metaphor for interpreting how perception and Consciousness operate spontaneously as we perceive the world so that was that was very influential you need to wrap up oh okay so I'm gonna go fast this is a important book digital Visions. There's a piece by Darcy gerbar this tile piece this. Further affirmation that the mcer tessellation was alive and well in the digital domain. These are this is a piece called two philosophers let's go through later was put on the cover it's 1991 but the piece was from ' 89 these are newsletters the community was important La sigraph was quite active used are the newsletters I had piece in there a lot of information that was. Dispersed and then culminating this is the last slide all of that decade of 1980s my personal development my my personal development and my interface with the community. Sort of culminated to this moment in 1990 art 1990 at collaboration with s Al sigraph and easv in West Hollywood and so I was in that show and we had via Sorenson we had David M we had Rebecca Allen so that was a exciting moment and it just began the 1990s and we kept going from there so anyway thanks so. Much thank you Victor beautiful work again thank you just really really interesting the perspectives there so I appreciate your presentation today.
 
-## Annnette Weintraub [51:17](https://www.youtube.com/watch?v=5RXM-lkRkhI&t=3077s)
+## Annette Weintraub [51:17](https://www.youtube.com/watch?v=5RXM-lkRkhI&t=3077s)
 
 Thank you okay next artist is Anette wi trob Anette. Welcome hi let me. Share my.
 

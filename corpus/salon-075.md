@@ -15,10 +15,10 @@ speakers:
   - name: Michael Pierre Price
     country: ARTIST PRESENTATIONS
     start: 1198
-  - name: Lucy Boyd Wilson
+  - name: Lucy Boyd-Wilson
     country: Fallbrook CA USA
     start: 3386
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 4015
   - name: Lee Schnaiberg
@@ -126,7 +126,7 @@ Area I see Tom Tommy is joining in I guess we'll wait for him to be ready but To
 
 If I could just jump in here Tommy sure Tommy's been delayed in transit so he'll be joining us at 1:15 PM oh okay all right thanks for that info. Ranata Cynthia. Dado time I have I just wanted to mention something that's ongoing starting tonight is that all right won't take long tonight begins mocha lights in pag Long Island. It goes from October 5th to the 9th. It starts tonight at 6 PM Eastern Standard Time and goes to 1100 pm tonight and of course until October 9th. Digital art is being sh projected on buildings and mares anim ations and videos are going to be shown and we are well represented there are 10 of us who have our work in mocha lights Marlo has work ranada Karen Lucy myself. Haime deian malavika Sahar and Susan so we're well represented there and I'm thrilled myself to be a part of it. So I just wanted to share. That thanks that's that's really that is really exciting and again it just shows Jam also Jamie is that expressionist I men Jamie is also oh yeah I thought he pronounced it. Hy oh by the way in in the spirit of pronunciation as a native New Yorker it's patch hog if you ever talk to the curator there. It it looks like it should be pronounced P but it's Pat I have so much trouble with that. Pat okay thanks thanks Colin yeah it's really exciting congrats all congrats to all of you I just wanted to also make a special mention of Karen sorry Karen's work she and I were in mocha lights last year and this year they invited her to they commissioned her to make a special work to fit the post office building in the v in the village so big shout out for that thank you thank you yes yes and there's a a a preview I think on the Facebook post of her piece it's. Spectacular on their Facebook page. I would love to stand on the street and see the building light up in. Person it's quite a large building so it's really exciting thank you everyone do do apply next year everybody because they take all kinds of Art and they really support us in the Arts it's amazing yeah and it's International. Lucy has a spotlight that they've put out for her on Instagram and Facebook as well is that Beth gumo that's still the point person there so she's a really good person also just in terms of exhibition ideas she's one of the I think she might actually be the main person behind getting Museum accreditation for mocha Long Island which is you know in the same Township as. As mocha lights and Pat hog but it was a it was an art space there and it recently you know did get Museum accreditation and I was part of a a four-person show there initially but I think if she would certainly be receptive to exhibition proposals and things like that you know especially if you've been involved with mocha lights in the past so definitely you could drop her a line she's on Instagram and you know did you say her name again it's Beth gumo that's g a c m m o thank you she's very ni Google Museum of Contemporary Art Long Island you'll find more information about them as. Well I just wanted to say one other thing about that it's not all animation work they do take still works too. So do. Apply so since we have. Five or 10 minutes before. Tommy joins us does anybody have some artwork that they would like to share. Today opened yeah.
 
-## Lucy Boyd Wilson [56:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3386s)
+## Lucy Boyd-Wilson [56:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3386s)
 
 Lucy you're go for it yay all right. Because I I noticed it was welcoming Falling Leaves yes and so I I did show this a couple of years ago but I've made some adjustments and I'll just show it one more time.
 
@@ -148,7 +148,7 @@ So yeah any more questions or thoughts yeah I I sorry I had to jump off for a se
 
 Lucy I'm assuming we're still waiting on Tommy at this. Point. Is anybody else have a short presentation of their art that they might be able to do for a couple minutes minutes.
 
-## Susan DeTroy [01:06:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4015s)
+## Susan Detroy [01:06:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4015s)
 
 Susan. I I would I in addition this is like a very big month for me in addition to being part of the mocha lights my. Biking movie that I made in. May during coid that I re redid for a bike Festival that won a I actually won some money. I re. Mastered it and submitted it to a local event called the mayor's art show that's kind of a prestigious event here once a year and it's going to be shown and I'd like to share it with you it's a minute it's going to be shown in outside I'm very excited on a building outside. In this October the 13th I think it is so I'm going to. Share content. And show that short film for you it's on it's on YouTube at this point and I'm going to make it big and start up. [Music].
 

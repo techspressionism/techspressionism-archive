@@ -9,11 +9,11 @@ url: "https://www.youtube.com/watch?v=pmau5CDJUiQ"
 duration_seconds: 6683
 moderator: Davonte Bradley
 speakers:
-  - name: Rebecca Tombaugh (Kansas City MO USA)
-    country: null
+  - name: Rebecca Tombaugh
+    country: Kansas City MO USA
     start: 290
-  - name: Cynthia DiDonato (North Providence RI USA)
-    country: null
+  - name: Cynthia DiDonato
+    country: North Providence RI USA
     start: 3270
 transcript_source: youtube-auto-captions
 languages: ["en"]
@@ -31,7 +31,7 @@ We do have our typical format I'm sorry I'm inspired from you rather I should sa
 
 And then. I don't think I don't think we have any other new oh I know michael has a new project as well that he will give him time to talk about too so both malavika and michael have something that they would like to share with us at their presentations so keep that in mind all right. And now without further ado I typically have been you know reading off the introduction list for from the zoom meetings with introducing the presenters but. I don't want to seem robotic as I'm reading them so I'm just going to like pass off the mic again. So I think we'll have rebecca are you fine with going first is that yeah I can do that okay cool all right well everyone welcome.
 
-## Rebecca Tombaugh (Kansas City MO USA) [04:50](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=290s)
+## Rebecca Tombaugh [04:50](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=290s)
 
 Rebecca you have the floor. Okay well thanks for having me I've been watching the salons and I'm just really thrilled and amazed with all the work and I was so glad to find this group of people because. Of the stuff I'm doing and you know being able to be with other artists doing this kind of stuff so what I'm going to do is click through some of my work and let you know who I am and then I'm going to go right into my virtual reality paintings which is the new thing I've been doing and then at the very end I have a little. Short little demo that will actually show you how I paint. So let me start off saying that I don't have any credentials I have no training I don't know what I'm doing.
 
@@ -147,7 +147,7 @@ All right well thank you colin and thank you rebecca and thank you for your pres
 
 Thanks for giving me a lot of great ideas too. That's that's also what we're here for this is as much as a collaborative space as it is just supportive space. Thank you yep almost dropped my phone all right. Okay so thank you for.
 
-## Cynthia DiDonato (North Providence RI USA) [54:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3270s)
+## Cynthia DiDonato [54:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3270s)
 
 That and now we have our second presentation for today by cynthia are you here cynthia. Yes yes all right are you ready to present I'm ready to present all right you have the floor great I want to thank rebecca for her presentation. As davos said support and collaboration is what this group is about. I I can't say enough about. How humble I am to be part of the group I remember when colin sent me a direct message through instagram and at first I thought it was you know how they always ask you do you want to have a thousand followers or you know come to my gallery and so I just assumed that you know this is what was going on and so colin. Smartly included a link to the Techspressionists and website and you know said check it out and so I did and I was I was frankly I was blown away I went and listened to the earlier salons I also checked out some of the artists that were listed. The manifesto and I said this is wow. I found my tribe yes so I again I can't say enough about the group and I certainly want to thank. Colin and Davo and others who have been involved who I'm not naming for doing this and making this happen it's a very special place. So with having said that I will go on to. Talk about me. First of all I I'm probably one of the older people here on. Zoom and you know back in the day when there was no technology. And I was a secondary educator for 30 years. Who also minored in art. Eventually I became certified to teach art and art was always you know in my world but not until. I retired from teaching did I really get serious about my own art. Prior to my retirement ten years before that I became one of the first educators to work with technology and education. And it was so technology was a real natural for me I would you know be talking to the boys in the class because a lot of the girls weren't very interested at least the girls in my orbit in technology and the boys of course were so with that I'll go on to. 11 years ago I started working with water media. And maybe this is a good time to share. My work okay. Yep feel. Free. [Music].
 

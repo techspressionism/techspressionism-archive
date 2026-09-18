@@ -9,13 +9,13 @@ url: "https://www.youtube.com/watch?v=EoF3pT-iZSg"
 duration_seconds: 5543
 moderator: Renata Janiszewska // Lions Head Canada
 speakers:
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 34
   - name: Colin Goldberg
     country: North Bennington VT USA
     start: 854
-  - name: mowna (The Museum of Wild and Newfangled Art)
+  - name: mowna
     country: NYC NY
     start: 1434
   - name: Jan Swinburne
@@ -32,7 +32,7 @@ languages: ["en"]
 
 Hello, and welcome to the eightieth Techspressionism partis salon. I'm Renati Anyushka, and I'm coming to you today from the village of Lion's head. In Ontario, Canada. Our topic to day is money. Our first presenting artist is Susan DeTroy. Susan is a mixed media artist who lives and practices in Eugene Oregon. And so, Susan. Over to you.
 
-## Susan DeTroy [00:39](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=39s)
+## Susan Detroy [00:39](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=39s)
 
 Hi! Yes, I'm in Oregon, in the United States northwest part of United States, and I created a keynote. And I. So I'm gonna share my screen and attempt to do that.
 
@@ -42,7 +42,7 @@ So.
 
 Okay.
 
-## Susan DeTroy [01:15](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=75s)
+## Susan Detroy [01:15](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=75s)
 
 Are you seeing my screen? It says, artist money?
 
@@ -50,7 +50,7 @@ Are you seeing my screen? It says, artist money?
 
 Oh, and anyone. That is not Susan. If you could please mute yourself, that'd be appreciated.
 
-## Susan DeTroy [01:31](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=91s)
+## Susan Detroy [01:31](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=91s)
 
 Okay. So I created a a keynote and I'm going to start that when I started when I I'm gonna also time myself. When I started thinking about artists who I am as artists and money. I came up with this idea. And which is, I wanted to share with you all the ways
 
@@ -58,7 +58,7 @@ Okay. So I created a a keynote and I'm going to start that when I started when I
 
 That I have supported myself as an artist
 
-## Susan DeTroy [02:03](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=123s)
+## Susan Detroy [02:03](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=123s)
 
 Over the years and my presentation will be about 10 min. And I'm gonna go through those. And what I did is I sat down and I started a list. And Unbelievably these. To me this seems like a lot. I came up with these, this list Of Jobs or ways that I created income over the years of being an artist. In the beginning, so to speak, of my career. I had jobs reg regular jobs for a number of years During the day day jobs. Most of them were part time. Occasionally there was a full time job, but at the same time I was doing side jobs To, and and my artwork. And these are all of the jobs that I've done over my lifetime career as a artist.
 
@@ -68,7 +68,7 @@ Once I decided to stop doing almost full time. Work jobs. I made the decision li
 
 A job that wasn't related to art. So
 
-## Susan DeTroy [03:39](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=219s)
+## Susan Detroy [03:39](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=219s)
 
 In the beginning of my art career I was a photographer. And I worked for bands. I did professional photography for Friends of mine and people that were referred to me. I did tonnes of portrait photography. I did weddings a little bit. I found them very difficult. And I had this is a picture of a woman named Laurie Mcclain, who hired me a lot. She was a financial manager I also did contracted work, and this is where my photography so got reinforced. I was doing projects for the local transit district called Lane Transit District.
 
@@ -76,7 +76,7 @@ In the beginning of my art career I was a photographer. And I worked for bands. 
 
 And these are some of the pieces that I did for their transit guide.
 
-## Susan DeTroy [04:33](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=273s)
+## Susan Detroy [04:33](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=273s)
 
 Not I did some kind of interpretive work, and and they used it.
 
@@ -84,7 +84,7 @@ Not I did some kind of interpretive work, and and they used it.
 
 Which which I was happy about a also, when, in the beginning of my career. I was
 
-## Susan DeTroy [04:47](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=287s)
+## Susan Detroy [04:47](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=287s)
 
 Doing installations at community colleges in Eugene and other small at Corvallis, which is where Oregon State University, and also in Salem, Oregon. There were some projects there. Yeah. One of the 2 2 of the places that I've worked of that I worked for a long time was the 2 of them work. One was called the Jacobs Gallery, was a Pretty well known in Lane County, Oregon, well known Gallery. I was the manager and exhibit designer. And I got started in that work because, I had been a photographer. And I was analog photographer and digital started happening. And I was at the time totally angry and didn't want to have anything to do with digital. So I and I'd had cancer. And when I came back from cancer treatment. Digital had taken all the photography. So I started volunteering at the Jacobs Gary, and that turned into a very long term job. And I also worked At the same time at the Prn galleries. For Peace Health, which is a medical huge medical organization.
 
@@ -94,7 +94,7 @@ I also did teaching
 
 I've done that on and off my whole career
 
-## Susan DeTroy [06:15](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=375s)
+## Susan Detroy [06:15](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=375s)
 
 Primarily with my digital camera work and but also teaching. More recently, art paper usage and also transfers. I was teaching transfer work. One of the galleries I worked for. That was probably one of the ones that was one was the one that I liked the most was the David Joyce Gallery at Lank Community College. I worked there about 7 or 8 years, and, as as I mentioned, these were not full time jobs. They were they were on a cycle, because when the when a show would come up, I prepare and and do the call, and I worked there for a number of years. David Joyce was a beloved instructor, and he passed away, and this gallery was named for him.
 
@@ -116,7 +116,7 @@ And the last slide is of Collaged composite pieces that I've made over the years
 
 Expected to die
 
-## Susan DeTroy [12:55](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=775s)
+## Susan Detroy [12:55](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=775s)
 
 Except for the pet. But I did a number of those, and the piece that you see on the right. Some of you will recognize Cynthia. Beth Ruben actually helps me. Get some high resolution piece, and that I just finished Yesterday for one of the people that was for one of the supporters, and she's totally Loves it. And so we're gonna look at that. And so that brings us up to now, and I think that's the end of my presentation. Okay.
 
@@ -128,7 +128,7 @@ Thank you.
 
 Thank you. Thank you, Susan.
 
-## Susan DeTroy [13:43](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=823s)
+## Susan Detroy [13:43](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=823s)
 
 Sure. Thanks for sharing all that long part journey that you've had. Thank you. Are we doing questions, or are we just gonna go
 
@@ -136,7 +136,7 @@ Sure. Thanks for sharing all that long part journey that you've had. Thank you. 
 
 The way we're gonna go is there are 2 more presenters. And then we'll open it up, and people can.
 
-## Susan DeTroy [14:05](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=845s)
+## Susan Detroy [14:05](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=845s)
 
 So thanks
 
@@ -296,7 +296,7 @@ Hi, everybody thank you. All of you. That's been really interesting. And yeah, I
 
 Yep.
 
-## Susan DeTroy [50:40](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=3040s)
+## Susan Detroy [50:40](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=3040s)
 
 Okay, good. I guess.
 
@@ -454,7 +454,7 @@ Cynthia rose, and then Susan, and then I think we're coming close to 1 35 or so.
 
 ## Roz Dimon [01:26:40](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5200s)
 
-Yeah, II know we are getting really close here. I'll make this quick. I've been doing all time. But I just want to recommend a book. I may have brought this up before. As most people here know I'm spiritual person, interface ministry, and also art. It's always been all all combined. But there's a book by Lewis Hide, called The Gift. And it's an interesting book, and primarily for me there were a few pages where, in the beginning, where it talked about the fact that you know, in the early days of exchange and bartering, which is something you can still find, I think, in some countries like Africa, where you trade 3 beautiful tomatoes for 2 bananas, or you know. There, there's a there's a real value like when we exchange work with each other. There's a real value in that. And one problem getting back to the whole money thing that we have here in the United States is when money loses its value, and the only thing that people ask you about your work is, what how much did you sell it for? Then we've got? Really, it's no longer about anybody understanding. This is yes, education which Cynthia brought up huge problem.
+Yeah, II know we are getting really close here. I'll make this quick. I've been doing all time. But I just want to recommend a book. I may have brought this up before. As most people here know I'm spiritual person, interface ministry, and also art. It's always been all all combined. But there's a book by Lewis Hyde, called _The Gift_. And it's an interesting book, and primarily for me there were a few pages where, in the beginning, where it talked about the fact that you know, in the early days of exchange and bartering, which is something you can still find, I think, in some countries like Africa, where you trade 3 beautiful tomatoes for 2 bananas, or you know. There, there's a there's a real value like when we exchange work with each other. There's a real value in that. And one problem getting back to the whole money thing that we have here in the United States is when money loses its value, and the only thing that people ask you about your work is, what how much did you sell it for? Then we've got? Really, it's no longer about anybody understanding. This is yes, education which Cynthia brought up huge problem.
 
 It's no longer about understanding what goes what makes. I'm I'm actually still very for product in some ways, because, you know, I don't know. It's a way for people to see what you're doing. But but II do think that whole thing of thinking about what value is cause when everybody says, Oh! And did you sell and see how much they sold this? For you know it's lost its meaningfulness. And when when a when an industry loses its meaningfulness. I mean young people I've met for years is that? Oh, aren't! It's like what a joke! And yet it's the new. Of course you know visualization of the world and lingua franca. So anyway, I think we're witnessing to that with this group where, you know, an image is a million images, which is one of my new works are, and other people are doing that too. But II do still think there is a meaningfulness to be sad about this. But we're we are in a huge Paradigm shift.
 
@@ -462,7 +462,7 @@ It's no longer about understanding what goes what makes. I'm I'm actually still 
 
 Thank you, Rose. And finally, Susan.
 
-## Susan DeTroy [01:28:40](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5320s)
+## Susan Detroy [01:28:40](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5320s)
 
 Well, it's it's interesting, because when people are talking about. Sis being sustainable as an artist. This witness the list Of things that I have done Throughout my life as an artist. Because I didn't. I wasn't a professor. I didn't have a regular income, so I was constantly and still now constantly seeking ways to support the fact that I'm an artist, so I feel like I've lived the life of some one. That's What we're talking about. I've lived that life. I'm still living that life. But and I also want to bring to note that my perspective On the art world is flavored enormously By the fact that I live in Eugene Oregon, where there's a constant effort To locally to push the arts in culture and to claim a place at the table. There are organizations here.
 
@@ -472,7 +472,7 @@ The city of Eugene. It's a different I have I from here and my looking into my c
 
 And also
 
-## Susan DeTroy [01:30:01](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5401s)
+## Susan Detroy [01:30:01](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5401s)
 
 Pay attention to the history and inclusion. So I am. I am witnessing that. But still, there are some places in the community that Follow. The patriarchal histories. But because I live in this sort of this town. Not that it doesn't have other elements. I see that. And I'm just saying I'm witnessing it in my own town. The effect of the shift in the view of of using Histor historical. We marginalize people using that language. And I enjoy that. I'm just saying I enjoy it, but it hasn't Provided me the income that was that would have made me more comfortable. It hasn't provided me with that.
 

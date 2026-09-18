@@ -12,7 +12,7 @@ speakers:
   - name: Tommy Mintz
     country: null
     start: 200
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: null
     start: 972
   - name: Cheryl Audet-Lavoie
@@ -61,7 +61,7 @@ All right if that's going to be it for Tommy I think we can move right along to 
 
 I have a heater guy coming today he's just rang the door to take someone else okay all right I will definitely keep you in mind. All right that means.
 
-## Susan DeTroy [16:12](https://www.youtube.com/watch?v=qBc4IjFobIg&t=972s)
+## Susan Detroy [16:12](https://www.youtube.com/watch?v=qBc4IjFobIg&t=972s)
 
 Susan you're up.
 
@@ -253,7 +253,7 @@ This one is called my ancestors were unprofessional. If you did not know it was 
 
 Yeah there's a lot there and my own here I'm sure this is my hair currently being the way it is which still make some sort some people that are in higher positions like apprehensive because a lot of our hair is still even though legally they're they're not allowed to discriminate against it legality and what people actually do aren't necessarily the same thing it's like discrimination can still happen they'll just say it's something else it's like oh it's not that we don't like your hair we just don't think you'd be a good fit but in their back their mind it's like no I didn't like this person because I didn't think they fit the image that I'm looking to have.
 
-This one is called if we took the one drop rule as seriously as apparently. Oh it's a long title if we took the one drop rule as seriously as apparently many of us would you would be [&nbsp;__&nbsp;].
+This one is called if we took the one drop rule as seriously as apparently. Oh it's a long title if we took the one drop rule as seriously as apparently many of us would you would be [ __ ].
 
 And that's kind of pointing at the absurdity of the one drop rule about being black in this country and how that whole notion was just an exceptionally absurd practice because you can't measure. How black somebody is you can't just see like oh yeah you're half black well what does that mean well you're three quarters back what does that mean because if you look at a person's ancestry you'll see that it's mixed with a whole lot of different things and it's just. Yeah and so the idea here is that apparently one drop of a black person's blood into a sea of white jeans makes that person black but the same can't be said in Reverse one a person that is wise that you know has a child with somebody that isn't wife that other person doesn't get the same status as a white person that's that's not a thing they are more they the more the class of the other person right.
 

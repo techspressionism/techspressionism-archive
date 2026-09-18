@@ -93,7 +93,7 @@ And then On this board I actually put on the reverse of the board Satellite maps
 
 You know, regular environments by collectors, and and hung as a work of art. And Just a quick view of the process. You could now actually print these things digitally on cloth on fiberglass cloth, and this is at the shapers. Who's you know? We're laying down the cloth, figuring out how to put it on the board. And that's kind of the result when it's clean The again the the river fish. And then finally I ended up doing some spending time at the large Hadron Collider in Geneva, Switzerland, and they have all these amazing chalkboards. So I thought, Wow, it really made sense to make chalkboards. And so these are the chalkboards. They're different.
 
-You know, images. Obviously the one in the center is a straight chalkboard, something I photographed. And then I started playing in Photoshop and animating them, and putting with different kinds of paintings this for the the people on Long Island. It's X-ray of a lobster. So here's my lobster board, my only not well. Not my only non Amazon images, but my last book was called something called Surfing the Cosmos with Neil Degrasse Tyson, as some of you know, and so I put the Adrabida. I thought it was a perfect idea for surfing the cosmos, and as an image to put on a surfboard.
+You know, images. Obviously the one in the center is a straight chalkboard, something I photographed. And then I started playing in Photoshop and animating them, and putting with different kinds of paintings this for the the people on Long Island. It's X-ray of a lobster. So here's my lobster board, my only not well. Not my only non Amazon images, but my last book was called something called _Surfing the Cosmos_ with Neil Degrasse Tyson, as some of you know, and so I put the Adrabida. I thought it was a perfect idea for _Surfing the Cosmos_, and as an image to put on a surfboard.
 
 And yeah, that's it. This Image on the left I happen to, you know, one of the beauties of making these objects that you can put out into the world. This is actually I did a whole block at Bloomingdale's in New York, and this is just a detail of one of the windows. And on the right is the second page of the Surf Skate Book, or it could be the opening page. And this is from Rio de Janeiro. And I saw this on on, you know, a pulldown dropdown gate from a business, presumably a surf shop. And so surf. Now, apocalypse later.
 
@@ -171,7 +171,7 @@ Great! Well, that was a wonderful talk, Steve and as you know, I'm a very big fa
 
 According to Wikipedia Suzanne Anker is an American visual artist and theorist, and considered a pioneer in bio art. She's been working on the relationship between art and the biological sciences for more than 25 years. Her practice investigates the ways in which nature is being altered in the 20 first century. And concern with genetics, climate change, species, extinction and toxic degradation per more, calls attention to the beauty of life, and the necessity for enlightened thinking About Nature's tangled bank Anchor frequently assembles with predefined and found materials, botanical specimens, medical museum artifacts, laboratory apparatus, microscopic images, and geological specimens.
 
-So II met Susan. I think Must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 19 sixties. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne for the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been Deeply involved with the School of Visual Arts in Manhattan for a long time. So so I'll pass the mic on to you, Suzanne, and you know, if you want to take it from there.
+So II met Susan. I think Must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 1960s. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne for the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been Deeply involved with the School of Visual Arts in Manhattan for a long time. So so I'll pass the mic on to you, Suzanne, and you know, if you want to take it from there.
 
 ## Suzanne Anker [31:08](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1868s)
 
@@ -439,7 +439,7 @@ Oh. There we go. Okay. So those of you who know my practice. Can you see that? O
 
 And so I decided to do an artist multiple. And I'm interested in sort of how The voice, the power of the voice, and everything like that. So these are the designs that I work from. And essentially, my signature is my voice In these, and they both say time. It's loosely based on. Apparently James Joyce was said to say, quoted as saying, Time is, time was and is no more. And I really like the idea of how this translated into you know, an artist multiple as a coin. And these are nickel Plated brass and they come in.
 
-They're an inch In diameter and a little bit. But the thickness of a looney for those of us, you who know the Canadian dollar and I've developed a card as well. That comes with this that reflects that. And so it's an open edition. And I just thought there were a lot of interesting ideas behind this that go further than like simple things like money talks and all those illusions. But also thinking about equity and being able to make something that's, you know, financially ex accessible as well. But Alludes to all the themes around the voice. The power of the voice, the power of money. And I wrote an essay years ago in a book called Money Value Art, and I was really Interested to sort of revisit that theme. So That's what I had to tell you today. I just wanted to keep that short. And and, Jen, are these available for sale to us? Yes, they are. 15. If you're in Canada, Canadian dollars or 15 Usd outside of Canada. Is what I'm making them available for. And you can just get in touch with me through my website if you're interested in them. And they come in this little package.
+They're an inch In diameter and a little bit. But the thickness of a looney for those of us, you who know the Canadian dollar and I've developed a card as well. That comes with this that reflects that. And so it's an open edition. And I just thought there were a lot of interesting ideas behind this that go further than like simple things like money talks and all those illusions. But also thinking about equity and being able to make something that's, you know, financially ex accessible as well. But Alludes to all the themes around the voice. The power of the voice, the power of money. And I wrote an essay years ago in a book called _Money Value Art_, and I was really Interested to sort of revisit that theme. So That's what I had to tell you today. I just wanted to keep that short. And and, Jen, are these available for sale to us? Yes, they are. 15. If you're in Canada, Canadian dollars or 15 Usd outside of Canada. Is what I'm making them available for. And you can just get in touch with me through my website if you're interested in them. And they come in this little package.
 
 And I can show you a little bit What actual coin is. I forgive my tremor, but it's like It's hard to see. So anyways, Yeah, I thought there was. It's an interest more of a concept project. So but I call. I'm calling it pocket sculpture, because I don't really think of it in terms of A coin per se. It's more token, and even that with the language involved, you know, tokenism and speech. And there's just lots of associations that happen there. So Anyways, that's been my project for the last little while, and I was wanted to bring it to expressionism first.
 
@@ -475,7 +475,7 @@ Good.
 
 Now. The question always is, oh, come on. Zoom gets in the way of the play button. There we go! So you all know. Normally I do. Fine art animation. But when Colin brought up the topic of sculpture. It kind of threw me back to my 1980 S. Model building phase, where I was building commercial models in order to keep the lights on. So I've been doing models For a long time. This is a piece I did for a show. You'll see in a few seconds, and these are a few samples of the commercial models we used to build with designers. It was pre digital. So this is what the designers would take to meetings.
 
-And from really all full decade of the 19 eighties. This is really when you know, ours could make good money at this, and then it went digital. This one here is another one done with the same designer. This was for a proposal for a reebok store at Fanual Hall in Boston.
+And from really all full decade of the 1980s. This is really when you know, ours could make good money at this, and then it went digital. This one here is another one done with the same designer. This was for a proposal for a reebok store at Fanual Hall in Boston.
 
 This is a model in the actual forty-foot toy train we had to build for a toy store. It's all laminate on the train Not painted. This is the model and the actual train subway car. We built that crash through the wolf or strawberry records in downtown crossing in Boston. It was their room to sell all the tickets for concerts at the time In the same floor, right across the street from that train. They wanted a an Oldies diner. So we had to build this diner, and my zoom is kind of in the middle. But if you look on this Diner and you see the word oldies through the window. There should be like little red door back there. That's a 5 by 7 elevator, and this was on the fourth floor. So everything the subway car, and the diner had to fit into that 5 by 7 elevator. So these were actually jigsaw puzzles that were on our dinner table. The family would try to figure out how to get into a 5 by 7 inch box for a year.
 
@@ -587,7 +587,7 @@ But
 
 Thanks, Renata. I'm not sure exactly how we could be most useful to everybody. So I guess right right now let's get some questions asked, so I just saw Sahar Put her hand up so. What what would you like to ask? Sahar?
 
-## SAHAR MOUSSAVI [01:34:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5688s)
+## Sahar Moussavi [01:34:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5688s)
 
 Hi! Everyone! Hi, Michael! Thanks. I wanted to ask, how can we upload videos to hubs First of all, and then I was not able to. I didn't receive the templates, link. So I created a new room just like what Karen did. And can I Use? Yeah, I published it to Web first and then, it didn't Look like what I was expecting. So I created another room. And should we like, should our space be like a closed area? Or can it be open? And How it will be linked to Siberian main hall because I didn't see the hall.
 
@@ -603,7 +603,7 @@ I guess either Renata or Tommy will need to get that to you, and if anybody else
 
 And then and then the other thing that we need from everybody is an image that's gonna go on to the door that's in that public space, that that then they, the person who wants to go visit you kind of clicks on so again that that's formatted in a portrait portrait orientation. Now. In regards to your question, Sahar, about if it needs to be closed or open. I'm not sure exactly what you mean by open like. There's no or
 
-## SAHAR MOUSSAVI [01:38:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5880s)
+## Sahar Moussavi [01:38:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5880s)
 
 Like. Karen has her room inside the box a closed box, but I created like an open space Like a forest.
 
@@ -611,7 +611,7 @@ Like. Karen has her room inside the box a closed box, but I created like an open
 
 Okay, but but I'm assuming there's like a bounding box around the edge of the forest.
 
-## SAHAR MOUSSAVI [01:38:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5899s)
+## Sahar Moussavi [01:38:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5899s)
 
 No.
 
@@ -641,7 +641,7 @@ I have a question about the very beginning of uploading. What I'm doing is going
 
 Is is that the correct way? That that's fine. You can do that. You could also go to the menu at the bottom of the screen and add, you know, just click on picture or click on video, and then you get to place it where you want it's it's The video Widget or the image widget are, you know, part of the spoke. Set of things that you you can do. Did W. Did I forget anything else that you? Asked Sahar.
 
-## SAHAR MOUSSAVI [01:41:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6114s)
+## Sahar Moussavi [01:41:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6114s)
 
 I Oh, I use. I tried Youtube link, but it did not work, and I was wondering, how should we upload we videos or in which sites website.
 
@@ -665,7 +665,7 @@ We can get it down small.
 
 What about gifts?
 
-## SAHAR MOUSSAVI [01:44:07](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6247s)
+## Sahar Moussavi [01:44:07](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6247s)
 
 Yeah. Yeah, that was my question.
 
@@ -687,7 +687,7 @@ Okay? Well, can canber, which I don't use often. Has a way where you can convert
 
 Sahara, we able to answer all of your questions. Yes, thanks, and I was able to upload gifts
 
-## SAHAR MOUSSAVI [01:45:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6316s)
+## Sahar Moussavi [01:45:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6316s)
 
 3 major.Com. But the Urls, as image or video didn't work in hops. So I don't know how to upload. Ca, can you say that again? You upload them to Img. I uploaded gifts in a major.Com e major.Com. And that's the. I am sure. Yeah, yes. And so but I don't know how to link it to a hubs. I use both image and video assets, but it didn't work.
 
@@ -695,7 +695,7 @@ Sahara, we able to answer all of your questions. Yes, thanks, and I was able to 
 
 I've successfully used. IMGU. R. What I do is I upload the image and I make it full screen on the site on IMGU. R. And then I right click on it and copy the address. And that's worked for me for video and image. And it's working. It's free, and it's super easy to upload to it. Imgru are. It's really quick to make an account, and it's a very responsive thing is that does that help?
 
-## SAHAR MOUSSAVI [01:46:23](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6383s)
+## Sahar Moussavi [01:46:23](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6383s)
 
 Yes, it helps for images, but not the gift.
 
@@ -703,7 +703,7 @@ Yes, it helps for images, but not the gift.
 
 Well, II haven't tried one, but I will, and I'll get back to you, Sahar.
 
-## SAHAR MOUSSAVI [01:46:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6392s)
+## Sahar Moussavi [01:46:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6392s)
 
 What's the URL, or the site you're talking about, Renata?
 
@@ -719,7 +719,7 @@ Cause I couldn't get any of my links to work. I couldn't get Youtube to work. I 
 
 Yeah, Tommy mentioned Img, you are a while back, and I'm sorry that we didn't promote it or publicize it more. But it's really, really user, friendly. Okay, I'll give it a try. It does work.
 
-## SAHAR MOUSSAVI [01:47:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6435s)
+## Sahar Moussavi [01:47:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6435s)
 
 I put the I. Mg.
 
@@ -1287,7 +1287,7 @@ Texting art is a good one. Yeah, let's try that I I will email Colin, and tell h
 
 And I would say that pulling off of Karen's. So our discussion of of fast fiction or flash. What is it called flash fiction or sudden fiction necessarily have to be incorporated into the art. It can be part of the Narrative narrative of the art, or something. No, like Karen did some things where she she had a narrative, a short narrative that was associated with the image. But they weren't.
 
-## SAHAR MOUSSAVI [02:53:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10392s)
+## Sahar Moussavi [02:53:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10392s)
 
 Yeah, that's great. I think that's a good idea. I have a last question, Michael. When you want to publish your room to the hops, should you? Check the both options that when you want to save and po publish. Like re mixing with creative commons, CC. Under line bw 3.
 
@@ -1295,7 +1295,7 @@ Yeah, that's great. I think that's a good idea. I have a last question, Michael.
 
 So you have to. There are 2 boxes that you have to check. Yes, so here, let me. So here's here's the publish.
 
-## SAHAR MOUSSAVI [02:53:57](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10437s)
+## Sahar Moussavi [02:53:57](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10437s)
 
 Yes.
 
@@ -1305,7 +1305,7 @@ So when you so do the Save, and publish. The next box will give you the. I belie
 
 If I remember correctly. But I don't want to do that here because I've screwed up my my gallery. I mean the 2 boxes. Mtv, check boxes. To click, publish.
 
-## SAHAR MOUSSAVI [02:54:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10474s)
+## Sahar Moussavi [02:54:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10474s)
 
 Yeah.
 
@@ -1403,7 +1403,7 @@ Text and art or art and text, Cynthia, and next Tuesday and
 
 We'll go from there and then I'll contact you, Michael, as to what happened. Yeah, unless there's a you know, like remaining questions, I'm I'm a little toasty at this point. Thank you so much, Michael. Oh, you're welcome.
 
-## SAHAR MOUSSAVI [03:00:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10804s)
+## Sahar Moussavi [03:00:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10804s)
 
 Thanks, Michael. Thanks.
 

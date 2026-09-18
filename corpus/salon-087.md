@@ -68,7 +68,7 @@ Cari ann shim sham**: and we will start.
 
 Cari ann shim sham**: with the Green Sun. Cari ann shim sham**: by Sahar Cari ann shim sham**: Mousavi, and you'll see there's a link here, and that means that it is Cari ann shim sham**: on sale@object.Com. So if you click on that link, it'll take you to object where you can buy this work. Cari ann shim sham**: So, Sahar. Cari ann shim sham**: would you like to speak.
 
-## SAHAR MOUSSAVI [13:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=836s)
+## Sahar Moussavi [13:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=836s)
 
 Yes, Hi! Everyone nice to see you all, and congratulations and thanks Kerry and Joey For your amazing efforts, and All the hard work. He did so about the Green Son. I 1st want to read my description about the Reed's Green son. And then talk a little about it. So I will read the description. The Green Sun, a dance of existence evokes a sense of isolation and resilience. Portraying the green-tinted sun as a silent guardian of the universe's grandeur and mystery.
 
@@ -82,7 +82,7 @@ Although the trip in this. Where the tree looks barren in this piece. But it may
 
 Cari ann shim sham**: Beautiful. Thank you so much, Sahar.
 
-## SAHAR MOUSSAVI [16:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=987s)
+## Sahar Moussavi [16:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=987s)
 
 Friends.
 
@@ -170,7 +170,7 @@ And so this one I call balance because Feel like I struck the right balance in t
 
 Cari ann shim sham**: Thank you, Deanne. Adrian, did you want to speak to your work?
 
-## Adrianne Wortzel [29:04](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1744s)
+## Adrienne Wortzel [29:04](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1744s)
 
 Yeah, thank you very much. I I was just frozen like but anyway, that piece is part of a series called Companion, and these are the faces in the Rembrandt are actual robots that are manufactured in the world to be Companions to people. And they're all different ones, and I've done a lot of robotics for many, many years, and I use robots to kind of act as avatars for humans expressing feelings. So this series is about The robot's yearning to be included in great masterworks.
 
@@ -404,7 +404,7 @@ Cari ann shim sham**: Thank you so much, Cynthia. Cari ann shim sham**: Beautifu
 
 Cari ann shim sham**: Here we have. I, too, am a cat. By Cari ann shim sham**: Steven Perry! I think Steven's here, Steven.
 
-## Stephen Pare [56:41](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3401s)
+## Stephen Paré [56:41](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3401s)
 
 I am. Hello! I'm in Houston, Texas. First.St I want to thank you, Mauna, and thank you. Techspressionism for your partnership. I'm very pleased to be a part of this exhibition. In one body of my work and my practice, I create characters. Portraits of fictional persons. The approach that I use for these images combines 2 quite distinct interests. The 1st is storytelling, suggested and reinforced by the title of the piece, and the second is the interaction between pattern making and the infinite complexity and fascination of the human face. When I'm working on an image, I am aiming to fulfill both of these distinct interests. I think that something interesting happens when attempting to fulfill both simultaneously. The title of this image. I, too, am a cat, came from a practice that I've had for many years of introducing myself to actual cats.
 
@@ -848,7 +848,7 @@ Cari ann shim sham**: Really fun, animation. Cari ann shim sham**: Colin Goldber
 
 Hey, Carrie Ann, I'd like to thank you guys for putting this show together and creating this great VR installation. It was. It was awesome to meet you both at the Museum in Brooklyn, and to be able to get to know you both a little bit. So I'm zooming in from North Bennington, Vermont, which is a world away from the Bronx In New York, where I was born. And this piece is called Organic Gravity. It's moved through multiple media over the last 25 years. And it was originally composed in adobe illustrator Back in 1999, as a vector-based digital drawing. When I lived and worked in Manhattan's East village.
 
-So the piece was animated over 20 years later over the course of the pandemic, and it was minted on the foundation platform to the ethereum blockchain As a 23, second audio visual nft on November 23, rd 2022 Organic gravity is one of 23 pieces in an augmented reality. Art book I recently published called Metagraphs, and the book was released on Amazon on September 23, rd 2023. Clearly the number 23 is a significant number that features heavily in my work.
+So the piece was animated over 20 years later over the course of the pandemic, and it was minted on the foundation platform to the ethereum blockchain As a 23, second audio visual nft on November 23, rd 2022 Organic gravity is one of 23 pieces in an augmented reality. Art book I recently published called _Metagraphs_, and the book was released on Amazon on September 23, rd 2023. Clearly the number 23 is a significant number that features heavily in my work.
 
 And I'm interested in numerology. I was actually born on December 23, rd in 1971, and my daughter Aya was born on June 23, rd 6, 23, at 6, 23 pm. So I feel like I have a cosmic connection to this number, and I incorporate it consciously into my work. The book links these 20 year old digital drawings to their audiovisual counterparts on the blockchain through a transformative technology of augmented reality, and that allows the works to animate directly on the book's pages. When viewed through the artif, 5 mobile application.
 

@@ -559,7 +559,7 @@ What was that book you just showed?
 
 ## Catherine Mason [01:14:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4488s)
 
-This is my own book, sorry, called The Computer in the Art Room, which you can get as an e-book.
+This is my own book, sorry, called _The Computer in the Art Room_, which you can get as an e-book.
 
 ## Helen Harrison [01:14:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4494s)
 

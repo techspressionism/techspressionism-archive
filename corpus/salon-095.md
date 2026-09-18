@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=LntR7Bo5jmA"
 duration_seconds: 4784
 moderator: null
 speakers:
-  - name: SURPRISE CAMEO!!
-    country: null
-    start: 1409
 transcript_source: zoom-transcript
 languages: ["en"]
 flags:
@@ -208,7 +205,7 @@ You know, we're in that. We're in that place where, like you said, we live in 2 
 
 Yeah, yeah, really, really bad.
 
-## MARILYN R. ROSENBERG [01:19:47](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4787s)
+## Marilyn R. Rosenberg [01:19:47](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4787s)
 
 Thank you. Thank you.
 

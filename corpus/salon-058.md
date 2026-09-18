@@ -21,16 +21,19 @@ speakers:
   - name: R. Gopakumar
     country: Based in Bahrain
     start: 2534
-  - name: Lucy Boyd Wilson
+  - name: Lucy Boyd-Wilson
     country: null
     start: 3649
   - name: Chanhee Choi
     country: null
     start: 4230
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: null
     start: 4995
-  - name: Colin Goldberg & Steve Miller
+  - name: Colin Goldberg
+    country: null
+    start: 5920
+  - name: Steve Miller
     country: null
     start: 5920
 transcript_source: youtube-auto-captions
@@ -257,7 +260,7 @@ Yeah okay yeah say it's two other people go for it.
 
 Cool yeah we started I think at 5 42 so we could probably go for a little bit longer yeah okay. All right.
 
-## Lucy Boyd Wilson [01:00:49](https://www.youtube.com/watch?v=7zhZis1d3po&t=3649s)
+## Lucy Boyd-Wilson [01:00:49](https://www.youtube.com/watch?v=7zhZis1d3po&t=3649s)
 
 So Lucy that means you're up next. All right thank you you're welcome.
 
@@ -333,7 +336,7 @@ And thank you I'm actually getting down to the wire so but I want to say thank y
 
 All right Susan.
 
-## Susan DeTroy [01:23:15](https://www.youtube.com/watch?v=7zhZis1d3po&t=4995s)
+## Susan Detroy [01:23:15](https://www.youtube.com/watch?v=7zhZis1d3po&t=4995s)
 
 Still here.
 

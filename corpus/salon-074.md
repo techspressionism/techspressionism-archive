@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=IzL0mVtw8do"
 duration_seconds: 5617
 moderator: Lee Schnaiberg // Montreal CA
 speakers:
-  - name: Anton MCHX
+  - name: Anton Dubrovin (MCHX)
     country: Moscow, Russia
     start: 413
   - name: Cynthia Beth Rubin
@@ -43,7 +43,7 @@ Things along that nature where we can learn from each other. Use of Technology t
 
 Thank you very much judge Michael I'm one thing I wanted to mention was we've adopted a policy of letting the the mute to come off everybody's. When the person's finished presenting so that we can say a minute or two of praise so if we could do that after Anton presents the the stages here is Anton.
 
-## Anton MCHX [06:53](https://www.youtube.com/watch?v=IzL0mVtw8do&t=413s)
+## Anton Dubrovin (MCHX) [06:53](https://www.youtube.com/watch?v=IzL0mVtw8do&t=413s)
 
 I think yeah hi hi hello everyone nice to be here finally.
 

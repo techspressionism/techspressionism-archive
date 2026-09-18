@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=MZ7JzodmmIA"
 duration_seconds: 7072
 moderator: Davonte Bradley
 speakers:
-  - name: Susan de Troy
+  - name: Susan Detroy
     country: Eugene, OR USA
     start: 140
   - name: Sherry Karver
@@ -30,7 +30,7 @@ Today is march 30th the last day of women's history month and today is actually 
 
 Whatever that being said two weeks where we're doing the opening right for the collab. Salon so thanks a lot build that into the schedule. So stay tuned for that yeah and what. Welcome welcome and thanks for being here I think I'm going to now hand it off to our first presenter and right now I have Susan de Troy as our first presenter for today so susan you have the floor if you're ready.
 
-## Susan de Troy [02:20](https://www.youtube.com/watch?v=MZ7JzodmmIA&t=140s)
+## Susan Detroy [02:20](https://www.youtube.com/watch?v=MZ7JzodmmIA&t=140s)
 
 To go okay I'm gonna pronounce my name for you which is Susan de Troy oh I'm sorry destroyed it's french are you okay french but that's so that's okay all right fyi. So I I'm in eugene oregon and this is whoops this is. Actually a view not far from my house so I thought I'd do a virtual background of something that. Is near my home so I'm sorry I'm just gonna interrupt for a second if everyone could just mute yourselves other than the speaker that'd be most appreciated thanks. I'm actually about to do that myself. All righty. I'm gonna time myself so that I can tell. So my my background is. I came to using digital actually through a lot of years of photography. I had a business. As a analog photographer I used black and white and infrared and color print film all that kind of thing and also. Did a lot of what was called alternative photography with polaroids and transfer kind of work and built have a lifetime of series five different series in in that kind of work and I'll show you a couple examples if you're interested and so I came through to digital work through my photography business and studying photography. I was an analog photographer. I worked in a dark room for a lot of years in a science lab. At the university of oregon and I was initially. Really resistant to digital when it first happened when and I was in the middle of a health challenge and the. The digital took my business down when digital came along digital it took my analog business down and I was not happy about that so I want to screen share. Can you let's see I can do that. Okay.
 

@@ -24,7 +24,7 @@ speakers:
   - name: Lee Musgrave
     country: null
     start: 1861
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: null
     start: 2225
   - name: Michael Pierre Price
@@ -119,7 +119,7 @@ I don't know how that might show up in my artwork I'm I'm not sure that it will.
 
 Thank you Lee all right. And we have.
 
-## Susan DeTroy [37:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2225s)
+## Susan Detroy [37:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2225s)
 
 Susan DeTroy up next.
 

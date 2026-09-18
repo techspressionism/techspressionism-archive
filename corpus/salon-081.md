@@ -21,7 +21,7 @@ speakers:
   - name: Lucy Boyd-Wilson
     country: Fallbrook CA USA
     start: 1999
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 2457
   - name: Cynthia DiDonato
@@ -231,7 +231,7 @@ Awesome. So yeah, on the Techspressionism, homepage@Techspressionism.Com, we do 
 
 So so yeah, we have a couple of other artists lined up to present next up is Susan DeTroy. And if you'd like to present, if you haven't presented, and you'd like to present. Just drop a line in the chat or drop me a DM. In the chat, and I'll add you to the queue. We just have one other artist after Susan. So
 
-## Susan DeTroy [32:53](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=1973s)
+## Susan Detroy [32:53](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=1973s)
 
 Hi! Can I? I need to sign off and sign back on on my ipad if somebody else wants to go right before me. I'm on my iphone right now. And so I need about a couple of minutes, and someone could go before me. That's in next in the queue. That'd be great.
 
@@ -271,7 +271,7 @@ So yeah, I just love the idea! I mean that the the music is just so beautiful, a
 
 Thank you, Lucy. Beautiful work! Awesome. So we have. Next up is Susan DeTroy. Who at this point is looking like our last presenter. Unless someone else would like to jump in Afterwards. Okay. Alright great. So Cynthia DiDonato just message me. She will.
 
-## Susan DeTroy [40:48](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2448s)
+## Susan Detroy [40:48](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2448s)
 
 So Lee raised his hand. Hope.
 
@@ -279,7 +279,7 @@ So Lee raised his hand. Hope.
 
 And and Lee too. Okay, cool. Alright. So Susan, you wanna take it away.
 
-## Susan DeTroy [40:58](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2458s)
+## Susan Detroy [40:58](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2458s)
 
 Yeah, sure. Thank you. I wanted to share current pieces that I am creating and Submitting For a couple different Applications. And to let to let people know in general that I generate my work on an iphone. I generate the clips mostly, and then I edit on an ipad. And I'm just beginning to use my desktop computer a little bit To generate some AI work. But mainly it's iphone and ipad and the pieces I'm going to show. Are. I'm going to show some trailers and one longer piece that were submitted to the Mina Film Festival, and Cynthia DiDonato also. And I don't know if anybody else submitted. And I am currently writing Once again to the Lane Arts Council, which is the. County arts Group. It's not called counseling right, anyway. Arts organization. For I'm asking for equipment this year because I want in the town. I live in Most of the places don't have equipment to show film unbelievably. But so I'm asking for equipment so that I can show film locally and also organized festival. So I'm gonna share my content.
 
@@ -297,7 +297,7 @@ Yep, we got.
 
 The audio.
 
-## Susan DeTroy [44:23](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2663s)
+## Susan Detroy [44:23](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2663s)
 
 A.
 
@@ -309,7 +309,7 @@ And I call those persona Planetary sisters. This is the second one.
 
 So 1 min.
 
-## Susan DeTroy [45:31](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2731s)
+## Susan Detroy [45:31](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2731s)
 
 Okay. A. Okay.
 
@@ -319,7 +319,7 @@ I'm back.
 
 Right!
 
-## Susan DeTroy [46:16](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2776s)
+## Susan Detroy [46:16](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2776s)
 
 Okay. Thank you.
 
@@ -327,7 +327,7 @@ Okay. Thank you.
 
 Great thanks so much. Susan.
 
-## Susan DeTroy [46:20](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2780s)
+## Susan Detroy [46:20](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2780s)
 
 Welcome!
 
@@ -439,7 +439,7 @@ Awesome. Thanks. So much. Really interesting. Especially the Physical material t
 
 Okay,. Let's see, I Is this sharing, working? Yep. Okay, great. So, this is, I'm just gonna go really fast through this stuff. My goodness, I'm sorry I must be sharing the wrong thing because it's timed so, and I need the one that's not timed. Unless we just do it this way. Do you guys mind if I just do it this way? And you see my things over on the side. Is that okay?
 
-## Susan DeTroy [01:03:52](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3832s)
+## Susan Detroy [01:03:52](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3832s)
 
 So problem.
 
@@ -497,7 +497,7 @@ Awesome, awesome. Well, it's very exciting, you know, to to collaborate. And yea
 
 Susan.
 
-## Susan DeTroy [01:11:40](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=4300s)
+## Susan Detroy [01:11:40](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=4300s)
 
 It's not a question so much as a comment. I just wanted to. Say how much. I've appreciated being in the Co working group. I I want to give it sort of testimonial because it has.
 
@@ -561,7 +561,7 @@ It.
 
 Awesome. So, Sahar, I see you have your hand up.
 
-## SAHAR MOUSSAVI [01:22:31](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=4951s)
+## Sahar Moussavi [01:22:31](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=4951s)
 
 Hi, everyone. Yes, I have a question about Mona open call Should we? Just upload our artworks, or we can Send at the same time send a link of our minted artwork on objects or other platforms.
 
@@ -571,7 +571,7 @@ Yeah. So we accept Our priority is the art first. So it's an exhibition of art. 
 
 And we accept all mediums in all media casinos as well. And video and nft and everything. So we're we're happy to. We're happy to see it.
 
-## SAHAR MOUSSAVI [01:23:47](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=5027s)
+## Sahar Moussavi [01:23:47](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=5027s)
 
 Thanks.
 

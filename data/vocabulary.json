@@ -279,6 +279,38 @@
         "From 1954 people"
       ],
       "notes": "Missing comma after an introductory year."
+    },
+    {
+      "canonical": "Adorno, Marcuse, Horkheimer",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "Adorno Marcuse Horkheimer"
+      ],
+      "notes": "Salon 90: list of Frankfurt School philosophers missing commas (Colin's report)."
+    },
+    {
+      "canonical": "Horkheimer, Adorno, Marcuse",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "horkheimer adorno marcus"
+      ],
+      "notes": "Salon 11: same list; ASR also heard 'Marcuse' as 'marcus'. Unambiguous in a Frankfurt School context."
+    },
+    {
+      "canonical": "the Mirror Production,",
+      "category": "punctuation_fix",
+      "known_asr_variants": [
+        "the Mirror production,"
+      ],
+      "notes": "Salon 90: book title (Baudrillard) -- Colin asked for 'Production' capitalized. Note the published title is 'The Mirror of Production'; the transcript has no 'of'."
+    },
+    {
+      "canonical": "Lewis Hyde",
+      "category": "person",
+      "known_asr_variants": [
+        "lewis hide"
+      ],
+      "notes": "Salon 80: author of The Gift; ASR heard the surname as 'hide'."
     }
   ]
 }

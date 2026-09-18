@@ -599,7 +599,7 @@ You know, it was something that Davo Davonte Bradley came up with, and his inspi
 
 By many of the artists. Here in in this zoom that Were passed back and forth. So those were the original collaborative exhibitions that came out of the Techspressionist community. And they actually are. You know, there's something that can be experienced in VR through a platform called Kunst matrix. So they're really interesting exhibitions. At any rate, I'm gonna open it up to Sahar and yeah, feel free to to share your work with us. And thank you. If you could tell us where you're zooming in from, also, that'd be great.
 
-## SAHAR MOUSSAVI [51:39](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3099s)
+## Sahar Moussavi [51:39](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3099s)
 
 Hi, everyone. Hello! Thank you, Malavika, for the great presentation. I'm zooming from Iran. And I'm going to share my screen.
 
@@ -609,7 +609,7 @@ Can you see my screen now?
 
 Yeah.
 
-## SAHAR MOUSSAVI [52:17](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3137s)
+## Sahar Moussavi [52:17](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3137s)
 
 Okay? So. I am. Okay. My presentation is about jewelry design with AI. I was sponsored by a jewelry academy to conduct a 3 day online workshop on applying AI to jewelry design. So I 1st and different people enrolled in my workshop, including jewelry, design students, shop owners, and traditional jewelers. So first, st I define AI and explain how it works. This blend of art and science could lead to the next wave of innovation in jewelry design. With my background in industrial design and product design, and also jewelry design. Like a decade ago I introduced them to several AI tools useful for jewelry design, such as Viscom, Leonardo.
 
@@ -633,7 +633,7 @@ Should I stop sharing Colin.
 
 Yeah, you could stop sharing. Thank you so much, Sahar. That was really great presentation. Those tools are unbelievable. I've never seen something that can take you know, something like a hand done line drawing. And and translate it into 3D. Like that. Is that is that software something that runs online? Or is it run locally on your computer.
 
-## SAHAR MOUSSAVI [59:28](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3568s)
+## Sahar Moussavi [59:28](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3568s)
 
 It's online.
 
@@ -641,7 +641,7 @@ It's online.
 
 Gotcha.
 
-## SAHAR MOUSSAVI [59:32](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3572s)
+## Sahar Moussavi [59:32](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3572s)
 
 I can put it in the chat.
 
@@ -657,7 +657,7 @@ Yeah.
 
 I was wondering, is it? Is it also rendering out 3D. Models.
 
-## SAHAR MOUSSAVI [59:56](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3596s)
+## Sahar Moussavi [59:56](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3596s)
 
 No, but if you render like you like what you did, you can export it as a Obj file or Glv.
 
@@ -665,7 +665,7 @@ No, but if you render like you like what you did, you can export it as a Obj fil
 
 Okay.
 
-## SAHAR MOUSSAVI [01:00:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3607s)
+## Sahar Moussavi [01:00:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3607s)
 
 That's dangerous for us.
 
@@ -677,7 +677,7 @@ Cool.
 
 You're saying the 3D piece is moving to another. You move to another piece of software to create that. And that when you put the line drawing in. Maybe the second item that we saw in the list of 3 is what the AI does, and then from there you take it to another piece of software to create 3D.
 
-## SAHAR MOUSSAVI [01:00:36](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3636s)
+## Sahar Moussavi [01:00:36](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3636s)
 
 No, it just you just click the 3D model and it it generates a 3D model out of the final render.
 
@@ -689,7 +689,7 @@ Oh, that's amazing!
 
 And then that could be taken, and a actually 3D. Printed so you could go to From a line drawing a hand pencil drawing right to The product prototype. That's really incredible. A lot of, you know, jewelry designers actually using these tools to make products.
 
-## SAHAR MOUSSAVI [01:01:09](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3669s)
+## Sahar Moussavi [01:01:09](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3669s)
 
 Usually they use matrix rhino and rhino. And that's they use it. And then they just 3D print it with rhino or matrix Matrixes, especially, I think, for jewelry design. But Beside the beside, the the renders they can get ideas new ideas from AI using Leonardo, and being that I didn't actually present it. But I just wanted to present. Because it's like unknown For most of people, because, like Leonardo and Midjourneys are very famous, but viscom is especially for product designers.
 
@@ -699,7 +699,7 @@ So I wanted just to talk about risk.
 
 Is that very expensive in terms of like, you know, you'd pay a monthly fee to use it, or.
 
-## SAHAR MOUSSAVI [01:02:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3723s)
+## Sahar Moussavi [01:02:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3723s)
 
 Actually, I'm using the free plan and you can, I can have one render per generate. But if you use the paid plan. It's 4 renders Pay per generate per like per generate. Yeah. Cause.
 
@@ -707,7 +707,7 @@ Actually, I'm using the free plan and you can, I can have one render per generat
 
 Imagine that you know I mean all the tools that I personally use for my art are Commercial design tools myself, like illustrator. So I could imagine that artists could really exploit these tools, and, you know, take Abstract hand drawings or whatever they want, and then send them into 3D. Models. I mean.
 
-## SAHAR MOUSSAVI [01:02:41](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3761s)
+## Sahar Moussavi [01:02:41](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3761s)
 
 Actually my background. My background is it. It was a watercolored painting from when I was a teenager, and then I just put it in viscom, and rendered it, and give them give it some prompts. In one of the co-working sessions. I showed it to other other friends.
 

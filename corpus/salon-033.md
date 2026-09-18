@@ -9,13 +9,13 @@ url: "https://www.youtube.com/watch?v=dJbRASddqhg"
 duration_seconds: 7008
 moderator: null
 speakers:
-  - name: DAVID BLOOM
+  - name: David Bloom
     country: Birmingham, Michigan
     start: 160
-  - name: LINDSAY KOKOSKA
+  - name: Lindsay Kokoska
     country: Sydney, Canada
     start: 1865
-  - name: NINA SOBELL
+  - name: Nina Sobell
     country: NYC, NY
     start: 3795
 transcript_source: youtube-auto-captions
@@ -24,9 +24,9 @@ flags:
   - moderator_missing
 ---
 
-## DAVID BLOOM [02:40](https://www.youtube.com/watch?v=dJbRASddqhg&t=160s)
+## David Bloom [02:40](https://www.youtube.com/watch?v=dJbRASddqhg&t=160s)
 
-Okay I'm I'm DAVID BLOOM I'm located in birmingham michigan which is a suburb of detroit. I'm I'm a new artist it's really cool to be here I stumbled on technology. As a way of elevating and to and adding to and augmenting the the work that I'm doing. There there's not a huge body of work but I will kind of take you through how I got to the whole technology thing and the project that involved technology and music. And then I'll talk a little bit about the zip us up collaborative art project that we just completed in birmingham it was a national art project a collaborative public art project with 40 artists from around the country so with that let me share my screen.
+Okay I'm I'm David Bloom I'm located in birmingham michigan which is a suburb of detroit. I'm I'm a new artist it's really cool to be here I stumbled on technology. As a way of elevating and to and adding to and augmenting the the work that I'm doing. There there's not a huge body of work but I will kind of take you through how I got to the whole technology thing and the project that involved technology and music. And then I'll talk a little bit about the zip us up collaborative art project that we just completed in birmingham it was a national art project a collaborative public art project with 40 artists from around the country so with that let me share my screen.
 
 To make sure I'm sharing sound okay that's clicked. Okay can you guys see.
 
@@ -70,7 +70,7 @@ Go on once go on twice. All right. Sure if anybody else has any questions they'l
 
 All right and next up we have lindsay are you still here.
 
-## LINDSAY KOKOSKA [31:05](https://www.youtube.com/watch?v=dJbRASddqhg&t=1865s)
+## Lindsay Kokoska [31:05](https://www.youtube.com/watch?v=dJbRASddqhg&t=1865s)
 
 Yes I'm still here can you hear me I have my earbuds in I just want to make sure yeah okay cool I hope everyone's yep I'm ready to go I just want to say thanks to everyone for having me here it's I don't know really any of you so it's kind of a pleasure to be included in your group so just want to say thank you glad to have you hey. All right let me just share this. And. Oops.
 
@@ -110,7 +110,7 @@ Did anyone else have any other questions for lindsay before we move on to our th
 
 Or we'll circle back around to the after party if you're still sticking around. But with that I guess thank you so much for presenting lindsay and thank you for your time.
 
-## NINA SOBELL [01:03:15](https://www.youtube.com/watch?v=dJbRASddqhg&t=3795s)
+## Nina Sobell [01:03:15](https://www.youtube.com/watch?v=dJbRASddqhg&t=3795s)
 
 Thank you. All right. And now last but definitely not least we got nina are you ready to present. Oh you're muted by the way.
 

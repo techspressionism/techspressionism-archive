@@ -9,15 +9,15 @@ url: "https://www.youtube.com/watch?v=VxS9DBtseCE"
 duration_seconds: 6847
 moderator: Heidi Boisvert – Gainesville, FL
 speakers:
-  - name: Gal Nissim
-    country: galnissim.com
-    start: 2677
   - name: Laura Splan
     country: laurasplan.com
     start: 312
   - name: Sue Huang
     country: studiosuehuang.com
     start: 1385
+  - name: Gal Nissim
+    country: galnissim.com
+    start: 2677
   - name: Janet Biggs
     country: jbiggs.com
     start: 3984
@@ -449,7 +449,7 @@ Is a kind of interesting kind of tension point in the conversation, I think, bet
 
 Hmm, fascinating. I would love to open it up to the audience, just because I know there were some things in the chat that I couldn't quite follow, and then we'll probably close it out. If there are any questions. Is there an audience left? Okay, Steven.
 
-## Stephen Pare [01:30:13](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5413s)
+## Stephen Paré [01:30:13](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5413s)
 
 Yeah, just a quick, comment from my own experience to what Sue was just talking about. I got a degree in biology at one point in my deep, dark past. I just remember, our… my, introductory biology textbook Defining a species as,. Two individuals can mate together, so…
 
@@ -457,7 +457,7 @@ Yeah, just a quick, comment from my own experience to what Sue was just talking 
 
 Hmm.
 
-## Stephen Pare [01:30:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5442s)
+## Stephen Paré [01:30:42](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5442s)
 
 Even within those narrow parameters, which don't always work, There's this very animal-centric Kind of point of view about that. Doesn't apply to… Most living things, in fact, to most plants and most bacteria. All that sort of thing. We've sort of… Come a long way in a couple of hundred years from that sort of 18th century. Idea, where you can… Designate a species, you know, with two Latin words. And, anyway, no question, sorry, just a comment. Sort of part of the bigger, Expansion, I think, of our, you know, reduction of our human self-importance, or something like that.
 

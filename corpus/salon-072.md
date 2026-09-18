@@ -21,22 +21,22 @@ speakers:
   - name: Renata Janiszewska
     country: Lion’s Head CA
     start: 1790
-  - name: Lucy Boyd Wilson
+  - name: Lucy Boyd-Wilson
     country: Fallbrook CA USA
     start: 2164
   - name: Jaime Bautista
     country: Astoria NY USA
     start: 2686
-  - name: Susan DeTroy
+  - name: Susan Detroy
     country: Eugene OR USA
     start: 3187
   - name: Yuge Zhou
     country: Chicago IL USA
     start: 3560
-  - name: Verneda Lights (cont)
+  - name: Verneda Lights
     country: Port Royal SC USA
     start: 3981
-  - name: Stephen Pare
+  - name: Stephen Paré
     country: Houston TX USA
     start: 5035
 transcript_source: youtube-auto-captions
@@ -165,7 +165,7 @@ And here's a pixelated style that I'm just starting to explore another part of t
 
 Beautiful really beautiful thank you Lee thanks for sharing my pleasure Lucy Lucy Boyd Wilson take stage I'm sorry for rushing everybody I just want to make sure everybody gets a chance I hope that's okay but please Lucy.
 
-## Lucy Boyd Wilson [36:04](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=2164s)
+## Lucy Boyd-Wilson [36:04](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=2164s)
 
 It's your turn all right thank you thank you Lee and wonderful to be here and see all your work. I grew up in England in the country and spent all my childhood until mid-teens running around in fields and woods and trees and climbing trees and this is what I love and this is what I express the love of our land and if if I can express that so that everybody can feel the love of their lands then then we'll really take care of it so this is basically everything I do and I'll just share my screen and I I just selected a handful of animations to to show.
 
@@ -227,7 +227,7 @@ Who would like to be the next presenter looks like Susan or welcome okay Susan y
 
 Frozen this is. Hi. I'm here.
 
-## Susan DeTroy [53:07](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=3187s)
+## Susan Detroy [53:07](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=3187s)
 
 Take the stage please yes I'm gonna lower my hand hi I'm going to do a screen share.
 
@@ -271,7 +271,7 @@ Okay thank you much it was awesome please take yours take the stage.
 
 This is your mute here we go for the second time my.
 
-## Verneda Lights (cont) [01:06:21](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=3981s)
+## Verneda Lights [01:06:21](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=3981s)
 
 Presentation is going to be very brief I only have three works so let's start with the screen share.
 
@@ -311,7 +311,7 @@ The link is already in the chat just for for everybody thank you.
 
 If we have a few minutes I thought Stephen was going to show us some.
 
-## Stephen Pare [01:23:55](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=5035s)
+## Stephen Paré [01:23:55](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=5035s)
 
 Work okay.
 
@@ -321,7 +321,7 @@ So what I'd like to show you is a little bit of a book that I'm working on and i
 
 Let's see touches on genre science fiction and post-apocalyptic.
 
-So post climate change catastrophe. I'm gonna sort of throw you into. The middle so you'll but I that kind of works for me anyway. So I'll I'll be showing you a couple of facing pages. I've written the story and stories and they created the digital images as well so. Let's see here we go the book is entitled After the flood.
+So post climate change catastrophe. I'm gonna sort of throw you into. The middle so you'll but I that kind of works for me anyway. So I'll I'll be showing you a couple of facing pages. I've written the story and stories and they created the digital images as well so. Let's see here we go the book is entitled _After the Flood_.
 
 Welcome to Oasis my friends I've been expecting you for some days now. His eyes were large sharp assessing like an owls it seemed to me I am Jonas van brew and these are my children Albert and Philomena. This manner and bearing were studied informal his speech strangely Antiquated as if it were drawn from books. I understand all of that now or at least I think so his visceral dissatisfaction with the modern world was naturally joined to a preference for a better one as he saw it to the Civilized behavior of a long past time Poseidon said a young man with wiry jet black hair and steel blue eyes and at his left side the most beautiful woman I had ever seen. She looked straight at me for a moment blinking once was it irony. And returned her gaze to her father. They're about your age aren't they Captain perhaps a little younger. Your generation has suffered a lot has it not this wasn't a question that he expected an answer for obviously and in any case I wasn't in any mood to share my thoughts and innermost feelings. Perhaps I was annoyed at first by all of the rhetoric rhetorical understatement. By his pandering by his flattering and speech making but in spite of his self-importance I liked him he was charismatic warm and persuasive. For all the egotism and the pronouncements. But I was wary all the same I couldn't help reflecting with some bitter irony how is pandering to the sufferings of my generation. For that is certainly how it sounded. Was not so very different from the panderings of his enemies our politicians who tried to win our Allegiance similarly by expressing their Sympathy for the difficulties that they and men like them had caused. He went on. You were badly served by your leaders that's certain even though I agreed with this it wasn't a reason to switch my loyalty and dishonor my oath. He wasn't done making speeches. I did my best when I was your age to fight their cowardice and perfidy to continue my father's courageous stand.
 
