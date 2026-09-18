@@ -248,7 +248,7 @@ INDEX_TMPL = """<!doctype html>
 &mdash; a monthly gathering of artists working with technology, running since September 2020. Search the full text
 below, or browse the session list. Every result links to the transcript and to the exact moment in the recording.
 Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
-via its <span class="watch-ref">&#9654;&nbsp;watch</span> link before citing. Built with custom Python and Claude Code.</p>
+via its <span class="watch-ref">&#9654;&nbsp;watch</span> link before citing. Built in Python with Claude Code.</p>
 <div id="search"></div>
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
