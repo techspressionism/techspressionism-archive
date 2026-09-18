@@ -45,11 +45,12 @@ def facet(s):
 
 
 def fmt_date(iso):
+    """Chicago Manual of Style date order: Month Day, Year."""
     if not iso:
         return "date unknown"
     try:
         y, m, d = iso.split("-")
-        return f"{int(d)} {MONTHS[int(m)]} {y}"
+        return f"{MONTHS[int(m)]} {int(d)}, {y}"
     except Exception:
         return iso
 
@@ -91,8 +92,14 @@ section.seg p { margin:.3rem 0 0; }
 .sessions .d { color:var(--muted); font-size:.9rem; }
 #search { margin:1rem 0 2rem; }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
+.pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .intro { color:var(--muted); max-width:44rem; }
 .yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
+.citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
+.citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
+.citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
+.citation-info .copy-cite { display:block; margin-top:.4rem; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
+.citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
 .cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
 .cite h2 { font-size:.95rem; margin:0 0 .5rem; }
 .cite blockquote { margin:0; font-size:.92rem; color:#333; }
@@ -119,6 +126,8 @@ PAGE_TMPL = """<!doctype html>
 recorded <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator} &middot;
 <a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
+<span data-pagefind-meta="session:{number}" hidden></span>
+<span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
 {speakers}
 {flags}
@@ -208,6 +217,7 @@ def build_session_page(entry):
         video_id=e(video_id),
         number=number,
         topic=e(entry.get("session_title") or ""),
+        topic_meta=e(entry.get("session_title") or "Untitled"),
         recorded=e(fmt_date(entry.get("date_recorded"))),
         moderator=moderator,
         curator=curator,
@@ -233,12 +243,52 @@ INDEX_TMPL = """<!doctype html>
 <header class="site"><div class="wrap"><strong>Techspressionist Salon Archive</strong>
 <span class="d">{count} recorded sessions &middot; earliest {first_date}</span></div></header>
 <main>
-<p class="intro">A searchable, citable transcript archive of the Techspressionist Salon &mdash;
-a monthly gathering of artists working with technology, running since September 2020. Search the full
-text below, or browse the session list. Every result links to the transcript and to the exact moment
-in the recording.</p>
+<p class="intro">A searchable, citable transcript archive of the Techspressionist Salon, running since 2020.
+Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify
+a quote via its &#9654;&nbsp;watch link before citing. Built with custom Python and Claude Code.</p>
 <div id="search"></div>
 <script>
+const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
+  "August", "September", "October", "November", "December"];
+
+function chicagoDate(iso) {{
+  // Chicago Manual of Style date order: Month Day, Year. "n.d." (no date)
+  // is CMOS's own convention for a missing publication date.
+  if (!iso) return "n.d.";
+  const [y, m, d] = iso.split("-").map(Number);
+  return CITATION_MONTHS[m] + " " + d + ", " + y;
+}}
+
+function hhmmss(totalSeconds) {{
+  const s = Math.max(0, Math.floor(totalSeconds));
+  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
+  const mm = h ? String(m).padStart(2, "0") : String(m);
+  const ss = String(sec).padStart(2, "0");
+  return h ? (h + ":" + mm + ":" + ss) : (mm + ":" + ss);
+}}
+
+function escapeHtml(s) {{
+  return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}}
+
+// Chicago-style citation for one quoted passage, built entirely from public
+// session metadata -- no per-speaker first/last-name splitting (this corpus
+// has ~460 speaker names in too many inconsistent formats -- handles,
+// duo credits, non-Western orderings -- to invert reliably), so names stay
+// in the natural order they're recorded in.
+function buildCitation(result, sr, seconds) {{
+  const meta = result.meta || {{}};
+  const speaker = (sr.title && sr.title.trim() && sr.title.trim().toLowerCase() !== "unattributed")
+    ? sr.title.trim() : "Unidentified speaker";
+  const videoTitle = "Techspressionist Salon " + (meta.session || "") + ": " + (meta.topic || "Untitled");
+  const publisher = "Techspressionist Salon Archive";
+  const date = chicagoDate(meta.date);
+  const timestamp = hhmmss(seconds);
+  const url = (meta.youtube || "") + (meta.youtube ? "&t=" + Math.floor(seconds) + "s" : "");
+  return speaker + ', "' + videoTitle + '," ' + publisher + ", " + date + ", streaming video, " + timestamp + ", " + url + ".";
+}}
+
 window.addEventListener('DOMContentLoaded', () => {{
   new PagefindUI({{
     element: "#search",
@@ -251,18 +301,38 @@ window.addEventListener('DOMContentLoaded', () => {{
     translations: {{ placeholder: "Search transcripts…", zero_results: "No matches for [SEARCH_TERM]" }},
     processResult: (result) => {{
       // Pagefind derives its own base URL from bundlePath, so result URLs
-      // already resolve correctly under a project subpath. Just add a direct
-      // deep-link to the matching second of the video on each sub-result.
+      // already resolve correctly under a project subpath. Add a direct
+      // deep-link to the matching second of the video, plus a ready-to-paste
+      // Chicago-style citation, on each sub-result.
       const yt = result.meta && result.meta.youtube;
       for (const sr of (result.sub_results || [])) {{
         const m = (sr.url || "").match(/#t(\\d+)/);
-        if (yt && m) {{
-          const link = yt + "&t=" + m[1] + "s";
-          sr.excerpt = sr.excerpt + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>';
-        }}
+        if (!yt || !m) continue;
+        const seconds = parseInt(m[1], 10);
+        const link = yt + "&t=" + seconds + "s";
+        const citation = buildCitation(result, sr, seconds);
+        sr.excerpt = sr.excerpt
+          + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>'
+          + '<div class="citation-info"><strong>Citation information:</strong> '
+          + '<span class="cite-text">' + escapeHtml(citation) + '</span> '
+          + '<button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy</button></div>';
       }}
       return result;
     }},
+  }});
+}});
+
+// event delegation: result cards render/re-render as the user types, so a
+// single document-level listener beats wiring one per (transient) button
+document.addEventListener('click', (e) => {{
+  const btn = e.target.closest('.copy-cite');
+  if (!btn) return;
+  e.preventDefault();
+  e.stopPropagation();
+  navigator.clipboard.writeText(btn.dataset.citation).then(() => {{
+    const original = btn.textContent;
+    btn.textContent = 'Copied';
+    setTimeout(() => {{ btn.textContent = original; }}, 1500);
   }});
 }});
 </script>
