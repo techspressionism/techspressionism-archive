@@ -75,6 +75,10 @@ a:hover { text-decoration:underline; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
 header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.05rem; }
+header.site .hsearch { margin:0 0 0 auto; }
+header.site .hsearch input { font:inherit; font-size:.9rem; width:15rem; max-width:100%; padding:.3rem .7rem; border:1px solid var(--line); border-radius:1rem; background:var(--bg); color:var(--fg); }
+header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
+@media (max-width:34rem) { header.site .hsearch { flex:1 1 100%; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -123,7 +127,8 @@ PAGE_TMPL = """<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionist Salon Archive</a></strong></div></header>
+<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionist Salon Archive</a></strong>
+<form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
 <main>
 <article data-pagefind-body>
 {promo_image}
@@ -318,7 +323,7 @@ function buildCitation(result, sr, seconds) {{
 }}
 
 window.addEventListener('DOMContentLoaded', () => {{
-  new PagefindUI({{
+  const ui = new PagefindUI({{
     element: "#search",
     // resolve the bundle relative to wherever index.html actually sits
     // (site root locally, project subpath on GitHub Pages)
@@ -348,6 +353,9 @@ window.addEventListener('DOMContentLoaded', () => {{
       return result;
     }},
   }});
+  // header search boxes on transcript pages send visitors here as ?q=term
+  const q = new URLSearchParams(location.search).get("q");
+  if (q) ui.triggerSearch(q);
 }});
 
 // event delegation: result cards render/re-render as the user types, so a
