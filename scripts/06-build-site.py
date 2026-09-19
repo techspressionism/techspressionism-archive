@@ -165,6 +165,9 @@ h1 .topic { color:var(--muted); font-weight:400; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(56.25vw + 1rem); }
 .seg-head .speaker { font-weight:700; }
+details.people { margin:0 0 1rem; }
+details.people summary { cursor:pointer; color:var(--muted); font-size:.9rem; margin:0 0 .6rem; }
+details.people .speakers { margin-bottom:.5rem; }
 section.seg.cont { border-top:0; padding-top:0; }
 section.seg.cont .speaker { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
 section.seg.cont .seg-head { margin:0; }
@@ -314,6 +317,8 @@ def build_player(entry):
 
 PLAYER_JS = """<script>
 (function () {
+  var people = document.querySelector('details.people');
+  if (people && window.innerWidth < 1024) people.removeAttribute('open');   // narrow screens: the transcript comes first
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
@@ -401,7 +406,8 @@ def build_session_page(entry):
         country_tags = "".join(
             f'<span data-pagefind-filter="country:{facet(c)}" hidden></span>' for c in countries
         )
-        speakers_html = f'<ul class="speakers">{sp_items}</ul>{country_tags}'
+        speakers_html = (f'<details class="people" open><summary>Participants ({len(speakers)})</summary>'
+                         f'<ul class="speakers">{sp_items}</ul>{country_tags}</details>')
     else:
         speakers_html = ""
 
