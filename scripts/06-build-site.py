@@ -33,6 +33,8 @@ CORPUS_JSON = ROOT / "corpus" / "corpus.json"
 SITE_DIR = ROOT / "site"
 THUMBNAILS_SRC_DIR = ROOT / "assets" / "thumbnails"  # tracked in git -- CI has no access to raw/
 THUMBNAILS_OUT_DIR = SITE_DIR / "thumbnails"
+SMALL_THUMBS_SRC_DIR = ROOT / "assets" / "thumbnails-small"   # 240 px, for the sidebar lists (make-small-thumbnails.py)
+SMALL_THUMBS_OUT_DIR = SITE_DIR / "thumbnails-small"
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
@@ -147,18 +149,23 @@ NAV_LINKS = "".join(
 TOPNAV = f'<nav class="topnav" aria-label="Recording types">{NAV_LINKS}</nav>'
 
 STYLE = """
-:root { --fg:#1a1a1a; --muted:#666; --bg:#fafafa; --card:#fff; --accent:#c0392b; --line:#e2e2e2; }
+/* Type and colours follow techspressionism.com: headings Kanit italic, body Lato 17px black, links red and never underlined */
+h1, h2, h3, h4, header.site strong { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; }
+h1 { font-weight:800; }
+h2, h3, h4, header.site strong { font-weight:700; }
+h3.para-time { font-family:inherit; font-weight:400; font-style:normal; }
+:root { --fg:#000; --muted:#666; --bg:#fafafa; --card:#fff; --accent:#FF0000; --line:#e2e2e2; }
 * { box-sizing: border-box; }
-body { margin:0; font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
        color:var(--fg); background:var(--bg); }
 a { color:var(--accent); text-decoration:none; }
-a:hover { text-decoration:underline; }
+a:hover { text-decoration:none; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
 header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.05rem; }
 .topnav { display:flex; flex-wrap:wrap; gap:.3rem 1.1rem; font-size:.95rem; }
-.topnav a { color:var(--fg); font-weight:500; }
-.topnav a:hover { color:var(--accent); text-decoration:none; }
+.topnav a { color:var(--accent); font-weight:700; }
+.topnav a:hover { color:#d60000; }
 header.site .hsearch { margin:0 0 0 auto; }
 header.site .hsearch input { font:inherit; font-size:.9rem; width:15rem; max-width:100%; padding:.3rem .7rem; border:1px solid var(--line); border-radius:1rem; background:var(--bg); color:var(--fg); }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
@@ -173,12 +180,12 @@ h1 .topic { color:var(--muted); font-weight:400; }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(56.25vw + 1rem); }
-.seg-head .speaker { font-weight:700; }
+.seg-head .speaker { font-weight:inherit; }
 .read-btn { display:none; width:100%; margin:0 0 1.2rem; padding:.85rem 1rem; border:2px solid var(--accent); border-radius:.4rem; background:var(--accent);
             color:#fff; font:inherit; font-size:1.05rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
-.read-btn:hover { background:#a93226; border-color:#a93226; }
+.read-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn[aria-expanded="true"] { background:#fff; color:var(--accent); }
-.read-btn[aria-expanded="true"]:hover { background:#fbeceb; }
+.read-btn[aria-expanded="true"]:hover { background:#fff0f0; }
 .js .read-btn { display:block; }
 .js .transcript { display:none; scroll-margin-top:calc(56.25vw + 1rem); }
 .js .layout.reading .transcript { display:block; }
@@ -186,16 +193,19 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
 .watch-next li { border-bottom:1px solid var(--line); }
-.watch-next a { display:block; padding:.6rem .3rem; color:var(--fg); }
+.watch-next a { display:flex; gap:.8rem; align-items:center; padding:.5rem .3rem; color:var(--fg); }
+.watch-next img, .watch-next .nothumb { flex:none; width:96px; height:54px; border-radius:.25rem; background:#ddd; object-fit:cover; }
+.watch-next .txt { min-width:0; }
+.watch-next .t { display:block; }
 .watch-next a:hover { background:var(--card); text-decoration:none; color:var(--accent); }
 .watch-next li.cur a { background:#fdebc8; font-weight:600; }
-.watch-next .num { display:inline-block; min-width:2.8rem; color:var(--muted); font-variant-numeric:tabular-nums; }
-.watch-next .d { display:block; margin-left:2.8rem; color:var(--muted); font-size:.85rem; }
+.watch-next .num { color:var(--muted); font-variant-numeric:tabular-nums; }
+.watch-next .d { display:block; color:var(--muted); font-size:.85rem; }
 details.people { margin:0 0 1rem; }
 details.people summary { cursor:pointer; color:var(--muted); font-size:.9rem; margin:0 0 .6rem; }
 details.people .speakers { margin-bottom:.5rem; }
 section.seg.cont { border-top:0; padding-top:0; }
-section.seg.cont .speaker { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
+section.seg.cont .speaker, .vh { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
 section.seg.cont .seg-head { margin:0; }
 /* transcript in the TED layout: a timecode pill above each paragraph; the video plays beside (wide) or above (narrow) */
 main.watch-page { max-width:84rem; }
@@ -208,11 +218,12 @@ main.watch-page { max-width:84rem; }
 .player-frame .poster:hover .bigplay, .player-frame .poster:focus-visible .bigplay { transform:scale(1.08); }
 .player-frame .bigplay svg { width:1.5rem; height:1.7rem; margin-left:.25rem; fill:#111; }
 .para { margin:0 0 1.5rem; scroll-margin-top:calc(56.25vw + 1rem); }
+h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(56.25vw + 1rem); }
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
 a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
-a.pill:hover svg, a.pill:focus-visible svg { color:#e62b1e; }
+a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
 a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
 .para .tx { border-radius:.15rem; }
 .para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
@@ -220,7 +231,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:1rem; max-height:calc(100vh - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
-  .para, .seg-head, .js .transcript { scroll-margin-top:1.5rem; }
+  .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
 }
@@ -233,6 +244,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .d { color:var(--muted); font-size:.9rem; }
 #search { margin:1rem 0 2rem; }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
+.pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .intro { color:var(--muted); max-width:44rem; }
 .intro .watch-ref { color:var(--accent); font-weight:600; }
@@ -240,7 +252,8 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
-.citation-info .copy-cite { display:block; margin-top:.4rem; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
+.cite-actions { display:flex; align-items:center; gap:.6rem; margin-top:.4rem; }
+.citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
 .cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
 .cite h2 { font-size:.95rem; margin:0 0 .5rem; }
@@ -262,6 +275,8 @@ PAGE_TMPL = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Techspressionism Video Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 </head>
@@ -360,9 +375,17 @@ PLAYER_JS = """<script>
   }
   if (btn) {
     btn.addEventListener('click', function () { reading(!layout.classList.contains('reading'), true); });
+    var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
-      if (el && document.getElementById('transcript').contains(el)) { reading(true, false); el.scrollIntoView(); }
+      if (el && document.getElementById('transcript').contains(el)) {
+        reading(true, false); el.scrollIntoView();
+        if (autoplay) {                      // "watch" from a search result: start the video at that paragraph, if the browser allows
+          autoplay = false;
+          var para = el.closest('.para') || el.parentElement.querySelector('.para'), pill = para && para.querySelector('a.pill');
+          if (pill) setTimeout(function () { pill.click(); }, 300);
+        }
+      }
     }
     fromHash();
     window.addEventListener('hashchange', fromHash);
@@ -447,10 +470,13 @@ def build_watch_next(entry, siblings):
         li_class = ' class="cur"' if current else ""
         aria = ' aria-current="page"' if current else ""
         title = e(x.get("session_title") or "Untitled")
+        small = SMALL_THUMBS_SRC_DIR / f"{x['video_id']}.jpg"
+        thumb = (f'<img src="thumbnails-small/{e(x["video_id"])}.jpg" alt="" width="96" height="54" loading="lazy">'
+                 if small.exists() else '<span class="nothumb"></span>')
         rows.append(
-            f'<li{li_class}><a href="{slug(x)}.html"{aria}>'
-            f'<span class="num">#{x["number"]}</span>{title}'
-            f'<span class="d">{e(when)}</span></a></li>')
+            f'<li{li_class}><a href="{slug(x)}.html"{aria}>{thumb}'
+            f'<span class="txt"><span class="t"><span class="num">#{x["number"]}</span> {title}</span>'
+            f'<span class="d">{e(when)}</span></span></a></li>')
     return f'<aside class="watch-next" data-pagefind-ignore><h2>All {e(info["plural"])}</h2><ul>' + "".join(rows) + "</ul></aside>"
 
 
@@ -493,6 +519,9 @@ def build_session_page(entry, siblings=()):
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     seg_html = []
     prev_speaker = object()
+    used_ids = set()
+    for seg in entry["segments"]:
+        used_ids.add(f't{int(seg.get("start") or 0)}')
     for seg in entry["segments"]:
         start = int(seg.get("start") or 0)
         speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
@@ -512,9 +541,19 @@ def build_session_page(entry, siblings=()):
                 continue
             seek = round(max(0.0, t0 - PILL_LEAD_IN), 1)
             yt = f"{url}&t={int(seek)}s"
+            # each paragraph after the first is a heading with an id, so search results can point at
+            # the paragraph (exact time) rather than at the start of the whole turn; the hidden name
+            # keeps the speaker in the result's title. The first paragraph shares the turn heading's id.
+            pid = f"t{int(t0)}"
+            if k == 0 or pid in used_ids:
+                head_open, head_name, head_id = '<h3 class="para-time">', "", ""
+            else:
+                used_ids.add(pid)
+                head_open, head_id = f'<h3 class="para-time" id="{pid}">', pid
+                head_name = f'<span class="speaker vh">{e(speaker)}</span>'
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'<a class="pill" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>'
+                f'{head_open}<a class="pill" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
@@ -567,6 +606,8 @@ INDEX_TMPL = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Techspressionism Video Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="pagefind/pagefind-ui.js"></script>
@@ -582,7 +623,7 @@ INDEX_TMPL = """<!doctype html>
 and <a href="https://techspressionism.com/uzbekistan/media/videos/presentations/">presentations</a>. Search the full text
 below &mdash; all recordings or just one type &mdash; or browse the list. Every result links to the transcript and to the exact moment in the recording.
 Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
-via its <span class="watch-ref">&#9654;&nbsp;watch</span> link before citing. Built in Python with Claude Code.</p>
+against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing. Built in Python with Claude Code.</p>
 <div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
@@ -618,6 +659,15 @@ function escapeHtml(s) {{
 // has ~460 speaker names in too many inconsistent formats -- handles,
 // duo credits, non-Western orderings -- to invert reliably), so names stay
 // in the natural order they're recorded in.
+const PILL_SVG = {pill_svg_js};
+
+function pillTime(seconds) {{
+  seconds = Math.floor(seconds);
+  const h = Math.floor(seconds / 3600), m = Math.floor(seconds % 3600 / 60), s = seconds % 60;
+  const two = (n) => String(n).padStart(2, "0");
+  return h ? h + ":" + two(m) + ":" + two(s) : two(m) + ":" + two(s);
+}}
+
 function buildCitation(result, sr, seconds) {{
   const meta = result.meta || {{}};
   const unlabeled = !sr.title || !sr.title.trim() || ["unattributed", "transcript", "discussion", "announcements"].includes(sr.title.trim().toLowerCase());
@@ -652,11 +702,14 @@ window.addEventListener('DOMContentLoaded', () => {{
         const seconds = parseInt(m[1], 10);
         const link = yt + "&t=" + Math.max(0, seconds - {watch_lead_in}) + "s";   // leads in; the citation below stays exact
         const citation = buildCitation(result, sr, seconds);
+        const page = sr.url.split('#')[0];
+        const here = page + (page.includes('?') ? '&' : '?') + 'play=1#t' + m[1];   // the page opens the transcript there and plays
         sr.excerpt = sr.excerpt
-          + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>'
+          + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">on YouTube &#8599;</a>'
           + '<div class="citation-info"><strong>Citation information:</strong> '
           + '<span class="cite-text">' + escapeHtml(citation) + '</span> '
-          + '<button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy</button></div>';
+          + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy</button>'
+          + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this point and plays the video">' + PILL_SVG + pillTime(seconds) + '</a></div></div>';
       }}
       return result;
     }},
@@ -739,6 +792,7 @@ def build_index(corpus):
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
         topnav=TOPNAV,
+        pill_svg_js=json.dumps(PILL_SVG),
     )
 
 
@@ -757,6 +811,9 @@ def main():
         (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')])))
 
     THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
+    SMALL_THUMBS_OUT_DIR.mkdir(exist_ok=True)
+    for src in SMALL_THUMBS_SRC_DIR.glob("*.jpg"):
+        shutil.copy2(src, SMALL_THUMBS_OUT_DIR / src.name)
     copied = 0
     for entry in corpus:
         src = THUMBNAILS_SRC_DIR / f"{entry['video_id']}.jpg"
