@@ -249,7 +249,7 @@ PAGE_TMPL = """<!doctype html>
 <h1 data-pagefind-meta="title:{meta_title}">{label} <span class="topic">{topic}</span></h1>
 <p class="meta">
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
-{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator} &middot;
+{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}<br>
 <a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
 <span data-pagefind-meta="session:{number}" hidden></span>
