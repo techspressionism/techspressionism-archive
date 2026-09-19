@@ -51,6 +51,8 @@ SUGGEST_MAX = 1200  # characters of the passage carried in the address; a longer
 # (a few seconds on recordings whose Zoom timing was converted), and a listener needs a beat of context.
 # The printed timecode and the citation keep the exact time.
 WATCH_LEAD_IN = max(0, int(SITE_CONFIG.get("watch_lead_in_seconds", 3)))
+# the timecode pills seek the inline player to just before the paragraph's first word
+PILL_LEAD_IN = max(0.0, float(SITE_CONFIG.get("pill_lead_in_seconds", 1)))
 
 
 # Each page links back to the recording's own page on techspressionism.com (data/site-pages.json).
@@ -310,7 +312,7 @@ def build_player(entry):
     alt = e(f"Play {label(entry)} — {entry.get('session_title') or 'Untitled'}")
     img = (f'<img src="thumbnails/{e(video_id)}.jpg" alt="" loading="lazy">'
            if (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists() else "")
-    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{WATCH_LEAD_IN}" data-pagefind-ignore>'
+    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-pagefind-ignore>'
             f'<div class="player-frame" id="player"><button type="button" class="poster" aria-label="{alt}">{img}'
             f'<span class="bigplay">{PLAY_SVG}</span></button></div></div>')
 
@@ -441,10 +443,11 @@ def build_session_page(entry):
             if t0 is None:
                 blocks.append(f"<div class=\"para\"><p><span class=\"tx\">{emphasize(e(para))}</span>{suggest_link(entry, start, para)}</p></div>")
                 continue
-            yt = f"{url}&t={max(0, int(t0) - WATCH_LEAD_IN)}s"
+            seek = round(max(0.0, t0 - PILL_LEAD_IN), 1)
+            yt = f"{url}&t={int(seek)}s"
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'<a class="pill" href="{e(yt)}" data-seek="{max(0, int(t0) - WATCH_LEAD_IN)}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>'
+                f'<a class="pill" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
