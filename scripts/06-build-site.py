@@ -163,10 +163,36 @@ h1 .topic { color:var(--muted); font-weight:400; }
 .speakers .country { color:var(--muted); }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
-.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .3rem; font-size:1rem; scroll-margin-top:5rem; }
+.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(56.25vw + 1rem); }
 .seg-head .speaker { font-weight:700; }
-.seg-head .tc { font-size:.85rem; white-space:nowrap; }
-section.seg p { margin:.3rem 0 0; }
+section.seg.cont { border-top:0; padding-top:0; }
+section.seg.cont .speaker { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
+section.seg.cont .seg-head { margin:0; }
+/* transcript in the TED layout: a timecode pill above each paragraph; the video plays beside (wide) or above (narrow) */
+main.watch-page { max-width:84rem; }
+.side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
+.player-box { position:sticky; top:0; z-index:20; background:#000; margin:0 -1.25rem 1rem; }
+.player-frame { position:relative; aspect-ratio:16/9; background:#000; }
+.player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
+.player-frame .poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:#000; cursor:pointer; }
+.player-frame .bigplay { position:absolute; left:50%; top:50%; width:4.2rem; height:4.2rem; margin:-2.1rem 0 0 -2.1rem; border-radius:50%; background:rgba(240,240,240,.92); display:flex; align-items:center; justify-content:center; transition:transform .15s; }
+.player-frame .poster:hover .bigplay, .player-frame .poster:focus-visible .bigplay { transform:scale(1.08); }
+.player-frame .bigplay svg { width:1.5rem; height:1.7rem; margin-left:.25rem; fill:#111; }
+.para { margin:0 0 1.5rem; scroll-margin-top:calc(56.25vw + 1rem); }
+.para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
+a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
+a.pill:hover { background:#e7e7e7; text-decoration:none; }
+a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
+a.pill:hover svg, a.pill:focus-visible svg { color:#e62b1e; }
+a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
+.para .tx { border-radius:.15rem; }
+.para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
+@media (min-width:64rem) {
+  .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
+  .side { display:block; position:sticky; top:1rem; max-height:calc(100vh - 2rem); overflow:auto; scrollbar-width:thin; }
+  .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
+  .para, .seg-head { scroll-margin-top:1.5rem; }
+}
 a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space:nowrap; opacity:.75; }
 a.suggest:hover { opacity:1; color:var(--accent); }
 /* index */
@@ -197,8 +223,6 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .typebar button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
 .typebar .n { opacity:.7; font-size:.8em; margin-left:.25rem; }
 .sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; }
-.promo { margin:0 0 1.2rem; }
-.promo img { width:100%; max-width:640px; height:auto; display:block; border-radius:.4rem; border:1px solid var(--line); }
 """
 
 PAGE_TMPL = """<!doctype html>
@@ -212,9 +236,11 @@ PAGE_TMPL = """<!doctype html>
 <body>
 <header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a></strong>
 <form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
-<main>
+<main class="watch-page">
 <article data-pagefind-body>
-{promo_image}
+<div class="layout">
+<div class="side">
+{player}
 <h1 data-pagefind-meta="title:{meta_title}">{label} <span class="topic">{topic}</span></h1>
 <p class="meta">
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
@@ -228,8 +254,10 @@ PAGE_TMPL = """<!doctype html>
 </p>
 {speakers}
 {flags}
-<div class="transcript">
+</div>
+<div class="transcript" id="transcript">
 {segments}
+</div>
 </div>
 </article>
 <section class="cite" data-pagefind-ignore>
@@ -238,6 +266,7 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" onclick="navigator.clipboard.writeText(document.getElementById('citation').innerText).then(()=>{{this.textContent='Copied';setTimeout(()=>this.textContent='Copy citation',1500)}})">Copy citation</button>
 </section>
 </main>
+{player_js}
 </body>
 </html>
 """
@@ -258,16 +287,91 @@ def build_citation(entry):
     return f'{head} <em>{BRAND}</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
 
 
-def build_promo_image(entry):
-    """The salon's promo graphic (same image used as the YouTube thumbnail
-    and techspressionism.com's featured image for that session), shown at
-    the top of the transcript page only -- not on the index or in search
-    results. Cached locally by Stage 1; not every session has one."""
+PLAY_SVG = '<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1 0.5v13l10.5-6.5z"/></svg>'
+PILL_SVG = ('<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1.6 1.6v10.8l9-5.4z" fill="none" '
+            'stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>')
+
+
+def pill_time(seconds):
+    seconds = int(seconds or 0)
+    h, rem = divmod(seconds, 3600)
+    m, s = divmod(rem, 60)
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
+
+
+def build_player(entry):
+    """The video, inline. Nothing is fetched from YouTube until a visitor presses play or a
+    timecode: until then the box shows the recording's promo graphic (the YouTube thumbnail,
+    cached by Stage 1), so opening a page tells YouTube nothing about the visitor."""
     video_id = entry["video_id"]
-    if not (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists():
-        return ""
-    alt = e(f"Promo graphic for {label(entry)} — {entry.get('session_title') or 'Untitled'}")
-    return f'<div class="promo" data-pagefind-ignore><img src="thumbnails/{e(video_id)}.jpg" alt="{alt}" loading="lazy"></div>'
+    alt = e(f"Play {label(entry)} — {entry.get('session_title') or 'Untitled'}")
+    img = (f'<img src="thumbnails/{e(video_id)}.jpg" alt="" loading="lazy">'
+           if (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists() else "")
+    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{WATCH_LEAD_IN}" data-pagefind-ignore>'
+            f'<div class="player-frame" id="player"><button type="button" class="poster" aria-label="{alt}">{img}'
+            f'<span class="bigplay">{PLAY_SVG}</span></button></div></div>')
+
+
+PLAYER_JS = """<script>
+(function () {
+  var box = document.getElementById('player-box');
+  if (!box) return;
+  var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
+  var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
+  var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
+  var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
+  function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
+  function load() {
+    if (player || failed) return;
+    window.onYouTubeIframeAPIReady = function () {
+      document.getElementById('player').innerHTML = '<div id="yt"></div>';
+      player = new YT.Player('yt', {
+        videoId: vid, width: '100%', height: '100%',
+        playerVars: { rel: 0, playsinline: 1, modestbranding: 1 },
+        events: {
+          onReady: function () { ready = true; queue.splice(0).forEach(function (f) { f(); }); },
+          onError: function () { failed = true; queue = []; }
+        }
+      });
+    };
+    var s = document.createElement('script');
+    s.src = 'https://www.youtube.com/iframe_api';
+    s.onerror = function () { failed = true; };
+    document.head.appendChild(s);
+  }
+  box.querySelector('.poster').addEventListener('click', function () { whenReady(function () { player.playVideo(); }); });
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a.pill');
+    if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
+    ev.preventDefault();
+    var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
+    forced = i; mark(i);
+    whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
+  });
+  ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
+  function mark(i, follow) {
+    if (i === active) return;
+    if (active >= 0) paras[active].classList.remove('active');
+    active = i;
+    if (i < 0) return;
+    paras[i].classList.add('active');
+    if (follow && Date.now() - lastUser > 4000) {
+      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? box.getBoundingClientRect().bottom : 0;
+      if (r.top < top + 40 || r.bottom > window.innerHeight - 40) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
+    }
+  }
+  setInterval(function () {
+    if (!ready || !player.getCurrentTime) return;
+    var t = player.getCurrentTime(), playing = player.getPlayerState() === 1;
+    if (forced !== null) {
+      if (t >= starts[forced] || t < starts[forced] - lead - 2) forced = null; else return;   // hold the clicked paragraph through the lead-in
+    }
+    var lo = 0, hi = starts.length - 1, idx = -1;
+    while (lo <= hi) { var mid = (lo + hi) >> 1; if (starts[mid] <= t + 0.25) { idx = mid; lo = mid + 1; } else hi = mid - 1; }
+    if (playing || idx !== active) mark(idx, playing);
+  }, 250);
+})();
+</script>"""
 
 
 def emphasize(escaped):
@@ -313,23 +417,35 @@ def build_session_page(entry):
 
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     seg_html = []
+    prev_speaker = object()
     for seg in entry["segments"]:
         start = int(seg.get("start") or 0)
         speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
-        yt = f"{url}&t={max(0, start - WATCH_LEAD_IN)}s"   # the link leads in; the printed time (below) is exact
-        # paragraph breaks are real "\n\n" in the text (from pause-based
-        # restoration or Zoom's own cue boundaries) -- browsers collapse
-        # raw whitespace inside a single <p>, so they need to become actual
-        # separate <p> elements or they render as one undifferentiated block
-        paragraphs = [p.strip() for p in (seg.get("text") or "").split("\n\n") if p.strip()]
-        paragraphs_html = "".join(f"<p>{emphasize(e(p))}{suggest_link(entry, start, p)}</p>" for p in paragraphs) or "<p></p>"
+        # paragraph breaks are real "\n\n" in the text -- browsers collapse raw whitespace inside a
+        # single <p>, so each becomes its own block, with its own timecode pill (the time the
+        # paragraph's first word is spoken). The pill's link leads in a few seconds; its label is exact.
+        raw = (seg.get("text") or "").split("\n\n")
+        starts = seg.get("para_starts") or []
+        blocks = []
+        for k, para in enumerate(raw):
+            para = para.strip()
+            if not para:
+                continue
+            t0 = starts[k] if k < len(starts) and starts[k] is not None else (start if k == 0 else None)
+            if t0 is None:
+                blocks.append(f"<div class=\"para\"><p><span class=\"tx\">{emphasize(e(para))}</span>{suggest_link(entry, start, para)}</p></div>")
+                continue
+            yt = f"{url}&t={max(0, int(t0) - WATCH_LEAD_IN)}s"
+            blocks.append(
+                f'<div class="para" data-t="{t0}">'
+                f'<a class="pill" href="{e(yt)}" data-seek="{max(0, int(t0) - WATCH_LEAD_IN)}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>'
+                f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
+        cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
+        prev_speaker = speaker
         seg_html.append(
-            f'<section class="seg">'
-            f'<h2 class="seg-head" id="t{start}">'
-            f'<span class="speaker">{e(speaker)}</span>'
-            f'<a class="tc" href="{e(yt)}" data-pagefind-ignore>{hhmmss(start)} &#9654; watch</a>'
-            f'</h2>'
-            f'{paragraphs_html}'
+            f'<section class="seg{" cont" if cont else ""}">'
+            f'<h2 class="seg-head" id="t{start}"><span class="speaker">{e(speaker)}</span></h2>'
+            f'{"".join(blocks) or "<div class=para><p></p></div>"}'
             f'</section>'
         )
 
@@ -345,7 +461,8 @@ def build_session_page(entry):
         series=e(series_name(entry)),
         participants=e(participants_line(entry)),
         date_word="published" if date_is_estimate(entry) else "recorded",
-        promo_image=build_promo_image(entry),
+        player=build_player(entry),
+        player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
         year=e(year),

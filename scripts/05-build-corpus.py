@@ -56,10 +56,11 @@ PARAGRAPH_PAUSE_SECONDS = 3.0
 
 def restore_punctuation(words):
     """words: ordered list of {"start": seconds, "text": word}. Returns
-    punctuated, paragraphed, sentence-capitalized text."""
+    (punctuated, paragraphed, sentence-capitalized text, the start time of each paragraph)."""
     if not words:
-        return ""
+        return "", []
     out = []
+    starts = [words[0]["start"]]
     capitalize_next = True
     for i, w in enumerate(words):
         text = w["text"]
@@ -73,41 +74,66 @@ def restore_punctuation(words):
             gap = words[i + 1]["start"] - w["start"]
             if gap >= PARAGRAPH_PAUSE_SECONDS:
                 out.append(".\n\n")
+                starts.append(words[i + 1]["start"])
                 capitalize_next = True
             elif gap >= SENTENCE_PAUSE_SECONDS:
                 out.append(".")
                 capitalize_next = True
     if out and not out[-1].rstrip().endswith((".", "!", "?", "\n\n")):
         out.append(".")
-    return "".join(out)
+    return "".join(out), starts
+
+
+# Paragraphs follow the speaker's thought: a new paragraph starts at the end of a sentence
+# where the speaker pauses and moves on, once the paragraph has some body. A paragraph never
+# runs past PARAGRAPH_MAX_CHARS: it is then cut at the next sentence end whatever the pause.
+PARAGRAPH_SOFT_MIN_CHARS = 300
+PARAGRAPH_MAX_CHARS = 800
+THOUGHT_PAUSE_SECONDS = 1.3
 
 
 def punctuate_subtitles(words):
-    """Human-made subtitle cues already carry their punctuation and
-    capitalization; every word in a cue shares the cue's start time, so pause
-    gaps mean nothing here. Only paragraph the text -- at a sentence end once
-    the paragraph is long enough."""
-    out, para_len = [], 0
+    """Speech-recognition and human-made subtitle text already carries its punctuation and
+    capitalization. Only paragraph it, at a sentence end: at a natural pause once the paragraph
+    is long enough for a thought (300+ characters), or unconditionally past 800 characters.
+    Returns (text, the start time of each paragraph)."""
+    if not words:
+        return "", []
+    out, starts, para_len = [], [words[0]["start"]], 0
     for i, w in enumerate(words):
         out.append(w["text"])
         para_len += len(w["text"]) + 1
         if i + 1 < len(words):
             sentence_end = w["text"].rstrip("\"'”’)").endswith((".", "!", "?"))
-            if sentence_end and para_len >= ZOOM_PARAGRAPH_MIN_CHARS:
+            pause = words[i + 1]["start"] - w["start"]
+            if sentence_end and ((para_len >= PARAGRAPH_SOFT_MIN_CHARS and pause >= THOUGHT_PAUSE_SECONDS)
+                                 or para_len >= PARAGRAPH_MAX_CHARS):
                 out.append("\n\n")
+                starts.append(words[i + 1]["start"])
                 para_len = 0
             else:
                 out.append(" ")
-    return "".join(out).replace(" \n\n", "\n\n").strip()
+    return "".join(out).replace(" \n\n", "\n\n").strip(), starts
 
 
 TIME_BLOCK_SECONDS = 180
 
 
-def time_block_starts(words, block=TIME_BLOCK_SECONDS, slack=60):
-    """Start times that cut an unattributed transcript into ~3-minute blocks,
-    each at the first natural pause (>= 0.8s) after the target, so every
-    search hit can deep-link to a moment near where it was actually said."""
+SENTENCE_END = re.compile(r"""[.?!…]["'”’)\]]*$""")
+ABBREVIATIONS = {"mr.", "mrs.", "ms.", "dr.", "st.", "vs.", "etc.", "e.g.", "i.e.", "no.", "jr.", "sr.", "prof."}
+
+
+def ends_sentence(word):
+    text = (word.get("text") or "").strip()
+    return bool(SENTENCE_END.search(text)) and text.lower() not in ABBREVIATIONS
+
+
+def time_block_starts(words, block=TIME_BLOCK_SECONDS, slack=90):
+    """Start times that cut an unattributed transcript into ~3-minute blocks so every
+    search hit can deep-link to a moment near where it was actually said. A block starts
+    at the first SENTENCE start after the target (never in the middle of a sentence);
+    text with no punctuation (YouTube auto-captions) falls back to the first natural pause
+    (>= 0.8 s), and if neither turns up within the slack the block starts at the target."""
     starts = [words[0]["start"]]
     target = starts[0] + block
     i, n = 1, len(words)
@@ -115,12 +141,17 @@ def time_block_starts(words, block=TIME_BLOCK_SECONDS, slack=60):
         if words[i]["start"] < target:
             i += 1
             continue
-        cut, j = i, i
+        cut, pause = None, None
+        j = i
         while j < n and words[j]["start"] < target + slack:
-            if words[j]["start"] - words[j - 1]["start"] >= 0.8:
+            if cut is None and ends_sentence(words[j - 1]):
                 cut = j
                 break
+            if pause is None and words[j]["start"] - words[j - 1]["start"] >= 0.8:
+                pause = j
             j += 1
+        if cut is None:
+            cut = pause if pause is not None else i
         starts.append(words[cut]["start"])
         target = words[cut]["start"] + block
         i = cut + 1
@@ -440,8 +471,11 @@ def segments_from_zoom(session, artists, vocab_terms):
                     text = fix_continuation_capitalization(text)
             segments[-1]["text"] += joiner + text
             segments[-1]["end"] = cue["end"]
+            if "\n\n" in joiner:
+                segments[-1]["para_starts"].append(cue["start"])
         else:
-            segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": text})
+            segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": text,
+                             "para_starts": [cue["start"]]})
 
     for seg in segments:
         seg["text"], _ = apply_vocabulary(seg["text"], vocab_terms)
@@ -657,14 +691,14 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
             if not chunk:
                 continue
             if session.get("transcript_source") in ("youtube-subtitles", "whisper-large-v3"):
-                text = punctuate_subtitles(chunk)
+                text, para_starts = punctuate_subtitles(chunk)
             else:
-                text = restore_punctuation(chunk)
+                text, para_starts = restore_punctuation(chunk)
             text, _ = correct_text(text, session, artists, vocab_terms, slug(session), chunk[0]["start"], review_rows, [])
             text = capitalize_known_terms(text, known_terms)
             start = seg["start"] if k == 0 else cuts[k]
             end = cuts[k + 1] if k + 1 < len(cuts) else seg["boundary_end"]
-            result.append({"speaker": seg["speaker"], "start": start, "end": end, "text": text})
+            result.append({"speaker": seg["speaker"], "start": start, "end": end, "text": text, "para_starts": para_starts})
     return result
 
 
@@ -691,6 +725,16 @@ def process_session(session, artists, vocab_terms, review_rows):
     if session.get("moderator"):
         session["moderator"] = canonical_name(session["moderator"])
 
+    for seg in segments:            # every paragraph needs its own start time (the page shows one per paragraph)
+        paras = seg["text"].split("\n\n")
+        starts = seg.get("para_starts") or []
+        if len(paras) != len(starts):
+            print(f"  WARNING {label(session)} at {seg['start']}: {len(paras)} paragraphs but {len(starts)} start times; using the turn start only")
+            seg["para_starts"] = [seg["start"]] + [None] * (len(paras) - 1)
+        else:
+            seg["para_starts"] = [round(s, 2) for s in starts]
+            if seg["start"] is not None:
+                seg["para_starts"][0] = seg["start"]     # the first paragraph shares the turn's printed time
     segments = apply_text_edits(session, segments)
     frontmatter = build_frontmatter(session, segments)
     body = build_body(session, segments)
