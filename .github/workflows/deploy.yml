@@ -3,6 +3,10 @@ name: Deploy search site to GitHub Pages
 on:
   push:
     branches: [main]
+    # a push that only changes the manual or README does not change the site, so it need not redeploy it
+    paths-ignore:
+      - "docs/**"
+      - "README.md"
   workflow_dispatch:
 
 permissions:

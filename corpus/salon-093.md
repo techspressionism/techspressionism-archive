@@ -16,7 +16,7 @@ flags:
   - speaker_index_missing
 ---
 
-## Michael Pierre Price [00:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2s)
+## Michael Pierre Price [00:03](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3s)
 
 Welcome. This is Techspressionism. 93. It is April 3, rd 2,025. We have a special presentation today. It's a hybrid salon where we are combining our international online audience with a live audience from the Cape Cod Museum of Art. Just 1 1 bit of piece of information here. After the presentations, we will have a Q. And a session. The way that we will order the Q. And A is that the live audience will do their questions to our presenters first, st and then we will do the Q. And a session for our online audience to ask the presenters who are at the at the Museum. So with that, I am going to Throw the microphone over to Benton Jones, who is the Director of Art at the Cape Cod Museum of Art. Benton. Welcome
 
@@ -31,14 +31,6 @@ And and that was through one of your members, Karen LaFleur and Karen proposed a
 So thank you for that recognition. And we're fortunate to have Karen and Renata with us in person here today. In fact, Renata flew in just yesterday from Lions head. Canada Jana Shefska, Sorry is a new media artist. Her video works, feature, animation, loops, digital paintings and music. She composes herself Using custom brushes. She expresses themes of biodegeneration, altered perception and feminism. Karen LaFleur moving image artwork explores the interplay between interior and exterior worlds with a focus on adaptability. She reveals vulnerabilities and complex relationships and highlights, resiliencies in her ever shifting landscapes.
 
 So we are going to now watch the trailer for marine yana, and as you can Interpret from the title this Body of work reflects on our relationship with the ocean. So with that, can you start the trailer? This is Karen here. Thank you, Brenton. Hi, everyone! See if I can get this Trailer up and running for you here.
-
-Okay, and view looking for full screen.
-
-Can you see my screen? Yes.
-
-Oh, there it is!
-
-Do.
 
 Do it.
 
@@ -60,11 +52,11 @@ Okay? So Techspressionism is defined as an artistic approach in which technology
 
 I was born in the Bronx, New York, in 1971, and I grew up on the east end of Long Island, where my father got a job teaching chemistry at Southampton College.
 
-## Allen Hirsh [11:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=713s)
+## Allen Hirsh [10:56](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=656s)
 
 I've loved to draw since I was a kid and got my start with computer art as a high school student in the 1980s, with the commodore, 64,
 
-## Cape Cod Museum of Art [12:01](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=721s)
+## Cape Cod Museum of Art [11:04](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=664s)
 
 I created my 1st digital drawings, using various input tools, including a light pen which let you draw right on the computer monitor and the Koala pad, which was an early drawing tablet. I also experimented with telecommunications, using the Commodore 64, and a 1,200 baud dial-up modem. Since this was before the World Wide Web. Most of my time online was spent dialing into underground bbss or bulletin board systems run out of people's homes. Most bbss were run by nerdy kids like myself.
 
@@ -94,11 +86,11 @@ Later that month I met with my friend Steve Miller to discuss the idea. We did s
 
 The 1st Expressionist salon was held on September 1st 2020, and in attendance were Helen Harrison, Oz Van Rosen, myself, Steve Miller, and my friend and graduate school colleague, Patrick Lichty, who was teaching animation in Abu Dhabi at the time
 
-## Allen Hirsh [20:21](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1221s)
+## Allen Hirsh [19:24](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1164s)
 
 We collectively established the current definition of Techspressionism with the goal of bringing it into common usage as a term of art. Historical nomenclature.
 
-## Cape Cod Museum of Art [20:31](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1231s)
+## Cape Cod Museum of Art [19:34](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1174s)
 
 The salons have become a core component in Techspressionism's development as a movement. Techspressionists started as an artist group during the pandemic when many people were quarantined and Zoom gained worldwide popularity as a means of communication. These meetups were inspired by the surrealist salons of the 1920s in which artists could meet informally to socialize and discuss ideas. These international artist meetups include regulars from Canada, the UK, Iran and Germany, as well as visitors. From.
 
@@ -132,15 +124,15 @@ This fall. The 1st exhibition of Techspressionist artworks outside of the United
 
 Tommy's work draws upon the aesthetics of street photography, digital culture, culture, mapping and performance. He's interested in the rapid pace of construction, displacement, and efforts of preservation both in the physical world and the digital world. So with that, I'm going to sign off and hand the mic over to Tommy
 
-## Tommy ipad [32:23](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1943s)
+## Tommy ipad [31:12](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1872s)
 
 Thank you so much, Colin.
 
-## Cape Cod Museum of Art [32:24](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1944s)
+## Cape Cod Museum of Art [31:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1873s)
 
 I'm good
 
-## Tommy ipad [32:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1945s)
+## Tommy ipad [31:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1873s)
 
 It's.
 
@@ -148,79 +140,23 @@ Oh, well, it's really wonderful to see the history of how the group has evolved 
 
 The upcoming exhibition is going to be sorry. I need to Have something here to show pictures. Now are we seeing pictures of Hello, Brooklyn?
 
-## Michael Pierre Price [33:18](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1998s)
+## Michael Pierre Price [32:07](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1927s)
 
 Yes.
 
-## Tommy ipad [33:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1999s)
+## Tommy ipad [32:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1928s)
 
 Great sorry about that. So Hello, Brooklyn was a kind of a sprawling show, if you will. We had a very large space, and the challenge of the upcoming exhibit, and Hudson Guild Gallery from April 30th to June 25th is that all of these works are going to be put into a much smaller space. So we're going to have a very interesting cozy show coming up, and I encourage everybody to Mark your calendar. April 30th is the opening reception. 4, 41 West 26th Street in Manhattan. And really I don't have that much else to say. Besides, it's been a wonderful experience as a both artist and as I hesitate to say, curator, but organizer and it's helped both sort of expand my sense of what. Aesthetically as possible with digital work, and also what's possible with building a community? Unconstrained by Geographic boundaries. So thank you, Colin, and thank you for the chance to speak up in Cape Cod. I appreciate it.
 
 And I'm gonna pass the microphone back
 
-## Cape Cod Museum of Art [34:49](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2089s)
+## Cape Cod Museum of Art [33:37](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2017s)
 
 Thank you, Tommy. We'll be showing up next. I think it's Renata coming up next, and we're going to show you some samples of a show that Renata myself. Colin Goldberg, and one of the artists who's going to present online Jan Swinburne. And also we should thank David Bloom and the curator, Yuga Zhao. For this show. It's in Chicago. It opens at the end of April. Take it away, trailer. Oh, okay, you want to put the trailer on.
 
 Okay, that's the whole thing.
 
-Hello! I'm Renata Yanniszewska, and I'm very happy to be here. Thank you, Benton, and thank you to the museum staff for hosting us For our show in Chicago, which starts at the end of April, we made a catalog which is available on the website expressionism.Com. Yes, it was sharing
-
-## Michael Pierre Price [37:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2233s)
-
-Screen screen is not being shared with us.
-
-## Cape Cod Museum of Art [37:17](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2237s)
-
-Okay. Thank you.
-
-## Michael Pierre Price [37:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2239s)
-
-So we didn't get a chance to see the Ana. The animations
-
-## Cape Cod Museum of Art [37:23](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2243s)
-
-Okay, okay, you'll see them during the the presentation
-
-## Michael Pierre Price [37:27](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2247s)
-
-Okay.
-
-## Cape Cod Museum of Art [37:29](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2249s)
-
-What we'll do is we'll we'll do the new trailer. We'll share right now. Okay, okay. Because we missed Colin. I just have to find it. This is technology folks. Okay, where's my full screen window? Full screen, full screen bit to full screen. Here we go.
-
-Good. Now, Colin's work is in there.
-
-We unshare it here. Hold on! Oh, there is.
-
-Yeah, but I've got to find it. That's the trouble with Zoom. The zoom always likes to lose it. You want to go to expressionism.Com right? No, no keynote. Oh, keynote. Okay.
-
-This is, gonna go share and then stop. We're on it. Are you seeing the screen
-
-## Michael Pierre Price [40:31](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2431s)
-
-Yes.
-
-## Cape Cod Museum of Art [40:31](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2431s)
-
-Presentation. Thank you, Michael.
-
-## Michael Pierre Price [40:34](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2434s)
-
-It's in slide show mode.
-
-## Cape Cod Museum of Art [40:36](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2436s)
-
-They have to hit play. Yeah, it's in line. You have to drag that. Drag that over
-
-## Michael Pierre Price [40:45](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2445s)
-
-Okay.
-
-## Cape Cod Museum of Art [40:47](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2447s)
-
-It's going to be on for people, though it's going to be on for people in the audience. We dragged it into position. Okay, it's gone Good, all right. So 4 of us decided to do this project together and to make the the title about Expressionism, because we were bringing it to an audience in Chicago where we've never had an exhibition. And. The challenge was that the the as you saw in the trailer? The screen is very. It's 150 feet long and very tall, about 12 feet tall at the highest point. So to make a video that size Just as an example. The average size of one of my videos might be 2,000 pixels along the longest point, the longest side. This was 15,000 pixels.
+Good, all right. So 4 of us decided to do this project together and to make the the title about Expressionism, because we were bringing it to an audience in Chicago where we've never had an exhibition. And. The challenge was that the the as you saw in the trailer? The screen is very. It's 150 feet long and very tall, about 12 feet tall at the highest point. So to make a video that size Just as an example. The average size of one of my videos might be 2,000 pixels along the longest point, the longest side. This was 15,000 pixels.
 
 So to have a file that size on your computer takes a considerable amount of power computing power and to manipulate it and to blend it with the other artists, and we had to literally work separately and then join it up, and then take it back again, and then join it up in another manner, and finally export it to the venue where they did film it with a drone, which is what you saw on the trailer. So okay,.
 
@@ -241,10 +177,6 @@ Okay, so my piece is called Interior Landscape. And when I was a graduate studen
 When I look back years after a piece is completed, I can often understand it more clearly when I see it. In context. Techspressionism is an approach that provides me with a glimpse inside myself through the oracle of technology. This line of thinking led me to the title of my piece in this exhibition, which is interior landscape. One thing that I find particularly attractive about abstract art is the variety of interpretations it can generate. I closed with this in the words of Marcel Duchamp, a work of art is completed by the viewer. That's who said it. What do you see in it.
 
 Please.
-
-Awesome.
-
-Alright. Pass it on to.
 
 Hello, everyone again I'm back. It was a real pleasure to do this project, and, like Renata said in the very beginning, a super challenge technologically, for us artists to be able to create this giant space. And there are a few people I know. We've thanked the Museum, the audience for being here. And Benton Jones. All the work that he's done on this project for the theater is amazing. And to allow us to come here today is just a delight, because I believe it was 2,002 was my 1st exhibit here at the Museum, and it was actually in this room. So we've come full circle. And that show, too, was also digital art.
 
@@ -276,31 +208,33 @@ It's 8 min, I believe, a little over 8 min between 2 min for each artist to g
 
 The one on the right we just received along with the drone footage. This is my piece at night on the video wall. Which is really dramatic. I love this shot, but if you notice in the right-hand side that color piece on the left-hand side of that colored image. There are these white lines that are kind of streaking in across, and they almost touch the little orange globe in the red ring on the left. Now look at the full left, and there are many people in this audience who knows Philip Piper. Philip Piper was my husband. For over 30 years. He passed away way too young at about 50 years old, an absolutely brilliant artist, and the reason that I selected different parts and pieces of his little white sketches here to embed within my 150 media stream Artwork, is that, Phil? His whole life was a very early transplant patient. So he spent 17 and a half years on dialysis, etc, and yet he still created beautiful work which is in the collection here at the Museum.
 
-But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago. So for me Personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there this part of the presentation. And we're going to go online. To Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
+But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago. So for me Personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there this part of the presentation. And we're going to go online.
 
-## Michael Pierre Price [57:59](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3479s)
+To Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
+
+## Michael Pierre Price [51:42](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3102s)
 
 Thank you, Karen. So I want to introduce
 
-## Cape Cod Museum of Art [58:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3482s)
+## Cape Cod Museum of Art [51:46](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3106s)
 
 Cool and
 
-## Michael Pierre Price [58:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3486s)
+## Michael Pierre Price [51:49](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3109s)
 
 Jan Swinburne intermediate practice overlaps images, sculpture, and experimental moving image art in 2 streams. Gallery-oriented exhibitions and time-based experimental forms. Her thematic focus revolves around speech, languages, landscape degenerated and regenerated images and sounds. Jan lives in Toronto. Welcome, Jan.
 
-## Jan Swinburne [58:38](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3518s)
+## Jan Swinburne [52:21](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3141s)
 
 Hi, Michael! I'll just pull up my screen share and hope it works. Just give me a second here.
 
 Okay, we don't need this every. Can you see that
 
-## Michael Pierre Price [58:57](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3537s)
+## Michael Pierre Price [52:40](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3160s)
 
 Yes.
 
-## Jan Swinburne [58:58](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3538s)
+## Jan Swinburne [52:41](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3161s)
 
 Alright. Let's see if we can make this go. You have a second to click on. Okay, so my piece I thought maybe I'd talk a little bit about My work and how this Came about. I'm interested in in making the invisible visible. And that's something that technology can definitely help with so sonic flight is an iterative project that began with An image of the sound of a war jet, a waveform that flew over my house, and it was shocking to me that the waveform actually looked a bit like the jet plane, so that made me very interested.
 
@@ -322,29 +256,31 @@ There's again a still at night Sort of gives you an idea of the scale as well, w
 
 Which was all really interesting from my point of view, to work with technically, and it took a while. So I think that's it For me. Let me just escape
 
-## Cape Cod Museum of Art [01:06:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3979s)
+## Cape Cod Museum of Art [59:35](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3575s)
 
 And stop my share.
 
-## Jan Swinburne [01:06:26](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3986s)
+## Jan Swinburne [59:42](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3582s)
 
 And I really wanted to thank everyone for having us today and My colleagues for helping out so much and being part of this project. It's been Extremely exciting. And the Curator and David and 1 50 media stream for having us. I think it's been really great. So That's it for me. Thanks
 
-## Cape Cod Museum of Art [01:06:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4013s)
+## Cape Cod Museum of Art [01:00:09](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3609s)
 
 Hey!
 
-## Michael Pierre Price [01:06:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4013s)
+## Michael Pierre Price [01:00:09](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3609s)
 
 It's Jan.
 
 What a wonderful project! I'm gonna hand it back to Cape Cod.
 
-## Cape Cod Museum of Art [01:07:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4026s)
+## Cape Cod Museum of Art [01:00:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3625s)
 
 Great thanks, Michael. So the show in Chicago opens on April 28, th and that's at 1 50 North Riverside Drive, in Chicago. The show in Chelsea opens April 30.Th So we have overlapping exhibitions, and the next salon is actually going to be broadcast from Chicago. I'm going to be down there moderating that with the curator, Yuga, and the other 3 artists, Karen, Renata and Jan, are going to be zooming in, so we'll be on site, or I'll be on site and be able to give a little walkthrough live.
 
-And that's going to be on the 1st Thursday of May at noon. So at this point. We're going to open it up for some Q&A, and we're going to have 2 pieces of it, one for the offline audience and one for the online audience. So if you guys have any questions, feel free to raise your hand and let me get the microphone for you, they won't hear you online. You say, Wall, but it seems to be in little panels. So as someone who's a technical idiot, could you explain the panels that it seems to appear on. Thank you. I think that was the choice of the designer of the installation itself. An architect who's from Chicago Rather than have a screen, he decided to make a big picket fence. So that was the artistic decision of the architect who made the model for this. And then every artist who's been invited to show has had to contend with the shape. Also the it's, you know. It's like going and seeing a picture of a Grand Canyon. We can't really explain the size of this space, but it is a huge atrium walkthrough, I mean, the ceilings are Double triple the size of the 22 foot high screen. It's all glass, and the whole building in Chicago is cantilevered at the bottom. And so all this light comes in, and I think the designer and everybody wanted to keep that light airiness within the space. And so each one of those blades is an individual monitor. So there's a lot of coordination going on here. Do you want to say anything?
+And that's going to be on the 1st Thursday of May at noon. So at this point. We're going to open it up for some Q&A, and we're going to have 2 pieces of it, one for the offline audience and one for the online audience. So if you guys have any questions, feel free to raise your hand and let me get the microphone for you, they won't hear you online.
+
+You say, Wall, but it seems to be in little panels. So as someone who's a technical idiot, could you explain the panels that it seems to appear on. Thank you. I think that was the choice of the designer of the installation itself. An architect who's from Chicago Rather than have a screen, he decided to make a big picket fence. So that was the artistic decision of the architect who made the model for this. And then every artist who's been invited to show has had to contend with the shape. Also the it's, you know. It's like going and seeing a picture of a Grand Canyon. We can't really explain the size of this space, but it is a huge atrium walkthrough, I mean, the ceilings are Double triple the size of the 22 foot high screen. It's all glass, and the whole building in Chicago is cantilevered at the bottom. And so all this light comes in, and I think the designer and everybody wanted to keep that light airiness within the space. And so each one of those blades is an individual monitor. So there's a lot of coordination going on here. Do you want to say anything?
 
 No, I think that was a pretty good explanation. Do we have any other questions from the live audience here while we're talking about that screen you mentioned, the audio is playing, and I'm also curious. What is the lobby? What is that? The building, for it looks like that's the lobby. And there's 2 reception desks. What is there a technology related purpose for the building? I believe it's mostly businesses that are housed there, corporate clients. And they're actually the people who fund the exhibition platform like pay for the screens and the setup and everything else like that. And I think it's also the headquarters of One of the large hotel chains. They also pay the artists as well. Yeah, actually, that's another thing that's important to note is that this was a commission. So we actually got paid by 150 mediastream to create our work, which is amazing and are even working with a Pr person where there was a budget that was also afforded by 150 mediastream. So it's really an amazing opportunity for us as artists, to be able to produce work on this scale, and also to be able to get compensated for it and get it out there in the world, and also to give Techspressionism a platform Both in real life and through this presentation.
 
@@ -372,127 +308,127 @@ And for my process it's totally different. I start with a drawing, and then the 
 
 And I guess we go back. Jen, do you want to say a few words about your process as well
 
-## Jan Swinburne [01:20:52](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4852s)
+## Jan Swinburne [01:14:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4446s)
 
 Yeah, I I'm very interested in taking images apart and working with low resolution and then transforming them. So in this instance, it was the still that I ended up animating which I touched on. But in my other work is general. You know it's it's generally I degrade images and change them through various apps, like so many old ones, new ones, and kind of end up with The, you know the this result in this case, and in other cases, you know, it's work with sound waves. So That's it. Basically
 
-## Cape Cod Museum of Art [01:21:39](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4899s)
+## Cape Cod Museum of Art [01:14:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4493s)
 
 Alright awesome. Well, I think what we're gonna do now is switch to the online audience, so I think Michael is gonna take over there, and we'll field some questions from everyone zooming in. If you do have a question from Zoom, if you could, please just let us know your name, and also where in the world you're zooming in from? That's always a pertinent piece of information
 
-## Michael Pierre Price [01:22:05](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4925s)
+## Michael Pierre Price [01:15:18](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4518s)
 
 Alright. Great also. If if you're familiar using the raise hand symbol from zoom, that would be great. And I see I'm gonna pick Alan Hirsch first, st Since he's had his hand raised for a little while
 
-## Allen Hirsh [01:22:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4940s)
+## Allen Hirsh [01:15:34](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4534s)
 
 Thanks, Alan. All right. So I'm I'm calling from Chevy Chase, Maryland, just north of the DC. Line. I have just a couple of simple questions. I just became aware of this group. I'm a scientist, but and I'm also a mathematical artist. So what you see behind my head is all done with a giant mathematical program that I've written myself, and I manipulate everything, Pixel, by Pixel. So it's pretty unusual. And I'd like to become an active member of the group, and I don't entirely. I mean, there was some mention about putting hashtags in my Instagram. I certainly have a lot of Instagram, but I don't know if there's a more direct way of doing it by going to your website or something like that.
 
 And people might find what I do. Pretty interesting. I also make videos of with this kind of Art behind my head, anyway. So I I that's just simply how do I become more participatory
 
-## Cape Cod Museum of Art [01:23:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5005s)
+## Cape Cod Museum of Art [01:16:39](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4599s)
 
 Sure, that's a good question. So definitely, I think attending the salons is the primary way that people can get involved with the group on a personal level. We also do have a Facebook group. If you go on Facebook and just search for Techspressionism, that's a place where people are encouraged to share their work, get feedback. But at the salons, you know, some of them, like, I said, are an open studios format, where Artists are encouraged just to share whatever they have going on, or, you know, show a little bit of a survey of what they've done in the past, and I believe we have one coming up, maybe in August.
 
 Oh, okay, yeah. July is going to be the next one where it's sort of free form. So a lot of those ones. You know, there'll be a moderator. I don't even know if we have a moderator sign. But maybe we will. Renata just volunteered. So you know we'll have a little notification in the kind of the announcement for the Salon that people who are interested in presenting to email Renata, and she'll sort of create a lineup In advance which makes it easier to be able to accommodate people. But certainly, you know, we invite people to share their work, and, you know, get involved that way. So there's also, I believe, on the website a tab called Community, that also includes a bunch of different ways to get involved with the, you know, with the group. So
 
-## Allen Hirsh [01:25:01](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5101s)
+## Allen Hirsh [01:18:15](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4695s)
 
 Just say, say one more thing. I've got a a digital piece in the dreamscapes Show coming up at the Museum where you are
 
-## Cape Cod Museum of Art [01:25:11](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5111s)
+## Cape Cod Museum of Art [01:18:25](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4705s)
 
 Oh, great!
 
-## Allen Hirsh [01:25:12](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5112s)
+## Allen Hirsh [01:18:26](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4706s)
 
 I work right in the museum
 
-## Cape Cod Museum of Art [01:25:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5114s)
+## Cape Cod Museum of Art [01:18:28](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4708s)
 
 Fantastic. Well, that that's awesome, very cool. And I think that after The Chicago salon next month, that's when the The Open Studios is going to be. And the one after that, I think, is code based work, creative coding. Yeah. And the artists for that one have already been sort of curated by Renata. And that should be a really interesting salon as well. It's artists working with algorithmic art and things of that nature. So
 
-## Michael Pierre Price [01:25:48](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5148s)
+## Michael Pierre Price [01:19:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4742s)
 
 And I'll make a I'll make a plug for the Co. Working group as well. Alan. It's it's a really dynamic group. And you can. You can come. You don't have to come all the time, but it's every Tuesday noon, Eastern and it's great for experimenting. That's kind of what I use it for when I when I show up, and I try to make it as often as I can. So that would be another thing that I would suggest
 
-## Allen Hirsh [01:26:16](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5176s)
+## Allen Hirsh [01:19:30](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4770s)
 
 Is, is there a particular link? I mean this link? I mean, how do you? How do you
 
-## Michael Pierre Price [01:26:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5180s)
+## Michael Pierre Price [01:19:34](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4774s)
 
 If you go to the Techspressionism website.
 
-## Allen Hirsh [01:26:24](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5184s)
+## Allen Hirsh [01:19:37](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4777s)
 
 Okay.
 
-## Michael Pierre Price [01:26:24](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5184s)
+## Michael Pierre Price [01:19:38](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4778s)
 
 There is a link for the coworking group there. And if you sign up, then basically you'll be sent an email with a link to the coworking
 
-## Allen Hirsh [01:26:36](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5196s)
+## Allen Hirsh [01:19:50](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4790s)
 
 Okay. Thank you.
 
-## Cape Cod Museum of Art [01:26:38](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5198s)
+## Cape Cod Museum of Art [01:19:52](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4792s)
 
 That's right on the home page. If you scroll down you'll see a section Virtual Co working. And thank you, Michael, for bringing that up. That's actually a really great way to get involved. And that small type group of artists that are kind of regulars there. So
 
-## Allen Hirsh [01:26:52](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5212s)
+## Allen Hirsh [01:20:06](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4806s)
 
 Yeah, that sounds perfect. Thank you.
 
-## Michael Pierre Price [01:26:55](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5215s)
+## Michael Pierre Price [01:20:09](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4809s)
 
 Cynthia Beth Rubin, did you have a question? Or were you gonna mention the Co working group?
 
-## Cynthia Beth Rubin [01:26:59](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5219s)
+## Cynthia Beth Rubin [01:20:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4813s)
 
 Yeah, I was just I was gonna say exactly what you said. So thank you.
 
-## Michael Pierre Price [01:27:05](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5225s)
+## Michael Pierre Price [01:20:18](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4818s)
 
 You.
 
-## Cynthia Beth Rubin [01:27:05](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5225s)
+## Cynthia Beth Rubin [01:20:19](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4819s)
 
 Doing it so well
 
-## Cape Cod Museum of Art [01:27:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5228s)
+## Cape Cod Museum of Art [01:20:22](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4822s)
 
 And one other thing, Alan, that just came to mind is that you know, if you have any ideas about activities like Maybe putting a show together or creating some other kinds of initiatives like that certainly encouraged all these different things like the co-working and the show in Uzbekistan. Tommy's exhibitions in Brooklyn and Chelsea were all things that they just came up with and organized themselves. So people, you know, and I personally encourage people to be proactive use Techspressionism as a way to put things together, that you're interested in
 
-## Allen Hirsh [01:27:46](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5266s)
+## Allen Hirsh [01:21:00](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4860s)
 
 Thank you.
 
-## Michael Pierre Price [01:27:48](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5268s)
+## Michael Pierre Price [01:21:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4862s)
 
 Any other questions. Anyone.
 
-## Cape Cod Museum of Art [01:27:55](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5275s)
+## Cape Cod Museum of Art [01:21:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4868s)
 
 I see that Patrick is here. I don't know if you want to say a couple words as a co-founder, but certainly invite you to introduce yourself. I think you're muted, Patrick.
 
-## patrick lichty [01:28:03](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5283s)
+## patrick lichty [01:21:17](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4877s)
 
 Oh, okay, yeah. Hi, I'm Patrick. I've been in digital media for How long? Colin? Maybe 30, 35 years. I'm not sure. So
 
-## Cape Cod Museum of Art [01:28:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5293s)
+## Cape Cod Museum of Art [01:21:26](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4886s)
 
 Longer than I've known you. That's
 
-## patrick lichty [01:28:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5294s)
+## patrick lichty [01:21:28](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4888s)
 
 Okay, okay, yeah. And Well, maybe I don't know. But yeah, we we Colin gave me a call and said, we, yeah, we've known each other for a long, long time since mid 2 thousands said, you know, you like collectives. And that and said, and actually, it's kind of funny is that one of my early influences was Vasi Kandinsky, one of the original expressionists and that sort of thing. So he said, You know, what do you think about something that addresses, you know, expressionism and and digital art and that sort of thing? I said, Yeah, let's let's let's give it a shot, and although a lot of my School schedule doesn't allow me to be that active in that sort of thing, because it's usually during the times of the salons and that sort of thing. It's really kind of interesting how you know this. This project has, you know, ballooned as much as it is, and I think it kind of says you know a lot, for you know I'd say people's generosity. I don't know what. What do you think, Colin
 
-## Cape Cod Museum of Art [01:29:14](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5354s)
+## Cape Cod Museum of Art [01:22:27](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4947s)
 
 Well, one thing that I think is really interesting that you've brought to the group is this idea that Techspressionism could be thought of as a 4th wave of the expressionist impulse. And I think that's a great way of framing it. If you want to just mention
 
-## patrick lichty [01:29:30](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5370s)
+## patrick lichty [01:22:43](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=4963s)
 
 Yeah, yeah, I mean. Yeah, if if we think about it. So you know, we, you know, we when we put this thing together, I say, you know, technology, you know, technological expressionism. And you know to me, I thought, Okay, you know, is this is this something new or not? And on one hand, I said, because we're using something that uses the language of art, you know of art history, I said. Probably isn't. And then, if it isn't. Then how can we think about this is that you know, if we can think about this from you know the original time of you know the expressions like Kandinsky and Kirchner and and Munch, you know the scream.
 
@@ -500,17 +436,17 @@ And then going forward to people like Jackson, Pollock and Ed Reinhard, and that
 
 You know whether people thought of it as a you know, I really kind of thought more of a community than a than a movement, you know. But the thing is is that there was this intention of having you know this, this tie to, you know expressionism as such, and you know in in that way it says, Well, you know, it seems to be that you know this. This has been going long enough, and it's large, large enough. You know that. You know. It's a you know, it's it's definitely something that you know ties into that tradition and and tries to move it into. You know the it's its next wave, you know. So this is, that's my position on it.
 
-## Cape Cod Museum of Art [01:31:16](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5476s)
+## Cape Cod Museum of Art [01:24:30](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5070s)
 
 Thanks, Patrick. It's really, I think, very compelling way to look at it. And you know I was always uncomfortable with this idea of using that term movement as well. It made me question, What is that? You know? What does that mean? I remember asking Helen Harrison, what do you think constitutes an art movement, she said, well, movement implies momentum, you know. And she said, You guys really clearly have some sort of momentum. So I thought that was interesting, and also What I could maybe consider to be the movement piece of it is something like the hashtag being spread online where there's a core group that meets on these salons. And that's kind of the community and the artist group. And then there's all these other people adopting this term for themselves, who might not even know that there's a community behind it. So I think that it's multilayered.
 
 See, Steve is in here, too. Steve was at the original 1st salon, so I also would like to invite Steve to to pop on and and say a few words if you'd like Steve
 
-## Steve Miller [01:32:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5540s)
+## Steve Miller [01:25:34](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5134s)
 
 Hey, Colin? Thanks. Listen. I I don't have much to add. You guys are really well organized, and you know the way this is has grown from. You know, our conversation on the front porch to this really fleshed out international community is nothing less than amazing, and, you know, just happy to be a part of it, and you know I've made some friendships in this group, and really happy to see Where this is going to go, and it seems to keep expanding. So movement, I think, is really appropriate. It is a movement, and there is momentum and thanks. So much for inviting me
 
-## Cape Cod Museum of Art [01:32:58](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5578s)
+## Cape Cod Museum of Art [01:26:12](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5172s)
 
 Awesome. Thank you, Steve. So I think maybe we're Yeah. I think we'll go to Benton now. Has some words he'd like to say to to finalize us being here, and I invite people to stay after if they wish to see Mariniana. Great. So I opened up here today, so I'll close. But yes, thank you all for being here. What an insightful and welcoming community Techspressionists have built! I love the the fact that it's a self identifying group. That really is the most inclusive way to be so. I think that's just a great way of Being inclusive and not keeping it just for yourselves.
 
@@ -520,6 +456,6 @@ We have over 2,000 artworks in our growing collection, but this will be the 1st 
 
 So yeah, with that, I think we'll close up the the conversation for today. And I really do appreciate people traveling from afar to get here and everyone in the online community. And I look forward to being part of it. Thank you. Thank you.
 
-## Michael Pierre Price [01:35:44](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5744s)
+## Michael Pierre Price [01:29:00](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=5340s)
 
 With that I am going to end the recording. But all our online attendees are welcome to stay for the after party. So thank you. Everybody

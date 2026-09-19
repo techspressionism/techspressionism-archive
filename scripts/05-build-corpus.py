@@ -22,11 +22,14 @@ Usage:
 import json
 import re
 import sys
+from bisect import bisect_right
+from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
 
 from lib_corrections import apply_vocabulary, correct_text
-from lib_speakers import canonical_name, finalize_speakers
+from lib_media import TYPES, label, selected, slug
+from lib_speakers import canonical_name, finalize_speakers, is_not_speaker
 
 ROOT = Path(__file__).resolve().parent.parent
 SESSIONS_PATH = ROOT / "data" / "sessions.json"
@@ -79,6 +82,51 @@ def restore_punctuation(words):
     return "".join(out)
 
 
+def punctuate_subtitles(words):
+    """Human-made subtitle cues already carry their punctuation and
+    capitalization; every word in a cue shares the cue's start time, so pause
+    gaps mean nothing here. Only paragraph the text -- at a sentence end once
+    the paragraph is long enough."""
+    out, para_len = [], 0
+    for i, w in enumerate(words):
+        out.append(w["text"])
+        para_len += len(w["text"]) + 1
+        if i + 1 < len(words):
+            sentence_end = w["text"].rstrip("\"'”’)").endswith((".", "!", "?"))
+            if sentence_end and para_len >= ZOOM_PARAGRAPH_MIN_CHARS:
+                out.append("\n\n")
+                para_len = 0
+            else:
+                out.append(" ")
+    return "".join(out).replace(" \n\n", "\n\n").strip()
+
+
+TIME_BLOCK_SECONDS = 180
+
+
+def time_block_starts(words, block=TIME_BLOCK_SECONDS, slack=60):
+    """Start times that cut an unattributed transcript into ~3-minute blocks,
+    each at the first natural pause (>= 0.8s) after the target, so every
+    search hit can deep-link to a moment near where it was actually said."""
+    starts = [words[0]["start"]]
+    target = starts[0] + block
+    i, n = 1, len(words)
+    while i < n:
+        if words[i]["start"] < target:
+            i += 1
+            continue
+        cut, j = i, i
+        while j < n and words[j]["start"] < target + slack:
+            if words[j]["start"] - words[j - 1]["start"] >= 0.8:
+                cut = j
+                break
+            j += 1
+        starts.append(words[cut]["start"])
+        target = words[cut]["start"] + block
+        i = cut + 1
+    return starts
+
+
 def build_known_terms(session, vocab_terms, artists):
     """Proper nouns safe to capitalize on sight, case-insensitive exact
     match, word-boundary-anchored. Deliberately excludes single-token names
@@ -90,18 +138,22 @@ def build_known_terms(session, vocab_terms, artists):
     draws on the whole artist index, not just this session's own speakers
     -- someone like Colin Goldberg gets mentioned constantly without being
     formally indexed as "speaking" in most sessions."""
+    # Every name goes in as its CANONICAL spelling (data/speaker_aliases.json), so variants of one
+    # person ("Susan DeTroy" from an index, "Susan Detroy" from the vocabulary) collapse to one term.
+    # Without that, same-length variants were applied in set-iteration order -- which changes with
+    # Python's per-run hash seed -- and the page came out differently from one build to the next.
     terms = set()
     for s in session.get("speakers", []):
         if len(s["name"].split()) >= 2:
-            terms.add(s["name"])
+            terms.add(canonical_name(s["name"]))
     if session.get("moderator") and len(session["moderator"].split()) >= 2:
-        terms.add(session["moderator"])
+        terms.add(canonical_name(session["moderator"]))
     for a in artists:
         if len(a["name"].split()) >= 2:
-            terms.add(a["name"])
+            terms.add(canonical_name(a["name"]))
     for t in vocab_terms:
         terms.add(t["canonical"])
-    return sorted(terms, key=lambda t: -len(t))
+    return sorted(terms, key=lambda t: (-len(t), t))   # longest first; ties alphabetical, never set order
 
 
 def capitalize_known_terms(text, terms):
@@ -220,11 +272,14 @@ def build_frontmatter(session, segments):
     lines.append(f"url: {yaml_scalar(session['url'])}")
     lines.append(f"duration_seconds: {session['duration_seconds']}")
     lines.append(f"moderator: {yaml_scalar(session['moderator'])}")
+    for key in ("interviewee", "interviewer"):
+        if session.get(key):
+            lines.append(f"{key}: {yaml_scalar(session[key])}")
     lines.append("speakers:")
     for s in session.get("speakers", []):
         lines.append(f"  - name: {yaml_scalar(s['name'])}")
         lines.append(f"    country: {yaml_scalar(s['country'])}")
-        lines.append(f"    start: {s['start_seconds']}")
+        lines.append(f"    start: {s.get('start_seconds')}")
     lines.append(f"transcript_source: {yaml_scalar(session['transcript_source'])}")
     lines.append('languages: ["en"]')
     if session.get("flags"):
@@ -233,6 +288,45 @@ def build_frontmatter(session, segments):
             lines.append(f"  - {flag}")
     lines.append("---")
     return "\n".join(lines)
+
+
+TEXT_EDITS_DIR = ROOT / "data" / "text-edits"
+
+
+def apply_text_edits(session, segments):
+    """Corrections made by people (TextReview, or suggestions imported from the public form),
+    stored apart from the machine text in data/text-edits/<slug>.json so a rebuild never loses them.
+    An edit says: the paragraph that reads `old`, near time `t`, should read `new`. It is applied
+    only where `old` matches a paragraph EXACTLY; if the machine text has changed since (a re-run of
+    Whisper, a new vocabulary rule) the edit is reported as stale and left unapplied rather than
+    guessed at. Only edits with status "approved" are used. Runs last, after every other processing
+    step, so the person's words are published as written."""
+    path = TEXT_EDITS_DIR / f"{slug(session)}.json"
+    if not path.exists():
+        return segments
+    edits = [e for e in json.loads(path.read_text()).get("edits", []) if e.get("status", "approved") == "approved"]
+    if not edits:
+        return segments
+    paragraphs = [seg["text"].split("\n\n") for seg in segments]
+    applied = stale = 0
+    for e in edits:
+        hits = []
+        for i, paras in enumerate(paragraphs):
+            for j, p in enumerate(paras):
+                if p == e["old"]:
+                    start = segments[i]["start"] or 0
+                    end = segments[i].get("end") or start
+                    hits.append((0 if start <= e["t"] <= end else min(abs(e["t"] - start), abs(e["t"] - end)), i, j))
+        if not hits:
+            stale += 1
+            continue
+        _, i, j = min(hits)
+        paragraphs[i][j] = e["new"]
+        applied += 1
+    for seg, paras in zip(segments, paragraphs):
+        seg["text"] = "\n\n".join(paras)
+    print(f"  {label(session)}: {applied} text corrections applied" + (f", {stale} STALE (the machine text changed; review them in TextReview)" if stale else ""))
+    return segments
 
 
 def build_body(session, segments):
@@ -308,7 +402,7 @@ def italicize_titles(text):
 
 
 def segments_from_zoom(session, artists, vocab_terms):
-    path = CORRECTED_DIR / f"salon-{int(session['number']):03d}.json"
+    path = CORRECTED_DIR / f"{slug(session)}.json"
     with open(path) as f:
         data = json.load(f)
 
@@ -354,21 +448,187 @@ def segments_from_zoom(session, artists, vocab_terms):
     return segments
 
 
+NAMETAG_DIR = ROOT / "raw" / "nametag"
+NAMETAG_LAG = 1.0       # Zoom moves the on-screen name about a second after a voice starts
+NAMETAG_MIN_RUN = 6.0   # a shorter blip of another name between two runs of one person is label flicker
+NAMETAG_SNAP = 4.0      # a change of speaker moves to a sentence end/pause this close to it
+NAMETAG_FILL = 10.0     # seconds a name carries through a gap with no label on screen
+
+
+def _speaker_name(text):
+    """A person's display name from the on-screen text, or None. Rejects text from
+    a shared screen ("Publish to Hubs...", "• Share") and strips OCR stray marks."""
+    text = re.sub(r"^[^A-Za-z]+|[^A-Za-z.]+$", "", text or "").strip()
+    ok = re.fullmatch(r"[A-Za-z][A-Za-z.'’\- ]{2,40}", text) and 1 <= len(text.split()) <= 4
+    # whole words only: a substring test rejects real names ("Christopher" contains "stop")
+    ui = r"\b(share[ds]?|publish\w*|favorites?|screen|zoom|record\w*|mute\w*|stop|bookmarks?|other|hubs?|desktop|downloads?|folders?|windows?|menu|chrome|safari|finder|home)\b"
+    return text if ok and not re.search(ui, text, re.I) else None
+
+
+def nametag_boundaries(session, words, artists):
+    """[(start_seconds, raw speaker name)] for a Whisper transcript, from the
+    on-screen speaker names Stage 3c read off the video -- or None when there
+    is no usable reading. Words are attributed by the name showing a moment
+    after they were said, flicker is smoothed, and each change of speaker is
+    moved to the nearest sentence end so a turn never starts mid-sentence.
+    Turns render like every other attributed page: one heading per turn."""
+    path = NAMETAG_DIR / f"{slug(session)}.json"
+    if session.get("transcript_source") != "whisper-large-v3" or not path.exists():
+        return None
+    tag = json.loads(path.read_text())
+    # "usable" only means names could be read; a recording is used for attribution
+    # only after it has been checked and marked "approved": true (the survey found
+    # spotlighted cameras and screen text that read fine but do not name the speaker)
+    if not tag.get("usable") or tag.get("partial") or not tag.get("approved"):
+        return None
+    step, samples = tag["step"], tag["samples"]
+
+    # Variants of one person's name -> the most common spelling: spacing and
+    # punctuation ("Systaime M B" / "Systaime MB", "•Yuge Zhou") and the text
+    # reader's near-misses ("Jan Swinbume" / "Jan Swinburne")
+    samples = [[t, _speaker_name(n), lay] for t, n, lay in samples]  # screen text -> None
+    spellings = []  # (letters only, spelling), most common first
+    spelling = {}
+    for name, _ in Counter(n for _, n, _ in samples if n).most_common():
+        key = re.sub(r"[^a-z]", "", name.lower())
+        hit = next((s for s in spellings if SequenceMatcher(None, key, s[0]).ratio() >= 0.85), None)
+        if not hit:
+            spellings.append((key, name))
+            hit = spellings[-1]
+        spelling[name] = hit[1]
+    labels = [normalize_speaker_name(spelling[n], session.get("speakers", []), artists) if n else None
+              for _, n, _ in samples]
+    # No name on screen (a pause, a moment of gallery view): whoever was last named
+    # keeps the floor, but only for NAMETAG_FILL seconds. A longer gap stays
+    # unattributed -- guessing through it credits words to the wrong person.
+    last, since = None, 0
+    for i, n in enumerate(labels):
+        if n:
+            last, since = n, 0
+        else:
+            since += step
+            labels[i] = last if since <= NAMETAG_FILL else None
+    # A-B-A with a short B is flicker, not a turn
+    runs, i = [], 0
+    while i < len(labels):
+        j = i
+        while j < len(labels) and labels[j] == labels[i]:
+            j += 1
+        runs.append([labels[i], i, j])
+        i = j
+    for k in range(1, len(runs) - 1):
+        if runs[k - 1][0] == runs[k + 1][0] != runs[k][0] and (runs[k][2] - runs[k][1]) * step < NAMETAG_MIN_RUN:
+            for x in range(runs[k][1], runs[k][2]):
+                labels[x] = runs[k - 1][0]
+
+    def label_at(t):
+        return labels[min(max(round((t + NAMETAG_LAG - samples[0][0]) / step), 0), len(labels) - 1)]
+
+    def turn_start(j):  # would a new turn read naturally starting at word j?
+        return j == 0 or words[j - 1]["text"].rstrip("\"'”’)").endswith((".", "!", "?")) or words[j]["start"] - words[j - 1]["start"] >= 1.0
+
+    per_word = [label_at(w["start"]) for w in words]
+    changes = [i for i in range(1, len(words)) if per_word[i] != per_word[i - 1]]
+    cuts = []
+    for c in changes:
+        near = [j for j in range(max(1, c - 40), min(len(words), c + 40)) if turn_start(j) and abs(words[j]["start"] - words[c]["start"]) <= NAMETAG_SNAP]
+        cuts.append(min(near, key=lambda j: abs(words[j]["start"] - words[c]["start"])) if near else c)
+    starts = [0] + sorted(set(cuts))
+    result = []
+    for a, b in zip(starts, starts[1:] + [len(words)]):
+        # the speaker of a turn is whoever the labels say for most of its words
+        who = max({p: per_word[a:b].count(p) for p in set(per_word[a:b])}.items(), key=lambda kv: kv[1])[0]
+        if result and result[-1][1] == who:
+            continue
+        result.append((words[a]["start"], who))
+    return result
+
+
+DIARIZE_DIR = ROOT / "raw" / "diarize"
+VOICE_NAMES_DIR = ROOT / "data" / "voice-names"
+
+
+def _voice_fingerprint(turns, voice):
+    """Same as namereview.py: changes if the voices were re-separated, so an old decision is
+    never applied to a different voice."""
+    import hashlib
+    mine = [(round(s), round(e)) for s, e, v in turns if v == voice]
+    return hashlib.sha1(json.dumps(mine[:40]).encode()).hexdigest()[:10]
+
+
+def voice_boundaries(session, words):
+    """[(start_seconds, name or None)] for a Whisper transcript, from the voices Stage 3d
+    separated and the names a person confirmed in NameReview (data/voice-names/<slug>.json).
+    A voice gets a name only from a current human decision, or -- when the reviewer ticked
+    "approve the automatic names" -- from its 'confirmed' name (screen and speaker index agreed).
+    Every other voice stays unattributed. None when there is nothing to use."""
+    d_path, n_path = DIARIZE_DIR / f"{slug(session)}.json", VOICE_NAMES_DIR / f"{slug(session)}.json"
+    if session.get("transcript_source") != "whisper-large-v3" or not d_path.exists() or not n_path.exists():
+        return None
+    diar, dec = json.loads(d_path.read_text()), json.loads(n_path.read_text())
+    turns = sorted(tuple(t) for t in diar["turns"])
+    names = {}
+    for voice, info in diar["voices"].items():
+        saved = dec.get("voices", {}).get(voice)
+        if saved is not None and saved.get("fingerprint") == _voice_fingerprint(turns, voice):
+            names[voice] = saved.get("name") or None          # "" = the reviewer chose to leave it unattributed
+        elif dec.get("approved_auto") and info.get("tier") == "confirmed":
+            names[voice] = info["name"]
+    if not any(names.values()):
+        return None
+    starts = [t[0] for t in turns]
+
+    def voice_at(t0):
+        """The voice speaking during [t0, t0+0.35]: most overlap, else the nearest turn within 1.5 s."""
+        i, best = bisect_right(starts, t0) - 1, None
+        for k in range(max(i - 25, 0), min(i + 6, len(turns))):
+            s, e, v = turns[k]
+            ov = min(e, t0 + 0.35) - max(s, t0)
+            gap = 0 if ov > 0 else min(abs(s - (t0 + 0.35)), abs(t0 - e))
+            key = (ov > 0, ov if ov > 0 else -gap, s)
+            if (ov > 0 or gap <= 1.5) and (best is None or key > best[0]):
+                best = (key, v)
+        return best[1] if best else None
+
+    per_word = [names.get(voice_at(w["start"])) for w in words]
+    ends = lambda j: words[j - 1]["text"].rstrip("\"'”’)").endswith((".", "!", "?"))
+    turn_start = lambda j: j == 0 or ends(j) or words[j]["start"] - words[j - 1]["start"] >= 1.0
+    cuts = []
+    for c in (i for i in range(1, len(words)) if per_word[i] != per_word[i - 1]):
+        near = [j for j in range(max(1, c - 40), min(len(words), c + 40))
+                if turn_start(j) and abs(words[j]["start"] - words[c]["start"]) <= NAMETAG_SNAP]
+        cuts.append(min(near, key=lambda j: abs(words[j]["start"] - words[c]["start"])) if near else c)
+    starts_i = [0] + sorted(set(cuts))
+    out = []
+    for a, b in zip(starts_i, starts_i[1:] + [len(words)]):
+        who = max(Counter(per_word[a:b]).items(), key=lambda kv: kv[1])[0]
+        if not out or out[-1][1] != who:
+            out.append((words[a]["start"], who))
+    return out
+
+
 def segments_from_youtube(session, artists, vocab_terms, review_rows):
-    path = TRANSCRIPTS_DIR / f"salon-{int(session['number']):03d}.json"
+    path = TRANSCRIPTS_DIR / f"{slug(session)}.json"
     with open(path) as f:
         data = json.load(f)
     words = data.get("words") or []
     if not words:
         return []
 
-    speaker_index = sorted(session.get("speakers", []), key=lambda s: s["start_seconds"])
+    speaker_index = sorted((s for s in session.get("speakers", []) if s.get("start_seconds") is not None),
+                           key=lambda s: s["start_seconds"])
     boundaries = [(s["start_seconds"], s["name"]) for s in speaker_index]
+    nametag = nametag_boundaries(session, words, artists)
+    voices = voice_boundaries(session, words)
+    if voices:  # voices confirmed by a person (or by two agreeing sources they approved): best evidence
+        boundaries = voices
+    elif nametag:  # read off the video: finer and more reliable than the description's index
+        boundaries = nametag
 
     segments = []
     if not boundaries:
         # No speaker index to slice by (Stage 1 flagged speaker_index_missing)
-        # -- emit the whole transcript as one unattributed block rather than
+        # -- emit the transcript as unattributed time blocks rather than
         # silently dropping real transcript content from the corpus.
         segments.append({"speaker": None, "start": words[0]["start"], "boundary_end": None})
     elif boundaries[0][0] > words[0]["start"] + 5 and session.get("moderator"):
@@ -383,10 +643,28 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
         seg_words = [w for w in words if w["start"] >= seg["start"] and (seg["boundary_end"] is None or w["start"] < seg["boundary_end"])]
         if not seg_words:
             continue
-        text = restore_punctuation(seg_words)
-        text, _ = correct_text(text, session, artists, vocab_terms, session["number"], seg["start"], review_rows, [])
-        text = capitalize_known_terms(text, known_terms)
-        result.append({"speaker": seg["speaker"], "start": seg["start"], "end": seg["boundary_end"], "text": text})
+        # unattributed stretches (no speaker index, or a "Discussion" with many
+        # voices) get cut into ~3-minute blocks so every hit deep-links to a
+        # moment near where it was said
+        group = seg["speaker"] is None or is_not_speaker(seg["speaker"])
+        if group:
+            cuts = time_block_starts(seg_words)
+            chunks = [[w for w in seg_words if w["start"] >= a and (b is None or w["start"] < b)]
+                      for a, b in zip(cuts, cuts[1:] + [None])]
+        else:
+            chunks, cuts = [seg_words], [seg["start"]]
+        for k, chunk in enumerate(chunks):
+            if not chunk:
+                continue
+            if session.get("transcript_source") in ("youtube-subtitles", "whisper-large-v3"):
+                text = punctuate_subtitles(chunk)
+            else:
+                text = restore_punctuation(chunk)
+            text, _ = correct_text(text, session, artists, vocab_terms, slug(session), chunk[0]["start"], review_rows, [])
+            text = capitalize_known_terms(text, known_terms)
+            start = seg["start"] if k == 0 else cuts[k]
+            end = cuts[k + 1] if k + 1 < len(cuts) else seg["boundary_end"]
+            result.append({"speaker": seg["speaker"], "start": start, "end": end, "text": text})
     return result
 
 
@@ -394,10 +672,10 @@ def process_session(session, artists, vocab_terms, review_rows):
     source = session.get("transcript_source")
     if source == "zoom-transcript":
         segments = segments_from_zoom(session, artists, vocab_terms)
-    elif source in ("youtube-auto-captions", "youtube-subtitles"):
+    elif source in ("youtube-auto-captions", "youtube-subtitles", "whisper-large-v3"):
         segments = segments_from_youtube(session, artists, vocab_terms, review_rows)
     else:
-        print(f"Salon {session['number']}: no usable transcript source ({source}), skipping corpus build")
+        print(f"{label(session)}: no usable transcript source ({source}), skipping corpus build")
         return None
 
     # canonical names are applied only to what gets published -- the raw
@@ -407,15 +685,19 @@ def process_session(session, artists, vocab_terms, review_rows):
         if seg["speaker"]:
             seg["speaker"] = canonical_name(seg["speaker"])
     session = {**session, "speakers": finalize_speakers(session.get("speakers", []))}
+    if any(s.get("start_seconds") is not None for s in session["speakers"]):
+        # Stage 1 can leave this flag behind when the index came from the site page instead
+        session["flags"] = [f for f in session.get("flags") or [] if f != "speaker_index_missing"]
     if session.get("moderator"):
         session["moderator"] = canonical_name(session["moderator"])
 
+    segments = apply_text_edits(session, segments)
     frontmatter = build_frontmatter(session, segments)
     body = build_body(session, segments)
     md = f"{frontmatter}\n\n{body}\n"
 
     CORPUS_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = CORPUS_DIR / f"salon-{int(session['number']):03d}.md"
+    out_path = CORPUS_DIR / f"{slug(session)}.md"
     out_path.write_text(md)
     return out_path, segments, session
 
@@ -428,36 +710,38 @@ def main():
     with open(VOCAB_PATH) as f:
         vocab_terms = json.load(f)["terms"]
 
-    numbers = set(sys.argv[1:]) if len(sys.argv) > 1 else None
+    flags = [a for a in sys.argv[1:] if a.startswith("--")]   # --no-review: don't append to the name-review queue
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
     resolve_country = build_country_resolver(artists)
     review_rows = []
     corpus_json = []
 
     for session in sessions:
-        if numbers is not None and str(session["number"]) not in numbers:
+        if not selected(session, args):
             continue
         result = process_session(session, artists, vocab_terms, review_rows)
         if result:
             out_path, segments, session = result
-            print(f"Salon {session['number']}: {len(segments)} segments -> {out_path}")
+            print(f"{label(session)}: {len(segments)} segments -> {out_path}")
             corpus_json.append({**{k: session[k] for k in [
                 "type", "number", "session_title", "date_recorded", "date_published",
                 "video_id", "url", "duration_seconds", "moderator", "transcript_source", "flags",
             ]},
+                **{k: session[k] for k in ("interviewee", "interviewer") if session.get(k)},
                 "speakers": [
                     {
                         "name": s["name"],
                         "location": s.get("country"),
                         "country": resolve_country(s["name"], s.get("country")),
-                        "start": s["start_seconds"],
+                        "start": s.get("start_seconds"),
                     }
-                    for s in sorted(session.get("speakers", []), key=lambda s: s["start_seconds"])
+                    for s in sorted(session.get("speakers", []), key=lambda s: s.get("start_seconds") or 0)
                 ],
                 "languages": ["en"],
                 "segments": segments,
             })
 
-    if numbers is None:
+    if not args:
         unmatched = [k for k, n in TITLE_HITS.items() if n == 0]
         print(f"Book titles italicized: {sum(TITLE_HITS.values())} across {len(TITLE_HITS) - len(unmatched)}/{len(TITLE_HITS)} entries")
         for k in unmatched:
@@ -468,14 +752,16 @@ def main():
     if corpus_json_path.exists():
         with open(corpus_json_path) as f:
             existing = json.load(f)
-    by_number = {e["number"]: e for e in existing}
+    by_slug = {slug(e): e for e in existing}
     for entry in corpus_json:
-        by_number[entry["number"]] = entry
+        by_slug[slug(entry)] = entry
+    type_order = list(TYPES)
     with open(corpus_json_path, "w") as f:
-        json.dump(sorted(by_number.values(), key=lambda e: e["number"]), f, indent=2, ensure_ascii=False)
+        json.dump(sorted(by_slug.values(), key=lambda e: (type_order.index(e.get("type", "salon")), e["number"])),
+                  f, indent=2, ensure_ascii=False)
     print(f"\nWrote {corpus_json_path}")
 
-    if review_rows:
+    if review_rows and "--no-review" not in flags:
         import csv
         REVIEW_CSV.parent.mkdir(parents=True, exist_ok=True)
         file_exists = REVIEW_CSV.exists()

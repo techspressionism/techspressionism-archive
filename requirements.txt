@@ -1,0 +1,7 @@
+# Only Stage 3 (Whisper) and the yt-dlp fetches need these; Stages 2, 4, 5, 6 are standard-library only.
+# Python 3.10+ required (mlx, yt-dlp). Recreate with:
+#   uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements.txt
+#   ln -sf "$(.venv/bin/python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')" .venv/bin/ffmpeg
+yt-dlp
+mlx-whisper
+imageio-ffmpeg   # bundles the ffmpeg binary (no Homebrew needed)

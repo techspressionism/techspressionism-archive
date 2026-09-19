@@ -19,19 +19,43 @@
     "Morgan Harper Nichols USA": "Morgan Harper Nichols",
     "Sahar Moussavi سحر": "Sahar Moussavi",
     "Cari Ann Shim Sham": "cari ann shim sham",
-    "mowna (The Museum of Wild and Newfangled Art)": "mowna"
+    "mowna (The Museum of Wild and Newfangled Art)": "mowna",
+    "Helen Harrison": "Helen A. Harrison",
+    "Davo Bradley": "Davonte Bradley",
+    "DAVO": "Davonte Bradley",
+    "Paul D. Milller aka DJ Spooky that Subliminal Kid": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
+    "Paul D. Miller (DJ Spooky that Subliminal Kid)": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
+    "cari ann shim sham*": "cari ann shim sham",
+    "Vernada Lights": "Verneda Lights",
+    "Randy Matushevitz": "Randi Matushevitz",
+    "Cha :)": "cha :)",
+    "Karen Lafleur": "Karen LaFleur"
   },
   "not_speakers": [
     "COLLAB #1",
     "TECHSPRESSIONIST COLLAB#1",
     "Journal announcement",
     "SURPRISE CAMEO!!",
-    "Adios from Everywhere"
+    "Adios from Everywhere",
+    "Discussion",
+    "Announcements"
   ],
   "duos": {
-    "Colin Goldberg & Steve Miller": ["Colin Goldberg", "Steve Miller"],
-    "Joey Zaza & Cari Ann Shim Sham": ["Joey Zaza", "cari ann shim sham"],
-    "Lorin Roser And Nina Kuo (NYC, NY USA)": ["Lorin Roser", "Nina Kuo"],
-    "NPT / Negin Ehtesabian and Patrick Lichty": ["Negin Ehtesabian", "Patrick Lichty"]
+    "Colin Goldberg & Steve Miller": [
+      "Colin Goldberg",
+      "Steve Miller"
+    ],
+    "Joey Zaza & Cari Ann Shim Sham": [
+      "Joey Zaza",
+      "cari ann shim sham"
+    ],
+    "Lorin Roser And Nina Kuo (NYC, NY USA)": [
+      "Lorin Roser",
+      "Nina Kuo"
+    ],
+    "NPT / Negin Ehtesabian and Patrick Lichty": [
+      "Negin Ehtesabian",
+      "Patrick Lichty"
+    ]
   }
 }

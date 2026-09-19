@@ -38,6 +38,9 @@ from pathlib import Path
 from lib_corrections import correct_text
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_media import label, selected, slug
+
 SESSIONS_PATH = ROOT / "data" / "sessions.json"
 ARTISTS_PATH = ROOT / "data" / "artists.json"
 VOCAB_PATH = ROOT / "data" / "vocabulary.json"
@@ -47,10 +50,10 @@ REVIEW_CSV = ROOT / "review" / "name-candidates.csv"
 
 
 def process_session(session, artists, vocab_terms, review_rows):
-    number = session["number"]
-    in_path = TRANSCRIPTS_DIR / f"salon-{int(number):03d}.json"
+    number = slug(session)
+    in_path = TRANSCRIPTS_DIR / f"{number}.json"
     if not in_path.exists():
-        print(f"Salon {number}: no transcript file at {in_path}, skipping")
+        print(f"{label(session)}: no transcript file at {in_path}, skipping")
         return None
 
     with open(in_path) as f:
@@ -63,7 +66,7 @@ def process_session(session, artists, vocab_terms, review_rows):
         vocab_subs_total += n
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = OUT_DIR / f"salon-{int(number):03d}.json"
+    out_path = OUT_DIR / f"{number}.json"
     with open(out_path, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
@@ -78,15 +81,15 @@ def main():
     with open(VOCAB_PATH) as f:
         vocab_terms = json.load(f)["terms"]
 
-    numbers = set(sys.argv[1:]) if len(sys.argv) > 1 else None
+    args = sys.argv[1:]
     review_rows = []
 
     for session in sessions:
-        if numbers is not None and str(session["number"]) not in numbers:
+        if not selected(session, args):
             continue
         result = process_session(session, artists, vocab_terms, review_rows)
         if result:
-            print(f"Salon {session['number']}: {result['vocab_substitutions']} vocab substitutions, "
+            print(f"{label(session)}: {result['vocab_substitutions']} vocab substitutions, "
                   f"{len(result['name_corrections'])} name corrections -> {result['out_path']}")
             for c in result["name_corrections"]:
                 print(f"    '{c['original']}' -> '{c['corrected']}' (ratio={c['ratio']}, t={c['cue_start']}s)")

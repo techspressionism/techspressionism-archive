@@ -28,7 +28,7 @@ transcript_source: zoom-transcript
 languages: ["en"]
 ---
 
-## Michael Pierre Price [00:03](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3s)
+## Michael Pierre Price [00:02](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2s)
 
 Hi. My name is Michael Pierre Price. I'm an artist out of Phoenix, Arizona. Today is January second, 2025. And this is Techspressionism, Salon number 90, with the title called Origins. I wanted to make a few remarks before we actually begin with our presenters today. One of the things, I think, is really important about Techspressionism that I've long held is that a significant part of the Techspressionist community is the lived history. Especially with the early days of technology based art making that a number of our artists in our group actually experienced. And that's what we'll be discussing today. Some of those. Things that the artist presenters have lived through and what they got to witness For many of our presenting artists. These formative years in the rise of technology, especially digital technology spans from as early as the 1960s and 70s into the transformative decade of the 1980s.
 
@@ -38,7 +38,7 @@ I want to personally thank Steve Miller for sharing his insights with me. While 
 
 So without further ado, Steve, I'd like to welcome you as our 1st presenter today.
 
-## Steve Miller [02:41](https://www.youtube.com/watch?v=o7pyuyo35iU&t=161s)
+## Steve Miller [02:40](https://www.youtube.com/watch?v=o7pyuyo35iU&t=160s)
 
 Thank you, Michael. Let's see, here we are. You can see my screen, and we will.
 
@@ -58,7 +58,7 @@ And so he wrote this essay called the Panopticon, and it was really about the tr
 
 In the culture today. So I was looking at fine art. And you know, this is a piece by Stella from 1959. And if you don't know these black paintings, most people do. You know, he put a grid down? Very simple, right? He x'd out a certain area of the canvas, you know, and that center, horizontal single is the width of one brush stroke. And then he just mechanically did those 3 inch brush strokes all across the canvas. And I thought, This is interesting, because, you know, I was recognizing that computers were systems, and that computers could generate images. And in this case It's a an image from the warhead of a intercontinental ballistic missile that was mapping out the landscape to go to its target zone. So these are not images that I had invented. They were images that I was just responding to and putting them together in paintings.
 
-And then you know, the final book of many books, but that I'm showing today. Wittgenstein was also looking at language. And he wrote an essay about the the The arbitrary nature of language and and he was looking at the color white, and thinking about all the different ways. You could have snow, white, ivory, white winter, white cream, white and and and this was really influential for Jasper John. So now we're getting back to the you know the language question again. So you know what's interesting about this particular painting. You can see in one section almost to the left, you see The word white Painted in the color red on top of the color orange. So you have this like, really.
+And then you know, the final book of many books, but that I'm showing today. Wittgenstein was also looking at language. And he wrote an essay about the the The arbitrary nature of language and and he was looking at the color white, and thinking about all the different ways. You could have snow, white, ivory, white winter, white cream, white and and and this was really influential for Jasper Johns. So now we're getting back to the you know the language question again. So you know what's interesting about this particular painting. You can see in one section almost to the left, you see The word white Painted in the color red on top of the color orange. So you have this like, really.
 
 You know, very visually clear notion about the arbitrary nature of language. Right? You still read it as orange, whether it's painted in white, and this sort of disassociation between the thing that signified and the signifier. So that's the stuff that got me into this technology game. And then I started actually making images. And this is an image. You know again looking at. I'm looking at Cuba's, and I'm going like, Wow, I really wished I lived in that time, because this invention of this new language really like excited me, and I was wondering well, what would be the next thing that would be. You know the new kind of language system for my time. And even in 1984, I knew it was going to be. Technology. And I was thinking then, artificial intelligence. So this image took about 3 h to create. In 1984 on a graphics computer used for ABC sports at Peter Caesar video. And the computer was the size of my kitchen, and it took About that time just to pixelize an image. So this was the start of me. You know this is something we could do in Photoshop in a nanosecond right? But this is how slow and trudging it was. But I just wanted to see if I could pixelate this landscape and turn it into kind of an average images of averages right? Each area got averaged, and there you got to be the block of the image. So.
 
@@ -74,15 +74,13 @@ So with that, I'll turn it over to the next person if I can. Oh, there you go! S
 
 I think you're on mute, Michael.
 
-## Michael Pierre Price [17:13](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1033s)
+## Michael Pierre Price [16:40](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1000s)
 
 Thanks. That was really good presentation, Steve. I really appreciate it. Alright. Next up we have Darcy.
 
-## Darcy Gerbarg [17:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1046s)
+## Darcy Gerbarg [17:08](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1028s)
 
-How come? I'm not seeing my screen. Gene.
-
-Your presentation is this, and then click share. I did that. Okay.
+I did that. Okay.
 
 Hi, I'm Darcy Gerbarg, the latest tools of my time. In the late 1970s I believed that the leading artists of each generation were using the latest tools of their time for making art. I was married to a pioneer digital music composer, Robert Paul Mason, and we had just built the Rpm Sound recording studio at 12 East 12th Street in New York City. This prompted me to go out and find the latest art making tools for the visual arts. I quickly discovered Ruth Levitt's book and contacted some of the artists in it. I also found out that computer graphics and digitally controlled video were the newest art tools being developed.
 
@@ -120,145 +118,31 @@ Finally, really large, excellent, full color archival quality printers became av
 
 Fortunately for me, the renowned critic, author, and Curator Karen Wilkin visited my studio and gave me her opinion of some of my 36 by 60 inch paintings on canvas. Her comment was that they were strong, which was enough not to discourage me. Today I print my digital paintings on canvas and enhance them with the AR sculptures that they are created from For historical information that you can rely on. I refer you to Joshua Reichardt's cyberdatic serendipity, the computer in the art, 1969, Ruth Levitt, artist in computer 1976, Cynthia Goodman, digital visions, computers, and art. 1987, Abby Ray Smith, a biography of the Pixel, 2021, Bonnie Mitchell and Jen Serrelman, directors, the Sigriff Archo Archives. Thank you very much.
 
-## Michael Pierre Price [30:16](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1816s)
+## Michael Pierre Price [29:19](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1759s)
 
 Fantastic Presentation. Darcy.
 
-## Darcy Gerbarg [30:22](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1822s)
+## Darcy Gerbarg [29:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1764s)
 
 Thank you.
 
-## Michael Pierre Price [30:22](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1822s)
-
-That was brilliant. Thank you so very much.
-
-## Darcy Gerbarg [30:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1826s)
-
-I thought I, since it's for the record and you're recording it. I thought it would be good to give some history from that perspective.
-
-## Michael Pierre Price [30:32](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1832s)
-
-Oh, absolutely no, that that was brilliant. Thank you.
-
-So your screen is still showing.
+## Michael Pierre Price [29:14](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1754s)
 
 Okay. Awesome. Thanks. Again, Darcy.
 
-## Nina Sobell [31:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1867s)
+## Nina Sobell [29:21](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1761s)
 
 Thank you.
 
-## Michael Pierre Price [31:09](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1869s)
+## Michael Pierre Price [29:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1763s)
 
 Okay. Next up, we have Lee Musgrave.
 
-## Lee Musgrave [31:14](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1874s)
-
-Good morning, everybody. Oh, at least it's morning here. Good afternoon. Wherever you are.
+## Lee Musgrave [29:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1778s)
 
 All right. I'm going to go back considerably further than our 1st 2 guests. I'm going to take you all the way back to.
 
-The 1960s.
-
-Are you seeing all of those images on the screen a whole bunch of okay. Let's go back here in the upper left, where it says studio. Can you see that.
-
-## Michael Pierre Price [31:58](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1918s)
-
-I'm.
-
-## Lee Musgrave [31:59](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1919s)
-
-Looks like an old metal shed.
-
-## Michael Pierre Price [32:01](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1921s)
-
-I'm seeing. I'm seeing that still at a small sort of slide shot.
-
-## Lee Musgrave [32:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1927s)
-
-Okay.
-
-How's that?
-
-Is it bigger?
-
-## Michael Pierre Price [32:18](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1938s)
-
-No.
-
-## Lee Musgrave [32:20](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1940s)
-
-No, you know. Why, isn't it?
-
-Hmm. Know why you're not getting a bigger camera?
-
-Cool.
-
-## Steve Miller [32:59](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1979s)
-
-Is there any right clicking on an image will give you a slideshow option.
-
-## Lee Musgrave [33:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1987s)
-
-Yeah, I don't know. Okay.
-
-## Roz Dimon [33:13](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1993s)
-
-Or you know someone else wrote in that, you know you did. You choose that there are different screens you can choose to share? Did you choose? You know, maybe a different screen than than what you wanted to. You can unshare and try again. That's the case.
-
-## Lee Musgrave [33:32](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2012s)
-
-Now let's try that. Try starting it over again. That's funny that it shows you the little versions, but not the big version.
-
-Alright. Can you see it now?
-
-## Michael Pierre Price [34:01](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2041s)
-
-I'm see. I'm seeing What looks like on the left. Yeah, I'm I'm seeing on the left side your Looks like different by our different files. And then I'm seeing a number of small thumbnail sort of sizes.
-
-It looks like I'm seeing the the files of your.
-
-## lee day [34:31](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2071s)
-
-Share your folder, not the application that's playing.
-
-## Michael Pierre Price [34:36](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2076s)
-
-Yeah.
-
-## Lee Musgrave [34:45](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2085s)
-
-Now don't normally have this problem.
-
-We'll not enlarge it. Huh!
-
-## Cynthia Beth Rubin [35:06](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2106s)
-
-Well, yeah, I think if you throw them into either dropbox or Google drive, you might be able to show directly from there, or else. I'll give you the same offer. I just did a Pdf. For Adrian. If you stick them somewhere and share it with me, I'll make a Pdf. For you. I have 2 monitors, so I can watch the presentation and work at the same time.
-
-## Lee Musgrave [35:40](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2140s)
-
-That is frustrating. Alright, I'm gonna try time here.
-
-## Nina Sobell [36:37](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2197s)
-
-Thelma, Gould.
-
-## Lee Musgrave [36:44](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2204s)
-
-How about that?
-
-## Stephen Carpenter [36:45](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2205s)
-
-Screen that says double click to enter. There you go.
-
-## Michael Pierre Price [36:49](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2209s)
-
-That looks good.
-
-## Lee Musgrave [36:51](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2211s)
-
-Okay. Sorry about that. Alright. I'm gonna take you back to May 1962, or maybe I should start Where you are right now, when when you're sitting right where you are, I'm assuming most of you are in your studio. And you're facing a keyboard and a monitor screen. None of which existed in May, 1962. Absolutely none of it. This was my studio in Santa Monica. You think about. What do you know about Santa Monica. Beautiful place! My studio was. 6 very short blocks On the beach. Could come out that door and just walk right down Colorado Boulevard, and you would be at the Santa Monica Pier. Most artists in La had studios who looked just like that.
+Alright. I'm gonna take you back to May 1962, or maybe I should start Where you are right now, when when you're sitting right where you are, I'm assuming most of you are in your studio. And you're facing a keyboard and a monitor screen. None of which existed in May, 1962. Absolutely none of it. This was my studio in Santa Monica. You think about. What do you know about Santa Monica. Beautiful place! My studio was. 6 very short blocks On the beach. Could come out that door and just walk right down Colorado Boulevard, and you would be at the Santa Monica Pier. Most artists in La had studios who looked just like that.
 
 The only exception might have been Sam Francis. He had one that was like 5 or 6 times bigger than that. But the rest of us had old sheds like this. Okay. 1962. I needed money. I needed a job other than the one I had. One I had was setting pins in a bowling alley that was back when pins didn't have Machines. I had a little narrow one foot space to stand in between 2 alleys, balls flying down, both of them pins flying in all directions, and I was getting paid practically nothing.
 
@@ -290,11 +174,11 @@ So they were taken away from me, and I never was able to get them back. And I ca
 
 She had attended the the new Bauhaus School of Design in Chicago, and studied with Mahali Nagy. And then she came to Los Angeles and attended California State University in Northridge, which I graduated with with my BA. And she stayed there and became an instructor in the computer department that they had there. So let's go on and take a look.
 
-## Michael Pierre Price [49:10](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2950s)
+## Michael Pierre Price [41:41](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2501s)
 
 Sorry to interrupt. You got about. You got about 2 min.
 
-## Lee Musgrave [49:15](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2955s)
+## Lee Musgrave [41:45](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2505s)
 
 I'm gonna jam at 10. Okay, this is the Los Angeles Time review of that Show that put together for this is who Eunice. And this is Tony Lungston. That whoops that. Well, what happened there? Let's go back. Well, I'm sorry. That's you. See what she has holding in her hands. There. That's the computer she was looking for little square box. So that thing that I started with at mission publications in 1962 had been reduced down to that. And she 1st did more patterns. This is some of her work.
 
@@ -316,65 +200,33 @@ And he had violated the warranty on this thing, he had completely taken it apart
 
 They didn't want to hear about it. That wasn't hard work. That was junk. They weren't kidding, you know. And he. He was scared that if I put that in a major event like Uk la, he'd be laughed at so he wouldn't let me show he wanted to just show his traditional photography.
 
-## Michael Pierre Price [55:31](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3331s)
+## Michael Pierre Price [48:02](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2882s)
 
 Hey, Lee, we need to move on. Sorry time constraints.
 
-## Lee Musgrave [55:36](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3336s)
+## Lee Musgrave [48:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2887s)
 
 That's alright. I'll stop right there.
 
-## Michael Pierre Price [55:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3338s)
+## Michael Pierre Price [48:09](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2889s)
 
 All right. Thank you.
 
 Thanks, Lee.
 
-## Lee Musgrave [55:47](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3347s)
+## Lee Musgrave [48:18](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2898s)
 
 Thank you for your time.
 
-## Michael Pierre Price [55:51](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3351s)
+## Michael Pierre Price [48:22](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2902s)
 
 All right. Next up is Nina Sobel. Hey, Nina!
 
-## Nina Sobell [55:55](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3355s)
+## Nina Sobell [48:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2906s)
 
-Hi, everybody! Hi! Without any further ado.
+Hi, everybody! Hi!
 
-I'll play this for you. You can still see the slides on the side. Right?
-
-## Michael Pierre Price [56:17](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3377s)
-
-Sorry. Yeah, you're not sharing yet, Nina.
-
-## Nina Sobell [56:20](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3380s)
-
-Okay. Now.
-
-## Michael Pierre Price [56:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3384s)
-
-No.
-
-## Nina Sobell [56:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3384s)
-
-Cool. I started. Oh.
-
-## Michael Pierre Price [56:39](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3399s)
-
-Okay. Now, I'm seeing your screen.
-
-## Nina Sobell [56:43](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3403s)
-
-Okay. And you can hear me. And everything's okay.
-
-## Michael Pierre Price [56:49](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3409s)
-
-Yes.
-
-## Nina Sobell [56:56](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3416s)
-
-Okay, all right, I guess we'll begin now, is, every everything's okay. Right? Yeah. Okay, all right. I presentation more from a personal point of view. From the moment that I well, I'll go on. From the moment I thought of using anything technological with my work, which was a motor. And this was in Rome, Italy. I was a student at Tyler School of Art in Rome, and there was a double barrel vaulted ceiling, and I Installed a movable well, what was going to be a movable ceiling, a ceiling, sculpture of foam. And.
+Yeah. Okay, all right. I presentation more from a personal point of view. From the moment that I well, I'll go on. From the moment I thought of using anything technological with my work, which was a motor. And this was in Rome, Italy. I was a student at Tyler School of Art in Rome, and there was a double barrel vaulted ceiling, and I Installed a movable well, what was going to be a movable ceiling, a ceiling, sculpture of foam. And.
 
 Anyway, I thought of moving the ceiling up and down and then when I got back to Rome, I mean, and I got back to Philadelphia, I started again, making foam environments and a foam which you could change the appendages and the movement, the position of the appendages, and I thought of using an hydraulic. Remote, controlled way of doing it, and joined the experiments in art and technology in Philadelphia. And began collaborating with an engineer from U of P. There and then Cornell began.
 
@@ -396,19 +248,19 @@ Yeah, on Colorado Boulevard, was the 1st computer store, and it opened in 1978, 
 
 A match of the output in the lower right hand corner and the upper left. In the middle and right were collections As they as they merged, as the diamond shapes merged into one as the as the cube, as the rectangles merged into one square as. And then the one on the right. It was the condensation. It was the collection of pixels. And became one
 
-## Michael Pierre Price [01:08:41](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4121s)
+## Michael Pierre Price [01:00:01](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3601s)
 
 Nina! Oh.
 
-## Nina Sobell [01:08:42](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4122s)
+## Nina Sobell [01:00:02](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3602s)
 
 Oh, yeah.
 
-## Michael Pierre Price [01:08:43](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4123s)
+## Michael Pierre Price [01:00:03](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3603s)
 
 I got about 2 min to wrap up.
 
-## Nina Sobell [01:08:46](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4126s)
+## Nina Sobell [01:00:06](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3606s)
 
 Okay, then I'll wrap it up with this. It was a moving camera piece that I just played for the 1st time recently, I think Adrian saw it for the 1st time. This is an installation piece, moving cameras, converging views which is installed in the window of the Franklin Furnace Gallery. It is here, as part of a performance. A festival of Los Angeles and London performance artists meeting in New York and working together and independently. It was funded by the National Debt. Well, I'll move it, move it along.
 
@@ -416,43 +268,35 @@ The piece was designed with me by John Gord. With the assistance of Paul Newell.
 
 And at that time video was. And I wanted to do it with. Video. Yeah. Is, am I up now? My time's up right? Right.
 
-## Michael Pierre Price [01:11:04](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4264s)
+## Michael Pierre Price [01:02:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3743s)
 
 Sorry. Sorry for the time limitations.
 
-## Nina Sobell [01:11:08](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4268s)
+## Nina Sobell [01:02:27](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3747s)
 
 Yep.
 
-## Michael Pierre Price [01:11:09](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4269s)
+## Michael Pierre Price [01:02:29](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3749s)
 
 I'm up, yeah.
 
-## Nina Sobell [01:11:12](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4272s)
+## Nina Sobell [01:02:31](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3751s)
 
 You're welcome.
 
-## Michael Pierre Price [01:11:12](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4272s)
+## Michael Pierre Price [01:02:32](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3752s)
 
 Work. So innovative. Yeah, brilliant.
 
-## Nina Sobell [01:11:17](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4277s)
+## Nina Sobell [01:02:36](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3756s)
 
 Thank you. Thank you.
 
-## Michael Pierre Price [01:11:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4283s)
-
-I just need you to stop sharing your screen.
-
-## Nina Sobell [01:11:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4286s)
-
-Stop sharing.
-
-## Michael Pierre Price [01:11:28](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4288s)
+## Michael Pierre Price [01:02:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3758s)
 
 Thank you. All right. Next up we have Adrianne Wortzel.
 
-## Adrienne Wortzel [01:11:35](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4295s)
+## Adrienne Wortzel [01:02:45](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3765s)
 
 Hi,. Yeah. So thank you for this opportunity to talk about some work I did between 1969 and 1974 of which, unfortunately, I have very little documentation, because the idea of posterity had never entered my mind at that age so, but I was Solely an abstract painter. I was religious about being an abstract painter, probably because I was trained 1st at the Brooklyn Museum Art School with painters, Isaac Sawyer, Reuben Tam, and Tom Doyle, the sculptor, and then at Brooklyn College, which I fell into. My teachers were at Reinhart, Jim Ernst, Burgoyne, Diller, and Louise bourgeois.
 
@@ -468,11 +312,11 @@ But I ended up when I was 2528, and 75, and I ended up with double vision. So I'
 
 Which was, let's see, I want to get to the right, Powerpoint. I have 2 of them. Okay, these were, this is the only living the only actual documentation I have of these modules. You can see there's a wire coming out on the side. Do you see him?
 
-## Michael Pierre Price [01:16:52](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4612s)
+## Michael Pierre Price [01:08:04](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4084s)
 
 No, you're not sharing your screen.
 
-## Adrienne Wortzel [01:16:54](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4614s)
+## Adrienne Wortzel [01:08:06](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4086s)
 
 Oh, sorry.
 
@@ -480,17 +324,19 @@ That's what Covid will do. I have Covid. I'm in pretty good shape for that. Okay
 
 Okay, how about now? Yes.
 
-## Michael Pierre Price [01:17:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4646s)
+## Michael Pierre Price [01:08:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4118s)
 
 Yes.
 
-## Adrienne Wortzel [01:17:27](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4647s)
+## Adrienne Wortzel [01:08:39](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4119s)
 
 Okay, thank you. So, these were at Ok. Harris. And that's where I used to show these modules that this had has a wire extending from it, and it would just these simple motors that would move up and down, and so, very usually very subtly, not as drastic as this you would see these very, very stiff, rigid modules breathe. And for me this was like, you know, going from 2 to 3D. And then, having 3D activated mechanically, was for me like a religious experience. You know, it was like A growth both Blossoming and also cancerous. And also it was a metamorphosis. It it was so out of extraordinary to me to experience that wait. Sorry didn't mean to do that. Yeah. So. This was a 1974 book on Kinetic Sculpture that contained images of several stage, you know, 3 stages of one particular piece, and this was Flatland, which I'm sure most of you are familiar with. It's the 1st edition which did not have Edward Abbott's name on it. It was done by a square, and I'm sure everybody knows it's a novella that made fun of Victorian mores by picturing a land of wait. I have a. Of two-dimensional figure people. The population consisted of two-dimensional figures. Men had Many sides, and the more sides they had as polygons, the more powerful they were. Women were pictured as straight lines, so that if they turned towards you they were very dangerous. There's a high danger of impalement. And so they constructed their houses so that there wouldn't be any accidents when the woman turned and could hardly be seen how this segued into robotics. Well. I was always interested in avatars, and actually early on I did theatrical work in Moos, which were text-based worlds. They were object-oriented multi-user dungeons, and in them we all created worlds. It was just marvelous because it was all text-based, and so very easy to create worlds where you could do anything because it was text-based, and in that I did one in Finland. That was the story of the Kalavala, and everybody participates and comes in, and by the end it's pretty destroyed. But it was really really interesting, because there were no boundaries. As to characters, nobody actually Kept playing the characters they were assigned, and everybody went wild, and the story would multiply and change and have branches. So basically, I loved the idea of avatars. You could be anything or anyone you wanted. But I wanted to make the avatars Real. So this is a, you know a concept where I'm making them real. But I'm also making them artificial because I'm making them robots.
 
-The avatars become agents, and they have store. Every installation I've ever done has stories behind it. The robots are characters. And this one was no different. This was the hidden archivists in the anchorage for creative time. And this was 19. 97. I think I can see on the slide that I have my old address, my old phone number and my old Email address. But this was several robots that played archivists inside the anchorage of the Brooklyn Bridge on the Brooklyn side, and the space was fantastic.
+The avatars become agents, and they have store. Every installation I've ever done has stories behind it. The robots are characters. And this one was no different. This was the hidden archivists in the anchorage for creative time. And this was 19.
 
-It was cavernous, and there were. There were several artists in that show, and they have it documented on creative time because they did it a number of years. What would happen is everything the robots saw would be reflected on the monitors that were here. And these were robotics, not really robotic. I called them robotic slide projectors, which, projected with, you know, constantly refocusing, projected slides all over this cavernous, cavernous space, so that when they were close and right up to the wall. They were in focus, and when they were 60 feet Huge, you know, they were in focus. And so it became this kind of a documentation as if they were librarians, and they were really recording the history of cartography in the world. That's just another view.
+97. I think I can see on the slide that I have my old address, my old phone number and my old Email address. But this was several robots that played archivists inside the anchorage of the Brooklyn Bridge on the Brooklyn side, and the space was fantastic. It was cavernous, and there were. There were several artists in that show, and they have it documented on creative time because they did it a number of years. What would happen is everything the robots saw would be reflected on the monitors that were here.
+
+And these were robotics, not really robotic. I called them robotic slide projectors, which, projected with, you know, constantly refocusing, projected slides all over this cavernous, cavernous space, so that when they were close and right up to the wall. They were in focus, and when they were 60 feet Huge, you know, they were in focus. And so it became this kind of a documentation as if they were librarians, and they were really recording the history of cartography in the world. That's just another view.
 
 I I just love this location. It's my favorite location, and I walked in immediately, had an asthma attack because it was total mold, but it was really quite fabulous, and to work in, and you can see on the floor there's oops. There's a projection with a robot on it. So all of these things kind of intermixed. And this is individual photos of the robots, which were real clunkers, you know. They were puppets and.
 
@@ -498,11 +344,11 @@ Having personalities as as puppets and clunkers was of great interest to me. Bec
 
 Okay, I'm going to segue into another Powerpoint. But just tell me, when, how much time do I have.
 
-## Michael Pierre Price [01:27:03](https://www.youtube.com/watch?v=o7pyuyo35iU&t=5223s)
+## Michael Pierre Price [01:18:12](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4692s)
 
 If you can wrap it up in the next minute or 2, that would be great.
 
-## Adrienne Wortzel [01:27:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=5227s)
+## Adrienne Wortzel [01:18:16](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4696s)
 
 Okay. Just about.
 
@@ -514,15 +360,15 @@ And sometimes in the beginning, especially in the nineties, we had no idea how i
 
 I'll stop sharing, sharing.
 
-## Michael Pierre Price [01:29:58](https://www.youtube.com/watch?v=o7pyuyo35iU&t=5398s)
+## Michael Pierre Price [01:21:07](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4867s)
 
 Thank you, Adrian, very much. Really, really fascinating work.
 
-## Adrienne Wortzel [01:30:08](https://www.youtube.com/watch?v=o7pyuyo35iU&t=5408s)
+## Adrienne Wortzel [01:21:17](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4877s)
 
 Here we go. Okay. I stopped.
 
-## Michael Pierre Price [01:30:12](https://www.youtube.com/watch?v=o7pyuyo35iU&t=5412s)
+## Michael Pierre Price [01:21:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4884s)
 
 Thanks again. I wanna thank all the presenters today. Roz will present next time in February. But I but before before we end the recording, and I'm sorry we're not going to get a chance to To to have some exchange or questions on the recording. But those who want to stay after for the after party. I I just think that it is obvious the depth and breadth of The artists in this community. With regards to How technology has been used, how it is being used today. And like, I said, I think All of the new technologies that we all hear about these days, whether it's nfts or AI They're just echoes of what's gone before, and I'm really grateful for each of the presenters. Given the time constraints to share just a little bit of the flavor of what they experienced, what they did and how technology and art and the brilliance of artists can create wonderful, innovative.
 

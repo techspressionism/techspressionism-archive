@@ -1,0 +1,198 @@
+---
+type: presentation
+number: 3
+title: Collaborations Between Artists and Scientists
+date_recorded: 2026-05-02
+date_published: 2026-05-02
+video_id: DtGglnJ4mdI
+url: "https://www.youtube.com/watch?v=DtGglnJ4mdI"
+duration_seconds: 2878
+moderator: Lee Day
+speakers:
+  - name: Lee Day
+    country: null
+    start: 0
+  - name: Karen LaFleur
+    country: null
+    start: 320
+  - name: Nina Sobell
+    country: null
+    start: 706
+  - name: Cynthia Beth Rubin
+    country: null
+    start: 1138
+transcript_source: youtube-subtitles
+languages: ["en"]
+flags:
+  - recording_date_estimated_from_upload
+---
+
+## Lee Day [00:00](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=0s)
+
+Good afternoon everyone. Welcome to Techexpressionism at the American Maker Space in Qarshi and welcome. I'm Lee Day and I'm your moderator here today. I am joined by artists Karen LaFleur, Nina Sobell, and Cynthia Beth Rubin. And we're delighted to be join joining you at the American Space in Qarshi, though we are coming to you virtually from various parts of the United States. And this is the third of our eight roundtables here. Today's subject is Collaborations between Artists and Scientists.
+
+Since I'll be leading this discussion, perhaps a bit about myself. I'm a photographer artist and I dabble a bit with coding as well. Collaborations with scientists is not really a specialty of mine. So I'll be just as interested as you will in learning about how this works exactly. Our three speakers today are: Karen LaFleur, who creates layered animated works. Nina Sobell who translates brain activity into performance, and Cynthia Beth Rubin , who is a digital painter of the micro and macroscopic.
+
+We're all members of a group called Techspressionism. So what is Techspressionism? What does it mean? Well, Techspressionism is as an idea flows from the Expressionist movement of the early 1900s. Expressionist artists focused on conveying emotional and subjective experience with their art rather than realism or objectivity. Techspressionism builds on that foundation and extends it using the tools and the energy of modern technologies which are the those technologies which are transforming our world today.
+
+Techspressionism the group is open to everyone. We have monthly online Salons. We also have weekly co-working sessions and we do exhibitions both physical and online. You can find out more about Techspressionism at Techspressionism.Com or on Instagram @ Techspressionism You might wonder how our group came to be involved here in Uzbekistan. Well it's all due to director Shirin Tashova of CAMUZ in Urgench who curated our first show here last September.
+
+Many thanks to director Tashova. You can see work from the "Hello Uzbekistan" Techspressionism show at the digital screen video here in the MakerSpace or if you're in Samarkand you can visit Art Station residency where you can also see the show. Enough of the introductions. Let's get on to the round table. Today we are here to talk about what happens when artists and scientists work together and why so often the result is something that is neither that neither could have re reached alone.
+
+In ages past there was often little distance between scientists and artists. 500 years ago Leonardo da Vinci dissected human bodies. He was not training to be a doctor. He wanted he wanted to draw the form, the human form, more truthfully and he understood that the only way to do that was by learning how the body was put together. Today his notebooks are still studied by both scientists and artists. He did not separate art from scientists. For him each asked the same question from different perspectives.
+
+How does the world really work? In centuries since the two worlds have often drifted apart. Science-built laboratories, art built studios, each developed its own language, its own institutions, its own idea of what progress looks like. And yet, the underlying purpose was never so different. The scientist explores the boundaries of knowledge through theory and measurement. The artist explores those same boundaries through insight and imagination.
+
+Both are trying to bring light to the depths that have not yet been seen. Both are asking questions for which there are as yet no answers. Yet when they work together, something remarkable can happen. The world has recognized this. Formal institutions now exist to bridge these two worlds. For example, Leonardo, the International Society for Arts, Sciences, and Technology has been connecting artists and scientists across every discipline for more than 50 years.
+
+At CERN in Switzerland, home of the world's largest particle accelerator, there's a program that invites artists to live and work alongside physicists. More than 200 artists have taken part this since the inception of this program and the collaboration is alive right here as in Uzbekistan as you prepare its national pavilion for 2026 Venice biennial, the world's most important art gathering. Its exhibition is entirely dedicated to the Aral Sea. Seven artists, including 20-year-old Aygul Sarsen, who grew up in a town in the former seabed, are working with scientists and ecologists to ask what was lost and what might still be imagined.
+
+This is the same kind of dialogue between art and science that our guests are involved in. So, please welcome Karen LaFleur, who is our first artist today. Karen is a
+
+## Karen LaFleur [05:20](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=320s)
+
+Has been a full-time artist since 1975. She is a former gallery owner and began using computers in 1981 with an Apple IIe. That's impressive. Current computer system is an Apple Mac M1 running OS Sequoia. Her focus is on storytelling and in the and visual image and her medium is moving images. She has exhibited artwork internationally since 1975. Her work is in both private and museum collections worldwide. Welcome Karen. Thank you, Lee. It's a delight to be here and I want to thank everyone that's made this talk possible.
+
+I'm going to start my presentation tonight with my process. I do a hand drawing on vellum paper that's scanned into the computer into Photoshop where I create all the color layers. From there, the color layers go into Apple Motion where a basic animation is assembled. From there, the basic animation clips are put into Final Cut Pro to assemble the final film along with the music. If I can't get the effects that I want with that process, I will also use After Effects, Cinema 4D, and Blender.
+
+This is the piece that was in the Uzbekistan show that Lee mentioned earlier. And if you notice, it's like looking down into a pool of water. These slow swirling currents. And there's a reason that I bring up water. And that's because I've lived by the ocean my entire life in a spit of land that goes 65 miles out into the North Atlantic Ocean. So the ocean is an important muse for my artwork. So I was delighted when I found the Art League Rhode Island Synergy Project that matches scientists and artists together in a year-long collaboration.
+
+In 2025, I worked with scientist Lukas Taenzer from Woods Hole Oceanographic Institution and also with composer Nancy Tucker, who does all the original music for my moving images. In 2025, like I mentioned, we worked on a project based on Lukas Taenzer's studies of eddies or water whirlpools along water body boundaries between the deep ocean and coastal waters. And what you'll see next is a trailer to a 2 to 3 minute film that was the final artwork.
+
+The trailer has music by Nancy Tucker. That looks great. Thank you. So in 2026 since I I was really delighted working with the scientists I joined again and I'm working this year with scientist Caroline Ummenhofer from Woods Hole Oceanographic Institution and I'm also working with Finn Wimbley who is a research and technical adviser at Woods Hole Oceanographic Institution and also with Nancy Tucker for her music composition. Caroline's lab works with climate variability and change and hydraological cycles and she looks at historical records and climate ocean models.
+
+So this year we're working with old ship log books from the middle 1800s that the ship captains recorded the weather wherever they sail daily. And we're going to be using the topic wind. And as you can see, these books are filled with a wealth of data going back a couple of hundred years, but they're also beautifully illustrated. And like I said, the wind is the topic for our project this year. And that's because it affects not only weather patterns, but where the sailors could sail in these ships that you see on the left.
+
+The chart is really the wind strength from an average wind strength in from 1806 to 1890 that you see on the screen. So I've taken those arrows and I've converted all those arrows month by month into Maxon Cinema 4D so that these arrows are 3D in order to use 3D within the final film. So, what you're seeing are parts and pieces that we're assembling right now.So you can see that the arrows spin in 3D space. When I say 3D, I mean three-dimensional space where you can literally walk around an object versus a drawn image on a piece of paper.
+
+And this is the final film, which is the beginning title clip to the film that we're working on this year. The whale was built in 3D, again three-dimensional, but he's floating in a two-dimensional flat space. And I like to combine the two-dimensional three-dimensional and hand drawing in my work. And for my last slide is a quick shot of my studio where all this happens, and I will hand the mic back to Lee. Thank you everyone. Thank you Karen. Sorry for a little bit of bouncing back and forth there in the slides but u that was that was a beautiful discussion.
+
+Our next artist is Nina Sobell who lives in New York City. She studied art at
+
+## Nina Sobell [11:46](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=706s)
+
+The Tyler School of Art in Philadelphia as well as in Rome, Italy. She studied sculpture at Cornell University where she received a Master of Fine Arts and began working as an interactive artist in 1967. She has created interactive sculpture works, video works and computer generated art. Her art work focuses on using brain waves interactively as a medium in shows at the Manil Drawing Institute Houston, KALA Vienna, Museum of Modern Art of Luxembourg, the Getty Museum, Whitney Museum, and other major museums and private collections.
+
+She's received an Arts Council of Great Britain award among others. Welcome, Nina. Thank you, Lee. And thank you to everyone at the American Maker Space there. You can always reach me at ninasobell.Com and on Instagram @nina_sobell and I live in New York City, New York. I was experimenting with systems engineer Michael Trivich in 1972. Michael, by the way, was responsible for the first ATM transaction in the world between San Francisco and Los Angeles.
+
+Just thought I'd let you know that. And I thought, why not have something that represents when we were both bring out the same brain wave at the same time? And he said, why don't we use my oscilloscope? And I said, well, who wants to look at a squiggly line? And so I said, why don't we put the camera on our faces and a camera on the scope and superimpose them both? And when one both people are putting out the same brain wave at the same time, it makes a circle as you saw.
+
+You can kind of see a circle in the right hand bottom corner here. And so we needed more sophisticated equipment. So we went to Dr. Barry Sterman's neuropsychology lab in Sepulveda,, California. And he said, well, you can use my PDP12 computer and my equipment if you say, if you promise that, you can prove your idea about one person influencing the other person non-verbbally. And we did and so we were able to come back. And here's a contemporary arts museum in Houston, Texas.
+
+I made a private living room area for participants and there I am attaching electrodes in the corner there and talking to a a NASA engineer. And I also used an Apple 2 when I worked at the first computer store in the world that opened for consumers in 1979. I met an engineer there, Chris Matthews and we made brainwave drawings using a homemade analogue to digital converter that he's pointing to now that transposes brain waves into digital imagery, digital information,.
+
+The and there is what we did. We made lightning bolts that converged when both people were putting out the same brain wave. And the same with the boxes and the diamonds and the dots got thicker and thicker. And that was in 1982. I mean 1980 as well. Well I keep talking. Oh, and this this is what was featured in the car show in Becca. I mean, of course, but this is in the "Hello Techspressionism" or "Hello Qarshi" - whatever. Here there are four participants.
+
+Each column represents a person and each person can see each other's temperament by the waveform at the bottom of the screen and the circles get larger or smaller according to temperament and the colors change. Gamma waves are green and beta is blue and alpha yellow and theta red and there I am in Santa Monica. We did it for the first time publicly. And the sounds that you hear are sounds that correlate to the different brain waves and their output.
+
+And there are two people, but it's made for four people as well. And it was prompted by Mike Trivich sending me an article about how 40 Hz gamma light and 40 Hz spinal beats stimulate your cerebral spinal fluid that washes your brain of plaque causing Alzheimer's and dementia. And gamma time has it has these built into it and tells you when you yourself are emitting 40 hertz gamma brain waves. Because I asked him at the time I said, "Is there anything out there that does that?"
+
+He said, "No." And it's prompted a whole new engagement with brainwave drawings. And I call them brainwave drawings because I've been calling them brainwave drawings since 1973. And now we're going to have sculptures that change in color and speed according to brain wave output. And this is a meditative video that I made to present to people before they engaged with the u brainwave installation. And each person will have each person has a sculpture that's already been made.
+
+It's already been printed. And I forgot to put that slide up, but we've printed out, 3D printed out each of those sculptures, and there's four of them actually, four sculptures now. And each person will be able to hold their own sculpture as they're watching themselves on the screen, manipulating the sculpture on the screen, they'll be able to hold that same sculpture in their hands. Wow, Nina, that's that that that's amazing. Getting psychedelic art out of everyone's minds.I'm deeply impressed there.
+
+So our art our next artist
+
+## Cynthia Beth Rubin [18:58](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1138s)
+
+Welcome Cynthia, Cynthia Beth Rubin from New Haven, Connecticut. She studied painting and exhibited and taught painting as as well. She began working as a computer artist though in 1983 exhibiting both painting and digital works and and various solo exhibitions worldwide. Her awards include commissions with the Connecticut Arts group, I'm sorry, the Connecticut Art Grants in Digital Media, the New England Foundation for the Arts Grant in Digital Media, numerous residencies in France, Canada, and the United States.
+
+She's shown in CAMUZ, most recently in CAMUZ's Urgent but also in the ICC Tower facade in Hong Kong, the Jewish Museum in Prague, Cotton Club screen in Harlem, State Museum in Novosibirsk, ICA in London, Jerusalem Biennale, numerous international festivals, digital art such as ISEA and SIGGRAPH. Welcome Cynthia. Thank you Lee. So this is the piece that I'm going to talk about today. It's a combination of plankton and this is the plankton that I shoot under the microscope which I combined and I'm going to lead up to telling you how I constructed the piece that we opened with.
+
+I have access to a really good microscope and as you know, plankton is the microscopic life in our waters. So, I began by taking those photographs, looking at the textures. I added digitally bits of color. I trying to bring the spirit of abstract painting or abstract expressionist painting that was actually applied to the human figure to plankton. And after I made the image on the left, I wanted to go further. So I printed it out. I cut it up. I glued lace on it.
+
+I was trying to really get to the spirit of the plankton. And I looked at the image and I said, "Okay, it's missing the actual focus on the plankton. It's all spirit." So what it needed when I looked at the two together was to have the plankton actually added to the image. So with lots of many times in and out of the computer, this is on the right, the final image that I came up with where the plankton is the star of the image and yet these other elements that I showed you at the beginning are still in there.
+
+If you look carefully, you can see the chains down at the bottom. The plankton attached to each other in these chains and some of the details of the way that they fit together. And then you can also see that I put in some actual lace. When I print it, it's flat, but you know, I glued it in. Although I have been experimenting now with exhibiting with actual lace. I'm very interested in nature and culture together. So here just to give you a sense of the the final image after all the things that went through and then I have recently decided to make this a video It's another way of making us aware of the how important plankton is.
+
+I have a different body of work that I did. These are the scientists that I was working with.Susanne Menden-Deuer is the head of the lab, the principal investigator as we say, the lead scientist, at the University of Rhode Island and Andrea Miller was a graduate student who was collecting data from Narragansett Bay which is the water in Rhode Island the going into the ocean and this is from she started in February and she made all these notes about the data which is wonderful for scientists but for the rest of us it's a little overwhelming to look at this.
+
+So, she came to me and said, "Any advice on how to make it more interesting?" I said, "Well, let's use different colors for the seasons." And you can see red for summer in temperature up at the top and cooler blues in the in the wintertime. So, this is what we came up with. But then I said, "Let's go further. Let's take these and turn them into interesting shapes. So using a Microsoft Excel and DataWrapper (https://www.Datawrapper.De) which is free so you can use it.
+
+We started playing with envisioning the data but I also put in textures to make the data. I actually photographed salt and so that kind of rough texture is actual salt that I photographed. We did a whole series of them. They all have temperature kind of as the star because temperature is the one thing that those of us who are not scientists know changes through the season. With this image, scientists look at it and they get that it's data representation.
+
+Other people are first drawn to it just as an image and then they look at it a little longer and begin to realize what's going on with data. So after visiting Uzbekistan I was inspired to think about the long tradition of science in Uzbekistan. In a way this is a collaboration with scientists who were no longer living. But that's possible too. I'm sure everyone knows about the historic observatory in Samarkand. I took pictures, and then actually online found this manuscript and I combined it.
+
+I combined them all with a Hebrew manuscript that also depicts the calendar and some of the the representations of moon cycles. So, right now I'm very interested in looking at moon cycles and looking at the science from the past a little bit the way that Karen did. Not quite the same, but anyway. So, thanks to everybody and this is my website with contact information that you can find on my website. The atoms in that are the building blocks of our world.
+
+So those are our three panelists today. I did have a couple of questions also Oh I should mention yes we also have upcoming sessions this is
+
+## Announcements [26:48](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1608s)
+
+A list of them in the future and many thanks to the MakerSpace and Qarshi for putting this together but we're not finished yet because I still had some questions frankly and
+
+## Discussion [27:00](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1620s)
+
+We should get out of the share here and actually see some human beings. I was interested in how artists connect with the scientists. I'm not involved in this kind of a process. So I was wondering Karen, how did you get in touch with the people you work with? Well, like I said, I've lived on the island my whole life and I actually had a boat when I was a a young child from 8 to 12 or 14 and I was allowed to go through the ocean and learn it firsthand.
+
+And I also worked in an aquarium in my high school years where they rescued stranded whales. And that connected me to Woods Hole Oceanographic Institution because that was the institution that we would work with for the whales. But bringing it forward to now, I've always wanted to reconnect with them. And when the Art League Synergy Project, the collaborate that matches scientist and artists together in these collaborations, perfect for me because Woods Hole is just down the way for me.
+
+I also want to mention that this year in that program we have 36 pairs of scientist and artist now matched. So 72 people or so in the in the program. So there's a lot of interest. That's great. Great. Yeah. And and and Nina, how did you get hooked up? Because I mean you you really are hooked up there with your your science. I think you actually have electrodes connecting you and the scientists you're working with. How did you get there? Been collaborating with there.
+
+I became friends with the engineer that they brought out to LA. He was living in LA and they came to visit him and they introduced me to him and we started working together and he brought th alpha feedback machine with him and we started working that way. So just serendipity in a certain way. Serendipity. Well, it was - he it was a a civil engineer and an electronics engineer at Cornell and they met him a systems engineer on on his road trip in England.
+
+Yeah, it was serendipity and they brought him with him with with them and then he came back later with this alpha machine and we took off. Well, and It changes one's life or you know creates a direction for one's life. Yeah. I was you know going going a slightly different direction I was wondering with with Cynthia you know that you work with electron scanning microscopes that's
+
+## Discussion [30:09](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1809s)
+
+Quite a large piece of equipment. I mean how do you get you know connected to these devices -- someone who can help you with these devices and into these institutions? So I was teaching at the Rhode Island School of Design for many years and I actually was very interested in culture, and cultural motifs. So I was teaching a class a digital class. It was a digital imaging class but students were asked to develop their own cultural motifs that we see on on textiles and I think people are very familiar with seeing interesting designs on rugs etc.
+
+That we know come originally from nature. There's a nature center at Rhode Island School of Design called the Nature Lab and we were using that and the director said "oh we have microscopes" and so I started teaching with microscopes and then because I'm not an oceanographer and I didn't know very much about what we were seeing we started looking at plankton the essential microscopic life in our oceans. People may not know that plankton - they are also in fresh water - they produce 50% of the oxygen we breathe.
+
+So if we don't have microscopic life we don't have life. So that's what happened. We brought in the oceanographers to explain these kinds of ideas to us and Susanne Menden-Deuer said to me "why don't you join our lab and start working with us." So I still had access to the equipment at Rhode Island School of Design and the advice of the scientists. Very often universities will make their equipment available to people who are interested in research.
+
+Sometimes they ask for a fee. I I'm able to do it without paying, but equipment is available to people more than you would think. I was surprised when I found out. That's great to know. I may have to start find some way to to get into one of these laboratories. It sounds like a lot of fun. I was wondering whether anyone else had questions for the panelists and or any thought thoughts they'd like to share. Roz . . . Hi, this was really a brilliant presentation and I love the beginning of it too Lee how you went all the way back to Leonardo da Vinci and I mean it is really conceptual on a high level and really interesting thank you to all of you.
+
+But I wanted to ask Nina I've always kind of wondered when you hook people up together do you prompt them as to what to think about or do, and and does the audience know what they're thinking about or how do you correlate what you're seeing on the screen like a circle or jaggedy thing. I don't know my question's
+
+## Discussion [33:10](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1990s)
+
+In there somewhere. I hope you can understand it. Well the first in the first part I'm absolutely against guiding. I feel that scientists need to prove but artists do not. And going on that premise, I say you can think whatever you want. You can communicate however you want. And I teach them how to use it. I taught them how to use the reel to reel equipment at that time, the eel to reel video equipment. And how to start it and stop it and rewind it and and watch what they and demystifying the equipment was very very important to me at the at the Contemporary Arts Museum.
+
+Following that laboratory experience I wanted to say I found out about Dr. Barry Sterman in his neuropsychology lab through Dr. Barbara Brown who was at UCLA where I was teaching, who was the founder of Bio feedback. And as far as . . . . . I said "when it forms a circle that means you're both putting out the same brain wave at exactly the same time." It's like before the before the before perception of thought before perception of thought emerges.
+
+You're matching in frequency andyou make a circle and when one person is more distracted than the other it will distort horizontally or vertically depending on who's on which axis and it was very understandable then and and I I wanted to make a a physical and a mental portrait. I wanted to bring the person into the situation and then have the EEG on top of it. I don't know whether that answers your question. So well . . Would the people get excited kind of seeing simultaneously as they might hold hands or they might touch or they might not touch or they did did they see it simultaneously yeah they and when I went to Houston they they did all sorts of things like that and then they relaxed and they just let themselves be and that was very important to Thank you.
+
+That's helpful, not having been to one of these things, myself, but just hearing you talk about it. Well, and I love how you use the word portrait. Portrait is interesting. Yeah. Yeah, it they are portraits. They are definitely portraits of the people, the individuals and a portrait of them together. I think of them definitely as portraits. Thank you. You're welcome. That's interesting. And all of you the presentations were really great really
+
+## Discussion [36:12](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=2172s)
+
+Interesting. I think Nina brings up an important thing which is demystifying and you know when you go into work with a scientist you see all the data they're producing and they're seeing all the art you're producing but after you communicate back and forth back and forth and sometimes that can take weeks or a couple of months depending on the scientist schedule to get to a point where you end up on a common dialogue where you're demystifying the science and I'm demystifying the art for them.
+
+That's when you know you're in a collaboration. That's right. Well, that's really that's really interesting. Taking the graphing m the data and putting it into art. What what I was really aiming for to bring more understanding to the public of what all that data looks like. And I find that so interesting that sorry go ahead Lee go ahead just the concept of access you know thinking about access because you know oh the mystery of art and you know I think it is interesting in this realm where we're working digitally and where art and science are colliding that that beingaccess is actually where where kind of the mystery it it's still it's it's art.
+
+It is art, but it it sort of goes at odds with what has been thought of as art of like, oh, you know, it's it's it's esoteric. It's not understandable. But there's still a a great mystery in these processes whether and and they are bringing them out to the people like that's that's what the Shamans were the early artists. They were trying to connect with others. So anyway, just just ideas. Yeah, actually I really wanted to thank you Lee for your intro and I realized when I got to the end of mine where I was showing the medieval manuscripts both the manuscript that was done in Uzbekistan and the Hebrew manuscript that was done in Germany that those actually are art that they were doing bringing art and science together that the scientists who made those drawings thought of them.
+
+I think as as art when they worked on them or they may not have entirely separated out the ideas of art and science. It was much more of a continuum of the work that they were they were doing. I think it's much more recently that we see them as as a little bit opposed to each other, but they really don't have to be. They're both of them, are I believe are are are about sort of exploring and thinking about things in different ways. I think mathematics - - mathematicians can you know need inspiration as well and you know when they when they find some new mathematical formula comes from inspiration just as artists do the you know the
+
+## Discussion [39:14](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=2354s)
+
+Same thing they they see different connections and they're you know they they create pieces you know that express those different connections and so we both have a part to play in that I think so I wonder somewhat how how these scientists see see the work that you you all have created. I mean Karen, how how do you know you're you create these three-dimensional pieces which are a bit narrative. I wonder you know how you know is do they relate to them?
+
+How do they use them in their work? Not only lectures but research journals etc etc Yeah they're very excited. The scientists that I've worked with to see their data in a different way for them it's exciting because it's like seeing another spin on what they've been studying just via the data so I've had really good experiences dealing with the scientists that way. They're very excited about it. And I'm excited too because the little robots that you saw coming down in the ocean on the trailer, those are the actually the ones that they use.
+
+And then they taught me how they run. That they're not run by anything. They're run by a weight inside the robot. And all they do is they take the weight and shift it to the back. And then the robot goes up like a glider. And then they shift it to the nose and it goes down. So they can be out in the ocean for months and months at a time roaming around which I never knew. So it's fun on many levels. Wow. And Cynthia and I want or Yeah. I wanted to add that the that Dr.
+
+Sterman became a doctor of -- a consultant with couples with bio using bio feedback and I had sent him a tape from the contemporary arts museum of people who had participated and he showed it to his graduate students and then shortly thereafter he he transitioned into becoming a a a coup's consultant. Yeah. Yeah. Yeah. It's a true story. Wow. You got lots of changes of life going on with with this work. Yeah. Yeah. Yeah. Cynthia, how how do the scientists react to your work?
+
+It's a little more abstract sometimes. Well, they're very excited that people are finding out about plankton. They feel that they're working in this area that nobody cares about because people don't see microscopic life - and they
+
+## Discussion [42:16](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=2536s)
+
+Forget about it. So for them it's really exciting to make it visible. Susanne just published a textbook that's being used in oceanography classes all over and one of my images is on the cover. That's wonderful. Not as much as simply making people see it - putting the plankton out there. They're they're thrilled to have have that and use some of my work in their presentations just to show this is what plankton can look like. I wanted to bring up that Caroline just went to a conference.
+
+Cynthia may know what it was. It just happened over in Europe and they are Discussion art and science giving presentations on this to basically a scientific audience. So more and more it's gaining interest. And who will Caroline be? Caroline Ummenhofer who I'm working with this year from Woods Hole Oceanographic Institution. So that was the ASLO conference in Glasgow and Susanne Menden-Deuer that I work with has leadership roles in that organization.
+
+But I I think there's still a ways to go for people to realize that the artists are a vital part of what they do. But it's nice to see the dialogue starting. It's starting. There's I think it's starting and it's really wonderful. I do think it's a little bit of an uphill battle still and one of the. . . And there's still some inequities in publicity and in funding.So I think there's a lot there's a lot to do and the dialogue is really wonderful and I would encourage people if they are working with scientists most scientists if you say can I meet with you would say yes they're interested but then to take it to the next step takes a lot of perseverance a lot of of working at it and saying yes I really do want to understand this more I really do want to find a a different way of thinking about it because they've had a system that's worked effective effect effectively for many years of publishing in journals and presenting in conferences in certain ways and the pressure there is to keep that system going.
+
+So we have to so do they see this as u another avenue or another
+
+## Discussion [45:16](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=2716s)
+
+Venue for their for trying to get their their their work out? Not yet in my opinion. I think that's the challenge. That's what we've been talking about. I think they really have to see that this is how they can get their work out. A lot of the younger artists are interested, you know, it's coming up generationally too. So, younger scientists, you mean right? Yeah. Probably comment. So, my area of physics so many of the concepts are very very abstract.
+
+When you deal like with quantum mechanics and things like that, artists myself and many others here, this panel are able to look at things in a different way. And I and if you read some of the writings from Warner Heisenberg and others, they're very spiritually sounding understandings of the fundamental nature of the universe. This is a perfect collaboration. And I I say that what I've seen in all of the work here today is a profound synthesis and coming together of very hard science with very beautiful artistic tendencies and an understanding that transcends and brings together all of these things.
+
+So I I'm really impressed by all the work today. Wow. Thank you. Thank you very much, Michael. That that's a I think that's a wonderful way to wrap up this panel. I don't think you can anyone could be more inspirational than that. So unless anyone else has something to say, I think I'd like to thank our our hosts here at the American Maker Space in Qarshi. And also again thank Shirin Tashova, director Shiran Tashova who got us all together and got us to Uzbekistan and and had the wonderful show in Urgench which actually can still be seen in in Summerkan.
+
+And urge anyone - everyone to join us for the further programs in this series in a couple of weeks. With that I think we can sign off and say goodbye to everyone. Thank you very much.

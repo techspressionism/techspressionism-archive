@@ -1,0 +1,11 @@
+{
+  "_comment": "Site settings. beta_noindex: while true, every page carries a noindex tag so search engines do not list the unfinished archive (set to false at launch). watch_lead_in_seconds: each '▶ watch' link starts this many seconds BEFORE the passage (never before 0:00) so a listener hears the words in context; the printed time and the citation stay exact. suggest_url: the page on techspressionism.com that holds the 'Suggest a correction' Gravity Form (leave empty to hide the links). suggest_params: the form's dynamic-population parameter names for the recording (e.g. salon-081), the time in seconds, and the passage text.",
+  "beta_noindex": true,
+  "watch_lead_in_seconds": 3,
+  "suggest_url": "",
+  "suggest_params": {
+    "recording": "recording",
+    "time": "time",
+    "text": "passage"
+  }
+}

@@ -47,7 +47,7 @@ languages: ["en"]
 
 And. Hi this is Colin Goldberg, and welcome to the Techressionist salon number 81. Today is Thursday, April fourth, 2024. And today's theme is open studios, which is basically Kind of open ended sharing anybody who would like to share their work. Is welcome to do so At this point we have 4 p. 5 people in the lineup. And each share is gonna be approximately 5 min or so you're welcome to share your screen and show your work. Keep in mind that if you do wanna share audio, you have to tick the box to share computer audio. When you start before you start your screen share.
 
-So Without further ado, I will get us started. And seems like the raise hand thing is not. Completely working for some reason. But I do. I am taking some Notes of a list. So if anyone who would like to to share. Wants to just kind of jump in after we have Michael Woodruff, Michael Price, Cynthia Beth Rubin, Tommy Mintz, and Susan DeTroy. So far the line up, so We'll get started with Michael Woodruff and go ahead, and if you're anyone that is not sharing, please mute yourselves also.
+So Without further ado, I will get us started. And seems like the raise hand thing is not. Completely working for some reason. But I do. I am taking some Notes of a list. So if anyone who would like to to share. Wants to just kind of jump in after we have Michael Woodruff, Michael Price, Cynthia Beth Rubin, Tommy Mintz, and Susan Detroy. So far the line up, so We'll get started with Michael Woodruff and go ahead, and if you're anyone that is not sharing, please mute yourselves also.
 
 ## Michael Woodruff [01:34](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=94s)
 
@@ -229,7 +229,7 @@ Yeah, no, thank you very much. And then, I do have somebody asked. 441 West 20 F
 
 Awesome. So yeah, on the Techspressionism, homepage at techspressionism dot com, we do have A banner up. With some basic information about the Brooklyn show, and we also have there's a banner for the Mounta, the Museum of wild and Newfangled Art Collaborative show with tech the text presents community and that's an international call for submissions that's open now. So if anyone would like to submit work, you can get to it right from Techspressionism. Dot com's homepage. Just scroll down a little bit and you'll see that it's Mounta X. Ts, or Believe the official Name for the show is the wild and newfangled Expressionism Exhibition. So we do have the founders here, Joey Zaza and Carian shim sham. So I'm sure if you guys have any questions, you know, after the artist presentations they are, they're here to field them.
 
-So so yeah, we have a couple of other artists lined up to present next up is Susan DeTroy. And if you'd like to present, if you haven't presented, and you'd like to present. Just drop a line in the chat or drop me a DM. In the chat, and I'll add you to the queue. We just have one other artist after Susan. So
+So so yeah, we have a couple of other artists lined up to present next up is Susan Detroy. And if you'd like to present, if you haven't presented, and you'd like to present. Just drop a line in the chat or drop me a DM. In the chat, and I'll add you to the queue. We just have one other artist after Susan. So
 
 ## Susan Detroy [32:53](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=1973s)
 
@@ -269,7 +269,7 @@ So yeah, I just love the idea! I mean that the the music is just so beautiful, a
 
 ## Colin Goldberg [40:22](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2422s)
 
-Thank you, Lucy. Beautiful work! Awesome. So we have. Next up is Susan DeTroy. Who at this point is looking like our last presenter. Unless someone else would like to jump in Afterwards. Okay. Alright great. So Cynthia DiDonato just message me. She will.
+Thank you, Lucy. Beautiful work! Awesome. So we have. Next up is Susan Detroy. Who at this point is looking like our last presenter. Unless someone else would like to jump in Afterwards. Okay. Alright great. So Cynthia DiDonato just message me. She will.
 
 ## Susan Detroy [40:48](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2448s)
 

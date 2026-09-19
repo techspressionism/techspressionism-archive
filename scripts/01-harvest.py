@@ -505,6 +505,9 @@ def main():
     sessions.sort(key=lambda s: (s["number"] is None, s["number"]))
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    # non-Salon entries are owned by Stage 1c -- keep them across a Salon re-harvest
+    if OUT_PATH.exists():
+        sessions += [s for s in json.loads(OUT_PATH.read_text()) if s.get("type", "salon") != "salon"]
     with open(OUT_PATH, "w") as f:
         json.dump(sessions, f, indent=2, ensure_ascii=False)
 

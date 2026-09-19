@@ -311,6 +311,15 @@
         "lewis hide"
       ],
       "notes": "Salon 80: author of The Gift; ASR heard the surname as 'hide'."
+    },
+    {
+      "canonical": "Jasper Johns",
+      "category": "person",
+      "whole_word": true,
+      "known_asr_variants": [
+        "jasper john"
+      ],
+      "notes": "Artist; ASR/transcript drops the final 's'. whole_word so the correct 'Jasper Johns' is never matched."
     }
   ]
 }

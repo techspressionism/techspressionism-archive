@@ -19,13 +19,17 @@ Usage:
 import json
 import re
 import sys
+from bisect import bisect_right
 from pathlib import Path
+
+from lib_media import label, selected, slug
 
 ROOT = Path(__file__).resolve().parent.parent
 SESSIONS_PATH = ROOT / "data" / "sessions.json"
 INVENTORY_PATH = ROOT / "data" / "local-video-inventory.json"
 CAPTIONS_DIR = ROOT / "raw" / "captions"
 OUT_DIR = ROOT / "raw" / "transcripts"
+WHISPER_DIR = ROOT / "raw" / "whisper"  # Stage 3 output, kept apart so re-running Stage 2 can't clobber it
 LOCAL_SALON_DIR = Path.home() / "Documents" / "~TECHSPRESSIONISM" / "VIDEO" / "SALON"
 
 TIME_RE = re.compile(r"(\d{2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}\.\d{3})")
@@ -51,7 +55,7 @@ def parse_webvtt_blocks(text):
             if m:
                 start = vtt_time_to_seconds(m.group(1))
                 end = vtt_time_to_seconds(m.group(2))
-                cue_text = " ".join(lines[i + 1:]).strip()
+                cue_text = " ".join(lines[i + 1:]).replace("&nbsp;", " ").strip()
                 if cue_text:
                     yield start, end, cue_text
                 break
@@ -91,7 +95,10 @@ def parse_youtube_captions(text):
     every tagged word as new (each real word gets exactly one tag, when
     first revealed), and for each cue's untagged leading text, drop only
     the portion that overlaps the tail of what's already been captured."""
-    is_auto = "Kind: captions" in "\n".join(text.splitlines()[:5])
+    # Auto-captions carry per-word timing tags; human-made subtitle tracks
+    # are plain punctuated cues that share the same "Kind: captions" header,
+    # so the tags -- not the header -- tell them apart.
+    is_auto = bool(WORD_TAG_RE.search(text))
 
     words = []  # (timestamp, word)
     accumulated_words = []  # flat word list captured so far, for overlap checks
@@ -149,8 +156,12 @@ def compute_quality(cues, duration_seconds):
     }
 
 
-def find_local_zoom_transcript(number, inventory):
-    bucket = inventory.get("sessions", {}).get(str(int(number)))
+def find_local_zoom_transcript(session, inventory):
+    if session.get("local_transcript"):
+        return Path(session["local_transcript"]).expanduser()
+    if session.get("type", "salon") != "salon":
+        return None
+    bucket = inventory.get("sessions", {}).get(str(int(session["number"])))
     if not bucket:
         return None
     candidates = [f for f in bucket["files"] if f["kind"] == "transcript" and f["ext"] == "vtt"]
@@ -159,8 +170,56 @@ def find_local_zoom_transcript(number, inventory):
     return LOCAL_SALON_DIR / candidates[0]["path"]
 
 
-def find_youtube_caption(number):
-    d = CAPTIONS_DIR / f"salon-{int(number):03d}"
+TIMELINE_DIR = ROOT / "raw" / "timeline"
+
+
+def drop_cut_material(session, cues):
+    """Speech that was edited out of the YouTube video must not appear on the
+    page. Stage 2c finds those stretches (raw/timeline/<slug>.cut.json, in the
+    original Zoom times); only the ones it is confident about ("ok") are dropped,
+    the rest are left for review. Call this BEFORE shift_to_video_timeline."""
+    path = TIMELINE_DIR / f"{slug(session)}.cut.json"
+    if not path.exists():
+        return cues
+    spans = [s for s in json.loads(path.read_text())["spans"] if s["status"] == "ok"]
+
+    def cut(c):
+        end = c.get("end") or c["start"]
+        return any(c["start"] >= s["start"] - 0.01 and end <= s["end"] + 0.01 for s in spans)
+
+    kept = [c for c in cues if not cut(c)]
+    if len(kept) != len(cues):
+        print(f"  {label(session)}: {len(cues) - len(kept)} utterances left out (cut from the video)")
+    return kept
+
+
+def shift_to_video_timeline(session, cues):
+    """A Zoom transcript is timed against the raw Zoom recording; when the
+    YouTube video is an edit of it, every timestamp (and "watch" link) is off.
+    Stage 2b works out the shifts (raw/timeline/<slug>.json); apply them here.
+    The original times are kept as orig_start/orig_end so 2b can be re-run."""
+    path = TIMELINE_DIR / f"{slug(session)}.json"
+    if not path.exists():
+        return cues
+    steps = json.loads(path.read_text())["shifts"]
+    if not steps:
+        return cues
+    starts = [s[0] for s in steps]
+
+    def moved(t):
+        i = max(bisect_right(starts, t) - 1, 0)
+        return round(t + steps[i][1], 2)
+
+    for c in cues:
+        c["orig_start"], c["orig_end"] = c["start"], c.get("end")
+        c["start"] = moved(c["start"])
+        if c.get("end") is not None:
+            c["end"] = moved(c["end"])
+    return cues
+
+
+def find_youtube_caption(session):
+    d = CAPTIONS_DIR / slug(session)
     if not d.is_dir():
         return None
     vtts = sorted(d.glob("*.vtt"))
@@ -173,13 +232,22 @@ def process_session(session, inventory):
 
     words = None  # word-level (timestamp, word) list -- only populated for
     # the YouTube path, where cues has no per-speaker structure to slice by.
-    zoom_path = find_local_zoom_transcript(number, inventory)
+    zoom_path = find_local_zoom_transcript(session, inventory)
     if zoom_path and zoom_path.exists():
         text = zoom_path.read_text(errors="replace")
         cues = parse_zoom_transcript(text)
         source = "zoom-transcript"
+        cues = shift_to_video_timeline(session, drop_cut_material(session, cues))
+    elif (WHISPER_DIR / f"{slug(session)}.json").exists():
+        # Stage 3 output: better than YouTube captions, worse than a Zoom
+        # transcript (no speaker labels)
+        with open(WHISPER_DIR / f"{slug(session)}.json") as f:
+            whisper = json.load(f)
+        cues = whisper["cues"]
+        words = [(w["start"], w["text"]) for w in whisper["words"]]
+        source = whisper["source"]
     else:
-        yt_path = find_youtube_caption(number)
+        yt_path = find_youtube_caption(session)
         if yt_path and yt_path.exists():
             text = yt_path.read_text(errors="replace")
             cues, is_auto, words = parse_youtube_captions(text)
@@ -194,7 +262,7 @@ def process_session(session, inventory):
     }
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = OUT_DIR / f"salon-{int(number):03d}.json"
+    out_path = OUT_DIR / f"{slug(session)}.json"
     output = {"video_id": session["video_id"], "source": source, "cues": cues, "quality": quality}
     if words is not None:
         output["words"] = [{"start": round(ts, 2), "text": w} for ts, w in words]
@@ -206,8 +274,11 @@ def process_session(session, inventory):
     if source == "none":
         if "no_transcript_source_available" not in session["flags"]:
             session["flags"].append("no_transcript_source_available")
-    elif quality["low_confidence_flag"]:
-        if "transcript_quality_low" not in session["flags"]:
+    else:
+        # a source turned up since an earlier run flagged its absence
+        if "no_transcript_source_available" in session["flags"]:
+            session["flags"].remove("no_transcript_source_available")
+        if quality["low_confidence_flag"] and "transcript_quality_low" not in session["flags"]:
             session["flags"].append("transcript_quality_low")
 
     return source, quality, out_path
@@ -219,13 +290,13 @@ def main():
     with open(INVENTORY_PATH) as f:
         inventory = json.load(f)
 
-    numbers = set(sys.argv[1:]) if len(sys.argv) > 1 else None
+    args = sys.argv[1:]
 
     for session in sessions:
-        if numbers is not None and str(session["number"]) not in numbers:
+        if not selected(session, args):
             continue
         source, quality, out_path = process_session(session, inventory)
-        print(f"Salon {session['number']}: source={source} words={quality['word_count']} "
+        print(f"{label(session)}: source={source} words={quality['word_count']} "
               f"wpm={quality['words_per_minute']} low_confidence={quality['low_confidence_flag']} -> {out_path}")
 
     with open(SESSIONS_PATH, "w") as f:

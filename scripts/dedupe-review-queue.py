@@ -33,7 +33,7 @@ def main():
 
     summary = []
     for (matched_text, candidate), group_rows in groups.items():
-        sessions = sorted(set(r["session"] for r in group_rows), key=lambda s: int(s))
+        sessions = sorted(set(r["session"] for r in group_rows))
         best = max(group_rows, key=lambda r: float(r["similarity"]))
         summary.append({
             "count": len(group_rows),

@@ -27,7 +27,7 @@ flags:
   - moderator_missing
 ---
 
-## Colin Goldberg [00:03](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3s)
+## Colin Goldberg [00:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2s)
 
 Hi everyone. My name is Colin Goldberg, and today is Thursday, August 7, th 2,025, and we're here for Techspressionist salon number 97. The topic is creative coding. We have 4 artists here today to talk a little bit about their practices and how they use code to create their work. We have also in the chat a Pdf. For instructions of how to use Zoom translated captions that was prepared by Cynthia Beth Rubin. And if you're interested in having the you know the the audio translated into a different language in real time, you can download that Pdf and follow the instructions.
 
@@ -61,25 +61,25 @@ My approach should be something that you can live with. Let it like play, and wh
 
 Alright. Thank you, Anton. Do you want to? Stop your share.
 
-## Anton Dubrovin (MCHX) [13:25](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=805s)
+## Anton Dubrovin (MCHX) [13:24](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=804s)
 
 Because
 
-## Colin Goldberg [13:28](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=808s)
+## Colin Goldberg [13:27](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=807s)
 
 Great awesome really enjoyed that. So I'm sure there's gonna be some questions. What I'm gonna do. And this is what we've done in the past with other salons is just ask everyone to hold your questions until the end. And then, you know we can go through with a show of hands. I'm also gonna paste. Anton's Instagram into the chat. If anyone's interested in seeing more of his work, definitely give him a follow up. So yeah. Awesome. So the next artist who is up is Allen Hirsh, who's from Chevy Chase, Maryland.
 
 U.S.A. And you know, I had asked each artist to give a little bit of an intro About themselves and their work. But you know what I think. I'm gonna just skip that and let the arts, you know, introduce themselves and say what they want, because, yeah, it's just it's just better that way. So Alan, go ahead and take it away.
 
-## Allen Hirsh [14:36](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=876s)
+## Allen Hirsh [14:35](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=875s)
 
 Thank you. So can everybody see the 1st slide.
 
-## Colin Goldberg [14:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=884s)
+## Colin Goldberg [14:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=887s)
 
 Yep.
 
-## Allen Hirsh [14:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=884s)
+## Allen Hirsh [14:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=887s)
 
 Okay, so this, this gives you an overview of my system. I am a biophysicist and through my artist brother. 30 years ago I began to do serious computer programming, too. I taught myself an advanced form of basic and many years later I decided to create my own kind of generative art with code doing it my own way. So these bullet points give you a pretty good idea of what I do. It is a generative system. It uses 3 images simultaneously going from pixel to pixel and register. In other words, there are pointers on each pixel, and the images are the same size. So I'm moving from Pixel to Pixel and register. It's using 11 dimensions to put into. I have thousands of equations. I've written.
 
@@ -119,7 +119,7 @@ And if we go back
 
 You'd have just over 2 min left. I just wanted to let you know, in case you wanted to.
 
-## Allen Hirsh [27:20](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1640s)
+## Allen Hirsh [27:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1639s)
 
 Oh, okay, so let me let me go past all of these. And I'm gonna show you One more. This is really highly structured in color. But then I want to show you some, the the. Some videos. So here's a video made from again that original photograph.
 
@@ -131,7 +131,7 @@ These generally am making them at 6 to 700 frames. To make this takes quite a fe
 
 All right. Thanks so much, Alan, and I'm gonna paste your Instagram into the chat as well.
 
-## Allen Hirsh [29:21](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1761s)
+## Allen Hirsh [29:20](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1760s)
 
 Sure.
 
@@ -139,31 +139,25 @@ Sure.
 
 So anyone who would like to see more of your work can follow you. Awesome. So thanks. So much for presenting. I think it's really interesting. How you know in your work. It seems like it's as much a process of discovery as it is of intent, that is, you know, kind of playing with the the code and seeing what? What what it results in. So yeah, that's kind of been my experience when when playing around code as well. All right. So the next artist up is Elio Ramos-Colón Colon from Garabo, Puerto Rico. Elio's work is actually one of the 1st bodies of work that I found on Instagram when I was looking for other artists to be involved in the group. I remember, you know I think he might have been the 1st Code based artist. Actually, that I I noticed the work online and tagged it with the hashtag. And he got involved. Some of the the early exhibitions and other things like that. So Elio has been part of the community for quite a while now, and I would like to introduce you and welcome you to share your work.
 
-## Elio Ramos-Colón [30:42](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1842s)
-
-Take care of here.
-
-B,.
-
-Let me find a game.
+## Elio Ramos-Colón [31:05](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1865s)
 
 Okay? So I have. I prepared this presentation our creative coding. And of course, my name is Elio Ramos-Colón Colon, and my handle is Garabatos, Pr. In Instagram and Twitter. Also. I'm gonna begin talking a little bit about my inspirations for first, st for some of my work. Of course. The inspiration from many of us is, are the classics, Ilma. I think I lost. I don't know. Well, I don't know what happened.
 
 I don't know what's going on.
 
-## Tommy Mintz [31:59](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1919s)
+## Tommy Mintz [31:34](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1894s)
 
 I see your screen just fine. Can you clean up a slide.
 
-## Elio Ramos-Colón [32:03](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1923s)
+## Elio Ramos-Colón [31:38](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1898s)
 
 You can see my screen. Yeah.
 
-## Tommy Mintz [32:05](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1925s)
+## Tommy Mintz [31:41](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1901s)
 
 Yes.
 
-## Elio Ramos-Colón [32:10](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1930s)
+## Elio Ramos-Colón [31:45](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1905s)
 
 I'm trying to. But I can see my screen. Okay, now, okay, now, okay. Sorry so some of my inspirations are the classic artists like Hilma Kandinsky Malevich, and Also the contemporary artists and creative coder. Manuel Gamboan, which is actually the 1st word that I saw in creative coding was by this guy, and I was shocked, and I decided to work to do some work in in that area. Of course my background is in is in coding. I teach computer science. But after I saw the work from Manuel I began to do.
 
@@ -175,19 +169,19 @@ I cannot move my transparencies.
 
 Sorry I'm having some problems. I don't know why why I cannot move my transparencies. You can hear you now.
 
-## Anton Dubrovin (MCHX) [34:40](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2080s)
+## Anton Dubrovin (MCHX) [34:15](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2055s)
 
 Yes.
 
-## Elio Ramos-Colón [34:41](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2081s)
+## Elio Ramos-Colón [34:17](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2057s)
 
 You can hear me now.
 
-## Colin Goldberg [34:43](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2083s)
+## Colin Goldberg [34:18](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2058s)
 
 Yep.
 
-## Elio Ramos-Colón [34:43](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2083s)
+## Elio Ramos-Colón [34:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2059s)
 
 Okay. Sorry again. So some of the tools that I use are basically, I began doing creative coding with processing. But Maybe this few project with processing at the very beginning, like probably 7 or 8 years ago. But then I began to work with p. 5 Gs. Which is the processing version that works online. So all the projects are gonna show you today are are done with p. 5 Gs, which is a Javascript version of processing. I like it because you can share your work in in online. And you can also in add some interactivity to your work. And it's it's it's it's my favorite language to work to do Generative art and and creative coding All the works that I'm gonna show you today are done in in in a platform called open processing. It's a paid platform. But you can. You can. You can work for free. And I'm gonna share some of my my sketches from from this platform in open processing. Well, now, basic, a typical basic code in p, 5, gs, then, as you can see, it's very intuitive in terms of from the perspective of an artist you can create a canvas, you can defend the background of your, the color of the background.
 
@@ -217,11 +211,11 @@ So in my case, I prepare a small courage. I I created, basically, I put together
 
 But I prefer to use random recursion, because it's the patterns are tend to be more more interesting and not that mechanical in in that instance. I'm not. I'm not sure if I have have additional time calling or.
 
-## Colin Goldberg [44:23](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2663s)
+## Colin Goldberg [42:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2572s)
 
 Yeah, you have just about 2 min.
 
-## Elio Ramos-Colón [44:27](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2667s)
+## Elio Ramos-Colón [42:55](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2575s)
 
 2 min. Okay, so probably I'm gonna show you this guy here, which is probably maybe a friend.
 
@@ -233,13 +227,13 @@ My handle caravato spear. And of course, my open processing account. So that's i
 
 Thank you.
 
-## Colin Goldberg [46:43](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2803s)
+## Colin Goldberg [45:12](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2712s)
 
 Alright awesome. Thanks so much. Elio. I'm gonna paste Elio's Instagram into the chat as well here. Very cool. And I also really liked how you used QR codes in the presentation. A couple of people commented on that. I think that's a really good idea. Especially because these salons are being recorded. So when people are watching on Youtube, they can still scan the QR codes you know, they're not going to be able to see the contents of the chat, but they are going to be able to see anything that's being shared on the screen. So I think that's a really interesting way to use codes.
 
 So we have one artist Left. That is Chris Bly from Portland, Oregon. I believe Chris's handle on Instagram is machine dot arm, and I found Chris's work. When I started to play around with a plotter. I got myself an Axie draw a couple of years ago and was playing with plotting some vector art that I drew in illustrator. And then I found Chris's work, which is generative work. And I thought it was really interesting how he used the plotter in terms of a way to execute his code based work. So without further ado, I will introduce Chris.
 
-## Chris Bly [48:13](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2893s)
+## Chris Bly [46:42](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2802s)
 
 Hi, everybody! I'm Chris. Like Colin said. I I've been doing generative art for the last few years now. I got into it initially, I I went to school for math and computer science. So I have a history of coding. But I didn't get into the art aspect of it until a few years ago, during Covid, when I bought One of the acts to draw pen plotters, I don't know. I came across somebody's account online. And I was like, that looks like a fun little hobby. So I got into it that way and then sort of discovered B, 5 js, after that, and then started playing around with that to create a lot of my work.
 
@@ -297,151 +291,153 @@ Maybe even To the you know, some sort of situation where I'm working simultaneou
 
 But anyway, that's I guess that's about it for me.
 
-## Colin Goldberg [01:03:16](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3796s)
+## Colin Goldberg [01:01:43](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3703s)
 
 All right. Awesome, Chris. Thanks so much for for sharing your work. I remember when I 1st saw the the work involving paint. And I was like, How the heck are you doing that before I saw the process video, and that just totally blew my mind how you actually programmed in the motion of the paint.
 
-## Chris Bly [01:03:38](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3818s)
+## Chris Bly [01:02:06](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3726s)
 
 Yeah. The.
 
-## Colin Goldberg [01:03:39](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3819s)
+## Colin Goldberg [01:02:06](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3726s)
 
 Picking up the paint, going back to the spot it left off. I mean, that's that's pretty crazy. Very cool. And yeah.
 
-## Chris Bly [01:03:48](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3828s)
+## Chris Bly [01:02:15](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3735s)
 
 There's literally a dip function in my program for that, and it just draws a little circle. So it goes in and like picks up some of the paint and then goes back. But yeah, that took me a little bit to figure out, but once once it it worked, I was like, oh, this opens up a lot of possibilities. So.
 
-## Colin Goldberg [01:04:07](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3847s)
+## Colin Goldberg [01:02:35](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3755s)
 
 Absolutely it reminded me. Somewhat of Roman Verasco's work, who's recently passed away. I'm not sure if you're familiar with him and his work. But he was used in the plotters, you know, kind of early on, and I think it's really interesting, like where you've taken that. So so you know, we have some time left about, you know, 1520 min or so, if anyone has any questions, I was thinking also it might be interesting. We haven't really done this in the past to 1st Ask any of the presenting artists if you have any questions for any of the other presenters. And then, you know, we could just generally open it up. But if any of the people here in the audience have questions, just go ahead and use the raise hand tool which is on the On the zoom interface. They keep moving around exactly where it's located. But yeah, it's somewhere.
 
 The react button, maybe. Is that it? Yeah. And that little heart on the bottom, the react button. There's a raise hand function. So do any of the artists. Have any questions for any of the other presenters. Before we go into the The general audience.
 
-## Allen Hirsh [01:05:31](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3931s)
+## Allen Hirsh [01:03:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3838s)
 
-Yeah, yeah, I. I have a question for for Elio. In your motion equations for for the X and Y changes. Did you only vary time? Or did you actually make the the frequency coefficients, functions of position or time.
+Yeah, yeah, I. I have a question for for Elio.
 
-## Elio Ramos-Colón [01:05:54](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3954s)
+In your motion equations for for the X and Y changes. Did you only vary time? Or did you actually make the the frequency coefficients, functions of position or time.
+
+## Elio Ramos-Colón [01:04:22](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3862s)
 
 No? Well, I I probably we can take a look to the code. But let's see if I can share the code. Because is easier to explain. Okay, okay.
 
 Well, it's implicit that there is. Time, basically is is the the whole thing is running in a loop. So basically, the the time is implicit, but but the movement is is based on on the previous coordinate, so the particles is in one position. The formula move it to another position, and then repeats again, so that's so, you know that In a sense, is, isn't.
 
-## Allen Hirsh [01:06:50](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4010s)
+## Allen Hirsh [01:05:17](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3917s)
 
 Yeah, yeah, I I understand that. But but so, for instance, when you have a assign Kt function, The simplest thing is to have K be a be a constant, but but you get more interesting or complex results of K as a function of of U and V and Ti mean, in other words, it itself Is is a variable yeah. I just wanted to know whether you did that or whether they were always the the frequency.
 
-## Elio Ramos-Colón [01:07:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4039s)
+## Elio Ramos-Colón [01:05:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3946s)
 
 They are constant, they are constant. Probably in some other experiments. I tried adding noise to those contents, and Robbie some of my pieces somewhere, probably in some of the sprint. I have done that. But in this case it just be a deterministic motion. Basically, yeah.
 
-## Allen Hirsh [01:07:41](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4061s)
+## Allen Hirsh [01:06:08](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3968s)
 
 Okay. Just wanted to know. Right? Sure.
 
-## Elio Ramos-Colón [01:07:43](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4063s)
+## Elio Ramos-Colón [01:06:10](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3970s)
 
 Okay.
 
-## Colin Goldberg [01:07:45](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4065s)
+## Colin Goldberg [01:06:12](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3972s)
 
 Alright, so I just actually pasted Chris's Instagram into the chat for any of you guys who want to give him a follow full disclosure. I'm also a collector. I bought a couple of prints off of this site, and they're very cool. And that's how I actually, you know, thought oh, he would be a perfect person to invite to this. So we have a few more questions. Patrick.
 
-## Patrick Lichty [01:08:13](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4093s)
+## Patrick Lichty [01:06:40](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4000s)
 
 Hi, oh, wait a second. Oh, okay. So there's gonna be a little bit of an echo. Yeah, yeah, no. I've got mine open. So the one thing that I think is interesting is that you know you're working with the. With the paintbrushes, and that as a as a function, and the thing is is that I was very close to Roman myself. So and that's 1 of his gaia projects up there. So anyways, what happens is that what he used to do is that he used to take Used to take the pens and actually rework them. And to the point of using
 
-## Colin Goldberg [01:09:06](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4146s)
+## Colin Goldberg [01:07:33](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4053s)
 
 You're muted, Patrick.
 
-## Neginete EL [01:09:07](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4147s)
+## Neginete EL [01:07:35](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4055s)
 
 Instead of instead of using the Instead of using using a brush. And the thing is that where this kind of influenced me is that I wind up using when I go that approach I wind up using you know, acrylic or casing in a in a water brush or something like that. So you know, how do you think that something, you know, like that sort of approach, you know. Have you gone that way? Or do you think that you know you really like this idea of, you know using the brush? And how do you keep? How do you keep things consistent, you know, on long runs.
 
 I'm as is that directed towards me. Yes, to Chris, yeah, no. I like the fact that using brushes and that sort of thing. So I said, you know I used to know Roman Brasco for a long. And the so the thing is, he wound up, using. You know, pens with casing in them, and the thing is is that I went to water brushes, you know, with your watercolor casing and things like that. And, you know, have you tried that? And you know, how do you keep the consistency, you know, with with your brushes and using, you know, in using brush based methods.
 
-## Chris Bly [01:10:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4219s)
+## Chris Bly [01:08:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4127s)
 
 I have experimented a little bit with water brushes. It's a little bit difficult. I have to come up with a mechanism to hold it on the plotter without actually squeezing the brush, but with as far as regular brushes. The most difficult thing is maintaining The paint level in the tray, because if it gets too low, the the you know, the strokes can sort of like start to fade out, which can be a cool effect that I've utilized before. So in some of my videos where I've done the painting, you'll see where, like I'll even Just after, like One or 2 dips, I'll drop a little bit more in the paint tray if I want it consistent. If I want it to run low, I'll do that. Sometimes I'll move the tray around. So there's a lot of different variables just on using a paintbrush alone that you can play around with. If you want to have it sort of like fade out and not go back and dip immediately after each stroke. You can do that, too.
 
 It just depends on the effect that I'm going for. But yeah, I haven't. I don't have a whole lot of videos of the painting process on my Instagram. It's something I'm slowly still trying to dial in to be honest with you, and it's also difficult to find works of mine that are compatible with the painting process and not just exclusively, pen. So that's also a challenge, too.
 
-## Patrick Lichty [01:11:54](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4314s)
+## Patrick Lichty [01:10:21](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4221s)
 
 Have- have you? Have you looked at the yeah, we used
 
-## Neginete EL [01:11:59](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4319s)
+## Neginete EL [01:10:27](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4227s)
 
 Used, you know, painting in their you know, in the process, I think there's there's a a a A couple of artists out in Germany that were doing oil. And then I think Ben Grocer was also winding up. You know, having a specific, a very brush faced. You know, pen, plot. I'm pen plotting you know, system and that sort of thing. And I was just wondering what about your familiarity with the other artists who've gone into this approach.
 
-## Chris Bly [01:12:33](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4353s)
+## Chris Bly [01:11:01](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4261s)
 
 Yeah, I've seen a few other artists. Oh, I'm trying sorry I'm I'm blanking on their name right now. There's a I'm sure if I pulled up my Instagram I'd be able to see them. There is an artist that I follow. Who does oil based. And he has an interesting setup to where is? He's even a couple of his machines are even set up vertically on the wall, and he sets up the tray so that it can go back, and hit he does a lot of landscapes, Sort of stuff that ends up being kind of like, slightly pixelated because of the brush strokes and the the palette and everything. But it's a really cool effect.
 
 And then there's I've seen other people. Other artists that use Sort of like a sponge type brush where it goes in and soaks it up, and then they'll let the the marks sort of fade out. And yeah, there's, I mean, there's a lot of The possibilities are kind of endless. I mean, I've I've I've plotted on wood. I've seen people plot on glass. It's not even just the materials that you can use to plot with. It's also the materials you can plot on Fabric like. Yeah. So.
 
-## Colin Goldberg [01:14:00](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4440s)
+## Colin Goldberg [01:12:28](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4348s)
 
 Well, actually Based on Patrick's question. It reminded me of Joseph Nekvital's work, who he's a friend, and he's also been involved with the the group with Techspressionism for a while. Now, I'm going to just paste a link into the chat, too. So Joseph has been working with Basically like they're described as computer robotic assisted paintings. But it's like a a plotter that's on a very large scale. So the the piece I pasted the link in, I believe, is in the collection of the Brooklyn Museum, and it's 64 by 44 inches. Computer robotic assisted acrylic painting on velvet and that was back from 2011. So his work is definitely worth taking a look at, too, when it comes to the the handling of media with those sort of tools. But he refuses to go on zoom sadly. So you know. But you, you could definitely see his his work online.
 
-## Neginete EL [01:15:08](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4508s)
+## Neginete EL [01:13:38](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4418s)
 
 Exclusive.
 
-## Colin Goldberg [01:15:10](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4510s)
+## Colin Goldberg [01:13:39](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4419s)
 
 So let's see, we have Cynthia DiDonato up next.
 
-## Cynthia DiDonato [01:15:15](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4515s)
+## Cynthia DiDonato [01:13:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4424s)
 
 I just wanted to say thank you to all the presenters today for sharing such fascinating use of coding as a medium. And I I have a question for Elio. I went to the open processing Techspressionism subset, and looked at all the lovely pieces that are there, and I noticed that it says, Submit your sketch. So I'm assuming that any of us, because this is open processing could submit a digital file there. Or am I wrong.
 
-## Elio Ramos-Colón [01:15:57](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4557s)
+## Elio Ramos-Colón [01:14:27](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4467s)
 
 Yeah, the the thing is that in open processing you can create a correction. And you can tell other people to submit their code, basically so they they can submit. If you are in in open processing. If you, if you have an account in open processing, you can Add your call to to that creation. So basically, it's it's inside open processing.
 
-## Cynthia DiDonato [01:16:23](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4583s)
+## Cynthia DiDonato [01:14:53](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4493s)
 
 Okay. So the submit. Your sketch is to submit code.
 
-## Elio Ramos-Colón [01:16:28](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4588s)
+## Elio Ramos-Colón [01:14:57](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4497s)
 
 Yes. Yeah.
 
-## Cynthia DiDonato [01:16:29](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4589s)
+## Cynthia DiDonato [01:14:59](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4499s)
 
 That's what I needed to understand.
 
-## Elio Ramos-Colón [01:16:32](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4592s)
+## Elio Ramos-Colón [01:15:01](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4501s)
 
 Yeah, okay.
 
-## Cynthia DiDonato [01:16:33](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4593s)
+## Cynthia DiDonato [01:15:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4502s)
 
 Thank you.
 
-## Elio Ramos-Colón [01:16:34](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4594s)
+## Elio Ramos-Colón [01:15:03](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4503s)
 
 Thank you. Thank you for your comment.
 
-## Colin Goldberg [01:16:37](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4597s)
+## Colin Goldberg [01:15:07](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4507s)
 
 Alright, great and now we have Michael Pierre Price.
 
-## Michael Pierre Price [01:16:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4604s)
+## Michael Pierre Price [01:15:13](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4513s)
 
 Thank you. Yeah. I want to give kudos to all the 4 presenters. I think. What you've done and what you're doing is really inspirational I was. This is kind of an open question to anybody who of the 4 who might want to answer. But I was curious about The nature of the math that you're using. I'm I'm Got a good math and physics background myself. And so I was just curious whether or not using higher order mathematics, or if if you've explored certain areas that are more fruitful Using math than others. And, for instance, Elio, I saw that you were mentioning not only particles but fields. And I didn't know whether or not those fields that you might be using are dynamic in a certain way, which might interact the particles together in ways that might not be obvious. So I'm just really kind of curious Whether using linear math is more productive than saying using complex functions. But so I'm I'm just really kind of throwing that out there because I was really curious. In looking a little more under the hood of what you guys are actually doing.
 
-## Elio Ramos-Colón [01:18:07](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4687s)
+## Elio Ramos-Colón [01:16:37](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4597s)
 
 Yeah, I'm gonna comment on that. Yes, in my case, of of course, is, everyone has their own artistic process. At least for me in the doing doing creative coding. In my case. Basic, very simple ideas and extended these basic ideas. When I say basic ideas, I mean, basic basic equation basic formulas and trying to extend it to different kind of scenarios. For me, that's the way. Well, that's the way that works. That's the Refer to work At at a certain stage when I was beginning to do this type of creative coding things.
 
 I used to start with huge big ideas I'm gonna have. I'm gonna use this very complex interaction. This very complex equation. But bottom line is, I end up with very basic things, just basic things, basic ideas, and and try to see how far I can take them. Yeah. But in some cases I I think about Probably some kind of higher mathematics in some cases. But but I I for me, it's more productive to to think in in, in very simple rules and very simple formulas. Yeah.
 
-## Allen Hirsh [01:19:36](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4776s)
+## Allen Hirsh [01:18:04](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4684s)
 
 I guess I'm the opposite of Elia. I try to make my systems as complicated as I can to see if I can still get art out of them. And I guess of all the the functional systems that I use, the one, the one that was the the biggest leap forward in terms of increased quality and interest, was was doing numerical integration, On, on the mostly somewhat on on positions, but mostly on the On the the the color, the color. Dimensions, I mean, in in a certain sense.
 
@@ -449,133 +445,103 @@ Each one of those is is a separate manifold. And so you start integrating them. 
 
 The individual flow of die elements of the of of the Of each, each thread, each, you know, thread in the brush is not controlled. All this kinds of complex patterning that's going on that Rembrandt can't control, nobody can control it. So there's all this stuff. But but then there's also order to it. And so I'm I'm sort of trying to get at that, but at the same time controlling everything. But yeah, so I really like the complexity. I think The difference between me and Elio is that I'm a I'm a biologist, and biologists are in love with complexity.
 
-## Michael Pierre Price [01:21:48](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4908s)
+## Michael Pierre Price [01:20:16](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4816s)
 
 That's a good answer. Thanks, Alan.
 
-## Colin Goldberg [01:21:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4912s)
+## Colin Goldberg [01:20:20](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4820s)
 
 Okay, so we have 2 more questions. We're kind of getting close to time. We'll take one from Lee Day. And then I saw in the chat. Gregory Garvey has a question. So we'll do those 2 questions before we close. So, Lee, you're up.
 
-## lee day [01:22:11](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4931s)
+## lee day [01:20:39](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4839s)
 
 I was just wondering, whether anyone had considered using open frameworks or whether that's just sort of overkill for that. This kind of work.
 
-## Colin Goldberg [01:22:26](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4946s)
+## Colin Goldberg [01:20:54](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4854s)
 
 Anybody.
 
-## Anton Dubrovin (MCHX) [01:22:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4950s)
+## Anton Dubrovin (MCHX) [01:20:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4858s)
 
 I, personally don't use open frameworks. But it's just because I'm I like I like doing everything myself.
 
-## Elio Ramos-Colón [01:22:45](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4965s)
+## Elio Ramos-Colón [01:21:13](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4873s)
 
 In progress right.
 
-## Anton Dubrovin (MCHX) [01:22:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4966s)
+## Anton Dubrovin (MCHX) [01:21:14](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4874s)
 
 And but I feel like it's it's not something that you cannot do. I think it's really cool, and a lot of artists do use. And this kind of work frameworks. And Yeah, but for me, I'm just I really like being knowing what I what I do, what I can do with, and all only rely only on my own knowledge. And and yeah, this is why I approach.
 
-## Allen Hirsh [01:23:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5010s)
+## Allen Hirsh [01:21:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4918s)
 
 I'll put it in more explicit terms. I'm too self-centered to do that. Like Anton, I just want to explore my own. My own mathematics my own approach, and and develop that on my own.
 
-## Colin Goldberg [01:23:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5026s)
+## Colin Goldberg [01:22:14](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4934s)
 
 Alright!
 
-## Anton Dubrovin (MCHX) [01:23:46](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5026s)
+## Anton Dubrovin (MCHX) [01:22:14](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4934s)
 
 Yeah.
 
-## Colin Goldberg [01:23:48](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5028s)
+## Colin Goldberg [01:22:16](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4936s)
 
 So we'll take one last question from Greg Garvey.
 
-## Gregory Garvey [01:23:55](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5035s)
+## Gregory Garvey [01:22:23](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4943s)
 
 I have a very brief question for Chris, and then a general question for the 3 artists. For Chris. The question is, how often do you have to? As a brush is used, or a pen? Does it begin to break down, or the bristles spread too much? And how often do you have to replace it. And then the general question, is. Art movements, such as color, field painting, conceptual art. Or an artist like separately Ellsworth Kelly sought to remove the artist's hand from the work.
 
 And how much is that kind of ideological position? Influence your approach.
 
-## Allen Hirsh [01:24:45](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5085s)
+## Allen Hirsh [01:23:13](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4993s)
 
 People.
 
-## Chris Bly [01:24:50](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5090s)
+## Chris Bly [01:23:18](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4998s)
 
 For with regard to the pens and brushes and stuff it, it is. I mean, it isn't issue having to monitor those tools, especially in. You know a longer plot. You know, there's been times where I've walked out, and. You know, gone to have a cigarette come back and the pen is out of ink, and I got to start all over again, or, you know, like the something like that. But you know, depending on the size and the length of the plot. I do have to monitor to those things pretty carefully.
 
 And you know, sometimes I think the density of some of the line work can also create a problem. So I've had times where it'll It'll draw so many lines and and one space or 1, 0, so many overlapping lines that'll wear through the the paper, or whatever surface that I'm on. So it's always like there's a lot of back and forth between. Once I get like an image that I like, and that I want to plot a lot of times. It's like a matter of seeing if like, if it can be plotted and if not, then what do I have to go? Do and change in the program to, you know, either get rid of some of the the density, or get some of the roadblocks that are preventing me from plotting the image that I want to plot. So there's kind of a back and forth sometimes I've got. I've been doing it long enough now to where I can kind of like look in an image and see which ones are gonna cause me problems. But yeah. Yeah.
 
-## Colin Goldberg [01:26:34](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5194s)
+## Colin Goldberg [01:25:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5102s)
 
 Great. And do we? Wanna let's just ask any of the other artists if you'd like to speak to greg's second question.
 
-## Allen Hirsh [01:26:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5204s)
+## Allen Hirsh [01:25:12](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5112s)
 
 For me. It it. The the complexity of the math means that, you know initially I don't know what it's going to do. And then I try to manipulate it through manipulating the various aspects of the equations. But I think For me, I think philosophically, I'm closest to candid photographers. The candid photographer goes out into the world, and the person doesn't know what they're going to see, and their talent is to be able to capture something that's very interesting. It might be dynamic, it might be static, and all their talent is how they use the camera and how they use post Post capture processes in the modern world. And so there's a huge aspect of mystery to it, and and Unanticipated discovery, which is, of course, somewhat similar to the idea of not having.
 
 You know, really tight manual control.
 
-## Anton Dubrovin (MCHX) [01:27:47](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5267s)
+## Anton Dubrovin (MCHX) [01:26:15](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5175s)
 
 Any of the other artists.
 
-## Colin Goldberg [01:27:49](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5269s)
+## Colin Goldberg [01:26:17](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5177s)
 
 Speak to you.
 
-## Anton Dubrovin (MCHX) [01:27:50](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5270s)
+## Anton Dubrovin (MCHX) [01:26:18](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5178s)
 
 Yeah, yeah. It's a great question. And I've I've seen a lot of Actually artist in Web 3 are also discussing it. And and talk about like generative art and gold art. But I personally feel like it's impossible to eliminate the hand of artist from the artwork. Even like all the iron in this moment, we we still see the The personal style and approach of the artist. And yeah, so even if it's really minimalistic or conceptual work. It still has this kind of aura. And Like.
 
 I don't know this story of the artist. It's it goes within the artwork. So. But I get that. It's it is In abstraction. It there is a like. It's a good. Maybe it's a great way to approach to to the abstraction to the obstruction work. But still, yeah, thanks.
 
-## Elio Ramos-Colón [01:29:15](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5355s)
+## Elio Ramos-Colón [01:27:40](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5260s)
 
-Yeah. I wanted to. I wanted to. I'm having some problems. I have it. Some product. Yeah, let's see, like. Turn off. Okay. I want to comment on that. That. Okay, let me stop here. Okay, yeah. I want. I wanted to say, okay again.
+Yeah.
 
-## Anton Dubrovin (MCHX) [01:29:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5384s)
-
-Yeah. Go on.
-
-## Elio Ramos-Colón [01:29:48](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5388s)
-
-Yeah, I think by a, my app. My. Approached. And I know. Creating coal. Created couple. I have an intuitive. I have an. Yeah, of of what? Of of. What I want to do. Portable. What I want to do. And you're given.
-
-## Colin Goldberg [01:30:11](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5411s)
-
-Damn!
-
-## Elio Ramos-Colón [01:30:11](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5411s)
-
-Feedback, or echo.
-
-## Colin Goldberg [01:30:14](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5414s)
-
-I don't know if you have 2 devices open.
-
-## Elio Ramos-Colón [01:30:17](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5417s)
-
-I know that's horrible!
-
-## lee day [01:30:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5419s)
-
-An excellent performance piece.
-
-## Elio Ramos-Colón [01:30:25](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5425s)
-
-Okay. Now, okay. Then. Okay. Can you hear me? Yeah, I was gonna say that. Yeah, I was gonna say, so. I have some kind of intuitive idea of of what I want to do. But it's always an experiment. I feel that I like that. For instance, all these parameters that I use are In most cases I have some idea what's gonna happen. But the final word is running the code and begin to think in the aesthetics of our Hungarian. So it's that's that's most of the time. That is my approach. So In comparison with, let's say, scientific computing. When you know what you want to get, you're waiting for some result. You're waiting for some solutions. In this case. The final word is the the screen. What you see in the canvas, the harmony of the colors. And so it's like you have all this background in computing, or probably scientific computing. But you have to.
+But it's always an experiment. I feel that I like that. For instance, all these parameters that I use are In most cases I have some idea what's gonna happen. But the final word is running the code and begin to think in the aesthetics of our Hungarian. So it's that's that's most of the time. That is my approach. So In comparison with, let's say, scientific computing. When you know what you want to get, you're waiting for some result. You're waiting for some solutions. In this case. The final word is the the screen. What you see in the canvas, the harmony of the colors. And so it's like you have all this background in computing, or probably scientific computing. But you have to.
 
 Sometimes you have to forget some of that stuff when you're doing art. So that's that's my feeling. That's my approach.
 
-## Colin Goldberg [01:31:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5504s)
+## Colin Goldberg [01:28:48](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5328s)
 
 All right. Thank you. Elio and Chris, do you want to close out if you have any thoughts on that as far as the artist hand goes.
 
-## Chris Bly [01:31:54](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5514s)
+## Chris Bly [01:28:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5338s)
 
 Yeah, I think the I mean, obviously, I agree with what Anton pointed out there is that, you know, even in even in a genre such as generative generative art. There's artists that have a very clear voice. There's artists out there that I could immediately recognize their work Without knowing, you know, without a label next to it. So I believe that the artist hand is still very strong even in this field. One of the personal things I enjoy about it is the, again, the collaborative effort between myself and the computer. I can randomize a certain number of variables. It's almost like being in a band with another person. Where I have, I can decide how much creative control I want. I have, you know, I can make it like 99% is up to me. And 1% is the computer. I can make it 50 50 up to the computer and in those cases, it's really interesting to find out what the computer.
 
@@ -583,7 +549,7 @@ What decisions it makes, what you know, randomness, what recursion, what noise t
 
 Yeah, the the artist's hand is absolutely in there. It's the, I think the really great artists that I've come across, and my favorite artists are the ones that, like, I said, you can immediately tell their work without even, you know Seeing their name next to it. So.
 
-## Colin Goldberg [01:34:00](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5640s)
+## Colin Goldberg [01:31:04](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5464s)
 
 All right. Well, that brings us to time. I'd like to again. Thank the 4 artists who presented Anton, Alan, Elio, and Chris. Great salon you know. I think that there could be you know, multiple chapters on this topic. I also was thinking it would be a pretty cool exhibition to organize. At some point. If if anyone's interested in curating or putting together something that's based on code based work, I think that'd be kind of cool because it could be experienced by people all around the world in their browsers versus necessarily having to be done in a physical space. So just a little food for thought. There. And we're coming up on next month the 1st Thursday Of the month is September 4.Th So it's looking like that will be our next salon. For those of you watching on Youtube. We meet the 1st Thursday of every month at noon, Eastern time. And I do not believe we have a topic picked out for September. Unless I'm just forgetting.
 

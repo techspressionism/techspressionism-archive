@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Batch-fetch YouTube caption files (human subs + auto-subs, vtt) for every
-Salon video. Read-only against YouTube; writes only caption files, no video,
+recording in data/sessions.json (Salons, interviews, roundtables, presentations). Read-only against YouTube; writes only caption files, no video,
 no decision logic about which source to prefer -- that's a separate step.
 
 Usage:
-    python3 scripts/fetch-all-captions.py
+    python3 scripts/fetch-all-captions.py                        # everything
+    python3 scripts/fetch-all-captions.py interview roundtable   # some types
 """
 import json
 import subprocess
@@ -12,14 +13,18 @@ import sys
 import time
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_media import slug  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_PATH = ROOT / "raw" / "salon_video_index.json"
+SESSIONS_PATH = ROOT / "data" / "sessions.json"
 CAPTIONS_DIR = ROOT / "raw" / "captions"
 LOG_PATH = ROOT / "raw" / "caption_fetch_log.json"
 
 
-def fetch_one(number, video_id):
-    out_dir = CAPTIONS_DIR / f"salon-{int(number):03d}"
+def fetch_one(session):
+    video_id = session["video_id"]
+    out_dir = CAPTIONS_DIR / slug(session)
     out_dir.mkdir(parents=True, exist_ok=True)
     # skip if we already have a vtt for this video (idempotent re-runs)
     existing = list(out_dir.glob(f"{video_id}*.vtt"))
@@ -46,21 +51,22 @@ def fetch_one(number, video_id):
 
 
 def main():
-    with open(INDEX_PATH) as f:
-        index = json.load(f)
+    """Usage: fetch-all-captions.py [type ...]   (default: every session)"""
+    types = set(sys.argv[1:])
+    sessions = [x for x in json.loads(SESSIONS_PATH.read_text()) if not types or x.get("type", "salon") in types]
 
     log = {}
-    total = len(index)
-    for i, (number, entry) in enumerate(sorted(index.items(), key=lambda kv: int(kv[0])), 1):
-        video_id = entry["video_id"]
-        print(f"[{i}/{total}] Salon {number} ({video_id})...", end=" ", flush=True)
+    total = len(sessions)
+    for i, session in enumerate(sessions, 1):
+        key = slug(session)
+        print(f"[{i}/{total}] {key} ({session['video_id']})...", end=" ", flush=True)
         try:
-            result = fetch_one(number, video_id)
+            result = fetch_one(session)
         except subprocess.TimeoutExpired:
             result = {"status": "timeout"}
         except Exception as e:
             result = {"status": "exception", "error": str(e)}
-        log[number] = {"video_id": video_id, **result}
+        log[key] = {"video_id": session["video_id"], **result}
         print(result["status"])
         # be polite to YouTube -- small delay between requests
         time.sleep(1)

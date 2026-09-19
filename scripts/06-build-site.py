@@ -23,6 +23,10 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
+from urllib.parse import urlencode
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_media import TYPES, label, slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS_JSON = ROOT / "corpus" / "corpus.json"
@@ -38,6 +42,47 @@ def e(s):
     return html.escape(str(s) if s is not None else "")
 
 
+# "Suggest a correction": a link after each passage that opens the Gravity Form on techspressionism.com with
+# the recording, time and passage already filled in (Gravity Forms populates fields from the address).
+# Hidden unless data/site-config.json sets suggest_url, so nothing changes on the site until that is set.
+SITE_CONFIG = json.loads((ROOT / "data" / "site-config.json").read_text()) if (ROOT / "data" / "site-config.json").exists() else {}
+SUGGEST_MAX = 1200  # characters of the passage carried in the address; a longer one is cut at a word boundary
+# "▶ watch" links start a few seconds BEFORE the passage: speech timing is only accurate to about a second
+# (a few seconds on recordings whose Zoom timing was converted), and a listener needs a beat of context.
+# The printed timecode and the citation keep the exact time.
+WATCH_LEAD_IN = max(0, int(SITE_CONFIG.get("watch_lead_in_seconds", 3)))
+
+
+# Each page links back to the recording's own page on techspressionism.com (data/site-pages.json).
+_SITE_PAGES_PATH = ROOT / "data" / "site-pages.json"
+SITE_PAGES = json.loads(_SITE_PAGES_PATH.read_text()).get("pages", {}) if _SITE_PAGES_PATH.exists() else {}
+
+
+def site_page_html(entry):
+    address = SITE_PAGES.get(slug(entry))
+    return (f' &middot; <a href="{e(address)}" target="_blank" rel="noopener" data-pagefind-ignore>'
+            f'View on techspressionism.com</a>') if address else ""
+
+
+def add_robots(page_html):
+    """While the archive is in beta (data/site-config.json: "beta_noindex": true) every page asks search
+    engines not to list it. It stays fully usable for anyone with the address. Set to false at launch."""
+    if not SITE_CONFIG.get("beta_noindex"):
+        return page_html
+    return page_html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)
+
+
+def suggest_link(entry, start, paragraph):
+    base = (SITE_CONFIG.get("suggest_url") or "").strip()
+    if not base:
+        return ""
+    names = {"recording": "recording", "time": "time", "text": "passage", **SITE_CONFIG.get("suggest_params", {})}
+    text = paragraph if len(paragraph) <= SUGGEST_MAX else paragraph[:paragraph.rfind(" ", 0, SUGGEST_MAX)]
+    query = urlencode({names["recording"]: slug(entry), names["time"]: int(start), names["text"]: text})
+    return (f'<a class="suggest" href="{e(base + ("&" if "?" in base else "?") + query)}" target="_blank" '
+            f'rel="noopener" data-pagefind-ignore>Suggest a correction</a>')
+
+
 def facet(s):
     """A filter value that won't break Pagefind's generated <label for=...>
     (quotes) or its comma-separated filter parsing."""
@@ -48,14 +93,44 @@ def facet(s):
 
 
 def fmt_date(iso):
-    """Chicago Manual of Style date order: Month Day, Year."""
+    """Chicago Manual of Style date order: Month Day, Year. Partial dates
+    ("2023-03", "2000") stay partial rather than inventing a day."""
     if not iso:
         return "date unknown"
     try:
-        y, m, d = iso.split("-")
+        parts = iso.split("-")
+        if len(parts) == 1:
+            return parts[0]
+        if len(parts) == 2:
+            return f"{MONTHS[int(parts[1])]} {parts[0]}"
+        y, m, d = parts
         return f"{MONTHS[int(m)]} {int(d)}, {y}"
     except Exception:
         return iso
+
+
+SERIES = {
+    "salon": lambda n: f"Techspressionist Salon {n}",
+    "interview": lambda n: f"Techspressionist Artist Interview Series #{n}",
+    "roundtable": lambda n: f"Techspressionism Roundtable {int(n):02d}",
+    "presentation": lambda n: "Hello Uzbekistan Presentations",
+}
+BRAND = "Techspressionism Video Archive"
+
+
+def series_name(entry):
+    return SERIES[entry.get("type", "salon")](entry["number"])
+
+
+def date_is_estimate(entry):
+    return "recording_date_estimated_from_upload" in (entry.get("flags") or [])
+
+
+def participants_line(entry):
+    """Who is speaking when a transcript carries no per-speaker labels."""
+    if entry.get("interviewee"):
+        return f"{entry['interviewee']}, interviewed by {entry['interviewer']}" if entry.get("interviewer") else entry["interviewee"]
+    return ""
 
 
 def hhmmss(seconds):
@@ -92,6 +167,8 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head .speaker { font-weight:700; }
 .seg-head .tc { font-size:.85rem; white-space:nowrap; }
 section.seg p { margin:.3rem 0 0; }
+a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space:nowrap; opacity:.75; }
+a.suggest:hover { opacity:1; color:var(--accent); }
 /* index */
 .sessions { list-style:none; padding:0; margin:1.5rem 0 0; }
 .sessions li { border-bottom:1px solid var(--line); padding:.7rem 0; }
@@ -114,6 +191,12 @@ section.seg p { margin:.3rem 0 0; }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
+.typebar { display:flex; flex-wrap:wrap; gap:.4rem; margin:1rem 0 .6rem; }
+.typebar button { font:inherit; font-size:.9rem; padding:.3rem .85rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; cursor:pointer; color:var(--fg); }
+.typebar button:hover { border-color:var(--accent); }
+.typebar button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
+.typebar .n { opacity:.7; font-size:.8em; margin-left:.25rem; }
+.sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; }
 .promo { margin:0 0 1.2rem; }
 .promo img { width:100%; max-width:640px; height:auto; display:block; border-radius:.4rem; border:1px solid var(--line); }
 """
@@ -123,22 +206,24 @@ PAGE_TMPL = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} · Techspressionist Salon Archive</title>
+<title>{title} · Techspressionism Video Archive</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionist Salon Archive</a></strong>
+<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a></strong>
 <form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
 <main>
 <article data-pagefind-body>
 {promo_image}
-<h1 data-pagefind-meta="title:{meta_title}">Salon {number} <span class="topic">{topic}</span></h1>
+<h1 data-pagefind-meta="title:{meta_title}">{label} <span class="topic">{topic}</span></h1>
 <p class="meta">
-<span data-pagefind-filter="type:{type}" data-pagefind-meta="type:{type}">{type_cap}</span> &middot;
-recorded <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator} &middot;
-<a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>
+<span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
+{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator} &middot;
+<a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
 <span data-pagefind-meta="session:{number}" hidden></span>
+<span data-pagefind-meta="series:{series}" hidden></span>
+<span data-pagefind-meta="participants:{participants}" hidden></span>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
 {speakers}
@@ -159,14 +244,18 @@ recorded <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date
 
 
 def build_citation(entry):
-    number = entry["number"]
     title = e(entry.get("session_title") or "Untitled")
+    series = e(series_name(entry))
     date = entry.get("date_recorded")
-    if date:
-        head = f'Techspressionist Salon {number}, &ldquo;{title},&rdquo; recorded {fmt_date(date)}.'
+    when = f"{'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
+    if entry.get("interviewee"):
+        head = f"{e(participants_line(entry))}, {series}"
+        head += f", {when}." if when else "."
+    elif when:
+        head = f"{series}, &ldquo;{title},&rdquo; {when}."
     else:
-        head = f'Techspressionist Salon {number}, &ldquo;{title}.&rdquo;'
-    return f'{head} <em>Techspressionist Salon Archive</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
+        head = f"{series}, &ldquo;{title}.&rdquo;"
+    return f'{head} <em>{BRAND}</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
 
 
 def build_promo_image(entry):
@@ -177,7 +266,7 @@ def build_promo_image(entry):
     video_id = entry["video_id"]
     if not (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists():
         return ""
-    alt = e(f"Promo graphic for Salon {entry['number']} — {entry.get('session_title') or 'Untitled'}")
+    alt = e(f"Promo graphic for {label(entry)} — {entry.get('session_title') or 'Untitled'}")
     return f'<div class="promo" data-pagefind-ignore><img src="thumbnails/{e(video_id)}.jpg" alt="{alt}" loading="lazy"></div>'
 
 
@@ -213,23 +302,27 @@ def build_session_page(entry):
         speakers_html = ""
 
     flags_html = ""
-    if entry.get("flags"):
+    shown_flags = [f for f in (entry.get("flags") or [])
+                   # per-utterance Zoom speaker labels make a missing timestamp index moot
+                   if not (f == "speaker_index_missing" and entry.get("transcript_source") == "zoom-transcript")]
+    if shown_flags:
         flags_html = (
-            '<p class="flags" data-pagefind-ignore>Known gaps in this session\'s metadata: '
-            + e(", ".join(entry["flags"]).replace("_", " ")) + ".</p>"
+            '<p class="flags" data-pagefind-ignore>Known gaps in this recording\'s metadata: '
+            + e(", ".join(shown_flags).replace("_", " ")) + ".</p>"
         )
 
+    all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     seg_html = []
     for seg in entry["segments"]:
         start = int(seg.get("start") or 0)
-        speaker = seg.get("speaker") or "Unattributed"
-        yt = f"{url}&t={start}s"
+        speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
+        yt = f"{url}&t={max(0, start - WATCH_LEAD_IN)}s"   # the link leads in; the printed time (below) is exact
         # paragraph breaks are real "\n\n" in the text (from pause-based
         # restoration or Zoom's own cue boundaries) -- browsers collapse
         # raw whitespace inside a single <p>, so they need to become actual
         # separate <p> elements or they render as one undifferentiated block
         paragraphs = [p.strip() for p in (seg.get("text") or "").split("\n\n") if p.strip()]
-        paragraphs_html = "".join(f"<p>{emphasize(e(p))}</p>" for p in paragraphs) or "<p></p>"
+        paragraphs_html = "".join(f"<p>{emphasize(e(p))}{suggest_link(entry, start, p)}</p>" for p in paragraphs) or "<p></p>"
         seg_html.append(
             f'<section class="seg">'
             f'<h2 class="seg-head" id="t{start}">'
@@ -241,14 +334,20 @@ def build_session_page(entry):
         )
 
     moderator = f" &middot; moderated by {e(entry['moderator'])}" if entry.get("moderator") else ""
+    if entry.get("interviewer"):
+        moderator = f" &middot; interviewed by {e(entry['interviewer'])}"
     curator = f" &middot; curated by {e(entry['curator'])}" if entry.get("curator") else ""
 
     return PAGE_TMPL.format(
-        title=e(f"Salon {number} — {entry.get('session_title') or 'Untitled'}"),
-        meta_title=e(f"Salon {number} — {entry.get('session_title') or 'Untitled'}"),
+        title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
+        meta_title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
+        label=e(label(entry)),
+        series=e(series_name(entry)),
+        participants=e(participants_line(entry)),
+        date_word="published" if date_is_estimate(entry) else "recorded",
         promo_image=build_promo_image(entry),
         type=e(stype),
-        type_cap=e(stype.capitalize()),
+        type_cap=e(TYPES[stype]["label"]),
         year=e(year),
         date_iso=e(entry.get("date_recorded") or ""),
         video_id=e(video_id),
@@ -259,6 +358,7 @@ def build_session_page(entry):
         moderator=moderator,
         curator=curator,
         url=e(url),
+        site_page=site_page_html(entry),
         speakers=speakers_html,
         flags=flags_html,
         segments="\n".join(seg_html),
@@ -271,20 +371,23 @@ INDEX_TMPL = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Techspressionist Salon Archive</title>
+<title>Techspressionism Video Archive</title>
 <link rel="stylesheet" href="style.css">
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="pagefind/pagefind-ui.js"></script>
 </head>
 <body>
-<header class="site"><div class="wrap"><strong>Techspressionist Salon Archive</strong>
-<span class="d">{count} recorded sessions &middot; earliest {first_date}</span></div></header>
+<header class="site"><div class="wrap"><strong>Techspressionism Video Archive</strong>
+<span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
-<p class="intro">A searchable, citable transcript archive of the <a href="https://techspressionism.com/Salon">Techspressionist Salon</a>
-&mdash; a monthly gathering of artists working with technology, running since September 2020. Search the full text
-below, or browse the session list. Every result links to the transcript and to the exact moment in the recording.
+<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video: the monthly
+<a href="https://techspressionism.com/Salon">Techspressionist Salon</a> (running since September 2020), artist
+<a href="https://techspressionism.com/interviews/">interviews</a>, <a href="https://techspressionism.com/roundtable/">roundtables</a>,
+and <a href="https://techspressionism.com/uzbekistan/media/videos/presentations/">presentations</a>. Search the full text
+below &mdash; all recordings or just one type &mdash; or browse the list. Every result links to the transcript and to the exact moment in the recording.
 Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
 via its <span class="watch-ref">&#9654;&nbsp;watch</span> link before citing. Built in Python with Claude Code.</p>
+<div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
@@ -292,9 +395,12 @@ const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "Ju
 
 function chicagoDate(iso) {{
   // Chicago Manual of Style date order: Month Day, Year. "n.d." (no date)
-  // is CMOS's own convention for a missing publication date.
+  // is CMOS's own convention for a missing publication date. Partial
+  // dates ("2023-03", "2000") stay partial.
   if (!iso) return "n.d.";
   const [y, m, d] = iso.split("-").map(Number);
+  if (!m) return String(y);
+  if (!d) return CITATION_MONTHS[m] + " " + y;
   return CITATION_MONTHS[m] + " " + d + ", " + y;
 }}
 
@@ -318,10 +424,10 @@ function escapeHtml(s) {{
 // in the natural order they're recorded in.
 function buildCitation(result, sr, seconds) {{
   const meta = result.meta || {{}};
-  const speaker = (sr.title && sr.title.trim() && sr.title.trim().toLowerCase() !== "unattributed")
-    ? sr.title.trim() : "Unidentified speaker";
-  const videoTitle = "Techspressionist Salon " + (meta.session || "") + ": " + (meta.topic || "Untitled");
-  const publisher = "Techspressionist Salon Archive";
+  const unlabeled = !sr.title || !sr.title.trim() || ["unattributed", "transcript", "discussion", "announcements"].includes(sr.title.trim().toLowerCase());
+  const speaker = !unlabeled ? sr.title.trim() : (meta.participants || "Unidentified speaker");
+  const videoTitle = (meta.series || "Techspressionism") + ": " + (meta.topic || "Untitled");
+  const publisher = "Techspressionism Video Archive";
   const date = chicagoDate(meta.date);
   const timestamp = hhmmss(seconds);
   const url = (meta.youtube || "") + (meta.youtube ? "&t=" + Math.floor(seconds) + "s" : "");
@@ -348,7 +454,7 @@ window.addEventListener('DOMContentLoaded', () => {{
         const m = (sr.url || "").match(/#t(\\d+)/);
         if (!yt || !m) continue;
         const seconds = parseInt(m[1], 10);
-        const link = yt + "&t=" + seconds + "s";
+        const link = yt + "&t=" + Math.max(0, seconds - {watch_lead_in}) + "s";   // leads in; the citation below stays exact
         const citation = buildCitation(result, sr, seconds);
         sr.excerpt = sr.excerpt
           + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">&#9654; watch</a>'
@@ -359,9 +465,28 @@ window.addEventListener('DOMContentLoaded', () => {{
       return result;
     }},
   }});
-  // header search boxes on transcript pages send visitors here as ?q=term
-  const q = new URLSearchParams(location.search).get("q");
+  // header search boxes on transcript pages send visitors here as ?q=term;
+  // ?type=Interview preselects a media type
+  const params = new URLSearchParams(location.search);
+  setType(params.get("type") || "");
+  const q = params.get("q");
   if (q) ui.triggerSearch(q);
+
+  document.getElementById("typebar").addEventListener("click", (ev) => {{
+    const btn = ev.target.closest("button[data-type]");
+    if (btn) setType(btn.dataset.type);
+  }});
+
+  function setType(type) {{
+    for (const b of document.querySelectorAll("#typebar button")) {{
+      b.setAttribute("aria-pressed", String(b.dataset.type === type));
+    }}
+    for (const g of document.querySelectorAll(".sessions-group")) {{
+      g.hidden = !!type && g.dataset.type !== type;
+    }}
+    // one control drives both the full-text search and the session list
+    ui.triggerFilters(type ? {{ type: [type] }} : {{}});
+  }}
 }});
 
 // event delegation: result cards render/re-render as the user types, so a
@@ -378,10 +503,8 @@ document.addEventListener('click', (e) => {{
   }});
 }});
 </script>
-<h2>All sessions</h2>
-<ul class="sessions">
-{rows}
-</ul>
+<h2>Browse</h2>
+{groups}
 </main>
 </body>
 </html>
@@ -389,19 +512,36 @@ document.addEventListener('click', (e) => {{
 
 
 def build_index(corpus):
-    rows = []
-    for entry in sorted(corpus, key=lambda x: -x["number"]):
-        topic = entry.get("session_title") or "Untitled"
-        rows.append(
-            f'<li><a href="salon-{entry["number"]:03d}.html">'
-            f'<span class="num">#{entry["number"]}</span> {e(topic)}</a> '
-            f'<span class="d">{e(fmt_date(entry.get("date_recorded")))}</span></li>'
-        )
-    dates = sorted(x["date_recorded"] for x in corpus if x.get("date_recorded"))
+    groups, buttons = [], []
+    type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
+    buttons.append(f'<button type="button" data-type="" aria-pressed="true">All<span class="n">{len(corpus)}</span></button>')
+    for t, info in type_labels:
+        entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=lambda x: -x["number"])
+        rows = []
+        for entry in entries:
+            topic = entry.get("session_title") or "Untitled"
+            by = f' <span class="d">interviewed by {e(entry["interviewer"])}</span>' if entry.get("interviewer") else ""
+            when = fmt_date(entry.get("date_recorded"))
+            when = f"published {when}" if date_is_estimate(entry) else when
+            rows.append(
+                f'<li><a href="{slug(entry)}.html">'
+                f'<span class="num">#{entry["number"]}</span> {e(topic)}</a>{by} '
+                f'<span class="d">{e(when)}</span></li>'
+            )
+        buttons.append(
+            f'<button type="button" data-type="{e(info["label"])}" aria-pressed="false">'
+            f'{e(info["plural"])}<span class="n">{len(entries)}</span></button>')
+        groups.append(
+            f'<section class="sessions-group" data-type="{e(info["label"])}">'
+            f'<h3>{e(info["plural"])} ({len(entries)})</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+    years = sorted(int(x["date_recorded"][:4]) for x in corpus
+                   if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
     return INDEX_TMPL.format(
         count=len(corpus),
-        first_date=fmt_date(dates[0]) if dates else "unknown",
-        rows="\n".join(rows),
+        year_span=f"{years[0]}&ndash;{years[-1]}" if years else "",
+        typebar="".join(buttons),
+        groups="\n".join(groups),
+        watch_lead_in=WATCH_LEAD_IN,
     )
 
 
@@ -412,9 +552,9 @@ def main():
 
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE)
-    (SITE_DIR / "index.html").write_text(build_index(corpus))
+    (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus)))
     for entry in corpus:
-        (SITE_DIR / f"salon-{entry['number']:03d}.html").write_text(build_session_page(entry))
+        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry)))
 
     THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
     copied = 0

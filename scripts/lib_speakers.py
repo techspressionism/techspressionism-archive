@@ -53,7 +53,7 @@ def finalize_speakers(speakers):
     split into their members, non-speaker labels dropped, duplicates merged
     (earliest start wins, missing location filled in from later entries)."""
     out, by_name = [], {}
-    for s in sorted(speakers, key=lambda s: s["start_seconds"]):
+    for s in sorted(speakers, key=lambda s: s.get("start_seconds") or 0):
         raw = _norm(s["name"])
         if is_not_speaker(raw):
             continue

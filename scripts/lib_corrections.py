@@ -55,8 +55,13 @@ def apply_vocabulary(text, vocab_terms):
     for term in vocab_terms:
         canonical = term["canonical"]
         for variant in term["known_asr_variants"]:
-            pattern = re.compile(re.escape(variant), re.IGNORECASE)
-            text, n = pattern.subn(canonical, text)
+            body = re.escape(variant)
+            if term.get("whole_word"):
+                # opt-in: a variant that is a prefix of the correct form
+                # ("jasper john" vs "Jasper Johns") must not match inside it
+                body = rf"(?<!\w){body}(?!\w)"
+            pattern = re.compile(body, re.IGNORECASE)
+            text, n = pattern.subn(lambda m, c=canonical: c, text)
             substitutions += n
     return text, substitutions
 

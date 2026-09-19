@@ -45,7 +45,7 @@ And then the mention of Jackson Pollock and the abstract expressionists. There w
 
 I'm sorry. We're talking about where technology and expressionism cross over in the sphere of art history. And Helen and Catherine, I'd like to ask you if you could talk a little bit, please, about exploring the intersection of the abstract expressionists with early computer art. And either one of you, please. Go ahead.
 
-## Helen Harrison [07:43](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=463s)
+## Helen A. Harrison [07:43](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=463s)
 
 Well, I would like to say, first of all, thank you to Colin and Renata and everyone who put this together. I think one of the things that excites me about text-pressionism is that it's become an international movement, and that people all over the globe are identifying with this particular approach. And Colin always credits me with changing the wording of the original manifesto from a style to an approach. And the reason why I argued for that… well, I didn't have to argue too hard, I think Colin kind of fell over right away, but was because the style element is so different, and this is true of abstract expressionism as well. It's one of the reasons that it was a very difficult, Term to agree upon. In fact, the artists never really did agree about it, because there are so many different ways that the artists approach this kind of expressionistic Representation of what is really an introate or intangible character.
 
@@ -87,7 +87,7 @@ Express and give some sort of sense of place in his work, although he wrote code
 
 So there are crossovers between painting and digital technology, for sure.
 
-## Helen Harrison [13:39](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=819s)
+## Helen A. Harrison [13:39](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=819s)
 
 Oh, and then there are other kinds of technology, too. You think of the Gutai artists in Japan, where they were using… they had a… one of them had a motorized unit that actually made marks on the… on canvas. Another one swung from the ceiling and painted with his feet. Another one used light bulbs. She made a dress out of light bulbs. I mean, this is a kind of… Break with tradition that was very unacceptable in Japan. But in the United States, they were considered, you know, derivative, that they were imitating European Expressionism or American Expressionism, because it seemed so radical in Japan in the 50s, but in the United States, it was like, been there, done that.
 
@@ -125,7 +125,7 @@ And… but Expressionism… sorry, yeah? So… so… so, but text-pressionism…
 
 So this is Jackson Pollock, which is… Helen is the expert on Jackson Pollock. Like, these are the famous towns now with pictures of Jackson Pollock and his technique of action painting. Which you can look at as, like, physicality and embodiment, but you can also look at it as a way of incorporating randomness into artwork, or a way of incorporating spontaneity into artwork. So this is an example of a studio artist, a traditional painter, trying to come to terms with some of the concepts that become very important in digital art and even generative art.
 
-## Helen Harrison [19:57](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=1197s)
+## Helen A. Harrison [19:57](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=1197s)
 
 Oh, could I just interject one thing while we're looking at Pollock? Could we go back to that other slide? One of the reasons that Hans Namath wanted to make a film of Pollock was because In the still photographs, you see how his arm is in motion? It's a little bit blurry? He couldn't capture the actual movement in a still photograph, because it freezes the frame. And he said that… and I knew Hans Namath, and we did discuss this, and he said that Pollock's movements were very rhythmical.
 
@@ -135,7 +135,7 @@ It was not just splashing it out. That these… his movements were almost repeti
 
 And would you almost… would you almost say that this shows an underlying… I mean, this spontaneity, this process, it almost shows an underlying… it makes visible the underlying rules of the universe, doesn't it?
 
-## Helen Harrison [21:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=1310s)
+## Helen A. Harrison [21:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=1310s)
 
 In a way, yes, because, well, one of the things that Pollock did, of course, was to, as he put it, I don't work from the landscape, I… I observe it. So he would see the vines that grow in the trees, he would see the bushes and the all kinds of undergrowth that were in his environment out in the Hamptons. And those shapes, those forms, the way nature regenerates itself, was definitely contributing to his underlying impulse. That gave him the structure, it gave him something to work off.
 
@@ -199,7 +199,7 @@ Absolutely. So, it's interesting that nowadays we don't… we don't sort of have
 
 Yeah, absolutely. But now, it's so… so you have these screen-based, screen-based artists, or canvas-based artists, they're… they're, they're very, they're trying to figure out computers, the sculptors are trying to figure out computers. And the math people are, too, and that's where we come to this. People were mentioning this earlier, this fractal analysis of Pollock's artworks. And I'm thinking of, the… actually, the mathematician that first, I would say, like, he wrote the first papers on fractals. His name was Benoit Mandelbrot, and he compared fractals to, ready-mades. He said, these are ready-mades that exist in the universe, in the mathematical world, and we just need to look at them. So… I always found it interesting that he would compare himself to Duchamp, who says, like, you just need to be able to, like, as an artist does, the mathematician needs to act as an artist and point out the ready-made object in the world as the work of art. I love that.
 
-## Helen Harrison [38:08](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2288s)
+## Helen A. Harrison [38:08](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2288s)
 
 That only one of those six images is actually a Pollock painting.
 
@@ -207,7 +207,7 @@ That only one of those six images is actually a Pollock painting.
 
 Oh, well, this is the analysis diagram, yeah.
 
-## Helen Harrison [38:17](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2297s)
+## Helen A. Harrison [38:17](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2297s)
 
 Seeing is undergrowth, like, up at the top left is undergrowth, you're seeing trees at the lower right, you're seeing moss, and then on the left, the middle one is a Pollock painting.
 
@@ -215,7 +215,7 @@ Seeing is undergrowth, like, up at the top left is undergrowth, you're seeing tr
 
 Thanks for clarifying that, Helen. Yeah. It's… when you look at a Pollock painting, do you see a fractal, foundation to, what he was doing?
 
-## Helen Harrison [38:42](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2322s)
+## Helen A. Harrison [38:42](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2322s)
 
 Well, personally, I do, knowing what a fractal is. Of course, he wouldn't have known, because Mandelbrot didn't theorize that until the 1960s, so it would not have been something that he was aware of. But again, I don't think it has to do with awareness. I think it has to do with the natural spontaneity of the rhythmical movement, and someone in the chat Mentioned his interest in music. Which, of course, is equally rhythmical, but I think one of the main misconceptions about his work is that he was listening to the music while he was painting.
 
@@ -227,7 +227,7 @@ But he was not… the music was in his head, let's put it that way. So all of th
 
 Interesting, yeah I blame Hollywood, you know, for these kinds of ideas.
 
-## Helen Harrison [40:17](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2417s)
+## Helen A. Harrison [40:17](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2417s)
 
 You know, Ed Harris' movie has a soundtrack, which is a fine thing, but it's like, you know, if you're watching an action movie, you know very well that the orchestra isn't playing while the car chase is on.
 
@@ -247,7 +247,7 @@ Thank you. Thank you.
 
 I'm sorry, I actually have to leave, but I just want to say to my co-panelists, it's wonderful to meet you. I've, like, been following you in the, like, from a distance, electronically, and now it's great to be here, and it was great to be invited. Thank you, Renata, and great to meet everyone. So have a wonderful rest of the day. Good luck with the conversation.
 
-## Helen Harrison [42:51](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2571s)
+## Helen A. Harrison [42:51](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2571s)
 
 Thank you, Angela.
 
@@ -271,7 +271,7 @@ Makes sense, though.
 
 Also, I just want to put out there, that, Cohen started painting again on top of his printouts towards the end of his life. I don't know if you've seen any of those ones, they didn't have them in the Whitney, I don't believe. But some of his late, late works, he would print out on these massive Epson printers, hold them up to the wall, and then he would Actually, paint on top of them with acrylics. So he was kind of merging the two properties towards the end of his life, which I think is really fascinating.
 
-## Helen Harrison [43:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2610s)
+## Helen A. Harrison [43:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2610s)
 
 Well, that's very much what Colin is doing at the beginning of his life. I think that there's absolutely nothing wrong With this, going back to the handmade aspect and augmenting what the computer can do. The computer could give you structure, the computer could give you a range of color, the computer could give you certain kind of energy, but What's wrong with patching with it? I mean, you do what… artists do what they do. There's really no… no limit to the different kinds of multimedia interventions, I think, that are available.
 
@@ -283,7 +283,7 @@ A very important British pioneer of cybernetics, and he saw these Pollock painti
 
 You know, Harold Cohn said to me once that he felt that he might run out of ideas. He might run out of ways to make new marks, on paper, on canvas, so he felt that perhaps if he could encode his knowledge into a computer, it would find endless ways of making new marks. But in fact, I don't think he… he didn't really need to do that. You never run out of… of… of… The desire to make marks and new marks.
 
-## Helen Harrison [45:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2748s)
+## Helen A. Harrison [45:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2748s)
 
 People that you don't want to repeat yourself. You know, people criticized Pollock for changing his quote-unquote style in 1951, when he had the exhibition of Black paintings, and he… he couldn't go on regenerating the same kind of imagery. He felt that it was, it was… Like, painting for the market. And, in fact, Lee Kras… there's a famous quote from Lee Krasner, where they were at the opening of this show at the Betty Parsons Gallery, and the work was very stark, very dark, and figures re-emerging. And someone came up to her and said, oh, very nicely, but couldn't you do it in color?
 
@@ -293,7 +293,7 @@ Black paintings don't sell, you know? I mean, and she said the insensitivity was
 
 No.
 
-## Helen Harrison [46:55](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2815s)
+## Helen A. Harrison [46:55](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2815s)
 
 The kind of… the kind of, decision-making that goes into Kind of rethinking your whole approach is essential for artists. I mean, you can go back and revisit earlier work, and in fact, I was talking to one artist, it's a little off the topic, but A guy named Peter Busa, who was part of a movement called the Indian Space Painters back in the 40s. It was a kind of abstraction that riffed off Northwest Coast Indian art. And years later, he went back and started doing those images again, and I was kind of shocked. I thought, you know, didn't you do that 40 years ago?
 
@@ -345,7 +345,7 @@ Thank you. I think Lucy, we have Lucy next.
 
 Hi, thank you, everybody. Loving this conversation. I would like to bring up the, interactive technologies such as virtual reality and, motion capture devices, such as Kinect, are ways to bring the gestural mark-making, real-time, live, motion-based, for both the artist and even creating experiences where the The viewer can engage in mark-making. And become part of the art creation. So I just wanted to bring up those… those technologies.
 
-## Helen Harrison [51:44](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3104s)
+## Helen A. Harrison [51:44](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3104s)
 
 Yeah, actually, I had some experience with that. We created a virtual reality tour of the Pollock Studio, and one of the components… we didn't do it because it would have added an extra layer of fundraising. But there was an element where you could actually… you would look at the studio floor as a kind of template, although it's… that's completely random, it's not a work of art, but it has all the colors and gestures that you find in Pollock's work, and you could kind of make Marks in space, responding to what was… the stimulation, and then you… it would be sent to you.
 
@@ -355,7 +355,7 @@ It's sent to your own email, or your own account. And so you actually created…
 
 That's a really brilliant idea, isn't it?
 
-## Helen Harrison [52:36](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3156s)
+## Helen A. Harrison [52:36](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3156s)
 
 Cool, you know, but it was going to be another 50,000 bucks, so we didn't do it.
 
@@ -363,7 +363,7 @@ Cool, you know, but it was going to be another 50,000 bucks, so we didn't do it.
 
 One day.
 
-## Helen Harrison [52:42](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3162s)
+## Helen A. Harrison [52:42](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3162s)
 
 But it's something that, you know, can be done, and these technologies are changing all the time. Artists… I don't think artists could even keep up with it, but if there's a technology out there, an artist will start messing with it, I'm sure.
 
@@ -425,7 +425,7 @@ Hey, this has been really stimulating. Thank you to the speakers, it's just been
 
 And whether you all might take a crack at that. And that was, how does Techspressionism differ from other forms of Computational… and digital art. And it made me wonder, is Techspressionism Really a movement, or is it just a really, innovative platform? For really diverse, creative, artists, so… Those were thoughts I was having. I was wondering if you might speak to them, the panelists.
 
-## Helen Harrison [01:00:24](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3624s)
+## Helen A. Harrison [01:00:24](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3624s)
 
 Well, I think if you… if you think of it in terms of the… of the… of technology as a tool. You could say oil paint is a tool. And people use oil paint in a huge variety of ways, everything from representation and mimesis and, you know, photorealism kind of thing, to the most abstract and, for many people, unintelligible imagery. So, that's just the tool. What you do with the tool is what counts. In fact, Pollock said it himself, that a technique is just a means of arriving at a statement.
 
@@ -437,7 +437,7 @@ That… that's the… the narrow avenue down which the Techspressionists travel.
 
 Let me ask you this, Helen. A lot of work, is… has a great deal of feeling in it, comes from a subjective place. What…. Would make someone who's experiencing the work by an artist who's identified as a Techspressionist say, this is a… this is a work by a Techspressionist.
 
-## Helen Harrison [01:02:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3733s)
+## Helen A. Harrison [01:02:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3733s)
 
 Well, you wouldn't necessarily know it just by looking at it, because even something that might just appear… like, one of Pollock's critics said his work is a beautiful design for a necktie, and in fact, it has been used as a necktie, but.
 
@@ -445,7 +445,7 @@ Well, you wouldn't necessarily know it just by looking at it, because even somet
 
 I know.
 
-## Helen Harrison [01:02:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3750s)
+## Helen A. Harrison [01:02:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3750s)
 
 Yeah, that the… the image itself Conveys that content is… it's a little bit slippery. It's a little bit hard to know. I mean, you think about a Mondrian that seems to be so cut and dried, you know, so this is just geometry.
 
@@ -453,7 +453,7 @@ Yeah, that the… the image itself Conveys that content is… it's a little bit 
 
 Right, right.
 
-## Helen Harrison [01:02:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3770s)
+## Helen A. Harrison [01:02:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3770s)
 
 It had emotional content. The colors themselves, Kandinsky believed that the colors themselves had this kind of emotional, impact. And, you know, there's been reams written on color theory, and how color affects your mood, and synesthesia, how people experience color and hear sound, or… I had a friend for whom color was days of the week. Like, it was Monday, you know, that was a synesthetic reaction to color. So, it's awfully hard to quantify the way that An image could… could convey that inner expression.
 
@@ -479,7 +479,7 @@ It put a name to something that I didn't have before, and then fine art people w
 
 You know, identifies or believes in The term, that is, it speaks to them and resonates with them, then that's kind of the idea behind it, whether or not that, you know. Has any degree of acceptability in the art world or within critical theory, you know, that's up to question, but that's kind of the way that I could see it. Versus, say, a curator saying, oh, here's a group of artists, and I'm gonna put them all together in this show called Techspressionism, because they all work with computers. You know, to me, that really doesn't follow the vision of what What this is about. So, anyway, that's just from my own personal point of view, but that certainly doesn't speak to all the other, you know, participants in this big, sort of, project.
 
-## Helen Harrison [01:06:59](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4019s)
+## Helen A. Harrison [01:06:59](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4019s)
 
 Like saying, I'm gonna put all these people together because they paint. So we'll have a show of painters. Okay. Have a show of painters, but they could be painting any subject, or no subject at all, or something from their imagination, and just because they use paint doesn't really make them compatible.
 
@@ -487,7 +487,7 @@ Like saying, I'm gonna put all these people together because they paint. So we'l
 
 Well, why do you think she asked the question?
 
-## Helen Harrison [01:07:22](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4042s)
+## Helen A. Harrison [01:07:22](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4042s)
 
 About.
 
@@ -495,7 +495,7 @@ About.
 
 Did it have any distinguishing factors about it at this point? That's what made me curious, you know.
 
-## Helen Harrison [01:07:31](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4051s)
+## Helen A. Harrison [01:07:31](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4051s)
 
 I think because people see the technology first. And look for the content. It's… the medium is kind of overwhelming, especially for people, for laypeople like me, who don't really know anything about computational imagery and how to create it. But the idea that the technology itself Generated the art is… and like Colin said, you know, you go to a gallery and you say, here's my work, would you show it? And you say, well, it's not real art, it's computer imagery.
 
@@ -513,7 +513,7 @@ And, you know, the art world has always had an obsession with categorizing and c
 
 Time, but, this is something that, I think maybe just generally humanity likes to pigeonhole things, and they like to label things. Perhaps it makes it easier to understand the seeming chaos in the world, I don't know. But that's partly, what digital art, you know, has art that uses Contemporary digital technologies. We've been up against this since… It started.
 
-## Helen Harrison [01:10:28](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4228s)
+## Helen A. Harrison [01:10:28](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4228s)
 
 No, but you're right about the world. I mean, this is something that… is it YA? Is it a cookbook? Is it an art book? Is it a picture book? Is it history? Is it a thriller? I mean, all these different categories, these, you know, minutiae breakdowns. Help people to decide what they're looking at, or what they're reading, or what they're thinking about. And it is, kind of frustrating when you have something that doesn't fit into any one of those categories, but at the same time, it is kind of understandable.
 
@@ -539,7 +539,7 @@ Yeah, so, yeah, I've… I'm really happy to have assisted Renata today in… in 
 
 Are there comparable… are we going through something that other artists have gone through previously in… this weight of technology trying to self-define things, when we've just had this discussion, That it… the technology is… An application, but it's not self-defining, and so the idea of text-pressionism Being this moniker, we can kind of… Put all of ourselves under this very, very diverse umbrella, has been very useful for me, but I'm just kind of curious, historically, has this been faced, often or not? Or is this… or are we in some unique universe right now?
 
-## Helen Harrison [01:12:45](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4365s)
+## Helen A. Harrison [01:12:45](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4365s)
 
 Oh, well, I think photography is the… is the obvious precursor. That once that technology was developed, a painting is dead, we're never going to need that anymore, and then it was like, oh, well, it isn't really art, because it's just capturing what you see, and so it doesn't have any soul, it doesn't have any emotion, and it took decades for people to get over that, and even today. There's a certain, bias against it, and I think that If there is an, An analogy that that… that is probably the most appropriate one. But even now, I think there's still… because it's… I think one of the elements is that some… a lot of digital art is not unique. It's duplicatable, which is… was true, also, of photography. And even you think about printmaking.
 
@@ -549,7 +549,7 @@ Printmaking is sort of, like, down there in the lower level of the hierarchy, be
 
 I just want to show this from my book, I don't know if anybody can see, but this is, Joshua Reynolds, who was the first president of the, Royal Academy, and he had a camera obscura. Which he used, this was in 17, well, mid-18th century, so 1700s, and he used this as a tool to help, you know, devise, perspective and line up sitters and so on. But look, you can see that he's made it disguised as a book. So that when it was sitting around in the studio, or on his desk, it just looked like a big, kind of, leather-bound volume sitting there, like you might have all kinds of other stuff. He didn't want anyone to know that he was using anything that could be sitting as cheating.
 
-## Helen Harrison [01:14:39](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4479s)
+## Helen A. Harrison [01:14:39](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4479s)
 
 Exceeding, exactly. Well, Hockney wrote about that quite a bit, about the idea books.
 
@@ -561,7 +561,7 @@ What was that book you just showed?
 
 This is my own book, sorry, called _The Computer in the Art Room_, which you can get as an e-book.
 
-## Helen Harrison [01:14:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4494s)
+## Helen A. Harrison [01:14:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4494s)
 
 But that… that sense of, of, you know, you're… you're cheating because you're using a machine is, you know, the artist is supposed to… everything is supposed to be sui generis and not rely on any outside,
 
@@ -651,7 +651,7 @@ Is.
 
 I… I'm really…
 
-## Helen Harrison [01:26:16](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5176s)
+## Helen A. Harrison [01:26:16](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5176s)
 
 Going to have to leave, but I really appreciate the attention that everyone's been giving to this topic, even though it dates back to 1962. It actually dates back to 1862 with photography. I think, you know, we've got the same… the same issues going. After all, photographs are usually on paper, which is probably why Andy Warhol blew them up big and put them on canvas. So that he could… Leo Castelli could move them out. But I think that the text-pressionist impulse is alive and well. I'm thrilled that Colin has been so… so consistent in keeping this momentum going and building on this wonderful community.
 

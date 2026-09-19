@@ -49,7 +49,7 @@
         "start_display": "00:47:54"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -63,10 +63,10 @@
       "speaker_added_from_site:Karen LaFleur"
     ],
     "transcript_quality": {
-      "word_count": 17291,
+      "word_count": 18046,
       "duration_seconds": 7258,
-      "words_per_minute": 142.9,
-      "bracket_marker_count": 8,
+      "words_per_minute": 149.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -114,7 +114,7 @@
         "start_display": "00:48:58"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -127,10 +127,10 @@
       "speaker_added_from_site:Carmen Moses"
     ],
     "transcript_quality": {
-      "word_count": 17685,
+      "word_count": 18471,
       "duration_seconds": 6785,
-      "words_per_minute": 156.4,
-      "bracket_marker_count": 9,
+      "words_per_minute": 163.3,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -178,7 +178,7 @@
         "start_display": "01:08:00"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -189,10 +189,10 @@
       "country_backfilled_from_site:Davonte Bradley"
     ],
     "transcript_quality": {
-      "word_count": 17679,
+      "word_count": 17953,
       "duration_seconds": 7196,
-      "words_per_minute": 147.4,
-      "bracket_marker_count": 5,
+      "words_per_minute": 149.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -240,7 +240,7 @@
         "start_display": "01:08:26"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -251,10 +251,10 @@
       "country_backfilled_from_site:Lucie Králíková"
     ],
     "transcript_quality": {
-      "word_count": 14553,
+      "word_count": 15069,
       "duration_seconds": 6884,
-      "words_per_minute": 126.8,
-      "bracket_marker_count": 19,
+      "words_per_minute": 131.3,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -296,7 +296,7 @@
         "start_display": "01:35:47"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -306,10 +306,10 @@
       "country_backfilled_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
-      "word_count": 18033,
+      "word_count": 18717,
       "duration_seconds": 7628,
-      "words_per_minute": 141.8,
-      "bracket_marker_count": 8,
+      "words_per_minute": 147.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -345,7 +345,7 @@
         "start_display": "00:43:15"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -354,10 +354,10 @@
       "country_backfilled_from_site:Sue Beyer"
     ],
     "transcript_quality": {
-      "word_count": 17266,
+      "word_count": 18554,
       "duration_seconds": 6990,
-      "words_per_minute": 148.2,
-      "bracket_marker_count": 4,
+      "words_per_minute": 159.3,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -393,7 +393,7 @@
         "start_display": "00:42:04"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -402,10 +402,10 @@
       "country_backfilled_from_site:Deann Stein Hasinoff"
     ],
     "transcript_quality": {
-      "word_count": 18172,
+      "word_count": 19239,
       "duration_seconds": 7072,
-      "words_per_minute": 154.2,
-      "bracket_marker_count": 7,
+      "words_per_minute": 163.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -453,7 +453,7 @@
         "start_display": "01:36:05"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
@@ -465,10 +465,10 @@
       "speaker_added_from_site:TECHSPRESSIONIST COLLAB#1"
     ],
     "transcript_quality": {
-      "word_count": 21598,
+      "word_count": 22278,
       "duration_seconds": 8261,
-      "words_per_minute": 156.9,
-      "bracket_marker_count": 3,
+      "words_per_minute": 161.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -504,7 +504,7 @@
         "start_display": "00:57:41"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -513,10 +513,10 @@
       "country_backfilled_from_site:Roz Dimon"
     ],
     "transcript_quality": {
-      "word_count": 18985,
+      "word_count": 19915,
       "duration_seconds": 7380,
-      "words_per_minute": 154.3,
-      "bracket_marker_count": 11,
+      "words_per_minute": 161.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -552,7 +552,7 @@
         "start_display": "01:03:41"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -561,10 +561,10 @@
       "country_backfilled_from_site:Michael Pointer"
     ],
     "transcript_quality": {
-      "word_count": 16746,
+      "word_count": 17318,
       "duration_seconds": 7033,
-      "words_per_minute": 142.9,
-      "bracket_marker_count": 10,
+      "words_per_minute": 147.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -594,17 +594,17 @@
         "start_display": "00:49:25"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Paul D. Miller aka DJ Spooky that Subliminal Kid",
       "country_backfilled_from_site:Uli Ap"
     ],
     "transcript_quality": {
-      "word_count": 16584,
+      "word_count": 17147,
       "duration_seconds": 6905,
-      "words_per_minute": 144.1,
-      "bracket_marker_count": 9,
+      "words_per_minute": 149.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -634,17 +634,17 @@
         "start_display": "00:40:29"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Gregory Little",
       "country_backfilled_from_site:Lee Musgrave"
     ],
     "transcript_quality": {
-      "word_count": 17766,
+      "word_count": 17883,
       "duration_seconds": 7059,
-      "words_per_minute": 151.0,
-      "bracket_marker_count": 8,
+      "words_per_minute": 152.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -674,17 +674,17 @@
         "start_display": "00:58:55"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Victor Acevedo",
       "country_backfilled_from_site:Christine Sciulli"
     ],
     "transcript_quality": {
-      "word_count": 16012,
+      "word_count": 17017,
       "duration_seconds": 6696,
-      "words_per_minute": 143.5,
-      "bracket_marker_count": 12,
+      "words_per_minute": 152.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -714,14 +714,14 @@
         "start_display": "01:04:58"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 16442,
+      "word_count": 17505,
       "duration_seconds": 6835,
-      "words_per_minute": 144.3,
-      "bracket_marker_count": 14,
+      "words_per_minute": 153.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -751,14 +751,14 @@
         "start_display": "00:38:50"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 14715,
+      "word_count": 14803,
       "duration_seconds": 6968,
-      "words_per_minute": 126.7,
-      "bracket_marker_count": 18,
+      "words_per_minute": 127.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -788,14 +788,14 @@
         "start_display": "00:54:30"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 15018,
+      "word_count": 15693,
       "duration_seconds": 6683,
-      "words_per_minute": 134.8,
-      "bracket_marker_count": 4,
+      "words_per_minute": 140.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -825,14 +825,14 @@
         "start_display": "00:52:45"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 16834,
+      "word_count": 17708,
       "duration_seconds": 6822,
-      "words_per_minute": 148.1,
-      "bracket_marker_count": 5,
+      "words_per_minute": 155.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -880,7 +880,7 @@
         "start_display": "01:30:00"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Verneda Lights",
@@ -890,10 +890,10 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 15855,
+      "word_count": 16676,
       "duration_seconds": 6969,
-      "words_per_minute": 136.5,
-      "bracket_marker_count": 14,
+      "words_per_minute": 143.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -910,7 +910,7 @@
     "thumbnail": "https://i.ytimg.com/vi/cYU7eKBcCto/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
@@ -920,10 +920,10 @@
       "session_title_manually_overridden:trailing abbreviated date ('Sept. 14, 2021') left in the parsed title"
     ],
     "transcript_quality": {
-      "word_count": 14027,
+      "word_count": 14405,
       "duration_seconds": 6501,
-      "words_per_minute": 129.5,
-      "bracket_marker_count": 15,
+      "words_per_minute": 132.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -953,17 +953,17 @@
         "start_display": "01:54:45"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Holly Gordon",
       "country_backfilled_from_site:Davonte Bradley"
     ],
     "transcript_quality": {
-      "word_count": 15908,
+      "word_count": 17039,
       "duration_seconds": 6885,
-      "words_per_minute": 138.6,
-      "bracket_marker_count": 8,
+      "words_per_minute": 148.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -993,17 +993,17 @@
         "start_display": "00:33:15"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Tommy Mintz",
       "country_backfilled_from_site:Stephanie Sydney"
     ],
     "transcript_quality": {
-      "word_count": 16552,
+      "word_count": 17000,
       "duration_seconds": 6984,
-      "words_per_minute": 142.2,
-      "bracket_marker_count": 10,
+      "words_per_minute": 146.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1020,17 +1020,17 @@
     "thumbnail": "https://i.ytimg.com/vi/ADjcjvSQViE/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 18054,
+      "word_count": 18640,
       "duration_seconds": 8240,
-      "words_per_minute": 131.5,
-      "bracket_marker_count": 15,
+      "words_per_minute": 135.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1060,14 +1060,14 @@
         "start_display": "00:45:21"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 15087,
+      "word_count": 16121,
       "duration_seconds": 6762,
-      "words_per_minute": 133.9,
-      "bracket_marker_count": 9,
+      "words_per_minute": 143.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1091,14 +1091,14 @@
         "start_display": "00:07:35"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 19466,
+      "word_count": 18944,
       "duration_seconds": 7259,
-      "words_per_minute": 160.9,
-      "bracket_marker_count": 10,
+      "words_per_minute": 156.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1140,7 +1140,7 @@
         "start_display": "01:43:45"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Roz Dimon",
@@ -1149,10 +1149,10 @@
       "country_backfilled_from_site:Colin Goldberg"
     ],
     "transcript_quality": {
-      "word_count": 16015,
+      "word_count": 17092,
       "duration_seconds": 6493,
-      "words_per_minute": 148.0,
-      "bracket_marker_count": 8,
+      "words_per_minute": 157.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1188,7 +1188,7 @@
         "start_display": "01:03:15"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
@@ -1198,10 +1198,10 @@
       "country_backfilled_from_site:NINA SOBELL"
     ],
     "transcript_quality": {
-      "word_count": 13874,
+      "word_count": 14444,
       "duration_seconds": 7008,
-      "words_per_minute": 118.8,
-      "bracket_marker_count": 34,
+      "words_per_minute": 123.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1225,17 +1225,17 @@
         "start_display": "00:02:08"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
       "country_backfilled_from_site:Robert DuGrenier"
     ],
     "transcript_quality": {
-      "word_count": 16787,
+      "word_count": 17489,
       "duration_seconds": 6898,
-      "words_per_minute": 146.0,
-      "bracket_marker_count": 9,
+      "words_per_minute": 152.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1259,7 +1259,7 @@
         "start_display": "00:01:24"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_partially_unparseable"
@@ -1269,10 +1269,10 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 15453,
+      "word_count": 16172,
       "duration_seconds": 7396,
-      "words_per_minute": 125.4,
-      "bracket_marker_count": 4,
+      "words_per_minute": 131.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1302,16 +1302,16 @@
         "start_display": "00:25:34"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:SEUNGJIN LEE"
     ],
     "transcript_quality": {
-      "word_count": 9991,
+      "word_count": 10621,
       "duration_seconds": 5054,
-      "words_per_minute": 118.6,
-      "bracket_marker_count": 10,
+      "words_per_minute": 126.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1335,7 +1335,7 @@
         "start_display": "00:31:08"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_partially_unparseable"
@@ -1345,10 +1345,10 @@
       "country_backfilled_from_site:PATRICK LICHTY"
     ],
     "transcript_quality": {
-      "word_count": 11736,
+      "word_count": 10954,
       "duration_seconds": 5252,
-      "words_per_minute": 134.1,
-      "bracket_marker_count": 14,
+      "words_per_minute": 125.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1378,7 +1378,7 @@
         "start_display": "00:31:59"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
@@ -1387,10 +1387,10 @@
       "session_title_manually_overridden:all-caps YouTube title with a trailing compressed date ('030222')"
     ],
     "transcript_quality": {
-      "word_count": 12629,
+      "word_count": 12616,
       "duration_seconds": 5402,
-      "words_per_minute": 140.3,
-      "bracket_marker_count": 8,
+      "words_per_minute": 140.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1407,7 +1407,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Z-RFTbQ7GF8/maxresdefault.jpg",
     "moderator": "Colin Goldberg",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1415,10 +1415,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 12066,
+      "word_count": 12489,
       "duration_seconds": 5627,
-      "words_per_minute": 128.7,
-      "bracket_marker_count": 14,
+      "words_per_minute": 133.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1435,7 +1435,7 @@
     "thumbnail": "https://i.ytimg.com/vi/XUBL7L41hjA/maxresdefault.jpg",
     "moderator": "Davonte Bradley",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1443,10 +1443,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 10348,
+      "word_count": 10118,
       "duration_seconds": 5154,
-      "words_per_minute": 120.5,
-      "bracket_marker_count": 19,
+      "words_per_minute": 117.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1463,7 +1463,7 @@
     "thumbnail": "https://i.ytimg.com/vi/KyBLFghq4N0/maxresdefault.jpg",
     "moderator": "Roz Dimon",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1471,10 +1471,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 13270,
+      "word_count": 14138,
       "duration_seconds": 6295,
-      "words_per_minute": 126.5,
-      "bracket_marker_count": 8,
+      "words_per_minute": 134.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1491,17 +1491,17 @@
     "thumbnail": "https://i.ytimg.com/vi/PecHOYGSnWY/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11831,
+      "word_count": 13176,
       "duration_seconds": 5348,
-      "words_per_minute": 132.7,
-      "bracket_marker_count": 6,
+      "words_per_minute": 147.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1518,7 +1518,7 @@
     "thumbnail": "https://i.ytimg.com/vi/pxavr84wDJs/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
@@ -1527,10 +1527,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 10774,
+      "word_count": 10809,
       "duration_seconds": 5278,
-      "words_per_minute": 122.5,
-      "bracket_marker_count": 10,
+      "words_per_minute": 122.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1547,7 +1547,7 @@
     "thumbnail": "https://i.ytimg.com/vi/xo2ql3MgJlw/maxresdefault.jpg",
     "moderator": "PATRICK LICHTY",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1555,10 +1555,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 10603,
+      "word_count": 11274,
       "duration_seconds": 5350,
-      "words_per_minute": 118.9,
-      "bracket_marker_count": 6,
+      "words_per_minute": 126.4,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1575,7 +1575,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ggbxdDYOEz4/maxresdefault.jpg",
     "moderator": "Michael Pierre Price",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1583,10 +1583,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 11891,
+      "word_count": 12340,
       "duration_seconds": 5529,
-      "words_per_minute": 129.0,
-      "bracket_marker_count": 10,
+      "words_per_minute": 133.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1603,17 +1603,17 @@
     "thumbnail": "https://i.ytimg.com/vi/WCOXAr5_wdE/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11308,
+      "word_count": 11725,
       "duration_seconds": 5227,
-      "words_per_minute": 129.8,
-      "bracket_marker_count": 9,
+      "words_per_minute": 134.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1630,7 +1630,7 @@
     "thumbnail": "https://i.ytimg.com/vi/iVP63DGbCGY/maxresdefault.jpg",
     "moderator": "COLIN GOLDBERG",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1638,10 +1638,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 14779,
+      "word_count": 15148,
       "duration_seconds": 5908,
-      "words_per_minute": 150.1,
-      "bracket_marker_count": 4,
+      "words_per_minute": 153.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1658,7 +1658,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zj79kXJHdFU/maxresdefault.jpg",
     "moderator": "Cynthia Beth Rubin",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1666,10 +1666,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 13875,
+      "word_count": 14492,
       "duration_seconds": 5613,
-      "words_per_minute": 148.3,
-      "bracket_marker_count": 1,
+      "words_per_minute": 154.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1686,7 +1686,7 @@
     "thumbnail": "https://i.ytimg.com/vi/xTm1wXYzdCI/maxresdefault.jpg",
     "moderator": "Renata Janiszewska",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1694,10 +1694,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 12491,
+      "word_count": 12965,
       "duration_seconds": 5680,
-      "words_per_minute": 131.9,
-      "bracket_marker_count": 5,
+      "words_per_minute": 137.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1714,15 +1714,15 @@
     "thumbnail": "https://i.ytimg.com/vi/LuFuRGhgnmQ/maxresdefault.jpg",
     "moderator": "Cynthia DiDonato",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 13309,
+      "word_count": 13882,
       "duration_seconds": 5495,
-      "words_per_minute": 145.3,
+      "words_per_minute": 151.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -1740,7 +1740,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ACwcZ2XHb9E/maxresdefault.jpg",
     "moderator": "Tommy Mintz and Renata Janiszewska",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1748,10 +1748,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 12281,
+      "word_count": 12862,
       "duration_seconds": 5974,
-      "words_per_minute": 123.3,
-      "bracket_marker_count": 10,
+      "words_per_minute": 129.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1768,16 +1768,16 @@
     "thumbnail": "https://i.ytimg.com/vi/NFt4AfP-aRA/maxresdefault.jpg",
     "moderator": "Davonte Bradley",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12568,
+      "word_count": 12744,
       "duration_seconds": 6088,
-      "words_per_minute": 123.9,
-      "bracket_marker_count": 4,
+      "words_per_minute": 125.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1794,7 +1794,7 @@
     "thumbnail": "https://i.ytimg.com/vi/sfMxOAC97Yo/maxresdefault.jpg",
     "moderator": "Davonte Bradley",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_missing"
     ],
@@ -1802,10 +1802,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 13386,
+      "word_count": 13565,
       "duration_seconds": 5419,
-      "words_per_minute": 148.2,
-      "bracket_marker_count": 7,
+      "words_per_minute": 150.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1871,7 +1871,7 @@
         "start_display": "00:50:55"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
@@ -1879,10 +1879,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 13752,
+      "word_count": 13482,
       "duration_seconds": 6331,
-      "words_per_minute": 130.3,
-      "bracket_marker_count": 9,
+      "words_per_minute": 127.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2037,16 +2037,16 @@
         "start_display": "01:38:40"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 11284,
+      "word_count": 11454,
       "duration_seconds": 6309,
-      "words_per_minute": 107.3,
-      "bracket_marker_count": 33,
+      "words_per_minute": 108.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2148,16 +2148,16 @@
         "start_display": "01:32:40"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_partially_unparseable"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 14373,
+      "word_count": 14899,
       "duration_seconds": 5873,
-      "words_per_minute": 146.8,
-      "bracket_marker_count": 2,
+      "words_per_minute": 152.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2187,16 +2187,16 @@
         "start_display": "00:28:57"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 13772,
+      "word_count": 14659,
       "duration_seconds": 5917,
-      "words_per_minute": 139.7,
-      "bracket_marker_count": 5,
+      "words_per_minute": 148.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2286,14 +2286,14 @@
         "start_display": "01:14:46"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11075,
+      "word_count": 11752,
       "duration_seconds": 5529,
-      "words_per_minute": 120.2,
-      "bracket_marker_count": 13,
+      "words_per_minute": 127.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2329,7 +2329,7 @@
         "start_display": "01:05:50"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
@@ -2340,9 +2340,9 @@
       "speaker_added_from_site:Colin Goldberg"
     ],
     "transcript_quality": {
-      "word_count": 12962,
+      "word_count": 13537,
       "duration_seconds": 5572,
-      "words_per_minute": 139.6,
+      "words_per_minute": 145.8,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -2409,16 +2409,16 @@
         "start_display": "01:08:27"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_partially_unparseable"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11832,
+      "word_count": 12524,
       "duration_seconds": 5420,
-      "words_per_minute": 131.0,
-      "bracket_marker_count": 5,
+      "words_per_minute": 138.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2478,14 +2478,14 @@
         "start_display": "00:47:15"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11637,
+      "word_count": 12083,
       "duration_seconds": 5235,
-      "words_per_minute": 133.4,
-      "bracket_marker_count": 4,
+      "words_per_minute": 138.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2539,14 +2539,14 @@
         "start_display": "00:56:56"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12503,
+      "word_count": 13007,
       "duration_seconds": 5829,
-      "words_per_minute": 128.7,
-      "bracket_marker_count": 14,
+      "words_per_minute": 133.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3092,17 +3092,17 @@
         "start_display": "00:48:09"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
       "country_backfilled_from_site:Susan DeTroy"
     ],
     "transcript_quality": {
-      "word_count": 8876,
+      "word_count": 9525,
       "duration_seconds": 4507,
-      "words_per_minute": 118.2,
-      "bracket_marker_count": 5,
+      "words_per_minute": 126.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -4070,9 +4070,9 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 11461,
+      "word_count": 10968,
       "duration_seconds": 4991,
-      "words_per_minute": 137.8,
+      "words_per_minute": 131.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4212,9 +4212,9 @@
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12126,
+      "word_count": 11853,
       "duration_seconds": 5353,
-      "words_per_minute": 135.9,
+      "words_per_minute": 132.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4282,9 +4282,9 @@
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 10351,
+      "word_count": 10324,
       "duration_seconds": 4406,
-      "words_per_minute": 141.0,
+      "words_per_minute": 140.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4443,9 +4443,9 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 11875,
+      "word_count": 11719,
       "duration_seconds": 5587,
-      "words_per_minute": 127.5,
+      "words_per_minute": 125.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4514,9 +4514,9 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 11577,
+      "word_count": 11266,
       "duration_seconds": 5070,
-      "words_per_minute": 137.0,
+      "words_per_minute": 133.3,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4943,9 +4943,9 @@
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY MAY 7, 2026'), confirmed by Colin Goldberg 2026-09-18"
     ],
     "transcript_quality": {
-      "word_count": 9682,
+      "word_count": 8669,
       "duration_seconds": 4706,
-      "words_per_minute": 123.4,
+      "words_per_minute": 110.5,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5072,6 +5072,1969 @@
       "word_count": 13866,
       "duration_seconds": 5965,
       "words_per_minute": 139.5,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "JZFDck9gwH8",
+    "url": "https://www.youtube.com/watch?v=JZFDck9gwH8",
+    "type": "interview",
+    "number": 1,
+    "title_raw": "Colin Goldberg interviewed by Roz Dimon: Techspressionist Artist Interview Series #1",
+    "session_title": "Colin Goldberg",
+    "date_recorded": "2021-01-22",
+    "date_published": "2021-01-23",
+    "duration_seconds": 2545,
+    "thumbnail": "https://i.ytimg.com/vi/JZFDck9gwH8/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Colin Goldberg",
+        "country": "Rocky Point",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Colin Goldberg",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "whisper-large-v3",
+    "transcript_quality": {
+      "word_count": 7138,
+      "duration_seconds": 2545,
+      "words_per_minute": 168.3,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "2JTyaVoXMsQ",
+    "url": "https://www.youtube.com/watch?v=2JTyaVoXMsQ",
+    "type": "interview",
+    "number": 2,
+    "title_raw": "Anne Spalter interviewed by  Colin Goldberg: Techspressionist Artist Interview Series #2",
+    "session_title": "Anne Spalter",
+    "date_recorded": "2021-01-27",
+    "date_published": "2021-01-27",
+    "duration_seconds": 3305,
+    "thumbnail": "https://i.ytimg.com/vi/2JTyaVoXMsQ/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Anne Spalter",
+        "country": "Brooklyn, NY, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Anne Spalter",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 8699,
+      "duration_seconds": 3305,
+      "words_per_minute": 157.9,
+      "bracket_marker_count": 4,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "DJDMQvtiOQU",
+    "url": "https://www.youtube.com/watch?v=DJDMQvtiOQU",
+    "type": "interview",
+    "number": 3,
+    "title_raw": "Roz Dimon interviewed by Michael Pierre Price: Techspressionist Artist Interview Series #3",
+    "session_title": "Roz Dimon",
+    "date_recorded": "2021-02-05",
+    "date_published": "2021-02-06",
+    "duration_seconds": 3873,
+    "thumbnail": "https://i.ytimg.com/vi/DJDMQvtiOQU/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Roz Dimon",
+        "country": "Shelter Island, NY, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Roz Dimon",
+    "interviewer": "Michael Pierre Price",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 11864,
+      "duration_seconds": 3873,
+      "words_per_minute": 183.8,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "Hjej663DEjw",
+    "url": "https://www.youtube.com/watch?v=Hjej663DEjw",
+    "type": "interview",
+    "number": 4,
+    "title_raw": "Joseph Nechvatal interviewed by  Colin Goldberg (2000): Techspressionist Artist Interview Series #4",
+    "session_title": "Joseph Nechvatal",
+    "date_recorded": "2000",
+    "date_published": "2021-06-16",
+    "duration_seconds": 863,
+    "thumbnail": "https://i.ytimg.com/vi/Hjej663DEjw/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Joseph Nechvatal",
+        "country": "Paris",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com",
+      "date_note:original recording 2000, reposted Feb 4, 2021"
+    ],
+    "interviewee": "Joseph Nechvatal",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "whisper-large-v3",
+    "transcript_quality": {
+      "word_count": 1626,
+      "duration_seconds": 863,
+      "words_per_minute": 113.0,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "qE6D2wrr1rU",
+    "url": "https://www.youtube.com/watch?v=qE6D2wrr1rU",
+    "type": "interview",
+    "number": 5,
+    "title_raw": "Davonte Bradley interviewed by  Colin Goldberg: Techspressionist Artist Interview Series #5",
+    "session_title": "Davonte Bradley",
+    "date_recorded": "2021-02-11",
+    "date_published": "2021-02-12",
+    "duration_seconds": 5415,
+    "thumbnail": "https://i.ytimg.com/vi/qE6D2wrr1rU/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Davonte Bradley",
+        "country": "Richmond, VA, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:local_zoom_file (site page says 2021-02-12)"
+    ],
+    "interviewee": "Davonte Bradley",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 13942,
+      "duration_seconds": 5415,
+      "words_per_minute": 154.5,
+      "bracket_marker_count": 4,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "a5h-eBQYrks",
+    "url": "https://www.youtube.com/watch?v=a5h-eBQYrks",
+    "type": "interview",
+    "number": 6,
+    "title_raw": "Patrick Lichty interviewed by  Colin Goldberg: Techspressionist Artist Interview Series #6",
+    "session_title": "Patrick Lichty",
+    "date_recorded": "2021-02-17",
+    "date_published": "2021-02-17",
+    "duration_seconds": 3580,
+    "thumbnail": "https://i.ytimg.com/vi/a5h-eBQYrks/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Patrick Lichty",
+        "country": "Winona, MN, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Patrick Lichty",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 9142,
+      "duration_seconds": 3580,
+      "words_per_minute": 153.2,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "XLRoHnYg1dA",
+    "url": "https://www.youtube.com/watch?v=XLRoHnYg1dA",
+    "type": "interview",
+    "number": 7,
+    "title_raw": "Michael Pierre Price interviewed by Roz Dimon: Techspressionist Artist Interview Series #7",
+    "session_title": "Michael Pierre Price",
+    "date_recorded": "2021-02-24",
+    "date_published": "2021-03-02",
+    "duration_seconds": 5909,
+    "thumbnail": "https://i.ytimg.com/vi/XLRoHnYg1dA/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Michael Pierre Price",
+        "country": "Phoenix, AZ USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Michael Pierre Price",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 12660,
+      "duration_seconds": 5909,
+      "words_per_minute": 128.5,
+      "bracket_marker_count": 2,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "--L1ziEx3-A",
+    "url": "https://www.youtube.com/watch?v=--L1ziEx3-A",
+    "type": "interview",
+    "number": 8,
+    "title_raw": "Steve Miller interviewed by Roz Dimon: Techspressionist Artist Interview Series #8",
+    "session_title": "Steve Miller",
+    "date_recorded": "2021-03-01",
+    "date_published": "2021-03-01",
+    "duration_seconds": 3469,
+    "thumbnail": "https://i.ytimg.com/vi/--L1ziEx3-A/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Steve Miller",
+        "country": "Sagaponack, NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Steve Miller",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 9486,
+      "duration_seconds": 3469,
+      "words_per_minute": 164.1,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "YaKIk32mYWw",
+    "url": "https://www.youtube.com/watch?v=YaKIk32mYWw",
+    "type": "interview",
+    "number": 9,
+    "title_raw": "Andrea Bonaceto interviewed by Colin Goldberg: Techspressionist Artist Interview Series #9",
+    "session_title": "Andrea Bonaceto",
+    "date_recorded": "2021-03-31",
+    "date_published": "2021-03-31",
+    "duration_seconds": 2141,
+    "thumbnail": "https://i.ytimg.com/vi/YaKIk32mYWw/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Andrea Bonaceto",
+        "country": "London, UK",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Andrea Bonaceto",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 5923,
+      "duration_seconds": 2141,
+      "words_per_minute": 166.0,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "rO6UdqwFKFc",
+    "url": "https://www.youtube.com/watch?v=rO6UdqwFKFc",
+    "type": "interview",
+    "number": 10,
+    "title_raw": "Brandon Gellis interviewed by Colin Goldberg: Techspressionist Artist Interview Series #10",
+    "session_title": "Brandon Gellis",
+    "date_recorded": "2021-03-31",
+    "date_published": "2021-03-31",
+    "duration_seconds": 4420,
+    "thumbnail": "https://i.ytimg.com/vi/rO6UdqwFKFc/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Brandon Gellis",
+        "country": "Laramie, WY",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Brandon Gellis",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 12051,
+      "duration_seconds": 4420,
+      "words_per_minute": 163.6,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "nGPCwUZj9fs",
+    "url": "https://www.youtube.com/watch?v=nGPCwUZj9fs",
+    "type": "interview",
+    "number": 11,
+    "title_raw": "Michael Rees interviewed by Colin Goldberg: Techspressionist Artist Interview Series #11",
+    "session_title": "Michael Rees",
+    "date_recorded": "2021-04-06",
+    "date_published": "2021-04-15",
+    "duration_seconds": 4468,
+    "thumbnail": "https://i.ytimg.com/vi/nGPCwUZj9fs/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Michael Rees",
+        "country": "North Bergen, NJ USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Michael Rees",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 12856,
+      "duration_seconds": 4468,
+      "words_per_minute": 172.6,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "m6ca8UoF49M",
+    "url": "https://www.youtube.com/watch?v=m6ca8UoF49M",
+    "type": "interview",
+    "number": 12,
+    "title_raw": "Gregory Little interviewed by Patrick Lichty: Techspressionist Artist Interview Series #12",
+    "session_title": "Gregory Little",
+    "date_recorded": "2021-04-14",
+    "date_published": "2021-04-25",
+    "duration_seconds": 2938,
+    "thumbnail": "https://i.ytimg.com/vi/m6ca8UoF49M/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Gregory Little",
+        "country": "Oberlin, OH USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Patrick Lichty",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Gregory Little",
+    "interviewer": "Patrick Lichty",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7380,
+      "duration_seconds": 2938,
+      "words_per_minute": 150.7,
+      "bracket_marker_count": 15,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "w6fW5oWbBdk",
+    "url": "https://www.youtube.com/watch?v=w6fW5oWbBdk",
+    "type": "interview",
+    "number": 13,
+    "title_raw": "Cee Moses interviewed by Davo Bradley: Techspressionist Artist Interview Series #13",
+    "session_title": "Cee Moses",
+    "date_recorded": "2021-04-14",
+    "date_published": "2021-05-02",
+    "duration_seconds": 4238,
+    "thumbnail": "https://i.ytimg.com/vi/w6fW5oWbBdk/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Cee Moses",
+        "country": "Augusta, GA USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Davonte Bradley",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com",
+      "date_note:site gives the same date as interview #12 (April 14, 2021) -- possible copy/paste"
+    ],
+    "interviewee": "Cee Moses",
+    "interviewer": "Davonte Bradley",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 11533,
+      "duration_seconds": 4238,
+      "words_per_minute": 163.3,
+      "bracket_marker_count": 2,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "DEIe5Z44tx0",
+    "url": "https://www.youtube.com/watch?v=DEIe5Z44tx0",
+    "type": "interview",
+    "number": 14,
+    "title_raw": "Carter Hodgkin interviewed by Roz Dimon: Techspressionist Artist Interview Series #14",
+    "session_title": "Carter Hodgkin",
+    "date_recorded": "2021-05-04",
+    "date_published": "2021-05-11",
+    "duration_seconds": 2324,
+    "thumbnail": "https://i.ytimg.com/vi/DEIe5Z44tx0/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Carter Hodgkin",
+        "country": "New York, NY",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Carter Hodgkin",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 5804,
+      "duration_seconds": 2324,
+      "words_per_minute": 149.8,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "aP2x9m5GMak",
+    "url": "https://www.youtube.com/watch?v=aP2x9m5GMak",
+    "type": "interview",
+    "number": 15,
+    "title_raw": "Darcy Gerbarg interviewed by Roz Dimon: Techspressionist Artist Interview Series #15",
+    "session_title": "Darcy Gerbarg",
+    "date_recorded": "2021-06-01",
+    "date_published": "2021-06-03",
+    "duration_seconds": 2991,
+    "thumbnail": "https://i.ytimg.com/vi/aP2x9m5GMak/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Darcy Gerbarg",
+        "country": "New York, NY",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com",
+      "date_note:Colin Goldberg 2026-09-18: recorded June 1, 2021, as Roz Dimon says on the recording; the techspressionism.com page says June 2 -- correct it on the site"
+    ],
+    "interviewee": "Darcy Gerbarg",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "whisper-large-v3",
+    "transcript_quality": {
+      "word_count": 7727,
+      "duration_seconds": 2991,
+      "words_per_minute": 155.0,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "sqMzJArwmhg",
+    "url": "https://www.youtube.com/watch?v=sqMzJArwmhg",
+    "type": "interview",
+    "number": 16,
+    "title_raw": "Paul D. Milller aka DJ Spooky that Subliminal Kid interviewed by Colin Goldberg",
+    "session_title": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
+    "date_recorded": "2021-06-09",
+    "date_published": "2021-06-09",
+    "duration_seconds": 2098,
+    "thumbnail": "https://i.ytimg.com/vi/sqMzJArwmhg/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
+        "country": "NYC NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 5597,
+      "duration_seconds": 2098,
+      "words_per_minute": 160.1,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "k1kO0JSzqc8",
+    "url": "https://www.youtube.com/watch?v=k1kO0JSzqc8",
+    "type": "interview",
+    "number": 17,
+    "title_raw": "Tommy Mintz interviewed by Michael Pierre Price",
+    "session_title": "Tommy Mintz",
+    "date_recorded": "2021-06-17",
+    "date_published": "2021-06-17",
+    "duration_seconds": 3555,
+    "thumbnail": "https://i.ytimg.com/vi/k1kO0JSzqc8/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Tommy Mintz",
+        "country": "NYC NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Tommy Mintz",
+    "interviewer": "Michael Pierre Price",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 8936,
+      "duration_seconds": 3555,
+      "words_per_minute": 150.8,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "Jb-J_QTgufM",
+    "url": "https://www.youtube.com/watch?v=Jb-J_QTgufM",
+    "type": "interview",
+    "number": 18,
+    "title_raw": "Randi Matushevitz interviewed by Roz Dimon: Techspressionist Artist Interview Series #18",
+    "session_title": "Randi Matushevitz",
+    "date_recorded": "2021-06-23",
+    "date_published": "2021-07-06",
+    "duration_seconds": 3349,
+    "thumbnail": "https://i.ytimg.com/vi/Jb-J_QTgufM/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Randi Matushevitz",
+        "country": "Los Angeles CA USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Randi Matushevitz",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 9700,
+      "duration_seconds": 3349,
+      "words_per_minute": 173.8,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "lXCEgu2Iz5k",
+    "url": "https://www.youtube.com/watch?v=lXCEgu2Iz5k",
+    "type": "interview",
+    "number": 19,
+    "title_raw": "Malavika Mandal Andrew interviewed by Roz Dimon: Techspressionist Artist Interview Series #19",
+    "session_title": "Malavika Mandal Andrew",
+    "date_recorded": "2021-09-17",
+    "date_published": "2021-09-20",
+    "duration_seconds": 4090,
+    "thumbnail": "https://i.ytimg.com/vi/lXCEgu2Iz5k/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Malavika Mandal Andrew",
+        "country": "Mumbai",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Malavika Mandal Andrew",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 9576,
+      "duration_seconds": 4090,
+      "words_per_minute": 140.5,
+      "bracket_marker_count": 4,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "kfGb9OWyXEM",
+    "url": "https://www.youtube.com/watch?v=kfGb9OWyXEM",
+    "type": "interview",
+    "number": 20,
+    "title_raw": "Renata Janiszewska interviewed by Michael Pierre Price - Techspressionist Artist Interview #20",
+    "session_title": "Renata Janiszewska",
+    "date_recorded": "2021-10-13",
+    "date_published": "2021-10-13",
+    "duration_seconds": 3526,
+    "thumbnail": "https://i.ytimg.com/vi/kfGb9OWyXEM/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Renata Janiszewska",
+        "country": "Toronto, Canada",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Renata Janiszewska",
+    "interviewer": "Michael Pierre Price",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7727,
+      "duration_seconds": 3526,
+      "words_per_minute": 131.5,
+      "bracket_marker_count": 4,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "ywYWdI922tI",
+    "url": "https://www.youtube.com/watch?v=ywYWdI922tI",
+    "type": "interview",
+    "number": 21,
+    "title_raw": "Victor Acevedo interviewed by Colin Goldberg - Techspressionist Artist Interview #21 - Jan 7, 2022",
+    "session_title": "Victor Acevedo",
+    "date_recorded": "2022-01-07",
+    "date_published": "2022-01-08",
+    "duration_seconds": 5816,
+    "thumbnail": "https://i.ytimg.com/vi/ywYWdI922tI/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Victor Acevedo",
+        "country": "Los Angeles CA USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Victor Acevedo",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 15015,
+      "duration_seconds": 5816,
+      "words_per_minute": 154.9,
+      "bracket_marker_count": 5,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "FDFxHrpDvEI",
+    "url": "https://www.youtube.com/watch?v=FDFxHrpDvEI",
+    "type": "interview",
+    "number": 22,
+    "title_raw": "Karen LaFleur interviewed by Roz Dimon -  Techspressionist Artist Interview #22 - March 1, 2022",
+    "session_title": "Karen LaFleur",
+    "date_recorded": "2022-03-02",
+    "date_published": "2022-03-02",
+    "duration_seconds": 2957,
+    "thumbnail": "https://i.ytimg.com/vi/FDFxHrpDvEI/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Karen LaFleur",
+        "country": "Cape Cod MA USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com",
+      "date_note:YouTube title says March 1, 2022; site says March 2"
+    ],
+    "interviewee": "Karen LaFleur",
+    "interviewer": "Roz Dimon",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7744,
+      "duration_seconds": 2957,
+      "words_per_minute": 157.1,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "GReJ-zgJz-o",
+    "url": "https://www.youtube.com/watch?v=GReJ-zgJz-o",
+    "type": "interview",
+    "number": 23,
+    "title_raw": "Suzanne Anker interviewed by Helen Harrison - Techspressionist Artist Interview #23 - Feb. 28, 2022",
+    "session_title": "Suzanne Anker",
+    "date_recorded": "2022-02-28",
+    "date_published": "2022-03-28",
+    "duration_seconds": 2121,
+    "thumbnail": "https://i.ytimg.com/vi/GReJ-zgJz-o/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Suzanne Anker",
+        "country": "NYC // East Hampton NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Helen A. Harrison",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Suzanne Anker",
+    "interviewer": "Helen A. Harrison",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 3876,
+      "duration_seconds": 2121,
+      "words_per_minute": 109.6,
+      "bracket_marker_count": 5,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "RoCFEGxcw4Y",
+    "url": "https://www.youtube.com/watch?v=RoCFEGxcw4Y",
+    "type": "interview",
+    "number": 24,
+    "title_raw": "Frank Gillette interviewed by Helen Harrison - Techspressionist Artist Interview #24 - Feb. 28, 2022",
+    "session_title": "Frank Gillette",
+    "date_recorded": "2022-02-28",
+    "date_published": "2022-04-14",
+    "duration_seconds": 2633,
+    "thumbnail": "https://i.ytimg.com/vi/RoCFEGxcw4Y/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Frank Gillette",
+        "country": "NYC // East Hampton NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Helen A. Harrison",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Frank Gillette",
+    "interviewer": "Helen A. Harrison",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 5900,
+      "duration_seconds": 2633,
+      "words_per_minute": 134.4,
+      "bracket_marker_count": 2,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "8x8eIkbpHws",
+    "url": "https://www.youtube.com/watch?v=8x8eIkbpHws",
+    "type": "interview",
+    "number": 25,
+    "title_raw": "Verneda Lights Interviewed by Colin Goldberg - Techspressionist Artist Interview #25 - Feb. 3, 2023",
+    "session_title": "Verneda Lights",
+    "date_recorded": "2023-02-03",
+    "date_published": "2023-03-16",
+    "duration_seconds": 3849,
+    "thumbnail": "https://i.ytimg.com/vi/8x8eIkbpHws/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Verneda Lights",
+        "country": "Port Royal SC USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Verneda Lights",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7734,
+      "duration_seconds": 3849,
+      "words_per_minute": 120.6,
+      "bracket_marker_count": 3,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "iQL826mqyFg",
+    "url": "https://www.youtube.com/watch?v=iQL826mqyFg",
+    "type": "interview",
+    "number": 26,
+    "title_raw": "Nina Sobell interviewed by Renata Janiszewska  - Techspressionist Artist Interview #26 - March 2023",
+    "session_title": "Nina Sobell",
+    "date_recorded": "2023-03",
+    "date_published": "2023-04-22",
+    "duration_seconds": 3235,
+    "thumbnail": "https://i.ytimg.com/vi/iQL826mqyFg/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Nina Sobell",
+        "country": "NYC NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Renata Janiszewska",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Nina Sobell",
+    "interviewer": "Renata Janiszewska",
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 5636,
+      "duration_seconds": 3235,
+      "words_per_minute": 104.5,
+      "bracket_marker_count": 6,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "Jj66toeEM0Q",
+    "url": "https://www.youtube.com/watch?v=Jj66toeEM0Q",
+    "type": "interview",
+    "number": 27,
+    "title_raw": "cari ann shim sham* interviewed by Colin Goldberg - Techspressionist Artist Interview #27",
+    "session_title": "cari ann shim sham",
+    "date_recorded": "2024-09-30",
+    "date_published": "2024-09-30",
+    "duration_seconds": 5021,
+    "thumbnail": "https://i.ytimg.com/vi/Jj66toeEM0Q/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "cari ann shim sham",
+        "country": "NYC NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "cari ann shim sham",
+    "interviewer": "Colin Goldberg",
+    "local_transcript": "/Users/colin/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/CARI ANN/GMT20240930-160751_Recording.transcript.vtt",
+    "transcript_source": "zoom-transcript",
+    "transcript_quality": {
+      "word_count": 10350,
+      "duration_seconds": 5021,
+      "words_per_minute": 123.7,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "xkfYnuTP2zA",
+    "url": "https://www.youtube.com/watch?v=xkfYnuTP2zA",
+    "type": "interview",
+    "number": 28,
+    "title_raw": "Sasha Stiles interviewed by Colin Goldberg - Techspressionist Artist Interview #28",
+    "session_title": "Sasha Stiles",
+    "date_recorded": "2025-05-06",
+    "date_published": "2025-05-06",
+    "duration_seconds": 4746,
+    "thumbnail": "https://i.ytimg.com/vi/xkfYnuTP2zA/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Sasha Stiles",
+        "country": "NEAR NYC NY // USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Sasha Stiles",
+    "interviewer": "Colin Goldberg",
+    "local_transcript": "/Users/colin/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/SASHA/GMT20250506-140813_Recording.transcript.vtt",
+    "transcript_source": "zoom-transcript",
+    "transcript_quality": {
+      "word_count": 13000,
+      "duration_seconds": 4746,
+      "words_per_minute": 164.3,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "4kHuGtuLoSY",
+    "url": "https://www.youtube.com/watch?v=4kHuGtuLoSY",
+    "type": "interview",
+    "number": 29,
+    "title_raw": "Claudia Hart Interviewed by Colin Goldberg",
+    "session_title": "Claudia Hart",
+    "date_recorded": "2025-12-08",
+    "date_published": "2025-12-12",
+    "duration_seconds": 5667,
+    "thumbnail": "https://i.ytimg.com/vi/4kHuGtuLoSY/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Claudia Hart",
+        "country": "NYC NY // USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Claudia Hart",
+    "interviewer": "Colin Goldberg",
+    "local_transcript": "/Users/colin/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/CLAUDIA/GMT20251208-162418_Recording.transcript.vtt",
+    "transcript_source": "zoom-transcript",
+    "transcript_quality": {
+      "word_count": 12385,
+      "duration_seconds": 5667,
+      "words_per_minute": 131.1,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "z8fZvhQgl80",
+    "url": "https://www.youtube.com/watch?v=z8fZvhQgl80",
+    "type": "presentation",
+    "number": 1,
+    "title_raw": "Digital Painting and Drawing 1: Techspressionism at the American Makerspace in  Qarshi",
+    "session_title": "Digital Painting and Drawing 1",
+    "date_recorded": "2026-02-12",
+    "date_published": "2026-03-26",
+    "duration_seconds": 3760,
+    "thumbnail": "https://i.ytimg.com/vi/z8fZvhQgl80/maxresdefault.jpg",
+    "moderator": "Cynthia Beth Rubin",
+    "speakers": [
+      {
+        "name": "Cynthia Beth Rubin",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": 531,
+        "start_display": "00:08:51"
+      },
+      {
+        "name": "Ann Shapiro",
+        "country": null,
+        "start_seconds": 860,
+        "start_display": "00:14:20"
+      },
+      {
+        "name": "Stephen Paré",
+        "country": null,
+        "start_seconds": 1324,
+        "start_display": "00:22:04"
+      },
+      {
+        "name": "Announcements",
+        "country": null,
+        "start_seconds": 1745,
+        "start_display": "00:29:05"
+      },
+      {
+        "name": "Discussion",
+        "country": null,
+        "start_seconds": 1825,
+        "start_display": "00:30:25"
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 8207,
+      "duration_seconds": 3760,
+      "words_per_minute": 131.0,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "GvAkzINQBT8",
+    "url": "https://www.youtube.com/watch?v=GvAkzINQBT8",
+    "type": "presentation",
+    "number": 2,
+    "title_raw": "AI as Creative Collaborator",
+    "session_title": "AI as Creative Collaborator",
+    "date_recorded": "2026-02-26",
+    "date_published": "2026-03-31",
+    "duration_seconds": 4195,
+    "thumbnail": "https://i.ytimg.com/vi/GvAkzINQBT8/maxresdefault.jpg",
+    "moderator": "cha :)",
+    "speakers": [
+      {
+        "name": "cha :)",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": 295,
+        "start_display": "00:04:55"
+      },
+      {
+        "name": "Verneda Lights",
+        "country": null,
+        "start_seconds": 712,
+        "start_display": "00:11:52"
+      },
+      {
+        "name": "Gregory Patrick Garvey",
+        "country": null,
+        "start_seconds": 1168,
+        "start_display": "00:19:28"
+      },
+      {
+        "name": "Announcements",
+        "country": null,
+        "start_seconds": 1593,
+        "start_display": "00:26:33"
+      },
+      {
+        "name": "Discussion",
+        "country": null,
+        "start_seconds": 1615,
+        "start_display": "00:26:55"
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 7702,
+      "duration_seconds": 4195,
+      "words_per_minute": 110.2,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "DtGglnJ4mdI",
+    "url": "https://www.youtube.com/watch?v=DtGglnJ4mdI",
+    "type": "presentation",
+    "number": 3,
+    "title_raw": "Collaborations Between Artists and Scientists",
+    "session_title": "Collaborations Between Artists and Scientists",
+    "date_recorded": "2026-05-02",
+    "date_published": "2026-05-02",
+    "duration_seconds": 2878,
+    "thumbnail": "https://i.ytimg.com/vi/DtGglnJ4mdI/maxresdefault.jpg",
+    "moderator": "Lee Day",
+    "speakers": [
+      {
+        "name": "Lee Day",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Karen LaFleur",
+        "country": null,
+        "start_seconds": 320,
+        "start_display": "00:05:20"
+      },
+      {
+        "name": "Nina Sobell",
+        "country": null,
+        "start_seconds": 706,
+        "start_display": "00:11:46"
+      },
+      {
+        "name": "Cynthia Beth Rubin",
+        "country": null,
+        "start_seconds": 1138,
+        "start_display": "00:18:58"
+      },
+      {
+        "name": "Announcements",
+        "country": null,
+        "start_seconds": 1608,
+        "start_display": "00:26:48"
+      },
+      {
+        "name": "Discussion",
+        "country": null,
+        "start_seconds": 1620,
+        "start_display": "00:27:00"
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 6301,
+      "duration_seconds": 2878,
+      "words_per_minute": 131.4,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "9u3WpSKe3bM",
+    "url": "https://www.youtube.com/watch?v=9u3WpSKe3bM",
+    "type": "presentation",
+    "number": 4,
+    "title_raw": "Digital Painting & Drawing 2: Techspressionism at American Corner Makerspace in Qarshi",
+    "session_title": "Digital Painting & Drawing 2",
+    "date_recorded": "2026-05-18",
+    "date_published": "2026-05-18",
+    "duration_seconds": 4138,
+    "thumbnail": "https://i.ytimg.com/vi/9u3WpSKe3bM/maxresdefault.jpg",
+    "moderator": "Gregory Little",
+    "speakers": [
+      {
+        "name": "Gregory Little",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": 533,
+        "start_display": "00:08:53"
+      },
+      {
+        "name": "Cynthia DiDonato",
+        "country": null,
+        "start_seconds": 995,
+        "start_display": "00:16:35"
+      },
+      {
+        "name": "Cynthia Beth Rubin",
+        "country": null,
+        "start_seconds": 1323,
+        "start_display": "00:22:03"
+      },
+      {
+        "name": "Discussion",
+        "country": null,
+        "start_seconds": 1816,
+        "start_display": "00:30:16"
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 10266,
+      "duration_seconds": 4138,
+      "words_per_minute": 148.9,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "XgXtLT1I-T4",
+    "url": "https://www.youtube.com/watch?v=XgXtLT1I-T4",
+    "type": "presentation",
+    "number": 5,
+    "title_raw": "Moving Images: Sequencing as Visual Expression",
+    "session_title": "Moving Images: Sequencing as Visual Expression",
+    "date_recorded": "2026-07-12",
+    "date_published": "2026-07-12",
+    "duration_seconds": 1682,
+    "thumbnail": "https://i.ytimg.com/vi/XgXtLT1I-T4/maxresdefault.jpg",
+    "moderator": "Lucy Boyd-Wilson",
+    "speakers": [
+      {
+        "name": "Lucy Boyd-Wilson",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Randi Matushevitz",
+        "country": null,
+        "start_seconds": 433,
+        "start_display": "00:07:13"
+      },
+      {
+        "name": "Allen Hirsh",
+        "country": null,
+        "start_seconds": 870,
+        "start_display": "00:14:30"
+      },
+      {
+        "name": "Susan Detroy",
+        "country": null,
+        "start_seconds": 1285,
+        "start_display": "00:21:25"
+      },
+      {
+        "name": "Lucy Boyd-Wilson",
+        "country": null,
+        "start_seconds": 1654,
+        "start_display": "00:27:34"
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 3125,
+      "duration_seconds": 1682,
+      "words_per_minute": 111.5,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "V3NO6tMIiPU",
+    "url": "https://www.youtube.com/watch?v=V3NO6tMIiPU",
+    "type": "presentation",
+    "number": 6,
+    "title_raw": "Digital Photography Techspressionism at American Corner Makerspace in Qarshi",
+    "session_title": "Digital Photography",
+    "date_recorded": "2026-05-20",
+    "date_published": "2026-05-20",
+    "duration_seconds": 2986,
+    "thumbnail": "https://i.ytimg.com/vi/V3NO6tMIiPU/maxresdefault.jpg",
+    "moderator": "Roz Dimon",
+    "speakers": [
+      {
+        "name": "Lee Day",
+        "country": "New York City USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Gregory Little",
+        "country": "Oberlin, Ohio USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Lee Musgrave",
+        "country": "White Salmon, Washington USA",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload",
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7400,
+      "duration_seconds": 2986,
+      "words_per_minute": 148.7,
+      "bracket_marker_count": 11,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "lW17XAepKs4",
+    "url": "https://www.youtube.com/watch?v=lW17XAepKs4",
+    "type": "presentation",
+    "number": 7,
+    "title_raw": "How Technology Changes Artist Interactions with Cultural Sources",
+    "session_title": "How Technology Changes Artist Interactions with Cultural Sources",
+    "date_recorded": "2026-07-12",
+    "date_published": "2026-07-12",
+    "duration_seconds": 1515,
+    "thumbnail": "https://i.ytimg.com/vi/lW17XAepKs4/maxresdefault.jpg",
+    "moderator": "Stephen Paré",
+    "speakers": [
+      {
+        "name": "Stephen Paré",
+        "country": null,
+        "start_seconds": 0,
+        "start_display": "00:00:00"
+      },
+      {
+        "name": "Patrick Lichty",
+        "country": null,
+        "start_seconds": 220,
+        "start_display": "00:03:40"
+      },
+      {
+        "name": "cha :)",
+        "country": null,
+        "start_seconds": 810,
+        "start_display": "00:13:30"
+      },
+      {
+        "name": "Erin Ko",
+        "country": null,
+        "start_seconds": 967,
+        "start_display": "00:16:07"
+      },
+      {
+        "name": "Discussion",
+        "country": null,
+        "start_seconds": 1395,
+        "start_display": "00:23:15"
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 2786,
+      "duration_seconds": 1515,
+      "words_per_minute": 110.3,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "1OgIwvY5_F4",
+    "url": "https://www.youtube.com/watch?v=1OgIwvY5_F4",
+    "type": "presentation",
+    "number": 8,
+    "title_raw": "Digital Sculpture and World Creation",
+    "session_title": "Digital Sculpture and World Creation",
+    "date_recorded": "2026-07-12",
+    "date_published": "2026-07-12",
+    "duration_seconds": 3811,
+    "thumbnail": "https://i.ytimg.com/vi/1OgIwvY5_F4/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Lucy Boyd-Wilson",
+        "country": "San Diego, California USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Annette Weintraub",
+        "country": "New York City USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Ramis Karimov",
+        "country": "Qarshi, Uzbekistan",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Jafar Rustamov",
+        "country": "Qarshi, Uzbekistan",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "recording_date_estimated_from_upload",
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:upload_date"
+    ],
+    "transcript_source": "youtube-subtitles",
+    "transcript_quality": {
+      "word_count": 6773,
+      "duration_seconds": 3811,
+      "words_per_minute": 106.6,
+      "bracket_marker_count": 5,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "-8Glurhxyms",
+    "url": "https://www.youtube.com/watch?v=-8Glurhxyms",
+    "type": "roundtable",
+    "number": 1,
+    "title_raw": "Techspressionism: Curators in Conversation with Christiane Paul and Helen A. Harrison",
+    "session_title": "Curators in Conversation",
+    "date_recorded": "2022-10-03",
+    "date_published": "2022-10-09",
+    "duration_seconds": 3114,
+    "thumbnail": "https://i.ytimg.com/vi/-8Glurhxyms/maxresdefault.jpg",
+    "moderator": "Colin Goldberg",
+    "speakers": [
+      {
+        "name": "Christiane Paul",
+        "country": "NYC, NY USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Helen A. Harrison",
+        "country": "Sag Harbor, NY USA",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 6929,
+      "duration_seconds": 3114,
+      "words_per_minute": 133.5,
+      "bracket_marker_count": 2,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "S_q30BIvh8c",
+    "url": "https://www.youtube.com/watch?v=S_q30BIvh8c",
+    "type": "roundtable",
+    "number": 2,
+    "title_raw": "Techspressionism Roundtable 02 // Approach",
+    "session_title": "Approach",
+    "date_recorded": "2023-01-23",
+    "date_published": "2023-01-27",
+    "duration_seconds": 3863,
+    "thumbnail": "https://i.ytimg.com/vi/S_q30BIvh8c/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Roz Dimon",
+        "country": "Shelter Island, NY, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Tommy Mintz",
+        "country": "NYC, NY, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Renata Janiszewska",
+        "country": "Lion's Head, Ontario, Canada",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com",
+      "date_note:confirmed by Colin Goldberg 2026-09-18: recorded January 23, 2023 (the site page says 2022 -- typo)"
+    ],
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 9781,
+      "duration_seconds": 3863,
+      "words_per_minute": 151.9,
+      "bracket_marker_count": 3,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "_oxmBXSdyNk",
+    "url": "https://www.youtube.com/watch?v=_oxmBXSdyNk",
+    "type": "roundtable",
+    "number": 3,
+    "title_raw": "Techspressionism Roundtable 03 // Science & Art: Part One",
+    "session_title": "Science & Art: Part One",
+    "date_recorded": "2024-06-12",
+    "date_published": "2024-06-24",
+    "duration_seconds": 3420,
+    "thumbnail": "https://i.ytimg.com/vi/_oxmBXSdyNk/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Cynthia DiDonato",
+        "country": "North Providence, Rhode Island USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Karen LaFleur",
+        "country": "Cape Cod, MA USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Cynthia Beth Rubin",
+        "country": "New Haven, CT USA",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 7669,
+      "duration_seconds": 3420,
+      "words_per_minute": 134.5,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "4HfJCnIp8XE",
+    "url": "https://www.youtube.com/watch?v=4HfJCnIp8XE",
+    "type": "roundtable",
+    "number": 4,
+    "title_raw": "Techspressionism Roundtable 04 // Science & Art: Part Two",
+    "session_title": "Science & Art: Part Two",
+    "date_recorded": "2024-07-10",
+    "date_published": "2024-07-29",
+    "duration_seconds": 3489,
+    "thumbnail": "https://i.ytimg.com/vi/4HfJCnIp8XE/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Moritz Albrecht",
+        "country": "Frankfurt, Germany",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Steve Miller",
+        "country": "Sagaponack, NY USA",
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "transcript_source": "youtube-auto-captions",
+    "transcript_quality": {
+      "word_count": 8530,
+      "duration_seconds": 3489,
+      "words_per_minute": 146.7,
+      "bracket_marker_count": 1,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "BphNOUbReFs",
+    "url": "https://www.youtube.com/watch?v=BphNOUbReFs",
+    "type": "roundtable",
+    "number": 5,
+    "title_raw": "Four Techspressionist Artists // Techspressionism Roundtable 05",
+    "session_title": "Four Techspressionist Artists",
+    "date_recorded": "2025-06-27",
+    "date_published": "2025-06-27",
+    "duration_seconds": 3746,
+    "thumbnail": "https://i.ytimg.com/vi/BphNOUbReFs/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Colin Goldberg",
+        "country": "Bronx, NY",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Renata Janiszewska",
+        "country": "Lion's Head, Canada",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Karen LaFleur",
+        "country": "Cape Cod, MA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Jan Swinburne",
+        "country": "Toronto, Canada",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "ChatGPT",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "local_transcript": "/Users/colin/Documents/~TECHSPRESSIONISM/VIDEO/ROUNDTABLE/ROUNDTABLE_5/GMT20250627-161427_Recording.transcript.vtt",
+    "transcript_source": "zoom-transcript",
+    "transcript_quality": {
+      "word_count": 8900,
+      "duration_seconds": 3746,
+      "words_per_minute": 142.6,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
+    "video_id": "lVI5UE-AD9E",
+    "url": "https://www.youtube.com/watch?v=lVI5UE-AD9E",
+    "type": "roundtable",
+    "number": 6,
+    "title_raw": "Founders: Five Years Later // Techspressionism Roundtable #06",
+    "session_title": "Founders: Five Years Later",
+    "date_recorded": "2025-09-16",
+    "date_published": "2025-09-23",
+    "duration_seconds": 4421,
+    "thumbnail": "https://i.ytimg.com/vi/lVI5UE-AD9E/maxresdefault.jpg",
+    "moderator": "Michael Pierre Price",
+    "speakers": [
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Patrick Lichty",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Steve Miller",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Oz Van Rosen",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Helen A. Harrison",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [
+      "speaker_index_missing"
+    ],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "local_transcript": "/Users/colin/Documents/~TECHSPRESSIONISM/VIDEO/ROUNDTABLE/ROUNDTABLE_6/RECORDINGS/GMT20250916-180718_Recording.transcript.vtt",
+    "transcript_source": "zoom-transcript",
+    "transcript_quality": {
+      "word_count": 11468,
+      "duration_seconds": 4421,
+      "words_per_minute": 155.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }

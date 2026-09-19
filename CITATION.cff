@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you cite material from this archive, please use the metadata below. Per-session citations appear on each transcript page in the search site."
-title: "Techspressionist Salon Archive"
+title: "Techspressionism Video Archive"
 abstract: >-
-  A searchable, citable transcript archive of the Techspressionist Salon,
-  a monthly gathering of artists working with technology, running since
-  September 2020. Transcripts are timestamped and speaker-attributed, and
-  each segment links to the corresponding moment in the source recording.
+  A searchable, citable transcript archive of Techspressionism's recorded
+  video: the monthly Techspressionist Salon (running since September 2020),
+  artist interviews, roundtables, and presentations. Transcripts are
+  timestamped, and each segment links to the corresponding moment in the
+  source recording.
 type: dataset
 authors:
   - family-names: Goldberg
