@@ -142,6 +142,10 @@ def hhmmss(seconds):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
+NAV_LINKS = "".join(
+    f'<a href="index.html?type={info["label"]}">{info["plural"]}</a>' for info in TYPES.values())
+TOPNAV = f'<nav class="topnav" aria-label="Recording types">{NAV_LINKS}</nav>'
+
 STYLE = """
 :root { --fg:#1a1a1a; --muted:#666; --bg:#fafafa; --card:#fff; --accent:#c0392b; --line:#e2e2e2; }
 * { box-sizing: border-box; }
@@ -152,6 +156,9 @@ a:hover { text-decoration:underline; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
 header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.05rem; }
+.topnav { display:flex; flex-wrap:wrap; gap:.3rem 1.1rem; font-size:.95rem; }
+.topnav a { color:var(--fg); font-weight:500; }
+.topnav a:hover { color:var(--accent); text-decoration:none; }
 header.site .hsearch { margin:0 0 0 auto; }
 header.site .hsearch input { font:inherit; font-size:.9rem; width:15rem; max-width:100%; padding:.3rem .7rem; border:1px solid var(--line); border-radius:1rem; background:var(--bg); color:var(--fg); }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
@@ -167,6 +174,23 @@ h1 .topic { color:var(--muted); font-weight:400; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(56.25vw + 1rem); }
 .seg-head .speaker { font-weight:700; }
+.read-btn { display:none; width:100%; margin:0 0 1.2rem; padding:.85rem 1rem; border:2px solid var(--accent); border-radius:.4rem; background:var(--accent);
+            color:#fff; font:inherit; font-size:1.05rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
+.read-btn:hover { background:#a93226; border-color:#a93226; }
+.read-btn[aria-expanded="true"] { background:#fff; color:var(--accent); }
+.read-btn[aria-expanded="true"]:hover { background:#fbeceb; }
+.js .read-btn { display:block; }
+.js .transcript { display:none; scroll-margin-top:calc(56.25vw + 1rem); }
+.js .layout.reading .transcript { display:block; }
+.watch-next { display:none; }
+.watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
+.watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
+.watch-next li { border-bottom:1px solid var(--line); }
+.watch-next a { display:block; padding:.6rem .3rem; color:var(--fg); }
+.watch-next a:hover { background:var(--card); text-decoration:none; color:var(--accent); }
+.watch-next li.cur a { background:#fdebc8; font-weight:600; }
+.watch-next .num { display:inline-block; min-width:2.8rem; color:var(--muted); font-variant-numeric:tabular-nums; }
+.watch-next .d { display:block; margin-left:2.8rem; color:var(--muted); font-size:.85rem; }
 details.people { margin:0 0 1rem; }
 details.people summary { cursor:pointer; color:var(--muted); font-size:.9rem; margin:0 0 .6rem; }
 details.people .speakers { margin-bottom:.5rem; }
@@ -196,7 +220,9 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:1rem; max-height:calc(100vh - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
-  .para, .seg-head { scroll-margin-top:1.5rem; }
+  .para, .seg-head, .js .transcript { scroll-margin-top:1.5rem; }
+  .js .watch-next { display:block; }
+  .js .layout.reading .watch-next { display:none; }
 }
 a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space:nowrap; opacity:.75; }
 a.suggest:hover { opacity:1; color:var(--accent); }
@@ -237,9 +263,11 @@ PAGE_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Techspressionism Video Archive</title>
 <link rel="stylesheet" href="style.css">
+<script>document.documentElement.className+=" js"</script>
 </head>
 <body>
 <header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a></strong>
+{topnav}
 <form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
 <main class="watch-page">
 <article data-pagefind-body>
@@ -259,9 +287,13 @@ PAGE_TMPL = """<!doctype html>
 </p>
 {speakers}
 {flags}
+<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript" data-pagefind-ignore>Read transcript</button>
 </div>
+<div class="right">
+{watch_next}
 <div class="transcript" id="transcript">
 {segments}
+</div>
 </div>
 </div>
 </article>
@@ -319,8 +351,24 @@ def build_player(entry):
 
 PLAYER_JS = """<script>
 (function () {
-  var people = document.querySelector('details.people');
-  if (people && window.innerWidth < 1024) people.removeAttribute('open');   // narrow screens: the transcript comes first
+  var layout = document.querySelector('.layout'), btn = document.getElementById('read-btn');
+  function reading(on, scroll) {
+    layout.classList.toggle('reading', on);
+    btn.setAttribute('aria-expanded', String(on));
+    btn.textContent = on ? 'Hide transcript' : 'Read transcript';
+    if (on && scroll) document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  if (btn) {
+    btn.addEventListener('click', function () { reading(!layout.classList.contains('reading'), true); });
+    function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
+      var id = location.hash.slice(1), el = id && document.getElementById(id);
+      if (el && document.getElementById('transcript').contains(el)) { reading(true, false); el.scrollIntoView(); }
+    }
+    fromHash();
+    window.addEventListener('hashchange', fromHash);
+    var cur = document.querySelector('.watch-next li.cur'), list = cur && cur.parentElement;
+    if (list && list.clientHeight) list.scrollTop = cur.offsetTop - list.clientHeight / 2;
+  }
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
@@ -387,7 +435,26 @@ def emphasize(escaped):
     return re.sub(r"(?<![\w_])_(?=[^\s_])(.+?)(?<=[^\s_])_(?![\w_])", r"<em>\1</em>", escaped)
 
 
-def build_session_page(entry):
+def build_watch_next(entry, siblings):
+    """Desktop sidebar (TED's 'Watch next' spot): every recording of the same type, newest first.
+    Replaced by the transcript when 'Read transcript' is pressed."""
+    info = TYPES[entry.get("type", "salon")]
+    rows = []
+    for x in siblings:
+        when = fmt_date(x.get("date_recorded"))
+        when = f"published {when}" if date_is_estimate(x) else when
+        current = x is entry
+        li_class = ' class="cur"' if current else ""
+        aria = ' aria-current="page"' if current else ""
+        title = e(x.get("session_title") or "Untitled")
+        rows.append(
+            f'<li{li_class}><a href="{slug(x)}.html"{aria}>'
+            f'<span class="num">#{x["number"]}</span>{title}'
+            f'<span class="d">{e(when)}</span></a></li>')
+    return f'<aside class="watch-next" data-pagefind-ignore><h2>All {e(info["plural"])}</h2><ul>' + "".join(rows) + "</ul></aside>"
+
+
+def build_session_page(entry, siblings=()):
     number = entry["number"]
     video_id = entry["video_id"]
     url = entry["url"]
@@ -408,7 +475,7 @@ def build_session_page(entry):
         country_tags = "".join(
             f'<span data-pagefind-filter="country:{facet(c)}" hidden></span>' for c in countries
         )
-        speakers_html = (f'<details class="people" open><summary>Participants ({len(speakers)})</summary>'
+        speakers_html = (f'<details class="people"><summary>Participants ({len(speakers)})</summary>'
                          f'<ul class="speakers">{sp_items}</ul>{country_tags}</details>')
     else:
         speakers_html = ""
@@ -471,6 +538,8 @@ def build_session_page(entry):
         participants=e(participants_line(entry)),
         date_word="published" if date_is_estimate(entry) else "recorded",
         player=build_player(entry),
+        watch_next=build_watch_next(entry, siblings) if siblings else "",
+        topnav=TOPNAV,
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -504,6 +573,7 @@ INDEX_TMPL = """<!doctype html>
 </head>
 <body>
 <header class="site"><div class="wrap"><strong>Techspressionism Video Archive</strong>
+{topnav}
 <span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
 <p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video: the monthly
@@ -668,6 +738,7 @@ def build_index(corpus):
         typebar="".join(buttons),
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
+        topnav=TOPNAV,
     )
 
 
@@ -679,8 +750,11 @@ def main():
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE)
     (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus)))
+    by_type = {}
+    for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
+        by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
-        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry)))
+        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')])))
 
     THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
     copied = 0
