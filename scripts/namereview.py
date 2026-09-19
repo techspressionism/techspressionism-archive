@@ -5,7 +5,7 @@ confirms who is who.
 
     python3 scripts/namereview.py                 # then open http://127.0.0.1:8765
     python3 scripts/namereview.py --port 9000
-    python3 scripts/namereview.py --host 100.x.y.z    # e.g. this Mac's Tailscale address, to use it from a phone
+    python3 scripts/namereview.py --host <private address>   # only an address that nobody but you can reach
 
 Serves only on this Mac by default. There is no login: bind to an address only you can reach.
 

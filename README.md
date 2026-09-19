@@ -2,7 +2,7 @@
 
 A searchable, citable transcript archive of the Techspressionism YouTube channel. See [archive_claude_code_spec.txt](archive_claude_code_spec.txt) for the full build spec.
 
-**Full manual (procedures, tools, review apps): [docs/Techspressionism-Archive-Manual.md](docs/Techspressionism-Archive-Manual.md).** Parts of this README date from the first build and are superseded by it where they differ.
+**Guide for readers and editors: [docs/Techspressionism-Archive-Manual.md](docs/Techspressionism-Archive-Manual.md).** Parts of this README date from the first build and may be out of date.
 
 ## Status
 

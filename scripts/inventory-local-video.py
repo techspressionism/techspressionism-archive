@@ -117,7 +117,7 @@ def main():
     with open(OUT_JSON, "w") as f:
         json.dump(
             {
-                "source_dir": str(Path(base_dir).expanduser()),
+                "source_dir": str(Path(base_dir).expanduser()).replace(str(Path.home()), "~", 1),   # not this machine's home folder
                 "sessions": sessions,
                 "other_dirs": other_dirs,
             },

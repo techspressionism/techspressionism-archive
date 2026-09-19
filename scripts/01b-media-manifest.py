@@ -22,6 +22,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LOCAL_VIDEO = Path.home() / "Documents" / "~TECHSPRESSIONISM" / "VIDEO"
+
+
+def tilde(path):
+    """Paths are stored as ~/... so the committed data does not carry this machine's home folder."""
+    return str(path).replace(str(Path.home()), "~", 1)
+
 CHANNEL_PATH = ROOT / "raw" / "channel.json"
 MEDIA_JSON_DIR = ROOT / "raw" / "media_json"
 MANIFEST_PATH = ROOT / "data" / "media-manifest.json"
@@ -99,7 +105,7 @@ def find_local(item, duration):
                 folder = LOCAL_VIDEO / "INTERVIEWS" / f
     if not folder or not folder.is_dir():
         return {}
-    out = {"local_dir": str(folder)}
+    out = {"local_dir": tilde(folder)}
     vtts = sorted(folder.rglob("*.transcript.vtt"))
     best = None
     for v in vtts:
@@ -107,7 +113,7 @@ def find_local(item, duration):
         if duration and gap <= 0.15 * duration and (best is None or gap < best[0]):
             best = (gap, v)
     if best:
-        out["local_transcript"] = str(best[1])
+        out["local_transcript"] = tilde(best[1])
         out["local_date"] = zoom_local_datetime(best[1].name)
     else:
         stamps = sorted(filter(None, (zoom_local_datetime(f.name) for f in folder.rglob("GMT*"))))
