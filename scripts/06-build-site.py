@@ -203,15 +203,15 @@ h1 .topic { color:var(--muted); font-weight:400; }
 .speakers .country { color:var(--muted); }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
-.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(56.25vw + 1rem); }
+.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
 .read-btn { display:none; width:100%; margin:0 0 1.2rem; padding:.85rem 1rem; border:2px solid var(--accent); border-radius:.4rem; background:var(--accent);
             color:#fff; font:inherit; font-size:1.05rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
 .read-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn[aria-expanded="true"] { background:#fff; color:var(--accent); }
 .read-btn[aria-expanded="true"]:hover { background:#fff0f0; }
-.js .read-btn { display:block; }
-.js .transcript { display:none; scroll-margin-top:calc(56.25vw + 1rem); }
+.js .read-btn { display:block; position:sticky; top:var(--player-h, 56.25vw); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
+.js .transcript { display:none; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
@@ -241,8 +241,8 @@ main.watch-page { max-width:84rem; }
 .player-frame .bigplay { position:absolute; left:50%; top:50%; width:4.2rem; height:4.2rem; margin:-2.1rem 0 0 -2.1rem; border-radius:50%; background:rgba(240,240,240,.92); display:flex; align-items:center; justify-content:center; transition:transform .15s; }
 .player-frame .poster:hover .bigplay, .player-frame .poster:focus-visible .bigplay { transform:scale(1.08); }
 .player-frame .bigplay svg { width:1.5rem; height:1.7rem; margin-left:.25rem; fill:#111; }
-.para { margin:0 0 1.5rem; scroll-margin-top:calc(56.25vw + 1rem); }
-h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(56.25vw + 1rem); }
+.para { margin:0 0 1.5rem; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
+h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
@@ -256,6 +256,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .side { display:block; position:sticky; top:1rem; max-height:calc(100vh - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
+  .js .read-btn { position:static; box-shadow:none; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
 }
@@ -397,6 +398,10 @@ PLAYER_JS = """<script>
     btn.textContent = on ? 'Hide transcript' : 'Read transcript';
     if (on && scroll) document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
+  var pbox = document.getElementById('player-box');
+  function sizePlayer() { if (pbox) document.documentElement.style.setProperty('--player-h', pbox.offsetHeight + 'px'); }
+  sizePlayer(); window.addEventListener('resize', sizePlayer);
+  if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
   if (btn) {
     btn.addEventListener('click', function () { reading(!layout.classList.contains('reading'), true); });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
@@ -458,7 +463,7 @@ PLAYER_JS = """<script>
     if (i < 0) return;
     paras[i].classList.add('active');
     if (follow && Date.now() - lastUser > 4000) {
-      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? box.getBoundingClientRect().bottom : 0;
+      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : 0;
       if (r.top < top + 40 || r.bottom > window.innerHeight - 40) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
     }
   }
