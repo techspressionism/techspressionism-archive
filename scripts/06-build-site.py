@@ -630,7 +630,7 @@ INDEX_TMPL = """<!doctype html>
 {topnav}
 <span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
-<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video</p>
+<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">It holds the monthly <a href="https://techspressionism.com/Salon">Techspressionist Salon</a> (running since September 2020), artist
 <a href="https://techspressionism.com/interviews/">interviews</a>, <a href="https://techspressionism.com/roundtable/">roundtables</a>,
