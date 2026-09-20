@@ -21,6 +21,7 @@ ROOT = HERE.parent
 sys.path.insert(0, str(HERE))
 from lib_sentences import split_sentences  # noqa: E402
 from lib_speakers import canonical_name  # noqa: E402
+from lib_voicehints import resolve as resolve_hints, set_hint  # noqa: E402
 
 NAME = r"([A-Z][A-Za-zÀ-ɏ'’.-]+(?:\s+(?:[A-Z][A-Za-zÀ-ɏ'’.-]+|de|van|von|da|del|la|le|di|bin|al)){0,3})"
 PATTERNS = [       # the lead-in words ignore capitals; the NAME itself must be capitalised like a name
@@ -75,8 +76,7 @@ def main():
             continue
         d = json.loads(path.read_text())
         for info in d["voices"].values():
-            if str(info.get("why", "")).startswith("introduces themselves"):
-                info.update({"candidate": None, "tier": "none", "why": "no Nametag readings for this recording"})
+            set_hint(info, "intro", None, "")
         found = {}
         if not undo and slug in corpus:
             full, listed = lexicon(slug, sessions[slug])
@@ -101,10 +101,12 @@ def main():
             for voice, hits in found.items():
                 names = {n for n, _, _ in hits}
                 info = d["voices"][voice]
-                if len(names) == 1 and info.get("tier", "none") in ("none", "single") and not info.get("name"):
+                if len(names) == 1:
                     n, t, txt = hits[0]
-                    info.update({"candidate": n, "tier": "single", "why": f"introduces themselves: \"{txt}\" ({t // 60}:{t % 60:02d})" + (f" and {len(hits) - 1} more time(s)" if len(hits) > 1 else "")})
+                    set_hint(info, "intro", n, f"\"{txt}\" ({t // 60}:{t % 60:02d})" + (f" and {len(hits) - 1} more time(s)" if len(hits) > 1 else ""))
                     total_named += 1
+        for info in d["voices"].values():
+            resolve_hints(info)
         total_rec += 1
         path.write_text(json.dumps(d, indent=1, ensure_ascii=False))
     print(f"{'hints removed' if undo else str(total_named) + ' voices named by their own introductions'} across {total_rec} recordings")

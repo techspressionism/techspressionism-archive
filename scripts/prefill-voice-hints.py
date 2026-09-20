@@ -13,6 +13,9 @@ import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_voicehints import resolve, set_hint  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 WHY = {"interviewee": "guess: in an interview the voice that speaks most is usually the interviewee",
        "interviewer": "guess: in an interview the voice that speaks second most is usually the interviewer"}
@@ -33,13 +36,14 @@ def main():
             if not info.get("seconds"):
                 info["seconds"] = round(secs.get(v, 0), 1)
         for info in d["voices"].values():
-            if str(info.get("why", "")).startswith("guess:"):
-                info.update({"candidate": None, "tier": "none", "why": "no Nametag readings for this recording"})
+            set_hint(info, "role", None, "")
         if not undo and path.stem.startswith("interview-"):
             for role, name, voice in (("interviewee", s.get("interviewee"), ranked[0] if ranked else None),
                                       ("interviewer", s.get("interviewer"), ranked[1] if len(ranked) > 1 else None)):
-                if name and voice and d["voices"][voice].get("tier", "none") == "none":
-                    d["voices"][voice].update({"candidate": name, "tier": "single", "why": WHY[role]})
+                if name and voice:
+                    set_hint(d["voices"][voice], "role", name, WHY[role])
+        for info in d["voices"].values():
+            resolve(info)
         path.write_text(json.dumps(d, indent=1, ensure_ascii=False))
         changed += 1
     print(f"{'removed hints from' if undo else 'hints set on'} the interviews; speaking times filled in on {changed} recordings")

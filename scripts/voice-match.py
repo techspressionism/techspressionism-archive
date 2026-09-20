@@ -26,6 +26,9 @@ from pathlib import Path
 
 import numpy as np
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_voicehints import resolve, set_hint  # noqa: E402
+
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 STORE = ROOT / "private" / "voiceprints"
@@ -198,15 +201,14 @@ def main():
             vecs = get_cached(d03, stage3, emb, torch, sessions[slug], slug, person)
             sims = sorted(((float(v @ c), k) for k, v in vecs.items()), reverse=True)
             for info in d["voices"].values():
-                if str(info.get("why", "")).startswith("voice match"):
-                    info.update({"candidate": None, "tier": "none", "why": "no Nametag readings for this recording"})
+                set_hint(info, "voice", None, "")
             hit = None
             if sims and sims[0][0] >= prof["threshold"] and (len(sims) == 1 or sims[0][0] - sims[1][0] >= prof["gap"]):
                 hit = sims[0][1]
-                info = d["voices"][hit]
-                if info.get("tier", "none") in ("none", "single") and not info.get("name"):
-                    info.update({"candidate": prof["person"], "tier": "single",
-                                 "why": f"voice match: sounds like {prof['person']} (similarity {sims[0][0]:.2f}; the next voice {sims[1][0] if len(sims) > 1 else 0:.2f})"})
+                set_hint(d["voices"][hit], "voice", prof["person"],
+                         f"sounds like {prof['person']}; similarity {sims[0][0]:.2f}, the next voice {sims[1][0] if len(sims) > 1 else 0:.2f}")
+            for info in d["voices"].values():
+                resolve(info)
             path.write_text(json.dumps(d, indent=1, ensure_ascii=False))
             print(f"{slug}: {'suggested ' + hit + f' ({sims[0][0]:.2f})' if hit else 'no confident match'}"
                   f"{'' if not sims else f' [best {sims[0][0]:.2f}' + (f', next {sims[1][0]:.2f}' if len(sims) > 1 else '') + ']'}", flush=True)
