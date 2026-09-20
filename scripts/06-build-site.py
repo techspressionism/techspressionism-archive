@@ -647,7 +647,7 @@ INDEX_TMPL = """<!doctype html>
 <span class="d"><span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. {hours:,} hours recorded.</p>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. {hours:,} hours transcribed.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
