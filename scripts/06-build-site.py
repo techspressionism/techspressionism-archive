@@ -575,8 +575,9 @@ var CITE_FORMATS = [["chicago", "Chicago"], ["mla", "MLA"], ["apa", "APA"], ["bi
 var CITE_MONTHS_LONG = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 var CITE_MONTHS_MLA = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
 var CITE_NL = String.fromCharCode(10), CITE_BS = String.fromCharCode(92);
-function citeStored() { try { var v = localStorage.getItem("tvaCiteFormat"); if (v) return v; } catch (e) {} return "chicago"; }
-function citeStore(v) { try { localStorage.setItem("tvaCiteFormat", v); } catch (e) {} }
+var citeMem = null;     // kept in the page too, so the choice holds all visit long even where the browser refuses storage
+function citeStored() { if (citeMem) return citeMem; try { var v = localStorage.getItem("tvaCiteFormat"); if (v) return v; } catch (e) {} return "chicago"; }
+function citeStore(v) { citeMem = v; try { localStorage.setItem("tvaCiteFormat", v); } catch (e) {} }
 function citeEsc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
 function citeHms(sec) { sec = Math.floor(sec || 0); var t = function (n) { return String(n).padStart(2, "0"); }; return t(Math.floor(sec / 3600)) + ":" + t(Math.floor(sec % 3600 / 60)) + ":" + t(sec % 60); }
 function citeYMD(iso) { var p = (iso || "").split("-").map(Number); return { y: p[0] || 0, m: p[1] || 0, d: p[2] || 0 }; }
@@ -607,7 +608,7 @@ function citeFormats(i) {
   return { chicago: i.chicago || who + ', "' + title + '," ' + pub + ", " + (p.y ? citeDateLong(p) : "n.d.") + ", streaming video, " + ts + ", " + url + ".", mla: mla, apa: apa, bibtex: bib, ris: ris };
 }
 function citeFormatSelect(current) {
-  return '<div class="cite-format"><label>Format: <select class="cite-format-select" aria-label="Citation format">' +
+  return '<div class="cite-format"><label>Citation Format: <select class="cite-format-select" aria-label="Citation Format">' +
     CITE_FORMATS.map(function (f) { return '<option value="' + f[0] + '"' + (f[0] === current ? " selected" : "") + ">" + f[1] + "</option>"; }).join("") + "</select></label></div>";
 }
 // a web address inside a citation becomes a link (Copy Citation still copies plain text)
@@ -717,9 +718,9 @@ PLAYER_JS = """<script>
       var cinfo = { speaker: citeText.split(', "')[0], series: pdata.series, topic: pdata.topic, date: pdata.date, seconds: citeAt,
                     url: (pdata.youtube || '') + '&t=' + Math.floor(citeAt) + 's', chicago: citeText };
       card.setAttribute('data-cite', JSON.stringify(cinfo));
-      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>' + citeFormatSelect(citeStored())
+      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
         + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
-        + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>';
+        + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>' + citeFormatSelect(citeStored());
       citeApply(card);
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
@@ -1102,10 +1103,10 @@ function citationBlock(c) {{
   const here = page + "?play=1&at=" + c.at.toFixed(2) + (c.to != null ? "&to=" + c.to.toFixed(2) : "")
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
   return '<div class="citation-info" data-cid="' + c.id + '" data-cite="' + escapeHtml(JSON.stringify(info)) + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
-    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>' + citeFormatSelect(fmt)
+    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
     + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
-    + '</div></div>';
+    + '</div>' + citeFormatSelect(fmt) + '</div>';
 }}
 
 const timesCache = new Map();
