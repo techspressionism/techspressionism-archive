@@ -307,9 +307,10 @@ a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space
 a.suggest:hover { opacity:1; color:var(--accent); }
 /* index */
 .sessions { list-style:none; padding:0; margin:.3rem 0 0; }
-.sessions li { border-bottom:1px solid var(--line); padding:.7rem 0; }
-.sessions .num { display:inline-block; min-width:3.2rem; color:var(--muted); font-variant-numeric:tabular-nums; }
-.sessions .d { color:var(--muted); font-size:.9rem; }
+.sessions li { display:flex; gap:.6rem; border-bottom:1px solid var(--line); padding:.7rem 0; }
+.sessions .num { flex:none; min-width:2.6rem; color:var(--muted); font-variant-numeric:tabular-nums; }
+.sessions .body { min-width:0; }
+.sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
 .reccount { margin:.2rem 0 .6rem; color:var(--muted); }
 #search .pagefind-ui__form { display:none; }   /* the header search box replaces the widget's own input */
@@ -994,9 +995,9 @@ def build_index(corpus):
             when = fmt_date(entry.get("date_recorded"))
             when = f"published {when}" if date_is_estimate(entry) else when
             rows.append(
-                f'<li><a href="{slug(entry)}.html">'
-                f'<span class="num">#{entry["number"]}</span> {e(topic)}</a>{by} '
-                f'<span class="d">{e(when)}</span></li>'
+                f'<li><span class="num">#{entry["number"]}</span>'
+                f'<span class="body"><a href="{slug(entry)}.html">{e(topic)}</a>{by}'
+                f'<span class="d">{e(when)}</span></span></li>'
             )
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
