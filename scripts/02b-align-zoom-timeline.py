@@ -11,6 +11,9 @@ transcript has to move.
     python3 scripts/02b-align-zoom-timeline.py salon-094 salon-103
     python3 scripts/02b-align-zoom-timeline.py            # every Zoom-transcript recording
 
+When a Whisper transcript exists for the recording (raw/whisper/<slug>.json) it is used as the reference instead of
+YouTube's captions: it is exact, and it found shifts of 7-24 seconds that the caption comparison had missed.
+
 Writes raw/timeline/<slug>.json ({"shifts": [[zoom_start_seconds, shift_seconds], ...]},
 a step function: from each zoom_start onward, add shift). Stage 2 applies it.
 A recording with no shift needed gets an empty list. Recordings whose alignment
@@ -146,13 +149,19 @@ def main():
     for s in sessions:
         sl = slug(s)
         vtts = sorted(glob.glob(str(ROOT / "raw" / "captions" / sl / "*.vtt")))
-        if not vtts:
-            print(f"{label(s)}: no YouTube captions -- cannot align this way")
+        whisper_path = ROOT / "raw" / "whisper" / f"{sl}.json"
+        if not vtts and not whisper_path.exists():
+            print(f"{label(s)}: no YouTube captions and no Whisper transcript -- cannot align this way")
             continue
         cues = json.load(open(ROOT / "raw" / "transcripts" / f"{sl}.json"))["cues"]
         # Stage 2 may already have shifted these; always align from the original Zoom times
         cues = [{**c, "start": c.get("orig_start", c["start"]), "end": c.get("orig_end", c.get("end"))} for c in cues]
-        _, _, yt = stage2.parse_youtube_captions(Path(vtts[0]).read_text(errors="replace"))
+        if whisper_path.exists():
+            # Whisper (checked against the video by check-whisper-alignment.py) is a far cleaner reference than YouTube's
+            # automatic captions: words are exact, so this finds the small and the large shifts alike.
+            yt = [(w["start"], w["text"]) for w in json.loads(whisper_path.read_text())["words"]]
+        else:
+            _, _, yt = stage2.parse_youtube_captions(Path(vtts[0]).read_text(errors="replace"))
         yt_words = [(t, w) for t, w in ((t, re.sub(r"[^a-z']", "", w.lower())) for t, w in yt) if w]
         anchors = find_anchors(zoom_words(cues), yt_words)
         if len(anchors) < MIN_ANCHORS:

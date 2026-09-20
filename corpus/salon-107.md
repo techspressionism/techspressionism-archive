@@ -15,21 +15,21 @@ flags:
   - speaker_index_missing
 ---
 
-## Colin Goldberg [-1:59:53](https://www.youtube.com/watch?v=xm747MwGbiA&t=-7s)
+## Colin Goldberg [00:03](https://www.youtube.com/watch?v=xm747MwGbiA&t=3s)
 
 Is it recording? I think it's recording, okay. Usually it says recording has started, but… I'll edit that part out. Hi everyone, my name is Colin Goldberg, and I'm a Techspressionist. I am zooming in from North Bennington, Vermont, in my brand new studio space, which I'm very excited about. And today, we have a new format for the salon. It is called New Artists. And, what it consists of is, a set of four artists that were recently added to the Techspressionist Visual Artist Index, which is on our site. And that index spans over 350 artists from more than 45 countries, and Today, we have a very geographically diverse group, as well as, you know, a diverse group in terms of the way that the various artists practice and use technology in their work.
 
 So, without further ado, I am going to, get the ball rolling with our first artist, Tina Anderson, who is, zooming in from Moscow. So, Tina, the floor is yours.
 
-## Tina Anderson [01:00](https://www.youtube.com/watch?v=xm747MwGbiA&t=60s)
+## Tina Anderson [01:10](https://www.youtube.com/watch?v=xm747MwGbiA&t=70s)
 
 Hello, everyone! Yes, I'm Moscow-based, but now I'm countryside, as you can see. If you don't mind, I can share in the screen, okay?
 
-## Colin Goldberg [01:12](https://www.youtube.com/watch?v=xm747MwGbiA&t=72s)
+## Colin Goldberg [01:22](https://www.youtube.com/watch?v=xm747MwGbiA&t=82s)
 
 Absolutely.
 
-## Tina Anderson [01:13](https://www.youtube.com/watch?v=xm747MwGbiA&t=73s)
+## Tina Anderson [01:24](https://www.youtube.com/watch?v=xm747MwGbiA&t=84s)
 
 Okay, now, here we go. I build sacred machinery from worlds what I have lost their creator. This is my philosophy. That's how it looks like. I work as a visual architect and digital stenographer,. I see the world as a nation built by a creator who left us without any instruction. Three worlds. The upper worlds, this is a sleeping goddess, holding an armadaris Fair. The city leaves, because she breathes. She doesn't know it. The middle world, it's, the world between everything. Things change, and nothing is certain.
 
@@ -49,15 +49,15 @@ The twins wants to be separate. I serve… The big tragedy, they can met. It's t
 
 And we just rebuilt the form, with IE. So… I think it's very, very fun, but it's the final. I want to show a special work. I build it without any old artif… oh, sorry, my bad English. It's, it's a word for, Leroy Tarnhill from Prodigy. He plays here in Moscow and St. Petersburg. So, I'll create something in Giger style with my machines. I think it's fun, and it's so much, Fantasy you can create with IE, and something new and something old. Okay… Okay… I'm back. Sorry if it's so, it's my first time from a very long time, with, English, and I'm just a little bit nervous.
 
-## Colin Goldberg [09:48](https://www.youtube.com/watch?v=xm747MwGbiA&t=588s)
+## Colin Goldberg [09:59](https://www.youtube.com/watch?v=xm747MwGbiA&t=599s)
 
 Alright, awesome. Well, thanks so much. You can, I guess, stop your screen share now if you want.
 
-## Tina Anderson [09:55](https://www.youtube.com/watch?v=xm747MwGbiA&t=595s)
+## Tina Anderson [10:06](https://www.youtube.com/watch?v=xm747MwGbiA&t=606s)
 
 Thank you.
 
-## Colin Goldberg [09:57](https://www.youtube.com/watch?v=xm747MwGbiA&t=597s)
+## Colin Goldberg [10:07](https://www.youtube.com/watch?v=xm747MwGbiA&t=607s)
 
 Excellent. Let's see….
 
@@ -67,7 +67,7 @@ Her work is inspired by the sacred and technological, where ritual, myth, archit
 
 Protocol. So, the next artist is Fawn, who is zooming in from Erskineville, which is, I believe a suburb of Sydney, Australia. So with that, I will pass the mic over to Fawn. Welcome.
 
-## Fahn [11:44](https://www.youtube.com/watch?v=xm747MwGbiA&t=704s)
+## Fahn [11:55](https://www.youtube.com/watch?v=xm747MwGbiA&t=715s)
 
 Hello, everybody.
 
@@ -95,7 +95,7 @@ So… As an architect, I was focused on prefabrication, 3D printing of buildings
 
 With this huge machine, which is trying to convert to feet. It's about 92 feet by… 24 feet by… What's that? 5… 15 feet tall. So, it's a huge machine, you can see on the left. The process, up the top, and then that was used for the Elizabeth Line, which is used for the, London Underground. So, that's the end of my talk. Thank you. If you're interested in learning more, see the links, below the image. I look forward to your questions, if you have any later on.
 
-## Colin Goldberg [21:37](https://www.youtube.com/watch?v=xm747MwGbiA&t=1297s)
+## Colin Goldberg [21:48](https://www.youtube.com/watch?v=xm747MwGbiA&t=1308s)
 
 All right. Thanks so much, Vaughn. That was a really fascinating, presentation. And just the multidisciplinary aspects of your career, I think are, you know, something I identify with. I also am a designer, in addition to doing my artwork, and I think those two sides inform each other considerably. And also, the, switching back and forth between analog and digital media. I do, you know, sort of a similar process. Not with CNC, but, with painting, kind of the two… Things I'll… I'll paint, and then run them through a printer, and then… Paint again and back and forth, and it becomes sort of like a dialogue between the digital and the analog, and capturing the analog through photography and bringing it into the computer. And, more recently, I've started to work with a plotter, so it's no inkjet, it's just ink, basically, you know, drawing on top of, Like, ink wash and stuff like that, and I think it's interesting to use technology and computers to create work that is not quote-unquote digital art. That was actually sort of, a point of, Contention between myself and actually the digital art curator of the Whitney Museum, believe it or not, who was on one of our roundtable discussions, and she insisted that sculpture created with technology was actually digital art, and I had to disagree with her in that I would consider it sculpture. So, there's different viewpoints.
 
@@ -103,17 +103,17 @@ On that, but this sort of dichotomy is really something that led me to the idea 
 
 And, you know, we will hold our questions to the end, but I'm sure some people will have Questions. So, moving on, we have Mario Viele, VLA, from, Brooklyn. So, Mario, take it away.
 
-## Mario Viele [24:05](https://www.youtube.com/watch?v=xm747MwGbiA&t=1445s)
+## Mario Viele [24:15](https://www.youtube.com/watch?v=xm747MwGbiA&t=1455s)
 
 Thanks, Colin. It's great to be here. Let's hope for all our sakes I can find my words today. I've been to a couple of salons, but I usually can't make it for the live ones. I've seen, more on YouTube, even, and… I've seen a lot of Techspressionists' work. Y'all make amazing work. And I'm really stoked to be here. And for those of you that I don't know yet, or haven't followed yet, I look forward to seeing your work. I think… Like, the internet gets less cool in so many ways, and it's cool that, A global artist community is, like, one kind of amazing thing that's happening in the modern internet.
 
 So… Cheers to that. Okay, hopefully, my screen share is working. And there are some images on the screen. And.
 
-## Colin Goldberg [24:55](https://www.youtube.com/watch?v=xm747MwGbiA&t=1495s)
+## Colin Goldberg [25:05](https://www.youtube.com/watch?v=xm747MwGbiA&t=1505s)
 
 Yep.
 
-## Mario Viele [24:55](https://www.youtube.com/watch?v=xm747MwGbiA&t=1495s)
+## Mario Viele [25:06](https://www.youtube.com/watch?v=xm747MwGbiA&t=1506s)
 
 That you all can hear me. So, these are, 3 things I've posted in the last 3 days. I… Post… Abstract, kind of, Glitchy, colorful images to Instagram every day. And I make them on my phone with a bunch of, kind of. Simple and crude and cheap apps, a lot of even, like, DIY apps people have made, and I thought it would be interesting to kind of talk about Getting here, because it all was a big accident, and was not intended to happen, or not supposed to happen.
 
@@ -155,13 +155,13 @@ These Titanic-trained musicians, and, you know, you could only imagine being one
 
 And you just get to move on with it. So, just that simplicity of it, is… Kind of… a core essence of it. So, anyway, that's pretty much… What I'm doing over there. So, yeah, thanks, everybody.
 
-## Colin Goldberg [39:26](https://www.youtube.com/watch?v=xm747MwGbiA&t=2366s)
+## Colin Goldberg [39:36](https://www.youtube.com/watch?v=xm747MwGbiA&t=2376s)
 
 Alright, thanks so much, Mario. Really enjoyed that. And, again, I forgot that, to even read Fawn's Text. I guess I'm just, like, losing my… my reading abilities. I always just… I'll take the excuse of Andy Warhol's quote, I never read, I just look at the pictures, and I like that. I could subscribe to that. So, maybe I'll do, like, a recap after all four, artists have presented, and I'll read all the statements, and then open it up, just so you guys will have a little reminder.
 
 Awesome. So, the last, but not least, presenter is Bo Tardy, and he is Zooming in from Houston, Texas, so I will hand the mic over to Bo.
 
-## Beau Tardy [40:15](https://www.youtube.com/watch?v=xm747MwGbiA&t=2415s)
+## Beau Tardy [40:25](https://www.youtube.com/watch?v=xm747MwGbiA&t=2425s)
 
 Yes, thank you very much, Colin, and great presentations. Love to see that, and also… Love to be… Included in a group of… People who are exploring, you know, the intersection of technology and art, I think it's been a long time coming. And, it's sort of something that I saw coming a long time ago, and… Kind of been… I've made up this joke. I've been standing at the intersection of art and technology for a long time, waiting for the light to change.
 
@@ -183,9 +183,7 @@ Early on, while studying illustration and painting in art school, and getting my
 
 That meant staying overnight or on weekends to get access to the machine. I started making my own computer video art. Behold, I was afraid!
 
-Among the Republicans. And he wasn't written. And he starts to see Jesus! Who he was. Could you knock for the press. Because with little upset.
-
-And he ran before and slammed up into a sycamore tree to see Jesus. But he wants to pass… that way. When David came to the place! This is the work that ultimately got me a job at MTV.
+Among the Republicans. And he wasn't written. And he starts to see Jesus! Who he was. Could you knock for the press. Because with little upset. And he ran before and slammed up into a sycamore tree to see Jesus. But he wants to pass… that way. When David came to the place! This is the work that ultimately got me a job at MTV.
 
 MTV's Real World Marathon. Seven episodes back-to-back. Saturday morning at 11.30. MTV's Real World Marathon. Now play on a TV set near you, the MTV Movie Awards. And now your host, Dennis Miller. At MTV, I did graphics for Yo MTV Raps, The Real World, MTV News, and Promos.
 
@@ -209,25 +207,25 @@ Is this real? Is this art? Ask me any question. I may be artificial, but I am in
 
 Alright, that's it. Thanks so much for watching.
 
-## Colin Goldberg [52:21](https://www.youtube.com/watch?v=xm747MwGbiA&t=3141s)
+## Colin Goldberg [52:47](https://www.youtube.com/watch?v=xm747MwGbiA&t=3167s)
 
 Awesome. Very cool. Yeah, I was sharing with the group before we started recording that, I lived a couple blocks away from Beau in, probably a decade after he was there. I don't know how long… Beau, how long were you living, like, down, downtown? Like, were the… was that public access show made, like, you were still down there in the late 90s?
 
-## Beau Tardy [52:46](https://www.youtube.com/watch?v=xm747MwGbiA&t=3166s)
+## Beau Tardy [53:12](https://www.youtube.com/watch?v=xm747MwGbiA&t=3192s)
 
 Yeah, I was. I, went to art school in the 80s, and that's when I first lived in the East Village, and then I, Moved back to New York in the 90s, and that's when I started my… working at MTV, obviously, and then I started working, With my own motion design company. And I, simultaneously did my public access show so, yeah, the 90s, the whole 90s. I was living, First in the East Village, then, as I got a little bit older, I was making a little bit more money, we moved over to, Varric Street, which is sort of Soho, I guess you would call it.
 
 So I… I was an artist, I got to move to SoHo, yay! I graduated from the East Village to SoHo.
 
-## Colin Goldberg [53:40](https://www.youtube.com/watch?v=xm747MwGbiA&t=3220s)
+## Colin Goldberg [54:05](https://www.youtube.com/watch?v=xm747MwGbiA&t=3245s)
 
 That's wild. Well, that's… that's… that's awesome. Yeah, the 90s drum and bass definitely took me back. There were a lot of UK DJs coming through New York at that time, and that was really… Yeah, very fond memories of that. So, yeah.
 
-## Beau Tardy [53:53](https://www.youtube.com/watch?v=xm747MwGbiA&t=3233s)
+## Beau Tardy [54:19](https://www.youtube.com/watch?v=xm747MwGbiA&t=3259s)
 
 I used to play it all the time on the… the whole point of the show was to play new music, and so electro, electronic music, electronica, drum and bass, that was… we broke a bunch of… Artists, actually. I interviewed a bunch of artists that were coming over from Europe and everything. I just showed you, obviously, just a little piece of one of the shows, but… it was a lot of fun.
 
-## Colin Goldberg [54:24](https://www.youtube.com/watch?v=xm747MwGbiA&t=3264s)
+## Colin Goldberg [54:50](https://www.youtube.com/watch?v=xm747MwGbiA&t=3290s)
 
 Awesome, yeah, we will have to continue this conversation about our parallel paths, in downtown. That's great. So, and also with Fawn. I actually lived in Sydney for a little while when I was a kid, so it's really interesting how, you know, all these paths sort of intertwine. So I'm going to go ahead and re-read, or re-read, Tina's, and then kind of go through The bios really quick, and then we'll open it up. So, a recap. Tina Anderson is a cultural historian and visual architect, using AI-assisted image-making to realize dark mechanical worlds. Her work is inspired by the sacred and the technological, where ritual, myth, architecture, and artificial bodies intersect.
 
@@ -239,43 +237,43 @@ Alright. Hopefully I pronounced that properly. I like the isms, though. So, we a
 
 All right, well, I'm gonna start one. Oh, no, we got one here. There's a motion sensor in the hallway, hence… there is light. Got a question from Clayton Campbell. Yeah, I'm…
 
-## Clayton Campbell [57:28](https://www.youtube.com/watch?v=xm747MwGbiA&t=3448s)
+## Clayton Campbell [57:54](https://www.youtube.com/watch?v=xm747MwGbiA&t=3474s)
 
 Hi, everybody. Forgive me for not being, Live on video. I just am really tired of looking at myself today. However, Tina, I wanted to ask you just a simple question, and if you… if you'd care to share some of the visual applications you're working with, if that's all right?
 
-## Tina Anderson [57:50](https://www.youtube.com/watch?v=xm747MwGbiA&t=3470s)
+## Tina Anderson [58:16](https://www.youtube.com/watch?v=xm747MwGbiA&t=3496s)
 
 Yes, sure. But my English is very basic, sorry.
 
-## Clayton Campbell [57:55](https://www.youtube.com/watch?v=xm747MwGbiA&t=3475s)
+## Clayton Campbell [58:21](https://www.youtube.com/watch?v=xm747MwGbiA&t=3501s)
 
 So my, my, my understanding of English is fairly basic, too, so don't worry, you know.
 
-## Tina Anderson [58:01](https://www.youtube.com/watch?v=xm747MwGbiA&t=3481s)
+## Tina Anderson [58:27](https://www.youtube.com/watch?v=xm747MwGbiA&t=3507s)
 
 Okay, sure, let's go.
 
-## Clayton Campbell [58:06](https://www.youtube.com/watch?v=xm747MwGbiA&t=3486s)
+## Clayton Campbell [58:32](https://www.youtube.com/watch?v=xm747MwGbiA&t=3512s)
 
 So, just curious, when you are, you know, it's interesting to see you lay out your process in different steps. From looking at, sacred books, Engravers like Robert Flood, so on. But when you get to the point of generating images that you then work with further, I'm just curious which… AI visual applications you've been working with, and which ones you find the most Suitable for what you're, you know, your overall project is.
 
-## Tina Anderson [58:43](https://www.youtube.com/watch?v=xm747MwGbiA&t=3523s)
+## Tina Anderson [59:09](https://www.youtube.com/watch?v=xm747MwGbiA&t=3549s)
 
 Oh, it's about my pipeline. In fact, I'm start to discussing all the idea and, start to make a reference with ChatGPT. It's like a basic draft. And after that, I use this draft in Nana Banana 2. Okay. And after that, I start to, make any, changes, and after that, I use accedense or a cling. It's really nice to work. It's, sedans, it's about plastic, soft moving, I like it a lot. So it's, Not a very simple way to create something, because I like details, I like philosophy, I like, Changing optics and lights, and make a lot of,. Different ways to show one idea.
 
-## Clayton Campbell [59:58](https://www.youtube.com/watch?v=xm747MwGbiA&t=3598s)
+## Clayton Campbell [01:00:24](https://www.youtube.com/watch?v=xm747MwGbiA&t=3624s)
 
 Okay. That's great. I… and thank you for sharing that. I really appreciate your work and seeing it today, and welcome to Tech Specialism.
 
-## Tina Anderson [01:00:10](https://www.youtube.com/watch?v=xm747MwGbiA&t=3610s)
+## Tina Anderson [01:00:35](https://www.youtube.com/watch?v=xm747MwGbiA&t=3635s)
 
 Thank you, thank you very much.
 
-## Clayton Campbell [01:00:12](https://www.youtube.com/watch?v=xm747MwGbiA&t=3612s)
+## Clayton Campbell [01:00:37](https://www.youtube.com/watch?v=xm747MwGbiA&t=3637s)
 
 Sure.
 
-## Colin Goldberg [01:00:15](https://www.youtube.com/watch?v=xm747MwGbiA&t=3615s)
+## Colin Goldberg [01:00:40](https://www.youtube.com/watch?v=xm747MwGbiA&t=3640s)
 
 Alright, anyone else have any questions?
 
@@ -285,11 +283,11 @@ So, my web work has been sort of, you know, funding my art habit for the last 30
 
 Who, you know, is known very well as an architect, but also was very multidisciplinary. And I remember seeing her work in the Guggenheim. It was retrospective, and there was everything from wall sculptures to, you know, building plans, prototype automobiles, and I just thought how fearless she was in not trying to hide one side from the other, that it became… it was this integrated self. And not really requiring, you know, a definition, so I thought that was really interesting. Anyway, that's enough out of me, but that's kind of, like, my jumping-off point.
 
-## James Gardiner [01:02:59](https://www.youtube.com/watch?v=xm747MwGbiA&t=3779s)
+## James Gardiner [01:03:25](https://www.youtube.com/watch?v=xm747MwGbiA&t=3805s)
 
 Bo, do you want to go first?
 
-## Beau Tardy [01:03:08](https://www.youtube.com/watch?v=xm747MwGbiA&t=3788s)
+## Beau Tardy [01:03:33](https://www.youtube.com/watch?v=xm747MwGbiA&t=3813s)
 
 To remind you. Okay, sorry. So, I have two things to say about that. Obviously, I've thought about it over the years, but, I think in today's day and age, these sort of two poles, and at least in my philosophy, they combine with all the other kind of dichotomies that, I don't really wrestle with, I actually find them, very fruitful, the combination of things. First of all, pop art versus traditional art. But then, obviously, Traditional means versus technology. I mean, all art has always used technology. I think Fond actually said that in his presentation.
 
@@ -301,23 +299,23 @@ New modes of understanding and of communicating. And as far as the commercial ve
 
 But, and it becomes a cliche to use another Marshall McLuhan term. But, you know, I would say that As an artist, that's why I like to call myself an art scientist, I'm looking to, come up with a new format, a new mode, and then to take that mode, and then to integrate it into a cliche. So, I don't know if that really answers the question, but… That's, that's all I got at this point.
 
-## Colin Goldberg [01:06:47](https://www.youtube.com/watch?v=xm747MwGbiA&t=4007s)
+## Colin Goldberg [01:07:13](https://www.youtube.com/watch?v=xm747MwGbiA&t=4033s)
 
 Awesome. So, Fawn, what do you think?
 
-## James Gardiner [01:06:52](https://www.youtube.com/watch?v=xm747MwGbiA&t=4012s)
+## James Gardiner [01:07:17](https://www.youtube.com/watch?v=xm747MwGbiA&t=4037s)
 
 Yeah, so, I guess, I've always had, like, this love-hate relationship with technology, so, the tools that I use are kind of,.
 
 Yeah, it's… it always feels like a battle, so that's why I'm sort of always, you know, going back to analog, and then sort of you know. Introducing the digital and, you know, trying to find a balance, that is sort of sustainable. You know, I mean, I, you know. Spent… yeah. Years just, you know, on computers doing CAD design and, you know, Digital work, and just, I think after a while, it just, you know, kind of,. I just wanted something more, so… but… but I think… Back to your question, you know, am I using the tools that I used in, you know, in architecture or as an inventor? And I am, you know? I mean, I'm still using Rhino, still using Photoshop. You know, picked up a few, few new, software, you know, vCarve and GCEnder and other things, but… you know, it's, Yeah, I mean, there's just a… it's very fluid, and yeah, I mean, as you were saying with Zaha did, you know, I mean, I wish I could integrate everything and just, you know, have… have a… have a career that was just… just one big fluid thing, but… but it, yeah, there's definitely a lot of crossover.
 
-## Colin Goldberg [01:08:39](https://www.youtube.com/watch?v=xm747MwGbiA&t=4119s)
+## Colin Goldberg [01:09:04](https://www.youtube.com/watch?v=xm747MwGbiA&t=4144s)
 
 Alright, yeah, I, I appreciate both responses. It made me think about how, you know, when I first started getting into web work, I was bouncing around these different ad agencies, and I was at this one called Kirschenbaum & Bond, which was actually down in SoHo, and they were doing all the stuff for Snapple at the time. They came up with these weird characters, Wendy the Snapple Lady, and all the cast characters, so I got involved with them doing commercial work, and you know, I found that most of the, you know, the design Production people, whoever, working with graphics, they're also, at night, would go home and make weird stuff, like I did, you know? And, you know, I always found their… Quote-unquote personal work to be just of… Next level caliber compared to, like, going into an art gallery and looking at it and being like.
 
 Alright, you know… What is that? Like, you know, like, I could just decode it instantly and be like, okay, that's, like, you know, the twirl filter, whoop-de-doo, you know what I mean? And and then you see these people who are, like, you know, creative directors or animators and stuff, and then they're making this stuff at home, but it's at the production level quality of, like, corporate work, but it's this bizarre, weird, personal work, which I think is really… It's interesting. So, so yeah, leading into that, I guess I have a question for Mario, too, about the crossover between music and visual work. How, I guess, you know, I guess my question is sort of like, Do you find now, I don't know if you're still making music or not, but I mean, do you find now that working visually has then fed back into what you're doing with sound?
 
-## Mario Viele [01:10:24](https://www.youtube.com/watch?v=xm747MwGbiA&t=4224s)
+## Mario Viele [01:10:53](https://www.youtube.com/watch?v=xm747MwGbiA&t=4253s)
 
 Yeah, so it's… that's a really interesting question, because, like, definitely yes as much as I can. What's funny is since I made the record that I was talking about at the beginning of The presentation, and, like, my idea was, like, okay, I'll make that record, and then… I'll go, and I'll make another record for this project, which is still part of the plan, but, like. It's… it's interesting, like, whatever we do with our life, like, whatever our creative pursuit is, we have to, like, figure out marrying commerce and survival with that, and so, like, for really, like, all of my kind of adult life, I've worked in recording studios, and I work with bands, and I work… With, you know, artists, whether it's as an engineer, a mixer, mastering records, or, you know, producing, or on the artist side as a musician, you know.
 
@@ -329,17 +327,17 @@ That's, like, the time… you know, time is just, like, a monster, and time is t
 
 Because as someone who works in music, and I'm sure with everyone else here too, with your art, or whatever you do, however you do it, like. With the music, especially as it became, like, also my job. You have to find the kid in you again, and, like, always kind of keep reconnecting that, you know? What's been cool about the visual art is that it's, like, reconnected me in a very organic and easy way. Like, I don't ever have to, like.
 
-## Tommy Mintz [01:13:14](https://www.youtube.com/watch?v=xm747MwGbiA&t=4394s)
+## Tommy Mintz [01:13:39](https://www.youtube.com/watch?v=xm747MwGbiA&t=4419s)
 
 Good luck.
 
-## Mario Viele [01:13:15](https://www.youtube.com/watch?v=xm747MwGbiA&t=4395s)
+## Mario Viele [01:13:40](https://www.youtube.com/watch?v=xm747MwGbiA&t=4420s)
 
 You know, work for it. It's just kind of there. So no, that's not exactly the answer to the question, but, like. That's just kind of where things are at with the two different kind of worlds and the process and how they interact. And I guess if there's one thing to say to answer the question, it's just that, like, yeah, I definitely, when I do get time, To work on stuff on the music side. Autonomously, I am trying to take a lot of those same ideas of just aesthetic and vibe and, like, not working with a tool the way that it's intended to be worked with. Like, I just… I really like that.
 
 Conceptually, so… Yeah, there you go.
 
-## Colin Goldberg [01:13:51](https://www.youtube.com/watch?v=xm747MwGbiA&t=4431s)
+## Colin Goldberg [01:14:16](https://www.youtube.com/watch?v=xm747MwGbiA&t=4456s)
 
 Interesting. Yeah, I mean, it's funny, because, like, you know, each one of the artists who presented today, I find something I can relate to, you know? And, It's like with Tina's work, I feel like… I don't know if you guys… oop, someone's mic is on. I asked her if she had ever played Myst, which some of you might or might not know about, but Myst was a, sort of a game, a computer game from the 90s, and I saw her work, and I was like, wow, that reminds me a lot of Myst, you know, and it was this sort of fantasy world, Somebody's mic is on, I don't know who it is, but at any rate, I think it's Tommy.
 
@@ -355,7 +353,7 @@ No audience that was even watching it, but it's planted the seeds, and then, lik
 
 Totally, you know, it's just like, you guys run with it, whatever, and, like, I'll publish it on the site. And just seeing that, witnessing that, It's very gratifying, you know? I feel like, in a way, it… it makes my own personal work seem sort of trivial, honestly, to see the interconnections happening between people, like something important is happening, I think, you know, and it's really, like. I planted a seed, and now… All this other stuff is happening because everyone else is watering it and, you know, pouring Miracle Control on it, something like that. So, anyway, I'm just rambling now, but, we still have a little time if anyone has any, other questions, or if any of the participating artists wanna… Share anything, you know.
 
-## James Gardiner [01:19:33](https://www.youtube.com/watch?v=xm747MwGbiA&t=4773s)
+## James Gardiner [01:20:00](https://www.youtube.com/watch?v=xm747MwGbiA&t=4800s)
 
 I think it was… I think it was a good point, that is… It's sort of need to have a hobby or a, you know, an outlet to… to… To, sort of, to find your next, kind of, you know, the next thing, you know? When you were mentioning the, The professionals that you're working with that had, had, you know, an art… Art going in the background. I mean, that was what I was… I was doing, you know, when I was working as an inventor. You know, it's just so high stress, you know, this sort of corporate job that I had, that I'd go home and just, you know, sculpt on the weekend, and just… and that was, you know, like, just totally… Helped to relax, you know, and then I ended up, you know, finding that that was useful for thinking about, you know.
 
@@ -363,7 +361,7 @@ How to… how to design artificial reefs, and, you know, and so… I think, you 
 
 So it always shifts, but yeah, trying to have those, I don't know, little kind of, Things that you can spark off, you know, to have a side project, so you've always got something that's interesting and to shift to when you get a bit… Bit, stuck, you know. In your work.
 
-## Beau Tardy [01:21:40](https://www.youtube.com/watch?v=xm747MwGbiA&t=4900s)
+## Beau Tardy [01:22:06](https://www.youtube.com/watch?v=xm747MwGbiA&t=4926s)
 
 Yeah, I would say that what James is saying is true, and Mario as well, in terms of, Being able to have a playground to experiment, and because… That's… that's where the… That's where the new work can emerge from, and I think it's very important. To, experiment. That's what I think our role as an artist is. To sort of, To walk the tightrope without a net. We have to be able to experiment freely. But then again, what Colin was saying is that we need to take possession, as artists, of the media, and what all that entails, and I think the idea… one of the ideas behind Techspressionism is to also Take hold of the technology, and not be afraid of it, and be willing to integrate that into the experimentation.
 
@@ -371,7 +369,7 @@ And, I think that's a very important approach. But I think that also it's, Somet
 
 So, as an artist, that's how I like to look at it. But I… I'm no longer afraid of mass media, pop culture, commercialism versus fine art, traditional versus pop, because I think it's all part of the dialogue. You know. As an artist, we're trying to recreate The language, so we need to be able to integrate all those elements into it. That's how I feel.
 
-## Colin Goldberg [01:24:23](https://www.youtube.com/watch?v=xm747MwGbiA&t=5063s)
+## Colin Goldberg [01:24:50](https://www.youtube.com/watch?v=xm747MwGbiA&t=5090s)
 
 Yeah, I like that quote from your son, you know? In the end, you know, it's sort of like, you know, it's a real paradox with artists, I think, that struggle of, like. You know, I don't want to be commercial, like, but, like, of course I want to sell my work, but I just don't want to be commercial, you know? And then, like, if you're a musician… if you're a musician, and you have a sold-out show, you're stoked, you know? And then if you're an artist, and someone says, you're sold out, you're like.
 
@@ -389,7 +387,7 @@ And it's like, you know, you see this person in this virtual… I don't know, it
 
 So, yeah, shameless plug for Apple. But, alright, well, I mean, we're getting a little to the end of this time, but if anyone has any other questions, anyone wanna…. Throw a question out there for one or any of the other. Artists presenting, or… Looking pretty good.
 
-## Mario Viele [01:28:58](https://www.youtube.com/watch?v=xm747MwGbiA&t=5338s)
+## Mario Viele [01:29:24](https://www.youtube.com/watch?v=xm747MwGbiA&t=5364s)
 
 I'll say something kind of, Random here, based on some of the stuff that's just been discussed, you know. Especially for me working with, A bunch of, kind of, DIY apps and, you know. Y'all are talking about, like, the technology that you work with, and the… especially the older technology. One of the things I've already experienced is, kind of becoming dependent on a certain tool for a certain thing. And, you know, it then becoming abandonware, and all of a sudden you update, you know, because I've been doing this for a few years, so, like, you update a phone, or, you know, you update an operating system, and all of a sudden, this, you know, tool that all of a sudden you used to think Was, like.
 
@@ -403,7 +401,7 @@ You might find something that does kind of do it. It might do something newer an
 
 A program and an operating system that can run it, and keeping old technology around just in case you need to get to something and just, like. Crazy things of that nature, so… That's just a little something extra to think about.
 
-## Colin Goldberg [01:32:30](https://www.youtube.com/watch?v=xm747MwGbiA&t=5550s)
+## Colin Goldberg [01:32:56](https://www.youtube.com/watch?v=xm747MwGbiA&t=5576s)
 
 Absolutely, yep. I still, have my Commodore 1541 drive. Sitting under my laptop, stand as a reminder of what I, you know, fell in love with, back in the day, you know? And, now I run it as an emulator when I get the urge. But, All right, so I guess we're gonna close it out, but I really appreciate all of the shares. It was an amazing session. I hope, you know, all four of you continue to come and, you know, engage with the community and build community, you know? Like, one thing I will say as a closing note is that, like.
 

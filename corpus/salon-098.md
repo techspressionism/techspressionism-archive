@@ -36,7 +36,7 @@ flags:
   - session_title_unparseable
 ---
 
-## Colin Goldberg [00:03](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3s)
+## Colin Goldberg [00:02](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2s)
 
 Hello, everyone. My name is Colin Goldberg, and I'd like to welcome you to the 98th Techspressionist Salon. Today is September 4th, 2025, and the topic of today's salon is fidgetal. That's P-H-Y-G-I-T-A-L. Which is a portmanteau of the words physical and digital. I'll get a little bit more into that as far as a definition goes, in a moment, but before we get started on the presentations. I'd like to invite, Cynthia Rubin, to the floor. She has a couple announcements about the upcoming Techspressionism show in Uzbekistan. So, Cynthia, take it away.
 
@@ -50,7 +50,7 @@ So, if you click on it… The little arrows, you can read the whole catalog for 
 
 Gotta add that.
 
-## Cynthia Rubin [02:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=170s)
+## Cynthia Rubin [02:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=169s)
 
 Thank you. Well, you know, last night was another night with, you know, 4 hours sleep because of the time difference when I'm going back and forth to Sharon.
 
@@ -66,7 +66,7 @@ It's really been amazing, but there are so many people here on this call who wor
 
 Highest level, and this is what I…
 
-## Colin Goldberg [03:09](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=189s)
+## Colin Goldberg [03:08](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=188s)
 
 I think somebody has their mic open, if you could…
 
@@ -82,11 +82,11 @@ Yeah, I wanted to ask Cynthia a question. On that link, can people see the video
 
 No, no, no. Well, you know, don't demand too much of us right now.
 
-## Allen Hirsh [03:26](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=206s)
+## Allen Hirsh [03:25](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=205s)
 
 No, no, no, no, no, I'm just, it was just a… it was just a question. It's just a question. I'm not a demand, it's just a question.
 
-## Cynthia Rubin [03:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=212s)
+## Cynthia Rubin [03:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=211s)
 
 The video's not ready yet. People have been working night and day. People are getting, like, 4 or 5 hours sleep, so what you… what we've been able to put online so far is what's online so far, and we're really excited to share it. Michael Woodruff has Is a professional videographer, like, really professional, and Lucy, who's here, Lucy Boyd-Wilson Wilson, the two of them have been working so hard on doing the digital screen, which will be available at some point, and it's absolutely fabulous, and then The participating artists have some longer videos. So, one step at a time.
 
@@ -94,67 +94,121 @@ We're trying to keep everything super professional, so we don't want to share th
 
 And we have both for iPhone instructions and Zoom instructions. I mean, desktop instructions. Oh, you know, the 4-hour sleep is kicking in here. So, so I would encourage anybody who, wants to have translations To just follow along, and it has been amazing. The translations are really good. And I believe that later on, YouTube, you can actually put translations in on YouTube, too, but they're not… they're not the same. Anyway, that's it for all I have to say. Time…
 
-## Colin Goldberg [05:44](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=344s)
+## Colin Goldberg [05:43](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=343s)
 
 Thank you, Cynthia. Thanks so much. I just also wanted to, Share my screen real quick, so if anybody wants to get some background information on the show that's coming up in Uzbekistan, you can get there from Techspressionism.Com, from the homepage. If you scroll down a little bit, there's some general information about the exhibition here, which is, at the Museum of Contemporary Art in Ergench, and there's a link, this photo links to The microsite that Cynthia and her team of artists have put together, and from there, you can access the catalog and read the book.
 
 So that's how you would get there, you know, directly. And then there's also some other information, on the… On the site itself about, I believe the artist list is there, and.
 
-## Cynthia Rubin [06:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=410s)
+## Cynthia Rubin [06:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=409s)
 
 Yes.
 
-## Colin Goldberg [08:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=499s)
+## Colin Goldberg [06:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=410s)
 
-Today's topic is fidgetal, and I'll just read you a little definition that I got, from the web. Figital is a portmanteau combining physical and digital. It refers to experiences, strategies, or environments that seamlessly blend tangible, real-world example elements with digital enhancements to create more immersive, interactive, and personalized engagements. Okay, it goes into some examples. I thought it was interesting to learn that the term, was actually, born from the commercial realm. It was coined in 2007 by Chris Wheel.
+Yeah, some other background information. The artist list is still old images for some people.
 
-Then chairman and CEO of Momentum Worldwide, and was coined to emphasize the merging of physical and digital realms in marketing communications. So it was sort of co-opted by the fine art world, probably, I don't know, around the time… I started seeing it pop up around the time that the NFT phenomenon was really starting to jump off, maybe 2021, 22, when people were talking about fidgetal mints, where they would mint. And it would include a print, or the print would include an NFT, or vice versa. That's really when I first started seeing the term.
+## Cynthia Rubin [06:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=415s)
 
-Being used in a fine art context. But it's certainly open to interpretation, and we have a number of artists that are gonna be presenting today. We have Ann Shapiro, Roz Dimon, and myself kind of signed on to give… Presentations, but after each one of us presents, I would encourage Anyone else in the Zoom to jump in and share some work, that, you know, might be relevant to the topic, and I think, you know, almost anything that ends up being, you know, produced as a physical object in the end could fit under this umbrella. So, that being said, I'm going to ask Ann Shapiro to, kick us off. So, Anne, are you ready to present?
+Just get updated someday.
 
-## Ann Shapiro [09:00](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=540s)
+## Colin Goldberg [06:58](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=418s)
+
+Okay. Okay, gotcha. Alright, great, so… Just trying to see where I can actually… Stop my share, because… It has disappeared. Second.
+
+Hmm. Strange. I no longer… I don't know if Zoom has changed its interface?
+
+## Cynthia Rubin [07:27](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=447s)
+
+Really hard to do this now.
+
+## Colin Goldberg [07:29](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=449s)
+
+How am I going to stop my share?
+
+## Roz Dimon [07:34](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=454s)
+
+Were you in full-screen mode on the internet? Maybe if you had Command, Control-F or something?
+
+## Colin Goldberg [07:40](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=460s)
+
+Yeah…
+
+## Cynthia Rubin [07:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=462s)
+
+If you unplug your second monitor, that's what I usually have to do.
+
+## Roz Dimon [07:47](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=467s)
+
+Oh, dear.
+
+## Colin Goldberg [07:48](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=468s)
+
+Shit. Alright, let's try that.
+
+## Cynthia Rubin [07:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=470s)
+
+We were kidding.
+
+## Roz Dimon [07:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=470s)
+
+Digital already.
+
+## Cynthia Rubin [07:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=472s)
+
+Real pad.
+
+## Colin Goldberg [07:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=474s)
+
+You know what, that did it. Well, that's extremely poor UI design on Zoom's part. But, that fixed it, thank you. So… alright, so my sharing has successfully stopped now, right? Okay, good. Alright, so, Moving on to, the actual topic of the salon. Today's topic is fidgetal, and I'll just read you a little definition that I got, from the web. Figital is a portmanteau combining physical and digital. It refers to experiences, strategies, or environments that seamlessly blend tangible, real-world example elements with digital enhancements to create more immersive, interactive, and personalized engagements.
+
+Okay, it goes into some examples. I thought it was interesting to learn that the term, was actually, born from the commercial realm. It was coined in 2007 by Chris Wheel. Then chairman and CEO of Momentum Worldwide, and was coined to emphasize the merging of physical and digital realms in marketing communications. So it was sort of co-opted by the fine art world, probably, I don't know, around the time… I started seeing it pop up around the time that the NFT phenomenon was really starting to jump off, maybe 2021, 22, when people were talking about fidgetal mints, where they would mint.
+
+And it would include a print, or the print would include an NFT, or vice versa. That's really when I first started seeing the term. Being used in a fine art context. But it's certainly open to interpretation, and we have a number of artists that are gonna be presenting today. We have Ann Shapiro, Roz Dimon, and myself kind of signed on to give… Presentations, but after each one of us presents, I would encourage Anyone else in the Zoom to jump in and share some work, that, you know, might be relevant to the topic, and I think, you know, almost anything that ends up being, you know, produced as a physical object in the end could fit under this umbrella. So, that being said, I'm going to ask Ann Shapiro to, kick us off. So, Anne, are you ready to present?
+
+## Ann Shapiro [09:01](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=541s)
 
 I'm as ready as I've ever gonna be, but before I start, do I have to… how do I shut off my second monitor? Do I have to unplug it, or just… Closing it off will do.
 
-## Colin Goldberg [09:11](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=551s)
+## Colin Goldberg [09:12](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=552s)
 
 I unplugged mine, I'm not sure if there was something weird that I did that, like, made the little bar disappear. I think, actually, maybe it was just the fact that I was in full screen mode, that… that caused the issue, so…
 
-## Ann Shapiro [09:30](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=570s)
+## Ann Shapiro [09:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=571s)
 
 Find out.
 
-## Cynthia Rubin [09:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=571s)
+## Cynthia Rubin [09:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=572s)
 
 Yeah.
 
-## Ann Shapiro [09:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=571s)
+## Ann Shapiro [09:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=572s)
 
 Find out. We'll find out soon enough.
 
-## Cynthia Rubin [09:34](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=574s)
+## Cynthia Rubin [09:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=575s)
 
 I suggest unplugging if you start to have issues. I don't think they designed the interface for…
 
-## Ann Shapiro [09:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=582s)
+## Ann Shapiro [09:43](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=583s)
 
 Real people. See what happens. Okay.
 
 Okay, I'm assuming you can see it?
 
-## Colin Goldberg [09:57](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=597s)
+## Colin Goldberg [09:58](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=598s)
 
 Yep.
 
-## Ann Shapiro [09:58](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=598s)
+## Ann Shapiro [09:59](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=599s)
 
 Cynthia, how can I make it bigger?
 
-## Cynthia Rubin [10:03](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=603s)
+## Cynthia Rubin [10:04](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=604s)
 
 It's big. It's real big now. It's in fact, for me, on my second monitor, too big, and I have to make my monitor smaller. So you're fine.
 
-## Ann Shapiro [10:13](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=613s)
+## Ann Shapiro [10:14](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=614s)
 
 That's a new thing. I'm always having trouble with that. Okay, I got excited with the topic, because I didn't know there was such a thing as fidgetal. And, first of all, I love the word, I love how it sounds. And, so, I went back. I haven't done too much of a… well, and I'll talk about what I have done. Most of the work I'm going to show you today is involved with climate change, because that's my main topic, my major topic, the thing I focus on. Obviously, I do other stuff, but this is it, and this is, so this was essentially a painting. The background was painting, and I call this help, I'm melting.
 
@@ -168,23 +222,21 @@ Last month, don't do that. Whatever I did, okay. I'm from New Hampshire. Althoug
 
 The water's rising, the water goes underground, comes out about… 30… drive time 30 minutes later, or 20 minutes later, as a flood in the… in the lower line as you're driving, from east to west. So this was a… an early… it's also interesting My new… I did show this, and it's, 42 by 50… I can't read my own writing. It looks like I made a mistake. I think it's supposed to be 45… 42 by 55. And. I think it was this piece. My guts… All my piece… yeah, this piece, you know, talks about… I wanted to give a historical perspective, and, Just felt the need to paint. Obviously, painted before I framed it.
 
-These… it's each 8… sorry. 8… each album is on 8.5x11 paper. It's, individually framed, and it's… The, obviously, the painting is under the glass. It's on… it's on the, work itself.
+These… it's each 8… sorry. 8… each album is on 8.5x11 paper. It's, individually framed, and it's… The, obviously, the painting is under the glass. It's on… it's on the, work itself. If anybody's got questions, let's shoot them out.
 
-If anybody's got questions, let's shoot them out.
-
-## Roz Dimon [13:25](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=805s)
+## Roz Dimon [13:21](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=801s)
 
 Ann, are you saying that these are digitally created, and then you put paint on them, physical paint?
 
-## Ann Shapiro [13:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=811s)
+## Ann Shapiro [13:26](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=806s)
 
 Yeah.
 
-## Roz Dimon [13:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=812s)
+## Roz Dimon [13:28](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=808s)
 
 Oh, okay, alright.
 
-## Ann Shapiro [13:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=815s)
+## Ann Shapiro [13:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=811s)
 
 Go… okay. This is a Vietnam piece. The paint… I want to show it more because of the size. There's not a lot of… Painting on. It's mostly down in here and, in a few areas up in this, in this area. I… I kind of loved this piece. It was, it got a little out of hand, but, I did another pe… another one. A number of these pieces I've, re… re… I don't know if it's… it's a… they're new pieces that I worked on based on the… The work done here, and reduce the size to 18 by 24 inches.
 
@@ -204,7 +256,7 @@ I have a question.
 
 Yeah.
 
-## Roz Dimon [16:53](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1013s)
+## Roz Dimon [16:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1014s)
 
 But I think other people do, too. Nagain has a question. She can go first. Do you want to talk first, Nagin? Oh, I don't know. Looked like she had a question, maybe not. You know, the large tile-looking piece that… I can't remember the name of it, where it went around the corner, and you were standing in front of it?
 
@@ -224,13 +276,13 @@ Go ahead.
 
 That was so impressive. Is that… when you work on those, is it a tile piece of a large vision that you have, or is it small little individual things, pieces, and then do you move them around? To make… make them, tell the… the story that you want them to. I mean, it's… it's kind of curious, I'm just… if you can understand that question.
 
-## Ann Shapiro [17:41](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1061s)
+## Ann Shapiro [17:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1062s)
 
-I… I…. I kind… for two reasons, I kind of stopped doing the ones that… I did some pieces that were 13 by 19, because I could print them in my… my printer, and those were 8.5x11, and I framed them individually. It took two people who knew what they were doing all day. To put that Vietnamese peace up. And I was at, I don't… I have not done that recently. I have a lot that way in most… many of the ones you saw. I was at an opening at the Hello Museum one day, and the rumor came around that… There was gonna be a traveling show.
+I… I…. I kind… for two reasons, I kind of stopped doing the ones that… I did some pieces that were 13 by 19, because I could print them in my… my printer, and those were 8.5x11, and I framed them individually. It took two people who knew what they were doing all day. To put that Vietnamese peace up. And I was at, I don't… I have not done that recently. I have a lot that way in most… many of the ones you saw. I was at an opening at the Hello Museum one day, and the rumor came around that… There was gonna be a traveling show. Climate change work.
 
-Climate change work. I know, I think it was… yeah, it was a climate change show, that's what… I heard that, and I thought. I want to go… I want to try to get into this show. And I immediately had… it came in a flash. How to change the… I have changed the piece to redo the piece as 18 inches by 24 inches on canvas. And I did. And the work… so much of my digital work on climate change that I've shown… if I'm showing it, I tend to show it now at 18 by 24 inches.
+I know, I think it was… yeah, it was a climate change show, that's what… I heard that, and I thought. I want to go… I want to try to get into this show. And I immediately had… it came in a flash. How to change the… I have changed the piece to redo the piece as 18 inches by 24 inches on canvas. And I did. And the work… so much of my digital work on climate change that I've shown… if I'm showing it, I tend to show it now at 18 by 24 inches.
 
-## Roz Dimon [19:20](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1160s)
+## Roz Dimon [19:17](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1157s)
 
 And is that 18x24 composed of all those smaller images, or…
 
@@ -242,7 +294,7 @@ Did the work. I redid the work, and oops, if I can… See if I can find it quick
 
 I guess my question was, do you… when you have all those different images up, which it looks like they're all individually framed, do they go in a certain way that you…
 
-## Ann Shapiro [19:41](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1181s)
+## Ann Shapiro [19:40](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1180s)
 
 Yeah, there was… it followed the narrative that I had put.
 
@@ -254,41 +306,39 @@ Bye.
 
 It didn't juxtapose.
 
-## Roz Dimon [19:47](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1187s)
+## Roz Dimon [19:46](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1186s)
 
 There's a story there, you can feel it, yeah.
 
 ## Ann Shapiro [19:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1189s)
 
-It might be interesting, I never tried it. It might be interesting to, To… to… to see it, that… to see it. If we… if we have a chance, I'll look to show… look up a couple of the… those pieces, especially the Vietnam piece, and how I changed it. The change is dramat… is dramatic.
+It might be interesting, I never tried it. It might be interesting to, To… to… to see it, that… to see it. If we… if we have a chance, I'll look to show… look up a couple of the… those pieces, especially the Vietnam piece, and how I changed it. The change is dramat… is dramatic. But it would take me a few minutes to find it.
 
-But it would take me a few minutes to find it.
-
-## Roz Dimon [20:23](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1223s)
+## Roz Dimon [20:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1219s)
 
 I want to do all the questions during the presentation, Colin. We usually do it at the end. What do you want to do? Do you have any.
 
-## Colin Goldberg [20:26](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1226s)
+## Colin Goldberg [20:25](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1225s)
 
 Yeah, why don't we… why don't we hold them to the end, just so we can sort of, I'll move through…
 
-## Roz Dimon [20:33](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1233s)
+## Roz Dimon [20:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1232s)
 
 Okay.
 
-## Colin Goldberg [20:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1235s)
+## Colin Goldberg [20:34](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1234s)
 
 Or at least, you know, through the people that sort of have volunteered to present initially, and then, you know, we can open it up for, other sharing if people feel so inclined. So, I think, Roz, you are the next step.
 
-## Roz Dimon [20:53](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1253s)
+## Roz Dimon [20:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1252s)
 
 Great, okay, yeah. Sorry, and I kind of let us into that, but then I was… Yeah, we can continue later.
 
-## Colin Goldberg [21:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1316s)
+## Colin Goldberg [21:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1314s)
 
 Yeah, bad Zoom. So, Roz, you want to take it away?
 
-## Roz Dimon [21:05](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1265s)
+## Roz Dimon [21:04](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1264s)
 
 Sure. I'm just sort of ad-libbing here and bringing up different things and concepts. I always kind of liked, fidgetal, but not sure I understand the word, but it's always been about, Digital, going… I mean, physical, going to digital, and digital going to physical, mainly the latter for me, but I'm just going into a presentation because I want to talk about how, I got into these pieces I do called diamondscapes that are these multi-layered… What someone would call, I mean, augmented reality, maybe, in the virtual space. They're multi-layered on the web, but they're still paintings online, and I'm just going to… this is an older presentation, and I'm just showing a few things. Oh, I just thought it'd be kind of curious to look at this, Jasper Johns Painted Bronze. I stuck my Wacom pen in there.
 
@@ -324,7 +374,7 @@ And I wanted to make these accessible to people, but honestly, when I was drawin
 
 I mean, they're 6 feet high. When he said, can you do an addition of these 6 feet high? These are APs, and… and I said, yeah, I mean, actually, I haven't thought about them going that big. But, It's just so exciting to see these pieces this big, and they do not lose a single thing. I mean, they don't lose a single iota of resolution, so talk about digital. And the ones that I did that are one-of-a-kind, they're one of a kind, but… I can't do that with the one-of-a-kinds, you know? It's impossible. So, the whole digital, going physical and back is… is an exciting thing, and, I've got so many layers up, I don't even know if I can find my stop share. But, I think I will stop sharing, and I'm sorry I was a little bit dislocated, this whole talk, but I enjoyed this topic. Thank you.
 
-## Colin Goldberg [33:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2032s)
+## Colin Goldberg [33:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2034s)
 
 All right, thanks so much, Roz. Really interesting body of work that you put together, and definitely, vigil. So… yeah, I'm going to share a little bit about my work. Initially, I was thinking, well, a lot of my work, my, Current work involves, painting and digital printmaking, the combination of those two things, like the piece back behind me is a painting, started as a painting, and then I printed, an image of clouds that I took, actually, with my cell phone.
 
@@ -362,17 +412,17 @@ So… so that's pretty much it. You know, this past year, I launched a site, met
 
 And… I don't know, I guess, you know, we can open it up, to questions for any of the artists that presented, or, if anyone else would like to present, maybe we could open it up first. Is there anyone else that would like to just share some work of theirs? Doesn't need to be anything. Okay, looks like we have our first victim. Michael Pierre Price has his hand up, so, yeah, go ahead, Michael.
 
-## Michael Pierre Price [49:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2959s)
+## Michael Pierre Price [49:18](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2958s)
 
 All right, cool. Actually, I'm gonna probably have a few things that sort of dovetail into what you were just showing, so I think maybe… That'll be a fun thing to do. So, this'll be pretty quick, hopefully,.
 
 So this, this… This was a piece I did, for an exhibition in,
 
-## Colin Goldberg [49:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2990s)
+## Colin Goldberg [49:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2989s)
 
 I don't know if I'm… I don't… I'm not seeing your shared screen, I guess. Seeing it.
 
-## Michael Pierre Price [49:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2996s)
+## Michael Pierre Price [49:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2995s)
 
 Oh, really? Okay, hold on.
 
@@ -384,11 +434,11 @@ I see it.
 
 Oh, you see it?
 
-## Michael Pierre Price [50:00](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3000s)
+## Michael Pierre Price [49:59](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2999s)
 
 Oh, okay. Alright, let me go back again. Alright.
 
-## Colin Goldberg [50:06](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3006s)
+## Colin Goldberg [50:05](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3005s)
 
 Why? Oh, now I see it. Er…
 
@@ -396,7 +446,7 @@ Why? Oh, now I see it. Er…
 
 No.
 
-## Michael Pierre Price [50:13](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3013s)
+## Michael Pierre Price [50:12](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3012s)
 
 So…
 
@@ -404,7 +454,7 @@ So…
 
 Be it.
 
-## Michael Pierre Price [50:15](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3015s)
+## Michael Pierre Price [50:14](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3014s)
 
 This is a piece I did, for a show…
 
@@ -412,7 +462,7 @@ This is a piece I did, for a show…
 
 P.
 
-## Michael Pierre Price [50:20](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3020s)
+## Michael Pierre Price [50:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3019s)
 
 For a show in Flagstaff, They're, they're one of the, Few, night… night cities across the country, because the darkness is so… so deep there. And so there's, there's an observatory there, and there was a show, dealing with, astronomy, and… this is a piece, titled Anodomini 1054. It's, Dedicated to, an event that happened in the year 1054, a supernova that's now known as the Crab Nebula. And, so this, this is a piece There's… there's a couple, artist mannequins, or actually three in this piece, that I actually used, my… my artist mannequin to, incorporate with this, but the rest of it was done, digitally. So, Colin, just to kind of follow up on what you were talking about with, being able to use vector graphics.
 
@@ -428,7 +478,7 @@ And I used the Fractal program to locate all these… all these images of the pu
 
 Art mannequin. Awesome.
 
-## Michael Pierre Price [54:27](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3267s)
+## Michael Pierre Price [54:26](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3266s)
 
 Banks.
 
@@ -454,7 +504,7 @@ So, I figured this… you know, using a device like Connect, it incorporates the
 
 And… that's it! Thank you, everybody.
 
-## Colin Goldberg [58:07](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3487s)
+## Colin Goldberg [58:06](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3486s)
 
 Great. Thanks so much, Lucy. That's really interesting how you incorporated the Connect into the process, for sure. So, let's see, I see that, Sahar, said she'd like to present in the chat, so, go ahead.
 
@@ -462,15 +512,15 @@ Great. Thanks so much, Lucy. That's really interesting how you incorporated the 
 
 I also said…
 
-## Colin Goldberg [58:29](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3509s)
+## Colin Goldberg [58:28](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3508s)
 
 Boop. And Susan as well.
 
-## Susan Detroy [58:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3512s)
+## Susan Detroy [58:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3511s)
 
 Yeah, I… up above her, yeah.
 
-## Colin Goldberg [58:34](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3514s)
+## Colin Goldberg [58:33](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3513s)
 
 Gotcha. Okay.
 
@@ -492,7 +542,7 @@ What did she say to go?
 
 Susan, you go first.
 
-## Susan Detroy [58:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3534s)
+## Susan Detroy [58:53](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3533s)
 
 Oh, okay, alright, will do. Thank you. So I, ironically, I am involved in two, in two projects, one that is analog, that I just finished installing, two days ago, a hundred, 100 Art Week Artwork piece at a local gallery of a traveling exhibit, and I'll just show that briefly, but At the same time, not the same day, but the very next day, I got a notification that all three of my films that I submitted for MENA in Australia will be showing. It's the first time that's ever happened to me. All three of my films.
 
@@ -514,19 +564,19 @@ It's a urban… sanctuary, and I made a…. Film honoring the place, I captured 
 
 And a panel. I'm producing all of that. And I also want to say a shout… a big, like, shout out to the co-working group. Where, that film, beginning along with the other film, the Yapoa film. Showed in Korea. All because I was in the co-working group and got asked, along with Renata and Karen LaFleur. And, the support that I've had in that group has helped me produce the work I'm producing in film. It's… it's really… A big part of the… keeping me alive and current and supported in… in the digital work that I do. So, thanks.
 
-## Colin Goldberg [01:08:41](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4121s)
+## Colin Goldberg [01:08:39](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4119s)
 
 Awesome. Thanks so much, for sharing that, work.
 
-## Susan Detroy [01:08:44](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4124s)
+## Susan Detroy [01:08:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4122s)
 
 You're welcome.
 
-## Colin Goldberg [01:08:45](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4125s)
+## Colin Goldberg [01:08:43](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4123s)
 
 Congratulations on all the stuff you have going on. So… Thank you. Without further ado, Sahar, would you like to share some more?
 
-## Sahar Moussavi [01:08:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4134s)
+## Sahar Moussavi [01:08:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4132s)
 
 Yes, I will try.
 
@@ -534,31 +584,31 @@ Sioux.
 
 Screaming?
 
-## Colin Goldberg [01:09:12](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4152s)
+## Colin Goldberg [01:09:11](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4151s)
 
 It's trying to share it, but I'm not seeing anything yet. You might want to pause your video on your cam, maybe. That might give it more bandwidth for the screen share.
 
 I'm not seeing anything yet.
 
-## Sahar Moussavi [01:09:44](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4184s)
+## Sahar Moussavi [01:09:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4182s)
 
 Can you see my screen now?
 
-## Colin Goldberg [01:09:47](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4187s)
+## Colin Goldberg [01:09:45](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4185s)
 
 I'm still not seeing anything, no. I see that you're trying to share, but nothing is coming through. Yet, so maybe it's just the connection's very slow there.
 
 Yeah, I don't think… Massars.
 
-## Cynthia Rubin [01:10:24](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4224s)
+## Cynthia Rubin [01:10:22](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4222s)
 
 If you can put your images on Google Drive, or Dropbox, or even email a few to me, I'd be happy to show them for you.
 
-## Colin Goldberg [01:10:36](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4236s)
+## Colin Goldberg [01:10:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4235s)
 
 Dumb. Okay, well, it looks like Sahar's… Yeah, maybe on a slow connection there. I do see Malavica in the chat, if you'd like to try sharing Malavica, you can go ahead, we still have some time.
 
-## Malavika Mandal Andrew [01:08:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4136s)
+## Malavika Mandal Andrew [01:08:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4135s)
 
 Hi, thank you.
 
@@ -604,25 +654,23 @@ All right, great. Thanks for sharing that work, Melavika. It's really interestin
 
 Okay, try to make this quick. This is, for those who saw the, how many… how many feet, the big Vietnamese piece. Then I… when I had an opportunity, I reduced it to…. Well, not tagged and take it off. Sorry about that. Can you see the one with just the big map?
 
-## Colin Goldberg [01:16:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4616s)
+## Colin Goldberg [01:16:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4615s)
 
 Yep.
 
-## Susan Detroy [01:16:58](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4618s)
+## Susan Detroy [01:16:57](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4617s)
 
 Yes.
 
-## Ann Shapiro [01:17:00](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4620s)
+## Ann Shapiro [01:16:59](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4619s)
 
-Well, you did see it until I got… I didn't realize this stuff was still up, I'm very sorry. I just wanted to show you the,. I keep… Well, you now have seen the… Okay, just wanted to show you, because those of you who saw the piece that was, 55, whatever it was, 12 by 60, whatever the feet was. And this is what… how I reduced it to put it into an 18 by 24 inch format. That's it. Thank you All right, now I stop the share, right?
+Well, you did see it until I got… I didn't realize this stuff was still up, I'm very sorry. I just wanted to show you the,. I keep… Well, you now have seen the… Okay, just wanted to show you, because those of you who saw the piece that was, 55, whatever it was, 12 by 60, whatever the feet was. And this is what… how I reduced it to put it into an 18 by 24 inch format. That's it. Thank you All right, now I stop the share, right? Got it. Thank you.
 
-Got it. Thank you.
-
-## Colin Goldberg [01:17:43](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4663s)
+## Colin Goldberg [01:17:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4662s)
 
 All right. Awesome. Thanks, Sam. Okay, so I saw that Erin Ko has a, announcement about an open call she wanted to share, so, take it away, Erin.
 
-## Erin Ko [01:17:57](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4677s)
+## Erin Ko [01:17:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4676s)
 
 Hello, everyone. Nice to see lots of you who I haven't seen for weeks and weeks. I kind of dropped out of the co-working group, got really busy, be back there soon. So, but very nice work, everyone. I wanted to announce that, submissions are now open. We have an open call for the Every Woman Biennial. Of which I'm an organizer and one of the curators, and for the first time, they are actually doing, what I'm calling new media, because of exactly what you just said, Colin, like, it's not digital media, but, For sure, we have a section for artists who are very specifically using technology as a core part of their practice.
 
@@ -634,7 +682,7 @@ Since then, it's become the largest festival for female-identifying and non-bina
 
 Joyful activism… joyful activism, kind of, like, weird and wonderful, and… you know. Dictators want you to stop laughing, and we want to offer respite and empowerment to people, and put on a really awesome show that inspires. And I, as the person sort of heading up the technology, am really looking for people who are doing wonderful experimental work, which is definitely this group. So, please apply, please tell your friends. Please spread the word, please come, we're gonna have performances every weekend, it runs for 6 weeks. I'm gonna put the link to the… Biennial, and the link to the gallery, so you can check it out in the chat now. And thank you for your time, and I'll probably be in the co-working group next Tuesday, so if you want to hit me with questions then, I'll be around, or you can email me. So, yep, thank you.
 
-## Cynthia Rubin [01:22:02](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4922s)
+## Cynthia Rubin [01:22:01](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4921s)
 
 Great.
 

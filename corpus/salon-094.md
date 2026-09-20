@@ -95,7 +95,7 @@ Hello, Chelsea, Techspressionism 2025. The exhibition is at Hudson Guild Gallery
 
 Thank you so much, Colin. It was really wonderful Overview of the I can't talk and tap at the same time of the history of Techspressionism. And yeah, I really appreciate this community and this group as an artist, I I'm sorry once again can't tap the talk. I I, you know, find it to be very sustaining in my practice to be involved. In a group of artists that have A common interest and engagement in each other's work over a period of time. So Here's, by the way, the location of our current show 400 and 41 West 26th Street, on the west side of Manhattan. Exactly as Colin said. There's a lovely little path up to the entrance of the Elliott center. Hudson Guild. Elliott Center is the name of the building, and there's a gallery space within that. So here's the view of the current exhibition, and we have Well, so from the left there John Zieman, Renata, Yanashevska, Oz Van Rosen Davo.
 
-Probably Colin with his metagraphs, book and postcards that we're giving away that have AR component to him. And Steve Miller, I love the fact that Colin has a stack of postcards in a very generous way here, which is kind of embodies the whole ethos, I think of expressionism, which is a very generous. Approach to art making. I. I don't think we're operating from a a sense of scarcity when we have this ability to Interact in ways that are not based on geographic proximity. When I was in graduate school, Joseph Neckpital came to visit and let's see through the Joseph neckpital right here. I'm sorry tapping and talking at the same time. Joseph Neckpital is A digital artist who's on one of the screens here, and I'm doing a bad job giving a tour of the exhibition and talking through it. But Joseph Nekvital came to visit Queens College when I was a graduate student there, and he told me the most important thing to a sustainable life as an artist was not selling your work. Of course that's important, but having a group of artists that you can share work with and who you respect. And this show Represents the energy and creativity the expressionism community has generated through these continuous interactions that in the past would have really been difficult.
+Probably Colin with his metagraphs, book and postcards that we're giving away that have AR component to him. And Steve Miller, I love the fact that Colin has a stack of postcards in a very generous way here, which is kind of embodies the whole ethos, I think of expressionism, which is a very generous Approach to art making. I. I don't think we're operating from a a sense of scarcity when we have this ability to Interact in ways that are not based on geographic proximity. When I was in graduate school, Joseph Neckpital came to visit and let's see through the Joseph neckpital right here. I'm sorry tapping and talking at the same time. Joseph Neckpital is A digital artist who's on one of the screens here, and I'm doing a bad job giving a tour of the exhibition and talking through it. But Joseph Nekvital came to visit Queens College when I was a graduate student there, and he told me the most important thing to a sustainable life as an artist was not selling your work. Of course that's important, but having a group of artists that you can share work with and who you respect. And this show Represents the energy and creativity the expressionism community has generated through these continuous interactions that in the past would have really been difficult.
 
 Because of the geographic distances. Digital artists have always worked at the same tools that businesses have used, and maybe in subversive ways. And I love the fact that, you know, during the pandemic we kind of subverted the productivity tool of Zoom to create a community that you know produce energy for art. So. Yeah, I mean, I hope that this show the shows that we've been putting together in physical space further cement that relationship and and expand on it in a way that you could see the connections, maybe, between artists work that allows for Continued growth in each, you know, in in everybody's practices, really. So yeah, that's my Direction as a curator and my 5 min spiel as a Tour guide of this exhibition.
 
@@ -107,11 +107,11 @@ Appreciate each other. So yeah, that's that's all I have to share, really. And I
 
 Did that share stop.
 
-## Colin Goldberg [18:12](https://www.youtube.com/watch?v=npycONiSa_c&t=1092s)
+## Colin Goldberg [18:11](https://www.youtube.com/watch?v=npycONiSa_c&t=1091s)
 
 Yes, it did.
 
-## Tommy Mintz [18:13](https://www.youtube.com/watch?v=npycONiSa_c&t=1093s)
+## Tommy Mintz [18:12](https://www.youtube.com/watch?v=npycONiSa_c&t=1092s)
 
 Great. Thank you.
 
@@ -119,11 +119,11 @@ Great. Thank you.
 
 Okay, Tommy, and can you remind us when that show is running through.
 
-## Tommy Mintz [18:23](https://www.youtube.com/watch?v=npycONiSa_c&t=1103s)
+## Tommy Mintz [18:22](https://www.youtube.com/watch?v=npycONiSa_c&t=1102s)
 
 So the show the I'm sorry the Hudson Guild, Elliott Center is open Monday through Friday 9 Am. To 5 Pm. The that's free the show is up through June 25, th so we have about 2 months In Chelsea.
 
-## Colin Goldberg [18:41](https://www.youtube.com/watch?v=npycONiSa_c&t=1121s)
+## Colin Goldberg [18:40](https://www.youtube.com/watch?v=npycONiSa_c&t=1120s)
 
 Awesome. Okay, thanks so much. And our next salon, which is going to be the 1st Thursday of June June 5, th is actually going to be an artist panel that is going to be taking place from the gallery. So if you guys are in town and you'd like to come by, or if you'd like to zoom in, our salons are always on the 1st Thursday of the month, at 12 Pm. Eastern time. So with that, we're going to switch to the main event here, which is the exhibition at 150 media stream for expressionist artists. And we're going to open that segment up with the curator Yuge Zhou! So I'm going to pass the mic on to Yuga.
 
@@ -181,7 +181,9 @@ So our next project in in the fall is actually gonna be interactive work where w
 
 Okay? So David is asking, is there any significance to the layout of the installation in terms of in terms of. If in terms of height in terms, if height, and these changes of the individual blades. So Yes, so the, I guess. A little bit of the the background of the design of the unique shape of the installation is that. If you can see behind the behind, the blaze is like this kind of horizontal line that actually leads to the garage of the building. So The architect of the building the architect is partners. They are based in Chicago. So they when they initially designed the the building, they were not happy with the horizontal line that leaves, you know that that is like right behind the video wall. So they wanted something to be in front of the line to kind of soften that that line, but also to create more dynamic into the lobby space and Bringing outside inside. So the the layout of the installation is There's many iterations of the layout, but the the ultimately they landed on this design is this idea of the wave, you know? Because we have, we are. We have, like the river right next to us. So this shapes you know of the blaze like it, kind of like a wave, but also like this idea of kind of nature, because we also have the trees and the grass. So there's a garden right next to the right, next to the building as well. So the the grass kind of the tall grass and the the tree. Tall kind of tree, like the verticality Of you know of the blades, is kind of a reference to that as well.
 
-So so there's a lot of A lot of kind of nature elements in the original design. And yes, it is visible across the river. And so we, I guess another reason for the design is also kind of a technical constraint. So at at that time, when we, when we 1st installed, you know, installed this video world that was like 2016 and you know, I think we we talked about having it like a curved shape or other kind of shapes. But this is also just something doable, you know, at that time, you know, with the kind of the screen technology we had. So Yeah, but but it really worked out pretty well, you know, I think it's just such a unique shape. And also, I think architecturally, fits really well within the kind of a high rise lobby, you know of the like of the space we have here. So why did the creators decide to use blaze and space intermittently. So. I mean, I I think each Each creators probably have their I mean, each artist would probably have their own. I were you asking about the artist or asking about the the original design of the the blaze of the video wall? I think if you're asking about the artist, I think they are probably, you know, depending on. Depending whatever of the design of the video. Okay,. I mean, I I think what they wanted to do is to have something that's unconventional. I think the the thing that they didn't want is to just have a rectangle wall like a rectangle screen the lobby. Because that's just kind of everywhere that just feels like.
+So so there's a lot of A lot of kind of nature elements in the original design. And yes, it is visible across the river. And so we, I guess another reason for the design is also kind of a technical constraint. So at at that time, when we, when we 1st installed, you know, installed this video world that was like 2016 and you know, I think we we talked about having it like a curved shape or other kind of shapes. But this is also just something doable, you know, at that time, you know, with the kind of the screen technology we had. So Yeah, but but it really worked out pretty well, you know, I think it's just such a unique shape. And also, I think architecturally, fits really well within the kind of a high rise lobby, you know of the like of the space we have here.
+
+So why did the creators decide to use blaze and space intermittently. So. I mean, I I think each Each creators probably have their I mean, each artist would probably have their own. I were you asking about the artist or asking about the the original design of the the blaze of the video wall? I think if you're asking about the artist, I think they are probably, you know, depending on. Depending whatever of the design of the video. Okay,. I mean, I I think what they wanted to do is to have something that's unconventional. I think the the thing that they didn't want is to just have a rectangle wall like a rectangle screen the lobby. Because that's just kind of everywhere that just feels like.
 
 You know, it's it feels like that's what we used to see. And so they want to have something that is, like very unique, that is not like, you know, just a regular rectangle. Wall. And I think this blades idea like again, is is part of like what they can do at a time. You know, it's not like but the you know they were. It was they were taught they. I think there was 1 1 version of the design where the blades was like same height, and then like same width. But that just didn't look interesting. I mean, just just so. So actually, I was not part of the design team like I got haired right after they, you know, they decided on the layout, so I guess I didn't know exactly what it was like the the Decision making process. But I did look through all the iterations of the designs, and I I think so. They had like a 1 time there was a curved kind of blades, and then there was also something more continuously.
 
@@ -193,7 +195,9 @@ Yeah, I agree. It's very interesting, you know to see how the different blades y
 
 Yes, thank you. So yes, I mean, I agree. Yeah. The the blades open the space and allow the beavers to enter the space. Yeah, exactly. Yeah. I think it's a very smart idea as well. It's like, you you not only because the lobby is is all glass, you know, like, so you can actually see what's going on outside and outside can see what's going inside. But with the installation you add like, almost like a virtual kind of element into it, like you, you kind of. There's another layer to to the to the kind of the scenery outside, and and you know whatsoever What's going in the lobby like you kind of enters another dimension, and depending on the content of the you know, the artists are created on the video wall. It could be something abstract, like what we're looking at right now and geometric. And it gives something that is literally. You know, like, like opening up a space behind the video wall, we had artists like, I said, who create interactive works, where you can see yourself on the video wall. So so it's it's a it's a very interesting Installation in that sense that you know, just just a sheer possibility of it. So like I said, the how big a file master artist generates. So the installation has a very, very high rise screen. So it's 15,360 by 2160 pixels. So I think normally, the file that the artist generate is I think I think it's it's depending on the length depending on how many minutes the work is. But we normally ask the artist to produce somewhere between 2 to like 8 or 10 min of work. So that's I can probably go. The file itself can go up to maybe 20 or 30 GB. I mean, we do ask artists to render as high resolution as they can. They can. They can render it out in like the mov, mov file or animation but but I think in general it's some artists also render out in Mp. 4. So I think it ranges. The file. Size is probably somewhere between 10 GB to like 30 or 40 GB.
 
-So it's pretty large file and we have a really large storage space for it as well, and we keep expanding it. So a couple of years ago, we we just expanded our storage room. Another thing I want to mention about the program is that Once we commission the work, the work, become part of our collection. So we Not only showcase New Commission work, but our past feature projects we also we also show it as well like it's, you know, like, maybe not on a day to day basis. But we you know, we occasionally would pull while our past work, and we'll show it for like special events, or or you know, I'll just like. You know, if there's a class tours, you know. Oh, you know, visit some special visitors so like our past work are part of our collection, and we are slowly building building up a really kind of a comprehensive, comprehensive media art collection. We do not show steels, so stills has to be converted into some kind of animated format. So yeah, we do not show still work. So it has to be a time-based piece. Great. I I think we? I think we should. I guess. Colin and I need to get offline and start our in person meet and meet and greet at the lobby. So I guess maybe the next next thing is the artist in each individual artist to share talk more about their work for this exhibition.
+So it's pretty large file and we have a really large storage space for it as well, and we keep expanding it. So a couple of years ago, we we just expanded our storage room. Another thing I want to mention about the program is that Once we commission the work, the work, become part of our collection. So we Not only showcase New Commission work, but our past feature projects we also we also show it as well like it's, you know, like, maybe not on a day to day basis. But we you know, we occasionally would pull while our past work, and we'll show it for like special events, or or you know, I'll just like. You know, if there's a class tours, you know. Oh, you know, visit some special visitors so like our past work are part of our collection, and we are slowly building building up a really kind of a comprehensive, comprehensive media art collection. We do not show steels, so stills has to be converted into some kind of animated format. So yeah, we do not show still work. So it has to be a time-based piece.
+
+Great. I I think we? I think we should. I guess. Colin and I need to get offline and start our in person meet and meet and greet at the lobby. So I guess maybe the next next thing is the artist in each individual artist to share talk more about their work for this exhibition.
 
 And thank thank you so much, everyone, for all your great questions.
 
@@ -211,13 +215,13 @@ Each mark, color, and motion is influenced by the sum of the previous ones. As t
 
 It's about pixels. And now I'd like to pass the mic on to Renata Yanashewska, who's our next artist presenter, and Renata is going to be taking over moderation from here. So I want to thank you guys all. And I'm going to head downstairs. But again, a real honor to be part of this project, and I appreciate all of my 3 co-conspirators who created work for this show as well. So I'll pass the mic on to Renata.
 
-## renata Janiszewska [48:24](https://www.youtube.com/watch?v=npycONiSa_c&t=2904s)
+## renata Janiszewska [48:23](https://www.youtube.com/watch?v=npycONiSa_c&t=2903s)
 
-Thank you very much, Colin, and I want to say thank you to Yuga, and also to her assistant, Colin Mason, for all the work they did with us, and how they helped make this project happen in a really smooth way. I'm just going to share my screen. And Yeah, I. I really appreciate expressionism because I work. I live and work in a fairly isolated part of Canada. There are only 800 people in the village where I live and the art that's produced around me. It tends to be based more on the landscape around.
+Thank you very much, Colin, and I want to say thank you to Yuga, and also to her assistant, Colin Mason, for all the work they did with us, and how they helped make this project happen in a really smooth way. I'm just going to share my screen. And.
 
-Because I use digital tools to do my work. I really always would like places to show that work on a screen rather than printing it out. This installation at 150 is so good as a place to get a different perspective on the work that I'm creating. I do the music, and I do all the images myself. And in this piece in particular, I I made a lot of interplay happen between abstraction and representation. So here you see an abstract Part of of my 2 min piece. The piece is called Pastel Souf.
+Yeah, I. I really appreciate expressionism because I work. I live and work in a fairly isolated part of Canada. There are only 800 people in the village where I live and the art that's produced around me. It tends to be based more on the landscape around. Because I use digital tools to do my work. I really always would like places to show that work on a screen rather than printing it out. This installation at 150 is so good as a place to get a different perspective on the work that I'm creating. I do the music, and I do all the images myself. And in this piece in particular, I I made a lot of interplay happen between abstraction and representation.
 
-Which in English means pastel size, and the color palette that I used in this piece Was fairly muted in in many places, although when you see it from different angles, the colors really changed a lot from Where they 1st started to seeing them on the actual installation itself. So portraiture has been a preoccupation of mine for some time now, and I use a really large variety of softwares to make my work look a certain way in this. Still, you're seeing a piece made entirely out of emojis.
+So here you see an abstract Part of of my 2 min piece. The piece is called Pastel Souf. Which in English means pastel size, and the color palette that I used in this piece Was fairly muted in in many places, although when you see it from different angles, the colors really changed a lot from Where they 1st started to seeing them on the actual installation itself. So portraiture has been a preoccupation of mine for some time now, and I use a really large variety of softwares to make my work look a certain way in this. Still, you're seeing a piece made entirely out of emojis.
 
 It's it's a still from a video work, and it's got a kind of Reference to Italian Renaissance art. And this is not from the work itself. This is like a prior sketch that I did before I made the piece for 150 media stream, and so you can see, the proportions of this are almost a square. But I did set this little excerpt.
 
@@ -247,33 +251,33 @@ And you can almost see the 4 4 k sections in there that we had to work with. Obv
 
 This is a huge file. So we did pass files back and forth between each other. Some people had processing speed, others knew how to do the compression work, but may not have had the room on their computers. So other people would work on the compression together, and it was well over a year that we worked on this project together. So not only Is it an amazing piece to see on the video wall, but is really a collaborative piece between all of us to get this job done. I am zooming in here now on some Details that you don't see when things are flying by you, so that each little part and piece has its own little choreographic score. It's almost like this giant, Rube Goldberg sort of machine, all sort of spinning at once.
 
-So I thought I'd give you a couple of up-close detailed pieces. And here's another one. So everything in the piece does move, even though your eye is focused on the the actual Large screen itself. Which is why, if you stood in front of it in one small section, you'd have a video of its own. Here's another detail shot still. And here's the video wall at night.
+So I thought I'd give you a couple of up-close detailed pieces. And here's another one. So everything in the piece does move, even though your eye is focused on the the actual Large screen itself. Which is why, if you stood in front of it in one small section, you'd have a video of its own. Here's another detail shot still.
 
-And I'm going to end on this last slide. If you look at the color photo on the right. You'll notice that sort of on the left-hand side of that photo. There are these white, streaky lines coming in. These are actual sketches from my husband's sketchbooks.
+And here's the video wall at night.
 
-He was a brilliant artist in and of his own right, but he passed away way too young, and on the left, you see, actually the drawings from his books. But he, ever since he was quite young he would go every summer to Chicago and paint with his grandfather plein air on the streets of Chicago in the industrial section zones every summer. So this is my private. But now public love letter to Phil, and I'm bringing him to Chicago on the video wall. At this point I'm going to pass the the screen over to Jan Swinburne.
+And I'm going to end on this last slide. If you look at the color photo on the right. You'll notice that sort of on the left-hand side of that photo. There are these white, streaky lines coming in. These are actual sketches from my husband's sketchbooks. He was a brilliant artist in and of his own right, but he passed away way too young, and on the left, you see, actually the drawings from his books. But he, ever since he was quite young he would go every summer to Chicago and paint with his grandfather plein air on the streets of Chicago in the industrial section zones every summer. So this is my private. But now public love letter to Phil, and I'm bringing him to Chicago on the video wall.
 
-Let me stop share here so she can.
+At this point I'm going to pass the the screen over to Jan Swinburne. Let me stop share here so she can.
 
 There we go!
 
-## Jan Swinburne [59:56](https://www.youtube.com/watch?v=npycONiSa_c&t=3596s)
+## Jan Swinburne [59:54](https://www.youtube.com/watch?v=npycONiSa_c&t=3594s)
 
 Oh!
 
-## Karen LaFleur [01:00:01](https://www.youtube.com/watch?v=npycONiSa_c&t=3601s)
+## Karen LaFleur [59:59](https://www.youtube.com/watch?v=npycONiSa_c&t=3599s)
 
 All right.
 
-## Jan Swinburne [01:00:02](https://www.youtube.com/watch?v=npycONiSa_c&t=3602s)
+## Jan Swinburne [01:00:00](https://www.youtube.com/watch?v=npycONiSa_c&t=3600s)
 
 One can everyone hear me?
 
-## Michael Pierre Price [01:00:07](https://www.youtube.com/watch?v=npycONiSa_c&t=3607s)
+## Michael Pierre Price [01:00:05](https://www.youtube.com/watch?v=npycONiSa_c&t=3605s)
 
 Yes.
 
-## Jan Swinburne [01:00:08](https://www.youtube.com/watch?v=npycONiSa_c&t=3608s)
+## Jan Swinburne [01:00:06](https://www.youtube.com/watch?v=npycONiSa_c&t=3606s)
 
 Okay, great. Let me get to my share and get rid of zoom. Okay. So I also wanted to thank everybody for 1 50 media stream, and you exhaust my colleagues. David Goldblum, for getting things rolling and helping us with, you know, actually being able to get into Chicago and test things as well, and take pictures. And yeah, it's just been a really fascinating project all along, and a great group of artists to be working with. We really were able to help each other out with this. So I'm just going to talk a little bit about this project. I got really excited about being able to show at 1 50 media, because a lot of my work is centered in sound, and the form of the The blades actually did sort of fit the idea of a waveform, so that that was an interesting and really exciting piece for me.
 
@@ -289,27 +293,27 @@ So that's kind of where that ended up, and I wanted you to get a good sound Of t
 
 Okay. And I think that's it for me. And I will hand it back to Renetta and thank you. Everyone for this opportunity, and being narrows. Stop, share. Okay, thanks.
 
-## renata Janiszewska [01:06:02](https://www.youtube.com/watch?v=npycONiSa_c&t=3962s)
+## renata Janiszewska [01:05:59](https://www.youtube.com/watch?v=npycONiSa_c&t=3959s)
 
 Alright. Thank you, Jeff. It's time to open it up. If you have any questions, and you've been putting them into the chat. If you just want to raise your hand, then I can call on you.
 
 Alvin.
 
-## Allen Hirsh [01:06:04](https://www.youtube.com/watch?v=npycONiSa_c&t=3964s)
+## Allen Hirsh [01:06:03](https://www.youtube.com/watch?v=npycONiSa_c&t=3963s)
 
 So I've I've got. I've been making my own videos, and my largest ones are start with about 600 source files. Each one's about 15 MB. So the raw source files run just shy of 10 gigs. But when you're making Mp. 4 s. At least with the software I have, you're limited to 4 GB which wouldn't be big enough for this. Which can you recommend software that could concatenate those files into a large enough file for a project like that. That's sort of interesting to me.
 
-## renata Janiszewska [01:06:40](https://www.youtube.com/watch?v=npycONiSa_c&t=4000s)
+## renata Janiszewska [01:06:41](https://www.youtube.com/watch?v=npycONiSa_c&t=4001s)
 
 Erin or Jen any.
 
 You're both muted.
 
-## Jan Swinburne [01:06:49](https://www.youtube.com/watch?v=npycONiSa_c&t=4009s)
+## Jan Swinburne [01:06:50](https://www.youtube.com/watch?v=npycONiSa_c&t=4010s)
 
 Karen I think, Karen, speaking.
 
-## Karen LaFleur [01:06:52](https://www.youtube.com/watch?v=npycONiSa_c&t=4012s)
+## Karen LaFleur [01:06:53](https://www.youtube.com/watch?v=npycONiSa_c&t=4013s)
 
 Oh, I'm sorry! I thought.
 
@@ -325,7 +329,7 @@ I hit the button, but it didn't go. Sorry about that. I used final cut pro. It w
 
 I'm sorry. What what was the software called? Again?
 
-## Karen LaFleur [01:07:24](https://www.youtube.com/watch?v=npycONiSa_c&t=4044s)
+## Karen LaFleur [01:07:25](https://www.youtube.com/watch?v=npycONiSa_c&t=4045s)
 
 Final cut, pro, apple.
 
@@ -333,81 +337,81 @@ Final cut, pro, apple.
 
 Final tech, pro.
 
-## Jan Swinburne [01:07:28](https://www.youtube.com/watch?v=npycONiSa_c&t=4048s)
+## Jan Swinburne [01:07:29](https://www.youtube.com/watch?v=npycONiSa_c&t=4049s)
 
 Final Correct.
 
-## Karen LaFleur [01:07:30](https://www.youtube.com/watch?v=npycONiSa_c&t=4050s)
+## Karen LaFleur [01:07:31](https://www.youtube.com/watch?v=npycONiSa_c&t=4051s)
 
 Like scissors.
 
-## Jan Swinburne [01:07:32](https://www.youtube.com/watch?v=npycONiSa_c&t=4052s)
+## Jan Swinburne [01:07:33](https://www.youtube.com/watch?v=npycONiSa_c&t=4053s)
 
 Yeah, but you did need you do need compressor to render it out. But I think, Karen, you were able to render it out on Handbrake.
 
-## Karen LaFleur [01:07:45](https://www.youtube.com/watch?v=npycONiSa_c&t=4065s)
+## Karen LaFleur [01:07:46](https://www.youtube.com/watch?v=npycONiSa_c&t=4066s)
 
 Yeah. Handbrake would not give us the right? Oh, gosh! What do you call it? The the.
 
-## Jan Swinburne [01:07:53](https://www.youtube.com/watch?v=npycONiSa_c&t=4073s)
+## Jan Swinburne [01:07:54](https://www.youtube.com/watch?v=npycONiSa_c&t=4074s)
 
 Resolution.
 
-## Karen LaFleur [01:07:54](https://www.youtube.com/watch?v=npycONiSa_c&t=4074s)
+## Karen LaFleur [01:07:55](https://www.youtube.com/watch?v=npycONiSa_c&t=4075s)
 
 Yeah, I was in another in the background. The only what we ended up doing was an Mp. 4. I took all the files and got the Mp. 4 together because I had space on my computer. And then Colin took it with Jan's guidance, and Colin had compressor, and he used compressor From the Mp, 4. File. Yeah.
 
-## Jan Swinburne [01:08:16](https://www.youtube.com/watch?v=npycONiSa_c&t=4096s)
+## Jan Swinburne [01:08:14](https://www.youtube.com/watch?v=npycONiSa_c&t=4094s)
 
 I mean, I have, I have.
 
-## Karen LaFleur [01:08:17](https://www.youtube.com/watch?v=npycONiSa_c&t=4097s)
+## Karen LaFleur [01:08:15](https://www.youtube.com/watch?v=npycONiSa_c&t=4095s)
 
 Down.
 
-## Allen Hirsh [01:08:18](https://www.youtube.com/watch?v=npycONiSa_c&t=4098s)
+## Allen Hirsh [01:08:16](https://www.youtube.com/watch?v=npycONiSa_c&t=4096s)
 
 I have an Mp. 4 file. I mean, you know, that runs for I don't know 4 min. It's not that big. It's not 10 GB or 20. It's it's much smaller.
 
-## Karen LaFleur [01:08:29](https://www.youtube.com/watch?v=npycONiSa_c&t=4109s)
+## Karen LaFleur [01:08:27](https://www.youtube.com/watch?v=npycONiSa_c&t=4107s)
 
 It has to be has to be large.
 
-## Allen Hirsh [01:08:32](https://www.youtube.com/watch?v=npycONiSa_c&t=4112s)
+## Allen Hirsh [01:08:30](https://www.youtube.com/watch?v=npycONiSa_c&t=4110s)
 
 Right? So the question is again, the source files. This is about 600 on the largest one. Each one's 15 MB. So I mean. There's there's there's a lot. There's Almost 10 GB of source files, you know, 600 each one's a frame, and and so that there's presumably there's enough information to do this question is how to concatenate it so that it meets those criteria.
 
-## Jan Swinburne [01:08:59](https://www.youtube.com/watch?v=npycONiSa_c&t=4139s)
+## Jan Swinburne [01:08:57](https://www.youtube.com/watch?v=npycONiSa_c&t=4137s)
 
 You have to scale it and Scale it somehow, for the you know, for the aspect ratio that we were dealing with right.
 
-## Allen Hirsh [01:09:10](https://www.youtube.com/watch?v=npycONiSa_c&t=4150s)
+## Allen Hirsh [01:09:08](https://www.youtube.com/watch?v=npycONiSa_c&t=4148s)
 
 No? Well, I mean, yeah. I mean, they're you're right. They're not. They're not 15 Byte 2. I mean, they're they're obvious. I mean, in that particular situation. Yeah, it. I'd I'd have. I'd have to Change their aspect ratio. The aspect ratio is 4, 3. But that's just that's just a technical issue.
 
-## Jan Swinburne [01:09:32](https://www.youtube.com/watch?v=npycONiSa_c&t=4172s)
+## Jan Swinburne [01:09:30](https://www.youtube.com/watch?v=npycONiSa_c&t=4170s)
 
 Yeah.
 
-## Allen Hirsh [01:09:33](https://www.youtube.com/watch?v=npycONiSa_c&t=4173s)
+## Allen Hirsh [01:09:31](https://www.youtube.com/watch?v=npycONiSa_c&t=4171s)
 
 You know. I mean, there are various ways to do that, and I have enough. I mean, I could write software to do it myself. If I had to, as far as scaling goes, rather than put each one into Photoshop and rescale it. To do that for 600 files, I'd be spending a week at it. But but I could probably figure out how to do that robotically. So okay, that would be fine. But then, how do I concatenate them in such a way that I mean again, my, the software I'm using. I mean, basically.
 
 It has a 4 GB limit when it makes the Mp. 4 Si think that's that is sort of a technical limit for Mp. 4 S. Maybe I'm wrong. That that was my understanding.
 
-## Jan Swinburne [01:10:15](https://www.youtube.com/watch?v=npycONiSa_c&t=4215s)
+## Jan Swinburne [01:10:13](https://www.youtube.com/watch?v=npycONiSa_c&t=4213s)
 
 Hmm! I'm not sure about that.
 
-## Karen LaFleur [01:10:21](https://www.youtube.com/watch?v=npycONiSa_c&t=4221s)
+## Karen LaFleur [01:10:19](https://www.youtube.com/watch?v=npycONiSa_c&t=4219s)
 
 I've had Mp. 4 s. Larger than that.
 
-## Jan Swinburne [01:10:23](https://www.youtube.com/watch?v=npycONiSa_c&t=4223s)
+## Jan Swinburne [01:10:21](https://www.youtube.com/watch?v=npycONiSa_c&t=4221s)
 
 Yeah, yeah, that's where software like, compressor. It's it's it's interface is awkward as hell. But it it does do things. You can really get, you know, the unusual aspect ratio, but you can adjust. You can operase a fair bit. You can also operase a lot in Final cut pro 2, and probably other. You know, Davinci, and all of those other apps as well. So yeah, you have to play. Hmm.
 
-## renata Janiszewska [01:11:07](https://www.youtube.com/watch?v=npycONiSa_c&t=4267s)
+## renata Janiszewska [01:11:05](https://www.youtube.com/watch?v=npycONiSa_c&t=4265s)
 
 Yeah, thank you, Jen, and thanks, Karen. Are there any other questions? Do I see any hands?
 
@@ -415,6 +419,6 @@ Okay? As Tommy mentioned the next salon, which is the 1st Thursday in June, will
 
 Sorry it's not the first.St It's the 1st Thursday in July. And that means, if you do, if you're an artist and you do want to share work at that to either email, me or DM, me on Instagram, and I'll put your name in the in the list. So far, I think I have 2 people already lined up for that particular song. So that's the 1st Thursday in July. Open Mic. And with that I guess I'll hand it over to Michael to just close it out.
 
-## Michael Pierre Price [01:13:03](https://www.youtube.com/watch?v=npycONiSa_c&t=4383s)
+## Michael Pierre Price [01:12:57](https://www.youtube.com/watch?v=npycONiSa_c&t=4377s)
 
 Okay. Well, what I'm gonna do is I'm gonna stop the recording in just a moment here. And for all of you who want to hang around, we will do our after party. Once again congrats to all of the artists. In the 1 50 media stream exhibition.

@@ -29,7 +29,7 @@ languages: ["en"]
 
 Action.
 
-## Michael Pierre Price [00:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3s)
+## Michael Pierre Price [00:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2s)
 
 Hello, my name's Michael Pierre Price and I'm an artist, a Techspressionist artist out of Phoenix, Arizona. And I want to welcome you today. Today is February the 5th, 2026, and this is Techspressionism Salon Number 103. Before we get started on our topic today, though, we have a special salon coming up in April. And I want to introduce Erin Ko to talk a little bit about that upcoming salon. Erin.
 
@@ -39,11 +39,11 @@ Thank you, Michael. Hi, everyone. I am the curator for New Media for the Every W
 
 So, if anybody who's already got a piece in the show, in Techspressionist Group, wants to participate, please reach out to me, eco at everywoman Biennial. And then we'll probably be inviting other artists who are not necessarily affiliated with Techspressionism, but are new media creative technologists who have work in the show to talk about their work as well. So, please join us for that salon, either as a participant or as an audience member, and yeah, hope to see you.
 
-## Michael Pierre Price [02:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=123s)
+## Michael Pierre Price [01:59](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=119s)
 
 That sounds awesome.
 
-## Erin Ko [02:04](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=124s)
+## Erin Ko [02:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=120s)
 
 Come in person if you can. Come on the… The 8th is gonna be huge, and the 11th is gonna be huge. We're gonna have everything, every medium.
 
@@ -129,11 +129,11 @@ So I don't know what's going wrong here. Hold on.
 
 Okay, we've got it. Here we are. Can you see my screen?
 
-## Michael Pierre Price [25:22](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1522s)
+## Michael Pierre Price [25:21](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1521s)
 
 Yes.
 
-## Verneda Lights [25:23](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1523s)
+## Verneda Lights [25:22](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1522s)
 
 Okay. Well, I mentioned at the beginning of my discussion that,. We have our point of reference or origin for artistry in the caves of Lascaux. And here we have an example. We have a photograph of a group that Are witnessing that incredible display…. And I want you to make note of the… Configuration, how we have the… Semicircular. Ceiling and later the walls of the… the cave that The cave people, the cave artists, Paleolithic artists, decided to use in their presentation of daily life through the arts.
 
@@ -161,19 +161,19 @@ And we'll… I'll just be quiet. For the next images. So, let me know if you thi
 
 And that's it.
 
-## Michael Pierre Price [32:06](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1926s)
+## Michael Pierre Price [32:04](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1924s)
 
 Oh, Vernita, wonderful presentation, and… Seeing the artwork is just fabulous, thank you.
 
-## Verneda Lights [32:13](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1933s)
+## Verneda Lights [32:12](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1932s)
 
 Thank you. My honor.
 
-## Michael Pierre Price [32:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1940s)
+## Michael Pierre Price [32:18](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1938s)
 
 Oh, okay, so, moving along to our next presenter. Renata Janiszewska, Renata, up to you now.
 
-## Renata Janiszewska [32:31](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1951s)
+## Renata Janiszewska [32:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1950s)
 
 Hi, everyone. Thank you, Michael. And I want to say thanks to Michael and Vernita for putting together this salon. I'm just gonna share my screen.
 
@@ -229,11 +229,11 @@ Boom! It ends up being on the farthestra. Be the most fellow we found in there. 
 
 To close with this is not a lap between.
 
-## Michael Pierre Price [46:42](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2802s)
+## Michael Pierre Price [46:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2801s)
 
 Wow, Renata, that's spectacular. Yeah, wow. I think we're… I'm hoping we'll have time for questions for everybody who's presenting today, because I think there's a lot to discuss and go over, so thanks, thanks, Renata. Next up, Colin Goldberg. Hey, Colin, welcome!
 
-## Colin Goldberg [47:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2827s)
+## Colin Goldberg [47:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2825s)
 
 Hey, what's up, Michael? Thank you for, taking the moderation role, and thanks, Vernada, for that great introduction to the topic. Renat, I really enjoyed Checking out that work, too. So yeah, you know, AI, is something that, I started experimenting with, I guess, with text, as far as generating text. It might have been, I don't know, 2021 or something like that. When ChatGPT first came out, I started asking it to write haikus. For me, and then I was posting, like, an image out of my archive, one of my old art images, and I would try to give it a prompt that related to the image, and then, post the image with the… The AI, and I started tagging them, with the hashtag Daily AIHiku. And then, you know, I went on with that for a while until I kind of… you know, that was… that was spent, that… that idea. But then, you know, I guess I resumed using it when I started playing around with Midjourney, and I've been using AI, to create the graphics for all of our salons, the sort of promo graphics. I'm just gonna share my screen here and kind of jump into some of this stuff, I want to share, so… Can you guys see my screen okay?
 
@@ -257,75 +257,75 @@ Well, I was wrong, actually. So, I tried it. I tried running my images of my pai
 
 So that's it.
 
-## Verneda Lights [01:01:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3663s)
+## Verneda Lights [01:01:04](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3664s)
 
 That's incredible. Thank you. Thanks, Colin.
 
-## Michael Pierre Price [01:01:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3667s)
+## Michael Pierre Price [01:01:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3669s)
 
 Yeah.
 
-## Verneda Lights [01:01:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3668s)
+## Verneda Lights [01:01:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3669s)
 
 We waited.
 
-## Colin Goldberg [01:01:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3668s)
+## Colin Goldberg [01:01:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3670s)
 
 The music was also made with Suno, by the way, which I did this morning. I didn't know I was going to be presenting until you reached out to me yesterday, so I was like, well, I gotta put something together. But I did have the video prepared, I used it for a residency proposal, so I kind of forgot I had that, but…
 
-## Michael Pierre Price [01:01:29](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3689s)
+## Michael Pierre Price [01:01:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3690s)
 
 Awesome.
 
-## Colin Goldberg [01:01:29](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3689s)
+## Colin Goldberg [01:01:31](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3691s)
 
 Yeah, that's it.
 
-## Michael Pierre Price [01:01:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3690s)
+## Michael Pierre Price [01:01:32](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3692s)
 
 It's really cool to see that progression. From earlier work to transformative with metagraphs and then now animating, it's really, really interesting.
 
-## Verneda Lights [01:01:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3701s)
+## Verneda Lights [01:01:43](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3703s)
 
 Yeah, the animations are powerful.
 
-## Michael Pierre Price [01:01:44](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3704s)
+## Michael Pierre Price [01:01:45](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3705s)
 
 Yeah, yeah. Thanks, Collin.
 
-## Cynthia DiDonato [01:01:46](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3706s)
+## Cynthia DiDonato [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
 
 Black and white, Colin.
 
-## Michael Pierre Price [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
+## Michael Pierre Price [01:01:50](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3710s)
 
 That was cool, yeah.
 
-## Cynthia DiDonato [01:01:50](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3710s)
+## Cynthia DiDonato [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
 
 Beautiful.
 
-## Michael Pierre Price [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
+## Michael Pierre Price [01:01:54](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3714s)
 
 Okay, we have one more presenter, Sahar Moussavi, and it looks like, I guess, Renita, you're gonna be.
 
-## Verneda Lights [01:02:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3720s)
+## Verneda Lights [01:02:01](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3721s)
 
 Yes.
 
-## Michael Pierre Price [01:02:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3720s)
+## Michael Pierre Price [01:02:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3722s)
 
 She's presenting on her behalf.
 
-## Verneda Lights [01:02:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3723s)
+## Verneda Lights [01:02:04](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3724s)
 
 App. Sahar is unable to be with us today. But she sent her, presentation via Google Docs. And, do you see it on the screen?
 
-## Michael Pierre Price [01:02:17](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3737s)
+## Michael Pierre Price [01:02:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3739s)
 
 Yes.
 
-## Verneda Lights [01:02:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3739s)
+## Verneda Lights [01:02:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3740s)
 
 Okay. So this is, from Sahar Moussavi. Sahar is one of our members that lives in Iran. And we have a beautiful artwork here. She's been creating art for a long time, and… she experiments also with converting her Or collaborating with the AI to expand upon the work that she created earlier in her life. So, here she states, in this art series, I leveraged VizCom AI, an AI engine tailored for product designers. To transform my hand-drawn sketches into various rendered images. Utilizing my original artwork as style references, the AI engine generated new interpretations frequently in the form of 3D renders. So here we go.
 
@@ -333,11 +333,11 @@ Here we have the original image. And we see the various ways in which the AI pic
 
 And here, again, the original image.
 
-## Cheryl Lavoie [01:03:40](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3820s)
+## Cheryl Lavoie [01:03:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3821s)
 
 Huh.
 
-## Verneda Lights [01:03:42](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3822s)
+## Verneda Lights [01:03:44](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3824s)
 
 You know, I'm… Expanding on the color and the form.
 
@@ -347,25 +347,25 @@ And lastly… Here.
 
 Yes, she has the 3D object interpretation. I think, Sahar does a wonderful job by hand. So that's the end of the, presentation. It's very, very brief. And powerful. I'll stop share now. Thank you.
 
-## Michael Pierre Price [01:04:38](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3878s)
+## Michael Pierre Price [01:04:40](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3880s)
 
 Will it? Thanks for… thanks for presenting that on her behalf, Renita. I… I mean, one of the things I found really fascinating about Sahar's work, Is the work that she does in 3D and creating those 3D environments, and if anybody is unfamiliar with her work, I would definitely suggest checking it out. She… she does some really fascinating, fascinating things with 3D worlds.
 
-## Verneda Lights [01:05:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3905s)
+## Verneda Lights [01:05:04](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3904s)
 
 Yes she does.
 
-## Michael Pierre Price [01:05:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3910s)
+## Michael Pierre Price [01:05:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3908s)
 
 Okay, well, we do have time for some Q&A here, which is really lovely, because oftentimes we don't get that chance. So if anybody wants to raise their hand or use the raise hand tool, let's get some discussion going.
 
 Lee. Daily day.
 
-## lee day [01:05:35](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3935s)
+## lee day [01:05:33](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3933s)
 
 I… I had a question for Colin about, it seemed like, to me, like there was almost two gen… two types of animations within those, Within the videos, like, the first part sort of seemed a bit flatter, and then the second part seemed to be much more 3D. Did you use different tools, or were they just different generations, or what, or… or what?
 
-## Colin Goldberg [01:05:59](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3959s)
+## Colin Goldberg [01:05:57](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3957s)
 
 Well, it's interesting, because I used the same tool for everything, but I did use different prompts for each one of the pieces. Usually, like, I did a whole bunch of different prompts, and just sort of curated the ones that I liked the best, and edited them into a, 23-second sequence, surprise, 23 is my, is my number. But, what I did see was that certain pieces Were understood by the AI as far as the way that they are put together in layers better than others. So, That's something that I'm actually exploring now in making the paintings, where, say, I layer, A wireframe form on top of gestural marks.
 
@@ -373,7 +373,7 @@ It's gonna understand that better than if I put the gestural marks over a wirefr
 
 Flying through Techspressionist space. That was actually the first prompt that I used in the first painting that I fed through it, and it understood. It did something that I kept, actually, with that prompt, which… that… that was another… that was sort of when the light bulb went off. I was like. Wow. It actually understood what I wanted to do, and it did something that I would have envisioned I would be instructing it to do. It just kind of, like, did it. So, yeah, I mean, there was the same tool, though. Sora is what I used for everything.
 
-## Verneda Lights [01:08:32](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4112s)
+## Verneda Lights [01:08:31](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4111s)
 
 May I comment, also, Colin? The… AI, as I mentioned in my talk, the AI is trained to recognize patterns. And it has a very sophisticated concept of patterns, because it's been fed on the patterns of the world. So what it did was, in encountering your work, it analyzed patterns that it recognized. And then arrange the presentation and the movement of that presentation of the patterns that it perceived. In a way that is aesthetically pleasing. So that is what AI does. It doesn't save, hold pictures or entire images. It is trained to recognize patterns, and we have a lot of, Patterns that we generate in our individual artworks, and you certainly have them in your multiple layers of artistic renderings. You know, I imagine there could be 4 or 5 different layers of things going on, so within those 4 or 5 different layers.
 
@@ -381,73 +381,73 @@ They're probably, you know, X to the 10th power, or whatever amount of patterns.
 
 Was just incredible. I appreciate it very much.
 
-## Colin Goldberg [01:10:35](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4235s)
+## Colin Goldberg [01:10:34](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4234s)
 
 It's interesting, that, like, I know with Midjourney, you can use, I forget what they call it, but, like, you can do style… you can basically feed it a whole bunch of stuff, and it'll use that to generate new work in a particular style. I don't think Sora actually has that yet, as a piece of functionality, but, you know, I'm hoping they incorporate that, because I think it'll be interesting. But I did think that, to me, like, it was… the most interesting was how it could actually pull apart physical brushstrokes that I made with my hand. Like, when I see it moving Hard-edge elements around, it's like, okay, that's kind of like what I was doing manually in Adobe Animate, just, like, moving these things around, but for it to actually move Individual brushstrokes around, and like, you know, and drips, and other stuff like that. That just blew my mind, I mean…
 
-## Renata Janiszewska [01:11:31](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4291s)
+## Renata Janiszewska [01:11:29](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4289s)
 
 Excellent.
 
-## Michael Pierre Price [01:11:31](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4291s)
+## Michael Pierre Price [01:11:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4290s)
 
 Ever. We… oh, sorry.
 
-## Renata Janiszewska [01:11:34](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4294s)
+## Renata Janiszewska [01:11:33](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4293s)
 
 As a user of Midjourney, I know Michael… Michael uses Midjourney heavily. And one thing I like about what they've done lately is they let you make a mood board. So, you can make a mood board of 8 images, and then plug that into your… where your prompt would be, and it will influence the look of what comes out. It's very imprecise, but I actually enjoy the imprecision and the mistakes and whatever you want to call it, the idiosyncrasies of AI right now are really good for artists. Maybe not so much for people who want Pristine realism, but that's not the goal.
 
 So I'm… I'm kind of hoping it takes a long time to… to evolve into perfection, whatever.
 
-## Michael Pierre Price [01:12:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4344s)
+## Michael Pierre Price [01:12:22](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4342s)
 
 Okay, we have a couple raised hands. Cheryl.
 
-## Cheryl Lavoie [01:12:29](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4349s)
+## Cheryl Lavoie [01:12:27](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4347s)
 
 Hi, I just… I'm… I'm, like, overwhelmed here. I'm so far behind. I started in 19… 83, with… Kind of crazy art with, a computer, like, the little one… mini computer that Apple had. And there was just a keyboard there, and… we could print from the other room, and whatever, whatever, and I made a piece that I don't know if I've shown you guys, but… Consistent of… all you could use was copy paper, and I put together, like, 12… 12 pieces of copy paper, and… and there was my work, so… that's… that's in 1983.
 
 And I had so much trouble with Adobe and all that, and I'm gonna have to go back and eat my words, but… I guess without Photoshop, it seems to me I'd be dead. I don't know… you know, what everybody else thinks about that. But it seems I need to have Photoshop in order to continue with With all the, you know, with the art. You know, animation and all that stuff. My screen is different, is everybody hearing me okay?
 
-## Verneda Lights [01:13:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4432s)
+## Verneda Lights [01:13:50](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4430s)
 
 Yep, we hear you.
 
-## Cheryl Lavoie [01:13:53](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4433s)
+## Cheryl Lavoie [01:13:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4432s)
 
 Okay, I'm just so overwhelmed by the beautiful work that everybody presented today, and I just wondered if anybody wanted to hear, what ChatGPT said about itself. It's kind of funny, because I asked… I asked it, what is generative AI? It says… Generative… Okay, why is this?
 
 Oh, gosh. Well, never mind. This always happens to me. Something always goes wrong. Okay, never mind, thank you very much for listening.
 
-## Verneda Lights [01:14:38](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4478s)
+## Verneda Lights [01:14:37](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4477s)
 
 Thank you.
 
-## Michael Pierre Price [01:14:40](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4480s)
+## Michael Pierre Price [01:14:39](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4479s)
 
 Okay, Lee.
 
-## lee day [01:14:42](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4482s)
+## lee day [01:14:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4481s)
 
 So, I was wondering whether anyone had used, either Comfy AI or, or interfaces like Imagine, Art. Which… Basically allow you to choose your own models, which type of models, you know, and set up your own workflows and that type of thing. It sounds like Midjourney is doing some of that. But I, I, I don't know if these, these are a little bit… more modular, maybe, or they're…
 
-## Verneda Lights [01:15:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4510s)
+## Verneda Lights [01:15:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4509s)
 
 The Night Cafe… Night Cafe has a similar layout. You can choose the model that you want to use. As well as the style.
 
-## lee day [01:15:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4520s)
+## lee day [01:15:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4519s)
 
 Of variations within that model.
 
-## Lee Schnaiberg [01:15:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4524s)
+## Lee Schnaiberg [01:15:23](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4523s)
 
 Lee, I've played with Comfy a bunch. And if you've ever played with any, anything like Resolume. Yeah. Or jitter, max MSP jitter. Setting up nodes in Comfy is really similar to that kind of a node building, and it's really fun. I think if you dabble around in it, you'll… you'll have some good experiences.
 
-## lee day [01:15:54](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4554s)
+## lee day [01:15:56](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4556s)
 
 Yeah, Imagine Art does a lot of the same things, except it's a little more expensive, and you have to, you know, it's already built for you in many ways, but it allows you to use a lot of the same Different models, and they keep on throwing in all the new ones. So it's just… it sounds like you all are… have… Found your tool and seemed to be focused on it.
 
-## Verneda Lights [01:16:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4579s)
+## Verneda Lights [01:16:18](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4578s)
 
 Well, I've worked with all of the biggies, so to speak. You know, and try to make as much creative use of some of the minor players, such as Meta AI. But I find that in terms of creativity, And, the AI… Getting a feel for what it is you want to convey, Midjourney, pretty much captures What you want. Best. Without really having a… too much of a, Mmm… not much discord in terms of, what you see on… In the rendering versus what you've typed into your prompt.
 
@@ -455,29 +455,29 @@ So, Some of the others do well, things like Night Cafe. Although it offers you a
 
 So, I like to play around. Amongst the ones that, you know, that I use, I have a stable of about 5 or 6. Image generators that I use.
 
-## Michael Pierre Price [01:18:06](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4686s)
+## Michael Pierre Price [01:18:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4685s)
 
 Lee… Lee, to follow up on Vernada's point. I mean, look at your work. I mean, look at the innovative way you use a camera, and most people use it for taking family photos, and so I think AI allows you to Expand beyond what most people use AI these days for, which is, you know, very photographic-looking sorts of images, novelty, but it's… it's within a pretty narrow Bandwidth that a lot of the AI gets geared towards, and I think artists are the ones that push the envelope. I mean, just take a look at what was done today.
 
 I mean, most of the work you saw today, you're not gonna find on the homepage of Midjourney or some of the other, you know, AI, Websites, because we're sort of at the far end of the bell curve of how we're using these tools.
 
-## Verneda Lights [01:19:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4747s)
+## Verneda Lights [01:19:06](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4746s)
 
 Yes, we are.
 
-## lee day [01:19:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4750s)
+## lee day [01:19:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4749s)
 
 Especially if you go to the OpenAI one, which basically has all your Disney characters under contract.
 
-## Michael Pierre Price [01:19:17](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4757s)
+## Michael Pierre Price [01:19:16](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4756s)
 
 Yeah. Colin has his hand raised, but Cynthia's also raising her hand, so I'll go to Cynthia real quickly.
 
-## Cynthia Rubin [01:19:25](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4765s)
+## Cynthia Rubin [01:19:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4764s)
 
 Okay, I know that early on, Renata, you were, trying to overcome racial biases within AI. Yes. So this is a question for you, and also for Renata, because I noticed that Renata, In the piece she showed us had some Asian A number of Asian characters, and a couple, Dark-skinned people that I don't know, African American, African origin, whatever. And I hadn't seen that very much before. So this is kind of a question for both of you. Are you finding that AI is more open to, racial… more… more open racially?
 
-## Verneda Lights [01:20:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4807s)
+## Verneda Lights [01:20:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4810s)
 
 Well, it's in keeping with AI to learn patterns. And over time, though I initially encountered market biases, AIs were just almost universally unable to consistently render a human face when you requested any type of melanated Presentation. African American, African, Asian, whatever, it was just incompetent. And that incompetence was built in. It was willful. Okay, but with time. So many different people, and artists, I'm quite sure, led the way, in a lot of ways, in terms of creating prompts, requesting Complexion variations.
 
@@ -485,37 +485,37 @@ And the AI had to learn That pattern on top of Acquiring images that were fed in
 
 To, melanin variations. The AI, because it is trained to learn patterns, Had to eventually break through.
 
-## Cynthia Rubin [01:22:32](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4952s)
+## Cynthia Rubin [01:22:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4950s)
 
 Okay, so can we hear from… that's a great answer. Renata, what was your experience? Because I had not seen the racial variety in your work before, and now, in what you showed today, it was there. How'd you get it in there? You're muted.
 
-## Renata Janiszewska [01:22:50](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4970s)
+## Renata Janiszewska [01:22:49](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4969s)
 
 Well, when you say you hadn't seen it before, it's because you don't see all my work all the time. Okay, yeah. This has been going on for ages. Oh, I come… I come from an Eastern European background, that's my ethnicity. Art history plays a big part in my life. So, Northern European Renaissance, for example, is something that I'm drawn to. But people of color were living in Europe a long time ago. They just weren't necessarily depicted in fine art so much, because they might have not had as much money.
 
 I live in a very multicultural nation. And I'm really used to seeing All… people of all colors, so… that naturally finds its way into my work. It would be… it would be…. It would be dishonest, I think. To not to try to be more inclusive. But it's also… it's also, from an artistic point of view, it's just interesting to see different features.
 
-## Cynthia Rubin [01:23:56](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5036s)
+## Cynthia Rubin [01:23:55](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5035s)
 
 So, did you have to make an effort to get it in? That's really the question.
 
-## Renata Janiszewska [01:24:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5040s)
+## Renata Janiszewska [01:23:59](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5039s)
 
 Well, I have to make an effort to get everything in.
 
-## Cynthia Rubin [01:24:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5043s)
+## Cynthia Rubin [01:24:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5042s)
 
 Okay. Great, thanks.
 
-## Renata Janiszewska [01:24:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5048s)
+## Renata Janiszewska [01:24:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5047s)
 
 You're welcome.
 
-## Michael Pierre Price [01:24:11](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5051s)
+## Michael Pierre Price [01:24:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5049s)
 
 Colin.
 
-## Colin Goldberg [01:24:14](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5054s)
+## Colin Goldberg [01:24:13](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5053s)
 
 Yeah, I just wanted to share one thing, in response to Cheryl, and her comment about Photoshop. So I do, you know, I do sort of Commercial work, design work and production work as my day job, and I actually use AI tools in that as well in a more mundane fashion, but, like, the Adobe Suite has, incorporated AI tools in a pretty interesting way. I would just pull this up. Like, there's a, a feature in Photoshop called Generative Expand, so say, like.
 
@@ -527,41 +527,41 @@ You know, and also, a lot of the other tools in the Adobe Suite, particularly Ph
 
 And that's gonna be opening up this spring. You guys should check it out if you're interested in AI art. If you Google Data Land, you'll see it. And it's not open yet, but it looks like it's gonna be, pretty killer. So, yeah, that's just… Side note.
 
-## Michael Pierre Price [01:27:09](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5229s)
+## Michael Pierre Price [01:27:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5227s)
 
 Okay, one final question, and I think then we'll wrap things up. Wow.
 
-## Bob Prata [01:27:14](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5234s)
+## Bob Prata [01:27:12](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5232s)
 
 Hi, can you hear me okay?
 
-## Michael Pierre Price [01:27:16](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5236s)
+## Michael Pierre Price [01:27:15](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5235s)
 
 Yes.
 
-## Bob Prata [01:27:17](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5237s)
+## Bob Prata [01:27:16](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5236s)
 
 I, just a technical question, I'm just starting using AI. I actually haven't even yet. And I was interested in building my own model, totally based on my own artwork. I have a really extensive collection of black and white pencil drawings. And, is there any recommendations? I hear a lot of talk about mid-journey. I was gonna… I was… Tentatively gonna use OpenArt AI. And build my own model, Can anyone have any feedback on that? I want to get started on a good…
 
-## Verneda Lights [01:27:57](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5277s)
+## Verneda Lights [01:27:56](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5276s)
 
 Well, in the world of software development, they really don't believe in reinventing the wheel. Okay? And for what you described, you… you don't need to build a model. To achieve those ends. You… Choose what… that which already exists. In order to be eco-friendly, you know, recyclable mentality. And then, if you have the funds, because it's very expensive sometimes to build, you have the funds to, explore the coding that would be involved to create an agent Or another layer.
 
 To a model, if you have the rights to do so, then you can do that. But I would say, since you're just starting out in the game, Look at the individual models, That are currently available.
 
-## Bob Prata [01:28:59](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5339s)
+## Bob Prata [01:28:57](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5337s)
 
 Didn't…
 
-## lee day [01:29:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5340s)
+## lee day [01:28:58](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5338s)
 
 Can I just make a suggestion on that? Because I've actually looked into this a little bit. I would go to Claude, or whatever, like, ChatGPT you use, and I would describe to them exactly what you're trying to do, and have a dialogue with it, and it will give you a pretty deep Come up with a pretty detailed plan for how to implement what you're trying to do with, you know, also talking to it about how you want to approach it, how many images you have, what you're trying to get out of it, etc.
 
-## Bob Prata [01:29:32](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5372s)
+## Bob Prata [01:29:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5370s)
 
 Yeah, thank you, that sounds great. What I want to do is create iterations of, like, my current artwork, which, you know, one drawing may take me days. Days to complete, so I want to make iterations of similar styles but what I want… what I'm really interested also is getting them in color, because right now they're all in black and white. It's not that I can't do color on my own, it's that… The time it would save me. It's such an incredible tool that I want to utilize it.
 
-## Jacki Morie [01:30:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5408s)
+## Jacki Morie [01:30:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5407s)
 
 I'll weigh in here, because I do have friends that have done exactly what you want to do. Kevin Mack has his own, stable diffusion, setup. I've tried to set one up. It takes, it takes so much work, and it takes over your PC or whatever. It doesn't work as well on a Mac, so you need a pretty powerful graphics PC to do that, and you set up the stable diffusion software on your computer, and then you have to… there's thousands of models out there from which you can choose. You can also go to the extent of setting Up your own model with your own artwork, it takes quite a bit, so you would have to scan in every one of your images to make that model database for the stable diffusion type of thing that you would be putting on your computer. It is such a rabbit hole.
 
@@ -569,79 +569,79 @@ I would suggest using some of the, you know, just feeding your images into some 
 
 So…
 
-## Bob Prata [01:32:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5525s)
+## Bob Prata [01:32:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5527s)
 
 Yeah, thank you, yeah, and look, I already have my work scanned because I posted on Instagram, so… and my understanding, and I hope I'm not using the word model incorrectly, but, like, I went, for example, on a couple of platforms. And they have areas where you can create your own model, and it seems like, like, you would down… you would… Input, like, say, 25 to 48 images, sometimes more, and it creates the model for you. That's what I was… that's what I was gonna do. I wasn't gonna get into coding, because that's all way over my head. Although, I'm interested in that, but that would be way advanced in the future.
 
 Of course, I'm 68, so I don't want to spend too many years wearing that. I want to get more… that's… I want to get more productive, which is why I want to use AI as a tool.
 
-## Colin Goldberg [01:33:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5588s)
+## Colin Goldberg [01:33:06](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5586s)
 
 I would recommend, like Renata mentioned, how Midjourney has mood boards.
 
-## Bob Prata [01:33:13](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5593s)
+## Bob Prata [01:33:12](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5592s)
 
 That's…
 
-## Colin Goldberg [01:33:14](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5594s)
+## Colin Goldberg [01:33:12](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5592s)
 
 Really easy, user-friendly way to experiment as a jumping-off point. I actually played a little bit with that. With a project that I started with an art licensing company. They gave me a bunch of style references, they wanted stuff. I didn't end up doing it, just because I just wasn't feeling it, but I could, you know, you could feed it a bunch of stuff, and it'll generate images based on a prompt and particular set of works. So, you know, you could upload a whole set of works.
 
 And then give it a prompt, and it'll, you know, to some… with some degree of accuracy. Come up with an image that's based on that style, so that might be a good place to start experimenting. That's just based on my one experience with that kind of, you know, setup.
 
-## Bob Prata [01:34:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5642s)
+## Bob Prata [01:34:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5640s)
 
 Yup, thank you, yeah, I'm definitely gonna try that.
 
-## Verneda Lights [01:34:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5645s)
+## Verneda Lights [01:34:03](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5643s)
 
 Yeah, one thing I would recommend, is that we all be mindful of how we use energy. Because AI is very, energy intensive. Okay, those servers are very expensive to run and maintain, and we're running into problems with water usage throughout this country, and the data centers disrupting communities by virtue of their, failure to plan. In order to conserve our water resources. So, which is one reason why I recommended, you know, that you start with that which already exists, especially if it.
 
-## Bob Prata [01:34:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5688s)
+## Bob Prata [01:34:46](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5686s)
 
 Yeah.
 
-## Verneda Lights [01:34:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5688s)
+## Verneda Lights [01:34:47](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5687s)
 
 It meets your needs, you know? And then once you push the limits of that, and it no longer meets your needs, then you might want to build on top of it, which is what the programs that offer The ability to create your own model. Basically, you're just training the model to recognize the patterns of your work. And the mood board that Colin recommended is a very inexpensive and eco-friendly way to accomplish that goal.
 
-## Lee Musgrave [01:35:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5719s)
+## Lee Musgrave [01:35:21](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5721s)
 
 I can'.
 
-## Bob Prata [01:35:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5720s)
+## Bob Prata [01:35:21](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5721s)
 
 That's true, yeah.
 
-## Lee Musgrave [01:35:21](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5721s)
+## Lee Musgrave [01:35:23](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5723s)
 
 About… 40 miles from my house, on the other side of the river in Oregon, there's a town called the Dowes, and it has a Google. Center, there. That center is more energy and more water than Excuse me. Of the Dows. And so, people are angry.
 
-## Verneda Lights [01:35:46](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5746s)
+## Verneda Lights [01:35:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5748s)
 
 Oh yeah, we have to be responsible with this. It's a powerful tool, AI is, but we have to keep in mind that computational complexity has a cost. With it, and we should use it responsibly and sparingly, I believe.
 
-## Bob Prata [01:36:06](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5766s)
+## Bob Prata [01:36:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5767s)
 
 Thank you, I… that's so important to me as a human being, and I'm so glad you… Brought that up in this discussion. Thank you.
 
-## Verneda Lights [01:36:17](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5777s)
+## Verneda Lights [01:36:19](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5779s)
 
 You're welcome.
 
-## Michael Pierre Price [01:36:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5780s)
+## Michael Pierre Price [01:36:22](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5782s)
 
 Well, I think we're at kind of a closing point. So I went on… I want to thank today's presenters, Renada, Renata, Colin, and Sahar. And for the good questions. Thanks, everybody.
 
-## Bob Prata [01:36:36](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5796s)
+## Bob Prata [01:36:37](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5797s)
 
 Thank you.
 
-## Michael Pierre Price [01:36:40](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5800s)
+## Michael Pierre Price [01:36:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5801s)
 
 And I guess I'll leave it to you, Colin, to sign us off.
 
-## Colin Goldberg [01:36:44](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5804s)
+## Colin Goldberg [01:36:45](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5805s)
 
 Alright, so yeah, thanks again, Michael, and thanks to all the presenters, and everyone watching. And… that's about it for you guys who are watching on YouTube. You know, check us out on Techspressionism.Com, shameless plug. Also, we have an Instagram account, which, Renata is the curator of, so if you add your… Add the hashtag Techspressionism, hashtag Techspressionism to your Instagram posts, you know, they will be visible in a hashtag search, which is the way that a lot of times we'll… Find new artists to, feature, put on feeds, etc. You could also DM… I hope it's okay to say this, Renata, but you could DM the account if you're interested in having, our curator, our illustrious curator, check your work out, so… It's a very open community, and, you know, we urge, Anyone who's interested to, to get involved. There's no, sort of… Membership, per se. It's just a community effort, so… With that, I'm going to stop recording, and as always, there will be an after-party, which is basically just a continuation of the Zoom session for anyone that wants to hang out and stick around.
 

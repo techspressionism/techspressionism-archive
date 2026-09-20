@@ -131,11 +131,15 @@ def main():
         sl = slug(s)
         zoom_path = s2.find_local_zoom_transcript(s, inventory)
         vtts = sorted(glob.glob(str(ROOT / "raw" / "captions" / sl / "*.vtt")))
-        if not (zoom_path and zoom_path.exists() and vtts):
-            print(f"{label(s)}: need both the Zoom transcript file and YouTube captions -- skipped")
+        whisper_path = ROOT / "raw" / "whisper" / f"{sl}.json"
+        if not (zoom_path and zoom_path.exists() and (vtts or whisper_path.exists())):
+            print(f"{label(s)}: need the Zoom transcript file and either a Whisper transcript or YouTube captions -- skipped")
             continue
         cues = s2.parse_zoom_transcript(zoom_path.read_text(errors="replace"))
-        _, _, yt = s2.parse_youtube_captions(Path(vtts[0]).read_text(errors="replace"))
+        if whisper_path.exists():        # the same reference Stage 2b uses: exact words on the video's own timeline
+            yt = [(w["start"], w["text"]) for w in json.loads(whisper_path.read_text())["words"]]
+        else:
+            _, _, yt = s2.parse_youtube_captions(Path(vtts[0]).read_text(errors="replace"))
         yt = [(t, re.sub(r"[^a-z']", "", w.lower())) for t, w in yt]
         yt = [(t, w) for t, w in yt if w]
         kept = a2b.keep_anchors(a2b.find_anchors(a2b.zoom_words(cues), yt))

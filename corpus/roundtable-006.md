@@ -30,7 +30,7 @@ flags:
   - speaker_index_missing
 ---
 
-## Michael Pierre Price [00:15](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=15s)
+## Michael Pierre Price [00:02](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2s)
 
 Welcome! My name is Michael Pierre Price I'm an artist out of Phoenix, Arizona, and I am moderating today's roundtable number 6, which deals with the Origins of Techspressionism, the first meeting that existed and occurred 5 years ago, where it's gone in the last 5 years, and maybe where we're headed. And I'm really pleased today that those 5 original members who got together five years ago are here today to share their recollections. And before we get them talking about that very first meeting.
 
@@ -46,7 +46,7 @@ I thought to expressionism would be a good way to describe it. Colin, who coined
 
 Welcome.
 
-## Colin Goldberg [04:30](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=270s)
+## Colin Goldberg [04:17](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=257s)
 
 Thanks, Michael, and I'm really glad that you came up with this idea, you know, to get us all together in the first place, and I'm happy that everyone was able to make it today. So, you know, like, I came up with this term as a title for a solo show, which was pretty much… A DIY effort at a little pop-up rental gallery in Southampton, and you know, I really… Don't even remember exactly when the idea for this term popped into my head. I was just trying to come up with a way to describe my work, and I think that it was sort of a response to the idea that A lot of people were talking about my work as digital art, which really didn't sit comfortably with me, especially because I studied painting as an undergraduate. A lot of my work involves physical media with paint, and, you know, I like to think of A lot of my work is painting, not digital art, and so the term made sense to me in terms of encompassing a variety of different media, and also my interest in abstract expressionism, which I kind of got turned on to, as an undergrad, at SUNY Binghamton, studying under an artist named Angelo Ippolito, who is a second-generation New York school abstract expressionist painter.
 
@@ -60,7 +60,7 @@ And, I thought, you know, I'll reach out to her and see, you know, what she thin
 
 In agencies, and I know Oz Worked in marketing as well, so we kind of, like, looked at it from that standpoint, like, so if you want to develop this into something, what would be the most effective and efficient way to do this? And then, sort of the conversation went from there, so… With that, you know, I guess I'll pass it on to Oz, and, you know, she could talk a little bit about it from her standpoint and memory.
 
-## Oz Van Rosen [09:41](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=581s)
+## Oz Van Rosen [09:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=567s)
 
 So, you know, as Colin was saying, most of my life, I was in the corporate world, and art was just a hobby and a passion, and I didn't have the privilege of being able to do it full-time, and and then in 2017, my dad passed away, and that makes you look at life in a very different lens, and I thought, oh. You know, you better pursue your dreams, because you might not have another opportunity to do it. So, I decided to retire and pursue art, and My whole life, you know, when I did make art, it was very analog, painting and drawing, and and then it turned into photography, but, you know, I'm dating myself here, but carrying, you know, giant boxes of lenses everywhere I went, you know. I mean, really big boxes, right? And the lenses rolling all over the place, you know, when you opened it up, and and then eventually it went to a digital camera.
 
@@ -76,27 +76,27 @@ And he said, you know, I've been using this since 2011, do you think that we sho
 
 So, that's my recollection.
 
-## Michael Pierre Price [14:11](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=851s)
+## Michael Pierre Price [13:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=838s)
 
 Thanks, Oz. Patrick or Steve, who would like to go next?
 
-## Steve Miller [14:17](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=857s)
+## Steve Miller [14:04](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=844s)
 
 Aurora. Okay.
 
-## Helen A. Harrison [14:20](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=860s)
+## Helen A. Harrison [14:07](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=847s)
 
 Either or.
 
-## Steve Miller [14:25](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=865s)
+## Steve Miller [14:11](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=851s)
 
 I'll jump in then. Patrick just kept his mouth closed for…
 
-## Patrick Lichty [14:30](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=870s)
+## Patrick Lichty [14:16](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=856s)
 
 Too long. Which is shocking.
 
-## Steve Miller [14:32](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=872s)
+## Steve Miller [14:19](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=859s)
 
 It's, you know, my recollection is Techspressionism started way before the idea and the word, way before 5 years ago, and, I'd been working with Colin in the studio together. It was… I think it was, like, 1993 or 1994. And, was getting ready for an exhibition in Paris. And also, like Colin, I had grown up near a fantastic museum in Buffalo, New York. Called the Albright-Knox Museum, now called the AKG, and they had an incredible collection of abstract expressionist art.
 
@@ -108,7 +108,7 @@ I'm very interested in the environment in my work, so when Colin came up with th
 
 And… and brought together the first meeting. Is that the meeting that we did 5 years ago on Zoom? Was that the initial meeting with Helen? That's the one we're talking about. Okay. So that, you know, I came to that meeting, and I realized that it was a great way to aggregate information, and it was a great way to… Collect eyeballs and interest, and, you know, it's grown so beyond what that table conversation was. I'll, you know, I'm… Hats off to all of you for making this happen.
 
-## Patrick Lichty [19:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1167s)
+## Patrick Lichty [19:13](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1153s)
 
 I guess, I guess I need to jump in then, and so anyway, I wanna… I want to thank, you know, Colin, Michael, everybody for having me, here, and Well, let's see here. My roots in art are very old. My mom was an artist, a fairly well-known regional artist in Akron, Ohio, studied with, painters like Jack Richards. And that sort of thing. We were, you know, again, you know, very well-known rec… you know, regionals, and… you know, my interest in art was, you know, just baked into me from an early age, and, you know, she taught me you know, painting, textiles, ceramic, whatever, and then I remember I was either 5 or 7, I can't remember. I was at the Akron Institute of Art, which, by the way, was a great museum. I think the idea that most of us have been near great museums.
 
@@ -134,11 +134,11 @@ Yeah, it just seems very, very solid. So, you know, I think… you know, movemen
 
 So, that's my… that's my spiel.
 
-## Michael Pierre Price [28:41](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1721s)
+## Michael Pierre Price [28:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1707s)
 
 Thanks, Patrick. Okay, Helen, what are your thoughts?
 
-## Helen A. Harrison [28:47](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1727s)
+## Helen A. Harrison [28:33](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=1713s)
 
 Well, Patrick raises a very important point, which is that it… The technology aspect of it is actually a double whammy. You have the technology as a way of creating, as a way of enabling artists to create things that they couldn't create otherwise, but also the distribution element, where you can get your word out to so much broader audience, not only the people who are working in the genre, in the movement. Or using that as their impulse. But also reaching people who would never know about it otherwise, through the internet.
 
@@ -158,17 +158,17 @@ And he articulated this quite clearly, and it was never really picked up on unti
 
 Who used the term back in 1915. So, you know, it was like… it came full circle. But the technology side is… that's the means, and then the expressionism is the end. So this was a nice, I thought, a very congenial marriage of terms. I don't care what your husband or wife thought about it at the time. I think it works great.
 
-## Michael Pierre Price [34:26](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2066s)
+## Michael Pierre Price [34:12](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2052s)
 
 Thank you, Helen. That's a great perspective. This is so fascinating to me, because… The five of you got together. None of you could really say where you really thought this was going to go, and obviously we now have a 5-year history. That initial get-together, where we are today, and so much, in my opinion, has transpired in that timeframe. Have you been surprised, and anybody can chime in here, have you been surprised at how things have Evolved without necessarily As you mentioned, Helen, without having an Andre Breton saying, this is where we're going and this is how we're heading. My opinion has been that the decentralized nature, although Colin has been, obviously, a very central figure in this, he has been reluctant to be the Andre Breton of the community.
 
 And he is basically… Asked everybody who's interested, if you have a cool idea, run with it. And I think… I think that sense of community has been really, really powerful, but from where you all started 5 years ago, and kind of coming together like you've talked about here from each of your vantage points. How did we get here, and what surprises, and how do you… how do you… how do you read the history right now of this 5-year period that we've gone through? Because there's so much that's happened.
 
-## Steve Miller [36:07](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2167s)
+## Steve Miller [35:53](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2153s)
 
 What's the problem?
 
-## Helen A. Harrison [36:07](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2167s)
+## Helen A. Harrison [35:53](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2153s)
 
 For me, it was the, the exhibition. When we started talking about doing a physical show, because up till that point, it had just been online. And the community was building, and people were sharing ideas. But then you say, well, who's going to see this? Only the people who are online. But if it's a real art movement, a real, an international impulse, it would be great to be able to manifest this in physical terms, so that you can see the variety all in one place.
 
@@ -176,13 +176,13 @@ Instead of having to go online and going into the different forums. And once the
 
 And even when it's electronic, if it's on a monitor or something like that, just to be able to sit in front of it and contemplate it, rather than having to go on Zoom, off Zoom, whatever. And I felt that the show and, you know, and it has had a couple of afterlives, that that really helped to make the movement solidify.
 
-## Oz Van Rosen [37:35](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2255s)
+## Oz Van Rosen [37:24](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2244s)
 
 I would agree with that. I remember thinking, wow, it's real, you know? And yeah, it was so amazing to see all the different artists, and I agree with you, I like seeing… we're just so inundated with digital images now, and our eyes are always on some screen, big or small. And it almost… I hate to use the word cheapens it, but, you know, just the sheer volume of images that… that flow through us, you know, we just see them for, like, a few seconds, that to see them in their physical forms.
 
 Especially the installations. It was so… such a wonderful feeling to see that.
 
-## Patrick Lichty [38:14](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2294s)
+## Patrick Lichty [38:03](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2283s)
 
 One thing I think is interesting is I think that one thing we forget, even digital art is material culture, you know? So, I mean, on one hand is that, I mean, there's… you know, even computers, hard drives, etc, screens, and so on, but I think, really, I think the suppleness of the, you know, of what this is. You know, it's engaged, you know, material, you know, physical art, digital art, VR… you know, and so on. And actually, Nagin and I, before, the, you know, the Southampton show, we had put a, put together about, maybe about a third of the exhibition at the International Digital Media and Arts Association, conference.
 
@@ -194,7 +194,7 @@ You know, I think there's just enough people with enough, enthusiasm, you know, 
 
 Yeah, I just think it's really, you know, this idea of this, of this… you know, Hydra in terms of practice, and also from… of social engagement, you know, that has its face forward out into the public. And this is, you know, why, you know, people know it so well, and, you know, that it's had such traction.
 
-## Steve Miller [41:33](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2493s)
+## Steve Miller [41:18](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2478s)
 
 Michael, just to answer the first part of your question, the David Byrne question, how did we get here? Letting the days go by. And, you know, really, how we got here is that we did have an organizer, and someone, you know, that Helen mentioned, you know, part of this Is there was a means of distribution, and, you know, Colin set up a structure, right? He created the website, he got us all to meet the first meeting, right, 5 years ago. And then, building out, you know, it doesn't… you know, the community can't exist unless there's a place for them all to meet. Patrick mentioned ThingNet, which I was a part of, you know, you create these sort of communities and a structure, and with the website, the meetups, there was, you know, several years' worth of energy that brought in… and then, you know, Colin's determination to make it international, and make it very open, and to use the hashtag, which was, you know, one of the key ways that he used the internet to sort of, disseminate the meme.
 
@@ -204,25 +204,25 @@ I think it's Uzbekistan, and, there's gonna be Colin's solo show. So… Clearly.
 
 Vulnerable and accessible in this sort of non-human structure. To keep it alive with our part of the conversation. So there's the technology that arrives, and then it's how we use that technology. And, you know, in my opinion, to humanize it, make it accessible, to translate it, to, perhaps even make it beautiful.
 
-## Helen A. Harrison [44:41](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2681s)
+## Helen A. Harrison [44:30](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2670s)
 
 Oh, I think it's beautiful already, but the beauty is created by the people who use it. It's not inherent in the system. The system is limited by human imagination, but the human imagination is not limited at all. So, I mean, first of all, hats off to Colin for taking on this whole project, but I remember when we first talked about the exhibition, I said. Be careful what you wish for. Because it's a lot of work! And just, I mean, what a herd of cats, you know, they're all over the world, and corralling that, all that energy, and getting it into a physical space was a big endeavor, and, you know, on that level.
 
 As well as just the holding together the group online is really a major production, and I have to say, I think he pulled it off brilliantly.
 
-## Colin Goldberg [45:38](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2738s)
+## Colin Goldberg [45:24](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2724s)
 
 Well, thanks, Helen.
 
-## Steve Miller [45:40](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2740s)
+## Steve Miller [45:25](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2725s)
 
 Quick thing about the exhibition, you know, Colin did that, you know, a drone within the exhibition that flew through, and I think that's just such a marvelous way for anyone who's not able to see the exhibition to get another kind of As much as you could have a tactile experience, to really get a feeling of what it was like.
 
-## Patrick Lichty [46:03](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2763s)
+## Patrick Lichty [45:49](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2749s)
 
 Hmm?
 
-## Colin Goldberg [46:05](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2765s)
+## Colin Goldberg [45:50](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=2750s)
 
 Yeah, so the drone, was actually… it was piloted by a high school classmate of mine named Joanna Steidle. Who went to Southampton High School with me. We graduated in the same year. She actually lived on the same road as I grew up on, which was a dirt road at the time. And you know, I just thought this would be a really cool way to document the show. You know, I feel like as far as the surprises go, it was… it's just been an ongoing sequence of surprises. I think an early one was… when, Davonte Bradley, Davo, who… he moderated a lot of the early salons.
 
@@ -236,11 +236,11 @@ You know, other… I mean, just the fact that Southampton Arts Center Bit on thi
 
 How about Techspressionism beyond, you know, beyond the digital? And I thought, well… Some of it is inherently digital, you know? Like, some of it is screen-based work, or animation, NFTs. To me, like, that constitutes What I would consider digital art. And you know, so we ended up just, you know, agreeing on this Techspressionism, digital and beyond, so it's digital as a jumping-off point, but then, you know. Sort of extrapolating into all these other areas, like painting, and printmaking, sculpture, and so on and so forth. Well, the common denominator, the common denominator is the expressionism part of it.
 
-## Helen A. Harrison [50:34](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3034s)
+## Helen A. Harrison [50:22](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3022s)
 
 Technology is varied, and widely varied. You had printmaking, you had sculpture, you had all kinds of other things, but the idea is to have a subjective element that you are expressing something, it's not just graphic design, it's not just imagery, it's not branding or pop culture or whatever. It has to come from inside the artist, and then you find the technological way to express it, to get it out.
 
-## Colin Goldberg [50:59](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3059s)
+## Colin Goldberg [50:47](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3047s)
 
 Yeah, no, that's a very good point, and I think at the first salon… well, there were two… two things that happened in the first salon that stick out of my mind, because the original definition when I first came up with this term was. An artistic style in which technology is utilized as a means to express emotional experience Rather than impressions of outside reality. And that was me pretty much just taking the, you know, very long-winded, definition, taking the Oxford definition of expressionism and of technology and, like, sticking them together. And I remember Oz said, you know, why don't you just get rid of, like, that whole end part about Rather than impressions of the outside world, especially because she was starting as… with photographic imagery, I assume that might have been part of the rationale behind it, so some of it was actually based in impressions of the outside world. It was just… Taking these things and working with them in a way that's, you know, expressive, personally expressive. And then Helen said, you know, why don't we just get rid of this word style altogether and replace it with the word approach?
 
@@ -256,15 +256,15 @@ Through hosts, which is a little spooky, but we are the hosts, and the memes pro
 
 On its own. You know, it's the closest thing to anything viral that I've been a part of, because honestly, like, in the beginning, I was tagging people with a hashtag that I thought their work exemplified what I felt was Techspressionism. And I found a whole bunch of different artists that way, and consciously tried to find artists in different countries and different states, tagging them with this work, and then I'd send them a message, like. Hey, if you want, use the hashtag, and by the way, come to our salons. You know, and then it just started… it started spreading on its own, and now we're up to something like 82,000 posts on Instagram using the hashtag, and Renata Anishevska is the Instagram curator, and she's done an amazing job of Picking, you know, picking artists, working with them, highlighting them, and so forth, so it's been a big community effort. So, anyway, that's my…
 
-## Helen A. Harrison [56:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3418s)
+## Helen A. Harrison [56:46](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3406s)
 
 Kind of…
 
-## Colin Goldberg [56:59](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3419s)
+## Colin Goldberg [56:48](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3408s)
 
 Input on that. What's been surprising is, like, everything, so…
 
-## Michael Pierre Price [57:05](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3425s)
+## Michael Pierre Price [56:53](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3413s)
 
 Well, as… well, as somebody who wasn't in the first meeting, although I did make it to the third salon, I have to say that there are two… two things that I've found have been so significant. One is that sense of finding your tribe. I cannot say… To… I just… it's really, you know, I found my peeps, and it's just the sense that… There's such a deep history with so many of the people here in this community who have used technology to create art for decades, and there's a wealth of history there. They've seen the technology change in advance.
 
@@ -272,73 +272,73 @@ And there's a real sense of community, of generosity, of support. And… and the
 
 Really, really, wonderful parts of being part of this community, this movement, this social sculpture, whatever. I think we should wrap up, so I'd like to leave each one of you with, you know, a couple minutes to share any… Ending thoughts that you might have about maybe where we're headed, or what you're hoping for, or just any, any thoughts about, what we've talked about today.
 
-## Oz Van Rosen [58:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3538s)
+## Oz Van Rosen [58:47](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3527s)
 
 I have a random question for Helen. Okay, Obviously, Andy Warhol was pop art, but wasn't he really the first Techspressionist? I remember a retrospective at the Whitney, and the curator was describing his work, and he said, well, at one point, he held this massive party at his, you know, space, and the party was end of painting party. When he officially decided he was no longer going to be painting anymore, and he was only going to be using digital techniques.
 
 Technically, in my mind, I think he's the first expressionist.
 
-## Helen A. Harrison [59:40](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3580s)
+## Helen A. Harrison [59:29](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3569s)
 
 Well, I can't say I agree with you, because I think Warhol… if you take him at his word, which, of course, many people did not, because they didn't take him very seriously, he said he just wanted to be famous. And so whatever… it wasn't about expression. Remember, this is Techspressionism, where expression is paramount. It is actually about making images that sell well. And, of course, he really… most of his work, the work that was at the Whitney, the really important work was down in the gallery by the entrance, sort of off to the side where most people missed it, was his portraits.
 
-## Oz Van Rosen [01:00:22](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3622s)
+## Oz Van Rosen [01:00:10](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3610s)
 
 He made a fortune!
 
-## Helen A. Harrison [01:00:24](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3624s)
+## Helen A. Harrison [01:00:12](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3612s)
 
 Doing portraits of celebrities. That was his bread and butter. The rest of the stuff was icing on the cake, because it didn't really sell that well. Even Castelli couldn't move it. He never got a good review in his entire career. And people considered him just, you know, jumped-up fashion illustrator. But it was… it was his brilliance at… at marketing and promotion. He even had a television show at one point. If you ever get a chance to go to the museum in Pittsburgh, it is brilliant. It really is. I am not a Warhol fan, but if anybody's career was going to be explicated, that would be the way to do it.
 
 But I think that, really. If you think about technology as a means of expression, you'd have to maybe go back to the early photo manipulations of people like Duchamp and Elazitsky and people who were playing with photography as a… As a vehicle for, abstract thought and abstract imagery. I would probably put them in a more senior position.
 
-## Oz Van Rosen [01:01:30](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3690s)
+## Oz Van Rosen [01:01:18](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3678s)
 
 Thank you.
 
 My last thought is, can we have another show at the Southampton Arts?
 
-## Colin Goldberg [01:01:38](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3698s)
+## Colin Goldberg [01:01:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3687s)
 
 Well, you're still in Southampton, Oz, so I'm out here in Vermont, you know, you're perfectly poised to approach them and curate.
 
-## Helen A. Harrison [01:01:46](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3706s)
+## Helen A. Harrison [01:01:35](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3695s)
 
 I just gotta guess.
 
-## Colin Goldberg [01:01:47](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3707s)
+## Colin Goldberg [01:01:35](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3695s)
 
 Oscar!
 
-## Helen A. Harrison [01:01:48](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3708s)
+## Helen A. Harrison [01:01:36](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3696s)
 
 Later.
 
-## Steve Miller [01:01:48](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3708s)
+## Steve Miller [01:01:37](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3697s)
 
 You are the curator, Oz. Thanks for stepping up to the plate.
 
-## Oz Van Rosen [01:01:54](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3714s)
+## Oz Van Rosen [01:01:42](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3702s)
 
 I would love to, if you guys would want to do it, I would love to do it.
 
-## Colin Goldberg [01:01:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3718s)
+## Colin Goldberg [01:01:46](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3706s)
 
 Well, usually people are nominated for these jobs when they're not present, so maybe Patrick should do it.
 
-## Oz Van Rosen [01:02:07](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3727s)
+## Oz Van Rosen [01:01:55](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3715s)
 
 Next…
 
-## Steve Miller [01:02:08](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3728s)
+## Steve Miller [01:01:56](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3716s)
 
 Interesting to check in, like, a year from now. And, you know, we've got this sort of 5-year plan, and the reason why I say a year and not 5 more years is because of the acceleration of technology and how fast it moves. But I think, you know, it's clearly been established, you know, we didn't even need this to establish that this thing is out there in the world. And is documented, and has been proven to have legs, and has a community. And it'll be really curious to see you know, one part of what we discussed is, where are we going? Well, I don't think we know that, actually, and there's gonna be a kind of momentum that carries us along in spite of ourselves, and maybe a check-in, you know, in a year, and just see, like, well, what happened?
 
-## Michael Pierre Price [01:02:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3778s)
+## Michael Pierre Price [01:02:46](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3766s)
 
 That's a good idea.
 
-## Colin Goldberg [01:03:01](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3781s)
+## Colin Goldberg [01:02:50](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3770s)
 
 I mean, for me, you know, there was, A roundtable, I don't know if it was… it might have been the first roundtable, with, Helen and, Christiane Paul from the Whitney, talking about Techspressionism, and when that was going on, I couldn't even believe it was happening, to be honest. I was just like, how is this actually happening? And it was sort of like, almost like… I wouldn't say it was an argument, but it was… it was kind of like two very opposing viewpoints, in terms of… you know, Christiane Paul wrote the book on digital art. Literally, her book is called Digital Art, and there's been multiple iterations of it. And it's sort of like a history of digital art. And I remember talking to her about this, before the recording started.
 
@@ -356,11 +356,11 @@ So, I just think that, you know, it's pretty remarkable, and you know, unfortuna
 
 I like to think of my role as Helping facilitate the salons, encouraging people to, you know, be proactive and take the idea, because I think it is a springboard for people to be able to make an approach to curators or institutions that is novel, and it, you know, it gets people's attention. And just, you know, sort of… See where it goes from here, you know? But, finding some balance… In my own life, being able to get back to my own studio practice, making art, and let this sort of community just, you know, exist and gel, that's, you know, that's my personal goal with it all, so… Yeah.
 
-## Michael Pierre Price [01:10:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4227s)
+## Michael Pierre Price [01:10:15](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4215s)
 
 Awesome. Well, I… I… I still think Helen's point is really, really huge, that technology is a vehicle for expressing our thoughts as artists, our feelings as artists, and I… and I think That's really borne out in this community, in the artists that are part of this community. And, yeah.
 
-## Colin Goldberg [01:10:55](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4255s)
+## Colin Goldberg [01:10:44](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4244s)
 
 We did actually… I just had one other closing thought. That you, you know, you made me think of, which is that, you know, Patrick, he mentioned sort of offhand about this idea of Techspressionism, you know, potentially Being contextualized as, like, a fourth wave within Expressionism. And, you know, the first being, I guess, would be the figurative expressionists, like Dubruca or Dub Blau Reiter, these groups, you know. I'm not sure exactly when they were, the 20s or 30s, Helen would know better than I do, and then the American abstract expressionists.
 
@@ -368,7 +368,7 @@ Like Pollock and de Kooning. Franz Klein is, you know, a personal favorite of mi
 
 And I just wanted to ask Helen, what she thinks about this idea, and if there's, you know, sort of a validity to it. Is there going to be a post-Techspressionism? If there is, then…
 
-## Helen A. Harrison [01:12:20](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4340s)
+## Helen A. Harrison [01:12:08](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4328s)
 
 Post-impressionism. Oh, God, I hope not. But if we could have sat here 5 years ago and said where we were going to be in 5 years, I don't think any of us would have come up with where we are now, just because we had no idea how it was going to catch on, and how… what kind of Amazing international response there was going to be. I mean, again, thanks to you, Colin, for reaching out to those people and making them aware, but they were already doing this stuff.
 
@@ -376,34 +376,34 @@ It wasn't like they said, oh, that's a good idea, maybe I'll try that. They were
 
 So, thanks.
 
-## Michael Pierre Price [01:13:41](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4421s)
+## Michael Pierre Price [01:13:26](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4406s)
 
 Wow.
 
-## Helen A. Harrison [01:13:42](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4422s)
+## Helen A. Harrison [01:13:27](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4407s)
 
 Come on.
 
-## Michael Pierre Price [01:13:45](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4425s)
+## Michael Pierre Price [01:13:30](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4410s)
 
 Well, I just want to thank all of you for being here. Sorry we lost Patrick, but Colin, Steve, Helen, Oz, I'm really, really grateful that you could make time today. Yeah, this has been a great discussion, and I just wanted to get all of your inputs as to, like, how this all came together, and I appreciate you sharing some of your thoughts on all of this.
 
-## Helen A. Harrison [01:14:09](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4449s)
+## Helen A. Harrison [01:13:54](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4434s)
 
 Our pleasure.
 
-## Steve Miller [01:14:10](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4450s)
+## Steve Miller [01:13:56](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4436s)
 
 Alright, thank you, Michael. Thanks for hosting.
 
-## Colin Goldberg [01:14:13](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4453s)
+## Colin Goldberg [01:13:58](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4438s)
 
 Thanks for inviting us. Thanks so much, Michael, for moderating.
 
-## Michael Pierre Price [01:14:16](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4456s)
+## Michael Pierre Price [01:14:01](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4441s)
 
 Alright, my pleasure.
 
-## Colin Goldberg [01:14:17](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4457s)
+## Colin Goldberg [01:14:03](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=4443s)
 
 Alright, so with that, I will stop… stop the recording in 3, 2, 1, and… Cut.

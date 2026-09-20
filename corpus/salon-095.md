@@ -15,7 +15,7 @@ flags:
   - moderator_missing
 ---
 
-## Techspressionism Panel [-1:59:43](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=-17s)
+## Techspressionism Panel [00:00](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=0s)
 
 Action.
 
@@ -51,29 +51,29 @@ You know whatever it is we're making. Yeah. But I think scarcity is a big point,
 
 Yeah, I mean, I think with the pandemic. The the 1st salon was held during the pandemic, and it was myself. Steve Miller Osband Rosen, who is actually the 1st person that I found out that was using the term Techspressionism to describe her own word. So kind of the genesis of the group is that I reached out to her and said, Hey, what do you think about starting an artist group around this idea which led to? And she was you know she was interested in doing that. And then I reached out to Helen Harrison olive House, who Also was enthusiastic about it, being a scholar of abstract expressionism, and she saw it as sort of an extension of that to some degree. So our 1st salon was, it actually invited Steve Miller, who I, who I worked for as a studio assistant when I was an undergraduate, and Patrick Linty, who I met in graduate school. We were both doing our mfas in Computer art at Bowling Green State University. So it was. The 5 of us. Patrick, I believe, was teaching animation in Abu Dhabi at the time, and you know there were 3 of us that were on Long Island actually, before the rest of us were on Long Island, I believe. Yeah. And so I don't think this would have happened without the pandemic. Honestly, like Everyone was quarantine and people started to show up from all over the place, and I remember Davo saying, You know, hey? I feel like I found my tribe here, you know, and that's when I thought, Wow, this this is really interesting. And and when you brought up Joseph in the beginning, so, like I had done a project back in the nineties, I actually moved to New York in 94, and lived downtown for about 5 or 6 years, and I did a project called Ever Beta, which was a content network. This was. Everyone was on Dial up. The only online video was real video, and you know, it was art. It was artists interviewing artists. But it's also Oh, it's interviewing artists, musicians, interviewing. Like all different types of creative people, the bandwidth wasn't there yet. But you know, Joseph, at that point introduced me. This idea of social sculpture, which is a concept developed by Joseph boys and it only came back to me after this, this group really started formulating. And I thought, Wow, like this is an opportunity actually Sort of exert social change to some degree by encouraging collaboration and seeing like especially seeing, like, you know, artists who who've been at this for a while, and might have known each other through various exhibitions or academia. Come together, and you know Be sort of reunited like I got the chance to meet Claudia Hart yesterday at our show in bit forms, and she's like, Oh, I know Joseph, and I know Michael. Reason all these people. And you know, and we were discussing expressionism. And it seems like it actually is a fairly small world of people that have really been at this for any extended period of time. So it's really interesting. And seeing other artists Running with their own ideas like a Co working group. And now Cynthia Beth Rubin is organizing our 1st international show. Leading arts to Uzbekistan, so can we take a moment to Encourage people to take note of that show. Cynthia might be on right now, and hoping to Absolutely raise awareness of our upcoming.
 
-## Cynthia Beth Rubin [21:22](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1282s)
+## Cynthia Beth Rubin [21:41](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1301s)
 
 Hi. So yeah, I'm here. A small group of us are going to Uzbekistan, to the Museum of Contemporary Art and building on the idea of community. We also wanted to have a community show. So we do have an open call right now for digital screen that the museum will be providing for us. And I will put the information about that in the chat, because this is kind of the 1st foray into An international area. We limited the number of people who are actually going with physical work. And then we're supplementing and building the community. So I'm just going to put this in the chat, and I would encourage people to apply, and then it will be curated by all of the artists who are participating, and the director of the museum.
 
 So that's that's it. The links in the chat. And I just put on Facebook today. So We're asking people to submit in Powerpoint format so that it can be viewed by the director easily from far away.
 
-## Techspressionism Panel [22:34](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1354s)
+## Techspressionism Panel [22:53](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1373s)
 
 Cynthia, what's your deadline?
 
-## Cynthia Beth Rubin [22:37](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1357s)
+## Cynthia Beth Rubin [22:56](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1376s)
 
 The oh, good point. The deadline is July first, st and what we're asking for is is either 3 still images Or 1 15 second video extract. And it's because it's going to be in a museum in a space that people will be walking through. We want to be able to show as many people as possible and have the screen be changing with with different work. So we have a template for the Powerpoint. If you don't get it perfectly. It's okay. We'll change it if you make it in keynote or Google slides, just download it as a Powerpoint and upload it, and we'll fix it, or we'll have your email. I mean, this is not Stress situation. We just want to be open.
 
-## Techspressionism Panel [23:31](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1411s)
+## Techspressionism Panel [23:49](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1429s)
 
 Have a guest visitor. Oh, my gosh, wow!
 
-## Cynthia Beth Rubin [23:37](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1417s)
+## Cynthia Beth Rubin [23:54](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1434s)
 
 So.
 
-## Techspressionism Panel [23:44](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1424s)
+## Techspressionism Panel [24:02](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1442s)
 
 Yes.
 
@@ -83,19 +83,19 @@ On his way to Uzbekistan right now.
 
 July first, st and the show is gonna be September open since late September.
 
-## Cynthia Beth Rubin [24:34](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1474s)
+## Cynthia Beth Rubin [24:52](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1492s)
 
 25, th I believe.
 
-## Techspressionism Panel [24:38](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1478s)
+## Techspressionism Panel [24:55](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1495s)
 
 Yeah.
 
-## Cynthia Beth Rubin [24:39](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1479s)
+## Cynthia Beth Rubin [24:57](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1497s)
 
 Roz is one of the artists who's going. So she if you, if you're in the space and you're lingering, you can ask Roz questions.
 
-## Techspressionism Panel [24:47](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1487s)
+## Techspressionism Panel [25:05](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1505s)
 
 Yeah. Absolutely. I didn't even know where Uzbekistan was when I 1st heard from Cynthia, and I went. Well, it wasn't really on my bucket list, but now it definitely is and real excited about it. You know, it's right in the center of the old silk road and The the steps in the in Eurasia. And it's it's I'm reading a lot of books that some of the other people in the group have recommended. It's been fascinating to read about that time and its history. So we're real excited, Jake. I wanted when Colin was talking about expressionism.
 
@@ -125,11 +125,9 @@ What happens in the Expressionism Club stays in the texting. The kind of dialogu
 
 There's just no end to how much can go into this screen. And I said, and it's amazing, he said. Well, Ross, if you ever looked like, if you look up close at an oil painting. You'll see you can see a lot going on in that one little, you know lots of stuff. So I love that kind of interchange between history. And now, like we come from a history, and I think that'd be a good thing for us to keep bridging into a little as we go further, because you can't just come out of nowhere, you know, tying ourselves to the larger historic moments, and comparing and contrasting as we are today, like, what's the difference between.
 
-You know? Maybe a Futurist and a tech presence. But I just think that kind of dialing is- is so good because we're all we're we're tied together to history. And that's what makes a movement, you know, if you have to have that, I think that's some broadcast Like your garden of earthly delights.
+You know? Maybe a Futurist and a tech presence. But I just think that kind of dialing is- is so good because we're all we're we're tied together to history. And that's what makes a movement, you know, if you have to have that, I think that's some broadcast Like your garden of earthly delights. Oh, my gosh! I saw it in the soft be show was so fantastic, this animated, erroneous how do you say his name? And but it was so all your own, and very it was really quite pivotal, you know, but it was nice to see something in store.
 
-Oh, my gosh! I saw it in the soft be show was so fantastic, this animated, erroneous how do you say his name? And but it was so all your own, and very it was really quite pivotal, you know, but it was nice to see something in store. Reimagine, reimagine remixed the garden of earthly Delight still, with us always. Yeah. Today I'm very interested about like everyone talking about like a like tech person, you know, like a robotism, or like something layer inside of like how people see the like artwork thing, because, you know, I'm I'm from Asia, like I'm actually, I'm born in South Korea.
-
-But I used to live in Japan a long time like almost 10 years. Then I come to New York. Then I realize there's so many like a different approach to when people like, you know, like handle like a digital. Or when people see the artwork like, you know, for example, like, like basically Japanese scene, people think about the digital is kind of like a Like reason. Single is like thousands of like reason, you know. So they don't put like a digital content. Also, like a layer.
+Reimagine, reimagine remixed the garden of earthly Delight still, with us always. Yeah. Today I'm very interested about like everyone talking about like a like tech person, you know, like a robotism, or like something layer inside of like how people see the like artwork thing, because, you know, I'm I'm from Asia, like I'm actually, I'm born in South Korea. But I used to live in Japan a long time like almost 10 years. Then I come to New York. Then I realize there's so many like a different approach to when people like, you know, like handle like a digital. Or when people see the artwork like, you know, for example, like, like basically Japanese scene, people think about the digital is kind of like a Like reason. Single is like thousands of like reason, you know. So they don't put like a digital content. Also, like a layer.
 
 It's sort of like, just a fear of like, just a reason, because they're basically like a personalities from the like a naturalism. So they say, like a digital naturalism. They don't see it, or just like not like. But when when we see here, like a digital side, like people say like when they're like a digital content, painting always from the right expressionism. And then cubism. Then, like Like a pop, art scene and digital scene, like people see like more so and connected as part of artistic lineage in some other places. It's not like Shinto, I mean, correct me if I'm wrong, but I think you know my understanding is that there isn't necessarily a distinction between things that are man-made versus natural, that it's all natural. So I think that idea that maybe there isn't Really a boundary like we're immersed in a digital society culture at this point, you know. So like even artists who completely work with paint. Ultimately, they have to take digital photographs, publish it on this global telecommunications network right to get their work out there. So It's it's embedded in so many things. And you know, when you brought up Shinto. It kind of made me think about that that concept. And it's really interesting. It's also interesting that it's not something that Expressionism is not something that is visibly identifiable.
 
@@ -197,9 +195,7 @@ Have you seen any shifts when it comes to art groups like the Techspressionists.
 
 Have a story to tell. Yesterday, I mean the other day I met Erin Co. Who's here in the audience I told about laser. She came to laser, and then she talked about this this inflatable, that would be perfect for- for gamma time. Today I walk in. I talk to Carrie and Ginger, who said she knows that she's going to be setting up this inflatable? I said. Inflatable. Does she know, Annie? I just met, and now and now, on June 29, th At in the morning. We're gonna be setting up downtime in the inflatable. And that is community action. That's sweet, awesome.
 
-In 29. Think we have people in person that haven't said anything. They're hanging out anything.
-
-I have a question. Yes. How does the community that you're involved in? All of you are wonderful artists, the ones that I know your work, even you, Ross. How does this community Change your art?
+In 29. Think we have people in person that haven't said anything. They're hanging out anything. I have a question. Yes. How does the community that you're involved in? All of you are wonderful artists, the ones that I know your work, even you, Ross. How does this community Change your art?
 
 I think it does. Yeah, I mean, we share techniques. We share approach. Sometimes I'll see how someone's doing something just on their iphone and go. Oh, wow! They're just making art on their iphones. Pretty good, you know. What are they using? Especially some of the younger people? Well, I mean, you have to throw baggage away as you get older, you know, so I don't know. I think it's sharing a lot of somebody else in or yeah somebody else. It'll definitely change my guy. I mean my my vision.
 
@@ -209,10 +205,10 @@ You know, we're in that. We're in that place where, like you said, we live in 2 
 
 Yeah, yeah, really, really bad.
 
-## Marilyn R. Rosenberg [01:19:23](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4763s)
+## Marilyn R. Rosenberg [01:19:47](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4787s)
 
 Thank you. Thank you.
 
-## Techspressionism Panel [01:19:32](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4772s)
+## Techspressionism Panel [01:19:49](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4789s)
 
 Just wanna continue hanging out on zoom for the after party. Please feel free. And we will stop recording in 3, 2, 1, and.

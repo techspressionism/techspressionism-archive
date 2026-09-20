@@ -74,13 +74,15 @@ So with that, I'll turn it over to the next person if I can. Oh, there you go! S
 
 I think you're on mute, Michael.
 
-## Michael Pierre Price [16:40](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1000s)
+## Michael Pierre Price [16:42](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1002s)
 
 Thanks. That was really good presentation, Steve. I really appreciate it. Alright. Next up we have Darcy.
 
-## Darcy Gerbarg [17:08](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1028s)
+## Darcy Gerbarg [16:55](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1015s)
 
-I did that. Okay.
+How come? I'm not seeing my screen. Gene.
+
+Your presentation is this, and then click share. I did that. Okay.
 
 Hi, I'm Darcy Gerbarg, the latest tools of my time. In the late 1970s I believed that the leading artists of each generation were using the latest tools of their time for making art. I was married to a pioneer digital music composer, Robert Paul Mason, and we had just built the Rpm Sound recording studio at 12 East 12th Street in New York City. This prompted me to go out and find the latest art making tools for the visual arts. I quickly discovered Ruth Levitt's book and contacted some of the artists in it. I also found out that computer graphics and digitally controlled video were the newest art tools being developed.
 
@@ -118,27 +120,27 @@ Finally, really large, excellent, full color archival quality printers became av
 
 Fortunately for me, the renowned critic, author, and Curator Karen Wilkin visited my studio and gave me her opinion of some of my 36 by 60 inch paintings on canvas. Her comment was that they were strong, which was enough not to discourage me. Today I print my digital paintings on canvas and enhance them with the AR sculptures that they are created from For historical information that you can rely on. I refer you to Joshua Reichardt's cyberdatic serendipity, the computer in the art, 1969, Ruth Levitt, artist in computer 1976, Cynthia Goodman, digital visions, computers, and art. 1987, Abby Ray Smith, a biography of the Pixel, 2021, Bonnie Mitchell and Jen Serrelman, directors, the Sigriff Archo Archives. Thank you very much.
 
-## Michael Pierre Price [29:19](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1759s)
+## Michael Pierre Price [29:18](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1758s)
 
 Fantastic Presentation. Darcy.
 
-## Darcy Gerbarg [29:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1764s)
+## Darcy Gerbarg [29:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1763s)
 
 Thank you.
 
-## Michael Pierre Price [29:14](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1754s)
+## Michael Pierre Price [29:13](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1753s)
 
 Okay. Awesome. Thanks. Again, Darcy.
 
-## Nina Sobell [29:21](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1761s)
+## Nina Sobell [29:19](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1759s)
 
 Thank you.
 
-## Michael Pierre Price [29:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1763s)
+## Michael Pierre Price [29:21](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1761s)
 
 Okay. Next up, we have Lee Musgrave.
 
-## Lee Musgrave [29:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1778s)
+## Lee Musgrave [29:36](https://www.youtube.com/watch?v=o7pyuyo35iU&t=1776s)
 
 All right. I'm going to go back considerably further than our 1st 2 guests. I'm going to take you all the way back to.
 
@@ -152,7 +154,7 @@ Into the office of the director of the Art department to serve. Very nice woman.
 
 And I concluded that had something to do with the size of the type that was going to be set to make this ad. She came back and she saw me staring at it. She said, Do you understand this? And I said, Yeah, this is supposed to be in 48 point, but only bowl, she said, that's right, she said. You're looking for a job. Huh? So yeah, she's you're hired Now. This was mission publications. They published local newspapers. Advertising brochures, a big variety of things. This place was a gold mine for a guy like me.
 
-I just couldn't believe it. She said. Come on in here. She went through another room, and in that there were a whole bunch of men in there running these machines that were gigantic. They were sort of the modern aversion of. Where printing started. They had these machines that had hot molding lead that would mold letters out, and they would type out whatever the writers from these different newspapers gave them, they would be copying it, and this big machine would be gathering all these metal letters together to make these things. I'm not going to go into all that. The point here is.
+I just couldn't believe it. She said. Come on in here. She went through another room, and in that there were a whole bunch of men in there running these machines that were gigantic. They were sort of the modern aversion of Where printing started. They had these machines that had hot molding lead that would mold letters out, and they would type out whatever the writers from these different newspapers gave them, they would be copying it, and this big machine would be gathering all these metal letters together to make these things. I'm not going to go into all that. The point here is.
 
 She told me all of those machines were being ripped out and and thrown away because nobody even wanted to buy them. All the men working in there had been offered to be trained on the new systems. They all laughed and said, you'll be out of business in a week. They all quit. Okay. And ladies, you're gonna love this part in the art department. There were all women working in the art because they didn't know about how to do those other machines. So only men ran those machines The new stuff. The men weren't interested in learning.
 
@@ -248,7 +250,7 @@ Yeah, on Colorado Boulevard, was the 1st computer store, and it opened in 1978, 
 
 A match of the output in the lower right hand corner and the upper left. In the middle and right were collections As they as they merged, as the diamond shapes merged into one as the as the cube, as the rectangles merged into one square as. And then the one on the right. It was the condensation. It was the collection of pixels. And became one
 
-## Michael Pierre Price [01:00:01](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3601s)
+## Michael Pierre Price [01:00:00](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3600s)
 
 Nina! Oh.
 
@@ -256,11 +258,11 @@ Nina! Oh.
 
 Oh, yeah.
 
-## Michael Pierre Price [01:00:03](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3603s)
+## Michael Pierre Price [01:00:02](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3602s)
 
 I got about 2 min to wrap up.
 
-## Nina Sobell [01:00:06](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3606s)
+## Nina Sobell [01:00:05](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3605s)
 
 Okay, then I'll wrap it up with this. It was a moving camera piece that I just played for the 1st time recently, I think Adrian saw it for the 1st time. This is an installation piece, moving cameras, converging views which is installed in the window of the Franklin Furnace Gallery. It is here, as part of a performance. A festival of Los Angeles and London performance artists meeting in New York and working together and independently. It was funded by the National Debt. Well, I'll move it, move it along.
 
@@ -268,11 +270,11 @@ The piece was designed with me by John Gord. With the assistance of Paul Newell.
 
 And at that time video was. And I wanted to do it with. Video. Yeah. Is, am I up now? My time's up right? Right.
 
-## Michael Pierre Price [01:02:23](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3743s)
+## Michael Pierre Price [01:02:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3744s)
 
 Sorry. Sorry for the time limitations.
 
-## Nina Sobell [01:02:27](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3747s)
+## Nina Sobell [01:02:28](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3748s)
 
 Yep.
 
@@ -280,15 +282,15 @@ Yep.
 
 I'm up, yeah.
 
-## Nina Sobell [01:02:31](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3751s)
+## Nina Sobell [01:02:32](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3752s)
 
 You're welcome.
 
-## Michael Pierre Price [01:02:32](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3752s)
+## Michael Pierre Price [01:02:33](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3753s)
 
 Work. So innovative. Yeah, brilliant.
 
-## Nina Sobell [01:02:36](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3756s)
+## Nina Sobell [01:02:37](https://www.youtube.com/watch?v=o7pyuyo35iU&t=3757s)
 
 Thank you. Thank you.
 
@@ -324,19 +326,17 @@ That's what Covid will do. I have Covid. I'm in pretty good shape for that. Okay
 
 Okay, how about now? Yes.
 
-## Michael Pierre Price [01:08:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4118s)
+## Michael Pierre Price [01:08:37](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4117s)
 
 Yes.
 
-## Adrienne Wortzel [01:08:39](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4119s)
+## Adrienne Wortzel [01:08:38](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4118s)
 
 Okay, thank you. So, these were at Ok. Harris. And that's where I used to show these modules that this had has a wire extending from it, and it would just these simple motors that would move up and down, and so, very usually very subtly, not as drastic as this you would see these very, very stiff, rigid modules breathe. And for me this was like, you know, going from 2 to 3D. And then, having 3D activated mechanically, was for me like a religious experience. You know, it was like A growth both Blossoming and also cancerous. And also it was a metamorphosis. It it was so out of extraordinary to me to experience that wait. Sorry didn't mean to do that. Yeah. So. This was a 1974 book on Kinetic Sculpture that contained images of several stage, you know, 3 stages of one particular piece, and this was Flatland, which I'm sure most of you are familiar with. It's the 1st edition which did not have Edward Abbott's name on it. It was done by a square, and I'm sure everybody knows it's a novella that made fun of Victorian mores by picturing a land of wait. I have a. Of two-dimensional figure people. The population consisted of two-dimensional figures. Men had Many sides, and the more sides they had as polygons, the more powerful they were. Women were pictured as straight lines, so that if they turned towards you they were very dangerous. There's a high danger of impalement. And so they constructed their houses so that there wouldn't be any accidents when the woman turned and could hardly be seen how this segued into robotics. Well. I was always interested in avatars, and actually early on I did theatrical work in Moos, which were text-based worlds. They were object-oriented multi-user dungeons, and in them we all created worlds. It was just marvelous because it was all text-based, and so very easy to create worlds where you could do anything because it was text-based, and in that I did one in Finland. That was the story of the Kalavala, and everybody participates and comes in, and by the end it's pretty destroyed. But it was really really interesting, because there were no boundaries. As to characters, nobody actually Kept playing the characters they were assigned, and everybody went wild, and the story would multiply and change and have branches. So basically, I loved the idea of avatars. You could be anything or anyone you wanted. But I wanted to make the avatars Real. So this is a, you know a concept where I'm making them real. But I'm also making them artificial because I'm making them robots.
 
-The avatars become agents, and they have store. Every installation I've ever done has stories behind it. The robots are characters. And this one was no different. This was the hidden archivists in the anchorage for creative time. And this was 19.
+The avatars become agents, and they have store. Every installation I've ever done has stories behind it. The robots are characters. And this one was no different. This was the hidden archivists in the anchorage for creative time. And this was 19. 97. I think I can see on the slide that I have my old address, my old phone number and my old Email address. But this was several robots that played archivists inside the anchorage of the Brooklyn Bridge on the Brooklyn side, and the space was fantastic.
 
-97. I think I can see on the slide that I have my old address, my old phone number and my old Email address. But this was several robots that played archivists inside the anchorage of the Brooklyn Bridge on the Brooklyn side, and the space was fantastic. It was cavernous, and there were. There were several artists in that show, and they have it documented on creative time because they did it a number of years. What would happen is everything the robots saw would be reflected on the monitors that were here.
-
-And these were robotics, not really robotic. I called them robotic slide projectors, which, projected with, you know, constantly refocusing, projected slides all over this cavernous, cavernous space, so that when they were close and right up to the wall. They were in focus, and when they were 60 feet Huge, you know, they were in focus. And so it became this kind of a documentation as if they were librarians, and they were really recording the history of cartography in the world. That's just another view.
+It was cavernous, and there were. There were several artists in that show, and they have it documented on creative time because they did it a number of years. What would happen is everything the robots saw would be reflected on the monitors that were here. And these were robotics, not really robotic. I called them robotic slide projectors, which, projected with, you know, constantly refocusing, projected slides all over this cavernous, cavernous space, so that when they were close and right up to the wall. They were in focus, and when they were 60 feet Huge, you know, they were in focus. And so it became this kind of a documentation as if they were librarians, and they were really recording the history of cartography in the world. That's just another view.
 
 I I just love this location. It's my favorite location, and I walked in immediately, had an asthma attack because it was total mold, but it was really quite fabulous, and to work in, and you can see on the floor there's oops. There's a projection with a robot on it. So all of these things kind of intermixed. And this is individual photos of the robots, which were real clunkers, you know. They were puppets and.
 
@@ -368,7 +368,7 @@ Thank you, Adrian, very much. Really, really fascinating work.
 
 Here we go. Okay. I stopped.
 
-## Michael Pierre Price [01:21:24](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4884s)
+## Michael Pierre Price [01:21:21](https://www.youtube.com/watch?v=o7pyuyo35iU&t=4881s)
 
 Thanks again. I wanna thank all the presenters today. Roz will present next time in February. But I but before before we end the recording, and I'm sorry we're not going to get a chance to To to have some exchange or questions on the recording. But those who want to stay after for the after party. I I just think that it is obvious the depth and breadth of The artists in this community. With regards to How technology has been used, how it is being used today. And like, I said, I think All of the new technologies that we all hear about these days, whether it's nfts or AI They're just echoes of what's gone before, and I'm really grateful for each of the presenters. Given the time constraints to share just a little bit of the flavor of what they experienced, what they did and how technology and art and the brilliance of artists can create wonderful, innovative.
 

@@ -1960,7 +1960,7 @@
         "start_display": "00:25:15"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "speaker_index_partially_unparseable"
     ],
@@ -1968,10 +1968,10 @@
       "speaker_added_from_site:Susan DeTroy"
     ],
     "transcript_quality": {
-      "word_count": 11035,
+      "word_count": 10254,
       "duration_seconds": 5423,
-      "words_per_minute": 122.1,
-      "bracket_marker_count": 15,
+      "words_per_minute": 113.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -4070,9 +4070,9 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 10968,
+      "word_count": 10984,
       "duration_seconds": 4991,
-      "words_per_minute": 131.9,
+      "words_per_minute": 132.0,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4212,9 +4212,9 @@
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11853,
+      "word_count": 12126,
       "duration_seconds": 5353,
-      "words_per_minute": 132.9,
+      "words_per_minute": 135.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4514,9 +4514,9 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 11266,
+      "word_count": 11423,
       "duration_seconds": 5070,
-      "words_per_minute": 133.3,
+      "words_per_minute": 135.2,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4943,9 +4943,9 @@
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY MAY 7, 2026'), confirmed by Colin Goldberg 2026-09-18"
     ],
     "transcript_quality": {
-      "word_count": 8669,
+      "word_count": 8675,
       "duration_seconds": 4706,
-      "words_per_minute": 110.5,
+      "words_per_minute": 110.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }

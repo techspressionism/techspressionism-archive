@@ -30,105 +30,105 @@ flags:
   - speaker_index_missing
 ---
 
-## Colin Goldberg [00:10](https://www.youtube.com/watch?v=BphNOUbReFs&t=10s)
+## Colin Goldberg [-1:59:15](https://www.youtube.com/watch?v=BphNOUbReFs&t=-45s)
 
 Hello! My name is Colin Goldberg, and we are here at the Techspressionist roundtable number 5 today is June 27, th 2025, and the topic of this particular roundtable is for Techspressionist artists. So I have a human moderator here. Michael Pr. Price will be leading us through the conversation, and I also have a special guest to get us started. ChatGPT gpt. So, Hi, chat! Thank you for welcoming us to this conversation.
 
-## ChatGPT [00:48](https://www.youtube.com/watch?v=BphNOUbReFs&t=48s)
+## ChatGPT [-1:59:53](https://www.youtube.com/watch?v=BphNOUbReFs&t=-7s)
 
 Hi, everyone! It's great to be here and to help kick off this exciting discussion. I'm really looking forward to hearing about all of your unique perspectives and insights on Techspressionism. So let's dive in and get started.
 
-## Colin Goldberg [01:03](https://www.youtube.com/watch?v=BphNOUbReFs&t=63s)
+## Colin Goldberg [00:07](https://www.youtube.com/watch?v=BphNOUbReFs&t=7s)
 
 Okay, great. So ChatGPT the exhibition that's brought us all together is a show that's up right now at 150 mediastream in Chicago. Could you tell us a little bit about what you know about that exhibition?
 
-## ChatGPT [01:15](https://www.youtube.com/watch?v=BphNOUbReFs&t=75s)
+## ChatGPT [00:24](https://www.youtube.com/watch?v=BphNOUbReFs&t=24s)
 
 Absolutely. The exhibition is called for text reference artists, and it's currently being shown at 150 mediastream in Chicago. It features the works of the 4 of you, Colin Goldberg, Renata Janiszewska, Karen LaFleur, and Jan Swinburne. The exhibition is displayed on a stunning 150 foot led wall, creating an immersive digital art experience. It's a fantastic showcase of how technology and art come together. And it's great to see all of you contributing to it.
 
-## Colin Goldberg [01:47](https://www.youtube.com/watch?v=BphNOUbReFs&t=107s)
+## Colin Goldberg [00:56](https://www.youtube.com/watch?v=BphNOUbReFs&t=56s)
 
 Thanks so much. And would you mind telling us a little bit about the curator of the exhibition as well.
 
-## ChatGPT [01:52](https://www.youtube.com/watch?v=BphNOUbReFs&t=112s)
+## ChatGPT [01:05](https://www.youtube.com/watch?v=BphNOUbReFs&t=65s)
 
 Of course, the curator of the exhibition is Yuga Zhou. She's a talented video artist herself, based in Chicago, and her work often explores themes of urban life and the immigrant experience she's known for creating immersive video installations, and has been featured in various prestigious venues. Her curatorial eye really brings out the best in Techspressionist art, making this exhibition extra special.
 
-## Colin Goldberg [02:19](https://www.youtube.com/watch?v=BphNOUbReFs&t=139s)
+## Colin Goldberg [01:32](https://www.youtube.com/watch?v=BphNOUbReFs&t=92s)
 
 Okay, great. And just quickly. I wanted to find out a little bit about what you know regarding the background of each artist. So I think we'll start with Jan Swinburne. Could you tell us a little bit about what you know about Jan and her work?
 
-## ChatGPT [02:38](https://www.youtube.com/watch?v=BphNOUbReFs&t=158s)
+## ChatGPT [01:51](https://www.youtube.com/watch?v=BphNOUbReFs&t=111s)
 
 Absolutely. Jan Swinburne is a Canadian artist based in Toronto. She works across various media, blending traditional and digital techniques. Jan's art often explores themes like light texture and the relationship between sound and visuals. She's known for transforming audio elements into visual art, creating what she calls waveform landscapes. Her work really captures the intersection of the auditory and the visual, making it truly unique.
 
-## Colin Goldberg [03:05](https://www.youtube.com/watch?v=BphNOUbReFs&t=185s)
+## Colin Goldberg [02:22](https://www.youtube.com/watch?v=BphNOUbReFs&t=142s)
 
 Great. And how about Karen LaFleur and her work?
 
-## ChatGPT [03:13](https://www.youtube.com/watch?v=BphNOUbReFs&t=193s)
+## ChatGPT [02:29](https://www.youtube.com/watch?v=BphNOUbReFs&t=149s)
 
 Karen Leflare is a digital artist writer and animator who seamlessly combines traditional drawing and painting with Digital tools to create moving image art. Her work often explores the interplay between inner and outer worlds, focusing on themes of adaptability and resilience. Her animations have been showcased in a variety of prestigious venues, including the Wenwick Gallery of The Smithsonian and the Cape Cod Museum of Fine Arts. Karen's work beautifully blends narrative and visual elements creating a truly engaging Experience.
 
-## Colin Goldberg [03:45](https://www.youtube.com/watch?v=BphNOUbReFs&t=225s)
+## Colin Goldberg [03:06](https://www.youtube.com/watch?v=BphNOUbReFs&t=186s)
 
 Thanks so much ChatGPT. And what about Renadia Nashevska's work? Can you tell me a little bit about the artist and her work as well.
 
-## ChatGPT [03:57](https://www.youtube.com/watch?v=BphNOUbReFs&t=237s)
+## ChatGPT [03:17](https://www.youtube.com/watch?v=BphNOUbReFs&t=197s)
 
 Of course, Renata Janiszewska is a Techspressionist artist who creates digital paintings which she often describes as painting on electronic canvases. Her work delves into themes like alchemy, Shamanism, mythology, and feminism. She combines influences from Florentine Renaissance, art, surrealism, and a variety of other artistic traditions, creating a unique fusion of text. Technology and emotion. Granada's work truly stands out for its depth and richness.
 
-## Colin Goldberg [04:25](https://www.youtube.com/watch?v=BphNOUbReFs&t=265s)
+## Colin Goldberg [03:48](https://www.youtube.com/watch?v=BphNOUbReFs&t=228s)
 
 Thanks so much, and I know you and I know each other a little bit ChatGPT. But would you mind filling the audience in a little bit about about me and my work as well.
 
-## ChatGPT [04:39](https://www.youtube.com/watch?v=BphNOUbReFs&t=279s)
+## ChatGPT [04:02](https://www.youtube.com/watch?v=BphNOUbReFs&t=242s)
 
 Absolutely. Kyan Goldberg, you're known for pioneering the Techspressionism movement which blends technology and personal expression in art. Your work spans various media, including painting, printmaking, and digital art, and you've exhibited in numerous prestigious venues one of your notable pieces and augmented reality. Artwork is permanently installed in the Hearst Tower in New York City. Your art often explores the relationship between the digital and physical worlds, making you a true innovator in the field.
 
-## Colin Goldberg [05:11](https://www.youtube.com/watch?v=BphNOUbReFs&t=311s)
+## Colin Goldberg [04:35](https://www.youtube.com/watch?v=BphNOUbReFs&t=275s)
 
 Thank you so much for your kind words, ChatGPT. And lastly, we have a moderator here, Michael Pierre Price, who's also an important part of the Techspressionism community. Would you happen to know anything about Michael and his work as well.
 
-## ChatGPT [05:26](https://www.youtube.com/watch?v=BphNOUbReFs&t=326s)
+## ChatGPT [04:53](https://www.youtube.com/watch?v=BphNOUbReFs&t=293s)
 
 Absolutely. Michael Pierre Price is indeed an important part of the Techspressionism community. He's known for his innovative approach to digital art and his ability to merge technology with artistic expression in a really unique way. Michael also brings a wealth of experience and insight into the Techspressionist discussions, helping to foster a sense of community and collaboration among artists. We're lucky to have him as our moderator.
 
-## Colin Goldberg [05:54](https://www.youtube.com/watch?v=BphNOUbReFs&t=354s)
+## Colin Goldberg [05:20](https://www.youtube.com/watch?v=BphNOUbReFs&t=320s)
 
 Thanks so much ChatGPT, and just out of curiosity. Since you are an AI, or, as I like to call you, a silicon based intelligence. Where do you see Techspressionism going in the upcoming years and decades.
 
-## ChatGPT [06:10](https://www.youtube.com/watch?v=BphNOUbReFs&t=370s)
+## ChatGPT [05:40](https://www.youtube.com/watch?v=BphNOUbReFs&t=340s)
 
 That's such an exciting question. I think Techspressionism will continue to evolve as technology advances, artists will likely explore new tools like artificial intelligence, virtual and augmented reality and other amazing technologies to push the boundaries of creative expression. I also see a growing community of artists from around the world coming together and collaborating, blending their Diverse cultural perspectives with technology. So the future of Techspressionism looks great and full of endless possibilities.
 
-## Colin Goldberg [06:40](https://www.youtube.com/watch?v=BphNOUbReFs&t=400s)
+## Colin Goldberg [06:13](https://www.youtube.com/watch?v=BphNOUbReFs&t=373s)
 
 Okay. Well, I applaud your optimism, and I'd like to ask you to maybe get us kicked off with an initial question to start the conversation. And after that, you know, we're us humans are, gonna take it, take it from there. So would you mind getting us going with an initial topic of conversation.
 
-## ChatGPT [07:08](https://www.youtube.com/watch?v=BphNOUbReFs&t=428s)
+## ChatGPT [06:40](https://www.youtube.com/watch?v=BphNOUbReFs&t=400s)
 
 Absolutely I'd love to. So to kick things off. I'd like to ask each of you to share a bit about how you 1st got involved with Techspressionism. And what drew you to blending technology with your artistic practice? I think that'll be a great way to get the conversation rolling. So let's dive in.
 
-## Colin Goldberg [07:23](https://www.youtube.com/watch?v=BphNOUbReFs&t=443s)
+## Colin Goldberg [06:59](https://www.youtube.com/watch?v=BphNOUbReFs&t=419s)
 
 Okay, well, thank you so much. ChatGPT. I really appreciate your ability to come in and visit with us today, and I will bid you adieu.
 
-## ChatGPT [07:38](https://www.youtube.com/watch?v=BphNOUbReFs&t=458s)
+## ChatGPT [07:13](https://www.youtube.com/watch?v=BphNOUbReFs&t=433s)
 
 Thank you so much for having me. It's been a pleasure to be part of this. I hope you all have a fantastic discussion, and I'll be here if you ever need anything else. Take care and enjoy your roundtable.
 
-## Colin Goldberg [07:47](https://www.youtube.com/watch?v=BphNOUbReFs&t=467s)
+## Colin Goldberg [07:25](https://www.youtube.com/watch?v=BphNOUbReFs&t=445s)
 
 Thank you.
 
 Okay, I think. Well, ChatGPT is still there, but I believe It's muted or she is muted. Oh, here we go. Okay. So now it's just us carbon based intelligences. So who wants to? Well, Michael, you're you're the moderator. So what do you think about this question, and I'll let you kind of take the lead from here.
 
-## Michael Pierre Price [08:06](https://www.youtube.com/watch?v=BphNOUbReFs&t=486s)
+## Michael Pierre Price [08:05](https://www.youtube.com/watch?v=BphNOUbReFs&t=485s)
 
 Hello. Yeah, I I think that's a that's a good one. And then we can kind of work a little bit backwards, historically. But yeah, so what brought you to Techspressionism and what it means to you to be part of that.
 
-## Colin Goldberg [08:24](https://www.youtube.com/watch?v=BphNOUbReFs&t=504s)
+## Colin Goldberg [08:23](https://www.youtube.com/watch?v=BphNOUbReFs&t=503s)
 
 So who do? Who who would you like to kick it off? You're the moderator, so it's.
 
@@ -144,17 +144,17 @@ I actually came to Techspressionism through Jan. She and I were. We met at an ar
 
 That's a That's actually a really interesting point that you make, Renata. I don't. I haven't heard that really mentioned by too many people. So that that's really interesting.
 
-## Jan Swinburne [09:39](https://www.youtube.com/watch?v=BphNOUbReFs&t=579s)
+## Jan Swinburne [09:38](https://www.youtube.com/watch?v=BphNOUbReFs&t=578s)
 
 Well, Jen, you were mentioned in Renata's answers. So how about you go next? Yeah, I was. I was just it's interesting. I guess. I started with ipod touch playing around, and it was lots of fun. It wasn't really Portability or anything other than carrying music everywhere with me. But you know, I found these filters and things, and that that was really cool. And I kind of Got into making short videos on it. I'd already been making videos. But Things like that. And I met Colin or Colin approached me through Instagram because All those sort of sketches I was doing on my ipod touch, and eventually ipad.
 
 I was posting on Instagram, and Colin reached out to me, and it was early pandemic days, so I think I was like in the 3rd salon, or something like that Pre-recording them. Actually, we just kind of got together and Talked about what we were doing. And yeah, so that's kind of how I got into it.
 
-## Michael Pierre Price [10:55](https://www.youtube.com/watch?v=BphNOUbReFs&t=655s)
+## Michael Pierre Price [10:54](https://www.youtube.com/watch?v=BphNOUbReFs&t=654s)
 
 Cool, alright, Karen, how about you?
 
-## Karen LaFleur [11:01](https://www.youtube.com/watch?v=BphNOUbReFs&t=661s)
+## Karen LaFleur [11:00](https://www.youtube.com/watch?v=BphNOUbReFs&t=660s)
 
 Well, how did I come to technology in my art? I think I grew up with it because I had the 1st computer in town. And my son was really really into computers, even programming when he was 8 and 10 years old. So back then there was no Internet, and you found a magazine now and then you could catch information. So I think I grew up seeing the potential for creativity rather than discovering its creativity. You know as sort of a full blown capability. And how did I come to Techspressionism? I think it's the same sort of training back then you had to really search for information. And every once in a while I do a deep search on the Internet. What is happening? Where can I see what's going on? And I think I saw Collins notice one of the 1st ones that went up. It was just a line join us.
 
@@ -164,7 +164,7 @@ And then I watched who showed up for the 1st meeting, and I said, Okay, and I ju
 
 That's awesome. All right, Colin, you being the instigator for part of this, I guess. But yeah, what about what brought what brought you to technology. And then you can answer the expressionism side as well.
 
-## Colin Goldberg [12:25](https://www.youtube.com/watch?v=BphNOUbReFs&t=745s)
+## Colin Goldberg [12:24](https://www.youtube.com/watch?v=BphNOUbReFs&t=744s)
 
 Well, you know, like Like a lot of us involved in the group, like I kind of grew up around the same time as the the personal computer. And started with a commodore 64, when I was in high school. Actually, my 1st memory of working with a computer was probably in elementary school. We had Apple Iis, and there was a program, or actually a programming language called Logo, where you could put in instructions, and it would move this little turtle around the screen, and it would draw lines and things like that. And I kind of remember that.
 
@@ -176,11 +176,9 @@ And then, you know, Techspressionism was really originated as a title for an exh
 
 Sure. I mean, it's it's astounding to me that here we are. We're doing this Round Table. We're on the verge of 5 years from this having originated, which is pretty incredible. You reached out to me. I can't remember if it was on Instagram directly. Message but you. You sent this message saying, Here's this. You know, group of artists who are technology based. We're we're having these monthly meetings. And if I had, if I had agreed. Cause I'm very skeptical of joining things. I would have been at the second one, but I didn't. And then I actually decided, oh, heck! I should try just to see what it's like. So I was at the 3rd one and. The thing that really sealed it for me was just the level of discussion.
 
-And I wanted to share. But I'm very introverted. But Davo, who was part of the very early meetings. He reached out to me at the tail end of the conversation, and after the the official part of the meeting ended we continued to ChatGPT. And that sealed it. For me. It's like, okay, this is a good group that I want to be part of. And so, you know, Davo kind of really got me over over any trepidation I might have had for joining something that I didn't know much about at that time. So and that's continued the the level of discussion and level of artistry and just the generosity and the international quality people just inspire me. So so Let me continue our discussion here. So we've talked now about sort of how we got here and sort of how you use technology. But let's step backward in in your own personal history to sort of your origins. So did you know, like growing up that you were an artist? Was it something that you knew early on? Did you get feedback from people? Did you make drawings. Do you remember, like your very 1st artist creation? So just kind of think back about how this all began for you, and.
+And I wanted to share. But I'm very introverted. But Davo, who was part of the very early meetings. He reached out to me at the tail end of the conversation, and after the the official part of the meeting ended we continued to ChatGPT. And that sealed it. For me. It's like, okay, this is a good group that I want to be part of. And so, you know, Davo kind of really got me over over any trepidation I might have had for joining something that I didn't know much about at that time. So and that's continued the the level of discussion and level of artistry and just the generosity and the international quality people just inspire me. So so Let me continue our discussion here. So we've talked now about sort of how we got here and sort of how you use technology. But let's step backward in in your own personal history to sort of your origins. So did you know, like growing up that you were an artist? Was it something that you knew early on? Did you get feedback from people? Did you make drawings. Do you remember, like your very 1st artist creation? So just kind of think back about how this all began for you, and Let's start off. Let me. Let me point the question 1st at Karen.
 
-Let's start off. Let me. Let me point the question 1st at Karen.
-
-## Karen LaFleur [18:34](https://www.youtube.com/watch?v=BphNOUbReFs&t=1114s)
+## Karen LaFleur [18:33](https://www.youtube.com/watch?v=BphNOUbReFs&t=1113s)
 
 I knew I was an artist with my 1st breath. That's always the line that I say, because It's absolutely true. I don't. I don't ever remember making a conscious decision to be an artist. It just was I was raised in the early fifties, so the options for women were not that great, and I was always off in my own world creating, and it was not only by my family, but by just the community at large considered it. Oh, isn't that a cute hobby? But for me it was never a hobby. It was. It was a world that what I was creating. Probably the 1st pieces I remember creating Were before at least before 3 or 4 years old I would be on the beach, and I would make these communities, as I've mentioned before in other lectures here at Expressionism. But I made hundreds of these things throughout the years, and I would put them up in the dunes. I wouldn't put them right on the beach. People would have to discover them. And so that was probably the 1st public artworks that I was doing, and then it just grew from there.
 
@@ -190,13 +188,11 @@ So yeah, I've always been an artist. It's just the way my brain sees the world. 
 
 That's so intriguing, Jan. How about you.
 
-## Jan Swinburne [20:03](https://www.youtube.com/watch?v=BphNOUbReFs&t=1203s)
+## Jan Swinburne [20:02](https://www.youtube.com/watch?v=BphNOUbReFs&t=1202s)
 
 Yeah, I I actually remember a conscious moment. I grew up in Montreal and was surrounded by. You know, all their religious iconography. And Just. It's it's kind of intense there, in a way, and and in a family that was always making things and singing, and Just not For the sake of being artists or musicians per se. But it was just part of life. So I actually remember a moment. I was in grade school, and I made this sculpture of my gerbil, and and I was like, this is what I want to do, and this is after you know, I'd go to my aunt's house, and I'd go through the thick Michelangelo monograph, and I'd be looking at all of this and her other ones, and there were Just surrounded by that. And also I had a cousin who gave me a piece of soapstone at a young age, and I started carving, and you know I drew my budgies, and I just like, and also to speak to Karen's point, too. As a woman I was like becoming aware of like, well, you can't do this, and you can't do that in the sixties, even though things were supposedly changing. It's like I was into ornithology. And I was like Between problems with math.
 
-And it's like, you know, the profession. It just was like, well, I'm going to do this. I'm going to make my own world and my own stuff and and my own joy. And and you know my family freaked out when they realized I was a bit serious about it. Oh, you got to be practical, you know. You need a backup skill. So you can't make money at that. So yeah, yet, yet surrounded by people, who just Made stuff and went on. And I think.
-
-I I did have a conscious point where it's just kind of like, yeah, this is what I want to do. You know.
+And it's like, you know, the profession. It just was like, well, I'm going to do this. I'm going to make my own world and my own stuff and and my own joy. And and you know my family freaked out when they realized I was a bit serious about it. Oh, you got to be practical, you know. You need a backup skill. So you can't make money at that. So yeah, yet, yet surrounded by people, who just Made stuff and went on. And I think I I did have a conscious point where it's just kind of like, yeah, this is what I want to do. You know.
 
 ## Michael Pierre Price [22:18](https://www.youtube.com/watch?v=BphNOUbReFs&t=1338s)
 
@@ -226,11 +222,11 @@ There was also a lot of money in the educational system for for the arts. When I
 
 Okay, but I persisted.
 
-## Michael Pierre Price [25:54](https://www.youtube.com/watch?v=BphNOUbReFs&t=1554s)
+## Michael Pierre Price [25:53](https://www.youtube.com/watch?v=BphNOUbReFs&t=1553s)
 
 So a a related question sort of now, looking a little bit further along,. Did. Did you have any sort of formal training? Was that important to you, either Either in school or education wise? Or did you get a chance to study with anyone or several people? So did you have any strong training or guidance that you can attribute to influencing who you are today and what you do today, Colin, how about you.
 
-## Colin Goldberg [26:30](https://www.youtube.com/watch?v=BphNOUbReFs&t=1590s)
+## Colin Goldberg [26:29](https://www.youtube.com/watch?v=BphNOUbReFs&t=1589s)
 
 Yeah, you know, I think definitely you know, in high school I had an art teacher, Bob Mullenhausen, who I still am in close contact with today. He always encouraged me to, you know. Keep going with it. And you know, he was someone that I just got along really well with, and I think a lot of it has to do with just that type of encouragement, you know, that kept me believing that this was something that I should do if other people believed in me, then I could sort of believe myself in that way and definitely in college. As an undergrad I studied. I went to Binghamton, which is a State school in New York.
 
@@ -238,7 +234,7 @@ And studied under this painter, Angelo Ippolito, who was a huge influence on me 
 
 Which kind of like annoyed me that he couldn't explain it further. But then I saw that the point he was trying to make was that it was up to the viewer to complete the the piece. That is, there was no defined explanation, and that kind of freed Freed me from. You know it allowed me to open up to abstraction in my own work later on, which is something you know, I only got into when I started working with computers because I was at that point, resumed the activity of just play where I didn't have a purpose of what I wanted to create, and was surprised with the results, whereas with painting I always started with an idea that I wanted to execute. So it was sort of like starting over again. So yeah, he was. He was definitely a a big influence, for sure. And then certainly, I went on, and I had a bunch of different, really great graduate advisors when I did my Mfa and one of them actually was this guy, Andrew Hirschberger, who was an art historian, and he, you know he had us think about. He wrote a book called Histories of Photographies, which I think it kind of, opened my mind to the idea that there's multiple Histories. There's multiple paths of history that exist. And it's something that you know, as artists and just Students, we get accustomed to. This idea of this is art history, you know, it started here, and it moves in this very linear fashion, where in reality it's a very multicultural Parallel sort of Set of histories. So, yeah, I think that's an important thing. And even now I think about that.
 
-## Michael Pierre Price [29:33](https://www.youtube.com/watch?v=BphNOUbReFs&t=1773s)
+## Michael Pierre Price [29:32](https://www.youtube.com/watch?v=BphNOUbReFs&t=1772s)
 
 That's really interesting. And that does make a whole lot of sense. Once you start to really think about that. So. Renata, what about you.
 
@@ -268,11 +264,11 @@ So you can you consider that sort of a fortuitous unexpected education.
 
 Absolutely. Yeah. I think if I had gone to art school it, you know, I'm not sure. I think, having that freedom and then just jumping right into basically a village community which I know Colin has had with his own experience. It's the whole community around you. Yeah. And we're all doing different things. So it goes to what we're not is talking about about being an individual and your own intellectual. So yeah.
 
-## Michael Pierre Price [34:17](https://www.youtube.com/watch?v=BphNOUbReFs&t=2057s)
+## Michael Pierre Price [34:14](https://www.youtube.com/watch?v=BphNOUbReFs&t=2054s)
 
 Yes, yes, yes, absolutely way. Cool. Okay, Jan, what about you?
 
-## Jan Swinburne [34:23](https://www.youtube.com/watch?v=BphNOUbReFs&t=2063s)
+## Jan Swinburne [34:20](https://www.youtube.com/watch?v=BphNOUbReFs&t=2060s)
 
 Yeah, I'm gonna sort of bifurcate 2 experiences. One is, I was a 1970s open concept school experiment. And that absolutely allowed a person like myself, who also has learning difficulties and in specific areas to Really explore things like I did an animation when I was 8 or something like that I don't even know how old I was. And all of this stuff was available like we wrote plays. We did all kinds of things, and then to. You know that experience was Really great. Then I sort of went to a traditional high school at a supportive art teacher.
 
@@ -284,7 +280,7 @@ They're not even talking about art, but they're speaking my language, or they're
 
 You know. Vicious Admissions interview that I heard about a lot of. And so I I was kind of just really lucky in that. I just felt Fell in with a group of people who were just open, really open, you know.
 
-## Michael Pierre Price [38:14](https://www.youtube.com/watch?v=BphNOUbReFs&t=2294s)
+## Michael Pierre Price [38:15](https://www.youtube.com/watch?v=BphNOUbReFs&t=2295s)
 
 That is so cool. There is definitely Several through lines and everything. The 4 of you have just talked about here, but one of them to me that stands out, and I'd love to hear you talk about. Either something, a a part of the process that's really important to you in creating your work because you've all identified experimentation. And you know. Having that freedom to experiment is. Have you over time, through experimentation and everything else developed a process or some aspect of process that you can identify or talk about. Briefly, Renata, how about you?
 
@@ -294,7 +290,7 @@ I'd have to say that it changes every year. You know. I think one has to reinven
 
 So I'm enjoying those things. But I know that I always like to shake it up, and limitations are good, too, like you take yourself out of the country, you go somewhere, and you can only make your work in your Hotel room, or you just impose these limits, and I find that's always a very useful thing as well or like up for a year I only worked in black and white.
 
-## Michael Pierre Price [40:24](https://www.youtube.com/watch?v=BphNOUbReFs&t=2424s)
+## Michael Pierre Price [40:25](https://www.youtube.com/watch?v=BphNOUbReFs&t=2425s)
 
 Cool. That's way cool. I like that. I like that sense of Not wanting things to get stale, or, or, you know, finding one groove, and you just stay in that the whole time. I I I find that fascinating. So Colin, how? How might you answer this whole thing about process and your creativity?
 
@@ -318,7 +314,7 @@ And but agreeing with Renata, once you get to that point, I've had times in my l
 
 Alright, that's I love the avalanche idea having seen some of your waveforms look like mountains that it? There's just like this synchronicity. There, that's kind of cool. Yeah, it's slow. It's slow, all right, Karen. How about you?
 
-## Karen LaFleur [46:59](https://www.youtube.com/watch?v=BphNOUbReFs&t=2819s)
+## Karen LaFleur [46:58](https://www.youtube.com/watch?v=BphNOUbReFs&t=2818s)
 
 Well, my process is going to go Like octopus arms. It's going to stretch out sideways. I think it goes back to, you know, creating the worlds as a kid. And like Renata, any technology that comes along that's going to Be exciting and add another dimension to what I'm doing. I'm going to jump on it and somehow bring it back into this creating worlds, things that I've been doing my whole life. And I think when I was in like my thirties, you know, early forties. I began to realize that even though I was creating these worlds.
 
@@ -344,7 +340,7 @@ You know, whatever comes next with. You know any of what I'm working on as well 
 
 Cool. Thank you. Alright, Renata, how about you?
 
-## Renata Janiszewska [52:06](https://www.youtube.com/watch?v=BphNOUbReFs&t=3126s)
+## Renata Janiszewska [52:07](https://www.youtube.com/watch?v=BphNOUbReFs&t=3127s)
 
 I'm interested in doing more group Projects, either curatorial or being part of exhibitions. I'm working on something now with a person that Colin actually introduced me to. And I also am starting a book project that was In in a sense, Colin nudged me to get to get it out there. It's going to be a print on demand book Through kindle publishing, so I don't have to make a lot of copies of it. And travel, too. That's I would like to show my work more in a more international way, and I'd like to be able to go and stay in the cities that my work is showing in. I just had work in Paris, London.
 
@@ -376,21 +372,21 @@ You know, the fellowship involved in in the community and the group I feel like,
 
 You know. So to me kind of just my my real goal with tax expressionism is my ultimate goal, is for it to be a word in the dictionary. That would be my, you know, sort of fantasy for this to happen, and people have often asked me, you know, are you interested? Are you going to be turning it into a not for profit organization. You better copyright it, you know, or is there going to be merch, and Of that is of any interest to me whatsoever. You know to me the idea that it could be you know, come into usage as a term of art. Historical nomenclature would be the direction I'd like to see it go in, you know, and just to see the interest level of just such a wide Variety of artists, it's very encouraging, inspiring. So yeah, I mean, that's kind of you know where I see My my future playing out.
 
-## Michael Pierre Price [59:21](https://www.youtube.com/watch?v=BphNOUbReFs&t=3561s)
+## Michael Pierre Price [59:22](https://www.youtube.com/watch?v=BphNOUbReFs&t=3562s)
 
 Okay, this has been an awesome conversation. I want to thank the 4 of you and also ChatGPT. Gpt, I think that's gonna add a nice extra touch to the to this whole discussion. So yeah. Thank you all.
 
-## Jan Swinburne [59:40](https://www.youtube.com/watch?v=BphNOUbReFs&t=3580s)
+## Jan Swinburne [59:41](https://www.youtube.com/watch?v=BphNOUbReFs&t=3581s)
 
 Thank you.
 
-## Colin Goldberg [59:41](https://www.youtube.com/watch?v=BphNOUbReFs&t=3581s)
+## Colin Goldberg [59:42](https://www.youtube.com/watch?v=BphNOUbReFs&t=3582s)
 
 Thank you. Yeah, thanks so much, Michael. You know it's it's been a great conversation. And for those of you who are watching, who aren't aware of what kind of initiated this. It's that we're all part of this show in Chicago at 1 50 media stream. And you know, I encourage you guys online that are watching this to check that out. It's at Techspressionism.Com slash Chicago and Myself, Karen, Jan and Renata each had the opportunity to create a 2 min audio visual piece, and I think it's it's been a pretty amazing experience. You know, working with all you guys and with the curator. Yuga. So Yeah. So thanks again, Michael, and on all of all of you for taking the time to have this conversation, and and also to Michael for you know.
 
 Kick starting this idea of having roundtable discussions in general, I think it's a really good format. You know, that's kind of a little bit different from our salons where it's a small group, and we're able to have conversations. Like this. So Yeah.
 
-## Michael Pierre Price [01:00:51](https://www.youtube.com/watch?v=BphNOUbReFs&t=3651s)
+## Michael Pierre Price [01:00:52](https://www.youtube.com/watch?v=BphNOUbReFs&t=3652s)
 
 Awesome.
 
@@ -398,17 +394,17 @@ Awesome.
 
 All right.
 
-## Jan Swinburne [01:00:54](https://www.youtube.com/watch?v=BphNOUbReFs&t=3654s)
+## Jan Swinburne [01:00:55](https://www.youtube.com/watch?v=BphNOUbReFs&t=3655s)
 
 Great, so.
 
-## Colin Goldberg [01:00:56](https://www.youtube.com/watch?v=BphNOUbReFs&t=3656s)
+## Colin Goldberg [01:00:57](https://www.youtube.com/watch?v=BphNOUbReFs&t=3657s)
 
 Does any any of the other artists want to have anything to say as a closing before we stop the recording.
 
 Anyone? No takers.
 
-## Jan Swinburne [01:01:09](https://www.youtube.com/watch?v=BphNOUbReFs&t=3669s)
+## Jan Swinburne [01:01:10](https://www.youtube.com/watch?v=BphNOUbReFs&t=3670s)
 
 You're staying.
 
@@ -416,7 +412,7 @@ You're staying.
 
 Thank you. Yes.
 
-## Renata Janiszewska [01:01:12](https://www.youtube.com/watch?v=BphNOUbReFs&t=3672s)
+## Renata Janiszewska [01:01:13](https://www.youtube.com/watch?v=BphNOUbReFs&t=3673s)
 
 Thank you very much.
 
