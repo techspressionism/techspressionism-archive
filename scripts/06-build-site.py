@@ -154,7 +154,7 @@ h1, h2, h3, h4, header.site strong { font-family:"Kanit",-apple-system,BlinkMacS
 h1 { font-weight:800; }
 h2, h3, h4, header.site strong { font-weight:700; }
 h3.para-time { font-family:inherit; font-weight:400; font-style:normal; }
-:root { --fg:#000; --muted:#666; --bg:#e2e2e2; --card:#fff; --accent:#FF0000; --line:#e2e2e2; }
+:root { --fg:#000; --muted:#666; --bg:#fff; --card:#fff; --accent:#FF0000; --line:#e2e2e2; }
 * { box-sizing: border-box; }
 body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
        color:var(--fg); background:var(--bg); }
@@ -226,8 +226,8 @@ main.watch-page { max-width:84rem; }
 .para { margin:0 0 1.5rem; scroll-margin-top:calc(56.25vw + 1rem); }
 h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(56.25vw + 1rem); }
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
-a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f7f7f7; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
-a.pill:hover { background:#fff; text-decoration:none; }
+a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
+a.pill:hover { background:#e7e7e7; text-decoration:none; }
 a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
 a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
 a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
@@ -275,6 +275,10 @@ details.about .intro { color:var(--muted); }
 .typebar button:hover { border-color:var(--accent); }
 .typebar button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
 .typebar .n { opacity:.7; font-size:.8em; margin-left:.25rem; }
+@media (max-width:40rem) {   /* phones: the type buttons fill the width, centred, in two rows */
+  .typebar { justify-content:center; }
+  .typebar button { flex:1 1 auto; text-align:center; }
+}
 .sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; }
 """
 
@@ -762,7 +766,6 @@ document.addEventListener('click', (e) => {{
   }});
 }});
 </script>
-<h2>Browse</h2>
 {groups}
 </main>
 </body>
@@ -792,7 +795,7 @@ def build_index(corpus):
             f'{e(info["plural"])}<span class="n">{len(entries)}</span></button>')
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
-            f'<h3>{e(info["plural"])} ({len(entries)})</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+            f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     years = sorted(int(x["date_recorded"][:4]) for x in corpus
                    if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
     return INDEX_TMPL.format(
