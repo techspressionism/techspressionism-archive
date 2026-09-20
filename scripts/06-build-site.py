@@ -284,7 +284,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 #search { margin:.4rem 0 .3rem; }
 .browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
 .browse[hidden] { display:none; }
-.browse label { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.1rem; }
+.browse label { font:inherit; }   /* same font as the intro line */
 .browse select { flex:1; min-width:0; font:inherit; padding:.5rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); }
 #search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
