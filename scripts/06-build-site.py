@@ -161,25 +161,25 @@ def hhmmss(seconds):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
-def build_browse(corpus, active="", navigate=False):
+def build_browse(corpus, active="", navigate=False, sid=""):
     """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
     (script); on every other page (navigate=True) choosing one opens the home page on that category."""
     opts = "".join(
         f'<option value="{e(info["label"])}"{" selected" if info["label"] == active else ""}>{e(info["plural"])} ({n})</option>'
         for info, n in ((TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES) if n)
     go = ' onchange="location.href=\'index.html\'+(this.value?\'?type=\'+encodeURIComponent(this.value):\'\')"' if navigate else ""
-    return (f'<div class="browse"><label for="browse-select">Browse</label>'
-            f'<select id="browse-select"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
+    return (f'<div class="browse"><label for="browse-select{sid}">Browse</label>'
+            f'<select id="browse-select{sid}"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
 
 
-def build_header(corpus, active=""):
+def build_header(corpus, active="", sid=""):
     """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
     see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
     wires the search box and Browse to the page.)"""
     return ('<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>\n'
             + build_topnav(corpus, active) + '\n'
-            + build_browse(corpus, active, navigate=True) + '\n'
+            + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
             '</div></header>')
@@ -285,9 +285,9 @@ section.seg.cont .seg-head { margin:0; }
 /* transcript in the TED layout: a timecode pill above each paragraph; the video plays beside (wide) or above (narrow) */
 main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
-.stickytitle { display:none; position:fixed; top:0; left:0; right:0; z-index:40; background:var(--card); border-bottom:1px solid var(--line); padding:.4rem 1.25rem; white-space:nowrap; }
-.stickytitle.on { display:block; }
-.stickytitle a { color:inherit; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.05rem; }
+.stickyheader { display:none; position:fixed; top:0; left:0; right:0; z-index:40; }
+.stickyheader.on { display:block; }
+.stickyheader header.site { padding-top:.6rem; padding-bottom:.6rem; }
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
@@ -408,7 +408,7 @@ PAGE_TMPL = """<!doctype html>
 </head>
 <body>
 {header}
-<div class="stickytitle" id="stickytitle"><a href="index.html">Techspressionism Video Archive</a> <span class="beta">[BETA]</span></div>
+<div class="stickyheader" id="stickytitle">{sticky_header}</div>
 <main class="watch-page">
 <article data-pagefind-body>
 <div class="layout">
@@ -810,6 +810,7 @@ def build_session_page(entry, siblings=()):
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
         header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
+        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky'),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
