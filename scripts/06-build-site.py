@@ -180,12 +180,24 @@ def build_header(corpus, active="", sid=""):
             '<span class="beta">[BETA]</span></strong>\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
+            + build_browse_links(corpus, active) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
             '</div></header>')
 
 
 TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
+def build_browse_links(corpus, active=""):
+    """Category links shown under the search box on the desktop home page (hidden everywhere else)."""
+    links = []
+    for info in TYPES.values():
+        n = sum(1 for x in corpus if x.get("type", "salon") == next(k for k, v in TYPES.items() if v is info))
+        if n:
+            links.append(f'<a href="index.html?type={info["label"]}" data-type="{info["label"]}" aria-current="{"true" if info["label"] == active else "false"}">'
+                         f'{info["plural"]}<span class="n">{n}</span></a>')
+    return f'<nav class="browse-links" aria-label="Browse by category">{"".join(links)}</nav>'
+
+
 NAV_CORPUS = []      # set in main(): the header pills show a count per type
 
 
@@ -219,13 +231,13 @@ header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; alig
 header.site strong { font-size:1.1rem; white-space:nowrap; }
 header.site strong a { color:inherit; }
 header.site .wrap { container-type:inline-size; }
-@media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (17.85 = title + [BETA] length in em, plus a little slack) */
+@media (max-width:63.99rem) {   /* phone/tablet layout (the desktop layout starts at 64rem, with nothing in between): the title fills the width of the screen on one line (17.85 = title + [BETA] length in em, plus a little slack) */
   header.site .wrap { row-gap:.1rem; }
   header.site strong { line-height:1.1; }
   header.site .topnav { flex:1 1 100%; justify-content:center; margin-top:.4rem; }   /* the pills fill the width, centred, in rows */
   header.site .topnav a.chip { flex:1 1 auto; text-align:center; }
   header.site .wrap > .d { display:none; }
-  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 17.85); line-height:1.2; }
+  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:min(calc(100cqw / 17.85), 2rem); line-height:1.2; }
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
 .topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; color:var(--fg); }
@@ -235,7 +247,7 @@ header.site .wrap { container-type:inline-size; }
 header.site .hright { margin:0 0 0 auto; display:flex; flex-direction:column; gap:.4rem; }
 header.site .hsearch { margin:0; }
 header.site .browse { margin:0; gap:.6rem; }
-@media (max-width:40rem) { header.site .wrap > .browse { flex:1 1 100%; margin-top:.5rem; } }
+@media (max-width:63.99rem) { header.site .wrap > .browse { flex:1 1 100%; margin-top:.5rem; } }
 header.site .browse label { font-size:.9rem; }
 header.site .browse select { padding:.3rem .7rem; font-size:.9rem; border-radius:1rem; background:var(--bg); }
 header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-width:100%; height:2.9rem; padding:.4rem 1rem .4rem 2.8rem; border:2px solid var(--accent); border-radius:0; color:var(--fg);
@@ -243,7 +255,7 @@ header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-wid
 header.site .hsearch input::placeholder { color:#757575; opacity:1; }
 header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
-@media (max-width:34rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
+@media (max-width:63.99rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -389,6 +401,27 @@ a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
+/* ---- desktop (64rem and wider) ---- */
+.browse-links { display:none; }
+@media (min-width:64rem) {
+  /* every page: one row, TED-style: title at the left, Browse next to it, search box at the right; it never stacks */
+  header.site .wrap { flex-wrap:nowrap; align-items:center; gap:1.75rem; }
+  header.site strong, header.site .browse, header.site .hright { flex:none; }
+  header.site .hright { margin:0 0 0 auto; }
+  header.site .hsearch input { width:19rem; }
+  /* home page: like Google, the search box is the star, with the categories as links under it */
+  body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
+  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:clamp(3rem, 14vh, 8rem) 0 1.5rem; }
+  body.home header.site strong { font-size:3.1rem; line-height:1.15; text-align:center; }
+  body.home header.site .browse { display:none; }
+  body.home header.site .hright { order:2; margin:0; width:min(44rem, 100%); }
+  body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
+  body.home .browse-links { order:3; display:flex; flex-wrap:wrap; justify-content:center; gap:.6rem 2.2rem; font-size:1.1rem; }
+  body.home .browse-links a { color:var(--accent); }
+  body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
+  body.home .browse-links .n { color:var(--muted); font-size:.85em; margin-left:.25rem; }
+  body.home main { max-width:44rem; }
+}
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
 
@@ -849,7 +882,7 @@ INDEX_TMPL = """<!doctype html>
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="pagefind/pagefind-ui.js"></script>
 </head>
-<body>
+<body class="home">
 {header}
 <main>
 <div id="intro-block">
@@ -1143,6 +1176,10 @@ window.addEventListener('DOMContentLoaded', () => {{
   const browseSel = document.getElementById("browse-select");
   browseSel.removeAttribute("onchange");                       // on other pages it opens the home page; here it swaps the list
   browseSel.addEventListener("change", (ev) => choose(ev.target.value));
+  document.querySelector(".browse-links").addEventListener("click", (ev) => {{
+    const a = ev.target.closest("a[data-type]");
+    if (a && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey) {{ ev.preventDefault(); choose(a.dataset.type); }}
+  }});
 
   // the header search box is the search box: it drives the results shown on this page
   const headerSearch = document.querySelector("header.site .hsearch");
@@ -1165,6 +1202,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       g.hidden = !type || g.dataset.type !== type;      // no list until a category is chosen
     }}
     document.getElementById("browse-select").value = type;
+    for (const a of document.querySelectorAll(".browse-links a[data-type]")) a.setAttribute("aria-current", String(a.dataset.type === type));
     document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
     // search always covers every category; choosing one here only changes the list shown below
   }}
