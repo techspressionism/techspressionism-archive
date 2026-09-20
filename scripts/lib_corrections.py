@@ -225,8 +225,17 @@ def fix_techspressionism(text):
     return _TECH_WORD.sub(repl, text)
 
 
+_EMAIL = re.compile(r"\b([A-Za-z0-9][A-Za-z0-9._%+-]*)@([A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*)\.([A-Za-z]{2,})\b")
+
+
+def spell_out_emails(text):
+    """Speech recognition turns "name at company dot com" into something that looks like an email address. The archive
+    never prints one (privacy): it is written out in words, as it was spoken, so no address can be harvested from it."""
+    return _EMAIL.sub(lambda m: f"{m.group(1)} at {m.group(2).lower()} dot {m.group(3).lower()}", text)
+
+
 def apply_style_rules(text):
-    text = fix_techspressionism(text)
+    text = spell_out_emails(fix_techspressionism(text))
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
     return text
