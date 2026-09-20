@@ -636,7 +636,7 @@ INDEX_TMPL = """<!doctype html>
 <body>
 <header class="site"><div class="wrap"><strong>Techspressionism Video Archive</strong>
 {topnav}
-<span class="d">{count} recordings &middot; {year_span}</span></div></header>
+<span class="d" id="rec-count">{count_text}</span></div></header>
 <main>
 <div id="intro-block">
 <details class="about"><summary>About the archive</summary>
@@ -691,6 +691,7 @@ function escapeHtml(s) {{
 // duo credits, non-Western orderings -- to invert reliably), so names stay
 // in the natural order they're recorded in.
 const PILL_SVG = {pill_svg_js};
+const REC_COUNTS = {rec_counts_js};
 
 function pillTime(seconds) {{
   seconds = Math.floor(seconds);
@@ -771,6 +772,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       const h = g.querySelector("h3");
       if (h) h.hidden = !!type;      // the category name shows only when "All" is selected
     }}
+    document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
     // one control drives both the full-text search and the session list
     ui.triggerFilters(type ? {{ type: [type] }} : {{}});
   }}
@@ -798,7 +800,7 @@ document.addEventListener('click', (e) => {{
 
 
 def build_index(corpus):
-    groups = []
+    groups, spans = [], {}
     type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
     for t, info in type_labels:
         entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=lambda x: -x["number"])
@@ -808,7 +810,9 @@ def build_index(corpus):
         yrs = [int(x["date_recorded"][:4]) for x in entries if len(x.get("date_recorded") or "") >= 7]
         if yrs:
             first = min(yrs + [int(SITE_CONFIG.get("series_start_years", {}).get(info["label"], min(yrs)))])
-            span = f" ({first}&ndash;{max(yrs)})" if first != max(yrs) else f" ({first})"
+            last = max(yrs)
+            span = f" ({first}&ndash;{last})" if first != last else f" ({first})"
+            spans[info["label"]] = (len(entries), first, last)
         else:
             span = ""
         for entry in entries:
@@ -824,11 +828,18 @@ def build_index(corpus):
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<h3>{e(info["plural"])}{span}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
-    years = sorted(int(x["date_recorded"][:4]) for x in corpus
-                   if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
+    def count_text(n, first, last):
+        years = f"{first}\u2013{last}" if first != last else str(first)
+        return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}"
+    rec_counts = {label: count_text(*v) for label, v in spans.items()}
+    if spans:
+        rec_counts[""] = count_text(len(corpus), min(v[1] for v in spans.values()), max(v[2] for v in spans.values()))
+    else:
+        rec_counts[""] = f"{len(corpus)} recordings"
+
     return INDEX_TMPL.format(
-        count=len(corpus),
-        year_span=f"{years[0]}&ndash;{years[-1]}" if years else "",
+        count_text=e(rec_counts[""]),
+        rec_counts_js=json.dumps(rec_counts),
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
         topnav=build_topnav(corpus, ""),
