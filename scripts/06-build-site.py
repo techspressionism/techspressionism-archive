@@ -261,11 +261,11 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
 a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space:nowrap; opacity:.75; }
 a.suggest:hover { opacity:1; color:var(--accent); }
 /* index */
-.sessions { list-style:none; padding:0; margin:1.5rem 0 0; }
+.sessions { list-style:none; padding:0; margin:.3rem 0 0; }
 .sessions li { border-bottom:1px solid var(--line); padding:.7rem 0; }
 .sessions .num { display:inline-block; min-width:3.2rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .d { color:var(--muted); font-size:.9rem; }
-#search { margin:1rem 0 2rem; }
+#search { margin:.4rem 0 .3rem; }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
@@ -287,7 +287,7 @@ details.about .intro { color:var(--muted); }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
-.sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; }
+.sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; }
 """
 
 PAGE_TMPL = """<!doctype html>
@@ -803,6 +803,14 @@ def build_index(corpus):
     for t, info in type_labels:
         entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=lambda x: -x["number"])
         rows = []
+        # date range of the category; year-only placeholder dates (e.g. "2000") are ignored, and
+        # data/site-config.json "series_start_years" can set the year a series began (Salons: 2020)
+        yrs = [int(x["date_recorded"][:4]) for x in entries if len(x.get("date_recorded") or "") >= 7]
+        if yrs:
+            first = min(yrs + [int(SITE_CONFIG.get("series_start_years", {}).get(info["label"], min(yrs)))])
+            span = f" ({first}&ndash;{max(yrs)})" if first != max(yrs) else f" ({first})"
+        else:
+            span = ""
         for entry in entries:
             topic = entry.get("session_title") or "Untitled"
             by = f' <span class="d">interviewed by {e(entry["interviewer"])}</span>' if entry.get("interviewer") else ""
@@ -815,7 +823,7 @@ def build_index(corpus):
             )
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
-            f'<h3>{e(info["plural"])}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+            f'<h3>{e(info["plural"])}{span}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     years = sorted(int(x["date_recorded"][:4]) for x in corpus
                    if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
     return INDEX_TMPL.format(

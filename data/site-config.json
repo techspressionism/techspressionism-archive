@@ -1,8 +1,9 @@
 {
-  "_comment": "Site settings. beta_noindex: while true, every page carries a noindex tag so search engines do not list the unfinished archive (set to false at launch). watch_lead_in_seconds: each '▶ watch' link starts this many seconds BEFORE the passage (never before 0:00) so a listener hears the words in context; the printed time and the citation stay exact. pill_lead_in_seconds: the timecode pill above each paragraph starts the inline player this many seconds before that paragraph's first word (raise it if word timing runs late). suggest_url: the page on techspressionism.com that holds the 'Suggest a correction' Gravity Form (leave empty to hide the links). suggest_params: the form's dynamic-population parameter names for the recording (e.g. salon-081), the time in seconds, and the passage text.",
+  "_comment": "Site settings. series_start_years: the year a series began when that is earlier than its first archived recording (the Salons began in September 2020; the first one in the archive is Salon 8 in 2021); it sets the start of the date range shown above each list on the home page. beta_noindex: while true, every page carries a noindex tag so search engines do not list the unfinished archive (set to false at launch). watch_lead_in_seconds: each '▶ watch' link starts this many seconds BEFORE the passage (never before 0:00) so a listener hears the words in context; the printed time and the citation stay exact. pill_lead_in_seconds: the timecode pill above each paragraph starts the inline player this many seconds before that paragraph's first word (raise it if word timing runs late). suggest_url: the page on techspressionism.com that holds the 'Suggest a correction' Gravity Form (leave empty to hide the links). suggest_params: the form's dynamic-population parameter names for the recording (e.g. salon-081), the time in seconds, and the passage text.",
   "beta_noindex": true,
   "watch_lead_in_seconds": 3,
   "pill_lead_in_seconds": 1,
+  "series_start_years": { "Salon": 2020 },
   "suggest_url": "",
   "suggest_params": {
     "recording": "recording",
