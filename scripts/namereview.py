@@ -365,7 +365,11 @@ async function page(sl){
   document.querySelectorAll('audio').forEach(a=>a.onplay=()=>{if(player&&playerReady&&player.pauseVideo)player.pauseVideo()});
   $('#apply').onclick=async()=>{const b=$('#apply'),m=$('#applymsg');b.disabled=true;m.textContent='Building the page… (up to a minute)';
     const r=await api('/api/apply',{method:'POST',body:JSON.stringify({slug:sl})});b.disabled=false;
-    m.textContent=r.error?('Could not apply: '+r.error):`Applied. ${r.attributed}% of this recording's words now carry a name (${r.unattributed_words.toLocaleString()} words are still Unattributed). It goes online the next time the site is published.`};
+    if(r.error){m.textContent='Could not apply: '+r.error;return}
+    m.textContent=`Applied. ${r.attributed}% of this recording's words now carry a name (${r.unattributed_words.toLocaleString()} are still Unattributed). Opening the next recording to review…`;
+    const rows=await api('/api/list'),i=rows.findIndex(x=>x.slug===sl);      // the next recording (in list order, wrapping round) that still has voices to decide
+    const order=[...rows.slice(i+1),...rows.slice(0,Math.max(i,0))],next=order.find(x=>x.decided<x.voices);
+    setTimeout(()=>{location.hash=next?'#/'+next.slug:'#/';window.scrollTo(0,0)},1800)};
   $('#auto').onchange=e=>api('/api/approve',{method:'POST',body:JSON.stringify({slug:sl,approved_auto:e.target.checked})});
   document.querySelectorAll('.card[data-v] button[data-act]').forEach(b=>b.onclick=async()=>{   // only Confirm/Save/Leave, never the ▶ buttons
     const card=b.closest('.card'), name=b.dataset.act==='none'?'':chosen(card);
