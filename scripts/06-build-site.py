@@ -347,7 +347,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
-#search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
+#search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:1rem; }
 #search a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; }
 #search .cite-actions a.pill.pill-watch { padding-left:1.1rem; padding-right:1.1rem; gap:.5rem; }
 #search a.pill.pill-watch svg, #search a.pill.pill-watch:hover svg { color:#fff; }
@@ -366,13 +366,17 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 
 /* search-result citations and the citation card under a cited passage */
 #search .citation-info { margin-top:.6rem; padding:.55rem 0 0; border:0; border-top:1px solid #bbb; background:none; border-radius:0; }   /* a thin rule between the quoted text and its citation */
-.citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:inline; margin:0; font-size:inherit; }
+.citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:block; margin:0 0 .25rem; font-size:inherit; }   /* the citation itself starts on the next line */
 #search .copy-cite, .cite-card .copy-cite, .cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
 #search .copy-cite:hover, .cite-card .copy-cite:hover, .cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
 .cite-card { margin:0 0 1.5rem; padding:.7rem .9rem; border-left:3px solid var(--accent); background:#fafafa; }
 .cite-card .cite-text { font-family:Georgia,"Times New Roman",serif; font-size:.95rem; }
 .cite-card .cite-actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
 .cite-card .continue-btn[hidden] { display:none; }
+.player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
+/* a red rule, with room above and below, before each following search result */
+#search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
+#search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
@@ -562,6 +566,14 @@ PLAYER_JS = """<script>
       card.querySelector('.copy-cite').dataset.citation = citeText;
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
+    }
+    var ytBase = (document.querySelector('.meta a[href*="youtube.com/watch"]') || {}).href;
+    if (ytBase && pbox) {                  // "Watch on YouTube" sits under the video, at the same moment
+      var yl = document.createElement('a');
+      yl.className = 'yt-under'; yl.target = '_blank'; yl.rel = 'noopener';
+      yl.href = ytBase + '&t=' + Math.max(0, Math.floor(citeAt - lead)) + 's';
+      yl.textContent = 'Watch on YouTube \u2197';
+      pbox.appendChild(yl);
     }
     citedMode = true;
     whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
@@ -910,12 +922,11 @@ function citationBlock(c) {{
   const page = c.sr.url.split("#")[0];
   const here = page + "?play=1&at=" + c.at.toFixed(2) + (c.to != null ? "&to=" + c.to.toFixed(2) : "")
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
-  const ytLink = yt + "&t=" + Math.max(0, Math.floor(c.at - {pill_lead})) + "s";
   return '<div class="citation-info" data-cid="' + c.id + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
     + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + escapeHtml(citation) + '</span>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy Citation</button>'
     + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
-    + '<a class="yt-jump" href="' + ytLink + '" target="_blank" rel="noopener">Watch on YouTube &#8599;</a></div></div>';
+    + '</div></div>';
 }}
 
 const timesCache = new Map();
