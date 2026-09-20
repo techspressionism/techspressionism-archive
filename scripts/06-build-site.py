@@ -295,11 +295,11 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; }
+.more-link { display:none; padding:0; border:0; background:none; font:inherit; color:var(--accent); cursor:pointer; }
+.js .more-link { display:inline; }
+.js .about-more:not(.open) { display:none; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
 .tagline { font-size:inherit; }   /* same size as the About heading; lines fill the width (no balanced wrapping) */
-details.about { margin:0 0 .8rem; }
-details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
-details.about .intro { color:var(--fg); }
 .intro .watch-ref { color:var(--accent); font-weight:600; }
 .yt-jump { white-space:nowrap; font-size:.85em; }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
@@ -666,6 +666,7 @@ INDEX_TMPL = """<!doctype html>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<script>document.documentElement.className+=" js"</script>
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="pagefind/pagefind-ui.js"></script>
 </head>
@@ -675,20 +676,26 @@ INDEX_TMPL = """<!doctype html>
 <span class="d"><span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
-<details class="about"><summary>About the archive</summary>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. <button type="button" class="more-link" id="about-toggle" aria-expanded="false" aria-controls="about-more">more...</button></p>
+<div class="about-more" id="about-more">
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
 (running since September 2020), artist <a href="index.html?type=Interview">interviews</a>, <a href="index.html?type=Roundtable">roundtables</a>,
 and <a href="index.html?type=Presentation">presentations</a>. Search the full text below &mdash; all recordings or just one type &mdash; or browse the list.
 Every result links to the transcript and to the exact moment in the recording. Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may
 contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
-Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></details>
+Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></div>
 </div>
 <script>
 (function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
   var seen = false;
   try {{ seen = sessionStorage.getItem("tvaSeen") === "1"; }} catch (e) {{}}
+  const tog = document.getElementById("about-toggle"), more = document.getElementById("about-more");
+  tog.addEventListener("click", () => {{
+    const open = more.classList.toggle("open");
+    tog.setAttribute("aria-expanded", String(open));
+    tog.textContent = open ? "less" : "more...";
+  }});
   if (new URLSearchParams(location.search).get("type") && seen) document.getElementById("intro-block").hidden = true;
   else try {{ sessionStorage.setItem("tvaSeen", "1"); }} catch (e) {{}}
 }})();
