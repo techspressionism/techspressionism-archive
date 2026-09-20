@@ -27,6 +27,7 @@ from urllib.parse import urlencode
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib_sentences import split_sentences
+from lib_speakers import is_not_speaker
 from lib_media import TYPES, label, slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -768,8 +769,12 @@ def build_session_page(entry, siblings=()):
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
+        # a passage whose speaker is not identified is not offered as a search result (a citation needs a speaker);
+        # the page still shows it. data/site-config.json "search_unidentified_speakers": true brings them back.
+        unidentified = not seg.get("speaker") or is_not_speaker(seg.get("speaker"))
+        no_index = " data-pagefind-ignore" if unidentified and not SITE_CONFIG.get("search_unidentified_speakers") else ""
         seg_html.append(
-            f'<section class="seg{" cont" if cont else ""}">'
+            f'<section class="seg{" cont" if cont else ""}"{no_index}>'
             f'<h2 class="seg-head" id="t{start}"><span class="speaker">{e(speaker)}</span></h2>'
             f'{"".join(blocks) or "<div class=para><p></p></div>"}'
             f'</section>'
