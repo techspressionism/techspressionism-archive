@@ -895,7 +895,7 @@ INDEX_TMPL = """<!doctype html>
 {header}
 <main>
 <div id="intro-block">
-<p class="intro">The Techspressionism Video Archive (TVA) is a searchable, citable transcript archive of recorded video related to Techspressionism published from 2020&ndash;{latest_year}.
+<p class="intro">The Techspressionism Video Archive (TVA) is a searchable, citable transcript archive of recorded video related to Techspressionism published from {first_year}&ndash;{latest_year}.
 This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.</p>
 <p class="intro">The archive includes transcripts of Techspressionist <a href="index.html?type=Salon">salons</a>, artist <a href="index.html?type=Interview">interviews</a>,
 <a href="index.html?type=Roundtable">roundtable discussions</a>, and artist <a href="index.html?type=Presentation">presentations</a>.
@@ -1281,10 +1281,12 @@ def build_index(corpus):
         rec_counts[""] = f"{len(corpus)} recordings."
 
     latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
+    first_year = min((v[1] for v in spans.values()), default=latest_year)      # start of the earliest series (data/site-config.json series_start_years can set it)
     hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
     as_of = datetime.date.today().strftime("%B %Y")
     return INDEX_TMPL.format(
         latest_year=latest_year,
+        first_year=first_year,
         hours=hours,
         as_of=as_of,
         n_recordings=len(corpus),
