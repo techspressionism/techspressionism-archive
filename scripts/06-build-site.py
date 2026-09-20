@@ -632,6 +632,7 @@ INDEX_TMPL = """<!doctype html>
 {topnav}
 <span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
+<div id="intro-block">
 <p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
@@ -641,6 +642,15 @@ and <a href="index.html?type=Presentation">presentations</a>. Search the full te
 Every result links to the transcript and to the exact moment in the recording. Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may
 contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
 Built in Python with Claude Code.</p></details>
+</div>
+<script>
+(function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
+  var seen = false;
+  try {{ seen = sessionStorage.getItem("tvaSeen") === "1"; }} catch (e) {{}}
+  if (new URLSearchParams(location.search).get("type") && seen) document.getElementById("intro-block").hidden = true;
+  else try {{ sessionStorage.setItem("tvaSeen", "1"); }} catch (e) {{}}
+}})();
+</script>
 <div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
@@ -740,7 +750,10 @@ window.addEventListener('DOMContentLoaded', () => {{
 
   document.getElementById("typebar").addEventListener("click", (ev) => {{
     const btn = ev.target.closest("button[data-type]");
-    if (btn) setType(btn.dataset.type);
+    if (btn) {{
+      setType(btn.dataset.type);
+      document.getElementById("intro-block").hidden = !!btn.dataset.type;   // already seen: choosing a category hides the intro, "All" brings it back
+    }}
   }});
 
   function setType(type) {{
