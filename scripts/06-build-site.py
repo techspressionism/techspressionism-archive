@@ -246,15 +246,15 @@ h1 .topic { color:var(--muted); font-weight:400; }
 .speakers .country { color:var(--muted); }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
-.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
+.seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
 .read-btn { display:none; width:100%; margin:0 0 1.2rem; padding:.85rem 1rem; border:2px solid var(--accent); border-radius:.4rem; background:var(--accent);
             color:#fff; font:inherit; font-size:1.05rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
 .read-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn[aria-expanded="true"] { background:#fff; color:var(--accent); }
 .read-btn[aria-expanded="true"]:hover { background:#fff0f0; }
-.js .read-btn { display:block; position:sticky; top:var(--player-h, 56.25vw); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
-.js .transcript { display:none; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
+.js .read-btn { display:block; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
+.js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
@@ -277,15 +277,18 @@ section.seg.cont .seg-head { margin:0; }
 /* transcript in the TED layout: a timecode pill above each paragraph; the video plays beside (wide) or above (narrow) */
 main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
-.player-box { position:sticky; top:0; z-index:20; background:#000; margin:0 -1.25rem 1rem; }
+.stickytitle { display:none; position:fixed; top:0; left:0; right:0; z-index:40; background:var(--card); border-bottom:1px solid var(--line); padding:.4rem 1.25rem; white-space:nowrap; }
+.stickytitle.on { display:block; }
+.stickytitle a { color:inherit; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.05rem; }
+.player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
 .player-frame .poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:#000; cursor:pointer; }
 .player-frame .bigplay { position:absolute; left:50%; top:50%; width:4.2rem; height:4.2rem; margin:-2.1rem 0 0 -2.1rem; border-radius:50%; background:rgba(240,240,240,.92); display:flex; align-items:center; justify-content:center; transition:transform .15s; }
 .player-frame .poster:hover .bigplay, .player-frame .poster:focus-visible .bigplay { transform:scale(1.08); }
 .player-frame .bigplay svg { width:1.5rem; height:1.7rem; margin-left:.25rem; fill:#111; }
-.para { margin:0 0 1.5rem; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
-h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(var(--player-h, 56.25vw) + 4.6rem); }
+.para { margin:0 0 1.5rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
+h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
@@ -296,7 +299,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
 .para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
 @media (min-width:64rem) {
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
-  .side { display:block; position:sticky; top:1rem; max-height:calc(100vh - 2rem); overflow:auto; scrollbar-width:thin; }
+  .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .read-btn { position:static; box-shadow:none; }
@@ -334,9 +337,6 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; }
-.more-link { display:none; padding:0; border:0; background:none; font:inherit; color:var(--accent); cursor:pointer; }
-.js .more-link { display:inline; }
-.js .about-more:not(.open) { display:none; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
 .tagline { font-size:inherit; }   /* same size as the About heading; lines fill the width (no balanced wrapping) */
 .intro .watch-ref { color:var(--accent); font-weight:600; }
@@ -374,6 +374,7 @@ PAGE_TMPL = """<!doctype html>
 </head>
 <body>
 {header}
+<div class="stickytitle" id="stickytitle"><a href="index.html">Techspressionism Video Archive</a> <span class="beta">[BETA]</span></div>
 <main class="watch-page">
 <article data-pagefind-body>
 <div class="layout">
@@ -466,6 +467,16 @@ PLAYER_JS = """<script>
   var pbox = document.getElementById('player-box');
   function sizePlayer() { if (pbox) document.documentElement.style.setProperty('--player-h', pbox.offsetHeight + 'px'); }
   sizePlayer(); window.addEventListener('resize', sizePlayer);
+  var bar = document.getElementById('stickytitle'), pageHeader = document.querySelector('header.site');
+  function titleBar() {     // once the page header has scrolled away, a slim bar with the site title keeps the way home in reach
+    if (!bar || !pageHeader) return;
+    var on = pageHeader.getBoundingClientRect().bottom < 0;
+    if (on !== bar.classList.contains('on')) {
+      bar.classList.toggle('on', on);
+      document.documentElement.style.setProperty('--title-h', on ? bar.offsetHeight + 'px' : '0px');
+    }
+  }
+  titleBar(); window.addEventListener('scroll', titleBar, { passive: true }); window.addEventListener('resize', titleBar);
   if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
   if (btn) {
     btn.addEventListener('click', function () { reading(!layout.classList.contains('reading'), true); });
@@ -528,7 +539,7 @@ PLAYER_JS = """<script>
     if (i < 0) return;
     paras[i].classList.add('active');
     if (follow && Date.now() - lastUser > 4000) {
-      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : 0;
+      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
       if (r.top < top + 40 || r.bottom > window.innerHeight - 40) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
     }
   }
@@ -711,27 +722,17 @@ INDEX_TMPL = """<!doctype html>
 {header}
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. <button type="button" class="more-link" id="about-toggle" aria-expanded="false" aria-controls="about-more">more...</button></p>
-<div class="about-more" id="about-more">
-<p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
-a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
-(running since September 2020), artist <a href="index.html?type=Interview">interviews</a>, <a href="index.html?type=Roundtable">roundtables</a>,
-and <a href="index.html?type=Presentation">presentations</a>. Search the full text below &mdash; all recordings or just one type &mdash; or browse the list.
-Every result links to the transcript and to the exact moment in the recording. Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may
-contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
-Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></div>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
+<p class="intro">The Techspressionism Video Archive (TVA) is a research tool for historians and anyone studying the Techspressionism movement:
+<a href="index.html?type=Salon">Salons</a>, <a href="index.html?type=Interview">interviews</a>, <a href="index.html?type=Roundtable">roundtables</a>
+and <a href="index.html?type=Presentation">presentations</a>, {hours:,} hours transcribed and indexed. Transcripts are machine-generated and may contain errors:
+verify every quote against the recording before citing. Built in Python with Claude Code.</p>
 </div>
 <p class="reccount"><span id="rec-count">{count_text}</span></p>
 <script>
 (function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
   var seen = false;
   try {{ seen = sessionStorage.getItem("tvaSeen") === "1"; }} catch (e) {{}}
-  const tog = document.getElementById("about-toggle"), more = document.getElementById("about-more");
-  tog.addEventListener("click", () => {{
-    const open = more.classList.toggle("open");
-    tog.setAttribute("aria-expanded", String(open));
-    tog.textContent = open ? "less" : "more...";
-  }});
   if (new URLSearchParams(location.search).get("type") && seen) document.getElementById("intro-block").hidden = true;
   else try {{ sessionStorage.setItem("tvaSeen", "1"); }} catch (e) {{}}
 }})();
