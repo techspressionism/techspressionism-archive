@@ -1,4 +1,17 @@
 {
- "approved_auto": true,
- "voices": {}
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:11",
+      "auto": true,
+      "fingerprint": "9dd0f83aff",
+      "name": "Michael Rees"
+    },
+    "V2": {
+      "at": "2026-09-20 19:11",
+      "auto": true,
+      "fingerprint": "0101b27a44",
+      "name": "Colin Goldberg"
+    }
+  }
 }

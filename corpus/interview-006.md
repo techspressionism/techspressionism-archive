@@ -23,9 +23,17 @@ languages: ["en"]
 
 ## Colin Goldberg [00:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=0s)
 
-And record to the cloud and we're recording. Okay, today is Wednesday, February 17th. My name is Colin Goldberg and I'm here today with artist Patrick Lichty. Hi there, great. Good. Hey Patrick, thanks for coming. So, I guess we'll get right into it if you want to just tell us a little bit about your background. I mean, you know, you and I came to know each other through the MFA program at Bowling Green, computer art. So, you know, I know a little bit about your background, but if you want to share with the internet, you know, about where you were born, where you live in practice now and that kind of stuff.
+And record to the cloud and we're recording. Okay, today is Wednesday, February 17th. My name is Colin Goldberg and I'm here today with artist Patrick Lichty.
 
-## Unattributed [00:38](https://www.youtube.com/watch?v=a5h-eBQYrks&t=38s)
+## Unattributed [00:11](https://www.youtube.com/watch?v=a5h-eBQYrks&t=11s)
+
+Hi there, great.
+
+## Colin Goldberg [00:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=12s)
+
+Good. Hey Patrick, thanks for coming. So, I guess we'll get right into it if you want to just tell us a little bit about your background. I mean, you know, you and I came to know each other through the MFA program at Bowling Green, computer art. So, you know, I know a little bit about your background, but if you want to share with the internet, you know, about where you were born, where you live in practice now and that kind of stuff.
+
+## Patrick Lichty [00:38](https://www.youtube.com/watch?v=a5h-eBQYrks&t=38s)
 
 Yeah, I was born in a suburb of Akron, Ohio, where Devo came from. You're kind of into new wave and punk and all that sort of thing. And actually, first 10 years of my life, I grew up in literally within about, within visual distance of the Goodyear Zeppelin Air Dock, which they, you know, that's where they held, you know, the five airships that Goodyear and Zeppelin actually made, you know, in the 1920s. And then we moved to North Canton, Ohio, which is where they made Hoover vacuum cleaners. So, and that area is also where Marilyn Manson's from. So, you know, it was kind of... It's kind of an interesting thing.
 
@@ -35,37 +43,33 @@ And so this is an interesting thing is that, you know, I basically majored... I 
 
 I actually have... I have a form of retinitis pigmentosa. And doctors basically told me that I was going to go blind by 30. And, you know, all this notion of practicality in my life... You know, I just kind of felt like this was tenuous at best anyway. So what happened is that I wound up, you know, in a situation in which...
 
-I was probably going to be, you know, in a trailing family situation. So I quit engineering. I went into the arts. And basically just, you know, studied informally and just started a contemporary art studio and a design studio during the dot-com era.
-
-## Unattributed [03:45](https://www.youtube.com/watch?v=a5h-eBQYrks&t=225s)
-
-Kept myself alive. But the thing is, is that I was just asked at one time, if you had, you know, your choice to do anything... That you ever wanted to do. You know, if it was going to... If you had to live in a cardboard box out in the middle of the highway and just do this, what would you do? And I said, I'm going to be an artist.
+I was probably going to be, you know, in a trailing family situation. So I quit engineering. I went into the arts. And basically just, you know, studied informally and just started a contemporary art studio and a design studio during the dot-com era. Kept myself alive. But the thing is, is that I was just asked at one time, if you had, you know, your choice to do anything... That you ever wanted to do. You know, if it was going to... If you had to live in a cardboard box out in the middle of the highway and just do this, what would you do? And I said, I'm going to be an artist.
 
 And then, you know, this is kind of funny is that I'm going to really just kind of weave together a lot of the narrative. Is that in these early days, what I was very interested in... I was very interested in the first wave. I was very interested in people like Monet and Cezanne and Gauguin. And I really got interested in people like the Dadaists and the Surrealists and the Futurists. And then I got really, really interested in the German expressionists like Munter, Kandinsky, you know, Munch, you know, and all that. And I started reading Kandinsky's books, you know, especially considering that... Concerned concerning the spiritual and art. And what I did is I sat down and I did an exercise in which I basically shut myself off from trying to look at all art. Except for just reading this book on his theories of expressionism.
 
-And I just read this and I made this whole body of watercolors. And, you know, and it... By the time... The way feeding into a later part of the conversation is like tech watercolor is a technology um and the thing is is that you know I kind of got into the notion of you know expressionism you know uh and so what happens is that kandinsky is at the root of all my painting um as far as sensibility notions of form color um and all this uh but um you know it's uh I got my first electronics kit at age seven at age um at age um 10 my first computer at age 18 and um so I think to me I'm kind of a technological native you know having been raised as an artist being forced through a technological milieu and then getting interested in having roots in you know dataism and expressionism which kind of leads me um as one of my threads you know into this notion of the subjective experience of of expression
-
-## Unattributed [06:46](https://www.youtube.com/watch?v=a5h-eBQYrks&t=406s)
-
-I mean of art and expression um but the thing is is that for me using technology as part of my native cultural voice because I grew up on science fiction I've been playing with electronics ever since I was 10 years old it's like you know in other words it in some way or another you know technology is is part of my voice so um so I'd say that kind of lays lays the lays the groundwork of how I resonate with um you know I've been playing with electronics for a long time
+And I just read this and I made this whole body of watercolors. And, you know, and it... By the time... The way feeding into a later part of the conversation is like tech watercolor is a technology um and the thing is is that you know I kind of got into the notion of you know expressionism you know uh and so what happens is that kandinsky is at the root of all my painting um as far as sensibility notions of form color um and all this uh but um you know it's uh I got my first electronics kit at age seven at age um at age um 10 my first computer at age 18 and um so I think to me I'm kind of a technological native you know having been raised as an artist being forced through a technological milieu and then getting interested in having roots in you know dataism and expressionism which kind of leads me um as one of my threads you know into this notion of the subjective experience of of expression I mean of art and expression um but the thing is is that for me using technology as part of my native cultural voice because I grew up on science fiction I've been playing with electronics ever since I was 10 years old it's like you know in other words it in some way or another you know technology is is part of my voice so um so I'd say that kind of lays lays the lays the groundwork of how I resonate with um you know I've been playing with electronics for a long time
 
 ## Colin Goldberg [07:26](https://www.youtube.com/watch?v=a5h-eBQYrks&t=446s)
 
 Um and I've been playing with you know this whole thing were there any aspects you know in terms of like you know you talked about kandinsky um beyond the sort of um the aesthetics of his work and any kind of formal visual components of his work I mean are there um philosophical aspects to the writing that that you found you know interesting in the way that you or you know have you incorporated that sort of line of thinking into what sort of content drives the work or you know what it's about
 
-## Unattributed [08:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=480s)
+## Patrick Lichty [08:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=480s)
 
-Well sure I mean I mean and I mean I have several body several kind of like threads of work and a lot of it has to do with this notion of mediation in other words like you know the the you know expressionist side is the idea of like you know mediating the subjective you know so I mean the thing is is that um kandinsky always you know was talking about the idea of mediating the inner state I mean so I think also kirchner especially so um I was very much a fan of like you know these guys like you know there were two expressionist groups in in germany um the the blue rider and the bridge to brooke and the blau rider and so I'm very much kind of a blau rider sort and so what happens is is that you know that so really what's what's interesting to me is you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you kandinsky thinks about um the communication of the inner emotional state you know through the work through notions of color and form um and that's especially considering this uh spiritual and art and then he also did a book called uh the clang sounds so these are writings and they're also performances which actually I I co-produced one in uh uh 1990 with a yellow sound was well I think the fifth time it would had been done at kent state and so what's interesting about that is that um you know this was sort of like as theater was was dr cow dr calagari was to um you know cinema and I think and then also I'm like a huge fan of um but you know of people like antonine artote who are you know people who are really you know you're looking at delving into you know the the the internal emotional state and trying to get it out to me I'm saying it's like how do I how do I do this in a way you know that deals with the notion of mediation that trans you know that translates onto whatever medium you're doing and to be perfectly honest I don't think there's to mean um operationally there are some differences and culturally the and I'm culturally and contextually there's some differences between you know digital and other things other things but you know I think the idea of I think the idea of translation and mediation I think is um specific to me but I think as far as like this idea of Techspressionism the way I kind of translate a little bit of of kandinsky is saying that kandinsky said that art is a um you
-
-## Unattributed [11:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=660s)
-
-Know is a product of its time and I think that's something that's especially notable for what we're doing here in um you know in this particular project because and I say project because I I wonder about whether movements are possible in this day and age but
+Well sure I mean I mean and I mean I have several body several kind of like threads of work and a lot of it has to do with this notion of mediation in other words like you know the the you know expressionist side is the idea of like you know mediating the subjective you know so I mean the thing is is that um kandinsky always you know was talking about the idea of mediating the inner state I mean so I think also kirchner especially so um I was very much a fan of like you know these guys like you know there were two expressionist groups in in germany um the the blue rider and the bridge to brooke and the blau rider and so I'm very much kind of a blau rider sort and so what happens is is that you know that so really what's what's interesting to me is you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you you know how can you kandinsky thinks about um the communication of the inner emotional state you know through the work through notions of color and form um and that's especially considering this uh spiritual and art and then he also did a book called uh the clang sounds so these are writings and they're also performances which actually I I co-produced one in uh uh 1990 with a yellow sound was well I think the fifth time it would had been done at kent state and so what's interesting about that is that um you know this was sort of like as theater was was dr cow dr calagari was to um you know cinema and I think and then also I'm like a huge fan of um but you know of people like antonine artote who are you know people who are really you know you're looking at delving into you know the the the internal emotional state and trying to get it out to me I'm saying it's like how do I how do I do this in a way you know that deals with the notion of mediation that trans you know that translates onto whatever medium you're doing and to be perfectly honest I don't think there's to mean um operationally there are some differences and culturally the and I'm culturally and contextually there's some differences between you know digital and other things other things but you know I think the idea of I think the idea of translation and mediation I think is um specific to me but I think as far as like this idea of Techspressionism the way I kind of translate a little bit of of kandinsky is saying that kandinsky said that art is a um you know is a product of its time and I think that's something that's especially notable for what we're doing here in um you know in this particular project because and I say project because I I wonder about whether movements are possible in this day and age but
 
 ## Colin Goldberg [11:18](https://www.youtube.com/watch?v=a5h-eBQYrks&t=678s)
 
-Right or if they're even something that people can you know uh like it's seems like people outside of the movement in the historically have been the people that define any certain impetus as a movement rather than the people involved in it you know what I mean um so yeah I get what you're saying it seems a little dicey and yeah I see it as a project as well in a lot of ways I mean closer to being a project than you know it to me it's it's up to somebody
+Right or if they're even something that people can you
 
-## Unattributed [11:50](https://www.youtube.com/watch?v=a5h-eBQYrks&t=710s)
+## Unattributed [11:22](https://www.youtube.com/watch?v=a5h-eBQYrks&t=682s)
+
+Know uh like
+
+## Colin Goldberg [11:24](https://www.youtube.com/watch?v=a5h-eBQYrks&t=684s)
+
+It's seems like people outside of the movement in the historically have been the people that define any certain impetus as a movement rather than the people involved in it you know what I mean um so yeah I get what you're saying it seems a little dicey and yeah I see it as a project as well in a lot of ways I mean closer to being a project than you know it to me it's it's up to somebody
+
+## Patrick Lichty [11:50](https://www.youtube.com/watch?v=a5h-eBQYrks&t=710s)
 
 External to see it as a movement really I mean you know uh you know what uh I I say this very gently I totally disagree is yes absolutely because um if you look at things like the dadaists the the futurists the surrealists and that sort of thing these were probably primarily driven by ideologies that were uh that that were adopted by the group through manifesting and that's the thing in other words it is in other words it's like the early avant-garde who were forming movements as such and they were not the ones who were doing the you know we're we're we're looking we're looking at them as supremely political political positions and right the thing is is that going from kandinsky rhetorically into today I'm you know I this is the reason why I kind of look at Techspressionism as kind of a a self-emerging project that is is the one thing that I when I when we talk to our artists around here is I'm just sometimes I'm wondering what their intentionality is in other words are they looking at you know are are they you know are they just thinking about you know how they're expressing emotion or the thing is is that you know are they looking at it almost from that art historical perspective of the of the expressionists of the early 20th century even or the abstract expressionists really trying to get that like pollock did you know trying to get that jazz out you
 
@@ -73,27 +77,21 @@ External to see it as a movement really I mean you know uh you know what uh I I 
 
 Know right yeah I mean you know the idea I mean I you know when I when I drafted the first version of the manifesto I think the intentionality or the the intent was that um it be the philosophical basis for a movement yeah but uh but who gets to say if it actually is one you know that's the tough question um you know like it's it's um it it seems you know I mean I don't know if there's really a point in in trying to figure that out but well
 
-## Unattributed [13:59](https://www.youtube.com/watch?v=a5h-eBQYrks&t=839s)
+## Patrick Lichty [13:59](https://www.youtube.com/watch?v=a5h-eBQYrks&t=839s)
 
 No I and I think I I think actually some of the writing I'm working on for for the group at the moment is that you know rather than trying to be another zara or another um you know breton or someone like that you know it's like I think it's really just a matter of of maybe maybe just trying to invite you know a um a reflection you know and saying you know guess what this is the history of of from which we come and you know and it used to be about the idea of trying to change society but the thing is is that you know um we're in a different period you know we're in a different period of time and the sensibilities are radically different but the thing is is that the notion of wanting to see what's inside us and communicate it you know we're in a different period of time and we're in a is is one thing but then also on the other hand is that then how we see technology technology as an as a man as a matter of agent in order to do this and what do we see as technology you know so the thing is is that really as far as I'm concerned is you know what the co-founders of this thing is rather than saying that this is a manifesto driven thing to follow the follow the world this is a continuation I'd say of a tradition that asks people to consider in a in a day and age in which we think that technology is alienating us and from our you know from our inner selves and you know our our feelings and our connections with others especially in the I think we're definitely linked to a covid-based impulse you know I mean you know the idea of saying like how does this inner notion of expression you know through various forms of technology and the one thing that I'm I'm kind of begging begging the argument of is saying is that I'm just don't think that computers completely you know um you know the digital and computers completely encompass what we're doing uh
 
-## Colin Goldberg [16:14](https://www.youtube.com/watch?v=a5h-eBQYrks&t=974s)
+## Unattributed [16:14](https://www.youtube.com/watch?v=a5h-eBQYrks&t=974s)
 
-You
-
-## Unattributed [16:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=975s)
-
-Know
+You know
 
 ## Colin Goldberg [16:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=975s)
 
 It's it's part of a continuum for sure yeah I see it that way and and I think you know like the manifesto like in some ways uh you know the the the the the reason I initially wanted to create a manifesto was you know in effect to to change society in some specific ways the most important of which to me is the fact that um technology-based art does not have the same degree of validity in within the the sort of um you know the establishment art culture that um you know traditional art forms have and that's a prejudice that I've encountered that I'm sure you've encountered and basically almost everybody that's been drawn to this group has expressed that's what they identify with is that they've tried to get their work out there someone said oh you mean you pressed a button and the computer did it for you sorry we're not interested in that type of work and they they moved on you know like that that reaction is something that I'm very familiar with and and you know I mean you know I'm not I'm not I'm not I'm not I'm not I'm not I'm not I'm not that's a very small you know it's probably not very important to many people in society other than people making work with technology but you know it's important to me well
 
-## Unattributed [17:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1056s)
+## Patrick Lichty [17:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1056s)
 
 The thing is is that I mean I mean if you're dealing within you know if you're dealing within um fairly you know um well I mean let's let's let's put this way I I would really kind of say this is really kind of very traditional approach but the thing that I would I I would argue is that there are people like uh omar halif you know um and uh and and kalani nicole who runs um transfer out in uh out in uh los angeles and uh steve sacks who runs uh bit forms the thing is out in new york I mean I mean out in manhattan chelsea so the thing that I'm looking at here is that you know with uh and especially with the younger digital artists you know there's there's this notion of of of post-internet art uh that you know the the term attributed to uh marissa olson about the idea of like art that deals with effects uh after the net is largely traditional media you know digital print you know a lot of it's digital print a lot of things you know like um and includes things like vaporwave and all that sort of thing but what's but what's happening with this is that I'd say ever since the late 2000s there has been a significant movement that in which artists dealing with digital culture have been using traditional media to you know um you know um inject themselves into the contemporary art um conversation and the thing is is that I I really I really and especially now with the covid situation not not only I'd say digitally inspired culture through contemporary media you know and now the thing is is the notion of digitally based art you know and online art and you know electronic electronically based art I I think I I think that there is by necessity a um an emergence of this that is is phenomenal so I mean what so what I'm saying is is that to the to all of us within you know our particular group who have a little bit of a who have a bit of a concern you know about the idea of their work not being um supported in say for example like um you know the you know the the the gallery that they're wanting to look at you know the the this the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the is that I think, and within the contemporary, say for example, there's a show called Art in the Age of Anxiety at the Sharjah Art Foundation in Sharjah and out in the United Arab Emirates.
-
-## Unattributed [21:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1260s)
 
 And it was curated by Omar Khalif. And there's also another one at the Jameel Art Center in Dubai that was, and this is all kind of like post-internet art that was curated by Shumon Bashar and Hans Ulrich Obrist for God's sakes. You know, so I mean, what's going on here is that, you know, the eye of the contemporary is washing across our particular plane. In other words, the thing is, I'm saying is that, you know, to get out there and be seen because the thing is, is that the art world is living in a world where there's a lot of art. And people are looking at us.
 
@@ -103,7 +101,7 @@ Now, you know, what that means is a different matter.
 
 Yeah. I mean, I think that now, especially with COVID, there's been a major cultural change and getting out there almost means just publishing online, you know, more so than even being in a physical space. Like the whole NFT phenomenon that's happened over the last year or so. Yeah. I mean, it's just remarkable. The amount of commerce being driven through this phenomenon where it's splintered off its own sector of the art industry. Yeah. Like out of necessity, almost, you know, like here's this, here's this community that just
 
-## Unattributed [22:26](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1346s)
+## Patrick Lichty [22:26](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1346s)
 
 Didn't exist before, you know?
 
@@ -119,7 +117,7 @@ Yeah.
 
 And probably it's a bubble that's going to burst. Oh. Like the Bitcoin bubble, after it burst, guess what? It bubbled back up again. You know what I mean? For the people that held on long enough.
 
-## Unattributed [23:37](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1417s)
+## Patrick Lichty [23:37](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1417s)
 
 Well, I mean, the thing that's just, you know, just absolutely stunning me today is that I just saw that Bitcoin's up to 51,000. And I mean, you know, when it peaked and burst at 17, I thought, oh, come on, forget this noise, you know? And then, you know, I'm seeing this now. Elon Musk is getting behind it and, you know, and, you know, I now feel like an idiot. I had like two or three and now I'm just saying like, you know, maybe I wouldn't have to have this job.
 
@@ -127,7 +125,7 @@ Well, I mean, the thing that's just, you know, just absolutely stunning me today
 
 Right. But I held on for a while. I like held on until I sort of evened out. But I jumped back in a little bit recently just to get involved in NFTs. You know, I had to just get some crypto established again. And, you know, in that short time period, I think what it is is now with all these NFT platforms, the amount of action that's happening across like the mainnet, the Ethereum mainnet is just so great. And the level of interest and awareness in Ethereum specifically, Yeah. Has just become so mainstream that, you know, like any sort of asset where there's a fixed, there's a fixed amount, you know, there's only a finite amount of Bitcoin, of Ethereum that could be mined, you know, so it's just the law of supply and demand, you know, whereas, I don't know, like, I feel like it's really, it's strange.
 
-## Unattributed [25:04](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1504s)
+## Patrick Lichty [25:04](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1504s)
 
 I mean, it's kind of going off on a tangent. And in some of your discussions, I think you mentioned a little bit earlier, one thing I want to kind of put across is that the, yeah, I mean, you and I have slightly different viewpoints on these sorts of things, but they do, I think it's really just sort of like ratios. On one hand, you know, like you and I think, Davonte, you know, talked about the art industry.
 
@@ -139,7 +137,7 @@ And I think what happens, it's the matter of, but nevertheless, there's a human 
 
 But I think a lot of the things that are happening within the, the, that aspect though, they are activism in, in some capacity that is, you know, the blockchain was invented as some form of rebellion, you know, against the, the standard fiat currency model of, of the way things run on our planet, you know?
 
-## Unattributed [27:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1635s)
+## Patrick Lichty [27:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1635s)
 
 So, and I, and I think that, you know, as we, as a lot of us are, you know, talking about taking, you know, the project into things like NFTs and all that sort of thing, it's like non-fungible tokens and in, in the, in the blockchain as a lot of people are, I think this is, I think this is, I think this is an interesting move.
 
@@ -147,7 +145,7 @@ So, and I, and I think that, you know, as we, as a lot of us are, you know, talk
 
 So I. Oh, I wanted to ask you too, you know, you know, you talked about your, your influences and sort of how you got into Kandinsky and watercolor. So at what point did technology start coming into your work as, you know, like digital computer-based technology start coming into your work as a medium or as, you know, a set of tools or skills that you used in terms of self-expression? Like when did you make that jump from the watercolor? And then I remember, I remember when I was, I was, I was, I was, I was, I was, I was, I was, I was, I was, I was, I remember when you showed your work on one of the salons, you showed some early digital drawings that were maybe around the same time period that were sort of Kandinsky, you know, driven.
 
-## Unattributed [28:13](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1693s)
+## Patrick Lichty [28:13](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1693s)
 
 This is weird. I started doing it at about age 14 before I was doing watercolors. So I was doing, using electronics to make sort of like light organs and that sort of thing. And so what happens is, is that, yeah, in other words, I was sort of like making light sculpture, like in my early.
 
@@ -155,7 +153,7 @@ This is weird. I started doing it at about age 14 before I was doing watercolors
 
 It reminds me of your MFA show. I remember there were a lot of like blinking boxes and the digital minimalism sort of concept that was in, in a lot of that work, you know?
 
-## Unattributed [28:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1723s)
+## Patrick Lichty [28:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1723s)
 
 So, I mean, really what happens is that for me, what I, you know, I'm, I mean, the thing is, is I think that, you know, ever since I was a child, I think that there's always been this, this a sensibility that's just, that was developing, but just wound up awakening, you know, later on in, in. You know, in my twenties. So, so the thing is, is to say that there was a specific time that something came about or anything like that. I said, maybe, you know, I mean, really, it's just a matter of saying my early work was just terrible derivative stuff.
 
@@ -165,7 +163,7 @@ But the whole thing is, is that, you know, as, as one learns, you know, one.
 
 Sort of a hardware and software were you using when you made it? When you made those drawings?
 
-## Unattributed [29:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1776s)
+## Patrick Lichty [29:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1776s)
 
 I was using a, well, at first I was using, at first I was using an Atari 800 and using, I was using Atari 800 and I was using basic programming language, you know, to do my first drawings.
 
@@ -173,7 +171,7 @@ I was using a, well, at first I was using, at first I was using an Atari 800 and
 
 And then. Were you just doing like ASCII, sort of ASCII art in a way or?
 
-## Unattributed [29:55](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1795s)
+## Patrick Lichty [29:55](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1795s)
 
 No, no, no, no. I was, I was using, I was using, I was using pixels, you know?
 
@@ -181,15 +179,19 @@ No, no, no, no. I was, I was using, I was using, I was using pixels, you know?
 
 Gotcha. And so. Peek and poke. And all that stuff. I remember doing some coding on my Commodore.
 
-## Unattributed [30:05](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1805s)
+## Patrick Lichty [30:05](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1805s)
 
 And there was, there was also a, there was also a paint program with a Koala pad. And I was, I was, I was painting with that.
 
 ## Colin Goldberg [30:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1812s)
 
-But. I had a Koala pad as well.
+But.
 
-## Unattributed [30:14](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1814s)
+## Unattributed [30:13](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1813s)
+
+I had a Koala pad as well.
+
+## Patrick Lichty [30:14](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1814s)
 
 And then, yeah, I think I really started doing things, you know, kind of halfway seriously on a, on a Hewlett Packard Linux system in the, I mean, I got into it, you know, like in the eighties. But I just. Never thought that I could do anything as an artist. So I think really where I was starting to go at, I was using things in the early nineties, like I was using Kai's power tools and I was using, was it PCX? Was it, it was PC paintbrush or something like that. And Corel of course. And so, and then, you know, Photoshop when it came out.
 
@@ -203,7 +205,7 @@ And, you know, in other words, basically you using the processes of the machine 
 
 Right. So when you say like the work is about mediation, would you say like you're, you're speaking to the process and the medium that you're working in as the subject matter of the work, or is it something more about sort of like whatever's going on in your sort of inner emotional state of the time just with that as being a means of expression. You know what I mean?
 
-## Unattributed [33:10](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1990s)
+## Patrick Lichty [33:10](https://www.youtube.com/watch?v=a5h-eBQYrks&t=1990s)
 
 Yeah. I mean, well, I mean, to me, it's always layered. I mean, I'm always asking a question, you know, in other words, to me, it's almost like, almost like a research paper. You know, you have this idea, then you ask a question and then you see what your results are. I mean, I'm always been process based. So what happens is that.
 
@@ -221,7 +223,7 @@ And then. Process. You know, I mean.
 
 Is it, is it sort of like, you know, the medium is the message to use an overused.
 
-## Unattributed [33:58](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2038s)
+## Patrick Lichty [33:58](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2038s)
 
 Well, I mean, I'm a child of the first wave of avant-garde. I mean, definitely. So, I mean, you know, my influences are primarily like expressions and data. And then data that goes down into like Japanese data, which was the good time movement, which was response to. World war two as data was a responsible for one. And then fluxes, which was kind of, you know, kind of almost like, you know, Zen Zen data, good tie, you know, in the, you know, like with cap row and, and John cage and that sort of thing. And, and.
 
@@ -229,9 +231,13 @@ Um, machinist, which, you know, I, I have, I have. A lot of ties to, um, you kno
 
 ## Colin Goldberg [35:02](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2102s)
 
-And then I know that you're under a time restraint, Patrick, do you want to pull up some images on the screen and talk about them? Yes. I want to make sure. I want to make sure that, uh, we get to see some of your work too.
+And then I know that you're under a time restraint, Patrick, do you want to pull up some images on the screen and talk about them?
 
-## Unattributed [35:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2112s)
+## Unattributed [35:08](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2108s)
+
+Yes. I want to make sure. I want to make sure that, uh, we get to see some of your work too.
+
+## Patrick Lichty [35:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2112s)
 
 I know we're having, we're having all these, we're having all these great, uh, philosophical conversations. And we're not, we're not seeing any of the work. Um, so yeah, here's, by the way, here's some of this early work that was done with like PC paint brushing and style eye and that sort of thing. Some of the, some of the early work. And then, you know, like processes, I started dealing with these, uh, this is in the two thousands. I started dealing with these little autonomous.
 
@@ -239,7 +245,7 @@ I know we're having, we're having all these, we're having all these great, uh, p
 
 I don't know if I'm seeing your screen here.
 
-## Unattributed [35:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2143s)
+## Patrick Lichty [35:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2143s)
 
 Let me see here. Hang on. Okay. Sorry. I thought I was, let me.
 
@@ -247,7 +253,7 @@ Let me see here. Hang on. Okay. Sorry. I thought I was, let me.
 
 Oh, there we go. Okay.
 
-## Unattributed [35:54](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2154s)
+## Patrick Lichty [35:54](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2154s)
 
 Okay. So this is some of the early work, you know, you can see the Kansas ski references and all that sort of thing. Very, very clearly. And, um, I think there's probably done with PC paint brush or, or even Corral and, um. And see where that's kind of going. And then this is like 1995 maybe. Um, and you know, it it's, I was just kind of wondering how to going back into mediation, the idea of like, you know, um, what are the limitations of digital print versus, you know, and, and working with, working with, uh, digital media versus, you know, traditional media. Yeah. And, and, you know, working with, working with these issues of mark making informed and all that sort of thing. And then, which by the way, doesn't have to do necessarily with my critical work, but this is sort of like my artist work.
 
@@ -261,7 +267,7 @@ Gotcha. Do you still have it? Uh, yeah, it's actually in my storage container in
 
 So did you work? I mean, did you spend time with Roscoe directly?
 
-## Unattributed [38:37](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2317s)
+## Patrick Lichty [38:37](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2317s)
 
 Yeah. Yeah. But you know, he was one of my early mentors. Yeah.
 
@@ -269,7 +275,7 @@ Yeah. Yeah. But you know, he was one of my early mentors. Yeah.
 
 Yeah. He's on the big, I'm a big fan.
 
-## Unattributed [38:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2323s)
+## Patrick Lichty [38:43](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2323s)
 
 His work is amazing. I have a few of his pieces. He gave me, he's, he's, he's a really, really, really, really amazing person.
 
@@ -277,7 +283,7 @@ His work is amazing. I have a few of his pieces. He gave me, he's, he's, he's a 
 
 Yeah. His work was the first time I ever really saw plodder drawings, you know, as used as art, you know, that, that I saw like art made with plotters and it just blew my mind how he was able to mount. I mean, he used, uh, just traditional drawing implements. Right. Uh, Right. Yeah.
 
-## Unattributed [39:08](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2348s)
+## Patrick Lichty [39:08](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2348s)
 
 Spotters yeah and I mean he he's he's my primary inspiration there's another guy chaperon from the uh twin cities as well who does motion control as well as he um he wound up uh selling that uh that sand table with the um he did he did indiegogo for that sand table with the uh with the uh marble that would then go and make these designs and that sort of thing I think that was bruce how
 
@@ -285,15 +291,15 @@ Spotters yeah and I mean he he's he's my primary inspiration there's another guy
 
 Did you code those robots I mean like what would you do to actually write the code and then you put like a uh I mean sim in in the in the actual robot or like how would that
 
-## Unattributed [39:46](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2386s)
+## Patrick Lichty [39:46](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2386s)
 
 No no it was just uh you you just upload it to the serial port and it just had basically had like a was
 
-## Colin Goldberg [39:53](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2393s)
+## Unattributed [39:53](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2393s)
 
 It eprom it's
 
-## Unattributed [39:54](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2394s)
+## Patrick Lichty [39:54](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2394s)
 
 Called
 
@@ -301,7 +307,7 @@ Called
 
 Or something like that totally
 
-## Unattributed [39:56](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2396s)
+## Patrick Lichty [39:56](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2396s)
 
 Yep man you know it's it's old school you know so it had its own processor and it had some had some flash ram and you just went for it nice I remember seeing you
 
@@ -325,7 +331,7 @@ Know
 
 And I uh I was like that's that's pretty cool that
 
-## Unattributed [40:20](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2420s)
+## Patrick Lichty [40:20](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2420s)
 
 Was that was that was fun yeah yeah totally and then um I started getting into a bit more into what roman you know kind of you know kind of like what roman brosco would call you know uh I'd call it uh hard algorithm in other words the idea of looking at the idea of you know uh using you using algorithms to um you know as a primary process for for art and what I was doing is I was doing in this case this is a group of post-internet works I called random internet cats and so there were some pieces that some other colleagues did that were commenting upon you know uh the passage of media and also about internet culture and that sort of thing and and this is maybe a little bit flippant
 
@@ -341,15 +347,15 @@ To define
 
 That term I
 
-## Unattributed [41:32](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2492s)
+## Patrick Lichty [41:32](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2492s)
 
 I tip my I tip my hat to marissa olsen on this in other words that she that pretty much defined it best and saying that you know art art that's a pros uh art that is the result of the social technological and um you know they just the effects of after the emergence of of the internet and I think that marissa was probably maybe talking more about the worldwide web rather
 
-## Colin Goldberg [42:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2520s)
+## Unattributed [42:00](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2520s)
 
 Than
 
-## Unattributed [42:01](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2521s)
+## Patrick Lichty [42:01](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2521s)
 
 You know the the earlier the earlier net and you know just the sort of sensibilities that you you see now like one one definitely is vaporwave where you have you know that kind of false nostalgia for the 80s you know with the right with the pastel you know uh magenta and cyan and you know pixels and things like that and
 
@@ -357,7 +363,7 @@ You know the the earlier the earlier net and you know just the sort of sensibili
 
 Right there's definitely like uh you know a revival of the 8-bit look I think I've noticed in some of the in some of the vr games there's actually games within a game where you're playing an old school video game within uh you know a photorealistic virtual face you know yep so
 
-## Unattributed [42:42](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2562s)
+## Patrick Lichty [42:42](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2562s)
 
 Um so I mean I still do this but I mean and the thing is is that I don't necessarily have any of my um flatbed plotter drawings uh as such but there's a there's an offshoot of this that that use um this thing called the axis drawing which is a small which is a tabletop xypc plotter I would love to have an eight by six but I mean I've done about three four hundred pieces using using do you
 
@@ -365,7 +371,7 @@ Um so I mean I still do this but I mean and the thing is is that I don't necessa
 
 Do these drawings as as additions or are they all singular
 
-## Unattributed [43:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2595s)
+## Patrick Lichty [43:15](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2595s)
 
 Um I usually do them um I usually do them as singular asterisk you know in other words so I mean I'll I'll do them as I'll do them as uniques actually I do them as uniques right they're variations on a and sort of a theme but they're all individual unique yeah because I'll change the pens and I'll change the the methodology a little bit and that sort of thing and they're they're they're all unique so if you consider chuck close's um um you know uh variations on the the phil piece you know I mean he's he's done that portrait of philip glass how many times but you know it's how does he approach it each time and this is how I this is how I how I do this in other words each uh each of each of my executions you know of of maybe this cat or some you know or this thing it's it's kind of like how chuck close approaches the um approaches phil uh you know the philip glass um portrait in other words he's taking a different methodology or he's taking a different approach to it and this is this is how I do it so this is how I kind of um you know say for example I did this you know I I did a whole I've done a series um you know about my dear wife mcgean who's also part of the also part of the at the sabian who's part of the movement and so what happens is is that uh in in some ways I almost kind of um yeah it's uh anyway I I I love my wife anyway we'll just go and just say that uh so anyway well we'll just uh are
 
@@ -389,7 +395,7 @@ How
 
 Do I get one of those internet cat drawings well and there's there's a couple people it's like um my
 
-## Unattributed [45:11](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2711s)
+## Patrick Lichty [45:11](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2711s)
 
 My main my main gallery is uh dam in berlin uh with wolf leaser uh we have you know he has you know um he's he's my uh primary and some of the some of the groups like this random internet cat group is through lee wells at um at uh um international art consortium um out of new york and and and athens and then I'll just say some of this uh some of this work here um in in limited editions is through playform uh dot io uh through their through their artist studio um but I'm saying that probably the larger work is probably um you know is uh is a is a dam project you know so and I'll just say yeah we've got about five six minutes left um this particular piece here is based is called personal taxonomies and it's an only a partially released piece um it has to do with uh using generative adversarial networks in other words this these things that these things that you send um large sets of images uh to and it determines patterns and tries to come up with a way to uh to uh to uh to uh to uh to uh to uh to uh to uh to uh to uh to uh to uh to uh to with new um uh combinations of of attributes of each of these images in a new piece um and one thing that's really famous is the um portrait of edmund bellamy which sold for I think two hundred forty two thousand dollars at uh at sotheby's and there is uh another colleague of my name of uh aiden uh meadowman uh who in at oxford who has uh uh uh uh uh uh uh uh uh uh uh the ida um the uh ida drawing robot um and that's very interesting but in this case what I've done is that I've I've done 512 um you know non-representational calligraphy pieces because I have a background in japanese calligraphy but I did these pieces that were you know very gestural and I took these two sets of 256 fed them through the fed them through the system and I did these and tried to determine the patterns between these two sets of 256 and then what I did is that then I took those two sets and I put them together and I'm trying to get kind of like the the the the base deep structural patterns of each of these to really kind of almost look at the the the patterns of my consciousness you know through through creativity um
 
@@ -397,7 +403,7 @@ My main my main gallery is uh dam in berlin uh with wolf leaser uh we have you k
 
 If eliza did you ever think about or see that text based psychotherapist routine yep
 
-## Unattributed [48:09](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2889s)
+## Patrick Lichty [48:09](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2889s)
 
 Yep yep yep and then um the other the other thing and that I'll wind up saying that isn't that uh isn't here is that um um I've been also working with uh gans to work out um um try to pulling the pattern try to pull the pattern of my consciousness and I've been working with uh gans to work out um um um I've been working with uh gans to work out um um um um um um um um um um um um um um um um um um um um um um um patterns out of persian carpets and this is kind of a np team project which is myself in the gain uh at tasabi on and so we're we're just starting to um generate some uh jacquard weavings from that but they aren't here and then guess what this is you and me colin nice so you know this is this is kind of like you know our sensibilities coming together in the first expressionist uh collaborations and that and you know I've been working with uh gans to work out um you know going through the personal taxonomies work and then I'm also working with the sketch to painting things in the play play form um project and you know this is also something that and spalter is working with and carl ganas and and so the thing is is then carl ganas and introduced me to the play form uh uh platform which I've been working with for about a year to now and so this is you know you're you're in my you know piece um for the first Techspressionist exhibition and then the thing is is that where I've been going a little bit further is that I've been going further with this sketch to painting with this personal taxonomies to work with some things and this is actually um a shawl a scarf uh made for a show in tehran um iran um you know that's uh I I've been kind of using it for a long time in just like in the art world of show art in in the era so and this is something that you know nigging and I have been um you know working on but this is this is my my my piece on that so and
 
@@ -405,7 +411,7 @@ Yep yep yep and then um the other the other thing and that I'll wind up saying t
 
 So if people wanted to see more of your work or follow you um how would they find you is instagram the best way instagram
 
-## Unattributed [50:53](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3053s)
+## Patrick Lichty [50:53](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3053s)
 
 Is most definitely the best way it's usually a part of the time is um I'm I kind of split it about halfway between um you know um you know the gain in my life and then working and and then the work that I'm working on um I'm probably going to set up a um I'm probably going to set up a um a strictly Patrick Lichty site um but um let me go over and share this here um let me stop sharing and I'll come back in and this is is um here we go so that's nagin and I and this is say for example this is actually one of my latest pieces I basically took as many images of dogs playing poker together and making paintings from that as kind of a little fun satirical thing but um you know in in other words sort of highlighting the the um kind of highlighting the um the potential and the the potential and the absurdity of of um of artificial intelligence so these are other pieces from the um the base calligraphy pieces from personal taxonomy and you're pat lichty at on instagram yep and this is another 3d piece that we haven't talked about about uh something I went out through the emirates doing 3d and I'm going to show you a little bit of a picture of the um the um the base calligraphy pieces from personal taxonomy and you're pat lichty at on instagram uh and uh they yeah I
 
@@ -413,7 +419,7 @@ Is most definitely the best way it's usually a part of the time is um I'm I kind
 
 Noticed some stills from that one we first started working together they look pretty interesting and
 
-## Unattributed [52:41](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3161s)
+## Patrick Lichty [52:41](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3161s)
 
 These are some style transfers of these are some oil paintings I did from uh ai style transfers from photographs of my old old um institution in uh abu dhabi inside university and so
 
@@ -421,7 +427,7 @@ These are some style transfers of these are some oil paintings I did from uh ai 
 
 You want to just quickly let us know um you know where you're posted now like what your current um like what your current um what you're doing uh within
 
-## Unattributed [53:07](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3187s)
+## Patrick Lichty [53:07](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3187s)
 
 Your teaching and stuff like that yeah yeah right right at that right right the moment I'm teaching at in the mass communication department at winona state university in winona minnesota which is on the beautiful mississippi river uh in the middle of the cold and you know this is uh where you know um number one I wanted to get back into the united states and nagin and I are yeah just kind of setting up our own um you know our own uh you know our own um you know our own um you know our own um you know our own um you know our own um in mtc we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia and we're out in to asia
 
@@ -429,7 +435,7 @@ Your teaching and stuff like that yeah yeah right right at that right right the 
 
 And we're out in to asia and we're out in to asia and we're out in to asia and we're out
 
-## Unattributed [54:02](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3242s)
+## Patrick Lichty [54:02](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3242s)
 
 In to asia and the moment, I think actually, I'm really glad that we had a talk to kind of had this time to talk a little bit about kind of like the, kind of like the, the, you know, kind of like the thought, you know, that I've been having behind, you know, this whole Techspressionism thing and, you know, and then share some of the work. And, you know, because I, I think, I think to me, I think that there's a very deep impulse, you know, that comes from a lot of deep thought for me over a long period of time that, you know, is, is a, is a longer project, but, you know, to me, it, it fits under this, this notion of, of, of Techspressionism. And I, you know, I'm, I'm glad that, I'm glad that we're doing this project, you know, and I'm glad that actually the thing is, is that it's, it's given me the chance to do this work, you know, that, that comes out of that art historical tradition.
 
@@ -441,7 +447,7 @@ I mean, I was, I was speaking with Helen Harrison this morning, you know, about 
 
 Yeah. It's content specific.
 
-## Unattributed [56:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3396s)
+## Patrick Lichty [56:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3396s)
 
 And in many ways we're doing sort of an intellectual reprise, but the thing is, is that we're framing it in the context of the moment, which I think is the important part.
 
@@ -449,7 +455,7 @@ And in many ways we're doing sort of an intellectual reprise, but the thing is, 
 
 Yep. Sure. It's like, it's like expressionism is a continuum, you know, and then this is just a snapshot of like what expressionism. Yeah. Is, is manifesting itself as right now, you know, when everyone is in front of a computer wearing computers pretty soon, we'll have computers implanted in them. Yeah. You know, if Elon Musk has his way with, with a neural link or whatever it is. Yeah.
 
-## Unattributed [57:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3432s)
+## Patrick Lichty [57:12](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3432s)
 
 What's the, you know, in other words, what's, what's, you know, what's, what's the space of human subjectivity within, within the technological frame that there we are. Hi, how are you?
 
@@ -457,7 +463,7 @@ What's the, you know, in other words, what's, what's, you know, what's, what's t
 
 I think that's the thesis for the. Paper.
 
-## Unattributed [57:26](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3446s)
+## Patrick Lichty [57:26](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3446s)
 
 Yeah. Yeah. I mean, that's, that's really it now, isn't it? So, and I mean, and you know what, I mean, you know, and, and I think that there are people who say, yeah, no, but, but I think, I think to me is the, is the fact that, you know, we're just really reflecting on, on the subjective human experience in, you know, in the, in, in the, in the contemporary moment in which technology is so endemic. And so guess what? How each of us within the group chooses to address this.
 
@@ -467,7 +473,7 @@ Right. That's something I brought up with, with Helen is that, you know, by look
 
 You know?
 
-## Unattributed [58:48](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3528s)
+## Patrick Lichty [58:48](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3528s)
 
 And to me is that. You know, really what happens is that. How do we, you know, how do we try to build this relationship with people who are even different than us? How do we approach this objective through the lens of technology? And how does each of us decide to approach this in this given way? And I mean, okay, you know, that's fine.
 
@@ -477,6 +483,6 @@ And, you know, we're grandchildren of a tradition. And, you know, what happens i
 
 I agree. All right. Well, thank you, Patrick. You know, it's been a great conversation.
 
-## Unattributed [59:34](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3574s)
+## Patrick Lichty [59:34](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3574s)
 
 Yeah. Thanks so much, Colin. I appreciate it. Thank you.

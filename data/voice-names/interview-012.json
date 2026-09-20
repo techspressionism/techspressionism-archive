@@ -1,4 +1,17 @@
 {
- "approved_auto": true,
- "voices": {}
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:13",
+      "auto": true,
+      "fingerprint": "8b9aa55bf1",
+      "name": "Gregory Little"
+    },
+    "V2": {
+      "at": "2026-09-20 19:13",
+      "auto": true,
+      "fingerprint": "ac5b420d43",
+      "name": "Patrick Lichty"
+    }
+  }
 }

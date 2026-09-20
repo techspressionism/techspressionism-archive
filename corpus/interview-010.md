@@ -41,9 +41,13 @@ But really how do, the work I'm thinking about right now is how do we use fairy 
 
 And so I'm concerned with, there's a lot of people in the world that in my mind don't care for others or think about themselves primarily. And that's something that I'm thinking about is how do we become so individualistic and deviate from the same original path? Let's say that the developed world reads the same fairy tales. How do we end up so differently through life lessons? So that's
 
-## Colin Goldberg [04:15](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=255s)
+## Unattributed [04:15](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=255s)
 
-My very roundabout story. Thank you. Yeah, I mean, it's refreshing to realize that there's so many things that we can really hear about these sort of conceptual frameworks or topics, the content of the work, essentially. I'm so used to, especially within the context of this project of Techspressionism, the discussion revolving around the technology itself or shop talk, like what software did you use or what version of software did you use or this or that? And I think a lot of people, a lot of times, people forget to ask or to even talk about what the work is actually about. And I think that's one thing that I'm hoping to accomplish with working with you and all the other artists involved in Techspressionism is really to get people to look beyond the technology and to just see it as like a conduit, which is a reflection of today's society to be able to connect with people.
+My very roundabout story. Thank you.
+
+## Colin Goldberg [04:19](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=259s)
+
+Yeah, I mean, it's refreshing to realize that there's so many things that we can really hear about these sort of conceptual frameworks or topics, the content of the work, essentially. I'm so used to, especially within the context of this project of Techspressionism, the discussion revolving around the technology itself or shop talk, like what software did you use or what version of software did you use or this or that? And I think a lot of people, a lot of times, people forget to ask or to even talk about what the work is actually about. And I think that's one thing that I'm hoping to accomplish with working with you and all the other artists involved in Techspressionism is really to get people to look beyond the technology and to just see it as like a conduit, which is a reflection of today's society to be able to connect with people.
 
 And I think that's one of the things and I definitely also relate to what you were saying about being a father. And I have a young child myself, a daughter also, and it definitely has made me think about, I mean, it completely has changed the way that I view the world in a lot of ways. But also, I feel like it's sort of becoming a parent has reinvigorated me as an artist in a lot of ways because we'll spend time together making stuff and it brings me back to the way I was when I was a kid. It brings me back to like the early feeling of joy of making things. And you sometimes can lose that the older you get if you continue down that path of being an artist when practicality starts to creep in and you have to find a way to support your art habit, as I like to call it sometimes. So yeah, so what was it that originally made you want to become an artist?
 
@@ -81,7 +85,11 @@ Gotcha. So do you, in terms of your process, I mean, do you start with an idea a
 
 ## Brandon Gellis [12:23](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=743s)
 
-It's such a great question and it's something I ask my students on a regular basis because a lot of them say to me, I just want to make something that's pretty. And I'm like, that's awesome. Pretty is subjective and art making is subjective. And we need to talk about the critical content behind things. The theory, why, how, do you want to move people because something's pretty? Or do you want to let people think about your work and be moved by it and find the beauty that isn't necessarily just right up front? And so to answer your question... I'm having flashbacks to my graduate school. I know, I know.
+It's such a great question and it's something I ask my students on a regular basis because a lot of them say to me, I just want to make something that's pretty. And I'm like, that's awesome. Pretty is subjective and art making is subjective. And we need to talk about the critical content behind things. The theory, why, how, do you want to move people because something's pretty? Or do you want to let people think about your work and be moved by it and find the beauty that isn't necessarily just right up front? And so to answer your question... I'm having flashbacks to my graduate school.
+
+## Unattributed [12:59](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=779s)
+
+I know, I know.
 
 ## Colin Goldberg [13:02](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=782s)
 
@@ -133,7 +141,7 @@ But it's still very iterative. It has to be.
 
 Gotcha.
 
-## Brandon Gellis [25:27](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1527s)
+## Unattributed [25:27](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1527s)
 
 But it is way more expressive than a client.
 
@@ -145,9 +153,13 @@ And I was like, you know, I'm going to make a website in Dreamweaver for this fi
 
 So I sort of was rebelling against, you know, much of the same way that, you know, you might have with what your parents' expectations might've been. So, you know, I think maybe at this point, if you want to share your screen, we could just take a look at some of your work if you want to just talk us through, you know, any, any stuff that you want to show us.
 
-## Brandon Gellis [27:23](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1643s)
+## Unattributed [27:23](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1643s)
 
-Yeah, sure. That'd be great. Let me pull up, oops.
+Yeah, sure. That'd be great. Let me pull
+
+## Brandon Gellis [27:28](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1648s)
+
+Up, oops.
 
 ## Colin Goldberg [27:31](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=1651s)
 
@@ -229,9 +241,17 @@ No, I mean, it's a significant body of work, you know, and it's good to see sort
 
 ## Brandon Gellis [53:05](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3185s)
 
-And so is the website URL? Is that just your name.Com? It's just BrandonGellis.Com. Yeah, gotcha. Just my name. And if you want to see I'm working, I mentioned that I'm collaborating with Nagin. Oh, gosh, it has to Sabian. It's a Sabian, who is also a Techspressionist member, and we're working on a collaboration. And I'll show that really quickly. This is just, we decided to work on a collaboration based on the environment. And it's actually bringing me back a little bit to work from I haven't done as much environmental focused work in the last, let's say, year and a half, two years. But it's really great, because it's also letting me focus on something that I'm really wanting to do, which is mix digital collage with content I find in popular culture and art magazines, and then bring them together into a collage environment.
+And so is the website URL? Is that just your name.Com? It's just BrandonGellis.Com. Yeah, gotcha.
 
-And then ultimately create a motion graphic through the collage that I've seen a lot of artists that I like that I like their work. But I haven't seen a lot of artists do the analog and digital and the motion graphic digital thing. So that's where I hope I'm doing something separate. But this is actually on this side, this is actually photography that you might have seen in the first big body work I showed you any confluence is where this is the local my local trash dump. And this is all plastic waste that has been filled in there. And so I brought it in and I've just augmented it and clipped the work and then this is a Nautilus. And then this is a piece that I made out of plastic bottles.
+## Unattributed [53:12](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3192s)
+
+Just my name.
+
+## Brandon Gellis [53:13](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3193s)
+
+And if you want to see I'm working, I mentioned that I'm collaborating with Nagin. Oh, gosh, it has to Sabian. It's a Sabian, who is also a Techspressionist member, and we're working on a collaboration. And I'll show that really quickly. This is just, we decided to work on a collaboration based on the environment. And it's actually bringing me back a little bit to work from I haven't done as much environmental focused work in the last, let's say, year and a half, two years. But it's really great, because it's also letting me focus on something that I'm really wanting to do, which is mix digital collage with content I find in popular culture and art magazines, and then bring them together into a collage environment. And then ultimately create a motion graphic through the collage that I've seen a lot of artists that I like that I like their work.
+
+But I haven't seen a lot of artists do the analog and digital and the motion graphic digital thing. So that's where I hope I'm doing something separate. But this is actually on this side, this is actually photography that you might have seen in the first big body work I showed you any confluence is where this is the local my local trash dump. And this is all plastic waste that has been filled in there. And so I brought it in and I've just augmented it and clipped the work and then this is a Nautilus. And then this is a piece that I made out of plastic bottles.
 
 And I'm playing with this did unregistered look this color registration look as as a way of bringing in bright colors, but also motion and movement. And then this piece I really struggled about whether I wanted to even do this. And this is an illustration of a turtle that has been duplicated in Photoshop as in layers and so it's looks less clear. And muddied.
 
@@ -271,7 +291,7 @@ I, you know, I think you're so spot, first of all, thank you for having me and f
 
 You know, just really quickly, like, you know, I really see it as something that is, you know, the only requirement is self-identification. That is, you're a Techspressionist when you say you are. I actually have that on the website, you know, and then I think I might have taken it off. I don't know. I should put it back on there.
 
-## Brandon Gellis [01:00:08](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3608s)
+## Unattributed [01:00:08](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3608s)
 
 No, but I like it.
 
@@ -309,13 +329,25 @@ Absolutely. There's always something. And I think what I've picked up from a lot
 
 ## Colin Goldberg [01:05:09](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3909s)
 
-But to me, it sounds like you guys are ahead. You know, I mean, really, like, you guys are really. Doing a lot of progressive stuff, you know, within your program. It sounds like I mean, honestly, I would love to be able to just stop what I'm doing and start developing really cool experimental content for VR headsets and stuff like that. Like, that would be, you know, like, I feel like I'm just, you know, just able to scrape together like an hour or two. Sure. Like time where I just have complete.
+But to me, it sounds like you guys are ahead. You know, I mean, really, like, you guys are really. Doing a lot of progressive stuff, you know, within your program. It sounds like I mean, honestly, I would love to be able to just stop what I'm doing and start developing really cool experimental content for VR headsets and stuff like that. Like, that would be, you know, like, I feel like I'm just, you know, just able to scrape together like an hour or two.
+
+## Unattributed [01:05:38](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3938s)
+
+Sure.
+
+## Colin Goldberg [01:05:38](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3938s)
+
+Like time where I just have complete.
+
+## Unattributed [01:05:40](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3940s)
+
+Sure.
 
 ## Brandon Gellis [01:05:40](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3940s)
 
-Sure. Freedom to make stuff. I know.
+Freedom to make stuff. I know.
 
-## Colin Goldberg [01:05:42](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3942s)
+## Unattributed [01:05:42](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3942s)
 
 And it's that.
 
@@ -347,7 +379,7 @@ So, you know, I mean, I played a little bit with Tilt Brush and, you know, that'
 
 It's a good it's a good it's a good it's a good refresh. It's a good time just to slow down. We all need to slow down. Life's been crazy for so long. And it's also it's nice. The headsets are more affordable now that you can have more than one and you can do that with your daughter. And you know. Right.
 
-## Colin Goldberg [01:07:12](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4032s)
+## Unattributed [01:07:12](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4032s)
 
 And it's.
 
@@ -375,13 +407,9 @@ I always dreamed of it, you know, total recall and movies like that are very fut
 
 Right, right. Well, I mean, and also, you know, the whole I mean, you know, there is sort of this big brother. Um. Aspect to the fact that like, you know, you could have Google Glass on and face recognition turned on. And then, you know, I mean, with with the, you know, sort of the proper hack, you know, the walking down the street and seeing people's social security numbers above their heads or something.
 
-## Brandon Gellis [01:09:02](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4142s)
+## Unattributed [01:09:02](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4142s)
 
-And I have no doubt that's happened. I'm sad.
-
-## Colin Goldberg [01:09:05](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4145s)
-
-Yeah, I'm sure.
+And I have no doubt that's happened. I'm sad. Yeah, I'm sure.
 
 ## Brandon Gellis [01:09:05](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4145s)
 
@@ -391,7 +419,7 @@ I mean, it's all the espionage stuff. It's it's again, it is part of the like sp
 
 I mean, you know, it's funny, but like, maybe it isn't funny, but like, you know, I feel like the more that you use computers, I don't know if it's you become cynical or what it is about. Yeah. Technology itself. But I mean, you know, I almost feel that when people talk about privacy on the Internet and stuff like that, you know, I mean, probably the majority of the general public never thinks about where the Internet came from.
 
-## Brandon Gellis [01:09:58](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4198s)
+## Unattributed [01:09:58](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4198s)
 
 Yeah, exactly.
 
@@ -403,21 +431,21 @@ Exactly. Exactly. It was exactly the Department of Advanced Research Projects Ag
 
 I wonder if those servers have packet sniffers on them.
 
-## Colin Goldberg [01:10:28](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4228s)
+## Unattributed [01:10:28](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4228s)
 
-Oh, I'm sure.
-
-## Brandon Gellis [01:10:29](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4229s)
-
-Of course they do.
+Oh, I'm sure. Of course they do.
 
 ## Colin Goldberg [01:10:30](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4230s)
 
 You would think that the government would probably have that in mind.
 
-## Brandon Gellis [01:10:33](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4233s)
+## Unattributed [01:10:33](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4233s)
 
-You know what I mean? Well, the government is very behind on all of, the government is obviously beyond behind on technology and Internet usage and Internet. Yeah. And I think that's a big part of the reason why I think that the government is very behind on all of the Internet accessibility. Yeah.
+You know what I mean?
+
+## Brandon Gellis [01:10:34](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4234s)
+
+Well, the government is very behind on all of, the government is obviously beyond behind on technology and Internet usage and Internet. Yeah. And I think that's a big part of the reason why I think that the government is very behind on all of the Internet accessibility. Yeah.
 
 ## Colin Goldberg [01:10:45](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4245s)
 
@@ -427,7 +455,7 @@ Well, you know, definitely in terms of using it for the public good. Sure. But I
 
 You know what I mean? That's so interesting. You couldn't say it better. I couldn't say it better. I couldn't say it better myself. And I talk about that with my students. I had a student, I had a project where I had students do a whole immersive project, an activist-based project using Spark AR, which is from Facebook, which is a really handy app and desktop option. And a student that didn't want a Facebook account. And I said, okay, then just don't publish it. And she said, but I have an Instagram account. And I said, then they already have your information.
 
-## Colin Goldberg [01:11:39](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4299s)
+## Unattributed [01:11:39](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4299s)
 
 Right.
 
@@ -457,7 +485,7 @@ You. And I look forward to seeing you at
 
 The salons and the upcoming, the collab show, the second round you're going to be in, which should be exciting.
 
-## Brandon Gellis [01:13:01](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4381s)
+## Unattributed [01:13:01](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4381s)
 
 I'm excited. Yeah.
 
@@ -465,15 +493,19 @@ I'm excited. Yeah.
 
 Awesome.
 
-## Brandon Gellis [01:13:03](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4383s)
+## Unattributed [01:13:03](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4383s)
 
-I look forward to it. And sometimes it's so hard for me to make it to the salons just because I teach at the same time. Yeah. So whenever possible, we try to have some work time so I can do both. So, well, thank you. Great to talk to you. And thanks for the opportunity.
+I look forward to it.
+
+## Brandon Gellis [01:13:04](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4384s)
+
+And sometimes it's so hard for me to make it to the salons just because I teach at the same time. Yeah. So whenever possible, we try to have some work time so I can do both. So, well, thank you. Great to talk to you. And thanks for the opportunity.
 
 ## Colin Goldberg [01:13:22](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4402s)
 
 Okay.
 
-## Brandon Gellis [01:13:22](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4402s)
+## Unattributed [01:13:22](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4402s)
 
 And feel free to edit out whatever you need to.
 
@@ -481,7 +513,7 @@ And feel free to edit out whatever you need to.
 
 I don't edit anything. Oh, well then sorry everyone for having watched so much. And thank you if you did. Thank you.
 
-## Brandon Gellis [01:13:35](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4415s)
+## Unattributed [01:13:35](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4415s)
 
 Have a great one. Bye.
 

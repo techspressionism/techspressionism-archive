@@ -107,7 +107,11 @@ So, um, instead of having to rely on somebody else's, um, you know, photograph s
 
 ## Roz Dimon [11:37](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=697s)
 
-So what's the size of this? Just so we can see. It is eight
+So what's the size of this? Just so we can see.
+
+## Unattributed [11:39](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=699s)
+
+It is eight
 
 ## Carter Hodgkin [11:41](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=701s)
 
@@ -125,9 +129,13 @@ And so, um, here's one from Capital One. That one's really big. It's like 11 or 
 
 Is it partly the pixelated effect at all? Or is that too simple?
 
-## Carter Hodgkin [12:27](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=747s)
+## Unattributed [12:27](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=747s)
 
-Oh yeah. Well, see, I love that. Each tile represents a pixel in the image. Sure. It's wonderful. So, and then the first one I did was at Queens College, which is. When you were doing that. Was it just like a normal floor? No. No. No.
+Oh yeah. Well, see, I love that.
+
+## Carter Hodgkin [12:29](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=749s)
+
+Each tile represents a pixel in the image. Sure. It's wonderful. So, and then the first one I did was at Queens College, which is. When you were doing that. Was it just like a normal floor? No. No. No.
 
 ## Roz Dimon [12:52](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=772s)
 
@@ -169,7 +177,7 @@ Oh, you have to plan out the size for sure.
 
 Exactly. I think that's one thing that also in the discussions lately about, you know, everything from digital art to NFTs is the resolution thing that people don't get. I mean...
 
-## Carter Hodgkin [15:49](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=949s)
+## Unattributed [15:49](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=949s)
 
 Absolutely.
 
@@ -187,9 +195,13 @@ It was like perceptual patterning. And it was on rice paper with oil pastel and 
 
 I'm a little bit of a dummy. We work differently, even though we share a lot of, I think, the deeper messages in some ways. If you don't mind, when something's procedural versus decorative, is it that one step leads to the other? Yes.
 
-## Carter Hodgkin [17:06](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1026s)
+## Unattributed [17:06](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1026s)
 
-I think so. These are old, you know, scanned from slides. But these were panels. Put together their paper. And it was almost mathematical, the way they iterated from one to the next. I mean, it's funny.
+I think so.
+
+## Carter Hodgkin [17:08](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1028s)
+
+These are old, you know, scanned from slides. But these were panels. Put together their paper. And it was almost mathematical, the way they iterated from one to the next. I mean, it's funny.
 
 ## Roz Dimon [17:29](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1049s)
 
@@ -199,7 +211,7 @@ Paint by numbers. That's what we're all doing a little bit. Underlying it is mat
 
 This was, I ended up having a show in Japan, which I wasn't able to get to, but that was what it looked like.
 
-## Roz Dimon [17:43](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1063s)
+## Unattributed [17:43](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1063s)
 
 Where was that show?
 
@@ -263,7 +275,11 @@ There are no real boundaries. So when you get into the science of it, I guess.
 
 Absolutely. And I'm thinking back to the installation you just showed us. While I'm looking at this, it looks like it's going linearly linear. But the circle patterns of, like when you're talking about the replications of things in Fractals and keep coming around and going around into different arenas is beyond borders, you know, even though it's circular. That's a fascinating kind of concept.
 
-Yeah. So. And it's called magnetic bubble memory, oil pastel on Japan paper. I think it's interesting for us to let our viewers know what, you know, what medium at least you're going out with. Yeah.
+Yeah. So. And it's called magnetic bubble memory, oil pastel on Japan paper. I think it's interesting for us to let our viewers know what, you know, what medium at least you're going out with.
+
+## Unattributed [20:55](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1255s)
+
+Yeah.
 
 ## Carter Hodgkin [20:56](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1256s)
 
@@ -321,7 +337,11 @@ When things are really on the innovative track and. You know, then they go and p
 
 ## Carter Hodgkin [24:50](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1490s)
 
-Well, I think it's possible and they are fabricated. They can be fabricated. And I think a lot of people go to China to get them to get stuff. But I don't think there's a huge. Commercial market for these spheres or the cubes. And basically it's the commercial market that drives LEDs right now. Oh, absolutely. Yeah. Right.
+Well, I think it's possible and they are fabricated. They can be fabricated. And I think a lot of people go to China to get them to get stuff. But I don't think there's a huge. Commercial market for these spheres or the cubes. And basically it's the commercial market that drives LEDs right now. Oh, absolutely.
+
+## Unattributed [25:13](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1513s)
+
+Yeah. Right.
 
 ## Roz Dimon [25:15](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1515s)
 
@@ -443,7 +463,7 @@ Someone once told me, one of my teachers said, sometime when you're not, you get
 
 And that's what I'm kind of looking for. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there.
 
-## Carter Hodgkin [34:25](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2065s)
+## Unattributed [34:25](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2065s)
 
 And you're there.
 
@@ -475,9 +495,13 @@ Yeah, it's good to have a community of people to talk to that you get to a diffe
 
 I agree. Yeah, it has been an exciting place. And I'm glad you're part of it.
 
+## Unattributed [35:34](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2134s)
+
+Thank you.
+
 ## Carter Hodgkin [35:34](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2134s)
 
-Thank you. I am too. Thanks. Yeah.
+I am too. Thanks. Yeah.
 
 ## Roz Dimon [35:36](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2136s)
 
@@ -489,7 +513,11 @@ Well, I haven't had time to look at the video that you all made. Which I think i
 
 ## Roz Dimon [36:08](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2168s)
 
-There's plenty to do. I understand. We can't do it all. Before we... It's been wonderful to talk to you, right? We only touched the surface, I feel, in a way.
+There's plenty to do. I understand. We can't do it all. Before we... It's been wonderful to talk to you, right?
+
+## Unattributed [36:16](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2176s)
+
+We only touched the surface, I feel, in a way.
 
 ## Carter Hodgkin [36:18](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2178s)
 
@@ -521,7 +549,7 @@ I hear you because because the deeper exploration if we're not too fearful is on
 
 And
 
-## Roz Dimon [38:21](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2301s)
+## Unattributed [38:21](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2301s)
 
 I
 

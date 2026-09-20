@@ -41,9 +41,13 @@ Well, I was in various places. I jumped around a lot. When I first landed, I was
 
 And then I lived for a while on Park Avenue, 3rd and Park. That was a short time. And then longer, I ended up in the East Village because I had some old friends there. It was on Avenue A. When were you in the East Village? I have to think. I think it was maybe 97, 97 to about 2000, something like that.
 
-## Colin Goldberg [02:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=152s)
+## Unattributed [02:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=152s)
 
-That's very weird. We probably, I was on A and 2nd at that time, actually. I lived on 2nd and 2nd and then on A and 2nd, right near that Gracefully, the Grace Deli Market there on A and 2nd, the next building. I was on 20th Avenue A. So I'm from like 96 to 2nd. 2000, something like that.
+That's very weird.
+
+## Colin Goldberg [02:33](https://www.youtube.com/watch?v=ywYWdI922tI&t=153s)
+
+We probably, I was on A and 2nd at that time, actually. I lived on 2nd and 2nd and then on A and 2nd, right near that Gracefully, the Grace Deli Market there on A and 2nd, the next building. I was on 20th Avenue A. So I'm from like 96 to 2nd. 2000, something like that.
 
 ## Victor Acevedo [02:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=174s)
 
@@ -53,7 +57,7 @@ Okay. Who we probably crossed paths, you know, without even knowing it a few tim
 
 I did. Yeah. Yeah. And then there was that place. There was a place called the Korova Milk Bar. I don't know if you ever went there.
 
-## Victor Acevedo [03:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=189s)
+## Unattributed [03:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=189s)
 
 That was on A.
 
@@ -61,7 +65,7 @@ That was on A.
 
 That was like, exactly like the Clockwork Orange Milk Bar.
 
-## Victor Acevedo [03:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=194s)
+## Unattributed [03:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=194s)
 
 You know, they set it up like that. Oh yeah, exactly. Yeah.
 
@@ -69,7 +73,7 @@ You know, they set it up like that. Oh yeah, exactly. Yeah.
 
 I totally remember. Benny's Burritos and all that. Yeah.
 
-## Victor Acevedo [03:18](https://www.youtube.com/watch?v=ywYWdI922tI&t=198s)
+## Unattributed [03:18](https://www.youtube.com/watch?v=ywYWdI922tI&t=198s)
 
 Oh yeah. That was true. I went there by the...
 
@@ -133,13 +137,17 @@ Around in the background there okay that's that's cool yeah so it's fascinating 
 
 Her I know he was involved with fluxes um I don't know too many of the details with that but I know he was sort of involved with that group of people and then we you know we met in graduate school actually um at bowling out in ohio and we both studied with greg little um over there and did our mfas and computer art together that was around 2005 2006 kind of time period so yeah cool when I started getting this project going you know I was like I should give patrick a call so he was one of the original people who came you know we came together in our first salon it was like me him Steve Miller um this woman osvan rosen who kind of was the first person that she knew I used to use the term expressionism in an article and that prompted me to say hey you know maybe there's something to this so we could get a group together so yeah
 
-## Victor Acevedo [06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=386s)
+## Unattributed [06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=386s)
 
 Right
 
 ## Colin Goldberg [06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=386s)
 
-Rang up patrick and I'd worked for Steve Miller as a studio assistant many moons ago when I was an undergrad so um we've always stayed in contact and uh and helen harrison you know was there and helped kind of keep everything kind of consolidated she helped really formulate the definition of the term you know and um wow in a great way.
+Rang up patrick and I'd worked for Steve Miller as a studio assistant many moons ago when I was an undergrad so um we've always stayed in contact and uh and helen harrison you know was there and helped kind of keep everything kind of consolidated she helped really formulate the definition of the term you know and um
+
+## Unattributed [06:46](https://www.youtube.com/watch?v=ywYWdI922tI&t=406s)
+
+Wow in a great way.
 
 ## Victor Acevedo [06:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=408s)
 
@@ -149,7 +157,7 @@ That's great. Yeah. Yeah. Small world. Like I met Steve Miller. I used to work w
 
 Yeah. I think he still uses Lamont for some of the stuff he does with inkjet and he does, you know, like screen printing on top of the inkjet prints and stuff like that.
 
-## Victor Acevedo [07:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=434s)
+## Unattributed [07:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=434s)
 
 Oh, okay.
 
@@ -157,13 +165,9 @@ Oh, okay.
 
 I've heard him mention Lamont. Yeah. And I know he did just straight print editions, but also stuff on canvas where he's screen printing on, you know, on the inkjet pieces. Cool.
 
-## Victor Acevedo [07:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=446s)
+## Unattributed [07:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=446s)
 
-That's cool.
-
-## Colin Goldberg [07:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=447s)
-
-Yeah.
+That's cool. Yeah.
 
 ## Victor Acevedo [07:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=447s)
 
@@ -175,7 +179,15 @@ Yeah. Yeah, for sure. Yeah.
 
 ## Victor Acevedo [07:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=452s)
 
-So where do we, well, you asked me about my background and cultural influences. Yeah. You know, well, it's, it's varied, you know, it's, you know, when I hear there's a lot of layers to it, really. As you know, I, as I've mentioned, I'm born and raised in Los Angeles. So I have sort of a Los Angeles frame of mind, but the New York experience really opened up my horizons in terms of, you know, how to live in an American city.
+So where
+
+## Unattributed [07:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=454s)
+
+Do we, well, you asked me about my background and cultural influences. Yeah.
+
+## Victor Acevedo [07:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=462s)
+
+You know, well, it's, it's varied, you know, it's, you know, when I hear there's a lot of layers to it, really. As you know, I, as I've mentioned, I'm born and raised in Los Angeles. So I have sort of a Los Angeles frame of mind, but the New York experience really opened up my horizons in terms of, you know, how to live in an American city.
 
 You know, I, my Acevedo is a Spanish surname. So I have a Latin background, a Hispanic background. So that, that certainly factored in, you know, I felt the connection with my grandparents, my maternal and paternal grandparents like that. Let's see. I had some, what else did I want to say? Yeah. So there, there's that informed it. My father had natural drawing ability, natural talent. So I kind of think I inherited it from him and he became a civil engineer. So he had a kind of a math tendency. Tendencies towards math, but also a graphical sense and, you know, the engine, the engineering component, but he used to draw and I used to watch when I was a little kid, you know, that was a seminal influence watching him. He used to be in another side room. He'd be inking on engineering plans. And I'd be fascinating by these tools that he would use like these compasses to make circles or draw North arrows.
 
@@ -197,13 +209,17 @@ And one of the questions is, you know, when did you know you wanted to be an art
 
 And then I think we flew over to London, but in Amsterdam, we went to the Van Gogh museum and I hadn't really 75. I hadn't really thought about it. I thought I want to be an artist as an adult, you know, but seeing the Van Gogh paintings, there was about 20 or 30 of them in this room. It's like a dream image now, but I remember, I knew the power of music and the sound of that and what that could have, but I didn't really know the power of like paint coming,
 
-## Colin Goldberg [13:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=838s)
+## Unattributed [13:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=838s)
 
 The
 
 ## Victor Acevedo [13:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=838s)
 
-Energy of paint coming off a canvas and to be that close to these, all these Van Gogh paintings, that was kind of a, you know, epiphanous moment. Really. And I thought to myself, it was almost a quiet, you know, unspoken thought to myself, wow, maybe you should go into visual arts and it wouldn't have been in that sentence. It's just like a feeling or impulse. Yeah. Now I get it. You know, it was, it was very visceral.
+Energy of paint coming off a canvas and to be that close to these, all these Van Gogh paintings, that was kind of a, you know, epiphanous moment. Really. And I thought to myself, it was almost a quiet, you know, unspoken thought to myself, wow, maybe you should go into visual arts and it wouldn't have been in that sentence. It's just like a feeling or impulse. Yeah.
+
+## Unattributed [14:20](https://www.youtube.com/watch?v=ywYWdI922tI&t=860s)
+
+Now I get it. You know, it was, it was very visceral.
 
 ## Colin Goldberg [14:24](https://www.youtube.com/watch?v=ywYWdI922tI&t=864s)
 
@@ -219,7 +235,13 @@ Yeah. Yeah, absolutely. Do you remember that? What year that was when you saw th
 
 I mean, I must've been in high school at the time, you know, probably, you know, and then later on, you know, going to, going to school and then, you know, I studied under this guy, Angelo Ippolito, who was sort of like a second generation abstract expressionist painter, but he sort of like, you know, knew those, that same group of people, Pollock, and that whole whole set of people. Ippolito came from Italy, I believe, around, you know, the time when Mussolini was in power to come to America. And it's funny, you know, they had two painting professors as an undergrad and the one professor whose name I'm not going to say, he would say, you know, well, it's great to be an artist, but if you have the brains to be a dentist, you know, you should go be a dentist, you know? And then Ippolito always said, you know, Hey, if you want to go, you want to be an artist, you know, go to New York and give it a shot.
 
-You know? Yeah. Yeah. I listened to that guy, you know, and I just, I remember he would always be playing Thelonious Monk in the studio and that kind of got me into jazz music and stuff like that too. So.
+## Unattributed [16:36](https://www.youtube.com/watch?v=ywYWdI922tI&t=996s)
+
+You know? Yeah. Yeah.
+
+## Colin Goldberg [16:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=997s)
+
+I listened to that guy, you know, and I just, I remember he would always be playing Thelonious Monk in the studio and that kind of got me into jazz music and stuff like that too. So.
 
 ## Victor Acevedo [16:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=1007s)
 
@@ -233,7 +255,15 @@ So that component was also interested, but you know, as art students do, you try
 
 So anyway, not to, cause we only have an hour. We can, we can, I can let's see what else do I want to share about all of this development? Well, some of the, I have, when we, when I share screen, I've got some sort of influences or images that, that represent my, my development in, in the influential stage. So we'll kind of revisit some of these ideas.
 
-But that was, that was really at Van Gogh, 75, and then starting art classes in 77, 78, went there. And then I came back to Los Angeles. I transferred to art center college of design in Pasadena, and that took me to a whole nother level. And that's where I learned about digital in 80 and 81. I, I believe I talked about it when, when I did a, share one of our salons, right. With Jean Youngblood's class. And that was 80 and 81. And that was my introduction to digital. And up to then I was just traditional media, but when I found out about computer graphics, as I always say, that was the future that talk about epiphany.
+But that was, that was really at Van Gogh, 75, and then starting art classes in 77, 78, went there. And then I came back to Los Angeles. I transferred to art center college of design in Pasadena, and that took me to a whole nother level. And that's where I learned about digital in 80 and 81. I, I believe I talked about it when, when I did a, share one of our salons, right. With Jean Youngblood's class.
+
+## Unattributed [20:41](https://www.youtube.com/watch?v=ywYWdI922tI&t=1241s)
+
+And that was 80 and 81.
+
+## Victor Acevedo [20:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=1242s)
+
+And that was my introduction to digital. And up to then I was just traditional media, but when I found out about computer graphics, as I always say, that was the future that talk about epiphany.
 
 ## Colin Goldberg [20:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=1254s)
 
@@ -263,7 +293,7 @@ So, but anyway, I started in personal computers, but I did get a little bit of a
 
 Right. It's interesting that how you're describing it where, and I remember my, I think my very first experience ever with computers was when I was young, maybe in elementary school, we had Apple twos and there was this. Language logo where you would type in commands and this turtle would draw lines and make shapes and stuff. And you could make a draw a square or a circle, but like, you know, what you're talking about essentially, you know, is, is generative art, right. You know, people are writing code and it makes an image. And now like, you know, with NFTs, people are like, oh, this new thing, you know, generative art,
 
-## Victor Acevedo [25:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=1514s)
+## Unattributed [25:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=1514s)
 
 But it's like the roots
 
@@ -273,7 +303,11 @@ Of computer art were generative art because nobody had, there were, there were n
 
 ## Victor Acevedo [25:51](https://www.youtube.com/watch?v=ywYWdI922tI&t=1551s)
 
-Yes, exactly. Exactly. So that, that was cool. And I found, you know, being a painter in the analog realm, when the graphical user interface came in and like the paint systems, like Lumina and true color paint, that's, was great to see that coming in. But I was also first at some point, maybe it's the influence of my father and engineering. And I liked 3D and I saw 3D samples of 3D. And I was like, oh my gosh, look at these samples from NYIT at Youngbloods class. So I go and I was also interested in geometry and form in Polyhedra. So I the Cubicomp got got my notice. I really focused on the Cubicomp which you probably remember from the middle 1980s. He was one of the first maybe I never got my hands on it.
+Yes, exactly. Exactly. So that, that was cool. And I found, you know, being a painter in the analog realm, when the graphical user interface came in and like the paint systems, like Lumina and true color paint, that's, was great to see that coming in. But I was also first at some point, maybe it's the influence of my father and engineering. And I liked 3D and I saw 3D samples of 3D. And I was like, oh my gosh, look at these samples from NYIT at Youngbloods class. So I go and I was also interested in geometry and form in Polyhedra. So I the Cubicomp got got my notice. I really focused on the Cubicomp which you probably remember from the middle 1980s.
+
+## Unattributed [26:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=1599s)
+
+He was one of the first maybe I never got my hands on it.
 
 ## Colin Goldberg [26:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=1602s)
 
@@ -287,7 +321,7 @@ Yeah. I mean, it was a professional tool. Like production houses video productio
 
 Box or those sort of systems similar to those things network studios would use to create the graphics or whatever is
 
-## Victor Acevedo [27:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1631s)
+## Unattributed [27:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1631s)
 
 That
 
@@ -299,7 +333,7 @@ Kind of like along the lines of what the the usage would be for or what would wh
 
 Yeah you know like flying logos uh
 
-## Colin Goldberg [27:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1641s)
+## Unattributed [27:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1641s)
 
 Would
 
@@ -311,7 +345,7 @@ Be a big thing so they were kind of the uh sort of a little bit more um sort of 
 
 Of gravitating well do you want to bring some images up on the screen and kind of like walk us through
 
-## Victor Acevedo [29:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1751s)
+## Unattributed [29:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1751s)
 
 I
 
@@ -319,7 +353,7 @@ I
 
 Mean I know we had a question about process but I think that might even be best explained through you know illustrated through looking at some images and talking through you know and also honestly what I've found through the course of this project you know in terms of Techspressionism in general is I'm always more interested to hear about the the content versus the shop talk of how it was made
 
-## Victor Acevedo [29:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=1777s)
+## Unattributed [29:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=1777s)
 
 You
 
@@ -327,7 +361,7 @@ You
 
 Know I mean you know that's I think of interest from sort of like a geek standpoint yeah but you know as as a human being and like an artist to me like to really learn about what the work is about and I know that that for me at least is much more difficult to even know what what the truth is you know I especially with abstract work I don't really necessarily know where what it's about or where you know where it comes from it's it's abstract you know but it comes from somewhere you know but I think that um that would be the other half of that question is the process but also you know what is the work about and and that's something that that you know I think that's a really good question and I think that's a really good question I think is is actually the story you know it's it's at
 
-## Victor Acevedo [30:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1821s)
+## Unattributed [30:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1821s)
 
 Least as
 
@@ -335,7 +369,7 @@ Least as
 
 Interesting you know and especially to the lay person who you know isn't
 
-## Victor Acevedo [30:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=1826s)
+## Unattributed [30:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=1826s)
 
 Going to
 
@@ -413,7 +447,7 @@ Zoomorphic yeah go ahead and just quickly like um could you sort of explain brie
 
 Tessellation is is another sort of generalized term it comes from like I think the latin term of tessera for tile so it's like this tiling you know you could think of a checkerboard um like floor tiles okay uh so that's where that comes like uh tessellation is just the general name for tiled patterns I
 
-## Colin Goldberg [44:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=2671s)
+## Unattributed [44:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=2671s)
 
 See
 
@@ -421,7 +455,7 @@ See
 
 Yeah there could be squares it can be hexagons and not all there's this concept of all space filling tiling and not all polygons can do it you know you have squares uh you have triangles but those quickly become hexagons uh I think those are the main ones yeah yeah uh so I can just go to the next slide uh so and the reason I'm sort of hovering on uh this analog media work is these concepts informed everything I did later in digital and because it was mathematical because it the symmetry operations you know these are things that came easy they were all made up of things that came easy and I think that's what I'm trying to do here they were natural to the language of computer graphics because
 
-## Colin Goldberg [45:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=2721s)
+## Unattributed [45:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=2721s)
 
 It
 
@@ -525,11 +559,17 @@ Yeah, exactly. So there's that. That's kind of a long, that's sort of what's pre
 
 ## Colin Goldberg [01:05:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=3948s)
 
-I completely relate to that. You know, like, absolutely. You know, and sometimes it's years later, you're like, you know what? That's what was going on in my life at the time. And now I understand why I made something look the way I did or why I chose the imagery that I did. You know, that's interesting that you say that because it really reminds me of something that happened to me when I was in a critique in grad school where people were sort of getting grilled by another student. But what is this work? What is this work about? And I was like, it's about the process, you know, and she was like, that's not good enough. What is it? What is it really about? And I was sort of at a loss. Honestly, I did. I couldn't answer the question. You know, I was I was making it and I was in some sort of a zone where I was solving a visual puzzle by the composite through the compositional process.
+I completely relate to that. You know, like, absolutely. You know, and sometimes it's years later, you're like, you know what? That's what was going on in my life at the time. And now I understand why I made something look the way I did or why I chose the imagery that I did. You know, that's interesting that you say that because it really reminds me of something that happened to me when I was in a critique in grad school where people were sort of getting grilled by another student. But what is this work? What is this work about? And I was like, it's about the process, you know, and she was like, that's not good enough.
 
-But at a deep level, I didn't really know what it was about. I wasn't preconceived, you know, in that way. And maybe that's what, you know, makes makes art different from design, you know, in a sense, you know, in some ways, you know.
+## Unattributed [01:06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=3986s)
 
-## Victor Acevedo [01:07:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=4020s)
+What is it?
+
+## Colin Goldberg [01:06:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=3987s)
+
+What is it really about? And I was sort of at a loss. Honestly, I did. I couldn't answer the question. You know, I was I was making it and I was in some sort of a zone where I was solving a visual puzzle by the composite through the compositional process. But at a deep level, I didn't really know what it was about. I wasn't preconceived, you know, in that way. And maybe that's what, you know, makes makes art different from design, you know, in a sense, you know, in some ways, you know.
+
+## Unattributed [01:07:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=4020s)
 
 Yes, exactly. I'd agree.
 
@@ -607,7 +647,15 @@ Or if they know it, then they can kind of vibe with that. Yeah, it gives opportu
 
 ## Colin Goldberg [01:20:28](https://www.youtube.com/watch?v=ywYWdI922tI&t=4828s)
 
-Yeah, it is cool. It's like very, you know, I mean, I relate to like a lot of what I'm seeing. In terms of, you know, the treatment and the ideas, but also sort of like the, you know, the experimental spirit of the work. I think that that's what keeps me coming back to the studio is I'm hoping to find something, a surprise at the end of the day. You know what I mean? Like sort of not just executing something that I already thought of, you know. And I find, you know, definitely with working with technology. And these types of tools, especially when you see that progress bar slowly crawling across and it's like, what is it going to do? You know, that's kind of, you know, a lot of fun.
+Yeah, it is cool. It's like very, you know, I mean, I relate to like a lot of what I'm seeing. In terms of, you know, the treatment and the ideas, but also sort of like the, you know, the experimental spirit of the work. I think that that's what keeps me coming back to the studio is I'm hoping to find something, a surprise at the end of the day. You know what I mean?
+
+## Unattributed [01:20:53](https://www.youtube.com/watch?v=ywYWdI922tI&t=4853s)
+
+Like sort of not
+
+## Colin Goldberg [01:20:55](https://www.youtube.com/watch?v=ywYWdI922tI&t=4855s)
+
+Just executing something that I already thought of, you know. And I find, you know, definitely with working with technology. And these types of tools, especially when you see that progress bar slowly crawling across and it's like, what is it going to do? You know, that's kind of, you know, a lot of fun.
 
 ## Victor Acevedo [01:21:15](https://www.youtube.com/watch?v=ywYWdI922tI&t=4875s)
 
@@ -623,7 +671,7 @@ Batman. This is the end. We're going to what I think is the point of the video. 
 
 Okay cool oh thanks I'm glad that worked that time I think there's just a hiccup in the sharing
 
-## Colin Goldberg [01:24:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=5041s)
+## Unattributed [01:24:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=5041s)
 
 Gotcha so if you wouldn't mind editing
 
@@ -647,7 +695,7 @@ Uh she collected you were in a show that um she curated right
 
 I wasn't actually in the show but I did attend it it was called code okay and it was a group show it had Nina Sobell and it had char davies who was doing a vr piece it was really advanced for its time she she worked at soft image it was really an awesome awesome piece so I met I think I met uh roz during that time she was a curator of the show and she was aware of my work but I think we may have also been in a group together uh ascii art science collaborations incorporated you know and I think that's a really good way to kind of get to know each other and I think that's a really good way to kind of get to know each other and I think that's a really good way to which was a non-profit group uh that's still in existence today they have a facebook page uh they're a very interesting group pretty much new york based but um so I knew so roz told me about the tech press in this group and when I looked at it I was seeing you know I saw the salons watched a few of those and I read uh uh most of the uh manifesto kind of thing I just need to go back and read the manifesto and I think that's a really good way to get to know each other the rest of it but I read enough to go wow this is cool I I thought it was really really very uh sort of uh protein if you will it was it was it had a lot of uh potential as a way as a concept as a term that kind of encapsulates this whole sort of field of practice the use of uh using uh you know I think of it as computer graphics but it's all technology that's what's one of the good things about it is that it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each about the term it's more generalized and that's good art history terms to have that kind of quality that they can you can include a lot in in them in that under that moniker and the idea of you know the use of technology to express to make an emotional statement or an expressive statement that uh juxtaposition I thought was very uh very smart and I think that's a really good way to get to know each other and I think that's a really good way to get to know each other and very accurate so we're really what's going on because we're using this these these tool sets that on one level produce all the same you know sort of kinds of effects or kinds of structures but they're they're unique to every practitioner I guess kind of
 
-## Colin Goldberg [01:27:17](https://www.youtube.com/watch?v=ywYWdI922tI&t=5237s)
+## Unattributed [01:27:17](https://www.youtube.com/watch?v=ywYWdI922tI&t=5237s)
 
 Like
 
@@ -669,9 +717,17 @@ You know, something that that a broad range of different types of artistic pract
 
 ## Victor Acevedo [01:33:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=5589s)
 
-Oh, yeah, that's an important distinction that that subtle distinction is real important. It really opens it up. Yeah. You know, something you know when I write. As I use the term Techspressionism in my own notes or you know, I find that. All abbreviated privately as a tech X. You know, like at abex, you know, and I just thought I would. I've been wanting to mention that to you, you know, I'm not pushing it in any way.
+Oh, yeah, that's an important distinction that that subtle distinction is real important. It really opens it up. Yeah. You know, something you know when I write. As I use the term Techspressionism in my own notes or you know, I find that. All abbreviated privately as a tech X.
 
-## Colin Goldberg [01:33:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=5619s)
+## Unattributed [01:33:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=5610s)
+
+You know, like at abex, you know, and I just thought I would.
+
+## Victor Acevedo [01:33:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=5614s)
+
+I've been wanting to mention that to you, you know, I'm not pushing it in any way.
+
+## Unattributed [01:33:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=5619s)
 
 No, that's pretty cool.
 
@@ -683,7 +739,7 @@ It's a, it's a way of shortening it and it could become known if it becomes a th
 
 Right on. Nice.
 
-## Victor Acevedo [01:33:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5634s)
+## Unattributed [01:33:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5634s)
 
 Nice. Very,
 
@@ -691,7 +747,7 @@ Nice. Very,
 
 Very, very cool. Yeah, you know, I mean it's definitely something I haven't heard before, you know, and it's certainly a lot easier to say abex, you know, versus abstract expressionism, although you know I think that that that abbreviation when someone says abex then they know oh that person kind of knows what they're talking about. You know they're using the abbreviated version already you know but yeah I like that that's pretty cool. Okay, cool.
 
-## Victor Acevedo [01:34:23](https://www.youtube.com/watch?v=ywYWdI922tI&t=5663s)
+## Unattributed [01:34:23](https://www.youtube.com/watch?v=ywYWdI922tI&t=5663s)
 
 Nice. Nice.
 
@@ -711,7 +767,7 @@ And when is the book that you're putting together slated to be made available.
 
 It's going to be a kind of a rolling start but I think in the spring it'll should be available for, you know, pre order, knock on wood. It's going to be a gradual thing because there's this sort of pre launch phase that I'm learning about on try to get some reviews in things. Things uh so then when it really launches it's uh we'll have you know a bit more notice people notice it a bit more so but
 
-## Colin Goldberg [01:35:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=5730s)
+## Unattributed [01:35:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=5730s)
 
 It'll
 
@@ -725,7 +781,11 @@ Awesome well looking forward to it and thanks so much for um you know uh sharing
 
 ## Victor Acevedo [01:36:02](https://www.youtube.com/watch?v=ywYWdI922tI&t=5762s)
 
-My pleasure colin it's been a great honor and great pleasure to to share this time with you and to have opportunity to talk about my art my work and uh really happy to be part of the tech impressionist group tech x I like that yeah very cool very cool all right victor until
+My pleasure colin it's been a great honor and great pleasure to to share this time with you and to have opportunity to talk about my art my work and uh really happy to be part of the tech impressionist group tech
+
+## Unattributed [01:36:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=5774s)
+
+X I like that yeah very cool very cool all right victor until
 
 ## Colin Goldberg [01:36:19](https://www.youtube.com/watch?v=ywYWdI922tI&t=5779s)
 

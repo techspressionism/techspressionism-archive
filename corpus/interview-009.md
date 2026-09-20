@@ -61,13 +61,25 @@ Like unless you are Justin Bieber or like a very famous star, it really doesn't 
 
 They could be basically another coin. They could be the next Bob Dylan from a quality standpoint. But because it's something that, you know, is not trendy from a mainstream standpoint and on Spotify, you know, they wouldn't go into that level of complexity. They do not see their. You know, they're not going to be able to get into that level of complexity. And so I think that's the thing that I'm hoping that through NFTs, they now have a way to actually amplify that message and monetize even small crowds of people, you know, that are very loyal to you. And they may be happy to pay, you know, certain amounts if you do something very, you know, I provide and original for them. So that was the point then.
 
-## Colin Goldberg [08:43](https://www.youtube.com/watch?v=YaKIk32mYWw&t=523s)
+## Unattributed [08:43](https://www.youtube.com/watch?v=YaKIk32mYWw&t=523s)
 
-Gotcha. Yeah. Like that, that, you know, the philosophy of blockchain in general, the DeFi sort of decentralized finance. And I think that's the point. It speaks to social change, you know, and when I when I interact with people that are involved in in sort of the DeFi community or blockchain developers in general, there's usually like a pretty strong philosophical component to their work. That is, you know, they believe in the reasons why blockchain and blockchain based economy should should exist, you know. And I think that.
+Gotcha. Yeah.
+
+## Colin Goldberg [08:44](https://www.youtube.com/watch?v=YaKIk32mYWw&t=524s)
+
+Like that, that, you know, the philosophy of blockchain in general, the DeFi sort of decentralized finance. And I think that's the point. It speaks to social change, you know, and when I when I interact with people that are involved in in sort of the DeFi community or blockchain developers in general, there's usually like a pretty strong philosophical component to their work. That is, you know, they believe in the reasons why blockchain and blockchain based economy should should exist, you know. And I think that.
 
 That's, you know. That's sort of I think from people who are on an outside view, it's hard to understand how that's really different philosophically from traditional capitalism, you know. But it is it is empowerment of the individual, you know. And then when the NFT phenomenon started, that sort of extends that philosophical movement to to artistic creation, I think, in a way, you know, which is where it becomes really interesting. You know. I remember seeing your portraits and I think in the very beginning when I was seeing your portraits, most of them were actually traditional like acrylic paintings.
 
-And, you know, like I saw that you were tagging your work with NFT and blockchain. And then I looked at the work and most of them were like acrylic on canvas. Like, what's up with this guy? You know, and then that's when I first messaged you. And then I think we started corresponding and then you started doing these vector portraits that I thought were definitely pretty interesting. And, you know, so so like probably will be helpful is if you could just let us know or let the viewers know a little bit about Sophia and Sophia's creator and sort of what that's all about and how you came in contact with with both the robot and its creator. Yeah.
+And, you know, like I saw that you were tagging your work with NFT and blockchain. And then I looked at the work and most of them were like acrylic on canvas.
+
+## Unattributed [10:10](https://www.youtube.com/watch?v=YaKIk32mYWw&t=610s)
+
+Like, what's up with this guy?
+
+## Colin Goldberg [10:11](https://www.youtube.com/watch?v=YaKIk32mYWw&t=611s)
+
+You know, and then that's when I first messaged you. And then I think we started corresponding and then you started doing these vector portraits that I thought were definitely pretty interesting. And, you know, so so like probably will be helpful is if you could just let us know or let the viewers know a little bit about Sophia and Sophia's creator and sort of what that's all about and how you came in contact with with both the robot and its creator. Yeah.
 
 ## Andrea Bonaceto [10:39](https://www.youtube.com/watch?v=YaKIk32mYWw&t=639s)
 
@@ -79,9 +91,13 @@ Me in London. They were in Hong Kong and the gallery supporting the project, Ivy
 
 It can also be a heart museum. It can also be a guitar. And so, you know, you can put a headset on and be into these digital worlds where you can go out, hang out with people that you meet in form of avatars, go visit a museum, look at some artworks, buy the artworks. Like you can engage with these people in this way. And yeah, it's amazing. I think, you know, the future is going to go there. And that's
 
-## Colin Goldberg [13:42](https://www.youtube.com/watch?v=YaKIk32mYWw&t=822s)
+## Unattributed [13:42](https://www.youtube.com/watch?v=YaKIk32mYWw&t=822s)
 
-Also why I like... Sure. I just got an Oculus recently. Exactly. I got an Oculus Quest recently and had my first sort of, you know, experience being in a virtual space with live people as avatars. And it's pretty remarkable. I mean, it's something that I have experienced on the desktop in things like Second Life and stuff like that. But to be in, you know, in the space in an immersive way, it really is something pretty different.
+Also why I like... Sure. I just got an Oculus recently. Exactly.
+
+## Colin Goldberg [13:45](https://www.youtube.com/watch?v=YaKIk32mYWw&t=825s)
+
+I got an Oculus Quest recently and had my first sort of, you know, experience being in a virtual space with live people as avatars. And it's pretty remarkable. I mean, it's something that I have experienced on the desktop in things like Second Life and stuff like that. But to be in, you know, in the space in an immersive way, it really is something pretty different.
 
 ## Andrea Bonaceto [14:08](https://www.youtube.com/watch?v=YaKIk32mYWw&t=848s)
 
@@ -99,7 +115,15 @@ So I think in terms of influences... One book I read that was an epiphany for me
 
 ## Colin Goldberg [15:48](https://www.youtube.com/watch?v=YaKIk32mYWw&t=948s)
 
-Would you want to share your screen and maybe pull up maybe your Instagram or something like that so the viewers could sort of see some of your portraits and stuff like that? That would be great. Give me a second. I noticed you have done some sort of like Elon Musk or I think you did Bob Dylan too, right? People that...
+Would you want to share your screen and maybe pull up maybe your Instagram or something like that so the viewers could sort of see some of your portraits and stuff like that? That would be great. Give me a second.
+
+## Unattributed [16:01](https://www.youtube.com/watch?v=YaKIk32mYWw&t=961s)
+
+I noticed you have done some
+
+## Colin Goldberg [16:04](https://www.youtube.com/watch?v=YaKIk32mYWw&t=964s)
+
+Sort of like Elon Musk or I think you did Bob Dylan too, right? People that...
 
 ## Andrea Bonaceto [16:09](https://www.youtube.com/watch?v=YaKIk32mYWw&t=969s)
 
@@ -181,9 +205,17 @@ And yeah, I'm also happy that these pieces did very well in the secondary market
 
 ## Colin Goldberg [22:20](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1340s)
 
-So the drop itself then, it wasn't that a single piece sold for $700,000. No, no, no. It was the total number of open editions that sold. I see. So that, you know, that's an important piece of information that I didn't know about when I... Because I think that the way that the news covers it is... Oh, it's an image.
+So the drop itself then, it wasn't that a single piece sold for $700,000.
 
-## Andrea Bonaceto [22:40](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1360s)
+## Unattributed [22:27](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1347s)
+
+No,
+
+## Colin Goldberg [22:27](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1347s)
+
+No, no. It was the total number of open editions that sold. I see. So that, you know, that's an important piece of information that I didn't know about when I... Because I think that the way that the news covers it is... Oh, it's an image.
+
+## Unattributed [22:40](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1360s)
 
 It's a JPEG. Exactly.
 
@@ -191,7 +223,7 @@ It's a JPEG. Exactly.
 
 And it's sold for, you know, some giant amount of money. And, oh, maybe it was like, you know, the artist themselves with a different wallet or, you know, some business partner. But when you see that it's basically like, you know, a large number of editions, then it makes it, you know...
 
-## Andrea Bonaceto [23:00](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1380s)
+## Unattributed [23:00](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1380s)
 
 There are more pieces actually. There are more pieces.
 
@@ -225,7 +257,7 @@ So are you going to quit your day job in finance or are you going to keep doing 
 
 I mean,
 
-## Colin Goldberg [26:31](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1591s)
+## Unattributed [26:31](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1591s)
 
 They overlap, obviously, and intersect. Yeah.
 
@@ -253,7 +285,7 @@ Yeah, I mean, you're one of the people that really explained NFTs to me very ear
 
 So I appreciate, you know, that sort of initial interaction. And, you know, like we and you're going to be presenting some of your work at the next salon, which I'm excited about. Hopefully, you're still interested, in doing that on the 13th. Actually, we had a salon yesterday, you know, we were talking a little bit about it, and the members there, all the other artists were excited to, you know, see your presentation and hear what you have to say. And, you know, we're actually opening up, we decided that we have this collab project that some of
 
-## Andrea Bonaceto [32:46](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1966s)
+## Unattributed [32:46](https://www.youtube.com/watch?v=YaKIk32mYWw&t=1966s)
 
 The
 
@@ -269,9 +301,17 @@ So it's been, it's been cool, you know, getting to know, getting to know a lot o
 
 I'm still working on a few portraits that I had started, you know, even before I did the drop with Sophia. And I also want to start doing some more abstract stuff. And to be honest, I'm yet, you know, I'm still digesting, you know, what happened last week, to then, you know, plan my next steps. But, you know, in general, the approach that I want to follow is to be very mindful of, you know, what I mean as an NFT. And whenever I do it, you know, to do it well. So I will take some time, you know, to think about it and...
 
-## Colin Goldberg [35:10](https://www.youtube.com/watch?v=YaKIk32mYWw&t=2110s)
+## Unattributed [35:10](https://www.youtube.com/watch?v=YaKIk32mYWw&t=2110s)
 
-Are you going to paint as well? Sorry? Are you going to continue to work with, you know, traditional paint and stuff like that as well? Of course. Nice. Awesome. All right. Great. Well, you know, I guess we could wrap it up. And, you know, thank you very much for your, your time. And showing your work. And I look forward to, you know, your presentation in the salon. Thanks for having me calling. It was a pleasure.
+Are you going to paint as well? Sorry? Are you going to continue to work with, you know, traditional paint and stuff like that as well?
+
+## Colin Goldberg [35:19](https://www.youtube.com/watch?v=YaKIk32mYWw&t=2119s)
+
+Of course. Nice. Awesome. All right. Great. Well, you know, I guess we could wrap it up. And, you know, thank you very much for your, your time. And showing your work. And I look forward to, you know, your presentation in the salon.
+
+## Unattributed [35:34](https://www.youtube.com/watch?v=YaKIk32mYWw&t=2134s)
+
+Thanks for having me calling. It was a pleasure.
 
 ## Andrea Bonaceto [35:36](https://www.youtube.com/watch?v=YaKIk32mYWw&t=2136s)
 

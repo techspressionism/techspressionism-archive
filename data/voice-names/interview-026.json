@@ -1,0 +1,30 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:23",
+      "fingerprint": "62c5c81291",
+      "name": "Nina Sobell"
+    },
+    "V2": {
+      "at": "2026-09-20 19:23",
+      "fingerprint": "8c25af783e",
+      "name": "Nina Sobell"
+    },
+    "V4": {
+      "at": "2026-09-20 19:24",
+      "fingerprint": "7c46613d77",
+      "name": "Nina Sobell"
+    },
+    "V5": {
+      "at": "2026-09-20 19:24",
+      "fingerprint": "3e48e667d6",
+      "name": "Renata Janiszewska"
+    },
+    "V6": {
+      "at": "2026-09-20 19:24",
+      "fingerprint": "89c8c66549",
+      "name": ""
+    }
+  }
+}

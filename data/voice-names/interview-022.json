@@ -1,0 +1,20 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:20",
+      "fingerprint": "03e54ceddb",
+      "name": "Karen LaFleur"
+    },
+    "V2": {
+      "at": "2026-09-20 19:21",
+      "fingerprint": "f0fdc18efd",
+      "name": "Roz Dimon"
+    },
+    "V3": {
+      "at": "2026-09-20 19:21",
+      "fingerprint": "e5e982e60d",
+      "name": "Karen LaFleur"
+    }
+  }
+}

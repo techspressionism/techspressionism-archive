@@ -25,7 +25,7 @@ languages: ["en"]
 
 Okay. All right. So today is Thursday, February 11 2021. My name is Colin Goldberg and I'm here today with artist Davonte Bradley, otherwise known as Davo.
 
-## Davonte Bradley [00:14](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=14s)
+## Unattributed [00:14](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=14s)
 
 Hello, hello.
 
@@ -81,7 +81,7 @@ Um absolutely um I I know the term like self-taught artist goes around quite a b
 
 Been able to do that for a long time and I've been able to do that for a long time and it's a lot more enjoyable yeah I mean I definitely I relate to that too in terms of like you know I mean I spent a lot of time and then I still to some degree do some commercial work but um you know when when I was getting involved in in digital tools like the the majority of the work that that I learned on was commercial work like commercial design work and and some to some degree illustration but mostly online stuff but I've been able to do that for a long time and I've been able to do that for a long time and I've been able to do that for a long time and I've been able to do that for a long time for interactive media and I and and again I would say you know I was self-taught in the sense that I would either buy a book or look up tutorials it was definitely nothing that I learned in a classroom setting and in fact as an undergrad my professors for any kind of design classes that I took had no idea how to use any of the software and it was the TAs that that basically showed us like the the rudimentary aspects of like photoshop and and and and and and and and and and and and and and and and and and and and and photoshop and illustrator and things like that so these
 
-## Davonte Bradley [15:40](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=940s)
+## Unattributed [15:40](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=940s)
 
 Are layers this is opacity totally
 
@@ -103,7 +103,7 @@ So, I don't know. It's, and I guess I felt.
 
 What was it that, like, I mean, was there, like, basically a day, like, I mean, you mentioned that you had, like, lost your job. And you didn't seem to really be that bent about it. Like, maybe you didn't like it so much or whatever.
 
-## Davonte Bradley [20:57](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1257s)
+## Unattributed [20:57](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1257s)
 
 I was a targeted manager.
 
@@ -119,13 +119,9 @@ There was a point, because video games are still a major part of my life. I was 
 
 Like on Twitch or something like that?
 
-## Davonte Bradley [21:35](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1295s)
+## Unattributed [21:35](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1295s)
 
-Yeah.
-
-## Colin Goldberg [21:35](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1295s)
-
-Yeah. Yeah.
+Yeah. Yeah. Yeah.
 
 ## Davonte Bradley [21:36](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1296s)
 
@@ -147,7 +143,7 @@ And so I kind of had the same strategy I was like I just took my stylist and was
 
 Now you were you said you were streaming this like were you actually getting feedback from people from viewers like while you're doing this or yeah
 
-## Davonte Bradley [23:36](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1416s)
+## Unattributed [23:36](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1416s)
 
 My my friends yeah my friends they're
 
@@ -179,23 +175,15 @@ As not in this space where everything is still fun everything is still enjoyable
 
 Yeah cool cool right on yeah I mean I know you mentioned Basquiat before and I didn't you know I definitely I see the connection with using words but other than that you know stylistically I don't see you like trying to emulate him in some way you know
 
-## Davonte Bradley [29:50](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1790s)
+## Unattributed [29:50](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1790s)
 
-What
-
-## Colin Goldberg [29:50](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1790s)
-
-I mean um so but and his story was definitely you know something I mean I don't know if I can say it's not exactly the same thing but I think it's kind of I mean I
-
-## Davonte Bradley [29:55](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1795s)
-
-Don't
+What I mean um so but and his story was definitely you know something I mean I don't know if I can say it's not exactly the same thing but I think it's kind of I mean I don't
 
 ## Colin Goldberg [29:56](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1796s)
 
 Know if I can say it's not exactly the same thing but I think it's kind of tragic in a lot of ways you know um but uh you know I think that it just sort of speaks to the structure of the art world you know the way it was and you know I feel like the way it is today is almost like an exaggerated version of the way it used to be um yeah like a you know almost like a cartoon in a lot of ways um for better or worse you know um but uh so anyway um you know I guess before we look at your work I want to ask you a question about your work and I think it's kind of your work um do you want to share a little bit about your process I know you mentioned Krita that was a software program that I had never even heard of before um you brought it up and actually like you know I mean so what year were you born in 92 1992 okay so I was born in 71 so like literally like I could be your dad you know and
 
-## Davonte Bradley [30:48](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1848s)
+## Unattributed [30:48](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=1848s)
 
 Like when when
 
@@ -239,7 +227,7 @@ That happen to be in a family like it's hard to describe but there's that look t
 
 And and you know I mean on my mom's side I mean my mom's of japanese ancestry and uh you know I mean I haven't really been as exposed to straight up japanese culture like I've never been to japan um you know but definitely I think there is part of that too where like you know if you're not fully japanese on both sides of your bloodline you're kind of looked at as like I think there's even like a lot of people who are like I don't know what it is um but you know um it's it's kind of like along those same lines and I remember my um my wife's uh nephew who's now my nephew when when she and I first started um talking um online we met on an online dating site you know years ago and uh her her nephew was like oh when are you gonna message that juponese guy you know and uh now and then I actually like you know it stuck with me and I googled it of course there's already a facebook group that I'm going to go to and I'm like there was already a facebook group called juponese which I thought was really funny but like
 
-## Davonte Bradley [41:18](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2478s)
+## Unattributed [41:18](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2478s)
 
 You know
 
@@ -255,7 +243,7 @@ That's that's that's the feeling I got when I finally found to expressionism I w
 
 I feel like I could be a part of this yeah like I feel like I could be a part of this yeah like wow this is something worth worth you know moving forward with you know and as time has gone on there have been more and more people that like when I first like you know message them over instagram I mean that's our main sort of platform for like you know just showing each other's work whatever you know interacting with the world or whatever for better or worse um you know like I feel like uh there's been plenty of people that are like you know like I found my tribe or like this is like my these are my people you know what I mean I'm
 
-## Davonte Bradley [42:17](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2537s)
+## Unattributed [42:17](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2537s)
 
 Like that's
 
@@ -299,11 +287,23 @@ Hmm. Or bitmap or like a combination?
 
 ## Davonte Bradley [48:14](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2894s)
 
-Bitmap. I'll bitmap. So yeah, so this is how that works.
+Bitmap.
 
-## Colin Goldberg [48:23](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2903s)
+## Unattributed [48:15](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2895s)
 
-That's interesting. I see like the sort of spider web pattern going on inside of there, inside the strokes. Yeah.
+I'll bitmap.
+
+## Davonte Bradley [48:17](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2897s)
+
+So yeah, so this is how
+
+## Unattributed [48:21](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2901s)
+
+That works. That's interesting.
+
+## Colin Goldberg [48:24](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2904s)
+
+I see like the sort of spider web pattern going on inside of there, inside the strokes. Yeah.
 
 ## Davonte Bradley [48:31](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=2911s)
 
@@ -403,7 +403,7 @@ Yeah.
 
 Stuff like Akira.
 
-## Davonte Bradley [58:14](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=3494s)
+## Unattributed [58:14](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=3494s)
 
 That's one of my favorites.
 
@@ -411,7 +411,7 @@ That's one of my favorites.
 
 Ghost in the Shell. Yeah. Katsuhiro otomo yeah I mean amazing amazing work and then ghost in the shell the first time I saw the original one not the live action one yeah
 
-## Davonte Bradley [58:25](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=3505s)
+## Unattributed [58:25](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=3505s)
 
 I
 
@@ -561,7 +561,11 @@ Gotcha. Could you tell us how we would find you on Rarible?
 
 On Rarible, I think I should be under, should be under, under Davo Bradley Art there too, I think. I think that's how it said. Ah, no, hold on. Yes. Yeah, so under Rarible, I am under Davo Bradley Art. It's shortened to Davo Brad for whatever reason. Okay, that's weird. But yeah. Yeah, if you look the link here, it's app.Rarible.Com slash Davo Bradley Art.
 
-I don't have too much on here because it's just, I didn't realize that the cost associated with actually minting work. So if you're going-
+I don't have too much on here because it's just, I didn't realize that the cost associated with actually minting work.
+
+## Unattributed [01:14:39](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4479s)
+
+So if you're going-
 
 ## Colin Goldberg [01:14:42](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4482s)
 
@@ -569,7 +573,7 @@ Yeah, Ethereum definitely in the last couple of weeks has really risen. And I th
 
 She mentioned one called Viv3 that I guess is a little less expensive to make things on. I think they use a different cryptocurrency, like it's based on Ethereum, but it's called Flow. I think a lot of these different platforms use sort of their own, you know, like homegrown sort of cryptocurrency that is like, you know, you start with Ethereum and then convert it to, like I guess Rarible uses RARI,
 
-## Davonte Bradley [01:15:32](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4532s)
+## Unattributed [01:15:32](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4532s)
 
 Which is like- Yeah, they have their own tokens. Yeah.
 
@@ -591,7 +595,7 @@ And you can add it to your digital art. Yeah. There are a few virtual spaces now
 
 And I think that is the thing that is really important. And I think that is the thing that is really important. And I think that is the thing that is really important. And I think that is the thing that is really important. And I think that is the thing that is really important. And I think that is the thing
 
-## Davonte Bradley [01:18:33](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4713s)
+## Unattributed [01:18:33](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4713s)
 
 That is really important. And I think that is the thing that is really important. And I think that is the thing that is really important. And I think that is the thing that
 
@@ -607,7 +611,7 @@ And the other interesting thing, too, to note is that, like, just like in the, l
 
 And especially when it's in it's a public, you know, like public transaction, like an
 
-## Davonte Bradley [01:20:03](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4803s)
+## Unattributed [01:20:03](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4803s)
 
 Auction
 
@@ -615,7 +619,7 @@ Auction
 
 Where, you know, it's like, I remember there was an artist, I did a bunch of work years ago with this. He was like, kind of made his claim to fame in the 70s as like one of the seminal sort of video artists and made all these crazy Zen videos of like, you know, with like VHS and beta, maybe
 
-## Davonte Bradley [01:20:25](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4825s)
+## Unattributed [01:20:25](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=4825s)
 
 Before
 
@@ -641,7 +645,11 @@ And I've actually had that effect so many times. It's like, did you did you pain
 
 And that's a whole other world that it's not, it's not inaccessible, but the learning curve is steep. It's really steep. And. I respect the people that are hopping into that foray, like with both feet and just like they're just creating stuff. And it's, it's still very much in its early form for what it is, but like they're doing amazing stuff.
 
-Very amazing stuff. Way more, way more technically minded than what I'm currently making. But I respect it and I hope it, I hope it becomes something even greater than what they think it is. I think it's probably going to be. Like, I just. I can't wait to see what. Computer based art or art that's solely on the computer or solely created in a virtual space. I'm very, very much looking forward to how that looks in Italy, like even 10 years from now. Like when I, when I'm pushing 40. 40. 40. I want to, I want to know what that looks like. I'm definitely going to be around.
+Very amazing stuff. Way more, way more technically minded than what I'm currently making. But I respect it and I hope it, I hope it becomes something even greater than what they think it is. I think it's probably going to be. Like, I just. I can't wait to see what. Computer based art or art that's solely on the computer or solely created in a virtual space. I'm very, very much looking forward to how that looks in Italy, like even 10 years from now. Like when I, when I'm pushing 40. 40. 40. I want to, I want to know what that looks like.
+
+## Unattributed [01:26:05](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5165s)
+
+I'm definitely going to be around.
 
 ## Colin Goldberg [01:26:07](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5167s)
 
@@ -667,7 +675,7 @@ Can see you can see you can see you can see you can see you can see you can see 
 
 Can see you can see you can up or it's been a great interview um it's been a long interview it looks yeah it has I went over the the the fake allotted amount of time but uh
 
-## Davonte Bradley [01:29:12](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5352s)
+## Unattributed [01:29:12](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5352s)
 
 Anyone stuck
 
@@ -683,10 +691,18 @@ Me running running my mouth off as I uh am want to do these days
 
 Well it was cool it was a little bit more like a conversation than the past interviews so it's good stuff um you know and yeah appreciate you know your involvement in the project and definitely look forward to seeing some more of your work and maybe swapping some with you in the near future oh
 
-## Davonte Bradley [01:29:44](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5384s)
+## Unattributed [01:29:44](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5384s)
 
 Yeah yeah and
 
 ## Colin Goldberg [01:29:46](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5386s)
 
-And the collab project that's you know coming along um that's gonna be cool you know that'll be our first um real group show you know within vr so I'm excited to see um how that all comes together on kunst matrix so yeah all right all right well thank you uh Davo I appreciate your time thank you appreciate the interview all right all right signing off
+And the collab project that's you know coming along um that's gonna be cool you know that'll be our first um real group show you know within vr so I'm excited to see um how that all comes together on kunst matrix so yeah all
+
+## Unattributed [01:30:03](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5403s)
+
+Right all right well thank you uh Davo I appreciate your time thank you appreciate the interview all
+
+## Colin Goldberg [01:30:10](https://www.youtube.com/watch?v=qE6D2wrr1rU&t=5410s)
+
+Right all right signing off

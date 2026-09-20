@@ -75,7 +75,11 @@ Mockery. And to me sampling a collage is kind of like time travel. You're always
 
 So you take a record from 1930, you take a record from 1975, you throw in a baseline from 2022 and you have dubstep. Or. Yeah. Or et cetera, et cetera. And that kind of collage is very related to the literary movement of the beat poets of the 1950s. People like William S. Burroughs, Jack Kerouac. And of course, above all for me, Amiri Baraka, who I had the pleasure and honor to meet years ago. And we did a DJ with him reading poems of this sort of also relate extensively. And in fact, I took my DJ name from William S. Burroughs. So, you know, that kind of idea of using sound. As an acoustic.
 
-And for this pandemic of misinformation. These are things that I'm kind of thinking about right now. Are you. Gotcha. Gotcha. I can see some wheels processing.
+And for this pandemic of misinformation. These are things that I'm kind of thinking about right now. Are you. Gotcha. Gotcha.
+
+## Unattributed [10:10](https://www.youtube.com/watch?v=sqMzJArwmhg&t=610s)
+
+I can see some wheels processing.
 
 ## Colin Goldberg [10:13](https://www.youtube.com/watch?v=sqMzJArwmhg&t=613s)
 
@@ -86,6 +90,8 @@ I know that actually yesterday in our our Techspressionist Salon, one of the art
 ## Paul D. Miller aka DJ Spooky that Subliminal Kid [11:19](https://www.youtube.com/watch?v=sqMzJArwmhg&t=679s)
 
 OK, so let's let's unpack a couple of issues. All right. So I'm a musician, an artist and a writer. So when. When I first moved to New York, I lived in Paris for a couple of years. I moved to New York after that, you know, typical 20s stuff. When I was in my 20s, I moved back to New York in the late 90s, around 97.
+
+## Unattributed [11:40](https://www.youtube.com/watch?v=sqMzJArwmhg&t=700s)
 
 We were actually like around the corner from each other.
 
@@ -99,7 +105,7 @@ Avenue B and second street. And there was a club called Save the Robots. There w
 
 When I moved to New York, it was the world was a lot more flexible about electronic music. And you have downtown people doing art rock. Like I met Thurston Moore from Sonic Youth, Yoko Ono. A lot of people were much more freewheeling. And I think downtown cultures always had that sensibility that it's a mix. Nowadays, it seems like the world is a lot more segregated, a lot more genre specific and a lot more like somebody's Spotify playlist has like segmented reality itself. You know, like if you like, you know, and you have a recommendation engine all the time going, if you like this song, you'll like this song. But you're never going to hear it. You're never going to hear anything new because you're only dealing with an algorithm that's built an acoustic and algorithmic portrait of you. And it's just feeding you crap over and over and over.
 
-## Colin Goldberg [13:34](https://www.youtube.com/watch?v=sqMzJArwmhg&t=814s)
+## Unattributed [13:34](https://www.youtube.com/watch?v=sqMzJArwmhg&t=814s)
 
 I don't like the news.
 
@@ -107,7 +113,7 @@ I don't like the news.
 
 Yeah.
 
-## Colin Goldberg [13:37](https://www.youtube.com/watch?v=sqMzJArwmhg&t=817s)
+## Unattributed [13:37](https://www.youtube.com/watch?v=sqMzJArwmhg&t=817s)
 
 People are that adventurous.
 
@@ -201,7 +207,11 @@ So yeah.
 
 ## Paul D. Miller aka DJ Spooky that Subliminal Kid [33:46](https://www.youtube.com/watch?v=sqMzJArwmhg&t=2026s)
 
-Well, Colin, congrats on your show. Yeah. I just want to say to everybody, my website's DJ spooky.Com has plenty of reference materials on it. And my books there's usually if you just Google Paul Miller, you'll see the books or you can go to my website, djsboobie.Com slash books. There's also djsboobie.Com slash art, all of which has bits and pieces of all the various projects. So Colin, it was a pleasure and you know, just everybody out there, you know, wishing you strength in the middle of this pandemic, man. And I hope that we can all see each other in real time. Once this pandemic stuff is we've gotten it under control. So Colin, thanks again. Thank you.
+Well, Colin, congrats on your show. Yeah. I just want to say to everybody, my website's DJ spooky.Com has plenty of reference materials on it. And my books there's usually if you just Google Paul Miller, you'll see the books or you can go to my website, djsboobie.Com slash books. There's also djsboobie.Com slash art, all of which has bits and pieces of all the various projects. So Colin, it was a pleasure and you know, just everybody out there, you know, wishing you strength in the middle of this pandemic, man. And I hope that we can all see each other in real time. Once this pandemic stuff is we've gotten it under control.
+
+## Unattributed [34:27](https://www.youtube.com/watch?v=sqMzJArwmhg&t=2067s)
+
+So Colin, thanks again. Thank you.
 
 ## Colin Goldberg [34:29](https://www.youtube.com/watch?v=sqMzJArwmhg&t=2069s)
 

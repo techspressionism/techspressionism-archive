@@ -109,9 +109,13 @@ In the dance. And end in rhetoric. And we're suffering from that at the moment.
 
 Yeah, right. We have an overabundance of rhetoric. That's for sure.
 
-## Frank Gillette [10:40](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=640s)
+## Unattributed [10:40](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=640s)
 
-And it's not enough dance. Not the elegant rhetoric of Aristotle. Or the philosopher K.B. Burke, who was the master of this series of rhetoric. It's the rhetoric of the advertising system. The marketing system. Things are no longer. The rhetoric is no longer devised to. To express serious ideas. It's to figure out other ways. And other than the ones that have already failed. Of commercializing.
+And it's not enough dance.
+
+## Frank Gillette [10:42](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=642s)
+
+Not the elegant rhetoric of Aristotle. Or the philosopher K.B. Burke, who was the master of this series of rhetoric. It's the rhetoric of the advertising system. The marketing system. Things are no longer. The rhetoric is no longer devised to. To express serious ideas. It's to figure out other ways. And other than the ones that have already failed. Of commercializing.
 
 Even language. And branding, they call it. The whole branding issue, I think, is a form of corruption. It's about my brand will beat out your brand. And succeed commercially. Or you'll go down in flames. And I think the role of the artist, again, is to somehow figure out how to use aesthetic judgment. To preclude all other forces. Including the ones that are patently political. And turn them towards aesthetic judgment.
 
@@ -169,9 +173,13 @@ And they sent us to the institute six of their systems. Wow. They were relevant,
 
 Not quite. And that was the next phase going academic. And that was initially still on the edges of it was the transfer from biological to cryptological, I guess.
 
-## Helen A. Harrison [21:55](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1315s)
+## Unattributed [21:55](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1315s)
 
-Mm hmm. So the imagery that you're trying to create, you feel that you really couldn't create it any other way that this technology is what enables you to realize your vision?
+Mm hmm.
+
+## Helen A. Harrison [21:58](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1318s)
+
+So the imagery that you're trying to create, you feel that you really couldn't create it any other way that this technology is what enables you to realize your vision?
 
 ## Frank Gillette [22:11](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1331s)
 
@@ -217,13 +225,21 @@ Cut Pro and Photoshop. Photoshop for the blunt work. And Final Cut Pro for the r
 
 And then the layering. You can do that, I guess, if you don't like a layer, you just dismiss it.
 
-## Frank Gillette [26:08](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1568s)
+## Unattributed [26:08](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1568s)
 
 I dispose of it.
 
 ## Helen A. Harrison [26:10](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1570s)
 
-Yeah. I know my husband, Roy Nicholson, does a similar thing. I know you know Roy. He was an early user of Photoshop and taught color on the computer at Southampton College. But for him, he uses it almost as a sketching tool. Because he is a painter and he's primarily working either in painting or printmaking. But by digitizing and then manipulating the image, he can work on it without physically touching it. And that has been very helpful for him.
+Yeah. I know my husband, Roy Nicholson, does a similar thing. I know you know Roy.
+
+## Unattributed [26:16](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1576s)
+
+He was
+
+## Helen A. Harrison [26:18](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1578s)
+
+An early user of Photoshop and taught color on the computer at Southampton College. But for him, he uses it almost as a sketching tool. Because he is a painter and he's primarily working either in painting or printmaking. But by digitizing and then manipulating the image, he can work on it without physically touching it. And that has been very helpful for him.
 
 ## Frank Gillette [26:45](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1605s)
 
@@ -253,7 +269,7 @@ Or on Easter or on Passover. We're missing those crucial junctions.
 
 Yeah. Or I suspect, unfortunately. I've been pretty prescient, if I may brag for a minute. And Suzanne can back me up for this. I predicted this about, oh, six months ago. First rumbles with Trump and
 
-## Helen A. Harrison [27:43](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1663s)
+## Unattributed [27:43](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1663s)
 
 His minions.
 
@@ -271,7 +287,15 @@ They are. For example, Trump called Putin two to three days a week. He's a geniu
 
 ## Helen A. Harrison [28:37](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1717s)
 
-Well, I know. But in a sense. Well, you know, people say that all art is political because it has a message. Even abstract art such as Pollock and Krasner created has a message. But I think it's almost impossible to keep people away from art because they don't have a political background behind it because they wouldn't be doing the kind of image that they did if they hadn't lived in those times and been influenced by this geopolitical situation. And I just think that it's almost impossible to keep it out of your art.
+Well, I know.
+
+## Unattributed [28:38](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1718s)
+
+But in a sense. Well,
+
+## Helen A. Harrison [28:40](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1720s)
+
+You know, people say that all art is political because it has a message. Even abstract art such as Pollock and Krasner created has a message. But I think it's almost impossible to keep people away from art because they don't have a political background behind it because they wouldn't be doing the kind of image that they did if they hadn't lived in those times and been influenced by this geopolitical situation. And I just think that it's almost impossible to keep it out of your art.
 
 ## Frank Gillette [29:08](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1748s)
 
@@ -287,7 +311,7 @@ And that's true for you, Colin, as well. And he said, we're talking about Ardorn
 
 It has a real thing in it. It's in the world. I mean, think of a person like Peter Max. That's an artifact. But it's not art. Art has a reverberating presence in strange ways. And it never goes stale. It never runs out of fuel. That's how it works. And that's how you judge a great work of art. Actually, any work of art. Any work of art that gets by Theodore Adorno's criteria is, you know, in the game. It should never run out.
 
-## Helen A. Harrison [30:56](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1856s)
+## Unattributed [30:56](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1856s)
 
 Well, that's why artists.
 
@@ -369,9 +393,13 @@ Absolutely. A very small one at the moment. I had an exchange with a good friend
 
 3% of the world. Wouldn't know the difference. Whether it is or isn't. Wouldn't make no difference whatsoever. 2% of the world. Would pretend. To a horror. They did not actually experience. And that's what I said. And I said.
 
-## Helen A. Harrison [36:40](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2200s)
+## Unattributed [36:40](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2200s)
 
-I'm not a mathematician.
+I'm not a
+
+## Helen A. Harrison [36:44](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2204s)
+
+Mathematician.
 
 ## Frank Gillette [36:48](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2208s)
 
@@ -439,7 +467,7 @@ What's the direction?
 
 No, where is its resurrection?
 
-## Frank Gillette [40:16](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2416s)
+## Unattributed [40:16](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2416s)
 
 Oh, resurrection.
 
@@ -497,7 +525,7 @@ Thank you, thank you. I think you have my address, but I can email you, make sur
 
 Okay, I appreciate it. Take care.
 
-## Helen A. Harrison [43:50](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2630s)
+## Unattributed [43:50](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=2630s)
 
 Great,
 

@@ -1,4 +1,16 @@
 {
   "approved_auto": true,
-  "voices": {}
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:10",
+      "fingerprint": "d2e60f3e23",
+      "name": "Patrick Lichty"
+    },
+    "V2": {
+      "at": "2026-09-20 19:10",
+      "auto": true,
+      "fingerprint": "549cbd768d",
+      "name": "Colin Goldberg"
+    }
+  }
 }

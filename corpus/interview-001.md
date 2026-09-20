@@ -59,7 +59,7 @@ And then Ippolito told us, you know, if you want to be an artist, go to New York
 
 So, you know, when I graduated, I pretty much took Ippolito's advice and, you know, moved to New York, moved into my first studio.
 
-## Roz Dimon [05:41](https://www.youtube.com/watch?v=JZFDck9gwH8&t=341s)
+## Unattributed [05:41](https://www.youtube.com/watch?v=JZFDck9gwH8&t=341s)
 
 You didn't become a dentist? No.
 
@@ -67,15 +67,21 @@ You didn't become a dentist? No.
 
 No, I didn't, you know, much to my parents' chagrin. They were both chemists, you know, but they, they were, they've always been supportive of me, you know, you know, following the path that I chose. So, you know, and, and so, and I moved to Brooklyn when I graduated to Williamsburg back in, in 94.
 
-And, you know, something happened there too, that was definitely a pretty major change, that happened in terms of influencing my work was that when I first moved to Brooklyn, I was coming back from a temp job and I was wearing a suit and coming back underneath the Williamsburg bridge, I got jumped and I got my jaw broken in a couple of places. And this is like before, you know, Williamsburg was gentrified. It was like chop shops, garbage on the street and stuff. And I lived in sort of like a, an old bank building that was not a hundred percent legal live workspace. I was renting from another organization.
+And, you know, something happened there too, that was definitely a pretty major change, that happened in terms of influencing my work was that when I first moved to Brooklyn, I was coming back from a temp job and I was wearing a suit and coming back underneath the Williamsburg bridge, I got jumped and I got my jaw broken in a couple of places. And this is like before, you know, Williamsburg was gentrified. It was like chop shops, garbage on the street and stuff. And I lived in sort of like a, an old bank building that was not a hundred percent legal live workspace.
+
+## Unattributed [06:41](https://www.youtube.com/watch?v=JZFDck9gwH8&t=401s)
+
+I was renting from another organization.
+
+## Colin Goldberg [06:44](https://www.youtube.com/watch?v=JZFDck9gwH8&t=404s)
 
 And in сabinet like in my midicle. And I would say I would say that that was not in my type of business. And you know, that was not an environment that I would want to understand. And that was not an environment that I would want to come back to. And that was not an environment that I would want to come back to. And and in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to.
 
-Into digital work. I was doing, actually, it was, this is before the web, so I was doing CD-ROM development at a multimedia shop, yeah, back in,
+Into digital work. I was doing, actually, it was, this is before the web, so I was doing CD-ROM development at a multimedia
 
-## Roz Dimon [07:20](https://www.youtube.com/watch?v=JZFDck9gwH8&t=440s)
+## Unattributed [07:19](https://www.youtube.com/watch?v=JZFDck9gwH8&t=439s)
 
-And I was doing director
+Shop, yeah, back in, and I was doing director
 
 ## Colin Goldberg [07:21](https://www.youtube.com/watch?v=JZFDck9gwH8&t=441s)
 
@@ -103,7 +109,7 @@ So Klein had been making these little drawings, charcoal drawings of like chairs
 
 Yeah. But you know, it's just not did it really play out in the way that it did in that case. You know, it's
 
-## Roz Dimon [11:12](https://www.youtube.com/watch?v=JZFDck9gwH8&t=672s)
+## Unattributed [11:12](https://www.youtube.com/watch?v=JZFDck9gwH8&t=672s)
 
 Just not at all on the same level of允and
 
@@ -111,7 +117,7 @@ Just not at all on the same level of允and
 
 So that's one of the things that it was really hard to elucidate. You know, it's just not an image that was actually done in the way that it was done. You know, it's just not an image that was actually done in the way that it was done. You know, it's just not an image that was actually done in the way that it was done. It was just not an image that was actually done in the way that it was done. It was just not an image that was actually done in the way that it was done. It was just not an image that was actually done in the way that it was done. It was just not an image that was actually done in the way that it was done. To feel like um you know the ability to experiment with large format inkjet printing and printing on top of painted surfaces as you know legitimate essentially as um it's still a painting you know if a rosenberg painting with a photo silkscreen on top of it is still called a painting then um to me you know a painting with an inkjet print on top of it is also still a painting it's just you know 30 years later um so yeah I would say like you know the the influences are fairly um fairly diverse you know and certainly at you know the digital realm in general wireframe models um cyber cyberpunk um literature like william gibson all that
 
-## Roz Dimon [12:23](https://www.youtube.com/watch?v=JZFDck9gwH8&t=743s)
+## Unattributed [12:23](https://www.youtube.com/watch?v=JZFDck9gwH8&t=743s)
 
 Sort
 
@@ -137,7 +143,7 @@ Yeah sure so I mean this is something that I actually learned about through Tech
 
 So it's, you know, it could be a JPEG or an MP4 video file, a lot of them are animations. But the thing that makes them unique is the fact that they are unique, that they're actually one of a kind or they're also able to be minted by the artist as additions. So it's a whole, yeah, yeah, it's a whole sort of world in itself.
 
-## Roz Dimon [14:57](https://www.youtube.com/watch?v=JZFDck9gwH8&t=897s)
+## Unattributed [14:57](https://www.youtube.com/watch?v=JZFDck9gwH8&t=897s)
 
 We can go down that rabbit hole. It is interesting.
 
@@ -179,7 +185,7 @@ Okay,
 
 Awesome. So, so there, these are the first, these are images of those two pieces. The first layer is oil on linen. So just straight oil painting. And then what I do is I take a picture of it and bring it into the computer. And then I I draw into it in Adobe Illustrator using my Wacom tablet to create an image of, for an overprint and then I take that image and actually run the the painted canvas or in this case linen through my printer which is an Epson 9800 it's a large format printer and I use a special primer called ink aid which allows me to print onto the painted surfaces so
 
-## Roz Dimon [17:43](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1063s)
+## Unattributed [17:43](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1063s)
 
 So
 
@@ -237,7 +243,15 @@ Great. I just switched back. So we're sort of sharing the screen. I'm just sort 
 
 ## Colin Goldberg [22:53](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1373s)
 
-Yeah, sure. You know, I kind of... Just so we see a little bit. Yeah, I'll take you, maybe I'll just take you through some stuff on my site that lets you see... Perfect. Kind of like how it evolved.
+Yeah, sure. You know, I kind of...
+
+## Unattributed [22:55](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1375s)
+
+Just so we see a little bit.
+
+## Colin Goldberg [22:56](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1376s)
+
+Yeah, I'll take you, maybe I'll just take you through some stuff on my site that lets you see... Perfect. Kind of like how it evolved.
 
 ## Roz Dimon [23:04](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1384s)
 
@@ -257,17 +271,17 @@ Okay, great. So down in the bottom of my site, I have my work kind of organized 
 
 And let's see. When I was... Yeah. When I was an undergrad, that's when I sort of started getting involved with computers. And I grew up, you know, my first computer was a Commodore 64. And I played a lot with like ASCII animation and I had a light pen and, you know, I always enjoyed seeing...
 
-## Roz Dimon [24:18](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1458s)
+## Unattributed [24:18](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1458s)
 
 That's an Amiga, right? A Commodore Amiga.
 
 ## Colin Goldberg [24:20](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1460s)
 
-It was the 64 actually. Oh, it was before. So it was before the Amiga. Oh, yeah.
+It was the 64 actually. Oh,
 
-## Roz Dimon [24:25](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1465s)
+## Unattributed [24:23](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1463s)
 
-That's nice. Yeah.
+It was before. So it was before the Amiga. Oh, yeah. That's nice. Yeah.
 
 ## Colin Goldberg [24:27](https://www.youtube.com/watch?v=JZFDck9gwH8&t=1467s)
 
@@ -333,11 +347,11 @@ And then the five of us, myself, Steve, Oz, Patrick, and Helen met on Zoom. And 
 
 And then since then, currently, we have about 200 artists in our index at Techspressionism.Com from over 30 countries. So it's pretty amazing. Since August, it's grown pretty rapidly. And I think a big part of it has been these salons, which you've been a part of on Zoom, which we just started recording and publishing on our YouTube channel.
 
-And that was actually Devante's idea. There's another artist who's been pretty heavily involved, Devante. Davonte Bradley, who's been helping moderate the sessions. And it was his suggestion that we record and publish them. So it's been really interesting and also kind of based on this idea of social sculpture, which was an idea that a German artist came up with, a guy by the name of Joseph Beuys, who is a Fluxus artist. Yeah, it's kind of a textbook name.
+And that was actually Devante's idea. There's another artist who's been pretty heavily involved, Devante. Davonte Bradley, who's been helping moderate the sessions. And it was his suggestion that we record and publish them. So it's been really interesting and also kind of based on this idea of social sculpture, which was an idea that a German artist came up with, a guy by the name of Joseph Beuys, who is a Fluxus artist.
 
-## Roz Dimon [36:15](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2175s)
+## Unattributed [36:13](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2173s)
 
-Yeah. Yeah.
+Yeah, it's kind of a textbook name. Yeah. Yeah.
 
 ## Colin Goldberg [36:16](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2176s)
 
@@ -369,9 +383,13 @@ And I think that there's a huge crossover for all artists working with technolog
 
 Yeah, the Renaissance, one of the highest points in art. Hey, they didn't have a separation of, you know, good commercial and fine, really. But the cream always rises to the top in a way. So that's always an interesting concept, too. But I love your approach with this and what you're saying, because I think technology always gets messy sometimes because it does promote more democracy.
 
-## Colin Goldberg [39:46](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2386s)
+## Unattributed [39:46](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2386s)
 
-It's true. And you know, when it comes to art, you know, I think it's important to say that art is not just about the art. You know, it's funny because when I was in grad school, the undergrad students major was called digital art. And the grad students, it was called computer art because the faculty didn't make the transition yet in terms of the nomenclature. You know, we were still computer art and the undergrad students were digital art. And most of them didn't care at all about hanging something on a wall. They just want to get a job at Pixar or make the next Grand Theft Auto.
+It's true.
+
+## Colin Goldberg [39:47](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2387s)
+
+And you know, when it comes to art, you know, I think it's important to say that art is not just about the art. You know, it's funny because when I was in grad school, the undergrad students major was called digital art. And the grad students, it was called computer art because the faculty didn't make the transition yet in terms of the nomenclature. You know, we were still computer art and the undergrad students were digital art. And most of them didn't care at all about hanging something on a wall. They just want to get a job at Pixar or make the next Grand Theft Auto.
 
 ## Roz Dimon [40:17](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2417s)
 

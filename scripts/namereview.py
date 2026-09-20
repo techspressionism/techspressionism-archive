@@ -207,6 +207,14 @@ def pick_clips(turns, voice):
                 chosen.append((a, b))
             if len(chosen) == CLIPS_PER_VOICE:
                 break
+    if not chosen:                                    # a voice that never speaks for 5 s at a stretch: use its longest short turns, overlap or not
+        short = sorted(((e - s, s, e) for s, e, v in turns if v == voice and e - s >= 1.0), reverse=True)
+        for length, s, e in short:
+            a, b = max(0, s - 0.3), e + 0.3
+            if all(abs(a - c[0]) > 20 for c in chosen):
+                chosen.append((a, b))
+            if len(chosen) == CLIPS_PER_VOICE:
+                break
     return sorted(chosen)
 
 

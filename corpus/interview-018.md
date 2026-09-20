@@ -43,9 +43,13 @@ If it was Hollywood, though, they're the Hollywood types, right? But I mean, yea
 
 But still, right? So this already set that platform for this, this, how people are different, this geography, this and this thinking that is in even within our own country, geography. You know, as I look back, it was a great experience for the work I do now. So it wasn't until college that I decided that art found me. And then I decided I was very much in the sciences and thought I would pursue chemistry. School and college was really hard. I wasn't good at executive functioning, all those things. People- hyper artistry. And I didn't know what this might go through. And what captivated me about art at this time, I had, there was no art in the school in Las Vegas in the middle school or high school.
 
-## Roz Dimon [05:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=306s)
+## Unattributed [05:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=306s)
 
-Now were you in Los Angeles? Where were you?
+Now were you in Los Angeles?
+
+## Roz Dimon [05:08](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=308s)
+
+Where were you?
 
 ## Randi Matushevitz [05:09](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=309s)
 
@@ -55,7 +59,7 @@ I was in Las Vegas.
 
 Oh, I'm sorry. I think I confused that. So when you said 250,000
 
-## Randi Matushevitz [05:16](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=316s)
+## Unattributed [05:16](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=316s)
 
 Or- That's Las Vegas.
 
@@ -79,7 +83,7 @@ Oh, so you did switch into art you made this take art drawing classes like as an
 
 You continued in art. I continued in art.
 
-## Roz Dimon [07:20](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=440s)
+## Unattributed [07:20](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=440s)
 
 Oh, yeah.
 
@@ -117,7 +121,7 @@ How recently did you start a digital? Like, it's been a, how long, when did you 
 
 May, June? Wow.
 
-## Roz Dimon [10:00](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=600s)
+## Unattributed [10:00](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=600s)
 
 April, May, June? Wow.
 
@@ -149,7 +153,7 @@ Sounds like that was almost very strongly from a conceptual point of view.
 
 Very much. I'm sorry I'm not showing those. They are on my website. That's fine. If people want to go look. Which is okay.
 
-## Roz Dimon [11:41](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=701s)
+## Unattributed [11:41](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=701s)
 
 That's fine. I'm just.
 
@@ -173,7 +177,7 @@ Don't go too fast because we want to actually, we actually want to see these. An
 
 I'm just really quick because it's just. Go to the beginning. Yeah. I'll go slow. So here. It's a lot to look at. It is. As often my work is a lot to look at. Each painting is a lot to look at. And this show really was well received and really launched me here. It was at the Los Angeles Art Association, which is a lot of places, like a place where a lot of emerging artists are new to the city because emerging isn't about age, right? Right. And I'm new to Los Angeles.
 
-## Roz Dimon [13:32](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=812s)
+## Unattributed [13:32](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=812s)
 
 Absolutely. Yes.
 
@@ -229,7 +233,15 @@ And how important is the. Installation itself compared to the pieces. I mean, is
 
 I should only have that problem. I would love for them to be together as the story with the music. But in this case, no, I sold the pieces. Yeah. Installation. Is an experience. And I love that. It's not often someone's going to buy an installation. Right. But I enjoy presenting in an installation. And here even I'm going back. This is that very long one where you were looking for the story. And, you know, of course I'm. I'm referencing.
 
-Different hand gestures and heads and. You know, real dystopic work. It was. And I was. I was thinking about this. This was right before term. Or I guess Trump was already here. But it was. That homelessness was growing and. And I was just feeling that we were losing our sensibilities in the U S like. Yes. My own generation. Why is the. Average income out of university, the same as it was. All those years ago. You know? And it's so here's another. Sense of the space. It was a very small room. It was. I think it was 13 by 13. And it was
+Different hand gestures and heads and. You know, real dystopic work. It was. And I was. I was thinking about this. This was right before term. Or I guess Trump was already here. But it was. That homelessness was growing and. And I was just feeling that we were losing our sensibilities in the U S like. Yes. My own generation. Why is the. Average income out of university, the same as it was. All those years ago.
+
+## Unattributed [17:12](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1032s)
+
+You know?
+
+## Randi Matushevitz [17:13](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1033s)
+
+And it's so here's another. Sense of the space. It was a very small room. It was. I think it was 13 by 13. And it was
 
 ## Roz Dimon [17:22](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1042s)
 
@@ -267,7 +279,7 @@ Concrete building. It's like a building. Like a particle of a building. Like, I 
 
 If you move on and I'll just go back here because you see here, even though I'm telling these stories, which goes onto. Other bodies of work that we won't be discussing here, but the faces. I was having a conversation with the curator. And at that time, I'm going to be doing this. I'm a gallerist who took my work to a art show, which culminated in ugly portraits. He said, why don't you take a break?
 
-## Roz Dimon [19:52](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1192s)
+## Unattributed [19:52](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1192s)
 
 For years.
 
@@ -285,11 +297,27 @@ Sure. And he deals with big faces. I was looking at Marlene. And all these peopl
 
 ## Roz Dimon [20:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1248s)
 
-Very expressive. No, I love the kind of dystopian darkness in these pieces. That's, they're strange. I mean, they're really strange and original, which is what originally captivated me about your work. Thank you. I mean, originality is strange. It's always strange, because we really haven't seen that.
+Very expressive. No, I love the kind of dystopian darkness in these pieces. That's, they're strange. I mean, they're really strange and original, which is what originally captivated me about your work. Thank you.
+
+## Unattributed [21:01](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1261s)
+
+I mean, originality is strange.
+
+## Roz Dimon [21:03](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1263s)
+
+It's always strange, because we really haven't seen that.
 
 ## Randi Matushevitz [21:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1266s)
 
-Well, and people think I'm painting crazy people, but maybe I'm just painting the crazy moments within all of us. Oh, yeah. And it's not popular to show this. You know, it's hard to, I do have a few precious collectors, but it's hard to get people to stop and look at them. Some people get like really, you know, beside themselves, because they're uncomfortable, but they're meant to be. But at the same time, this lives in London right now. The man who bought this, he just says, this image talks to him. Whenever he's in that room. And that's what he loves about it. Because he didn't see this. These are, what are these? These are oil and canvas, and they're about 20 by 20 on average, inches. So they're, and for me, the faces need to be intimate and raw.
+Well, and people think I'm painting crazy people, but maybe I'm just painting the crazy moments within all of us.
+
+## Unattributed [21:12](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1272s)
+
+Oh, yeah.
+
+## Randi Matushevitz [21:12](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1272s)
+
+And it's not popular to show this. You know, it's hard to, I do have a few precious collectors, but it's hard to get people to stop and look at them. Some people get like really, you know, beside themselves, because they're uncomfortable, but they're meant to be. But at the same time, this lives in London right now. The man who bought this, he just says, this image talks to him. Whenever he's in that room. And that's what he loves about it. Because he didn't see this. These are, what are these? These are oil and canvas, and they're about 20 by 20 on average, inches. So they're, and for me, the faces need to be intimate and raw.
 
 And you could just see getting into expressionism in the face. You know, the point of the conversation was with the cure, he's like, you know, I look at everything. I look at the story. That's great, but I want to know more about the people. So here, this is how that started. So here we have ugly portraits where I was going for the wear and tear of daily life. This one's, you know, a hard one for people to swallow, but she's
 
@@ -315,9 +343,15 @@ It doesn't have to be New York City. It can be almost anywhere. People are fasci
 
 ## Randi Matushevitz [23:10](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1390s)
 
-I agree. And this is my, and so this is the, my inspiration. So the person you see on the bus waiting for the bus, because I'm- It's so emotional. They're wonderful. Thank you. These are 2019. So again, 2018, 2019. And then this work was, this is the one collected at the Museum of Art and History in Lancaster.
+I agree. And this is my, and so this is the, my inspiration. So the person you see on the bus waiting for the bus, because I'm- It's so emotional.
 
-And by this time I was learning more control over the oil, but I, and, but I still loved that rich, rich texture from the drawing. And here's me.
+## Unattributed [23:19](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1399s)
+
+They're wonderful.
+
+## Randi Matushevitz [23:21](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1401s)
+
+Thank you. These are 2019. So again, 2018, 2019. And then this work was, this is the one collected at the Museum of Art and History in Lancaster. And by this time I was learning more control over the oil, but I, and, but I still loved that rich, rich texture from the drawing. And here's me.
 
 ## Roz Dimon [23:40](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1420s)
 
@@ -361,7 +395,7 @@ I relate to that. Cause sometimes I don't know whether to call something a paint
 
 Well, I'll call it a painting, but it's not like I'm doing my background in the big shapes and moving. I mean, I've learned to control some of that because in the last few years, I was, my hands were itching. I don't know if other artists have problems with materials and I was getting headaches. So I learned how to paint solvent free.
 
-## Roz Dimon [26:26](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1586s)
+## Unattributed [26:26](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1586s)
 
 I took a class. Oh yeah.
 
@@ -413,7 +447,7 @@ But they're also sort of the ubermensch, or every man and every woman. I mean, c
 
 Right. And it's that. French use of clowns, which I am not an expert in, but during this time I was thinking about, I was reading Julia Christopher, I was reading, I was looking, I was looking at Bacon, and I was trying to really have a mastery of painting.
 
-## Roz Dimon [30:21](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1821s)
+## Unattributed [30:21](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1821s)
 
 I can see how you like Bacon.
 
@@ -447,7 +481,7 @@ A lot of you must have had that aha moment when it said oh did it recognize as a
 
 Couldn't believe it I mean I couldn't believe it so this here we'll let this play why we talk and and this will this is a collection of some of these are nfts some of them are just the clips you know where you end so I move the face the patterns in the original painting and I'm controlling the expression and I added sparkle so though these are part of some of the original headspace paintings I just had shown a few and that here I started to add layers so it's a painting and then different screen layers and this is the color in each so I know they're going to add layers because they're short they're all like six seconds but you get the essence now I'm playing with all the digital effects and um and I'm just and it's starting what happened all of a sudden this this desire to paint a feeling an emotion to make a portrait of an emotion that hopefully humans will connect to because we are familiar with feelings right that will make us kinder to each other because we're all equally as important like we're all preaching it but let's live it right and and that's where you know some of those and it's just going to start again for a second come from and now you see the paintings as I see them because the faces I'm painting change I don't know who they're going to be when I start and I'm not sure who they're going to be when I'm done and I choose to make the pattern move like with that one so you know there's um I started doing some longer versions of these and and this is Queenie I showed you her painting earlier yeah
 
-## Roz Dimon [35:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2106s)
+## Unattributed [35:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2106s)
 
 What are the titles does
 
@@ -481,7 +515,7 @@ In your life and I'm suppressing that what's going on in your life and I'm suppr
 
 And nothing I did was stereotypical. So that culminates in Quaft, which again was shown on the Helms building where you could see my technique. And now I'm showing multiple faces at once. It's our headspace. We're multiple people at once. We take breaks. We dream off. Things are processing. And that's the whole point of going through. Sorry, honey.
 
-## Roz Dimon [38:55](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2335s)
+## Unattributed [38:55](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2335s)
 
 Don't talk to me now.
 
@@ -541,7 +575,7 @@ Remember that um as a spiritual seeker myself I mean I I you know I was raised E
 
 Who don't believe but believe in a humanistic philosophy it's
 
-## Roz Dimon [45:45](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2745s)
+## Unattributed [45:45](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2745s)
 
 A hundred
 
@@ -563,7 +597,15 @@ What even when we die the journey's not done I'm not sure for being here I under
 
 ## Randi Matushevitz [46:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2808s)
 
-It is I'm just gonna let this one play while we're talking finishing because this is a lighter one see it's called aquarium but what's she sure uh-huh does it loop do you have your pieces they they usually loop this one's not looped I just threw it in here to share it usually I do I think this one might be looped the videos are are looped I just for this presentation I didn't want them to go on forever and ever you know oh
+It is I'm just gonna let this one play while we're talking finishing because this is a lighter one see it's called aquarium but
+
+## Unattributed [46:58](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2818s)
+
+What's she sure uh-huh
+
+## Randi Matushevitz [47:00](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2820s)
+
+Does it loop do you have your pieces they they usually loop this one's not looped I just threw it in here to share it usually I do I think this one might be looped the videos are are looped I just for this presentation I didn't want them to go on forever and ever you know oh
 
 ## Roz Dimon [47:16](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2836s)
 
@@ -605,13 +647,9 @@ I think the art that's being shown is not just you know it's like I just use tec
 
 Like watching NFTs there I had seen hardly anything that looks cartoony or or just like for a quick sorry to say it this way nobody's doing a quick trick everybody has a pursuit based in their personal uh interest
 
-## Roz Dimon [50:28](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3028s)
+## Unattributed [50:28](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3028s)
 
-Their
-
-## Randi Matushevitz [50:29](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3029s)
-
-Personal journey
+Their personal journey
 
 ## Roz Dimon [50:30](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3030s)
 

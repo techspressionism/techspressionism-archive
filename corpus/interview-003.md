@@ -83,7 +83,7 @@ Um, oh I did want to say, Michael I'm kind of going backward but I'm looking at 
 
 Which I did these portraits of people I painted portraits. And this is about 36 by 24, it's so this is of my mother, any Mitchell diamond di mo n by the way. And this
 
-## Michael Pierre Price [07:03](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=423s)
+## Unattributed [07:03](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=423s)
 
 Is about 36 by 24, it's so this is of my mother, any Mitchell diamond di mo n by the way. Yes.
 
@@ -91,7 +91,7 @@ Is about 36 by 24, it's so this is of my mother, any Mitchell diamond di mo n by
 
 Um, well people always think it's diamond, like a jewel. Um,
 
-## Michael Pierre Price [07:08](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=428s)
+## Unattributed [07:08](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=428s)
 
 Well people always think it's diamond, like a jewel. Okay.
 
@@ -117,7 +117,7 @@ So what, what prompted you to get in your VW Beetle to drive to New York City? W
 
 You know, I was just, I was, I was walking faster and talking faster now that I was out of the box, you know, and I, New York had always been in my mind since almost the beginning of my years in training when I decided, you know, at the Lamar Dodd School of Art, I went, I've got to get to New York. And I knew I didn't quite, I didn't fit in the South really, you know, it's, it's a part of me. I, yes, I do say y'all sometimes just to freak everybody out a little bit, but, you know, I just, it was pulling and I knew the South wasn't where I just wasn't going to stay.
 
-## Michael Pierre Price [09:26](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=566s)
+## Unattributed [09:26](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=566s)
 
 Yeah. Okay.
 
@@ -239,7 +239,7 @@ I know. And this is an early show at Burns Fine Art. Friend of mine, Jane Scott 
 
 Things were, I was featured in Forbes magazine. I went with David Hockney and some others. And I went rushing out of course to what am I offered for this floppy disk? And they interviewed one of my collectors, Jonathan Pardee. And, and he said, really it's about the trust of the artists. Like they said, what's to make you trust someone where they make this file that they can repeat millions of times, even then, you know the commerce part of it interested Forbes.
 
-## Michael Pierre Price [23:53](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=1433s)
+## Unattributed [23:53](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=1433s)
 
 Right.
 
@@ -305,7 +305,7 @@ And it should be acknowledged as such. Absolutely. We should put a value on it, 
 
 And it was so new and we were learning it together. And that's what's so wonderful when you're in a, in a medium that is growing at a certain pace. I kind of feel like we're there again. I think expressionism has a very nice openness about it. And, and you know, otherwise the arts can get into an ego contest really quickly. Sure. And I have one too, and I'm always wrestling with it. But I must say at that time, the techies who were there and who were, they go, now look, when you plug this in, this happens. And I, I go, oh, how cool. And, and, you know, I, you know, my husband once said to me, he said, you know, now that you know how woofers and tweeters work, he said, you're not going to respect me anymore. Yes, I will. But, but you know what? It was wonderful in that way.
 
-## Michael Pierre Price [29:39](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=1779s)
+## Unattributed [29:39](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=1779s)
 
 And they
 
@@ -345,7 +345,7 @@ So I went home at night and I made this. I made this painting that measures like
 
 Intelligent agent. Which was run by Patrick lifting. Who's part of our group and one of the founders. Oh, yeah. No founders. He actually was, you know, early on a real player, huge player. And this is the first issue of intelligent agent also co-produced with him with Christian Paul, who is the adjunct curator of digital media at the Whitney for many years. Amazing woman as well. And beyond the zero is about the world's greatest bar chart. And I dug this up recently because it's really fun to look back. And I mean, it wasn't like this was online at the time.
 
-## Michael Pierre Price [35:29](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2129s)
+## Unattributed [35:29](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2129s)
 
 Right.
 
@@ -433,7 +433,7 @@ I'm going to turn the sound off, which you can do you have rights to do. And aga
 
 Because I mean even that look at that one little couple of inches of this piece it's it's very hard to figure out what you're doing here. You can see the sheep and the children's toys and the roof and the I mean tons of things at once.
 
-## Michael Pierre Price [46:43](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2803s)
+## Unattributed [46:43](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2803s)
 
 Right.
 
@@ -471,7 +471,7 @@ These aren't that big there, but they're, you know, close. Some of them are clos
 
 I'm going to do this a second. This is a little recording of me and my process. I'm looking at a collection call on one screen and I'm painting it on the other. I live in this box, you know, it's it's become like a home so I work pretty fast. This is the most recent they add me if you want, you know, it says Like, what are you doing now. I just the first time I ever Michael this is My I'm curious how you respond to this, but this is the first time I ever loaded my paintbrush with other people's work.
 
-## Michael Pierre Price [50:13](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3013s)
+## Unattributed [50:13](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3013s)
 
 Oh, really.
 
@@ -487,7 +487,7 @@ That is so cool and made this piece.
 
 Thank you. I mean, some people see it on my website go, God, you know, I don't know. Ross's art is really changed, you know, You don't hear this. You don't know really what it's about. But, you know, That'd be fun to have a surprise. You go inside it and it's all the their, their pictures and their voices and and all their stuff and they're so excited to be part of me. I'm helping them raise funds by selling posters and You know artists have real power in this medium.
 
-## Michael Pierre Price [51:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3090s)
+## Unattributed [51:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3090s)
 
 Yes.
 
@@ -497,7 +497,15 @@ You know, and they they supported me and boy I'm supporting them. I'm People lov
 
 ## Michael Pierre Price [51:45](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3105s)
 
-Yes, yes, yes. Yeah, that's what's going on here. This is like you being a composer. You know, your aesthetic as the as the composing force to bring up bring all the kids artwork together.
+Yes, yes, yes.
+
+## Unattributed [51:46](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3106s)
+
+Yeah, that's what's going on here.
+
+## Michael Pierre Price [51:48](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3108s)
+
+This is like you being a composer. You know, your aesthetic as the as the composing force to bring up bring all the kids artwork together.
 
 ## Roz Dimon [51:59](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3119s)
 
@@ -517,7 +525,7 @@ And code going on is just it's intense. It's so intense and art story, which is 
 
 So I said, I need it for my next portrait, which I think will look something like this. And I guess I can end on that. But This is what my portrait. I mean, this is where we are, you know,
 
-## Michael Pierre Price [54:25](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3265s)
+## Unattributed [54:25](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3265s)
 
 Here.
 
@@ -563,7 +571,7 @@ I don't even, I go, Colin, I said, or Davo, could you, please say that again? Yo
 
 You know, I, I think the AI and the immersive stuff going on is, is sort of where I've been going with my paintings, but I don't think I want to go into that. I, I really like just keeping the painting, maybe doing it. I want to have a touch, a little bit of a screen where you can go inside the paintings. That's the next thing I want to do. But, you know, I was at a conference at Yale last summer. I was honored to be there, but most of the people were with unity and had on their, you know, Odyssey and
 
-## Michael Pierre Price [58:10](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3490s)
+## Unattributed [58:10](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3490s)
 
 It
 
@@ -571,7 +579,7 @@ It
 
 Was an immersive conference and gaming, but they invited me because they love the concept of, wow, she has a painting that people are going inside. So I was honored to be there. And I think we are on a wave, a second strong wave of, of coming up and where all of a sudden the galleries, I mean, it's been very hard to be, as people have said to be in this industry, so many doors have closed. I mean, I've had some wonderful things lately and throughout my life, but, you know, the typical gallery circuit, if I said digital, that's very threatening to them and well, it should be. Cause you know what? We're the next big thing. And I've thought so for years, along with beyond video in a way, I mean, just something one more thing I can load in this brush. One more thing.
 
-## Michael Pierre Price [58:57](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3537s)
+## Unattributed [58:57](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3537s)
 
 There's no, there's
 
@@ -609,7 +617,7 @@ I had nothing to say as usual.
 
 All right.
 
-## Roz Dimon [01:00:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3630s)
+## Unattributed [01:00:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3630s)
 
 I have to say, I want to interview you too, though.
 

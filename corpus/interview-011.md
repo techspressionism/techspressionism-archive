@@ -47,7 +47,7 @@ Were you there when Greg Little was there?
 
 Yeah. Actually, no, no, Greg was before me, but I know Greg from, we were colleagues, well, his wife and I were colleagues at Oberlin and he, he teaches a course, I thought it was at the Kent State. I don't know. I think it was at the Kent State, one of the Kent State Annex universities or something, but.
 
-## Colin Goldberg [04:25](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=265s)
+## Unattributed [04:25](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=265s)
 
 Well, he was the graduate advisor for both myself and Patrick. Yeah, I knew that. And I thought that you know him, so that's really
 
@@ -101,15 +101,27 @@ And
 
 Then sort of going more towards the establishment side like I saw in your wikipedia page that you had shown in the whitney like can you tell me a little bit about that that work and
 
+## Unattributed [15:05](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=905s)
+
+How you
+
 ## Michael Rees [15:05](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=905s)
 
-How you ended up there well that was uh you know that was uh 1994 and uh I had done I had done a sort of a show with uh lisa spelman at 303 and that was this very um kind of very art the povera kind of work and stuff it was kind of very casual in a way it it you know it was definitely all about language and it was definitely all about um um you know also about the hand and about the art of art and I think it was I think it was I think it was I think it was about sort of the evolution of something over time, you know, things changing. And the whole show, I forget, I don't think I had a title. I think the show might've been called Untitled or something like that, but it had all kinds of pieces in it, like Doobie Doobie Doo and Caduceus. And sorry, I forget. I'm forgetting the name of one of the pieces.
+Ended up there well that was uh you know that was uh 1994 and uh I had done I had done a sort of a show with uh lisa spelman at 303 and that was this very um kind of very art the povera kind of work and stuff it was kind of very casual in a way it it you know it was definitely all about language and it was definitely all about um um you know also about the hand and about the art of art and I think it was I think it was I think it was I think it was about sort of the evolution of something over time, you know, things changing. And the whole show, I forget, I don't think I had a title. I think the show might've been called Untitled or something like that, but it had all kinds of pieces in it, like Doobie Doobie Doo and Caduceus. And sorry, I forget. I'm forgetting the name of one of the pieces.
 
 But, you know, some of the, one of those pieces is the collection of the Whitney Museum, et cetera. But it was kind of about, it was an early attempt to kind of deal with the construction of male, of masculinity, right? The masculine thing. And so the sort of rubric or the question was something about doing and being, right? And the finger represented a kind of a doing and the, you know, the penis, a kind of being. So the pieces were all made of fingers and penises, right? Caduceus was, these two huge, you know, I could even get a couple of pictures of those up. They were really odd. You know, I couldn't actually believe that.
 
 ## Colin Goldberg [16:47](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1007s)
 
-Let me give you, let me, I think I need to give you some sort of co-host privilege to share screen in one sec. I probably should have done that ahead of time. No problem. All right. Now it's your turn.
+Let me give you, let me, I think I need to give you some sort of co-host privilege to share screen in one sec. I probably should have done that ahead of time.
+
+## Unattributed [16:56](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1016s)
+
+No problem.
+
+## Colin Goldberg [17:00](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1020s)
+
+All right. Now it's your turn.
 
 ## Michael Rees [17:06](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1026s)
 
@@ -119,7 +131,7 @@ Let's see now. I wasn't really thinking that I'd end up talking about this, but 
 
 I don't see your screen. I don't know if you need to.
 
-## Michael Rees [17:28](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1048s)
+## Unattributed [17:28](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1048s)
 
 Oh, I haven't shared.
 
@@ -131,7 +143,7 @@ Oh, you didn't share it yet. Okay, gotcha. Yeah. I mean, whatever you want to, w
 
 Here's one of them. This was a piece called, and, you know, you can see how casual they were. They were steel studs. You know, I worked with the, and then these wires, and then there were plasticine clay pieces out on the edge and stuff like that. Now I'm having a hard time finding this, finding that works offhand because I really wasn't prepared to talk about these pieces.
 
-## Colin Goldberg [18:03](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1083s)
+## Unattributed [18:03](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1083s)
 
 Gotcha. Sorry. I kind of like, I just pulled that out of the hat, but I thought that was. That was really an interesting.
 
@@ -153,7 +165,7 @@ I'm not, well, dumpsters and clouds.
 
 Okay.
 
-## Michael Rees [19:11](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1151s)
+## Unattributed [19:11](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1151s)
 
 I'm not going to find it.
 
@@ -169,13 +181,9 @@ I mean, it does, it, it, it is important. Right. And, you know, I'll just go to 
 
 Gotcha. And that's just.
 
-## Michael Rees [19:28](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1168s)
+## Unattributed [19:28](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1168s)
 
-Yeah, here it is. Right here on my website.
-
-## Colin Goldberg [19:30](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1170s)
-
-Wouldn't you think I'd be better than that? Okay. There you go. Yeah.
+Yeah, here it is. Right here on my website. Wouldn't you think I'd be better than that? Okay. There you go. Yeah.
 
 ## Michael Rees [19:33](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1173s)
 
@@ -191,7 +199,7 @@ They were finger pieces to you live like downtown in that kind of area like down
 
 Yeah, I lived in I bounced in and out of New York. Right. So I lived on. I lived on 14th Street between B and C, and I lived there since like my brother got that apartment and like, I don't know, maybe 1977 or something like that. And we sort of kept it in the family for a while. He had it, I had it, we rented it out. We did this that in Stuyvesant town or is that a little bit?
 
-## Colin Goldberg [21:40](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1300s)
+## Unattributed [21:40](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1300s)
 
 Yeah,
 
@@ -221,7 +229,11 @@ This is like 2002 to 2008 or maybe even 2010. And you know, it's working a lot o
 
 ## Colin Goldberg [24:04](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1444s)
 
-When did you start working with like, you know, render like 3D rendering and basically like when did technology or computer technology kind of come into your practice? Yeah. How did that happen?
+When did you start working with like, you know, render like 3D rendering and basically like when did technology or computer technology kind of come into your practice? Yeah.
+
+## Unattributed [24:13](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1453s)
+
+How did that happen?
 
 ## Michael Rees [24:14](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1454s)
 
@@ -261,9 +273,13 @@ That's exactly right. And then but, you know, to me, again, the the interest was
 
 And that's a physical is that a physical?
 
-## Michael Rees [28:38](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1718s)
+## Unattributed [28:38](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1718s)
 
-Yeah, that's a sculpture. Yeah, that's a wow. That's incredible. Eighteen feet tall from the foot to the top of the fingers.
+Yeah, that's a sculpture. Yeah, that's a wow. That's incredible.
+
+## Michael Rees [28:42](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1722s)
+
+Eighteen feet tall from the foot to the top of the fingers.
 
 ## Colin Goldberg [28:46](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=1726s)
 
@@ -345,7 +361,7 @@ I, visual essays is too literal too. Who is that one in the red background? That
 
 I mean, this orange one right here in the middle is Francis Bacon.
 
-## Colin Goldberg [40:19](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2419s)
+## Unattributed [40:19](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2419s)
 
 Okay. Yeah, yeah, yeah.
 
@@ -363,13 +379,21 @@ And, you know, I'm just kind of, again, examining things that are of interest to
 
 And then, you know, at the same time, growing together different parts of my work. This work on the left was from that period of 303 that I showed you with earlier. And I did these performance photographs and stuff. And the piece on the right being, you know, kind of also a kind of a dancer, a performative space. There was always an animation and a physical sculpture and a performative space. And so I was dealing with those different ranges and trying to, you know, I don't know, being an artist about it, just being in my studio, putting this next to that, next to that, and imagining, you know, possibilities, imagining places to be, imagining ways to work, you know? So these are all examples of different versions of that stuff, you know? So anyway, it's kind of fun for me to look back on that.
 
-I don't often show this very much anymore. So, you know, but that's definitely part of, you know, my growth and my development. Also, you know, in the 80s, in the 90s, I'm sorry, in the 90s, I got really interested in these pieces. I mean, we're just going on down memory lane here. This was the Ajna series. And, you know, it was very inspired. I mean, look at these. I don't know, you know, I'm always a little hesitant to say it. But look, for me, this image is extraordinary. I love this. It's beautiful. And what's incredible about it is it reminds me a little bit of something that's always been kind of near and dear to my heart, which is, I don't know if you remember the Kafka, the penal colony, right? And in the penal colony, the engineer who is going to fix the machine because it's misbehaving and all this stuff, and he pulls out a drawing.
+I don't often show this very much anymore. So, you know, but that's definitely part of, you know, my growth and my development. Also, you know, in the 80s, in the 90s, I'm sorry, in the 90s, I got really interested in these pieces. I mean, we're just going on down memory lane here. This was the Ajna series. And, you know, it was very inspired. I mean, look at these.
 
-And the drawing is described in the text. And it's an incredible text, right? Beautifully written. But the lines are so dense that you can't understand. You can't understand anything unless you have extreme expertise. And so this kind of reminds me of that penal colony moment and all of the things that implies. But at the same time, you can make things out. You can make shadows of things out. And you can kind of, and again, these are works of imagination. This is kind of an imaginary anatomy.
+## Unattributed [42:12](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2532s)
+
+I don't
+
+## Michael Rees [42:13](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2533s)
+
+Know, you know, I'm always a little hesitant to say it. But look, for me, this image is extraordinary. I love this. It's beautiful. And what's incredible about it is it reminds me a little bit of something that's always been kind of near and dear to my heart, which is, I don't know if you remember the Kafka, the penal colony, right? And in the penal colony, the engineer who is going to fix the machine because it's misbehaving and all this stuff, and he pulls out a drawing. And the drawing is described in the text. And it's an incredible text, right? Beautifully written.
+
+But the lines are so dense that you can't understand. You can't understand anything unless you have extreme expertise. And so this kind of reminds me of that penal colony moment and all of the things that implies. But at the same time, you can make things out. You can make shadows of things out. And you can kind of, and again, these are works of imagination. This is kind of an imaginary anatomy.
 
 But it coincides. I mean, all these works, I want to say. All these works have rich layers that are associated with it. And I sometimes am not very good at getting to all the layers. But this work is being developed at the same time that the Visible Human Project is being developed.
 
-## Colin Goldberg [43:32](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2612s)
+## Unattributed [43:32](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2612s)
 
 And that was one of
 
@@ -383,11 +407,15 @@ And they were very said, you know, in the pain and in the anguish. And you know,
 
 I had the CD-ROM, I think, where you could go through the slices. And, you know, I remember that CD-ROM.
 
-## Michael Rees [44:33](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2673s)
+## Unattributed [44:33](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2673s)
 
-It's like another relic. But I loved thinking also about, you know, Leonardo, as brilliant as he was and the invention of the, you know, the invention of sort of empirical observation. I mean, I loved all the stories. I I loved, you know, Titian doing those, you know, those drawings. I'm forgetting the names of them right now. You know, the character, the body exposed holding the skin. And Titian did the drawings of the first anatomy book by Vesalius, right? Vesalius was the first anatomy book. I think I got that right. And, you know, they were, I loved all the stories. I loved imagining a time when bodies, which usually were put to the grave, were now all of a sudden in scientific laboratories and people were risking their lives to study how we are, what we are. And just what a tremendous moment that was.
+It's like another relic.
 
-And then at the same time to see this Leonardo drawing, Leonardo, you know, kind of doing empirical observation, you know, really like an important moment in the modern history. And I think that's what I'm most proud of. The modern experience, what became the modern experience. And knowing that he got things wrong because he drew them according to the beliefs of the day, right? He drew the male and the female reproductive system, for example, according to what they thought, how they thought it worked. And he was wrong. It wasn't correct. He didn't have enough knowledge. And so I thought that was amazing to have a masterpiece by an artist, an artist sort of enacting this empirical aspect.
+## Michael Rees [44:35](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2675s)
+
+But I loved thinking also about, you know, Leonardo, as brilliant as he was and the invention of the, you know, the invention of sort of empirical observation. I mean, I loved all the stories. I I loved, you know, Titian doing those, you know, those drawings. I'm forgetting the names of them right now. You know, the character, the body exposed holding the skin. And Titian did the drawings of the first anatomy book by Vesalius, right? Vesalius was the first anatomy book. I think I got that right. And, you know, they were, I loved all the stories. I loved imagining a time when bodies, which usually were put to the grave, were now all of a sudden in scientific laboratories and people were risking their lives to study how we are, what we are. And just what a tremendous moment that was. And then at the same time to see this Leonardo drawing, Leonardo, you know, kind of doing empirical observation, you know, really like an important moment in the modern history.
+
+And I think that's what I'm most proud of. The modern experience, what became the modern experience. And knowing that he got things wrong because he drew them according to the beliefs of the day, right? He drew the male and the female reproductive system, for example, according to what they thought, how they thought it worked. And he was wrong. It wasn't correct. He didn't have enough knowledge. And so I thought that was amazing to have a masterpiece by an artist, an artist sort of enacting this empirical aspect.
 
 But also. But to have in the foreground what is put forward to be the perfect representation of the human anatomy. And when it is actually saying that we could easily just as easily be wrong about the functions of things in our body. We don't understand certain things. We still don't understand certain things, although we're able to manipulate them and use them. And so I started to blend a sort of an Eastern or what I imagine to be an Eastern metaphysical anatomy.
 
@@ -395,7 +423,7 @@ With a West. With an Eastern sort of analytic anatomy. Right. And again, in a sp
 
 Missouri, because I could pay $400 a month to live in this loft. And I spent every dime I had on computers. I remember I had the worst diet ever. About three in the afternoon. I used to go get Reese's peanut butter cups and cigarettes and come back and eat them. And that was my that was like that was my lunch.
 
-## Colin Goldberg [47:59](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2879s)
+## Unattributed [47:59](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=2879s)
 
 I was
 
@@ -483,7 +511,7 @@ Oh, there it is. There it is. There it is. Okay. So this might be able to give y
 
 And that was actually quite a fun thing because kids especially. Yeah. People in general would do a lot of play with this. So they pose the pig in a certain place and they get their friend to stand in between the screen and the sculpture and then they would take pictures of it. Right. And then they would laugh hysterically and have a great time. They would, you know, the pig, they put the pig kissing the person or something like that.
 
-## Colin Goldberg [01:01:23](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3683s)
+## Unattributed [01:01:23](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3683s)
 
 Right.
 
@@ -491,7 +519,7 @@ Right.
 
 And that was very much, I mean, I really, this show I wanted to have, you know, the overwhelming, the overwhelming. Arching experience of the show. I wanted it to be joy. I wanted to bring joy to the table. I put this show, it sort of has a cousin or maybe a brother or a sister in the Clowntown show, which was a very political show, which also had augmented reality in it in a very deep way. And I put those two sort of together in part because the Clowntown show had this kind of analytic, heavy quality about. No, I mean, I think it's a very deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, deep, meet through joy let's find commonality and common relationships that we can build on let's stop with the division and and all that sort of stuff so I really tried to do that with this show um you know and I had I I've always been a little bit lucky to have these wonderful experiences I was down during the show and I was hanging out in the show just sort of you know taking care of business or something and I I saw these people and they were walking around with the tablet and they went from piece to piece to piece and I noticed that they had missed something that they didn't use the tablet correctly or something like that and it was a mother and her two children at least I presume and
 
-## Colin Goldberg [01:03:14](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3794s)
+## Unattributed [01:03:14](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3794s)
 
 I went over and I said
 
@@ -503,7 +531,7 @@ You know excuse me but I just want to let you know that there are these other ex
 
 Awesome that's like you know they um they weren't an external observer anymore they were a participant you know and that's something that's pretty rare I think you know in terms of um an artistic you know experience as as a consumer quote unquote of art you know to really feel that um you know yeah I agree with you I totally agree with you so yeah that's a great you know it's a really amazing body of work and um thank
 
-## Michael Rees [01:04:12](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3852s)
+## Unattributed [01:04:12](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3852s)
 
 You very
 
@@ -511,7 +539,7 @@ You very
 
 Much you know uh I I definitely you know I was struck by it when I saw you show it in the in the salon and I think it it actually um you know I was telling you before the interview it you might have seen me I posted about it that afterwards I went and searched for ar apps and in the app store and and when I was hanging out with my six-year-old you know I got her to do to an ar piece by drawing a picture of our cat and then the that was the trigger image you know and then the video was a video of that cat you know
 
-## Michael Rees [01:04:42](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3882s)
+## Unattributed [01:04:42](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3882s)
 
 And then dropped
 
@@ -527,7 +555,7 @@ Mean the first time interesting how creepy how creepy google glass ended up comi
 
 Is straight well
 
-## Michael Rees [01:06:00](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3960s)
+## Unattributed [01:06:00](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=3960s)
 
 I think part of it is
 
@@ -553,9 +581,13 @@ And how the word technology has this pejorative connotation. And part of that wa
 
 And so when I... Their don't be evil motto. I think they started with that in premonition of...
 
-## Michael Rees [01:10:29](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4229s)
+## Unattributed [01:10:29](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4229s)
 
-The capacity for it, right? How evil they were going to become. But, you know, so the thing that I'm kind of trying to get at here a little bit is that technology is a philosophy. It's a philosophy of behavior. You know, it's a philosophy of many different things. And so this notion that the gatekeepers would keep technology away because for some reason... And they do. They try. They have. They have. There haven't been as many. It's starting to happen more and more. As new generations, they live in technology. So there's no question.
+The capacity for it, right?
+
+## Michael Rees [01:10:31](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4231s)
+
+How evil they were going to become. But, you know, so the thing that I'm kind of trying to get at here a little bit is that technology is a philosophy. It's a philosophy of behavior. You know, it's a philosophy of many different things. And so this notion that the gatekeepers would keep technology away because for some reason... And they do. They try. They have. They have. There haven't been as many. It's starting to happen more and more. As new generations, they live in technology. So there's no question.
 
 So the point is, is that technology is big. It's a big thing. It's a philosophy. It's full of attitudes and thoughts and positions and implications that we haven't quite completely thought out. And so to use it in an expressionistic manner, in other words, an intuitive, felt kind of way, is inevitable.
 
@@ -581,7 +613,11 @@ Well, there you go. There's our Joseph Nequital coinage. Right.
 
 ## Colin Goldberg [01:13:49](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4429s)
 
-Or actual. In a nutshell. Sure thing. Yeah. Awesome. Well, you know, thank you so much, Michael, for the interview, for your time. And sharing your work with us. It was really interesting to see some of that earlier work, too. I mean, those wireframe forms and the sculptures are just, you know, mind-boggling. I really enjoy that stuff.
+Or actual. In a nutshell. Sure thing. Yeah. Awesome. Well, you know, thank you so much, Michael, for the interview, for your time. And sharing your work with us. It was really interesting to see some of that earlier work, too. I mean, those wireframe forms and the sculptures are just, you know, mind-boggling.
+
+## Unattributed [01:14:10](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4450s)
+
+I really enjoy that stuff.
 
 ## Michael Rees [01:14:12](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4452s)
 
@@ -591,10 +627,6 @@ Well, Colin, I appreciate you inviting me to do this. And I think that what you'
 
 All right. Thank you, Michael. All right.
 
-## Michael Rees [01:14:24](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4464s)
+## Unattributed [01:14:24](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4464s)
 
-Have a great day. Take care. Bye-bye.
-
-## Colin Goldberg [01:14:26](https://www.youtube.com/watch?v=nGPCwUZj9fs&t=4466s)
-
-Bye-bye.
+Have a great day. Take care. Bye-bye. Bye-bye.

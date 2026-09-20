@@ -1,0 +1,25 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:14",
+      "fingerprint": "f002f7253f",
+      "name": "Darcy Gerbarg"
+    },
+    "V2": {
+      "at": "2026-09-20 19:14",
+      "fingerprint": "cbc36781b3",
+      "name": "Roz Dimon"
+    },
+    "V3": {
+      "at": "2026-09-20 19:17",
+      "fingerprint": "2d59e471a7",
+      "name": ""
+    },
+    "V4": {
+      "at": "2026-09-20 19:19",
+      "fingerprint": "3b2337ef20",
+      "name": ""
+    }
+  }
+}

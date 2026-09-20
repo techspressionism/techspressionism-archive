@@ -23,19 +23,29 @@ languages: ["en"]
 
 ## Patrick Lichty [00:02](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2s)
 
-Hello, today's April 14th, 2021. My name is Patrick Lichty, and I'm here today with Gregory Little, who's in Oberlin, Ohio, and he is a mixed media artist, digital artist, painter, sculptor, and so on. Is that accurate? Sure. Yeah. Okay. Fair enough. So, welcome to Techspressionism. Yeah, totally. Exactly.
+Hello, today's April 14th, 2021. My name is Patrick Lichty, and I'm here today with Gregory Little, who's in Oberlin, Ohio, and he is a mixed media artist, digital artist, painter, sculptor, and so on. Is that accurate? Sure. Yeah. Okay. Fair enough. So, welcome to
 
-So, well, let's just dive into it. So, tell the audience about yourself. You know, it's like, now this is interesting. I know where you were born, you know, and so, and where you're now, you were born in Indiana.
+## Unattributed [00:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=38s)
+
+Techspressionism.
+
+## Patrick Lichty [00:39](https://www.youtube.com/watch?v=m6ca8UoF49M&t=39s)
+
+Yeah, totally. Exactly. So, well, let's just dive into it. So, tell the audience about yourself. You know, it's like, now this is interesting. I know where you were born, you know, and so, and where you're now, you were born in Indiana.
 
 ## Gregory Little [00:56](https://www.youtube.com/watch?v=m6ca8UoF49M&t=56s)
 
 I was born in Indiana.
 
-## Patrick Lichty [00:57](https://www.youtube.com/watch?v=m6ca8UoF49M&t=57s)
+## Unattributed [00:57](https://www.youtube.com/watch?v=m6ca8UoF49M&t=57s)
 
-You were born in Indiana. Everyone's favorite. My favorite state, right? Exactly. So, what are your culture influences? You know, where, you know, and where are you living and working now and all that sort of thing? Where are you born? Where are you now? What's your culture influences? Okay. Cultural influences.
+You were born in Indiana. Everyone's favorite.
 
-## Gregory Little [01:16](https://www.youtube.com/watch?v=m6ca8UoF49M&t=76s)
+## Patrick Lichty [01:00](https://www.youtube.com/watch?v=m6ca8UoF49M&t=60s)
+
+My favorite state, right? Exactly. So, what are your culture influences? You know, where, you know, and where are you living and working now and all that sort of thing? Where are you born? Where are you now? What's your culture influences? Okay. Cultural influences.
+
+## Unattributed [01:16](https://www.youtube.com/watch?v=m6ca8UoF49M&t=76s)
 
 So, I was born in a small
 
@@ -63,7 +73,15 @@ And always interested in expressionism,
 
 ## Gregory Little [03:41](https://www.youtube.com/watch?v=m6ca8UoF49M&t=221s)
 
-Which is part of what brings me to technical expressionism. Yeah, exactly. I spent my undergraduate days trying to outpaint the Kooning, which was quite a challenge. Who hasn't? Yeah, right? That's what we all did. I was... I was a 17th generation abstract expressionist, right? And let's see. So that's the background from...
+Which is part of what brings me to technical expressionism.
+
+## Unattributed [03:44](https://www.youtube.com/watch?v=m6ca8UoF49M&t=224s)
+
+Yeah, exactly.
+
+## Gregory Little [03:45](https://www.youtube.com/watch?v=m6ca8UoF49M&t=225s)
+
+I spent my undergraduate days trying to outpaint the Kooning, which was quite a challenge. Who hasn't? Yeah, right? That's what we all did. I was... I was a 17th generation abstract expressionist, right? And let's see. So that's the background from...
 
 ## Patrick Lichty [04:06](https://www.youtube.com/watch?v=m6ca8UoF49M&t=246s)
 
@@ -81,19 +99,15 @@ And so it was just part of me. It was never... It wasn't a choice. Yeah. The onl
 
 What... What... The question is... The question is... Is it an oval rally or sprint? Grand Prix. Oh, okay. Well, there you go.
 
-## Gregory Little [05:30](https://www.youtube.com/watch?v=m6ca8UoF49M&t=330s)
+## Unattributed [05:30](https://www.youtube.com/watch?v=m6ca8UoF49M&t=330s)
 
-Well, if you're going to do it that...
-
-## Patrick Lichty [05:31](https://www.youtube.com/watch?v=m6ca8UoF49M&t=331s)
-
-That would have been all right. Yeah.
+Well, if you're going to do it that... That would have been all right. Yeah.
 
 ## Gregory Little [05:33](https://www.youtube.com/watch?v=m6ca8UoF49M&t=333s)
 
 Grand Prix. But, yeah, I didn't do that. But, yeah, it was not a choice, Patrick. There was nothing epiphanous about it. It was...
 
-## Patrick Lichty [05:41](https://www.youtube.com/watch?v=m6ca8UoF49M&t=341s)
+## Unattributed [05:41](https://www.youtube.com/watch?v=m6ca8UoF49M&t=341s)
 
 All right.
 
@@ -113,7 +127,7 @@ That became part of my ego and it became, oh, yeah, give it to him. He can draw 
 
 Yeah, we need a... We need a picture of the cat on the wall. So, it's like...
 
-## Gregory Little [06:00](https://www.youtube.com/watch?v=m6ca8UoF49M&t=360s)
+## Unattributed [06:00](https://www.youtube.com/watch?v=m6ca8UoF49M&t=360s)
 
 Can you do that? Yeah, exactly.
 
@@ -129,7 +143,7 @@ Oh, now. Sure. I draw a lot. A lot of my influence comes from science. Okay. Spe
 
 Sure. Sure. Sure. This is a little side thing. Is that... Have you seen the bit about the new discovery about the muon wobble and how that might... Yes. You know, might redefine
 
-## Gregory Little [07:47](https://www.youtube.com/watch?v=m6ca8UoF49M&t=467s)
+## Unattributed [07:47](https://www.youtube.com/watch?v=m6ca8UoF49M&t=467s)
 
 Physics?
 
@@ -159,7 +173,15 @@ Yeah. But, yeah. So... But, yes, I think it's cool.
 
 ## Patrick Lichty [08:23](https://www.youtube.com/watch?v=m6ca8UoF49M&t=503s)
 
-Yeah. I mean, the thing is, I'm just wondering... Then what does it mean symbolically to us as human beings? In other words, is that, you know, does the universe wobble and gyrate in ways that we have no idea about now?
+Yeah.
+
+## Unattributed [08:24](https://www.youtube.com/watch?v=m6ca8UoF49M&t=504s)
+
+I mean, the thing is, I'm just wondering...
+
+## Patrick Lichty [08:26](https://www.youtube.com/watch?v=m6ca8UoF49M&t=506s)
+
+Then what does it mean symbolically to us as human beings? In other words, is that, you know, does the universe wobble and gyrate in ways that we have no idea about now?
 
 ## Gregory Little [08:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=518s)
 
@@ -169,11 +191,15 @@ The perfect notion just completely destroyed by Higgs is another fascinating thi
 
 ## Patrick Lichty [09:02](https://www.youtube.com/watch?v=m6ca8UoF49M&t=542s)
 
-Yeah, yeah. It's like, you know, how do you see green if you're a cat? Yes. That's right.
+Yeah, yeah. It's like, you know, how do you see green if you're a cat? Yes.
 
-## Gregory Little [09:06](https://www.youtube.com/watch?v=m6ca8UoF49M&t=546s)
+## Unattributed [09:05](https://www.youtube.com/watch?v=m6ca8UoF49M&t=545s)
 
-Is the refrigerator... Is the light on in the refrigerator when the door is closed? Yeah, exactly.
+That's right. Is the refrigerator...
+
+## Gregory Little [09:07](https://www.youtube.com/watch?v=m6ca8UoF49M&t=547s)
+
+Is the light on in the refrigerator when the door is closed? Yeah, exactly.
 
 ## Patrick Lichty [09:11](https://www.youtube.com/watch?v=m6ca8UoF49M&t=551s)
 
@@ -215,7 +241,7 @@ Yeah, yeah. And the other thing is that I might add in there is that, I mean, yo
 
 Yeah. I mean, I would support that. I think that the mention of alchemy these days makes me cringe a little bit because it's so... I mean, everyone's into alchemy these days, right? Yeah.
 
-## Patrick Lichty [13:26](https://www.youtube.com/watch?v=m6ca8UoF49M&t=806s)
+## Unattributed [13:26](https://www.youtube.com/watch?v=m6ca8UoF49M&t=806s)
 
 Yeah, yeah.
 
@@ -223,9 +249,13 @@ Yeah, yeah.
 
 But, you know, I just totally see your point. Yeah. It was much more literally involved, I guess, or... Yeah. Yeah, literally involved in alchemy years ago.
 
-## Patrick Lichty [13:40](https://www.youtube.com/watch?v=m6ca8UoF49M&t=820s)
+## Unattributed [13:40](https://www.youtube.com/watch?v=m6ca8UoF49M&t=820s)
 
-Yeah, I think that rather than the popular conception of it now is just maybe the metaphorical conception of it as the notion of transformation and transmutation of... Transmutation, yeah, exactly.
+Yeah, I think that rather
+
+## Patrick Lichty [13:43](https://www.youtube.com/watch?v=m6ca8UoF49M&t=823s)
+
+Than the popular conception of it now is just maybe the metaphorical conception of it as the notion of transformation and transmutation of... Transmutation, yeah, exactly.
 
 ## Gregory Little [13:54](https://www.youtube.com/watch?v=m6ca8UoF49M&t=834s)
 
@@ -233,7 +263,15 @@ Yeah, exactly. You know... When one of the... When one of the elements within th
 
 ## Patrick Lichty [14:01](https://www.youtube.com/watch?v=m6ca8UoF49M&t=841s)
 
-Yeah. Yeah, yeah, yeah. So, I mean, that's kind of like a little bit of a... Genetic algorithm. Yeah, it's kind of a little bit of a deeper read. Yeah. Yeah. So, anyway. So, okay. Well, why don't we... Why don't we... Why don't we take a look at... Some stuff? Yeah, let's take a look at some stuff. And then, you know...
+Yeah. Yeah, yeah, yeah. So, I mean, that's kind of like a little bit of a...
+
+## Unattributed [14:05](https://www.youtube.com/watch?v=m6ca8UoF49M&t=845s)
+
+Genetic algorithm.
+
+## Patrick Lichty [14:06](https://www.youtube.com/watch?v=m6ca8UoF49M&t=846s)
+
+Yeah, it's kind of a little bit of a deeper read. Yeah. Yeah. So, anyway. So, okay. Well, why don't we... Why don't we... Why don't we take a look at... Some stuff? Yeah, let's take a look at some stuff. And then, you know...
 
 ## Gregory Little [14:23](https://www.youtube.com/watch?v=m6ca8UoF49M&t=863s)
 
@@ -247,7 +285,7 @@ Maybe... Well, you know, maybe a little... Maybe a little earlier stuff. And the
 
 Yeah, I've got some stuff. Okay. So, what do I... Let's see. So, I just click on...
 
-## Patrick Lichty [14:40](https://www.youtube.com/watch?v=m6ca8UoF49M&t=880s)
+## Unattributed [14:40](https://www.youtube.com/watch?v=m6ca8UoF49M&t=880s)
 
 So, you just share screen. Yep.
 
@@ -295,7 +333,7 @@ Yeah, yeah. Just a little context. Yep. Okay.
 
 Yeah. Now, this is my studio. I won't show you around that, but... Okay.
 
-## Patrick Lichty [15:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=938s)
+## Unattributed [15:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=938s)
 
 Okay.
 
@@ -473,13 +511,9 @@ Yeah. May, may magically rest in peace at this point. I know exactly. Right. Yea
 
 So I hear the Quest 2 has, hand recognition, just to recognize.
 
-## Patrick Lichty [28:36](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1716s)
+## Unattributed [28:36](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1716s)
 
-It does. It does.
-
-## Gregory Little [28:37](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1717s)
-
-It does.
+It does. It does. It does.
 
 ## Patrick Lichty [28:37](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1717s)
 
@@ -553,7 +587,7 @@ There you go. Well, I got to blame somebody. It's all Cindy's fault. Yeah, there
 
 Yeah. So I can show you what I did was because the things that I'm, most of the things I'm working on right now.
 
-## Patrick Lichty [30:47](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1847s)
+## Unattributed [30:47](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1847s)
 
 Okay.
 
@@ -569,7 +603,7 @@ Okay. And I can kind of talk over these.
 
 Sure.
 
-## Patrick Lichty [30:58](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1858s)
+## Unattributed [30:58](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1858s)
 
 That'd be great.
 
@@ -661,7 +695,7 @@ That's really interesting. Yeah. What was the name of the app?
 
 I don't remember. It's no longer exists.
 
-## Patrick Lichty [33:51](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2031s)
+## Unattributed [33:51](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2031s)
 
 I can't even access the files. Unbelievable.
 
@@ -759,7 +793,7 @@ No, it was like the, the, the central figure. Yeah. As opposed to like the gold,
 
 Well, the central figure is basically represents media intervention. It's a stark black and white thing. Yeah. That as I said earlier, kind of leaks into these worlds.
 
-## Patrick Lichty [38:41](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2321s)
+## Unattributed [38:41](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2321s)
 
 Sure. Sure. Sure. Sure.
 
@@ -793,13 +827,21 @@ Oh, wow. I think it will. What's the future, Greg? Yeah. Right. I know. Yeah. Ye
 
 You'll have like, like with the magic leap, you know, you would have your own magic leap headset, which doesn't exist anymore, but, but I think the Apple glasses will be the same kind of thing. I think it's just gonna, just gonna kind of disappear into us and become completely different. The same thing.
 
-You know, and I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. The questions and notions of presence and changing presence and occupying different presences that that were so um so valuable I think in large-scale vr so so fascinating um and now it's becoming I don't know the the internalization of the media I guess it's uh disappointing to me but that's that's always been where it's kind of inevitable I suppose at the same time but I do look for those places um where where that's not happening as much where um where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with uh with that sort of thing the shoes that you did uh
+You know, and I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right.
+
+## Unattributed [40:43](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2443s)
+
+I think you're right.
+
+## Gregory Little [40:45](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2445s)
+
+The questions and notions of presence and changing presence and occupying different presences that that were so um so valuable I think in large-scale vr so so fascinating um and now it's becoming I don't know the the internalization of the media I guess it's uh disappointing to me but that's that's always been where it's kind of inevitable I suppose at the same time but I do look for those places um where where that's not happening as much where um where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with uh with that sort of thing the shoes that you did uh
 
 ## Patrick Lichty [41:42](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2502s)
 
 The nike shoes that you did oh yeah yeah the one the one set for either yeah the one that was that that had our bite chin which was kind of like child child worker but with the with the german flag colors then the iraqi flag cover yeah
 
-## Gregory Little [41:56](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2516s)
+## Unattributed [41:56](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2516s)
 
 Yeah yeah that kind of
 
@@ -875,7 +917,7 @@ Well, some things, but not in the artwork. All right. So let's hear before we wr
 
 Oh, well, I throw this little guy in. This is a, this is a little, this is a little fun thing I'm having a good time with. I'll just say that. I don't
 
-## Patrick Lichty [45:10](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2710s)
+## Unattributed [45:10](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2710s)
 
 Know if you guys are familiar with this. This is a little loop animation. Oh, that's interesting. Yeah. This is, this is in process.
 
@@ -883,9 +925,13 @@ Know if you guys are familiar with this. This is a little loop animation. Oh, th
 
 Just a little looping animation. Careful.
 
-## Patrick Lichty [45:21](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2721s)
+## Unattributed [45:21](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2721s)
 
-That's almost an NFT. It is.
+That's almost an
+
+## Patrick Lichty [45:23](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2723s)
+
+NFT. It is.
 
 ## Gregory Little [45:25](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2725s)
 
@@ -913,7 +959,7 @@ Mm-hmm.
 
 Yeah.
 
-## Gregory Little [46:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2798s)
+## Unattributed [46:38](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2798s)
 
 You know, which is interesting. Yeah.
 

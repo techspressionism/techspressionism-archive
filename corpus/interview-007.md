@@ -49,7 +49,7 @@ I was born in northwest Indiana, Hammond, Indiana. It's situated right between G
 
 It was someplace that I knew that I didn't want to like stay there for the rest of my life. But yeah, that's so that that's kind of where I grew up. I currently live in Phoenix, Arizona, which is a very different landscape. Sure.
 
-## Roz Dimon [04:44](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=284s)
+## Unattributed [04:44](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=284s)
 
 Yeah.
 
@@ -59,9 +59,17 @@ So I've been here for about six years now. My wife and I moved out here because 
 
 ## Roz Dimon [04:58](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=298s)
 
-I'm going to close my door. I'm going to interrupt you because. Yeah, sure. Technology. They're cars, even though I'm kind of.
+I'm going to close my door.
 
-## Michael Pierre Price [05:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=304s)
+## Unattributed [05:00](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=300s)
+
+I'm going to interrupt you because. Yeah, sure.
+
+## Roz Dimon [05:01](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=301s)
+
+Technology. They're cars, even though I'm kind of.
+
+## Unattributed [05:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=304s)
 
 Oh, okay. All right. Close the. No problem. One sec.
 
@@ -75,7 +83,7 @@ About six years now. And. The desert landscape is just gorgeous. Yeah. It's just
 
 Outside of Northwest Indiana. That is. Yeah.
 
-## Roz Dimon [05:48](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=348s)
+## Unattributed [05:48](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=348s)
 
 And.
 
@@ -85,9 +93,13 @@ So, yeah, so that's where I am right now. In terms of influences. I would say my
 
 It's not like today. Definitely very different. And they. She was very, very French because she was born in the south of France. So is my mom. And so I grew up, I grew up bilingual. So I grew up learning French and English. Oh, maybe. Yeah.
 
-## Roz Dimon [06:47](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=407s)
+## Unattributed [06:47](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=407s)
 
-We, we. So.
+We, we.
+
+## Roz Dimon [06:49](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=409s)
+
+So.
 
 ## Michael Pierre Price [06:50](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=410s)
 
@@ -133,7 +145,7 @@ So I got a degree from Purdue in physics and then I went on to do three years of
 
 About that you're sure you're such a creative person and you get into the math of things because you also you know I guess I don't know if it has anything to do with logic or why things work or why I
 
-## Michael Pierre Price [10:26](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=626s)
+## Unattributed [10:26](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=626s)
 
 Get operate
 
@@ -141,7 +153,7 @@ Get operate
 
 Did you were you totally entranced as a creative person taking going through your I mean there's always drudgery and anything we do even in our classes you know you have to do things and do things
 
-## Michael Pierre Price [10:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=636s)
+## Unattributed [10:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=636s)
 
 Over
 
@@ -149,7 +161,7 @@ Over
 
 And over but I wonder were you were you creatively involved in this in a way that really occupied
 
-## Michael Pierre Price [10:42](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=642s)
+## Unattributed [10:42](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=642s)
 
 You
 
@@ -177,11 +189,23 @@ You know the world of games which you know I'm not I'm not really I was always s
 
 Younger brother Patrick and I loved to play games and we ended up having more fun creating our own game was very beneficial to me I'm not you know I think the benefits of technology today are great but I also see a downside at times like I remember when in the in the the 60s when the space race was on, my brother and I, we had walkie talkies and we had a large moving box in the basement that we cut out a hole and we pretended that each one of us, we took turns being in the capsule going to the moon and the other person, the other walkie talkie was mission control.
 
-How great. It's like how cats play with boxes and you try to buy them toys and they end up playing with the wrapping instead. I think that all children have an imaginative spirit and how they harness and marshal it and how it gets beat down. And I think that the way we're trying to get kids down on kids oftentimes is I think not only the challenging of parenting but society as well. Totally agree. And especially in our modern world, we tend to ridicule what we call failure.
+## Unattributed [15:30](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=930s)
 
-And you know as an artist and I know as an artist, if you don't experiment and you don't try something that you don't know how it's going to turn out, failures end up being what we call failure. And so I think that's one of the ways that we learn.
+How great.
 
-## Roz Dimon [16:27](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=987s)
+## Michael Pierre Price [15:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=932s)
+
+It's like how cats play with boxes and you try to buy them toys and they end up playing with the wrapping instead. I think that all children have an imaginative spirit and how they harness and marshal it and how it gets beat down. And I think that the way we're trying to get kids down on kids oftentimes is I think not only the challenging of parenting but society as well.
+
+## Unattributed [16:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=964s)
+
+Totally agree.
+
+## Michael Pierre Price [16:06](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=966s)
+
+And especially in our modern world, we tend to ridicule what we call failure. And you know as an artist and I know as an artist, if you don't experiment and you don't try something that you don't know how it's going to turn out, failures end up being what we call failure. And so I think that's one of the ways that we learn.
+
+## Unattributed [16:27](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=987s)
 
 Oh, totally. Yes.
 
@@ -191,7 +215,11 @@ I know I'm getting off track here a bit.
 
 ## Roz Dimon [16:31](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=991s)
 
-Well, you and I could talk about just about anything. One thing I do want to think about is at what point you might want to, because it's so interesting to listen to you, would it make sense to maybe go on the screen to talk more about your work and your process or is it too early? Do you want to talk a little more about games before that?
+Well, you and I could talk about just about anything. One thing I do want to think about is at what point you might want to, because it's so interesting to listen to you, would it make sense to maybe go on the screen to talk more about your work and your process or is it too early?
+
+## Unattributed [16:48](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1008s)
+
+Do you want to talk a little more about games before that?
 
 ## Michael Pierre Price [16:51](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1011s)
 
@@ -207,7 +235,7 @@ Oh, thanks. So for me, the game industry, I began in low tech games with role pl
 
 And it's the inputs that the players have amongst each other that creates this ongoing never ending story. And it was really wild when I was at TSR working on Dungeons and Dragons and other role playing games. This was at a time, this was in the early 80s from...
 
-## Roz Dimon [17:51](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1071s)
+## Unattributed [17:51](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1071s)
 
 Where were you then? Where were you?
 
@@ -229,11 +257,13 @@ No, this is paper and pencil games. This is 1980. They were still a pretty small
 
 And were they in Toledo or did you go somewhere else?
 
-## Michael Pierre Price [18:44](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1124s)
+## Unattributed [18:44](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1124s)
 
-No, they were in Lake Geneva, Wisconsin. Just a little bit north of Chicago. About an hour or so north of Chicago. Their claim to fame, other than being where all the wealthy Chicagoans would have summer homes, there was a Playboy club up in Lake Geneva as well. Oh, geez. So, yeah, during the winter, it was a population of about 6,000.
+No, they were in Lake Geneva, Wisconsin.
 
-During the summer, it would double or more because all the people that had lake homes on Lake Geneva would come and, you know...
+## Michael Pierre Price [18:46](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1126s)
+
+Just a little bit north of Chicago. About an hour or so north of Chicago. Their claim to fame, other than being where all the wealthy Chicagoans would have summer homes, there was a Playboy club up in Lake Geneva as well. Oh, geez. So, yeah, during the winter, it was a population of about 6,000. During the summer, it would double or more because all the people that had lake homes on Lake Geneva would come and, you know...
 
 ## Roz Dimon [19:18](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1158s)
 
@@ -287,13 +317,17 @@ Yes. So, home computers were going from very DOS-based, text-based hobbyists to 
 
 ## Roz Dimon [23:16](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1396s)
 
-I think Ridley Scott. Is that right? Ridley Scott? Didn't he do that? Yeah. I think he did that ad. Maybe I'm wrong.
+I think Ridley Scott. Is that right? Ridley Scott? Didn't he do that? Yeah. I think he did that ad.
+
+## Unattributed [23:22](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1402s)
+
+Maybe I'm wrong.
 
 ## Michael Pierre Price [23:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1403s)
 
 You know, you might be right. I don't remember now. No big deal.
 
-## Roz Dimon [23:27](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1407s)
+## Unattributed [23:27](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1407s)
 
 I'd have to look it up. Let's keep going on the theories. This is fascinating.
 
@@ -303,7 +337,7 @@ Yeah. But TSR saw the possibility of using computers as an adjunct to help do a 
 
 And I quickly realized that to do anything.
 
-## Roz Dimon [24:22](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1462s)
+## Unattributed [24:22](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1462s)
 
 Are we still in the 80s?
 
@@ -319,7 +353,7 @@ Yeah. Wow.
 
 Yeah.
 
-## Roz Dimon [24:34](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1474s)
+## Unattributed [24:34](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1474s)
 
 That's when we all started seeing. I was working on a TR. That always became the graphics.
 
@@ -329,13 +363,17 @@ A trash 80. You know? That's the computer I was working on. It was all DOS based
 
 ## Roz Dimon [24:47](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1487s)
 
-It's still the programming. It's just becoming more into the new language of visuals. Yeah.
+It's still the programming. It's just becoming more into the new language of visuals.
+
+## Unattributed [24:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1492s)
+
+Yeah.
 
 ## Michael Pierre Price [24:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1492s)
 
 So, that was my first real introduction to working with computers other than as a word processing mechanism. But actually looking at. Yeah. What computers could do. In a gaming as a game setting. Unfortunately. The rapid growth that TSR could not be sustained. The people running the company, they ran into some really big financial problems.
 
-## Roz Dimon [25:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1532s)
+## Unattributed [25:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1532s)
 
 So they unload.
 
@@ -343,7 +381,7 @@ So they unload.
 
 They unloaded in 1983. There were like three big waves of layoffs. I got caught in I think the third wave. I left there. A couple people I knew. Who had left on their own. Had gone to work. For Coleco. And they were working on video games. And at that point, my only introduction to video games. Was in the arcade craze. You know, all the arcades that were around the country where you'd go. Either to stand up my computer or to play games. Or you'd sit down and sit down. The sit down machines or the sit down.
 
-## Roz Dimon [26:10](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1570s)
+## Unattributed [26:10](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1570s)
 
 Exactly.
 
@@ -355,11 +393,11 @@ By. One person that I had worked with that I re you know, that. That was the sup
 
 Worked on lots and lots of. Computer games at that. Well, video games, I should say. At that point. A lot different than the video game and computer game industry has evolved into over time. And unfortunately there was a big crash in 85. And. Coleco went from a huge. Advanced research and development. Wing of the company.
 
-Because this was a novel thing for them. They had. Coleco stands for Connecticut leather company. That was. You know, the shortening. Of the company name. Up until. When they. Delved into video games. They had been doing like those tabletop hockey games, you know, with the rod, you know? Yeah, that they were.
+Because this was a novel thing for them. They had. Coleco stands for Connecticut leather company. That was. You know, the shortening. Of the company name. Up until. When they. Delved into video games. They had been doing like those tabletop hockey games, you know, with the rod, you know?
 
-## Roz Dimon [28:18](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1698s)
+## Unattributed [28:16](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1696s)
 
-Yeah, exactly.
+Yeah, that they were. Yeah, exactly.
 
 ## Michael Pierre Price [28:19](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=1699s)
 
@@ -415,7 +453,15 @@ And yet it was fascinating. It reflected the digital world that was coming. I me
 
 ## Michael Pierre Price [36:19](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2179s)
 
-Yeah. But the dot com crash killed our company. Because we were in Louisville, Kentucky, and not in California. We did not have the close relationships that we needed to survive. We had a deal with Mattel, Mattel broke their whole games division and decided they just wanted to be a licensing company. We had a deal with Hasbro Interactive. They got bought off by a French company called Infogrames. Our deal with Hasbro International went down the tubes. And we just didn't have the financial enterpatings to keep the company afloat for the length of time to chase the money that we needed to chase. So that was the hardest part of my life, was trying to make a company still solvent.
+Yeah. But the dot com crash killed our company.
+
+## Unattributed [36:26](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2186s)
+
+Because we were in Louisville, Kentucky, and not in California.
+
+## Michael Pierre Price [36:30](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2190s)
+
+We did not have the close relationships that we needed to survive. We had a deal with Mattel, Mattel broke their whole games division and decided they just wanted to be a licensing company. We had a deal with Hasbro Interactive. They got bought off by a French company called Infogrames. Our deal with Hasbro International went down the tubes. And we just didn't have the financial enterpatings to keep the company afloat for the length of time to chase the money that we needed to chase. So that was the hardest part of my life, was trying to make a company still solvent.
 
 For a year, myself, the two other programmers who started the company, we did not take a salary so we could pay the people in our company. Yeah. It wasn't, it just wasn't enough. Yeah. So we had to close shop in 2001. And that was devastating. For me, that was really devastating, because I, you know, other people were really- I'm going to say something.
 
@@ -437,9 +483,13 @@ Right.
 
 Because I don't like doing the same thing over and over again. I want to break new ground. I always want to break. And that's for me personally. Once I've done something and I feel like, oh, I've really explored this really deeply now, it's time to go on and do something else. I might take what I've learned from that, but I don't want to keep doing the same thing. Oh, you know, I don't want to be a one-trick pony. I find that what the lessons learned, I need to move on. Yeah. Yeah. Yeah. Yeah. I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do,
 
-## Roz Dimon [40:25](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2425s)
+## Unattributed [40:25](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2425s)
 
-I do, I do yeah and you have to decide which price you want to pay you know and
+I do,
+
+## Roz Dimon [40:28](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2428s)
+
+I do yeah and you have to decide which price you want to pay you know and
 
 ## Michael Pierre Price [40:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2432s)
 
@@ -449,7 +499,7 @@ I never you know so mid 50s so I never I never thought that I would be
 
 An artist other than in the I love it I mean the definition to me of an artist is someone who doesn't who can't stay in a box you
 
-## Michael Pierre Price [40:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2452s)
+## Unattributed [40:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2452s)
 
 Know and
 
@@ -457,7 +507,7 @@ Know and
 
 It's become a business and of course we all like to eat I mean
 
-## Michael Pierre Price [40:55](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2455s)
+## Unattributed [40:55](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2455s)
 
 Yeah I
 
@@ -465,7 +515,7 @@ Yeah I
 
 Love it so I'm not anti-business but I hear you you do have to make decisions at a point of like it to go outside the box uh you know there's
 
-## Michael Pierre Price [41:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2464s)
+## Unattributed [41:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2464s)
 
 A price
 
@@ -587,13 +637,17 @@ I'm fascinated see I get the big concepts but you know I'm not the scientist lik
 
 ## Michael Pierre Price [55:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3317s)
 
-We zoom in and now we're we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're we're in we're in the narrow region let me start to zoom out here so we're in we we focused in on the narrow region of the the and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+We zoom in and now we're we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're we're in we're in the narrow region let me start to zoom out here so we're in we we focused in on the narrow region of the the and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+## Unattributed [56:02](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3362s)
+
+The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
 
 ## Roz Dimon [56:05](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3365s)
 
 The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the is very important um you know to me I've always understood something about that when you look in deeply that it's it's replicating the same you know
 
-## Michael Pierre Price [56:16](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3376s)
+## Unattributed [56:16](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3376s)
 
 I don't know if people are understanding but
 
@@ -631,7 +685,11 @@ That's my that's my thing about about fractals so where does that where does tha
 
 ## Roz Dimon [01:03:40](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3820s)
 
-And is this whole thing created by you yes mathematical programs or well
+And is this whole thing created by you yes mathematical programs
+
+## Unattributed [01:03:46](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3826s)
+
+Or well
 
 ## Michael Pierre Price [01:03:49](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3829s)
 
@@ -679,7 +737,15 @@ But I wanted to show- No, we have a little time.
 
 Okay. I wanted to show a few distinct pieces of my actual art based on all this. So I'm getting around to it. So in 2018, I applied for a artist call for a show that was called The Art of the Cosmos. It was an international show that was tied to or it was going to be tied to the 30 year anniversary of the launch of the Hubble telescope.
 
-So I did a very abstract piece as my, one of the things that I wanted to submit to them, very abstract in nature, but to me tied in very well. So these are three different fractal pieces in an overall triptych that I call, The Enigma of the Cosmos. It's beautiful. The piece on the left here is The Enigma of the Cosmos,
+So I did a very abstract piece as my, one of the things that I wanted to submit to them, very abstract in nature, but to me tied in very well. So these are three different fractal pieces in an overall triptych that I call, The Enigma of the Cosmos.
+
+## Unattributed [01:06:56](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4016s)
+
+It's beautiful.
+
+## Michael Pierre Price [01:06:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4017s)
+
+The piece on the left here is The Enigma of the Cosmos,
 
 ## Roz Dimon [01:07:06](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4026s)
 
@@ -693,11 +759,15 @@ Or, and this is the center panel for the mind and the right panel here is the pa
 
 And is it meant to be together as one? Yes.
 
-## Michael Pierre Price [01:07:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4056s)
+## Unattributed [01:07:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4056s)
 
-Wow, that's interesting. So this is the actual piece for the physical plane. It has an equation down here that deals with the amount of matter in the universe based on some very, you know, deep physics here. But I love the spiral nature here for the spiral galaxies, but it's also the spiral in the shells that we see.
+Wow, that's interesting.
 
-## Roz Dimon [01:08:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4093s)
+## Michael Pierre Price [01:07:37](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4057s)
+
+So this is the actual piece for the physical plane. It has an equation down here that deals with the amount of matter in the universe based on some very, you know, deep physics here. But I love the spiral nature here for the spiral galaxies, but it's also the spiral in the shells that we see.
+
+## Unattributed [01:08:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4093s)
 
 Of course, yeah.
 
@@ -725,7 +795,11 @@ It has kind of a Dalai quality to it. But it's a fractal. It's a fractal based o
 
 ## Roz Dimon [01:10:19](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4219s)
 
-Really? Really? Yeah, this is helpful.
+Really? Really?
+
+## Unattributed [01:10:20](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4220s)
+
+Yeah, this is helpful.
 
 ## Michael Pierre Price [01:10:21](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4221s)
 
@@ -735,7 +809,7 @@ That created this. So if you look at it, I'm zooming in on the piece here. So we
 
 Oh my goodness. This is so important to see this part.
 
-## Michael Pierre Price [01:10:53](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4253s)
+## Unattributed [01:10:53](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4253s)
 
 Yes.
 
@@ -763,7 +837,7 @@ Yes.
 
 But at a macroscopic level, it's so this is the thing. This is kind of like, I told people working with fractals is like trying to, to rein in a bunch of wild horse, you know, like if you're, if you're a stage coach driver and your, your stage coach is running, you know, or if you're a chariot driver, you know, you're trying to maintain the horses, So the level the colors are stored up built in on one level that you can play around with it. But it's not the same as if I went in and brushed in the colors I can do some brushing yeah which I do but it's on a very very small scale so you learn to do these things over time it's It's like if you're an airbrush artists and You learn How you do different techniques of of how the nozzle works and what kind of you know you block part
 
-## Roz Dimon [01:12:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4343s)
+## Unattributed [01:12:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4343s)
 
 Of
 
@@ -801,7 +875,7 @@ Yes.
 
 That's the thing. That's where a lot of this is lost. And that's why I think having an interview series for Techspressionism is so important. Yes. Now I will say there's a three o'clock thing going on with Colin today at the- That's right.
 
-## Michael Pierre Price [01:15:18](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4518s)
+## Unattributed [01:15:18](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4518s)
 
 I'm attending.
 
@@ -833,7 +907,7 @@ Are they all done in this, this process overall that you've been talking about? 
 
 It, there, I have two distinct pro, well, three distinct processes. If it's one of the highly mathematical algorithmic based, based processes, it'll start either in a practical program or it'll start with a deep learning process, which is another process. And again, I don't want it. That's fine. It's interesting, but I don't want to get too deep into that. Yeah.
 
-## Roz Dimon [01:17:21](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4641s)
+## Unattributed [01:17:21](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4641s)
 
 Okay.
 
@@ -857,7 +931,7 @@ There's a couple of ants down here that are both on the underside or on the top 
 
 The ants are the creatures that led the Hopi from previous incarnations of the world in the
 
-## Roz Dimon [01:21:46](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4906s)
+## Unattributed [01:21:46](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4906s)
 
 World. How interesting.
 
@@ -891,7 +965,7 @@ And do you take... Is this something you'll observe? Are you going to set this o
 
 It's going to be the layout in the gallery. It's going to be the layout in the gallery. It's going to be laid out so that you have to start either walking around in a circular or counterclockwise way.
 
-## Roz Dimon [01:24:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5064s)
+## Unattributed [01:24:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5064s)
 
 This feels a little like game storytelling.
 
@@ -919,13 +993,9 @@ Dali is the burning giraffes that Dali had in a number of his works. I had to pa
 
 I don't know if it's going to work or not. I really have no idea. But to me that's the challenge for this. Right. I want the work for people just to look at and say, oh, wow. This is very interesting. So I want the integrity of the work for each piece to stand on its own. But there are going to be threads that tie them all together. And for me, I love that. As an artist, I love.
 
-## Roz Dimon [01:26:55](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5215s)
+## Unattributed [01:26:55](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5215s)
 
-That's a wonderful challenge for you.
-
-## Michael Pierre Price [01:26:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5217s)
-
-Yeah.
+That's a wonderful challenge for you. Yeah.
 
 ## Roz Dimon [01:26:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5217s)
 
@@ -1005,7 +1075,7 @@ Physicists and some scientists have are already saying that the universe behaves
 
 We can put beings into that universe that can act autonomously independently, they can live there. At that point, how much do those beings think they're real? So is it?
 
-## Roz Dimon [01:35:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5713s)
+## Unattributed [01:35:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5713s)
 
 Is it too much?
 

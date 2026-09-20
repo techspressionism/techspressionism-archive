@@ -621,6 +621,10 @@ def _voice_fingerprint(turns, voice):
     return hashlib.sha1(json.dumps(mine[:40]).encode()).hexdigest()[:10]
 
 
+OVERLAP_MIN = 0.12     # seconds of a word's 0.35 s window that two voices must share to count as overlapping speech
+OVERLAP_SHARE = 0.5    # a stretch of words is left Unattributed when at least this share of its words is overlapped speech
+
+
 def voice_boundaries(session, words):
     """[(start_seconds, name or None)] for a Whisper transcript, from the voices Stage 3d
     separated and the names a person confirmed in NameReview (data/voice-names/<slug>.json).
@@ -655,7 +659,17 @@ def voice_boundaries(session, words):
                 best = (key, v)
         return best[1] if best else None
 
+    def overlapped(t0):
+        """True when two or more voices are speaking at once around this word (each for 0.12 s or more of its 0.35 s)."""
+        i, seen = bisect_right(starts, t0) - 1, set()
+        for k in range(max(i - 25, 0), min(i + 6, len(turns))):
+            s, e, v = turns[k]
+            if min(e, t0 + 0.35) - max(s, t0) >= OVERLAP_MIN:
+                seen.add(v)
+        return len(seen) >= 2
+
     per_word = [names.get(voice_at(w["start"])) for w in words]
+    overlap_word = [overlapped(w["start"]) for w in words]
     ends = lambda j: words[j - 1]["text"].rstrip("\"'”’)").endswith((".", "!", "?"))
     turn_start = lambda j: j == 0 or ends(j) or words[j]["start"] - words[j - 1]["start"] >= 1.0
     cuts = []
@@ -667,6 +681,8 @@ def voice_boundaries(session, words):
     out = []
     for a, b in zip(starts_i, starts_i[1:] + [len(words)]):
         who = max(Counter(per_word[a:b]).items(), key=lambda kv: kv[1])[0]
+        if who is not None and sum(overlap_word[a:b]) >= OVERLAP_SHARE * (b - a):
+            who = None          # colin, 20 Sept 2026: where voices speak over each other the words are left Unattributed, not guessed
         if not out or out[-1][1] != who:
             out.append((words[a]["start"], who))
     return out

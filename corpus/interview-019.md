@@ -169,7 +169,13 @@ I'm so glad you're sharing this. This is so important. It's great you share. I w
 
 ## Malavika Mandal Andrew [13:26](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=806s)
 
-Oh, go ahead. Yeah. Yeah. So during our graduation and masters, we learn about all the different techniques of textile designing. Definitely the designing was more important than the technical part. Technical part is to know about when I'm doing some kind of development, so I should know the limitations. I should know the technical background, where and how it will be getting printed or woven.
+Oh, go ahead. Yeah. Yeah. So during our graduation and masters, we learn about all the different techniques of textile designing. Definitely the designing was more important than the technical part. Technical part is to know about when I'm doing some kind of development, so I should know the limitations. I should know the technical background, where and how it will be getting printed
+
+## Unattributed [13:53](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=833s)
+
+Or woven.
+
+## Malavika Mandal Andrew [13:55](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=835s)
 
 So- Was
 
@@ -239,7 +245,7 @@ Yeah, but there is a difference between my mom and my father of at least 10 year
 
 And I present, these are, I mean maybe one year back she did some of them and I have taken some photograph of those one year not as a three years because pandemic, I didn't meet them.
 
-## Roz Dimon [17:33](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1053s)
+## Unattributed [17:33](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1053s)
 
 These are your mother. These are your mother's.
 
@@ -259,7 +265,11 @@ Definitely I mean for that much time she's out of her pain you know you cannot m
 
 ## Roz Dimon [18:27](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1107s)
 
-Oh, and the art is helping her with her pain okay I didn't I didn't I don't know. Yeah, I understood now I get a thing.
+Oh, and the art is helping her with her pain okay I didn't I didn't I don't know.
+
+## Unattributed [18:31](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1111s)
+
+Yeah, I understood now I get a thing.
 
 ## Malavika Mandal Andrew [18:33](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1113s)
 
@@ -297,9 +307,13 @@ If you don't, I'm going to afterwards when we talk later, I'll give you her name
 
 Maybe, you know, maybe, maybe I know or something, but suddenly I cannot right now.
 
-## Roz Dimon [19:57](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1197s)
+## Unattributed [19:57](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1197s)
 
-Oh, I am. Yes, yes, there's no problem. Not a problem at all. Oh yes. So let's talk about your work.
+Oh, I am.
+
+## Roz Dimon [19:58](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1198s)
+
+Yes, yes, there's no problem. Not a problem at all. Oh yes. So let's talk about your work.
 
 ## Malavika Mandal Andrew [20:04](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1204s)
 
@@ -405,13 +419,9 @@ Yeah, I'm
 
 Going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. And I was like, Yeah, I'm going to do this. Those uh things to learn to know and 2007 when uh due to my some personal issue because I was not conceiving so doctor said that your stress level is too high so I thought of he okay let's take a break now after taking the break it's like you know I mean like what to do now and then again I I started developing small very small miss from six feet I reached to seven eight inch you can say weavings these are seven and eight inch oh so they're small oh you know first those images I have not incorporated but this golden uh with the blueprint that is a little bigger it is uh at least uh maybe 36 inch but this I have developed little later so I started doing that but because I was not continuously on this work so uh to finish to it used to take little time the patience to sit to do it was taking little bit of time and that moment the because I was mixing this print with this weaving the entrance of digital art happened in my life oh wow cool so this is the same thing we can do on the day of the book for an hour we can do it on the day of day of the book we can do it on the day of the book we can do it on the day of the book we can do it on it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book we can do it on the day of the book Srimoyee Mitra, engraving then here on the bottom on the intrinsic 25 extreme on the right side, the down bottom is on a leisure leisure and gravy try to understand continuously I'm using digital development.
 
-## Roz Dimon [30:02](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1802s)
+## Unattributed [30:02](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1802s)
 
-Srimoyee Mitra, is my point.
-
-## Malavika Mandal Andrew [30:03](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1803s)
-
-Srimoyee Mitra, Is I am developing.
+Srimoyee Mitra, is my point. Srimoyee Mitra, Is I am developing.
 
 ## Roz Dimon [30:05](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1805s)
 
@@ -433,13 +443,9 @@ Srimoyee Mitra, Yes, so. Srimoyee Mitra, I mean. Srimoyee Mitra, That this time 
 
 Srimoyee Mitra, Yes.
 
-## Malavika Mandal Andrew [31:30](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1890s)
+## Unattributed [31:30](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1890s)
 
-Srimoyee Mitra, That.
-
-## Roz Dimon [31:31](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1891s)
-
-Srimoyee Mitra, Coming from I know really.
+Srimoyee Mitra, That. Srimoyee Mitra, Coming from I know really.
 
 ## Malavika Mandal Andrew [31:35](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1895s)
 
@@ -499,13 +505,9 @@ Srimoyee Mitra, Even if you see the original world again you'll say oh my God, i
 
 Srimoyee Mitra, yeah that's the thing about seeing. Srimoyee Mitra, Things close up when they're physical I agree that's that's a big difference, but at least we can see them, you know between New York and Mumbai.
 
-## Malavika Mandal Andrew [35:09](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2109s)
+## Unattributed [35:09](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2109s)
 
-Srimoyee Mitra, We definitely. Srimoyee Mitra, Have your work.
-
-## Unattributed [35:13](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2113s)
-
-Srimoyee Mitra, So
+Srimoyee Mitra, We definitely. Srimoyee Mitra, Have your work. Srimoyee Mitra, So
 
 ## Malavika Mandal Andrew [35:15](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2115s)
 
@@ -577,7 +579,7 @@ Malavika Sharan, Oh yeah so curator just mean show them when I was the first per
 
 Srimoyee Mitra, that's great that is a great.
 
-## Malavika Mandal Andrew [41:24](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2484s)
+## Unattributed [41:24](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2484s)
 
 Malavika Sharan, Though. Srimoyee Mitra, And it's all very.
 
@@ -647,7 +649,15 @@ Srimoyee Mitra, Now, are you thinking about the element you talked about the fiv
 
 ## Malavika Mandal Andrew [45:13](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2713s)
 
-Srimoyee Mitra, Yes, yes, yes, very much it is there, and along with that the Mumbai and the unlimited progress is there, so the staircase. Srimoyee Mitra, yeah. Srimoyee Mitra, The staircase you know. Srimoyee Mitra, What is. Srimoyee Mitra, There it's. Srimoyee Mitra, There it's. Srimoyee Mitra, Thank you for understanding.
+Srimoyee Mitra, Yes, yes, yes, very much it is there, and along with that the Mumbai and the unlimited progress is there, so the staircase. Srimoyee Mitra, yeah. Srimoyee Mitra, The staircase you know. Srimoyee Mitra, What is.
+
+## Unattributed [45:25](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2725s)
+
+Srimoyee Mitra, There it's.
+
+## Malavika Mandal Andrew [45:29](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2729s)
+
+Srimoyee Mitra, There it's. Srimoyee Mitra, Thank you for understanding.
 
 ## Roz Dimon [45:32](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2732s)
 
@@ -665,7 +675,7 @@ Srimoyee Mitra, Is it hard to make that out that's currency. Srimoyee Mitra, Yes
 
 Srimoyee Mitra, underneath. Srimoyee Mitra, Underneath the red colors it is there, and even if you see the round on. Srimoyee Mitra, yeah. Srimoyee Mitra, part of me just getting splashed out. Srimoyee Mitra, So those are all all the currencies, I mean all the coins.
 
-## Roz Dimon [46:15](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2775s)
+## Unattributed [46:15](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2775s)
 
 Srimoyee Mitra, Great. Srimoyee Mitra, Great time yeah limited progress yeah there you go.
 
@@ -785,11 +795,17 @@ Srimoyee Mitra, yeah and it. Srimoyee Mitra, reminds me. Srimoyee Mitra, of the 
 
 ## Malavika Mandal Andrew [53:43](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3223s)
 
-Srimoyee Mitra, Yes, so I if I answer one of your question here is it okay. Srimoyee Mitra, That how how you feel that expressionism award has. Srimoyee Mitra, reflected on to me. Srimoyee Mitra, yeah is it. Srimoyee Mitra, yeah so. Srimoyee Mitra, that's, the reason I feel when the when the in the lockdown during the lockdown time I mean it's just started.
+Srimoyee Mitra, Yes, so I if I answer one of your question here is it okay. Srimoyee Mitra, That how how you feel that expressionism award has. Srimoyee Mitra, reflected on to me. Srimoyee Mitra, yeah is it.
 
-Srimoyee Mitra, No it's not started, I will say I think it was December month when I was thinking of okay okay I'm at home, let me try, if I can get any online. Srimoyee Mitra, exhibition some kind of promotion or something to to catch hold of that I was trying to. Srimoyee Mitra, Go. Srimoyee Mitra, Go through all the ads and then I saw this that. Srimoyee Mitra, expressionism ad was there and from there, I saw it was mentioned very nicely it attracted me I mean maybe you'll find funny but. Srimoyee Mitra, You know earlier, also, I used to get these kinds of ads, but I was not putting effort because $30 $40 was not that time possible for me to. Srimoyee Mitra, put on. Srimoyee Mitra, There is no no a surety, you know where it will go and. Srimoyee Mitra, They always ask for physical work so once you are sending God knows it is going to come back or not right so that particular thing when I saw the expressionism ad and they mentioned that you have to tag your work if you feel you are fit for this world.
+## Unattributed [53:57](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3237s)
 
-Srimoyee Mitra, And you have to give explanation and they mentioned key, you can check the link to understand what exactly that expressionism word means.
+Srimoyee Mitra, yeah so.
+
+## Malavika Mandal Andrew [53:59](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3239s)
+
+Srimoyee Mitra, that's, the reason I feel when the when the in the lockdown during the lockdown time I mean it's just started. Srimoyee Mitra, No it's not started, I will say I think it was December month when I was thinking of okay okay I'm at home, let me try, if I can get any online. Srimoyee Mitra, exhibition some kind of promotion or something to to catch hold of that I was trying to. Srimoyee Mitra, Go. Srimoyee Mitra, Go through all the ads and then I saw this that. Srimoyee Mitra, expressionism ad was there and from there, I saw it was mentioned very nicely it attracted me I mean maybe you'll find funny but. Srimoyee Mitra, You know earlier, also, I used to get these kinds of ads, but I was not putting effort because $30 $40 was not that time possible for me to. Srimoyee Mitra, put on.
+
+Srimoyee Mitra, There is no no a surety, you know where it will go and. Srimoyee Mitra, They always ask for physical work so once you are sending God knows it is going to come back or not right so that particular thing when I saw the expressionism ad and they mentioned that you have to tag your work if you feel you are fit for this world. Srimoyee Mitra, And you have to give explanation and they mentioned key, you can check the link to understand what exactly that expressionism word means.
 
 ## Roz Dimon [55:22](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3322s)
 
@@ -819,7 +835,7 @@ Kalimba Sharif, index yeah.
 
 Kalimba Sharif, So it was so nice of him to understand and.
 
-## Roz Dimon [58:01](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3481s)
+## Unattributed [58:01](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3481s)
 
 Kalimba Sharif, Giving.
 
@@ -851,7 +867,7 @@ Kalimba Sharif, that's great well you know design. Kalimba Sharif, Design and ar
 
 Kalimba Sharif, So I started making artists book where each page is connected with the next how our life is also connected with the I'm not finishing in one day, it is not like that, but pages are connected. Kalimba Sharif, From there, what is my thing is already I finished quite a bit now I am taking from that design and with my photography and my, this is my first page. Kalimba Sharif, of drawing, so I am developing now. Kalimba Sharif, This work now here what I want to make again why I'm taking here because Techspressionism word, I have to emphasize here that the zooming then getting all those small details. Kalimba Sharif, You know the irregular drawings sometime I don't feel like leaving that I want to be with that. Yeah.
 
-## Roz Dimon [01:00:46](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3646s)
+## Unattributed [01:00:46](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3646s)
 
 Kalimba Sharif, yeah
 

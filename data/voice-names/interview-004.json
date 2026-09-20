@@ -1,4 +1,25 @@
 {
   "approved_auto": true,
-  "voices": {}
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:09",
+      "fingerprint": "44b3888b00",
+      "name": "Joseph Nechvatal"
+    },
+    "V2": {
+      "at": "2026-09-20 19:09",
+      "fingerprint": "97861a24ad",
+      "name": "Colin Goldberg"
+    },
+    "V3": {
+      "at": "2026-09-20 19:10",
+      "fingerprint": "e960a45d19",
+      "name": "Joseph Nechvatal"
+    },
+    "V4": {
+      "at": "2026-09-20 19:10",
+      "fingerprint": "40cc838741",
+      "name": ""
+    }
+  }
 }

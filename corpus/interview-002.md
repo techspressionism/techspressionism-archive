@@ -245,7 +245,7 @@ Can you hear me now? Testing testing.
 
 I hear you now. So maybe something. Oh, OK. OK, go ahead. I'm going to.
 
-## Colin Goldberg [23:28](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1408s)
+## Unattributed [23:28](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1408s)
 
 Yeah. So that painting.
 
@@ -275,11 +275,15 @@ It's much easier for people, I think, to understand it, to read it as fine art, 
 
 Yeah. So that sort of answer is I was going to ask you, you know, so how do you actually execute them or execute these images or manifest them as physical objects? So that's really interesting to hear. Like, I know that, you know, there are a lot of artists out there that send their work out to be painted like in China or they get turned into rugs by like artisans and stuff. But it's nice to see, you know, somebody who's actually, you know, executing the painting themselves by hand, you know.
 
+## Unattributed [25:39](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1539s)
+
+Yeah.
+
 ## Anne Spalter [25:39](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1539s)
 
-Yeah. I've done drawings based on them as well or trying to combine the different things.
+I've done drawings based on them as well or trying to combine the different things.
 
-## Colin Goldberg [25:45](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1545s)
+## Unattributed [25:45](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1545s)
 
 Huh. That's really interesting.
 
@@ -347,7 +351,7 @@ Like experimental videos and stuff like that when I was in grad school and just 
 
 And then you can share your collection with friends. Very easily. They don't have to come to your. House especially great during the pandemic.
 
-## Colin Goldberg [31:39](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1899s)
+## Unattributed [31:39](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1899s)
 
 Right.
 
@@ -373,7 +377,7 @@ So do you do you create work that's unique? Like, you know, are all of your NFTs
 
 It's been both, but I'd say mostly created for the platform. And actually doing that has influenced. My videos, which all used to be about three minutes long. And now in the show I have up in Boston at Boston Cyber Arts Gallery, I have videos that are like 30 seconds.
 
-## Colin Goldberg [34:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2054s)
+## Unattributed [34:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2054s)
 
 Gotcha.
 
@@ -439,9 +443,13 @@ Oh, wow. Yeah.
 
 So. This is a set of images created. So some of these are still other ones are still available. They go online and they sell out in like five minutes. But so the founder of the site wrote this program that makes this beautiful rainbowy squiggle. And when you buy a piece, you don't know exactly what it will look like.
 
-## Colin Goldberg [39:32](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2372s)
+## Unattributed [39:32](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2372s)
 
-Interesting. It's almost. Like the collector is commissioning the AI to.
+Interesting. It's almost.
+
+## Colin Goldberg [39:33](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2373s)
+
+Like the collector is commissioning the AI to.
 
 ## Anne Spalter [39:38](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2378s)
 
@@ -507,7 +515,7 @@ Yeah. So, it's amazing. He just continues to be creative and experimental. And h
 
 Nice.
 
-## Anne Spalter [44:28](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2668s)
+## Unattributed [44:28](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2668s)
 
 Thank you. Thank you for taking time out of your particular collection.
 
@@ -515,7 +523,7 @@ Thank you. Thank you for taking time out of your particular collection.
 
 Let's see. Let me... I think we covered a bunch of the questions across those screen shares. So, I guess one question is what interests you about Expressionism and sort of how did you come to get involved with it and, you know, like to hear your thoughts on the topic?
 
-## Anne Spalter [44:49](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2689s)
+## Unattributed [44:49](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2689s)
 
 I think you wrote to me on Instagram.
 
@@ -547,9 +555,13 @@ I think we might have covered that with some of the NFT. I'm hoping that that co
 
 And sort of ease of interface and use for people. And I think the pandemic has done that some as well with all the art shows that have been online. And you can see art. You can often even see prices. You don't have to go into a gallery in Chelsea and have someone sort of look at you condescendingly and have to ask for the price list. And then you don't know if it's the real price list. And you have to negotiate. If they don't think you're an important enough collector, they may not sell to you anyway. You know, it's a very bizarre world.
 
-## Colin Goldberg [48:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2894s)
+## Unattributed [48:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2894s)
 
-Oh, and one other thing that I've just thought of. You have work up now at Boston Cyber Arts, right? Yes. Can you tell us a little bit about that project and what's there?
+Oh, and one other thing that I've just thought of.
+
+## Colin Goldberg [48:17](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2897s)
+
+You have work up now at Boston Cyber Arts, right? Yes. Can you tell us a little bit about that project and what's there?
 
 ## Anne Spalter [48:26](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2906s)
 

@@ -1,0 +1,20 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:13",
+      "fingerprint": "b1959a9901",
+      "name": "Cee Moses"
+    },
+    "V2": {
+      "at": "2026-09-20 19:14",
+      "fingerprint": "15b2d98098",
+      "name": "Davonte Bradley"
+    },
+    "V3": {
+      "at": "2026-09-20 19:14",
+      "fingerprint": "8106d86f81",
+      "name": "Cee Moses"
+    }
+  }
+}

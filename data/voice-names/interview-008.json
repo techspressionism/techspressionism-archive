@@ -1,4 +1,15 @@
 {
   "approved_auto": true,
-  "voices": {}
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:11",
+      "fingerprint": "fc7555d231",
+      "name": "Steve Miller"
+    },
+    "V2": {
+      "at": "2026-09-20 19:11",
+      "fingerprint": "2d37ba0563",
+      "name": "Roz Dimon"
+    }
+  }
 }
