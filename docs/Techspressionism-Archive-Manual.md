@@ -29,12 +29,12 @@ A searchable, citable transcript archive of the Techspressionism YouTube channel
 
 | Type | Recordings | Notes |
 |---|---|---|
-| **Salons** | 99 | Regular online gatherings. Salons 2 and 3 were never recorded; recording began at Salon 8. |
+| **Salons** | 103 | Regular online gatherings. Salons 2 and 3 were never recorded; recording began at Salon 8. |
 | **Interviews** | 29 | One-to-one conversations. |
 | **Roundtables** | 6 | Group discussions. |
-| **Presentations** | 8 | The *Hello Uzbekistan* presentations. |
+| **Presentations** | 9 | The eight *Hello Uzbekistan* presentations and one talk recorded for the Pollock-Krasner House and Study Center (2021). |
 
-About 209 hours of recordings in all. Each recording has one page with its transcript, and the whole archive can be searched at once.
+About 218 hours of recordings in all. Each recording has one page with its transcript, and the whole archive can be searched at once. The archive's **About** page (linked at the foot of every page) explains what it holds, how the transcripts are made and how to cite a passage, and offers the recordings list and each transcript as plain text for download.
 
 ---
 
@@ -137,7 +137,7 @@ If you were there and can identify a speaker with certainty, say so in your note
 
 ## 9. Citing the archive
 
-Each page shows a ready-made citation with the recording's title, date and the address of the page. When you quote a passage, cite the timestamp shown so that readers can go straight to the moment. Machine-readable citation details are in the repository's `CITATION.cff` file.
+Each page shows a ready-made citation with the recording's title, date and the address of the page. When you quote a passage, cite the timestamp shown so that readers can go straight to the moment. Machine-readable citation details are in the repository's `CITATION.cff` file. The transcripts are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
 
 ---
 

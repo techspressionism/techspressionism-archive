@@ -1407,7 +1407,7 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/2KEDFrtlQTY/maxresdefault.webp",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
@@ -1416,10 +1416,10 @@
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 14828,
+      "word_count": 15593,
       "duration_seconds": 5588,
-      "words_per_minute": 159.2,
-      "bracket_marker_count": 9,
+      "words_per_minute": 167.4,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -1505,7 +1505,7 @@
         "start_display": null
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "number_manually_overridden:techspressionism.com page for Salon #42 (27 April 2022; moderator Davonte Bradley, curator Colin Goldberg, walkthrough Roz Dimon); the YouTube title carries no Salon number or date. Speakers and host to be checked against the recording",
@@ -1515,10 +1515,10 @@
       "date_recorded_manually_overridden:techspressionism.com page for Salon #42 (27 April 2022; moderator Davonte Bradley, curator Colin Goldberg, walkthrough Roz Dimon); the YouTube title carries no Salon number or date. Speakers and host to be checked against the recording"
     ],
     "transcript_quality": {
-      "word_count": 18152,
+      "word_count": 19159,
       "duration_seconds": 8294,
-      "words_per_minute": 131.3,
-      "bracket_marker_count": 1,
+      "words_per_minute": 138.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6944,13 +6944,13 @@
       "date_recorded_from:techspressionism.com"
     ],
     "series": "Pollock-Krasner House & Study Center",
-    "transcript_source": "youtube-subtitles",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 6,
+      "word_count": 13535,
       "duration_seconds": 5938,
-      "words_per_minute": 0.1,
+      "words_per_minute": 136.8,
       "bracket_marker_count": 0,
-      "low_confidence_flag": true
+      "low_confidence_flag": false
     }
   },
   {

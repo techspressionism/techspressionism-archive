@@ -34,6 +34,10 @@ def person_key(name):                      # the same rule the site build uses (
 
 def get_box(xml_path):
     xml = Path(xml_path).read_text(encoding="utf8", errors="ignore")
+    if "<wp:" not in xml[:5000] and 'el_class="tvai"' in xml:              # a saved copy of the page text, not the whole export
+        i = xml.find('el_class="tvai"')
+        start = xml.find("]", i) + 1
+        return xml[start:xml.find("[/vc_column_text]", start)]
     for m in re.finditer(r"<item>(.*?)</item>", xml, re.S):
         it = m.group(1)
         if "<link>https://techspressionism.com/artists/</link>" not in it:
