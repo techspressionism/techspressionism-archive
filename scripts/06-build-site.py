@@ -169,6 +169,17 @@ def build_browse(corpus, active="", navigate=False):
             f'<select id="browse-select"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
 
 
+def build_header(corpus, active=""):
+    """The site header: title, [BETA], type pills, search box, Browse. The SAME markup on every page, so
+    it always looks the same. (On the home page a script wires the search box and Browse to the page.)"""
+    return ('<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
+            '<span class="beta">[BETA]</span></strong>\n'
+            + build_topnav(corpus, active) + '\n'
+            '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
+            '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form>\n'
+            + build_browse(corpus, active, navigate=True) + '</div></div></header>')
+
+
 NAV_CORPUS = []      # set in main(): the header pills show a count per type
 
 
@@ -297,6 +308,8 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .num { display:inline-block; min-width:3.2rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .d { color:var(--muted); font-size:.9rem; }
 #search { margin:.4rem 0 .3rem; }
+.reccount { margin:.2rem 0 .6rem; color:var(--muted); }
+#search .pagefind-ui__form { display:none; }   /* the header search box replaces the widget's own input */
 .browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
 .browse[hidden] { display:none; }
 .browse label { font:inherit; }   /* same font as the intro line */
@@ -353,10 +366,7 @@ PAGE_TMPL = """<!doctype html>
 <script>document.documentElement.className+=" js"</script>
 </head>
 <body>
-<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> <span class="beta">[BETA]</span></strong>
-{topnav}
-<div class="hright"><form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form>
-{browse}</div></div></header>
+{header}
 <main class="watch-page">
 <article data-pagefind-body>
 <div class="layout">
@@ -655,8 +665,7 @@ def build_session_page(entry, siblings=()):
         date_word="published" if date_is_estimate(entry) else "recorded",
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
-        topnav=build_topnav(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
-        browse=build_browse(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], navigate=True),
+        header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -692,9 +701,7 @@ INDEX_TMPL = """<!doctype html>
 <script src="pagefind/pagefind-ui.js"></script>
 </head>
 <body>
-<header class="site"><div class="wrap"><strong>Techspressionism Video Archive <span class="beta">[BETA]</span></strong>
-{topnav}
-<span class="d"><span id="rec-count">{count_text}</span></span></div></header>
+{header}
 <main>
 <div id="intro-block">
 <p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. <button type="button" class="more-link" id="about-toggle" aria-expanded="false" aria-controls="about-more">more...</button></p>
@@ -707,6 +714,7 @@ Every result links to the transcript and to the exact moment in the recording. T
 contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
 Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></div>
 </div>
+<p class="reccount"><span id="rec-count">{count_text}</span></p>
 <script>
 (function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
   var seen = false;
@@ -722,7 +730,6 @@ Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></
 }})();
 </script>
 <div id="search"></div>
-{browse}
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
   "August", "September", "October", "November", "December"];
@@ -871,12 +878,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       if (block.style.display !== want) block.style.display = want;
     }}
   }}
-  function syncBrowse() {{
-    const input = searchBox.querySelector("input");
-    document.querySelector(".browse").hidden = !!(input && input.value.trim());      // browsing is for when nobody is searching
-  }}
   function syncFiltersButton() {{
-    syncBrowse();
     const panel = searchBox.querySelector(".pagefind-ui__filter-panel");
     if (!panel) return;
     hideEmptyFilters(panel);
@@ -916,7 +918,21 @@ window.addEventListener('DOMContentLoaded', () => {{
       choose(btn.dataset.type);
     }}
   }});
-  document.getElementById("browse-select").addEventListener("change", (ev) => choose(ev.target.value));
+  const browseSel = document.getElementById("browse-select");
+  browseSel.removeAttribute("onchange");                       // on other pages it opens the home page; here it swaps the list
+  browseSel.addEventListener("change", (ev) => choose(ev.target.value));
+
+  // the header search box is the search box: it drives the results shown on this page
+  const headerSearch = document.querySelector("header.site .hsearch");
+  const headerInput = headerSearch.querySelector("input");
+  headerInput.removeAttribute("required");
+  headerSearch.addEventListener("submit", (ev) => ev.preventDefault());
+  let searchTimer;
+  headerInput.addEventListener("input", () => {{
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => ui.triggerSearch(headerInput.value.trim()), 150);
+  }});
+  if (q) headerInput.value = q;
 
   function setType(type) {{
     for (const b of document.querySelectorAll("#typebar a[data-type]")) {{
@@ -982,7 +998,6 @@ def build_index(corpus):
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
-    browse = build_browse(corpus)
     def count_text(n, first, last):
         years = f"{first}\u2013{last}" if first != last else str(first)
         return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}"
@@ -999,10 +1014,9 @@ def build_index(corpus):
         hours=hours,
         count_text=e(rec_counts[""]),
         rec_counts_js=json.dumps(rec_counts),
-        browse=browse,
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
-        topnav=build_topnav(corpus, ""),
+        header=build_header(corpus, ""),
         pill_svg_js=json.dumps(PILL_SVG),
     )
 
