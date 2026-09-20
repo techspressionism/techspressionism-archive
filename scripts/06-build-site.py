@@ -349,6 +349,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
 #search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
 #search a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; }
+#search .cite-actions a.pill.pill-watch { padding-left:1.1rem; padding-right:1.1rem; gap:.5rem; }
 #search a.pill.pill-watch svg, #search a.pill.pill-watch:hover svg { color:#fff; }
 #search a.pill.pill-watch:hover { background:#d60000; }
 #search a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
@@ -364,6 +365,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .cite .doi { color:var(--muted); }
 
 /* search-result citations and the citation card under a cited passage */
+#search .citation-info { margin-top:.6rem; padding:.55rem 0 0; border:0; border-top:1px solid #bbb; background:none; border-radius:0; }   /* a thin rule between the quoted text and its citation */
 .citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:inline; margin:0; font-size:inherit; }
 #search .copy-cite, .cite-card .copy-cite, .cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
 #search .copy-cite:hover, .cite-card .copy-cite:hover, .cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
