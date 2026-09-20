@@ -26,6 +26,7 @@ import json
 import os
 import re
 import subprocess
+import threading
 import sys
 import time
 from collections import Counter
@@ -243,11 +244,12 @@ def listing():
         d = json.loads(p.read_text())
         turns = [tuple(t) for t in d["turns"]]
         dec = load_decisions(sl)
-        done = sum(1 for v in d["voices"] if v in dec["voices"] and dec["voices"][v].get("fingerprint") == fingerprint(turns, v))
+        auto_ok = lambda v: dec.get("approved_auto") and d["voices"][v].get("tier") == "confirmed" and d["voices"][v].get("name")     # approved automatic names count as decided
+        done = sum(1 for v in d["voices"] if (v in dec["voices"] and dec["voices"][v].get("fingerprint") == fingerprint(turns, v)) or auto_ok(v))
         secs = {v: i["seconds"] for v, i in d["voices"].items()}
         rows.append({"slug": sl, "label": label(_sessions[sl]), "title": _sessions[sl].get("session_title") or "",
                      "voices": len(secs), "decided": done, "auto": dec.get("approved_auto", False),
-                     "share_decided": round(100 * sum(secs[v] for v in secs if v in dec["voices"]) / (sum(secs.values()) or 1))})
+                     "share_decided": round(100 * sum(secs[v] for v in secs if v in dec["voices"] or auto_ok(v)) / (sum(secs.values()) or 1))})
     return rows
 
 
@@ -292,6 +294,9 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,san
 h1{font-size:1.3rem;margin:.2rem 0}a{color:var(--acc)}.mute{color:var(--mute)}.small{font-size:.85rem}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:12px 0}
 .card .donesum{display:none;align-items:center;gap:10px}
+#bg{position:fixed;right:12px;bottom:12px;display:flex;flex-direction:column;gap:6px;z-index:50;max-width:min(360px,90vw)}
+.bgj{background:#fff;border:1px solid var(--line);border-left:4px solid #999;border-radius:8px;padding:8px 12px;font-size:14px;box-shadow:0 2px 8px #0002}
+.bgj.run{border-left-color:#d9a400}.bgj.ok{border-left-color:#2e8b57}.bgj.err{border-left-color:#b3261e;cursor:pointer}
 .roles{display:flex;flex-wrap:wrap;gap:6px 18px}.role{display:flex;align-items:center;gap:6px;font-size:15px}.card select.sel{font:inherit;padding:6px;max-width:100%}
 .card.done{padding:8px 14px;background:#f3f6f1}
 .card.done>*:not(.donesum){display:none!important}
@@ -308,7 +313,7 @@ button.pri{background:var(--acc);color:#fff;border-color:var(--acc)}audio{width:
 .vid .frame iframe{width:100%;height:100%;border:0}.vid.off .frame{display:none}
 button.seek{padding:4px 10px;font-size:.85rem}
 .saved{color:var(--ok);font-weight:600}.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:6px 0}.bar i{display:block;height:100%;background:var(--acc)}
-</style></head><body><main id="app">Loading…</main><script>
+</style></head><body><main id="app">Loading…</main><div id="bg"></div><script>
 const $=(s,e=document)=>e.querySelector(s), api=(u,o)=>fetch(u,o).then(r=>r.json());
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function home(){
@@ -363,13 +368,12 @@ async function page(sl){
       player.playVideo()}
     else window.open(`https://www.youtube.com/watch?v=${d.video_id}&t=${Math.floor(b.dataset.t)}s`,'_blank','noopener')});
   document.querySelectorAll('audio').forEach(a=>a.onplay=()=>{if(player&&playerReady&&player.pauseVideo)player.pauseVideo()});
-  $('#apply').onclick=async()=>{const b=$('#apply'),m=$('#applymsg');b.disabled=true;m.textContent='Building the page… (up to a minute)';
-    const r=await api('/api/apply',{method:'POST',body:JSON.stringify({slug:sl})});b.disabled=false;
-    if(r.error){m.textContent='Could not apply: '+r.error;return}
-    m.textContent=`Applied. ${r.attributed}% of this recording's words now carry a name (${r.unattributed_words.toLocaleString()} are still Unattributed). Opening the next recording to review…`;
+  $('#apply').onclick=async()=>{          // build in the background and go straight to the next recording
+    const lab=d.label,job=bgAdd(lab+': building the page…');
+    api('/api/apply',{method:'POST',body:JSON.stringify({slug:sl})}).then(r=>bgDone(job,lab,r)).catch(e=>bgDone(job,lab,{error:String(e)}));
     const rows=await api('/api/list'),i=rows.findIndex(x=>x.slug===sl);      // the next recording (in list order, wrapping round) that still has voices to decide
     const order=[...rows.slice(i+1),...rows.slice(0,Math.max(i,0))],next=order.find(x=>x.decided<x.voices);
-    setTimeout(()=>{location.hash=next?'#/'+next.slug:'#/';window.scrollTo(0,0)},1800)};
+    location.hash=next?'#/'+next.slug:'#/';window.scrollTo(0,0)};
   const approveAuto=async on=>{   // ticking the box confirms every automatically named voice (two sources agreed); unticking takes those decisions back
     const cards=[...document.querySelectorAll('.card[data-v]')].filter(c=>c.dataset.auto);let n=0;
     for(const card of cards){
@@ -394,6 +398,12 @@ async function page(sl){
     const other=[...card.querySelectorAll('input[type=radio]:checked,select.sel')].some(x=>x.value==='__other'),t=card.querySelector('input.nm');if(t){t.hidden=!other;if(other)t.focus()}}));
   document.querySelectorAll('.card[data-v] .chg').forEach(b=>b.onclick=()=>b.closest('.card').classList.remove('done'));
 }
+const bgJobs={};                                          // pages being built in the background (shown in the corner)
+function bgRender(){document.getElementById('bg').innerHTML=Object.entries(bgJobs).map(([id,j])=>`<div class="bgj ${j.state}" data-id="${id}">${esc(j.text)}</div>`).join('')}
+function bgAdd(text){const id=String(Math.random()).slice(2);bgJobs[id]={state:'run',text};bgRender();return id}
+function bgDone(id,lab,r){bgJobs[id]=r.error?{state:'err',text:lab+': could not apply ('+r.error+'). Click to dismiss.'}:{state:'ok',text:`${lab}: applied, ${r.attributed}% of its words named`};bgRender();
+  if(!r.error)setTimeout(()=>{delete bgJobs[id];bgRender()},9000)}
+document.addEventListener('click',e=>{const j=e.target.closest&&e.target.closest('.bgj.err');if(j){delete bgJobs[j.dataset.id];bgRender()}});
 let player=null, playerReady=false;
 function loadPlayer(id){                                  // YouTube's own embedded player, seekable from the page
   playerReady=false; if(player&&player.destroy){try{player.destroy()}catch(e){}} player=null;
@@ -404,6 +414,9 @@ function loadPlayer(id){                                  // YouTube's own embed
 }
 const route=()=>{const m=location.hash.match(/^#\/(.+)$/);m?page(m[1]):home()};addEventListener('hashchange',route);route();
 </script></body></html>"""
+
+
+APPLY_LOCK = threading.Lock()      # page builds run one at a time: each rewrites corpus/corpus.json
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -441,7 +454,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._send({"error": "unknown recording"}, code=400)
             dec = load_decisions(sl)
             if self.path == "/api/apply":                     # rebuild this recording's page (Stage 5) with the saved decisions
-                r = subprocess.run([sys.executable, str(ROOT / "scripts" / "05-build-corpus.py"), sl, "--no-review"], capture_output=True, text=True, timeout=600)
+                with APPLY_LOCK:
+                    r = subprocess.run([sys.executable, str(ROOT / "scripts" / "05-build-corpus.py"), sl, "--no-review"], capture_output=True, text=True, timeout=600)
                 if r.returncode != 0:
                     return self._send({"error": (r.stderr or r.stdout).strip().splitlines()[-1][:200]}, code=500)
                 for e in json.loads((ROOT / "corpus" / "corpus.json").read_text()):
