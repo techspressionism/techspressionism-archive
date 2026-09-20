@@ -2,322 +2,392 @@
  "Https://chrisbly.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://Monyanikahd.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://allenhirshartist.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://andywauman.xyz/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "parked domain (redirects to the registrar's /lander page)",
+  "status": "parked",
+  "v": 3
  },
  "http://apocryphabulous.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://arianqalandaran.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://barnettsuskind.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://carlagannis.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://chalda.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://chaneec.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://cindyhawkinsart.com/porfolio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://cynthiadidonato.weebly.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://diogonavarro.com.br": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://djspooky.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://enikoo.com/all-works/creative-coding/": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://farbrook.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://fineartbycat.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://ghillart.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://www.secretpond.com/",
+  "status": "changed",
+  "v": 3
  },
  "http://grantmbrownlow.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://gregorylittle.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://gullahme.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://gxhpainter.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://johnzieman.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://k3ro.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://leeschnaiberg.art": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "http://lotta-stoever.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://lovid.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://markospechlivanos.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://maryboochever.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://mdfedart.com/mfaentry/memsite/index.php?content=portfolio&amp;member=33465": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://michaelpaulukonis.github.io": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://michaelstrevens.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://moonth.tilda.ws/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://morie.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://pollyvelvet.bandcamp.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://qinzanajm.com/index.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://rrad.studio": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://salvadorventi.redbubble.com": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "http://seungjinlee.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://shellebarron.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://snowyunxuefu.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://soynando.art/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://tommymintz.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://vakula.eu/home-en.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://verostko.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.barbaranati.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.brandongellis.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.carpenterhillstudios.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.carterhodgkin.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.cristinainciarte.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.danielaedstrom.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.danwelden.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200 (via redirect)",
-  "status": "ok"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "http://www.deannsteinhasinoff.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.dianadeavila.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.digitalzaza.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.dm2graphics.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.dombarra.art/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.evadavidova.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.expressinabstract.net/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.gabrieljshuldiner.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.galinashevchenkosequences.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.heidiboisvert.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.highinfiberart.com": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "hosting placeholder page (no website set up)",
+  "status": "parked",
+  "v": 3
  },
  "http://www.hollygordonphotographer.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "http://www.iacobina.com/": {
+  "checked": "2026-09-20",
+  "detail": "placeholder page ('Coming Soon')",
+  "status": "parked",
+  "v": 3
  },
  "http://www.instagram.com/pittsburghpanoramas": {
   "checked": "2026-09-20",
@@ -327,387 +397,782 @@
  "http://www.interstitch.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.kotlinski.com": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://campsite.bio/andykotlinski",
+  "status": "changed",
+  "v": 3
  },
  "http://www.leemusgrave.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.liquidoranges.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.marjanandaroodi.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.ninasobell.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.shamikalovesink.com/versions-of-the-same-song": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "http://www.soundandvision.cc/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.stephaniesydney.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.susandetroy.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.suzanneanker.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.systaime.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.wm3studio.com/portfolio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "http://www.yeohyunahn.com/": {
   "checked": "2026-09-20",
-  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific",
-  "status": "broken"
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certific",
+  "status": "broken",
+  "v": 3
  },
  "https://500px.com/p/romi227/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://Christopherpsloan.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://Instagram.com/adellelin": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://Instagram.com/lilykostrzewa": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://JRosenauStudio.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://Lclmachine.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://Sashastiles.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://StrangeCarrots.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://Subcisco.com": {
   "checked": "2026-09-20",
   "detail": "timed out",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://Www.suebeyer.com.au": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://aaaseed.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://aaronovak.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://adelfinocorino.com/home.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://adelleninja.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://adtumulumarts.wordpress.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://alankinnard.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://amalgam3d.xyz": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://amanrasouli.art/works": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
+ },
+ "https://andersontina.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://andreabonaceto.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://andreaferrigno.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://andrewreach.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://annahamer.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://annespalter.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://annettebucknerhall.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://app.rarible.com/flxrthshld/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://arielbaron-robbins.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://arnautasies.cargo.site": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://art.thetechmargin.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://artistikoi.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://artistken.wixsite.com/artistken": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://artpal.com/artdose": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://barbararehbehn.de": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://beautardyartist.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://becopro.art.br/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://bentritt.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://bit.ly/38rIhMg": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://bonkstraa.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 65] No route to host",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://burakdirgen.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://cameraptor.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://cbrubin.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://cfanelli.myportfolio.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://cha.cc.cc/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://charitycult.bandcamp.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://claudiahart.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://claytoncampbell.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://cliveholden.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://crisballesteros.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://d-lela.art/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://danielmckleinfeld.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://davekeyart.artstation.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://davidguerrero.art/": {
   "checked": "2026-09-20",
-  "detail": "EOF occurred in violation of protocol (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.",
+  "status": "broken",
+  "v": 3
+ },
+ "https://discordapp.com/invite/tNkh3hk": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://distorteddreams.xyz/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://divinebradley.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://doodleslice.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://draincain.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://echeverry.tv/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://ellenwiener.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://emmaannetheartist.com/home.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.Wikipedia.org/wiki/Anne_Morgan_Spalter": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.Wikipedia.org/wiki/Joseph_Nechvatal": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.Wikipedia.org/wiki/Laurence_Gartel": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.Wikipedia.org/wiki/Patrick_Lichty": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.Wikipedia.org/wiki/Steve_Miller_(artist)": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Adrianne_Wortzel": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Andrea_Bonaceto": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Angela_Ferraiolo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Angela_Nikolau": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Anne_Morgan_Spalter": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Annette_Weintraub": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Carla_Gannis": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Chalda_Maloff": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Christine_Sciulli": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Claudia_Hart": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Clive_Holden": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Colin_Goldberg": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/DJ_Spooky": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Ellen_Levy": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Frank_Gillette": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Helen_A._Harrison": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Ivan_Beerkus": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Jacquelyn_Ford_Morie": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Janet_Biggs": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Joseph_Nechvatal": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Lauren_Woods": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Michael_Rees": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Nina_Kuo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Nina_Sobell": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Nina_Yankowitz": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Oliver_Peterson": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Patrick_Lichty": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Roman_Verostko": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Sasha_Stiles": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Steve_Miller_(artist)": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Suzanne_Anker": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://en.wikipedia.org/wiki/Victor_Acevedo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://ereyes.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://facebook.com/jonathan.tramond/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://foundation.app/@Dg8tal": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/@amirkarimi/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/@artscojo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/@jsteidle": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/@kero": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/gaizutis": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/goldberg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://foundation.app/mahnaz": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
  },
  "https://gartelmuseum.weebly.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://github.com/BenjaminBradshaw": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://gopakumar.in/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://gregorypatrickgarvey.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://gurkanmihci.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://harveybirnbaum.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://hernanroperto.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://icallmybackpackhomecom.wordpress.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://ilknur.studio": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://instagram.com/_art_dose/": {
   "checked": "2026-09-20",
@@ -873,6 +1338,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://instagram.com/cypherchthonic/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://instagram.com/data_m0sh/": {
   "checked": "2026-09-20",
@@ -1054,6 +1525,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://instagram.com/lappel___du___vide/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken",
+  "v": 2
+ },
  "https://instagram.com/lechatn0ir__/": {
   "checked": "2026-09-20",
   "detail": "profile not found",
@@ -1178,6 +1655,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://instagram.com/mysideart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://instagram.com/n3t4_/": {
   "checked": "2026-09-20",
@@ -1319,6 +1802,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://instagram.com/theycomecrawlingback/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://instagram.com/tommymintznyc/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -1372,732 +1861,2636 @@
  "https://iphoneartgirl.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://it.wikipedia.org/wiki/Gopakumar_R": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://ivonatau.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://jawekkwakman.exto.nl/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://www.jawekkwakman.nl/",
+  "status": "changed",
+  "v": 3
  },
  "https://joannasteidle.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://judith-jacobs.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://juliemciver.myportfolio.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "the site sends this address to its 'missing' page (/missing)",
+  "status": "broken",
+  "v": 3
  },
  "https://justanassembler.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://jylart.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://jylart.square.site/",
+  "status": "changed",
+  "v": 3
  },
  "https://kalamint.io/user/prince_magnolia": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "redirects to the front page https://kalamint.io/ (this page or profile seems gone)",
+  "status": "changed",
+  "v": 3
  },
  "https://kerrycmitchell.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://kimgruk.blogspot.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://kleinesamson.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://lamentmaterial.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://laurenwoodsart.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://leeday.photography": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://lesliekell.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://lilykostrzewa.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/ErinKo": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/amirkarim.i": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/andreoliveira_cebola": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/arcami/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200 (via redirect)",
-  "status": "ok"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/dubwoman": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://linktr.ee/gaijingraphics": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://linktr.ee/lena.ekert": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/masayuki_azegami": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/mchx_": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/saharmoussavi": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/terralenscreations": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/tomaz.favilla": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://linktr.ee/visheh": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://lisascadron.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://lucikkralikova.wixsite.com/portfolio": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
+ },
+ "https://marcuscarmo.com": {
+  "checked": "2026-09-20",
+  "detail": "parked domain (redirects to the registrar's /lander page)",
+  "status": "parked",
+  "v": 3
  },
  "https://michaelwoodruff.co.uk/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://michaelwoodruffcouk.wordpress.com/",
+  "status": "changed",
+  "v": 3
  },
  "https://mrobertmarkovich.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://mythicalmuse.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://nataliarecalde.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://negativityness.com": {
   "checked": "2026-09-20",
-  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "now redirects to https://negativityness.myportfolio.com/negativityness",
+  "status": "changed",
+  "v": 3
  },
  "https://new.express.adobe.com/webpage/MlC4xSyc9pdB5": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://noragibsonvisualist.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://objkt.com/@joeyzaza": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://objkt.com/@tzcha": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://oneglyph.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
+ },
+ "https://opensea.io/DAMNTRUE": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://opensea.io/Fragment": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://opensea.io/SEAQVN_InterplanetaryCultureLab": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://opensea.io/collection/alienaieeg": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://opensea.io/collection/bppchourmo-collection": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://opensea.io/kokats__": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://ostachowski.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://mlo.art/",
+  "status": "changed",
+  "v": 3
  },
  "https://phrancism.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://pierstefanobellani.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://postmastersblockchain.com/artists/lovid/": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://puguess.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
+ },
+ "https://rarible.com/sudo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://rarible.com/user/0xb92d332a8468692ea3AE7708432F9f5E79DAa2B3": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://reedhearne.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://renatajaniszewska.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://rnd.team/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://robertmielenhausen.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://roccioletti.com/2020/11/20/a-lunga-conservazione-vuoto/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://roynicholson.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://rozdimon.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://sandrallano-mejia.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://sandwiche.me/maxdali_kamillakulova": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://sarahsong.site/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://sator2.bandcamp.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://sgtslaughtermelon.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://sherrykarver.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://slavnedev.weebly.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://soaad.indiana.edu/faculty/directory/dolinsky-margaret.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://soundcloud.com/object_a0/tracks": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://soundcloud.com/vapah": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://stevemiller.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://superrare.co/aspalter7": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://superrare.com/",
+  "status": "changed",
+  "v": 3
  },
  "https://surr.ai/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://sva.ccnsite.com/AnsonSeeno/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "now redirects to https://www.behance.net/AnsonSeeno/",
+  "status": "changed",
+  "v": 3
  },
  "https://tassneen.myportfolio.com/work": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/brooklyn/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/chelsea/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/chicago/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/cyberiana/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/adelfino-corino/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/alessio-sanna/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/andy-thomas/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/anne-spalter/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/bernard-bousquet/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/brandon-gellis/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/carol-hunt/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/carter-hodgkin/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/chalda-maloff/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/christine-sciulli/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/clive-holden/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/colin-goldberg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/cynthia-beth-rubin/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/cynthia-didonato/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/dalton-portella/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/dan-welden/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/dana-jones/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/darcy-gerbarg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/davonte-bradley/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/deann-stein-hasinoff/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/diana-de-avila/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/diane-marsella/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/dubwoman-aka-giovanna-sun/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/elio-ramos-colon/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/felix-rothschild/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/francene-levinson/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/frank-gillette/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/frederic-pons/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/gregory-little/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/guillermo-arismendi/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/hayede-jamshidi/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/holly-gordon/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/ikatch/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/jan-swinburne/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/janis-brandenburg-lee/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/john-zieman/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/joseph-nechvatal/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/karen-lafleur/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/le-chat-noir/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/lee-day/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/lee-musgrave/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/lee-schnaiberg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/lovid/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/lucie-kralikova/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/malavika-mandal-andrew/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/mark-pechlivanos/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/mary-ann-strandell/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/mary-boochever/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/meltdownlove/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/michael-borras-aka-systaime/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/michael-paulukonis/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/michael-pierre-price/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/michael-rees/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/moonth/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/n3t4/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/negin-ehtesabian/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/nesrin-soylemez/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/nina-sobell/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/nina-yankowitz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/oz-van-rosen/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/patrick-lichty/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/paul-d-miller/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/peter-borges/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/philippe-ormieres/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/ply300/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/prince-magnolia-x-st-rivera/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/randi-matushevitz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/reel/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/reese-schroeder/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/renata-janiszewska/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/roy-nicholson/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/roz-dimon/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sac-sydney/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sahar-moussavi/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sarah-song-and-andy-wauman/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/scarletmotiff/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/scojo/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sean-mick/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/seungjin-lee/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sherry-karver/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/skywaterr/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/steve-miller/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/sue-beyer/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/susan-huang/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/suzanne-anker/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/tikoi-kuitenbrouwer/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/tintin23x/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/tomaz-favilla/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/tommy-mintz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/tor-burwell/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/verneda-lights/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/exhibition/southampton/victor-acevedo/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/mariniana/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/southampton/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/uzbekistan/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/uzbekistan/media/videos/presentations/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/education/pollock-krasner/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/acevedo/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/anker/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/bonaceto/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/cari-ann-shim-sham/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/claudia-hart/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/davo/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/dimon/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/djspooky/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/gellis/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/gerbarg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/gillette/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/goldberg/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/hodgkin/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/lafleur/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/lichty/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/little/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/malavika/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/matushevitz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/miller/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/mintz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/moses/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/nechvatal/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/price/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/rees/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/renata/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/sasha-stiles/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/sobell/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/spalter/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/interview/verneda/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/approach/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/curators-in-conversation/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/roundtable-3/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/roundtable-4/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/roundtable-5/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/roundtable/roundtable-6/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-10/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-100/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-101/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-102/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-103/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-104/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-105/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-106/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-107/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-108/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-109/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-11/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-110/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-12/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-13/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-14/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-15/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-16/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-17/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-18/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-19/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-20/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-21/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-22/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-23/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-24/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-25/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-26/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-27/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-28/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-29/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-30/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-31/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-32/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-33/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-34/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-35/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-36/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-37/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-38/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-39/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-40/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-41/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-42/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-43/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-44/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-45/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-46/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-47/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-48/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-49/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-50/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-51/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-52/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-53/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-54/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-55/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-56/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-57/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-58/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-59/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-60/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-61/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-62/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-63/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-64/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-65/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-66/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-67/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-68/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-69/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-70/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-71/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-72/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-73/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-74/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-75/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-76/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-77/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-78/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-79/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-8/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-80/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-81/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-82/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-83/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-84/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-85/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-86/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-87/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-88/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-89/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-9/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-90/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-91/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-92/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-93/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-94/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-95/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-96/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-97/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-98/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://techspressionism.com/video/salon/salon-99/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://thisiswamoo.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://timcie.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://tintin23xartist.mystrikingly.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://townsendstreetgallery.com/david-bloom": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://treeskulltown.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/CurArchTrack": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/LN0ir": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/SteveMillerArt": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/artscojo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/asra_khani": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/carlagannis": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/dg8tal": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://twitter.com/djspooky": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/goldbergfineart": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://twitter.com/iikkamattihauru": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/kulovamax": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/lovidlovid": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/michpalmer": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/sa_hirmo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://twitter.com/sashastiles": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/snow_fu": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/soulincode/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/stevenludsin1": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/sudorootla": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
+ },
+ "https://twitter.com/viderestudio": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://twitter.com/yugezhou421": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://vimeo.com/torburwell": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://vimeo.com/user2777466": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://wannabelabs.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://warpcast.com/cariannshimsham": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://warpcast.com/joeyzaza": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://web.archive.org/web/20070502071752/http://www.geocities.com/cdavewesterman/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://wlaszyn.studio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://wordsbyandrew.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.AndyThomas.com.au": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.JoshuaDuttweiler.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.LucyBoydWilson.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.TinaGalbiati.com": {
   "checked": "2026-09-20",
-  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "now redirects to https://www.christinagalbiati.com/",
+  "status": "changed",
+  "v": 3
  },
  "https://www.aceslowman.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.acevedomedia.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.adiosfromeverywhere.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
  },
  "https://www.adriannewortzel.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://www.ahmedesh.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.algeventual.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.alphasight.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.anamcarastudiogallery.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "parked domain (redirects to the registrar's /lander page)",
+  "status": "parked",
+  "v": 3
  },
  "https://www.andythomas.com.au/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.annetteweintraub.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.annmcintyre.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.annrshapiro.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.areyouzar.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken",
+  "v": 3
  },
  "https://www.arielbaronrobbins.com": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "placeholder page ('Index of /')",
+  "status": "parked",
+  "v": 3
  },
  "https://www.artandhonor.com/artwork.html": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.artbybautista.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.artfullyjonesy.us": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.artscojo.com/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "_ssl.c:993: The handshake operation timed out",
+  "status": "broken",
+  "v": 3
  },
  "https://www.artstation.com/sepehromidvaar/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.artstudio-ernest.de/": {
   "checked": "2026-09-20",
-  "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:101",
+  "status": "broken",
+  "v": 3
  },
  "https://www.artsy.net/track-16-gallery/artist/simone-gad": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://www.aseemsuri.xyz/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.audio-optio.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.aurorartstudio.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.barbarakahn.art": {
   "checked": "2026-09-20",
-  "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)",
+  "status": "broken",
+  "v": 3
  },
  "https://www.behance.net/FiveTimesNo": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.behance.net/atnehmohammadshahi": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.behance.net/bradley_rinke": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.ben-red.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.bethgiacummo.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.borges.studio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.brendaoart.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.brianstcyr.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.cariannshimsham.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.carolinedelgiudice.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.caroramonde.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://www.cassiopeus.com": {
   "checked": "2026-09-20",
   "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, c",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.cbrubin.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.charlesandrewseaton.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken",
+  "v": 3
  },
  "https://www.chriskaczmarek.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.chrismanfield.com/dark": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.christinawerkmeister.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.colman.net": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local ",
+  "status": "broken",
+  "v": 3
  },
  "https://www.complexityart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.daltonportella.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.danmcgarrah.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.darcygerbarg.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.davobradleyart.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.dnartists.com": {
   "checked": "2026-09-20",
-  "detail": "EOF occurred in violation of protocol (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.dugrenier.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.eegun.xyz/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.elenalipkowski.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.elhelouzouhair.co/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.emergingartistplatform.com/kerihaskell": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.erinkostudios.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.eyewithwings.net/nechvatal/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/DebLutzFractals/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/GopakumarArt/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/HubertSolczynski/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/blondel.ntyam": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/carlagannis": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/chaneecartist/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/dan.welden.9": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/dugrenierglassart": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/joanna.steidle.96": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/judy.jacobs.14": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/mark.klink.3/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/mihal.esm.7/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/roman.verostko/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.facebook.com/snowyunxuefu": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.fahn.com.au/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.flickr.com/photos/legenerateur/albums/72157682842129125": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://www.francenelevinsondigitalart.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.frankgillette.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.fxhash.xyz/u/joey%20zaza": {
   "checked": "2026-09-20",
   "detail": "HTTP 402",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.goldberg.art/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.gregandmegstudios.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.guillermoarismendi.com/": {
   "checked": "2026-09-20",
   "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expi",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.hharrisphoto.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.hochmanbrown.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.iikkamattihauru.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.ikatch.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.infinitemantra.ca/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.instagram.com/999prince_magnolia999/": {
   "checked": "2026-09-20",
@@ -2148,6 +4541,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://www.instagram.com/adiosfromeverywhere": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/adriannewortzel/": {
   "checked": "2026-09-20",
@@ -2219,10 +4618,22 @@
   "detail": "profile not found",
   "status": "broken"
  },
+ "https://www.instagram.com/areyouzar/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken",
+  "v": 2
+ },
  "https://www.instagram.com/arianvisions/": {
   "checked": "2026-09-20",
   "detail": "profile not found",
   "status": "broken"
+ },
+ "https://www.instagram.com/arielbaronlapciucart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/arielbaronrobbinsart/": {
   "checked": "2026-09-20",
@@ -2424,6 +4835,12 @@
   "detail": "profile not found",
   "status": "broken"
  },
+ "https://www.instagram.com/charity.cult/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/cherzarts/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -2493,6 +4910,12 @@
   "checked": "2026-09-20",
   "detail": "profile not found",
   "status": "broken"
+ },
+ "https://www.instagram.com/damn__true/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/daniel.pelletier.xyz/": {
   "checked": "2026-09-20",
@@ -2674,6 +5097,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/gela.js/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/geodesic.doom/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -2693,6 +5122,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://www.instagram.com/godthane/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/golchehrehsadeghi/": {
   "checked": "2026-09-20",
@@ -2809,6 +5244,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/imaginatzilla/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken",
+  "v": 2
+ },
  "https://www.instagram.com/infinite_mantra/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -2863,6 +5304,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://www.instagram.com/judith_carlin": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/judithjacobs_pics": {
   "checked": "2026-09-20",
@@ -2964,6 +5411,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/lena.ekert": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/lighthousephotographytn/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -3029,6 +5482,12 @@
   "detail": "profile not found",
   "status": "broken"
  },
+ "https://www.instagram.com/malcolmferns.art": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken",
+  "v": 2
+ },
  "https://www.instagram.com/marjanandaroudi/": {
   "checked": "2026-09-20",
   "detail": "profile not found",
@@ -3089,6 +5548,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/miu_._._._": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/mlodotart/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -3138,6 +5603,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://www.instagram.com/nstgrm_cha/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/officialbarnettsuskind/": {
   "checked": "2026-09-20",
@@ -3379,6 +5850,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/smokinregie": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/snowyunxuefu/": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -3439,6 +5916,12 @@
   "detail": "profile found",
   "status": "ok"
  },
+ "https://www.instagram.com/swayparfait/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
+ },
  "https://www.instagram.com/syntheticdeployment": {
   "checked": "2026-09-20",
   "detail": "profile found",
@@ -3493,6 +5976,12 @@
   "checked": "2026-09-20",
   "detail": "profile found",
   "status": "ok"
+ },
+ "https://www.instagram.com/tinaanders0n": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok",
+  "v": 2
  },
  "https://www.instagram.com/tomaz.favilla/": {
   "checked": "2026-09-20",
@@ -3582,351 +6071,1321 @@
  "https://www.iraupin.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.isabellearvers.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.iskrafineart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jacquerosenau.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jamesbyrnedrawings.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jancoverduin.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.janswinburne.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jasonting.studio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jbiggs.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.jenniferzaylea.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.johnwaiblinger.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
+ },
+ "https://www.judithcarlin.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.juliandepumaart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.katevans.art": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.kerrieoleary.ie/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.krissmer.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.labelsonhumans.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.lafleurartworks.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.laurasplan.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.leilapinto.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "status": "unverified",
+  "v": 3
  },
  "https://www.lensculture.com/diane-fenster": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.lighthousephotographytn.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.lostpixels.io/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.lucyboydwilson.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.macpremo.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.malavikamandalandrew.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.markklinkart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.marlowshami.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.maryannstrandell.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.mepfa.me": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.michaelfarmerart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.michaelpierreprice.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.michaelrees.org/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.michphoto.com": {
   "checked": "2026-09-20",
-  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific",
-  "status": "broken"
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certific",
+  "status": "broken",
+  "v": 3
  },
  "https://www.mythicalmuseum.net/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.neginete.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.neginete.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 404",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.night-shining.com/": {
   "checked": "2026-09-20",
-  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
-  "status": "broken"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.nimanilian.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.ninayankowitz.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.nyseikatsu.com/entertainment/03/2023/37851/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.ohiso.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.openprocessing.org/user/118807/": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.paisajesinfinitos.net": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.patlichty.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.patreon.com/elleclayton": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.payasaart.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.radiology-art.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.randimatushevitz.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.rebeccatombaugh.com/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.redbubble.com/people/hopesprints/shop?asc=u": {
   "checked": "2026-09-20",
-  "detail": "HTTP 403 (refuses automated requests)",
-  "status": "unverified"
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.richardmcwherter.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.saatchiart.com/antonis_dimitriou": {
   "checked": "2026-09-20",
-  "detail": "HTTP 404",
-  "status": "broken"
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified",
+  "v": 3
  },
  "https://www.saatchiart.com/oliverpeterson": {
   "checked": "2026-09-20",
-  "detail": "HTTP 200",
-  "status": "ok"
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified",
+  "v": 3
  },
  "https://www.samnicoleart.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.sandrapipkenphotography.com": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://www.seanmick.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.shes-excited.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.sic.studio/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.stellarfire.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.stephenpare.art/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.suebeyer.com.au/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.taliajdudley.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.tomdelanycreative.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://www.vanrosen.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.viderestudio.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.wisefishworld.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://www.yitingliu.com/": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/@Void-Sign-SG": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/@ahmedesh": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/@knkxn": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/varscript": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=--L1ziEx3-A": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=-8Glurhxyms": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=-m_aiHkazGI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=1OgIwvY5_F4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=1cuvfkJw3rs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=1hehNivSYTo": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=2JTyaVoXMsQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=2stJTcEAhGY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=3JOMa_JYp9s": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=4HfJCnIp8XE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=4kHuGtuLoSY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=5RXM-lkRkhI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=7dDowJIxuJw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=7zhZis1d3po": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=7zk9GzgaLvs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=8x8eIkbpHws": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=90wRPqAgA98": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=9u3WpSKe3bM": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=9uB83V9qp8M": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ACwcZ2XHb9E": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ADjcjvSQViE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=AXCiQqjVHyA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=BbLPmZfJVOs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=BphNOUbReFs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=CbqAI1PKEkY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=CtSAsaLkmtQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=DEIe5Z44tx0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=DJDMQvtiOQU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=DtGglnJ4mdI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=EoF3pT-iZSg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=FDFxHrpDvEI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=GReJ-zgJz-o": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=GW0Vig0R8wA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=GvAkzINQBT8": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Hhm4t38sjUA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Hjej663DEjw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=I7-nXjL2koA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Iu25Pv7EqK0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=IzL0mVtw8do": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=JZFDck9gwH8": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Jb-J_QTgufM": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Jj66toeEM0Q": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=KyBLFghq4N0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Lc0jSsfTb9A": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=LntR7Bo5jmA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=LuFuRGhgnmQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=M3lz4NxC8N4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=MZ7JzodmmIA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=NFt4AfP-aRA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=OdbOncqxQ7s": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=P-sfs-tCkgw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=PecHOYGSnWY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=PrrvyUZvD5k": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=QT6X7WrTTmA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Q_5yvTBIL5M": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=QrGxzCL_ScA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=RFWaEX_2QPk": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=RSGBYaBbWgg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=RoCFEGxcw4Y": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=S_q30BIvh8c": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=UBx4LDG--60": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=UE3rbE3XMf0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=UwkMNkLGZ6Q": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=V3NO6tMIiPU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=VaKW4Gnh9eE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=VfiH4ayJbGE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=VxS9DBtseCE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=WCOXAr5_wdE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=XLRoHnYg1dA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=XUBL7L41hjA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=XgXtLT1I-T4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=XpQRmDG0f5s": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=YaKIk32mYWw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=Z-RFTbQ7GF8": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=_oxmBXSdyNk": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=a5h-eBQYrks": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=aP2x9m5GMak": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=axa3_RqLoWw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=b4hmMbnUuKE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=b8yrqPIj934": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=bdzAVjhHPaw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=cYU7eKBcCto": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=colPPMiP6gk": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=dJbRASddqhg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=e58ctMQ-ccc": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=e5dH26wP9gk": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ekZHtu7TM9Q": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=fEWi09zryY0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=fEzz3PiADrU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=fFUTukSn4gw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ggbxdDYOEz4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=htDS7UsZjyA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=hyYpGwwt2G0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=iQL826mqyFg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=iVP63DGbCGY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=j-nNutQp8wc": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=k1kO0JSzqc8": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=k8Prps3LUKE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=kAXUgOIUjw0": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=kfGb9OWyXEM": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=l52RGfTiatE": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=l9TiCHiOgpQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=lUmGsX0p78E": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=lVI5UE-AD9E": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=lW17XAepKs4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=lXCEgu2Iz5k": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=lxunnn1tM5M": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=m6ca8UoF49M": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=mA3da8lu0iU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=nGPCwUZj9fs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ni_Sr6-zBXg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=npycONiSa_c": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=o7pyuyo35iU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=oimOOlyY0BY": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=pmau5CDJUiQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=pxavr84wDJs": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=qBc4IjFobIg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=qE6D2wrr1rU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=rO6UdqwFKFc": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=rYpn_GAV3I4": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=rwlq9lFhe18": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=sbMbH55efqM": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=sfMxOAC97Yo": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=sqMzJArwmhg": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=syXkJWTwCJc": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=t0JhtlP3olQ": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ufGrnsSaMQo": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=vE2cOCt7b0o": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=vMQWnv70FvA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=w6dn7xxG6ds": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=w6fW5oWbBdk": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=w8IHfgE2veI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=wvwrqw0MRfI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=wyAHD-HTAfM": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=xTm1wXYzdCI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=xkfYnuTP2zA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=xm747MwGbiA": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=xo2ql3MgJlw": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=ywYWdI922tI": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=z8fZvhQgl80": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=zj79kXJHdFU": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://www.youtube.com/watch?v=zsJAhBFVn5s": {
+  "checked": "2026-09-20",
+  "detail": "video available",
+  "status": "ok",
+  "v": 3
+ },
+ "https://x.com/AmanRasouli_": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://xnewworlds.xyz/": {
   "checked": "2026-09-20",
   "detail": "[Errno 8] nodename nor servname provided, or not known",
-  "status": "broken"
+  "status": "broken",
+  "v": 3
  },
  "https://y.at/%E2%9B%93%EF%B8%8F%F0%9F%A6%84%F0%9F%91%BE%E2%9B%93%EF%B8%8F": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
+ },
+ "https://youtube.com/channel/UCSjsa2a03-BluuvDjVPY7Sw": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
  },
  "https://yugezhou.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  },
  "https://zacharyzaitzeff.com": {
   "checked": "2026-09-20",
   "detail": "HTTP 200",
-  "status": "ok"
+  "status": "ok",
+  "v": 3
  }
 }

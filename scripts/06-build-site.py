@@ -19,6 +19,7 @@ Usage:
 import datetime
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -31,6 +32,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib_sentences import split_sentences
 from lib_speakers import is_not_speaker
 from lib_media import TYPES, label, slug  # noqa: E402
+import lib_seo  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS_JSON = ROOT / "corpus" / "corpus.json"
@@ -66,14 +68,31 @@ _SITE_PAGES_PATH = ROOT / "data" / "site-pages.json"
 SITE_PAGES = json.loads(_SITE_PAGES_PATH.read_text()).get("pages", {}) if _SITE_PAGES_PATH.exists() else {}
 
 
+_LINK_STATUS_PATH = ROOT / "data" / "link-status.json"
+LINK_STATUS = json.loads(_LINK_STATUS_PATH.read_text()) if _LINK_STATUS_PATH.exists() else {}
+
+
+def link_ok(url):
+    """False for an address the link check found broken or parked (data/link-status.json); such links are left out of the pages."""
+    return LINK_STATUS.get(url, {}).get("status") not in ("broken", "parked")
+
+
 def site_page_html(entry):
     address = SITE_PAGES.get(slug(entry))
+    if address and not link_ok(address):
+        address = None
     return (f' &middot; <a href="{e(address)}" target="_blank" rel="noopener" data-pagefind-ignore>'
             f'View on techspressionism.com</a>') if address else ""
 
 
+def canonical_base():
+    """The archive's final public address (data/site-config.json). The environment variable TVA_CANONICAL_BASE overrides it,
+    to try a build with the final address (staging) without editing the config."""
+    return (os.environ.get("TVA_CANONICAL_BASE") or SITE_CONFIG.get("canonical_base") or "").strip().rstrip("/")
+
+
 def canonical_url(filename):
-    base = (SITE_CONFIG.get("canonical_base") or "").strip().rstrip("/")
+    base = canonical_base()
     return f"{base}/{filename}" if base else ""
 
 
@@ -1290,8 +1309,8 @@ def load_people(corpus):
             k = person_key(n)
             if k and k not in PERSON_BY_NORM:
                 PERSON_BY_NORM[k] = p
-        for kind in ("website", "instagram"):       # links found to be broken are left out (listed in review/broken-links.csv)
-            p["links"][kind] = [u for u in p["links"].get(kind, []) if status.get(u, {}).get("status") != "broken"]
+        for kind in list(p["links"]):               # links found broken or parked are left out (listed in review/broken-links.csv)
+            p["links"][kind] = [u for u in p["links"][kind] if status.get(u, {}).get("status") not in ("broken", "parked")]
     # where people speak
     for ent in corpus:
         for seg in ent["segments"]:
@@ -1368,7 +1387,7 @@ def build_person_page(p):
         facts.append(count_link(len(p["exhibitions"]), "exhibition", "exhibitions", "exhibitions"))
     facts_html = "".join(facts)
     links = []
-    if p.get("ts_profile"):
+    if p.get("ts_profile") and link_ok(p["ts_profile"]):
         links.append(f'<a href="{e(p["ts_profile"])}" target="_blank" rel="noopener">Profile on techspressionism.com &#8599;</a>')
     for kind, text in (("website", "Website"), ("instagram", "Instagram"), ("wikipedia", "Wikipedia"), ("nft", "NFT"), ("twitter", "Twitter")):
         for u in p["links"].get(kind, [])[:2]:
@@ -1387,7 +1406,8 @@ def build_person_page(p):
         for slug, credits in p["exhibitions"].items():
             info = labels.get(slug, {})
             title = e(info.get("label", slug.title()))
-            link = f'<a href="{e(info.get("url", "#"))}" target="_blank" rel="noopener">{title}</a>'
+            link = (f'<a href="{e(info.get("url", "#"))}" target="_blank" rel="noopener">{title}</a>'
+                    if link_ok(info.get("url", "")) else title)
             sub = "".join(f'<span class="sub">{e(c)}</span><br>' for c in credits[:3])
             reel = [r for r in p["reels"] if r["exhibition"] == slug]
             pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "REEL") for r in reel[:1])
@@ -1442,6 +1462,11 @@ main.person { max-width:52rem; }
 .rowitem .sub { color:var(--muted); font-size:.92rem; }
 .rowitem .pill { flex:none; }
 .person .note { color:var(--muted); font-size:.9rem; margin-top:.6rem; }
+.cite-example { border-left:3px solid var(--accent); padding:.2rem 0 .2rem 1rem; }
+.sitefoot { max-width:60rem; margin:2.5rem auto 1.5rem; padding:0 1.25rem; text-align:center; font-size:.85rem; color:var(--muted); }
+.sitefoot a { color:var(--muted); }
+.about ul { list-style:disc; padding-left:1.4rem; margin:.5rem 0; }
+.about li { margin:.3rem 0; }
 .person details summary { cursor:pointer; color:var(--accent); margin:.8rem 0 .2rem; }
 .person mark { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 @media (max-width:40rem) { .rowitem { flex-direction:column; align-items:flex-start; } }
@@ -1532,6 +1557,266 @@ def build_index(corpus):
     )
 
 
+# ---- search-engine and AI-discovery markup (see lib_seo.py) ---------------------------------------------------------
+
+ORG_NAME = SITE_CONFIG.get("organization_name") or "Techspressionism"
+ORG_URL = SITE_CONFIG.get("organization_url") or "https://techspressionism.com/"
+SERIES_GROUP = {"salon": "Techspressionist Salons", "interview": "Techspressionist Artist Interview Series",
+                "roundtable": "Techspressionism Roundtables", "presentation": "Presentations"}
+
+
+def entry_heading(entry):
+    series, title = series_name(entry), (entry.get("session_title") or "").strip()
+    return f"{series}: {title}" if title and title != series else series
+
+
+def entry_people(entry):
+    """People who speak or are interviewed, in order, without duplicates."""
+    names = []
+    for n in ([entry.get("interviewee"), entry.get("interviewer")] if entry.get("interviewee")
+              else [s["name"] for s in entry.get("speakers", [])]):
+        if n and not is_not_speaker(n) and n not in names:
+            names.append(n)
+    return names
+
+
+def entry_description(entry):
+    date = entry.get("date_recorded")
+    when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
+    people = entry_people(entry)
+    with_ = ""
+    if people:
+        with_ = " With " + ", ".join(people[:4]) + (" and others" if len(people) > 4 else "") + "."
+    return lib_seo.clip_text(f"Searchable, timestamped transcript of {entry_heading(entry)}{when}.{with_} "
+                             "Every passage links to the exact moment in the video.", 300)
+
+
+def entry_clips(entry):
+    """[(speaker, start, end)]: one per stretch of an identified speaker of two minutes or more (at most 40, in time order)."""
+    segs = [s for s in entry["segments"] if s.get("start") is not None]
+    runs = []
+    for i, s in enumerate(segs):
+        sp = s.get("speaker")
+        if runs and runs[-1][0] == sp:
+            continue
+        runs.append((sp, int(s["start"])))
+    duration = int(entry.get("duration_seconds") or 0)
+    clips = []
+    for k, (sp, start) in enumerate(runs):
+        end = runs[k + 1][1] if k + 1 < len(runs) else duration
+        if sp and not is_not_speaker(sp) and end - start >= 120:
+            clips.append((sp, start, end))
+    return sorted(sorted(clips, key=lambda c: c[1] - c[2])[:40], key=lambda c: c[1])
+
+
+def transcript_md_href(entry):
+    return f"transcripts/{slug(entry)}.md"
+
+
+def seo_for_entry(entry):
+    base_home = canonical_url("")
+    name = entry_heading(entry)
+    title = f"{name} (Transcript)"
+    desc = entry_description(entry)
+    page = canonical_url(f"{slug(entry)}.html")
+    thumb = canonical_url(f"thumbnails/{entry['video_id']}.jpg") if (SITE_DIR / "thumbnails" / f"{entry['video_id']}.jpg").exists() or \
+        (THUMBNAILS_SRC_DIR / f"{entry['video_id']}.jpg").exists() else ""
+    people = entry_people(entry)
+    ld = None
+    if page:
+        info = TYPES[entry.get("type", "salon")]
+        ld = lib_seo.video_graph(
+            base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=title, description=desc, thumb=thumb,
+            video_id=entry["video_id"], upload_date=entry.get("date_published") or entry.get("date_recorded") or "",
+            recorded=None if date_is_estimate(entry) else entry.get("date_recorded"), duration=entry.get("duration_seconds"),
+            series_name=entry.get("series") or SERIES_GROUP[entry.get("type", "salon")],
+            people=[(n, canonical_url(person_link(n)) if person_link(n) else "") for n in people],
+            clips=[(f"{sp}", s, e_) for sp, s, e_ in entry_clips(entry)],
+            trail=[(BRAND, base_home), (info["plural"], canonical_url(f"index.html?type={info['label']}")), (name, page)])
+    meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or f"{slug(entry)}.html",
+                                source_url=entry["url"]) if page else []
+    alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
+    return dict(title=f"{title} · {BRAND}", social_title=title, description=desc, url=page, image=thumb, og_type="video.other", jsonld=ld,
+                meta=meta, alternates=alt, video_embed=f"https://www.youtube.com/embed/{entry['video_id']}")
+
+
+def seo_for_person(p):
+    page = canonical_url(f"artist-{p['id']}.html")
+    n_rec, n_men = len(p["speaks"]), len(p["mentions"])
+    bits = []
+    if n_rec:
+        bits.append(f"speaks in {n_rec} recording{'s' if n_rec != 1 else ''}")
+    if n_men:
+        bits.append(f"is named in {n_men} passage{'s' if n_men != 1 else ''}")
+    if p["exhibitions"]:
+        bits.append(f"appears in {len(p['exhibitions'])} exhibition{'s' if len(p['exhibitions']) != 1 else ''} on techspressionism.com")
+    lead = p["name"] + (f" ({p['location']})" if p.get("location") else "")
+    desc = lib_seo.clip_text(f"{lead} {' and '.join(bits) if bits else 'appears in the Techspressionism Video Archive'}. "
+                             "Timestamped transcript passages with links to the video, and links to their website and social pages.", 300)
+    same_as = [u for k in ("website", "instagram", "wikipedia", "twitter", "nft") for u in p["links"].get(k, [])]
+    ld = None
+    if page:
+        base_home = canonical_url("")
+        apps = [(entry_heading(r["ent"]), canonical_url(f"{slug(r['ent'])}.html")) for r in
+                sorted(p["speaks"].values(), key=lambda r: r["ent"].get("date_recorded") or "", reverse=True)[:10]]
+        ld = lib_seo.person_graph(base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=p["name"], description=desc,
+                                  aliases=p.get("aliases") or [], same_as=same_as, appearances=apps,
+                                  trail=[(BRAND, base_home), ("Artists", canonical_url("index.html?type=Artist")), (p["name"], page)])
+    return dict(title=f"{p['name']}: recordings, mentions and links · {BRAND}", social_title=f"{p['name']} · {BRAND}", description=desc,
+                url=page, image="", og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
+
+
+def archive_stats(corpus):
+    years = [int(x["date_recorded"][:4]) for x in corpus if len(x.get("date_recorded") or "") >= 7 and not date_is_estimate(x)]   # a year-only placeholder date is ignored
+    first = min(years + [int(v) for v in SITE_CONFIG.get("series_start_years", {}).values()]) if years else 2020
+    return {"n": len(corpus), "hours": round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600),
+            "first": first, "last": max(years) if years else first,
+            "by_type": {k: sum(1 for x in corpus if x.get("type", "salon") == k) for k in TYPES},
+            "as_of": datetime.date.today().strftime("%B %Y")}
+
+
+def archive_summary(st):
+    return (f"A searchable, citable transcript archive of {st['n']} recorded Techspressionism salons, artist interviews, roundtables and "
+            f"presentations ({st['hours']} hours, {st['first']}–{st['last']}). Every passage links to the exact moment in the YouTube video.")
+
+
+def seo_for_home(corpus):
+    st = archive_stats(corpus)
+    desc = archive_summary(st)
+    page = canonical_url("")
+    ld = None
+    if page:
+        ld = lib_seo.home_graph(base=page, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, description=desc, first_year=st["first"],
+                                last_year=st["last"], csv_url=canonical_url("data/recordings.csv"), license_url=SITE_CONFIG.get("license_url") or "",
+                                doi=SITE_CONFIG.get("zenodo_doi") or "", youtube_channel=SITE_CONFIG.get("youtube_channel_url") or "")
+    return dict(title=f"{BRAND} (TVA): searchable, citable transcripts of Techspressionism recordings", social_title=BRAND, description=desc,
+                url=page, image="", og_type="website", jsonld=ld, meta=[], alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")],
+                video_embed="")
+
+
+FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
+          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
+
+
+def add_seo(page_html, filename, seo):
+    """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer before </body>."""
+    page_html = re.sub(r"<title>.*?</title>", lambda m: f"<title>{e(seo['title'])}</title>", page_html, count=1, flags=re.S)
+    tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
+                             og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
+                             alternates=seo["alternates"], video_embed=seo["video_embed"])
+    page_html = page_html.replace("</head>", tags + "\n</head>", 1)
+    return page_html.replace("</body>", FOOTER + "\n</body>", 1)
+
+
+def build_about(corpus):
+    st = archive_stats(corpus)
+    tn = st["by_type"]
+    example = max((x for x in corpus if x.get("type", "salon") == "salon"), key=lambda x: x["number"])
+    ex_title = entry_heading(example)
+    ex_cite = (f'Speaker Name, &ldquo;{e(series_name(example))}: {e(example.get("session_title") or "Untitled")},&rdquo; {e(BRAND)}, '
+               f'{e(fmt_date(example.get("date_recorded")))}, streaming video, 00:12:34, {e(example["url"])}&amp;t=754s.')
+    page = canonical_url("about.html")
+    desc = lib_seo.clip_text("What the Techspressionism Video Archive contains, how its transcripts are made and how accurate they are, "
+                             "how to cite a passage, and where to download the data.", 300)
+    body = f"""<h1>About the {e(BRAND)}</h1>
+<p>The {e(BRAND)} (TVA) is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
+It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
+<a href="index.html?type=Salon">salons</a>, {tn.get('interview', 0)} artist <a href="index.html?type=Interview">interviews</a>,
+{tn.get('roundtable', 0)} <a href="index.html?type=Roundtable">roundtables</a> and {tn.get('presentation', 0)} <a href="index.html?type=Presentation">presentations</a>.
+It is a research tool for scholars, historians, students and anyone interested in Techspressionism, the art and technology community
+described at <a href="{e(ORG_URL)}" target="_blank" rel="noopener">techspressionism.com</a>. As of {st['as_of']}.</p>
+<h2>What you can do here</h2>
+<ul>
+<li><strong>Search</strong> every recording at once from the home page. A search matches whole words and shows the sentence in context with a citation.</li>
+<li><strong>Read a transcript</strong> beside its video. Every paragraph carries a timecode button that plays the video from that moment.</li>
+<li><strong>Find an artist</strong> in the <a href="index.html?type=Artist">Artists</a> list: where they speak, where others name them, and links to their own pages.</li>
+</ul>
+<h2>How the transcripts are made</h2>
+<p>Where Zoom produced a transcript it is used, because it labels who is speaking; otherwise the audio is transcribed with Whisper, an open
+speech-recognition program, and where neither exists YouTube's captions are used. Timestamps are matched to the YouTube video, including for recordings
+edited before upload. A speaker's name is shown only when it is supported by Zoom's own label, the speaker list in the video description, or a person who
+has listened and confirmed it. Otherwise the passage is marked <em>Unattributed</em> and is not offered as a search result, because a passage
+without a confirmed speaker cannot be cited.</p>
+<p><strong>Transcripts are machine-generated and contain errors.</strong> Names, art terms and technical vocabulary are the most likely to be wrong.
+Verify every quotation against the recording before citing it.</p>
+<h2>How to cite</h2>
+<p>Cite the passage with its speaker, the recording, the date, the timestamp and the YouTube address of the recording, which is permanent.
+Every search result offers a ready-made citation with a Copy Citation button. The form is:</p>
+<p class="cite-example">{ex_cite}</p>
+<p>The example uses {e(ex_title)}; each recording page also shows its own citation line.</p>
+<h2>Data and reuse</h2>
+<ul>
+<li><a href="data/recordings.csv">recordings.csv</a>: every recording with its title, dates, YouTube address and duration.</li>
+<li>Each transcript as plain Markdown: <code>transcripts/&lt;recording&gt;.md</code>, for example <a href="{e(transcript_md_href(example))}">{e(slug(example))}.md</a>.
+The recording pages link to theirs.</li>
+<li><a href="llms.txt">llms.txt</a>: a Markdown index of the archive for AI assistants and search tools. <a href="sitemap.xml">sitemap.xml</a> lists every page.</li>
+{f'<li>Permanent deposit with a DOI: <a href="https://doi.org/{e(SITE_CONFIG["zenodo_doi"])}">{e(SITE_CONFIG["zenodo_doi"])}</a>.</li>' if SITE_CONFIG.get("zenodo_doi") else ''}
+</ul>
+{f'<p>Reuse of the transcripts: <a href="{e(SITE_CONFIG["license_url"])}">{e(SITE_CONFIG.get("license_name") or "licence")}</a>.</p>' if SITE_CONFIG.get("license_url") else ''}
+<p class="note">The archive is in beta and pages may change. Sources: the recordings on the
+<a href="{e(SITE_CONFIG.get('youtube_channel_url') or 'https://www.youtube.com/@techspressionism')}" target="_blank" rel="noopener">Techspressionism YouTube channel</a>
+and the exhibition and artist pages on techspressionism.com.</p>"""
+    head = build_header(NAV_CORPUS, "")
+    ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
+                             trail=[(BRAND, canonical_url("")), ("About", page)]) if page else None
+    html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+                 f'<title>About the {e(BRAND)}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
+                 f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person about">\n{body}\n</main>\n</body>\n</html>\n')
+    seo = dict(title=f"About the {BRAND}: coverage, method and how to cite", social_title=f"About the {BRAND}", description=desc, url=page, image="",
+               og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
+    return add_seo(html_page, "about.html", seo)
+
+
+def write_site_files(corpus):
+    """Files for crawlers and AI tools: sitemap.xml, llms.txt, robots.txt, the Markdown transcripts and the recordings table."""
+    (SITE_DIR / "transcripts").mkdir(exist_ok=True)
+    (SITE_DIR / "data").mkdir(exist_ok=True)
+    for old in (SITE_DIR / "transcripts").glob("*.md"):
+        old.unlink()
+    for entry in corpus:
+        src = ROOT / "corpus" / f"{slug(entry)}.md"
+        if src.exists():
+            shutil.copy2(src, SITE_DIR / "transcripts" / src.name)
+    csv_src = ROOT / "data" / "recordings.csv"
+    if csv_src.exists():
+        shutil.copy2(csv_src, SITE_DIR / "data" / "recordings.csv")
+    base_home = canonical_url("")
+    absu = lambda rel: canonical_url(rel) or rel
+    st = archive_stats(corpus)
+    groups = []
+    for key, info in TYPES.items():
+        items = []
+        for x in sorted((c for c in corpus if c.get("type", "salon") == key), key=lambda c: c["number"], reverse=True):
+            people = entry_people(x)
+            note = "; ".join(bit for bit in [fmt_date(x.get("date_recorded")) if x.get("date_recorded") else "",
+                                              ", ".join(people[:4]) + (" and others" if len(people) > 4 else "")] if bit)
+            items.append((entry_heading(x), absu(transcript_md_href(x)), note))
+        if items:
+            groups.append((f"{info['plural']} ({len(items)})", items))
+    (SITE_DIR / "llms.txt").write_text(lib_seo.llms_txt(
+        brand=BRAND, summary=archive_summary(st), base=base_home, about_url=absu("about.html"), csv_url=absu("data/recordings.csv"),
+        groups=groups, artists_url=absu("index.html?type=Artist"), sitemap_url=absu("sitemap.xml"), doi=SITE_CONFIG.get("zenodo_doi") or ""), encoding="utf-8")
+    if base_home:
+        pages = [{"loc": base_home}, {"loc": canonical_url("about.html")}]
+        for x in corpus:
+            thumb = canonical_url(f"thumbnails/{x['video_id']}.jpg")
+            pages.append({"loc": canonical_url(f"{slug(x)}.html"), "video": {
+                "thumb": thumb, "title": f"{entry_heading(x)} (Transcript)", "description": entry_description(x),
+                "embed": f"https://www.youtube.com/embed/{x['video_id']}", "duration": x.get("duration_seconds") or 0,
+                "published": x.get("date_published") or x.get("date_recorded") or ""}})
+        pages += [{"loc": canonical_url(f"artist-{pp['id']}.html")} for pp in LISTED]
+        (SITE_DIR / "sitemap.xml").write_text(lib_seo.sitemap_xml(pages), encoding="utf-8")
+        if not SITE_CONFIG.get("beta_noindex"):        # robots.txt only once the archive is meant to be found
+            (SITE_DIR / "robots.txt").write_text(lib_seo.robots_txt(canonical_url("sitemap.xml"), SITE_CONFIG.get("allow_ai_training_crawlers", True)), encoding="utf-8")
+        else:
+            (SITE_DIR / "robots.txt").unlink(missing_ok=True)
+    else:
+        (SITE_DIR / "sitemap.xml").unlink(missing_ok=True)
+        (SITE_DIR / "robots.txt").unlink(missing_ok=True)
+
+
+
+
 def main():
     no_index = "--no-index" in sys.argv
     with open(CORPUS_JSON) as f:
@@ -1541,25 +1826,21 @@ def main():
     load_people(corpus)
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
-    (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus), "index.html"))
+    (SITE_DIR / "index.html").write_text(add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)))
+    (SITE_DIR / "about.html").write_text(add_robots(build_about(corpus), "about.html"))
     by_type = {}
     for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
-        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"))
-
-    if SITE_CONFIG.get("canonical_base"):       # sitemap.xml for search engines (only once the final address is known)
-        urls = [canonical_url("")] + [canonical_url(f"{slug(x)}.html") for x in corpus] + [canonical_url(f"artist-{pp['id']}.html") for pp in LISTED]
-        (SITE_DIR / "sitemap.xml").write_text(
-            '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-            + "".join(f"<url><loc>{e(u)}</loc></url>\n" for u in urls) + "</urlset>\n")
-    else:
-        (SITE_DIR / "sitemap.xml").unlink(missing_ok=True)
+        (SITE_DIR / f"{slug(entry)}.html").write_text(add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
+                                                            f"{slug(entry)}.html", seo_for_entry(entry)))
 
     for old in SITE_DIR.glob("artist-*.html"):          # only artists heard or named in the recordings have a page
         old.unlink()
     for pp in LISTED:
-        (SITE_DIR / f"artist-{pp['id']}.html").write_text(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"))
+        (SITE_DIR / f"artist-{pp['id']}.html").write_text(add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
+                                                                 f"artist-{pp['id']}.html", seo_for_person(pp)))
+    write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     (SITE_DIR / "times").mkdir(exist_ok=True)
     for sl, data in TIMES.items():

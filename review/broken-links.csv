@@ -1,4 +1,6 @@
 person,kind,address,problem,checked
+Yannet Vilela,website,http://andywauman.xyz/,parked domain (redirects to the registrar's /lander page),2026-09-20
+Andy Wauman,website,http://andywauman.xyz/,parked domain (redirects to the registrar's /lander page),2026-09-20
 nessi alexander-barnes,website,http://apocryphabulous.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Arian Qalandaran,website,http://arianqalandaran.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Ellie Nikoo,website,http://enikoo.com/all-works/creative-coding/,HTTP 404,2026-09-20
@@ -9,18 +11,27 @@ Roman Verostko,website,http://verostko.com/,"[Errno 8] nodename nor servname pro
 Cristina Inciarte,website,http://www.cristinainciarte.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Deann Stein Hasinoff,website,http://www.deannsteinhasinoff.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Osiris Munir,website,http://www.expressinabstract.net/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
+Mary-Ellen Latino,website,http://www.highinfiberart.com,hosting placeholder page (no website set up),2026-09-20
 Tim Fabian,instagram,http://www.instagram.com/pittsburghpanoramas,profile not found,2026-09-20
 Marjan Andaroodi,website,http://www.marjanandaroodi.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 ST Rivera,website,http://www.shamikalovesink.com/versions-of-the-same-song,HTTP 404,2026-09-20
-Yeohyun Ahn,website,http://www.yeohyunahn.com/,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific,2026-09-20
+Yeohyun Ahn,website,http://www.yeohyunahn.com/,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certific,2026-09-20
 Andy Young,website,https://StrangeCarrots.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Subcisco,website,https://Subcisco.com,timed out,2026-09-20
 Aman Rasouli,website,https://amanrasouli.art/works,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Ken Heidenreich,website,https://artistken.wixsite.com/artistken,HTTP 404,2026-09-20
 Benjamin Tritt,website,https://bentritt.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Bink Walstra,website,https://bonkstraa.com,[Errno 65] No route to host,2026-09-20
-David Guerrero,website,https://davidguerrero.art/,EOF occurred in violation of protocol (_ssl.c:1129),2026-09-20
+David Guerrero,website,https://davidguerrero.art/,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.,2026-09-20
 Adrian Cain,website,https://draincain.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
+Scott Oppenheim,nft,https://foundation.app/@Dg8tal,HTTP 404,2026-09-20
+Amir Karimi,nft,https://foundation.app/@amirkarimi/,HTTP 404,2026-09-20
+ScoJo,nft,https://foundation.app/@artscojo,HTTP 404,2026-09-20
+Joanna Steidle,nft,https://foundation.app/@jsteidle,HTTP 404,2026-09-20
+Kero,nft,https://foundation.app/@kero,HTTP 404,2026-09-20
+Vytas Gaizutis,nft,https://foundation.app/gaizutis,HTTP 404,2026-09-20
+Colin Goldberg,nft,https://foundation.app/goldberg/,HTTP 404,2026-09-20
+Mahnaz Rasouli,nft,https://foundation.app/mahnaz,HTTP 404,2026-09-20
 Adariiine,instagram,https://instagram.com/adariiine,profile not found,2026-09-20
 Akira Ohiso,instagram,https://instagram.com/akiraohiso/,profile not found,2026-09-20
 Andrew Kotlinski,instagram,https://instagram.com/andykotlinski,profile not found,2026-09-20
@@ -38,11 +49,11 @@ Natalia Recalde,instagram,https://instagram.com/nnatalia.recalde,profile not fou
 Tassneen Bashir,instagram,https://instagram.com/tee.n.bee,profile not found,2026-09-20
 Vibeke Kidmose,instagram,https://instagram.com/vkidmose,profile not found,2026-09-20
 Andrew Ballard,instagram,https://instagram.com/wordsbyandrew/,profile not found,2026-09-20
+Julie McIver,website,https://juliemciver.myportfolio.com/,the site sends this address to its 'missing' page (/missing),2026-09-20
 Kerry Mitchell,website,https://kerrycmitchell.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Giovanna Sun,website,https://linktr.ee/dubwoman,HTTP 404,2026-09-20
 Lucie Králíková,website,https://lucikkralikova.wixsite.com/portfolio,HTTP 404,2026-09-20
 Natalia Recalde,website,https://nataliarecalde.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Robert A. Ripps,website,https://negativityness.com,[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129),2026-09-20
 Monoglyph,website,https://oneglyph.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Francis Mariano,website,https://phrancism.com/,HTTP 404,2026-09-20
 werpi279,website,https://pierstefanobellani.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
@@ -50,16 +61,22 @@ LoVid,website,https://postmastersblockchain.com/artists/lovid/,HTTP 404,2026-09-
 Pierre-Hugues Hétu,website,https://puguess.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Margaret Dolinsky,website,https://soaad.indiana.edu/faculty/directory/dolinsky-margaret.html,HTTP 404,2026-09-20
 David Bloom,website,https://townsendstreetgallery.com/david-bloom,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Christina Galbiati,website,https://www.TinaGalbiati.com,[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129),2026-09-20
+Scott Oppenheim,twitter,https://twitter.com/dg8tal,HTTP 404,2026-09-20
+Colin Goldberg,twitter,https://twitter.com/goldbergfineart,HTTP 404,2026-09-20
+Sahar Moussavi,twitter,https://twitter.com/sa_hirmo,HTTP 404,2026-09-20
+SUDO,twitter,https://twitter.com/sudorootla,HTTP 404,2026-09-20
+Carrie MaKenna,website,https://www.anamcarastudiogallery.com/,parked domain (redirects to the registrar's /lander page),2026-09-20
+Ariel Baron-Robbins,website,https://www.arielbaronrobbins.com,placeholder page ('Index of /'),2026-09-20
 J. F. Bautista,website,https://www.artbybautista.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Ernest Bisaev,website,https://www.artstudio-ernest.de/,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129),2026-09-20
+ScoJo,website,https://www.artscojo.com/,_ssl.c:993: The handshake operation timed out,2026-09-20
+Ernest Bisaev,website,https://www.artstudio-ernest.de/,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:101,2026-09-20
 Ryan Henderson,website,https://www.audio-optio.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Aurora Innconnu,website,https://www.aurorartstudio.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Barbara Kahn,website,https://www.barbarakahn.art,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129),2026-09-20
+Barbara Kahn,website,https://www.barbarakahn.art,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010),2026-09-20
 Beth Giacummo,website,https://www.bethgiacummo.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Brian St Cyr,website,https://www.brianstcyr.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Cassiopeus,website,https://www.cassiopeus.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, c",2026-09-20
-Delta N.A.,website,https://www.dnartists.com,EOF occurred in violation of protocol (_ssl.c:1129),2026-09-20
+Colman Jones,website,https://www.colman.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local ,2026-09-20
 Zouhair El Helou AKA fractalogist,website,https://www.elhelouzouhair.co/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Keri Haskell,website,https://www.emergingartistplatform.com/kerihaskell,HTTP 404,2026-09-20
 Yannet Vilela,website,https://www.fxhash.xyz/u/joey%20zaza,HTTP 402,2026-09-20
@@ -110,13 +127,10 @@ SUDO,instagram,https://www.instagram.com/sudorootla/,profile not found,2026-09-2
 Vytas Gaizutis,instagram,https://www.instagram.com/vytas_gaizutis/,profile not found,2026-09-20
 Zouhair El Helou AKA fractalogist,instagram,https://www.instagram.com/zhr.hlu,profile not found,2026-09-20
 Kat Evans,website,https://www.katevans.art,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Mich Palmer,website,https://www.michphoto.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific,2026-09-20
+Mich Palmer,website,https://www.michphoto.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certific,2026-09-20
 Negin Ehtesabian,website,https://www.neginete.com,HTTP 404,2026-09-20
 Gregory Little,website,https://www.neginete.com/,HTTP 404,2026-09-20
-ST Rivera,website,https://www.night-shining.com/,[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129),2026-09-20
-M.Romeo - Night Shining,website,https://www.night-shining.com/,[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129),2026-09-20
 Rebecca Tombaugh,website,https://www.rebeccatombaugh.com/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
-Antonis Dimitriou,website,https://www.saatchiart.com/antonis_dimitriou,HTTP 404,2026-09-20
 Samantha Billig,website,https://www.samnicoleart.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 Sandra Pipken,website,https://www.sandrapipkenphotography.com,"[Errno 8] nodename nor servname provided, or not known",2026-09-20
 X New Worlds,website,https://xnewworlds.xyz/,"[Errno 8] nodename nor servname provided, or not known",2026-09-20

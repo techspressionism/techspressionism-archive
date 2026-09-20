@@ -1,0 +1,13 @@
+{
+ "_comment": "Artist name -> English Wikipedia address. Written by find-wikipedia-links.py (accepted matches) and by hand (add a line to accept a candidate from review/wikipedia-candidates.csv). build-people.py adds these to the artists' links.",
+ "Adrianne Wortzel": "https://en.wikipedia.org/wiki/Adrianne_Wortzel",
+ "Andrea Bonaceto": "https://en.wikipedia.org/wiki/Andrea_Bonaceto",
+ "Angela Ferraiolo": "https://en.wikipedia.org/wiki/Angela_Ferraiolo",
+ "Helen A. Harrison": "https://en.wikipedia.org/wiki/Helen_A._Harrison",
+ "Jacquelyn Ford Morie": "https://en.wikipedia.org/wiki/Jacquelyn_Ford_Morie",
+ "Janet Biggs": "https://en.wikipedia.org/wiki/Janet_Biggs",
+ "Lauren Woods": "https://en.wikipedia.org/wiki/Lauren_Woods",
+ "Nina Kuo": "https://en.wikipedia.org/wiki/Nina_Kuo",
+ "Paul D. Miller aka DJ Spooky that Subliminal Kid": "https://en.wikipedia.org/wiki/DJ_Spooky",
+ "Sasha Stiles": "https://en.wikipedia.org/wiki/Sasha_Stiles"
+}

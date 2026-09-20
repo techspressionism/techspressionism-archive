@@ -792,6 +792,9 @@
     ],
     "instagram": [
      "https://www.instagram.com/janetbiggs1/"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Janet_Biggs"
     ]
    },
    "ts_profile": "",
@@ -922,6 +925,9 @@
     ],
     "instagram": [
      "https://www.instagram.com/andreabonac/"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Andrea_Bonaceto"
     ]
    },
    "ts_profile": "",
@@ -2513,7 +2519,11 @@
    "name": "Angela Ferraiolo",
    "aliases": [],
    "location": "",
-   "links": {},
+   "links": {
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Angela_Ferraiolo"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -3184,7 +3194,11 @@
    "name": "Helen A. Harrison",
    "aliases": [],
    "location": "",
-   "links": {},
+   "links": {
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Helen_A._Harrison"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -4045,7 +4059,11 @@
     "Paul D. Miller aka DJ Spooky"
    ],
    "location": "NYC, USA",
-   "links": {},
+   "links": {
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/DJ_Spooky"
+    ]
+   },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/paul-d-miller/",
    "exhibitions": {
     "southampton": [
@@ -4382,6 +4400,9 @@
    "links": {
     "website": [
      "https://mythicalmuse.com/"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Nina_Kuo"
     ]
    },
    "ts_profile": "",
@@ -5778,6 +5799,9 @@
     ],
     "instagram": [
      "https://www.instagram.com/skydeas"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Jacquelyn_Ford_Morie"
     ]
    },
    "ts_profile": "",
@@ -8303,6 +8327,9 @@
     ],
     "twitter": [
      "https://twitter.com/sashastiles"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Sasha_Stiles"
     ]
    },
    "ts_profile": "",
@@ -9553,6 +9580,9 @@
     ],
     "instagram": [
      "https://www.instagram.com/laurenwoodsart/"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Lauren_Woods"
     ]
    },
    "ts_profile": "",
@@ -9587,6 +9617,9 @@
     ],
     "instagram": [
      "https://www.instagram.com/adriannewortzel/"
+    ],
+    "wikipedia": [
+     "https://en.wikipedia.org/wiki/Adrianne_Wortzel"
     ]
    },
    "ts_profile": "",

@@ -309,6 +309,15 @@ def main():
             gone = people.get(norm(other))
             if rec and gone is not None and gone is not rec:
                 absorb(rec, people.pop(norm(other)))
+    # Wikipedia articles found by find-wikipedia-links.py or added by hand (data/wikipedia-links.json)
+    wp_path = ROOT / "data" / "wikipedia-links.json"
+    if wp_path.exists():
+        for name, url in json.loads(wp_path.read_text()).items():
+            rec = people.get(norm(name))
+            if rec is not None and not name.startswith("_"):
+                have = {u.rstrip("/").lower() for u in rec["links"].get("wikipedia", [])}
+                if url.rstrip("/").lower() not in have:
+                    rec["links"].setdefault("wikipedia", []).append(url)
     out = []
     used = set()
     for key in sorted(people):
