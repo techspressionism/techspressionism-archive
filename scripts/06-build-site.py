@@ -317,6 +317,10 @@ details.about .intro { color:var(--fg); }
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
 
+# The search filter dropdowns (Country, Speaker, Type, Year) and the phone "Filters" button are hidden for now;
+# the category pills in the header still filter. Set "show_search_filters": true in data/site-config.json to bring them back.
+HIDE_FILTERS_CSS = "\n#search .pagefind-ui__filter-panel, #search .filters-toggle { display:none !important; }\n"
+
 PAGE_TMPL = """<!doctype html>
 <html lang="en">
 <head>
@@ -943,7 +947,7 @@ def main():
 
     NAV_CORPUS[:] = corpus
     SITE_DIR.mkdir(exist_ok=True)
-    (SITE_DIR / "style.css").write_text(STYLE)
+    (SITE_DIR / "style.css").write_text(STYLE + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS))
     (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus), "index.html"))
     by_type = {}
     for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
