@@ -165,6 +165,8 @@ header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; alig
 header.site strong { font-size:1.25rem; }
 header.site .wrap { container-type:inline-size; }
 @media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (15.4 = its length in em, plus a little slack) */
+  header.site .wrap { row-gap:.1rem; }
+  header.site strong { line-height:1.1; }
   header.site .topnav { flex:1 1 100%; justify-content:space-between; font-size:.85rem; gap:.2rem .5rem; flex-wrap:nowrap; }   /* evenly spread, first flush left, last flush right */
   header.site .wrap > .d { display:none; }
   header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 15.4); line-height:1.2; }
