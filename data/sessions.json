@@ -2588,7 +2588,7 @@
         "start_display": "00:20:30"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -2596,10 +2596,10 @@
       "speaker_added_from_site:Morgan Harper Nichols USA"
     ],
     "transcript_quality": {
-      "word_count": 12571,
+      "word_count": 13065,
       "duration_seconds": 5337,
-      "words_per_minute": 141.3,
-      "bracket_marker_count": 2,
+      "words_per_minute": 146.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2647,7 +2647,7 @@
         "start_display": "00:36:14"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [
       "moderator_missing"
     ],
@@ -2656,10 +2656,10 @@
       "speaker_added_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
-      "word_count": 12233,
+      "word_count": 13352,
       "duration_seconds": 5646,
-      "words_per_minute": 130.0,
-      "bracket_marker_count": 3,
+      "words_per_minute": 141.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2713,16 +2713,16 @@
         "start_display": "01:33:02"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 13206,
+      "word_count": 14137,
       "duration_seconds": 5872,
-      "words_per_minute": 134.9,
-      "bracket_marker_count": 2,
+      "words_per_minute": 144.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2818,14 +2818,14 @@
         "start_display": "01:18:34"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 10673,
+      "word_count": 11331,
       "duration_seconds": 5535,
-      "words_per_minute": 115.7,
-      "bracket_marker_count": 14,
+      "words_per_minute": 122.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2897,14 +2897,14 @@
         "start_display": "01:26:23"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12331,
+      "word_count": 12797,
       "duration_seconds": 5438,
-      "words_per_minute": 136.1,
-      "bracket_marker_count": 5,
+      "words_per_minute": 141.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -2946,13 +2946,13 @@
         "start_display": "01:31:53"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 14911,
+      "word_count": 15303,
       "duration_seconds": 5876,
-      "words_per_minute": 152.3,
+      "words_per_minute": 156.3,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -3031,14 +3031,14 @@
         "start_display": "01:23:55"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 9899,
+      "word_count": 10517,
       "duration_seconds": 5581,
-      "words_per_minute": 106.4,
-      "bracket_marker_count": 13,
+      "words_per_minute": 113.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3156,16 +3156,16 @@
         "start_display": "01:22:21"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 12494,
+      "word_count": 12818,
       "duration_seconds": 5617,
-      "words_per_minute": 133.5,
-      "bracket_marker_count": 15,
+      "words_per_minute": 136.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3213,17 +3213,17 @@
         "start_display": "01:17:06"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Cynthia DiDonato",
       "country_backfilled_from_site:Michael Pierre Price"
     ],
     "transcript_quality": {
-      "word_count": 11385,
+      "word_count": 11149,
       "duration_seconds": 5500,
-      "words_per_minute": 124.2,
-      "bracket_marker_count": 8,
+      "words_per_minute": 121.6,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3277,14 +3277,14 @@
         "start_display": "01:05:16"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 13544,
+      "word_count": 14013,
       "duration_seconds": 5661,
-      "words_per_minute": 143.6,
-      "bracket_marker_count": 3,
+      "words_per_minute": 148.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3954,14 +3954,14 @@
         "start_display": "01:39:23"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 15423,
+      "word_count": 15703,
       "duration_seconds": 6986,
-      "words_per_minute": 132.5,
-      "bracket_marker_count": 3,
+      "words_per_minute": 134.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -4127,16 +4127,16 @@
         "start_display": "01:06:20"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "flags": [],
     "notes": [
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 11511,
+      "word_count": 11719,
       "duration_seconds": 5088,
-      "words_per_minute": 135.7,
-      "bracket_marker_count": 1,
+      "words_per_minute": 138.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5149,12 +5149,12 @@
     ],
     "interviewee": "Anne Spalter",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 8699,
+      "word_count": 8937,
       "duration_seconds": 3305,
-      "words_per_minute": 157.9,
-      "bracket_marker_count": 4,
+      "words_per_minute": 162.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5190,12 +5190,12 @@
     ],
     "interviewee": "Roz Dimon",
     "interviewer": "Michael Pierre Price",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 11864,
+      "word_count": 12273,
       "duration_seconds": 3873,
-      "words_per_minute": 183.8,
-      "bracket_marker_count": 1,
+      "words_per_minute": 190.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5273,12 +5273,12 @@
     ],
     "interviewee": "Davonte Bradley",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 13942,
+      "word_count": 15167,
       "duration_seconds": 5415,
-      "words_per_minute": 154.5,
-      "bracket_marker_count": 4,
+      "words_per_minute": 168.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5314,11 +5314,11 @@
     ],
     "interviewee": "Patrick Lichty",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9142,
+      "word_count": 9895,
       "duration_seconds": 3580,
-      "words_per_minute": 153.2,
+      "words_per_minute": 165.8,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5396,11 +5396,11 @@
     ],
     "interviewee": "Steve Miller",
     "interviewer": "Roz Dimon",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9486,
+      "word_count": 9735,
       "duration_seconds": 3469,
-      "words_per_minute": 164.1,
+      "words_per_minute": 168.4,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5437,12 +5437,12 @@
     ],
     "interviewee": "Andrea Bonaceto",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 5923,
+      "word_count": 5994,
       "duration_seconds": 2141,
-      "words_per_minute": 166.0,
-      "bracket_marker_count": 1,
+      "words_per_minute": 168.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5478,12 +5478,12 @@
     ],
     "interviewee": "Brandon Gellis",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 12051,
+      "word_count": 12353,
       "duration_seconds": 4420,
-      "words_per_minute": 163.6,
-      "bracket_marker_count": 1,
+      "words_per_minute": 167.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5519,11 +5519,11 @@
     ],
     "interviewee": "Michael Rees",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 12856,
+      "word_count": 12970,
       "duration_seconds": 4468,
-      "words_per_minute": 172.6,
+      "words_per_minute": 174.2,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5560,12 +5560,12 @@
     ],
     "interviewee": "Gregory Little",
     "interviewer": "Patrick Lichty",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7380,
+      "word_count": 7312,
       "duration_seconds": 2938,
-      "words_per_minute": 150.7,
-      "bracket_marker_count": 15,
+      "words_per_minute": 149.3,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5602,12 +5602,12 @@
     ],
     "interviewee": "Cee Moses",
     "interviewer": "Davonte Bradley",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 11533,
+      "word_count": 12464,
       "duration_seconds": 4238,
-      "words_per_minute": 163.3,
-      "bracket_marker_count": 2,
+      "words_per_minute": 176.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5643,11 +5643,11 @@
     ],
     "interviewee": "Carter Hodgkin",
     "interviewer": "Roz Dimon",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 5804,
+      "word_count": 6047,
       "duration_seconds": 2324,
-      "words_per_minute": 149.8,
+      "words_per_minute": 156.1,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5726,12 +5726,12 @@
     ],
     "interviewee": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 5597,
+      "word_count": 5837,
       "duration_seconds": 2098,
-      "words_per_minute": 160.1,
-      "bracket_marker_count": 1,
+      "words_per_minute": 166.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5767,11 +5767,11 @@
     ],
     "interviewee": "Tommy Mintz",
     "interviewer": "Michael Pierre Price",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 8936,
+      "word_count": 8958,
       "duration_seconds": 3555,
-      "words_per_minute": 150.8,
+      "words_per_minute": 151.2,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5808,12 +5808,12 @@
     ],
     "interviewee": "Randi Matushevitz",
     "interviewer": "Roz Dimon",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9700,
+      "word_count": 10129,
       "duration_seconds": 3349,
-      "words_per_minute": 173.8,
-      "bracket_marker_count": 1,
+      "words_per_minute": 181.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5849,12 +5849,12 @@
     ],
     "interviewee": "Malavika Mandal Andrew",
     "interviewer": "Roz Dimon",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9576,
+      "word_count": 10652,
       "duration_seconds": 4090,
-      "words_per_minute": 140.5,
-      "bracket_marker_count": 4,
+      "words_per_minute": 156.3,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5890,12 +5890,12 @@
     ],
     "interviewee": "Renata Janiszewska",
     "interviewer": "Michael Pierre Price",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7727,
+      "word_count": 8139,
       "duration_seconds": 3526,
-      "words_per_minute": 131.5,
-      "bracket_marker_count": 4,
+      "words_per_minute": 138.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5931,12 +5931,12 @@
     ],
     "interviewee": "Victor Acevedo",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 15015,
+      "word_count": 15776,
       "duration_seconds": 5816,
-      "words_per_minute": 154.9,
-      "bracket_marker_count": 5,
+      "words_per_minute": 162.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -5973,12 +5973,12 @@
     ],
     "interviewee": "Karen LaFleur",
     "interviewer": "Roz Dimon",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7744,
+      "word_count": 7923,
       "duration_seconds": 2957,
-      "words_per_minute": 157.1,
-      "bracket_marker_count": 1,
+      "words_per_minute": 160.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6014,12 +6014,12 @@
     ],
     "interviewee": "Suzanne Anker",
     "interviewer": "Helen A. Harrison",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 3876,
+      "word_count": 4238,
       "duration_seconds": 2121,
-      "words_per_minute": 109.6,
-      "bracket_marker_count": 5,
+      "words_per_minute": 119.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6055,12 +6055,12 @@
     ],
     "interviewee": "Frank Gillette",
     "interviewer": "Helen A. Harrison",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 5900,
+      "word_count": 5792,
       "duration_seconds": 2633,
-      "words_per_minute": 134.4,
-      "bracket_marker_count": 2,
+      "words_per_minute": 132.0,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6096,12 +6096,12 @@
     ],
     "interviewee": "Verneda Lights",
     "interviewer": "Colin Goldberg",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7734,
+      "word_count": 8098,
       "duration_seconds": 3849,
-      "words_per_minute": 120.6,
-      "bracket_marker_count": 3,
+      "words_per_minute": 126.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6137,12 +6137,12 @@
     ],
     "interviewee": "Nina Sobell",
     "interviewer": "Renata Janiszewska",
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 5636,
+      "word_count": 5939,
       "duration_seconds": 3235,
-      "words_per_minute": 104.5,
-      "bracket_marker_count": 6,
+      "words_per_minute": 110.2,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6620,12 +6620,12 @@
     "notes": [
       "date_recorded_from:upload_date"
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7400,
+      "word_count": 7260,
       "duration_seconds": 2986,
-      "words_per_minute": 148.7,
-      "bracket_marker_count": 11,
+      "words_per_minute": 145.9,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6774,12 +6774,12 @@
     "notes": [
       "date_recorded_from:techspressionism.com"
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 6929,
+      "word_count": 7310,
       "duration_seconds": 3114,
-      "words_per_minute": 133.5,
-      "bracket_marker_count": 2,
+      "words_per_minute": 140.8,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6822,12 +6822,12 @@
       "date_recorded_from:techspressionism.com",
       "date_note:confirmed by Colin Goldberg 2026-09-18: recorded January 23, 2023 (the site page says 2022 -- typo)"
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9781,
+      "word_count": 10078,
       "duration_seconds": 3863,
-      "words_per_minute": 151.9,
-      "bracket_marker_count": 3,
+      "words_per_minute": 156.5,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6869,12 +6869,12 @@
     "notes": [
       "date_recorded_from:techspressionism.com"
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7669,
+      "word_count": 8157,
       "duration_seconds": 3420,
-      "words_per_minute": 134.5,
-      "bracket_marker_count": 1,
+      "words_per_minute": 143.1,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -6910,12 +6910,12 @@
     "notes": [
       "date_recorded_from:techspressionism.com"
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 8530,
+      "word_count": 8687,
       "duration_seconds": 3489,
-      "words_per_minute": 146.7,
-      "bracket_marker_count": 1,
+      "words_per_minute": 149.4,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },

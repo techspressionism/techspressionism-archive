@@ -40,6 +40,7 @@ the issue.
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -112,7 +113,8 @@ def find_local_audio(session):
 def extract_audio_via_ytdlp(video_id, dest_dir):
     dest_dir.mkdir(parents=True, exist_ok=True)
     cmd = [
-        "yt-dlp", "-f", "bestaudio", "-x", "--audio-format", "wav", "--audio-quality", "0",
+        "yt-dlp", *(["--js-runtimes", "node"] if shutil.which("node") else []),
+        "-f", "bestaudio", "-x", "--audio-format", "wav", "--audio-quality", "0",
         "-o", str(dest_dir / f"{video_id}.%(ext)s"),
         f"https://www.youtube.com/watch?v={video_id}",
     ]
