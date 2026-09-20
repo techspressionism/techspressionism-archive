@@ -222,7 +222,7 @@ Thank you for your time.
 
 ## Michael Pierre Price [48:22](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2902s)
 
-All right. Next up is Nina Sobel. Hey, Nina!
+All right. Next up is Nina Sobell. Hey, Nina!
 
 ## Nina Sobell [48:26](https://www.youtube.com/watch?v=o7pyuyo35iU&t=2906s)
 

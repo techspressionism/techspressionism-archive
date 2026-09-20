@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Unattributed [00:00](https://www.youtube.com/watch?v=Hjej663DEjw&t=0s)
 
-Here I am with Joseph Necvatal. This is Colin Goldberg, webcasting from the Everbeta Content Network. I'm here with Joseph Necvatal, technology artist and writer. He's going to speak to us a little bit about Veractuality. Right now, we're online checking out some of his stuff and we're about to head over to his studio.
+Here I am with Joseph Nechvatal. This is Colin Goldberg, webcasting from the Everbeta Content Network. I'm here with Joseph Nechvatal, technology artist and writer. He's going to speak to us a little bit about Veractuality. Right now, we're online checking out some of his stuff and we're about to head over to his studio.
 
 You want to head over there? Sure. Okay. And Joseph is going to take over the camera work from here as well. So, you get to be the videographer and the subject. The subject and the object. This is Veractuality and not himself. Let's get out of here. Okay. Do you want to... Turn your computer off or just leave it? I just leave it running all the time. Because you're on a line. Yeah, it's better with the computer.
 

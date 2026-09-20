@@ -241,7 +241,7 @@ My most recent work in this series are experimental plotter drawings based on ph
 
 ## Unattributed [58:04](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3484s)
 
-Thank you very much Colin for sharing your work. It looks beautiful. Finally, sorry not finally, I have a recorded presentation from Nina Sobel so I'm going to share my screen. Okay. I'm not set up to share it properly. My apologies. Colin, would you be able to screen it for us please? Yeah, let me pull it up here.
+Thank you very much Colin for sharing your work. It looks beautiful. Finally, sorry not finally, I have a recorded presentation from Nina Sobell so I'm going to share my screen. Okay. I'm not set up to share it properly. My apologies. Colin, would you be able to screen it for us please? Yeah, let me pull it up here.
 
 Actually, you know what, let me just make sure I'm sharing audio too. Okay. Okay. The Confluence of Photography with Digital Media and an Investigation into the Creative Process. I do everything on my iPhone, glitching and using apps that affect the original source photos taken. I would say that photography is not dead. But being continually modified and expanded upon. At times, the apps I use do not call for photos at all. Switching back and forth, I move forward experimentally.
 

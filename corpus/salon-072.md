@@ -55,7 +55,7 @@ Hi.
 
 ## Sahar Moussavi [02:29](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=149s)
 
-Hi, everyone. Hi, everyone. I'm Sahar Moussavi. I'm Zooming from Iran present today. I'm going to share my screen. I'm not learning how to share. I'm sorry. Can you see my screen? Yes. Yes. Okay. So we are going to talk about environment today. I'm Sahar Musavi. I'm Zooming from Iran. I'm right now in Tehran.
+Hi, everyone. Hi, everyone. I'm Sahar Moussavi. I'm Zooming from Iran present today. I'm going to share my screen. I'm not learning how to share. I'm sorry. Can you see my screen? Yes. Yes. Okay. So we are going to talk about environment today. I'm Sahar Moussavi. I'm Zooming from Iran. I'm right now in Tehran.
 
 Ah, I want to talk about nature in our culture. Nature held great significance and respect in ancient Persia. The ancient Persians had a deep reverence for the natural world and believed in the interconnectedness of all living beings. According to different beliefs and cultures, trees are considered as valuable and sacred beings and Iranian also have much respect tree.
 

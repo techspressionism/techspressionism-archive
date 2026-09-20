@@ -172,9 +172,11 @@
       "canonical": "Joseph Nechvatal",
       "category": "person",
       "known_asr_variants": [
+        "Joseph Necvatal",
         "joseph neckvital"
       ],
-      "notes": "Artist in the index; phonetic ASR error on the surname."
+      "notes": "Artist in the index; phonetic ASR error on the surname.",
+      "whole_word": true
     },
     {
       "canonical": "Roz Dimon",
@@ -208,9 +210,11 @@
       "canonical": "Nina Sobell",
       "category": "person",
       "known_asr_variants": [
+        "Nina Sobel",
         "nina soel"
       ],
-      "notes": "Recurring participant (Wikipedia-notable)."
+      "notes": "Recurring participant (Wikipedia-notable).",
+      "whole_word": true
     },
     {
       "canonical": "Susan Detroy",
@@ -374,6 +378,69 @@
       "known_asr_variants": [
         "rozdiamond"
       ]
+    },
+    {
+      "canonical": "Dan Welden",
+      "category": "artist",
+      "known_asr_variants": [
+        "Dan Weldon"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Michael Rees",
+      "category": "artist",
+      "known_asr_variants": [
+        "Michael Reese"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Renata Janiszewska",
+      "category": "artist",
+      "known_asr_variants": [
+        "Renata Januszewska"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Randi Matushevitz",
+      "category": "artist",
+      "known_asr_variants": [
+        "Randy Matyshevitz"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Sherry Karver",
+      "category": "artist",
+      "known_asr_variants": [
+        "Sherry Carver"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Sahar Moussavi",
+      "category": "artist",
+      "known_asr_variants": [
+        "Sahar Musavi"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 by check-name-variants.py (tier A: the spelling is the person's in the artist index / Wikipedia; the variant is a speech-recognition mis-hearing)"
+    },
+    {
+      "canonical": "Matushevitz",
+      "category": "artist",
+      "known_asr_variants": [
+        "Matyshevitz"
+      ],
+      "whole_word": true,
+      "note": "surname alone (2026-09-20)"
     }
   ]
 }

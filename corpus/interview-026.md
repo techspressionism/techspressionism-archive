@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Unattributed [00:02](https://www.youtube.com/watch?v=iQL826mqyFg&t=2s)
 
-I'm Renata Janiszewska, and I'm an artist who works with digital media. I'm speaking this evening with a very distinguished pioneer of digital art, Nina Sobel, who's talking to me from her New York City studio. I'm in Lion's Head, Canada, and I met Nina through the artistic group or movement or cultural phenomenon, if you will, known as Techspressionism.
+I'm Renata Janiszewska, and I'm an artist who works with digital media. I'm speaking this evening with a very distinguished pioneer of digital art, Nina Sobell, who's talking to me from her New York City studio. I'm in Lion's Head, Canada, and I met Nina through the artistic group or movement or cultural phenomenon, if you will, known as Techspressionism.
 
 Techspressionist artists utilize technology as a means of expressing their emotions. Nina is a multi-platform artist who thinks of herself as an electronic medium. And that led her to originate brainwave drawings, the interactive synchrony of brainwaves between two or more people, creating the first combined physical and mental portrait by visualizing non-verbal communication.
 

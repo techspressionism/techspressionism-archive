@@ -21,7 +21,7 @@ languages: ["en"]
 
 ## Davonte Bradley [00:01](https://www.youtube.com/watch?v=CtSAsaLkmtQ&t=1s)
 
-There it is. All right. Hello, hello, and welcome, everyone, to the 21st Techspressionism Salon. I'm going to be your moderator and host, Devante, otherwise known as Davonte Bradley. I've got Colin here, who coined the term Techspressionism. And we have two wonderful presenters today. We have Cynthia Beth Rubin and Renata Janiszewska.
+There it is. All right. Hello, hello, and welcome, everyone, to the 21st Techspressionism Salon. I'm going to be your moderator and host, Devante, otherwise known as Davonte Bradley. I've got Colin here, who coined the term Techspressionism. And we have two wonderful presenters today. We have Cynthia Beth Rubin and Renata Janiczewska.
 
 I'm going to give you guys a rundown of the format of our salons. If you're unfamiliar, if this is your first time attending, I see a couple of unfamiliar faces, but it's all good. So how it goes is we normally have our two presenters. They'll give a 30 slash 45 minute presentation. And then after that presentation will be a Q&A session after each presentation. And then after that, it's kind of a Q&A session. So it's kind of like a loose period of time where, you know, there's further questions to be had for the presenters or just, you know, general discussion.
 
