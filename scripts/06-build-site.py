@@ -16,6 +16,7 @@ After running this, index the output:
 Usage:
     python3 scripts/06-build-site.py [--no-index]
 """
+import datetime
 import html
 import json
 import re
@@ -319,7 +320,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .body { min-width:0; }
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
-.reccount { margin:.2rem 0 .6rem; color:var(--muted); }
+.reccount { margin:.2rem 0 .6rem; color:var(--fg); }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
 #search .pagefind-ui__form::before { display:none; }
@@ -375,6 +376,8 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .cite-card .cite-actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
+#search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
+#search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
 /* a red rule, with room above and below, before each following search result */
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
@@ -563,7 +566,12 @@ PLAYER_JS = """<script>
       card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
         + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
         + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>';
-      card.querySelector('.cite-text').textContent = citeText;
+      var ct = card.querySelector('.cite-text'), cm = citeText.match(/^(.*?)(https?:[/][/][^ ]+?)([.]?)$/);
+      if (cm) {                            // the YouTube address is a link; Copy Citation still copies plain text
+        var la = document.createElement('a');
+        la.href = cm[2]; la.target = '_blank'; la.rel = 'noopener'; la.textContent = cm[2];
+        ct.appendChild(document.createTextNode(cm[1])); ct.appendChild(la); ct.appendChild(document.createTextNode(cm[3]));
+      } else ct.textContent = citeText;
       card.querySelector('.copy-cite').dataset.citation = citeText;
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
@@ -838,8 +846,8 @@ INDEX_TMPL = """<!doctype html>
 This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.</p>
 <p class="intro">The archive includes transcripts of Techspressionist <a href="index.html?type=Salon">salons</a>, artist <a href="index.html?type=Interview">interviews</a>,
 <a href="index.html?type=Roundtable">roundtable discussions</a>, and artist <a href="index.html?type=Presentation">presentations</a>.
-Transcripts are machine-generated and may contain errors: verify every quote against the recording before citing.
-Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p>
+<strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
+<p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
 </div>
 <p class="reccount"><span id="rec-count">{count_text}</span></p>
 <script>
@@ -920,6 +928,11 @@ function sentenceParts(result, sr) {{
 const CITES = new Map();
 let citeSeq = 0;
 
+// the YouTube address at the end of a citation is a link (Copy Citation still copies plain text)
+function linkifyCitation(citation) {{
+  return escapeHtml(citation).replace(/(https?:[/][/][^ ]+?)([.]?)$/, '<a href="$1" target="_blank" rel="noopener">$1</a>$2');
+}}
+
 function citationBlock(c) {{
   const meta = c.result.meta || {{}};
   const citation = buildCitation(c.result, c.sr, c.at);
@@ -928,7 +941,7 @@ function citationBlock(c) {{
   const here = page + "?play=1&at=" + c.at.toFixed(2) + (c.to != null ? "&to=" + c.to.toFixed(2) : "")
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
   return '<div class="citation-info" data-cid="' + c.id + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
-    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + escapeHtml(citation) + '</span>'
+    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + linkifyCitation(citation) + '</span>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy Citation</button>'
     + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
     + '</div></div>';
@@ -1208,9 +1221,12 @@ def build_index(corpus):
 
     latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
     hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
+    as_of = datetime.date.today().strftime("%B %Y")
     return INDEX_TMPL.format(
         latest_year=latest_year,
         hours=hours,
+        as_of=as_of,
+        n_recordings=len(corpus),
         count_text=e(rec_counts[""]),
         rec_counts_js=json.dumps(rec_counts),
         groups="\n".join(groups),

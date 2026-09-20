@@ -394,7 +394,7 @@ All right. Awesome, Ross. Thank you so much. And definitely, you know, is there 
 
 ## Roz Dimon [52:48](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3168s)
 
-Yeah, yeah, at Rozdimon.Com, there's a link. Yep.
+Yeah, yeah, at rozdimon.Com, there's a link. Yep.
 
 ## Colin Goldberg [52:52](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3172s)
 

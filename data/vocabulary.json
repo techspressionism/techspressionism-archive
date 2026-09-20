@@ -177,9 +177,13 @@
       "canonical": "Roz Dimon",
       "category": "person",
       "known_asr_variants": [
-        "roz diamond"
+        "ros diamond",
+        "ross diamond",
+        "roz diamond",
+        "roz dime"
       ],
-      "notes": "Recurring participant; ASR hears the surname as \"diamond\"."
+      "notes": "Recurring participant; ASR hears the surname as \"diamond\".",
+      "whole_word": true
     },
     {
       "canonical": "Sasha Stiles",
@@ -360,6 +364,13 @@
         "jasper john"
       ],
       "notes": "Artist; ASR/transcript drops the final 's'. whole_word so the correct 'Jasper Johns' is never matched."
+    },
+    {
+      "canonical": "rozdimon",
+      "category": "website",
+      "known_asr_variants": [
+        "rozdiamond"
+      ]
     }
   ]
 }

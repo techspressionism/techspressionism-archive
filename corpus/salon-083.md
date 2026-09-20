@@ -462,7 +462,7 @@ Hi.
 
 ## Colin Goldberg [01:17:49](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4669s)
 
-Oppose Alright Motion carries. We have a salon topic, independence for July 4, th to be moderated by Roz dime. So there we go. As for the last number of salons, I don't know how many the Promotional Graphic will be created by mid journey in collaboration with myself. So that's that's how I use. AI is creating the a little album cover. Art for these saloons.
+Oppose Alright Motion carries. We have a salon topic, independence for July 4, th to be moderated by Roz Dimon. So there we go. As for the last number of salons, I don't know how many the Promotional Graphic will be created by mid journey in collaboration with myself. So that's that's how I use. AI is creating the a little album cover. Art for these saloons.
 
 ## Roz Dimon [01:18:24](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4704s)
 

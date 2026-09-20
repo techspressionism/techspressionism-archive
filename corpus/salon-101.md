@@ -262,7 +262,7 @@ I will do that, and Yeah, as this experience goes on, I can critique some of the
 
 Awesome. Thank you, Clive. Alright, so next up, we have our illustrious artist and curator, Tommy Mintz.
 
-## Tommy's Desktop [45:28](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2728s)
+## Tommy Mintz [45:28](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2728s)
 
 Thank you, Colin. I'm gonna try to share….
 
@@ -272,7 +272,7 @@ Is that working?
 
 Yeah.
 
-## Tommy's Desktop [45:41](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2741s)
+## Tommy Mintz [45:41](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2741s)
 
 Slideshow. Should say to Expressionism, so on. Am I sharing my whole screen, or are you just seeing?
 
@@ -280,7 +280,7 @@ Slideshow. Should say to Expressionism, so on. Am I sharing my whole screen, or 
 
 I'm seeing your desktop with, like, a smaller.
 
-## Tommy's Desktop [45:50](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2750s)
+## Tommy Mintz [45:50](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2750s)
 
 Umbrella.
 
@@ -288,7 +288,7 @@ Umbrella.
 
 I bet.
 
-## Tommy's Desktop [45:52](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2752s)
+## Tommy Mintz [45:52](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2752s)
 
 I'm gonna try that again, I'm sorry. This is… difficult, right? And now… Is that better?
 
@@ -296,7 +296,7 @@ I'm gonna try that again, I'm sorry. This is… difficult, right? And now… Is 
 
 Yep, and now it's.
 
-## Tommy's Desktop [46:02](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2762s)
+## Tommy Mintz [46:02](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2762s)
 
 Awesome. Thank you. So, yeah, I love seeing all this great new work. I mean, I feel like, I don't know where to start, ever, in talking about my own work, and I feel like a number of people here have seen my work before, but, what I do, just as a general practice, is I… I'm sorry, hi, I'm Tommy. I'm… Coming… zooming in from Brooklyn, and most of my photography is, of Manhattan, where I spend a lot of time and live. And, this is, Collage that I generated from a sequence of photographs that I took and then ran through a program that I wrote.
 
