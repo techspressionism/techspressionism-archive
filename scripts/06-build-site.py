@@ -154,7 +154,7 @@ h1, h2, h3, h4, header.site strong { font-family:"Kanit",-apple-system,BlinkMacS
 h1 { font-weight:800; }
 h2, h3, h4, header.site strong { font-weight:700; }
 h3.para-time { font-family:inherit; font-weight:400; font-style:normal; }
-:root { --fg:#000; --muted:#666; --bg:#fafafa; --card:#fff; --accent:#FF0000; --line:#e2e2e2; }
+:root { --fg:#000; --muted:#666; --bg:#e2e2e2; --card:#fff; --accent:#FF0000; --line:#e2e2e2; }
 * { box-sizing: border-box; }
 body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
        color:var(--fg); background:var(--bg); }
@@ -162,7 +162,13 @@ a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
 header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
-header.site strong { font-size:1.05rem; }
+header.site strong { font-size:1.25rem; }
+header.site .wrap { container-type:inline-size; }
+@media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (15.4 = its length in em, plus a little slack) */
+  header.site .topnav { font-size:.82rem; gap:.2rem .7rem; flex-wrap:nowrap; }
+  header.site .wrap > .d { display:none; }
+  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 15.4); line-height:1.2; }
+}
 .topnav { display:flex; flex-wrap:wrap; gap:.3rem 1.1rem; font-size:.95rem; }
 .topnav a { color:var(--accent); font-weight:700; }
 .topnav a:hover { color:#d60000; }
@@ -220,8 +226,8 @@ main.watch-page { max-width:84rem; }
 .para { margin:0 0 1.5rem; scroll-margin-top:calc(56.25vw + 1rem); }
 h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scroll-margin-top:calc(56.25vw + 1rem); }
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
-a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
-a.pill:hover { background:#e7e7e7; text-decoration:none; }
+a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f7f7f7; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
+a.pill:hover { background:#fff; text-decoration:none; }
 a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
 a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
 a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
@@ -246,7 +252,10 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
-.intro { color:var(--muted); max-width:44rem; }
+.intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
+details.about { margin:0 0 .8rem; }
+details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
+details.about .intro { color:var(--muted); }
 .intro .watch-ref { color:var(--accent); font-weight:600; }
 .yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
@@ -617,13 +626,14 @@ INDEX_TMPL = """<!doctype html>
 {topnav}
 <span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
-<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video: the monthly
-<a href="https://techspressionism.com/Salon">Techspressionist Salon</a> (running since September 2020), artist
+<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video</p>
+<details class="about"><summary>About the archive</summary>
+<p class="intro">It holds the monthly <a href="https://techspressionism.com/Salon">Techspressionist Salon</a> (running since September 2020), artist
 <a href="https://techspressionism.com/interviews/">interviews</a>, <a href="https://techspressionism.com/roundtable/">roundtables</a>,
 and <a href="https://techspressionism.com/uzbekistan/media/videos/presentations/">presentations</a>. Search the full text
 below &mdash; all recordings or just one type &mdash; or browse the list. Every result links to the transcript and to the exact moment in the recording.
 Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
-against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing. Built in Python with Claude Code.</p>
+against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing. Built in Python with Claude Code.</p></details>
 <div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
