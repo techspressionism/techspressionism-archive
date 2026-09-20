@@ -165,7 +165,7 @@ header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; alig
 header.site strong { font-size:1.25rem; }
 header.site .wrap { container-type:inline-size; }
 @media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (15.4 = its length in em, plus a little slack) */
-  header.site .topnav { font-size:.82rem; gap:.2rem .7rem; flex-wrap:nowrap; }
+  header.site .topnav { flex:1 1 100%; justify-content:space-between; font-size:.85rem; gap:.2rem .5rem; flex-wrap:nowrap; }   /* evenly spread, first flush left, last flush right */
   header.site .wrap > .d { display:none; }
   header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 15.4); line-height:1.2; }
 }
@@ -279,7 +279,7 @@ details.about .intro { color:var(--muted); }
   .typebar { justify-content:center; }
   .typebar button { flex:1 1 auto; text-align:center; }
 }
-.sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; }
+.sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; }
 """
 
 PAGE_TMPL = """<!doctype html>
