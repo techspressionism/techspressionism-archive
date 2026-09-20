@@ -158,6 +158,17 @@ def hhmmss(seconds):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
+def build_browse(corpus, active="", navigate=False):
+    """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
+    (script); on every other page (navigate=True) choosing one opens the home page on that category."""
+    opts = "".join(
+        f'<option value="{e(info["label"])}"{" selected" if info["label"] == active else ""}>{e(info["plural"])} ({n})</option>'
+        for info, n in ((TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES) if n)
+    go = ' onchange="location.href=\'index.html\'+(this.value?\'?type=\'+encodeURIComponent(this.value):\'\')"' if navigate else ""
+    return (f'<div class="browse"><label for="browse-select">Browse</label>'
+            f'<select id="browse-select"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
+
+
 NAV_CORPUS = []      # set in main(): the header pills show a count per type
 
 
@@ -204,10 +215,14 @@ header.site .wrap { container-type:inline-size; }
 .topnav a.chip:hover { border-color:var(--accent); color:var(--accent); }
 .topnav a.chip[aria-current="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
 .topnav .n { opacity:.7; font-size:.8em; margin-left:.3rem; }
-header.site .hsearch { margin:0 0 0 auto; }
+header.site .hright { margin:0 0 0 auto; display:flex; flex-direction:column; gap:.4rem; }
+header.site .hsearch { margin:0; }
+header.site .browse { margin:0; gap:.6rem; }
+header.site .browse label { font-size:.9rem; }
+header.site .browse select { padding:.3rem .7rem; font-size:.9rem; border-radius:1rem; background:var(--bg); }
 header.site .hsearch input { font:inherit; font-size:.9rem; width:15rem; max-width:100%; padding:.3rem .7rem; border:1px solid var(--line); border-radius:1rem; background:var(--bg); color:var(--fg); }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
-@media (max-width:34rem) { header.site .hsearch { flex:1 1 100%; } header.site .hsearch input { width:100%; } }
+@media (max-width:34rem) { header.site .hright { flex:1 1 100%; margin:0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -340,7 +355,8 @@ PAGE_TMPL = """<!doctype html>
 <body>
 <header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> <span class="beta">[BETA]</span></strong>
 {topnav}
-<form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
+<div class="hright"><form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form>
+{browse}</div></div></header>
 <main class="watch-page">
 <article data-pagefind-body>
 <div class="layout">
@@ -640,6 +656,7 @@ def build_session_page(entry, siblings=()):
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
         topnav=build_topnav(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
+        browse=build_browse(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], navigate=True),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -965,12 +982,7 @@ def build_index(corpus):
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
-    browse = ('<div class="browse"><label for="browse-select">Browse</label><select id="browse-select">'
-              '<option value="">Choose a category&hellip;</option>'
-              + "".join(f'<option value="{e(info["label"])}">{e(info["plural"])} {n}</option>'
-                        for info, n in ((TYPES[t_], len([x for x in corpus if x.get("type", "salon") == t_])) for t_ in TYPES)
-                        if n)
-              + '</select></div>')
+    browse = build_browse(corpus)
     def count_text(n, first, last):
         years = f"{first}\u2013{last}" if first != last else str(first)
         return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}"
