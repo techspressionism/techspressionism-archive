@@ -124,7 +124,7 @@ This fall. The 1st exhibition of Techspressionist artworks outside of the United
 
 Tommy's work draws upon the aesthetics of street photography, digital culture, culture, mapping and performance. He's interested in the rapid pace of construction, displacement, and efforts of preservation both in the physical world and the digital world. So with that, I'm going to sign off and hand the mic over to Tommy
 
-## Tommy ipad [31:12](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1872s)
+## Tommy Mintz [31:12](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1872s)
 
 Thank you so much, Colin.
 
@@ -132,7 +132,7 @@ Thank you so much, Colin.
 
 I'm good
 
-## Tommy ipad [31:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1873s)
+## Tommy Mintz [31:13](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1873s)
 
 It's.
 
@@ -144,7 +144,7 @@ The upcoming exhibition is going to be sorry. I need to Have something here to s
 
 Yes.
 
-## Tommy ipad [32:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1928s)
+## Tommy Mintz [32:08](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=1928s)
 
 Great sorry about that. So Hello, Brooklyn was a kind of a sprawling show, if you will. We had a very large space, and the challenge of the upcoming exhibit, and Hudson Guild Gallery from April 30th to June 25th is that all of these works are going to be put into a much smaller space. So we're going to have a very interesting cozy show coming up, and I encourage everybody to Mark your calendar. April 30th is the opening reception. 4, 41 West 26th Street in Manhattan. And really I don't have that much else to say. Besides, it's been a wonderful experience as a both artist and as I hesitate to say, curator, but organizer and it's helped both sort of expand my sense of what. Aesthetically as possible with digital work, and also what's possible with building a community? Unconstrained by Geographic boundaries. So thank you, Colin, and thank you for the chance to speak up in Cape Cod. I appreciate it.
 
