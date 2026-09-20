@@ -114,6 +114,7 @@ def extract_audio_via_ytdlp(video_id, dest_dir):
     dest_dir.mkdir(parents=True, exist_ok=True)
     cmd = [
         "yt-dlp", *(["--js-runtimes", "node"] if shutil.which("node") else []),
+        "--http-chunk-size", "10M", "--retries", "10", "--fragment-retries", "10",     # YouTube throttles one long request; short ones keep speed
         "-f", "bestaudio", "-x", "--audio-format", "wav", "--audio-quality", "0",
         "-o", str(dest_dir / f"{video_id}.%(ext)s"),
         f"https://www.youtube.com/watch?v={video_id}",

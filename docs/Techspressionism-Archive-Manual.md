@@ -84,7 +84,7 @@ The most common errors are misheard names and specialist words. That is where co
 
 1. Play the moment with the watch link and listen.
 2. Type the corrected passage.
-3. Optionally add a note and your name for credit (see section 8).
+3. Optionally add a note. Corrections are not credited on the pages (see section 8).
 
 Every suggestion is read and approved by the archive's editor before it appears. Nothing you send changes the archive automatically.
 
@@ -131,7 +131,7 @@ If you were there and can identify a speaker with certainty, say so in your note
 
 - **No voiceprints and no face recognition are stored.** Voices are told apart only within a single recording, and never matched across recordings.
 - **Email addresses are never stored** in the archive. Suggestion forms do not publish them.
-- **Your name is kept only if you ask for credit** by ticking the consent box on the form. Otherwise your suggestion is treated as anonymous.
+- **Corrections are not credited on the pages.** A suggestion is treated as anonymous: a name or note given on the form is not stored in the archive.
 
 ---
 
