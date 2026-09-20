@@ -282,6 +282,10 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .num { display:inline-block; min-width:3.2rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .d { color:var(--muted); font-size:.9rem; }
 #search { margin:.4rem 0 .3rem; }
+.browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
+.browse[hidden] { display:none; }
+.browse label { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.1rem; }
+.browse select { flex:1; min-width:0; font:inherit; padding:.5rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); }
 #search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
 @media (max-width:40rem) {   /* phones: filters collapsed behind one button */
@@ -701,6 +705,7 @@ Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></
 }})();
 </script>
 <div id="search"></div>
+{browse}
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
   "August", "September", "October", "November", "December"];
@@ -849,7 +854,12 @@ window.addEventListener('DOMContentLoaded', () => {{
       if (block.style.display !== want) block.style.display = want;
     }}
   }}
+  function syncBrowse() {{
+    const input = searchBox.querySelector("input");
+    document.querySelector(".browse").hidden = !!(input && input.value.trim());      // browsing is for when nobody is searching
+  }}
   function syncFiltersButton() {{
+    syncBrowse();
     const panel = searchBox.querySelector(".pagefind-ui__filter-panel");
     if (!panel) return;
     hideEmptyFilters(panel);
@@ -877,25 +887,28 @@ window.addEventListener('DOMContentLoaded', () => {{
   searchBox.addEventListener("change", syncFiltersButton);
   syncFiltersButton();
 
+  function choose(type) {{      // one path for the header pills and the Browse dropdown
+    setType(type);
+    history.replaceState(null, "", type ? "?type=" + encodeURIComponent(type) : location.pathname);
+    document.getElementById("intro-block").hidden = !!type;   // already seen: choosing a category hides the intro, "All" brings it back
+  }}
   document.getElementById("typebar").addEventListener("click", (ev) => {{
     const btn = ev.target.closest("a[data-type]");
     if (btn && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey) {{
       ev.preventDefault();
-      setType(btn.dataset.type);
-      history.replaceState(null, "", btn.dataset.type ? "?type=" + encodeURIComponent(btn.dataset.type) : location.pathname);
-      document.getElementById("intro-block").hidden = !!btn.dataset.type;   // already seen: choosing a category hides the intro, "All" brings it back
+      choose(btn.dataset.type);
     }}
   }});
+  document.getElementById("browse-select").addEventListener("change", (ev) => choose(ev.target.value));
 
   function setType(type) {{
     for (const b of document.querySelectorAll("#typebar a[data-type]")) {{
       b.setAttribute("aria-current", String(b.dataset.type === type));
     }}
     for (const g of document.querySelectorAll(".sessions-group")) {{
-      g.hidden = !!type && g.dataset.type !== type;
-      const h = g.querySelector("h3");
-      if (h) h.hidden = !!type;      // the category name shows only when "All" is selected
+      g.hidden = !type || g.dataset.type !== type;      // no list until a category is chosen
     }}
+    document.getElementById("browse-select").value = type;
     document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
     // one control drives both the full-text search and the session list
     ui.triggerFilters(type ? {{ type: [type] }} : {{}});
@@ -951,7 +964,13 @@ def build_index(corpus):
             )
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
-            f'<h3>{e(info["plural"])}{span}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+            f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+    browse = ('<div class="browse"><label for="browse-select">Browse</label><select id="browse-select">'
+              '<option value="">Choose a category&hellip;</option>'
+              + "".join(f'<option value="{e(info["label"])}">{e(info["plural"])} {n}</option>'
+                        for info, n in ((TYPES[t_], len([x for x in corpus if x.get("type", "salon") == t_])) for t_ in TYPES)
+                        if n)
+              + '</select></div>')
     def count_text(n, first, last):
         years = f"{first}\u2013{last}" if first != last else str(first)
         return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}"
@@ -968,6 +987,7 @@ def build_index(corpus):
         hours=hours,
         count_text=e(rec_counts[""]),
         rec_counts_js=json.dumps(rec_counts),
+        browse=browse,
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
         topnav=build_topnav(corpus, ""),
