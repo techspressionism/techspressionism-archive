@@ -188,14 +188,15 @@ def build_header(corpus, active="", sid=""):
 
 TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
 def build_browse_links(corpus, active=""):
-    """Category links shown under the search box on the desktop home page (hidden everywhere else)."""
+    """Category links under the search box on the desktop home page (hidden everywhere else): red links
+    separated by black double slashes."""
     links = []
-    for info in TYPES.values():
-        n = sum(1 for x in corpus if x.get("type", "salon") == next(k for k, v in TYPES.items() if v is info))
-        if n:
-            links.append(f'<a href="index.html?type={info["label"]}" data-type="{info["label"]}" aria-current="{"true" if info["label"] == active else "false"}">'
-                         f'{info["plural"]}<span class="n">{n}</span></a>')
-    return f'<nav class="browse-links" aria-label="Browse by category">{"".join(links)}</nav>'
+    for key, info in TYPES.items():
+        if any(x.get("type", "salon") == key for x in corpus):
+            links.append(f'<a href="index.html?type={info["label"]}" data-type="{info["label"]}" '
+                         f'aria-current="{"true" if info["label"] == active else "false"}">{info["plural"]}</a>')
+    sep = '<span class="bsep">//</span>'
+    return '<nav class="browse-links" aria-label="Browse by category">' + sep.join(links) + '</nav>'
 
 
 NAV_CORPUS = []      # set in main(): the header pills show a count per type
@@ -411,16 +412,23 @@ mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15e
   header.site .hsearch input { width:19rem; }
   /* home page: like Google, the search box is the star, with the categories as links under it */
   body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
-  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:clamp(3rem, 14vh, 8rem) 0 1.5rem; }
+  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; }
   body.home header.site strong { font-size:3.1rem; line-height:1.15; text-align:center; }
   body.home header.site .browse { display:none; }
   body.home header.site .hright { order:2; margin:0; width:min(44rem, 100%); }
   body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
-  body.home .browse-links { order:3; display:flex; flex-wrap:wrap; justify-content:center; gap:.6rem 2.2rem; font-size:1.1rem; }
+  body.home .browse-links { order:3; display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:.4rem .8rem; font-size:1.15rem; }
+  body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
   body.home .browse-links a { color:var(--accent); }
   body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
-  body.home .browse-links .n { color:var(--muted); font-size:.85em; margin-left:.25rem; }
-  body.home main { max-width:44rem; }
+  body.home main { max-width:44rem; width:100%; margin:0 auto; }
+  /* like Google, the whole block sits in the vertical middle of the page until a search or a category makes it longer */
+  body.home:not(.searching):not(.browsing) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
+  body.home:not(.searching):not(.browsing) main { padding-top:0; padding-bottom:0; }
+  body.home:not(.searching):not(.browsing) #search { margin:0; }
+  body.home header.site { width:100%; }
+  body.home.searching header.site .wrap, body.home.browsing header.site .wrap { padding-top:2.5rem; }
+  body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repeats the sentence above; the count shows once a category is chosen */
 }
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
@@ -1203,6 +1211,7 @@ window.addEventListener('DOMContentLoaded', () => {{
     }}
     document.getElementById("browse-select").value = type;
     for (const a of document.querySelectorAll(".browse-links a[data-type]")) a.setAttribute("aria-current", String(a.dataset.type === type));
+    document.body.classList.toggle("browsing", !!type);
     document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
     // search always covers every category; choosing one here only changes the list shown below
   }}
