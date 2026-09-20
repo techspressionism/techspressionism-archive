@@ -87,7 +87,7 @@ That comes… the character in, the Shakespeare play, but she's an example of…
 
 Way of dealing with history and feminism and all this. And there, it was also an animation in which the flowers grow all over her, and she rots. And dies, and then comes back to life. Again, within this, this is actually more recent work that was also acquired by the museum, in which I'm hybridizing, just as you mentioned, hand-making… handmade processes with Tech… tech processes. And, so for example, in this one. I'm gonna mention a technology here, which is the UV printer, which is a new technology that sprays pure pigment, pure chroma, as a very fine spray, onto… it can be objects, or it can be… Flat work like this, which was, A drawing. And that is a way that I'm able to integrate 3D images that are purely simulated, as you mentioned, with Processes, that are extremely contemporary and could have never exist… well, didn't exist before a few years ago, right? So this mixing of Things that I make with my hands and innovative new technology processes are my signature, and you wanted me to talk a little about earlier work, and I will. I sort of had… not sort of, this is what I've always done since day zero, is… Intermedia, as you mentioned. Intermedia meant, from my generation, a mixture Between medias.
 
-And that is a sort of text-pressionism thing, I believe, right? That's why, I can talk to you all, and you know about The technologies I use, and also the impulse to make pictures, to make images, as opposed to algorithmic Phone-based work. There's a lot of work that's done nowadays for the phone. Phone is very important in our culture, but it also, Doesn't require much processing power, and although the new phones are super powerful, the kind of technologies I used from the beginning, Had to do with simulations, technologies, 3D, tremendously power-intensive.
+And that is a sort of Techspressionism thing, I believe, right? That's why, I can talk to you all, and you know about The technologies I use, and also the impulse to make pictures, to make images, as opposed to algorithmic Phone-based work. There's a lot of work that's done nowadays for the phone. Phone is very important in our culture, but it also, Doesn't require much processing power, and although the new phones are super powerful, the kind of technologies I used from the beginning, Had to do with simulations, technologies, 3D, tremendously power-intensive.
 
 And, you can start, because of AI, to put this stuff on a phone, but, but before, it was way too power, hungry to be used for telephone platform, and that's why you see me doing installation-based work that mixes medium. Because it was not meant for the phone, it's meant for… to exist as images within an installation environment. So here's, like, early… did things like paintings on wood, where I do hand painting underneath, and then do a UV-printed spray, pure chroma.
 
@@ -1635,7 +1635,7 @@ Yes, I stopped sharing.
 
 ## Colin Goldberg [01:16:27](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4587s)
 
-Roz Dimon, she actually came up with. So, this one is kind of like a must. So, what interests you about text-pressionism, and how did you come to be involved with the community, if you can recall?
+Roz Dimon, she actually came up with. So, this one is kind of like a must. So, what interests you about Techspressionism, and how did you come to be involved with the community, if you can recall?
 
 ## Claudia Hart [01:16:42](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4602s)
 

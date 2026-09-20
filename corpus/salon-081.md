@@ -407,7 +407,7 @@ That's that's timely. So yeah. Is there anybody else and thank you for sharing t
 
 Share screen.
 
-Okay? So I'm gonna share A few Sessions of our text personism, co-working group. So typically I find that because I don't really have a series topic that I'm working on, that I'm kind of all over the place in terms of What I do with my work. So when we do the share, I often try to include sort of process, Photos or images. So it was. I was playing around in Procreate, trying to find some brushes that I like that, mimicked another app that I don't get to use as much anymore, because they keep changing it, which I find frustrating.
+Okay? So I'm gonna share A few Sessions of our Techspressionism, co-working group. So typically I find that because I don't really have a series topic that I'm working on, that I'm kind of all over the place in terms of What I do with my work. So when we do the share, I often try to include sort of process, Photos or images. So it was. I was playing around in Procreate, trying to find some brushes that I like that, mimicked another app that I don't get to use as much anymore, because they keep changing it, which I find frustrating.
 
 And then I took some of it into eye. Colorado, and then Back into propriet again. And then moved into what I decided was the final image for this particular work.
 

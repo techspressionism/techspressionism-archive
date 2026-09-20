@@ -26,6 +26,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_sentences import split_sentences
 from lib_media import TYPES, label, slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -180,6 +181,7 @@ def build_header(corpus, active=""):
             + build_browse(corpus, active, navigate=True) + '</div></div></header>')
 
 
+TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
 NAV_CORPUS = []      # set in main(): the header pills show a count per type
 
 
@@ -256,6 +258,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .read-btn { display:block; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
+.layout.from-search .read-btn { display:none !important; }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
@@ -354,6 +357,16 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
+
+/* search-result citations and the citation card under a cited passage */
+.citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:inline; margin:0; font-size:inherit; }
+#search .copy-cite, .cite-card .copy-cite, .cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
+#search .copy-cite:hover, .cite-card .copy-cite:hover, .cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
+.cite-card { margin:0 0 1.5rem; padding:.7rem .9rem; border-left:3px solid var(--accent); background:#fafafa; }
+.cite-card .cite-text { font-family:Georgia,"Times New Roman",serif; font-size:.95rem; }
+.cite-card .cite-actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
+.cite-card .continue-btn[hidden] { display:none; }
+mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
 
@@ -458,6 +471,12 @@ def build_player(entry):
 PLAYER_JS = """<script>
 (function () {
   var layout = document.querySelector('.layout'), btn = document.getElementById('read-btn');
+  var qs = new URLSearchParams(location.search);       // a link from a search result carries: play=1, at (seconds), to, hl (search words), cite
+  var cited = qs.get('play') === '1' && qs.get('at') !== null;
+  var citeAt = cited ? parseFloat(qs.get('at')) : 0, stopAt = qs.get('to') ? parseFloat(qs.get('to')) : null;
+  var hitWords = (qs.get('hl') || '').split(',').filter(Boolean), citeText = qs.get('cite') || '';
+  var citedMode = false, continueBtn = null;
+  if (cited) layout.classList.add('from-search');      // arrived from a search result: no Read/Hide transcript button
   function reading(on, scroll) {
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
@@ -485,10 +504,13 @@ PLAYER_JS = """<script>
       var id = location.hash.slice(1), el = id && document.getElementById(id);
       if (el && document.getElementById('transcript').contains(el)) {
         reading(true, false); el.scrollIntoView();
-        if (autoplay) {                      // "watch" from a search result: start the video at that paragraph, if the browser allows
+        if (autoplay) {                      // "watch" from a search result, if the browser allows the video to start
           autoplay = false;
-          var para = el.closest('.para') || el.parentElement.querySelector('.para'), pill = para && para.querySelector('a.pill');
-          if (pill) setTimeout(function () { pill.click(); }, 300);
+          if (cited) setTimeout(startCited, 300);
+          else {
+            var para = el.closest('.para') || el.parentElement.querySelector('.para'), pill = para && para.querySelector('a.pill');
+            if (pill) setTimeout(function () { pill.click(); }, 300);
+          }
         }
       }
     }
@@ -497,6 +519,57 @@ PLAYER_JS = """<script>
     var cur = document.querySelector('.watch-next li.cur'), list = cur && cur.parentElement;
     if (list && list.clientHeight) list.scrollTop = cur.offsetTop - list.clientHeight / 2;
   }
+  function highlightHits(para) {           // only the search words are marked, not the whole paragraph
+    if (!hitWords.length) return;
+    var BS = String.fromCharCode(92), LN = BS + 'p{L}' + BS + 'p{N}', SPECIAL = '.*+?^${}()|[]' + BS;
+    var alt = hitWords.map(function (h) { return h.split('').map(function (ch) { return SPECIAL.indexOf(ch) >= 0 ? BS + ch : ch; }).join(''); }).join('|');
+    var re = new RegExp('(?<![' + LN + '])(' + alt + ')(?![' + LN + '])', 'giu');
+    var tx = para.querySelector('.tx'), walker = document.createTreeWalker(tx, NodeFilter.SHOW_TEXT), nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(function (n) {
+      var s = n.nodeValue, last = 0, m, frag = document.createDocumentFragment(), any = false;
+      re.lastIndex = 0;
+      while ((m = re.exec(s))) {
+        any = true;
+        frag.appendChild(document.createTextNode(s.slice(last, m.index)));
+        var mk = document.createElement('mark'); mk.className = 'hit'; mk.textContent = m[0]; frag.appendChild(mk);
+        last = m.index + m[0].length;
+      }
+      if (any) { frag.appendChild(document.createTextNode(s.slice(last))); n.parentNode.replaceChild(frag, n); }
+    });
+  }
+  function startCited() {
+    var seek = Math.max(0, citeAt - lead);
+    var i0 = 0;
+    for (var i = 0; i < starts.length; i++) if (starts[i] <= citeAt + 0.01) i0 = i;
+    var i1 = i0;
+    while (i1 + 1 < starts.length && (stopAt === null || starts[i1 + 1] < stopAt)) i1++;
+    for (var k = i0; k <= i1; k++) highlightHits(paras[k]);
+    if (citeText) {                        // the citation sits right under the cited text, to copy once the clip has been watched
+      var card = document.createElement('div');
+      card.className = 'cite-card';
+      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
+        + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
+        + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>';
+      card.querySelector('.cite-text').textContent = citeText;
+      card.querySelector('.copy-cite').dataset.citation = citeText;
+      continueBtn = card.querySelector('.continue-btn');
+      paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
+    }
+    citedMode = true;
+    whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
+  }
+  document.addEventListener('click', function (ev) {
+    var c = ev.target.closest && ev.target.closest('.continue-btn');
+    if (c) { stopAt = null; c.hidden = true; if (player) player.playVideo(); return; }
+    var b = ev.target.closest && ev.target.closest('.copy-cite');
+    if (b && navigator.clipboard) {
+      ev.preventDefault();
+      navigator.clipboard.writeText(b.dataset.citation).then(function () {
+        var o = b.textContent; b.textContent = 'Copied'; setTimeout(function () { b.textContent = o; }, 1500);
+      });
+    }
+  });
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
@@ -528,12 +601,13 @@ PLAYER_JS = """<script>
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
     ev.preventDefault();
     var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
+    stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     forced = i; mark(i);
     whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
-    if (i === active) return;
+    if (citedMode || i === active) return;
     if (active >= 0) paras[active].classList.remove('active');
     active = i;
     if (i < 0) return;
@@ -546,6 +620,11 @@ PLAYER_JS = """<script>
   setInterval(function () {
     if (!ready || !player.getCurrentTime) return;
     var t = player.getCurrentTime(), playing = player.getPlayerState() === 1;
+    if (stopAt !== null && playing && t >= stopAt) {         // the cited text is over: stop, and offer to carry on
+      player.pauseVideo(); stopAt = null;
+      if (continueBtn) continueBtn.hidden = false;
+      return;
+    }
     if (forced !== null) {
       if (t >= starts[forced] || t < starts[forced] - lead - 2) forced = null; else return;   // hold the clicked paragraph through the lead-in
     }
@@ -627,6 +706,7 @@ def build_session_page(entry, siblings=()):
     used_ids = set()
     for seg in entry["segments"]:
         used_ids.add(f't{int(seg.get("start") or 0)}')
+    times_p, times_s = [], []       # paragraphs [anchor id, speaker] and sentences [start time, text, paragraph index]
     for seg in entry["segments"]:
         start = int(seg.get("start") or 0)
         speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
@@ -656,6 +736,13 @@ def build_session_page(entry, siblings=()):
                 used_ids.add(pid)
                 head_open, head_id = f'<h3 class="para-time" id="{pid}">', pid
                 head_name = f'<span class="speaker vh">{e(speaker)}</span>'
+            sentences = split_sentences(para)
+            st = (seg.get("sentence_times") or [])
+            st = st[k] if k < len(st) else []
+            if len(st) != len(sentences):
+                st = [round(t0, 2)] * len(sentences)      # never guess a finer time than the paragraph's own
+            times_p.append([f"t{start}" if k == 0 else (head_id or None), speaker])
+            times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
                 f'{head_open}<a class="pill" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>{head_name}</h3>'
@@ -669,6 +756,7 @@ def build_session_page(entry, siblings=()):
             f'</section>'
         )
 
+    TIMES[slug(entry)] = {"p": times_p, "s": times_s}
     moderator = f" &middot; moderated by {e(entry['moderator'])}" if entry.get("moderator") else ""
     if entry.get("interviewer"):
         moderator = f" &middot; interviewed by {e(entry['interviewer'])}"
@@ -781,23 +869,98 @@ const NOT_SENTENCE_END = new Set(["mr.", "mrs.", "ms.", "dr.", "st.", "vs.", "et
 function endsSentence(word) {{
   return SENTENCE_END.test(word) && !NOT_SENTENCE_END.has(word.toLowerCase());
 }}
-function sentenceExcerpt(result, sr) {{
+function sentenceParts(result, sr) {{
   const locs = (sr.locations || []).slice().sort((a, b) => a - b);
-  if (!locs.length || !result.content) return "";
+  if (!locs.length || !result.content) return null;
   const words = result.content.split(/\s+/);
   const first = locs[0];
-  if (first >= words.length) return "";
+  if (first >= words.length) return null;
   let start = first, end = first;
   while (start > 0 && first - start < 60 && !endsSentence(words[start - 1])) start--;
   while (end < words.length - 1 && end - first < 80 && !endsSentence(words[end])) end++;
-  const hits = new Set(locs);
-  const out = [];
+  const hitIdx = new Set(locs), out = [], hits = new Set();
   for (let i = start; i <= end; i++) {{
     const w = escapeHtml(words[i]);
-    out.push(hits.has(i) ? "<mark>" + w + "</mark>" : w);
+    if (hitIdx.has(i)) {{ out.push("<mark>" + w + "</mark>"); hits.add(words[i].replace(/[^\p{{L}}\p{{N}}'’-]+/gu, "").toLowerCase()); }}
+    else out.push(w);
   }}
-  return (start > 0 && !endsSentence(words[start - 1]) ? "\u2026 " : "") + out.join(" ")
-    + (end < words.length - 1 && !endsSentence(words[end]) ? " \u2026" : "");
+  return {{
+    html: (start > 0 && !endsSentence(words[start - 1]) ? "… " : "") + out.join(" ") + (end < words.length - 1 && !endsSentence(words[end]) ? " …" : ""),
+    text: words.slice(start, end + 1).join(" "),
+    hits: [...hits].filter(Boolean)
+  }};
+}}
+
+// ---- citations: the matched sentence with the sentence before and after it -------------------------------------
+const CITES = new Map();
+let citeSeq = 0;
+
+function citationBlock(c) {{
+  const meta = c.result.meta || {{}};
+  const citation = buildCitation(c.result, c.sr, c.at);
+  const yt = meta.youtube;
+  const page = c.sr.url.split("#")[0];
+  const here = page + "?play=1&at=" + c.at.toFixed(2) + (c.to != null ? "&to=" + c.to.toFixed(2) : "")
+    + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
+  const ytLink = yt + "&t=" + Math.max(0, Math.floor(c.at - {pill_lead})) + "s";
+  return '<div class="citation-info" data-cid="' + c.id + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
+    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + escapeHtml(citation) + '</span>'
+    + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy Citation</button>'
+    + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip">' + {pill_svg_js} + pillTime(c.at) + '</a>'
+    + '<a class="yt-jump" href="' + ytLink + '" target="_blank" rel="noopener">Watch on YouTube &#8599;</a></div></div>';
+}}
+
+const timesCache = new Map();
+function loadTimes(page) {{
+  const m = page.match(/([^\/?#]+)\.html/);
+  if (!m) return Promise.resolve(null);
+  if (!timesCache.has(m[1])) {{
+    timesCache.set(m[1], fetch(location.pathname.replace(/[^\/]*$/, "") + "times/" + m[1] + ".json")
+      .then((r) => (r.ok ? r.json() : null)).catch(() => null));
+  }}
+  return timesCache.get(m[1]);
+}}
+
+const normText = (s) => s.toLowerCase().replace(/[^\p{{L}}\p{{N}}]+/gu, "");
+const plainItalics = (s) => s.replace(/(^|[\s(])_([^_\s][^_]*?)_(?=[\s.,;:!?)]|$)/g, "$1$2");
+// (no backslashes below: this text passes through Python string formatting)
+const BS = String.fromCharCode(92);
+const LN = BS + "p{{L}}" + BS + "p{{N}}";
+const RE_SPECIAL = ".*+?^${{}}()|[]" + BS;
+const escapeRe = (s) => s.split("").map((ch) => (RE_SPECIAL.indexOf(ch) >= 0 ? BS + ch : ch)).join("");
+function markHits(text, hits) {{
+  const safe = escapeHtml(plainItalics(text));
+  if (!hits.length) return safe;
+  return safe.replace(new RegExp("(?<![" + LN + "])(" + hits.map(escapeRe).join("|") + ")(?![" + LN + "])", "giu"), "<mark>$1</mark>");
+}}
+
+async function enhanceCitations(root) {{
+  for (const el of root.querySelectorAll(".citation-info:not([data-enhanced])")) {{
+    const c = CITES.get(Number(el.dataset.cid));
+    if (!c || c.busy) continue;
+    c.busy = true;
+    const data = await loadTimes(c.sr.url);
+    if (!el.isConnected) {{ c.busy = false; continue; }}
+    const pi = data ? data.p.findIndex((p) => p[0] === c.anchor) : -1;
+    const target = normText(c.sentenceText || "");
+    const list = data ? data.s : [];
+    let gi = -1;
+    if (pi >= 0 && target) gi = list.findIndex((s) => s[2] === pi && normText(s[1]) === target);
+    if (gi < 0) {{ el.setAttribute("data-enhanced", "1"); c.busy = false; continue; }}   // no exact match: keep the paragraph-level result
+    const speaker = data.p[pi][1];
+    const same = (i) => list[i] && data.p[list[i][2]][1] === speaker;
+    const prior = same(gi - 1) ? list[gi - 1] : null;
+    const next = same(gi + 1) ? list[gi + 1] : null;
+    const lastIdx = next ? gi + 1 : gi;
+    const after = list[lastIdx + 1];
+    c.at = (prior || list[gi])[0];
+    c.to = after ? after[0] : list[lastIdx][0] + 8;
+    if (prior) c.anchor = data.p[prior[2]][0] || c.anchor;
+    c.done = true;
+    const html = (prior ? markHits(prior[1], c.hits) + " " : "") + c.sentenceHtml + (next ? " " + markHits(next[1], c.hits) : "");
+    el.parentElement.innerHTML = html + citationBlock(c);
+    c.busy = false;
+  }}
 }}
 
 function pillTime(seconds) {{
@@ -836,20 +999,13 @@ window.addEventListener('DOMContentLoaded', () => {{
       // Chicago-style citation, on each sub-result.
       const yt = result.meta && result.meta.youtube;
       for (const sr of (result.sub_results || [])) {{
-        const m = (sr.url || "").match(/#t(\\d+)/);
+        const m = (sr.url || "").match(/#(t\d+)/);
         if (!yt || !m) continue;
-        const seconds = parseInt(m[1], 10);
-        const link = yt + "&t=" + Math.max(0, seconds - {watch_lead_in}) + "s";   // leads in; the citation below stays exact
-        sr.excerpt = sentenceExcerpt(result, sr) || sr.excerpt;   // the whole sentence that matched, not a fixed-length snippet
-        const citation = buildCitation(result, sr, seconds);
-        const page = sr.url.split('#')[0];
-        const here = page + (page.includes('?') ? '&' : '?') + 'play=1#t' + m[1];   // the page opens the transcript there and plays
-        sr.excerpt = sr.excerpt
-          + '<div class="citation-info"><strong>Citation information:</strong> '
-          + '<span class="cite-text">' + escapeHtml(citation) + '</span> '
-          + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy</button>'
-          + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this point and plays the video">' + PILL_SVG + pillTime(seconds) + '</a>'
-          + '<a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">Watch on YouTube &#8599;</a></div></div>';
+        const parts = sentenceParts(result, sr);      // the whole sentence that matched, not a fixed-length snippet
+        const c = {{ id: ++citeSeq, result, sr, anchor: m[1], at: parseInt(m[1].slice(1), 10), to: null,
+                    hits: parts ? parts.hits : [], sentenceHtml: parts ? parts.html : sr.excerpt, sentenceText: parts ? parts.text : "", done: false }};
+        CITES.set(c.id, c);
+        sr.excerpt = c.sentenceHtml + citationBlock(c);       // provisional; enhanceCitations() adds the sentences before and after
       }}
       return result;
     }},
@@ -863,6 +1019,7 @@ window.addEventListener('DOMContentLoaded', () => {{
 
   // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
   const searchBox = document.getElementById("search");
+  new MutationObserver(() => enhanceCitations(searchBox)).observe(searchBox, {{ childList: true, subtree: true }});
   function filterCount(panel) {{
     let n = 0;
     for (const block of panel.querySelectorAll(".pagefind-ui__filter-block")) {{
@@ -1027,6 +1184,7 @@ def build_index(corpus):
         watch_lead_in=WATCH_LEAD_IN,
         header=build_header(corpus, ""),
         pill_svg_js=json.dumps(PILL_SVG),
+        pill_lead=f"{PILL_LEAD_IN:g}",
     )
 
 
@@ -1053,6 +1211,9 @@ def main():
     else:
         (SITE_DIR / "sitemap.xml").unlink(missing_ok=True)
 
+    (SITE_DIR / "times").mkdir(exist_ok=True)
+    for sl, data in TIMES.items():
+        (SITE_DIR / "times" / f"{sl}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
     THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
     SMALL_THUMBS_OUT_DIR.mkdir(exist_ok=True)
     for src in SMALL_THUMBS_SRC_DIR.glob("*.jpg"):

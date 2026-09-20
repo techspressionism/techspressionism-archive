@@ -36,7 +36,7 @@ Hello! My name is Colin Goldberg, and we are here at the Techspressionist roundt
 
 ## ChatGPT [00:48](https://www.youtube.com/watch?v=BphNOUbReFs&t=48s)
 
-Hi, everyone! It's great to be here and to help kick off this exciting discussion. I'm really looking forward to hearing about all of your unique perspectives and insights on text questionism. So let's dive in and get started.
+Hi, everyone! It's great to be here and to help kick off this exciting discussion. I'm really looking forward to hearing about all of your unique perspectives and insights on Techspressionism. So let's dive in and get started.
 
 ## Colin Goldberg [01:03](https://www.youtube.com/watch?v=BphNOUbReFs&t=63s)
 
@@ -100,7 +100,7 @@ Thanks so much ChatGPT, and just out of curiosity. Since you are an AI, or, as I
 
 ## ChatGPT [06:10](https://www.youtube.com/watch?v=BphNOUbReFs&t=370s)
 
-That's such an exciting question. I think text personism will continue to evolve as technology advances, artists will likely explore new tools like artificial intelligence, virtual and augmented reality and other amazing technologies to push the boundaries of creative expression. I also see a growing community of artists from around the world coming together and collaborating, blending their Diverse cultural perspectives with technology. So the future of Techspressionism looks great and full of endless possibilities.
+That's such an exciting question. I think Techspressionism will continue to evolve as technology advances, artists will likely explore new tools like artificial intelligence, virtual and augmented reality and other amazing technologies to push the boundaries of creative expression. I also see a growing community of artists from around the world coming together and collaborating, blending their Diverse cultural perspectives with technology. So the future of Techspressionism looks great and full of endless possibilities.
 
 ## Colin Goldberg [06:40](https://www.youtube.com/watch?v=BphNOUbReFs&t=400s)
 
@@ -108,7 +108,7 @@ Okay. Well, I applaud your optimism, and I'd like to ask you to maybe get us kic
 
 ## ChatGPT [07:08](https://www.youtube.com/watch?v=BphNOUbReFs&t=428s)
 
-Absolutely I'd love to. So to kick things off. I'd like to ask each of you to share a bit about how you 1st got involved with text fashionism. And what drew you to blending technology with your artistic practice? I think that'll be a great way to get the conversation rolling. So let's dive in.
+Absolutely I'd love to. So to kick things off. I'd like to ask each of you to share a bit about how you 1st got involved with Techspressionism. And what drew you to blending technology with your artistic practice? I think that'll be a great way to get the conversation rolling. So let's dive in.
 
 ## Colin Goldberg [07:23](https://www.youtube.com/watch?v=BphNOUbReFs&t=443s)
 
@@ -138,7 +138,7 @@ I'm well, I'm I don't know that I want to pick a certain person, but I'll I'll s
 
 ## Renata Janiszewska [08:37](https://www.youtube.com/watch?v=BphNOUbReFs&t=517s)
 
-I actually came to text personism through Jan. She and I were. We met at an artist group in Toronto, and we didn't like it very much for us. It wasn't a good fit, and she said, I know this Colin Goldberg. He'd be really interested in your work. You should Come, and I did, and the rest is history. The other thing I wanted to mention is that ChatGPT Gpt asked about Why technology with my art. And I was thinking because I started drawing on an ipod touch. It was partly the portability, and it was also the lack of physical tools that made me feel very free in a way that I hadn't when I was using more traditional media to make my work.
+I actually came to Techspressionism through Jan. She and I were. We met at an artist group in Toronto, and we didn't like it very much for us. It wasn't a good fit, and she said, I know this Colin Goldberg. He'd be really interested in your work. You should Come, and I did, and the rest is history. The other thing I wanted to mention is that ChatGPT Gpt asked about Why technology with my art. And I was thinking because I started drawing on an ipod touch. It was partly the portability, and it was also the lack of physical tools that made me feel very free in a way that I hadn't when I was using more traditional media to make my work.
 
 ## Michael Pierre Price [09:27](https://www.youtube.com/watch?v=BphNOUbReFs&t=567s)
 

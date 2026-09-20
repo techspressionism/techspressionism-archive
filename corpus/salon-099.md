@@ -36,7 +36,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=1cuvfkJw3rs&t=2s)
 
-Hi, everyone. It is Thursday, October 2nd, 2025, and welcome to the Techspressionist Salon number 99. The topic of the salon is floating questions, and our moderator here today is Aaron Koh from New York City. My name is Colin, and I'm a text-pressionist. So Erin tells stories through a mix of traditional art-making methods with new technologies, often to address our complicated love-hate relationship with technology. Classically trained in fine arts with 20-plus years of experience as a game and app developer, her practice builds on hybrid approaches to art, sculpture, video, sound, written word, music, and performance, with reality-expanding technologies viewers can opt in or out of.
+Hi, everyone. It is Thursday, October 2nd, 2025, and welcome to the Techspressionist Salon number 99. The topic of the salon is floating questions, and our moderator here today is Aaron Koh from New York City. My name is Colin, and I'm a Techspressionist. So Erin tells stories through a mix of traditional art-making methods with new technologies, often to address our complicated love-hate relationship with technology. Classically trained in fine arts with 20-plus years of experience as a game and app developer, her practice builds on hybrid approaches to art, sculpture, video, sound, written word, music, and performance, with reality-expanding technologies viewers can opt in or out of.
 
 So with that, I'm going to pass the mic over to Aaron.
 
@@ -44,7 +44,7 @@ So with that, I'm going to pass the mic over to Aaron.
 
 Take it away. Alright, thank you, Colin, and thank you everyone who's here. Really, thank you for the amazing lineup of artists who have agreed to share their work and their thoughts on… The subject today, which is essentially, discussing digital privilege, media literacy, the tension between the joy and responsibility of creative Agency in a hyper-connected culture. We are at a very strange moment in time. Today's Yom Kippur. This does not escape me a day of atonement in a world of distress.
 
-And I'm really asking, floating questions. I really want to ask how artistic practice can illuminate question and reimagine the signals and the manipulative forces that bind us, because I feel like as Textspressionists, as people who touch media, make media, can parse media, we are in a unique position. So, everyone I've invited today is someone who really blows me away with the amount of activism that is present in their work and social consciousness, and you all approach it in different and courageous ways, and I'm very grateful to hear from all of you.
+And I'm really asking, floating questions. I really want to ask how artistic practice can illuminate question and reimagine the signals and the manipulative forces that bind us, because I feel like as Techspressionists, as people who touch media, make media, can parse media, we are in a unique position. So, everyone I've invited today is someone who really blows me away with the amount of activism that is present in their work and social consciousness, and you all approach it in different and courageous ways, and I'm very grateful to hear from all of you.
 
 I would like to, ask, Vernada to go first, if that's cool. Verneda Lights is a visual artist, photographer, performance poet, author, retired physician, and griot of South Carolina's… oh, I'm gonna.
 

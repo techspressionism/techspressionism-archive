@@ -29,6 +29,7 @@ from pathlib import Path
 
 from lib_corrections import apply_vocabulary, correct_text
 from lib_media import TYPES, label, selected, slug
+from lib_sentences import sentence_times
 from lib_speakers import canonical_name, finalize_speakers, is_not_speaker
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -114,6 +115,33 @@ def punctuate_subtitles(words):
             else:
                 out.append(" ")
     return "".join(out).replace(" \n\n", "\n\n").strip(), starts
+
+
+def word_time_maps(words, text):
+    """Per paragraph, [[fraction of the paragraph text, start time of the word there], ...], read off the finished
+    paragraph text. Words map one-to-one onto the whitespace-separated tokens of the text; if that ever fails
+    (token count differs), return None and the caller falls back to paragraph-level times."""
+    paras = text.split("\n\n")
+    tokens = [[m.start() for m in re.finditer(r"\S+", p)] for p in paras]
+    if sum(len(x) for x in tokens) != len(words):
+        return None
+    maps, i = [], 0
+    for p, offs in zip(paras, tokens):
+        n = max(1, len(p))
+        maps.append([[o / n, words[i + k]["start"]] for k, o in enumerate(offs)])
+        i += len(offs)
+    return maps
+
+
+def cue_time_map(pieces):
+    """Zoom paragraph: pieces = [(cue start, cue end, text length), ...]; time map at the cue boundaries."""
+    total = sum(l for _s, _e, l in pieces) or 1
+    tmap, cum = [], 0
+    for s, e, l in pieces:
+        tmap.append([cum / total, s])
+        cum += l
+        tmap.append([cum / total, e])
+    return tmap
 
 
 TIME_BLOCK_SECONDS = 180
@@ -473,9 +501,12 @@ def segments_from_zoom(session, artists, vocab_terms):
             segments[-1]["end"] = cue["end"]
             if "\n\n" in joiner:
                 segments[-1]["para_starts"].append(cue["start"])
+                segments[-1]["para_pieces"].append([(cue["start"], cue["end"], len(text))])
+            else:
+                segments[-1]["para_pieces"][-1].append((cue["start"], cue["end"], len(joiner) + len(text)))
         else:
             segments.append({"speaker": speaker, "start": cue["start"], "end": cue["end"], "text": text,
-                             "para_starts": [cue["start"]]})
+                             "para_starts": [cue["start"]], "para_pieces": [[(cue["start"], cue["end"], len(text))]]})
 
     for seg in segments:
         seg["text"], _ = apply_vocabulary(seg["text"], vocab_terms)
@@ -694,11 +725,13 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
                 text, para_starts = punctuate_subtitles(chunk)
             else:
                 text, para_starts = restore_punctuation(chunk)
+            para_maps = word_time_maps(chunk, text)      # from the paragraph text as built, before corrections change it
             text, _ = correct_text(text, session, artists, vocab_terms, slug(session), chunk[0]["start"], review_rows, [])
             text = capitalize_known_terms(text, known_terms)
             start = seg["start"] if k == 0 else cuts[k]
             end = cuts[k + 1] if k + 1 < len(cuts) else seg["boundary_end"]
-            result.append({"speaker": seg["speaker"], "start": start, "end": end, "text": text, "para_starts": para_starts})
+            result.append({"speaker": seg["speaker"], "start": start, "end": end, "text": text, "para_starts": para_starts,
+                           "para_maps": para_maps})
     return result
 
 
@@ -736,6 +769,16 @@ def process_session(session, artists, vocab_terms, review_rows):
             if seg["start"] is not None:
                 seg["para_starts"][0] = seg["start"]     # the first paragraph shares the turn's printed time
     segments = apply_text_edits(session, segments)
+    for seg in segments:            # a start time for every sentence (the search results play from the sentence before the match)
+        paras = seg["text"].split("\n\n")
+        maps = seg.pop("para_maps", None)
+        pieces = seg.pop("para_pieces", None)
+        if pieces:
+            maps = [cue_time_map(pc) for pc in pieces]
+        starts = seg["para_starts"]
+        seg["sentence_times"] = [
+            sentence_times(p, maps[k] if maps and k < len(maps) else None, starts[k] if starts[k] is not None else (seg["start"] or 0))
+            for k, p in enumerate(paras)]
     frontmatter = build_frontmatter(session, segments)
     body = build_body(session, segments)
     md = f"{frontmatter}\n\n{body}\n"
@@ -804,6 +847,10 @@ def main():
         json.dump(sorted(by_slug.values(), key=lambda e: (type_order.index(e.get("type", "salon")), e["number"])),
                   f, indent=2, ensure_ascii=False)
     print(f"\nWrote {corpus_json_path}")
+    if not args:      # a full rebuild: remind about the most common transcription error ("Techspressionism" heard as "text-...")
+        import subprocess
+        out = subprocess.run([sys.executable, str(Path(__file__).with_name("check-techspressionism.py"))], capture_output=True, text=True).stdout
+        print(out.splitlines()[0] if out else "Techspressionism check did not run")
 
     if review_rows and "--no-review" not in flags:
         import csv

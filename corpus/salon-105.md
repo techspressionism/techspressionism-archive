@@ -27,7 +27,7 @@ Our Instagram account is partly based on works bearing that hashtag. And we woul
 
 Okay, I'm gonna play a short overview, video.
 
-So, this was a little preview of some of our text-pressionist artists who are showing. In this edition of the Every Woman Biennial. And we have their URLs. Please follow these groups.
+So, this was a little preview of some of our Techspressionist artists who are showing. In this edition of the Every Woman Biennial. And we have their URLs. Please follow these groups.
 
 Thank you everyone for coming. I wanted to talk a little bit about the Every Woman Biennial. Which was formed in 2014, when the founders noticed that there was not one woman in the Whitney Biennial. So their philosophy is near and dear to my heart in terms of activism, which is when you see something you don't like in the world, you go and you build the better thing. And then you get everyone to come to your better thing. So, I've participated in the past.
 

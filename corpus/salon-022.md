@@ -202,7 +202,7 @@ The black and white drawings. And then that's kind of what moved me into the. Al
 
 One of the cracked. Smartphone and then also one of windows 95. Which was my first. Just experience with a personal computer. And then now. My experience. With a personal computer is the smartphone. So I was just kind of reflecting on that and made those pieces. And. The there's a lot of. I put mere shards and circuits. And it just kind of. Reflecting on the fragility of technology in many ways, like a lot of people have cracked smartphone screens. And also. Just.
 
-There's lots of. Questions of the psychology. How it's affecting the next generation and my generation. The. Fragility of mental stability. And. So. That's kind of what. I can show you. Should I. Share the screen again. Yeah, you go ahead. Okay. Yeah. Yeah. Yeah. Okay. And then I called this series text oppressionism after learning about your term because I'm literally expressive technology.
+There's lots of. Questions of the psychology. How it's affecting the next generation and my generation. The. Fragility of mental stability. And. So. That's kind of what. I can show you. Should I. Share the screen again. Yeah, you go ahead. Okay. Yeah. Yeah. Yeah. Okay. And then I called this series Techspressionism after learning about your term because I'm literally expressive technology.
 
 But here's the windows 95. And yeah, it has mere shards. And objects. And actually all of my two dimensional. Pieces, although they don't look like it, they're all found objects. They're either like old posters. Old pieces of paper or. Things I found on the side of the road. A lot of them came from working in the music industry, like the big boards of plywood.
 

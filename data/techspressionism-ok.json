@@ -1,0 +1,7 @@
+{
+  "_comment": "Phrases starting with 'text' that are ordinary English and must NOT be reported by check-techspressionism.py (lowercase).",
+  "ok_phrases": [
+    "texturing",
+    "textualism"
+  ]
+}
