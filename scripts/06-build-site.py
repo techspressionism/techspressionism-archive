@@ -287,7 +287,7 @@ details.about .intro { color:var(--muted); }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
-.sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; }
+.sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
 
 PAGE_TMPL = """<!doctype html>
