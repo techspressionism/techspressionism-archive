@@ -344,8 +344,8 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
-.cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
-.cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
+#search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
+#search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
 .cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
