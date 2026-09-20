@@ -830,8 +830,8 @@ INDEX_TMPL = """<!doctype html>
 <main>
 <div id="intro-block">
 <p class="intro">The Techspressionism Video Archive (TVA) is a searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.
-This research tool is intended for scholars, historians, and anyone with an interest in the Techspressionism movement. It includes transcripts of
-Techspressionist <a href="index.html?type=Salon">salons</a>, artist <a href="index.html?type=Interview">interviews</a>,
+This research tool is intended for scholars, historians, and anyone with an interest in Techspressionism.</p>
+<p class="intro">The archive includes transcripts of Techspressionist <a href="index.html?type=Salon">salons</a>, artist <a href="index.html?type=Interview">interviews</a>,
 <a href="index.html?type=Roundtable">roundtable discussions</a>, and artist <a href="index.html?type=Presentation">presentations</a>.
 Transcripts are machine-generated and may contain errors: verify every quote against the recording before citing.
 Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p>
@@ -1185,12 +1185,12 @@ def build_index(corpus):
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     def count_text(n, first, last):
         years = f"{first}\u2013{last}" if first != last else str(first)
-        return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}"
+        return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}."
     rec_counts = {label: count_text(*v) for label, v in spans.items()}
     if spans:
         rec_counts[""] = count_text(len(corpus), min(v[1] for v in spans.values()), max(v[2] for v in spans.values()))
     else:
-        rec_counts[""] = f"{len(corpus)} recordings"
+        rec_counts[""] = f"{len(corpus)} recordings."
 
     latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
     hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
