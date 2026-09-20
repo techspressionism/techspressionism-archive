@@ -255,6 +255,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
+.tagline { font-size:min(1.06rem, calc((100vw - 2.5rem) * .039)); text-wrap:balance; }   /* two lines on a phone */
 details.about { margin:0 0 .8rem; }
 details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
 details.about .intro { color:var(--muted); }
@@ -633,7 +634,7 @@ INDEX_TMPL = """<!doctype html>
 <span class="d">{count} recordings &middot; {year_span}</span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video.</p>
+<p class="intro tagline">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video from 2020&ndash;{latest_year}.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
@@ -816,7 +817,9 @@ def build_index(corpus):
             f'<h3>{e(info["plural"])}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     years = sorted(int(x["date_recorded"][:4]) for x in corpus
                    if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
+    latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
     return INDEX_TMPL.format(
+        latest_year=latest_year,
         count=len(corpus),
         year_span=f"{years[0]}&ndash;{years[-1]}" if years else "",
         typebar="".join(buttons),
