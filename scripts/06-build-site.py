@@ -301,11 +301,12 @@ details.about { margin:0 0 .8rem; }
 details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
 details.about .intro { color:var(--fg); }
 .intro .watch-ref { color:var(--accent); font-weight:600; }
-.yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
+.yt-jump { white-space:nowrap; font-size:.85em; }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
-.cite-actions { display:flex; align-items:center; gap:.6rem; margin-top:.4rem; }
+.cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
+.cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
 .cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
@@ -729,6 +730,32 @@ function escapeHtml(s) {{
 const PILL_SVG = {pill_svg_js};
 const REC_COUNTS = {rec_counts_js};
 
+// The result text is the WHOLE sentence containing the match (search hit words highlighted), found in the
+// page text by the hit's word position: back to the previous sentence end, forward to the next one.
+const SENTENCE_END = /[.?!\u2026]["'\u201d\u2019)\]]*$/;
+const NOT_SENTENCE_END = new Set(["mr.", "mrs.", "ms.", "dr.", "st.", "vs.", "etc.", "e.g.", "i.e.", "no.", "jr.", "sr.", "prof."]);
+function endsSentence(word) {{
+  return SENTENCE_END.test(word) && !NOT_SENTENCE_END.has(word.toLowerCase());
+}}
+function sentenceExcerpt(result, sr) {{
+  const locs = (sr.locations || []).slice().sort((a, b) => a - b);
+  if (!locs.length || !result.content) return "";
+  const words = result.content.split(/\s+/);
+  const first = locs[0];
+  if (first >= words.length) return "";
+  let start = first, end = first;
+  while (start > 0 && first - start < 60 && !endsSentence(words[start - 1])) start--;
+  while (end < words.length - 1 && end - first < 80 && !endsSentence(words[end])) end++;
+  const hits = new Set(locs);
+  const out = [];
+  for (let i = start; i <= end; i++) {{
+    const w = escapeHtml(words[i]);
+    out.push(hits.has(i) ? "<mark>" + w + "</mark>" : w);
+  }}
+  return (start > 0 && !endsSentence(words[start - 1]) ? "\u2026 " : "") + out.join(" ")
+    + (end < words.length - 1 && !endsSentence(words[end]) ? " \u2026" : "");
+}}
+
 function pillTime(seconds) {{
   seconds = Math.floor(seconds);
   const h = Math.floor(seconds / 3600), m = Math.floor(seconds % 3600 / 60), s = seconds % 60;
@@ -769,15 +796,16 @@ window.addEventListener('DOMContentLoaded', () => {{
         if (!yt || !m) continue;
         const seconds = parseInt(m[1], 10);
         const link = yt + "&t=" + Math.max(0, seconds - {watch_lead_in}) + "s";   // leads in; the citation below stays exact
+        sr.excerpt = sentenceExcerpt(result, sr) || sr.excerpt;   // the whole sentence that matched, not a fixed-length snippet
         const citation = buildCitation(result, sr, seconds);
         const page = sr.url.split('#')[0];
         const here = page + (page.includes('?') ? '&' : '?') + 'play=1#t' + m[1];   // the page opens the transcript there and plays
         sr.excerpt = sr.excerpt
-          + ' <a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">on YouTube &#8599;</a>'
           + '<div class="citation-info"><strong>Citation information:</strong> '
           + '<span class="cite-text">' + escapeHtml(citation) + '</span> '
           + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy</button>'
-          + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this point and plays the video">' + PILL_SVG + pillTime(seconds) + '</a></div></div>';
+          + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this point and plays the video">' + PILL_SVG + pillTime(seconds) + '</a>'
+          + '<a class="yt-jump" href="' + link + '" target="_blank" rel="noopener">Watch on YouTube &#8599;</a></div></div>';
       }}
       return result;
     }},
