@@ -282,6 +282,15 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .num { display:inline-block; min-width:3.2rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .d { color:var(--muted); font-size:.9rem; }
 #search { margin:.4rem 0 .3rem; }
+#search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
+#search .filters-toggle:hover { border-color:var(--accent); }
+@media (max-width:40rem) {   /* phones: filters collapsed behind one button */
+  #search .filters-toggle { display:flex; }
+  #search:not(.filters-open) .pagefind-ui__filter-panel { display:none; }
+  #search .pagefind-ui__drawer { gap:.3rem; }
+  #search .pagefind-ui__results-area { margin-top:0; }
+  #search .pagefind-ui__message { padding-top:.5rem; padding-bottom:.5rem; }
+}
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
@@ -775,6 +784,59 @@ window.addEventListener('DOMContentLoaded', () => {{
   setType(params.get("type") || "");
   const q = params.get("q");
   if (q) ui.triggerSearch(q);
+
+  // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
+  const searchBox = document.getElementById("search");
+  function filterCount(panel) {{
+    let n = 0;
+    for (const block of panel.querySelectorAll(".pagefind-ui__filter-block")) {{
+      const name = (block.querySelector("summary") || {{}}).textContent || "";
+      if (name.trim().toLowerCase() === "type") continue;      // the category pills at the top already show this one
+      n += block.querySelectorAll("input:checked").length;
+    }}
+    return n;
+  }}
+  function hideEmptyFilters(panel) {{      // a filter value with no results for this search is not worth showing (unless it is ticked, so it can be unticked)
+    for (const block of panel.querySelectorAll(".pagefind-ui__filter-block")) {{
+      let shown = 0;
+      for (const v of block.querySelectorAll(".pagefind-ui__filter-value")) {{
+        const label = v.querySelector("label");
+        const empty = /\(0\)\s*$/.test(label ? label.textContent : "") && !(v.querySelector("input") || {{}}).checked;
+        const want = empty ? "none" : "";
+        if (v.style.display !== want) v.style.display = want;
+        if (!empty) shown++;
+      }}
+      const want = shown ? "" : "none";
+      if (block.style.display !== want) block.style.display = want;
+    }}
+  }}
+  function syncFiltersButton() {{
+    const panel = searchBox.querySelector(".pagefind-ui__filter-panel");
+    if (!panel) return;
+    hideEmptyFilters(panel);
+    let btn = searchBox.querySelector(".filters-toggle");
+    if (!btn) {{
+      btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "filters-toggle";
+      btn.setAttribute("aria-expanded", String(searchBox.classList.contains("filters-open")));
+      btn.addEventListener("click", () => {{
+        const open = searchBox.classList.toggle("filters-open");
+        btn.setAttribute("aria-expanded", String(open));
+        syncFiltersButton();
+      }});
+      panel.parentElement.insertBefore(btn, panel);
+    }}
+    const n = filterCount(panel);
+    const label = "<span>Filters" + (n ? " (" + n + ")" : "") + "</span><span aria-hidden='true'>" + (searchBox.classList.contains("filters-open") ? "&#9650;" : "&#9660;") + "</span>";
+    if (btn.dataset.label !== label) {{      // only when it changed: writing to the page re-triggers this observer
+      btn.dataset.label = label;
+      btn.innerHTML = label;
+    }}
+  }}
+  new MutationObserver(syncFiltersButton).observe(searchBox, {{ childList: true, subtree: true }});
+  searchBox.addEventListener("change", syncFiltersButton);
+  syncFiltersButton();
 
   document.getElementById("typebar").addEventListener("click", (ev) => {{
     const btn = ev.target.closest("a[data-type]");
