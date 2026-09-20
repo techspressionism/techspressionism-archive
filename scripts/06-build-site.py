@@ -68,12 +68,26 @@ def site_page_html(entry):
             f'View on techspressionism.com</a>') if address else ""
 
 
-def add_robots(page_html):
-    """While the archive is in beta (data/site-config.json: "beta_noindex": true) every page asks search
-    engines not to list it. It stays fully usable for anyone with the address. Set to false at launch."""
-    if not SITE_CONFIG.get("beta_noindex"):
+def canonical_url(filename):
+    base = (SITE_CONFIG.get("canonical_base") or "").strip().rstrip("/")
+    return f"{base}/{filename}" if base else ""
+
+
+def add_robots(page_html, filename=""):
+    """Head tags that steer search engines. While the archive is in beta (data/site-config.json:
+    "beta_noindex": true) every page asks not to be listed; it stays fully usable for anyone with the
+    address. Set to false at launch. When "canonical_base" is set (the archive's final public address,
+    e.g. https://techspressionism.com/archive/) every page also names its own canonical address, so a
+    second copy of the site (such as the GitHub one) is never mistaken for the original."""
+    tags = []
+    if SITE_CONFIG.get("beta_noindex"):
+        tags.append('<meta name="robots" content="noindex, nofollow">')
+    canon = canonical_url("" if filename == "index.html" else filename)
+    if canon:
+        tags.append(f'<link rel="canonical" href="{e(canon)}">')
+    if not tags:
         return page_html
-    return page_html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)
+    return page_html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + "\n".join(tags), 1)
 
 
 def suggest_link(entry, start, paragraph):
@@ -868,12 +882,20 @@ def main():
     NAV_CORPUS[:] = corpus
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE)
-    (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus)))
+    (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus), "index.html"))
     by_type = {}
     for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
-        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')])))
+        (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"))
+
+    if SITE_CONFIG.get("canonical_base"):       # sitemap.xml for search engines (only once the final address is known)
+        urls = [canonical_url("")] + [canonical_url(f"{slug(x)}.html") for x in corpus]
+        (SITE_DIR / "sitemap.xml").write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + "".join(f"<url><loc>{e(u)}</loc></url>\n" for u in urls) + "</urlset>\n")
+    else:
+        (SITE_DIR / "sitemap.xml").unlink(missing_ok=True)
 
     THUMBNAILS_OUT_DIR.mkdir(exist_ok=True)
     SMALL_THUMBS_OUT_DIR.mkdir(exist_ok=True)
