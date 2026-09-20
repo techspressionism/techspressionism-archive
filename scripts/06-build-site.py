@@ -263,7 +263,8 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .read-btn { display:block; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
-.layout.from-search .read-btn { display:none !important; }
+.layout.from-search .read-btn, .layout.reading .read-btn { display:none !important; }   /* Read transcript opens it for good; there is no Hide button */
+@media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
@@ -353,11 +354,10 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
 #search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:1rem; }
-#search a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; }
-#search .cite-actions a.pill.pill-watch { padding-left:1.1rem; padding-right:1.1rem; gap:.5rem; }
-#search a.pill.pill-watch svg, #search a.pill.pill-watch:hover svg { color:#fff; }
-#search a.pill.pill-watch:hover { background:#d60000; }
-#search a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
+a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
+a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
+a.pill.pill-watch:hover { background:#d60000; }
+a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 #search .cite-actions .copy-cite, #search .cite-actions a.pill.pill-watch { box-sizing:border-box; height:2.2rem; padding-top:0; padding-bottom:0; display:inline-flex; align-items:center; line-height:1; }
 #search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
@@ -519,7 +519,7 @@ PLAYER_JS = """<script>
   titleBar(); window.addEventListener('scroll', titleBar, { passive: true }); window.addEventListener('resize', titleBar);
   if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
   if (btn) {
-    btn.addEventListener('click', function () { reading(!layout.classList.contains('reading'), true); });
+    btn.addEventListener('click', function () { reading(true, true); });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
@@ -779,7 +779,7 @@ def build_session_page(entry, siblings=()):
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'{head_open}<a class="pill" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore>{PILL_SVG}{pill_time(t0)}</a>{head_name}</h3>'
+                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(t0)}</a>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
