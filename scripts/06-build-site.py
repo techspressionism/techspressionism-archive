@@ -313,7 +313,10 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
 .reccount { margin:.2rem 0 .6rem; color:var(--muted); }
-#search .pagefind-ui__form { display:none; }   /* the header search box replaces the widget's own input */
+/* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
+#search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
+#search .pagefind-ui__form::before { display:none; }
+body.searching #intro-block, body.searching .reccount, body.searching .sessions-group { display:none; }   /* while searching, the results come first */
 .browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
 .browse[hidden] { display:none; }
 .browse label { font:inherit; }   /* same font as the intro line */
@@ -934,9 +937,10 @@ window.addEventListener('DOMContentLoaded', () => {{
   let searchTimer;
   headerInput.addEventListener("input", () => {{
     clearTimeout(searchTimer);
+    document.body.classList.toggle("searching", !!headerInput.value.trim());
     searchTimer = setTimeout(() => ui.triggerSearch(headerInput.value.trim()), 150);
   }});
-  if (q) headerInput.value = q;
+  if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
 
   function setType(type) {{
     for (const b of document.querySelectorAll("#typebar a[data-type]")) {{
