@@ -296,7 +296,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
 .beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
-.tagline { font-size:inherit; text-wrap:balance; }   /* same size as the About heading */
+.tagline { font-size:inherit; }   /* same size as the About heading; lines fill the width (no balanced wrapping) */
 details.about { margin:0 0 .8rem; }
 details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
 details.about .intro { color:var(--fg); }
