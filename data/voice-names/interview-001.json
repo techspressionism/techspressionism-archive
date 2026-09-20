@@ -1,0 +1,15 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 18:54",
+      "fingerprint": "112b9e0c34",
+      "name": "Colin Goldberg"
+    },
+    "V2": {
+      "at": "2026-09-20 18:54",
+      "fingerprint": "8e2f5a7487",
+      "name": "Roz Dimon"
+    }
+  }
+}

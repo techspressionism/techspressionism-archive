@@ -1,0 +1,15 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 18:51",
+      "fingerprint": "fd38ec44fe",
+      "name": "Michael Pierre Price"
+    },
+    "V2": {
+      "at": "2026-09-20 18:52",
+      "fingerprint": "b2aaf2c6b0",
+      "name": "Roz Dimon"
+    }
+  }
+}

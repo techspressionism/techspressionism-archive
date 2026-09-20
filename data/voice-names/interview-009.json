@@ -1,0 +1,15 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 18:53",
+      "fingerprint": "26a308b0a8",
+      "name": "Andrea Bonaceto"
+    },
+    "V2": {
+      "at": "2026-09-20 18:53",
+      "fingerprint": "95e626ed93",
+      "name": "Colin Goldberg"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 18:56",
+      "fingerprint": "16bb80ba44",
+      "name": "Anne Spalter"
+    },
+    "V2": {
+      "at": "2026-09-20 18:56",
+      "auto": true,
+      "fingerprint": "67814152b4",
+      "name": "Colin Goldberg"
+    }
+  }
+}

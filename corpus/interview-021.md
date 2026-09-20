@@ -21,119 +21,347 @@ transcript_source: whisper-large-v3
 languages: ["en"]
 ---
 
-## Unattributed [00:03](https://www.youtube.com/watch?v=ywYWdI922tI&t=3s)
+## Colin Goldberg [00:03](https://www.youtube.com/watch?v=ywYWdI922tI&t=3s)
 
 Hello. Today is Friday, January 7, 2022. My name is Colin Goldberg, and I'm here today with artist Victor Acevedo. So, welcome Victor. Thanks for joining me today and it's a pleasure to be able to rap with you a little bit about your art and your practice. You know we've gotten to know each other a little bit, you know, over the course of the various expressionism salons and things like that but I'm interested to learn a little bit more about your background I know we shared some lived in New York, maybe around the same time period or so. And, you know, seen a bunch of your work and very interested in learning more about it.
 
-So, you know, I guess you know the first question that will will will start with is. Okay. You know, could you tell us a little bit about your background like you know where you were born where you live in practice now and then all you know also you know your cultural influences as an artist. Sure yeah well I was born and raised in Los Angeles California.
+So, you know, I guess you know the first question that will will will start with is. Okay. You know, could you tell us a little bit about your background like you know where you were born where you live in practice now and then all you know also you know your cultural influences as an artist.
 
-And I was there for about 21 years and then I moved away to Albuquerque New Mexico for a couple years. And then I moved back to LA so mostly been in Los Angeles most of my life but I did move to LA for two years for next few years so let me share some sort of background because my previous career here at LA was spent somewhere New York in 1995, was there for about 14 years. So that was a great adventure.
+## Victor Acevedo [01:07](https://www.youtube.com/watch?v=ywYWdI922tI&t=67s)
 
-Yeah, I was there from like 94 to 2000. So we definitely were there at the same time. Whereabouts in the city were you? Well, I was in various places. I jumped around a lot. When I first landed, I was on in Murray Hill, 34th and 1st Avenue. There was the Rivergate Apartments there because I got a job at the same time when I moved there. So there was some housing provided for me at first. And so I was living there. And then I moved. I lived in Chelsea for a while on West 28th Street near FIT.
+Sure yeah well I was born and raised in Los Angeles California. And I was there for about 21 years and then I moved away to Albuquerque New Mexico for a couple years. And then I moved back to LA so mostly been in Los Angeles most of my life but I did move to LA for two years for next few years so let me share some sort of background because my previous career here at LA was spent somewhere New York in 1995, was there for about 14 years. So that was a great adventure.
 
-And then I lived for a while on Park Avenue, 3rd and Park. That was a short time. And then longer, I ended up in the East Village because I had some old friends there. It was on Avenue A. When were you in the East Village? I have to think. I think it was maybe 97, 97 to about 2000, something like that. That's very weird. We probably, I was on A and 2nd at that time, actually. I lived on 2nd and 2nd and then on A and 2nd, right near that Gracefully, the Grace Deli Market there on A and 2nd, the next building. I was on 20th Avenue A. So I'm from like 96 to 2nd. 2000, something like that. Okay. Who we probably crossed paths, you know, without even knowing it a few times. Did you go to Life Cafe? I did. Yeah. Yeah. And then there was that place.
+## Colin Goldberg [01:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=92s)
 
-## Unattributed [03:05](https://www.youtube.com/watch?v=ywYWdI922tI&t=185s)
+Yeah, I was there from like 94 to 2000. So we definitely were there at the same time. Whereabouts in the city were you?
 
-There was a place called the Korova Milk Bar. I don't know if you ever went there. That was on A. That was like, exactly like the Clockwork Orange Milk Bar. You know, they set it up like that. Oh yeah, exactly. Yeah. I totally remember. Benny's Burritos and all that. Yeah. Oh yeah. That was true. I went there by the... Yeah.
+## Victor Acevedo [01:40](https://www.youtube.com/watch?v=ywYWdI922tI&t=100s)
 
-Yeah. I went there multiple times. Yeah. It's funny. I didn't realize you lived right there during that same time period. That's interesting. Yeah. Yeah. Oh yeah. That's wild. Good synchronicity. And then later I moved to Greenpoint. Like that was about 2000. I moved to Greenpoint and then after that I went to Williamsburg. Okay. I went to Williamsburg. Yeah. I started in Williamsburg in 94. I was at Broadway in Bedford and lived there briefly.
+Well, I was in various places. I jumped around a lot. When I first landed, I was on in Murray Hill, 34th and 1st Avenue. There was the Rivergate Apartments there because I got a job at the same time when I moved there. So there was some housing provided for me at first. And so I was living there. And then I moved. I lived in Chelsea for a while on West 28th Street near FIT.
 
-Actually got mugged. Oh. Shortly after moving there, coming back from a temp job underneath the bridge. And then I was like, you know what? Maybe I'm going to jump across the river and see what I could find there. So I moved into a tiny flat in second and second. But it was an old building across from that bank building right near Peter Luger's. It was still kind of pretty non-gentrified at that point. There was a chop shop on the corner and stuff.
+And then I lived for a while on Park Avenue, 3rd and Park. That was a short time. And then longer, I ended up in the East Village because I had some old friends there. It was on Avenue A. When were you in the East Village? I have to think. I think it was maybe 97, 97 to about 2000, something like that.
 
-Wow. That's cool. Yeah. I remember that. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. It's like a reminiscence of that. That's one of the things I really like to have a little bit of a hard time with. But I know you're so many people in the community. And I know you're so important to me. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group.
+## Colin Goldberg [02:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=152s)
 
-And I know you're so important to this group. Cool I'm getting I'm just I'm kind of looking at my image that's different I'm in a different position than where I normally am so it looks odd to me I got used to the first time I did I'm sort of so bear with me if I seem distracted I'm not used to this it's all good I see my cat julie is like roaming around in the background there okay that's that's cool yeah so it's fascinating fascinating synchronicities and I think I meant it was fascinating to to bump into patrick right before we started our session because I know I met patrick uh probably in the uh in the late 90s because we had some mutual friends a lady called arlene schloss who was pretty famous in the 70s and 80s as a performance artist and he was friends with her so I think I met him through her I know he was involved with fluxes um I don't know too many of the details with that but I know he was sort of involved with that group of people and then we you know we met in graduate school actually um at bowling out in ohio and we both studied with greg little um over there and did our mfas and computer art together that was around 2005 2006 kind of time period so yeah cool when I started getting this project going you know I was like I should give patrick a call so he was one of the original people who came you know we came together in our first salon it was like me him Steve Miller um this woman osvan rosen who kind of was the first person that she knew I used to use the term expressionism in an article and that prompted me to say hey you know maybe there's something to this so we could get a group together so yeah right rang up patrick and I'd worked for Steve Miller as a studio assistant many moons ago when I was an undergrad so um we've always stayed in contact and uh and helen harrison you know was there and helped kind of keep everything kind of consolidated she helped really formulate the definition of the term you know and um wow in a great way.
+That's very weird. We probably, I was on A and 2nd at that time, actually. I lived on 2nd and 2nd and then on A and 2nd, right near that Gracefully, the Grace Deli Market there on A and 2nd, the next building. I was on 20th Avenue A. So I'm from like 96 to 2nd. 2000, something like that.
 
-## Unattributed [06:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=408s)
+## Victor Acevedo [02:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=174s)
 
-That's great. Yeah. Yeah. Small world. Like I met Steve Miller. I used to work when I was in New York at Lamont Editions, which is a high end fine art printing facility. And he came in a few times as a client and I worked with him one time. Yeah. I think he still uses Lamont for some of the stuff he does with inkjet and he does, you know, like screen printing on top of the inkjet prints and stuff like that. Oh, okay. I've heard him mention Lamont. Yeah. And I know he did just straight print editions, but also stuff on canvas where he's screen printing on, you know, on the inkjet pieces.
+Okay. Who we probably crossed paths, you know, without even knowing it a few times. Did you go to Life Cafe?
 
-Cool. That's cool. Yeah. Small world, right? It's amazing. Yeah. Yeah, for sure. Yeah. So where do we, well, you asked me about my background and cultural influences. Yeah. You know, well, it's, it's varied, you know, it's, you know, when I hear there's a lot of layers to it, really. As you know, I, as I've mentioned, I'm born and raised in Los Angeles. So I have sort of a Los Angeles frame of mind, but the New York experience really opened up my horizons in terms of, you know, how to live in an American city.
+## Colin Goldberg [03:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=181s)
+
+I did. Yeah. Yeah. And then there was that place. There was a place called the Korova Milk Bar. I don't know if you ever went there.
+
+## Victor Acevedo [03:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=189s)
+
+That was on A.
+
+## Colin Goldberg [03:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=189s)
+
+That was like, exactly like the Clockwork Orange Milk Bar.
+
+## Victor Acevedo [03:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=194s)
+
+You know, they set it up like that. Oh yeah, exactly. Yeah.
+
+## Colin Goldberg [03:16](https://www.youtube.com/watch?v=ywYWdI922tI&t=196s)
+
+I totally remember. Benny's Burritos and all that. Yeah.
+
+## Victor Acevedo [03:18](https://www.youtube.com/watch?v=ywYWdI922tI&t=198s)
+
+Oh yeah. That was true. I went there by the...
+
+## Colin Goldberg [03:20](https://www.youtube.com/watch?v=ywYWdI922tI&t=200s)
+
+Yeah. Yeah. I went there multiple times.
+
+## Victor Acevedo [03:23](https://www.youtube.com/watch?v=ywYWdI922tI&t=203s)
+
+Yeah.
+
+## Colin Goldberg [03:24](https://www.youtube.com/watch?v=ywYWdI922tI&t=204s)
+
+It's funny. I didn't realize you lived right there during that same time period. That's interesting.
+
+## Victor Acevedo [03:29](https://www.youtube.com/watch?v=ywYWdI922tI&t=209s)
+
+Yeah. Yeah. Oh yeah. That's wild. Good synchronicity. And then later I moved to Greenpoint. Like that was about 2000. I moved to Greenpoint and then after that I went to Williamsburg. Okay.
+
+## Colin Goldberg [03:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=222s)
+
+I went to Williamsburg. Yeah. I started in Williamsburg in 94. I was at Broadway in Bedford and lived there briefly. Actually got mugged.
+
+## Victor Acevedo [03:51](https://www.youtube.com/watch?v=ywYWdI922tI&t=231s)
+
+Oh.
+
+## Colin Goldberg [03:51](https://www.youtube.com/watch?v=ywYWdI922tI&t=231s)
+
+Shortly after moving there, coming back from a temp job underneath the bridge. And then I was like, you know what? Maybe I'm going to jump across the river and see what I could find there. So I moved into a tiny flat in second and second. But it was an old building across from that bank building right near Peter Luger's. It was still kind of pretty non-gentrified at that point. There was a chop shop on the corner and stuff.
+
+## Victor Acevedo [04:20](https://www.youtube.com/watch?v=ywYWdI922tI&t=260s)
+
+Wow. That's cool. Yeah. I remember that. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. It's like a reminiscence of that. That's one of the things I really like to have a little bit of a hard time with. But I know you're so many people in the community. And I know you're so important to me. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group.
+
+## Colin Goldberg [04:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=270s)
+
+And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group.
+
+## Victor Acevedo [04:41](https://www.youtube.com/watch?v=ywYWdI922tI&t=281s)
+
+And I
+
+## Colin Goldberg [04:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=282s)
+
+Know you're so important to this group. And I know you're so important to this group. And I know you're so important to this group.
+
+## Victor Acevedo [04:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=287s)
+
+And I know you're so important to this group. Cool I'm getting I'm just I'm kind of looking at my image that's different I'm in a different position than where I normally am so it looks odd to me I got used to the first time I did I'm sort of so bear with me if I seem distracted I'm not used to this it's all good I see my cat julie
+
+## Colin Goldberg [05:06](https://www.youtube.com/watch?v=ywYWdI922tI&t=306s)
+
+Is like roaming
+
+## Victor Acevedo [05:08](https://www.youtube.com/watch?v=ywYWdI922tI&t=308s)
+
+Around in the background there okay that's that's cool yeah so it's fascinating fascinating synchronicities and I think I meant it was fascinating to to bump into patrick right before we started our session because I know I met patrick uh probably in the uh in the late 90s because we had some mutual friends a lady called arlene schloss who was pretty famous in the 70s and 80s as a performance artist and he was friends with her so I think I met him through
+
+## Colin Goldberg [05:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=335s)
+
+Her I know he was involved with fluxes um I don't know too many of the details with that but I know he was sort of involved with that group of people and then we you know we met in graduate school actually um at bowling out in ohio and we both studied with greg little um over there and did our mfas and computer art together that was around 2005 2006 kind of time period so yeah cool when I started getting this project going you know I was like I should give patrick a call so he was one of the original people who came you know we came together in our first salon it was like me him Steve Miller um this woman osvan rosen who kind of was the first person that she knew I used to use the term expressionism in an article and that prompted me to say hey you know maybe there's something to this so we could get a group together so yeah
+
+## Victor Acevedo [06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=386s)
+
+Right
+
+## Colin Goldberg [06:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=386s)
+
+Rang up patrick and I'd worked for Steve Miller as a studio assistant many moons ago when I was an undergrad so um we've always stayed in contact and uh and helen harrison you know was there and helped kind of keep everything kind of consolidated she helped really formulate the definition of the term you know and um wow in a great way.
+
+## Victor Acevedo [06:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=408s)
+
+That's great. Yeah. Yeah. Small world. Like I met Steve Miller. I used to work when I was in New York at Lamont Editions, which is a high end fine art printing facility. And he came in a few times as a client and I worked with him one time.
+
+## Colin Goldberg [07:05](https://www.youtube.com/watch?v=ywYWdI922tI&t=425s)
+
+Yeah. I think he still uses Lamont for some of the stuff he does with inkjet and he does, you know, like screen printing on top of the inkjet prints and stuff like that.
+
+## Victor Acevedo [07:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=434s)
+
+Oh, okay.
+
+## Colin Goldberg [07:15](https://www.youtube.com/watch?v=ywYWdI922tI&t=435s)
+
+I've heard him mention Lamont. Yeah. And I know he did just straight print editions, but also stuff on canvas where he's screen printing on, you know, on the inkjet pieces. Cool.
+
+## Victor Acevedo [07:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=446s)
+
+That's cool.
+
+## Colin Goldberg [07:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=447s)
+
+Yeah.
+
+## Victor Acevedo [07:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=447s)
+
+Small world, right? It's amazing.
+
+## Colin Goldberg [07:29](https://www.youtube.com/watch?v=ywYWdI922tI&t=449s)
+
+Yeah. Yeah, for sure. Yeah.
+
+## Victor Acevedo [07:32](https://www.youtube.com/watch?v=ywYWdI922tI&t=452s)
+
+So where do we, well, you asked me about my background and cultural influences. Yeah. You know, well, it's, it's varied, you know, it's, you know, when I hear there's a lot of layers to it, really. As you know, I, as I've mentioned, I'm born and raised in Los Angeles. So I have sort of a Los Angeles frame of mind, but the New York experience really opened up my horizons in terms of, you know, how to live in an American city.
 
 You know, I, my Acevedo is a Spanish surname. So I have a Latin background, a Hispanic background. So that, that certainly factored in, you know, I felt the connection with my grandparents, my maternal and paternal grandparents like that. Let's see. I had some, what else did I want to say? Yeah. So there, there's that informed it. My father had natural drawing ability, natural talent. So I kind of think I inherited it from him and he became a civil engineer. So he had a kind of a math tendency. Tendencies towards math, but also a graphical sense and, you know, the engine, the engineering component, but he used to draw and I used to watch when I was a little kid, you know, that was a seminal influence watching him. He used to be in another side room. He'd be inking on engineering plans. And I'd be fascinating by these tools that he would use like these compasses to make circles or draw North arrows.
 
 So, and inking on this blue vellum, you know, it was just very fascinating to see him do it. So I was thinking about that in the run-up to our interview is like, not only did I, was I fascinated by pictures, but I was also got this very early sense of symbols, you know, graphical symbols that meant something or didn't. And that was, I think that was a seminal sort of imprint like that.
 
-And then I had an older brother. Maybe I'm jumping into another question where you're like, yeah, you know, like they're, they're glomming together. Like how did, you tell us what made you become an artist? I started getting into that, but it kind of, it kind of evolved.
+And then I had an older brother. Maybe I'm jumping into another question where you're like, yeah, you know, like they're, they're glomming together. Like how did, you tell us what made you become an artist? I started getting into that, but it kind of, it kind of evolved. It was a natural thing because I had these early influences. You know, I started drawing at age four, just spontaneously and making letter forms as well. So maybe that comes with us that experiencing those symbols.
 
-## Unattributed [09:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=588s)
+And I actually have a memory to this day of drawing the letter E. Right. David who's three years older than me. We were like playmates were really close. And probably before I'm thinking of the dates 1960 I was born in 54 so when I was five or six. Our father got us this big chalkboard. We shared a bedroom and we had it on the wall. You know, it seemed really big at the time, you know, maybe it was, you know, four by six, it seemed massive at the time, but we used to wake up and just start drawing on this chalkboard that was right there, like the foot of our beds. That was another, like so seminal influence, you know, kind of experience that sort of sort of nurtured this natural ability with opportunities to, to practice it, to express it. So that was cool. So that was. That's interesting too.
 
-It was a natural thing because I had these early influences. You know, I started drawing at age four, just spontaneously and making letter forms as well. So maybe that comes with us that experiencing those symbols. And I actually have a memory to this day of drawing the letter E. Right. David who's three years older than me. We were like playmates were really close.
+## Colin Goldberg [11:16](https://www.youtube.com/watch?v=ywYWdI922tI&t=676s)
 
-And probably before I'm thinking of the dates 1960 I was born in 54 so when I was five or six. Our father got us this big chalkboard. We shared a bedroom and we had it on the wall. You know, it seemed really big at the time, you know, maybe it was, you know, four by six, it seemed massive at the time, but we used to wake up and just start drawing on this chalkboard that was right there, like the foot of our beds. That was another, like so seminal influence, you know, kind of experience that sort of sort of nurtured this natural ability with opportunities to, to practice it, to express it. So that was cool. So that was. That's interesting too. Cause I know like, like looking, you know, a little bit of familiarity with work, your work. And I know that you've done a lot of collaborative pieces, like work with photographers and other stuff like that.
+Cause I know like, like looking, you know, a little bit of familiarity with work, your work. And I know that you've done a lot of collaborative pieces, like work with photographers and other stuff like that. Right. So maybe like that experience of working with your brother, you know, both working on the same chalkboard, maybe that somehow influenced you to be receptive to collaboration, collaborative type experiences, you know, as an artist, you know, who knows? Yeah.
 
-Right. So maybe like that experience of working with your brother, you know, both working on the same chalkboard, maybe that somehow influenced you to be receptive to collaboration, collaborative type experiences, you know, as an artist, you know, who knows? Yeah. Yeah, exactly. And I kind of went through a period of playing music like many of us, late sixties, early seventies, you know, starting a garage band. So I did that for a while.
+## Victor Acevedo [11:43](https://www.youtube.com/watch?v=ywYWdI922tI&t=703s)
 
-It's not my main art form, you know, to be honest, I'm not really a natural musician. I have a modicum of musical ability, but it kind of petered out after a while, but that collaboration, that was also, that was also very important. I think an experience in collaboration, working with other musicians and in the structure of music, you know, we used to write, write songs and things. And, but I kind of hit a dead end with that. And then in, in doing so, that brought me back to my core talent, which is as a visual artist.
+Yeah, exactly. And I kind of went through a period of playing music like many of us, late sixties, early seventies, you know, starting a garage band. So I did that for a while. It's not my main art form, you know, to be honest, I'm not really a natural musician. I have a modicum of musical ability, but it kind of petered out after a while, but that collaboration, that was also, that was also very important. I think an experience in collaboration, working with other musicians and in the structure of music, you know, we used to write, write songs and things. And, but I kind of hit a dead end with that. And then in, in doing so, that brought me back to my core talent, which is as a visual artist.
 
-And one of the questions is, you know, when did you know you wanted to be an artist? And the seed was planted in 1975. My father, worked overseas as a civil engineer after a while. He worked in Saudi Arabia and also Bahrain. So we would have family reunions every couple of years from about 75 to 83.
+And one of the questions is, you know, when did you know you wanted to be an artist? And the seed was planted in 1975. My father, worked overseas as a civil engineer after a while. He worked in Saudi Arabia and also Bahrain. So we would have family reunions every couple of years from about 75 to 83. So in 75, when I was about 21, we, we made up in Europe. We went to various cities like Vienna, Luxembourg, or it's hard to remember these things off the top of my head. These days, you know, I was from the seventies, but we did end up in Amsterdam later, London. We went to the north of England because he had a lot, he worked with a lot of English engineers in the middle East. So he had this connection to the UK, but on the way we're taking this road trip from Vienna to Amsterdam.
 
-## Unattributed [12:52](https://www.youtube.com/watch?v=ywYWdI922tI&t=772s)
+And then I think we flew over to London, but in Amsterdam, we went to the Van Gogh museum and I hadn't really 75. I hadn't really thought about it. I thought I want to be an artist as an adult, you know, but seeing the Van Gogh paintings, there was about 20 or 30 of them in this room. It's like a dream image now, but I remember, I knew the power of music and the sound of that and what that could have, but I didn't really know the power of like paint coming,
 
-So in 75, when I was about 21, we, we made up in Europe. We went to various cities like Vienna, Luxembourg, or it's hard to remember these things off the top of my head. These days, you know, I was from the seventies, but we did end up in Amsterdam later, London. We went to the north of England because he had a lot, he worked with a lot of English engineers in the middle East. So he had this connection to the UK, but on the way we're taking this road trip from Vienna to Amsterdam.
+## Colin Goldberg [13:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=838s)
 
-And then I think we flew over to London, but in Amsterdam, we went to the Van Gogh museum and I hadn't really 75. I hadn't really thought about it. I thought I want to be an artist as an adult, you know, but seeing the Van Gogh paintings, there was about 20 or 30 of them in this room. It's like a dream image now, but I remember, I knew the power of music and the sound of that and what that could have, but I didn't really know the power of like paint coming, the energy of paint coming off a canvas and to be that close to these, all these Van Gogh paintings, that was kind of a, you know, epiphanous moment. Really. And I thought to myself, it was almost a quiet, you know, unspoken thought to myself, wow, maybe you should go into visual arts and it wouldn't have been in that sentence. It's just like a feeling or impulse.
+The
 
-Yeah. Now I get it. You know, it was, it was very visceral. Yeah. I had a similar experience with, you know, the first time I ever saw Pollock in person and, you know, prior to that, I had always sort of like seeing, you know, I was familiar with his work and seeing it in reproductions. But it was always sort of like, well, you know, what's so special about that? You know what I mean? Until I was like standing in front of one and, you know, just the scale and the feeling like I was just falling into this space completely changed, you know, the way that I, I saw his work. And also it really kind of, you know, I mean, I studied under a sort of a New York school painter as an undergrad, but, you know, and those experiences really got me interested in abstraction. And, you know, pure abstraction, because prior to that, I really, I wasn't that interested, you know, in abstraction, you know, and more into the sort of surrealist kind of like trippy type stuff as, as a young person, you know what I mean?
+## Victor Acevedo [13:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=838s)
 
-But yeah, I can relate to that. You know, being there in the presence of, of, of work like that, you know, important work, I think it's definitely could be a very significant experience. Yeah. Yeah, absolutely. Do you remember that? What year that was when you saw that, first Pollock in person? I mean, I must've been in high school at the time, you know, probably, you know, and then later on, you know, going to, going to school and then, you know, I studied under this guy, Angelo Ippolito, who was sort of like a second generation abstract expressionist painter, but he sort of like, you know, knew those, that same group of people, Pollock, and that whole whole set of people.
+Energy of paint coming off a canvas and to be that close to these, all these Van Gogh paintings, that was kind of a, you know, epiphanous moment. Really. And I thought to myself, it was almost a quiet, you know, unspoken thought to myself, wow, maybe you should go into visual arts and it wouldn't have been in that sentence. It's just like a feeling or impulse. Yeah. Now I get it. You know, it was, it was very visceral.
 
-## Unattributed [16:04](https://www.youtube.com/watch?v=ywYWdI922tI&t=964s)
+## Colin Goldberg [14:24](https://www.youtube.com/watch?v=ywYWdI922tI&t=864s)
 
-Ippolito came from Italy, I believe, around, you know, the time when Mussolini was in power to come to America. And it's funny, you know, they had two painting professors as an undergrad and the one professor whose name I'm not going to say, he would say, you know, well, it's great to be an artist, but if you have the brains to be a dentist, you know, you should go be a dentist, you know? And then Ippolito always said, you know, Hey, if you want to go, you want to be an artist, you know, go to New York and give it a shot. You know? Yeah. Yeah. I listened to that guy, you know, and I just, I remember he would always be playing Thelonious Monk in the studio and that kind of got me into jazz music and stuff like that too. So. Awesome. That's fantastic. That is great. Yeah. You know, also through, I also thought back like, you know, having this predilection towards visual experiences or visual art in the popular culture, what came across to me was MC Escher and Salvador Dali, because they were, you know, they weren't, you know, sequestered inside the rarefied world of, of more abstract forms.
+Yeah. I had a similar experience with, you know, the first time I ever saw Pollock in person and, you know, prior to that, I had always sort of like seeing, you know, I was familiar with his work and seeing it in reproductions. But it was always sort of like, well, you know, what's so special about that? You know what I mean? Until I was like standing in front of one and, you know, just the scale and the feeling like I was just falling into this space completely changed, you know, the way that I, I saw his work. And also it really kind of, you know, I mean, I studied under a sort of a New York school painter as an undergrad, but, you know, and those experiences really got me interested in abstraction. And, you know, pure abstraction, because prior to that, I really, I wasn't that interested, you know, in abstraction, you know, and more into the sort of surrealist kind of like trippy type stuff as, as a young person, you know what I mean?
 
-They were out in the pop pop culture. So, but I was digging on, you know, liking mathematics and geometry. I totally got Escher and was fascinated by his his work and also Salvador Dali, of course, you know, who has hit a lot of universal chords for with surrealism that's to this day, still has, still has an impact.
+But yeah, I can relate to that. You know, being there in the presence of, of, of work like that, you know, important work, I think it's definitely could be a very significant experience.
+
+## Victor Acevedo [15:33](https://www.youtube.com/watch?v=ywYWdI922tI&t=933s)
+
+Yeah. Yeah, absolutely. Do you remember that? What year that was when you saw that, first Pollock in person?
+
+## Colin Goldberg [15:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=939s)
+
+I mean, I must've been in high school at the time, you know, probably, you know, and then later on, you know, going to, going to school and then, you know, I studied under this guy, Angelo Ippolito, who was sort of like a second generation abstract expressionist painter, but he sort of like, you know, knew those, that same group of people, Pollock, and that whole whole set of people. Ippolito came from Italy, I believe, around, you know, the time when Mussolini was in power to come to America. And it's funny, you know, they had two painting professors as an undergrad and the one professor whose name I'm not going to say, he would say, you know, well, it's great to be an artist, but if you have the brains to be a dentist, you know, you should go be a dentist, you know? And then Ippolito always said, you know, Hey, if you want to go, you want to be an artist, you know, go to New York and give it a shot.
+
+You know? Yeah. Yeah. I listened to that guy, you know, and I just, I remember he would always be playing Thelonious Monk in the studio and that kind of got me into jazz music and stuff like that too. So.
+
+## Victor Acevedo [16:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=1007s)
+
+Awesome. That's fantastic. That is great. Yeah. You know, also through, I also thought back like, you know, having this predilection towards visual experiences or visual art in the popular culture, what came across to me was MC Escher and Salvador Dali, because they were, you know, they weren't, you know, sequestered inside the rarefied world of, of more abstract forms. They were out in the pop pop culture. So, but I was digging on, you know, liking mathematics and geometry. I totally got Escher and was fascinated by his his work and also Salvador Dali, of course, you know, who has hit a lot of universal chords for with surrealism that's to this day, still has, still has an impact.
 
 So, so those, so those were important influences. And and then as I got into studying, going to college and going to, first I went to Albuquerque, New Mexico, University UNM University of New Mexico in Albuquerque, cause I moved out there a couple of years. So that's when I first started. And this was in 76 started taking art classes. So that was about, you know, a year after the Van Gogh, I'm sorry, it was 77. It was two years after the Van Gogh experience. So I go, yeah, I want to become an artist. I'll take, start taking art classes. So that was a, you know, a big thing for me at the time. It was like a clarity about my life direction.
 
 But in that I learned about other artists that did have an impact. Caravaggio Vermeer, a lot of, you know, the Titans of art history, the Renaissance. And I looked at him through a prism of Dali because he liked Velazquez Vermeer. And then I did like the artist. I did like the abstract expressionists. I, you know, I liked of course, Jackson Pollock, Mark Tobey. And there was a French guy named Matthew. I forget his, they called him an action painter, but he was very much somewhere in terms of scale, a space between Mark Tobey and Pollock. It was kind of a medium scale, but it was very energetic.
 
-So that component was also interested, but you know, as art students do, you try out all different things. So I, I was just trying to checking out, everything that had come across to me in my studio classes as a kind of a compendium of, you know, common practice, if you will, of stuff pulled up from distant history and stuff in the contemporary scene ways techniques.
-
-## Unattributed [19:24](https://www.youtube.com/watch?v=ywYWdI922tI&t=1164s)
-
-I mean, there's a technique side and then there's the theoretical side like that. So that was, that was an eye opener. That was really good to learn about art history. I, I, I, I sort of like history. So the two coming together was very much a galvanizing bit of data or a data set. That was real important.
+So that component was also interested, but you know, as art students do, you try out all different things. So I, I was just trying to checking out, everything that had come across to me in my studio classes as a kind of a compendium of, you know, common practice, if you will, of stuff pulled up from distant history and stuff in the contemporary scene ways techniques. I mean, there's a technique side and then there's the theoretical side like that. So that was, that was an eye opener. That was really good to learn about art history. I, I, I, I sort of like history. So the two coming together was very much a galvanizing bit of data or a data set. That was real important.
 
 So anyway, not to, cause we only have an hour. We can, we can, I can let's see what else do I want to share about all of this development? Well, some of the, I have, when we, when I share screen, I've got some sort of influences or images that, that represent my, my development in, in the influential stage. So we'll kind of revisit some of these ideas.
 
 But that was, that was really at Van Gogh, 75, and then starting art classes in 77, 78, went there. And then I came back to Los Angeles. I transferred to art center college of design in Pasadena, and that took me to a whole nother level. And that's where I learned about digital in 80 and 81. I, I believe I talked about it when, when I did a, share one of our salons, right. With Jean Youngblood's class. And that was 80 and 81. And that was my introduction to digital. And up to then I was just traditional media, but when I found out about computer graphics, as I always say, that was the future that talk about epiphany.
 
+## Colin Goldberg [20:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=1254s)
+
 Absolutely. Yeah. I mean, that's definitely very, very early on, you know, in the, in the evolution of the personal computer and, you know, I feel like. I felt a similar thing, you know, when at some point, and this wasn't after until after I had started painting, but I started seeing, you know, I guess it was a lot, you know, along the lines of what you experienced, you start to learn about the historical context of things. And then you see like, oh, here's where I am in this timeline or this continuum. And like, wow, I happened to have been born right around the same time as this device. The personal computer, you know, or, you know, it just came into being. Or in my lifetime when I came into being, but artists have been making work centuries, millennia, you know, so, you know, seizing the moment, you know, this is what's happening now in, in history is.
 
-You know, humans developed the computer and I felt a similar thing, you know, where it was like, you know what, I think this is the direction I want to, I want to move, move it. You know? Yeah. That's pretty cool. What kind of computers were you working with back at that time? Well, let's see, I have to think back, but it's, I really, right at the, some of the first access I got, well, I took a workshop in 83 because at Art Center, they didn't have any studio classes. It was just the survey class with Gene Youngblood.
+You know, humans developed the computer and I felt a similar thing, you know, where it was like, you know what, I think this is the direction I want to, I want to move, move it. You know?
 
-## Unattributed [22:25](https://www.youtube.com/watch?v=ywYWdI922tI&t=1345s)
+## Victor Acevedo [22:04](https://www.youtube.com/watch?v=ywYWdI922tI&t=1324s)
 
-But later after I left school, I was seeking it out because I really wanted to get my, some hands on as they used to say in those days. So my first workshop was on a, was on a PC. But I, I was minimal hands on, but it was taught by a very erudite pioneer named Frank Dietrich. And he's not as well known as some of the other pioneers, you know, from the SIGGRAPH, Melieu, but he wrote a lot of important essays, I think in Leonardo and, and, and some other publications. So he, he was programming. He was a programming class and he was using a language called Zgrass.
+Yeah.
+
+## Colin Goldberg [22:05](https://www.youtube.com/watch?v=ywYWdI922tI&t=1325s)
+
+That's pretty cool. What kind of computers were you working with back at that time?
+
+## Victor Acevedo [22:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=1329s)
+
+Well, let's see, I have to think back, but it's, I really, right at the, some of the first access I got, well, I took a workshop in 83 because at Art Center, they didn't have any studio classes. It was just the survey class with Gene Youngblood. But later after I left school, I was seeking it out because I really wanted to get my, some hands on as they used to say in those days. So my first workshop was on a, was on a PC.
+
+But I, I was minimal hands on, but it was taught by a very erudite pioneer named Frank Dietrich. And he's not as well known as some of the other pioneers, you know, from the SIGGRAPH, Melieu, but he wrote a lot of important essays, I think in Leonardo and, and, and some other publications. So he, he was programming. He was a programming class and he was using a language called Zgrass.
 
 And so it was, it was simple programming, probably DOS. You know, just typing in some parameters in DOS and that and the software drew simple pictures. But that was the beginning of it. I was very well aware. One of the experiences I had was the great disparity between the level of technology in that field. Technique that I had developed in analog media at that time. And then the tool set that was very primitive in terms of the kind of images you can make. So that was like this big, you know, a deep chasm of like, wow, you know, I know it's going to be great because I've seen some advanced stuff with the Youngblood class with like Ed Emshwiller's Sunstone that was done with, you know, help of computer scientists at NYIT, for example. So I knew I did get a, you know, a glimpse of higher end stuff from that time, you know, that was from 79.
 
 So, but anyway, I started in personal computers, but I did get a little bit of a Vax mainframe experience. I went to a place called West Coast University, studying with another pioneer called Tony Longson. He was originally from the UK. And he was teaching this class and that was programming too. So, once again, you know, it's kind of like, oh, this is fascinating, you know, but the images aren't there yet, but I'm going to just stay with this. And then at the same time, and the PC started coming in gradually, personal computer, you know, I don't know, maybe 80, 81.
 
-Right. It's interesting that how you're describing it where, and I remember my, I think my very first experience ever with computers was when I was young, maybe in elementary school, we had Apple twos and there was this. Language logo where you would type in commands and this turtle would draw lines and make shapes and stuff. And you could make a draw a square or a circle, but like, you know, what you're talking about essentially, you know, is, is generative art, right. You know, people are writing code and it makes an image. And now like, you know, with NFTs, people are like, oh, this new thing, you know, generative art, but it's like the roots of computer art were generative art because nobody had, there were, there were no input devices. No one had Wacom tablets, or a mouse or any, you know, a light pen or any of those things that people use, you know, it was all straight people writing code and then something would come up on the screen, you know?
+## Colin Goldberg [24:40](https://www.youtube.com/watch?v=ywYWdI922tI&t=1480s)
 
-## Unattributed [25:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=1534s)
+Right. It's interesting that how you're describing it where, and I remember my, I think my very first experience ever with computers was when I was young, maybe in elementary school, we had Apple twos and there was this. Language logo where you would type in commands and this turtle would draw lines and make shapes and stuff. And you could make a draw a square or a circle, but like, you know, what you're talking about essentially, you know, is, is generative art, right. You know, people are writing code and it makes an image. And now like, you know, with NFTs, people are like, oh, this new thing, you know, generative art,
 
-So it's interesting how like, you know, generative art now with blockchain is conceived of as like, oh, this new thing, you know, but in, in reality, all, you know, computer art got its start right. From, from essentially generative art in the sense that people are writing code and it generates images. Yes, exactly. Exactly.
+## Victor Acevedo [25:14](https://www.youtube.com/watch?v=ywYWdI922tI&t=1514s)
 
-So that, that was cool. And I found, you know, being a painter in the analog realm, when the graphical user interface came in and like the paint systems, like Lumina and true color paint, that's, was great to see that coming in. But I was also first at some point, maybe it's the influence of my father and engineering. And I liked 3D and I saw 3D samples of 3D. And I was like, oh my gosh, look at these samples from NYIT at Youngbloods class. So I go and I was also interested in geometry and form in Polyhedra. So I the Cubicomp got got my notice. I really focused on the Cubicomp which you probably remember from the middle 1980s. He was one of the first maybe I never got my hands on it. I was using a Commodore at that time. But probably the Cubicomp was, you know, much more sophisticated.
+But it's like the roots
 
-Yeah. I mean, it was a professional tool. Like production houses video production houses would buy a cuba company you know it would be very expensive now or not very you know compared to what the power now but at the time it was a major investment it would be like paint box or those sort of systems similar to those things network studios would use to create the graphics or whatever is that kind of like along the lines of what the the usage would be for or what would what would they be used for commercially uh yeah you know like flying logos uh would be a big thing so they were kind of the uh sort of a little bit more um sort of refined kind of graphical like a lot of those early like 70s uh electronic things paint box things that they were like 2d or two and a half d the ado I seem to remember so there was a period there and that was big in the 70s uh but this was the beginning of like uh 3d computer graphics but on a but on a uh on a desktop uh so that became accessible I couldn't afford to buy one myself but I would uh you know go after hours uh to a production facility where they wanted people to they were open to people learning after hours you know to get like that and uh so I got my feet wet with that and I I you know I tried to gradually uh sort of revisit the kind of imagery and themes that I was working in in analog media but I knew the tool set was 3d but I like the interface of uh like yourself you know the hybrid of different kinds of modalities of graphics and
+## Colin Goldberg [25:15](https://www.youtube.com/watch?v=ywYWdI922tI&t=1515s)
 
-## Unattributed [28:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=1714s)
+Of computer art were generative art because nobody had, there were, there were no input devices. No one had Wacom tablets, or a mouse or any, you know, a light pen or any of those things that people use, you know, it was all straight people writing code and then something would come up on the screen, you know? So it's interesting how like, you know, generative art now with blockchain is conceived of as like, oh, this new thing, you know, but in, in reality, all, you know, computer art got its start right. From, from essentially generative art in the sense that people are writing code and it generates images.
 
-Color field combined in one image you know vector graphics raster graphics you know that's that whole spectrum of language you're not just in one little part of it it's so vast that you can find your point of view and you can find your point of view in a very personal voice amongst this wide you know range of tools and techniques totally and that was the beginning of it for me like to find you know the primitive early stages compared to now like how to find what's your tool set you know kind of gravitating well do you want to bring some images up on the screen and kind of like walk us through I mean I know we had a question about process but I think that might even be best explained through you know illustrated through looking at some images and talking through you know and also honestly what I've found through the course of this project you know in terms of Techspressionism in general is I'm always more interested to hear about the the content versus the shop talk of how it was made you know I mean you know that's I think of interest from sort of like a geek standpoint yeah but you know as as a human being and like an artist to me like to really learn about what the work is about and I know that that for me at least is much more difficult to even know what what the truth is you know I especially with abstract work I don't really necessarily know where what it's about or where you know where it comes from it's it's abstract you know but it comes from somewhere you know but I think that um that would be the other half of that question is the process but also you know what is the work about and and that's something that that you know I think that's a really good question and I think that's a really good question I think is is actually the story you know it's it's at least as interesting you know and especially to the lay person who you know isn't going to appreciate all the intricacies of you know vector versus raster or all those sorts of things it's like wow what what is that you know yeah yeah I could see that I totally agree ultimately it's the ideas the concept the feeling the content that that gets across and will make a work you know be relevant across decades into the future you know resonate with meaning and I think with technology-based work I think so much of the conversation becomes about technology that a lot of times you know it becomes tiresome you know where you know it's sort of like okay so let's forget about the fact that a computer was involved with this like let's talk about the image you know or how it came about or what's the story behind this picture you know what I mean like um because I think sometimes you know uh the work isn't about technology necessarily you know it technology is a sort of conduit you know for for the ideas but but in the end you know is that what the work is about or is it happened
+## Victor Acevedo [25:51](https://www.youtube.com/watch?v=ywYWdI922tI&t=1551s)
 
-## Unattributed [31:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=1897s)
+Yes, exactly. Exactly. So that, that was cool. And I found, you know, being a painter in the analog realm, when the graphical user interface came in and like the paint systems, like Lumina and true color paint, that's, was great to see that coming in. But I was also first at some point, maybe it's the influence of my father and engineering. And I liked 3D and I saw 3D samples of 3D. And I was like, oh my gosh, look at these samples from NYIT at Youngbloods class. So I go and I was also interested in geometry and form in Polyhedra. So I the Cubicomp got got my notice. I really focused on the Cubicomp which you probably remember from the middle 1980s. He was one of the first maybe I never got my hands on it.
 
-To have been made with technology-based tools because that's what's available to us you know what I mean absolutely yeah I totally agree with that that's important uh to bring into the conversation uh and really yeah the audience of of uh the non-geek audience is that they're responding to the other stuff and uh they're not may not be privy to exactly how it was done but if they get meaning from it totally that's the important thing and that connection you know where I think that like a lot of times and that was another sort of aspect of the work that I think is important to me is that you know I think that's the important thing is that you know I think that's the important thing um but I think that's the important thing um but I think that's the important thing um but I think that's the important thing um like for me what inspired me to get going on this project and when was seeing that other people connected with this idea of tax expressionism in the sense that um you know the conversation could be about something other than the computer or digit digitality you know what I mean it could be about oh this piece is about some traumatic experience that I had when I was a kid or this piece you know what I mean like it's it makes it uh you know you remove that component of the conversation and then a lot of times it's a much more interesting conversation because it's about you know the humanity of it you know yes yes absolutely yeah so I guess should I go ahead and share screen and yeah absolutely flesh this out with some images sure okay cool I have sort of like a okay sort of like a slideshow here that I'm just uh some ping files and uh as I've mentioned before you know I'm getting ready to I'm just sort of in the finishing stages of uh a book project that I've been working on for three to four years and we call ossevato in context which is a career survey from 77 to 2020 and it starts with my early influences and the development of my work goes through the development of my work from analog into digital across that time span so in that these I've uh pulled some pages from the book uh that will be coming out as part of this presentation and uh so this is the first thing I'd like to share uh is uh in 77 as I mentioned my first trip to europe was in 75 and that was really a game changer for me but then the next trip was 77 and it was like a car trip through spain we're kind of uh revisiting the uh pathways of the ossevato roots in spain and uh we went to the alhambra and I was interested well the alhambra is known you know in you know it's very famous for a lot of reasons uh and but one of my avenue into understanding the alhambra was reading about mc escher's influence I mean uh his interest in the alhambra in spain which is in granada
+## Colin Goldberg [26:42](https://www.youtube.com/watch?v=ywYWdI922tI&t=1602s)
 
-## Unattributed [34:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=2087s)
+I was using a Commodore at that time. But probably the Cubicomp was, you know, much more sophisticated.
 
-Uh those of you are not familiar encourage you to to google it but it's world famous really um anyway so at the alhambra uh I had this experience with it was another epiphany uh they had these portals where you're overlooking the city and that's what this photograph is here on the left that's my brother by the way david ossevato sadly he's passed away in 1986 but he's three years older than me thanks um so anyway yeah so we were there together and with the family and looking out over this portal the patterns you know the one of the things about the alhambra it's like this encyclopedic uh collection of you know of all this symmetry patterns all kinds of different fascinating patterns and you could see how mc escher would be interested in that so he did sketches he went there with his wife and he would do sketches and you can if you read his books you'll you'll hear about this and see they reproduce some of his sketches that he did with his wife but he added recognizable forms like birds and fish but the underlying symmetry patterns are the same and this this moment for me uh there was glass like in front of the portal so I guess so small children wouldn't fall out because those you see those crossbars they were pretty wide you know so a small child could crawl and fall down so they had this safety glass in front of it but what it did is it reflected the uh the symmetric pattern over the the image of the city below you can see the buildings and it this image doesn't really give it uh justice but it was so vivid and so clear this superimposition of periodic space division pattern over recognizable objects and things was kind of in one in many ways one of my prime metaphors for my work you'll see an overlay of pattern on figuration this was the the the birth of that uh sort of uh birth of that metaphor for me that graphical metaphor so that's I wanted to start with that and so and I was just very new you know as I was saying I started uh my first college level painting and drawing class in 77 uh maybe earlier that spring this was in july so the next thing that happened just a few days after this uh just by chance I'm we were in salvador dali's hometown in caddequez no I'm sorry in figueres this is hometown but he at the time he lived in caddequez and uh we ran into dali you know I met him I shook his hand and I said I'm going to show you this this is an artist I'm going to show you this this is an artist You know, I was just like tripped out like that was like for me was like, you know, dropping acid, you know, in a good way.
+## Victor Acevedo [26:51](https://www.youtube.com/watch?v=ywYWdI922tI&t=1611s)
 
-## Unattributed [37:55](https://www.youtube.com/watch?v=ywYWdI922tI&t=2275s)
+Yeah. I mean, it was a professional tool. Like production houses video production houses would buy a cuba company you know it would be very expensive now or not very you know compared to what the power now but at the time it was a major investment it would be like paint
+
+## Colin Goldberg [27:04](https://www.youtube.com/watch?v=ywYWdI922tI&t=1624s)
+
+Box or those sort of systems similar to those things network studios would use to create the graphics or whatever is
+
+## Victor Acevedo [27:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1631s)
+
+That
+
+## Colin Goldberg [27:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1631s)
+
+Kind of like along the lines of what the the usage would be for or what would what would they be used for commercially uh
+
+## Victor Acevedo [27:18](https://www.youtube.com/watch?v=ywYWdI922tI&t=1638s)
+
+Yeah you know like flying logos uh
+
+## Colin Goldberg [27:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1641s)
+
+Would
+
+## Victor Acevedo [27:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1641s)
+
+Be a big thing so they were kind of the uh sort of a little bit more um sort of refined kind of graphical like a lot of those early like 70s uh electronic things paint box things that they were like 2d or two and a half d the ado I seem to remember so there was a period there and that was big in the 70s uh but this was the beginning of like uh 3d computer graphics but on a but on a uh on a desktop uh so that became accessible I couldn't afford to buy one myself but I would uh you know go after hours uh to a production facility where they wanted people to they were open to people learning after hours you know to get like that and uh so I got my feet wet with that and I I you know I tried to gradually uh sort of revisit the kind of imagery and themes that I was working in in analog media but I knew the tool set was 3d but I like the interface of uh like yourself you know the hybrid of different kinds of modalities of graphics and color field combined in one image you know vector graphics raster graphics you know that's that whole spectrum of language you're not just in one little part of it it's so vast that you can find your point of view and you can find your point of view in a very personal voice amongst this wide you know range of tools and techniques totally and that was the beginning of it for me like to find you know the primitive early stages compared to now like how to find what's your tool set you know kind
+
+## Colin Goldberg [29:05](https://www.youtube.com/watch?v=ywYWdI922tI&t=1745s)
+
+Of gravitating well do you want to bring some images up on the screen and kind of like walk us through
+
+## Victor Acevedo [29:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1751s)
+
+I
+
+## Colin Goldberg [29:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=1751s)
+
+Mean I know we had a question about process but I think that might even be best explained through you know illustrated through looking at some images and talking through you know and also honestly what I've found through the course of this project you know in terms of Techspressionism in general is I'm always more interested to hear about the the content versus the shop talk of how it was made
+
+## Victor Acevedo [29:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=1777s)
+
+You
+
+## Colin Goldberg [29:37](https://www.youtube.com/watch?v=ywYWdI922tI&t=1777s)
+
+Know I mean you know that's I think of interest from sort of like a geek standpoint yeah but you know as as a human being and like an artist to me like to really learn about what the work is about and I know that that for me at least is much more difficult to even know what what the truth is you know I especially with abstract work I don't really necessarily know where what it's about or where you know where it comes from it's it's abstract you know but it comes from somewhere you know but I think that um that would be the other half of that question is the process but also you know what is the work about and and that's something that that you know I think that's a really good question and I think that's a really good question I think is is actually the story you know it's it's at
+
+## Victor Acevedo [30:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1821s)
+
+Least as
+
+## Colin Goldberg [30:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=1821s)
+
+Interesting you know and especially to the lay person who you know isn't
+
+## Victor Acevedo [30:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=1826s)
+
+Going to
+
+## Colin Goldberg [30:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=1827s)
+
+Appreciate all the intricacies of you know vector versus raster or all those sorts of things it's like wow what what is that you know yeah
+
+## Victor Acevedo [30:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=1835s)
+
+Yeah I could see that I totally agree ultimately it's the ideas the concept the feeling the content that that gets across and will make a work you know be relevant across decades into
+
+## Colin Goldberg [30:50](https://www.youtube.com/watch?v=ywYWdI922tI&t=1850s)
+
+The future you know resonate with meaning and I think with technology-based work I think so much of the conversation becomes about technology that a lot of times you know it becomes tiresome you know where you know it's sort of like okay so let's forget about the fact that a computer was involved with this like let's talk about the image you know or how it came about or what's the story behind this picture you know what I mean like um because I think sometimes you know uh the work isn't about technology necessarily you know it technology is a sort of conduit you know for for the ideas but but in the end you know is that what the work is about or is it happened to have been made with technology-based tools because that's what's available to us you know what I mean absolutely
+
+## Victor Acevedo [31:44](https://www.youtube.com/watch?v=ywYWdI922tI&t=1904s)
+
+Yeah I totally agree with that that's important uh to bring into the conversation uh and really yeah the audience of of uh the non-geek audience is that they're responding to the other stuff and uh they're not may not be privy to exactly how it was done but if they get meaning from it totally
+
+## Colin Goldberg [32:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=1929s)
+
+That's the important thing and that connection you know where I think that like a lot of times and that was another sort of aspect of the work that I think is important to me is that you know I think that's the important thing is that you know I think that's the important thing um but I think that's the important thing um but I think that's the important thing um but I think that's the important thing um like for me what inspired me to get going on this project and when was seeing that other people connected with this idea of tax expressionism in the sense that um you know the conversation could be about something other than the computer or digit digitality you know what I mean it could be about oh this piece is about some traumatic experience that I had when I was a kid or this piece you know what I mean like it's it makes it uh you know you remove that component of the conversation and then a lot of times it's a much more interesting conversation because it's about you know the humanity of it you know yes yes absolutely yeah
+
+## Victor Acevedo [32:59](https://www.youtube.com/watch?v=ywYWdI922tI&t=1979s)
+
+So I guess should I go ahead and share screen and yeah absolutely flesh this out with some images sure okay cool I have sort of like a okay sort of like a slideshow here that I'm just uh some ping files and uh as I've mentioned before you know I'm getting ready to I'm just sort of in the finishing stages of uh a book project that I've been working on for three to four years and we call ossevato in context which is a career survey from 77 to 2020 and it starts with my early influences and the development of my work goes through the development of my work from analog into digital across that time span so in that these I've uh pulled some pages from the book uh that will be coming out as part of this presentation and uh so this is the first thing I'd like to share uh is uh in 77 as I mentioned my first trip to europe was in 75 and that was really a game changer for me but then the next trip was 77 and it was like a car trip through spain we're kind of uh revisiting the uh pathways of the ossevato roots in spain and uh we went to the alhambra and I was interested well the alhambra is known you know in you know it's very famous for a lot of reasons uh and but one of my avenue into understanding the alhambra was reading about mc escher's influence I mean uh his interest in the alhambra in spain which is in granada uh those of you are not familiar encourage you to to google it but it's world famous really um anyway so at the alhambra uh I had this experience with it was another epiphany uh they had these portals where you're overlooking the city and that's what this photograph is here on the left that's my brother by the way david ossevato sadly he's passed away in 1986 but he's three years older than me thanks um so anyway yeah so we were there together and with the family and looking out over this portal the patterns you know the one of the things about the alhambra it's like this encyclopedic uh collection of you know of all this symmetry patterns all kinds of different fascinating patterns and you could see how mc escher would be interested in that so he did sketches he went there with his wife and he would do sketches and you can if you read his books you'll you'll hear about this and see they reproduce some of his sketches that he did with his wife but he added recognizable forms like birds and fish but the underlying symmetry patterns are the same and this this moment for me uh there was glass like in front of the portal so I guess so small children wouldn't fall out because those you see those crossbars they were pretty wide you know so a small child could crawl and fall down so they had this safety glass in front of it but what it did is it reflected the uh the symmetric pattern over the the image of the city below you can see the buildings and it this image doesn't really give it uh justice but it was so vivid and so clear this superimposition of periodic space division pattern over recognizable objects and things was kind of in one in many ways one of my prime metaphors for my work you'll see an overlay of pattern on figuration this was the the the birth of that uh sort of uh birth of that metaphor for me that graphical metaphor so that's I wanted to start with that and so and I was just very new you know as I was saying I started uh my first college level painting and drawing class in 77 uh maybe earlier that spring this was in july so the next thing that happened just a few days after this uh just by chance I'm we were in salvador dali's hometown in caddequez no I'm sorry in figueres this is hometown but he at the time he lived in caddequez and uh we ran into dali you know I met him I shook his hand and I said I'm going to show you this this is an artist I'm going to show you this this is an artist You know, I was just like tripped out like that was like for me was like, you know, dropping acid, you know, in a good way.
 
 It was like fantastic. Couldn't believe it. You know, I didn't expect to see him. I didn't say much to him because I didn't really know much about him other than his work. I thought his work was amazing. And, but that was, you know, you can imagine a year into your college studies, you know, you meet one of your idols. Wow. So that, that was like, that just spurred me on that was a galvanizing experience and just affirmation Yes, I am now on the right path.
 
@@ -145,27 +373,61 @@ And, and it was a, it was a woodcut, you know, his images, the craftsmanship on 
 
 That technique of zoom orific tessellation, and then so my early student work was exploring that. And this is. A piece called fourfold rotational loss. And, you know, it's Escher esque. Because I allowed one of the things I did is allowed the interstitial shapes to remain in these you morphic patterns.
 
-I did. I released the parameter having to toggle between, you know, foreground and background.
+I did. I released the parameter having to toggle between, you know, foreground and background. But this had, you know, abstract form in it. And this was a piece that sort of a combination of various. Schools or 20th century art. You know, allegorical surrealism. You know the periodic see of MC Escher and then the this kind of hard edge minimalist it's soft because it's graph point graphite but it was after the those kinds of works you can see you know Joseph bears this square here if you could see my cursor. Yes. And those kinds of things.
 
-## Unattributed [40:56](https://www.youtube.com/watch?v=ywYWdI922tI&t=2456s)
+All painters that worked with large polygonal form and they were working with color fields. So that worked very well as a kind of creating an environment for the subdivisions that then became zoomorphic. You know, the interlock, the underlying form of this wasp pattern is a square.
 
-But this had, you know, abstract form in it. And this was a piece that sort of a combination of various. Schools or 20th century art. You know, allegorical surrealism. You know the periodic see of MC Escher and then the this kind of hard edge minimalist it's soft because it's graph point graphite but it was after the those kinds of works you can see you know Joseph bears this square here if you could see my cursor. Yes. And those kinds of things.
+## Colin Goldberg [41:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=2507s)
 
-All painters that worked with large polygonal form and they were working with color fields. So that worked very well as a kind of creating an environment for the subdivisions that then became zoomorphic. You know, the interlock, the underlying form of this wasp pattern is a square. Right. So that fits in perfectly with the minimalist square and, you know, the Joseph Albert subdivisions, that kind of thing. And then, of course, the heavy Dali influence was there.
+Right.
 
-It's interesting to see that all of your different influences sort of converging in this piece, you know, to see just the patterning from Escher and sort of surrealist, like, you know, elements kind of integrated. And could you explain what zoomorphic, the idea behind like what a zoomorphic pattern or what that means? Yeah, it's like simply an abstract. It's an animal form, you know, like a zoological form is basically what it is. Sort of like abstracted in to turn into like a pattern or a repeating sort of tiled form or something like that. Yeah, there's two aspects like the zoomorphic is the animal form. But yeah, it's it's applied or implemented in this period periodic symmetry pattern.
+## Victor Acevedo [41:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=2508s)
 
-Like these are. They have a fourfold rotational symmetry. You know, it goes around like that. You can see it. And then they also interlock here. There's a two to two D. I'm sorry, a twofold symmetry here. See if I can zoom in more. So yeah, there's all these symmetry patterns that Escher, he made zoomorphic patterns for all there's 17 planar symmetries that exist is a finite number.
+So that fits in perfectly with the minimalist square and, you know, the Joseph Albert subdivisions, that kind of thing. And then, of course, the heavy Dali influence was there.
 
-And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about.
+## Colin Goldberg [42:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=2520s)
 
-And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about.
+It's interesting to see that all of your different influences sort of converging in this piece, you know, to see just the patterning from Escher and sort of surrealist, like, you know, elements kind of integrated. And could you explain what zoomorphic, the idea behind like what a zoomorphic pattern or what that means?
 
-## Unattributed [43:56](https://www.youtube.com/watch?v=ywYWdI922tI&t=2636s)
+## Victor Acevedo [42:25](https://www.youtube.com/watch?v=ywYWdI922tI&t=2545s)
 
-And that's what it's about. Work so um and zoomorphic yeah go ahead and just quickly like um could you sort of explain briefly what tessellation means yeah tessellation is is another sort of generalized term it comes from like I think the latin term of tessera for tile so it's like this tiling you know you could think of a checkerboard um like floor tiles okay uh so that's where that comes like uh tessellation is just the general name for tiled patterns I see yeah there could be squares it can be hexagons and not all there's this concept of all space filling tiling and not all polygons can do it you know you have squares uh you have triangles but those quickly become hexagons uh I think those are the main ones yeah yeah uh so I can just go to the next slide uh so and the reason I'm sort of hovering on uh this analog media work is these concepts informed everything I did later in digital and because it was mathematical because it the symmetry operations you know these are things that came easy they were all made up of things that came easy and I think that's what I'm trying to do here they were natural to the language of computer graphics because it was built on mathematics and geometry either 2d or 3d uh so that kind of like presupposed me to like realize yeah if I'm interested in this and this new tool set has appeared on the horizon this is the future you know of of doing this style of work and exploring these ideas art and geometry is with this tool set because it can do way more than uh with analog media and I think that's the key to it and I think that's the key to it and I think that's the key to it and I think that's the key to it and I think at least from my vantage point so these are studies and I and I kind of emulated escher's workflow you know he would make the patterns independent of any particular picture he would develop the patterns first and then he would insert them into a composition that might be more figurative or narrative in nature though for those of you who are very familiar with his work uh even though later his patterns in and of themselves were published in a book uh so but I would do that first is develop the patterns and I didn't do a lot of them because I kind of you'll see that I moved through this period uh but what I what what I enjoy looking at I'm zooming in here this one on the left you can see these calligraphic marks so you could see this was this I was doing this in the the time of neo-expressionism so the calligraphic mark expressive mark was coming back into fashion if you will and I think that's a really good example of that it's in the 19th century in the 19th century in the 19th century in the 19th century he did have, not to say he didn't have some expressive mark making.
+Yeah, it's like simply an abstract. It's an animal form, you know, like a zoological form is basically what it is.
 
-## Unattributed [47:24](https://www.youtube.com/watch?v=ywYWdI922tI&t=2844s)
+## Colin Goldberg [42:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=2555s)
+
+Sort of like abstracted in to turn into like a pattern or a repeating sort of tiled form or something like that.
+
+## Victor Acevedo [42:43](https://www.youtube.com/watch?v=ywYWdI922tI&t=2563s)
+
+Yeah, there's two aspects like the zoomorphic is the animal form. But yeah, it's it's applied or implemented in this period periodic symmetry pattern. Like these are. They have a fourfold rotational symmetry. You know, it goes around like that. You can see it. And then they also interlock here. There's a two to two D. I'm sorry, a twofold symmetry here.
+
+See if I can zoom in more. So yeah, there's all these symmetry patterns that Escher, he made zoomorphic patterns for all there's 17 planar symmetries that exist is a finite number. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about.
+
+And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. And that's what it's about. Work so um and
+
+## Colin Goldberg [44:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=2640s)
+
+Zoomorphic yeah go ahead and just quickly like um could you sort of explain briefly what tessellation means yeah
+
+## Victor Acevedo [44:08](https://www.youtube.com/watch?v=ywYWdI922tI&t=2648s)
+
+Tessellation is is another sort of generalized term it comes from like I think the latin term of tessera for tile so it's like this tiling you know you could think of a checkerboard um like floor tiles okay uh so that's where that comes like uh tessellation is just the general name for tiled patterns I
+
+## Colin Goldberg [44:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=2671s)
+
+See
+
+## Victor Acevedo [44:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=2671s)
+
+Yeah there could be squares it can be hexagons and not all there's this concept of all space filling tiling and not all polygons can do it you know you have squares uh you have triangles but those quickly become hexagons uh I think those are the main ones yeah yeah uh so I can just go to the next slide uh so and the reason I'm sort of hovering on uh this analog media work is these concepts informed everything I did later in digital and because it was mathematical because it the symmetry operations you know these are things that came easy they were all made up of things that came easy and I think that's what I'm trying to do here they were natural to the language of computer graphics because
+
+## Colin Goldberg [45:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=2721s)
+
+It
+
+## Victor Acevedo [45:21](https://www.youtube.com/watch?v=ywYWdI922tI&t=2721s)
+
+Was built on mathematics and geometry either 2d or 3d uh so that kind of like presupposed me to like realize yeah if I'm interested in this and this new tool set has appeared on the horizon this is the future you know of of doing this style of work and exploring these ideas art and geometry is with this tool set because it can do way more than uh with analog media and I think that's the key to it and I think that's the key to it and I think that's the key to it and I think that's the key to it and I think at least from my vantage point so these are studies and I and I kind of emulated escher's workflow you know he would make the patterns independent of any particular picture he would develop the patterns first and then he would insert them into a composition that might be more figurative or narrative in nature though for those of you who are very familiar with his work uh even though later his patterns in and of themselves were published in a book uh so but I would do that first is develop the patterns and I didn't do a lot of them because I kind of you'll see that I moved through this period uh but what I what what I enjoy looking at I'm zooming in here this one on the left you can see these calligraphic marks so you could see this was this I was doing this in the the time of neo-expressionism so the calligraphic mark expressive mark was coming back into fashion if you will and I think that's a really good example of that it's in the 19th century in the 19th century in the 19th century in the 19th century he did have, not to say he didn't have some expressive mark making.
 
 He did in some of his early prints that had to do with landscapes. You look at some of his marks, they're amazingly expressive, but they're done in a very systematized way to create modeling, you know, shadow, light, and mid-tone, that kind of thing. But anyway, that's there. You know, you can see it's easy to talk about, spend too much time on any one of these. But I had this other transition then as flipping from polygons to polyhedra. You know, there's all-space filling polyhedra, which are the tessellations, but there's also all-space filling, I'm sorry, I think I said that wrong. There's all-space filling polygons, which are 2D, and there's also all-space filling polyhedra, which are 3D. And these are not exactly all-space filling, but these do show you how clusters of particular polyhedra can be grouped together in a periodic domain in this situation.
 
@@ -175,129 +437,227 @@ You know, I was fascinated by that, and that was the logical next step in my int
 
 And there's various ones. I forget the name of this one, but it has a cube because to fill all space, when you study that field of all-space-filling polyhedra, you'll see that there's different combinations of polyhedra. And so you can see that there's different combinations of them. You can combine cubes with other kinds of forms, and together they fill all space. But if you just, if you didn't have the cubes, you'd have gaps there, for example, and that's what this is using. And this is the 2D zoomorphics, but abstracted, juxtaposed against the polyhedra. So that what I just showed you was an image from about 82.
 
-And so I was a fine art major at Art Center. I was studying painting and drawing. And I was doing analog media. And I've told this story before, but I just want to touch on it briefly. The next giant or big massive epiphany was seeing Ed Emshuler's Sunstone that Gene Youngblood showed in class.
-
-## Unattributed [50:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=3027s)
-
-And this was, I encourage anyone to Google Sunstone inside of YouTube, and they have a couple of versions of it. It's the same version, but a couple of different uploads of this animation. It's only, I don't know, maybe two or three minutes. But it's, seeing that it was created in 79, seeing it in 1980 and 81 was just life changing.
+And so I was a fine art major at Art Center. I was studying painting and drawing. And I was doing analog media. And I've told this story before, but I just want to touch on it briefly. The next giant or big massive epiphany was seeing Ed Emshuler's Sunstone that Gene Youngblood showed in class. And this was, I encourage anyone to Google Sunstone inside of YouTube, and they have a couple of versions of it. It's the same version, but a couple of different uploads of this animation. It's only, I don't know, maybe two or three minutes. But it's, seeing that it was created in 79, seeing it in 1980 and 81 was just life changing.
 
 You know, it was like motion painting, but it was conveyed via video. You know, I never had seen anything like it, this computer graphics. And interestingly enough, this is similar to those, that kind of paint box and ADO kind of imagery. Like you have these planes. Imagery happening on polygonal just squares that are suggesting this cube. But they're all animated. These faces are animated when you see it. You know, it's simple animation, but it's all in motion. I think this cube rotates and it goes into some live action at the tail end. It's a fast, there's so much in this piece. It's like amazing.
 
 So anyway, so that was, that was the last piece. So let's move on to the next one. So this is an animation from 1980, 81. And I talked earlier about getting early access in 83, 84. And then I got access to the Cuba comp and paint systems like true color paint so an early. One of my earliest images was this just it's a freehand Lumina paint or true color paint image done on a target board this is the same image zoomed out. That's a close up and then that's it does have a figure. But I think the most interesting part of it is here. You know, I was just realizing, you know, in referencing what we're talking about is, even though these are analog media I'm still talking about the technology of it, you know that the mathematical thing you know, I guess that's for me that's what's exciting about it certainly has a feeling.
 
-It means something, you know, because I'm using the language of abstraction. It's. It's an expressionism, as it was conveyed graphically through Pollock, and some of the, you know, the gesture apps. What year were these images from. This was from 85. Gotcha. So it has a, you know, and for me it was just like a study. So I didn't get behind this as a body of work, but it was just finding my way I'm still learning the tool set.
+It means something, you know, because I'm using the language of abstraction. It's. It's an expressionism, as it was conveyed graphically through Pollock, and some of the, you know, the gesture apps.
 
-So. So, later I also started getting into but Mr Fuller and studying his books synergetics one and two. And I, anybody interested in geometry I highly recommend looking at these books. And I used to. Before I bought. This is in synergetics volume two. This is a color plate in the back of it. And, this was a revelatory image for me.
+## Colin Goldberg [52:44](https://www.youtube.com/watch?v=ywYWdI922tI&t=3164s)
 
-## Unattributed [53:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=3215s)
+What year were these images from.
 
-Have this polyhedral form nested in this matrix of. It's really made up of tetrahedra and octahedra, but it's like this spatial net. So it's, it's a all space filling polyhedra, but indicated through only it's their edges. And openings. So that was kind of a metaphor. Another thing I was interested in was, I had been reading about the Tao of physics by Fritz off copper, and he talked about the void platinum and the void matrix. So, it was sort of like this field of reality. The substrate of reality if you will, from which all form emerge from and all form, you know receded back into. So I was thinking as a metaphor for this field could be an all a matrix of all space filling polyhedra in in vector realized in a vector drawing. And this is an analog media drawing.
+## Victor Acevedo [52:46](https://www.youtube.com/watch?v=ywYWdI922tI&t=3166s)
+
+This was from 85. Gotcha. So it has a, you know, and for me it was just like a study. So I didn't get behind this as a body of work, but it was just finding my way I'm still learning the tool set. So. So, later I also started getting into but Mr Fuller and studying his books synergetics one and two. And I, anybody interested in geometry I highly recommend looking at these books. And I used to. Before I bought. This is in synergetics volume two. This is a color plate in the back of it.
+
+## Colin Goldberg [53:27](https://www.youtube.com/watch?v=ywYWdI922tI&t=3207s)
+
+And,
+
+## Victor Acevedo [53:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=3210s)
+
+This was a revelatory image for me. Have this polyhedral form nested in this matrix of. It's really made up of tetrahedra and octahedra, but it's like this spatial net. So it's, it's a all space filling polyhedra, but indicated through only it's their edges. And openings. So that was kind of a metaphor. Another thing I was interested in was, I had been reading about the Tao of physics by Fritz off copper, and he talked about the void platinum and the void matrix. So, it was sort of like this field of reality. The substrate of reality if you will, from which all form emerge from and all form, you know receded back into. So I was thinking as a metaphor for this field could be an all a matrix of all space filling polyhedra in in vector realized in a vector drawing. And this is an analog media drawing.
 
 But this played right into what computer graphics could do could build polyhedra can do vectors, etc. So, this is an 83 84. I built my own model. The two here on the right of this. IVM or ice isotropic vector matrix is fuller would call it. And this a friend of mine Russell true. He built this out of toothpicks which is an amazing structure.
 
 Well, so, I would use. I used his image in his photograph of his model in an image. And then I also used a photograph of my this model here top right you could see it here. This is a pencil drawing. This is from 83. So, you know, I'm on parallel tracks at this point in my career, you know I'm beginning to study primitive, you know, part of my terminology, you know simple early computer graphics that I had access to. And, and then doing these drawings, I was on these two tracks. And, and then doing these drawings, I was on these two tracks. So this one I wanted to close the gap and be able to do something of this complexity in computer graphics I knew that eventually I would be able to.
 
-If not literally just certain you'll see it's a certain reminiscent of this kind of idea, but you could see that you know how that building that model photographing it projecting it on this paper tracing it and combining it interfacing it with figuration and And there's that vision from the Alhambra, the overlay of periodic space division overlaid on people and things. Right. So that's that metaphor that comes back. And then it's echoed.
+If not literally just certain you'll see it's a certain reminiscent of this kind of idea, but you could see that you know how that building that model photographing it projecting it on this paper tracing it and combining it interfacing it with figuration and And there's that vision from the Alhambra, the overlay of periodic space division overlaid on people and things. Right. So that's that metaphor that comes back. And then it's echoed. This is from 1983. So go ahead, 11 years.
 
-## Unattributed [56:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=3395s)
-
-This is from 1983. So go ahead, 11 years. And here's from 1994, a digital piece combining photography and computer generated models done with a soft image. Here's that overlay. It's not, you can see this is called suit on the phone. So this echoes. This is another piece. It actually has that wooden styrofoam and wooden dowel model, but kind of tweaked out with some with a filter, distortion filter. And then it's hard to see here. I'll zoom in a little. Is a completely synthetic geometrical structure that's kind of like interfaced. Right. With these. So I like the idea of bridging these various realms because that that played into this, this notion of the metaphysical.
+And here's from 1994, a digital piece combining photography and computer generated models done with a soft image. Here's that overlay. It's not, you can see this is called suit on the phone. So this echoes. This is another piece. It actually has that wooden styrofoam and wooden dowel model, but kind of tweaked out with some with a filter, distortion filter. And then it's hard to see here. I'll zoom in a little. Is a completely synthetic geometrical structure that's kind of like interfaced. Right. With these. So I like the idea of bridging these various realms because that that played into this, this notion of the metaphysical.
 
 You know, the void plenum and other things. I was also in the late 70s reading Carlos Castaneda books. So I had this notion of non-ordinary reality and the notion that you could actually see it. If you were in a particular frame of mind in a particular. Vibration. You could actually see the world as it really is, or at least another version of it. And these pictures in a sense. For me, are illustrations of that.
 
-Kind of seeing. Seeing the scene of everyday life as we normally see it, but also seeing the invisible energetic ocean. That were. That our human drama is happening within. So that's kind of the. That's the metaphor that comes here and there. Okay. I'll pause a moment because if you wanted to. Ask a question or should I just carry on or. No, that's, it's really interesting. It's sort of like the. You know, macro and micro review or, you know, looking into the. The invisible structure of things it's like, you know, and it's, it's also kind of cool to see that. You know, you can see. How your ideas cross between traditional and digital media. In terms of. Pencil drawings and computer graphics. And I can very much relate to that.
+Kind of seeing. Seeing the scene of everyday life as we normally see it, but also seeing the invisible energetic ocean. That were. That our human drama is happening within. So that's kind of the. That's the metaphor that comes here and there. Okay. I'll pause a moment because if you wanted to. Ask a question or should I just carry on or.
 
-You know, that, that sort of. Idea in terms of, you know, I feel like. Using a different part of your brain when you're rendering something by hand with a pencil. You know, and sort of like wire. One part of your mind is sort of. Occupied doing that activity. You know, you're. It almost forces the rest of your, your brain or your mind to be. You know, doing something else, you know what I mean? So it's, it's interesting and it's interesting to see how the ideas translate between.
+## Colin Goldberg [58:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=3514s)
 
-## Unattributed [59:35](https://www.youtube.com/watch?v=ywYWdI922tI&t=3575s)
+No, that's, it's really interesting. It's sort of like the. You know, macro and micro review or, you know, looking into the. The invisible structure of things it's like, you know, and it's, it's also kind of cool to see that. You know, you can see. How your ideas cross between traditional and digital media. In terms of. Pencil drawings and computer graphics. And I can very much relate to that.
 
-The different types of media that you use, you know? Okay. So, yeah, so here's that metaphor again. These are, and I wanted to show it differently. So you can see the different images than what I showed in my. You know, share during the salon. What you can see, but I wanted to kind of highlight. As you, as you.
+You know, that, that sort of. Idea in terms of, you know, I feel like. Using a different part of your brain when you're rendering something by hand with a pencil. You know, and sort of like wire. One part of your mind is sort of. Occupied doing that activity. You know, you're. It almost forces the rest of your, your brain or your mind to be. You know, doing something else, you know what I mean? So it's, it's interesting and it's interesting to see how the ideas translate between. The different types of media that you use, you know?
 
-We're seeing is that relationship between analog and digital media and the ideas, how they transfer and how they kind of. Come up. What's the general timeframe for these ones. This is also 94. Okay. Yeah. And so I was getting kind of looser with it, you know, like, here's the first stage of it and I'm using the same geometry that I was using here, but I apply it in a different scene. And this is a scene of everyday life. And it, and, but, you know, in the happening within the energetic ocean. Right. I mean, I think that the juxtaposition of the photographic imagery and the renders is, is really kind of unique and it makes your work speak. In a different way. That. You know, it questions.
+## Victor Acevedo [59:43](https://www.youtube.com/watch?v=ywYWdI922tI&t=3583s)
 
-What is, what is digital art or what is computer art? I remember, you know, like when I was going to grad school, it was still called computer art. They'd yet to start calling it digital art, you know? But like, you know, then you see. Well, there's a table with a guy and beer bottles and stuff. So, you know, like. It sort of.
+Okay. So, yeah, so here's that metaphor again. These are, and I wanted to show it differently. So you can see the different images than what I showed in my. You know, share during the salon. What you can see, but I wanted to kind of highlight. As you, as you. We're seeing is that relationship between analog and digital media and the ideas, how they transfer and how they kind of. Come up.
 
-Shocks you into. A little bit. You know, like, oh, there's, there's reality there, you know? And it's, it, I think that's one of the things about your work that I think is really interesting is that kind of interplay, you know, between the rendered forms and photographic content like that. And what, what is it that makes you that like, you know, What, what drove the sort of selection of the, of the photographic imagery? Or is there a sort of story behind like why you chose the images you chose for that component of the work? Yeah, that's a good question. You know, a lot of my work is, is a lot biographical in a way. So this is actually a photograph of my brother, David, who you saw.
+## Colin Goldberg [01:00:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=3609s)
 
-In that picture from 1977 in Spain. And. This is from 83 and he, you know, and I met, but. The photograph. I'm 83, but the images in 94. So he had passed away in the intervening years in 86, just three years after this time. So it was kind of a, you know, a tribute to him and also this feeling of. For, for those who've lost a loved one, you know, that how. They're always with you. And, and that uncanny experience of, you know, they're on the other side.
+What's the general timeframe for these ones.
 
-## Unattributed [01:02:38](https://www.youtube.com/watch?v=ywYWdI922tI&t=3758s)
+## Victor Acevedo [01:00:12](https://www.youtube.com/watch?v=ywYWdI922tI&t=3612s)
 
-They're someone else somewhere else. And you had this connection to them, but they're in now they're in, you know, in the eternal energy ocean. Somewhere their spirit. Is. Can be localized through resonance. Through synchronicities and such. They're always. So it's, it's kind of, you know, it's a tribute to him. Sort of being in this other realm, but, and, but it's, and that other realm is a, you know, a gradient into a memory that was concrete in the real world.
+This is also 94. Okay. Yeah. And so I was getting kind of looser with it, you know, like, here's the first stage of it and I'm using the same geometry that I was using here, but I apply it in a different scene. And this is a scene of everyday life. And it, and, but, you know, in the happening within the energetic ocean.
 
-So that's, that's a story behind this one. And he, you know, my brother's sub comes up a few times along the way. And then other people that I know. You know, this has a particular. Relationship to living and not living. But the metaphor. Can be used for people that are still very much alive there, you know, we're all in the energy ocean, whether we're here or not here. Yeah. Yeah. Do you find that working with.
+## Colin Goldberg [01:00:34](https://www.youtube.com/watch?v=ywYWdI922tI&t=3634s)
 
-You know, abstract sort of geometric images like the sort of overlaid forms when you were putting these pieces together. Did it help you in terms of, you know, Maybe not even help you but like did they stimulate did create the creation of this work sort of stimulate ideas. Ideas that are you know like the ones you're talking about how you know we exist in an energy ocean or like you know when you're putting these pictures together you're also creating thoughts in your mind about the nature of physical reality and um you know things of that nature you know like in terms of using art itself as sort of like a tool for abstract thinking yeah yeah I think so and uh and in your question you kind of touched on this uh sort of phenomenon such that just about on every one of my pictures if not all of them I don't set out to to sort of illustrate a particular idea I just kind of intuitively put these things together to have a charged composition because I do think in terms of uh compositional resonance and and compositional harmony and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and It has to be there for it to work for you as an image.
+Right. I mean, I think that the juxtaposition of the photographic imagery and the renders is, is really kind of unique and it makes your work speak. In a different way. That. You know, it questions. What is, what is digital art or what is computer art? I remember, you know, like when I was going to grad school, it was still called computer art. They'd yet to start calling it digital art, you know? But like, you know, then you see. Well, there's a table with a guy and beer bottles and stuff. So, you know, like. It sort of.
 
-And then, you know, there's all the underlying ideas. Yeah, exactly. So there's that. That's kind of a long, that's sort of what's present of mind while I'm doing it.
+Shocks you into. A little bit. You know, like, oh, there's, there's reality there, you know? And it's, it, I think that's one of the things about your work that I think is really interesting is that kind of interplay, you know, between the rendered forms and photographic content like that. And what, what is it that makes you that like, you know, What, what drove the sort of selection of the, of the photographic imagery? Or is there a sort of story behind like why you chose the images you chose for that component of the work?
 
-## Unattributed [01:05:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=3939s)
+## Victor Acevedo [01:01:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=3708s)
 
-But then later, I've had this experience many times is only later I realized what the picture is about. Totally. I completely relate to that. You know, like, absolutely. You know, and sometimes it's years later, you're like, you know what? That's what was going on in my life at the time. And now I understand why I made something look the way I did or why I chose the imagery that I did. You know, that's interesting that you say that because it really reminds me of something that happened to me when I was in a critique in grad school where people were sort of getting grilled by another student. But what is this work? What is this work about? And I was like, it's about the process, you know, and she was like, that's not good enough. What is it? What is it really about? And I was sort of at a loss.
+Yeah, that's a good question. You know, a lot of my work is, is a lot biographical in a way. So this is actually a photograph of my brother, David, who you saw. In that picture from 1977 in Spain. And. This is from 83 and he, you know, and I met, but. The photograph. I'm 83, but the images in 94. So he had passed away in the intervening years in 86, just three years after this time. So it was kind of a, you know, a tribute to him and also this feeling of.
 
-Honestly, I did. I couldn't answer the question. You know, I was I was making it and I was in some sort of a zone where I was solving a visual puzzle by the composite through the compositional process. But at a deep level, I didn't really know what it was about. I wasn't preconceived, you know, in that way. And maybe that's what, you know, makes makes art different from design, you know, in a sense, you know, in some ways, you know. Yes, exactly. I'd agree. Illustration, you know. Yeah, I totally agree.
+For, for those who've lost a loved one, you know, that how. They're always with you. And, and that uncanny experience of, you know, they're on the other side. They're someone else somewhere else. And you had this connection to them, but they're in now they're in, you know, in the eternal energy ocean. Somewhere their spirit. Is. Can be localized through resonance.
 
-Yeah. So just to jump back now, a little a little kernel of chronology. So that was 94. But I want to jump back to 87. So this is early on. And. This is early on in my computer graphics. You know. Career, so to speak. So this was, you know, like four years in and you could still see the M.C. Escher influences with the zoom graphic patterns and also the Buckminster Fuller influence with the great circle overlay.
+Through synchronicities and such. They're always. So it's, it's kind of, you know, it's a tribute to him. Sort of being in this other realm, but, and, but it's, and that other realm is a, you know, a gradient into a memory that was concrete in the real world. So that's, that's a story behind this one. And he, you know, my brother's sub comes up a few times along the way. And then other people that I know.
 
-And then. I also had, you know, I always had this sort of like. Playful surrealist edge to things. So I this is my favorite image here. But I also like this, like just some kind of like crazy version of it. Same same elements, but just kind of. Done in sort of a really interesting, you know, how the treatment references references technology, you know, in the way that the images is constructed or the way that the sort of figurative components are rendered, you know. But it. It also looks very modern, you know, in the sense that.
+You know, this has a particular. Relationship to living and not living. But the metaphor. Can be used for people that are still very much alive there, you know, we're all in the energy ocean, whether we're here or not here. Yeah.
 
-I don't know this. There's something about these these pieces and then knowing the time frame they're constructed in. That makes them pretty, pretty remarkable. You know, to see.
+## Colin Goldberg [01:03:38](https://www.youtube.com/watch?v=ywYWdI922tI&t=3818s)
 
-## Unattributed [01:08:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=4119s)
+Yeah. Do you find that working with. You know, abstract sort of geometric images like the sort of overlaid forms when you were putting these pieces together. Did it help you in terms of, you know, Maybe not even help you but like did they stimulate did create the creation of this work sort of stimulate ideas. Ideas that are you know like the ones you're talking about how you know we exist in an energy ocean or like you know when you're putting these pictures together you're also creating thoughts in your mind about the nature of physical reality and um you know things of that nature you know like in terms of using art itself as sort of like a tool for abstract thinking yeah
 
-Work being done at that time. That looks like this. Really, really pretty cool. Cool. Thanks. Thanks so much. Yeah. So there's another version of it. So the idea of versioning and using the same, you know, figures, same environment in many different ways, because I was just exploring what the tool set could do. But each one of them has their own personality.
+## Victor Acevedo [01:04:28](https://www.youtube.com/watch?v=ywYWdI922tI&t=3868s)
 
-They bring out. They have a different message, even though it's the same characters. Right. And it seems like a lot of your it's it's what's what's kind of. Interesting about your work to me. Is that a lot of the. Like the scenes that are depicted are sort of like mundane every day. It seems like, you know, just kind of like a day in the life of, you know, of you, like something that's just happening, not not a big dramatic occurrence or it might be just people hanging out sitting, having a cup of coffee. Yeah. Right. In the kitchen or something like that. And that's, you know, that's I don't know. I think that's interesting. And it makes the work feel very sort of genuine. You know, and like taking a little moment, you know, and kind of expanding upon that. Yeah.
+Yeah I think so and uh and in your question you kind of touched on this uh sort of phenomenon such that just about on every one of my pictures if not all of them I don't set out to to sort of illustrate a particular idea I just kind of intuitively put these things together to have a charged composition because I do think in terms of uh compositional resonance and and compositional harmony and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
 
-Thanks so much. It's very I mean, a lot of that is conscious to to have everyday life, you know, like with Vermeer and some of Velazquez, some of his lesser known paintings were were moments in every in everyday life. So it's not. Use that often. It's more of an art historical term. But the phrase the term genre scenes, scenes from everyday life is is is a conscious component of of this figurative work. And because I feel that's what's really happening. You know, we.
+## Colin Goldberg [01:05:19](https://www.youtube.com/watch?v=ywYWdI922tI&t=3919s)
 
-What our everyday moments, everything we're doing from the smallest to the largest to just kind of the most important part of our lives. To stay alive to to elongate our passage you know through this moment of our lifespan is happening inside this energetic ocean so it's it's for me it's it makes sense to combine the two everyday life mundanity with this like other worldly you know beyond extra corporeal or beyond human scale or consciousness but maybe looking into these layers as well of whether these layers end up becoming visible their uh expressed graphically you know uh as we as we can do with graphics graphics are when I say graphics I just as a general category of uh I guess as a verb and a noun as as a kind of uh a language for for
+And and and and and and and and and and and and and and and and and and and and and It has to be there for it to work for you as an image. And then, you know, there's all the underlying ideas.
 
-## Unattributed [01:11:40](https://www.youtube.com/watch?v=ywYWdI922tI&t=4300s)
+## Victor Acevedo [01:05:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=3931s)
 
-For basically energy pathways we can use it for I use it in a literal sense on that on some level but even if you're just trying to do make something realistic there's the energetic graphical component that's being uh basically uh imprinted onto the page it could be by hand uh like that or or by machine uh this one's called uh this is another this is a good example of later finding out you know deciding what it means or what it's what am I going to call it and this is called the last supper and it's just uh I've done that a couple of times naming a piece after a famous uh art historical work but this is people around a dinner table but it's the the natural the first hit of it is all of this kind of chaotic jumble but if you look look again you'll see that the jumble is created by uh you know an orderly pattern an orderly array of these forms but just kind of jumbled together uh so how are we doing on time we um we're doing okay I think you know um you wanted to show a video um towards the end of the presentation as well right yeah I did actually yeah but I'll show uh we're I'm getting towards the end here but I just wanted to yeah uh get a a check on that on the time thing so something I'm doing now I know one of the questions was you know so what am I doing now you know how what's the development of your work what are you doing now and you know I we talked about the nft uh world so and so I've been kind of dabbling in that and one of the things I found is since I've been focusing on my book and I've been focusing on my personal history uh I haven't really had time to make the time to make the time so I've been making these uh brand new images from scratch but I've been kind of like looking back at some of my older images and kind of uh revisioning them you know and and putting them into the nft uh space uh okay sorry I got distracted here is getting a text message so towards that end so here's an image from 2006 uh figure in the void matrix uh friend of mine, Kevin O'Connor.
+Yeah, exactly. So there's that. That's kind of a long, that's sort of what's present of mind while I'm doing it. But then later, I've had this experience many times is only later I realized what the picture is about. Totally.
+
+## Colin Goldberg [01:05:48](https://www.youtube.com/watch?v=ywYWdI922tI&t=3948s)
+
+I completely relate to that. You know, like, absolutely. You know, and sometimes it's years later, you're like, you know what? That's what was going on in my life at the time. And now I understand why I made something look the way I did or why I chose the imagery that I did. You know, that's interesting that you say that because it really reminds me of something that happened to me when I was in a critique in grad school where people were sort of getting grilled by another student. But what is this work? What is this work about? And I was like, it's about the process, you know, and she was like, that's not good enough. What is it? What is it really about? And I was sort of at a loss. Honestly, I did. I couldn't answer the question. You know, I was I was making it and I was in some sort of a zone where I was solving a visual puzzle by the composite through the compositional process.
+
+But at a deep level, I didn't really know what it was about. I wasn't preconceived, you know, in that way. And maybe that's what, you know, makes makes art different from design, you know, in a sense, you know, in some ways, you know.
+
+## Victor Acevedo [01:07:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=4020s)
+
+Yes, exactly. I'd agree.
+
+## Colin Goldberg [01:07:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=4021s)
+
+Illustration, you know.
+
+## Victor Acevedo [01:07:02](https://www.youtube.com/watch?v=ywYWdI922tI&t=4022s)
+
+Yeah, I totally agree. Yeah. So just to jump back now, a little a little kernel of chronology. So that was 94. But I want to jump back to 87. So this is early on. And. This is early on in my computer graphics. You know. Career, so to speak. So this was, you know, like four years in and you could still see the M.C. Escher influences with the zoom graphic patterns and also the Buckminster Fuller influence with the great circle overlay.
+
+And then. I also had, you know, I always had this sort of like. Playful surrealist edge to things. So I this is my favorite image here. But I also like this, like just some kind of like crazy version of it. Same same elements, but just kind of.
+
+## Colin Goldberg [01:08:02](https://www.youtube.com/watch?v=ywYWdI922tI&t=4082s)
+
+Done in sort of a really interesting, you know, how the treatment references references technology, you know, in the way that the images is constructed or the way that the sort of figurative components are rendered, you know. But it. It also looks very modern, you know, in the sense that. I don't know this. There's something about these these pieces and then knowing the time frame they're constructed in.
+
+That makes them pretty, pretty remarkable. You know, to see. Work being done at that time. That looks like this. Really, really pretty cool. Cool.
+
+## Victor Acevedo [01:08:47](https://www.youtube.com/watch?v=ywYWdI922tI&t=4127s)
+
+Thanks. Thanks so much. Yeah. So there's another version of it. So the idea of versioning and using the same, you know, figures, same environment in many different ways, because I was just exploring what the tool set could do. But each one of them has their own personality. They bring out. They have a different message, even though it's the same characters.
+
+## Colin Goldberg [01:09:11](https://www.youtube.com/watch?v=ywYWdI922tI&t=4151s)
+
+Right. And it seems like a lot of your it's it's what's what's kind of. Interesting about your work to me. Is that a lot of the. Like the scenes that are depicted are sort of like mundane every day. It seems like, you know, just kind of like a day in the life of, you know, of you, like something that's just happening, not not a big dramatic occurrence or it might be just people hanging out sitting, having a cup of coffee. Yeah. Right. In the kitchen or something like that. And that's, you know, that's I don't know. I think that's interesting. And it makes the work feel very sort of genuine. You know, and like taking a little moment, you know, and kind of expanding upon that.
+
+## Victor Acevedo [01:09:57](https://www.youtube.com/watch?v=ywYWdI922tI&t=4197s)
+
+Yeah. Thanks so much. It's very I mean, a lot of that is conscious to to have everyday life, you know, like with Vermeer and some of Velazquez, some of his lesser known paintings were were moments in every in everyday life. So it's not. Use that often. It's more of an art historical term. But the phrase the term genre scenes, scenes from everyday life is is is a conscious component of of this figurative work. And because I feel that's what's really happening. You know, we.
+
+What our everyday moments, everything we're doing from the smallest to the largest to just kind of the most important part of our lives. To stay alive to to elongate our passage you know through this moment of our lifespan is happening inside this energetic ocean so it's it's for me it's it makes sense to combine the two everyday life mundanity with this like other worldly you know beyond extra corporeal or beyond human scale or consciousness but maybe looking into these layers as well of whether these layers end up becoming visible their uh expressed graphically you know uh as we as we can do with graphics graphics are when I say graphics I just as a general category of uh I guess as a verb and a noun as as a kind of uh a language for for for basically energy pathways we can use it for I use it in a literal sense on that on some level but even if you're just trying to do make something realistic there's the energetic graphical component that's being uh basically uh imprinted onto the page it could be by hand uh like that or or by machine uh this one's called uh this is another this is a good example of later finding out you know deciding what it means or what it's what am I going to call it and this is called the last supper and it's just uh I've done that a couple of times naming a piece after a famous uh art historical work but this is people around a dinner table but it's the the natural the first hit of it is all of this kind of chaotic jumble but if you look look again you'll see that the jumble is created by uh you know an orderly pattern an orderly array of these forms but just kind of jumbled together uh so how are we doing on time we
+
+## Colin Goldberg [01:12:55](https://www.youtube.com/watch?v=ywYWdI922tI&t=4375s)
+
+Um we're doing okay I think you know um you wanted to show a video um towards the end of the presentation as well right yeah
+
+## Victor Acevedo [01:13:03](https://www.youtube.com/watch?v=ywYWdI922tI&t=4383s)
+
+I did actually yeah but I'll show uh we're I'm getting towards the end here but I just wanted to yeah uh get a a check on that on the time thing so something I'm doing now I know one of the questions was you know so what am I doing now you know how what's the development of your work what are you doing now and you know I we talked about the nft uh world so and so I've been kind of dabbling in that and one of the things I found is since I've been focusing on my book and I've been focusing on my personal history uh I haven't really had time to make the time to make the time so I've been making these uh brand new images from scratch but I've been kind of like looking back at some of my older images and kind of uh revisioning them you know and and putting them into the nft uh space uh okay sorry I got distracted here is getting a text message so towards that end so here's an image from 2006 uh figure in the void matrix uh friend of mine, Kevin O'Connor.
 
 So most of these images are people that I know, our friends. So that was the original, one of the original versions. And then I revisioned it into this wider symmetry or what, yeah, it's still bilateral. Now it's bilateral symmetry. It's twofold, but I duplicate the figure. And then there's this version too, which is a more expanded panoramic version.
 
-## Unattributed [01:14:46](https://www.youtube.com/watch?v=ywYWdI922tI&t=4486s)
-
 So one of the things I found is, when I did this originally in 2006, I thought that I was happy with this. That was great. But I'm liking these new versions more. I think the meaning of the image comes across more. Originally, this was called Kevin in the field, in the structural energetic field. So there's that. And then I did that again with another piece called Escher Girl that was shown at Giovanna's show in Williamsburg that she put together just recently. I had this print, but this is the original version from, I think, 2002 and revisiting it with bilateral symmetry. And I, I just, I like this a lot more. And I added this sphere in the middle. I think the meaning of it or the power of the image is enhanced in this presentation.
 
-So that's kind of, as a transitional phase, that's something I'm doing, is kind of relooking at some older images and seeing how I might. Totally. I could relate to that too. The first, and if, the first two NFTs that I minted were really taking, you know, old digital drawings from, you know, 99 to 2004 that were vector based and then animating them and adding audio and kind of bringing them into motion.
+So that's kind of, as a transitional phase, that's something I'm doing, is kind of relooking at some older images and seeing how I might.
 
-And I think part of it was like, you know, what, what is an NFT, right? It's, it's really just a way to, you know, sort of publish work in a sense, or, you know, there's no inherent sort of real formal qualities to what constitutes an NFT. So it's like, you know, to, to connect it back to previous practice, I think makes a lot of sense in a way, you know, and I think it's such a new medium. People are inventing new, new ways to, to, you know, to sort of leverage it or use the idea of an NFT. But I think that, you know, connecting it to past practice, you know, it's definitely something I can, can relate to. And I like the way that these images are constructed in that, you know, they have the symmetry, but also you're adding in this central element, which breaks the symmetry. And that makes it a much more interesting composition, you know, formally than if it was just a straight symmetrical treatment, you know?
+## Colin Goldberg [01:16:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=4561s)
 
-Okay. Yeah. Yeah, I agree. I agree. It's, that's been also, I think, a reoccurring thing as pattern, but then the broken pattern. Mm-hmm . Broken symmetry. Interestingly enough, I'll zoom in a little, that pencil drawing I showed you called Fourfold Rotational Wasp is here in the background. Mm-hmm .
+Totally. I could relate to that too. The first, and if, the first two NFTs that I minted were really taking, you know, old digital drawings from, you know, 99 to 2004 that were vector based and then animating them and adding audio and kind of bringing them into motion. And I think part of it was like, you know, what, what is an NFT, right? It's, it's really just a way to, you know, sort of publish work in a sense, or, you know, there's no inherent sort of real formal qualities to what constitutes an NFT. So it's like, you know, to, to connect it back to previous practice, I think makes a lot of sense in a way, you know, and I think it's such a new medium. People are inventing new, new ways to, to, you know, to sort of leverage it or use the idea of an NFT. But I think that, you know, connecting it to past practice, you know, it's definitely something I can, can relate to.
 
-## Unattributed [01:17:46](https://www.youtube.com/watch?v=ywYWdI922tI&t=4666s)
+And I like the way that these images are constructed in that, you know, they have the symmetry, but also you're adding in this central element, which breaks the symmetry. And that makes it a much more interesting composition, you know, formally than if it was just a straight symmetrical treatment, you know?
 
-Right here. You can see it. It's, this is actually a photograph taken at my first public exhibition in 1982. And I was showing analog media works. Mm-hmm . So there's an eye. So there's this loop. I find, you know, it could just be, you know, maybe my age, you know, like at a certain state of life, you start, you know, revisiting what you've done in the past and there's these correspondences that make it fun for you. And they also imbue it with, it might be personal biographical meaning.
+## Victor Acevedo [01:17:25](https://www.youtube.com/watch?v=ywYWdI922tI&t=4645s)
 
-But there is a, there are correspondences that could work on the formal level. Totally. Totally. Yeah. I definitely, I mean, I've seen it. I've seen it. I've seen it. I relate to your work in a lot of ways, you know, for myself. Like I also have a body of work that incorporates photographic content in it and it's all pictures that I've taken through the years that personal experiences and things like that, you know? So I think that, you know, I definitely like was influenced by people, Rauschenberg, Warhol, who, you know, used photographic imagery in some, you know, some sort of conjunction with technology in the sense that they used photography imagery. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. He's really got the art in it. So I don't know? I don't know. I don't know. I don't know.
+Okay. Yeah. Yeah, I agree. I agree. It's, that's been also, I think, a reoccurring thing as pattern, but then the broken pattern. Mm-hmm . Broken symmetry. Interestingly enough, I'll zoom in a little, that pencil drawing I showed you called Fourfold Rotational Wasp is here in the background. Mm-hmm . Right here. You can see it. It's, this is actually a photograph taken at my first public exhibition in 1982.
 
-I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+And I was showing analog media works. Mm-hmm . So there's an eye. So there's this loop. I find, you know, it could just be, you know, maybe my age, you know, like at a certain state of life, you start, you know, revisiting what you've done in the past and there's these correspondences that make it fun for you. And they also imbue it with, it might be personal biographical meaning.
 
-I don't know. I don't know. I don't know. I don't know. I don't I did appropriate images, you know, that was also sort of a Warholian gambit, you know, to just appropriate images and make, put them in a new context. So I did do a little of that, but I kind of quickly wanted to make my own photographic images, if there was going to be a, you know, photographic. Yeah, there's more meaning, more resonance, I think, for the artist and maybe on some subliminal level, the audience.
+But there is a, there are correspondences that could work on the formal level. Totally.
 
-Or if they know it, then they can kind of vibe with that. Yeah, it gives opportunity for more layers of meaning and more resonance. Taking it out of this. Yeah, I totally agree. It's amazing as we're talking, I knew we had a lot of sort of synchronous sensibilities, but as we've been talking this afternoon, it's like there's even more and more. It's kind of, kind of cool. Yeah, it is cool. It's like very, you know, I mean, I relate to like a lot of what I'm seeing. In terms of, you know, the treatment and the ideas, but also sort of like the, you know, the experimental spirit of the work. I think that that's what keeps me coming back to the studio is I'm hoping to find something, a surprise at the end of the day.
+## Colin Goldberg [01:18:33](https://www.youtube.com/watch?v=ywYWdI922tI&t=4713s)
 
-## Unattributed [01:20:52](https://www.youtube.com/watch?v=ywYWdI922tI&t=4852s)
+Totally. Yeah. I definitely, I mean, I've seen it. I've seen it. I've seen it. I relate to your work in a lot of ways, you know, for myself. Like I also have a body of work that incorporates photographic content in it and it's all pictures that I've taken through the years that personal experiences and things like that, you know? So I think that, you know, I definitely like was influenced by people, Rauschenberg, Warhol, who, you know, used photographic imagery in some, you know, some sort of conjunction with technology in the sense that they used photography imagery. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. He's really got the art in it. So I don't know? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
 
-You know what I mean? Like sort of not just executing something that I already thought of, you know. And I find, you know, definitely with working with technology. And these types of tools, especially when you see that progress bar slowly crawling across and it's like, what is it going to do? You know, that's kind of, you know, a lot of fun.
+I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+
+I don't know. I don't know.
+
+## Victor Acevedo [01:19:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=4766s)
+
+I don't know. I don't know. I don't I did appropriate images, you know, that was also sort of a Warholian gambit, you know, to just appropriate images and make, put them in a new context. So I did do a little of that, but I kind of quickly wanted to make my own photographic images, if there was going to be a, you know, photographic. Yeah, there's more meaning, more resonance, I think, for the artist and maybe on some subliminal level, the audience.
+
+Or if they know it, then they can kind of vibe with that. Yeah, it gives opportunity for more layers of meaning and more resonance. Taking it out of this. Yeah, I totally agree. It's amazing as we're talking, I knew we had a lot of sort of synchronous sensibilities, but as we've been talking this afternoon, it's like there's even more and more. It's kind of, kind of cool.
+
+## Colin Goldberg [01:20:28](https://www.youtube.com/watch?v=ywYWdI922tI&t=4828s)
+
+Yeah, it is cool. It's like very, you know, I mean, I relate to like a lot of what I'm seeing. In terms of, you know, the treatment and the ideas, but also sort of like the, you know, the experimental spirit of the work. I think that that's what keeps me coming back to the studio is I'm hoping to find something, a surprise at the end of the day. You know what I mean? Like sort of not just executing something that I already thought of, you know. And I find, you know, definitely with working with technology. And these types of tools, especially when you see that progress bar slowly crawling across and it's like, what is it going to do? You know, that's kind of, you know, a lot of fun.
+
+## Victor Acevedo [01:21:15](https://www.youtube.com/watch?v=ywYWdI922tI&t=4875s)
 
 Yes, absolutely. That element of serendipity and the surprise of your collaboration with the tool set is also, and you're guiding it. And then, you know, we see more advanced forms of that with a practice. With AI. Tools or apps. But that, that kind of collaboration with what the computer, computer vision or the sort of the autonomy of computer rendering or machine imaging is, is an extent already even before AI apps.
 
-There's a certain element of that. Absolutely. Yeah. So, I guess I'll jump to. My video but because another part of this. Let's close this out. Is that working. Yeah. Okay. Batman. This is the end. We're going to what I think is the point of the video. But that's not an issue.
+There's a certain element of that. Absolutely. Yeah. So, I guess I'll jump to. My video but because another part of this. Let's close this out. Is that working. Yeah. Okay.
 
-## Unattributed [01:23:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5034s)
+## Unattributed [01:22:49](https://www.youtube.com/watch?v=ywYWdI922tI&t=4969s)
 
-Okay cool oh thanks I'm glad that worked that time I think there's just a hiccup in the sharing gotcha so if you wouldn't mind editing in that one out yeah I'm putting that in I appreciate it cut that piece that'd be cool um so yeah we've gone a good amount of time yeah so I mean you know just sort of in closing um and this is something I always sort of ask um you know when I when I do these interviews what is it that that you know interests you about expressionism or um you know um well first of all I was curious how you initially found out about um the project and then you know what's your sort of take on it or what does it mean to you because I think that that's something I'm always interested in in hearing from individual artists sure yeah um well you know I found out about the group through Roz Dimon who I knew from my new york days in the you know in the middle 1990s and uh she collected you were in a show that um she curated right I wasn't actually in the show but I did attend it it was called code okay and it was a group show it had Nina Sobell and it had char davies who was doing a vr piece it was really advanced for its time she she worked at soft image it was really an awesome awesome piece so I met I think I met uh roz during that time she was a curator of the show and she was aware of my work but I think we may have also been in a group together uh ascii art science collaborations incorporated you know and I think that's a really good way to kind of get to know each other and I think that's a really good way to kind of get to know each other and I think that's a really good way to which was a non-profit group uh that's still in existence today they have a facebook page uh they're a very interesting group pretty much new york based but um so I knew so roz told me about the tech press in this group and when I looked at it I was seeing you know I saw the salons watched a few of those and I read uh uh most of the uh manifesto kind of thing I just need to go back and read the manifesto and I think that's a really good way to get to know each other the rest of it but I read enough to go wow this is cool I I thought it was really really very uh sort of uh protein if you will it was it was it had a lot of uh potential as a way as a concept as a term that kind of encapsulates this whole sort of field of practice the use of uh using uh you know I think of it as computer graphics but it's all technology that's what's one of the good things about it is that it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each about the term it's more generalized and that's good art history terms to have that kind of quality that they can you can include a lot in in them in that under that moniker and the idea of you know the use of technology to express to make an emotional statement or an expressive statement that uh juxtaposition
+Batman. This is the end. We're going to what I think is the point of the video. But that's not an issue.
 
-## Unattributed [01:26:55](https://www.youtube.com/watch?v=ywYWdI922tI&t=5215s)
+## Victor Acevedo [01:23:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5034s)
 
-I thought was very uh very smart and I think that's a really good way to get to know each other and I think that's a really good way to get to know each other and very accurate so we're really what's going on because we're using this these these tool sets that on one level produce all the same you know sort of kinds of effects or kinds of structures but they're they're unique to every practitioner I guess kind of like a uh musicians and musical instruments you can think of the guitar you know there's all the way a guitar can be played across time or even in the contemporary space based on the musician themselves what they bring to it that expressive quality their touch their technique uh and that's the same way with these digital tool sets so there's it so the term tech pressure expressionism encompasses that and I like it also echoes back to you know expressionism and all the forms of that you know the original expressionism I guess the german expressionists and then the abstract expressionists because they were bringing in abstraction non non-objective form as they used to say uh and then there was neo-expressionist so there's this history of this thread through art history with expressionism and so that's pretty cool so you're combining um it it it's a really smart and inclusive term that really encapsulates uh this field of practice so I could really see it catching on uh you know and it doesn't make other terms obsolete like digital art but it's a kind of a way of like there's the idea of you know I don't know if the analogy would be painting and uh you know modernism right you know there's this interplay between those two levels you know uh that kind of modernism or neo-modernism and all the different flavors but there's the the technical component to it that also roots it in a kind of his uh practice whether it's sculpture or painting you know it's computer graphics yeah I mean part you know part of it honestly the I mean the the term itself was sort of like you know it came to me when I when I first thought of it as well that's an interesting portmanteau and and the way that expressionism expressionism it just sort of flows phonetically but part of it also was that um you know especially when I was in graduate school I saw the way that the undergraduates uh students they had actually transitioned for the bachelor's degrees to be called digital art and patrick and myself were still mfa computer art students then the department hadn't changed the name of the program yet and uh you know I saw that the the area of interest for the undergraduate digital arts students primarily was commercial applications like working in gaming um 3d motion graphics for for like outfits like pixar you know like real life graphics like you know like you know like really um kind of mass media applications when when people talked about digital art it was like you're going to go out there and get a job in digital art working for a studio or working for a software company or a game company you know what I mean and so when people would talk about they said well is that is that work here is digital art it never really satisfied like I never I never felt 100 comfortable describing it in that way you know um so it's sort of you know it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's It's interesting also, like the reason I ask this question is it's an open-ended thing at this point.
+Okay cool oh thanks I'm glad that worked that time I think there's just a hiccup in the sharing
 
-## Unattributed [01:31:08](https://www.youtube.com/watch?v=ywYWdI922tI&t=5468s)
+## Colin Goldberg [01:24:01](https://www.youtube.com/watch?v=ywYWdI922tI&t=5041s)
+
+Gotcha so if you wouldn't mind editing
+
+## Victor Acevedo [01:24:04](https://www.youtube.com/watch?v=ywYWdI922tI&t=5044s)
+
+In that one out yeah I'm putting that in I appreciate it cut that piece that'd be cool um so yeah we've gone a good amount of time yeah
+
+## Colin Goldberg [01:24:17](https://www.youtube.com/watch?v=ywYWdI922tI&t=5057s)
+
+So I mean you know just sort of in closing um and this is something I always sort of ask um you know when I when I do these interviews what is it that that you know interests you about expressionism or um you know um well first of all I was curious how you initially found out about um the project and then you know what's your sort of take on it or what does it mean to you because I think that that's something I'm always interested in in hearing from individual artists sure
+
+## Victor Acevedo [01:24:45](https://www.youtube.com/watch?v=ywYWdI922tI&t=5085s)
+
+Yeah um well you know I found out about the group through Roz Dimon who I knew from my new york days in the you know in the middle 1990s and
+
+## Colin Goldberg [01:24:56](https://www.youtube.com/watch?v=ywYWdI922tI&t=5096s)
+
+Uh she collected you were in a show that um she curated right
+
+## Victor Acevedo [01:25:00](https://www.youtube.com/watch?v=ywYWdI922tI&t=5100s)
+
+I wasn't actually in the show but I did attend it it was called code okay and it was a group show it had Nina Sobell and it had char davies who was doing a vr piece it was really advanced for its time she she worked at soft image it was really an awesome awesome piece so I met I think I met uh roz during that time she was a curator of the show and she was aware of my work but I think we may have also been in a group together uh ascii art science collaborations incorporated you know and I think that's a really good way to kind of get to know each other and I think that's a really good way to kind of get to know each other and I think that's a really good way to which was a non-profit group uh that's still in existence today they have a facebook page uh they're a very interesting group pretty much new york based but um so I knew so roz told me about the tech press in this group and when I looked at it I was seeing you know I saw the salons watched a few of those and I read uh uh most of the uh manifesto kind of thing I just need to go back and read the manifesto and I think that's a really good way to get to know each other the rest of it but I read enough to go wow this is cool I I thought it was really really very uh sort of uh protein if you will it was it was it had a lot of uh potential as a way as a concept as a term that kind of encapsulates this whole sort of field of practice the use of uh using uh you know I think of it as computer graphics but it's all technology that's what's one of the good things about it is that it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each other and it's a way to get to know each about the term it's more generalized and that's good art history terms to have that kind of quality that they can you can include a lot in in them in that under that moniker and the idea of you know the use of technology to express to make an emotional statement or an expressive statement that uh juxtaposition I thought was very uh very smart and I think that's a really good way to get to know each other and I think that's a really good way to get to know each other and very accurate so we're really what's going on because we're using this these these tool sets that on one level produce all the same you know sort of kinds of effects or kinds of structures but they're they're unique to every practitioner I guess kind of
+
+## Colin Goldberg [01:27:17](https://www.youtube.com/watch?v=ywYWdI922tI&t=5237s)
+
+Like
+
+## Victor Acevedo [01:27:18](https://www.youtube.com/watch?v=ywYWdI922tI&t=5238s)
+
+A uh musicians and musical instruments you can think of the guitar you know there's all the way a guitar can be played across time or even in the contemporary space based on the musician themselves what they bring to it that expressive quality their touch their technique uh and that's the same way with these digital tool sets so there's it so the term tech pressure expressionism encompasses that and I like it also echoes back to you know expressionism and all the forms of that you know the original expressionism I guess the german expressionists and then the abstract expressionists because they were bringing in abstraction non non-objective form as they used to say uh and then there was neo-expressionist so there's this history of this thread through art history with expressionism and so that's pretty cool so you're combining um it it it's a really smart and inclusive term that really encapsulates uh this field of practice so I could really see it catching on uh you know and it doesn't make other terms obsolete like digital art but it's a kind of a way of like there's the idea of you know I don't know if the analogy would be painting and uh you know modernism right you know there's this interplay between those two levels you know uh that kind of modernism or neo-modernism and all the different flavors but there's the the technical component to it that also roots it in a kind of his uh practice
+
+## Colin Goldberg [01:28:58](https://www.youtube.com/watch?v=ywYWdI922tI&t=5338s)
+
+Whether it's sculpture or painting you know it's computer graphics yeah I mean part you know part of it honestly the I mean the the term itself was sort of like you know it came to me when I when I first thought of it as well that's an interesting portmanteau and and the way that expressionism expressionism it just sort of flows phonetically but part of it also was that um you know especially when I was in graduate school I saw the way that the undergraduates uh students they had actually transitioned for the bachelor's degrees to be called digital art and patrick and myself were still mfa computer art students then the department hadn't changed the name of the program yet and uh you know I saw that the the area of interest for the undergraduate digital arts students primarily was commercial applications like working in gaming um 3d motion graphics for for like outfits like pixar you know like real life graphics like you know like you know like really um kind of mass media applications when when people talked about digital art it was like you're going to go out there and get a job in digital art working for a studio or working for a software company or a game company you know what I mean and so when people would talk about they said well is that is that work here is digital art it never really satisfied like I never I never felt 100 comfortable describing it in that way you know um so it's sort of you know it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's It's interesting also, like the reason I ask this question is it's an open-ended thing at this point.
 
 You know, it's really, it's not a word yet. It's not in any dictionaries. Hopefully, you know, that my ultimate goal would be that it be brought into common usage, you know, versus becoming some sort of an organization or any sort of other entity. You know what I mean? Even though it is a group and a community, you know, I think that there's different aspects to it. But I think that it's interesting to hear the different perspectives from different people on what it's about. I mean, one thing that I think was really, really an important moment in the development of the idea was that Helen Harrison, when we had our very first salon and we were talking about, you know, the goal of bringing the term into common usage, she said, you know, we were working with a definition where it was an artistic style in which technology is utilized as a means to express emotional experience.
 
@@ -305,12 +665,76 @@ And she said, you know, what do you guys think about switching out that word sty
 
 Or having a, you know, a particular visual treatment, the way that say glitch art might be something where it could be recognizable as glitch because there's sort of a, you know, a very sort of set range of visual treatments that might be defined or define that particular genre or type of work. Whereas, you know, I think thinking of it as an approach versus a style. I think thinking of it as a style. Is what allows it to be so.
 
-You know, something that that a broad range of different types of artistic practice practitioners can identify with, you know. Oh, yeah, that's an important distinction that that subtle distinction is real important. It really opens it up. Yeah. You know, something you know when I write. As I use the term Techspressionism in my own notes or you know, I find that.
+You know, something that that a broad range of different types of artistic practice practitioners can identify with, you know.
 
-All abbreviated privately as a tech X. You know, like at abex, you know, and I just thought I would. I've been wanting to mention that to you, you know, I'm not pushing it in any way. No, that's pretty cool. It's a, it's a way of shortening it and it could become known if it becomes a thing, you know, an adopted terminology tech X could be the sort of the cool abbreviation version. Right on. Nice. Nice. Very, very, very cool. Yeah, you know, I mean it's definitely something I haven't heard before, you know, and it's certainly a lot easier to say abex, you know, versus abstract expressionism, although you know I think that that that abbreviation when someone says abex then they know oh that person kind of knows what they're talking about.
+## Victor Acevedo [01:33:09](https://www.youtube.com/watch?v=ywYWdI922tI&t=5589s)
 
-## Unattributed [01:34:17](https://www.youtube.com/watch?v=ywYWdI922tI&t=5657s)
+Oh, yeah, that's an important distinction that that subtle distinction is real important. It really opens it up. Yeah. You know, something you know when I write. As I use the term Techspressionism in my own notes or you know, I find that. All abbreviated privately as a tech X. You know, like at abex, you know, and I just thought I would. I've been wanting to mention that to you, you know, I'm not pushing it in any way.
 
-You know they're using the abbreviated version already you know but yeah I like that that's pretty cool. Okay, cool. Nice. Nice. Well, um, you know, I guess, you know, we're kind of around that time to wrap things up but. So, what is just for the people who are watching and listening right now what is your website.
+## Colin Goldberg [01:33:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=5619s)
 
-It's a Acevedo media.Com. And it's my last name, a c e v e d o media.Com. That's my website and you could just Google my name Victor Acevedo artist or digital artist. And I'm a digital artist. So it's my website and you'll see a lot of links and I have a YouTube page and fantastic and when is the book that you're putting together slated to be made available. It's going to be a kind of a rolling start but I think in the spring it'll should be available for, you know, pre order, knock on wood. It's going to be a gradual thing because there's this sort of pre launch phase that I'm learning about on try to get some reviews in things. Things uh so then when it really launches it's uh we'll have you know a bit more notice people notice it a bit more so but it'll start becoming available maybe even in uh on electronic form by spring and then but it's it will be a a hardcover book initially uh it's you know it's it's a small modest edition self-published be an edition of 2000 that I'll roll out you know 25 50 at a time kind of thing fantastic thanks awesome well looking forward to it and thanks so much for um you know uh sharing your time with with me today my my pleasure colin it's been a great honor and great pleasure to to share this time with you and to have opportunity to talk about my art my work and uh really happy to be part of the tech impressionist group tech x I like that yeah very cool very cool all right victor until until we meet again in um cyberspace or or the metaverse as you know it's yes absolutely yeah I had some other things to talk about for future movements we could save that for another time but yeah the metaverse what's the what's in the future the metaverse for future of art and the future of culture if we if we can if we can keep planet earth will be good if we can keep it I hear you let's knock on wood yeah all right victor until next time yeah it's great great to see you colin likewise
+No, that's pretty cool.
+
+## Victor Acevedo [01:33:40](https://www.youtube.com/watch?v=ywYWdI922tI&t=5620s)
+
+It's a, it's a way of shortening it and it could become known if it becomes a thing, you know, an adopted terminology tech X could be the sort of the cool abbreviation version.
+
+## Colin Goldberg [01:33:52](https://www.youtube.com/watch?v=ywYWdI922tI&t=5632s)
+
+Right on. Nice.
+
+## Victor Acevedo [01:33:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5634s)
+
+Nice. Very,
+
+## Colin Goldberg [01:33:55](https://www.youtube.com/watch?v=ywYWdI922tI&t=5635s)
+
+Very, very cool. Yeah, you know, I mean it's definitely something I haven't heard before, you know, and it's certainly a lot easier to say abex, you know, versus abstract expressionism, although you know I think that that that abbreviation when someone says abex then they know oh that person kind of knows what they're talking about. You know they're using the abbreviated version already you know but yeah I like that that's pretty cool. Okay, cool.
+
+## Victor Acevedo [01:34:23](https://www.youtube.com/watch?v=ywYWdI922tI&t=5663s)
+
+Nice. Nice.
+
+## Colin Goldberg [01:34:26](https://www.youtube.com/watch?v=ywYWdI922tI&t=5666s)
+
+Well, um, you know, I guess, you know, we're kind of around that time to wrap things up but. So, what is just for the people who are watching and listening right now what is your website.
+
+## Victor Acevedo [01:34:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=5679s)
+
+It's a Acevedo media.Com. And it's my last name, a c e v e d o media.Com. That's my website and you could just Google my name Victor Acevedo artist or digital artist. And I'm a digital artist. So it's my website and you'll see a lot of links and I have a YouTube page and fantastic
+
+## Colin Goldberg [01:34:59](https://www.youtube.com/watch?v=ywYWdI922tI&t=5699s)
+
+And when is the book that you're putting together slated to be made available.
+
+## Victor Acevedo [01:35:04](https://www.youtube.com/watch?v=ywYWdI922tI&t=5704s)
+
+It's going to be a kind of a rolling start but I think in the spring it'll should be available for, you know, pre order, knock on wood. It's going to be a gradual thing because there's this sort of pre launch phase that I'm learning about on try to get some reviews in things. Things uh so then when it really launches it's uh we'll have you know a bit more notice people notice it a bit more so but
+
+## Colin Goldberg [01:35:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=5730s)
+
+It'll
+
+## Victor Acevedo [01:35:30](https://www.youtube.com/watch?v=ywYWdI922tI&t=5730s)
+
+Start becoming available maybe even in uh on electronic form by spring and then but it's it will be a a hardcover book initially uh it's you know it's it's a small modest edition self-published be an edition of 2000 that I'll roll out you know 25 50 at a time kind of thing fantastic thanks
+
+## Colin Goldberg [01:35:54](https://www.youtube.com/watch?v=ywYWdI922tI&t=5754s)
+
+Awesome well looking forward to it and thanks so much for um you know uh sharing your time with with me today my
+
+## Victor Acevedo [01:36:02](https://www.youtube.com/watch?v=ywYWdI922tI&t=5762s)
+
+My pleasure colin it's been a great honor and great pleasure to to share this time with you and to have opportunity to talk about my art my work and uh really happy to be part of the tech impressionist group tech x I like that yeah very cool very cool all right victor until
+
+## Colin Goldberg [01:36:19](https://www.youtube.com/watch?v=ywYWdI922tI&t=5779s)
+
+Until we meet again in um cyberspace or or the metaverse as you know it's yes
+
+## Victor Acevedo [01:36:25](https://www.youtube.com/watch?v=ywYWdI922tI&t=5785s)
+
+Absolutely yeah I had some other things to talk about for future movements we could save that for another time but yeah the metaverse what's the what's in the future the metaverse for future of art and the future of culture if we if we can if we can keep planet earth will be good if we can keep it I
+
+## Colin Goldberg [01:36:43](https://www.youtube.com/watch?v=ywYWdI922tI&t=5803s)
+
+Hear you let's knock on wood yeah all right victor until next time yeah it's great great to see you colin likewise

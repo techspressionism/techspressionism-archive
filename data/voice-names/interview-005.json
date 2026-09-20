@@ -1,0 +1,15 @@
+{
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 18:04",
+      "fingerprint": "69130caf01",
+      "name": "Davonte Bradley"
+    },
+    "V2": {
+      "at": "2026-09-20 18:04",
+      "fingerprint": "f040269029",
+      "name": "Colin Goldberg"
+    }
+  }
+}
