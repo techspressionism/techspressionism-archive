@@ -647,7 +647,7 @@ INDEX_TMPL = """<!doctype html>
 <span class="d"><span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. {hours:,} hours of recordings.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
@@ -847,8 +847,10 @@ def build_index(corpus):
         rec_counts[""] = f"{len(corpus)} recordings"
 
     latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
+    hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
     return INDEX_TMPL.format(
         latest_year=latest_year,
+        hours=hours,
         count_text=e(rec_counts[""]),
         rec_counts_js=json.dumps(rec_counts),
         groups="\n".join(groups),
