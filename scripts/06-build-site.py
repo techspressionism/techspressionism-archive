@@ -348,6 +348,10 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
 #search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:.4rem; }
+#search a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; }
+#search a.pill.pill-watch svg, #search a.pill.pill-watch:hover svg { color:#fff; }
+#search a.pill.pill-watch:hover { background:#d60000; }
+#search a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 #search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
@@ -907,7 +911,7 @@ function citationBlock(c) {{
   return '<div class="citation-info" data-cid="' + c.id + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
     + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + escapeHtml(citation) + '</span>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy Citation</button>'
-    + '<a class="pill" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip">' + {pill_svg_js} + pillTime(c.at) + '</a>'
+    + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
     + '<a class="yt-jump" href="' + ytLink + '" target="_blank" rel="noopener">Watch on YouTube &#8599;</a></div></div>';
 }}
 
