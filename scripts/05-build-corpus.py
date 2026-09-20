@@ -632,16 +632,17 @@ def voice_boundaries(session, words):
     "approve the automatic names" -- from its 'confirmed' name (screen and speaker index agreed).
     Every other voice stays unattributed. None when there is nothing to use."""
     d_path, n_path = DIARIZE_DIR / f"{slug(session)}.json", VOICE_NAMES_DIR / f"{slug(session)}.json"
-    if session.get("transcript_source") != "whisper-large-v3" or not d_path.exists() or not n_path.exists():
+    if session.get("transcript_source") != "whisper-large-v3" or not d_path.exists():
         return None
-    diar, dec = json.loads(d_path.read_text()), json.loads(n_path.read_text())
+    diar = json.loads(d_path.read_text())
+    dec = json.loads(n_path.read_text()) if n_path.exists() else {"voices": {}}
     turns = sorted(tuple(t) for t in diar["turns"])
     names = {}
     for voice, info in diar["voices"].items():
         saved = dec.get("voices", {}).get(voice)
         if saved is not None and saved.get("fingerprint") == _voice_fingerprint(turns, voice):
             names[voice] = saved.get("name") or None          # "" = the reviewer chose to leave it unattributed
-        elif dec.get("approved_auto") and info.get("tier") == "confirmed":
+        elif info.get("tier") == "confirmed" and info.get("name"):     # two independent sources agreed: automatically approved (Colin, 20 Sept 2026)
             names[voice] = info["name"]
     if not any(names.values()):
         return None

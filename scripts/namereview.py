@@ -252,11 +252,11 @@ def listing():
         d = json.loads(p.read_text())
         turns = [tuple(t) for t in d["turns"]]
         dec = load_decisions(sl)
-        auto_ok = lambda v: dec.get("approved_auto") and d["voices"][v].get("tier") == "confirmed" and d["voices"][v].get("name")     # approved automatic names count as decided
+        auto_ok = lambda v: d["voices"][v].get("tier") == "confirmed" and d["voices"][v].get("name")     # automatically approved names (two sources agreed) count as decided
         done = sum(1 for v in d["voices"] if (v in dec["voices"] and dec["voices"][v].get("fingerprint") == fingerprint(turns, v)) or auto_ok(v))
         secs = {v: i["seconds"] for v, i in d["voices"].items()}
         rows.append({"slug": sl, "label": label(_sessions[sl]), "title": _sessions[sl].get("session_title") or "",
-                     "voices": len(secs), "decided": done, "auto": dec.get("approved_auto", False),
+                     "voices": len(secs), "decided": done, "auto": any(auto_ok(v) for v in d["voices"]),
                      "share_decided": round(100 * sum(secs[v] for v in secs if v in dec["voices"] or auto_ok(v)) / (sum(secs.values()) or 1))})
     return rows
 
@@ -329,7 +329,7 @@ async function home(){
   $('#app').innerHTML=`<h1>NameReview</h1><p class="mute small">Recordings whose voices have been separated. Open one and say who each voice is; every word that voice speaks is then attributed.</p>`+
    (rows.length?rows.map(r=>`<a class="card row" href="#/${r.slug}" style="text-decoration:none;color:inherit"><div class="grow"><b>${esc(r.label)}</b> <span class="mute">${esc(r.title)}</span>
    <div class="bar"><i style="width:${r.share_decided}%"></i></div><span class="small mute">${r.decided} of ${r.voices} voices decided · ${r.share_decided}% of speech</span></div>
-   ${r.auto?'<span class="badge confirmed">auto-names approved</span>':''}</a>`).join(''):'<p>No separated recordings yet.</p>');
+   ${r.auto?'<span class="badge confirmed">some names approved automatically</span>':''}</a>`).join(''):'<p>No separated recordings yet.</p>');
 }
 async function page(sl){
   const d=await api('/api/rec/'+sl);
@@ -350,12 +350,13 @@ async function page(sl){
    <div class="vid" id="vidbox"><div class="row"><button class="seek" id="vidtoggle">Hide video</button><span class="small mute" id="vidnote">Press <b>▶ Show in video</b> under a clip to watch that moment here.</span></div>
     <div class="frame"><div id="yt"></div></div></div>
    <p class="small mute">Play the clips. If the suggested name is right, press <b>Confirm</b>; otherwise type the right name (suggestions appear as you type). Choose <b>Leave unattributed</b> if you can't tell — that is always safe.</p>
-   <div class="card row"><label class="grow"><input type="checkbox" id="auto" ${d.approved_auto?'checked':''}> Approve the automatically confirmed names (both the screen and the speaker list agreed) for this recording</label></div>${dl}`+
+${dl}`+
    d.voices.map(v=>{
      const guess=v.saved&&!v.saved.stale?v.saved.name:(v.auto_name||v.candidate||'');
      const badge=v.saved&&!v.saved.stale?'<span class="badge confirmed">decided</span>':v.saved?'<span class="badge stale">STALE decision — voices changed</span>':v.tier==='confirmed'?'<span class="badge confirmed">2 sources agree</span>':v.tier==='conflict'?'<span class="badge conflict">sources disagree</span>':v.tier==='single'?'<span class="badge single">1 source</span>':'<span class="badge">no guess</span>';
-     const isDone=v.saved&&!v.saved.stale, doneName=isDone?(v.saved.name||''):'';
-     return `<div class="card${isDone?' done':''}" data-v="${v.voice}" data-fp="${v.fingerprint}" data-auto="${esc(v.auto_name||'')}" data-autosaved="${isDone&&v.saved.auto?'1':''}"><div class="donesum"><b>${v.voice}</b><span>&rarr; <span class="who">${isDone?(doneName?esc(doneName):'left unattributed'):''}</span></span><span class="mute small">decided</span><button class="chg">Change</button></div><div class="row"><b>${v.voice}</b><span class="mute">${(v.seconds/60).toFixed(1)} min · ${v.share}% of the recording</span>${badge}</div>
+     const autoOk=v.tier==='confirmed'&&v.auto_name&&!(v.saved&&!v.saved.stale);     // two sources agreed: approved automatically, folded away
+     const isDone=(v.saved&&!v.saved.stale)||autoOk, doneName=(v.saved&&!v.saved.stale)?(v.saved.name||''):(autoOk?v.auto_name:'');
+     return `<div class="card${isDone?' done':''}" data-v="${v.voice}" data-fp="${v.fingerprint}" data-auto="${esc(v.auto_name||'')}" data-autosaved="${v.saved&&v.saved.auto?'1':''}"><div class="donesum"><b>${v.voice}</b><span>&rarr; <span class="who">${isDone?(doneName?esc(doneName):'left unattributed'):''}</span></span><span class="mute small">${autoOk?'approved automatically':'decided'}</span><button class="chg">Change</button></div><div class="row"><b>${v.voice}</b><span class="mute">${(v.seconds/60).toFixed(1)} min · ${v.share}% of the recording</span>${badge}</div>
       <div class="bar"><i style="width:${Math.min(100,v.share*3)}%"></i></div>
       <div class="small mute">On screen while this voice speaks: ${Object.entries(v.votes||{}).slice(0,3).map(([n,c])=>`${esc(n)} (${c})`).join(', ')||'nothing readable'} · Speaker list: ${esc(v.index)||'—'}</div>
       <div class="small mute">${esc(v.why)}</div>
@@ -382,19 +383,7 @@ async function page(sl){
     const rows=await api('/api/list'),i=rows.findIndex(x=>x.slug===sl);      // the next recording (in list order, wrapping round) that still has voices to decide
     const order=[...rows.slice(i+1),...rows.slice(0,Math.max(i,0))],next=order.find(x=>x.decided<x.voices);
     location.hash=next?'#/'+next.slug:'#/';window.scrollTo(0,0)};
-  const approveAuto=async on=>{   // ticking the box confirms every automatically named voice (two sources agreed); unticking takes those decisions back
-    const cards=[...document.querySelectorAll('.card[data-v]')].filter(c=>c.dataset.auto);let n=0;
-    for(const card of cards){
-      if(on&&!card.classList.contains('done')){
-        await api('/api/decision',{method:'POST',body:JSON.stringify({slug:sl,voice:card.dataset.v,name:card.dataset.auto,fingerprint:card.dataset.fp,auto:true})});
-        card.querySelector('.who').textContent=card.dataset.auto;card.classList.add('done');card.dataset.autosaved='1';n++}
-      else if(!on&&card.dataset.autosaved==='1'){
-        await api('/api/decision',{method:'POST',body:JSON.stringify({slug:sl,voice:card.dataset.v,clear:true})});
-        card.classList.remove('done');card.dataset.autosaved='';n++}}
-    const left=document.querySelectorAll('.card[data-v]:not(.done)').length,m=$('#applymsg');
-    m.textContent=on?(n?`${n} automatically named voice${n>1?'s':''} confirmed. `:'')+(left?`${left} voice${left>1?'s':''} still to decide.`:'All voices decided. Press "Apply to the page".'):(n?`${n} confirmation${n>1?'s':''} taken back.`:'')};
-  $('#auto').onchange=async e=>{await api('/api/approve',{method:'POST',body:JSON.stringify({slug:sl,approved_auto:e.target.checked})});approveAuto(e.target.checked)};
-  if(d.approved_auto)approveAuto(true);
+
   document.querySelectorAll('.card[data-v] button[data-act]').forEach(b=>b.onclick=async()=>{   // only Confirm/Save/Leave, never the ▶ buttons
     const card=b.closest('.card'), name=b.dataset.act==='none'?'':chosen(card);
     if(b.dataset.act==='name'&&!name){const t=card.querySelector('input.nm');if(t&&!t.hidden)t.focus();else{const m=$('#applymsg');m.textContent='Choose who this voice is first (or press Leave unattributed).'}return}

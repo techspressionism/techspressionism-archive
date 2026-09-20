@@ -1,0 +1,60 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:24",
+      "fingerprint": "23cf2c3066",
+      "name": "Roz Dimon"
+    },
+    "V10": {
+      "at": "2026-09-20 19:26",
+      "fingerprint": "8fc9a0e476",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V12": {
+      "at": "2026-09-20 19:27",
+      "fingerprint": "f4d15e99df",
+      "name": ""
+    },
+    "V2": {
+      "at": "2026-09-20 19:25",
+      "fingerprint": "91b974c630",
+      "name": "Lee Day"
+    },
+    "V3": {
+      "at": "2026-09-20 19:25",
+      "fingerprint": "8e83e250ef",
+      "name": "Gregory Little"
+    },
+    "V4": {
+      "at": "2026-09-20 19:25",
+      "fingerprint": "5bab6d5848",
+      "name": "Lee Musgrave"
+    },
+    "V5": {
+      "at": "2026-09-20 19:25",
+      "fingerprint": "54dda1c91f",
+      "name": "Lee Musgrave"
+    },
+    "V6": {
+      "at": "2026-09-20 19:26",
+      "fingerprint": "ef1fc6597b",
+      "name": ""
+    },
+    "V7": {
+      "at": "2026-09-20 19:26",
+      "fingerprint": "32c31a0b15",
+      "name": ""
+    },
+    "V8": {
+      "at": "2026-09-20 19:26",
+      "fingerprint": "178fefea75",
+      "name": "Lee Musgrave"
+    },
+    "V9": {
+      "at": "2026-09-20 19:26",
+      "fingerprint": "975368f1f0",
+      "name": "Roz Dimon"
+    }
+  }
+}
