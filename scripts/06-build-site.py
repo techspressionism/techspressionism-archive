@@ -746,6 +746,8 @@ window.addEventListener('DOMContentLoaded', () => {{
     }}
     for (const g of document.querySelectorAll(".sessions-group")) {{
       g.hidden = !!type && g.dataset.type !== type;
+      const h = g.querySelector("h3");
+      if (h) h.hidden = !!type;      // the category name shows only when "All" is selected
     }}
     // one control drives both the full-text search and the session list
     ui.triggerFilters(type ? {{ type: [type] }} : {{}});
@@ -795,7 +797,7 @@ def build_index(corpus):
             f'{e(info["plural"])}<span class="n">{len(entries)}</span></button>')
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
-            f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
+            f'<h3>{e(info["plural"])}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     years = sorted(int(x["date_recorded"][:4]) for x in corpus
                    if x.get("date_recorded") and len(x["date_recorded"]) >= 7)
     return INDEX_TMPL.format(
