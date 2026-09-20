@@ -1540,7 +1540,7 @@ def build_index(corpus):
                         f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
         groups.append(
             '<section class="sessions-group" data-type="Artist">'
-            '<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist&hellip;" aria-label="Find an artist">'
+            '<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Search artists by last name&hellip;" aria-label="Search artists by last name">'
             '</div>'
             '<nav class="azbar" id="azbar" aria-label="Jump to a letter">' + " ".join(
                 f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav>'
