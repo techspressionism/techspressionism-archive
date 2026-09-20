@@ -409,6 +409,9 @@ a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 #search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
+.cite-format { margin-top:.6rem; font-size:.85rem; color:var(--muted); }
+.cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
+.cite-text.cite-code { display:block; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.8rem; white-space:pre-wrap; overflow-wrap:anywhere; margin-top:.2rem; }
 .cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
 .cite h2 { font-size:.95rem; margin:0 0 .5rem; }
 .cite blockquote { margin:0; font-size:.92rem; color:#333; }
@@ -558,11 +561,75 @@ def build_player(entry):
     cached by Stage 1), so opening a page tells YouTube nothing about the visitor."""
     video_id = entry["video_id"]
     alt = e(f"Play {label(entry)} — {entry.get('session_title') or 'Untitled'}")
+    cite_data = json.dumps({"series": series_name(entry), "topic": entry.get("session_title") or "Untitled",
+                            "date": entry.get("date_recorded") or "", "youtube": entry["url"]}, ensure_ascii=False)
     img = (f'<img src="thumbnails/{e(video_id)}.jpg" alt="" loading="lazy">'
            if (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists() else "")
-    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-pagefind-ignore>'
+    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-cite="{e(cite_data)}" data-pagefind-ignore>'
             f'<div class="player-frame" id="player"><button type="button" class="poster" aria-label="{alt}">{img}'
             f'<span class="bigplay">{PLAY_SVG}</span></button></div></div>')
+
+
+CITE_JS = """// ---- citation formats: Chicago (the default), MLA, APA, BibTeX, RIS. The choice is remembered in the browser. ----
+var CITE_FORMATS = [["chicago", "Chicago"], ["mla", "MLA"], ["apa", "APA"], ["bibtex", "BibTeX"], ["ris", "RIS (Zotero, EndNote)"]];
+var CITE_MONTHS_LONG = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+var CITE_MONTHS_MLA = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+var CITE_NL = String.fromCharCode(10), CITE_BS = String.fromCharCode(92);
+function citeStored() { try { var v = localStorage.getItem("tvaCiteFormat"); if (v) return v; } catch (e) {} return "chicago"; }
+function citeStore(v) { try { localStorage.setItem("tvaCiteFormat", v); } catch (e) {} }
+function citeEsc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
+function citeHms(sec) { sec = Math.floor(sec || 0); var t = function (n) { return String(n).padStart(2, "0"); }; return t(Math.floor(sec / 3600)) + ":" + t(Math.floor(sec % 3600 / 60)) + ":" + t(sec % 60); }
+function citeYMD(iso) { var p = (iso || "").split("-").map(Number); return { y: p[0] || 0, m: p[1] || 0, d: p[2] || 0 }; }
+function citeDateLong(p) { if (!p.y) return ""; if (!p.m) return String(p.y); return CITE_MONTHS_LONG[p.m] + (p.d ? " " + p.d + ", " : " ") + p.y; }
+function citeDateMla(p) { if (!p.y) return ""; if (!p.m) return String(p.y); return (p.d ? p.d + " " : "") + CITE_MONTHS_MLA[p.m] + " " + p.y; }
+function citeToday() { var d = new Date(); return d.getDate() + " " + CITE_MONTHS_MLA[d.getMonth() + 1] + " " + d.getFullYear(); }
+function citeIsPerson(n) { return n && !/^Unidentified/i.test(n) && n.indexOf(",") < 0 && n.indexOf(" and ") < 0 && n.indexOf("&") < 0; }
+function citeApaName(n) {
+  var t = n.trim().split(/ +/);
+  if (!citeIsPerson(n) || t.length < 2) return n.trim();
+  return t[t.length - 1] + ", " + t.slice(0, -1).map(function (x) { return x.charAt(0).toUpperCase() + "."; }).join(" ");
+}
+function citeBibEsc(s) { return String(s).replace(/&/g, CITE_BS + "&").replace(/%/g, CITE_BS + "%"); }
+function citeFormats(i) {
+  var title = (i.series || "Techspressionism") + ": " + (i.topic || "Untitled");
+  var pub = "Techspressionism Video Archive", p = citeYMD(i.date), ts = citeHms(i.seconds), url = i.url || "", who = i.speaker || "Unidentified speaker";
+  var mla = who + '. "' + title + '." ' + pub + ", " + (p.y ? citeDateMla(p) + ", " : "") + ts + ", " + url + ". Accessed " + citeToday() + ".";
+  var apa = citeApaName(who) + " " + (p.y ? "(" + citeDateLong(p).replace(/^([A-Za-z]+) ([0-9]+), ([0-9]+)$/, "$3, $1 $2").replace(/^([A-Za-z]+) ([0-9]+)$/, "$2, $1") + ")" : "(n.d.)") +
+    ". " + title + " [Video transcript excerpt, " + ts + "]. " + pub + ". " + url;
+  var last = (who.trim().split(/ +/).pop() || "tva").toLowerCase().replace(/[^a-z]/g, "") || "tva";
+  var bib = ["@misc{" + last + (p.y || "nd") + "t" + Math.floor(i.seconds || 0) + ",",
+    "  author = {" + citeBibEsc(who) + "},", "  title = {" + citeBibEsc(title) + "},",
+    "  howpublished = {" + pub + ", streaming video},"].concat(p.y ? ["  year = {" + p.y + "},"] : [], p.m ? ["  month = {" + CITE_MONTHS_LONG[p.m].slice(0, 3).toLowerCase() + "},"] : [],
+    ["  note = {Transcript passage at " + ts + (p.y ? "; recorded " + citeDateLong(p) : "") + "},", "  url = {" + url + "}", "}"]).join(CITE_NL);
+  var ris = ["TY  - VIDEO", "AU  - " + (citeIsPerson(who) ? (who.trim().split(/ +/).length > 1 ? who.trim().split(/ +/).pop() + ", " + who.trim().split(/ +/).slice(0, -1).join(" ") : who) : who),
+    "TI  - " + title, "T2  - " + pub].concat(p.y ? ["PY  - " + p.y, "DA  - " + p.y + "/" + (p.m ? String(p.m).padStart(2, "0") : "") + "/" + (p.d ? String(p.d).padStart(2, "0") : "") + "/"] : [],
+    ["N1  - Transcript passage at " + ts, "UR  - " + url, "ER  - "]).join(CITE_NL);
+  return { chicago: i.chicago || who + ', "' + title + '," ' + pub + ", " + (p.y ? citeDateLong(p) : "n.d.") + ", streaming video, " + ts + ", " + url + ".", mla: mla, apa: apa, bibtex: bib, ris: ris };
+}
+function citeFormatSelect(current) {
+  return '<div class="cite-format"><label>Format: <select class="cite-format-select" aria-label="Citation format">' +
+    CITE_FORMATS.map(function (f) { return '<option value="' + f[0] + '"' + (f[0] === current ? " selected" : "") + ">" + f[1] + "</option>"; }).join("") + "</select></label></div>";
+}
+// a web address inside a citation becomes a link (Copy Citation still copies plain text)
+function citeLinkify(escaped) { return escaped.replace(/(https?:[/][/][^ ,<]+?)(?=[.]?(?:[ ,]|$))/g, '<a href="$1" target="_blank" rel="noopener">$1</a>'); }
+function citeRender(info, fmt) {
+  var text = citeFormats(info)[fmt] || citeFormats(info).chicago, code = fmt === "bibtex" || fmt === "ris";
+  return { text: text, html: code ? citeEsc(text) : citeLinkify(citeEsc(text)), code: code };
+}
+function citeApply(block) {
+  var info; try { info = JSON.parse(block.getAttribute("data-cite")); } catch (e) { return; }
+  var fmt = citeStored(), r = citeRender(info, fmt), ct = block.querySelector(".cite-text"), b = block.querySelector(".copy-cite"), s = block.querySelector(".cite-format-select");
+  if (ct) { ct.innerHTML = r.html; ct.classList.toggle("cite-code", r.code); }
+  if (b) b.setAttribute("data-citation", r.text);
+  if (s) s.value = fmt;
+}
+document.addEventListener("change", function (ev) {
+  var s = ev.target.closest && ev.target.closest(".cite-format-select");
+  if (!s) return;
+  citeStore(s.value);
+  [].slice.call(document.querySelectorAll("[data-cite]")).forEach(citeApply);
+});
+"""
 
 
 PLAYER_JS = """<script>
@@ -645,16 +712,15 @@ PLAYER_JS = """<script>
     if (citeText) {                        // the citation sits right under the cited text, to copy once the clip has been watched
       var card = document.createElement('div');
       card.className = 'cite-card';
-      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
+      var pdata = {};
+      try { pdata = JSON.parse(pbox.getAttribute('data-cite') || '{}'); } catch (e) { pdata = {}; }
+      var cinfo = { speaker: citeText.split(', "')[0], series: pdata.series, topic: pdata.topic, date: pdata.date, seconds: citeAt,
+                    url: (pdata.youtube || '') + '&t=' + Math.floor(citeAt) + 's', chicago: citeText };
+      card.setAttribute('data-cite', JSON.stringify(cinfo));
+      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>' + citeFormatSelect(citeStored())
         + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
         + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>';
-      var ct = card.querySelector('.cite-text'), cm = citeText.match(/^(.*?)(https?:[/][/][^ ]+?)([.]?)$/);
-      if (cm) {                            // the YouTube address is a link; Copy Citation still copies plain text
-        var la = document.createElement('a');
-        la.href = cm[2]; la.target = '_blank'; la.rel = 'noopener'; la.textContent = cm[2];
-        ct.appendChild(document.createTextNode(cm[1])); ct.appendChild(la); ct.appendChild(document.createTextNode(cm[3]));
-      } else ct.textContent = citeText;
-      card.querySelector('.copy-cite').dataset.citation = citeText;
+      citeApply(card);
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
     }
@@ -747,6 +813,9 @@ PLAYER_JS = """<script>
   }, 250);
 })();
 </script>"""
+
+
+PLAYER_JS = PLAYER_JS.replace("<script>" + chr(10) + "(function () {", "<script>" + chr(10) + CITE_JS + chr(10) + "(function () {", 1)
 
 
 def emphasize(escaped):
@@ -949,6 +1018,7 @@ This is a research tool intended for scholars, historians, and anyone with an in
 </script>
 <div id="search"></div>
 <script>
+{cite_js}
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
   "August", "September", "October", "November", "December"];
 
@@ -1024,14 +1094,16 @@ function linkifyCitation(citation) {{
 
 function citationBlock(c) {{
   const meta = c.result.meta || {{}};
-  const citation = buildCitation(c.result, c.sr, c.at);
+  const info = citationInfo(c.result, c.sr, c.at);
+  const citation = info.chicago;
+  const fmt = citeStored(), shown = citeRender(info, fmt);
   const yt = meta.youtube;
   const page = c.sr.url.split("#")[0];
   const here = page + "?play=1&at=" + c.at.toFixed(2) + (c.to != null ? "&to=" + c.to.toFixed(2) : "")
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
-  return '<div class="citation-info" data-cid="' + c.id + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
-    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text">' + linkifyCitation(citation) + '</span>'
-    + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(citation) + '">Copy Citation</button>'
+  return '<div class="citation-info" data-cid="' + c.id + '" data-cite="' + escapeHtml(JSON.stringify(info)) + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
+    + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>' + citeFormatSelect(fmt)
+    + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
     + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
     + '</div></div>';
 }}
@@ -1106,6 +1178,10 @@ function pillTime(seconds) {{
 }}
 
 function buildCitation(result, sr, seconds) {{
+  return citationInfo(result, sr, seconds).chicago;
+}}
+
+function citationInfo(result, sr, seconds) {{
   const meta = result.meta || {{}};
   const unlabeled = !sr.title || !sr.title.trim() || ["unattributed", "transcript", "discussion", "announcements"].includes(sr.title.trim().toLowerCase());
   const speaker = !unlabeled ? sr.title.trim() : (meta.participants || "Unidentified speaker");
@@ -1114,7 +1190,8 @@ function buildCitation(result, sr, seconds) {{
   const date = chicagoDate(meta.date);
   const timestamp = hhmmss(seconds);
   const url = (meta.youtube || "") + (meta.youtube ? "&t=" + Math.floor(seconds) + "s" : "");
-  return speaker + ', "' + videoTitle + '," ' + publisher + ", " + date + ", streaming video, " + timestamp + ", " + url + ".";
+  const chicago = speaker + ', "' + videoTitle + '," ' + publisher + ", " + date + ", streaming video, " + timestamp + ", " + url + ".";
+  return {{ speaker: speaker, series: meta.series || "Techspressionism", topic: meta.topic || "Untitled", date: meta.date || "", seconds: seconds, url: url, chicago: chicago }};
 }}
 
 window.addEventListener('DOMContentLoaded', () => {{
@@ -1134,6 +1211,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       // Chicago-style citation, on each sub-result.
       const yt = result.meta && result.meta.youtube;
       for (const sr of (result.sub_results || [])) {{
+        sr.title = (sr.title || "").replace(/^\s*WATCH\s*/, "");      // the timecode button's word is not part of the speaker's name
         const m = (sr.url || "").match(/#(t\d+)/);
         if (!yt || !m) continue;
         const parts = sentenceParts(result, sr);      // the whole sentence that matched, not a fixed-length snippet
@@ -1574,6 +1652,7 @@ def build_index(corpus):
         watch_lead_in=WATCH_LEAD_IN,
         header=build_header(corpus, ""),
         pill_svg_js=json.dumps(PILL_SVG),
+        cite_js=CITE_JS,
         pill_lead=f"{PILL_LEAD_IN:g}",
     )
 
