@@ -725,8 +725,8 @@ INDEX_TMPL = """<!doctype html>
 <p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
 <p class="intro">The Techspressionism Video Archive (TVA) is a research tool for historians and anyone studying the Techspressionism movement:
 <a href="index.html?type=Salon">Salons</a>, <a href="index.html?type=Interview">interviews</a>, <a href="index.html?type=Roundtable">roundtables</a>
-and <a href="index.html?type=Presentation">presentations</a>, {hours:,} hours transcribed and indexed. Transcripts are machine-generated and may contain errors:
-verify every quote against the recording before citing. Built in Python with Claude Code.</p>
+and <a href="index.html?type=Presentation">presentations</a>. Transcripts are machine-generated and may contain errors:
+verify every quote against the recording before citing. Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p>
 </div>
 <p class="reccount"><span id="rec-count">{count_text}</span></p>
 <script>
