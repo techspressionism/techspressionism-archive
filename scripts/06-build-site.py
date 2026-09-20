@@ -1223,6 +1223,7 @@ window.addEventListener('DOMContentLoaded', () => {{
   function filterArtists() {{
     if (!artistBox) return;
     const q = artistBox.value.trim().toLowerCase();
+    const az = document.getElementById("azbar"); if (az) az.hidden = !!q;      // the letters are for browsing, not for a filtered list
     for (const li of document.querySelectorAll("#artist-list li")) {{
       li.hidden = !!q && !li.dataset.name.includes(q);
     }}
@@ -1474,6 +1475,9 @@ main.person { max-width:52rem; }
 .artist-tools { margin:.6rem 0 1rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
 .artist-tools input[type=search] { font:inherit; padding:.5rem .9rem; border:2px solid var(--accent); border-radius:0; min-width:14rem; flex:1 1 14rem; }
 .artist-tools label { font-size:.95rem; }
+.azbar { display:flex; flex-wrap:wrap; gap:.15rem .7rem; justify-content:center; margin:0 0 .8rem; font-weight:700; }
+.azbar[hidden] { display:none; }
+#artist-list li[id] { scroll-margin-top:5rem; }
 """
 
 
@@ -1510,7 +1514,10 @@ def build_index(corpus):
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     if ARTIST_COUNT:                       # the Artists list: everyone with a page, those heard or named in the recordings first-class
-        rows = []
+        rows, letters = [], []
+        def initial(name):       # the list is in last-name order; A-Z jump links go to the first name under each letter
+            c = unicodedata.normalize("NFKD", name.split()[-1]).encode("ascii", "ignore").decode()[:1].upper()
+            return c if c.isalpha() else "#"
         for pp in sorted(LISTED, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
             bits = []
             if pp["speaks"]:
@@ -1518,12 +1525,19 @@ def build_index(corpus):
             elif pp["mentions"]:
                 bits.append("named in the recordings")
             sub = " &middot; ".join(x for x in [e(pp.get("location") or "")] + bits if x)
-            rows.append(f'<li data-name="{e(pp["name"].lower())}"><span class="body">'
+            ini = initial(pp["name"])
+            anchor = ""
+            if ini not in letters:
+                letters.append(ini)
+                anchor = f' id="az-{"other" if ini == "#" else ini}"'
+            rows.append(f'<li{anchor} data-name="{e(pp["name"].lower())}"><span class="body">'
                         f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
         groups.append(
             '<section class="sessions-group" data-type="Artist">'
             '<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist&hellip;" aria-label="Find an artist">'
             '</div>'
+            '<nav class="azbar" id="azbar" aria-label="Jump to a letter">' + " ".join(
+                f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav>'
             '<ul class="sessions" id="artist-list">' + "\n".join(rows) + "</ul></section>")
         spans["Artist"] = (ARTIST_COUNT, 0, 0)
     def count_text(n, first, last):

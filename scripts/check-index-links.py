@@ -7,8 +7,9 @@ Reads the artist index text box (the block with class "tvai" on /artists/) from 
 (website, Instagram, Wikipedia, NFT, X/Twitter ...) with the artist it belongs to, tests each address (the same tests as
 check-people-links.py: not found, server error, no such domain, a page that only says "not found", a parked or for-sale
 domain; Instagram by reading the profile page), and writes into private/wp-artist-index/ :
-    broken-links.csv       ONE row per artist who has a broken or parked link or no working link at all: artist, section (country or
-                           state), NO WORKING LINKS (YES), how many links the index has, all bad links, then one column per link type
+    broken-links.csv       ONE row per artist who has a broken or parked link or no working link at all: artist, NO WORKING LINKS (YES),
+                           section (country or state), how many links the index has, an empty email column (to fill in by hand; emails
+                           stay in private/ and are never committed), all bad links, then one column per link type
                            (website, Instagram, X / Twitter, Wikipedia, NFT, other) holding that type's bad address and the problem,
                            then the addresses that moved (still work; update) and the ones that could not be checked (open by hand)
 A link that is not broken (working, moved, or unverified) never counts as bad. Results are shared with data/link-status.json, so a link checked recently (--max-age, default 1 day) is not fetched again.
@@ -159,11 +160,12 @@ def main():
             continue
         n_none += no_working
         all_bad = [f"{k}: {x}" for k, xs in bad_by_kind.items() for x in xs]
-        row = [artist, item["section"], "YES" if no_working else "", len(item["links"]) or "none on the index", "\n".join(all_bad)]
+        row = [artist, "YES" if no_working else "", item["section"], len(item["links"]) or "none on the index", "",      # "" = the email column, filled in by hand later
+               "\n".join(all_bad)]
         row += ["\n".join(bad_by_kind.get(k, [])) for k, _label in columns]
         row += ["\n".join(changed), "\n".join(unverified)]
         out_rows.append(row)
-    head = ["artist", "section (country or state)", "NO WORKING LINKS", "links on the index", "all bad links"] + [l for _k, l in columns] + \
+    head = ["artist", "NO WORKING LINKS", "section (country or state)", "links on the index", "email (to add)", "all bad links"] + [l for _k, l in columns] + \
            ["address moved (still works; update)", "could not be checked (open by hand)"]
     with open(dest / "broken-links.csv", "w", newline="", encoding="utf-8-sig") as f:      # utf-8-sig: opens correctly in Excel
         w = csv.writer(f)
