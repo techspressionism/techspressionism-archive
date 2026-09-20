@@ -166,9 +166,10 @@ def hhmmss(seconds):
 
 def build_browse(corpus, active="", navigate=False, sid=""):
     """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
-    (script); on every other page (navigate=True) choosing one opens the home page on that category."""
+    (script); on every other page (navigate=True) choosing one opens the home page on that category. There nothing is
+    preselected: choosing the category the page belongs to would not fire a change event, so nothing would happen."""
     opts = "".join(
-        f'<option value="{e(info["label"])}"{" selected" if info["label"] == active else ""}>{e(info["plural"])} ({n})</option>'
+        f'<option value="{e(info["label"])}"{" selected" if info["label"] == active and not navigate else ""}>{e(info["plural"])} ({n})</option>'
         for info, n in [(TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES] + [(ARTIST_ENTRY, ARTIST_COUNT)] if n)
     go = ' onchange="location.href=\'index.html\'+(this.value?\'?type=\'+encodeURIComponent(this.value):\'\')"' if navigate else ""
     return (f'<div class="browse"><label for="browse-select{sid}">BROWSE <span class="bslash">//</span></label>'
