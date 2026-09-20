@@ -91,6 +91,59 @@ def suggestions(sl, voices):
     return sorted(names)
 
 
+_PEOPLE_RX = {}
+
+
+def _people_names():
+    """Full names (with aliases) from the people directory, as one pattern per person, built once."""
+    if not _PEOPLE_RX:
+        for p in json.loads((ROOT / "data" / "people.json").read_text())["people"]:
+            forms = {re.sub(r"\s*\([^)]*\)", "", n).split(" aka ")[0].strip() for n in [p["name"]] + p.get("aliases", [])}
+            forms = [f for f in forms if len(f.split()) >= 2 and len(f) >= 6 and "/" not in f and "&" not in f]
+            if forms:
+                _PEOPLE_RX[p["name"]] = re.compile(r"(?<!\w)(?:" + "|".join(re.escape(f) for f in sorted(forms, key=len, reverse=True)) + r")(?!\w)", re.I)
+    return _PEOPLE_RX
+
+
+_REGULARS = []
+
+
+def _regulars():
+    """The people who speak in the most recordings (identified speakers in the corpus), for the dropdown of any recording."""
+    if not _REGULARS:
+        from collections import defaultdict
+        seen = defaultdict(set)
+        for e in json.loads((ROOT / "corpus" / "corpus.json").read_text()):
+            for s in e["segments"]:
+                if s.get("speaker") and len(s["speaker"].split()) >= 2:
+                    seen[s["speaker"]].add((e.get("type"), e["number"]))
+        _REGULARS.extend(n for n, _ in sorted(seen.items(), key=lambda kv: -len(kv[1]))[:15])
+    return _REGULARS
+
+
+def suggestion_groups(sl, voices):
+    """The dropdown's choices: who the recording's listing names, who is named in its transcript, and the regular participants."""
+    session = _sessions[sl]
+    here = []
+    for n in [x["name"] for x in session.get("speakers", [])] + [session.get(k) for k in ("moderator", "interviewer", "interviewee")]:
+        for part in re.split(r"\s+(?:and|&)\s+", re.sub(r"\s*//.*$", "", n or "")):
+            part = canonical_name(part.strip())
+            if part and part not in here:
+                here.append(part)
+    for v in voices.values():
+        for n in (v.get("screen"), v.get("index"), v.get("candidate")):
+            if n and n not in here:
+                here.append(n)
+    named = []
+    md = ROOT / "corpus" / f"{sl}.md"
+    if md.exists():
+        text = md.read_text()
+        counts = sorted(((len(rx.findall(text)), name) for name, rx in _people_names().items()), reverse=True)
+        named = [n for c, n in counts[:25] if c and n not in here]
+    regular = [n for n in _regulars() if n not in here and n not in named]
+    return {"here": here, "named": named, "regular": regular}
+
+
 def remember_alias(screen_name, person):
     """"On screen 'C B Rubin' means Cynthia Beth Rubin": add it to data/speaker_aliases.json so every
     later recording resolves that display name the same way. Never overwrites an existing entry."""
@@ -175,7 +228,10 @@ def recording(sl):
     s = _sessions[sl]
     return {"slug": sl, "label": label(s), "title": s.get("session_title") or "", "video_id": s["video_id"],
             "approved_auto": dec.get("approved_auto", False), "voices": out,
-            "suggestions": suggestions(sl, d["voices"])}
+            "interview": ({"interviewer": s.get("interviewer"), "interviewee": s.get("interviewee")}
+                          if s.get("type") == "interview" and s.get("interviewee") else None),
+            "suggestions": suggestions(sl, d["voices"]) + [n for g in ("named", "regular") for n in suggestion_groups(sl, d["voices"])[g]],
+            "groups": suggestion_groups(sl, d["voices"])}
 
 
 def listing():
@@ -235,6 +291,11 @@ PAGE = r"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,sans-serif}main{max-width:860px;margin:0 auto;padding:16px}
 h1{font-size:1.3rem;margin:.2rem 0}a{color:var(--acc)}.mute{color:var(--mute)}.small{font-size:.85rem}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:12px 0}
+.card .donesum{display:none;align-items:center;gap:10px}
+.roles{display:flex;flex-wrap:wrap;gap:6px 18px}.role{display:flex;align-items:center;gap:6px;font-size:15px}.card select.sel{font:inherit;padding:6px;max-width:100%}
+.card.done{padding:8px 14px;background:#f3f6f1}
+.card.done>*:not(.donesum){display:none!important}
+.card.done .donesum{display:flex}
 .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.grow{flex:1}
 .badge{font-size:.75rem;border-radius:999px;padding:2px 9px;border:1px solid var(--line)}
 .confirmed{color:var(--ok);border-color:var(--ok)}.single,.conflict,.stale{color:var(--warn);border-color:var(--warn)}
@@ -259,6 +320,18 @@ async function home(){
 }
 async function page(sl){
   const d=await api('/api/rec/'+sl);
+  const chooser=(d,v,guess)=>{   // interviews: one click for interviewer or subject; other recordings: pick from the people known for the recording
+    const g=d.groups||{here:d.suggestions,named:[],regular:[]};
+    const people=d.interview?[['Interviewer',d.interview.interviewer],['Subject',d.interview.interviewee]].filter(x=>x[1]):[...g.here,...g.named,...g.regular].map(n=>['',n]);
+    const known=people.some(x=>x[1]===guess), other=guess&&!known;
+    const opt=n=>`<option value="${esc(n)}" ${n===guess?'selected':''}>${esc(n)}</option>`;
+    const groups=[['In this recording\'s listing',g.here],['Named in this recording',g.named],['Regular participants',g.regular]].filter(x=>x[1].length).map(x=>`<optgroup label="${x[0]}">${x[1].map(opt).join('')}</optgroup>`).join('');
+    const text=`<input type="text" class="nm" list="names" placeholder="Who is this?" value="${other?esc(guess):''}" ${other?'':'hidden'}>`;
+    if(d.interview) return '<div class="roles">'+people.map(x=>`<label class="role"><input type="radio" name="r_${v.voice}" value="${esc(x[1])}" ${x[1]===guess?'checked':''}> ${x[0]}: <b>${esc(x[1])}</b></label>`).join('')+
+      `<label class="role"><input type="radio" name="r_${v.voice}" value="__other" ${other?'checked':''}> Someone else ${text}</label><label class="role"><input type="radio" name="r_${v.voice}" value="__none"> Can't tell</label></div>`;
+    return `<select class="sel"><option value="">— choose who this is —</option>${groups}<option value="__other" ${other?'selected':''}>Someone else…</option><option value="__none">Can't tell (leave unattributed)</option></select> ${text}`};
+  const chosen=card=>{const r=card.querySelector('input[type=radio]:checked'),s=card.querySelector('select.sel'),t=card.querySelector('input.nm');
+    const v=r?r.value:s?s.value:(t?t.value:'');return v==='__none'?'':v==='__other'?(t?t.value.trim():''):v.trim()};
   const dl='<datalist id="names">'+[...new Set([...d.suggestions])].map(n=>`<option value="${esc(n)}">`).join('')+'</datalist>';
   $('#app').innerHTML=`<p><a href="#/">← all recordings</a></p><h1>${esc(d.label)} <span class="mute">${esc(d.title)}</span></h1>
    <div class="vid" id="vidbox"><div class="row"><button class="seek" id="vidtoggle">Hide video</button><span class="small mute" id="vidnote">Press <b>▶ Show in video</b> under a clip to watch that moment here.</span></div>
@@ -268,16 +341,18 @@ async function page(sl){
    d.voices.map(v=>{
      const guess=v.saved&&!v.saved.stale?v.saved.name:(v.auto_name||v.candidate||'');
      const badge=v.saved&&!v.saved.stale?'<span class="badge confirmed">decided</span>':v.saved?'<span class="badge stale">STALE decision — voices changed</span>':v.tier==='confirmed'?'<span class="badge confirmed">2 sources agree</span>':v.tier==='conflict'?'<span class="badge conflict">sources disagree</span>':v.tier==='single'?'<span class="badge single">1 source</span>':'<span class="badge">no guess</span>';
-     return `<div class="card" data-v="${v.voice}" data-fp="${v.fingerprint}"><div class="row"><b>${v.voice}</b><span class="mute">${(v.seconds/60).toFixed(1)} min · ${v.share}% of the recording</span>${badge}</div>
+     const isDone=v.saved&&!v.saved.stale, doneName=isDone?(v.saved.name||''):'';
+     return `<div class="card${isDone?' done':''}" data-v="${v.voice}" data-fp="${v.fingerprint}"><div class="donesum"><b>${v.voice}</b><span>&rarr; <span class="who">${isDone?(doneName?esc(doneName):'left unattributed'):''}</span></span><span class="mute small">decided</span><button class="chg">Change</button></div><div class="row"><b>${v.voice}</b><span class="mute">${(v.seconds/60).toFixed(1)} min · ${v.share}% of the recording</span>${badge}</div>
       <div class="bar"><i style="width:${Math.min(100,v.share*3)}%"></i></div>
       <div class="small mute">On screen while this voice speaks: ${Object.entries(v.votes||{}).slice(0,3).map(([n,c])=>`${esc(n)} (${c})`).join(', ')||'nothing readable'} · Speaker list: ${esc(v.index)||'—'}</div>
       <div class="small mute">${esc(v.why)}</div>
       ${v.clips.map(c=>`<div class="clip"><audio controls preload="none" src="${c.url}"></audio><q>${esc(c.text)||'(no transcript here)'}
         <button class="seek" data-t="${c.start}">▶ Show in video (${Math.floor(c.start/60)}:${String(Math.floor(c.start%60)).padStart(2,'0')})</button>
         <a class="small" href="https://www.youtube.com/watch?v=${d.video_id}&t=${Math.floor(c.start)}s" target="_blank" rel="noopener">open in YouTube ↗</a></q></div>`).join('')||'<p class="mute small">No clean stretch to play for this voice.</p>'}
-      <div class="row" style="margin-top:8px"><div style="flex:1 1 100%"><input type="text" list="names" placeholder="Who is this?" value="${esc(guess)}"></div>
+      <div class="row" style="margin-top:8px"><div style="flex:1 1 100%">${chooser(d,v,guess)}</div>
        ${Object.keys(v.votes||{})[0]?`<label class="small mute" style="flex:1 1 100%"><input type="checkbox" class="alias" data-from="${esc(Object.keys(v.votes)[0])}"> Remember that the on-screen name “${esc(Object.keys(v.votes)[0])}” means this person in future recordings</label>`:''}
-       <button class="pri" data-act="name">${guess?'Confirm':'Save'}</button><button data-act="none">Leave unattributed</button><span class="saved" hidden>saved ✓</span></div></div>`}).join('');
+       <button class="pri" data-act="name">${guess?'Confirm':'Save'}</button><button data-act="none">Leave unattributed</button><span class="saved" hidden>saved ✓</span></div></div>`}).join('')+
+   `<div class="card row"><button class="pri" id="apply">Apply to the page</button><span class="small mute grow" id="applymsg">Your decisions are saved as you make them. This builds the recording's transcript page with them (every word a decided voice speaks gets that name). It goes online the next time the site is published.</span></div>`;
   loadPlayer(d.video_id);
   $('#vidtoggle').onclick=()=>{const off=$('#vidbox').classList.toggle('off');$('#vidtoggle').textContent=off?'Show video':'Hide video'};
   document.querySelectorAll('button.seek[data-t]').forEach(b=>b.onclick=()=>{
@@ -288,13 +363,20 @@ async function page(sl){
       player.playVideo()}
     else window.open(`https://www.youtube.com/watch?v=${d.video_id}&t=${Math.floor(b.dataset.t)}s`,'_blank','noopener')});
   document.querySelectorAll('audio').forEach(a=>a.onplay=()=>{if(player&&playerReady&&player.pauseVideo)player.pauseVideo()});
+  $('#apply').onclick=async()=>{const b=$('#apply'),m=$('#applymsg');b.disabled=true;m.textContent='Building the page… (up to a minute)';
+    const r=await api('/api/apply',{method:'POST',body:JSON.stringify({slug:sl})});b.disabled=false;
+    m.textContent=r.error?('Could not apply: '+r.error):`Applied. ${r.attributed}% of this recording's words now carry a name (${r.unattributed_words.toLocaleString()} words are still Unattributed). It goes online the next time the site is published.`};
   $('#auto').onchange=e=>api('/api/approve',{method:'POST',body:JSON.stringify({slug:sl,approved_auto:e.target.checked})});
   document.querySelectorAll('.card[data-v] button[data-act]').forEach(b=>b.onclick=async()=>{   // only Confirm/Save/Leave, never the ▶ buttons
-    const card=b.closest('.card'), name=b.dataset.act==='none'?'':card.querySelector('input').value.trim();
-    if(b.dataset.act==='name'&&!name){card.querySelector('input').focus();return}
+    const card=b.closest('.card'), name=b.dataset.act==='none'?'':chosen(card);
+    if(b.dataset.act==='name'&&!name){const t=card.querySelector('input.nm');if(t&&!t.hidden)t.focus();else{const m=$('#applymsg');m.textContent='Choose who this voice is first (or press Leave unattributed).'}return}
     const al=card.querySelector('.alias'), from=(al&&al.checked&&name)?al.dataset.from:'';
     const r=await api('/api/decision',{method:'POST',body:JSON.stringify({slug:sl,voice:card.dataset.v,name:name,fingerprint:card.dataset.fp,alias_from:from})});
-    const s=card.querySelector('.saved');s.textContent='saved ✓'+(r.alias?` (on-screen name ${r.alias})`:'');s.hidden=false;setTimeout(()=>s.hidden=true,4000);});
+    card.querySelector('.who').textContent=name||'left unattributed';card.classList.add('done');     // a decided voice folds away; Change opens it again
+    const left=document.querySelectorAll('.card[data-v]:not(.done)').length;$('#applymsg').textContent=left?`Saved. ${left} voice${left>1?'s':''} still to decide in this recording.`:'All voices decided. Press "Apply to the page" to build the page with your names.';});
+  document.querySelectorAll('.card[data-v]').forEach(card=>card.addEventListener('change',e=>{   // "Someone else" shows the text box
+    const other=[...card.querySelectorAll('input[type=radio]:checked,select.sel')].some(x=>x.value==='__other'),t=card.querySelector('input.nm');if(t){t.hidden=!other;if(other)t.focus()}}));
+  document.querySelectorAll('.card[data-v] .chg').forEach(b=>b.onclick=()=>b.closest('.card').classList.remove('done'));
 }
 let player=null, playerReady=false;
 function loadPlayer(id){                                  // YouTube's own embedded player, seekable from the page
@@ -342,6 +424,16 @@ class Handler(BaseHTTPRequestHandler):
             if not SLUG_RE.match(sl) or not (DIARIZE_DIR / f"{sl}.json").exists():
                 return self._send({"error": "unknown recording"}, code=400)
             dec = load_decisions(sl)
+            if self.path == "/api/apply":                     # rebuild this recording's page (Stage 5) with the saved decisions
+                r = subprocess.run([sys.executable, str(ROOT / "scripts" / "05-build-corpus.py"), sl, "--no-review"], capture_output=True, text=True, timeout=600)
+                if r.returncode != 0:
+                    return self._send({"error": (r.stderr or r.stdout).strip().splitlines()[-1][:200]}, code=500)
+                for e in json.loads((ROOT / "corpus" / "corpus.json").read_text()):
+                    if f"{e.get('type', 'salon')}-{int(e['number']):03d}" == sl:
+                        tot = sum(len(s["text"].split()) for s in e["segments"]) or 1
+                        un = sum(len(s["text"].split()) for s in e["segments"] if not s.get("speaker"))
+                        return self._send({"ok": True, "attributed": round(100 * (tot - un) / tot), "unattributed_words": un})
+                return self._send({"error": "recording is not in the corpus"}, code=500)
             if self.path == "/api/approve":
                 dec["approved_auto"] = bool(body.get("approved_auto"))
             elif self.path == "/api/decision":
