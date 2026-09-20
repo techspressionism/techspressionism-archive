@@ -173,14 +173,16 @@ def build_browse(corpus, active="", navigate=False):
 
 
 def build_header(corpus, active=""):
-    """The site header: title, [BETA], type pills, search box, Browse. The SAME markup on every page, so
-    it always looks the same. (On the home page a script wires the search box and Browse to the page.)"""
+    """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
+    see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
+    wires the search box and Browse to the page.)"""
     return ('<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>\n'
             + build_topnav(corpus, active) + '\n'
+            + build_browse(corpus, active, navigate=True) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
-            '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form>\n'
-            + build_browse(corpus, active, navigate=True) + '</div></div></header>')
+            '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
+            '</div></header>')
 
 
 TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
@@ -233,6 +235,7 @@ header.site .wrap { container-type:inline-size; }
 header.site .hright { margin:0 0 0 auto; display:flex; flex-direction:column; gap:.4rem; }
 header.site .hsearch { margin:0; }
 header.site .browse { margin:0; gap:.6rem; }
+@media (max-width:40rem) { header.site .wrap > .browse { flex:1 1 100%; margin-top:.5rem; } }
 header.site .browse label { font-size:.9rem; }
 header.site .browse select { padding:.3rem .7rem; font-size:.9rem; border-radius:1rem; background:var(--bg); }
 header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-width:100%; height:2.9rem; padding:.4rem 1rem .4rem 2.8rem; border:2px solid var(--accent); border-radius:0; color:var(--fg);
@@ -240,7 +243,7 @@ header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-wid
 header.site .hsearch input::placeholder { color:#757575; opacity:1; }
 header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
-@media (max-width:34rem) { header.site .hright { flex:1 1 100%; margin:.7rem 0 0; } header.site .hsearch input { width:100%; } }
+@media (max-width:34rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -387,6 +390,9 @@ mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15e
 
 # The search filter dropdowns (Country, Speaker, Type, Year) and the phone "Filters" button are hidden for now;
 # the category pills in the header still filter. Set "show_search_filters": true in data/site-config.json to bring them back.
+# The category pills in the header are hidden for now (they stay in the markup). "show_type_pills": true in
+# data/site-config.json brings them back.
+HIDE_PILLS_CSS = "\nheader.site .topnav { display:none !important; }\n"
 HIDE_FILTERS_CSS = "\n#search .pagefind-ui__filter-panel, #search .filters-toggle { display:none !important; }\n"
 
 PAGE_TMPL = """<!doctype html>
@@ -1155,8 +1161,7 @@ window.addEventListener('DOMContentLoaded', () => {{
     }}
     document.getElementById("browse-select").value = type;
     document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
-    // one control drives both the full-text search and the session list
-    ui.triggerFilters(type ? {{ type: [type] }} : {{}});
+    // search always covers every category; choosing one here only changes the list shown below
   }}
 }});
 
@@ -1244,7 +1249,7 @@ def main():
 
     NAV_CORPUS[:] = corpus
     SITE_DIR.mkdir(exist_ok=True)
-    (SITE_DIR / "style.css").write_text(STYLE + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS))
+    (SITE_DIR / "style.css").write_text(STYLE + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
     (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus), "index.html"))
     by_type = {}
     for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
