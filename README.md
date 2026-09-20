@@ -81,6 +81,7 @@ is public:
    switch for `techspressionism/techspressionism-archive` on the GitHub tab.
 2. Cut a GitHub release (e.g. `v0.1`). Zenodo archives that release and
    mints the DOIs; `.zenodo.json` supplies the metadata.
+   Before each release, run `python3 scripts/export-recordings-csv.py` and commit `data/recordings.csv` (every recording with its YouTube address).
 3. Put the concept DOI badge in this README, and replace the
    `[DOI pending Zenodo deposit]` placeholder in `scripts/06-build-site.py`
    (`build_citation`) with the concept DOI, then rebuild the site.

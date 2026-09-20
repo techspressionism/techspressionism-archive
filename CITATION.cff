@@ -3,10 +3,10 @@ message: "If you cite material from this archive, please use the metadata below.
 title: "Techspressionism Video Archive"
 abstract: >-
   A searchable, citable transcript archive of Techspressionism's recorded
-  video: the monthly Techspressionist Salon (running since September 2020),
-  artist interviews, roundtables, and presentations. Transcripts are
-  timestamped, and each segment links to the corresponding moment in the
-  source recording.
+  video: the Techspressionist Salons (running since September 2020), artist
+  interviews, roundtable discussions and artist presentations. Transcripts are
+  machine-generated, may contain errors, and are timestamped on the YouTube
+  video's timeline; citations use the YouTube address of the recording.
 type: dataset
 authors:
   - family-names: Goldberg
