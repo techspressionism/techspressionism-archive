@@ -1,0 +1,3932 @@
+{
+ "Https://chrisbly.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://Monyanikahd.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://allenhirshartist.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://andywauman.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://apocryphabulous.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://arianqalandaran.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://barnettsuskind.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://carlagannis.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://chalda.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://chaneec.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://cindyhawkinsart.com/porfolio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://cynthiadidonato.weebly.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://diogonavarro.com.br": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://djspooky.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://enikoo.com/all-works/creative-coding/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "http://farbrook.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://fineartbycat.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://ghillart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://grantmbrownlow.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://gregorylittle.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://gullahme.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://gxhpainter.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://johnzieman.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://k3ro.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://leeschnaiberg.art": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "http://lotta-stoever.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://lovid.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://markospechlivanos.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://maryboochever.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://mdfedart.com/mfaentry/memsite/index.php?content=portfolio&amp;member=33465": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://michaelpaulukonis.github.io": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://michaelstrevens.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://moonth.tilda.ws/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://morie.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://pollyvelvet.bandcamp.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://qinzanajm.com/index.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "http://rrad.studio": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://salvadorventi.redbubble.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "http://seungjinlee.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://shellebarron.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://snowyunxuefu.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://soynando.art/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://tommymintz.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://vakula.eu/home-en.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "http://verostko.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://www.barbaranati.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.brandongellis.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.carpenterhillstudios.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.carterhodgkin.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.cristinainciarte.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://www.danielaedstrom.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.danwelden.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200 (via redirect)",
+  "status": "ok"
+ },
+ "http://www.deannsteinhasinoff.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://www.dianadeavila.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.digitalzaza.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.dm2graphics.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.dombarra.art/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.evadavidova.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.expressinabstract.net/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://www.gabrieljshuldiner.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.galinashevchenkosequences.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.heidiboisvert.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.highinfiberart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.hollygordonphotographer.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.instagram.com/pittsburghpanoramas": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "http://www.interstitch.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.kotlinski.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.leemusgrave.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.liquidoranges.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.marjanandaroodi.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "http://www.ninasobell.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.shamikalovesink.com/versions-of-the-same-song": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "http://www.soundandvision.cc/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.stephaniesydney.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.susandetroy.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.suzanneanker.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.systaime.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.wm3studio.com/portfolio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "http://www.yeohyunahn.com/": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific",
+  "status": "broken"
+ },
+ "https://500px.com/p/romi227/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://Christopherpsloan.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://Instagram.com/adellelin": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://Instagram.com/lilykostrzewa": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://JRosenauStudio.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://Lclmachine.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://Sashastiles.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://StrangeCarrots.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://Subcisco.com": {
+  "checked": "2026-09-20",
+  "detail": "timed out",
+  "status": "broken"
+ },
+ "https://Www.suebeyer.com.au": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://aaaseed.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://aaronovak.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://adelfinocorino.com/home.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://adelleninja.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://adtumulumarts.wordpress.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://alankinnard.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://amalgam3d.xyz": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://amanrasouli.art/works": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://andreabonaceto.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://andreaferrigno.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://andrewreach.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://annahamer.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://annespalter.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://annettebucknerhall.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://arnautasies.cargo.site": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://art.thetechmargin.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://artistikoi.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://artistken.wixsite.com/artistken": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://artpal.com/artdose": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://barbararehbehn.de": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://beautardyartist.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://becopro.art.br/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://bentritt.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://bit.ly/38rIhMg": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://bonkstraa.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 65] No route to host",
+  "status": "broken"
+ },
+ "https://burakdirgen.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://cbrubin.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://cfanelli.myportfolio.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://claudiahart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://claytoncampbell.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://cliveholden.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://crisballesteros.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://d-lela.art/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://danielmckleinfeld.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://davekeyart.artstation.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://davidguerrero.art/": {
+  "checked": "2026-09-20",
+  "detail": "EOF occurred in violation of protocol (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://distorteddreams.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://divinebradley.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://doodleslice.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://draincain.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://echeverry.tv/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://ellenwiener.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://emmaannetheartist.com/home.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://ereyes.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://gartelmuseum.weebly.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://github.com/BenjaminBradshaw": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://gopakumar.in/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://gregorypatrickgarvey.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://gurkanmihci.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://harveybirnbaum.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://hernanroperto.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://icallmybackpackhomecom.wordpress.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://ilknur.studio": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://instagram.com/_art_dose/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/_ng_v": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/_rrad.studio_": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/_seanmick/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/aaronovak/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/absid.3dm/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/aceslowman/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/ad.tumulum": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/adariiine": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/adelfinocorino/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/afroozpartovi/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/akiraohiso/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/alankinnardart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/algeventual": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://instagram.com/amalgam3d/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/andrew.reach": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/andykotlinski": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/annahamer/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/annettebucknerhall/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/annhubbardmcintyre/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/artbybautista/": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://instagram.com/artscarriemakenna/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/axidrawn": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/barbara_l_kahn": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/brandongellis/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/bvsskxy/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/carol.hunt.art": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/cdw_nstgrm/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/chaldamaloffdigitalartist": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/chris.kaczmarek/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/christina_werkmeister_design": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/claytoncampbellart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/cryptogrotto/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/data_m0sh/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/deann_stein_hasinoff_art": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/digital_abstract": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/dj.monetise": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/djkero/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/draincain/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/elena.lipkowski/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/elham.nikoo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/emil.petruncio": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/emilybschilling/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/fahnjim": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/fineartbycat": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/francesco.serenrosso/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/generattiv": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/giovannasun/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/grant.m.brownlow/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/h_evolved_": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/hochmanbrown": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/ijwbaa/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/incaiko.art": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/inkings_by_rt": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/instantgalina/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/iskrafineart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/ivonatau": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/j.o.t.a.e.l.e/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/jacque_rosenau": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/jim.kenney/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/johnwaiblingerart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/joolz8000/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/josh_dutt_design/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/katevansartist19/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/kathleendobrowsky/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/kenneth_ian_rogers": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/kerrycmitchell": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/kikikaboodle/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/kralik_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/lechatn0ir__/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/lesliekell/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/levl9.design/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/lotta_stoever/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/lscadron_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/m7pointer": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/machine.arm/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mahnazrasouli_": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/malavikamandal": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mang0c0lors": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/marcmaurer.eth/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/mariodemeyer_abstract": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/markaklink/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/marlowd.j.shami": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/matrukashermanphotography/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/maxdali_kamillakulova": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/meltdownlove/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mike_n5/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mikefarmerart/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/monikamihaly": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/monoglyph1/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/moonth.av/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mrobertmarkovich/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/mswalk5art": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://instagram.com/mulklha": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/n3t4_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/natahening_putra": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/nimanilian": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/nitisharora01": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/nnatalia.recalde": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/payasaart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/ply300": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/puguess": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/rauhauser/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/reed2hearne/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/richard_e_further_out": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/richard_mcwherter/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/rmielen": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/romivoorhies/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/salvador_venti/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/sandrapipkenphotography": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/seeknow.seeknow/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/sepehr.omidvaar/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/shes_excited": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/smysnbrg/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/stcyrbrian/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/sturnerjones/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/subcisco": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/susanhuang0501": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/susanlynndetroy_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/tee.n.bee": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/tgalbiati/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/therealemmaj/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/tommymintznyc/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/verbonnet/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/vernedalights/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/vkidmose": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/wm3.studio": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/wordsbyandrew/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://instagram.com/yugezhou/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/yuiaz_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/zachzaitzeff/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://instagram.com/zaino711/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://iphoneartgirl.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://ivonatau.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://jawekkwakman.exto.nl/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://joannasteidle.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://judith-jacobs.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://juliemciver.myportfolio.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://justanassembler.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://jylart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://kalamint.io/user/prince_magnolia": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://kerrycmitchell.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://kimgruk.blogspot.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://kleinesamson.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://lamentmaterial.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://laurenwoodsart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://leeday.photography": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://lesliekell.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://lilykostrzewa.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/ErinKo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/amirkarim.i": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/andreoliveira_cebola": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/arcami/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200 (via redirect)",
+  "status": "ok"
+ },
+ "https://linktr.ee/dubwoman": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://linktr.ee/gaijingraphics": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/masayuki_azegami": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/mchx_": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/saharmoussavi": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/terralenscreations": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/tomaz.favilla": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://linktr.ee/visheh": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://lisascadron.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://lucikkralikova.wixsite.com/portfolio": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://michaelwoodruff.co.uk/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://mrobertmarkovich.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://mythicalmuse.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://nataliarecalde.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://negativityness.com": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://new.express.adobe.com/webpage/MlC4xSyc9pdB5": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://noragibsonvisualist.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://oneglyph.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://ostachowski.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://phrancism.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://pierstefanobellani.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://postmastersblockchain.com/artists/lovid/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://puguess.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://reedhearne.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://renatajaniszewska.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://rnd.team/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://robertmielenhausen.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://roccioletti.com/2020/11/20/a-lunga-conservazione-vuoto/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://roynicholson.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://rozdimon.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sandrallano-mejia.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sandwiche.me/maxdali_kamillakulova": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sarahsong.site/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sgtslaughtermelon.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sherrykarver.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://slavnedev.weebly.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://soaad.indiana.edu/faculty/directory/dolinsky-margaret.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://soundcloud.com/object_a0/tracks": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://soundcloud.com/vapah": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://stevemiller.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://superrare.co/aspalter7": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://surr.ai/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://sva.ccnsite.com/AnsonSeeno/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://tassneen.myportfolio.com/work": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://thisiswamoo.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://timcie.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://tintin23xartist.mystrikingly.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://townsendstreetgallery.com/david-bloom": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://treeskulltown.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://wannabelabs.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://warpcast.com/cariannshimsham": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://warpcast.com/joeyzaza": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://web.archive.org/web/20070502071752/http://www.geocities.com/cdavewesterman/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://wlaszyn.studio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://wordsbyandrew.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.AndyThomas.com.au": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.JoshuaDuttweiler.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.LucyBoydWilson.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.TinaGalbiati.com": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://www.aceslowman.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.acevedomedia.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.adriannewortzel.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.ahmedesh.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.algeventual.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.alphasight.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.anamcarastudiogallery.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.andythomas.com.au/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.annetteweintraub.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.annmcintyre.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.annrshapiro.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.arielbaronrobbins.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.artandhonor.com/artwork.html": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.artbybautista.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.artfullyjonesy.us": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.artscojo.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.artstation.com/sepehromidvaar/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.artstudio-ernest.de/": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://www.artsy.net/track-16-gallery/artist/simone-gad": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.aseemsuri.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.audio-optio.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.aurorartstudio.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.barbarakahn.art": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://www.behance.net/FiveTimesNo": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.behance.net/atnehmohammadshahi": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.behance.net/bradley_rinke": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.ben-red.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.bethgiacummo.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.borges.studio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.brendaoart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.brianstcyr.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.cariannshimsham.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.carolinedelgiudice.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.caroramonde.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.cassiopeus.com": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, c",
+  "status": "broken"
+ },
+ "https://www.cbrubin.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.chriskaczmarek.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.chrismanfield.com/dark": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.christinawerkmeister.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.colman.net": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.complexityart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.daltonportella.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.danmcgarrah.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.darcygerbarg.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.davobradleyart.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.dnartists.com": {
+  "checked": "2026-09-20",
+  "detail": "EOF occurred in violation of protocol (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://www.dugrenier.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.eegun.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.elenalipkowski.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.elhelouzouhair.co/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.emergingartistplatform.com/kerihaskell": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://www.erinkostudios.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.eyewithwings.net/nechvatal/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.fahn.com.au/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.flickr.com/photos/legenerateur/albums/72157682842129125": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.francenelevinsondigitalart.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.frankgillette.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.fxhash.xyz/u/joey%20zaza": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 402",
+  "status": "broken"
+ },
+ "https://www.goldberg.art/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.gregandmegstudios.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.guillermoarismendi.com/": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expi",
+  "status": "broken"
+ },
+ "https://www.hharrisphoto.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.hochmanbrown.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.iikkamattihauru.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.ikatch.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://www.infinitemantra.ca/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.instagram.com/999prince_magnolia999/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/Sandra_llano_mejia": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/Visheh_xyz": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/Yitingintech": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/__st_rivera__/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/_dianadeavila/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/_dirgen/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/_mandalf/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/_nightshining/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/a.i.gardening/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/adriannewortzel/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ahmed.eshhh/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/alfa_body/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/alienartificialintelligence/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/amanrasouli_": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/andreabonac/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/andreoliveira.cebola/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/andythomasartist/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/andywauman/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/angela_nikolau/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/annespalter/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/annetteweintraub/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/antoni_dimitriou/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/apocryphabulous/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/arianvisions/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/arielbaronrobbinsart/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/artbyfuhst/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artfullyjonesy/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artistdanilova/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artistken1981/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artscojo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artstudio_ernest/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artsyradiology/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/artzgrit/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/asal.bassir/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/aseemsuri": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/atneh_/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/audio.optio/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/aurora_innconnu/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/barbararehbehn/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/beautardyartist/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/beebeegiacummo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/beerkus/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/bennnnnnnnn9/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/benred089/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/bentritt/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/bernard_bousquet_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/bill.stellarfire//": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/bjrfractalwork/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/bonkstraa/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/bppchourmo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/brendaoelbaum/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/burwell_design/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/buuutcher/": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://www.instagram.com/c0rrup73d_l0v3/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/caorline/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/carlagannis/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/caro.artgallery/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/carolinakleinesamson/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/carterhodgkin/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cassiopeus/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/catmac_visuals/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cbrubinstudio/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cdidonato_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/chaneec_studio/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/cherzarts/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cindy_hawkins_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/claudhart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cliveholden/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/codingp5/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/colingoldberg/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/colman.jones/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/colororangeart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/contemporarymar/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cristina.ballesteros.art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/cristina_inciarte": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/culverhousebryce/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/d14_n90/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/dalton.nft/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/daniel.pelletier.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/danmcgarrahart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/davekey_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/davidguerreroart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/davobradleyart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/delta_na/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/dianefenster/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/diogo_navarro/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/divinebradley/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/djspooky_official/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/dlelalombard/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/domenicodombarra/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/doodleslice/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/duality.live/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/edotheartist/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/eegun_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/eklevy1/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/ellenwienerart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ephemera143/": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://www.instagram.com/ereeyees/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/erinkostudios/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ershadfatahian/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/evadavidovany/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/eyoofficiel/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/felix_rothschild/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/fivetimesno/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/fluidbodiez/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/flying_carpet__/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/fmotiondesign/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/fn_arthletiks/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/fractal_ayman": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/francenelevinson/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gabrieljshuldiner/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gaijingraphics/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/garabatospr/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gary_gxhpainter/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/geodesic.doom/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gerbarg/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ghazaleh.Seidabadi/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ghillart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/golchehrehsadeghi/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gopakumarr/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gorgeous.banana/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gracereb_art_imagery/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/greg_meg_studios/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gregory_patrick_garvey": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gregoryalittle/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/guillermo_arismendi/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/gurkanmarufmihci/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hamptonsdroneimages/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/handcraft4.0/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/haydi.graph/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/haydiii.iii/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hernanroperto/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hjboisvert": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hoanowe/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/holly.gordon/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hopes_prints/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/howardharrisphotoart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/hubert_solczynski/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/iikkamattihauru/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ikatch_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ilknur.demirkoparan/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/infinite_mantra/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/iphoneartgirl/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/itslordof/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/iualwaysworking/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/janco_verduin/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/janetbiggs1/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/janisbrandenburg/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/jbyrne2d/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/jfishburnartworks/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/joanna.wlaszyn/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/josephnechvatal/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/judithjacobs_pics": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/juliejmciver/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/justanassembler/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/jylart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/jyp_photographie/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/jzlabs/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/kerihaskellart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/kerrieoleary.ie/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/klara_kopi/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/kokats__/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/labelsonhumans/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lafleurartworks/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lamentmaterial/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/laurasplan/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/laurencegartel/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/laurenwoodsart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/leeday.photography": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/leemusgrave_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/leeschnaiberg/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/leilapintonyc": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lighthousephotographytn/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/local.machine/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lorinroser/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lostpixels": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/louiseturquoise": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lovidlovid/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/lucyboydwilson/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ludsinart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/m.i.arca/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/m_e__t___a/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/maa_aaaseed/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/macpremo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/maj.oof/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/marjanandaroudi/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/maryannstrandell/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/maryboochever/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/masayuki_azegami/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/matej_vakula/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/mathiaskrissmer/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/mchx_______/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/melsrun2000": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/michaelpaulukonis/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/michphoto/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/mihal_esmaeili/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/mirrored_oasis/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/mlodotart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/momo_x_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/monernism/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/mpp_digital_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/nectarmotion/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/neginete.art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/nexusmind_designs/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/nft_asra_khani/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/nina_sobell/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ninayankowitz/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/officialbarnettsuskind/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/olga.kisseleva/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/oliversees/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/osiris_munir_thepainter": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/oz_vanrosen/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ozorth": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/patlichty_art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/philormi34_photographe/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/phrancism.art/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/pixelsanctuary/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/plastovarts/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/please_look_at_the_pictures/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/qariaqan/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/qinza1/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/rafaeldraga/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/randimatushevitzart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/reese_liquidoranges/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/reese_schroeder_artist": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/renatajiji_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/retech_org/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/rezavo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/rnd.team.studio/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/robertdugrenier/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/robertprataartist/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/robertripps/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/rollermt/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/roughconcepts/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/roynicholsonstudio/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/rozolution/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/saharmoussavi_/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/samnicoleart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sanazmiss/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sarahsxr/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sashastiles/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/scarletmotiff/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sci_fi_mascara": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/scottopp/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/sechevere/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/seungjin888/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sgt_slaughtermelon/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/shajankumar": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/shapiro.ann/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sherrykarver/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/shirintash77/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/simonegadarts/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/skydeas": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/skywaterr/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/slavnedev/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/snowyunxuefu/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/soleymanshah/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/soulincode/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/soy___nando/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/stephaniesydneyart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/stephen_c.art/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/stevemillerdotcom/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/strangecarrotsart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/stuka.ben/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/sudorootla/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/sue_beyer/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/surrai_art_collectibles": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/syntheticdeployment": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/systaime/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/tachyon.ao/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/taliajdudleyart/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/terra_lens/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/the_abstract_gardener/#": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/theswinburnecomplex/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/thetechmargin": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/thisiswamoo/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/tikoi/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/timcierpiszewski": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/tomaz.favilla/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/treeskulltown": {
+  "checked": "2026-09-20",
+  "detail": "could not be tested",
+  "status": "unverified"
+ },
+ "https://www.instagram.com/turboblack777/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/vaguelytherapeutic/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/vartist/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/victoracevedo347/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/viderestudio/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/vjfuzzybastard/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/vytas_gaizutis/": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.instagram.com/werpi279/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/x_i_n_e/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/x_new_worlds": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/xmichaelrees/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/ybasultor/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/zabarvers/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/zeitgeistmode/": {
+  "checked": "2026-09-20",
+  "detail": "profile found",
+  "status": "ok"
+ },
+ "https://www.instagram.com/zhr.hlu": {
+  "checked": "2026-09-20",
+  "detail": "profile not found",
+  "status": "broken"
+ },
+ "https://www.iraupin.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.isabellearvers.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.iskrafineart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jacquerosenau.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jamesbyrnedrawings.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jancoverduin.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.janswinburne.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jasonting.studio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jbiggs.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.jenniferzaylea.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.johnwaiblinger.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.juliandepumaart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.katevans.art": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.kerrieoleary.ie/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.krissmer.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.labelsonhumans.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.lafleurartworks.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.laurasplan.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.leilapinto.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.lensculture.com/diane-fenster": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.lighthousephotographytn.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.lostpixels.io/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.lucyboydwilson.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.macpremo.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.malavikamandalandrew.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.markklinkart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.marlowshami.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.maryannstrandell.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.mepfa.me": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.michaelfarmerart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.michaelpierreprice.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.michaelrees.org/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.michphoto.com": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certific",
+  "status": "broken"
+ },
+ "https://www.mythicalmuseum.net/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.neginete.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://www.neginete.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://www.night-shining.com/": {
+  "checked": "2026-09-20",
+  "detail": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)",
+  "status": "broken"
+ },
+ "https://www.nimanilian.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.ninayankowitz.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.nyseikatsu.com/entertainment/03/2023/37851/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.ohiso.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.openprocessing.org/user/118807/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.paisajesinfinitos.net": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.patlichty.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.patreon.com/elleclayton": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.payasaart.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.radiology-art.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.randimatushevitz.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.rebeccatombaugh.com/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.redbubble.com/people/hopesprints/shop?asc=u": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 403 (refuses automated requests)",
+  "status": "unverified"
+ },
+ "https://www.richardmcwherter.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.saatchiart.com/antonis_dimitriou": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 404",
+  "status": "broken"
+ },
+ "https://www.saatchiart.com/oliverpeterson": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.samnicoleart.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.sandrapipkenphotography.com": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://www.seanmick.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.shes-excited.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.sic.studio/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.stellarfire.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.stephenpare.art/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.suebeyer.com.au/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.taliajdudley.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.vanrosen.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.viderestudio.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.wisefishworld.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://www.yitingliu.com/": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://xnewworlds.xyz/": {
+  "checked": "2026-09-20",
+  "detail": "[Errno 8] nodename nor servname provided, or not known",
+  "status": "broken"
+ },
+ "https://y.at/%E2%9B%93%EF%B8%8F%F0%9F%A6%84%F0%9F%91%BE%E2%9B%93%EF%B8%8F": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://yugezhou.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ },
+ "https://zacharyzaitzeff.com": {
+  "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok"
+ }
+}
