@@ -144,9 +144,21 @@ def hhmmss(seconds):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
-NAV_LINKS = "".join(
-    f'<a href="index.html?type={info["label"]}">{info["plural"]}</a>' for info in TYPES.values())
-TOPNAV = f'<nav class="topnav" aria-label="Recording types">{NAV_LINKS}</nav>'
+NAV_CORPUS = []      # set in main(): the header pills show a count per type
+
+
+def build_topnav(corpus, active=""):
+    """The type pills in the header, with counts. On the home page they filter in place (script below);
+    on every other page they are links to the home page filtered to that type."""
+    def chip(label, text, n, href):
+        return (f'<a class="chip" href="{href}" data-type="{label}" aria-current="{"true" if label == active else "false"}">'
+                f'{text}<span class="n">{n}</span></a>')
+    chips = [chip("", "All", len(corpus), "index.html")]
+    for info in TYPES.values():
+        n = sum(1 for x in corpus if TYPES[x.get("type", "salon")]["label"] == info["label"])
+        if n:
+            chips.append(chip(info["label"], info["plural"], n, f'index.html?type={info["label"]}'))
+    return f'<nav class="topnav" id="typebar" aria-label="Recording types">{"".join(chips)}</nav>'
 
 STYLE = """
 /* Type and colours follow techspressionism.com: headings Kanit italic, body Lato 17px black, links red and never underlined */
@@ -167,13 +179,16 @@ header.site .wrap { container-type:inline-size; }
 @media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (15.4 = its length in em, plus a little slack) */
   header.site .wrap { row-gap:.1rem; }
   header.site strong { line-height:1.1; }
-  header.site .topnav { flex:1 1 100%; justify-content:space-between; font-size:.85rem; gap:.2rem .5rem; flex-wrap:nowrap; }   /* evenly spread, first flush left, last flush right */
+  header.site .topnav { flex:1 1 100%; justify-content:center; margin-top:.4rem; }   /* the pills fill the width, centred, in rows */
+  header.site .topnav a.chip { flex:1 1 auto; text-align:center; }
   header.site .wrap > .d { display:none; }
   header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 15.4); line-height:1.2; }
 }
-.topnav { display:flex; flex-wrap:wrap; gap:.3rem 1.1rem; font-size:.95rem; }
-.topnav a { color:var(--accent); font-weight:700; }
-.topnav a:hover { color:#d60000; }
+.topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
+.topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; color:var(--fg); }
+.topnav a.chip:hover { border-color:var(--accent); color:var(--accent); }
+.topnav a.chip[aria-current="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
+.topnav .n { opacity:.7; font-size:.8em; margin-left:.3rem; }
 header.site .hsearch { margin:0 0 0 auto; }
 header.site .hsearch input { font:inherit; font-size:.9rem; width:15rem; max-width:100%; padding:.3rem .7rem; border:1px solid var(--line); border-radius:1rem; background:var(--bg); color:var(--fg); }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
@@ -273,15 +288,6 @@ details.about .intro { color:var(--muted); }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
 .cite .doi { color:var(--muted); }
-.typebar { display:flex; flex-wrap:wrap; gap:.4rem; margin:1rem 0 .6rem; }
-.typebar button { font:inherit; font-size:.9rem; padding:.3rem .85rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; cursor:pointer; color:var(--fg); }
-.typebar button:hover { border-color:var(--accent); }
-.typebar button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
-.typebar .n { opacity:.7; font-size:.8em; margin-left:.25rem; }
-@media (max-width:40rem) {   /* phones: the type buttons fill the width, centred, in two rows */
-  .typebar { justify-content:center; }
-  .typebar button { flex:1 1 auto; text-align:center; }
-}
 .sessions-group h3 { margin:1.6rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; }
 """
 
@@ -594,7 +600,7 @@ def build_session_page(entry, siblings=()):
         date_word="published" if date_is_estimate(entry) else "recorded",
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
-        topnav=TOPNAV,
+        topnav=build_topnav(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -652,7 +658,6 @@ Built in Python with Claude Code.</p></details>
   else try {{ sessionStorage.setItem("tvaSeen", "1"); }} catch (e) {{}}
 }})();
 </script>
-<div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
 const CITATION_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
@@ -750,16 +755,18 @@ window.addEventListener('DOMContentLoaded', () => {{
   if (q) ui.triggerSearch(q);
 
   document.getElementById("typebar").addEventListener("click", (ev) => {{
-    const btn = ev.target.closest("button[data-type]");
-    if (btn) {{
+    const btn = ev.target.closest("a[data-type]");
+    if (btn && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey) {{
+      ev.preventDefault();
       setType(btn.dataset.type);
+      history.replaceState(null, "", btn.dataset.type ? "?type=" + encodeURIComponent(btn.dataset.type) : location.pathname);
       document.getElementById("intro-block").hidden = !!btn.dataset.type;   // already seen: choosing a category hides the intro, "All" brings it back
     }}
   }});
 
   function setType(type) {{
-    for (const b of document.querySelectorAll("#typebar button")) {{
-      b.setAttribute("aria-pressed", String(b.dataset.type === type));
+    for (const b of document.querySelectorAll("#typebar a[data-type]")) {{
+      b.setAttribute("aria-current", String(b.dataset.type === type));
     }}
     for (const g of document.querySelectorAll(".sessions-group")) {{
       g.hidden = !!type && g.dataset.type !== type;
@@ -793,9 +800,8 @@ document.addEventListener('click', (e) => {{
 
 
 def build_index(corpus):
-    groups, buttons = [], []
+    groups = []
     type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
-    buttons.append(f'<button type="button" data-type="" aria-pressed="true">All<span class="n">{len(corpus)}</span></button>')
     for t, info in type_labels:
         entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=lambda x: -x["number"])
         rows = []
@@ -809,9 +815,6 @@ def build_index(corpus):
                 f'<span class="num">#{entry["number"]}</span> {e(topic)}</a>{by} '
                 f'<span class="d">{e(when)}</span></li>'
             )
-        buttons.append(
-            f'<button type="button" data-type="{e(info["label"])}" aria-pressed="false">'
-            f'{e(info["plural"])}<span class="n">{len(entries)}</span></button>')
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<h3>{e(info["plural"])}</h3><ul class="sessions">' + "\n".join(rows) + "</ul></section>")
@@ -822,10 +825,9 @@ def build_index(corpus):
         latest_year=latest_year,
         count=len(corpus),
         year_span=f"{years[0]}&ndash;{years[-1]}" if years else "",
-        typebar="".join(buttons),
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
-        topnav=TOPNAV,
+        topnav=build_topnav(corpus, ""),
         pill_svg_js=json.dumps(PILL_SVG),
     )
 
@@ -835,6 +837,7 @@ def main():
     with open(CORPUS_JSON) as f:
         corpus = json.load(f)
 
+    NAV_CORPUS[:] = corpus
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE)
     (SITE_DIR / "index.html").write_text(add_robots(build_index(corpus)))
