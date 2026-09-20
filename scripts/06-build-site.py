@@ -675,7 +675,7 @@ INDEX_TMPL = """<!doctype html>
 <span class="d"><span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}. {hours:,} hours transcribed.</p>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
@@ -683,7 +683,7 @@ a searchable, citable record of what was said in its recorded video. It contains
 and <a href="index.html?type=Presentation">presentations</a>. Search the full text below &mdash; all recordings or just one type &mdash; or browse the list.
 Every result links to the transcript and to the exact moment in the recording. Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may
 contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
-Built in Python with Claude Code.</p></details>
+Built in Python with Claude Code. {hours:,} hours transcribed and indexed.</p></details>
 </div>
 <script>
 (function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
