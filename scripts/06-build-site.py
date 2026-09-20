@@ -30,6 +30,7 @@ from urllib.parse import urlencode
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib_sentences import split_sentences
+import lib_speakers
 from lib_speakers import is_not_speaker
 from lib_media import TYPES, label, slug  # noqa: E402
 import lib_seo  # noqa: E402
@@ -1291,6 +1292,9 @@ def person_key(name):
     return re.sub(r"\s+", " ", re.sub(r"[^a-z ]", " ", s)).strip()
 
 
+NO_ARTIST_PAGE = {"chatgpt"}        # a voice heard in a recording that is not a person with an artist page
+
+
 def load_people(corpus):
     """People from data/people.json plus what the recordings say about them: where they speak (identified
     speaker only) and where others name them (whole full name, in a passage whose speaker is identified)."""
@@ -1318,14 +1322,16 @@ def load_people(corpus):
             sp = seg.get("speaker")
             if not sp or is_not_speaker(sp):
                 continue
-            p = PERSON_BY_NORM.get(person_key(sp))
-            if p is None:
-                continue
-            key = (ent.get("type", "salon"), ent["number"])
-            r = p["speaks"].setdefault(key, {"ent": ent, "turns": 0, "words": 0, "first": seg["start"]})
-            r["turns"] += 1
-            r["words"] += len(seg["text"].split())
-            r["first"] = min(r["first"], seg["start"])
+            # a joint label ("A & B", "A / B and C") counts for each of the people it names (lib_speakers DUOS)
+            for who in lib_speakers.DUOS.get(re.sub(r"\s+", " ", sp).strip().lower()) or [sp]:
+                p = PERSON_BY_NORM.get(person_key(who))
+                if p is None or person_key(who) in NO_ARTIST_PAGE:
+                    continue
+                key = (ent.get("type", "salon"), ent["number"])
+                r = p["speaks"].setdefault(key, {"ent": ent, "turns": 0, "words": 0, "first": seg["start"]})
+                r["turns"] += 1
+                r["words"] += len(seg["text"].split())
+                r["first"] = min(r["first"], seg["start"])
     # where others name them
     names = {}
     for p in PEOPLE:

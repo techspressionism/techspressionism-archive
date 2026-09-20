@@ -19,8 +19,8 @@
   "organization_name": "Techspressionism",
   "organization_url": "https://techspressionism.com/",
   "youtube_channel_url": "https://www.youtube.com/channel/UCIu-35fUEUTDDhRqa5z6zXQ",
-  "license_url": "",
-  "license_name": "",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_name": "CC BY 4.0",
   "zenodo_doi": "",
   "allow_ai_training_crawlers": true
 }
