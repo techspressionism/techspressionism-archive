@@ -982,6 +982,15 @@ async function enhanceCitations(root) {{
   }}
 }}
 
+// Search matches WHOLE WORDS. The search engine's default also matches word beginnings and word stems, so "hat" finds
+// hate, hated, hatch, hatred ...; putting each word in quotes makes it exact ("hat" finds hat and hats). Words the
+// visitor already put in quotes (a phrase) are left as typed.
+function exactQuery(text) {{
+  const v = text.trim();
+  if (!v || v.indexOf('"') >= 0) return v;
+  return v.split(/\s+/).map((w) => '"' + w + '"').join(" ");
+}}
+
 function pillTime(seconds) {{
   seconds = Math.floor(seconds);
   const h = Math.floor(seconds / 3600), m = Math.floor(seconds % 3600 / 60), s = seconds % 60;
@@ -1034,7 +1043,7 @@ window.addEventListener('DOMContentLoaded', () => {{
   const params = new URLSearchParams(location.search);
   setType(params.get("type") || "");
   const q = params.get("q");
-  if (q) ui.triggerSearch(q);
+  if (q) ui.triggerSearch(exactQuery(q));
 
   // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
   const searchBox = document.getElementById("search");
@@ -1115,7 +1124,7 @@ window.addEventListener('DOMContentLoaded', () => {{
   headerInput.addEventListener("input", () => {{
     clearTimeout(searchTimer);
     document.body.classList.toggle("searching", !!headerInput.value.trim());
-    searchTimer = setTimeout(() => ui.triggerSearch(headerInput.value.trim()), 150);
+    searchTimer = setTimeout(() => ui.triggerSearch(exactQuery(headerInput.value)), 150);
   }});
   if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
 
