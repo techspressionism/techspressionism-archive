@@ -280,7 +280,7 @@ Technically, in my mind, I think he's the first expressionist.
 
 ## Helen A. Harrison [59:40](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3580s)
 
-Well, I can't say I agree with you, because I think Warhol… if you take him at his word, which, of course, many people did not, because they didn't take him very seriously, he said he just wanted to be famous. And so whatever… it wasn't about expression. Remember, this is tech-spressionism, where expression is paramount. It is actually about making images that sell well. And, of course, he really… most of his work, the work that was at the Whitney, the really important work was down in the gallery by the entrance, sort of off to the side where most people missed it, was his portraits.
+Well, I can't say I agree with you, because I think Warhol… if you take him at his word, which, of course, many people did not, because they didn't take him very seriously, he said he just wanted to be famous. And so whatever… it wasn't about expression. Remember, this is Techspressionism, where expression is paramount. It is actually about making images that sell well. And, of course, he really… most of his work, the work that was at the Whitney, the really important work was down in the gallery by the entrance, sort of off to the side where most people missed it, was his portraits.
 
 ## Oz Van Rosen [01:00:22](https://www.youtube.com/watch?v=lVI5UE-AD9E&t=3622s)
 

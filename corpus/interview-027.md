@@ -41,7 +41,7 @@ Amazing.
 
 ## cari ann shim sham [03:37](https://www.youtube.com/watch?v=Jj66toeEM0Q&t=217s)
 
-Yes, and started attending them. And we were thinking about what our next exhibition would be. And we're like, Hey, you know. Why don't we? Why don't we work with the techspretionists and Create A partnership and also Onboard, this community, some of which are already on the blockchain, but really to onboard them as a group and say, let's look at these Artists, and what they're doing, because what the Techspressionist Are doing is very similar to what we're doing in The Ways of community building and gathering people from all around the world Through the online.
+Yes, and started attending them. And we were thinking about what our next exhibition would be. And we're like, Hey, you know. Why don't we? Why don't we work with the Techspressionists and Create A partnership and also Onboard, this community, some of which are already on the blockchain, but really to onboard them as a group and say, let's look at these Artists, and what they're doing, because what the Techspressionist Are doing is very similar to what we're doing in The Ways of community building and gathering people from all around the world Through the online.
 
 You know. Infrastructure of the web.
 

@@ -36,7 +36,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2s)
 
-Hi everyone, my name is Colin Goldberg, and I'm a Techspressionist. Today is December 4th, 2025, and we're here at the Techspressionist Salon number 101. This is an open call, sort of situation, or open mic, as we like to call it, where artists can just jump in and share what they're doing. It could be, like a planned presentation, or just kind of an impromptu thing. So we have a bunch of artists in the lineup. Right now, we're gonna have, Renata Janiszewska start us off, and then we have Bill Rogers.
+Hi everyone, my name is Colin Goldberg, and I'm a Techspressionist. Today is December 4th, 2025, and we're here at the Techspressionist Salon Number 101. This is an open call, sort of situation, or open mic, as we like to call it, where artists can just jump in and share what they're doing. It could be, like a planned presentation, or just kind of an impromptu thing. So we have a bunch of artists in the lineup. Right now, we're gonna have, Renata Janiszewska start us off, and then we have Bill Rogers.
 
 We have Michael Pierre Price. Clayton Campbell, Tommy Mintz, and Sahar Moussavi. And then, if we have more time, if there's anyone that would like to present, after this current lineup, you know, just, put up the raise hand tool and, you know, start to add people to the queue. So, before we jump into the first presentation, if everybody who is not presenting could please Please mute yourselves.
 

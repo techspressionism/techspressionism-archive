@@ -45,7 +45,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:00](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=0s)
 
-And. Hi this is Colin Goldberg, and welcome to the Techressionist salon number 81. Today is Thursday, April fourth, 2024. And today's theme is open studios, which is basically Kind of open ended sharing anybody who would like to share their work. Is welcome to do so At this point we have 4 p. 5 people in the lineup. And each share is gonna be approximately 5 min or so you're welcome to share your screen and show your work. Keep in mind that if you do wanna share audio, you have to tick the box to share computer audio. When you start before you start your screen share.
+And. Hi this is Colin Goldberg, and welcome to the Techspressionist Salon Number 81. Today is Thursday, April fourth, 2024. And today's theme is open studios, which is basically Kind of open ended sharing anybody who would like to share their work. Is welcome to do so At this point we have 4 p. 5 people in the lineup. And each share is gonna be approximately 5 min or so you're welcome to share your screen and show your work. Keep in mind that if you do wanna share audio, you have to tick the box to share computer audio. When you start before you start your screen share.
 
 So Without further ado, I will get us started. And seems like the raise hand thing is not. Completely working for some reason. But I do. I am taking some Notes of a list. So if anyone who would like to to share. Wants to just kind of jump in after we have Michael Woodruff, Michael Price, Cynthia Beth Rubin, Tommy Mintz, and Susan Detroy. So far the line up, so We'll get started with Michael Woodruff and go ahead, and if you're anyone that is not sharing, please mute yourselves also.
 

@@ -193,3 +193,40 @@ def correct_text(text, session, artists, vocab_terms, session_number, cue_start,
     text = correct_names_in_text(text, strong_prior, STRONG_PRIOR_AUTO, STRONG_PRIOR_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=True, known_good=known_good)
     text = correct_names_in_text(text, index_names, INDEX_AUTO, INDEX_REVIEW, session_number, cue_start, review_rows, corrections, single_token_auto_ok=False, known_good=known_good)
     return text, n
+
+
+# ---------------------------------------------------------------------------------------------------------------
+# House style rules that apply to EVERY transcript, now and in future (Colin, 20 September 2026: "a rule forever").
+#   1. Any misspelling of "Techspressionism" / "Techspressionist" (Techressionist, Techspressism, Techpressionist ...)
+#      is corrected to the right word. A word is treated as a misspelling when it starts with "Tech"/"Tex"/"Tec",
+#      ends in -ism / -ist (or their plurals), and is at least 85% similar to the correct word.
+#   2. "Salon" is capitalized when it follows "Techspressionist" ("Techspressionist Salon").
+#   3. "Number" is capitalized when it follows "Techspressionist Salon" ("Techspressionist Salon Number 81").
+# Plural "salons" and other uses of "salon" are left alone.
+# ---------------------------------------------------------------------------------------------------------------
+from difflib import SequenceMatcher as _SM
+
+_TECH_TARGET = {"ism": "Techspressionism", "ist": "Techspressionist"}
+_TECH_WORD = re.compile(r"\b[Tt][A-Za-z-]{7,21}(?:ism|ist)s?\b")
+
+
+def fix_techspressionism(text):
+    def repl(m):
+        word = m.group(0)
+        core = word.lower()
+        plural = core.endswith(("ists", "isms"))
+        stem = core[:-1] if plural else core
+        canon = _TECH_TARGET.get(stem[-3:])
+        if not canon or not stem.startswith(("tech", "tex", "tec")):
+            return word
+        if stem == canon.lower() or _SM(None, stem.replace("-", ""), canon.lower()).ratio() >= 0.85:
+            return canon + ("s" if plural else "")
+        return word
+    return _TECH_WORD.sub(repl, text)
+
+
+def apply_style_rules(text):
+    text = fix_techspressionism(text)
+    text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
+    text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
+    return text

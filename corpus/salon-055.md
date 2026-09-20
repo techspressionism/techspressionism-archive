@@ -17,9 +17,9 @@ flags:
 
 ## Unattributed [00:02](https://www.youtube.com/watch?v=sfMxOAC97Yo&t=2s)
 
-All right. Hello, hello, hello, and welcome everyone to our Techspressism virtual salon. The date is the 26th of October, right before Halloween, and things are getting spoopy in some places. I know we've updated our doorbell's ringtone to be like the... I'm not even sure what the name of it is. We looked it up, but it's like box...
+All right. Hello, hello, hello, and welcome everyone to our Techspressionism virtual salon. The date is the 26th of October, right before Halloween, and things are getting spoopy in some places. I know we've updated our doorbell's ringtone to be like the... I'm not even sure what the name of it is. We looked it up, but it's like box...
 
-It's... Yeah, that. So yeah, we're going all out, kind of, but not really. Anyway, joining me is our community, or some of our community of wonderful artists that we have. We have Colin Goldberg, who coined the term Techspressism, and helped that get off, and helped introduce me to all these wonderful people.
+It's... Yeah, that. So yeah, we're going all out, kind of, but not really. Anyway, joining me is our community, or some of our community of wonderful artists that we have. We have Colin Goldberg, who coined the term Techspressionism, and helped that get off, and helped introduce me to all these wonderful people.
 
 We have people like our great wizard. Michael Price over there, and just a bunch of other familiar and some unfamiliar faces that I have not seen before. But yeah, we've been doing this for over 2 years now, and I hope it keeps going for a very long time. And today we have for our discussion, or the way we're our format for today is another open discussion. It is about something that is. Has been circulating the media now for probably about a year, year and a half or so. Or actually, well, I mean it's been circulating for longer than that, but didn't really get to mainstream attention until fairly recently. The grand scheme of things. And that, my dear friends and viewers, is NFTs. The things that people, some people love to hate on. And then other people are literally making their whole person hate on them.
 

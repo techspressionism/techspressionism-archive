@@ -17,7 +17,7 @@ flags:
 
 ## Unattributed [00:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4s)
 
-Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon number, I believe it's 40. Today, we will be doing a show and tell format, which we haven't really done before, but it's basically sort of a revisitation of our early salons where we did sort of like a speed share. And it'll be a show and tell about on the topic of collage and artists are welcome to use the raise hand function in Zoom. And I will, you know, call on people as in the order that the hands are raised. Or, you know, like if you're not comfortable with that, then you can always just wave at me.
+Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon Number, I believe it's 40. Today, we will be doing a show and tell format, which we haven't really done before, but it's basically sort of a revisitation of our early salons where we did sort of like a speed share. And it'll be a show and tell about on the topic of collage and artists are welcome to use the raise hand function in Zoom. And I will, you know, call on people as in the order that the hands are raised. Or, you know, like if you're not comfortable with that, then you can always just wave at me.
 
 But I'm going to first. Hand the mic over to Roz, who has an important announcement about interviews. Thanks, Colin. And I want to welcome someone I invited today who I met at the Parrish Museum last weekend. His name is Ellis Eclipse. And hi, Ellis. I just wanted to welcome you today. I invited him to come to Techspressionism and I'm glad to see him here. Young man working with virtual photography ideas.
 

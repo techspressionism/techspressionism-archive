@@ -17,7 +17,7 @@ flags:
 
 ## Unattributed [00:03](https://www.youtube.com/watch?v=ggbxdDYOEz4&t=3s)
 
-Michael Price, Good morning, afternoon, evening around the world. Today is July 6, 2022. This is the Techspressionist Salon number 47. I'm Michael Price, and I'm hosting today's Salon meeting and wanted to see if Colin Goldberg, who kind of got things started here, had anything to add before we get going. Colin?
+Michael Price, Good morning, afternoon, evening around the world. Today is July 6, 2022. This is the Techspressionist Salon Number 47. I'm Michael Price, and I'm hosting today's Salon meeting and wanted to see if Colin Goldberg, who kind of got things started here, had anything to add before we get going. Colin?
 
 No, I don't think so. I did just want to say again, now that we're recording, thank you to Michael for offering to moderate. And I believe Michael will be on. I will be moderating the next one as well. I will not be present for that one because of family obligation, but the show must go on. So I'll pass the mic back to Michael. All right. So today's theme is materiality, which sounds like a big highfalutin concept, but basically, since we are primarily artists who do, deal with technology and oftentimes in a digital realm that can seem rather ethereal and non material.
 

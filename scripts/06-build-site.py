@@ -168,7 +168,7 @@ def build_browse(corpus, active="", navigate=False, sid=""):
         f'<option value="{e(info["label"])}"{" selected" if info["label"] == active else ""}>{e(info["plural"])} ({n})</option>'
         for info, n in ((TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES) if n)
     go = ' onchange="location.href=\'index.html\'+(this.value?\'?type=\'+encodeURIComponent(this.value):\'\')"' if navigate else ""
-    return (f'<div class="browse"><label for="browse-select{sid}">Browse</label>'
+    return (f'<div class="browse"><label for="browse-select{sid}">BROWSE <span class="bslash">//</span></label>'
             f'<select id="browse-select{sid}"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
 
 
@@ -247,6 +247,7 @@ header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
+.linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
 .speakers li { background:var(--card); border:1px solid var(--line); border-radius:1rem; padding:.15rem .7rem; font-size:.9rem; }
@@ -322,6 +323,8 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions li { display:flex; gap:.6rem; border-bottom:1px solid var(--line); padding:.7rem 0; }
 .sessions .num { flex:none; min-width:2.6rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .body { min-width:0; }
+.sessions .thumb { display:none; }
+@media (min-width:64rem) { .sessions .thumb { display:block; flex:none; width:96px; height:54px; border-radius:.25rem; object-fit:cover; background:#ddd; } .sessions li { align-items:center; } }   /* desktop only: a thumbnail in each row, as in the sidebar list */
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
 .reccount { margin:.2rem 0 .6rem; color:var(--fg); }
@@ -331,7 +334,8 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 body.searching #intro-block, body.searching .reccount, body.searching .sessions-group { display:none; }   /* while searching, the results come first */
 .browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
 .browse[hidden] { display:none; }
-.browse label { font:inherit; }   /* same font as the intro line */
+.browse label { font:inherit; font-weight:700; letter-spacing:.03em; white-space:nowrap; }
+.browse .bslash { color:var(--accent); }   /* same font as the intro line */
 .browse select { flex:1; min-width:0; font:inherit; padding:.5rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); }
 #search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
@@ -418,7 +422,7 @@ PAGE_TMPL = """<!doctype html>
 <p class="meta">
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
 {date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}<br>
-<a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}
+<span class="linkline"><a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}</span>
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
 <span data-pagefind-meta="session:{number}" hidden></span>
 <span data-pagefind-meta="series:{series}" hidden></span>
@@ -1208,8 +1212,11 @@ def build_index(corpus):
             by = f' <span class="d">interviewed by {e(entry["interviewer"])}</span>' if entry.get("interviewer") else ""
             when = fmt_date(entry.get("date_recorded"))
             when = f"published {when}" if date_is_estimate(entry) else when
+            small = SMALL_THUMBS_SRC_DIR / f"{entry['video_id']}.jpg"
+            thumb = (f'<img class="thumb" src="thumbnails-small/{e(entry["video_id"])}.jpg" alt="" width="96" height="54" loading="lazy">'
+                     if small.exists() else "")
             rows.append(
-                f'<li><span class="num">#{entry["number"]}</span>'
+                f'<li>{thumb}<span class="num">#{entry["number"]}</span>'
                 f'<span class="body"><a href="{slug(entry)}.html">{e(topic)}</a>{by}'
                 f'<span class="d">{e(when)}</span></span></li>'
             )

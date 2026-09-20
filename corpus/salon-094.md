@@ -33,7 +33,7 @@ flags:
 
 ## Colin Goldberg [00:00](https://www.youtube.com/watch?v=npycONiSa_c&t=0s)
 
-Hello, everyone. Thanks for joining us for our 94th Techspressionist salon. My name is Colin Goldberg. I'm an artist currently based in Southern Vermont. I'm joining you here from 150 mediastream, the largest public digital art installation in Chicago. It's composed of 89 led video blades and the installation in full stretches 150 feet by 22 feet. I'm part of an exhibition here called Techspressionist artists, which is composed of 4 audio visual pieces each 2 min in duration.
+Hello, everyone. Thanks for joining us for our 94th Techspressionist Salon. My name is Colin Goldberg. I'm an artist currently based in Southern Vermont. I'm joining you here from 150 mediastream, the largest public digital art installation in Chicago. It's composed of 89 led video blades and the installation in full stretches 150 feet by 22 feet. I'm part of an exhibition here called Techspressionist artists, which is composed of 4 audio visual pieces each 2 min in duration.
 
 My work is featured alongside and commissioned pieces by artists Renada, Yanaszewska, Karen LaFleur, and Jan Swinburne. I'd like to extend my thanks to 150 mediastream curator, Yuge Zhou, and producer, David Bloom for bringing Expressionism to Chicago. I'd also like to thank Yuga's assistant, Colin Mason, for providing support, and he's going to be doing a walkthrough of the installation space shortly. First, st I'm going to present a quick history of Techspressionism. We'll then be joined by the curator, who will share some background information on 150 mediastream, and then each of the 4 artists will share on their work in the show.
 

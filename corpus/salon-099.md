@@ -36,7 +36,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=1cuvfkJw3rs&t=2s)
 
-Hi, everyone. It is Thursday, October 2nd, 2025, and welcome to the Techspressionist Salon number 99. The topic of the salon is floating questions, and our moderator here today is Aaron Koh from New York City. My name is Colin, and I'm a Techspressionist. So Erin tells stories through a mix of traditional art-making methods with new technologies, often to address our complicated love-hate relationship with technology. Classically trained in fine arts with 20-plus years of experience as a game and app developer, her practice builds on hybrid approaches to art, sculpture, video, sound, written word, music, and performance, with reality-expanding technologies viewers can opt in or out of.
+Hi, everyone. It is Thursday, October 2nd, 2025, and welcome to the Techspressionist Salon Number 99. The topic of the salon is floating questions, and our moderator here today is Aaron Koh from New York City. My name is Colin, and I'm a Techspressionist. So Erin tells stories through a mix of traditional art-making methods with new technologies, often to address our complicated love-hate relationship with technology. Classically trained in fine arts with 20-plus years of experience as a game and app developer, her practice builds on hybrid approaches to art, sculpture, video, sound, written word, music, and performance, with reality-expanding technologies viewers can opt in or out of.
 
 So with that, I'm going to pass the mic over to Aaron.
 

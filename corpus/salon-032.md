@@ -47,7 +47,7 @@ And so, you know, it's been sort of gaining some momentum through the years. I'm
 
 And then, you know, it also relates in part to surrealism in that they had salons as well. And there was an ideological sort of component and a manifesto associated with it. And also to pop art in the sense that we also use commercial tools and techniques the way that the pop artists did in much of the work that digital artists or Techspressionists work. And then definitely very excited about this show that's coming up. And then definitely very excited about this show that's coming up. And then definitely very excited about this show that's coming up. In April, which is going to be at Southampton Arts Center. And that'll be our first physical exhibition. So that's Techspressionism in a nutshell.
 
-I'll paste that link in the chat too in case anyone wants to download that stuff. That's pretty much it. All right. Thank you so much, Colin. And if you are also just curious about the movement, you can also just visit www.Techexpressionism.Com and check us out. Or follow us on Instagram at hashtag Techspressionism. And you'll find and see a lot of people that either identify with the movement or are part of the movement itself.
+I'll paste that link in the chat too in case anyone wants to download that stuff. That's pretty much it. All right. Thank you so much, Colin. And if you are also just curious about the movement, you can also just visit www.Techspressionism.Com and check us out. Or follow us on Instagram at hashtag Techspressionism. And you'll find and see a lot of people that either identify with the movement or are part of the movement itself.
 
 So there's that. And that being said, I think Roz, you have the floor.
 

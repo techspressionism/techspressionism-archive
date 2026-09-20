@@ -54,7 +54,7 @@ languages: ["en"]
 
 ## Michael Pierre Price // Phoenix AZ USA [00:06](https://www.youtube.com/watch?v=90wRPqAgA98&t=6s)
 
-Hello everyone my name is Colin Goldberg and welcome to the Techspressionist salon number 69. Today is Wednesday May 10th and today's topic is monochromes. And our moderator this evening is Michael price and I will hand the mic over to Michael thanks Khan. Yeah so we have an interesting subject today in terms of. The color palette for the imagery that's going to get shared today. I would just remind the artist. Who are sharing their presentations and screens today. Introduce yourself and let us know where you're signing in from so we can get a good sense of the. Wonderful scope of artists and locations around the around the planet here so. First up today is going to be Renata welcome and. Look you forward to this.
+Hello everyone my name is Colin Goldberg and welcome to the Techspressionist Salon Number 69. Today is Wednesday May 10th and today's topic is monochromes. And our moderator this evening is Michael price and I will hand the mic over to Michael thanks Khan. Yeah so we have an interesting subject today in terms of. The color palette for the imagery that's going to get shared today. I would just remind the artist. Who are sharing their presentations and screens today. Introduce yourself and let us know where you're signing in from so we can get a good sense of the. Wonderful scope of artists and locations around the around the planet here so. First up today is going to be Renata welcome and. Look you forward to this.
 
 ## Renata Janiszewska [01:11](https://www.youtube.com/watch?v=90wRPqAgA98&t=71s)
 

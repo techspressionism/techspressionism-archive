@@ -17,7 +17,7 @@ flags:
 
 ## Unattributed [00:02](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2s)
 
-Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon number 53. Tonight's salon is being moderated by two artists, two of our artists, Renata Janiszewska and Tommy Mintz. And the topic this evening is photography and media confluence. So Renata and Tommy have selected a panel of artists to present their work. And without further ado, I will hand it over to Renata.
+Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon Number 53. Tonight's salon is being moderated by two artists, two of our artists, Renata Janiszewska and Tommy Mintz. And the topic this evening is photography and media confluence. So Renata and Tommy have selected a panel of artists to present their work. And without further ado, I will hand it over to Renata.
 
 Thank you very much, Colin. I'm really looking forward to the presentations that we're going to have tonight on photography and media confluence. Tommy is a photographer and he gave our artists some questions to consider in doing their presentations this evening. And I believe that he can paraphrase them for us before we get started.
 

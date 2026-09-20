@@ -33,7 +33,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=vMQWnv70FvA&t=3s)
 
-Progress hello everyone my name is Colin Goldberg and welcome to the Techspressionist salon number 68.. The topic today is appropriation and it is Wednesday April 26th so. Without further Ado I'm just gonna turn the mic over to the artists who want to share it's basically an open-ended topic as most of our recent salons have been set up where it's just sort of a general topic and you can share anything related to it direct or tangential it could or doesn't even have to involve sharing your screen and or your own work so. Yeah and. The first artist that I see on the list is Renata.
+Progress hello everyone my name is Colin Goldberg and welcome to the Techspressionist Salon Number 68.. The topic today is appropriation and it is Wednesday April 26th so. Without further Ado I'm just gonna turn the mic over to the artists who want to share it's basically an open-ended topic as most of our recent salons have been set up where it's just sort of a general topic and you can share anything related to it direct or tangential it could or doesn't even have to involve sharing your screen and or your own work so. Yeah and. The first artist that I see on the list is Renata.
 
 ## Renata Janiszewska [00:55](https://www.youtube.com/watch?v=vMQWnv70FvA&t=55s)
 

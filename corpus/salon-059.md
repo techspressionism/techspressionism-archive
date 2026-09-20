@@ -56,7 +56,7 @@ flags:
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=2s)
 
-Hello, hello, hello, and welcome everyone to our Techspressism virtual salon number 60. Is that right? 59. 59. Oh, almost 60. I'm getting ahead of myself. This is actually going to be our last salon of the year. So huzzah, if you've stuck around this long, it's been a long journey thus far, and we are right here at the tip of the year. And thank you for coming. If it's your first time being here.
+Hello, hello, hello, and welcome everyone to our Techspressionism virtual salon number 60. Is that right? 59. 59. Oh, almost 60. I'm getting ahead of myself. This is actually going to be our last salon of the year. So huzzah, if you've stuck around this long, it's been a long journey thus far, and we are right here at the tip of the year. And thank you for coming. If it's your first time being here.
 
 I like to kind of talk about a little bit about what we've been doing. Most of the time it's sharing art and talking about art. That's what these are about. But here lately we've been having discussions about all sorts of things. Today's topic of discussion is actually kind of a revisit about AI. And we have... I've talked about before, but things have changed and it's now an even more hot topic issue than it was before. But before we get into that whole thing, we have some words and things to share before that. So I will pass the mic over to Colin.
 

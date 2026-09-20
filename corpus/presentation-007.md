@@ -29,7 +29,7 @@ flags:
 
 ## Stephen Paré [00:00](https://www.youtube.com/watch?v=lW17XAepKs4&t=0s)
 
-Welcome, welcome to the artists of the American Maker Space in Qarshi in Uzbekistan. We are Techpressionist artists. I'll say what Techspressionism is in a moment. The topic of today's presentation is “How Technology changes artist interactions with cultural sources" My name is Stephen Paré and I am the moderator today. Let's say a few words about what Techspressionism is. "Techspressionism is an artistic approach in which technology is utilized as a means to express emotional experience."
+Welcome, welcome to the artists of the American Maker Space in Qarshi in Uzbekistan. We are Techspressionist artists. I'll say what Techspressionism is in a moment. The topic of today's presentation is “How Technology changes artist interactions with cultural sources" My name is Stephen Paré and I am the moderator today. Let's say a few words about what Techspressionism is. "Techspressionism is an artistic approach in which technology is utilized as a means to express emotional experience."
 
 And Techspressionism is also a global networked community of artists working with technology and all of us here today are Techspressionist artists. Techspressionism is a movement and it is open to other artists in the world. If you are interested in joining Techspressionism the web addresses are on the slide. What we offer is monthly meetings, monthly salons on Zoom and artists present and Discussion. We also have smaller groups weekly working together once a week. The timing should be workable for evenings for artists in Uzbekistan.
 
