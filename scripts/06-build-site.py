@@ -269,6 +269,7 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
+.beta { color:var(--accent); font-weight:700; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
 details.about { margin:0 0 .8rem; }
 details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
@@ -636,7 +637,7 @@ INDEX_TMPL = """<!doctype html>
 <body>
 <header class="site"><div class="wrap"><strong>Techspressionism Video Archive</strong>
 {topnav}
-<span class="d" id="rec-count">{count_text}</span></div></header>
+<span class="d"><span class="beta">[BETA]</span> <span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
 <details class="about"><summary>About the archive</summary>
