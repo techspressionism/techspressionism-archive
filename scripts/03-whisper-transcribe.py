@@ -120,6 +120,11 @@ def extract_audio_via_ytdlp(video_id, dest_dir):
         f"https://www.youtube.com/watch?v={video_id}",
     ]
     r = subprocess.run(cmd, capture_output=True, text=True)
+    for wait in (30, 90, 240):          # YouTube sometimes answers a download with a passing 403 or 429: wait and try again
+        if r.returncode == 0 or not re.search(r"HTTP Error (403|429|5\d\d)", (r.stderr or "") + (r.stdout or "")):
+            break
+        time.sleep(wait)
+        r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode != 0:  # say WHY (rate limit, sign-in, unavailable...) instead of just the command line
         raise RuntimeError(f"yt-dlp failed for {video_id}: {(r.stderr or r.stdout).strip().splitlines()[-1][:300] if (r.stderr or r.stdout).strip() else 'no output'}")
     candidates = list(dest_dir.glob(f"{video_id}.wav"))
