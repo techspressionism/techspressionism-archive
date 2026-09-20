@@ -173,16 +173,17 @@ body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI
 a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
-header.site .wrap { max-width:60rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
-header.site strong { font-size:1.25rem; }
+header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
+header.site strong { font-size:1.1rem; white-space:nowrap; }
+header.site strong a { color:inherit; }
 header.site .wrap { container-type:inline-size; }
-@media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (15.4 = its length in em, plus a little slack) */
+@media (max-width:40rem) {   /* phones: the title fills the width of the screen on one line (17.85 = title + [BETA] length in em, plus a little slack) */
   header.site .wrap { row-gap:.1rem; }
   header.site strong { line-height:1.1; }
   header.site .topnav { flex:1 1 100%; justify-content:center; margin-top:.4rem; }   /* the pills fill the width, centred, in rows */
   header.site .topnav a.chip { flex:1 1 auto; text-align:center; }
   header.site .wrap > .d { display:none; }
-  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 15.4); line-height:1.2; }
+  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:calc(100cqw / 17.85); line-height:1.2; }
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
 .topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; color:var(--fg); }
@@ -269,12 +270,12 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
-.beta { color:var(--accent); font-weight:700; }
+.beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; }
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
-.tagline { font-size:min(1.06rem, calc((100vw - 2.5rem) * .039)); text-wrap:balance; }   /* two lines on a phone */
+.tagline { font-size:inherit; text-wrap:balance; }   /* same size as the About heading */
 details.about { margin:0 0 .8rem; }
 details.about summary { cursor:pointer; color:var(--accent); font-weight:700; margin:0 0 .4rem; }
-details.about .intro { color:var(--muted); }
+details.about .intro { color:var(--fg); }
 .intro .watch-ref { color:var(--accent); font-weight:600; }
 .yt-jump { white-space:nowrap; font-size:.85em; margin-left:.3rem; }
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
@@ -304,7 +305,7 @@ PAGE_TMPL = """<!doctype html>
 <script>document.documentElement.className+=" js"</script>
 </head>
 <body>
-<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a></strong>
+<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> <span class="beta">[BETA]</span></strong>
 {topnav}
 <form class="hsearch" action="index.html" method="get" role="search"><input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div></header>
 <main class="watch-page">
@@ -636,12 +637,12 @@ INDEX_TMPL = """<!doctype html>
 <script src="pagefind/pagefind-ui.js"></script>
 </head>
 <body>
-<header class="site"><div class="wrap"><strong>Techspressionism Video Archive</strong>
+<header class="site"><div class="wrap"><strong>Techspressionism Video Archive <span class="beta">[BETA]</span></strong>
 {topnav}
-<span class="d"><span class="beta">[BETA]</span> <span id="rec-count">{count_text}</span></span></div></header>
+<span class="d"><span id="rec-count">{count_text}</span></span></div></header>
 <main>
 <div id="intro-block">
-<p class="intro tagline">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video from 2020&ndash;{latest_year}.</p>
+<p class="intro tagline">A searchable, citable transcript archive of recorded video from 2020&ndash;{latest_year}.</p>
 <details class="about"><summary>About the archive</summary>
 <p class="intro">The Techspressionism Video Archive (TVA) is a tool for researchers, historians and anyone studying the Techspressionism movement:
 a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
