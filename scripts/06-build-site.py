@@ -634,12 +634,13 @@ INDEX_TMPL = """<!doctype html>
 <main>
 <p class="intro">A searchable, citable transcript archive of Techspressionism&rsquo;s recorded video.</p>
 <details class="about"><summary>About the archive</summary>
-<p class="intro">It holds the monthly <a href="https://techspressionism.com/Salon">Techspressionist Salon</a> (running since September 2020), artist
-<a href="https://techspressionism.com/interviews/">interviews</a>, <a href="https://techspressionism.com/roundtable/">roundtables</a>,
-and <a href="https://techspressionism.com/uzbekistan/media/videos/presentations/">presentations</a>. Search the full text
-below &mdash; all recordings or just one type &mdash; or browse the list. Every result links to the transcript and to the exact moment in the recording.
-Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may contain errors &mdash; always verify a quote
-against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing. Built in Python with Claude Code.</p></details>
+<p class="intro">The TVA (Techspressionism Video Archive) is a tool for researchers, historians and anyone studying the Techspressionism movement:
+a searchable, citable record of what was said in its recorded video. It contains the monthly <a href="index.html?type=Salon">Techspressionist Salons</a>
+(running since September 2020), artist <a href="index.html?type=Interview">interviews</a>, <a href="index.html?type=Roundtable">roundtables</a>,
+and <a href="index.html?type=Presentation">presentations</a>. Search the full text below &mdash; all recordings or just one type &mdash; or browse the list.
+Every result links to the transcript and to the exact moment in the recording. Transcripts are machine-generated (Zoom, YouTube, and Whisper) and may
+contain errors &mdash; always verify a quote against the recording (the <span class="watch-ref">&#9654;&nbsp;timecode</span> button) before citing.
+Built in Python with Claude Code.</p></details>
 <div class="typebar" id="typebar" role="group" aria-label="Media type">{typebar}</div>
 <div id="search"></div>
 <script>
