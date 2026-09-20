@@ -352,6 +352,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 #search a.pill.pill-watch svg, #search a.pill.pill-watch:hover svg { color:#fff; }
 #search a.pill.pill-watch:hover { background:#d60000; }
 #search a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
+#search .cite-actions .copy-cite, #search .cite-actions a.pill.pill-watch { box-sizing:border-box; height:2.2rem; padding-top:0; padding-bottom:0; display:inline-flex; align-items:center; line-height:1; }
 #search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
 .citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
 .citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
