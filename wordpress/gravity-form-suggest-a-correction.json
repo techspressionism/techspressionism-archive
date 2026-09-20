@@ -1,0 +1,141 @@
+{
+  "0": {
+    "title": "Suggest a correction",
+    "description": "",
+    "labelPlacement": "top_label",
+    "descriptionPlacement": "below",
+    "subLabelPlacement": "below",
+    "button": {
+      "type": "text",
+      "text": "Send my correction",
+      "imageUrl": "",
+      "conditionalLogic": null
+    },
+    "fields": [
+      {
+        "type": "hidden",
+        "id": 1,
+        "label": "Recording",
+        "adminLabel": "",
+        "isRequired": false,
+        "allowsPrepopulate": true,
+        "inputName": "recording",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "hidden",
+        "id": 2,
+        "label": "Time (seconds)",
+        "adminLabel": "",
+        "isRequired": false,
+        "allowsPrepopulate": true,
+        "inputName": "time",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "hidden",
+        "id": 3,
+        "label": "Passage (as it appears)",
+        "adminLabel": "",
+        "isRequired": false,
+        "allowsPrepopulate": true,
+        "inputName": "passage",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "textarea",
+        "id": 4,
+        "label": "Corrected passage",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "large",
+        "allowsPrepopulate": true,
+        "inputName": "passage",
+        "useRichTextEditor": false,
+        "maxLength": "",
+        "description": "Play the moment, then correct the words below. Keep the speaker's own words (only uh and um are removed). Change only what the recording does not say.",
+        "descriptionPlacement": "above",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "textarea",
+        "id": 5,
+        "label": "Note (optional)",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "allowsPrepopulate": false,
+        "useRichTextEditor": false,
+        "description": "For example: how you know, or what you could not make out. Please do not add email addresses or private details.",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "checkbox",
+        "id": 6,
+        "label": "Sharing",
+        "adminLabel": "",
+        "isRequired": true,
+        "allowsPrepopulate": false,
+        "choices": [
+          {
+            "text": "I agree that my correction may be used and shared under CC BY 4.0, without credit.",
+            "value": "I agree",
+            "isSelected": false,
+            "price": ""
+          }
+        ],
+        "inputs": [
+          {
+            "id": "6.1",
+            "label": "I agree that my correction may be used and shared under CC BY 4.0, without credit.",
+            "name": ""
+          }
+        ],
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      }
+    ],
+    "version": "2.7.4",
+    "id": 1,
+    "enableHoneypot": true,
+    "enableAnimation": false,
+    "limitEntries": false,
+    "scheduleForm": false,
+    "requireLogin": false,
+    "useCurrentUserAsAuthor": true,
+    "confirmations": {
+      "5f8a1b2c3d4e5": {
+        "id": "5f8a1b2c3d4e5",
+        "name": "Default Confirmation",
+        "isDefault": true,
+        "type": "message",
+        "message": "Thank you. Your suggestion goes to the archive's editor, who reads every one before anything changes.",
+        "disableAutoformat": false,
+        "pageId": "",
+        "url": "",
+        "queryString": "",
+        "event": "",
+        "conditionalLogic": []
+      }
+    },
+    "notifications": []
+  },
+  "version": "2.7.4"
+}
