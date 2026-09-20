@@ -44,6 +44,7 @@ PRESENTATION_IDS = [
     "V3NO6tMIiPU",  # 6 Digital Photography
     "lW17XAepKs4",  # 7 How Technology Changes Artist Interactions with Cultural Sources
     "1OgIwvY5_F4",  # 8 Digital Sculpture and World Creation
+    "8aQDDA-u0io",  # 9 Pollock-Krasner House & Study Center: Technology and Art with Colin Goldberg (2021; not part of the Uzbekistan series)
 ]
 PROVISIONAL = set()
 

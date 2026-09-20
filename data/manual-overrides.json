@@ -30,5 +30,34 @@
   "RSGBYaBbWgg": {
     "date_recorded": "2026-07-16",
     "source": "thumbnail graphic ('THURSDAY JULY 16, 2026'), confirmed by Colin Goldberg 2026-09-18"
+  },
+  "QcotNCjBuIQ": {
+    "number": 42,
+    "session_title": "Techspressionism: Digital and Beyond, International Reception",
+    "moderator": "Davonte Bradley",
+    "speakers": [
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Roz Dimon",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "date_recorded": "2022-04-27",
+    "source": "techspressionism.com page for Salon #42 (27 April 2022; moderator Davonte Bradley, curator Colin Goldberg, walkthrough Roz Dimon); the YouTube title carries no Salon number or date. Speakers and host to be checked against the recording"
+  },
+  "pMRthFj7aw4": {
+    "date_recorded": "2026-09-03",
+    "source": "Salon 110 was held Thursday 3 September 2026 (techspressionism.com page); uploaded 4 September. To be confirmed by Colin"
+  },
+  "gesSwVo36wo": {
+    "date_recorded": "2024-12-05",
+    "source": "the YouTube title ('December 5, 2024'); the description's 21 November 2024 is the exhibition's opening date"
   }
 }

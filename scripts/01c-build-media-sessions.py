@@ -60,6 +60,10 @@ MANUAL = {
     ("presentation", 6): {"moderator": "Roz Dimon", "speakers": [
         ("Lee Day", "New York City USA"), ("Gregory Little", "Oberlin, Ohio USA"), ("Lee Musgrave", "White Salmon, Washington USA")]},
     ("presentation", 7): {"moderator": "Stephen Paré"},
+    # 9: the Pollock-Krasner House & Study Center event (recorded live on Zoom 24 Feb 2021, produced by the Center).
+    # Host and speakers are from the techspressionism.com page; check them against the recording. Its own series name.
+    ("presentation", 9): {"moderator": "Helen A. Harrison", "series": "Pollock-Krasner House & Study Center", "title": "Technology and Art with Colin Goldberg",
+        "speakers": [("Colin Goldberg", "North Bennington, VT USA"), ("Joyce Raimondo", "East Hampton, NY USA")]},
     ("presentation", 8): {"moderator": "Michael Pierre Price", "speakers": [
         ("Lucy Boyd-Wilson", "San Diego, California USA"), ("Annette Weintraub", "New York City USA"),
         ("Ramis Karimov", "Qarshi, Uzbekistan"), ("Jafar Rustamov", "Qarshi, Uzbekistan")]},
@@ -77,6 +81,7 @@ SITE_DATES = {
     ("roundtable", 1): "2022-10-03", ("roundtable", 2): "2023-01-23", ("roundtable", 3): "2024-06-12",
     ("roundtable", 4): "2024-07-10", ("roundtable", 5): "2025-06-27", ("roundtable", 6): "2025-09-16",
     ("presentation", 1): "2026-02-12", ("presentation", 2): "2026-02-26",
+    ("presentation", 9): "2021-02-24",
 }
 DATE_NOTES = {
     ("interview", 4): "original recording 2000, reposted Feb 4, 2021",
@@ -190,7 +195,7 @@ def build(item):
                 speakers.append({"name": n, "country": loc, "start_seconds": None, "start_display": None})
         title = item["interviewee"]
     else:
-        title = item["session_title"]
+        title = manual.get("title") or item["session_title"]
         if item["type"] == "presentation":
             speakers = parse_presentation_index(meta.get("description") or "", moderator)
             people = {s["name"] for s in speakers} - {"Discussion", "Announcements"}
@@ -240,6 +245,8 @@ def build(item):
     for k in ("interviewee", "interviewer", "local_transcript"):
         if item.get(k):
             session[k] = item[k]
+    if manual.get("series"):                     # a presentation outside the Hello Uzbekistan series names its own series
+        session["series"] = manual["series"]
     if item.get("provisional"):
         session["notes"].append("series_membership_unconfirmed")
     return session

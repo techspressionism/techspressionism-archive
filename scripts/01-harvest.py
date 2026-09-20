@@ -357,7 +357,7 @@ def parse_moderator(description):
     m = MODERATOR_RE.search(description)
     if not m:
         return None, ["moderator_missing"]
-    name = clean(m.group(1))
+    name = re.sub(r"(?i)^(?:the\s+)?(?:artists?|curators?)\s+", "", clean(m.group(1)))     # "Moderated by artists A and B" -> "A and B"
     return (name or None), ([] if name else ["moderator_missing"])
 
 

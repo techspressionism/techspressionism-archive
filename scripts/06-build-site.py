@@ -141,6 +141,8 @@ BRAND = "Techspressionism Video Archive"
 
 
 def series_name(entry):
+    if entry.get("series"):
+        return entry["series"]
     return SERIES[entry.get("type", "salon")](entry["number"])
 
 
@@ -188,6 +190,7 @@ def build_header(corpus, active="", sid=""):
 
 
 FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
+LISTED = []          # the people who have a page: those heard or named in the recordings
 PEOPLE = []          # people directory (data/people.json) with archive statistics, set in main()
 PERSON_BY_NORM = {}  # normalised name (or alias) -> person
 ARTIST_COUNT = 0     # people listed by default under Artists (heard or mentioned in the recordings)
@@ -571,7 +574,7 @@ PLAYER_JS = """<script>
   titleBar(); window.addEventListener('scroll', titleBar, { passive: true }); window.addEventListener('resize', titleBar);
   if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
   if (btn) {
-    btn.addEventListener('click', function () { reading(true, true); });
+    btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
@@ -663,8 +666,11 @@ PLAYER_JS = """<script>
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
   var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
+  var loading = false;
+  function preload() { if (box && !player) load(); }   // opening the transcript is the sign of intent: have the player ready before the first WATCH tap (a phone only starts a video inside the tap)
   function load() {
-    if (player || failed) return;
+    if (player || failed || loading) return;
+    loading = true;
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       player = new YT.Player('yt', {
@@ -1192,16 +1198,16 @@ window.addEventListener('DOMContentLoaded', () => {{
   }});
   const browseSel = document.getElementById("browse-select");
   browseSel.removeAttribute("onchange");                       // on other pages it opens the home page; here it swaps the list
-  // Artists list: filter as you type; by default only people heard or named in the recordings
-  const artistBox = document.getElementById("artist-filter"), heardBox = document.getElementById("artist-heard");
+  // Artists list: filter as you type (the list holds only people heard or named in the recordings)
+  const artistBox = document.getElementById("artist-filter");
   function filterArtists() {{
     if (!artistBox) return;
-    const q = artistBox.value.trim().toLowerCase(), heardOnly = heardBox.checked;
+    const q = artistBox.value.trim().toLowerCase();
     for (const li of document.querySelectorAll("#artist-list li")) {{
-      li.hidden = (heardOnly && li.dataset.heard !== "1") || (q && !li.dataset.name.includes(q));
+      li.hidden = !!q && !li.dataset.name.includes(q);
     }}
   }}
-  if (artistBox) {{ artistBox.addEventListener("input", filterArtists); heardBox.addEventListener("change", filterArtists); filterArtists(); }}
+  if (artistBox) {{ artistBox.addEventListener("input", filterArtists); filterArtists(); }}
   browseSel.addEventListener("change", (ev) => choose(ev.target.value));
   document.querySelector(".browse-links").addEventListener("click", (ev) => {{
     const a = ev.target.closest("a[data-type]");
@@ -1329,11 +1335,12 @@ def load_people(corpus):
     ARTIST_COUNT = sum(1 for p in PEOPLE if p["speaks"] or p["mentions"])
     for p in PEOPLE:
         p["heard"] = bool(p["speaks"] or p["mentions"])
+    LISTED[:] = [p for p in PEOPLE if p["heard"]]
 
 
 def person_link(name):
     p = PERSON_BY_NORM.get(person_key(name))
-    return f"artist-{p['id']}.html" if p else ""
+    return f"artist-{p['id']}.html" if p and p.get("heard") else ""
 
 
 def yt_moment(ent, seconds):
@@ -1348,15 +1355,17 @@ def watch_pill(href, seconds, label="WATCH"):
 
 def build_person_page(p):
     labels = p["exhibition_labels"]
+    def count_link(n, one, many, anchor):
+        return f'<li><a href="#{anchor}">{n:,} {one if n == 1 else many}</a></li>'
     facts = []
     if p["speaks"]:
-        facts.append((len(p["speaks"]), "recordings where they speak"))
-        facts.append((sum(r["turns"] for r in p["speaks"].values()), "turns"))
+        facts.append(count_link(len(p["speaks"]), "recording", "recordings", "recordings"))
+        facts.append(count_link(sum(r["turns"] for r in p["speaks"].values()), "time speaking", "times speaking", "recordings"))
     if p["mentions"]:
-        facts.append((len(p["mentions"]), "mentions by others"))
+        facts.append(count_link(len(p["mentions"]), "mention", "mentions", "mentions"))
     if p["exhibitions"]:
-        facts.append((len(p["exhibitions"]), "exhibitions on techspressionism.com"))
-    facts_html = "".join(f"<div><b>{n:,}</b>{e(l)}</div>" for n, l in facts)
+        facts.append(count_link(len(p["exhibitions"]), "exhibition", "exhibitions", "exhibitions"))
+    facts_html = "".join(facts)
     links = []
     if p.get("ts_profile"):
         links.append(f'<a href="{e(p["ts_profile"])}" target="_blank" rel="noopener">Profile on techspressionism.com &#8599;</a>')
@@ -1371,7 +1380,7 @@ def build_person_page(p):
     if links:
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
-        parts.append(f'<div class="facts">{facts_html}</div>')
+        parts.append(f'<ul class="facts">{facts_html}</ul>')
     if p["exhibitions"]:
         rows = []
         for slug, credits in p["exhibitions"].items():
@@ -1382,7 +1391,7 @@ def build_person_page(p):
             reel = [r for r in p["reels"] if r["exhibition"] == slug]
             pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "REEL") for r in reel[:1])
             rows.append(f'<li class="rowitem"><div><strong>{link}</strong><br>{sub}</div>{pills}</li>')
-        parts.append('<h2>Exhibitions and collaborations</h2><ul>' + "".join(rows) + '</ul>'
+        parts.append('<h2 id="exhibitions">Exhibitions and collaborations</h2><ul>' + "".join(rows) + '</ul>'
                      '<p class="note">From the exhibition pages on techspressionism.com. A REEL button plays the exhibition reel at this artist\'s entry.</p>')
     if p["speaks"]:
         items = sorted(p["speaks"].values(), key=lambda r: (r["ent"].get("date_recorded") or "", r["ent"]["number"]), reverse=True)
@@ -1391,11 +1400,11 @@ def build_person_page(p):
             slug_ = f"{en.get('type', 'salon')}-{int(en['number']):03d}"
             title = en.get("session_title") or ""
             return (f'<li class="rowitem"><div><a href="{slug_}.html"><strong>{e(label(en))}</strong></a> &middot; {e(fmt_date(en.get("date_recorded")))}'
-                    f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}{r["turns"]} turn{"s" if r["turns"] != 1 else ""}</span></div>'
+                    f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}spoke {r["turns"]} time{"s" if r["turns"] != 1 else ""}</span></div>'
                     f'{watch_pill(yt_moment(en, r["first"]), r["first"])}</li>')
         first, rest = items[:10], items[10:]
         more = f'<details><summary>Show {len(rest)} more recordings</summary><ul>{"".join(row(r) for r in rest)}</ul></details>' if rest else ""
-        parts.append(f'<h2>Speaking in the archive</h2><ul>{"".join(row(r) for r in first)}</ul>{more}'
+        parts.append(f'<h2 id="recordings">Speaking in the archive</h2><ul>{"".join(row(r) for r in first)}</ul>{more}'
                      '<p class="note">Newest first. WATCH opens the YouTube video at their first words in that recording.</p>')
     if p["mentions"]:
         ms = sorted(p["mentions"], key=lambda m: (m[0].get("date_recorded") or "", m[3]), reverse=True)
@@ -1407,7 +1416,7 @@ def build_person_page(p):
                     f'{e(fmt_date(en.get("date_recorded")))}</span></div>{watch_pill(yt_moment(en, tm), tm)}</li>')
         first, rest = ms[:8], ms[8:60]
         more = f'<details><summary>Show {len(rest)} more</summary><ul>{"".join(mrow(m) for m in rest)}</ul></details>' if rest else ""
-        parts.append(f'<h2>Mentioned by others</h2><ul>{"".join(mrow(m) for m in first)}</ul>{more}'
+        parts.append(f'<h2 id="mentions">Mentioned by others</h2><ul>{"".join(mrow(m) for m in first)}</ul>{more}'
                      f'<p class="note">Passages where a speaker names them in full ({len(ms)} in all, newest first). Only passages with an identified speaker are shown.</p>')
     if not (p["speaks"] or p["mentions"] or p["exhibitions"]):
         parts.append('<p class="note">Nothing from the recordings yet. The details above come from the artist index on techspressionism.com.</p>')
@@ -1424,8 +1433,9 @@ main.person { max-width:52rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
-.person .facts { display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:.6rem 1.2rem; margin:.4rem 0 0; }
-.person .facts b { display:block; font-family:"Kanit",sans-serif; font-style:italic; font-size:1.6rem; }
+.person ul.facts { margin:.4rem 0 0; }
+.person ul.facts li { margin:.15rem 0; font-size:1.1rem; }
+.person h2[id] { scroll-margin-top:1rem; }
 .person ul { list-style:none; padding:0; margin:0; }
 .rowitem { display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:.7rem 0; border-bottom:1px solid var(--line); }
 .rowitem .sub { color:var(--muted); font-size:.92rem; }
@@ -1475,19 +1485,19 @@ def build_index(corpus):
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     if ARTIST_COUNT:                       # the Artists list: everyone with a page, those heard or named in the recordings first-class
         rows = []
-        for pp in sorted(PEOPLE, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
+        for pp in sorted(LISTED, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
             bits = []
             if pp["speaks"]:
                 bits.append(f'{len(pp["speaks"])} recording{"s" if len(pp["speaks"]) != 1 else ""}')
             elif pp["mentions"]:
                 bits.append("named in the recordings")
             sub = " &middot; ".join(x for x in [e(pp.get("location") or "")] + bits if x)
-            rows.append(f'<li data-heard="{1 if pp["heard"] else 0}" data-name="{e(pp["name"].lower())}"><span class="body">'
+            rows.append(f'<li data-name="{e(pp["name"].lower())}"><span class="body">'
                         f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
         groups.append(
             '<section class="sessions-group" data-type="Artist">'
             '<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist&hellip;" aria-label="Find an artist">'
-            '<label><input type="checkbox" id="artist-heard" checked> Only artists heard or named in the recordings</label></div>'
+            '</div>'
             '<ul class="sessions" id="artist-list">' + "\n".join(rows) + "</ul></section>")
         spans["Artist"] = (ARTIST_COUNT, 0, 0)
     def count_text(n, first, last):
@@ -1538,16 +1548,18 @@ def main():
         (SITE_DIR / f"{slug(entry)}.html").write_text(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"))
 
     if SITE_CONFIG.get("canonical_base"):       # sitemap.xml for search engines (only once the final address is known)
-        urls = [canonical_url("")] + [canonical_url(f"{slug(x)}.html") for x in corpus] + [canonical_url(f"artist-{pp['id']}.html") for pp in PEOPLE]
+        urls = [canonical_url("")] + [canonical_url(f"{slug(x)}.html") for x in corpus] + [canonical_url(f"artist-{pp['id']}.html") for pp in LISTED]
         (SITE_DIR / "sitemap.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
             + "".join(f"<url><loc>{e(u)}</loc></url>\n" for u in urls) + "</urlset>\n")
     else:
         (SITE_DIR / "sitemap.xml").unlink(missing_ok=True)
 
-    for pp in PEOPLE:
+    for old in SITE_DIR.glob("artist-*.html"):          # only artists heard or named in the recordings have a page
+        old.unlink()
+    for pp in LISTED:
         (SITE_DIR / f"artist-{pp['id']}.html").write_text(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"))
-    print(f"{len(PEOPLE)} artist pages ({ARTIST_COUNT} heard or named in the recordings)")
+    print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     (SITE_DIR / "times").mkdir(exist_ok=True)
     for sl, data in TIMES.items():
         (SITE_DIR / "times" / f"{sl}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))

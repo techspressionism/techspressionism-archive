@@ -53,6 +53,20 @@ def norm(name):
     return re.sub(r"\s+", " ", re.sub(r"[^a-z ]", " ", s)).strip()
 
 
+# The same person under two names that the automatic rules cannot see (an "aka", a nickname, a misspelling):
+# {the name used in the recordings: [the other names]}. Add a line when the artist list shows a person twice.
+PERSON_MERGES = {
+    "Systaime": ["Michaël Borras AKA Systaime"],
+    "Beau Tardy": ["Beau Tardy Artist"],
+    "Moonth": ["Michael Mesiats aka Moonth"],
+    "SCARLETMOTIFF": ["Noel Apitta aka SCARLETMOTIFF"],
+    "Skywaterr": ["Göksu Ilgaz Koçakcıgil AKA Skywaterr"],
+    "Giovanna Sun": ["Dubwoman aka Giovanna Sun"],
+    "Paul D. Miller aka DJ Spooky that Subliminal Kid": ["Paul D. Miller aka DJ Spooky"],
+    "Reese Schroeder": ["Wiliam Reese Schroeder"],
+}
+
+
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().lower()).strip("-")
 
@@ -255,6 +269,18 @@ def main():
     for sp in sorted(speakers):
         person(sp)
 
+    def absorb(rec, gone):
+        rec["aliases"] |= gone["aliases"] | {gone["name"]}
+        rec["location"] = rec["location"] or gone["location"]
+        rec["ts_profile"] = rec["ts_profile"] or gone["ts_profile"]
+        for kk, vv in gone["links"].items():
+            for u in vv:
+                if u.rstrip("/") not in {x.rstrip("/") for x in rec["links"].setdefault(kk, [])}:
+                    rec["links"][kk].append(u)
+        for ex, cr in gone["exhibitions"].items():
+            rec["exhibitions"].setdefault(ex, []).extend(x for x in cr if x not in rec["exhibitions"][ex])
+        rec["reels"] += gone["reels"]
+
     # "Malavika Andrew" and "Malavika Mandal Andrew" are one person: merge a shorter name into a longer one when the
     # first and last words agree and every word of the shorter name is in the longer one
     for key in sorted(people, key=lambda k: -len(k)):
@@ -268,17 +294,21 @@ def main():
             o = other.split()
             k = key.split()
             if len(o) >= 2 and len(o) < len(k) and o[0] == k[0] and o[-1] == k[-1] and set(o) <= toks:
-                gone = people.pop(other)
-                rec["aliases"] |= gone["aliases"] | {gone["name"]}
-                rec["location"] = rec["location"] or gone["location"]
-                rec["ts_profile"] = rec["ts_profile"] or gone["ts_profile"]
-                for kk, vv in gone["links"].items():
-                    for u in vv:
-                        if u.rstrip("/") not in {x.rstrip("/") for x in rec["links"].setdefault(kk, [])}:
-                            rec["links"][kk].append(u)
-                for ex, cr in gone["exhibitions"].items():
-                    rec["exhibitions"].setdefault(ex, []).extend(x for x in cr if x not in rec["exhibitions"][ex])
-                rec["reels"] += gone["reels"]
+                absorb(rec, people.pop(other))
+    # names the pages carry with a place or tagline after a dash ("Colin Goldberg - North Bennington, VT",
+    # "Beau Tardy Artist - B...!") belong to the person named before the dash
+    for key in list(people):
+        rec = people.get(key)
+        head = re.split(r"\s+-\s+", rec["name"], 1)[0] if rec else ""
+        if rec and head != rec["name"] and norm(head) in people and norm(head) != key:
+            absorb(people[norm(head)], people.pop(key))
+    # the same person under an "aka" name, a nickname or a long form, decided by hand: {name used in the recordings: [other names]}
+    for keep, others in PERSON_MERGES.items():
+        rec = people.get(norm(keep))
+        for other in others:
+            gone = people.get(norm(other))
+            if rec and gone is not None and gone is not rec:
+                absorb(rec, people.pop(norm(other)))
     out = []
     used = set()
     for key in sorted(people):

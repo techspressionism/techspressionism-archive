@@ -1,72 +1,150 @@
 count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise,example_context
-62,greg little,Gregory Little,0.88,13,interview-001;interview-011;interview-016;interview-021;interview-029;salon-016;salon-018;salon-020;salon-029;salon-043;salon-050;salon-060;salon-101,yes,hat you know like patrick just did his first interview with greg little who is our graduate advisor and you know i would encourage 
-40,giovanna,Giovanna Sun,0.8,10,salon-013;salon-030;salon-045;salon-046;salon-049;salon-050;salon-055;salon-060;salon-066;salon-068,yes,u have different periods of work yeah i see a question from giovanna and that's a good question too about she said i have an nft
-32,Patrick,Patrick Lichty,0.67,7,interview-006;interview-012;roundtable-006;salon-009;salon-057;salon-059;salon-069,yes,s definitely going through some stuff at that time I'm sure Patrick can attest to that he was he was right right there with me 
-24,and human,Andy Wauman,0.8,8,interview-028;presentation-002;salon-029;salon-054;salon-092;salon-096;salon-099;salon-100,yes,ow an mk15 and and tools are beautiful and brilliant things and human beings are are pretty brilliant too but where it's all abou
-18,michael reese,Michael Strevens,0.83,5,interview-029;roundtable-001;salon-015;salon-045;salon-060,yes,k so within the next couple of days i'm going to be posting michael reese the interview that i did with him last week which is a real
-16,osvan rosen,Oz Van Rosen,0.87,2,interview-021;salon-029,yes,ideas in addition to myself steve miller helen harrison and osvan rosen the first salon included artist and theorist patrick lichty
+94,greg little,Gregory Little,0.88,13,interview-001;interview-011;interview-016;interview-021;interview-029;salon-016;salon-018;salon-020;salon-029;salon-043;salon-050;salon-060;salon-101,yes,hat you know like patrick just did his first interview with greg little who is our graduate advisor and you know i would encourage 
+70,giovanna,Giovanna Sun,0.8,14,salon-013;salon-022;salon-030;salon-031;salon-032;salon-043;salon-045;salon-046;salon-049;salon-050;salon-055;salon-060;salon-066;salon-068,yes,u have different periods of work yeah i see a question from giovanna and that's a good question too about she said i have an nft
+68,can see,Carmen Moses,0.63,2,salon-009;salon-031,yes,very if everyone could put a thumbs up that'd be great so i can see that everyone knows kind of how to do it nice beautiful all
+53,Patrick,Patrick Lichty,0.67,8,interview-006;interview-012;roundtable-006;salon-009;salon-057;salon-059;salon-069;salon-086,yes,s definitely going through some stuff at that time I'm sure Patrick can attest to that he was he was right right there with me 
+31,Richard,Richard E,0.88,2,salon-062;salon-102,yes,ed the rasta paintings and this artist Patrick carryou sued Richard he won the first round he lost the second round but I've be
+30,michael reese,Michael Strevens,0.83,5,interview-029;roundtable-001;salon-015;salon-045;salon-060,yes,k so within the next couple of days i'm going to be posting michael reese the interview that i did with him last week which is a real
+30,and human,Andy Wauman,0.8,9,interview-028;presentation-002;salon-029;salon-052;salon-054;salon-092;salon-096;salon-099;salon-100,yes,ow an mk15 and and tools are beautiful and brilliant things and human beings are are pretty brilliant too but where it's all abou
+29,cynthia rubin,Cynthia Beth Rubin,0.84,6,salon-020;salon-023;salon-031;salon-032;salon-043;salon-046,yes,where cynthia came from i guess because i was talking about cynthia rubin a second ago wait i kind of love it because you got the las
+27,and spalter,Anne Spalter,0.87,8,interview-006;salon-009;salon-010;salon-014;salon-017;salon-055;salon-066;salon-071,yes,nter and one of the board members said you know this person and spalter have you heard of her and i hadn't at the time and she said
+26,Tintin,TinTin23x,0.8,5,roundtable-002;salon-021;salon-031;salon-068;salon-095,yes,"nt. Oh, we have a nice typed in thing here. One last thing, Tintin 23 x said. My question, for the panel relates the to the so"
+23,michael reese's,Michael Rees,0.89,5,roundtable-001;salon-043;salon-045;salon-049;salon-086,yes,d of like in in in her you know where she's going and maybe michael reese's piece you know in other words these things that you know th
+21,love,LoVid,0.67,1,salon-032,yes, i tend to look at it and it reminds me. Of this feeling of love and happiness.  And the second piece when i started in 2017
+20,osvan rosen,Oz Van Rosen,0.87,2,interview-021;salon-029,yes,ideas in addition to myself steve miller helen harrison and osvan rosen the first salon included artist and theorist patrick lichty
+19,dan weldon,Dan Welden,0.9,1,salon-044,yes,owing you the the current piece which this is played for at dan weldon studio and it's called a solar plate so it's a solar plate 
+19,to paint,Tommy Mintz,0.63,5,salon-028;salon-056;salon-061;salon-064;salon-109,yes,"Amiga artist, Jack Hager, to sit in with him. Are you ready to paint me? Yeah. Ladies and gentlemen, I'm here tonight to help as"
+18,be read,Ben Red,0.86,3,presentation-008;salon-029;salon-086,yes,her that in the original biblical text it's not intended to be read either because it uses mycography little writing so that's 
+17,and Shapiro,Ann Shapiro,0.91,3,interview-001;salon-083;salon-086,yes,"you know there were. I had 2 painting professors, Hippolito and Shapiro and Shapiro said to us."
+17,christine,Christine Sciulli,0.69,1,salon-020,yes,it but she jumped into a show that i did and she said to me christine i want you to do a video installation for my next show and 
 16,Patrick licky,Patrick Lichty,0.89,2,salon-043;salon-075,yes, maybe book design with that but after I married my husband Patrick licky the technology around us around me was different so suddenl
 16,Alan Hirsch,Allen Hirsh,0.82,2,salon-093;salon-108,yes,"ol from zoom, that would be great. And I see I'm gonna pick Alan Hirsch first, st"
-14,cynthia rubin,Cynthia Beth Rubin,0.84,4,salon-020;salon-023;salon-031;salon-046,yes,where cynthia came from i guess because i was talking about cynthia rubin a second ago wait i kind of love it because you got the las
-12,be read,Ben Red,0.86,3,presentation-008;salon-029;salon-086,yes,her that in the original biblical text it's not intended to be read either because it uses mycography little writing so that's 
-12,michael reese's,Michael Rees,0.89,4,roundtable-001;salon-045;salon-049;salon-086,yes,d of like in in in her you know where she's going and maybe michael reese's piece you know in other words these things that you know th
-12,Richard,Richard E,0.88,2,salon-062;salon-102,yes,ed the rasta paintings and this artist Patrick carryou sued Richard he won the first round he lost the second round but I've be
-12,and Shapiro,Ann Shapiro,0.91,3,interview-001;salon-083;salon-086,yes,"you know there were. I had 2 painting professors, Hippolito and Shapiro and Shapiro said to us."
+14,david m,David Mew,0.88,2,salon-025;salon-091,yes,re active in the 1980s in digital art which includes myself david m koko khan and michael wright and in in a context of a organ
+14,"Patrick,",Patrick Lichty,0.67,4,interview-006;roundtable-006;salon-009;salon-086,yes,"my doctors at the Cleveland Clinic said, you know, Patrick, you know, you're…"
+13,lead into,Leila Pinto,0.8,3,interview-029;salon-013;salon-106,yes,se you'd call it and the aesthetics from a few pieces would lead into each other so yeah it does in a way yeah but okay i was jus
+13,colin campbell,Clayton Campbell,0.8,2,roundtable-005;salon-021,yes,nfluenced by norman mclaren who is a canadian filmmaker was colin campbell who was a canadian video artist and jan swinburne and clive
+13,prince magnolia,Prïnce Magnølïa,0.8,1,salon-035,yes,rst artist and then we have a pair of collaborating artists prince magnolia and st rivera and then rounding out our salon today is Mich
+13,to print,Tommy Mintz,0.63,5,salon-015;salon-028;salon-069;salon-073;salon-081,yes," client computer and also on my laptop, which is what I use to print from. I I share using Apple's. I'm service. I call my deskt"
+13,read here,Reed Hearne,0.8,2,interview-011;presentation-006,yes, sensed that it's the next you know title that i'm going to read here let's see let's yeah i'm not dumpsters and clowns okay i'm 
+12,Stephen Pare,Stephen Paré,0.92,2,salon-072;salon-108,yes,u don't have to share it all you could just join so Stephen Stephen Pare is that right am I yeah it's paray thank you all right I ap
+12,Anton,Anton MCHX,0.67,1,salon-074,yes,st I'd like to introduce myself a little bit I'm my name is Anton I'm a digital artist I was born in Kazakhstan I was living 
+12,"Cynthia Rubin,",Cynthia Beth Rubin,0.84,5,interview-029;salon-075;salon-092;salon-098;salon-101,yes,"is to see people come together from all over the world. And Cynthia Rubin, who helped, you know, implement these captions actually org"
+12,patrick right,Patrick Lichty,0.81,1,interview-021,yes,ronicities and i think i it was fascinating to to bump into patrick right before we started our session because i know i met patrick 
+11,lindsay,LINDSAY KOKOSKA,0.64,1,salon-033,yes,s colin who coined the term to expressionism nina david and lindsay are presenters for today and our wonderful audience of othe
+11,Sherry,Sherry Karver,0.63,2,salon-014;salon-066,yes,k you have a great day enjoy your watch thank you all right Sherry hi everybody I wasn't even planning and sharing but in hear
 11,Zeitgeist,zeitgeistmode,0.82,2,interview-027;salon-095,yes,"you were talking about the the onion and the outer layer is Zeitgeist, too, and and I think that this could be a Zeitgeist moment"
-10,lead into,Leila Pinto,0.8,3,interview-029;salon-013;salon-106,yes,se you'd call it and the aesthetics from a few pieces would lead into each other so yeah it does in a way yeah but okay i was jus
-10,"Cynthia Rubin,",Cynthia Beth Rubin,0.84,4,interview-029;salon-092;salon-098;salon-101,yes,"is to see people come together from all over the world. And Cynthia Rubin, who helped, you know, implement these captions actually org"
-10,Tintin,TinTin23x,0.8,2,roundtable-002;salon-095,yes,"nt. Oh, we have a nice typed in thing here. One last thing, Tintin 23 x said. My question, for the panel relates the to the so"
-9,"Patrick,",Patrick Lichty,0.67,1,roundtable-006,,"my doctors at the Cleveland Clinic said, you know, Patrick, you know, you're…"
-8,and spalter,Anne Spalter,0.87,2,salon-009;salon-066,,nter and one of the board members said you know this person and spalter have you heard of her and i hadn't at the time and she said
+10,Deann Stein Hasinoff,Deann S Hasinoff,0.89,1,salon-014,yes,ity today we have presenting susan detroi Sherry Karver and Deann Stein Hasinoff hall hassan off i think i said that correctly i hope i did 
+10,like day,Lee Day,0.8,2,interview-013;salon-036,yes,he canvas and later i took a photo and scanning the digital like day of digital data and then i like randomly like program like 
+10,any human,Andy Wauman,0.8,2,interview-007;interview-025,yes,to become integrated so science and math has its voibles as any human endeavor a new areas that break new ground take a while to 
+10,carmen,Carmen Moses,0.67,2,salon-009;salon-031,yes,No i think everyone just kind of showed up so i mean i know carmen was here early carmen if you want to go by all means [Music
+10,"Osvan Rosen,",Oz Van Rosen,0.87,1,interview-001,yes,"Osvan Rosen, who was in Southampton, who had used"
+9,tommy mintz's,Tommy Mintz,0.92,2,salon-017;salon-084,,timonial about the the value of this is recently like i saw tommy mintz's work that he showed with his photography and the what he cr
+9,be ruled,Ben Red,0.8,2,interview-029;salon-028,,ant to do different things i just break out i don't like to be ruled too much by too many strict rules but i do start out with t
+9,giovanna's son,Giovanna Sun,0.85,2,salon-034;salon-043,,bout the how did you find out about the salon i am i follow giovanna's son on clubhouse and we've been in a few rooms together and i s
+9,Lee schneiberg's,Lee Schnaiberg,0.87,1,salon-073,,ave a minute left also today we're going to experiment with Lee schneiberg's suggestion that at the end of each presentation you can unm
+9,to mind,Tommy Mintz,0.67,2,salon-065;salon-069,,ll right but I will share.  I think about war and it brings to mind my participation in the early 70s and the protests against 
+8,malavika i'm an,Malavika Mandal Andrew,0.7,1,salon-008,,t it okay so i'll try one more time thank you so my name is malavika i'm an artist and my main education is in textile designing i did 
 8,patrick lichthe,Patrick Lichty,0.9,1,salon-018,,ages for a couple other shows my colleague from grad school patrick lichthe and i are curating a show that's going to be an online exhi
-8,colin campbell,Clayton Campbell,0.8,2,roundtable-005;salon-021,,nfluenced by norman mclaren who is a canadian filmmaker was colin campbell who was a canadian video artist and jan swinburne and clive
-8,david m,David Mew,0.88,2,salon-025;salon-091,,re active in the 1980s in digital art which includes myself david m koko khan and michael wright and in in a context of a organ
-8,like day,Lee Day,0.8,2,interview-013;salon-036,,he canvas and later i took a photo and scanning the digital like day of digital data and then i like randomly like program like 
+8,patrick,PATRICK LICHTY,0.67,1,salon-037,,ts well my cake is pretty baked okay thanks great all right patrick i know we're at 705 so we're a couple of minutes over over 
+8,michael came,Michael Farmer,0.85,2,salon-040;salon-100,,lly develop it as far as they can like the way that roz and michael came up with this handshake concept or whatever else and you kno
 8,an spalter,Anne Spalter,0.91,1,salon-043,, excited about this so without further Ado let's start with an spalter who's going to share her screen thank you so much and I'm g
-8,dan weldon,Dan Welden,0.9,1,salon-044,,owing you the the current piece which this is played for at dan weldon studio and it's called a solar plate so it's a solar plate 
 8,patrick litke,Patrick Lichty,0.81,1,salon-048,, know you victor when you had your discussion with pat with patrick litke patrick was talking about the generative adversarial networ
 8,michael one,Michael Pointer,0.85,2,salon-051;salon-073,,th here and then these are the very final ones so thank you michael one one thing that i'm always really impressed by is how much y
-8,Stephen Pare,Stephen Paré,0.92,2,salon-072;salon-108,,u don't have to share it all you could just join so Stephen Stephen Pare is that right am I yeah it's paray thank you all right I ap
-8,Anton,Anton MCHX,0.67,1,salon-074,,st I'd like to introduce myself a little bit I'm my name is Anton I'm a digital artist I was born in Kazakhstan I was living 
 8,Patrick liy,Patrick Lichty,0.88,1,salon-076,,fairly recent because of the depth I remember some time ago Patrick liy was doing an awful lot of these and he said he was doing th
+8,very bright,Verneda Lights,0.64,2,interview-025;salon-085,,"And some very bright, colorful light show done with lasers"
 8,see me,Steve Miller,0.67,1,salon-090,,"nsions, and I can show you what I mean. Can you see you can see me right, because I can't see me."
+8,since grad,Simone Gad,0.8,2,salon-091;salon-105,,he late mid to late 1980s and in the 1980s as I'd been like since grad school work I worked with ornament and Architectural imager
 8,been fed,Ben Red,0.8,1,salon-103,,"Then the AI analyzes what has been fed, and it learns patterns, like what cat, sunset, or in the s"
-8,to paint,Tommy Mintz,0.63,4,salon-056;salon-061;salon-064;salon-109,,"Amiga artist, Jack Hager, to sit in with him. Are you ready to paint me? Yeah. Ladies and gentlemen, I'm here tonight to help as"
-8,any human,Andy Wauman,0.8,2,interview-007;interview-025,,to become integrated so science and math has its voibles as any human endeavor a new areas that break new ground take a while to 
-8,read here,Reed Hearne,0.8,2,interview-011;presentation-006,, sensed that it's the next you know title that i'm going to read here let's see let's yeah i'm not dumpsters and clowns okay i'm 
-8,patrick right,Patrick Lichty,0.81,1,interview-021,,ronicities and i think i it was fascinating to to bump into patrick right before we started our session because i know i met patrick 
-8,can see,Carmen Moses,0.63,1,salon-009,,very if everyone could put a thumbs up that'd be great so i can see that everyone knows kind of how to do it nice beautiful all
-7,michael came,Michael Farmer,0.85,2,salon-040;salon-100,,lly develop it as far as they can like the way that roz and michael came up with this handshake concept or whatever else and you kno
+8,leslie,Leslie Kell,0.71,1,salon-009,,er i believe is going to be. Where are you.  I just saw you leslie i believe you were the next supposed to be the next present
+8,can use,Carmen Moses,0.63,2,salon-009;salon-031,,"All things materials you can use, you can print."
+8,And one,Andrea Bonaceto,0.64,2,interview-009;salon-015,,"And one of my friends, Marcello, Mari, approached me and said, OK, "
+7,and michael spalter,Anne Morgan Spalter,0.68,1,salon-010,,utiful work and the traditional art world really hated them and michael spalter who is a did an art history major at brown said wow this is
+7,vernetta lights,Verneda Lights,0.9,2,salon-012;salon-043,, they surrounded in plastic for protection i think that was vernetta lights right and so the real world correlate i can you can you be 
+7,michael pierce,Michael Pierre Price,0.82,1,salon-013,, of you younger ones coming in here now it's something that michael pierce and i talked about pierre price have talked about as well b
+7,michael pierce,Michael Pointer,0.83,1,salon-013,, of you younger ones coming in here now it's something that michael pierce and i talked about pierre price have talked about as well b
+7,john lean,John Zieman,0.8,1,salon-024,,ll the way back to the iphone 4 and and there's a filmmaker john lean and there's a couple of photographers everybody's got their
+7,brandon gallus,Brandon S Gellis,0.8,2,salon-025;salon-026,,alavika and ryan henderson and then we have a negin and and brandon gallus or jealous ellis i think ellis yep and then darcy who just 
+7,and preach,Andrew Reach,0.82,1,salon-026,,hich christ tells his disciples to go ye into all the world and preach the gospel okay to spread the message and the good news of 
+7,alan kennard,Alan Kinnard,0.92,1,salon-029,,ue because i i forgot that we had two so sorry all right so alan kennard i'm here thanks davo all right this piece is part of a seri
+7,red team,RnD Team,0.88,1,salon-030,,is painting and then it was actually a very like orange and red team based artwork and then last minute i added color correction
+7,giovanna stuff,Giovanna Sun,0.85,1,salon-031,,lly only have 30 minutes left and i know we need to get the giovanna stuff but i'll try to get through these really quick try to highl
+7,be fired,Ben Red,0.8,1,salon-032,,gital the guns often want to be in check they don't want to be fired i feel when i'm doing them there's some sort of wrestling m
+7,michael earlier,Michael Farmer,0.83,1,salon-034,,ations today has been about nfts and our nfts in art i know michael earlier you had you said you had something that you were potentiall
+7,michael earlier,Michael Roller,0.83,1,salon-034,,ations today has been about nfts and our nfts in art i know michael earlier you had you said you had something that you were potentiall
+7,andy thomas's,Andy Thomas,0.92,1,salon-040,,just went up and the russian artist muth and this is one of andy thomas's nfts at the top there's nagin's piece which was selected by
+7,frederick pons,Frédéric Pons,0.81,1,salon-051,,uced to mid journey by my friend and fellow tech specialist frederick pons and since a lot of my digital work revolves around visions 
+7,live day,Lee Day,0.8,1,salon-052,,is work and his art that the the world in which we normally live day to day and the world in which we still talk about today is 
+7,Michael Price's,Michael Rees,0.81,1,salon-055,,aughter] all right the next up we have Corey I think that's Michael Price's friend correct yeah yep yeah so I was hanging out at of cou
+7,much calmer,Mich Palmer,0.82,1,salon-055,,ted access to the General Public so the discussion level is much calmer much cooler than it was when action painting and pop art ca
+7,Michael Warner,Michael Farmer,0.86,1,salon-061,,xt artist up is Michael that's me yeah Michael or the other Michael Warner oh okay well I'm zooming in from Bayshore Long Island I'm a
+7,chalda,Chalda Maloff,0.63,1,salon-064,,e whole layer idea so thank you yeah thank you awesome okay chalda is next I'm in Austin Texas and like some of these others I
+7,Giovanna son,Giovanna Sun,0.92,2,salon-043;salon-074,,2024 show in the summer that I'm working with sudden gently Giovanna son co-curating already wow wow I like the idea like that one o
+7,meltdown,Meltdownlove,0.8,1,salon-086,, Miller and ra I'm sorry Oz van Rosen and it's like we have meltdown love and Colin you're gonna have to help me with some of th
+7,michael,Michael Pointer,0.64,1,salon-017,,the last question for michael is coming from clive. Yeah hi michael i really love your work great thanks hi. Back [Laughter]. T
+7,Darcy garbage,Darcy Gerbarg,0.85,1,salon-043,, Beth rubben all right Vern. Lights Karen. Lefur r.  Janusa Darcy garbage nein. Estaban Neen I should know that. Giovana Alias dubom 
+7,Michael,Michael Warner,0.67,1,salon-061,,ute myself thank you and if you've had anyone that's shared Michael if you could if you're able to lower your hand also that wo
+7,two minutes,Tommy Mintz,0.64,1,salon-073,, maybe somebody else can go first and then I'll be ready in two minutes. All right is there anyone else who wants to share.
+7,"Leslie,",Leslie Kell,0.71,1,salon-009,,"Leslie, I believe you were the next,"
+7,SuperRare,Sherry Karver,0.64,1,salon-010,,ou can see some of that on my website and the rest of it on SuperRare or Viv3.
+7,"Giovanna,",Giovanna Sun,0.8,3,salon-030;salon-031;salon-055,,"participation and all of this. It means a lot. Giovanna, did you just want to say aloud what"
 6,randy matashevitz,Randi Matushevitz,0.88,2,salon-011;salon-108,,s randy so hold on good to see you still there randy hi i'm randy matashevitz i'm very new to the group but this is my second meeting i c
-6,Deann Stein Hasinoff,Deann S Hasinoff,0.89,1,salon-014,,ity today we have presenting susan detroi Sherry Karver and Deann Stein Hasinoff hall hassan off i think i said that correctly i hope i did 
-6,tommy mintz's,Tommy Mintz,0.92,2,salon-017;salon-084,,timonial about the the value of this is recently like i saw tommy mintz's work that he showed with his photography and the what he cr
-6,be ruled,Ben Red,0.8,2,interview-029;salon-028,,ant to do different things i just break out i don't like to be ruled too much by too many strict rules but i do start out with t
-6,lindsay,LINDSAY KOKOSKA,0.64,1,salon-033,,s colin who coined the term to expressionism nina david and lindsay are presenters for today and our wonderful audience of othe
+6,caro ramonde,Carolina Ramonde,0.86,2,salon-025;salon-086,,nother pairing and then michael pointer is also paired with caro ramonde so there's six pairs all together and each pairing produced
 6,Richards,Richard E,0.82,2,interview-002;salon-057,, day and that was really crazy and then also was it Michael Richards who was in the residency he didn't get out he just did not 
-6,Sherry,Sherry Karver,0.63,2,salon-014;salon-066,,k you have a great day enjoy your watch thank you all right Sherry hi everybody I wasn't even planning and sharing but in hear
+6,Michael peer,Michael Rees,0.83,3,interview-017;salon-031;salon-063,, [Music] program and just the other day I was speaking with Michael peer price and he mentioned how the word nft has in a way become
+6,called Major,Chalda Maloff,0.64,1,salon-069,,ipulated it in procreate this other one has a spatial theme called Major Tom to Ground Control this is a photograph of a shingle on 
 6,and spaulter,Anne Spalter,0.83,2,roundtable-001;salon-071,,ordon Patrick lichty DJ Spooky Steve Miller Joseph mcvittal and spaulter and Sasha Stiles and if anyone else in here has any books t
-6,Lee schneiberg's,Lee Schnaiberg,0.87,1,salon-073,,ave a minute left also today we're going to experiment with Lee schneiberg's suggestion that at the end of each presentation you can unm
-6,very bright,Verneda Lights,0.64,2,interview-025;salon-085,,"And some very bright, colorful light show done with lasers"
-6,since grad,Simone Gad,0.8,2,salon-091;salon-105,,he late mid to late 1980s and in the 1980s as I'd been like since grad school work I worked with ornament and Architectural imager
+6,did me,David Mew,0.8,1,salon-076,,reaky no hands I think rata has her hand up oh hey so Apple did me a big favor when they put out iOS 17 I've been in the habit
+6,Sherry Carter,Sherry Karver,0.85,2,salon-028;salon-087,,cari ann shim sham**: Thank you. Sherry Carter. Thank you. Sherry. Wonderful series.
 6,systems,Systaime,0.67,2,salon-092;salon-106,,"without further ado, I am going to share my screen and play systems, video, which is about 7 and a half minutes. So"
+6,"Renada, Yanaszewska",Renata Janiszewska,0.81,1,salon-094,,"rk is featured alongside and commissioned pieces by artists Renada, Yanaszewska, Karen LaFleur, and Jan Swinburne."
+6,Renadi Anisewska,Renata Janiszewska,0.82,1,salon-094,,"to gain visibility to the group and our Instagram, Curator, Renadi Anisewska."
+6,Darcy Gabar,Darcy Gerbarg,0.83,1,salon-094,,people showing up. Darcy Gabar has a beautiful augmented reality. Sculpture here that Sung
+6,Renata Yanashewska,Renata Janiszewska,0.83,1,salon-094,,"And now I'd like to pass the mic on to Renata Yanashewska, who's our next artist presenter, and Renata is going to be"
 6,Patrick Linty,Patrick Lichty,0.89,1,salon-095,," for as a studio assistant when I was an undergraduate, and Patrick Linty, who I met in graduate school. We were both doing our mfas "
 6,even,eegun,0.67,1,salon-096,,hysics and neuroscience. Some theories of consciousness and even elements of Buddhism and several different indigenous belie
 6,Egan,eegun,0.67,1,salon-096,,"Egan is an Istanbul based artist, generative artist, and he uses"
 6,and his,Allen Hirsh,0.67,1,salon-097,,"ot a big fan of the present President of the United States, and his"
 6,"Chris,",Chris Bly,0.71,1,salon-097,,"I have a very brief question for Chris, and then a general question for the 3 artists. For Chris."
+6,to point,Tommy Mintz,0.63,3,salon-076;salon-086;salon-101,," and this one as well, here on the right. And I'd also like to point out the color palette in this painting is very soft."
 6,Stephen Paray,Stephen Paré,0.88,2,salon-106;salon-108,,"come, everybody, to this salon, which, I am co-hosting with Stephen Paray. We're really happy to bring"
 6,ann spalder,Anne Spalter,0.87,2,interview-006;salon-051,,y platform project and you know this is also something that ann spalder is working with and Carla Gannis and and so the thing is is
+6,be fried,Ben Red,0.8,1,interview-008,,nd and the potatoes here had too high of a water content to be fried commercially for mcdonald's so this potato kind of potato t
+6,older person,Oliver Peterson,0.81,1,interview-013,,sfied so in 2015 or 16 i decided to go back to school as an older person with lots of little people so that was that was fun and i j
+6,francisco asian,Francis Mariano,0.8,1,interview-014,,eing in san francisco was a boon to that because of the san francisco asian art museum and just the incredible mix of people from all o
+6,Christina albu,Christina Galbiati,0.81,1,interview-026,,formances concurrently with brainwave drawings and to quote Christina albu just as sobel's video performances involve a gestural dialo
+6,vector based,Victor Acevedo,0.69,2,interview-021;salon-020,, artworks which ran on the pc and it was a two and a half d vector based. System this is an early version of that so you've got your
+6,"Sherry,",Sherry Karver,0.63,2,salon-010;salon-014,,"Yeah, Sherry, I was going to ask you, where are you located?"
+6,"Michael,",Michael Pointer,0.64,1,salon-017,,"Hi Michael, I really love your work."
+6,"Uli,",Uli Ap,0.67,1,salon-018,,"Thank you, Uli, for your presentation."
+6,"Christine,",Christine Sciulli,0.69,1,salon-020,,"You know, Christine, if maybe if you go out"
+6,Patrick lit,Patrick Lichty,0.88,1,salon-048,,With Patrick lit key.
+5,emily bruton-schilling,Emily B. Schilling,0.8,1,salon-008,,is in here emily would you like to present hi everybody i'm emily bruton-schilling and i'm here from new york city and very excited to be here
+5,an alter,Anne Spalter,0.8,1,salon-008,,ke collaboratively that if there's a space that you know if an alter an alternate space other than coons matrix for all of the f
+5,brandon gallis,Brandon S Gellis,0.87,1,salon-009,, thank you gregory all right moving down the list we've got brandon gallis hi yes thank you and thanks for not butchering my last name
+5,roman vorosco,Roman Verostko,0.81,1,salon-009,, that really split is that when i started working with what roman vorosco an artist inven in minneapolis would call algorithm in othe
+5,and stomas,Andy Thomas,0.86,1,salon-046,,ot nine piece work and it also has incisions and sutures as and stomas as he has he is currently recovering from throat cancer and
+5,Tommy Mince,Tommy Mintz,0.82,2,salon-047;salon-083,,"ion. Which is gonna be happening in August. It's curated by Tommy Mince, who's been involved with the text presents community for s"
+5,Tommy Mints,Tommy Mintz,0.91,2,salon-051;salon-083,,"the curator is Tommy Mints, MINT z."
 5,and share,Ann Shapiro,0.7,2,presentation-001;salon-098,,"anyone else in the Zoom to jump in and share some work, that, you know, might be relevant to the topic, "
-4,malavika i'm an,Malavika Mandal Andrew,0.7,1,salon-008,,t it okay so i'll try one more time thank you so my name is malavika i'm an artist and my main education is in textile designing i did 
-4,emily bruton-schilling,Emily B. Schilling,0.8,1,salon-008,,is in here emily would you like to present hi everybody i'm emily bruton-schilling and i'm here from new york city and very excited to be here
-4,an alter,Anne Spalter,0.8,1,salon-008,,ke collaboratively that if there's a space that you know if an alter an alternate space other than coons matrix for all of the f
-4,brandon gallis,Brandon S Gellis,0.87,1,salon-009,, thank you gregory all right moving down the list we've got brandon gallis hi yes thank you and thanks for not butchering my last name
-4,roman vorosco,Roman Verostko,0.81,1,salon-009,, that really split is that when i started working with what roman vorosco an artist inven in minneapolis would call algorithm in othe
-4,and michael spalter,Anne Morgan Spalter,0.68,1,salon-010,,utiful work and the traditional art world really hated them and michael spalter who is a did an art history major at brown said wow this is
+5,Harrison,Helen A. Harrison,0.64,2,roundtable-001;roundtable-006,,"Helen A. Harrison is an art historian, journalist, author, and retired direct"
+5,brandon,Brandon Gellis,0.67,1,salon-010,, world i could think about that or you know.  Who said that brandon hi well then maybe you should be my collaborator. All right
+5,some smaller,Steve Miller,0.67,1,salon-011,,y're 21 inches long. And i think they're 19 by 21. i i have some smaller scale ones that are 12 by 21.. I basically decided to work 
+5,colin's going,Colin Goldberg,0.67,1,salon-012,, chat i'm going to be here for a bit after. I don't know if colin's going to be here for a bit after too or if he has to go but i'll 
+5,gary thanks,Gary Hopkins,0.7,1,salon-016,,ome more work cause filling me up son but always a pleasure gary thanks thank you. Gary i really like the. Seeing the evolution of 
+5,uli,Uli Ap,0.67,1,salon-018,,en. Okay and i guess we'll take two more questions and then uli can definitely get on with our presentation so i know she's
+5,david chung,David Cohen,0.82,1,salon-033,,hellers who's the director of the detroit institute of arts david chung who is the director of the university of michigan's master 
+5,two into,Tommy Mintz,0.63,1,salon-056,, couched in the time of when I first started like a year or two into the series of portrait of women and. This is work that I wa
+5,can hold,Chanee Choi,0.63,1,salon-059,,em because we need to be able to know what's going on so we can hold them accountable and I think that we should be vocal and bu
+5,solo,ScoJo,0.67,1,salon-059,,ve had an avatar that I've been working with we've done two solo shows together we've done multiple she has her own Zoom acc
+5,can copy,Chanee Choi,0.63,1,salon-059,, a lot of struggles and worried about the point how much AI can copy their work so I I couldn't just avoid their idea because th
+5,mayor Shapiro,Marlow Shami,0.64,1,salon-063,, important essay and this is what I wanted to talk about by mayor Shapiro in the effort to apply semiotics and the idea of of signs a
+5,carl aganis,Carla Gannis,0.87,2,interview-011;salon-037,,ppenheimer tamiko thiel gardens of the anthropocene and and carl aganis did a comedy routine with the inflatable boy that was very 
+5,see later,Steve Miller,0.67,1,roundtable-004,,edical checkup by x-ray in the Flora and Fauna which you'll see later so one of the you know what happens in this you know leveli
+5,the organ,Trey Morgan,0.8,1,interview-004,,I am able to use his percussion and the left-hand half of the organ manual in his version.
+5,Carol Ramon,Carolina Ramonde,0.81,1,salon-026,,and Carol Ramon.
+5,Darcy Garbag,Darcy Gerbarg,0.88,1,salon-043,,"Hi Roz, it's actually Darcy Garbag."
+5,Sherry Carver's,Sherry Karver,0.86,1,salon-086,,is Sherry Carver's piece.
 4,mate bakula,Matej Vakula,0.87,1,salon-011,,old on all right there we go i hope it works now my name is mate bakula i'm an artist and also i i'm finishing now my phd at rensse
-4,vernetta lights,Verneda Lights,0.9,1,salon-012,, they surrounded in plastic for protection i think that was vernetta lights right and so the real world correlate i can you can you be 
-4,michael pierce,Michael Pierre Price,0.82,1,salon-013,, of you younger ones coming in here now it's something that michael pierce and i talked about pierre price have talked about as well b
-4,michael pierce,Michael Pointer,0.83,1,salon-013,, of you younger ones coming in here now it's something that michael pierce and i talked about pierre price have talked about as well b
 4,sue buyer,Sue Beyer,0.89,1,salon-014,,hundred pieces after you paid the initial gas fee thanks to sue buyer she actually let let us know about that you know so i jumpe
 4,andrea bonaccito,Andrea Bonaceto,0.9,1,salon-014,,t about it next next time we have i believe it's so we have andrea bonaccito yeah yeah so lineup andrea actually if you guys hadn't hear
 4,brandon gillis,Brandon S Gellis,0.87,1,salon-015,,oing to be passing the torch of the exhibition installer to brandon gillis for that that particular installation of the this project h
@@ -74,24 +152,10 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 4,column one,Colman Jones,0.82,1,salon-016,, know i think that's i think it's perfectly fine one of the column one of the i was watching a a youtube video the other day it wa
 4,michael another,Michael Pointer,0.8,1,salon-020,,ten thousand women thank you oh and we have a question from michael another question like had one chat but he also has something to say
 4,rebecca tombo,Rebecca Tombaugh,0.83,1,salon-023,,rtists including two that are presenting today it should be rebecca tombo and cynthia oh god i don't want to butcher your last name d
-4,john lean,John Zieman,0.8,1,salon-024,,ll the way back to the iphone 4 and and there's a filmmaker john lean and there's a couple of photographers everybody's got their
-4,brandon gallus,Brandon S Gellis,0.8,1,salon-025,,alavika and ryan henderson and then we have a negin and and brandon gallus or jealous ellis i think ellis yep and then darcy who just 
-4,caro ramonde,Carolina Ramonde,0.86,1,salon-025,,nother pairing and then michael pointer is also paired with caro ramonde so there's six pairs all together and each pairing produced
 4,mac problem,Mac Premo,0.8,1,salon-025,,s i won't be first okay all right that's that's fine it's a mac problem or a mac security issue i'm i'm ready to i'm cute yeah you 
 4,carol ramonde,Carolina Ramonde,0.9,1,salon-026,,lose to my middle name because my real name is ramon but so carol ramonde yeah and michael so what do you who wants to speak first go
-4,and preach,Andrew Reach,0.82,1,salon-026,,hich christ tells his disciples to go ye into all the world and preach the gospel okay to spread the message and the good news of 
 4,sean mc,Sean Mick,0.88,1,salon-029,,guess wants to go if you want to pull his his work up maybe sean mc correct yep all right that's the one the ones that has anim
-4,alan kennard,Alan Kinnard,0.92,1,salon-029,,ue because i i forgot that we had two so sorry all right so alan kennard i'm here thanks davo all right this piece is part of a seri
-4,red team,RnD Team,0.88,1,salon-030,,is painting and then it was actually a very like orange and red team based artwork and then last minute i added color correction
-4,giovanna stuff,Giovanna Sun,0.85,1,salon-031,,lly only have 30 minutes left and i know we need to get the giovanna stuff but i'll try to get through these really quick try to highl
-4,be fired,Ben Red,0.8,1,salon-032,,gital the guns often want to be in check they don't want to be fired i feel when i'm doing them there's some sort of wrestling m
-4,michael earlier,Michael Farmer,0.83,1,salon-034,,ations today has been about nfts and our nfts in art i know michael earlier you had you said you had something that you were potentiall
-4,giovanna's son,Giovanna Sun,0.85,1,salon-034,,bout the how did you find out about the salon i am i follow giovanna's son on clubhouse and we've been in a few rooms together and i s
-4,michael earlier,Michael Roller,0.83,1,salon-034,,ations today has been about nfts and our nfts in art i know michael earlier you had you said you had something that you were potentiall
-4,prince magnolia,Prïnce Magnølïa,0.8,1,salon-035,,rst artist and then we have a pair of collaborating artists prince magnolia and st rivera and then rounding out our salon today is Mich
-4,patrick,PATRICK LICHTY,0.67,1,salon-037,,ts well my cake is pretty baked okay thanks great all right patrick i know we're at 705 so we're a couple of minutes over over 
 4,been re,Ben Red,0.86,2,salon-037;salon-086,, actually created in the midst of an insomnia bout and it's been re it's a fractal recreated manipulated and recreated again wi
-4,andy thomas's,Andy Thomas,0.92,1,salon-040,,just went up and the russian artist muth and this is one of andy thomas's nfts at the top there's nagin's piece which was selected by
 4,susan any,Susan Huang,0.8,1,salon-040,,out five years of working so okay [Music] awesome thank you susan any okay i think we'll probably hold questions until everyone's
 4,Michael ree's,Michael Strevens,0.83,1,salon-043,, to me as well about some information about specific pieces Michael ree's sculptures they wanted to know like some information about 
 4,Darcy garbar,Darcy Gerbarg,0.88,1,salon-043,,o say your name after all these years really Darcy that I'm Darcy garbar an artist who straddles to I don't think you're seeing this
@@ -101,31 +165,21 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 4,margaret dewinsky,Margaret Dolinsky,0.88,1,salon-046,,nists who isn't very often here very often is participating margaret dewinsky she's here we'll talk about her her work and she's going to
 4,christine shuli,Christine Sciulli,0.88,1,salon-046,,self patrick steve miller Joseph Nechvatal felix rothschild christine shuli and anne spalter so very pleased with the you know the publ
 4,roman vrosko's,Roman Verostko,0.86,1,salon-047,,l and she's 90 92 98. 98 you know bravo you know and so and roman vrosko's 93 and you know and so i guess what i'm saying is is that t
-4,frederick pons,Frédéric Pons,0.81,1,salon-051,,uced to mid journey by my friend and fellow tech specialist frederick pons and since a lot of my digital work revolves around visions 
 4,ann spalter's,Anne Spalter,0.88,1,salon-051,,f valid usages for it and and i did you know take notice of ann spalter's recent collection of ai spaceships which you know i thought
-4,live day,Lee Day,0.8,1,salon-052,,is work and his art that the the world in which we normally live day to day and the world in which we still talk about today is 
 4,Andrea bonaccato,Andrea Bonaceto,0.9,1,salon-055,,t was really one of the artists who started coming early on Andrea bonaccato who you know he was the person who sort of he was minting s
-4,Michael Price's,Michael Rees,0.81,1,salon-055,,aughter] all right the next up we have Corey I think that's Michael Price's friend correct yeah yep yeah so I was hanging out at of cou
-4,much calmer,Mich Palmer,0.82,1,salon-055,,ted access to the General Public so the discussion level is much calmer much cooler than it was when action painting and pop art ca
 4,Marlow,Marlow Shami,0.67,1,salon-056,,resting variety of work there that you shared and let's see Marlow is up next hi everyone I have a very short keynote I'm goin
-4,Michael Warner,Michael Farmer,0.86,1,salon-061,,xt artist up is Michael that's me yeah Michael or the other Michael Warner oh okay well I'm zooming in from Bayshore Long Island I'm a
 4,Susan shutan,Susan Huang,0.87,1,salon-063,,ho you're around is really important another friend of mine Susan shutan makes shaped they're not the one on the right it's not actu
 4,Michael after,Michael Farmer,0.81,1,salon-063,,n Colin Goldberg are there any people who'd like to present Michael after Colin thank you and I guess that will probably take us an h
 4,Carla ganis's,Carla Gannis,0.88,1,salon-063,, will be and to obtain all the information you simply go to Carla ganis's Instagram page and she came to a couple of our meetings she
-4,chalda,Chalda Maloff,0.63,1,salon-064,,e whole layer idea so thank you yeah thank you awesome okay chalda is next I'm in Austin Texas and like some of these others I
-4,called Major,Chalda Maloff,0.64,1,salon-069,,ipulated it in procreate this other one has a spatial theme called Major Tom to Ground Control this is a photograph of a shingle on 
 4,Eva David,Eva Davidova,0.86,1,salon-071,,n New York both of them have like liked expressionist stuff Eva David zwerner which I was very surprised about and pleased with s
 4,Mike Romeo Knight shining,M.Romeo - Night Shining,0.83,1,salon-074,, work that I'm planning on asking to be on the show this is Mike Romeo Knight shining eat a sculpture I'd like to have some physical pieces I kno
 4,Michael Lee,Michael Rees,0.87,1,salon-074,,ve you the names of the five topics they'll be explained by Michael Lee after I finish so the first would be tutorials the second O
 4,sanjin Lee,Seungjin Lee,0.82,1,salon-074,,ry nice walls really so I'm working with sung Jin here I am sanjin Lee who runs the digiana studio oh here's an elevated view in L
-4,Giovanna son,Giovanna Sun,0.92,1,salon-074,,2024 show in the summer that I'm working with sudden gently Giovanna son co-curating already wow wow I like the idea like that one o
 4,Beth gumo,Beth Giacummo,0.82,1,salon-075,,e put out for her on Instagram and Facebook as well is that Beth gumo that's still the point person there so she's a really good 
 4,Sue buer,Sue Beyer,0.82,1,salon-076,,s that was in the the expressionism digital and Beyond show Sue buer who's from Australia when I was looking at a lot of her wor
-4,did me,David Mew,0.8,1,salon-076,,reaky no hands I think rata has her hand up oh hey so Apple did me a big favor when they put out iOS 17 I've been in the habit
 4,datamash,Data_m0sh,0.82,1,salon-076,,log whereas a lot of glitch world is software you know like datamash like what's it photoos photoos is probably a popular softwa
 4,Judy Jacobs,Judith Jacobs,0.83,2,salon-077;salon-079,,"And I've been working. I've been working on this along with Judy Jacobs, put a lot of time into trying to figure it out so II haven"
 4,Carrie Anne,Carrie MaKenna,0.8,1,salon-080,,"h that little introduction, I'm going to ask either Joey or Carrie Anne to speak. Please"
-4,to print,Tommy Mintz,0.63,2,salon-073;salon-081,," client computer and also on my laptop, which is what I use to print from. I I share using Apple's. I'm service. I call my deskt"
 4,Patrick Licktie,Patrick Lichty,0.83,1,salon-081,,"ow the longer that this goes on, and this is something that Patrick Licktie had kind of emphasized"
 4,rata yanisha,Renata Janiszewska,0.67,1,salon-086,,irst day of classes today for Kingsboro college and and I'm rata yanisha coming to you from lion's head in Canada Tommy curated the 
 4,Mary and strand,Mary Ann Strandell,0.85,1,salon-086,,color as a formative you know generative object if you will Mary and strand D's lenticular image which I'm not sure if you're going to 
@@ -135,14 +189,9 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 4,sunin Le,Seungjin Lee,0.8,1,salon-086,,ch happens to be the second largest piece in the show after sunin Le can I get this all in the frame 13 foot by 13 put digital a
 4,Francine levenson,Francene Levinson,0.88,1,salon-086,, really enjoyed how those two Works paired with one another Francine levenson is underneath Roy Nicholson there and above Moritz alre wor
 4,Steven par,Stephen Paré,0.82,1,salon-086,,uerto Rican artists yes yes and and then we have a print by Steven par above work by what do we have here we have Lee Musgrave act
-4,meltdown,Meltdownlove,0.8,1,salon-086,, Miller and ra I'm sorry Oz van Rosen and it's like we have meltdown love and Colin you're gonna have to help me with some of th
 4,Karen laflor,Karen LaFleur,0.88,1,salon-091,,this weekend rata it's a two-person show with Rady anfa and Karen laflor which you know is an incredible piece of video art and then
 4,sustain,Systaime,0.67,1,salon-092,,e artists that are presenting. But I do have a question for sustain. In your presentation you mentioned that AI involves collag
 4,Renada Yanaszewska,Renata Janiszewska,0.83,1,salon-093,,"d between Cape Cod based Karen, Lafleur, and Canadian-based Renada Yanaszewska, Titled Mariniana."
-4,"Renada, Yanaszewska",Renata Janiszewska,0.81,1,salon-094,,"rk is featured alongside and commissioned pieces by artists Renada, Yanaszewska, Karen LaFleur, and Jan Swinburne."
-4,Renadi Anisewska,Renata Janiszewska,0.82,1,salon-094,,"to gain visibility to the group and our Instagram, Curator, Renadi Anisewska."
-4,Darcy Gabar,Darcy Gerbarg,0.83,1,salon-094,,people showing up. Darcy Gabar has a beautiful augmented reality. Sculpture here that Sung
-4,Renata Yanashewska,Renata Janiszewska,0.83,1,salon-094,,"And now I'd like to pass the mic on to Renata Yanashewska, who's our next artist presenter, and Renata is going to be"
 4,Anne said,Ann Shapiro,0.7,1,salon-098,,", some are digital, some are mixed media on paper, and like Anne said, I have a 13x19 printer."
 4,same thing,Sue Huang,0.63,1,salon-102,,"conduct research on Earth in the hopes of one day doing the same thing on Mars, and they're extremely competitive. It was not easy"
 4,Michael uses,Michael Rees,0.83,1,salon-103,,"As a user of Midjourney, I know Michael… Michael uses Midjourney heavily."
@@ -151,13 +200,9 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 4,at annspalter.com,Anne Spalter,0.69,1,interview-002,,on among others her artwork is available for viewing online at annspalter.com and with that we'll get started so welcome man thanks for c
 4,ann smalter,Anne Spalter,0.87,1,interview-005,,jumped as a result as well you know i know i was talking to ann smalter about that recently and she's on a bunch of these different
 4,michael creates,Michael Rees,0.89,1,interview-007,,veloped developed and refined a unique artistic perspective michael creates his original fine art prints based on his own specialized m
-4,be fried,Ben Red,0.8,1,interview-008,,nd and the potatoes here had too high of a water content to be fried commercially for mcdonald's so this potato kind of potato t
-4,older person,Oliver Peterson,0.81,1,interview-013,,sfied so in 2015 or 16 i decided to go back to school as an older person with lots of little people so that was that was fun and i j
-4,francisco asian,Francis Mariano,0.8,1,interview-014,,eing in san francisco was a boon to that because of the san francisco asian art museum and just the incredible mix of people from all o
 4,de luz,Deb Lutz,0.86,1,interview-016,,t inform our work but mostly i have to admit paul berlio je de luz and of course felix waltalvi who wrote a series of works ca
 4,christine chile,Christine Sciulli,0.81,1,interview-016,,volved in is so you know like we were introduced through by christine chile who's one of the artists that's going to be in the involved
 4,michael chamber,Michael Farmer,0.83,1,interview-024,,ith three other people marco vasi let's see louis jaffe and michael chamber they should all get credit well after one year of me being 
-4,Christina albu,Christina Galbiati,0.81,1,interview-026,,formances concurrently with brainwave drawings and to quote Christina albu just as sobel's video performances involve a gestural dialo
 4,mark like,Mark Klink,0.84,1,presentation-004,,"the spirit of the abstract expressionists. So, say I make a mark like that, and then I use these 3D tools in Adobe Illustrator th"
 4,mark like,Mark Walker,0.8,1,presentation-004,,"the spirit of the abstract expressionists. So, say I make a mark like that, and then I use these 3D tools in Adobe Illustrator th"
 4,Michael Reeves,Michael Strevens,0.87,1,roundtable-001,,'re seeing so different media so in the center here we have Michael Reeves augmented reality work relating to sculptural work and then
@@ -166,13 +211,23 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 4,Renadia Nashevska's,Renata Janiszewska,0.65,1,roundtable-005,,Thanks so much chat. And what about Renadia Nashevska's work? Can you tell me a little bit about the artist and her
 4,Renata's answers,Renata Janiszewska,0.71,1,roundtable-005,,"Well, Jen, you were mentioned in Renata's answers. So how about you go next?"
 4,be bored,Ben Red,0.8,1,roundtable-005,,"ored while you're making that work, then your audience will be bored with it as well, and I took that to heart, and I never let "
-4,vector based,Victor Acevedo,0.69,2,interview-021;salon-020,, artworks which ran on the pc and it was a two and a half d vector based. System this is an early version of that so you've got your
 4,Patrick lick,Patrick Lichty,0.85,1,salon-043,,y else have anything else to say since you mentioned it Ros Patrick lick and myself will be doing one great handshake and I also the
 4,steez miller,Steve Miller,0.92,1,salon-052,,ve gone from the higgs boson particle the god particle that steez miller was talking about and then on to quantum entanglement well 
-4,to mind,Tommy Mintz,0.67,2,salon-065;salon-069,,ll right but I will share.  I think about war and it brings to mind my participation in the early 70s and the protests against 
-4,two minutes,Tommy Mintz,0.64,1,salon-073,, maybe somebody else can go first and then I'll be ready in two minutes. All right is there anyone else who wants to share.
+4,and Sahar,Ann Shapiro,0.7,1,salon-072,,ut further Ado I'd like to pass the stage to Sahar Moussavi and Sahar welcome and take it away I.
+4,screen share,Stephen Pare,0.67,1,salon-072,,age please yes I'm gonna lower my hand hi I'm going to do a screen share.  Are you seeing my yeah okay. So I'm. Okay.  Here we go I'
 4,oan Rosen,Oz Van Rosen,0.86,1,salon-086,,hat's DJ Spooky with George Orwell looking over it and then oan Rosen and Rada sort of flanking the piece there. And there is an 
-4,"Osvan Rosen,",Oz Van Rosen,0.87,1,interview-001,,"Osvan Rosen, who was in Southampton, who had used"
+4,a paper,Anne Spalter,0.63,1,interview-002,,of going to some kind of college where i never had to write a paper ever again seemed just absolutely fantastic to me and that'
+4,and water,Anne Spalter,0.67,1,interview-002,,ng for decades so these things like lighthouses and spheres and water and airplanes. So they have this sort of symbolic personal 
+4,and scale,Anne Spalter,0.67,1,interview-002,,lity the ability to undo things and save different versions and scale things so many things that now we take for granted using th
+4,brown lines,Brandon Gellis,0.64,1,interview-010,,s of people were taken and were. Murdered and so all of the brown lines on here are houses that were taken and all of these open sp
+4,Michaels,Michael Rees,0.8,1,salon-017,,"r your input, Michael. Actually, hold on. We now have three Michaels in here now,"
+4,"Michael, Lee",Michael Rees,0.83,2,salon-070;salon-074,,"Michael, Lee, Christina and Renata."
+4,Oz fan Rosen,Oz Van Rosen,0.92,1,salon-071,,Oz fan Rosen and Patrick.
+4,Patrick Lipty,Patrick Lichty,0.89,1,salon-071,,"ave books by Victor Acevedo, Davonte Bradley, Holly Gordon, Patrick Lipty, DJ Spooky, Steve Miller, Joseph Necvatal, and Spalter and "
+4,Oz Van Rozen,Oz Van Rosen,0.92,1,salon-086,,e corner here from Colin and Renata we have Paul Miller and Oz Van Rozen.
+4,and Nauman,Andy Wauman,0.86,1,interview-011,,"and Nauman, I don't think it's well known or well talked about, had st"
+3,Andy that,Andy Thomas,0.8,1,salon-067,,t celebrate they said oh that's wonderful we agree with you Andy that looks great but Disney on the other hand attacked every sin
+3,Roman Verasco,Roman Verostko,0.81,2,salon-009;salon-083,,"t in the context of this group, particularly by the name of Roman Verasco."
 3,Renata Yanniszewska,Renata Janiszewska,0.92,1,salon-093,,"Hello! I'm Renata Yanniszewska, and I'm very happy to be here. Thank you, Benton, and than"
 3,Tony Mintz,Tommy Mintz,0.86,1,salon-095,,"By the way, this is Tony Mintz. Most of you know him, but he's the curator of this show."
 3,Andrea Bonacheta,Andrea Bonaceto,0.9,1,salon-095,,"how to mint through. One of the artists came into the group Andrea Bonacheta, who he created an nft with Sophia, which was a robot. Hand"
@@ -182,22 +237,49 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 3,Greg Garvey,Gregory Patrick Garvey,0.67,1,salon-100,,"e spirit of this exhibit. This is a cooperative effort, and Greg Garvey is controlling the actual slideshow, so we will…"
 3,"Greg, greg Garvey",Gregory Patrick Garvey,0.67,1,salon-100,,"Greg, greg Garvey just signed off, I think he… this is, you know, the problem"
 3,David came,David Mew,0.84,1,salon-107,,When David came to the place!
-3,Harrison,Helen A. Harrison,0.64,1,roundtable-006,,"Helen A. Harrison is an art historian, journalist, author, and retired direct"
 3,on human protein,Oz Van Rosen,0.64,1,roundtable-006,,"cts include collaborations with Nobel laureate Rod McKinnon on human protein research, work at Brookhaven National Lab, and lectures at "
 3,of a response,Oz Van Rosen,0.64,1,roundtable-006,,"ith a way to describe my work, and I think that it was sort of a response to the idea that"
 3,Renata Anishevska,Renata Janiszewska,0.86,1,roundtable-006,,"thing like 82,000 posts on Instagram using the hashtag, and Renata Anishevska is the Instagram curator, and she's done an amazing job of"
 3,"Helen and, Christiane",Helen A. Harrison,0.68,1,roundtable-006,,"w if it was… it might have been the first roundtable, with, Helen and, Christiane Paul from the Whitney, talking about Techspressionism, and "
 3,Randy Matsuchevitz,Randi Matushevitz,0.86,1,roundtable-006,,"Cynthia Beth Rubin has put together the show in Uzbekistan, Randy Matsuchevitz has organized Techspressionism LA, which I think there's go"
+3,like well,Leslie Kell,0.7,1,salon-009,, so i kind of you know spent a lot of time in bed it's just like well you know i still want to create so i actually started doing
 3,Verneda,Verneda Lights,0.67,1,presentation-002,,sically he do need temperature. Yeah. Great. Okay. I have a Verneda I have another question for you and this is I'd like to kno
 3,street art,Stephen Paré,0.64,1,presentation-007,,s is the augmented layer. A lot of this stuff starts off as street art and becomes canvases in the studio. New York is a mythical 
+3,Clive told,Clive Holden,0.82,1,salon-073,,"was muted on that. So it's really big, right? And actually, Clive told me that he drove a bus, you know, and this is the length of"
+3,to dominate,Tommy Mintz,0.64,1,salon-073,,"We don't want to dominate this, have discussion dominate."
+3,Emily Bruton Schilling,Emily B. Schilling,0.85,1,salon-008,,I'm Emily Bruton Schilling and I'm here from New York City and very excited to be here
+3,and Spalter,Anne Morgan Spalter,0.67,1,salon-010,,"Alright, so without further ado, is and Spalter in the room."
+3,"Michael Reese, Michael",Michael Pierre Price,0.67,1,salon-012,,"Okay. So, Carter, Michael Reese, Michael Price, Colin,"
+3,Peter Bourget,Peter Borges,0.88,1,salon-012,,"And then there was also Peter Bourget,"
+3,she be,Sue Beyer,0.67,1,salon-013,,How would she be in touch with you or just come? How do you?
+3,clive hold,Clive Holden,0.91,1,salon-014,,and um uh clive hold yeah yeah yeah
+3,lee musgrove,Lee Musgrave,0.92,1,salon-018,,we do have uh lee lee musgrove wanted to present also next time so yeah he he made sure to
+3,"Malavika, are",Malavika Mandal Andrew,0.69,1,salon-024,,"Malavika, are you ready to go?"
+3,Carol sent,Carol Hunt,0.8,1,salon-026,,"Well, that was, you know, Carol sent me a painting."
+3,Anne Spexler,Anne Spalter,0.83,1,salon-031,,So this is a great thanks to Anne Spexler
+3,Lindsay Kakoposka,Lindsay Kokoska,0.88,1,salon-032,,"There was an artist, Lindsay Kakoposka."
+3,James Terrell,James Merrill,0.85,1,salon-034,,"And the latest one that I'm working with is with James Terrell on a big project that he has out in Arizona, which is"
+3,Roman Virosko,Roman Verostko,0.89,1,salon-037,,And I met this guy named Roman Virosko.
+3,Anne Spaulder,Anne Spalter,0.88,1,salon-037,,"ignore that. I work a lot with a platform that Anne Spaulder and Carl Aganis introduced me to,"
+3,Dan Weldon's,Dan Welden,0.82,1,salon-044,,which this is plate for at Dan Weldon's studio.
+3,Nagin Etesabian,Negin Ehtesabian,0.9,1,salon-046,,Nagin Etesabian.
+3,Nagin Etisabian,Negin Ehtesabian,0.84,1,salon-046,,all things Nagin Etisabian for all her amazing amazing help in this project and everyt
+3,Roman Vrasko,Roman Verostko,0.85,1,salon-047,,"You know, and so, and, you know, Roman Vrasko is 93."
+3,Cynthia Donata,Cynthia DiDonato,0.87,1,salon-050,,"So it's great. So Cynthia Donata, and please make sure that you're muted if you're not"
+3,an Spalter's,Anne Spalter,0.83,1,salon-051,,"Take notice of an Spalter's recent collection of AI spaceships, which, you know, I thou"
+3,Tikoi Keitenbroer,Tikoi Kuitenbrouwer,0.89,1,salon-053,,He is Tikoi Keitenbroer.
+3,John Seaman,John Zieman,0.82,1,salon-060,,So John Seaman is here with us who was in the exhibition as well.
+3,Lee Schneiber,Lee Schnaiberg,0.89,1,salon-061,,"I know Lee Schneiber calls it like rogue, rogue pano,"
+3,David when,David Cohen,0.86,1,salon-061,,okay I'll be being bombed said for David when you show Vibe GL in a show or museum will you allow
+3,Malavika Mandalantru,Malavika Mandal Andrew,0.86,1,salon-062,,"Hi, I'm Malavika Mandalantru from India."
+3,Cynthia Beth Irvin,Cynthia Beth Rubin,0.89,1,salon-065,,"Cynthia, the other Cynthia that we have, Cynthia Beth Irvin, she says great depth in that image."
+3,Beth Giacomo,Beth Giacummo,0.88,1,salon-075,,Is that Beth Giacomo that's still the point person there?
+3,"Malavika Sharan, And",Malavika Mandal Andrew,0.71,1,interview-019,,"Malavika Sharan, And."
 2,lee okay,Lee Day,0.8,1,salon-033,,we have that i think Lee Schnaiberg is one of the or no not lee okay he's shaking his eye but yes there are a couple of people t
 2,diana diavila,Diana de Avila,0.89,1,salon-037,, to go all right do you have the floor thank you my name is diana diavila can you see this first of all give me a yep okay great i'm 
 2,Karen lefur,Karen LaFleur,0.83,1,salon-043,, great to see you Cynthia Beth rubben all right Vern lights Karen lefur r janusa Darcy garbage nein estaban Neen I should know that
-2,and stomas,Andy Thomas,0.86,1,salon-046,,ot nine piece work and it also has incisions and sutures as and stomas as he has he is currently recovering from throat cancer and
 2,susan has,Susan Huang,0.8,1,salon-047,,oo after this so thank you for your presentation looks like susan has her hand raised so Susan Detroy i have at it thank you okay
-2,Michael peer,Michael Rees,0.83,1,salon-063,, [Music] program and just the other day I was speaking with Michael peer price and he mentioned how the word nft has in a way become
 2,Robert trips,Robert A. Ripps,0.81,1,salon-065,,nd to remind the people on social media I think his name is Robert trips and he always ends his comments with you know peace in Ukra
-2,Andy that,Andy Thomas,0.8,1,salon-067,,t celebrate they said oh that's wonderful we agree with you Andy that looks great but Disney on the other hand attacked every sin
 2,Colleen Goldberg,Colin Goldberg,0.87,1,salon-077,,"Hello! My name is Colleen Goldberg, and I am here. At the seventy-seventh rush and salon"
 2,Frank Chillette,Frank Gillette,0.9,1,salon-077,,"e in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people tha"
 2,"smaller,",Steve Miller,0.63,1,salon-077,,"and and, you know, make a smaller, a slightly smaller image. So it doesn't exceed"
@@ -208,10 +290,7 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 2,like any,Lee Day,0.67,1,salon-079,,fe. And I don't know if carrying wants to hop in here looks like any of the construction is done. I don't wanna take time away f
 2,"Cynthia, Beth Reuben",Cynthia Beth Rubin,0.89,1,salon-080,,"Thank you very much. We have Cynthia, Beth Reuben next, and then Ross has her hand up after Cynthia."
 2,Lee Schneider,Lee Schnaiberg,0.81,1,salon-081,,Lee Schneider is actually
-2,Roman Verasco,Roman Verostko,0.81,1,salon-083,,"t in the context of this group, particularly by the name of Roman Verasco."
 2,"Cynthia Bath, Rubin",Cynthia Beth Rubin,0.92,1,salon-083,,"Co. Working is influential. Since Cynthia Bath, Rubin suggested that I use"
-2,Tommy Mince,Tommy Mintz,0.82,1,salon-083,,"ion. Which is gonna be happening in August. It's curated by Tommy Mince, who's been involved with the text presents community for s"
-2,Tommy Mints,Tommy Mintz,0.91,1,salon-083,,"the curator is Tommy Mints, MINT z."
 2,Sam Rusavi,Sahar Moussavi,0.67,1,salon-085,,"So Hi, everyone, I'm Sam Rusavi."
 2,Michael Pierre Bryce,Michael Pierre Price,0.9,1,salon-085,,I think Michael has a question. Michael Pierre Bryce.
 2,maliva Mandall and,Malavika Mandal Andrew,0.8,1,salon-086,,was living through I think in k tell me if I'm wrong please maliva Mandall and Brandon gellis have these lovely interpretations of Nature 
@@ -220,7 +299,6 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 2,Carrie Ann Shimsham,cari ann shim sham*,0.89,1,salon-087,,Carrie Ann Shimsham and Joey Zaza
 2,Adrian Wartzel,Adrianne Wortzel,0.87,1,salon-087,,cari ann shim sham**: Night swatch by Adrian Wartzel.
 2,Annette Wingtrub,Annette Weintraub,0.91,1,salon-087,,"im sham**: Ghosted artifacts, zigzags, twists, and turns by Annette Wingtrub."
-2,Sherry Carter,Sherry Karver,0.85,1,salon-087,,cari ann shim sham**: Thank you. Sherry Carter. Thank you. Sherry. Wonderful series.
 2,"Karen, Lefleur",Karen LaFleur,0.89,1,salon-087,,"cari ann shim sham**: Karen, Lefleur, Fanwaves."
 2,Cynthia Beth Ribbon,Cynthia Beth Rubin,0.86,1,salon-087,,"cari ann shim sham**: our other Cynthia, Cynthia Beth Ribbon."
 2,"Carrie, Ann",Carrie MaKenna,0.8,1,salon-087,,"rom the 23 pieces in the book by the exhibition's curators, Carrie, Ann and Joey."
@@ -234,7 +312,6 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 2,Carolyn Jones,Colman Jones,0.8,1,salon-099,,"at the same speed of technological innovation, as Carolyn Jones notes here, is by actually taking up these technologies in "
 2,Heidi's point,Heidi Boisvert,0.67,1,salon-099,,"the finest weapons. Weapons, if they are that, to speak to Heidi's point, there's so many different ways we can communicate, all cha"
 2,strive,ST Rivera,0.8,1,salon-101,,"This… all this drawing by hand is something that I really strive to retain in much of my artwork, whether I'm… it doesn't ma"
-2,to point,Tommy Mintz,0.63,1,salon-101,," and this one as well, here on the right. And I'd also like to point out the color palette in this painting is very soft."
 2,Karen Leflour,Karen LaFleur,0.85,1,salon-101,,"Aaron Koh, to Karen Leflour, and to Renata Janiszewska for ongoing, Zoom meetings that "
 2,Heidi Boir,Heidi Boisvert,0.83,1,salon-102,,"So, our moderator today is Heidi Boir, who is an interdisciplinary artist, experienced designer, "
 2,and Toma,Andy Thomas,0.84,1,salon-102,,"Her work is represented in Spelter Digital Art Collection and Toma Foundation, and she has been featured on Science Friday. He"
@@ -257,51 +334,59 @@ count,matched_text,candidate_name,similarity,session_count,sessions,likely_noise
 2,Ariel Robbins,Ariel Baron-Robbins,0.81,1,interview-027,,"the Loop Art Critique, which is Ariel Robbins, and also the mud foundation"
 2,coming over,Colin Goldberg,0.64,1,interview-027,,"So my family was coming over here in the 16 hundreds, and started in Salem"
 2,Renati Anaszewska,Renata Janiszewska,0.86,1,interview-027,,"a piece by Renati Anaszewska or Tommy Mintz. Even if I've never seen it before, Lee day "
-2,leslie,Leslie Kell,0.71,1,salon-009,,er i believe is going to be. Where are you.  I just saw you leslie i believe you were the next supposed to be the next present
-2,carmen,Carmen Moses,0.67,1,salon-009,,No i think everyone just kind of showed up so i mean i know carmen was here early carmen if you want to go by all means [Music
-2,like well,Leslie Kell,0.7,1,salon-009,, so i kind of you know spent a lot of time in bed it's just like well you know i still want to create so i actually started doing
-2,brandon,Brandon Gellis,0.67,1,salon-010,, world i could think about that or you know.  Who said that brandon hi well then maybe you should be my collaborator. All right
-2,some smaller,Steve Miller,0.67,1,salon-011,,y're 21 inches long. And i think they're 19 by 21. i i have some smaller scale ones that are 12 by 21.. I basically decided to work 
 2,michael reese michael,Michael Pierre Price,0.68,1,salon-012,,el reese yeah and.  [Music] carter carter sorry. But carter michael reese michael price colin and randy so those are going to be our five pre
-2,colin's going,Colin Goldberg,0.67,1,salon-012,, chat i'm going to be here for a bit after. I don't know if colin's going to be here for a bit after too or if he has to go but i'll 
-2,gary thanks,Gary Hopkins,0.7,1,salon-016,,ome more work cause filling me up son but always a pleasure gary thanks thank you. Gary i really like the. Seeing the evolution of 
-2,michael,Michael Pointer,0.64,1,salon-017,,the last question for michael is coming from clive. Yeah hi michael i really love your work great thanks hi. Back [Laughter]. T
 2,ulya app,Uli Ap,0.71,1,salon-018,,ive editor of origin magazine. And then our other artist is ulya app hailing out of the uk she is a trans transdisciplinary arti
-2,uli,Uli Ap,0.67,1,salon-018,,en. Okay and i guess we'll take two more questions and then uli can definitely get on with our presentation so i know she's
-2,christine,Christine Sciulli,0.69,1,salon-020,,it but she jumped into a show that i did and she said to me christine i want you to do a video installation for my next show and 
 2,carl ramonde,Carolina Ramonde,0.86,1,salon-025,, wilson who's in la she did the primary bulk of it but also carl ramonde also was a consultant for me and i appreciate her work and 
-2,love,LoVid,0.67,1,salon-032,, i tend to look at it and it reminds me. Of this feeling of love and happiness.  And the second piece when i started in 2017
-2,david chung,David Cohen,0.82,1,salon-033,,hellers who's the director of the detroit institute of arts david chung who is the director of the university of michigan's master 
 2,seongjin,SEUNGJIN LEE,0.7,1,salon-036,, with things if everyone's ready to go our presenters ready seongjin and. Oh god dalton.  You ready to go and we'll kick things 
 2,Cynthia Beth rubben,Cynthia Beth Rubin,0.92,1,salon-043,, way to proceed so first we have an.  Soel great to see you Cynthia Beth rubben all right Vern. Lights Karen. Lefur r.  Janusa Darcy garbag
-2,Darcy garbage,Darcy Gerbarg,0.85,1,salon-043,, Beth rubben all right Vern. Lights Karen. Lefur r.  Janusa Darcy garbage nein. Estaban Neen I should know that. Giovana Alias dubom 
 2,giovana u,Giovanna Sun,0.86,1,salon-043,,I hope that's all right because we've got thank you so much giovana u d welcome your fresh perspective and I like like what you s
 2,michael reese.org,Michael Rees,0.83,1,salon-045,,ck it through the website you can go to my website which is michael reese.org reese's r-e-e-s dot o-r-g and tomorrow afternoon at 2 p.m e
-2,two into,Tommy Mintz,0.63,1,salon-056,, couched in the time of when I first started like a year or two into the series of portrait of women and. This is work that I wa
-2,can hold,Chanee Choi,0.63,1,salon-059,,em because we need to be able to know what's going on so we can hold them accountable and I think that we should be vocal and bu
-2,solo,ScoJo,0.67,1,salon-059,,ve had an avatar that I've been working with we've done two solo shows together we've done multiple she has her own Zoom acc
-2,can copy,Chanee Choi,0.63,1,salon-059,, a lot of struggles and worried about the point how much AI can copy their work so I I couldn't just avoid their idea because th
-2,Michael,Michael Warner,0.67,1,salon-061,,ute myself thank you and if you've had anyone that's shared Michael if you could if you're able to lower your hand also that wo
-2,mayor Shapiro,Marlow Shami,0.64,1,salon-063,, important essay and this is what I wanted to talk about by mayor Shapiro in the effort to apply semiotics and the idea of of signs a
 2,Michael refined,Michael Rees,0.81,1,salon-063,, that pervade the natural world he came up with over 80 and Michael refined that list to 53.. A lot of these senses are things that we 
-2,and Sahar,Ann Shapiro,0.7,1,salon-072,,ut further Ado I'd like to pass the stage to Sahar Moussavi and Sahar welcome and take it away I.
 2,an air,Ann Shapiro,0.71,1,salon-072,,isasters but environmental catastrophes as well such as see an air pollution.  Deforestation. Desert. Desertification. And. Wa
-2,screen share,Stephen Pare,0.67,1,salon-072,,age please yes I'm gonna lower my hand hi I'm going to do a screen share.  Are you seeing my yeah okay. So I'm. Okay.  Here we go I'
-2,a paper,Anne Spalter,0.63,1,interview-002,,of going to some kind of college where i never had to write a paper ever again seemed just absolutely fantastic to me and that'
-2,and water,Anne Spalter,0.67,1,interview-002,,ng for decades so these things like lighthouses and spheres and water and airplanes. So they have this sort of symbolic personal 
-2,and scale,Anne Spalter,0.67,1,interview-002,,lity the ability to undo things and save different versions and scale things so many things that now we take for granted using th
 2,a super,Anne Spalter,0.63,1,interview-002,,lly interesting to see so. Yeah that's that's really that's a super rare and then another site called viv 3 the iv3.com. Is tha
-2,brown lines,Brandon Gellis,0.64,1,interview-010,,s of people were taken and were. Murdered and so all of the brown lines on here are houses that were taken and all of these open sp
-2,carl aganis,Carla Gannis,0.87,1,interview-011,,ppenheimer tamiko thiel gardens of the anthropocene and and carl aganis did a comedy routine with the inflatable boy that was very 
 2,and show,Ann Shapiro,0.63,1,presentation-001,," So, I'm going to take a picture actually that I've grabbed and show you the kind of work that I might do with it. So, this glit"
 2,Cynthia well learning,Cynthia Beth Rubin,0.67,1,roundtable-003,,hat that that's really that's that's so cool to.  Hear yeah Cynthia well learning about different kinds of graphing we just think oh you grap
-2,see later,Steve Miller,0.67,1,roundtable-004,,edical checkup by x-ray in the Flora and Fauna which you'll see later so one of the you know what happens in this you know leveli
 2,depiction,Discussion,0.63,2,presentation-002;presentation-007,,all folk art. And I hope that you find it to be an accurate depiction of the textiles and people of your culture. And here you ca
-2,the organ,Trey Morgan,0.8,1,interview-004,,I am able to use his percussion and the left-hand half of the organ manual in his version.
+2,can move,Carmen Moses,0.7,1,salon-009,,"I guess we can move on unless we have any objections, Colin."
+2,can set,Carmen Moses,0.63,1,salon-009,,"If we can set a date based on like, you know, what."
+2,done all,Diane Marsella,0.64,1,salon-013,,And I'm really struck because I love fabric and have done all kinds of stuff with fabric.
+2,she ever,Sherry Karver,0.67,1,salon-014,,I don't think she ever made it.
+2,medical industry,Michael Pointer,0.65,1,salon-017,,And then that morphed into data visualization in the medical industry.
+2,two main,Tommy Mintz,0.63,1,salon-028,,So those are the two main things.
+2,came across,Carmen Moses,0.7,1,salon-031,,And then this came across.
+2,can choose,Carmen Moses,0.64,1,salon-031,,You have to be on a white list so you can choose the time of day that you're going to purchase one of these 
+2,Michael peer prices,Michael Pierre Price,0.87,1,salon-031,," day that you're going to purchase one of these pieces like Michael peer prices, for example."
+2,Michael peer,Michael Pointer,0.81,1,salon-031,," day that you're going to purchase one of these pieces like Michael peer prices, for example."
+2,loud,LoVid,0.67,1,salon-032,," played a lot of the video because it's really usually very loud. But,"
+2,"Patrick,",PATRICK LICHTY,0.67,1,salon-037,,"Patrick, are you still continue?"
+2,can come,Chanee Choi,0.63,1,salon-059,,"If you don't mind, we can come back to you if you want."
+2,and yon,Andy Young,0.82,1,salon-059,,"I mean, we're kind of like hither and yon and whatnot,"
+2,paul miller like dj spooky,Paul D. Miller aka DJ Spooky,0.85,1,salon-068,,lgorithm i see in the chat there yeah yeah i think actually paul miller like dj spooky is
+2,david can,David Cohen,0.8,1,salon-071,,yeah david can you stop your sharing
+2,and air,Ann Shapiro,0.67,1,salon-072,,"but environmental catastrophes as well, such as sea and air pollution,"
+2,spheres,Stephen Pare,0.63,1,salon-072,,Other work that I added cypress tree in spheres and I made it like a surreal scene.
+2,Sherry Kava,Sherry Karver,0.83,1,salon-076,,Sherry Kava has done.
+2,Layla Pinto,Leila Pinto,0.82,1,salon-086,,"And above Carrie Ann, we have Layla Pinto."
+2,Mary Ann Strand-Hill,Mary Ann Strandell,0.89,1,salon-086,,color as a formative you know generative object if you will Mary Ann Strand-Hill
+2,Karen LaCleure's,Karen LaFleur,0.83,1,salon-086,,"of Karen LaCleure's work is above, can we come in a little bit here? Two pieces"
+2,Sue Byers,Sue Beyer,0.89,1,salon-086,,"scans next to Sue Byers. I'm sorry, I'm tilting a lot here. Sue Byers"
+2,Carla Ganas's,Carla Gannis,0.8,1,salon-086,,s sculpture here up front. And a front table with... That's Carla Ganas's work on it.
+2,and Albert,Anne Spalter,0.64,1,interview-002,,"ton, the Museum of Modern Art in New York, and the Victoria and Albert Museum in London, among others."
+2,carl ganas,Carla Gannis,0.82,1,interview-006,,and spalter is working with and carl ganas and and so the thing is is then carl ganas and
+2,made three,Michael Rees,0.64,1,interview-011,,"right? And the act of typing made three dimensional form. And I created this whole,"
+2,Margaret Jelinski,Margaret Dolinsky,0.82,1,interview-012,,Margaret Jelinski.
+2,Michael Shamberg,Michael Farmer,0.8,1,interview-024,,See Louis Jaffe and Michael Shamberg.
+2,Nina Yankovic,Nina Yankowitz,0.81,1,roundtable-001,,"and Nina Yankovic. I'm going to close this monologue, hopefully it wasn't too"
+2,Michael Rhee's,Michael Strevens,0.8,1,roundtable-001,,"So in the center here, we have Michael Rhee's augmented reality work relating to sculptural work."
+2,Nina Jankowicz's,Nina Yankowitz,0.8,1,roundtable-001,,"In fact, in your fly-through, you showed Nina Jankowicz's two-panel animation."
 1,disruption,Discussion,0.7,1,presentation-001,,e particularly a technique called glitching. glitching is a disruption of an image. So I start with photographs. I use photographs
 1,a happier,Ann Shapiro,0.7,1,presentation-001,,We all work differently. That's that's what makes the world a happier place when it can be. Yeah. So any more questions? I'm curi
 1,direction,Discussion,0.63,1,presentation-003,," off. Well, and It changes one's life or you know creates a direction for one's life. Yeah. I was you know going going a slightly"
 1,distinction,Discussion,0.67,1,presentation-004,,", maybe techspressionist in spirit, you know, but there's a distinction there.  And I think a big reason that I came up with this t"
 1,Cynthia's point,Cynthia DiDonato,0.71,1,presentation-004,,ne of the earliest to do a website. I did early HTML and to Cynthia's point like you can't do everything. So now I work with a young co
-1,Clive told,Clive Holden,0.82,1,salon-073,,"was muted on that. So it's really big, right? And actually, Clive told me that he drove a bus, you know, and this is the length of"
-1,to dominate,Tommy Mintz,0.64,1,salon-073,,"We don't want to dominate this, have discussion dominate."
+1,to mount,Tommy Mintz,0.63,1,salon-074,,He's actually heading to Paris right now to mount another thing.
+1,Sungjin Lee's,Seungjin Lee,0.88,1,salon-074,,"Oh, here's Sungjin Lee's work, which is here's some AR, augmented reality fashion th"
+1,"Recently, Matyshevitz",Randi Matushevitz,0.68,1,interview-018,,"Recently, Matyshevitz has traversed into digital media. Remember she started out "
+1,seven minutes,Steve Miller,0.64,1,roundtable-004,,Each of the artists on today's panel will have roughly seven minutes to make their presentation to introduce themselves and the 
+1,"Ghazaleh, Seda",Ghazaleh Seidabadi,0.81,1,salon-046,,"s see here. Have some more people from the, we have Marjan, Ghazaleh, Seda Badi, Azra, Azra is that, I think I saw you out in the audi"
+1,carla ganas,Carla Gannis,0.87,1,interview-011,,ppenheimer tamiko theil gardens of the anthropocene and and carla ganas did a comedy routine with the inflatable boy that was very 

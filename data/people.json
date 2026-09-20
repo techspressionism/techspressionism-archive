@@ -414,16 +414,6 @@
    "reels": []
   },
   {
-   "id": "beau-tardy-artist",
-   "name": "Beau Tardy Artist",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "isabelle-arvers",
    "name": "Isabelle Arvers",
    "aliases": [],
@@ -1059,7 +1049,9 @@
   {
    "id": "davonte-bradley",
    "name": "Davonte Bradley",
-   "aliases": [],
+   "aliases": [
+    "Davonte Bradley - VA USA"
+   ],
    "location": "Richmond, USA",
    "links": {
     "website": [
@@ -1208,23 +1200,6 @@
     ],
     "instagram": [
      "https://www.instagram.com/jbyrne2d/"
-    ]
-   },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "beau-tardy-artist-b",
-   "name": "Beau Tardy Artist - B❤️!",
-   "aliases": [],
-   "location": "Houston, USA",
-   "links": {
-    "website": [
-     "https://beautardyartist.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/beautardyartist/"
     ]
    },
    "ts_profile": "",
@@ -2984,7 +2959,9 @@
   {
    "id": "colin-goldberg",
    "name": "Colin Goldberg",
-   "aliases": [],
+   "aliases": [
+    "Colin Goldberg - North Bennington, VT"
+   ],
    "location": "USA",
    "links": {
     "wikipedia": [
@@ -3017,6 +2994,11 @@
     ]
    },
    "reels": [
+    {
+     "video": "Mzad3l4Xwxk",
+     "t": 762,
+     "exhibition": "brooklyn"
+    },
     {
      "video": "hdJNx7dFVqE",
      "t": 4153,
@@ -4059,11 +4041,17 @@
   {
    "id": "paul-d-miller-aka-dj-spooky-that-subliminal-kid",
    "name": "Paul D. Miller aka DJ Spooky that Subliminal Kid",
-   "aliases": [],
-   "location": "",
+   "aliases": [
+    "Paul D. Miller aka DJ Spooky"
+   ],
+   "location": "NYC, USA",
    "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
+   "ts_profile": "https://techspressionism.com/exhibition/southampton/paul-d-miller/",
+   "exhibitions": {
+    "southampton": [
+     "Paul D. Miller aka DJ SPOOKY, title, year, media, dimensions"
+    ]
+   },
    "reels": []
   },
   {
@@ -5715,10 +5703,12 @@
    "reels": []
   },
   {
-   "id": "michael-mesiats-aka-moonth",
-   "name": "Michael Mesiats aka Moonth",
-   "aliases": [],
-   "location": "St. Petersburg, Russia",
+   "id": "moonth",
+   "name": "Moonth",
+   "aliases": [
+    "Michael Mesiats aka Moonth"
+   ],
+   "location": "St. Petersberg, Russia",
    "links": {
     "website": [
      "http://moonth.tilda.ws/"
@@ -5727,16 +5717,6 @@
      "https://instagram.com/moonth.av/"
     ]
    },
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/moonth/",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "moonth",
-   "name": "Moonth",
-   "aliases": [],
-   "location": "St. Petersberg, Russia",
-   "links": {},
    "ts_profile": "https://techspressionism.com/exhibition/southampton/moonth/",
    "exhibitions": {
     "southampton": [
@@ -6808,6 +6788,7 @@
    "id": "michael-pierre-price",
    "name": "Michael Pierre Price",
    "aliases": [
+    "Michael Pierre Price - AZ USA",
     "Michael Price"
    ],
    "location": "Phoenix, USA",
@@ -7608,25 +7589,17 @@
    "reels": []
   },
   {
-   "id": "noel-apitta-aka-scarletmotiff",
-   "name": "Noel Apitta aka SCARLETMOTIFF",
-   "aliases": [],
+   "id": "scarletmotiff",
+   "name": "SCARLETMOTIFF",
+   "aliases": [
+    "Noel Apitta aka SCARLETMOTIFF"
+   ],
    "location": "Kampala, Uganda",
    "links": {
     "instagram": [
      "https://www.instagram.com/scarletmotiff/"
     ]
    },
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/scarletmotiff/",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "scarletmotiff",
-   "name": "SCARLETMOTIFF",
-   "aliases": [],
-   "location": "Kampala, Uganda",
-   "links": {},
    "ts_profile": "https://techspressionism.com/exhibition/southampton/scarletmotiff/",
    "exhibitions": {
     "southampton": [
@@ -7698,7 +7671,9 @@
   {
    "id": "reese-schroeder",
    "name": "Reese Schroeder",
-   "aliases": [],
+   "aliases": [
+    "Wiliam Reese Schroeder"
+   ],
    "location": "Rancho Mirage, USA",
    "links": {
     "website": [
@@ -7731,22 +7706,6 @@
      "exhibition": "southampton"
     }
    ]
-  },
-  {
-   "id": "wiliam-reese-schroeder",
-   "name": "Wiliam Reese Schroeder",
-   "aliases": [],
-   "location": "Reese Schroeder RANCHO MIRAGE CA, USA",
-   "links": {},
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/reese-schroeder/",
-   "exhibitions": {
-    "southampton": [
-     "Reese Schroeder, 031821-Red , 2021, 10800x5400 (16Bit), 1/10.",
-     "Reese Schroeder, 101021-The Raven and The Crow , 2021, 6000x6000 (16Bit), 1/10.",
-     "Reese Schroeder, 091021-Palm Trees , 2021, 10800x5400 (16Bit), 1/10."
-    ]
-   },
-   "reels": []
   },
   {
    "id": "christine-sciulli",
@@ -8064,26 +8023,11 @@
    ]
   },
   {
-   "id": "goksu-ilgaz-kocakcgil-aka-skywaterr",
-   "name": "Göksu Ilgaz Koçakcıgil AKA Skywaterr",
-   "aliases": [],
-   "location": "San Francisco, USA",
-   "links": {
-    "website": [
-     "https://y.at/%E2%9B%93%EF%B8%8F%F0%9F%A6%84%F0%9F%91%BE%E2%9B%93%EF%B8%8F"
-    ],
-    "instagram": [
-     "https://www.instagram.com/skywaterr/"
-    ]
-   },
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/skywaterr/",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "skywaterr",
    "name": "Skywaterr",
-   "aliases": [],
+   "aliases": [
+    "Göksu Ilgaz Koçakcıgil AKA Skywaterr"
+   ],
    "location": "San Francisco, CA",
    "links": {
     "website": [
@@ -8306,20 +8250,6 @@
    "reels": []
   },
   {
-   "id": "paul-d-miller-aka-dj-spooky",
-   "name": "Paul D. Miller aka DJ Spooky",
-   "aliases": [],
-   "location": "NYC, USA",
-   "links": {},
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/paul-d-miller/",
-   "exhibitions": {
-    "southampton": [
-     "Paul D. Miller aka DJ SPOOKY, title, year, media, dimensions"
-    ]
-   },
-   "reels": []
-  },
-  {
    "id": "jim-stasiak",
    "name": "Jim Stasiak",
    "aliases": [],
@@ -8500,30 +8430,11 @@
    "reels": []
   },
   {
-   "id": "dubwoman-aka-giovanna-sun",
-   "name": "Dubwoman aka Giovanna Sun",
-   "aliases": [],
-   "location": "NYC NY, USA",
-   "links": {},
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/dubwoman-aka-giovanna-sun/",
-   "exhibitions": {
-    "southampton": [
-     "Dubwoman A.K.A Giovanna Sun, Trance Utopia Women's Power , 2022. 1080 x 1440 pixels, 1/1.",
-     "Dubwoman A.K.A Giovanna Sun, Trance Utopia-I'm Not a Robot , 2022. Still image NFT. 3300 X 4125 pixels, 1/1"
-    ]
-   },
-   "reels": [
-    {
-     "video": "hdJNx7dFVqE",
-     "t": 861,
-     "exhibition": "southampton"
-    }
-   ]
-  },
-  {
    "id": "giovanna-sun",
    "name": "Giovanna Sun",
-   "aliases": [],
+   "aliases": [
+    "Dubwoman aka Giovanna Sun"
+   ],
    "location": "NYC, USA",
    "links": {
     "website": [
@@ -8536,13 +8447,22 @@
    "ts_profile": "https://techspressionism.com/exhibition/southampton/dubwoman-aka-giovanna-sun/",
    "exhibitions": {
     "brooklyn": [],
-    "chelsea": []
+    "chelsea": [],
+    "southampton": [
+     "Dubwoman A.K.A Giovanna Sun, Trance Utopia Women's Power , 2022. 1080 x 1440 pixels, 1/1.",
+     "Dubwoman A.K.A Giovanna Sun, Trance Utopia-I'm Not a Robot , 2022. Still image NFT. 3300 X 4125 pixels, 1/1"
+    ]
    },
    "reels": [
     {
      "video": "Mzad3l4Xwxk",
      "t": 1660,
      "exhibition": "brooklyn"
+    },
+    {
+     "video": "hdJNx7dFVqE",
+     "t": 861,
+     "exhibition": "southampton"
     }
    ]
   },
@@ -8682,9 +8602,11 @@
    ]
   },
   {
-   "id": "michael-borras-aka-systaime",
-   "name": "Michaël Borras AKA Systaime",
-   "aliases": [],
+   "id": "systaime",
+   "name": "Systaime",
+   "aliases": [
+    "Michaël Borras AKA Systaime"
+   ],
    "location": "Limoges, France",
    "links": {
     "website": [
@@ -8696,41 +8618,22 @@
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/michael-borras-aka-systaime/",
    "exhibitions": {
+    "brooklyn": [],
+    "chelsea": [],
     "southampton": [
      "Michaël Borras AKA Systaime, H4ppy D33p CrYpT0 L0v3 , 2021. Time-based NFT. 1920x1080 px. Duration: 01:16"
     ]
    },
    "reels": [
     {
-     "video": "hdJNx7dFVqE",
-     "t": 1553,
-     "exhibition": "southampton"
-    }
-   ]
-  },
-  {
-   "id": "systaime",
-   "name": "Systaime",
-   "aliases": [],
-   "location": "Limoges, France",
-   "links": {
-    "website": [
-     "http://www.systaime.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/systaime/"
-    ]
-   },
-   "ts_profile": "",
-   "exhibitions": {
-    "brooklyn": [],
-    "chelsea": []
-   },
-   "reels": [
-    {
      "video": "Mzad3l4Xwxk",
      "t": 2351,
      "exhibition": "brooklyn"
+    },
+    {
+     "video": "hdJNx7dFVqE",
+     "t": 1553,
+     "exhibition": "southampton"
     }
    ]
   },
@@ -8813,9 +8716,19 @@
   {
    "id": "beau-tardy",
    "name": "Beau Tardy",
-   "aliases": [],
-   "location": "",
-   "links": {},
+   "aliases": [
+    "Beau Tardy Artist",
+    "Beau Tardy Artist - B❤️!"
+   ],
+   "location": "Houston, USA",
+   "links": {
+    "website": [
+     "https://beautardyartist.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/beautardyartist/"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -9133,26 +9046,6 @@
    "reels": []
   },
   {
-   "id": "davonte-bradley-va-usa",
-   "name": "Davonte Bradley - VA USA",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "michael-pierre-price-az-usa",
-   "name": "Michael Pierre Price - AZ USA",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "matej-vakula",
    "name": "Matej Vakula",
    "aliases": [],
@@ -9344,24 +9237,6 @@
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
-  },
-  {
-   "id": "colin-goldberg-north-bennington-vt",
-   "name": "Colin Goldberg - North Bennington, VT",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {
-    "brooklyn": []
-   },
-   "reels": [
-    {
-     "video": "Mzad3l4Xwxk",
-     "t": 762,
-     "exhibition": "brooklyn"
-    }
-   ]
   },
   {
    "id": "john-waiblinger",

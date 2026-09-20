@@ -814,7 +814,7 @@ def main():
                 "type", "number", "session_title", "date_recorded", "date_published",
                 "video_id", "url", "duration_seconds", "moderator", "transcript_source", "flags",
             ]},
-                **{k: session[k] for k in ("interviewee", "interviewer") if session.get(k)},
+                **{k: session[k] for k in ("interviewee", "interviewer", "series") if session.get(k)},
                 "speakers": [
                     {
                         "name": s["name"],
