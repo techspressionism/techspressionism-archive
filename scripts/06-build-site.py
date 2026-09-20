@@ -402,6 +402,7 @@ a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
+body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repeats the sentence above; the count shows once a category is chosen (all widths) */
 /* ---- desktop (64rem and wider) ---- */
 .browse-links { display:none; }
 @media (min-width:64rem) {
@@ -428,7 +429,7 @@ mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15e
   body.home:not(.searching):not(.browsing) #search { margin:0; }
   body.home header.site { width:100%; }
   body.home.searching header.site .wrap, body.home.browsing header.site .wrap { padding-top:2.5rem; }
-  body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repeats the sentence above; the count shows once a category is chosen */
+
 }
 .sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
