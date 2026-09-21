@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:00](https://www.youtube.com/watch?v=Hjej663DEjw&t=0s)
 
-Here I am with Joseph Nechvatal. This is Colin Goldberg, webcasting from the Everbeta Content Network. I'm here with Joseph Nechvatal, technology artist and writer. He's going to speak to us a little bit about Veractuality. Right now, we're online checking out some of his stuff and we're about to head over to his studio.
+Here I am with Joseph Nechvatal. This is Colin Goldberg, webcasting from the Everbeta Content Network. I'm here with Joseph Nechvatal, technology artist and writer. He's going to speak to us a little bit about Viractuality. Right now, we're online checking out some of his stuff and we're about to head over to his studio.
 
 You want to head over there?
 
@@ -41,7 +41,7 @@ The object.
 
 ## Unattributed [00:51](https://www.youtube.com/watch?v=Hjej663DEjw&t=51s)
 
-This is Veractuality and not himself.
+This is Viractuality and not himself.
 
 ## Joseph Nechvatal [00:57](https://www.youtube.com/watch?v=Hjej663DEjw&t=57s)
 
@@ -49,11 +49,11 @@ Let's get out of here. Okay. Do you want to... Turn your computer off or just le
 
 ## Colin Goldberg [01:06](https://www.youtube.com/watch?v=Hjej663DEjw&t=66s)
 
-Yeah, it's better with the computer. Power's a little bit small. So, can you explain Veractuality a little bit to us?
+Yeah, it's better with the computer. Power's a little bit small. So, can you explain Viractuality a little bit to us?
 
 ## Joseph Nechvatal [01:22](https://www.youtube.com/watch?v=Hjej663DEjw&t=82s)
 
-Absolutely. To the viewer or to whoever's watching this. Veractuality is sort of a high-level hybrid idea which comes from actuality and virtuality. It's an idea that was developed in my... Turn your knob a little bit further. There you go. It was an idea that was developed in my research into virtual reality which I was doing for my PhD recently.
+Absolutely. To the viewer or to whoever's watching this. Viractuality is sort of a high-level hybrid idea which comes from actuality and virtuality. It's an idea that was developed in my... Turn your knob a little bit further. There you go. It was an idea that was developed in my research into virtual reality which I was doing for my PhD recently.
 
 Up in Wales with Roy Ascott at CAIA. And it seemed to be a very rich and fruitful area where artists particularly, but it applies more generally to society. You know what I mean? Maintain eye contact with yourself. It's impossible. It's not easy, baby.
 

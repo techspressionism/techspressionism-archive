@@ -670,6 +670,15 @@
       ],
       "whole_word": true,
       "note": "Warhol's printer and Steve Miller's fellow studio assistant; speech recognition wrote 'Barden' (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Viractuality",
+      "category": "other",
+      "known_asr_variants": [
+        "Veractuality"
+      ],
+      "whole_word": true,
+      "note": "Joseph Nechvatal's term (Interview 4); speech recognition wrote 'Veractuality' (Colin, 21 September 2026)"
     }
   ]
 }
