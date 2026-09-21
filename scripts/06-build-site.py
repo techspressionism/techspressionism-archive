@@ -491,8 +491,9 @@ a.suggest:hover { opacity:1; color:var(--accent); }
 .sessions li { display:flex; gap:.6rem; border-bottom:1px solid var(--line); padding:.7rem 0; }
 .sessions .num { flex:none; min-width:2.6rem; color:var(--muted); font-variant-numeric:tabular-nums; }
 .sessions .body { min-width:0; }
-.sessions .thumb { display:none; }
-@media (min-width:64rem) { .sessions .thumb { display:block; flex:none; width:96px; height:54px; border-radius:.25rem; object-fit:cover; background:#ddd; } .sessions li { align-items:center; } }   /* desktop only: a thumbnail in each row, as in the sidebar list */
+.sessions li { align-items:center; }
+.sessions .thumb { display:block; flex:none; width:72px; height:40px; border-radius:.25rem; object-fit:cover; background:#ddd; }   /* a small thumbnail on a phone ... */
+@media (min-width:64rem) { .sessions .thumb { width:96px; height:54px; } }   /* ... a larger one on a computer */
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
 .reccount { margin:.2rem 0 .6rem; color:var(--fg); }
@@ -553,6 +554,8 @@ a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 .cite-card .cite-text { font-family:Georgia,"Times New Roman",serif; font-size:.95rem; }
 .cite-card .cite-actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
 .cite-card .continue-btn[hidden] { display:none; }
+.player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
+.player-box .tap-hint[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
@@ -781,6 +784,9 @@ PLAYER_JS = """<script>
     if (on && scroll) document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   var pbox = document.getElementById('player-box');
+  var hint = null;      // a line under the video, for phones that will not start a video by themselves
+  if (pbox) { hint = document.createElement('div'); hint.className = 'tap-hint'; hint.hidden = true; pbox.appendChild(hint); }
+  function showHint(msg) { if (hint) { hint.textContent = msg; hint.hidden = false; } }
   function sizePlayer() { if (pbox) document.documentElement.style.setProperty('--player-h', pbox.offsetHeight + 'px'); }
   sizePlayer(); window.addEventListener('resize', sizePlayer);
   var bar = document.getElementById('stickytitle'), pageHeader = document.querySelector('header.site');
@@ -800,7 +806,7 @@ PLAYER_JS = """<script>
     if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
       reading(true, true);
       autoplayOnLoad = true;
-      if (typeof whenReady === 'function') whenReady(function () { player.playVideo(); });
+      if (typeof whenReady === 'function') whenReady(startWatching);
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
@@ -894,6 +900,26 @@ PLAYER_JS = """<script>
   function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
   var loading = false;
+  // "Watch with transcript": start the video. A computer allows this straight after the click. A phone only starts a video inside the tap itself, so
+  // (1) on a touch screen the player is made ready at the first touch or scroll, long before the button is pressed, and the video starts inside the
+  // tap; (2) if the phone still refuses, the video is started muted (phones allow that) and a line says how to turn the sound on; (3) if even that
+  // is refused, a line asks for a tap on the video's own play button.
+  function startWatching() {
+    player.playVideo();
+    setTimeout(function () {
+      var s1 = player.getPlayerState();
+      if (s1 === 1 || s1 === 3) return;
+      player.mute(); player.playVideo();
+      setTimeout(function () {
+        var s2 = player.getPlayerState();
+        if (s2 === 1 || s2 === 3) showHint('Playing without sound: tap the video, then the speaker icon, to turn the sound on.');
+        else { player.unMute(); showHint('Tap the \u25B6 on the video to start it. The transcript then scrolls along.'); }
+      }, 1200);
+    }, 1200);
+  }
+  if (('ontouchstart' in window) || navigator.maxTouchPoints > 0) {
+    ['touchstart', 'scroll'].forEach(function (n) { window.addEventListener(n, function () { preload(); }, { passive: true, once: true }); });
+  }
   function preload() { if (box && !player) load(); }   // opening the transcript is the sign of intent: have the player ready before the first WATCH tap (a phone only starts a video inside the tap)
   function load() {
     if (player || failed || loading) return;
@@ -1052,6 +1078,7 @@ PLAYER_JS = """<script>
     if (!ready || !player.getCurrentTime) return;
     var t = player.getCurrentTime(), st = player.getPlayerState(), playing = st === 1;
     setPlaying(st === 1 || st === 3);
+    if (hint && !hint.hidden && st === 1 && !player.isMuted()) hint.hidden = true;
     if (stopAt !== null && playing && t >= stopAt) {         // the cited text is over: stop, and offer to carry on
       player.pauseVideo(); stopAt = null;
       if (continueBtn) continueBtn.hidden = false;
