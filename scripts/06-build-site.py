@@ -886,7 +886,7 @@ PLAYER_JS = """<script>
   }
   document.addEventListener('click', function (ev) {
     var c = ev.target.closest && ev.target.closest('.continue-btn');
-    if (c) { stopAt = null; c.hidden = true; if (player) player.playVideo(); return; }
+    if (c) { stopAt = null; c.hidden = true; if (c.closest('.para-cite')) closeParaCite(); if (player) player.playVideo(); return; }
     var b = ev.target.closest && ev.target.closest('.copy-cite');
     if (b && navigator.clipboard) {
       ev.preventDefault();
@@ -987,7 +987,7 @@ PLAYER_JS = """<script>
     if (layout.classList.contains('is-playing') && hit && hit.classList.contains('active') && a.closest('.para-foot') && ready && player) { player.pauseVideo(); return; }   // the current turn's PAUSE: stop the video so the reader can read
     var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
-    [].slice.call(document.querySelectorAll('.para-cite .continue-btn')).forEach(function (c) { c.hidden = true; });
+    closeParaCite();      // playing on: the open citation card folds away
     forced = i; mark(i);
     whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
   });
