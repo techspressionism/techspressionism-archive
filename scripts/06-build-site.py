@@ -451,7 +451,10 @@ h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scrol
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
-h3.para-time a.pill { padding:.22rem .8rem; }   /* the timecode alone, no triangle */
+/* while the video is playing (the transcript follows along) each turn shows only its timecode, in gray; otherwise it is the red WATCH button */
+.layout.is-playing h3.para-time a.pill.pill-watch { background:#f0f0f0; color:#333; font-weight:400; padding:.3rem .8rem; }
+.layout.is-playing h3.para-time a.pill.pill-watch:hover { background:#e7e7e7; }
+.layout.is-playing h3.para-time a.pill .watch-word, .layout.is-playing h3.para-time a.pill svg { display:none; }
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin-left:.4rem; padding:.22rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; }
 .cite-btn:hover, .cite-btn[aria-expanded="true"] { background:#b30000; }
@@ -868,6 +871,7 @@ PLAYER_JS = """<script>
   var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
   var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
+  function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons show just the timecode
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
   var loading = false;
   function preload() { if (box && !player) load(); }   // opening the transcript is the sign of intent: have the player ready before the first WATCH tap (a phone only starts a video inside the tap)
@@ -881,6 +885,7 @@ PLAYER_JS = """<script>
         playerVars: { rel: 0, playsinline: 1, modestbranding: 1 },
         events: {
           onReady: function () { ready = true; queue.splice(0).forEach(function (f) { f(); }); },
+          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); },
           onError: function () { failed = true; queue = []; }
         }
       });
@@ -946,7 +951,8 @@ PLAYER_JS = """<script>
   }
   setInterval(function () {
     if (!ready || !player.getCurrentTime) return;
-    var t = player.getCurrentTime(), playing = player.getPlayerState() === 1;
+    var t = player.getCurrentTime(), st = player.getPlayerState(), playing = st === 1;
+    setPlaying(st === 1 || st === 3);
     if (stopAt !== null && playing && t >= stopAt) {         // the cited text is over: stop, and offer to carry on
       player.pauseVideo(); stopAt = null;
       if (continueBtn) continueBtn.hidden = false;
@@ -1006,7 +1012,7 @@ def build_session_page(entry, siblings=()):
 
     if speakers or countries:
         sp_items = "".join(
-            f'<li data-pagefind-filter="speaker:{facet(s["name"])}">{e(s["name"])}'
+            f'<li data-pagefind-filter="speaker:{facet(s["name"])}">{participant_name(s["name"])}'
             + (f' <span class="country">{e(s.get("location") or s.get("country"))}</span>'
                if (s.get("location") or s.get("country")) else "")
             + "</li>"
@@ -1075,7 +1081,7 @@ def build_session_page(entry, siblings=()):
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'{head_open}<a class="pill" href="{e(yt)}" data-seek="{seek:g}" title="Play the video from here" data-pagefind-ignore>{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
+                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
@@ -1605,6 +1611,12 @@ def load_people(corpus):
 def person_link(name):
     p = PERSON_BY_NORM.get(person_key(name))
     return f"artist-{p['id']}.html" if p and p.get("heard") else ""
+
+
+def participant_name(name):
+    """A participant's name in the Participants list: a link to their artist page when they have one."""
+    href = person_link(name)
+    return f'<a href="{href}">{e(name)}</a>' if href else e(name)
 
 
 def yt_moment(ent, seconds):
