@@ -34,6 +34,7 @@ import textreview  # noqa: E402  (its corpus parser; importing it starts nothing
 OUT_DIR = ROOT / "raw" / "suggestions"
 EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
 NO_WORDS = {"", "no", "n", "0", "false", "off", "none"}
+LINK_RE = re.compile(r"https?://|www\.", re.I)
 
 
 def find_col(headers, must, avoid=()):
@@ -99,7 +100,7 @@ def main():
         sys.exit(f"cannot find the column(s) for: {', '.join(missing)}\nheadings in the file: {headers}")
 
     seen = {}
-    counts = {"imported": 0, "no change": 0, "already imported": 0, "unmatched": 0, "bad row": 0}
+    counts = {"imported": 0, "no change": 0, "already imported": 0, "unmatched": 0, "bad row": 0, "repeat (merged)": 0, "spam-like": 0}
     for row in rows:
         slug = (row.get(cols["recording"]) or "").strip()
         if not textreview.SLUG_RE.match(slug) or not (textreview.CORPUS_DIR / f"{slug}.md").exists():
@@ -130,6 +131,15 @@ def main():
         if " ".join(new.split()) == " ".join(para.split()):
             counts["no change"] += 1
             continue
+        if LINK_RE.search(new) and not LINK_RE.search(para):        # a link that was not in the passage: spam, never a transcript correction
+            counts["spam-like"] += 1
+            continue
+        repeat = next((x for x in store["suggestions"] if x["old"] == para and x["new"] == new and x.get("status") in ("pending", "approved")), None)
+        if repeat:                                                  # the same fix sent again (by someone else, or twice): one card, with a count
+            repeat["count"] = repeat.get("count", 1) + 1
+            repeat.setdefault("source_ids", [repeat.get("source_id")]).append(source_id)
+            counts["repeat (merged)"] += 1
+            continue
         consent = bool(cols["consent"]) and (row.get(cols["consent"]) or "").strip().lower() not in NO_WORDS
         name = " ".join((row.get(h) or "").strip() for h in cols["name"]).strip()
         note = EMAIL_RE.sub("[email removed]", (row.get(cols["note"]) or "").strip())[:600] if cols["note"] else ""
@@ -137,7 +147,9 @@ def main():
             "sid": hashlib.sha1(f"{source_id}|{slug}|{int(t)}|{new}".encode()).hexdigest()[:10], "slug": slug,
             "t": t, "old": para, "new": new, "by": name if (consent and name) else "", "credit": bool(consent and name),
             "note": note, "submitted": (row.get(cols["date"]) or "").strip() if cols["date"] else "", "source_id": source_id,
-            "match": how, "status": "pending"})
+            "match": how, "status": "pending", "count": 1,
+            "flag": ("large change: " + str(round(100 * (1 - difflib.SequenceMatcher(None, para, new).ratio()))) + "% of the paragraph differs")
+                    if difflib.SequenceMatcher(None, para, new).ratio() < 0.6 else ""})
         counts["imported"] += 1
     if not dry:
         OUT_DIR.mkdir(parents=True, exist_ok=True)

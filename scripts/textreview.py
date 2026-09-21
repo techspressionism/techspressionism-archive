@@ -35,6 +35,7 @@ from lib_media import label, slug  # noqa: E402
 
 CORPUS_DIR = ROOT / "corpus"
 EDITS_DIR = ROOT / "data" / "text-edits"
+FIX_DIR = ROOT / "data" / "speaker-fixes"      # who spoke the turns the machine left "Unattributed" (set here, applied by 05-build-corpus.py)
 SLUG_RE = re.compile(r"^(salon|interview|roundtable|presentation)-\d{3}$")
 HEADING_RE = re.compile(r"^## (.+?) \[([\d:]+)\]\((.+?)\)\s*$")
 MAX_TEXT = 20000
@@ -53,6 +54,49 @@ def save_edits(sl, data):
     tmp = EDITS_DIR / f"{sl}.json.tmp"
     tmp.write_text(json.dumps(data, indent=2, ensure_ascii=False))
     tmp.replace(EDITS_DIR / f"{sl}.json")
+
+
+def load_fixes(sl):
+    p = FIX_DIR / f"{sl}.json"
+    return json.loads(p.read_text()) if p.exists() else {"fixes": []}
+
+
+def save_fixes(sl, data):
+    FIX_DIR.mkdir(parents=True, exist_ok=True)
+    (FIX_DIR / f"{sl}.json").write_text(json.dumps(data, indent=2, ensure_ascii=False))
+
+
+def people_for(sl):
+    """The people who can be picked for an unattributed turn: the recording's interviewee, interviewer, moderator and listed speakers."""
+    s = _sessions[sl]
+    names = [s.get("interviewee"), s.get("interviewer"), s.get("moderator")] + [x.get("name") for x in s.get("speakers") or []]
+    out = []
+    for n in names:
+        n = re.split(r"\s+(?:[\u2013\u2014-]|//)\s+", str(n or "").strip())[0].strip()      # "Name – City" -> "Name"
+        if n and n not in out and n.lower() not in ("none", "null"):
+            out.append(n)
+    return out
+
+
+def voices_in(sl, t0, t1):
+    """How long each named voice speaks between t0 and t1 (from the voice separation), to help choose: [(name, seconds)]."""
+    dp, dn = ROOT / "raw" / "diarize" / f"{sl}.json", ROOT / "data" / "voice-names" / f"{sl}.json"
+    if not dp.exists():
+        return []
+    d = json.loads(dp.read_text())
+    decided = {}
+    if dn.exists():
+        try:
+            decided = {v: x.get("name") for v, x in (json.loads(dn.read_text()).get("voices") or {}).items() if isinstance(x, dict)}
+        except Exception:
+            decided = {}
+    name = {v: (decided.get(v) or x.get("name") or x.get("candidate") or v) for v, x in (d.get("voices") or {}).items()}
+    secs = {}
+    for a, b, v in d.get("turns", []):
+        ov = min(b, t1) - max(a, t0)
+        if ov > 0:
+            secs[name.get(v, v)] = secs.get(name.get(v, v), 0) + ov
+    return sorted(((n, round(x, 1)) for n, x in secs.items()), key=lambda z: -z[1])
 
 
 def parse_corpus(sl):
@@ -116,6 +160,7 @@ def recording(sl):
     blocks = parse_corpus(sl)
     paragraph_times(blocks, tokens_with_times(sl))
     edits = load_edits(sl)["edits"]
+    fixes = load_fixes(sl)["fixes"]
     by_new = {e["new"]: e for e in edits}
     by_old = {e["old"]: e for e in edits}
     present = {p for b in blocks for p in b["paras"]}
@@ -128,10 +173,15 @@ def recording(sl):
             if e:
                 info = {**e, "state": "applied" if e["new"] == text and e["old"] != text else "pending"}
             paras.append({"text": text, "t": t, "edit": info})
-        out_blocks.append({"speaker": b["speaker"], "time": b["time"], "start": b["start"], "paras": paras})
+        ob = {"speaker": b["speaker"], "time": b["time"], "start": b["start"], "paras": paras}
+        if b["speaker"].lower() == "unattributed":
+            nxt = blocks[out_blocks.__len__() + 1]["start"] if out_blocks.__len__() + 1 < len(blocks) else b["start"] + 30
+            ob["fix"] = next((f["speaker"] for f in fixes if abs(f["t"] - b["start"]) <= 1.5), "")
+            ob["voices"] = voices_in(sl, b["start"], nxt)
+        out_blocks.append(ob)
     stale = [e for e in edits if e["old"] not in present and e["new"] not in present]
     return {"slug": sl, "label": label(s), "title": s.get("session_title") or "", "video_id": s["video_id"],
-            "blocks": out_blocks, "stale": stale}
+            "blocks": out_blocks, "stale": stale, "people": people_for(sl)}
 
 
 def listing():
@@ -173,6 +223,7 @@ def pending_suggestions():
             if s.get("status") == "pending":
                 out.append({**s, "label": label(_sessions[sl]), "video_id": _sessions[sl]["video_id"],
                             "state": "ready" if current_for(sl, s["old"]) is not None else "stale"})
+    out.sort(key=lambda x: (-int(x.get("count", 1) or 1), x["slug"], x.get("t", 0)))      # the fixes several people sent come first
     return out
 
 
@@ -245,6 +296,13 @@ async function page(sl){
   const body=el('div');
   d.blocks.forEach(b=>{
     body.append(el('div',{class:'spk'},b.speaker+' ',el('span',{class:'mute small',text:b.time})));
+    if(/^unattributed$/i.test(b.speaker)){          // who is speaking here? one tap; “Apply corrections to the page” publishes it
+      const note=el('span',{class:'small mute',text:b.fix?('set to '+b.fix+' — press “Apply corrections to the page”'):''});
+      const row=el('div',{class:'row small',style:'margin:2px 0 8px'},el('span',{class:'mute',text:'Who is speaking? '}));
+      (d.people||[]).forEach(n=>row.append(el('button',{text:n,onclick:async()=>{const r=await api('/api/speaker',{method:'POST',body:JSON.stringify({slug:sl,t:b.start,speaker:n})});note.textContent=r.ok?('set to '+n+' — press “Apply corrections to the page”'):(r.error||'not saved')}})));
+      row.append(el('button',{text:'clear',onclick:async()=>{const r=await api('/api/speaker',{method:'POST',body:JSON.stringify({slug:sl,t:b.start,speaker:''})});note.textContent=r.ok?'cleared':(r.error||'not saved')}}),note);
+      if(b.voices&&b.voices.length)row.append(el('span',{class:'mute',text:'  voices here: '+b.voices.map(v=>v[0]+' '+v[1]+'s').join(', ')}));
+      body.append(row)}
     b.paras.forEach(p=>{
       const ta=el('textarea',{rows:Math.max(2,Math.ceil(p.text.length/85))});ta.value=p.text;
       const save=el('button',{class:'pri',text:'Save',disabled:true}), revert=el('button',{text:'Undo my correction',class:p.edit?'':'hide'});
@@ -288,7 +346,7 @@ async function suggestionsPage(){
     const approveEdited=el('button',{class:'pri hide',text:'Approve my edited version',onclick:()=>act('approve',edit.value)});
     const editBtn=el('button',{text:'Edit first…',disabled:s.state==='stale',onclick:()=>{edit.classList.toggle('hide');approveEdited.classList.toggle('hide')}});
     box.append(el('div',{class:'row'},el('b',{text:s.label}),el('button',{text:'▶ '+mmss(s.t),onclick:()=>jump(s.video_id,s.t)}),
-        el('span',{class:'badge',text:s.credit?'from '+s.by+' (agreed to be credited)':'anonymous'}),s.match!=='exact'?el('span',{class:'badge warn',text:s.match==='prefix'?'long passage: only its start was offered — check the ending is untouched':'matched approximately — check it'}):'',s.state==='stale'?el('span',{class:'badge warn',text:'STALE: that passage has since changed'}):''),
+        el('span',{class:'badge',text:s.credit?'from '+s.by+' (agreed to be credited)':'anonymous'}),(s.count>1?el('span',{class:'badge ok',text:'sent '+s.count+' times'}):''),(s.flag?el('span',{class:'badge warn',text:s.flag}):''),s.match!=='exact'?el('span',{class:'badge warn',text:s.match==='prefix'?'long passage: only its start was offered — check the ending is untouched':'matched approximately — check it'}):'',s.state==='stale'?el('span',{class:'badge warn',text:'STALE: that passage has since changed'}):''),
       s.note?el('div',{class:'small mute',style:'margin:6px 0',text:'Note: '+s.note}):'',diff,edit,el('div',{class:'row',style:'margin-top:6px'},approve,editBtn,approveEdited,el('button',{text:'Reject',onclick:()=>act('reject')}),result));
     return box});
   app.replaceChildren(el('p',{},el('a',{href:'#/',text:'← all recordings'})),el('h1',{text:'Suggestions ('+list.length+')'}),
@@ -378,6 +436,19 @@ class Handler(BaseHTTPRequestHandler):
                 data["edits"] = [e for e in data["edits"] if e["id"] != str(body.get("id", ""))]
                 save_edits(sl, data)
                 return self._send({"ok": len(data["edits"]) < before})
+            if self.path == "/api/speaker":       # who spoke an "Unattributed" turn (empty = undo)
+                sl, t = str(body.get("slug", "")), float(body.get("t", 0))
+                who = re.sub(r"\s+", " ", str(body.get("speaker", ""))).strip()[:60]
+                if not SLUG_RE.match(sl) or not (CORPUS_DIR / f"{sl}.md").exists():
+                    return self._send({"error": "unknown recording"}, code=400)
+                if who and who not in people_for(sl):
+                    return self._send({"error": "that name is not one of this recording's people"}, code=400)
+                data = load_fixes(sl)
+                data["fixes"] = [f for f in data["fixes"] if abs(f["t"] - t) > 1.5]
+                if who:
+                    data["fixes"].append({"t": round(t, 1), "speaker": who, "at": time.strftime("%Y-%m-%d %H:%M")})
+                save_fixes(sl, data)
+                return self._send({"ok": True})
             if self.path == "/api/apply":
                 r = subprocess.run([sys.executable, str(HERE / "05-build-corpus.py"), sl, "--no-review"], capture_output=True, text=True, timeout=600, cwd=str(ROOT))
                 line = next((l.strip() for l in r.stdout.splitlines() if "text corrections" in l), "no corrections to apply" if r.returncode == 0 else "")

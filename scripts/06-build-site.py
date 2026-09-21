@@ -211,7 +211,7 @@ def suggest_link(entry, start, paragraph):
     text = paragraph if len(paragraph) <= SUGGEST_MAX else paragraph[:paragraph.rfind(" ", 0, SUGGEST_MAX)]
     query = urlencode({names["recording"]: slug(entry), names["time"]: int(start), names["text"]: text})
     return (f'<a class="suggest" href="{e(base + ("&" if "?" in base else "?") + query)}" target="_blank" '
-            f'rel="noopener" data-pagefind-ignore>Suggest a correction</a>')
+            f'rel="noopener" data-pagefind-ignore title="Suggest a correction to the passage above">Suggest a correction</a>')
 
 
 def facet(s):
@@ -487,8 +487,8 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
 }
-a.suggest { font-size:.72rem; margin-left:.7rem; color:var(--muted); white-space:nowrap; opacity:.75; }
-a.suggest:hover { opacity:1; color:var(--accent); }
+a.suggest { display:inline-flex; align-items:center; font-size:.85rem; padding:.3rem .9rem; border:1px solid var(--line); border-radius:1.2rem; color:var(--muted); white-space:nowrap; background:var(--card); }   /* the third button at the end of a turn: about the passage above it */
+a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decoration:none; }
 /* index */
 .sessions { list-style:none; padding:0; margin:.3rem 0 0; }
 .sessions li { display:flex; gap:.6rem; border-bottom:1px solid var(--line); padding:.7rem 0; }
@@ -1227,10 +1227,10 @@ def build_session_page(entry, siblings=()):
             blocks.append(
                 f'<div class="para" data-t="{t0}" data-st="{",".join(f"{x:g}" for x in st)}">'
                 f'{heading}'
-                f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p>'
+                f'<p><span class="tx">{emphasize(e(para))}</span></p>'
                 f'<div class="para-foot" data-pagefind-ignore>'
                 f'<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}"><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}<span class="pt">{pill_time(t0)}</span></a>'
-                f'<button type="button" class="cite-btn" aria-expanded="false" title="Cite the passage above (pauses the video)">{UP_SVG}Cite</button></div></div>')
+                f'<button type="button" class="cite-btn" aria-expanded="false" title="Cite the passage above (pauses the video)">{UP_SVG}Cite</button>{suggest_link(entry, t0, para)}</div></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
         # a passage whose speaker is not identified is not offered as a search result (a citation needs a speaker);

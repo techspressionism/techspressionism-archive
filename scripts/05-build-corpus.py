@@ -766,6 +766,22 @@ def process_session(session, artists, vocab_terms, review_rows):
         print(f"{label(session)}: no usable transcript source ({source}), skipping corpus build")
         return None
 
+    # turns the machine left Unattributed can be settled by hand (TextReview: "Who is speaking?" -> data/speaker-fixes/<slug>.json)
+    fixes_path = ROOT / "data" / "speaker-fixes" / f"{slug(session)}.json"
+    if fixes_path.exists():
+        by_hand = json.loads(fixes_path.read_text()).get("fixes", [])
+        n_fixed = 0
+        for seg in segments:
+            if seg.get("speaker") or seg.get("start") is None:
+                continue
+            for f in by_hand:
+                if f.get("speaker") and abs(float(seg["start"]) - float(f["t"])) <= 1.5:
+                    seg["speaker"] = f["speaker"]
+                    n_fixed += 1
+                    break
+        if n_fixed:
+            print(f"  {n_fixed} unattributed turn(s) set by hand (data/speaker-fixes)")
+
     # canonical names are applied only to what gets published -- the raw
     # speaker labels above still drive segmentation and Zoom-label matching
     for seg in segments:
