@@ -309,6 +309,36 @@ WP_MENU_JS = """<script>
   t.addEventListener('click', function () { set(true); });
   c.addEventListener('click', function () { set(false); });
   document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !m.hidden) set(false); });
+  // Where the archive sits on techspressionism.com itself, the menu is refreshed from the live home page (at most once an hour per visitor);
+  // the menu printed into the page is what shows until then, and stays if the home page cannot be read. Only text and web addresses are taken.
+  function read(ul) {
+    return [].slice.call(ul.children).filter(function (li) { return li.tagName === 'LI'; }).map(function (li) {
+      var a = li.querySelector(':scope > a'), sub = li.querySelector(':scope > ul');
+      return { l: a ? a.textContent.trim() : '', u: a ? a.href : '', c: sub ? read(sub) : [] };
+    }).filter(function (x) { return x.l && /^https?:/.test(x.u); });
+  }
+  function build(list) {
+    var ul = document.createElement('ul');
+    list.forEach(function (it) {
+      var li = document.createElement('li'), a = document.createElement('a');
+      a.href = it.u; a.textContent = it.l; li.appendChild(a);
+      if (it.c && it.c.length) li.appendChild(build(it.c));
+      ul.appendChild(li);
+    });
+    return ul;
+  }
+  function apply(list) { var old = m.querySelector(':scope > ul'); if (list && list.length && old) m.replaceChild(build(list), old); }
+  if (location.hostname.replace(/^www[.]/, '') === 'techspressionism.com') {
+    var KEY = 'tvaWpMenu', now = Date.now(), cached = null;
+    try { cached = JSON.parse(localStorage.getItem(KEY)); } catch (e) {}
+    if (cached && cached.m && now - cached.t < 3600000) apply(cached.m);
+    else fetch('/', { credentials: 'omit' }).then(function (r) { return r.ok ? r.text() : Promise.reject(); }).then(function (html) {
+      var ul = new DOMParser().parseFromString(html, 'text/html').getElementById('menu-main-navgation'), list = ul ? read(ul) : [];
+      if (!list.length) return;
+      try { localStorage.setItem(KEY, JSON.stringify({ t: now, m: list })); } catch (e) {}
+      apply(list);
+    }).catch(function () {});
+  }
 })();
 </script>"""
 
