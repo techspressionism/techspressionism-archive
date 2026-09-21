@@ -408,15 +408,17 @@ h1 .topic { color:var(--muted); font-weight:400; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
-.read-btn { display:none; width:100%; margin:0 0 1.2rem; padding:.85rem 1rem; border:2px solid var(--accent); border-radius:.4rem; background:var(--accent);
-            color:#fff; font:inherit; font-size:1.05rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
-.read-btn:hover { background:#d60000; border-color:#d60000; }
-.read-btn[aria-expanded="true"] { background:#fff; color:var(--accent); }
-.read-btn[aria-expanded="true"]:hover { background:#fff0f0; }
-.js .read-btn { display:block; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
+.read-actions { display:none; margin:0 0 1.2rem; }
+.read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:.4rem; color:#fff; font:inherit; font-size:1rem; font-weight:800;
+                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }
+.watch-btn { background:var(--accent); }
+.watch-btn:hover { background:#d60000; border-color:#d60000; }
+.read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
+.read-btn:hover { background:#5f5f5f; border-color:#5f5f5f; }
+.js .read-actions { display:flex; gap:.6rem; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
-.layout.from-search .read-btn, .layout.reading .read-btn { display:none !important; }   /* Read transcript opens it for good; there is no Hide button */
+.layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
@@ -478,7 +480,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
-  .js .read-btn { position:static; box-shadow:none; }
+  .js .read-actions { position:static; box-shadow:none; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
 }
@@ -630,7 +632,10 @@ PAGE_TMPL = """<!doctype html>
 </p>
 {speakers}
 {flags}
-<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript" data-pagefind-ignore>Read transcript</button>
+<div class="read-actions" id="read-actions" data-pagefind-ignore>
+<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>
+<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
+</div>
 </div>
 <div class="right">
 {watch_next}
@@ -761,6 +766,7 @@ document.addEventListener("change", function (ev) {
 
 PLAYER_JS = """<script>
 (function () {
+  var autoplayOnLoad = false;      // set when the visitor pressed Watch with transcript: the player, once loaded, starts by itself
   var layout = document.querySelector('.layout'), btn = document.getElementById('read-btn');
   var qs = new URLSearchParams(location.search);       // a link from a search result carries: play=1, at (seconds), to, hl (search words), cite
   var cited = qs.get('play') === '1' && qs.get('at') !== null;
@@ -790,6 +796,12 @@ PLAYER_JS = """<script>
   if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
   if (btn) {
     btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
+    var wbtn = document.getElementById('watch-btn');
+    if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
+      reading(true, true);
+      autoplayOnLoad = true;
+      if (typeof whenReady === 'function') whenReady(function () { player.playVideo(); });
+    });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
@@ -890,7 +902,7 @@ PLAYER_JS = """<script>
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       player = new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: { rel: 0, playsinline: 1, modestbranding: 1 },
+        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, autoplay: autoplayOnLoad ? 1 : 0 },
         events: {
           onReady: function () { ready = true; queue.splice(0).forEach(function (f) { f(); }); },
           onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); },
@@ -2074,7 +2086,7 @@ def seo_for_home(corpus):
         ld = lib_seo.home_graph(base=page, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, description=desc, first_year=st["first"],
                                 last_year=st["last"], csv_url=canonical_url("data/recordings.csv"), license_url=SITE_CONFIG.get("license_url") or "",
                                 doi=SITE_CONFIG.get("zenodo_doi") or "", youtube_channel=SITE_CONFIG.get("youtube_channel_url") or "")
-    return dict(title=f"{BRAND} (TVA): searchable, citable transcripts of Techspressionism recordings", social_title=BRAND, description=desc,
+    return dict(title=f"{BRAND}: searchable, citable transcripts of Techspressionism recordings", social_title=BRAND, description=desc,
                 url=page, image=default_share_image()[0] if page else "", image_size=default_share_image()[1], og_type="website", jsonld=ld, meta=[],
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
@@ -2108,7 +2120,7 @@ def build_about(corpus):
     desc = lib_seo.clip_text("What the Techspressionism Video Archive contains, how its transcripts are made and how accurate they are, "
                              "how to cite a passage, and where to download the data.", 300)
     body = f"""<h1>About the {e(BRAND)}</h1>
-<p>The {e(BRAND)} (TVA) is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
+<p>The {e(BRAND)} is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
 It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
 <a href="index.html?type=Salon">salons</a>, {tn.get('interview', 0)} artist <a href="index.html?type=Interview">interviews</a>,
 {tn.get('roundtable', 0)} <a href="index.html?type=Roundtable">roundtables</a> and {tn.get('presentation', 0)} <a href="index.html?type=Presentation">presentations</a>.
