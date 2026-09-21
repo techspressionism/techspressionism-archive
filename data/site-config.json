@@ -6,7 +6,7 @@
   "search_unidentified_speakers": false,
   "canonical_base": "",
   "watch_lead_in_seconds": 3,
-  "pill_lead_in_seconds": 1,
+  "pill_lead_in_seconds": 0,
   "series_start_years": {
     "Salon": 2020
   },

@@ -1202,7 +1202,7 @@ def build_session_page(entry, siblings=()):
             if t0 is None:
                 blocks.append(f"<div class=\"para\"><p><span class=\"tx\">{emphasize(e(para))}</span>{suggest_link(entry, start, para)}</p></div>")
                 continue
-            seek = round(max(0.0, t0 - PILL_LEAD_IN), 1)
+            seek = round(max(0.0, t0 - PILL_LEAD_IN), 2)
             yt = f"{url}&t={int(seek)}s"
             # each paragraph after the first is a heading with an id, so search results can point at
             # the paragraph (exact time) rather than at the start of the whole turn; the hidden name
