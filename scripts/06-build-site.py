@@ -289,7 +289,7 @@ def build_wp_strip():
     menu = load_wp_menu()
     if not menu:
         return ""
-    return ('<div class="wpstrip"><a class="wpbrand" href="https://techspressionism.com/" title="Back to techspressionism.com">Techspressionism</a>'
+    return ('<div class="wpstrip">'
             '<button type="button" class="wptoggle" aria-controls="wpmenu" aria-expanded="false" aria-label="Open the Techspressionism menu"><i></i><i></i><i></i></button></div>\n'
             f'<nav id="wpmenu" class="wpmenu" aria-label="Techspressionism.com" hidden>'
             f'<button type="button" class="wpclose" aria-label="Close the menu"><i></i><i></i></button><ul>{items(menu)}</ul></nav>\n'
@@ -314,9 +314,7 @@ WP_MENU_JS = """<script>
 
 WP_MENU_CSS = """
 /* the strip that leads back to techspressionism.com, and its menu (the WordPress site's flyout look) */
-.wpstrip { display:flex; align-items:center; justify-content:space-between; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
-.wpbrand { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:800; font-size:1rem; letter-spacing:.02em; text-transform:uppercase; color:#000; text-decoration:none; }
-.wpbrand:hover { color:var(--accent); text-decoration:none; }
+.wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
 .wptoggle { display:none; flex-direction:column; justify-content:center; gap:5px; width:2.2rem; height:2rem; padding:0 .3rem; border:0; background:none; cursor:pointer; }
 .js .wptoggle { display:flex; }
 .wptoggle i { display:block; height:2px; background:#000; }
