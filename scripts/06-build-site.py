@@ -271,11 +271,76 @@ def build_browse(corpus, active="", navigate=False, sid=""):
             f'<select id="browse-select{sid}"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
 
 
-def build_header(corpus, active="", sid=""):
+def load_wp_menu():
+    """The techspressionism.com main menu (data/wp-menu.json, refreshed by scripts/refresh-wp-menu.py)."""
+    path = ROOT / "data" / "wp-menu.json"
+    return json.loads(path.read_text()).get("menu", []) if path.exists() else []
+
+
+def build_wp_strip():
+    """The strip at the top of every page: a way back to techspressionism.com and, behind the hamburger, its main menu as a
+    full-screen flyout in the WordPress site's own look (black, pink links, red close)."""
+    def items(menu):
+        out = []
+        for it in menu:
+            sub = f'<ul>{items(it["children"])}</ul>' if it.get("children") else ""
+            out.append(f'<li><a href="{e(it["url"])}">{e(it["label"])}</a>{sub}</li>')
+        return "".join(out)
+    menu = load_wp_menu()
+    if not menu:
+        return ""
+    return ('<div class="wpstrip"><a class="wpbrand" href="https://techspressionism.com/" title="Back to techspressionism.com">Techspressionism</a>'
+            '<button type="button" class="wptoggle" aria-controls="wpmenu" aria-expanded="false" aria-label="Open the Techspressionism menu"><i></i><i></i><i></i></button></div>\n'
+            f'<nav id="wpmenu" class="wpmenu" aria-label="Techspressionism.com" hidden>'
+            f'<button type="button" class="wpclose" aria-label="Close the menu"><i></i><i></i></button><ul>{items(menu)}</ul></nav>\n'
+            + WP_MENU_JS + "\n")
+
+
+WP_MENU_JS = """<script>
+(function () {
+  var t = document.querySelector('.wptoggle'), m = document.getElementById('wpmenu');
+  if (!t || !m) return;
+  var c = m.querySelector('.wpclose');
+  function set(open) {
+    m.hidden = !open; t.setAttribute('aria-expanded', String(open));
+    document.documentElement.classList.toggle('wp-open', open);
+    (open ? c : t).focus();
+  }
+  t.addEventListener('click', function () { set(true); });
+  c.addEventListener('click', function () { set(false); });
+  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !m.hidden) set(false); });
+})();
+</script>"""
+
+WP_MENU_CSS = """
+/* the strip that leads back to techspressionism.com, and its menu (the WordPress site's flyout look) */
+.wpstrip { display:flex; align-items:center; justify-content:space-between; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
+.wpbrand { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:800; font-size:1rem; letter-spacing:.02em; text-transform:uppercase; color:#000; text-decoration:none; }
+.wpbrand:hover { color:var(--accent); text-decoration:none; }
+.wptoggle { display:none; flex-direction:column; justify-content:center; gap:5px; width:2.2rem; height:2rem; padding:0 .3rem; border:0; background:none; cursor:pointer; }
+.js .wptoggle { display:flex; }
+.wptoggle i { display:block; height:2px; background:#000; }
+.wptoggle:hover i { background:var(--accent); }
+.wpmenu { position:fixed; inset:0; z-index:1000; background:#000; overflow-y:auto; padding:5rem 1.5rem 3rem; }
+.wpmenu[hidden] { display:none; }
+.wpmenu ul { list-style:none; margin:0 auto; padding:0; max-width:30rem; text-align:center; }
+.wpmenu li { margin:0; padding:.5rem 0; }
+.wpmenu li ul { padding-top:.4rem; }
+.wpmenu a { font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:18px; line-height:1.3; color:#dd73cb; text-decoration:none; }
+.wpmenu a:hover, .wpmenu a:focus-visible { color:#fff; text-decoration:none; }
+.wpclose { position:absolute; top:1.1rem; right:1.6rem; width:2.2rem; height:2.2rem; padding:0; border:0; background:none; cursor:pointer; }
+.wpclose i { position:absolute; left:.1rem; right:.1rem; top:50%; height:2px; background:#f00; transform:rotate(45deg); }
+.wpclose i + i { transform:rotate(-45deg); }
+.wpclose:hover i, .wpclose:focus-visible i { background:#fff; }
+html.wp-open { overflow:hidden; }
+"""
+
+
+def build_header(corpus, active="", sid="", strip=True):
     """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
     see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
     wires the search box and Browse to the page.)"""
-    return ('<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
+    return ((build_wp_strip() if strip else "") + '<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
@@ -285,7 +350,7 @@ def build_header(corpus, active="", sid=""):
             '</div></header>')
 
 
-FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
+FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">'
 LISTED = []          # the people who have a page: those heard or named in the recordings
 PEOPLE = []          # people directory (data/people.json) with archive statistics, set in main()
 PERSON_BY_NORM = {}  # normalised name (or alias) -> person
@@ -563,7 +628,7 @@ PAGE_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 </head>
@@ -1076,7 +1141,7 @@ def build_session_page(entry, siblings=()):
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
         header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
-        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky'),
+        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip=False),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -1105,7 +1170,7 @@ INDEX_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
@@ -2061,9 +2126,9 @@ def main():
     load_people(corpus)
     SITE_DIR.mkdir(exist_ok=True)
     global CSS_VERSION
-    css_text = STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS)
+    css_text = STYLE + PERSON_CSS + WP_MENU_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS)
     CSS_VERSION = hashlib.md5(css_text.encode()).hexdigest()[:8]
-    (SITE_DIR / "style.css").write_text(STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
+    (SITE_DIR / "style.css").write_text(STYLE + PERSON_CSS + WP_MENU_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
     for old in SITE_DIR.glob("*.html"):                     # the old .html addresses are gone
         if old.name != "index.html":
             old.unlink()
