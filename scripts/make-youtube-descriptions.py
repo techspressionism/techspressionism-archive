@@ -16,6 +16,10 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from lib_media import label, slug            # noqa: E402
 from lib_speakers import is_not_speaker      # noqa: E402
+import importlib.util                        # noqa: E402
+_spec = importlib.util.spec_from_file_location("site06", ROOT / "scripts" / "06-build-site.py")
+_site = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(_site)              # for page_name(): the recording's descriptive address
 
 OUT = ROOT / "private" / "youtube-descriptions"
 BASE = "https://techspressionism.com/archive"
@@ -63,7 +67,7 @@ def description(entry):
     ch = chapters(entry)
     if ch:
         lines += ["", "Chapters"] + [f"{stamp(t)} {name}" for t, name in ch]
-    lines += ["", f"Read the searchable, timestamped transcript: {BASE}/{sl}/",
+    lines += ["", f"Read the searchable, timestamped transcript: {BASE}/{_site.page_name(entry)}/",
               "Techspressionism is an artistic approach in which technology is utilized as a means to express emotional experience.",
               "https://techspressionism.com/"]
     return "\n".join(lines) + "\n"
