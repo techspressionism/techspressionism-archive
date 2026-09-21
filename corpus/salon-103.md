@@ -473,7 +473,7 @@ Especially if you go to the OpenAI one, which basically has all your Disney char
 
 Yeah. Colin has his hand raised, but Cynthia's also raising her hand, so I'll go to Cynthia real quickly.
 
-## Cynthia Rubin [01:19:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4764s)
+## Cynthia Beth Rubin [01:19:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4764s)
 
 Okay, I know that early on, Renata, you were, trying to overcome racial biases within AI. Yes. So this is a question for you, and also for Renata, because I noticed that Renata, In the piece she showed us had some Asian A number of Asian characters, and a couple, Dark-skinned people that I don't know, African American, African origin, whatever. And I hadn't seen that very much before. So this is kind of a question for both of you. Are you finding that AI is more open to, racial… more… more open racially?
 
@@ -485,7 +485,7 @@ And the AI had to learn That pattern on top of Acquiring images that were fed in
 
 To, melanin variations. The AI, because it is trained to learn patterns, Had to eventually break through.
 
-## Cynthia Rubin [01:22:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4950s)
+## Cynthia Beth Rubin [01:22:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4950s)
 
 Okay, so can we hear from… that's a great answer. Renata, what was your experience? Because I had not seen the racial variety in your work before, and now, in what you showed today, it was there. How'd you get it in there? You're muted.
 
@@ -495,7 +495,7 @@ Well, when you say you hadn't seen it before, it's because you don't see all my 
 
 I live in a very multicultural nation. And I'm really used to seeing All… people of all colors, so… that naturally finds its way into my work. It would be… it would be…. It would be dishonest, I think. To not to try to be more inclusive. But it's also… it's also, from an artistic point of view, it's just interesting to see different features.
 
-## Cynthia Rubin [01:23:55](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5035s)
+## Cynthia Beth Rubin [01:23:55](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5035s)
 
 So, did you have to make an effort to get it in? That's really the question.
 
@@ -503,7 +503,7 @@ So, did you have to make an effort to get it in? That's really the question.
 
 Well, I have to make an effort to get everything in.
 
-## Cynthia Rubin [01:24:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5042s)
+## Cynthia Beth Rubin [01:24:02](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5042s)
 
 Okay. Great, thanks.
 

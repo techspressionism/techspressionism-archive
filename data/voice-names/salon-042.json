@@ -1,0 +1,35 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:13",
+      "fingerprint": "4d6514ff6b",
+      "name": "Colin Goldberg"
+    },
+    "V2": {
+      "at": "2026-09-20 21:13",
+      "fingerprint": "5ce26ba8b0",
+      "name": "Roz Dimon"
+    },
+    "V3": {
+      "at": "2026-09-20 21:13",
+      "fingerprint": "3c4ba72dce",
+      "name": "Davonte Bradley"
+    },
+    "V4": {
+      "at": "2026-09-20 21:13",
+      "fingerprint": "d36f2169bc",
+      "name": "Nina Sobell"
+    },
+    "V5": {
+      "at": "2026-09-20 21:14",
+      "fingerprint": "5ddd7ec945",
+      "name": "Mary Ann Strandell"
+    },
+    "V6": {
+      "at": "2026-09-20 21:14",
+      "fingerprint": "58680256c3",
+      "name": "Verneda Lights"
+    }
+  }
+}

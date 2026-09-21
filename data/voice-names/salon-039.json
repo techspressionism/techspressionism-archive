@@ -1,0 +1,66 @@
+{
+  "applied": "2026-09-20 21:03",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:57",
+      "fingerprint": "fff5b70f00",
+      "name": "Davonte Bradley"
+    },
+    "V10": {
+      "at": "2026-09-20 21:01",
+      "fingerprint": "455ab5976b",
+      "name": "David Bloom"
+    },
+    "V11": {
+      "at": "2026-09-20 21:01",
+      "fingerprint": "8603b9ce5e",
+      "name": "Stephanie Sydney"
+    },
+    "V12": {
+      "at": "2026-09-20 21:03",
+      "fingerprint": "df6f1b0c43",
+      "name": ""
+    },
+    "V2": {
+      "at": "2026-09-20 20:57",
+      "fingerprint": "33e547931b",
+      "name": "Colin Goldberg"
+    },
+    "V3": {
+      "at": "2026-09-20 20:57",
+      "fingerprint": "8b513242cf",
+      "name": "Roz Dimon"
+    },
+    "V4": {
+      "at": "2026-09-20 20:58",
+      "fingerprint": "3c48f219bf",
+      "name": "Cynthia DiDonato"
+    },
+    "V5": {
+      "at": "2026-09-20 20:58",
+      "fingerprint": "7f149444f8",
+      "name": "Susan Detroy"
+    },
+    "V6": {
+      "at": "2026-09-20 20:58",
+      "fingerprint": "600dcbc254",
+      "name": "Michael Pierre Price"
+    },
+    "V7": {
+      "at": "2026-09-20 20:58",
+      "fingerprint": "b3e4c23cdf",
+      "name": "Lee Day"
+    },
+    "V8": {
+      "at": "2026-09-20 20:58",
+      "fingerprint": "d4b7cff01d",
+      "name": "Sherry Karver"
+    },
+    "V9": {
+      "at": "2026-09-20 20:59",
+      "fingerprint": "2fd5a3021c",
+      "name": "Renata Janiszewska"
+    }
+  }
+}

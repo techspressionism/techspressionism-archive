@@ -1,4 +1,5 @@
 {
+  "applied": "2026-09-20 20:57",
   "approved_auto": false,
   "voices": {
     "V10": {
@@ -115,6 +116,36 @@
       "at": "2026-09-20 20:55",
       "fingerprint": "99ecb6319e",
       "name": "Diana de Avila"
+    },
+    "V31": {
+      "at": "2026-09-20 20:56",
+      "fingerprint": "9e2133cc40",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V32": {
+      "at": "2026-09-20 20:56",
+      "fingerprint": "f79eceff98",
+      "name": "Deann Stein Hasinoff"
+    },
+    "V33": {
+      "at": "2026-09-20 20:56",
+      "fingerprint": "920f6a2ea3",
+      "name": "Sahar Moussavi"
+    },
+    "V34": {
+      "at": "2026-09-20 20:56",
+      "fingerprint": "175c08149a",
+      "name": "Sue Beyer"
+    },
+    "V35": {
+      "at": "2026-09-20 20:57",
+      "fingerprint": "9dfad28932",
+      "name": ""
+    },
+    "V36": {
+      "at": "2026-09-20 20:57",
+      "fingerprint": "7a32082abe",
+      "name": "Davonte Bradley"
     },
     "V4": {
       "at": "2026-09-20 20:42",

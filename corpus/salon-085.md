@@ -46,7 +46,7 @@ transcript_source: zoom-transcript
 languages: ["en"]
 ---
 
-## C B Rubin [00:02](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2s)
+## Cynthia Beth Rubin [00:02](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2s)
 
 Great, so welcome to everybody, to our session on perspective, which is a very vast Wide, open term. Open to whatever interpretation people have. You can be talking about traditional perspective in space, cultural perspectives. The ways in which perspective has the concept of perspective has. Influenced your work and maybe your ideas about perspective have changed over time. Really, we're just happy to be here sharing our work and sharing our ideas. And Colin just put into the chat The very important Point, which is that if you're not sharing to mute, so that when the guys next door start mowing their lawns or the dogs start barking.
 
@@ -62,7 +62,7 @@ So. Anyway, you're Interested in another time, and you want some help setting it
 
 Just wanna say that we're very encouraging and welcoming to people, even though some of us have met often, we certainly very much enjoy others to attend. And if there is an issue with a language Cynthia is always willing to use Google translate so please don't let the fact that you're uncomfortable speaking in English, stop you from joining us because we do very much enjoy having people of a variety of places in the world, and I'll I'll end my comment.
 
-## C B Rubin [04:34](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=274s)
+## Cynthia Beth Rubin [04:34](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=274s)
 
 That's a really good point. We're trying to get one of those AI translators to work. But I thought we had one, and it turns out, it costs like $1,500 to subscribe. So we're not doing that. But we have simultaneously,. Just paste it into Google translator reverso. What's going on into the chat, and that has worked. Thank you for putting the other link into the chat. It's not the same link as this link to join on Tuesdays. It's on the website, but it's a different link. And Anyway.
 
@@ -74,7 +74,7 @@ So. Are you ready to share your screen.
 
 Sure.
 
-## C B Rubin [06:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=374s)
+## Cynthia Beth Rubin [06:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=374s)
 
 Okay.
 
@@ -84,7 +84,7 @@ Dry. Now, there's sound optimize. Video. Yes, yes, yes, just in case.
 
 Setting up to share.
 
-## C B Rubin [06:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=401s)
+## Cynthia Beth Rubin [06:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=401s)
 
 And you told us you're coming from San Francis, from the Bay Area, from San Jose.
 
@@ -92,7 +92,7 @@ And you told us you're coming from San Francis, from the Bay Area, from San Jose
 
 Yes.
 
-## C B Rubin [06:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=406s)
+## Cynthia Beth Rubin [06:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=406s)
 
 Okay. Great.
 
@@ -102,7 +102,7 @@ I'm attempting to share my screen.
 
 And it's not working.
 
-## C B Rubin [06:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=417s)
+## Cynthia Beth Rubin [06:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=417s)
 
 It's not working. Okay, do you have a Powerpoint or Google? So what do you have.
 
@@ -110,7 +110,7 @@ It's not working. Okay, do you have a Powerpoint or Google? So what do you have.
 
 No.
 
-## C B Rubin [07:06](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=426s)
+## Cynthia Beth Rubin [07:06](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=426s)
 
 Know what? Can you put? Your, we're gonna move on to the next person and come back to you.
 
@@ -118,7 +118,7 @@ Know what? Can you put? Your, we're gonna move on to the next person and come ba
 
 On the next person.
 
-## C B Rubin [07:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=435s)
+## Cynthia Beth Rubin [07:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=435s)
 
 And maybe you could put your work into Google drive.
 
@@ -126,7 +126,7 @@ And maybe you could put your work into Google drive.
 
 Drop.
 
-## C B Rubin [07:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=438s)
+## Cynthia Beth Rubin [07:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=438s)
 
 Box and send the link.
 
@@ -134,7 +134,7 @@ Box and send the link.
 
 No. I need to share, and I can't share.
 
-## C B Rubin [07:25](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=445s)
+## Cynthia Beth Rubin [07:25](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=445s)
 
 You need? Okay, what format is it in.
 
@@ -142,7 +142,7 @@ You need? Okay, what format is it in.
 
 We want to. The next person.
 
-## C B Rubin [07:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=450s)
+## Cynthia Beth Rubin [07:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=450s)
 
 Okay. The next person is Roz. You're muted. Roz.
 
@@ -152,7 +152,7 @@ Yeah, they change the interface. And then they're like the most obvious thing. U
 
 I'm sorry. Yes, they have. They changed the interface. Don't we love technology, anyway? Okay.
 
-## C B Rubin [08:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=480s)
+## Cynthia Beth Rubin [08:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=480s)
 
 They gotta keep us hopping.
 
@@ -160,7 +160,7 @@ They gotta keep us hopping.
 
 Really get through an open door. So these things are hard for me. Okay, all right, I'm getting ready to share. I'm I'm sharing from Shelter Island, the booming metropolis of Shelter Island. Out in the Hamptons. We're a little island, with The Hamptons on one side and the north work on the other 90 miles from New York City. Which I also consider home forever. Okay. I'm gonna share My desktop. Oh, they're asking for my password. Oh, my God, I'm jeepers! Are you guys? Seeing my desktop.
 
-## C B Rubin [08:35](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=515s)
+## Cynthia Beth Rubin [08:35](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=515s)
 
 Yes, we got it. Go.
 
@@ -168,7 +168,7 @@ Yes, we got it. Go.
 
 You.
 
-## C B Rubin [08:37](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=517s)
+## Cynthia Beth Rubin [08:37](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=517s)
 
 Ready to roll.
 
@@ -186,7 +186,7 @@ And it was it said that icons which never really interested me too much honestly
 
 This is somehow gonna relate to the digital work I do, and it it has layers and layers. Sacredness comes into it. Flat, flat washes praying the whole time. And this was my icon, my 1st icon. I did the the version of of bright sorrows, and you know the empathy, and her. Her nose is small, her lips are small, the eyes are large, and it's like through the eyes. There's a window to the viewer who people have these in their homes, and they pray into these pieces.
 
-## C B Rubin [14:35](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=875s)
+## Cynthia Beth Rubin [14:35](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=875s)
 
 A 2 min warning. Actually a minute.
 
@@ -198,7 +198,7 @@ And a celebrity balcony window, pale nail in New York City. Famous bird came bac
 
 And it's kind of a moment of grace to me. It's I still get emotional talking about this piece. But the fact that this is in the 911 Memorial Museum, where it's like ground 0 where I worked and built my career in some ways, you know. Now I have this piece embedded in the rock, and I guess the most important perspective is love, and I invite you all to be part of it, and thank you very much.
 
-## C B Rubin [16:33](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=993s)
+## Cynthia Beth Rubin [16:33](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=993s)
 
 Great Ross. Thank you so much. That was really great.
 
@@ -206,7 +206,7 @@ Great Ross. Thank you so much. That was really great.
 
 Different.
 
-## C B Rubin [16:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=999s)
+## Cynthia Beth Rubin [16:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=999s)
 
 Things to think about. I'm gonna suggest that we move on, and if people have comments, put them in the chat, and then we can come back to them later when we're discussing okay? So, Renata, you are next.
 
@@ -216,7 +216,7 @@ K,. Okay, hold on a second.
 
 Wow. I don't see my. Photos.
 
-## C B Rubin [17:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1031s)
+## Cynthia Beth Rubin [17:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1031s)
 
 Yeah, I The interface and zoom has really gotten not very good. And if you have other. Windows open, I suggest that people Try to quit your other applications because I had that problem.
 
@@ -224,7 +224,7 @@ Yeah, I The interface and zoom has really gotten not very good. And if you have 
 
 Yeah, I don't have any Other applications really other than the Safari. And my photos.
 
-## C B Rubin [17:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1058s)
+## Cynthia Beth Rubin [17:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1058s)
 
 Okay, I'm gonna suggest that you quit zoom and come back in. And in the meantime, because that I I actually had a lot of trouble myself in the middle of Roz's presentation. I had to move things around. So
 
@@ -232,7 +232,7 @@ Okay, I'm gonna suggest that you quit zoom and come back in. And in the meantime
 
 I don't believe.
 
-## C B Rubin [18:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1084s)
+## Cynthia Beth Rubin [18:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1084s)
 
 Unless you see them. You don't see them yet.
 
@@ -240,7 +240,7 @@ Unless you see them. You don't see them yet.
 
 No, I don't.
 
-## C B Rubin [18:07](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1087s)
+## Cynthia Beth Rubin [18:07](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1087s)
 
 Okay, so let's. Why don't you quit? And we will move on to Sahar. And.
 
@@ -248,7 +248,7 @@ Okay, so let's. Why don't you quit? And we will move on to Sahar. And.
 
 Come back!
 
-## C B Rubin [18:21](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1101s)
+## Cynthia Beth Rubin [18:21](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1101s)
 
 So, sahar, you're there. I'm gonna share.
 
@@ -256,7 +256,7 @@ So, sahar, you're there. I'm gonna share.
 
 I can share. I think I can share my Mike.
 
-## C B Rubin [18:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1110s)
+## Cynthia Beth Rubin [18:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1110s)
 
 You think you could share? Okay?
 
@@ -264,7 +264,7 @@ You think you could share? Okay?
 
 Yes. Just tell me when you see the.
 
-## C B Rubin [18:37](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1117s)
+## Cynthia Beth Rubin [18:37](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1117s)
 
 Yeah, it's got. It's good. It's working. Okay.
 
@@ -272,7 +272,7 @@ Yeah, it's got. It's good. It's working. Okay.
 
 Greg. Okay. Can you see it now?
 
-## C B Rubin [18:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1126s)
+## Cynthia Beth Rubin [18:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1126s)
 
 Yeah. Just go back up to your 1st slide.
 
@@ -300,7 +300,7 @@ So then, that was one of the impossible things that happened, and another experi
 
 So that was another surprise that something impossible happened. Who would think that Soviet Union will disappear? I'm just playing the videos during my presentation. So I think this experience this experience, does stay.
 
-## C B Rubin [22:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1349s)
+## Cynthia Beth Rubin [22:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1349s)
 
 Me, in.
 
@@ -308,7 +308,7 @@ Me, in.
 
 Into an unconscious memory.
 
-## C B Rubin [22:32](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1352s)
+## Cynthia Beth Rubin [22:32](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1352s)
 
 The videos aren't actually playing. Very well. Maybe you can go through this and then come back and cause you may not have clicked to the button.
 
@@ -316,7 +316,7 @@ The videos aren't actually playing. Very well. Maybe you can go through this and
 
 Okay.
 
-## C B Rubin [22:40](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1360s)
+## Cynthia Beth Rubin [22:40](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1360s)
 
 Says, share video.
 
@@ -324,7 +324,7 @@ Says, share video.
 
 Okay. So I would just go on with my presentation and then play the images.
 
-## C B Rubin [22:48](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1368s)
+## Cynthia Beth Rubin [22:48](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1368s)
 
 Yeah, and then play the video. Afterwards you can escape back and click, share. Video.
 
@@ -336,7 +336,7 @@ So I continued the concept in different media and the AI as well. So I'm going t
 
 Or if it's not playing Cynthia, I should have shared the slides with you, and you can share it instead Of me.
 
-## C B Rubin [24:09](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1449s)
+## Cynthia Beth Rubin [24:09](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1449s)
 
 These are playing. They're just a little bit jilted, I think.
 
@@ -344,7 +344,7 @@ These are playing. They're just a little bit jilted, I think.
 
 Can you see my screen.
 
-## C B Rubin [24:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1458s)
+## Cynthia Beth Rubin [24:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1458s)
 
 Yeah, yeah, we see your screen. Well, the still images are perfect.
 
@@ -354,7 +354,7 @@ So we have trouble with the videos.
 
 I think it's my full connection. So I changed the planets from a clear geometrical sphere to some of other forms and other materials. Combining to other materials.
 
-## C B Rubin [24:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1490s)
+## Cynthia Beth Rubin [24:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1490s)
 
 This is your 2 min warning.
 
@@ -368,7 +368,7 @@ And some AI planets that I created with Leonardo AI and Bing image Creator.
 
 Thank you. So that was my idea. My perspective about impossible happens.
 
-## C B Rubin [25:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1553s)
+## Cynthia Beth Rubin [25:53](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1553s)
 
 Rape. Wonderful. Do you wanna try sharing again and seeing if you click the button that says, share video, if you can show any of those videos.
 
@@ -378,7 +378,7 @@ Okay, that's great. I think that gives us an idea. So we can move on. Thank you.
 
 I think maybe I can share now. Oh, okay, cool.
 
-## C B Rubin [27:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1666s)
+## Cynthia Beth Rubin [27:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1666s)
 
 Let's go to William right now and then. Okay. Go ahead.
 
@@ -386,7 +386,7 @@ Let's go to William right now and then. Okay. Go ahead.
 
 Okay, we're gonna try again.
 
-## C B Rubin [27:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1675s)
+## Cynthia Beth Rubin [27:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1675s)
 
 Okay.
 
@@ -396,7 +396,7 @@ Hey?
 
 Okay, I'm punting again. It's asking for a password.
 
-## C B Rubin [28:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1694s)
+## Cynthia Beth Rubin [28:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1694s)
 
 It's working.
 
@@ -404,7 +404,7 @@ It's working.
 
 Oh, you can see my screen.
 
-## C B Rubin [28:17](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1697s)
+## Cynthia Beth Rubin [28:17](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1697s)
 
 Yeah, yeah.
 
@@ -442,7 +442,7 @@ Yes.
 
 So that's why I'm doing this. I have a need to create. And I really want to share my creations and touch people and hopefully give them a positive vibe.
 
-## C B Rubin [34:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2045s)
+## Cynthia Beth Rubin [34:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2045s)
 
 Great. Can you put your Instagram in the chat? That would be really useful and.
 
@@ -450,7 +450,7 @@ Great. Can you put your Instagram in the chat? That would be really useful and.
 
 I will, I will do that.
 
-## C B Rubin [34:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2054s)
+## Cynthia Beth Rubin [34:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2054s)
 
 I just wanna mention again that when people share, you need to click the boxes in the upper right? That say, share video, share sound if you have video, so we got to see that image. It was really great to see it, but we couldn't hear because you didn't click the little box that said, Share sound
 
@@ -462,7 +462,7 @@ What day.
 
 I heard it.
 
-## C B Rubin [34:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2081s)
+## Cynthia Beth Rubin [34:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2081s)
 
 Pardon.
 
@@ -478,7 +478,7 @@ October I'll see you.
 
 I think I heard it.
 
-## C B Rubin [34:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2086s)
+## Cynthia Beth Rubin [34:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2086s)
 
 Well, I heard some of it, but I we couldn't hear it as well as if you you know the zoom interface. Just why don't they make the default share, video, share, sound if you're sharing, and everyone wants that. But no, they want you to like Jump through something else. So.
 
@@ -486,7 +486,7 @@ Well, I heard some of it, but I we couldn't hear it as well as if you you know t
 
 Next time I'll try and dialed in a little bit more.
 
-## C B Rubin [35:07](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2107s)
+## Cynthia Beth Rubin [35:07](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2107s)
 
 Little boxes that's all under in the upper right. There are 2 little boxes that say, share video, share sound, and they just make life a lot easier. So.
 
@@ -494,7 +494,7 @@ Little boxes that's all under in the upper right. There are 2 little boxes that 
 
 Heard it.
 
-## C B Rubin [35:21](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2121s)
+## Cynthia Beth Rubin [35:21](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2121s)
 
 Except they're so hidden. Okay, thank you very much. That was great. People can put their comments in the chat. And please put your Instagram. So we get to see more. Okay, Renata.
 
@@ -502,7 +502,7 @@ Except they're so hidden. Okay, thank you very much. That was great. People can 
 
 Yeah, I'm gonna try and share my screen again.
 
-## C B Rubin [35:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2139s)
+## Cynthia Beth Rubin [35:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2139s)
 
 Okay.
 
@@ -528,7 +528,7 @@ And in the Book of Revelation, St. John the beloved described him as having here
 
 Alabaster even, and greenish. So I decided to use the Burnish brass appearance of of his skin. And, believe it or not, most people had a problem with the white hair. Not the color of the skin. Here again, it's another version of Jesus says, up. The ancient of days, it's right here. Give. And here we have an another religious perspective. We have Dealing with hair. We have a dreadlock appearance we have Jesus and Peter. And Jesus is washing Peter's feet.
 
-## C B Rubin [42:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2531s)
+## Cynthia Beth Rubin [42:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2531s)
 
 2 min warning.
 
@@ -540,7 +540,7 @@ And I was told by a very angry viewer on Facebook that they weren't black enough
 
 I guess I could stop here.
 
-## C B Rubin [43:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2609s)
+## Cynthia Beth Rubin [43:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2609s)
 
 Great. Thank you so much. You brought us 2 very different ways of talking about perspective, and it's really great to see them. So if you want to put Your Instagram, or anything in the chat.
 
@@ -548,7 +548,7 @@ Great. Thank you so much. You brought us 2 very different ways of talking about 
 
 Okay, that would be.
 
-## C B Rubin [43:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2626s)
+## Cynthia Beth Rubin [43:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2626s)
 
 Really wonderful.
 
@@ -556,7 +556,7 @@ Really wonderful.
 
 Thank you.
 
-## C B Rubin [43:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2629s)
+## Cynthia Beth Rubin [43:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2629s)
 
 Okay, thank you so much. So next, I have Susan Detroy.
 
@@ -582,7 +582,7 @@ I love what the hipstramatic camera does. And oftentimes I then use these to oka
 
 And I thought, Oh, I love this angle. So I took some images. This is one of my favorite filters from the hipstatic camera app because it References, the perspective of a photographer. This is a Sides of Imitates the sides of the film. And then I pretty much stayed.
 
-## C B Rubin [50:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3029s)
+## Cynthia Beth Rubin [50:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3029s)
 
 This is your 2 min warning.
 
@@ -600,7 +600,7 @@ And then these are older works that I'm starting to rework and. Using a variety 
 
 This is a very recent rework. These are very recent. These are my most recent pieces here, at the end.
 
-## C B Rubin [52:19](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3139s)
+## Cynthia Beth Rubin [52:19](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3139s)
 
 Okay, thanks. So that's time. So.
 
@@ -608,7 +608,7 @@ Okay, thanks. So that's time. So.
 
 That's perfect. Because That's it. Okay.
 
-## C B Rubin [52:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3147s)
+## Cynthia Beth Rubin [52:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3147s)
 
 Perfect. Okay, did have a question in the chat about your about the app. You could go back and look at that.
 
@@ -616,7 +616,7 @@ Perfect. Okay, did have a question in the chat about your about the app. You cou
 
 I'm good.
 
-## C B Rubin [52:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3156s)
+## Cynthia Beth Rubin [52:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3156s)
 
 Move ahead here because we have 3 more people and a half hour left. So It's good. But we've got to keep rolling. So, Deanne, you are next.
 
@@ -626,7 +626,7 @@ Okidok.
 
 See my. Hold on a second.
 
-## C B Rubin [53:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3198s)
+## Cynthia Beth Rubin [53:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3198s)
 
 Something changed in zoom, and it's really hard sometimes to see the window you're sharing.
 
@@ -650,7 +650,7 @@ And then playing with the idea of The prairies where you can see for forever whi
 
 And that is my presentation.
 
-## C B Rubin [57:31](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3451s)
+## Cynthia Beth Rubin [57:31](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3451s)
 
 That's great. Well, you went fast. It's really wonderful. Are these on Instagram.
 
@@ -658,7 +658,7 @@ That's great. Well, you went fast. It's really wonderful. Are these on Instagram
 
 No, none of these are on Instagram yet. I there's only one, I think, one of the prairie ones, but I have to sit down, and actually put a few of these up on Instagram.
 
-## C B Rubin [57:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3470s)
+## Cynthia Beth Rubin [57:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3470s)
 
 Great thanks. Well, I think there probably are going to be comments in the chat. And those of us in the co-working group have seen this work evolve. So it's really a delight. If you Can come to the co-working group, you'll see you'll get a lot more depth and what people are doing so. Annette. You're next.
 
@@ -666,7 +666,7 @@ Great thanks. Well, I think there probably are going to be comments in the chat.
 
 Okay. Let me.
 
-## C B Rubin [58:22](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3502s)
+## Cynthia Beth Rubin [58:22](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3502s)
 
 And tell us where you are, even though some of us.
 
@@ -676,7 +676,7 @@ I'm in New York City, and this is like my second day with Covid. So I'm a little
 
 Let's see.
 
-## C B Rubin [58:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3534s)
+## Cynthia Beth Rubin [58:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3534s)
 
 We're getting the presenters view.
 
@@ -684,7 +684,7 @@ We're getting the presenters view.
 
 Yeah. Oh, I know. I'm trying to
 
-## C B Rubin [59:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3540s)
+## Cynthia Beth Rubin [59:00](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3540s)
 
 A real drag when it does that.
 
@@ -692,7 +692,7 @@ A real drag when it does that.
 
 I'm hitting slideshow. And I'm not getting.
 
-## C B Rubin [59:10](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3550s)
+## Cynthia Beth Rubin [59:10](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3550s)
 
 Do you wanna just try one monitor sometimes. That's the only way to do it.
 
@@ -700,7 +700,7 @@ Do you wanna just try one monitor sometimes. That's the only way to do it.
 
 Try, what.
 
-## C B Rubin [59:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3555s)
+## Cynthia Beth Rubin [59:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3555s)
 
 One monitor.
 
@@ -708,7 +708,7 @@ One monitor.
 
 I'm fine.
 
-## C B Rubin [59:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3560s)
+## Cynthia Beth Rubin [59:20](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3560s)
 
 Second monitor.
 
@@ -716,7 +716,7 @@ Second monitor.
 
 That's gonna be complicated.
 
-## C B Rubin [59:25](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3565s)
+## Cynthia Beth Rubin [59:25](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3565s)
 
 Okay.
 
@@ -726,7 +726,7 @@ Oh, you.
 
 Let me try to do the. Let me just do it with. Pres Presenter view.
 
-## C B Rubin [59:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3590s)
+## Cynthia Beth Rubin [59:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3590s)
 
 Note. If they're all still images, you could export a Pdf. And do that.
 
@@ -742,7 +742,7 @@ Usually you press F. 5. If you're in Powerpoint, it takes you out to the show.
 
 Oh, okay. No, that's not doing it. Welcome to Voiceover. Voice over. Speak description. Welcome back! Welcome back! Sorry. Okay. Well.
 
-## C B Rubin [01:00:28](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3628s)
+## Cynthia Beth Rubin [01:00:28](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3628s)
 
 We can see it this way.
 
@@ -750,7 +750,7 @@ We can see it this way.
 
 Menu, 28 items, audio sub menu, closing menu toolbar. You are currently on a toolbar. Zoom.Us hide thumbnail video button.
 
-## C B Rubin [01:00:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3639s)
+## Cynthia Beth Rubin [01:00:39](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3639s)
 
 We can go to Darcy and come back to you.
 
@@ -758,7 +758,7 @@ We can go to Darcy and come back to you.
 
 Yeah, let me do that. What happened at that.
 
-## C B Rubin [01:00:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3644s)
+## Cynthia Beth Rubin [01:00:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3644s)
 
 Okay. You can try Google slides to just uploading them. But anyway, Darcy, are you ready?
 
@@ -766,7 +766,7 @@ Okay. You can try Google slides to just uploading them. But anyway, Darcy, are y
 
 Think so.
 
-## C B Rubin [01:00:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3657s)
+## Cynthia Beth Rubin [01:00:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3657s)
 
 Okay, tell us where you are. Oh, and, Annette, you have to stop your share. Yeah.
 
@@ -776,7 +776,7 @@ Okay.
 
 Yeah, she has to stop that before I can do anything. I think.
 
-## C B Rubin [01:01:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3674s)
+## Cynthia Beth Rubin [01:01:14](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3674s)
 
 Yeah, you.
 
@@ -784,7 +784,7 @@ Yeah, you.
 
 I did stop it.
 
-## C B Rubin [01:01:16](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3676s)
+## Cynthia Beth Rubin [01:01:16](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3676s)
 
 Go, now.
 
@@ -792,7 +792,7 @@ Go, now.
 
 Okay. Now, how do I share that.
 
-## C B Rubin [01:01:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3701s)
+## Cynthia Beth Rubin [01:01:41](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3701s)
 
 Down at the bottom. If you roll down to the bottom there'll be, it will appear, a little green button.
 
@@ -804,7 +804,7 @@ Okay. So I I cut my second screen. So if you need to go back to me.
 
 Are you seeing this.
 
-## C B Rubin [01:01:59](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3719s)
+## Cynthia Beth Rubin [01:01:59](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3719s)
 
 No, we're not.
 
@@ -812,7 +812,7 @@ No, we're not.
 
 Oh, you're not seeing it 1 min!
 
-## C B Rubin [01:02:03](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3723s)
+## Cynthia Beth Rubin [01:02:03](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3723s)
 
 So why don't we go to Annette? And you can figure out Darcy in the meantime, because then that's ready to go.
 
@@ -820,7 +820,7 @@ So why don't we go to Annette? And you can figure out Darcy in the meantime, bec
 
 Okay.
 
-## C B Rubin [01:02:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3731s)
+## Cynthia Beth Rubin [01:02:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3731s)
 
 Sometimes in an emergency, I have exported as a Pdf. And that always works. Okay, so, Annette, we're ready to go.
 
@@ -828,7 +828,7 @@ Sometimes in an emergency, I have exported as a Pdf. And that always works. Okay
 
 I? Oh, I cut my monitor, but it's still.
 
-## C B Rubin [01:02:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3747s)
+## Cynthia Beth Rubin [01:02:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3747s)
 
 It's still presenter mode.
 
@@ -860,7 +860,7 @@ Play from start, and see if that.
 
 No, it's still going into It's still going into presenter mode. Yeah, that's weird. It's never happened before.
 
-## C B Rubin [01:03:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3785s)
+## Cynthia Beth Rubin [01:03:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3785s)
 
 Can you export a Pdf.
 
@@ -868,7 +868,7 @@ Can you export a Pdf.
 
 I guess I could.
 
-## C B Rubin [01:03:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3793s)
+## Cynthia Beth Rubin [01:03:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3793s)
 
 Okay. So why we do that, Darcy, how are you doing.
 
@@ -876,7 +876,7 @@ Okay. So why we do that, Darcy, how are you doing.
 
 I'm working on it. Let me see where we are. Hold on a minute.
 
-## C B Rubin [01:03:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3803s)
+## Cynthia Beth Rubin [01:03:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3803s)
 
 Darcy, if you can export a Pdf. Also that.
 
@@ -884,7 +884,7 @@ Darcy, if you can export a Pdf. Also that.
 
 I'm just trying to bring out my website, because what I want to show is on it.
 
-## C B Rubin [01:03:31](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3811s)
+## Cynthia Beth Rubin [01:03:31](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3811s)
 
 Okay.
 
@@ -892,7 +892,7 @@ Okay.
 
 And I've done this before, and I was never a problem, so I don't understand what? Why.
 
-## C B Rubin [01:03:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3818s)
+## Cynthia Beth Rubin [01:03:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3818s)
 
 What's happened is that zoom interface changed, and it's piling in the windows. I even lost Myself. Why, we were here. And I had to cut my second monitor and then reattach it in order to be able to see people again. It's just.
 
@@ -900,7 +900,7 @@ What's happened is that zoom interface changed, and it's piling in the windows. 
 
 I've got my Pdf.
 
-## C B Rubin [01:03:56](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3836s)
+## Cynthia Beth Rubin [01:03:56](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3836s)
 
 Okay. So we'll go to Annette. Okay.
 
@@ -914,7 +914,7 @@ Animation. Also, online. And the online panoramas were basically kind of moving 
 
 The other static panoramas, let's see. Were still images, with also with ambient sound that were scroll through that uses a metaphor for a walk. Again in my studio neighborhood. So, coming back to the.
 
-## C B Rubin [01:06:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3975s)
+## Cynthia Beth Rubin [01:06:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3975s)
 
 Okay, we're not. We actually didn't see the website. But.
 
@@ -932,7 +932,7 @@ This is the second triptych.
 
 And I'm really interested in exploring the shape and form of common place objects, but also using Lighting and reflection to. Give them A kind of monumentality.
 
-## C B Rubin [01:10:22](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4222s)
+## Cynthia Beth Rubin [01:10:22](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4222s)
 
 2 min.
 
@@ -944,7 +944,7 @@ And then, when they're imaged from the front with the virtual camera, they kind 
 
 And then I'm gonna just kind of jump. I had to a series that was all white. I know I'm running out of time. And I wanted to show this because I I so so at the beginning of this long range project. I really want to just strip away the light and the color and work with the pure form. So this series goes to the artifacts. That's exactly that. And really focuses on the shape of the elements alone and Very, very basic shadow. There are also 2D images Integrated into the background of these 3D still lives. Okay? And this is just run through a few of these. This was the 1st series called short takes. So in all of these, I'm combining 3D. Models and 2D images for a kind of hybrid Of space.
 
-## C B Rubin [01:12:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4364s)
+## Cynthia Beth Rubin [01:12:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4364s)
 
 Right? Okay, thanks. So sorry to cut you.
 
@@ -952,7 +952,7 @@ Right? Okay, thanks. So sorry to cut you.
 
 No, that's okay.
 
-## C B Rubin [01:12:51](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4371s)
+## Cynthia Beth Rubin [01:12:51](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4371s)
 
 Great if you can put your website. Really great, wonderful.
 
@@ -960,7 +960,7 @@ Great if you can put your website. Really great, wonderful.
 
 Percy.
 
-## C B Rubin [01:12:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4377s)
+## Cynthia Beth Rubin [01:12:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4377s)
 
 Okay, Darcy, we have just enough time for you. So.
 
@@ -968,7 +968,7 @@ Okay, Darcy, we have just enough time for you. So.
 
 I don't know if I can get this to do it or not. I have no idea.
 
-## C B Rubin [01:13:08](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4388s)
+## Cynthia Beth Rubin [01:13:08](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4388s)
 
 Okay, I was able to bring up your website. I can share for you if you can tell me where to go.
 
@@ -976,7 +976,7 @@ Okay, I was able to bring up your website. I can share for you if you can tell m
 
 Okay? If you go to publications.
 
-## C B Rubin [01:13:17](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4397s)
+## Cynthia Beth Rubin [01:13:17](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4397s)
 
 Okay, wait a minute. I'm gonna Share Right now and tell me publications or.
 
@@ -984,7 +984,7 @@ Okay, wait a minute. I'm gonna Share Right now and tell me publications or.
 
 Yup. And this is what I would like to show is this catalog. So if you click on that. If you just click on it if we can, then I can't do it because you have control of it right? But if you just click the arrow to the right, the pages will flip.
 
-## C B Rubin [01:13:42](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4422s)
+## Cynthia Beth Rubin [01:13:42](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4422s)
 
 Okay, so please go and tell us what you wanna say.
 
@@ -1000,7 +1000,7 @@ The perspective that I find very interesting is what Knowledgeable curators. Bri
 
 And she said, and I look at it that way. And I can see going through these spaces up into the sky. Which was a pretty, interesting kind of perspective. Looking at a painting, these are fairly large. I think it's a 50, 8 by 96. Something like that.
 
-## C B Rubin [01:16:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4575s)
+## Cynthia Beth Rubin [01:16:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4575s)
 
 Okay.
 
@@ -1008,7 +1008,7 @@ Okay.
 
 Don't just go looking through these, if you like.
 
-## C B Rubin [01:16:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4578s)
+## Cynthia Beth Rubin [01:16:18](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4578s)
 
 Is this working right now? Are you seeing this? Because it just told me my pause. My screen sharing was paused. I don't know who paused it me, but I don't know how I did it. Are you seeing the new page.
 
@@ -1020,7 +1020,7 @@ No.
 
 No.
 
-## C B Rubin [01:16:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4590s)
+## Cynthia Beth Rubin [01:16:30](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4590s)
 
 Okay, I have to stop the share and Share again. I'm really sorry. But.
 
@@ -1032,7 +1032,7 @@ Okay, you're seeing it now.
 
 Yes, yeah, that's it.
 
-## C B Rubin [01:17:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4632s)
+## Cynthia Beth Rubin [01:17:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4632s)
 
 It seemed not like it when I made it full screen. So Let's just try to see it this way.
 
@@ -1040,7 +1040,7 @@ It seemed not like it when I made it full screen. So Let's just try to see it th
 
 Okay, well, that's fine. The picture on the right here Was a Printed on a 3. I'm scanning mural. A huge plotter and what I exhibited this at Siggraph in 1,980 in Seattle, which was one year before the 1st kind of official siggraph art show.
 
-## C B Rubin [01:17:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4669s)
+## Cynthia Beth Rubin [01:17:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4669s)
 
 And get a little bigger on this.
 
@@ -1050,7 +1050,7 @@ This is me at the future reality lab at Nyu Ken Perlin's lab. Creating the Unity
 
 All of these paintings are created from crops of the 3D models in the VR world using the camera tool. And when I show these paintings I show them As AR enhanced paintings, so that I show them with a QR code next to them. And with that QR code and your mobile phone pointed at the painting. The actual VR sculpture will emerge out of the picture out of the painting on canvas on the wall, and it will completely surround you, and you can turn around in it and walk around in it and see it from all directions. You can. Just. This is from my inside outside series. This is a newer painting. I'm sorry. This is from my inside outside series where I take an AR object, and I place it in the real environment and take a snapshot and then turn that into a painting. Photoshop. This is from my new series, my blast series about space and rockets and things like that. This was a sort of strange diversion for me. I during Covid I was watching a lot of Ichabana Flower ranging videos on Youtube. And I had studied Icuban in Japan many, many years ago. So I thought, maybe in VR. I could create some of these kinds of. Flower arrangements just abstractly and this is from that series. This was also from a catalog and an exhibition.
 
-## C B Rubin [01:19:47](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4787s)
+## Cynthia Beth Rubin [01:19:47](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4787s)
 
 Okay, we have 2 min left, so let me know if you want me to go faster.
 
@@ -1060,7 +1060,7 @@ Flip fast through. Go ahead, just flip right through.
 
 This is ceramics. This is an early painting on canvas that is airbrushed and not printed.
 
-## C B Rubin [01:20:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4805s)
+## Cynthia Beth Rubin [01:20:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4805s)
 
 I'll just go back to the ceramic that was fast there. People didn't get to see that.
 
@@ -1068,7 +1068,7 @@ I'll just go back to the ceramic that was fast there. People didn't get to see t
 
 On the right is ceramics.
 
-## C B Rubin [01:20:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4813s)
+## Cynthia Beth Rubin [01:20:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4813s)
 
 Sorry. It's always hard to be someone else's mouse.
 
@@ -1078,7 +1078,7 @@ This? Is it Airbrushed on canvas, digital painting. That was before there were b
 
 And starting at the upper left, you see a gigantic Luxo lamp in the corner over the table. And Ed Catmull saw that lamp at my loft and tried to find one to buy for Pixar, and couldn't find one. So he asked me if he could have it, and I said Sure, packed it up in a box, shipped it to him, and it was in the Pixar live lobby for many years. It was way too big for my loft, anyway, so I was happy to get it out of there.
 
-## C B Rubin [01:21:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4896s)
+## Cynthia Beth Rubin [01:21:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4896s)
 
 People may not know about the lamp and the Luxor. The little jumping lamp that picks.
 
@@ -1086,7 +1086,7 @@ People may not know about the lamp and the Luxor. The little jumping lamp that p
 
 Sorry. Yeah.
 
-## C B Rubin [01:21:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4904s)
+## Cynthia Beth Rubin [01:21:44](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4904s)
 
 The classic.
 
@@ -1094,7 +1094,7 @@ The classic.
 
 This is a silk screen edition very early. I think it's 1982,. And this is one of my most recent paintings.
 
-## C B Rubin [01:21:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4915s)
+## Cynthia Beth Rubin [01:21:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4915s)
 
 Okay, so we're at 8 min now. So I'm just gonna Just there. We are. Okay. Great. Well. Thank you. Everybody. We just made it to 1 30 which was, which is wonderful, and we had some really great presentations. And I lost the chat window in my trying to screen share. So I'm assuming there's great stuff in the chat, and I will save the chat if I can find it again. Oh, yeah, here it is so if anyone has anything else to put in the chat. Please do we had some really. Good comments about. The work, and I think if anyone has any, we we, Colin, we should end now, and just hang out or do we? Can we take like 10 min for any questions.
 
@@ -1102,7 +1102,7 @@ Okay, so we're at 8 min now. So I'm just gonna Just there. We are. Okay. Great.
 
 Yeah, I think we could run till say, 1 40, if you wanna you know, keep it going. Until then. We got a little bit of late. Start.
 
-## C B Rubin [01:23:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4993s)
+## Cynthia Beth Rubin [01:23:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4993s)
 
 Okay. Great. Does anyone have any Comments, questions for artists, or.
 
@@ -1156,7 +1156,7 @@ Thanks.
 
 Sure.
 
-## C B Rubin [01:25:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5115s)
+## Cynthia Beth Rubin [01:25:15](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5115s)
 
 I just wanna vote for printing on Vinyl. I did it years ago when I was in a show in in France, and then I printed small archival prints so I could take a big tube and have big things up. And then. You know little things and just have everything. Nothing had to be shipped. So that was good, too. So any other comments on any new ideas about perspective from anyone?
 
@@ -1174,7 +1174,7 @@ I've been. Well, I've used a variety of different programs. But currently, I'm u
 
 Thank you. Curve. Yeah.
 
-## C B Rubin [01:26:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5215s)
+## Cynthia Beth Rubin [01:26:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5215s)
 
 I wanted to mention. Siggraph is going on right now, and Max on has some live presentations which I think everybody can see. I think if you go to Max, I'm looking in my email, and I'm not seeing a link that I can send people I'm gonna click it and see if it works. That's a pretty obnoxious, okay? But it looks like the link is working. So if you have time today, you wanna attend some Free cinema. 4G, Workshops online.
 
@@ -1196,7 +1196,7 @@ And I don't think any of us knew each other back then, except for those of you l
 
 Me too.
 
-## C B Rubin [01:29:24](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5364s)
+## Cynthia Beth Rubin [01:29:24](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5364s)
 
 Yeah, me, too. I think Techspressionism has saved and inspired and Propelled forward so many of us. So it's really been wonderful. I've I'm just interested in seeing how many people are going to be at the opening in New York and Brooklyn this week. Can people just kind of raise your hand if you're next week on the 9th.
 
@@ -1206,7 +1206,7 @@ Rape. So we'll get to see a lot of you in person. And then
 
 That'll be great.
 
-## C B Rubin [01:30:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5405s)
+## Cynthia Beth Rubin [01:30:05](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5405s)
 
 Yeah.
 
@@ -1214,7 +1214,7 @@ Yeah.
 
 I guess Tommy's kind of busy right now, or I don't see him here. He's usually here.
 
-## C B Rubin [01:30:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5411s)
+## Cynthia Beth Rubin [01:30:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5411s)
 
 Yeah.
 
@@ -1226,7 +1226,7 @@ Yeah, I think Tommy is busy installing the show. Presently, I was texting him a 
 
 Yep, nurture. You're not.
 
-## C B Rubin [01:30:43](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5443s)
+## Cynthia Beth Rubin [01:30:43](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5443s)
 
 Asking it. Yes, miss. Oh, maybe this.
 

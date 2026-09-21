@@ -40,7 +40,7 @@ flags:
 
 Hello, everyone. My name is Colin Goldberg, and I'd like to welcome you to the 98th Techspressionist Salon. Today is September 4th, 2025, and the topic of today's salon is fidgetal. That's P-H-Y-G-I-T-A-L. Which is a portmanteau of the words physical and digital. I'll get a little bit more into that as far as a definition goes, in a moment, but before we get started on the presentations. I'd like to invite, Cynthia Rubin, to the floor. She has a couple announcements about the upcoming Techspressionism show in Uzbekistan. So, Cynthia, take it away.
 
-## Cynthia Rubin [00:48](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=48s)
+## Cynthia Beth Rubin [00:48](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=48s)
 
 Okay, so the main announcement is that we actually… we have a catalog, and, I was able quickly this morning to put the link online, so I'm just gonna share for, like, one Second, over here, if you go to this… this is our blogger website, but it actually… Is linked off of the main Expressionist site, and here's our catalog, it's on MagCloud, and if you click on that, you get it, and it's free. To read. So you can just click here and go read, and the thing I wanted to make sure people saw is that the little arrows to go through it are hidden over here. So if you're not looking carefully, you go, well, that's a nice cover, I wonder what else they have.
 
@@ -50,7 +50,7 @@ So, if you click on it… The little arrows, you can read the whole catalog for 
 
 Gotta add that.
 
-## Cynthia Rubin [02:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=169s)
+## Cynthia Beth Rubin [02:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=169s)
 
 Thank you. Well, you know, last night was another night with, you know, 4 hours sleep because of the time difference when I'm going back and forth to Sharon.
 
@@ -58,7 +58,7 @@ Thank you. Well, you know, last night was another night with, you know, 4 hours 
 
 It's a hallway.
 
-## Cynthia Rubin [02:59](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=179s)
+## Cynthia Beth Rubin [02:59](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=179s)
 
 It's really been amazing, but there are so many people here on this call who worked so hard.
 
@@ -78,7 +78,7 @@ Yeah.
 
 Yeah, I wanted to ask Cynthia a question. On that link, can people see the video?
 
-## Cynthia Rubin [03:20](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=200s)
+## Cynthia Beth Rubin [03:20](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=200s)
 
 No, no, no. Well, you know, don't demand too much of us right now.
 
@@ -86,7 +86,7 @@ No, no, no. Well, you know, don't demand too much of us right now.
 
 No, no, no, no, no, I'm just, it was just a… it was just a question. It's just a question. I'm not a demand, it's just a question.
 
-## Cynthia Rubin [03:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=211s)
+## Cynthia Beth Rubin [03:31](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=211s)
 
 The video's not ready yet. People have been working night and day. People are getting, like, 4 or 5 hours sleep, so what you… what we've been able to put online so far is what's online so far, and we're really excited to share it. Michael Woodruff has Is a professional videographer, like, really professional, and Lucy, who's here, Lucy Boyd-Wilson Wilson, the two of them have been working so hard on doing the digital screen, which will be available at some point, and it's absolutely fabulous, and then The participating artists have some longer videos. So, one step at a time.
 
@@ -100,7 +100,7 @@ Thank you, Cynthia. Thanks so much. I just also wanted to, Share my screen real 
 
 So that's how you would get there, you know, directly. And then there's also some other information, on the… On the site itself about, I believe the artist list is there, and.
 
-## Cynthia Rubin [06:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=409s)
+## Cynthia Beth Rubin [06:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=409s)
 
 Yes.
 
@@ -108,7 +108,7 @@ Yes.
 
 Yeah, some other background information. The artist list is still old images for some people.
 
-## Cynthia Rubin [06:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=415s)
+## Cynthia Beth Rubin [06:55](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=415s)
 
 Just get updated someday.
 
@@ -118,7 +118,7 @@ Okay. Okay, gotcha. Alright, great, so… Just trying to see where I can actuall
 
 Hmm. Strange. I no longer… I don't know if Zoom has changed its interface?
 
-## Cynthia Rubin [07:27](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=447s)
+## Cynthia Beth Rubin [07:27](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=447s)
 
 Really hard to do this now.
 
@@ -134,7 +134,7 @@ Were you in full-screen mode on the internet? Maybe if you had Command, Control-
 
 Yeah…
 
-## Cynthia Rubin [07:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=462s)
+## Cynthia Beth Rubin [07:42](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=462s)
 
 If you unplug your second monitor, that's what I usually have to do.
 
@@ -146,7 +146,7 @@ Oh, dear.
 
 Shit. Alright, let's try that.
 
-## Cynthia Rubin [07:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=470s)
+## Cynthia Beth Rubin [07:50](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=470s)
 
 We were kidding.
 
@@ -154,7 +154,7 @@ We were kidding.
 
 Digital already.
 
-## Cynthia Rubin [07:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=472s)
+## Cynthia Beth Rubin [07:52](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=472s)
 
 Real pad.
 
@@ -178,7 +178,7 @@ I unplugged mine, I'm not sure if there was something weird that I did that, lik
 
 Find out.
 
-## Cynthia Rubin [09:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=572s)
+## Cynthia Beth Rubin [09:32](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=572s)
 
 Yeah.
 
@@ -186,7 +186,7 @@ Yeah.
 
 Find out. We'll find out soon enough.
 
-## Cynthia Rubin [09:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=575s)
+## Cynthia Beth Rubin [09:35](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=575s)
 
 I suggest unplugging if you start to have issues. I don't think they designed the interface for…
 
@@ -204,7 +204,7 @@ Yep.
 
 Cynthia, how can I make it bigger?
 
-## Cynthia Rubin [10:04](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=604s)
+## Cynthia Beth Rubin [10:04](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=604s)
 
 It's big. It's real big now. It's in fact, for me, on my second monitor, too big, and I have to make my monitor smaller. So you're fine.
 
@@ -600,7 +600,7 @@ I'm still not seeing anything, no. I see that you're trying to share, but nothin
 
 Yeah, I don't think… Massars.
 
-## Cynthia Rubin [01:10:22](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4222s)
+## Cynthia Beth Rubin [01:10:22](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4222s)
 
 If you can put your images on Google Drive, or Dropbox, or even email a few to me, I'd be happy to show them for you.
 
@@ -682,7 +682,7 @@ Since then, it's become the largest festival for female-identifying and non-bina
 
 Joyful activism… joyful activism, kind of, like, weird and wonderful, and… you know. Dictators want you to stop laughing, and we want to offer respite and empowerment to people, and put on a really awesome show that inspires. And I, as the person sort of heading up the technology, am really looking for people who are doing wonderful experimental work, which is definitely this group. So, please apply, please tell your friends. Please spread the word, please come, we're gonna have performances every weekend, it runs for 6 weeks. I'm gonna put the link to the… Biennial, and the link to the gallery, so you can check it out in the chat now. And thank you for your time, and I'll probably be in the co-working group next Tuesday, so if you want to hit me with questions then, I'll be around, or you can email me. So, yep, thank you.
 
-## Cynthia Rubin [01:22:01](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4921s)
+## Cynthia Beth Rubin [01:22:01](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4921s)
 
 Great.
 

@@ -7476,29 +7476,12 @@
    "reels": []
   },
   {
-   "id": "c-b-rubin",
-   "name": "C B Rubin",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "cynthia-b-rubin",
-   "name": "Cynthia B Rubin",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "cynthia-beth-rubin",
    "name": "Cynthia Beth Rubin",
    "aliases": [
+    "C B Rubin",
+    "CB Rubin",
+    "Cynthia B Rubin",
     "Cynthia Rubin"
    ],
    "location": "New Haven, USA",

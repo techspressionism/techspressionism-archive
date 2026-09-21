@@ -575,7 +575,7 @@ Artists have been trying to raise themselves up to the same level as scientists.
 
 Thank you. I think Cynthia Beth Rubin, please.
 
-## Cynthia Rubin [01:15:52](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4552s)
+## Cynthia Beth Rubin [01:15:52](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4552s)
 
 Okay, so thank you, and I wanted to echo what Michael Price just said about being the stepchild of the art world. I think that Expressionism has… represents artists who have become kind of the stepchildren of the digital world. That what's considered digital art increasingly has been people who focus on code. First, even though they may, in the end, produce perfectly wonderful work. But for some of us, we came to using computers from a different perspective.
 

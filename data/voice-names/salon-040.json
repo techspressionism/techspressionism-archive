@@ -1,0 +1,111 @@
+{
+  "applied": "2026-09-20 21:09",
+  "approved_auto": false,
+  "voices": {
+    "V10": {
+      "at": "2026-09-20 21:05",
+      "fingerprint": "1a13472bd9",
+      "name": "Cynthia DiDonato"
+    },
+    "V11": {
+      "at": "2026-09-20 21:05",
+      "fingerprint": "b86cef227c",
+      "name": "Ann Shapiro"
+    },
+    "V12": {
+      "at": "2026-09-20 21:06",
+      "fingerprint": "231887b028",
+      "name": "Jan Swinburne"
+    },
+    "V13": {
+      "at": "2026-09-20 21:06",
+      "fingerprint": "24d236e229",
+      "name": "Susan Detroy"
+    },
+    "V14": {
+      "at": "2026-09-20 21:08",
+      "fingerprint": "0a6684f15a",
+      "name": ""
+    },
+    "V15": {
+      "at": "2026-09-20 21:08",
+      "fingerprint": "025f4b9087",
+      "name": ""
+    },
+    "V16": {
+      "at": "2026-09-20 21:08",
+      "fingerprint": "ba8a2058a5",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V17": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "e976a755b3",
+      "name": "Jan Swinburne"
+    },
+    "V18": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "3c4e37773a",
+      "name": ""
+    },
+    "V19": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "1902a3688e",
+      "name": ""
+    },
+    "V2": {
+      "at": "2026-09-20 21:03",
+      "fingerprint": "03a1ccb654",
+      "name": "Patrick Lichty"
+    },
+    "V20": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "545fdec710",
+      "name": ""
+    },
+    "V21": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "6b80316e2c",
+      "name": ""
+    },
+    "V22": {
+      "at": "2026-09-20 21:09",
+      "fingerprint": "980520896d",
+      "name": ""
+    },
+    "V3": {
+      "at": "2026-09-20 21:03",
+      "fingerprint": "56be3904a9",
+      "name": "Roz Dimon"
+    },
+    "V4": {
+      "at": "2026-09-20 21:03",
+      "fingerprint": "6e96fdc730",
+      "name": "Lee Schnaiberg"
+    },
+    "V5": {
+      "at": "2026-09-20 21:04",
+      "fingerprint": "5849e4b46b",
+      "name": "Tommy Mintz"
+    },
+    "V6": {
+      "at": "2026-09-20 21:04",
+      "fingerprint": "67ed1aa047",
+      "name": "Negin Ehtesabian"
+    },
+    "V7": {
+      "at": "2026-09-20 21:04",
+      "fingerprint": "0d594e4444",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V8": {
+      "at": "2026-09-20 21:05",
+      "fingerprint": "195af1d74a",
+      "name": "Michael Pierre Price"
+    },
+    "V9": {
+      "at": "2026-09-20 21:05",
+      "fingerprint": "83339dd721",
+      "name": "Renata Janiszewska"
+    }
+  }
+}

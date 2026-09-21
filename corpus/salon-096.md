@@ -429,7 +429,7 @@ So with that I invite everybody to stay for the after party or the Advisory Coun
 
 The the after party. The after party idea was sort of a reaction to the proposal that we should have an advisory board at some point which I kind of. Just felt like it was really in the spirit of what what we're doing here. But yeah, certainly the after party is is kind of a, you know, a nice hangout, and a lot of times, too. We'll discuss things in the after party that involve like coming up with the topic for an upcoming salon or exhibition ideas or other stuff that maybe doesn't make sense to include in the recording. But it's just kind of like a chat session. So Certainly encourage anyone that wants to to stick around. And also, like, if you guys have, if anyone on here has ideas for a salon in terms of an area of personal interest. You know, that's Definitely something that's highly encouraged to you know, to share, because that's what keeps it interesting. And I think, having, you know, like rotating moderators and rotating topics. We do this sort of like open studios format, you know once every couple of salons. And it's I think it's nice to mix it up with sort of topic. Based things. And then just kind of open sharing. So Yeah.
 
-## Cynthia B Rubin [01:24:43](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5083s)
+## Cynthia Beth Rubin [01:24:43](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5083s)
 
 Hey? Can I just say something again about the digital screens in er dench, in case people came in late. Which is off of the model of exhibits that Colin was just talking about. A few of us are actually traveling to Uzbekistan, to the Museum of Contemporary art, but we also wanted to have an aspect of it that was open, much more open. And so these, the submissions that we're looking for now are for the digital screens which are almost filled. But there's some Time to put things on the digital screen To submit in the next few days.
 
@@ -439,7 +439,7 @@ So.
 
 For yep For anyone. Also, that's on watching this on Youtube, you can go to Techspressionism.Com slash Oozebeck, UZBE, K, and that will take you to the micro site that Cynthia and the rest of the participants have put together, and that's got you know, information about that call and the exhibition in general.
 
-## Cynthia B Rubin [01:25:48](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5148s)
+## Cynthia Beth Rubin [01:25:48](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5148s)
 
 Great.
 
@@ -447,7 +447,7 @@ Great.
 
 I think we're going to have a salon based on the organsch show at some point. Are we not.
 
-## Cynthia B Rubin [01:25:54](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5154s)
+## Cynthia Beth Rubin [01:25:54](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5154s)
 
 Yes, we decided that we will do it because the salons happen early in the month, and we're opening in September. So October is is too soon so probably we'd like to do it in November.
 
@@ -455,7 +455,7 @@ Yes, we decided that we will do it because the salons happen early in the month,
 
 Yeah, that's going to be really, really interesting, because you'll be back from it by then. So you'll be able to tell us about your experiences.
 
-## Cynthia B Rubin [01:26:18](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5178s)
+## Cynthia Beth Rubin [01:26:18](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5178s)
 
 Yeah, that's actually the idea. And then we we can take pictures in this space. But with the time difference, trying to do something, live from there, and the the tight schedule of arriving several days in advance to drop off the work. You know you know how it is with a shop. So it should be very interesting. And and digital is very new to the the community where we're presenting they. It's a very good museum, but they have not had digital yet.
 
