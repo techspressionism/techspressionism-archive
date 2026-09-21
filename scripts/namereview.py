@@ -135,6 +135,17 @@ def all_index_names():
     return _ALL_NAMES
 
 
+def decided_names():
+    """Names a person has typed for any voice so far (people who are not in the artist index, such as a gallery director), offered again next time."""
+    out = set()
+    for p in VOICE_NAMES_DIR.glob("*.json") if VOICE_NAMES_DIR.exists() else []:
+        try:
+            out |= {v.get("name") for v in json.loads(p.read_text()).get("voices", {}).values() if v.get("name")}
+        except Exception:
+            pass
+    return out
+
+
 def description_names(session):
     """People the recording's YouTube description names: anyone in the people directory (full name), plus 'Name // Place' lines,
     in the order the description gives them."""
@@ -280,7 +291,7 @@ def recording(sl):
             "interview": ({"interviewer": s.get("interviewer"), "interviewee": s.get("interviewee")}
                           if s.get("type") == "interview" and s.get("interviewee") else None),
             "suggestions": suggestions(sl, d["voices"]) + [n for g in ("named", "regular") for n in suggestion_groups(sl, d["voices"])[g]],
-            "groups": suggestion_groups(sl, d["voices"]), "all_names": all_index_names()}
+            "groups": suggestion_groups(sl, d["voices"]), "all_names": sorted(set(all_index_names()) | decided_names(), key=str.lower)}
 
 
 def listing():
