@@ -233,7 +233,7 @@ Gotcha, gotcha. Yeah, I remember the piece was, like, a sculptural piece, and it
 
 ## Carla Gannis [17:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1046s)
 
-Yeah. Optical illusions, and so one side, and Hoogstraden did this in, oh my gosh, I think it's the 16th century, or it might be 17th century, the data's eluding me right now, but which, you know, optics was, you know, like, very interesting to people at that time, and perspective and, you know, these different optical tricks and illusions, you know, a painting itself, a traditional or realist painting, is the lie that tells the truth, right?
+Yeah. Optical illusions, and so one side, and Hoogstraten did this in, oh my gosh, I think it's the 16th century, or it might be 17th century, the data's eluding me right now, but which, you know, optics was, you know, like, very interesting to people at that time, and perspective and, you know, these different optical tricks and illusions, you know, a painting itself, a traditional or realist painting, is the lie that tells the truth, right?
 
 ## Colin Goldberg [17:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1078s)
 
@@ -257,7 +257,7 @@ Sure.
 
 ## Carla Gannis [18:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1098s)
 
-That this is real, but it… is it really? And so that's why I made that peat box and then made a VR experience. But I also was taking from this Hoogstratten peat box, in that one side of the box is open, and you can see that How it's inlaid with imagery, that it always kind of doesn't make sense, but when you look through the two peoples, everything comes into perspective, and it… and it completes the illusionism, and actually.
+That this is real, but it… is it really? And so that's why I made that peat box and then made a VR experience. But I also was taking from this Hoogstraten peat box, in that one side of the box is open, and you can see that How it's inlaid with imagery, that it always kind of doesn't make sense, but when you look through the two peoples, everything comes into perspective, and it… and it completes the illusionism, and actually.
 
 ## Colin Goldberg [18:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1125s)
 
@@ -315,7 +315,7 @@ You have…
 
 ## Carla Gannis [21:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1280s)
 
-You know how, when you're working with 3D, and you have texture maps, right? I mean, there you see kind of the texture map of the Hoogstratten. And so, here are some images, actually. I don't think they're very…. So we'll see again. Yeah, so this was CNC milled, and… which is a subtractive process instead of an additive process, like 3D printing, and then it is adhesive vinyl that's placed in the inside, and as you can see there, like, it is all kind of,.
+You know how, when you're working with 3D, and you have texture maps, right? I mean, there you see kind of the texture map of the Hoogstraten. And so, here are some images, actually. I don't think they're very…. So we'll see again. Yeah, so this was CNC milled, and… which is a subtractive process instead of an additive process, like 3D printing, and then it is adhesive vinyl that's placed in the inside, and as you can see there, like, it is all kind of,.
 
 Doesn't really make sense. It's like chaos, but then when you look through the peephole is when it resolves as a perspectival image. And then these are just some images of people peeping into it. And then that side is exposed, but let me see if I can go…
 
@@ -459,7 +459,7 @@ They look like Francis Bacon paintings. You know? And so, given my name is Ganni
 
 ## Carla Gannis [32:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1937s)
 
-Use goggles, you just used a browser to go into that space and build environments and communities. There was even a currency, so Jezebel Lanely was my avatar then. Since then, I've had multiple other Kind of identities through which I, like many of us, express or Contemplate the differences, but from the differences between our physical reality existence and our existence online, and our performances online, and so that's a lot of times why I developed these avatars, to explore those themes. And Carla Gannis emerged this is just showing… we have done 3 solo shows together, and I will pause it here for any listener who wonders if I'm a little cuckoo. She does not exist. This is a construction of fictional alter ego. She, in terms of her backstory, she is an artificial intelligence, just like my first avatar from 1998. Sister Gemini was half AI, half human.
+Use goggles, you just used a browser to go into that space and build environments and communities. There was even a currency, so Jezebel Lanley was my avatar then. Since then, I've had multiple other Kind of identities through which I, like many of us, express or Contemplate the differences, but from the differences between our physical reality existence and our existence online, and our performances online, and so that's a lot of times why I developed these avatars, to explore those themes. And Carla Gannis emerged this is just showing… we have done 3 solo shows together, and I will pause it here for any listener who wonders if I'm a little cuckoo. She does not exist. This is a construction of fictional alter ego. She, in terms of her backstory, she is an artificial intelligence, just like my first avatar from 1998. Sister Gemini was half AI, half human.
 
 You see early training. This is working with Gann's model, so that kind of technology that I briefly described. Sorry, I didn't give a really great engineering description of it, but, this just gives you a sense of the kind of visuals you were getting at the time, and my different training sets. Gotcha.
 
@@ -831,7 +831,7 @@ Still beer.
 
 ## Carla Gannis [50:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3008s)
 
-Crude, but it became important to me, like in many of my works, like in 2011, I ran a race against my avatar, Jezebel Lanely. I found a highway for her to run down in Second Life. And I ran down an actual highway in my parents' town. They now live in a town of 3,000, and it was on Christmas Day, so I wasn't in that much jeopardy. But just kind of comparing and contrasting our digital egos and identities and increasingly algorithmic identities compared to our physical and the different and so I've been kind of pitting myself against machines for quite some time, or just kind of comparing and contrasting, you know? And in this one, even spending time to learn how to hand sculpt, I don't know if I ever want to do it again.
+Crude, but it became important to me, like in many of my works, like in 2011, I ran a race against my avatar, Jezebel Lanley. I found a highway for her to run down in Second Life. And I ran down an actual highway in my parents' town. They now live in a town of 3,000, and it was on Christmas Day, so I wasn't in that much jeopardy. But just kind of comparing and contrasting our digital egos and identities and increasingly algorithmic identities compared to our physical and the different and so I've been kind of pitting myself against machines for quite some time, or just kind of comparing and contrasting, you know? And in this one, even spending time to learn how to hand sculpt, I don't know if I ever want to do it again.
 
 And hand-carve something at the same time as I had this robotic assistance for, you know, the top part of the sculpture. That was a fascinating experience, and as I was there for a month, that became kind of crucial for me to engage in. Yeah.
 

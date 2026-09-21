@@ -679,6 +679,27 @@
       ],
       "whole_word": true,
       "note": "Joseph Nechvatal's term (Interview 4); speech recognition wrote 'Veractuality' (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Jezebel Lanley",
+      "category": "person",
+      "known_asr_variants": [
+        "Jezebel Lanely",
+        "Jezebel Lonely",
+        "Jezebel Lanley's"
+      ],
+      "whole_word": true,
+      "note": "Carla Gannis's Second Life avatar; her own spelling is 'Jezebel Lanley' (Right Click Save interview). Zoom wrote 'Lanely'."
+    },
+    {
+      "canonical": "Hoogstraten",
+      "category": "person",
+      "known_asr_variants": [
+        "Hoogstratten",
+        "Hoogstraden"
+      ],
+      "whole_word": true,
+      "note": "Samuel van Hoogstraten, the 17th-century Dutch painter of the perspective box (Interview 30); speech recognition spellings."
     }
   ]
 }
