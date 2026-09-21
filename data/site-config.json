@@ -22,5 +22,8 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "license_name": "CC BY 4.0",
   "zenodo_doi": "",
-  "allow_ai_training_crawlers": true
+  "allow_ai_training_crawlers": true,
+  "list_at_bottom": [
+    "presentation-009"
+  ]
 }

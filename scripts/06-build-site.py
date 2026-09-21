@@ -63,6 +63,15 @@ SUGGEST_MAX = 1200  # characters of the passage carried in the address; a longer
 # The printed timecode and the citation keep the exact time.
 WATCH_LEAD_IN = max(0, int(SITE_CONFIG.get("watch_lead_in_seconds", 3)))
 # the timecode pills seek the inline player to just before the paragraph's first word
+# recordings listed newest first by number, except those named in data/site-config.json "list_at_bottom" (the oldest recording of a series,
+# numbered later than it was recorded): they go to the bottom of their list
+LIST_AT_BOTTOM = set(SITE_CONFIG.get("list_at_bottom", []))
+
+
+def list_order(x):
+    return (f"{x.get('type', 'salon')}-{int(x['number']):03d}" in LIST_AT_BOTTOM, -x["number"])
+
+
 PILL_LEAD_IN = max(0.0, float(SITE_CONFIG.get("pill_lead_in_seconds", 1)))
 
 
@@ -1696,7 +1705,7 @@ def build_index(corpus):
     groups, spans = [], {}
     type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
     for t, info in type_labels:
-        entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=lambda x: -x["number"])
+        entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=list_order)
         rows = []
         # date range of the category; year-only placeholder dates (e.g. "2000") are ignored, and
         # data/site-config.json "series_start_years" can set the year a series began (Salons: 2020)
@@ -2012,7 +2021,7 @@ def write_site_files(corpus):
     groups = []
     for key, info in TYPES.items():
         items = []
-        for x in sorted((c for c in corpus if c.get("type", "salon") == key), key=lambda c: c["number"], reverse=True):
+        for x in sorted((c for c in corpus if c.get("type", "salon") == key), key=list_order):
             people = entry_people(x)
             note = "; ".join(bit for bit in [fmt_date(x.get("date_recorded")) if x.get("date_recorded") else "",
                                               ", ".join(people[:4]) + (" and others" if len(people) > 4 else "")] if bit)
@@ -2063,7 +2072,7 @@ def main():
     write_page("", add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)), 0)
     write_page("about", add_robots(build_about(corpus), "about.html"), 1)
     by_type = {}
-    for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
+    for entry in sorted(corpus, key=list_order):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
         write_page(slug(entry), add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
