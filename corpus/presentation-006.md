@@ -33,7 +33,7 @@ Today's topic is Digital Photography, Image Capture to Artistic Production. Let'
 
 We have monthly salons. We have a virtual co-working that is sponsored by Cynthia, who's here today, Cynthia Beth Rubin. That's kind of a fun way to work with people when you get a little lonely in your own studio and you want to work with other people who have similar, you know, sort of challenges and excitement with working with technology.
 
-We've done several exhibitions, two in the U.S., and this is our third and first international exhibit that we did in Ergenç in Uzbekistan. You can see the URLs here and go to Techspressionism.Com. Our tag on Instagram is shown here as well, and we'd love for you to join us. It would be great to have an Uzbek chapter. That would be wonderful. Just going to give you a little review. When we came this past September, 2025. I'm showing you a little bit of what we've done. We're showing you a picture of our poster for our exhibition. That's in front of the Contemporary Art Museum of Uzbekistan in Ergenç.
+We've done several exhibitions, two in the U.S., and this is our third and first international exhibit that we did in Ergenç in Uzbekistan. You can see the URLs here and go to Techspressionism.com. Our tag on Instagram is shown here as well, and we'd love for you to join us. It would be great to have an Uzbek chapter. That would be wonderful. Just going to give you a little review. When we came this past September, 2025. I'm showing you a little bit of what we've done. We're showing you a picture of our poster for our exhibition. That's in front of the Contemporary Art Museum of Uzbekistan in Ergenç.
 
 Here's a clip from the opening. And of course, we want to give a shout out to Sharon, who was just a wonderful person to work with. We really had a very exciting opening. It was just fun for everyone, and there was a lot of conversation and engagement. A really cool thing about this museum is it has a legacy of really very fun. Uzbek artists from Uzbekistan and Russian artists in their collection. So it was fun to have our piece be a very contemporary, new kind of thing, which Sharon has been bringing into that museum consistently. We've been so excited to be part of it. As we speak today, I just want to remind you that some of the software we'll be talking about, it may not be the software you're working in. I understand. I think that you're using mostly Microsoft products and other things.
 
@@ -89,7 +89,7 @@ His current focus is investigating the framework of algorithmic consciousness us
 
 ## Lee Day [11:06](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=666s)
 
-Thank you, Roz. Hi, I'm Lee Day. You can find my work at LeeDay.Photography online. And at LeeDay.Photography.Com. And I actually am a photographer primarily. So what I'm interested in is the question of what do algorithms see? Artificial intelligence isn't human. So what do they actually see? So maybe this is what they're seeing.
+Thank you, Roz. Hi, I'm Lee Day. You can find my work at LeeDay.photography online. And at LeeDay.photography.com. And I actually am a photographer primarily. So what I'm interested in is the question of what do algorithms see? Artificial intelligence isn't human. So what do they actually see? So maybe this is what they're seeing.
 
 .
 
@@ -155,7 +155,7 @@ Moving things around, checking them for intensity, texture. Oh, I love it. All s
 
 In other words, trash is usually just thrown away. But I see it as a treasure, a very strong treasure for artists to use. Once I've played with this composition, I may then start to play with the lighting from the light box, from lamps. I have several of them here in the studio. I even use a flashlight on occasion. Just depends on what it tells me that I'm looking at. Once that is done, and I'm happy with it, I then take my camera, which is an old Nikon D3100.
 
-It's about 10 years old. I photograph it from several different angles. I may take something out. I may add something else in. I may rearrange things and take some more photographs. Once I'm finished with that, I download the photographs into my computer. And this is where the transition starts. I use the Microsoft Photo program, Microsoft Paint, and a separate program called Paint.Net.
+It's about 10 years old. I photograph it from several different angles. I may take something out. I may add something else in. I may rearrange things and take some more photographs. Once I'm finished with that, I download the photographs into my computer. And this is where the transition starts. I use the Microsoft Photo program, Microsoft Paint, and a separate program called Paint.net.
 
 Those three programs enable me to turn the ephemera into a painting. So let's take a look at how that works. This is a photograph of staged ephemera. Bits and pieces of plastic, paper, wire, etc. Note that the background is a flat white color. Now this image is the Techspressionism conversion. You can't identify any of the objects and the background now looks like impasto paint. Everything suggests exploiting energy. And I love it. Some combinations of staged ephemera manifest an aura of sacredness. Every spiritual feeling holds at its center not an answer but a question, which nurtures something fleeting like a blue rose.
 

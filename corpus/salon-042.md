@@ -35,7 +35,7 @@ Excellent. Well thank you, Ross. Thank you, Colin, thank you to the entire expre
 
 A quick word about Southampton Art Center we opened our doors in 2013. We're standing right here at 25 jobs lane in the heart of Southampton Village. Art has been happening at this location for over 100 years. The Southampton Art Center is here, entering our ninth season our 10th birthday is going to be next year. We do five to six exhibitions a year. And we present about 150 175 programs across all disciplines film, dance, theater, live music. We've got three acres of gorgeous grounds here in the heart of Southampton. We've got the Southampton Art Center.
 
-Yeah, we go. And thanks to James for the quick spin around tour. Yes. I would be remiss to not share with you all if you are interested in supporting the work that we're doing. We're in the midst of our spring friends membership drive at Southampton Art Center.Org slash friends if you want to become a member and a supporter of our of our great institution. I want to leave it at that I want to thank Colin sincerely for assembling this beautiful show. So exciting to be connected around the world in 20 countries representing our country. Thank you all so much for spending this exhibition. And without him and hand it back to Ross to walk through the exhibition. And I urge you all to come see us in person here at 25 Jones Lane in Southampton Village Thank you guys very much and have a great great too.
+Yeah, we go. And thanks to James for the quick spin around tour. Yes. I would be remiss to not share with you all if you are interested in supporting the work that we're doing. We're in the midst of our spring friends membership drive at Southampton Art Center.org slash friends if you want to become a member and a supporter of our of our great institution. I want to leave it at that I want to thank Colin sincerely for assembling this beautiful show. So exciting to be connected around the world in 20 countries representing our country. Thank you all so much for spending this exhibition. And without him and hand it back to Ross to walk through the exhibition. And I urge you all to come see us in person here at 25 Jones Lane in Southampton Village Thank you guys very much and have a great great too.
 
 I'm going to jump on as I hit my next obligation.
 
@@ -81,7 +81,7 @@ Yeah, we've got the glitch bench here and it looks really terrific. And if you'r
 
 ## Colin Goldberg [04:57](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=297s)
 
-Yeah, I don't believe Joseph is here with us tonight but this is a great opportunity to talk about this. And I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. And find out more information about each artist on Techspressionism.Com.
+Yeah, I don't believe Joseph is here with us tonight but this is a great opportunity to talk about this. And I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. And find out more information about each artist on Techspressionism.com.
 
 ## Roz Dimon [05:36](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=336s)
 
@@ -155,13 +155,13 @@ She's here.
 
 ## Anne Morgan Spalter [08:34](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=514s)
 
-I'm here. And you can see them behind me too in the great 3D walkthrough that anyone can use by going to the Techspressionism.Com website. And these are four pastel drawings that are based actually on AI artwork that were created with a dataset that I put together myself with images of my own artwork. And I'm going to show you a few of them. Okay. So this is a photo of me and photographs of airplanes that I got off the web. And they sort of fight against each other in an AI process called a GAN. And they ended up making these really crazy compositions that looked like airplane crashes and UFOs. And I loved the compositions, but they were very low resolution, only 256 pixels across. So my solution was to blow them up and make them into pastel drawings. And it was fun using sort of cutting edge technology on one hand, but then rendering it with a very, very high resolution.
+I'm here. And you can see them behind me too in the great 3D walkthrough that anyone can use by going to the Techspressionism.com website. And these are four pastel drawings that are based actually on AI artwork that were created with a dataset that I put together myself with images of my own artwork. And I'm going to show you a few of them. Okay. So this is a photo of me and photographs of airplanes that I got off the web. And they sort of fight against each other in an AI process called a GAN. And they ended up making these really crazy compositions that looked like airplane crashes and UFOs. And I loved the compositions, but they were very low resolution, only 256 pixels across. So my solution was to blow them up and make them into pastel drawings. And it was fun using sort of cutting edge technology on one hand, but then rendering it with a very, very high resolution.
 
 And I know I can do a lot of my work in a very pointy and very thrifty way, that I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot
 
 ## Colin Goldberg [09:44](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=584s)
 
-Of it. I can do a lot of it. I can do a lot of it. Krasner House on the homepage at Techspressionism.Com, as well as the other salons that are going to be coming up.
+Of it. I can do a lot of it. I can do a lot of it. Krasner House on the homepage at Techspressionism.com, as well as the other salons that are going to be coming up.
 
 ## Roz Dimon [10:06](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=606s)
 
@@ -169,7 +169,7 @@ Patrick Lichty, Techspressionist still life number three, dive on print on acryl
 
 ## Patrick Lichty [10:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=615s)
 
-All right, let's see here. Yep, I'll unmute myself. Anyway, thanks a lot. This is actually the cover image for the Techspressionist 2021 global exhibition we did in Koontz Matrix. So I thought that I should do that. I think I'm really kind of looking at the idea of process as a way of being or an ontology. And so what I've done is I use a couple of artificial intelligence platforms. One is playform.Io.
+All right, let's see here. Yep, I'll unmute myself. Anyway, thanks a lot. This is actually the cover image for the Techspressionist 2021 global exhibition we did in Koontz Matrix. So I thought that I should do that. I think I'm really kind of looking at the idea of process as a way of being or an ontology. And so what I've done is I use a couple of artificial intelligence platforms. One is playform.io.
 
 And this comes from a large body of process. I basically manipulated in a way to see what the common elements were. And then also in playform, they have a take a sketch and try to turn it into some style, whether it's Turner or Modigliani or whatnot. And I had drawn several different studies and sandwiched about three or four of them and started playing with the values and such. This is really, really a big collage.
 
@@ -427,7 +427,7 @@ And the other piece on the other side of Kneeling Icon. Is called Dr. No. And th
 
 ## Roz Dimon [31:58](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1918s)
 
-Thanks, Colin. And we go on to Paul D. Miller, a.K.A. DJ Spooky. Satyris Parubus, variant one, pointing, United States 2022.
+Thanks, Colin. And we go on to Paul D. Miller, a.k.a. DJ Spooky. Satyris Parubus, variant one, pointing, United States 2022.
 
 ## Colin Goldberg [32:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1935s)
 
@@ -537,7 +537,7 @@ And Sahar, what time is it in Iran right now?
 
 ## Sahar Moussavi [41:12](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2472s)
 
-It's 2.43 a.M.
+It's 2.43 a.m.
 
 ## Roz Dimon [41:16](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2476s)
 
@@ -591,7 +591,7 @@ I do not believe he's here today.
 
 ## Colin Goldberg [43:14](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2594s)
 
-Yeah, I don't think Tikowai is here. He was actually one of the first people to really get involved with the group. He was someone whose work I noticed and tagged very early on. And also, he has a couple of video pieces in the reel. You could also watch the exhibition reel on the web now. It's on the bottom of Techspressionism.Com's homepage. And that's where you can find all of the time codes so you can find each artist's work within the reel. The reel is about an hour and 10 minutes long. So Tikowai's work is generally portraiture that involves double exposures.
+Yeah, I don't think Tikowai is here. He was actually one of the first people to really get involved with the group. He was someone whose work I noticed and tagged very early on. And also, he has a couple of video pieces in the reel. You could also watch the exhibition reel on the web now. It's on the bottom of Techspressionism.com's homepage. And that's where you can find all of the time codes so you can find each artist's work within the reel. The reel is about an hour and 10 minutes long. So Tikowai's work is generally portraiture that involves double exposures.
 
 And he's based in the Netherlands.
 
@@ -643,7 +643,7 @@ A little bit, maybe.
 
 I'm not... Yeah, we're not getting the audio. But I can read the description that he provided. I don't know if it's Elio or Illio. But he... What he said was, in my generative work, I throw paint particle shapes and colors at random locations on the surface of the screen and use several mathematical concepts like the vector field to add deterministic movement and other techniques like recursion and colored gradient to introduce variety. The continuous layering of particles and shapes suggests what I feel is a contradictory and tedious balance between repetition and variety in my daily life and creative practice. So this, I believe, is a generative piece. And all of these works in this grid are fabricated on white aluminum. They're one of one digital monoprints. And they're digitally signed on the back.
 
-So basically, when I created this set of works or conceptualized this component of the exhibition, I created a web form in which the artist uploaded high res images and also digitally signed the work using technology similar to DocuSign. The signatures were then printed on labels which were adhered to the back of the pieces. And they're numbered one of one. So these works are all available for sale through the exhibition. And 60% of the proceeds goes to the artists and the remaining 40% goes to the Arts Center. And if anyone's interested in purchasing any of the works in this show, you should go to Southamptonartscenter.Org.
+So basically, when I created this set of works or conceptualized this component of the exhibition, I created a web form in which the artist uploaded high res images and also digitally signed the work using technology similar to DocuSign. The signatures were then printed on labels which were adhered to the back of the pieces. And they're numbered one of one. So these works are all available for sale through the exhibition. And 60% of the proceeds goes to the artists and the remaining 40% goes to the Arts Center. And if anyone's interested in purchasing any of the works in this show, you should go to Southamptonartscenter.org.
 
 There's a phone number there. There is going to be online purchasing. It's set up shortly. I'm not sure if that's online yet. But you can always call the Arts Center and inquire if there is particular work by any of the international artists or any of the other artists in the exhibition that you're interested in.
 
@@ -813,7 +813,7 @@ Next is Oz Van Rosen, who I believe we saw her bench in the front room. Power of
 
 ## Colin Goldberg [59:37](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3577s)
 
-And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.Com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred line, really, when you talk about founders. Because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was awesome. I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say it topical and contemporary.
+And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred line, really, when you talk about founders. Because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was awesome. I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say it topical and contemporary.
 
 ## Roz Dimon [01:00:48](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3648s)
 
@@ -1675,7 +1675,7 @@ I just want to say a big thank you to the other people. I just want to say a big
 
 Yeah, and for the next five weeks throughout the exhibition, which closes on June 4th, there is at least one event every week that is the salons are every two weeks. So in two weeks, we're going to have our Femtech salon that Roz is going to be moderating. Two weeks after that is going to be East End Expressionism that Steve Miller is moderating. And in between them, we have three great programs that Helen Harrison is going to be running in conjunction with the Pollock-Krasner House and Study Center. Those will be Zoom events. There's also going to be a number of live events for those of you in the area, including John Zieman presenting on the history of video art. And I believe Christine Schooley is also going to be doing a presentation on her site-specific installation and possibly a few more that are in the works.
 
-So stay tuned. And all that information is going to be made accessible on the homepage at Techspressionism.Com throughout the duration of the exhibition. After the exhibition is over, all of that content is going to be archived at Techspressionism.Com slash Southampton. So if any of you are who are artists in the show and you want to add a permanent link to the exhibition, please use that URL, Techspressionism.Com slash Southampton, which currently redirects to the homepage.
+So stay tuned. And all that information is going to be made accessible on the homepage at Techspressionism.com throughout the duration of the exhibition. After the exhibition is over, all of that content is going to be archived at Techspressionism.com slash Southampton. So if any of you are who are artists in the show and you want to add a permanent link to the exhibition, please use that URL, Techspressionism.com slash Southampton, which currently redirects to the homepage.
 
 And I'm going
 

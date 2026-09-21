@@ -417,7 +417,7 @@ Is there some kind of URL or something you want to give people who are watching 
 
 ## Darcy Gerbarg [29:14](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1754s)
 
-It's my name. It's DarcyGerbarg.Com.
+It's my name. It's DarcyGerbarg.com.
 
 ## Unattributed [29:18](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1758s)
 
@@ -479,7 +479,7 @@ Yeah. Well, should we, I think that's time to stop scrolling. I think so, too.
 
 ## Roz Dimon [31:37](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1897s)
 
-I think so, too. And it's been, it's been wonderful to talk with you, you know, and see your work. It's very exciting what you're doing. And everybody knows they can go to your website, d-a-r-c-y-g-e-r-b-a-r-g.Com and immerse in some of these pieces themselves. I wanted to ask you a few more questions.
+I think so, too. And it's been, it's been wonderful to talk with you, you know, and see your work. It's very exciting what you're doing. And everybody knows they can go to your website, d-a-r-c-y-g-e-r-b-a-r-g.com and immerse in some of these pieces themselves. I wanted to ask you a few more questions.
 
 Do you want to stop sharing or, I don't know, you have to not share.
 
@@ -493,7 +493,7 @@ There you go. We're back. Oh, Darcy, that was really very fascinating. It was go
 
 ## Darcy Gerbarg [32:21](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1941s)
 
-Well, I'm inviting people to come if they'd like to visit any of these worlds, either with their laptop or if they have Oculus Quest goggles. Just contact me. You can contact me at director at darcygehrbarg.Com. And set up a time to come visit.
+Well, I'm inviting people to come if they'd like to visit any of these worlds, either with their laptop or if they have Oculus Quest goggles. Just contact me. You can contact me at director at darcygehrbarg.com. And set up a time to come visit.
 
 ## Roz Dimon [32:39](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1959s)
 
@@ -607,7 +607,7 @@ Oh, yes. Yes.
 
 ## Roz Dimon [41:49](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2509s)
 
-I would, you know, I'm not making any money on it, but it's not, I would love, you know. Yeah. Well, that's what's great with being with a composer who can kind of make something original with you. Exactly. You know, before, I think you've already answered this question, or I don't believe in answers. I don't think you do either. It's all about the questions. But how do you see before? Before we sign off here, it's been a wonderful session with you. How do you see the future of art from this perspective? I mean, I've been with you through the early digital.Com. We saw that rise and fall. But of course, the artist didn't stop making things, you know. But the world had to come back around to it. And it seems it is. And I wonder how you look at everything right now.
+I would, you know, I'm not making any money on it, but it's not, I would love, you know. Yeah. Well, that's what's great with being with a composer who can kind of make something original with you. Exactly. You know, before, I think you've already answered this question, or I don't believe in answers. I don't think you do either. It's all about the questions. But how do you see before? Before we sign off here, it's been a wonderful session with you. How do you see the future of art from this perspective? I mean, I've been with you through the early digital.com. We saw that rise and fall. But of course, the artist didn't stop making things, you know. But the world had to come back around to it. And it seems it is. And I wonder how you look at everything right now.
 
 ## Darcy Gerbarg [42:33](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2553s)
 

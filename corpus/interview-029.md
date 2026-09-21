@@ -59,11 +59,11 @@ Okay, you got it?
 
 ## Colin Goldberg [02:55](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=175s)
 
-Is that just, claudiahart.Com?
+Is that just, claudiahart.com?
 
 ## Claudia Hart [02:58](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=178s)
 
-Yes, you can see Claudiahart.Com. And, I use this in a very encyclopedic way. My, my website is, has everything in it? My web… Designer is actually, A very successful experimental jazz drummer, and part of his creative practice is still doing this with me, and we have a lot of fun with it. So, I keep it very relevant, and we get a lot of hits. I think we get some crazy number… we get about 10,000 hits, A month, I think. Anyway, so… Let's start. You wanted me to talk first about pattern… the retrospective, correct?
+Yes, you can see Claudiahart.com. And, I use this in a very encyclopedic way. My, my website is, has everything in it? My web… Designer is actually, A very successful experimental jazz drummer, and part of his creative practice is still doing this with me, and we have a lot of fun with it. So, I keep it very relevant, and we get a lot of hits. I think we get some crazy number… we get about 10,000 hits, A month, I think. Anyway, so… Let's start. You wanted me to talk first about pattern… the retrospective, correct?
 
 ## Colin Goldberg [03:48](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=228s)
 
@@ -2081,7 +2081,7 @@ And it was fun!
 
 ## Colin Goldberg [01:33:53](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5633s)
 
-Absolutely, absolutely. So, Claudiahart.Com, right? If viewers.
+Absolutely, absolutely. So, Claudiahart.com, right? If viewers.
 
 ## Claudia Hart [01:33:59](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5639s)
 

@@ -311,7 +311,7 @@ Yes. Yes. I wanted it, the grass, to be real. Because the story is real. You kno
 
 And here we have a photo montage. I titled it Patriarch and Home. And that is the photo that I restored. It was badly, badly damaged. And I replaced the injured parts pixel by pixel. Which is something I became greatly acquainted with when I started off on this journey of being a digital artist. You know, they now have automated functions that get rid of scratches and whatnot. But I prefer to do it like I'm in an operating room. You know? Like I'm suturing a wound. Pixel by pixel. Fill it in. So that it blends. And you erase the defect.
 
-And so it's like my dad's spirit in front of the homestead, which is where I currently live. And you know, the trees in the background, you see some of the sky that function as a backdrop for some of the paintings you saw earlier. So. There we go. Great. Really cool to see that. Yeah. Gala me 2.0. And you can read more about Gala me 2.0. And see the original Gala me series at Gala me.Com. G-U-L-L-A-H-M-E.Com.
+And so it's like my dad's spirit in front of the homestead, which is where I currently live. And you know, the trees in the background, you see some of the sky that function as a backdrop for some of the paintings you saw earlier. So. There we go. Great. Really cool to see that. Yeah. Gala me 2.0. And you can read more about Gala me 2.0. And see the original Gala me series at Gala me.com. G-U-L-L-A-H-M-E.com.
 
 And also sign up for notices about when the collection is going to drop. There are many, many, many, many more images. I just shared a few. But they're not live yet on the blockchain. And when they do drop, I will be sending people who sign up a notice to let them know when it goes live.
 

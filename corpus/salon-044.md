@@ -18,7 +18,7 @@ flags:
 
 ## Steve Miller [00:03](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3s)
 
-So good afternoon in my time zone in Sagaponic, New York on the east end of Long Island where I believe every artist who's invited in this Zoom is also living as well. So this is a East End presentation of the artists that are participating in the Colin Goldberg curated Techspressionism show at the Southampton Art Center. And the premise of the show is, has been widely distributed around social media and in the press, and it's artists looking at technology as a tool of personal expression. And today we're going to give people the opportunity to talk about their particular piece of the show. And there's a brief time limit. So those of you just coming in and out, you can see that we have a few minutes left. And now each artist is going to speak about their particular piece of the show for about five minutes.
+So good afternoon in my time zone in Sagaponack, New York on the east end of Long Island where I believe every artist who's invited in this Zoom is also living as well. So this is a East End presentation of the artists that are participating in the Colin Goldberg curated Techspressionism show at the Southampton Art Center. And the premise of the show is, has been widely distributed around social media and in the press, and it's artists looking at technology as a tool of personal expression. And today we're going to give people the opportunity to talk about their particular piece of the show. And there's a brief time limit. So those of you just coming in and out, you can see that we have a few minutes left. And now each artist is going to speak about their particular piece of the show for about five minutes.
 
 And I'm looking forward to starting this off with Suzanne Anker.
 
@@ -448,7 +448,7 @@ Thanks Colin. You're being too bad. We're just going to get that was it. We're j
 
 Going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that.
 
-We're just going to get that. Different countries that are physical works in the show that were fabricated on aluminum panels for the exhibition. And there's also a reel of artworks that are digital pieces that are digital still images, time-based works and NFTs. And that reel is actually visible online as well. It's on the Techspressionism.Com homepage. If you scroll all the way down towards the bottom, you can watch that reel. It's a little over an hour and I believe there's close to 40 artists in it. And there's a lot of the international artists are represented in that reel as well.
+We're just going to get that. Different countries that are physical works in the show that were fabricated on aluminum panels for the exhibition. And there's also a reel of artworks that are digital pieces that are digital still images, time-based works and NFTs. And that reel is actually visible online as well. It's on the Techspressionism.com homepage. If you scroll all the way down towards the bottom, you can watch that reel. It's a little over an hour and I believe there's close to 40 artists in it. And there's a lot of the international artists are represented in that reel as well.
 
 ## Steve Miller [58:06](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3486s)
 

@@ -299,7 +299,7 @@ But yeah, I mean, these are all just, you know, different examples of how, throu
 
 This was from a performance actually with. So this is being a 48 on the left. Being a 48 is a humanoid android that I've been working with since 2018. We've sort of been discussing poetry, and I've been kind of able to put my hands into her mind file and really kind of study the the makeup of an intelligent system. And and anyway, we do a lot of live performances together. But this is another format. You know, for taking this kind of hybrid approach to poetics. And again, you know, taking it into maybe slightly unusual formats. And venues. This was at At Lincoln Center last year for summer in the city in New York, which was really fun.
 
-And then, I think, let me click out of this, because I'll really quickly just show some some some other things. So Actually, let me show you this first.St So this is just a browser based ongoing performance. That my my AI alter ego is sort of writing in real time, but it's Variations on a poem called Heart mantra that I wrote as a human poem. And that was published in my book, Technology. And one of the things I've become really interested in is just how I can sort of keep revisiting some of those poems and sort of use technology to kind of refract them or to extend them. And so I tasked my AI co-author with rewriting that original poem over and over and over again.
+And then, I think, let me click out of this, because I'll really quickly just show some some some other things. So Actually, let me show you this first.st So this is just a browser based ongoing performance. That my my AI alter ego is sort of writing in real time, but it's Variations on a poem called Heart mantra that I wrote as a human poem. And that was published in my book, Technology. And one of the things I've become really interested in is just how I can sort of keep revisiting some of those poems and sort of use technology to kind of refract them or to extend them. And so I tasked my AI co-author with rewriting that original poem over and over and over again.
 
 And so in this ongoing, browser-based performance. Every time this refreshes, technology is writing a new version of the poem, Heart Mantra. In real time it's creating new language. And then it's turning it into a visual poem in real time as well. And so I have. You know this is my, my sort of simple system, where you can actually see the new poem that is being generated. And this is just being written in real time, you know, through AI, and I've done a few performances where, not knowing what the poems are going to be. I'll kind of whip out my phone and bring up this page, and just sort of read a poem as it's writing. And to me like that's A very different Mode of writing than my usual, which is to constantly go back and polish and edit, and revise, and and all that. But there's something really interesting about the immediacy of this kind of an approach, too. So sometimes my art takes this format where it's it's in a browser. And you know, it just becomes like the script for something else. But yeah, all these different forms and immersive screen based analog Projections. I do a lot of a lot of different kinds of presentations, kind of depending on the venue and the audience, just to kind of again see what feels like a good fit for the particular poem, just the way that I would if I was publishing a poem. You always try to find the right materials, the right paper quality, the right. You know the right format for the book, so I feel like it's it's very much of a piece with that.
 
@@ -361,7 +361,7 @@ Not. I mean, they're they're available if I sort of like share them via links an
 
 ## Colin Goldberg [59:33](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=3573s)
 
-I remember seeing, like jodi.Org early on in the web. Like, you know, very early web art.
+I remember seeing, like jodi.org early on in the web. Like, you know, very early web art.
 
 ## Sasha Stiles [59:39](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=3579s)
 
@@ -445,7 +445,7 @@ And is that something that's online that people can check out, you know, is ther
 
 ## Sasha Stiles [01:07:33](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4053s)
 
-Yeah, there is. So we have a website. It's just the verse, 1st.Com, and then, you know, we're on Twitter just at the verse 1st and Instagram at the same handle, and and we do events we do, you know. Every once in a while we either, you know, we'll do an exhibition where we kind of celebrate various works. Or, you know, we actually recently had an event in London, a little symposium on digital poetry where we gathered folks together to kind of talk through poetry as both an art form and a technology. And it was a really interesting evening. So yeah, I think the best. The best thing is just to kind of maybe be connected through social, because we kind of present a lot of work through our social channels. But we also talk about upcoming events and kind of current goings on. So that's the best place to find the most up to date. Info.
+Yeah, there is. So we have a website. It's just the verse, 1st.com, and then, you know, we're on Twitter just at the verse 1st and Instagram at the same handle, and and we do events we do, you know. Every once in a while we either, you know, we'll do an exhibition where we kind of celebrate various works. Or, you know, we actually recently had an event in London, a little symposium on digital poetry where we gathered folks together to kind of talk through poetry as both an art form and a technology. And it was a really interesting evening. So yeah, I think the best. The best thing is just to kind of maybe be connected through social, because we kind of present a lot of work through our social channels. But we also talk about upcoming events and kind of current goings on. So that's the best place to find the most up to date. Info.
 
 ## Colin Goldberg [01:08:26](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4106s)
 
@@ -535,7 +535,7 @@ So. If people want to follow you in your work. Where and how should they do it?
 
 ## Sasha Stiles [01:18:51](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4731s)
 
-Oh, thanks for asking it. Just my website or my social handles. I guess I'm just Sasha Stiles everywhere. Sasha Stiles.Com STIL ES. So pretty easy to find.
+Oh, thanks for asking it. Just my website or my social handles. I guess I'm just Sasha Stiles everywhere. Sasha Stiles.com STIL ES. So pretty easy to find.
 
 ## Colin Goldberg [01:19:03](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4743s)
 

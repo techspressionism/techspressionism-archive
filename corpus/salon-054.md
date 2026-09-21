@@ -27,7 +27,7 @@ Other than that, stay friendly and nice. All right, so we're going to kick thing
 
 All right, awesome. Thanks, Davo. So yeah, and welcome back. I'm glad you're back in action as a moderator, and certainly we welcome you back to moderate whenever you want. And we've also been doing rotating moderation, where if people have an idea for a topic-based salon, and they want to moderate and or curate in artists or kind of take a lead, I invite anyone that wants to do so. It just keeps things fresh and interesting. So I also just wanted to ask if you're not sharing, if you could mute yourselves. That just keeps everything running smoothly. And I wanted to just open it up with a few minutes of a recording that I made last week, which was our first roundtable discussion.
 
-And it was myself as moderator, and the participants were Christiane Paul, who's the moderator, and I'm the moderator. And I'm the digital art curator at the Whitney Museum of American Art, and Helen Harrison, who's the director of the Pollock-Krasner Center, Pollock-Krasner House and Study Center. And the topic was about Techspressionism. So I just wanted to share a couple minutes of that segment, which is on the YouTube channel. And we now have our own short URL there, youtube.Com slash Techspressionism. So I'm just going to kick it off with this recording here.
+And it was myself as moderator, and the participants were Christiane Paul, who's the moderator, and I'm the moderator. And I'm the digital art curator at the Whitney Museum of American Art, and Helen Harrison, who's the director of the Pollock-Krasner Center, Pollock-Krasner House and Study Center. And the topic was about Techspressionism. So I just wanted to share a couple minutes of that segment, which is on the YouTube channel. And we now have our own short URL there, youtube.com slash Techspressionism. So I'm just going to kick it off with this recording here.
 
 ## Allen Hirsh [02:59](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=179s)
 
@@ -831,7 +831,7 @@ Um sometimes uh there are technical problems too like a connection and and thing
 
 ## Lucy Boyd-Wilson [01:32:42](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5562s)
 
-Also I wanted I wanted to suggest that if if we ever had um our sessions at like 10 or 11 in the morning um um yeah maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe then we could then then our european artists could actually um um be part of this I mean at our current time it's like 11 p.M is is the start in uk and europe and but if if we had morning sessions you know either regularly or or occasionally then we could totally hear from many other countries at least europe just
+Also I wanted I wanted to suggest that if if we ever had um our sessions at like 10 or 11 in the morning um um yeah maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe then we could then then our european artists could actually um um be part of this I mean at our current time it's like 11 p.m is is the start in uk and europe and but if if we had morning sessions you know either regularly or or occasionally then we could totally hear from many other countries at least europe just
 
 ## Colin Goldberg [01:33:20](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5600s)
 

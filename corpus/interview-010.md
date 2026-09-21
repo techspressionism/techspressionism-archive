@@ -241,7 +241,7 @@ No, I mean, it's a significant body of work, you know, and it's good to see sort
 
 ## Brandon Gellis [53:05](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3185s)
 
-And so is the website URL? Is that just your name.Com? It's just BrandonGellis.Com. Yeah, gotcha.
+And so is the website URL? Is that just your name.com? It's just BrandonGellis.com. Yeah, gotcha.
 
 ## Unattributed [53:12](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3192s)
 

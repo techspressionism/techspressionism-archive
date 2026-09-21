@@ -456,16 +456,19 @@ h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scrol
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
-/* red WATCH while the video is stopped; while it plays the same button is a gray PAUSE, so a reader can stop the video and read */
-h3.para-time a.pill .pause-word, h3.para-time a.pill svg.i-pause { display:none; }
-.layout.is-playing h3.para-time a.pill.pill-watch { background:#f0f0f0; color:#333; }
-.layout.is-playing h3.para-time a.pill.pill-watch:hover { background:#e7e7e7; }
-.layout.is-playing h3.para-time a.pill.pill-watch svg { color:#333; }
-.layout.is-playing h3.para-time a.pill .watch-word, .layout.is-playing h3.para-time a.pill svg:not(.i-pause) { display:none; }
-.layout.is-playing h3.para-time a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
-.layout.is-playing h3.para-time a.pill svg.i-pause { display:block; }
-.cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin-left:.4rem; padding:.22rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
-.js .cite-btn { display:inline-flex; align-items:center; }
+/* red WATCH on every turn while the video is stopped; while it plays, the CURRENT turn's button is a gray PAUSE (so a reader can stop the video and read)
+   and the other turns keep their red WATCH button, which jumps to that place in the video */
+div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:none; }
+.layout.is-playing .para.active div.para-foot a.pill.pill-watch { background:#f0f0f0; color:#333; }
+.layout.is-playing .para.active div.para-foot a.pill.pill-watch:hover { background:#e7e7e7; }
+.layout.is-playing .para.active div.para-foot a.pill.pill-watch svg { color:#333; }
+.layout.is-playing .para.active div.para-foot a.pill .watch-word, .layout.is-playing .para.active div.para-foot a.pill svg:not(.i-pause) { display:none; }
+.layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
+.layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
+.para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
+.cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
+.js .cite-btn { display:inline-flex; align-items:center; gap:.4rem; }
+.cite-btn svg.i-up { width:.75rem; height:.75rem; flex:none; }
 .cite-btn:hover, .cite-btn[aria-expanded="true"] { background:#b30000; }
 .para + .cite-card.para-cite { margin-top:-.7rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 3.6rem); scroll-margin-bottom:1rem; }
 .cite-card .close-cite { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--line); border-radius:.3rem; background:#fff; color:var(--muted); cursor:pointer; }
@@ -676,6 +679,7 @@ def build_citation(entry):
 
 
 PLAY_SVG = '<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1 0.5v13l10.5-6.5z"/></svg>'
+UP_SVG = '<svg class="i-up" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10.5V2M2.4 5.4 6 1.8l3.6 3.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 PAUSE_SVG = '<svg class="i-pause" viewBox="0 0 12 14" aria-hidden="true"><path d="M2 1.5h2.8v11H2zM7.2 1.5H10v11H7.2z" fill="currentColor"/></svg>'
 PILL_SVG = ('<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1.6 1.6v10.8l9-5.4z" fill="none" '
             'stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>')
@@ -781,7 +785,7 @@ PLAYER_JS = """<script>
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
     btn.textContent = on ? 'Hide transcript' : 'Read transcript';
-    if (on && scroll) document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (on && scroll) { holdUntil = Date.now() + 1800; document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' }); }   // no following while that scroll runs
   }
   var pbox = document.getElementById('player-box');
   var hint = null;      // a line under the video, for phones that will not start a video by themselves
@@ -897,6 +901,8 @@ PLAYER_JS = """<script>
   var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
   var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
+  // YouTube's own captions are switched off here: the transcript beside the video is the text, and two sets of words are confusing
+  function captionsOff() { try { player.unloadModule('captions'); player.unloadModule('cc'); } catch (e) {} }
   function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
   var loading = false;
@@ -928,10 +934,10 @@ PLAYER_JS = """<script>
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       player = new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, autoplay: autoplayOnLoad ? 1 : 0 },
+        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: autoplayOnLoad ? 1 : 0 },
         events: {
-          onReady: function () { ready = true; queue.splice(0).forEach(function (f) { f(); }); },
-          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); },
+          onReady: function () { ready = true; captionsOff(); queue.splice(0).forEach(function (f) { f(); }); },
+          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1) captionsOff(); },
           onError: function () { failed = true; queue = []; }
         }
       });
@@ -977,7 +983,8 @@ PLAYER_JS = """<script>
     var a = ev.target.closest && ev.target.closest('a.pill');
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
     ev.preventDefault();
-    if (layout.classList.contains('is-playing') && a.closest('h3.para-time') && ready && player) { player.pauseVideo(); return; }   // PAUSE: stop the video so the reader can read
+    var hit = a.closest('.para');
+    if (layout.classList.contains('is-playing') && hit && hit.classList.contains('active') && a.closest('.para-foot') && ready && player) { player.pauseVideo(); return; }   // the current turn's PAUSE: stop the video so the reader can read
     var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     [].slice.call(document.querySelectorAll('.para-cite .continue-btn')).forEach(function (c) { c.hidden = true; });
@@ -997,7 +1004,7 @@ PLAYER_JS = """<script>
   // Follow along: while the video plays, the part being spoken is kept vertically centred in the view. The paragraph carries its sentences'
   // start times (data-st); the spot inside the current sentence is worked out from how far through it the video is, and the page glides
   // so that spot sits in the middle of the space beside/below the video. A reader who scrolls is left alone for a few seconds.
-  var models = new WeakMap(), remaining = 0, gliding = false;
+  var models = new WeakMap(), remaining = 0, gliding = false, holdUntil = 0;
   var ABBR = { 'mr.': 1, 'mrs.': 1, 'ms.': 1, 'dr.': 1, 'st.': 1, 'vs.': 1, 'etc.': 1, 'e.g.': 1, 'i.e.': 1, 'no.': 1, 'jr.': 1, 'sr.': 1, 'prof.': 1 };
   var CLOSERS = String.fromCharCode(34, 39, 8221, 8217, 41, 93), ENDERS = '.?!' + String.fromCharCode(8230);
   function endsSentence(w) {
@@ -1052,11 +1059,15 @@ PLAYER_JS = """<script>
     return rect ? rect.top + rect.height / 2 : null;
   }
   function followSpoken(t) {
-    if (Date.now() - lastUser < 3000) return;
+    if (Date.now() - lastUser < 3000 || Date.now() < holdUntil) return;
     var y = spokenY(active, t);
     if (y === null) return;
     var top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
-    remaining = y - (top + window.innerHeight) / 2;
+    var center = (top + window.innerHeight) / 2;
+    // Scrolling starts only once the spoken part has reached the middle: until then it simply moves down the screen by itself (the first turn of a
+    // recording starts near the top of the text). If it is out of sight (the reader scrolled away, or the video jumped), it is brought back to the middle.
+    if (y <= center && y >= top) { remaining = 0; return; }
+    remaining = y - center;
     if (!gliding) { gliding = true; requestAnimationFrame(glide); }
   }
   function glide() {
@@ -1072,7 +1083,7 @@ PLAYER_JS = """<script>
     sec = Math.floor(sec); var h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), sc = sec % 60, two = function (n) { return String(n).padStart(2, '0'); };
     return h ? h + ':' + two(m) + ':' + two(sc) : two(m) + ':' + two(sc);
   }
-  function setClock(i, sec) { var pt = paras[i] && paras[i].querySelector('h3.para-time a.pill .pt'); if (pt) pt.textContent = clockText(sec); }
+  function setClock(i, sec) { var pt = paras[i] && paras[i].querySelector('.para-foot a.pill .pt'); if (pt) pt.textContent = clockText(sec); }
   function resetClock() { if (ticking >= 0) { setClock(ticking, starts[ticking]); ticking = -1; } }
   setInterval(function () {
     if (!ready || !player.getCurrentTime) return;
@@ -1210,10 +1221,16 @@ def build_session_page(entry, siblings=()):
                 st = [round(t0, 2)] * len(sentences)      # never guess a finer time than the paragraph's own
             times_p.append([f"t{start}" if k == 0 else (head_id or None), speaker])
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
+            # the heading (an anchor for search results, with the hidden speaker name) is empty to the eye; the WATCH/PAUSE button and the Cite button
+            # are at the END of the turn, where the reader is when they finish it, and both act on the passage above them
+            heading = f'{head_open}{head_name}</h3>' if head_id else ""
             blocks.append(
                 f'<div class="para" data-t="{t0}" data-st="{",".join(f"{x:g}" for x in st)}">'
-                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}<span class="pt">{pill_time(t0)}</span></a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
-                f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
+                f'{heading}'
+                f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p>'
+                f'<div class="para-foot" data-pagefind-ignore>'
+                f'<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}"><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}<span class="pt">{pill_time(t0)}</span></a>'
+                f'<button type="button" class="cite-btn" aria-expanded="false" title="Cite the passage above (pauses the video)">{UP_SVG}Cite</button></div></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
         # a passage whose speaker is not identified is not offered as a search result (a citation needs a speaker);

@@ -416,7 +416,7 @@ You know I feel like. Maybe there is some sort of metaphorical value to that. In
 
 And it's gonna be happening in Brooklyn. It's actually our 1st museum exhibition. The South Hampton show was actually at an art center that Used to be the home of a very amazing museum called the Parish Art Museum, which is now moved to a different location. In Watermill, New York, to town over. But kingsborough Museum is an actual accredited art Museum. It will be the 1st text in this show at the Museum, and the 1st expression is show at a museum in New York City. So it's very exciting.
 
-It's gonna be opening up August 7.Th I believe the reception is gonna be on a Friday, August 9.Th And all the information for this show is at Techspressionismcom slash Brooklyn. If you're interested in getting more information, I would encourage you to reach out to Tommy. As he is the lead curator, there's also a press release that he just supplied. And basically, it's in Brooklyn kind of towards the south side of Brooklyn, near Coney Island area.
+It's gonna be opening up August 7.th I believe the reception is gonna be on a Friday, August 9.th And all the information for this show is at Techspressionismcom slash Brooklyn. If you're interested in getting more information, I would encourage you to reach out to Tommy. As he is the lead curator, there's also a press release that he just supplied. And basically, it's in Brooklyn kind of towards the south side of Brooklyn, near Coney Island area.
 
 So yeah, I just wanted to mention that to you and to Youtube in case anyways watching this post facto.
 
@@ -490,7 +490,7 @@ Okay. Gotcha gotcha. Yeah. She had a very interesting interview. That's, I think
 
 ## Cynthia Beth Rubin [01:21:40](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=4900s)
 
-I have. I have a quick announcement, which is Sigraph. Asia is going to be in Tokyo in November, December early December, and the submission deadlines are June 20.Th So I'm going to put the put this here in the. I realize not everybody can hop over To Tokyo so easily. But, on the other hand, I'm hearing from all these people. Oh, I really want to go to Japan. So if you really want to go to Japan and make it a work trip. And last time we were in Tokyo, the city organized city of Tokyo this had some really nice tourist, you know, a day trip on a bus up of mountain with great and great food up there and stuff. So Anyway.
+I have. I have a quick announcement, which is Sigraph. Asia is going to be in Tokyo in November, December early December, and the submission deadlines are June 20.th So I'm going to put the put this here in the. I realize not everybody can hop over To Tokyo so easily. But, on the other hand, I'm hearing from all these people. Oh, I really want to go to Japan. So if you really want to go to Japan and make it a work trip. And last time we were in Tokyo, the city organized city of Tokyo this had some really nice tourist, you know, a day trip on a bus up of mountain with great and great food up there and stuff. So Anyway.
 
 I just put that in the chat.
 

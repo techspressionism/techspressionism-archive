@@ -27,9 +27,9 @@ Hello, hello. Hey, Roz. I'm here today with, hello, Steve. I'm Roz Dimon. Today 
 
 Steve Miller. Steve Miller has been working with art, science, and technology since 1980. He has collaborated with the 2003 Nobel laureate in chemistry, Rod McKinnon, in a project about human protein. He has worked at Brookhaven National Labs and at CERN in Geneva, where he lectured to the theory group. For a decade, Miller worked on a photographic project about the Amazon. Miller proposed to give Brazil, our planetary lungs, a medical checkup by taking X-rays of the fluid. It was as if it was a The project is called health of the planet. It was published as two monographs, radiographic and surfskate, published by Glitterati edition. His work has been presented as solo exhibitions in Paris, Bordeaux, Marseille, Hong Kong, Rio, London, Boston, New York City, and most recently, at the National Academy of Sciences in Washington.
 
-Washington, D.C. Miller has a continuing interest in fashion, both as a designer and as an artist, making x-rays of his mother's luxury collection. He has designed clothing for Asclan Brazil, Art Multiples, Katmandu Project, Princey's Art Rug Projects, James Paul Chung, and under his own label at healthoftheplanet.Art.
+Washington, D.C. Miller has a continuing interest in fashion, both as a designer and as an artist, making x-rays of his mother's luxury collection. He has designed clothing for Asclan Brazil, Art Multiples, Katmandu Project, Princey's Art Rug Projects, James Paul Chung, and under his own label at healthoftheplanet.art.
 
-Miller designs one-of-a-kind custom surfboards and skate decks, available at stevemiller.Art, and edition skate decks for Always Timeless. At CERN, C-E-R-N, Miller understood the importance of data as a cultural paradigm shift, which led him to co-found the software company, Arternal. The art business lacked the technology and statistics that Miller discovered in advanced physics, and new software was needed to drive the business of art. Arternal is an ecosystem of digital tools which makes the art world more sustainable and brings it up to current standards. Arternal brings Miller's history of insider experience to understand the fundamental needs of the industry, complemented by art.
+Miller designs one-of-a-kind custom surfboards and skate decks, available at stevemiller.art, and edition skate decks for Always Timeless. At CERN, C-E-R-N, Miller understood the importance of data as a cultural paradigm shift, which led him to co-found the software company, Arternal. The art business lacked the technology and statistics that Miller discovered in advanced physics, and new software was needed to drive the business of art. Arternal is an ecosystem of digital tools which makes the art world more sustainable and brings it up to current standards. Arternal brings Miller's history of insider experience to understand the fundamental needs of the industry, complemented by art.
 
 Arternal is an ecosystem of digital tools which makes the art world more sustainable and brings it up to current standards.
 
@@ -115,7 +115,7 @@ Great.
 
 ## Steve Miller [10:39](https://www.youtube.com/watch?v=--L1ziEx3-A&t=639s)
 
-And now I'm in second. So this studio is in Sagaponic, New York, and it was formerly the studio of Frank Stella. And I was fortunate enough through mutual friends to start writing it and then eventually bought it.
+And now I'm in second. So this studio is in Sagaponack, New York, and it was formerly the studio of Frank Stella. And I was fortunate enough through mutual friends to start writing it and then eventually bought it.
 
 ## Roz Dimon [10:56](https://www.youtube.com/watch?v=--L1ziEx3-A&t=656s)
 

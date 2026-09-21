@@ -467,7 +467,7 @@ Um and I feel like that's something that we do fairly regularly so it wasn't kin
 
 ## Davonte Bradley [33:45](https://www.youtube.com/watch?v=w6fW5oWbBdk&t=2025s)
 
-College yay um yeah I mean I remember 3 a.M trips to Walmart oh
+College yay um yeah I mean I remember 3 a.m trips to Walmart oh
 
 ## Cee Moses [33:52](https://www.youtube.com/watch?v=w6fW5oWbBdk&t=2032s)
 

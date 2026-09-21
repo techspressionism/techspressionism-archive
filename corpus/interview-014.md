@@ -439,7 +439,7 @@ I'd say. And that also everything had changed by then. And it was a, it was a li
 
 ## Roz Dimon [31:31](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1891s)
 
-And being part of what I would say the early.Com, which, you know, we in tech expressions and we have a lot of young compatriots there younger. Where we're kind of, I think it's nice to tie the dots because you know, we talk about everything from going, I hope even more going back to the past and the Renaissance and, you know, the first left the lithographs were done, you know, or the first edgings by Rembrandt and they weren't even numbered. I mean, you know, in the early days of technology, people are out there exploring together and it's exciting time. And the nineties were like that, I feel. And I feel we're at a certain different. We took a decade to kind of get going again. It's not a certainly different level. The whole world has gotten digital. Better or worse, but I think it's an interesting tie in history to.
+And being part of what I would say the early.com, which, you know, we in tech expressions and we have a lot of young compatriots there younger. Where we're kind of, I think it's nice to tie the dots because you know, we talk about everything from going, I hope even more going back to the past and the Renaissance and, you know, the first left the lithographs were done, you know, or the first edgings by Rembrandt and they weren't even numbered. I mean, you know, in the early days of technology, people are out there exploring together and it's exciting time. And the nineties were like that, I feel. And I feel we're at a certain different. We took a decade to kind of get going again. It's not a certainly different level. The whole world has gotten digital. Better or worse, but I think it's an interesting tie in history to.
 
 For us to be telling our stories and connecting it to what we're doing. I think that's what's going on today and. And, and seeing where we move forward. Yeah.
 
@@ -505,7 +505,7 @@ I am too. Thanks. Yeah.
 
 ## Roz Dimon [35:36](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2136s)
 
-We have some openings coming up soon. We'll put in the pitch. Yeah. There's one tomorrow night, NFT Now. Right. And we've had our first collaboration show, Tech Specialism. And you can go to techspecialism.Com and hear about all of these things. Have you thought about doing a collaboration with anyone? Or are you just...
+We have some openings coming up soon. We'll put in the pitch. Yeah. There's one tomorrow night, NFT Now. Right. And we've had our first collaboration show, Tech Specialism. And you can go to techspecialism.com and hear about all of these things. Have you thought about doing a collaboration with anyone? Or are you just...
 
 ## Carter Hodgkin [35:54](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2154s)
 

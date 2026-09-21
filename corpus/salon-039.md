@@ -660,7 +660,7 @@ Capabilities all that other stuff yeah cyber war is here definitely
 
 ## Davonte Bradley [01:21:19](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4879s)
 
-But the pipeline that ended up getting hacked here in the u.S uh not too far back which that was kind of funny too in in some ways because the the people that did it the hackers they actually issued an apology after the fact they're like oh we didn't actually realize that this this particular company controlled so much it
+But the pipeline that ended up getting hacked here in the u.s uh not too far back which that was kind of funny too in in some ways because the the people that did it the hackers they actually issued an apology after the fact they're like oh we didn't actually realize that this this particular company controlled so much it
 
 ## Lee Day [01:21:40](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4900s)
 

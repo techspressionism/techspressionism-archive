@@ -237,13 +237,13 @@ And in 2020, this is the breakdown. The 2020 tech workforce had the following ra
 
 Women are three times more likely to experience burnout than their male peers and three times more likely to experience burnout. So why are we having all these difficulties is a cultural thing. And I don't know why it persists because women in leadership roles is good for business. Fortune 500 companies with at least three women in leading positions saw a whopping 66% increase in their return on investment.
 
-So women bring different perspectives and different perspectives make for better problem solving capability, increased yields to greater degrees of innovation and innovation means profit. It means that you exceed over your competition. So I got these facts from a site called techjury.Net and I can put the link in the chat for those who want to read more about it.
+So women bring different perspectives and different perspectives make for better problem solving capability, increased yields to greater degrees of innovation and innovation means profit. It means that you exceed over your competition. So I got these facts from a site called techjury.net and I can put the link in the chat for those who want to read more about it.
 
 So to talk a little bit about myself, I came into the art sphere and the tech sphere through medicine. My undergraduate studies were completed in 1974. I went to Bryn Mawr College which champions women's rights and women in education. I went to Bryn Mawr College which champions women's rights and women in education. I first started my education in all realms of the public sphere.
 
 I published a book of poetry while in undergrad and I was mentored by Audre Lorde. My M.D. Degree was obtained in 1978 from the University of Pennsylvania Perelman School of Medicine. And I continued my poetry performances while in medical school. It was how I paid for my medical books, which cost, you know, a lot of money. Money. They're very expensive. I obtained my MBA in 2010 from Strayer University. I had to do it remotely. And my initial arts identity is that of a performance poet. My first book of poetry, Dog Moon, was published by Sunbury Press in 1976.
 
-And Dog Moon is still available on amazon.Com and it is included in rare book collections concerning the small press movement at Emory University. I segued into visual art in 2000 and by 2003 was a finalist in the Boston Cyber Arts Festival and had work included in the field of vision New York City, the commemoration of 9-11.
+And Dog Moon is still available on amazon.com and it is included in rare book collections concerning the small press movement at Emory University. I segued into visual art in 2000 and by 2003 was a finalist in the Boston Cyber Arts Festival and had work included in the field of vision New York City, the commemoration of 9-11.
 
 My mantra is art is a medicine. And medicine is an art. And here you see a picture of me back in the day when I was a physician poet. And this comes from the 500 Women Scientists website. This year for Women's History Month they called biographies from women in STEM fields from across the globe. And my biography was included. And for the first time I see they've included the art alongside the medicine which is something I fought very hard for throughout my career. And it says here that She's the retired physician from the Deep South. She's also a published poet who performed as a spoken word artist through most of her medical career. Now she's an Afro surreal Afrofuturist Techspressionist and Gala visual artist who documents the daily life of women with disabilities and of her people, the Gullah Geechee Nation of the South Carolina Lowcountry, who are in danger of cultural extinction.
 
@@ -663,7 +663,7 @@ You and I think each of us could perhaps mention that in our instagram accounts 
 
 ## Colin Goldberg [01:34:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5645s)
 
-Yeah I I definitely will um you know echo that that sentiment and there's also a press the press release is available we're going to have a show we're going to have a show it's just it's we're going available for download on Techspressionism.Com. So if any of you do have press contacts, that's a good way to lead off and kind of share the news that the show has been extended. So I'd really love it if we could get some coverage outside of the local media. I've been doing everything sort of within my own reach to try to make that happen, but definitely combined, we have a much greater chance of making that happen.
+Yeah I I definitely will um you know echo that that sentiment and there's also a press the press release is available we're going to have a show we're going to have a show it's just it's we're going available for download on Techspressionism.com. So if any of you do have press contacts, that's a good way to lead off and kind of share the news that the show has been extended. So I'd really love it if we could get some coverage outside of the local media. I've been doing everything sort of within my own reach to try to make that happen, but definitely combined, we have a much greater chance of making that happen.
 
 ## Lee Musgrave [01:34:49](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5689s)
 
@@ -689,7 +689,7 @@ Also we could do, I want to say, there are so many talented women in Techspressi
 
 ## Colin Goldberg [01:37:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5843s)
 
-I mean, one thing that I did want to mention was that there have been these nodes that are starting to form in other countries, you know, and I think it's really interesting. It's exciting to see that there is activity happening. I know the members of the French node registered, Techspressionism.Fr and I believe are in the process of setting up a Twitter account.
+I mean, one thing that I did want to mention was that there have been these nodes that are starting to form in other countries, you know, and I think it's really interesting. It's exciting to see that there is activity happening. I know the members of the French node registered, Techspressionism.fr and I believe are in the process of setting up a Twitter account.
 
 They created sort of like a branding treatment that has the T with the French colors, you know, accompanying it, which is pretty cool. You know, and pretty much like I just kind of started chats between members of the different, you know, people, artists in the show within various countries to see if there was any synergy or people had interest in starting to formulate plans for physical exhibitions, you know, with their own localized groups of people, because I think that's really the path moving forward. You know, if it's going to be something that's truly decentralized, like, you know, I think that that's probably a good way to move forward. I know there's been other projects in the past. The Thing comes to mind as something that had sort of a, you know, a lot of interest in the show, but I think that's really the path moving forward.
 
@@ -717,7 +717,7 @@ That would be good. I mean, my contacts are mostly in Marseille, Avignon. So I d
 
 ## Colin Goldberg [01:40:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6016s)
 
-So we'll be- Yeah, it's a female artist actually, Le Chat Noir, I guess, the black cat. She's sort of taken the point person role in the French group, her and Philippe Ormières, I think. He might've been the person that registered the domain, the .Fr domain. But there are sort of been the two that have been the most active from what I can tell. I don't really even know what's going on in the chat because I don't speak French. So.
+So we'll be- Yeah, it's a female artist actually, Le Chat Noir, I guess, the black cat. She's sort of taken the point person role in the French group, her and Philippe Ormières, I think. He might've been the person that registered the domain, the .fr domain. But there are sort of been the two that have been the most active from what I can tell. I don't really even know what's going on in the chat because I don't speak French. So.
 
 ## Cynthia Beth Rubin [01:40:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6046s)
 

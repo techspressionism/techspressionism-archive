@@ -57,7 +57,7 @@ We can all help each other with that, too.
 
 Yeah, you know, like I had originally, Roz had originally pitched this idea to me, and I just thought it might be confusing since we already have a set of interviews and a playlist to, like, make them available in a centralized way that, like, you know, it might be confusing. Fusing for people and artists that do have interviews, they're embedded already on your artist page for the exhibition.
 
-But I think that the more of this type of activity that is essentially people putting it out through their own channels is actually what's going to help this grow the most. And, you know, the more decentralized it is, the more, to me, it has likelihood of sticking and, you know, really becoming something beyond what is published on Techspressionism.Com.
+But I think that the more of this type of activity that is essentially people putting it out through their own channels is actually what's going to help this grow the most. And, you know, the more decentralized it is, the more, to me, it has likelihood of sticking and, you know, really becoming something beyond what is published on Techspressionism.com.
 
 And I think that's really important. So, yeah. And Roz, if you'd like to send me the sort of document or overview, that's something that I can send out through the mailing list as well. So that's something where like everyone will receive it, get an idea of like, you know, what your idea is. And I appreciate, you know, the initiative, because I feel like the more that people just go and start doing stuff around this concept, it's just going to help it become more self-sustaining and touch more people that way.
 
@@ -667,7 +667,7 @@ Thank you. I'd like to say something. Can I say something? Go ahead. So in the f
 
 ## Negin Ehtesabian [01:16:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4564s)
 
-I actually asked Iranian digital artists. Several of them are really happy to do presentation. But the timing is a big problem because they work. And then it is it starts at 2 a.M. For us. So it's a problem.
+I actually asked Iranian digital artists. Several of them are really happy to do presentation. But the timing is a big problem because they work. And then it is it starts at 2 a.m. For us. So it's a problem.
 
 ## Cynthia Beth Rubin [01:16:23](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4583s)
 
@@ -683,7 +683,7 @@ For your time, our time in Iran
 
 ## Negin Ehtesabian [01:16:56](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4616s)
 
-Would be good, would be like 10 a.M. How fast and I am before it's before you change the time. It was our 1030 p.M..
+Would be good, would be like 10 a.m. How fast and I am before it's before you change the time. It was our 1030 p.m..
 
 ## Cynthia Beth Rubin [01:17:09](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4629s)
 

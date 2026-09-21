@@ -300,7 +300,7 @@ Okay.
 
 ## Unattributed [39:16](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=2356s)
 
-Which is part of my NFT residency with a website that is voice.Com. I got to say, I'm trying to move between mediums since I started with art. I guess I started with, I don't remember which year, but it was since the one megapixel camera. When I got one, it just blew my mind. And I loved also analog photography. And I would experiment and try to disassemble it and ruin the signal. And I love the glitch that will happen whether in video even and on digital mediums.
+Which is part of my NFT residency with a website that is voice.com. I got to say, I'm trying to move between mediums since I started with art. I guess I started with, I don't remember which year, but it was since the one megapixel camera. When I got one, it just blew my mind. And I loved also analog photography. And I would experiment and try to disassemble it and ruin the signal. And I love the glitch that will happen whether in video even and on digital mediums.
 
 And my most recent project is because I applied to a residency, which is something that I've done before, but not in terms of NFT or the blockchain or anything like that. And I used sort of, you know, you, Michael, inspired me to actually talk today because I'm using Midjourney, which is a prompt-based artificial intelligence that basically I send a sentence and it sends back to me. But when you sort of lose control or anything like that. There are four iterations that are visual. But I tried to get out of the medium because I'm trying to always experiment with mediums like I haven't stuck to any medium yet. And since we're talking just about adaptation, I'd like to say something about that. I started documentary filmmaking.
 

@@ -179,7 +179,7 @@ And so as I was working through it, it was just kind of capturing what I would s
 
 Yeah, we can go to the next. Yeah, sure. So this is the third gallery. Definitely more poetry was coming out towards the end. And I mean, Prince could, I think, will agree that it was surprising that made us realize how important poetry was going to be to our collaborations. There's the piece, the Crypto Punk piece. I love that one. Right. Right there in the center.
 
-Yeah, so surprising. It took 12 hours for Prince to create. Minting took some time. So in total it was 14 hours. We started at, I think, 4 p.M. Central time. I can't remember right now. And then ended at 6 a.M. Pacific time. I don't know if that math is correct, but. It was a long night. So this was in September. And then when we do these, neither one of us ever collaborated like this before.
+Yeah, so surprising. It took 12 hours for Prince to create. Minting took some time. So in total it was 14 hours. We started at, I think, 4 p.m. Central time. I can't remember right now. And then ended at 6 a.m. Pacific time. I don't know if that math is correct, but. It was a long night. So this was in September. And then when we do these, neither one of us ever collaborated like this before.
 
 And so it took some time to actually acknowledge what it was that we worked on and really view it. And I think it was Prince's idea to do another one, but instead have my artwork kind of lead where in a surprising and also with versions, it's more of Prince's artwork. So as I stated at the beginning, I'm traditionally an illustrator.
 

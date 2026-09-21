@@ -397,7 +397,7 @@ And Steve, there was a question. I got, when your book does drop, how are people
 
 ## Steve Miller [01:23:35](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5015s)
 
-Yeah, it's on Amazon, Barnes & Noble, a pretty wide distribution. And there's more information at my website just for the book called surfingthecosmos.Com. You can find a lot of information there. And thanks to your patience and for listening. Awesome.
+Yeah, it's on Amazon, Barnes & Noble, a pretty wide distribution. And there's more information at my website just for the book called surfingthecosmos.com. You can find a lot of information there. And thanks to your patience and for listening. Awesome.
 
 ## Colin Goldberg [01:23:51](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5031s)
 

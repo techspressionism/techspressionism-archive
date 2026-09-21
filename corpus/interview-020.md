@@ -477,7 +477,7 @@ So as an artist based in Canada, have you felt that the expressionism movement a
 
 ## Renata Janiszewska [56:31](https://www.youtube.com/watch?v=kfGb9OWyXEM&t=3391s)
 
-Well I'm really happy to have met so many americans because I haven't traveled in the u.S for quite some time um 2016 was the last time that I was there I was in new york uh it's really marvelous just to be able to talk to people on both coasts and you know your your can-do spirit yeah and the spirit of entrepreneurship is very strong yes
+Well I'm really happy to have met so many americans because I haven't traveled in the u.s for quite some time um 2016 was the last time that I was there I was in new york uh it's really marvelous just to be able to talk to people on both coasts and you know your your can-do spirit yeah and the spirit of entrepreneurship is very strong yes
 
 ## Michael Pierre Price [57:04](https://www.youtube.com/watch?v=kfGb9OWyXEM&t=3424s)
 

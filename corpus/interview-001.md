@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Roz Dimon [00:04](https://www.youtube.com/watch?v=JZFDck9gwH8&t=4s)
 
-Hello, my name is Roz Dimon. I'm an artist who has been working with technology with my work since 1984. And I'm here today with artists, Colin Goldberg, and he actually coined the term Techspressionism in 2011, and is the co curator of Techspressionism 2021 and international juried exhibition opening in summer 2021 at Techspressionism.Com Hello Colin.
+Hello, my name is Roz Dimon. I'm an artist who has been working with technology with my work since 1984. And I'm here today with artists, Colin Goldberg, and he actually coined the term Techspressionism in 2011, and is the co curator of Techspressionism 2021 and international juried exhibition opening in summer 2021 at Techspressionism.com Hello Colin.
 
 ## Colin Goldberg [00:36](https://www.youtube.com/watch?v=JZFDck9gwH8&t=36s)
 
@@ -37,7 +37,7 @@ Good to be with you. So, Colin. Um, tell us a little bit about your your backgro
 
 So I was born in the Bronx in 1971. And I grew up out here on the east end of Long Island, where we both are actually grew up in Southampton, and my dad taught chemistry out there at Southampton College that we ended up moving out to that that area. And now I live a little bit further west on the north shore of Long Island in a town called rocky point with my wife Donna and our daughter. I. So, as far as cultural influences go. I have a mixed heritage. So my mom is of Japanese ancestry and my father is of Jewish ancestry. And I would definitely, I would say that my, my grandma Kimi a was definitely a major influence on me as an artist. She was trained in Shoto which is the art of Japanese calligraphy, and she taught that in Hawaii where she lives and also in Japan. Where she emigrated from when she was 16.
 
-Her maiden name was actually Noguchi. So sometimes I like to think that maybe I'm a distant relative of the salmon Noguchi but no evidence of that.
+Her maiden name was actually Noguchi. So sometimes I like to think that maybe I'm a distant relative of Isamu Noguchi but no evidence of that.
 
 ## Roz Dimon [02:10](https://www.youtube.com/watch?v=JZFDck9gwH8&t=130s)
 
@@ -47,9 +47,9 @@ Oh, interesting. That's really interesting. Thanks. So, Colin, what made you bec
 
 Well, I always kind of got lost in drawing when I was a kid, and I guess I'm just one of those people that never stopped. You know I was kind of involved in art all through high school and voted class artists when I graduated Southampton High School back in 90. And then I went on to SUNY Binghamton for my undergrad studies and I really wasn't sure if I was going to be an art major I was also considering computer science.
 
-But, you know, there were a couple things that happened while I was in school that definitely put me on the path. You know one of them was that in the summer. After my junior year I did an internship working with an artist named Steve Miller who's part of our Techspressionism group. And I was his studio assistant out in Sagaponic.
+But, you know, there were a couple things that happened while I was in school that definitely put me on the path. You know one of them was that in the summer. After my junior year I did an internship working with an artist named Steve Miller who's part of our Techspressionism group. And I was his studio assistant out in Sagaponack.
 
-And, you know, that, yeah that that was a really amazing experience. It was, you know, the first time I saw the inside. Yeah. Of like a working artist studio I you know only really been exposed to the work of my professors, prior to that, so I got to sort of see how the his studio operated from a business standpoint. And I also got to learn so screen printing. And there was another assistant there by the name of Robert Barden, who is like an amazing printer. He actually printed for Andy Warhol for many years. And, you know, that experience. You know definitely provided some inspiration. Yeah. That was the inspiration to become an artist and it was really interesting to hear him tell stories about how he worked with Andy and stuff like that.
+And, you know, that, yeah that that was a really amazing experience. It was, you know, the first time I saw the inside. Yeah. Of like a working artist studio I you know only really been exposed to the work of my professors, prior to that, so I got to sort of see how the his studio operated from a business standpoint. And I also got to learn so screen printing. And there was another assistant there by the name of Robert Bardin, who is like an amazing printer. He actually printed for Andy Warhol for many years. And, you know, that experience. You know definitely provided some inspiration. Yeah. That was the inspiration to become an artist and it was really interesting to hear him tell stories about how he worked with Andy and stuff like that.
 
 You know definitely you know my, my undergrad painting professor also are actually had two professors but one in particular, a guy that by the name of Angelo Ippolito was a big, you know, influence as far as, you know, making me want to be an artist or, you know, follow that path, and he was a, he he was a second generation New York school abstract expressionist painter. So he, you know, he was the person really responsible for getting me interested in abstraction.
 
@@ -345,7 +345,7 @@ And she, at that time, agreed to be the group's advisor. So that, to me, was lik
 
 And then the five of us, myself, Steve, Oz, Patrick, and Helen met on Zoom. And that was sort of like our first salon where we talked about the definition of Techspressionism. And sort of hashed out the current working definition, which is an artistic approach in which technology is utilized as a means to express emotional experience. So it really is based on the definition of expressionism. But it incorporates expressionism that incorporates technology, basically, or uses technology to express this emotional experience or subjective experience.
 
-And then since then, currently, we have about 200 artists in our index at Techspressionism.Com from over 30 countries. So it's pretty amazing. Since August, it's grown pretty rapidly. And I think a big part of it has been these salons, which you've been a part of on Zoom, which we just started recording and publishing on our YouTube channel.
+And then since then, currently, we have about 200 artists in our index at Techspressionism.com from over 30 countries. So it's pretty amazing. Since August, it's grown pretty rapidly. And I think a big part of it has been these salons, which you've been a part of on Zoom, which we just started recording and publishing on our YouTube channel.
 
 And that was actually Devante's idea. There's another artist who's been pretty heavily involved, Devante. Davonte Bradley, who's been helping moderate the sessions. And it was his suggestion that we record and publish them. So it's been really interesting and also kind of based on this idea of social sculpture, which was an idea that a German artist came up with, a guy by the name of Joseph Beuys, who is a Fluxus artist.
 

@@ -195,7 +195,7 @@ I still felt boxed in creatively, and decided to start my own public access TV s
 
 I will shoot me darn, done, done.
 
-It ran from 1993 to 1999. Yes, this is TV. I broadcast here on Channel 69. Today, August 16, 1997. It is 6 p.M. And 19 minutes, 22 seconds. We've written the phone number up on the, screen so you can go on and participate in today's live broadcast on TV. Today's… Special guest is DJ Datsai with Full Effects on the turntables, bringing it to you live.
+It ran from 1993 to 1999. Yes, this is TV. I broadcast here on Channel 69. Today, August 16, 1997. It is 6 p.m. And 19 minutes, 22 seconds. We've written the phone number up on the, screen so you can go on and participate in today's live broadcast on TV. Today's… Special guest is DJ Datsai with Full Effects on the turntables, bringing it to you live.
 
 DJ song.
 

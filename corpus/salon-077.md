@@ -43,7 +43,7 @@ Who is Steve Miller? Steve was born in 1951 in Buffalo, New York, and he's a mul
 
 You know, my professors were people that I saw inside the Art Building never really saw what they were doing the rest of the time. So I learned a lot from Steve. One of the main things was. He was not in the artist, in the, in the studio, making work all the time, as many people think. This is what a you know, practicing artist does. He was actually. You know, many days of the week sending out slides back when people use slides making phone calls, doing, you know all of the other stuff. And then the actual printing and making art was, you know, the that was the fun part. So it it opened my eyes to like the reality of what this requires, and also, you know, was great opportunity to be in a fantastic space. Renovated potato barn that used to be owned by Frank Stella.
 
-You know one of the other assistants, Robert Barton, printed for Andy Warhol for many years. So it was just an incredible experience. Since Steve has been a mentor, a friend for many years. I helped him build out Steve Miller.Com, and to secure the domain before the Steve Miller band. Guy got it. So Steve is. I think, very happy about that, and still his don't. His site is hosted at that URL, Steve Miller so without further ado, I'm gonna pass the mic over to Steve and yeah, take it away, Steve.
+You know one of the other assistants, Robert Barton, printed for Andy Warhol for many years. So it was just an incredible experience. Since Steve has been a mentor, a friend for many years. I helped him build out Steve Miller.com, and to secure the domain before the Steve Miller band. Guy got it. So Steve is. I think, very happy about that, and still his don't. His site is hosted at that URL, Steve Miller so without further ado, I'm gonna pass the mic over to Steve and yeah, take it away, Steve.
 
 ## Steve Miller [06:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=403s)
 
@@ -597,7 +597,7 @@ Okay. We have a form. That we're asking all the artists to fill out and in that 
 
 ## Colin Goldberg [01:36:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5798s)
 
-I guess either Renata or Tommy will need to get that to you, and if anybody else is missing, I think it's at, it's we're not. It's the form that I posted. Right? So it's okay. Expressionism.Com slash Siberiana, which I'm gonna put in the chat. But you could also get there quickly by going to the homepage. The Techspressionismcom homepage and clicking on the Siberian banner. And I added the form there and then that Those responses should go directly to the team. Awesome. Thanks, Colin. I forgot you had done that. So yeah, awesome.
+I guess either Renata or Tommy will need to get that to you, and if anybody else is missing, I think it's at, it's we're not. It's the form that I posted. Right? So it's okay. Expressionism.com slash Siberiana, which I'm gonna put in the chat. But you could also get there quickly by going to the homepage. The Techspressionismcom homepage and clicking on the Siberian banner. And I added the form there and then that Those responses should go directly to the team. Awesome. Thanks, Colin. I forgot you had done that. So yeah, awesome.
 
 ## Michael Price [01:37:21](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5841s)
 
@@ -689,7 +689,7 @@ Sahara, we able to answer all of your questions. Yes, thanks, and I was able to 
 
 ## Sahar Moussavi [01:45:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6316s)
 
-3 major.Com. But the Urls, as image or video didn't work in hops. So I don't know how to upload. Ca, can you say that again? You upload them to Img. I uploaded gifts in a major.Com e major.Com. And that's the. I am sure. Yeah, yes. And so but I don't know how to link it to a hubs. I use both image and video assets, but it didn't work.
+3 major.com. But the Urls, as image or video didn't work in hops. So I don't know how to upload. Ca, can you say that again? You upload them to Img. I uploaded gifts in a major.com e major.com. And that's the. I am sure. Yeah, yes. And so but I don't know how to link it to a hubs. I use both image and video assets, but it didn't work.
 
 ## Renata Janiszewska [01:45:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6352s)
 
@@ -709,7 +709,7 @@ What's the URL, or the site you're talking about, Renata?
 
 ## Renata Janiszewska [01:46:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6398s)
 
-It's IMGU. R.Com. It's a free hosting site for your images on the web
+It's IMGU. R.com. It's a free hosting site for your images on the web
 
 ## Jan Swinburne [01:46:46](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6406s)
 
@@ -975,7 +975,7 @@ So I want I wanted to show I wanted to show just real. Briefly here, this image.
 
 The other thing that the other thing that I've done Is that I have.
 
-I have an audio file here. That's kind of like a welcoming file. And I use Soundcloud to play audio and soundcloud is free, and it works fine. So if there's anybody who's thinking of of using audio, and you don't have a way for hosting. Go to soundcloud.Com.
+I have an audio file here. That's kind of like a welcoming file. And I use Soundcloud to play audio and soundcloud is free, and it works fine. So if there's anybody who's thinking of of using audio, and you don't have a way for hosting. Go to soundcloud.com.
 
 ## Colin Goldberg [02:16:49](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8209s)
 
@@ -1001,7 +1001,7 @@ I have another question. If no one else does.
 
 ## Cheryl Audet-Lavoie [02:17:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8268s)
 
-Well, I do. I have. I have some questions, too. I have. II think I think I understand everything that Michael is doing. But I don't know how you got there is this like the URL that's at the top. And Hubbs mozilla.Com spoke projects. Is that how you get on here?
+Well, I do. I have. I have some questions, too. I have. II think I think I understand everything that Michael is doing. But I don't know how you got there is this like the URL that's at the top. And Hubbs mozilla.com spoke projects. Is that how you get on here?
 
 ## Michael Price [02:18:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8297s)
 
@@ -1209,7 +1209,7 @@ I mean, feedback will be they don't. I think this has to go directly to Tommy.
 
 ## Deann Stein Hasinoff [02:46:22](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9982s)
 
-I sent an email. When I first was having problems, I sent an email to the Siberiana Email.Com. So the email that you got your information from that's where I sent it to. And so I think if everyone. Just, you know, if you're having problems and it's not working for you, and you're not gonna be ready. I think you just need to be really upfront with them about that. And then, like Michael said, if there are enough People who for whom that's the case. Then then maybe things will change. But I also know that they're already advertising The Siberiana open. How? Opening on Techspressionism so they may not want to change it, for whatever reason.
+I sent an email. When I first was having problems, I sent an email to the Siberiana Email.com. So the email that you got your information from that's where I sent it to. And so I think if everyone. Just, you know, if you're having problems and it's not working for you, and you're not gonna be ready. I think you just need to be really upfront with them about that. And then, like Michael said, if there are enough People who for whom that's the case. Then then maybe things will change. But I also know that they're already advertising The Siberiana open. How? Opening on Techspressionism so they may not want to change it, for whatever reason.
 
 In which case some people may like myself may just be like, is it gonna happen? I'll I'll do it another time, maybe this time we'll see now that I've said this little tutorial, I'm like a little more hopeful that I could actually make it work, but you know it's still, you know, I'm one of the people who's at the bottom of the mountain right now. So I got get to the top.
 

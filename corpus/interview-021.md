@@ -757,7 +757,7 @@ Well, um, you know, I guess, you know, we're kind of around that time to wrap th
 
 ## Victor Acevedo [01:34:39](https://www.youtube.com/watch?v=ywYWdI922tI&t=5679s)
 
-It's a Acevedo media.Com. And it's my last name, a c e v e d o media.Com. That's my website and you could just Google my name Victor Acevedo artist or digital artist. And I'm a digital artist. So it's my website and you'll see a lot of links and I have a YouTube page and fantastic
+It's a Acevedo media.com. And it's my last name, a c e v e d o media.com. That's my website and you could just Google my name Victor Acevedo artist or digital artist. And I'm a digital artist. So it's my website and you'll see a lot of links and I have a YouTube page and fantastic
 
 ## Colin Goldberg [01:34:59](https://www.youtube.com/watch?v=ywYWdI922tI&t=5699s)
 

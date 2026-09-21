@@ -25,7 +25,7 @@ languages: ["en"]
 
 Welcome to the Techspressionist Artist Interview Series. Today is February 5th, 2021. My name is Michael Pierre Price. I'm a Techspressionist artist out of Phoenix, Arizona. I specialize in creating abstract, algorithmic, and surrealist works. Today I'm pleased to conduct this interview, this artist interview with Roz Dimon. Roz has been working with digital media since 1984 and continues to be an innovator in this medium some 37 years later. Originally from Atlanta, she drove her VW Beetle all the way to New York City with her paintings filled with pixels. That led her on an exciting and unplanned adventure, which she will share more about with us today. Her latest works are immersive paintings that exist both on the wall and on the web simultaneously.
 
-Several of these are in major museum collections, including the 9-11 Memorial Museum. Roz is also an ordained interfaith minister, and she is a member of Carter Burden Gallery in New York City. For Roz, science and spirit are increasingly coming together in an evolving story, which I personally look forward to hearing more Roz talk about. Her handle on social media is Rozolution. She is a! And her latest project is a new kind of blog and memoir called ArtStory.Net.
+Several of these are in major museum collections, including the 9-11 Memorial Museum. Roz is also an ordained interfaith minister, and she is a member of Carter Burden Gallery in New York City. For Roz, science and spirit are increasingly coming together in an evolving story, which I personally look forward to hearing more Roz talk about. Her handle on social media is Rozolution. She is a! And her latest project is a new kind of blog and memoir called ArtStory.net.
 
 Hi Roz. Hi Michael. It's good to be with you today. Why don't we get started with you sharing some important aspects of your background, like where you were born, where you currently live and practice and create your artwork, and the cultural influences that, you know, kind of made you the artist that you are.
 
@@ -311,7 +311,7 @@ And they
 
 ## Roz Dimon [29:41](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=1781s)
 
-Were pretty gracious. I mean, I felt men. Yeah. Some of the men who I worked with. Were just fabulous. And they'd say, now, look, when you do this, you want to plug this, you want that to work because we were learning together and they were kind of amazed at the imagery that I was making. And of course there were women techies too. I think by the end of the.Com, I think by the end of the.Com, I think by the end of the.Com at the, at the, when Silicon alley and Valley were really the bucks were just flowing in. There was some real, there was some kind of.
+Were pretty gracious. I mean, I felt men. Yeah. Some of the men who I worked with. Were just fabulous. And they'd say, now, look, when you do this, you want to plug this, you want that to work because we were learning together and they were kind of amazed at the imagery that I was making. And of course there were women techies too. I think by the end of the.com, I think by the end of the.com, I think by the end of the.com at the, at the, when Silicon alley and Valley were really the bucks were just flowing in. There was some real, there was some kind of.
 
 Adolescent really snotty behavior going on, but that always. That's something I don't forgive it, but it, but I didn't have much of that.
 
@@ -653,7 +653,7 @@ Cool. And it's nice to have these people. I love what you just said about it. An
 
 ## Michael Pierre Price [01:03:58](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3838s)
 
-Exactly. Well, that sounds like a good way to kind of tie this up. And once again, Roz, thanks so much. Thank you. And I'm looking forward to this being up on the Techspressionist.Com site for other artists and whoever else is interested in this whole thing about technology meeting art and being expressive of human emotion. So thanks again.
+Exactly. Well, that sounds like a good way to kind of tie this up. And once again, Roz, thanks so much. Thank you. And I'm looking forward to this being up on the Techspressionist.com site for other artists and whoever else is interested in this whole thing about technology meeting art and being expressive of human emotion. So thanks again.
 
 ## Roz Dimon [01:04:28](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3868s)
 

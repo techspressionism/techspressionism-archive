@@ -571,7 +571,7 @@ That might be an approach to take. Okay.
 
 ## Tommy Mintz [35:14](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2114s)
 
-It's on 611. 611.Com. Signs.Com. Signs.Com has very good prices for printing on fabric. S-I-G-N-S.Com. I've had good experiences with them.
+It's on 611. 611.com. Signs.com. Signs.com has very good prices for printing on fabric. S-I-G-N-S.com. I've had good experiences with them.
 
 ## Unattributed [35:26](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2126s)
 

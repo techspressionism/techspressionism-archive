@@ -326,7 +326,7 @@ There's something about having the human touch and what Colin's saying within th
 
 Wow! That's so illustrates your work for me exactly where you just said there's so much detail. But you have that hand drawn hands on and so yeah, that's really intriguing. Okay, I think we're we're coming to closure here. So I've got one final question that I want to put out. So we've kind of looked backward to some degree. How about if we look forward? And I know this wasn't on the list of questions, but I'm going to still throw it out there for you all. What do you hope For you as an artist and your art going forward, I mean, do you have something in mind that you want to, you know? Make sure your legacy is about, or is there something that you haven't had a chance to address yet that you're hoping for whatever whatever sort of forward looking answer you want to sort of wrestle with this. I'd be really interested.
 
-Jan, I'm going to put this to you first.St
+Jan, I'm going to put this to you first.st
 
 ## Jan Swinburne [50:02](https://www.youtube.com/watch?v=BphNOUbReFs&t=3002s)
 
@@ -382,7 +382,7 @@ Thank you.
 
 ## Colin Goldberg [59:42](https://www.youtube.com/watch?v=BphNOUbReFs&t=3582s)
 
-Thank you. Yeah, thanks so much, Michael. You know it's it's been a great conversation. And for those of you who are watching, who aren't aware of what kind of initiated this. It's that we're all part of this show in Chicago at 1 50 media stream. And you know, I encourage you guys online that are watching this to check that out. It's at Techspressionism.Com slash Chicago and Myself, Karen, Jan and Renata each had the opportunity to create a 2 min audio visual piece, and I think it's it's been a pretty amazing experience. You know, working with all you guys and with the curator. Yuga. So Yeah. So thanks again, Michael, and on all of all of you for taking the time to have this conversation, and and also to Michael for you know.
+Thank you. Yeah, thanks so much, Michael. You know it's it's been a great conversation. And for those of you who are watching, who aren't aware of what kind of initiated this. It's that we're all part of this show in Chicago at 1 50 media stream. And you know, I encourage you guys online that are watching this to check that out. It's at Techspressionism.com slash Chicago and Myself, Karen, Jan and Renata each had the opportunity to create a 2 min audio visual piece, and I think it's it's been a pretty amazing experience. You know, working with all you guys and with the curator. Yuga. So Yeah. So thanks again, Michael, and on all of all of you for taking the time to have this conversation, and and also to Michael for you know.
 
 Kick starting this idea of having roundtable discussions in general, I think it's a really good format. You know, that's kind of a little bit different from our salons where it's a small group, and we're able to have conversations. Like this. So Yeah.
 

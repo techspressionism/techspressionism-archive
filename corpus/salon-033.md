@@ -224,7 +224,7 @@ Thank you. Thank you. Thank you. Low frequency sound. Low frequency sound. Low f
 
 Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound. Low frequency sound.
 
-Low frequency sound. Centrifugal force into our galaxy. It was through this contemplation and meditation that these images evolve. And also thinking of the universal body part, mammals, things like that. Subtitles by the Amara.Org community This was an investigation, a complete investigation. But it was in 2016 that I did this. So I hope to be able to still show you the new images.
+Low frequency sound. Centrifugal force into our galaxy. It was through this contemplation and meditation that these images evolve. And also thinking of the universal body part, mammals, things like that. Subtitles by the Amara.org community This was an investigation, a complete investigation. But it was in 2016 that I did this. So I hope to be able to still show you the new images.
 
 They're filled with discovery and such. Okay. I'm going to show you where you can find a mini retrospective on Nohio. It's on Bjorn Magnolian's site. And it's called The Hindsight is 2020 and he's sponsoring this little mini retrospective. And there's a couple of ones that I wanted to show you from 2016 too.
 

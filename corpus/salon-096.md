@@ -33,11 +33,11 @@ And action.
 
 Hello, and welcome to the 96th Techspressionist Salon. I'm Renada, Yannishawska, and I'm coming to you from the village of Lion's Head in Ontario, Canada. Before we get started. I have an announcement with regard to an exhibition that's taking place this fall in. We're Gench in a museum that has been organized by Cynthia Beth Rubin. The open call for entries is been extended, has been extended to July 6, th and she asked me to let you know that there are but 6 places left open or left available.
 
-If you'd like to find the entry form, it's on the homepage of Techspressionism.Com. If you scroll down to the banner that, says Uzbekistan, you'll be able to find a link to the entry form. So once again the open call for Uzbekistan has been extended until July the 6.Th. I'd also like to ask you if the audience could hold their questions. We have 5 artists presenting today. And for the sake of brevity. I've condensed the introductions for each artist, so I'd also like to mention that if you want to know more about each artist, we have put links to their social media and to their website on the salon page of Techspressionism. Lastly, last announcement is that there are close captions in translations for other languages available, and the the link to find those has been put in the chat, I believe, is that right? Colin?
+If you'd like to find the entry form, it's on the homepage of Techspressionism.com. If you scroll down to the banner that, says Uzbekistan, you'll be able to find a link to the entry form. So once again the open call for Uzbekistan has been extended until July the 6.th. I'd also like to ask you if the audience could hold their questions. We have 5 artists presenting today. And for the sake of brevity. I've condensed the introductions for each artist, so I'd also like to mention that if you want to know more about each artist, we have put links to their social media and to their website on the salon page of Techspressionism. Lastly, last announcement is that there are close captions in translations for other languages available, and the the link to find those has been put in the chat, I believe, is that right? Colin?
 
 ## Colin Goldberg [01:56](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=116s)
 
-Yeah. And also if you wanna access it directly, you can go to the salon page, which is Techspressionism.Com slash salon, and that's also accessible via the dropdown menu on the Techspressionism site. And there's instructions and links to the translated captions functionality right under the main graphic there.
+Yeah. And also if you wanna access it directly, you can go to the salon page, which is Techspressionism.com slash salon, and that's also accessible via the dropdown menu on the Techspressionism site. And there's instructions and links to the translated captions functionality right under the main graphic there.
 
 ## Renata Janiszewska [02:19](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=139s)
 
@@ -245,7 +245,7 @@ And I try to create that reconnection for all of us, and it also feels like a di
 
 I wanted to show you my works. And here I created a system. And basically the system takes a 3D object and turns it into a galaxy phone. And the meaning behind is about the connection between all of us, no matter how small, not just special for us humans. But it's For everything, for animals, for plants, for microorganisms. There's a connection on a divine level, not from a religious perspective, but more like a spiritual and the rule of the universe.
 
-And here you can see flowers are turning into galaxy shapes. I also use the same style for other elements. We were 5 artists sharing the stand at this exhibition. And I did the work with retro TV screens. We used 42 retro TV screens, and each one has a fish inside. The artwork names is fish market. It has the same style, and you can see the fish right here. And this is how it looks in motion, and I also try to make an experience to you're seeing fish in Tvs. And it's actually like a fish tank, and you can grab the one you like and take it with you. And this is another work. It was a collaboration with very talented painter, Maderick Turay. Let me show you his art first.St It's very chaotic, and it has very interesting characters inside. So for the 1st work, I transferred his characters into these shapes, and it was looking like this. It's so sorry.
+And here you can see flowers are turning into galaxy shapes. I also use the same style for other elements. We were 5 artists sharing the stand at this exhibition. And I did the work with retro TV screens. We used 42 retro TV screens, and each one has a fish inside. The artwork names is fish market. It has the same style, and you can see the fish right here. And this is how it looks in motion, and I also try to make an experience to you're seeing fish in Tvs. And it's actually like a fish tank, and you can grab the one you like and take it with you. And this is another work. It was a collaboration with very talented painter, Maderick Turay. Let me show you his art first.st It's very chaotic, and it has very interesting characters inside. So for the 1st work, I transferred his characters into these shapes, and it was looking like this. It's so sorry.
 
 I can touch that.
 
@@ -437,7 +437,7 @@ So.
 
 ## Colin Goldberg [01:25:24](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5124s)
 
-For yep For anyone. Also, that's on watching this on Youtube, you can go to Techspressionism.Com slash Oozebeck, UZBE, K, and that will take you to the micro site that Cynthia and the rest of the participants have put together, and that's got you know, information about that call and the exhibition in general.
+For yep For anyone. Also, that's on watching this on Youtube, you can go to Techspressionism.com slash Oozebeck, UZBE, K, and that will take you to the micro site that Cynthia and the rest of the participants have put together, and that's got you know, information about that call and the exhibition in general.
 
 ## Cynthia Beth Rubin [01:25:48](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5148s)
 
@@ -469,7 +469,7 @@ Alright. Well, I guess. No, we're now. Do you have anything you'd like to add, a
 
 I'd like to add something I I forgot to unmute. That was a suggestion of not only Joey Zaza, but his collaboration with Carrie Ann Shimshan as a close, close collaborator in that coding A couple. And I'd also like to propose a salon collaboration that that inspired my thinking. Well, they collaborate on coding together. They should be in this coding salon coming up definitely. But then I said, Well. Maybe I would like to contribute with my team of collaborators on our current gamma time.
 
-And, by the way, we're doing a gamma time. August 3.Rd At Microsoft Gallery. August 30.Th At 4 30 gamut time, everybody's welcome to come.
+And, by the way, we're doing a gamma time. August 3.rd At Microsoft Gallery. August 30.th At 4 30 gamut time, everybody's welcome to come.
 
 ## Colin Goldberg [01:28:15](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5295s)
 

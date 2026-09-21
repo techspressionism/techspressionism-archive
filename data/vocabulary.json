@@ -130,7 +130,13 @@
     {
       "canonical": "Pollock-Krasner",
       "category": "organization",
-      "known_asr_variants": []
+      "known_asr_variants": [
+        "Pollack Krasner",
+        "Pollack-Krasner",
+        "Pollock Krasner"
+      ],
+      "whole_word": true,
+      "note": "the Pollock-Krasner House and Study Center / Foundation; always Pollock (never Pollack) and hyphenated (Colin, 21 September 2026)"
     },
     {
       "canonical": "Southampton Arts Center",
@@ -625,6 +631,45 @@
       ],
       "whole_word": true,
       "note": "Heidi Boisvert (Salon 102 moderator); speech recognition spells her surname many ways in her introduction (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Pollock",
+      "category": "person",
+      "known_asr_variants": [
+        "Pollack"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Jackson Pollock; speech recognition wrote 'Pollack' (Colin, 21 September 2026: sitewide)"
+    },
+    {
+      "canonical": "Isamu Noguchi",
+      "category": "person",
+      "known_asr_variants": [
+        "the salmon Noguchi"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Interview 1: 'a distant relative of Isamu Noguchi'; speech recognition heard 'the salmon' (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Sagaponack",
+      "category": "place",
+      "known_asr_variants": [
+        "Sagaponic",
+        "Sagaponik"
+      ],
+      "whole_word": true,
+      "note": "Sagaponack, New York (Steve Miller's studio); speech recognition spellings (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Robert Bardin",
+      "category": "person",
+      "known_asr_variants": [
+        "Robert Barden"
+      ],
+      "whole_word": true,
+      "note": "Warhol's printer and Steve Miller's fellow studio assistant; speech recognition wrote 'Barden' (Colin, 21 September 2026)"
     }
   ]
 }

@@ -25,7 +25,7 @@ languages: ["en"]
 
 Hello and welcome to the second installment of the Expressionist Artist Interview Series. My name is Colin Goldberg and today is Wednesday, January 27th. I'm here today with Anne Morgan Spalter, an American New Media artist based in Brooklyn, New York and Providence, Rhode Island. Anne founded and taught the original digital fine arts courses at Brown University and the Rhode Island School of Design in the 1990s. She's the author of The Computer and the Visual Arts, published by Addison Wesley, and is co-curator of the Anne and Michael Spalter Digital Art Collection, one of the world's largest private collections of early computer art. The collection is loaned work to the Museum of Fine Arts in Boston, the Museum of Modern Art in New York, and the Victoria and Albert Museum in London, among others.
 
-It is available as an online resource for curators and scholars at spalterdigital.Com. Anne's own artworks reside in the permanent collection, collections of the Albright Knox Art Gallery in Buffalo, New York, the Rhode Island School of Design Museum in Providence, Rhode Island, and the Victoria and Albert Museum in London, among others. Her artwork is available for viewing online Anne Spalter.
+It is available as an online resource for curators and scholars at spalterdigital.com. Anne's own artworks reside in the permanent collection, collections of the Albright Knox Art Gallery in Buffalo, New York, the Rhode Island School of Design Museum in Providence, Rhode Island, and the Victoria and Albert Museum in London, among others. Her artwork is available for viewing online Anne Spalter.
 
 And with that, we'll get started. So welcome, Anne. Thanks for coming to the interview. And maybe you could just start by telling us a little bit about your background, like where you were born, where you live in practice now. And what you're doing. And maybe some cultural influences.
 
@@ -413,7 +413,7 @@ And I think that that's, you know, when I would see the students creating their 
 
 ## Anne Spalter [37:33](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2253s)
 
-Yeah, I'm on Super Rare and then another site called Viv3, viv3.Com.
+Yeah, I'm on Super Rare and then another site called Viv3, viv3.com.
 
 ## Colin Goldberg [37:41](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2261s)
 
@@ -431,7 +431,7 @@ Interesting.
 
 ## Anne Spalter [38:16](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2296s)
 
-Currently can have just with the technology that Super Rare is using. And then there's another website that is very cool that I will share. And this kind of ties into the art collection. So our art collection is early digital artwork. And a lot of it is generative. And now, obviously, there's generative artwork that artists are doing. But combining that with the NFT world, it's not open. See, it's artblocks.Io.
+Currently can have just with the technology that Super Rare is using. And then there's another website that is very cool that I will share. And this kind of ties into the art collection. So our art collection is early digital artwork. And a lot of it is generative. And now, obviously, there's generative artwork that artists are doing. But combining that with the NFT world, it's not open. See, it's artblocks.io.
 
 It's generative work that's minted on demand.
 
@@ -621,7 +621,7 @@ All the time with ai because you know at the end of count zero where there's the
 
 ## Colin Goldberg [53:51](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3231s)
 
-Totally and then um and also like um uh stevenson there was a book the diamond age where he's talking about nanotech and uh you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding um raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on instagram um so it's it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate um your time and uh you know um there'll be links uh to your sites and stuff when this gets posted up on our youtube channel and on Techspressionism.Com so people can check out your work and um I look forward to you know continuing to work with you thanks thank you so much okay
+Totally and then um and also like um uh stevenson there was a book the diamond age where he's talking about nanotech and uh you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding um raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on instagram um so it's it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate um your time and uh you know um there'll be links uh to your sites and stuff when this gets posted up on our youtube channel and on Techspressionism.com so people can check out your work and um I look forward to you know continuing to work with you thanks thank you so much okay
 
 ## Unattributed [55:04](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3304s)
 

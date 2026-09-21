@@ -394,7 +394,7 @@ All right. Awesome, Ross. Thank you so much. And definitely, you know, is there 
 
 ## Roz Dimon [52:48](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3168s)
 
-Yeah, yeah, at rozdimon.Com, there's a link. Yep.
+Yeah, yeah, at rozdimon.com, there's a link. Yep.
 
 ## Colin Goldberg [52:52](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3172s)
 
@@ -724,7 +724,7 @@ There. Nope.
 
 ## Colin Goldberg [01:27:02](https://www.youtube.com/watch?v=w8IHfgE2veI&t=5222s)
 
-Awesome. Yeah. Well, we're getting kind of towards the time limit here, but thank you for bringing up co-working. If it's, you know, another facet of the Techspressionism community, and a very close-knit group that meets regularly, people get to know each other. So if you go to Techspressionism.Com and you scroll down a little bit, there's some information and a link, I believe, to register. We do also have a few, salons coming up. I also wanted to sort of tease, the next salon really quick before we close. So… we recently started doing a little bit of a collab with, this, other community called Loop Art Critique, and so, if you go to Techspressionism.Com.
+Awesome. Yeah. Well, we're getting kind of towards the time limit here, but thank you for bringing up co-working. If it's, you know, another facet of the Techspressionism community, and a very close-knit group that meets regularly, people get to know each other. So if you go to Techspressionism.com and you scroll down a little bit, there's some information and a link, I believe, to register. We do also have a few, salons coming up. I also wanted to sort of tease, the next salon really quick before we close. So… we recently started doing a little bit of a collab with, this, other community called Loop Art Critique, and so, if you go to Techspressionism.com.
 
 There's a new item on the menu loop, and if you click that, it gives you a little bit of information about Loop. It was founded by an artist named Ariel Barron Robbins, and she's been, a guest in the salons before, and basically it's a virtual environment. They recently, established a partnership with the ICA in Miami. Where they have a physical computer there that serves as a portal but basically, it's a virtual environment. We did have a project which was a VR space called Siberiana that Tommy Mintz, spearheaded, but this is what Loop looks like. You can access it now through the Techspressionism website off the main menu, Loop, and that's also going to be the topic of The next SALON in September is, I believe, Ariel, hopefully Ariel, and I know cha, who's an artist that I met while I was down in Miami, are gonna be involved. And, you know, some of the artists in the Techspressionism community also spent time in the various programs that Loop offered.
 
@@ -784,7 +784,7 @@ Large studios. I know as a graduate student, studying computer art, the undergra
 
 ## Nina Sobell [01:37:52](https://www.youtube.com/watch?v=w8IHfgE2veI&t=5872s)
 
-I just wanted to say, I wrote in that, the wrong, the wrong URL. It's www.Variousartistsrecords.Com, and there is information about my show there. A lot of information about my show. Images and text. And thank you, Tommy, again, and thank you, Colin. And I wrote in the, variousartistrecords.Com, in the text, in the chat. Thanks, everybody.
+I just wanted to say, I wrote in that, the wrong, the wrong URL. It's www.variousartistsrecords.com, and there is information about my show there. A lot of information about my show. Images and text. And thank you, Tommy, again, and thank you, Colin. And I wrote in the, variousartistrecords.com, in the text, in the chat. Thanks, everybody.
 
 ## Colin Goldberg [01:38:24](https://www.youtube.com/watch?v=w8IHfgE2veI&t=5904s)
 

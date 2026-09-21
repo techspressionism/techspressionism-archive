@@ -397,7 +397,7 @@ I have a. I mean, what we have are panoramic views of different corners. That ar
 
 So that's what I'm thinking about when I'm making these. Time lapse collages. So I think we have two that are up. One is. Sorry. I'm going to stop sharing. So I feel like I'm just gonna. Confuse myself at this point. And. I'm going to go back to the screen. Is everybody back? I get back to the screen, right? Yes. So, yeah, I think it's really fantastic to see these. Large. Fabric prints that Patrick has, I think in his background, even right now, hanging in this big, beautiful space. It really.
 
-The, the materiality of the print. Is something that I'm, I'm very interested in. And I think it's really interesting to see how this is going to change over time. And find that it. By the way, people signs.Com SIGNS.Com is how I had these prints made on fabric. It's a polyester poplin and Patrick can attest to how easy it is to ship it.
+The, the materiality of the print. Is something that I'm, I'm very interested in. And I think it's really interesting to see how this is going to change over time. And find that it. By the way, people signs.com SIGNS.com is how I had these prints made on fabric. It's a polyester poplin and Patrick can attest to how easy it is to ship it.
 
 ## Patrick Lichty [49:31](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2971s)
 

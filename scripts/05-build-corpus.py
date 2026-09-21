@@ -223,7 +223,8 @@ def capitalize_known_terms(text, terms):
         # reference (this once crashed on a mangled artist-index entry)
         text = re.sub(rf"\b{re.escape(term)}\b", lambda m, t=term: t, text, flags=re.IGNORECASE)
     text = re.sub(r"\bi\b", "I", text)  # standalone pronoun
-    text = re.sub(r"(^|[.!?\n]\s*)([a-z])", lambda m: m.group(1) + m.group(2).upper(), text)
+    # a sentence starts after . ! ? plus a space (or after a line break); NOT in "techspressionism.com", "p.m." or "5.js", where the period is glued to the next letter
+    text = re.sub(r"(^|[.!?]\s+|\n\s*)([a-z])", lambda m: m.group(1) + m.group(2).upper(), text)
     return text
 
 
