@@ -17,7 +17,7 @@ flags:
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2s)
 
-Hello, hello, hello, and welcome everyone to our text professionals and virtual salon number 54. So it's been going for 54 weeks now, or give or take some, because I think we might have actually missed a couple of them. Maybe, but that's beside the point. But, yes, I am your moderator this evening. I'm Davonte Bradley. It's been a while since I've been around, so glad to be back. There's some stuff that happened or was going on with me, which I had to step away from, but I'm back now, so it's all good, I think.
+Hello, hello, hello, and welcome everyone to our Techspressionists and virtual salon number 54. So it's been going for 54 weeks now, or give or take some, because I think we might have actually missed a couple of them. Maybe, but that's beside the point. But, yes, I am your moderator this evening. I'm Davonte Bradley. It's been a while since I've been around, so glad to be back. There's some stuff that happened or was going on with me, which I had to step away from, but I'm back now, so it's all good, I think.
 
 In any case, today is going to be kind of an open mic slash open studio salon for us. So if you're unfamiliar with how things work or you're new here, pretty much this format is if you will go five or so minutes between each participant, you'll raise your hand. First participant will go, share what they need to share, and then we'll move on to the next person, so on and so forth, until we get hopefully everyone that needs to share.
 

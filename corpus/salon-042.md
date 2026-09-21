@@ -591,7 +591,7 @@ I do not believe he's here today.
 
 ## Colin Goldberg [43:14](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2594s)
 
-Yeah, I don't think Tikowai is here. He was actually one of the first people to really get involved with the group. He was someone whose work I noticed and tagged very early on. And also, he has a couple of video pieces in the reel. You could also watch the exhibition reel on the web now. It's on the bottom of textpassionism.Com's homepage. And that's where you can find all of the time codes so you can find each artist's work within the reel. The reel is about an hour and 10 minutes long. So Tikowai's work is generally portraiture that involves double exposures.
+Yeah, I don't think Tikowai is here. He was actually one of the first people to really get involved with the group. He was someone whose work I noticed and tagged very early on. And also, he has a couple of video pieces in the reel. You could also watch the exhibition reel on the web now. It's on the bottom of Techspressionism.Com's homepage. And that's where you can find all of the time codes so you can find each artist's work within the reel. The reel is about an hour and 10 minutes long. So Tikowai's work is generally portraiture that involves double exposures.
 
 And he's based in the Netherlands.
 

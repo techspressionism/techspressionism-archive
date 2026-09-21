@@ -475,6 +475,44 @@
       ],
       "whole_word": true,
       "note": "her name is spelled several ways; always the full name (Colin, 20 September 2026)"
+    },
+    {
+      "canonical": "Techspressionism",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "texianism",
+        "text precious",
+        "text pressure",
+        "text pressurism",
+        "textbrusion",
+        "textfreshness",
+        "textpassionism",
+        "textpression"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 after Colin approved the list of remaining suspects (check-techspressionism.py); whole-word so a longer word is never cut"
+    },
+    {
+      "canonical": "Techspressionist",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "text precision",
+        "text presents",
+        "textbreshnik"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 after Colin approved the list of remaining suspects (check-techspressionism.py); whole-word so a longer word is never cut"
+    },
+    {
+      "canonical": "Techspressionists",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "text professionals",
+        "text specialists",
+        "textpressions"
+      ],
+      "whole_word": true,
+      "note": "added 2026-09-20 after Colin approved the list of remaining suspects (check-techspressionism.py); whole-word so a longer word is never cut"
     }
   ]
 }

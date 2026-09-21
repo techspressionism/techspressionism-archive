@@ -116,7 +116,7 @@ But this is an earth tree sky, and just a little journey, exploring the sort of 
 
 Cari ann shim sham**: Thank you. Cari ann shim sham**: Yeah. And we should say that when you are in the space, you can click on this button, and it takes you to the other world. So do try that. It's really exciting. Cari ann shim sham**: Next up. Thank you so much, Lucy. Let's give Lucy a hand. Everyone. Cari ann shim sham**: Lucy's been working in the loop space extensively, was in Cari ann shim sham**: the loop. Art critique Cari ann shim sham**: alright. Who do we have here? We have Cynthia. Cari ann shim sham**: overdressed Cari ann shim sham**: Cynthia. Cari ann shim sham**: Can we hear from you.
 
-## Cynthia DiDonato [21:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1275s)
+## Allen Hirsh [21:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1275s)
 
 We certainly can. Hello, everyone. Thank you. Joey and Carrie Ann and Colin, for making this experience happen for Techspressionism. I'm zooming in from North Providence, Rhode Island, Rhode Island is the smallest state in the Union, located on the east coast of the United States. We are home to the Rhode Island School of Design. And I'll talk about my work. 1st of all, let me say this about my work. I'm fascinated by the nature of reality. To that end I create, seen and unseen mindscapes and landscapes Overdressed, is part of a continuing 2D sculptural series that began in 2014. It continues To the present.
 
@@ -394,7 +394,7 @@ Cari ann shim sham**: Up, Tommy. Cari ann shim sham**: All right. Cari ann shim 
 
 Cari ann shim sham**: Judith, are you with us?
 
-## Cynthia DiDonato [55:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3356s)
+## Allen Hirsh [55:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3356s)
 
 She was not able to be here. Carrie.
 
@@ -436,7 +436,7 @@ Cari ann shim sham**: Tell us, tell us about this mark.
 
 ## Renata Janiszewska [59:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3560s)
 
-I'm speaking to you from Lion's Head in Canada, where the chill of autumn is in the air. Thank you so much to Carrie Ann, and to Joey. To Colin, to Tommy, to the other text specialists. I had a really Important moment In my work life when one of my works, called Sildavia, was purchased by Mauna, and I'd never heard of them, and I was Completely surprised by the acquisition by an institution. And that was several years ago, and since then I've been in several of their exhibitions.
+I'm speaking to you from Lion's Head in Canada, where the chill of autumn is in the air. Thank you so much to Carrie Ann, and to Joey. To Colin, to Tommy, to the other Techspressionists. I had a really Important moment In my work life when one of my works, called Sildavia, was purchased by Mauna, and I'd never heard of them, and I was Completely surprised by the acquisition by an institution. And that was several years ago, and since then I've been in several of their exhibitions.
 
 And I must say that I was so happy to meet them, because they have so much integrity in what they do. And when I heard about this exhibition, actually, I was Part of sort of Getting the ball rolling on it. I had a lot of thinking to do about What kind of work I wanted to put in. And this work. Metaversal Madonna Cyber Saints. Is A reference to the triptychs of Northern European Renaissance. I have a lot of interest in that period of our history. In particular, there's 1 altarpiece called the Ghent Altarpiece, by Anne Van Eyck that made me want to do a triptych, and in real life These were paintings done on Panels of wood, with oil paint and the wings of the painting. So, in other words, the 2 Sides with the multiple faces Where the wings would have closed.
 

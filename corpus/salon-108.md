@@ -350,7 +350,7 @@ And I'm I'm very proud of it as well.
 
 Thanks, Victor. Cynthia DiDonato.
 
-## Cynthia DiDonato [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
+## Allen Hirsh [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
 
 I just want to say thank you again to the curators and those who worked on the catalog. But I also want to say you made me feel as though I was there. For the.
 
@@ -358,7 +358,7 @@ I just want to say thank you again to the curators and those who worked on the c
 
 Good.
 
-## Cynthia DiDonato [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
+## Allen Hirsh [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
 
 And… That… is a tremendous, it represents a tremendous effort on all your parts. So again, thank you so much.
 
@@ -666,7 +666,7 @@ Really, really cool. Great to see, you know, Techspressionism getting spread to 
 
 And it'll basically be sort of, like, on a first-come, first-served basis, you know, like, so if you want to show up, like 1145 or something, then we can start, you know, a queue going of… who wants to share and stuff like that. And then based on how many people want to share, that'll kind of determine the timeframe. But I would say probably, you know, five to 10 minutes, hopefully we'll get a bunch of people sharing. You know, and if… if anybody wants to step up to moderate that, that would be welcome. Otherwise, I guess I'll moderate it since I came up with the idea, as the rule goes, supposedly. So that being said, I think we're going to bring this recording to a close. Oh, Cynthia.
 
-## Cynthia DiDonato [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
+## Allen Hirsh [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
 
 Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. As we know, Cynthia Beth Rubin, a number of moderators and artists have.
 
@@ -674,7 +674,7 @@ Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. 
 
 Okay.
 
-## Cynthia DiDonato [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
+## Allen Hirsh [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
 
 In participating in videos where, the artists. Shared their artwork and their process with Makerspace participants. I have to say, I've been looking at a number of the videos myself that I didn't get a chance to see earlier. They are very well done. So please. Check them out and I think you'll find rather interesting information about their processes. Thank you.
 
@@ -694,7 +694,7 @@ So. Go back and look at all of the salons. Actually, Colin has a wonderful link 
 
 ## Bob Prata [01:28:19](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5299s)
 
-I just wanted to add onto what Cynthia DiDonato said about the videos on YouTube. I just watched them and they're invaluable and I really encourage Everyone to continue with those. For me, as a relatively new person to the TextFreshness co-working group, they were invaluable. Awesome.
+I just wanted to add onto what Cynthia DiDonato said about the videos on YouTube. I just watched them and they're invaluable and I really encourage Everyone to continue with those. For me, as a relatively new person to the Techspressionism co-working group, they were invaluable. Awesome.
 
 ## Cynthia Beth Rubin [01:28:44](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5324s)
 

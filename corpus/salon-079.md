@@ -181,7 +181,7 @@ So that's my last slide. Actually, these are the things that I've been thinking 
 
 ## Renata Janiszewska [34:51](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=2091s)
 
-Tommy, thank you very much. It always really is so nice to see your work developing, and thank you for taking us back through art history in your talk. Seeing it's good for for text precious. So the next speaker is a fellow Canadian artist, Lee Schnaiberg, of Montreal. Lee Makes Art with an ancient iphone or ancient iphones. So if you have anything that's below a a 7. Just ship it to Lee because he can make use of it. So I'm gonna hand it over to you, Nellie.
+Tommy, thank you very much. It always really is so nice to see your work developing, and thank you for taking us back through art history in your talk. Seeing it's good for for Techspressionism. So the next speaker is a fellow Canadian artist, Lee Schnaiberg, of Montreal. Lee Makes Art with an ancient iphone or ancient iphones. So if you have anything that's below a a 7. Just ship it to Lee because he can make use of it. So I'm gonna hand it over to you, Nellie.
 
 ## Lee Schnaiberg [35:37](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=2137s)
 
@@ -423,7 +423,7 @@ I wanna say, thank you again to all the 4 artists who presented today. It's been
 
 ## Joey Zaza & Cari Ann Shim Sham [01:15:33](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=4533s)
 
-Yeah, hello, everyone. I'm not sure if Carrie and Tim Sham is going to be able to hop on. There's some kind of noise and construction going on. Yeah, wonderful talk. Everyone here is just incredible. Artists, and so on, have been following textpression as a movement for a handful of years, seeing it kind of come out of the pandemic. Just to kind of keep this related to photography. I have this. Would you fill view and 16 here? I don't have a presentation, but it's got like 16 lenses on it. So The battery is low. I can't make him all go off right now, but I think that's kind of a cool camera.
+Yeah, hello, everyone. I'm not sure if Carrie and Tim Sham is going to be able to hop on. There's some kind of noise and construction going on. Yeah, wonderful talk. Everyone here is just incredible. Artists, and so on, have been following Techspressionism as a movement for a handful of years, seeing it kind of come out of the pandemic. Just to kind of keep this related to photography. I have this. Would you fill view and 16 here? I don't have a presentation, but it's got like 16 lenses on it. So The battery is low. I can't make him all go off right now, but I think that's kind of a cool camera.
 
 Some of the work that's been shown kind of reminds me of the John Chamberlain's stuff that he was shooting with the wide box swing Lens camera, which is was on exhibit in manicasemporary in Jersey City a couple of years ago. Other kind of photographic sort of works that I'm interested in at the moment. Is kind of like the Jason salivan sort of like amalgamation. So I carry that over in some of my personal work. I think like layering and stacking things is you know, common way to build work. That's pretty interesting Also, not just shooting with light. So the depth camera on the Microsoft connect, for example. Using data sources as input to image making. I think when you take a depth camera and you shoot it.
 

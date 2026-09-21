@@ -1007,7 +1007,7 @@ Yeah. So like I said, I don't know if I'm going to pull it off well or not. So w
 
 ## Roz Dimon [01:27:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5233s)
 
-Well, you know what? Maybe we go back to non-sharing screen. Unless there's one more. We'll go back to non-share and let's just talk for a minute about. Well, you know. My mind. This has been really wonderful. You know, let's just go back and talk a little bit about how. What interests you about text pressure? And then maybe we'll talk about what interests you about art. And then maybe we'll talk about what interests you about expressionism. We've already sort of answered. One of the questions is what you're working on now. We just experienced that with your new solo show.
+Well, you know what? Maybe we go back to non-sharing screen. Unless there's one more. We'll go back to non-share and let's just talk for a minute about. Well, you know. My mind. This has been really wonderful. You know, let's just go back and talk a little bit about how. What interests you about Techspressionism? And then maybe we'll talk about what interests you about art. And then maybe we'll talk about what interests you about expressionism. We've already sort of answered. One of the questions is what you're working on now. We just experienced that with your new solo show.
 
 You know, maybe say a little bit more about expressionism. And then finally, really. How do you see the future of art?
 

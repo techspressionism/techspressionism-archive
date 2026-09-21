@@ -37,7 +37,7 @@ Hello, everybody! It's July 4th here in America. And the topic today is independ
 
 ## joey zaza [00:45](https://www.youtube.com/watch?v=9uB83V9qp8M&t=45s)
 
-Yeah. So hi everyone. My name is Joey Zaza. I'm a co-founder curator for the Museum of Wild, the newfangled art In October we will be having an exhibition of Texianism work. That exhibition is going to follow Tommy Mintz's work, and we have an open call. All that will be available for the next 2 weeks that you can send into, either at the museums page at mauna dot org, or also at the Techspressionism website. So you should be able to find it, and that calls open to anyone. All mediums, all media is allowed any kind of wild and newfangled work that you are making Somewhat related to the Techspressionism Sort of concept. We're probably gonna be a little bit more lenient even than The regular kind of Techspressionism, curation that has been on so feel free to send into that we will also be doing nft sort of release. So It's exhibition of art, and the sales are optional. So if you'd like to be a part of that, we're happy to partner with you on any kind of like blockchain or platform to try to promote and sell your work. But that's all optional. So we're just looking to exhibit Good old fashioned art and have a have a good fun time and get the word out there about expressionism.
+Yeah. So hi everyone. My name is Joey Zaza. I'm a co-founder curator for the Museum of Wild, the newfangled art In October we will be having an exhibition of Techspressionism work. That exhibition is going to follow Tommy Mintz's work, and we have an open call. All that will be available for the next 2 weeks that you can send into, either at the museums page at mauna dot org, or also at the Techspressionism website. So you should be able to find it, and that calls open to anyone. All mediums, all media is allowed any kind of wild and newfangled work that you are making Somewhat related to the Techspressionism Sort of concept. We're probably gonna be a little bit more lenient even than The regular kind of Techspressionism, curation that has been on so feel free to send into that we will also be doing nft sort of release. So It's exhibition of art, and the sales are optional. So if you'd like to be a part of that, we're happy to partner with you on any kind of like blockchain or platform to try to promote and sell your work. But that's all optional. So we're just looking to exhibit Good old fashioned art and have a have a good fun time and get the word out there about expressionism.
 
 So that's all for me. I'll put into the chat in here for people who are on the zoom. Thank you.
 
@@ -667,7 +667,7 @@ No, I can't do it.
 
 Anyway, anybody else does anybody else have anything to say or to add today, in our.
 
-## Cynthia DiDonato [01:11:25](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4285s)
+## Allen Hirsh [01:11:25](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4285s)
 
 Since.
 
@@ -675,7 +675,7 @@ Since.
 
 Cynthia.
 
-## Cynthia DiDonato [01:11:27](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4287s)
+## Allen Hirsh [01:11:27](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4287s)
 
 Yes, I have a quick renata I'm also very interested. Excuse my voice. In what you have accomplished. Are you? Is this 3D. Space where you have the sense of camera in the everything canvas software? Or is it some other software.
 
@@ -683,7 +683,7 @@ Yes, I have a quick renata I'm also very interested. Excuse my voice. In what yo
 
 It started when I was working on in most of the hubs with Siberiana. I'm not sure. Did you have work in so very, Anna Cynthia. I can't. I'm sorry.
 
-## Cynthia DiDonato [01:11:58](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4318s)
+## Allen Hirsh [01:11:58](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4318s)
 
 Yes, I did. And I sent. Yeah, I sense that you were that. That was the 3D space. So Is it the loop critique experience that.
 
@@ -691,7 +691,7 @@ Yes, I did. And I sent. Yeah, I sense that you were that. That was the 3D space.
 
 Yes, the foundation. The MUD Foundation supports The platform that I'm working on. It's an Xr Creator. And because I was a juror for Loop Art Critique. I spent 6 weeks there in the metaverse with Joey Zaza and about 5 other artists, plus the staff from Loop, and I became really comfortable Meeting in the 3D. Twice a week for a couple of hours, so they offered me use of the space as an artist. After the Residency was finished.
 
-## Cynthia DiDonato [01:12:46](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4366s)
+## Allen Hirsh [01:12:46](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4366s)
 
 Wonderful. I'm I'm fascinated with. The viewpoints that you were able to achieve in the extreme resolution that you're able to get. Bravo!
 
@@ -913,7 +913,7 @@ If only if only I could get all of the other people that are traveling with me t
 
 Alright, guys, we probably should cut this recording now. But so we have a motion. We have a second. All those in favor of perspective, moderated by Cynthia.
 
-## Cynthia DiDonato [01:30:11](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5411s)
+## Allen Hirsh [01:30:11](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5411s)
 
 Any of.
 
