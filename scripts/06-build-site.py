@@ -953,13 +953,82 @@ PLAYER_JS = """<script>
     active = i;
     if (i < 0) return;
     paras[i].classList.add('active');
-    if (follow && Date.now() - lastUser > 4000) {
-      var r = paras[i].getBoundingClientRect(), top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
-      if (r.top < top + 40 || r.bottom > window.innerHeight - 40) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
-    }
   }
   // while the video plays, the timecode on the current turn's gray PAUSE button counts up with the video; when the transcript moves on to the next
   // turn, that one goes back to its own start time and the next turn's button starts counting from there
+  // Follow along: while the video plays, the part being spoken is kept vertically centred in the view. The paragraph carries its sentences'
+  // start times (data-st); the spot inside the current sentence is worked out from how far through it the video is, and the page glides
+  // so that spot sits in the middle of the space beside/below the video. A reader who scrolls is left alone for a few seconds.
+  var models = new WeakMap(), remaining = 0, gliding = false;
+  var ABBR = { 'mr.': 1, 'mrs.': 1, 'ms.': 1, 'dr.': 1, 'st.': 1, 'vs.': 1, 'etc.': 1, 'e.g.': 1, 'i.e.': 1, 'no.': 1, 'jr.': 1, 'sr.': 1, 'prof.': 1 };
+  var CLOSERS = String.fromCharCode(34, 39, 8221, 8217, 41, 93), ENDERS = '.?!' + String.fromCharCode(8230);
+  function endsSentence(w) {
+    var k = w.length - 1;
+    while (k > 0 && CLOSERS.indexOf(w.charAt(k)) >= 0) k--;
+    return ENDERS.indexOf(w.charAt(k)) >= 0 && !ABBR[w.toLowerCase()];
+  }
+  function model(p) {
+    var m = models.get(p);
+    if (m) return m;
+    var tx = p.querySelector('.tx'), text = tx ? tx.textContent : '', times = (p.dataset.st || '').split(',').filter(Boolean).map(Number);
+    var starts = [], fresh = true, i = 0, n = text.length;
+    while (i < n) {
+      while (i < n && (text.charCodeAt(i) <= 32 || text.charCodeAt(i) === 160)) i++;
+      if (i >= n) break;
+      var a = i;
+      while (i < n && text.charCodeAt(i) > 32 && text.charCodeAt(i) !== 160) i++;
+      if (fresh) starts.push(a);
+      fresh = endsSentence(text.slice(a, i));
+    }
+    var distinct = times.some(function (x) { return x !== times[0]; });
+    m = { tx: tx, len: n, starts: (starts.length === times.length && distinct) ? starts : null, times: times };
+    models.set(p, m);
+    return m;
+  }
+  function charRect(tx, offset) {
+    var w = document.createTreeWalker(tx, NodeFilter.SHOW_TEXT), node, seen = 0;
+    while ((node = w.nextNode())) {
+      var len = node.nodeValue.length;
+      if (offset < seen + len) {
+        var r = document.createRange(), k = offset - seen;
+        r.setStart(node, k); r.setEnd(node, Math.min(k + 1, len));
+        var rects = r.getClientRects();
+        return rects.length ? rects[0] : null;
+      }
+      seen += len;
+    }
+    return null;
+  }
+  function spokenY(i, t) {
+    var p = paras[i], m = model(p);
+    if (!m.tx || !m.len) return null;
+    var a = 0, b = m.len, t0 = starts[i], t1 = i + 1 < starts.length ? starts[i + 1] : t0 + m.len / 13;
+    if (m.starts) {
+      var j = 0;
+      for (var q = 0; q < m.times.length; q++) if (m.times[q] <= t + 0.25) j = q;
+      a = m.starts[j]; b = j + 1 < m.starts.length ? m.starts[j + 1] : m.len;
+      t0 = m.times[j]; t1 = j + 1 < m.times.length ? m.times[j + 1] : Math.max(t0 + 1, i + 1 < starts.length ? starts[i + 1] : t0 + (b - a) / 13);
+    }
+    var frac = t1 > t0 ? Math.min(1, Math.max(0, (t - t0) / (t1 - t0))) : 0;
+    var rect = charRect(m.tx, Math.min(m.len - 1, Math.floor(a + frac * (b - a))));
+    return rect ? rect.top + rect.height / 2 : null;
+  }
+  function followSpoken(t) {
+    if (Date.now() - lastUser < 3000) return;
+    var y = spokenY(active, t);
+    if (y === null) return;
+    var top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
+    remaining = y - (top + window.innerHeight) / 2;
+    if (!gliding) { gliding = true; requestAnimationFrame(glide); }
+  }
+  function glide() {
+    if (Math.abs(remaining) < 1) { remaining = 0; gliding = false; return; }
+    var step = remaining * 0.2;
+    if (Math.abs(step) < 1) step = remaining;
+    window.scrollBy(0, step);
+    remaining -= step;
+    requestAnimationFrame(glide);
+  }
   var ticking = -1;
   function clockText(sec) {
     sec = Math.floor(sec); var h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), sc = sec % 60, two = function (n) { return String(n).padStart(2, '0'); };
@@ -985,6 +1054,7 @@ PLAYER_JS = """<script>
     if ((st === 1 || st === 3) && !citedMode && active >= 0) {
       if (ticking !== active) { resetClock(); ticking = active; }
       setClock(active, Math.max(t, starts[active]));
+      if (st === 1) followSpoken(t);
     } else resetClock();
   }, 250);
 })();
@@ -1102,7 +1172,7 @@ def build_session_page(entry, siblings=()):
             times_p.append([f"t{start}" if k == 0 else (head_id or None), speaker])
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
-                f'<div class="para" data-t="{t0}">'
+                f'<div class="para" data-t="{t0}" data-st="{",".join(f"{x:g}" for x in st)}">'
                 f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}<span class="pt">{pill_time(t0)}</span></a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
