@@ -1,0 +1,75 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:19",
+      "fingerprint": "64d1f64af9",
+      "name": "Colin Goldberg"
+    },
+    "V10": {
+      "at": "2026-09-20 20:21",
+      "fingerprint": "086365b931",
+      "name": "Cynthia DiDonato"
+    },
+    "V11": {
+      "at": "2026-09-20 20:21",
+      "fingerprint": "16154a145e",
+      "name": ""
+    },
+    "V12": {
+      "at": "2026-09-20 20:21",
+      "fingerprint": "37ba6afa16",
+      "name": ""
+    },
+    "V13": {
+      "at": "2026-09-20 20:21",
+      "fingerprint": "712cc862b3",
+      "name": "Joey Zaza"
+    },
+    "V14": {
+      "at": "2026-09-20 20:22",
+      "fingerprint": "366b09a9c9",
+      "name": "Lee Day"
+    },
+    "V2": {
+      "at": "2026-09-20 20:19",
+      "fingerprint": "c1c8fc1c24",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V3": {
+      "at": "2026-09-20 20:19",
+      "fingerprint": "8556392c88",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V4": {
+      "at": "2026-09-20 20:19",
+      "fingerprint": "86bc66255b",
+      "name": "Sahar Moussavi"
+    },
+    "V5": {
+      "at": "2026-09-20 20:20",
+      "fingerprint": "2b3b33d298",
+      "name": "Roz Dimon"
+    },
+    "V6": {
+      "at": "2026-09-20 20:20",
+      "fingerprint": "8bf7b13a74",
+      "name": ""
+    },
+    "V7": {
+      "at": "2026-09-20 20:20",
+      "fingerprint": "2c9bcde9ee",
+      "name": ""
+    },
+    "V8": {
+      "at": "2026-09-20 20:20",
+      "fingerprint": "9b35409690",
+      "name": ""
+    },
+    "V9": {
+      "at": "2026-09-20 20:21",
+      "fingerprint": "6473d0a382",
+      "name": ""
+    }
+  }
+}

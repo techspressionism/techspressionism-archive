@@ -1,0 +1,70 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "a50f38e783",
+      "name": "C B Rubin"
+    },
+    "V11": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "a8b36bfe80",
+      "name": "Cynthia DiDonato"
+    },
+    "V12": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "1076d22970",
+      "name": "Roz Dimon"
+    },
+    "V13": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "c055af07d9",
+      "name": "Michael Pierre Price"
+    },
+    "V14": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "7352bd7fb0",
+      "name": ""
+    },
+    "V15": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "aac5455f9a",
+      "name": ""
+    },
+    "V16": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "c5506f0e11",
+      "name": ""
+    },
+    "V3": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "2e34c514ed",
+      "name": "Roz Dimon"
+    },
+    "V4": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "a90f72a68c",
+      "name": "Verneda Lights"
+    },
+    "V5": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "26883a7a85",
+      "name": "Darcy Gerbarg"
+    },
+    "V6": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "4a37e9a6e0",
+      "name": "Susan Detroy"
+    },
+    "V7": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "d35fda94c6",
+      "name": "Colin Goldberg"
+    },
+    "V8": {
+      "at": "2026-09-20 20:18",
+      "fingerprint": "df1f508472",
+      "name": "Sahar Moussavi"
+    }
+  }
+}

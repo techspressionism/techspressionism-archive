@@ -1,0 +1,35 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:14",
+      "fingerprint": "25001b062c",
+      "name": "Colin Goldberg"
+    },
+    "V11": {
+      "at": "2026-09-20 20:15",
+      "fingerprint": "fe01c9baa9",
+      "name": "cari ann shim sham"
+    },
+    "V12": {
+      "at": "2026-09-20 20:15",
+      "fingerprint": "68af90fc95",
+      "name": "joey zaza"
+    },
+    "V13": {
+      "at": "2026-09-20 20:15",
+      "fingerprint": "080b0c83c6",
+      "name": "michael woodruff"
+    },
+    "V14": {
+      "at": "2026-09-20 20:16",
+      "fingerprint": "7e6e10eb47",
+      "name": "Sherry Karver"
+    },
+    "V15": {
+      "at": "2026-09-20 20:17",
+      "fingerprint": "3011ad6441",
+      "name": "Sahar Moussavi"
+    }
+  }
+}

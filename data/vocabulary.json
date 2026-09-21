@@ -441,6 +441,24 @@
       ],
       "whole_word": true,
       "note": "surname alone (2026-09-20)"
+    },
+    {
+      "canonical": "Roman Verostko",
+      "category": "artist",
+      "known_asr_variants": [
+        "Roman Verasco"
+      ],
+      "whole_word": true,
+      "note": "speech recognition mishears the name (Colin, 20 September 2026)"
+    },
+    {
+      "canonical": "Verostko",
+      "category": "artist",
+      "known_asr_variants": [
+        "Verasco"
+      ],
+      "whole_word": true,
+      "note": "surname alone, e.g. the Verostko collection at La Trobe University"
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "applied": "2026-09-20 20:25",
   "approved_auto": true,
   "voices": {
     "V1": {
@@ -10,6 +11,11 @@
       "at": "2026-09-20 19:23",
       "fingerprint": "8c25af783e",
       "name": "Nina Sobell"
+    },
+    "V3": {
+      "at": "2026-09-20 20:25",
+      "fingerprint": "5e1ae1e8d0",
+      "name": ""
     },
     "V4": {
       "at": "2026-09-20 19:24",

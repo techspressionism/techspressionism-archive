@@ -1,0 +1,75 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:04",
+      "fingerprint": "33a142a95a",
+      "name": "Colin Goldberg"
+    },
+    "V10": {
+      "at": "2026-09-20 20:08",
+      "fingerprint": "0737f73f99",
+      "name": "Christiane Paul"
+    },
+    "V11": {
+      "at": "2026-09-20 20:08",
+      "fingerprint": "71d35eef92",
+      "name": "Lee Musgrave"
+    },
+    "V12": {
+      "at": "2026-09-20 20:08",
+      "fingerprint": "367c1f3d28",
+      "name": "Cynthia DiDonato"
+    },
+    "V13": {
+      "at": "2026-09-20 20:09",
+      "fingerprint": "dbdddaad8a",
+      "name": "Helen A. Harrison"
+    },
+    "V14": {
+      "at": "2026-09-20 20:09",
+      "fingerprint": "dd4c181d40",
+      "name": ""
+    },
+    "V2": {
+      "at": "2026-09-20 20:04",
+      "fingerprint": "7dd6822974",
+      "name": "Davonte Bradley"
+    },
+    "V3": {
+      "at": "2026-09-20 20:04",
+      "fingerprint": "1454568fc3",
+      "name": "Lucy Boyd-Wilson"
+    },
+    "V4": {
+      "at": "2026-09-20 20:04",
+      "fingerprint": "e5610d1660",
+      "name": "Verneda Lights"
+    },
+    "V5": {
+      "at": "2026-09-20 20:05",
+      "fingerprint": "4810e7d62b",
+      "name": "Michael Pierre Price"
+    },
+    "V6": {
+      "at": "2026-09-20 20:06",
+      "fingerprint": "1e886cb2b8",
+      "name": "Max Dalí / Kamilla Kulova"
+    },
+    "V7": {
+      "at": "2026-09-20 20:07",
+      "fingerprint": "be598bd21a",
+      "name": "Cynthia DiDonato"
+    },
+    "V8": {
+      "at": "2026-09-20 20:07",
+      "fingerprint": "3472952da6",
+      "name": "Lee Day"
+    },
+    "V9": {
+      "at": "2026-09-20 20:07",
+      "fingerprint": "ba3a76e81f",
+      "name": "Karen LaFleur"
+    }
+  }
+}

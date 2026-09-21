@@ -1,6 +1,11 @@
 {
   "approved_auto": true,
   "voices": {
+    "V1": {
+      "at": "2026-09-20 20:24",
+      "fingerprint": "88ddbb0836",
+      "name": "Verneda Lights"
+    },
     "V2": {
       "at": "2026-09-20 19:21",
       "auto": true,

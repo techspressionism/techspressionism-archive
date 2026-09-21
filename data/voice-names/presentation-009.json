@@ -1,0 +1,35 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:26",
+      "fingerprint": "1fcbbc16a5",
+      "name": "Colin Goldberg"
+    },
+    "V2": {
+      "at": "2026-09-20 20:27",
+      "fingerprint": "53f850210a",
+      "name": "Joyce Raimondo"
+    },
+    "V3": {
+      "at": "2026-09-20 20:27",
+      "fingerprint": "598ca04218",
+      "name": "Helen A. Harrison"
+    },
+    "V4": {
+      "at": "2026-09-20 20:28",
+      "fingerprint": "99dbbbed8b",
+      "name": "Colin Goldberg"
+    },
+    "V5": {
+      "at": "2026-09-20 20:28",
+      "fingerprint": "1601fd768c",
+      "name": "Tommy Mintz"
+    },
+    "V6": {
+      "at": "2026-09-20 20:28",
+      "fingerprint": "abcfb0725a",
+      "name": "Roz Dimon"
+    }
+  }
+}

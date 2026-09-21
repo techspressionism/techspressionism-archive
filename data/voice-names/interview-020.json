@@ -1,6 +1,16 @@
 {
   "approved_auto": false,
   "voices": {
+    "V1": {
+      "at": "2026-09-20 20:23",
+      "fingerprint": "895c821150",
+      "name": "Renata Janiszewska"
+    },
+    "V2": {
+      "at": "2026-09-20 20:23",
+      "fingerprint": "ba6ded9b6b",
+      "name": "Michael Pierre Price"
+    },
     "V3": {
       "at": "2026-09-20 19:20",
       "fingerprint": "133161ca18",

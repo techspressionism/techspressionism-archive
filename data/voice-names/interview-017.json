@@ -1,6 +1,11 @@
 {
   "approved_auto": false,
   "voices": {
+    "V1": {
+      "at": "2026-09-20 20:22",
+      "fingerprint": "43ab448b86",
+      "name": "Tommy Mintz"
+    },
     "V2": {
       "at": "2026-09-20 19:19",
       "fingerprint": "7f7d4b97e4",
