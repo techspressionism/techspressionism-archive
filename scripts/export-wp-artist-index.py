@@ -4,6 +4,7 @@ with each artist's NAME linked to the artist's page in the archive.
 
     python3 scripts/export-wp-artist-index.py ~/Desktop/techspressionism.WordPress.<date>.xml
     python3 scripts/export-wp-artist-index.py <export.xml> --base https://techspressionism.com/archive/
+    python3 scripts/export-wp-artist-index.py private/wp-artist-index/artist-index-final.html --base https://techspressionism.com/archive/   # after new artists get pages: no fresh export needed
 
 The text box is the one with the class "tvai" in the page's [vc_column_text] blocks. Its HTML is kept exactly as it is
 (the flag and website/Instagram icons, countries, states, everything), with one change: the name of an artist who has a page
@@ -38,6 +39,8 @@ def get_box(xml_path):
         i = xml.find('el_class="tvai"')
         start = xml.find("]", i) + 1
         return xml[start:xml.find("[/vc_column_text]", start)]
+    if "<wp:" not in xml[:5000]:                                             # the artist text box as plain HTML (for example the last artist-index-final.html): no fresh WordPress export needed
+        return xml
     for m in re.finditer(r"<item>(.*?)</item>", xml, re.S):
         it = m.group(1)
         if "<link>https://techspressionism.com/artists/</link>" not in it:

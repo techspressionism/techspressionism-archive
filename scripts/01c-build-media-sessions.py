@@ -77,7 +77,7 @@ SITE_DATES = {
         12: "2021-04-14", 13: "2021-04-14", 14: "2021-05-04", 15: "2021-06-01", 16: "2021-06-09",
         17: "2021-06-17", 18: "2021-06-23", 19: "2021-09-17", 20: "2021-10-13", 21: "2022-01-07",
         22: "2022-03-02", 23: "2022-02-28", 24: "2022-02-28", 25: "2023-02-03", 26: "2023-03",
-        27: "2024-09-30", 28: "2025-05-06", 29: "2025-12-08"}.items()},
+        27: "2024-09-30", 28: "2025-05-06", 29: "2025-12-08", 30: "2026-09-21"}.items()},
     ("roundtable", 1): "2022-10-03", ("roundtable", 2): "2023-01-23", ("roundtable", 3): "2024-06-12",
     ("roundtable", 4): "2024-07-10", ("roundtable", 5): "2025-06-27", ("roundtable", 6): "2025-09-16",
     ("presentation", 1): "2026-02-12", ("presentation", 2): "2026-02-26",
@@ -96,7 +96,7 @@ INTERVIEWEE_LOCATIONS = {
     11: "North Bergen, NJ USA", 12: "Oberlin, OH USA", 13: "Augusta, GA USA", 14: "New York, NY", 15: "New York, NY",
     16: "NYC NY USA", 17: "NYC NY USA", 18: "Los Angeles CA USA", 19: "Mumbai", 20: "Toronto, Canada",
     21: "Los Angeles CA USA", 22: "Cape Cod MA USA", 23: "NYC // East Hampton NY USA", 24: "NYC // East Hampton NY USA",
-    25: "Port Royal SC USA", 26: "NYC NY USA", 27: "NYC NY USA", 28: "NEAR NYC NY // USA", 29: "NYC NY // USA",
+    25: "Port Royal SC USA", 26: "NYC NY USA", 27: "NYC NY USA", 28: "NEAR NYC NY // USA", 29: "NYC NY // USA", 30: "Brooklyn, NY, USA",
 }
 
 TS_LINE = re.compile(r"^\s*(\d{1,2}:\d{2}(?::\d{2})?)\s*[-–—]?\s*(.+?)\s*$")

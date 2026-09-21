@@ -6441,6 +6441,47 @@
     }
   },
   {
+    "video_id": "Q-4Co29bgiM",
+    "url": "https://www.youtube.com/watch?v=Q-4Co29bgiM",
+    "type": "interview",
+    "number": 30,
+    "title_raw": "Carla Gannis interviewed by Colin Goldberg - Techspressionist Artist Interview Series #30",
+    "session_title": "Carla Gannis",
+    "date_recorded": "2026-09-21",
+    "date_published": "2026-09-21",
+    "duration_seconds": 4204,
+    "thumbnail": "https://i.ytimg.com/vi/Q-4Co29bgiM/maxresdefault.jpg",
+    "moderator": null,
+    "speakers": [
+      {
+        "name": "Carla Gannis",
+        "country": "Brooklyn, NY, USA",
+        "start_seconds": null,
+        "start_display": null
+      },
+      {
+        "name": "Colin Goldberg",
+        "country": null,
+        "start_seconds": null,
+        "start_display": null
+      }
+    ],
+    "flags": [],
+    "notes": [
+      "date_recorded_from:techspressionism.com"
+    ],
+    "interviewee": "Carla Gannis",
+    "interviewer": "Colin Goldberg",
+    "transcript_source": "whisper-large-v3",
+    "transcript_quality": {
+      "word_count": 12465,
+      "duration_seconds": 4204,
+      "words_per_minute": 177.9,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
     "video_id": "z8fZvhQgl80",
     "url": "https://www.youtube.com/watch?v=z8fZvhQgl80",
     "type": "presentation",
@@ -6657,7 +6698,7 @@
         "start_display": "00:08:53"
       },
       {
-        "name": "Cynthia DiDonato",
+        "name": "Allen Hirsh",
         "country": null,
         "start_seconds": 995,
         "start_display": "00:16:35"
@@ -6937,8 +6978,7 @@
       }
     ],
     "flags": [
-      "speaker_index_missing",
-      "transcript_quality_low"
+      "speaker_index_missing"
     ],
     "notes": [
       "date_recorded_from:techspressionism.com"
@@ -7056,7 +7096,7 @@
     "moderator": "Michael Pierre Price",
     "speakers": [
       {
-        "name": "Cynthia DiDonato",
+        "name": "Allen Hirsh",
         "country": "North Providence, Rhode Island USA",
         "start_seconds": null,
         "start_display": null
