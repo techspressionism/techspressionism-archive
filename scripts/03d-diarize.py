@@ -39,6 +39,7 @@ from pathlib import Path
 
 from lib_media import label, selected, slug
 from lib_speakers import canonical_name
+from lib_voicehints import directory_name
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -156,6 +157,12 @@ def combine(voices, index_names, canonical):
             else:
                 info["tier"], info["name"] = "conflict", None
                 info["why"] = f"screen says {screen!r}, the index says {listed!r}"
+        elif screen and directory_name(canonical(screen)):
+            # the on-screen name is exactly a directory artist's name: it means that person, with no further confirmation
+            # (the vote above already showed the label follows this voice and is not a pinned camera)
+            who = directory_name(canonical(screen))
+            info["tier"], info["name"], info["candidate"] = "confirmed", who, who
+            info["why"] = f"on-screen name '{screen}' is a directory artist; {info['why']}"
         elif screen or listed:
             info["tier"], info["name"], info["candidate"] = "single", None, screen or listed
             info["why"] = f"only the {'screen' if screen else 'speaker index'} names it ({screen or listed})"

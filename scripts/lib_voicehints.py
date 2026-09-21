@@ -39,3 +39,29 @@ def set_hint(info, source, name, why):
         hints[source] = {"name": name, "why": why}
     else:
         hints.pop(source, None)
+
+
+_DIRECTORY = {}
+
+
+def _key(name):
+    import re
+    import unicodedata
+    s = unicodedata.normalize("NFKD", name or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z]", "", s)
+
+
+def directory_name(name):
+    """The people directory's spelling of `name` when it is exactly a directory artist's full name or alias (ignoring capitals, accents and
+    punctuation), else None. Colin, 20 September 2026: an on-screen Zoom name that matches a directory artist always means that person."""
+    if not _DIRECTORY:
+        import json
+        import re
+        from pathlib import Path
+        path = Path(__file__).resolve().parent.parent / "data" / "people.json"
+        for p in json.loads(path.read_text())["people"]:
+            for n in [p["name"]] + p.get("aliases", []):
+                n2 = re.sub(r"\s*\([^)]*\)", "", n).split(" aka ")[0].strip()
+                if len(n2.split()) >= 2 and "/" not in n2:
+                    _DIRECTORY.setdefault(_key(n2), p["name"])
+    return _DIRECTORY.get(_key(name))
