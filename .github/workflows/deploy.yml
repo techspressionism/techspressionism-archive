@@ -29,9 +29,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Refresh the techspressionism.com menu (the strip at the top of every page)
-        # reads the public home page once; if that fails the copy already in the repository (data/wp-menu.json) is used
-        run: python3 scripts/refresh-wp-menu.py || echo "menu not refreshed; using the committed copy"
       - name: Build site + Pagefind index
         # this GitHub copy is the test site: it always asks search engines not to list it, even after techspressionism.com/archive/ is opened to them
         env:

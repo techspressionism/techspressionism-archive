@@ -271,96 +271,22 @@ def build_browse(corpus, active="", navigate=False, sid=""):
             f'<select id="browse-select{sid}"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
 
 
-def load_wp_menu():
-    """The techspressionism.com main menu (data/wp-menu.json, refreshed by scripts/refresh-wp-menu.py)."""
-    path = ROOT / "data" / "wp-menu.json"
-    return json.loads(path.read_text()).get("menu", []) if path.exists() else []
+HOME_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" '
+            'd="M12 3 2 12h3v8h5v-6h4v6h5v-8h3z"/></svg>')
 
 
 def build_wp_strip():
-    """The strip at the top of every page: a way back to techspressionism.com and, behind the hamburger, its main menu as a
-    full-screen flyout in the WordPress site's own look (black, pink links, red close)."""
-    def items(menu):
-        out = []
-        for it in menu:
-            sub = f'<ul>{items(it["children"])}</ul>' if it.get("children") else ""
-            out.append(f'<li><a href="{e(it["url"])}">{e(it["label"])}</a>{sub}</li>')
-        return "".join(out)
-    menu = load_wp_menu()
-    if not menu:
-        return ""
-    return ('<div class="wpstrip">'
-            '<button type="button" class="wptoggle" aria-controls="wpmenu" aria-expanded="false" aria-label="Open the Techspressionism menu"><i></i><i></i><i></i></button></div>\n'
-            f'<nav id="wpmenu" class="wpmenu" aria-label="Techspressionism.com" hidden>'
-            f'<button type="button" class="wpclose" aria-label="Close the menu"><i></i><i></i></button><ul>{items(menu)}</ul></nav>\n'
-            + WP_MENU_JS + "\n")
+    """A home button at the top right of every page: back to the main Techspressionism site."""
+    return (f'<div class="wpstrip"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
+            f'{HOME_SVG}<span>techspressionism.com</span></a></div>\n')
 
-
-WP_MENU_JS = """<script>
-(function () {
-  var t = document.querySelector('.wptoggle'), m = document.getElementById('wpmenu');
-  if (!t || !m) return;
-  var c = m.querySelector('.wpclose');
-  function set(open) {
-    m.hidden = !open; t.setAttribute('aria-expanded', String(open));
-    document.documentElement.classList.toggle('wp-open', open);
-    (open ? c : t).focus();
-  }
-  t.addEventListener('click', function () { set(true); });
-  c.addEventListener('click', function () { set(false); });
-  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !m.hidden) set(false); });
-  // Where the archive sits on techspressionism.com itself, the menu is refreshed from the live home page (at most once an hour per visitor);
-  // the menu printed into the page is what shows until then, and stays if the home page cannot be read. Only text and web addresses are taken.
-  function read(ul) {
-    return [].slice.call(ul.children).filter(function (li) { return li.tagName === 'LI'; }).map(function (li) {
-      var a = li.querySelector(':scope > a'), sub = li.querySelector(':scope > ul');
-      return { l: a ? a.textContent.trim() : '', u: a ? a.href : '', c: sub ? read(sub) : [] };
-    }).filter(function (x) { return x.l && /^https?:/.test(x.u); });
-  }
-  function build(list) {
-    var ul = document.createElement('ul');
-    list.forEach(function (it) {
-      var li = document.createElement('li'), a = document.createElement('a');
-      a.href = it.u; a.textContent = it.l; li.appendChild(a);
-      if (it.c && it.c.length) li.appendChild(build(it.c));
-      ul.appendChild(li);
-    });
-    return ul;
-  }
-  function apply(list) { var old = m.querySelector(':scope > ul'); if (list && list.length && old) m.replaceChild(build(list), old); }
-  if (location.hostname.replace(/^www[.]/, '') === 'techspressionism.com') {
-    var KEY = 'tvaWpMenu', now = Date.now(), cached = null;
-    try { cached = JSON.parse(localStorage.getItem(KEY)); } catch (e) {}
-    if (cached && cached.m && now - cached.t < 3600000) apply(cached.m);
-    else fetch('/', { credentials: 'omit' }).then(function (r) { return r.ok ? r.text() : Promise.reject(); }).then(function (html) {
-      var ul = new DOMParser().parseFromString(html, 'text/html').getElementById('menu-main-navgation'), list = ul ? read(ul) : [];
-      if (!list.length) return;
-      try { localStorage.setItem(KEY, JSON.stringify({ t: now, m: list })); } catch (e) {}
-      apply(list);
-    }).catch(function () {});
-  }
-})();
-</script>"""
 
 WP_MENU_CSS = """
-/* the strip that leads back to techspressionism.com, and its menu (the WordPress site's flyout look) */
+/* the home button at the top right of every page: back to techspressionism.com */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
-.wptoggle { display:none; flex-direction:column; justify-content:center; gap:5px; width:2.2rem; height:2rem; padding:0 .3rem; border:0; background:none; cursor:pointer; }
-.js .wptoggle { display:flex; }
-.wptoggle i { display:block; height:2px; background:#000; }
-.wptoggle:hover i { background:var(--accent); }
-.wpmenu { position:fixed; inset:0; z-index:1000; background:#000; overflow-y:auto; padding:5rem 1.5rem 3rem; }
-.wpmenu[hidden] { display:none; }
-.wpmenu ul { list-style:none; margin:0 auto; padding:0; max-width:30rem; text-align:center; }
-.wpmenu li { margin:0; padding:.5rem 0; }
-.wpmenu li ul { padding-top:.4rem; }
-.wpmenu a { font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:18px; line-height:1.3; color:#dd73cb; text-decoration:none; }
-.wpmenu a:hover, .wpmenu a:focus-visible { color:#fff; text-decoration:none; }
-.wpclose { position:absolute; top:1.1rem; right:1.6rem; width:2.2rem; height:2.2rem; padding:0; border:0; background:none; cursor:pointer; }
-.wpclose i { position:absolute; left:.1rem; right:.1rem; top:50%; height:2px; background:#f00; transform:rotate(45deg); }
-.wpclose i + i { transform:rotate(-45deg); }
-.wpclose:hover i, .wpclose:focus-visible i { background:#fff; }
-html.wp-open { overflow:hidden; }
+.wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:.85rem; line-height:1.4; color:var(--muted); text-decoration:none; }
+.wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
+.wphome svg { flex:none; }
 """
 
 
@@ -378,7 +304,7 @@ def build_header(corpus, active="", sid="", strip=True):
             '</div></header>')
 
 
-FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">'
+FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
 LISTED = []          # the people who have a page: those heard or named in the recordings
 PEOPLE = []          # people directory (data/people.json) with archive statistics, set in main()
 PERSON_BY_NORM = {}  # normalised name (or alias) -> person
@@ -634,6 +560,7 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   /* like Google, the whole block sits in the vertical middle of the page until a search or a category makes it longer */
   body.home:not(.searching):not(.browsing) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
   body.home:not(.searching):not(.browsing) main { padding-top:0; padding-bottom:0; }
+  body.home:not(.searching):not(.browsing) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
   body.home:not(.searching):not(.browsing) #search { margin:0; }
   body.home header.site { width:100%; }
   body.home.searching header.site .wrap, body.home.browsing header.site .wrap { padding-top:2.5rem; }
@@ -656,7 +583,7 @@ PAGE_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 </head>
@@ -1198,7 +1125,7 @@ INDEX_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
