@@ -11,7 +11,7 @@
 ## 2. Two plain-text sentences directly under the hero (add as a text block, not inside the video or slider)
 
 ```html
-<p class="ts-intro"><strong>Techspressionism</strong> is an artistic approach in which technology is utilized as a means to express emotional experience. It is also an international, self-identified community of artists, founded in 2020, that gathers in monthly online salons, exhibits in museums and galleries around the world, and keeps a free, searchable <a href="/archive/">video archive</a> of its conversations. <a href="/what-is-techspressionism/">What is Techspressionism?</a></p>
+<p class="ts-intro"><strong>Techspressionism</strong> is an artistic approach in which technology is utilized as a means to express emotional experience. It is also an international, self-identified community of artists, founded in 2020, that gathers in monthly online salons, exhibits in museums and galleries around the world, and keeps a free, searchable <a href="/archive/">video archive</a> of its conversations. <a href="/about/">What is Techspressionism?</a></p>
 ```
 
 ## 3. Key facts strip (a short list or a row of five small blocks, each a link)
@@ -37,6 +37,6 @@ Replace "Techspressionism is different from other art movements because membersh
 
 ## 5. Links to add
 
-- The MOVEMENT button on History (and any page that has it) points to /movement/, which is a 404: point it to /what-is-techspressionism/.
-- Footer, every page: "What is Techspressionism?" -> /what-is-techspressionism/.
+- The MOVEMENT button on History, Exhibitions and Press points to /movement/, which is a 404: add the Yoast redirect /movement/ -> /about/ (the existing "What is Techspressionism?" page).
+- Footer, every page: "What is Techspressionism?" -> /about/. Also consider a menu item (ABOUT) in the flyout menu.
 - History and Manifesto: a "See also: What is Techspressionism?" line.
