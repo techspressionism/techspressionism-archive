@@ -459,6 +459,22 @@
       ],
       "whole_word": true,
       "note": "surname alone, e.g. the Verostko collection at La Trobe University"
+    },
+    {
+      "canonical": "Cynthia Beth Rubin",
+      "category": "artist",
+      "known_asr_variants": [
+        "Cynthia Rubin",
+        "Cynthia B Rubin",
+        "Cynthia B. Rubin",
+        "C B Rubin",
+        "C. B. Rubin",
+        "C.B. Rubin",
+        "CB Rubin",
+        "Cindy Rubin"
+      ],
+      "whole_word": true,
+      "note": "her name is spelled several ways; always the full name (Colin, 20 September 2026)"
     }
   ]
 }

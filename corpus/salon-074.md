@@ -37,7 +37,7 @@ Hello, hello. I'm Renata Janiszewska coming to you from the village of Lion's He
 
 We have five points to base our discussion on. We hope to have adopted one of these, at least one of these, by the end of the meeting. And briefly I'm just going to give you the names of the five topics. They'll be explained by Michael, Lee, and after I finish. So the first would be tutorials, the second outreach, the third Insta hashtag, the fourth live things, meaning in real life exhibitions, and the fifth virtual things. And I'm glad to see that Tommy's here because I'm going to call on you if that's okay to explain Brooklyn 2024 when we get to the live, yeah, the in real life things.
 
-So without, oh yes, one more thing. We're going to have artists showing in between the five points. So I have five artists at the moment, starting with Anton in Russia, who's joining us for the very first time. Welcome. We have Deanne who's going to join us. And she's coming a bit late. She has an appointment. We may have Sahar. She has to go to another city, so we don't know. Then we have Cynthia Rubin.
+So without, oh yes, one more thing. We're going to have artists showing in between the five points. So I have five artists at the moment, starting with Anton in Russia, who's joining us for the very first time. Welcome. We have Deanne who's going to join us. And she's coming a bit late. She has an appointment. We may have Sahar. She has to go to another city, so we don't know. Then we have Cynthia Beth Rubin.
 
 Vivian from Greece may come. And then Susan Detroy, if we have time for her. So I'm going to hand it over to Michael to explain tutorials. And after he finishes that, we'll have presentation of artwork for five minutes by Anton. And I will be keeping time. So I'll warn you when there's one minute left.
 
@@ -97,7 +97,7 @@ I like the idea. Like one of the things that we were talking about before we men
 
 But I think that's a great idea and I'd love to chat with you about it afterwards. And Steven, you were raising your hand. Did you want to say something about it? Well, I'd like to participate. I'd be glad to be a third, either a co-curator or whatever role is needed. I don't have a lot of specialized knowledge, but part of what I'd be out to do is learn more. And, you know, participate fully.
 
-That's awesome. I think that's my time, right? Yeah. Thank you very much. If Michael wants to, if you could. Sorry. I think we should have another presentation. It's just that Sahar's not here. So Cynthia Beth Rubin could you present for us, please?
+That's awesome. I think that's my time, right? Yeah. Thank you very much. If Michael wants to, if you could. Sorry. I think we should have another presentation. It's just that Sahar's not here. So Cynthia Beth Rubin, could you present for us, please?
 
 ## Cynthia Beth Rubin [23:52](https://www.youtube.com/watch?v=IzL0mVtw8do&t=1432s)
 

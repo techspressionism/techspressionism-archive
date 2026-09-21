@@ -63,7 +63,7 @@ Depends how much time you have, I guess, to really read them. So, Bianca Castafi
 
 And just to finish off, somebody sent me this today. From the website Artnet. And you can now buy an NFT of the work of Hergé. And this piece that you're seeing here is an illustration. And it was sold in 2021 for $3.99. And now they are starting to take the digital works and putting them up for sale. And the NFT site that they're on sale with takes fiat. You can use your credit card to buy one of these.
 
-That's what I have for today. Thank you. Thank you. Thank you. Thank you. Thank you, Renata. Thanks so much. What platform is it out of curiosity? Is it on Nifty Gateway? No, it's not on Nifty Gateway. But I can definitely look it up and send you in the chat. The other thing I forgot to mention at the beginning was that Cynthia Rubin sent a link to us today of an essay that she wrote.
+That's what I have for today. Thank you. Thank you. Thank you. Thank you. Thank you, Renata. Thanks so much. What platform is it out of curiosity? Is it on Nifty Gateway? No, it's not on Nifty Gateway. But I can definitely look it up and send you in the chat. The other thing I forgot to mention at the beginning was that Cynthia Beth Rubin sent a link to us today of an essay that she wrote.
 
 And again, whenever I talk about my 10-year-old, I'm always thinking about my 10-year-old. So I always stress that these are an homage. They are quoting. I'm quoting literally from somebody's work. But it's because I love and respect his work so much that I feel that's why I call it an homage rather than an appropriation.
 

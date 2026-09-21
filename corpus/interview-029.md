@@ -1095,7 +1095,7 @@ We found Greg, and he was in our first real fake. Show. Cool.
 
 ## Colin Goldberg [52:20](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3140s)
 
-It's so funny how, like, you know, as… As time goes on with this project, with Techspressionism, I keep meeting people, like, of your generation, who are, you know, working with technology early on. And, like, all you guys know each other, and there's this whole, sort of, network of people, like Nina Sobell, or, Cynthia Rubin, you know, like, or Ants Fault, or, like, all you guys, sort of, like… Were somehow involved, like, within academia, because, like, back then, right, like, your average computer user isn't able to really make too much interesting stuff, comparatively to, like, if you're involved with an institution, then you have access to, like, the best toys, and… you know.
+It's so funny how, like, you know, as… As time goes on with this project, with Techspressionism, I keep meeting people, like, of your generation, who are, you know, working with technology early on. And, like, all you guys know each other, and there's this whole, sort of, network of people, like Nina Sobell, or, Cynthia Beth Rubin, you know, like, or Ants Fault, or, like, all you guys, sort of, like… Were somehow involved, like, within academia, because, like, back then, right, like, your average computer user isn't able to really make too much interesting stuff, comparatively to, like, if you're involved with an institution, then you have access to, like, the best toys, and… you know.
 
 ## Claudia Hart [53:03](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3183s)
 

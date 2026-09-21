@@ -38,7 +38,7 @@ flags:
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2s)
 
-Hello, everyone. My name is Colin Goldberg, and I'd like to welcome you to the 98th Techspressionist Salon. Today is September 4th, 2025, and the topic of today's salon is fidgetal. That's P-H-Y-G-I-T-A-L. Which is a portmanteau of the words physical and digital. I'll get a little bit more into that as far as a definition goes, in a moment, but before we get started on the presentations. I'd like to invite, Cynthia Rubin, to the floor. She has a couple announcements about the upcoming Techspressionism show in Uzbekistan. So, Cynthia, take it away.
+Hello, everyone. My name is Colin Goldberg, and I'd like to welcome you to the 98th Techspressionist Salon. Today is September 4th, 2025, and the topic of today's salon is fidgetal. That's P-H-Y-G-I-T-A-L. Which is a portmanteau of the words physical and digital. I'll get a little bit more into that as far as a definition goes, in a moment, but before we get started on the presentations. I'd like to invite, Cynthia Beth Rubin, to the floor. She has a couple announcements about the upcoming Techspressionism show in Uzbekistan. So, Cynthia, take it away.
 
 ## Cynthia Beth Rubin [00:48](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=48s)
 
