@@ -15,91 +15,145 @@ flags:
   - speaker_index_missing
 ---
 
-## Unattributed [00:04](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4s)
+## Roz Dimon [00:04](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4s)
 
 Thank you, Colin. Welcome everyone. I'm Roz Dimon, and welcome to fem tech salon as part of the Techspressionism digital and beyond exhibition at the Southampton Art Center that has now been extended through July 24. And if some of you don't know who weren't there. I heard we had 300 or more at the opening and it's really been an exciting exhibit so it's great that they're extending it. Before I introduce our artists well first I'll say a little about the process here. Each artist, we're going to be going in order of presentation kind of backwards alpha there 10 artists here, all who are in the Techspressionism digital and beyond show.
 
-And the each one of them will get five to 10 minutes. And then we'll get to the next one. And keeping it short is always great, but it's okay to go up to 10, because they're 10, and I will go at the end if there is time, but being the moderator I will do that, Colin is going to be the, the bad guy the whistleblower. So, at eight minutes. He's gonna like let you know that you only have two minutes left. Before I introduce our artists and please raise your hands, when I do. I have to say something myself today you know how reticent I am to talk. But, But, On this day. On this day.
+And the each one of them will get five to 10 minutes. And then we'll get to the next one. And keeping it short is always great, but it's okay to go up to 10, because they're 10, and I will go at the end if there is time,
+
+## Nina Sobell [00:59](https://www.youtube.com/watch?v=KyBLFghq4N0&t=59s)
+
+But
+
+## Roz Dimon [01:00](https://www.youtube.com/watch?v=KyBLFghq4N0&t=60s)
+
+Being the moderator I will do that, Colin is going to be the, the bad guy the whistleblower. So, at eight minutes. He's gonna like let you know that you only have two minutes left. Before I introduce our artists and please raise your hands, when I do. I have to say something myself today you know how reticent I am to talk. But, But, On this day. On this day.
 
 I just want to say that share a few words that I've written in a time of increasing divisiveness hatred domination and war. The feminine force has a lot to offer our world and our expanding universe. No reason to be exclusive here. A friend pointed out to me recently this past Mother's Mother's Day that you know we are all mothers. Anyone who has nurtured another child. A friend, a creature or a live being, including ourselves. Very important has within them some aspects of what I call that warrior like nurturing creative force and volcanic opening or openness. Yes, and opening. That is distinctly feminine. When applied to art and technology, this force can speak to the new and impactful enlightening expressive and connective. Ways that words simply can't. And I must say I find it what an interesting day to be having this fem tech salon where we celebrate that feminine spirit because at the same time we have our government trying to take women's rights away rather novel thing that's happening in our Constitution.
 
-At the same time we have Madonna and people have teamed up to make a pretty amazing NFT. It might have gotten some hot words but I personally think it's it's rather rocks. So, it's an exciting day. Thank you for being here. And I always welcome argument, not everybody has to agree with what I say or what other people say so that we're in an open world and that's that's a great safe place to be in this space and I want to thank you
+At the same time we have Madonna and people have teamed up to make a pretty amazing NFT. It might have gotten some hot words but I personally think it's it's rather rocks. So, it's an exciting day. Thank you for being here. And I always welcome argument, not everybody has to agree with what I say or what other people say so that we're in an open world and that's that's a great safe place to be in this space and I want to thank you all for joining us today. And I want to thank Colin, who of course is the person who's made a lot of all this happen and Davos not here but excited to be here. Please raise your hand as I call your name, by order of presentation.
 
-## Unattributed [03:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=189s)
-
-All for joining us today. And I want to thank Colin, who of course is the person who's made a lot of all this happen and Davos not here but excited to be here. Please raise your hand as I call your name, by order of presentation. I'm not going to be saying too much in between because we got to get going here. But I might just say a comment, and then go on to the next and we'll hold questions to the end of course feel free to check to be in the chat room but I think that's the fair way to proceed. So, first we have. So, first we have. Anne Spalter.
+I'm not going to be saying too much in between because we got to get going here. But I might just say a comment, and then go on to the next and we'll hold questions to the end of course feel free to check to be in the chat room but I think that's the fair way to proceed. So, first we have. So, first we have. Anne Spalter.
 
 Thank you Nina Sobell. Great to see you Cynthia Beth Rubin. Alright, Vernetta Lights. Karen LaFleur. Renata Janiszewska. Darcy Garbage. Najeen Estasabian. Najeen. I know that Giovanna alias Doug woman Giovanna son. It was beautiful piece we have to at least acknowledge that has been a great piece to lead this with. Thank you so much. And Cynthia D Donato.
 
-Great. That's great. We had to have a few people. We started with you had to unfortunately drop out but we're just so excited about this so without further ado, let's start with and Spalding. And then we have Walter who's going to share her screen. Thank you so much. And I'm giving a quick overview of my work, and then the sort of feminist Center Park, I will just talk about at the end.
+Great. That's great. We had to have a few people. We started with you had to unfortunately drop out but we're just so excited about this so without further ado, let's start with and Spalding. And then we have Walter who's going to share her screen. Thank you so much.
 
-This is a view of the work I have up in the show which is also my background. And. I'm sorry if it isn't working. And I've been in the art and technology intersection area forever and ever, starting at Brown and risky back in the 90s. When I also wrote this book when I was teaching there, which led to the beginning of our collecting digital art as well. And you'll see why that is relevant at the end. One of the focuses of the collection increasingly has been female digital artists, including Cynthia. Cynthia.
+## Anne Morgan Spalter [04:50](https://www.youtube.com/watch?v=KyBLFghq4N0&t=290s)
 
-Before the pandemic, I was focused on large scale installations like this one from spring break, and trying to combine analog and digital things together. This was right before the pandemic hit with these big inflatable spheres, based on. Basically frames from videos. Based on photographs that I had shot in my studio. And so I started to create these images that were kind of like a 간단ity.
+And I'm giving a quick overview of my work, and then the sort of feminist Center Park, I will just talk about at the end. This is a view of the work I have up in the show which is also my background. And. I'm sorry if it isn't working. And I've been in the art and technology intersection area forever and ever, starting at Brown and risky back in the 90s. When I also wrote this book when I was teaching there, which led to the beginning of our collecting digital art as well. And you'll see why that is relevant at the end. One of the focuses of the collection increasingly has been female digital artists, including Cynthia. Cynthia.
 
-## Unattributed [06:20](https://www.youtube.com/watch?v=KyBLFghq4N0&t=380s)
+Before the pandemic, I was focused on large scale installations like this one from spring break, and trying to combine analog and digital things together. This was right before the pandemic hit with these big inflatable spheres, based on. Basically frames from videos. Based on photographs that I had shot in my studio. And so I started to create these images that were kind of like a 간단ity. And then I started to create these images that were kind of like a wilted image set and kind of like a wilted image set. And then I started to create these images that were kind of like a mirror image set. Set and if not generating again in a process called a generative adversarial network and through that created these very wacky compositions that I really liked but were very low resolution and my solution to that was to create pastel drawings and those are the pieces that are in the show up the tech specialism show in southampton and definitely go check out that show if you haven't been or check out the 3d version that's online I'll skip over um style transfer another type of ai that I played around with and go right to these um custom pieces that try to have more of a narrative sense they're based on a process called text to image which is what it sounds like you literally type in a phrase and get back images it dips into a vast database called imagenet and finds images and then you can see the images based on the text that you send in and by working with the programmer we were able to change the image prompt as the animation was being developed so in this case changing from spring summer fall and winter to create these more narrative and cinematic pieces than what were possible with the no code platforms this piece I also worked with a musician so different types of motion in this as well so changing the whole feeling in the middle just by changing the textual prompts that we're using in
 
-And then I started to create these images that were kind of like a wilted image set and kind of like a wilted image set. And then I started to create these images that were kind of like a mirror image set. Set and if not generating again in a process called a generative adversarial network and through that created these very wacky compositions that I really liked but were very low resolution and my solution to that was to create pastel drawings and those are the pieces that are in the show up the tech specialism show in southampton and definitely go check out that show if you haven't been or check out the 3d version that's online I'll skip over um style transfer another type of ai that I played around with and go right to these um custom pieces that try to have more of a narrative sense they're based on a process called text to image which is what it sounds like you literally type in a phrase and get back images it dips into a vast database called imagenet and finds images and then you can see the images based on the text that you send in and by working with the programmer we were able to change the image prompt as the animation was being developed so in this case changing from spring summer fall and winter to create these more narrative and cinematic pieces than what were possible with the no code platforms this piece I also worked with a musician so different types of motion in this as well so changing the whole feeling in the middle just by changing the textual prompts that we're using in the music is what we're doing we're set on the sound of the music and we're only being able to use the sound of the music that's up in the record so it's not like that we're really getting that real world better it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that I had the honor of having this piece in an auction at Sotheby's and I was also a co-curator of the auction.
+## Unattributed [09:06](https://www.youtube.com/watch?v=KyBLFghq4N0&t=546s)
 
-## Unattributed [09:44](https://www.youtube.com/watch?v=KyBLFghq4N0&t=584s)
+The
 
-As has been the case with these auctions, it's one of a series of NFT auctions, all the highest prices did go to the male members of the auction. I don't know what to say about that. We put in half of the artists in our auction were female intentionally, which was wonderful. And several of them did set records, which was fantastic. And I got in the New York Times, which was great for me personally. I think it's still an issue that the male members get the highest prices, but I think the best thing is to keep putting women in the auctions and having them get higher and higher prices. In addition to AI, I began working with NFT. And there are many pros to them. Right now, the whole crypto market is in a crazy crisis, which I won't go into. So there's been a lot of pain in the space, but it's been mostly positive for me in terms of getting paid right away, finding a direct connection to collectors and getting royalties right away from pieces, which has been fantastic.
+## Cynthia Beth Rubin [09:07](https://www.youtube.com/watch?v=KyBLFghq4N0&t=547s)
 
-There are many bad actors in the space, however, with all sorts of... People losing their wallets and NFTs and getting hacked. And now with this problem with a supposedly stable coin losing its stability, crypto plunging in its value. But I think there are really between things like AI and NFTs, exciting new tools and markets that present new opportunities, especially for women. And as an example, even more exciting, I think, than my own, Vera Molnar, who's an artist, who we've collected in our collection for a long time. She turned 98 this year. In the Sotheby's auction, we had an older piece of hers from the 1970s that was a plotter drawing and she created her first NFT, which sold for her for a record price over $100,000 more than any other work she had sold before. And you can see how happy she was about it, creating this thing.
+Music
 
-And she was gleeful that she had gotten that price. And I just admired so much her... Her openness to doing an NFT, her excitement about it, and her incredible persistence in just doing her artwork against so many challenges that she's faced throughout her lifetime of creating digital art through years when no one had any interest in it. So I think she's just an amazing example for all of us to know about and be inspired by. And this is a list of a lot of AI resources. And also a guide to getting set up to make NFTs if anyone is interested. And all those links you can get from Scanning's QR code if anyone wants to try them.
+## Unattributed [09:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=549s)
+
+Is what we're doing we're set on the sound of the music and we're only being able to use the sound of the music that's up in the record so it's not like that we're really getting that real world better it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that
+
+## Anne Morgan Spalter [09:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=576s)
+
+I had the honor of having this piece in an auction at Sotheby's and I was also a co-curator of the auction. As has been the case with these auctions, it's one of a series of NFT auctions, all the highest prices did go to the male members of the auction. I don't know what to say about that. We put in half of the artists in our auction were female intentionally, which was wonderful. And several of them did set records, which was fantastic. And I got in the New York Times, which was great for me personally. I think it's still an issue that the male members get the highest prices, but I think the best thing is to keep putting women in the auctions and having them get higher and higher prices. In addition to AI, I began working with NFT. And there are many pros to them. Right now, the whole crypto market is in a crazy crisis, which I won't go into.
+
+So there's been a lot of pain in the space, but it's been mostly positive for me in terms of getting paid right away, finding a direct connection to collectors and getting royalties right away from pieces, which has been fantastic. There are many bad actors in the space, however, with all sorts of...
+
+People losing their wallets and NFTs and getting hacked. And now with this problem with a supposedly stable coin losing its stability, crypto plunging in its value. But I think there are really between things like AI and NFTs, exciting new tools and markets that present new opportunities, especially for women. And as an example, even more exciting, I think, than my own, Vera Molnar, who's an artist, who we've collected in our collection for a long time. She turned 98 this year. In the Sotheby's auction, we had an older piece of hers from the 1970s that was a plotter drawing and she created her first NFT, which sold for her for a record price over $100,000 more than any other work she had sold before. And you can see how happy she was about it, creating this thing. And she was gleeful that she had gotten that price.
+
+And I just admired so much her... Her openness to doing an NFT, her excitement about it, and her incredible persistence in just doing her artwork against so many challenges that she's faced throughout her lifetime of creating digital art through years when no one had any interest in it. So I think she's just an amazing example for all of us to know about and be inspired by. And this is a list of a lot of AI resources. And also a guide to getting set up to make NFTs if anyone is interested. And all those links you can get from Scanning's QR code if anyone wants to try them.
 
 That's the whirlwind tour of my artistic life, especially recently.
 
-## Unattributed [12:45](https://www.youtube.com/watch?v=KyBLFghq4N0&t=765s)
+## Roz Dimon [12:45](https://www.youtube.com/watch?v=KyBLFghq4N0&t=765s)
 
-And thank you so much. Did you want to add anything else or... No, I'm trying to be fast. And then if people have questions, they can ask them at the end. Thank you very much. I love the strangeness. I love the strangeness of your work, and especially in this new space that you're working in with AI. I find it fascinating and it speaks to a certain truth. Thank you so much. And you've been doing... Really making some headway out there as an artist and for other women. So it's been very inspiring. Thanks. Thanks for inviting me to do this and putting this whole thing together.
+And thank you so much. Did you want to add anything else or... No, I'm trying to be fast.
 
-You're welcome. Next, we're going to go on to Nina Sobell. Okay. I have something prepared. There's something else that if there's time, I want to show, but not sure. I would say save it to the end, Nina, because... Okay. All right. Let's go. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Oh, so you're going to go to Nina. Okay.
+## Anne Morgan Spalter [12:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=771s)
 
-You're going to go to Nina. Okay. So I'm going to go to Nina. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. With the feminist movement. Women's independence arising in the 60s gave way to thinking of and accessing technological tools, much like different colors on a palette. Men watched closely and often adapted and capitalized on innovations created by women. By the time I was 20, I was seeking collaboration on remote controlled sculptures and discovered experiments in art and technology, which encouraged women's participation.
+And then if people have questions, they can ask them at the end.
+
+## Roz Dimon [12:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=774s)
+
+Thank you very much. I love the strangeness. I love the strangeness of your work, and especially in this new space that you're working in with AI. I find it fascinating and it speaks to a certain truth. Thank you so much. And you've been doing... Really making some headway out there as an artist and for other women. So it's been very inspiring. Thanks. Thanks for inviting me to do this and putting this whole thing together.
+
+You're welcome. Next, we're going to go on to Nina Sobell. Okay.
+
+## Nina Sobell [13:33](https://www.youtube.com/watch?v=KyBLFghq4N0&t=813s)
+
+I have something prepared. There's something else that if there's time, I want to show, but not sure. I would say save it to the end, Nina, because... Okay. All right. Let's go. Okay.
+
+## Unattributed [13:56](https://www.youtube.com/watch?v=KyBLFghq4N0&t=836s)
+
+So I'm going to go to Nina. Okay.
+
+## Nina Sobell [14:01](https://www.youtube.com/watch?v=KyBLFghq4N0&t=841s)
+
+So I'm going to go to Nina. Oh, so you're going to go to Nina. Okay. You're going to go to Nina. Okay. So I'm going to go to Nina. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay. Okay. So I'm going to go to Nina. Okay. So I'm going to go to Nina. Okay.
+
+So I'm going to go to Nina. Okay. With the feminist movement. Women's independence arising in the 60s gave way to thinking of and accessing technological tools, much like different colors on a palette. Men watched closely and often adapted and capitalized on innovations created by women. By the time I was 20, I was seeking collaboration on remote controlled sculptures and discovered experiments in art and technology, which encouraged women's participation.
 
 With the advent of the PortaPak, video became available to everyone, and women claimed their territory. Computers, coding, and then the web opened up equal opportunities, such as the Code Show curated by you, Roz Dimon. When Emily Hartzell and I collaborated with NYU's Center for Advanced Technology as artists and residents. And then, I was able to work with the University of New York. And now, with the advent of Web3, women are fully entrenched in its development, which can no longer be denied. So in short, I am hopeful about the prospect of women's role in technology.
 
-And now, I will be showing you Persistent Visions, a video playing into expressionism, digital and beyond.
+And now, I will be showing you Persistent Visions, a video playing into expressionism, digital and beyond. Persistent Visions is an expressionistically submerged immersion of emotion, motioning expressions of time and memorial. Images move like falling mist across the sky, entering a vortex of spatial unknowns.
 
-## Unattributed [15:49](https://www.youtube.com/watch?v=KyBLFghq4N0&t=949s)
+Angelic figures emerge, beckoning us to experience their musings of beyond. Sensing a turbulent expansion of color. Abstracted forms. And expressive sounds. Fusing physical and digital realms.
 
-Persistent Visions is an expressionistically submerged immersion of emotion, motioning expressions of time and memorial. Images move like falling mist across the sky, entering a vortex of spatial unknowns. Angelic figures emerge, beckoning us to experience their musings of beyond. Sensing a turbulent expansion of color. Abstracted forms. And expressive sounds. Fusing physical and digital realms.
+## Unattributed [16:28](https://www.youtube.com/watch?v=KyBLFghq4N0&t=988s)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Unattributed [19:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1176s)
+## Nina Sobell [19:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1176s)
 
 Here's the remote control movable ceiling. EEG brainwaves drawings from 1973 in collaboration with Mike Trivich. And Virtualis, the first wireless telerobotic mobile webcam, developed in 1995 for the Code Show. Virtualis' key component was a wireless telerobotic webcam mounted on a chauffeured motorized chair with a tiny monitor which directed the drive. Users on the web or passersby could control its movement.
 
 Passersby used touchpads for control which were attached to the storefront window surrounding a monitor. It had a camera sewn into a card which fed back to the participants their image, superimposing that on the image of the interior space. Which made them move. It was withomstone. It was an image of the future. It was the past. It was the past. It was the face.
 
-It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. That's the end. Oh, thank you so much, Nina. I would ask that you hold your other piece to the end, if you would. Sure. Oh, thanks. Thank you so much. You know, looking, when we were watching your video, I was thinking of a term, a friend of mine who unfortunately recently died, but he didn't see it as death. He said he was entering the fifth dimension.
+It was the
 
-He was quite a guru in the early digital days, Michael Gosney. But I sometimes feel like looking at these pieces, and Anne's as well, dimension is an important word, because I believe that digital is leading us definitely into a new dimension. And if you can stop share, thank you, Nina. We'll go on to our next artist, Cynthia Beth Rubin.
+## Unattributed [20:48](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1248s)
 
-Okay, I'm gonna jump in here and share my screen. And I have chosen to just mostly focus on the pieces that are in the show right now. It's not often that I do that. I get to talk about particular pieces in depth. But I want to say thank you to everybody who's here and the history that I have with some of the people here.
+Past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past.
 
-## Unattributed [22:44](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1364s)
+## Nina Sobell [21:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1283s)
 
-Like, if you want to find out about my early work, read Anne Spalter book, where she actually talks about the piece that I had in the code show that Roz curated in 95. But the delight of this whole group is the new people. And I've had long, wonderful conversations offline with some of the new people. And I want to keep going with that. So I'm going to try to get through this pretty quickly. Here's a close up of Cobopod.
+That's the end.
 
-Actually, the full title of this is Cobopod in a Red Sea in Old Cairo. When I was pasting it into the form, I missed the whole rest of the title. And when I did my run through with the scientists yesterday, they said, No, you have to make sure it says Old Cairo. So that's, you know, this is the other piece that's in Plankton Universe. This is the piece that I had in the last Expressionist show online. And it's a really good one to show what I'm doing right now, which is this odd combination of an ancient Hebrew manuscript that was done in Cairo in 1008. So more than a thousand years ago. And Plankton that were collected by Jason Shadler at the University of Rhode Island, an undergrad student working with Pierre Americk, postdoc.
+## Roz Dimon [21:25](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1285s)
 
-And what I'm doing. And when I combined them, they immediately went together. I don't know why. I mean, I really don't know why they went together. But they fit visually and they fit conceptually. As one person said, the building blocks of life. It's Plankton without Plankton. We can't exist. Here's the piece that's actually behind me too. They produce up to they produce more than 50% of the oxygen that we need for our survival. And without the sense of humanity.
+Oh, thank you so much, Nina. I would ask that you hold your other piece to the end, if you would.
+
+## Nina Sobell [21:32](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1292s)
+
+Sure.
+
+## Roz Dimon [21:33](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1293s)
+
+Oh, thanks. Thank you so much. You know, looking, when we were watching your video, I was thinking of a term, a friend of mine who unfortunately recently died, but he didn't see it as death. He said he was entering the fifth dimension. He was quite a guru in the early digital days, Michael Gosney. But I sometimes feel like looking at these pieces, and Anne's as well, dimension is an important word, because I believe that digital is leading us definitely into a new dimension. And if you can stop share, thank you, Nina.
+
+We'll go on to our next artist, Cynthia Beth Rubin.
+
+## Cynthia Beth Rubin [22:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1336s)
+
+Okay, I'm gonna jump in here and share my screen. And I have chosen to just mostly focus on the pieces that are in the show right now. It's not often that I do that. I get to talk about particular pieces in depth. But I want to say thank you to everybody who's here and the history that I have with some of the people here. Like, if you want to find out about my early work, read Anne Spalter book, where she actually talks about the piece that I had in the code show that Roz curated in 95.
+
+But the delight of this whole group is the new people. And I've had long, wonderful conversations offline with some of the new people. And I want to keep going with that. So I'm going to try to get through this pretty quickly. Here's a close up of Cobopod. Actually, the full title of this is Cobopod in a Red Sea in Old Cairo. When I was pasting it into the form, I missed the whole rest of the title. And when I did my run through with the scientists yesterday, they said, No, you have to make sure it says Old Cairo. So that's, you know, this is the other piece that's in Plankton Universe. This is the piece that I had in the last Expressionist show online. And it's a really good one to show what I'm doing right now, which is this odd combination of an ancient Hebrew manuscript that was done in Cairo in 1008.
+
+So more than a thousand years ago. And Plankton that were collected by Jason Shadler at the University of Rhode Island, an undergrad student working with Pierre Americk, postdoc. And what I'm doing. And when I combined them, they immediately went together. I don't know why. I mean, I really don't know why they went together. But they fit visually and they fit conceptually. As one person said, the building blocks of life. It's Plankton without Plankton. We can't exist. Here's the piece that's actually behind me too. They produce up to they produce more than 50% of the oxygen that we need for our survival. And without the sense of humanity.
 
 They produce more than 50% of the oxygen that we need for our survival. And without the sense of humanity. They produce more than 50% of the oxygen that we need for our survival. And without the sense of humanity going on more than, you know, as a kind of continuum. I use the Hebrew manuscript as a stand in for that idea of the continuum of humanity.
 
 So I'm jumping ahead here to the beginnings of Plankton in the Red Sea, where I took a fragment of the manuscript and had some plankton on it. And that had a drawing of a cup of pod and I combine them and I came up with this image, which I really love. But as soon as I got there. I got the proofs from it. It was a problem. The proofs were very flat. The colors were very unprintable. When I put it into CYMK kind of more printable colors, it looked like this. So this became my torture.
 
-I told Colin would be in the show. I kept doing version after version of drawing on it. I loved on the right where I made the cup of pot a little fatter and threw some lines on it. But it really became very difficult. For me. I just started drawing on it. And for me, this was really this is what I arrived at in the end. Making it so that the lower corner really receded in space or was on a different plane.
+I told Colin would be in the show. I kept doing version after version of drawing on it. I loved on the right where I made the cup of pot a little fatter and threw some lines on it. But it really became very difficult. For me. I just started drawing on it. And for me, this was really this is what I arrived at in the end. Making it so that the lower corner really receded in space or was on a different plane. And it was really a lesson. And I love working on paper because of drawing back into it. But it has a lot of challenges in terms of output.
 
-## Unattributed [25:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1546s)
-
-And it was really a lesson. And I love working on paper because of drawing back into it. But it has a lot of challenges in terms of output. So just to step back for a second. My source. You probably are saying, well, you don't know that much about plankton. So I just thought I'd do a quick screen of some plankton to give you an idea of what I'm working with. And these ciliates that I absolutely love. Everybody loves ciliates. And here are my drawings of the ciliates. They're just great plankton and drawing of the diatom chains. And this is an early stage of plankton universe, which is the piece in the show. And I'm going to show you a little bit of the work. So I actually liked it in this state. It was larger. And I ripped the paper. Photographing it because I had output on cheap paper. And so it started to go through stages again.
+So just to step back for a second. My source. You probably are saying, well, you don't know that much about plankton. So I just thought I'd do a quick screen of some plankton to give you an idea of what I'm working with. And these ciliates that I absolutely love. Everybody loves ciliates. And here are my drawings of the ciliates. They're just great plankton and drawing of the diatom chains. And this is an early stage of plankton universe, which is the piece in the show. And I'm going to show you a little bit of the work. So I actually liked it in this state. It was larger. And I ripped the paper. Photographing it because I had output on cheap paper. And so it started to go through stages again.
 
 Drawing on it, photographing it. Reworking it. And all of these. I really like. I seem to be out here. And this is what. I came up with. It was on my website. This is a detail. And I think it's important to see the detail. Because you can see that in the in and out of the computer, which seems to be a theme with a lot of people. I love that my work is. That we're talking that and. Spalter talked about going in and out of the computer, but as we went around the night of the opening. The Wednesday when we did our virtual opening.
 
@@ -107,35 +161,69 @@ I heard so many people talk about in and out of the computer. So you can see, I 
 
 So here it is. This is the piece. I have it in a white border here because we'll love it when I break the border on paper. They just love it. So I did that with both the pieces. I don't know why. It's something that people want. Oh, now I know it's not just a print. So one of the things I also wanted to talk about quickly. Is presentation formats because here's some of my earlier work. That I printed very large. These were on vinyl and mounted. These people may have seen it creative tech week. They just rolled up. Like, you know, almost commercial signs. And they were body sized.
 
-And these were printed on. Fabric and hung in a show that I had. In new Haven a couple of years ago. I've spoken about this before. But for me. At this point, seeing the show. I am beginning to wonder about the. On paper framed for this particular show. So I just wanted to throw that out there.
+And these were printed on. Fabric and hung in a show that I had. In new Haven a couple of years ago. I've spoken about this before. But for me. At this point, seeing the show. I am beginning to wonder about the. On paper framed for this particular show. So I just wanted to throw that out there. As something to talk about when we have discussion time, I'm watching the clock. I want to thank all of these people who really contribute to my work. I'm the. This is the time.
 
-## Unattributed [28:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1727s)
-
-As something to talk about when we have discussion time, I'm watching the clock. I want to thank all of these people who really contribute to my work. I'm the. This is the time. And I'm just like, what I'm really doing. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time.
-
-And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. Online meetings since lockdown. And it's just been wonderful to get all of this feedback. And this is my contact, my website. So if you want to know more about my early work, you can get to that.
+And I'm just like, what I'm really doing. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. Online meetings since lockdown. And it's just been wonderful to get all of this feedback. And this is my contact, my website. So if you want to know more about my early work, you can get to that.
 
 And then I have one more quick slide, which is I think my latest piece, just to show where I'm going next. What I find interesting about this piece is that the plankton and the Hebrew alphabet, which by the way, I'm illiterate in Hebrew. So it's just kind of a stand in for history and culture. They start to look exactly the same. I mean, I don't get it. They're really different and they're really the same. So I think that I will leave you.
 
 I was having a little trouble stopping the screen share before. So I'm going to stop screen share. If I have two minutes left, which I think I do. One cool thing is that I just got my work printed on satin. So I'm going to get clothes made out of it. Just add that, that output can be anything. Okay.
 
-I think I'm done. And it looks like I made it in well under 10 minutes. Thank you, Cynthia. You know, how about one minute, if you want to say anything about, maybe you did, but the perspective of the idea of women working in art and technology. Oh yes, I totally, I made a note about that. And then I forgot. It doesn't have to be long, can't be, but I'd love to hear your thoughts. In fact, in the earlier talks that I gave with Techspressionists last year, which is online right now, I brought up what I was doing when I started.
+I think I'm done. And it looks like I made it in well under 10 minutes. Thank you,
 
-Way over here, you can see a painting. That I did that was shown in New York in 85, 85. Greg Little was there, but he's not on now. And I showed some digital work at the same time. And it was really interesting to me because becoming digital opened doors for me. I mean, people talk about women in digital, but in fact, when I was a painter, there were all these expectations because my source material was from nature.
+## Roz Dimon [30:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1851s)
 
-## Unattributed [31:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1911s)
+Cynthia. You know, how about one minute, if you want to say anything about, maybe you did, but the perspective of the idea of women working in art and technology.
 
-So that was a lot of work. And I think that's what I did. And that meant, and I was a woman, it couldn't possibly be serious. In fact, Bill Zimmer wrote in the New York Times that I did pleasant but ordinary paintings of flowers, but really exciting digital work. I think that was in the late 80s. And when you go back and look at that talk from last year and see them side by side, or go to my website and see some of the paintings, you'll see the paintings were not pleasant, but ordinary. The only thing that made them pleasant or ordinary was that I was a woman. So I have found the digital world, unfortunately, is closing a bit as it gets more acceptance. I mean, it's unfortunate. And from that perspective, in the 80s, it was wide open. You have a good idea. We don't care where you live. We don't care what your gender is.
+## Cynthia Beth Rubin [31:03](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1863s)
 
-We don't care what your color is. We don't care about anything. Good idea, we want you. And I love to expressionists because I think expressionists is carrying that idea forward as the rest of the art world may be closing the loop. So- Thank you, that's great. Great to hear that. Yeah, I guess also as women, as we evolve, we have to also be, you know, get used to criticism and I think we are, but I hear you. That gets into a whole mixed bag we can talk about later, but let's thank you so much. That was a wonderful presentation. Okay, thank you. It's funny how your pieces look almost spatial going into outer space or inner space. They seem to, there seems to be an analogy there, you know, that in and out, dimensional is different. That's really the point. Okay, we'll talk some more later. Thank you so much.
+Oh yes, I totally, I made a note about that. And then I forgot.
 
-Verneda Lights, so glad Vernada could be with us. Found your art very interesting at the show and I'll just say, yeah, I liked it when you said something y'all or something. I come from the South and I've heard that the South, y'all is now a cool word to use. I don't know if you've heard that Vernada, but the reason it is, it used to be very uncool, but now it's genderless. So y'all is the way, take it away. All right, thank you so much, Roz. It's my pleasure to be here with you this evening to give my take on women in tech. I can't hear it all. I don't know if anyone else can hear it. Anyone else is having trouble hearing? Little bit. If you can make it a little louder, Vernada, that'd be great. Okay, well, the volume is up, it's pumped all the way up, but can you hear me now? Yeah. Is that better?
+## Roz Dimon [31:07](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1867s)
 
-Yes, thank you. Okay, all right. I tend to be soft spoken sometimes. Well, it's my pleasure to be here this evening to give my presentation on fem tech and I'm going to get right to it.
+It doesn't have to be long, can't be, but I'd love to hear your thoughts.
 
-## Unattributed [34:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2094s)
+## Cynthia Beth Rubin [31:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1870s)
 
-Let's share the screen. Okay. I titled my presentation, We Still Have a Long Way to Go with Respect to Fem Tech. Remember that slogan from the late 20th century that said, you've come a long way, baby, to get where you've got to today? Well, I started reading about women in tech and I was somewhat discouraged by what I found and I will share some information with you.
+In fact, in the earlier talks that I gave with Techspressionists last year, which is online right now, I brought up what I was doing when I started. Way over here, you can see a painting. That I did that was shown in New York in 85, 85. Greg Little was there, but he's not on now. And I showed some digital work at the same time. And it was really interesting to me because becoming digital opened doors for me. I mean, people talk about women in digital, but in fact, when I was a painter, there were all these expectations because my source material was from nature. So that was a lot of work. And I think that's what I did. And that meant, and I was a woman, it couldn't possibly be serious. In fact, Bill Zimmer wrote in the New York Times that I did pleasant but ordinary paintings of flowers, but really exciting digital work.
+
+I think that was in the late 80s. And when you go back and look at that talk from last year and see them side by side, or go to my website and see some of the paintings, you'll see the paintings were not pleasant, but ordinary. The only thing that made them pleasant or ordinary was that I was a woman. So I have found the digital world, unfortunately, is closing a bit as it gets more acceptance. I mean, it's unfortunate. And from that perspective, in the 80s, it was wide open. You have a good idea. We don't care where you live. We don't care what your gender is. We don't care what your color is. We don't care about anything. Good idea, we want you. And I love to expressionists because I think expressionists is carrying that idea forward as the rest of the art world may be closing the loop.
+
+## Roz Dimon [33:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1985s)
+
+So- Thank you, that's great. Great to hear that. Yeah, I guess also as women, as we evolve, we have to also be, you know, get used to criticism and I think we are, but I hear you. That gets into a whole mixed bag we can talk about later, but let's thank you so much. That was a wonderful presentation. Okay, thank you. It's funny how your pieces look almost spatial going into outer space or inner space. They seem to, there seems to be an analogy there, you know, that in and out, dimensional is different.
+
+## Unattributed [33:39](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2019s)
+
+That's really the point.
+
+## Roz Dimon [33:40](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2020s)
+
+Okay, we'll talk some more later. Thank you so much. Verneda Lights, so glad Vernada could be with us. Found your art very interesting at the show and I'll just say, yeah, I liked it when you said something y'all or something. I come from the South and I've heard that the South, y'all is now a cool word to use. I don't know if you've heard that Vernada, but the reason it is, it used to be very uncool, but now it's genderless. So y'all is the way, take it away.
+
+## Verneda Lights [34:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2050s)
+
+All right, thank you so much, Roz. It's my pleasure to be here with you this evening to give my take on women in tech.
+
+## Anne Morgan Spalter [34:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2059s)
+
+I can't hear it all. I don't know if anyone else can hear it. Anyone else is having trouble hearing?
+
+## Roz Dimon [34:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2063s)
+
+Little bit. If you can make it a little louder, Vernada, that'd be great.
+
+## Verneda Lights [34:27](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2067s)
+
+Okay, well, the volume is up, it's pumped all the way up, but can you hear me now? Yeah. Is that better?
+
+## Cynthia Beth Rubin [34:34](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2074s)
+
+Yes, thank you.
+
+## Verneda Lights [34:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2076s)
+
+Okay, all right. I tend to be soft spoken sometimes. Well, it's my pleasure to be here this evening to give my presentation on fem tech and I'm going to get right to it. Let's share the screen. Okay. I titled my presentation, We Still Have a Long Way to Go with Respect to Fem Tech. Remember that slogan from the late 20th century that said, you've come a long way, baby, to get where you've got to today? Well, I started reading about women in tech and I was somewhat discouraged by what I found and I will share some information with you.
 
 So we, women in tech, are, in my opinion, bold, creative visionaries who succeed against the odds. There are so many ways that we've moved forward, but when I talk to you about the statistics, you can see how we've taken two steps forward and one step back. Here's some information, some data. In 1985, 37% of all computer science bachelors were women. But as of 2010, 2011, the number of female computer science bachelors had decreased.
 
@@ -143,111 +231,245 @@ So we have half as many women going into computer sciences now as we did in 1985
 
 Government has been That's pathetic. Only 19.2% of all fortune 500 CIO positions are held by women. As of 2022, only 19% of all leadership positions in tech are held by women. 50% of all U.S. Businesses are owned by women, yet only 2.3% of venture capital and women are globally went towards the funding of women-owned startups. That's appalling.
 
-Advancement for women in tech is difficult. We are three and a half times more likely to be at the age of 35 and older and still being kept in a junior position as compared with men. Less than 5% of men remain in junior positions after the age of 35.
+Advancement for women in tech is difficult. We are three and a half times more likely to be at the age of 35 and older and still being kept in a junior position as compared with men. Less than 5% of men remain in junior positions after the age of 35. The tech sector also ranks low in diversity, equity, and inclusion.
 
-## Unattributed [37:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2274s)
+And in 2020, this is the breakdown. The 2020 tech workforce had the following racial breakdown for women among women employees. 14.8% of women in the tech sector were men. 9.1% were white. 9.6% were Asian. 2.2% were Black. 1.7% were Latin. The lower income and limited chances for advancement takes its toll on women in tech health-wise and in terms of work-life balance because women are twice as likely to quit the tech workforce before the age of 35.
 
-The tech sector also ranks low in diversity, equity, and inclusion. And in 2020, this is the breakdown. The 2020 tech workforce had the following racial breakdown for women among women employees. 14.8% of women in the tech sector were men. 9.1% were white. 9.6% were Asian. 2.2% were Black. 1.7% were Latin.
+Women are three times more likely to experience burnout than their male peers and three times more likely to experience burnout. So why are we having all these difficulties is a cultural thing. And I don't know why it persists because women in leadership roles is good for business. Fortune 500 companies with at least three women in leading positions saw a whopping 66% increase in their return on investment.
 
-The lower income and limited chances for advancement takes its toll on women in tech health-wise and in terms of work-life balance because women are twice as likely to quit the tech workforce before the age of 35. Women are three times more likely to experience burnout than their male peers and three times more likely to experience burnout.
+So women bring different perspectives and different perspectives make for better problem solving capability, increased yields to greater degrees of innovation and innovation means profit. It means that you exceed over your competition. So I got these facts from a site called techjury.Net and I can put the link in the chat for those who want to read more about it.
 
-So why are we having all these difficulties is a cultural thing. And I don't know why it persists because women in leadership roles is good for business. Fortune 500 companies with at least three women in leading positions saw a whopping 66% increase in their return on investment. So women bring different perspectives and different perspectives make for better problem solving capability, increased yields to greater degrees of innovation and innovation means profit. It means that you exceed over your competition.
+So to talk a little bit about myself, I came into the art sphere and the tech sphere through medicine. My undergraduate studies were completed in 1974. I went to Bryn Mawr College which champions women's rights and women in education. I went to Bryn Mawr College which champions women's rights and women in education. I first started my education in all realms of the public sphere.
 
-So I got these facts from a site called techjury.Net and I can put the link in the chat for those who want to read more about it. So to talk a little bit about myself, I came into the art sphere and the tech sphere through medicine. My undergraduate studies were completed in 1974. I went to Bryn Mawr College which champions women's rights and women in education. I went to Bryn Mawr College which champions women's rights and women in education. I first started my education in all realms of the public sphere.
+I published a book of poetry while in undergrad and I was mentored by Audre Lorde. My M.D. Degree was obtained in 1978 from the University of Pennsylvania Perelman School of Medicine. And I continued my poetry performances while in medical school. It was how I paid for my medical books, which cost, you know, a lot of money. Money. They're very expensive. I obtained my MBA in 2010 from Strayer University. I had to do it remotely. And my initial arts identity is that of a performance poet. My first book of poetry, Dog Moon, was published by Sunbury Press in 1976.
 
-I published a book of poetry while in undergrad and I was mentored by Audre Lorde. My M.D. Degree was obtained in 1978 from the University of Pennsylvania Perelman School of Medicine. And I continued my poetry performances while in medical school. It was how I paid for my medical books, which cost, you know, a lot of money. Money. They're very expensive. I obtained my MBA in 2010 from Strayer University. I had to do it remotely.
-
-## Unattributed [40:55](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2455s)
-
-And my initial arts identity is that of a performance poet. My first book of poetry, Dog Moon, was published by Sunbury Press in 1976. And Dog Moon is still available on amazon.Com and it is included in rare book collections concerning the small press movement at Emory University. I segued into visual art in 2000 and by 2003 was a finalist in the Boston Cyber Arts Festival and had work included in the field of vision New York City, the commemoration of 9-11.
+And Dog Moon is still available on amazon.Com and it is included in rare book collections concerning the small press movement at Emory University. I segued into visual art in 2000 and by 2003 was a finalist in the Boston Cyber Arts Festival and had work included in the field of vision New York City, the commemoration of 9-11.
 
 My mantra is art is a medicine. And medicine is an art. And here you see a picture of me back in the day when I was a physician poet. And this comes from the 500 Women Scientists website. This year for Women's History Month they called biographies from women in STEM fields from across the globe. And my biography was included. And for the first time I see they've included the art alongside the medicine which is something I fought very hard for throughout my career. And it says here that She's the retired physician from the Deep South. She's also a published poet who performed as a spoken word artist through most of her medical career. Now she's an Afro surreal Afrofuturist Techspressionist and Gala visual artist who documents the daily life of women with disabilities and of her people, the Gullah Geechee Nation of the South Carolina Lowcountry, who are in danger of cultural extinction.
 
-That's two minutes remaining for Neda. Okay. So here we have the Techspressionist exhibit going on right now. And a photo from Giovanna's son, who was kind enough to take the picture. And this is my piece titled Falling. And Falling is a photo montage that combines my self-portrait alongside the composite photos of the Cassini-Wiegand spacecraft that it took upon its descent to Titan. I merged the two in an effort to communicate to the audience what anxiety feels like. When you're in a caregiver situation here, we have the example of art is medicine and medicine is an art. Here it's used as therapy, art therapy, to deal with the stresses of caregiving.
+## Colin Goldberg [42:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2571s)
+
+That's two minutes remaining for Neda. Okay.
+
+## Verneda Lights [42:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2574s)
+
+So here we have the Techspressionist exhibit going on right now. And a photo from Giovanna's son, who was kind enough to take the picture. And this is my piece titled Falling. And Falling is a photo montage that combines my self-portrait alongside the composite photos of the Cassini-Wiegand spacecraft that it took upon its descent to Titan. I merged the two in an effort to communicate to the audience what anxiety feels like. When you're in a caregiver situation here, we have the example of art is medicine and medicine is an art. Here it's used as therapy, art therapy, to deal with the stresses of caregiving.
 
 And I'll stop right there.
 
-## Unattributed [43:58](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2638s)
+## Roz Dimon [43:58](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2638s)
 
-Thank you, Vernetta. What an interesting background with the poetry as well and medical. It's an interesting alliance. Thank you so much. You're welcome. Do you know how to stop the share? Yes. Okay, let's go forward. Karen LaFleur. Hi, everyone. Let me share my screen here. Well, well, well, where is it?
+Thank you, Vernetta. What an interesting background with the poetry as well and medical. It's an interesting alliance. Thank you so much.
 
-Oh, I seem to have lost my screen share. Hang on for a second. I'm so sorry about that. That's okay. Yeah. Should be there. Vernetta, go ahead. Are you doing all right there, Karen? Yeah, I'm doing fine. I'm doing fine. You just went to sleep. My computer, not me. Let me play this and the sound should be okay. I'm going to start tonight with the piece that I have in the Southampton Art Center Techspressionism and Digital and Beyond exhibit. This is the piece that's on view. The animation contains the visuals. But the original piece also contained the music. I work with a musician on all my animations. This is an original composition of hers, and it's her performance.
+## Verneda Lights [44:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2649s)
+
+You're welcome.
+
+## Roz Dimon [44:11](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2651s)
+
+Do you know how to stop the share?
+
+## Verneda Lights [44:14](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2654s)
+
+Yes.
+
+## Roz Dimon [44:18](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2658s)
+
+Okay, let's go forward. Karen LaFleur.
+
+## Karen LaFleur [44:24](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2664s)
+
+Hi, everyone. Let me share my screen here. Well, well, well, where is it? Oh, I seem to have lost my screen share. Hang on for a second. I'm so sorry about that.
+
+## Roz Dimon [44:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2686s)
+
+That's okay.
+
+## Karen LaFleur [44:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2687s)
+
+Yeah. Should be there.
+
+## Roz Dimon [45:03](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2703s)
+
+Vernetta, go ahead. Are you doing all right there, Karen? Yeah, I'm doing fine. I'm doing fine.
+
+## Karen LaFleur [45:11](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2711s)
+
+You just went to sleep. My computer, not me. Let me play this and the sound should be okay. I'm going to start tonight with the piece that I have in the Southampton Art Center Techspressionism and Digital and Beyond exhibit. This is the piece that's on view. The animation contains the visuals. But the original piece also contained the music. I work with a musician on all my animations. This is an original composition of hers, and it's her performance.
 
 The piece, Flora's Dance, which is this animation you see, is about hope. And during the pandemic, I was thinking of all the hopes we had, even though we were sheltering in our own little places. And then I started to think of that worldwide. And I realized that we were not in the power of that worldwide hope. So this is Flora's Dance.
 
-Flora's Dance Flora's Dance Flora's Dance So we were asked tonight to talk about three rather large topics, our artwork, women in technology and expressionism in less than 10 minutes.
+## Unattributed [46:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2807s)
 
-## Unattributed [47:30](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2850s)
+Flora's Dance Flora's Dance Flora's Dance
 
-So I'm going to narrow my focus down to communication because it's really important to me having come through some communication difficulties as a child and through adulthood. In general conversation for me is difficult. So the computer has allowed a communication tool that they didn't have in the pre-digital days. And previously I had a lot of medical issues that the technology brought me through. It brought me through my dyslexia. And now it's an integral part of my creative artwork since the early 80s.
+## Karen LaFleur [47:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2839s)
 
-So communication is a big key factor going digitally for me. So the consequence of having these inabilities to communicate when I was younger is that I ended up fine tuning observation and studying community dynamics. The piece that you see here is called Tidal Pool Diary. And what I did was over an eight month period, I would visit this one tidal pool in the beach near me and I wouldn't do anything. I just observe who was there, what was happening, how much water, had the whole pool shifted across the beach, things like that. And then I would go home to my studio and I would create these square panels of which there are a lot more than me. So that's what I did. But once I started to put them together, I realized that observation was also a conversation. And so each piece was communicating with me and overall we had a group conversation.
+So we were asked tonight to talk about three rather large topics, our artwork, women in technology and expressionism in less than 10 minutes. So I'm going to narrow my focus down to communication because it's really important to me having come through some communication difficulties as a child and through adulthood. In general conversation for me is difficult.
+
+So the computer has allowed a communication tool that they didn't have in the pre-digital days. And previously I had a lot of medical issues that the technology brought me through. It brought me through my dyslexia. And now it's an integral part of my creative artwork since the early 80s. So communication is a big key factor going digitally for me.
+
+So the consequence of having these inabilities to communicate when I was younger is that I ended up fine tuning observation and studying community dynamics. The piece that you see here is called Tidal Pool Diary. And what I did was over an eight month period, I would visit this one tidal pool in the beach near me and I wouldn't do anything. I just observe who was there, what was happening, how much water, had the whole pool shifted across the beach, things like that. And then I would go home to my studio and I would create these square panels of which there are a lot more than me. So that's what I did. But once I started to put them together, I realized that observation was also a conversation. And so each piece was communicating with me and overall we had a group conversation.
 
 So I find that technology levels the communication field for me because even between the genders, because it's kind of like having a puppy. You go out for a walk and suddenly you're talking with your neighbor and you're having a conversation. And so it gave me sort of a common denominator to have that platform.
 
-And a lot of women struggle with that sometimes in a multiple gender conversational group that they'll step back and observe more rather than jump into the conversation. But when the computer is present, I find anyways, from my experience, the conversation just opens up. So to recap, before I go forward, my artwork deals with the synergy of interior and exterior worlds. And that can be what you say to yourself and how you present yourself to the world. It can be between environments. It can be between abstract forms on the screen. And I do this by tapping into this heightened power of observation and community dynamics.
+And a lot of women struggle with that sometimes in a multiple gender conversational group that they'll step back and observe more rather than jump into the conversation. But when the computer is present, I find anyways, from my experience, the conversation just opens up. So to recap, before I go forward, my artwork deals with the synergy of interior and exterior worlds. And that can be what you say to yourself and how you present yourself to the world. It can be between environments. It can be between abstract forms on the screen. And I do this by tapping into this heightened power of observation and community dynamics. And I think that's what I'm trying to do.
 
-## Unattributed [50:34](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3034s)
-
-And I think that's what I'm trying to do. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for.
+I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for.
 
 I'm still looking for what I'm looking for. Express what I can imagine is going on underneath the soil. All these conversations that are happening that I couldn't express in traditional mediums because of physical disabilities and things like this. So again, it's a huge communication tool for me, not only in my artwork, but speaking with everybody.
 
 That's everybody gender worldwide. It's opened up huge doors for me. So whether my artwork is organic or mechanical. As you can see here in these examples, it still speaks to community. It still speaks to the individual parts that are working in unison with other parts to create a holistic whole, so to speak.
 
-And in doing so, I find that we as artists tend to express ourselves through the computer. We end up doing it. We end up creating our own universes. These universes move. They have sound. They have light. They can spin around their perspective. Go 3D. Go virtual. Wherever. Wherever. And I'm finding that level of conversation between creative artists on technology is opening up bigger and bigger as the technology pushes us out further into different creative fields. That's two minutes, Karen. Thank you. Thank you. Just about finished. So I find that as a woman artist, it gives me an equal footing in the conversation of art and expressionism as a term and as a concept with its focus on the artistic human expression rather than a particular style or sensibility.
+And in doing so, I find that we as artists tend to express ourselves through the computer. We end up doing it. We end up creating our own universes. These universes move. They have sound. They have light. They can spin around their perspective. Go 3D. Go virtual. Wherever. Wherever. And I'm finding that level of conversation between creative artists on technology is opening up bigger and bigger as the technology pushes us out further into different creative fields.
 
-It ends up giving... It ends up turning the focus onto a common conversation point that all of us can come together on. So that's my presentation. Thank you so much.
+## Colin Goldberg [52:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3166s)
 
-## Unattributed [53:35](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3215s)
+That's two minutes, Karen.
 
-These are all fascinating and wow, there is a pervasive story that runs through it that we can all relate to. Men certainly as artists deal with difficulties. But reading in the chat, someone had written while listening to you as well, I think it was Holly Gordon, about things where... When things are done behind curtains and there is no gender, people aren't identified, that often women do much better than would be expected. And yet I do love what I hear a lot of people saying here. And that is that, you know, as women, we bring something different to the table. Absolutely. So, you know, I personally feel I'm not trying to be a man and I feel what we're offering is so necessary to the sustenance of the universe. So thank you. Our next presenter is Renata Janiszewska.
+## Karen LaFleur [52:48](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3168s)
 
-Oh, you're muted, Renata. Hello. Thank you, Roz. My name is Renata Janiszewska. And I'm really pleased to have been invited to this panel. I'm so honored to be part of such a distinguished group of artists. I'm going to share my screen. This is the Imperial Air. You could say that it's the poster child for expressionism, digital and beyond.
+Thank you. Thank you. Just about finished. So I find that as a woman artist, it gives me an equal footing in the conversation of art and expressionism as a term and as a concept with its focus on the artistic human expression rather than a particular style or sensibility. It ends up giving... It ends up turning the focus onto a common conversation point that all of us can come together on. So that's my presentation.
+
+## Roz Dimon [53:31](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3211s)
+
+Thank you so much. These are all fascinating and wow, there is a pervasive story that runs through it that we can all relate to. Men certainly as artists deal with difficulties. But reading in the chat, someone had written while listening to you as well, I think it was Holly Gordon, about things where... When things are done behind curtains and there is no gender, people aren't identified, that often women do much better than would be expected. And yet I do love what I hear a lot of people saying here. And that is that, you know, as women, we bring something different to the table. Absolutely. So, you know, I personally feel I'm not trying to be a man and I feel what we're offering is so necessary to the sustenance of the universe. So thank you. Our next presenter is Renata Janiszewska.
+
+Oh, you're muted, Renata.
+
+## Renata Janiszewska [54:32](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3272s)
+
+Hello. Thank you, Roz. My name is Renata Janiszewska. And I'm really pleased to have been invited to this panel. I'm so honored to be part of such a distinguished group of artists. I'm going to share my screen. This is the Imperial Air. You could say that it's the poster child for expressionism, digital and beyond.
 
 This work has been described by one critic as falling somewhere on the spectrum between beauty and terror. And it's part of a series of works that I did last spring. Where I created large, biomorphic, giant, shapes using an AI program. And I used my own custom brushes to decorate the shapes. And I used a lot of diagonal emphasis with these compositions.
 
-I was in particular thinking of the work of Gericault, the French 19th century painter who, his best known work was The Raft of the Medusa. Where it's an enormous painting. And when you look at it, it's a painting of a man. But when you're working in the digital realm, you can expand space in a very interesting way. So when I conceived of these works, I conceived of them as heroic tableaux that were not on this Earth. So I used skyscapes to put the shapes in. And the colors of the sky were unearthly and
-
-## Unattributed [56:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3396s)
-
-I also added usually clouds to give some depth to the composition and also to give some texture if you are interested to see how I create the shapes Cynthia Beth Rubin and I spoke in july of 2021 and I gave a demonstration of this of the software and the steps that I take to create these particular elements it's on the expressionism youtube channel and the thing I said at that time to myself was I wanted to increase the density and complexity of my work so this is a piece that was done in february of 2021 and it has the elements again the same shapes that I create but they have the ones on the right hand side have an intended shimmer and I used custom brushes for the whole of this painting as well and what I did was I I also used a lot of the same colors that I used for the background and I used a still frame from one of my animations as a background to to anchor the composition too I've been making animations since february of 2021 and I've progressed a great deal in that time period I I really enjoy making my paintings come alive and I also make animations solely that are really and then just not all of that as for me for me it's not like it's not so much that when I'm doing that work it's not not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's or believe it or not, putting icing on top of a cupcake.
+I was in particular thinking of the work of Gericault, the French 19th century painter who, his best known work was The Raft of the Medusa. Where it's an enormous painting. And when you look at it, it's a painting of a man. But when you're working in the digital realm, you can expand space in a very interesting way. So when I conceived of these works, I conceived of them as heroic tableaux that were not on this Earth. So I used skyscapes to put the shapes in. And the colors of the sky were unearthly and I also added usually clouds to give some depth to the composition and also to give some texture if you are interested to see how I create the shapes Cynthia Beth Rubin and I spoke in july of 2021 and I gave a demonstration of this of the software and the steps that I take to create these particular elements it's on the expressionism youtube channel and the thing I said at that time to myself was I wanted to increase the density and complexity of my work so this is a piece that was done in february of 2021 and it has the elements again the same shapes that I create but they have the ones on the right hand side have an intended shimmer and I used custom brushes for the whole of this painting as well and what I did was I I also used a lot of the same colors that I used for the background and I used a still frame from one of my animations as a background to to anchor the composition too I've been making animations since february of 2021 and I've progressed a great deal in that time period I I really enjoy making my paintings come alive and I also make animations solely that are really and then just not all of that as for me for me it's not like it's not so much that when I'm doing that work it's not not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's not so much that when I'm doing that work it's or believe it or not, putting icing on top of a cupcake.
 
 So there's a domestic quality to some of the work that I do for me. As a child, I was taught embroidery and I had to do petty point until I couldn't stand it anymore. It felt like a form of torture, but now I find myself enjoying those kinds of work where it's quite labor intensive and you enter into the flow state while you're working on the pieces.
 
-Again, I wanna say thank you to Roz for creating this event.
+Again, I wanna say thank you to Roz for creating this event. And if you have any questions, I'd be happy to answer them during the Q&A session.
 
-## Unattributed [59:40](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3580s)
+## Roz Dimon [59:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3587s)
 
-And if you have any questions, I'd be happy to answer them during the Q&A session. Thank you so much, Renata. I really appreciated your emphasis on process. Gets into the whole means to the end and I think that's somehow also equated with the feminine. Thank you. Darcy Garbage. Oh, did you? Hi Roz, it's actually Darcy Garbag. Oh, well that would help to know, is everybody seeing a full screen when they're seeing the artist present?
+Thank you so much, Renata. I really appreciated your emphasis on process. Gets into the whole means to the end and I think that's somehow also equated with the feminine. Thank you. Darcy Garbage. Oh, did you?
 
-Yeah, good. Okay, maybe it's just me. I might learn how to say your name after all these years, but I think there's really Darcy. Absolutely. Sorry about that. I'm Darcy Garbag, an artist who straddles two... I don't think you're seeing this. Let me try this again. Yes, but it's not working. If it's highlighted in green. Share screen. And then click share.
+## Darcy Gerbarg [01:00:08](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3608s)
 
-Okay, it's highlighted in green. It's not showing. No, click. The worlds, the art world and the computer world. My work is a record of my use of digital technology for making art as the technology is developed. I'm fascinated by visual complexity that incorporates real and virtual objects captured as a painting on a two dimensional picture plane or experienced in a fully immersive 3D VR world. While my images may have first appeared of elements reminiscent of more traditional abstract still life or landscape painting. Further study reveals unexpected visual turns. The paintings have a new palette and feel the space in a new complex multi-dimensional way, resulting in an updated aesthetic. My approach is formalist. I focus on the tools and work intuitively without a predetermined image in mind.
+Hi Roz, it's actually Darcy Garbag.
 
-I work digitally much the same way as I used to work in acrylic on large canvases. One color, one brushstroke. One image at a time. I use digital tools in each stage of my creative process, including putting the final image on canvas. But all the creativity comes from me. I paint in a fully immersive three dimensional virtual world with colored light, creating large 3D VR colored light sculptures all around myself, taking snapshot crop pictures from many angles.
+## Roz Dimon [01:00:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3610s)
 
-## Unattributed [01:02:44](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3764s)
+Oh, well that would help to know, is everybody seeing a full screen when they're seeing the artist present? Yeah, good. Okay, maybe it's just me. I might learn how to say your name after all these years, but I think there's really Darcy.
 
-Sometimes I take one of these 3D colored light sculptures as an alternative reality object and place it in a real world. Then I take snapshot crop pictures of this mixed reality. When I started using digital color tools, color printers and Adobe software didn't exist. I wanted to paint in 3D years before the technology was able to do it. Today I can describe my work as digital from end to end.
+## Darcy Gerbarg [01:00:27](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3627s)
 
-You don't have to stop sharing. All right? OK. Darcy, that was a beautiful presentation. Do you want to say anything more? I have one more. Hold on. They're both very short. OK. Go to right side here. I love supportive men. That's a great thing. I have serious technical support here. This is the piece that I have in the exhibition.
+Absolutely.
 
-I have a lot of this material on my website. These are some examples of exhibitions that my work has been in. Most of these are in the room. This is the one on the left. This is the one on the left. This is the one on the left. This is the one on the left. This is just work in the last few years. This is what I will be doing a couple of exhibitions later this summer. Thank you.
+## Roz Dimon [01:00:27](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3627s)
 
-Thank you. I'm showing paintings on canvas with AR enhancements. Thank you. Thank you so much. Yes, we can do.
+Sorry about that.
 
-## Unattributed [01:05:44](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3944s)
+## Darcy Gerbarg [01:00:43](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3643s)
 
-Even though most of you are muted. It's fine to clap. These have been really wonderful. It's interesting that women were actually called computers in the early days of NASA. All the people in the back room were women and they were called computers. To see what women are really doing right now is pretty awesome.
+I'm Darcy Garbag, an artist who straddles two... I don't think you're seeing this. Let me try this again. Yes, but it's not working.
 
-Nagin, coming to us from, where are you, Nagin? Are you in Saudi Arabia? Hi. Iran. Iran's too. Thank you for being here. Thank you. So I started technology and art. Let me share my screen. Are you seeing my screen? Yes? Yes. Okay. So if art wants to be original, it should be honest. And if art wants to be honest, it should come from our reality. The real life we are living. So when the contemporary time is changing, the reality of our life is also changing. So they say we make tools, then the tools create us. Or when they say you change the technology around the person and the person change. So these days, we have no other way to live with technology. And it's not like we use technology as a tool to perceive things in life or communicate. Or it's not just social media. It's actually the way we see the world.
+## Unattributed [01:01:08](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3668s)
 
-So it's, as they say, it reveals the world to us. So it's not only we use technology, but technology kind of poses us with the way it describes our worlds these days. So. We live with this technology. The pace of our life gets faster and faster. And we cannot, we can no longer have the luxury of free time or not multitasking.
+If it's highlighted in green.
 
-And that's why actually once I was reading something in New York Times that it was about why this old media gets boring to the new generation. And they cannot wait to watch it. And I was like, oh, my God. A lot of times I watch videos or even some films.
+## Darcy Gerbarg [01:01:11](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3671s)
 
-## Unattributed [01:08:49](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4129s)
+Share screen.
+
+## Unattributed [01:01:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3672s)
+
+And then click
+
+## Darcy Gerbarg [01:01:14](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3674s)
+
+Share.
+
+## Unattributed [01:01:18](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3678s)
+
+Okay, it's highlighted in green.
+
+## Darcy Gerbarg [01:01:24](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3684s)
+
+It's not showing.
+
+## Unattributed [01:01:25](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3685s)
+
+No, click.
+
+## Darcy Gerbarg [01:01:26](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3686s)
+
+The worlds, the art world and the computer world. My work is a record of my use of digital technology for making art as the technology is developed. I'm fascinated by visual complexity that incorporates real and virtual objects captured as a painting on a two dimensional picture plane or experienced in a fully immersive 3D VR world. While my images may have first appeared of elements reminiscent of more traditional abstract still life or landscape painting. Further study reveals unexpected visual turns. The paintings have a new palette and feel the space in a new complex multi-dimensional way, resulting in an updated aesthetic. My approach is formalist. I focus on the tools and work intuitively without a predetermined image in mind. I work digitally much the same way as I used to work in acrylic on large canvases.
+
+One color, one brushstroke. One image at a time. I use digital tools in each stage of my creative process, including putting the final image on canvas. But all the creativity comes from me. I paint in a fully immersive three dimensional virtual world with colored light, creating large 3D VR colored light sculptures all around myself, taking snapshot crop pictures from many angles. Sometimes I take one of these 3D colored light sculptures as an alternative reality object and place it in a real world. Then I take snapshot crop pictures of this mixed reality. When I started using digital color tools, color printers and Adobe software didn't exist. I wanted to paint in 3D years before the technology was able to do it. Today I can describe my work as digital from end to end.
+
+## Unattributed [01:03:20](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3800s)
+
+You don't have to stop sharing. All right? OK.
+
+## Roz Dimon [01:03:26](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3806s)
+
+Darcy, that was a beautiful presentation. Do you want to say anything more?
+
+## Darcy Gerbarg [01:03:30](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3810s)
+
+I have one more. Hold on. They're both very short.
+
+## Unattributed [01:03:41](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3821s)
+
+OK. Go to right side here.
+
+## Roz Dimon [01:03:56](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3836s)
+
+I love supportive men. That's a great thing.
+
+## Darcy Gerbarg [01:03:59](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3839s)
+
+I have serious technical support here. This is the piece that I have in the exhibition.
+
+## Unattributed [01:04:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3876s)
+
+I have a lot of
+
+## Darcy Gerbarg [01:04:42](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3882s)
+
+This material on my website. These are some examples of exhibitions that my work has been in. Most of these are in the room. This is the one on the left. This is the one on the left. This is the one on the left. This is the one
+
+## Unattributed [01:04:57](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3897s)
+
+On the left. This is just
+
+## Darcy Gerbarg [01:05:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3912s)
+
+Work in the last few years. This is what I will be doing a couple of exhibitions later this summer. Thank you. Thank you. I'm showing paintings on canvas with AR enhancements.
+
+## Roz Dimon [01:05:39](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3939s)
+
+Thank you. Thank you so much. Yes, we can do. Even though most of you are muted. It's fine to clap. These have been really wonderful. It's interesting that women were actually called computers in the early days of NASA. All the people in the back room were women and they were called computers. To see what women are really doing right now is pretty awesome.
+
+Nagin, coming to us from, where are you, Nagin? Are you in Saudi Arabia? Hi. Iran. Iran's too.
+
+## Karen LaFleur [01:06:15](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3975s)
+
+Thank you for being here.
+
+## Negin Ehtesabian [01:06:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3979s)
+
+Thank you. So I started technology and art. Let me share my screen.
+
+## Unattributed [01:06:37](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3997s)
+
+Are you seeing my screen? Yes? Yes.
+
+## Negin Ehtesabian [01:06:45](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4005s)
+
+Okay. So if art wants to be original, it should be honest. And if art wants to be honest, it should come from our reality. The real life we are living. So when the contemporary time is changing, the reality of our life is also changing. So they say we make tools, then the tools create us. Or when they say you change the technology around the person and the person change. So these days, we have no other way to live with technology. And it's not like we use technology as a tool to perceive things in life or communicate. Or it's not just social media. It's actually the way we see the world. So it's, as they say, it reveals the world to us. So it's not only we use technology, but technology kind of poses us with the way it describes our worlds these days. So. We live with this technology. The pace of our life gets faster and faster.
+
+And we cannot, we can no longer have the luxury of free time or not multitasking. And that's why actually once I was reading something in New York Times that it was about why this old media gets boring to the new generation. And they cannot wait to watch it. And I was like, oh, my God. A lot of times I watch videos or even some films.
 
 I just go in the fastest speed because I cannot wait for it to pass. So it kind of changed us and our expectations, too. So if you want to be honest, there is no way that we can avoid technology. So sometimes what you think like I came from a very traditional. I'm from a very traditional. Way of studying. I mean, I used computer for some artworks like this one.
 
@@ -255,65 +477,145 @@ But still, it was very limited in my life, like a graphic design. I did a lot of
 
 So my work in the exhibition. My work, my work in the exhibition is a part of this installation that me and Patrick works worked, worked on. Maybe I should show it here. That once we were talking about. How we see each other's cultures and countries because we are not allowed to travel to each other's country. So all we know about each other culture is kind of a best track.
 
-So a lot of times I was telling him that, okay, we have been raised on American media, either if it is movie cartoons and after that internet and all this stuff. And maybe I would know more about America than you know about Iran because sometimes Americans even don't know that where my country is. Leave alone that they know some details about it.
+So a lot of times I was telling him that, okay, we have been raised on American media, either if it is movie cartoons and after that internet and all this stuff. And maybe I would know more about America than you know about Iran because sometimes Americans even don't know that where my country is. Leave alone that they know some details about it. But somehow a lot of other countries are so familiar with America because of media and Hollywood and other movie productions and Disney and all this stuff that we actually raised on. Even like if you think a lot of philosophy or psychology we read is in is from vest.
 
-## Unattributed [01:11:50](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4310s)
-
-But somehow a lot of other countries are so familiar with America because of media and Hollywood and other movie productions and Disney and all this stuff that we actually raised on. Even like if you think a lot of philosophy or psychology we read is in is from vest. So we're talking about how how these perception of each other's country is distorted to media and is not the whole reality. And then we were trying to visit each other's country. Via. VR glasses.
-
-So we made this installation that I worked these two pieces for that and then Patrick made a video and these drawings from Iran actually didn't have a 3D map because of limitations. They didn't let Google car to go around and take photos. And the rock was all these countries we met to be visited together or we described for each other. We made a unique map with all those together and it's called the city means city of love. And yeah, so this is the way to me, even image of my work. My own country could be distorted to media because I because these days we cannot really experience the whole word ourselves.
+So we're talking about how how these perception of each other's country is distorted to media and is not the whole reality. And then we were trying to visit each other's country. Via. VR glasses. So we made this installation that I worked these two pieces for that and then Patrick made a video and these drawings from Iran actually didn't have a 3D map because of limitations. They didn't let Google car to go around and take photos. And the rock was all these countries we met to be visited together or we described for each other. We made a unique map with all those together and it's called the city means city of love. And yeah, so this is the way to me, even image of my work. My own country could be distorted to media because I because these days we cannot really experience the whole word ourselves.
 
 So we all see the word via media somehow. The war, other cities, anything happens, news, everything. So we have no other choice. So to me, both these works very the same. So it is started from technology and looking at the world. So I started with the media and VR glasses and then I draw them on the fabrics.
 
-This is my work in this show. Pardon me? You have two minutes left. You got the warning. Sorry. Okay. Yeah, it's finished. Some details from the work. Yeah. And then again, I take I took it to the I took it to the I photographed it and took it to the computer so I can put it together to print out in America because I couldn't really post it. I mean, you cannot believe how posting is difficult now. I mean, super expensive, like, like, maybe 100 times more than how much you should pay for the post.
+This is my work in this show. Pardon me?
 
-## Unattributed [01:14:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4491s)
+## Colin Goldberg [01:14:14](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4454s)
 
-So I don't know why it's happening. But yeah, so it's again, work digitally on it and print it out. And thank you so much for them. Thank you. It's beautiful work looks great in the show. And I love how you talk about dissolving boundaries or at least seeing reality and the fact that tech technology is part of that democratization and yet how media you know how the Western media is so influential.
+You have two minutes left.
 
-Thank you again. We can add time. Thank you so much. Giovanna, Giovanna, Dub Woman. Okay. Um, so let me share my screen. Okay. Um, can you allow me to share my screen. Oh, maybe. Um, well, it is allowed. You're not sharing anymore. Are you? Again, I didn't. Yeah, the people whoever shared a screen before they have to quit, so I can share my screen. Yeah, I think everybody's quit Colin I think it's allowed that everybody can share right so she should be able to. Yeah. Do you see the green share screen button, Giovanna.
+## Negin Ehtesabian [01:14:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4456s)
 
-Oh yeah, I am. It's actually a yeah I tried to share my screen, but it's like a question mark over there. For some reason. Um, anyway, I go into a, how about I. Okay, I can copy and paste. I could try I just made you a co host I don't know if that makes any difference. Okay. Okay, try it again. Um, no, maybe because I just update the somehow when you update the app, and it happened. But okay anyway. Um, I can.
+You got the warning. Sorry. Okay. Yeah, it's finished. Some details from the work. Yeah. And then again, I take I took it to the I took it to the I photographed it and took it to the computer so I can put it together to print out in America because I couldn't really post it. I mean, you cannot believe how posting is difficult now. I mean, super expensive, like, like, maybe 100 times more than how much you should pay for the post. So I don't know why it's happening. But yeah, so it's again, work digitally on it and print it out. And thank you so much for them.
 
-I did that okay I can, what I can do is I go into drop the link and maybe calling you can open the link for me so. So people they still can look. Okay. Okay. Okay, give me a second. Sorry. You know I'm not seeing Giovanna's camera at all. I was thinking I'm not either. Well, I don't know, you know, like like these things happen today, like, maybe.
+## Roz Dimon [01:15:04](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4504s)
 
-Maybe. I just copy my page on my link here so we'll see if you can see that and the meantime, or maybe exit and come back. Yeah, that's what I was going to suggest. I think it's a privacy setting, because I just update my Mac, they have a new privacy setting.
+Thank you. It's beautiful work looks great in the show. And I love how you talk about dissolving boundaries or at least seeing reality and the fact that tech technology is part of that democratization and yet how media you know how the Western media is so influential. Thank you again. We can add time.
 
-## Unattributed [01:17:59](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4679s)
+Thank you so much. Giovanna, Giovanna, Dub Woman.
 
-You can actually just type whatever the name that you can enter the full screen. Yeah. So this is the metaverse I can show you this as a one of the transformation, there's a one of the really popular collections I have open see. I have a like a, I saw like a 300 items for these collections. Um, so this is a metaverse.
+## Giovanna Sun [01:15:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4536s)
 
-And also, just because. I don't know if I never tell the public about my story. Like before the pandemic. There was a like I had a company, that's how I met a bounty is a VR company, but I have a problem with partners, because it was actually my idea my pitch deck, but he used me to get to the accelerator to get to the coalition. So, and I have a lot of experience. And I'm like, Okay, I'm going to take this conversation. Take conference because we will agree like a 5050. But he registered company and he just send me a quick notification email in the end up like I only have a 5% equity.
+Okay. Um, so let me share my screen. Okay. Um, can you allow me to share my screen.
+
+## Roz Dimon [01:15:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4547s)
+
+Oh, maybe. Um, well, it is allowed. You're not sharing anymore. Are you? Again,
+
+## Giovanna Sun [01:15:57](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4557s)
+
+I didn't. Yeah, the people whoever shared a screen before they have to quit, so I can share my screen.
+
+## Roz Dimon [01:16:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4565s)
+
+Yeah, I think everybody's quit Colin I think it's allowed that everybody can share right so she should be able to. Yeah.
+
+## Colin Goldberg [01:16:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4572s)
+
+Do you see the green share screen button, Giovanna.
+
+## Giovanna Sun [01:16:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4576s)
+
+Oh yeah, I am. It's actually a yeah I tried to share my screen, but it's like a question mark over there. For some reason. Um, anyway, I go into a, how about I. Okay, I can copy and paste.
+
+## Colin Goldberg [01:16:34](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4594s)
+
+I could try I just made you a co host I don't know if that makes any difference. Okay. Okay, try it again.
+
+## Giovanna Sun [01:16:44](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4604s)
+
+Um, no, maybe because I just update the somehow when you update the app, and it happened. But okay anyway. Um, I can. I did that okay I can, what I can do is I go into drop the link and maybe calling you can open the link for me so. So people they still can look.
+
+## Colin Goldberg [01:17:14](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4634s)
+
+Okay.
+
+## Giovanna Sun [01:17:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4636s)
+
+Okay. Okay, give me a second. Sorry.
+
+## Victor Acevedo [01:17:24](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4644s)
+
+You know I'm not seeing Giovanna's camera at all.
+
+## Unattributed [01:17:28](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4648s)
+
+I was thinking I'm not either.
+
+## Giovanna Sun [01:17:30](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4650s)
+
+Well, I don't know, you know, like like these things happen today, like, maybe.
+
+## Unattributed [01:17:37](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4657s)
+
+Maybe.
+
+## Giovanna Sun [01:17:37](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4657s)
+
+I just copy my page on my link here so we'll see if you can see that and the meantime, or maybe exit and come back. Yeah, that's what I was going to suggest. I think it's a privacy setting, because I just update my Mac, they have a new privacy setting. You can actually just type whatever the name that you can enter the full screen. Yeah.
+
+So this is the metaverse I can show you this as a one of the transformation, there's a one of the really popular collections I have open see. I have a like a, I saw like a 300 items for these collections. Um, so this is a metaverse. And also, just because. I don't know if I never tell the public about my story. Like before the pandemic. There was a like I had a company, that's how I met a bounty is a VR company, but I have a problem with partners, because it was actually my idea my pitch deck, but he used me to get to the accelerator to get to the coalition. So, and I have a lot of experience. And I'm like, Okay, I'm going to take this conversation. Take conference because we will agree like a 5050. But he registered company and he just send me a quick notification email in the end up like I only have a 5% equity.
 
 So, I know what happened that women in attack. He even he make make fun of me that in front of a lot of investor and the other shareholder, he said oh Giovanna. You know why you are the poorest person in our group and you know you know your women you cannot get any funding. So I was a humiliated, and also doing the accelerator program. He say to all the other startup founder, and also the seller, our advisor he say oh Giovanna is a crazy artists don't listen to her she can do anything. And the worst thing that happened to me because we have a demo day and that was a December. He just chicken out.
 
-So he just want to push me at the front to teach all the investors so that was a story. And then I've been fortunate because I may take prison easier because I made the monkey. During that time, I shot the 360 video for bln even in Soho. So, actually I didn't find the bounty the bounty for me, and he introduced me to calling. And by the time you know our company still running so I still try to do a lot of a VR and the 3d render case project. And the very funny because, like, last last year it was a January he just say oh you know like we have to close this company we all broke we don't have a farming Baba Baba actually he built all the customer with his new entity. So that's what happened. But I'm being so fortunate right now because I.
+So he just want to push me at the front to teach all the investors so that was a story. And then I've been fortunate because I may take prison easier because I made the monkey. During that time, I shot the 360 video for bln even in Soho. So, actually I didn't find the bounty the bounty for me, and he introduced me to calling. And by the time you know our company still running so I still try to do a lot of a VR and the 3d render case project. And the very funny because, like, last last year it was a January he just say oh you know like we have to close this company we all broke we don't have a farming Baba Baba actually he built all the customer with his new entity. So that's what happened. But I'm being so fortunate right now because I. I know I, you know, I, I'm not that good like I'm not like an expert, like a blockchain or a P.
 
-## Unattributed [01:20:59](https://www.youtube.com/watch?v=KyBLFghq4N0&t=4859s)
+It just because I was so desperate. But one of my I've been fortunate I know take Christians because of one of my, my collector, he found me he gave me my first commission so I create my energy, and I keep selling selling selling. And now I even coach other NFT marketplace funders. So I have a very strong feeling so that's why I have these piece. You know, I feel like like women can be beautiful and also women can be hot as this rock, like me. Right, I am is actually I'm still like a really nice person, always. But the thing is I want to once I realized that you know I don't want to people. Well, I am the other things that I'm not feminist, I never considered myself like if, like aggressive feminist. I'm not a feminist. It's just because I feel like maybe, you know, if a woman can be higher position.
 
-I know I, you know, I, I'm not that good like I'm not like an expert, like a blockchain or a P. It just because I was so desperate. But one of my I've been fortunate I know take Christians because of one of my, my collector, he found me he gave me my first commission so I create my energy, and I keep selling selling selling. And now I even coach other NFT marketplace funders. So I have a very strong feeling so that's why I have these piece. You know, I feel like like women can be beautiful and also women can be hot as this rock, like me. Right, I am is actually I'm still like a really nice person, always. But the thing is I want to once I realized that you know I don't want to people. Well, I am the other things that I'm not feminist, I never considered myself like if, like aggressive feminist.
-
-I'm not a feminist. It's just because I feel like maybe, you know, if a woman can be higher position. You know, let women be on the top. You know, we don't need to have a male leaders all the time, you know, give a woman's a chance okay, we shouldn't have a more equal opportunities, right. So, and it was a like a international women's month and I was I this, this one is actually because I was thinking that okay let's do something for you. So the next one is the international women's month. So I have it these. You can see this is like going to Okay, yeah, um, yeah, you can check. This is the my yada my Instagram, and also I have my tutorial my YouTube channel that if you. I always say top, I produce a lot of like a tutorial like people they want to utilize the P as a like alternative income especially for artists, like I'm not and I'm not I really like to help the community.
+You know, let women be on the top. You know, we don't need to have a male leaders all the time, you know, give a woman's a chance okay, we shouldn't have a more equal opportunities, right. So, and it was a like a international women's month and I was I this, this one is actually because I was thinking that okay let's do something for you. So the next one is the international women's month. So I have it these. You can see this is like going to Okay, yeah, um, yeah, you can check. This is the my yada my Instagram, and also I have my tutorial my YouTube channel that if you. I always say top, I produce a lot of like a tutorial like people they want to utilize the P as a like alternative income especially for artists, like I'm not and I'm not I really like to help the community.
 
 And I'm so grateful. And thanks so much for Take Creation Nisian. By the time, I have to say, my first AP is sold in one day. I think, I still believe that's because Take Creation Nisian featured me on Instagram. Because that's the same NIP I sold. And I really appreciate it. And I really like this whole idea about decentralized social sculpture. And that's the spirit. So I keep telling everyone how I appreciate it. And also, everyone should join Take Creation Nisian.
 
-Thank you so much. I know we're getting a little tight on time. But we can go a little over. I hope that's all right. Because we've got, thank you so much, Giovanna. You're very welcome. You have fresh perspective. And I like what you said. You said about women, we're not just soft. We're hard. We're powerful as rocks. And we endure.
+## Roz Dimon [01:23:41](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5021s)
 
-## Unattributed [01:24:00](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5040s)
+Thank you so much. I know we're getting a little tight on time. But we can go a little over. I hope that's all right. Because we've got, thank you so much, Giovanna.
 
-And it's not all a big soft pillow situation here. So I thought your perspective was very fresh. Cynthia DiDonato. Hello, everyone. I'm thrilled to be here. And thank you, Roz, for including me with these other amazing artists tonight. And I thought what I would talk about is women and tech. And give a little bit. I think we're going to talk about the history. Because we women stand on the shoulders of the women of the past to be where we are. And given, of course, as many have noted, that it's been a hard path and journey to get recognized, I still think we need to honor some of these other women. So I will share my screen.
+## Unattributed [01:23:50](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5030s)
 
-Can you see it? Not yet. I'm sorry.! Not yet? Don't see it. Okay. I hit screen. And then you have to share the screen. Yeah. I would forget to do that. You got to hit share. I hit screen. Oh, thank you. You're right. Thank you. Thank you. Now I just have to find. We all help each other. What happened with my PowerPoint?
+You're very welcome.
 
-I will find it. I will find it. Here it is. Over here. Sorry about that. Okay. Can you see it now? Yes. Okay. Let me go out to the show. Okay. Women were involved with technology 300 years ago. And they worked in mathematics, computer science, and mathematics. And they were involved in computer programming, computer science, code breaking, inventions, and of course, art. And I'm just going to give a quick overview because this could take forever. You don't need that because I'm the last speaker.
+## Roz Dimon [01:23:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5031s)
+
+You have fresh perspective. And I like what you said. You said about women, we're not just soft. We're hard. We're powerful as rocks. And we endure. And it's not all a big soft pillow situation here. So I thought your perspective was very fresh. Cynthia DiDonato.
+
+## Allen Hirsh [01:24:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5049s)
+
+Hello, everyone. I'm thrilled to be here. And thank you, Roz, for including me with these other amazing artists tonight. And I thought what I would talk about is women and tech. And give a little bit. I think we're going to talk about the history. Because we women stand on the shoulders of the women of the past to be where we are. And given, of course, as many have noted, that it's been a hard path and journey to get recognized, I still think we need to honor some of these other women. So I will share my screen.
+
+Can you see it? Not yet. I'm sorry.! Not yet? Don't see it. Okay. I hit screen.
+
+## Roz Dimon [01:25:01](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5101s)
+
+And then you have to share the screen. Yeah. I would forget to do that. You got to hit share.
+
+## Allen Hirsh [01:25:06](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5106s)
+
+I hit screen. Oh, thank you. You're right. Thank you. Thank you. Now I just have to find.
+
+## Roz Dimon [01:25:13](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5113s)
+
+We all help each other.
+
+## Allen Hirsh [01:25:18](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5118s)
+
+What happened with my PowerPoint? I will find it. I will find it. Here it is. Over here. Sorry about that. Okay. Can you see it now?
+
+## Karen LaFleur [01:25:34](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5134s)
+
+Yes.
+
+## Allen Hirsh [01:25:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5136s)
+
+Okay. Let me go out to the show. Okay. Women were involved with technology 300 years ago. And they worked in mathematics, computer science, and mathematics. And they were involved in computer programming, computer science, code breaking, inventions, and of course, art. And I'm just going to give a quick overview because this could take forever. You don't need that because I'm the last speaker.
 
 The first is in the 18th century, Nicole Ren Laportre was a mathematician and an astronomer who predicted the return of Halley's Comet. In the 19th century, we had Ada Lovelace. Widely recognized as the first computer programmer. It took 101 years after her death to be recognized by a gentleman named B.W. Bowden.
 
-In the 20th century during World War II, there was the secret Bletchy Park code breaking operation in Britain. There were 10,000 people associated with this group. And 75% were women. And they were not called analysts but secretarial staff. Bletchley Park was the birthplace of modern computing.
-
-## Unattributed [01:27:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5225s)
-
-Hedy Lamarr, and I suppose I might be dating myself, maybe for some people out there it's grandmothers or mothers that would know this inventor and famous actress. She developed the idea for secret communication systems aimed at setting radio-guided torpedoes. Off course. Her idea inspired our modern day Wi-Fi and Bluetooth.
+In the 20th century during World War II, there was the secret Bletchy Park code breaking operation in Britain. There were 10,000 people associated with this group. And 75% were women. And they were not called analysts but secretarial staff. Bletchley Park was the birthplace of modern computing. Hedy Lamarr, and I suppose I might be dating myself, maybe for some people out there it's grandmothers or mothers that would know this inventor and famous actress. She developed the idea for secret communication systems aimed at setting radio-guided torpedoes. Off course. Her idea inspired our modern day Wi-Fi and Bluetooth.
 
 Now for FemTech and art. I think it's important that all of us visit Ann and Michael Spalter's digital art collection. Online. There you will read about many, many digital artists. But you will see that there are 18 online. And there are more. Feminine artists there. Which include, of course, Anne Spalter and Cynthia Beth Rubin who are with us here tonight.
 
@@ -323,52 +625,158 @@ Many have designated, I can't talk. Can you tell? Many have designated her the f
 
 I work as a digital and an analog artist. I work with Procreate and a number of applications. Just lately, I would say in the last four or five, six months, I have been working with digital video. And these digital videos are presented in the show at Southampton presently. I'll start with the first one. They, these videos all reflect for me. The concept of time and its passage.
 
-Time fascinates me, whether we look at Einstein's special theory of relativity regarding space time. Well, the speculation that time may even be reversible in the subatomic world.
+Time fascinates me, whether we look at Einstein's special theory of relativity regarding space time. Well, the speculation that time may even be reversible in the subatomic world. One constant is that time is always moving. And it's fleeting. And it's this quality that I have hoped to. Reflect in my work. Here is the second work. Called a cent. And I worked with this. I started with an original photograph that I took of a scene on television. Sometimes I go to the television screen. To, to get images. And then I incorporated that into an app called percolator.
 
-## Unattributed [01:30:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5405s)
+And from there, worked with. And then I incorporated that into an app called percolator. And they're all very nice. And I really like to work with it. And I think that's the great thing about it. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that
 
-One constant is that time is always moving. And it's fleeting. And it's this quality that I have hoped to. Reflect in my work. Here is the second work. Called a cent. And I worked with this. I started with an original photograph that I took of a scene on television. Sometimes I go to the television screen. To, to get images. And then I incorporated that into an app called percolator.
+## Unattributed [01:31:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5470s)
 
-And from there, worked with. And then I incorporated that into an app called percolator. And they're all very nice. And I really like to work with it. And I think that's the great thing about it. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time. The fact that you can see the whole time.
+You can see the whole time.
 
-The fact that you can see the whole time. You today um thanking to expressionism for welcoming so many women into the movement I'm and and so and so much diversity into the movement um it means an awful lot to me and again I I thank you thank you so much um and if you can stop sharing your screen um that certainly took us in another dimension this whole thing has been really wonderful I know it's hard to speak in 10 minutes but I I kind of like the format because you get a people have to be concise and I appreciate all of you for being so well prepared thank you for uh I had notes down here hetty lamar you know ada lovelace and there there's so many others but thank you cynthia for bringing these women pioneers uh to us in your presentation I am not going to be talking about my work but I'll invite you to come uh and I'll be recording it I'm doing a talk on sac talk at the Southampton Arts Center with three three other colleagues and I'll be uh talking at length about my kalashnikov submachine gun so yeah you know so much for for women and just pillows but it's I certainly have a different perspective um on guns that have a feminine slant that I will speak about um thanks to all of you um colin I thought we'd open it up and people just unmute um and we can um talk for a few minutes I know it's over our seven o'clock can we stay a few minutes colin and have a dog yeah yeah sure yeah great uh yeah so if anybody has any questions um I know I had a few but um if anybody has a question just raise your hand Lee Musgrave hi lee oh you're on mute I don't have a question I I would just like to remind everybody that since the exhibit has been extended to july 24th if you have any contacts in the news media you want to let them know that if they're unaware of it they will think that there's no time left for publishing anything about it but if they know it's been extended they'll go out of their way to write articles and promote their work um so thank you very much um thank you very much um thank you so much for what you're doing and what you're doing in the past in the making and for that going forward we're going to have a lot of things to show so please publicize the fact that it has been extended to july 24th that's that's a very good point thank you and I think each of us could perhaps mention that in our instagram accounts facebook accounts twitter yeah I I definitely will um you know echo that that sentiment and there's also a press the press release is available we're going to have a show we're going to have a show it's just it's we're going available for download on Techspressionism.Com.
+## Allen Hirsh [01:31:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5472s)
 
-## Unattributed [01:34:18](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5658s)
+The fact that you can see the whole time. You today um thanking to expressionism for welcoming so many women into the movement I'm and and so and so much diversity into the movement um it means an awful lot to me and again I I thank you thank
 
-So if any of you do have press contacts, that's a good way to lead off and kind of share the news that the show has been extended. So I'd really love it if we could get some coverage outside of the local media. I've been doing everything sort of within my own reach to try to make that happen, but definitely combined, we have a much greater chance of making that happen.
+## Roz Dimon [01:31:35](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5495s)
 
-You never know where you're going to get these things. I used to send out a lot of media stuff and I was surprised that I would get articles from Hong Kong and all sorts of places that I wouldn't expect it to come from because somebody saw it and passed it on to somebody else. There was a feature article recently, just last week in an Indian, online publication that I think Malavika connected us to. So she sent on the information there and there's going to be a bunch of ongoing events, both live and online. I'm pasting a link in the chat. I'm doing a talk next Tuesday at six with Helen, just talking about Techspressionism, its history, that sort of thing. And then we're going to be having, there's some live events too, for any of you that are in the New York metro area that are going to be coming up.
+You so much um and if you can stop sharing your screen um that certainly took us in another dimension this whole thing has been really wonderful I know it's hard to speak in 10 minutes but I I kind of like the format because you get a people have to be concise and I appreciate all of you for being so well prepared thank you for uh I had notes down here hetty lamar you know ada lovelace and there there's so many others but thank you cynthia for bringing these women pioneers uh to us in your presentation I am not going to be talking about my work but I'll invite you to come uh and I'll be recording it I'm doing a talk on sac talk at the Southampton Arts Center with three three other colleagues and I'll be uh talking at length about my kalashnikov submachine gun so yeah you know so much for for women and just pillows but it's I certainly have a different perspective um on guns that have a feminine slant that I will speak about um thanks to all of you um colin I thought we'd open it up and people just unmute um and we can um talk for a few minutes I know it's over our seven o'clock can we stay a few minutes colin and
 
-But I'd imagine that there's also going to be the potential for additional programming now that the timeline has been extended. So if any of you guys have ideas or also thoughts on what some of the upcoming salons might be focused on over the course of the extended exhibition period, maybe that's something we can all kind of like brainstorm on a little bit. Well, I just- I wanted to mention that I was contacted about the Imperial Air because Hampton Magazine is going to be doing a piece. I'm not sure when the publication date is, but we can look forward to another story.
+## Unattributed [01:32:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5571s)
+
+Have a dog yeah yeah sure yeah
+
+## Roz Dimon [01:32:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5574s)
+
+Great uh yeah so if anybody has any questions um I know I had a few but um if anybody has a question just raise your hand Lee Musgrave hi lee oh you're on mute
+
+## Lee Musgrave [01:33:15](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5595s)
+
+I don't have a question I I would just like to remind everybody that since the exhibit has been extended to july 24th if you have any contacts in the news media you want to let them know that if they're unaware of it they will think that there's no time left for publishing anything about it but if they know it's been extended they'll go out of their way to write articles and promote their work um so thank you very much um thank you very much um thank you so much for what you're doing and what you're doing in the past in the making and for that going forward we're going to have a lot of things to show so please publicize the fact that it has been extended to july 24th that's
+
+## Roz Dimon [01:33:52](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5632s)
+
+That's a very good point thank
+
+## Allen Hirsh [01:33:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5634s)
+
+You and I think each of us could perhaps mention that in our instagram accounts facebook accounts twitter
+
+## Colin Goldberg [01:34:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5645s)
+
+Yeah I I definitely will um you know echo that that sentiment and there's also a press the press release is available we're going to have a show we're going to have a show it's just it's we're going available for download on Techspressionism.Com. So if any of you do have press contacts, that's a good way to lead off and kind of share the news that the show has been extended. So I'd really love it if we could get some coverage outside of the local media. I've been doing everything sort of within my own reach to try to make that happen, but definitely combined, we have a much greater chance of making that happen.
+
+## Lee Musgrave [01:34:49](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5689s)
+
+You never know where you're going to get these things. I used to send out a lot of media stuff and I was surprised that I would get articles from Hong Kong and all sorts of places that I wouldn't expect it to come from because somebody saw it and passed it on to somebody else.
+
+## Colin Goldberg [01:35:08](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5708s)
+
+There was a feature article recently, just last week in an Indian, online publication that I think Malavika connected us to. So she sent on the information there and there's going to be a bunch of ongoing events, both live and online. I'm pasting a link in the chat. I'm doing a talk next Tuesday at six with Helen, just talking about Techspressionism, its history, that sort of thing. And then we're going to be having, there's some live events too, for any of you that are in the New York metro area that are going to be coming up. But I'd imagine that there's also going to be the potential for additional programming now that the timeline has been extended. So if any of you guys have ideas or also thoughts on what some of the upcoming salons might be focused on over the course of the extended exhibition period, maybe that's something we can all kind of like brainstorm on a little bit.
+
+## Renata Janiszewska [01:36:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5772s)
+
+Well, I just- I wanted to mention that I was contacted about the Imperial Air because Hampton Magazine is going to be doing a piece. I'm not sure when the publication date is, but we can look forward to another story.
+
+## Colin Goldberg [01:36:28](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5788s)
 
 Yeah, I know that they reached out to me as well about some information about specific pieces, Michael Rees's sculptures. They wanted to know like some information about those. So they're going to be running at least a bunch of photos. And that's a really good magazine to be in. You know, it's a big glossy publication that, you know, goes out throughout the area.
 
-So that's really positive. Also we could do, I want to say, there are so many talented women in Techspressionism and also others in the show. You know, we could do another one of these during the show, or we could do another one at some time because there are many of you here who, you know, I would love to present it, but I think it's nice to keep it to a limited amount, but that's, there's a lot of talent out there.
+So that's really positive.
 
-## Unattributed [01:37:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5839s)
+## Roz Dimon [01:36:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5814s)
 
-So, you know, or else maybe somebody else wants to organize one. I mean, one thing that I did want to mention was that there have been these nodes that are starting to form in other countries, you know, and I think it's really interesting. It's exciting to see that there is activity happening. I know the members of the French node registered, Techspressionism.Fr and I believe are in the process of setting up a Twitter account.
+Also we could do, I want to say, there are so many talented women in Techspressionism and also others in the show. You know, we could do another one of these during the show, or we could do another one at some time because there are many of you here who, you know, I would love to present it, but I think it's nice to keep it to a limited amount, but that's, there's a lot of talent out there. So, you know, or else maybe somebody else wants to organize one.
+
+## Colin Goldberg [01:37:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5843s)
+
+I mean, one thing that I did want to mention was that there have been these nodes that are starting to form in other countries, you know, and I think it's really interesting. It's exciting to see that there is activity happening. I know the members of the French node registered, Techspressionism.Fr and I believe are in the process of setting up a Twitter account.
 
 They created sort of like a branding treatment that has the T with the French colors, you know, accompanying it, which is pretty cool. You know, and pretty much like I just kind of started chats between members of the different, you know, people, artists in the show within various countries to see if there was any synergy or people had interest in starting to formulate plans for physical exhibitions, you know, with their own localized groups of people, because I think that's really the path moving forward. You know, if it's going to be something that's truly decentralized, like, you know, I think that that's probably a good way to move forward. I know there's been other projects in the past. The Thing comes to mind as something that had sort of a, you know, a lot of interest in the show, but I think that's really the path moving forward.
 
-You know, it really wasn't necessarily sort of a node based format back in the I don't know, 90s. I think I think it did. Yeah. I mean, I know it was in New York with Wolfgang but like there were like nodes and stuff in other countries from what I can remember was yep grade there was darkbot and so I don't know I didn't know I didn't know thing had I didn't know thing had a head nodes but I have to leave everybody you know honestly I don't think we need We don't bother We didn't have questions when it was a great time.
+You know, it really wasn't necessarily sort of a node based format back in the I don't know, 90s. I think I think it did. Yeah. I mean, I know it was in New York with Wolfgang but like there were like nodes and stuff in other countries from what I can remember was yep grade there was darkbot and
 
-I wanna mention one thing. It's great. I wanna ask if anyone else is going to IZEA? I think so this year. I mean, it's really late, but because I'm going, there is the possibility that I could do what they call an institutional presentation, which is talk about expressionism. It's in Barcelona. Next year it's in Paris.
+## Patrick Lichty [01:38:54](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5934s)
 
-And I will be probably leaving from Paris. So I could get in touch with the expressionist people. That would be wonderful. That's useful. That would be amazing. Yeah, let me know if you, you know, it's basically all of the, you know, it's the French note. I started just an Instagram chat with people that are in the exhibition from France, which, you know, you could even find them through the artist list, but I could definitely like, you know, connect you directly to them if you have interest. That would be good. I mean, my contacts are mostly in Marseille, Avignon. So I definitely will be there, but so I don't know where they are. So we'll be- Yeah, it's a female artist actually, Le Chat Noir, I guess, the black cat.
+So I don't know I didn't know I didn't know thing had I didn't know thing had a head nodes but I have to leave
 
-## Unattributed [01:40:24](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6024s)
+## Unattributed [01:39:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5945s)
 
-She's sort of taken the point person role in the French group, her and Philippe Ormières, I think. He might've been the person that registered the domain, the .Fr domain. But there are sort of been the two that have been the most active from what I can tell. I don't really even know what's going on in the chat because I don't speak French. So. Well, send me the link and I'll look at it. Okay, I'll add you to the chat if you'd like. I have an exhibition announcement. Is that, and Cynthia and Nagin are on the jury of Edmond. I'm just about to put out the final choice for the International Digital Media and Artists.
+Everybody you know honestly I don't think we need We don't bother We didn't have questions when it was a great time. I wanna mention one thing. It's great.
 
-So if you want to send me the link, I'll send you the link. But yeah, so we've got about, we've got about 13 or 14 expressionists, Techspressionists in the show. So we've got a very large representation show. We've got about, and actually the thing is, there's only about 19 or 20 physical artists. And so, Techspressionism is a sizable group. It's a sizable number.
+## Cynthia Beth Rubin [01:39:15](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5955s)
 
-And we've got a ton of our video work and that sort of thing. So I want to thank everybody who put work in the mix. So in other words, there's more stuff coming. Thank you, Patrick. And as Holly Gordon said, it's been great, but we want to acknowledge the men in our group. But even with that said, I do would like to everyone unmute and just give a round of applause. You know, for the women who presented, to recognize that before it dissolves into the bulletin board talk. I think that's really important to see what this, what happened here. I thought it was a very important recording.
+I wanna ask if anyone else is going to IZEA? I think so this year. I mean, it's really late, but because I'm going, there is the possibility that I could do what they call an institutional presentation, which is talk about expressionism. It's in Barcelona. Next year it's in Paris. And I will be probably leaving from Paris. So I could get in touch with the expressionist people. That would be wonderful. That's useful.
 
-So thank you very much. And of course, we are all for working with the men as well. And we appreciate you being here. Thank you, Roz, for pulling this together. In two weeks, I see Steve is here. Steve is here. He's going to be running the salon, the next salon, which is going to be East End Expressionists. So Steve is out on the East End, as many of you know, and he's going to be pulling together a bunch of artists who live, you know, within striking distance of SAC. So that should be of interest, you know, to everyone here, hopefully, and also hopefully to some of the local collectors and patrons of the organization, the Arts Center. So Tom Dunn did, you know, a lot of work, and I think, you know, he did mention that they extended it basically because their board was really happy with the way that the show turned out and all the press it was generating.
+## Colin Goldberg [01:39:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=5986s)
 
-And, you know, in addition to it hitting the July 4th weekend, which is, you know, definitely like a really good thing, they're going to be doing a number of fundraisers, you know, at SAC for their patrons and benefactors.
+That would be amazing. Yeah, let me know if you, you know, it's basically all of the, you know, it's the French note. I started just an Instagram chat with people that are in the exhibition from France, which, you know, you could even find them through the artist list, but I could definitely like, you know, connect you directly to them if you have interest.
 
-## Unattributed [01:43:33](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6213s)
+## Cynthia Beth Rubin [01:40:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6009s)
 
-So the show will be up, you know, during those. Yes. Yes. And I'm not writing, but I'm just going to say it that, you know, where are these digital handshakes? Michael and I kicked it off with a digital handshake. I want to see some more digital handshakes. I think it promotes the show and it gives you an intimacy with another artist in the show. Well, Claudia? If you need any information about the format, just send me an email or text me or DM me or whatever. No idea what the digital handshake is. Okay. Well, you know what? I don't think we'll get I'll tell you more about it. Yeah it's been a long evening so I don't know colin anybody else having anything else to say since you mentioned it ross Patrick Lichty and myself will be doing one great little handshake and I also the second half of may yeah oh super I did hear that good all right well thanks everyone again um this has been a really great session and here's to the feminine force it's been men and women all right thank you thank you to all the presenters thank you colin thank you thank you everybody thank you everybody thank you everyone great presentation recording in three two one contact
+That would be good. I mean, my contacts are mostly in Marseille, Avignon. So I definitely will be there, but so I don't know where they are.
+
+## Colin Goldberg [01:40:16](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6016s)
+
+So we'll be- Yeah, it's a female artist actually, Le Chat Noir, I guess, the black cat. She's sort of taken the point person role in the French group, her and Philippe Ormières, I think. He might've been the person that registered the domain, the .Fr domain. But there are sort of been the two that have been the most active from what I can tell. I don't really even know what's going on in the chat because I don't speak French. So.
+
+## Cynthia Beth Rubin [01:40:46](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6046s)
+
+Well, send me the link and I'll look at it.
+
+## Colin Goldberg [01:40:48](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6048s)
+
+Okay, I'll add you to the chat if you'd like.
+
+## Patrick Lichty [01:40:52](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6052s)
+
+I have an exhibition announcement. Is that, and Cynthia and Nagin are on the jury of Edmond. I'm just about to put out the final choice for the International Digital Media and Artists. So if you want to send me the link, I'll send you the link. But yeah, so we've got about, we've got about 13 or 14 expressionists, Techspressionists in the show. So we've got a very large representation show. We've got about, and actually the thing is, there's only about 19 or 20 physical artists. And so, Techspressionism is a sizable group. It's a sizable number.
+
+And we've got a ton of our video work and that sort of thing. So I want to thank everybody who put work in the mix. So in other words, there's more stuff coming.
+
+## Roz Dimon [01:41:55](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6115s)
+
+Thank you, Patrick. And as Holly Gordon said, it's been great, but we want to acknowledge the men in our group. But even with that said, I do would like to everyone unmute and just give a round of applause. You know, for the women who presented, to recognize that before it dissolves into the bulletin board talk. I think that's really important to see what this, what happened here. I thought it was a very important recording.
+
+So thank you very much. And of course, we are all for working with the men as well. And we appreciate you being here.
+
+## Colin Goldberg [01:42:30](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6150s)
+
+Thank you, Roz, for pulling this together. In two weeks, I see Steve is here. Steve is here. He's going to be running the salon, the next salon, which is going to be East End Expressionists. So Steve is out on the East End, as many of you know, and he's going to be pulling together a bunch of artists who live, you know, within striking distance of SAC. So that should be of interest, you know, to everyone here, hopefully, and also hopefully to some of the local collectors and patrons of the organization, the Arts Center. So Tom Dunn did, you know, a lot of work, and I think, you know, he did mention that they extended it basically because their board was really happy with the way that the show turned out and all the press it was generating. And, you know, in addition to it hitting the July 4th weekend, which is, you know, definitely like a really good thing, they're going to be doing a number of fundraisers, you know, at SAC for their patrons and benefactors.
+
+So the show will be up, you know, during those.
+
+## Roz Dimon [01:43:39](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6219s)
+
+Yes. Yes. And I'm not writing, but I'm just going to say it that, you know, where are these digital handshakes? Michael and I kicked it off with a digital handshake. I want to see some more digital handshakes. I think it promotes the show and it gives you an intimacy with another artist in the show. Well, Claudia? If you need any information about the format, just send me an email or text me or DM me or whatever. No idea what the digital handshake is. Okay. Well, you know what? I don't think we'll get I'll tell you more about it. Yeah it's been a long evening so I don't know colin anybody else having anything else to say
+
+## Victor Acevedo [01:44:13](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6253s)
+
+Since you mentioned it ross Patrick Lichty and myself will be doing one
+
+## Unattributed [01:44:18](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6258s)
+
+Great little
+
+## Victor Acevedo [01:44:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6259s)
+
+Handshake and
+
+## Roz Dimon [01:44:19](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6259s)
+
+I also the
+
+## Victor Acevedo [01:44:20](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6260s)
+
+Second half of may yeah oh super I did hear that good all
+
+## Roz Dimon [01:44:26](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6266s)
+
+Right well thanks everyone again um this has been a really great session and here's to the feminine force it's been men and women
+
+## Unattributed [01:44:38](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6278s)
+
+All right thank you thank you to all the presenters thank you colin thank you thank you everybody thank you everybody thank you everyone great
+
+## Colin Goldberg [01:44:49](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6289s)
+
+Presentation recording in three two one contact

@@ -25,7 +25,7 @@ Thank you, Colin. Hello, everybody. This is a topic that has a lot of controvers
 
 I've so far I've seen that we have music AIs, text AIs, and now we have, well, sorry, we've had for a while text image AIs. And we're going to be talking about those with AI. So we have eight artists who are going to give us a short presentation. And I'll be reminding you at the five minute mark. So without any more delay, I would like to introduce the first artist presenting, Cynthia DiDonato.
 
-## Cynthia DiDonato [01:43](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=103s)
+## Allen Hirsh [01:43](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=103s)
 
 Hi, everyone. I'm thrilled to be here and I'll start sharing my screen.
 
@@ -41,7 +41,7 @@ So I'll start sharing my screen. Let's see. . Can you all see my screen?
 
 Yes.
 
-## Cynthia DiDonato [02:18](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=138s)
+## Allen Hirsh [02:18](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=138s)
 
 Great. Okay. I'll get started. Obviously, you see the topic here and I'm going to move right on. Bear with me. I have a couple of text things to read, but I think they're important. We always are thinking about what art is and there's no universal definition. But the general consensus is, particularly with the visuals, that art is a conscious creation of something beautiful or meaningful using skill and imagination. But now we have another feature that's entered into the art world. And I'll put quotes around that depending on how you feel about it. There are art engines and apps. And as you can see here, there are four that I've listed. These are the four that I've played around with. And for those who are here and don't know what AI art refers to, it's art generated with the assistance of artificial intelligence that uses either text prompts and visual cues.
 
@@ -65,7 +65,7 @@ Again, in mid journey, I put the text Crescent. Which is the first image and I g
 
 You've got one minute left, please.
 
-## Cynthia DiDonato [08:33](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=513s)
+## Allen Hirsh [08:33](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=513s)
 
 I want took it into digital manipulation. And then in the end I came up with a final work where I blended the middle. I manipulated original art with the AI from mid journey. I consider AI a friend. It can be used as a tool in the artistic process, much as a traditional collageist or a digital collageist may incorporate pieces that are created by others to create something new. For me, AI generations alone do not have enough of the artist's personal experiences and or hand present in its material. So I want to take this opportunity to share my experience with you.
 
@@ -277,45 +277,29 @@ Actually, I'm using, as you can see black and white photos of myself. And where 
 
 Thank you very much, Susan. Up next is Mr. Price. Thank you. Thank you.
 
-## Unattributed [43:42](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2622s)
+## Michael Pierre Price [43:42](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2622s)
 
 All right, Renata. Thank you. Wow. So, I've kind of indicated in a several previous ones that I've been really thinking about the text image AI for me as a tool to help me come up with some sense of a new type of visual language. And so, at this point in time, I'm squarely in the camp of AI as foe. And I don't see that as a negative as, as you said, Renata. But I see it as a worthy adversary that I need to I most of the last six months I've been experimenting. I haven't tried creating any final imagery yet as opposed to a number of the artists here today.
 
-And I really feel that there's a lot, there's a lot that we don't know. The opacity of these engines to me is a double-edged sword. And for me, I don't, I feel unsettled using somebody else's technology that I don't get a chance to really look under the hood a lot at. So for that reason, I have really not played around very much with Dali 2 or with Mid Journey, even though I have experimented with them. I don't like the opacity of, you know, the of either of the engines right now because I don't feel like I have much in the way of control and understanding what they're doing. And to prove my point,
+And I really feel that there's a lot, there's a lot that we don't know. The opacity of these engines to me is a double-edged sword. And for me, I don't, I feel unsettled using somebody else's technology that I don't get a chance to really look under the hood a lot at. So for that reason, I have really not played around very much with Dali 2 or with Mid Journey, even though I have experimented with them. I don't like the opacity of, you know, the of either of the engines right now because I don't feel like I have much in the way of control and understanding what they're doing. And to prove my point, let me share my screen here.
 
-## Michael Pierre Price [45:45](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2745s)
-
-Let me share my screen here. I don't know if you can see, but
-
-## Unattributed [45:58](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2758s)
-
-In, in Dali, or I should say in, in Mid Journey, I typed in a prompt that said Native Americans in outer space. And lo and behold, here, here's what Native Americans are shown as. So, you know, like if you were to type in Europeans in outer space, I doubt you would find something from the colonial period.
+I don't know if you can see, but in, in Dali, or I should say in, in Mid Journey, I typed in a prompt that said Native Americans in outer space. And lo and behold, here, here's what Native Americans are shown as. So, you know, like if you were to type in Europeans in outer space, I doubt you would find something from the colonial period.
 
 And so this, this is, this is the dilemma I have as somebody who's part Native. Here, here's another prompt, you know, here's another image. Looks like some, some space suited person with regalia on. And then the third one, which I found really troubling, were a number of people on a barren landscape.
 
 So my only point to this is, when I don't know what the assumptions are being made in terms of how different images are, as part of this network of AI, it is something I try looking under the hood as best as I can, even though it's very opaque. And so I try things out, I test things out just to see what are the assumptions being made. And so this is just a cautionary tale for me to everybody else. But what I've been really fascinated with the AI, for me personally, is not necessarily very concrete things, but very esoteric, ethereal kinds of things. And so for me, on a highly personal level, since I was about seven or eight years old, I've had periodic dreams throughout my life that I call the dark man dreams. And they're very, very powerful dreams, where this foreboding entity or essence challenges me and sometimes scares me to, you know, coming awake.
 
-And other times I get in very difficult situations in my dreams. And it's been a learning experience what these dreams have meant for me. But these have happened throughout my life. And so I spent the last six months playing around with the AI, to see whether or not I could try to show visibly what some of these things mean to me. So I started off, these were all created with disco diffusion, because for me, I like it right now because it gives me a lot of variables to play with. And I can look under the hood a lot much more transparently, even though there's still a lot of opacity that I'm hoping to, you know, I'm
+And other times I get in very difficult situations in my dreams. And it's been a learning experience what these dreams have meant for me. But these have happened throughout my life. And so I spent the last six months playing around with the AI, to see whether or not I could try to show visibly what some of these things mean to me. So I started off, these were all created with disco diffusion, because for me, I like it right now because it gives me a lot of variables to play with. And I can look under the hood a lot much more transparently, even though there's still a lot of opacity that I'm hoping to, you know, I'm hoping to get out of the way. But I'm hoping to get around in the months ahead.
 
-## Unattributed [49:01](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2941s)
-
-Hoping to get out of the way. But I'm hoping to get around in the months ahead. So this, what I wanted to start with was just kind of a big cinematic feel to the dreams that I've had. And so these first images kind of show that off. And the image, the big head in the top right is kind of the dark man element to this whole thing. The dark man concept for me is not an individual that I face off against, but this presence that's the entirety of the dream. It's like I'm captured by this.
+So this, what I wanted to start with was just kind of a big cinematic feel to the dreams that I've had. And so these first images kind of show that off. And the image, the big head in the top right is kind of the dark man element to this whole thing. The dark man concept for me is not an individual that I face off against, but this presence that's the entirety of the dream. It's like I'm captured by this.
 
 And then from there, I wanted to create some situational type imagery, where the feeling of being continually drawn into the dream space, and so I played around with the imagery to try to get that sense of the foreboding, that sense of there was something ominous around. And again, in the sort of the left center part, the feeling of the dark man is there. And then the next series that I wanted to do was just the atmospheric quality of my dreams. And so that's what I went for in here. Trying to learn how I could bring these types of visuals to be.
 
 And for me, the qualities of dreams are not concrete. At least my dreams are not concrete. Every time I think I kind of get a handle on something, it changes. And I can't speak for anybody else's dreams, but in these dark man dreams, they're very lucid, but they're very fluid. And I think that's what I wanted to do. I wanted to make it fluid and watery. And when I think I'm onto something, all of a sudden it changes into something else. And that fluidity is not something easily expressed in artwork. And I'm trying to figure out if the AI can help me with this.
 
-And then I wanted to express the multi points of view, almost like my own type of surrealist, cubist version of multiple perspectives in one image. So some of these have that. Then I really wanted to do something that felt classic, my version of a classic sort of cubist graphic novel, where this is more cerebral in my looking back at kind of how I felt. So I'm not in the dream, but I'm thinking about what the dreams mean to me.
+And then I wanted to express the multi points of view, almost like my own type of surrealist, cubist version of multiple perspectives in one image. So some of these have that. Then I really wanted to do something that felt classic, my version of a classic sort of cubist graphic novel, where this is more cerebral in my looking back at kind of how I felt. So I'm not in the dream, but I'm thinking about what the dreams mean to me. So these images are sort of my cognitive essence of those. And then I went much more classic cubist looking in some of these here. And then the last couple images, I wanted to see if I could bridge the gap, if I could create something visually that had kind of the 3D depth, but also a bit of the cubist feel at the same time. These images that I'm showing right now, if I can pull them off and if I can create them, I want these to be very large images, like 40 by 60 inches or larger.
 
-## Unattributed [52:02](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3122s)
-
-So these images are sort of my cognitive essence of those. And then I went much more classic cubist looking in some of these here. And then the last couple images, I wanted to see if I could bridge the gap, if I could create something visually that had kind of the 3D depth, but also a bit of the cubist feel at the same time. These images that I'm showing right now, if I can pull them off and if I can create them, I want these to be very large images, like 40 by 60 inches or larger.
-
-I don't know if I'm going to be able to do that because these are still fairly small in size to begin with overall. But that's what I've been playing around with here. And then these are the
-
-## Michael Pierre Price [52:58](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3178s)
-
-Very final ones. So there you
+I don't know if I'm going to be able to do that because these are still fairly small in size to begin with overall. But that's what I've been playing around with here. And then these are the very final ones. So there you
 
 ## Renata Janiszewska [53:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3185s)
 
@@ -361,7 +345,7 @@ Michael, do you have any response?
 
 Well, I agree with Michael.
 
-## Unattributed [01:01:14](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3674s)
+## Michael Pierre Price [01:01:14](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3674s)
 
 Yeah, and I'm glad that Vernada brought that up as well. And I'm not suggesting anything malicious. Yeah. I mean I'm not saying that it can't be as well, but I think this notion of bias that we're not thinking about can be very infective across all forms of artwork and in every aspect of our lives. And I know sometimes people hate hearing that. But darn it. You know? We can do better. And we just need to be consciously aware of that as artists what our own experiences and biases are. We can't negate them. But we can be conscious of that and then hopefully act responsibly.
 
@@ -375,7 +359,7 @@ Before I can even start to create on these AI engines. Okay? That is not a level
 
 That does not instantly denigrate our words into images that we find historically offensive. Okay? So anyway. That's my rant. Hallelujah. So.
 
-## Unattributed [01:04:39](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3879s)
+## Lee Musgrave [01:04:39](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3879s)
 
 It sort of reminds me of lots of discussions that go all the way back to cave painting. And lots of people used to ask why did all the people then always paint animals? And the answer that the scientists came up with was. Well, the rock formations suggested animals to them. Well, maybe. But perhaps it had more to do with the fact that their whole existence depended on the animals. And so they had animals on the brain.
 
@@ -385,7 +369,7 @@ Now, if you move that up. I'm not a real tech person. But it makes me wonder if 
 
 Well, it didn't do it for me. That's for sure.
 
-## Unattributed [01:05:42](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3942s)
+## Michael Pierre Price [01:05:42](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3942s)
 
 Yeah. And Lee, that's a good point. And for me, that's my cautionary tale of the opacity of the AI engines. What I think is not understood. At least for me right now is. Our images equated to one another. What, you know, in the. In the adversarial network. What, what are the nodes, you know, where, where, where is the combat happening? Where's the intelligence going on there? Because. I mean, Patrick. Patrick. Had made a point before about.
 
@@ -399,13 +383,13 @@ Well, it's kind of like that bit they call, you know, RTC Clark's thing, you kno
 
 You know, I mean, that, that assumes a lot, don't you think? Yes. Yep. There you go.
 
-## Cynthia DiDonato [01:09:24](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4164s)
+## Allen Hirsh [01:09:24](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4164s)
 
 Yeah. I think the engines really. Are reflecting what's out there in the world and the biases are out there. So the engines, for whatever reason, are going to pick up things like stock images of other periods of time. So I think, you know, it's a reflection. It's an actual reflection. Make us understand that the bias, if you didn't see it before, it's there now.
 
 Yeah.
 
-## Unattributed [01:09:53](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4193s)
+## Michael Pierre Price [01:09:53](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4193s)
 
 Yeah. The big problem is that most people don't see bias. Though. No. That's the, that, you know, that's the sneaky bastardly, you know, that that's, that's our blindness.
 
@@ -413,7 +397,7 @@ Yeah. The big problem is that most people don't see bias. Though. No. That's the
 
 Even in the way that, you know, the, the sort of, you know, our, our art histories are constructed, you know, our notions of what the history of art is, you know, up until relatively recently, it was a fairly. Straight. Bias Eurocentric. Like this is how art came about, you know? And meanwhile, there was, you know, multiple streams of culture being developed on every continent simultaneously in reality. You know what I mean? But the story usually isn't described that way. Um, or it's broken down into segments that are sort of separate, you know, components.
 
-## Unattributed [01:10:50](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4250s)
+## Lee Musgrave [01:10:50](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4250s)
 
 Um, makes, makes me wonder if several of us. Got the same program in. In our computer and we all typed in flying turtles or whatever that was, would the image all come up the same for all of us?
 
@@ -425,7 +409,7 @@ Within a range, probably, you know, so well, actually, that would be good. Inter
 
 No, but that's one of, that's one of the characteristics of, for example, mid journey, I will go back a month and take the same phrase and it never gives me. The same. Result. Yeah. There's only two.
 
-## Unattributed [01:11:28](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4288s)
+## Michael Pierre Price [01:11:28](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4288s)
 
 There's a random generation part of it.
 
@@ -489,17 +473,9 @@ Thanks for your perspective.
 
 You're welcome.
 
-## Unattributed [01:19:01](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4741s)
+## Michael Pierre Price [01:19:01](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4741s)
 
-This is why I love our salon so much. Yeah.
-
-## Michael Pierre Price [01:19:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4745s)
-
-Yeah. Yeah. Yeah.
-
-## Unattributed [01:19:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4747s)
-
-I mean, it's refreshing to hear everybody's points of view and to see all the work today. It's, I love the artist in all of you because I don't see that in a lot of the world around me, unfortunately. And it gives me a lot of inspiration. So thanks to everybody.
+This is why I love our salon so much. Yeah. Yeah. Yeah. Yeah. I mean, it's refreshing to hear everybody's points of view and to see all the work today. It's, I love the artist in all of you because I don't see that in a lot of the world around me, unfortunately. And it gives me a lot of inspiration. So thanks to everybody.
 
 ## Patrick Lichty [01:19:32](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4772s)
 
@@ -513,7 +489,7 @@ Mapping
 
 My own identity onto those things? Yeah.
 
-## Unattributed [01:20:00](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4800s)
+## Michael Pierre Price [01:20:00](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4800s)
 
 That's interesting, Patrick. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. You know, I have a friend, a contact friend of mine who's a programmer, and I'm hoping that he's going to be able to help me either create a brand new AI engine or figure out how to tweak some of the existing things out there that we can maybe address some of these issues that everybody's bringing. I don't know. But yeah, I get, I get where you're coming from on that. Totally.
 
@@ -533,7 +509,7 @@ And it's, and that is so loaded. And so the thing is, if I'm doing Techspression
 
 Anyone remember Eliza, the sort of AI? It's like, you know, using Eliza and expecting to get actual therapy out of it. You know, it's an interesting exercise.
 
-## Unattributed [01:21:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4876s)
+## Michael Pierre Price [01:21:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4876s)
 
 But Colin, that's our society right now. I mean, you know, people look just online. Everybody wants instantaneous results. First. For everything. And, and that's the, that's the double edged sword that we have. We've created technologies that have some really powerful aspects to them. But if we get lazy, then it is, it's science is magic.
 
@@ -543,7 +519,7 @@ Yeah. And I keep thinking of the time machine. And are we going to end up being 
 
 Oh, no. Renata, go ahead.
 
-## Cynthia DiDonato [01:22:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4925s)
+## Allen Hirsh [01:22:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4925s)
 
 You talked about the cautionary tale. You had an example of the cautionary tale, Michael. And I think the cautionary tale is for AI period that we need as Vernetta pointed out a, we need a watchdog that we need to be our own watchdog, whether it's our art or our what's happening in our society. Given the. Potential. Of AI.
 
@@ -553,7 +529,7 @@ We have to, we have to some way. Ferret out what works, what doesn't work, where
 
 Well, I mean, there's such a basic assumption with this that I don't think that we're talking about. In other words, it's such a, such a powerful opiate. And I say that very intentionally to basically type something in and get something we expect.
 
-## Unattributed [01:23:22](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5002s)
+## Michael Pierre Price [01:23:22](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5002s)
 
 Yeah.
 
@@ -565,7 +541,7 @@ And that is, that is such a base assumption. Yeah. In other words, so what, what
 
 I think, you know, seeing Vernetta's images, it made me think. I think how the images themselves are an interesting artistic commentary on the bias that is, you know, it would be, it would be a good idea for a show, you know, for, for people to put together images that illustrate bias that are AI generated images. I mean, really like to me, the best way to, to, to show somebody something is just to show them a picture of it. Right. You know, you show them, Hey, here, here's what happens when you type in dog and came out cat. And then you type in this and people are like, huh. You know, and it's like, it doesn't require any further verbal or, or, or written explanation. People just look at it and say, you know what, that's, that's, that's whack.
 
-## Unattributed [01:24:41](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5081s)
+## Michael Pierre Price [01:24:41](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5081s)
 
 Well, I mean, I agree, Colin. And I think for, for me, one of the classic examples is historically, you know, going back. When you, when you got crayons, the flesh colored was. You know, white person color. Right. And that was called flesh. You know, there you go. I mean, that's, that's, but we didn't think about that as being anything bad. There, you know, wasn't necessarily something that if you weren't, you know, if you were a person of color, then you're saying, what are you talking about? So, but it's, it's that kind of subterfuge as, as human beings that.
 
@@ -575,7 +551,7 @@ You know, if we don't, and that's why I think us as artists, you know, going to 
 
 So I, I have a question. Is there any software where you could. You know, if you could use it for a lot of different things. What would be the best way for you to create something that you could draw from your own images where you could put your own keywords into those images? Because that's what I'd like to say. I could take a hundred images. Put my own keywords into those images and then see what happens.
 
-## Unattributed [01:26:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5167s)
+## Michael Pierre Price [01:26:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5167s)
 
 I don't know. Cynthia, but I'm working on it.
 
@@ -645,7 +621,7 @@ Yeah well I want to thank all the artists who participated in this and I hope th
 
 It's amazing And Michael I want to comment that you really captured that dark man Oh Horror Thanks Futuristic you know subconscious dread searching
 
-## Unattributed [01:31:28](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5488s)
+## Michael Pierre Price [01:31:28](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5488s)
 
 For control all that you know Thanks for Neda I really appreciate it appreciate that yeah
 
@@ -657,19 +633,19 @@ Yeah yeah keep up the good work thank
 
 You I just uh paste it into the chat if anyone's interested a big list um I didn't gather it someone else gathered it of tools and resources for aria art and uh it covers a lot of different tools that are out there so if you want to go exploring it it's a good starting point thank you uncle
 
-## Cynthia DiDonato [01:31:59](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5519s)
+## Allen Hirsh [01:31:59](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5519s)
 
 Did you uh perhaps um think that maybe the dark man is dark matter no
 
-## Unattributed [01:32:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5527s)
+## Michael Pierre Price [01:32:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5527s)
 
 That's an interesting uh interesting uh element but no oh but cynthia um I saw your post on the book physics and art oh that's a wonderful book I picked it up I'm enjoying it so far I
 
-## Cynthia DiDonato [01:32:26](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5546s)
+## Allen Hirsh [01:32:26](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5546s)
 
 Love it art and physics um just incredible uh the fact that artists have prefigured things that have happened in science um just fascinating so I you can get it at a library or you can buy it really inexpensively online as secondhand online shop but I'm buying it because I got it from the library and it took me too long to read they wanted it back because I savor each chapter so uh yeah pick it up what's it called again art and physics yeah by leonard schlain I'll put it in the chat it's
 
-## Unattributed [01:33:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5587s)
+## Michael Pierre Price [01:33:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5587s)
 
 An older book it's been around for a while so it's a bit day it's a little dated in the you know the latest physics but you know it covers a his history from way back so there's still a lot of validity to it
 
@@ -677,13 +653,9 @@ An older book it's been around for a while so it's a bit day it's a little dated
 
 When I read it in 91 I was kind of like just the whole family read it oh
 
-## Unattributed [01:33:29](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5609s)
+## Michael Pierre Price [01:33:29](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5609s)
 
-Really oh yeah it's cool I didn't even know it existed so it was just happenstance that I saw cynthia's post so thank you
-
-## Michael Pierre Price [01:33:44](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5624s)
-
-Colin you're muted
+Really oh yeah it's cool I didn't even know it existed so it was just happenstance that I saw cynthia's post so thank you colin you're muted
 
 ## Colin Goldberg [01:33:47](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5627s)
 

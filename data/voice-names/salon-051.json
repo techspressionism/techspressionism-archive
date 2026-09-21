@@ -1,6 +1,17 @@
 {
+  "applied": "2026-09-20 21:45",
   "approved_auto": false,
   "voices": {
+    "V1": {
+      "at": "2026-09-20 21:45",
+      "fingerprint": "d4400db6ec",
+      "name": "Michael Pierre Price"
+    },
+    "V10": {
+      "at": "2026-09-20 21:45",
+      "fingerprint": "149825ef93",
+      "name": "Lee Musgrave"
+    },
     "V11": {
       "at": "2026-09-20 19:31",
       "fingerprint": "3f05f5d810",

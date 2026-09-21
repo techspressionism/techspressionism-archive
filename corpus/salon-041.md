@@ -71,7 +71,7 @@ Yes.
 
 Yes or no. Yes. Okay. Right. And I can present this way. So my project that I've been working on. Is.
 
-## Unattributed [03:24](https://www.youtube.com/watch?v=XUBL7L41hjA&t=204s)
+## Tommy Mintz [03:24](https://www.youtube.com/watch?v=XUBL7L41hjA&t=204s)
 
 On there. Yes.
 
@@ -79,7 +79,7 @@ On there. Yes.
 
 On there. Pardon me.
 
-## Unattributed [03:28](https://www.youtube.com/watch?v=XUBL7L41hjA&t=208s)
+## Tommy Mintz [03:28](https://www.youtube.com/watch?v=XUBL7L41hjA&t=208s)
 
 Your color pickers on there.
 
@@ -223,7 +223,7 @@ And this is what came up. And it's a country. Surrounded by Senegal. On the west
 
 And the boats. So basically my. One of the reasons. I haven't spoken before is I feel intimidated by all your. Technical sophistication. I went to, I seem to have gotten to a point in my computer. And never got any further beyond that. I did a number of. Works and out in. Other countries. I decided I better do something. That was more related to the U S since I was having a show. I'm a member of series gallery and I've been able to show most of these works. Over the period of time. And so my first U S one was. California as I look at Florida. And I'm assuming you can see everything. Nobody's complained yet.
 
-## Unattributed [14:42](https://www.youtube.com/watch?v=XUBL7L41hjA&t=882s)
+## Cheryl Audet-Lavoie [14:42](https://www.youtube.com/watch?v=XUBL7L41hjA&t=882s)
 
 If you, I think you should click on that green button up there. You probably make it full screen. The green button. Yeah.
 
@@ -231,7 +231,7 @@ If you, I think you should click on that green button up there. You probably mak
 
 I don't want to click on chat. I don't want to. No, no, no.
 
-## Unattributed [14:55](https://www.youtube.com/watch?v=XUBL7L41hjA&t=895s)
+## Cheryl Audet-Lavoie [14:55](https://www.youtube.com/watch?v=XUBL7L41hjA&t=895s)
 
 The green button on the window.
 
@@ -239,7 +239,7 @@ The green button on the window.
 
 Yeah. Green dot. Top left corner.
 
-## Unattributed [15:01](https://www.youtube.com/watch?v=XUBL7L41hjA&t=901s)
+## Cheryl Audet-Lavoie [15:01](https://www.youtube.com/watch?v=XUBL7L41hjA&t=901s)
 
 You know. Is that on. Well, I guess it's on your left.
 
@@ -259,9 +259,13 @@ Yeah. You were there.
 
 Is it better? I clicked.
 
-## Unattributed [15:11](https://www.youtube.com/watch?v=XUBL7L41hjA&t=911s)
+## Roz Dimon [15:11](https://www.youtube.com/watch?v=XUBL7L41hjA&t=911s)
 
-I can make it bigger. I think that's the point that people want to see it a little bigger. We can see it, but it's not full screen, which. No.
+I can make it bigger. I think that's the point that people want to see it a little bigger. We can see it, but it's not full screen, which.
+
+## Unattributed [15:22](https://www.youtube.com/watch?v=XUBL7L41hjA&t=922s)
+
+No.
 
 ## Ann Shapiro [15:22](https://www.youtube.com/watch?v=XUBL7L41hjA&t=922s)
 
@@ -275,7 +279,7 @@ Oh, I want to say one other thing. These lines, can you see the lines, the green
 
 Another New Hampshire piece. This is my. Big Vietnam, Vietnamese piece.
 
-## Unattributed [18:31](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1111s)
+## Tommy Mintz [18:31](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1111s)
 
 Uh, And I think we're still seeing a different piece. Nothing's changed. You're not seeing the, uh, I'm seeing, I'm seeing New Hampshire townhouse. Oh, no, I am. Thank you. Sorry.
 
@@ -299,7 +303,7 @@ I see that.
 
 That move for culture. This, this took two people a day to hang in the library. In the, in, where did that come from? In the gallery. I don't know where it came from.
 
-## Unattributed [19:16](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1156s)
+## Cynthia Beth Rubin [19:16](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1156s)
 
 So can I just suggest that you hit F on your keyboard and it will fill the screen. If you're in Photoshop and you hit F. Yeah, I just did, but I. I can't now I can't get to my notes. Oh, I'm sorry. Okay. Hit F again a few more times and you'll get out.
 
@@ -307,7 +311,7 @@ So can I just suggest that you hit F on your keyboard and it will fill the scree
 
 F a few more times. I'll get out.
 
-## Unattributed [19:35](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1175s)
+## Cynthia Beth Rubin [19:35](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1175s)
 
 Yeah.
 
@@ -387,7 +391,7 @@ Thank you. Okay, thanks.
 
 Thank you, thank you. Does anyone have any questions or comments about Anne's work?
 
-## Unattributed [27:18](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1638s)
+## Roz Dimon [27:18](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1638s)
 
 I do.
 
@@ -395,7 +399,7 @@ I do.
 
 Roz, go ahead.
 
-## Unattributed [27:21](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1641s)
+## Roz Dimon [27:21](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1641s)
 
 I just wanted to say, I really liked the sort of infographic juxtaposition with painterly undertones. And your work has a very fresh and original storytelling information aspect to it that I really was drawn to. I mean, it's a serious topic, but they're kind of fun. At least to me, they have a kind of paradox about them. What do you go out to? I'm not sure what a command strip is, but.
 
@@ -405,9 +409,13 @@ Oh, I discovered this at my now 22 year old great nephew's bar mitzvah, his Wisc
 
 These little strips that you post on the wall and you put your object on it. Doesn't mar anything, doesn't mar the paper, doesn't mar the wall. And then you just pull them right down after you're done.
 
-## Unattributed [28:32](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1712s)
+## Roz Dimon [28:32](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1712s)
 
-Is it a canvas? What's the material? It's a 3M product. It's like a plastic. Yeah, it's a little 3M thing. It's really nice. Yeah. They're really nice.
+Is it a canvas? What's the material? It's a 3M product.
+
+## Unattributed [28:37](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1717s)
+
+It's like a plastic. Yeah, it's a little 3M thing. It's really nice. Yeah. They're really nice.
 
 ## Ann Shapiro [28:43](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1723s)
 
@@ -475,7 +483,7 @@ Cynthia did you have something oh sorry I just did yeah
 
 Oh there you go yeah wonderful oh
 
-## Unattributed [31:47](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1907s)
+## Cynthia Beth Rubin [31:47](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1907s)
 
 Yeah so so I had a couple quick questions comments one is um I'm a big proponent of printing on fabric when you go really large um and I use um spoon flower um they use dyes so they will fade over time I've never noticed the fading but it's really great because um you can go up to depending on what you choose about 36 by 54 or 50 or something I mean if you're going to print on a fabric that's really uh yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeahộ
 
@@ -483,7 +491,7 @@ Yeah so so I had a couple quick questions comments one is um I'm a big proponent
 
 Okay 65 by 95 okay
 
-## Unattributed [32:27](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1947s)
+## Cynthia Beth Rubin [32:27](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1947s)
 
 So maybe it wouldn't work for you I I think the scale is for me when you go big and something's traveling it's really great so I wanted
 
@@ -491,17 +499,31 @@ So maybe it wouldn't work for you I I think the scale is for me when you go big 
 
 That I was tempted to go with plastics you know like those big things on buses yeah you can do that conflicted with here I'm dealing with climate change as my subject matter and I'm trying to figure out how I'm going to manage climate change I'm using plastic.
 
-## Unattributed [32:51](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1971s)
+## Cynthia Beth Rubin [32:51](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1971s)
 
-Well, it's an issue. I said it because I'm using ink. But you're using ink. Yeah, what can you do? So thank you for the work. I was really... I spent a lot of time in Senegal, so I'm aware... I spent a long time, but when you talk about Gambia, and I'm aware of the differences between countries that are talking about desertification, the spreading of the desert, and then people who are getting flooded out.
+Well,
 
-And so I think the way that you point to different geographical areas is really great. And I think the more that you kind of say this is about that difference, the stronger the statement. Because we only know about our own little climate change most of the time.
+## Unattributed [32:54](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1974s)
+
+It's an issue. I said it because I'm using ink.
+
+## Cynthia Beth Rubin [32:59](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1979s)
+
+But you're using ink. Yeah, what can you do? So thank you for the work.
+
+## Unattributed [33:03](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1983s)
+
+I was really...
+
+## Cynthia Beth Rubin [33:05](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1985s)
+
+I spent a lot of time in Senegal, so I'm aware... I spent a long time, but when you talk about Gambia, and I'm aware of the differences between countries that are talking about desertification, the spreading of the desert, and then people who are getting flooded out. And so I think the way that you point to different geographical areas is really great. And I think the more that you kind of say this is about that difference, the stronger the statement. Because we only know about our own little climate change most of the time.
 
 ## Ann Shapiro [33:40](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2020s)
 
 It's so hard to imagine somebody else's pain, really. It is hard. Yeah.
 
-## Unattributed [33:45](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2025s)
+## Cynthia Beth Rubin [33:45](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2025s)
 
 So thank you for leading us there.
 
@@ -521,7 +543,7 @@ I was just commenting that I didn't think that Anne's work would translate that 
 
 Gotcha.
 
-## Unattributed [34:10](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2050s)
+## Cynthia Beth Rubin [34:10](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2050s)
 
 Actually, the color is extremely vibrant when you put it on the fabric. Very, very vibrant. It translates better than... Than most other printing. It's just that they're using dyes rather than pigmented ink. So over time, you know, I haven't seen it fade, but it will fade over time. So for other people who are considering it, it's great for traveling shows.
 
@@ -531,7 +553,7 @@ So.
 
 Something to consider. But the thing is, you could probably put a UV fixative on it, couldn't you? That would probably slow it down a bit. Yeah. Wouldn't it?
 
-## Unattributed [34:49](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2089s)
+## Cynthia Beth Rubin [34:49](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2089s)
 
 I've never seen it fade in point five.
 
@@ -539,7 +561,7 @@ I've never seen it fade in point five.
 
 Yes, you can. The point is interesting because I could take the paper and say, all right, this is how it goes. But for travel, I'm going to put it on two pieces of fabric, which I'd looked into fabric, but I'd never thought maybe I could patch it together.
 
-## Unattributed [35:09](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2109s)
+## Cynthia Beth Rubin [35:09](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2109s)
 
 Yeah, you can patch it together. Yeah.
 
@@ -547,9 +569,13 @@ Yeah, you can patch it together. Yeah.
 
 That might be an approach to take. Okay.
 
-## Unattributed [35:14](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2114s)
+## Tommy Mintz [35:14](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2114s)
 
-It's on 611. 611.Com. Signs.Com. Signs.Com has very good prices for printing on fabric. S-I-G-N-S.Com. I've had good experiences with them. Also. It's very, very large.
+It's on 611. 611.Com. Signs.Com. Signs.Com has very good prices for printing on fabric. S-I-G-N-S.Com. I've had good experiences with them.
+
+## Unattributed [35:26](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2126s)
+
+Also. It's very, very large.
 
 ## Karen LaFleur [35:27](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2127s)
 
@@ -641,7 +667,7 @@ The deer were in the backyard. I raised monarchs one year and used my macro lens
 
 Norwalk Aquarium. So, yeah. Yeah.
 
-## Unattributed [44:40](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2680s)
+## Tommy Mintz [44:40](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2680s)
 
 That is awesome.
 
@@ -665,13 +691,19 @@ Well, you're a part of it, you know, and you'll find a way and an attraction tha
 
 Yes. Oh, Holly, you have something to share.
 
-## Unattributed [47:37](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2857s)
+## Holly Gordon [47:37](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2857s)
 
 Yes. I mean, this is a very emotional topic for me. I don't know why or how. I've. Always felt this relationship with nature. And in an interview way back at the turn of the century, I said, Mother Nature has no voice. I want my work to speak for her. Today, a news day there was on the front page a multimillion dollar project going to fix the polluted water. The polluted water. That was for about 50 years on Long Island. Now Jacques Cousteau had said people treat our water and air like garbage cans. I was in Antarctica in 1999 when it became 2000. The air down there is so much clearer and the pollution is drifting down from the Northern Hemisphere. And when I was doing research for the debut exhibit that I had of Antarctica. At the New York Hall of Science, I was checking data that was taken in the 1960s and 80s.
 
 So my being there already showed the melting of the ice. Now, Antarctica has 90% of the ice on our planet, and it's melting. And the melting ice causes the water all over our planet to rise, and it also increases the temperature of the oceans, which makes the hurricane seasons last longer. We are so interrelated, and trying to bring a place as remote as Antarctica to the public is very, very difficult. The whole thing is very difficult. And then we run into money problems and political problems. And it's tough.
 
-Speaking of political climate. Oh, yeah. Which is also very hot.
+## Unattributed [49:46](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2986s)
+
+Speaking of political climate.
+
+## Holly Gordon [49:49](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2989s)
+
+Oh, yeah. Which is also very hot.
 
 ## Davonte Bradley [49:53](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2993s)
 
@@ -719,9 +751,13 @@ It happens to the best of us.
 
 Okay. So let's go back to the zoom. I want to go back to the zoom now. Oh, we are on the zoom. So how, okay.
 
-## Unattributed [54:32](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3272s)
+## Tommy Mintz [54:32](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3272s)
 
-So just stop sharing and share it again. Yeah. Stop sharing. And then share it again.
+So just stop sharing and share it again. Yeah.
+
+## Unattributed [54:35](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3275s)
+
+Stop sharing. And then share it again.
 
 ## Lee Schnaiberg [54:39](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3279s)
 
@@ -741,7 +777,11 @@ What does CC have? He's about to've got the cuinting. Yeah.
 
 ## Unattributed [55:11](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3311s)
 
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate, climate, climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Changes in the weather Changes Climate changes Climate changes Climate changes Climate changes Climate changes Ch-ch-changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes It's not there. On the light of the light. Yeah. On the light of the light.
+Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate, climate, climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Changes in the weather Changes Climate changes Climate changes Climate changes Climate changes Climate changes Ch-ch-changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Climate
+
+## Cheryl Audet-Lavoie [56:59](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3419s)
+
+Changes Climate changes It's not there. On the light of the light. Yeah. On the light of the light.
 
 ## Susan Detroy [57:04](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3424s)
 
@@ -859,19 +899,37 @@ Thank you so much, Susan. You're welcome.
 
 Clive, did you have something in your head or are you just clapping? Oh, okay. Gotcha. All right. Thank you so much. We've only got a couple more minutes left, so I'm going to try to get in Lucy. And maybe Patrick as well. I'm not sure we'll have time for Sahar, but we'll try to get those two in real quick. So Lucy, are you here?
 
-## Unattributed [01:16:25](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4585s)
+## Lucy Boyd-Wilson [01:16:25](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4585s)
 
-Yes, I'm here. All right. Okay, I have two animations. They're just like a minute each. I just quickly want to say, more important than anything that I have to show, is that Attenborough has a new documentary out called Breaking Boundaries. And like all of his documentaries, it's phenomenal and terrifying and really important. So Breaking Boundaries really, he's talking about tipping points, nine tipping points that we're heading towards. Temperature being one, biodiversity, garbage, a bunch. So I really recommend that. And now I'm going to share my screen.
+Yes, I'm here.
 
-So this, oh, you know what? I forgot to share sound. The first one is coral, coral bleaching. I spent three incredible weeks in Fiji in the 90s, snorkeling and diving, incredible coral life. So it's tragic what is happening to the oceans and our coral reefs. So I created this animation. And I'm going to show you the rest of the small children. American American American American American American American American American And my second piece is a tree.
+## Unattributed [01:16:26](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4586s)
 
-I'll start this with, I live in California where wildfires and drought, when I first moved here, wildfires, the fire season was only about six weeks. This was 20 years ago, and now it's like months. Some years it's like six months of anxiety around fire. So anyway, here's this one.
+All right.
+
+## Lucy Boyd-Wilson [01:16:28](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4588s)
+
+Okay, I have two animations. They're just like a minute each. I just quickly want to say, more important than anything that I have to show, is that Attenborough has a new documentary out called Breaking Boundaries. And like all of his documentaries, it's phenomenal and terrifying and really important. So Breaking Boundaries really, he's talking about tipping points, nine tipping points that we're heading towards. Temperature being one, biodiversity, garbage, a bunch. So I really recommend that. And now I'm going to share my screen.
+
+So this, oh, you know what? I forgot to share sound. The first one is coral, coral bleaching. I spent three incredible weeks in Fiji in the 90s, snorkeling and diving, incredible coral life. So it's tragic what is happening to the oceans and our coral reefs. So I created this animation.
+
+## Unattributed [01:17:54](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4674s)
+
+And I'm going to show you the rest of the small children. American American American American American American American American American
+
+## Lucy Boyd-Wilson [01:18:47](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4727s)
+
+And my second piece is a tree. I'll start this with, I live in California where wildfires and drought, when I first moved here, wildfires, the fire season was only about six weeks. This was 20 years ago, and now it's like months. Some years it's like six months of anxiety around fire. So anyway, here's this one.
 
 ## Unattributed [01:19:49](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4789s)
 
 It's in the ground. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire. So you can see the fire.
 
-Thank you. Thank you, everybody.
+Thank you.
+
+## Lucy Boyd-Wilson [01:20:36](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4836s)
+
+Thank you, everybody.
 
 ## Davonte Bradley [01:20:41](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4841s)
 
@@ -919,7 +977,7 @@ All right. Thank you. Yeah. Thank you. All right. And I think we are right here 
 
 All the questions that you bring consistently about the presentations that we have and look forward to seeing you guys next time. So thank you so much.
 
-## Unattributed [01:25:39](https://www.youtube.com/watch?v=XUBL7L41hjA&t=5139s)
+## Roz Dimon [01:25:39](https://www.youtube.com/watch?v=XUBL7L41hjA&t=5139s)
 
 Thanks everyone. That was great.
 

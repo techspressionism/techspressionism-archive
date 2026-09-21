@@ -1,0 +1,71 @@
+{
+  "applied": "2026-09-20 21:33",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:30",
+      "fingerprint": "7914793a20",
+      "name": "Patrick Lichty"
+    },
+    "V10": {
+      "at": "2026-09-20 21:33",
+      "fingerprint": "5960571a07",
+      "name": ""
+    },
+    "V11": {
+      "at": "2026-09-20 21:33",
+      "fingerprint": "0a9fef8e4f",
+      "name": "Nina Sobell"
+    },
+    "V12": {
+      "at": "2026-09-20 21:33",
+      "fingerprint": "0d19461cf8",
+      "name": "Michael Pierre Price"
+    },
+    "V13": {
+      "at": "2026-09-20 21:33",
+      "fingerprint": "dd02d06762",
+      "name": "Cynthia DiDonato"
+    },
+    "V2": {
+      "at": "2026-09-20 21:30",
+      "fingerprint": "de6612491e",
+      "name": "Michael Pierre Price"
+    },
+    "V3": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "765a410772",
+      "name": "Jan Swinburne"
+    },
+    "V4": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "250f8426c2",
+      "name": "Colin Goldberg"
+    },
+    "V5": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "ae23a22838",
+      "name": "Susan Detroy"
+    },
+    "V6": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "b08efed41b",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V7": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "e27d9f8fff",
+      "name": "Renata Janiszewska"
+    },
+    "V8": {
+      "at": "2026-09-20 21:31",
+      "fingerprint": "c585a5276c",
+      "name": "Lucy Boyd-Wilson"
+    },
+    "V9": {
+      "at": "2026-09-20 21:32",
+      "fingerprint": "d043a75e02",
+      "name": "Roz Dimon"
+    }
+  }
+}

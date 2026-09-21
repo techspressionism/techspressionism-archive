@@ -7,7 +7,7 @@ date_published: 2022-09-15
 video_id: LuFuRGhgnmQ
 url: "https://www.youtube.com/watch?v=LuFuRGhgnmQ"
 duration_seconds: 5495
-moderator: Cynthia DiDonato
+moderator: Allen Hirsh
 speakers:
 transcript_source: whisper-large-v3
 languages: ["en"]
@@ -19,7 +19,7 @@ flags:
 
 Colin Goldberg, M.D.: Hello, my name is Colin Goldberg and welcome to the expressionist salon this particular salon is on the topic of art and physics and we have a guest moderator today Cynthia D Donato I'm just going to ask that if you're not sharing please mute your microphone and with that I'm going to hand it over to Cynthia. Cynthia D Donato, M.D.: Hello
 
-## Cynthia DiDonato [00:29](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=29s)
+## Allen Hirsh [00:29](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=29s)
 
 Everyone good evening good afternoon good morning depending on where you are I'm going to start by sharing my screen I'm Cynthia D Donato as Colin already mentioned. Cynthia D Donato, M.D.: and Cynthia D Donato, M.D.: Can you see my presentation.
 
@@ -27,7 +27,7 @@ Everyone good evening good afternoon good morning depending on where you are I'm
 
 Yep.
 
-## Cynthia DiDonato [00:54](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=54s)
+## Allen Hirsh [00:54](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=54s)
 
 Cynthia D Donato, M.D.: Okay let's see if I can get it out there. Cynthia D Donato, M.D.: Okay.
 
@@ -35,7 +35,7 @@ Cynthia D Donato, M.D.: Okay let's see if I can get it out there. Cynthia D Dona
 
 Cynthia D Donato, M.D.: Here we go.
 
-## Cynthia DiDonato [01:03](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=63s)
+## Allen Hirsh [01:03](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=63s)
 
 Cynthia D Donato, M.D.: Okay, I have a very strong interest in art and physics, although I'm certainly a late layman when it comes to the subject some of my own work deals with this interest, as you can see here in front of you is a book that pretty much inspired this. Cynthia D Donato, M.D.: salon and, as you can see the title talks about parallel visions and space time and light much of the commentary in this presentation is from shlane's book so I'll make that mention of that. Cynthia D Donato, M.D.: physics is singled out because all other hard sciences are anchored to this rock shlane tells us revolutionary art and visionary physics are both investigations into the nature of reality. Cynthia D Donato, M.D.: revolutionary art. Cynthia D Donato, M.D.: And science and art in all times that serve this function of preparing the future he proposes that radical innovations of art in body pre verbal stages of the new concepts that will eventually change a civilization.
 
@@ -57,7 +57,7 @@ Cynthia D Donato, M.D.: them. Cynthia D Donato, M.D.: Our first speaker. Cynthia
 
 Cynthia D Donato, M.D.: Our
 
-## Cynthia DiDonato [06:27](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=387s)
+## Allen Hirsh [06:27](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=387s)
 
 First speaker is. Cynthia D Donato, M.D.: I should say our first. Cynthia D Donato, M.D.: Three speakers. Cynthia D Donato, M.D.: were in the Southampton art Center show expressionism digital and beyond which occurred early summer. Cynthia D Donato, M.D.: The first is Steve Miller Steve Miller has been working with art, science and technology, since 1980. Cynthia D Donato, M.D.: He has collaborated with the 2003 Nobel laureate in chemistry rod mckinnon. Cynthia D Donato, M.D.: In a project about human proteins. Cynthia D Donato, M.D.: He worked at brookhaven national labs and at CERN in Geneva, where he lectured to the theory group. Cynthia D Donato, M.D.: His project entitled health of the planet has been published as two monographs radiographic and surf skate published by glitterati edition his third book _Surfing the Cosmos_ completes this trilogy _Surfing the Cosmos_ is about high energy physics.
 
@@ -113,7 +113,7 @@ This is imagery source imagery. This is what it's like down 30 stories below. An
 
 And again, these are like little. Like little. Poems and haikus for me. So the book is called _Surfing the Cosmos_. And it'll come out in a few weeks. It's on a trip from China. And thank you for letting me talk about it.
 
-## Cynthia DiDonato [24:38](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=1478s)
+## Allen Hirsh [24:38](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=1478s)
 
 Thank you, Steve. I'm jealous that you got to be at CERN. And learn so much there. And incorporate in your art. Our second speaker tonight. Is Paul Miller. A. K. A. K. A. DJ spooky. He was an artist in residence at Yale university for the collaborative arts and media. He's exploring the intersection of art, science, and technology. He's working with a collective formerly based out of MIT's media lab. Art matter robotics labs. To generate paintings. Based on a series of equations. That form the foundations of modern quantum physics. And translating the material. Into multiple transdisciplinary art. Initiatives. Welcome. Paul.
 
@@ -159,7 +159,7 @@ Now, what's fascinating is that this was highly controversial. Audiences would r
 
 All of that.
 
-## Cynthia DiDonato [39:08](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2348s)
+## Allen Hirsh [39:08](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2348s)
 
 I know you have a time constraint. It's 16. You still have two minutes if you want it.
 
@@ -197,7 +197,7 @@ I want to get a copy of that book when it comes out. All right, you guys.
 
 I got to run.
 
-## Cynthia DiDonato [45:59](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2759s)
+## Allen Hirsh [45:59](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2759s)
 
 Hope to see your work in the future.
 
@@ -205,7 +205,7 @@ Hope to see your work in the future.
 
 OK, thanks, you guys. All right, bye.
 
-## Cynthia DiDonato [46:06](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2766s)
+## Allen Hirsh [46:06](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2766s)
 
 Well, another amazing discussion about physics and art. We've gone from the Higgs boson particle, the God particle that Steve Miller was talking about. And then on to quantum entanglement. Well, our third speaker is Michael Pierre Price, who earned a physics degree from Purdue University and did three years graduate work in theoretical astrophysics at the University of Toledo. He conducted research into early star formation with Bach globules. I hope I said that right, Michael. Using data from the Serotope. Lolo Observatory in Chile. Michael has been published in the American Journal of Physics. He is currently working on his own long term book project about the nature of reality and the story of the universe, using his artwork to illustrate and weave together the areas of physics, neuroscience, spirituality and creativity.
 
@@ -217,7 +217,7 @@ Wow. This is a tough act to follow from the two previous speakers. So anyway, th
 
 Never would I have thought at 22 that I would at 67 be an artist talking to a group like this. So, you know, life is life is strange and interesting. So it's I'm really humbled to be here and to talk about this. So let me go ahead. And share my screen. Everybody see this? Okay.
 
-## Cynthia DiDonato [48:26](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2906s)
+## Allen Hirsh [48:26](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=2906s)
 
 Yes.
 
@@ -259,7 +259,7 @@ We see within a visible spectrum that's so much smaller than what the wide spect
 
 And so for me, the lighter area of yellow is the bright energy, the dark areas are the dark gravitational forces that are starting to work and the interplay between the two.
 
-## Cynthia DiDonato [01:02:43](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3763s)
+## Allen Hirsh [01:02:43](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3763s)
 
 Michael, you have a minute.
 
@@ -271,7 +271,7 @@ Cosmology is something that I've always been very interested in terms of how the
 
 All right.
 
-## Cynthia DiDonato [01:03:57](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3837s)
+## Allen Hirsh [01:03:57](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3837s)
 
 Thank you. Michael. I really enjoyed seeing your art as I did Steve Miller and Paul's art. It's just been a special occasion to learn what art ticks within your world. So without further ado, I assume we shall go on to open up the salon to discussion. I thought maybe the easiest way to do that would be to go to the next slide.
 
@@ -285,7 +285,7 @@ Time. So it's at your service. It's at your service. It's at your service. It's 
 
 It's at your service.
 
-## Cynthia DiDonato [01:05:09](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3909s)
+## Allen Hirsh [01:05:09](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=3909s)
 
 It certainly is a heady topic. I particularly enjoyed hearing Michael talk about getting people to become aware of physics, even as lay people, because there's so much beauty there. So hopefully some of that beauty was able to come through. So feel free to. Oh, we have Renata. You're on, Renata. You're muted.
 
@@ -349,7 +349,7 @@ The way Steve translates his understanding versus the way I do. I translate my u
 
 Okay, well, I thank the two of you so much. I asked the question because I seem to have stumbled into a series of experiences that I could explain possibly better if I had understanding of quantum physics, you know. But thank you so much for your explanations. For you both.
 
-## Cynthia DiDonato [01:17:07](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=4627s)
+## Allen Hirsh [01:17:07](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=4627s)
 
 Okay, are we ready for Lee had his hand up. Would you like to ask your questions or make a call?
 
@@ -407,7 +407,7 @@ Thank you, Steve.
 
 Thanks, Steve.
 
-## Cynthia DiDonato [01:23:54](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5034s)
+## Allen Hirsh [01:23:54](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5034s)
 
 Thank you. It's... 7 o'clock. Do we have time for more, Colin or David?
 
@@ -433,7 +433,7 @@ So I feel fairly optimistic that even though, you know, it's not going to replac
 
 And I think it encourages sort of like a culture of sort of curatorial, you know, inclusivity and also the ability for people to develop ideas, you know, in an online medium, which I think, you know, is different than just talking about digital. But like, you know, if we can look at what we're doing here as a group, as a social sculpture in a way that, you know, it's a creative process that we could all be involved in, that to me would be, you know, you know, a great way to do that. And I think that's sort of the way I would envision this project sort of moving forward in the best possible way. So I'm going to hand it over to Cynthia, though, if you have any closing remarks to wrap up for today.
 
-## Cynthia DiDonato [01:28:12](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5292s)
+## Allen Hirsh [01:28:12](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=5292s)
 
 I just want to say I've very much enjoyed listening to our speakers and the discussion that we had. It is a challenging subject. And I think even though it is challenging, many artists have taken on different subjects, different themes, different concepts, different themes, and not everyone understands those themes, whether it be physics or whether it be, you know, automated digital art or AI or, you know, just a theme regarding some period in history. And so it's up to the viewer to make decisions about that work and to also do the work to understand. If you're really interested in that, then you will do the work to perhaps understand. And as a lay person, I've read a number of books on physics that make it somewhat understandable for me, even though there are these mysteries. So there is hope for those who have not studied physics to gain some understanding.
 

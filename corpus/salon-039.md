@@ -68,7 +68,7 @@ You're welcome. And that's kind of the thing with words in general or ideas. A l
 
 Tommy. Oh, yes, Cynthia.
 
-## Cynthia DiDonato [05:53](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=353s)
+## Allen Hirsh [05:53](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=353s)
 
 My concern. Answering my concern all along. Not just mentioning something that is my art. But, you know, these things are gone. Will this be gone? One day. Will the formats that I see. Save my images in. Will there be other formats and they may abandon. Let's say the JPEG or the PNG or the TIFF. Where do we go from there in preserving our digital images and our art? And I think it's very important consideration for us. I'm sure it's for the world because we want to save whether it's digital archives in a museum. Or information or history books that may eventually.
 
@@ -166,7 +166,7 @@ What about.
 
 Oh, go ahead. What about turning this on its head and making art that has a built in obsolescence? If it's digital art, it has an expiration date and then it's gone.
 
-## Cynthia DiDonato [19:46](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=1186s)
+## Allen Hirsh [19:46](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=1186s)
 
 Great.
 
@@ -250,7 +250,7 @@ Think you could sometimes export
 
 It out within the emulator um like um like what I've been doing with that um streamline is um you could run it and save it out in a format like eps or something like that that that still is readable you know um and then you can save it out in a format like so like if you're in an emulator that's modern enough you could probably output like a dot mov file or something else that then you could bring in you know like there might be a crossover point um yeah
 
-## Cynthia DiDonato [28:37](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=1717s)
+## Allen Hirsh [28:37](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=1717s)
 
 Getting back to what raz and david and lee uh were talking about uh the ephemeral quality of what we do um and how that that's that's okay being a part of that I I agree and I think almost I see it like we're creating mandalas that eventually will you know wash away but the whole idea is not just the end product but the journey uh of what we're doing um is important and um even if we look at it as a as a performance you know when people actors create a performance very often it could be taped but sometimes there are live performances that are not taped and you need to be there uh to see it and have the experience so I think there's validity to that I also uh we have we're cognizant of the fact that capitalism and progress promotes planned obsolescence we don't have obsolescence because we um can't use something anymore because something new comes along but they want something new um because they want something new um because they want something new to come along um so you know so we flow with the tide we adapt uh do whatever but yeah I like that idea of um we are part of that journey and and that's remarkable as well
 
@@ -374,7 +374,7 @@ Yeah, probably. So, yeah, it reminds me of something that's happening locally wi
 
 I mean, I think that's really an exciting idea. That's what I've been thinking.
 
-## Cynthia DiDonato [51:38](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3098s)
+## Allen Hirsh [51:38](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3098s)
 
 Yeah, it's an exciting idea. And I was thinking too about this business of heart in our art, emotion or spirituality in our, in our art. One of the themes of literature is head versus heart. And I think that brings up the, all the issues that we've been talking about. If there's too much head and we become or create Frankensteins, that's a problem. If there's not enough heart, that's also a problem that this sense of feeling so that it doesn't, we don't end up with this sterile, sterile art, art that only speaks, does not speak to the human spirit, does not speak to those things that are important for all of us to have and maintain and share and leave for others.
 
@@ -402,7 +402,7 @@ The MUSEK version of art.
 
 But that's, that's, that's what was coming to mind. Like purposely devoiding, like on purpose, removing the heart. And spirit from the artwork so that you could sell a product.
 
-## Cynthia DiDonato [54:54](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3294s)
+## Allen Hirsh [54:54](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3294s)
 
 Unless you remove that and make the art sterile because you're making, you're creating a message.
 
@@ -410,7 +410,7 @@ Unless you remove that and make the art sterile because you're making, you're cr
 
 Right.
 
-## Cynthia DiDonato [55:02](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3302s)
+## Allen Hirsh [55:02](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3302s)
 
 In other words, if you want to, you know, you may want to show sterility, sterility, excuse me, in your art because you want to say something about it. Right. And so then the purpose of your art might be a little bit different. So I guess maybe using the word sterile. And art, you have to think of it in different ways. And I think the way you mentioned devo is, you know, one of the ways where it could be sterile if the purpose is such that maybe it's only for commercialism.
 
@@ -444,7 +444,7 @@ Yeah, some, it's part, it's part of the equation. So I don't know mixing I think
 
 I also.
 
-## Cynthia DiDonato [57:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3430s)
+## Allen Hirsh [57:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3430s)
 
 Oh, go ahead. I was gonna say, or your doctors without borders. Yeah. I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going the art and you know what it's assigned with whether it's a bland I don't want to offend anyone type of art versus I want to get you involved art because we need help we need doctors to go out there where no one will go right
 
@@ -526,7 +526,7 @@ It. The physical object is like a manifestation of the piece, but it's not.
 
 I think so. You know? Yeah.
 
-## Cynthia DiDonato [01:07:30](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4050s)
+## Allen Hirsh [01:07:30](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4050s)
 
 I think that would be a great idea, Davo, if you also put alongside it, should you decide to get rid of the file and print it alongside it, this whole commentary that you are presenting right now about why you did it. Yes. You know, I had this file. I, I had, you know, I've given you the physical manifestation.
 
@@ -586,7 +586,7 @@ Well, when you look at the Russian people, you know what they're doing, I mean, 
 
 Yeah.
 
-## Cynthia DiDonato [01:12:29](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4349s)
+## Allen Hirsh [01:12:29](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4349s)
 
 When you look at all the terrible things that are going on, you have someone like Zelensky who is absolutely incredible in his courage. I probably would have taken the ride out of the country, but this man stays there. And then of course all those other people we don't know about within Ukraine that are doing things marvelous, unbelievable, unspeakably courageous acts. The woman in Russia who gets on the television station news and holds up that sign who has a little child at home and risks everything, her job, her friends, prison, to do that. So when we talk about, you know, the ugly side of human nature, there is also this beauty. The problem is we don't hear about it enough. The drumbeat of the news is always the bad, the bad. What can we get you to do? What can we get you to think is new and to shock you, to get you to pay attention as Colin was mentioning earlier.
 
@@ -618,7 +618,7 @@ And I don't know, I understand that as a tool, it does have a great capacity to 
 
 So it's. I know the Internet is kind of, I guess, a parallel of humanity itself, like in its base essence.
 
-## Cynthia DiDonato [01:17:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4663s)
+## Allen Hirsh [01:17:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4663s)
 
 Who would have thought 50 years ago that Zelensky could talk to all the big, big, big nations of the world? I mean, just the fact that there he is. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers.
 
@@ -626,7 +626,7 @@ Who would have thought 50 years ago that Zelensky could talk to all the big, big
 
 Hitchhikers. Hitchhikers.
 
-## Cynthia DiDonato [01:18:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4690s)
+## Allen Hirsh [01:18:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4690s)
 
 Hitchhikers. Hitchhikers. Hitchhikers.
 
@@ -634,7 +634,7 @@ Hitchhikers. Hitchhikers. Hitchhikers.
 
 Hitchhikers.
 
-## Cynthia DiDonato [01:18:13](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4693s)
+## Allen Hirsh [01:18:13](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4693s)
 
 Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Years ago that he could do that. And he could be, when he talks about, he wanted Biden, when he talked to the U.S., to be the leader of world peace. He's the leader of world peace, Zelensky, in what he's doing. To talk to all these people, to unite us behind him is just, to me, it's totally mind-boggling.
 
@@ -666,7 +666,7 @@ But the pipeline that ended up getting hacked here in the u.S uh not too far bac
 
 Was like we were just doing we blew up a russian pipe natural glass pipeline about 15 years ago um you know it's happened and the other thing I I wanted to say is you know um churchill and fdr got on on the radio and they were communicating with people the same way that zolansky is doing is doing now it's it's a it's a progression in in many ways and and the one the thing that has really happened with the internet is the democratization of the ability to communicate on sort of a on a level playing field or on a playing field that's a lot thinner between the you know the the most the people really in power and and the average person that's
 
-## Cynthia DiDonato [01:22:26](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4946s)
+## Allen Hirsh [01:22:26](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4946s)
 
 The democratization of the universe the internet provides that and so anyone with any message can deliver it and that's good and it's not so good depending on who it is and what their intentions are well this
 
@@ -784,7 +784,7 @@ I mean, I don't even know what that is other than what sort of consensus is. Rig
 
 The idea of the salon is that it's just like a conversation that might have happened in a bar or a coffee shop or someone's living room, you know, like.
 
-## Cynthia DiDonato [01:29:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5383s)
+## Allen Hirsh [01:29:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5383s)
 
 I have another idea, too, is that maybe you come up with a topic and we might create work, artwork that reflects that topic, and then maybe some people would like to share that, not that everyone would have to take it on. But I think that's a good idea. That could be.
 
@@ -792,7 +792,7 @@ I have another idea, too, is that maybe you come up with a topic and we might cr
 
 I like that. Yeah.
 
-## Cynthia DiDonato [01:30:02](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5402s)
+## Allen Hirsh [01:30:02](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5402s)
 
 It could just be like a part of the salon, you know, and other things could happen in the salon as well. But it could be a part and depending on how many people have that work and share it and we could talk about it and then, you know, we tie into that topic and
 
@@ -800,7 +800,7 @@ It could just be like a part of the salon, you know, and other things could happ
 
 It would be a challenge, you know, just like that for an extra one. That way, I don't have to, like, go and find people. But we're all here. And like, we could all. I like that idea because then it's like if someone wants to make something and bring something, it could even be something you've had already. Right. What do you guys think? Like, any suggestions, topic suggestions for that? Topic suggestions.
 
-## Cynthia DiDonato [01:30:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5443s)
+## Allen Hirsh [01:30:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5443s)
 
 Yeah. That's something that when we enter exhibitions, you know, call for entry, you know, they have very often they'll have a topic and then you create it or you have it already and then you, you know, submit it. And so we'd be submitting it, obviously, to the group. I like that. And then we could talk about the work and how we created it. And I think that'd be fun. I'd love to.
 
@@ -808,7 +808,7 @@ Yeah. That's something that when we enter exhibitions, you know, call for entry,
 
 Cynthia, do you have any topic suggestions or does anyone have any topic suggestions for that?
 
-## Cynthia DiDonato [01:31:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5470s)
+## Allen Hirsh [01:31:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5470s)
 
 I know Roz was talking about layering, you know, layers, whether it's layers of meaning or whatever.
 

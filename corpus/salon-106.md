@@ -820,7 +820,7 @@ So, any more questions or observations right now? I'm… And I'm still intereste
 
 So… Go ahead.
 
-## Lisa Sutton [01:10:56](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4256s)
+## Lee Musgrave [01:10:56](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4256s)
 
 I'm curious how you're, use of… Hardware has changed. Like, how is it, like, have you gone to trying, like many of us, every single piece of hardware, all the different bells and whistles, or have you focused down to certain Certain peripherals, certain devices that you use that you've come back to as favorites?
 

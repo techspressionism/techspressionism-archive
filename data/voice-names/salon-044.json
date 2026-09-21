@@ -1,0 +1,91 @@
+{
+  "applied": "2026-09-20 22:09",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 22:06",
+      "fingerprint": "640be3ef7c",
+      "name": "Steve Miller"
+    },
+    "V10": {
+      "at": "2026-09-20 22:08",
+      "fingerprint": "ff1516547b",
+      "name": "Christine Sciulli"
+    },
+    "V11": {
+      "at": "2026-09-20 22:08",
+      "fingerprint": "c34f183786",
+      "name": "Dalton Portella"
+    },
+    "V12": {
+      "at": "2026-09-20 22:08",
+      "fingerprint": "3e1071a9e3",
+      "name": ""
+    },
+    "V13": {
+      "at": "2026-09-20 22:08",
+      "fingerprint": "7314ef03cf",
+      "name": "Michael Pierre Price"
+    },
+    "V14": {
+      "at": "2026-09-20 22:09",
+      "fingerprint": "c9ecba1d13",
+      "name": "Helen A. Harrison"
+    },
+    "V15": {
+      "at": "2026-09-20 22:09",
+      "fingerprint": "4032c86b0a",
+      "name": "Patrick Lichty"
+    },
+    "V16": {
+      "at": "2026-09-20 22:09",
+      "fingerprint": "d32dd820b0",
+      "name": ""
+    },
+    "V17": {
+      "at": "2026-09-20 22:09",
+      "fingerprint": "b301a3c93c",
+      "name": "Steve Miller"
+    },
+    "V2": {
+      "at": "2026-09-20 22:06",
+      "fingerprint": "e785267f0c",
+      "name": "Colin Goldberg"
+    },
+    "V3": {
+      "at": "2026-09-20 22:06",
+      "fingerprint": "6fa520dc0a",
+      "name": "Roz Dimon"
+    },
+    "V4": {
+      "at": "2026-09-20 22:06",
+      "fingerprint": "18cbb25baa",
+      "name": "Nina Yankowitz"
+    },
+    "V5": {
+      "at": "2026-09-20 22:07",
+      "fingerprint": "156d08b936",
+      "name": "John Zieman"
+    },
+    "V6": {
+      "at": "2026-09-20 22:07",
+      "fingerprint": "66447a8659",
+      "name": "Frank Gillette"
+    },
+    "V7": {
+      "at": "2026-09-20 22:07",
+      "fingerprint": "cb15a602b3",
+      "name": "Roy Nicholson"
+    },
+    "V8": {
+      "at": "2026-09-20 22:07",
+      "fingerprint": "4a483d40fa",
+      "name": "Dan Welden"
+    },
+    "V9": {
+      "at": "2026-09-20 22:08",
+      "fingerprint": "08597685f1",
+      "name": "Suzanne Anker"
+    }
+  }
+}

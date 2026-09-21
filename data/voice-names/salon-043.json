@@ -1,0 +1,96 @@
+{
+  "applied": "2026-09-20 22:06",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "a973b32f45",
+      "name": "Roz Dimon"
+    },
+    "V10": {
+      "at": "2026-09-20 22:03",
+      "fingerprint": "142aad5789",
+      "name": "Renata Janiszewska"
+    },
+    "V11": {
+      "at": "2026-09-20 22:03",
+      "fingerprint": "01707870af",
+      "name": "Nina Sobell"
+    },
+    "V12": {
+      "at": "2026-09-20 22:04",
+      "fingerprint": "a2b18be3ac",
+      "name": "Darcy Gerbarg"
+    },
+    "V13": {
+      "at": "2026-09-20 22:04",
+      "fingerprint": "9f6e988bf4",
+      "name": "Patrick Lichty"
+    },
+    "V14": {
+      "at": "2026-09-20 22:04",
+      "fingerprint": "a4496b8213",
+      "name": "Lee Musgrave"
+    },
+    "V15": {
+      "at": "2026-09-20 22:04",
+      "fingerprint": "67a95ba3aa",
+      "name": "Darcy Gerbarg"
+    },
+    "V16": {
+      "at": "2026-09-20 22:05",
+      "fingerprint": "46108d270c",
+      "name": ""
+    },
+    "V17": {
+      "at": "2026-09-20 22:05",
+      "fingerprint": "3b47102a14",
+      "name": ""
+    },
+    "V18": {
+      "at": "2026-09-20 22:05",
+      "fingerprint": "3f46b6ef21",
+      "name": "Victor Acevedo"
+    },
+    "V2": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "d70cb4ea9e",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V3": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "aca08824a6",
+      "name": "Verneda Lights"
+    },
+    "V4": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "a693a6b910",
+      "name": "Negin Ehtesabian"
+    },
+    "V5": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "4ba388ebd4",
+      "name": "Giovanna Sun"
+    },
+    "V6": {
+      "at": "2026-09-20 22:02",
+      "fingerprint": "4d38c5f50b",
+      "name": "Karen LaFleur"
+    },
+    "V7": {
+      "at": "2026-09-20 22:03",
+      "fingerprint": "1c3b985fa7",
+      "name": "Anne Morgan Spalter"
+    },
+    "V8": {
+      "at": "2026-09-20 22:03",
+      "fingerprint": "469f862c68",
+      "name": "Allen Hirsh"
+    },
+    "V9": {
+      "at": "2026-09-20 22:03",
+      "fingerprint": "e207106c30",
+      "name": "Colin Goldberg"
+    }
+  }
+}

@@ -293,7 +293,7 @@ Yeah, the animations are powerful.
 
 Yeah, yeah. Thanks, Collin.
 
-## Cynthia DiDonato [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
+## Allen Hirsh [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
 
 Black and white, Colin.
 
@@ -301,7 +301,7 @@ Black and white, Colin.
 
 That was cool, yeah.
 
-## Cynthia DiDonato [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
+## Allen Hirsh [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
 
 Beautiful.
 
@@ -333,7 +333,7 @@ Here we have the original image. And we see the various ways in which the AI pic
 
 And here, again, the original image.
 
-## Cheryl Lavoie [01:03:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3821s)
+## Verneda Lights [01:03:41](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3821s)
 
 Huh.
 
@@ -403,7 +403,7 @@ So I'm… I'm kind of hoping it takes a long time to… to evolve into perfectio
 
 Okay, we have a couple raised hands. Cheryl.
 
-## Cheryl Lavoie [01:12:27](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4347s)
+## Verneda Lights [01:12:27](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4347s)
 
 Hi, I just… I'm… I'm, like, overwhelmed here. I'm so far behind. I started in 19… 83, with… Kind of crazy art with, a computer, like, the little one… mini computer that Apple had. And there was just a keyboard there, and… we could print from the other room, and whatever, whatever, and I made a piece that I don't know if I've shown you guys, but… Consistent of… all you could use was copy paper, and I put together, like, 12… 12 pieces of copy paper, and… and there was my work, so… that's… that's in 1983.
 
@@ -413,7 +413,7 @@ And I had so much trouble with Adobe and all that, and I'm gonna have to go back
 
 Yep, we hear you.
 
-## Cheryl Lavoie [01:13:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4432s)
+## Verneda Lights [01:13:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4432s)
 
 Okay, I'm just so overwhelmed by the beautiful work that everybody presented today, and I just wondered if anybody wanted to hear, what ChatGPT said about itself. It's kind of funny, because I asked… I asked it, what is generative AI? It says… Generative… Okay, why is this?
 
@@ -561,7 +561,7 @@ Can I just make a suggestion on that? Because I've actually looked into this a l
 
 Yeah, thank you, that sounds great. What I want to do is create iterations of, like, my current artwork, which, you know, one drawing may take me days. Days to complete, so I want to make iterations of similar styles but what I want… what I'm really interested also is getting them in color, because right now they're all in black and white. It's not that I can't do color on my own, it's that… The time it would save me. It's such an incredible tool that I want to utilize it.
 
-## Jacki Morie [01:30:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5407s)
+## Michael Pierre Price [01:30:07](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5407s)
 
 I'll weigh in here, because I do have friends that have done exactly what you want to do. Kevin Mack has his own, stable diffusion, setup. I've tried to set one up. It takes, it takes so much work, and it takes over your PC or whatever. It doesn't work as well on a Mac, so you need a pretty powerful graphics PC to do that, and you set up the stable diffusion software on your computer, and then you have to… there's thousands of models out there from which you can choose. You can also go to the extent of setting Up your own model with your own artwork, it takes quite a bit, so you would have to scan in every one of your images to make that model database for the stable diffusion type of thing that you would be putting on your computer. It is such a rabbit hole.
 

@@ -1,0 +1,66 @@
+{
+  "applied": "2026-09-20 21:25",
+  "approved_auto": false,
+  "voices": {
+    "V10": {
+      "at": "2026-09-20 21:24",
+      "fingerprint": "f1cf78c732",
+      "name": "Lee Day"
+    },
+    "V11": {
+      "at": "2026-09-20 21:24",
+      "fingerprint": "759fe5e4f5",
+      "name": "Michael Rees"
+    },
+    "V12": {
+      "at": "2026-09-20 21:25",
+      "fingerprint": "7fdb6e4139",
+      "name": "Michael Pierre Price"
+    },
+    "V13": {
+      "at": "2026-09-20 21:25",
+      "fingerprint": "187a9920f4",
+      "name": "Cynthia DiDonato"
+    },
+    "V2": {
+      "at": "2026-09-20 21:20",
+      "fingerprint": "c2078eeaaf",
+      "name": "Patrick Lichty"
+    },
+    "V3": {
+      "at": "2026-09-20 21:22",
+      "fingerprint": "9c3226c34d",
+      "name": "Ellis Eclipse"
+    },
+    "V4": {
+      "at": "2026-09-20 21:22",
+      "fingerprint": "d48b1f5ef4",
+      "name": "Lucy Boyd-Wilson"
+    },
+    "V5": {
+      "at": "2026-09-20 21:22",
+      "fingerprint": "b0998c0e40",
+      "name": "Giovanna Sun"
+    },
+    "V6": {
+      "at": "2026-09-20 21:23",
+      "fingerprint": "18cb8cd19b",
+      "name": "Renata Janiszewska"
+    },
+    "V7": {
+      "at": "2026-09-20 21:23",
+      "fingerprint": "4da6e1dbd1",
+      "name": "Holly Gordon"
+    },
+    "V8": {
+      "at": "2026-09-20 21:24",
+      "fingerprint": "5be0a05320",
+      "name": "Tommy Mintz"
+    },
+    "V9": {
+      "at": "2026-09-20 21:24",
+      "fingerprint": "12952cc0bc",
+      "name": "Lee Schnaiberg"
+    }
+  }
+}

@@ -87,7 +87,7 @@ I think it's probably from 2017. And I wasn't, keeping track. And this, this is 
 
 Awesome. Thank you, Susan. Any, okay. I think we'll probably hold questions until everyone's presented and then just sort of open it up. Okay. So, Cynthia, you're up next.
 
-## Cynthia DiDonato [11:35](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=695s)
+## Allen Hirsh [11:35](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=695s)
 
 What's the problem? We're going to have to say I'm like, so you're just going to just say the question. We're going to have to say the question. We're going to have to say the question. We're going to have to say the question. We're going to have to say the question. Can everyone see the piece? Yes.
 
@@ -95,7 +95,7 @@ What's the problem? We're going to have to say I'm like, so you're just going to
 
 Okay.
 
-## Cynthia DiDonato [12:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=724s)
+## Allen Hirsh [12:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=724s)
 
 This is a piece that's hot off the press that uses collage. I've made it in the last two weeks. It's called Turbulence. There's a call for art, an international one, called Below the Surface. It's art that deals with exploring the ocean and its issues. And it follows Below the Surface 1, which is a Synergy project in Rhode Island. Because it's a project that's really important to us. It's about the relationship between the art league of Rhode Island, of which I am a member, and Woods Hole. And so I decided to work on this piece. And it started with two photographs of textures.
 
@@ -105,7 +105,7 @@ I think it's metal, actually. And then between placing the two pieces of metal a
 
 And so there it is.
 
-## Cynthia DiDonato [13:32](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=812s)
+## Allen Hirsh [13:32](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=812s)
 
 My second piece that I wanted to show you is called Tree Talk. And this is another collage technique I use that involves another piece of software called iColorama, which allows me to take a picture of trees. And then it segments the tree image into separate areas. For example, this brown area is one area. And as you can see, it runs right through the piece. Then there's another segment here and another segment here and at the bottom. And I'm able to bring in textures from my digital art that I've already created and then put it inside. So it's a total collage technique as well.
 

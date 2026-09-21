@@ -1,0 +1,31 @@
+{
+  "applied": "2026-09-20 21:47",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:45",
+      "fingerprint": "943e9359bc",
+      "name": "Yuge Zhou"
+    },
+    "V4": {
+      "at": "2026-09-20 21:46",
+      "fingerprint": "4136352169",
+      "name": "Jan Swinbume"
+    },
+    "V5": {
+      "at": "2026-09-20 21:46",
+      "fingerprint": "d44abe3af9",
+      "name": "Renata Janiszewska"
+    },
+    "V7": {
+      "at": "2026-09-20 21:46",
+      "fingerprint": "2b6c9b75c0",
+      "name": "Allen Hirsh"
+    },
+    "V8": {
+      "at": "2026-09-20 21:47",
+      "fingerprint": "0f2c938c38",
+      "name": "Michael Pierre Price"
+    }
+  }
+}

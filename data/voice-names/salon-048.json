@@ -1,0 +1,81 @@
+{
+  "applied": "2026-09-20 22:10",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:34",
+      "fingerprint": "d2594bc131",
+      "name": "Patrick Lichty"
+    },
+    "V10": {
+      "at": "2026-09-20 21:37",
+      "fingerprint": "a9be7475a4",
+      "name": "Michael Pierre Price"
+    },
+    "V11": {
+      "at": "2026-09-20 21:37",
+      "fingerprint": "fcbaa36663",
+      "name": ""
+    },
+    "V12": {
+      "at": "2026-09-20 21:37",
+      "fingerprint": "7452832b7a",
+      "name": ""
+    },
+    "V13": {
+      "at": "2026-09-20 21:37",
+      "fingerprint": "5668966638",
+      "name": ""
+    },
+    "V14": {
+      "at": "2026-09-20 21:37",
+      "fingerprint": "1175dafb01",
+      "name": "Chalda Maloff"
+    },
+    "V15": {
+      "at": "2026-09-20 21:38",
+      "fingerprint": "761344e8f3",
+      "name": "Patrick Lichty"
+    },
+    "V2": {
+      "at": "2026-09-20 21:34",
+      "fingerprint": "5524bdb868",
+      "name": "Michael Pierre Price"
+    },
+    "V3": {
+      "at": "2026-09-20 21:34",
+      "fingerprint": "f6f54e9b59",
+      "name": "Lee Schnaiberg"
+    },
+    "V4": {
+      "at": "2026-09-20 21:34",
+      "fingerprint": "3ac94cfe84",
+      "name": "Jan Swinburne"
+    },
+    "V5": {
+      "at": "2026-09-20 21:36",
+      "fingerprint": "36239051e6",
+      "name": ""
+    },
+    "V6": {
+      "at": "2026-09-20 21:36",
+      "fingerprint": "ea15aa08f0",
+      "name": "Renata Janiszewska"
+    },
+    "V7": {
+      "at": "2026-09-20 21:36",
+      "fingerprint": "6f5cdf819e",
+      "name": "Victor Acevedo"
+    },
+    "V8": {
+      "at": "2026-09-20 21:36",
+      "fingerprint": "7f950778b7",
+      "name": "Lee Day"
+    },
+    "V9": {
+      "at": "2026-09-20 22:10",
+      "fingerprint": "ccf3eaae1d",
+      "name": "Lee Musgrave"
+    }
+  }
+}

@@ -1,11 +1,36 @@
 {
-  "applied": "2026-09-20 21:12",
+  "applied": "2026-09-20 21:58",
   "approved_auto": false,
   "voices": {
     "V1": {
       "at": "2026-09-20 21:10",
       "fingerprint": "220c58b725",
       "name": "Ann Shapiro"
+    },
+    "V10": {
+      "at": "2026-09-20 21:57",
+      "fingerprint": "da887b0d31",
+      "name": ""
+    },
+    "V11": {
+      "at": "2026-09-20 21:57",
+      "fingerprint": "3ef4e2b1a6",
+      "name": "Lucy Boyd-Wilson"
+    },
+    "V12": {
+      "at": "2026-09-20 21:58",
+      "fingerprint": "8320b25ffe",
+      "name": "Roz Dimon"
+    },
+    "V13": {
+      "at": "2026-09-20 21:57",
+      "fingerprint": "78b2337e0f",
+      "name": "Tommy Mintz"
+    },
+    "V14": {
+      "at": "2026-09-20 21:57",
+      "fingerprint": "51f59aa5b7",
+      "name": "Cheryl Audet-Lavoie"
     },
     "V2": {
       "at": "2026-09-20 21:10",
@@ -36,6 +61,16 @@
       "at": "2026-09-20 21:11",
       "fingerprint": "a2bea8ac42",
       "name": "Marlow DJ Shami"
+    },
+    "V8": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "7246c8143f",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V9": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "624b3ddf59",
+      "name": "Holly Gordon"
     }
   }
 }

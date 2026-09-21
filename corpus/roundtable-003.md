@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=_oxmBXSdyNk"
 duration_seconds: 3420
 moderator: Michael Pierre Price
 speakers:
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: North Providence, Rhode Island USA
     start: None
   - name: Karen LaFleur
@@ -30,7 +30,7 @@ Hello, this is the Techspressionism Roundtable number three. Today is June 12, 2
 
 And after the presentations, we will go into a discussion about their projects, how it's impacted them, how it relates to Techspressionism, and things of that nature. So without wanting to waste too much time here, Cynthia DiDonato, you have the microphone.
 
-## Cynthia DiDonato [01:18](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=78s)
+## Allen Hirsh [01:18](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=78s)
 
 Well, thank you, Michael. I'm going to share my screen.
 
@@ -38,7 +38,7 @@ Well, thank you, Michael. I'm going to share my screen.
 
 Thank you.
 
-## Cynthia DiDonato [01:37](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=97s)
+## Allen Hirsh [01:37](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=97s)
 
 Today I will begin with a brief history of Synergy II. For me, it began with Art League of Rhode Island. I've been a member for 10 years, and both Karen LaFleur and Cynthia Beth Rubin, who are with us today, are invited to participate in Synergy II. We're involved in the latest iteration of this scientist and artist collaboration.
 
@@ -60,7 +60,7 @@ Broadly, I am excited by projects that highlight the nuanced continuum of variat
 
 This is a piece that I created for the project. It's a very interesting piece. The space is very close to the surface. The bottom of the 125m2 deep sea level is the 200m2 deep sea level. The bottom of the 125m2 deep sea level is the 200m2 deep sea level. The bottom of the 125m2 deep sea level is the 200m2 deep sea level. The bottom of the 125m2 deep sea level is the 200m2 deep sea level. The bottom of the 125m2 deep sea level is the 200m2 deep sea level. The bottom of the 125m2 deep sea level is the 200m2 deep sea level.
 
-## Cynthia DiDonato [08:41](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=521s)
+## Allen Hirsh [08:41](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=521s)
 
 Thank you for listening.
 
@@ -154,7 +154,7 @@ All right.
 
 Yes.
 
-## Cynthia DiDonato [25:11](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1511s)
+## Allen Hirsh [25:11](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1511s)
 
 And I'm, if Karen, are you finished? Yes. Okay. I'm probably 90% finished. I'm working on finishing up the longer and... The longer and shorter version of the animation, obviously. Meeting with my scientist next week, so she can look at the entire animation and make comments about what she thinks, you know, may be working or not working. And hopefully there won't be too many of those.
 
@@ -172,7 +172,7 @@ It's all about you. You know area of expertise that the scientists are coming to
 
 For me michael it's been um usually when I approach my artwork it's pretty free form you know there are objects flying all over the screen because basically I'm moving with moving images and I and I sort of do collage on the fly but I love the ocean I've always lived by the ocean so and I know it quite well from that point of view but I think what lucas uh tensor the scientist at woods hole has taught me is that I can look at that free form in a different way I mean I can free form to start then say hey what if I look at what's actually going on under the hood and then free form that so it's given me kind of a segue to free form a different way that's what I would say okay that's very interesting
 
-## Cynthia DiDonato [27:52](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1672s)
+## Allen Hirsh [27:52](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1672s)
 
 And and I would say it's impacted my art in that I have been working with animation for the last couple of years and this has caused me to stretch um in terms of what I have done in the past so I think that has been really important to me also um very important me which I mentioned earlier is as a retired educator educating the public about science is so important and with art uh between color and movement um we're able to attract people and say oh here's a message that I perhaps would not have been able to enjoy or or understand well and yet here is something that works and for me uh the beauty of the deep sea um I think is extremely attractive and some people don't realize you know that's the beauty of the deep sea and I think that's the beauty of the deep sea um I think that's the beauty of the deep sea and I think that's the beauty of the deep sea very good
 
@@ -220,7 +220,7 @@ Yeah sit yes well learning about different kinds of graphing we just think oh yo
 
 Me
 
-## Cynthia DiDonato [32:58](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1978s)
+## Allen Hirsh [32:58](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=1978s)
 
 Uh the aha moment was um coming up with imagery uh and film and um other items to create a coherent narrative uh that shows the uh that transforms the deep sea imagery and conveys a relationship between the microbial life in the vents and how it sustains other creatures at those depths so that was a lot of research that I had to do on my part and of course michelle was instrumental in directing me to where I might find such imagery and she herself um you got permissions for me to uh download video by the schmidt ocean science group which again I thank um to help with giving me some of those image images because her images were not done in her lab she had to rely on what's down there she did get an opportunity to be on um one of those cruises where the r.O.V.S I think if I'm saying that correctly descend to great depths and send up information to the cruiser above and so I was relying on what she could tell me about that and also what she could find appoint me to to do research so there were many months of research for sure
 
@@ -254,7 +254,7 @@ Thanks, Karen.
 
 It was tough to match.
 
-## Cynthia DiDonato [38:34](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2314s)
+## Allen Hirsh [38:34](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2314s)
 
 I think it was easier for me in that we had a large meeting on the URI campus at the School of Oceanology. And scientists were brought into the meeting. Artists were brought into the meeting. And we began talking to one another about, you know, what we do in particular, what the scientists do and what artists enjoy doing. Well, at that time, I listened to Michelle and her discussion about her work with deep sea vents. And I was immediately attracted to that because, again, a great lover of science. And PBS and my first encounter with tube worms was on PBS. So I said, oh, wow, I think I want to work with her. Well, she immediately started talking to another artist.
 
@@ -294,7 +294,7 @@ That too.
 
 Yeah.
 
-## Cynthia DiDonato [44:36](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2676s)
+## Allen Hirsh [44:36](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2676s)
 
 For me too, I think, of course, it has stretched my creativity. As I said, I've gotten more involved with animation and learning things about animation that I did not know, being relatively new after two years of working with it. So that has really helped my creativity within animation. But the other thing I think that's very profound. Is the concept of working as a collaboration.
 
@@ -318,7 +318,7 @@ Probably artwork that's built on science and you can't see the science in it any
 
 That's really interesting. So that brings me to my next to the last question. And that is. The union of art and science. And I mean. To me, there are two sides of the same. Same endeavor in a lot of ways. And I'm just curious. Just briefly. Do you have a new, a new sensibility about art and science? Do you. Through your experience.
 
-## Cynthia DiDonato [48:04](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2884s)
+## Allen Hirsh [48:04](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=2884s)
 
 I definitely have a new sense. I think the marriage of art and science is imperative. If we're going to, for the future of the planet. And. The fact that science deals with truth. And. Art. Also attempts to deal with truth. And so I think they are a wonderful pairing. Hmm.
 
@@ -340,7 +340,7 @@ So I feel like I'm a little bit the voice of dissent here in some ways, because 
 
 But I think we're still there.
 
-## Cynthia DiDonato [50:05](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3005s)
+## Allen Hirsh [50:05](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3005s)
 
 But I also think that scientists need to see and understand art and incorporate it within their work. Because as was mentioned earlier, I think it was Cynthia or maybe Karen or both of you that it's important to have different ways of seeing because the different ways of seeing can bring about changes within their science and certainly changes within art. Are.
 
@@ -362,7 +362,7 @@ Oh, that's a great point. Yeah.
 
 It is. And I can only speak from the group that I've been in, Cynthia. And maybe because there's a little history with this program now, they can kind of see what was done before, so they'll jump. But every scientist, because we're all in one group together, we have meetings, and they are so interested in the ways that art can communicate what they do because they feel like they want to get it to the public in a way that the public can start to engage with what they're doing. So the enthusiasm surprised me, is my point of view. I thought it was going to be a little bit more interesting, but I think it's a little bit more interesting. It's not going to be no illustrate this. No. They want a collaboration.
 
-## Cynthia DiDonato [52:00](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3120s)
+## Allen Hirsh [52:00](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3120s)
 
 Yeah. And the enthusiasm was evident in my very first meeting with in person. The fact that many of them who are URI are not only pursuing their PhD, some of them are also full time in the classroom. And yet they found time to come meet with us and discuss this very issue about educating the public.
 
@@ -372,7 +372,7 @@ Yeah. And the enthusiasm surprised me, is my point of view. I thought it was goi
 
 Okay, so we're getting close to needing to wrap up and I don't know if you're prepared to do this, but I was hoping maybe each of you could share your screen one last time maybe with one piece, one image, either your final image or something you're working on and just share a final thought it can be as profound or unprofound as you want it to be. And maybe Cynthia since Cynthia DiDonato and I don't know if she's here. So, Cynthia, could you share one last thing that you would like to share with us? So, Cynthia, since you're on screen, would you be willing to share one more image or one of your images?
 
-## Cynthia DiDonato [53:04](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3184s)
+## Allen Hirsh [53:04](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3184s)
 
 An image you haven't already seen?
 
@@ -380,7 +380,7 @@ An image you haven't already seen?
 
 No, it could be one that you showed.
 
-## Cynthia DiDonato [53:07](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3187s)
+## Allen Hirsh [53:07](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3187s)
 
 Okay. All right.
 
@@ -388,7 +388,7 @@ Okay. All right.
 
 And just any final thought? Good, bad, ugly, whatever.
 
-## Cynthia DiDonato [53:16](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3196s)
+## Allen Hirsh [53:16](https://www.youtube.com/watch?v=_oxmBXSdyNk&t=3196s)
 
 Okay. I guess this particular image is an image that I really, really am very fond of. That deals with the jellyfish in the ocean depth and the repetition of the jellyfish fascinated me. And that's why I created this particular image. So I will leave you with this because it's the one I love the best. Cool.
 

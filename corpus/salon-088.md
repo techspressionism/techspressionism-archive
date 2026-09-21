@@ -175,7 +175,7 @@ Yes.
 
 Absolutely.
 
-## Cynthia DiDonato [18:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1113s)
+## Allen Hirsh [18:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1113s)
 
 I particularly enjoy the piece with the musicians. I'm enjoying the fact that the music that is emanating from the Person playing the Indian. Drum, or whatever it is, I think it looks like a drum, is sending out peace symbols and trying to show harmony, and I think that that's quite important for all of us to see today, particularly, as Colin said, there's a connection of people different countries within the piece. If I understand what you said earlier.
 
@@ -291,7 +291,7 @@ Thank you.
 
 Thank you, sir.
 
-## Cynthia DiDonato [27:22](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1642s)
+## Allen Hirsh [27:22](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1642s)
 
 I agree, and I'm fascinated with the concept of the chains holding back the dreamer. Very powerful image.
 
@@ -323,7 +323,7 @@ Really nice.
 
 Thank you.
 
-## Cynthia DiDonato [28:21](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1701s)
+## Allen Hirsh [28:21](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1701s)
 
 And are we meant to see this girl here? But then the girl in the second image, as 2 separate pieces. Are you showing us the building of the final piece.
 
@@ -331,7 +331,7 @@ And are we meant to see this girl here? But then the girl in the second image, a
 
 No, ma'am, those are 2 completely different pieces.
 
-## Cynthia DiDonato [28:40](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1720s)
+## Allen Hirsh [28:40](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1720s)
 
 Thank you. They're both wonderful.
 
@@ -455,7 +455,7 @@ It's funny. I had the same reaction to it being a mountain as well. In the 1st o
 
 Yeah.
 
-## Cynthia DiDonato [36:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2179s)
+## Allen Hirsh [36:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2179s)
 
 I was seeing it as a road or a path, her journey to where she plans to go, and I really like the what appears to be a thread in her hand that somehow she's responsible for bringing this to fruition.
 
@@ -553,7 +553,7 @@ So we end up our students presentation here. Thank you. Everyone for asking the 
 
 Thanks, thanks so much. Malavika. I also had the thought while these presentations were going on, that just, you know, the the students ability to articulate. You know what the work is about in English is really remarkable. You know, it made me think about how I'm not fluent in any other language. And you know I mean, most American high school students study another language, but I don't think ever get to the point where they can really speak you know, in in such a way that it just sounds like you know their native language. And you know, I think initially, I just sort of took that for granted. Oh, they're explaining their work and everything. But just the fact that it's Basically, you know, in another language that isn't their language that they probably, you know, learned initially. It's it's pretty. It's pretty amazing. So and you know, I wanted to thank you for organizing this Exhibition and project, you know, especially you know, bringing students into the mix. I think it's it's really refreshing to see the work Done by students where there's really no Other, you know. Kind of agenda. When the work is made. It's really just pure creativity, I think. In terms of you know, it's it's just kind of different. And and just showing how you know this idea to Expressionism has touched people. You know, in India. I think it's it's pretty great. So I definitely want to thank you. And you know, if I don't know if anyone in the Zoom has any general questions, comments, either for Malavika or anyone else. Just jump on in, Cynthia.
 
-## Cynthia DiDonato [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
+## Allen Hirsh [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
 
 Yes, I I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of Collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
 
@@ -673,7 +673,7 @@ That's dangerous for us.
 
 Cool.
 
-## Cynthia DiDonato [01:00:13](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3613s)
+## Allen Hirsh [01:00:13](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3613s)
 
 You're saying the 3D piece is moving to another. You move to another piece of software to create that. And that when you put the line drawing in. Maybe the second item that we saw in the list of 3 is what the AI does, and then from there you take it to another piece of software to create 3D.
 
@@ -681,7 +681,7 @@ You're saying the 3D piece is moving to another. You move to another piece of so
 
 No, it just you just click the 3D model and it it generates a 3D model out of the final render.
 
-## Cynthia DiDonato [01:00:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3644s)
+## Allen Hirsh [01:00:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3644s)
 
 Oh, that's amazing!
 
@@ -857,7 +857,7 @@ I thought you had volunteered the last one that you're gonna.
 
 But it's probably okay.
 
-## Cynthia DiDonato [01:20:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4829s)
+## Allen Hirsh [01:20:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4829s)
 
 I'm gay, I'm gay.
 
@@ -869,7 +869,7 @@ Yeah, it's probably good.
 
 Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new Artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to To decide on it.
 
-## Cynthia DiDonato [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
+## Allen Hirsh [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
 
 I think it's a great idea.
 

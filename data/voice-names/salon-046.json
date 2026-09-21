@@ -1,0 +1,71 @@
+{
+  "applied": "2026-09-20 21:30",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:26",
+      "fingerprint": "5c9ab14fb1",
+      "name": "Patrick Lichty"
+    },
+    "V10": {
+      "at": "2026-09-20 21:29",
+      "fingerprint": "4264e25bdc",
+      "name": "Carter Hodgkin"
+    },
+    "V11": {
+      "at": "2026-09-20 21:30",
+      "fingerprint": "f19da1955a",
+      "name": "Negin Ehtesabian"
+    },
+    "V12": {
+      "at": "2026-09-20 21:30",
+      "fingerprint": "250a02a144",
+      "name": "Patrick Lichty"
+    },
+    "V13": {
+      "at": "2026-09-20 21:30",
+      "fingerprint": "6520f27ad3",
+      "name": "Roz Dimon"
+    },
+    "V2": {
+      "at": "2026-09-20 21:26",
+      "fingerprint": "802fe6e57c",
+      "name": "Colin Goldberg"
+    },
+    "V3": {
+      "at": "2026-09-20 21:26",
+      "fingerprint": "6d4c918c58",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V4": {
+      "at": "2026-09-20 21:26",
+      "fingerprint": "8abad0f4ba",
+      "name": "Tommy Mintz"
+    },
+    "V5": {
+      "at": "2026-09-20 21:26",
+      "fingerprint": "86a6cf6dca",
+      "name": "Victor Acevedo"
+    },
+    "V6": {
+      "at": "2026-09-20 21:27",
+      "fingerprint": "927723a53b",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V7": {
+      "at": "2026-09-20 21:27",
+      "fingerprint": "af730f7a36",
+      "name": "Renata Janiszewska"
+    },
+    "V8": {
+      "at": "2026-09-20 21:28",
+      "fingerprint": "a62ecbaf6d",
+      "name": "Marjan Andaroodi"
+    },
+    "V9": {
+      "at": "2026-09-20 21:29",
+      "fingerprint": "8964ed8c4d",
+      "name": "Uli Ap"
+    }
+  }
+}

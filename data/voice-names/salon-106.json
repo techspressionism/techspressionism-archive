@@ -1,0 +1,76 @@
+{
+  "applied": "2026-09-20 21:56",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:52",
+      "fingerprint": "1dbd1804ac",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V10": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "c42428fc91",
+      "name": "Roz Dimon"
+    },
+    "V11": {
+      "at": "2026-09-20 21:55",
+      "fingerprint": "59b583f767",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V12": {
+      "at": "2026-09-20 21:53",
+      "fingerprint": "4db48489d7",
+      "name": ""
+    },
+    "V13": {
+      "at": "2026-09-20 21:53",
+      "fingerprint": "7a2247a578",
+      "name": ""
+    },
+    "V14": {
+      "at": "2026-09-20 21:54",
+      "fingerprint": "eb2c92d6ef",
+      "name": "Lee Musgrave"
+    },
+    "V15": {
+      "at": "2026-09-20 21:54",
+      "fingerprint": "3bd7c15d4e",
+      "name": "Lisa Sutton"
+    },
+    "V16": {
+      "at": "2026-09-20 21:54",
+      "fingerprint": "d76ab27550",
+      "name": "Systaime"
+    },
+    "V17": {
+      "at": "2026-09-20 21:55",
+      "fingerprint": "fc3edba621",
+      "name": "Treeskulltown"
+    },
+    "V5": {
+      "at": "2026-09-20 21:53",
+      "fingerprint": "3701666541",
+      "name": "treeskulltown"
+    },
+    "V6": {
+      "at": "2026-09-20 21:55",
+      "fingerprint": "9067853def",
+      "name": "Systaime"
+    },
+    "V7": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "d0a8a152d0",
+      "name": "Stephen Paré"
+    },
+    "V8": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "ecb1df17a1",
+      "name": "Colin Goldberg"
+    },
+    "V9": {
+      "at": "2026-09-20 21:56",
+      "fingerprint": "e6be6025f8",
+      "name": ""
+    }
+  }
+}

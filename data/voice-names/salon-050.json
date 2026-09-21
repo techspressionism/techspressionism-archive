@@ -1,0 +1,81 @@
+{
+  "applied": "2026-09-20 21:45",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 21:41",
+      "fingerprint": "96d3e967b1",
+      "name": "Roz Dimon"
+    },
+    "V10": {
+      "at": "2026-09-20 21:44",
+      "fingerprint": "5ad6bbf8e6",
+      "name": "Patrick Lichty"
+    },
+    "V11": {
+      "at": "2026-09-20 21:44",
+      "fingerprint": "63237d6ffc",
+      "name": "Tommy Mintz"
+    },
+    "V12": {
+      "at": "2026-09-20 21:44",
+      "fingerprint": "7f9f2f0342",
+      "name": "Patrick Lichty"
+    },
+    "V13": {
+      "at": "2026-09-20 21:44",
+      "fingerprint": "56de98cea4",
+      "name": "Cynthia DiDonato"
+    },
+    "V14": {
+      "at": "2026-09-20 21:45",
+      "fingerprint": "8e1465bdc5",
+      "name": "Susan Detroy"
+    },
+    "V15": {
+      "at": "2026-09-20 21:45",
+      "fingerprint": "135edd737a",
+      "name": ""
+    },
+    "V2": {
+      "at": "2026-09-20 21:42",
+      "fingerprint": "2a8bcef592",
+      "name": "Sasha Pyle"
+    },
+    "V3": {
+      "at": "2026-09-20 21:42",
+      "fingerprint": "572013a601",
+      "name": "Verneda Lights"
+    },
+    "V4": {
+      "at": "2026-09-20 21:42",
+      "fingerprint": "96fff639bd",
+      "name": "Roz Dimon"
+    },
+    "V5": {
+      "at": "2026-09-20 21:43",
+      "fingerprint": "87153596d2",
+      "name": "Reese Schroeder"
+    },
+    "V6": {
+      "at": "2026-09-20 21:43",
+      "fingerprint": "2e27e9f4e4",
+      "name": "Gregory Little"
+    },
+    "V7": {
+      "at": "2026-09-20 21:43",
+      "fingerprint": "d85a48e17c",
+      "name": "Colin Goldberg"
+    },
+    "V8": {
+      "at": "2026-09-20 21:43",
+      "fingerprint": "e1b9380864",
+      "name": "Susan Detroy"
+    },
+    "V9": {
+      "at": "2026-09-20 21:44",
+      "fingerprint": "2b6232aac9",
+      "name": "Renata Janiszewska"
+    }
+  }
+}

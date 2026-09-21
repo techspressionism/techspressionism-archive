@@ -277,7 +277,7 @@ Yeah, no. Okay. Let's... You can move on. I'm going to see if I can manage to sh
 
 We will. And we'll come back to you later on. Thank you very much. Thank you. Our next presenter is Cynthia DiDonato.
 
-## Cynthia DiDonato [36:16](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2176s)
+## Allen Hirsh [36:16](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2176s)
 
 Hello, everyone. I'm very happy to be here, and I very much enjoyed those people who have spoken before me. And I would probably say many of the things that they have already said. I will, of course, say that painting is not dead, and neither is art. I think that the most important thing is photography.
 
@@ -295,7 +295,7 @@ It wants a plug in. Sorry about that.
 
 Okay, let's see. I think it's going to happen. Okay. I have to get rid of this.
 
-## Cynthia DiDonato [38:19](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2299s)
+## Allen Hirsh [38:19](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2299s)
 
 Okay, can you see my screen?
 
@@ -303,7 +303,7 @@ Okay, can you see my screen?
 
 Yeah, that's got it.
 
-## Cynthia DiDonato [38:22](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2302s)
+## Allen Hirsh [38:22](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2302s)
 
 Great. Yes. Okay. I'll go through these. Here's a first image that I've taken with my iPhone. By the way, that's what I use is my iPhone. And I was able to create this image by manipulating primarily in Procreate, which is an iPad app that's used by a lot of professionals. And with the help of digital paint and that first image, I was able to come up with this piece called Turbulence.
 
@@ -515,7 +515,7 @@ Do you have the whole bottom menu? Yes.
 
 I have the new security, the more and leave the option. But that's as far as I go. The green option is no longer available.
 
-## Cynthia DiDonato [01:12:18](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4338s)
+## Allen Hirsh [01:12:18](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4338s)
 
 Is it possible that you could close some of the windows there and that maybe it's behind a window? Yeah.
 

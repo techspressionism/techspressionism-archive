@@ -1,4 +1,5 @@
 {
+  "applied": "2026-09-20 22:02",
   "approved_auto": false,
   "voices": {
     "V1": {
@@ -15,6 +16,11 @@
       "at": "2026-09-20 21:15",
       "fingerprint": "e406b887d5",
       "name": "Patrick Lichty"
+    },
+    "V12": {
+      "at": "2026-09-20 21:58",
+      "fingerprint": "c75e524faf",
+      "name": "Steve Miller"
     },
     "V13": {
       "at": "2026-09-20 21:16",
@@ -36,15 +42,105 @@
       "fingerprint": "893ee5053f",
       "name": "Darcy Gerbarg"
     },
+    "V17": {
+      "at": "2026-09-20 21:58",
+      "fingerprint": "5ecd90470e",
+      "name": "Tom Dunn"
+    },
+    "V18": {
+      "at": "2026-09-20 21:58",
+      "fingerprint": "e7f919c640",
+      "name": "Karen LaFleur"
+    },
+    "V19": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "79de20479f",
+      "name": "ScoJo"
+    },
     "V2": {
       "at": "2026-09-20 21:13",
       "fingerprint": "5ce26ba8b0",
       "name": "Roz Dimon"
     },
+    "V20": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "cdc8af8e7d",
+      "name": "Renata Janiszewska"
+    },
+    "V21": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "2e6c652a21",
+      "name": "Lee Musgrave"
+    },
+    "V22": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "a7773bd0f5",
+      "name": "Malavika Mandal Andrew"
+    },
+    "V23": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "f5355616e1",
+      "name": "Sahar Moussavi"
+    },
+    "V24": {
+      "at": "2026-09-20 21:59",
+      "fingerprint": "fec7064a56",
+      "name": "Christine Sciulli"
+    },
+    "V25": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "d0097df439",
+      "name": "Sherry Karver"
+    },
+    "V26": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "42fb5e18be",
+      "name": "Dalton Portella"
+    },
+    "V27": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "c53aace0a1",
+      "name": "Allen Hirsh"
+    },
+    "V28": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "24b14c8c52",
+      "name": "Lucie Králíková"
+    },
+    "V29": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "acc1a7d508",
+      "name": "Stephanie Sydney"
+    },
     "V3": {
       "at": "2026-09-20 21:13",
       "fingerprint": "3c4ba72dce",
       "name": "Davonte Bradley"
+    },
+    "V30": {
+      "at": "2026-09-20 22:00",
+      "fingerprint": "0ccd1e4cca",
+      "name": "Michael Mesiats aka Moonth"
+    },
+    "V31": {
+      "at": "2026-09-20 22:01",
+      "fingerprint": "732de16786",
+      "name": "Anne Morgan Spalter"
+    },
+    "V32": {
+      "at": "2026-09-20 22:01",
+      "fingerprint": "4338c05e6b",
+      "name": "Hayede Jamshidi"
+    },
+    "V33": {
+      "at": "2026-09-20 22:01",
+      "fingerprint": "d35b990dfc",
+      "name": "Tommy Mintz"
+    },
+    "V34": {
+      "at": "2026-09-20 22:01",
+      "fingerprint": "6d9ba7d186",
+      "name": "James Dawson"
     },
     "V4": {
       "at": "2026-09-20 21:13",

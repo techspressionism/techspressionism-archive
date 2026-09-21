@@ -452,7 +452,7 @@ We are currently 18 artists down that I have. So, yeah, I think we still probabl
 
 All right.
 
-## Cynthia DiDonato [56:47](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3407s)
+## Allen Hirsh [56:47](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3407s)
 
 OK, thank you, Davonte, for getting my piece there in focus. Can everyone hear me?
 
@@ -460,7 +460,7 @@ OK, thank you, Davonte, for getting my piece there in focus. Can everyone hear m
 
 Yep, we can hear you.
 
-## Cynthia DiDonato [56:58](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3418s)
+## Allen Hirsh [56:58](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3418s)
 
 OK, first of all, I'm Cynthia DiDonato from Rhode Island on the East Coast of the USA, and I, like others, are honored and humbled to be part of this exhibit. The exhibit, I think, is extraordinary. I can only imagine the work that it took to create this virtual exhibit. That involves using technology as well. And I thank you all for making it possible for me to be part of this. First of all, let me say I'm interested in mind landscapes, dealing with the natural world, dealing with oppression, dealing with consciousness, also dealing with quantum mechanics. And I say that term as a layperson. I am not a scientist, but I am fascinated by it and its implications for our world and our worldview. I primarily use an iPad Pro and an Apple Pencil. And I did use that with this piece. But this piece has a history.
 
@@ -472,7 +472,7 @@ And so the beaming pieces... Let me get rid of that. Sorry, I apologize for that
 
 That's one minute. OK.
 
-## Cynthia DiDonato [59:20](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3560s)
+## Allen Hirsh [59:20](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3560s)
 
 It also was reborn because I was able to create layers in which I was able to create that sculptural piece you see in the front that helps to provide depth. And of course, I added motion to the piece. I want to say thank you again. And that's about it.
 
@@ -510,7 +510,7 @@ So this series speaks to a lot of those ideas. And in my mind, everything is sou
 
 But we are of this time. I don't.
 
-## Cynthia DiDonato [01:07:14](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4034s)
+## Allen Hirsh [01:07:14](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4034s)
 
 That's a great intro, whatever
 
@@ -1074,7 +1074,7 @@ I can wing it.
 
 All right. I think I've got you right here.
 
-## Cynthia DiDonato [02:08:11](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7691s)
+## Allen Hirsh [02:08:11](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7691s)
 
 Right there.
 

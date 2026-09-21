@@ -29,7 +29,7 @@ All right, awesome. Thanks, Davo. So yeah, and welcome back. I'm glad you're bac
 
 And it was myself as moderator, and the participants were Christiane Paul, who's the moderator, and I'm the moderator. And I'm the digital art curator at the Whitney Museum of American Art, and Helen Harrison, who's the director of the Pollock-Krasner Center, Pollock-Krasner House and Study Center. And the topic was about Techspressionism. So I just wanted to share a couple minutes of that segment, which is on the YouTube channel. And we now have our own short URL there, youtube.Com slash Techspressionism. So I'm just going to kick it off with this recording here.
 
-## Cynthia DiDonato [02:59](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=179s)
+## Allen Hirsh [02:59](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=179s)
 
 So if you're interested in listening to this talk, please feel free to reach out to me. And I'll be happy to answer any questions that you may have.
 
@@ -77,7 +77,7 @@ Thanks Davo and yes it is wonderful to have you back
 
 Oh and I just wanted to let you guys know so I don't um uh it's not disturbing so I'll as each new artist comes in I'm going to start a five minute timer when you have one minute left I'll just say one minute to let you know that it's time to start wrapping stuff up and that should give us plenty of time for um you know conversation um once everyone that wants to share has done so sorry go ahead no problem all
 
-## Cynthia DiDonato [09:48](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=588s)
+## Allen Hirsh [09:48](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=588s)
 
 Right okay so um I have
 
@@ -95,7 +95,7 @@ And these last images for me are my ode to the bird gods. So I'm just going to s
 
 So this was a whole level up from what we were attempting to do.
 
-## Cynthia DiDonato [13:54](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=834s)
+## Allen Hirsh [13:54](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=834s)
 
 One minute.
 
@@ -103,7 +103,7 @@ One minute.
 
 And then I'm going to go back to the next slide. All right.
 
-## Cynthia DiDonato [14:16](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=856s)
+## Allen Hirsh [14:16](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=856s)
 
 Thank you. Thank you, Michael.
 
@@ -175,7 +175,7 @@ And how'd you come to meet them?
 
 I met. My muse when I was. A student at the university of Pennsylvania school of medicine.
 
-## Cynthia DiDonato [19:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=1162s)
+## Allen Hirsh [19:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=1162s)
 
 Okay.
 
@@ -195,7 +195,7 @@ Yeah. But we're just now in the middle of the pandemic. We're not really getting
 
 Interesting. Thank you so much. You're welcome. All right. I don't know if there's anybody else that wants to go. Oh, Lucy. There we go.
 
-## Cynthia DiDonato [20:23](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=1223s)
+## Allen Hirsh [20:23](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=1223s)
 
 Sure.
 
@@ -331,7 +331,7 @@ I use photography. I use colleges. I use, I record sounds from nature. I use gli
 
 And so. I'm. I never stop and I continue creating. Maybe too much. But let me show you some something of my words. That my first two collections started as an elaboration of a single picture. Screen. Sorry. So we start now. Okay. Sorry. Okay. Okay. Sorry. Because before was a file and now I want to share my. Okay. Perfect.
 
-## Cynthia DiDonato [41:24](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2484s)
+## Allen Hirsh [41:24](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2484s)
 
 So my first question. I think we had a connection issue.
 
@@ -411,7 +411,7 @@ Really, thanks, Colin. And Saturday will be my first exposition. So wish me luck
 
 All right. Now, do we have any more brave souls that wish to share? Or not so brave souls? No. I could do. I could do this like school and just start calling on people. Tommy. Or let's see who else is in here today. Actually, a couple of unfamiliar faces or names in here. Which I don't want to put those people on the spot because that might make them uncomfortable. But you other people that know me, I can make you uncomfortable. That's okay.
 
-## Cynthia DiDonato [47:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2842s)
+## Allen Hirsh [47:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2842s)
 
 Okay.
 
@@ -419,7 +419,7 @@ Okay.
 
 Let's see. Hey, Davo. Can I ask Vernada a question? Yeah, sure. So Vernada, good
 
-## Cynthia DiDonato [47:37](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2857s)
+## Allen Hirsh [47:37](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2857s)
 
 To
 
@@ -511,7 +511,7 @@ And everyone's going to go probably a different way with that process. So you're
 
 Yeah. Yeah. Steve, I think the AI did a very good job in giving me something that I consider art.
 
-## Cynthia DiDonato [55:46](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3346s)
+## Allen Hirsh [55:46](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3346s)
 
 Yeah.
 
@@ -543,7 +543,7 @@ Yeah. Now we could actually carry on this discussion about AI and muses and ever
 
 All right, Cynthia.
 
-## Cynthia DiDonato [57:15](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3435s)
+## Allen Hirsh [57:15](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3435s)
 
 Well, first of all, I want to say if Michael and Vernetta get together and Max, I would love to join. All right.
 
@@ -551,7 +551,7 @@ Well, first of all, I want to say if Michael and Vernetta get together and Max, 
 
 Maybe we'll do a roundtable.
 
-## Cynthia DiDonato [57:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3445s)
+## Allen Hirsh [57:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3445s)
 
 Yes. All right. Well, I have. Let me see if I can share here. See, I'm using. My iPad. Yeah. All right. It's looking for a plug in. Once that plug in shows up. Okay. Okay. Sorry. I shouldn't have hit stop mirroring. Hopefully it'll show up more quickly. All right.
 
@@ -559,7 +559,7 @@ Yes. All right. Well, I have. Let me see if I can share here. See, I'm using. My
 
 Yeah. From there, if you just click away from the menu, it should. Yeah.
 
-## Cynthia DiDonato [58:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3502s)
+## Allen Hirsh [58:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3502s)
 
 Yep.
 
@@ -567,7 +567,7 @@ Yep.
 
 Yep.
 
-## Cynthia DiDonato [58:23](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3503s)
+## Allen Hirsh [58:23](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3503s)
 
 Almost there. All right. Here we go.
 
@@ -575,7 +575,7 @@ Almost there. All right. Here we go.
 
 There you go.
 
-## Cynthia DiDonato [58:26](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3506s)
+## Allen Hirsh [58:26](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3506s)
 
 I've been big into, for whatever reason, orange and turquoise. And I started, because it's autumn, collecting leaves with my granddaughter. And so I decided, because she enjoys working in Procreate, she's seven, and I started drawing a leaf in Procreate. And that's how it started with this leaf. So I began playing with this leaf. And finally, I began warping it. And I'm sure Davo, you know what I'm talking about. And then I moved over to iColorama, another of my favorite apps for the iPad, and began experimenting.
 
@@ -589,7 +589,7 @@ And here I began mixing images from the earlier images. And then came up with so
 
 Nice. And it all started with leaves. Yeah.
 
-## Cynthia DiDonato [01:01:10](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3670s)
+## Allen Hirsh [01:01:10](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3670s)
 
 I mean, my joy is in finding something very commonplace, something that means absolutely nothing or whatever. And seeing what I can make happen. That's what gives me a lot of joy. Nice.
 
@@ -597,7 +597,7 @@ I mean, my joy is in finding something very commonplace, something that means ab
 
 I actually, I was teaching my eight year old nephew how to use Procreate not so long ago. So trying to start to upsharing a new age of digital creators like us.
 
-## Cynthia DiDonato [01:01:43](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3703s)
+## Allen Hirsh [01:01:43](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3703s)
 
 Yeah. Yes. Yeah, I think it's great.
 
@@ -605,7 +605,7 @@ Yeah. Yes. Yeah, I think it's great.
 
 Yep. All right. Well, that was great. And I'm curious to see how else or how far it goes from where you're currently at.
 
-## Cynthia DiDonato [01:01:56](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3716s)
+## Allen Hirsh [01:01:56](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3716s)
 
 Yes, I'm going to keep keep on playing. See what happens.
 
@@ -629,7 +629,7 @@ That's not really a video wall. We're not ready for prime time yet. So we're try
 
 Grab this one. Okay. Let me see if I can share my screen. So I'm going to bring it forward so I can see it there. I'm not going to do all this with the front credits. So I have to back. Start there. And the music is by Nancy Tucker. It's all originally created for our animations. So I'm not going to show the whole thing cause it's long, but you'll get the gist.
 
-## Cynthia DiDonato [01:04:05](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3845s)
+## Allen Hirsh [01:04:05](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3845s)
 
 So I'm just going to take the music. And I'm going to kind of start this one in the exact same way. We're going to get you in the music. We're going to get you in the music.
 
@@ -653,7 +653,7 @@ Sorry. I'm sorry. I'm sorry.
 
 I'm sorry.
 
-## Cynthia DiDonato [01:07:53](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4073s)
+## Allen Hirsh [01:07:53](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4073s)
 
 I'm sorry. I'm sorry. I'm sorry.
 
@@ -677,7 +677,7 @@ Weeks
 
 But I think maybe one of the things that I like about your show is that you're not just a person one of the things that you're pointing out or noticing is the difference between a scripted movie style animation which is rather than a game environment where you run around explore wherever and you know it's less controlled in that respect but as you know as a video game developer even if it's a runaround environment you still have to be able to see the artist's vision of the artist and so I think that's really cool because you still get to control the experience and make it an explorable environment in a you know the way the artist wants it compared to being a movie that you sit back and enjoy and you know enjoy that control of the representation yeah
 
-## Cynthia DiDonato [01:12:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4345s)
+## Allen Hirsh [01:12:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4345s)
 
 Exactly
 
@@ -693,7 +693,7 @@ One eyeful well and and the other thing is like in completely immersive vr you d
 
 Um you lose some of it and I totally understand the ways that you're meaning you! You lose your bodily experience of sort of like you know being seated in in place or standing um but you gain some of it in ways that it's so immersive that sensation of of your peripheral vision and how it impacts your sense of balance is really really uh very very physical yes so balance is a physical thing and when you're in vr that part of your system is much more activated than when you're grounded in a space like watching a movie or or in a dome experience so yes again lose some and and also gain some so it's just you know different different sensation thank you for your question or comments
 
-## Cynthia DiDonato [01:15:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4525s)
+## Allen Hirsh [01:15:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4525s)
 
 Always nice to have you on the show thank you so much for having me on the show thank you so much for being on the show right so plz have a good day of your day of your day of your day of your day of
 
@@ -705,7 +705,7 @@ Your day of your day of your day of your day of your day of your day of your day
 
 Still recording if anybody does have a suggestion for the next salon in two weeks as far as a topic or format or anything like that um you know just opening up the floor for any kind of suggestions or ideas
 
-## Cynthia DiDonato [01:16:17](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4577s)
+## Allen Hirsh [01:16:17](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4577s)
 
 I was kind of intrigued by uh having
 
@@ -713,7 +713,7 @@ I was kind of intrigued by uh having
 
 Max here um from south america and it sort of seems like a be a nice thing to invite several different representatives from all of these nodes around the world um just to get a craving a feeling of what's going on somewhere else besides in the united
 
-## Cynthia DiDonato [01:16:44](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4604s)
+## Allen Hirsh [01:16:44](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4604s)
 
 States
 
@@ -745,7 +745,7 @@ In most of South America and Canada and the Americas in general are pretty close
 
 Right. Yeah. So when we get further audits when things get a little wonky.
 
-## Cynthia DiDonato [01:17:53](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4673s)
+## Allen Hirsh [01:17:53](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4673s)
 
 Is it possible to have them send a series of their work either through Dropbox or Google Drive so that we could see their work and maybe they could come up with a short statement so that we could at least enjoy their work and see what they've done and maybe that might be a way to bring them in. I don't know if that's doable.
 
