@@ -138,7 +138,7 @@ def all_index_names():
 def decided_names():
     """Names a person has typed for any voice so far (people who are not in the artist index, such as a gallery director), offered again next time."""
     out = set()
-    for p in VOICE_NAMES_DIR.glob("*.json") if VOICE_NAMES_DIR.exists() else []:
+    for p in DECISIONS_DIR.glob("*.json") if DECISIONS_DIR.exists() else []:
         try:
             out |= {v.get("name") for v in json.loads(p.read_text()).get("voices", {}).values() if v.get("name")}
         except Exception:
@@ -394,9 +394,9 @@ async function page(sl){
     const opt=n=>`<option value="${esc(n)}" ${n===guess?'selected':''}>${esc(n)}</option>`;
     const groups=[['In this recording\'s listing',g.here],['Named in this recording',g.named],['Regular participants',g.regular]].filter(x=>x[1].length).map(x=>`<optgroup label="${x[0]}">${x[1].map(opt).join('')}</optgroup>`).join('');
     const text=d.interview?`<input type="text" class="nm" list="names" placeholder="Who is this?" value="${other?esc(guess):''}" ${other?'':'hidden'}>`
-      :`<input type="text" class="nm quick" list="names" placeholder="…or type a name" value="${other?esc(guess):''}">`;      // other recordings: always visible next to the dropdown
+      :`<input type="text" class="nm quick" list="names" placeholder="Other: type any name (need not be an artist)" value="${other?esc(guess):''}">`;      // other recordings: always visible next to the dropdown
     if(d.interview) return '<div class="roles">'+people.map(x=>`<label class="role"><input type="radio" name="r_${v.voice}" value="${esc(x[1])}" ${x[1]===guess?'checked':''}> ${x[0]}: <b>${esc(x[1])}</b></label>`).join('')+
-      `<label class="role"><input type="radio" name="r_${v.voice}" value="__other" ${other?'checked':''}> Someone else ${text}</label><label class="role"><input type="radio" name="r_${v.voice}" value="__none"> Can't tell</label></div>`;
+      `<label class="role"><input type="radio" name="r_${v.voice}" value="__other" ${other?'checked':''}> Other: ${text}</label><label class="role"><input type="radio" name="r_${v.voice}" value="__none"> Can't tell</label></div>`;
     return `<select class="sel"><option value="">— choose who this is —</option>${groups}<option value="__none">Can't tell (leave unattributed)</option></select> ${text}`};
   const chosen=card=>{const r=card.querySelector('input[type=radio]:checked'),s=card.querySelector('select.sel'),t=card.querySelector('input.nm');
     if(r){const v=r.value;return v==='__none'?'':v==='__other'?(t?t.value.trim():''):v.trim()}
