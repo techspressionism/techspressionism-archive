@@ -86,7 +86,7 @@ def main():
     for p in people:
         for n in [p["name"]] + p.get("aliases", []):
             by_key.setdefault(person_key(n), p)
-    has_page = {p["id"] for p in people if (ROOT / "site" / f"artist-{p['id']}.html").exists()}
+    has_page = {p["id"] for p in people if (ROOT / "site" / "artist" / p["id"] / "index.html").exists()}
 
     out, linked, repointed, unmatched, no_page, failed = [], [], [], [], [], []
     for line in box.split("\n"):
@@ -107,7 +107,7 @@ def main():
             no_page.append(name)
             out.append(line)
             continue
-        url = base + f"artist-{p['id']}.html"
+        url = base + f"artist/{p['id']}/"
         new = None
         # a link that already carries the name (before the first icon): point it at the archive page
         icon = line.find("<img")

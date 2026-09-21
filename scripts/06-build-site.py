@@ -100,9 +100,61 @@ def noindex():
     return bool(SITE_CONFIG.get("beta_noindex")) or os.environ.get("TVA_NOINDEX") == "1"
 
 
+_RECORDING_PAGE = re.compile(r"^((?:salon|interview|roundtable|presentation)-[0-9]{3})\.html$")
+_ARTIST_PAGE = re.compile(r"^artist-(.+)\.html$")
+ASSET_PREFIXES = ("style.css", "thumbnails/", "thumbnails-small/", "pagefind/", "data/", "times/", "transcripts/", "llms.txt", "sitemap.xml")
+
+
+def clean_path(target):
+    """The address a page has on the site, without .html (a folder with an index page, like a WordPress page):
+    salon-081.html -> salon-081/, artist-x.html -> artist/x/, about.html -> about/, index.html?type=Salon -> ?type=Salon.
+    Anything else (an asset, an absolute address) is returned unchanged."""
+    path, rest = re.match(r"^([^?#]*)(.*)$", target).groups()
+    if path == "index.html":
+        return rest
+    if path == "about.html":
+        return "about/" + rest
+    m = _RECORDING_PAGE.match(path)
+    if m:
+        return m.group(1) + "/" + rest
+    m = _ARTIST_PAGE.match(path)
+    if m:
+        return "artist/" + m.group(1) + "/" + rest
+    return target
+
+
+def nest(page_html, depth):
+    """Make a finished page ready to sit `depth` folders below the site root: its links to other pages become clean addresses and every
+    relative link and asset path gets the matching number of ../ in front. (Recording pages and About are one folder down, artist pages two.)"""
+    root = "../" * depth
+    home = root or "./"
+
+    def fix(target):
+        if not target or re.match(r"^(?:[A-Za-z][A-Za-z0-9+.-]*:|//|#|/|\{|')", target):
+            return target
+        path, rest = re.match(r"^([^?#]*)(.*)$", target).groups()
+        if path == "index.html":
+            return home + rest
+        c = clean_path(target)
+        if c != target:
+            return root + c
+        if path.startswith(ASSET_PREFIXES):
+            return root + target
+        return target
+    page_html = re.sub(r'\b(href|src|action)="([^"]*)"', lambda m: f'{m.group(1)}="{fix(m.group(2))}"', page_html)
+    return page_html.replace("location.href='index.html'", f"location.href='{home}'")
+
+
+def write_page(rel_dir, page_html, depth):
+    """Write site/<rel_dir>/index.html (the home page when rel_dir is empty)."""
+    folder = SITE_DIR / rel_dir if rel_dir else SITE_DIR
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / "index.html").write_text(nest(page_html, depth))
+
+
 def canonical_url(filename):
     base = canonical_base()
-    return f"{base}/{filename}" if base else ""
+    return f"{base}/{clean_path(filename)}" if base else ""
 
 
 def add_robots(page_html, filename=""):
@@ -1119,7 +1171,7 @@ function citationBlock(c) {{
 
 const timesCache = new Map();
 function loadTimes(page) {{
-  const m = page.match(/([^\/?#]+)\.html/);
+  const m = page.match(new RegExp("((?:salon|interview|roundtable|presentation)-[0-9]{{3}})(?:[.]html|/)?(?:[?#]|$)"));
   if (!m) return Promise.resolve(null);
   if (!timesCache.has(m[1])) {{
     timesCache.set(m[1], fetch(location.pathname.replace(/[^\/]*$/, "") + "times/" + m[1] + ".json")
@@ -1744,7 +1796,7 @@ def seo_for_entry(entry):
             people=[(n, canonical_url(person_link(n)) if person_link(n) else "") for n in people],
             clips=[(f"{sp}", s, e_) for sp, s, e_ in entry_clips(entry)],
             trail=[(BRAND, base_home), (info["plural"], canonical_url(f"index.html?type={info['label']}")), (name, page)])
-    meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or f"{slug(entry)}.html",
+    meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or clean_path(f"{slug(entry)}.html"),
                                 source_url=entry["url"]) if page else []
     alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
     return dict(title=f"{title} · {BRAND}", social_title=title, description=desc, url=page, image=thumb, og_type="video.other", jsonld=ld,
@@ -1892,7 +1944,7 @@ def write_site_files(corpus):
     if csv_src.exists():
         shutil.copy2(csv_src, SITE_DIR / "data" / "recordings.csv")
     base_home = canonical_url("")
-    absu = lambda rel: canonical_url(rel) or rel
+    absu = lambda rel: canonical_url(rel) or clean_path(rel)
     st = archive_stats(corpus)
     groups = []
     for key, info in TYPES.items():
@@ -1937,20 +1989,23 @@ def main():
     load_people(corpus)
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / "style.css").write_text(STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
-    (SITE_DIR / "index.html").write_text(add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)))
-    (SITE_DIR / "about.html").write_text(add_robots(build_about(corpus), "about.html"))
+    for old in SITE_DIR.glob("*.html"):                     # the old .html addresses are gone
+        if old.name != "index.html":
+            old.unlink()
+    for folder in [d for d in SITE_DIR.iterdir() if d.is_dir() and re.match(r"^(?:(?:salon|interview|roundtable|presentation)-[0-9]{3}|about|artist)$", d.name)]:
+        shutil.rmtree(folder)
+    write_page("", add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)), 0)
+    write_page("about", add_robots(build_about(corpus), "about.html"), 1)
     by_type = {}
     for entry in sorted(corpus, key=lambda x: -x["number"]):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
-        (SITE_DIR / f"{slug(entry)}.html").write_text(add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
-                                                            f"{slug(entry)}.html", seo_for_entry(entry)))
+        write_page(slug(entry), add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
+                                        f"{slug(entry)}.html", seo_for_entry(entry)), 1)
 
-    for old in SITE_DIR.glob("artist-*.html"):          # only artists heard or named in the recordings have a page
-        old.unlink()
-    for pp in LISTED:
-        (SITE_DIR / f"artist-{pp['id']}.html").write_text(add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
-                                                                 f"artist-{pp['id']}.html", seo_for_person(pp)))
+    for pp in LISTED:                                   # only artists heard or named in the recordings have a page
+        write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
+                                                 f"artist-{pp['id']}.html", seo_for_person(pp)), 2)
     write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     (SITE_DIR / "times").mkdir(exist_ok=True)

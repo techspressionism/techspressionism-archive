@@ -60,7 +60,7 @@ Yeah, I see.
 
 ## Ariel Baron-Robbins [03:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=185s)
 
-I'll be able to. Pierre loading. Don't pull objects. Okay. So, I'm going to use one of… The versus… let me just double check, you guys can see, okay. We use one of our… what we call is a verse, which is just, like, a room, you know, inside of a loop, a virtual reality, room. And I'm just gonna kinda use it to keep myself on track, and… and hopefully I can, Not go too much over. But… Ariel, I'm not sure…
+I'll be able to. Pierre loading. Don't pull objects. Okay. So, I'm going to use one of… The versus… let me just double check, you guys can see, okay. We use one of our… what we call is a verse, which is just, like, a room, you know, inside of a Loop, a virtual reality, room. And I'm just gonna kinda use it to keep myself on track, and… and hopefully I can, Not go too much over. But… Ariel, I'm not sure…
 
 ## Colin Goldberg [03:47](https://www.youtube.com/watch?v=pMRthFj7aw4&t=227s)
 
@@ -68,7 +68,7 @@ If you see it, but we see Tommy's, and now me, a Zoom window overlapping your br
 
 ## Ariel Baron-Robbins [04:01](https://www.youtube.com/watch?v=pMRthFj7aw4&t=241s)
 
-I'm just used to screens within screens within screens, so it doesn't bother me, but, but yeah, so my name is, Ariel Baron-Robbins, I'm an artist, I am a professor, and, that's supposed to be artist first, but I recently actually stopped being a professor, but it's a long story. I started Loop I started Lube in 2022. And when I started Loop, basically, I was, I was… Seeing an issue where we were having a huge influx of digital art, and I always taught computer art, I should say. So I always… I had this huge influx of people that were coming in because of NFTs, which I thought was an awesome thing. I was very fascinated by, like.
+I'm just used to screens within screens within screens, so it doesn't bother me, but, but yeah, so my name is, Ariel Baron-Robbins, I'm an artist, I am a professor, and, that's supposed to be artist first, but I recently actually stopped being a professor, but it's a long story. I started Loop I started Loop in 2022. And when I started Loop, basically, I was, I was… Seeing an issue where we were having a huge influx of digital art, and I always taught computer art, I should say. So I always… I had this huge influx of people that were coming in because of NFTs, which I thought was an awesome thing. I was very fascinated by, like.
 
 How they were coming in from, like, digital art first, instead of, like, from a more, like, like, traditional art, and then to digital art. And, I noticed, though, that a lot of digital art history really wasn't becoming well known, and so… and also that they didn't have any peer critique for their, like, digital work, so, and it kind of showed in the artwork. You know, that there wasn't a whole lot of this history known in the peer critique. Not in all of it, but in some of it. And so, I was asked by Rodofa Perraza, who is from the Mudd Foundation.
 
@@ -194,11 +194,11 @@ Carolina?
 
 ## Carolina Kleine Samson [25:51](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1551s)
 
-Hi, everyone. I'm Carolina Kleine Samson. Right now, I'm in Salvador, de Vallia, Brazil, but I'm based in Patagonia, Argentina. So, thank you very much for inviting us, to showing you. So, okay, I'm gonna talk a little bit about maybe, About the design and communication… loop communication,. Like, I want to mention, too, that cha, he was, like, at the beginning, when he… he was part of Loop, he really encouraged me to… To apply, for… for Loop, and I applied for the cohort 5… number 5 with Lorna Mills, so I get into Loop, to the residency.
+Hi, everyone. I'm Carolina Kleine Samson. Right now, I'm in Salvador, de Vallia, Brazil, but I'm based in Patagonia, Argentina. So, thank you very much for inviting us, to showing you. So, okay, I'm gonna talk a little bit about maybe, About the design and communication… Loop communication,. Like, I want to mention, too, that cha, he was, like, at the beginning, when he… he was part of Loop, he really encouraged me to… To apply, for… for Loop, and I applied for the cohort 5… number 5 with Lorna Mills, so I get into Loop, to the residency.
 
 And after that, after a while, I start to, like, showing Luke team. So, yeah, I'm really grateful for that, for cha and Ariel. To invite me to be part. So… Okay, I'm gonna talk a little bit, maybe, I'm gonna just start with, maybe for… For the design, like, graphic design of Loop. I think that is an interesting part, because now, we are, like, kind of using, the platform to create the designs, you know? Before that. I was just using, like, more regular, like, programs to… to… to… To do design, graphic design, but right now.
 
-I think we are trying to do everything inside loop, so that is a really nice thing. Like, design, like, we are kind of, like, really living inside loop, so I really like that. And also, for graphic design, sometimes it's a challenge, because, it's not a platform made for that, but I think it's interesting that you kind of, like, we kind of find, like, there, like, our own style inside the platform with the native elements. So maybe I can share a little bit, Maybe we can go to the studios, and then kind of show a little bit how… we are using, the platform to create graphic design? I don't know. I'm not sure. Sorry, my English.
+I think we are trying to do everything inside Loop, so that is a really nice thing. Like, design, like, we are kind of, like, really living inside Loop, so I really like that. And also, for graphic design, sometimes it's a challenge, because, it's not a platform made for that, but I think it's interesting that you kind of, like, we kind of find, like, there, like, our own style inside the platform with the native elements. So maybe I can share a little bit, Maybe we can go to the studios, and then kind of show a little bit how… we are using, the platform to create graphic design? I don't know. I'm not sure. Sorry, my English.
 
 I'm not an English native speaker, but yeah, I can do.
 
@@ -294,7 +294,7 @@ Yeah, it's my new Wi-Fi is not working well. Okay. Bueno. Let's… I'm gonna try
 
 Okay….
 
-It's not loop, it's my Wi-Fi, so… yeah. He said, bueno.
+It's not Loop, it's my Wi-Fi, so… yeah. He said, bueno.
 
 ## Tommy Mintz [34:32](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2072s)
 
@@ -302,7 +302,7 @@ While it's loading, could you tell us a little bit about the family reunion even
 
 ## Carolina Kleine Samson [34:37](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2077s)
 
-Okay, so, yeah, the family reunion, is an annual event. That, is… and also, it's, like, a kind of a performance, so, because, like, we, Ariel cha and I, we are, like, spending, like. 3 days inside loop, almost, like, non-stop. And also, it's like a… it's like a… Way of meet, again, all the, like, the former loopers, lupus, so, yeah, we spent 3 days there, with, like, there, there's a lot of activities, like, workshops, talks, we have a group show.
+Okay, so, yeah, the family reunion, is an annual event. That, is… and also, it's, like, a kind of a performance, so, because, like, we, Ariel cha and I, we are, like, spending, like. 3 days inside Loop, almost, like, non-stop. And also, it's like a… it's like a… Way of meet, again, all the, like, the former loopers, lupus, so, yeah, we spent 3 days there, with, like, there, there's a lot of activities, like, workshops, talks, we have a group show.
 
 We have a lot of, like, conversations, so it's a really interesting, performance. An event, and yeah, this… and every… like, last… no, this year is, like, it was open to every… everyone, so, like, former Loopies and new people are, like, showing us, and experience, the Loop family reunion. I don't know, Ariel, if you wanna say something, like, You wanna add something else?
 
@@ -326,11 +326,11 @@ Wonderful experience. Carolina, is there something that you want to share before
 
 ## Carolina Kleine Samson [37:32](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2252s)
 
-Yeah, I have… oh, here I entered the studio, and I want to mention that many of the artists that I met Through Lube, I met them in real person, so in the physical, world, so we also start to collaborate together. I met a lot of artists from Argentina, where… yeah, so we met in real life, and we start also to collaborate, so that is a wonderful thing, too. So, finally, I entered to the… to my studio, so… this is my studio. Also, it's like a… yeah, as I say, it's like… it's a studio, so it's under construction, it's a work in progress.
+Yeah, I have… oh, here I entered the studio, and I want to mention that many of the artists that I met Through Loop, I met them in real person, so in the physical, world, so we also start to collaborate together. I met a lot of artists from Argentina, where… yeah, so we met in real life, and we start also to collaborate, so that is a wonderful thing, too. So, finally, I entered to the… to my studio, so… this is my studio. Also, it's like a… yeah, as I say, it's like… it's a studio, so it's under construction, it's a work in progress.
 
 So now I have some pieces, some… some of my pieces are… Related to painting the screen and recycling files. So, you can see that there, and, like, I, I wanna mention something that is related to the graphic design, that is, like, I don't know, we are kind of using everything in here. I'm gonna type something,.
 
-So the idea is to use the tools that we have here. For example, I'm typing on the cha, and I'm creating an object. Here, so… I'm… I'm kind of, using, like, putting information inside Lube, and then I'm, like, taking a screenshot of the information, and voila! The flyer is, Is made. So…
+So the idea is to use the tools that we have here. For example, I'm typing on the cha, and I'm creating an object. Here, so… I'm… I'm kind of, using, like, putting information inside Loop, and then I'm, like, taking a screenshot of the information, and voila! The flyer is, Is made. So…
 
 ## Tommy Mintz [39:17](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2357s)
 
@@ -342,7 +342,7 @@ Yeah, it's like a screenshot. Like, another interesting thing is, like, always i
 
 ## Tommy Mintz [39:58](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2398s)
 
-Very cool, very recursive and referential. In interesting ways. Thank you, Carolina. People, write down your questions for Carolina at the end. We're gonna take questions for everybody at the end. I have… I have a list I'm keeping. We're gonna keep moving, to another participating artist. Sahar is one of, it's expressionist artists from our group who has participated in a six-week loop residency, and I'm hoping… that SAHAR can talk about, what she took away from the experience, and if we can see some of Your current work. SAHur on, right? I thought I saw you. Yeah, hi.
+Very cool, very recursive and referential. In interesting ways. Thank you, Carolina. People, write down your questions for Carolina at the end. We're gonna take questions for everybody at the end. I have… I have a list I'm keeping. We're gonna keep moving, to another participating artist. Sahar is one of, it's expressionist artists from our group who has participated in a six-week Loop residency, and I'm hoping… that SAHAR can talk about, what she took away from the experience, and if we can see some of Your current work. SAHur on, right? I thought I saw you. Yeah, hi.
 
 ## Sahar Moussavi [40:35](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2435s)
 
@@ -526,7 +526,7 @@ Okay, so this is the Louise Bourgeois Sunday SALON space. And before I take you 
 
 It made it really fair, and I really… Just want to say how much I applaud that kind of… Policy, if, you know, if more… if more residencies and more competitions were judged blindly, I think that the art world would be a lot better off. So… I made… I made some work in the… in the metaverse after the residency, because I was allowed some use of the XR space. And I made a lot of, Still life photography inside worlds that… or verses that I had created using 2D JPEGs of my paintings with… combined with 3D objects that were animated.
 
-I made one video that I was really happy with, and I liked it so well that now I've got myself a studio for a year in loop that I can… Do whatever in. Every Sunday, I'm here at the Louise Bourgeois Sunday SALON,. She… I wanted to go this way. There's a photograph of her there. And…. You can… if you're… if you come to the space, you can go visit this website, which talks about Louise Bourgeois' life and career. And to the right of it, there's a MoMA website.
+I made one video that I was really happy with, and I liked it so well that now I've got myself a studio for a year in Loop that I can… Do whatever in. Every Sunday, I'm here at the Louise Bourgeois Sunday SALON,. She… I wanted to go this way. There's a photograph of her there. And…. You can… if you're… if you come to the space, you can go visit this website, which talks about Louise Bourgeois' life and career. And to the right of it, there's a MoMA website.
 
 That talks about her drawings. It's quite comprehensive. Louise Bourgeois lived on the Lower West Side for a long time, and she hosted a Sunday SALON in her home every Sunday for her students and for other artists who were invited to come and have a drink and present work in a very non… Judgmental and nurturing kind of environment, and that's exactly what I found. Here, in this SALON, you can come on Sundays between 12 and 2 p.M. Eastern, or 5 and 7 p.M. Eastern.
 
@@ -554,7 +554,7 @@ Fantastic. Thank you, Renata. Really… Lovely to see how the collaboration you 
 
 Yeah, well, I mean, I guess, Yeah, well, you know, in the beginning, I kind of just, you know, mentioned that he and I met up, you know, last time I was in Miami, but I did actually want to bring up, Siberiana, which is a project that you were largely responsible for as an architect, which was our own sort of version of this idea of a, you know, a, A virtual space where artists had their studios, and I thought maybe, you know, that the nature of the collaboration could somehow you know, rekindle that spirit of what was accomplished in Siberiana.
 
-In, you know, merging with what Loop is doing in some sort of an interesting way, I just feel like there's a lot of shared ethos, you know, between the two communities, and, you know, the idea of openness. Not requiring any… any money from anybody to, you know, participate, and having it be, you know, as technologically, sort of. Open-ended as possible. That is, people with a lot of experience and expertise can go in and do their thing, and people with virtually no experience, you know, working in 3D or even in a virtual environment can come in and participate, so… you know, I think that, really, you know, I'm interested in looking to the future of what can be accomplished, by kind of, like, you know, the overlap and the Venn diagrams of, of, of loop and Techspressionism. And I think that, you know, having the jump-off page to loop in the Techspressionism site is just kind of a first step. I was making some notes to myself here about maybe adding in the, Louise Bourgeois SALON schedule on that page, so, like, visitors to the Techspressionism site will know, hey, like, on these particular times, on Sundays, I could jump in here and meet a whole bunch of new artists, you know, and I think that, It's a different kind of experience than the salons in that it's sort of… you know, everyone is in there, like, participating in real time simultaneously, whereas Zoom is usually, like, people are taking turns, sort of, you know, doing their thing, so it's a different type of experience, and and I'm also, you know, I have to say, I haven't really spent a whole lot of time in Loops, so I'm looking forward, you know, to To getting involved with that, so… so yeah, that's… that's pretty much it. You know, I really was impressed with what I saw today, though, and the, that piece with the… the key, I thought was really, you know, just going in there, it transformed from being in a space that was you know, a social space into, like, being in a piece of artwork. And especially with the audio, it was just really pretty startling. So, Yeah, so that's it, you know, and open it up to… Anybody else to share?
+In, you know, merging with what Loop is doing in some sort of an interesting way, I just feel like there's a lot of shared ethos, you know, between the two communities, and, you know, the idea of openness. Not requiring any… any money from anybody to, you know, participate, and having it be, you know, as technologically, sort of. Open-ended as possible. That is, people with a lot of experience and expertise can go in and do their thing, and people with virtually no experience, you know, working in 3D or even in a virtual environment can come in and participate, so… you know, I think that, really, you know, I'm interested in looking to the future of what can be accomplished, by kind of, like, you know, the overlap and the Venn diagrams of, of, of Loop and Techspressionism. And I think that, you know, having the jump-off page to Loop in the Techspressionism site is just kind of a first step. I was making some notes to myself here about maybe adding in the, Louise Bourgeois SALON schedule on that page, so, like, visitors to the Techspressionism site will know, hey, like, on these particular times, on Sundays, I could jump in here and meet a whole bunch of new artists, you know, and I think that, It's a different kind of experience than the salons in that it's sort of… you know, everyone is in there, like, participating in real time simultaneously, whereas Zoom is usually, like, people are taking turns, sort of, you know, doing their thing, so it's a different type of experience, and and I'm also, you know, I have to say, I haven't really spent a whole lot of time in Loops, so I'm looking forward, you know, to To getting involved with that, so… so yeah, that's… that's pretty much it. You know, I really was impressed with what I saw today, though, and the, that piece with the… the key, I thought was really, you know, just going in there, it transformed from being in a space that was you know, a social space into, like, being in a piece of artwork. And especially with the audio, it was just really pretty startling. So, Yeah, so that's it, you know, and open it up to… Anybody else to share?
 
 ## Tommy Mintz [01:09:59](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4199s)
 
@@ -572,13 +572,13 @@ Very cool, thank you. Oh, Renata has another comment. Renata!
 
 Yeah, I just… I wanted to add that there are so many artists Projects inside Loop that you can explore, and… I really encourage you to just go visit the exhibition that's on now, that cha showed us, the desktop, the approach. You just have to go to Loop. Onland.Io to get to the homepage, but In addition, please, I'm trying to encourage people to use the Louise Bourgeois Sunday SALON as a space. It's there for us 24-7. The only times that we'll… you won't… won't use it privately is on the Sunday times.
 
-But we can, like, we can use it. You can go meet a friend there, you can bring your work to show them, you can socialize in the space, and for those people who are shy, having an avatar instead of being on screen is… can be very liberating. So, I just wanted to… Mentioned that the loop menu item on the Expressionism homepage. Takes you directly to the portal that leads into the LBSS, as we like to call the Louise Bourgeois Sunday SALON.
+But we can, like, we can use it. You can go meet a friend there, you can bring your work to show them, you can socialize in the space, and for those people who are shy, having an avatar instead of being on screen is… can be very liberating. So, I just wanted to… Mentioned that the Loop menu item on the Expressionism homepage. Takes you directly to the portal that leads into the LBSS, as we like to call the Louise Bourgeois Sunday SALON.
 
 ## Tommy Mintz [01:12:04](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4324s)
 
-Very cool. And, before we… Throw everything open to your questions that you have written down, like I do. There was… A starter question that I was asked to pose to everybody, which is, can you think of ways that Techspressionism and loop can get more connected to one another? So with that, as a question, I'd like to throw it open to anybody who has questions for any of the Artist presenters today, and…. You're welcome to use the… there's the react button on the bottom, you can click that, and then hit the raise hand, and I'm happy to call on you, or you can just unmute yourself. One of my… oh, Cynthia, go ahead, before I start on my list.
+Very cool. And, before we… Throw everything open to your questions that you have written down, like I do. There was… A starter question that I was asked to pose to everybody, which is, can you think of ways that Techspressionism and Loop can get more connected to one another? So with that, as a question, I'd like to throw it open to anybody who has questions for any of the Artist presenters today, and…. You're welcome to use the… there's the react button on the bottom, you can click that, and then hit the raise hand, and I'm happy to call on you, or you can just unmute yourself. One of my… oh, Cynthia, go ahead, before I start on my list.
 
-## Cynthia DiDonato [01:12:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4369s)
+## Allen Hirsh [01:12:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4369s)
 
 First of all, I'd like to say this is very… Interesting and fascinating, and I thank all those who have presented. But I would like to ask SAHAR a question. She mentioned that the GL… the very sculptural, lovely GLB that is within her verse has a story behind it. Could you tell us that story?
 
@@ -594,7 +594,7 @@ The gates are closed to people, so the Reiki healers can meditate and do their s
 
 Originally was placed in Sloan of SALON, and then removed to… part of it is, of it is now in India by, Persian, Zoroastrians, and part… one part is still burning in Yass City. So, they never let the fire to get off. So, that's the story of Thorn of SALON.
 
-## Cynthia DiDonato [01:17:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4641s)
+## Allen Hirsh [01:17:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4641s)
 
 Thank you for sharing that.
 
@@ -660,7 +660,7 @@ Very, very, very different, you know? From somebody that's in the east coast of 
 
 Very cool. Very cool. Cynthia, did you have another question, or just…
 
-## Cynthia DiDonato [01:22:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4951s)
+## Allen Hirsh [01:22:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4951s)
 
 I do, but I think Roz had her hand up earlier. And I'd like her to go… let her go first.
 
@@ -724,7 +724,7 @@ Any other questions? Lingering in people's lists here, minds. Is there a meet an
 
 ## Renata Janiszewska [01:29:57](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5397s)
 
-Sure, it's 12 to 2 p.M. Eastern Time. The link to get in is on the Techspressionism website. In the menu, simply click on the word loop. And with another click, you'll be inside the Louise Bourgeois Sunday SALON, and you'll have an avatar. You don't need to worry about making one, you'll be assigned one. There's also another session from 5 to 7 p.M. Eastern Time, again, Sunday, September the 6th. Look forward to seeing you.
+Sure, it's 12 to 2 p.M. Eastern Time. The link to get in is on the Techspressionism website. In the menu, simply click on the word Loop. And with another click, you'll be inside the Louise Bourgeois Sunday SALON, and you'll have an avatar. You don't need to worry about making one, you'll be assigned one. There's also another session from 5 to 7 p.M. Eastern Time, again, Sunday, September the 6th. Look forward to seeing you.
 
 ## Tommy Mintz [01:30:30](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5430s)
 
@@ -738,7 +738,7 @@ Cynthia had a question, Tommy. Cynthia DiDonato.
 
 Thanks, Bob. Cynthia, did we skip your last question? I'm so sorry.
 
-## Cynthia DiDonato [01:30:54](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5454s)
+## Allen Hirsh [01:30:54](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5454s)
 
 That's okay. I was just gonna ask how the Loop participants have felt Have been affected by their participation, and what this effect Produced in their work outside of Loop.
 
@@ -780,7 +780,7 @@ Hi.
 
 ## Galina Shevchenko [01:31:36](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5496s)
 
-Yeah, it's so amazing to see, like, former loopers, and, Ariel, and cha and Carolina, and SAHAR, I know of SAHAR as a looper, but, like, we connected being on two shows together, without knowing each other, but knowing each other through the loop. And, the Loop Metaverses… That's so incredible. I already had… Three different gallery shows, with those loop metaverses. And also, thanks to the expressionism and connection with Renata. I had one of my loop metaverses in Every Woman Biennial, after I presented my work here at that Expressionist SALON in July of last year, and meeting Aaron. So it's… It's the artists networking outside and inside of the internet, like, constant collaboration, and I just had a show in Venice that Renata and Ariel and SAHAR in, because I see everybody's work. It's… it's incredible. It's… and thank you so much, guys.
+Yeah, it's so amazing to see, like, former loopers, and, Ariel, and cha and Carolina, and SAHAR, I know of SAHAR as a looper, but, like, we connected being on two shows together, without knowing each other, but knowing each other through the Loop. And, the Loop Metaverses… That's so incredible. I already had… Three different gallery shows, with those Loop metaverses. And also, thanks to the expressionism and connection with Renata. I had one of my Loop metaverses in Every Woman Biennial, after I presented my work here at that Expressionist SALON in July of last year, and meeting Aaron. So it's… It's the artists networking outside and inside of the internet, like, constant collaboration, and I just had a show in Venice that Renata and Ariel and SAHAR in, because I see everybody's work. It's… it's incredible. It's… and thank you so much, guys.
 
 Thank you so much, Ariel, for providing the space, non-judgmental, beautiful, blooming, digitally, and to cha and Renata for the Sunday SALONs that I try to go to when I have time, but it's… it's incredible. Thank you so much. It's such a great… Like, such an amazing opportunity to be a part of. Yup. Well, just the…
 

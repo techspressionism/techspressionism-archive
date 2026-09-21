@@ -250,7 +250,7 @@ def main():
     b06.NAV_CORPUS[:] = corpus
     b06.load_people(corpus)
     live = {p["id"]: p for p in b06.PEOPLE}
-    pages = {f.name[7:-5] for f in (ROOT / "site").glob("artist-*.html")}
+    pages = {d.name for d in (ROOT / "site" / "artist").iterdir() if d.is_dir()} if (ROOT / "site" / "artist").is_dir() else set()
 
     # each entry: section, city, the techspressionism.com link on the name
     entries, section, cur = {}, "", None
@@ -408,8 +408,8 @@ def main():
                "POSSIBLE list matches (check by hand)": "\n".join(f"{n_} <{e_}> ({s_})" for e_, n_, s_ in possible[:4]),
                "on the Southampton (SAC) artists list": "YES" if keys & sac_keys else "", "section on the index": section,
                "TS website profile URL": (p or {}).get("ts_profile") or ent["ts_link"],
-               "archive page (final address)": f"{FINAL_BASE}artist-{p['id']}.html" if p and p["id"] in pages else "",
-               "archive page (test address)": f"{TEST_BASE}artist-{p['id']}.html" if p and p["id"] in pages else "",
+               "archive page (final address)": f"{FINAL_BASE}artist/{p['id']}/" if p and p["id"] in pages else "",
+               "archive page (test address)": f"{TEST_BASE}artist/{p['id']}/" if p and p["id"] in pages else "",
                "archive: recordings speaking": len(live_p["speaks"]) if live_p else 0, "archive: mentions": len(live_p["mentions"]) if live_p else 0,
                "exhibitions on techspressionism.com": "; ".join(live_p["exhibition_labels"].get(s, {}).get("label", s) for s in live_p["exhibitions"]) if live_p else "",
                "Wikipedia": "\n".join(dict.fromkeys(wiki))}

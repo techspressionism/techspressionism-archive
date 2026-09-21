@@ -535,6 +535,15 @@
       ],
       "whole_word": true,
       "note": "approved by Colin 2026-09-20 from the suspects list"
+    },
+    {
+      "canonical": "Loop",
+      "category": "organization",
+      "known_asr_variants": [
+        "Lube"
+      ],
+      "whole_word": true,
+      "note": "Loop Art Critique community (Salon 110); Zoom hears 'Loop' as 'Lube' (Colin, 20 September 2026)"
     }
   ]
 }

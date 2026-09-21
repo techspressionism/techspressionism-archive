@@ -2,7 +2,7 @@
 """Find English Wikipedia articles for the artists who have a page in the archive, and record the ones that are surely the
 same person.
 
-    python3 scripts/find-wikipedia-links.py            # the people who have an archive page (site/artist-*.html)
+    python3 scripts/find-wikipedia-links.py            # the people who have an archive page (site/artist/<id>/)
     python3 scripts/find-wikipedia-links.py --all      # every person in data/people.json
 
 For each person the name (and each alias) is looked up on Wikipedia. An article is ACCEPTED only when all of these hold:
@@ -85,7 +85,7 @@ def judge(p, name, data):
 def main():
     everyone = "--all" in sys.argv
     people = json.loads((ROOT / "data" / "people.json").read_text())["people"]
-    have_page = {f.name[7:-5] for f in (ROOT / "site").glob("artist-*.html")}
+    have_page = {d.name for d in (ROOT / "site" / "artist").iterdir() if d.is_dir()} if (ROOT / "site" / "artist").is_dir() else set()
     if not everyone and not have_page:
         sys.exit("Build the site first (06-build-site.py): the pages in site/ say who has an archive page.")
     known = json.loads(LINKS_PATH.read_text()) if LINKS_PATH.exists() else {}
