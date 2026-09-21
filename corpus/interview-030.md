@@ -17,894 +17,1140 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: None
-transcript_source: whisper-large-v3
+transcript_source: zoom-transcript
 languages: ["en"]
 ---
 
-## Colin Goldberg [00:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=0s)
+## Carla Gannis [00:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=0s)
 
-And that's starting now.
+Okay.
 
-## Unattributed [00:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3s)
+## Colin Goldberg [00:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2s)
 
-Yay.
+Hello, my name is Colin Goldberg, and today is Monday, February… I'm sorry, Monday, September 21st, 2026. I'm here today talking with Carla… artist Carla Gannis for episode 30 of the Techspressionist Artist Interview Series. So welcome, Carla, and thank you for taking the time to speak with me today. I'm zooming in from North Bennington, Vermont. How about yourself?
 
-## Colin Goldberg [00:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4s)
+## Carla Gannis [00:27](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=27s)
 
-And now I'm going to start recording the audio.
+So, I am in Brooklyn, New York. It might.
 
-## Unattributed [00:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=7s)
+## Colin Goldberg [00:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=30s)
 
-Sweet.
+Alright.
 
-## Colin Goldberg [00:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=7s)
+## Carla Gannis [00:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=31s)
 
-All right. Cool. Also, I'm pretty sure at some point during the interview, you'd probably want to show your work. Yes, no, maybe?
+Meeting. Yeah.
 
-## Carla Gannis [00:19](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=19s)
+## Colin Goldberg [00:32](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=32s)
 
-Yes. Yes.
+Awesome. Well, welcome. So I'm gonna read a little bit of a blurb to, let our viewers know a little bit about you. So, Carla Gannis is a multidisciplinary artist whose work explores the uncanny intersections of our physical and digital lives. Through mixed reality, installation, and multimodal media, she examines identity, power, and marginalization, drawing on history, contemporary culture, absurdity, and humor. Gannis is an industry professor at NYU Tandon, and holds an MFA from Boston University.
 
-## Colin Goldberg [00:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=21s)
+Her work has been exhibited internationally, with recent projects at the Hunter Museum of American Art, Balsey Institute of Contemporary Art, Perez Art Museum Miami, and Ryan Lee Gallery. Her work has also been featured in the New York Times, Art News, El Pais, and the Los Angeles Times. So, again, welcome, Carla, and Why don't you, I guess, start by telling us just a little bit about your background, like, where you were born, where you studied, and, you know, well, you already told me where you live and practice now, so, you know, just, Sure.
 
-That's all good. I know this was kind of a sudden thing that sprung up on you, but.
+## Carla Gannis [01:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=105s)
 
-## Carla Gannis [00:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=28s)
+What?
 
-Oh, no, you're good. So we have this trick that we have our, we usually have our like fitness clothes on because we're usually running around and doing stuff, but we always have a blazer for emergencies.
+## Colin Goldberg [01:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=105s)
 
-## Colin Goldberg [00:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=39s)
+What's up?
 
-See, now you're making me feel underdressed for this.
+## Carla Gannis [01:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=106s)
 
-## Carla Gannis [00:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=42s)
+Yeah, I was born in North Carolina, and I was born in Durham, to get really granular, and I grew up in a really small town called Oxford, North Carolina, near Raleigh and Durham, and so I wasn't really exposed to a lot of art as a child, but we did have the North Carolina Museum of Art, and my dad took me there frequently, at my request. And my grandparents were Appalachian, and half of my family, my mother's family, is from the Appalachian Mountains, so I grew up with storytellers. My grandfather made banjos and violins and dulcimers, he called his violins fiddles.
 
-Oh, that's okay. With the fitness leggings and awesome sneakers I have on. So if I'm showing my work, would that be just presenting the screen or?
+And, oh my gosh, he could tell a tall tale. And he was the first artist, really, I think I was exposed to. Both my parents had inclinations and loved to draw, but they never pursued it as a… as a… more than a hobby. But my grandfather spent every day in his shop. You know, making his musical instruments, and when I was really small, we'd go around to folk festivals. And I'd sing mountain ballads with my grandma Pansy Mae and my mother, and so that really shaped me. And then also, my father taught himself computing, so when I was 15, and that's a long time ago, we're talking the 80s, my dad took me to my first, computer arts conference, and or festival.
 
-## Colin Goldberg [00:53](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=53s)
+And they were emerging then. And what's really funny is my dad told me that the future of art would involve computing. But I resisted. I rebelled against my dad, who was way cooler than me, and got 2 degrees in painting. And I'm talking old-fashioned painting, you know, oil on canvas, one of the oldest.
 
-Yeah, you could just share it on your screen, but that wouldn't be a problem.
+## Colin Goldberg [03:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=210s)
 
-## Carla Gannis [00:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=56s)
+I was a painting student myself for my undergrad. Yeah, yeah.
 
-Okay. So let me, I guess, let me pull some. I'm going to pull this thing up. It'd be underdressed.
+## Carla Gannis [03:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=215s)
 
-## Colin Goldberg [01:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=63s)
+And so… It's really funny, I… Took into account everything my dad was telling me, of course, but I felt like I wanted to explore fine art, and at that time, with the kind of information I had, it seemed like being a painter was being an artist. And so I went to UNC Greensboro in North Carolina, and then I moved up to Boston, which was a bit of a culture shock for me. All my family lives in the South, I had a thick southern accent, which As we talk, might come out still, but I spent time on elocution and listening to myself, you know, and changing my accent a bit.
 
-Yes, Alison.
+And, At Boston University, I had some professors who knew that I was already starting to experiment a little bit with computing. I was making my paintings, but, you know, thanks to my dad, he sent me a computer. This is the, early 1990s. And… there was a library in New York City, a small art school in New York City, that had this art library, but it just had a collection of books, a collection of all of these old lectures from, like, 20 years, but they didn't have any way to organize it or put structure to it. And I worked in libraries as my, you know.
 
-## Carla Gannis [01:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=65s)
+Day job to support my grad school studies when I was in Boston. I worked at Rare Books at Boston Public Library, and then my… one of my, student assistantships was working in our art library. And so, two of my professors, who knew this little art school, it was called the New York Studio School. Mentioned to me that they were looking for someone to, you know, build a database and really start this art library, you know? And I wanted to get to New York. I'd only visited a few times from Boston, because I'd never been above the Mason-Dixon line before I got to Boston University, right?
 
-Hi, Alison.
+And I was like, I'm ready for New York now. I've had a few years in the Northeast, you know. And so, my dad sent me a database, I interviewed all these librarians throughout Boston, I logged into this thing called the Internet, which was still new at the time, started going to the Library of Congress and learning the system. I applied for the job, I got the job, and it brought me to New York. So, it was computing, and a computer job that brought me to New York. And so, I had a team, and I databased this library, I built this whole database, and I… you know, worked on this art library and the lecture series archive. I had an assistant who was a retiree from the Frick Library, so it was… it was amazing, and a lot of students working with me. But I was still painting.
 
-## Colin Goldberg [01:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=70s)
+At night, when I got home, you know? And then I started assisting artists and just diving deeper into emerging technologies. And a lot of the artists that I were assisting were intermediate artists or conceptual artists who were starting to use these tools, and since I had a grasp of them, you know, I was using those, too. And so finally, I realized, well, why am I not applying this to my own practice? And I had to be very dramatic, because, you know, youth is this way, and throw away all my paintings.
 
-You've been greeted, Alison. Hi, hello. This is also in the recording.
+## Colin Goldberg [06:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=404s)
 
-## Unattributed [01:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=77s)
+Oh my god, I did the same exact thing, that's so… that's so funny.
 
-Nice.
+## Carla Gannis [06:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=408s)
 
-## Colin Goldberg [01:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=78s)
+A lot of us in the 90s, we just felt like we really had to make that commitment to it, because nowadays we can have these transdisciplinary practices that, you know, we involve painting, we involve all these different processes, but at the time, because it was still so new. And it was so questionable. Many in the arts, that it just seemed to require that kind of commitment. And also, because it's coming out of conceptual art, I'd read about John Valdostari setting his paintings on fire, and I was like, well, I, you know, I can't start a fire in this Chelsea studio, but I will put them all in the dumpster. Yeah. Was that kind of your reason for throwing your paintings out?
 
-You know, we'll keep it.
+## Colin Goldberg [07:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=453s)
 
-## Unattributed [01:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=80s)
+Yeah, basically, it's funny because we sort of have very parallel stories. Like, I moved to New York, in 94 to be a painter, you know, and then I ended up building CD-ROMs at a little shop, and then the web happened, so that was my way of, you know, supporting my art habit, and… I was using tools like Flash and, you know, Photoshop and Illustrator and stuff, and… and at night, I started playing with them, and just started to make drawings and other stuff, and at some point.
 
-No, no, we'll keep
+You know, I just said, you know. People have been painting for forever, you know? And this is something that happened, like, the personal computer was born when we were born, basically, right around that same time, and I thought, you know, I'm just gonna… I'm gonna get rid of all this stuff, and I want to make work where if I'm gonna be ever known for anything, I want it to be something associated with technology. So, yeah, I took all my stuff to the dump, and got rid of it. So, that's so funny.
 
-## Colin Goldberg [01:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=81s)
+## Carla Gannis [08:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=516s)
 
-It. No, no, we'll keep it. No, it's more authentic that way.
+There's something creating about it. I think, you know, later in life, I don't know how you feel, I still have the slides to all of them, and they're…
 
-## Unattributed [01:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=86s)
+## Colin Goldberg [08:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=524s)
 
-No, no.
+I do too.
 
-## Colin Goldberg [01:27](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=87s)
+## Carla Gannis [08:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=524s)
 
-We're all, we're all family here.
+Yeah, but I'm like, I'm just gonna project those slides and remake the paintings as digital objects or something like that, or even, you know, now I feel, kind of licensed to, you know, make a painting again. It was just very important to… to pivot, yeah, yeah.
 
-## Carla Gannis [01:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=88s)
+## Colin Goldberg [09:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=541s)
 
-That's great. That's why I was like, if someone's like on the phone with their mom, we were like, Hey mom, what's up? Like, I am trying to remember my Instagram password. That's like the most current stuff I have.
+Absolutely, yeah, I mean, I've come full circle, and now I'm running, you know, my paintings through my printer, and printing… drawing, digital drawings on them, so…
 
-## Colin Goldberg [01:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=107s)
-
-Gotcha.
-
-## Carla Gannis [01:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=110s)
-
-Oh, come on now. I had the same problem last time. And I remember the password the second we got off of the, off of the meet. And I was just like, really? Cause there's some of the newer pieces that I would like to show for sure. And this one. No. Okay. Do I have anything to say to my drive maybe? I'm so sorry. I'm sorry.
-
-## Unattributed [02:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=149s)
-
-My pleasure.
-
-## Carla Gannis [02:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=150s)
-
-Try that type as fast as my sausage fingers will let me.
-
-## Colin Goldberg [02:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=157s)
-
-As long as they get the job done.
-
-## Carla Gannis [02:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=159s)
-
-Right? I've actually been learning how to play piano lately and it shows me just how tiny my fingers
-
-## Colin Goldberg [02:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=167s)
-
-Actually I've always wanted to learn how to play the piano as well just never got around to it dude yellow now's the time man right I'm also learning a lot of other things too so it's like at what time oh
-
-## Carla Gannis [03:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=180s)
-
-I feel that on a on a spiritual level yeah for sure I'm sure I want more password you don't want to get yourself locked out yes I think I got it I think I got it yes ha ha all right cool so when
-
-## Colin Goldberg [03:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=197s)
-
-We actually get to the part where you can show your your art we can we can see it yes
-
-## Carla Gannis [03:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=203s)
-
-Absolutely and so I've been going well it's really great you'll see it later sometime well
-
-## Colin Goldberg [03:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=208s)
-
-You know if the viewer has a great imagination I mean they could end up making it to be something that you can't do and I'm like I'm not going to do that something great. Yeah. All right. All right.
-
-## Unattributed [03:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=218s)
-
-All right.
-
-## Colin Goldberg [03:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=220s)
-
-Cool. Okay, so I'm just kicking things off here. I'm Davonte Bradley, otherwise known as Davo, fellow Techspressionist here. And we are with go ahead and introduce yourself.
-
-## Carla Gannis [03:53](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=233s)
-
-Hi, my name is Carmen Moses. I usually go by C or CMO. That's also go by Carmen says whatever people want to call me, I guess. And I'm from Augusta, Georgia, and I'm an artist.
-
-## Colin Goldberg [04:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=250s)
-
-You're an artist. I had no idea.
-
-## Carla Gannis [04:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=253s)
-
-All right,
-
-## Colin Goldberg [04:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=255s)
-
-Carmen. So tell us a little bit about your background. Not just like where you're from, but like your artistic background.
-
-## Carla Gannis [04:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=263s)
-
-Sure, there's a there's a lot to tell for sure. But as I said, I'm from Augusta. Um, so I've kind of always been creative. I was always that, that kid that draws, you know, and I, you know, just have always kind of been inclined to be artistic. And, you know, always trying to, you know, play with color and draw and all that good stuff. And, um, you know, as I got older, I kind of got out of it a little bit. But I went to Augusta University when it was Augusta State University.
-
-Long story there of many names. But I went for a little while. And, um, you know, I was kind of having a, you know, a difficult personal time and kind of not sure what I wanted to do. And I ended up dropping out. I went for art and ended up dropping out and going to culinary school for a little while.
-
-So if anyone needs cake, let me know. So I studied to be a cake decorator for a little bit. And, you know, still unhappy, still unsatisfied. So then I went into like normal work and was still unhappy and still unsatisfied. So in 2015, or 16, I decided to go back, to school as an older person with lots of little people.
-
-So that was that was fun. And I just stuck with it and recently graduated in 2018 with my BFA in photography and printmaking. So I do photography and printmaking, of course, digital drawing, digital art, regular art painting, kind of just do a little bit of everything. So I really consider myself a mixed media artist, just whatever the context. I have a lot of people in the world. I have a lot of people in the world. I have a lot of people had to have forgotten something. But yeah, so I've really, ever since joining the Jesse Norman School, the connections I've made here and, you know, just some of the people that I've met have created so many pathways for me. So I always have to mention the school and name drop and be like, I'm very grateful because I ended up being at Augusta University and here, and just all of the wonderful artists and mentors and people I've met, they've really kind of helped get me out there and here I am.
-
-## Colin Goldberg [07:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=425s)
-
-Here you are. All right. So that being said, do you, would you say that, you know, that background has had any bearing on the kind of art that you do? Like, has your, like, has Augusta influenced your art in any way or like your experience with, you know, your experience with art? Yeah. Like how you dropped out initially and then kind of rediscovered it. Did that have a bearing on, you know, the kind of art that you did or has any influences on it?
-
-## Carla Gannis [07:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=461s)
-
-Yes, question mark. So a lot of the art that I do is, is pretty highly conceptual and kind of goes into this sort of digital fantasy land, but interacting with all of the amazing artists in Augusta. I think we all do tend to influence each other and, and pick things up. And basically the entire staff here is all working artists. So, you know, we'll just kind of be like, Hey, you got a minute, what do you think of this? And, you know, someone will go, well, man, that's really cool. Have you thought about this? I'm like, not yet, but I have now. So definitely interacting in this sort of melting pot incubator kind of city and, you know, interacting with these other artists is, you know, I not the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one.
-
-I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one. I was the first one.
-
-I was the first one. I was the first one. I was the first one. Renaissance and medieval and also just kind of being uh you know obsessed with technology and that kind of thing so all that kind of just mixed together and created this this weird style and printmaking was a huge part of uh of developing my style and thinking of things in layers and um yes is the answer to your question sorry
-
-## Colin Goldberg [09:22](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=562s)
-
-Sorry that uh sorry about the cat that might have crossed the the screen just now okay he likes to um get involved oh
-
-## Carla Gannis [09:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=570s)
-
-That's okay I have dogs at home so I'd much rather have a cat just quietly walk by and it's like well this
-
-## Colin Goldberg [09:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=577s)
-
-This time he's quiet he's not always quiet like
-
-## Carla Gannis [09:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=581s)
-
-Hey what's up meow right
-
-## Colin Goldberg [09:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=583s)
-
-No he he likes to um peruse this entire desk pretty much and that also includes sometimes stepping on the keyboard but um yeah uh so that that all sounds really interesting like I've actually never kind of been like I've been around artists my whole life um like a lot of my friends in georgia from back home because I grew up in laurenceville actually yeah um a lot of my friends were artists and I was kind of always envious because they had like money for resources and materials and I was just like yes I want to do that but I the only thing I had was my way to go computer so that's how I kind of got digital art so without a necessity of still wanting to create but wanting to go beyond pencil and paper oh
-
-## Carla Gannis [10:34](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=634s)
-
-Same I don't know if you remember Adobe Photo Deluxe back in the day yes so
-
-## Unattributed [10:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=639s)
-
-That's
-
-## Carla Gannis [10:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=639s)
-
-That was the program that I started using um you know as a young young art wannabe artist wannabe um so I want to be you just an amateur it's okay you're still so I think there were like only like four or five tools on there that was like crop and uh maybe a last so I can't even remember it was such a long time ago but uh I remember our little what was it I don't even remember the name of the computer it was like an e-machine or something I had one of those yeah I it's motherboard died is that all that died on it I don't even do the e-machines even make them anymore
-
-## Colin Goldberg [11:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=680s)
-
-I I! To be honest with you I have no idea I know we had three e-machines in our household two of them had bad motherboards the third one's hard drive just up and died randomly so it they were they were they were quality products yeah
-
-## Carla Gannis [11:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=695s)
-
-They're
-
-## Colin Goldberg [11:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=696s)
-
-Still around though they're still around though apparently but they've been replaced by things like um Asus or Asus however you're supposed to pronounce that and Acer
-
-## Carla Gannis [11:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=705s)
-
-Okay yeah makes sense yeah that was it e-machines and Photo Deluxe was where it all started and I would uh you know take screen при- grabs of interesting things and cut them up and um make like kind of these weird fantasy landscapes so um I wish I can go back in time and be like hey keep doing this it's going to be awesome I-I-I
-
-## Colin Goldberg [12:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=727s)
-
-Feel you on that one on a major degree because I know I-I took a long break from exploring the kind of fine art side of things because I was doing a lot of character art stuff because I was wrapped up in manga art you know I was not in a lot of and anime and video games and that kind of art so that was where my concerns were and I got away from art art like the art for art's sake says this this kind of stuff yes yeah um but yeah it's it it brought me in like it brought me into that kind of style and it kept me there and as I'm sure it did you oh
-
-## Carla Gannis [12:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=766s)
-
-Absolutely yeah
-
-## Unattributed [12:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=768s)
-
-I remember
-
-## Carla Gannis [12:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=769s)
-
-Drawing like uh you know there's a book fair and you got your little your little ten dollars your little ten dollar check that your parents got you
-
-## Unattributed [12:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=776s)
-
-Um
-
-## Carla Gannis [12:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=777s)
-
-I would always look for the drawing books and I remember like drawing was so difficult for me like you know everyone knew me as a kid that draw drew but I always wanted to push and there were you know kids that drew better like you said you know they had better resources and buying there were two books that I remember that really helped me learn how to draw it was a Donkey Kong Country book and a Simpsons character drawing book and I remember drawing that look from the first Donkey Kong Country game that bee uh you know with the big booty and the stinger so I remember like drawing that bee over and over and over again and getting so frustrated until eventually I just got it and I was really excited so I always think about that bee every time and I have a I have a daughter who's a little bit more mature than me and she's like I'm gonna draw who's uh who draws and it's kind of it's kind of interesting kind of passing along these books and passing the torch and I'm watching her grow and develop and being able to go hey just keep practicing yeah so uh yeah practice
-
-## Colin Goldberg [13:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=839s)
-
-Is one thing talent is another but this
-
-## Unattributed [14:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=841s)
-
-Is
-
-## Colin Goldberg [14:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=842s)
-
-More important oh
-
-## Carla Gannis [14:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=843s)
-
-Yeah I tell my students all the time I'm like you cannot get by just on talent you gotta you gotta work put in the work for sure so fun stuff yeah
-
-## Colin Goldberg [14:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=852s)
-
-My Donkey Kong Country was actually uh the the Pokemon guidebook because there was a nice like a little green Pokemon handbook that had the first 151 Pokemon in it and I used to draw it like draw the Pokemon in there from um with my brother and sister actually they were also participants in that but they fell away from it I didn't right yeah wow there was only 150 Pokemon at one point weren't there now there's over 800 I think we I think we're going to have to wait and see if we can get we're at a thousand now I think something along those lines and I'm still I'm still in it nice
-
-## Carla Gannis [14:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=890s)
-
-Same um so we actually have a couple of PokeStops right outside the school and you can tell when people are like looking down at their phones and walking across the median I'm just like I know it's true yeah yeah we're we're Pokemon loving house my daughter's got Pokemon stuff we were just arranging her Pokeballs on her shelf you know
-
-## Unattributed [15:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=909s)
-
-Nice
-
-## Carla Gannis [15:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=909s)
-
-So definitely video gamers there's
-
-## Colin Goldberg [15:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=912s)
-
-A there's a sketch of Charizard right here and a sketch of uh Zoroark from the fourth generation right over here nice yeah so big big big fans here too very cool uh back back to art stuff now oh yeah we'll be there for a while I mean I mean it's still part of you though absolutely uh yeah um so speaking of influence so are there like any other cultural influences for your work um like I know there were from the work that I've done I've done a lot of like like like like like like like like like like I've seen of yours, some of them have like, seemingly religious overtones to them that I picked up on. So can you speak a little bit on that? Or? Sure.
-
-## Carla Gannis [15:53](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=953s)
-
-Um, so I do use a lot of religious references in my work. And there's always kind of this weird, like, I'm not, I'm definitely not looking to offend for the sake of offense. But I do want, you know, I want people to really kind of think about their, their, their spiritual sides. And so the Renaissance medieval work, kind of those Madonna's and, you know, altar pieces and triptychs. That's really, that's really a huge, huge influence for me. I'm kind of pop culture sort of things like the Matrix and Cloud Atlas, basically Wachowski stuff. And, you know, different kind of sci fi, I'm a big sci fi fan. So that's pretty prevalent. My family's from Puerto Rico. And I don't use a whole lot of, of kind of cultural references. But I do really like, I also like Mexican culture. So like, Day of the Dead, and, you know, Catholicism and, and things like that are, are, are in there.
-
-Maybe not as prevalent, but they're in there for sure. Music is also really influential, like Janelle Monae's music, I think I've heard her sing a lot. I think she's a great singer. I listened to Metropolis like 6000 times during my senior year in college, which really kept informing the work and pushing it even further. And Janelle Monae, if you're out there, I love you.
-
-## Colin Goldberg [17:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1040s)
-
-Notice me, please.
-
-## Carla Gannis [17:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1044s)
-
-But Metropolis was just really inspired. And of course, Metropolis, you know, the original movie. So just lots of it's in my brain, I think of it as I'm sure you played Katamari, I kind of just roll. Yep. And pick up whatever, you know, I just kind of let the world influence me in general. But I was actually talking to Michael, my collaboration partner yesterday, and we were talking about kind of the main sort of bane in my work, especially recently has been, you know, what is what would an AI think of religion? What would they think of God, you know, because if God is a creator, and we're creating them, do they think that of us? And, you know, that kind of leads to so many different little branches, you know, about, you know, if God is perfect, and an AI, you know, thinks that we're God, but we're not perfect, you know, like, you can go so many different directions and so many different questions.
-
-So I like to think about how they would interpret our religion, and what kind of religious or spiritual practices that might just naturally evolve in an AI. So that's pretty much the main, it's heavy.
-
-## Colin Goldberg [18:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1122s)
-
-No, that's, that's actually a really interesting thought. Like what, if AIs actually could, like, well, not could, it's actually probably a possibility at this point. Because they've already, there's some AI have actually developed their own form of language that they use to communicate with each other. So that's, that's a thing that's happened. So naturally, they might develop some sort of belief system. Potentially, and what that would look like would be
-
-## Carla Gannis [19:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1154s)
-
-Definitely keeps me up at night on a regular basis, like, it's pretty heavy stuff. You know, so I like to definitely explore that in my work a lot. And various ways, sometimes more direct ways, like I know I've made some pieces where it's just like, you see, exactly, you know, one particular concept, but others are a little bit more abstract. So you kind of have to sit and experience, you know, for a little while. And that's, that's pretty much the influence in a very large nutshell.
-
-## Colin Goldberg [19:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1190s)
-
-It's a very big nutshell, but it's okay. I think actually, now would be a good time that we could, you know, kind of see some of your work, if you don't mind.
-
-## Carla Gannis [20:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1201s)
-
-Oh, absolutely. I was prepared to share. Yeah. So we can see this. Okay.
-
-## Colin Goldberg [20:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1213s)
-
-Yeah, I can see it.
-
-## Carla Gannis [20:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1215s)
-
-Absolutely. Awesome. So this is my Instagram, my kind of, quote unquote, official art brand or art name is a payasa, which means clown in Spanish. And it's the feminine version of the word clown in Spanish. And if you've been in a room with me for more than five minutes, you're going to be like, that's where you get the name from. Because I'm not sure how many people are going to know that. I just are. I just have a lot of people in my house, which is great. Until we try to out-fun each other. Oh, no.
-
-## Colin Goldberg [20:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1241s)
-
-So, you
-
-## Carla Gannis [20:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1243s)
-
-Know, I, I like the, the concept of a clown, you know, because there's, there's sadness, and then there's joy. So, that's one of, that's another kind of, thing that kind of lightly, loosely connects my work is, is thoughts of, you know, sadness, and joy, and the juxtaposition, and contrasts of those two things. But I'm going to, I'm not, let's start maybe we're gonna go down we
-
-## Colin Goldberg [21:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1273s)
-
-Got we got clowns we've got ai and we've got technology
-
-## Carla Gannis [21:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1277s)
-
-Pretty much um and skulls but we'll get to that skulls yeah skulls um I think my boss recently said I was the skull queen and I'm like you know it buddy so I do love uh skulls and skeletons there's some stuff from my from just my working life as well but I'm trying to get to the artwork and we're going down um let's see here trying to get to the kind of early college stuff um some photography there some sketches me wearing a lot of stuffed animals um that was an interesting day for sure
-
-## Colin Goldberg [21:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1317s)
-
-Um actually a picture of somebody that actually looked like a friend of mine you know it's such a small world I I would believe it hey I I I recently sold a print to a cousin of mine I had no idea oh wow yeah that's
-
-## Carla Gannis [22:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1334s)
-
-Definitely one way to uh meet your family yeah um oh goodness I you know you scroll through it so fast on your phone that when you get on the slow computer you're like well
-
-## Colin Goldberg [22:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1345s)
-
-That well not only that the instagram desktop uh site is not at all optimized like at all it's just it's just not
-
-## Carla Gannis [22:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1355s)
-
-I think I think we're pretty much getting to the beginning um so um and I'll we'll just do okay
-
-## Colin Goldberg [22:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1364s)
-
-Hey I also kind of start with an eye at the very bottom of my eye got to every every artist has got to do the eye at least once I keep doing them every now and again I gotta come back to it
-
-## Carla Gannis [22:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1376s)
-
-For sure and just to see your eye progress you know like uh you know I can show you an eye I did like in fifth grade and this is an improvement but I could probably do even better than that um so this is um early kind of early college uh late pre-college work um so you know of course you would start with your drawing courses so um I really hit those hard and um kept a pretty decent sketchbook I also um was really influenced by graffiti art um so that was one of the reasons I got back into art before college um so uh a friend of mine goes by satire um his work is amazing um and I showed him some of my work and we worked together one day and I was just like I kind of you know I kind of quit college you know I just don't think I'm good enough he's like no you need to keep going um so that's where some of these kind of creepy provocative uh images came from um so kind of these sort of clown um burlesque type things um but still drawing and then you know sharpie alcohol face marker um kind of working in that sort of graffiti style um charcoal you know this is all basically like kind of the building up and discovering what I can do um I also big fan of the labyrinth so I did the labyrinth fan piece the labyrinth is an amazing piece of artwork itself yes I mean it's it's a gorgeous movie um and everything kind of in that vein dark crystal oh yes
-
-## Colin Goldberg [24:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1473s)
-
-Uh did you have you had an opportunity to do that um I did I did I did I did I did I did I did I got an opportunity to watch uh the prequel that came out on netflix
-
-## Carla Gannis [24:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1480s)
-
-Oh yep binge watched it it was um and I love I love the lore of the movies as well um I actually recently just uh read the comic series the kind of series elaborate and uh just it was brilliant I loved it um so here we are trying to kind of get into printmaking um I originally did not care for either printmaking or photography and I even saw this movie and I was like oh my gosh told my photography teacher that I was only in his class because it was required.
-
-About, you know, a thousand dollars of camera equipment later, I changed my tune. And then same with printmaking, I really struggled with it. And then, you know, A, I'm stubborn and stubborn driven, you know, whatever you want to consider it. But I just kind of kept having to master the medium. And then I ended up really falling in love with printmaking. And here's some relief stuff.
-
-If you've kind of seen it, and we'll see a little bit later on the Instagram, my skelly box. So that's kind of my, I've been working on serious stuff too long, I need to diffuse and just play. So that's kind of where the skelly box come from. But I'll touch on those in just a minute. But this is the original.
-
-Some woodcuts, some different things. I also worked for one of those like paint and sip companies at one point. So I've got some of that stuff up here, kind of more of this graffiti style stuff. And again, just kind of discovering you know, who I was and what I was capable of. I also did some ceramics because you know, that's one of the classes you got to take, but I ended up falling in love with that as well.
-
-And then this is, this piece is pretty kind of a game changer right here.
-
-## Colin Goldberg [26:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1583s)
-
-Looks like it.
-
-## Carla Gannis [26:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1584s)
-
-This one is when the style really started to develop. So that's actually my daughter in that skull mask. And we were at a park. And she's like, Mommy, I just want to play Pokemon. And I'm like, Mommy wants to make an animal. And she's like, Mommy, I just want to play Pokemon. And I'm like, Mommy wants to make an animal. And she's like, Mommy, I just want to play Pokemon. And I'm like, put the mask back on.
-
-So this was one of the pictures that came out of that particular photo shoot. And I think I got an honorable mention in one of the kind of college art contests. I can't remember the name of it right now. But the photographer's forum, that's what it was. So this was kind of a springboard into a lot of different pieces.
-
-Um, my little crooked bowls that I threw. Um, so this is kind of where the turning point was. I like to life hack and multitask as much as possible. And especially when you're going through college, and you've got 60,000 different due dates. So photography and printmaking, you know, were those main classes that I was taking, those were my BFA track. And I'm like, okay, I've got an assignment due for this class. And I've got an assignment due for this class. How can I combine that? And that was, you know, the pivotal moment for me. Because photography and printmaking became kind of permanently a mesh for me. So instead of going and finding a stock photo, I'll go around, you know, downtown and look for a texture that I like, and that will become a background.
-
-And we'll see that a little bit more going forward. So kind of some more of the kind of the Day of the Dead, creepy, influence-y kind of stuff. More schoolwork. More kind of photo manipulation. Was that a Pyramid Head inspired piece? Yes, absolutely. I know exactly which one you're talking about.
-
-## Colin Goldberg [28:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1695s)
+## Carla Gannis [09:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=550s)
 
 Yeah.
 
-## Carla Gannis [28:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1696s)
+## Colin Goldberg [09:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=550s)
 
-So yes. And D&D is kind of always showing up in my life. I've never been a D&D player, but I have an appreciation for it. But a lot of my friends play it. So this, I can't really remember what, whether this was just an experiment, or whether I had something a little bit higher. Conceptual for it. But I kind of started experimenting with like replacing heads.
+Kind of, you know, I think also, like, you know, I was looking at your work, like, how it relates to, like, painters like Bosch and, you know, historical work, so I think having a background in painting and an appreciation to, you know, with painting, probably impacted your work. Would that be the case in terms of just.
 
-So I do get, I do get the Pyramid Head reference. So I'm sure I could like, go back and be like, well, you know. Yeah, no, no, they're all still there on purpose. Yeah. Sometimes the concept comes afterwards, for sure. I completely understand that one. So I'm going to kind of come back to this in a moment. But because those pieces kind of show up later, you know, just some drawing charcoal drawing.
+## Carla Gannis [09:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=571s)
 
-This was another this was another pivotal piece for me. When I really started to think about this Renaissance art and you know, instead of a stone tablet, why not an iPad? And then some photography work and then this was another kind of pivotal piece for me. I'm very, very heavily influenced by Frida Kahlo. Like I wished for Frida Kahlo's collection of paintings as kind of little objects with pictures on them and stuff like that. I could go back in time and meet her and just be her best friend because I totally would um and
+Oh, certainly. Yeah, yeah, I was a total art history nerd. And so… I think… All of these different art historical figures, it's kind of two-pronged. One, they're people that I respect and admire, and Bosch was somebody who was resonant with me for a long time. Even growing up in this little tiny town of 7,000 people, you know, Bosch was someone I had access to, but something else, I think, from one of my other perspectives, which is feminist critique, you know?
 
-## Unattributed [29:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1781s)
+## Colin Goldberg [10:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=603s)
 
-She probably
+Looking at the.
 
-## Carla Gannis [29:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1781s)
+## Carla Gannis [10:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=604s)
 
-Would have needed it yes I would have like right but um just her life and her work were were very very very influential to me um I have Frida stuff all over the place um but uh this is part of a self-portrait um assignment and uh I had kind of I don't know why but I this is a self-portrait and I had a friend help me take the pictures and like my eyes looked weird like I kind of looked a little muppety so I was just like man let me just uh let me just replace my head with something um and then this kind of this piece and this piece probably um I started to really play with the idea of this kind of tv head so the tv head Madonna is something that kind of pops up in my work a lot um and kind of going back to to this one a little bit um so I remember talking to a young person and them not knowing what the VHS tape was um and I instantly had a midlife crisis yeah that kind of hurts a little bit I was like you know when you had to be kind and rewind or they charge you a little extra blockbuster okay never mind um so uh this piece um uh they're actually backwards um it's supposed to this says los dioses viejos se están muriendo which means uh the old gods are dying um so I kind of thought about you know these things that we revered you know so much in our lives you know tv and that you know going to walmart and grabbing the latest you know tape uh in their little tape section and those things um in our lives that are entertaining but almost in a way objects of worship um so that's where I'm at right now um and then I'm going to go back to the book and I'm going to read the book and I'm going to read the book and I'm going to read the book and I'm going to read the book the idea of the tv god and the tape god came from the tape god hasn't really shown up too much the tv god kind of has more a little bit for me um but that's that's kind of where like my current style really really started um I also did some kind of fun abstract photography with miniature sets um still kind of a fun thing that I do but I'm not really super prominent uh you know everyone has their trips to the aquarium photo of course um the lion fish and all that good stuff oh yeah you gotta have the lion fish and yeah
+And in a barred history. I remember when I was an undergraduate, and I kept asking my professors, where are the women? Where are the women? And I found, like, Judith Leister, you know, Artemisia Gentileschi, but it was just, you know, I could count them on one hand. And, particularly at that time in the 90s, because there hadn't been a deeper dive into more intersectional approaches to art history, and, you know, in terms of culture and gender and all of these things. And, so some.
 
-## Unattributed [32:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1926s)
+## Colin Goldberg [10:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=633s)
 
-Um
+I've never heard that term before, intersectional approaches.
 
-## Carla Gannis [32:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1927s)
+## Carla Gannis [10:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=636s)
 
-Some of these kind of uh these photo projects were kind of deeply personal um kind of exploring uh family relationships and kind of uh feelings and insecurities and you know baggage so um there's some kind of more deeply rooted stories in these um but uh like I said I haven't really um that's more of kind of a side thing for me um uh and I'm not really a fan of the um the um the um the um the um the um the um of course I have my particularly offensive pieces particularly offensive particularly offensive so this one offends pretty uh pretty regularly but um uh what I wanted to say um some of my friends just do the rest of my projects for me um so um you know what I wanted to say here is you know we're more interested in showing kind of the evidence of the experience and the experience
+Yeah, well, intersectionality, it's sometimes used with, you know, feminism after third wave, these kind of things, where we're taking into account Not only gender, but class and, you know, sexual orientation and all of these other things, so I, you know… but, anyway, you know, sometimes I am referencing or quoting art history to kind of, you know, insert myself within that framework and lineage, too. So there's both an admiration and sometimes a subversion as well. And then with the Bosch.
 
-## Colin Goldberg [33:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1983s)
+Which, maybe I should pull that piece up, since we're talking about it.
 
-Um kind of using I feel like the the whole kind of I was there but I actually wasn't a part of it right
+## Colin Goldberg [11:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=676s)
 
-## Carla Gannis [33:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1990s)
+Sure, yeah, yeah.
 
-Um and I feel like that's something that we do fairly regularly so it wasn't kind of a way to disrespect you know Christ or or the crucifixion by the kind of way of showing a current state of Affairs um and let's see here uh free to Calla of course um this was me making 30 30 prints in our print lab. I miss those days of midnight working and, and, you know, going to the vending machine to grab my dinner and college.
+## Carla Gannis [11:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=677s)
 
-Yay.
+Give me one second, I have links… And… This is the, one sec. Alright, I'm gonna share my screen. Here we go.
 
-## Colin Goldberg [33:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2028s)
+Can we see it?
 
-I mean, I remember 3am trips to Walmart.
+## Colin Goldberg [11:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=702s)
 
-## Unattributed [33:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2032s)
+Yep, just kidding.
 
-Oh, you gotta have those. Yeah.
+## Carla Gannis [11:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=703s)
 
-## Carla Gannis [33:54](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2034s)
+All right. So this piece is called the Garden of Emoji Delights. And I began working on this in 2013, and it also exists as a 13 foot by 7 foot digital print work. And after I completed that, I animated it, as you see in this piece. I've made 3D prints, sculptures, hand-painted, numerous drawings, and augmented reality experiences. But one reason or prompt to make this work Was the fact that even though I'd known Hieronymus Bosch's work, and particularly The Garden of Earthly Delights.
 
-No, I ran out of, actually, no, I'm good now. No, I'm like, um, also really, uh, influenced by, you know, comics and graphic novels. Um, so I don't know if I, if I officially have the nerd label yet, but I think, I think I do now after I think, I think you had it even before this, right. I try to hide it and look like a cool kid, but, um, it doesn't always work.
+For decades, and it was influential. It's just such a trippy piece, and it has all of these kind of pre… it's a predecessor to surrealism, you know, in a way, and then, you know, also made itself on the cover of a lot of, you know, 70s psychedelic Album covers and things like that. Right. And… I only knew it, though, from books or as an object on the internet, like the language of emojis that was beginning to emerge at that time. And so, one night I stayed up all night, and I worked on the hell panel first, emojifying it, which is actually not a verb, but…
 
-## Colin Goldberg [34:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2058s)
+## Colin Goldberg [13:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=784s)
 
-Hey, it's not, it's not even worth it.
+I just know.
 
-## Carla Gannis [34:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2060s)
+## Carla Gannis [13:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=786s)
 
-Right. For sure.
+Yeah, I'll stop sharing, because I think we've gotten a taste of it, but… I was… I just thought, what would it be like, because a lot of my work is about sampling from art history, about remix and mashing up things, right? And I was like, what would it be like to mash up Bosch with emoji? And what was fascinating, because the language of Bosch is enigmatic but symbolic. And emoji, when you start laying over these different emojis that existed in 2013, like the skull emoji when you're in hell, and the knife emoji, and these kind of things, you know.
 
-## Colin Goldberg [34:22](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2062s)
+You're like, oh, it's starting to fit. Oh, how interesting that is. Then I spent a year of my life Creating a lot of new Chimera to fit with the Bosch language, because emoji wasn't… so it was kind of expanding the lexical set of emoji, because it wasn't a really expanded language at that time. For example, there were only white faces then, and yellow emoji, you know, and so I really spent a long, or a lengthy time, a year, you know, making my own in Illustrator.
 
-Actually, I feel like these days, actually, you actually have more street cred as a nerd than you would have as a cool kid.
+## Colin Goldberg [14:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=854s)
 
-## Carla Gannis [34:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2069s)
+Photoshop.
 
-Yeah. Um, another one of those things I want to go back in time and tell myself it's, it's going to be okay. Your nerdiness is, you know, keep playing those video games, keep reading those books. It's going to be okay.
+## Carla Gannis [14:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=855s)
 
-## Colin Goldberg [34:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2078s)
+And populating them, emojifying the Bosch. And, the first time I showed Just a small print where I was still working in progress, which was the HELL panel, and I later, as you saw, you know, created all three, the triptych. I thought I'd get laughed out of the gallery, because I thought, what an absurd premise. And I swim in the absurd and the comedic with a lot of my work, but I was sure I was going to get laughed out of the gallery, and it resonated with people in a way that that was incredibly unexpected to me, and has continued to do so. I still get DMs, I have a show coming up showing this work, and that's been, you know, many… 12 years ago, and so it's fascinating when you're working on something, and you're not even sure about the premise.
 
-Um, Hey, I've got, I've got my
+And then an audience responds to it in ways you didn't expect. Yeah.
 
-## Carla Gannis [34:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2081s)
+## Colin Goldberg [15:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=915s)
 
-Right here. Right. I actually left my switch at home today. Cause I wanted to get some work done because sometimes it finds its way into my purse, but, um, somehow magically. So, um, this was another piece and this was one of the first times I interacted with my current work. Um, Oh, there's a cuss word there. I'm so sorry.
+That's very… that's really cool, and it's interesting how your work sort of references digital culture, you know, as well as sort of incorporating it in terms of the media, you know? And I also, you know, like, I feel like new emoji are always coming out, and I see them, and I'm like. What does that actually mean? You know, like the, I got a message recently from my girlfriend, and it had the upside-down smiley face, and I was like.
 
-## Colin Goldberg [35:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2101s)
+## Carla Gannis [15:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=943s)
 
-Oh, no, it's okay. I think we're all adults here. It's okay. Most of us are adults.
+Yeah.
 
-## Carla Gannis [35:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2105s)
+## Colin Goldberg [15:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=943s)
 
-Well, they, I work, so that's cool. Um, so this was another part of, um, kind of exploring, um, reverence and an AI. Um, I'm trying to see if I can, if we can see like the whole work. So here we have like, you know, these footsteps and kind of this lighting of an altar, you know, and the, and the reverence and reverence and reverence. Um, and a sense of worship. So this was a more of a literal, um, translation of, of kind of this, these thoughts that I've had about this, uh, particular concept. Um, and this was another, you know, assignment, you know, a school assignment. Um, but, uh, the, the great thing about, you know, art school assignments is their art.
+What is she trying to say to me? Like, I don't even know what that means. I had to, like, Google it, you know, and I still don't know what it means, but, yeah, it's weird. Oh, that's really interesting. I remember, so you and I met in person first at the show at, on Long Island.
 
-It's not something that's going to sit in a drawer. Like, Oh yeah, I remember that report. I wrote about, you know, 15th century France, um, it's like, no, I still have a, a interesting saleable hangable piece. So this was me using three different mediums to explore. This, um, was the point of this particular work. So digital, uh, color pencil and, um, black and white alcohol-based marker, um, or grayscale. Um, but, uh, what's kind of more important here is the concept of course, more of these sort of kind of personal telling, Oh, here's, here it is all together. Uh, so this was another, um, you know, kind of, uh, landmark piece for me. Um, and then more of kind of this religious stuff. This was my literal TV head, Mary, and one of my shows, um, let's see here. Um, some murals I've done, uh, murals for different places as well.
+## Carla Gannis [16:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=963s)
 
-Paintings, um, some more of kind of the, um, this kind of this figure, um, and she's gorgeous by the way, she's one of the best models I've ever had. Um, but, um, and then, and then, and then, and then, and then, and then, and then, and then, uh, this figure kind of represents more of that pushing photography with digital work. So this is, you know, a fully nude figure. I went and literally worked each line to make her look like a robot, um, or an Android. Uh, this is all kind of, uh, photo montage, digital collage. Um, and the idea of, uh, Adam and Eve was kind of really prevalent during this time and thinking about, uh, a lot of these are called Eve's, uh, Eve's, uh, Eve's, uh, Eve's, uh, Eve's, uh, Eve's, uh, Eve's, uh, Eve's, shame or ashamed Eve. So this character kind of shows up, um, a few different times, but, uh, just the idea of all the influences that we have that cause, you know, our, our senses of shame and embarrassment and, um, kind of some more of the negative stuff.
+Yeah.
 
-So I did also do an Adam, but the Eve's kind of ended up better for some reason. Um, so my Adams kind of never, never were as compelling to me, um, for whatever reason. Um, this is another work with that same model in the same vein, but this was a screen print. Um, so this is one of the first ones, uh, that I did where I really started to kind of stack meaningful layers. So everything that I put into a screen print, it's, um, some of it's randomly selected. Like I might randomly select a texture, but most of the time, every single layer has a meaning. So, um, for, for this one, you know, you can see the motherboard in the back, you can see the apple, um, you can see the snake. Um, this one's a little bit more obvious. Some of them are, are incredibly subtle. Um, so, uh, more Skelly bot stuff, more, uh, kind of this Android photo, religious, uh, photo montage.
+## Colin Goldberg [16:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=963s)
 
-Um, let's see here. Do, um, this one I recently, um, just traded with Colin on, which I was pretty excited. So, um, I think I might have a better picture of this one. So we might go back. Um, Legos, Christmas stuff. Um, so this is my first college, uh, show. This is my senior, uh, my senior show. Um, and I called it spiritual biotech. Originally it was Catholic biotech because I wanted to do mostly Catholicism, but, um, other religions kind of snuck their way into there.
+Mocha lights show, and I thought, you know, just the work is, was, really, sort of… Unique way of using the technology in a narrative sense. It was that Wunderkammer… I think it's called Wunderkammer? Is that the name of the piece you shared? I think?
 
-## Colin Goldberg [39:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2357s)
+## Carla Gannis [16:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=981s)
 
-So, um, as, as that actually has, that's how religion normally works where you start with one and then all of a sudden you find references to a lot of other things. So, um, I think I might have a better picture of it. Yes.
+Yes, I… well, I think at that show, I showed something that was a… a kind of cabinet of curiosity. It was a.
 
-## Carla Gannis [39:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2369s)
+## Colin Goldberg [16:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=988s)
 
-Um, studying religion became, um, kind of really important, um, throughout this whole process and kind of in your own reconciling your, uh, um, your, your place in the universe. I think, um, so, um, some kind of photograms I did, um, Legos, Legos, Legos. Um, so this was, um, a display that I did in my senior show and this is called, um, viral video, a family altar. So I have these little TV Madonnas and kind of thinking about the, the Mexican of friend that where you, you know, you put photos of your, of your family and stuff. Um, so there are different photos of the pieces. So a lot of those pieces ended up being smaller pieces in this. Um, and originally I was going to have some really creepy, cool stuff playing on the TV, but I lost the adapter right before I got there. Um, so I was like, Oh, I'm going to have to do this.
+That's right.
 
-I'm going to have to do this. I'm going to have to do this. I'm going to have to do this. I'm going to have to the show and got stung by a bee while I was putting this show up for some reason. Uh, I took it as a sign to keep going. Um, so, uh, just kind of more ways that the TV had Madonna and I took VHS tapes and cassette tapes and spray painted them into kind of these little colorful pieces. Um, so this is by far probably one of my favorite installations that I've done. Um, and maybe the only one I can't remember.
+## Carla Gannis [16:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=989s)
 
-Um, let's see here. But, uh, you know, we kind of see it developing a little bit more. Um, this is a, this is a piece that, um, shows up a lot. Uh, St. Lucy, um, is the patron saint of the blind. So I have her with the Oculus and with the, with the iPhone. Um, uh, and I said there was 12 layers on that. I'm surprised that was actually pretty light for me. Uh, my professor used to be like, how many layers do you have in this? And I'm like, 25.
+And it was influenced by this Dutch painter, Hookstratten, and it was actually the… one of the early, or first NFTs, not the first, but one of my earliest NFTs that was in Feralphile.
 
-Sorry. I know I'm going to take a lot of time to think about it. I'm going to take up the lab for a little while, but it's important. And, you know, me and the goober right there on graduation day. Um, I've also painted a couple of pianos for, uh, Jesse Norman school. Um, this is my first real digital piece and my first real piece since, uh, since leaving college. Um, and this is more of like a personal reflection, you know, the P for Piazza and, uh, kind of a maternal thing. Um, so this is kind of, this is kind of springboard to the next, uh, me and my, me and my babies, my students, every time I see them outside of work, I'm like, my babies, uh, they probably think I'm, I'm nuts. And then, you know, I tell people my kids and they're like, how many kids do you have? And I'm like one that I birthed and like 90 that I just love because, um, Hey,
+## Colin Goldberg [16:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1001s)
 
-## Colin Goldberg [42:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2534s)
+It was a gift.
 
-Family doesn't always mean blood.
+## Carla Gannis [16:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1002s)
 
-## Carla Gannis [42:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2536s)
+Digital 3D object first, and you had to buy the NFT to actually be able to peep into the box, and then with that, you got a VR experience, a custom VR experience where you could actually enter the box as a world, an environment. Right. But that was what I was showing there, but it was definitely… In relation to this larger project I've been working on, that I continue to work on, called Wonder Camera, which is the Cabinet of Curiosities, but mine is called www Undercamera.
 
-Right. For sure. Um, I tell them the second you cross the threshold of my classroom, you are my baby. Um, I will show up to your graduation, occasionally send you a gift.
+## Colin Goldberg [17:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1033s)
 
-## Colin Goldberg [42:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2548s)
+Right, that's right.
 
-Maybe, you know, and I think to be completely honest with you, I think those kinds of teachers are kind of the best kinds of teachers in a lot of ways, because I mean, just the ones that you can actually have a genuine connection with. For sure. It's, it's, it's something, it's something special.
+## Carla Gannis [17:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1034s)
 
-## Carla Gannis [42:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2568s)
+Camera for the 21st century and the internet age, yeah.
 
-Absolutely. Um, those kinds of teachers pretty much. Um, and I, I definitely don't say that slightly saved my life as a youth, um, and as a teenager. And, um, you know, I learned a lot from them and I, that's kind of my, my charge as a teacher now is, uh, continuing the love that they gave me and showing me my worth. You know, I want to make sure that all my little, all my little dudes can do that and everything in between that they know their worth as well, especially as artists. Um, cause you, you know, you always got the,
+## Colin Goldberg [17:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1038s)
 
-## Unattributed [43:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2600s)
+Gotcha, gotcha. Yeah, I remember the piece was, like, a sculptural piece, and it was sort of, like, on a pedestal. I remember the curator was, like, trying to figure out how to…
 
-This sucks. I'm so bad at this.
+## Carla Gannis [17:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1046s)
 
-## Carla Gannis [43:22](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2602s)
+Yeah. Optical illusions, and so one side, and Hoogstraden did this in, oh my gosh, I think it's the 16th century, or it might be 17th century, the data's eluding me right now, but which, you know, optics was, you know, like, very interesting to people at that time, and perspective and, you know, these different optical tricks and illusions, you know, a painting itself, a traditional or realist painting, is the lie that tells the truth, right?
 
-It's like, no, you're not, you're, you're where you need to be. Let's push it a little bit further. Um, so a lot of fun stuff there. Um, I'm just still kind of scrolling through. So I, I recently became a big girl artist about my own website. Um, I finally pulled the trigger on a website. So, uh, I've also kind of developed some of the motion graphics from my website as well and create the logo this past year. So those were some huge artistic strides for me, uh, personally. Um, so this is my website kind of entrance logo. Um, and I'm going to show you a little bit of what I've done with it. So I'm going to show you a little bit of what I've done with it. So I'm going to show you a little bit of what I've done with TV. So this kind of weird futuristic TV comes up a lot. Um, and I, as I was talking with Michael yesterday about our collaboration, I was, I was telling him, you know, how people call each other sheep, you know, for me, it's like people are TVs, you know, all they do is, is get the signal and spot it back out without actually processing it.
+## Colin Goldberg [17:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1078s)
 
-Um, which I don't necessarily, I think I still have to kind of process that in terms of, uh, how that kind of goes with my, you know, TV head Madonnas and stuff like that. Um, I might have to go back and revisit that, but that's, I think that's the symbol of the TV for me is, is, you know, what you take in and what you put out. Um, so, uh, this is just kind of some random stuff. Uh, recently started using Ibis paint, which I'm absolutely in love with. Um, so this is kind of some experiments and more skelebot. Um, so, uh, is, is it cool that I'm
+You know?
 
-## Unattributed [44:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2696s)
+## Carla Gannis [17:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1078s)
 
-Going, uh, if you
+A flat surface, but we get this sense of a broad vista. And so, I thought that was kind of fascinating to think about that in the context of virtual reality and all of these new, you know.
 
-## Carla Gannis [44:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2699s)
+## Colin Goldberg [18:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1091s)
 
-Have a question, cause I, I mean, we're talking to my family. No, it is completely okay. Cool. Um, so the, the deal with the skelebots, um, is like I said, this is kind of my way to, to diffuse a little bit after I've been kind of working on these sort of really heavy, um, heavy conceptual things. So, um, this originally came from an assignment that we did where we had to do an isometric drawing. Um, and, you know, I couldn't just do what, you know, what was being asked. I wanted to put my own spin on it. So that's where the skelebots were born. Um, and like I said, it's just like a fun, it's just like a fun thing that I do. It's not really super serious. Um, but the, the whole concept is they kind of have like this little backstory, um, you know, of these little aliens that kind of come to the world after we're all gone and they see all these skeletons and think that that's maybe what we look like.
+Right.
 
-So they form themselves to look like skeletons. And then, um, they kind of look at all of our traditions and history and weird things. And they're like, maybe not mocking it, but trying to understand it. Um, so this will probably be my wedding invitation someday. Um, so, um, this is a skelebot wedding. So it's them like doing wedding stuff like, Oh, this is what the humans did. They ate cake and put on fancy clothes and had rings. Um, so, uh, there's more of those a little, a little later. Um, this is a playing card deck that I'm working on developing right now. Um, I'm actually not going with these, these particular images. I've changed up the imagery a little bit, but I may release those later as, um, something else. Cool. Um, let's see here. This is my Minecraft character and I'm very, very proud of it.
+## Carla Gannis [18:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1091s)
 
-I'm going to mention that right now. Cause that is, I literally have those glasses. I have big heart shaped glasses.
+And all these new layers of reality where, again, we're working with a kind of illusionism, with a.
 
-## Unattributed [46:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2810s)
+## Colin Goldberg [18:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1097s)
 
-So my blazer,
+Sure.
 
-## Carla Gannis [46:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2812s)
+## Carla Gannis [18:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1098s)
 
-I just don't have the pink dress yet, but, um, I've been Minecraft all the time. Um, so here's some more of our skelebots. Um, so this is, um, uh, skelebots, you know, getting rid of COVID. So this is kind of my response to that and thinking that this is kind of a, kind of a big historical event. So I wonder what, you know, my little skelebots would think of that.
+That this is real, but it… is it really? And so that's why I made that peat box and then made a VR experience. But I also was taking from this Hoogstratten peat box, in that one side of the box is open, and you can see that How it's inlaid with imagery, that it always kind of doesn't make sense, but when you look through the two peoples, everything comes into perspective, and it… and it completes the illusionism, and actually.
 
-## Colin Goldberg [47:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2834s)
+## Colin Goldberg [18:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1125s)
 
-You know, I just noticed something. I, cause I, I didn't really have a necessarily traditional, like artistic upbringing, so to speak, like as far as like everything that I've learned and picked up over the years, but what, what, what you've used for the pelvis, that was actually a very common anatomy thing that, you know, was used in a lot of practices. Like imagine the pelvis and that hip region is like a bucket. It's like, yeah, no, that's like a real thing that a lot of artists have like, a lot of guides and tutorials that I've seen that is actually used as a point where like, think about the pelvic region as like a, bucket.
+20 bucks.
 
-## Carla Gannis [47:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2876s)
+## Carla Gannis [18:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1126s)
 
-I've never ever heard that. That is insane. So like, but I'm going to start using it now for sure. Yeah. So, and I wonder, I wonder if maybe I was just thinking about breaking down shapes a little bit simpler or what I was thinking here. For me with figure, with figure drawing the pelvis is always a heart.
+Spectivally correct. And then the final layer to that, because all of my work is multi-layered, I'm a maximalist to the max maximalist, I was working with AI then. And I've been working with AI, like all of us, experimenting with it for… For quite some time, and I was working with, you know, early Gannis models for that. And so, Hoop Stratton's was about a peep box, and you're peeping in on this woman, you know, that's sitting in this room. And so I made mine. My training sets were peep shows in Times Square, and, Tokyo, and various, you know, the history of these different peep shows. That was one training set.
 
-So that's one of the, that's one of the ones I learned back, back, back in the day with my mom's drawing books. So I'm going to, I'm going to look into that bucket thing.
+And then the other training set, or data set was, Dutch paintings, where you're always kind of looking at the woman through a window, and so this.
 
-## Unattributed [48:27](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2907s)
+## Colin Goldberg [19:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1177s)
 
-I'm going to have to tell my kids about that.
+Hmm.
 
-## Colin Goldberg [48:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2909s)
+## Carla Gannis [19:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1177s)
 
-I mean, it works though. It does.
+Industry.
 
-## Carla Gannis [48:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2911s)
+## Colin Goldberg [19:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1178s)
 
-It does. Whatever, whatever can, can get you to, to understand that everything we're all just shapes, shapes. So this is my, this is my Skelly bought Christmas card. So all of my coworkers got a Skelly bought Christmas card. And I started recently kind of experimenting with just doing these kinds of speed videos, which I've, this makes really, really easy to do.
+It reminds me of the… I just saw the Duchamp show at MoMA, and his last piece was, like, you're looking through the… the keyhole, you know?
 
-So kind of just showing the, the process here in a very fast way. And of course, matching envelope is important. So, and then this is kind of the current iteration of my work, except this one, this lovely piece was done by my daughter. I'm quite jelly. That's a fabulous dragon. So as I started to actually, actually, you know, I'm not shy about telling people things. I'm usually pretty open. So I do have depression and anxiety that I struggle with and fight like heck against on a, on a regular basis. And with kind of COVID and everything I don't think I'm alone in saying that I was, I was pretty depressed and I'm sure a lot of people were as well. Cause you know, it's like, yeah, what can we do now? And especially, you know, as a, as a theater teacher, like we can't get together. We can't get together.
+## Carla Gannis [19:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1185s)
 
-We can't get together. We can't get together. We can't get together. We can't rehearse. We can't put on plays. We can't get people to come to our plays. So a lot of things were just really kind of hurting. And I wouldn't get out of bed. So one of my life hacks was going back to digital drawing. And most of these pieces were actually done on my phone, which I tell people that I'm like, ha ha, no, really? And I'm like, no, no, they were done on my phone. So these, these were kind of my initial explorations with, with using digital drawing. So I started using digital drawing software on my phone. I'm going back of course, to my, you know, reverent Android and just really exploring abstraction and texture as a way to cope.
+I love that piece, that's in Philadelphia, and I actually did a piece, oh my gosh, in, like, 2002, you know, an homage to Duchamp. Very different, but, like, I… I got this commission, and so I just broke into their wall and created this, you know, paint box in their… but anyway, so this, and I've done a few other peat boxes through the years, so I think surveillance and, you know, those.
 
-So that really started to evolve quickly. So all of these kinds of digital pieces here, and I've never really been one to do much abstraction, but I felt like that was the best expression of, of the things that I was feeling because, you know, it doesn't always have a name or a face or a reason. Or even a word. Or even a word. Absolutely. And that, but the feeling is there. So a lot of them, you know, you'll kind of see in the, in the title, what I was thinking. So this one's called sight and memory. And one of my fondest memories of, of the first time I went to college in 2005, back in the day, which is, it's really strange to me that I went to, you know, I went to college for the first time before some of my students were born. I'm still coming to that terms with that. But one of my favorite memories were the Ginkgo trees.
+## Colin Goldberg [20:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1208s)
 
-Yeah. On campus. So I would always find the Ginkgo leaves and kind of press them in my journal. And I noticed that I just had a Ginkgo brush. So like I, I use that a lot just to kind of signify my own, my own positive memories. So again, it just kind of started to evolve. I started to play with filters and abstraction more. This was, this was a piece where I really turned a corner. This is probably one of my favorites of the abstracts. Thinking about like summoning something within yourself. And I think that's, I think that's a really good way to kind of, you know, like a phoenix or something that signifies strength and overcoming.
+Do you have any of those that you could show us really quickly, like, on your site, or…
 
-More skele-bots, of course. I got one for Valentine's day. And they're just like, I don't understand what we're supposed to do. There are bees there. Anywho. So again, more, more exploring abstraction and abstract feelings and all that good stuff. And then this is a piece where I'm like, oh, this piece, I said, we're going to come back to it. So this is one of my largest screen prints that I've done with a monotype background. And this one's called evolution of God. So kind of going back to that, who's God to whom.
+## Carla Gannis [20:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1213s)
 
-So, you know, in, in Islam, of course you have that kind of abstract concept of God where, you know, you never see the face. So I kind of included sort of abstract Islamic, patterning in the back and then kind of the ones that we regularly think about for the most part, when we think about our gods and then thinking about humans and DNA and androids. And so that's kind of where, where that one ended up going. But yeah, which brings us to kind of now and more of the abstract stuff. And again, I love retro TVs and TVs in general. So I kind of, I put out like a sticker series. And if you want to let me know, I will send you some, because I order every time there's a sticker mule special. So I have a lot.
+It'd be interesting to…
 
-## Unattributed [53:32](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3212s)
+## Colin Goldberg [20:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1215s)
 
-And these
+Pull that up for the viewers.
 
-## Carla Gannis [53:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3213s)
+## Carla Gannis [20:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1216s)
 
-Are probably my two recent pieces, where I'm kind of pushing that digital abstraction a little bit more. I'm very, very happy with this one. This one's called the archivist and I put archivist one because I feel like I'm not done with this concept yet. And I will hopefully be putting out a video of the process soon. So I'm going to put that in the description. But and I recently again, did a big girl artist thing and got myself a drawing tablet.
+Not pulled that up, but I will, so let's see… Give me a moment, because I wish my… Site was better, organized than it is. So, let's see… Where do I have it? This was the one thing I did not pull up early. Oh, here it is. Okay, I'll show you People Rama. And you'll actually… are you in any of these photos? Okay, so let me share. Hold on… Okay… Oops, I need to do that here. So, this is the one that I was talking about right now. So, as you can see, this just shows you… and actually, let me see if I can pull up the Hoogstraten so you get a sense of… The quotation.
 
-## Colin Goldberg [54:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3241s)
+## Colin Goldberg [21:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1268s)
 
-Hey, you joined the club.
+So the physical object, was that 3D printed, or, like, the… it's very sculptural. Walls to the box? Yeah. Gotcha.
 
-## Carla Gannis [54:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3243s)
+## Carla Gannis [21:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1276s)
 
-I'm like, I'm always like one generation behind or a couple generations behind the video game consoles. And it's like that for the rest of my life to a little tiny bit behind.
+So this is the original. And just like.
 
-## Colin Goldberg [54:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3254s)
+## Colin Goldberg [21:19](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1279s)
 
-Hey, but at least at least you get the experience though.
+You have…
 
-## Carla Gannis [54:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3257s)
+## Carla Gannis [21:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1280s)
 
-Yes. Better late than never, I suppose. So this is kind of where I'm at now. I'm doing a show down here soon. And of course, collaborating for the Techspressionism show. But that's kind of in a in another large nutshell, as we have many large nutshells around that kind of the journey, the main journey of, you know, me being here now, I guess.
+You know how, when you're working with 3D, and you have texture maps, right? I mean, there you see kind of the texture map of the Hoogstratten. And so, here are some images, actually. I don't think they're very…. So we'll see again. Yeah, so this was CNC milled, and… which is a subtractive process instead of an additive process, like 3D printing, and then it is adhesive vinyl that's placed in the inside, and as you can see there, like, it is all kind of,.
 
-## Colin Goldberg [54:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3286s)
+Doesn't really make sense. It's like chaos, but then when you look through the peephole is when it resolves as a perspectival image. And then these are just some images of people peeping into it. And then that side is exposed, but let me see if I can go…
 
-Well, that's that was a, I think you actually probably covered almost the entire entirety of your, your artistic life up to this point, or at least a good chunk of it from.
+## Colin Goldberg [22:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1338s)
 
-## Carla Gannis [55:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3301s)
+Yeah, I remember you had sort of a VR component where you were showing me how you navigate through this space.
 
-That's the most interesting stuff, at least. Yeah.
+## Carla Gannis [22:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1345s)
 
-## Colin Goldberg [55:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3305s)
+So this is the… so this was… That's showing the physical object, and then this was the VR, Vimeo. I have all of these things because I organize my site, you know, an NFT project, but so almost every project I make, or every major project I work on, generally has multiple components, or modules. And, so if we go on Vimeo, let me see if I can find it… so it was for Casey Reyes' ferrell file the first time I showed it as a… yeah. There we go So it began completely as a virtual object.
 
-Which brings me into another part of the present your your affiliation with the Techspressionism movement now that we are both big parts of.
+Or that might be the… oh, and then I created a video about experience. So that's it as a virtual object.
 
-## Carla Gannis [55:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3316s)
+## Colin Goldberg [23:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1397s)
+
+Gotcha.
+
+## Carla Gannis [23:19](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1399s)
+
+And… These are just showing you the interiors.
+
+So again, layers upon layers. So I… with the Wonder Camera project, with Peep-O-Rama, with one of my earliest projects in 1998 through, like, 2005, Sister Gemini. I will explore an idea, or concept, or narrative, or… Some kind of combination of those things through multiple media channels.
+
+## Colin Goldberg [23:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1429s)
+
+Some of…
+
+## Carla Gannis [23:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1429s)
+
+I'm involved drawing. Drawing remains really important to my process. Sometimes it's augmented reality or virtual reality. Back in the days of Sister Jim and I, it wasn't virtual reality, it was Flash. I was working a lot with flash.
+
+## Colin Goldberg [24:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1443s)
+
+Right.
+
+## Carla Gannis [24:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1444s)
+
+An interactive narrative, comic books, installation, physical forms, and I like the idea of all of these things in dialogue with each other, and multiple ways that different audiences can kind of enter the work. Because there's so many different mediums and media through which we can express ourselves today, and I like the idea of, kind of. Letting it travel across these different platforms, and a new expressive mode emerges from that core concept, you know? And one person who is more familiar with drawing as a language is able to kind of see the work through that lens, but another person who Is… You know, a fan of, or really involved with immersive experiences can enter it, you know, through that.
+
+You know?
+
+## Colin Goldberg [24:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1497s)
+
+Another thing that you sort of have in common with Duchamp, now that I'm thinking about it, is you see in that show, like, just how he traveled from traditional painting through all sorts of different stuff, you know? I mean, and it was… I think that's something that, you know, I think is really remarkable about Duchamp, and that it's… Really cool to see how you're working in that way as well, like, just… Not being bound to one media. I feel like I've been making wall art for so long that, I want to, you know, branch out and try some things, so that's very inspiring.
+
+## Carla Gannis [25:34](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1534s)
+
+Well, since you're mentioning Duchamp, I will show you my responses to Duchamp's show. I… forgive me, but I'm just going to share an Instagram post here. Absolutely. It feels like the day I went to the dump show. Yeah. So, because I think… I really appreciate your seeing, you know, that there is some connection. So this is a drawing I made for my selfie drawings project. In 2015, so I worked on this series of what I called selfie drawings, where it was collapsing that distance between selfie culture and the history, art historical, you know.
+
+Act of creating a self-portrait, and so I would take a photo of myself, and then draw it and share it every week, because it begs the question, is it a selfie if you're not sharing it on multiple you know, social media channels, but each one was not just, like, me and, you know, some kind of Pose, you know, about what my face looks like, or that kind of self-portrait. It was more my meditation with art history and culture and society through these selfie drawings I was making. And so to shop is very important to me. And here, though, you see that I'm being playful. So I'm playing chess, which I love chess. I was on the chess team when I was in high school. Not a great chess player, I like to shop, though. That's my caveat.
+
+But here, I'm playing… chess against Duchamp, or the ghost of Duchamp on my iPad, with Nail polish bottles. So, playing on gender, the famous photo of him playing chess with, I should remember her name, but with… I don't, but a nude female. And then, this is the show where I'm just, like, amazing. I love the show. And, particularly, you know, Bride Strip Bear by, Her Bachelor, even. This is, a book I published with a poet. Oh, it's not showing up on Instagram the same way. But, with a drawing I'd made With, kind of.
+
+Yeah, it doesn't show up here like it should, but anyway, with a drawing I made in homage to that. This is a piece I called Nude Descending a Staircase. Now, obviously, I'm not trying to, like I did with the Bosch. Mash it up or remix it in such a way that you can still recognize the piece I'm referencing, but the title.
+
+## Colin Goldberg [28:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1683s)
+
+Right.
+
+## Carla Gannis [28:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1683s)
 
 Yes.
 
-## Colin Goldberg [55:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3317s)
+## Colin Goldberg [28:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1684s)
 
-So you want to talk a little bit about how you how you came into contact with the movement and, you know, what's your background? What's your background? What's your background? What's your work? What about it kind of reeled you in?
+Conceptually, yeah.
 
-## Carla Gannis [55:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3325s)
+## Carla Gannis [28:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1685s)
 
-Oh, absolutely. And I actually talk about it on quite a regular basis. Every time I see my coworkers, I'm like, guess what we're doing? Guess what we're doing? So I got an artist call through the cafe site. And, you know, I looked at the artist calls every so often, but with no, not necessarily with any kind of seriousness, just like, okay, sure, you know, because a lot of them are in other states and stuff. But I'm like, yeah, I'm going to do this. And I'm like, okay, sure. I'm like, I'm just here. I'm like, I'm not like, I'm not in aユ I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it.
+Yeah, conceptually, the repetition of forms, this new descending a staircase, it's myself this time, but kind of as a cyborg entity, and emerging from some kind of structure into a world that may suggest environmental collapse, or darker, you know, undertones.
 
-I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. I can do it. That was just kind of a weirdo in a corner making weird art. So I read the artist call and looked on the website and I'm like, this is it. This is this I'm home.
+## Colin Goldberg [28:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1704s)
 
-This is these are my people. This is exactly the kind of thing that I want to explore and talk about. So I entered the artist call and the rest is a little bit of a blur, but I can't remember who contacted me. It was probably Colin.
+I always liked your, your Gann… your play on Gannis, and then Gann with the.
 
-## Carla Gannis [56:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3406s)
+## Carla Gannis [28:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1710s)
 
-It's probably Colin.
+Yeah, you know…
 
-## Carla Gannis [56:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3408s)
+## Colin Goldberg [28:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1711s)
 
-I'd have to go back into my emails and look, but I remember there being some contact and then I'm on the, then I'm on the site and being invited to salons. And I'm like, and watching it grow has been really, really interesting. And unfortunately two o'clock on a Tuesday is always a really popular meeting time for other things that I have to do. So I don't make every salon, but that first one, I was like a kid in a candy store, like just looking, like listening to everyone and going, Oh my God, other people. I'm like, I'm not a stand-in. I'm not a stand-in. I'm not a stand-in. I'm not a people think like me too that's really cool I'm not a weirdo um but I just been really impressed by the movement and um the fact that we're kind of you know you you go in your history book and you read about abstract impression expressionism you're like oh that's cool um but here we are actually living in an art movement and I can't I can't express how like exciting that is to me just to and you know even if I was not part of the movement to watch it would be a privilege as well um and a pleasure because it's like you know we're watching history unfold in so many different ways and uh I remember my boss told me he's like so you might be in a history book one day and I'm like maybe
+Like, I think, yeah, I always thought that, that body of work in particular, like, you had this sort of alternate self, and it, like, even had its own, I don't know if it's she, I guess she, I don't know what, like, own, social media account at some point, or I don't know if there still is.
 
-## Unattributed [58:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3481s)
+## Carla Gannis [28:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1729s)
 
-I don't know that would be so cool um so
+Yeah, and you know, she, Carla Gannis, cross-platform Avatar for Recursive Life Action Generative Adversarial Network, emerged out of this selfie drawing project I'm sharing right now.
 
-## Carla Gannis [58:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3485s)
+## Colin Goldberg [28:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1739s)
 
-Uh and you know I kind of feel the same way about all of you guys I'm like that'd
+Okay.
 
-## Unattributed [58:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3489s)
+## Carla Gannis [28:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1739s)
 
-Be so cool to be like dude I know that guy the guy in the history book I know that guy and
+And so I did my own box in a Belize in 2017. It was after a major election in the United States, and I had a show in Berlin, and I was like. I don't know if I'm gonna come back to the United States. I did. But I put all my selfie drawings, which were all, you know, augmented reality pieces by this point, and video pieces, I printed out the different augments and constructed my own box and a release. So, this is just showing, you know.
 
-## Carla Gannis [58:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3493s)
+## Colin Goldberg [29:27](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1767s)
 
-They're gonna oh grandma you're just nuts I'm like no I know that um so
+Own.
 
-## Colin Goldberg [58:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3498s)
+## Carla Gannis [29:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1768s)
 
-Uh I was there I I met Colin yeah and
+And then that's the early peat box I made in 2002. It was called, Being Give on a Lost Flow Train. And, so I took apart a music box figure, and then the… the… Winding mechanism used in a music box, or, you know, like, that a little girl may have, you know, or a small child, or a jewelry box. Actually, I think it was a jewelry box, and I replaced the figure with this figure that's on a highway, so there's some David Lynch in there, but particularly Duchamp as well, so that's one of the early so, yeah. Wow.
 
-## Carla Gannis [58:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3503s)
+## Colin Goldberg [30:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1805s)
 
-They're gonna go yeah grandma okay which my daughter already looks at me like that so I'm pretty sure I'm um but it's it's just an amazing movement and and an amazing thing to be a part of and you know in the in the time that we're at where technology is so integral to life um and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and so it came about this perfect timing what
+I didn't realize you had such a direct influence,
 
-## Colin Goldberg [58:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3526s)
+## Carla Gannis [30:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1808s)
 
-What we're doing right now is kind of a perfect illustration of that like recording audio with my phone the videos being recorded with my computer we're communicating over the internet like right we we haven't actually met each other in person before like the majority of the people in this movement have not actually met the people in the movement like in person there's a couple of people that might have worked together in the past but you know for the vast majority of us this this is this is how we've connected yeah in a completely digital virtual way yeah
+Yeah, yeah, yeah. Definitely. And then, though, to your point about Carla Gannis. Here, my maximalism, goes to the max. Oh shoot, I'm not used to using, Can I find her? Here… let's see… Other status… I'll stop sharing and pull up.
 
-## Carla Gannis [59:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3561s)
+## Colin Goldberg [30:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1833s)
 
-That's that's crazy it is for people like me that are huggers I'm like I just want to hug you all but you're short um but yeah that that's it's been and it's funny like you know how we've all kind of met each other online but like like nobody I don't know I could I guess I can only speak for myself here but um nobody really feels like a stranger you know like when we meet people I'm just like hey friend you know we have a guest by the way apparently oh I thought that was Allison it was like no
+Oh, I think there's a… there's a search… Bang on the desktop version.
 
-## Colin Goldberg [01:00:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3601s)
+## Carla Gannis [30:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1836s)
 
-No it is but we also have a guest now uh we I ordered lunch uh not too long ago and uh apparently Allison has befriended the delivery person like I
+Yeah, it's right there, it's right there. I still don't use Instagram on, desktop, usually.
 
-## Carla Gannis [01:00:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3612s)
+## Colin Goldberg [30:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1843s)
 
-Said we're you know we might be far away but I'm just like these are people that I would like I would just show up and be like hey I brought you know I brought some some lunch just you know let's play a video game yeah that's been I'd
+We do not.
 
-## Colin Goldberg [01:00:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3623s)
+## Carla Gannis [30:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1843s)
 
-Be down for that actually you know the next time I'm in Georgia I might be paying you a visit oh
+Share again. So, this is Carla Gannis, cross-platform Avatar for Recursive Life Action. We don't do as much together these days, although we had a…
 
-## Carla Gannis [01:00:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3628s)
+## Colin Goldberg [30:54](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1854s)
 
-My god please do if you're ever like crossing through Augusta you know I'd be happy to show you uh around the school and um if you happen to be here during the time that students might be here if you want to be an artist talk um that would be like super cool so if you're ever um if you're ever down here just please let me know that'd be awesome I
+Can you explain really quickly what a GAN is for laypeople that might be watching this?
 
-## Colin Goldberg [01:00:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3648s)
+## Carla Gannis [30:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1859s)
 
-Will definitely do that um because I mean I actually spent um a good chunk of my youth in in Georgia like in the north like northeast metro Atlanta area oh wow yeah so I mean I still have plenty of friends there like I have friends I made 20 years ago that I'm still in regular contact with like they're in different parts of the country now like one's in North Dakota and one's in like I think he actually went from Virginia to Georgia to Florida now he's back in Virginia so but these are people that like I made lifelong connections in Georgia so as much as I talked about leaving Georgia like since we arrived when I was like six so I was like I want to go back to Virginia I am back here but there's
+Yeah, yeah, yeah. A generative adversarial network, so this is, early, or early-ish. I mean, AI has been around since the 40s and 50s, but, in the mid to late… I mean, the 2010s through… gosh, up till, like, 2019, 2020, we were using these adversarial networks. So you have these competing algorithms that, unlike the diffusion models that are, like, kind of generating images Now completely out of noise, they were taking your references and basically combating with each other until they resolved from the inputs they were getting some kind of crude image. I mean, if we look at these early generative models.
 
-## Carla Gannis [01:01:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3698s)
+They look like Francis Bacon paintings. You know? And so, given my name is Gannis, I just played on that and came up with this alter ego, Carla Gannis. And… I have worked with avatars, I… I… Created my first avatar in an art context in 1998. I wrote out a story for her first. Her name was Sister Gemini. And then, in the days of Second Life, which was an online Virtual platform.
 
-A lot there's a lot of meaning for me in Georgia too nice yep it's it's uh you know I never really thought of Augusta you know much I actually um grew up in kind of an adjacent town but uh the more time that I spend you know especially downtown um working here now I've been working here for the past um three four years uh just really really falling in love with the art scene here it's it's incredible um and it's really it's really coming along and we have some amazing artists here you know you can walk down any street and find a mural or a sculpture um so I mean if if anyone has never been to Augusta and wants a reason like downtown art scene is the reason it's fabulous likewise
+## Colin Goldberg [32:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1936s)
 
-## Colin Goldberg [01:02:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3743s)
+18.
 
-Richmond Virginia is has a great art scene that I would love to be able to be more of a part of but COVID happened right like six six months after we moved into the city or like on the edge of the city that that's
+## Carla Gannis [32:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1937s)
 
-## Unattributed [01:02:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3758s)
+Use goggles, you just used a browser to go into that space and build environments and communities. There was even a currency, so Jezebel Lanely was my avatar then. Since then, I've had multiple other Kind of identities through which I, like many of us, express or Contemplate the differences, but from the differences between our physical reality existence and our existence online, and our performances online, and so that's a lot of times why I developed these avatars, to explore those themes. And Carla Gannis emerged this is just showing… we have done 3 solo shows together, and I will pause it here for any listener who wonders if I'm a little cuckoo. She does not exist. This is a construction of fictional alter ego. She, in terms of her backstory, she is an artificial intelligence, just like my first avatar from 1998. Sister Gemini was half AI, half human.
 
-That's
+You see early training. This is working with Gann's model, so that kind of technology that I briefly described. Sorry, I didn't give a really great engineering description of it, but, this just gives you a sense of the kind of visuals you were getting at the time, and my different training sets. Gotcha.
 
-## Colin Goldberg [01:02:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3758s)
+## Colin Goldberg [33:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2021s)
 
-What happened and we're still here and we're still here and we're still here and we're still here so I'm like I want to actually be in the galleries but I can't be in the galleries because COVID right well but soon soon I got the vaccine shot number one down so good job yeah
+So GAN is Generative Adversarial.
 
-## Carla Gannis [01:02:54](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3774s)
+## Carla Gannis [33:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2023s)
 
-Very soon but
+Aerial network.
 
-## Colin Goldberg [01:02:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3777s)
+## Colin Goldberg [33:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2024s)
 
-Uh back back to the art stuff though I'm not sure how much more time you have but um um
+Yeah.
 
-## Carla Gannis [01:03:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3783s)
+## Carla Gannis [33:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2025s)
 
-I don't even know what time it is I could I could probably squeeze out about 15 more minutes
+Yeah, and now we're using, for, like, ChatGPT, NanoBanana, all of those are diffusion models, and diffusion models Have a totally different technology that they're using, which is, though, the diffusion is coming from, you know, all of this noise that it resolves over a very quick amount of time. And you don't need those big data sets anymore. It used to be… when I was working with this, I was using Playform, and they were one of an early model where you, as a layperson or, you know, a digital artist who wasn't kind of building the technologies yourself, where you could use a dataset that was only 30 images, which was really remarkable at the time, because before that, it required hundreds and hundreds and hundreds of images to train.
 
-## Unattributed [01:03:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3789s)
+You know, days if not weeks, and when I started using Playform, it only took a few hours. But now we're at a point only a few years later where you're generating images in a matter of minutes, if not seconds at times.
 
-Before I get hangry.
+## Colin Goldberg [34:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2082s)
 
-## Colin Goldberg [01:03:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3791s)
+Right, yeah.
 
-Well, I mean, my lunch just walked through the door not too long ago. So I get you. I get you. Do you want to talk a little bit about, you know, what the future looks like for you and your art? Like, what do you see yourself being in the next year, next five years, as far as your art is concerned?
+## Carla Gannis [34:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2083s)
 
-## Carla Gannis [01:03:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3815s)
+Prompt engineering. So, because they're large language models, you know, I'm happy now that I can feed images in again, because I feed in my own images.
 
-Oh, that's a really good question. So I'm going to just throw some stuff out there. My peers will go back and check it. But I absolutely love being a teacher. I don't teach younger students as much anymore, and especially with COVID. But I definitely want to continue teaching in some way. I know I'm still going to be here. I know I've already, like, name-dropped Jesse Norman School like a million times, but this really is a second home to me. So, you know, I'm definitely going to be here probably. Still being the performing arts director in five years, for sure. As far as personally, with, you know, my personal art brand, I don't know. I hope that, you know, to maybe get some more visibility and make it, you know, not just a very, very serious side hustle, but something that, you know, I could, I don't know.
+## Colin Goldberg [34:53](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2093s)
 
-Like, I always feel bad about saying things like, I just want to sell art and make money. But, yeah. Because if I had money, I would just give my art away. You know, but we all got to eat. So I definitely, you know, would like to see it, you know, more business-y and selling more prints and things, of course. And I'm hoping to do some more gallery shows. That was my big goal for this year, was to do another gallery show that was not affiliated with school or with anything else.
+I can't.
 
-So that's actually coming up in August. So I'm hoping. To continue to do art shows and, you know, maybe put out a book, have a book signing. Whatever happens, you know, I'm a very kind of go-with-the-flow person. So I'm hoping that everything just flows good.
+## Carla Gannis [34:54](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2094s)
 
-## Unattributed [01:05:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3928s)
+Prefer that still to just prompt engineering, but yeah, it's remarkable, how far it all has progressed and accelerated in just a few years.
+
+## Colin Goldberg [35:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2105s)
+
+Absolutely.
+
+## Carla Gannis [35:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2106s)
+
+Anyway, this is… Carla Gannis still exists. We're not working on many collaborations these days, but she still, she, she posts Every so often, particularly about, AI technologies and robotics, and so she still exists as this alter ego. She is me as a fictional identity.
+
+## Colin Goldberg [35:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2128s)
+
+Gotcha. Have you ever set her up as, like, an agent so she could just go do stuff on her own without you…
+
+## Carla Gannis [35:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2133s)
+
+I, you know, and I think that's the next step. I… with all of these different avatars, I have 7 avatars for the Wonder Camera series, or project. And each of them have remained fictionalized at this point, where I have worked with ChatGPT to create scripts for them. I mean, I was working with ChatGPT for that in, like, 2022, 2023, so that was a very early model of ChatGPT. And I created all these scripts for the avatars, but so far, I have not set them up as agents.
+
+And Agentic AI I know, and I'm sure you're probably working with agents, I'm still, like.
+
+## Colin Goldberg [36:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2171s)
+
+A little, a little bit, I mean…
+
+## Carla Gannis [36:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2172s)
+
+God.
+
+## Colin Goldberg [36:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2173s)
+
+Kind of dipping my toe in, or sort of, like, almost like, more like a collaboration than actually, you know…
+
+## Carla Gannis [36:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2180s)
+
+I'm easy about some of the Agentic stuff, and how.
+
+## Colin Goldberg [36:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2183s)
+
+Which I.
+
+## Carla Gannis [36:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2184s)
+
+Wanted to… maybe I'm a control freak, but how much I wanted to kind of run in the background and manage my things.
+
+## Colin Goldberg [36:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2191s)
+
+Right. I actually tried it for the first time. I have a spare laptop that I used to print off of, so this weekend. You know, I gave Claude some direction. I've been indexing all the Techspressionism videos, and had to just sort of parse them all, and running, like, this routine called Whisper, and it was just going, like, all weekend by itself, and it would check in with me over the phone, and it's just pretty… It's pretty wild, you know? It's like having a studio assistant.
+
+## Carla Gannis [37:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2220s)
+
+No, I know, and it's so expeditious, too. I mean, just the speed in which it can do these things, and kind of organize your life, and all of that, before we got on the line today, I was listening to a podcast with several different computer scientists and engineers debating The recent revelations about there's a 10% chance that AI could destroy humanity.
+
+## Colin Goldberg [37:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2244s)
+
+Have you watched that documentary, the AI doc? Which one? Oh, there's one that just came out on Netflix recently called The AI Doc, and they actually had, like, Sam Altman on, you know, talking about it, but it was… and I think there's a subtitle, like, the… How I Became an Apocalyptimist. So, like, the first group was, like, all people were like, oh, it's the end of the world, and the other group was like, there's gonna be, you know, infinite, Not prosperity, what do they call it? I don't know, like, there's some language that, you know, the tech… the tech bros, Yeah, so it's like these two, you know, ideas of where it could go, where it is… it is a little frightening. I mean, you know, definitely, I know Gemini escaped for the first time a couple days ago, like, Google's model actually Broke out and, like, hacked a couple companies, you know, autonomously, which is…
+
+## Carla Gannis [38:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2301s)
+
+Yeah, the Hugging Face before that, the Hugging Face incident before that with ChatGBT, yeah, I… and so it's unnerving, but… you know. Based on our prior conversation, where we were like, oh, but we're using these tools, and they, you know, they're like studio assistants. And so, you know, there were these computer scientists and engineers on the podcast I was listening to haggling with each other over the benefits, you know, the cost-benefit analysis, or I don't even know business speed, but you know what I'm talking about, or those.
+
+## Colin Goldberg [38:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2330s)
+
+Right.
+
+## Carla Gannis [38:51](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2331s)
+
+Boy, the return on investment, well, if it's gonna destroy all of humanity, you know, and the competition with China right now, where it's like. One politician recently said, well, I'd rather have a Chinese… I mean, I'd rather have an American AI taking over the world than a Chinese, and I'm like, do you know how absurd you sound?
+
+## Colin Goldberg [39:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2352s)
+
+We're sitting…
+
+## Carla Gannis [39:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2353s)
+
+You're saying you want to maintain the competition with this other country because you'd rather we destroy the world than somebody else, basically.
+
+## Colin Goldberg [39:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2360s)
+
+Right, I heard it, like, Chris Hayes has a great podcast where they've been doing these, AI conversations, and he… a guest was saying, like, you know, who really wants to be in a race off a cliff? You know, and I thought that was, like, a really… you know, pretty solid way of looking at it, at least in the, you know, the current direction we're heading in. It's, Yeah.
+
+## Carla Gannis [39:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2384s)
+
+But LLMs are not super intelligent. I mean.
+
+## Colin Goldberg [39:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2386s)
+
+Right.
+
+## Carla Gannis [39:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2387s)
+
+They're talking about, and then the small frameworks that we're working with, the, you know, front-end commercial apps, are something totally different, because.
+
+## Colin Goldberg [39:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2396s)
+
+Sure.
+
+## Carla Gannis [39:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2397s)
+
+Huge umbrella.
+
+## Colin Goldberg [39:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2399s)
+
+Yep.
+
+## Carla Gannis [39:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2399s)
+
+Technologies. And so, right now, all, you know, it's just AI is either… it's all bad or it's all good, you know, it's very polarized, and I just feel like there can be so many more nuanced conversations, which.
+
+## Colin Goldberg [40:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2411s)
+
+Sure, absolutely. Yet.
+
+## Carla Gannis [40:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2413s)
+
+Yeah, yeah. So… Oh, do you want me to show you some more stuff?
+
+## Colin Goldberg [40:19](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2419s)
+
+Yeah, show me some more stuff. You know, I have this sort of, like, outline of how an interview's supposed to go, but usually, like, it just kind of is freeform, so feel free to, you know, share what you… maybe, oh, you know what I'd like to see or learn more about, actually, is this, like, marble carving thing you were doing recently. Like, that is super cool. Can you tell us a little bit about that, and show some of this work?
+
+## Carla Gannis [40:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2442s)
+
+Yeah, I have a few images here, but, you know, I will return… it's really funny, I should be directing People to my website, but I have more on my social media, for better or worse, than I.
+
+## Colin Goldberg [40:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2456s)
+
+My website's.
+
+## Carla Gannis [40:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2457s)
+
+I probably will pull up some things from there, too, because I have the final sculptures here. Let me just pull these up. And then I'll talk about it. So… this past summer, I participated in something called the Digital Stone Project in Gramolazzo, Italy. And I had been to openings that they'd had in the past on trips to Italy, so I was already quite familiar with the project and the nonprofit organization that is behind this. And they've been doing this, I don't know, for over a decade, I believe.
+
+Yeah, definitely over a decade, because the first opening I went to was in 2015, in… I think it was Florenze, in Florence. And so… and, oh, this is just a funny… Other, you know, thing. One of the people on the board is one of my professors from undergraduate in North Carolina.
+
+## Colin Goldberg [41:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2517s)
+
+Okay.
+
+## Carla Gannis [41:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2518s)
+
+I hadn't seen her in years, and then I start learning about this digital stone project, and I'm like, oh, Pat Wasserbower is part of this, and she was one of my.
+
+## Colin Goldberg [42:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2525s)
 
 Nice.
 
-## Colin Goldberg [01:05:32](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3932s)
+## Carla Gannis [42:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2526s)
 
-Actually, hold on. I think we can close out the screen share for a bit. Oh, yeah.
+I took anatomy for the artist with her. She was a tough professor, and I took sculpture. And that's the last time I'd taken a sculpture classes with her in the early 90s. And, so, back to the present. I, Got accepted for this residency. There were about 20 of us, so it was a huge crew. There was, Aria Harvey, myself, in terms of some artists who maybe you know, this community is familiar with. Lars Bland, Ashley Zielinski, a whole crew of new artists that I met from, you know, around the world.
 
-## Unattributed [01:05:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3936s)
+And, and so we were working with a robot that was doing the initial carve, the initial milling of the piece. And so, there is a group of engineers. In Granolazzo, which is this tiny village in the mountains of Italy, that works with the Digital Stone Carving Project, and they have these really impressive facilities. And so, prior to our arriving in Italy, we all submitted our digital files. So you model.
 
-For sure.
+## Colin Goldberg [43:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2595s)
 
-## Colin Goldberg [01:05:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3936s)
+Oh, you…
 
-Yeah. Well, yeah. That sounds. Like a. That sounds like a good plan to me.
+## Carla Gannis [43:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2596s)
 
-## Carla Gannis [01:05:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3943s)
+Project in 3D, like using Blender or Maya, I use both. I even used some AI tools when I was first, kind of, prototyping it. And… Then, we get there, and… they have little… we worked outside every day for, like, 8 to 9 hours. We ate breakfast together. It was just such an incredible experience. And within, like, the first week, I worked on two different projects… two different sculptures. They,. They deliver your sculpture, but I was wondering, I was like, well, if the robot does it all, what am I going to do for the next month? It is very… Not… Crudely, but just… it's the first pass that they give to you.
 
-Yeah. Just whatever happens. Yeah.
+And then you spend the rest of the month… they had pneumatic tubes with these different power tools, so you spend the rest of the month carving into it. Finessing it. I actually hand-carved something, because they gave me these big bases, and I'll get to the visuals so people can actually see some stuff. But, I… I'm going to resort to Instagram again, and then I have some final, pictures, but I do, just because this is where everything.
 
-## Colin Goldberg [01:05:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3947s)
+## Colin Goldberg [44:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2673s)
 
-And. I don't know. It's also interesting to try and think about, like, what the movement itself is going to look like potentially five years from now.
+There's no shame in Instagram.
 
-## Carla Gannis [01:05:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3959s)
+## Carla Gannis [44:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2675s)
 
-Yes.
+Yeah, I know, I know. It's just…
 
-## Colin Goldberg [01:05:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3959s)
+## Colin Goldberg [44:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2678s)
 
-Because I know, like, we are moving rapidly.
+Everyone's on there.
 
-## Carla Gannis [01:06:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3964s)
+## Carla Gannis [44:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2679s)
 
-Yes.
+Become more sus, I know, yeah. Here we go, so this is me with the actual robot carving one of my pieces, and here you can see it actually… Doing some of the carving. Hmm. And this takes, generally, my file… Wasn't that complex. This is for one of the taller ones, so I think it was about 36 inches, but that took almost a day of carving.
 
-## Colin Goldberg [01:06:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3965s)
+## Colin Goldberg [45:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2709s)
 
-Just in, like, the past six or seven months. A lot of things have changed and developed from when I first became part of it. Yeah, I see that. So it's just like. In another. Even in another year. I have no idea what things are going to look like. Because we have this. We have the Southampton Gallery.
+So is the block, like, on a turntable that rotates, or…
 
-That's our Southampton Museum. That's going to be opening up in 2022. That's major. And who knows what other. Big stuff is going to happen. Because we're getting. We're getting. We're getting noticed, so to speak.
+## Carla Gannis [45:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2712s)
 
-## Carla Gannis [01:06:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4005s)
+The turntable, and it's constantly… it has water jets. And this is showing it halfway through, like, carving out the block. And in this.
 
-Yeah, that's very. I've noticed just on the discord. Like, you know, it was like occasionally a name would pop up and now it's just like every day. It's just like, oh, look who's joining. I'm like, OK. All right.
+## Colin Goldberg [45:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2723s)
 
-## Colin Goldberg [01:06:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4017s)
+Wow, that's…
 
-So you can thank you, boy, for the discord.
+## Carla Gannis [45:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2724s)
 
-## Carla Gannis [01:07:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4020s)
+The other ones, and then I hand-carved that pillow you see there, so they gave me this block, and I had all this extra material, so I actually learned how to hand carve. And, these are just some of the early photos. Let's see…. So, this is me with… me with the block, that's the one… and… and some of the references, we have.
 
-Yes. I definitely appreciate the discord and everything that you do. For sure. It's been it's been a nice way to kind of because the salons are wonderful. It's kind of nice to have like to continue the conversation. And I've learned a lot. I still have no clue how an NFT works, nor do I really care. Every time I see those conversations, I just kind of like I twitch a little bit and keep going. Maybe I'm just not. And I told you I'm always a little bit behind. Like in five years, I'm going to be like, well, NFT.
+## Colin Goldberg [45:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2749s)
 
-But I like I like seeing. You know, other people introduce their work and and, you know, group critique and, you know, the enthusiasm and people kind of going, oh, well, hey, have you ever thought about this? I'm watching those kind of conversations develop. I think there's a conversation on there right now that I'm really I've been following about, you know, glitches and using glitches and and digital work. So it's just an even it's just a continuance of this, this, you know, of these conversations and being able to learn from other people. And I think that's just one of the things that I've learned and I think that's just one of the things that I've learned. It's just it's wonderful. This is the coolest thing ever. It is. It is so great.
+Wow, can you go back to that previous one for a sec? Oh, wow, so that…
 
-## Colin Goldberg [01:08:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4094s)
+## Carla Gannis [45:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2756s)
 
-It is amazing. I am so, so, so glad and thankful that Colin found me and glad that I decided to put myself back out there in that way to be able to find this because he's the one that found me after I started putting my abstract digital work on Instagram. Yeah.
+This is just an art historical reference.
 
-## Unattributed [01:08:34](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4114s)
+## Colin Goldberg [45:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2758s)
 
-And yeah.
+Oh, okay. I was like, whoa.
 
-## Carla Gannis [01:08:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4116s)
+## Carla Gannis [46:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2760s)
 
-Yeah. Right. Colin is such a cool guy. Yes. And so and so it's just everybody that we've kind of met so far. I'm like, dude, I like I'm just gonna start calling everyone aunt and uncle.
+To say, this is a… this is an Italian artist from the High Renaissance, so this is my work, and this shows you the early days of trying to learn how to hand-carve a.
 
-## Unattributed [01:08:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4129s)
+## Colin Goldberg [46:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2769s)
 
-The vibes are good.
+I see.
 
-## Carla Gannis [01:08:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4132s)
+## Carla Gannis [46:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2770s)
 
-Vibes for sure. Very important. Right.
+And then we had all of these great people on site to kind of help us learn carbon.
 
-## Unattributed [01:08:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4136s)
+## Colin Goldberg [46:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2775s)
 
-All right.
+That's amazing.
 
-## Colin Goldberg [01:08:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4137s)
+## Carla Gannis [46:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2776s)
 
-I think we can go ahead and start wrapping wrapping this up. Our interview has gone over a little over an hour. Actually. Yeah.
+And then this shows you my first… this is what I submitted… Wow. …as my 3D model. Oh, okay. And so I had elements that I added to the final project, and I'll show you the final pieces in just a moment, but I… Again. In reference to art history, I made one work titled The Daughter of Woman, based on Magritte's The Son of Man.
 
-## Carla Gannis [01:09:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4148s)
+## Colin Goldberg [46:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2802s)
 
-Yes.
+Truly.
 
-## Colin Goldberg [01:09:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4148s)
+## Carla Gannis [46:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2803s)
 
-So we made it. Woo. I was happy. So you have any parting parting thoughts, party insights before we wrap things up for good.
+Might be familiar with that painting, and there's this blue… I mean, not blue, excuse me, there's this green apple floating in front of.
 
-## Carla Gannis [01:09:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4160s)
+## Colin Goldberg [46:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2809s)
 
-So I had to. So the reason I kind of slowed down for a second is because I always like have something funny
+Sure.
 
-## Unattributed [01:09:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4166s)
+## Carla Gannis [46:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2810s)
 
-Today and I'm trying to be a serious grown up artist here.
+Ganne's face with the bowler hat.
 
-## Carla Gannis [01:09:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4170s)
+## Colin Goldberg [46:51](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2811s)
 
-Don't worry about that. And also I couldn't come up with anything funny. But no, just thank you so much. Thank you so much for for having me. And thank you. Thank you.
+Hell yeah.
 
-## Carla Gannis [01:09:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4182s)
+## Carla Gannis [46:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2812s)
 
-Thank you. And everybody else, of course, for having me as part of this movement,
+And I actually already had a volumetric scan of myself wearing a, you know, a tie, a man's tie with a suit. And so I was like, oh, I'm gonna turn this into the daughter of a woman. And so then I brought a circuit board, and these are little tiny figures, little 3D printed figures that I attached to the circuit board.
 
-## Carla Gannis [01:09:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4186s)
+## Colin Goldberg [47:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2831s)
 
-Because, you know, I, you know, I feel at home here and just I don't know, I'm just I have nothing but very, very large amounts of gratitude towards all of you, of course, for the movement and everything else.
+Hmm.
 
-## Carla Gannis [01:10:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4203s)
+## Carla Gannis [47:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2832s)
 
-So thank you. That's all I got.
+And then this one, that figure there, I should show you the actual final pieces, but that figure there is something that's 3D printed as well. And then here we are. We had an exhibition at a, museum, In a castle, which was just…
 
-## Carla Gannis [01:10:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4205s)
+## Colin Goldberg [47:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2851s)
 
-Thank you. Thank you.
+Wow.
 
-## Colin Goldberg [01:10:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4207s)
+## Carla Gannis [47:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2851s)
 
-Thank you. Thank you for your time. And thank you for being a part of the movement and helping us grow.
+Fantastic, amazing. And so those are my two final pieces. Oh, this is just all the sponsors and all the different people who participated. So you see there, I took rocks and soil from Gromalazzo, and so this second piece is called Scrape. And, people are having fun with it.
 
-## Colin Goldberg [01:10:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4213s)
+## Colin Goldberg [47:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2870s)
 
-Same. All right, Carmen. Well, it's been nice. It's been a pleasure talking to you. Again, thank you for your time.
+Heh.
 
-## Carla Gannis [01:10:22](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4222s)
+## Carla Gannis [47:51](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2871s)
 
-Oh, no problem. We'll we'll talk about video games and stuff later.
+The second piece is called Scrape. And here, you can see it a little bigger, the final. So this is a 3D printed element, the little robot with the big hand, and it's, you know, talking about… at least I perceive it this way. People always project onto visual pieces, and that's something that's wonderful about it. You can kind of.
 
-## Unattributed [01:10:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4225s)
+## Colin Goldberg [48:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2894s)
 
-Yeah. I'm a huge video gamer.
+Interpreter.
 
-## Carla Gannis [01:10:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4228s)
+## Carla Gannis [48:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2895s)
 
-I can't help it.
+Different ways. But about, kind of, the extraction, and it scraping a human face through the skull, you know, and the kind of extraction.
 
-## Colin Goldberg [01:10:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4229s)
+## Colin Goldberg [48:22](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2902s)
 
-It's like it happens. For sure.
+Action.
 
-## Colin Goldberg [01:10:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4233s)
+## Carla Gannis [48:23](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2903s)
 
-All right. I am
+Is going on with these AI systems, but also their assistance. So we could read that as both it's assisting, but it does kind of have talents, and it is extracting at the same time. And then the other final piece, I'll pull that over, the daughter of woman. And so then, you know, there are references in using that Chipboard with these tiny little female figures. In early computing, it was the women who had tended to have smaller hands who were actually building chipboards. And actually, the women were called computers.
 
-## Colin Goldberg [01:10:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4235s)
+## Colin Goldberg [48:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2938s)
 
-Going to stop recording in three, two, one. So a lot of you have been very good.
+That's right, I remember reading about that. That's just so wild.
+
+## Carla Gannis [49:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2942s)
+
+So, there are all sorts of other frameworks and illusions, but then the process itself… so back to my hand-carved pillow. So, you know. Carving the… the… Top part, the head, you know, the head and hair, and on the other one, the head and torso. So, yeah.
+
+## Colin Goldberg [49:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2964s)
+
+And coming out of the face, is that, like, a robot hand? Like,
+
+## Carla Gannis [49:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2969s)
+
+Yeah, yeah 3D print, so I brought.
+
+## Colin Goldberg [49:32](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2972s)
+
+Okay.
+
+## Carla Gannis [49:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2973s)
+
+3D print that I brought with me, and then the other with… where the, a material that is marble-like.
+
+## Colin Goldberg [49:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2980s)
+
+Like, at first, I thought of… it made me think of, like, a… like a, skeletal hand, like, coming up out of the ground.
+
+## Carla Gannis [49:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2988s)
+
+Yeah, it has 6 fingers, too, so another reference to, you know.
+
+## Colin Goldberg [49:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2992s)
+
+AI, right.
+
+## Carla Gannis [49:54](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2994s)
+
+And generating six fingers. But then that pillow you see there, all of that is carved with… it was just a big chunk of marble, and I just kept studying cloth form, and it definitely is.
+
+## Colin Goldberg [50:07](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3007s)
+
+Still beer.
+
+## Carla Gannis [50:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3008s)
+
+Crude, but it became important to me, like in many of my works, like in 2011, I ran a race against my avatar, Jezebel Lanely. I found a highway for her to run down in Second Life. And I ran down an actual highway in my parents' town. They now live in a town of 3,000, and it was on Christmas Day, so I wasn't in that much jeopardy. But just kind of comparing and contrasting our digital egos and identities and increasingly algorithmic identities compared to our physical and the different and so I've been kind of pitting myself against machines for quite some time, or just kind of comparing and contrasting, you know? And in this one, even spending time to learn how to hand sculpt, I don't know if I ever want to do it again.
+
+And hand-carve something at the same time as I had this robotic assistance for, you know, the top part of the sculpture. That was a fascinating experience, and as I was there for a month, that became kind of crucial for me to engage in. Yeah.
+
+## Colin Goldberg [51:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3076s)
+
+Very cool.
+
+## Carla Gannis [51:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3078s)
+
+Hopefully that, that made sense.
+
+## Colin Goldberg [51:20](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3080s)
+
+Yeah, absolutely. So, maybe as, like, an endnote for the work, what… can you tell us what you're working on currently, what you have going on in the studio now, or…
+
+## Carla Gannis [51:30](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3090s)
+
+Dang.
+
+## Colin Goldberg [51:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3091s)
+
+Do you… is it under wraps?
+
+## Carla Gannis [51:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3093s)
+
+No, it's not under wraps. Let's see, let me just organize, organize myself a little bit to pull some, things up.
+
+So… maybe I'll just pull up this one image. I'm such a maximalist, if I pull up more than one, it might, Yeah, convolute things. So, I'll just pull up one. So let me share again. Okay, and I'll just kind of describe the process. So, this is a piece that I'm working on, and it's a series called Interfaces, and the title for this one is Empire, but they're all a series of portraits. That are framed by these rounded rectangles, an allusion to… What most of our experiences are framed by today, the rounded rectangle of our smart device, or… and so I am making physical models in my studio.
+
+I use found material, I have tons of toys, and I take apart computer parts. I want to share more examples, because this one doesn't represent… I have about 6 of these going right now. But I… I create these physical prototypes, really, you know, kind of roughly assembled with hot glue and paint and these kind of I photograph them, I feed them into generative AI systems, I, curate kind of what they generate, I then bring them into Photoshop or Blender and these places.
+
+At these places, these programs, these places that are programs, and I work in them, and then I generate that prototype you're seeing there, that image. And that is then a process where no actual program, or even my own hand, is, you know, the complete author of it. It's gone through this.
+
+## Colin Goldberg [53:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3216s)
+
+Right.
+
+## Carla Gannis [53:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3217s)
+
+A physical thing, through photography, through generative AI, through my own work in Photoshop and Blender, and then this output, which is only one step towards what I… the final instantiation, which I want them to be a combination of marble, 3D printing, perhaps porcelain, and found objects, and old recycled you know. Technology, e-waste. I… if you saw at my studio right now, the much… the amount of e-waste and Jewelry and all sorts of different things I'm combining together. And so, the final outcome is for this to be a relief sculpture. But right now, I'm still, you know, working through, the process and how I'm going to realize that. But it's something I'm really excited about doing. Over the past few years, I've Been returning more to the hand after years of making VR and AR projects and things that Spent more time in the virtual realm. I'm… I'm increasingly doing that. Some of that comes from some other… I'll… we'll show these.
+
+Where the interfaces come out of if this wants to launch. The interfaces come out of the… Hardware that last year, I was… Interrogating, or if not interrogating, just kind of taking a second look at, I have all these defunct headsets, VR headsets, from the years of.
+
+## Colin Goldberg [55:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3310s)
+
+Working in.
+
+## Carla Gannis [55:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3311s)
+
+That now are just e-waste. They're just things that will go in landfills, and I was like, what about upcycling them into art, but really thinking about obsolescence, entropy. And again, working with moss and seashells and all of these other kind of organic things that you know, by dent of years on the planet, they will also, you know, no longer exist. But, also thinking about how homogenizing our tech is today, and so with the… I call these wilding wearables, with the headsets, you know.
+
+Expressing my own identity, expressing things that are organic, things that are outside of the domain of just sleep, minimalist tech, and creating these wild, wearable devices. They… they exist as sculptural objects, so they're not… At this point, anyway, actual functional systems, but that's okay to me. It's in the domain of art, and so it's no longer about functionality, but the absurdity of kind of how homogenizing and you know, these hardware devices are that we use. We can't tell each other apart when we're wearing them, and so that I was working on last year, and now it's become about the interfaces where each one of these kind of oracles, they're each a head that exists within this collage Or this, yeah, collage of different elements framed by the rounded rectangle.
+
+You know, is giving face to the technologies that we use, because a lot of what they're…. What they're doing, what the algorithms are kind of bringing out in us, in terms of, you know, my even being embarrassed about using Instagram, because it's become something that is, so ubiquitous in our lives, and also something that can, I, I mean… it becomes a… what is the word I'm looking for? We're addicted, you know, it becomes.
+
+## Colin Goldberg [57:11](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3431s)
+
+Right.
+
+## Carla Gannis [57:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3432s)
+
+And so, through. Interfaces project that I'm doing. I have one that is about water usage, one about extraction from minerals. Empire, obviously, is showing this kind of more Renaissance-like figure, but then you see missiles and drones and all of these things that are collapsing onto a chessboard.
+
+## Colin Goldberg [57:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3449s)
+
+Can you tell us really quickly, like, what are the base objects for these… these pieces? Like, what are the… what are the… what… what headsets were they? I think I might have recognized a couple of them, but…
+
+## Carla Gannis [57:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3460s)
+
+Yeah, because you can see the headsets back here, and a lot of them…
+
+## Colin Goldberg [57:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3463s)
+
+God.
+
+## Carla Gannis [57:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3464s)
+
+Dismantling, so, like, Oculus Go, some early headsets, Oculus Quest, some things that I… some headsets that, you know, I, supported different projects, people were making, you know, just their own headsets, so there.
+
+## Colin Goldberg [57:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3478s)
+
+We're like…
+
+## Carla Gannis [57:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3478s)
+
+There's Google Cardboard, some things I just took lens.
+
+## Colin Goldberg [58:01](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3481s)
+
+Right.
+
+## Carla Gannis [58:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3482s)
+
+You know, and so you can see them on the shelf there. And then, let's see… Since I'm in my studio… oh, this one isn't really glued that well, but I don't know if it's gonna show. But, Yeah, so these are the things that, like, where I just start making things, yeah, and some of it I haven't even glued down, but I just.
+
+## Colin Goldberg [58:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3505s)
+
+Huh.
+
+## Carla Gannis [58:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3506s)
+
+I get these rounded rectangle frames, and then, and then I work through them until they become this, you know, where it becomes a more cohesive assemblage in the digital, and then I'm gonna go back. I already have some of them ready, and I'm going to start doing prototypes of 3D printing them, and then later, larger assemblages with, other materials, like marble. That is going to rely on some grant and funding.
+
+## Colin Goldberg [58:53](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3533s)
+
+Sure.
+
+## Carla Gannis [58:55](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3535s)
+
+So that's the… that's the project I'm working on right now, interfaces. And then Wonder Camera, Wild & Wearables, like my studio, I'm sure, like yours too, you know, it's out.
+
+## Colin Goldberg [59:05](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3545s)
+
+Lots of parallel… It's happening, and they cross over.
+
+## Carla Gannis [59:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3549s)
+
+None of my projects, I don't know about you, like, none of my projects tend to, like, I… I never feel like they're totally ended. Like.
+
+## Colin Goldberg [59:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3557s)
+
+Right.
+
+## Carla Gannis [59:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3558s)
+
+Take up a strand, and maybe it becomes another project, but it's part of that project, too. Like, this multi-tentacled beast, yeah.
+
+## Colin Goldberg [59:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3566s)
+
+Absolutely, yeah, I found myself, you know. Trying to make work that I was, like, already trying to think, like, well, how would I categorize that? You know, like, where would I put that on my website? And then I'm like, who cares, you know? Like, I want to just make something interesting and new, you know, and figure that part out. Later, so, yeah, I could definitely, you know, but it's really cool to see just the energy. I love that, you know. Idea of just being in the studio and sharing, you know, take screen sharing to another level, where you're literally just actually sharing a physical object over the screen, so that's…
+
+## Carla Gannis [01:00:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3603s)
+
+No, no.
+
+## Colin Goldberg [01:00:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3604s)
+
+That's super cool. So I asked this to everybody, or whoever is interviewing another artist. So this interview series was really inspired by Interview Magazine, Warhol's sort of idea of artists interviewing other artists, so I would definitely invite you To, if you have a friend or an artist that you think is interesting, you know, I'd love it if you interviewed them, we'd put it up on the site, someone working with technology, you know, that's kind of the spirit of it. But an artist named Roz Dimon, actually, who's been doing Part of the text question in the community. Yeah, she came up with the interview format, years ago, so that's kind of been the basis of the general basis of the interviews, but, one question that she sort of.
+
+## Carla Gannis [01:00:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3646s)
+
+We went off script.
+
+## Colin Goldberg [01:00:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3647s)
+
+We did, but that's fine, you know? I did another recent interview with Claudia Hart, and it was all just sort of, you know, freeform. So one question, though, is what interests you about Techspressionism? That is maybe, like, how did you first hear about the term or find out about it, and what do you… what resonates, with you about this idea?
+
+## Carla Gannis [01:01:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3668s)
+
+Yeah, I think I first heard the term when I met you, wasn't it?
+
+## Colin Goldberg [01:01:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3673s)
+
+Probably.
+
+## Carla Gannis [01:01:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3673s)
+
+Yeah, and you kind of invited me into the community via Facebook group, and then I participated in quite a few shows now, you know. Thankful… thankfully to you, and to Tommy Mintz, and, you know. And and I know last summer or last spring, I was on a panel discussion.
+
+## Colin Goldberg [01:01:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3691s)
+
+Yeah, in Chelsea, yeah.
+
+## Carla Gannis [01:01:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3693s)
+
+And Chelsea. And, and so it's… Really exciting that there's just this global community, because Patrick… I've known Patrick for years, you know, and so he's one of the founding members with you. Expressionism. And, you know. Just based on the conversation we've been having today about our own practices, Techspressionism, if I can pronounce it correctly, exemplifies that kind of experimentation, and that an argument I've made since I first started working with a computer is that it is not just this cold algorithmic process.
+
+That, you know, is devoid of or separate from any kind of you know, fine arts, history, or lineage. It's something that is expressionistic. It is something where you can explore a language As thoroughly as Jackson Pollock did with his pour paintings, right? We're using different tools, but, like, our motivations for, you know, making work that has these expressive tendencies are not hampered by digital technologies, and it is an argument that I think we all have had to make at some point in our careers.
+
+## Colin Goldberg [01:02:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3759s)
+
+Absolutely. I think that's what brings people together in the community, is this feeling of, like, oh, I found other people that, like, went through that same struggle of, like, galleries closing doors in your face because you mentioned the word computer, you know? And, yeah, so… and it seems like it's… It's come of age, sort of, as the community has developed in a way. Like, you know, when NFTs first started happening, that's when people outside of the, you know, this sort of realm started taking notice when there was headlines about people, you know, selling NFTs for gargantuan amounts of money, and then those Stories went into main, you know, mass media. People are like, that's insane, that's crazy, you know? And now you see things like Dataland and things out there, just in the public, where it's technology-oriented work.
+
+Yeah, so that's, you know, and also just, for me, like, the idea kind of originated from the terminology didn't really exist for things that involved technology that weren't digital art, you know, like.
+
+## Carla Gannis [01:03:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3826s)
+
+Yeah.
+
+## Colin Goldberg [01:03:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3827s)
+
+You know, is a sculpture that uses robotics and 3D modeling digital art, like, you know, that's up to question. I would say it's a sculpture, personally, but, you know, I mean, it's a matter of perspective, I guess, so…
+
+## Carla Gannis [01:04:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3844s)
+
+That's something, you know, for years, I've called myself… I remember the first time I got a NYFA grant in 2004, and prior to that, because I came out of painting, a lot of my friends were painters, and I didn't understand why I kept Being left out of shows. Oh, right, I'm using this thing called a computer. And then I got a computer arts grant, a NYFA grant, and I was like, okay, I'm a digital artist, right?
+
+## Colin Goldberg [01:04:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3866s)
+
+But I'm…
+
+## Carla Gannis [01:04:27](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3867s)
+
+Still making hand drawings, you know, and all these things, and because at the time, I was making a lot of digital print work, so it wasn't… and I was still doing… Flash was, like, my bread and butter for, you know. Corporate work or industry work.
+
+## Colin Goldberg [01:04:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3880s)
+
+Stand.
+
+## Carla Gannis [01:04:40](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3880s)
+
+Yeah, but, like, the digital print work at that time sometimes wasn't accepted as digital.
+
+## Colin Goldberg [01:04:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3887s)
+
+A lot were iris prints, too, that faded eventually.
+
+## Carla Gannis [01:04:51](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3891s)
+
+And, and, yeah, that was a problem, but also that… there were all these different kind of camps, and so it was like, well, am I a legitimate digital artist if I'm outputting it as a more traditional form, like a.
+
+## Colin Goldberg [01:05:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3903s)
+
+Sure.
+
+## Carla Gannis [01:05:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3904s)
+
+Digital, you know, a print, right? And then, as I started working with interactivity and VR, I was like, okay, I guess I'm a legitimate digital artist now. I mean, it's so funny, like, we're questioning these things when computing has been part of your practice, right? And then I evolved to use the term transmedia, because I do work across both analog and digital. And now I'm at the point where I just want to claim I'm an artist, because we.
+
+## Colin Goldberg [01:05:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3928s)
+
+Exactly.
+
+## Carla Gannis [01:05:29](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3929s)
+
+Multi-hyphenate, you know, kind of ways of describing our practices, and we've had to do that over the years to kind of disambiguate it for other people. We're all making art, and that's something that's exemplified, again, by Techspressionism. It's just like, we're all artists. We were a bunch of nerds in the 80s and 90s, and for your Ganga members in the 2010s, because I know there are a lot of young people in this movement, too. But, you know, or 2020s, I don't know. But, but, it's essentially an art language that we're all exploring, you know?
+
+## Colin Goldberg [01:06:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3969s)
+
+Absolutely.
+
+## Carla Gannis [01:06:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3970s)
+
+Yeah, yeah.
+
+## Colin Goldberg [01:06:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3972s)
+
+Awesome. Well, I always love to hear what people have to say about it, because, you know, to me, It's like… it's like art itself, you know? Like, the person who creates a piece might have a particular personal meaning associated with it, but then a viewer is gonna come along and see something in it based on a reflection of their own personality and experience, you know?
+
+## Carla Gannis [01:06:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3998s)
+
+Yeah.
+
+## Colin Goldberg [01:06:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3998s)
+
+Having that subjective aspect, I think, is, you know, it's really interesting, so… Yeah, I think, you know, that probably wraps it up. We're just about at an hour, but you know, I really want to thank you for coming and having this conversation. It's been really cool to learn more about your art and your background, and I was especially interested in seeing how much Duchamp you know, has influenced you in terms of just working in all these different modalities. You know, Zaha Hadid is another artist that I really, you know, admire that, you know, she was an architect, you know, fine artist.
+
+Per se, like, you know, automobiles she designed, like, you know. All, you know, just… and there was no trying to, sort of, like. Sort of compartmentalize all these different things. Like, it was just a gestalt of, you know.
+
+## Carla Gannis [01:07:41](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4061s)
+
+That's for body of work, yeah.
+
+## Colin Goldberg [01:07:44](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4064s)
+
+So…
+
+## Carla Gannis [01:07:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4065s)
+
+Such a pleasure. Thank you so much for inviting me and being generous and spending the time with me.
+
+## Colin Goldberg [01:07:52](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4072s)
+
+Thank you, absolutely. All right, so, can you tell us, us viewers in the future, where we can see more of your work?
+
+## Carla Gannis [01:08:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4083s)
+
+Well, the big one that's coming up… I'm a busy artist at the Whitney, this semester. My life is in semesters because I teach, and I'm actually… Teaching or working with a group of high school students, so they're… I'm shouting out for them first, but they're having a big show, in December, or late November. I… yeah, my dates… if I don't have my calendar in front of me, it's all, yeah, a blur. And then I'm gonna be in the show at the Whitney, the Art Court Show, and it's a 25-year.
+
+Wow. Anniversary of… Art exploring, you know, network-based culture, the net art term, and Christian Paul, who is the curator at the Whitney who supports these kind of practices, has…
+
+## Colin Goldberg [01:08:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4127s)
+
+That's beautiful.
+
+## Carla Gannis [01:08:48](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4128s)
+
+Been running ArtPort for 25 years. I did mine in 2018, and this is just really exciting. That opens November 18th, and it's really exciting that, you know.
+
+## Colin Goldberg [01:08:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4139s)
+
+Cloud.
+
+## Carla Gannis [01:09:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4140s)
+
+These artists who have been exploring this… these different languages, but the languages of network media and culture, are all getting their day in the sun. At the Whitney Museum. It's, about 100 artists that are gonna.
+
+## Colin Goldberg [01:09:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4154s)
+
+Amazing.
+
+## Carla Gannis [01:09:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4155s)
+
+Yeah.
+
+## Colin Goldberg [01:09:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4155s)
+
+Very cool.
+
+## Carla Gannis [01:09:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4157s)
+
+Yeah.
+
+## Colin Goldberg [01:09:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4157s)
+
+Yeah, amazing, yeah. I did a roundtable discussion, actually, here on the Techspressionism site with Christiane and Helen Harrison, and that was an amazing conversation to hear these two art historians and curators Speak about, you know, the past and the future, and how they come together. And then, your work is at Carla Gannis.com, and then at Carla Gannis on Instagram.
+
+## Carla Gannis [01:09:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4183s)
+
+Haha, I know, Yeah, note to self, I need to update my site. Yeah, yeah, yeah, yeah.
+
+## Colin Goldberg [01:09:50](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4190s)
+
+Right on. Well, awesome. Well, thanks again, and I hope you come back soon.
+
+## Carla Gannis [01:09:56](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4196s)
+
+Alright, take care, I hope I see you in person.
+
+## Colin Goldberg [01:09:58](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4198s)
+
+Okay, absolutely. Okay, bye-bye.

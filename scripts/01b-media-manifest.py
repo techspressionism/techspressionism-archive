@@ -61,7 +61,7 @@ NUMBER_RE = re.compile(r"(?:Interview(?:\s+Series)?|Roundtable)\s*#?\s*(\d+)", r
 # folders that could be matched with confidence are listed.
 INTERVIEW_FOLDERS = {
     "ANDREA": "Andrea Bonaceto", "ANNE": "Anne Spalter", "BRANDON": "Brandon Gellis",
-    "CARI ANN": "cari ann shim sham*", "CARTER": "Carter Hodgkin", "CEE": "Cee Moses",
+    "CARI ANN": "cari ann shim sham*", "CARLA": "Carla Gannis", "CARTER": "Carter Hodgkin", "CEE": "Cee Moses",
     "CLAUDIA": "Claudia Hart", "COLIN": "Colin Goldberg", "DARCY": "Darcy Gerbarg",
     "DAVO": "Davonte Bradley", "FRANK": "Frank Gillette", "JOSEPH": "Joseph Nechvatal",
     "KAREN": "Karen LaFleur", "MALAVIKA": "Malavika Mandal Andrew", "MICHAEL": "Michael Rees",

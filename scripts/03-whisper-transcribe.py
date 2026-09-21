@@ -89,7 +89,9 @@ def local_search_roots(session):
     # interview folders are named by first name ("DARCY", "CARI ANN")
     name = (session.get("interviewee") or "").upper()
     matches = [d for d in sorted(base.iterdir()) if d.is_dir() and name.startswith(d.name.upper())] if base.is_dir() else []
-    return matches or [base]
+    # Only the interviewee's OWN folder is searched. (It used to fall back to the whole INTERVIEWS folder when there was no such folder, and then took ANY
+    # recording of about the right length: on 21 September 2026 that put Interview 13's audio into Interview 30.) No folder: the audio comes from YouTube.
+    return matches
 
 
 def find_local_audio(session):
