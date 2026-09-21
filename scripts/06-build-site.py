@@ -500,6 +500,9 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .synopsis { margin:.2rem 0 1rem; }
 .synopsis h2 { margin:0 0 .3rem; font-size:.78rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); }
 .synopsis .syn-text { margin:0; line-height:1.55; }
+.synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
+.synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
+.synopsis .syn-time { margin-left:.25rem; font-size:.75em; font-weight:700; color:var(--accent); white-space:nowrap; }
 .synopsis .syn-note { margin:.35rem 0 0; font-size:.8rem; color:var(--muted); }
 .synopsis .syn-draft { color:var(--accent); letter-spacing:0; text-transform:none; margin-left:.4rem; }
 .synopsis .syn-more { margin:.3rem 0 0; padding:0; border:0; background:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--accent); cursor:pointer; }
@@ -948,6 +951,7 @@ PLAYER_JS = """<script>
   });
   var box = document.getElementById('player-box');
   if (!box) return;
+  // a moment named in the summary: open the transcript there and play from it
   var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
   var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
@@ -1041,6 +1045,18 @@ PLAYER_JS = """<script>
     closeParaCite();      // playing on: the open citation card folds away
     forced = i; mark(i);
     whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
+  });
+  document.addEventListener('click', function (ev) {         // a moment named in the summary: open the transcript there and play from it
+    var a = ev.target.closest && ev.target.closest('a.syn-t');
+    if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;
+    ev.preventDefault();
+    var at = parseFloat(a.dataset.t), i = 0;
+    for (var k = 0; k < starts.length; k++) if (starts[k] <= at + 0.5) i = k;
+    stopAt = null; citedMode = false; closeParaCite();
+    reading(true, false); holdUntil = Date.now() + 2200; autoplayOnLoad = true;
+    forced = i; mark(i);
+    if (paras[i].scrollIntoView) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
+    whenReady(function () { player.seekTo(at, true); player.playVideo(); });
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
@@ -2075,21 +2091,46 @@ def load_synopsis(entry, drafts=False):
     return ""
 
 
+SYN_POINT = re.compile(r"\[\[(\d+(?::\d{2}){1,2})\|([^\]]+)\]\]")
+
+
+def synopsis_plain(text):
+    """The synopsis without its timestamp links, for descriptions and structured data."""
+    return SYN_POINT.sub(lambda m: m.group(2), text)
+
+
+def _split_points(text):
+    pos = 0
+    for m in SYN_POINT.finditer(text):
+        yield text[pos:m.start()]
+        yield m
+        pos = m.end()
+    yield text[pos:]
+
+
 def synopsis_html(entry):
     text = load_synopsis(entry, drafts=os.environ.get("TVA_SHOW_DRAFTS") == "1")
     if not text:
         return ""
     draft = load_synopsis(entry) == ""
+
+    def point(m):                    # [[11:43|The Garden of Emoji Delights]] -> a link that plays the video from that moment
+        parts = [int(x) for x in m.group(1).split(":")]
+        sec = parts[0] * 60 + parts[1] if len(parts) == 2 else parts[0] * 3600 + parts[1] * 60 + parts[2]
+        return (f'<a class="syn-t" href="{e(entry["url"])}&amp;t={sec}s" data-t="{sec}" title="Watch from {m.group(1)}">{e(m.group(2))}'
+                f'<span class="syn-time">&#9654; {m.group(1)}</span></a>')
+    body = "".join(point(m) if isinstance(m, re.Match) else e(m) for m in _split_points(text))
     tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
-    return (f'<section class="synopsis" data-pagefind-ignore><h2>Summary{tag}</h2><p class="syn-text">{e(text)}</p>'
+    return (f'<section class="synopsis" data-pagefind-ignore><h2>Summary{tag}</h2><p class="syn-text">{body}</p>'
             '<button type="button" class="syn-more" hidden>Read more</button>'
-            '<p class="syn-note">Written from the transcript; check details against the video.</p></section>')
+            '<p class="syn-note">This summary was written with AI assistance from the recording&rsquo;s transcript and reviewed by the archive&rsquo;s editor. '
+            'The timestamps link to the moments discussed. Please check details against the video.</p></section>')
 
 
 def entry_description(entry):
     reviewed = load_synopsis(entry)
     if reviewed:                                             # a reviewed synopsis is the page's description
-        return lib_seo.clip_text(reviewed, 300)
+        return lib_seo.clip_text(synopsis_plain(reviewed), 300)
     date = entry.get("date_recorded")
     when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
     people = entry_people(entry)
