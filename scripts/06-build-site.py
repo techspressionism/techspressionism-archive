@@ -958,6 +958,15 @@ PLAYER_JS = """<script>
       if (r.top < top + 40 || r.bottom > window.innerHeight - 40) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
     }
   }
+  // while the video plays, the timecode on the current turn's gray PAUSE button counts up with the video; when the transcript moves on to the next
+  // turn, that one goes back to its own start time and the next turn's button starts counting from there
+  var ticking = -1;
+  function clockText(sec) {
+    sec = Math.floor(sec); var h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), sc = sec % 60, two = function (n) { return String(n).padStart(2, '0'); };
+    return h ? h + ':' + two(m) + ':' + two(sc) : two(m) + ':' + two(sc);
+  }
+  function setClock(i, sec) { var pt = paras[i] && paras[i].querySelector('h3.para-time a.pill .pt'); if (pt) pt.textContent = clockText(sec); }
+  function resetClock() { if (ticking >= 0) { setClock(ticking, starts[ticking]); ticking = -1; } }
   setInterval(function () {
     if (!ready || !player.getCurrentTime) return;
     var t = player.getCurrentTime(), st = player.getPlayerState(), playing = st === 1;
@@ -973,6 +982,10 @@ PLAYER_JS = """<script>
     var lo = 0, hi = starts.length - 1, idx = -1;
     while (lo <= hi) { var mid = (lo + hi) >> 1; if (starts[mid] <= t + 0.25) { idx = mid; lo = mid + 1; } else hi = mid - 1; }
     if (playing || idx !== active) mark(idx, playing);
+    if ((st === 1 || st === 3) && !citedMode && active >= 0) {
+      if (ticking !== active) { resetClock(); ticking = active; }
+      setClock(active, Math.max(t, starts[active]));
+    } else resetClock();
   }, 250);
 })();
 </script>"""
@@ -1090,7 +1103,7 @@ def build_session_page(entry, siblings=()):
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
+                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}<span class="pt">{pill_time(t0)}</span></a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
