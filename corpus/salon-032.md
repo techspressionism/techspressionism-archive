@@ -309,7 +309,7 @@ And for instance, this was just an MRI of an apple. But you see this beautiful n
 
 Or Michelle Driver here. She did handwoven X-ray films. Also interesting approach. Use X-ray films actually. And the gallery features a lot of digitally painted radiographs, for instance here from Russia from Katerina Yeremenko. Or this one since looks, this is a red mandible from Tommaso D'Angelo from Italy.
 
-Also interesting, it looks almost like a traditional painting or drawing actually. I mean, this is a huge mural artwork from Iran actually. Her name is Ran, the artist's name. It's three meters high from Tehran. And let's see, yeah, this is also a text question from Andrew Reach. And he sent me this beautiful art piece. And it's also on his Instagram if you want to check it out.
+Also interesting, it looks almost like a traditional painting or drawing actually. I mean, this is a huge mural artwork from Iran actually. Her name is ran, the artist's name. It's three meters high from Tehran. And let's see, yeah, this is also a text question from Andrew Reach. And he sent me this beautiful art piece. And it's also on his Instagram if you want to check it out.
 
 And again, I think this MR Tractography by Denis Ducreux is very fascinating. Interestingly, this one is not even modified. This is how our limbic system, that's at least that how he told me, this is how our limbic system looks like. But if you reconstructed this with advanced softwares and you play around with the color coding, then you can come up with beautiful radiology art pieces like this.
 

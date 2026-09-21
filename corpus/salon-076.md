@@ -15,7 +15,7 @@ speakers:
   - name: Colin Goldberg
     country: North Bennington VT USA
     start: 1858
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: North Providence, RI USA
     start: 2347
   - name: Lee Schnaiberg
@@ -141,7 +141,7 @@ That kind of stuff. Yeah. The GLB file. I just looked at it. It's just under 22 
 
 I don't think they do a work around. You have to have the depth perception. I have a 12 and it, and, and Polycam works on that. That helps. I have an excess 10, but I'm running iOS 17 on it. I don't know if that's, it's probably the hardware, not the software. Yeah. Yeah. Yeah. Okay.
 
-## Cynthia DiDonato [39:07](https://www.youtube.com/watch?v=ni_Sr6-zBXg&t=2347s)
+## Allen Hirsh [39:07](https://www.youtube.com/watch?v=ni_Sr6-zBXg&t=2347s)
 
 Cynthia. Cynthia's gone. No, you're here. I see your hand is up. Yeah. Well, after Colin showed his Polycam piece, then I thought of, there are some couple I have and a couple of other things I've done with glitching. So I thought maybe I'll share that. Okay. Screen. Okay. So I'll show you the first one. This first one is Polycam.
 

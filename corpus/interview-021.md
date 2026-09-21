@@ -551,7 +551,7 @@ Yeah I think so and uh and in your question you kind of touched on this uh sort 
 
 ## Colin Goldberg [01:05:19](https://www.youtube.com/watch?v=ywYWdI922tI&t=3919s)
 
-And and and and and and and and and and and and and and and and and and and and and It has to be there for it to work for you as an image. And then, you know, there's all the underlying ideas.
+And and and and and and and and and and and and and and and and and and and and and it has to be there for it to work for you as an image. And then, you know, there's all the underlying ideas.
 
 ## Victor Acevedo [01:05:31](https://www.youtube.com/watch?v=ywYWdI922tI&t=3931s)
 

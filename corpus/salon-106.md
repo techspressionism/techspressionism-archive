@@ -34,7 +34,7 @@ flags:
 
 Great. Well, thank you, Colin. Welcome, everybody, to this salon, which, I am co-hosting with Stephen Paray. We're really happy to bring People in from France. We, as Colin just said, we're expanding and building our network. So, this is really wonderful. I am going to… Share my screen, and do… a little bit of an introduction here, and I did remember, 2….
 
-Great, this is being recorded. So… Welcome to our, Session 106, focusing on France. Is everybody seeing this screen, by the way?
+Great, this is being recorded. So… Welcome to our, session 106, focusing on France. Is everybody seeing this screen, by the way?
 
 ## Stephen Paré [00:50](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=50s)
 
@@ -52,7 +52,7 @@ So, here, our first artist is Isabelle. Steven, were you going to…
 
 ## Stephen Paré [03:00](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=180s)
 
-Yes, well, we want to, welcome six. Artists from, France this month. And, I must say, I'm very excited both by the quality and the variety of the work that they're presenting. So we're going to, We've gone backwards somehow.
+Yes, well, we want to, welcome six. Artists from, France this month. And, I must say, I'm very excited both by the quality and the variety of the work that they're presenting. So we're going to, we've gone backwards somehow.
 
 ## Cynthia Beth Rubin [03:26](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=206s)
 
@@ -274,7 +274,7 @@ Stone.
 
 Okay, this was an interactive game done with Isabel Gross for Nuit Blanche in Paris, and it was really interesting to have, like, public interaction with a lot of public all night. That was really interesting to mix, to mix this with really anybody passing by. I want to go to things which are more… this is more my personal work when I work alone. I like the bang for the buck. I like really generative stuff. I like things which really react and don't like… don't need any explanation. I like when it's really sensible and reactive. And, okay… I want to talk a little bit about this, because it's not art, but as I say, my ass is on both.
 
-This is an exhibition who was in the Science City Museum in Paris for 18 months. This was done in 2008. And it was 500 square meter where, like, 80 people were able to play games of 20 minutes about epidemics. And it's a pre-COVID exhibition, in fact. Also, I… I did plenty of different things. This is an example of an interactive, how do you say? An interactive 3D fixture where people could dance and see themselves. Inside the fixture, I want to show you that also, because it's kind of the last, I will say, very complex project I did for the Museum Oceanographic de Monaco. It's a 20 meter by 9 meter, 9 meter room with 40 projectors, where you can, Interact with the fish. The fish are really real time. This is not a movie. This is really real time. It's like game technology, as Isabel used to and to do all of that, sorry, to do all of that, in fact, I'm using my own software, and it's… I will say, my specificity, you're already inside the software. And it's… I'm not gonna talk a lot about this, but that's one of my particularities. I work with my own tools.
+This is an exhibition who was in the Science City Museum in Paris for 18 months. This was done in 2008. And it was 500 square meter where, like, 80 people were able to play games of 20 minutes about epidemics. And it's a pre-COVID exhibition, in fact. Also, I… I did plenty of different things. This is an example of an interactive, how do you say? An interactive 3D fixture where people could dance and see themselves. Inside the fixture, I want to show you that also, because it's kind of the last, I will say, very complex project I did for the Museum Oceanographic de Monaco. It's a 20 meter by 9 meter, 9 meter room with 40 projectors, where you can, interact with the fish. The fish are really real time. This is not a movie. This is really real time. It's like game technology, as Isabel used to and to do all of that, sorry, to do all of that, in fact, I'm using my own software, and it's… I will say, my specificity, you're already inside the software. And it's… I'm not gonna talk a lot about this, but that's one of my particularities. I work with my own tools.
 
 For a long, long time. - let's go… Sorry, a small bug here, okay. Here, during COVID, I did some things that I wanted to mention, because for the first time, I produced things which were not real time. I bought myself an exit row, you know, a plotter, and I started to produce things Still using my software, things on paper, real things, and suddenly I could see all the problem of, like, finding the real material, having trouble with the ink, like, I was back to the real world. And this was really, really fun to do. I produced, like, 2,000 of these, like, in the year of COVID.
 
@@ -348,13 +348,13 @@ Yeah, can you hear me? Okay. If something gets wrong, yeah, just… Wave or say 
 
 You know, a lot of French theory, philosophies, Came here, but… and I think it's an… it's a… it's an interesting place for us to innovate, to experiment, because it's really open to that. We call it today Parajivitas Universite de creacion, so it's a creation. Creation-oriented university. So what I've been doing here is, although I am not strictly in a art In another department, I do have a lot of… Activities in… from the research creation, you know? I love doing research, teaching, of course, I learn a lot.
 
-I've been doing some organization, but I think I… myself, my role has been, like, facilitating, activities, some projects, or just, like, spreading the word of, how important is digital art, right? So, I… I started here, my PhD, with Jean-Pierre Balp, and I was lucky to meet some colleagues, Maurice Benayun, Pierre Levy, and the ambient was really, interesting for, Exploring the use of new media. I started in Mexico, I lived there for years after my PhD, I started this small conference, maybe you have heard about this, maybe not, it's the Computer Arts Congress, but it was… Cool that I can recall now that we had this first exhibition of digital art at the Museum of Modern Art in the city where I was living there, Toluca, Mexico.
+I've been doing some organization, but I think I… myself, my role has been, like, facilitating, activities, some projects, or just, like, spreading the word of, how important is digital art, right? So, I… I started here, my PhD, with Jean-Pierre Balp, and I was lucky to meet some colleagues, Maurice Benayun, Pierre Levy, and the ambient was really, interesting for, exploring the use of new media. I started in Mexico, I lived there for years after my PhD, I started this small conference, maybe you have heard about this, maybe not, it's the Computer Arts Congress, but it was… Cool that I can recall now that we had this first exhibition of digital art at the Museum of Modern Art in the city where I was living there, Toluca, Mexico.
 
-Among other people, Lev Manovic came, and we had to… Like, construct really many electric. Cables, right, to, to, to, to put the exhibition. Then, so I've been very, like, I really like, like, Participating and giving a hand to… whenever I can. Once, for instance, Ed Shankin asked too many people, Spanish speakers, who would like to help translating his book, and I ended up being the translator of his Book. Then, I don't know, I've been involved recently with other, perhaps, larger organizations, such as, Seagraph. By the way, we are… Releasing today the program of the Art Gallery, which is happening next summer in Los Angeles, at the Los Angeles Convention Center.
+Among other people, Lev Manovic came, and we had to… Like, construct really many electric. Cables, right, to, to, to, to put the exhibition. Then, so I've been very, like, I really like, like, Participating and giving a hand to… whenever I can. Once, for instance, Ed Shankin asked too many people, Spanish speakers, who would like to help translating his book, and I ended up being the translator of his book. Then, I don't know, I've been involved recently with other, perhaps, larger organizations, such as, Seagraph. By the way, we are… Releasing today the program of the Art Gallery, which is happening next summer in Los Angeles, at the Los Angeles Convention Center.
 
 And in parallel, as well, I am also serving in the board of ICEA International. Perhaps also you have heard about this association, that we have, like, reoriented To electronic and emerging art, as Roger Molina was also, Inviting us to reflect on that. So, to move forward, I wanted to… I chose a couple of projects that I wanted to show that, let's say, are part of my own experiments, I would say. And, I really like… I really love working with images, and, doing, plastic, I would say, experimenting with those digital images, using digital technologies that Today, with the web, we are trying to do interactive and opening those in form… in the form of tools, right? So it started a while ago, part of this research lab on cultural analytics.
 
-So, what I've been doing is this small tool that you can access here, it's open source, it's called Dragon Hue. Here is a small demo. I hope it will work. It's a very, very short, demo film. The idea is basically that you can, What I call live animation. You can, like, drag and drop your own images, could be any corpus of images, and the idea is that you will start seeing, like, color patterns, and of course, thanks to some interactive techniques, we can always Be able to reorganize, we are always able to, like, see those differently, and hopefully we can also inspire some other, experiments, or, let's say, interactive plastic, experiments with, Our corpus of images. Sometimes.
+So, what I've been doing is this small tool that you can access here, it's open source, it's called Dragon Hue. Here is a small demo. I hope it will work. It's a very, very short, demo film. The idea is basically that you can, what I call live animation. You can, like, drag and drop your own images, could be any corpus of images, and the idea is that you will start seeing, like, color patterns, and of course, thanks to some interactive techniques, we can always Be able to reorganize, we are always able to, like, see those differently, and hopefully we can also inspire some other, experiments, or, let's say, interactive plastic, experiments with, our corpus of images. Sometimes.
 
 Of course, if we have patience and we have the right collaborations, we can perhaps use these tools Also, to discover, like, or… As a research, tool as well. Sometimes we might say, well, I am a super specialist, super specialist of this, artist, maybe I will try to see how it has evolved in time. So, sometimes it's got… it might be used for that. But it has always… it has been interpreted as a… as a… as an… as an expression, as a form of expression, no? Once we had this exhibition, I was invited to… to present this… I mean, the exhibition was… Done using this software.
 
@@ -370,7 +370,7 @@ Great, it's wonderful. We, we will have some discussion time, that's, hopefully.
 
 ## Stephen Paré [34:06](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2046s)
 
-Next, the next artist we'll be, presenting is someone who's familiar to you. System, also known as Mikhail Bora. And, he has shown at, One of our salons before. We're very excited to see his new work. And, you may remember, his works are distinguished by their pop aesthetic. Occasionally a trash aesthetic, and, he's involved with new uses of social networks, audio-visual collage, and, A, unique, incorporation of, artificial intelligence. So… System.
+Next, the next artist we'll be, presenting is someone who's familiar to you. System, also known as Mikhail Bora. And, he has shown at, one of our salons before. We're very excited to see his new work. And, you may remember, his works are distinguished by their pop aesthetic. Occasionally a trash aesthetic, and, he's involved with new uses of social networks, audio-visual collage, and, A, unique, incorporation of, artificial intelligence. So… System.
 
 ## Michael Borras [35:00](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2100s)
 
@@ -626,11 +626,11 @@ Okay. Great observation.
 
 ## Stephen Paré [59:59](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3599s)
 
-I think, your work, Isabel, touches on something quite interesting, which is, a… a fusion of, Different, genres, things we have… Considered to be a part. The genre of, documentary, for example, and that's a big reach between documentary and, Video gaming. Would you, care to comment, on that? Are you attempting a grand…
+I think, your work, Isabel, touches on something quite interesting, which is, a… a fusion of, different, genres, things we have… Considered to be a part. The genre of, documentary, for example, and that's a big reach between documentary and, video gaming. Would you, care to comment, on that? Are you attempting a grand…
 
 ## Isabelle Arvers [01:00:34](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3634s)
 
-Really not the first, huh? Some people, like, Edo Stern, was doing it before, with C-level, and, this… Documentary, Endgames, Waco Resurrection, but, yeah, while I was in, in Calais, in the refugee camp, in 2016, I did this series of, interviews of, people who were doing things in the camp. And, as some of them, had to remain, anonymous, I… if we can say, transform them into avatars, and, their feedback was that, becoming, like, a part of, an anime or, Animated film was, like, this feeling of becoming a hero, and, yeah.
+Really not the first, huh? Some people, like, Edo Stern, was doing it before, with C-level, and, this… Documentary, Endgames, Waco Resurrection, but, yeah, while I was in, in Calais, in the refugee camp, in 2016, I did this series of, interviews of, people who were doing things in the camp. And, as some of them, had to remain, anonymous, I… if we can say, transform them into avatars, and, their feedback was that, becoming, like, a part of, an anime or, animated film was, like, this feeling of becoming a hero, and, yeah.
 
 ## Cynthia Beth Rubin [01:01:44](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3704s)
 
@@ -648,7 +648,7 @@ That's interesting. This morning, we had a Zoom with a makerspace in Uzbekistan,
 
 Thank you, very, wonderful session, really exciting. I'm trying to figure out how to say this question, it's just observations, but a question's in it. It seems to me there's such a largeness to the presentations today in terms of. Various worlds, whether it's AI, spiritual, material, code, all coming together in these presentations in a kind of large, inventive, multi-layered… Sort of presentations. I'm very inspired by what I'm seeing. And I wonder if, you feel supported in France for doing this kind of work?
 
-And also, I'd love it if some of you, and maybe especially Michael, Boras, the spiritual aspects of, There's so many interesting things about AI. I mean, you end with this, this, this, this kind of dark… Thing foreboding in the end, and yet there's such a idealism and beauty in the work, and I know in my own work, paradox, for me, is just central, and I wonder if you could speak to that, and if any of you want to speak to your support of your work in France, too. Thank you, all of you.
+And also, I'd love it if some of you, and maybe especially Michael, Boras, the spiritual aspects of, there's so many interesting things about AI. I mean, you end with this, this, this, this kind of dark… Thing foreboding in the end, and yet there's such a idealism and beauty in the work, and I know in my own work, paradox, for me, is just central, and I wonder if you could speak to that, and if any of you want to speak to your support of your work in France, too. Thank you, all of you.
 
 ## Stephen Paré [01:03:45](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3825s)
 
@@ -832,7 +832,7 @@ And perhaps, Tree School Town would like to…
 
 Okay, okay, the purpose is to have a… To be, I have a workflow, okay, computer techniques, abilities, but I forget everything when I start a work. I start from the beginning. After a new collection, after a new work, I have the purpose to found the first impulsion. And I take, mobility with a tablet, with, paper, with, with, clay, and, start, with the idea to, to the Prima, prima material. With my collection, about, at Jimmy. And, that's the… the definition. And the… the story come with material. And, you start with, A clear space. We have so much, stimulation in this world, so much technology, and to start to create, free.
 
-We have to forget everything, and Add. Technology, add the generative art, I had, painting, and so much tool to build the… from the prima material, I think.
+We have to forget everything, and add. Technology, add the generative art, I had, painting, and so much tool to build the… from the prima material, I think.
 
 ## Cynthia Beth Rubin [01:13:05](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4385s)
 
@@ -854,7 +854,7 @@ Excellent.
 
 ## Lee Musgrave [01:14:22](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4462s)
 
-I can say that my state in life is the joy of Being selective about where you go in the world and who you interact with. I first visited France in 1952.
+I can say that my state in life is the joy of being selective about where you go in the world and who you interact with. I first visited France in 1952.
 
 ## Treeskulltown [01:14:39](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4479s)
 
@@ -946,11 +946,11 @@ Yes, we know.
 
 ## Cynthia Beth Rubin [01:16:02](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4562s)
 
-Okay, so, you… I think that Colin will stop the recording shortly, and then people can hang out and talk about Whatever, because it will not be recorded, and Ideas for future sessions, which is one of the things. Colin, do you want to say anything in closing?
+Okay, so, you… I think that Colin will stop the recording shortly, and then people can hang out and talk about whatever, because it will not be recorded, and ideas for future sessions, which is one of the things. Colin, do you want to say anything in closing?
 
 ## Colin Goldberg [01:16:24](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4584s)
 
-Yeah, I just want to, thank all of the, artists who participated. Really cool, you know, to see your work. I'd seen some of the artists' work, but, not all of them. And I also, you know, wanted to thank, Cynthia and Steven for putting this together. I think it's a really great model to get artists together, you know, in somewhere outside of the United States to, you know, to share their work. I think it could create A little bit of local community in other places, and, also, you know, brings in Culture to us here in the States, where it's so sorely needed. I did spend a little time in France, back when I was living in New York City. I traded my apartment down in the East Village with a couple that was in Bastille, and managed to survive, without speaking any French.
+Yeah, I just want to, thank all of the, artists who participated. Really cool, you know, to see your work. I'd seen some of the artists' work, but, not all of them. And I also, you know, wanted to thank, Cynthia and Steven for putting this together. I think it's a really great model to get artists together, you know, in somewhere outside of the United States to, you know, to share their work. I think it could create A little bit of local community in other places, and, also, you know, brings in culture to us here in the States, where it's so sorely needed. I did spend a little time in France, back when I was living in New York City. I traded my apartment down in the East Village with a couple that was in Bastille, and managed to survive, without speaking any French.
 
 So I look forward to returning. I'm trying to learn French on Duolingo a little bit, but, I can pretty much say nothing at this point. But I'm still, you know, looking forward to it, so… Once again, anyone who wants to stick around, after the recording stops, feel free. And, I think it's looking like the next salon for June is going to be, sort of an open… Open Studios event where people could just come in and do impromptu sharing, so I'd encourage you to come and join and, stick around. And, you know, one of our mottos here is, you're a Techspressionist when you say you are, so there's no real you know, there's no real way to become part of it other than if you identify with it, you know, then… then that's pretty much it. So… Welcome. And, I will stop recording in 3… 2, 1, and… let's see, how do I do this now?
 

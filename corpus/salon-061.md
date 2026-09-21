@@ -30,7 +30,7 @@ speakers:
   - name: Michael Pierre Price
     country: null
     start: 2436
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: null
     start: 2761
   - name: David Bloom
@@ -119,7 +119,7 @@ Photography, even just straight photography. As you know, completely. You know, 
 
 You know, It isn't really. I mean, part of the whole idea behind Techspressionism is that technology is a continuum and it isn't like. Like right now computers it's. That markedly different from when. Other new technologies came into the hands of artists like the camera. And there was, you know, pushback from people saying, you know, this is art it's the end of art. All that kind of same conversation that happens seemingly with every new wave of technology. So.
 
-So here we are. And next up is Cynics. Cynthia Beth Rubin.
+So here we are. And next up is Cynics. Cynthia, Beth Rubin.
 
 ## Cynthia Beth Rubin [21:10](https://www.youtube.com/watch?v=axa3_RqLoWw&t=1270s)
 
@@ -141,7 +141,7 @@ One is I'll take a sequence of pictures and then run it through the program. And
 
 I ran my algorithm on it that is actually taking pictures, from four cameras at once. Here we have a hat on top of the Raspberry Pi computer over here that allows four cameras to connect at once. And I was running all four cameras through, oh, here's, I was taking pictures through these wireframe drawings that I made with these 3D pens that sort of seem like a hammer looking for a nail. But I sketched over drawings that I had made with this 3D pen. And then created an armature to hold each camera position so that the viewers would see themselves, and let's see if we get to see the view, see themselves viewed through these armatures in an ever, in a collage that would continually change and be sort of interfered with by that wireframe. And I think of this wireframe very similarly visually to this artifact, this alpha channel that's part of the process.
 
-So I'm going to go ahead and show you a little bit of a picture of the So let me just skip ahead here. So that was Rochester. And now what I just did is I started running the program on a Raspberry Pi computer connected to a webcam that I'm pointing downward at a transparent platform holding some material that I found on the seashore and creating a sort of a recursive collage that's being live generated. Let me see if, yeah. So I stick my hand under here and it'll take a picture. I'll take a picture in a moment and add it to the collage. I move stuff around, getting crazy.
+So I'm going to go ahead and show you a little bit of a picture of the so let me just skip ahead here. So that was Rochester. And now what I just did is I started running the program on a Raspberry Pi computer connected to a webcam that I'm pointing downward at a transparent platform holding some material that I found on the seashore and creating a sort of a recursive collage that's being live generated. Let me see if, yeah. So I stick my hand under here and it'll take a picture. I'll take a picture in a moment and add it to the collage. I move stuff around, getting crazy.
 
 And so this is something I was planning on showing actually next month. I'm not sure if the show is still happening, but this is a close up of that. Oh, no it's not. That's me going around. Oh, and recently, the most recent thing I did to this is added this metal sphere to the arrangement, creating a reflection of the viewer within the image itself. Which I find to be something that I always wanted to include. And this was missing in the live versions. I like to include the viewer in it. And this is a way of doing that once again. So here's, yeah, here's what it looks like from the side. Really, it's just a Raspberry Pi computer over there connected to a webcam pointed down at that platform on top of a monitor. Am I under five minutes?
 
@@ -181,7 +181,7 @@ All right. So and definitely share your links if you'd like in the chat there. I
 
 Thank you. Of course it wants a plug-in. Okay. Okay. Can you see anything? Yeah, I see the, I think your iPad screen.
 
-## Cynthia DiDonato [46:01](https://www.youtube.com/watch?v=axa3_RqLoWw&t=2761s)
+## Allen Hirsh [46:01](https://www.youtube.com/watch?v=axa3_RqLoWw&t=2761s)
 
 Yep. Great. Well, first of all, hello, everyone. Good evening. I'm Cynthia DiDonato, and I'm zooming in from North Providence, Rhode Island. I'm about 70. Seven minutes from the Rhode Island School of Design campus and museum, which is always a luxury. This, lately, I have been working intensely with the color red. You might say I'm riffing on red.
 

@@ -164,7 +164,7 @@ And I will. Okay. There we go. I'll tell you how that started. These are stills 
 
 Uh, these two patterning for music. The next slide, I think if I just want to see if I can click down here. Okay, this is a rough sort of visual artist statement and it's sort of how I link things together so there's painting sequences there's audio Morse code patterns. I'm interested in audio from word, as well as creating music from videos that I make as well.
 
-And then things evolved into various forms, some of which are web based some of which are time based painting and painting installations. It's just a little bit of a Let's see the next. This is a an exhibition I had called fractal frequencies. So what you're looking at here is I started thinking of borrowing a bit from color field ideas, as well as the Morse code patterning.
+And then things evolved into various forms, some of which are web based some of which are time based painting and painting installations. It's just a little bit of a let's see the next. This is a an exhibition I had called fractal frequencies. So what you're looking at here is I started thinking of borrowing a bit from color field ideas, as well as the Morse code patterning.
 
 The center line in the exhibition is actually Morse code for music. And then I augmented it with notes, and during the exhibition. I also composed music from that piano roll pattern so there was some ambient music playing as well I didn't bother putting the soundtrack up. Just for time purposes. And so this is basically an installed piano roll piece.
 

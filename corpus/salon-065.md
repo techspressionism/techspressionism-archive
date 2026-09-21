@@ -21,7 +21,7 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 2032
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: null
     start: 2707
   - name: Davonte Bradley
@@ -163,7 +163,7 @@ And, in fact, I listened to her for my news. She brings in the best people. They
 
 They're not viewed as necessarily marketable for the for the uh the job market unfortunately and and there's also a lot of confusion I I remember right after graduating I encountered my first instance of uh my my degree being a problem because uh when I said I majored in philosophy they thought I was talking about psychology the two are not the same and it took maybe 10 minutes to explain to them that these are two completely different ideas and yeah the interview didn't go well after that unfortunately um but anyway
 
-## Cynthia DiDonato [45:07](https://www.youtube.com/watch?v=qBc4IjFobIg&t=2707s)
+## Allen Hirsh [45:07](https://www.youtube.com/watch?v=qBc4IjFobIg&t=2707s)
 
 Um cynthia were you wanting to present next or well like colin said um you know we probably could use a few more speakers I have a few things I can show and so That's what I thought I'd do. All right. And I guess I'll go after you because I don't think there's too many other people. I think I scrounged up some stuff. All right. But I will share.
 

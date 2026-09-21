@@ -160,7 +160,7 @@ And thank you so much for being part of the exhibition we really do appreciate i
 
 ## Nina Yankowitz [25:05](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1505s)
 
-Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the So here in this piece it's the smoke that's filling your lungs whether you can see it or not.
+Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the so here in this piece it's the smoke that's filling your lungs whether you can see it or not.
 
 Just reminding you that we're still working on this. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes.
 

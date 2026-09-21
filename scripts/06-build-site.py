@@ -17,6 +17,7 @@ Usage:
     python3 scripts/06-build-site.py [--no-index]
 """
 import datetime
+import hashlib
 import html
 import json
 import os
@@ -105,6 +106,9 @@ _ARTIST_PAGE = re.compile(r"^artist-(.+)\.html$")
 ASSET_PREFIXES = ("style.css", "thumbnails/", "thumbnails-small/", "pagefind/", "data/", "times/", "transcripts/", "llms.txt", "sitemap.xml")
 
 
+CSS_VERSION = ""      # set in main() from the stylesheet's content
+
+
 def clean_path(target):
     """The address a page has on the site, without .html (a folder with an index page, like a WordPress page):
     salon-081.html -> salon-081/, artist-x.html -> artist/x/, about.html -> about/, index.html?type=Salon -> ?type=Salon.
@@ -128,6 +132,8 @@ def nest(page_html, depth):
     relative link and asset path gets the matching number of ../ in front. (Recording pages and About are one folder down, artist pages two.)"""
     root = "../" * depth
     home = root or "./"
+    if CSS_VERSION:                                   # a changed stylesheet gets a new address, so visitors never see a stale one
+        page_html = page_html.replace('href="style.css"', f'href="style.css?v={CSS_VERSION}"')
 
     def fix(target):
         if not target or re.match(r"^(?:[A-Za-z][A-Za-z0-9+.-]*:|//|#|/|\{|')", target):
@@ -405,6 +411,13 @@ h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scrol
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
+h3.para-time a.pill { padding:.22rem .8rem; }   /* the timecode alone, no triangle */
+.cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin-left:.4rem; padding:.22rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
+.js .cite-btn { display:inline-flex; align-items:center; }
+.cite-btn:hover, .cite-btn[aria-expanded="true"] { background:#b30000; }
+.para + .cite-card.para-cite { margin-top:-.7rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 3.6rem); scroll-margin-bottom:1rem; }
+.cite-card .close-cite { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--line); border-radius:.3rem; background:#fff; color:var(--muted); cursor:pointer; }
+.cite-card .close-cite:hover { border-color:var(--accent); color:var(--accent); }
 a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
 a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
 a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
@@ -622,7 +635,8 @@ def build_player(entry):
     video_id = entry["video_id"]
     alt = e(f"Play {label(entry)} — {entry.get('session_title') or 'Untitled'}")
     cite_data = json.dumps({"series": series_name(entry), "topic": entry.get("session_title") or "Untitled",
-                            "date": entry.get("date_recorded") or "", "youtube": entry["url"]}, ensure_ascii=False)
+                            "date": entry.get("date_recorded") or "", "youtube": entry["url"],
+                            "participants": participants_line(entry)}, ensure_ascii=False)
     img = (f'<img src="thumbnails/{e(video_id)}.jpg" alt="" loading="lazy">'
            if (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists() else "")
     return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-cite="{e(cite_data)}" data-pagefind-ignore>'
@@ -835,6 +849,37 @@ PLAYER_JS = """<script>
     s.onerror = function () { failed = true; };
     document.head.appendChild(s);
   }
+  // the Cite button on a paragraph: pause the video and show that paragraph's citation right under it
+  function closeParaCite() {
+    [].slice.call(document.querySelectorAll('.para-cite')).forEach(function (c) { c.parentNode.removeChild(c); });
+    [].slice.call(document.querySelectorAll('.cite-btn[aria-expanded="true"]')).forEach(function (b) { b.setAttribute('aria-expanded', 'false'); });
+  }
+  document.addEventListener('click', function (ev) {
+    var cb = ev.target.closest && ev.target.closest('.cite-btn'), x = ev.target.closest && ev.target.closest('.close-cite');
+    if (x) { closeParaCite(); return; }
+    if (!cb) return;
+    var para = cb.closest('.para'), open = cb.getAttribute('aria-expanded') === 'true';
+    closeParaCite();
+    if (open || !para) return;
+    var wasPlaying = !!(ready && player && player.getPlayerState && player.getPlayerState() === 1);
+    if (wasPlaying) player.pauseVideo();
+    var pdata = {}, seg = para.closest('.seg'), sp = seg && seg.querySelector('.seg-head .speaker'), speaker = sp ? sp.textContent.trim() : '';
+    try { pdata = JSON.parse(box.getAttribute('data-cite') || '{}'); } catch (e) { pdata = {}; }
+    if (!speaker || ['unattributed', 'transcript', 'discussion', 'announcements'].indexOf(speaker.toLowerCase()) >= 0) speaker = pdata.participants || 'Unidentified speaker';
+    var at = parseFloat(para.dataset.t) || 0;
+    var info = { speaker: speaker, series: pdata.series, topic: pdata.topic, date: pdata.date, seconds: at, url: (pdata.youtube || '') + '&t=' + Math.floor(at) + 's' };
+    var card = document.createElement('div');
+    card.className = 'cite-card para-cite';
+    card.setAttribute('data-cite', JSON.stringify(info));
+    card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
+      + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
+      + '<button type="button" class="continue-btn"' + (wasPlaying ? '' : ' hidden') + '>Continue watching &#9654;</button>'
+      + '<button type="button" class="close-cite">Close</button></div>' + citeFormatSelect(citeStored());
+    citeApply(card);
+    para.parentNode.insertBefore(card, para.nextSibling);
+    cb.setAttribute('aria-expanded', 'true');
+    if (card.scrollIntoView) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  });
   box.querySelector('.poster').addEventListener('click', function () { whenReady(function () { player.playVideo(); }); });
   document.addEventListener('click', function (ev) {
     var a = ev.target.closest && ev.target.closest('a.pill');
@@ -842,6 +887,7 @@ PLAYER_JS = """<script>
     ev.preventDefault();
     var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
+    [].slice.call(document.querySelectorAll('.para-cite .continue-btn')).forEach(function (c) { c.hidden = true; });
     forced = i; mark(i);
     whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
   });
@@ -988,7 +1034,7 @@ def build_session_page(entry, siblings=()):
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(t0)}</a>{head_name}</h3>'
+                f'{head_open}<a class="pill" href="{e(yt)}" data-seek="{seek:g}" title="Play the video from here" data-pagefind-ignore>{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
@@ -1449,13 +1495,21 @@ def load_people(corpus):
     PERSON_BY_NORM.clear()
     for p in PEOPLE:
         p["exhibition_labels"] = exhibitions
-        p["speaks"], p["mentions"] = {}, []
+        p["speaks"], p["mentions"], p["interviews"] = {}, [], []
         for n in [p["name"]] + p.get("aliases", []):
             k = person_key(n)
             if k and k not in PERSON_BY_NORM:
                 PERSON_BY_NORM[k] = p
         for kind in list(p["links"]):               # links found broken or parked are left out (listed in review/broken-links.csv)
             p["links"][kind] = [u for u in p["links"][kind] if status.get(u, {}).get("status") not in ("broken", "parked")]
+    # who has an interview video of their own (the person interviewed, not the interviewer)
+    for ent in corpus:
+        who = ent.get("interviewee") if ent.get("type") == "interview" else None
+        p = PERSON_BY_NORM.get(person_key(who)) if who else None
+        if p is not None:
+            p["interviews"].append(ent)
+    for p in PEOPLE:
+        p["interviews"].sort(key=lambda en: (en.get("date_recorded") or "", en["number"]))
     # where people speak
     for ent in corpus:
         for seg in ent["segments"]:
@@ -1526,18 +1580,24 @@ def build_person_page(p):
     labels = p["exhibition_labels"]
     def count_link(n, one, many, anchor):
         return f'<li><a href="#{anchor}">{n:,} {one if n == 1 else many}</a></li>'
+    profile = p.get("ts_profile") if p.get("ts_profile") and link_ok(p["ts_profile"]) else ""
+    # every profile on techspressionism.com is a page of the Southampton exhibition, so the link sits under that show
+    exhibitions = dict(p["exhibitions"])
+    if profile and "southampton" not in exhibitions:
+        exhibitions["southampton"] = []
     facts = []
     if p["speaks"]:
         facts.append(count_link(len(p["speaks"]), "recording", "recordings", "recordings"))
         facts.append(count_link(sum(r["turns"] for r in p["speaks"].values()), "time speaking", "times speaking", "recordings"))
     if p["mentions"]:
         facts.append(count_link(len(p["mentions"]), "mention", "mentions", "mentions"))
-    if p["exhibitions"]:
-        facts.append(count_link(len(p["exhibitions"]), "exhibition", "exhibitions", "exhibitions"))
+    if exhibitions:
+        facts.append(count_link(len(exhibitions), "exhibition", "exhibitions", "exhibitions"))
     facts_html = "".join(facts)
     links = []
-    if p.get("ts_profile") and link_ok(p["ts_profile"]):
-        links.append(f'<a href="{e(p["ts_profile"])}" target="_blank" rel="noopener">Profile on techspressionism.com &#8599;</a>')
+    for k, en in enumerate(p["interviews"]):
+        many = f" ({e(fmt_date(en.get('date_recorded')))})" if len(p["interviews"]) > 1 else ""
+        links.append(f'<a href="{en.get("type", "interview")}-{int(en["number"]):03d}.html">Artist Interview{many} &#8599;</a>')   # the interview's page in this archive
     for kind, text in (("website", "Website"), ("instagram", "Instagram"), ("wikipedia", "Wikipedia"), ("nft", "NFT"), ("twitter", "Twitter")):
         for u in p["links"].get(kind, [])[:2]:
             links.append(f'<a href="{e(u)}" target="_blank" rel="noopener">{text} &#8599;</a>')
@@ -1550,14 +1610,16 @@ def build_person_page(p):
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
         parts.append(f'<ul class="facts">{facts_html}</ul>')
-    if p["exhibitions"]:
+    if exhibitions:
         rows = []
-        for slug, credits in p["exhibitions"].items():
+        for slug, credits in exhibitions.items():
             info = labels.get(slug, {})
             title = e(info.get("label", slug.title()))
             link = (f'<a href="{e(info.get("url", "#"))}" target="_blank" rel="noopener">{title}</a>'
                     if link_ok(info.get("url", "")) else title)
             sub = "".join(f'<span class="sub">{e(c)}</span><br>' for c in credits[:3])
+            if slug == "southampton" and profile:
+                sub += f'<span class="sub"><a href="{e(profile)}" target="_blank" rel="noopener">Profile on techspressionism.com &#8599;</a></span><br>'
             reel = [r for r in p["reels"] if r["exhibition"] == slug]
             pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "REEL") for r in reel[:1])
             rows.append(f'<li class="rowitem"><div><strong>{link}</strong><br>{sub}</div>{pills}</li>')
@@ -1588,7 +1650,7 @@ def build_person_page(p):
         more = f'<details><summary>Show {len(rest)} more</summary><ul>{"".join(mrow(m) for m in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="mentions">Mentioned by others</h2><ul>{"".join(mrow(m) for m in first)}</ul>{more}'
                      f'<p class="note">Passages where a speaker names them in full ({len(ms)} in all, newest first). Only passages with an identified speaker are shown.</p>')
-    if not (p["speaks"] or p["mentions"] or p["exhibitions"]):
+    if not (p["speaks"] or p["mentions"] or exhibitions):
         parts.append('<p class="note">Nothing from the recordings yet. The details above come from the artist index on techspressionism.com.</p>')
     body = "\n".join(parts)
     head = build_header(NAV_CORPUS, "Artist")
@@ -1625,6 +1687,7 @@ main.person { max-width:52rem; }
 .artist-tools label { font-size:.95rem; }
 .azbar { display:flex; flex-wrap:wrap; gap:.15rem .7rem; justify-content:center; margin:0 0 .8rem; font-weight:700; }
 .azbar[hidden] { display:none; }
+#artist-list li[hidden], ul.sessions li[hidden] { display:none !important; }     /* the row styles set display:flex, which would otherwise override the hidden attribute (the filter box did nothing) */
 #artist-list li[id] { scroll-margin-top:5rem; }
 """
 
@@ -1912,7 +1975,7 @@ Every search result offers a ready-made citation with a Copy Citation button. Th
 <li><a href="data/recordings.csv">recordings.csv</a>: every recording with its title, dates, YouTube address and duration.</li>
 <li>Each transcript as plain Markdown: <code>transcripts/&lt;recording&gt;.md</code>, for example <a href="{e(transcript_md_href(example))}">{e(slug(example))}.md</a>.
 The recording pages link to theirs.</li>
-<li><a href="llms.txt">llms.txt</a>: a Markdown index of the archive for AI assistants and search tools. <a href="sitemap.xml">sitemap.xml</a> lists every page.</li>
+<li><a href="llms.txt">llms.txt</a>: a Markdown index of the archive for AI assistants and search tools.{' <a href="sitemap.xml">sitemap.xml</a> lists every page.' if canonical_base() else ''}</li>
 {f'<li>Permanent deposit with a DOI: <a href="https://doi.org/{e(SITE_CONFIG["zenodo_doi"])}">{e(SITE_CONFIG["zenodo_doi"])}</a>.</li>' if SITE_CONFIG.get("zenodo_doi") else ''}
 </ul>
 {f'<p>Reuse of the transcripts: <a href="{e(SITE_CONFIG["license_url"])}">{e(SITE_CONFIG.get("license_name") or "licence")}</a>.</p>' if SITE_CONFIG.get("license_url") else ''}
@@ -1988,6 +2051,9 @@ def main():
     NAV_CORPUS[:] = corpus
     load_people(corpus)
     SITE_DIR.mkdir(exist_ok=True)
+    global CSS_VERSION
+    css_text = STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS)
+    CSS_VERSION = hashlib.md5(css_text.encode()).hexdigest()[:8]
     (SITE_DIR / "style.css").write_text(STYLE + PERSON_CSS + ("" if SITE_CONFIG.get("show_search_filters") else HIDE_FILTERS_CSS) + ("" if SITE_CONFIG.get("show_type_pills") else HIDE_PILLS_CSS))
     for old in SITE_DIR.glob("*.html"):                     # the old .html addresses are gone
         if old.name != "index.html":

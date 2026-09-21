@@ -1120,7 +1120,7 @@ I'll let Tommy go. Are you still here, Tommy? Because he has to go to class at f
 
 ## Davonte Bradley [01:30:13](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5413s)
 
-Yeah. I'm not sure if my microphone's been working at all. So I'm just trying to It has not because this is the first time I've heard your voice.
+Yeah. I'm not sure if my microphone's been working at all. So I'm just trying to it has not because this is the first time I've heard your voice.
 
 ## Tommy Mintz [01:30:21](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5421s)
 

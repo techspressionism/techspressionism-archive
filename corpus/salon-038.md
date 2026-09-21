@@ -25,7 +25,7 @@ flags:
 
 So much. And Colin thanks for inviting me to come here today. And I think the, the subject I hope it's it's it's certainly related to technology and and and actually, my work is, I would say qualifies as a Techspressionist so we'll see some of that. The, the, the context of which I'm presenting is around.
 
-Publications, a three book series. And the third book is coming out. In the fall. So I'm going to do a screen share here. And there we go. See if we can get a Try to get a strategy one more time. Yeah, I'm losing my, my. Yeah, I'm losing my, my. We may have to go with this with this bottom is try one more time.
+Publications, a three book series. And the third book is coming out. In the fall. So I'm going to do a screen share here. And there we go. See if we can get a try to get a strategy one more time. Yeah, I'm losing my, my. Yeah, I'm losing my, my. We may have to go with this with this bottom is try one more time.
 
 Okay. This is the way we're rolling. So, um, the, the first book is is a project that I did in the Amazon in Brazil. And the project was called health of the planet, and was fortunate enough to have a few museum exhibitions around this subject one at the National Academy of Sciences. This is in Washington DC. And the idea was is if Brazil is the lungs of our planet. Then I would give the planet a kind of metaphorical checkup by taking x rays of the floor and bottom of the Amazon. And you might kind of wonder like like how does one get a book deal like this. And the fact is that it's a was a completely random set of circumstances. Okay. Where the publisher of this company, Glitterati, saw my work in a furniture store in Hudson, New York. So it can come at you ways that you would never predict.
 

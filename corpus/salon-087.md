@@ -20,7 +20,7 @@ flags:
 
 Hello. My name is Colin Goldberg, and today is Thursday, October 3, rd 2024. We are here at the what is it? 87th Salon. 87.Th Okay. Had to double check there. And this is a very special salon in that it is coinciding with an exhibition opening that is a collaborative show with the Museum of wild and newfangled art otherwise known as Mauna and we have the co-founders of the Museum here, who are the curators of the exhibition. Carrie Ann Shimsham and Joey Zaza and you know, the Techspressionist community and Mauna, I think, have a lot in common, philosophically, in terms of supporting artists and creating community. And I think it's going to be a really exciting exhibition. And I'm glad that you know, we're able to pull this collaboration together.
 
-It also serves the purpose of introducing a lot of the Techspressionist community artists to working on the blockchain to minting. And just general you know, kind of exposure to nfts in the blockchain, which I think is really important. And without further ado. I'm just gonna ask everyone who is not Sharing on their work actively, which would be basically everybody to To mute your microphones, and then I'll let Carrie Ann and Joey kind of explain the the general format for this salon, so I will hand the mic over to them.
+It also serves the purpose of introducing a lot of the Techspressionist community artists to working on the blockchain to minting. And just general you know, kind of exposure to nfts in the blockchain, which I think is really important. And without further ado. I'm just gonna ask everyone who is not Sharing on their work actively, which would be basically everybody to to mute your microphones, and then I'll let Carrie Ann and Joey kind of explain the the general format for this salon, so I will hand the mic over to them.
 
 ## Unattributed [01:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=111s)
 
@@ -48,7 +48,7 @@ Cari ann shim sham**: So this is our exhibition page, our splash page, our entra
 
 Cari ann shim sham**: and if you arrow or scroll down a little bit, there's a question mark that tells you the name of the work. Cari ann shim sham**: This is ornamental uncertainty, sequencing the patterns of peaceful coexistence by Galina Shevchenko. And if you want to go to the next work, you just click on this arrow to the right, and that takes you to the next.
 
-Cari ann shim sham**: So here you are inside of the work. You can mouse around and interact with this word. Cari ann shim sham**: So we actually installed Ross's piece into our site. Cari ann shim sham**: and again scrolling down, we have the question mark to show the name and the next arrow to get to the next work? Cari ann shim sham**: So that is our Cari ann shim sham**: so Cari ann shim sham**: site. Say again. Cari ann shim sham**: yeah. And then when there's an nft that's linked to the Associated artwork, you'll see that in the question mark. So this work happens to be minted Cari ann shim sham**: onto the object.Com site. So you can see the glb here and kind of mouse around, and it's available for purchase. There's a variety of different platforms that we're working with our exhibitions usually.
+Cari ann shim sham**: So here you are inside of the work. You can mouse around and interact with this word. Cari ann shim sham**: So we actually installed Ross's piece into our site. Cari ann shim sham**: and again scrolling down, we have the question mark to show the name and the next arrow to get to the next work? Cari ann shim sham**: So that is our Cari ann shim sham**: so Cari ann shim sham**: site. Say again. Cari ann shim sham**: yeah. And then when there's an nft that's linked to the associated artwork, you'll see that in the question mark. So this work happens to be minted Cari ann shim sham**: onto the object.Com site. So you can see the glb here and kind of mouse around, and it's available for purchase. There's a variety of different platforms that we're working with our exhibitions usually.
 
 Cari ann shim sham**: or on blockchain, such as ethereum and tezos, and anywhere the artist wants to mint, we're open to that. And of course, a lot of the works in our exhibitions are unminted as well. Our priority 1st is to be a place to exhibit art. Cari ann shim sham**: and the nfts have provided a good way Cari ann shim sham**: of allowing the artist to receive compensation for their work. So if you just click the question, mark, and you see a link that will bring you to the page where the work will be available for sale. If it is Cari ann shim sham**: so that's kind of how the exhibition works. On the mountain site. And now we're going to go over Cari ann shim sham**: into the loop space where everyone will be invited to talk about their work.
 
@@ -70,13 +70,13 @@ Cari ann shim sham**: with the Green Sun. Cari ann shim sham**: by Sahar Cari an
 
 ## Sahar Moussavi [13:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=836s)
 
-Yes, Hi! Everyone nice to see you all, and congratulations and thanks Kerry and Joey For your amazing efforts, and All the hard work. He did so about the Green Son. I 1st want to read my description about the Reed's Green son. And then talk a little about it. So I will read the description. The Green Sun, a dance of existence evokes a sense of isolation and resilience. Portraying the green-tinted sun as a silent guardian of the universe's grandeur and mystery.
+Yes, Hi! Everyone nice to see you all, and congratulations and thanks Kerry and Joey For your amazing efforts, and all the hard work. He did so about the Green Son. I 1st want to read my description about the Reed's Green son. And then talk a little about it. So I will read the description. The Green Sun, a dance of existence evokes a sense of isolation and resilience. Portraying the green-tinted sun as a silent guardian of the universe's grandeur and mystery.
 
 Below the sun a barren tree grows from a floating rock. This is a land where time seems to stand still. A place that feels both ancient and timeless Cut in a perpetual twilight Under the sickly green sun. That was my description about the Green Sun. So A foreign friend once told me that if every country or region Add an umbrella above it, the color of the umbrella over the Middle East, including my country, would be black. The essence of my artworks is rooted in hope and resilience.
 
 I mean, it's challenging times Drawing inspiration from the landscapes of the Middle East. Which have become Particularly gloomy and dark these days. I juxtaposed the region's darkness with symbols of Life and hope, like trees and blossoms. This contrast Reflects the current difficulties, and serves as a beacon of optimism, suggesting that even in the darkest moments Life and hope can still flourish, and I I encourage viewers to find the light within the shadows.
 
-Although the trip in this. Where the tree looks barren in this piece. But it may gradually thrive in the future. Thank you so much for presenting the art and Giving me time.
+Although the trip in this. Where the tree looks barren in this piece. But it may gradually thrive in the future. Thank you so much for presenting the art and giving me time.
 
 ## Unattributed [16:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=982s)
 
@@ -164,7 +164,7 @@ Cari ann shim sham**: Balance. Cari ann shim sham**: Would you like to talk abou
 
 Well, thanks again. Like, as everyone has said to Carrie Ann and Joey for organizing this. I mean already. What we've seen is really incredible. This is one of a series of works I've done where I've taken things. I've plants and different objects I find outside, and bring them in. Photograph them and sort of triangulate still life. Sort of feel. This one I Particularly love. The simplicity of it I tend to lean towards less is more when I'm doing these types of works.
 
-And so this one I call balance because Feel like I struck the right balance in terms of the composition and the The overall sense. I feel a sense of calm when.
+And so this one I call balance because feel like I struck the right balance in terms of the composition and the The overall sense. I feel a sense of calm when.
 
 ## Unattributed [29:00](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1740s)
 
@@ -194,7 +194,7 @@ Yeah, sure, I really love this format of this synony. By the way, thanks for gui
 
 Juice, vitamins, everything. And you see the same slide, the 3 It's a two-way sequence Acquisition, and what I always love is to express diversity, but also equality. In the same Moment you hear all these different colors which are crafted with radiology software. Exactly so. There's no filter or any other editing used. So it could be that this more towards the reality, because it's not modified, so to say. And also it is sort of gadish and color card inspired. But in the end it's not an abstract sport. It's very realistic, you see, a A very realistic impression of the TV, and we were fascinated by the kiva as well. I mean just the shape you see, the radiant like Could be a stun, could be an eye could be many other things. But we don't want to test the cure too much.
 
-So it gives very much room for interpretation in the end, what we see in the in the TV. And also it is a fruit that is Very equivocal in terms of attributes, so I think it could be both masculine or feminine. It doesn't matter, after all. But like this expresses this a bit In an attempt at least. And it's also there is a bit of a structure visible from the color which is predominantly with the blue ones on the lower and the back to the Side and the the black background TV as well. So it's not actually just a color noise As the other color charts will be.
+So it gives very much room for interpretation in the end, what we see in the in the TV. And also it is a fruit that is very equivocal in terms of attributes, so I think it could be both masculine or feminine. It doesn't matter, after all. But like this expresses this a bit In an attempt at least. And it's also there is a bit of a structure visible from the color which is predominantly with the blue ones on the lower and the back to the Side and the the black background TV as well. So it's not actually just a color noise As the other color charts will be.
 
 It's It's a bit washed out. You can see, maybe patterns in it For structures. But Yeah, after all, altogether, it's like It's very diverse, but also Equivalent. So the same. Yeah.
 
@@ -260,7 +260,7 @@ Cari ann shim sham**: Hi.
 
 ## Malavika Mandal Andrew [41:52](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2512s)
 
-Thank you, Mona, for organizing the beautiful exhibition. And, thanks to colleen at expressionism dot com because of you came to contact with Mona and All the tech specialist artists. My! The inspiration of my creation are the elements of life. And the idea of us. How we all are linked, dependent on each other as well as with the technology. The animals I never tried to draw or to create. But this particular section I never explored while playing with a scanned image of one of my drawing kam collage with title is We with the different tools of the adult Photoshop. I came across some unknown forms, and these forms were having a resemblance with the animal.
+Thank you, Mona, for organizing the beautiful exhibition. And, thanks to colleen at expressionism dot com because of you came to contact with Mona and All the tech specialist artists. My! The inspiration of my creation are the elements of life. And the idea of us. How we all are linked, dependent on each other as well as with the technology. The animals I never tried to draw or to create. But this particular section I never explored while playing with a scanned image of one of my drawing kam collage with title is we with the different tools of the adult Photoshop. I came across some unknown forms, and these forms were having a resemblance with the animal.
 
 So that's how the the form has come up, and I have given the title of all the meaning of all the titles are animal. It's in different language. I say, I have used a Japanese, or I've used Spanish, but the meaning of everyone is animal. I didn't try to give some identity because it looks similar. It's not that That's the we are developers. Thank you.
 
@@ -334,7 +334,7 @@ Cari ann shim sham**: Hi! You want to talk about nocturnal sprite.
 
 ## Cindy Hawkins [51:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3085s)
 
-Okay, first, st I just want to thank Colin and Carrie Ann and Joey and all the people involved. I can't even imagine the hours and days and everything, all of you put into Creating this space, and I just makes me want to cry. But I won't cry. Sprites! It's something I started working on a few years ago, and I looked they were just kind of fun to make, and I spent a lot of time I moved here. I'm coming from Terre Haute, Indiana, and I'm originally from California, so, as you know, was a big change, and I have. I'm lucky, and I call my backyard area my oasis. And there's all kinds of different kind of critters that I'm you not used to. Anyway, all kinds of things. And so I start making these things to be kind of like.
+Okay, first, st I just want to thank Colin and Carrie Ann and Joey and all the people involved. I can't even imagine the hours and days and everything, all of you put into creating this space, and I just makes me want to cry. But I won't cry. Sprites! It's something I started working on a few years ago, and I looked they were just kind of fun to make, and I spent a lot of time I moved here. I'm coming from Terre Haute, Indiana, and I'm originally from California, so, as you know, was a big change, and I have. I'm lucky, and I call my backyard area my oasis. And there's all kinds of different kind of critters that I'm you not used to. Anyway, all kinds of things. And so I start making these things to be kind of like.
 
 Combination of insects and animals. And. I called them sprites. And I thought, why am I calling them sprites? And I looked up definition for sprites, and you know they're kind of like fairies and all those kind of things. And then I came across this scientific Definition. And there's such a thing as sprites and actually also elves that happened on certain Thunder and lightning storms. And the the sprites are like reds. Red lines that come down, or something, I guess they're really hard to see.
 
@@ -354,7 +354,7 @@ Cari ann shim sham**: Thank you, Javier. We just saw that you're still on the zo
 
 ## Javier AparicioFrago [54:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3248s)
 
-Hi! Hi! Hi! Thanks for saying Calling me because I I was very glad to be here. But, as I told you yesterday. Hello, rehearschel, and thanks for For calling me, and have the opportunity to talk about my work. And this is this is a piece. It's a call from a series that is called Choreo scripts, that this is mixing The the human body movement, sometimes from choreography, from dancers. And mixing with writing systems. These writing systems are Taking from Alphabets or other kind of writing system that this is not already being used right now, almost haven't done it writing system. So it's a idea to combine some movements from the body, from the these alphabets, and this is the the main idea of the work.
+Hi! Hi! Hi! Thanks for saying Calling me because I I was very glad to be here. But, as I told you yesterday. Hello, rehearschel, and thanks for for calling me, and have the opportunity to talk about my work. And this is this is a piece. It's a call from a series that is called Choreo scripts, that this is mixing The the human body movement, sometimes from choreography, from dancers. And mixing with writing systems. These writing systems are Taking from Alphabets or other kind of writing system that this is not already being used right now, almost haven't done it writing system. So it's a idea to combine some movements from the body, from the these alphabets, and this is the the main idea of the work.
 
 ## Unattributed [55:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3316s)
 
@@ -436,11 +436,11 @@ Cari ann shim sham**: Tell us, tell us about this mark.
 
 ## Renata Janiszewska [59:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3560s)
 
-I'm speaking to you from Lion's Head in Canada, where the chill of autumn is in the air. Thank you so much to Carrie Ann, and to Joey. To Colin, to Tommy, to the other Techspressionists. I had a really Important moment In my work life when one of my works, called Sildavia, was purchased by Mauna, and I'd never heard of them, and I was Completely surprised by the acquisition by an institution. And that was several years ago, and since then I've been in several of their exhibitions.
+I'm speaking to you from Lion's Head in Canada, where the chill of autumn is in the air. Thank you so much to Carrie Ann, and to Joey. To Colin, to Tommy, to the other Techspressionists. I had a really Important moment In my work life when one of my works, called Sildavia, was purchased by Mauna, and I'd never heard of them, and I was completely surprised by the acquisition by an institution. And that was several years ago, and since then I've been in several of their exhibitions.
 
-And I must say that I was so happy to meet them, because they have so much integrity in what they do. And when I heard about this exhibition, actually, I was Part of sort of Getting the ball rolling on it. I had a lot of thinking to do about What kind of work I wanted to put in. And this work. Metaversal Madonna Cyber Saints. Is A reference to the triptychs of Northern European Renaissance. I have a lot of interest in that period of our history. In particular, there's 1 altarpiece called the Ghent Altarpiece, by Anne Van Eyck that made me want to do a triptych, and in real life These were paintings done on Panels of wood, with oil paint and the wings of the painting. So, in other words, the 2 Sides with the multiple faces Where the wings would have closed.
+And I must say that I was so happy to meet them, because they have so much integrity in what they do. And when I heard about this exhibition, actually, I was part of sort of getting the ball rolling on it. I had a lot of thinking to do about what kind of work I wanted to put in. And this work. Metaversal Madonna Cyber Saints. Is A reference to the triptychs of Northern European Renaissance. I have a lot of interest in that period of our history. In particular, there's 1 altarpiece called the Ghent Altarpiece, by Anne Van Eyck that made me want to do a triptych, and in real life These were paintings done on panels of wood, with oil paint and the wings of the painting. So, in other words, the 2 Sides with the multiple faces Where the wings would have closed.
 
-They would have been half the size that they are, and they would have closed to cover the front, the frontispiece of the altarpiece. And then, when it was time for people to come and Be at church and be in the mosque. They would open the wings, and the centerpiece would be there, usually at crucifixion. Not always so. That's the northern European part. Then the Southern European Renaissance. The Madonna was a very, very common subject. And I wanted to make a contemplative work for modern people a postmodern people, if you will.
+They would have been half the size that they are, and they would have closed to cover the front, the frontispiece of the altarpiece. And then, when it was time for people to come and be at church and be in the mosque. They would open the wings, and the centerpiece would be there, usually at crucifixion. Not always so. That's the northern European part. Then the Southern European Renaissance. The Madonna was a very, very common subject. And I wanted to make a contemplative work for modern people a postmodern people, if you will.
 
 Post-contemporary, as Joey would say. And so I used very muted colors. I tried to convey a feeling of stillness in the objects that are in the work. I also put in some iconography that has to do with the ocean with shells. And, for example. The 2 lines of. Of shapes that you see going down and mark off the 3 parts. Those were my Shelves, because that kind of iconography was very common in during during the Southern Renaissance period.
 
@@ -452,9 +452,9 @@ Cari ann shim sham**: Yummy. Cari ann shim sham**: I know you're floating around
 
 ## Tommy Mintz [01:03:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3786s)
 
-Floating around. I'm hoping to Experiment here, since we're using this Interesting. Platform that I think I'm familiar enough with, that I might be able to Share a screen of the process that I'm using to create. The work that you're looking at. So what that is is, that's a. Oh, sorry! Let me see if I can share right now. Oops. Is showing up on everybody's screen. Did I cast something? I don't know if I did it correctly. Sorry. Let's see. I'm just going to stop, anyway. I was hoping to show you right now. I have an image in process that I'm generating using a small program. I wrote that I call the automated digital photo collage, which takes a sequence of images that I photograph and compares them. Pixel by Pixel for what's different? Often what's moved. So in this image, I'm Viewing a crane that's lifting materials up for construction and. The form that's revealed by the cranes movement is this sort of fascinating flower, like tree-like Seemingly natural thing that I like to have here in this image, is sort of visually contrasted with the natural form of the trees elsewhere in the image. So that's something that I was thinking about in what I'm pointing my camera at and spending time observing. Yeah. So I also took note of Lee Musgrave quote of taking advantage of chance. And I think that's a big part of my work as well, where my process is sort of up to the chance of this dumb algorithm is not AI at all, you know, and what it. Has Noted as different to layer on top. I don't have a hand in the end, I just, you know, make the final choice of what to present as the final work. So this is.
+Floating around. I'm hoping to experiment here, since we're using this Interesting. Platform that I think I'm familiar enough with, that I might be able to share a screen of the process that I'm using to create. The work that you're looking at. So what that is is, that's a. Oh, sorry! Let me see if I can share right now. Oops. Is showing up on everybody's screen. Did I cast something? I don't know if I did it correctly. Sorry. Let's see. I'm just going to stop, anyway. I was hoping to show you right now. I have an image in process that I'm generating using a small program. I wrote that I call the automated digital photo collage, which takes a sequence of images that I photograph and compares them. Pixel by Pixel for what's different? Often what's moved. So in this image, I'm Viewing a crane that's lifting materials up for construction and. The form that's revealed by the cranes movement is this sort of fascinating flower, like tree-like Seemingly natural thing that I like to have here in this image, is sort of visually contrasted with the natural form of the trees elsewhere in the image. So that's something that I was thinking about in what I'm pointing my camera at and spending time observing. Yeah. So I also took note of Lee Musgrave quote of taking advantage of chance. And I think that's a big part of my work as well, where my process is sort of up to the chance of this dumb algorithm is not AI at all, you know, and what it. Has Noted as different to layer on top. I don't have a hand in the end, I just, you know, make the final choice of what to present as the final work. So this is.
 
-Yeah, I think that's what I wanted to say. Thanks for thanks for everything. And really I do want to say one more thing, beautiful space that you generated here. Really, I love the method of Exploring curatorial process within this virtual space, and whether it's indoor or outdoor around the bushes hanging free. This is really lovely. Thank you so much for including.
+Yeah, I think that's what I wanted to say. Thanks for thanks for everything. And really I do want to say one more thing, beautiful space that you generated here. Really, I love the method of exploring curatorial process within this virtual space, and whether it's indoor or outdoor around the bushes hanging free. This is really lovely. Thank you so much for including.
 
 ## Unattributed [01:05:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3955s)
 
@@ -474,7 +474,7 @@ Yeah, sure, I'm Larry Acres, speaking from Austin, where we're still enjoying su
 
 And it's intended actually for creating layered images where a background geometric image is printed on. I can eliminate aluminum material. And then a complementary image is printed on semi-transparent acrylic and then layered so that when mounted one over the other. They create a sculpture that's that's highly kinetic and interactive. And and as you move around the piece, it really responds To your movements and and allows you to have a personal interaction.
 
-This is actually a snapshot of the collapsing of those 2 layers just into one digital image. But in doing the series of these, whereas I approached it purely as a, you know, work of geometric abstraction. What I discovered was that I was wandering into A set of different earthbound environments, you know, like an undersea or a deep aquatic environment, or Deep forest, or or there were other areas that were more like seared Landscapes, or even landscapes being consumed In an inferno, you know, suggested by, you know, our global warming problems. So it was really an interesting kind of crossover from from that that Really purely geometric world into an abstract world that was earthbound. And and I've had a lot of fun with that.
+This is actually a snapshot of the collapsing of those 2 layers just into one digital image. But in doing the series of these, whereas I approached it purely as a, you know, work of geometric abstraction. What I discovered was that I was wandering into A set of different earthbound environments, you know, like an undersea or a deep aquatic environment, or deep forest, or or there were other areas that were more like seared Landscapes, or even landscapes being consumed In an inferno, you know, suggested by, you know, our global warming problems. So it was really an interesting kind of crossover from from that that Really purely geometric world into an abstract world that was earthbound. And and I've had a lot of fun with that.
 
 ## Unattributed [01:08:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4118s)
 
@@ -508,7 +508,7 @@ I'm honored to be here. It's been great to be seeing all this work. Thank you, a
 
 And this piece was created in Macro, media director and Photoshop layers. And it's really taking the bar chart and just making a complete nonsense of the whole system. And it is an animated piece. It's really never been shown. I just rolled this up. It was on a CD. For years, and I just rolled this up with my working with my 25 year old programmer, who I've never met. But we work on zoom together. He's in Illinois. This whole space is so fascinating. I hope I don't know if I'm at 2 min. But basically, if you go into worldsgreatestbarchard.Com that has just been relaunched. Oh, is there a link that would be great, and you will. You can click on the outside crazy little icons, and you'll get different. It's a masterpiece of audio as well, I have to say, for Carmen Borgia, who also worked with me. I always work with a small team.
 
-But you go into the noses and you can go into the water. And all these crazy images come up and flags and and audio, and you can mix 2 audios together By by using your cursor. And it's just it's just a lot of fun. And I think it's still very relevant today in our our World, where you know, the 1% of the United States sounds like 95% of All the goods. And you know, it's it speaks to that in its own nonsensical way, and it also relates to my diamondscapes, which are now.
+But you go into the noses and you can go into the water. And all these crazy images come up and flags and and audio, and you can mix 2 audios together By by using your cursor. And it's just it's just a lot of fun. And I think it's still very relevant today in our our World, where you know, the 1% of the United States sounds like 95% of all the goods. And you know, it's it speaks to that in its own nonsensical way, and it also relates to my diamondscapes, which are now.
 
 You know, we didn't have the same technology. But Macromedia was great. But it's I'm doing the kind of same thing. Almost all my work are are still paintings that exist as a still painting, but they're also A place where you can dive into that painting. Anyway. Enjoy and thank you, Mauna. It's great to be in the Mounta Metaverse here with My favorite tech group art of artists. Techspressionism. Thank you so much.
 
@@ -542,7 +542,7 @@ Cari ann shim sham**: Hi.
 
 ## Leeee Sznajberg [01:15:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4512s)
 
-Thanks so much for doing this show Arianne and Joey and everybody to Expressionism is a group I'm very fond of, and I'm in awe of being a part of. Because everybody's smart and very talented and can use. I'm not that great with all that stuff, but I I like to Play with technologies. And and this, like most of my stuff, is is really just messing with the algorithm Panorama out. And the thing that I thought was really interesting. About about a year ago I started finding all these grills, and in the bottom there you can see if you zoom in. There's a old waffle, iron Bars of steel, just stuff that was in my backyard like underneath these vines, and all this stuff was like Sitting there, and I could have just gathered it up and Tossed it in the recycling, and hoped that some of it would actually get recycled.
+Thanks so much for doing this show Arianne and Joey and everybody to Expressionism is a group I'm very fond of, and I'm in awe of being a part of. Because everybody's smart and very talented and can use. I'm not that great with all that stuff, but I I like to play with technologies. And and this, like most of my stuff, is is really just messing with the algorithm Panorama out. And the thing that I thought was really interesting. About about a year ago I started finding all these grills, and in the bottom there you can see if you zoom in. There's a old waffle, iron Bars of steel, just stuff that was in my backyard like underneath these vines, and all this stuff was like Sitting there, and I could have just gathered it up and Tossed it in the recycling, and hoped that some of it would actually get recycled.
 
 And I was like. Well, there's really strong verticals and strong parallels. There's the waffle iron. It's from the fifties Crazy stuff, and it's a throwaway society. And this stuff was thrown away. So I was thinking like, well, like, you know, with Duchamp. Another part of this whole area in the detris dutritus is old bicycle that's been cannibalized over years. So I've been doing this included that in this series, too. But so all this stuff is is throwaway. And it was it was mined it was taken, and what I try to do with this stuff.
 
@@ -650,7 +650,7 @@ Cari ann shim sham**: Grenada. Cari ann shim sham**: tell us about your work.
 
 ## Verneda Lights [01:26:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5171s)
 
-Well, 1st let me thank you so much for Inviting me and involving me in this Wonderful exhibit. I've so much enjoyed Seeing everyone work. This is my artwork Entitled Jesus with white hair and Diving into my artistic journey. I'm excited to introduce my One of my latest digital paintings uses white hair measuring 28 by 28 inches. This piece marks another chapter. In my exploration of religious iconography and its modern day implications. Jesus, with white hair, vividly Captures a stylized.
+Well, 1st let me thank you so much for Inviting me and involving me in this Wonderful exhibit. I've so much enjoyed Seeing everyone work. This is my artwork Entitled Jesus with white hair and Diving into my artistic journey. I'm excited to introduce my one of my latest digital paintings uses white hair measuring 28 by 28 inches. This piece marks another chapter. In my exploration of religious iconography and its modern day implications. Jesus, with white hair, vividly Captures a stylized.
 
 Abstract portrait of a contemplative face of the Messiah. Composed of geometric shapes, and rendered with a warm color palette. Each segment and curve of the design. Interlocks Create a new mosaic like Colors, range from rich brown to set up beams and golds. Offering a sense of depth and harmony that blends abstraction with realism. The facial features, detailed and expressed convey a profound sense of solemnity and introspection Drawing inspiration from my Jesus Christ the 1st Avengers Series.
 
@@ -694,7 +694,7 @@ The grid is turned into a 3D. Grid with a Z coordinate. Think of a chess board, 
 
 Which is the angle of slope of the Great Pyramid of Giza. It began with 545, 3D. Pixels, forming a complete 4 sided pyramid. But I removed 64, 3D. Pixels from each of the 4 corners, giving it a distinctive eight-sided shape. Movement, and light are the forces that bring quadramid to life. Shadows cast by virtual sunlight, delineate its forms and reveal its colors. The work moves like a ballet floating in space in a black void. Turns and twists, revealing its multiple facets and color optics. It has no preferred vantage point. Multiple points of view are necessary to fully understand it.
 
-And I would just like to add to that that my background. I was an architect. For 20 years I practiced architecture for 20 years, but I have a spine disease, a rare spine disease that Ended up fusing almost my entire spine. I cope with chronic debilitating pain, and I find Working in the virtual 3D. Space of 3D. Apps is a Just, an amazing escape. You kind of get totally immersed in what you're doing. And you the world dissolves Away, the pain dissolves, and I get lost in a plane where pain does not live. So I know there's a lot of other disabled people that use technology in creating art. And it's a real blessing that we're living in a time when we have this ability to use technology to help us cope with challenges that we face in our lives. Thank you for allowing me to share my work.
+And I would just like to add to that that my background. I was an architect. For 20 years I practiced architecture for 20 years, but I have a spine disease, a rare spine disease that Ended up fusing almost my entire spine. I cope with chronic debilitating pain, and I find Working in the virtual 3D. Space of 3D. Apps is a just, an amazing escape. You kind of get totally immersed in what you're doing. And you the world dissolves Away, the pain dissolves, and I get lost in a plane where pain does not live. So I know there's a lot of other disabled people that use technology in creating art. And it's a real blessing that we're living in a time when we have this ability to use technology to help us cope with challenges that we face in our lives. Thank you for allowing me to share my work.
 
 ## Unattributed [01:36:14](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5774s)
 
@@ -708,7 +708,7 @@ Cari ann shim sham**: And we have you cut. Cari ann shim sham**: by Max is Max h
 
 Cari ann shim sham**: Yeah, Max, if you're trying to talk, I think you're muted.
 
-## Max Dalí Kamilla Kulova [01:37:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5845s)
+## Max Dalí / Kamilla Kulova [01:37:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5845s)
 
 Hi! I'm Juan.
 
@@ -716,13 +716,13 @@ Hi! I'm Juan.
 
 Cari ann shim sham**: I'm Max.
 
-## Max Dalí Kamilla Kulova [01:37:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5849s)
+## Max Dalí / Kamilla Kulova [01:37:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5849s)
 
 Thank you.
 
 I'm actually from the world. Notes that I'm leaving.
 
-And these are His artwork. Quantum journey is a. It's part of a collection Called Phantom Brain and. The collection in general talks about something. I was waiting for a long time. And I mean. The moment when science is getting closer to the magic. The quantum theory That's a Give this. He is a Border between magic. There's an unexplicable and. Can be explained now by By fire. That's correct. These artwork in a specific way. Called the Phantom Journey. It's a walk Through interdimensional work.
+And these are his artwork. Quantum journey is a. It's part of a collection Called Phantom Brain and. The collection in general talks about something. I was waiting for a long time. And I mean. The moment when science is getting closer to the magic. The quantum theory That's a Give this. He is a border between magic. There's an unexplicable and. Can be explained now by by fire. That's correct. These artwork in a specific way. Called the Phantom Journey. It's a walk Through interdimensional work.
 
 Retirement phase. The lines. The lines that are so Are. Remember, remember the strength of the The Pinktails. So we have the opportunity to explain The power of our souls here. And our ability of 8, 6 Science and and prediction. Through Science. Now, so the border between the Unexplicable and the science. It's coming closer, and it's going to give. Out of faith. To give.
 
@@ -732,9 +732,9 @@ Sign on something that People and think is only part of imagination. That's all.
 
 Cari ann shim sham**: Thanks.
 
-## Max Dalí Kamilla Kulova [01:40:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6036s)
+## Max Dalí / Kamilla Kulova [01:40:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6036s)
 
-And I hope to be able to Exhibit more with you. Thanks very much.
+And I hope to be able to exhibit more with you. Thanks very much.
 
 ## Unattributed [01:40:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6044s)
 
@@ -742,7 +742,7 @@ Cari ann shim sham**: Thank you so much. Cari ann shim sham**: Wonderful work. C
 
 Cari ann shim sham**: Endangered species is the name of the collection. Cari ann shim sham**: and this is black, double rubber, ducky. Cari ann shim sham**: and this is minted to the Tezos blockchain, so Cari ann shim sham**: you can get one Cari ann shim sham**: for yourself.
 
-## Max Dalí Kamilla Kulova [01:41:31](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6091s)
+## Max Dalí / Kamilla Kulova [01:41:31](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6091s)
 
 I forgot to say that the collection is available on foundation. Thank you very.
 
@@ -752,9 +752,9 @@ Cari ann shim sham**: Oh, thank you, thank you, thank you. You can drop the link
 
 ## Ann Shapiro [01:41:50](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6110s)
 
-Unmute my audio and unmute my video. I'm suffering from a cold. So I've tried to stay In the background. 1st of all. I want to thank the 2 of you, Carrie Ann and Joey, so very much for this opportunity, and Joey a little, especially since he encouraged me, I said. I don't have an nft. Don't know how to do it, he said. No, no, you can still Still participate, so I'm delighted to. So I keep. I work mainly in climate change, but I keep what I call a daily diary, which is neither daily nor diary but it allows me to Get off. The whatever is in my head at the moment is what is what comes out.
+Unmute my audio and unmute my video. I'm suffering from a cold. So I've tried to stay In the background. 1st of all. I want to thank the 2 of you, Carrie Ann and Joey, so very much for this opportunity, and Joey a little, especially since he encouraged me, I said. I don't have an nft. Don't know how to do it, he said. No, no, you can still Still participate, so I'm delighted to. So I keep. I work mainly in climate change, but I keep what I call a daily diary, which is neither daily nor diary but it allows me to get off. The whatever is in my head at the moment is what is what comes out.
 
-And Normally I keep. I must have responded myself to? Is it because I normally keep things by date? Because they number probably at this point in the thousands. It's just there's no message here other than what I'm thinking at the moment, which, Heaven knows. This looks a little scary, and I'm so happy to participate in this and to What happened. Thank you so very much.
+And Normally I keep. I must have responded myself to? Is it because I normally keep things by date? Because they number probably at this point in the thousands. It's just there's no message here other than what I'm thinking at the moment, which, Heaven knows. This looks a little scary, and I'm so happy to participate in this and to what happened. Thank you so very much.
 
 ## Unattributed [01:43:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6196s)
 
@@ -764,7 +764,7 @@ Cari ann shim sham**: We have Queen of Monsters, by Michael Pierre Price.
 
 ## Michael Pierre Price [01:43:31](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6211s)
 
-Hi, thanks. It's pretty amazing thinking how far these salons have come. I've been fortunate to be Part of these since number 3. So it's it's pretty amazing. This piece is an experimental piece. I've been using AI to combine Several styles of my own artwork, mixing fractals With some of my surrealist work, and some of my abstract work and queen of Monsters refers to basically a period of time a hundred years ago, or a little bit more when there were revolutionary things going on.
+Hi, thanks. It's pretty amazing thinking how far these salons have come. I've been fortunate to be part of these since number 3. So it's it's pretty amazing. This piece is an experimental piece. I've been using AI to combine Several styles of my own artwork, mixing fractals With some of my surrealist work, and some of my abstract work and queen of Monsters refers to basically a period of time a hundred years ago, or a little bit more when there were revolutionary things going on.
 
 Not only in the art world, but especially in the areas of mathematics. Physics. The onset of Einstein's theories and quantum mechanics. The underpinnings of fractals were beginning at that point, even though it would take decades before fractals became something mathematically possible through the use of computers. And this piece for me is that is, that spirit. The queen of monsters is the spirit that as human beings we tap into when there are revolutionary changes in thought.
 
@@ -796,7 +796,7 @@ Cari ann shim sham**: Yes.
 
 ## Nina Sobell [01:47:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6426s)
 
-Hi, I just wanted to say thank you. Thank you very much to Carrie Ann and Joy, whom I just met In real life last Wednesday, at the closing of the expressionist. Hello, Brooklyn Show with Colin. We spoke, and it was very, very nice meeting them. Delighted to Get to know them better. I saw them at the opening, but I really got to talk to them there last Wednesday, and I just want to say I used the Camera like a microscope, focusing in as far as possible to make visible the invisible.
+Hi, I just wanted to say thank you. Thank you very much to Carrie Ann and Joy, whom I just met In real life last Wednesday, at the closing of the expressionist. Hello, Brooklyn Show with Colin. We spoke, and it was very, very nice meeting them. Delighted to get to know them better. I saw them at the opening, but I really got to talk to them there last Wednesday, and I just want to say I used the Camera like a microscope, focusing in as far as possible to make visible the invisible.
 
 Revealing a reality within The process of searching into our mind as into our subconscious. Our realm of the creative process. This work investigates the immediacy of the moment in a consulted state of mind, spontaneously generated imagery Appearing without conventional discourse, but with a nonverbal fluid thought process.
 
@@ -942,7 +942,7 @@ I'm here. Well, I'm so thankful to be included in this exhibition. It's so amazi
 
 So yeah, this this piece I was so I was so mesmerized when I saw it like soaring in the cathedral. It's part of actually, like a bigger Virtual space that I made that's called ornamental uncertainty sequencing the patterns that people have my parrot screaming on the background. And so the space that I made I did last November. Then. Like all this conflict, we're emerging, and in the midst of like Russian Ukrainian conflict. And I'm Like a former Russian citizen with a Ukrainian root. And last name. So, and you see these people that are very close together, like tearing each other apart like Armenians. And I take a Chinese, Arabs and heroes, Ukrainians and Russians. So I wanted to create this sort of sanctuary.
 
-Beautiful, steepest, steady game falling for contemplation, non action. And this is my virtual spaces out, and it's 1 of the monsters that exhibits it. That kind of exemplifies this Humidity and welcoming humidity and. Awesome Hoping Love so. And it's very digital, but it's also Very tangible to me. So it's an animated gift, and the space is such a beautiful place for it when it can just Door, and you could see the delineation of it and its expression, and Repeat your wife.
+Beautiful, steepest, steady game falling for contemplation, non action. And this is my virtual spaces out, and it's 1 of the monsters that exhibits it. That kind of exemplifies this Humidity and welcoming humidity and. Awesome Hoping Love so. And it's very digital, but it's also Very tangible to me. So it's an animated gift, and the space is such a beautiful place for it when it can just Door, and you could see the delineation of it and its expression, and repeat your wife.
 
 Hoping for Excuse me, wow! Thank you.
 

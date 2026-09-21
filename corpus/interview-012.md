@@ -413,7 +413,7 @@ Remember it well. Yep.
 
 ## Gregory Little [20:21](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1221s)
 
-And detail. I was working with some DNA software. I was basically taking protein sequences and modeling them in Maya and converting the numbers to coordinates and things like that. So later projection project done also in Blitz 3D called Birds of Ohio. And then I was working with a 3D modeler called the This is the most basic 3D modeler I've ever
+And detail. I was working with some DNA software. I was basically taking protein sequences and modeling them in Maya and converting the numbers to coordinates and things like that. So later projection project done also in Blitz 3D called Birds of Ohio. And then I was working with a 3D modeler called the this is the most basic 3D modeler I've ever
 
 ## Patrick Lichty [21:03](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1263s)
 

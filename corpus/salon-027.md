@@ -283,7 +283,7 @@ You all you got my. Essentially my artistic journey from childhood to now, as we
 
 I think I saw some questions earlier. In the chats. Let me stop sharing my screen so I can properly. Also yeah that that link there will take you directly to the Amazon page, if you're watching this after the fact. It's a bit. All right. Okay, we're good. I see I see. Thank you. Thank you so much. My wife is also applauding because she's also she's so supportive like that.
 
-Okay. Yeah, that's me. That's my story. That's, that's why I'm here. I'm scrolling back up through the comments because I'm sure I missed some things. I don't know. Okay. There's a lot of comments. Jeez. Okay. Oh, I had a Live comment that really enjoyed really enjoyed your presentation. It was really awesome to see the development of your work.
+Okay. Yeah, that's me. That's my story. That's, that's why I'm here. I'm scrolling back up through the comments because I'm sure I missed some things. I don't know. Okay. There's a lot of comments. Jeez. Okay. Oh, I had a live comment that really enjoyed really enjoyed your presentation. It was really awesome to see the development of your work.
 
 Really enjoyed it. And I, and I love your book I acquired a copy. Well thank you. And recommend it. So, excellent. Keep, keep doing what you're doing, and let it flourish and develop. Thank you. Trying to. I know, I knew there was somebody that asked a question I'm trying to find it, and I think. Yeah.
 

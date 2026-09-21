@@ -42,7 +42,7 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 4560
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: null
     start: 4705
   - name: Paul Kroner
@@ -248,7 +248,7 @@ Same thing with the technology. It's a lot of things that are generated based on
 
 Your two cents are very appreciated. I'm going to put it in my jar. All right. Cynthia.
 
-## Cynthia DiDonato [01:18:25](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=4705s)
+## Allen Hirsh [01:18:25](https://www.youtube.com/watch?v=M3lz4NxC8N4&t=4705s)
 
 Hi, everyone. I think it's a wonderful discussion. And I just have a few things that I want to say. First of all, I'm all for artists using AI. I don't have a problem with that. In fact, a lot of the softwares we use involve AI. So we should, I suppose, understand better than anyone else the fact that we manipulate and so forth.
 

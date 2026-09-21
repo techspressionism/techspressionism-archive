@@ -29,7 +29,7 @@ flags:
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3s)
 
-Hello! My name is Colleen Goldberg, and I am here. At the seventy-seventh rush and salon Today is December seventh, 2023, and I'm zooming in from North Beddington, Vermont. The topic of today's salon is sculpture which is related to not only physical sculpture, but anything that could be considered sculptures such as Objects in a virtual space. And I'm gonna open up briefly with a little kind of intro on social sculpture, and tonight's or today's presenting. Artists are Steve Miller and Suzanne Anker both of whom I know from Long Island and no for quite a while, and they're gonna talk about sculptural work within their own practices.
+Hello! My name is Colleen Goldberg, and I am here. At the seventy-seventh rush and salon Today is December seventh, 2023, and I'm zooming in from North Beddington, Vermont. The topic of today's salon is sculpture which is related to not only physical sculpture, but anything that could be considered sculptures such as objects in a virtual space. And I'm gonna open up briefly with a little kind of intro on social sculpture, and tonight's or today's presenting. Artists are Steve Miller and Suzanne Anker both of whom I know from Long Island and no for quite a while, and they're gonna talk about sculptural work within their own practices.
 
 So without further ado, I'm just gonna open it up as far as this idea goes, you know. Really, I do not make Sculpture per se. But I tend to like to think of text freshmen as a social sculpture. That is you know, the idea of social sculpture is something that I was introduced to by one of the artists in the group Named Joseph Macfittal, and I was doing a project back in the late nineties called Ever Beta, which is still the name of my my studio and at that point, and the idea with ever beta is it is constantly changing, like the web is always in Beta, so it's morphed into various iterations. But at that point it was a a content network. And at that point also everyone was on dial up and there was not an audience for it, but it was.
 
@@ -37,9 +37,9 @@ I would say, something that provided a structure for the way Techspressionism is
 
 And he created this term basically to embody his understanding of arts potential to transform society. So as a work of art, a social sculpture includes human activity that strives to structure and change society or the environment. So the central idea of a social sculptor is an artist to create structures in society, using language, thoughts, actions, and objects. And As this sort of project called Techspressionism, grew from just a term that I used to describe my own work back in 2,011, and in 20, I think, 2,021. It started as an artist group with myself, Steve Miller, OS. Van Rosen, Patrick Lichty, and Helen Harrison as our advisor.
 
-We kind of started formulating the goals of the project, and when I think about it as a piece of art, it actually feels the most comfortable. That is you know, something that's open, ended, participatory and essentially collaborative, you know. And I think the idea of a social sculpture is very fitting. So anyone that wants to Build out something from it the way say, Tommy is creating a show in Brooklyn this summer, or Renata and Tommy and a bunch of other artists are creating Siberiana, which is a virtual environment or environment built within Moselle hubs, you know, that's starting with the community. And so on and so forth. Each one of these ideas branching off to me like, you know, is sort of an armature where it can evolve in A decentralized way. And I think that's pretty interesting. So that's just my. You know, my opening to this topic of social sculpture, since that's the way that I think I might be able to relate to this idea a little bit. But I'm gonna open it up by introducing our first featured artists.
+We kind of started formulating the goals of the project, and when I think about it as a piece of art, it actually feels the most comfortable. That is you know, something that's open, ended, participatory and essentially collaborative, you know. And I think the idea of a social sculpture is very fitting. So anyone that wants to build out something from it the way say, Tommy is creating a show in Brooklyn this summer, or Renata and Tommy and a bunch of other artists are creating Siberiana, which is a virtual environment or environment built within Moselle hubs, you know, that's starting with the community. And so on and so forth. Each one of these ideas branching off to me like, you know, is sort of an armature where it can evolve in A decentralized way. And I think that's pretty interesting. So that's just my. You know, my opening to this topic of social sculpture, since that's the way that I think I might be able to relate to this idea a little bit. But I'm gonna open it up by introducing our first featured artists.
 
-Who is Steve Miller? Steve was born in 1951 in Buffalo, New York, and he's a multimedia artist who makes paintings, screen prints, artists, books, and sculptures, and through his art he explores the influence of science and technology on modern culture. According to Wikipedia. According to Colin, Steve is the person that I was a studio assistant for 30 years ago, and Basically learn silk screen printing how to clean silk screens, met tons of interesting people in a studio. But I think most importantly, I saw the inside of a working studio for the first time, which was very revelatory, and something that I wasn't able to experience. As an undergraduate student.
+Who is Steve Miller? Steve was born in 1951 in Buffalo, New York, and he's a multimedia artist who makes paintings, screen prints, artists, books, and sculptures, and through his art he explores the influence of science and technology on modern culture. According to Wikipedia. According to Colin, Steve is the person that I was a studio assistant for 30 years ago, and basically learn silk screen printing how to clean silk screens, met tons of interesting people in a studio. But I think most importantly, I saw the inside of a working studio for the first time, which was very revelatory, and something that I wasn't able to experience. As an undergraduate student.
 
 You know, my professors were people that I saw inside the Art Building never really saw what they were doing the rest of the time. So I learned a lot from Steve. One of the main things was. He was not in the artist, in the, in the studio, making work all the time, as many people think. This is what a you know, practicing artist does. He was actually. You know, many days of the week sending out slides back when people use slides making phone calls, doing, you know all of the other stuff. And then the actual printing and making art was, you know, the that was the fun part. So it it opened my eyes to like the reality of what this requires, and also, you know, was great opportunity to be in a fantastic space. Renovated potato barn that used to be owned by Frank Stella.
 
@@ -67,7 +67,7 @@ Fit the screen. Right? Okay, there we go. And it was a project at Longhouse in E
 
 Print them on glass, slip them, and do a sheet of steel, and and that's you know how I got started on this project. And then I put them in different environments. This is in Times Square, in somebody's office again. I'd had this project called Health of the Planet, and the idea was. If the Amazon were the lungs of the planet. I would have this project where I would go down to Brazil X. Ray the plants and animals of the Amazon. And do this metaphorical checkup for, you know, for the benefit of the earth. And and this These sculptures I also did some sculptures which involve books, because I'm a bibliophile.
 
-This image on the left is actually from the Atlantic rainforest. Those are Amazon leaves from the Atlantic. Rainforest Started still screening into books about nature about the Amazon, and started making these book sculptures. So these are just different pages of the book. So I still screened on every page of the book, and you could Change the book. You could Pull it out from the glass, and Kind of make a different composition each time you flip the pages.
+This image on the left is actually from the Atlantic rainforest. Those are Amazon leaves from the Atlantic. Rainforest Started still screening into books about nature about the Amazon, and started making these book sculptures. So these are just different pages of the book. So I still screened on every page of the book, and you could change the book. You could pull it out from the glass, and kind of make a different composition each time you flip the pages.
 
 So this is an X-ray python again using those. I embedded those Amazon plants into the glass, and you know you can change the pages and open the book up. And you know part of my thinking was that you could always be refreshing your eyes. So if you got tired of looking at something, and you'd have this reference to you know the land of what was going on, as well as keeping your eye brush about the environmental issues that I thought were really important.
 
@@ -85,7 +85,7 @@ So some of the images you see earlier. But now outdoors, you know, the glass can
 
 And that was working with surfboards and skate decks. And I also like the idea that if you're moving around on a skate deck, you're actually kind of, you know, moving back and forth like a the way a snake might move. So this is a a pair, sir, of skate decks that I did for a company as a limited edition. And then I started doing unique versions, using the Amazon images is actually an X-ray of a pineapple and Amazon fur ferns from the jungle. Kind of a group that I saw as a trip tick on the left. You have banana flowers. Believe it or not. If you look at the very bottom of the board, you see these sort of Groupings of small bananas before the flower has been actually pollinated. That's what they look like in these small bunches.
 
-And we were going to into the Amazon, going to the river getting Amazon River fish. And I was doing this in Belen, which is the northern mouth of the Amazon, was lucky enough to get a fresh water stingray, which was illegally poached. But I met the poachers, and they had a huge warehouse of Live this, and and by the way, the poachers. I was taken to the poacher warehouse by the head of the aquarium in Beland. So the boundaries and all this is something interesting. The aquarium was closed because of funding possibilities problems. And then the head of the aquarium took me to the poacher.
+And we were going to into the Amazon, going to the river getting Amazon River fish. And I was doing this in Belen, which is the northern mouth of the Amazon, was lucky enough to get a fresh water stingray, which was illegally poached. But I met the poachers, and they had a huge warehouse of live this, and and by the way, the poachers. I was taken to the poacher warehouse by the head of the aquarium in Beland. So the boundaries and all this is something interesting. The aquarium was closed because of funding possibilities problems. And then the head of the aquarium took me to the poacher.
 
 Warehouse, and and I wanted one of the sting rays to X ray. They said no way. While I was there in Belam one died in captivity, so they brought it to me, and we X. Rayed it that evening. From the Zoo. In Vailam we had live juvenile alligators that we fed through an X-ray machine, and I thought this was how the sculpture project was surpord started. I was thinking, like people, stuff alligators and make them trophies. And while this is made of plastic, I thought it was an interesting concept To make a kind of less. You know, we didn't kill the animal in this case. So my version of the Eco trophy and you see surfboards and almost everyone's houses, you know, especially in Rio and in the coastal communities, surfing is just a a major activity. So again, these are the fresh water stingrays from the Amazon River.
 
@@ -157,7 +157,7 @@ There, there's an intimacy to books.
 
 ## Steve Miller [27:30](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1650s)
 
-I'm I'm I'm I make so many crazy books. II make literally 100. So this the the real story about the books was I was making these books they were taking, you know, months, if not years, to print, and people would look at the books, and they go like, oh, it's a book. It should be $100, right? And there's no way that you can Come any kind of value system based on you holding that book and thinking it's worth 3 or $4,000, for example. So I said, Well, I wonder if I could put the book at a sculpture, you'd be buying the sculpture, not the book.
+I'm I'm I'm I make so many crazy books. II make literally 100. So this the the real story about the books was I was making these books they were taking, you know, months, if not years, to print, and people would look at the books, and they go like, oh, it's a book. It should be $100, right? And there's no way that you can come any kind of value system based on you holding that book and thinking it's worth 3 or $4,000, for example. So I said, Well, I wonder if I could put the book at a sculpture, you'd be buying the sculpture, not the book.
 
 So I started thinking, Okay, I can make these sculptures. Now you're getting steel. You're getting glass. And you're getting this active experience. And so it was really an artist way to increase the price point for the effort involved. But that's that's the the hidden story behind. Invention.
 
@@ -257,7 +257,7 @@ It's true. And and now we, we even have rocks that are in e encrusted in plastic
 
 ## Michael Price [52:27](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3147s)
 
-Wow, Suzanne, brilliant, totally totally awesome presentation. I I'm fascinated with the Way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve will will appreciate where I'm coming from To the the micro scale of quantum mechanics and and looking at The mathematics involved. And I was curious, and I if I missed this. I apologize. But We're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a a curiosity for me is Looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or or if I missed that. And I apologize.
+Wow, Suzanne, brilliant, totally totally awesome presentation. I I'm fascinated with the way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve will will appreciate where I'm coming from To the the micro scale of quantum mechanics and and looking at The mathematics involved. And I was curious, and I if I missed this. I apologize. But We're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a a curiosity for me is looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or or if I missed that. And I apologize.
 
 ## Suzanne Anker [53:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3218s)
 
@@ -321,7 +321,7 @@ And there are a lot of images on my website about that in which I packed a numbe
 
 ## Lee Musgrave [01:00:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3615s)
 
-One of the things that fascinated me about that stuff, even though I was very young, was that Different colors reacted differently in terms of the shapes they would take and How long they would last. And also the strength of the colour itself. The the colors, different colors would fade at a different rate than other colors would fade. The amount of Organic looking detail Would differ greatly from one color to another.
+One of the things that fascinated me about that stuff, even though I was very young, was that Different colors reacted differently in terms of the shapes they would take and how long they would last. And also the strength of the colour itself. The the colors, different colors would fade at a different rate than other colors would fade. The amount of Organic looking detail Would differ greatly from one color to another.
 
 ## Suzanne Anker [01:00:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3652s)
 
@@ -353,7 +353,7 @@ Who told me about the scenes that their slave ancestors Brought over with them, 
 
 ## Verneda Lights [01:07:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4022s)
 
-Yes. Thank you very much for that response. Now, regarding the glitch that you spoke of in the in your End product that you wanted to explore further as to how the machine put it that way. I was thinking, If you had access of whether or not having access to time lapse a time-lapse analysis.
+Yes. Thank you very much for that response. Now, regarding the glitch that you spoke of in the in your end product that you wanted to explore further as to how the machine put it that way. I was thinking, If you had access of whether or not having access to time lapse a time-lapse analysis.
 
 ## Suzanne Anker [01:07:30](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4050s)
 
@@ -361,11 +361,11 @@ That's that's a very good idea. I'm not sure if we do. But I'm going to ask The 
 
 ## Verneda Lights [01:08:01](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4081s)
 
-Thank you. One more thing. When you mentioned about the decolonizing your garden? I live in South Carolina. I'm gala okay. And so my ancestors were the ones who were in Brought over forcefully from West Africa. Into the South Carolina little country. Rich extends well, basically, the gulla country go goes from Greenville, North Carolina, to Jacksonville, Florida, and the agriculturalists who were among the enslaved. We're the ones who Planned and maintained the entire rice-producing process which made the United States, of course, very wealthy. And yes, and now that we no longer had this rice production as part of our major economic thrust in the low country. People are starting to look at The basic architecture that was laid out for the rice plantations, in looking at the mathematics and the the Geological sensitivity with which it was created, and is becoming a part of The aesthetic presentation of the low country now as well. So it's like a great Go ahead, great! And you know the same is true.
+Thank you. One more thing. When you mentioned about the decolonizing your garden? I live in South Carolina. I'm gala okay. And so my ancestors were the ones who were in brought over forcefully from West Africa. Into the South Carolina little country. Rich extends well, basically, the gulla country go goes from Greenville, North Carolina, to Jacksonville, Florida, and the agriculturalists who were among the enslaved. We're the ones who Planned and maintained the entire rice-producing process which made the United States, of course, very wealthy. And yes, and now that we no longer had this rice production as part of our major economic thrust in the low country. People are starting to look at The basic architecture that was laid out for the rice plantations, in looking at the mathematics and the the Geological sensitivity with which it was created, and is becoming a part of The aesthetic presentation of the low country now as well. So it's like a great Go ahead, great! And you know the same is true.
 
 ## Suzanne Anker [01:09:31](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4171s)
 
-Had another student who was just in a show at the Metropolitan Museum of Art about black potters, and because there was not only rice crops and cotton crops but there was a whole pottery industry that was Started by slave owners. And these and these huge pots ended up recently at the Pet Metropolitan Museum of Art. Good! They were so a lot of this unknown history. It really needs to come to the surface because it is part of what made America. America and and credit should be given where credit is due.
+Had another student who was just in a show at the Metropolitan Museum of Art about black potters, and because there was not only rice crops and cotton crops but there was a whole pottery industry that was started by slave owners. And these and these huge pots ended up recently at the Pet Metropolitan Museum of Art. Good! They were so a lot of this unknown history. It really needs to come to the surface because it is part of what made America. America and and credit should be given where credit is due.
 
 ## Verneda Lights [01:10:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4226s)
 
@@ -481,9 +481,9 @@ This is a model in the actual forty-foot toy train we had to build for a toy sto
 
 This is the other project you've seen before the play time and the making project. I worked for 3 and a half years as producer and artist along with the other artists. This is the model. It's about 4, almost 5 feet long. It's now in the Wisconsin Racine Museum of Art. And there's the actual installation in the Museum. Why am I showing you this because Tommy and Renata and Steve and Michael decided we're going to have so Siberiana, and you threw me right back to my model-making days, where I could make things really, really tiny. The plane on the left is only get a one inch wingspan.
 
-The one on the right has got a 20 inch wingspan. And then you gave me hubs. So what I did was play till I could almost break the thing. And this is what I came up with is a 3D village with 3 galleries and a full cinema. This I've built for my own sake, so I put all the bells and whistles in that I could. And this is my Trying to track for you on a laptop. So sorry for the little jerkiness here. It has these 3 different levels, because the cinema has to go down with the seating slant. There are 3 greenhouses across the back.
+The one on the right has got a 20 inch wingspan. And then you gave me hubs. So what I did was play till I could almost break the thing. And this is what I came up with is a 3D village with 3 galleries and a full cinema. This I've built for my own sake, so I put all the bells and whistles in that I could. And this is my trying to track for you on a laptop. So sorry for the little jerkiness here. It has these 3 different levels, because the cinema has to go down with the seating slant. There are 3 greenhouses across the back.
 
-There's your ramp going through. You'll see different changes in these like those columns. So the street signs later get replaced with Actual light posts. There's from overhead.
+There's your ramp going through. You'll see different changes in these like those columns. So the street signs later get replaced with actual light posts. There's from overhead.
 
 There's the walkable area I found out with mozola hubs is to keep the walkable area just where you want to be, because otherwise it uses up a lot of memory. So you take the walkable areas off the trees and places like roofs of houses that you don't want Your avatars to go. This is looking up at the mural, a circle mural in the main gallery.
 
@@ -623,7 +623,7 @@ Does that make that make sense. Right? Okay.
 
 ## Renata Janiszewska [01:39:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5952s)
 
-II think the idea of having a close boundary is good. I've had people get lost inside their own room. A guy yesterday was stuck inside a a gigantic stone that he had installed in his room, and I had to fly him out of there. So, having a boundary, would probably be Helpful. Also, with regard to the video question. I think we have to talk maybe a little bit about the file size. The video I've uploaded successfully is small. It's short and it doesn't have sound.
+II think the idea of having a close boundary is good. I've had people get lost inside their own room. A guy yesterday was stuck inside a a gigantic stone that he had installed in his room, and I had to fly him out of there. So, having a boundary, would probably be helpful. Also, with regard to the video question. I think we have to talk maybe a little bit about the file size. The video I've uploaded successfully is small. It's short and it doesn't have sound.
 
 Karen might be able to speak.
 
@@ -647,7 +647,7 @@ I Oh, I use. I tried Youtube link, but it did not work, and I was wondering, how
 
 ## Michael Price [01:42:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6132s)
 
-I. Because I do have a Youtube channel, I used Youtube, and that is working for me. I don't know if anybody else has done video successfully in another way. So this, again, is My limit in knowing What works behind the scenes. So that's why I'm saying this is only anecdotal information. I know somebody has tried Vimeo, and that hasn't worked, and I don't know what the issue is. But II don't have a Vimeo channel. I've not tried playing with that. So I that part I don't know.
+I. Because I do have a Youtube channel, I used Youtube, and that is working for me. I don't know if anybody else has done video successfully in another way. So this, again, is my limit in knowing What works behind the scenes. So that's why I'm saying this is only anecdotal information. I know somebody has tried Vimeo, and that hasn't worked, and I don't know what the issue is. But II don't have a Vimeo channel. I've not tried playing with that. So I that part I don't know.
 
 But I know that I know that Youtube can work because I've got it working in my space.
 
@@ -897,7 +897,7 @@ As I get. Closer to the wall here.
 
 Yeah, it's tricky. It's right back there. See? It's right behind the wall. Yeah. And then The easiest way for me to know how to bring it forward, since it's at minus 2, I'll go. Let's try minus one. It's already now, way out here. So I could just keep playing with it, and I know that that onee is where I want to be. But now you can tell this one. This larger version is at a scale of 1.8. And this smaller version is that a scale one? So if I want to make it larger, all I have to do is play with the scale. And I could make it, you know, as large as I want to. That's appropriate.
 
-And the nice thing is. Even when it's scaled up. There's there's a lot of detail. The detail is very nice, and that's what everybody's been Talking about is
+And the nice thing is. Even when it's scaled up. There's there's a lot of detail. The detail is very nice, and that's what everybody's been talking about is
 
 ## Karen LaFleur [02:10:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7802s)
 
@@ -1013,7 +1013,7 @@ And then you just you work the software through that.
 
 ## Michael Price [02:18:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8304s)
 
-Yes, you, you have it on your computer. Yeah, if you if you haven't done this yet. I would definitely suggest. If you got Tommy's email with the instructions for how to start that you follow that? Okay? And if you don't have that. We need to get that to you because you basically need to Create the account where you start with spoke. And then you can, and then use Tommy's Template To begin, and that's the template that will open up the spoke interface for you
+Yes, you, you have it on your computer. Yeah, if you if you haven't done this yet. I would definitely suggest. If you got Tommy's email with the instructions for how to start that you follow that? Okay? And if you don't have that. We need to get that to you because you basically need to create the account where you start with spoke. And then you can, and then use Tommy's Template To begin, and that's the template that will open up the spoke interface for you
 
 ## Cheryl Audet-Lavoie [02:19:18](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8358s)
 
@@ -1033,13 +1033,13 @@ Great.
 
 ## Verneda Lights [02:19:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8383s)
 
-Okay. I have a question about the. Overall Sort of meta presentation of of the galleries in Siberiana. I see here that you have a. Several Techspressionist presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by Business superstructure? Or do we name by author? You know, by the
+Okay. I have a question about the. Overall Sort of meta presentation of of the galleries in Siberiana. I see here that you have a. Several Techspressionist presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by business superstructure? Or do we name by author? You know, by the
 
 ## Michael Price [02:20:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8437s)
 
-That's a great question, and and I would be happy if if Renata or Steven has any feeling on that. But Tommy, I think, is leaving it to everybody. As to. What your room, or gallery, or space is, if you want it. According to your name. And then it I don't necessarily see A uniformity other than we've talked about keeping the Stuff outside similar with the kind of tying into the public space with the tile roofing and and the The the public space arena around it. But internally inside.
+That's a great question, and and I would be happy if if Renata or Steven has any feeling on that. But Tommy, I think, is leaving it to everybody. As to. What your room, or gallery, or space is, if you want it. According to your name. And then it I don't necessarily see A uniformity other than we've talked about keeping the stuff outside similar with the kind of tying into the public space with the tile roofing and and the The the public space arena around it. But internally inside.
 
-We've really Said, if you want to use the template as the minimum. And all you do is replace the images in there, and that's as far as you go, because that's all you feel comfortable doing. Then at least you've got a space within Siberiana. If you want to exercise a little bit more of your creativity, and you want to add new things in, or you want to change some of the things that's up to you. And so. That's kind of the philosophy. I would say that Tommy has brought to it, and as far as I could see, what Steven and and Renata and myself have kind of Worked with as well. So does that kind of help. Well, strategically having a scatter shot
+We've really Said, if you want to use the template as the minimum. And all you do is replace the images in there, and that's as far as you go, because that's all you feel comfortable doing. Then at least you've got a space within Siberiana. If you want to exercise a little bit more of your creativity, and you want to add new things in, or you want to change some of the things that's up to you. And so. That's kind of the philosophy. I would say that Tommy has brought to it, and as far as I could see, what Steven and and Renata and myself have kind of worked with as well. So does that kind of help. Well, strategically having a scatter shot
 
 ## Verneda Lights [02:22:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8554s)
 
@@ -1055,7 +1055,7 @@ I mean, it's as far as far as. The as far as I know, we don't have like somethin
 
 ## Renata Janiszewska [02:25:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8712s)
 
-Michael, I'm I want to Perhaps go back a few steps, because III must admit I didn't catch the beginning of this this particular discussion, but we had a hard and fast decision that each artist would have a door In the town square with the same layout for the door, IE. There would be a round window there would be a portrait, sized artwork, and there would be the artist's name below. So everyone has the same presentation in the town square. It goes by your name. If you want to put your company name.
+Michael, I'm I want to perhaps go back a few steps, because III must admit I didn't catch the beginning of this this particular discussion, but we had a hard and fast decision that each artist would have a door In the town square with the same layout for the door, IE. There would be a round window there would be a portrait, sized artwork, and there would be the artist's name below. So everyone has the same presentation in the town square. It goes by your name. If you want to put your company name.
 
 That's welcome as well, that's all. And then everything else inside the spaces. The studios is up to the individual artist. Does that? Does that help?
 
@@ -1065,7 +1065,7 @@ Well, I it gives clarity as to what the initial vision was and what it is now. B
 
 ## Allen Hirsh [02:26:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8807s)
 
-I have another question about when you first go into The Mozilla Hub and you're in, spoke, and Tommy mentioned something about On the left hand side. You got the little hamburger, and there's a file, save there, and he had suggested doing that, and then afterwards publishing, or Should they be done at the same time at the end when you're finished?
+I have another question about when you first go into The Mozilla Hub and you're in, spoke, and Tommy mentioned something about on the left hand side. You got the little hamburger, and there's a file, save there, and he had suggested doing that, and then afterwards publishing, or should they be done at the same time at the end when you're finished?
 
 ## Michael Price [02:27:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8835s)
 
@@ -1133,13 +1133,13 @@ Thanks, Renata. Thanks.
 
 ## Verneda Lights [02:36:13](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9373s)
 
-Will you have. Well, according to what we're not just said, I was gonna ask In light of the fact that the learning curve for How various members might be, you know, steep or not, but for those who are struggling. Is there flexibility in the opening date that would allow them time necessary to more fully get on board? Or is the opening date hard and fast, and those who don't learn within thee Timeframe of Have to wait, or maybe just roll out as the It's the unfolds
+Will you have. Well, according to what we're not just said, I was gonna ask In light of the fact that the learning curve for how various members might be, you know, steep or not, but for those who are struggling. Is there flexibility in the opening date that would allow them time necessary to more fully get on board? Or is the opening date hard and fast, and those who don't learn within thee Timeframe of Have to wait, or maybe just roll out as the it's the unfolds
 
 ## Michael Price [02:37:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9424s)
 
 That that's That's an important question. It's one that we have talked about. So here I'm speaking just for myself. This is not an official statement at all. So. I think right now we are asking for people to Get their Form filled out and sent in to us like a a week from tomorrow. I think the date is the fifteenth. My guess is, if enough artists are still struggling to get their spaces done. And that doesn't happen. It's gonna be up to Probably Tommy to figure out whether or not what that means for the opening.
 
-So I don't have a my feeling is Breneda, that It's gonna be driven by the community. Whether or not whether or not we have everybody Sufficiently along, so that their spaces are In in a shape that people are happy with, and I don't know what the answer is to that. That's why I wanted to to have several tutorial sessions. And that's why we've I felt that doing something like this today would be helpful. But I don't II have no idea how far along everybody is at this point.
+So I don't have a my feeling is Breneda, that It's gonna be driven by the community. Whether or not whether or not we have everybody Sufficiently along, so that their spaces are in in a shape that people are happy with, and I don't know what the answer is to that. That's why I wanted to to have several tutorial sessions. And that's why we've I felt that doing something like this today would be helpful. But I don't II have no idea how far along everybody is at this point.
 
 So My feeling is personally that if we don't have an overwhelming number of the artists ready to show that will probably need to push this off a bit but I don't know that there we're we're operating under the assumption right now that December the thirtieth is a go. Well, it looks from the sounds of
 
@@ -1163,7 +1163,7 @@ You know, then, that I think that that makes the decision something really impor
 
 ## Verneda Lights [02:41:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9684s)
 
-Yeah, a one way you could hold on to The structure that you, the time structure that you currently have Would be
+Yeah, a one way you could hold on to The structure that you, the time structure that you currently have would be
 
 ## Michael Price [02:41:36](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9696s)
 
@@ -1215,7 +1215,7 @@ In which case some people may like myself may just be like, is it gonna happen? 
 
 ## Michael Price [02:47:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10049s)
 
-The the other the other thing. And and this is not a great solution but The very barest minimum is, if you still wanted to have A presence In in Siberiana for the launch would be to Have your name. The image that you want on the door. And a link to your web page Or a link to something that Expresses, you know your Siberiana spaces coming, whatever it is, and that would be the bare minimum that way. If people click on your doorway in the in the in the town square that at least it's active.
+The the other the other thing. And and this is not a great solution but The very barest minimum is, if you still wanted to have A presence In in Siberiana for the launch would be to have your name. The image that you want on the door. And a link to your web page Or a link to something that Expresses, you know your Siberiana spaces coming, whatever it is, and that would be the bare minimum that way. If people click on your doorway in the in the in the town square that at least it's active.
 
 Even though it doesn't take you to your 3D space. They know you're part of this. They can go to your website. You can advertise on your website that you're part of the Siberian thing, and that's the bare minimum. I you know, that doesn't satisfy me, but it's something. It at least shows that you're participating. And it's like, you know, your space is coming. I'm hoping that you could get there and have an actual space before the soft launch, but that those are kind of the tiers. Is your space is done.
 
@@ -1245,7 +1245,7 @@ And what about the name? Can 2 names be on the door?
 
 ## Michael Price [02:51:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10260s)
 
-As far as I know, 2 names is fine having on the door, I believe. I don't know how much space there is For the name on the door, so that that's something you probably should ask directly. II would. I would suggest sending an email out pretty soon on that question.
+As far as I know, 2 names is fine having on the door, I believe. I don't know how much space there is for the name on the door, so that that's something you probably should ask directly. II would. I would suggest sending an email out pretty soon on that question.
 
 ## Allen Hirsh [02:51:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10284s)
 
@@ -1285,7 +1285,7 @@ Texting art is a good one. Yeah, let's try that I I will email Colin, and tell h
 
 ## Deann Stein Hasinoff [02:52:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10360s)
 
-And I would say that pulling off of Karen's. So our discussion of of fast fiction or flash. What is it called flash fiction or sudden fiction necessarily have to be incorporated into the art. It can be part of the Narrative narrative of the art, or something. No, like Karen did some things where she she had a narrative, a short narrative that was associated with the image. But they weren't.
+And I would say that pulling off of Karen's. So our discussion of of fast fiction or flash. What is it called flash fiction or sudden fiction necessarily have to be incorporated into the art. It can be part of the narrative narrative of the art, or something. No, like Karen did some things where she she had a narrative, a short narrative that was associated with the image. But they weren't.
 
 ## Sahar Moussavi [02:53:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10392s)
 
@@ -1301,7 +1301,7 @@ Yes.
 
 ## Michael Price [02:53:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10439s)
 
-So when you so do the Save, and publish. The next box will give you the. I believe the link.
+So when you so do the save, and publish. The next box will give you the. I believe the link.
 
 If I remember correctly. But I don't want to do that here because I've screwed up my my gallery. I mean the 2 boxes. Mtv, check boxes. To click, publish.
 
@@ -1345,11 +1345,11 @@ That's a good question. And I don't know. Because I think when I work in spoke a
 
 ## Deann Stein Hasinoff [02:56:50](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10610s)
 
-I'm speculating. I did in my email. My original email, I said, is my problem, because mine says remix and not edit. And and We're not. I didn't think that was the issue. So it's not yeah. So it's just my own, you know. Tech issues. I have to sort out. But but yeah, this was very helpful. So thank you for going through all of that information.
+I'm speculating. I did in my email. My original email, I said, is my problem, because mine says remix and not edit. And and we're not. I didn't think that was the issue. So it's not yeah. So it's just my own, you know. Tech issues. I have to sort out. But but yeah, this was very helpful. So thank you for going through all of that information.
 
 ## Michael Price [02:57:18](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10638s)
 
-Yes, thank you very much. You're definitely welcome. If we need to do another session. Sometime Next week. I'd be willing To run another tutorial. The only problem is. I don't know when we would do that, and who might be interested. So Is there is there any kind of consensus here that we should have a new, another tutorial? Or do you think you have enough to Kind of gets you going?
+Yes, thank you very much. You're definitely welcome. If we need to do another session. Sometime Next week. I'd be willing To run another tutorial. The only problem is. I don't know when we would do that, and who might be interested. So Is there is there any kind of consensus here that we should have a new, another tutorial? Or do you think you have enough to kind of gets you going?
 
 ## Deann Stein Hasinoff [02:58:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10683s)
 

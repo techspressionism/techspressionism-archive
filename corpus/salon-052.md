@@ -303,7 +303,7 @@ There's a great quote by Richard Feynman that basically the quote is nobody unde
 
 So, you know, art comes through as maybe some interpretation of between. There's also this crazy notion of of particle wave duality. Right. A particle like a photon can be like a particle can act as a wave. The energy emitted, the amount of energy that the electron has, it could be jumping from, you know, metaphorically right next to that particle to someplace out of the universe. So that's how crazy this world is that we're talking about this quantum world. So it's a world of unlimited fascination because there's no logic. You're trying to understand it. And as Michael said, we haven't caught up with this new reality. So, you know, for me as an artist, it's this way to really understand. So my book is called _Surfing the Cosmos_, Environment and Energy. I can't remember. I actually have to look at it.
 
-What is it? Energy and Environment, because those are the key features for me of reality right now. And art is this, if I'm answering this question, as perhaps the middle ground in which to navigate this space and perhaps even make it more accessible.
+What is it? Energy and environment, because those are the key features for me of reality right now. And art is this, if I'm answering this question, as perhaps the middle ground in which to navigate this space and perhaps even make it more accessible.
 
 ## Verneda Lights [01:10:06](https://www.youtube.com/watch?v=LuFuRGhgnmQ&t=4206s)
 

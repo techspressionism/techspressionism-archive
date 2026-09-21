@@ -56,6 +56,7 @@ def norm(name):
 # The same person under two names that the automatic rules cannot see (an "aka", a nickname, a misspelling):
 # {the name used in the recordings: [the other names]}. Add a line when the artist list shows a person twice.
 PERSON_MERGES = {
+    "Max Dalí / Kamilla Kulova": ["Max Dalí Kamilla Kulova"],
     "Cynthia Beth Rubin": ["C B Rubin", "Cynthia B Rubin", "Cynthia Rubin"],
     "Systaime": ["Michaël Borras AKA Systaime"],
     "Beau Tardy": ["Beau Tardy Artist"],

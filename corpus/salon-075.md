@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=UwkMNkLGZ6Q"
 duration_seconds: 5500
 moderator: Michael Pierre Price - AZ USA
 speakers:
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: Midjourney Tutorial
     start: 418
   - name: Michael Pierre Price
@@ -50,7 +50,7 @@ But there are logistical reasons for not having it on the same link as the salon
 
 Okay. So one of the, one of the topics that we brought up last meeting is this idea of potentially creating either specific salons where we might do tutorials or we might integrate a tutorial as part of upcoming salons, or we might create specific separate meetings where tutorials might be brought up. So today, just as an example, Cynthia DiDonato and myself are each gonna present very short tutorials as potential examples. After our two presentations, I'd like to give us a little bit of time in which we could discuss the possibilities and what might work and whether or not those of us here would find doing tutorials as something beneficial for the group. So Cynthia, I will hand off the mic to you and your presentation.
 
-## Cynthia DiDonato [06:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=418s)
+## Allen Hirsh [06:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=418s)
 
 Thank you, Michael. I'm going to start sharing immediately. Okay. Today, I'm going to talk about Procreate. Procreate is a platform that's been around for a long time. Procreate is a program that I use quite a bit along with many other softwares. But I thought today I'd show you about how I have created one of my pieces, actually several, many pieces that I kind of call 2D sculptures. And so in an effort to give you a little bit about Procreate and a little bit about how I use it, I thought I'd start by showing you, the Procreate gallery. This is where all the artwork resides. And this is where you can begin your creations.
 

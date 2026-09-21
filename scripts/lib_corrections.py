@@ -239,3 +239,81 @@ def apply_style_rules(text):
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
     return text
+
+
+# words that are capitalised on purpose in running text and must never be lowered by the mid-sentence fix (names, months, days, brands, nationalities ...)
+KEEP_CAPITAL = set("""i january february march april may june july august september october november december monday tuesday wednesday thursday friday
+saturday sunday zoom instagram google youtube facebook twitter tiktok discord clubhouse chatgpt openai adobe photoshop illustrator apple ipad iphone mac windows
+english french german spanish italian russian chinese japanese korean iranian american canadian british european african asian indian brazilian australian
+christmas easter god internet web nft nfts ai salon number museum gallery center university college institute art arts loop""".split())
+
+
+# ---- capitals in the middle of a sentence -----------------------------------------------------------------------------------------------
+# Zoom starts every caption line with a capital, even when the sentence goes on ("...founders of Loop, and Have her talk"). A capitalised word is
+# lowered only when ALL of these hold: it is an ordinary word (data/lowercase-words.json: common in lower case, never a name), it comes straight after
+# a word that cannot end a sentence (and, of, the, is, ...), and no other capitalised word stands close by in the same sentence (that would be a
+# name or a title: "Institute of Technology", "Call for Artists"). Names, "I" and the first word of a sentence are never touched.
+CONTINUERS = set("""and but or the a an of to in on at for with from by as if because than my your his her our their is are was were be been am has have
+had will would can could should might may into onto about over under between through during without within""".split())
+_ORDINARY = []
+_SENT_END = re.compile(r"[.?!\u2026:\u201d\"]['\u2019)\]]*$")
+_CORE = re.compile(r"^[\"'\u201c\u2018(\[_]*([A-Za-z][A-Za-z'\u2019-]*)[\"'\u201d\u2019)\].,;:!?_\u2026-]*$")
+
+
+def _ordinary_words():
+    if not _ORDINARY:
+        import json as _json
+        from pathlib import Path as _Path
+        path = _Path(__file__).resolve().parent.parent / "data" / "lowercase-words.json"
+        _ORDINARY.append(set(_json.loads(path.read_text())["words"]) if path.exists() else set())
+    return _ORDINARY[0]
+
+
+def midsentence_caps(text):
+    """[(index of the capital letter, the word)] that should be lower case."""
+    ordinary = _ordinary_words()
+    toks = [(m.group(), m.start()) for m in re.finditer(r"\S+", text)]
+    starts_sentence = lambda j: j == 0 or bool(_SENT_END.search(toks[j - 1][0]))
+
+    def capital(j):
+        m = _CORE.match(toks[j][0])
+        return bool(m) and m.group(1)[0].isupper() and m.group(1) != "I" and not starts_sentence(j)
+    out = []
+    for i in range(1, len(toks)):
+        m = _CORE.match(toks[i][0])
+        if not m or _SENT_END.search(toks[i - 1][0]):
+            continue
+        w = m.group(1)
+        prev = _CORE.match(toks[i - 1][0])
+        prev_w = prev.group(1) if prev else ""
+        if not (w[0].isupper() and w[1:].islower()) or w in ("I",) or len(w) < 2:
+            continue
+        if prev_w not in CONTINUERS or re.search(r"[.?!\u2026]$", toks[i - 1][0]) or w.lower() not in ordinary or w.lower() in KEEP_CAPITAL:
+            continue
+        near = [j for j in range(max(0, i - 3), min(len(toks), i + 4)) if j != i]
+        # stop at sentence ends: only tokens of the same sentence count
+        back = []
+        for j in range(i - 1, max(-1, i - 4), -1):
+            back.append(j)
+            if starts_sentence(j):
+                break
+        fwd = []
+        for j in range(i + 1, min(len(toks), i + 4)):
+            if _SENT_END.search(toks[j - 1][0]):
+                break
+            fwd.append(j)
+        if any(capital(j) for j in back + fwd):
+            continue
+        out.append((toks[i][1] + toks[i][0].index(w[0]), w))
+    return out
+
+
+def fix_midsentence_caps(text):
+    parts = text.split("\n\n")
+    fixed = []
+    for par in parts:
+        chars = list(par)
+        for idx, _w in midsentence_caps(par):
+            chars[idx] = chars[idx].lower()
+        fixed.append("".join(chars))
+    return "\n\n".join(fixed)

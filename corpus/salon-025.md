@@ -108,7 +108,7 @@ All right. Well, thank you very much for data. You're welcome. Really appreciate
 
 Okay. Well, that works too. All right. All right. There we go. Yep. All right. So you can all see this world? Yeah, I believe so. Okay. Well, this is live. And that avatar is a human being who's visiting my world who I don't know. So we can go back in this world and we can go forward in this world.
 
-I want to take you into one of these. Okay, so all the right what you're seeing all around here, for good reason, are light sculptures that I paint in all in with tilt brush and goggles on. You help me fly in here. Look, okay. So when you're in this world, right, so obviously, you can do this from a Mac. Let me just take over the Most sorry.
+I want to take you into one of these. Okay, so all the right what you're seeing all around here, for good reason, are light sculptures that I paint in all in with tilt brush and goggles on. You help me fly in here. Look, okay. So when you're in this world, right, so obviously, you can do this from a Mac. Let me just take over the most sorry.
 
 Yeah, okay. This is work. Okay. Yeah, I'm gonna look up with the F key. Okay, now you can go straight into it. Alright, so going to this now I've been working with a Mac. So I'm going to go back to the Mac. Can you all hear this? Yeah, the audio is coming through. It's a little, it's a little distorted because just the limitations of zoom audio. So it's This has spatial sound. It's depending on where you are. If you have different things that you can blend them and you can fly around in here. If you wear headphones, you get an immersive experience.
 
@@ -116,7 +116,7 @@ It's not just stereo. It's the sound is all around you. Can you go down to? F I'
 
 So a bunch of those new pieces and then the other new pieces that I've been doing are these. And these will be, I'm going to do all of these as NFTs. And I've just signed up with an organization that's going to be doing that. So the ones in the background. So all of this work, all of these paintings are from snapshots taken in those 3D virtual in those 3D light sculptures that we were one of which we were just in. Okay. So you'll so if I can explain this, let's see.
 
-Okay. So this one maybe. This one's even better. So for this one, for instance, this painting. What's the other thing about this digital work? It's it has no size. You can have it whatever size you want. Right. Look up at it. Okay. So this one has a little bit of a But you'll notice this one has these brushstrokes. Those come from taking the AR object, putting it outside. Take that's my garden, my actual garden flower garden from a couple of years ago. So you can take this AR object outside.
+Okay. So this one maybe. This one's even better. So for this one, for instance, this painting. What's the other thing about this digital work? It's it has no size. You can have it whatever size you want. Right. Look up at it. Okay. So this one has a little bit of a but you'll notice this one has these brushstrokes. Those come from taking the AR object, putting it outside. Take that's my garden, my actual garden flower garden from a couple of years ago. So you can take this AR object outside.
 
 And take a snapshot, which will give me whatever part of that AR object I see. And then I can take a snapshot of the AR object. And you can see that you can see the And the environment. It's really in. And that's how I create. Some of these, I call them the inside outside pictures. Of these murals.
 
@@ -134,7 +134,7 @@ Is there another question? Actually that tied into another question, which was w
 
 A lot of difficulty. Lighting issues, blah, blah, blah. A lot of problems. Plus, because this is all running on Oculus Quest goggles, which has about the capability of your cell phone, but not maybe as much, you're stuck in a low poly situation. Right. All right. So this looks like an art gallery. Kind of, I think. Right? Looks more like an art exhibition.
 
-All of these artworks exist at these sizes on Canvas as well as in this virtual world. And there are two different kinds of paintings here. There's a bunch that I call the Syracuse pictures. And then there are these pictures which are I call the inside and outside pictures. And I call it that because, as you'll notice, these have, these are snaps, well, you may not notice, but remember I was describing how I take my AR object outside? Well, I also take it inside. So this one, for instance, on the right here.
+All of these artworks exist at these sizes on canvas as well as in this virtual world. And there are two different kinds of paintings here. There's a bunch that I call the Syracuse pictures. And then there are these pictures which are I call the inside and outside pictures. And I call it that because, as you'll notice, these have, these are snaps, well, you may not notice, but remember I was describing how I take my AR object outside? Well, I also take it inside. So this one, for instance, on the right here.
 
 Navigating this way is very difficult, obviously. This one is in my studio. I don't know. Yeah, this is my studio in my loft. And I took my, one of those light sculptures from that that you saw that I showed you inside of, I put it in my loft and took a snapshot and took it into Photoshop and created a painting. And that's true of all the pictures on this wall.
 

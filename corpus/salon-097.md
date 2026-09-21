@@ -37,9 +37,9 @@ So the featured artists for today's salon are Anton Dubrovin, who is from Kazakh
 
 ## Anton Dubrovin (MCHX) [02:30](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=150s)
 
-Yeah, Hi, everyone so nice to see you. Yeah. And I'm excited to start. So yeah. We'll go. I will have a to share a screen now. And oh, okay. So I would like to start with a little introduction how I started with art and and my journey. So I was always fascinated with abstract art, and especially Movements like color, field, and obstructive expressionism. And you see, the artworks of the artist that I was really moved and inspired with. So it's really like, moved me deeply, especially the focus on Theory, scholar transcendence, spirituality, and how they impact How the works back the viewer emotionally and physically. So this is where I felt that I want to start creating my works.
+Yeah, Hi, everyone so nice to see you. Yeah. And I'm excited to start. So yeah. We'll go. I will have a to share a screen now. And oh, okay. So I would like to start with a little introduction how I started with art and and my journey. So I was always fascinated with abstract art, and especially Movements like color, field, and obstructive expressionism. And you see, the artworks of the artist that I was really moved and inspired with. So it's really like, moved me deeply, especially the focus on theory, scholar transcendence, spirituality, and how they impact How the works back the viewer emotionally and physically. So this is where I felt that I want to start creating my works.
 
-And. So the 1st thing I was thinking and wondering, is it possible to recreate the effect of color field Using a modern digital media and Thinking of it, I started to experiment with Graphic art and then with AI. So this is my one of the 1st works that I made with Machine learning, using my own data sets. And I will show you a couple of this kind of works. So yeah, I was trying to recreate color field with AI, and I felt like it was working. I also created some video loops, and I really liked it.
+And. So the 1st thing I was thinking and wondering, is it possible to recreate the effect of color field Using a modern digital media and thinking of it, I started to experiment with graphic art and then with AI. So this is my one of the 1st works that I made with machine learning, using my own data sets. And I will show you a couple of this kind of works. So yeah, I was trying to recreate color field with AI, and I felt like it was working. I also created some video loops, and I really liked it.
 
 I had a great response also, but still. Still, I was kind of frustrated with the Limitation that AI and video formats have. And so I still have this question. What does it mean for digital art to be displayed, and I mean Especially compared to physical works, particularly coal field paintings, which is traditionally experienced at a large scale, often in public places this painting. Immersive. And one of the reason is because of their size and presence. And I believe that scale and environment are essentially for this kind of work to create The intended experience.
 
@@ -47,15 +47,15 @@ Hmm, but then I started to think that digital art Also can be in large formats. 
 
 This is, also my work. That Image made by my friend in his studio. And it's my work displayed on his different monitors and devices. So I wanted to explore that I wanted to create works that were flexible that could adapt to any screens, any format and context. I wanted them to break out of ui limitations of platforms and apps, and that what led me to start learning how to create art with code. And now I'm going to start showing you my works that I made with cold.
 
-Yes. So. This 1 1 of the 1st that I created is one of the 1st of my generative Art collections. And what was amazing for me, that all the restrictions of video. Like duration, resolutions, compressions, disappear. When you create with code you can build endless animations. Works that evolve forever and Look perfectly without interruption. You can make them any size or format, and they will display flawlessly on any screen phone Or ipad or monitor and that flexibility is something you simply can get from video file or any physical work.
+Yes. So. This 1 1 of the 1st that I created is one of the 1st of my generative Art collections. And what was amazing for me, that all the restrictions of video. Like duration, resolutions, compressions, disappear. When you create with code you can build endless animations. Works that evolve forever and look perfectly without interruption. You can make them any size or format, and they will display flawlessly on any screen phone Or ipad or monitor and that flexibility is something you simply can get from video file or any physical work.
 
-So also, what is exciting for me is the variety that you can Introduce the same idea. The same artwork can be expressed in many different ways, different colors, different variation, but all connected to the same core. And yeah, and this one was really inspiring to me and is, and still really inspiring. And I started with Javascript and Just the Ccs. It was really simple works, but it wasn't enough for what I was Wanting to achieve. And then I found glsl, a language that is used for game development, and that, it works with shaders and color animation.
+So also, what is exciting for me is the variety that you can introduce the same idea. The same artwork can be expressed in many different ways, different colors, different variation, but all connected to the same core. And yeah, and this one was really inspiring to me and is, and still really inspiring. And I started with Javascript and Just the Ccs. It was really simple works, but it wasn't enough for what I was wanting to achieve. And then I found glsl, a language that is used for game development, and that, it works with shaders and color animation.
 
 And now I'm going to show you my works that I made with glsl this one is 1 1 of my favorites and one of the first.St So I fell in love in love with Julie Sale, and because it was Feeling like I'm putting my hands into a jar of colors, mixing them like fluid sculpture, shaping, and them with moths and light. And also, I'm not really interested in complex forms. I just like to work with color and time To shape form through movement, using just simple functions.
 
 And. What I aim is to create an experience like a transition from one emotional state to another. And this is why I use slow, soft movements and rich colors. And nothing should be fast or overwhelming. The artwork should feel present, but not demanding attention. And one of my one of people who collected my work said that he likes to put my work on a second screen while working, and switch his attention to it from time to time, just to Reset and to spend time a little time with it. So I found it really interesting and really inspiring, because I feel like it.
 
-My approach should be something that you can live with. Let it like play, and while you have this like, have a conversation, but Come back to it when you need it, and spend time with it, for like For for I don't know couple of minutes, or and also watch how it will evolve so, and I feel like it should set the mood, vibe. And in the space something quiet and like meaningful. Especially if it's in a private space. The space where we live in. Hmm, and so this is like, what is my idea of working Not just creating digital art, but shaping like visual experience and then become a part of environment. That's all. Thank you.
+My approach should be something that you can live with. Let it like play, and while you have this like, have a conversation, but come back to it when you need it, and spend time with it, for like For for I don't know couple of minutes, or and also watch how it will evolve so, and I feel like it should set the mood, vibe. And in the space something quiet and like meaningful. Especially if it's in a private space. The space where we live in. Hmm, and so this is like, what is my idea of working Not just creating digital art, but shaping like visual experience and then become a part of environment. That's all. Thank you.
 
 ## Colin Goldberg [13:19](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=799s)
 
@@ -85,7 +85,7 @@ Okay, so this, this gives you an overview of my system. I am a biophysicist and 
 
 And when I'm painting, I'm using linked equation sets and the inputs, the the numerical inputs to the equations are the 9 RGB color values in the 3 concurrent pixels and and then I calculate the X and Y position of I use a very large mix of mathematics. I use all the elementary functions. I use numerical calculus, mostly numerical integration A recursion, of course, like in fractals and and logical branching. Based on both color and position functions which I are integrated into the rest of the system it what it does in terms of this, it has a space and a color component in the space component. It takes All right it it. It. It calculates a new position position.
 
-And then it goes in the source image and takes that the pixel in that position and puts it into the target position which is in register. So if it's a position XY. In both images. It, it takes the pixel from the Another place in the source image and puts it into that position in the target image. The when I color things using a different part of the of the program. Each pixel is in a in a source. Image Is is addressed, and then I take the color values from the the 9 or 16 or 25 pixels around each image.
+And then it goes in the source image and takes that the pixel in that position and puts it into the target position which is in register. So if it's a position XY. In both images. It, it takes the pixel from the another place in the source image and puts it into that position in the target image. The when I color things using a different part of the of the program. Each pixel is in a in a source. Image Is is addressed, and then I take the color values from the the 9 or 16 or 25 pixels around each image.
 
 And those color values are fed into particular equation sets that I've written. People call them filters, I guess, in the modern world, and and the outputs are used to to change the RGB values of the pixel in the center. So I'm microscopically moving every pixel in in the image, in the source, image or coloring every single pixel. Everything's done microscopically, pixel by pixel. The space transformations typically take for 15 to 30 seconds in a 15 Meg file, and the color transformations run from 13 to 15 seconds to color every pixel. So, as you might imagine, I have an embarrassingly large amount of art.
 
@@ -99,7 +99,7 @@ But she's a good photographer. She took this this photo of this this beautiful a
 
 Petroleum pollution interacting with solar power. And then this is like Big oil smashing into solar power. And and there's just an interesting, modest distortion, physically. And an interesting colorization. You can see I don't. I don't know if I can. I probably can't blow things up. Not sure I can do that here. But but The nice thing about coloring individual pixels Is that you can. You can produce A patina, a richness that you could get from carefully hand painted material. In fact, if you blew this up, one of the things I can do is, of course, I'm coloring at a microscopic level which even a hand artist can't do. Which is, it gives you rather interesting results.
 
-Now,. This is very interesting. You see all these diamond structures here. If we go back to the original photo. If you look down right in the slightly left center, right at the bottom of this roof, which is a storage shed, you'll see the top of a of you know. A window into into the interior of the shed, and it's very hard to see it here, but that's a diamond shaped window, because the the moving, the pixels can not only change their their Their their placement in the image, but expand or contract them.
+Now,. This is very interesting. You see all these diamond structures here. If we go back to the original photo. If you look down right in the slightly left center, right at the bottom of this roof, which is a storage shed, you'll see the top of a of you know. A window into into the interior of the shed, and it's very hard to see it here, but that's a diamond shaped window, because the the moving, the pixels can not only change their their their their placement in the image, but expand or contract them.
 
 You can act. That's that. These are all. That window blown up and moved around. Okay, sometimes I tend more towards a photographic structure. This is more of a painterly structure, right? So this sort of converts the windmill into something that looks quasi high tech, right? Which I think is kind of interesting. And then then it was colored as if it was then painted. But the structure is not. It retains a photographic quality in in the sense that it's not blurred the way a paintbrush would blur things.
 
@@ -185,13 +185,13 @@ Yep.
 
 Okay. Sorry again. So some of the tools that I use are basically, I began doing creative coding with processing. But Maybe this few project with processing at the very beginning, like probably 7 or 8 years ago. But then I began to work with p. 5 Gs. Which is the processing version that works online. So all the projects are gonna show you today are are done with p. 5 Gs, which is a Javascript version of processing. I like it because you can share your work in in online. And you can also in add some interactivity to your work. And it's it's it's it's my favorite language to work to do Generative art and and creative coding All the works that I'm gonna show you today are done in in in a platform called open processing. It's a paid platform. But you can. You can. You can work for free. And I'm gonna share some of my my sketches from from this platform in open processing. Well, now, basic, a typical basic code in p, 5, gs, then, as you can see, it's very intuitive in terms of from the perspective of an artist you can create a canvas, you can defend the background of your, the color of the background.
 
-And and then you have another function to draw things in your canvas. So in this case, it's just a simple circle. Okay? So the price I'm going to show you today are are based on particles. Particles. Means it's an abstraction. Basically, it's a bunch of Particles I throw on a virtual canvas, and these particles you can define how they move. Based on 2 mathematical formulas. One is related in this case. U is related with the horizontal movement, and the other one is related to the vertical movement. So you can define all kind of you can do all kind of math and define all kind of formulas for this.
+And and then you have another function to draw things in your canvas. So in this case, it's just a simple circle. Okay? So the price I'm going to show you today are are based on particles. Particles. Means it's an abstraction. Basically, it's a bunch of particles I throw on a virtual canvas, and these particles you can define how they move. Based on 2 mathematical formulas. One is related in this case. U is related with the horizontal movement, and the other one is related to the vertical movement. So you can define all kind of you can do all kind of math and define all kind of formulas for this.
 
 Oh. A typical formula that I use for for most of the work that I'm going to show you today is based on this trigonometric function. I'm not. Gonna I'm not gonna go too much into the details. But basically, is this guy here takes care of the horizontal movement of the particles, and the B takes care of the of the vertical movement, and depending on where you are located in the canvas, you're going to move in a different way. So basically, that's that's the main idea.
 
 For instance, if I take this. Big particles and throw it in the surface of the canvas. You're gonna see something like this. It's a black and white representation not too interesting. Well, it's interesting. But you can see loops. You can see shapes that are close. And so that's the basic the basic movement of the particles in the in based on these formulas. So I began. Well, basically, my, my approach to art is to take basic ideas and try to see how how far I can take a very simple concept or a very simple formula how far I can take it to produce something interesting.
 
-So my one of after this my my next experiment was to put color to the particles, and in the in this case, also, the particles you can have particles that are, you can change the particle, and Like as a generic shape, like a circle, or even a line or a rectangle and stuff like that. So this is one of my. The 1st thing that I did is. Yeah, I think I did this in 2,021 I put the the QR code. If you want to point your cell phone. You can. It's gonna take you to the, to the actual animation. Of course, this is the final product of the animation.
+So my one of after this my my next experiment was to put color to the particles, and in the in this case, also, the particles you can have particles that are, you can change the particle, and like as a generic shape, like a circle, or even a line or a rectangle and stuff like that. So this is one of my. The 1st thing that I did is. Yeah, I think I did this in 2,021 I put the the QR code. If you want to point your cell phone. You can. It's gonna take you to the, to the actual animation. Of course, this is the final product of the animation.
 
 But probably it's much in it's much more interesting to see the whole thing moving around. See, let's see, I can show you. Here. Let's see if I can find. Okay. Now here, you know. Let's see, let me new share. Okay, let me see if I can see my browser here. Okay?
 
@@ -219,9 +219,9 @@ Yeah, you have just about 2 min.
 
 2 min. Okay, so probably I'm gonna show you this guy here, which is probably maybe a friend.
 
-Okay. So this this one is also based on particles. But I'm going to show you the animation from the very beginning. Of of course, at this stage. Basically, we have in this case, I'm using very simple formula, basically, our circles moving around The circles are expanding and contracting, and Every with some periodicity, the color change. And basically what what you can see here is is layers, layers, layers of of particles. I like it because it has a very interesting transparency effect.
+Okay. So this this one is also based on particles. But I'm going to show you the animation from the very beginning. Of of course, at this stage. Basically, we have in this case, I'm using very simple formula, basically, our circles moving around The circles are expanding and contracting, and every with some periodicity, the color change. And basically what what you can see here is is layers, layers, layers of of particles. I like it because it has a very interesting transparency effect.
 
-So this one is also basing also in the on the same technique. So again, if you want to, if you go to if you write that about those Pr in open processing. You're gonna find all my, all my schedules. I have all 5 500 sketches. Some of them are Experiment. Some of them are more polished like this one. So I'm open to. So you can go and take a look. And finally, finally, finally, finally, I'm gonna Go to the back to the presentation here. And basically now, now, here is my contact information my email, Nicole at Gmail.
+So this one is also basing also in the on the same technique. So again, if you want to, if you go to if you write that about those Pr in open processing. You're gonna find all my, all my schedules. I have all 5 500 sketches. Some of them are experiment. Some of them are more polished like this one. So I'm open to. So you can go and take a look. And finally, finally, finally, finally, I'm gonna Go to the back to the presentation here. And basically now, now, here is my contact information my email, Nicole at Gmail.
 
 My handle caravato spear. And of course, my open processing account. So that's it.
 
@@ -251,7 +251,7 @@ Some of the the Midi functionality where I'll use a Midi controller to. I'll jus
 
 So this is an example of a simple sketch I did recently, and I don't know if you guys can see it. But here I have a just a little Midi controller that I can use to adjust some of the parameters on the fly As opposed to having to like.
 
-Completely go in and rerun the program. And this has actually been a lot of fun. This is just a really simple example. Right now I did for this demonstration. And you scroll down to the bottom. Here it has all of the different variables that I can. You know, log in real time if I want to take notes or whatever. But I've been playing around a lot with that recently. It's I feel like it's a way For me to adjust. All of the variables on the fly. That way I can, you know, don't have to go in and Type it into the original p. 5. Code and then rerun it again and everything. So that's been a lot of fun to mess around with, too.
+Completely go in and rerun the program. And this has actually been a lot of fun. This is just a really simple example. Right now I did for this demonstration. And you scroll down to the bottom. Here it has all of the different variables that I can. You know, log in real time if I want to take notes or whatever. But I've been playing around a lot with that recently. It's I feel like it's a way For me to adjust. All of the variables on the fly. That way I can, you know, don't have to go in and type it into the original p. 5. Code and then rerun it again and everything. So that's been a lot of fun to mess around with, too.
 
 And see here.
 
@@ -265,7 +265,7 @@ One of the interesting things about working with the pen plotter is. The results
 
 But there are a lot of interesting restrictions that come with it. But let me see here, not sure if I'm Hang on. Sorry I forgot I had to change windows here.
 
-Yeah. So this is a recent one I did, which actually was deceptively difficult. The the subdivisions here. We're kind of tough, but you know, even getting the hatching, which is a random function starting in Various random corners of each tile. And it's 1 of my most recent works. It's 1 of the 1st ones that I've delved into More color, as you can see by looking. If you ever go on my Instagram, most of my work is very monochromatic and black and white, and I've been trying to, subtly, you know, and slowly move away from that while maintaining, you know, a voice that I've already established, and this is one of the 1st ones that I felt really kind of accomplished that you can see it.
+Yeah. So this is a recent one I did, which actually was deceptively difficult. The the subdivisions here. We're kind of tough, but you know, even getting the hatching, which is a random function starting in various random corners of each tile. And it's 1 of my most recent works. It's 1 of the 1st ones that I've delved into More color, as you can see by looking. If you ever go on my Instagram, most of my work is very monochromatic and black and white, and I've been trying to, subtly, you know, and slowly move away from that while maintaining, you know, a voice that I've already established, and this is one of the 1st ones that I felt really kind of accomplished that you can see it.
 
 You can see the difference between the plotted version.
 
@@ -275,7 +275,7 @@ And then, yeah, this was this one's kind of a fun one. It's a recent Few months 
 
 It actually turned out pretty well for my 1st one. That one was taken. I think it was 240 frames, if I remember correctly. I ended up using Hooking up my camera to my actual large plotter after the whole thing was plotted and programming the plotter to go incrementally and take photographs of every single frame. And that's something I actually got inspired to do by another artist, something savage on Instagram. He does a lot of time lapse or sorry stop motion stuff.
 
-That's something I also want to explore in the future. That whole program was also a generative program. The waves and they're created were Basically utilize the same sort of thing as as some of these recent works that I do where they use a lot of perlin noise To you know, to create these curves, these undulations. This one is very, you know, landscape Oriented. But you can see there, it's very good for for plotting and anything using a pen. So but yeah,.
+That's something I also want to explore in the future. That whole program was also a generative program. The waves and they're created were basically utilize the same sort of thing as as some of these recent works that I do where they use a lot of perlin noise To you know, to create these curves, these undulations. This one is very, you know, landscape Oriented. But you can see there, it's very good for for plotting and anything using a pen. So but yeah,.
 
 See here.
 
@@ -307,7 +307,7 @@ There's literally a dip function in my program for that, and it just draws a lit
 
 ## Colin Goldberg [01:02:34](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=3754s)
 
-Absolutely it reminded me. Somewhat of Roman Verostko's work, who's recently passed away. I'm not sure if you're familiar with him and his work. But he was used in the plotters, you know, kind of early on, and I think it's really interesting, like where you've taken that. So so you know, we have some time left about, you know, 1520 min or so, if anyone has any questions, I was thinking also it might be interesting. We haven't really done this in the past to 1st Ask any of the presenting artists if you have any questions for any of the other presenters. And then, you know, we could just generally open it up. But if any of the people here in the audience have questions, just go ahead and use the raise hand tool which is on the On the zoom interface. They keep moving around exactly where it's located. But yeah, it's somewhere.
+Absolutely it reminded me. Somewhat of Roman Verostko's work, who's recently passed away. I'm not sure if you're familiar with him and his work. But he was used in the plotters, you know, kind of early on, and I think it's really interesting, like where you've taken that. So so you know, we have some time left about, you know, 1520 min or so, if anyone has any questions, I was thinking also it might be interesting. We haven't really done this in the past to 1st Ask any of the presenting artists if you have any questions for any of the other presenters. And then, you know, we could just generally open it up. But if any of the people here in the audience have questions, just go ahead and use the raise hand tool which is on the on the zoom interface. They keep moving around exactly where it's located. But yeah, it's somewhere.
 
 The react button, maybe. Is that it? Yeah. And that little heart on the bottom, the react button. There's a raise hand function. So do any of the artists. Have any questions for any of the other presenters. Before we go into the The general audience.
 
@@ -351,7 +351,7 @@ You're muted, Patrick.
 
 ## Neginete EL [01:07:34](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4054s)
 
-Instead of instead of using the Instead of using using a brush. And the thing is that where this kind of influenced me is that I wind up using when I go that approach I wind up using you know, acrylic or casing in a in a water brush or something like that. So you know, how do you think that something, you know, like that sort of approach, you know. Have you gone that way? Or do you think that you know you really like this idea of, you know using the brush? And how do you keep? How do you keep things consistent, you know, on long runs.
+Instead of instead of using the instead of using using a brush. And the thing is that where this kind of influenced me is that I wind up using when I go that approach I wind up using you know, acrylic or casing in a in a water brush or something like that. So you know, how do you think that something, you know, like that sort of approach, you know. Have you gone that way? Or do you think that you know you really like this idea of, you know using the brush? And how do you keep? How do you keep things consistent, you know, on long runs.
 
 I'm as is that directed towards me. Yes, to Chris, yeah, no. I like the fact that using brushes and that sort of thing. So I said, you know I used to know Roman Brasco for a long. And the so the thing is, he wound up, using. You know, pens with casing in them, and the thing is is that I went to water brushes, you know, with your watercolor casing and things like that. And, you know, have you tried that? And you know, how do you keep the consistency, you know, with with your brushes and using, you know, in using brush based methods.
 
@@ -377,7 +377,7 @@ And then there's I've seen other people. Other artists that use Sort of like a s
 
 ## Colin Goldberg [01:12:28](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4348s)
 
-Well, actually Based on Patrick's question. It reminded me of Joseph Nekvital's work, who he's a friend, and he's also been involved with the the group with Techspressionism for a while. Now, I'm going to just paste a link into the chat, too. So Joseph has been working with Basically like they're described as computer robotic assisted paintings. But it's like a a plotter that's on a very large scale. So the the piece I pasted the link in, I believe, is in the collection of the Brooklyn Museum, and it's 64 by 44 inches. Computer robotic assisted acrylic painting on velvet and that was back from 2011. So his work is definitely worth taking a look at, too, when it comes to the the handling of media with those sort of tools. But he refuses to go on zoom sadly. So you know. But you, you could definitely see his his work online.
+Well, actually Based on Patrick's question. It reminded me of Joseph Nekvital's work, who he's a friend, and he's also been involved with the the group with Techspressionism for a while. Now, I'm going to just paste a link into the chat, too. So Joseph has been working with basically like they're described as computer robotic assisted paintings. But it's like a a plotter that's on a very large scale. So the the piece I pasted the link in, I believe, is in the collection of the Brooklyn Museum, and it's 64 by 44 inches. Computer robotic assisted acrylic painting on velvet and that was back from 2011. So his work is definitely worth taking a look at, too, when it comes to the the handling of media with those sort of tools. But he refuses to go on zoom sadly. So you know. But you, you could definitely see his his work online.
 
 ## Neginete EL [01:13:37](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4417s)
 
@@ -385,17 +385,17 @@ Exclusive.
 
 ## Colin Goldberg [01:13:39](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4419s)
 
-So let's see, we have Cynthia DiDonato up next.
+So let's see, we have Cynthia Didonato up next.
 
-## Cynthia DiDonato [01:13:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4424s)
+## Allen Hirsh [01:13:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4424s)
 
 I just wanted to say thank you to all the presenters today for sharing such fascinating use of coding as a medium. And I I have a question for Elio. I went to the open processing Techspressionism subset, and looked at all the lovely pieces that are there, and I noticed that it says, Submit your sketch. So I'm assuming that any of us, because this is open processing could submit a digital file there. Or am I wrong.
 
 ## Elio Ramos-Colón [01:14:26](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4466s)
 
-Yeah, the the thing is that in open processing you can create a correction. And you can tell other people to submit their code, basically so they they can submit. If you are in in open processing. If you, if you have an account in open processing, you can Add your call to to that creation. So basically, it's it's inside open processing.
+Yeah, the the thing is that in open processing you can create a correction. And you can tell other people to submit their code, basically so they they can submit. If you are in in open processing. If you, if you have an account in open processing, you can add your call to to that creation. So basically, it's it's inside open processing.
 
-## Cynthia DiDonato [01:14:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4492s)
+## Allen Hirsh [01:14:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4492s)
 
 Okay. So the submit. Your sketch is to submit code.
 
@@ -403,7 +403,7 @@ Okay. So the submit. Your sketch is to submit code.
 
 Yes. Yeah.
 
-## Cynthia DiDonato [01:14:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4498s)
+## Allen Hirsh [01:14:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4498s)
 
 That's what I needed to understand.
 
@@ -411,7 +411,7 @@ That's what I needed to understand.
 
 Yeah, okay.
 
-## Cynthia DiDonato [01:15:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4502s)
+## Allen Hirsh [01:15:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4502s)
 
 Thank you.
 
@@ -431,11 +431,11 @@ Thank you. Yeah. I want to give kudos to all the 4 presenters. I think. What you
 
 Yeah, I'm gonna comment on that. Yes, in my case, of of course, is, everyone has their own artistic process. At least for me in the doing doing creative coding. In my case. Basic, very simple ideas and extended these basic ideas. When I say basic ideas, I mean, basic basic equation basic formulas and trying to extend it to different kind of scenarios. For me, that's the way. Well, that's the way that works. That's the Refer to work At at a certain stage when I was beginning to do this type of creative coding things.
 
-I used to start with huge big ideas I'm gonna have. I'm gonna use this very complex interaction. This very complex equation. But bottom line is, I end up with very basic things, just basic things, basic ideas, and and try to see how far I can take them. Yeah. But in some cases I I think about Probably some kind of higher mathematics in some cases. But but I I for me, it's more productive to to think in in, in very simple rules and very simple formulas. Yeah.
+I used to start with huge big ideas I'm gonna have. I'm gonna use this very complex interaction. This very complex equation. But bottom line is, I end up with very basic things, just basic things, basic ideas, and and try to see how far I can take them. Yeah. But in some cases I I think about probably some kind of higher mathematics in some cases. But but I I for me, it's more productive to to think in in, in very simple rules and very simple formulas. Yeah.
 
 ## Allen Hirsh [01:18:05](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4685s)
 
-I guess I'm the opposite of Elia. I try to make my systems as complicated as I can to see if I can still get art out of them. And I guess of all the the functional systems that I use, the one, the one that was the the biggest leap forward in terms of increased quality and interest, was was doing numerical integration, On, on the mostly somewhat on on positions, but mostly on the On the the the color, the color. Dimensions, I mean, in in a certain sense.
+I guess I'm the opposite of Elia. I try to make my systems as complicated as I can to see if I can still get art out of them. And I guess of all the the functional systems that I use, the one, the one that was the the biggest leap forward in terms of increased quality and interest, was was doing numerical integration, On, on the mostly somewhat on on positions, but mostly on the on the the the color, the color. Dimensions, I mean, in in a certain sense.
 
 Each one of those is is a separate manifold. And so you start integrating them. 1st of all, you eliminate all kinds of noise that way, because as the integrals get bigger changes become minor. But then, when you start mixing them. And then you do recursion on on the numerical integration. You have 2 numerical integrations, and they feed into each other. You really start getting really interesting results. And what for me. That that since the ultimate goal, aesthetically, was to get as close to manual painting, because, after all, I think about when a manual painter puts a brush into into a mixture of of of paints and then puts the brush on a canvas.
 
@@ -523,13 +523,13 @@ Speak to you.
 
 Yeah, yeah. It's a great question. And I've I've seen a lot of Actually artist in Web 3 are also discussing it. And and talk about like generative art and gold art. But I personally feel like it's impossible to eliminate the hand of artist from the artwork. Even like all the iron in this moment, we we still see the The personal style and approach of the artist. And yeah, so even if it's really minimalistic or conceptual work. It still has this kind of aura. And Like.
 
-I don't know this story of the artist. It's it goes within the artwork. So. But I get that. It's it is In abstraction. It there is a like. It's a good. Maybe it's a great way to approach to to the abstraction to the obstruction work. But still, yeah, thanks.
+I don't know this story of the artist. It's it goes within the artwork. So. But I get that. It's it is in abstraction. It there is a like. It's a good. Maybe it's a great way to approach to to the abstraction to the obstruction work. But still, yeah, thanks.
 
 ## Elio Ramos-Colón [01:27:42](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=5262s)
 
 Yeah.
 
-But it's always an experiment. I feel that I like that. For instance, all these parameters that I use are In most cases I have some idea what's gonna happen. But the final word is running the code and begin to think in the aesthetics of our Hungarian. So it's that's that's most of the time. That is my approach. So In comparison with, let's say, scientific computing. When you know what you want to get, you're waiting for some result. You're waiting for some solutions. In this case. The final word is the the screen. What you see in the canvas, the harmony of the colors. And so it's like you have all this background in computing, or probably scientific computing. But you have to.
+But it's always an experiment. I feel that I like that. For instance, all these parameters that I use are in most cases I have some idea what's gonna happen. But the final word is running the code and begin to think in the aesthetics of our Hungarian. So it's that's that's most of the time. That is my approach. So In comparison with, let's say, scientific computing. When you know what you want to get, you're waiting for some result. You're waiting for some solutions. In this case. The final word is the the screen. What you see in the canvas, the harmony of the colors. And so it's like you have all this background in computing, or probably scientific computing. But you have to.
 
 Sometimes you have to forget some of that stuff when you're doing art. So that's that's my feeling. That's my approach.
 

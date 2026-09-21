@@ -33,7 +33,7 @@ So the salons are a time and place in cyberspace where artists can gather once a
 
 The 1st salon was held on September 1st 2020, and included myself, Patrick Lichty, Steve Miller, and Oz Van Rosen, all of whom are artists in the community as well as art historian, Helen Harrison. So Helen in 1990, after serving as curator of the Parish Art Museum in Southampton, New York, Director of the Public Art Preservation Committee in Manhattan, and Curator of Guildhall Museum, in East Hampton, became director of the Pollock Krasner House and Study Center, which is a national historic Landmark Museum, and the former home of abstract expressionists, Jackson, Pollock and Lee Krasner.
 
-And she served as director of the Pk House until from 1990 until retiring this past year, and she continues to serve in an advisory role to the community and is a great asset to the project. She's been a real guiding light. So during the 1st salon session. The working definition of Techspressionism was decided upon by their participants as An artistic approach in which technology is utilized as a means to express emotional experience. Artist, Davonte Bradley, Aka. Davo proposed the idea of recording the salons and publishing them on a Youtube channel which was implemented starting with the Salon Number 8, and that was recorded on January 5, th 2021. So since then, you know, we're now at Salon Number 92, which is pretty remarkable.
+And she served as director of the Pk House until from 1990 until retiring this past year, and she continues to serve in an advisory role to the community and is a great asset to the project. She's been a real guiding light. So during the 1st salon session. The working definition of Techspressionism was decided upon by their participants as an artistic approach in which technology is utilized as a means to express emotional experience. Artist, Davonte Bradley, Aka. Davo proposed the idea of recording the salons and publishing them on a Youtube channel which was implemented starting with the Salon Number 8, and that was recorded on January 5, th 2021. So since then, you know, we're now at Salon Number 92, which is pretty remarkable.
 
 So the salons are moderated by a rotating panel of artist volunteers, and after the recording ends again, you guys are welcome to hang out for this after party, Aka, the Advisory Board. It's kind of tongue in cheek, in which the topic for the next salon is often decided upon, and other community related ideas are discussed. So that's my spiel about. What is a salon? Now, we're gonna move on into the good stuff which is the the presentations, by the artists.
 
@@ -53,7 +53,7 @@ Right now, I'm actually doing a project, a couple different projects. One's with
 
 Where is it? There it is. Okay. So I have been, I love technology, obviously. And I have been interested in working with AI for a long time. Let me see if this is actually going to work. Yeah. But I 1st came from like a video art perspective. So I was a drawer and painter. And then I became like a video artist who really liked like 1970s video art and did a lot of work that looks sort of like that. And then I decided to. I decided a couple years ago that I wanted to try to recreate these old video pieces.
 
-Using AI To see what would happen, and also because I knew the AI would kind of get it wrong. And I was interested in how it would Process guys, how it would process the The process that I was doing. It's hard to talk about. So this is a piece I made for my graduate Exhibition for my Mfa. Which I got from University of South Florida, and it's a picture of me attempting to draw my own shadow. But I'm you can't see any lines. I'm using white chalk. And can can you guys please? I'm sorry I'm live.
+Using AI To see what would happen, and also because I knew the AI would kind of get it wrong. And I was interested in how it would process guys, how it would process the The process that I was doing. It's hard to talk about. So this is a piece I made for my graduate Exhibition for my Mfa. Which I got from University of South Florida, and it's a picture of me attempting to draw my own shadow. But I'm you can't see any lines. I'm using white chalk. And can can you guys please? I'm sorry I'm live.
 
 Please keep it down. Sorry. And I and I'm trying to draw my own shadow. It's a Sisyphean task. I can't do it. Of course I'm wrestling with it. It's impossible to do so. Then I recreated that piece in 2,015. This will make sense, I promise and my plan is, and still is, to recreate these pieces. I have like, I don't know about 3 pieces, 4 pieces that I'm going to recreate until I just kind of physically can't recreate it anymore. Right? So I plan to do one, you know, in 10 years, maybe another 5 years. I'm not going to stick to a strict schedule because I can never do that, but it's kind of a it's going to be a lifelong work until I have these recreations all up together.
 
@@ -67,7 +67,7 @@ And, by the way a lot of these. You know. I also wanted to see how they would tr
 
 And so I did this piece and the slow quality, because I didn't really have the finances to get a better. A better one. And so then I recreated it in 2,023, and.
 
-Got to the pretty much the exact same spot, as far as I could tell. And just did the exact same kind of Silly thing. And to me it's like, What is it? Because I'm obsessed with drawing. It's kind of like what is a drawing, you know. To me a drawing is, in a way always incomplete. And I I just I don't know. I have a very like romantic possibly, or even like Religious thing about drawing in particular, and about the process of doing it, and drawing with both my hands, because also I like the figure, and I like, you know, the way that it looks as well, of course, on On the frame itself. I'm definitely a formalist.
+Got to the pretty much the exact same spot, as far as I could tell. And just did the exact same kind of Silly thing. And to me it's like, What is it? Because I'm obsessed with drawing. It's kind of like what is a drawing, you know. To me a drawing is, in a way always incomplete. And I I just I don't know. I have a very like romantic possibly, or even like Religious thing about drawing in particular, and about the process of doing it, and drawing with both my hands, because also I like the figure, and I like, you know, the way that it looks as well, of course, on on the frame itself. I'm definitely a formalist.
 
 So I have this one. And then I Had this. Now, this is when we got more video to video AI and image to image AI, so I could do it a little bit more close to the actual, you know. Visuals. So this is great. This was in a show in 2024. So now I'm recreating them, and it's it's changed significantly since the last time I tried to do the recreation, which I think was in 2022. Still some messed up, you know stuff. And you know I'm not using necessarily top of the line. But you know I've gradually actually bought, you know, some credits, not use the free versions.
 
@@ -81,7 +81,7 @@ Okay, yeah, and and so I'm putting them together. So also, I have some rules whe
 
 So this is my most recent one. And it's from an old video Of me rolling down hills. So I did this whole thing where I was like dressed in white, rolling down hills. Many different types of hills. And this is from probably like 2,013 or so. So. Here's the updated version, one's missing. There's 1 that I just and then I'm going to do the last one. So this is my last one, and I just got done with this like yesterday. So world premiere.
 
-And so this is the most recent. And of course the quality is, I think, actually better. Is really sticking closely to like actually the background and everything. This one was mostly image with a prompt. The prompt didn't say anything about the race or the color of the hair of the woman. It just said, a woman. Just so. I'm still sort of testing exactly What it's going to do. This one was very interesting because it turned the Me. Wearing white to me, bearing a wedding dress or a hoofy dress like that.
+And so this is the most recent. And of course the quality is, I think, actually better. Is really sticking closely to like actually the background and everything. This one was mostly image with a prompt. The prompt didn't say anything about the race or the color of the hair of the woman. It just said, a woman. Just so. I'm still sort of testing exactly What it's going to do. This one was very interesting because it turned the me. Wearing white to me, bearing a wedding dress or a hoofy dress like that.
 
 Yeah, so, okay. But I time is running out like I said, I'm in front of a college classroom, unfortunately. So if you have any questions, I put my email in the chat, and and thank you so much to the Techspressionists for inviting me. Thank you.
 
@@ -171,7 +171,7 @@ Michael, we're just about at time. Sorry I forgot.
 
 Okay, alright, I'll I'll whiz through here really quickly, then.
 
-And these images here of the Where for me of the universe ever becoming. It's the sense of potential actualized.
+And these images here of the where for me of the universe ever becoming. It's the sense of potential actualized.
 
 And these are recent images that I actually have up on my website, which were generated by AI. And this final one. Here is an homage to Salvador Dali and Renee Magret. With the burning giraffe smoking the pipe. And so I'll end it there.
 
@@ -191,7 +191,7 @@ What's really exciting to me is that I never know if I'm going to get something 
 
 But I never know for what I'm gonna get and how I'm gonna use it. So here I'm combining some old and new techniques To show in a video with sound that I put together. So using the regular painting and introducing the AI imagery that I then animate. So that's some of what you're seeing here. What's really cool about this for me, and I was originally told I was only getting 5 min. So I made a very short presentation. Is that, again, to show how I go from painting to multiple interpretations, this painting, quaffed, turned into not only this older woman, this man through without me commanding it to change gender or race, but through just setting.
 
-And I can, of course, control the facial expressions. These are the same root paintings, and eventually To this idea of how I can take one painting and give you several settings and images for them and then turn them, animate them and turn them into Video.
+And I can, of course, control the facial expressions. These are the same root paintings, and eventually To this idea of how I can take one painting and give you several settings and images for them and then turn them, animate them and turn them into video.
 
 So here I've combined live film shots of a road trip With these characters to create this unreal sense of feeling and as if they were real. Another aspect of my practice with this work is using things like art breeder, where I combine 3 and 4 paintings to create an image. And this is working with similar the similar 3 and 4 paintings. And this is another image that I put together. So I think it's very interesting how The AI will allow me to take a simple painting again. This is just to go back and forth this painting, some different setting, right to again creating all other Section of her. And these are some video stills. And here is that video.
 
@@ -239,7 +239,7 @@ You're muted.
 
 ## Anton Dubrovin (MCHX) [55:53](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3353s)
 
-Yeah, Hi, Hi, everyone Let me put down the hand. Okay? Yeah. 1st of all, it was really amazing. Showcase. I really, I really enjoyed all the works from System Michael and Randy. I was really surprised and like Blown away, really enjoyed it. Everything. So I also work with AI a bit and the main problem for me is curating the Ideas and the outputs. So I would like to hear from from you artists, how do you, curate? How do you? How did? How do you do? You stay focused on the idea, or you just exploring? And so what's your take on curating the outputs?
+Yeah, Hi, Hi, everyone Let me put down the hand. Okay? Yeah. 1st of all, it was really amazing. Showcase. I really, I really enjoyed all the works from System Michael and Randy. I was really surprised and like Blown away, really enjoyed it. Everything. So I also work with AI a bit and the main problem for me is curating the ideas and the outputs. So I would like to hear from from you artists, how do you, curate? How do you? How did? How do you do? You stay focused on the idea, or you just exploring? And so what's your take on curating the outputs?
 
 Yeah, thank you.
 
@@ -267,7 +267,7 @@ Great system. We haven't heard from you yet. Would you like to answer? And 1st o
 
 ## Cynthia Beth Rubin [59:37](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=3577s)
 
-Just to interrupt for a second you need to click on translation at the top of the show captions and then pick the language. And for those people who Understand French, you have the choice of most people. It's the same language, English, English, but you can make it different languages if you want to Use. Read one and speak the other. Okay. And I have a guide that I put way up, and it's also you can. Just. I'll put it in again. If you're having trouble.
+Just to interrupt for a second you need to click on translation at the top of the show captions and then pick the language. And for those people who Understand French, you have the choice of most people. It's the same language, English, English, but you can make it different languages if you want to use. Read one and speak the other. Okay. And I have a guide that I put way up, and it's also you can. Just. I'll put it in again. If you're having trouble.
 
 Okay.
 
@@ -363,7 +363,7 @@ To school a major. We found it je passis et re.
 
 ## Michael Pierre Price [01:11:35](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4295s)
 
-I mean, Colin, I think it's a real interactive process. Yes, there's the receiving of, you know the images. But what's also interesting is What's presented. I can interpret those images in a very different way than somebody else might interpret those images. And it's my interpretation. Then that says, Okay, I want to run with this one or these, because I'm feeling, or I'm sensing this and and that goes from there. So it's it's really that human AI interaction that's at play. It's like.
+I mean, Colin, I think it's a real interactive process. Yes, there's the receiving of, you know the images. But what's also interesting is what's presented. I can interpret those images in a very different way than somebody else might interpret those images. And it's my interpretation. Then that says, Okay, I want to run with this one or these, because I'm feeling, or I'm sensing this and and that goes from there. So it's it's really that human AI interaction that's at play. It's like.
 
 You know, somebody hears a piece of music, and for some person they hear noise, and somebody else gets inspired. And and I think, as artists. And for me as as somebody who really thrives on experimentation and exploration. I'm trying my best to elicit something outside of my expectations. And that really inspires me. And that's why. For me, AI is just this continuous source of new inspiration. And That's, you know, that's where I'm coming from on. All of this.
 
@@ -397,7 +397,7 @@ I'm going down into the cave, and I don't know if there's gonna be a monster dow
 
 Romante.
 
-## Cynthia DiDonato [01:15:23](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4523s)
+## Allen Hirsh [01:15:23](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4523s)
 
 All right.
 
@@ -441,7 +441,7 @@ And there are lots of lessons like this in art history. Domier comes to mind imm
 
 Alright. Do we have any other questions from the audience, or Cynthia?
 
-## Cynthia DiDonato [01:21:45](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4905s)
+## Allen Hirsh [01:21:45](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4905s)
 
 1st of all, let me say it's been a wonderful salon. The concept of breaking AI has come through with each of the presenters, and the breaking suggested to me Experimentation, trying to make it the artist's own work rather than what the AI might necessarily produce. And I'm hearing that from the artists that are presenting. But I do have a question for sustain. In your presentation you mentioned that AI involves collage.
 
@@ -455,7 +455,7 @@ Proge du collage.
 
 In a strange way that might explain the make the shadow man that showed up in Collins illustration.
 
-## Cynthia DiDonato [01:24:09](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5049s)
+## Allen Hirsh [01:24:09](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5049s)
 
 Yeah, but Colin didn't put the man there. If I understand.
 
@@ -463,7 +463,7 @@ Yeah, but Colin didn't put the man there. If I understand.
 
 We didn't.
 
-## Cynthia DiDonato [01:24:13](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5053s)
+## Allen Hirsh [01:24:13](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5053s)
 
 The stain.
 
@@ -471,7 +471,7 @@ The stain.
 
 He didn't. Consciously. He didn't consciously put the man there. But maybe AI is to the point where it can read between the lines, so to speak, of what Colin is really thinking about.
 
-## Cynthia DiDonato [01:24:26](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5066s)
+## Allen Hirsh [01:24:26](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5066s)
 
 True, however, I think, sustain mentioned that he cuts out if I and he can correct me, he cuts out elements or shapes that he likes and then marries them to another Landscape, if you will, or view, or with other characters. And so that collage technique is, I think, very interesting to me, and very powerful.
 
@@ -537,4 +537,4 @@ I see.
 
 That. You know. That's a big part of what expressionism is about, you know, at least you know, that was something that I thought about initially when starting to curate shows with the group, is that there's a large bias within the art world. Obviously, we're kind of aware of that slanting towards white males. And so In the exhibitions, you know, I know that I personally have made a great effort to try to be as close to gender and neutral as possible, to be as diverse geographically, you know, ethnically whatever just in general, diverse as possible, and that ties into this idea that expressionism could function As a social sculpture in the in the kind of the conception of Joseph boys where work of art could be.
 
-You know, basically using structures in society as a medium to exert change. And I think that that's something that you know we're all able to do by being self directed in the group. And, you know, creating our own sort of activities within it, such as exhibitions. Group activities and and such. So so, yeah, very grateful to have all you all, all of you artists involved, and you know, to have this thing keep going. So I'm gonna close the recording out in in the Just to to keep the time limited. But anyone who wants to stick around you're more than welcome to stay for the after party and to continue the conversation. So once again, I'd like to thank all of the the presenters. I'd also like to thank Renata, who's not able to be here with us today. For for curating the the salon and pulling all of you artists together. I thought, was there was a lot of synergy. So With that I am going to stop the recording in 3, 2, 1, and cut.
+You know, basically using structures in society as a medium to exert change. And I think that that's something that you know we're all able to do by being self directed in the group. And, you know, creating our own sort of activities within it, such as exhibitions. Group activities and and such. So so, yeah, very grateful to have all you all, all of you artists involved, and you know, to have this thing keep going. So I'm gonna close the recording out in in the just to to keep the time limited. But anyone who wants to stick around you're more than welcome to stay for the after party and to continue the conversation. So once again, I'd like to thank all of the the presenters. I'd also like to thank Renata, who's not able to be here with us today. For for curating the the salon and pulling all of you artists together. I thought, was there was a lot of synergy. So With that I am going to stop the recording in 3, 2, 1, and cut.

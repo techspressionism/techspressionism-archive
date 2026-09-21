@@ -96,7 +96,7 @@ And we have both for iPhone instructions and Zoom instructions. I mean, desktop 
 
 ## Colin Goldberg [05:43](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=343s)
 
-Thank you, Cynthia. Thanks so much. I just also wanted to, Share my screen real quick, so if anybody wants to get some background information on the show that's coming up in Uzbekistan, you can get there from Techspressionism.Com, from the homepage. If you scroll down a little bit, there's some general information about the exhibition here, which is, at the Museum of Contemporary Art in Ergench, and there's a link, this photo links to The microsite that Cynthia and her team of artists have put together, and from there, you can access the catalog and read the book.
+Thank you, Cynthia. Thanks so much. I just also wanted to, share my screen real quick, so if anybody wants to get some background information on the show that's coming up in Uzbekistan, you can get there from Techspressionism.Com, from the homepage. If you scroll down a little bit, there's some general information about the exhibition here, which is, at the Museum of Contemporary Art in Ergench, and there's a link, this photo links to The microsite that Cynthia and her team of artists have put together, and from there, you can access the catalog and read the book.
 
 So that's how you would get there, you know, directly. And then there's also some other information, on the… On the site itself about, I believe the artist list is there, and.
 
@@ -220,7 +220,7 @@ I shouldn't have numbered these in. All right, back to, climate change.
 
 Last month, don't do that. Whatever I did, okay. I'm from New Hampshire. Although I've lived in New York more than I lived in New Hampshire. But it is, as my home state, and I felt initially when I started to work in climate change, well, you know, New Hampshire has the shortest, coastline of any of the states. And I said, it's only 18 miles, and not as the crow… it weaves in and out, and it's still only 18 miles. And… but what I discovered is, all too soon, was that it is an issue.
 
-The water's rising, the water goes underground, comes out about… 30… drive time 30 minutes later, or 20 minutes later, as a flood in the… in the lower line as you're driving, from east to west. So this was a… an early… it's also interesting My new… I did show this, and it's, 42 by 50… I can't read my own writing. It looks like I made a mistake. I think it's supposed to be 45… 42 by 55. And. I think it was this piece. My guts… All my piece… yeah, this piece, you know, talks about… I wanted to give a historical perspective, and, Just felt the need to paint. Obviously, painted before I framed it.
+The water's rising, the water goes underground, comes out about… 30… drive time 30 minutes later, or 20 minutes later, as a flood in the… in the lower line as you're driving, from east to west. So this was a… an early… it's also interesting My new… I did show this, and it's, 42 by 50… I can't read my own writing. It looks like I made a mistake. I think it's supposed to be 45… 42 by 55. And. I think it was this piece. My guts… All my piece… yeah, this piece, you know, talks about… I wanted to give a historical perspective, and, just felt the need to paint. Obviously, painted before I framed it.
 
 These… it's each 8… sorry. 8… each album is on 8.5x11 paper. It's, individually framed, and it's… The, obviously, the painting is under the glass. It's on… it's on the, work itself. If anybody's got questions, let's shoot them out.
 
@@ -240,7 +240,7 @@ Oh, okay, alright.
 
 Go… okay. This is a Vietnam piece. The paint… I want to show it more because of the size. There's not a lot of… Painting on. It's mostly down in here and, in a few areas up in this, in this area. I… I kind of loved this piece. It was, it got a little out of hand, but, I did another pe… another one. A number of these pieces I've, re… re… I don't know if it's… it's a… they're new pieces that I worked on based on the… The work done here, and reduce the size to 18 by 24 inches.
 
-And several of them are now in the, collection of the,. Hello Museum in Manhattan, and The, Racine Museum of Art in Wisconsin, so… That's kind of fun. Okay, this is, painting with, digital. The painting with… With digital… digitized work put on it. See, some of you will remember the first horrible heat wave. In Paris. Where so many people were killed. And… from the… from the heat. And, this was my… my response to it. And so, it's… it's… it's a painting with, Worked… I don't know, is it technically fidgetal?
+And several of them are now in the, collection of the,. Hello Museum in Manhattan, and The, Racine Museum of Art in Wisconsin, so… That's kind of fun. Okay, this is, painting with, digital. The painting with… With digital… digitized work put on it. See, some of you will remember the first horrible heat wave. In Paris. Where so many people were killed. And… from the… from the heat. And, this was my… my response to it. And so, it's… it's… it's a painting with, worked… I don't know, is it technically fidgetal?
 
 I don't know, because it's… these are copies that I pasted on. It's two… it's two ways, in any case. Yeah. I do tend to go New England on, on, on my work. And the heat has… has maintained itself. This was, again, this was a digital piece, usual thing, use of my photography, as some of the work, and then I collaged… and Drew… On the piece. I see, I need to fix that up. Okay. I am. No, I… Another New Hampshire piece with… this is… and I'm gonna skim over that one.
 
@@ -312,7 +312,7 @@ There's a story there, you can feel it, yeah.
 
 ## Ann Shapiro [19:49](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1189s)
 
-It might be interesting, I never tried it. It might be interesting to, To… to… to see it, that… to see it. If we… if we have a chance, I'll look to show… look up a couple of the… those pieces, especially the Vietnam piece, and how I changed it. The change is dramat… is dramatic. But it would take me a few minutes to find it.
+It might be interesting, I never tried it. It might be interesting to, to… to… to see it, that… to see it. If we… if we have a chance, I'll look to show… look up a couple of the… those pieces, especially the Vietnam piece, and how I changed it. The change is dramat… is dramatic. But it would take me a few minutes to find it.
 
 ## Roz Dimon [20:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1219s)
 
@@ -376,7 +376,7 @@ I mean, they're 6 feet high. When he said, can you do an addition of these 6 fee
 
 ## Colin Goldberg [33:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=2034s)
 
-All right, thanks so much, Roz. Really interesting body of work that you put together, and definitely, vigil. So… yeah, I'm going to share a little bit about my work. Initially, I was thinking, well, a lot of my work, my, Current work involves, painting and digital printmaking, the combination of those two things, like the piece back behind me is a painting, started as a painting, and then I printed, an image of clouds that I took, actually, with my cell phone.
+All right, thanks so much, Roz. Really interesting body of work that you put together, and definitely, vigil. So… yeah, I'm going to share a little bit about my work. Initially, I was thinking, well, a lot of my work, my, current work involves, painting and digital printmaking, the combination of those two things, like the piece back behind me is a painting, started as a painting, and then I printed, an image of clouds that I took, actually, with my cell phone.
 
 Enlarged it with, a bunch of AI upscaling tools. And so, like, you know, I was thinking fidgetol along those lines. And then, when I read the definition, it made me realize, like, that I have a body of work called metagraphs that really seems to fit the bill more closely, which are pieces that started out as digital drawings, back in the late 90s, early 2000s, and then evolved into animations. Around maybe 2011, I started animating them. 10 years after that, I started really diving into the animation aspect and minting them as NFTs, and most recently, they've evolved into, augmented reality work. So, I'm gonna just share a little bit about this series, called Metagraphs.
 
@@ -390,7 +390,7 @@ So, like, if I take the actual EPS file, you can open it up in a text editor and
 
 And then down the road, commercial pigment-based printing became a thing, and so the cool thing about working in a vector-based format is they could really be, fabricated to any scale that's commercially, available. So… Around 2013, I produced a bunch of these, as pigment prints. By that point. Pigment printing was something that was, you know, available to people, essentially large format inkjet printing, and I exhibited them the spotty work. A selection of them as 3x4 foot, canvas prints at Southampton Town Hall, which is in Southampton, New York, where we had our first group exhibition.
 
-And, you know, that was the first time that I actually had produced this work physically at a large scale. And then shortly thereafter, in, Well, actually, it was a little bit before that. I started playing around with animating the work, and I did a collaboration with a German drum and bass artist, an electronic musician. Who, created a soundtrack specific to the work, and I ended up producing this collaborative work as a 7-minute piece. Which was kind of, like, the first…. So, you can see, he created, like, a long electronic music piece to go along with the animation, and we ended up producing it as a limited edition DVD, which was, you know, self-produced and then signed and numbered. And down the road, I revisited the animation aspect of it and minted the work as NFTs, and that was, back in… Say 2021, I started minting the work as NFTs, so they're all, minted on a platform called Foundation, and you can see, where these… where these pieces ended up as animations, As NFTs, so a number of them were collected. I know Roz actually owns this one, Transcape.
+And, you know, that was the first time that I actually had produced this work physically at a large scale. And then shortly thereafter, in, well, actually, it was a little bit before that. I started playing around with animating the work, and I did a collaboration with a German drum and bass artist, an electronic musician. Who, created a soundtrack specific to the work, and I ended up producing this collaborative work as a 7-minute piece. Which was kind of, like, the first…. So, you can see, he created, like, a long electronic music piece to go along with the animation, and we ended up producing it as a limited edition DVD, which was, you know, self-produced and then signed and numbered. And down the road, I revisited the animation aspect of it and minted the work as NFTs, and that was, back in… Say 2021, I started minting the work as NFTs, so they're all, minted on a platform called Foundation, and you can see, where these… where these pieces ended up as animations, As NFTs, so a number of them were collected. I know Roz actually owns this one, Transcape.
 
 And there's a few that were, collected by this Art on Internet Foundation. This one was in particular interesting because it was, my first, secondary market sale, so you could see the activity, of the NFT. Which was… it was purchased by this one collector, who I believe is actually, like, one of the CryptoPunk holders, although he sold… he sold it. And then it became, part of the AOI collection back in… shortly thereafter. So one nice thing about NFTs is that, it allows for Royalties to happen automatically for the artists if it changes hands down the road, which is pretty cool.
 
@@ -464,7 +464,7 @@ P.
 
 ## Michael Pierre Price [50:19](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3019s)
 
-For a show in Flagstaff, They're, they're one of the, Few, night… night cities across the country, because the darkness is so… so deep there. And so there's, there's an observatory there, and there was a show, dealing with, astronomy, and… this is a piece, titled Anodomini 1054. It's, Dedicated to, an event that happened in the year 1054, a supernova that's now known as the Crab Nebula. And, so this, this is a piece There's… there's a couple, artist mannequins, or actually three in this piece, that I actually used, my… my artist mannequin to, incorporate with this, but the rest of it was done, digitally. So, Colin, just to kind of follow up on what you were talking about with, being able to use vector graphics.
+For a show in Flagstaff, They're, they're one of the, few, night… night cities across the country, because the darkness is so… so deep there. And so there's, there's an observatory there, and there was a show, dealing with, astronomy, and… this is a piece, titled Anodomini 1054. It's, Dedicated to, an event that happened in the year 1054, a supernova that's now known as the Crab Nebula. And, so this, this is a piece There's… there's a couple, artist mannequins, or actually three in this piece, that I actually used, my… my artist mannequin to, incorporate with this, but the rest of it was done, digitally. So, Colin, just to kind of follow up on what you were talking about with, being able to use vector graphics.
 
 Using fractals, also is a very similar thing, because that's all mathematically based, and basically there's a programming language, it's a text, Text-based, that you can save out, and it's very, very minimal, and it's only when you actually decide how large you want to print that it becomes a bitmap. And so, this is mathematical, and I incorporated, some physical Gestures to go along with the fractal. Same thing here, another mathematically-based image.
 
@@ -488,7 +488,7 @@ Awesome, thanks, Michael. I see also in the, in the chat, Lucy Boyd-Wilson, want
 
 ## Lucy Boyd-Wilson [54:37](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3277s)
 
-Great, thank you. Over the years, I've enjoyed, creating some pieces using a Connect motion tracking system, which is basically a camera with, depth sensing. So I can incorporate the motion of whoever's standing in front of the camera with, my animations. So, just to give an idea, this is, that is a Kinect, device. And what you see on the screen is an animation that I, well, an interactive experience that I call Memories of Rain, and… this is, a recording of… of an interaction. So as I'm moving in front of the camera, I'm… I'm isolating the… in my software, I'm isolating the silhouette of the body and, real time… got some graphics effects over the top of it.
+Great, thank you. Over the years, I've enjoyed, creating some pieces using a connect motion tracking system, which is basically a camera with, depth sensing. So I can incorporate the motion of whoever's standing in front of the camera with, my animations. So, just to give an idea, this is, that is a Kinect, device. And what you see on the screen is an animation that I, well, an interactive experience that I call Memories of Rain, and… this is, a recording of… of an interaction. So as I'm moving in front of the camera, I'm… I'm isolating the… in my software, I'm isolating the silhouette of the body and, real time… got some graphics effects over the top of it.
 
 His… Here's another example.
 
@@ -506,7 +506,7 @@ And… that's it! Thank you, everybody.
 
 ## Colin Goldberg [58:06](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3486s)
 
-Great. Thanks so much, Lucy. That's really interesting how you incorporated the Connect into the process, for sure. So, let's see, I see that, Sahar, said she'd like to present in the chat, so, go ahead.
+Great. Thanks so much, Lucy. That's really interesting how you incorporated the connect into the process, for sure. So, let's see, I see that, Sahar, said she'd like to present in the chat, so, go ahead.
 
 ## Susan Detroy [58:26](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=3506s)
 
@@ -548,7 +548,7 @@ Oh, okay, alright, will do. Thank you. So I, ironically, I am involved in two, i
 
 Are gonna show at MENA. So, I am thrilled. I'm thrilled about both of these projects, and they are… A testament to… The connections I've made that started during COVID, where I connected to international groups. This group, the Expressionism group, and the International Online Art Collective, both of those groups have changed my art world Into something I had never imagined. I mean, I know people say that, but I never imagined that I would be doing what I'm doing now.
 
-And, so I'm gonna screen share and just show briefly a couple photos from the installation, that was Completed, we don't have signage up yet, and then I'll pick one of the films, to share. Okay, so I'm going to share my screen, start broadcasting.
+And, so I'm gonna screen share and just show briefly a couple photos from the installation, that was completed, we don't have signage up yet, and then I'll pick one of the films, to share. Okay, so I'm going to share my screen, start broadcasting.
 
 Okay… It's coming, it's coming. Optimize her video… Alright, do you see my photo? Catalog. Yes? Okay. So, this is the installation Of the work. I'm just… I'm gonna show this video. These are pieces that were generated by 14 artists from 8 countries. During COVID, over a two and a half year period, we did a chain reaction where we only saw the work by, the person ahead of us. And we ended up with a traveling exhibit. It travels in this beautiful cabinet.
 
@@ -558,7 +558,7 @@ Soap. Super excited to see all these pieces, and the 7 pieces that I generated. 
 
 Slash warriors, and this is the one that, is gonna show.
 
-Okay, so, I… I don't… Know if there's enough time, but I'm just gonna briefly show The beginning clip of the other two. This one is, more based on my Portrait of a Woman series that uses my face, and also combines analog and, digital work. It's called Untangled. I'm gonna stop, and then the third film. Is this. It's much longer, but I'll just show the beginning. It's a… Homage to a place that is, Has a colonized name, Skinner Butte, but it is actually Yapoa, which is the original name of this, area. It means high place, it's a butte.
+Okay, so, I… I don't… Know if there's enough time, but I'm just gonna briefly show The beginning clip of the other two. This one is, more based on my Portrait of a Woman series that uses my face, and also combines analog and, digital work. It's called Untangled. I'm gonna stop, and then the third film. Is this. It's much longer, but I'll just show the beginning. It's a… Homage to a place that is, has a colonized name, Skinner Butte, but it is actually Yapoa, which is the original name of this, area. It means high place, it's a butte.
 
 It's a urban… sanctuary, and I made a…. Film honoring the place, I captured Clips over, different seasons. And did on-site, recordings of birds and…. Leaves and that kind of thing. Flora fauna. So, I think I should probably stop, because I don't want to take all the time. And I'm gonna stop broadcasting and come back. To the… come back, come back, come back. Here I am, okay? So, it's a very full… Time for me in my life right now. I have big things happening, and that show locally will have a grand opening next Friday with a community paint.
 
@@ -672,7 +672,7 @@ All right. Awesome. Thanks, Sam. Okay, so I saw that Erin Ko has a, announcement
 
 ## Erin Ko [01:17:56](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=4676s)
 
-Hello, everyone. Nice to see lots of you who I haven't seen for weeks and weeks. I kind of dropped out of the co-working group, got really busy, be back there soon. So, but very nice work, everyone. I wanted to announce that, submissions are now open. We have an open call for the Every Woman Biennial. Of which I'm an organizer and one of the curators, and for the first time, they are actually doing, what I'm calling new media, because of exactly what you just said, Colin, like, it's not digital media, but, For sure, we have a section for artists who are very specifically using technology as a core part of their practice.
+Hello, everyone. Nice to see lots of you who I haven't seen for weeks and weeks. I kind of dropped out of the co-working group, got really busy, be back there soon. So, but very nice work, everyone. I wanted to announce that, submissions are now open. We have an open call for the Every Woman Biennial. Of which I'm an organizer and one of the curators, and for the first time, they are actually doing, what I'm calling new media, because of exactly what you just said, Colin, like, it's not digital media, but, for sure, we have a section for artists who are very specifically using technology as a core part of their practice.
 
 I personally feel like that is far more interesting as someone who has always worked in layers than just an on-screen art. Having said that, we will have screen art, but… this show is awesome. I participated as an artist in 2024. I'm gonna put the link to apply in the chat. The theme this year is… the title is Spectalia, and the idea is spectacle, and that 100 years ago, when we look back, we saw the rise of fascism and, like, all these art movements that addressed what was happening across planet Earth.
 

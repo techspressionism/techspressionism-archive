@@ -24,7 +24,7 @@ speakers:
   - name: Deann Stein Hasinoff
     country: Edmonton, Canada
     start: 1364
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: North Providence, RI USA
     start: 1702
   - name: Colin Goldberg
@@ -140,7 +140,7 @@ And that's it. Thanks for letting me share. Thank you, Deanne. I always love you
 
 I'm doing great. Can you hear me? Yes. Yeah. Got you now. Awesome. I'm doing fantastic. But I was hoping Colin and Cynthia and Tommy could go before me because I've been trying to edit down what I want to show. But I can't in the next minutes. I'm sorry. OK. So you want to go last? Yes, please. All right. That's fine. Thanks. OK. Well, Cynthia, then I guess you're up next, according to my screen here.
 
-## Cynthia DiDonato [28:22](https://www.youtube.com/watch?v=90wRPqAgA98&t=1702s)
+## Allen Hirsh [28:22](https://www.youtube.com/watch?v=90wRPqAgA98&t=1702s)
 
 OK. I will unmute myself. Now share my screen. OK. I did something. OK. I don't know what happened. Well, here it is. OK. I'm not sharing that. Sorry about that. That's OK. It wants a plug-in. OK. And for some reason. Oh. I'm sorry. I'm sorry. For some reason. I'm going to stop the share and start again. OK. For some reason it was acting strange. OK. IPhone. IPad. Here we go. Share.
 
@@ -290,7 +290,7 @@ But let me do something that would bring this to mind historically in a way that
 
 And I'm at the top of this all the time. And I'm at the top of this all the time. Pensiveness and that laser stare where you're determined to try and figure something out, but maybe it might elude you and it may not show up until sometime later on. And this is obviously me, you know, just weirded out being in my home space by myself.
 
-In between, it's called. And this is my brother, Grady. His nickname is Face. And I took this photo of Grady back in 2008. Grady played a very important part in my journey as a caregiver. And he would always come and cook good food. My dad was a master chef and all my brothers cook. My brothers cook way better than my sister and I do.
+In between, it's called. And this is my brother, Grady. His nickname is face. And I took this photo of Grady back in 2008. Grady played a very important part in my journey as a caregiver. And he would always come and cook good food. My dad was a master chef and all my brothers cook. My brothers cook way better than my sister and I do.
 
 And I wanted to capture Grady. Whose spirit likewise resides in the house, especially in the kitchen. And here again is Grady and my mother. And the banana pancakes, which he was so famous for. My mother passed away of breast cancer in 2015. And here I captured her. She had a very long brain. She was just flipping it over. Her shoulder, you know, she lost that hair when she started getting chemotherapy.
 

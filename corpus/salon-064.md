@@ -21,7 +21,7 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 1403
-  - name: Cynthia DiDonato
+  - name: Allen Hirsh
     country: null
     start: 1766
   - name: Roz Dimon
@@ -122,7 +122,7 @@ Awesome. That was a very nice instructive demo of showing off layers, Colin. Tha
 
 Okay. Cynthia. Now, I know Roz wanted to go. Am I jumping the line here? Not at all. Please, go right ahead. Go right ahead. Thank you, Roz. Cynthia, you're muted. We lost your audio.
 
-## Cynthia DiDonato [29:26](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=1766s)
+## Allen Hirsh [29:26](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=1766s)
 
 Sorry about that. I'm Cynthia DiDonato, and I'm zooming in from North Providence. And I'm going to start sharing to get right to... It says ask... Oh, no. Sorry. Here we go. IPad share. I'm getting a plug-in. In order to share. And let's see. Okay. Can you see my... You can see my granddaughter. Okay. Let me first say that... Can everyone see what I have on my iPad screen?
 
@@ -288,7 +288,7 @@ How we chose to respond to it. And in that, I think we are allowed to remember. 
 
 Thank you, Bradley. So, I guess we're getting close to wrapping up time here. And any final thoughts. This has been an awesome conversation here. It really has. This is what, this is the value I draw from this group. So thank you all. Yeah. Keep taking the chances. My mother always said life is not a dress rehearsal. It sure isn't. So for those of you that are new to the salons, we do a little sort of after parties slash advisory board slash community building session. Once the recording stops and the tradition for a little while now has been that we select collectively select the topic for the next salon, whoever sticks around. So you're all welcome to stick around and help choose a topic for next time.
 
-And thank you, Michael, for moderating. Oh, my pleasure. No, I'm, I'm very happy to have done that and I would just want to, plug Cynthia Beth Rubin SIGGRAPH announcement. So yeah, I'm going to check it out. So yeah. Thanks Cynthia for sharing that with us. Yeah. And I'm happy to answer any questions from the after party time.
+And thank you, Michael, for moderating. Oh, my pleasure. No, I'm, I'm very happy to have done that and I would just want to, plug Cynthia Beth Rubin's SIGGRAPH announcement. So yeah, I'm going to check it out. So yeah. Thanks Cynthia for sharing that with us. Yeah. And I'm happy to answer any questions from the after party time.
 
 Cool. You have a show up, don't you? You have a show up. Can I also plug that? Yeah. Oh yeah. I have a show in new Haven. And if anybody wants to show up on Sunday to come to new Haven for lunch at noon, you're welcome. Let me know so I can send you the RSVP form because it's in a synagogue. So we have us, we need a guest list, but happy to show. I hope people come and maybe we'll record it. If I can find volunteer recorders.
 

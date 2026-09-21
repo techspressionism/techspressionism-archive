@@ -107,7 +107,7 @@ Yes. So the second artwork shows the infinite possibilities on a voyage of unive
 
 They are musicians by profession. There are space tourists, space tourists and messengers of planet Earth. They want to spread the message of harmony and peace to the aliens there. The bottom one is a musician from India, and is playing dole As dole is visible on his face. I have done a small Miniature of the word dole On the face of the bottom artist. A classical Indian drum which is releasing Indian tunes, Indian ragas, and the way Indian people celebrate music.
 
-The another one is the musician from Western country and is playing Imperial concert piano. He is playing the piano to a suitable note to match it with that of the Indian friend. And together they are making a fusion. Music which is pleasing to the celestial friends. Up there. Together they are projecting the culture of Mother Earth in turn. They are also entertaining themselves in the vast expanse of the universe Where someone may feel lonely, otherwise All this night all this might Also become a reality in near future, as countries are planning to send humans to universe in upcoming years, in different forms and on different missions. We have used adobe fresco as a tool of making both of the artworks.
+The another one is the musician from Western country and is playing Imperial concert piano. He is playing the piano to a suitable note to match it with that of the Indian friend. And together they are making a fusion. Music which is pleasing to the celestial friends. Up there. Together they are projecting the culture of Mother Earth in turn. They are also entertaining themselves in the vast expanse of the universe Where someone may feel lonely, otherwise All this night all this might also become a reality in near future, as countries are planning to send humans to universe in upcoming years, in different forms and on different missions. We have used adobe fresco as a tool of making both of the artworks.
 
 Digital artwork is quite fun, because whenever a mistake has been made, you can just erase it or redo it with a touch of button. But it's not possible on doing it with on the paper. I I we have used chisel, eraser, pixel brushes, live brushes and water brushes. As for making them. We also tried to add as many as elements as we could to make the appearance of the artwork look more realistic as possible. We sincerely thank the judges for selecting us and also for the platform to speak today.
 
@@ -127,7 +127,7 @@ Anyone asked to ask anything.
 
 ## Roz Dimon [16:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=970s)
 
-Yes, I had a question. I wasn't quite. It's very interesting. Very interesting, thank you. Or the pieces. I couldn't quite understand if the pieces were created With a digital tools, or were they or were you working on paper? I know you. You spoke about Paper versus you know how you can undo things, and I just was curious.
+Yes, I had a question. I wasn't quite. It's very interesting. Very interesting, thank you. Or the pieces. I couldn't quite understand if the pieces were created With a digital tools, or were they or were you working on paper? I know you. You spoke about paper versus you know how you can undo things, and I just was curious.
 
 ## Kedar Shah [16:39](https://www.youtube.com/watch?v=htDS7UsZjyA&t=999s)
 
@@ -165,7 +165,7 @@ Yes.
 
 ## Colin Goldberg [17:38](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1058s)
 
-Yeah, I mean, I just have a comment about it. You know. When you said you're we're showing the the artwork is conveying the culture of earth, you know, to To people off the earth, or whatever it just made me think of how this particular salon is really bringing in people from at least, you know, 3 or 4 different countries from all over the world, and at this particular moment in history. Right after our election. I think it's. You know. It just struck me that. You know we're we're on one planet and you know, it's it's it's nice for us all to get together to look at our, to share our work and everything else like that. So yeah, it's just a little observation.
+Yeah, I mean, I just have a comment about it. You know. When you said you're we're showing the the artwork is conveying the culture of earth, you know, to to people off the earth, or whatever it just made me think of how this particular salon is really bringing in people from at least, you know, 3 or 4 different countries from all over the world, and at this particular moment in history. Right after our election. I think it's. You know. It just struck me that. You know we're we're on one planet and you know, it's it's it's nice for us all to get together to look at our, to share our work and everything else like that. So yeah, it's just a little observation.
 
 ## Kedar Shah [18:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1109s)
 
@@ -207,7 +207,7 @@ And I wanted to show that piece while still keeping the mystery, and I wanted to
 
 ## Dhruv Garg [21:23](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1283s)
 
-Good evening, ma'am. So In this like, I just wanted like it's a very basic Artwork. So In this, like, it depicts it depicts a journey into the realms beyond which is not visible to a normal person. And like the this hidden world is in the mysterious nature. And the girl is a curious and like explorer, kind of girl who wants to explore the world. And she explored this world, which is very unseen and Very unseen to the world.
+Good evening, ma'am. So In this like, I just wanted like it's a very basic Artwork. So In this, like, it depicts it depicts a journey into the realms beyond which is not visible to a normal person. And like the this hidden world is in the mysterious nature. And the girl is a curious and like explorer, kind of girl who wants to explore the world. And she explored this world, which is very unseen and very unseen to the world.
 
 ## Anya Chaturvedi [22:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1327s)
 
@@ -215,7 +215,7 @@ And might I add something to that? When I sent this, you know, half piece to dra
 
 This is my individual art piece. It's called lucid flight. Now. I Wanted to really grasp the theme of dreams here. So ever since I was a kid. I have been wanting to fly, and I don't care if I fly a plane, or if I somehow magically grow wings. I just wanted to fly. And I wanted to show that Through my art. So here you can see it's very Simple and easy to understand that there's a little girl who is looking at another girl who is flying a plane, and she's dreaming of it.
 
-And the story behind actually naming this artwork. Now I Have an absolute love for psychology. And there's a type of dream called lucid dream. Where you can control what is happening In the dream. So I thought that it would be such a beautiful name, because this is a Type of thing that I can control like. If I want to fly, I can fly someday. So I wanted to bring that control over it, and that's why I named it lucid flight. Over to you. Bro.
+And the story behind actually naming this artwork. Now I Have an absolute love for psychology. And there's a type of dream called lucid dream. Where you can control what is happening In the dream. So I thought that it would be such a beautiful name, because this is a type of thing that I can control like. If I want to fly, I can fly someday. So I wanted to bring that control over it, and that's why I named it lucid flight. Over to you. Bro.
 
 ## Dhruv Garg [23:46](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1426s)
 
@@ -337,7 +337,7 @@ Thank you. They're both wonderful.
 
 ## Roz Dimon [28:42](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1722s)
 
-I wanted to say one more thing. We've touched on it in the comments, but What I think some of us are particularly enjoying is not just the color and the technique, but the stories. Every artist, every artwork has a story. And you can really feel the stories. And they're they're complex. It's nice.
+I wanted to say one more thing. We've touched on it in the comments, but what I think some of us are particularly enjoying is not just the color and the technique, but the stories. Every artist, every artwork has a story. And you can really feel the stories. And they're they're complex. It's nice.
 
 ## Anya Chaturvedi [29:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1743s)
 
@@ -359,11 +359,11 @@ Are you there?
 
 ## Adrita Purkait [29:49](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1789s)
 
-Yes, ma'am. Okay. So Yes. Good. Good evening, everybody. So I'm Ajitha Purkhai from Future campus school in Junarpur. This is my drawing of dreams. So I collaborated this with my partner, Aisha Malo. I don't think she is present with us, so I am just going to say. Here, we can see that this girl is Painting something in a bloody image. My thought was that this girl is In a bloody world, in a blurry future. She's painting her own future. She's drawing her own path towards the future. She's having that thought of herself like one day in future she can have.
+Yes, ma'am. Okay. So Yes. Good. Good evening, everybody. So I'm Ajitha Purkhai from Future campus school in Junarpur. This is my drawing of dreams. So I collaborated this with my partner, Aisha Malo. I don't think she is present with us, so I am just going to say. Here, we can see that this girl is painting something in a bloody image. My thought was that this girl is in a bloody world, in a blurry future. She's painting her own future. She's drawing her own path towards the future. She's having that thought of herself like one day in future she can have.
 
-She can have something that she wants. You know, something that she needs that is like she's depicting that. She's thinking that she's dreaming of that. This is What this drawing actually means in just Few words. Here She's dreaming of a family that she might have someday a nice job she might have someone to love. This is Just Something some everybody dreams of since their childhood, that one day when they grow up, what can they do in this bloody world, in this future Blurry in this blurry future? What Can they do? What can they do to draw the path?
+She can have something that she wants. You know, something that she needs that is like she's depicting that. She's thinking that she's dreaming of that. This is what this drawing actually means in just Few words. Here She's dreaming of a family that she might have someday a nice job she might have someone to love. This is Just Something some everybody dreams of since their childhood, that one day when they grow up, what can they do in this bloody world, in this future Blurry in this blurry future? What Can they do? What can they do to draw the path?
 
-2 weeks is. Who clears the future? Oh. And this is The individual drawing that I have drawn. This Stays a dancing girl here. The girl is Sewing a cloth. This cloth is The Pathway of her dream. It's like, it's like she's just showing her future together, piece by piece, to Create something that she Really desires.
+2 weeks is. Who clears the future? Oh. And this is The individual drawing that I have drawn. This Stays a dancing girl here. The girl is Sewing a cloth. This cloth is The Pathway of her dream. It's like, it's like she's just showing her future together, piece by piece, to create something that she Really desires.
 
 Thank you. Do that.
 
@@ -401,7 +401,7 @@ Yeah, yeah.
 
 ## Roz Dimon [34:18](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2058s)
 
-Yeah, it also looks I don't know. It reminds me of some was that famous Japanese the wave, or it looks like, is that supposed to be geographical as well as dream like her dress? Or am I making more than Is there.
+Yeah, it also looks I don't know. It reminds me of some was that famous Japanese the wave, or it looks like, is that supposed to be geographical as well as dream like her dress? Or am I making more than is there.
 
 ## Adrita Purkait [34:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2073s)
 
@@ -417,7 +417,7 @@ Like something that is uncertain, but still is something that you can build up F
 
 ## Roz Dimon [35:08](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2108s)
 
-Yeah, that's nice. And I noticed on the other one where she's in the Grand Hotel, that again from from her waist it goes out like it's kind of an unusual image to see, like again the red how it goes out. And I wonder if that has anything to do with Indian clothing or your concept, or It's just it's kind of unusual and and intriguing. Yeah, no.
+Yeah, that's nice. And I noticed on the other one where she's in the Grand Hotel, that again from from her waist it goes out like it's kind of an unusual image to see, like again the red how it goes out. And I wonder if that has anything to do with Indian clothing or your concept, or it's just it's kind of unusual and and intriguing. Yeah, no.
 
 ## Adrita Purkait [35:32](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2132s)
 
@@ -461,7 +461,7 @@ I was seeing it as a road or a path, her journey to where she plans to go, and I
 
 ## Malavika Mandal Andrew [36:40](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2200s)
 
-Thank you for Your all comments. Yes, Aditya, you wanted to say something.
+Thank you for your all comments. Yes, Aditya, you wanted to say something.
 
 ## Adrita Purkait [36:46](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2206s)
 
@@ -505,7 +505,7 @@ Yes, any questions for her. Perhaps.
 
 ## joey zaza [41:00](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2460s)
 
-Joey here, I'm wondering if there was. I also really like that 1st image, the floral with the sky scene is really nice. Was there a kind of instruction for Making this based on dreams? I feel like dreams are kind of a common theme throughout a lot of this work.
+Joey here, I'm wondering if there was. I also really like that 1st image, the floral with the sky scene is really nice. Was there a kind of instruction for making this based on dreams? I feel like dreams are kind of a common theme throughout a lot of this work.
 
 ## Anaya Shah [41:18](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2478s)
 
@@ -555,7 +555,7 @@ Thanks, thanks so much. Malavika. I also had the thought while these presentatio
 
 ## Allen Hirsh [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
 
-Yes, I I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of Collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
+Yes, I I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
 
 ## Malavika Mandal Andrew [46:56](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2816s)
 
@@ -593,7 +593,7 @@ Thank you. Colleen. Shall we go ahead with the the other presentations.
 
 ## Colin Goldberg [49:09](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2949s)
 
-Sure you know I did. I know Sahar had asked me. You know, if there'd be time for any of the other artists to to present and you know, looks like we have about a half an hour left. So you know, she could start us off. And then, if there's anyone else that wants to share some of their work. You know. The only thing that I ask ideally is that it somehow is related to this idea or topic of education. In some way it could be work that you did as a student or Work that you've done with students, or even work that, you know is created as a result of you know, an influence that was from a teacher or something like that, you know, just some way to weave it in. I did also want to remark that, you know. So this idea of taking a digital file and passing it back and forth to create a collaboration.
+Sure you know I did. I know Sahar had asked me. You know, if there'd be time for any of the other artists to to present and you know, looks like we have about a half an hour left. So you know, she could start us off. And then, if there's anyone else that wants to share some of their work. You know. The only thing that I ask ideally is that it somehow is related to this idea or topic of education. In some way it could be work that you did as a student or work that you've done with students, or even work that, you know is created as a result of you know, an influence that was from a teacher or something like that, you know, just some way to weave it in. I did also want to remark that, you know. So this idea of taking a digital file and passing it back and forth to create a collaboration.
 
 You know, it was something that Davo Davonte Bradley came up with, and his inspiration for that was the collaboration between Andy Warhol and Jean-michel Basquiat, in which they made very large paintings together and took turns working on the canvases. So it's really interesting to see how you know this idea Evolved where you know it came from in terms of the roots of the idea and where it's at today. So just just kind of very cool to see the the flow. And and certainly I encourage anybody on this zoom and watching it on Youtube to go to the Techspressionism website. And under exhibitions there's Collab one and Collab 2, and that those shows have work.
 
@@ -705,7 +705,7 @@ Actually, I'm using the free plan and you can, I can have one render per generat
 
 ## Colin Goldberg [01:02:21](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3741s)
 
-Imagine that you know I mean all the tools that I personally use for my art are Commercial design tools myself, like illustrator. So I could imagine that artists could really exploit these tools, and, you know, take Abstract hand drawings or whatever they want, and then send them into 3D. Models. I mean.
+Imagine that you know I mean all the tools that I personally use for my art are commercial design tools myself, like illustrator. So I could imagine that artists could really exploit these tools, and, you know, take Abstract hand drawings or whatever they want, and then send them into 3D. Models. I mean.
 
 ## Sahar Moussavi [01:02:41](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3761s)
 
@@ -745,7 +745,7 @@ And I stopped looking at the figure, and I started looking across at this woman 
 
 ## Colin Goldberg [01:07:28](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4048s)
 
-Awesome. Thanks, Roz. It reminds me a lot of Kathy Colwitz. I don't know if you look at a lot of her work, but Things. I thought of.
+Awesome. Thanks, Roz. It reminds me a lot of Kathy Colwitz. I don't know if you look at a lot of her work, but things. I thought of.
 
 ## Roz Dimon [01:07:36](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4056s)
 
@@ -781,7 +781,7 @@ It's sidebar but.
 
 No, that's good. I had captions enabled earlier, and now I can't close it quickly. So what I'm going to show is actually an assignment that I developed about 30 years ago. So this is really dated. But I'm still really proud of it. And since we're talking about education and adobe, put this on their teaching materials. They didn't pay me anything, but they came and visited me and interviewed me, and I got feedback from all over the world from people who were doing it. So I'm just going to run through quickly and talk about this I was teaching, and I'll talk as I go through the slides.
 
-I was teaching a cultural heritage class. And so I started it with the idea of American quilts. And what the students did is they scanned their coats, they scanned natural materials, and they put them into traditional quilt patterns that I gave them. But what was really interesting about it was, it was a way to teach overlapping, to really encourage the students to modify the colors and Just to go. Some of these are labeled different ways, and they just really went crazy with, you know, I would say, make this one bigger. Make this one smaller, really simple kinds of instructions. Why, they were working.
+I was teaching a cultural heritage class. And so I started it with the idea of American quilts. And what the students did is they scanned their coats, they scanned natural materials, and they put them into traditional quilt patterns that I gave them. But what was really interesting about it was, it was a way to teach overlapping, to really encourage the students to modify the colors and just to go. Some of these are labeled different ways, and they just really went crazy with, you know, I would say, make this one bigger. Make this one smaller, really simple kinds of instructions. Why, they were working.
 
 And you can see some people did drawing 1st and then developed patterns out of it, most of them. I brought this into another course that I was teaching called digital nature. And so some of them started. Many of these are from nature photographs from nature, as the course. You know, I taught different courses, so. But I kept this assignment going through many years. So I just wanted to share this, because I think that for people who are teaching it was just an incredible thing to take this pattern. And I guess that's all I have on this One. I yeah. So I have another presentation that I did of patterns, but I think that kind of gives the idea.
 
@@ -793,7 +793,7 @@ Yeah, I just wanted to also, Ask you. So you actually had started the digital ar
 
 ## Cynthia Beth Rubin [01:12:11](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4331s)
 
-Yes, there was somebody teaching there before. For one year she actually applied for the full time job, but I got it, and it was a very interesting experience, because we taught in a regular computer lab that had no digital software and they hadn't. They hired me. But they didn't budget for software. So that summer I went to One of the conferences. I went to both Siggraph and the Mac thing, whatever it was called. In those days I can't remember. And the person was there from electronic arts which at the time was making the best software. And I asked her about the software. And she said, Well, I can't really give you any software.
+Yes, there was somebody teaching there before. For one year she actually applied for the full time job, but I got it, and it was a very interesting experience, because we taught in a regular computer lab that had no digital software and they hadn't. They hired me. But they didn't budget for software. So that summer I went to one of the conferences. I went to both Siggraph and the Mac thing, whatever it was called. In those days I can't remember. And the person was there from electronic arts which at the time was making the best software. And I asked her about the software. And she said, Well, I can't really give you any software.
 
 But then I said, Are you here alone? And she said, Yeah, and I said, Well, do you want a lunch break? Would you want someone to demo for you? So I actually bartered demoing the software and giving her, you know, demoing the software and then giving her breaks. And then I got software to teach with. So that was really wonderful little exchange. And then I also used what was then Nih image. You know, that was free. And so, and I actually liked the fact that in the beginning the students had to go between 2 pieces of software that they absolutely have to.
 
@@ -867,7 +867,7 @@ Yeah, it's probably good.
 
 ## Colin Goldberg [01:20:34](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4834s)
 
-Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new Artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to To decide on it.
+Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new Artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to to decide on it.
 
 ## Allen Hirsh [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
 

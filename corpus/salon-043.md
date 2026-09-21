@@ -229,7 +229,7 @@ So we, women in tech, are, in my opinion, bold, creative visionaries who succeed
 
 So we have half as many women going into computer sciences now as we did in 1985. Women in tech make less money than their male counterparts. Okay? Now the income for U.S. Women in tech is 2.5% less than that of men. So that chimes in with what Anne Spalter noted about how the men were being paid higher for the jobs they were given. The U.S.
 
-Government has been That's pathetic. Only 19.2% of all fortune 500 CIO positions are held by women. As of 2022, only 19% of all leadership positions in tech are held by women. 50% of all U.S. Businesses are owned by women, yet only 2.3% of venture capital and women are globally went towards the funding of women-owned startups. That's appalling.
+Government has been that's pathetic. Only 19.2% of all fortune 500 CIO positions are held by women. As of 2022, only 19% of all leadership positions in tech are held by women. 50% of all U.S. Businesses are owned by women, yet only 2.3% of venture capital and women are globally went towards the funding of women-owned startups. That's appalling.
 
 Advancement for women in tech is difficult. We are three and a half times more likely to be at the age of 35 and older and still being kept in a junior position as compared with men. Less than 5% of men remain in junior positions after the age of 35. The tech sector also ranks low in diversity, equity, and inclusion.
 

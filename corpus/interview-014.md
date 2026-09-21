@@ -93,7 +93,7 @@ And Do you mind telling me a little, uh, a bubble chamber collision? Um, can you
 
 ## Carter Hodgkin [10:06](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=606s)
 
-Uh, well, I'm not a physicist, so I can't get into particle physics. But it's about splitting atoms and where all they, they capture and measure where all the particles have gone so they can try to Thank you.
+Uh, well, I'm not a physicist, so I can't get into particle physics. But it's about splitting atoms and where all they, they capture and measure where all the particles have gone so they can try to thank you.
 
 ## Roz Dimon [10:20](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=620s)
 
@@ -273,7 +273,7 @@ There are no real boundaries. So when you get into the science of it, I guess.
 
 ## Roz Dimon [20:17](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1217s)
 
-Absolutely. And I'm thinking back to the installation you just showed us. While I'm looking at this, it looks like it's going linearly linear. But the circle patterns of, like when you're talking about the replications of things in Fractals and keep coming around and going around into different arenas is beyond borders, you know, even though it's circular. That's a fascinating kind of concept.
+Absolutely. And I'm thinking back to the installation you just showed us. While I'm looking at this, it looks like it's going linearly linear. But the circle patterns of, like when you're talking about the replications of things in fractals and keep coming around and going around into different arenas is beyond borders, you know, even though it's circular. That's a fascinating kind of concept.
 
 Yeah. So. And it's called magnetic bubble memory, oil pastel on Japan paper. I think it's interesting for us to let our viewers know what, you know, what medium at least you're going out with.
 

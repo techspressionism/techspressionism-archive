@@ -27,7 +27,7 @@ from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from lib_corrections import apply_style_rules, apply_vocabulary, correct_text
+from lib_corrections import apply_style_rules, apply_vocabulary, correct_text, fix_midsentence_caps
 from lib_media import TYPES, label, selected, slug
 from lib_sentences import sentence_times
 from lib_speakers import canonical_name, finalize_speakers, is_not_speaker
@@ -211,7 +211,8 @@ def build_known_terms(session, vocab_terms, artists):
         if len(a["name"].split()) >= 2:
             terms.add(canonical_name(a["name"]))
     for t in vocab_terms:
-        terms.add(t["canonical"])
+        if not t.get("variants_only"):       # a plain word ("Loop") must not capitalise every "loop"; only its listed mishearings change
+            terms.add(t["canonical"])
     return sorted(terms, key=lambda t: (-len(t), t))   # longest first; ties alphabetical, never set order
 
 
@@ -765,7 +766,7 @@ def process_session(session, artists, vocab_terms, review_rows):
     # canonical names are applied only to what gets published -- the raw
     # speaker labels above still drive segmentation and Zoom-label matching
     for seg in segments:
-        seg["text"] = apply_style_rules(italicize_titles(fix_spoken_decades(seg["text"].replace("&nbsp;", " "))))
+        seg["text"] = fix_midsentence_caps(apply_style_rules(italicize_titles(fix_spoken_decades(seg["text"].replace("&nbsp;", " ")))))
         if seg["speaker"]:
             seg["speaker"] = canonical_name(seg["speaker"])
     session = {**session, "speakers": finalize_speakers(session.get("speakers", []))}

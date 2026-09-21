@@ -465,7 +465,7 @@ Yeah.
 
 Oh, she just loved it. So that made she was great. Um, so I'm kind of rolling along here. This is process. Uh, how I evolved artistically and technically it's all about paintings, which I call the diamond scapes and I do call them that, you know, I worked 30 years to make them something like a diamond scape and seems like a good name to me. I don't want it to distract from people doing it. But if someone does something I would like I like to always do it. I always pay homage. I think it's very important if we're going to be a respected industry and you know when I use anything in my diamonds scapes. It's not mine. I might I always call or, you know, I call me them sometime and say, oh, I need this piece of, you know, the Battle of Bunker Hill. I'm doing this interactive thing and they say, oh, great.
 
-And I saw a link to you and your museum. Always get credit. So if someone does a diamond scape. I'd love it. They just said, you know, I don't think women should be passed off in history. And so that's when I do speak out. That gets you in a little trouble, but Why not. So anyway, I'm also while I'm doing these pieces that I call novels, because they take about a year to make the diamond scapes. They're long Or three months at the full time every minute, but I also started drawing guns. Our nation was being torn apart by guns and I always loved drawing and painting that still the soul of me. And this is a Kalashnikov Here's another one of my guns and going in close up as I did before you can see the layers and these are big. I mean, these are sometimes Two gigs. The diamond scapes are two gigs.
+And I saw a link to you and your museum. Always get credit. So if someone does a diamond scape. I'd love it. They just said, you know, I don't think women should be passed off in history. And so that's when I do speak out. That gets you in a little trouble, but why not. So anyway, I'm also while I'm doing these pieces that I call novels, because they take about a year to make the diamond scapes. They're long Or three months at the full time every minute, but I also started drawing guns. Our nation was being torn apart by guns and I always loved drawing and painting that still the soul of me. And this is a Kalashnikov Here's another one of my guns and going in close up as I did before you can see the layers and these are big. I mean, these are sometimes Two gigs. The diamond scapes are two gigs.
 
 These aren't that big there, but they're, you know, close. Some of them are close to a gig. And this is just the interior one little couple of inches of the Kalashnikov So it's like little paintings inside of paintings inside of paintings. I mean, you look at it. It looks like a drawing, but it's you can't make these kind of marks with a pencil. Now, Even though I love pencils, too. But, you know, I'm drawing with leaves and stars and it has an edge of the digital media.
 
@@ -485,7 +485,7 @@ That is so cool and made this piece.
 
 ## Roz Dimon [51:00](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3060s)
 
-Thank you. I mean, some people see it on my website go, God, you know, I don't know. Ross's art is really changed, you know, You don't hear this. You don't know really what it's about. But, you know, That'd be fun to have a surprise. You go inside it and it's all the their, their pictures and their voices and and all their stuff and they're so excited to be part of me. I'm helping them raise funds by selling posters and You know artists have real power in this medium.
+Thank you. I mean, some people see it on my website go, God, you know, I don't know. Ross's art is really changed, you know, You don't hear this. You don't know really what it's about. But, you know, That'd be fun to have a surprise. You go inside it and it's all the their, their pictures and their voices and and all their stuff and they're so excited to be part of me. I'm helping them raise funds by selling posters and you know artists have real power in this medium.
 
 ## Unattributed [51:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3090s)
 
@@ -493,7 +493,7 @@ Yes.
 
 ## Roz Dimon [51:31](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3091s)
 
-You know, and they they supported me and boy I'm supporting them. I'm People love this little poster. And they go, Ross, this doesn't look like your style. But, you know, intellectually again thought conceptual is part of it and Exactly.
+You know, and they they supported me and boy I'm supporting them. I'm People love this little poster. And they go, Ross, this doesn't look like your style. But, you know, intellectually again thought conceptual is part of it and exactly.
 
 ## Michael Pierre Price [51:45](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3105s)
 
@@ -511,7 +511,7 @@ This is like you being a composer. You know, your aesthetic as the as the compos
 
 Yeah, and I had to get screenshots off of zoom and then their voices. There's voices in this of like, oh, here's my bunny rabbit. I mean, we had so many So much fun online and these kids really their drawings. The next generation boy art is a big part of their vocabulary. You know, they all have an iPhone with millions of images. So they did some wonderful work and I just put it together and then I salute every single one of the kids. I didn't know if you saw in the credits, but they get lots of credits and And here's just done a mini I'm kind of going to the finish line here and then we can keep chatting. But here's a recent piece. And when you go close up into it. You can see the kind of layering going on in it. Now, I haven't made it a dime. Enscape yet, but it's after reading a book by Haruki Murakami and It's just an amazing story about murder and lake and the space shuttle.
 
-I mean, the, the, the Sputnik where they took a dog into space and there's tons of layering in here and You know, I like in this case I buy these little hearts because you can buy them and then I credit them and say where I bought them in the in the info in the Footnotes and oh yeah I get interrupted all the time by things happening. But I think it's really interesting to see how much of that is happening in our country. I respond and latest series of digital drawings and pin and ink and also pencil of Lincoln.
+I mean, the, the, the Sputnik where they took a dog into space and there's tons of layering in here and you know, I like in this case I buy these little hearts because you can buy them and then I credit them and say where I bought them in the in the info in the Footnotes and oh yeah I get interrupted all the time by things happening. But I think it's really interesting to see how much of that is happening in our country. I respond and latest series of digital drawings and pin and ink and also pencil of Lincoln.
 
 Because our world's being torn apart. I saw his face and as angry as I am lately I I like to see both sides of things like even the guns there. They're there both sides of guns are good guns are evil. It's got a spiritual aspect everything on my work does a little bit Yeah. And attention and here's a picture of John Mark and I'm working on our, our latest piece where we're resurrecting the world's greatest bar chart.
 
@@ -521,7 +521,7 @@ Okay, cool.
 
 ## Roz Dimon [53:41](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3221s)
 
-And code going on is just it's intense. It's so intense and art story, which is something I coded in 1998 and It goes through all the years and it's it's a little bit crazy. Still, I'm still trying to make it work a little better. But you can go to the years and see stories you can see art, you can see different. There are lots of different ways to navigate. It's It's a new kind of way to navigate a blog. And I'm just going to end with, you know, I went to my doctor the other day and just get an EKG see I was doing. And I said, Oh, can I take that he said, Sure.
+And code going on is just it's intense. It's so intense and art story, which is something I coded in 1998 and it goes through all the years and it's it's a little bit crazy. Still, I'm still trying to make it work a little better. But you can go to the years and see stories you can see art, you can see different. There are lots of different ways to navigate. It's It's a new kind of way to navigate a blog. And I'm just going to end with, you know, I went to my doctor the other day and just get an EKG see I was doing. And I said, Oh, can I take that he said, Sure.
 
 So I said, I need it for my next portrait, which I think will look something like this. And I guess I can end on that. But This is what my portrait. I mean, this is where we are, you know,
 
@@ -543,7 +543,7 @@ And that's kind of what I'm doing in the diamond scale. You know, Yeah, yeah, ye
 
 ## Michael Pierre Price [54:35](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3275s)
 
-If we Kind of put a bow on on on all of this and sort of Bring this to a nice what you would feel resolution. What about expressionism has drawn you into this. And where do you where do you see Things going From here and I don't want to spend too much time because we We run. I don't know if we're running too long, but I just am curious because you have such a good historical perspective on seeing both the growth and evolution of technology where you where you're hopeful or where you think it might be going and what role expressionism and you using that You know, In in in you know sort of self identifying as a as a technology based artists in some respects.
+If we Kind of put a bow on on on all of this and sort of bring this to a nice what you would feel resolution. What about expressionism has drawn you into this. And where do you where do you see Things going From here and I don't want to spend too much time because we We run. I don't know if we're running too long, but I just am curious because you have such a good historical perspective on seeing both the growth and evolution of technology where you where you're hopeful or where you think it might be going and what role expressionism and you using that You know, In in in you know sort of self identifying as a as a technology based artists in some respects.
 
 Where were you raised this all headed
 

@@ -543,7 +543,27 @@
         "Lube"
       ],
       "whole_word": true,
-      "note": "Loop Art Critique community (Salon 110); Zoom hears 'Loop' as 'Lube' (Colin, 20 September 2026)"
+      "note": "Loop Art Critique community (Salon 110); Zoom hears 'Loop' as 'Lube' (Colin, 20 September 2026)",
+      "variants_only": true
+    },
+    {
+      "canonical": "Rothko",
+      "category": "person",
+      "known_asr_variants": [
+        "Gofco"
+      ],
+      "whole_word": true,
+      "note": "Mark Rothko; speech recognition heard 'Rothko' as 'Gofco' in Salon 81 (Colin, 20 September 2026)"
+    },
+    {
+      "canonical": "Verneda",
+      "category": "artist",
+      "known_asr_variants": [
+        "Verita"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Verneda Lights; speech recognition heard 'Verneda' as 'Verita' in Salon 81 (Colin, 20 September 2026)"
     }
   ]
 }
