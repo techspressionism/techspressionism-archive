@@ -173,6 +173,7 @@ def suggestion_groups(sl, voices):
         for n in (v.get("screen"), v.get("index"), v.get("candidate")):
             if n and n not in here:
                 here.append(n)
+    here.sort(key=str.lower)                          # the listing is shown alphabetically
     named = []
     md = ROOT / "corpus" / f"{sl}.md"
     if md.exists():
