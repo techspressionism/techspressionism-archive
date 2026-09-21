@@ -1,4 +1,11 @@
 {
- "approved_auto": true,
- "voices": {}
+  "applied": "2026-09-21 14:37",
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-21 14:37",
+      "fingerprint": "79569f6f47",
+      "name": "cari ann shim sham"
+    }
+  }
 }

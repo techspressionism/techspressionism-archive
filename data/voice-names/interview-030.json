@@ -1,4 +1,5 @@
 {
+  "applied": "2026-09-21 14:35",
   "approved_auto": false,
   "voices": {
     "V1": {
@@ -12,6 +13,11 @@
       "by": "Colin (stated in chat 2026-09-21: he is the first speaker and introduces himself)",
       "fingerprint": "15b2d98098",
       "name": "Colin Goldberg"
+    },
+    "V3": {
+      "at": "2026-09-21 14:35",
+      "fingerprint": "8106d86f81",
+      "name": ""
     }
   }
 }

@@ -479,7 +479,7 @@ So I don't know to me like that's 1 of the things that gets kind of conjured up 
 
 ## Colin Goldberg [01:12:34](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4354s)
 
-I think that Really I mean it was created. The term is something I came up with, just because I needed the title for an exhibition, and it just kind of popped into my head. And I've always been interested in the abstract expressionists. I grew up out in Eastern Long Island. So I spent time, you know, visiting the Pollock Krasner House and studied painting under an Abex painter. And so this idea of expressionism was something that I was already interested in.
+I think that Really I mean it was created. The term is something I came up with, just because I needed the title for an exhibition, and it just kind of popped into my head. And I've always been interested in the abstract expressionists. I grew up out in Eastern Long Island. So I spent time, you know, visiting the Pollock-Krasner House and studied painting under an Abex painter. And so this idea of expressionism was something that I was already interested in.
 
 ## Sasha Stiles [01:13:03](https://www.youtube.com/watch?v=xkfYnuTP2zA&t=4383s)
 

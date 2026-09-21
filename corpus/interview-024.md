@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Helen A. Harrison [00:03](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=3s)
 
-Helen Harrison, Director of the Pollock Krasner House and Study Center in East Hampton, Long Island, and advisor to the Techspressionism exhibition at the Southampton Art Center. I'm here with Frank Gillette, who is a pioneer of digital art and who is one of the participants in the show. Frank, it's great to see you again, and I'd like to talk a little bit with you about the work that's going to be exhibited and the concepts behind it.
+Helen Harrison, Director of the Pollock-Krasner House and Study Center in East Hampton, Long Island, and advisor to the Techspressionism exhibition at the Southampton Art Center. I'm here with Frank Gillette, who is a pioneer of digital art and who is one of the participants in the show. Frank, it's great to see you again, and I'd like to talk a little bit with you about the work that's going to be exhibited and the concepts behind it.
 
 ## Frank Gillette [00:32](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=32s)
 
@@ -209,7 +209,7 @@ Or for the patron, of course. Now that's another question. When you have, let's 
 
 ## Frank Gillette [24:55](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1495s)
 
-I would show them the door. The commercialized. No. It's not in my blood. I.E. About my being fired from my own corporation. Right. Corporation, by the way. There's a lick on that. Anyway. Yeah. So that's the issue of the force of painting in my work. Well, that's also. I do make direct references.
+I would show them the door. The commercialized. No. It's not in my blood. I.e. About my being fired from my own corporation. Right. Corporation, by the way. There's a lick on that. Anyway. Yeah. So that's the issue of the force of painting in my work. Well, that's also. I do make direct references.
 
 They have to be picked out. Because I work with a lot of layers. One layer. On average, I would guess, is it on average? Some of them are less. Some of them are much more. On average of 20 layers in each image.
 

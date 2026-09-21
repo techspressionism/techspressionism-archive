@@ -1,4 +1,16 @@
 {
- "approved_auto": true,
- "voices": {}
+  "applied": "2026-09-21 14:37",
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-21 14:37",
+      "fingerprint": "1f845c5a20",
+      "name": "Frank Gillette"
+    },
+    "V2": {
+      "at": "2026-09-21 14:37",
+      "fingerprint": "8848acb0e6",
+      "name": "Helen A. Harrison"
+    }
+  }
 }

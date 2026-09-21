@@ -1,4 +1,16 @@
 {
- "approved_auto": true,
- "voices": {}
+  "applied": "2026-09-21 14:36",
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-21 14:36",
+      "fingerprint": "e8cd1ae1fc",
+      "name": "Randi Matushevitz"
+    },
+    "V2": {
+      "at": "2026-09-21 14:36",
+      "fingerprint": "9304348f05",
+      "name": "Roz Dimon"
+    }
+  }
 }

@@ -1,4 +1,16 @@
 {
- "approved_auto": true,
- "voices": {}
+  "applied": "2026-09-21 14:36",
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-21 14:36",
+      "fingerprint": "838e76b07a",
+      "name": "Carter Hodgkin"
+    },
+    "V2": {
+      "at": "2026-09-21 14:36",
+      "fingerprint": "dfd5c81401",
+      "name": "Roz Dimon"
+    }
+  }
 }

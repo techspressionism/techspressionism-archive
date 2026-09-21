@@ -29,7 +29,7 @@ I'm acquainted with her work through the Techspressionism Salon, and Techspressi
 
 I just want to say a few words about her. Malavika Mandal Andrew was born in 1971. She's an artist whose practice includes making art. She's an artist who has worked in digital media for over a decade. She's also worked in digital art, mixed media, digital collage, and digital art tapestry, as well as fiber art. She received her Bachelor of Fine Art in Textile Designing in 1993, and her Masters of Fine Art in Textile and Tapestry in 1995 from Kala Bhavana Vishwa Bharti University, Santini Kanatan. During her time at Kala Bhavana, she was awarded the National Society of Art at the University of New York. She was awarded the National Society of Art Scholarship by the Government of India. Wow, that's impressive. Ministry of Human Resource Development and did her training under Ritan Mazumdar.
 
-Ritan, is that correct? Correct. Ritan. In 2012, she was awarded the Pollock Krasner Foundation grant under which she worked with warly artists from Talasari, Maharashtra, to create mixed media paintings. In 2021, Malavika became the first Indian artist to be listed in the Expressionist Artist Index.
+Ritan, is that correct? Correct. Ritan. In 2012, she was awarded the Pollock-Krasner Foundation grant under which she worked with warly artists from Talasari, Maharashtra, to create mixed media paintings. In 2021, Malavika became the first Indian artist to be listed in the Expressionist Artist Index.
 
 That's a kudo too. She has participated in numerous solo and group national and international shows. I want to welcome Malavika.
 

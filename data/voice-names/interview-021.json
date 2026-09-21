@@ -1,4 +1,11 @@
 {
- "approved_auto": true,
- "voices": {}
+  "applied": "2026-09-21 14:37",
+  "approved_auto": true,
+  "voices": {
+    "V1": {
+      "at": "2026-09-21 14:37",
+      "fingerprint": "512e3d808a",
+      "name": "Victor Acevedo"
+    }
+  }
 }
