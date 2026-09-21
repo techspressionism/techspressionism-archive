@@ -137,7 +137,7 @@ If you were there and can identify a speaker with certainty, say so in your note
 
 ## 9. Citing the archive
 
-Each page shows a ready-made citation with the recording's title, date and the address of the page. When you quote a passage, cite the timestamp shown so that readers can go straight to the moment. Every paragraph of a transcript has a **Cite** button next to its timecode (the timecode is a red **WATCH** button while the video is stopped, and a plain gray timecode while it plays): it pauses the video and shows a citation for that paragraph (speaker, recording, date, timecode and a YouTube link that starts at that moment) in Chicago, MLA, APA, BibTeX or RIS, with **Copy Citation** and **Continue watching** buttons. Machine-readable citation details are in the repository's `CITATION.cff` file. The transcripts are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+Each page shows a ready-made citation with the recording's title, date and the address of the page. When you quote a passage, cite the timestamp shown so that readers can go straight to the moment. Every paragraph of a transcript has a **Cite** button next to its timecode (the timecode is a red **WATCH** button while the video is stopped; while it plays the same button turns gray and reads **PAUSE**, so you can stop the video and read): it pauses the video and shows a citation for that paragraph (speaker, recording, date, timecode and a YouTube link that starts at that moment) in Chicago, MLA, APA, BibTeX or RIS, with **Copy Citation** and **Continue watching** buttons. Machine-readable citation details are in the repository's `CITATION.cff` file. The transcripts are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
 
 ---
 

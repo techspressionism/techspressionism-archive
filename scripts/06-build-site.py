@@ -454,10 +454,14 @@ h3.para-time { margin:0; font-size:1rem; font-weight:400; line-height:1.4; scrol
 .para p { margin:.6rem 0 0; font-size:1.05rem; line-height:1.65; }
 a.pill { display:inline-flex; align-items:center; gap:.4rem; background:#f0f0f0; color:#333; border-radius:1.2rem; padding:.22rem .8rem .22rem .62rem; font-size:.92rem; line-height:1.4; font-variant-numeric:tabular-nums; }
 a.pill:hover { background:#e7e7e7; text-decoration:none; }
-/* while the video is playing (the transcript follows along) each turn shows only its timecode, in gray; otherwise it is the red WATCH button */
-.layout.is-playing h3.para-time a.pill.pill-watch { background:#f0f0f0; color:#333; font-weight:400; padding:.3rem .8rem; }
+/* red WATCH while the video is stopped; while it plays the same button is a gray PAUSE, so a reader can stop the video and read */
+h3.para-time a.pill .pause-word, h3.para-time a.pill svg.i-pause { display:none; }
+.layout.is-playing h3.para-time a.pill.pill-watch { background:#f0f0f0; color:#333; }
 .layout.is-playing h3.para-time a.pill.pill-watch:hover { background:#e7e7e7; }
-.layout.is-playing h3.para-time a.pill .watch-word, .layout.is-playing h3.para-time a.pill svg { display:none; }
+.layout.is-playing h3.para-time a.pill.pill-watch svg { color:#333; }
+.layout.is-playing h3.para-time a.pill .watch-word, .layout.is-playing h3.para-time a.pill svg:not(.i-pause) { display:none; }
+.layout.is-playing h3.para-time a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
+.layout.is-playing h3.para-time a.pill svg.i-pause { display:block; }
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin-left:.4rem; padding:.22rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; }
 .cite-btn:hover, .cite-btn[aria-expanded="true"] { background:#b30000; }
@@ -664,6 +668,7 @@ def build_citation(entry):
 
 
 PLAY_SVG = '<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1 0.5v13l10.5-6.5z"/></svg>'
+PAUSE_SVG = '<svg class="i-pause" viewBox="0 0 12 14" aria-hidden="true"><path d="M2 1.5h2.8v11H2zM7.2 1.5H10v11H7.2z" fill="currentColor"/></svg>'
 PILL_SVG = ('<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1.6 1.6v10.8l9-5.4z" fill="none" '
             'stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>')
 
@@ -874,7 +879,7 @@ PLAYER_JS = """<script>
   var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
   var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
-  function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons show just the timecode
+  function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
   var loading = false;
   function preload() { if (box && !player) load(); }   // opening the transcript is the sign of intent: have the player ready before the first WATCH tap (a phone only starts a video inside the tap)
@@ -934,6 +939,7 @@ PLAYER_JS = """<script>
     var a = ev.target.closest && ev.target.closest('a.pill');
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
     ev.preventDefault();
+    if (layout.classList.contains('is-playing') && a.closest('h3.para-time') && ready && player) { player.pauseVideo(); return; }   // PAUSE: stop the video so the reader can read
     var para = a.closest('.para'), i = paras.indexOf(para), seek = parseFloat(a.dataset.seek);
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     [].slice.call(document.querySelectorAll('.para-cite .continue-btn')).forEach(function (c) { c.hidden = true; });
@@ -1084,7 +1090,7 @@ def build_session_page(entry, siblings=()):
             times_s += [[tt, s_text, len(times_p) - 1] for (_a, _b, s_text), tt in zip(sentences, st)]
             blocks.append(
                 f'<div class="para" data-t="{t0}">'
-                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
+                f'{head_open}<a class="pill pill-watch" href="{e(yt)}" data-seek="{seek:g}" data-pagefind-ignore><span class="watch-word">WATCH</span><span class="pause-word">PAUSE</span>{PILL_SVG}{PAUSE_SVG}{pill_time(t0)}</a> <button type="button" class="cite-btn" aria-expanded="false" title="Pause the video and show a citation for this passage" data-pagefind-ignore>Cite</button>{head_name}</h3>'
                 f'<p><span class="tx">{emphasize(e(para))}</span>{suggest_link(entry, t0, para)}</p></div>')
         cont = speaker == prev_speaker          # same speaker carrying on: no repeated name
         prev_speaker = speaker
