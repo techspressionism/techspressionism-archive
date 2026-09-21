@@ -122,6 +122,18 @@ def _regulars():
     return _REGULARS
 
 
+_ALL_NAMES = []
+
+
+def all_index_names():
+    """Every name in the artist index and the people directory (alphabetical), for the 'Someone else' box to suggest from."""
+    if not _ALL_NAMES:
+        names = {p["name"] for p in json.loads((ROOT / "data" / "people.json").read_text())["people"]}
+        names |= {a["name"] for a in json.loads((ROOT / "data" / "artists.json").read_text()) if a.get("name")}
+        _ALL_NAMES.extend(sorted((n for n in names if len(n.split()) >= 2 and len(n) < 60), key=lambda n: n.lower()))
+    return _ALL_NAMES
+
+
 def description_names(session):
     """People the recording's YouTube description names: anyone in the people directory (full name), plus 'Name // Place' lines,
     in the order the description gives them."""
@@ -266,7 +278,7 @@ def recording(sl):
             "interview": ({"interviewer": s.get("interviewer"), "interviewee": s.get("interviewee")}
                           if s.get("type") == "interview" and s.get("interviewee") else None),
             "suggestions": suggestions(sl, d["voices"]) + [n for g in ("named", "regular") for n in suggestion_groups(sl, d["voices"])[g]],
-            "groups": suggestion_groups(sl, d["voices"])}
+            "groups": suggestion_groups(sl, d["voices"]), "all_names": all_index_names()}
 
 
 def listing():
@@ -374,7 +386,7 @@ async function page(sl){
     return `<select class="sel"><option value="">— choose who this is —</option>${groups}<option value="__other" ${other?'selected':''}>Someone else…</option><option value="__none">Can't tell (leave unattributed)</option></select> ${text}`};
   const chosen=card=>{const r=card.querySelector('input[type=radio]:checked'),s=card.querySelector('select.sel'),t=card.querySelector('input.nm');
     const v=r?r.value:s?s.value:(t?t.value:'');return v==='__none'?'':v==='__other'?(t?t.value.trim():''):v.trim()};
-  const dl='<datalist id="names">'+[...new Set([...d.suggestions])].map(n=>`<option value="${esc(n)}">`).join('')+'</datalist>';
+  const dl='<datalist id="names">'+[...new Set([...d.suggestions,...(d.all_names||[])])].map(n=>`<option value="${esc(n)}">`).join('')+'</datalist>';
   $('#app').innerHTML=`<p><a href="#/">← all recordings</a></p><h1>${esc(d.label)} <span class="mute">${esc(d.title)}</span></h1>
    <div class="vid" id="vidbox"><div class="row"><button class="seek" id="vidtoggle">Hide video</button><span class="small mute" id="vidnote">Press <b>▶ Show in video</b> under a clip to watch that moment here.</span></div>
     <div class="frame"><div id="yt"></div></div></div>
