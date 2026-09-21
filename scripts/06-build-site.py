@@ -1230,7 +1230,7 @@ def build_session_page(entry, siblings=()):
         )
 
     TIMES[slug(entry)] = {"p": times_p, "s": times_s}
-    moderator = f" &middot; moderated by {e(entry['moderator'])}" if entry.get("moderator") else ""
+    moderator = f" &middot; moderated by {e(entry['moderator'])}" if entry.get("moderator") and re.search(r"[^\W_]", str(entry["moderator"])) else ""
     if entry.get("interviewer"):
         moderator = f" &middot; interviewed by {e(entry['interviewer'])}"
     curator = f" &middot; curated by {e(entry['curator'])}" if entry.get("curator") else ""

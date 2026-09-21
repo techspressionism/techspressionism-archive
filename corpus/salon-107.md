@@ -7,7 +7,7 @@ date_published: 2026-06-09
 video_id: xm747MwGbiA
 url: "https://www.youtube.com/watch?v=xm747MwGbiA"
 duration_seconds: 5773
-moderator: =======================
+moderator: Colin Goldberg – North Bennington, VT USA
 speakers:
 transcript_source: zoom-transcript
 languages: ["en"]

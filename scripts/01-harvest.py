@@ -357,7 +357,10 @@ def parse_moderator(description):
     m = MODERATOR_RE.search(description)
     if not m:
         return None, ["moderator_missing"]
-    name = re.sub(r"(?i)^(?:the\s+)?(?:artists?|curators?)\s+", "", clean(m.group(1)))     # "Moderated by artists A and B" -> "A and B"
+    text = m.group(1)
+    if not re.search(r"[^\W_]", text):        # only punctuation, e.g. a "=====" divider under a "Moderator" heading: the name is on the next line with any letters
+        text = next((ln for ln in description[m.end():].split("\n") if re.search(r"[^\W_]", ln)), "")
+    name = re.sub(r"(?i)^(?:the\s+)?(?:artists?|curators?)\s+", "", clean(text))     # "Moderated by artists A and B" -> "A and B"
     return (name or None), ([] if name else ["moderator_missing"])
 
 

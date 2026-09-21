@@ -331,6 +331,8 @@ def build_frontmatter(session, segments):
     lines.append(f"video_id: {yaml_scalar(session['video_id'])}")
     lines.append(f"url: {yaml_scalar(session['url'])}")
     lines.append(f"duration_seconds: {session['duration_seconds']}")
+    if session.get("moderator") and not re.search(r"[^\W_]", str(session["moderator"])):
+        session["moderator"] = None          # a divider line ("=====") taken for a name in the video description
     lines.append(f"moderator: {yaml_scalar(session['moderator'])}")
     for key in ("interviewee", "interviewer"):
         if session.get(key):
