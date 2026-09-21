@@ -481,9 +481,11 @@
       "category": "movement_term",
       "known_asr_variants": [
         "texianism",
+        "text Russian",
         "text precious",
         "text pressure",
         "text pressurism",
+        "text-specialism",
         "textbrusion",
         "textfreshness",
         "textpassionism",
@@ -498,6 +500,7 @@
       "known_asr_variants": [
         "text precision",
         "text presents",
+        "text specialist",
         "textbreshnik"
       ],
       "whole_word": true,
@@ -513,6 +516,25 @@
       ],
       "whole_word": true,
       "note": "added 2026-09-20 after Colin approved the list of remaining suspects (check-techspressionism.py); whole-word so a longer word is never cut"
+    },
+    {
+      "canonical": "Techspressionism's",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "Tex-Preschen's",
+        "Tex-Preschens"
+      ],
+      "whole_word": true,
+      "note": "approved by Colin 2026-09-20 from the suspects list"
+    },
+    {
+      "canonical": "Techspressionist presentations",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "text presentations"
+      ],
+      "whole_word": true,
+      "note": "approved by Colin 2026-09-20 from the suspects list"
     }
   ]
 }

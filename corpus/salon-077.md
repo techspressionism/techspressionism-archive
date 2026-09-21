@@ -237,7 +237,7 @@ Well, thank thank you for asking. And this technology is used in science and med
 
 I can't hear you, Cynthia.
 
-## Cynthia DiDonato [49:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2983s)
+## Allen Hirsh [49:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2983s)
 
 Thank you for an extraordinary presentation, Suzanne. I'm fascinated with your micro landscapes, and I'm also very interested in what Steve was discussing, that you went from 2D. To 3D. Using displacement mapping. And it's and you said it's out there in the world. But when it comes to science, when it comes to medicine, will it ever be out there in the world for artists?
 
@@ -247,7 +247,7 @@ Yes, and it is out there in the world for artists. But most artists I know. Are 
 
 And I don't work with plastic. This is plaster and a kind of resin, and then archival paint on top of it, so that they are pretty much biodegradable.
 
-## Cynthia DiDonato [51:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3086s)
+## Allen Hirsh [51:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3086s)
 
 I think the title Synthetic Synthetic Ecology is also Fascinating the idea, and and Steve raised it a little earlier about the juxtaposition in the early part of the presentation of the man made, and the natural, and that just creates so many reverberations. It's like a rock in a lake.
 
@@ -723,7 +723,7 @@ Yeah, Tommy mentioned Img, you are a while back, and I'm sorry that we didn't pr
 
 I put the I. Mg.
 
-## Cynthia DiDonato [01:47:20](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6440s)
+## Allen Hirsh [01:47:20](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6440s)
 
 II have a question comment. I have no problem with, you know, getting a URL and the rest of it. My problem is with the template itself. I had loaded up some images, and nothing showed in my assets. I also lost a wall in my room I also tried to place images on the wall, and sometimes they disappeared, depending on if I pushed it too far or not. And so that is my issue. And then, when I published it, it looked different The way things had been set up looked different.
 
@@ -731,7 +731,7 @@ II have a question comment. I have no problem with, you know, getting a URL and 
 
 Okay, so you are pointing out some of the challenges of of working in a interface. So do we? Th, this is. This is a this is a question that if we need a little bit of a tutorial, I'm fine doing that. So I don't know if that's an issue other people are running into as well. But if we, if we need to go over that, I'm perfectly fine. Doing a short tutorial on that.
 
-## Cynthia DiDonato [01:48:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6520s)
+## Allen Hirsh [01:48:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6520s)
 
 Well, I, for one, would be very happy. I know Susan Detroy is also interested.
 
@@ -755,7 +755,7 @@ What I'm gonna do is I'm gonna show you my current. Version of my space that I'v
 
 Can everybody see my screen?
 
-## Cynthia DiDonato [01:50:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6619s)
+## Allen Hirsh [01:50:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6619s)
 
 Yes.
 
@@ -781,7 +781,7 @@ The wall that I'm clicking on here, which is the one that says, call me Ishmael 
 
 So. That's something you need to pay attention to as well. Does that make sense?
 
-## Cynthia DiDonato [01:55:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6929s)
+## Allen Hirsh [01:55:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6929s)
 
 Let me get this straight on the Ishmael wall. Yes, alright! The walls coordinates, and then your art should mirror the wall. Okay, here's what I'm saying is, if I click on this one a dying black sun. I just clicked on that art.
 
@@ -815,7 +815,7 @@ II don't see the XY. And Z. I'm viewing this on my iphone. And I don't see
 
 Coordinates. Well, oh, my gosh! Well, then. That's problematic. So I have to switch my machine. I have to go to my laptop. I yeah, would To be honest, Frenada, if if you do not have The this side interface here, viewable or usable. This is, gonna be a pain in the ass to try to get to work. Yeah, yeah.
 
-## Cynthia DiDonato [02:00:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7210s)
+## Allen Hirsh [02:00:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7210s)
 
 II have another question, Michael. I hope I'm not Ending someone else's answer. However. On my template I see images, and there are little red triangles with exclamation points in them seem to get rid of them. I don't know what it means.
 
@@ -823,7 +823,7 @@ II have another question, Michael. I hope I'm not Ending someone else's answer. 
 
 Typically I was getting those as well, and usually that means that the image is too large. The recommendation is that The images need to be less than 2,000 pixels in either the X or the you know the the horizontal or the vertical direction. Okay. And and and that's you can definitely go smaller. Now.
 
-## Cynthia DiDonato [02:01:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7277s)
+## Allen Hirsh [02:01:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7277s)
 
 Can you show at some point uploading an image?
 
@@ -841,7 +841,7 @@ Okay, let me pick this one.
 
 So let me come back. Okay. So here. Now you can see how it the what the white and so black image is now gone away. And I'm gonna so I type. So I did a cut and paste, and I've got a new image, URL, in here. And then all I have to do is just click off of it. And you see now, you see the new image
 
-## Cynthia DiDonato [02:04:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7452s)
+## Allen Hirsh [02:04:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7452s)
 
 You said you clicked off of it. Does that mean you hit enter?
 
@@ -861,7 +861,7 @@ And now, instead of a red triangle, you have a yellow triangle.
 
 So see this red, yellow triangle. Now. If I hover over it, it tells me the image is too large. So I know that if I wanted to use that to be as efficient as I can in the Execution of my space, I'll want to go in and and, you know, make a smaller, a slightly smaller image. So it doesn't exceed The file size that it recommends.
 
-## Cynthia DiDonato [02:05:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7503s)
+## Allen Hirsh [02:05:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7503s)
 
 Okay, that helps me. I also wanted to ask. I had trouble getting rid of Tommy's images. I would delete, you know, his URL, and try to put my URL in. Somehow I wasn't losing his image. I don't know why, or maybe he had several, and I thought it was
 
@@ -869,7 +869,7 @@ Okay, that helps me. I also wanted to ask. I had trouble getting rid of Tommy's 
 
 Not the one I deleted. So okay, I did not have that problem, so I'm not sure. In fact, I ended up just kind of deleting most of his images and just starting over and and placing my own. But it I'm not saying that that's a better solution. But Yeah, if you actually deleted the URL, and then you put in your own. That should work there, there should be anything else. And then it's just from there. It's a matter of placing it where you want it to be
 
-## Cynthia DiDonato [02:05:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7559s)
+## Allen Hirsh [02:05:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7559s)
 
 Okay. And if are there enough image slots up there? Or do you have to create new image slots? If you have more?
 
@@ -915,7 +915,7 @@ Constantly spinning. You know, I put something in, and they'll just do a little 
 
 It's it's the yeah. It's the illusion that if you don't know where that object is in the 3 dimensional space it can feel like, Oh, this is really, really large, or this is really tiny. And you need, that's where you need to understand again, where it's located In space. Because alright.
 
-## Cynthia DiDonato [02:11:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7876s)
+## Allen Hirsh [02:11:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7876s)
 
 So when you're talking about rotation, Karen and Michael.
 
@@ -929,7 +929,7 @@ See how this smaller one now looks bigger. But the app. The reality is as they s
 
 And and that's where these numbers. Especially especially if you know you like, where your walls are. You need to know the values of these Positions and the rotations of the walls, because if you're placing things against them, they need. They need to be close to the numbers here.
 
-## Cynthia DiDonato [02:12:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7978s)
+## Allen Hirsh [02:12:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7978s)
 
 So the image placement, the image numbers for rotation must be the same as the rotation numbers for the wall
 
@@ -937,7 +937,7 @@ So the image placement, the image numbers for rotation must be the same as the r
 
 Very close to it. The the rotations need to be identical. The rotation tells you the facing of the wall.
 
-## Cynthia DiDonato [02:13:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7999s)
+## Allen Hirsh [02:13:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7999s)
 
 Okay, so if I want to put an image on that wall that has 0, 0, then 90, my image should have that set of rotation numbers very close to it should be the those should be the same. Oh, identical. Okay. If I could interject the picture itself, what Michael's talking about is the exact dimensions of the wall
 
@@ -995,7 +995,7 @@ By gun.
 
 Happy Hanukkah! Yes, Happy Hanukkah.
 
-## Cynthia DiDonato [02:17:45](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8265s)
+## Allen Hirsh [02:17:45](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8265s)
 
 I have another question. If no one else does.
 
@@ -1033,7 +1033,7 @@ Great.
 
 ## Verneda Lights [02:19:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8383s)
 
-Okay. I have a question about the. Overall Sort of meta presentation of of the galleries in Siberiana. I see here that you have a. Several text presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by Business superstructure? Or do we name by author? You know, by the
+Okay. I have a question about the. Overall Sort of meta presentation of of the galleries in Siberiana. I see here that you have a. Several Techspressionist presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by Business superstructure? Or do we name by author? You know, by the
 
 ## Michael Price [02:20:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8437s)
 
@@ -1063,7 +1063,7 @@ That's welcome as well, that's all. And then everything else inside the spaces. 
 
 Well, I it gives clarity as to what the initial vision was and what it is now. But I'm still thinking I'm projecting into the future over time. That Ye may well have to tweak that for search engine purposes. You know, or that search engine optimization may not be a concern. You know, for the project, but it's something that's definitely on my mind, you know, as a web master. So so we'll see. I'll just figure it out for myself, and then see how it plays, and make sure that what I do put up is compliant with what's already been set forth.
 
-## Cynthia DiDonato [02:26:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8807s)
+## Allen Hirsh [02:26:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8807s)
 
 I have another question about when you first go into The Mozilla Hub and you're in, spoke, and Tommy mentioned something about On the left hand side. You got the little hamburger, and there's a file, save there, and he had suggested doing that, and then afterwards publishing, or Should they be done at the same time at the end when you're finished?
 
@@ -1073,7 +1073,7 @@ Okay, that's that is an excellent question, Cynthia, and. I am a believer of sav
 
 And then I'll look at the example again, so I'll walk through in Hu, you know a after I save the at the end of the save process. It asks you if you wanna if you want to enter your seed and hubs. And that way I can go in hubs and make sure that I'm happy with the change or changes that I've made and I can. I can. You know. Certified to myself that what I've done is exactly what I wanted it to do. Maybe I'll look at it, and I'll think. Oh, I should really tweak this up a little higher or lower, or a little more to the left, or a little more to the right, but having that back and forth process Really helps me that if if I make too many changes and then I save and I'm not liking things, I won't. I won't remember how I changed things previously. So I'm a believer in saving often and and reviewing those changes.
 
-## Cynthia DiDonato [02:29:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8942s)
+## Allen Hirsh [02:29:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8942s)
 
 So you're saying, after I go in for the first time, and I do my thing. I go up to the Hamburger, and I do file, save. And then I say to myself, Let me look again what I have done by going out of the room and reviewing it just like you do with a website.
 
@@ -1083,7 +1083,7 @@ You can do that. And what I often what I often do is you'll see this blue button
 
 And it'll bring this up, and if I want to save and publish, I'll click on that if I don't cause, I don't want to make the changes I cancelled here, cause I've screwed my gallery up here.
 
-## Cynthia DiDonato [02:29:55](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8995s)
+## Allen Hirsh [02:29:55](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8995s)
 
 Okay, so it's file save. And then, when you're if you're happy with the changes by reviewing them and seeing it, what it looks like to the public. Then you can go to publish. And then that finalizes to save.
 
@@ -1091,7 +1091,7 @@ Okay, so it's file save. And then, when you're if you're happy with the changes 
 
 Yeah. And and when you go to publish, that'll let you go actually go into hubs and see it as an end user. And that's really helpful. Because Oftentimes you things look good still in here, and you may realize, oh, this is still sticking out of the wall a little bit too much. I want to, you know. I want to push this closer and and actually seeing it in hubs versus seeing it in, spoke
 
-## Cynthia DiDonato [02:30:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9040s)
+## Allen Hirsh [02:30:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9040s)
 
 Can be really instrumental in in making those final changes, or the tweets that you like better. So the reason my view of it in hubs was not the same as what it looked like when I was working on. It is because I had not tweaked those images enough. Put them where they should be. I'm getting to see that they're floating so back, and I rework it alright. So you'll need to understand why what I see in hubs is not the same
 
@@ -1177,7 +1177,7 @@ Yeah, you can do the the soft opening call. It may be on the thirtieth, and then
 
 Another iteration. Right? Yeah. And the the challenge. The challenge is, Rene, is that. It's very hands on to incorporate. Changes. So it's not an automated process Tommy, or whoever's gonna be handling the The database has to do physical entries of here's here's the information. Here are the links. And and all of that for it to work. So what we were planning Is that once we're up and running, that we would have periodic updates. It it, you know, if we got everything past the soft launch. Maybe we do have a couple of updates that are monthly, but then from there we would probably do quarterly updates, because there's an intensive Aspect to making the updates. But so that's that's kind of where we're at in in behind the scenes.
 
-## Cynthia DiDonato [02:42:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9779s)
+## Allen Hirsh [02:42:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9779s)
 
 Well, I agree with everything that Bernada mentioned. And, Michael, I understand Your feelings, and why they have to be that way. So I'm hoping, you know, that either there's a soft opening, or that the opening is postponed. Again. We don't know how many people have already submitted to Tommy. Even that that would be. That would be be interesting and indicative. I would think of where we're going with this. And I certainly do not wanna put something out that I'm not proud of simply to be ready for December thirtieth.
 
@@ -1185,7 +1185,7 @@ Well, I agree with everything that Bernada mentioned. And, Michael, I understand
 
 This is most difficult month of the year in terms of holidays and being busy.
 
-## Cynthia DiDonato [02:43:44](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9824s)
+## Allen Hirsh [02:43:44](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9824s)
 
 And so that. And I've been working. I've been working on this along with Judy Jacobs, put a lot of time into trying to figure it out so II haven't waited till today to say, Well, I'm gonna give this a try. You're not alone. You're not alone in that, Cynthia at all.
 
@@ -1203,7 +1203,7 @@ Would have taken place 2 months ago. Yes. That that's been my voice to the group
 
 And and I think this is this is where. Over the next week whenever the fifteenth rolls around. You know, in 8 days. This, this is where it's The voices in the community are gonna have to say we need a lot more time, or we're not there yet. And and that's where I think the evaluation is gonna have to come is depending on what the feedback is from everybody. Where and how can we express it?
 
-## Cynthia DiDonato [02:46:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9976s)
+## Allen Hirsh [02:46:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9976s)
 
 I mean, feedback will be they don't. I think this has to go directly to Tommy.
 
@@ -1223,7 +1223,7 @@ You you! You've got your doorway and it goes to your website. But that that's ki
 
 And and at least that it. You know, we don't want all, you know, 75 artists just leaking to their website, and that, you know, kind of defeats the purpose of having a threed space. But if you, if you can't be ready that it's at least your presence is still in there.
 
-## Cynthia DiDonato [02:49:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10199s)
+## Allen Hirsh [02:49:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10199s)
 
 Those Judith and I are sharing a room, so we would give Tommy 2 names and our image. And link to the website. See? That presents another issue?
 
@@ -1239,7 +1239,7 @@ Okay, well, what about a landing page? If they built a landing page
 
 They could. That will unify the yeah. If you did a landing page where both of you presence are on there, that then, could go to your web individual web pages. That's fine. You could do something like that, too. So
 
-## Cynthia DiDonato [02:50:56](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10256s)
+## Allen Hirsh [02:50:56](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10256s)
 
 And what about the name? Can 2 names be on the door?
 
@@ -1247,7 +1247,7 @@ And what about the name? Can 2 names be on the door?
 
 As far as I know, 2 names is fine having on the door, I believe. I don't know how much space there is For the name on the door, so that that's something you probably should ask directly. II would. I would suggest sending an email out pretty soon on that question.
 
-## Cynthia DiDonato [02:51:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10284s)
+## Allen Hirsh [02:51:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10284s)
 
 Okay.
 
@@ -1267,7 +1267,7 @@ And
 
 How about the New Year?
 
-## Cynthia DiDonato [02:52:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10322s)
+## Allen Hirsh [02:52:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10322s)
 
 Anybody have any good ideas for the next subject?
 
@@ -1275,7 +1275,7 @@ Anybody have any good ideas for the next subject?
 
 Well, what were some of the things that we talked about in the co working session. I know that during our discussions we had there was like text to text and art or text and art, or something like that. And then there was another one. I can't remember what it was.
 
-## Cynthia DiDonato [02:52:25](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10345s)
+## Allen Hirsh [02:52:25](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10345s)
 
 Yeah, I can't, either.
 
@@ -1317,7 +1317,7 @@ When you click on. There were those 2 box check boxes that you had the boxes. Wi
 
 Allow Mozilla to promote my scene? I have no idea. And what is remixing with II don't know whether or not how that would impact anything.
 
-## Cynthia DiDonato [02:55:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10503s)
+## Allen Hirsh [02:55:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10503s)
 
 Yeah, I don't want remixing. II don't want anybody messing with my images.
 
@@ -1355,7 +1355,7 @@ Yes, thank you very much. You're definitely welcome. If we need to do another se
 
 Could we? Potentially, just for this one week. Co-OP the the Co. Working. Cynthia, Beth Ruben.
 
-## Cynthia DiDonato [02:58:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10697s)
+## Allen Hirsh [02:58:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10697s)
 
 She began the program and see if she's amenable. If if that's the case.
 
@@ -1363,7 +1363,7 @@ She began the program and see if she's amenable. If if that's the case.
 
 Cynthia, would you talk to Cynthia about that? Okay, if it if it's the case, we could do that. Send me an email, and I'd be happy to run another tutorial. That would be Tuesday at noon. Eastern.
 
-## Cynthia DiDonato [02:58:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10727s)
+## Allen Hirsh [02:58:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10727s)
 
 That's for 12.
 
@@ -1379,7 +1379,7 @@ Main page. Yeah. And that's why I was gonna suggest that we should publicize it.
 
 Yeah.
 
-## Cynthia DiDonato [02:59:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10744s)
+## Allen Hirsh [02:59:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10744s)
 
 So alright. So how would we publicize it? So more people would know. Facebook page.
 
@@ -1395,7 +1395,7 @@ Yeah.
 
 I can email Colin, and see what he thinks, too. Since I need to out since. I'll email just to let them know about
 
-## Cynthia DiDonato [02:59:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10769s)
+## Allen Hirsh [02:59:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10769s)
 
 Text and art or art and text, Cynthia, and next Tuesday and
 

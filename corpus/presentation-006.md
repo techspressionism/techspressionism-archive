@@ -149,7 +149,7 @@ Thank you.
 
 ## Lee Musgrave [24:57](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=1497s)
 
-Hello, I'm artist Lee Musgrave. I'm here in my studio in Washington State, USA. And I'm going to talk to you today about how to convert photography into text-specialism paintings. I start by collecting ephemera from all over the world. I go walking, hiking, I gather it up, people give it to me, I bring it home, I sort through it, and I start making selections and I put those on my work table and start playing with the composition.
+Hello, I'm artist Lee Musgrave. I'm here in my studio in Washington State, USA. And I'm going to talk to you today about how to convert photography into Techspressionism paintings. I start by collecting ephemera from all over the world. I go walking, hiking, I gather it up, people give it to me, I bring it home, I sort through it, and I start making selections and I put those on my work table and start playing with the composition.
 
 Moving things around, checking them for intensity, texture. Oh, I love it. All sorts of things start to speak to me. I really listen to them. There's a broken piece of taillight, for example. This piece you may recognize. This is the electrical diagram for a keyboard for your computer. I found this on the cobblestones in front of Cologne Cathedral in Cologne, Germany. It's part of this print, which is in the Uzbekistan exhibit.
 
