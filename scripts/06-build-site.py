@@ -193,6 +193,8 @@ def add_robots(page_html, filename=""):
     tags = []
     if noindex():
         tags.append('<meta name="robots" content="noindex, nofollow">')
+    else:      # indexable: full snippets, large image previews and video previews are allowed (search and AI answers may quote and show the page)
+        tags.append('<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">')
     canon = canonical_url("" if filename == "index.html" else filename)
     if canon:
         tags.append(f'<link rel="canonical" href="{e(canon)}">')
@@ -302,12 +304,12 @@ WP_MENU_CSS = """
 """
 
 
-def build_header(corpus, active="", sid="", strip=True):
+def build_header(corpus, active="", sid="", strip=True, h1=False):
     """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
     see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
     wires the search box and Browse to the page.)"""
-    return ((build_wp_strip() if strip else "") + '<header class="site"><div class="wrap"><strong><a href="index.html">Techspressionism Video Archive</a> '
-            '<span class="beta">[BETA]</span></strong>\n'
+    return ((build_wp_strip() if strip else "") + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
+            '<span class="beta">[BETA]</span></strong>' + ('</h1>' if h1 else '') + '\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
             + build_browse_links(corpus, active) + '\n'
@@ -367,6 +369,7 @@ header.site { border-bottom:1px solid var(--line); background:var(--card); paddi
 header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.1rem; white-space:nowrap; }
 header.site strong a { color:inherit; }
+h1.sitetitle { display:contents; font:inherit; margin:0; }   /* the home page's real <h1>: the site title, which looks exactly like the title on the other pages */
 header.site .wrap { container-type:inline-size; }
 @media (max-width:63.99rem) {   /* phone/tablet layout (the desktop layout starts at 64rem, with nothing in between): the title fills the width of the screen on one line (17.85 = title + [BETA] length in em, plus a little slack) */
   header.site .wrap { row-gap:.1rem; }
@@ -1829,7 +1832,7 @@ def build_index(corpus):
         rec_counts_js=json.dumps(rec_counts),
         groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
-        header=build_header(corpus, ""),
+        header=build_header(corpus, "", h1=True),
         pill_svg_js=json.dumps(PILL_SVG),
         cite_js=CITE_JS,
         pill_lead=f"{PILL_LEAD_IN:g}",
@@ -1941,8 +1944,15 @@ def seo_for_person(p):
         ld = lib_seo.person_graph(base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=p["name"], description=desc,
                                   aliases=p.get("aliases") or [], same_as=same_as, appearances=apps,
                                   trail=[(BRAND, base_home), ("Artists", canonical_url("index.html?type=Artist")), (p["name"], page)])
+    iv = p["interviews"][-1] if p.get("interviews") else None      # their interview's picture, else the site's default share image
+    if not page:
+        image, size = "", ("1280", "720")
+    elif iv and iv.get("video_id"):
+        image, size = canonical_url(f"thumbnails/{iv['video_id']}.jpg"), ("1280", "720")
+    else:
+        image, size = default_share_image()
     return dict(title=f"{p['name']}: recordings, mentions and links · {BRAND}", social_title=f"{p['name']} · {BRAND}", description=desc,
-                url=page, image="", og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
+                url=page, image=image, image_size=size, og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
 
 
 def archive_stats(corpus):
@@ -1959,6 +1969,13 @@ def archive_summary(st):
             f"presentations ({st['hours']} hours, {st['first']}–{st['last']}). Every passage links to the exact moment in the YouTube video.")
 
 
+def default_share_image():
+    """The picture shown when a page without a video of its own is shared: the same image techspressionism.com uses for its home page
+    (data/site-config.json og_image_url / og_image_width / og_image_height)."""
+    return (SITE_CONFIG.get("og_image_url") or "https://techspressionism.com/wp-content/uploads/2022/04/techspressionism_digital_and_beyond.jpg",
+            (str(SITE_CONFIG.get("og_image_width") or 1920), str(SITE_CONFIG.get("og_image_height") or 1440)))
+
+
 def seo_for_home(corpus):
     st = archive_stats(corpus)
     desc = archive_summary(st)
@@ -1969,8 +1986,8 @@ def seo_for_home(corpus):
                                 last_year=st["last"], csv_url=canonical_url("data/recordings.csv"), license_url=SITE_CONFIG.get("license_url") or "",
                                 doi=SITE_CONFIG.get("zenodo_doi") or "", youtube_channel=SITE_CONFIG.get("youtube_channel_url") or "")
     return dict(title=f"{BRAND} (TVA): searchable, citable transcripts of Techspressionism recordings", social_title=BRAND, description=desc,
-                url=page, image="", og_type="website", jsonld=ld, meta=[], alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")],
-                video_embed="")
+                url=page, image=default_share_image()[0] if page else "", image_size=default_share_image()[1], og_type="website", jsonld=ld, meta=[],
+                alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
 
 FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
@@ -1979,10 +1996,14 @@ FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">Ab
 
 def add_seo(page_html, filename, seo):
     """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer before </body>."""
-    page_html = re.sub(r"<title>.*?</title>", lambda m: f"<title>{e(seo['title'])}</title>", page_html, count=1, flags=re.S)
+    title = seo["title"]
+    suffix = f" · {BRAND}"
+    if len(title) > 100 and title.endswith(suffix):        # search results show about 60 characters: a long title keeps its own words, not the site name
+        title = title[:-len(suffix)]
+    page_html = re.sub(r"<title>.*?</title>", lambda m: f"<title>{e(title)}</title>", page_html, count=1, flags=re.S)
     tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
-                             alternates=seo["alternates"], video_embed=seo["video_embed"])
+                             alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
     page_html = page_html.replace("</head>", tags + "\n</head>", 1)
     return page_html.replace("</body>", FOOTER + "\n</body>", 1)
 
@@ -2041,7 +2062,8 @@ and the exhibition and artist pages on techspressionism.com.</p>"""
     html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
                  f'<title>About the {e(BRAND)}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person about">\n{body}\n</main>\n</body>\n</html>\n')
-    seo = dict(title=f"About the {BRAND}: coverage, method and how to cite", social_title=f"About the {BRAND}", description=desc, url=page, image="",
+    seo = dict(title=f"About the {BRAND}: coverage, method and how to cite", social_title=f"About the {BRAND}", description=desc, url=page,
+               image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
                og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
     return add_seo(html_page, "about.html", seo)
 
@@ -2076,14 +2098,23 @@ def write_site_files(corpus):
         brand=BRAND, summary=archive_summary(st), base=base_home, about_url=absu("about.html"), csv_url=absu("data/recordings.csv"),
         groups=groups, artists_url=absu("index.html?type=Artist"), sitemap_url=absu("sitemap.xml"), doi=SITE_CONFIG.get("zenodo_doi") or ""), encoding="utf-8")
     if base_home:
-        pages = [{"loc": base_home}, {"loc": canonical_url("about.html")}]
+        def changed(*paths):
+            """The date (YYYY-MM-DD) of the newest commit that touched any of the paths; empty when git cannot say."""
+            try:
+                out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", *paths], cwd=ROOT, capture_output=True, text=True, timeout=30).stdout.strip()
+            except Exception:
+                out = ""
+            return out
+        latest = changed("corpus", "data/people.json", "scripts/06-build-site.py")
+        pages = [{"loc": base_home, "lastmod": latest}, {"loc": canonical_url("about.html"), "lastmod": latest}]
         for x in corpus:
             thumb = canonical_url(f"thumbnails/{x['video_id']}.jpg")
-            pages.append({"loc": canonical_url(f"{slug(x)}.html"), "video": {
+            pages.append({"loc": canonical_url(f"{slug(x)}.html"), "lastmod": changed(f"corpus/{slug(x)}.md") or latest, "video": {
                 "thumb": thumb, "title": f"{entry_heading(x)} (Transcript)", "description": entry_description(x),
                 "embed": f"https://www.youtube.com/embed/{x['video_id']}", "duration": x.get("duration_seconds") or 0,
                 "published": x.get("date_published") or x.get("date_recorded") or ""}})
-        pages += [{"loc": canonical_url(f"artist-{pp['id']}.html")} for pp in LISTED]
+        people_changed = changed("data/people.json") or latest
+        pages += [{"loc": canonical_url(f"artist-{pp['id']}.html"), "lastmod": latest if (pp["speaks"] or pp["mentions"]) else people_changed} for pp in LISTED]
         (SITE_DIR / "sitemap.xml").write_text(lib_seo.sitemap_xml(pages), encoding="utf-8")
         if not noindex():                              # robots.txt only once the archive is meant to be found
             (SITE_DIR / "robots.txt").write_text(lib_seo.robots_txt(canonical_url("sitemap.xml"), SITE_CONFIG.get("allow_ai_training_crawlers", True)), encoding="utf-8")

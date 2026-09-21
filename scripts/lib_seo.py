@@ -40,7 +40,7 @@ def ld_script(obj):
 
 
 def head_tags(*, title, description, url="", image="", og_type="website", site_name="", jsonld=None, meta=(), alternates=(),
-              video_embed=""):
+              video_embed="", image_size=("1280", "720")):
     """The tags inserted before </head>. `meta` is [(name, content)], `alternates` is [(mime type, href, title)]."""
     t = [f'<meta name="description" content="{esc(description)}">']
     og = [("og:site_name", site_name), ("og:title", title), ("og:description", description), ("og:type", og_type),
@@ -48,7 +48,7 @@ def head_tags(*, title, description, url="", image="", og_type="website", site_n
     if url:
         og.append(("og:url", url))
     if image:
-        og += [("og:image", image), ("og:image:width", "1280"), ("og:image:height", "720")]
+        og += [("og:image", image), ("og:image:width", image_size[0]), ("og:image:height", image_size[1])]
     if video_embed:
         og += [("og:video", video_embed), ("og:video:secure_url", video_embed), ("og:video:type", "text/html"),
                ("og:video:width", "1280"), ("og:video:height", "720")]
@@ -131,7 +131,7 @@ def home_graph(*, base, brand, org_name, org_url, description, first_year, last_
         dataset["identifier"] = doi
         dataset["sameAs"] = doi if doi.startswith("http") else f"https://doi.org/{doi}"
     nodes = site_nodes(base, brand, org_name, org_url)
-    nodes[0]["potentialAction"] = {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": base + "index.html?q={search_term_string}"},
+    nodes[0]["potentialAction"] = {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": base + "?q={search_term_string}"},
                                    "query-input": "required name=search_term_string"}
     if youtube_channel:
         nodes[1]["sameAs"] = [youtube_channel]
@@ -166,7 +166,7 @@ def sitemap_xml(pages):
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">']
     for p in pages:
-        out.append(f"<url><loc>{esc(p['loc'])}</loc>")
+        out.append(f"<url><loc>{esc(p['loc'])}</loc>" + (f"<lastmod>{esc(p['lastmod'])}</lastmod>" if p.get("lastmod") else ""))
         v = p.get("video")
         if v:
             out.append("<video:video>"
