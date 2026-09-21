@@ -23,10 +23,11 @@
 <li><a href="/salon/"><strong>110+ salons</strong> since September 2020</a></li>
 <li><a href="/exhibitions/"><strong>Exhibitions</strong> in New York, Los Angeles, Chicago, Cape Cod and Uzbekistan</a></li>
 <li><a href="/archive/"><strong>147 recordings</strong>, transcribed and searchable in the Video Archive</a></li>
+<li><a href="https://www.instagram.com/explore/tags/techspressionism/" rel="noopener"><strong>87,000+ Instagram posts</strong> tagged #techspressionism (September 2026)</a></li>
 </ul>
 ```
 
-Numbers to confirm before publishing (they change): 460 artists / 50 countries (from the artist index as exported on September 20, 2026; the archive's own count is in `data/artists.json`), "110+" salons, 147 recordings (the archive builds this number itself).
+Numbers to confirm before publishing (they change; the Instagram figure is entered by hand, with its month, and refreshed every few months, because Instagram offers no allowed way to read a hashtag's total automatically): 460 artists / 50 countries (from the artist index as exported on September 20, 2026; the archive's own count is in `data/artists.json`), "110+" salons, 147 recordings (the archive builds this number itself).
 
 ## 4. One wording change on the home page
 
