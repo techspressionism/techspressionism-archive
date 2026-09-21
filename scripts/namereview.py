@@ -390,7 +390,7 @@ ${dl}`+
         <button class="seek" data-t="${c.start}">▶ Show in video (${Math.floor(c.start/60)}:${String(Math.floor(c.start%60)).padStart(2,'0')})</button>
         <a class="small" href="https://www.youtube.com/watch?v=${d.video_id}&t=${Math.floor(c.start)}s" target="_blank" rel="noopener">open in YouTube ↗</a></q></div>`).join('')||'<p class="mute small">No clean stretch to play for this voice.</p>'}
       <div class="row" style="margin-top:8px"><div style="flex:1 1 100%">${chooser(d,v,guess)}</div>
-       ${Object.keys(v.votes||{})[0]?`<label class="small mute" style="flex:1 1 100%"><input type="checkbox" class="alias" data-from="${esc(Object.keys(v.votes)[0])}"> Remember that the on-screen name “${esc(Object.keys(v.votes)[0])}” means this person in future recordings</label>`:''}
+       ${Object.keys(v.votes||{})[0]?`<label class="small mute" style="flex:1 1 100%"><input type="checkbox" class="alias" checked data-from="${esc(Object.keys(v.votes)[0])}"> Remember that the on-screen name “${esc(Object.keys(v.votes)[0])}” means this person in future recordings</label>`:''}
        <button class="pri" data-act="name">${guess?'Confirm':'Save'}</button><button data-act="none">Leave unattributed</button><span class="saved" hidden>saved ✓</span></div></div>`}).join('')+
    `<div class="card row"><button class="pri" id="apply">Apply to the page</button><span class="small mute grow" id="applymsg">Your decisions are saved as you make them. This builds the recording's transcript page with them (every word a decided voice speaks gets that name). It goes online the next time the site is published.</span></div>`;
   loadPlayer(d.video_id);
