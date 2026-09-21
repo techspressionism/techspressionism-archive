@@ -39,6 +39,7 @@ ROOT = HERE.parent
 sys.path.insert(0, str(HERE))
 from lib_media import label, slug  # noqa: E402
 from lib_speakers import canonical_name  # noqa: E402
+from lib_corrections import apply_style_rules, apply_vocabulary  # noqa: E402
 from lib_voicehints import distinctive_handle  # noqa: E402
 
 DIARIZE_DIR = ROOT / "raw" / "diarize"
@@ -220,18 +221,30 @@ def all_names():
     return sorted(names)
 
 
+_VOCAB = []
+
+
+def clean_clip(text):
+    """The clip's words with the archive's corrections applied (Techspressionism spellings, names, emails), so the review page shows what the
+    finished transcript will say, not raw speech recognition."""
+    if not _VOCAB:
+        _VOCAB.extend(json.loads((ROOT / "data" / "vocabulary.json").read_text())["terms"])
+        _VOCAB.append(None)
+    return apply_style_rules(apply_vocabulary(text, [v for v in _VOCAB if v])[0])
+
+
 def transcript_at(sl, start, end):
     """The words spoken in a clip: Whisper if there is one, else the recording's own transcript."""
     p = WHISPER_DIR / f"{sl}.json"
     if p.exists():
-        return " ".join(w["text"] for w in json.loads(p.read_text())["words"] if start - 0.2 <= w["start"] <= end)
+        return clean_clip(" ".join(w["text"] for w in json.loads(p.read_text())["words"] if start - 0.2 <= w["start"] <= end))
     p = ROOT / "raw" / "transcripts" / f"{sl}.json"
     if not p.exists():
         return ""
     data = json.loads(p.read_text())
     if data.get("words"):
-        return " ".join(w["text"] for w in data["words"] if start - 0.2 <= w["start"] <= end)
-    return " ".join(c["text"] for c in data.get("cues", []) if c["start"] < end and (c.get("end") or c["start"] + 2) > start)
+        return clean_clip(" ".join(w["text"] for w in data["words"] if start - 0.2 <= w["start"] <= end))
+    return clean_clip(" ".join(c["text"] for c in data.get("cues", []) if c["start"] < end and (c.get("end") or c["start"] + 2) > start))
 
 
 def pick_clips(turns, voice):
