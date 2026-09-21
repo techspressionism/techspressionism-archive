@@ -381,12 +381,17 @@ async function page(sl){
     const known=people.some(x=>x[1]===guess), other=guess&&!known;
     const opt=n=>`<option value="${esc(n)}" ${n===guess?'selected':''}>${esc(n)}</option>`;
     const groups=[['In this recording\'s listing',g.here],['Named in this recording',g.named],['Regular participants',g.regular]].filter(x=>x[1].length).map(x=>`<optgroup label="${x[0]}">${x[1].map(opt).join('')}</optgroup>`).join('');
-    const text=`<input type="text" class="nm" list="names" placeholder="Who is this?" value="${other?esc(guess):''}" ${other?'':'hidden'}>`;
+    const text=d.interview?`<input type="text" class="nm" list="names" placeholder="Who is this?" value="${other?esc(guess):''}" ${other?'':'hidden'}>`
+      :`<input type="text" class="nm quick" list="names" placeholder="…or type a name" value="${other?esc(guess):''}">`;      // other recordings: always visible next to the dropdown
     if(d.interview) return '<div class="roles">'+people.map(x=>`<label class="role"><input type="radio" name="r_${v.voice}" value="${esc(x[1])}" ${x[1]===guess?'checked':''}> ${x[0]}: <b>${esc(x[1])}</b></label>`).join('')+
       `<label class="role"><input type="radio" name="r_${v.voice}" value="__other" ${other?'checked':''}> Someone else ${text}</label><label class="role"><input type="radio" name="r_${v.voice}" value="__none"> Can't tell</label></div>`;
-    return `<select class="sel"><option value="">— choose who this is —</option>${groups}<option value="__other" ${other?'selected':''}>Someone else…</option><option value="__none">Can't tell (leave unattributed)</option></select> ${text}`};
+    return `<select class="sel"><option value="">— choose who this is —</option>${groups}<option value="__none">Can't tell (leave unattributed)</option></select> ${text}`};
   const chosen=card=>{const r=card.querySelector('input[type=radio]:checked'),s=card.querySelector('select.sel'),t=card.querySelector('input.nm');
-    const v=r?r.value:s?s.value:(t?t.value:'');return v==='__none'?'':v==='__other'?(t?t.value.trim():''):v.trim()};
+    if(r){const v=r.value;return v==='__none'?'':v==='__other'?(t?t.value.trim():''):v.trim()}
+    if(s){const typed=t?t.value.trim():'';
+      if(typed&&s.value&&s.value[0]!=='_'&&s.value.toLowerCase().startsWith(typed.toLowerCase()))return s.value;     // "Da" with the dropdown on "Davonte Bradley" means Davonte Bradley
+      if(typed)return typed;return s.value==='__none'?'':s.value.trim()}
+    return t?t.value.trim():''};
   const dl='<datalist id="names">'+[...new Set([...d.suggestions,...(d.all_names||[])])].map(n=>`<option value="${esc(n)}">`).join('')+'</datalist>';
   $('#app').innerHTML=`<p><a href="#/">← all recordings</a></p><h1>${esc(d.label)} <span class="mute">${esc(d.title)}</span></h1>
    <div class="vid" id="vidbox"><div class="row"><button class="seek" id="vidtoggle">Hide video</button><span class="small mute" id="vidnote">Press <b>▶ Show in video</b> under a clip to watch that moment here.</span></div>
@@ -433,8 +438,16 @@ ${dl}`+
     const r=await api('/api/decision',{method:'POST',body:JSON.stringify({slug:sl,voice:card.dataset.v,name:name,fingerprint:card.dataset.fp,alias_from:from})});
     card.querySelector('.who').textContent=name||'left unattributed';card.classList.add('done');     // a decided voice folds away; Change opens it again
     const left=document.querySelectorAll('.card[data-v]:not(.done)').length;$('#applymsg').textContent=left?`Saved. ${left} voice${left>1?'s':''} still to decide in this recording.`:'All voices decided. Press "Apply to the page" to build the page with your names.';});
-  document.querySelectorAll('.card[data-v]').forEach(card=>card.addEventListener('change',e=>{   // "Someone else" shows the text box
-    const other=[...card.querySelectorAll('input[type=radio]:checked,select.sel')].some(x=>x.value==='__other'),t=card.querySelector('input.nm');if(t){t.hidden=!other;if(other)t.focus()}}));
+  document.querySelectorAll('.card[data-v]').forEach(card=>{
+    card.addEventListener('change',e=>{
+      const t=card.querySelector('input.nm');if(!t)return;
+      if(card.querySelector('.roles')){const other=[...card.querySelectorAll('input[type=radio]:checked')].some(x=>x.value==='__other');t.hidden=!other;if(other)t.focus()}   // interviews: "Someone else" shows the box
+      else if(e.target.matches('select.sel'))t.value=''});                        // picking from the dropdown clears a typed name
+    const q=card.querySelector('input.nm.quick');
+    if(q){q.addEventListener('input',()=>{const s=card.querySelector('select.sel'),v=q.value.trim().toLowerCase();if(!s)return;
+        const hit=v?[...s.options].find(o=>o.value&&o.value[0]!=='_'&&o.value.toLowerCase().startsWith(v)):null;
+        s.value=hit?hit.value:''});                                                   // the dropdown jumps to the first name that matches what is being typed
+      q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();const b=card.querySelector('button[data-act="name"]');if(b)b.click()}})}});
   document.querySelectorAll('.card[data-v] .chg').forEach(b=>b.onclick=()=>b.closest('.card').classList.remove('done'));
 }
 const bgJobs={};                                          // pages being built in the background (shown in the corner)
