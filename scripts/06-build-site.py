@@ -160,10 +160,22 @@ def nest(page_html, depth):
     return page_html.replace("location.href='index.html'", f"location.href='{home}'")
 
 
+def favicon_tags():
+    """The same icons as the rest of techspressionism.com (its own <head> declares these three); the images are read from there,
+    so the archive follows if the icon is ever changed. Addresses are in data/site-config.json (favicon_url, favicon_192_url, favicon_tile_url)."""
+    small = SITE_CONFIG.get("favicon_url") or "https://techspressionism.com/wp-content/uploads/2020/10/T_LOGO_32.jpg"
+    big = SITE_CONFIG.get("favicon_192_url") or "https://techspressionism.com/wp-content/uploads/2020/10/T_LOGO_57.jpg"
+    tile = SITE_CONFIG.get("favicon_tile_url") or "https://techspressionism.com/wp-content/uploads/2020/10/T_LOGO_72.jpg"
+    return (f'<link rel="icon" href="{e(small)}" type="image/jpeg">\n<link rel="icon" sizes="192x192" href="{e(big)}" type="image/jpeg">\n'
+            f'<meta name="msapplication-TileImage" content="{e(tile)}">\n')
+
+
 def write_page(rel_dir, page_html, depth):
     """Write site/<rel_dir>/index.html (the home page when rel_dir is empty)."""
     folder = SITE_DIR / rel_dir if rel_dir else SITE_DIR
     folder.mkdir(parents=True, exist_ok=True)
+    if 'rel="icon"' not in page_html:
+        page_html = page_html.replace("</head>", favicon_tags() + "</head>", 1)
     (folder / "index.html").write_text(nest(page_html, depth))
 
 
