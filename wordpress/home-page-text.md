@@ -40,7 +40,7 @@ The current home page already has a lot of text (the 2020 origin story, the defi
 <p><a href="/archive/">SEARCH THE ARCHIVE</a></p>
 ```
 
-In "Recent Interviews", add under each interview: `Read the transcript` -> that interview's page in the archive (for example /archive/interview-0NN/).
+In "Recent Interviews", add under each interview: `Read the transcript` -> that interview's page in the archive (addresses are in wordpress/archive-address-map.csv, for example /archive/interview-030-carla-gannis/).
 
 ## 6. Wording changes
 

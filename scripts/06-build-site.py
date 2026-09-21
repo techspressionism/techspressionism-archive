@@ -116,6 +116,23 @@ ASSET_PREFIXES = ("style.css", "thumbnails/", "thumbnails-small/", "pagefind/", 
 
 
 CSS_VERSION = ""      # set in main() from the stylesheet's content
+PAGE_NAMES = {}       # recording id (salon-081) -> the address folder it has on the site (salon-081-open-studios); set in main()
+
+
+def page_name(entry):
+    """A recording's address: its id (which never changes) plus the words that describe it: the interviewee for an interview, the title for the rest.
+    The words are for people, search engines and AI tools reading the link; the id is what makes it unique."""
+    rid = slug(entry)
+    words = entry.get("interviewee") if entry.get("type") == "interview" else entry.get("session_title")
+    text = str(words or "").translate(str.maketrans({"ø": "o", "Ø": "O", "æ": "ae", "Æ": "AE", "œ": "oe", "ß": "ss", "đ": "d", "ł": "l", "Ł": "L"}))
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode().lower()
+    text = re.sub(r"[^a-z0-9]+", "-", text.replace("&", " and ")).strip("-")
+    parts, size = [], len(rid)
+    for w in text.split("-"):
+        if w and size + 1 + len(w) <= 64:
+            parts.append(w)
+            size += 1 + len(w)
+    return rid + ("-" + "-".join(parts) if parts else "")
 
 
 def clean_path(target):
@@ -129,7 +146,7 @@ def clean_path(target):
         return "about/" + rest
     m = _RECORDING_PAGE.match(path)
     if m:
-        return m.group(1) + "/" + rest
+        return PAGE_NAMES.get(m.group(1), m.group(1)) + "/" + rest
     m = _ARTIST_PAGE.match(path)
     if m:
         return "artist/" + m.group(1) + "/" + rest
@@ -158,6 +175,21 @@ def nest(page_html, depth):
         return target
     page_html = re.sub(r'\b(href|src|action)="([^"]*)"', lambda m: f'{m.group(1)}="{fix(m.group(2))}"', page_html)
     return page_html.replace("location.href='index.html'", f"location.href='{home}'")
+
+
+def write_moved_stub(old, new):
+    """The recording's first address (salon-081/) keeps working: a page that sends the visitor to the new one and names it as the canonical address.
+    (A permanent 301 redirect for the same addresses can be added in Yoast: wordpress/yoast-redirects.csv.)"""
+    if old == new:
+        return
+    target = canonical_url(f"{old}.html")           # the new address, absolute when the final address is known
+    href = target or f"../{new}/"
+    (SITE_DIR / old).mkdir(parents=True, exist_ok=True)
+    (SITE_DIR / old / "index.html").write_text(
+        '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><title>This page has moved</title>'
+        f'<link rel="canonical" href="{e(href)}"><meta http-equiv="refresh" content="0; url={e(href)}">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1"></head>'
+        f'<body><p>This page has moved to <a href="{e(href)}">{e(href)}</a>.</p></body></html>\n')
 
 
 def favicon_tags():
@@ -1412,7 +1444,7 @@ function citationBlock(c) {{
 
 const timesCache = new Map();
 function loadTimes(page) {{
-  const m = page.match(new RegExp("((?:salon|interview|roundtable|presentation)-[0-9]{{3}})(?:[.]html|/)?(?:[?#]|$)"));
+  const m = page.match(new RegExp("((?:salon|interview|roundtable|presentation)-[0-9]{{3}})(?:-[a-z0-9-]*)?(?:[.]html|/)?(?:[?#]|$)"));
   if (!m) return Promise.resolve(null);
   if (!timesCache.has(m[1])) {{
     timesCache.set(m[1], fetch(location.pathname.replace(/[^\/]*$/, "") + "times/" + m[1] + ".json")
@@ -2278,6 +2310,8 @@ def main():
         corpus = json.load(f)
 
     NAV_CORPUS[:] = corpus
+    PAGE_NAMES.clear()
+    PAGE_NAMES.update({slug(x): page_name(x) for x in corpus})
     load_people(corpus)
     SITE_DIR.mkdir(exist_ok=True)
     global CSS_VERSION
@@ -2287,7 +2321,7 @@ def main():
     for old in SITE_DIR.glob("*.html"):                     # the old .html addresses are gone
         if old.name != "index.html":
             old.unlink()
-    for folder in [d for d in SITE_DIR.iterdir() if d.is_dir() and re.match(r"^(?:(?:salon|interview|roundtable|presentation)-[0-9]{3}|about|artist)$", d.name)]:
+    for folder in [d for d in SITE_DIR.iterdir() if d.is_dir() and re.match(r"^(?:(?:salon|interview|roundtable|presentation)-[0-9]{3}(?:-[a-z0-9-]+)?|about|artist)$", d.name)]:
         shutil.rmtree(folder)
     write_page("", add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)), 0)
     write_page("about", add_robots(build_about(corpus), "about.html"), 1)
@@ -2295,8 +2329,9 @@ def main():
     for entry in sorted(corpus, key=list_order):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
     for entry in corpus:
-        write_page(slug(entry), add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
-                                        f"{slug(entry)}.html", seo_for_entry(entry)), 1)
+        write_page(PAGE_NAMES[slug(entry)], add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
+                                                    f"{slug(entry)}.html", seo_for_entry(entry)), 1)
+        write_moved_stub(slug(entry), PAGE_NAMES[slug(entry)])
 
     for pp in LISTED:                                   # only artists heard or named in the recordings have a page
         write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
