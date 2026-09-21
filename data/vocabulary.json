@@ -612,6 +612,19 @@
       ],
       "whole_word": true,
       "note": "the STS scholar who coined 'intra-action'; speech recognition heard 'Barad' as 'Berard' in Salon 102 (2026-09-21)"
+    },
+    {
+      "canonical": "Boisvert",
+      "category": "artist",
+      "known_asr_variants": [
+        "Boivaire",
+        "Boiver",
+        "Boisver",
+        "Boivert",
+        "Boisvair"
+      ],
+      "whole_word": true,
+      "note": "Heidi Boisvert (Salon 102 moderator); speech recognition spells her surname many ways in her introduction (Colin, 21 September 2026)"
     }
   ]
 }
