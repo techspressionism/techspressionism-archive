@@ -282,7 +282,7 @@ def listing():
         done = sum(1 for v in d["voices"] if (v in dec["voices"] and dec["voices"][v].get("fingerprint") == fingerprint(turns, v)) or auto_ok(v))
         secs = {v: i["seconds"] for v, i in d["voices"].items()}
         rows.append({"slug": sl, "label": label(_sessions[sl]), "title": _sessions[sl].get("session_title") or "",
-                     "voices": len(secs), "decided": done, "auto": any(auto_ok(v) for v in d["voices"]),
+                     "voices": len(secs), "decided": done, "auto": any(auto_ok(v) for v in d["voices"]), "applied": bool(dec.get("applied")),
                      "share_decided": round(100 * sum(secs[v] for v in secs if v in dec["voices"] or auto_ok(v)) / (sum(secs.values()) or 1))})
     return rows
 
@@ -352,10 +352,13 @@ const $=(s,e=document)=>e.querySelector(s), api=(u,o)=>fetch(u,o).then(r=>r.json
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function home(){
   const rows=await api('/api/list');
-  $('#app').innerHTML=`<h1>NameReview</h1><p class="mute small">Recordings whose voices have been separated. Open one and say who each voice is; every word that voice speaks is then attributed.</p>`+
-   (rows.length?rows.map(r=>`<a class="card row" href="#/${r.slug}" style="text-decoration:none;color:inherit"><div class="grow"><b>${esc(r.label)}</b> <span class="mute">${esc(r.title)}</span>
-   <div class="bar"><i style="width:${r.share_decided}%"></i></div><span class="small mute">${r.decided} of ${r.voices} voices decided · ${r.share_decided}% of speech</span></div>
-   ${r.auto?'<span class="badge confirmed">some names approved automatically</span>':''}</a>`).join(''):'<p>No separated recordings yet.</p>');
+  const card=r=>`<a class="card row" href="#/${r.slug}" style="text-decoration:none;color:inherit"><div class="grow"><b>${esc(r.label)}</b> <span class="mute">${esc(r.title)}</span>
+   <div class="bar"><i style="width:${r.share_decided}%"></i></div><span class="small mute">${r.decided} of ${r.voices} voices decided · ${r.share_decided}% of speech${r.applied?' · applied to the page':(r.decided>=r.voices?' · all decided, not applied yet':'')}</span></div>
+   ${r.auto?'<span class="badge confirmed">some names approved automatically</span>':''}</a>`;
+  const todo=rows.filter(r=>!(r.applied||r.decided>=r.voices)), done=rows.filter(r=>r.applied||r.decided>=r.voices);
+  $('#app').innerHTML=`<h1>NameReview</h1><p class="mute small">Recordings whose voices have been separated. Open one and say who each voice is; every word that voice speaks is then attributed. ${todo.length} still to review.</p>`+
+   (todo.length?todo.map(card).join(''):'<p><b>Nothing left to review.</b></p>')+
+   (done.length?`<details style="margin-top:18px"><summary class="mute">Done (${done.length}): applied, or every voice decided</summary>${done.map(card).join('')}</details>`:'');
 }
 async function page(sl){
   const d=await api('/api/rec/'+sl);
@@ -476,11 +479,16 @@ class Handler(BaseHTTPRequestHandler):
             if not SLUG_RE.match(sl) or not (DIARIZE_DIR / f"{sl}.json").exists():
                 return self._send({"error": "unknown recording"}, code=400)
             dec = load_decisions(sl)
+            if self.path in ("/api/decision", "/api/approve"):
+                dec.pop("applied", None)                             # a changed decision reopens the recording
             if self.path == "/api/apply":                     # rebuild this recording's page (Stage 5) with the saved decisions
                 with APPLY_LOCK:
                     r = subprocess.run([sys.executable, str(ROOT / "scripts" / "05-build-corpus.py"), sl, "--no-review"], capture_output=True, text=True, timeout=600)
                 if r.returncode != 0:
                     return self._send({"error": (r.stderr or r.stdout).strip().splitlines()[-1][:200]}, code=500)
+                dec = load_decisions(sl)
+                dec["applied"] = time.strftime("%Y-%m-%d %H:%M")
+                save_decisions(sl, dec)
                 for e in json.loads((ROOT / "corpus" / "corpus.json").read_text()):
                     if f"{e.get('type', 'salon')}-{int(e['number']):03d}" == sl:
                         tot = sum(len(s["text"].split()) for s in e["segments"]) or 1
