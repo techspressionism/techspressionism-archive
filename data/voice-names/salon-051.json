@@ -1,10 +1,60 @@
 {
   "approved_auto": false,
   "voices": {
+    "V11": {
+      "at": "2026-09-20 19:31",
+      "fingerprint": "3f05f5d810",
+      "name": "Michael Pierre Price"
+    },
+    "V12": {
+      "at": "2026-09-20 19:31",
+      "fingerprint": "5b399c1130",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V13": {
+      "at": "2026-09-20 19:31",
+      "fingerprint": "77f14b9ab3",
+      "name": ""
+    },
+    "V14": {
+      "at": "2026-09-20 19:31",
+      "fingerprint": "2c7a2548f2",
+      "name": "Karen LaFleur"
+    },
     "V2": {
       "at": "2026-09-20 19:28",
       "fingerprint": "14a4c48aba",
       "name": "Patrick Lichty"
+    },
+    "V3": {
+      "at": "2026-09-20 19:28",
+      "fingerprint": "3e53fa0db8",
+      "name": "Verneda Lights"
+    },
+    "V4": {
+      "at": "2026-09-20 19:28",
+      "fingerprint": "c86c95aa72",
+      "name": "Cynthia DiDonato"
+    },
+    "V5": {
+      "at": "2026-09-20 19:29",
+      "fingerprint": "e9b2d78fec",
+      "name": "David Cohen"
+    },
+    "V7": {
+      "at": "2026-09-20 19:29",
+      "fingerprint": "164342e8ee",
+      "name": "Susan Detroy"
+    },
+    "V8": {
+      "at": "2026-09-20 19:31",
+      "fingerprint": "7015c2ee45",
+      "name": ""
+    },
+    "V9": {
+      "at": "2026-09-20 19:30",
+      "fingerprint": "cca4230ff5",
+      "name": "Renata Janiszewska"
     }
   }
 }

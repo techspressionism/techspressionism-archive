@@ -1,0 +1,35 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:57",
+      "fingerprint": "9bf726e73b",
+      "name": "Verneda Lights"
+    },
+    "V2": {
+      "at": "2026-09-20 19:57",
+      "fingerprint": "503caa2eff",
+      "name": "Tommy Mintz"
+    },
+    "V3": {
+      "at": "2026-09-20 19:59",
+      "fingerprint": "cc6a543fd0",
+      "name": "Jaime Bautista"
+    },
+    "V5": {
+      "at": "2026-09-20 19:59",
+      "fingerprint": "106e0e41cf",
+      "name": "Clive Holden"
+    },
+    "V6": {
+      "at": "2026-09-20 19:59",
+      "fingerprint": "0540e53501",
+      "name": "Cynthia DiDonato"
+    },
+    "V7": {
+      "at": "2026-09-20 20:00",
+      "fingerprint": "1f8d351f46",
+      "name": "Cynthia Beth Rubin"
+    }
+  }
+}

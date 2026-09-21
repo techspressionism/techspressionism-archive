@@ -1,0 +1,45 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 19:55",
+      "fingerprint": "35f210fcc0",
+      "name": "Paul D. Miller aka DJ Spooky"
+    },
+    "V2": {
+      "at": "2026-09-20 19:55",
+      "fingerprint": "44fb649018",
+      "name": "Michael Pierre Price"
+    },
+    "V3": {
+      "at": "2026-09-20 19:55",
+      "fingerprint": "dba42daace",
+      "name": "Steve Miller"
+    },
+    "V4": {
+      "at": "2026-09-20 19:55",
+      "fingerprint": "9710a20b75",
+      "name": "Cynthia DiDonato"
+    },
+    "V6": {
+      "at": "2026-09-20 19:55",
+      "fingerprint": "97a5ab69c5",
+      "name": "Lee Musgrave"
+    },
+    "V7": {
+      "at": "2026-09-20 19:56",
+      "fingerprint": "df2f0a15c5",
+      "name": "Verneda Lights"
+    },
+    "V8": {
+      "at": "2026-09-20 19:56",
+      "fingerprint": "f10acc15b3",
+      "name": "Cynthia DiDonato"
+    },
+    "V9": {
+      "at": "2026-09-20 19:57",
+      "fingerprint": "c4a4fc3ac6",
+      "name": "Paul D. Miller aka DJ Spooky"
+    }
+  }
+}
