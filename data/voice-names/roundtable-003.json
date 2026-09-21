@@ -1,0 +1,26 @@
+{
+  "applied": "2026-09-20 20:35",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:34",
+      "fingerprint": "ed2ac6590d",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V2": {
+      "at": "2026-09-20 20:34",
+      "fingerprint": "60bf2b420b",
+      "name": "Cynthia DiDonato"
+    },
+    "V3": {
+      "at": "2026-09-20 20:35",
+      "fingerprint": "65f9f7e62f",
+      "name": "Karen LaFleur"
+    },
+    "V4": {
+      "at": "2026-09-20 20:35",
+      "fingerprint": "de4e72faf4",
+      "name": "Michael Pierre Price"
+    }
+  }
+}

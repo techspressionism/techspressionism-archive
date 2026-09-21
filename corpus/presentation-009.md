@@ -54,31 +54,11 @@ Right? And again, you're one with the painting. You don't have a plan. So if you
 
 So all this happened right here in this barn in East Hampton, New York. So I'm going to show you a picture of this. I'm going to show you around the barn. Okay. I know there are people from all sorts of places in the world. So before I show you the interior of the barn, I do want to step outside so that you can see how beautiful the property is and get a feeling of the actual location.
 
-So we are located on the end of Long Island, 90 miles from New York City. Perfect for an artist because you could hop on a train and be right here. And then go back to New York City. Whoa, windy. So Pollock and Krasna moved here from New York City. This is the Springs. This was fishermen and farmers.
+So we are located on the end of Long Island, 90 miles from New York City. Perfect for an artist because you could hop on a train and be right here. And then go back to New York City. Whoa, windy. So Pollock and Krasna moved here from New York City. This is the Springs. This was fishermen and farmers. Why aren't one and one for clothing? The barn was originally over there. Yeah, this barn was over there.
 
-## Unattributed [10:57](https://www.youtube.com/watch?v=8aQDDA-u0io&t=657s)
+Somebody's unmuted. Actually, this is going to be used for the fine arts. Or is it? No. Okay. And here's the barn where I was just sitting in. Okay. Because your trains don't stay in the hell of the planet. Yeah, but they don't have the same health of the planet. Here's the house. Last time we just submitted the names of some of the trade models. We might go into the house at the end, but the focus of this tour is on process. So we're going to mainly stay inside the barn. For the fine art ones? Okay. Okay. So what's special when you come to visit the Pollock site is that everything is not roped off. You can actually walk right into the barn and see where Pollock and Krasna's masterpieces were made. So I'm going to put on these little foam slippers and we're going to have a walkthrough. Now.
 
-Why aren't one and one for clothing?
-
-## Joyce Raimondo [10:59](https://www.youtube.com/watch?v=8aQDDA-u0io&t=659s)
-
-The barn was originally over there. Yeah, this barn was over there.
-
-## Unattributed [11:03](https://www.youtube.com/watch?v=8aQDDA-u0io&t=663s)
-
-Somebody's unmuted. Actually, this is going to be used for the fine arts.
-
-## Joyce Raimondo [11:07](https://www.youtube.com/watch?v=8aQDDA-u0io&t=667s)
-
-Or is it? No. Okay. And here's the barn where I was just sitting in. Okay. Because your trains don't
-
-## Unattributed [11:16](https://www.youtube.com/watch?v=8aQDDA-u0io&t=676s)
-
-Stay in the hell of the planet. Yeah, but they don't have the same health of the planet. Here's the house. Last time we just submitted the names of some of the trade models. We might go into the house at the end, but the focus of this tour is on process. So we're going to mainly stay inside the barn. For the fine art ones? Okay. Okay.
-
-## Joyce Raimondo [11:33](https://www.youtube.com/watch?v=8aQDDA-u0io&t=693s)
-
-So what's special when you come to visit the Pollock site is that everything is not roped off. You can actually walk right into the barn and see where Pollock and Krasna's masterpieces were made. So I'm going to put on these little foam slippers and we're going to have a walkthrough. Now. Pollock. Pollock. So the work in the house. Time. Jackson Pollock died at the age of 44 in 1956 in a car crash. He was driving and drinking and Lee Krasner used the studio after his death. Before his death, she painted in a little room upstairs. So many of these supplies you see behind me are actually Lee Krasner's because she was here until 1984.
+Pollock. Pollock. So the work in the house. Time. Jackson Pollock died at the age of 44 in 1956 in a car crash. He was driving and drinking and Lee Krasner used the studio after his death. Before his death, she painted in a little room upstairs. So many of these supplies you see behind me are actually Lee Krasner's because she was here until 1984.
 
 So here is her painting cart, her slippers. And here is the now famous Barnes studio. So you can see Jackson Pollock's drip painted floor, evidence of his masterpieces. And this floor is not a work of art because Pollock was very intentional about his paintings and his technique. These are just accidental random spills and splatters. But it's a lot of fun to come in here and just look at the floor. It's just fun.
 
@@ -92,7 +72,15 @@ So I'm going to do a little screen share. Bear with me. And here we go.
 
 OK. So this is a video of Pollock painting traditional subjects. And here we go. OK. So here we go. So here we go. This is a video of Pollock painting traditional subjects. This is a video of Pollock painting traditional subjects. And here we go. Here we go. OK. So here we go. OK. So here we go. OK. OK. So here we go. OK. So here we go. OK. OK. OK. OK.
 
-OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK.
+OK. OK. OK. OK. OK. OK. OK. OK.
+
+## Verneda Lights [17:25](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1045s)
+
+OK.
+
+## Unattributed [17:26](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1046s)
+
+OK. OK. OK. OK. OK.
 
 ## Joyce Raimondo [17:30](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1050s)
 
@@ -116,7 +104,7 @@ Yeah, I mean, that piece, I don't know. I don't know. I don't know. I don't know
 
 Yeah. How about, I see someone with the hand up, you have like a purple item on your head. What would you like? What would you like to say? Unmute, please.
 
-## Unattributed [19:29](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1169s)
+## Verneda Lights [19:29](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1169s)
 
 I see a decomposing forest floor.
 
@@ -390,7 +378,7 @@ Actually, I see Diane first. Diane Marsella?
 
 I mean the spotlight. I'll do the spotlight. Odd, nice to see you. Unmute, please.
 
-## Unattributed [01:11:34](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4294s)
+## Diane Marsella [01:11:34](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4294s)
 
 Unmuted. Okay. Hey, I'm thrilled to be here. I got involved with Sexpressionists a few months ago. Delighted to meet everybody because I started thinking that there wasn't anybody out there doing what I was doing. Nobody really understood it. They liked it, but they didn't really get it. So, I'm going to attempt to share my screen. Please forgive me. This is my first time doing this. So, can you let me know if you see that image?
 
@@ -400,13 +388,17 @@ Yes, we can see it. We can see it.
 
 ## Unattributed [01:12:05](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4325s)
 
-Great. Great.
+Great.
+
+## Diane Marsella [01:12:05](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4325s)
+
+Great.
 
 ## Joyce Raimondo [01:12:07](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4327s)
 
 Yeah, just like 30 seconds left.
 
-## Unattributed [01:12:09](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4329s)
+## Diane Marsella [01:12:09](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4329s)
 
 Yep. I'll go through them quickly. These are kind of in chronological order. All of my images are based on photos that I've taken of something that I thought was interesting. And I only use photos that I've taken. So, I'm going to go through them. And as I go through the image, kind of like the other artists we spoke about earlier, I don't have a title in mind. I sort of let the piece do what it's going to do. And then a title sort of comes to, depending on my mood.
 
@@ -428,7 +420,7 @@ I just want to thank you for sharing, because this is really good. It's bringing
 
 Sure. And, you know, I would say this is something from our salons. Diane, if you want to paste your web link into the chat, then people could follow up and look at your work. And it goes for anyone else that presents. So, next up is Roz.
 
-## Unattributed [01:13:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4420s)
+## Roz Dimon [01:13:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4420s)
 
 Hi, everybody. Can you hear me? Yes. Great. I don't think I'm going to share a screen, but I have a piece behind me. That's one of my digital paintings. And I just want to say, being part of expressionism as an artist who was a painter, traditional painter who got accidentally involved in digital art, by just responding to a world of pixels, everything started filling with pixels, being part of this new movement after 30 years of working in this medium. And it's been exciting all along. But I think we're at a second sort of movement that I relate to the 1990s of the dot com, when things were really exploding. And ideas were being shared. And I love this Techspressionism a lot for the community and the sharing and the learning. Because, yes, we work in our own islands. But I think a new form of rather artist atelier is forming in a way that is collaborative and almost like a movie director working with different images.
 
@@ -448,7 +440,7 @@ Sure. Darcy?
 
 Hi.
 
-## Unattributed [01:15:39](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4539s)
+## Darcy Gerbarg [01:15:39](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4539s)
 
 Let me bring up a screen share here. I have for the last number of years been painting in a virtual world with Tilt Brush, which I like a lot. And these paintings actually all exist.
 
@@ -456,7 +448,7 @@ Let me bring up a screen share here. I have for the last number of years been pa
 
 Speak a little louder, Darcy. Speak up a little, please. Okay. Let me see. Great. Very good. Can you hear me better now? A little bit. Yeah. These are amazing. Go ahead.
 
-## Unattributed [01:16:13](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4573s)
+## Darcy Gerbarg [01:16:13](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4573s)
 
 So I paint all these in a virtual world with Tilt Brush. They're all on canvas. I love listening to Colin talk about all the ways he experiments with getting his work into a physical medium. That has been one of the big efforts of my working with this technology because in the beginning, there were works just on screens. And you can see I've incorporated a real-time image. But now we're working with digital imagery as well. So I think that's one of the things that maybe is part of what we can do. We can go in and out of the computer.
 
@@ -472,7 +464,7 @@ Thank you.
 
 Tommy Mintz. Tommy Mintz I think is the next one I see in the chat after Dorsey. This is very nice.
 
-## Unattributed [01:18:13](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4693s)
+## Tommy Mintz [01:18:13](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4693s)
 
 I think you can hear me now. Am I unmuted? Hi, everybody. I have a print behind me that I'd like to share. It's an image that I generated with an algorithm that analyzes a sequence of images and determines areas that have changed. Something that's different. Creates what I consider a time lapse collage. This is printed dye sublimation on aluminum. It's a particularly exciting way to sort of, you know, bring into material form these digital creations. And if I still have time, I'd like to just share with you some recent work that I've been making using.
 
@@ -486,7 +478,7 @@ Which I think is a very digital expression, if you will. So thank you for your a
 
 Thank you so much. That's so fascinating. Really that's a clear example of technology kind of idea. And I think that's a high end understanding of technology. It seemed complicated to me. And coming together with also your artistic vision. It's like the intuitive brain and the analytical brain.
 
-## Unattributed [01:20:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4840s)
+## Tommy Mintz [01:20:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4840s)
 
 I like that. Thank you.
 
@@ -494,9 +486,21 @@ I like that. Thank you.
 
 I mean unbelievable. Really. Very good.
 
-## Unattributed [01:20:45](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4845s)
+## Tommy Mintz [01:20:45](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4845s)
 
-There's a lot of great work here today. Really. A lot of great work. I feel flattered to be in this crowd.
+There's a lot of great work here today. Really.
+
+## Unattributed [01:20:47](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4847s)
+
+A lot of great work.
+
+## Tommy Mintz [01:20:48](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4848s)
+
+I feel flattered to be in
+
+## Unattributed [01:20:50](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4850s)
+
+This crowd.
 
 ## Joyce Raimondo [01:20:51](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4851s)
 
@@ -510,7 +514,7 @@ Is about an emotional state. So I just wanted to put that out there, you know, b
 
 And probably almost nobody in this room knows. So, you know, I think that's, I think that's a really important thing. I'm not a bit of a kind of a man. I know a lot of that. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work.
 
-## Unattributed [01:22:46](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4966s)
+## Tommy Mintz [01:22:46](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4966s)
 
 I know a lot of the work. Algorithm and its interpretation in mind. So I go out with the digital in my mind as I'm as I'm at their footer.
 
@@ -528,15 +532,7 @@ So certainly Pollock's work wasn't about dripping paint. You know, it was about 
 
 ## Joyce Raimondo [01:24:51](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5091s)
 
-He wasn't intoxicated just for the point of he didn't drink and paint at the same time. But anyway,
-
-## Unattributed [01:24:58](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5098s)
-
-But
-
-## Joyce Raimondo [01:24:59](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5099s)
-
-It does also like it spoke to the whole time he was living in all the troubles with World War Two and World War Two and so on. I'll tell you what, we have one more minute and this conversation is so good. But I do have to stop at five. So why don't we just take one really quick share, OK, and then
+He wasn't intoxicated just for the point of he didn't drink and paint at the same time. But anyway, but it does also like it spoke to the whole time he was living in all the troubles with World War Two and World War Two and so on. I'll tell you what, we have one more minute and this conversation is so good. But I do have to stop at five. So why don't we just take one really quick share, OK, and then
 
 ## Colin Goldberg [01:25:21](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5121s)
 
@@ -550,7 +546,7 @@ So where is Renata Renata,
 
 Are you in here?
 
-## Unattributed [01:25:34](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5134s)
+## Verneda Lights [01:25:34](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5134s)
 
 Yes, I'm here.
 
@@ -558,15 +554,19 @@ Yes, I'm here.
 
 Go ahead.
 
-## Unattributed [01:25:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5140s)
+## Verneda Lights [01:25:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5140s)
 
-I have. OK, hold on a second, please. Second, please.
+I have. OK, hold on a second, please.
+
+## Unattributed [01:25:49](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5149s)
+
+Second, please.
 
 ## Joyce Raimondo [01:25:58](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5158s)
 
 I'm getting feedback.
 
-## Unattributed [01:26:02](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5162s)
+## Verneda Lights [01:26:02](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5162s)
 
 I know I'm trying to stop it.
 
@@ -574,7 +574,7 @@ I know I'm trying to stop it.
 
 I'm trying to stop it. OK,
 
-## Unattributed [01:26:16](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5176s)
+## Verneda Lights [01:26:16](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5176s)
 
 I think I have that.
 
@@ -582,9 +582,13 @@ I think I have that.
 
 I'm sorry.
 
-## Unattributed [01:26:21](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5181s)
+## Verneda Lights [01:26:21](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5181s)
 
-Go ahead. Go ahead. We're going to have to go to someone else.
+Go ahead. Go ahead.
+
+## Unattributed [01:26:23](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5183s)
+
+We're going to have to go to someone else.
 
 ## Joyce Raimondo [01:26:25](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5185s)
 
@@ -616,9 +620,13 @@ I can't think of a place to
 
 Be. I can't think of a place to be.
 
-## Unattributed [01:30:24](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5424s)
+## Verneda Lights [01:30:24](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5424s)
 
-I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. You you you you you you
+I can't think of a place to be.
+
+## Unattributed [01:30:25](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5425s)
+
+I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. You you you you you you
 
 ## Unattributed [01:33:43](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5623s)
 

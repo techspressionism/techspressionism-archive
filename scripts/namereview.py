@@ -39,6 +39,7 @@ ROOT = HERE.parent
 sys.path.insert(0, str(HERE))
 from lib_media import label, slug  # noqa: E402
 from lib_speakers import canonical_name  # noqa: E402
+from lib_voicehints import distinctive_handle  # noqa: E402
 
 DIARIZE_DIR = ROOT / "raw" / "diarize"
 DECISIONS_DIR = ROOT / "data" / "voice-names"
@@ -100,7 +101,7 @@ def _people_names():
     if not _PEOPLE_RX:
         for p in json.loads((ROOT / "data" / "people.json").read_text())["people"]:
             forms = {re.sub(r"\s*\([^)]*\)", "", n).split(" aka ")[0].strip() for n in [p["name"]] + p.get("aliases", [])}
-            forms = [f for f in forms if len(f.split()) >= 2 and len(f) >= 6 and "/" not in f and "&" not in f]
+            forms = [f for f in forms if (len(f.split()) >= 2 and len(f) >= 6 and "/" not in f and "&" not in f) or distinctive_handle(f)]
             if forms:
                 _PEOPLE_RX[p["name"]] = re.compile(r"(?<!\w)(?:" + "|".join(re.escape(f) for f in sorted(forms, key=len, reverse=True)) + r")(?!\w)", re.I)
     return _PEOPLE_RX
@@ -130,7 +131,7 @@ def all_index_names():
     if not _ALL_NAMES:
         names = {p["name"] for p in json.loads((ROOT / "data" / "people.json").read_text())["people"]}
         names |= {a["name"] for a in json.loads((ROOT / "data" / "artists.json").read_text()) if a.get("name")}
-        _ALL_NAMES.extend(sorted((n for n in names if len(n.split()) >= 2 and len(n) < 60), key=lambda n: n.lower()))
+        _ALL_NAMES.extend(sorted((n for n in names if 2 <= len(n) < 60 and re.search(r"[A-Za-z]{2}", n)), key=lambda n: n.lower()))      # handles too (ScoJo)
     return _ALL_NAMES
 
 

@@ -1,0 +1,21 @@
+{
+  "applied": "2026-09-20 20:33",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:32",
+      "fingerprint": "9623d3a7ac",
+      "name": "Christiane Paul"
+    },
+    "V3": {
+      "at": "2026-09-20 20:32",
+      "fingerprint": "ae44dbfc8c",
+      "name": "Helen A. Harrison"
+    },
+    "V4": {
+      "at": "2026-09-20 20:32",
+      "fingerprint": "c4a108f5b3",
+      "name": "Colin Goldberg"
+    }
+  }
+}

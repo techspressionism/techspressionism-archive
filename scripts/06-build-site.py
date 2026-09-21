@@ -34,6 +34,7 @@ import lib_speakers
 from lib_speakers import is_not_speaker
 from lib_media import TYPES, label, slug  # noqa: E402
 import lib_seo  # noqa: E402
+import lib_voicehints  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS_JSON = ROOT / "corpus" / "corpus.json"
@@ -1416,7 +1417,9 @@ def load_people(corpus):
     names = {}
     for p in PEOPLE:
         for n in [p["name"]] + p.get("aliases", []):
-            if len(n.split()) >= 2 and len(n) >= 6 and "/" not in n:
+            if person_key(n) in NO_ARTIST_PAGE:
+                continue
+            if (len(n.split()) >= 2 and len(n) >= 6 and "/" not in n) or lib_voicehints.distinctive_handle(n):     # a full name, or a distinctive handle such as ScoJo
                 names.setdefault(n.lower(), p)
     if names:
         rx = re.compile(r"(?<![\w])(" + "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)) + r")(?![\w])", re.I)

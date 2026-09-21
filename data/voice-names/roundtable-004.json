@@ -1,0 +1,21 @@
+{
+  "applied": "2026-09-20 20:35",
+  "approved_auto": false,
+  "voices": {
+    "V1": {
+      "at": "2026-09-20 20:35",
+      "fingerprint": "ab3fbeae92",
+      "name": "Moritz Albrecht"
+    },
+    "V2": {
+      "at": "2026-09-20 20:35",
+      "fingerprint": "f3b9497c4a",
+      "name": "Steve Miller"
+    },
+    "V3": {
+      "at": "2026-09-20 20:35",
+      "fingerprint": "96deeb64d7",
+      "name": "Michael Pierre Price"
+    }
+  }
+}

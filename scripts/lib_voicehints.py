@@ -65,3 +65,21 @@ def directory_name(name):
                 if len(n2.split()) >= 2 and "/" not in n2:
                     _DIRECTORY.setdefault(_key(n2), p["name"])
     return _DIRECTORY.get(_key(name))
+
+
+_WORDS = set()
+
+
+def distinctive_handle(name):
+    """True for a one-word artist name (a handle such as ScoJo) that can be looked for in text: letters only, five or more of them, and
+    not an ordinary English word (checked against the system dictionary), so 'Scojo' matches and 'meta' or 'regie' do not."""
+    import re
+    n = (name or "").strip()
+    if not re.fullmatch(r"[A-Za-z]{5,}", n):
+        return False
+    if not _WORDS:
+        try:
+            _WORDS.update(w.strip().lower() for w in open("/usr/share/dict/words", encoding="utf8", errors="ignore"))
+        except OSError:
+            _WORDS.add("")
+    return n.lower() not in _WORDS

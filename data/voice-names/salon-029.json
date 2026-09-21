@@ -1,0 +1,150 @@
+{
+  "approved_auto": false,
+  "voices": {
+    "V10": {
+      "at": "2026-09-20 20:43",
+      "fingerprint": "44e21e25c9",
+      "name": "Sean Mick"
+    },
+    "V11": {
+      "at": "2026-09-20 20:44",
+      "fingerprint": "908edcb8f9",
+      "name": "Cheryl Audet-Lavoie"
+    },
+    "V12": {
+      "at": "2026-09-20 20:44",
+      "fingerprint": "4be25feb6a",
+      "name": "Steve Miller"
+    },
+    "V13": {
+      "at": "2026-09-20 20:45",
+      "fingerprint": "d7047749d7",
+      "name": "Jan Swinburne"
+    },
+    "V14": {
+      "at": "2026-09-20 20:46",
+      "fingerprint": "5d7feb38fd",
+      "name": "Cynthia DiDonato"
+    },
+    "V15": {
+      "at": "2026-09-20 20:50",
+      "fingerprint": "a617c90658",
+      "name": "Verneda Lights"
+    },
+    "V16": {
+      "at": "2026-09-20 20:50",
+      "fingerprint": "3e1cce4db6",
+      "name": "Michael Pierre Price"
+    },
+    "V17": {
+      "at": "2026-09-20 20:51",
+      "fingerprint": "ae2e11705a",
+      "name": "Holly Gordon"
+    },
+    "V18": {
+      "at": "2026-09-20 20:51",
+      "fingerprint": "65eebff71c",
+      "name": "Nina Yankowitz"
+    },
+    "V19": {
+      "at": "2026-09-20 20:52",
+      "fingerprint": "01da987576",
+      "name": "Sarah Song"
+    },
+    "V2": {
+      "at": "2026-09-20 20:49",
+      "fingerprint": "3f4ae9d9fa",
+      "name": "Davonte Bradley"
+    },
+    "V20": {
+      "at": "2026-09-20 20:52",
+      "fingerprint": "13669d1394",
+      "name": "Uli Ap"
+    },
+    "V21": {
+      "at": "2026-09-20 20:52",
+      "fingerprint": "9d77f9ac36",
+      "name": "Renata Janiszewska"
+    },
+    "V22": {
+      "at": "2026-09-20 20:52",
+      "fingerprint": "729fe46040",
+      "name": "Clive Holden"
+    },
+    "V23": {
+      "at": "2026-09-20 20:53",
+      "fingerprint": "3c53bacf8a",
+      "name": "ScoJo"
+    },
+    "V24": {
+      "at": "2026-09-20 20:54",
+      "fingerprint": "105734f1fe",
+      "name": "Alan Kinnard"
+    },
+    "V25": {
+      "at": "2026-09-20 20:54",
+      "fingerprint": "1dc4c4cc0d",
+      "name": "Karen LaFleur"
+    },
+    "V26": {
+      "at": "2026-09-20 20:54",
+      "fingerprint": "4635ab6c8c",
+      "name": "Tommy Mintz"
+    },
+    "V27": {
+      "at": "2026-09-20 20:55",
+      "fingerprint": "addbce413e",
+      "name": "Caro Ramonde"
+    },
+    "V28": {
+      "at": "2026-09-20 20:55",
+      "fingerprint": "4368e3d04d",
+      "name": "Lucie Králíková"
+    },
+    "V29": {
+      "at": "2026-09-20 20:55",
+      "fingerprint": "ba6c6042b7",
+      "name": "Negin Ehtesabian"
+    },
+    "V3": {
+      "at": "2026-09-20 20:42",
+      "fingerprint": "0adacdd71b",
+      "name": "Patrick Lichty"
+    },
+    "V30": {
+      "at": "2026-09-20 20:55",
+      "fingerprint": "99ecb6319e",
+      "name": "Diana de Avila"
+    },
+    "V4": {
+      "at": "2026-09-20 20:42",
+      "fingerprint": "55d28de529",
+      "name": "Cynthia Beth Rubin"
+    },
+    "V5": {
+      "at": "2026-09-20 20:42",
+      "fingerprint": "5ddb4ef318",
+      "name": "Lee Schnaiberg"
+    },
+    "V6": {
+      "at": "2026-09-20 20:42",
+      "fingerprint": "824b90412c",
+      "name": "Lee Musgrave"
+    },
+    "V7": {
+      "at": "2026-09-20 20:43",
+      "fingerprint": "ca8b6a78d5",
+      "name": "Roz Dimon"
+    },
+    "V8": {
+      "at": "2026-09-20 20:43",
+      "fingerprint": "800c316c3a",
+      "name": "Victor Acevedo"
+    },
+    "V9": {
+      "at": "2026-09-20 20:43",
+      "fingerprint": "23a611da45",
+      "name": "Chalda Maloff"
+    }
+  }
+}

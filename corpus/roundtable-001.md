@@ -29,17 +29,9 @@ Christiane Paul is professor of the Center for the Arts at the University of New
 
 Context Providers, Conditions of Meaning in Digital Art. She has a master's in Media Arts, published by Intellect in 2011 with a Chinese edition in 2012, and New Media in the White Cube and Beyond, published by UC Press in 2008. At the Whitney Museum, she curated exhibitions including Programmed, Rules, Codes and Choreographies in Art, 1965 to 2018, Chorearch Angel, Pro Tools in 2011, and Profiling in 2007. Ms.
 
-Paul is responsible for Artport, the museum's portal to Internet art. It's an honor and pleasure to have you both here today for this conversation.
+Paul is responsible for Artport, the museum's portal to Internet art. It's an honor and pleasure to have you both here today for this conversation. Thanks so much for having me. Oh, you're welcome. And welcome. Welcome to you both. To provide a bit of background on myself, my practice explores the relationship between technology and personal expression, bridging multiple disciplines, notably painting and digital media. I'm honored to have been a recipient of grants from the Pollock-Krasner Foundation, the University of New York, and the University of New York. I'm also a member of the Pollock Foundation and New York State Council on the Arts, and currently I live and work in the Green Mountains of Southern Vermont with my wife Donna and our daughter Aya. I first used the term Techspressionism in 2011 as the title for a solo exhibition in Southampton, New York.
 
-## Unattributed [02:02](https://www.youtube.com/watch?v=-8Glurhxyms&t=122s)
-
-Thanks so much for having me. Oh, you're welcome.
-
-## Colin Goldberg [02:04](https://www.youtube.com/watch?v=-8Glurhxyms&t=124s)
-
-And welcome. Welcome to you both. To provide a bit of background on myself, my practice explores the relationship between technology and personal expression, bridging multiple disciplines, notably painting and digital media. I'm honored to have been a recipient of grants from the Pollock-Krasner Foundation, the University of New York, and the University of New York. I'm also a member of the Pollock Foundation and New York State Council on the Arts, and currently I live and work in the Green Mountains of Southern Vermont with my wife Donna and our daughter Aya. I first used the term Techspressionism in 2011 as the title for a solo exhibition in Southampton, New York. Techspressionism, which is the topic of our discussion today, is defined in Wiktionary as an artistic approach in which technology is utilized as a means to express emotional experience.
-
-Some of the philosophical framework around Techspressionism is the idea that the individual is the subject of the exhibition. The text is outlined in the Techspressionist Manifesto, which I first published on Medium in 2014. This text was inspired by artistic manifestos of the past, including Marinetti's Futurist Manifesto and Breton's Surrealist Manifesto.
+Techspressionism, which is the topic of our discussion today, is defined in Wiktionary as an artistic approach in which technology is utilized as a means to express emotional experience. Some of the philosophical framework around Techspressionism is the idea that the individual is the subject of the exhibition. The text is outlined in the Techspressionist Manifesto, which I first published on Medium in 2014. This text was inspired by artistic manifestos of the past, including Marinetti's Futurist Manifesto and Breton's Surrealist Manifesto.
 
 Techspressionism was first described as a movement in the Wired article if Picasso had a MacBook Pro in 2014 and received its first television coverage in a 2015 episode of the PBS show Art Loft. The use of Techspressionism as a hashtag on social media has long been a trend. The term has allowed technology-based artists to self-identify with the term. Since the summer of 2020, there have been over 49,000 posts published on Instagram using the hashtag Techspressionism.
 
@@ -65,7 +57,7 @@ Here we go. Here we go. Here we go. Here we go.
 
 Open up the conversation now and I'm going to start with a question for Helen, who is the exhibition's Senior Advisor. What was it that originally interested you about the idea of Techspressionism?
 
-## Unattributed [08:36](https://www.youtube.com/watch?v=-8Glurhxyms&t=516s)
+## Helen A. Harrison [08:36](https://www.youtube.com/watch?v=-8Glurhxyms&t=516s)
 
 Of course I've known you for a long time Colin and watched your development and I think when you first approached me back in 2011- oh my gosh that's eleven years ago now- and asked me if I would contribute to the exhibition you were doing in Southampton, I thought about the history, being a historian, of course, I looked back and thought about how artists had adapted technological change for their own personal purposes, rather than being sucked in by the technology itself as a means, as an end in and of itself. That it became a means to an end that was already a subjective approach, a subjective desire on the artist's part to express himself or herself, and then find the appropriate technology or the appropriate means by which to do that. And of course you can think specifically of Jackson Pollock, who learned how to use liquid material in very expressive and inventive ways.
 
@@ -79,7 +71,7 @@ Thank you. I appreciate that response. And so now I'm going to... Have a questio
 
 Historical movements of the past, as well as digital art at large.
 
-## Unattributed [12:17](https://www.youtube.com/watch?v=-8Glurhxyms&t=737s)
+## Christiane Paul [12:17](https://www.youtube.com/watch?v=-8Glurhxyms&t=737s)
 
 Thanks so much for the great question, Colin. And also big thanks to you and Helen for your statements and making this conversation possible. I am going to share a few slides. And I really want to get to the term of Techspressionism in relationship to art, historical, and web. And I'm going to start with you, Christiane.
 
@@ -91,31 +83,23 @@ And I want to keep that in mind. And then coming back to your manifesto, Colin, 
 
 I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
 
-I don't know. I don't know. I don't know. I don't know. I don't So in its narrow definition, digital art is art that is created, stored and presented by means of digital technology. So created by means of the technologies, then stored on drives, presented on screens, etc. Not quite overlapping with what we've seen in the Expressionism show.
+I don't know. I don't know. I don't know. I don't know. I don't So in its narrow definition, digital art is art that is created, stored and presented by means of digital technology. So created by means of the technologies, then stored on drives, presented on screens, etc. Not quite overlapping with what we've seen in the Expressionism show. And art that is created by means of digital technologies and uses characteristics of the medium. Once again, that applies to the narrower definition. It would be computable, interactive, real time, generative. And a few of the works in the Expressionism show are, but not all of them.
 
-## Unattributed [15:30](https://www.youtube.com/watch?v=-8Glurhxyms&t=930s)
-
-And art that is created by means of digital technologies and uses characteristics of the medium. Once again, that applies to the narrower definition. It would be computable, interactive, real time, generative. And a few of the works in the Expressionism show are, but not all of them. And it could also... It could also be seen in a broader definition as art that is created by means of digital technologies and presented as an object that reflects on the digital medium. This is a more recent material term that we have seen often described as the post-digital.
-
-Younger artists in particular have been using digital technologies to create, let's say, sculptures or paintings that never could be created in any other way. But they present themselves as an object we may be used to in terms of art historical references. But that work also reflects on the digital medium. And that to me is a crucial distinction and cutoff line that I think conflicts a little bit with Expressionism.
+And it could also... It could also be seen in a broader definition as art that is created by means of digital technologies and presented as an object that reflects on the digital medium. This is a more recent material term that we have seen often described as the post-digital. Younger artists in particular have been using digital technologies to create, let's say, sculptures or paintings that never could be created in any other way. But they present themselves as an object we may be used to in terms of art historical references. But that work also reflects on the digital medium. And that to me is a crucial distinction and cutoff line that I think conflicts a little bit with Expressionism.
 
 So I think the main distinction we need to make in digital art is art using digital technologies. And that's why I think we need to make art using digital technologies as a tool for the creation of an art object. And I would argue that most of the work you're seeing in galleries today uses technologies as a tool. Be it a digital printer, be it CNC milling or CAD models for a sculpture. Frank Stella has been using digital technologies for a long, long time.
 
 But that work does not necessarily reflect conceptually on the medium and engages with it. And to me, that is a necessity for digital art, which also means that what we're seeing in Expressionism transcends digital art. By definition, I think it would also cover part of the work that uses the technologies as a tool. I'm using a few screenshots from the virtual tour of the Expressionism show here. And one thing I also would like to highlight is that we're seeing so different kinds of art. So we have different media. So in the center here, we have Michael Rhee's augmented reality work relating to sculptural work. And then we have many, many different forms of print, screen-based work, etc. Here. And I think that work does not always necessarily make a statement about the digital medium. It goes beyond it.
 
-So one of my questions now is, as a curator, would be where do we draw the lines here?
+So one of my questions now is, as a curator, would be where do we draw the lines here? Because medium specificity is so important to me as a curator in making crucial distinctions between works. I am all for building art historical connections. And I think it is very important to see abstract digital work in the context of Expressionism.
 
-## Unattributed [18:35](https://www.youtube.com/watch?v=-8Glurhxyms&t=1115s)
+I tried to build some of those connections. In the exhibition you mentioned, Program Rules, Codes and Choreographies in Art from which was mounted at the Whitney Museum in 2018-2019. And the show which I co-curated with Karen Mancusi Ongaro and Clemence White was basically looking at two art historical trajectories.
 
-Because medium specificity is so important to me as a curator in making crucial distinctions between works. I am all for building art historical connections. And I think it is very important to see abstract digital work in the context of Expressionism. I tried to build some of those connections. In the exhibition you mentioned, Program Rules, Codes and Choreographies in Art from which was mounted at the Whitney Museum in 2018-2019.
-
-And the show which I co-curated with Karen Mancusi Ongaro and Clemence White was basically looking at two art historical trajectories. One of them conceptual art. And you see here one of Solowitz's stories. And you see the structures in the foreground. Donald Judd in the background. And towards the back you see work by, let me go back, Casey Rios. I will talk about it in a second. And then the other part of the exhibition focused more on the algorithmic or programmed rearrangement of moving image sequences. And messing with signals and resolution. And I just wondered, what is the difference between the two? And I just want for a second to stay with Casey Rios.
+One of them conceptual art. And you see here one of Solowitz's stories. And you see the structures in the foreground. Donald Judd in the background. And towards the back you see work by, let me go back, Casey Rios. I will talk about it in a second. And then the other part of the exhibition focused more on the algorithmic or programmed rearrangement of moving image sequences. And messing with signals and resolution. And I just wondered, what is the difference between the two? And I just want for a second to stay with Casey Rios.
 
 Which is, yeah, kind of interesting to consider within the concept of Expressionism. Casey is one of the artists who from the start has drawn a lot of attention to the coded back end of digital art. And built connections to conceptual art. So we have here on the right Solowitz's wall drawing. And on the left work by Casey. Which was originally, I don't know, a work by the artist. And then on the right, I think, shown on the web. A commission for the art board website.
 
 So two software structures here that start with written instructions. And of course, they are abstractions. They are highly conceptual work. But I think they would also be, by your definitions, a form of Techspressionism. Because there is a lot of emotional content. Expressionism. Expressionism is expressed here. So I just want to problematize the term a little bit. And see where the boundaries of it lie. And finally, I also want to talk a little bit about art board and the work I'm doing there. Once again, I would say that by your definitions, so many of the works would qualify as Techspressionism. And the artists may not necessarily align themselves with the term. So as part of Artport, which features a lot of commissions, we also do the Sunrise Sunset series. And that is work that every morning and every evening at sunrise sunset time in New York disrupts the Whitney.Org website for 30 seconds.
-
-## Unattributed [21:46](https://www.youtube.com/watch?v=-8Glurhxyms&t=1306s)
 
 And I'll just show you one example by La Turbo Avedon, which was this overlaid mirror onto the website. And what you see in the mirror is a fly-through of an apartment that La Turbo constructed. So there are seven different morning and seven different evening mirrors or fly-throughs. And the work was also highly emotional in that it captured our experience during the pandemic, questioning the thresholds here between the online and the online. So there are three different ways that we can see the world you're looking into the online and offline world. So you're not quite sure what you're seeing through this mirror. Are you looking into someone's apartment? Or could it be seen as a reflection of your own space?
 
@@ -125,35 +109,63 @@ So I'll stop sharing here and return to the discussion.
 
 I think we're going to wrap up the slides and the discussion so far. So that pretty much leads into my next question, which is a solicitation of questions. So I wanted to open this up to the two of you. Would either one of you have any specific questions for each other or for myself on the topic of Techspressionism to expand our dialogue? And then I figure we can just sort of let the conversation develop organically from there.
 
-## Unattributed [23:17](https://www.youtube.com/watch?v=-8Glurhxyms&t=1397s)
+## Helen A. Harrison [23:17](https://www.youtube.com/watch?v=-8Glurhxyms&t=1397s)
 
 Well, I think Christiane really hit on a crucial point. Which is where are the boundaries? Should there be boundaries? Is there some way of determining how much subjectivity is injected into the ultimate image or the ultimate work of art? Whether or not the technology is contributing to that. I mean, you could think of certain, well, like for example, in your exhibition, Colin, you had printmakers.
 
 Printmaking is a technology. It's not a digital technology, but it could be. But the kind of technology that was, I guess, primarily the foregrounded in the show was digital technology and some of it animated as well. In fact, in your fly-through, you showed Nina Jankowicz's two-panel animation. And you could only do that digitally. There's no other way. But could she have achieved the same kind of image result using a digital technology? And that's a different technology. That's also another question. Is this technologically specific? Or can it be translated into other media?
 
+## Christiane Paul [24:33](https://www.youtube.com/watch?v=-8Glurhxyms&t=1473s)
+
 Yeah, I think you raise a lot of great questions, Helen. And that was precisely what I was trying to get to. So first of all, just reiterating your important point, of course, all art is technological ultimately. Paint is a technology. Photography, of course, printing. So artists have used technologies for centuries.
 
 But then those technologies also have very different qualities, obviously. One thing I like about expressionism is that as a term, it could also transcend boundaries. And in terms of the question of whether we need to clearly delineate things, I'm all for openness. And I think expressionism already fulfills an important function. If there are artists aligning themselves with that term and finding a platform to discuss issues relevant to their work, that's always, I think, a function that makes a term valuable. In terms of digital art curation, I also need to make a set of other distinctions.
 
-I mean, paint, of course, is a medium. Painting is a medium that has so many different genres. But I think digital technology has really increased the range of forms. If you think about virtual reality, augmented reality, software art, massive installations, networked or not. So those are all very, very
+I mean, paint, of course, is a medium. Painting is a medium that has so many different genres. But I think digital technology has really increased the range of forms. If you think about virtual reality, augmented reality, software art, massive installations, networked or not. So those are all very, very important. But then there are also very different manifestations.
 
-## Unattributed [26:18](https://www.youtube.com/watch?v=-8Glurhxyms&t=1578s)
+So I think there's more variety within the digital. And in order to discuss aesthetics art historically, I think I need to introduce more distinctions into that umbrella of expressionism.
 
-Important. But then there are also very different manifestations. So I think there's more variety within the digital. And in order to discuss aesthetics art historically, I think I need to introduce more distinctions into that umbrella of expressionism. Well, what kind of distinctions did you do you foresee? Well, first of all, coming back to what I said. One of the main distinctions for me is that between the tool and the medium.
+## Helen A. Harrison [26:35](https://www.youtube.com/watch?v=-8Glurhxyms&t=1595s)
 
-And I don't want to belabor any form and content distinctions. To me, those, of course, always collapse. You use a specific form or medium to express conceptual issues, and the two of them ultimately cannot be separated. An artist has a reason why they make their work as a sculpture and not as a photograph, because the sculpture best expresses what they want to express. That being said, there are artists who use digital technologies as a tool in the creation of a work that maybe speaks to abstraction.
+Well, what kind of distinctions did you do you foresee?
 
-It speaks to maybe expressionism. In some ways. But it is not a statement and not conceptually engaging with the aesthetics of the digital per se. To me, that's a major distinction. So you could have a photograph that is deeply digital in that it gets to issues of the digital and plays with representational spectrum within that. And others where clearly the technology is predominantly a tool. Isn't that the distinction that sometimes the technology can overwhelm the content? The technology becomes, you know, it kind of sucks all the oxygen out of the image. Oh, absolutely not. So this is precisely what I do not mean. That would be accusing Pollock of sucking the oxygen out of pictures. You know, that's not the point. It's not the point. It's not the point.
+## Christiane Paul [26:39](https://www.youtube.com/watch?v=-8Glurhxyms&t=1599s)
 
-It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. Example of that. And I would not say that he's overwhelming us. No, he's getting to important issues within what he's doing. So I wouldn't want to collapse the distinction I'm making into technological overwhelming.
+Well, first of all, coming back to what I said. One of the main distinctions for me is that between the tool and the medium. And I don't want to belabor any form and content distinctions. To me, those, of course, always collapse. You use a specific form or medium to express conceptual issues, and the two of them ultimately cannot be separated. An artist has a reason why they make their work as a sculpture and not as a photograph, because the sculpture best expresses what they want to express. That being said, there are artists who use digital technologies as a tool in the creation of a work that maybe speaks to abstraction.
 
-## Unattributed [29:24](https://www.youtube.com/watch?v=-8Glurhxyms&t=1764s)
+It speaks to maybe expressionism. In some ways. But it is not a statement and not conceptually engaging with the aesthetics of the digital per se. To me, that's a major distinction. So you could have a photograph that is deeply digital in that it gets to issues of the digital and plays with representational spectrum within that. And others where clearly the technology is predominantly a tool.
 
-I'm talking really about engaging with conceptual issues related to the medium versus using it as a tool. I mean, a lot of sculptures that are created on the basis of CAD models or maybe even through CNC milling, they do not speak about the digital per se. And they do not want to be seen that way. Like a balance, that there has to be a balance between the technology and what it's expressing. No, I'm simply trying to make a distinction in order to define digital art.
+## Helen A. Harrison [28:17](https://www.youtube.com/watch?v=-8Glurhxyms&t=1697s)
 
-So a photograph in a gallery that has been digitally printed to me is not digital art. The same as a scan of the Mona Lisa on the web is not digital art. Here we're dealing with a remediation or with a tool and that functionality. Well, it's also a reproduction. That's a reproduction of something else rather than original. Yeah. So the Mona Lisa was another example because that gets to remediation.
+Isn't that the distinction that sometimes the technology can overwhelm the content? The technology becomes, you know, it kind of sucks all the oxygen out of the image.
 
-But using the technologies just as a tool, and I don't mean that in a way that's too much. I don't mean that in any discrediting way. But using it as a tool to create a more traditional art object that speaks more to painting, photography or sculpture than it does to the digital, that to me is a dividing line for digital art. I would not include a work in a digital art show just because it used some digital process in its making. And I'm arguing here purely art historically and aesthetically.
+## Christiane Paul [28:30](https://www.youtube.com/watch?v=-8Glurhxyms&t=1710s)
+
+Oh, absolutely not. So this is precisely what I do not mean. That would be accusing Pollock of sucking the oxygen out of pictures. You know, that's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point. It's not the point.
+
+It's not the point. It's not the point. Example of that. And I would not say that he's overwhelming us. No, he's getting to important issues within what he's doing. So I wouldn't want to collapse the distinction I'm making into technological overwhelming. I'm talking really about engaging with conceptual issues related to the medium versus using it as a tool.
+
+I mean, a lot of sculptures that are created on the basis of CAD models or maybe even through CNC milling, they do not speak about the digital per se.
+
+## Unattributed [29:54](https://www.youtube.com/watch?v=-8Glurhxyms&t=1794s)
+
+And they do not want to be seen that way.
+
+## Helen A. Harrison [29:57](https://www.youtube.com/watch?v=-8Glurhxyms&t=1797s)
+
+Like a balance, that there has to be a balance between the technology and what it's expressing.
+
+## Christiane Paul [30:03](https://www.youtube.com/watch?v=-8Glurhxyms&t=1803s)
+
+No, I'm simply trying to make a distinction in order to define digital art. So a photograph in a gallery that has been digitally printed to me is not digital art. The same as a scan of the Mona Lisa on the web is not digital art. Here we're dealing with a remediation or with a tool and that functionality.
+
+## Helen A. Harrison [30:35](https://www.youtube.com/watch?v=-8Glurhxyms&t=1835s)
+
+Well, it's also a reproduction. That's a reproduction of something else rather than original. Yeah.
+
+## Christiane Paul [30:41](https://www.youtube.com/watch?v=-8Glurhxyms&t=1841s)
+
+So the Mona Lisa was another example because that gets to remediation. But using the technologies just as a tool, and I don't mean that in a way that's too much. I don't mean that in any discrediting way. But using it as a tool to create a more traditional art object that speaks more to painting, photography or sculpture than it does to the digital, that to me is a dividing line for digital art. I would not include a work in a digital art show just because it used some digital process in its making. And I'm arguing here purely art historically and aesthetically.
 
 I think there's a different set of aesthetic vocabulary that I would apply to one versus the other.
 
@@ -169,17 +181,19 @@ And, you know, the definition of Techspressionism as far as work that has an emo
 
 And I think that's that's that's the heredity in that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's that it's to be done in terms of the fact that artists were self-identifying, you know, with the term. And, and that, you know, gave me sort of the, you know, the fuel to, to keep it going.
 
-## Unattributed [35:07](https://www.youtube.com/watch?v=-8Glurhxyms&t=2107s)
+## Helen A. Harrison [35:07](https://www.youtube.com/watch?v=-8Glurhxyms&t=2107s)
 
 I remember when Anne was speaking at one of our salons, she was talking about how taking her work to a gallery and offering it for exhibition and everyone was very thrilled with it and really loved it. But when they found out that it was digital, that it was, you know, done in a reproductive medium, so to speak, they, they weren't interested because printmaking and things, reproductive technologies in general are devalued in the art world, or certainly have been for up until now. Although with the rise of NFTs, I don't know that it could be a whole game changer as far as attitudes go, but the fact that reproductive technology, which is not considered serious in the art world, is a real detriment because it doesn't take into account the, the actual, the actual image, the, you know, what, what the artist is trying to say.
 
-If you want to go back to Pollock's definition of that, that art has to make a statement, that the statement is really the primary thing and not how you got there, but what, what you achieved in the end. Yeah, I think this discrimination, against reproductive technologies is changing and has been radically changing at least for younger generations now over the past couple of decades. Of course, we're also still dealing with institutions where those categories are deeply inscribed, you know, but I think that is definitely eroding over time. And I think Colin, you also perfectly captured it. As I said, if people really find their term in text, expressionism and something that really deeply captures that practice, that's wonderful. And that also means that a term like that needs to exist. And to your prior description of your work, I think that was a beautiful example for the distinctions I'm trying to make, you know, and once again, they are distinctions that are more geared towards, you know, aesthetics and an understanding of the nature of the work.
+If you want to go back to Pollock's definition of that, that art has to make a statement, that the statement is really the primary thing and not how you got there, but what, what you achieved in the end.
 
-If you're using technologies in layering paint on fabric and ultimately, you know, it's more important to you that this work exists painterly on fabric with the help of all of those technologies, you know, that to me falls a bit more on the tool side. While the other paintings that you referenced in the back really speak much more about the nature of the work. In particular, you talked about how it's much more about the digital and its framework. And once again, that's not a classification in terms of value of work. It's really more about literacy and making distinctions because ultimately all of the boundaries would vanish.
+## Christiane Paul [36:19](https://www.youtube.com/watch?v=-8Glurhxyms&t=2179s)
 
-## Unattributed [38:15](https://www.youtube.com/watch?v=-8Glurhxyms&t=2295s)
+Yeah, I think this discrimination, against reproductive technologies is changing and has been radically changing at least for younger generations now over the past couple of decades. Of course, we're also still dealing with institutions where those categories are deeply inscribed, you know, but I think that is definitely eroding over time. And I think Colin, you also perfectly captured it. As I said, if people really find their term in text, expressionism and something that really deeply captures that practice, that's wonderful. And that also means that a term like that needs to exist. And to your prior description of your work, I think that was a beautiful example for the distinctions I'm trying to make, you know, and once again, they are distinctions that are more geared towards, you know, aesthetics and an understanding of the nature of the work.
 
-I'm by no means in the Greenbergian camp of, of being hard set on medium purity and medium specificity. But in order to have literacy in media, we also need to see the differences and the range of expression. And we have always had that for painting. And I don't think it should vanish with the digital.
+If you're using technologies in layering paint on fabric and ultimately, you know, it's more important to you that this work exists painterly on fabric with the help of all of those technologies, you know, that to me falls a bit more on the tool side. While the other paintings that you referenced in the back really speak much more about the nature of the work. In particular, you talked about how it's much more about the digital and its framework. And once again, that's not a classification in terms of value of work. It's really more about literacy and making distinctions because ultimately all of the boundaries would vanish. I'm by no means in the Greenbergian camp of, of being hard set on medium purity and medium specificity. But in order to have literacy in media, we also need to see the differences and the range of expression.
+
+And we have always had that for painting. And I don't think it should vanish with the digital.
 
 ## Colin Goldberg [38:40](https://www.youtube.com/watch?v=-8Glurhxyms&t=2320s)
 
@@ -189,39 +203,45 @@ And now I've sort of resurrected those pieces and started animating them into NF
 
 And, you know, to me, the term NFT describes a delivery mechanism, not even necessarily a medium per se. So, you know, I think that the timing of NFTs and their rise in popularity, you know, sort of aligned with the development of this project into a group. And I thought it was really interesting to watch that happening. You
 
-## Unattributed [40:53](https://www.youtube.com/watch?v=-8Glurhxyms&t=2453s)
+## Helen A. Harrison [40:53](https://www.youtube.com/watch?v=-8Glurhxyms&t=2453s)
 
-Know. Well, you say if it's simply a delivery mechanism, what's interesting to me about it is that it, you're really looking at two different parallel things happening. One is the development of technology for artistic expression, and the other is the marketplace. And if the marketplace accepts NFTs, you know, you're going to have to do a lot of work. So, you know, as a valid way of marketing and distributing digital art or any other kind of art for that matter. I mean, not all of it is created digitally, but the idea that you, that these things have value, have monetary value apart from expressive value, that kind of convergence is very interesting because that really has not been the case up till now. I want to build on that a little bit. I know we could say that we're going to have to do more and spend the last three, the next three hours, you know, talking about NFTs, and we definitely do not have the time.
+Know. Well, you say if it's simply a delivery mechanism, what's interesting to me about it is that it, you're really looking at two different parallel things happening. One is the development of technology for artistic expression, and the other is the marketplace. And if the marketplace accepts NFTs, you know, you're going to have to do a lot of work. So, you know, as a valid way of marketing and distributing digital art or any other kind of art for that matter. I mean, not all of it is created digitally, but the idea that you, that these things have value, have monetary value apart from expressive value, that kind of convergence is very interesting because that really has not been the case up till now.
 
-But once again, I just wanted to make some distinctions here. NFTs per se as non-fungible tokens are certificates of authenticity with smart contract and metadata and also a sales platform. Yeah. So to me, also interesting that to some extent in the lingo, the sales mechanism itself has been commodified. That being said, you know, there are distinctions to make between NFTs that consist ultimately of hanging JPEGs on the blockchain, which I'm not interested in.
+## Christiane Paul [41:42](https://www.youtube.com/watch?v=-8Glurhxyms&t=2502s)
+
+I want to build on that a little bit. I know we could say that we're going to have to do more and spend the last three, the next three hours, you know, talking about NFTs, and we definitely do not have the time. But once again, I just wanted to make some distinctions here. NFTs per se as non-fungible tokens are certificates of authenticity with smart contract and metadata and also a sales platform. Yeah. So to me, also interesting that to some extent in the lingo, the sales mechanism itself has been commodified. That being said, you know, there are distinctions to make between NFTs that consist ultimately of hanging JPEGs on the blockchain, which I'm not interested in.
 
 You know, so JPEGs, which once again could change, could just be images remediated of a physical artwork, for example. And to me personally, that is not interesting. I also find it frustrating that digital art gets conflated now very often with JPEGs or little animated clips. But there are also artists and there have been artists since 2014 who have been really using the blockchain as a medium. That to me is interesting about NFT art. And that is when NFTs and the blockchain becomes a medium. So within that spectrum of NFTs, we're once again looking at the pure certificate of authenticity and sales mechanism for a JPEG and then really work that uses the blockchain as a medium.
 
-So the kind of commercialization of digital art or things that are created technologically really expands not only the market, but also the audience. I mean, you could not, Colin, you could not have put together the exhibition that you did and presented it the way you did without the Internet and access to people all over the world who were able to send in their work because much of it was
+## Helen A. Harrison [43:39](https://www.youtube.com/watch?v=-8Glurhxyms&t=2619s)
 
-## Unattributed [44:07](https://www.youtube.com/watch?v=-8Glurhxyms&t=2647s)
+So the kind of commercialization of digital art or things that are created technologically really expands not only the market, but also the audience. I mean, you could not, Colin, you could not have put together the exhibition that you did and presented it the way you did without the Internet and access to people all over the world who were able to send in their work because much of it was digital. Much of it was physical. But you didn't necessarily get a physical object. You got a file and you were able to create the physical object from that file. So this is a whole new way of putting together exhibitions and of presenting the work and making it accessible to people, collecting it and disseminating it.
 
-Digital. Much of it was physical. But you didn't necessarily get a physical object. You got a file and you were able to create the physical object from that file. So this is a whole new way of putting together exhibitions and of presenting the work and making it accessible to people, collecting it and disseminating it. Yeah, I totally agree, Helen. Also, that has been going on, of course, when it comes to the Internet as a platform for distributing art since the 90s, of course, so net art came about in the early 90s. And we have seen representation of art and the widening of art audiences and web-based art for the past 30 years. Definitely digital art also has been collected for decades and decades. But the market now, has really changed through NFTs and that attention that has been brought to it.
+## Christiane Paul [44:30](https://www.youtube.com/watch?v=-8Glurhxyms&t=2670s)
 
-I also want to make very clear, looking at the statistics of it all, that there is only a relatively small overlap in the Venn diagram of NFT collectors and the collectors who become really invested into and interested in, digital art. That's only a certain segment and a relatively small segment of that whole group. But certainly, it's been a big advantage that digital art, whether misunderstood or not, has been all over the press.
+Yeah, I totally agree, Helen. Also, that has been going on, of course, when it comes to the Internet as a platform for distributing art since the 90s, of course, so net art came about in the early 90s. And we have seen representation of art and the widening of art audiences and web-based art for the past 30 years. Definitely digital art also has been collected for decades and decades. But the market now, has really changed through NFTs and that attention that has been brought to it. I also want to make very clear, looking at the statistics of it all, that there is only a relatively small overlap in the Venn diagram of NFT collectors and the collectors who become really invested into and interested in, digital art. That's only a certain segment and a relatively small segment of that whole group.
 
-Well, if it provides a platform for artists to get their message out, and even if it doesn't result necessarily in sales or in the kind of art world, quote unquote, success, that a traditional art expression would, I think that it just really opens up a whole new avenue for people to connect. And to, as Colin said, people say, I found my people. This is where I was kind of shooting in the dark. And now suddenly I'm with a whole group who agree with what I'm trying to do and who are sympathetic and supportive. Even if that support doesn't translate into money. Yeah, I absolutely agree. And not only money, but also understanding of the work, because once again, many of the NFT collectors are not necessarily interested in art or the aesthetics.
+But certainly, it's been a big advantage that digital art, whether misunderstood or not, has been all over the press.
 
-And you see a lot of flipping, which you do not see. And I think that's a really important thing when it comes to art collection per se.
+## Helen A. Harrison [45:55](https://www.youtube.com/watch?v=-8Glurhxyms&t=2755s)
 
-## Unattributed [47:08](https://www.youtube.com/watch?v=-8Glurhxyms&t=2828s)
+Well, if it provides a platform for artists to get their message out, and even if it doesn't result necessarily in sales or in the kind of art world, quote unquote, success, that a traditional art expression would, I think that it just really opens up a whole new avenue for people to connect. And to, as Colin said, people say, I found my people. This is where I was kind of shooting in the dark. And now suddenly I'm with a whole group who agree with what I'm trying to do and who are sympathetic and supportive. Even if that support doesn't translate into money.
 
-Like the serious art collectors, sure, at some point they might put their matisse on the market, but many of them are holding on to the work because they feel a deep connection to it. And that's actually been the same with NFT collectors who are deeply invested into the artist and connected to the work. They're not going to resell to make a 200% profit.
+## Christiane Paul [46:38](https://www.youtube.com/watch?v=-8Glurhxyms&t=2798s)
+
+Yeah, I absolutely agree. And not only money, but also understanding of the work, because once again, many of the NFT collectors are not necessarily interested in art or the aesthetics. And you see a lot of flipping, which you do not see. And I think that's a really important thing when it comes to art collection per se. Like the serious art collectors, sure, at some point they might put their matisse on the market, but many of them are holding on to the work because they feel a deep connection to it. And that's actually been the same with NFT collectors who are deeply invested into the artist and connected to the work. They're not going to resell to make a 200% profit.
 
 ## Colin Goldberg [47:40](https://www.youtube.com/watch?v=-8Glurhxyms&t=2860s)
 
 Absolutely. And as an artist myself, I find that just the ability for a visual artist to receive a royalty payment on a secondary market sale is a pretty big deal. I couldn't really wrap my head around it until I had my first secondary market sale. And it was a small royalty, but it happened completely automatically when the work was resold to another collector. And that illustrated to me like sort of how powerful that is in terms of, you know, it sort of has changed the model, I think, in many ways. And it seems like the art market and the NFT market, they're definitely two very separate spaces. Oh, yeah.
 
-## Unattributed [48:28](https://www.youtube.com/watch?v=-8Glurhxyms&t=2908s)
+## Helen A. Harrison [48:28](https://www.youtube.com/watch?v=-8Glurhxyms&t=2908s)
 
-They tried to do that. I think it was in California, if I remember correctly, that when an artwork was sold, that the artist, you know, a painting or a sculpture, a traditional artwork, that the artist would get a cut. And it was unenforceable. Yeah. But we also have to be aware of the fact that this is a U.S.
+They tried to do that. I think it was in California, if I remember correctly, that when an artwork was sold, that the artist, you know, a painting or a sculpture, a traditional artwork, that the artist would get a cut. And it was unenforceable.
 
-Issue. It is legislation in other countries. And it seems that in the U.S. It was only possible to achieve this through the market itself and through the NFT landscape. This is also what motivated Kevin McCoy and Anil Dash in 2013 to present their monographs, proto-NFTs at the New Museum in New York. It was about resale rights for artists.
+## Christiane Paul [48:45](https://www.youtube.com/watch?v=-8Glurhxyms&t=2925s)
+
+Yeah. But we also have to be aware of the fact that this is a U.S. Issue. It is legislation in other countries. And it seems that in the U.S. It was only possible to achieve this through the market itself and through the NFT landscape. This is also what motivated Kevin McCoy and Anil Dash in 2013 to present their monographs, proto-NFTs at the New Museum in New York. It was about resale rights for artists.
 
 And at the time it didn't take off, partly because the technological framework wasn't there yet. But I find it interesting that this seems to be the way of getting it done, you know, in other countries it has been done through legislation.
 
@@ -229,7 +249,7 @@ And at the time it didn't take off, partly because the technological framework w
 
 Because, I mean, as an artist and not identifying as necessarily curator, even though I have this limited experience, or an art historian, you know, I'm often reminded that when I look through an art history book, there is really no work in there that isn't, you know, there because it has become, you know, valued. That is, you know, it's achieved and sustained value over time. And that's, you know, a component of its, you know, historical relevance in some way. I wouldn't say that that's why it's there, but I think- But it could be the other way around.
 
-## Unattributed [50:21](https://www.youtube.com/watch?v=-8Glurhxyms&t=3021s)
+## Helen A. Harrison [50:21](https://www.youtube.com/watch?v=-8Glurhxyms&t=3021s)
 
 It could be that the reason that it's valuable is because it's in the book.
 
@@ -237,7 +257,7 @@ It could be that the reason that it's valuable is because it's in the book.
 
 Right.
 
-## Unattributed [50:28](https://www.youtube.com/watch?v=-8Glurhxyms&t=3028s)
+## Christiane Paul [50:28](https://www.youtube.com/watch?v=-8Glurhxyms&t=3028s)
 
 That's how you build the canon. Yeah.
 
@@ -245,9 +265,17 @@ That's how you build the canon. Yeah.
 
 That makes sense. Well, this has been, I think we're coming up on time here, but it's been a really fantastic conversation. And I really want to thank you all, the two of you, for coming today. And yeah.
 
-## Unattributed [50:46](https://www.youtube.com/watch?v=-8Glurhxyms&t=3046s)
+## Helen A. Harrison [50:46](https://www.youtube.com/watch?v=-8Glurhxyms&t=3046s)
 
-And if either of you have any last thoughts or- Well, I just want to say, I really appreciate hearing Christiane's insights because the, this is a realm of media, with which I am personally not terribly familiar. And I come to it from a different point of view. So just hearing what she had to say about those distinctions and about those nuances was very eyeopening. I really appreciate it. Likewise, Helen. It's such a pleasure to discuss that with you and not in the typical ghetto and get your deep art historical perspective on it. And thanks so much to Colin for making that happen. Yes. Thank you, Colin. And for doing the exhibition, which I know was a real labor of love and a very complicated, many, many moving parts, but it came together brilliantly.
+And if either of you have any last thoughts or- Well, I just want to say, I really appreciate hearing Christiane's insights because the, this is a realm of media, with which I am personally not terribly familiar. And I come to it from a different point of view. So just hearing what she had to say about those distinctions and about those nuances was very eyeopening. I really appreciate it.
+
+## Christiane Paul [51:11](https://www.youtube.com/watch?v=-8Glurhxyms&t=3071s)
+
+Likewise, Helen. It's such a pleasure to discuss that with you and not in the typical ghetto and get your deep art historical perspective on it. And thanks so much to Colin for making that happen. Yes.
+
+## Helen A. Harrison [51:27](https://www.youtube.com/watch?v=-8Glurhxyms&t=3087s)
+
+Thank you, Colin. And for doing the exhibition, which I know was a real labor of love and a very complicated, many, many moving parts, but it came together brilliantly.
 
 ## Colin Goldberg [51:39](https://www.youtube.com/watch?v=-8Glurhxyms&t=3099s)
 
