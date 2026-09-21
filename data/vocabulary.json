@@ -564,6 +564,54 @@
       "whole_word": true,
       "variants_only": true,
       "note": "Verneda Lights; speech recognition heard 'Verneda' as 'Verita' in Salon 81 (Colin, 20 September 2026)"
+    },
+    {
+      "canonical": "Heidi Boisvert",
+      "category": "artist",
+      "known_asr_variants": [
+        "Heidi Boir"
+      ],
+      "whole_word": true,
+      "note": "Salon 102 moderator; speech recognition heard 'Boisvert' as 'Boir' (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Art Science Intra-action",
+      "category": "other",
+      "known_asr_variants": [
+        "Art Science Interaction"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Salon 102 title (Art-Science Intra-Action); Zoom heard 'intra-action' as 'interaction' (Colin, 21 September 2026)"
+    },
+    {
+      "canonical": "Intra-action is actually a term",
+      "category": "other",
+      "known_asr_variants": [
+        "Interaction is actually a term"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Salon 102: the moderator explains Karen Barad's term 'intra-action'; speech recognition wrote 'interaction' (2026-09-21)"
+    },
+    {
+      "canonical": "art and science intra-action",
+      "category": "other",
+      "known_asr_variants": [
+        "art and science interaction"
+      ],
+      "whole_word": true,
+      "variants_only": true,
+      "note": "Salon 102 (Art-Science Intra-Action) moderator's opening; 'intra-action' heard as 'interaction' (2026-09-21)"
+    },
+    {
+      "canonical": "Karen Barad",
+      "category": "person",
+      "known_asr_variants": [
+        "Karen Berard"
+      ],
+      "whole_word": true,
+      "note": "the STS scholar who coined 'intra-action'; speech recognition heard 'Barad' as 'Berard' in Salon 102 (2026-09-21)"
     }
   ]
 }
