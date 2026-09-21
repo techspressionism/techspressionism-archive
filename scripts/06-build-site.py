@@ -93,6 +93,13 @@ def canonical_base():
     return (os.environ.get("TVA_CANONICAL_BASE") or SITE_CONFIG.get("canonical_base") or "").strip().rstrip("/")
 
 
+def noindex():
+    """True while search engines should not list the pages: data/site-config.json "beta_noindex", or the environment variable
+    TVA_NOINDEX=1, which forces it for one build. The GitHub Pages test copy is built with TVA_NOINDEX=1 (see .github/workflows/deploy.yml),
+    so it stays out of search results after the real site at techspressionism.com/archive/ has been opened to them."""
+    return bool(SITE_CONFIG.get("beta_noindex")) or os.environ.get("TVA_NOINDEX") == "1"
+
+
 def canonical_url(filename):
     base = canonical_base()
     return f"{base}/{filename}" if base else ""
@@ -105,7 +112,7 @@ def add_robots(page_html, filename=""):
     e.g. https://techspressionism.com/archive/) every page also names its own canonical address, so a
     second copy of the site (such as the GitHub one) is never mistaken for the original."""
     tags = []
-    if SITE_CONFIG.get("beta_noindex"):
+    if noindex():
         tags.append('<meta name="robots" content="noindex, nofollow">')
     canon = canonical_url("" if filename == "index.html" else filename)
     if canon:
@@ -1910,7 +1917,7 @@ def write_site_files(corpus):
                 "published": x.get("date_published") or x.get("date_recorded") or ""}})
         pages += [{"loc": canonical_url(f"artist-{pp['id']}.html")} for pp in LISTED]
         (SITE_DIR / "sitemap.xml").write_text(lib_seo.sitemap_xml(pages), encoding="utf-8")
-        if not SITE_CONFIG.get("beta_noindex"):        # robots.txt only once the archive is meant to be found
+        if not noindex():                              # robots.txt only once the archive is meant to be found
             (SITE_DIR / "robots.txt").write_text(lib_seo.robots_txt(canonical_url("sitemap.xml"), SITE_CONFIG.get("allow_ai_training_crawlers", True)), encoding="utf-8")
         else:
             (SITE_DIR / "robots.txt").unlink(missing_ok=True)

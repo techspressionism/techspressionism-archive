@@ -30,6 +30,9 @@ jobs:
         with:
           node-version: "20"
       - name: Build site + Pagefind index
+        # this GitHub copy is the test site: it always asks search engines not to list it, even after techspressionism.com/archive/ is opened to them
+        env:
+          TVA_NOINDEX: "1"
         run: python3 scripts/06-build-site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
