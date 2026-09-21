@@ -497,6 +497,14 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .watch-word, .layout.is-playing .para.active div.para-foot a.pill svg:not(.i-pause) { display:none; }
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
+.synopsis { margin:.2rem 0 1rem; }
+.synopsis h2 { margin:0 0 .3rem; font-size:.78rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); }
+.synopsis .syn-text { margin:0; line-height:1.55; }
+.synopsis .syn-note { margin:.35rem 0 0; font-size:.8rem; color:var(--muted); }
+.synopsis .syn-draft { color:var(--accent); letter-spacing:0; text-transform:none; margin-left:.4rem; }
+.synopsis .syn-more { margin:.3rem 0 0; padding:0; border:0; background:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--accent); cursor:pointer; }
+.synopsis .syn-more[hidden] { display:none; }
+@media (max-width:63.99rem) { .js .synopsis.clamped .syn-text { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; } }   /* on a phone: four lines and Read more */
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; gap:.4rem; }
@@ -668,6 +676,7 @@ PAGE_TMPL = """<!doctype html>
 <span data-pagefind-meta="participants:{participants}" hidden></span>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
+{synopsis}
 {speakers}
 {flags}
 <div class="read-actions" id="read-actions" data-pagefind-ignore>
@@ -805,6 +814,16 @@ document.addEventListener("change", function (ev) {
 
 PLAYER_JS = """<script>
 (function () {
+  (function () {      // the summary: on a phone four lines and "Read more"
+    var syn = document.querySelector('.synopsis');
+    if (!syn || window.innerWidth >= 1024) return;
+    var txt = syn.querySelector('.syn-text'), more = syn.querySelector('.syn-more');
+    syn.classList.add('clamped');
+    if (txt.scrollHeight > txt.clientHeight + 2) {
+      more.hidden = false;
+      more.addEventListener('click', function () { syn.classList.toggle('clamped'); more.textContent = syn.classList.contains('clamped') ? 'Read more' : 'Show less'; });
+    } else syn.classList.remove('clamped');
+  })();
   var autoplayOnLoad = false;      // set when the visitor pressed Watch with transcript: the player, once loaded, starts by itself
   var layout = document.querySelector('.layout'), btn = document.getElementById('read-btn');
   var qs = new URLSearchParams(location.search);       // a link from a search result carries: play=1, at (seconds), to, hl (search words), cite
@@ -1310,6 +1329,7 @@ def build_session_page(entry, siblings=()):
         url=e(url),
         site_page=site_page_html(entry),
         speakers=speakers_html,
+        synopsis=synopsis_html(entry),
         flags=flags_html,
         segments="\n".join(seg_html),
         citation=build_citation(entry),
@@ -2039,7 +2059,37 @@ def entry_people(entry):
     return names
 
 
+SYNOPSES_DIR = ROOT / "data" / "synopses"
+
+
+def load_synopsis(entry, drafts=False):
+    """The recording's synopsis (data/synopses/<slug>.txt: a first line "status: reviewed" or "status: draft", a blank line, then the paragraph).
+    Only REVIEWED synopses are published; drafts show only when drafts=True (the GitHub test copy sets TVA_SHOW_DRAFTS=1)."""
+    path = SYNOPSES_DIR / f"{slug(entry)}.txt"
+    if not path.exists():
+        return ""
+    head, _, body = path.read_text(encoding="utf-8").partition("\n\n")
+    status = head.replace("status:", "").strip().lower()
+    if status == "reviewed" or (drafts and status == "draft"):
+        return " ".join(body.split())
+    return ""
+
+
+def synopsis_html(entry):
+    text = load_synopsis(entry, drafts=os.environ.get("TVA_SHOW_DRAFTS") == "1")
+    if not text:
+        return ""
+    draft = load_synopsis(entry) == ""
+    tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
+    return (f'<section class="synopsis" data-pagefind-ignore><h2>Summary{tag}</h2><p class="syn-text">{e(text)}</p>'
+            '<button type="button" class="syn-more" hidden>Read more</button>'
+            '<p class="syn-note">Written from the transcript; check details against the video.</p></section>')
+
+
 def entry_description(entry):
+    reviewed = load_synopsis(entry)
+    if reviewed:                                             # a reviewed synopsis is the page's description
+        return lib_seo.clip_text(reviewed, 300)
     date = entry.get("date_recorded")
     when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
     people = entry_people(entry)
