@@ -122,6 +122,29 @@ def _regulars():
     return _REGULARS
 
 
+def description_names(session):
+    """People the recording's YouTube description names: anyone in the people directory (full name), plus 'Name // Place' lines,
+    in the order the description gives them."""
+    text = ""
+    for d in ("video_json", "media_json"):
+        p = ROOT / "raw" / d / f"{session['video_id']}.json"
+        if p.exists():
+            text = json.loads(p.read_text()).get("description") or ""
+            break
+    if not text:
+        return []
+    found = []
+    for name, rx in _people_names().items():
+        m = rx.search(text)
+        if m:
+            found.append((m.start(), name))
+    for m in re.finditer(r"(?m)^\s*(?:\d{1,2}:\d{2}(?::\d{2})?\s*[-\u2013\u2014]\s*)?([A-Z][\w\u00c0-\u024f'.-]+(?: [A-Z][\w\u00c0-\u024f'.-]+){1,3})\s*(?://|\|)", text):
+        n = canonical_name(m.group(1).strip())
+        if n and n not in [x[1] for x in found] and not n.lower().startswith(("techspression", "opening", "curated")):
+            found.append((m.start(), n))
+    return [n for _, n in sorted(found)]
+
+
 def suggestion_groups(sl, voices):
     """The dropdown's choices: who the recording's listing names, who is named in its transcript, and the regular participants."""
     session = _sessions[sl]
@@ -131,6 +154,9 @@ def suggestion_groups(sl, voices):
             part = canonical_name(part.strip())
             if part and part not in here:
                 here.append(part)
+    for n in description_names(session):              # everyone the video's description names
+        if n not in here:
+            here.append(n)
     for v in voices.values():
         for n in (v.get("screen"), v.get("index"), v.get("candidate")):
             if n and n not in here:
