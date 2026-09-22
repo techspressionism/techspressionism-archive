@@ -423,7 +423,7 @@ header.site .hsearch input::placeholder { color:#757575; opacity:1; }
 header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 @media (max-width:63.99rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
-main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
+main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem; }   /* bottom padding used to be 4rem, room for the footer that lived at the end of <main> -- now that it's removed (per Colin) that was just dead blank space full-width below the content, so it matches the top padding instead */
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
 h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
