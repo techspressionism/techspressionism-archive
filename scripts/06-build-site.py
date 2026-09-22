@@ -444,8 +444,8 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
 .read-actions { display:none; margin:0 0 1.2rem; }
-.read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:1.2rem; color:#fff; font:inherit; font-size:1rem; font-weight:800;
-                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }   /* pill-shaped, like every other button on the site, per Colin */
+.read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:999px; color:#fff; font:inherit; font-size:1rem; font-weight:800;
+                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }   /* 999px (not a fixed rem value) so the ends are always fully circular regardless of the button's actual height, matching the red timecode pills above -- per Colin 2026-09-22, 1.2rem wasn't enough to fully round a button this tall */
 .watch-btn { background:var(--accent); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
@@ -558,7 +558,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
 .para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
 @media (min-width:64rem) {
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
-  .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:1.25rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, the synopsis text was tight against it. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
+  .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:2.5rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
