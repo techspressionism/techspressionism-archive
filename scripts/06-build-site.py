@@ -343,12 +343,19 @@ function googleTranslateElementInit() {
       # page regardless of how many dropdown UIs (main + the sticky-header clone) drive it via tvaSetLanguage
 
 
-def build_wp_strip(sticky=False):
-    """A home button at the top right of every page: back to the main Techspressionism site. Also the
-    language switcher (Google's free Website Translator, same underlying service the GTranslate plugin on
-    techspressionism.com itself wraps) -- a custom <select> driving it via the "googtrans" cookie instead of
-    Google's own default widget UI, which is unstyled and pushes the whole page down with its own banner.
-    Both are wrapped in .wpgroup, which JS centers over the nearest search box.
+def build_wp_strip(sticky=False, merged=True):
+    """A home link back to the main Techspressionism site. Also the language switcher (Google's free Website
+    Translator, same underlying service the GTranslate plugin on techspressionism.com itself wraps) -- a custom
+    <select> driving it via the "googtrans" cookie instead of Google's own default widget UI, which is unstyled
+    and pushes the whole page down with its own banner. Both are wrapped in .wpgroup.
+
+    merged=True (every page except home) returns just the .wpgroup markup, meant to be embedded inside .hright
+    right before the search box: .hright's own align-items:stretch makes .wpgroup exactly as wide as the search
+    box, so a plain justify-content:center on .wpgroup centers its contents over it with no JS needed -- and
+    folding it into the existing header removes the separate top bar altogether, shortening the header and
+    moving the page's content up, per Colin 2026-09-22. merged=False returns the old standalone full-width bar
+    (only the home page still uses this: its "Google-like" vertically-centered landing layout floats this bar
+    independently at the absolute top, outside the centered block -- see body.home:not(.searching) .wpstrip).
 
     sticky=True builds the copy that lives inside the sticky mini-header (#stickytitle), so it's still reachable
     without scrolling back to the top, per Colin 2026-09-22. It needs its own element ids (a page can carry both
@@ -361,42 +368,27 @@ def build_wp_strip(sticky=False):
                    f'<option value="">Language</option>{lang_opts}</select></div>')
     wpgroup = (f'<div class="wpgroup"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
                f'{HOME_SVG}<span>Techspressionism.com</span></a>{lang_switch}</div>')
-    strip_html = f'<div class="wpstrip">{wpgroup}</div>'
-    # each instance restores its own dropdown's value from the cookie, and centers its own .wpgroup over the
-    # nearest matching search box -- scoped to .stickyheader for the sticky copy, since a page can carry both
-    input_selector = ".stickyheader .hsearch input" if sticky else "header.site .hsearch input"
+    html = wpgroup if merged else f'<div class="wpstrip">{wpgroup}</div>'
+    # each instance just restores its own dropdown's value from the cookie on load -- alignment is pure CSS now
     instance_js = f"""<script>
-(function () {{
-  var thisScript = document.currentScript;
-  document.addEventListener("DOMContentLoaded", function () {{
-    var sel = document.getElementById("lang-select{variant}");
-    var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
-    if (m && sel) sel.value = m[1];
-    var wpstrip = thisScript.previousElementSibling;
-    var grp = wpstrip && wpstrip.querySelector(".wpgroup");
-    var input = document.querySelector("{input_selector}");
-    if (!grp || !input) return;
-    function align() {{
-      if (window.innerWidth < 1024) {{ grp.style.marginRight = ""; return; }}
-      var gw = grp.getBoundingClientRect().width, iw = input.getBoundingClientRect().width;
-      grp.style.marginRight = ((iw - gw) / 2) + "px";
-    }}
-    align();
-    window.addEventListener("resize", align);
-    if (window.MutationObserver) new MutationObserver(align).observe(input, {{ attributes: true, attributeFilter: ["style"] }});
-  }});
-}})();
+document.addEventListener("DOMContentLoaded", function () {{
+  var sel = document.getElementById("lang-select{variant}");
+  var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
+  if (m && sel) sel.value = m[1];
+}});
 </script>"""
     if sticky:
-        return strip_html + "\n" + instance_js
-    return strip_html + "\n" + instance_js + '\n<div id="google_translate_element" hidden></div>\n' + GLOBAL_LANG_JS
+        return html + "\n" + instance_js
+    return html + "\n" + instance_js + '\n<div id="google_translate_element" hidden></div>\n' + GLOBAL_LANG_JS
 
 
 WP_MENU_CSS = """
-/* the home button at the top right of every page: back to techspressionism.com */
+/* the home link + language selector: on every page except home, merged into header.site's .hright (see
+   build_wp_strip and the grid rules in the desktop media query below); the home page alone still uses this as
+   a standalone full-width bar, since its landing layout floats it independently at the top */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
 @media (max-width:63.99rem) { .wpstrip { justify-content:center; border-bottom-color:var(--accent); } }   /* mobile only, per Colin: Techspressionism.com centered at the very top, red rule below instead of gray */
-.wpgroup { display:flex; align-items:center; }   /* home link + language selector as one unit -- JS (see LANG_SWITCH_JS) nudges it left with a computed margin-right so it centers over the search box on desktop, rather than sitting flush against the page edge, per Colin 2026-09-22 */
+.wpgroup { display:flex; align-items:center; justify-content:center; }   /* home link + language selector as one unit; justify-content:center only does anything once .hright's align-items:stretch has made this exactly as wide as the search box below it (the merged, non-home case) -- centers it over that box with no JS, per Colin 2026-09-22 */
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
@@ -416,14 +408,21 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
     (build_browse_links) are spelled out at every width now, mobile included -- no more BROWSE // dropdown
     (Colin, 2026-09-22: wanted the categories visible immediately everywhere, on every device).
 
-    strip: True for the normal home-link/language-selector strip, "sticky" for the copy that lives inside the
-    sticky mini-header (its own element ids, reuses the main copy's Google Translate setup), False for none."""
-    strip_html = build_wp_strip(sticky=(strip == "sticky")) if strip else ""
-    return (strip_html + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
+    strip: True for the normal home-link/language-selector, "sticky" for the copy that lives inside the sticky
+    mini-header (its own element ids, reuses the main copy's Google Translate setup), False for none. h1=True
+    (the home page only) keeps it as its own standalone bar before <header>; everywhere else it's merged into
+    .hright, right before the search box (see build_wp_strip)."""
+    pre_html, hright_prefix = "", ""
+    if strip:
+        if h1:
+            pre_html = build_wp_strip(sticky=(strip == "sticky"), merged=False)
+        else:
+            hright_prefix = build_wp_strip(sticky=(strip == "sticky"), merged=True)
+    return (pre_html + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>' + ('</h1>' if h1 else '') + '\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse_links(corpus, active) + '\n'
-            '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
+            f'<div class="hright">{hright_prefix}<form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search the Archive&hellip;" aria-label="Search the Archive" required></form></div>'
             '</div></header>')
 
@@ -480,7 +479,8 @@ body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI
        color:var(--fg); background:var(--bg); }
 a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
-header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
+header.site { border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }   /* the top border replaces the separate wpstrip bar's own border-bottom, now that the home link/language selector merged into .hright instead of sitting above header.site in its own row, per Colin 2026-09-22 */
+body.home header.site { border-top:0; }   /* home page alone still shows the wpstrip bar above this (its own border-bottom already draws the line); this new border-top would otherwise double up right underneath it, at every width */
 header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.1rem; white-space:nowrap; text-transform:uppercase; }
 header.site strong a { color:inherit; }
@@ -743,16 +743,19 @@ header.site .browse-links a:hover, header.site .browse-links a:focus-visible { t
 header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
 /* ---- desktop (64rem and wider) ---- */
 @media (min-width:64rem) {
-  /* every page: title at the left with the search box at the right on row one; the category links always sit on
-     their own row directly under the title (row two), left-aligned, close underneath -- not sharing row one with
-     title/search at all */
-  header.site .wrap { flex-wrap:wrap; align-items:center; gap:.15rem 1.75rem; }   /* row-gap column-gap: the 1.75rem was also spacing the title row from the links row underneath it -- split so row-gap can be tiny */
-  header.site strong { order:1; flex:none; }
-  header.site .browse, header.site .hright { flex:none; }
+  /* title+hright on row one, category links spanning the full width on row two, with hright (the language
+     selector/home link stacked over the search box, see build_wp_strip) spanning BOTH rows and vertically
+     centered against their combined height -- CSS Grid instead of flex, since flex's align-items:center can
+     only center within a single wrapped line (title's row alone), which is what forced a hand-measured pixel
+     offset before; grid's align-self:center on a row-spanning item centers against the true combined height of
+     both rows with no magic numbers, however tall .hright's now-two-row content turns out to be. Scoped off the
+     home page, which keeps its own single-column flex layout below. */
+  body:not(.home) header.site .wrap { display:grid; grid-template-columns:auto 1fr auto; grid-template-rows:auto auto; align-items:center; column-gap:1.75rem; row-gap:.15rem; }
+  body:not(.home) header.site strong { grid-column:1; grid-row:1; }
   header.site .browse { display:none; }
-  header.site .hright { order:2; margin:27px 0 0 auto; }   /* align-items:center only centers it against row one (the title); nudges it down to sit centered against the full two-row header height instead, per Colin 2026-09-22. Adding margin here also grows the header itself (pushing the bottom border down), so the needed offset is bigger than the raw gap first measured -- 27px, verified to land the search box's center within 1px of the true midpoint. Overridden back to margin:0 on the home page below (a different, single-column header layout) */
+  body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; margin:0; }
   header.site .hsearch input { width:19rem; }
-  body:not(.home) header.site .browse-links { order:3; flex-basis:100%; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
+  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
