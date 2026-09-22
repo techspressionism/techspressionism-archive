@@ -837,6 +837,14 @@ CATEGORY_PLAYER_JS = """<script>
   checkWrap();
   window.addEventListener('resize', checkWrap);
 })();
+(function () {   // the header search box matches the sidebar's width -- the sidebar is a fluid grid column (fr-based),
+                 // so a fixed CSS width can't track it; measured and kept in sync instead
+  var sidebar = document.querySelector('.cat-list'), input = document.querySelector('header.site .hsearch input');
+  if (!sidebar || !input) return;
+  function match() { if (window.innerWidth >= 1024) input.style.width = sidebar.getBoundingClientRect().width + 'px'; else input.style.width = ''; }
+  match();
+  window.addEventListener('resize', match);
+})();
 </script>"""
 
 
