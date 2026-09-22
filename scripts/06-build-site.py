@@ -531,10 +531,12 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
 .catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }   /* beats .person h1's 2.2rem on specificity, not just source order */
 .cat-featured { margin:0 0 1.5rem; }
-.catpage-grid .cat-latest { margin:.7rem 0 .2rem; font-size:1.35rem; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red (same specificity trick as .cat-kicker, beats .person h1) */
+.catpage-grid .cat-latest { margin:1.2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin */
 .cat-latest .cat-sep { color:var(--accent); }
 .cat-latest a { color:inherit; text-decoration:none; }
 .cat-latest a:hover, .cat-latest a:focus-visible { color:var(--accent); text-decoration:underline; }
+.cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
+.cat-latest.wrapped a.cat-title-link { display:block; color:var(--accent); }
 .cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
 .cat-excerpt { margin:.6rem 0 0; line-height:1.55; }
 .cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
@@ -818,6 +820,14 @@ CATEGORY_PLAYER_JS = """<script>
     s.src = 'https://www.youtube.com/iframe_api';
     document.head.appendChild(s);
   });
+})();
+(function () {   // "LATEST SALON // TITLE": if the title wraps to its own line (long title, or a narrow/phone screen),
+                 // drop the "//", turn the title red, and force it to start that second line cleanly
+  var h = document.querySelector('.cat-latest'), eyebrow = h && h.querySelector('.cat-eyebrow'), link = h && h.querySelector('.cat-title-link');
+  if (!h || !eyebrow || !link) return;
+  function checkWrap() { h.classList.toggle('wrapped', link.offsetTop > eyebrow.offsetTop); }
+  checkWrap();
+  window.addEventListener('resize', checkWrap);
 })();
 </script>"""
 
@@ -2073,7 +2083,8 @@ def build_category_page(stype, entries):
     when = f"published {when}" if date_is_estimate(featured) else when
     by = f' <span class="d">interviewed by {e(featured["interviewer"])}</span>' if featured.get("interviewer") else ""
     syn = synopsis_plain(load_synopsis(featured))
-    excerpt = f'<p class="cat-excerpt">{e(lib_seo.clip_text(syn, 220))}</p>' if syn else ""
+    excerpt = (f'<p class="cat-kicker cat-summary-label">Summary</p><p class="cat-excerpt">{e(lib_seo.clip_text(syn, 400))}</p>'
+               if syn else "")
     recent_html = ('<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul>') if recent else ""
     rows = "\n".join(session_row_html(x) for x in ordered)
 
@@ -2082,7 +2093,7 @@ def build_category_page(stype, entries):
 <div class="cat-main">
 <section class="cat-featured">
 {build_player(featured)}
-<h1 class="cat-latest">Latest {e(info['label'])} <span class="cat-sep">//</span> <a href="{slug(featured)}.html">{e(topic)}</a></h1>
+<h1 class="cat-latest"><span class="cat-eyebrow">Latest {e(info['label'])}</span> <span class="cat-sep">//</span> <a class="cat-title-link" href="{slug(featured)}.html">{e(topic)}</a></h1>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
 </section>
