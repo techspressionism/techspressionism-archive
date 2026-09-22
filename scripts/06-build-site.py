@@ -529,8 +529,9 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 /* Category landing pages (site/salons/, /interviews/, /roundtables/, /presentations/): featured + recent + full list.
    Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
+.cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }
 .cat-featured { margin:0 0 1.5rem; }
-.cat-featured h2 { margin:.7rem 0 .2rem; font-size:1.35rem; }
+.cat-featured h3 { margin:.7rem 0 .2rem; font-size:1.35rem; }
 .cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
 .cat-excerpt { margin:.6rem 0 0; line-height:1.55; }
 .cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
@@ -2065,16 +2066,18 @@ def build_category_page(stype, entries):
     recent_html = ('<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul>') if recent else ""
     rows = "\n".join(session_row_html(x) for x in ordered)
 
+    recent_section = f'<h2 class="cat-kicker">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
     body = f"""<h1>{e(info['plural'])}</h1>
 <div class="catpage-grid">
 <div class="cat-main">
 <section class="cat-featured">
+<h2 class="cat-kicker">Latest {e(info['label'])}</h2>
 {build_player(featured)}
-<h2><a href="{slug(featured)}.html">{e(topic)}</a></h2>
+<h3><a href="{slug(featured)}.html">{e(topic)}</a></h3>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
 </section>
-{recent_html}
+{recent_section}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
 </div>{CATEGORY_PLAYER_JS}"""
