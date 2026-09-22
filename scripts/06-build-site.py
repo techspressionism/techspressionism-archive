@@ -349,27 +349,6 @@ WP_MENU_CSS = """
 """
 
 
-HEADER_LINKS_WRAP_JS = """<script>
-(function () {   // desktop: if the category links don't fit beside the title and search box without wrapping onto a
-                 // second line in place, drop them to their own full-width row under the title instead (not on the
-                 // home page, which already centers them on their own line(s) below the search box)
-  function check() {
-    if (document.body.classList.contains('home')) return;
-    document.querySelectorAll('header.site .wrap').forEach(function (wrap) {
-      var links = wrap.querySelector('.browse-links');
-      if (!links || !links.children.length) return;
-      wrap.classList.remove('links-wrapped');   // always measure the normal inline layout first, not a stale state
-      var kids = [].slice.call(links.children);
-      var wrapped = kids.some(function (k) { return k.offsetTop > kids[0].offsetTop; });
-      wrap.classList.toggle('links-wrapped', wrapped);
-    });
-  }
-  check();
-  window.addEventListener('resize', check);
-})();
-</script>"""
-
-
 def build_header(corpus, active="", sid="", strip=True, h1=False):
     """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
     see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
@@ -381,7 +360,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             + build_browse_links(corpus, active) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
-            '</div></header>' + HEADER_LINKS_WRAP_JS)
+            '</div></header>')
 
 
 FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
@@ -677,25 +656,20 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
 /* ---- desktop (64rem and wider) ---- */
 .browse-links { display:none; }
 @media (min-width:64rem) {
-  /* every page: one row, TED-style: title at the left, category links next to it (replaces the BROWSE // dropdown,
-     which stays for mobile/tablet where there's no room to spell them all out), search box at the right */
-  header.site .wrap { flex-wrap:nowrap; align-items:center; gap:1.75rem; }
-  header.site strong, header.site .browse, header.site .hright { flex:none; }
+  /* every page: title at the left with the search box at the right on row one; the category links always sit on
+     their own row directly under the title (row two), left-aligned, close underneath -- not sharing row one with
+     title/search at all (replaces the BROWSE // dropdown, which stays for mobile/tablet: no room to spell them out) */
+  header.site .wrap { flex-wrap:wrap; align-items:center; gap:1.75rem; }
+  header.site strong { order:1; flex:none; }
+  header.site .browse, header.site .hright { flex:none; }
   header.site .browse { display:none; }
-  header.site .browse-links { display:flex; flex-wrap:wrap; align-items:center; gap:.35rem .65rem; font-size:.95rem; }
+  header.site .hright { order:2; margin:0 0 0 auto; }
+  header.site .hsearch input { width:19rem; }
+  body:not(.home) header.site .browse-links { order:3; flex-basis:100%; margin-top:.15rem; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* much closer under the title than before -- Colin */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
   header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
-  header.site .hright { margin:0 0 0 auto; }
-  header.site .hsearch input { width:19rem; }
-  /* if the links don't fit beside the title and search box without wrapping internally, JS (in build_header) detects
-     it and adds .links-wrapped: title+search stay on row one, the links drop to their own full-width row underneath,
-     left-aligned (not the centered home-hero style) */
-  body:not(.home) header.site .wrap.links-wrapped { flex-wrap:wrap; }
-  body:not(.home) header.site .wrap.links-wrapped strong { order:1; }
-  body:not(.home) header.site .wrap.links-wrapped .hright { order:2; }
-  body:not(.home) header.site .wrap.links-wrapped .browse-links { order:3; flex-basis:100%; margin-top:.6rem; justify-content:flex-start; gap:.25rem .5rem; }   /* body:not(.home) keeps this out of the home page's own centered/multi-line treatment below; tighter gap than the inline version -- Colin: too much space between them once they're on their own row */
   body:not(.home) header.site strong { font-size:1.5rem; }   /* a bit bigger than .cat-latest's 1.35rem ("LATEST SALON // ...") */
   /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
      (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
