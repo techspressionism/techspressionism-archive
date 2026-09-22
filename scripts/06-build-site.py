@@ -315,10 +315,50 @@ HOME_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" 
             'd="M12 3 2 12h3v8h5v-6h4v6h5v-8h3z"/></svg>')
 
 
+LANGUAGES = [
+    ("es", "Español"), ("fr", "Français"), ("de", "Deutsch"), ("it", "Italiano"),
+    ("pt", "Português"), ("nl", "Nederlands"), ("el", "Ελληνικά"),
+    ("ru", "Русский"), ("ar", "العربية"),
+    ("zh-CN", "中文"), ("ja", "日本語"), ("ko", "한국어"), ("hi", "हिन्दी"),
+]
+
+
+LANG_SWITCH_JS = """<script>
+function tvaSetLanguage(lang) {
+  var host = location.hostname;
+  if (!lang) {
+    document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=" + host + ";";
+  } else {
+    document.cookie = "googtrans=/en/" + lang + "; path=/";
+  }
+  location.reload();
+}
+(function () {
+  var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
+  var sel = document.getElementById("lang-select");
+  if (m && sel) sel.value = m[1];
+})();
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({ pageLanguage: "en", autoDisplay: false }, "google_translate_element");
+}
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+"""
+
+
 def build_wp_strip():
-    """A home button at the top right of every page: back to the main Techspressionism site."""
-    return (f'<div class="wpstrip"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
-            f'{HOME_SVG}<span>Techspressionism.com</span></a></div>\n')
+    """A home button at the top right of every page: back to the main Techspressionism site. Also the
+    language switcher (Google's free Website Translator, same underlying service the GTranslate plugin on
+    techspressionism.com itself wraps) -- a custom <select> driving it via the "googtrans" cookie instead of
+    Google's own default widget UI, which is unstyled and pushes the whole page down with its own banner."""
+    lang_opts = "".join(f'<option value="{code}">{e(label)}</option>' for code, label in LANGUAGES)
+    lang_switch = (f'<div class="langswitch" data-pagefind-ignore>'
+                   f'<select id="lang-select" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
+                   f'<option value="">Language</option>{lang_opts}</select></div>'
+                   f'<div id="google_translate_element" hidden></div>')
+    return (f'<div class="wpstrip">{lang_switch}<a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
+            f'{HOME_SVG}<span>Techspressionism.com</span></a></div>\n{LANG_SWITCH_JS}')
 
 
 WP_MENU_CSS = """
@@ -328,6 +368,13 @@ WP_MENU_CSS = """
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
+.langswitch { margin-right:.9rem; }
+.langswitch select { font:inherit; font-size:.85rem; padding:.3rem 1.4rem .3rem .8rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same pill shape/coloring as the Citation Format dropdown */
+/* Google's own translate banner/UI is unstyled and pushes the page down 40px -- replaced with the plain
+   select above (driven by the googtrans cookie), so the actual widget stays invisible */
+.goog-te-banner-frame, .goog-te-gadget-icon, .skiptranslate iframe { display:none !important; }
+body { top:0 !important; }
+#google_translate_element { display:none !important; }
 """
 
 
@@ -761,7 +808,7 @@ PAGE_TMPL = """<!doctype html>
 <section class="cite" data-pagefind-ignore>
 <h2>Cite this session</h2>
 <div data-cite="{cite_data}">
-<blockquote class="cite-text">{citation}</blockquote>
+<blockquote class="cite-text" translate="no">{citation}</blockquote>
 <div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
 </div>
 </section>
@@ -1091,7 +1138,7 @@ PLAYER_JS = """<script>
       var cinfo = { speaker: citeText.split(', "')[0], series: pdata.series, topic: pdata.topic, date: pdata.date, seconds: citeAt,
                     url: (pdata.youtube || '') + '&t=' + Math.floor(citeAt) + 's', chicago: citeText };
       card.setAttribute('data-cite', JSON.stringify(cinfo));
-      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
+      card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text" translate="no"></span>'
         + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
         + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button>' + citeFormatSelect(citeStored()) + '</div>';
       citeApply(card);
@@ -1198,7 +1245,7 @@ PLAYER_JS = """<script>
     var card = document.createElement('div');
     card.className = 'cite-card para-cite';
     card.setAttribute('data-cite', JSON.stringify(info));
-    card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
+    card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text" translate="no"></span>'
       + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
       + '<button type="button" class="continue-btn"' + (wasPlaying ? '' : ' hidden') + '>Continue watching &#9654;</button>'
       + '<button type="button" class="close-cite">Close</button>' + citeFormatSelect(citeStored()) + '</div>';
@@ -2652,6 +2699,8 @@ def synopsis_html(entry):
         return "".join(out)
 
     body = "".join(point(m) if isinstance(m, re.Match) else link_names(m) for m in _split_points(text))
+    # bold the leading "Salon 58, "Dreams"" (series + number + quoted title) most synopses open with, per Colin
+    body = re.sub(r'^([A-Z][^&<]*?\d+, &quot;[^&]*?&quot;)', r"<strong>\1</strong>", body, count=1)
     tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
     return (f'<section class="synopsis" data-pagefind-ignore><h2>Synopsis{tag}</h2><p class="syn-text">{body}</p>'
             '<button type="button" class="syn-more" hidden>Read more</button>'
