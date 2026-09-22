@@ -477,9 +477,9 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-next li.cur a { background:#fdebc8; font-weight:600; }
 .watch-next .num { color:var(--muted); font-variant-numeric:tabular-nums; }
 .watch-next .d { display:block; color:var(--muted); font-size:.85rem; }
-details.people { margin:0 0 1rem; }
-details.people summary { cursor:pointer; color:#000; font-weight:400; font-size:.9rem; margin:0 0 .6rem; }
-details.people .speakers { margin-bottom:.5rem; }
+section.people { margin:0 0 1rem; }
+section.people h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* same treatment as SYNOPSIS, per Colin; always visible now, not an expandable <details> */
+section.people .speakers { margin-bottom:.5rem; }
 section.seg.cont { border-top:0; padding-top:0; }
 section.seg.cont .speaker, .vh { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
 section.seg.cont .seg-head { margin:0; }
@@ -1345,8 +1345,8 @@ def build_session_page(entry, siblings=()):
         country_tags = "".join(
             f'<span data-pagefind-filter="country:{facet(c)}" hidden></span>' for c in countries
         )
-        speakers_html = (f'<details class="people"><summary>Participants ({len(pindex)})</summary>'
-                         f'<ul class="speakers">{sp_items}</ul>{country_tags}</details>')
+        speakers_html = (f'<section class="people"><h2>Participants ({len(pindex)})</h2>'
+                         f'<ul class="speakers">{sp_items}</ul>{country_tags}</section>')
     else:
         speakers_html = ""
 
