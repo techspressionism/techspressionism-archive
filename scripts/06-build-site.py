@@ -1036,11 +1036,11 @@ PLAYER_JS = """<script>
       pbox.appendChild(yl);
     }
     citedMode = true;
-    whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
+    whenReady(function () { player.seekTo(seek, true); tryPlay(); });
   }
   document.addEventListener('click', function (ev) {
     var c = ev.target.closest && ev.target.closest('.continue-btn');
-    if (c) { stopAt = null; c.hidden = true; if (c.closest('.para-cite')) closeParaCite(); if (player) player.playVideo(); return; }
+    if (c) { stopAt = null; c.hidden = true; if (c.closest('.para-cite')) closeParaCite(); if (player) tryPlay(); return; }
     var b = ev.target.closest && ev.target.closest('.copy-cite');
     if (b && navigator.clipboard) {
       ev.preventDefault();
@@ -1061,11 +1061,13 @@ PLAYER_JS = """<script>
   function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
   function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
   var loading = false;
-  // "Watch with transcript": start the video. A computer allows this straight after the click. A phone only starts a video inside the tap itself, so
-  // (1) on a touch screen the player is made ready at the first touch or scroll, long before the button is pressed, and the video starts inside the
-  // tap; (2) if the phone still refuses, the video is started muted (phones allow that) and a line says how to turn the sound on; (3) if even that
-  // is refused, a line asks for a tap on the video's own play button.
-  function startWatching() {
+  // Starting the video: a computer allows this straight after a click. A phone only starts a video inside a tap
+  // itself, so (1) on a touch screen the player is made ready at the first touch or scroll, long before a watch
+  // button is pressed, so the video starts inside that tap; (2) if the phone still refuses -- e.g. arriving here
+  // from a search result, where the tap that got us here was on the SEARCH page, not this one, so this page never
+  // gets its own "inside a tap" moment at all -- the video is started muted instead (phones allow that) and a line
+  // says how to turn the sound on; (3) if even that is refused, a line asks for a tap on the video's own play button.
+  function tryPlay() {
     player.playVideo();
     setTimeout(function () {
       var s1 = player.getPlayerState();
@@ -1078,6 +1080,7 @@ PLAYER_JS = """<script>
       }, 1200);
     }, 1200);
   }
+  function startWatching() { tryPlay(); }
   if (('ontouchstart' in window) || navigator.maxTouchPoints > 0) {
     ['touchstart', 'scroll'].forEach(function (n) { window.addEventListener(n, function () { preload(); }, { passive: true, once: true }); });
   }
@@ -1133,7 +1136,7 @@ PLAYER_JS = """<script>
     cb.setAttribute('aria-expanded', 'true');
     if (card.scrollIntoView) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   });
-  box.querySelector('.poster').addEventListener('click', function () { whenReady(function () { player.playVideo(); }); });
+  box.querySelector('.poster').addEventListener('click', function () { whenReady(tryPlay); });
   document.addEventListener('click', function (ev) {
     var a = ev.target.closest && ev.target.closest('a.pill');
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
@@ -1144,7 +1147,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     closeParaCite();      // playing on: the open citation card folds away
     forced = i; mark(i);
-    whenReady(function () { player.seekTo(seek, true); player.playVideo(); });
+    whenReady(function () { player.seekTo(seek, true); tryPlay(); });
   });
   document.addEventListener('click', function (ev) {         // a moment named in the summary: open the transcript there and play from it
     var a = ev.target.closest && ev.target.closest('a.syn-t');
@@ -1156,7 +1159,7 @@ PLAYER_JS = """<script>
     reading(true, false); holdUntil = Date.now() + 2200; autoplayOnLoad = true;
     forced = i; mark(i);
     if (paras[i].scrollIntoView) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
-    whenReady(function () { player.seekTo(at, true); player.playVideo(); });
+    whenReady(function () { player.seekTo(at, true); tryPlay(); });
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
