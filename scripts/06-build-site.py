@@ -455,6 +455,9 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
 .watch-yt { margin:.8rem 0 0; text-align:center; }   /* below the Read/Watch transcript buttons, per Colin -- the "View on techspressionism.com" / "Looking for the next Salon?" links that used to share this line were dropped, not moved */
+.print-transcript { margin:.5rem 0 0; text-align:center; }
+.print-btn { font:inherit; font-size:.85rem; color:var(--muted); background:none; border:none; text-decoration:underline; cursor:pointer; padding:.3rem; }
+.print-btn:hover, .print-btn:focus-visible { color:var(--accent); }
 .watch-yt a { color:#000; }
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
@@ -693,6 +696,18 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   body.home.searching header.site .wrap { padding-top:2.5rem; }
 
 }
+/* ---- print ("Print transcript (PDF)", also plain Cmd/Ctrl+P) ---- */
+@media print {
+  header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt, .print-transcript,
+  .cite-actions, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
+  .sitefoot, .player-box, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
+  .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
+  .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
+  .layout { display:block !important; }   /* the two-column grid (content + transcript/sidebar) becomes one column, full width */
+  .right { width:100% !important; }
+  a { color:#000 !important; text-decoration:none !important; }
+  .seg-head, .para { break-inside:avoid; }   /* don't split a speaker turn or a paragraph across a page break where avoidable */
+}
 """
 
 # The search filter dropdowns (Country, Speaker, Type, Year) and the phone "Filters" button are hidden for now;
@@ -741,6 +756,7 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
 </div>
 <p class="watch-yt"><a href="{url}">Watch on YouTube</a></p>
+<p class="print-transcript" data-pagefind-ignore><button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button></p>
 <section class="cite" data-pagefind-ignore>
 <h2>Cite this session</h2>
 <div data-cite="{cite_data}">
@@ -1010,6 +1026,8 @@ PLAYER_JS = """<script>
   }
   titleBar(); window.addEventListener('scroll', titleBar, { passive: true }); window.addEventListener('resize', titleBar);
   if (window.ResizeObserver && pbox) new ResizeObserver(sizePlayer).observe(pbox);
+  var printBtn = document.getElementById('print-btn');   // @media print forces the transcript visible regardless of on-screen state, so this can just open the print dialog directly
+  if (printBtn) printBtn.addEventListener('click', function () { window.print(); });
   if (btn) {
     btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
     var wbtn = document.getElementById('watch-btn');
