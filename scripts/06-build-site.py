@@ -357,8 +357,8 @@ def build_wp_strip():
                    f'<select id="lang-select" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
                    f'<option value="">Language</option>{lang_opts}</select></div>'
                    f'<div id="google_translate_element" hidden></div>')
-    return (f'<div class="wpstrip">{lang_switch}<a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
-            f'{HOME_SVG}<span>Techspressionism.com</span></a></div>\n{LANG_SWITCH_JS}')
+    return (f'<div class="wpstrip"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
+            f'{HOME_SVG}<span>Techspressionism.com</span></a>{lang_switch}</div>\n{LANG_SWITCH_JS}')
 
 
 WP_MENU_CSS = """
@@ -368,8 +368,8 @@ WP_MENU_CSS = """
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
-.langswitch { margin-right:.9rem; }
-.langswitch select { font:inherit; font-size:.85rem; padding:.3rem 1.4rem .3rem .8rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same pill shape/coloring as the Citation Format dropdown */
+.langswitch { margin-left:.9rem; }
+.langswitch select { font:inherit; font-size:.85rem; padding:.3rem 2rem .3rem .8rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same pill shape/coloring as the Citation Format dropdown; right padding widened so there's space after the native arrow too, matching the space before the text on the left, per Colin 2026-09-22 */
 /* Google's own translate banner/UI is unstyled and pushes the page down 40px -- replaced with the plain
    select above (driven by the googtrans cookie), so the actual widget stays invisible */
 .goog-te-banner-frame, .goog-te-gadget-icon, .skiptranslate iframe { display:none !important; }
