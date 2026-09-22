@@ -1,0 +1,3 @@
+status: draft
+
+Presentation 5, "Moving Images: Sequencing as Visual Expression," is a short session hosted by Lucy Boyd-Wilson and presented with the American Maker Space in Qarshi, Uzbekistan. After [[0:00|her introduction to Techspressionism]], three artists show how they use moving images. Randi Matushevitz [[7:13|talks about sequencing video, from a background in painting]]. Allen Hirsh presents [[14:30|animations in which mathematics transforms paintings by artists such as Kandinsky and Miró]]. Susan Detroy describes [[21:25|moving from handmade printmaking and photography toward digital and moving work]]. Boyd-Wilson [[27:34|thanks the artists and the hosts]].
