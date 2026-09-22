@@ -549,7 +549,7 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
 .cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
 .cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
-.cat-list h2 { margin:0 0 .5rem; font-size:.95rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }
+aside.cat-list h2 { margin:0 0 .5rem; padding-top:0; border-top:none; font-size:.95rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:var(--accent); }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- no red rule above "All Salons", and the heading itself is red */
 @media (min-width:64rem) { .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; } }
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
@@ -659,13 +659,13 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   /* every page: title at the left with the search box at the right on row one; the category links always sit on
      their own row directly under the title (row two), left-aligned, close underneath -- not sharing row one with
      title/search at all (replaces the BROWSE // dropdown, which stays for mobile/tablet: no room to spell them out) */
-  header.site .wrap { flex-wrap:wrap; align-items:center; gap:1.75rem; }
+  header.site .wrap { flex-wrap:wrap; align-items:center; gap:.15rem 1.75rem; }   /* row-gap column-gap: the 1.75rem was also spacing the title row from the links row underneath it -- split so row-gap can be tiny */
   header.site strong { order:1; flex:none; }
   header.site .browse, header.site .hright { flex:none; }
   header.site .browse { display:none; }
   header.site .hright { order:2; margin:0 0 0 auto; }
   header.site .hsearch input { width:19rem; }
-  body:not(.home) header.site .browse-links { order:3; flex-basis:100%; margin-top:.15rem; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* much closer under the title than before -- Colin */
+  body:not(.home) header.site .browse-links { order:3; flex-basis:100%; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
