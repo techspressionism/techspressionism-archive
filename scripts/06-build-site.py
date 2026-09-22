@@ -2747,6 +2747,9 @@ def write_site_files(corpus):
             return out
         latest = changed("corpus", "data/people.json", "scripts/06-build-site.py")
         pages = [{"loc": base_home, "lastmod": latest}, {"loc": canonical_url("about.html"), "lastmod": latest}]
+        pages += [{"loc": canonical_url(f"{info['plural'].lower()}.html"), "lastmod": latest} for info in TYPES.values()]
+        if ARTIST_COUNT:
+            pages.append({"loc": canonical_url("artists.html"), "lastmod": latest})
         for x in corpus:
             thumb = canonical_url(f"thumbnails/{x['video_id']}.jpg")
             pages.append({"loc": canonical_url(f"{slug(x)}.html"), "lastmod": changed(f"corpus/{slug(x)}.md") or latest, "video": {

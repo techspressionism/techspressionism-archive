@@ -204,6 +204,8 @@ def main():
                 u = (u or "").strip()
                 if not u:
                     continue
+                u = re.sub(r"^([a-zA-Z]+)://", lambda m: m.group(1).lower() + "://", u)   # "Https://x.com" -> broken relative
+                                                                                            # link once rendered as an <a href> -- fix the scheme casing (source data typo, e.g. Chris Bly's site)
                 key = kind_of(u)
                 have = {x.rstrip("/") for x in rec["links"].get(key, [])}
                 if u.rstrip("/") not in have:
