@@ -160,11 +160,9 @@ And thank you so much for being part of the exhibition we really do appreciate i
 
 ## Nina Yankowitz [25:05](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1505s)
 
-Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the so here in this piece it's the smoke that's filling your lungs whether you can see it or not.
+Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the so here in this piece it's the smoke that's filling your lungs whether you can see see it or not. Just reminding that treating subjects as outliers, just as artists are treated as outliers, not into the mainstream vocabulary, which was a little bit of what was just presented, which I love that consciousness being presented, that we all have a voice and and we have something to say, and we hope that our community and others outside of our community will learn from it, experience it, and be excited about changing.
 
-Just reminding you that we're still working on this. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes. So I'm going to start with the Yes.
-
-So I'm going to start with the Yes. Our community and others outside of our community will learn from it, experience it, and be excited about changing things. It's really an act, a call to act, action, is something that I've used technology to portray my visions. That's it.
+It's really an act, a call to act, action, is something that I've used technology to portray my visions. That's it.
 
 ## Davonte Bradley [27:08](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1628s)
 
@@ -860,9 +858,7 @@ All right. Thank you, Lee. Thanks, Lee. All right. And then we have Megin. Thank
 
 ## Negin Ehtesabian [01:49:08](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6548s)
 
-Work I have to say. It's that thing. So I'm going to show you the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte. And you can see the obilte.
-
-And you can see the obilte. To make an archive of passing time and emotions and yeah, the kind of archiving time and expressions. So I brought them into a self-portrait also combining with this paradoxical time that we actually living in, like a lot of good things happening, excitement, sharp colors and brightness and decide all these bad experiences we have in here and everything. And also the COVID and all the past year emotions, I try to mix them, express them in this piece.
+Work me in the show. Thank you, Colleen and Patrick and Davante for all the salons and exhibitions and all the effort. As some of you know, I'm working on this project, making this journal with visual data to make an archive of passing time and emotions and, yeah, the kind of time and so I brought them into a self-portrait also combining with this paradoxical time that we actually living in, like a lot of good things happening, excitement, sharp colors and brightness and decide all these bad experiences we have in here and everything. And also the COVID and all the past year emotions, I try to mix them, express them in this piece.
 
 Also, I want to announce that me and Sahar Moussavi are making this Iranian Expressionist group and we are working on this project called the Iranian Expressionist Community. And to first introduce the Expressionism to Iranian community and translate some of some part of the movement or approach and talk about artists. Thank you. And yeah, we are so honored to be part of this community.
 

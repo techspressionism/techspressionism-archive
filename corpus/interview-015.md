@@ -191,15 +191,15 @@ Are you able to see the screen? Can you see this at all? Yeah. All right. Let me
 
 And it was created for the Hampton Virtual Art Fair in 2020. And this was their first try at doing anything digital. And I first started using the computers. And I was like, I'm going to make this zoom in. We can go back to me. Oh, this is. This is. In terms of understanding and thinking about virtual.
 
-Yeah. Beautiful. So. So basically. Exploring ways to get my digital out of the computer. Physical media. Okay. Yeah. Printers using. Our computers. And the also. And the so-called. Pices. And the. And the. And the. And the. And the. And the. And the. And the.
+Yeah. Beautiful. So. So basically. Exploring ways to get my digital out of the computer. Computer in physical media, okay? And these printers using archival inks weren't available until fairly recently. Now you can print paintings on canvas. So a painting that you see is like this at these scales on canvas. And they're actually stretched and framed, okay? And they've been shown in exhibitions physically as well as virtually like that.
 
-## Roz Dimon [17:08](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1028s)
+## Roz Dimon [17:09](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1029s)
 
-And the. And the. And the.
+Do you make them into editions or are they original? Do you make them originals or how do you deal with that?
 
-## Darcy Gerbarg [17:15](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1035s)
+## Darcy Gerbarg [17:14](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1034s)
 
-And the. And the. And the. And the. And the. And the. I'm doing the additions of 150 of smaller scale pieces like 18 by 18 or something like that. Yeah, and I'm doing some of these images, smaller scale as an addition, and others as additions I've just started that we'll see how that goes. So, since 2016 I've been painting with colored light with tilt brush and taking the unity model to the world in a few different ways.
+Everything at these scales is an this scale. However, I've decided to make editions of 150 of smaller scale pieces, like 18 by 18 or something like that. Yeah. And I'm doing some of these images, smaller scale as an edition. Additions I've just started that we'll see how that goes. So, since 2016 I've been painting with colored light with tilt brush and taking the unity model to the world in a few different ways.
 
 I said I learned about, okay I didn't. I learned about cropping images in Larry Poon's studio one day when I was there with Glenn Greenberg. Larry as you know, takes buckets of paint, throws them at the wall which is complete, his walls are completely covered. Ceiling to floor in canvas, and he throws paint at them, and it all drips down. This is one way that he was working at that time. He's done other things.
 
@@ -309,7 +309,7 @@ Hold on, it's hard to hear you with the music. Oh,
 
 ## Unattributed [23:00](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1380s)
 
-Sorry. Oh, thank you. I didn't know where that was. That's good. All of the bad feelings after something. Here is the rainbow, wow. Rainbow. Right, right. Right to the shining bed. It's the same. The same. The same. The same. The same. The same. The same. The same. The same. Uh I can see all obstacles is it's gonna be hey is
+Sorry. Oh, thank you. I didn't know where that was. That's good. All of the bad feelings after something. Here is the rainbow, wow. Rainbow. I can see fear obstacles is it's gonna be hey is
 
 ## Roz Dimon [25:32](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1532s)
 
@@ -621,27 +621,21 @@ What's really good today. Is harder than ever. And I think that. And I'm wonderi
 
 ## Roz Dimon [45:03](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2703s)
 
-Or it may not be recognized until someone finds the correct work. And I know a lot
+Or it may not be recognized until until someone finds the capsule, you know, out there in space in the future or something of
 
-## Darcy Gerbarg [45:13](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2713s)
+## Darcy Gerbarg [45:12](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2712s)
 
-Of the people.
+Actually a friend of mine put something in the capsule that's out there.
 
 ## Roz Dimon [45:17](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2717s)
 
-I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. I know. Continue to rise and um I think there's some interesting people like yourself who were doing
+No, it is a very, we're in a huge shift. I agree. And, um, and, uh, I didn't expect really an answer, but I think you're, you're very thoughtful about it. And it's interesting. I, I, I feel we're in a whole visual vocabulary, rising visual vocabulary, and some of it's pretty ugly, it'll continue to rise.
+
+And I think there's some interesting people like yourself who were doing really-
 
 ## Darcy Gerbarg [45:42](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2742s)
 
-I'll give you one other gem from clem greenberg I took him to see the computer art exhibition at ibm that cynthia goodman curated yeah
-
-## Roz Dimon [45:51](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2751s)
-
-Started
-
-## Darcy Gerbarg [45:51](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2751s)
-
-Everson museum and then traveled to several places and but it was funded by ibm yes I saw that show ibm museum I took clem greenberg to see it and we walked through the whole exhibition looking at everything as his want he looked he's probably he probably had seen more artwork on earth than any other living human being period okay and he loved all different kinds of art he wasn't just fixated on one kind of art at all not at all and the big question we were all everybody was asking at that time about art made with computers was whether it was art or not okay you remember oh yeah of course some of them still are so I said to clem after we came out of that art exhibition I said to clem what do you think is it art and he said to me it might be art but it's bad art hmm
+I'll give you one other gem from Clem Greenberg. I took him to see the computer. Exhibition at ibm that cynthia goodman curated yeah started everson museum and then traveled to several places and but it was funded by ibm yes I saw that show ibm museum I took clem greenberg to see it and we walked through the whole exhibition looking at everything as his want he looked he's probably he probably had seen more artwork on earth than any other living human being period okay and he loved all different kinds of art he wasn't just fixated on one kind of art at all not at all and the big question we were all everybody was asking at that time about art made with computers was whether it was art or not okay you remember oh yeah of course some of them still are so I said to clem after we came out of that art exhibition I said to clem what do you think is it art and he said to me it might be art but it's bad art hmm
 
 ## Roz Dimon [46:52](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2812s)
 
@@ -677,27 +671,19 @@ No, no, not, no, I'm not saying that. I'm not. But I'm, well, maybe I am. It's p
 
 ## Darcy Gerbarg [48:41](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2921s)
 
-That's not true. That has not usually been the case through the history of art, number one.
+That's not true. That has not usually been the case through the history of of art number one well
 
 ## Roz Dimon [48:48](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2928s)
 
-Well, if you don't know art history and you go back and look at Giotto, you know, you go, oh, well, I'm not sure. I know.
+If you don't know art history and you go back and look at jotto you know you go oh look at this painting this isn't so great you know according to like renaissance
 
 ## Darcy Gerbarg [48:57](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2937s)
 
-I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work. I like the work.
-
-## Unattributed [49:09](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2949s)
-
-I like the work. I like the work.
-
-## Darcy Gerbarg [49:11](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2951s)
-
-I like the work. I like the work.
+But you have to know what he did they might not understand it but there's no sentient being being who wouldn't recognize the quality of something like that it's amazing you do I think education You don't need our training to appreciate really good artworks. You don't.
 
 ## Roz Dimon [49:17](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2957s)
 
-I like the work. Because I think it's a worthy discussion. It's a good one, but I don't want to just get halfway.
+I'm not sure about that, but you know, maybe we leave that for another discussion. Because I think it's a worthy discussion. It's a good one, but I don't want to just get halfway.
 
 ## Darcy Gerbarg [49:29](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2969s)
 
@@ -705,4 +691,4 @@ I think we don't want to go because it's too big a topic. I agree with you.
 
 ## Roz Dimon [49:32](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2972s)
 
-Yeah, it's too big a topic. And we want to keep it focused on your work today. And that's been really great. And it's been really wonderful to talk with you and thanks for sharing it. And I'm sure I'll see you at a future Techspressionism Salon. And since you're recording this, I'm going to ask that you stop the recording.
+Yeah, it's too big a topic and we want to keep it focused on your work today. That's been really great. And it's been really wonderful to talk with you and thanks for sharing it. And I'm sure I'll see you at a future Techspressionism Salon. And since you're recording this, I'm going to ask that you stop the recording.

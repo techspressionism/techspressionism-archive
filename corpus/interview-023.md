@@ -141,11 +141,11 @@ Because we like to. Think. Of the ability of things to be. Perfectly symmetrical
 
 ## Unattributed [17:51](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1071s)
 
-And then. I'll show you. A little bit of. The. The. The. The. The. The. The. The. The. The. The. The. The. The.
+And Thank you.
 
 ## Suzanne Anker [18:34](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1114s)
 
-And that's to eric satis music so I think that that video shows the brain in action and the kind of core choreography of thought that takes place when we view works of art and that includes art made by technology technology well
+And that's to eric satis music so I think that that video shows the brain in action and the of core choreography of thought that takes place when we view works of art and that includes art made by technology technology well
 
 ## Helen A. Harrison [19:02](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1142s)
 
@@ -169,7 +169,7 @@ Then when you uh arrived at the image that you wanted you how do you translate i
 
 ## Suzanne Anker [20:46](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1246s)
 
-You run it through a software program because basically maya which is the program we used creates a third dimension okay what you do normally is you run it through a process of curing and compiling and then you just let that pass and it just goes on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on access so that's what interested me first was using the technology
+You run it through a software program because basically maya which is the program we used creates a third dimension okay what you do normally is you run it through a process of curing and compiling If you wanted to make a painting three-dimensional, then you would have to create a third axis. And through this software, you can extrude and extrapolate the data in order to make a third axis. So that's what interested me first was using the technology.
 
 ## Helen A. Harrison [21:40](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1300s)
 
@@ -217,13 +217,11 @@ And what. What kinds of iconography are. Are. Developing right now. Because we h
 
 ## Helen A. Harrison [26:31](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1591s)
 
-Yeah, quite right. But there are also the consideration that. Once you've decided. Excuse me. Once you've decided that you want to use this technology and you have. An aim in mind, you have a goal for it, that this is going to give you X, Y, Z result. So. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that. You can't do that.
-
-You can't do that.
+Yeah, quite right. But there are also the consideration that. Once you've decided. Excuse excuse me, once you've decided that you want to use this technology and you have an aim in mind, you have a goal for it, that this is going to give you X, Y, Z result. When you learn the nuances of the technique, that might lead you in a whole other direction that you hadn't even envisioned before. So as with any medium, it has its own life, it has its own qualities, its own properties, its own character, and you might not have even thought of it until you actually start manipulating it.
 
 ## Suzanne Anker [27:12](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1632s)
 
-You can't do that. You can't do that. Rapid prototype machine for newer sculptures that are quite different and and then I'm always surprised by the outcome because it's not a hands-on experience it's kind of a mental experience of of choosing the different ways to model the item and you're not sure what you are going to get as a final result it's a collaboration with the machine and and sometimes the machine teaches you things
+I agree, and I've continued to use the rapid prototype machine for newer sculptures that are quite different, and that I'm always surprised. The outcome because it's not a hands-on experience it's kind of a mental experience of of choosing the different ways to model the item and you're not sure what you are going to get as a final result it's a collaboration with the machine and and sometimes the machine teaches you things
 
 ## Helen A. Harrison [28:02](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1682s)
 

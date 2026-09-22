@@ -75,9 +75,9 @@ Yeah, that's great. Yeah, yeah. Plant Bot Genomics. Sure, exactly. And then Isab
 
 And actually, believe it or not, from that rendering that I did. Oh, by the way, just back to the judges. Cynthia Beth Rubin, Nagin. Wade Waller-Cern from Transfer Gallery in Los Angeles, and now head of Gray Area. Brandon. And is that four? And, oh, and of course, Roger Boulay, who's our gallery director as well. So that's, you know, fantastic.
 
-And the other thing I do want to say is that we had people from the Midwest Music Fest, you know, my academic partner. And we've had so many very great team members. So I'm really happy to be here. And I'm really happy to be with you and this year. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. The lead directors of IDMA and they just looked at what we're doing. I think two things that I say is that first, I'm just absolutely thrilled that so many people have been willing to come together on an ad hoc basis and put in and do just give so much help.
+And the other thing I do want to say is that we had people from the Midwest Music Fest, you know, my academic partner. On graphics and families of folks that we know in the area. And we're getting some support from the Winona State Foundation and the Minnesota Maritime Art Museum. And really, I think the one thing that has been, and we also just met with the lead directors of IDMA just looked at what we're doing and I think I think two things that I kind of say is that first um just absolutely thrilled that so many people have been willing to come together on an ad hoc basis and put in and do just give so much help. To put something like this and the IDMA directors looked and they just looked at the website which you will see just in a minute and they said, my god, we have never done anything like this.
 
-To put something like this and the IDMA directors looked and they just looked at the website which you will see just in a minute and they said, my god, we have never done anything like this. So we've got like 575 inch TVs like this, about eight or nine laptops and you can see that the space here is just absolutely gorgeous. So and I think that's it for this webinar. That um let's see what I think I would like to do right at this point is just kind of say does anybody have before we start going into any raised raised hands um does um does anybody have any questions or you know about winona or you know that you know or the venue or or whatnot
+So we've got like 575 inch TVs like this, about eight or nine laptops and you can see that the space here is just absolutely gorgeous. So and I think that's it for this webinar. That um let's see what I think I would like to do right at this point is just kind of say does anybody have before we start going into any raised raised hands um does um does anybody have any questions or you know about winona or you know that you know or the venue or or whatnot
 
 ## Colin Goldberg [13:05](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=785s)
 
@@ -91,15 +91,15 @@ So not so bad you know it's actually I think we have as many expressions as woul
 
 ## Colin Goldberg [16:31](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=991s)
 
-Nice and I I appreciate that and I also wanted to mention you know the idea of nodes is not necessarily just limited to countries like there could be a localized node in a state or region of the us for instance you know like I feel like it's just a way for artists to get together on a local level and try to like put some something together um that would be physical exhibition or what have you you know but I appreciate the you know the inclusion of uh a lot of the the expressionist artists um it's awesome to be able to see that it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's
+Nice and I I appreciate that and I also wanted to mention you know the idea of nodes is not necessarily just limited to countries like there could be a localized node in a state or region of the us for instance you know like I feel like it's just a way for artists to get together on a local level and try to like put some something together um that would it'd be physical exhibition or what have you, you know, but I appreciate the, you know, the inclusion of, uh, a lot of the, the Techspressionist artists. Um, it's awesome to be able to, you know, uh, use it, use Techspressionism as a platform to share opportunities.
 
 ## Patrick Lichty [17:09](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1029s)
 
-It's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's
+Sure. Sure. Sure. Sure. Is that, uh, um, let's see here. Uh, let's, let's open the, um, Let's open the floor to Roz.
 
 ## Roz Dimon [17:19](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1039s)
 
-It's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's have an immediate question but one thing that I just want to say that I appreciate because I live so much online now it's like I feel divided um that it's really nice that you showed the physical building and you know columbia and the the that I found that a nice way to engage um our two worlds together and and when we do shows I think that's really nice uh one thing we did with Techspressionism we we did that only a little bit when we you know went inside every artist piece and everything we're usually inside and um and that's great to see the inside too but I I really thought it was great to get a history and and a little review of the building and bring it into context since we're an international group and I just
+Hi, Patrick. I didn't have an immediate question, but one thing that I just want to say that I appreciate, because I live so much online now, it's like I feel divided, that it's really nice that you showed physical building and you know columbia and the the that I found that a nice way to engage um our two worlds together and and when we do shows I think that's really nice uh one thing we did with Techspressionism we we did that only a little bit when we you know went inside every artist piece and everything we're usually inside and um and that's great to see the inside too but I I really thought it was great to get a history and and a little review of the building and bring it into context since we're an international group and I just
 
 ## Unattributed [18:05](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1085s)
 
@@ -139,11 +139,9 @@ Yeah, so now... Okay, now let me share my screen here. Okay. Got to remember to 
 
 So that's something else to bear in mind.
 
-## Unattributed [27:27](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1647s)
+## Unattributed [27:28](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1648s)
 
-We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second. We're going to see it in a second.
-
-We're going to see it in a second. I'm sorry.
+Thank you. Thank you.
 
 ## Patrick Lichty [28:47](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1727s)
 
@@ -305,31 +303,19 @@ Can I share the screen, please?
 
 ## Colin Goldberg [40:48](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2448s)
 
-You should be able to. Okay.
+You should be able to.
 
 ## Malavika Mandal Andrew [40:50](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2450s)
 
-Okay. Yeah, I got it.
-
-## Unattributed [40:58](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2458s)
-
-Okay. Okay. Okay. Okay.
-
-## Patrick Lichty [41:08](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2468s)
-
-Okay.
-
-## Unattributed [41:09](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2469s)
-
-Okay. Okay. Okay. Okay. Okay. Okay. Okay.
+Okay, okay. Yeah, I got it.
 
 ## Patrick Lichty [41:34](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2494s)
 
-Okay.
+Mr.
 
 ## Malavika Mandal Andrew [41:35](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=2495s)
 
-Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Because of this I got connected to Patrick's and thank you, Itma, for selecting my work. Now inspiration is always for me is the elements of life. I thought of that work I'll be showing later, but I thought of sharing some of the images which I have used during this pandemic. I mean, which was totally unplanned, as you said, unusual because it was not part, we never thought of something will happen like that, which was very weird for me. So this technology always kept me engaged with the art and I was doing a lot of photography inside the house and which later on, because of this screenshot and different, all different possibilities, I converted that into combined images.
+Paul, thank you to the tech experts in Ceylon. Now, because of this, I got connected to Patrick's. And thank you, Itma, for selecting my work. Now, inspiration is... For me is the elements of life. I thought of that work I'll be showing later, but I thought of sharing some of the images which I have used during this pandemic. I mean, which was totally unplanned, as you said, unusual because it was not part, we never thought of something will happen like that, which was very weird for me. So this technology always kept me engaged with the art and I was doing a lot of photography inside the house and which later on, because of this screenshot and different, all different possibilities, I converted that into combined images.
 
 Like these are all the images I have developed on the on phone only through the screenshot. And later on, I have used these all different images for creating and developing my work, which is getting exhibited. And I have also created a lot of images for the! Now, the most important part is for me, the all the photographs, which I take is like sketches for me. And I have whatever extent of this weird or you can see these kinds of effects I have gone through is because of the technology.
 
@@ -441,7 +427,15 @@ Oh, yes. Yes, some expressionism Iran artist wants to talk. So I think she had a
 
 ## Colin Goldberg [50:41](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3041s)
 
-Sure. So she says, hello, friends. I hope you are fine. I'm very happy to be with you and for my work being displayed in 2022 weekend. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. And I'm really happy to be with you. More than 26 times in different festivals. I've been working on NFT for more than a year. I love details. My pseudonym is Miko, which I have taken from the word microscope.
+Sure. So she says, hello, friends. I hope you are fine. I'm very happy to be with you and for my work being displayed displayed in 2022 Weird Media Exhibition. I am, can you pronounce the name? Asra?
+
+## Negin Ehtesabian [50:58](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3058s)
+
+Asra Gharakhani.
+
+## Colin Goldberg [51:01](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3061s)
+
+Okay, thank you. And I am 32 years old. I've been working in the field of digital art and graphics for 17 years. I've been a physical artist for a few years, and I've worked mostly with Conte pencils and oil paints, and then I started to work with digital pens. I've held several exhibitions and have been ranked more than 26 times in different festivals. I've been working on NFT for more than a year. I love details. My pseudonym is Miko, which I have taken from the word...
 
 My works are mostly composed of faces, which are combinations of faces and girls and sea creatures. The name of this work is Mirashellen. It's a girl seagull with a net on its head. Inside, in which small fish are trapped, seagulls catch small fish. This is a natural law that helps the cycle of nature.
 
@@ -475,11 +469,11 @@ Yes. Yeah, okay.
 
 ## Unattributed [55:49](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3349s)
 
-So I said, we're going to see this with the piece you just seen. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story. So I'm going to start with the story.
+So I said, we're going
 
 ## Uli Ap [56:44](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3404s)
 
-And this is the exhibition, At Ambika P3, with my other work, and I have a photo show there, and this is where the brainy eye was installed, and it's so saturation.
+And this is the exhibition at Ambika P3 with my other work, with Akselo Scholder, and this This is where the brainy eye was exposed and exposed saturation.
 
 ## Unattributed [57:29](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3449s)
 
@@ -633,27 +627,23 @@ And I'm just going to say a few things. And I'm just going to say a few things. 
 
 So yeah. And there's another piece that she, we have on display as well as says I'm not a robot. So in her recent work, she's saying that a lot of her work is re-examining our humanity and saying, you know, and reflecting on this idea that, that the computer network asks us whether we're a robot or not, which if you think about that from a, you know, from a, from, just kind of a situational perspective, that's a really weird thing. In other words, if you're the network is asking you whether you're a robot or not. And yeah, of course we say, of course we're not, but what if you were, and then, then, then I think that's when the story gets really interesting. So that's it. So I don't know whether Giovanna is a robot or not, but you know hope not.
 
-Let's see here. Let's go back. Let's go back to the gallery. Let's see here. Have some more people from the, we have Marjan, Ghazaleh, Seda Badi, Azra, Azra is that, I think I saw you out in the audience. Do you want to say anything about your work or? You know, you're an object.
+Let's see here. Let's go back. Let's go back to the gallery. Let's see here. Have some more people from the, we have Marjan, Ghazaleh, Seda Badi, Azra, Azra is that, I think I saw you out in the audience. Do you want to say anything about your work or? You these otherworldly creatures that hunt from the sea.
 
 ## Roz Dimon [01:11:14](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4274s)
 
-So I'm just going to say I'm
+I think Nagin showed us these when you were away.
 
 ## Unattributed [01:11:16](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4276s)
 
-So .
+Oh, I'm so sorry.
 
 ## Victor Acevedo [01:11:17](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4277s)
 
-It's so great.
+You know what she did?
 
-## Unattributed [01:11:18](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4278s)
+## Patrick Lichty [01:11:18](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4278s)
 
-And I'm so happy to be at the QVC. And I'm so happy to be with you. And I'm so happy to be with you. And I'm so happy to be with you. And I'm so happy to be with you. And I'm so happy to be with you.
-
-## Patrick Lichty [01:11:22](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4282s)
-
-And I'm so happy to be with you. And I'm so happy to be with you. I'm just kind of going down through the Marzano, Casale, and then is there anybody else we should talk about? Subir's piece is algorithmic, which is kind of interesting. This is a landscape that's all done as kind of an HTML table piece that loads in live on a browser, which is kind of interesting. We've got this set up with iPads, and then actually for one of our pieces, we've got Irshad Fatahian, so kill so you don't get killed. This is actually also an NFT, where you have something orbiting around, I guess, perhaps Mars. But the one thing I really like about his work is that he...
+She said that. You know they're wonderful. I'm so sorry. Anyway, I just blanked. So that's all right. I'm just kind of going down through the Marzan and then anybody else we should talk about? So, Sue Byers piece is algorithmic. Is kind of interesting. This is a landscape that's all done as kind of an HTML table piece that loads in live on a browser, which is kind of interesting. We've got this set up with iPads, and then actually for one of our pieces, we've got Irshad Fatahian, so kill so you don't get killed. This is actually also an NFT, where you have something orbiting around, I guess, perhaps Mars. But the one thing I really like about his work is that he...
 
 You know, he takes these classic elements and, you know, works them, juxtaposes them with the classic book of the king, the Persian book of the kings, the Shahnaneh, and I think they're really humorous, actually. And I think last one of the other pieces we have is Farnisdor Gar, who I don't know, is it... Being that actually Winona is a fairly religious town, I thought this was very interesting, very Catholic, actually. So I thought it was a very interesting piece that, you know, she's dealing with the notion of the icon and a little bit with the kind of like the gangsta pixel glasses and kind of owning this person. I'm not exactly sure what's going on here, but...
 
@@ -805,9 +795,7 @@ Oh, it seems to be running slowly, but people get the idea. Yes, the exhibit was
 
 ## Patrick Lichty [01:21:53](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4913s)
 
-Fantastic. Okay. Thank you so much. Well, this is so far been quite an evening. And as I said, I'm trying to like, step in for Davo just a tiny bit, you know, it's that is, well, this has been quite an evening. And the no, but really, the one thing that I really want to thank everybody for is that I want to thank everybody for their support of the, for the expert exhibition, the project is that our institutional partners are really thrilled with the new design. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to be here.
-
-And I'm really happy to be here. And I'm really happy to be here. And I'm really happy to everything they're seeing and you know and let's see here the director of the Minnesota you know Maritime Art Museum is going to be at the opening and of course we have a catalog that'll be coming out next week and so more more chances to give some money to blurb so but we'll be we'll be selling you that cost and then anyhow and and as a as an a as as a pdf and I think what happens is that since we are almost at the cutoff point I want to ask whether anybody has any other comments or questions if not we'll we'll and I also want to thank Cynthia for being one of our esteemed judges you know it was your your input was really really valuable and um so and um let's see here anybody has anything else to say and um or shall we shall we call it a night
+Fantastic. Okay. Thank you so much. Well, this is so far been quite an evening. And as I said, I'm trying to like, step in for Davo just a tiny bit, you know, it's that is, well, this has been quite an evening. And the no, but really, the one thing that I really want to thank thank everybody for is that I want to thank everybody for their support of the for the exhibition the project is that our institutional partners are really thrilled with everything they're seeing and you know and let's see here the director of the Minnesota you know Maritime Art Museum is going to be the opening and of course we have a catalog that'll be coming out next week and so more more chances to give some money to blurb so but we'll be we'll be selling you that cost and then anyhow and and as a as an a as as a pdf and I think what happens is that since we are almost at the cutoff point I want to ask whether anybody has any other comments or questions if not we'll we'll and I also want to thank Cynthia for being one of our esteemed judges you know it was your your input was really really valuable and um so and um let's see here anybody has anything else to say and um or shall we shall we call it a night
 
 ## Colin Goldberg [01:23:37](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5017s)
 
@@ -815,21 +803,27 @@ Well I just wanted to uh thank you Patrick for you know putting this um together
 
 ## Patrick Lichty [01:23:57](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5037s)
 
-One more thing actually so uh to kind of front load you know kind of uh you know let's let's just say let's all meet let's all meet around this next year is that the next um the next show is going to be um called wild media okay so in other words the idea of like rewilding spaces or then how can we how can we you know you know it do the look at the notion of uh wild or wilding or the notion of ferality you know in in media you know what is what is media in the wild or what is media that represents um you know something that we're you know interested in as a species is possibly rewilding our environment so I put that forth and I I think I thank everybody uh so much for your time and I I as and as always I'm deeply deeply grateful to my wife and partner of all thing in all things Nagin Etisabian for all her amazing amazing help in this project and everything else doesn't need to be said so thank you thank you thank
+One more thing actually so uh to kind of front load you know kind of uh you know let's let's just say let's all meet let's all meet around this next year is that the next um the next show is going to be um called wild media okay so in other words the idea of like rewilding spaces or then how can we how can we you know you know it do the look at the notion of uh wild or wilding or the notion of ferality you know in in media you know what is what is media in the wild or what is media that represents um you know something that we're you know interested in as a species is possibly rewilding our environment so I put that forth and I I think I thank everybody uh so much for your time and I I as and as always I'm deeply deeply grateful to my wife and partner of all thing in all things Nagin Etisabian for all her amazing amazing help in this project and everything everything else doesn't need to be said so thank you thank you thank
 
 ## Cynthia Beth Rubin [01:25:20](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5120s)
 
-You okay okay
+You
 
-## Patrick Lichty [01:25:25](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5125s)
+## Patrick Lichty [01:25:24](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5124s)
 
-All right all right all right all right all right all right all right all right all right all
+Okay okay shall we do it shall we do a count shall we do a countdown that sounds good um speaking
 
 ## Colin Goldberg [01:25:31](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5131s)
 
-Right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right all right You know, I didn't add any profit to it. That's just what blurb charges to make a book on demand, you know, which is a little bit steep. But one thing that is kind of a little Easter egg, I don't know if I can actually illustrate this on screen here. Do you have some? There is actually if you point the Art of Vive app at the back cover, it does it turns into the drone fly through.
+Of uh of catalogs I'll give the um the uh obligatory um little marketing push that we now have our catalog hard copy and
 
-Very nice. Pretty fun. That's great. One incentive to get the hard copy. But there are a lot of good essays in the book. We have artist text. Well, Helen Harrison wrote the introduction, which is amazing. Then we have artist text from Suzanne Anker, Frank Gillette, myself, Patrick. Don't read that. Steve Miller, Joseph McFatale, Felix Rothschild, Christine Schooley and Anne Spalter.
+## Unattributed [01:25:43](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5143s)
+
+Also available at textfreshenism.com
+
+## Colin Goldberg [01:25:46](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5146s)
+
+As a free download. You know, it's 28 bucks, which is basically cost. You know, I didn't add any profit to it. That's just what blurb charges to make a book on demand, you know, which is a little bit steep, but one thing that is kind of a little Easter egg. I don't know if I can actually. This on screen here. Do you have some? There is actually if you point the Art of Vive app at the back cover, it does it turns into the drone fly through. Very nice. Pretty fun. That's great. One incentive to get the hard copy. But there are a lot of good essays in the book. We have artist text. Well, Helen Harrison wrote the introduction, which is amazing. Then we have artist text from Suzanne Anker, Frank Gillette, myself, Patrick. Don't read that. Steve Miller, Joseph McFatale, Felix Rothschild, Christine Schooley and Anne Spalter.
 
 ## Unattributed [01:26:48](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5208s)
 

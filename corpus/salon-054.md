@@ -349,7 +349,7 @@ Maybe. Okay.
 
 ## Max Dalí / Kamilla Kulova [42:05](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2525s)
 
-Okay. Okay. Okay. Okay. Yeah. That's what I'm blabbering. He's your friend. He's like, he's like, are you going to let me have aty? He's like, is it an 18 or something? You're like, is it a everything? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? You're like, is it a thing? To use the Brazilian culture to mix with the traditional Brazilian culture, mixing and facing the new world, the world free and things like that. So this characteristic bird is a Bentevi and is known as the one that brings the novelties during the early morning.
+Okay. Okay. Okay. Okay. Yeah. That's what I'm blabbering. Was about a bird. I saw a bird in the first presenter. And it's a typical bird of Brazil. It's 15 years that I'm living in Brazil. And I wanted to use the Brazilian culture to, oh my gosh, to... The traditional Brazilian culture, mixing and facing the new world, the world free and things like that. So this characteristic bird is a Bentevi and is known as the one that brings the novelties during the early morning.
 
 But is at the same time a symbol of tradition. So I chose this bird. And I have done a really different elaboration on this picture of the bird. To tell a story. Every picture here is a different story. There is a road story that is a Bentevi that tells this story and talks with the public. And is the meeting between this tradition and the world changing and the craziness of web 3.
 
@@ -635,35 +635,111 @@ So I'm just going to take the music. And I'm going to kind of start this one in 
 
 ## Unattributed [01:04:07](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3847s)
 
-We're going to get you in the music. I'm sorry. I'm sorry.
+We're going to get you in the music.
 
-## Karen LaFleur [01:05:18](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3918s)
+## Karen LaFleur [01:05:14](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3914s)
 
-I'm sorry.
+And I'll stop it there. That's what I've been up to. Wow, it's beautiful. Thank you.
 
-## Davonte Bradley [01:06:12](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3972s)
+## Davonte Bradley [01:05:29](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3929s)
 
-I'm
+That is really pretty and how long have you been working on that
+
+## Karen LaFleur [01:05:36](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3936s)
+
+Probably since the summer on that one if that one's finished I still have to do another one in a week and a half oh that
+
+## Davonte Bradley [01:05:45](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3945s)
+
+One took you the whole summer
+
+## Karen LaFleur [01:05:47](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3947s)
+
+Off and on between the ocean project the ocean one had to be completed the three animations by by the end of August. Right, right. So they're done with all the artwork. There's 21 pieces of artwork and three animations. Wow. And then this one will have the two animations, hopefully, if I get the other ones on.
+
+## Davonte Bradley [01:06:07](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3967s)
+
+Nice. Thank you. Well, I'm glad you shared that because it looks amazing so far.
 
 ## Karen LaFleur [01:06:14](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3974s)
 
-Sorry. I'm sorry. I'm sorry.
+Well, I'll give you the URL to the other show next time we meet because it'll be up by then.
 
-## Davonte Bradley [01:07:16](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4036s)
+## Michael Pierre Price [01:06:19](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3979s)
 
-I'm sorry.
+Gotcha.
 
-## Allen Hirsh [01:07:53](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4073s)
+## Unattributed [01:06:20](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3980s)
 
-I'm sorry. I'm sorry. I'm sorry.
+All right.
 
-## Lucy Boyd-Wilson [01:09:27](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4167s)
+## Michael Pierre Price [01:06:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3982s)
 
-I'm sorry. I'm sorry. I'm sorry. I'm sorry. Thank you. Lucy,
+Karen, could you explain the title?
 
-## Michael Pierre Price [01:10:19](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4219s)
+## Karen LaFleur [01:06:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3985s)
 
-What I really like about not only your work in particular but the actual presentation in a dome, what I find a strength of that is that you have the immersive quality but you also have the specific artists viewpoint there. Like with VR. Are you can get in places or do things that aren't necessarily the strict vision of the artist because like in a completely immersive environment you can kind of go wherever the artist lets you go but it isn't necessarily what the artist had envisioned and so that's what I like about your the dome projection standpoint is that you're inside and you're seeing the artist's vision from inside and I think that's really cool so I wish I could have made it to your show there though sorry
+Balancing? Well, the whole film goes, it's balancing, it starts off the mechanical end, and then nature sort of grows through it. So that in the end, there's sort of a balance of both nature and human invention, rather than human invention taking over.
+
+## Michael Pierre Price [01:06:42](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4002s)
+
+Okay, cool. Because it looks very mechanistic, but then it also has that nature vibe on top of it.
+
+## Karen LaFleur [01:06:50](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4010s)
+
+Just kind of curious what the title meant thank you yeah that's what it is and the nature sort of grows a little bit more as time goes through it yes
+
+## Allen Hirsh [01:06:58](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4018s)
+
+Okay all
+
+## Unattributed [01:07:03](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4023s)
+
+Right
+
+## Allen Hirsh [01:07:05](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4025s)
+
+Well
+
+## Davonte Bradley [01:07:07](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4027s)
+
+Thank you so much for sharing karen and do we have anyone else see what's we're losing a couple people because because time's going, well, we're getting slightly close to time, but still got a solid
+
+## Allen Hirsh [01:07:24](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4044s)
+
+40-ish minutes.
+
+## Davonte Bradley [01:07:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4045s)
+
+Do we stop at 7.30 or 7?
+
+## Colin Goldberg [01:07:29](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4049s)
+
+No, we stop at 7, so we're doing an hour and a half sessions. Yeah. We'll go to 7.05 or so since we started a little bit late.
+
+## Allen Hirsh [01:07:40](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4060s)
+
+I have a comment that I wanted to direct to Lucy if there's time.
+
+## Davonte Bradley [01:07:47](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4067s)
+
+Still here? Yes, she is. Okay.
+
+## Allen Hirsh [01:07:49](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4069s)
+
+Hi, Lucy. I really enjoyed seeing your video in past salons, that particular video, and seeing it online. I think I saw it on Instagram. The thing that I find really interesting about what you were talking about today in this immersive experience in a kind of a global room is how unifying that must feel for all the participants and how it's a counterpoint to AR.
+
+You know, with AR, you're in an Oculus, you know, you feel as though you're in a place, you may even feel that there are others there. But here where, you know, the human human element is so high. You're there together experiencing this whole immersive experience on the ceiling and the walls together.
+
+And I think that's really, you know, so remarkable and so human.
+
+## Lucy Boyd-Wilson [01:08:49](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4129s)
+
+Yes, exactly. I mean, they're both extremely immersive mediums. Virtual reality is, is you know very immersive and it's you know you're really in amongst the stuff and that full that full to immersion of your senses um and your peripheral vision and it impacts your sense of balance and it really has a different feeling you experience it in a in a completely different bodily way um this particular experience that I created I mean in in vr you you can see everything above you and everything below you as I'm floating up into the tree or through the roots I can look down so the dome experience is only half of that it's only above you but absolutely right the the the difference in being in a in a shared experience where you know you are with an audience and and everybody is you know experiencing it at the same time is is is is beautiful so both both those mediums as far as being immersive they really both have very particular strengths and weaknesses and so I'm really enjoying exploring this dome immersion type of immersive media as well as virtual reality I really appreciate them both so thank you yeah
+
+## Michael Pierre Price [01:10:18](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4218s)
+
+Lucy what I really like about only your work in particular, but the actual presentation in a what I find a strength of that is that you have the immersive quality but you also have the specific artists viewpoint there. Like with VR. Are you can get in places or do things that aren't necessarily the strict vision of the artist because like in a completely immersive environment you can kind of go wherever the artist lets you go but it isn't necessarily what the artist had envisioned and so that's what I like about your the dome projection standpoint is that you're inside and you're seeing the artist's vision from inside and I think that's really cool so I wish I could have made it to your show there though sorry
 
 ## Lucy Boyd-Wilson [01:11:28](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4288s)
 
@@ -691,19 +767,19 @@ One eyeful well and and the other thing is like in completely immersive vr you d
 
 ## Lucy Boyd-Wilson [01:14:22](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4462s)
 
-Um you lose some of it and I totally understand the ways that you're meaning you! You lose your bodily experience of sort of like you know being seated in in place or standing um but you gain some of it in ways that it's so immersive that sensation of of your peripheral vision and how it impacts your sense of balance is really really uh very very physical yes so balance is a physical thing and when you're in vr that part of your system is much more activated than when you're grounded in a space like watching a movie or or in a dome experience so yes again lose some and and also gain some so it's just you know different different sensation thank you for your question or comments
+Um you lose some of it and I totally understand the ways that you're meaning you! You lose your bodily experience of sort of like you know being seated in in place or standing um but you gain some of it in ways that it's so immersive that sensation of of your peripheral vision and how it impacts your sense of balance is really really uh very very physical yes so balance is a physical thing and when you're in vr that part of your system is much more activated than when you're grounded in a space like watching a movie or or in a dome experience so yes again lose some and and also gain some so it's just you know different different sensation Thank you for your questions or comments.
 
 ## Allen Hirsh [01:15:25](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4525s)
 
-Always nice to have you on the show thank you so much for having me on the show thank you so much for being on the show right so plz have a good day of your day of your day of your day of your day of
+Always nice to have good discussions, right?
 
-## Davonte Bradley [01:15:32](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4532s)
+## Davonte Bradley [01:15:31](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4531s)
 
-Your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day of your day
+Okay, we are right at seven o'clock. Was there anyone that else had questions or comments for anybody else that may present wanted to maybe talk for five minutes about something that came up.
 
-## Colin Goldberg [01:15:55](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4555s)
+## Colin Goldberg [01:15:50](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4550s)
 
-Still recording if anybody does have a suggestion for the next salon in two weeks as far as a topic or format or anything like that um you know just opening up the floor for any kind of suggestions or ideas
+Well, I wanted to put something out if no one else is chiming in at this point, if since we're still recording, if anybody does have a suggestion for the next salon. Two weeks as far as a topic or format or anything like that um you know just opening up the floor for any kind of suggestions or ideas
 
 ## Allen Hirsh [01:16:17](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=4577s)
 
@@ -831,7 +907,7 @@ Um sometimes uh there are technical problems too like a connection and and thing
 
 ## Lucy Boyd-Wilson [01:32:42](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5562s)
 
-Also I wanted I wanted to suggest that if if we ever had um our sessions at like 10 or 11 in the morning um um yeah maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe then we could then then our european artists could actually um um be part of this I mean at our current time it's like 11 p.m is is the start in uk and europe and but if if we had morning sessions you know either regularly or or occasionally then we could totally hear from many other countries at least europe just
+Also, I want to suggest that if we ever had our sessions at like 10 or 11 in the morning, then we could, then our European artists could actually be part of this. I mean, at our current time, it's like 11pm is the start. In uk and europe and but if if we had morning sessions you know either regularly or or occasionally then we could totally hear from many other countries at least europe just
 
 ## Colin Goldberg [01:33:20](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5600s)
 
@@ -851,23 +927,23 @@ A few a few sessions ago there was a a topic that I was looking forward to and I
 
 ## Colin Goldberg [01:35:03](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5703s)
 
-You know I mean my my sort of um well this we could always like stop the recording and continue the conversation but um really my um my idealized version of what might happen would be that if people have an idea for a salon to volunteer to be the sort of moderator or organizer and you know pull people in from the index or however you think it might make sense that way it's more of a group um you know project in the sense that I you know I would really love for Techspressionism to be more of a platform for anyone who wants to bring ideas to life to be able to do that in a way that's more decentralized than you know what I mean um uh and then you know that might also be me just trying to like offload any work or responsibility is that it's not like you know not all of you can do it so it's not like you're like just like go do it we're all like we're all like we're all like we're all like we're all like we're all all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all like we're all
+You know I mean my my sort of um well this we could always like stop the recording and continue the conversation but um really my um my idealized version of what might happen would be that if people have an idea for a salon to volunteer to be the sort of moderator or organizer and you know pull people in from the index or however you think it might make sense that way it's more of a group um you know project in the sense that I you know I would really love for Techspressionism to be more of a platform for anyone who wants to bring ideas to life to be able to do that in a way that's more decentralized than you know what I mean um uh and then you know that might also be me just trying to like offload any work or responsibility people, which it is. But I think that also makes it a lot more interesting to, you know, allow the group to function in a much more democratic way or, you know, like having other people sort of like
 
-## Unattributed [01:36:29](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5789s)
+## Unattributed [01:36:30](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5790s)
 
-Like we're all like we're all
+That.
 
-## Michael Pierre Price [01:36:37](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5797s)
+## Michael Pierre Price [01:36:30](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5790s)
 
-Like the last half a dozen times or so.
+I mean, it has been interesting to see, you know, the moderator shift from person to person the last half a dozen times or so.
 
 ## Unattributed [01:36:40](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5800s)
 
 Absolutely.
 
-## Michael Pierre Price [01:36:40](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5800s)
+## Michael Pierre Price [01:36:41](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5801s)
 
-I really do. That was a good suggestion. And I think it's, plus we don't have to funnel everything through you, Colin. That way you're not having to be responsible for everything.
+That was a good suggestion. And I think it's, plus we don't have to funnel everything through you, Colin. That way you're not having to be responsible for everything.
 
 ## Colin Goldberg [01:36:55](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=5815s)
 

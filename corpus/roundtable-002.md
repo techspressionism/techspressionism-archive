@@ -88,15 +88,15 @@ What I did was I just took stills from the video. And you hear the original musi
 
 ## Unattributed [11:26](https://www.youtube.com/watch?v=S_q30BIvh8c&t=686s)
 
-. . .! There we are. Okay. . . . . . . . . . . . . . . . . . . . .
+. . .! There we are. Okay. …
 
 ## Michael Pierre Price [12:43](https://www.youtube.com/watch?v=S_q30BIvh8c&t=763s)
 
-. . . .
+…
 
 ## Roz Dimon [12:47](https://www.youtube.com/watch?v=S_q30BIvh8c&t=767s)
 
-. . .
+…
 
 ## Tommy Mintz [12:48](https://www.youtube.com/watch?v=S_q30BIvh8c&t=768s)
 
@@ -160,13 +160,13 @@ So just to keep things moving along here, you have the floor now, Tommy. Or the 
 
 And looking at the forms that I'm picking up in my work. So I guess this is recorded, so I should explain what's going on for anybody who's watching this in the future. I take a sequence of pictures and run them through an algorithm that I wrote that detects areas of difference, creating time lapse collages.
 
-And it's not AI. It's really pixel by pixel. What's different? If a pixel is lighter or darker or a different color, it gets added on. So there is no sort of edge detection or object recognition occurring. And that actually creates, I think, these interesting striking forms that don't make sense on first glance. But if you spend a little time letting, you know, sort of like pattern recognition, click through a couple, and you know, go back to the moment you were last looking for, and you're like, what's this? So you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see with as well.
+And it's not AI. It's really pixel by pixel. What's different? If a pixel is lighter or darker or a different color, it gets added on. So there is no sort of edge detection or object recognition occurring. And that actually creates, I think, these interesting striking forms that don't make sense on first glance. But if you spend a little time letting, you know, sort of like pattern recognition, click through a couple, I think is a playful way that digital presentation and language, you know, sort of interacts with our sort of understanding of, you know, what we sort of recognize as a thing in a place in a specific time.
 
-It's another similarity that I love with Renato's work where you sort of zoom in and you get a level of interaction and detail and information that, you know, if you zoom out, you have a very different maybe sort of sense of space, of place, of time, of movement. So yeah, I think I'm just going to scroll through a few and zoom in and out of just a couple of recent images. So this is a picture that is photographed on one of the streets that I spent a lot of time on as a kid, 8th Street and 6th Avenue.
+So there's a lot of detail in the images that I'm working with as well. It's another similarity that I love with Renata's work where you sort of zoom in and you get a level of interaction and detail and information that, you know, if you zoom out, you have a very different maybe sort of sense of space, of place, of time, of movement.
 
-Right here used to be one of the great hot dog places, Graze Papaya. And down the street was one of the great poster stores that I used to go to as a kid and still sort of think of as the great place to go. This used to be B. Dalton Booksellers forever, you know, independent bookstore. I love the little bit of the background. I love the little bit of the background. I love the little bit of leaning broom in this moment here where the person who's, I forgot to start my timer. Michael, you need to wave to me when I start going over time because I didn't start a timer. I see my timer over here. It's like 10 minutes. I didn't start it.
+So yeah, I think I'm just going to scroll through a few and zoom in and out of just a couple of recent images. So this is a picture that is photographed on one of the streets that I spent a lot of time on as a kid, 8th Street and 6th Avenue. Right here used to be one of the great hot dog places, Graze Papaya. And down the street was one of the great poster stores that I used to go to as a kid and still sort of think of as the great place to go. This used to be B. Dalton Booksellers forever, you know, independent bookstore. I love the little bit of the background. I love the little bit of the background. I love the little bit of leaning broom in this moment here where the person who's, I forgot to start my timer. Michael, you need to wave to me when I start going over time because I didn't start a timer.
 
-So, I mean, these are elements that I look at. I look at the colors and stuff that I'm passing cars. I'll wait for a certain car to pass like a yellow taxi in order to add those colors on both sides of the image. But also, I'm very interested in the edge of the frame and the way that images are sort of moving beyond these little boundaries, visual boundaries that we set up. There's a quote that I saw recently. I'm going to totally misquote and paraphrase, and I don't know who to cite, but it's something like future civilizations will wonder at our subservient to the rectangular image.
+I see my timer over here. It's like 10 minutes. I didn't start it. So, I mean, these are elements that I look at. I look at the colors and stuff that I'm passing cars. I'll wait for a certain car to pass like a yellow taxi in order to add those colors on both sides of the image. But also, I'm very interested in the edge of the frame and the way that images are sort of moving beyond these little boundaries, visual boundaries that we set up. There's a quote that I saw recently. I'm going to totally misquote and paraphrase, and I don't know who to cite, but it's something like future civilizations will wonder at our subservient to the rectangular image.
 
 You know, or that we spend so much time. So, yeah, I'm looking for, so I'm also thinking about at Jay. I think Eugene at Jay was a Parisian photographer and around the turn of the century, 1900s, early 1900s, there was a lot of construction going on in Sydney. He wanted to document these old places that were going to be you know, gentrified, I guess is what we call it now. But I find myself drawn to these old buildings that are about to come down as well. These vistas that are temporary in nature and spend time with them. You know, it's obvious this is the end of this beautiful old at this point building the Empire State Building, which isn't the tallest building around anymore. There's buildings looming up above it. And and so that's kind of where it comes down to the And yeah, I think it's kind of representative of this moment of precarity that we do have, that we're all sensing, whether it's global ecologically or economically.
 

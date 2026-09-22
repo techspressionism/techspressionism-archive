@@ -24,776 +24,226 @@ speakers:
   - name: Renata Janiszewska
     country: null
     start: 3510
-transcript_source: zoom-transcript
+transcript_source: whisper-large-v3
 languages: ["en"]
 ---
 
-## Colin Goldberg [00:02](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2s)
+## Tommy Mintz [00:02](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2s)
 
-Hi everyone, my name is Colin Goldberg, and we're here at Techspressionist SALON number 110. Today is Thursday, September 3rd, 2026, and I'm zooming in from North Bennington, Vermont. This salon is, based around a collaboration between the Techspressionist community and Loop Art Critique, which is a really interesting, Sort of virtual community, or in virtual space. I'll let… I'll let the Loop people kind of elaborate on it a little bit, more. But, the… Kind of collaboration came about from, some early meetings that we had, with, Renata, myself, and Ariel Baron-Robbins, who's the founder of Loop, and started to talk about, you know, different ways that we could work together, and most recently this spring, I was fortunate enough to, meet up with cha down in Miami Beach, who's been, an instrumental part of Loop Art Critique, and we were brainstorming a little bit about how we could, you know, start to… to do some fun things together. So, as of right now, on Techspressionism.com, if you click on the main menu, there is an item called Loop, which allows you to jump right into Loop's, Space, which is, again, something that will be explained in a few moments. I also wanted to note that we do have, in this Zoom session, live translation available with captioning, so if you want to want to… Access that, you would click the more button down towards the bottom, it has three dots in it, and then, hit Show Captions, and then at that point, you should be able to, select the language, your speaking language, and the language you would want it to be translated into.
+Hi everyone, my name is Colin Goldberg and we're here at Techspressionist Salon Number 110. Today is Thursday, September 3rd, 2026 and I'm zooming in from North Bennington, Vermont. This salon is based around a collaboration between the Techspressionist community and Loop Art Critique, which is a really interesting virtual community or in virtual space. I'll let the Loop people elaborate on it a little bit more.
 
-So, without further ado, I am going to introduce our moderator, Tommy Mintz. So, take it away, Tommy.
+But this collaboration came about from some early meetings that we had with Renata, myself and Ariel Baron-Robbins, who's the founder of Loop, and started to talk about different ways that we could work together. And most recently, this spring, I was fortunate enough to meet up with Cha down in Miami Beach, who's been an instrumental part of Loop Art Critique. And we were brainstorming a little bit about how we could start to do some fun things together. So as of right now on Techspressionism.com, if you click on the main menu, there is an item called Loop, which allows you to jump right into Loop's space.
 
-## Tommy Mintz [02:07](https://www.youtube.com/watch?v=pMRthFj7aw4&t=127s)
+Which is, again, something that will be explained in a few moments. I also wanted to note that we do have in this Zoom session live translation available with captioning. So if you want to access that, you would click the more button down towards the bottom. It has three dots in it. And then hit Show Captions. And then at that point, you should be able to select the language you're speaking the language and the language you would want it to be translated into. So without further ado, I am going to introduce our moderator, Tommy Mintz. So take it away, Tommy. Thank you, Colin. Hi, I'm Tommy Mintz. I'm a Techspressionist artist in Brooklyn, New York today. And I am pleased to be the moderator of today's salon. Today's salon is going to be a number of participants in the Loop Art Critique talking about Loop, and all of the fascinating things that are going on there.
 
-Thank you, Colin. Hi, I'm Tommy Mintz, I'm a Techspressionist artist, In Brooklyn, New York today, and I am pleased to be the moderator of today's salon. Today's salon is going to be… A number of participants in the Loop Art Critique, talking about Loop and all of the fascinating things that are going on there. And I'd like to introduce Ariel, who's one of the founders of Loop, and Have her talk about its history, philosophy, founding, and purpose. Ariel, do you have a screen share you'd like to begin?
+And I'd like to
 
-And also, can you tell us where your Zoom is.
+## Ariel Baron-Robbins [02:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=149s)
 
-## Ariel Baron-Robbins [02:45](https://www.youtube.com/watch?v=pMRthFj7aw4&t=165s)
+Introduce Arielle, who's one of the founders of Loop, and have her talk about its history, philosophy, founding, and purpose. Arielle, do you have a screen share you'd like to begin? And also, can you tell us where you're zooming in from? Yes, I do. I am zooming in from Miami International Airport.
 
-Yes, I do. I am zooming in from, Miami International Airport.
+Awesome. It's just... Let's see. Can you guys see my screen? Yeah, I see me. I see you loading your cool objects. Okay. So I'm going to use one of the verses. Let me just double check. You guys can see. Okay. Use... I'm going to use one of our... What we call is a verse, which is just like a room inside of Loop, a virtual reality room.
 
-## Tommy Mintz [02:53](https://www.youtube.com/watch?v=pMRthFj7aw4&t=173s)
+And I'm just going to use it to keep myself on track, and hopefully I can not go too much over. But I... Arielle, I'm not sure if you see it, but we see Tommy's, and now me, a Zoom window overlapping your browser window. I'm not sure if you see that on your screen. There we go. I didn't want that to obscure your screen sharing. I just make sure it's up there. I'm just used to screens within screens within screens, so it doesn't bother me.
 
-Awesome.
+But yeah, so my name is Ariel Baron-Robbins Robbins. I'm an artist. I am a professor. And that's supposed to be artist first. But I recently actually stopped being a professor, but it's a long story. I started Loop in 2022. And when I started Loop, basically, I was seeing an issue where we were having a huge influx of digital art. And I always taught computer art, I should say. So I always... I had this huge influx of people that were coming in because of NFTs. Which I thought was an awesome thing. I was very fascinated by how they were coming in from digital art first, instead of from a more traditional art and then to digital art. And I noticed, though, that a lot of digital art history really wasn't becoming well known. And also that they didn't have any peer critique for their digital work.
 
-## Ariel Baron-Robbins [02:53](https://www.youtube.com/watch?v=pMRthFj7aw4&t=173s)
+And it kind of showed in the artwork. You know? There wasn't a whole lot of this history known in the peer critique. Not in all of it, but in some of it. And so I was asked by Rodolfo Peraza, who is from the Mudd Foundation. And you can go and find it at mudd.foundation. And he has an exhibition space. And this is an art and tech nonprofit.
 
-It's just,.
+Where he puts on a different, like, one-year program. Called Media Under Dystopia Every Year. And he invites artists to do work for this exhibition. He invited a group of artists to do work that required that the artwork actually, like, change over the course of a year. So what I did to deal with that was I said, well, I'm going to create this, like, critique space that's an artwork.
 
-Let's see, can you guys see my screen?
+Because I feel like I'm very obsessed with the process of art. And a lot of my artwork deals with process. But I was thinking, like, how could you actually, like, directly be involved with, like, talking about process? Why don't you create a critique space where people can get feedback on their work. But that is digital in its nature. So that artwork doesn't need to be translated from, like, a digital space to a physical space to be shown. Right? Because every time I've been in a residency or any sort of shared studio. I've had to, like, put up screens. Or I've had to print out my work. I've had to, like, do this translation process. But the metaverse doesn't require you to do that translation process. You can just keep it digital. And you can also do scale and do all sorts of building things.
 
-## Tommy Mintz [03:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=185s)
+And it's wonderful. So I created this, like, system, this structure. I also love fluxes. And I love system-based artwork. That would require artists to come together in little groups. Participate in six weeks of critique. And then have an exhibition. Because the six weeks of critique was private. So I thought it would be nice to have, like, a public thing after that. So I created these rooms.
 
-Yeah, I see.
+That were based loosely on, like, this was kind of the salon. And this also has, like, very strong connections to the story of the impressionists and the salon. And I also created a lot of these artists as disruptors. And also the fact that they go from creating work to exhibiting it right away. And I also had stuff that was just based on, like, my own artwork and my fascination with process.
 
-## Ariel Baron-Robbins [03:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=185s)
+And some of my dad's. My dad's an architect. Some of his architecture designs. What I wanted to make sure, though, was that Loop was not an institution. It's not a place for artists. It's an artwork. It's always been an artwork. Even though it's evolved from this one-year sort of conceptual art exercise. It is not going to be an institution.
 
-I'll be able to. Pierre loading. Don't pull objects. Okay. So, I'm going to use one of… The versus… let me just double check, you guys can see, okay. We use one of our… what we call is a verse, which is just, like, a room, you know, inside of a loop, a virtual reality, room. And I'm just gonna kinda use it to keep myself on track, and… and hopefully I can, not go too much over. But… Ariel, I'm not sure…
+And I would talk about it as, like, in Xanthu's work. Because it is inside of a space that is designed. You know, it's not a white walls. These are my water colors that have been scanned. That make up the sky and the ground. And there's no straight walls in Loop. Which does require that, you know, people have to either upload their own white walls. Or they just, you know, right? I always think about also that the spaces that you're in, the places that you're in, how that affects your thoughts. And your creativity.
 
-## Colin Goldberg [03:47](https://www.youtube.com/watch?v=pMRthFj7aw4&t=227s)
+So, you know, I think this also affects the kind of work that you're doing. And the kind of work that gets made here. But, yeah, we were named after the Salon du Refusé. There was the Salon, the Salon du Refusé. And then we also have the Critique Club. So, if you go onto Loop's homepage. This is actually Loop Studios. Which we'll talk about in a second. But if you go onto Loop's homepage, you can see that we have the Critique Club up here. And then we have all of these different verses. So, each of these you click into to come into that verse. Into that space which looks like the one I'm sharing here. But with different stuff in it. I also wanted to make sure, because I've had experiences with residencies. And Loop is not a residency. It's something like it, I guess. But it's not. But with other shared spaces and things.
 
-If you see it, but we see Tommy's, and now me, a Zoom window overlapping your browser window. I'm not sure if you see that on your screen. There we go. I didn't want that to obscure your screen share.
+I wanted to make sure that people had the chance to come in. And to apply anonymously. Because it's always frustrated me as a person who comes from, you know, a place that has a negative history. That people would always see where I was from. They would always see what kind of, like, colleges that I went to. Or if somebody didn't go to college, they would see that. They would see, like, basically what kind of college I could afford. You know? Or if I didn't go at all. They could see a lot of information. It doesn't have to do with my artwork. On something like a CV or a bio or anything like that. So I never thought that that was very fair. I also wanted to make sure there was no money involved whatsoever. Because too much of our lives as artists are involved with money. So nobody would ever pay anything.
 
-## Ariel Baron-Robbins [04:01](https://www.youtube.com/watch?v=pMRthFj7aw4&t=241s)
+Nobody ever would participate in the critiques or anything. And I just self-financed it for the first time. For the first, like, four years. And then actually now the expenses are being paid by an art museum. Which is great. And also if people wanted to stay anonymous, they could stay anonymous. We all have avatars here. So right now what I look like is this.
 
-I'm just used to screens within screens within screens, so it doesn't bother me, but, but yeah, so my name is, Ariel Baron-Robbins, I'm an artist, I am a professor, and, that's supposed to be artist first, but I recently actually stopped being a professor, but it's a long story. I started Loop I started Loop in 2022. And when I started Loop, basically, I was, I was… Seeing an issue where we were having a huge influx of digital art, and I always taught computer art, I should say. So I always… I had this huge influx of people that were coming in because of NFTs, which I thought was an awesome thing. I was very fascinated by, like.
+But my favorite and what I actually would say my most, like, most people know me. They don't know me like you guys are saying me. They don't know, like, that I'm this, like, Bond woman. They know me that I'm this tree trunk thing that, like, my neighbor made in the country. So that is what my usual, like, face is. And I actually love that. I like being a tree trunk. I think it's a better reflection of who I am.
 
-How they were coming in from, like, digital art first, instead of, like, from a more, like, like, traditional art, and then to digital art. And, I noticed, though, that a lot of digital art history really wasn't becoming well known, and so… and also that they didn't have any peer critique for their, like, digital work, so, and it kind of showed in the artwork. You know, that there wasn't a whole lot of this history known in the peer critique. Not in all of it, but in some of it. And so, I was asked by Rodofa Perraza, who is from the Mudd Foundation.
+But anyway, to go on. We've done this now. These are all of the different going back to the very first one. Cohort two. We're on cohort 22 now. To just put that in perspective. And we've done all sorts of different things. Jiffy arts was one that we did. And we've had the other thing that I decided to do early on was to have a different juror. So every single time we had a different session. The session is six weeks of critique followed by an exhibition. Every time we had a different group, I wanted to keep the group small because it's better critiques that way. And we would have somebody that would come in. And so it wouldn't always be my decision, you know, who was. Eight minutes, Ariel. You have two minutes left. Yeah. It wouldn't always be my decision who got in or who didn't. And in this anonymous way.
 
-And you can go and find it at mudd.foundation. And he has a exhibition space, and this is an art and tech nonprofit. Where he puts on a different, like, one-year program called Media Under Dystopia every year, and he invites artists to do work for this, exhibition. He invited a group of artists to do work that required that the artwork actually, like, change over the course of a year. So, what I did in… to deal with that was I said, well, I'm going to create this, like.
+So that even, like, one person's, you know. Perspective or philosophy on art wouldn't be the thing that limits who gets to participate. And then gradually that role of the judge became more of a bigger role of, like, the guest. And the guest ends up, like, taking sometimes even, you know, putting themes onto their critiques.
 
-Critique space that's an artwork, because I feel like I'm very obsessed with the process of art, and a lot of my artwork deals with process, but I was thinking, like, how could you actually, like, directly be involved with like, talking about process, why don't you create a critique space where people can get feedback on their work, but that is digital, in its nature, so that artwork doesn't need to be translated from, like, a digital Space to a physical space to be shown, right? Because every time I've been in a residency or any sort of chaired studios, I've had to, like, put up Screens, or I've had to print out my work, I've had to, like, do this translation process. But the metaverse doesn't require you to do that translation process. You can just keep it digital. And you can also do scale, and do all sorts of building things, and it's wonderful. So, I created this, like, system, this structure. I also love Fluxus, and I love System-based artwork that would require artists to come together in little groups, participate in 6 weeks of critique.
+And they sit in on a critique once a week. Yeah. So it's six weeks twice a week. And then I'm going to talk a little bit extra. And then since then. Oh, that's mine. Since then, we've actually gotten a Knight grant, which is a tech expression grant, which has given us a lot of new capabilities. And we also, like I said before, we are now part of a museum called the Institute of Contemporary Art. We're inside of their art and research center. And we're part of their art and research program. And they've taken over a lot of expenses. And also raised the amount of money that we give to the guests and to the artists to participate. And they pay that.
 
-And then have an exhibition, because the six weeks of critique was private, so I thought it would be nice to have, like, a public thing after that. So I created these rooms, that were based, loosely on, like, this was kind of the salon. And this also has, like, very strong connections to the story of the Impressionists and the Salon de Rayfizer, because I was thinking of a lot of these artists as being, like, disruptors, and also at the fact that they go from creating work to exhibiting it right away. And… and I also had stuff that was just based on, like, my own artwork, and my fascination with process, and, and some of my dad's… my dad's an architect, some of his, architecture designs. What I wanted to make sure, though, was that Loop was not an institution, it's an artwork. It's always been an artwork, even though it's evolved from this one-year Sort of conceptual art exercise. It is not going to be an institution.
+And then after that, what has also happened is that I always envisioned to have a shared studio program. So Cha and Carolina are going to talk about that. And I just want to say I'm super excited that Techspressionism, that we're having like a closer relationship because we've been having a relationship for a while. Renata was a guest for us. And Cha has been a part of Techspressionism for a lot. We've been talking for a long time. And so it's just awesome that we've kind of gotten the we've gone ahead and, you know, gotten that. And then we've kind of married a little bit. All right. So cool. Thank you, Ariel. We're going to take questions at the end for
 
-And I would talk about it as, like, in Samson's work, because it is inside of, a space that is designed, you know, it's not a white walls. These are my watercolors that have been scanned. That make up the sky and the ground. And, and there's no straight walls in Loop, which does require that, you know, people have to either upload their own white walls, or they…. They just eat them, right? I always think about also that the spaces that you're in, the places that you're in, how that affects your thoughts and your creativity. So, you know, I think this also affects the kind of work that gets made here. But yeah, we were named after the salon, the refuser. There was the SALON, the SALON de refuset, and then, we also have the critique club.
+## cha [15:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=918s)
 
-So if you go onto Loop's, homepage, this is actually… Loop Studios, which we'll talk about in a second, but if you go into Loop's homepage, you can see that we have the Critique Club up here. And then we have all of these different verses. So each of these you click into to come into that verse, into that space, which looks, like the one I'm sharing here, but with different stuff in it. I also wanted to make sure, because I've had Experiences with residencies, and… and Loop is not a residency, it's something like it, I guess, but it's not. But with other shared spaces and things, I wanted to make sure that people had the chance to apply anonymously.
+Everybody. I'd like Cha to give a screen share that you're going to do as well to get ready to explain his residency and talk about the role of the guest, how easy it is to apply. And tell us where you're zooming in from, Cha. Thank you very much. Thank you, Tommy. And thank you, everybody, for being here today. I'm zooming in from Miami Beach, Florida.
 
-Because it's… It's always frustrated me as a person who comes from, you know, a place that has a negative history, that people would always see where I was from. They'd always see what kind of, like, colleges that I went to, or if somebody didn't go to college, they would see that. They would see, like, basically what kind of college I could afford, you know, or if I didn't go at all. They could see a lot of information that doesn't have to do with my artwork.
+And the first time I encountered Loop Art Critique was an open call on Instagram. Ariel, not shortly before that, had mistaken me for another artist and sent a message to me. And when she put out the open call, I checked it out and I thought, this is great. All I have to do is submit five images. So it was very easy to apply.
 
-On a… something like a CV, or a bio, or anything like that. So, I never thought that that was very fair. I also wanted to make sure there was no money involved whatsoever, because too much of our lives as artists are involved with money. So nobody would ever pay anything, nobody ever would participate in the critiques or anything. And, I just self-financed it for the first Like, 4 years. And, and then actually now the expenses are being paid by, an art museum, which is great. And then also that if people wanted to stay anonymous, they could stay anonymous. We all have… Avatars here.
+And I loved it. And the fact that I became, as a resident of Loop Art, I was able to apply. And as I saw Loop Art Critique functioning as a residency, I became part of Ariel's artwork. Ariel, can you stop sharing? I think we have your screen up still. I'm so sorry. I think we didn't get Cha's screen yet.
 
-So, right now, what I look like is this. But… My favorite, and what I actually want to say my most, like, the most people know me. They don't know me like you guys are saying me. They don't know, like, that I'm this, like, Bond woman. They know me that I'm, this tree trunk thing that, like, my neighbor made in the country. So that is what my usual, like, face is. And I appre… I actually love that. I like being a tree trunk. I think it's a better reflection of who I am.
+And I just thought that was a really beautiful thing. Cool. Thank you. And I just want to say, I was so happy to be participating in this thing, which I wasn't even sure exactly what it was yet, but the fact that it was an artwork, and that participating, I was part of the artwork. In other words, Loop Art Critique, it exists, but it exists in the best way, as the artist who come and share the work. Their art and put together a show and talk to each other so it's very easy to apply I encourage everybody to do that in the future you can apply as many times as you like we have quite a few artists who are who have applied multiple times and have come back in and spent more time with us and we love that so I was in Loop Art Critique 2 and shortly after that Ariel invited me asked me if I would come in and substitute for her in one of the critiques and I said well sure I'd love to and then not long after that she asked me to help out a little more and I had the idea that you know I was going to be a part of the art community and I was going to be a part of the I would be the official documentary photographer because part of my art practice is using the screenshot so now when it's it's almost three years later I'm still working as a documentary photographer for Loop Art Critique and also as a critique leader which I love I'm of, I've really found a home here.
 
-But, anyway, to go on, we've done this now. These are all of the different, going back to the very first one, Cohort 2. We're on Cohort 22 now, to just put that in perspective. And we've done all sorts of different things. Jiffy Arts was one that we did, and we've had… the other thing that I decided to do early on was to have a different juror, so every single time, we had a different session, which is… the session is 6 weeks of critique followed by an exhibition. Every time we had a different group.
+I would say I'm painfully shy, which I'm just kind of realizing what that means, the pain. So in Loop Art Critique, under the guise of an avatar, I've had the wonderful opportunity to meet artists from around the world and share time and space with them, which is just a priceless thing. So when Loop Art Critique functions as an art residency, one of its many functions, we do these series of critiques. They lead up to a final group show. And so the critiques function as your typical art critique, but they also work as a way to build a small or micro community over a short period of time, if it works out well, to the point where everybody gets to know each other a little better and is comfortable enough with each other that they're able to work together. And so we're able to create a final show.
 
-I wanted to keep the group small, because there's better critiques that way, and we would have somebody that would come in, and so it wouldn't always be my decision, you know, who would.
+And that's what we're looking at here. This is the exhibition hub space, is kind of what we're calling it. The thing about Loop Art Critique is we're making it up as we go along in a lot of things. I mean, we didn't know what this type of space is or was. But it's kind of settled in. And you hub space which is home to a number of portals which lead out to individual verses for each of the artists in the space.
 
-## Tommy Mintz [13:01](https://www.youtube.com/watch?v=pMRthFj7aw4&t=781s)
+So I'll just go around and show you which are the portals. Not all of these objects are portals but you click one and you end up in a verse and we'll just click into one here The key welcome on this unaware of their former state There was a time when the key were the forest not of the forest but the forest After Time the key forgot themselves. This is this is a work by blended into the world and its new ways Which were now just the ways?
 
-Eight pens. Ariel, you have 2 minutes left. Yeah.
+Work about kind of speculative anthropology And the objects are placed around this space and And when you approach An audio is triggered. There are only four events during which a key's interred self becomes apparent. Another interesting facet of the group of artists is that our guest jurors each has their own I guess. So we get a group of artists that are, in a sense, curated, so dependent upon who the juror happens to be.
 
-## Ariel Baron-Robbins [13:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=785s)
+Well, I think that's it for me. Yeah. Great. I was about to say you have two minutes left, Cha. Thank you so much. Tommy, you're muted. I'm not sure if you're... My button stopped working. Am I muted still? No, you can hear me now. I'm back. Wonderful, Cha. Yeah, thank you so much. I love the Tiny Desk series of music that's happening. I don't know if you're familiar with that, but this idea of the desktop as this hub space that we launch off into is wonderful sensory change. Anyway, I know we need to talk at the end. We'll have questions about that at the end. Write down your questions for Cha. Yeah,
 
-It would always be my decision who got in or who didn't, and in this anonymous way, so that even, like, one person's, you know, perspective or philosophy on art wouldn't be the thing that limits who gets to participate. And, and then gradually, that role of the judge became more of a bigger role of, like, the guest, and the guest ends up, like, taking… sometimes even, you know, putting, themes onto their critiques. And they sit in on a critique once a week.
+## Carolina Kleine Samson [25:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1531s)
 
-Yeah, so it's, 6 weeks, twice a week, and then I'm gonna talk a little bit extra. And then since then. Oh, that's mine. Since then, we've actually gotten a Knight grant, which is a tech expression grant, which has given us a lot of new capabilities, and we also, like I said before, we are now part of a museum called the Institute of Contemporary Art. We're inside of their art and research program. And they've taken over a lot of expenses, and also raise the amount of money that we give to the guests and to the artists.
+Thank you. I'm going to ask Carolina to talk next about her studio and, maybe, Galina's studio. Can you talk about your role as the graphic designer for the site, and a little about the annual family reunion event, Carolina? Hi, everyone. I'm Carolina Klein-Samsom. Right now, I'm in Salvador de Bahia, Brazil, but I'm based in Patagonia, Argentina. Okay. So, well, thank you very much. Much for invite us to showing you um so okay I'm gonna talk a little bit about maybe um about the design and communication communication um like I want to mention too that cha um he was like at the beginning uh when he he was part of loop he really encouraged me to to apply uh for for loop and I applied for the cohort number five with lorna mills so I get into loop uh to the residency and after that after a while I start to like um showing loop theme so yeah I'm really grateful for that for cha and ariel um to invite me to be part um so um okay I'm gonna talk a little bit maybe uh I'm gonna just start with maybe for uh for the design like graphic design of loop um I think that is an interesting part because now um we are like kind of using uh the platform to create the designs you know um before that I was just using like more regular like programs to to to to do design graphic design but right now I think we are trying to do everything inside loop so that is a really nice thing um like design like we are kind of like really living inside loop um so I I really like that and also for graphic design sometimes it's a challenge because um it's not a platform made for that but um I think it's interesting that you kind of like we kind of find um like they're like our own style inside the platform with the native elements uh so maybe I can share a little bit um maybe we can go to the studios and then kind of show a little bit how we are using uh the platform to to create graphic design I don't know I'm not sure sorry my english I'm not that not an english native speaker but yeah I can do it You're doing great.
 
-To participate, and they pay that. And then after that, what has also happened is that I always envisioned to have a shared studio program. So, cha and Carolina are going to talk about that. And… and I just want to say I'm super excited. That, Techspressionism, that we're having, like, a closer relationship, because we've been having a relationship for a while. Renata was a guest for us. And cha been a part of Techspressionism for a lot. We've been talking for a long time, and so it's just awesome that we've kind of gotten the, we've gone ahead and, you know.
+It all sounds great. I know I'm kind of a little nervous. So yeah, maybe, okay. I'm gonna share the studios and maybe kind of explain a little bit about how we make the graphic design inside the space. Yeah, so I'm gonna do that. Okay. Okay, someone is in there. Maybe Ariel, someone. Can you see the screen?
 
-Gotten married a little bit. Alright.
+Yes. Okay. Ariel, who is? Okay. Okay. Okay. Okay. So as Ariel mentioned, she envisioned like a kind of a place where artists have their own studio in the digital space. So I think that is a really interesting idea because I was searching and there is not like other places like that, like kind of to have like, artists' studios in the same place. Actually, last year we organized kind of a virtual studio busy day, something like that. I don't remember exactly the name, but you know, in the physical space, we have this kind of studio busy day where all the artists open their studios and then the people go through them and visit the studio. So we organized that last year. And the idea is also to have other, you know, projects or platforms that can show in us with this kind of tour, yeah, virtual studio tour.
 
-## Tommy Mintz [15:14](https://www.youtube.com/watch?v=pMRthFj7aw4&t=914s)
+So yeah, but I couldn't find other place to kind of collaborate. So if you have any idea, or if you know other places that have like art studios, please let us know. So here, okay. We have each kind of each image or object is like a portal of different studios. For example, here we have Teddy Espataro.
 
-So cool. Thank you, Ariel. We're gonna take questions at the end for everybody. I'd like cha to, do you have a screen share that you're gonna do as well? To get ready to explain his residency and talk about the role of the guest, how easy it is to apply? And tell us where you're, zooming in from, cha. Thank you very much.
+We have Galina too, that she's really part of, like she's really a part of the Loop community. Wenxiong, Renata that, okay, you have your studio under construction, that is the idea too, that we have like also like, we have work in progress inside each studio, right? Mona, I have my studio here and also Chess Studio. So we can jump into one of the studios, so we can, yeah, see.
 
-## Unattributed [15:36](https://www.youtube.com/watch?v=pMRthFj7aw4&t=936s)
+So we're gonna go to Galina's. I don't know how, I have, it's okay. I'm okay with the time or? Yeah, you have about three minutes left. Okay. Okay. Mm-hmm. So my internet connection, because I'm- It also loads slow when you're using Zoom. Yeah, yeah. The two of them together makes it slow. I just got here yesterday. So it's a, I have a new wifi relationship and it's like, it was kind of complicated today. So yeah, I'm not sure.
 
-Cha :): Thank you, Tommy, and thank you, everybody, for being here today. Cha :): I'm zooming in from… Miami Beach, Florida.
+Mm-hmm. Maybe it's too heavy, Galina's space. Mm-hmm. Yeah, it might be. Maybe it's that. Okay. I think Cha just put the link in the chat and everybody could just peek in on their own browser if the share isn't gonna load. Oh, wait, here it comes. We see it now. Okay. Okay, I'm gonna go to maybe Cha and then I can show, really, okay.
 
-Cha :): And I… the first time I encountered a Loop Art Critique was… Cha :): an open call on… on Instagram. Cha :): Ariel, not shortly before that, had mistaken me for another artist and sent a message to me. Cha :): And….
+Also, I wanna mention that Cha, Cha hosts every Sunday, like a critique session, like that is open to everyone. So yeah. Hmm. Bueno. Bueno. No, bueno. It's my internet, sorry. Hey, okay, we've all experienced the joys of working with 3D spaces. Yeah, it's my, yeah, my new wifi is not working well. Okay. Bueno.
 
-Cha :): when she… put out the open call, I checked it out, and I thought, this is great. Cha :): All I have to do is submit 5 images.
+Let's, I'm gonna try with my, that is pretty simple. Okay. Okay. It's not loop, it's my wifi. So yeah, it's that. Bueno. While it's loading, could you tell us a little bit about the family reunion event? Ah, okay. So yeah, the family reunion is an, an, an, annual event. Ah, that, um, is, and also it's like a kind of a performance. Um, so because like we, um, Ariel Cha and I, we are like, spending like three days inside loop, almost like nonstop.
 
-Cha :): So it was very easy to apply. Cha :): And I loved it. And the fact that…. Cha :): that I became, as a resident of Loop Art Critique, functioning as a residency, I became… Cha :): part of Ariel's artwork.
+Um, and also it's like a, it's like a way way of meet um again all the like the former loopers loopies um so yeah we spent three days there um with like there there's a lot of activities like um workshops talks uh we have a group show um we have a lot of like conversations um so it's a really interesting um performance and events and yes, this year it was open to everyone, so like former lupis and new people. Like showing us um and experience uh the loop family reunion um I don't know aries if you wanna say something like you wanna add something else oh no I was just I'm just showing that um other people's studios but no loop reunion is just a time for everyone to get together because I also think it's important that people form connections and obviously like we've had lots of people that end up having exhibitions with each other or that share open calls and then end up having exhibitions with each other so it's just a time for everyone to get together and um to get together and meet and because we operate across so many time zones we have it going from 9 30 a.m to 9 30 p.m and we decided cha and I at first decided that we were going to stay in loop for those 12 hours for two days and then carolina has done it too and so now it's like a semi performance piece but it's kind of cool because anybody can come whenever they want and one of us will be there or probably both all of us going creepy crazy durational online performance of it it's very cool and it really is building a community where I think people are um really building real relationships it's a a wonderful experience carolina is there something that you want to share before we continue yeah yeah I have oh here I entered the to the studio and I want to mention that many of the the the artists that I met through loop I met them in real person so in the physical uh world so we also start to collaborate together I met a lot of artists from argentina where yeah so we met in real life and we started also to collaborate so that is a wonderful thing too so finally I entered to the to to my studio so I'm going to show you a little bit of my studio so this is my studio also it's like a yeah as I say it's like it's a studio so it's under construction it's a work in progress um so now I have some pieces um some some of my pieces are related to painting the screen and recycling files so you can see that uh there and like I I want to mention something else related to the graphic design um that is like uh I don't know we are kind of using everything in here I'm going to type something so the idea is to use the tools that we have here for example I'm typing on the chat and I'm creating an an object in here so I'm I'm kind of uh using like putting the information inside loop and then I'm just like I'm like taking a screenshot of the information and voila the flyer is uh is made uh so very cool design I like that screenshot yeah it's like a screenshot like another interesting thing is like always in graphic design it's like all about like you know the resolution and the quality and things like that and um I think we are a screenshot base uh because like the photography is there are screenshots and also the the graphic design too so yeah um yeah sometimes I upload also like uh like some pictures to create the flyer but yeah this is the kind of the process that we are using very cool very recursive and referential in interesting ways thank you carolina um people write down your questions for carolina at the end we're going to take questions for everybody at the end I have I have a list I'm keeping um
 
-## Tommy Mintz [16:50](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1010s)
+## Sahar Moussavi [40:11](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2411s)
 
-Ariel, can you stop sharing? I think we have your screen up still, I'm so sorry. I think we didn't get cha screen yet.
+We're going to keep moving um to another participating artist um sahar is one of uh expressionist artists from our group who has participated in a six-week loop residency and hoping that sahar can talk about um what she took away from the experience and if we can see some of um your current work so how you're on right I thought I saw you yeah hi hi hi everyone um so I'm sahar I'm um oh I'm sahar hi I'm zooming now from vancouver I'm based in iran and uh I'm gonna share my uh first I'm gonna share some slides uh from my experience from duc art critic residency and then um I'll invite you to join my verse um I'm gonna read so can you see my screen yes okay so I was selected by uh Joey Zaza to participate in an dm ram newfangled verse an art critic group within the loop arts critic residency program the six-week residency took place from september 8 2025 through november 23 2025.
 
-## Unattributed [17:06](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1026s)
+We met every monday and thursday from 12 to 3 pm in the critic club where we engaged in group discussions artistic feedback and critical conversations through around our work and we get a lot of new things and we have a lot of good things to do and it's a time-saving time-saving time-saving thing to do and of course you can't do that in a two-day time-saving time and of course you have to be in a lot of time-saving time-saving time-saving time-saving time-saving time-saving or you have to be in a lot of time-saving time-saving time-saving time-saving time-saving but you have to be in a lot of time-saving time-saving time-saving time-saving time-saving time-saving so you have to be in a lot of time-saving time-saving time-saving time-saving time-saving time-saving sessions, we became familiar with the tools and features of the verse, we learn how to upload and incorporate incorporate texts, images and emojis as well as how to use the pen tool.
 
-Cha :): And I just thought that was a really beautiful thing.
+We also learn how to navigate navigate the verse, including how to move, explore and fly through the virtual environment. So this is one of the sessions that we were playing around with pens and uploading huge emojis and converting texts to objects in the verse. That's me, that's my avatar. So in each session, artists uploaded their artwork to the verse and other participants engaged in an open conversation about the work. The discussions were non judgmental and supportive, focusing on positive feedback throughout the observation. And constructive dialogue, the create this created a safe and encouraging environment for artists to share their work, exchange ideas and learn from one another. So that's me and I uploaded my artworks and took a selfie in front of it.
 
-## Tommy Mintz [17:10](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1030s)
+We also participated in creative workshops led by guest artists and invited speakers. These sessions were both educational and educational. Inspiring offering new perspective, creative techniques and opportunities to explore different approaches to art making so I remember that this workshop was about completing each other's sentences I think one starts with sentence and then we have to continue the sentence in the verse in some sessions guests artists were invited to share their experiences participants and perspectives with the group one of the virtual guests. One of the invited guests well was fellow expressions artists Renata who shared her creative journey and insights with us. So at the right you can see Renata's avatar.
 
-Cool, thank you.
+So one of the most new and interesting experience for me was the first time I had been invited to the workshop. I was I was the first to be part of a group to be the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group. I was the first to be a part of a group.
 
-## Unattributed [17:11](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1031s)
+I was the first to be a part of a group. I later incorporated some of these GLB artworks into my final projects. The mad world presented as part of the exhibition. So these are some of the GLBs I made from real pictures. I also created several GLB artworks based on my own hand drawings. This process of transforming my traditional sketches into interactive 3d objects was a completely new and exciting experience for me. I became fascinated with this process and honestly a little obsessed. So as you see these are some... At the tour I took some pictures of GLBs and made them into art. These two objects on the right are based on GLB files created based on my hand drawings.
 
-Cha :): to be participating in this… in this thing, which I wasn't even sure exactly what it was yet, but the fact that it was an artwork. Cha :): And that, participating, I was part of the artwork. Cha :): In other words, the Loop Art Critique really… Cha :): It exists, but it exists in the best way. Cha :): As the artists who… who come… And… share their art. Cha :): And put together a show, and talked to each other.
+So as an optional final project each participant was invited to create their own verse using XR Creator Studio. I created my verse inspired by a real mystical location in western Iran called the throne of Solomon. Takhte Soleiman. This project allowed me to connect my artistic practice with place, rich in history, mythology and mystery and to reinterpret it through a contemporary virtual environment.
 
-Cha :): So it's very easy to apply. I encourage everybody to do that in the future. You can apply as many times as you like. We have Cha :): Quite a few artists who are… Cha :): Who have applied multiple times, and have come back and spent more time with us, and we love that.
+So we are going to visit my verse later. Also my piece titled Alchemist's Dream. I made that image myself. So it's minted and listed in Mona Gallery on object.com as a gift. This is the poster of the Mad World exhibition. The title was suggested by Michael and it's official poster. This is the main hall which we are going to visit. After...
 
-Cha :): So I was in Loop Art Critique 2, and… Cha :): shortly after that, Ariel invited me… asked me if I would come and substitute for her in one of the critiques, and I said, well, sure, I'd love to. Cha :): And then not long after that. Cha :): She asked me to help out a little more… Cha :): And I had the idea that I would be the official Cha :): Documentary photographer, because part of my art practice is, using the screenshot.
+After a couple of minutes. And this is the GLB I made through the six weeks residency and it's the portal to my verse. So I'm gonna stop sharing my Google slide and I'm going to put the link in the cha. And if you can find my... Portal. You can go through my portal or I can share my verse so we can go directly to my verse.
 
-Cha :): So now… Well, it's almost 3 years later. Cha :): I'm still working as a documentary photographer, for Loop Art Critique. Cha :): And… also as a critique leader, which I love. Cha :): I've really found a home here. I'm… Cha :): pain… I would say I'm painfully shy, which… Cha :): I'm just kind of realizing what that means, the pain, but… Cha :): So, in Loop Art Critique, under the guise of an avatar, Cha :): I've had the wonderful opportunity to Cha :): Meet artists from around the world, and share time and space with them.
+So I'm sharing the main hall. Great to see you too, Nina. I encourage everyone to also visit Nina's verse. So I put the link to the main hall in the chat. If anyone wants to join, I recommend to use Chrome and log in. If it's difficult, I can just put my verse. I don't know which one. Okay. So I'm going to put my verse in the main hall. Are you going into the main hall?
 
-Cha :): Which is just a priceless… a priceless thing. Cha :): So the… the… when Loop Art Critique functions as a… as a… as an art residency. Cha :): One of its many functions… Cha :): We do these series of critiques. Cha :): That lead up to a final group show. Cha :): And so the critiques function as, you know, your typical art critique, but they also work Cha :): As a way to build a… Cha :): Small or micro-community over a short period of time, if it works out well, to the point where Cha :): Everybody gets to know each other a little better.
+I have a loading... Okay. Entering verse loading bar right now. So right now I'm in the verse. So every object you see in the verse is a portal to my verse. So I'm going to put my verse into the artist's verse. Everything, every artwork, every object you see it's a portal. Do you want to try sharing your screen, Sahar? For those of us who were maybe watching in a recording. Okay. Okay.
 
-Cha :): And it's comfortable enough With each other, that they're able to work together to create A final show. Cha :): And that's what we're looking at here. This is the… Cha :): exhibition hub space is kind of what we're… we're calling it. The thing about Loop Art Critique is we're making it up as we go along in a lot of things. I mean, we didn't know what this. Cha :): what this… type of space. Cha :): Is or was, but it's kind of settled into an exhibition hub space.
+Okay. Can you see my screen or not? Okay. So, this is my... Can you see my screen? Yes. Yeah. Okay. So, at the left, top left, you can see my avatar. Her and I'm just showing you the verse um every artist this is nina's first which I got several times. And this is my verse. So even in the caves, there are other portals which lead you to the artist's verse. So I will go to my verse. You can hear it. We have two minutes left. Okay.
 
-Cha :): Which is home to a number of portals which lead out to, individual Cha :): Verses for each of the artists in the… in the space. Cha :): So I'll just… go around and show you which are the portals. Not all of these objects are portals. Cha :): But you click one, and you end up… In a verse.
+So I have to say that my internet was awful during the residency, and see and I missed many many stuff but now this is my verse here I'm gonna fly because so little I'll go up I don't know why my cursor is very big I was not able to I don't see the cursor on the screen share. I think it's okay for us. Oh, maybe it's there.
 
-Cha :): And we'll just click into… One here.
+I think my nephew is just screaming right now. So these are the GLBs I made from the actual and the lake in the real location. This is a lake and my golden GLB here, which has a story behind it. And you can go into the building and the ruins and fly. So this is my dome. And I added a mirror here. So we can see that's my avatar in the mirror and the light. And we can change the light and everything and the lighting. There is a setting for the lighting.
 
-Audio shared by cha :): The key guacamomas, unaware of their former state.
+That's my tree on the sphere. My description. Okay. So we had one session before the exhibition. And we had some guests and other artists helped me to make my verse a little better, like like putting reflections on putting a mirror to the lake I'm trying to show you the details of my uh Thank you. So, I. Am I.
 
-Audio shared by cha :): Which for which they both receive several. Audio shared by cha :): There was a time when the key were the forest. Not of the forest. Cha :): Mr. Audio shared by cha :): the forest. Audio shared by cha :): Things like… Can I ask her about.
+Am I. Am I. Thank you. We go inside the building So that's my verse. And there is an exit in bottom left, which shows you how can you exit. I put the exit icon. I have a guest. I think that's the avatar of someone visiting. Is it Carolina? It's Ariel. And what else? Might have been me. I'm not sure if my avatar is still there. Tommy and Ariel. Cool.
 
-Audio shared by cha :): Or something.
+Oh, cool. This is really beautiful, Sahar. Thank you. So interesting to sort of get a sense of past and future in an interesting you know in this recombine mind space that you're creating for us really really fantastic thanks I had a few other glbs but my internet was not really good so my first crashed once and I had to remove some of the objects and GLBs from it was a very bad uh situation and internal situation during those uh during the residency so yeah.
 
-Audio shared by cha :): After some time, the key forgot themselves. Cha :): This is… this is a work by… Audio shared by cha :): Into the world and its new ways. Audio shared by cha :): Which were now just… the ways. Cha :): I work about… Kind of… speculative anthropology. Cha :): Astrological.
+Yeah flying cow. Um that is really fantastic um introduction to the work you did here and I hope you continue on this. This is is really new frontiers in art is what I feel like we're all viewing here right now. And people write down your questions for Sahar for the end
 
-Cha :): And objects are placed around this space. Cha :): And when you approach, He's interesting. Cha :): And audio is triggered. Audio shared by cha :): There are only 4 events during which a key's interred self becomes apparent.
+## Renata Janiszewska [58:30](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3510s)
 
-Audio shared by cha :): They're nice at home.
+Of our meeting. We're gonna, I think, look at one more space that Renata created. So hold your questions until after Renata Renata, are you able to share a screen and talk about the Louise Bourgeois Sunday Salon and talk about the naming of it a little bit there? Sure, I'm going to share my screen. Thank you, Tommy, and thank you, Sahar, for that great view inside your space.
 
-Cha :): Another interesting facet of the group of artists is that They're each… Cha :): Our guest juror each has their… their own taste, I guess. Cha :): So we get s- we get… Cha :): A group of artists that are… In a sense, curated. Cha :): So… Dependent upon who the juror happens to be.
+The scale is what I really enjoy when you're inside a verse. It's very different than any other kind of room that you put your work into. And we saw that in Sahar's with the little dancing figures and the huge GLB files. Else. So here we are. Can everybody see? I don't have a screen share up yet. Is that what you're hoping to share? Yeah.
 
-Cha :): Well, I think that's… I think that's it for me.
+I'll give it one more click maybe. Okay. Okay. This has been a relatively seamless expressionism salon. Normally we're always getting a lot of glitches in here. We're in now, Renata. We have your screen share and we see your verse. Okay, so this is the Louise Bourgeois Sunday Salon space. And before I take you around on a tour, I just wanted to say how absolutely grateful I am to Ariel. She invited me to be a guest critique leader, and that's how I met Shaw and Carolina.
 
-## Tommy Mintz [24:38](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1478s)
+And the experience of being in the space for six weeks with artists whose work I had chosen, and I chose it without knowing who they were. They didn't have to give a bio, as Ariel mentioned, or an artist statement. And having a blind jury or a blind juror, as I was, made it really fair. And I really just want to say how much I applaud that kind of policy.
 
-I was about to say, you have 2 minutes left. John, thank you so much, that was real…
+If, you know, if more, if more residencies and more competitions were judged blindly, I think that the art world would be a lot better off. So I made, I made some work in the, in the metaverse after the residency because I was allowed some use of the XR space. And I made a lot of still life photography inside worlds or verses that I had created using 2D JPEGs of my paintings combined with 3D objects that were animated. I made one video that I was really happy with. And I liked it so well that now I've got myself a studio for a year in loop that I can do whatever in.
 
-## Colin Goldberg [24:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1489s)
+Every Sunday I'm here at the Louise Bourgeois Sunday Salon. She, I want to go this way. There's a photograph of her there. And you can, if you come to the space, you can go visit this website, Louise Bourgeois' life and career. And to the right of it, there's a MoMA website that talks about her drawings. It's quite comprehensive.
 
-Tommy, you're muted, I'm not sure if you're…
+Louise Bourgeois lived on the Lower West Side for a long time, and she hosted a Sunday salon in her home every Sunday for her students and for other artists who were invited to come and have a drink and present work in a very non-judgmental kind of environment. And that's exactly what I found here in this salon. You can come on Sundays between 12 and 2pm Eastern or 5 and 7pm Eastern. And Cha will be here and I will be here at the 5pm salon.
 
-## Tommy Mintz [25:03](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1503s)
+We see a couple of GLB file of Cha's here, the green sonrisa, which is part of a really large series he's done. I think he's done hundreds of them. And to the right, you see five works by Sahar. This is what I mean about putting a JPEG into the space. She's just uploaded these photos and you can enlarge them. I don't know if it's not working here, but there's a way.
 
-My button stopped working. Am I muted still?
+I pinned them, so. Oh, you pinned them. Okay, so you can blow up your JPEG to be really monumental. In this space. This, for example, on the right, this that? I know. I know. I know. I know. I know. You can sort of hear people coming closer and going farther away. There's a portal to this current exhibition.
 
-## Colin Goldberg [25:06](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1506s)
+This is a project here. The recycling bin is a project by Carolina, who's an amazing curator. I've been in a number of shows that she's curated. And it's a recycling bin for your used files. This is a GLB that I made recently for an exhibition that Galina Shevchenko curated. It was an AR exhibition that took place partly in Venice, Italy and Venice, California.
 
-Nope, can hear you now.
+There's a, to the right of it, is a photograph by Tommy Mintz, part of his automated digital collage series. And I think we've... You've already seen that you can fly. I'm going to try to fly into the red GLB file that Cha made. So here we are inside a GLB. And you can have meetings in here. Do you want some privacy? Or... Is there... It's just another way of looking at the work.
 
-## Unattributed [25:07](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1507s)
+Oh, I've gone the wrong way. I'm out in space now. And now I'm below. Okay. So again, I encourage you to come visit on Sundays and talk about your work. You can upload your work here really easily. And it doesn't have to stay in the space. It's a really, really wonderful project. The entire Lubar Critique has enriched my life as an artist so much. And I can't say thanks enough again to Ariel, Cha, and Carolina.
 
-Cha :): Wonderful.
+Fantastic. Thank you, Renata. Really lovely to see how... Thank you. So the collaboration between Techspressionism and... Excuse me. And loop, I think, is a very simpatico, natural one. Colin... Jesus, excuse me. Colin, do you have any comments you'd like to share about loop and Techspressionism meeting and how that came about?
 
-## Tommy Mintz [25:08](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1508s)
+Do you have a story about going to Miami? Yeah, well, I mean, I guess... You're not sure? Yeah. Well, I... Know in the beginning I kind of just um you know mentioned that we he and I met up um you know uh last time I was in miami um but I did actually want to bring up um siberiana which is a project that you were largely responsible for as an architect which was our own sort of version of this idea of a you know a um a virtual space where artists had their studios and I thought maybe you know that the nature of the collaboration could somehow um you know uh rekindle that spirit of what was accomplished in siberiana and you know merging with what loop is doing in some sort of an interesting way I just feel like there's a lot of shared ethos you know between the two communities and um you know the idea of openness not requiring any any money from anybody to you know participate and having it be you know as technologically sort of open-ended as possible that is people with a lot of experience and expertise can go in and do their thing and people with virtually no experience you know know, working in 3D or even in a virtual environment can come in and participate.
 
-Well, cha, yeah, thank you so much. I love the Tiny Desk, series of music that's happening. I don't know if you're familiar with that, but the idea of, like, the desktop as, this… this hub space that we launch off into is wonderful, like, sensory change. Anyway, I know we have to talk at the end. We'll have questions about that at the end, write down any questions for cha? Yeah, thank you. I'm gonna, ask Carolina to talk next about, her studio, and maybe GALINA's studio. Can you talk about your role as the graphic designer for the site, and a little about, the annual family reunion event?
+So, you know, I think that really, you know, I'm interested in looking to the future of what can be accomplished by kind of like, you know, the overlap and the Venn diagrams of loop and Techspressionism. With them. And I think that you know, the jump off page to loop in the text on the Techspressionism site is just kind of a first step I was making some notes to myself here about maybe adding in the um louis bourgeois salon schedule on that page so like visitors to the Techspressionism site will know hey like on these particular times on sundays I could jump in here and meet a whole bunch of new artists you know and I think that um uh it's a different kind of experience than the salons in that it's sort of um you know everyone is in there like participating in real time simultaneously where zoom is usually like people are taking turns sort of you know doing their things so it's a different type of experience and um and I'm also you know I have a to say I haven't really spent a whole lot of time in loops so I'm looking forward and you know to to getting involved with that so um so yeah that's that's pretty much it you know I really was impressed with what I saw today though and the um that piece with the the key I thought was really um you know just uh going in there it transformed from being in a space that was uh you know a social space into like being in a piece of artwork and and especially with the audio is just really pretty startling so um yeah so that's it you know and uh open it up to very cool do you have a comment you want to share yes I want to mention that uh the dancers around the lake those are glbs that I used from sketchfab uh I didn't make it myself because um I was new to glbs I know how to make those dancers right now so I downloaded the dancers from sketchfab if you want to have some free glbs you can just search sketchfab and download from there but the other glbs are made by myself very cool thank you um oh we're not ahead another comment brother yeah I just I wanted to add that there are so many artists projects inside loop that you can explore and I really encourage you to just go visit the exhibition that's on now that cha showed us the the the desktop, the approach, you just have to go to loop.online.io to get to the homepage.
 
-Carolina?
+But in addition, please, I'm trying to encourage people to use the Louise Bourgeois Sunday Salon as a space. It's there for us 24-7. The only times that you won't use it privately is on the Sunday times. But we can use it. You can go meet a friend there. You can bring your work to show them. Socialize in the space and for those people who are shy having an avatar instead of being on screen is is can be very liberating so I just wanted to mention that the loop menu item on the expressionism homepage you directly to the portal that leads into the LBSS, as we like to call the Louise Bourgeois Sunday Salon.
 
-## Carolina Kleine Samson [25:51](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1551s)
+Very cool. And before we throw everything open to your questions that you have written down like I do, there was a starter question that I was asked to pose to everybody, which is, can you think of ways that Expressionism and Loop can get more connected to one another? So with that as a question, I'd like to throw it open to anybody who has questions for any of the artists, presenters today. And you're welcome to use the, there's the React button on the bottom. You can click that and then it'll pop up. And then if you want to ask questions, you can ask them in the chat box. Hit the raise hand and I'm happy to call on you or you can just unmute yourself. When am I, oh, Cynthia, go ahead before I start on my list. First of all, I'd like to say this is very interesting and fascinating. And I thank all those who have presented.
 
-Hi, everyone. I'm Carolina Kleine Samson. Right now, I'm in Salvador, de Vallia, Brazil, but I'm based in Patagonia, Argentina. So, thank you very much for inviting us, to showing you. So, okay, I'm gonna talk a little bit about maybe, About the design and communication… loop communication,. Like, I want to mention, too, that cha, he was, like, at the beginning, when he… he was part of Loop, he really encouraged me to… To apply, for… for Loop, and I applied for the cohort 5… number 5 with Lorna Mills, so I get into Loop, to the residency.
+But I would like to ask Sahar a question. She mentioned that the very sculptural, lovely GLB that is within her verse has a story behind it. Could you tell us that story? Just a site that I made was actually generated, I generated it from the actual picture of the historical site in west of Iran. And yes, it's a pre-Islamic building still exists.
 
-And after that, after a while, I start to, like, showing Luke team. So, yeah, I'm really grateful for that, for cha and Ariel. To invite me to be part. So… Okay, I'm gonna talk a little bit, maybe, I'm gonna just start with, maybe for… For the design, like, graphic design of Loop. I think that is an interesting part, because now, we are, like, kind of using, the platform to create the designs, you know? Before that. I was just using, like, more regular, like, programs to… to… to… To do design, graphic design, but right now.
+Some of the ruins exist. And I think I have told you the story before. And I visited the site twice and it's very beautiful and has many stories behind it. Like this round lake, it was kind of like the whole land was holy for Iranian people, pre-Islamic period. And when kings wanted to go to wars, they usually get out of the horse, get cut down and walk barefoot to the lake and throw their crown into the lake. And during Arab invasions and Muslim invasions to Iran and all people around those areas, they just threw all the treasury and gold and coins and mine everything precious into that lake. So not Mongolian. Mongolians were very aggressive against the Mongolians and they were very aggressive against the Arab people. And you can see the possess the treasury and gold and crowns and anything.
 
-I think we are trying to do everything inside loop, so that is a really nice thing. Like, design, like, we are kind of, like, really living inside loop, so I really like that. And also, for graphic design, sometimes it's a challenge, because, it's not a platform made for that, but I think it's interesting that you kind of, like, we kind of find, like, there, like, our own style inside the platform with the native elements. So maybe I can share a little bit, Maybe we can go to the studios, and then kind of show a little bit how… we are using, the platform to create graphic design? I don't know. I'm not sure. Sorry, my English.
+So at the bottom of the lake lies a huge amount of treasures, the jewelries, golden crowns of different kings. And the mysterious part is that no diver can dive into the lake more than 10 meters and and if someone drowns the body doesn't up like it just goes down and it is told I don't know it's the fifth chakra of the earth so um during march um or yeah march reiki healers usually sit around the lake and meditate and during that time the um the gates of the because it has a very the site has a very big gate the gates are close to people so the reiki healers can meditate and do their stuff so I was going to put some meditate some glbs in meditation pose but I changed them with dancers so so that's the story and many famous uh kings pre-islamic period were crowned in the in the throne of solomon also there was some uh stories that actually solomon himself was a resident of that place so that's why that name comes throne of solomon the solomon so is solomon and um also with his queen and um another story is um that um the permanent um uh fire which still is uh burning for five thousand years originally was placed in throne of solomon and then removed to part of it is uh of it is now in india by um persian um um zoroastrians and part one part is still burning in yaz city so uh they never let the fire to get off so that's the story of son of solomon thank you for sharing that thank you thank you for asking that is a really good way to get to the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life and you can't do that in the end of the real life transfer or mental space transfer that you're creating?
 
-I'm not an English native speaker, but yeah, I can do.
+When we were asked to create our verse, the first thing that came to my mind was the Throne of Solomon. I want to make that in my verse. Very powerful. Are you planning on developing it further or is that a complete project at this point? How do you feel about it? I still wanted to make changes and edit it, but I didn't dare. Because if it crashes, I have to make it all over again. So I checked XR Editor and I still have access to XR Editor. But I really didn't dare to make any changes.
 
-## Tommy Mintz [28:41](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1721s)
+Make it copy. You can export one first. Just export the whole thing first. You'll be okay. Just Okay. Ask one of us. We'll walk you through it. Okay. But I will say it's pretty amazing from going to not... That's what I said in the comments from going to not be able to make a GLB to this. That's one thing I forgot to highlight was that sort of the kind of educational sort of aspect of Loop, which is I didn't want to recreate this hierarchical way of educating because in my mind as a professor, I would've just loved, loved to have all the students learn from each other. And I could give them projects, but then they could also participate in... Like this is like the wonderful feeling that you were, like mythical classroom, right? Which doesn't really exist. I'm sorry. Not at least at the colleges I've gotten to teach at.
 
-Doing great.
+It's you have to have this hierarchy, even if you don't want it. So like, I was like, well, this, I definitely don't want Loop to be like that. So the best thing about it is that it's not student teacher at all. You know, these are all adults, right? We're all adults, you know, and we're all learning from each other. Nobody, some of us have particular knowledge about GLBs or how to export this, and then we can help each other. And it's all very like individual and from peer to peer and a very horizontal learning space. One thing that we always do, and this is probably what I'm doing instinctually, is that when anybody mentions anything that is like a article, or a YouTube video or a new program or something is usually it's in the chat. Even if it's not, I'll write it in the chat because I want, so they might just say it in passing, but I want everyone else to know about it.
 
-## Carolina Kleine Samson [28:41](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1721s)
+Right. So I just like go online really quickly, find the app, put it in the chat. And then we also do that in the discord. So that way during the critiques, if people want to go back and look through the notes, and they're like, so cool. Somebody mentioned this amazing interview or article, their app, they can find it always written down. And that's kind of like another way of doing this. Because it's hard during a feedback session sometimes to take notes. So we kind of think about it as, you know, that's one of the things that, one of us is there to kind of guide the critique, but our time there or introduce a critique game or just let people talk. But one of the things that we do there is, you know, we do contribute to critique sometimes, but a lot of times we're just recording things down in the discord, in the chat and stuff like that.
 
-Spanish.
+So there is an educational kind of thing, but it's coming from these, like, I always thought it's really interesting. We have people from all over the world, right? And each of them have their own little resources that they draw from. Very, very, very different, you know, from somebody that's in the East Coast, from somebody that's in the West Coast, from somebody that's in the United States. So that's also like a thing that I think is really fun.
 
-## Tommy Mintz [28:42](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1722s)
+Very cool. Very cool. Cynthia, did you have another question or? I do, but I think Roz had her hand up earlier. And it's like critical, let her go first. Oh, thanks. Yeah. Thank you for this amazing presentation. You know, it really brings me back to the early days of digital art, where we were doing pixels. When we didn't quite know why they were appearing in our work or whatever. Early, early days. So exciting because it was a voyage where you didn't quite know where you were going, but you needed each other to get there. And I haven't really felt that in a long time. And it's just so fun to witness it. It's really, really exciting. One of my questions was, is the idea to make a, it seems to me it's probably already answered, but the idea is to make a new work of art as explorative and new Siberiana was.
 
-This all sounds great.
+It was fabulous. Great. We were actually making galleries and just showing our work, both digital and even things that preceded digital, like my information paintings was in my gallery. But we were just putting up things we'd already made and just making the space was fascinating, inviting people into it. But in your case, I think you're taking another step where you're really saying, yeah, sure, you can load things you've done. But it seems to me it's the idea is to create something new and a new experience. Is that isn't that the emphasis?
 
-## Carolina Kleine Samson [28:43](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1723s)
+Well, yeah. I mean, I think. And we think about it kind of in two ways. So when the critique starts, just to get everybody to know each other, put up works that you've made before, and then we can give feedback. But at least and Charlie and I are very different. So I leave critiques and also with Charlie's a lot of the critiques. And so you'd have to also ask him. But I'd like to talk about doing things like kind of bringing in things that are in process. You know, and so bringing things that you already have, but they're in process, because to me that, you know, the feedback then goes straight into something that, you know, can be used right away. But the other major thing that happens is after like a couple of weeks, we talked to them about this XR editor. This XR editor is a program that allows you to create your own verse.
 
-And also I'm kind of a little nervous, nervous, so, yeah. Maybe, okay, I'm gonna, I'm gonna share, the studios, and maybe kind of explain a little bit… About how we make, the graphic design inside, the space. Yeah, so I'm gonna do that. Okay… let's… Okay, someone is in there, maybe Ariel? Someone? Can you see the screen?
+So the way that Sahar created that verse was through this browser based program. And it was created by the MUD Foundation. And actually that wasn't there for the first couple years of Loop. For the first couple of years of Loop, actually, I think until Carolina's group, was the Lorna Mills group. And if you know who that artist is, you'll sort of get what happened. So the Lorna Mills group comes in. She's like an amazing artist, but she's kind of all over the place. And she's very energetic, makes a lot of work. Yeah. Her, the people she selected were like nuts. Like they were creating so much work that, and they were putting all this work into the rooms and they were crashing it. There's a thing about these rooms is there's only so much of like megabytes and stuff that can be in there until it crashes.
 
-## Renata Janiszewska [29:16](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1756s)
+And for people that don't have like a good wifi connection or not be on the best computer, like they just couldn't participate at all because everybody kept stuffing all sorts of crap into the room and then crashing. So we, I ended up going desperately to the MUD Foundation, who is the people that actually like maintain it. So that's the people that we paid money to. I paid money to, and now the museum makes money too for like our rent. And I said, we gotta do something because you know, the artist, we keep giving them rooms and they keep crashing them. And so he, he decided to give them the way to create their own rooms. Right. So they can each have separate verses that they would be able to, and they would also be able to kind of judge how much they were putting in, in the megabytes and all of that sort of stuff.
 
-Yes.
+And the grant that we got actually, we got the grant so that people, it's a compression grant so that people could upload something that's way too big and way too heavy. And it would actually auto compress it for them. So like that we wouldn't have those issues. And so, but so who was hosting Loop? I just see that it is the MUD Foundation. It is the Mud.Foundation.
 
-## Carolina Kleine Samson [29:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1758s)
+So it's a nonprofit. And it is, it is created by them. So the, we're not on anyone else's metaverse. We're not on a corporation's metaverse. We don't, anything like that. Yeah. So we're like kind of safe from something that can happen to like a spatial or to, to the other one that everybody was using. I forgot, but there was a lot of them that kind of went down, but anyway, but we're, we're okay with that. And the MUD Foundation is created by an artist for artists. And I have a very close connection to them. And they're also hugely funded by like the Knight Foundation and other arts grants.
 
-Okay. Every… who is… Okay. Okay, so as Ariel mentioned, she envisioned, like, a kind of, A place where artists, have their own studio in the digital space. So, I think that is a really interesting idea, because, I was searching, and there is not, like, other places like that, like, kind of to… To have, like. Artist studios in the same place. Actually, we… last year, we organized kind of a virtual studio visit day, something like that. I don't remember exactly the name, but, you know, in the physical space, we have this kind of, studio busy day, where all the artists open their studios, and then the people go through them and visit the studios, so we organized that, last year.
+Will we answer the question? I forgot what the question was, but anyway, we're going to ask you to answer it. Just that it's, you talked about it. It's, it seems to be very process oriented and that makes sense where things happen in creation with others, with other artists. So we give them this like great tool. Right. And then of course, like almost no artist comes into the loop, like making metaverses. Some of them do, but very few of them don't. And actually one thing that we want to make sure is that we make it really easy. So it's like someone doesn't even want to mess with this, like online creator browser thing. We have somebody who's like, I am just learning how to upload stuff and move it around. I want them to be there. Right. I don't want them to be excluded, you know? So I also want there to be something like if somebody is super complex, I think Michael Louie is here, but like Michael Louie knows a lot about these systems.
 
-And the idea is also to have other, projects or platforms that Can show in us, with this kind of, Tour, yeah, virtual studio tour. So yeah, but I couldn't find other place, to kind of, collaborate, so if you have any idea, or if you know other places that have, like. Artist Studios, please let us, let us know. So here, okay, we have each, kind of, each, Image or object is like a portal of, different studios. For example, here we have Terry Espataro, we have GALINA, too, that she's really, part of, like, she's really Part of the Loop community, Wenchong, Renata, that, okay, you, you have your studio under construction, that is the idea, too, that… we have, like, also, like, we have work in progress inside each studio, right?
+Yeah. And so if somebody, somebody is super complex, I want them to also like not be like super bored or anything, you know, and be able to make like, and hopefully we can help them as well. So yeah, needs to be both because I'm tired of people being excluded. And that's also the reason why we look the way we do. We don't necessarily look like this high tech futuristic, like digital art space with like, you know, we look a little dorky.
 
-Mona, I have my studio here, and also chess studio, so… we can jump into one… one of the studios, so we can… we can, yeah, see. So we're gonna go to GALINA's. I don't know how… if I have… how… It's okay, I'm okay, with the time, or…
+And we are a little dorky. And I feel like there's room on the internet for both types of spaces. You know, it's exciting. Thanks. It's been a really interesting salon. Thanks to all of you. Any other questions lingering in people's lists here? Minds. Is there a meeting? No, you can see agreed on September 6th in the Louise Bourgeois Society space, Renata, that we want to announce on the recording? Sure. It's 12 to 2 p.m. Eastern Time. The link to get in is on the Expressionism website in the menu. Simply click on the word loop, and with another click, you'll be inside the Louise Bourgeois Sunday Salon, and you'll have an avatar. You don't need to worry you'll be assigned one. There's also another session from 5 to 7 p.m. Eastern time, again, Sunday, September the 6th. Look forward to seeing you.
 
-## Tommy Mintz [31:55](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1915s)
+Awesome. Awesome. Thank you. Any last comments? Applause for everybody. Before we close the recording. I think we've been on for a full meeting here. This has been wonderful. I hear somebody. Go ahead. Cynthia had a question, Tony. Cynthia DiDonato. Thanks, Bob. Cynthia, did we skip your last question? I'm so sorry. That's okay. I was just going to ask how the loop participants have felt, have been affected by their participation, and what this effect produced in their work outside of loop.
 
-Yeah, you have about 3 minutes left.
+Great question. Sahar, or Carolina, Renata, any of the artists? Cha? Yeah, definitely. I think too. Galina. Yeah, definitely. You're a very good example, Galina. How about you? Nice to see you. Oh, yeah, it's so amazing to see like former loopers, and Ariel and Cha and Carolina. And Sahar, I know of Sahar as a looper, but like we connected being on two shows together without knowing each other, but knowing each other through the loop. And the loop metaverses are so incredible. I already had three different gallery shows with those loop metaverses. And also thanks to expressionism and connection with Renata, I had one of my loop metaverses, and it was a very good experience. And every woman Biennial after I presented my work here at the Expressionist Salon in July of last year and meeting Erin.
 
-## Carolina Kleine Samson [31:58](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1918s)
+So it's the artists networking outside and inside of the internet, like constant collaboration. And I just had a show in Venice that Cha and Renata and Ariel and Sahar are in because I see everybody's work. It's incredible. It's... And thank you so much. Guys. Thank you so much, Ariel, for providing the space, non-judgmental, beautiful, blooming digitally and to Cha and Renata for the Sunday salons that I try to go to when I have time, but it's incredible. Thank you so much. It's such a great, like such an amazing opportunity to be a part of. Yeah. Well, just... Well, it's great to hear, Galena. Thank you for...
 
-Okay.
+Thank you for sharing your experience and positivity. Any other comments before we close it out today? This has really been a wonderful salon. I'd like everybody to give yourself a round of applause and thank all the artists for participating. And we will have another salon. Colin, do you want to announce the next date for the next Expressionism Salon?
 
-Okay….
+Sure. Sure. Sure. So our salons are held on the first Thursday of each month at noon Eastern time. So the October salon will actually fall on October 1st. And that's going to be dedicated to the coworking community and group and sessions that we have here with the Expressionism community. And you can find out more about that on our homepage.
 
-Hmm.
+So, yeah. You know, I encourage anyone interested to come on by and I'm looking forward to seeing what the artists who've been participating in that, you know, are going to share. And I just really wanted to thank, you know, Ariel and the rest of the group from Loop. It's really been awesome. And I think we can come up with some, you know, pretty interesting collaborative ideas. I'm already like thinking about all sorts of different things. Yeah. Over the course of this session, you know, like I really liked the blind jurying.
 
-Oh, my internet connection, because I'm…
+I think that's something that like we could bake into some sort of an interesting exhibition where it wouldn't, it would just be something non-traditional, you know? And I think that also this idea, like I've often talked about this idea of social sculpture, which I was introduced to by Joseph Nakfatal, who's one of the people involved in Expressionism early on. And I think Loop is also a social sculpture in a similar way. And. I think Loop is also a social sculpture in that, you know, it's a piece of artwork and it's formulated by people, you know, engaging in various activities and very open-ended. So I think there's, you know, there's a lot of possibilities for some interesting stuff to happen.
 
-## Tommy Mintz [32:25](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1945s)
+So once again, I'd like to thank all of the artists and presenters and loopers and to Expressionists involved in this salon. And yeah, I look forward to attending. And I think Loop is also a social sculpture in a similar way. I'm just on a really really good start. I'm so happy to be on. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. I know a lot of you have had a good time. And come up with some ideas about future salons or just kind of have a pseudo advisory board meeting.
 
-You have to load slow when you're using Zoom. Yeah, yeah, the two of them.
-
-## Carolina Kleine Samson [32:28](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1948s)
-
-Yeah, that's…
-
-## Tommy Mintz [32:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1949s)
-
-Makes sense.
-
-## Carolina Kleine Samson [32:30](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1950s)
-
-I just got here yesterday, so it's a… I have a new Wi-Fi relationship, and… It's like, it was kind of complicated to date, so, yeah, I'm not sure. Maybe it's too heavy, GALINA space?
-
-## Unattributed [32:51](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1971s)
-
-Cha :): Yeah, it might be.
-
-## Carolina Kleine Samson [32:52](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1972s)
-
-Sad.
-
-## Tommy Mintz [32:53](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1973s)
-
-Cha just put the link in the chat, and everybody could just peek in on their own browser if the share… Is it gonna load. Oh wait, here it comes. We see it now.
-
-## Carolina Kleine Samson [33:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1985s)
-
-Okay. Okay, I'm gonna go to maybe…. Cha, and then I can really… okay….
-
-Also, I want to mention that cha hosts, every Sunday, like, a critique session, like, that is open to everyone. So, yeah.
-
-Hmm….
-
-Bueno.
-
-No, bueno. It's my internet, sorry.
-
-## Tommy Mintz [33:55](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2035s)
-
-A-OK, we've all experienced the joys of…
-
-## Carolina Kleine Samson [33:58](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2038s)
-
-Yeah, it's my new Wi-Fi is not working well. Okay. Bueno. Let's… I'm gonna try with my… That's pretty simple.
-
-Okay….
-
-It's not loop, it's my Wi-Fi, so… yeah. He said, bueno.
-
-## Tommy Mintz [34:32](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2072s)
-
-While it's loading, could you tell us a little bit about the family reunion event?
-
-## Carolina Kleine Samson [34:37](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2077s)
-
-Okay, so, yeah, the family reunion, is an annual event. That, is… and also, it's, like, a kind of a performance, so, because, like, we, Ariel cha and I, we are, like, spending, like. 3 days inside loop, almost, like, non-stop. And also, it's like a… it's like a… Way of meet, again, all the, like, the former loopers, lupus, so, yeah, we spent 3 days there, with, like, there, there's a lot of activities, like, workshops, talks, we have a group show.
-
-We have a lot of, like, conversations, so it's a really interesting, performance. An event, and yeah, this… and every… like, last… no, this year is, like, it was open to every… everyone, so, like, former Loopies and new people are, like, showing us, and experience, the Loop family reunion. I don't know, Ariel, if you wanna say something, like, You wanna add something else?
-
-## Ariel Baron-Robbins [36:08](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2168s)
-
-Oh, no, I was just… I'm just showing that, other people's studios, but no, Loop Reunion is just a time for everyone to get together, because I also think it's important that people Form connections, and obviously, like, we've had lots of people that end up having exhibitions with each other, or that… Share open calls, and then end up having exhibitions with each other, so it's just a time for everyone to get together and meet. And because we operate across so many time zones.
-
-We have it going from 9.30am to 9.30pm. And we decided… cha and I, at first, decided that we were gonna stay in Luke for those 12 hours, for 2 days. And then Carolina has done it too, and so now it's like a semi-performance piece, but it's kind of cool, because anybody can come whenever they want, and one of us will be there, or probably both, all of us, going loopy crazy.
-
-## Tommy Mintz [37:12](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2232s)
-
-Durational online performance. That's very cool. And it really is building a where I think people are, really building real relationships. It's a…
-
-## Carolina Kleine Samson [37:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2244s)
-
-Yeah.
-
-## Tommy Mintz [37:25](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2245s)
-
-Wonderful experience. Carolina, is there something that you want to share before we… Continue, my timer just went off.
-
-## Carolina Kleine Samson [37:32](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2252s)
-
-Yeah, I have… oh, here I entered the studio, and I want to mention that many of the artists that I met Through Loop, I met them in real person, so in the physical, world, so we also start to collaborate together. I met a lot of artists from Argentina, where… yeah, so we met in real life, and we start also to collaborate, so that is a wonderful thing, too. So, finally, I entered to the… to my studio, so… this is my studio. Also, it's like a… yeah, as I say, it's like… it's a studio, so it's under construction, it's a work in progress.
-
-So now I have some pieces, some… some of my pieces are… Related to painting the screen and recycling files. So, you can see that there, and, like, I, I wanna mention something that is related to the graphic design, that is, like, I don't know, we are kind of using everything in here. I'm gonna type something,.
-
-So the idea is to use the tools that we have here. For example, I'm typing on the cha, and I'm creating an object. Here, so… I'm… I'm kind of, using, like, putting information inside Loop, and then I'm, like, taking a screenshot of the information, and voila! The flyer is, is made. So…
-
-## Tommy Mintz [39:17](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2357s)
-
-Very cool design, I like that.
-
-## Carolina Kleine Samson [39:22](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2362s)
-
-Yeah, it's like a screenshot. Like, another interesting thing is, like, always in graphic design, it's, like, all about, like, you know, the resolution, and the quality, and things like that, and… I think we are a screenshot-based, because, like, the photographies, there are screenshots, and also the graphic design, too, so… Yeah, yeah, sometimes I upload also, like, like, some pictures to create the flyer, but yeah, this is the kind of the process that we are using.
-
-## Tommy Mintz [39:58](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2398s)
-
-Very cool, very recursive and referential. In interesting ways. Thank you, Carolina. People, write down your questions for Carolina at the end. We're gonna take questions for everybody at the end. I have… I have a list I'm keeping. We're gonna keep moving, to another participating artist. Sahar is one of, it's expressionist artists from our group who has participated in a six-week loop residency, and I'm hoping… that SAHAR can talk about, what she took away from the experience, and if we can see some of your current work. SAHur on, right? I thought I saw you. Yeah, hi.
-
-## Sahar Moussavi [40:35](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2435s)
-
-Hi! Hi, everyone. So I'm SAH, I'm, I'm SAHAR, hi. I'm Zooming now from Vancouver, I'm based in Iran, and I'm gonna share my… first, I'm gonna share some slides, from my experience from Duke Art Critic Residency, and then, I'll invite you to join my verse.
-
-I'm gonna read, so can you see my screen?
-
-## Tommy Mintz [41:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2481s)
-
-Yes.
-
-## Sahar Moussavi [41:22](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2482s)
-
-Okay. So, I was selected by, Joey Zaza to participate in DMRAM, Newfound Verse, an art critic group within the Loop Art Critic Residency program. The six-week residency took place from September 8, 2025, Through November 23, 2025. We met every Monday and Thursday from 12 to 3 p.m. In the Critic Club, where we engaged in group discussions, artistic feedback, and critical conversations. Through… around our work. So, also, Nina Sobell was… in our group, prompt expression, some… So I… I'm glad I took many screenshots and selfies.
-
-So, cha, Ariel, and Carolina were our mentors, especially chaa was always there. Throughout the residency, they guided us through the program and supported us throughout the creative process. During the first sessions, we became familiar with the tools and features of the verse. We learned how to upload and incorporate texts, images, and emojis, as well as how to use the pen tool. We also learned how to navigate the verse. Including how to move, explore, and fly through the virtual environment. So this is one of the sessions that we were playing around with pens and uploading huge emojis and converting text to objects in the wares. And that's me, that's my avatar. So, in each session, artists uploaded their artwork to the verse, and other participants engaged in an open conversation about the work.
-
-The discussions were non-judgmental and supportive, focusing on positive feedback throughout the observations and constructive dialogue. This created a safe and encouraging environment for Artist to share their work, exchange ideas, and learn from one another. So that's me, and I uploaded my artworks. And took a selfie in front of it.
-
-We also participated in creative workshops led by guest artists and invited speakers. These sessions were both educational and inspiring, offering new perspectives, creative techniques, and opportunities to explore different approaches to art making. So I remember that. This workshop was about, Completing, each other's sentences, I think. One starts with a sentence, and then we have to continue the sentence in the verse. In some sessions, guest artists were invited to share their artistic experience, participant practices, and perspectives with the group. One of the virtual guests… one of the invited guests was fellow Techspressionist Artist Renata, who shared her creative journey and Insights with us. So, at the right, you can see Renata's avatar.
-
-So one of the most new and interesting experiences for me as a 3D artist was discovering GLB files, created by loopers and other artists. I was already familiar with GLB format, through the Siberiana show. But I had never created an artwork, especially as a GLB file myself. During the residency, I experimented with AI-generated GLB files and explored how they could be used as artistic objects. Within a virtual environment. I later incorporated some of these GLB artworks into my final projects, the Mad Word, presented as part of the exhibition. So these are some of the GLBs I made.
-
-From real pictures.
-
-I also created several GLB artworks based on my own hand drawings, this process of transforming My traditional sketches into interactive 3D objects was a completely new and exciting. Experience for me. I became fascinated with this, process, and honestly, still obsessed. So, as you see, these are some, the two objects on the right are, based on, RGLB files, Created based on my Ahern drones.
-
-So, as an optional final project, each participant was invited to create their own verse using XR Creator Studio. I created my verse, inspired by a real mystical location in western Iran called the Throne of SALON, Taqtes, or Layman. This project allowed me to connect my artistic practice with plays rich in history, mythology, and mystery, and to reinterpret it through a contemporary virtual environment. So we're going to visit my Verse later. Also, my piece titled Alchemist's Dream. I made that, image myself, so… Is minted and listed in Mona Gallery on Object.com as part of the Dream Ram Neof Angel Bertz exhibition.
-
-So this is, the poster of the Madward exhibition, and the title was, suggested by, Michael. And, it's official poster… This is the main hall, which we are going to visit. After, after a couple of minutes… and this is the GLB I made through the 6 weeks residency, and it's the portal to my birth. So… I'm gonna stop sharing my Google Slide, and I'm going to put the link in the… cha. And if you can find my, Portal, you can go, through my portal, or I can share my verse, so we can go Directly to my verse.
-
-So I'm sharing, the main hall. Great to see you too, Sina! I encourage everyone to also visit Nina's verse. So I, put the link to the main hall in the cha. If anyone wants to join, I recommend to use Chrome. And log in. If it's difficult, I can just put my verse, I don't know which one.
-
-Are you going into the main hall?
-
-## Tommy Mintz [49:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2961s)
-
-I have a loading…
-
-## Sahar Moussavi [49:22](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2962s)
-
-Okay.
-
-## Tommy Mintz [49:23](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2963s)
-
-Entering Bertz… Loading bar right now.
-
-## Sahar Moussavi [49:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2969s)
-
-So right now, I'm in the verse.
-
-So every object you see in the verse is a portal to the artist's verse. Everything, every artwork, every object. You see it's a portal.
-
-## Colin Goldberg [49:56](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2996s)
-
-Do you want to try sharing your screen, SAHAR? For those of us who are maybe watching and recording?
-
-## Sahar Moussavi [50:03](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3003s)
-
-Okay.
-
-Didn't she see my screen, or not? Okay. So this is my… can you see my screen?
-
-## Tommy Mintz [50:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3024s)
-
-Yes.
-
-## Colin Goldberg [50:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3024s)
-
-Yep.
-
-## Sahar Moussavi [50:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3026s)
-
-Okay, so, at, the left, top left, you can see my avatar. And, I'm just, showing you diverse, every artist. This is Nina's verse. Which I got lost. Several times. And this is my, my, verse. So even in the caves, there are other, portals, which lead you to, the artist's verse. So I will go to my verse, you can hear Sloanam SALON.
-
-## Tommy Mintz [51:09](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3069s)
-
-We have, 2 minutes left.
-
-## Sahar Moussavi [51:12](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3072s)
-
-Okay.
-
-So I have to say that my internet was awful during the residency, and I missed many, many Staff? But now, this is my verse, here. I'm gonna fly, because, it's a little… Showing… I'll go up… I don't know why my cursor is very big, I was not able to…
-
-## Tommy Mintz [51:55](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3115s)
-
-I don't see the cursor on the screen share, I think it's okay for us. Oh, maybe it's there.
-
-## Sahar Moussavi [52:25](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3145s)
-
-I think my lovely screening, I hope.
-
-So these are the GLBs I made, from the actual… Buildings and the lake in the… The real… the real location?
-
-This is a lake, and my golden jailbi here. Which has a story behind it.
-
-And you can go to, into the building, and the ruins, and lie… so this is my dorm.
-
-And I added a mirror here. So we can see… That's my avatar in the mirror, and the light. And I can change the light and everything, and the lighting. There is a setting for the lighting. That's my tree on the sphere. My, my, description….
-
-Scroll down….
-
-So we had, one session before the exhibition, and, we had, some guests and other artists, help me to… Make my verse a little better. Like, putting reflections on… Putting a mirror to the… Lake…. I'm trying to show you the details of my….
-
--Oh.
-
-Semi,.
-
-We go inside the building.
-
-So that's my verse. And there is, an exit… an exit in, bottom left… which shows you how can you exit. I put the exit. Icon.
-
-I have a guest.
-
-I think that's the avatar of someone visiting. Is it Carolina? No.
-
-## Unattributed [57:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3438s)
-
-Cha :): Ariel.
-
-## Tommy Mintz [57:19](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3439s)
-
-One else in their head. It might have been me. I might… I'm not sure if my avatar still.
-
-## Unattributed [57:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3444s)
-
-Cha :): I mean, Ariel.
-
-## Sahar Moussavi [57:25](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3445s)
-
-Cool. Yellow…
-
-## Tommy Mintz [57:27](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3447s)
-
-Oh, cool, cool. This is really beautiful, SAHAR. Thank you. So… Interesting to sort of get a sense of past and future in an int… you know, in this recombined… Mine space that you're… Creating for us? Really, really fantastic.
-
-## Sahar Moussavi [57:44](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3464s)
-
-Thanks, I had a few other GLBs, but my internet was not really good, so my purse crashed once, and I had to remove some of the objects and GLBs from… it was a very bad, situation, internal situation during those… during the residency, so… Yeah.
-
-## Tommy Mintz [58:05](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3485s)
-
-Be a flying cow. That is a really fantastic, introduction to the work you did here, and I hope you continue on this. This is… Really. New… new… New frontiers in art is what I feel like we're all viewing here right now. And…
-
-## Sahar Moussavi [58:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3504s)
-
-Nice.
-
-## Tommy Mintz [58:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3506s)
-
-People write down your questions for SAHAR, for, The end of our meeting. We're gonna, I think look at one more space that Renata created, so hold your questions until after Renata, and then…. Yeah, I mean, really. Do you want to see how many I've written down so far? I have a lot of questions here, so be prepared. Renata, are you able to share a screen, and talk about, the Louise Bourgeois, Sunday SALON, and talk about the naming of it? A little bit there.
-
-## Renata Janiszewska [59:02](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3542s)
-
-Sure, I'm going to share my screen. Thank you, Tommy, and thank you, SAHAR, for that great view inside your space. The, The scale is what I really enjoy when you're inside a verse, it's very different than any other kind of… Room that you put your work into. And we saw that in SAHARS with the little dancing figures and the huge GLB files. So here we are. Can everybody see?
-
-## Tommy Mintz [59:37](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3577s)
-
-I don't have a screen share up yet. Is that what you're hoping to share?
-
-## Renata Janiszewska [59:42](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3582s)
-
-Yeah.
-
-## Tommy Mintz [59:44](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3584s)
-
-Give it one more click, maybe.
-
-## Renata Janiszewska [59:47](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3587s)
-
-Okay…
-
-## Tommy Mintz [59:57](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3597s)
-
-This has been a relatively seamless It's an Expressionism SALON. Normally, we're always… Getting a lot of glitches in here. We're in now, Renata. We have your screen share, and we see your reverse. I'm gonna…
-
-## Renata Janiszewska [01:00:07](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3607s)
-
-Okay, so this is the Louise Bourgeois Sunday SALON space. And before I take you around on a tour, I just wanted to say how absolutely grateful I am to Ariel. She invited me to be a guest critique leader, and that's how I met cha and Carolina. And the experience of being in the space for 6 weeks with artists whose work I had chosen. And I chose it without knowing who they were. They didn't have to give a bio, as Ariel mentioned, or an artist statement. And having a blind jury, or a blind juror, as I was.
-
-It made it really fair, and I really… Just want to say how much I applaud that kind of… Policy, if, you know, if more… if more residencies and more competitions were judged blindly, I think that the art world would be a lot better off. So… I made… I made some work in the… in the metaverse after the residency, because I was allowed some use of the XR space. And I made a lot of, still life photography inside worlds that… or verses that I had created using 2D JPEGs of my paintings with… combined with 3D objects that were animated.
-
-I made one video that I was really happy with, and I liked it so well that now I've got myself a studio for a year in loop that I can… Do whatever in. Every Sunday, I'm here at the Louise Bourgeois Sunday SALON,. She… I wanted to go this way. There's a photograph of her there. And…. You can… if you're… if you come to the space, you can go visit this website, which talks about Louise Bourgeois' life and career. And to the right of it, there's a MoMA website.
-
-That talks about her drawings. It's quite comprehensive. Louise Bourgeois lived on the Lower West Side for a long time, and she hosted a Sunday SALON in her home every Sunday for her students and for other artists who were invited to come and have a drink and present work in a very non… Judgmental and nurturing kind of environment, and that's exactly what I found. Here, in this SALON, you can come on Sundays between 12 and 2 p.m. Eastern, or 5 and 7 p.m. Eastern.
-
-And cha will be here, and I will be here at the 5pm SALON. We see a couple… a GLB file of cha here, the green Sonriza, which is part of a really large series he's done. I think he's done hundreds of them. And to the right, you see five works by SAHAR. This is what I mean about putting a JPEG into the space. She's just uploaded these photos, and you can enlarge them. I don't know if it's not working here, but there's a way to…
-
-## Sahar Moussavi [01:03:27](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3807s)
-
-I pinned them, so…
-
-## Renata Janiszewska [01:03:28](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3808s)
-
-Oh, you pin them, okay. So, you can blow up your JPEG to be really monumental in this space. This, for example, on the right. This, looks like a website page. That could go, like, 4 or 5 times bigger than that. And you can see, also, you can… Know that sound is spatial, so you can sort of hear people coming closer and going farther away. There's a portal to this current exhibition. This is a project here. The recycling bin is a project by Carolina, who's an amazing curator. I've been in a number of shows that she's curated, and it's a recycling bin for your used files.
-
-This is a GLB that I made recently for an exhibition that Galina Shevchenko curated it was an AR exhibition that took place partly in Venice, Italy, and Venice, California. There's, to the right of… it is a photograph by Tommy Mintz, part of his automated digital collage series. And I think we've already seen that you can fly. I'm gonna try to fly into the red… GLB file. That cha… Maids?
-
-So here we are inside a GLB. And you can have meetings in here, if you want some privacy, or… it's just another way of looking. At the work. Oh, I've gone the wrong way.
-
-I'm out… I'm out in space now. And now I'm below? Okay. So again, I encourage you to come visit on Sundays and talk about your work. You can upload your work here really easily, and it doesn't have to stay in the space. It's a really, really wonderful project. The entire Loop Bar Critique has enriched my life as an artist so much, and I can't say thanks enough again to Ariel cha and Carolina.
-
-## Tommy Mintz [01:06:13](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3973s)
-
-Fantastic. Thank you, Renata. Really… Lovely to see how the collaboration you know, between Techspressionism and… excuse me, and Loop, I think is a very, Simpatico, natural one. Colin… geez, excuse me. Colin, do you have any… Comments you'd like to share about Lew BenTechspressionism meeting, and how that came about? Do you have a story about that? Miami.
-
-## Colin Goldberg [01:06:46](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4006s)
-
-Yeah, well, I mean, I guess, Yeah, well, you know, in the beginning, I kind of just, you know, mentioned that he and I met up, you know, last time I was in Miami, but I did actually want to bring up, Siberiana, which is a project that you were largely responsible for as an architect, which was our own sort of version of this idea of a, you know, a, A virtual space where artists had their studios, and I thought maybe, you know, that the nature of the collaboration could somehow you know, rekindle that spirit of what was accomplished in Siberiana.
-
-In, you know, merging with what Loop is doing in some sort of an interesting way, I just feel like there's a lot of shared ethos, you know, between the two communities, and, you know, the idea of openness. Not requiring any… any money from anybody to, you know, participate, and having it be, you know, as technologically, sort of. Open-ended as possible. That is, people with a lot of experience and expertise can go in and do their thing, and people with virtually no experience, you know, working in 3D or even in a virtual environment can come in and participate, so… you know, I think that, really, you know, I'm interested in looking to the future of what can be accomplished, by kind of, like, you know, the overlap and the Venn diagrams of, of, of loop and Techspressionism. And I think that, you know, having the jump-off page to loop in the Techspressionism site is just kind of a first step. I was making some notes to myself here about maybe adding in the, Louise Bourgeois SALON schedule on that page, so, like, visitors to the Techspressionism site will know, hey, like, on these particular times, on Sundays, I could jump in here and meet a whole bunch of new artists, you know, and I think that, It's a different kind of experience than the salons in that it's sort of… you know, everyone is in there, like, participating in real time simultaneously, whereas Zoom is usually, like, people are taking turns, sort of, you know, doing their thing, so it's a different type of experience, and and I'm also, you know, I have to say, I haven't really spent a whole lot of time in Loops, so I'm looking forward, you know, to to getting involved with that, so… so yeah, that's… that's pretty much it. You know, I really was impressed with what I saw today, though, and the, that piece with the… the key, I thought was really, you know, just going in there, it transformed from being in a space that was you know, a social space into, like, being in a piece of artwork. And especially with the audio, it was just really pretty startling. So, Yeah, so that's it, you know, and open it up to… Anybody else to share?
-
-## Tommy Mintz [01:09:59](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4199s)
-
-Do you have a comment you want to share?
-
-## Sahar Moussavi [01:10:01](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4201s)
-
-Yes, I want to mention that, the, dancers around the lake, those are GLBs that I used from Sketchfab. I didn't make it myself, because I was new to GLBs, but now I know how to make those dancers. Right now. So, I downloaded the dancers from Sketchfab. If you want to have some free GLVs, you can just search Sketchfab and, download from there. But the other GLVs are made by myself.
-
-## Tommy Mintz [01:10:40](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4240s)
-
-Very cool, thank you. Oh, Renata has another comment. Renata!
-
-## Renata Janiszewska [01:10:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4248s)
-
-Yeah, I just… I wanted to add that there are so many artists Projects inside Loop that you can explore, and… I really encourage you to just go visit the exhibition that's on now, that cha showed us, the desktop, the approach. You just have to go to Loop. Onland.io to get to the homepage, but In addition, please, I'm trying to encourage people to use the Louise Bourgeois Sunday SALON as a space. It's there for us 24-7. The only times that we'll… you won't… won't use it privately is on the Sunday times.
-
-But we can, like, we can use it. You can go meet a friend there, you can bring your work to show them, you can socialize in the space, and for those people who are shy, having an avatar instead of being on screen is… can be very liberating. So, I just wanted to… Mentioned that the loop menu item on the Expressionism homepage. Takes you directly to the portal that leads into the LBSS, as we like to call the Louise Bourgeois Sunday SALON.
-
-## Tommy Mintz [01:12:04](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4324s)
-
-Very cool. And, before we… Throw everything open to your questions that you have written down, like I do. There was… A starter question that I was asked to pose to everybody, which is, can you think of ways that Techspressionism and loop can get more connected to one another? So with that, as a question, I'd like to throw it open to anybody who has questions for any of the Artist presenters today, and…. You're welcome to use the… there's the react button on the bottom, you can click that, and then hit the raise hand, and I'm happy to call on you, or you can just unmute yourself. One of my… oh, Cynthia, go ahead, before I start on my list.
-
-## Allen Hirsh [01:12:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4369s)
-
-First of all, I'd like to say this is very… Interesting and fascinating, and I thank all those who have presented. But I would like to ask SAHAR a question. She mentioned that the GL… the very sculptural, lovely GLB that is within her verse has a story behind it. Could you tell us that story?
-
-## Sahar Moussavi [01:13:11](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4391s)
-
-Just, site? That I made was, actually, generate… I generated it from the actual picture of the historical site in west of Iran. And yes, it's a pre-Islamic building, still exists, some of the ruins exist, and I think I have told you the story before. And, I visited the site twice, and it's, very beautiful and, has many stories behind it, like, this, round. Lake. It was, kind of, like, the whole land was holy for Iranian people, pre-Islamic period, and when kings wanted to go to wars.
-
-They usually, get out of the horse, get down, and, bear, walk. Barefoot to the lake and throw their crown into the lake. And during, Arab invasions, Muslim invasions to Iran, and all people, like, around those, area, they just threw all the treasury and gold and coins, and mine everything precious into that lake. So, not Mongols… Mongols, no Arab Muslims, they cannot reach and, possess the treasury and gold and crowns and anything. So, at the bottom of the lake.
-
-Lies a huge amount of Treasures, jewelries, golden, golden crowns of different, different kings, and the mysterious part is that no diver can dive into the… Lake more than 10 meters. And… and if someone drowns, The body doesn't come up, like, it just goes down. And, it is told, I don't know, it's the fifth chakra of the Earth. So, during, March, or, yeah, March, Reiki healers usually sit around the lake and meditate. And during that time, the gates of the… because it has a very… the site has a very big gate.
-
-The gates are closed to people, so the Reiki healers can meditate and do their stuff. I was going to put some meditate… some GLVs in meditation pose, but I changed them with dancers, so… so that's the story, and many famous kings pre-Islamic period were crowned in the throne of Solomon. Also, there was some stories that actually Solomon himself Was a resident of that place, so that's why the name comes, Throne of SALON, the Suleiman, so is SALON. And, also with his Queen. And, another story is, that, the, the permanent, Zoroastians Fire, which still is, burning for 5,000 years.
-
-Originally was placed in Sloan of SALON, and then removed to… part of it is, of it is now in India by, Persian, Zoroastrians, and part… one part is still burning in Yass City. So, they never let the fire to get off. So, that's the story of Thorn of SALON.
-
-## Allen Hirsh [01:17:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4641s)
-
-Thank you for sharing that.
-
-## Sahar Moussavi [01:17:22](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4642s)
-
-Thank you. Thanks for asking.
-
-## Tommy Mintz [01:17:30](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4650s)
-
-Very cool. SAHAR. Really fascinating story that, Makes me think about this use of…. Digital space, which can be anything. To represent a very particular thing, and how we still get that… or place, particular place, then the energy from that place, you say it was, like, the fifth chakra of the world, but it's, like, now represented in this virtual space, in a way, and I'm just fascinated by that sort of energy transfer, or mental space transfer that…
-
-## Sahar Moussavi [01:18:00](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4680s)
-
-When we were asked to create our verse, the first thing came to my mind was Throne of Solomon. Like, that's so cool. I want to make that in my verse.
-
-## Tommy Mintz [01:18:12](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4692s)
-
-Very powerful. And are you planning on developing it further, or is that a complete project at this point? How do you feel about it?
-
-## Sahar Moussavi [01:18:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4698s)
-
-I still wanted to make changes and edit it, but I didn't dare. Because if it crashes. I have to make it all over again. So I… I checked XR Editor, and I still… cha, I still have access to XR Editor, but I really didn't dare to. Make any changes.
-
-## Tommy Mintz [01:18:40](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4720s)
-
-Hmm.
-
-## Sahar Moussavi [01:18:41](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4721s)
-
-Yeah.
-
-## Tommy Mintz [01:18:42](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4722s)
-
-Thank you.
-
-## Ariel Baron-Robbins [01:18:43](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4723s)
-
-Copy. You can export one first.
-
-## Unattributed [01:18:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4728s)
-
-Cha :): Yeah.
-
-## Ariel Baron-Robbins [01:18:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4728s)
-
-Sport the whole thing first. Yeah, you'll be okay. Just ask one of us, we'll walk you through it.
-
-## Sahar Moussavi [01:18:55](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4735s)
-
-Oh.
-
-## Ariel Baron-Robbins [01:18:58](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4738s)
-
-But I will say, it's pretty amazing from going to not… That's what I said in the comments, from going to not, you know, being able to make a GLB to this, you know, and that's one thing I forgot to highlight, was that you know, sort of the kind of educational sort of aspect of Loop, which is… I didn't want to, like, recreate this hierarchical, like. Way of educating, because, like, in my mind, as a professor, my… I would have just loved, loved to have like, all the students learn from each other, you know, and… and I, you know, could, you know, give them projects, but then they could, you know, also participate in a… this is, like, the, like, you know, wonderful… Feeling that you were, you know, like, mythical, classroom, right? Which doesn't really exist. I'm sorry. Not at least at the colleges I've gotten to teach at. It's… it's… you have to have this hierarchy, even if you don't want it. So, like, I was like, well, this… I definitely don't want… Loop to be like that, so… The best thing about it is that it's not student-teacher at all, you know? These are all adults. You know, we're all adults, you know, and we're all learning from each other, nobody… Some of us have particular knowledge about GLBs, or how to export this, and then we can help each other, and it's all very, like, From individual, and from peer-to-peer, and a very horizontal learning space. One thing that we always do, and this is probably what I'm doing instinctually, is that when anybody mentions anything that is, like, a article, or a YouTube video, or a new program, or something.
-
-Is… usually it's in the cha. Even if it's not, I'll write it in the cha, because I want… so they might just say it in passing, but I want everyone else to know about it, right? So I just, like, go online really quickly, find the app, put it in the chat, and then we also do that in the Discord. So that way, during the critiques, if people want to go back and look through the notes, and they're like, somebody mentioned this amazing interview or article, their app.
-
-They can find it always written down. And that's kind of, like, another way of… of doing this. Because it's hard during a feedback session sometimes to take notes. So we kind of think about it as, you know, that's one of the things, like, one of us is there to kind of guide the critique, but our time there, or… Or introduce a critique game, or just let people talk, but one of the things that we do there Is, you know, we do contribute to critiques sometimes, but a lot of times we're just recording things down in the Discord, in the cha, and stuff like that. So there is an educational kind of thing, but it's coming from these, like… I always thought it's really interesting, we have People from all over the world, right? And each of them have their own little Resources that they draw from.
-
-Very, very, very different, you know? From somebody that's in the east coast of the United States. So that's also, like, a thing that I think is really fun.
-
-## Tommy Mintz [01:22:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4946s)
-
-Very cool. Very cool. Cynthia, did you have another question, or just…
-
-## Allen Hirsh [01:22:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4951s)
-
-I do, but I think Roz had her hand up earlier. And I'd like her to go… let her go first.
-
-## Roz Dimon [01:22:39](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4959s)
-
-Oh, thanks. Yeah, thank you for this amazing presentation. You know, it… it really brings me back to the early days of digital art, where we were doing pixels when we didn't quite know why they were appearing in our work or whatever. Early, early days. So exciting, because it was a voyage where you didn't quite know where you were going, but you needed each other to get there. And I haven't really felt that in a long time, and it's just so fun to witness it. It's really, really exciting. One of my questions was, is the idea to make a, it seems to me it's probably already answered, but the idea is to make a new work of art, as explorative and new, Siberiana was. It was fabulous, great. We were actually making galleries and just showing our work, both digital and even things that preceded digital, like my information paintings was in my gallery. But we were just putting up things we'd already made, and just making the space was fascinating.
-
-Inviting people into it. But in your case, I think you're taking it another step where you're really saying, yeah, sure, you can load things you've done, but it seems to me it's the idea is to create something new and a new experience. Is that… isn't that the emphasis?
-
-## Ariel Baron-Robbins [01:23:46](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5026s)
-
-Well, yeah, I mean, I think in the… we think about it kind of in two ways, so when, like, the critique starts, you know, just to get everybody to know each other, you know, put up works that you've made before, you know, and then we can give feedback, but at least and cha and I are very different, so I lead critiques, and also… but cha leaves a lot of the critiques. And, so you'd have to also ask him, but I'd like to talk about doing things, like, kind of… Bringing in things that are in process.
-
-You know, and so, bring the things that you already have, but they're in process, because to me, that, you know, the feedback thing goes straight into something that, you know, can be used right away. But the other major thing that happens is after, like, a couple weeks, we talked to them about this XR editor. This XR editor Is a program that allows you to create your own verse. So the way that SAHAR created that verse was through this browser-based program that is it was created by the Mudd Foundation, and… and actually, that wasn't there for the first couple years of Loop. For the first couple years of Loop, actually, I think until Carolina's group.
-
-There was a Lorna Mills group, and if you know who that artist is, you'll sort of get what happened. So the Lourdes Mills group comes in, she's, like, an amazing artist, but she's kind of all over the place, and she's very energetic, makes a lot of work. Her… the people she selected were, like, nuts. Like, they were creating so much work that… and they were putting all this work in… into the rooms, and they were crashing it. Because the thing about these rooms is there's only so much of, like, megabytes and stuff that can be in there.
-
-And until it crashes. And for people that don't have, like, a good Wi-Fi connection, or not being on the best computer, like, they just couldn't participate at all, because everybody kept stuffing all sorts of crap into the room, and then crashing it. So, we… I ended up going… desperately to… The Mudd Foundation, who is the people that actually, like, maintain it, so that's the people that we pay money to, I paid money to, and now the museum makes money to, for, like, our rent.
-
-And, I said, we gotta do something, because, you know, the art is cute. We keep giving them rooms, and they keep crashing them. And so he… he decided to give them the way to create their own rooms. Right? So they could each have separate verses that they would be able to… and they would also be able to kind of judge how much they were putting in, in the megabytes, you know, all of that sort of stuff. And the grant that we got actually… we got the grant so that people… it's a compression grant, so that people could upload something that's way too big and way too heavy, and it would actually auto-compress it for them.
-
-So, like, that we wouldn't have those issues. But, so who is hosting Loop? I just see that. It is the Mudd Foundation. It is the Mud.foundation, so it's a non-profit, and it is… it is created by them, so the… we're not on anyone else's metaverse. We're not on a corporation's metaverse. We don't… anything like that. Yeah, so we're, like, kind of safe from something that can happen to, like, a spatial or to the other one that everybody was using, I forgot. But, There's a lot of them that kind of went down. But anyway, but we're okay with that, and the Mudd Foundation was created by an artist for artists, and I have a very close connection to them, and they're also hugely funded by, like, the Knight Foundation and other arts grants.
-
-Let me answer the question? I forgot what the question was, but anyway…
-
-## Roz Dimon [01:27:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5269s)
-
-Oh, just that it's… you talked about it, it seems to be very process-oriented, and that makes sense, where things.
-
-## Ariel Baron-Robbins [01:27:55](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5275s)
-
-Yes.
-
-## Roz Dimon [01:27:56](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5276s)
-
-Happen in.
-
-## Ariel Baron-Robbins [01:27:57](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5277s)
-
-Oh, yeah.
-
-## Roz Dimon [01:27:57](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5277s)
-
-With others, with other artists, and that's.
-
-## Ariel Baron-Robbins [01:27:59](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5279s)
-
-So we give them this, like, great tool, right? And then, of course, like. Almost no artist comes into Loop, like, making metaverses. Some of them do. But very few of them don't. And actually, one thing that we want to make sure is that we make it really easy. So it's like, someone doesn't even want to mess with this, like, online creator browser thing. We have somebody who's like, I am just learning how to upload stuff and move it around. I want them to be there, right? I don't want them to be excluded.
-
-You know, so, I also want there to be something, like, if somebody's super complex, I think Michael Lewy is here. But, like, Michael Lewy knows a lot about these systems, yeah. And so, if somebody's super complex, I want them to also, like, not be, like, super bored or anything, you know, and be able to make, like. And hopefully we can help them as well. So, yeah. Needs to be both, because I'm tired of people being excluded. And that's also the reason why we look the way we do. We don't necessarily look like this high-tech, futuristic, like.
-
-Digital art space with, like, you know, we look a little dorky. And we are a little dorky. And I feel like there's room on the internet for both types of spaces, you know?
-
-## Roz Dimon [01:29:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5366s)
-
-It's exciting, thanks. It's been a really, interesting salon. Thanks, all of you.
-
-## Tommy Mintz [01:29:37](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5377s)
-
-Any other questions? Lingering in people's lists here, minds. Is there a meet and greet on September 6th in the Louis Bourgeois? Society space, Renata that… We want to announce on the recording?
-
-## Renata Janiszewska [01:29:57](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5397s)
-
-Sure, it's 12 to 2 p.m. Eastern Time. The link to get in is on the Techspressionism website. In the menu, simply click on the word loop. And with another click, you'll be inside the Louise Bourgeois Sunday SALON, and you'll have an avatar. You don't need to worry about making one, you'll be assigned one. There's also another session from 5 to 7 p.m. Eastern Time, again, Sunday, September the 6th. Look forward to seeing you.
-
-## Tommy Mintz [01:30:30](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5430s)
-
-Awesome, awesome, thank you. Any last comments? Applause for everybody, before we close the recording? I think we've been on for, A full meeting here, and this has been one. I hear somebody. Go ahead.
-
-## Bob Prata [01:30:46](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5446s)
-
-Cynthia had a question, Tommy. Cynthia DiDonato.
-
-## Tommy Mintz [01:30:50](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5450s)
-
-Thanks, Bob. Cynthia, did we skip your last question? I'm so sorry.
-
-## Allen Hirsh [01:30:54](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5454s)
-
-That's okay. I was just gonna ask how the Loop participants have felt Have been affected by their participation, and what this effect Produced in their work outside of Loop.
-
-## Tommy Mintz [01:31:13](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5473s)
-
-Great question. SAHAR or, Carolina? Renata? Any of the artists?
-
-## Ariel Baron-Robbins [01:31:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5481s)
-
-Huh?
-
-## Tommy Mintz [01:31:22](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5482s)
-
-Cha?
-
-## Galina Shevchenko [01:31:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5484s)
-
-Oh.
-
-## Unattributed [01:31:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5484s)
-
-Cha :): Yeah, definitely, I think…
-
-## Galina Shevchenko [01:31:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5486s)
-
-I'm too, GALIMA here.
-
-## Unattributed [01:31:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5489s)
-
-Cha :): Yeah, definitely. You are a very good example, GALINA. How about you? Nice to see you.
-
-## Galina Shevchenko [01:31:35](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5495s)
-
-Oh, my…
-
-## Tommy Mintz [01:31:35](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5495s)
-
-Hi.
-
-## Galina Shevchenko [01:31:36](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5496s)
-
-Yeah, it's so amazing to see, like, former loopers, and, Ariel, and cha and Carolina, and SAHAR, I know of SAHAR as a looper, but, like, we connected being on two shows together, without knowing each other, but knowing each other through the loop. And, the Loop Metaverses… That's so incredible. I already had… Three different gallery shows, with those loop metaverses. And also, thanks to the expressionism and connection with Renata. I had one of my loop metaverses in Every Woman Biennial, after I presented my work here at that Expressionist SALON in July of last year, and meeting Aaron. So it's… It's the artists networking outside and inside of the internet, like, constant collaboration, and I just had a show in Venice that Renata and Ariel and SAHAR in, because I see everybody's work. It's… it's incredible. It's… and thank you so much, guys.
-
-Thank you so much, Ariel, for providing the space, non-judgmental, beautiful, blooming, digitally, and to cha and Renata for the Sunday SALONs that I try to go to when I have time, but it's… it's incredible. Thank you so much. It's such a great… Like, such an amazing opportunity to be a part of. Yup. Well, just the…
-
-## Tommy Mintz [01:33:09](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5589s)
-
-Well, that's great to hear, GALINA. Thank you for… sharing your experience,. Positivity. Any other comments before we close it out today? This has really been a wonderful SALON. I'd like everybody to give yourself a round of applause, and thank all the artists for, participating. And… we will have another salon. Colin, do you want to announce The next date for next expression in the SALON?
-
-## Colin Goldberg [01:33:40](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5620s)
-
-Sure. So our salons are held on the first Thursday of each month at noon Eastern time, so the October salon will actually fall on October 1st. And that's gonna be dedicated to the co-working, Community and group and sessions that we have, here with the Techspressionism community, and you can find out more about that on our homepage. So yeah, you know, I encourage anyone interested to come on by, and I'm looking forward to seeing what the artists who've been participating in that.
-
-You know, are gonna… are gonna share. And I just really wanted to thank, you know, Ariel and the rest of the group from Loop. It's really been awesome, and I think we can come up with some, you know, pretty interesting Collaborative ideas. I'm already, like, thinking about all sorts of different things, over the course of this session, you know? Like, I really like the blind jurying. I think that's something that, like. We could bake into some sort of an interesting exhibition where it wouldn't… it would just be something non-traditional, you know? And I think that also this idea, like, I've often talked about this idea of social sculpture, which I was introduced to by Joseph Nakvatal, who's one of the People involved in Techspressionism early on, and I think Loop is also a social sculpture in a similar way, in that, you know, it's a piece of artwork, and it's formulated by people, you know, engaging in various activities, and very open-ended, so I think there's, you know, there's a lot of possibilities for some interesting stuff to happen.
-
-So, once again, I'd like to thank all of the artists and presenters and… Loopers, and to expressionists involved in this, this salon. And, yeah, I look forward to attending, you know, these, some of these Sunday sessions. I'm gonna be camping with my daughter this Sunday, so I'm gonna have to skip this next one, but after that, I definitely am gonna, gonna pop in and check it out, so… I'm very excited about that, and Yeah, that's about it. So, we do have, traditionally a, a after-party after the recording stops in each salon, where people can stay on if they want, and… you know, come up with some ideas about, you know, future salons, or just kind of, you know, have a, A pseudo-advisory board meeting. So instead of having an advisory board, we have, an after-party, because that's how we roll here. So, with that, I will close, and thanks all for attending.
-
-I'm going to stop this recording in 3, 2, 1, and…
+So instead of having an advisory board, we have an after party because that's how we roll here. So with that, I will close. And thanks all for attending. I'm going to stop this recording in three, two, one, and cut.

@@ -499,9 +499,15 @@ Yeah.
 
 ## Gregory Little [27:22](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1642s)
 
-Yeah. I mean, and my feeling, you know, initially when I began working with them was that I was, my job was kind of a subversive one because I did feel that the people, that were, that I was surrounded by who were working on computers at the time were often, you know, they were, they were, they were not expressive. They were not terribly expressive people. It seemed to me at least. Their, their interests were pretty narrow and how they saw computation was very narrow as well. And not, did not seem at all to me in the spirit of Engelbart and Fine and, and Vannevar Bush and people like that, who really, really, really, really, really, really, really, really, really, had a very different vision for how the computer should work.
+Yeah. I mean, and my feeling, you know, initially when I began working with them was that I was, my job was kind of a subversive one because I did feel that the people, that were, that I was surrounded by who were working on computers at the time were often, you know, they were, they were, they were not expressive. They were not terribly expressive people. It seemed to me at least. Their, their interests were pretty narrow and how they they saw computation was very narrow as well and not did not seem at all to me in the spirit of engelbart and fine and and uh vannevar bush and people like that who really had a very different vision for how the computer should work um so yeah of course it is it is an extension of those things and those
 
-So yeah, of course it is, it is an extension of those things. And those things are kind of, I think the keyboard, that's all kind of stale at this point. We, you know, we need to go somewhere else. People are with things like Magic Leap and stuff, but long ways to go, you know?
+## Patrick Lichty [28:13](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1693s)
+
+Things are kind of I think the keyboard
+
+## Gregory Little [28:16](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1696s)
+
+All kind of stale at this point. We, you know, we need to go somewhere else. People are with things like Magic Leap and stuff, but long ways to go, you know?
 
 ## Patrick Lichty [28:25](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1705s)
 
@@ -533,11 +539,11 @@ Yes.
 
 ## Patrick Lichty [28:54](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1734s)
 
-You know, so that's, yeah, exactly. He, he was the, he probably, he and Shara Davies later on probably did as much to popularize, you know, the, the, creative notions of VR as anybody, don't you think?
+You know, so that's, yeah, exactly. He, he was the, he probably, he and Shara Davies later on probably did as much to popularize, you know, the, the, creative creative notions of VR as anybody, don't you think?
 
 ## Gregory Little [29:07](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1747s)
 
-Yeah. Oh, absolutely. And then. Now where has Shara gone? I think, I think she's painting now, but she was painting before too, but yeah.
+Yeah. Oh, absolutely. And where has Char gone? I think, I think she's painting now, but she was painting before too, but yeah.
 
 ## Patrick Lichty [29:17](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1757s)
 
@@ -545,15 +551,15 @@ Yeah.
 
 ## Gregory Little [29:18](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1758s)
 
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. These are forgotten names that we need to bring back.
+These are forgotten names that we need to bring back.
 
 ## Patrick Lichty [29:21](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1761s)
 
-Yeah. Of course, of course, of course. That's for
+Of course, of course, of course.
 
-## Gregory Little [29:23](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1763s)
+## Gregory Little [29:25](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1765s)
 
-My end. You know, we talk about virtual reality, which is, you know, running through another wave of popularity these days without talking about Shara Davies, but no one does, so we have to do it.
+Virtual reality, which is, you know, running through another wave of popularity these days without talking about Char. But no one does, so we have to do it.
 
 ## Patrick Lichty [29:33](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1773s)
 
@@ -807,35 +813,19 @@ Hmm.
 
 ## Gregory Little [38:49](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2329s)
 
-And this one I'm actually, I have all of these elements are, are actually 3D elements that were created in Maya and other places. That's a block of birds there. And so this one is in process and becoming a, an AR piece where.
-
-## Patrick Lichty [39:06](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2346s)
-
-Okay.
-
-## Gregory Little [39:07](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2347s)
-
-You have a colored grid on the wall and then those images will, will pop out or are popping out AR. So, so you can see how it goes painting to AR and back and forth.
+And this one I'm actually, I have all of these elements are, are actually 3D elements that were created in Maya and other places. That's a block of birds there. And so this one is in process and becoming a, an AR piece where. Okay yeah the color grid on the wall and then those images will pop out or are popping out ar so so you can see how it goes painting to ar and back and forth
 
 ## Patrick Lichty [39:18](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2358s)
 
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. That's, that's the thing. I mean, it's you think like the next, do you think the next step is maybe going to be like with the, you know, the proposed Apple glasses, things like what's, what's, what do you think is going to be happening with the future with all this?
+Yeah yeah yeah yeah yeah yeah that's that's the thing I mean it's um you think like the next do you think the next step is maybe going to be like with the you know the proposed apple glasses things like what's what's what do you think is going to be happening with you? With all this?
 
 ## Gregory Little [39:35](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2375s)
 
 Oh, wow. I think it will. What's the future, Greg? Yeah. Right. I know. Yeah. Yeah. I mean, the Apple glasses are interesting. I think they're like, they're a bit like the magic leap in terms of how I understand them because. Yeah. They are, you know, they're, they're ergonomically and prescription puts prescripted for a single individual.
 
-You'll have like, like with the magic leap, you know, you would have your own magic leap headset, which doesn't exist anymore, but, but I think the Apple glasses will be the same kind of thing. I think it's just gonna, just gonna kind of disappear into us and become completely different. The same thing.
+You'll have like, like with the magic leap, you know, you would have your own magic leap headset, which doesn't exist anymore, but, but I think the Apple glasses will be the same kind of thing. I think it's just gonna, just gonna to kind of disappear into us and become completely acceptable and I think to some degree I sometimes feel like we're sort of throwing the baby out with the bath water a little bit I love that phrase but I think that um it often seems to me that we're we especially in the in the vr ar thing where things are becoming the platforms are becoming specific to you know portable phones and personal devices I think we're losing some of the questions and notions of presence and changing presence and occupying different presences that were so valuable, I think, in large scale.
 
-You know, and I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right. I think you're right.
-
-## Unattributed [40:43](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2443s)
-
-I think you're right.
-
-## Gregory Little [40:45](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2445s)
-
-The questions and notions of presence and changing presence and occupying different presences that that were so um so valuable I think in large-scale vr so so fascinating um and now it's becoming I don't know the the internalization of the media I guess it's uh disappointing to me but that's that's always been where it's kind of inevitable I suppose at the same time but I do look for those places um where where that's not happening as much where um where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with uh with that sort of thing the shoes that you did uh
+So so fascinating um and now it's becoming I don't know the the internalization of the media I guess it's uh disappointing to me but that's that's always been where it's kind of inevitable I suppose at the same time but I do look for those places um where where that's not happening as much where um where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with uh with that sort of thing the shoes that you did uh
 
 ## Patrick Lichty [41:42](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2502s)
 

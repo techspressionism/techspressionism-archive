@@ -225,23 +225,23 @@ Is that possible that I can do it right now?
 
 ## Tommy Mintz [32:51](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1971s)
 
-You should be able to. Yes.
+You should you should be able to yes okay
 
-## Jaime Bautista [32:53](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1973s)
+## Jaime Bautista [32:54](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1974s)
 
-Okay. Now. You can see. Now. You can see. Now. Now. You can see. You can see. You can see. You can see. You can see. You can see. You can see. You can see. Do you see it? Can you see it?
+Now let's see let me see where is this uh I share I cannot respond Do you see it? Can you see it?
 
 ## Verneda Lights [33:40](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2020s)
 
-No. Not yet.
+No.
 
-## Jaime Bautista [33:42](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2022s)
+## Jaime Bautista [33:41](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2021s)
 
-Sorry. Yeah. Well, I think I'm here, but...
+Not yet. Sorry. Not yet. Well, I think I'm here, but I'm not sure.
 
 ## Colin Goldberg [33:48](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2028s)
 
-After you click the green share button, something should come up asking you what you want to share, and then you'll have to click share once more. I think it's a blue button for the second one where you select the window or screen.
+When you click the green share button, something should come up asking you what you want to share, and then you'll have to click share once more. I think it's a blue button for the second one where you select the window or screen.
 
 ## Jaime Bautista [34:01](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2041s)
 
@@ -423,25 +423,17 @@ Okay. The Confluence of Photography with Digital Media and an Investigation into
 
 The following is an excerpt from the video Unseen Unheard 2020, which is also a printed edition. It is precisely the confluence of photography with digital media.
 
-## Unattributed [01:00:15](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3615s)
+## Unattributed [01:01:41](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3701s)
 
-It is an examples of an image of the black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black All right.
+Thank you.
 
-All right. All right. All right.
+## Nina Sobell [01:02:04](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3724s)
 
-## Jaime Bautista [01:02:58](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3778s)
+My face mixed with my Chinese zodiac animal in preparation for a new NFT project. From photos and videos of a spider to using AI, creating a new still to express capture, anxiety, and the fight for freedom. From stills to movement using apps and AI. To the confluence of photographic video and a new animated AI.
 
-All right.
+From experimenting with Tomiko Teal's and P's augmented reality app, Rpoiz, to glitching photo using an app with a spider and a veil as effects, dissolved over a photo of a glitched air vent hole. Under the veil of the sea, catch me. It's a discovered veil effect on an app. Made by using an AI app with no original source material.
 
-## Unattributed [01:03:28](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3808s)
-
-All right. All right. All right. All right. All right. All right. All right.
-
-## Nina Sobell [01:03:44](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3824s)
-
-From experimenting with Tameka O'Teal's and P's augmented reality app, Rpoiz, to glitching it into becoming a new graphic photo, using an app with a spider and a veil as effects, dissolved over a photo of a glitched air vent hole. Under the veil of the sea, catch me. It's a discovered veil effect on an app.
-
-Made by using an AI app with no original source material. All right. All right. All right. All right.
+All right. All right. All right. All right.
 
 ## Renata Janiszewska [01:04:48](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=3888s)
 
@@ -629,19 +621,19 @@ Sorry to say. Yeah.
 
 ## Jaime Bautista [01:16:46](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4606s)
 
-OK, seems like now I'm going to try again. OK. The question is, have you found that you can use it in your entire days? We're going to look at that. We're going to look at that. It's not as well with the current screen. It's not as well with the current screen. It's not as well with the current screen. It's not as well with the current screen. It's not as well with the current screen. It's not as well
+OK, seems like now I'm going to try again. OK. No. I guess you can go ahead and proceed with your settings, with your schedule. No,
 
 ## Clive Holden [01:17:11](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4631s)
 
-With the current screen. It's not as well with the current screen.
+Your talk before that was very interesting. So thank you for that. Yeah.
 
 ## Colin Goldberg [01:17:14](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4634s)
 
-It's not as well with the current screen. It's not as well with the current screen. Sharing technical issues get worked out we would love to have you back and you know see what you're working on I'll post a link to your um site though again in the um in the chat so people can can check your work out on their own okay
+And you're definitely, you know, more than welcome to join us again. And a lot of times we we do have sort of a general open share. So, you know, once the, all the screen sharing, technical issues get worked out, we would love to have you back and, you know, see what you're working on. I'll post a link to your site though, again, in the...
 
-## Jaime Bautista [01:17:40](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4660s)
+## Jaime Bautista [01:17:37](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4657s)
 
-Yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what what went wrong with this uh my system thank you very much and thank you for all the participants and you as an organizers as a expression thank you
+So people can can check your work out on their own okay yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what what went wrong with this uh my system thank you very much and thank you for all the participants and you as an organizers as a expression thank you
 
 ## Renata Janiszewska [01:18:09](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4689s)
 

@@ -73,25 +73,29 @@ Excellent.
 
 Yeah. Excellent.
 
-## Roz Dimon [05:29](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=329s)
+## Unattributed [05:29](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=329s)
 
-Okay. The next question?
+Oh, hey, should
 
-## Malavika Mandal Andrew [05:35](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=335s)
+## Roz Dimon [05:31](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=331s)
 
-What is the name of the area you've been to? You know,
+It be Mumbai? It should be Mumbai now, correct? Yes.
 
-## Roz Dimon [05:39](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=339s)
+## Malavika Mandal Andrew [05:34](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=334s)
 
-In I don't know. You know, in this area. You know, in that area. You know, in that area. You know, in that area. You know, in that area. You know, in that area. You know, in that area. You know, in that area. You know, in that area. You know, in that area.
+Yes, earlier it was Bombay, now it became Mumbai.
+
+## Roz Dimon [05:38](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=338s)
+
+Yes, I should know that because my nephew actually was residing there with the State Department for a couple years. Thank you for correcting me.
 
 ## Malavika Mandal Andrew [05:47](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=347s)
 
-You know, in that area. You know, in that area. You know, in that area.
+When you, I remember that you mentioned once that you visited also India. Yes,
 
-## Roz Dimon [05:54](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=354s)
+## Roz Dimon [05:55](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=355s)
 
-You know, in that area. Kelly and Varanasi. The people I was visiting, they were both getting PhDs in dance and culture of India. So they had me decked out in a sari within one day. I was just immersed into the Indian culture and it was colorful and beautiful and exotic and very different. It's very different. It was a really amazing experience, but thank you.
+I actually visited New Delhi and Varanasi. The people I was visiting, they were both getting PhDs in dance and culture of India. Had me decked out in a sari within one day. I was just immersed into the Indian culture and it was colorful and beautiful and exotic and very different. It's very different. It was a really amazing experience, but thank you.
 
 I know you have a slide about, a little bit about your background. That'd be wonderful to see that.
 
@@ -263,29 +267,17 @@ I don't know it can also be very frustrating but I know what you mean. Art is a 
 
 Definitely I mean for that much time she's out of her pain you know you cannot make out that that she is having this problem and she enjoys also.
 
-## Roz Dimon [18:27](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1107s)
+## Roz Dimon [18:26](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1106s)
 
-Oh, and the art is helping her with her pain okay I didn't I didn't I don't know.
+Also oh and the art is helping her with her pain okay I didn't I didn't I don't know if I understood now I get the thing yes
 
-## Unattributed [18:31](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1111s)
+## Malavika Mandal Andrew [18:34](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1114s)
 
-Yeah, I understood now I get a thing.
-
-## Malavika Mandal Andrew [18:33](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1113s)
-
-Yes, and is that your family,
-
-## Roz Dimon [18:36](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1116s)
-
-That's your family.
-
-## Malavika Mandal Andrew [18:37](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1117s)
-
-No, no. He is my mentor. So, he is my mentor. So, he is my mentor. So, he is my mentor. So, he is my mentor from whom I have learned how the design can be, you know, contemporaries.
+And is that your family that's your family no no he is my mentor the person between you just now read he was my uh guide for the national scholarship so So he is my mentor from whom I have learned how the design can be, you know, contemporarized.
 
 ## Roz Dimon [18:57](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1137s)
 
-Yeah, we like men to especially men that are recognized talent Andy Young women and young men and who teach teachers, you know I review teachers. I love the. Yes. I love the. Yes.
+Yeah, we like men too, especially men. Are recognized talent Andy Young women and young men and who teach teachers, you know I review teachers. I love the. Yes. I love the. Yes.
 
 ## Malavika Mandal Andrew [19:11](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=1151s)
 

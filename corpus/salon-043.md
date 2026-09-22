@@ -43,23 +43,15 @@ Great. That's great. We had to have a few people. We started with you had to unf
 
 And I'm giving a quick overview of my work, and then the sort of feminist Center Park, I will just talk about at the end. This is a view of the work I have up in the show which is also my background. And. I'm sorry if it isn't working. And I've been in the art and technology intersection area forever and ever, starting at Brown and risky back in the 90s. When I also wrote this book when I was teaching there, which led to the beginning of our collecting digital art as well. And you'll see why that is relevant at the end. One of the focuses of the collection increasingly has been female digital artists, including Cynthia. Cynthia.
 
-Before the pandemic, I was focused on large scale installations like this one from spring break, and trying to combine analog and digital things together. This was right before the pandemic hit with these big inflatable spheres, based on. Basically frames from videos. Based on photographs that I had shot in my studio. And so I started to create these images that were kind of like a 간단ity. And then I started to create these images that were kind of like a wilted image set and kind of like a wilted image set. And then I started to create these images that were kind of like a mirror image set. Set and if not generating again in a process called a generative adversarial network and through that created these very wacky compositions that I really liked but were very low resolution and my solution to that was to create pastel drawings and those are the pieces that are in the show up the tech specialism show in southampton and definitely go check out that show if you haven't been or check out the 3d version that's online I'll skip over um style transfer another type of ai that I played around with and go right to these um custom pieces that try to have more of a narrative sense they're based on a process called text to image which is what it sounds like you literally type in a phrase and get back images it dips into a vast database called imagenet and finds images and then you can see the images based on the text that you send in and by working with the programmer we were able to change the image prompt as the animation was being developed so in this case changing from spring summer fall and winter to create these more narrative and cinematic pieces than what were possible with the no code platforms this piece I also worked with a musician so different types of motion in this as well so changing the whole feeling in the middle just by changing the textual prompts that we're using in
-
-## Unattributed [09:06](https://www.youtube.com/watch?v=KyBLFghq4N0&t=546s)
-
-The
-
-## Cynthia Beth Rubin [09:07](https://www.youtube.com/watch?v=KyBLFghq4N0&t=547s)
-
-Music
+Before the pandemic, I was focused on large scale installations like this one from spring break, and trying to combine analog and digital things together. This was right before the pandemic hit with these big inflatable spheres, based on. Basically frames from videos. Based on photographs that I had shot in my studio. And so I started to create these images that were kind of like a 간단ity. And then I started to create these images that were kind of like a wilted image set and kind of like a wilted image set. And then I started to create these images that were kind of like a mirror image set. Set and if not generating again in a process called a generative adversarial network and through that created these very wacky compositions that I really liked but were very low resolution and my solution to that was to create pastel drawings and those are the pieces that are in the show up the tech specialism show in southampton and definitely go check out that show if you haven't been or check out the 3d version that's online I'll skip over um style transfer another type of ai that I played around with and go right to these um custom pieces that try to have more of a narrative sense they're based on a process called text to image which is what it sounds like you literally type in a phrase and get back images it dips into a vast database called imagenet and finds images and then you can see the images based on the text that you send in and by working with the programmer we were able to change the image prompt as the animation was being developed so in this case changing from spring summer fall and winter to create these more narrative and cinematic pieces than what were possible with the no code platforms this piece I also worked with a musician so different types of motion in this as well It's really changing the whole feeling in the middle just by changing the textual prompts.
 
 ## Unattributed [09:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=549s)
 
-Is what we're doing we're set on the sound of the music and we're only being able to use the sound of the music that's up in the record so it's not like that we're really getting that real world better it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that it's not like that
+And the audio is not AI based.
 
-## Anne Morgan Spalter [09:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=576s)
+## Anne Morgan Spalter [09:37](https://www.youtube.com/watch?v=KyBLFghq4N0&t=577s)
 
-I had the honor of having this piece in an auction at Sotheby's and I was also a co-curator of the auction. As has been the case with these auctions, it's one of a series of NFT auctions, all the highest prices did go to the male members of the auction. I don't know what to say about that. We put in half of the artists in our auction were female intentionally, which was wonderful. And several of them did set records, which was fantastic. And I got in the New York Times, which was great for me personally. I think it's still an issue that the male members get the highest prices, but I think the best thing is to keep putting women in the auctions and having them get higher and higher prices. In addition to AI, I began working with NFT. And there are many pros to them. Right now, the whole crypto market is in a crazy crisis, which I won't go into.
+I had the honor of having this piece in an auction at Sotheby's and I was also a co-curator of the auction. As has been the case with these auctions, it's what is what series of NFT auctions, all the highest prices did go to the male members of the auction. I don't know what to say about that. We put in half of the artists in our auction were female intentionally, which was wonderful. And several of them did set records, which was fantastic. And I got in the New York Times, which was great for me personally. I think it's still an issue that the male members get the highest prices, but I think the best thing is to keep putting women in the auctions and having them get higher and higher prices. In addition to AI, I began working with NFT. And there are many pros to them. Right now, the whole crypto market is in a crazy crisis, which I won't go into.
 
 So there's been a lot of pain in the space, but it's been mostly positive for me in terms of getting paid right away, finding a direct connection to collectors and getting royalties right away from pieces, which has been fantastic. There are many bad actors in the space, however, with all sorts of...
 
@@ -113,13 +105,11 @@ Angelic figures emerge, beckoning us to experience their musings of beyond. Sens
 
 Here's the remote control movable ceiling. EEG brainwaves drawings from 1973 in collaboration with Mike Trivich. And Virtualis, the first wireless telerobotic mobile webcam, developed in 1995 for the Code Show. Virtualis' key component was a wireless telerobotic webcam mounted on a chauffeured motorized chair with a tiny monitor which directed the drive. Users on the web or passersby could control its movement.
 
-Passersby used touchpads for control which were attached to the storefront window surrounding a monitor. It had a camera sewn into a card which fed back to the participants their image, superimposing that on the image of the interior space. Which made them move. It was withomstone. It was an image of the future. It was the past. It was the past. It was the face.
+Passersby used touchpads for control which were attached to the storefront window surrounding a monitor. It had a camera sewn into a card which fed back to the participants their image, superimposing that that on the image of the interior space, which made them a part of it. We described the piece as a passage between physical and cyberspace.
 
-It was the
+## Unattributed [21:05](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1265s)
 
-## Unattributed [20:48](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1248s)
-
-Past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past. It was the past.
+Recent intimate connections.
 
 ## Nina Sobell [21:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1283s)
 
@@ -127,7 +117,7 @@ That's the end.
 
 ## Roz Dimon [21:25](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1285s)
 
-Oh, thank you so much, Nina. I would ask that you hold your other piece to the end, if you would.
+Oh, thank you so much, Nina. I would ask that you hold your other piece to the end if you would.
 
 ## Nina Sobell [21:32](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1292s)
 
@@ -135,7 +125,7 @@ Sure.
 
 ## Roz Dimon [21:33](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1293s)
 
-Oh, thanks. Thank you so much. You know, looking, when we were watching your video, I was thinking of a term, a friend of mine who unfortunately recently died, but he didn't see it as death. He said he was entering the fifth dimension. He was quite a guru in the early digital days, Michael Gosney. But I sometimes feel like looking at these pieces, and Anne's as well, dimension is an important word, because I believe that digital is leading us definitely into a new dimension. And if you can stop share, thank you, Nina.
+Oh, thanks. Thank you so much. Thank you. Know, looking, when we were watching your video, I was thinking of a term, a friend of mine who unfortunately recently died, but he didn't see it as death. He said he was entering the fifth dimension. He was quite a guru in the early digital days, Michael Gosney. But I sometimes feel like looking at these pieces, and Anne's as well, dimension is an important word, because I believe that digital is leading us definitely into a new dimension. And if you can stop share, thank you, Nina.
 
 We'll go on to our next artist, Cynthia Beth Rubin.
 
@@ -161,15 +151,13 @@ I heard so many people talk about in and out of the computer. So you can see, I 
 
 So here it is. This is the piece. I have it in a white border here because we'll love it when I break the border on paper. They just love it. So I did that with both the pieces. I don't know why. It's something that people want. Oh, now I know it's not just a print. So one of the things I also wanted to talk about quickly. Is presentation formats because here's some of my earlier work. That I printed very large. These were on vinyl and mounted. These people may have seen it creative tech week. They just rolled up. Like, you know, almost commercial signs. And they were body sized.
 
-And these were printed on. Fabric and hung in a show that I had. In new Haven a couple of years ago. I've spoken about this before. But for me. At this point, seeing the show. I am beginning to wonder about the. On paper framed for this particular show. So I just wanted to throw that out there. As something to talk about when we have discussion time, I'm watching the clock. I want to thank all of these people who really contribute to my work. I'm the. This is the time.
+And these were printed on. Fabric and hung in a show that I had. In new Haven a couple of years ago. I've spoken about this before. But for me. At this point, seeing the show. I am beginning to wonder about the. On paper framed for this particular show. So I just wanted to throw that out there. As something to talk about when we have discussion discussion time. I'm watching the clock. I want to thank all of these people who really contribute to my work. I'm the artist embedded in the Mendendore Lab and the School of Oceanography at the University of Rhode Island. And it is an unsalaried position, but it gives me access to learning about plankton, which were really essential. And so I'm learning about climate change and things that are really vital and other groups that I belong to, particularly.
 
-And I'm just like, what I'm really doing. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. And I'm just like, this is the time. Online meetings since lockdown. And it's just been wonderful to get all of this feedback. And this is my contact, my website. So if you want to know more about my early work, you can get to that.
+Well, all of these groups have had online meetings since lockdown, and it's just been wonderful to get all of this feedback and. This is my contact, my website. You want to know more about my early work, you can get to that. And then I have one more quick slide, which is I think my latest piece, just to show where I'm going next. What I find interesting about this piece is that the plankton and the Hebrew alphabet, which by the way, I'm illiterate in Hebrew. So it's just kind of a stand in for history and culture.
 
-And then I have one more quick slide, which is I think my latest piece, just to show where I'm going next. What I find interesting about this piece is that the plankton and the Hebrew alphabet, which by the way, I'm illiterate in Hebrew. So it's just kind of a stand in for history and culture. They start to look exactly the same. I mean, I don't get it. They're really different and they're really the same. So I think that I will leave you.
+They start to look exactly the same. I mean, I don't get it. They're really different and they're really the same. So I think that I will leave you. I was having a little trouble stopping the screen share before. So I'm going to stop screen share. If I have two minutes left, which I think I do. One cool thing is that I just got my work printed on satin.
 
-I was having a little trouble stopping the screen share before. So I'm going to stop screen share. If I have two minutes left, which I think I do. One cool thing is that I just got my work printed on satin. So I'm going to get clothes made out of it. Just add that, that output can be anything. Okay.
-
-I think I'm done. And it looks like I made it in well under 10 minutes. Thank you,
+So I'm going to get clothes made out of it. Just add that, that output can be anything. Okay. I think I'm done. And it looks like I made it in well under 10 minutes. Thank you,
 
 ## Roz Dimon [30:51](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1851s)
 
@@ -313,13 +301,11 @@ So the consequence of having these inabilities to communicate when I was younger
 
 So I find that technology levels the communication field for me because even between the genders, because it's kind of like having a puppy. You go out for a walk and suddenly you're talking with your neighbor and you're having a conversation. And so it gave me sort of a common denominator to have that platform.
 
-And a lot of women struggle with that sometimes in a multiple gender conversational group that they'll step back and observe more rather than jump into the conversation. But when the computer is present, I find anyways, from my experience, the conversation just opens up. So to recap, before I go forward, my artwork deals with the synergy of interior and exterior worlds. And that can be what you say to yourself and how you present yourself to the world. It can be between environments. It can be between abstract forms on the screen. And I do this by tapping into this heightened power of observation and community dynamics. And I think that's what I'm trying to do.
+And a lot of women struggle with that sometimes in a multiple gender conversational group that they'll step back and observe more rather than jump into the conversation. But when the computer is present, I find anyways, from my experience, the conversation just opens up. So to recap, before I go forward, my artwork deals with the synergy of interior and exterior worlds. And that can be what you say to yourself and how you present yourself to the world. It can be between environments. It can be between abstract forms on the screen. And I do I do this by tapping into this heightened power of observation and community dynamics that I've honed over the years.
 
-I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for. I'm still looking for what I'm looking for.
+So the next piece I want to show you is called mycelium, and these are the tiny root like fibers in the soil that make up this living organism and what we see on the surface of the little mushrooms that come up, but the organism is actually nothing communication network. And so the computer allows me to be able to express what I can imagine is going on underneath the soil, all these conversations that are happening that I couldn't express in traditional mediums because of disabilities and things like this.
 
-I'm still looking for what I'm looking for. Express what I can imagine is going on underneath the soil. All these conversations that are happening that I couldn't express in traditional mediums because of physical disabilities and things like this. So again, it's a huge communication tool for me, not only in my artwork, but speaking with everybody.
-
-That's everybody gender worldwide. It's opened up huge doors for me. So whether my artwork is organic or mechanical. As you can see here in these examples, it still speaks to community. It still speaks to the individual parts that are working in unison with other parts to create a holistic whole, so to speak.
+So again, it's a huge communication tool for me, not only in my artwork, but speaking with everybody. That's everybody gender worldwide. It's opened up huge doors for me. So whether my artwork is organic or mechanical. As you can see here in these examples, it still speaks to community. It still speaks to the individual parts that are working in unison with other parts to create a holistic whole, so to speak.
 
 And in doing so, I find that we as artists tend to express ourselves through the computer. We end up doing it. We end up creating our own universes. These universes move. They have sound. They have light. They can spin around their perspective. Go 3D. Go virtual. Wherever. Wherever. And I'm finding that level of conversation between creative artists on technology is opening up bigger and bigger as the technology pushes us out further into different creative fields.
 
@@ -435,17 +421,11 @@ I have serious technical support here. This is the piece that I have in the exhi
 
 I have a lot of
 
-## Darcy Gerbarg [01:04:42](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3882s)
+## Darcy Gerbarg [01:04:41](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3881s)
 
-This material on my website. These are some examples of exhibitions that my work has been in. Most of these are in the room. This is the one on the left. This is the one on the left. This is the one on the left. This is the one
+A lot of this material is on my website. These are some examples of exhibitions that my work has been in. Most of these are in the real world. The one on the left is virtual. These are all real. This is just work in the last few years and this is what I'll be doing a couple of exhibitions I'm in later this summer.
 
-## Unattributed [01:04:57](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3897s)
-
-On the left. This is just
-
-## Darcy Gerbarg [01:05:12](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3912s)
-
-Work in the last few years. This is what I will be doing a couple of exhibitions later this summer. Thank you. Thank you. I'm showing paintings on canvas with AR enhancements.
+Thank you. I'm showing paintings on canvas with AR enhancements.
 
 ## Roz Dimon [01:05:39](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3939s)
 

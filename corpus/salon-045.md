@@ -32,9 +32,9 @@ So this hopefully should be back to me as a hard copy, a single hard copy for pr
 
 We must expect great innovations to change the world. We must expect great innovations to transform the entire technique of the arts, thereby affecting artistic invention itself, and perhaps even bringing about an amazing change in our very notion of art. This prediction so impressed the cultural critic Walter Benjamin that he used it as the epigraph of his famous 1935 essay, The Work of Art in the Age of Its Technological Reproducibility, as it was originally titled. These writers and others were pondering the same issues that face artists in the world of art. And they were also impressed by the fact that the artists who now, nearly a century later, self-identify as Techspressionists.
 
-Thanks to digital technologies and the internet, works of art have become, in Valéry's formulation, ubiquitous, as he foresaw. We shall only have to summon them, and there they will be. This level of accessibility requires us to adopt and accept new attitudes towards creative expression. As Benjamin observed, the debate regarding the art of art is a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one. And it's a very important one.
+Thanks to digital technologies and the internet, works of art have become, in Valéry's formulation, ubiquitous, as he foresaw. We shall only have to summon them, and there they will be. This level of accessibility requires us to adopt and accept new attitudes towards creative expression. As Benjamin observed, the debate regarding the artistic validity of new media, begun with photography and cinema in the late 19th century, centers on the so-called aura of the singular work of art, and the aura of uniqueness remains powerful. Yet a digitally Generated artwork is not a reproduction in the conventional sense, that is, a copy of something else, though it can be, and often is, reproduced in multiples that are indistinguishable from one another.
 
-And Batman I think is the most true being and I think is the most true being. And will be the most true being. And duplication. Such binaries ultimately resolve in light of the works of art themselves. By whatever technique it's created, Techspressionist imagery generates its own aura, deriving its authenticity from the artist's intention. Expression is paramount. Technology is merely the delivery system. Jackson Pollock faced a similar concern. Frustrated by the focus on his materials and methods rather than the content of his paintings, he insisted, it doesn't make much difference how the paint is put on as long as something is being said. Technique is just a means of arriving at a statement.
+Handmade versus mechanical, one-off versus duplication, such binaries ultimately resolve in light of the works of art themselves. By whatever technique it's created, Techspressionist imagery generates its own aura, deriving its authenticity from the artist's intention. Expression is paramount. Technology is merely the delivery system. Jackson Pollock faced a similar concern. Frustrated by the focus on his materials and methods rather than the content of his paintings, he insisted, it doesn't make much difference how the paint is put on as long as something is being said. Technique is just a means of arriving at a statement.
 
 So there we have it. And with that, I am going to open it up. And the first artist to share her work is Renata.
 
@@ -86,23 +86,31 @@ You would want the source to be not the microphone probably, but the program.
 
 ## Renata Janiszewska [12:02](https://www.youtube.com/watch?v=pxavr84wDJs&t=722s)
 
-Okay. All right. So, I'm going to turn it off.
+Okay.
 
 ## Unattributed [12:17](https://www.youtube.com/watch?v=pxavr84wDJs&t=737s)
 
-All right. All right. All right. All right.! All right. All right. All right. All right. All right. All right. All right. All
+Thank you. Thank you.
 
-## Renata Janiszewska [13:24](https://www.youtube.com/watch?v=pxavr84wDJs&t=804s)
+## Renata Janiszewska [13:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=805s)
 
-Right.
+Okay.
 
-## Colin Goldberg [13:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=805s)
+## Colin Goldberg [13:26](https://www.youtube.com/watch?v=pxavr84wDJs&t=806s)
 
-All right. All right. All right. So we will move on to Giovanna.
+Awesome. Thank you, Renata.
+
+## Renata Janiszewska [13:29](https://www.youtube.com/watch?v=pxavr84wDJs&t=809s)
+
+Thanks for sharing. Nice. Thanks.
+
+## Colin Goldberg [13:33](https://www.youtube.com/watch?v=pxavr84wDJs&t=813s)
+
+All right. So we will move on to Giovanna.
 
 ## Giovanna Sun [13:40](https://www.youtube.com/watch?v=pxavr84wDJs&t=820s)
 
-Yeah, I wish I can share my screen this time. Let me try. It's always an open system preference for some reason.
+Yeah I wish I can share my screen this time let me try okay always an open system preference for some reason.
 
 ## Colin Goldberg [13:54](https://www.youtube.com/watch?v=pxavr84wDJs&t=834s)
 
@@ -240,11 +248,17 @@ And so I used Photoshop to create it. And there it just sat. And the same thing 
 
 And then my patron didn't particularly care for my photos that I took. He said it looked like tourist photos. And just by chance, I started to experiment with Nick Silver effects. And the next thing I knew, they put me into their creative pool. And I had created this whole body called, oops, called Water Music. And three of the pieces were in there. And I had created this whole body called Water Music. And three of the pieces are in the exhibit. And so sometimes my water was sharp and crisp. And sometimes it was gossamer. And I really imagined how Jackson Pollock felt when he was pouring his paints and deciding upon the thickness of them or the thinness of them. And he was stirring them all over his canvas. Okay. I have this attitude toward technology. I have this attitude toward technology that I want to humanize it.
 
-It's like even Stieglitz said in 1934, if you're going to manipulate your photography, do it for all it's worth. And digital photography wasn't even established then. Technology is a means by which we can create and present our feelings, our point of view. I am connected to Mother Nature. My work has a very natural bent. And I will tell you, I was so taken by the environment salon weeks ago. I really would love to see some kind of environmental virtual exhibit be considered a virtual exhibit. And I think that's a really good idea. And I think that's a really good idea. And I think that's a really good idea. And I think that's a really good idea. Because that is something that unites us all on this planet. So this is stacked against us. I very definitely wanted the four Northport smokestacks to be in this image.
+It's like even Stieglitz said in 1934, if you're going to manipulate your photography, do it for all it's worth. And digital photography wasn't even established then. Technology is a means by which we can create and present our feelings, our point of view. I am connected to Mother Nature. My work has a very natural bent. And I will tell you, I was so taken by the environment salon weeks ago. I really would would love to see some kind of environmental virtual exhibit be considered because that is something that unites us all on this planet. So this is stacked against us. I very definitely wanted the four North Port smokestacks to be in this image. And there's the fisherman in Macky Maw who is a is a lone figure against the smokestacks. For years, I've been creating this image called Crows Over Long Island Farm Field because I'm so concerned about how urbanization is eating up our lands.
 
-And there's the fisherman in Macky Maw who is a lone figure against the smokestacks. For years, I've been creating this image called Crows Over Long Island. And I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not going to say that I'm not Okay, so I started to, I was having MRIs for a torn rotator cuff and my brain was examined and I thought, I'm going to create from the images that are taken inside of me.
+And finally, in 2016, I decided to superimpose Vincent Van Gogh's Crows Over the over my created image to convey the deepest concern that I have for what's happening to our planet.
 
-And then I created this from IO in Maui, which is down island, not up where I created my water music. And I realized water itself has a different persona, depending upon how it flows. So I thank you for letting me share this with you.
+## Unattributed [33:11](https://www.youtube.com/watch?v=pxavr84wDJs&t=1991s)
+
+Okay, so I
+
+## Holly Gordon [33:14](https://www.youtube.com/watch?v=pxavr84wDJs&t=1994s)
+
+Started to, I was having MRIs for a torn rotator cuff and my brain was examined and I thought, going to create from the images that are taken inside of me. And then I created this from IO in Maui, which is down island, not up where I created my water music. And I realized water itself has a different persona, depending upon how it flows. So I thank you for letting me share this with you.
 
 ## Colin Goldberg [33:50](https://www.youtube.com/watch?v=pxavr84wDJs&t=2030s)
 
@@ -288,9 +302,7 @@ Was Kandinsky's two books that he had recommended a number of salons ago and Kan
 
 ## Unattributed [35:16](https://www.youtube.com/watch?v=pxavr84wDJs&t=2116s)
 
-He also had some really good insights about moving forward and what he was seeing it and he saw that We're going to have to look at that in the next few days. It's not an entire book. It's an entire book. It's an entire book. It's an entire book. It's an entire book. It's an entire book. It's an entire book. It's an entire book.
-
-It's an entire book. It's an entire book. Use of the technology is where the there is there. And so for me, I see that as a really, really important thing, especially now today, where AI and other avenues can produce very interesting works. The double-edged sword that I see, and this is something that I value in this group, is in the sense that the artist's spirit and eye and whatever else goes into it is an essential element in working with those powerful technologies, because I find it really interesting and fascinating.
+He also had some really good insights about moving forward and what he was seeing it and he saw that the advances that we were seeing in science and all around that akin to some of the things that were happening in photography and elsewhere that the mechanization could be seen as the there there and kandinsky was saying no it's in the artist's use of the technology technology is where the there is there and and so for me Um, I I see that as a really really important thing now today, where AI and other avenues can produce very interesting works. The double-edged sword that I see, and this is something that I value in this group, is in the sense that the artist's spirit and eye and whatever else goes into it is an essential element in working with those powerful technologies, because I find it really interesting and fascinating.
 
 ## Michael Pierre Price [36:39](https://www.youtube.com/watch?v=pxavr84wDJs&t=2199s)
 
@@ -384,11 +396,11 @@ It's called Earth Tree Sky because a tree belongs to the Earth and it belongs to
 
 So I'm just going to play it. This is the three minute version. I just couldn't quite get it less than three minutes. All right. So first of all, what you're seeing here is a warped fisheye projection. And the very center is the right above you, the top of the dome. The lower half is in front of you and around the perimeters is the edges of the dome. So it's it's happening all around you. But it's I kind of enjoying it as a sort of a warped fisheye projection. So I'm just going to play it.
 
-I'm hoping everybody can hear it as well.
+I hope everybody can hear it as well.
 
-## Unattributed [42:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=2545s)
+## Unattributed [43:21](https://www.youtube.com/watch?v=pxavr84wDJs&t=2601s)
 
-So. So. So. So. So. So. So. So. So. So. So. So. So. So. Thank you. Thank you. Thank you. Thank you.
+Thank you. Thank you. Thank you. Thank you.
 
 ## Lucy Boyd-Wilson [45:22](https://www.youtube.com/watch?v=pxavr84wDJs&t=2722s)
 
@@ -416,9 +428,9 @@ Thank you so much. And by the way, Lucy, that was just amazing. So thank you. Th
 
 But first I wanted to say about going beyond. Get my share my window. Okay. Share screen. Share the whole screen. Sure. Why not? Okay. Sure. Sorry about that. And where is it? Why can't I get to my screen? I apologize for this. Going beyond. I. I sort of learned this week. Actually today. They kept them the cherry tree in my backyard. And I started to go beyond my regular spastic movements while I'm. Shooting these panoramas. And I find that. What's happened is.
 
-Something I've never experienced before. And. I've learned. What I thought was because it was just a. Cut tree. But somehow the movements that I've learned how to do with like holding back. Instead of just being kind of going forward, like a wild person. That's given me a whole kind of. I can. I can. I can. I can. I can. I can. I can. I can. I can.
+Something I've never experienced before. And. I've learned. What I thought was because it was just a. Cut tree. But somehow the movements that I've learned how to do with like holding back instead of just being kind of going forward like a wild person. That's given me a whole kind of iconography that I never imagined would show up like this. So that was something that I really wanted to share with everybody. And again, this is like all of these pictures are from one image, but I just been like Pollock, pieces of it um and um and I really find that that's something I've never experienced before and then wrapping up the other thing that was really exciting this week was um I started to play around with tommy's software and it's amazing um and um I've been mixing my uh rogue panos like like the angels.
 
-I can. I can. I can. I can. I can. I can. I can. I can. I can. I can. I can. I can. I can. I can. Mommy's software and it's amazing um and um I've been mixing my uh rogue panos like the the angels um I tried that right away and I have another one which which I couldn't find just before today where the angels are all sort of competing with each other um but that was super fun and then I went down the street and renata when she was here we were um mentioning the colors of these uh strange pylons and so I started doing shooting with them but then I got back into tommy and it just worked so well together that um I I've just been overwhelmed by being slow with the camera instead of really fast and being able to bring out all these um sort of more subtle or more controlled movements and that's it but tommy's software is amazing and last last last thing um my uh my girlfriend is um really smart phd in computer sciences and she built a front end for tommy software so I could use it and when she's totally happy with it and it's got no bugs she wants to send it on to tommy so that everybody can use it if we get tommy's blessing so that was it that was my I hope I did that in the right amount of time and thank everybody for your um for checking it out thanks
+I tried. Right away and I have another one which which I couldn't find just before today where the angels are all sort of competing with each other um but that was super fun and then I went down the street and renata when she was here we were um mentioning the colors of these uh strange pylons and so I started doing shooting with them but then I got back into tommy and it just worked so well together that um I I've just been overwhelmed by being slow with the camera instead of really fast and being able to bring out all these um sort of more subtle or more controlled movements and that's it but tommy's software is amazing and last last last thing um my uh my girlfriend is um really smart phd in computer sciences and she built a front end for tommy software so I could use it and when she's totally happy with it and it's got no bugs she wants to send it on to tommy so that everybody can use it if we get tommy's blessing so that was it that was my I hope I did that in the right amount of time and thank everybody for your um for checking it out thanks
 
 ## Colin Goldberg [51:03](https://www.youtube.com/watch?v=pxavr84wDJs&t=3063s)
 
@@ -486,27 +498,39 @@ I don't really have all that much to say. This is... I was stuck inside. I was s
 
 ## Unattributed [01:00:18](https://www.youtube.com/watch?v=pxavr84wDJs&t=3618s)
 
-Thank you. Thank you. Thank you. Thank you. Thank you. Okay, so that's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. That's it. Thank you. Thank you.
+Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
 
-## Lee Day [01:02:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=3745s)
+## Lee Day [01:02:01](https://www.youtube.com/watch?v=pxavr84wDJs&t=3721s)
 
-Thank you. Thank
+It's all traditional photography in the sense that I'm not manipulating it. It's all close-ups and time exposures. That's the basic technique. Time exposure in the sense that it may only be a 15th of a second, but with the water moving so rapidly, you get a lot of blurring and you get highlights moving around and the sun reflecting on multiple surfaces. So are there any questions or thoughts later? Be glad to talk.
 
-## Colin Goldberg [01:02:40](https://www.youtube.com/watch?v=pxavr84wDJs&t=3760s)
+## Colin Goldberg [01:02:41](https://www.youtube.com/watch?v=pxavr84wDJs&t=3761s)
 
-You. Thank you.
+Awesome, thank you Lee. Well I think you are the last artist at least that has their hand up unless anyone else who's in the Zoom would like to share. So I guess we can open it up for questions for Lee or any of the other artists. Oh here's Patrick. Hey Patrick. So we're just wrapping up all the presentations and we're sort of opening it up for questions for any of the artists or just general discussion.
 
-## Lee Day [01:03:26](https://www.youtube.com/watch?v=pxavr84wDJs&t=3806s)
+## Michael Pierre Price [01:03:12](https://www.youtube.com/watch?v=pxavr84wDJs&t=3792s)
 
-Thank you.
+Lee, was your square format native or did you crop it to square?
 
-## Renata Janiszewska [01:04:10](https://www.youtube.com/watch?v=pxavr84wDJs&t=3850s)
+## Lee Day [01:03:18](https://www.youtube.com/watch?v=pxavr84wDJs&t=3798s)
 
-Thank you. Thank you.
+It was hard to hear but I think the question is did I crop or was it native? I shoot a shot with the 35 millimeter, but the intention was always for it to be square. Okay.
+
+## Renata Janiszewska [01:03:30](https://www.youtube.com/watch?v=pxavr84wDJs&t=3810s)
+
+Lee, when you say that it's a time lapse and you're shooting running water, what
+
+## Lee Day [01:03:37](https://www.youtube.com/watch?v=pxavr84wDJs&t=3817s)
+
+Is the length of time? It's not really time lapse. It's just a longer exposure, but it's anywhere from a tenth of a second or in some places where the water is moving quite fast it might be a 30th at the second but when you're very very close to the to the subject matter that's that's it's moving you know it's moving through and blurring quite a bit in that in that you know that that speed thank
+
+## Renata Janiszewska [01:04:11](https://www.youtube.com/watch?v=pxavr84wDJs&t=3851s)
+
+You
 
 ## Colin Goldberg [01:04:13](https://www.youtube.com/watch?v=pxavr84wDJs&t=3853s)
 
-Patrick, you're welcome to share if you'd like. We just wrapped up everyone who had their hands raised, but if you have something to share, you're welcome. You're muted.
+Patrick, you're welcome to share if you'd like. We just wrapped up everyone who had their hands raised. But if you have something to share, you're welcome. You're muted.
 
 ## Patrick Lichty [01:04:29](https://www.youtube.com/watch?v=pxavr84wDJs&t=3869s)
 
@@ -720,13 +744,11 @@ Well, yeah. You know, I mean, I saw this stuff in 1994. As it's like, I'm lookin
 
 ## Colin Goldberg [01:24:59](https://www.youtube.com/watch?v=pxavr84wDJs&t=5099s)
 
-Yeah. He mentioned you specifically. We've we've exchanged a couple emails, you know, and I was sort of urging him. So signal. Would you mind if we listed you in the in the Techspressionist and this artist index? And he said, Well, actually, I identify as an algorithm. I'm not an algorithm. I'm an algorithm. I'm an algorithm.
+Yeah. He mentioned you specifically. We've we've exchanged a couple emails, you know, and I was sort of urging him. Him I was saying well would you mind if we listed you um in the in the Techspressionist artist index and he said well actually I identify as an algorist but I appreciate what you guys are doing and I think it's important and I respect that you know I feel like the algorists really were the first organized computer art movement right I mean uh
 
-I'm an algorithm. I'm an algorithm.
+## Patrick Lichty [01:25:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=5125s)
 
-## Patrick Lichty [01:25:24](https://www.youtube.com/watch?v=pxavr84wDJs&t=5124s)
-
-I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. I'm an algorithm. They were they were around the same time as you know as and but viramonar is also an an algorist you know so I mean it's like you know uh so that's yeah there's yeah
+Well I mean if you want to kind of talk about things like that you know you could probably maybe talk about eat maybe as yeah and then also Also, there were the people in Zagreb, you know, the new something with Vera Molnar and that sort of thing. And they were around the same time as, you know, but Vera Molnar is also an Algarist, you know. So, I mean, it's. You know uh so that's yeah there's yeah
 
 ## Colin Goldberg [01:25:55](https://www.youtube.com/watch?v=pxavr84wDJs&t=5155s)
 

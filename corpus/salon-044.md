@@ -52,15 +52,15 @@ So if you want to connect with the audience and make sure that those that want t
 
 ## Roz Dimon [06:34](https://www.youtube.com/watch?v=PecHOYGSnWY&t=394s)
 
-Thank you. Thank you. Thank you for having me today. Thanks to Colin and all of my colleagues. It's an honor to be showing with you. I'm sure. Give me just a minute here. It's an honor.
+Thank you. Thank you. Thank you for having me today. Thanks to Colin and all of my colleagues. It's an honor to be showing with you. I'm sure. Give me just a minute here. Hold on a second. Always a few little technical things. Can people see my screen?
 
 ## Colin Goldberg [07:19](https://www.youtube.com/watch?v=PecHOYGSnWY&t=439s)
 
-It's an honor. It's an honor. It's an honor. It's an honor.
+Yep.
 
 ## Roz Dimon [07:20](https://www.youtube.com/watch?v=PecHOYGSnWY&t=440s)
 
-It's an honor. It's an honor. It's an honor. It's an honor. It's an honor. It's an honor. It's an honor. It's an honor. About looking into the very heart of darkness, like Joseph Conrad's voyage into the Congo, where evil draws you in like a field of poppies. You know, it isn't like I just woke up and said, oh, I think I'll draw a Kalashnikov today to support the Ukrainian war. No, no, no. That would be a poster, but that's not what I'm doing. Art looks at all sides.
+Okay, good. Well, I speak to you today, my friends, with a bit of a heavy heart about my drawing, Kalashnikov II. Too. Some pieces are about resurrection of spirit. Others are about looking into the very heart of darkness, like Joseph Conrad's voyage into the Congo, where evil draws you in like a field of poppies. You know, it isn't... I just woke up and said, oh, I think I'll draw a Kalashnikov today to support the Ukrainian war. No, no, no. That would be a poster, but that's not what I'm doing. Art looks at all sides.
 
 I can't help but think of Magritte's Sene Pazun Peep, as in Sene Pazun Gun. But the truth is, this is a gun. Yes, Sene Un Gun. It's an object that I see all the time in real life. In every truck stop in America, in blockbuster movies, on the hip of practically every policeman in every county. It's an object that I see in the military. It's an object that I see in the military. It's an object that I see in the military. It's no longer just an object that you see in the war and the military. Witness today's horrible, tragic shooting in Texas.
 
@@ -334,11 +334,11 @@ I just wanted to also add one one note about dan I don't know if you had mention
 
 ## Dan Welden [47:45](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2865s)
 
-Did I did and um and the interesting connection actually that colin and I have uh is his professor was one of my students and so uh um I went back in um drivetrain um after uh creating uh uh uh uh uh uh uh uh uh uh uh uh uh uh yeah I
+Did I did and um and And the interesting connection actually that Colin and I have is his professor was one of my students. And so that was at Janet Bowick at Bowling Green University, chairman of the printmaking department was, I think, Colin, your mentor, right?
 
-## Colin Goldberg [48:09](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2889s)
+## Colin Goldberg [48:08](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2888s)
 
-Had her for a graduate printmaking class at bgsu and she she said hey you're from long island you know do you know Dan Welden because we were learning solar plate printing at the time and I said I didn't and she said well you should look him up he invented this um so when I looked him up I realized that um dan lived lives about 10 minutes from where I grew up. So over Christmas break, we did a studio visit. And, you know, it's been amazing getting to know you and your work and really pleased that I could include you in the exhibition.
+Yeah, I had her for a graduate printmaking class at BGSU. And she said, hey, you're from Long Island. You know, do you know Dan Welden? Because we were learning solar. Printing at the time and I said I didn't and she said well you should look him up he invented this um so when I looked him up I realized that um dan lived lives about 10 minutes from where I grew up. So over Christmas break, we did a studio visit. And, you know, it's been amazing getting to know you and your work and really pleased that I could include you in the exhibition.
 
 ## Dan Welden [48:40](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2920s)
 
@@ -356,35 +356,27 @@ And I think that's what is going to be so important. And I think that's what is 
 
 And I think that's people, all of us, share being in the community of human beings. Human beings, we just all have been either excluded, unfairly dealt with, for myriad reasons. So for me, making art has always had this particular focus to bring people into a, either whether it's a physical installation or video projections, bring them in and have them experience it and think, wow, this is something I can be part of to change because I don't like what's happening. For this Techspressionist show, um, one of my biggest, um, concerns has always been unsung sheroes, um, unsung sheroes in science and, um, um, unsung sheroes in all walks of life. Um, and I chose to work on, with this woman, uh, Emmy Noether, who I found a really fascinating, um, scientist that she really should be as well known as, uh, Einstein from my perspective.
 
-My personal perspective. Um, and, um, there, I created these two, uh, like tableau pieces, like architectural windows, um, faux windows for you, uh, the public to enter, uh, look at these windows, into these windows with moving shutters, um, digital shutters that give you glimpses into the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh,
+My personal perspective. Um, and, um, there, I created these two, uh, like tableau pieces, like architectural windows, um, faux windows for you, uh, the public to enter, enter, look at these windows, into these windows with moving shutters, digital shutters that give you glimpses into the practice and the life of works of, and we know they're from two different perspectives, each screen in conversation with each other.
 
 ## Unattributed [53:00](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3180s)
 
-The, uh, the, uh,
+Can you see this?
 
-## Steve Miller [53:04](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3184s)
+## Steve Miller [53:02](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3182s)
 
-The, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh, the, uh,
+Yeah, Nina, do you want to uh I know you're yeah it's on the screen share do you want to uh bring that up yes I'm okay I'm
 
-## Unattributed [53:11](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3191s)
+## Unattributed [53:10](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3190s)
 
-The, uh, the, uh,
-
-## Nina Yankowitz [53:16](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3196s)
-
-Hold on, hold on, hold on.
-
-## Unattributed [53:17](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3197s)
-
-It's not showing up. It has to be closed.
+Trying to find it's not coming here right now that'd be the problem with it um hold on hold on hold on it's not showing up and he has to be closed you
 
 ## Nina Yankowitz [53:23](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3203s)
 
-It's a keynote. Here, you should close this because this is here.
+Know it's a keynote here you should close this because this is here
 
-## Unattributed [53:27](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3207s)
+## Unattributed [53:28](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3208s)
 
-It's over there. You don't see it. Let's see. Do you see it now?
+You don't see it. Let's see. Do you see it now?
 
 ## Steve Miller [53:33](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3213s)
 
@@ -404,11 +396,19 @@ All right. Okay. Okay. So these are the two, it's like an architectural facade, 
 
 ## Unattributed [54:09](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3249s)
 
-I know I don't have to say her name. It's not on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. It's on the screen. Universal nature of all things.
+I know I don't have to say her name. And angular momentum.
+
+## Nina Yankowitz [54:24](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3264s)
+
+But you can continue.
+
+## Unattributed [54:26](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3266s)
+
+Let's try to do it. The angular momentum inherent in Einstein's theory of relativity amplified, proved, and explained that his theory exists because of understanding that it's part of the universal nature of all things.
 
 ## Nina Yankowitz [54:44](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3284s)
 
-I mean, no, they're proved. I was the first person to prove Einstein's theories. Nobody was listening to him at the time. She actually proved his theories mathematically. She created something called abstract algebra.
+And we know they're proved. I was the first person to prove science theories, nobody was listening to him at the time. Proved his theories mathematically. She created something called abstract algebra.
 
 ## Colin Goldberg [55:00](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3300s)
 
@@ -438,17 +438,17 @@ Thank you.
 
 ## Colin Goldberg [56:57](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3417s)
 
-Steve. I think you're muted. Yeah.
+Steve. I think you're muted.
 
-## Steve Miller [57:01](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3421s)
+## Steve Miller [57:00](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3420s)
 
-Thanks Colin. You're being too bad. We're just going to get that was it. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just
+Yeah, thanks, Colin. One thing in this exhibition that's interesting, there's a vast amount of diversity. It's extremely international. Obviously, we're focused on the East End here. Colin, how many different countries? I think you can just interject. There's
 
 ## Colin Goldberg [57:18](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3438s)
 
-Going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that. We're just going to get that.
+Over 20 countries included in this show. So there's 93 artists and over 20 countries are represented. There is a grid of 15 works that represent 14 different countries that are physical works in the show that were fabricated on aluminum panels for the exhibition. And there's also a reel of artworks that are digital pieces that are digital still images.
 
-We're just going to get that. Different countries that are physical works in the show that were fabricated on aluminum panels for the exhibition. And there's also a reel of artworks that are digital pieces that are digital still images, time-based works and NFTs. And that reel is actually visible online as well. It's on the Techspressionism.com homepage. If you scroll all the way down towards the bottom, you can watch that reel. It's a little over an hour and I believe there's close to 40 artists in it. And there's a lot of the international artists are represented in that reel as well.
+Works and NFTs. And that reel is actually visible online as well. It's on the Techspressionism.com homepage. If you scroll all the way down towards the bottom, you can watch that reel. It's a little over an hour and I believe there's close to 40 artists in it. And there's a lot of the international artists are represented in that reel as well.
 
 ## Steve Miller [58:06](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3486s)
 
@@ -490,11 +490,11 @@ It looks great. All right. So is it too loud? OK. So then this thing, this is cr
 
 And then, let's see. Later, I got more skilled with the synthesizer and made really pretty pictures with soft edges and could control the color and stuff. But looking back, I kind of like the punk rawness of these nearly illegal colors and unlock signals as a sort of young gesture. And then... And then, so as somebody said, and I'm pretty sure it's George Lucas said about motion pictures in general, over half the picture is sound. So this is a weird music composition I did on Moog synthesizers, very kind of abrasive.
 
-And this was actually premiered in a formal electronic music concert before I made this piece for the videos. Wow. You know... Yeah. So that's it. So for that, I'm going to kind of start with the soundbite. So you can kind of use the soundbite to make that вny you
+And this was actually premiered in a formal electronic music concert before I made this piece for the videos. Wow. You know, so here you can hear the poem being read through, you'll hear the voice of the poem.
 
-## Unattributed [01:03:41](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3821s)
+## Unattributed [01:03:35](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3815s)
 
-Can make that more clear. So you can make that more clear. So you can make that more clear. So you can make that more clear. So you can make that more clear. So you can make that more clear. So you can make that more clear. One
+There's a man in every machine. Many machines fail to talk to one another. To do your daily tasks. But just to be safe, and you will take back the time you just took. To refer to myself. To find myself. And you don't worry about people. One
 
 ## John Zieman [01:04:18](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3858s)
 

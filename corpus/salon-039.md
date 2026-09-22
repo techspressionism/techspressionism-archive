@@ -76,29 +76,29 @@ Be so old. They can't be used. So that whole issue of saving and moving on. Tran
 
 ## Davonte Bradley [07:27](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=447s)
 
-There's. The whole idea to just regarding what, what does it mean to be gone? Right? Like I'm sure that there could be somebody that attends or watch watches this recording afterwards. And so I'm just wondering if you could. If you can. What you're really gonna be so. So. So. So. So. So. So. So. So. So. So. So. So. So. So.
+There's. The whole idea to just regarding what, what does it mean to be gone? Right? Like I'm sure that there could be somebody that attends or or watches this recording afterwards, and they'll see your floppy disk, and they won't recognize what that is. They'll probably have no idea what you just held up. It's like, what is that, a piece of cheese?
 
-So. So. Gone from regular usage. And when things go away from regular usage, you know, of course, support stops for that thing, because it's no longer regular usage. Most people have moved on to the next thing. And that keeps going perpetually on and on and on. And so you have this long list of things that they still exist in some capacity. It's just that the things that allowed them to work in the first place, or the way that they used to work, it's no longer easily accessible, or it's not as accessible as it once was. It still exists, still potentially workable. It's just, there's a lot more effort that is involved with keeping you, like, stay using those things.
+But when we say it's gone, I think in a lot of cases what we're saying is that thing, thing, albeit like unless like all of them are wiped out of existence, it's gone from regular usage. And when things go away from regular usage, you know, of course support stops for that thing, because it's no longer regular usage most people have moved on to the next. Thing. And that keeps going perpetually on and on and on. And so you have this long list of things that they still exist in some capacity. It's just that the things that allowed them to work in the first place, or the way that they used to work, it's no longer easily accessible, or it's not as accessible as it once was. It still exists, still potentially workable. It's just, there's a lot more effort that is involved with keeping you, like, stay using those things.
 
 ## Michael Pierre Price [09:00](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=540s)
 
 I mean, if you think about... Yeah. Art restoration and the need to preserve art that's been affected by the elements in whatever way, I mean, you can easily think down the road there's going to need to be art restoration in the digital world as well, based on exactly what Cynthia was just talking about.
 
-I mean, in the past, you know, being old enough that I grew up in a purely analog world before digital became really the prominent mode, when things got upgraded or we thought was obsolete, you still had ways to tinker with them based on the new upgrades. And, you know, think about cars and things like that, is that today, the digital world is not as good as it used to be. And so I think that's a big part of that. A lot of the time, I'm not at a real point in the world. And I'm not that going to be a good one, you know, I'm not I'm not a good co-host, I'm not a part of a same-sex world. And I'm not the pre- day-ings, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host, I'm not a co-host,
+I mean, in the past, you know, being old enough that I grew up in a purely analog world before digital became really the prominent mode, when things got upgraded or we thought was obsolete, you still had ways to tinker with them based on the new upgrades. And, you know, think about cars and things like that, is that today, the digital world is not as good as it used to be. And so I think that's a big part of that. A lot step back and use a previous version of Photoshop, if you go far enough back or something else. And so we've kind of painted ourselves into this direction that we're headed in as a society
 
 ## Unattributed [10:28](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=628s)
 
-I'm not a co-host, I'm not a co-host, I'm not a co-host,
+Where you just, you don't have the easy, that
 
 ## Michael Pierre Price [10:33](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=633s)
 
-I'm not a co-host, in the digital world there's not the equivalent of what was in the analog world where you made little baby steps that that easily integrated into what went on before and and I think that's gonna I I mean I know a whole lot of people have been studying the whole issue with what sorts of formats moving into the future are going to survive and move forward I'm I'm not so worried about that because I I think that's going to happen as we go along there's going to be new generations saying okay there's previous generations of artwork sitting in the cloud or in on discs or whatever it is and if all of a sudden now we've made some transformational evolutionary change in the way we experience art I think a lot of those things are going to get you moved forward in what in whatever transitional formats there there may come about
+There's not in a digital world, there's not the equivalent of what was in the analog world where you made little baby steps that easily to what went on before and and I think that's gonna I mean I know a whole lot of people have been studying the whole issue with what sorts of formats moving into the future are going to survive and move forward I'm I'm not so worried about that because I I think that's going to happen as we go along there's going to be new generations saying okay there's previous generations of artwork sitting in the cloud or in on discs or whatever it is and if all of a sudden now we've made some transformational evolutionary change in the way we experience art I think a lot of those things are going to get you moved forward in what in whatever transitional formats there there may come about
 
 ## Davonte Bradley [11:35](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=695s)
 
-I I can't help but think about one one you brought up the issue of backwards compatibility is essentially what that is like having that step before to accommodate you know the newer technology like when vhs has had dvd players attached to them uh or with video game consoles being able to travel with the games from before that kind of thing is going to be a huge challenge for us as we move forward in the future and that's the really the really the really really long-term way to go in the future and that's the one that's that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's the one that's was just not there, but we still have the marble underneath and we still consider it like this is still a great work of art, even though it was not in its original state.
+I I can't help but think about one one you brought up the issue of backwards compatibility is essentially what that is like having that step before to accommodate you know the newer technology like when vhs has had dvd players attached to them uh or with video game consoles being able to travel with the games from before that kind of idea and with computers file formats haven't changed too much over the years like those have been pretty stable but I can't help but imagining like the digital artistic equivalent of like something along the lines of like maybe digital patina it's like we know like the greg the gregsian sculptures they a lot of them used to be painted right and all of them lost their color because over the years the paint was just not there but we still have the marble underneath and we still consider it like this is still a great work of art even though it was not in its original state and I'm just wondering like what would look like for art that is not analog?
 
-And I'm just wondering, like, what would that look like for art that is not analog? Like, what does that look like for digital art? Like, would we, like, if we booted up into whatever modern technology that we have, or whatever modern pieces of ways of experience it, and we start noticing, like, there's data degradation, or there's actual glitches as a result of the data aging, and, you know, it's like, would we also take into, like, would we also come to appreciate that kind of thing happening?
+Like, what does that look like for digital art? Like, would we, like, if we booted up into whatever modern technology that we have, or whatever modern pieces of ways of experience it, and we start noticing, like, there's data degradation, or there's actual glitches as a result of the data aging, and, you know, it's like, would we also take into, like, would we also come to appreciate that kind of thing happening?
 
 And I know there actually are some artists that, like, they take that to the extreme already, like, I'm going to pass this file back and forth and back and forth and see what the end result looks like. And after, you know, because data is lost after each exchange. And you know, I'm not sure if that's a good thing or not, but I'm not sure if that's a good thing or not. The original image gets changed subtly over time as the pixels stop copying correctly, because it's not a perfect process.
 
@@ -106,9 +106,9 @@ So, I don't know, it's fun trying to think about what that would look like.
 
 ## Lee Day [13:41](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=821s)
 
-I would say, you know, my wife is a digital artist. She does web work and that type of work, but fine art. And this is an issue that they've been dealing with forever, because, you know, I like the talk. I like the talk, you know, I like the kind of people and the work, you know, I like the work, you know, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, I like the way I do it, made ephemeral art that we're still trying to hold on to.
+I would say, you know, my wife is a digital artist. She does web work and that type type of work, but fine art. And this is an issue that they've been dealing with forever because, you know, PHP on the server will change and your piece no longer works and you have to go back and hopefully rebuild it. Or your piece is constructed in such a way that it's referring to URLs and pulling in data from other places and those places disappear or no longer exist. And so the piece just breaks down. So, you know, on a certain level you can talk about some art being ephemeral, so that only it doesn't, it isn't going to last. The Dadaists built, made ephemeral art that we're still trying to hold on to, you know, it's made with newspapers and stuff that they wanted to break down and die, and we're still trying to keep, you know, put chemicals on it.
 
-It was made with newspapers and stuff that they wanted to break down and die. And we're still trying to put chemicals on it to keep them from breaking down and die. And looking forward, I would throw NFTs into that. So Ethereum and the contracts you're building your NFTs on are really very new. And you're going to have iteration on how these contracts, how the programming in them is developed and encapsulates whatever information is in there. Also, you're not going to lose the art because the art is actually on IPFS, which is a file system.
+Them from breaking down and die. And looking forward, I would throw NFTs into that. So Ethereum and the contracts you're building your NFTs on are really very new. And you're going to have iteration on how these contracts, how the programming in them is developed and encapsulates whatever information is in there. Also, you're not going to lose the art because the art is actually on IPFS, which is a file system.
 
 Unless, of course, your art just disappears from IPFS, which is also possible because if it doesn't, it's sort of use it or lose it. And if no one uses it, it may just disappear. So the digital world is sort of at its foundation a bit ephemeral. And that's not even touching on what Apple does to their iPhones.
 
@@ -124,9 +124,9 @@ But the thing about NFTs, even though part of that landscape, really, is that it
 
 So this whole obsolescence idea is fascinating to me and also for the reason that my father was a renowned surgeon and kept all these slides and things of his stuff. And I can't help but get into the biblical passages of dust to dust. Like, you know, if we can let go of ego. I think who can let go of ego?
 
-I'm in a lot of this to it, you know, I can't I can't I can't to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to And so I always sort of come back to that idea that art is, art itself and the creation is what makes the difference.
+I'm I guess I just keep coming back in my own life when I feel a little like, Oh, what's the point? You know, it's gone from floppies to this, to that, to that, but you know, you, it almost feel, I mean, you can either look at it and say, nothing makes sense. Nothing makes a difference when everything does. And you don't really know what you're offering out to the world. What is going to make a difference? So I, I always sort of come back to that, that idea that art is art itself. And the creation is what makes the difference. And we just have to keep creating and speaking out to the world. Know if our pieces are going to last. I mean, I've rolled up quite a few of my own.
 
-And we just have to keep creating and speaking out to the world. And we don't really know if our pieces are going to last. I mean, I've rolled up quite a few of my own. They're not quite in the same format, like Flash Shockwave and stuff. I mean, they're videos now. But it is a, even if things are, it's a very exciting world to be in. And yet it's, I don't know, I sometimes, I don't know, I might just drop it all at some point and go back to oil on canvas. Because those pieces are really lasting really well, even in bright sunshine.
+They're not quite in the same format, like Flash Shockwave and stuff. I mean, they're videos now. But it is a, even if things are, it's a very exciting world to be in. And yet it's, I don't know, I sometimes, I don't know, I might just drop it all at some point and go back to oil on canvas. Because those pieces are really lasting really well, even in bright sunshine.
 
 ## Unattributed [18:30](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=1110s)
 
@@ -370,9 +370,9 @@ But the idea never actually completely died because what happened with DVDs alte
 
 ## Susan Detroy [49:34](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=2974s)
 
-Yeah, probably. So, yeah, it reminds me of something that's happening locally with a dance troupe here where you go, this is where you go and you build the dance, like the people in the audience, actually. Like the dancers are up on the stage. And, and there's music, but you tell the dancers what to do. And so over a period of like two hours, it goes back and forth and the whole audience is a choreographer. It just made me think of that and how, how completely exciting that is for the people that are there. And it's a big draw. It used to happen, of course, a lot more before COVID, but they're starting to do it again. And usually do they do it outside in the summertime. So that. Very interesting. I like the kind of the more of a like, I like the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more of a, the more what we're doing in terms of understanding how much has happened before us in the terms of art and how much is happening now and how we, I just think it's, it's kind of chillingly exciting for me to, to understand that, that all of us in my role is to look and interpolate, interpolate what's going on and that I have the ability to think about time and art and use that however I want.
+Yeah, probably. So, yeah, it reminds me of something that's happening locally with a dance troupe here where you go, this is where you go and you build the dance, like the people in the audience, actually. Like the dancers are up on the stage. And, and there's music, but you tell the dancers what to do. And so over a period of like two hours, it goes back and forth and the whole audience is a choreographer. It just made me think of that and how, how completely exciting that is for the people that are there. And it's a big draw. It used to happen, of course, a lot more before COVID, but they're starting to do it again and usually do they do it outside in the summertime so that for here that means like June, July, August and there but the idea that people want to affect what artists are doing is very prevalent in those in those times that people are doing that.
 
-I mean, I think that's really an exciting idea. That's what I've been thinking.
+The other thing I've been thinking about while people are talking is how much it is a kind of human privilege for us as artists to be able to do what we're doing in terms of understanding how much has happened before us in the terms of art and how much is happening now and how we just think it's, it's kind of chillingly exciting for me to, to understand that, that all of us in my role is to look and interpolate, interpolate what's going on and that I have the ability to think about time and art and use that however I want. I mean, I think that's really an exciting idea. That's what I've been thinking.
 
 ## Allen Hirsh [51:38](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3098s)
 
@@ -440,13 +440,15 @@ It's like when, when you have a message that's too broad and you don't really sa
 
 Mm hmm. And yet, I don't know, I've always been one that likes to mix everything together with corporate. I had some really exciting. It might be getting into a different thing than what you're saying, but such excitement working inside, inside the fine, the corporate art world at the World Financial Center, you know, in the, in the 90s. I mean, it was fascinating. And, and, and, you know, in the Renaissance, the tradespeople and the corporate and the money and the art and, you know, of course, certain things rose to the top, but it was all one. It wasn't really a separation because money is part of art. I mean, it just is if you're a serious artist, it is I mean whether you're making it or not.
 
-Yeah, some, it's part, it's part of the equation. So I don't know mixing I think that actually in our new in the digital age that's mixing up a lot more. Yeah, I think that can be very powerful, because you want to be able to make a living, it's, we don't want to be so precious that we're out there, and not part of the world.
+Yeah, some, it's part, it's part of the equation. So I don't know mixing I think that actually in our new in the digital age that's mixing up a lot more. Yeah, I think that can be very powerful, because because you want to be able to make a living. We don't want to be so precious that we're out there and not part of the world.
 
-I also.
+I also want to...
 
 ## Allen Hirsh [57:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3430s)
 
-Oh, go ahead. I was gonna say, or your doctors without borders. Yeah. I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going to say, I was just going the art and you know what it's assigned with whether it's a bland I don't want to offend anyone type of art versus I want to get you involved art because we need help we need doctors to go out there where no one will go right
+Oh, go ahead. I was going to say, all your Doctors Without Borders and the art you bring to the papers that you send around the world, hoping to get people to donate, you know, that's business of a sort. Their aim is not business, but their aim is to get people to, you know, help these doctors around the world. So there's that kind of art that might be there. So I guess we really have to look at the intentions of the artist and the art and, you know, what it's assigned with. Whether it's a bland, I don't want to offend anyone type of art versus...
+
+Want to get you involved art because we need help we need doctors to go out there where no one will go right
 
 ## Colin Goldberg [58:04](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=3484s)
 
@@ -618,27 +620,19 @@ And I don't know, I understand that as a tool, it does have a great capacity to 
 
 So it's. I know the Internet is kind of, I guess, a parallel of humanity itself, like in its base essence.
 
-## Allen Hirsh [01:17:43](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4663s)
+## Allen Hirsh [01:17:42](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4662s)
 
-Who would have thought 50 years ago that Zelensky could talk to all the big, big, big nations of the world? I mean, just the fact that there he is. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers.
+Who would have thought 50 years ago that Zelensky could talk to all the big nations of the world? I mean, just the fact that there he is in his T-shirt, you know, fighting a war, looking worse and worse and more haggard. But he's talking to the UK. He's talking to the United States. He's talking to all these countries. And they're there.
 
 ## Unattributed [01:18:08](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4688s)
 
-Hitchhikers. Hitchhikers.
+All their people.
 
-## Allen Hirsh [01:18:10](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4690s)
+## Allen Hirsh [01:18:09](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4689s)
 
-Hitchhikers. Hitchhikers. Hitchhikers.
+People because we have media access you know yeah I mean you know that he doesn't need to go in the news he can be there and talk who would have thought 50 years ago that he could do that and he could be when he talks about he wanted biden when he talked to the u.s uh to be the leader of world peace he He's leader of world peace, Zelensky, in what he's doing.
 
-## Roz Dimon [01:18:12](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4692s)
-
-Hitchhikers.
-
-## Allen Hirsh [01:18:13](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4693s)
-
-Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Hitchhikers. Years ago that he could do that. And he could be, when he talks about, he wanted Biden, when he talked to the U.S., to be the leader of world peace. He's the leader of world peace, Zelensky, in what he's doing. To talk to all these people, to unite us behind him is just, to me, it's totally mind-boggling.
-
-And Davo, I agree with you 100% about the internet and being a tool, and anything can be used for good or bad. You can take a pencil that you write with and stab somebody with it. It's all about the intention of the user, what you're going to do with the tool. And also
+To talk to all these people, to unite us behind him is just, to me, it's totally mind-boggling. And Davo, I agree with you 100% about the internet and being a tool, and anything can be used for good or bad. You can take a pencil that you write with and stab somebody with it. It's all about the intention of the user, what you're going to do with the tool. And also
 
 ## Davonte Bradley [01:19:05](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4745s)
 
@@ -650,17 +644,15 @@ And it's one of those things like the internet, that kind of thing, we can see t
 
 ## Colin Goldberg [01:20:30](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4830s)
 
-The fact that everything on like the power grid is so interconnected through the internet now. And the irony is like it was originally created to create redundancy for nuclear technology so that if one, you know, if you're going to be able to get a nuclear power grid, you're going to have to do a lot of work.
+The fact that everything on like the power grid is so interconnected through the internet now. And the irony is like it was originally created to create redundancy for nuclear technology so that if one, you know, if you're going to be able to get a nuclear power grid, you're going to have to right, which became the internet. And, you know, I mean, it's sort of achieving its goal now in a way and sort of like a larger sense, right? But like on the flip side, it's like, well, now that everything is connected, you know, nation states or individuals, groups could shut off people's access to utilities, all that other stuff.
 
-And I just like the fact that the last one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one, the first one,
+## Roz Dimon [01:21:16](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4876s)
 
-## Roz Dimon [01:21:14](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4874s)
-
-Capabilities all that other stuff yeah cyber war is here definitely
+Cyber war is here. Definitely.
 
 ## Davonte Bradley [01:21:19](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4879s)
 
-But the pipeline that ended up getting hacked here in the u.s uh not too far back which that was kind of funny too in in some ways because the the people that did it the hackers they actually issued an apology after the fact they're like oh we didn't actually realize that this this particular company controlled so much it
+The pipeline that ended up getting hacked here in the US. Too far back which that was kind of funny too in in some ways because the the people that did it the hackers they actually issued an apology after the fact they're like oh we didn't actually realize that this this particular company controlled so much it
 
 ## Lee Day [01:21:40](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=4900s)
 
@@ -730,33 +722,13 @@ Okay there's actually on the salon page too there's a form where you could submi
 
 That's a really good way to do that in a way that you can do in a very any in a more something that you can do in a more
 
-## Colin Goldberg [01:26:24](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5184s)
+## Colin Goldberg [01:26:21](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5181s)
 
-It's a really good way to go you can go to a lot of our things and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and everyone just shows a piece you know what I mean and it's about a particular that's
+You know, incorporating brief five minute presentations about relevant to the topic, you know, so it incorporates screen share, like, hey, show us a piece, like, everyone just shows a piece, you know what I mean? And it's about a particular, you know what I mean? That way, there's visuals, and it's incorporating the art into the recording, but also.
 
-## Unattributed [01:26:40](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5200s)
+## Davonte Bradley [01:26:47](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5207s)
 
-A good idea
-
-## Colin Goldberg [01:26:40](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5200s)
-
-You know what I mean that way there's visuals and it's incorporating the
-
-## Unattributed [01:26:44](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5204s)
-
-Art
-
-## Colin Goldberg [01:26:44](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5204s)
-
-Into the the recording but also conversation yeah
-
-## Roz Dimon [01:26:48](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5208s)
-
-That sounds good are we
-
-## Davonte Bradley [01:26:50](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5210s)
-
-Saying that uh are the previous versions of the salons are becoming obsolete is that what's happening maybe you
+Yeah that sounds good are we saying that uh are the previous versions of the salons are becoming obsolete is that what's happening maybe you
 
 ## Roz Dimon [01:26:58](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5218s)
 
@@ -768,11 +740,11 @@ Well I think the the previous format it encourages people to like come in see oh
 
 ## Susan Detroy [01:27:41](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5261s)
 
-I certainly enjoy being able to say what's in my mind when other people are talking because I'm sure many of us are having a stream of all kinds of thoughts while we're working or during the week and and um I enjoy being able to listen to what other people are thinking and and and and and and and and and and and and and and and and and and and and and and And then, oh, okay, like I've been thinking about this part of that. And I like that there's a place to voice that kind of process. So thanks.
+I certainly enjoy being able to say what's in my mind when other people are talking because I'm sure many Many of us are having stream of all kinds of thoughts while we're working or during the week. And I enjoy being able to listen to what other people are thinking. And then, oh, okay, like I've been thinking about this part of that. And I like that there's a place to voice that kind of process. So thanks.
 
-## Davonte Bradley [01:28:12](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5292s)
+## Davonte Bradley [01:28:13](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5293s)
 
-Platforms are always nice to have.
+Nice to have.
 
 ## Roz Dimon [01:28:15](https://www.youtube.com/watch?v=2KEDFrtlQTY&t=5295s)
 

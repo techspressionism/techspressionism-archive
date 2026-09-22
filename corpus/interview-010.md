@@ -373,11 +373,15 @@ And yeah, yeah.
 
 ## Colin Goldberg [01:06:35](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=3995s)
 
-So, you know, I mean, I played a little bit with Tilt Brush and, you know, that's pretty much the extent of it. You know, I mean, honestly, I probably spent more time with the virtual space. I think I spent more time with the virtual lightsaber and Star Wars games and making things. But, you know, that's that's just you got to have some some beat favor and and whatnot.
+So, you know, I mean, I played a little bit with Tilt Brush and, you know, that's pretty much the extent of it. You know, I mean, Honestly, I probably spent more time with a virtual lightsaber and Star Wars games than making things. But, you know, that's just – you've got to have some entertainment.
 
-## Brandon Gellis [01:06:53](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4013s)
+## Unattributed [01:06:51](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4011s)
 
-It's a good it's a good it's a good it's a good refresh. It's a good time just to slow down. We all need to slow down. Life's been crazy for so long. And it's also it's nice. The headsets are more affordable now that you can have more than one and you can do that with your daughter. And you know. Right.
+Lightsaber and whatnot.
+
+## Brandon Gellis [01:06:54](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4014s)
+
+It's a good refresh. It's a good time just to slow down. We all need to slow down. Life's been crazy for so long. And also it's nice. The headsets are more affordable now that you can have more than one and you can – that with your daughter. And you know. Right.
 
 ## Unattributed [01:07:12](https://www.youtube.com/watch?v=rO6UdqwFKFc&t=4032s)
 

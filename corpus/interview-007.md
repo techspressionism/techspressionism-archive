@@ -481,19 +481,15 @@ Right.
 
 ## Michael Pierre Price [39:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2363s)
 
-Because I don't like doing the same thing over and over again. I want to break new ground. I always want to break. And that's for me personally. Once I've done something and I feel like, oh, I've really explored this really deeply now, it's time to go on and do something else. I might take what I've learned from that, but I don't want to keep doing the same thing. Oh, you know, I don't want to be a one-trick pony. I find that what the lessons learned, I need to move on. Yeah. Yeah. Yeah. Yeah. I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do,
+Because I don't like doing the same thing over and over again. I want to break new ground. I always want to break. And that's for me personally. Once I've done something and I feel like, oh, I've really explored this really deeply now, it's time to go on and do something else. I might take what I've learned from that, but I don't want to keep doing the same thing. Think oh you know I I don't want to be a one-trick pony I I I find that what the lessons learned I need to move on and so finally in 2010 I I said goodbye to active you know my active career in trying to you know either do game development or look for those sorts of avenues and I ended my consulting business and said I'll die if I'm not a creative person so that's where my art career began.
 
-## Unattributed [40:25](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2425s)
+## Roz Dimon [40:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2424s)
 
-I do,
-
-## Roz Dimon [40:28](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2428s)
-
-I do yeah and you have to decide which price you want to pay you know and
+I love it there's a price for everything isn't there? Yeah. It really is everything has a price. Yeah. And you have to decide which price you want to pay you know.
 
 ## Michael Pierre Price [40:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2432s)
 
-I never you know so mid 50s so I never I never thought that I would be
+And I never you know so mid 50s so I never I never thought that I would.
 
 ## Roz Dimon [40:41](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2441s)
 
@@ -533,11 +529,11 @@ A box is the is the death of us I mean even though we're always in this box but 
 
 ## Michael Pierre Price [41:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2473s)
 
-Yeah all right so I I realize there's a there's a lot and I covered more on the techno well I guess I wanted to cover more on the technology side because of expression you can and you have a really really good just a really really good or a really really good like a like a rarer and a like a and a you have a you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you a thread that's connecting us all and I find that fascinating
+Yeah all right so I I realize there's a there's a lot and I covered more on the techno well I guess I wanted to cover more on the technology side because of expression people to understand that this is a diverse group of artists that's worldwide and we've each come to this point of being part of this larger community in very diverse ways in very different ways but there's there's a thread that's connecting us all and I find that fascinating
 
 ## Roz Dimon [41:54](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2514s)
 
-Yeah it's it's exciting and and we don't really and like the other things we've been a part of it's defined uh loosely enough so we keep you know as colin said Colin Goldberg who started this whole thing um with Patrick Lichty and and others um that you know it it seems to have a a certain openness to to see where it goes you know and that's right it's
+Yeah it's it's exciting and and we don't really and like the other things we've been a part of it's defined. Loosely enough so we keep you know as colin said Colin Goldberg who started this whole thing um with Patrick Lichty and and others um that you know it it seems to have a a certain openness to to see where it goes you know and that's right it's
 
 ## Michael Pierre Price [42:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2537s)
 
@@ -557,7 +553,9 @@ You know where we try to seek meaning in this digital ether and in the and in th
 
 ## Michael Pierre Price [43:27](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2607s)
 
-Me delve into this here all right are you seeing yes I am successfully here okay yes I am so you have a look you have a see a here a that you have a it that you have a you that you have a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the old growing up near chicago I finally got to go to the art institute in chicago and my grandmother being french she loved the impressions and so the art institute has a great area of impressionist art so I loved going to there and and but we as we walked around I saw this
+Me delve into this here all right are you seeing yes I am successfully here okay yes I am so I'm trying to think. So, one of my very earliest influences getting back to that for me is really important. I was about 11 years old. Growing up near Chicago, I finally got to go to the Art Institute in Chicago.
+
+And my grandmother being French, she loved the impression. So the art institute has a great area of impressionist art so I loved going to there and and but we as we walked around I saw this
 
 ## Roz Dimon [44:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2672s)
 
@@ -637,27 +635,23 @@ I'm fascinated see I get the big concepts but you know I'm not the scientist lik
 
 ## Michael Pierre Price [55:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3317s)
 
-We zoom in and now we're we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're we're in we're in the narrow region let me start to zoom out here so we're in we we focused in on the narrow region of the the and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+We zoom in and now we're we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're we're in we're in the narrow region Let me start to zoom out here. So we're in, we focused in on the narrow region right around the periphery, right around the periphery of this area right in here. Let me go back out.
 
-## Unattributed [56:02](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3362s)
+## Roz Dimon [55:58](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3358s)
 
-The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+Now Michael, I'm trying to translate from your brain to the audience a little and
 
-## Roz Dimon [56:05](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3365s)
+## Unattributed [56:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3364s)
 
-The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the is very important um you know to me I've always understood something about that when you look in deeply that it's it's replicating the same you know
+I and
 
-## Unattributed [56:16](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3376s)
+## Roz Dimon [56:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3364s)
 
-I don't know if people are understanding but
+You just correct me if I'm wrong and but I think this is very important. I mean, to me, I always understood something about that when you look in deeply that it's replicating the same, you know, I don't know if people are understanding, but it's. Making the same thing over and over and over it's not the same thing it isn't it's similar
 
-## Roz Dimon [56:18](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3378s)
+## Michael Pierre Price [56:26](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3386s)
 
-It keeps making the same thing over and over and over it's
-
-## Michael Pierre Price [56:22](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3382s)
-
-Not the same thing it isn't it's similar oh there's a there's a notion here of self-similarity
+Oh there's a there's a notion here of self-similarity
 
 ## Roz Dimon [56:30](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3390s)
 
@@ -681,7 +675,7 @@ But you wonder how humans where where are we in there teeny dot on the edge of o
 
 ## Michael Pierre Price [58:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3516s)
 
-That's my that's my thing about about fractals so where does that where does that bring me then to um the art that I wanted to share and here's here's one example so this is this is I I took some screenshots just to kind of move through this rather quickly this is from uh a 3d fractal program called mandelbot mandel bulb 3d I know a number of Techspressionist artists use this program because I've seen their work but for me again I like using this as a metaphor to let to help people think about other than the abstract quality or the coolness of the shape is think of this as an eyeball this sphere is an eyeball and these are nerve bundles or muscles around the eye so if you think about the anatomical drawings that we've seen of eyes and what eyes look like um and and over here might be where the iris is or the front part of the eye and this is the back part where the retina is so as I as I look to look closer and get more detail of this what happens is I'm I'm now getting my camera in this 3d simulated uh cyber environment of the fractal world these bundles now that you see that are sort of arching away they're actually enveloping and going behind my camera and I'm seeing craters of them closer in to bundles inside of buttons so as I go as I go in another step closer now I'm seeing that there's a hollow a double spherical hollow core to this to this fractal and if you can see there's sort of like a center column here yeah and you see like these fibrous things coming off of this center core if I get closer and I'm going to zoom in a little bit more now you now you can see the center core better yes see kind of what I'm saying look at this very very center piece here it looks like there's some horizontal striations can you see that on screen yes I can I can see it okay I'm going to zoom in a lot closer now that's that's what that center part is now here's what's cool you can have a really really really really really really really really really really I have a don't I have a you have a y-axis I have a d-axis I have a s-axis I have a a-x-axis the mathematics is telling me it's kind of have you seen the movie the matrix yes so like when they're looking at the streaming data in the matrix and they said oh you know they could kind of tell what it's what what the 3d world is actually telling them by just looking at the stream of data it's a similar sense of when programmers look at their code and they can tell kind of what they should see from that code wow so to me when I start looking at this now I'm looking at what looks like um nodes that could be like a neural network yeah totally you see what I'm saying oh yeah I look a little closer now and it looks like if you look at simulated neural nodes of our own brain system you know as models for our our uh deep learning our ai of simulating a human brain we're starting to get something that looks on a very crude level that that type of that type of system so I'm going to go in a lot deeper now raz and here I'm looking at just a few of those inside bundles I'm going to look a little closer get a little more detail and I'm going to zoom into my lowest level I took the capture
+That's my that's my thing about about fractals so where does that where does that bring me then to um the art that I wanted to share and here's here's one example so this is this is I I took some screenshots just to kind of move through this rather quickly this is from uh a 3d fractal program called mandelbot mandel bulb 3d I know a number of Techspressionist artists use this program because I've seen their work but for me again I like using this as a metaphor to let to help people think about other than the abstract quality or the coolness of the shape is think of this as an eyeball this sphere is an eyeball and these are nerve bundles or muscles around the eye so if you think about the anatomical drawings that we've seen of eyes and what eyes look like um and and over here might be where the iris is or the front part of the eye and this is the back part where the retina is so as I as I look to look closer and get more detail of this what happens is I'm I'm now getting my camera in this 3d simulated uh cyber environment of the fractal world these bundles now that you see that are sort of arching away they're actually enveloping and going behind my camera and I'm seeing craters of them closer in to bundles inside of buttons so as I go as I go in another step closer now I'm seeing that there's a hollow a double spherical hollow core to this to this fractal and if you can see there's sort of like a center column here yeah and you see like these fibrous things coming off of this center core if I get closer and I'm going to zoom in a little bit more now you now you can see the center core better yes see kind of what I'm saying look at this very very center piece here it looks like there's some horizontal striations can you see that on screen yes I can I can see it okay I'm going to zoom in a lot closer now that's that's what that that center part is now here's what's cool all of this detail is in the mathematics of creating this fractal and well that exists natively as a text file and it's only when I go and say the mathematics is telling me it's kind of have you seen the movie the matrix yes so like when they're looking at the streaming data in the matrix and they said oh you know they could kind of tell what it's what what the 3d world is actually telling them by just looking at the stream of data it's a similar sense of when programmers look at their code and they can tell kind of what they should see from that code wow so to me when I start looking at this now I'm looking at what looks like um nodes that could be like a neural network yeah totally you see what I'm saying oh yeah I look a little closer now and it looks like if you look at simulated neural nodes of our own brain system you know as models for our our uh deep learning our ai of simulating a human brain we're starting to get something that looks on a very crude level that that type of that type of system so I'm going to go in a lot deeper now raz and here I'm looking at just a few of those inside bundles I'm going to look a little closer get a little more detail and I'm going to zoom into my lowest level I took the capture
 
 ## Roz Dimon [01:03:40](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3820s)
 

@@ -621,15 +621,15 @@ But
 
 ## Randi Matushevitz [48:00](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2880s)
 
-She has other drawings and things but every so often I send her a video and say what do you think of this one she's like now she's a test subject um
+She has other drawings and things, but every so often I send her a video and say, what do you think of this one? She's like, now she's a test subject.
 
-## Roz Dimon [48:08](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2888s)
+## Roz Dimon [48:09](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2889s)
 
-Well what um I wanted to ask you what interests you the most about your work and what do you think about your work and what do you think about your work and what do you think about your work and what do you think about your work let's tie it back to the group that actually is sponsoring these interviews yes expressionism um can you tell me what interests you about uh Techspressionism
+Well, what I wanted to ask you, what interests you? Let's tie it back to the group that actually is sponsoring these interviews. Yes. Expressionism. Can you tell me what interests you about Techspressionism?
 
-## Randi Matushevitz [48:23](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2903s)
+## Randi Matushevitz [48:24](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2904s)
 
-Well so much well one is you know when I heard the name and I heard what what call it you know the definition using technology for expression I and you know I'd never heard of it and I was like oh my god here are these little faces that I made move because that's how I always think of things not with my ego but with my joy of just look what I stumbled on yeah
+Much well one is you know when I heard the name and I heard what what call it you know the definition using technology for expression I and you know I'd never heard of it and I was like oh my god here are these little faces that I made move because that's how I always think of things not with my ego but with my joy of just look what I stumbled on yeah
 
 ## Roz Dimon [48:47](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2927s)
 

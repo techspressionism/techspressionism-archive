@@ -375,11 +375,13 @@ Three I don't mean to hurry us but I want you to be thinking about we definitely
 
 So how much more time do you think we have ross because I think I'll I think maybe 15 minutes let's unshare the screen because everybody's going to be able to see what we're doing next so I'm going to put this on the screen so I'm going to put this on the screen so I'm going to put this on the screen here we go um um um!!!!
 
-간단ity um um um um um um um um um um um um um um um um um um doing landscapes.
+Yeah okay so pull it forward a whole bunch of time and I'm still writing and I'm still doing text and image and I end up back on the island and now where is my muse and my muse becomes the ocean that I started with so I start a series called a diary of a tidal pool and I began to realize the story could be pulled apart just visually and abstractly.
+
+So I would visit this title pool every now and then and I would get these different impressions and then just come home and do a painting. I never did a sketch or I never did a photograph. And then I started doing landscapes.
 
 ## Roz Dimon [39:16](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2356s)
 
-Now, are these multi-layered or do you just do one layer or how do you work your process? Hundreds and hundreds of layers on Photoshop. It has a real, there's something interesting about this because it really speaks to the medium you're working with a lot. Yes.
+Now are these multi-layered or do you just do one one layer or how do you work your process? Hundreds and hundreds of layers on Photoshop. It has a real... Something interesting about this because it really speaks to the medium you're working with a lot. Yes.
 
 ## Karen LaFleur [39:34](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2374s)
 

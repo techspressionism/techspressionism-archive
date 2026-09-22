@@ -236,6 +236,7 @@ def spell_out_emails(text):
 
 def apply_style_rules(text):
     text = spell_out_emails(fix_techspressionism(text))
+    text = re.sub(r"(?:(?<=\s)|^)\.(?:\s+\.){2,}(?=\s|$)", "\u2026", text)          # a run of stray periods (Whisper in silence) becomes one ellipsis
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
     return text

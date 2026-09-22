@@ -33,9 +33,9 @@ And she also has a show right now in the Hudson Yards. Area of New York at a new
 
 ## Nina Sobell [02:12](https://www.youtube.com/watch?v=iQL826mqyFg&t=132s)
 
-I was born in Patchogue, Long Island. And I live in this city. I live in New York City, and I live upstate near Millbrook. Being Jewish, I was raised with the importance of contributing something to life. It was embedded in my existence that I should work towards bringing something to society. I should make use of every day, and I should make some kind of contribution.
+I was born in Patchogue, Long Island. And I live in this city. I live in New York City, and I live upstate near Millbrook. Being Jewish, I was raised with the importance of contributing something to life. It was embedded in my existence sense that I should work towards bringing something to society. I should make use of every day and I should make some kind of contribution.
 
-And I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. I'm a Christian. Making something new all of my life and um I still haven't stopped I hope not and uh yes uh that's a about
+And there was my mother. I remember copying being a cartoon. And she said to me, well, that's something I've seen before. She said to me, show me something that I haven't seen before. Show me something new. Something new. Something new. New. And that has prompted me to push towards making something new all of my life. And I still haven't stopped. I hope not. And yes, that's it.
 
 ## Renata Janiszewska [03:32](https://www.youtube.com/watch?v=iQL826mqyFg&t=212s)
 
@@ -247,11 +247,9 @@ First sweeping the earth. Then folding up to the sky and beyond into spatial tra
 
 These sculptures were formed from an intimate conversation with the clay. What inspired these was making 40 small sculptures for the museum. And then making 40 recipients of the Acker Award. And after I did that, I just kept on going. And that's what inspired me.
 
-## Unattributed [46:36](https://www.youtube.com/watch?v=iQL826mqyFg&t=2796s)
+## Unattributed [49:00](https://www.youtube.com/watch?v=iQL826mqyFg&t=2940s)
 
-The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The isolation is coming for us. The isolation is coming for us. The isolation is coming for us. The isolation is coming for us. The isolation is coming for us.
-
-The isolation is coming for us. The isolation is coming for us. The isolation is coming for us. The isolation is coming for us. The isolation is coming for us. The isolation is coming for us.
+Thank you.
 
 ## Nina Sobell [49:44](https://www.youtube.com/watch?v=iQL826mqyFg&t=2984s)
 

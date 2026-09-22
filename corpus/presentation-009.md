@@ -19,7 +19,6 @@ transcript_source: whisper-large-v3
 languages: ["en"]
 flags:
   - speaker_index_missing
-  - transcript_quality_low
 ---
 
 ## Helen A. Harrison [00:09](https://www.youtube.com/watch?v=8aQDDA-u0io&t=9s)
@@ -40,13 +39,11 @@ Colin Let's focus now on the national landmark here in East Hampton, New York, t
 
 And it's, I would say it's a simple technology, right? Now we usually take the paintbrush for granted. The paintbrush is a technology that was invented. And some people say it was invented 300 BC in China. And then it was brought over to Italy. Well Pollock rejected the paintbrush. So that's really what happened. Now you've got to remember that Pollock was very radical. Pollock is known for drip painting. So Pollock is not actually touching the painting physically. He's dripping paint above the artwork, placing it on the floor so that gravity pulls the paint down. He's an action painter. He's moving all around the canvas as he works and his movement is captured by the flow, the literal flow of the paint.
 
-And you can see the many more things in the middle. And I just want to say, I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far. I can't go that far.
+It's really felt, as Helen said, it's coming directly from his inner world and being expressed onto the canvas. He's not working from a sketch or a preconceived idea. So it's deeply personal and deeply intuitive and felt. That's not to say the technique is simple, but that's not to say that the paintings are simple. The paintings and the compositions are actually complex.
 
-I can't go that far. I can't go that far. The paintings are simple. The paintings and the compositions are actually complex. So here he is, as I said, you could see he's an action painter. He's even stepping into the painting. And he said, I want to feel like I'm in the painting. So there he goes. He actually is in it. And it's a very athletic movement, almost like a dance.
+So here he is, as I said, you could see he's an action painter. Into the painting. And he said, I want to feel like I'm in the painting. So there he goes. He actually is in it. And it's a very athletic movement, almost like a dance. And here's an example of his iconic drip painting. And you can see it's very these the one the paintings that most people you know, remember him by are very large, and 100% abstract.
 
-And here's an example of his iconic drip painting. And you can see it's very these the one the paintings that most people you know, remember him by are very large, and 100% abstract. He's not copying anything outside of himself, although it might remind you of different aspects of nature or emotions. This one is called autumn rhythm. But Pollock did not start out with the title autumn rhythm and then painted.
-
-He would title his paintings after they were done, or sometimes people would even give him suggestions. What I love about this painting is the viewer is looking at the painting. And she becomes part of the artwork in modern art. The viewer completes the painting, because the interpretation is completely subjective. It's all about your perception.
+He's not copying anything outside of himself, although it might remind you of different aspects of nature or emotions. This one is called autumn rhythm. But Pollock did not start out with the title autumn rhythm and then painted. He would title his paintings after they were done, or sometimes people would even give him suggestions. What I love about this painting is the viewer is looking at the painting. And she becomes part of the artwork in modern art. The viewer completes the painting, because the interpretation is completely subjective. It's all about your perception.
 
 So there's Lee Krasner, Jackson Pollock's wife. She was responsible for managing his career and she did a great job at that. And that helped him become famous in his own lifetime. And she put her own career on the back burner to promote his career. But she always continued painting. And she painted in the Barnes studio where I'm going to take you in a moment. She's also an action painter and her technology is also very direct. She sometimes got up on a ladder, but she didn't really prefer that. She wanted to use her whole body like a dance. And there was a level of spontaneity.
 
@@ -62,31 +59,35 @@ Pollock. Pollock. So the work in the house. Time. Jackson Pollock died at the ag
 
 So here is her painting cart, her slippers. And here is the now famous Barnes studio. So you can see Jackson Pollock's drip painted floor, evidence of his masterpieces. And this floor is not a work of art because Pollock was very intentional about his paintings and his technique. These are just accidental random spills and splatters. But it's a lot of fun to come in here and just look at the floor. It's just fun.
 
-And also it really gives you an idea of the process rather than the end product, you know, hanging in a museum where it's so pristine. You get a feeling of trial and error when you come in here. And of course, also, you can see the painting. So this is a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very And when he would use the brush, he would use it more like a stick, letting the brush, the paint flow off the brush.
+And also it really gives you an idea idea of the process rather than the end product you know hanging in a museum where it's so pristine you get a feeling of trial and error when you come in here and of course also the nature that surrounded them and although they didn't copy nature it did give them inspiration and we have historic photos on the wall like this one taken by hans namath and And I'm going to show you a video by the same photographer, filmmaker of Pollock actually painting and speaking about his technique. So very unusual. He's not using art paint. He's using house paint.
 
-He also used basters that you cook with and he would squirt the paint from the basters. So new technology. And he would use the stirrer as a tool to drip the paint as well. Now, this is not to say that Pollock never in his career used a brush. That's not true. He started off painting representational things. You can see working at the Art Students League with Tom Benton painting traditional subjects. And gradually he moved into the realm of imagination and abstract art gesture and then gradually eliminated the paintbrush. But he did return to it in some of his artworks after he did the pure drip painting. OK, so I would like to show you a video. OK. So I'm going to show you a video of Pollock so you can get an idea of his technique and let's hear from him what he has to say about his technology.
+And when he would use the brush, he would use it more like a stick, letting the brush, the paint flow off the brush. He also used basters that you cook with and he would squirt the paint. From the basters. So new technology. And he would use the stirrer as a tool to drip the paint as well. Now, this is not to say that Pollock never in his career used a brush. That's not true. He started off painting representational things. You can see working at the Art Students League with Tom Benton painting traditional subjects. And gradually he moved into the realm of imagination and abstract art gesture and then gradually eliminated the paintbrush. But he did return to it in some of his artworks after he did the pure drip painting. OK, so I would like to show you a video. OK. So I'm going to show you a video of Pollock so you can get an idea of his technique and let's hear from him what he has to say about his technology.
 
 So I'm going to do a little screen share. Bear with me. And here we go.
 
 ## Unattributed [15:34](https://www.youtube.com/watch?v=8aQDDA-u0io&t=934s)
 
-OK. So this is a video of Pollock painting traditional subjects. And here we go. OK. So here we go. So here we go. This is a video of Pollock painting traditional subjects. This is a video of Pollock painting traditional subjects. And here we go. Here we go. OK. So here we go. OK. So here we go. OK. OK. So here we go. OK. So here we go. OK. OK. OK. OK.
+OK. So this is a video of Pollock painting traditional subjects. And here we go. OK. So here we go. So here we go. This is a video of Pollock painting traditional subjects. This is a video of Pollock painting traditional subjects. And here we go. Here we go. OK. So here we go. OK. Work from all four sides and be in the painting, similar to the Indian sand painters of the West.
 
-OK. OK. OK. OK. OK. OK. OK. OK.
+Sometimes I use a brush, but often prefer using a stick. Sometimes I pour the paint straight out of the can. I like to use a dripping, fluid paint. I also use sand, broken glass, pebbles, string, nails, or other foreign matter. A method of painting is a natural growth out of a need. I want to express my feelings rather than illustrate them.
+
+Painting is just a means of arriving at a statement.
 
 ## Verneda Lights [17:25](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1045s)
 
-OK.
+We are going to...
 
 ## Unattributed [17:26](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1046s)
 
-OK. OK. OK. OK. OK.
+When I am painting, I have a general notion as to what I am about.
 
-## Joyce Raimondo [17:30](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1050s)
+## Joyce Raimondo [17:32](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1052s)
 
-OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. But this is one of my favorites. Hang on a minute. So Pollock said, I want to express my feelings rather than illustrate them. What does that mean? In your opinion, what feeling could this show? Or anything else that you see?
+We're going to stop there because I want to make time for everything. You can find that video on YouTube. It's by Hans Namath. And there's another video of Pollock painting in the barn as well, which has no sound, which is more authentic than the one that you just saw because that video was a little more staged.
 
-How about Colin? We'll take Colin. What do you see in this one, Colin? You want to unmute?
+Not paint outdoors. He painted in the barn. Okay. So let's see. Here is one of Pollock's finished paintings, which there are many, but this is one of my favorites. Hang on a minute. So Pollock said, I want to express my feelings rather than illustrate them. What What does that mean? In your opinion, what feeling could this show?
+
+Or anything else that you see? How about Colin? We'll take Colin. What do you see in this one, Colin? You want to unmute?
 
 ## Colin Goldberg [18:41](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1121s)
 
@@ -94,11 +95,11 @@ Yeah, can you hear me?
 
 ## Joyce Raimondo [18:43](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1123s)
 
-Yes. And there's no right or wrong answer. I don't mean to put you on the spot, but there's no right or wrong answers. Everybody sees it completely differently.
+Yes, and there's no right or wrong answer. I don't mean to put you on the spot, but there's no right or wrong answers. Everybody sees it completely differently.
 
 ## Colin Goldberg [18:54](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1134s)
 
-Yeah, I mean, that piece, I don't know. I don't know. I don't know. I don't know. It seems a little more light and lively than a lot of his other work. I haven't actually seen that one. But the choice of colors, you know, makes me think of springtime, you know, a little bit of sort of, you know, an optimistic feeling, I think.
+Yeah, I mean that piece, it seems a little more light and lively than a lot of his other work. I haven't actually seen that one. But the choice of colors, you know, makes me think of you know, a little bit of sort of, you know, an optimistic feeling, I think.
 
 ## Joyce Raimondo [19:16](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1156s)
 
@@ -110,19 +111,11 @@ I see a decomposing forest floor.
 
 ## Joyce Raimondo [19:33](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1173s)
 
-Yeah. I see ice skaters, but the ice skaters aren't there. I see the movement that they made on the ice. So that's what I meant when I said the viewer completes the painting. It's truly subjective, which is what these modern artists were aiming for. Okay. So I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I want to go back into the studio and show tell you a little more about Lee Krasner and also the mystery of why is this floor Pollock's if Lee Krasner was painting in here till 1984? Why isn't it her floor? Okay. So here's a picture of Lee in the studio. As I said, after one year after Pollock's death, she moved into here and she painted her initial grief and bereavement.
+Yeah. I see ice skaters, but the ice skaters aren't there. I see the movement that they made on the ice. So that's what I meant when I said the viewer completes the painting. It's truly subjective, which is what these modern artists were aiming for. Okay. So, I want to go back into the studio and show tell you a little more about Lee Krasna and also the mystery of why is this Flora Pollock's. If Lee Krasna painting in here till 1984? Why isn't it her floor? Okay. So here's a picture of Lee in the studio. As I said, after one year after Pollock's death, she moved into here and she painted her initial grief and bereavement. And then you start to see her paintings become more colorful, bright colors, sometimes inspired by nature, floral, it suggests floral patterns in a very abstract way. So you can see all the artworks behind her there.
 
-And then you start to see her paintings become more colorful, bright colors, sometimes inspired by nature, floral, it suggests floral patterns in a very abstract way. So you can see all the artworks behind her there. Those were painted on the wall here. You see, see her drips and splatters. In fact, the one that I showed you in the photo she painted right here. And then you start to see her paintings become more colorful, bright colors, like her her death that this would become a museum and a study center run under the auspices of Stony Brook University. Okay, so what does this have to do with technology? I want to show you I don't actually need the mask anymore. I want to show you a really, really quick PowerPoint presentation to show you how artists following the Abstract Expressionists integrate technology with painting.
+Those were painted on the wall here. You see, see her drips and splatters. In fact, the one that I showed you in the photo she painted right here. And then you start to see her paintings become more colorful, bright colors, like her her death that this would become a museum and a study center run under the auspices of Stony Brook University. Okay, so what does this have to do with technology? I want to show you I don't actually need the mask anymore. I want to show you a really, really quick PowerPoint presentation to show you how artists following the Abstract Expressionists integrate technology with painting. So when we're using the term technology for this talk today, we're not really including including video art and movies and things of that nature. We're really talking more about a narrower subject about how does painting meet with technology, okay?
 
-So when we're using the term technology for this talk today, we're not really including video art and movies and and things of that nature. We're really talking more about a narrower subject about how does painting meet with technology. Okay.
-
-## Unattributed [22:19](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1339s)
-
-Okay. Okay. Okay. Okay. Okay. Okay. Okay.
-
-## Joyce Raimondo [22:27](https://www.youtube.com/watch?v=8aQDDA-u0io&t=1347s)
-
-Okay. Okay. Okay. So a lot of you have been around the world, you're all really into the sort of of the start. And I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, these abstract images that were actually derived from images of chairs and in particular rocking chairs. So you would look at this painting and I would look at it and think this is just complete spontaneity, right? This is just coming right out of the artist. But it actually combined technology with the artist's mark.
+And this is a broad topic. So these are just examples to open up our creative thinking. So, of course, many artists use projectors and this is a good, it's just an interesting story that most people don't know about. Willem de Kooning had this projector and he lent it to the painter Franz Klein. And Klein actually used this projector to create these abstract images that were actually derived from images of chairs and in particular rocking chairs. So you would look at this painting and would look at it and think this is just complete spontaneity, right? This is just coming right out of the artist. But it actually combined technology with the artist's mark.
 
 And there's an example of the finished painting. This is the artist Robert Rauschenberg who's working in the 1950s in New York City. And you can see in this photo he's starting to integrate into the paintings very unusual materials, found objects. He created combines where he would make sculptures using all sorts of things he found on the street. And he would also silk screen or transfer images onto the painting. This is later in his life he moved to Florida.
 
@@ -130,13 +123,13 @@ So here's an example where you could see similar to the abstract expressionist. 
 
 Now we have Andy Warhol, who is really, in my opinion, the polar opposite of a Jackson Pollock. Because, he really is not speaking about his emotions or even the artist's mark. He's silk screening at times images onto the painting or eventually creating silk screens that is the art, the print itself. And he had the factory in New York City where many artists would collaborate with him. Okay. Not only did he make paintings and prints, but he also is known for films and performance art, all sorts of things. And he was also known for his work in the art world. And he was also known for his work in the art world. And he was also known for his work in the art world. And he But what's interesting about Warhol, if you picture Pollock, he's alone in the barn. It's highly individualistic.
 
-There's no one intervening. He is one with the painting. Andy Warhol is breaking with that idea of the abstract expressionist. It's not about individual expression anymore. It's about collaboration and popular culture. So this is at the Museum of Art. And it's a very, very important thing. And I'm not one to get all the way to the Yeah, I just know the what I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot. I like a lot.
+There's no one intervening. He is one with the painting. Andy Warhol is breaking with that idea of the abstract expressionist. It's not about individual expression anymore. It's about collaboration and popular culture. So this is at the Museum of Art. And it's a very, very series with different colors in the background so you could make multiples this way eventually he doesn't even paint into it it becomes pure print making and he's calling attention to the print making here right you can see the variations of the print and we all know I think this these iconic images of Marilyn Monroe created by Warhol and of course he did many celebrities and things things that were very popular at the time, like the famous Campbell soup can. So.
 
-I like a lot. I like a lot. Images of Marilyn Monroe created by Warhol. And of course, he did many celebrities and things that were very popular at the time, like the famous Campbell soup can. So, Warhol is actually questioning this idea of the artist's mark. And he has no problem saying art is business and business is art. And make multiples, I don't even, he could design it, but he doesn't have to actually be in the studio creating the image. Okay. These are great examples by David Hockney, the famous painter. Years ago at the Met, it was pretty radical to see iPad drawings alongside his paintings in his retrospective. But look at how much leverage, or you could say, or how much mark making he got out of the iPad. It looks like a lot of work. And you can see the famous painting, I just like the way that it also looks is it?
+Is actually questioning this idea of the artist's mark. And he has no problem saying art is business and business is art. And make multiples, I don't even, he could design it, but he doesn't have to actually be in the studio creating the image. Okay. These are great examples by David Hockney, the famous painter. Years ago at the Met, it was pretty radical to see iPad drawings alongside his paintings in his retrospective. But look at how much leverage, or you could say, or how much mark making he got out of the iPad. It looks like a lot of work. And you can see the famous painting, I just like the way that it also looks is it? He's actually using a brush or a pencil, you can see the artist's mark, even though it's an iPad.
 
-He's actually using a brush or a pencil, you can see the artist's mark, even though it's an iPad. So, to bring it up to date, this is Eunice golden living and working in East Hampton, and I love you. And I really do, I know the show. I just so like the way that you do the work, I just I just nab it. Is reinventing herself. So technology is not just for young people or the new generation. So Eunice, working from her painting, digitized it and then created these new artworks that completely stand on their own, changing the colors, changing the composition, and so on. Okay? So those are just little tidbits of, well not tidbits, Andy Warhol and these artists, but the subject is so broad. So those are just some key ideas. Now we do have with us today Colin Goldberg and it is an honor. He's going to tour us through a studio on the North Fork of Long Island.
+So, to bring it up to date, this is Eunice golden living and working in East Hampton, and I love you. And I really do, I know the show. I just so like the way that you do the work, I just I just nab it. Is reinventing herself. So technology is not just for young people or the new generation. So Eunice, working from her painting, digitized it and then created these new artworks that completely stand on their own, changing the colors, changing the composition, and so on. Okay? So those are just little tidbits of, well not tidbits, Andy Warhol and these artists, but the subject is so broad. So those are just some key ideas. Now we do have with us today Colin Goldberg and it is an honor. He's going to tour us through a studio on the North Fork of Long Island. And Colin coined the term Techspressionism in 2011 and he'll tell us more about that.
 
-And Colin coined the term Techspressionism in 2011 and he'll tell us more about that. And he's going to share his website with us and his images. And Paul, excuse me, Colin also was the recipient of the Pollock-Krasner House and Study Center grant. I mean foundation grant. And he has a very personal relationship with the Pollock-Krasner House. So he's the perfect fit for this talk. So Colin, would you like to take it away? Let me, what just happened?
+And he's going to share his website with us and his images. And Paul, excuse me, Colin also was the recipient of the Pollock-Krasner House and Study Center grant. I mean foundation grant. And he has a very personal relationship with the Pollock-Krasner House. So he's the perfect fit for this talk. So Colin, would you like to take it away? Let me, what just happened?
 
 Okay. Done with that. Yeah, so Colin, whenever you're ready, I'll spotlight you.
 
@@ -198,19 +191,19 @@ Sure thing.
 
 ## Joyce Raimondo [45:17](https://www.youtube.com/watch?v=8aQDDA-u0io&t=2717s)
 
-So whenever you're ready to go through the studio I will spotlight you on the studio to. To.
+So whenever you're ready to go through the studio I will spotlight you on the studio to
 
-## Unattributed [45:26](https://www.youtube.com/watch?v=8aQDDA-u0io&t=2726s)
+## Unattributed [45:49](https://www.youtube.com/watch?v=8aQDDA-u0io&t=2749s)
 
-To. To. To. To. To. To. To. To. To. To.
+Thank you.
 
 ## Joyce Raimondo [45:57](https://www.youtube.com/watch?v=8aQDDA-u0io&t=2757s)
 
-I'm calling we can't hear you at this point. Hang on, hang on. You're waiting. Wait, Colin. Let me spotlight you again, please. Okay, sure.
+I'm calling we can't hear you at this point. Hang on. Hang on. You're we wait, Colin. Let me spotlight you again, please. Okay, sure.
 
 ## Colin Goldberg [46:09](https://www.youtube.com/watch?v=8aQDDA-u0io&t=2769s)
 
-So, um, this is my workstation here. And this is a piece on the wall called bow tie. I believe it's from 2014. And it was created shortly after my wife and I have found out that she was pregnant with our daughter Aya. So this means bow tie means, I believe womb in Japanese and sort of the feeling was that here's these two sides, and then in the middle is this sort of abstract idea of, I guess blood. You know, I never really thought of the literal interpretation but sort of like what connects us.
+Sure So, um, this is my workstation here. And this is a piece on the wall called bow tie. I believe it's from 2014. And it was created shortly after my wife and I have found out that she was pregnant with our daughter Aya. So this means bow tie means, I believe womb in Japanese and sort of the feeling was that here's these two sides, and then in the middle is this sort of abstract idea of, I guess blood. You know, I never really thought of the literal interpretation but sort of like what connects us.
 
 And then I just pulled this up on the screen. It's our YouTube channel so for expressionism, there's a bunch of artists interviews and we also conduct bi weekly salons, where about 30 or so artists from all around the world. Meet up to talk about ideas in the tradition of the artists alone. So, um, I think it's a really good way to kind of connect with the world.
 
@@ -282,9 +275,9 @@ So, okay. So let's see. We have really good questions here. Well, this is techni
 
 I do. Yeah. So I have the luxury of, you know, owning my own hardware. But I did actually start with a much smaller printer. Like, you know, it was an Epson 1280. And so that was really cool to see how much work was involved in this I believe, which was a super B format. That's 13 by 19 sheets as a maximum size. And I really started by.
 
-You know, I was, I just finished my MFA in computer art over at Bowling Green and actually Patrick Lichty who's a co-founder of the tech expression group was another MFA computer arts student in that program with me. And I was a co-founder and I was a co-host. And I was a co-sponsor and I was a co-civilian. And I was a co-staging and a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager. And I was a co-stager.
+You know, I was, I just finished my MFA in computer art over at Bowling Green and actually Patrick Lichty who's a co-founder of the tech expression group was another another MFA computer arts student in that program with me. That's how he and I met. And so prior to going to grad school, right around 2005 is when I started running paintings through my printer. And it was a smaller printer. But what I did was I actually removed a bunch of the parts because I noticed they were little roller wheels that were leaving tracks on the pieces. So I popped them out. And the printer seemed to work okay without them and that's how that painting that's in the Pollock house collection was made was on this sort of Frankenstein modified printer but most printers now actually are pigment So I often tell people and artists who are interested in exploring digital mixed media that almost all printers at this point are technically archival.
 
-And I was a co-stager. That's in the Pollock House collection was made was on this sort of Frankenstein modified printer. But most printers now actually are pigment based. So I often tell people and artists who are interested in exploring digital mixed media that almost all printers at this point are technically archival. That is dye based printers have been phased out. And there's actually a primer called ink aid. That's an extremely useful addition to the studio that allows you to print on almost any sort of material, including brown paper bag, for instance, or you can prime aluminum foil with it and run it through your printer and it'll print onto it.
+That is dye based printers have been phased out. And there's actually a primer called ink aid. That's an extremely useful addition to the studio that allows you to print on almost any sort of material, including brown paper bag, for instance, or you can prime aluminum foil with it and run it through your printer and it'll print onto it.
 
 ## Joyce Raimondo [57:40](https://www.youtube.com/watch?v=8aQDDA-u0io&t=3460s)
 
@@ -510,17 +503,15 @@ So, Colin, can you call on someone else?
 
 Sure. There's one more person that I see. I just wanted to say one thing really quick, too, in relation to Tommy's work. Like, you know, I think that the sort of basis of Techspressionism from a definition standpoint is like this idea of expression of emotional content. And I think a lot of the people see the work in some way or even the artists themselves see it as process driven or, you know, sort of process oriented. But I think it's really hard to know. I think even from a first person standpoint, what the work is about, like, as far as like an emotional litmus test of where the artist is at when it's created. So it's hard to say, like, by looking at an image, if there's emotional intent there or what that is, you know, so it's, it's tough for me sometimes as a curator, when I'm picking work for the feed for instance to know, like, is this work that's just about an optical effect, or is it about an emotional state and really like all work.
 
-Is about an emotional state. So I just wanted to put that out there, you know, because who is it, you know, who is, who is a curator or someone external from the artists to really say what the intentionality is to me that's, you know, that's up to interpretation, you know, so again like you know I look at Tommy's work and there's a very specific technical programmatic explanation.
+Is about an emotional state. So I just wanted to put that out there, you know, because who is it, you know, who is, who is a curator or someone external from the artists to really say what the intentionality is to me that's, you know, that's up to interpretation, you know, so again like you know I look at Tommy's work and there's a very very specific technical programmatic explanation and probably almost nobody in this room knows even what Python is. I certainly don't code in it but I know enough to know it's a coding language. But you know I think that what the work is about it might have been what where your head was at that day or what you were thinking about or what made you take that image of that particular street street corner or something like that. So anyway, that's my little kind of two cents.
 
-And probably almost nobody in this room knows. So, you know, I think that's, I think that's a really important thing. I'm not a bit of a kind of a man. I know a lot of that. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work. I know a lot of the work.
+## Tommy Mintz [01:22:45](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4965s)
 
-## Tommy Mintz [01:22:46](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4966s)
-
-I know a lot of the work. Algorithm and its interpretation in mind. So I go out with the digital in my mind as I'm as I'm at their footer.
+Can I just pick up on that, Colin? Because that's exactly what happens, I think, now as I go out taking pictures with the algorithm and its interpretation in mind. So, you know, I go out with the digital in my mind as I'm at their footer.
 
 ## Colin Goldberg [01:23:03](https://www.youtube.com/watch?v=8aQDDA-u0io&t=4983s)
 
-Gotcha. And I'm sure there is a personal meaning to those specific locations or something that's going on with you in relation to that spot. So people might see it and say, well, that's like some cool like Photoshop style effect. But that's not necessarily what the work is about. And I just wanted to put that out there because that's a common way that I think people look at digital work on a very surface level, you know, and that's really what I'm trying to open people's minds up to is that, you know, that's a very service way of looking at any kind of art. It's like saying, well, you know, Jackson Pollock, he just dripped stuff on a canvas and let's leave it at that, you know.
+Gotcha. And I'm sure there is a personal... To those specific locations or something that's going on with you in relation to that spot. So people might see it and say, well, that's like some cool like Photoshop style effect. But that's not necessarily what the work is about. And I just wanted to put that out there because that's a common way that I think people look at digital work on a very surface level, you know, and that's really what I'm trying to open people's minds up to is that, you know, that's a very service way of looking at any kind of art. It's like saying, well, you know, Jackson Pollock, he just dripped stuff on a canvas and let's leave it at that, you know.
 
 ## Joyce Raimondo [01:23:44](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5024s)
 
@@ -608,30 +599,12 @@ And then we're going to be posting on expressionism dot com using Kunstmatrix, w
 
 ## Joyce Raimondo [01:29:56](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5396s)
 
-Well, thank you so much, everybody, for participating. Sorry we couldn't get to everybody. And thank you again to Colin. This was so breathtaking. Visually, as well as intellectually for me. I mean, it just sparked my creative. It opened up my mind. I can't think of a place to be. I can't think of a place to be.
+Well, thank you so much, everybody, for participating. Sorry we couldn't get to everybody. And thank you again to Colin. This was was so breathtaking visually as well as intellectually for me I mean it just sparked my creative it opened up my mind so stay safe everybody stay happy and um nice to meet our new zoom friends so
 
-I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. I can't think of a place to be.
+## Unattributed [01:30:21](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5421s)
 
-## Unattributed [01:30:23](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5423s)
+Good night everybody depending on where you are thank
 
-I can't think of a place to
+## Unattributed [01:38:54](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5934s)
 
-## Joyce Raimondo [01:30:24](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5424s)
-
-Be. I can't think of a place to be.
-
-## Verneda Lights [01:30:24](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5424s)
-
-I can't think of a place to be.
-
-## Unattributed [01:30:25](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5425s)
-
-I can't think of a place to be. I can't think of a place to be. I can't think of a place to be. You you you you you you
-
-## Unattributed [01:33:43](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5623s)
-
-You you you you you you
-
-## Unattributed [01:36:43](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5803s)
-
-You you you you you
+Thank you.

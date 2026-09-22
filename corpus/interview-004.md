@@ -257,9 +257,9 @@ Yeah. Three. So, this is a performance by Garth, Zach, and Juan. I mean, they bl
 
 So, this is John as Kjell.
 
-## Joseph Nechvatal [12:37](https://www.youtube.com/watch?v=Hjej663DEjw&t=757s)
+## Joseph Nechvatal [12:36](https://www.youtube.com/watch?v=Hjej663DEjw&t=756s)
 
-He's going to show us what we're doing. But this is also about him and also about Kjell. It's about Kjell. We're going to talk about time. We're going to talk about time. We're going to talk about time. We're going to talk about time. We're going to talk about time. We're going to talk about time. We're going to talk about time. Mm-hmm.
+Connection symbol to what is written and what is inked over. The data comes from a German Gram from LP entitled Ger, Sacker, Orden. And over here is now John Cage's Variations.
 
 ## Unattributed [13:22](https://www.youtube.com/watch?v=Hjej663DEjw&t=802s)
 

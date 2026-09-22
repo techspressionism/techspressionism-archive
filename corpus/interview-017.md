@@ -137,11 +137,11 @@ Yeah.
 
 ## Tommy Mintz [16:12](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=972s)
 
-There's a warning sign. There's clouds that are billowing from actually a, this is a steam pipe. It's the defecation pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. It's the air purification pipe. Ladies are half cut out with the bus cut through them I know it's something that I think is I'm still seeing
+There's a warning sign. There's clouds clouds that are billowing from actually a chimney. This is a steam escape pipe. When a steam pipe under city streets bursts, because there's steam that's piped under some streets, they put these pipes up to position the steam to go above pedestrian heights so you don't get burned by it. So this is sort of steam to the left and right of this pipe emitting and the steam is getting layered in in ways that, you know, is something I would never do, you know, the way that these ladies are half cut out with the bus cut through them.
 
-## Michael Pierre Price [16:59](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1019s)
+## Michael Pierre Price [16:55](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1015s)
 
-The screen is kind of linking but I'm still seeing the one of the car and the gentleman let
+I know it's something that I think is I'm sorry, I mean, I'm still seeing the screen is kind of blinking. Thank you. Still seeing the one of the car and the gentleman let
 
 ## Tommy Mintz [17:08](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1028s)
 
@@ -161,15 +161,23 @@ For a moment about the steam and the ladies I didn't see that it didn't
 
 ## Tommy Mintz [17:20](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1040s)
 
-Move around okay I was just zooming into different locations let me see if this better hold on one second so sorry so I was taking pictures of gosh is that like a Chevy I don't know I'm not a car person I just thought it was like beautiful old car and the guy whose car it was came out actually drove away right chatted with me took my card we chatted about what I was doing there he is little bits of him and and actually there's so much detail in this you really get more than just little bits of him when I blow it up large you can start to recognize ears and eyes and little details and then when you're you know sort of looking at these small details and that's what I'm being very flying so that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very non-parallel
+Move around okay I was just zooming into different locations let me see if this better hold on one second so sorry so I was taking pictures of gosh is that like a Chevy I don't know I'm not a car person I just thought it was like beautiful old car and the guy whose car it was came out actually drove away right chatted with me took my card we chatted about what I was doing there he is little bits of him and and actually there's so much detail in this you really get more than just little bits of him when I blow it up large you can start to recognize ears and eyes and little details and then when you're you know sort of looking at these small details and that's what I'm being very flying
 
-## Michael Pierre Price [18:33](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1113s)
+## Michael Pierre Price [18:21](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1101s)
 
-And that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being very interested in that's what I'm being Do you remember?
+Places.
 
-## Tommy Mintz [18:51](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1131s)
+## Tommy Mintz [18:22](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1102s)
 
-Yeah, so this one was about 36 pictures. That's kind of what I shoot. One roll of film, if you will. And I might take five, 10 minutes to do that. I like to let light shift a little bit, hang out in the place long enough. In this one, actually, the sun wasn't out. This is a cloudy day. But there's an effect that the algorithm has when light is striking from a different angle. It's now a different value in that pixel. And there's something that occurs that is particular to the way the algorithm interprets pictures, which I enjoy. So I'm trying to take pictures to feed it intentionally things that will be even more interesting. So I'm spending more time in a location. Waiting for time to pass, in fact, so that the sun will move a little bit further in the sky and the angle of shadows. Let me pull up one that's shot on a sunny day here instead of a cloudy day while we're talking about that.
+And I enjoy that a lot. So there happened to be birds flying past and the way they got rendered, you know, sort of over one another and that's really cool. So is that how many
+
+## Michael Pierre Price [18:38](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1118s)
+
+How many images were captured and over? Maybe what how how long of a timeframe in order to create this particular collage do you remember yeah
+
+## Tommy Mintz [18:52](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=1132s)
+
+So this one was about 36 pictures that's kind of what I shoot one you know roll of film if you will um And I might take five, 10 minutes to do that. I like to let light shift a little bit, hang out in the place long enough. In this one, actually, the sun wasn't out. This is a cloudy day. But there's an effect that the algorithm has when light is striking from a different angle. It's now a different value in that pixel. And there's something that occurs that is particular to the way the algorithm interprets pictures, which I enjoy. So I'm trying to take pictures to feed it intentionally things that will be even more interesting. So I'm spending more time in a location. Waiting for time to pass, in fact, so that the sun will move a little bit further in the sky and the angle of shadows. Let me pull up one that's shot on a sunny day here instead of a cloudy day while we're talking about that.
 
 So the angle of shadows will... I'm sorry, go ahead.
 

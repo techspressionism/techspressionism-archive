@@ -44,13 +44,15 @@ There seems to always be so much duress in the world. To cope, heal, and respond
 
 We are grateful and proud that you are here to join us today. And that was written by Brandon, who is one of the participants in this project. All right. Let's get a move on. Now, fair warning. The control scheme for this exhibition is limited. We're going to be working with the 간단ities of the digital space.
 
+Now I want, let's see, can I get Michael and Darcy to speak a little bit about, you know, their collaboration?
+
 ## Unattributed [06:55](https://www.youtube.com/watch?v=cYU7eKBcCto&t=415s)
 
-We're going to be working with the scale and form. Of the hands of the hands and the hands of the hands. The space is what we're kind of getting at. The space is what we're getting at. The space is what we're getting at.
+You want to go first, Darcy? Well, okay.
 
-## Michael Pointer [06:59](https://www.youtube.com/watch?v=cYU7eKBcCto&t=419s)
+## Michael Pointer [07:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=422s)
 
-The space is what we're getting at. The space is what we're getting at. The space is what we're getting at. The space is what we're getting at. The space is what we're getting at. Start this collaboration with. I wanted to bring the exterior to her interior and illustrate the emotional content of a home and how it expresses itself to the world and to the people who love it within the context of Darcy's wonderful colors and compositions of her interiors.
+I don't hear Darcy. You know, Darcy's work is so much about the interior, at least the work that we use to start this collaboration. And I wanted to bring the exterior to her interior. The emotional content of a home and how it expresses itself to the world and to the people who love it within the context of Darcy's wonderful colors and compositions of her interiors.
 
 ## Unattributed [07:54](https://www.youtube.com/watch?v=cYU7eKBcCto&t=474s)
 
@@ -670,39 +672,19 @@ All right. Now, did anyone have any questions for Caro or Michael about these tw
 
 ## Verneda Lights [01:02:12](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3732s)
 
-The colored piece looks a lot like images sent from, say, the photographing of the moon Titan, you know, the outer space photos and how you're looking at oftentimes you, they superimpose this NASA schematics from their monitoring devices. They sometimes superimpose that upon the images, the photographs being taken of a moon surface or planetary surface or something like that. And it looks like a combination of the monitoring schematics and that superimposed upon something going on, on another planet or on another moon beside our own. And yet the face actually brings to mind the man in the mirror. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+The colored piece looks a lot like images sent from, say, the photographing of the moon Titan, you know, the outer space photos and how you're looking at oftentimes you, they superimpose this NASA schematics from their monitoring devices. They sometimes superimpose that upon the images, the photographs being taken of a moon surface or planetary surface or something like that. And it looks like a combination of the monitoring schematics and that superimposed upon something going going on on another planet or on another moon beside our own and the face actually brings to mind the man in the moon uh
 
-## Unattributed [01:03:22](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3802s)
+## Unattributed [01:03:20](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3800s)
 
-Yeah. Yeah.
+I can definitely see that yeah yeah yeah
 
-## Davonte Bradley [01:03:24](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3804s)
+## Davonte Bradley [01:03:23](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3803s)
 
-Yeah.
-
-## Verneda Lights [01:03:27](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3807s)
-
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
-
-## Davonte Bradley [01:03:27](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3807s)
-
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
-
-## Verneda Lights [01:03:31](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3811s)
-
-Yeah.
-
-## Unattributed [01:03:33](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3813s)
-
-Yeah.
-
-## Davonte Bradley [01:03:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3814s)
-
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+For the woman in the moon the woman in the moon yeah the person in the moon person yeah uh to me the whatever whatever the gender may be of this person they almost look pained or is that just me it
 
 ## Verneda Lights [01:03:43](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3823s)
 
-Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah sort of a winky wink type of way it definitely draws the eyes in that's for sure yeah yeah it reminds me of the um early illustrations for books like Gulliver's Travels you know um yeah it's
+Looks mocking to me and somewhat clownish okay sort of a winky wink type of way it definitely draws the eyes in that's for sure yeah yeah it reminds me of the um illustrations for books like Gulliver's Travels you know um yeah it's
 
 ## Davonte Bradley [01:04:10](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3850s)
 

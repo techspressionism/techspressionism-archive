@@ -317,16 +317,20 @@ Okay. And anyone out there's there's someone sitting behind you just. Do you hav
 
 ## Roz Dimon [49:29](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2969s)
 
-Thank you, everyone. Thanks. Have a beautiful day wherever you are in the world. Yes.
+Thank you everyone. Thanks. Have a beautiful day wherever you are in the world.
 
 ## Unattributed [49:34](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2974s)
 
-Thank you.
+Yes, thank you.
 
-## Roz Dimon [49:34](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2974s)
+## Roz Dimon [49:35](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2975s)
 
-Hope alive and keep creating. Signing off. Bye bye. Bye. Bye. Bye. Bye. Bye. Bye.
+Keep hope alive and keep creating.
 
-## Unattributed [49:45](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2985s)
+## Lee Musgrave [49:38](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2978s)
 
-Bye.
+Bye-bye.
+
+## Roz Dimon [49:39](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2979s)
+
+Thank you. Bye. We're signing off. Bye-bye. Bye-bye. Okay. Bye-bye. Bye. Bye.

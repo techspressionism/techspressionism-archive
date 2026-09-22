@@ -89,7 +89,7 @@ Awesome. Thank you, Susan. Any, okay. I think we'll probably hold questions unti
 
 ## Allen Hirsh [11:35](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=695s)
 
-What's the problem? We're going to have to say I'm like, so you're just going to just say the question. We're going to have to say the question. We're going to have to say the question. We're going to have to say the question. We're going to have to say the question. Can everyone see the piece? Yes.
+It's installing a plug-in. Sorry for the delay. Can everyone see the piece? Yes.
 
 ## Susan Detroy [12:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=721s)
 
@@ -343,11 +343,13 @@ So.
 
 ## Roz Dimon [38:21](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2301s)
 
-Can you guys hear me? See my screen yes yes okay uh I thought I'd go back I know we're keeping this kind of short um and uh I'm going back to a commission uh my first fascination of course with digital was as I've told many of you is all by accident when my wool's filled with pixels so it was all about that electronic pixel for quite a while but then as I got into layers and the potential for for layering I saw that this was also a whole new dimension in painting um I'm going back to a piece it was done in 1990 it was a commission for a magazine called um electronic directions uh by roger sperberg and and they had interviewed um al gore who had just kind of released his whole ideas about the information highway I was working at the world trade center my graduate school at the time in digital and uh I took all the imagery here it's a collage like for me collage is always involved with storytelling um and uh here I'm telling a story uh that works on multiple planes it's an 11 by 17 tabloid magazine that's going to be sent out to people so I made it in the shape of the american flag and the address right over here where I'm pointing in the bottom left I knew it would be folded so I incorporated the whole idea of an address in the entire piece um and it's all about the pushing and the pressing I of people in america go go go go go go go go go go go go go go go go go go go go go go go and how we are always uh competitive there's the ones and zeros of the ASCII code up here uh Al Gore's face is in here the photoshop well
+Can you guys hear me? See my screen yes yes okay uh I thought I'd go back I know we're keeping this kind of short um and uh I'm going back to a commission uh my first fascination of course with digital was as I've told many of you is all by accident when my wool's filled with pixels so it was all about that electronic pixel for quite a while but then as I got into layers and the potential for for layering I saw that this was also a whole new dimension in painting um I'm going back to a piece it was done in 1990 it was a commission for a magazine called um electronic directions uh by roger sperberg and and they had interviewed um al gore who had just kind of released his whole ideas about the information highway I was working at the world trade center my graduate school at the time in digital and uh I took all the imagery here it's a collage like for me collage is always involved with storytelling um and uh here I'm telling a story uh that works on multiple planes it's an 11 by 17 tabloid magazine that's going to be sent out to people so I made it in the shape of the american flag and the address right over here where I'm pointing in the bottom left left, I knew it would be folded.
 
-## Unattributed [40:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2401s)
+So I incorporated the whole idea of an address in the entire piece. And it's all about the pushing and the pressing of people in America, go, go, go, go, go, and how we are always competitive. There's the ones and zeros of the ASCII code up here. Al Gore's face is in here, the Photoshop.
 
-I was going to interrupt yeah um can you go up there on the left top of your screen there um click the red the green button click this no oh am I not sharing way over to the left where there's red yellow and green buttons yes uh the green button will get rid of the window yeah oh
+## Unattributed [40:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2404s)
+
+Um can you go up there on the left top of your screen there um click the red the green button click this no oh am I not sharing way over to the left where there's red yellow and green buttons yes uh the green button will get rid of the window yeah oh
 
 ## Roz Dimon [40:30](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2430s)
 
@@ -477,39 +479,25 @@ All right.
 
 So this is a piece where the audio is is composed from samples and the video is actually from footage that I shot while I was living in New York City and these village as well as on a trip to Montreal. And the sound samples come from a variety of sources, including, I believe, Twilight Zone. Scooby Doo and an old black and white TV show called The Prisoner.
 
-## Unattributed [54:59](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3299s)
+## Unattributed [55:26](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3326s)
 
-So you can see the full sound of the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the
-
-## Malavika Mandal Andrew [55:14](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3314s)
-
-Whole thing. So you can see the whole thing. So you can see the whole thing. So you can see the whole thing.
-
-## Unattributed [55:19](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3319s)
-
-So you can see the whole thing.
-
-## Cynthia Beth Rubin [55:22](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3322s)
-
-So you can see the whole thing. So you can see the whole
-
-## Unattributed [55:28](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3328s)
-
-Thing. I will not be pushed, filed, stamped, indexed, briefed, debriefed, or numbered. My life is my own. My life is my own. We want information. Information. Information. Who are you? Who are you? Who are you? The new number two. Who is number one? You are number six. Who is number one? One. One. One. One. One. One. One. One. One. One.
-
-One. One. One. One. One. One. One. One. One. One. One. One. One. One. One.
+I will not be pushed, filed, stamped, indexed, briefed, debriefed, or numbered. My life is my own. My life is my own. We want information. Information. Information. Who are you? Who are you? Who are you? The new number two. Who is number one? You are number six. Six. Who is number
 
 ## Colin Goldberg [57:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3421s)
 
-One. One. One. One. One.
+That's it it's pretty pixelated because it's 15 years old oh
 
 ## Unattributed [57:14](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3434s)
 
 That's awesome 15 years ago
 
-## Patrick Lichty [57:19](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3439s)
+## Renata Janiszewska [57:18](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3438s)
 
-Wow it was really strange is that um what is it uh the last this this week do you do you remember mtv does anybody remember mtv's techno show from britain called amp it it had things like future sound of london and um let's see your dj supreme and all that sort of thing and and uh I was and uh I've been watching that a lot the last couple weeks and that was that was just that was just channeling right in there as far as I was concerned like early early 2000s um um trip trance yeah
+Wow
+
+## Patrick Lichty [57:20](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3440s)
+
+It was really strange is that what is it this week do you remember mtv does anybody remember mtv's techno show from britain called amp it it had things like future sound of london and um let's see your dj supreme and all that sort of thing and and uh I was and uh I've been watching that a lot the last couple weeks and that was that was just that was just channeling right in there as far as I was concerned like early early 2000s um um trip trance yeah
 
 ## Colin Goldberg [58:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3481s)
 

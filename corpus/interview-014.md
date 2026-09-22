@@ -37,13 +37,13 @@ Right. Well, I'm from Virginia and grew up west of Washington. I've been living 
 
 After that, I went to San Francisco for four years. Part of my family lives out, lived out there. And, you know, I just really wasn't ready to go to New York at the time. And I'm really glad I went out there. So one thing I could say about, you know, influences is that when I was at VCU, I took some anthropology courses with Colin Turnbull, who was an amazing teacher and anthropologist.
 
-And it completely opened my mind to the other ways of thinking about life. And I think that's one of the things that I've been that's one of the things that I've been interested in. And I think that's one of the ways of being in different cultures. And it's something I've kept as an interest for the rest of my life, I will. And, you know, I've constantly looked at art from other cultures. And being in San Francisco was a boon to that because of the San Francisco Asian Art Museum and just the incredible mix of people from all over, especially Asia, that live in the United States. And I think that's one of the things that I would look at and just do
+And it completely opened my mind to the other ways of thinking about life. And I think that's one of the things that I've been that's one of the things that I've been interested in. And I think that's one of the ways of being in different cultures. And it's something I've kept as an interest for the rest of my life, I will. And, you know, I've constantly looked at art from other cultures. And being in San Francisco was a boon to that because of the San Francisco Asian Art Museum and just the incredible mix of people from all over, especially Asia, that live in the United States. And I think that's one of the things that I along with the tech world that started developing while I was out there.
 
-## Roz Dimon [04:37](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=277s)
+## Roz Dimon [04:34](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=274s)
 
-That you know, is that and that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's what I think that's but we talk about the larger scope of things and the fact that we're, you know, that the borders are being crossed and that's what you just spoke about, which I love. Like, you know, it's not just as you say, the machine and, and even though that's very important too, but that whole idea of that anthropologist and, and your, your vision affecting your world vision.
+I love what you just said. I'm just going to interrupt a minute here. Listening to you, as part of Techspressionism, which we're both part of, I love how it's not, we talk about technique and technology, but we talk about the larger scope of things and the fact that borders are being crossed. And that's what you just spoke about, which I love. Like, it's not just.
 
-Yeah,
+As you say, the machine and, and even though that's very important too, but that whole idea of that anthropologist and, and your, your vision affecting your world vision. Yeah,
 
 ## Carter Hodgkin [05:14](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=314s)
 
@@ -135,25 +135,25 @@ Oh yeah. Well, see, I love that.
 
 ## Carter Hodgkin [12:29](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=749s)
 
-Each tile represents a pixel in the image. Sure. It's wonderful. So, and then the first one I did was at Queens College, which is. When you were doing that. Was it just like a normal floor? No. No. No.
+Each tile represents a pixel in the the image. Sure, it's wonderful. So and then the first one I did was at Queens College which is harder to see because it's four, three different floors and nine columns. So these are the columns that go down the hallway. And can we still see that there?
 
 ## Roz Dimon [12:52](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=772s)
 
-No. No. No. No. No. No. No. No. Trashed. Kudos to you. That's a really important thing to have permanent installations. Yeah. May I ask you a quick question? Sure. You come from, you know, you always love painting, design, and yet I hear you talking about, you know, sort of, I guess, chaos and randomness, and where did that, when you were doing design, I mean, there's a beauty and a form to your pieces, to me, one that has some kind of synthesis.
+Is that a part? Oh it's permanent. Fantastic. These are all permanent until the building gets trashed. Kudos to you, that's a to have permanent installations. Yeah. May I ask you a quick question? Sure. You come from, you know, you always love painting. And yet I hear you talking about, you know, sort of, I guess, chaos and randomness, and where did that, when you were doing design, I mean, there's a beauty and a form to your pieces, to me, one that has some kind of synthesis.
 
-Where did the randomness in the design part, when did it switch over and you go, oh, I want to feed into this processing thing? You know, it's a different kind of process than just making a design on your canvas, or I don't know if I'm making...
+Where did the randomness in the design part, when did it switch over and you go, oh, I want to feed into this processing thing? You know, it's a different kind of process than just making a design on your canvas, or I don't I don't know if I'm making...
 
 ## Carter Hodgkin [13:41](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=821s)
 
-Well, in terms of randomness, it's in the collision. It's in making the collision. It's in starting it and making it. I know it's because these parts are so different. I mean, it's, you know, it's, you know, it's, you know, it's, you know, particles react to each other. Every collision is different. And I love that.
+Well, in terms of randomness, it's in the collision. It's in making the collision. It's in starting it and making it. Because these particles react to each other, every collision is different.
 
-## Roz Dimon [13:57](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=837s)
+## Roz Dimon [13:56](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=836s)
 
-That seems to be, you know, very representative of life itself and that mystery and surprise. Right.
+And I love that. That seems to be very representative of life itself and that mystery and surprise. Right.
 
-## Carter Hodgkin [14:03](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=843s)
+## Carter Hodgkin [14:06](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=846s)
 
-So, you know, the challenge is getting, and the challenge for me always with my work over the last 40 years is like translating this digital aspect or into something concrete and tangible like painting. So, these are an offshoot of this process. And I'm using panels and paper. I color paper and make these.
+Know, the challenge is getting, and the challenge for me always with my work over the last 40 years is like translating this digital aspect or into something concrete and tangible like painting. So, these are an offshoot of this process. And I'm using panels and paper. I color paper and make these.
 
 This one is a large one. It's six feet high by 120 inches long. Yeah. So, these are some of the newer... This is 40 by 60. So, you can see it's a collage in a way.
 
@@ -461,19 +461,13 @@ Well, I'm just really working on these paintings. I'm just doing a lot of these 
 
 Someone once told me, one of my teachers said, sometime when you're not, you get focused, you're doing a series or you have a commission or some big project. And then sometime when you're in that space where the mind is just kind of sitting, like, you know, the CUNY, you're sitting in a space of some kind.
 
-And that's what I'm kind of looking for. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there. And you're there.
+Splash something down and you're not really going anywhere in particular, then something new, some kernel or something takes place. And who knows, even 10 years later, you might more fully develop it. But I think it's a real creative, you have to have rocking chair time as an artist. You can totally producing every second.
 
-## Unattributed [34:25](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2065s)
-
-And you're there.
-
-## Roz Dimon [34:27](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2067s)
-
-And you're there. And you're there. Wanted to ask you to share what interests you about a tech specialism within what we're talking about right now?
+And further to that, I just wanted to ask you to share what interests you about a Techspressionism within what we're talking about right now.
 
 ## Carter Hodgkin [34:38](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2078s)
 
-What interests me are the different people that are involved in different ages, different backgrounds, and this incredibly interesting community of people that we've formed. I mean, I wasn't thinking I'd get involved in it. I'm, you know, here in my studio, blah, blah, blah. But it's really compelling to feel like you have a community. It's good to have a community. And I... Do you mind if we stop sharing?
+What interests me are the different people that are in different ages, different backgrounds, and this incredibly interesting community of people that we've formed. I mean, I wasn't thinking I'd get involved in it. I'm, you know, here in my studio, blah, blah, blah. But it's really compelling to feel like you have a community. It's good to have a community. And I... Do you mind if we stop sharing?
 
 ## Roz Dimon [35:08](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2108s)
 

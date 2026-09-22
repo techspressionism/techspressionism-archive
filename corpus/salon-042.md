@@ -77,15 +77,15 @@ I don't believe. I heard pieces on the bench there yet the glitch bench.
 
 ## Roz Dimon [04:33](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=273s)
 
-Yeah, we've got the glitch bench here and it looks really terrific. And if you're good with that Colin and Davo I'm going to keep going. Right. We have a wonderful piece here by Joseph and that default. As we all know it's been around a long time. If anybody wants to say anything.
+Yeah, we've got the glitch bench here and it looks really terrific. And if you're good with that Colin and Davo I'm going to keep going. Right. We have a wonderful piece here by Joseph and that default. As we all know it's been around a long time. If anybody If anybody wants to say anything.
 
 ## Colin Goldberg [04:57](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=297s)
 
-Yeah, I don't believe Joseph is here with us tonight but this is a great opportunity to talk about this. And I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. I just want to say. And find out more information about each artist on Techspressionism.com.
+Yeah, I don't believe Joseph is here with us tonight, but this is a piece that was created using computer viruses. And it's in a collaboration with a composer. It's a visual piece, and there's an excerpt of it on the website. So if you go to Techspressionism.com, you'll find on the homepage, there's an artist list. And each one of the artists' names is hyperlinked to a page with their work on it, as well as a bio and statement and links to their website and social media. So you could always jump on and find out more information about each artist on Techspressionism.com.
 
 ## Roz Dimon [05:36](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=336s)
 
-Yeah, we have to be careful that we don't get too close to the QR codes because the iPad's going to go off into another world. So we have to be careful about this. All right. So thank you. That's great.
+Yeah, we have to be careful that we don't get too close to the QR codes because of the... Going to go off into another world. So we have to be careful about this. All right. So thank you. That's great.
 
 ## Davonte Bradley [05:47](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=347s)
 
@@ -157,15 +157,15 @@ She's here.
 
 I'm here. And you can see them behind me too in the great 3D walkthrough that anyone can use by going to the Techspressionism.com website. And these are four pastel drawings that are based actually on AI artwork that were created with a dataset that I put together myself with images of my own artwork. And I'm going to show you a few of them. Okay. So this is a photo of me and photographs of airplanes that I got off the web. And they sort of fight against each other in an AI process called a GAN. And they ended up making these really crazy compositions that looked like airplane crashes and UFOs. And I loved the compositions, but they were very low resolution, only 256 pixels across. So my solution was to blow them up and make them into pastel drawings. And it was fun using sort of cutting edge technology on one hand, but then rendering it with a very, very high resolution.
 
-And I know I can do a lot of my work in a very pointy and very thrifty way, that I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot of it. I can do a lot
+And I media for the final output and I'm going to be talking more about that whole process and and my artwork and digital and analog on Tuesday May 3rd at 6 pm if you want to hear a whole lot more about my process thanks and
 
-## Colin Goldberg [09:44](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=584s)
+## Colin Goldberg [09:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=585s)
 
-Of it. I can do a lot of it. I can do a lot of it. Krasner House on the homepage at Techspressionism.com, as well as the other salons that are going to be coming up.
+I wanted to add there's registration links to Anne's talk as well as the other talks that Helen Harris is running through the Paula Krasner house page at Techspressionism.com as well as the other salons that are going to be coming up
 
 ## Roz Dimon [10:06](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=606s)
 
-Patrick Lichty, Techspressionist still life number three, dive on print on acrylic.
+Patrick Lichty Techspressionist still life number three, dive on print on acrylic.
 
 ## Patrick Lichty [10:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=615s)
 
@@ -201,35 +201,27 @@ Excellent. Now we don't. And we're. This is a small one. But we're going to do a
 
 ## Colin Goldberg [13:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=790s)
 
-And I don't believe Suzanne is here, but I could say a couple words about these because I know the background to create these. She took the original Rorschach plots and and extruded them in a 3D probe. And I just think I can't get the same thing. I can't go on. I can't. I can't.
+And I don't believe Suzanne is here, but I could say a couple words about these because I know the background to create these. She took the original Rorschach plots and and extruded them in a 3D probe. Called Maya to create molds. And then they were cast in plaster, which are the large white pieces. And then also as bronzes, which are the smaller pieces there.
 
-## Roz Dimon [13:37](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=817s)
+## Roz Dimon [13:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=819s)
 
-I can't. I can't.
-
-## Unattributed [13:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=819s)
-
-I can't.
-
-## Roz Dimon [13:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=820s)
-
-I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't.
+Colin, it's great how much you know about every work. Excellent. All right.
 
 ## Stephanie Sydney [13:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=826s)
 
-I can't. I can't.
+Good job.
 
-## Roz Dimon [13:47](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=827s)
+## Roz Dimon [13:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=826s)
 
-I can't. I can't. I can't. I can't. I can't.
+Front again. We're going past the front doors. We're going around clockwise
 
-## Unattributed [13:52](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=832s)
+## Unattributed [13:51](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=831s)
 
-In the first room.
+From the first room.
 
 ## Roz Dimon [13:56](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=836s)
 
-And we are here at Davos piece. Let's talk about that first. And then Brandon S Gellis has a piece underneath. Davos, hopeful ambition, digital print on metal. Beautiful.
+And we are here at Davos Peace. Let's talk about that first. And then Brandon S Gellis has a piece underneath. Hopeful ambition, digital print on metal. Beautiful.
 
 ## Davonte Bradley [14:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=850s)
 
@@ -813,11 +805,13 @@ Next is Oz Van Rosen, who I believe we saw her bench in the front room. Power of
 
 ## Colin Goldberg [59:37](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3577s)
 
-And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred line, really, when you talk about founders. Because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was awesome. I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say, I just want to say it topical and contemporary.
+And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred A blurred line, really, when you talk about founders, because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was here at the very first salon where it was myself, Steve Miller, Oz, Patrick Lichty and Helen Harrison. And we sort of formulated the definition and kind of came up with a game plan to to develop the concept. So that's a digital piece of Oz's.
+
+And she just said about that piece in particular, trans-historical art is the blending of the new and the old. It is a way of reliving the history of art and keeping it topical and contemporary.
 
 ## Roz Dimon [01:00:48](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3648s)
 
-Great. And we go on to the inimitable and only Tommy Mintz. Automated digital photo collage, Chelsea Fine Foods. Dye sublimation on aluminum is the top piece. 2018 in the bottom is automated digital photo collage, 23rd Street and 8th Avenue. Dye sublimation on aluminum, 2016.
+Great. And we go on to the inimitable and only Tommy Mintz. Automated digital photo collage, Chelsea. Foods. Dye sublimation on aluminum is the top piece. 2018 in the bottom is automated digital photo collage, 23rd Street and 8th Avenue. Dye sublimation on aluminum, 2016.
 
 ## Tommy Mintz [01:01:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3675s)
 
@@ -891,11 +885,13 @@ Many, many of us and it's very much feels like a vindication to, to get into the
 
 ## Colin Goldberg [01:07:50](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4070s)
 
-Thank you, Victor. Maybe Karen. Are you Karen's here, right?
+Thank you, Victor. Maybe Karen? Are you, Karen's here, right?
 
 ## Karen LaFleur [01:07:59](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4079s)
 
-Yes, I'm here. I know. I just can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. About 55 seconds. I start with intuitive hand drawings. And then from there, it goes into the computer to Photoshop, where they're painted and expanded. And then from there, they go into motion for more expansion and drawing and then movement. And from there, they go into final cut. So it really goes from the intuitive hand right through technology in my work. I often work with a musician, Nancy Tucker. There's no sound in this particular animation, but most of mine do have music to them.
+Yes, I'm here. Put my hand down for a second. First of all, so honored to be in this exhibit with everyone and the efforts that everyone has put together to make the show possible. The artwork that you're seeing here is an animation and you're seeing it about halfway through. It's about 55 seconds.
+
+I start with intuitive hand drawings and then from there it goes into the computer to Photoshop. Painted and expanded. And then from there, they go into motion for more expansion and drawing and then movement. And from there, they go into final cut. So it really goes from the intuitive hand right through technology in my work. I often work with a musician, Nancy Tucker. There's no sound in this particular animation, but most of mine do have music to them.
 
 My artwork in general deals with the synergy of interior worlds and exterior worlds and how they have a synergy. And I think that's one of the things that I've been doing for a long time. And I think that's one of the things that I've been doing for a long time. And I think that's and how each is expressed, which segues ways to Techspressionism beautifully in terms of using technology to delve deeper into those emotional or synergy experiences and express it deeply through technology. And the other thing I want to say about this exhibit is the dimensions that this exhibit can be experienced by. So there's the physical show. There's the visual show. There's the visual show. There's the visual show. There's the artist's reel. There's 3D walkthroughs.
 
@@ -1091,31 +1087,25 @@ Oh yeah. Um, yeah, the first of all, I have to have a big science to a dival bec
 
 Um, here. Yes. Um, it's actually, I have a 4k video. So this is a video, um, not a still image. I think, uh, uh, I probably, I forgot to attach in a trial, but I like to say a little. A little bit about it. The, the title is, uh, the women's power. Um, so I use a rose. I really love a rose, Bob and also rock. So you can see all these, uh, rock and the roles that represent like a, like a, a woman can be very beautiful and also very strong, like a rock. Um, and the, the original, um, this image is also like a, my favorite vintage image, public domain from Metropolitan Museum of art. So if you look closely from your, um, um, if you have a web version, uh, you, you, you can, uh, just zoom, zoom out. Um, so you can see is actually there. There's a, there's a woman. She's a queen. She's, she's on the top.
 
-And, uh, um, uh, there was a, like a king on the top. So somehow I just delete that king because I feel like. Uh, we need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, uh, how, how about we live women's on the top? So that's why the, and this is also a tribute to the international women's month. Like.
+And, uh, um, uh, there was a, like a king on the top. So somehow I just delete that king because I feel like. Uh, we need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, uh, how, how about we live women's on the top? So So that's why, and this is also a tribute to the International Women's Month last month, March.
+
+Yeah, so that's what I want to say.
 
 ## Colin Goldberg [01:24:55](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5095s)
 
-And, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,
+And then I believe Reese Schroeder is the last person who is in the chat who has work in the real. So I just wanted to give Reese the opportunity to say a few words if he'd like. And I'll pull his work up as well. Still in the chat?
 
-## James Dawson [01:25:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5110s)
+## Unattributed [01:25:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5115s)
 
-And, and, and, and, and, and, and, and, and, and,
-
-## Unattributed [01:25:13](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5113s)
-
-And, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,
+Yeah, I was trying to find them.
 
 ## Roz Dimon [01:25:17](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5117s)
 
-And at Randy Mutochevitz, just to name what's on the screen. I'm sorry that we have to look at other images while you guys are talking. It's kind of difficult.
+While you're looking, we're looking at Randy Mutochevitz, just to name what's on the screen. I'm sorry that we have to look at other images while you guys are talking. Kind of difficult with the video.
 
-## Unattributed [01:25:29](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5129s)
+## Colin Goldberg [01:25:29](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5129s)
 
-So this is Reese.
-
-## Colin Goldberg [01:25:31](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5131s)
-
-He was just in the chat, but he might have left. So, okay. So I'm
+So this is recent. Was just in the chat, but he might have left. So, okay. So I'm
 
 ## Patrick Lichty [01:25:37](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5137s)
 
@@ -1265,17 +1255,17 @@ I think the Wi-Fi signal might be a little weak back there.
 
 ## Christine Sciulli [01:40:17](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6017s)
 
-Oh, no. I have a photo in my background. So it's not going to image, I guess. It's fine.
+Oh, no. I have a photo in my background. Um so it's not going to image I guess it's
 
-## Unattributed [01:40:29](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6029s)
+## Unattributed [01:40:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6028s)
 
-I can't
+Trying really still
 
-## Christine Sciulli [01:40:32](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6032s)
+## Christine Sciulli [01:40:31](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6031s)
 
-Get the big people. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. Generated moving lines and physical engagement. So the physical engagement here is a network of string that I build out, which you can see in this picture behind me, in sort of an abstract expressionist way. I mean, usually there's, I resonate off of the architecture in the space. I generate these lines that are rotating in apple motion, sometimes generatively, sometimes I like hand animate them for position. And then I go back and forth between the projections, once the projectors are set, and the network of string, and sequence them so that the intersection of the planes of light with the string result in points that seem to move around.
+And just like focus on the dots the points and don't try to move the camera it'll catch up there you go I would just stay there so um I I've been fascinated with uh geometry like my whole life but I studied architectural engineering and one of the things that I'm exploring is a collaboration with computer generated moving lines and physical engagement. So the physical engagement here is a network of string that I build out which you can see in this this picture behind me.
 
-People tend to put all kinds of scale notions onto these points. And yeah, that's the short end of the book.
+Sort of an abstract expressionist way. I mean, usually there's, I resonate off of the architecture in the space. I generate these lines that are rotating in apple motion, sometimes generatively, sometimes I like hand animate them for position. And then I go back and forth between the projections, once the projectors are set, and the network of string, and sequence them so that the intersection of the planes of light with the string result in points that seem to move around. People tend to put all kinds of scale notions onto these points. And yeah, that's the short end of the book.
 
 ## Roz Dimon [01:41:49](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6109s)
 
@@ -1335,15 +1325,17 @@ I'm sure maybe everyone
 
 ## Negin Ehtesabian [01:45:20](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6320s)
 
-Yeah tell us a little bit everyone and thank you so much uh for including me and that's an honor to be in uh showing you with all these amazing artists so these two pieces uh it's uh iran and america it's a part of this installation we are doing with uh my dear husband patrick lickley so we lived in abu dhabi and because of a lot of political reasons we couldn't visit each other's country but we had this idea that we know a lot about each other's country through media so it starts with technology that actually gives a new um notion of experience uh to people so you change a technology around people and the people change so we try to visit each other's country with google earth so that was the first time actually I was using this vr glasses and it was so exciting for me so we went all around these uh cities that he really he was living and working and his uh childhood house is there the one and all these experiences I had with this vr uh alongside with all the information I think I have from america uh through media uh cinema literature uh philosophy whatever you read about a country and the culture because we somehow raised on these movies and cartoons and cinema and like satellite uh programs uh so we think we know a lot about the culture but sometimes that is the because in the first time that is the time of the time in the first time and you have the two of you and the look and the people you are in the two and the like the people you are in the did you have a good time and the people you are in the time and the people you have the time and the people you have the time and the people you have the time and the people you have the time and the people you have the time and the people you have the time and the people you have the time and the people you have the time and the people you
+Yeah tell us a little bit everyone and thank you so much uh for including me and that's an honor to be in uh showing you with all these amazing artists so these two pieces uh it's uh iran and america it's a part of this installation we are doing with uh my dear husband patrick lickley so we lived in abu dhabi and because of a lot of political reasons we couldn't visit each other's country but we had this idea that we know a lot about each other's country through media so it starts with technology that actually gives a new um notion of experience uh to people so you change a technology around people and the people change so we try to visit each other's country with google earth so that was the first time actually I was using this vr glasses and it was so exciting for me so we went all around these uh cities that he really he was living and working and his uh childhood house is there the one and all these experiences I had with this vr uh alongside with all the information I think I have from america uh through media uh cinema literature uh philosophy whatever you read about a country and the culture because we somehow raised on these movies and cartoons and cinema and like satellite uh programs uh so we think we know a lot about the culture but sometimes that is also, the other way, he tried to visit Iran through Google Earth, but because of the limitations, there were no 3D photography there.
+
+So it was all flat. So this is a part of that installation that we did different artworks for that. That's it. Thank you.
 
 ## Roz Dimon [01:47:41](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6461s)
 
-Have the time and is Google Earth, Poland, Iran, and they are digital print on fabric.
+Thank you. It is Google Earth, colon Iran, and they are digital print on fabric.
 
 ## Negin Ehtesabian [01:47:49](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6469s)
 
-Yeah, and again, thank you so much, Colleen, for all this amazing work for having such a show. And thank you, Roz, for presenting us.
+Yeah. And again, thank you so much, Colin, for all this. Work for having such a show. And thank you, Roz, for presenting us.
 
 ## Roz Dimon [01:48:00](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6480s)
 
@@ -1675,45 +1667,39 @@ I just want to say a big thank you to the other people. I just want to say a big
 
 Yeah, and for the next five weeks throughout the exhibition, which closes on June 4th, there is at least one event every week that is the salons are every two weeks. So in two weeks, we're going to have our Femtech salon that Roz is going to be moderating. Two weeks after that is going to be East End Expressionism that Steve Miller is moderating. And in between them, we have three great programs that Helen Harrison is going to be running in conjunction with the Pollock-Krasner House and Study Center. Those will be Zoom events. There's also going to be a number of live events for those of you in the area, including John Zieman presenting on the history of video art. And I believe Christine Schooley is also going to be doing a presentation on her site-specific installation and possibly a few more that are in the works.
 
-So stay tuned. And all that information is going to be made accessible on the homepage at Techspressionism.com throughout the duration of the exhibition. After the exhibition is over, all of that content is going to be archived at Techspressionism.com slash Southampton. So if any of you are who are artists in the show and you want to add a permanent link to the exhibition, please use that URL, Techspressionism.com slash Southampton, which currently redirects to the homepage.
+So stay tuned. And all that information is going to be made accessible on the homepage at Techspressionism.com throughout the duration of the exhibition. After the exhibition is over, all of that content is going to be archived at Techspressionism.com slash Southampton. So if any of you are who are artists in the show and you want to add a permanent link to the exhibition, please use that URL, Techspressionism.com slash Southampton,
 
-And I'm going
+## Unattributed [02:16:56](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8216s)
 
-## Davonte Bradley [02:17:08](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8228s)
+Which currently redirects to the homepage.
 
-To have a little bit of a fun time
+## Davonte Bradley [02:17:04](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8224s)
 
-## Colin Goldberg [02:17:11](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8231s)
+Well and then that's about it for me yeah I'm not sure I've got anything else myself
 
-A lot of the time,
+## Darcy Gerbarg [02:17:12](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8232s)
 
-## Darcy Gerbarg [02:17:13](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8233s)
+Thank you both of you yes
 
-I just can't get the most of the work and the things I do, I can't do the work. I can't do the work. I can't do the work. I can't do the work.
+## Unattributed [02:17:15](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8235s)
 
-## Unattributed [02:17:16](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8236s)
+Thank you all right
 
-I can't do the work. I can't do the work. I can't do the work. People and you
+## Davonte Bradley [02:17:18](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8238s)
 
-## Patrick Lichty [02:17:29](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8249s)
+All right I guess we're signing out all right thank you so much for attending thank you so much for your time and contributions and being overall just wonderful people and
 
-Know one additional thing going forward is that the martin um is having a second showing at the dream catchers film festival in calcutta india oh
+## Patrick Lichty [02:17:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8248s)
+
+You know one additional thing going forward is that the is having its second showing at the Dreamcatchers Film Festival in Kolkata, India.
 
 ## Davonte Bradley [02:17:38](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8258s)
 
-Wow
+Oh.
 
 ## Patrick Lichty [02:17:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8259s)
 
-So
-
-## Unattributed [02:17:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8260s)
-
-In
-
-## Patrick Lichty [02:17:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8260s)
-
-Its first edition so we're we're spanning the world again nice
+So in its first edition so we're we're spanning the world again nice
 
 ## Davonte Bradley [02:17:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8265s)
 
