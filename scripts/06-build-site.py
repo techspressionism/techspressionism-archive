@@ -416,7 +416,7 @@ header.site .wrap { container-type:inline-size; }
   header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:min(calc(100cqw / 17.85), 2rem); line-height:1.2; }
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
-.topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1rem; color:var(--fg); }
+.topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1.2rem; color:var(--fg); }
 .topnav a.chip:hover { border-color:var(--accent); color:var(--accent); }
 .topnav a.chip[aria-current="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
 .topnav .n { opacity:.7; font-size:.8em; margin-left:.3rem; }
@@ -453,8 +453,8 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
 .read-actions { display:none; margin:0 0 1.2rem; }
-.read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:.4rem; color:#fff; font:inherit; font-size:1rem; font-weight:800;
-                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }
+.read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:1.2rem; color:#fff; font:inherit; font-size:1rem; font-weight:800;
+                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }   /* pill-shaped, like every other button on the site, per Colin */
 .watch-btn { background:var(--accent); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
@@ -558,7 +558,7 @@ aside.cat-list h2, .watch-next h2 { margin:0 0 .8rem; padding:0 0 .6rem; border-
 .cite-btn svg.i-up { width:.75rem; height:.75rem; flex:none; }
 .cite-btn:hover, .cite-btn[aria-expanded="true"] { background:#b30000; }
 .para + .cite-card.para-cite { margin-top:-.7rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 3.6rem); scroll-margin-bottom:1rem; }
-.cite-card .close-cite { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--line); border-radius:.3rem; background:#fff; color:var(--muted); cursor:pointer; }
+.cite-card .close-cite { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--line); border-radius:1.2rem; background:#fff; color:var(--muted); cursor:pointer; }
 .cite-card .close-cite:hover { border-color:var(--accent); color:var(--accent); }
 a.pill svg { width:.72rem; height:.85rem; color:#8a8a8a; flex:none; }
 a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
@@ -598,7 +598,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .browse label { font:inherit; font-weight:700; letter-spacing:.03em; white-space:nowrap; }
 .browse .bslash { color:var(--accent); }   /* same font as the intro line */
 .browse select { flex:1; min-width:0; font:inherit; padding:.5rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); }
-#search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
+#search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1.2rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
 @media (max-width:40rem) {   /* phones: filters collapsed behind one button */
   #search .filters-toggle { display:flex; }
@@ -631,7 +631,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1.1rem; border:none; border-radius:1.2rem; background:var(--line); color:#000; cursor:pointer; }   /* a light-gray pill with black text, everywhere, per Colin -- was red (and gray-but-square on a search result) */
 button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
 .cite-format { margin:0; font-size:.85rem; color:#000; font-weight:700; }   /* "Citation Format:" black and bold, same weight as Copy Citation, sitewide, per Colin */
-.cite-format select { font:inherit; font-size:.85rem; font-weight:400; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
+.cite-format select { font:inherit; font-size:.85rem; font-weight:700; margin-left:.3rem; padding:.4rem 1.6rem .4rem 1.1rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same shape/padding as Copy Citation, but white with a red outline -- the native dropdown arrow stays (no appearance:none), per Colin */
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
 a.pill.pill-watch:hover { background:#d60000; }
@@ -647,7 +647,7 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 /* search-result citations and the citation card under a cited passage */
 #search .citation-info { margin-top:.6rem; padding:.55rem 0 0; border:0; border-top:1px solid #bbb; background:none; border-radius:0; }   /* a thin rule between the quoted text and its citation */
 .citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:block; margin:0 0 .25rem; font-size:inherit; }   /* the citation itself starts on the next line */
-.cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
+.cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }
 .cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
 .cite-card { margin:0 0 1.5rem; padding:.7rem .9rem; border-left:3px solid var(--accent); background:#fafafa; }
 .cite-card .cite-text { font-family:Georgia,"Times New Roman",serif; font-size:.95rem; }
@@ -893,12 +893,11 @@ CATEGORY_PLAYER_JS = """<script>
 
 ARTISTS_PAGE_JS = """<script>
 (function () {   // filter the directory as you type (the same behavior as the home page's in-place Artists group);
-                 // the A-Z jump bar hides while filtering -- the letters are for browsing, not a filtered list
+                 // the A-Z jump bar stays up throughout -- someone filtering might still want to jump a letter (Colin, 2026-09-22)
   var box = document.getElementById('artist-filter');
   if (!box) return;
   function filterArtists() {
     var q = box.value.trim().toLowerCase();
-    var az = document.getElementById('azbar'); if (az) az.hidden = !!q;
     document.querySelectorAll('#artist-list li').forEach(function (li) { li.hidden = !!q && li.dataset.name.indexOf(q) < 0; });
   }
   box.addEventListener('input', filterArtists);
@@ -1880,8 +1879,7 @@ window.addEventListener('DOMContentLoaded', () => {{
   const artistBox = document.getElementById("artist-filter");
   function filterArtists() {{
     if (!artistBox) return;
-    const q = artistBox.value.trim().toLowerCase();
-    const az = document.getElementById("azbar"); if (az) az.hidden = !!q;      // the letters are for browsing, not for a filtered list
+    const q = artistBox.value.trim().toLowerCase();   // the A-Z jump bar stays up throughout -- someone filtering might still want to jump a letter (Colin, 2026-09-22)
     for (const li of document.querySelectorAll("#artist-list li")) {{
       li.hidden = !!q && !li.dataset.name.includes(q);
     }}
@@ -2146,6 +2144,7 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
 .person p.facts { margin:.4rem 0 0; font-size:1.1rem; }   /* one line, slash-separated, per Colin -- was a stacked bulleted list */
 .person p.facts .fsep { color:var(--muted); margin:0 .15em; }
+.artists-head { padding-bottom:1.5rem; margin-bottom:1.5rem; border-bottom:1px solid var(--accent); }   /* left-aligned (per Colin) + red rule below; scoped to the Artists category page only, individual artist pages untouched */
 .person h2[id] { scroll-margin-top:1rem; }
 .person ul { list-style:none; padding:0; margin:0; }
 .rowitem { display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:.7rem 0; border-bottom:1px solid var(--line); }
@@ -2276,8 +2275,8 @@ def build_artists_page(corpus):
     """The Artists directory as its own page (/artists/), depth 1 like the other category pages. Same content
     as the home page's in-place-filterable Artists group (build_artist_directory_html()), just given a real,
     crawlable address."""
-    body = (f'<div class="artists-page"><h1>Artists</h1>'
-            f'<p class="d">{ARTIST_COUNT} artists heard or named in the recordings.</p>'
+    body = (f'<div class="artists-page"><div class="artists-head"><h1>Artists</h1>'
+            f'<p class="d">{ARTIST_COUNT} artists heard or named in the recordings.</p></div>'
             f'{build_artist_directory_html()}</div>')
     page = canonical_url("artists/")
     desc = lib_seo.clip_text(f"Everyone heard or named across the Techspressionism Video Archive -- {ARTIST_COUNT} artists, "
