@@ -512,6 +512,7 @@ main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem; }   /* bottom pad
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
 h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
+h1.rec-title { margin-top:2rem; padding-top:1rem; border-top:1px solid var(--accent); }   /* a red rule above the title too, matching the category page's .cat-latest treatment (the SYNOPSIS heading right below already gets one of its own, so this closes the "line above and below" look Colin liked there), per Colin 2026-09-22 */
 h1.rec-title.wrapped .h1-sep { display:none; }   /* too long for one line (a long title, or a narrow/phone screen): JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly (same pattern as .cat-latest.wrapped on category pages) */
 h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
@@ -528,9 +529,9 @@ h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
-.read-actions { display:none; margin:0 0 1.2rem; }
+.read-actions { display:none; margin:1.5rem 0 1.2rem; }   /* top margin added -- per Colin 2026-09-22, wanted space above these buttons on both video and category pages (they share this class) */
 .read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:999px; color:#fff; font:inherit; font-size:1rem; font-weight:800;
-                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; }   /* 999px (not a fixed rem value) so the ends are always fully circular regardless of the button's actual height, matching the red timecode pills above -- per Colin 2026-09-22, 1.2rem wasn't enough to fully round a button this tall */
+                        letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; text-align:center; text-decoration:none; display:inline-block; }   /* 999px (not a fixed rem value) so the ends are always fully circular regardless of the button's actual height, matching the red timecode pills above -- per Colin 2026-09-22, 1.2rem wasn't enough to fully round a button this tall. text-align/text-decoration/display added when a category page's featured section started rendering these as <a> instead of <button> (no transcript on that page for a real button to toggle) -- an anchor doesn't center its own text or become a flex item sized by padding the way a button does by default */
 .watch-btn { background:var(--accent); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
@@ -698,7 +699,7 @@ body.searching #intro-block { display:none; }   /* while searching, the results 
    that reset's scope -- a bare ".copy-cite" was losing on every tied property (padding, border-radius,
    font-weight...); "button.copy-cite" (adding the element type) has just enough extra specificity to reliably
    beat the reset's :where() (always zero specificity) everywhere, with one rule, no separate #search override. */
-.cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:.6rem; }
+.cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:1.2rem; }   /* more room above the Copy citation/Citation Format row, between it and the citation text above -- per Colin 2026-09-22 */
 #search .cite-actions { display:flex; gap:1.1rem; margin-top:1.1rem; }   /* more room both between WATCH / Copy Citation / CFS, and above the row, than the sitewide default -- too tight otherwise, per Colin */
 button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1.1rem; border:none; border-radius:1.2rem; background:var(--line); color:#000; cursor:pointer; }   /* a light-gray pill with black text, everywhere, per Colin -- was red (and gray-but-square on a search result) */
 button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
@@ -730,6 +731,7 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
+#search .pagefind-ui__result-link::before { content:none; }   /* Pagefind's own default UI CSS puts a curly "⤷ " arrow before the speaker's name -- removed, per Colin 2026-09-22 */
 /* a red rule, with room above and below, before each following search result */
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
@@ -839,18 +841,9 @@ PAGE_TMPL = """<!doctype html>
 {description}
 {speakers}
 {flags}
-<div class="read-actions" id="read-actions" data-pagefind-ignore>
-<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>
-<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
-</div>
-<p class="watch-yt" data-pagefind-ignore><a href="{url}">Watch on YouTube</a> &#47;&#47; <button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>
-<section class="cite" data-pagefind-ignore>
-<h2>Cite this session</h2>
-<div data-cite="{cite_data}">
-<blockquote class="cite-text" translate="no">{citation}</blockquote>
-<div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
-</div>
-</section>
+{read_actions}
+{watch_yt}
+{cite_section}
 {footer}
 </div>
 <div class="right">
@@ -940,7 +933,9 @@ def build_player(entry):
 
 CATEGORY_PLAYER_JS = """<script>
 (function () {   // a category page's featured video: click the poster, load the iframe API, play -- none of the
-                 // transcript-page's reading/cite/search machinery applies here, so this stays deliberately small
+                 // transcript-page's reading/search machinery applies here (no transcript DOM to toggle or
+                 // search), so this stays deliberately small; CITE_JS is injected below for the "Cite this
+                 // session" box, which the featured section now also carries, per Colin 2026-09-22
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, poster = box.querySelector('.poster'), loading = false;
@@ -981,6 +976,18 @@ CATEGORY_PLAYER_JS = """<script>
   match();
   window.addEventListener('resize', match);
 })();
+document.addEventListener('click', function (ev) {   // the "Cite this session" box's Copy citation button --
+                 // CITE_JS (injected above) only renders the citation text into data-citation, it doesn't listen
+                 // for the click itself (that lives in PLAYER_JS, paired with reading-mode machinery this page
+                 // doesn't have), so this page needs its own copy of the same small handler, per Colin 2026-09-22
+  var b = ev.target.closest && ev.target.closest('.copy-cite');
+  if (b && navigator.clipboard) {
+    ev.preventDefault();
+    navigator.clipboard.writeText(b.dataset.citation).then(function () {
+      var o = b.textContent; b.textContent = 'Copied'; setTimeout(function () { b.textContent = o; }, 1500);
+    });
+  }
+});
 </script>"""
 
 
@@ -1079,6 +1086,11 @@ function citeApply(block) {
   if (b) b.setAttribute("data-citation", r.text);
   if (s) s.value = fmt;
 }
+// a "Cite this session" box already in the page at load (the recording page's own, or a category page's
+// featured one) needs this run once up front -- otherwise its Copy citation button's data-citation is never
+// set until the format dropdown is touched at least once. A search result's own citation card isn't caught
+// here (it doesn't exist yet at this point) but doesn't need to be: it calls citeApply(card) itself when built.
+[].slice.call(document.querySelectorAll("[data-cite]")).forEach(citeApply);
 document.addEventListener("change", function (ev) {
   var s = ev.target.closest && ev.target.closest(".cite-format-select");
   if (!s) return;
@@ -1498,6 +1510,7 @@ PLAYER_JS = """<script>
 
 
 PLAYER_JS = PLAYER_JS.replace("<script>" + chr(10) + "(function () {", "<script>" + chr(10) + CITE_JS + chr(10) + "(function () {", 1)
+CATEGORY_PLAYER_JS = CATEGORY_PLAYER_JS.replace("<script>" + chr(10) + "(function () {", "<script>" + chr(10) + CITE_JS + chr(10) + "(function () {", 1)   # the featured recording's "Cite this session" box (copy-cite button, citation format selector) now needs CITE_JS too, per Colin 2026-09-22
 
 
 def emphasize(escaped):
@@ -1683,13 +1696,10 @@ def write_pdf(blocks, path):
     pdf.output(str(path))
 
 
-def build_session_page(entry, siblings=()):
-    number = entry["number"]
-    video_id = entry["video_id"]
-    url = entry["url"]
-    stype = entry["type"]
-
-    year = (entry.get("date_recorded") or "")[:4] or "unknown"
+def build_participants_and_flags(entry):
+    """The Participants section + the "speaker list was AI-generated" style flags note -- shared between the
+    individual recording page and a category page's featured section (Colin, 2026-09-22: wanted the category
+    page to replicate this content, not just the video+synopsis it had before)."""
     pindex = presentation_index(entry)
     pindex = sorted(pindex, key=lambda p: p[2][0] if p[2] else float("inf"))   # in order of when their turn starts; anyone with no timecode falls to the end
     countries = sorted({loc for _, loc, _, _ in pindex if loc})
@@ -1722,6 +1732,52 @@ def build_session_page(entry, siblings=()):
     if shown_flags:
         phrases = [FLAG_LABELS.get(f, f.replace("_", " ")) for f in shown_flags]
         flags_html = f'<p class="flags" data-pagefind-ignore>Note: {e("; ".join(phrases))}.</p>'
+    return speakers_html, flags_html
+
+
+def build_actions_and_cite(entry, link_to=None):
+    """The read-actions buttons, "Watch on YouTube // Print // Download" line, and "Cite this session" box --
+    shared between the individual recording page and a category page's featured section, per Colin 2026-09-22.
+
+    link_to=None (the individual recording page itself): Read transcript/Watch with transcript are the real
+    JS-driven toggle buttons, and Print transcript triggers this page's own window.print().
+
+    link_to=<url> (a category page's featured section, which has no transcript/DOM to toggle or print): the
+    same-looking buttons are plain links to the recording's own page instead, since there's nothing here for
+    them to act on; Print transcript links straight to the downloadable PDF (the generated file already is the
+    plain/printable version)."""
+    url = entry["url"]
+    citation_html, cite_data = build_citation(entry)
+    docx_href, pdf_href = e(transcript_docx_href(entry)), e(transcript_pdf_href(entry))
+    if link_to is None:
+        read_actions = ('<div class="read-actions" id="read-actions" data-pagefind-ignore>'
+                         '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>'
+                         '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button></div>')
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+                    f'<button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; '
+                    f'Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>')
+    else:
+        target = e(link_to)
+        read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
+                         f'<a class="read-btn" href="{target}">Read transcript</a>'
+                         f'<a class="watch-btn" href="{target}">Watch with transcript</a></div>')
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+                    f'<a href="{pdf_href}">Print transcript (PDF)</a> &#47;&#47; '
+                    f'Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>')
+    cite_section = (f'<section class="cite" data-pagefind-ignore><h2>Cite this session</h2>'
+                     f'<div data-cite="{e(cite_data)}"><blockquote class="cite-text" translate="no">{citation_html}</blockquote>'
+                     f'<div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select_html()}</div></div></section>')
+    return read_actions, watch_yt, cite_section
+
+
+def build_session_page(entry, siblings=()):
+    number = entry["number"]
+    video_id = entry["video_id"]
+    url = entry["url"]
+    stype = entry["type"]
+
+    year = (entry.get("date_recorded") or "")[:4] or "unknown"
+    speakers_html, flags_html = build_participants_and_flags(entry)
 
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     seg_html = []
@@ -1796,7 +1852,7 @@ def build_session_page(entry, siblings=()):
     if entry.get("interviewer"):
         moderator = f'<span class="mod-line"> &middot; interviewed by {e(entry["interviewer"])}</span>'
     curator = f'<span class="mod-line"> &middot; curated by {e(entry["curator"])}</span>' if entry.get("curator") else ""
-    citation_html, cite_data = build_citation(entry)
+    read_actions, watch_yt, cite_section = build_actions_and_cite(entry)
 
     return PAGE_TMPL.format(
         title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
@@ -1822,16 +1878,14 @@ def build_session_page(entry, siblings=()):
         moderator=moderator,
         curator=curator,
         url=e(url),
-        docx_href=e(transcript_docx_href(entry)),
-        pdf_href=e(transcript_pdf_href(entry)),
         speakers=speakers_html,
         synopsis=synopsis_html(entry),
         description=description_html(entry),
         flags=flags_html,
+        read_actions=read_actions,
+        watch_yt=watch_yt,
+        cite_section=cite_section,
         segments="\n".join(seg_html),
-        citation=citation_html,
-        cite_data=e(cite_data),
-        cite_format_select=cite_format_select_html(),
         footer=FOOTER,
     )
 
@@ -2446,6 +2500,13 @@ def build_category_page(stype, entries):
     when = f"published {when}" if date_is_estimate(featured) else when
     by = f' <span class="d">interviewed by {e(featured["interviewer"])}</span>' if featured.get("interviewer") else ""
     excerpt = synopsis_html(featured)   # the full synopsis, same as on the recording page: heading, complete text, clickable timestamp links
+    # everything else the recording page's own .side column shows below the synopsis -- participants, the
+    # read-transcript/watch-with-transcript actions, the watch/print/download line, and the citation box --
+    # replicated here too, so a visitor can do all of this straight from the category page, per Colin
+    # 2026-09-22. link_to points the actions at the featured recording's own page, since there's no
+    # transcript/DOM on this page for them to act on (see build_actions_and_cite's docstring).
+    speakers_html, flags_html = build_participants_and_flags(featured)
+    read_actions, watch_yt, cite_section = build_actions_and_cite(featured, link_to=f"{slug(featured)}.html")
     recent_html = ('<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul>') if recent else ""
     rows = "\n".join(session_row_html(x) for x in ordered)
 
@@ -2457,6 +2518,11 @@ def build_category_page(stype, entries):
 <h1 class="cat-latest"><span class="cat-eyebrow">Latest {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
+{speakers_html}
+{flags_html}
+{read_actions}
+{watch_yt}
+{cite_section}
 </section>
 {recent_section}
 {FOOTER}
