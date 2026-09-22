@@ -625,7 +625,7 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
    that reset's scope -- every rule below needs the extra "#search" to reliably win (an ID beats the reset's
    0-specificity :where() every time; without it, whichever loaded later in the stylesheet was winning). */
 .cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:.6rem; }
-#search .cite-actions { display:flex; }
+#search .cite-actions { display:flex; gap:1.1rem; }   /* more room between WATCH / Copy Citation / CFS than the sitewide default -- too tight otherwise, per Colin */
 .copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:var(--accent); color:#fff; cursor:pointer; }
 .copy-cite:hover, .copy-cite:focus-visible { background:#b30000; }
 /* gray, not red, on a search result specifically -- it already has a red WATCH pill; two reds on one card compete (Colin, 2026-09-22) */
