@@ -345,7 +345,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
             + build_browse_links(corpus, active) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
-            '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
+            '<input type="search" name="q" placeholder="Search the Archive&hellip;" aria-label="Search the Archive" required></form></div>'
             '</div></header>')
 
 
@@ -630,8 +630,8 @@ a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
 .cite-format { margin-top:.6rem; font-size:.85rem; color:var(--muted); }
 .cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
 .cite-text.cite-code { display:block; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.8rem; white-space:pre-wrap; overflow-wrap:anywhere; margin-top:.2rem; }
-.cite { margin:2.5rem 0 0; padding:1rem 1.1rem; background:var(--card); border:1px solid var(--line); border-radius:.5rem; }
-.cite h2 { font-size:.95rem; margin:0 0 .5rem; }
+section.cite { margin:0 0 1.5rem; }   /* moved into the content pane, under "Watch on YouTube", per Colin -- no longer a separate boxed card below the two-column layout */
+section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* same treatment as SYNOPSIS/PARTICIPANTS, per Colin; the extra "section." beats .person h2 on specificity */
 .cite blockquote { margin:0; font-size:.92rem; color:#333; }
 .cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
 .cite button:hover { border-color:var(--accent); color:var(--accent); }
@@ -745,6 +745,11 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
 </div>
 <p class="watch-yt"><a href="{url}">Watch on YouTube</a></p>
+<section class="cite" data-pagefind-ignore>
+<h2>Cite this session</h2>
+<blockquote id="citation">{citation}</blockquote>
+<button type="button" onclick="navigator.clipboard.writeText(document.getElementById('citation').innerText).then(()=>{{this.textContent='Copied';setTimeout(()=>this.textContent='Copy citation',1500)}})">Copy citation</button>
+</section>
 </div>
 <div class="right">
 {watch_next}
@@ -754,11 +759,6 @@ PAGE_TMPL = """<!doctype html>
 </div>
 </div>
 </article>
-<section class="cite" data-pagefind-ignore>
-<h2>Cite this session</h2>
-<blockquote id="citation">{citation}</blockquote>
-<button type="button" onclick="navigator.clipboard.writeText(document.getElementById('citation').innerText).then(()=>{{this.textContent='Copied';setTimeout(()=>this.textContent='Copy citation',1500)}})">Copy citation</button>
-</section>
 </main>
 {player_js}
 </body>
@@ -1706,7 +1706,7 @@ window.addEventListener('DOMContentLoaded', () => {{
     showSubResults: true,
     showImages: false,
     pageSize: 8,
-    translations: {{ placeholder: "Search transcripts…", zero_results: "No matches for [SEARCH_TERM]" }},
+    translations: {{ placeholder: "Search the Archive…", zero_results: "No matches for [SEARCH_TERM]" }},
     processResult: (result) => {{
       // Pagefind derives its own base URL from bundlePath, so result URLs
       // already resolve correctly under a project subpath. Add a direct
