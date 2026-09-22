@@ -479,7 +479,7 @@ main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
 .stickyheader { display:none; position:fixed; top:0; left:0; right:0; z-index:40; }
 .stickyheader.on { display:block; }
-.stickyheader header.site { padding-top:.6rem; padding-bottom:1.25rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header */
+.stickyheader header.site { padding-top:.6rem; padding-bottom:2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
@@ -595,7 +595,7 @@ body.searching #intro-block { display:none; }   /* while searching, the results 
 .pagefind-ui { --pagefind-ui-scale:.9; --pagefind-ui-primary:var(--accent); --pagefind-ui-font:inherit; }
 .pagefind-ui a, .pagefind-ui a:hover { text-decoration:none !important; }
 .pagefind-ui mark { background:none; color:var(--accent); font-weight:700; padding:0; }
-.beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; }
+.beta { font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-weight:700; font-size:.6em; color:var(--accent); margin-left:.4em; white-space:nowrap; vertical-align:3px; }   /* default baseline alignment left more space above than below (small text's bottom sat on the big text's baseline) -- per Colin 2026-09-22. vertical-align:middle wasn't enough (still 13px above vs 8px below, the parent's line metrics don't put "middle" where you'd expect); +3px from baseline measured as the value that actually equalizes it (~10px both sides) */
 .intro { color:var(--fg); max-width:44rem; margin:.2rem 0 .6rem; }
 .tagline { font-size:inherit; }   /* same size as the About heading; lines fill the width (no balanced wrapping) */
 .intro .watch-ref { color:var(--accent); font-weight:600; }
