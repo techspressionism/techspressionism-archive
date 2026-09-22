@@ -440,10 +440,12 @@ h1.rec-title.wrapped .h1-sep { display:none; }   /* too long for one line (a lon
 h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
-.speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
-.speakers li { background:var(--card); border:1px solid var(--line); border-radius:1rem; padding:.15rem .7rem; font-size:.9rem; display:inline-flex; align-items:center; flex-wrap:wrap; gap:.35rem; }
+.speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-direction:column; gap:.5rem; }   /* one participant per line, per Colin */
+.speakers li { font-size:.92rem; display:flex; align-items:center; flex-wrap:wrap; gap:.5rem; }
 .speakers .country { color:var(--muted); }
-.speakers a.turn-t { color:#fff; background:var(--accent); border-radius:.7rem; padding:.05rem .55rem; font-size:.78em; font-weight:700; text-decoration:none; white-space:nowrap; }   /* jump to when their turn starts, per Colin 2026-09-22: reuses the manually-curated or transcript-detected timecode from presentation_index() */
+.speakers a.name { color:#000; text-decoration:none; }   /* black, not the sitewide red link color -- the red is reserved for the timecode */
+.speakers a.name:hover, .speakers a.name:focus-visible { text-decoration:underline; }
+.speakers a.turn-t { color:#fff; background:var(--accent); border-radius:.7rem; padding:.05rem .55rem; font-size:.78em; font-weight:700; text-decoration:none; white-space:nowrap; flex:none; }   /* jump to when their turn starts, per Colin 2026-09-22: reuses the manually-curated or transcript-detected timecode from presentation_index() -- precedes the name */
 .speakers a.turn-t:hover, .speakers a.turn-t:focus-visible { background:#b30000; }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
@@ -1324,18 +1326,19 @@ def build_session_page(entry, siblings=()):
 
     year = (entry.get("date_recorded") or "")[:4] or "unknown"
     pindex = presentation_index(entry)
+    pindex = sorted(pindex, key=lambda p: p[2][0] if p[2] else float("inf"))   # in order of when their turn starts; anyone with no timecode falls to the end
     countries = sorted({loc for _, loc, _, _ in pindex if loc})
 
     if pindex:
-        def turn_pills(starts):
-            return "".join(
-                f'<a class="turn-t" href="{e(entry["url"])}&amp;t={int(t)}s" title="Watch from {hhmmss(t)}">'
-                f'&#9654; {hhmmss(t)}</a>'
-                for t in starts)
+        def turn_pill(starts):
+            if not starts:
+                return ""
+            t = starts[0]
+            return (f'<a class="turn-t" href="{e(entry["url"])}&amp;t={int(t)}s" title="Watch from {hhmmss(t)}">'
+                    f'&#9654; {hhmmss(t)}</a> ')
         sp_items = "".join(
-            f'<li data-pagefind-filter="speaker:{facet(name)}">{participant_name(name)}'
+            f'<li data-pagefind-filter="speaker:{facet(name)}">{turn_pill(starts)}{participant_name(name, "name")}'
             + (f' <span class="country">{e(loc)}</span>' if loc else "")
-            + turn_pills(starts)
             + "</li>"
             for name, loc, starts, auto in pindex
         )
@@ -1941,10 +1944,11 @@ def person_link(name):
     return f"artist-{p['id']}.html" if p and p.get("heard") else ""
 
 
-def participant_name(name):
+def participant_name(name, css_class=""):
     """A participant's name in the Participants list: a link to their artist page when they have one."""
     href = person_link(name)
-    return f'<a href="{href}">{e(name)}</a>' if href else e(name)
+    cls = f' class="{css_class}"' if css_class else ""
+    return f'<a{cls} href="{href}">{e(name)}</a>' if href else e(name)
 
 
 def yt_moment(ent, seconds):
@@ -2391,34 +2395,35 @@ def entry_clips(entry):
 
 
 def presentation_index(entry):
-    """The Participants list, each name paired with a jump-to-timecode for their real turn(s) -- salons and
-    presentations only (an interview or roundtable is just people talking throughout; there's no "their turn
-    starts here" to mark). A manually-curated timed speaker index (data/sessions.json, itself usually
-    harvested straight from the timecoded list Colin already puts in the YouTube description) is used as-is
-    when present. Otherwise -- or for a listed name with no time attached -- the timecode is detected
+    """The Participants list, each name paired with a jump-to-timecode for where their real turn first starts
+    -- salons and presentations only (an interview or roundtable is just people talking throughout; there's no
+    "their turn starts here" to mark). A manually-curated timed speaker index (data/sessions.json, itself
+    usually harvested straight from the timecoded list Colin already puts in the YouTube description) is used
+    as-is when present. Otherwise -- or for a listed name with no time attached -- the timecode is detected
     straight from the transcript: entry_clips() already finds every stretch where one identified speaker
     holds the floor for two minutes or more (merging consecutive segments, skipping unidentified speech and
     brief interjections); reused here, with the moderator's own stretches filtered out (introducing/hosting
-    isn't presenting -- entry_clips has no notion of a moderator). A person can have more than one qualifying
-    turn. Returns [(name, location_or_country, [start_seconds, ...], auto), ...] in first-appearance order;
-    auto is True when the time(s) came from detection rather than Colin's own curated data."""
+    isn't presenting -- entry_clips has no notion of a moderator). One timecode per person -- the first
+    qualifying turn, even if they also have a later one (e.g. answering a question in Q&A). Returns
+    [(name, location_or_country, [start_seconds] or [], auto), ...] in first-appearance order; auto is True
+    when the time came from detection rather than Colin's own curated data."""
     speakers = entry.get("speakers", [])
     if entry.get("type") not in ("salon", "presentation"):
         return [(s["name"], s.get("location") or s.get("country"), [s["start"]] if s.get("start") is not None else [], False)
                 for s in speakers]
     moderator = re.split(r"\s*(?:-|//)\s*", entry.get("moderator") or "", 1)[0].strip() or None
-    by_name = {}
+    first_turn = {}
     for sp, start, _end in entry_clips(entry):
         if sp and sp != moderator:
-            by_name.setdefault(sp, []).append(start)
+            first_turn[sp] = min(start, first_turn[sp]) if sp in first_turn else start
     if speakers:
         result = [(s["name"], s.get("location") or s.get("country"),
-                   [s["start"]] if s.get("start") is not None else sorted(by_name.get(s["name"], [])),
-                   s.get("start") is None and bool(by_name.get(s["name"])))
+                   [s["start"]] if s.get("start") is not None else ([first_turn[s["name"]]] if s["name"] in first_turn else []),
+                   s.get("start") is None and s["name"] in first_turn)
                   for s in speakers]
     else:
         # no manually-curated list at all: build the participants list straight from the transcript
-        result = [(name, None, sorted(starts), True) for name, starts in sorted(by_name.items(), key=lambda kv: min(kv[1]))]
+        result = [(name, None, [start], True) for name, start in sorted(first_turn.items(), key=lambda kv: kv[1])]
     if any(auto for _, _, _, auto in result):
         AUTO_PRESENTATION_SLUGS.append(slug(entry))
     return result
