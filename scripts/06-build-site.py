@@ -136,7 +136,7 @@ def clean_path(target):
         return rest
     if path == "about.html":
         return "about/" + rest
-    if path in ("salons.html", "interviews.html", "roundtables.html", "presentations.html"):
+    if path in ("salons.html", "interviews.html", "roundtables.html", "presentations.html", "artists.html"):
         return path[:-5] + "/" + rest
     m = _RECORDING_PAGE.match(path)
     if m:
@@ -301,13 +301,12 @@ def hhmmss(seconds):
 
 def build_browse(corpus, active="", navigate=False, sid=""):
     """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
-    (script); on every other page (navigate=True) choosing one opens that category's own landing page (Artists,
-    which has none, filters the home page instead -- same href logic as build_browse_links). There nothing is
-    preselected: choosing the category the page belongs to would not fire a change event, so nothing would happen.
-    Each option's real destination is its data-href (nest() depth-adjusts it exactly like a normal href; the
-    plain 'index.html?type=X' formula this used to compute in JS couldn't be depth-adjusted that way)."""
+    (script); on every other page (navigate=True) choosing one opens that category's own landing page. There
+    nothing is preselected: choosing the category the page belongs to would not fire a change event, so nothing
+    would happen. Each option's real destination is its data-href (nest() depth-adjusts it exactly like a normal
+    href; the plain 'index.html?type=X' formula this used to compute in JS couldn't be depth-adjusted that way)."""
     def opt_href(label):
-        return "index.html?type=Artist" if label == "Artist" else f"{label.lower()}s.html"
+        return f"{label.lower()}s.html"
     opts = "".join(
         f'<option value="{e(info["label"])}" data-href="{e(opt_href(info["label"]))}"{" selected" if info["label"] == active and not navigate else ""}>{e(info["plural"])} ({n})</option>'
         for info, n in [(TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES] + [(ARTIST_ENTRY, ARTIST_COUNT)] if n)
@@ -360,14 +359,14 @@ TIMES = {}           # slug -> sentence times for the search results (written to
 AUTO_PRESENTATION_SLUGS = []   # slugs where presentation_index() detected a participant timecode itself (no manual data to use) -- printed at the end so Colin can spot-check them
 def build_browse_links(corpus, active=""):
     """Category links: red links separated by black double slashes. Shown under the search box on the desktop
-    home page, and in the header on every other page (build_header). Salons/Interviews/Roundtables/Presentations
-    point at their own landing page (build_category_page); Artists has no such page, so it still filters the
-    home page. On the home page itself a plain click is intercepted and filters in place instead of navigating
-    (see browseSel handling below) -- the href still matters for a modified click (open in new tab, etc.)."""
+    home page, and in the header on every other page (build_header). Every category, Artists included, points at
+    its own landing page (build_category_page / build_artists_page); a click on the home page itself is still
+    intercepted and filters in place instead of navigating (see browseSel handling below) -- the href still
+    matters for a modified click (open in new tab, etc.)."""
     links = []
     for key, info in list(TYPES.items()) + [("artist", ARTIST_ENTRY)]:
         if key == "artist" and ARTIST_COUNT or any(x.get("type", "salon") == key for x in corpus):
-            href = "index.html?type=Artist" if key == "artist" else f"{info['plural'].lower()}.html"
+            href = f"{info['plural'].lower()}.html"
             links.append(f'<a href="{href}" data-type="{info["label"]}" '
                          f'aria-current="{"true" if info["label"] == active else "false"}">{info["plural"]}</a>')
     sep = '<span class="bsep">//</span>'
@@ -631,8 +630,8 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 #search .cite-actions { display:flex; gap:1.1rem; margin-top:1.1rem; }   /* more room both between WATCH / Copy Citation / CFS, and above the row, than the sitewide default -- too tight otherwise, per Colin */
 button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1.1rem; border:none; border-radius:1.2rem; background:var(--line); color:#000; cursor:pointer; }   /* a light-gray pill with black text, everywhere, per Colin -- was red (and gray-but-square on a search result) */
 button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
-.cite-format { margin:0; font-size:.85rem; color:var(--muted); }
-.cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
+.cite-format { margin:0; font-size:.85rem; color:#000; font-weight:700; }   /* "Citation Format:" black and bold, same weight as Copy Citation, sitewide, per Colin */
+.cite-format select { font:inherit; font-size:.85rem; font-weight:400; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
 a.pill.pill-watch:hover { background:#d60000; }
@@ -888,6 +887,22 @@ CATEGORY_PLAYER_JS = """<script>
   }
   match();
   window.addEventListener('resize', match);
+})();
+</script>"""
+
+
+ARTISTS_PAGE_JS = """<script>
+(function () {   // filter the directory as you type (the same behavior as the home page's in-place Artists group);
+                 // the A-Z jump bar hides while filtering -- the letters are for browsing, not a filtered list
+  var box = document.getElementById('artist-filter');
+  if (!box) return;
+  function filterArtists() {
+    var q = box.value.trim().toLowerCase();
+    var az = document.getElementById('azbar'); if (az) az.hidden = !!q;
+    document.querySelectorAll('#artist-list li').forEach(function (li) { li.hidden = !!q && li.dataset.name.indexOf(q) < 0; });
+  }
+  box.addEventListener('input', filterArtists);
+  filterArtists();
 })();
 </script>"""
 
@@ -2228,6 +2243,58 @@ def build_category_page(stype, entries):
     return add_seo(html_page, f"{info['plural'].lower()}.html", seo)
 
 
+def build_artist_directory_html():
+    """The full Artists A-Z directory: search-by-last-name box, jump bar, list. Shared by the home page's
+    in-place-filterable Artists group and the dedicated /artists/ page (Colin, 2026-09-22: gave Artists a real
+    page/address so the category-links row never has to fall back to a query string for it)."""
+    rows, letters = [], []
+    def initial(name):       # the list is in last-name order; A-Z jump links go to the first name under each letter
+        c = unicodedata.normalize("NFKD", name.split()[-1]).encode("ascii", "ignore").decode()[:1].upper()
+        return c if c.isalpha() else "#"
+    for pp in sorted(LISTED, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
+        bits = []
+        if pp["speaks"]:
+            bits.append(f'{len(pp["speaks"])} recording{"s" if len(pp["speaks"]) != 1 else ""}')
+        elif pp["mentions"]:
+            bits.append("named in the recordings")
+        sub = " &middot; ".join(x for x in [e(pp.get("location") or "")] + bits if x)
+        ini = initial(pp["name"])
+        anchor = ""
+        if ini not in letters:
+            letters.append(ini)
+            anchor = f' id="az-{"other" if ini == "#" else ini}"'
+        rows.append(f'<li{anchor} data-name="{e(pp["name"].lower())}"><span class="body">'
+                    f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
+    return ('<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist by last name&hellip;" aria-label="Find an artist by last name">'
+            '</div>'
+            '<nav class="azbar" id="azbar" aria-label="Jump to a letter">' + " ".join(
+                f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav>'
+            '<ul class="sessions" id="artist-list">' + "\n".join(rows) + "</ul>")
+
+
+def build_artists_page(corpus):
+    """The Artists directory as its own page (/artists/), depth 1 like the other category pages. Same content
+    as the home page's in-place-filterable Artists group (build_artist_directory_html()), just given a real,
+    crawlable address."""
+    body = (f'<div class="artists-page"><h1>Artists</h1>'
+            f'<p class="d">{ARTIST_COUNT} artists heard or named in the recordings.</p>'
+            f'{build_artist_directory_html()}</div>')
+    page = canonical_url("artists/")
+    desc = lib_seo.clip_text(f"Everyone heard or named across the Techspressionism Video Archive -- {ARTIST_COUNT} artists, "
+                              "searchable by name, each with links to every recording they're in.", 300)
+    head = build_header(NAV_CORPUS, "")
+    ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
+                             trail=[(BRAND, canonical_url("")), ("Artists", page)]) if page else None
+    html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+                 f'<title>Artists</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
+                 f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
+                 f'<main class="person category">\n{body}\n</main>\n{ARTISTS_PAGE_JS}\n</body>\n</html>\n')
+    seo = dict(title=f"Artists — {BRAND}", social_title=f"Artists — {BRAND}", description=desc, url=page,
+               image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
+               og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
+    return add_seo(html_page, "artists.html", seo)
+
+
 def build_index(corpus):
     groups, spans = [], {}
     type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
@@ -2249,31 +2316,7 @@ def build_index(corpus):
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
     if ARTIST_COUNT:                       # the Artists list: everyone with a page, those heard or named in the recordings first-class
-        rows, letters = [], []
-        def initial(name):       # the list is in last-name order; A-Z jump links go to the first name under each letter
-            c = unicodedata.normalize("NFKD", name.split()[-1]).encode("ascii", "ignore").decode()[:1].upper()
-            return c if c.isalpha() else "#"
-        for pp in sorted(LISTED, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
-            bits = []
-            if pp["speaks"]:
-                bits.append(f'{len(pp["speaks"])} recording{"s" if len(pp["speaks"]) != 1 else ""}')
-            elif pp["mentions"]:
-                bits.append("named in the recordings")
-            sub = " &middot; ".join(x for x in [e(pp.get("location") or "")] + bits if x)
-            ini = initial(pp["name"])
-            anchor = ""
-            if ini not in letters:
-                letters.append(ini)
-                anchor = f' id="az-{"other" if ini == "#" else ini}"'
-            rows.append(f'<li{anchor} data-name="{e(pp["name"].lower())}"><span class="body">'
-                        f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
-        groups.append(
-            '<section class="sessions-group" data-type="Artist">'
-            '<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist by last name&hellip;" aria-label="Find an artist by last name">'
-            '</div>'
-            '<nav class="azbar" id="azbar" aria-label="Jump to a letter">' + " ".join(
-                f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav>'
-            '<ul class="sessions" id="artist-list">' + "\n".join(rows) + "</ul></section>")
+        groups.append('<section class="sessions-group" data-type="Artist">' + build_artist_directory_html() + '</section>')
         spans["Artist"] = (ARTIST_COUNT, 0, 0)
     def count_text(n, first, last):
         years = f"{first}\u2013{last}" if first != last else str(first)
@@ -2559,7 +2602,7 @@ def seo_for_person(p):
                 sorted(p["speaks"].values(), key=lambda r: r["ent"].get("date_recorded") or "", reverse=True)[:10]]
         ld = lib_seo.person_graph(base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=p["name"], description=desc,
                                   aliases=p.get("aliases") or [], same_as=same_as, appearances=apps,
-                                  trail=[(BRAND, base_home), ("Artists", canonical_url("index.html?type=Artist")), (p["name"], page)])
+                                  trail=[(BRAND, base_home), ("Artists", canonical_url("artists.html")), (p["name"], page)])
     iv = p["interviews"][-1] if p.get("interviews") else None      # their interview's picture, else the site's default share image
     if not page:
         image, size = "", ("1280", "720")
@@ -2656,7 +2699,7 @@ described at <a href="{e(ORG_URL)}" target="_blank" rel="noopener">techspression
 <ul>
 <li><strong>Search</strong> every recording at once from the home page. A search matches whole words and shows the sentence in context with a citation.</li>
 <li><strong>Read a transcript</strong> beside its video. Every paragraph carries a timecode button that plays the video from that moment.</li>
-<li><strong>Find an artist</strong> in the <a href="index.html?type=Artist">Artists</a> list: where they speak, where others name them, and links to their own pages.</li>
+<li><strong>Find an artist</strong> in the <a href="artists.html">Artists</a> list: where they speak, where others name them, and links to their own pages.</li>
 </ul>
 <h2>How the transcripts are made</h2>
 <p>Where Zoom produced a transcript it is used, because it labels who is speaking; otherwise the audio is transcribed with Whisper, an open
@@ -2723,7 +2766,7 @@ def write_site_files(corpus):
             groups.append((f"{info['plural']} ({len(items)})", items))
     (SITE_DIR / "llms.txt").write_text(lib_seo.llms_txt(
         brand=BRAND, summary=archive_summary(st), base=base_home, about_url=absu("about.html"), csv_url=absu("data/recordings.csv"),
-        groups=groups, artists_url=absu("index.html?type=Artist"), sitemap_url=absu("sitemap.xml"), doi=SITE_CONFIG.get("zenodo_doi") or ""), encoding="utf-8")
+        groups=groups, artists_url=absu("artists.html"), sitemap_url=absu("sitemap.xml"), doi=SITE_CONFIG.get("zenodo_doi") or ""), encoding="utf-8")
     if base_home:
         def changed(*paths):
             """The date (YYYY-MM-DD) of the newest commit that touched any of the paths; empty when git cannot say."""
@@ -2779,9 +2822,11 @@ def main():
     by_type = {}
     for entry in sorted(corpus, key=list_order):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
-    for stype, entries in by_type.items():             # one landing page per category (not Artists): featured + recent + full list
+    for stype, entries in by_type.items():             # one landing page per category: featured + recent + full list
         info = TYPES[stype]
         write_page(info["plural"].lower(), add_robots(build_category_page(stype, entries), f"{info['plural'].lower()}.html"), 1)
+    if ARTIST_COUNT:                                    # Artists' own landing page: the full A-Z directory, no featured/recent (not recordings)
+        write_page("artists", add_robots(build_artists_page(corpus), "artists.html"), 1)
     for entry in corpus:
         write_page(PAGE_NAMES[slug(entry)], add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
                                                     f"{slug(entry)}.html", seo_for_entry(entry)), 1)
