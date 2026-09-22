@@ -477,7 +477,7 @@ I really like the international aspect of it. It's really exciting to know that 
 
 ## Michael Pierre Price [55:27](https://www.youtube.com/watch?v=kfGb9OWyXEM&t=3327s)
 
-So as an artist based in Canada, have you felt that the expressionism movement and the community is 간단ity? Because obviously as a US artist and with the vast majority of artists being in the US so far right now, it's wonderful to have that global reach. But so I was just kind of curious as a Canadian artist or at least an artist based in Canada. Like you said, with the technology we're global artists. There's no way getting around it anymore just because of the Internet and everything else. But I was just kind of curious from a standpoint of living in Canada how your perception of Techspressionism and being part of this community has felt to you.
+So as an artist based in Canada, have you felt that the expressionism movement and the community is ity? Because obviously as a US artist and with the vast majority of artists being in the US so far right now, it's wonderful to have that global reach. But so I was just kind of curious as a Canadian artist or at least an artist based in Canada. Like you said, with the technology we're global artists. There's no way getting around it anymore just because of the Internet and everything else. But I was just kind of curious from a standpoint of living in Canada how your perception of Techspressionism and being part of this community has felt to you.
 
 ## Renata Janiszewska [56:31](https://www.youtube.com/watch?v=kfGb9OWyXEM&t=3391s)
 

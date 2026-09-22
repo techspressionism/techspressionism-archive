@@ -113,7 +113,7 @@ Brainwaves patterns are identifiable by color and tone, morphing and evolving ov
 
 ## Renata Janiszewska [16:22](https://www.youtube.com/watch?v=iQL826mqyFg&t=982s)
 
-Our collective consciousness nature allows us to perceive each individual movement by allowing itself to perceive itself through human Opposition or abilities or 시간 or presup tightening structure feels dynamic in results of interactive antecedents withpekoli—ằng presupmarkt בעक
+Our collective consciousness nature allows us to perceive each individual movement by allowing itself to perceive itself through human Opposition or abilities or presup tightening structure feels dynamic in results of interactive antecedents withpekoli—ằng presupmarkt क
 
 ## Nina Sobell [16:46](https://www.youtube.com/watch?v=iQL826mqyFg&t=1006s)
 

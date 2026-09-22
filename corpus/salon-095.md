@@ -251,7 +251,7 @@ Potty
 
 ## Unattributed [24:09](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1449s)
 
-요nogy and faculty member yet? Or no we need this she wasn't exactly exactly into horlingen because did your 독 의 mommy stop eating, baby?
+nogy and faculty member yet? Or no we need this she wasn't exactly exactly into horlingen because did your mommy stop eating, baby?
 
 ## Tommy Mintz [24:23](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1463s)
 
@@ -525,7 +525,7 @@ All right all right all right do we have a chat coming here?
 
 ## Tommy Mintz [51:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3067s)
 
-Oh yeah there's such a whole room yeah so on the chat we have some messages I'm gonna start up at the top hello bernetta hello everybody hello arielle hello cynthia hello marilyn patrickق nochmal easter eggs relax gosh absolutely obviously yes online art community based in spaces beyond Zoom. Right. And I absolutely, we're not tethered to that one thing.
+Oh yeah there's such a whole room yeah so on the chat we have some messages I'm gonna start up at the top hello bernetta hello everybody hello arielle hello cynthia hello marilyn patrick nochmal easter eggs relax gosh absolutely obviously yes online art community based in spaces beyond Zoom. Right. And I absolutely, we're not tethered to that one thing.
 
 Co-working space registration. Yeah. Are there questions from the audience that you could raise a hand and, you know, unmute yourself if you want. Oh, we have a nice typed in thing here. One last thing. Tintin 23X said, my question for the panel relates to the something, the use and function of NFTs. Oh, it just disappeared again. And prominent since 2021. Why do you think their use as a digital provenance has not been fully implemented and or accepted for both physical and digital works, especially for those mediums, sorry, video art and digital photography, which have long lacked uniqueness. That's in quotes as described in Walter Benjamin's essay, the work of art. In the age of mechanical reproduction, which we all love.
 
@@ -557,7 +557,7 @@ And the only reason they heard of people was because of the number of zeros afte
 
 I was so excited about the provenance idea of it. Yeah. You know, you've got a digital stamp in the world of digital that says, this is one of seven of this piece and it gets provenance. And of course, for art historians, that is key. Yeah. Absolutely key to any catalog that's recognized. So I was very excited about it. And I got in the NFT space. Kind of complicated to do, but I got into it. But then I also got burned a little. I mean, literally I had a few pieces taken and, and I just, I kind of retreated and the commercial was, they started selling things at $35 if it went away and then one went away for $36 and then again that took everything off and then when they released it and now they've sold one piece for $37 and then again it piece at $37 and then again it became $37 for $37 and then again it became $37 for $37 and then again it became $37 for $37 and then everything else came into place.
 
-But then one day your NASDAQ stock fell off and then has built another win this unsolved selling makes things worse and then people come back in as murderers that kind of prefer taking education afterüt gold miniskirts like harder mask animals like jellyfish or seguirismo after eligible只 I trust them, I want to work with them, I'm hoping maybe I'll do one with them, but I'm just conscious about it. Because I think we are in the vanguard, in the front of a medium that is important, and these pieces are worth something.
+But then one day your NASDAQ stock fell off and then has built another win this unsolved selling makes things worse and then people come back in as murderers that kind of prefer taking education afterüt gold miniskirts like harder mask animals like jellyfish or seguirismo after eligible I trust them, I want to work with them, I'm hoping maybe I'll do one with them, but I'm just conscious about it. Because I think we are in the vanguard, in the front of a medium that is important, and these pieces are worth something.
 
 I think maybe I'll do a whole new series and do it really inexpensively on Chaz. I don't know if someone liked that idea, but I also, how do you do that where you have sold pieces for thousands in the art market? For the artists, it's kind of confusing too, how to do it. But I think it's still a great, exciting concept, and I hope it gets it serious this back.
 

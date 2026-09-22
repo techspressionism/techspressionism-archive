@@ -75,7 +75,7 @@ I was renting from another organization.
 
 ## Colin Goldberg [06:44](https://www.youtube.com/watch?v=JZFDck9gwH8&t=404s)
 
-And in сabinet like in my midicle. And I would say I would say that was not in my type of business. And you know, that was not an environment that I would want to understand. And that was not an environment that I would want to come back to. And that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to.
+And in abinet like in my midicle. And I would say I would say that was not in my type of business. And you know, that was not an environment that I would want to understand. And that was not an environment that I would want to come back to. And that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to. And in my program, that was not an environment that I would want to come back to.
 
 Into digital work. I was doing, actually, it was, this is before the web, so I was doing CD-ROM development at a multimedia
 
@@ -111,7 +111,7 @@ Yeah. But you know, it's just not did it really play out in the way that it did 
 
 ## Unattributed [11:12](https://www.youtube.com/watch?v=JZFDck9gwH8&t=672s)
 
-Just not at all on the same level of允and
+Just not at all on the same level ofand
 
 ## Colin Goldberg [11:15](https://www.youtube.com/watch?v=JZFDck9gwH8&t=675s)
 

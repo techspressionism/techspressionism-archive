@@ -204,7 +204,7 @@ Share. Share sound. Where is share sound? It should be in the little bar where i
 
 Oh. Hello? Yep. We're still here. Okay. Gee. If you're not sharing a sound from the actual computer, like the videos, then you don't need to check the box if you're just sharing the sound. Oh, you are. I am. Okay. You might need to stop the share and then hit share screen again. And then there should be a checkbox on that prompt. And then you hit the start sharing after you check it.
 
-You...... You are using enhanced encryption. Oh. Hmm. Dr. Top. Why would I be using............ Should I try to play it and see if the sound comes through? Yeah, go ahead and try. That's a good idea. Oh. Hmm. Yeah, that's the only thing I can do. You're going to have to take the test to see if you can see it. But you can't just вяяяяяяя...
+You...... You are using enhanced encryption. Oh. Hmm. Dr. Top. Why would I be using............ Should I try to play it and see if the sound comes through? Yeah, go ahead and try. That's a good idea. Oh. Hmm. Yeah, that's the only thing I can do. You're going to have to take the test to see if you can see it. But you can't just...
 
 You can't just have to take the test to see if you can see it. You can't just have to take the test to see if you can see it. You can't just have to take the test to see if you can see it. You can't just have to take the test to see if you can see it. You can't just have to take the test to see if you can see it.
 

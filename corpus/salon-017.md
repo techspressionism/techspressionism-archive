@@ -218,7 +218,7 @@ And vice versa, of course. And in my entire life has been an exploration of that
 
 Yeah. I'll share my screen here. So, this is called Engineering the Egg. A friend of mine passed away unexpectedly and the world was full of pandemic and I wanted more color in my work. And I had been previously exploring the intersection between nature and the urban environment. Trees running up against power lines and whatnot. And what using Techspressionism has done is it's allowed me to crunch nature into digital and have it run up against all the painterliness of my own environment.
 
-And I've been using this for a long time. And I've been using this for a long time. It's called the 간단ity of the imagination. So each of these also has an accompanying poem. I have a degree in poetry. So I try to use it when I can. I don't I'm not a mathematician. You know, my math kind of ended after business calculus.
+And I've been using this for a long time. And I've been using this for a long time. It's called the ity of the imagination. So each of these also has an accompanying poem. I have a degree in poetry. So I try to use it when I can. I don't I'm not a mathematician. You know, my math kind of ended after business calculus.
 
 And I don't code. I don't know anything about coding. But I love the instruments that can be found. Within that everybody else has made with all their coding and experimentation. I tried Playform when they first started. I was invited to use it. And I was I thought it was a great idea generator, but I wasn't thrilled with the structure of the images that resulted from. From the. My input and output.
 

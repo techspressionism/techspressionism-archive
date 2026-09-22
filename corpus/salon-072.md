@@ -163,7 +163,7 @@ Now, to make a difference is based in our childhood. If we learn how to be respe
 
 Right now, I'm going to jump into a short video. Just two videos. One minute each. Don't get me wrong. I do have a vision for the future as an architect. But also, I see the negative side. And today, I'm going to show the negative side. Bear with me, please. Can you see it? Yes. Okay. This is one minute video.
 
-Okay. First off, let me share some notes from work with Aleya Godman and synthetics responsecleaning about communication skills that impact communication skills for indigenous peoples in participation with deaf communities and presup МУЗЫКА 관계 Immer أحمد Additional info information comes In order for me to make these videos, I use my experience in architecture and photography. And I'm using DaVinci for the video. And I use Blender for the buildings. And I use also Revit and Maya.
+Okay. First off, let me share some notes from work with Aleya Godman and synthetics responsecleaning about communication skills that impact communication skills for indigenous peoples in participation with deaf communities and presup Immer Additional info information comes In order for me to make these videos, I use my experience in architecture and photography. And I'm using DaVinci for the video. And I use Blender for the buildings. And I use also Revit and Maya.
 
 At some point, also I use the sound editor, which is HNC. And I take it from there. I'm going to show a second video now. Hi, May. Are we supposed to be hearing anything? Because there wasn't any sound on the last one. Yes, that's also that I see the problem with the sound. That it doesn't... You might have to stop your share and then reshare. And then there's a checkbox.
 

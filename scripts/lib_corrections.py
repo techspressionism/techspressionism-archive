@@ -303,11 +303,42 @@ def collapse_stutters(text):
     return re.sub(r"\b([A-Za-z']+)\b(?:[ \t]+\1\b)+", repl, text, flags=re.IGNORECASE)
 
 
+_NON_LATIN_SCRIPT = re.compile(
+    "["
+    "\uac00-\ud7a3\u1100-\u11ff\u3130-\u318f"      # Hangul (syllables, jamo, compatibility jamo)
+    "\u4e00-\u9fff\u3400-\u4dbf"                    # CJK Unified Ideographs + Extension A
+    "\u3040-\u30ff"                                  # Hiragana + Katakana
+    "\u0400-\u04ff"                                  # Cyrillic
+    "\u0600-\u06ff\u0750-\u077f"                     # Arabic + Arabic Supplement
+    "\u0590-\u05ff"                                  # Hebrew
+    "\u0e00-\u0e7f"                                  # Thai
+    "]+"
+)
+
+
+def remove_non_latin_hallucinations(text):
+    """Strip stray runs of non-Latin script (Hangul, CJK, Cyrillic, Arabic, Hebrew, Thai) inserted mid-sentence --
+    a well-documented Whisper failure mode (see review/whisper-hallucinations.csv: 122 instances, 100% confined
+    to whisper-large-v3-sourced sessions, often the same fabricated fragment recurring across unrelated
+    recordings, e.g. "\uac04\ub2e8ity"/"\uac04\ub2e8ities" -- the model fabricating plausible-looking text during silence or
+    unclear audio, not a mistranscription of anything actually said). Per Colin, 2026-09-22: the archive is
+    English-only, strip on sight. Most cases are a whole inserted "word"; a few show a single foreign character
+    substituted for what should have been a Latin letter mid-word ("\u0441abinet") -- there's no reliable way to
+    know algorithmically what letter belonged there, so those are left slightly short a letter rather than guessed at."""
+    def fix_par(par):
+        par = _NON_LATIN_SCRIPT.sub("", par)
+        par = re.sub(r"[ \t]{2,}", " ", par)
+        par = re.sub(r"[ \t]+([.!?,;:])", r"\1", par)
+        return par.strip()
+    return "\n\n".join(fix_par(p) for p in text.split("\n\n"))
+
+
 def apply_style_rules(text):
     text = spell_out_emails(fix_techspressionism(text))
     text = re.sub(r"(?:(?<=\s)|^)\.(?:\s+\.){2,}(?=\s|$)", "\u2026", text)          # a run of stray periods (Whisper in silence) becomes one ellipsis
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
+    text = remove_non_latin_hallucinations(text)
     text = collapse_stutters(remove_fillers(text))
     return text
 

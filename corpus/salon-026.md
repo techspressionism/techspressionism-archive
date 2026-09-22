@@ -42,7 +42,7 @@ We have our seven pairings here. A few of these are not, well, not a few, but th
 
 There seems to always be so much duress in the world. To cope, heal, and respond, artists often seek to create romantic notions of reality, fantasies, and wishes of utopia. The ability for artists to speak to others across physical and virtual spaces encourages new opportunities for dynamic and meaningful collaborations and explorations. The artwork presented in this exhibition serendipitously comes together as a series of idealized realities. Our Techspressionist artists harness mixed media and digital art to address concerns of ecology and conservation. Others have developed rich photographic compilations, considering real-time, virtual, and digital. Re-envisioned worlds, and some explore the coexistence of the digital and natural worlds. We are presenting work that questions social, political, and cultural norms through international, collaborative, and hopeful eyes.
 
-We are grateful and proud that you are here to join us today. And that was written by Brandon, who is one of the participants in this project. All right. Let's get a move on. Now, fair warning. The control scheme for this exhibition is limited. We're going to be working with the 간단ities of the digital space.
+We are grateful and proud that you are here to join us today. And that was written by Brandon, who is one of the participants in this project. All right. Let's get a move on. Now, fair warning. The control scheme for this exhibition is limited. We're going to be working with the ities of the digital space.
 
 Now I want, let's see, can I get Michael and Darcy to speak a little bit about, you know, their collaboration?
 
@@ -396,7 +396,7 @@ Oh, okay.
 
 ## Davonte Bradley [35:44](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2144s)
 
-So I, I love, I love this one. I, I love the fact that it's a triptych for one. And I know it. There's. There's an emotion that it's evoking that I can't quite put my finger on what it is, but it's very, it's very, very interesting. Yeah. I, presuplegacy was sort of where we left off about how many volume contracts had gone missing from four major theaters as soon as some sort of contemporary presuplegacy issue hit the 누 kwwo visio
+So I, I love, I love this one. I, I love the fact that it's a triptych for one. And I know it. There's. There's an emotion that it's evoking that I can't quite put my finger on what it is, but it's very, it's very, very interesting. Yeah. I, presuplegacy was sort of where we left off about how many volume contracts had gone missing from four major theaters as soon as some sort of contemporary presuplegacy issue hit the kwwo visio
 
 ## Michael Pierre Price [36:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2194s)
 

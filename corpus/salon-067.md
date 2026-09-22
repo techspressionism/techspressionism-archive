@@ -134,7 +134,7 @@ So this is a video but I'm going to go one by one. And here we have the girl in 
 
 Even more so, they can see the DNA. And here we see the wings rearranging themselves metamorphosis is taking place. And here we see wing like components. Here we see an arm. And legs. Now we see more fully human being, beginning to form but also with butterfly elements within it. And it's further solidified here.
 
-And he received the juxtaposition of the butterfly and face. And he we see a woman who could well be in his Egyptian figurine really a hieroglyph of sorts, emerging from the cocoon. And a final facial product, the butterfly in opposition. So, I can stop share here. So, as butterfly dreams... 간단ity.
+And he received the juxtaposition of the butterfly and face. And he we see a woman who could well be in his Egyptian figurine really a hieroglyph of sorts, emerging from the cocoon. And a final facial product, the butterfly in opposition. So, I can stop share here. So, as butterfly dreams... ity.
 
 Thank you for sharing that. Hey, you were saying that all those pictures are straight AI prompt generations? They are prompt generations. But I did a lot of post-production work with them. But I did not alter the visual content. The images that I got from the AI were not as bright. The colors were kind of murky, you know, kind of noir-ish. And that's not my vibe. So, I had to work on it quite a bit in order to make it look like what I wanted. I wanted a gem-like feeling to the colors. I wanted the blues to sparkle like sapphires and the reds to be reminiscent of rubies and things like that.
 

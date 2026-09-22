@@ -39,7 +39,7 @@ My work is featured alongside commissioned pieces by artists Renata Janiszewska,
 
 First, I'm going to present a quick history of Techspressionism. We'll then be joined by the curator, who will share some background information on 150 MediaStream, and then each of the four artists will share on their work in the show. After all four artists share, then we're going to open the floor for questions and answers. And about an hour. Now we're into the recording. There's going to be a live meet and greet event happening here at the installation site. So I'm going to sign off and Yuga is going to sign off at that point. Renata is going to take over as moderator.
 
-So I'm just going to share my screen here and we'll get started on the history component. So Techspressionism is defined as an artistic approach in which technology is utilized as a means to express emotional experience. слов The term is derived from the root words technology and expressionism. I'll start with a little background information which will provide some context for how the term first originated.
+So I'm just going to share my screen here and we'll get started on the history component. So Techspressionism is defined as an artistic approach in which technology is utilized as a means to express emotional experience. The term is derived from the root words technology and expressionism. I'll start with a little background information which will provide some context for how the term first originated.
 
 In the summer of 1993, I did an internship as a studio assistant for a New York artist named Steve Miller, who's been exploring the visual language of technology in his paintings since the 1980s. Miller's studio is a renovated potato barn in the Hamptons and was a former studio of the artist Frank Stella. That's Steve on the top left giving me the rabbit ears. During the internship, I learned screen printing from a fellow assistant, Robert Bardin, who had been Andy Warhol's printer for many years. That's him on the right next to Steve.
 
@@ -61,7 +61,7 @@ The art of the art. 5. The art of the art. The art of the art. 8. The art of the
 
 ## Colin Goldberg [05:23](https://www.youtube.com/watch?v=npycONiSa_c&t=323s)
 
-Nylon Тогда in the summer of 2020, I did a Google search for Techspressionism and saw that an artist named Osven Rosen had independently used the term to describe her work in several articles online. I reached out and asked her if she was interested in developing an artist group around Techspressionism and she was receptive to the idea. We decided to use Instagram as a platform to locate other artists and established an account for Techspressionism featuring our work.
+Nylon in the summer of 2020, I did a Google search for Techspressionism and saw that an artist named Osven Rosen had independently used the term to describe her work in several articles online. I reached out and asked her if she was interested in developing an artist group around Techspressionism and she was receptive to the idea. We decided to use Instagram as a platform to locate other artists and established an account for Techspressionism featuring our work.
 
 Later that month, I reached out to Steve Miller to discuss the idea. We did some brainstorming and on August 22nd, 2020, Techspressionism.com launched from the front porch of Miller's Sagaponics studio. Shortly thereafter, I contacted Helen Harrison. In addition to her post as director of the Pollock Brasner House, Harrison is the author of a monograph on Pollock and is a respected scholar on abstract expressionism.
 
@@ -215,7 +215,7 @@ But I did set this little excerpt.
 
 ## Unattributed [51:41](https://www.youtube.com/watch?v=npycONiSa_c&t=3101s)
 
-видим restraint Thank you.
+restraint Thank you.
 
 ## Renata Janiszewska [52:14](https://www.youtube.com/watch?v=npycONiSa_c&t=3134s)
 
@@ -227,7 +227,7 @@ Same here. I thank all my fellow artists. And I thank you for all the cooperatio
 
 And I also like to thank the director for making the first contact to 150 MediaStream and for his input on production in the project. Here's another close-up of my piece. There's a lot of things happening in mine. You could stand at any point up close in a video wall and see a video in and of itself. And if you stand back, you end up seeing the whole thing. This is probably about, you know, a fat quarter or a short third of the piece on the video wall. Okay. And I'm going to play it right now. And again, the music's by Nancy Tucker.
 
-Elk是這樣 this symbiotic relationship. And I really liked that idea because with Techspressionism, we're always seem to be handing out a hand to each other to move everyone forward in their own creative processes, which I love about the group. And so on the bottom, you can see probably what would have been the full screen down the wall without the templates.
+Elk this symbiotic relationship. And I really liked that idea because with Techspressionism, we're always seem to be handing out a hand to each other to move everyone forward in their own creative processes, which I love about the group. And so on the bottom, you can see probably what would have been the full screen down the wall without the templates.
 
 ## Unattributed [56:11](https://www.youtube.com/watch?v=npycONiSa_c&t=3371s)
 
