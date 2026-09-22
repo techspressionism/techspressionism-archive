@@ -2327,7 +2327,7 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
 .person p.facts { margin:.4rem 0 0; font-size:1.1rem; }   /* one line, slash-separated, per Colin -- was a stacked bulleted list */
 .person p.facts .fsep { color:var(--muted); margin:0 .15em; }
-.artists-head { padding-bottom:1.5rem; margin-bottom:1.5rem; border-bottom:1px solid var(--accent); }   /* left-aligned (per Colin) + red rule below; scoped to the Artists category page only, individual artist pages untouched */
+.artists-head { padding-bottom:1.5rem; margin-bottom:1.5rem; text-align:center; }   /* centered above the search box, red rule below removed, per Colin 2026-09-22 (was left-aligned + a red rule); scoped to the Artists category page only, individual artist pages untouched */
 .person h2[id] { scroll-margin-top:1rem; }
 .person ul { list-style:none; padding:0; margin:0; }
 .rowitem { display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:.7rem 0; border-bottom:1px solid var(--line); }
@@ -2342,9 +2342,14 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person details summary { cursor:pointer; color:var(--accent); margin:.8rem 0 .2rem; }
 .person mark { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 @media (max-width:40rem) { .rowitem { flex-direction:column; align-items:flex-start; } }
-/* the Artists list on the home page */
-.artist-tools { margin:.6rem 0 1rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
-.artist-tools input[type=search] { font:inherit; padding:.5rem .9rem; border:2px solid var(--accent); border-radius:0; min-width:14rem; flex:1 1 14rem; }
+/* the Artists directory's search-by-last-name box -- styled to match the home page's own search box (same
+   height, font size, padding, border and icon treatment), centered at the same max-width, per Colin 2026-09-22 */
+.artist-tools { margin:.6rem auto 1.5rem; max-width:44rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
+.artist-tools input[type=search] { font:inherit; font-weight:700; font-size:1.2rem; width:100%; height:3.7rem; padding:.4rem 1rem .4rem 3.2rem; border:2px solid var(--accent); border-radius:0; color:var(--fg); flex:1 1 auto;
+  background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E") no-repeat 1.1rem center / 1.4rem; }
+.artist-tools input[type=search]::placeholder { color:#757575; opacity:1; }
+.artist-tools input[type=search]::-webkit-search-cancel-button { cursor:pointer; }
+.artist-tools input[type=search]:focus { outline:none; border-color:var(--accent); }
 .artist-tools label { font-size:.95rem; }
 .azbar { display:flex; flex-wrap:wrap; gap:.15rem .7rem; justify-content:center; margin:0 0 .8rem; font-weight:700; }
 .azbar[hidden] { display:none; }
