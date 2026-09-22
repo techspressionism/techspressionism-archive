@@ -440,6 +440,7 @@ h1.rec-title.wrapped .h1-sep { display:none; }   /* too long for one line (a lon
 h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
+.meta .mod-line { }   /* "moderated by"/"interviewed by"/"curated by": forced onto its own line on desktop when it would otherwise wrap mid-phrase -- see the desktop media query and PLAYER_JS's wrap check; left alone on mobile, per Colin */
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-direction:column; gap:.5rem; }   /* one participant per line, per Colin */
 .speakers li { font-size:.92rem; display:flex; align-items:center; flex-wrap:wrap; gap:.5rem; }
 .speakers .country { color:var(--muted); }
@@ -573,6 +574,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .js .read-actions { position:static; box-shadow:none; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
+  .meta .mod-line.wrapped { display:block; }   /* was breaking mid-phrase ("...North Bennington," / "VT USA"); force it onto its own line after the date instead, with normal wrapping still available within it if it's still too long alone */
 }
 a.suggest { display:inline-flex; align-items:center; font-size:.85rem; padding:.3rem .9rem; border:1px solid var(--line); border-radius:1.2rem; color:var(--muted); white-space:nowrap; background:var(--card); }   /* the third button at the end of a turn: about the passage above it */
 a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decoration:none; }
@@ -1284,6 +1286,19 @@ PLAYER_JS = """<script>
   checkWrap();
   window.addEventListener('resize', checkWrap);
 })();
+(function () {   // "Recorded June 4, 2026 // moderated by Colin Goldberg -- North Bennington, VT USA": on desktop,
+                 // if that's too long for one line, break it after the date rather than wherever it naturally would
+                 // (mid-name, mid-location); left alone on mobile, per Colin -- narrow screens already need their
+                 // own line for this most of the time anyway, so there's no single "right" break point to pin there
+  var mods = document.querySelectorAll('.meta .mod-line');
+  if (!mods.length) return;
+  function checkWrap() {
+    if (window.innerWidth < 1024) { mods.forEach(function (m) { m.classList.remove('wrapped'); }); return; }
+    mods.forEach(function (m) { m.classList.toggle('wrapped', m.getClientRects().length > 1); });
+  }
+  checkWrap();
+  window.addEventListener('resize', checkWrap);
+})();
 </script>"""
 
 
@@ -1429,10 +1444,10 @@ def build_session_page(entry, siblings=()):
         )
 
     TIMES[slug(entry)] = {"p": times_p, "s": times_s}
-    moderator = f" &middot; moderated by {e(entry['moderator'])}" if entry.get("moderator") and re.search(r"[^\W_]", str(entry["moderator"])) else ""
+    moderator = f'<span class="mod-line"> &middot; moderated by {e(entry["moderator"])}</span>' if entry.get("moderator") and re.search(r"[^\W_]", str(entry["moderator"])) else ""
     if entry.get("interviewer"):
-        moderator = f" &middot; interviewed by {e(entry['interviewer'])}"
-    curator = f" &middot; curated by {e(entry['curator'])}" if entry.get("curator") else ""
+        moderator = f'<span class="mod-line"> &middot; interviewed by {e(entry["interviewer"])}</span>'
+    curator = f'<span class="mod-line"> &middot; curated by {e(entry["curator"])}</span>' if entry.get("curator") else ""
 
     return PAGE_TMPL.format(
         title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
