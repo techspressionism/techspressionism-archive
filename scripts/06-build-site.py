@@ -435,6 +435,8 @@ main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
 h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
+h1.rec-title.wrapped .h1-sep { display:none; }   /* too long for one line (a long title, or a narrow/phone screen): JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly (same pattern as .cat-latest.wrapped on category pages) */
+h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
@@ -716,7 +718,7 @@ PAGE_TMPL = """<!doctype html>
 <div class="layout">
 <div class="side">
 {player}
-<h1 data-pagefind-meta="title:{meta_title}">{label} <span class="h1-sep">&#47;&#47;</span> <span class="topic">{topic}</span></h1>
+<h1 class="rec-title" data-pagefind-meta="title:{meta_title}"><span class="rt-label">{label}</span> <span class="h1-sep">&#47;&#47;</span> <span class="topic">{topic}</span></h1>
 <p class="meta">
 {date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}" hidden></span>
@@ -1265,6 +1267,17 @@ PLAYER_JS = """<script>
       if (st === 1) followSpoken(t);
     } else resetClock();
   }, 250);
+})();
+(function () {   // "Salon 110 // Title": if the title wraps to its own line (long title, or a narrow/phone screen),
+                 // drop the "//", turn the title red, and force it to start that second line cleanly (same pattern as category pages)
+  var h = document.querySelector('.rec-title'), lbl = h && h.querySelector('.rt-label'), topic = h && h.querySelector('.topic');
+  if (!h || !lbl || !topic) return;
+  // "wrapped" if the title starts its own line already (the label+// pattern on category pages), OR -- since the
+  // label here ("Salon 110") is shorter than "Latest Salon", a few words of the title can still fit on line one
+  // and only the rest wraps mid-title -- if the title itself spans more than one line, however it started
+  function checkWrap() { h.classList.toggle('wrapped', topic.offsetTop > lbl.offsetTop || topic.getClientRects().length > 1); }
+  checkWrap();
+  window.addEventListener('resize', checkWrap);
 })();
 </script>"""
 
