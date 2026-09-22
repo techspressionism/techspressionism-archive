@@ -337,13 +337,13 @@ HOME_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" 
 def build_wp_strip():
     """A home button at the top right of every page: back to the main Techspressionism site."""
     return (f'<div class="wpstrip"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
-            f'{HOME_SVG}<span>techspressionism.com</span></a></div>\n')
+            f'{HOME_SVG}<span>Techspressionism.com</span></a></div>\n')
 
 
 WP_MENU_CSS = """
 /* the home button at the top right of every page: back to techspressionism.com */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
-.wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-transform:uppercase; text-decoration:none; }
+.wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
 """
