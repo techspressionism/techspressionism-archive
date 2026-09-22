@@ -2279,6 +2279,69 @@ def entry_people(entry):
     return names
 
 
+ARTIST_SEARCH_SIGNALS = json.loads((ROOT / "data" / "artist-search-signals.json").read_text()) \
+    if (ROOT / "data" / "artist-search-signals.json").exists() else {"gsc": {}, "researched": {}}
+
+
+def artist_prominence(name):
+    """A rough score for 'is this person worth leading a multi-speaker salon/roundtable <title> with', highest
+    confidence first: (1) real Search Console query data for this name (data/artist-search-signals.json) --
+    weighted toward a GOOD RANKING POSITION over raw impressions, since the goal is what we can realistically
+    rank for, not total search volume (a name with lots of impressions but a position past ~10 means we're not
+    winning that search, so it scores below even an untested name); (2) a live web-search prominence tier (0-3,
+    Wikipedia/museum/press) done for the archive's most frequent salon participants, same file; (3) falls back to
+    this archive's own data/people.json (has a Wikipedia/website link, exhibition count) for everyone else."""
+    gsc = ARTIST_SEARCH_SIGNALS["gsc"].get(name)
+    if gsc and gsc["impressions"] >= 10:   # below that, "position" is too few data points to trust (could be 1 fluke impression)
+        pos = gsc["position"]
+        if pos <= 5:
+            return 90 - pos
+        elif pos <= 12:
+            return 60 - pos
+        return 15   # real searches happen, but we don't currently rank for it -- don't lead a title with it
+    tier = ARTIST_SEARCH_SIGNALS["researched"].get(name)
+    if tier is not None:
+        return tier * 10
+    p = PERSON_BY_NORM.get(person_key(name))
+    if not p:
+        return 0
+    links = p.get("links", {})
+    score = 1.5 if links.get("wikipedia") else 0
+    score += 0.5 if links.get("website") else 0
+    score += 0.3 if links.get("instagram") else 0
+    score += min(len(p.get("exhibitions") or {}), 3) * 0.2
+    return score * 3
+
+
+def _is_namelist_title(text):
+    """True when a salon/roundtable's session_title is just a plain roster of participant surnames/names
+    (common on early salons, e.g. "Dimon, Kralikova, Lichty, Kell, Moses") rather than an actual topic."""
+    text = (text or "").strip()
+    return bool(text) and len(text) < 90 and bool(re.fullmatch(r"([A-Z][\w.'À-ſ-]*\.?,?\s*){2,8}", text.replace(" and ", ", ").replace(" & ", ", ")))
+
+
+def title_for_entry_meta(entry):
+    """The name/heading to use in the <title> tag: entry_heading() as-is, UNLESS this is a salon/roundtable with
+    2+ speakers and one participant clearly stands out as search-worthy (artist_prominence()) -- then that
+    person's name leads, since that's what people actually search for, not a topic or an unordered roster.
+    When the existing session_title is itself just a name list, it's dropped entirely rather than repeating the
+    lead name a second time."""
+    name = entry_heading(entry)
+    if entry.get("type") not in ("salon", "roundtable"):
+        return name
+    people = entry_people(entry)
+    if len(people) < 2:
+        return name
+    lead = max(people, key=artist_prominence)
+    if artist_prominence(lead) < 15:
+        return name
+    series = series_name(entry)
+    topic = (entry.get("session_title") or "").strip()
+    if not topic or _is_namelist_title(topic) or lead.lower() in topic.lower():
+        return f"{lead} — {series}"
+    return f"{lead} — {series}: {topic}"
+
+
 SYNOPSES_DIR = ROOT / "data" / "synopses"
 
 
@@ -2483,8 +2546,8 @@ def seo_for_entry(entry):
     meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or clean_path(f"{slug(entry)}.html"),
                                 source_url=entry["url"]) if page else []
     alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
-    return dict(title=f"{name} · {TITLE_BRAND}", social_title=title, description=desc, url=page, image=thumb, og_type="video.other", jsonld=ld,
-                meta=meta, alternates=alt, video_embed=f"https://www.youtube.com/embed/{entry['video_id']}")
+    return dict(title=f"{title_for_entry_meta(entry)} · {TITLE_BRAND}", social_title=title, description=desc, url=page, image=thumb,
+                og_type="video.other", jsonld=ld, meta=meta, alternates=alt, video_embed=f"https://www.youtube.com/embed/{entry['video_id']}")
 
 
 def seo_for_person(p):
