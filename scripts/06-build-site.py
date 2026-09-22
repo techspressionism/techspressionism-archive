@@ -639,7 +639,7 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 /* the category links: visible at every width, on every page, per Colin (2026-09-22) -- no more BROWSE //
    dropdown on mobile; this base rule is the mobile size/wrap, the desktop media query below only repositions it */
-header.site .browse-links { display:flex; flex-wrap:wrap; align-items:center; gap:.2rem .45rem; font-size:.85rem; }
+header.site .browse-links { display:flex; flex-wrap:nowrap; white-space:nowrap; align-items:center; gap:.15em .35em; font-size:min(.85rem, calc((100vw - 2.5rem) / 27)); }   /* shrinks to fit one line on a narrow phone instead of wrapping to two, same trick as .linkline; desktop's own font-size (below) overrides this. Divisor has margin to spare beyond the measured fit (24.6em wide at 1em) for safety across devices/font rendering. */
 header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
 header.site .browse-links a { color:var(--accent); text-decoration:none; }
 header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
