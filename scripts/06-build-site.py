@@ -424,7 +424,6 @@ header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 @media (max-width:63.99rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
-@media (min-width:64rem) { main { padding-left:2.5rem; padding-right:2.5rem; } }   /* more breathing room against the scrollbar on desktop, per Colin 2026-09-22 -- mobile keeps the tighter padding, screen space is precious there */
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
 h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
@@ -559,7 +558,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
 .para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
 @media (min-width:64rem) {
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
-  .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; scrollbar-width:thin; }
+  .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:1.25rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, the synopsis text was tight against it. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
@@ -749,7 +748,6 @@ PAGE_TMPL = """<!doctype html>
 <div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
 </div>
 </section>
-{footer}
 </div>
 <div class="right">
 {watch_next}
@@ -1549,7 +1547,6 @@ def build_session_page(entry, siblings=()):
         citation=citation_html,
         cite_data=e(cite_data),
         cite_format_select=cite_format_select_html(),
-        footer=FOOTER,
     )
 
 
@@ -2093,8 +2090,6 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .rowitem .pill { flex:none; }
 .person .note { color:var(--muted); font-size:.9rem; margin-top:.6rem; }
 .cite-example { border-left:3px solid var(--accent); padding:.2rem 0 .2rem 1rem; }
-.sitefoot { max-width:60rem; margin:2.5rem auto 1.5rem; padding:0 1.25rem; text-align:center; font-size:.85rem; color:var(--muted); }
-.sitefoot a { color:var(--muted); }
 .about ul { list-style:disc; padding-left:1.4rem; margin:.5rem 0; }
 .about li { margin:.3rem 0; }
 .person details summary { cursor:pointer; color:var(--accent); margin:.8rem 0 .2rem; }
@@ -2163,7 +2158,6 @@ def build_category_page(stype, entries):
 {excerpt}
 </section>
 {recent_section}
-{FOOTER}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
 </div>{CATEGORY_PLAYER_JS}"""
@@ -2720,10 +2714,6 @@ def seo_for_home(corpus):
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
 
-FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
-          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
-
-
 def google_tag_snippet():
     """The Google Tag that reports into the same GA4 property as the rest of techspressionism.com (data/site-config.json google_tag_id).
     The archive is static files outside WordPress's own templating, so Site Kit's tag never reached these pages before this."""
@@ -2736,7 +2726,7 @@ def google_tag_snippet():
 
 
 def add_seo(page_html, filename, seo):
-    """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer before </body>."""
+    """Replace the <title> and add the description / social / JSON-LD tags before </head>."""
     title = seo["title"]
     suffix = f" · {TITLE_BRAND}"
     if len(title) > 100 and title.endswith(suffix):        # search results show about 60 characters: a long title keeps its own words, not the site name
@@ -2745,14 +2735,7 @@ def add_seo(page_html, filename, seo):
     tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
                              alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
-    page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
-    # inside the actual content column, not just anywhere in <main> or after it, per Colin 2026-09-22: a
-    # two-column page (a recording, a category page) already places FOOTER itself, right at the bottom of its
-    # content column and before its sidebar -- this is the fallback for every single-column page (home, about,
-    # person, artists) that doesn't, so it still ends up as the last line of that page's own content either way
-    if "sitefoot" not in page_html:
-        page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
-    return page_html
+    return page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
 
 
 def build_about(corpus):
