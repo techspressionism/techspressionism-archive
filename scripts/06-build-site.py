@@ -155,6 +155,8 @@ def clean_path(target):
         return rest
     if path == "about.html":
         return "about/" + rest
+    if path in ("salons.html", "interviews.html", "roundtables.html", "presentations.html"):
+        return path[:-5] + "/" + rest
     m = _RECORDING_PAGE.match(path)
     if m:
         return PAGE_NAMES.get(m.group(1), m.group(1)) + "/" + rest
@@ -390,12 +392,16 @@ ARTIST_COUNT = 0     # people listed by default under Artists (heard or mentione
 ARTIST_ENTRY = {"label": "Artist", "plural": "Artists"}
 TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
 def build_browse_links(corpus, active=""):
-    """Category links under the search box on the desktop home page (hidden everywhere else): red links
-    separated by black double slashes."""
+    """Category links: red links separated by black double slashes. Shown under the search box on the desktop
+    home page, and in the header on every other page (build_header). Salons/Interviews/Roundtables/Presentations
+    point at their own landing page (build_category_page); Artists has no such page, so it still filters the
+    home page. On the home page itself a plain click is intercepted and filters in place instead of navigating
+    (see browseSel handling below) -- the href still matters for a modified click (open in new tab, etc.)."""
     links = []
     for key, info in list(TYPES.items()) + [("artist", ARTIST_ENTRY)]:
         if key == "artist" and ARTIST_COUNT or any(x.get("type", "salon") == key for x in corpus):
-            links.append(f'<a href="index.html?type={info["label"]}" data-type="{info["label"]}" '
+            href = "index.html?type=Artist" if key == "artist" else f"{info['plural'].lower()}.html"
+            links.append(f'<a href="{href}" data-type="{info["label"]}" '
                          f'aria-current="{"true" if info["label"] == active else "false"}">{info["plural"]}</a>')
     sep = '<span class="bsep">//</span>'
     return '<nav class="browse-links" aria-label="Browse by category">' + sep.join(links) + '</nav>'
@@ -689,7 +695,8 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   body:not(.home) header.site .wrap.links-wrapped { flex-wrap:wrap; }
   body:not(.home) header.site .wrap.links-wrapped strong { order:1; }
   body:not(.home) header.site .wrap.links-wrapped .hright { order:2; }
-  body:not(.home) header.site .wrap.links-wrapped .browse-links { order:3; flex-basis:100%; margin-top:.6rem; justify-content:flex-start; }   /* body:not(.home) keeps this out of the home page's own centered/multi-line treatment below */
+  body:not(.home) header.site .wrap.links-wrapped .browse-links { order:3; flex-basis:100%; margin-top:.6rem; justify-content:flex-start; gap:.25rem .5rem; }   /* body:not(.home) keeps this out of the home page's own centered/multi-line treatment below; tighter gap than the inline version -- Colin: too much space between them once they're on their own row */
+  body:not(.home) header.site strong { font-size:1.5rem; }   /* a bit bigger than .cat-latest's 1.35rem ("LATEST SALON // ...") */
   /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
      (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
   body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
