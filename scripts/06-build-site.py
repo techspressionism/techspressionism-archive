@@ -97,6 +97,17 @@ def site_page_html(entry):
             f'View on techspressionism.com</a>') if address else ""
 
 
+def current_salon_link(entry):
+    """Every Salon page points at techspressionism.com/salon/, Colin's evergreen page for the upcoming/current
+    salon and registration (data/site-config.json current_salon_url). Salons only -- other series have no
+    recurring 'next one' to point to."""
+    url = SITE_CONFIG.get("current_salon_url")
+    if entry.get("type") != "salon" or not url:
+        return ""
+    return (f' &middot; <a href="{e(url)}" target="_blank" rel="noopener" data-pagefind-ignore>'
+            f'Looking for the next Salon? &#8594;</a>')
+
+
 def canonical_base():
     """The archive's final public address (data/site-config.json). The environment variable TVA_CANONICAL_BASE overrides it,
     to try a build with the final address (staging) without editing the config."""
@@ -672,7 +683,7 @@ PAGE_TMPL = """<!doctype html>
 <p class="meta">
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
 {date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}<br>
-<span class="linkline"><a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}</span>
+<span class="linkline"><a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}{current_salon}</span>
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
 <span data-pagefind-meta="session:{number}" hidden></span>
 <span data-pagefind-meta="series:{series}" hidden></span>
@@ -1344,6 +1355,7 @@ def build_session_page(entry, siblings=()):
         curator=curator,
         url=e(url),
         site_page=site_page_html(entry),
+        current_salon=current_salon_link(entry),
         speakers=speakers_html,
         synopsis=synopsis_html(entry),
         flags=flags_html,
