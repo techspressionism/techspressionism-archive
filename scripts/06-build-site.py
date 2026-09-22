@@ -278,7 +278,7 @@ FLAG_LABELS = {   # plain-English phrasing for entry["flags"] codes, for the uno
     "recording_date_estimated_from_upload": "the recording date is estimated from the upload date",
     "session_title_unparseable": "the session title couldn't be read from the source",
     "speaker_index_missing": "no structured speaker list was available for this recording",
-    "speaker_index_partially_unparseable": "part of the speaker list couldn't be read",
+    "speaker_index_partially_unparseable": "the speaker list was generated with AI assistance and may be incomplete",
 }
 TITLE_BRAND = "Techspressionism Archive"   # shorter brand suffix used only in <title> tags, to leave room for the page's distinctive,
                                             # searchable content within Google's ~60-char SERP title display; BRAND itself (visible
