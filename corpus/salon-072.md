@@ -121,7 +121,7 @@ These are all, since they're digital, they can be shown. I create them at either
 
 ## Renata Janiszewska [29:50](https://www.youtube.com/watch?v=zsJAhBFVn5s&t=1790s)
 
-And now Renetta thank you Lee and then I just wanted to say how happy I am that the new time has allowed a few people to join us who otherwise was difficult for them so I would like to welcome Moritz Albrecht from Frankfurt and we have Amel Avika from India and of course Sahar from Iran it's really a good I really feel good about the time change and I hope we continue to grow. And there's also a new member today, Stephen Pare from Texas.
+And now Renetta thank you Lee and then I just wanted to say how happy I am that the new time has allowed a few people to join us who otherwise was difficult for them so I would like to welcome Moritz Albrecht from Frankfurt and we have Amel Avika from India and of course Sahar from Iran it's really a good I really feel good about the time change and I hope we continue to grow. And there's also a new member today, Stephen Paré from Texas.
 
 It's his first time. But he's been involved with digital art for quite some time. I was in a group show with him in 2021. And that's how I actually got involved more with doing things over Zoom. So this particular topic was challenging. I live in a very beautiful natural part of the world. Lion's Head is the name of the village. And it's on the northern Bruce Peninsula. And mostly I work with my own images. And I use them. Sorry. I use them over and over.
 

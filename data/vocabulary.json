@@ -700,6 +700,12 @@
       ],
       "whole_word": true,
       "note": "Samuel van Hoogstraten, the 17th-century Dutch painter of the perspective box (Interview 30); speech recognition spellings."
+    },
+    {
+      "canonical": "be an artist",
+      "category": "common_word",
+      "known_asr_variants": [],
+      "note": "Protective entry, not a misspelling fix: this ordinary phrase (Salon 109, Roz Dimon) fuzzy-matches Salon 109's own participant 'Beau Tardy Artist' closely enough (0.76 ratio, exact match on the trailing word 'artist') to get auto-corrected INTO that name by correct_names_in_text()'s strong-prior pass, silently reverting Colin's 2026-09-22 correction on every rebuild. Being a recognized vocabulary canonical makes it 'known_good', which lib_corrections.py's auto-correction branch now also respects (previously only suppressed the review-CSV row, not the correction itself)."
     }
   ]
 }

@@ -138,7 +138,12 @@ def correct_names_in_text(text, candidates, auto_threshold, review_threshold, se
                     ratio = min(ratio, review_threshold - 0.01)
         if ratio >= auto_threshold and (single_token_auto_ok or not is_single_token):
             original = text[start:end]
-            if original.lower() != name.lower():
+            # a matched span that's itself a recognized, correctly-spelled word/phrase (an artist index entry or
+            # vocab canonical) is never auto-corrected away, even at a high ratio -- otherwise an ordinary phrase
+            # that happens to share a name's ending word ("be an artist" vs. Salon 109's own "Beau Tardy Artist")
+            # gets silently rewritten into that name. Found and fixed 2026-09-22 after Colin's own correction of
+            # that exact line kept reverting on rebuild.
+            if original.lower() != name.lower() and original.strip(".,!?;:").lower() not in known_good:
                 text = text[:start] + name + text[end:]
                 corrections.append({"session": session_number, "original": original, "corrected": name, "ratio": round(ratio, 2), "cue_start": cue_start})
                 tokens = tokenize_with_spans(text)

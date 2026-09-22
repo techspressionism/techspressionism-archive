@@ -43,9 +43,9 @@ Meeting. Yeah.
 
 ## Colin Goldberg [00:32](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=32s)
 
-Awesome. Well, welcome. So I'm gonna read a little bit of a blurb to, let our viewers know a little bit about you. So, Carla Gannis is a multidisciplinary artist whose work explores the uncanny intersections of our physical and digital lives. Through mixed reality, installation, and multimodal media, she examines identity, power, and marginalization, drawing on history, contemporary culture, absurdity, and humor. Gannis is an industry professor at NYU Tandon, and holds an MFA from Boston University.
+Awesome. Well, welcome. So I'm gonna read a little bit of a blurb to, let our viewers know a little bit about you. So, Carla Gannis is a multidisciplinary artist whose work explores the uncanny intersections of our physical and digital lives. Through mixed reality, installation, and multimodal media, she examines identity, power, and marginalization, drawing on history, contemporary culture, absurdity, and humor. Gannis is an Industry Professor at NYU Tandon, and holds an MFA from Boston University.
 
-Her work has been exhibited internationally, with recent projects at the Hunter Museum of American Art, Balsey Institute of Contemporary Art, Perez Art Museum Miami, and Ryan Lee Gallery. Her work has also been featured in the New York Times, Art News, El Pais, and the Los Angeles Times. So, again, welcome, Carla, and Why don't you, I guess, start by telling us just a little bit about your background, like, where you were born, where you studied, and, you know, well, you already told me where you live and practice now, so, you know, just, Sure.
+Her work has been exhibited internationally, with recent projects at the Hunter Museum of American Art, Halsey Institute of Contemporary Art, Pérez Art Museum Miami, and Ryan Lee Gallery. Her work has also been featured in The New York Times, ARTnews, El País, and the Los Angeles Times. So, again, welcome, Carla, and Why don't you, I guess, start by telling us just a little bit about your background, like, where you were born, where you studied, and, you know, well, you already told me where you live and practice now, so, you know, just, Sure.
 
 ## Carla Gannis [01:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=105s)
 
