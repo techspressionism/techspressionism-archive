@@ -2337,13 +2337,32 @@ def _is_namelist_title(text):
     return bool(text) and len(text) < 90 and bool(re.fullmatch(r"([A-Z][\w.'À-ſ-]*\.?,?\s*){2,8}", text.replace(" and ", ", ").replace(" & ", ", ")))
 
 
+SEO_DISPLAY_NAME = {
+    # the corpus's full/formal name is right for transcript attribution and citations, but not what people
+    # search: use the name people actually know them by wherever a name is inserted into SEO title/description
+    # text specifically (never in the transcript, visible headers, or citations -- those stay exact). Add a
+    # line when someone's recording-credited name and their famous/searched name genuinely diverge.
+    "Paul D. Miller aka DJ Spooky that Subliminal Kid": "DJ Spooky aka Paul D. Miller",
+    "Göksu Ilgaz Koçakcıgil AKA Skywaterr": "Skywaterr aka Göksu Ilgaz Koçakcıgil",
+}
+
+
+def seo_display_name(name):
+    return SEO_DISPLAY_NAME.get(name, name)
+
+
 def title_for_entry_meta(entry):
     """The name/heading to use in the <title> tag: entry_heading() as-is, UNLESS this is a salon/roundtable with
     2+ speakers and one participant clearly stands out as search-worthy (artist_prominence()) -- then that
     person's name leads, since that's what people actually search for, not a topic or an unordered roster.
     When the existing session_title is itself just a name list, it's dropped entirely rather than repeating the
-    lead name a second time."""
+    lead name a second time. An interview leads with its (display-name) interviewee first, same reasoning, ahead
+    of the "Techspressionist Artist Interview Series #N" series text rather than after it -- that series text is
+    ~47 characters on its own, pushing the actual searched name toward/past typical SERP truncation otherwise."""
     name = entry_heading(entry)
+    if entry.get("type") == "interview":
+        iv = entry.get("interviewee")
+        return f"{seo_display_name(iv)} — {series_name(entry)}" if iv else name
     if entry.get("type") not in ("salon", "roundtable"):
         return name
     people = _entry_people_broad(entry)
@@ -2354,7 +2373,9 @@ def title_for_entry_meta(entry):
         return name
     series = series_name(entry)
     topic = (entry.get("session_title") or "").strip()
-    if not topic or _is_namelist_title(topic) or lead.lower() in topic.lower():
+    real_topic = topic and not _is_namelist_title(topic) and lead.lower() not in topic.lower()
+    lead = seo_display_name(lead)
+    if not real_topic:
         return f"{lead} — {series}"
     return f"{lead} — {series}: {topic}"
 
@@ -2471,12 +2492,28 @@ def synopsis_html(entry):
 
 def _ranked_names_clause(people):
     """Up to 3 names, ranked by artist_prominence() (real search data first, see title_for_entry_meta's
-    docstring), joined naturally: "X, Y and Z" for 3 or fewer people total, "X, Y, Z and others" for more."""
+    docstring), joined naturally: "X, Y and Z" for 3 or fewer people total, "X, Y, Z and others" for more.
+    Each name is passed through seo_display_name() at this final join step only -- everywhere else (ranking,
+    the "does the topic already name this person" check in entry_description()) still compares original names."""
     ranked = sorted(people, key=lambda n: -artist_prominence(n))
-    top = ranked[:3]
+    top = [seo_display_name(n) for n in ranked[:3]]
     if len(ranked) <= 3:
         return (", ".join(top[:-1]) + f" and {top[-1]}") if len(top) > 1 else (top[0] if top else "")
     return ", ".join(top) + " and others"
+
+
+def _has_brand_mention(text):
+    return "techspressionis" in (text or "").lower()   # catches Techspressionism/Techspressionist, any case
+
+
+def _ensure_brand_mention(text, prefix):
+    """Per Colin: every meta description should carry "Techspressionism" or "Techspressionist" in its VISIBLE
+    (untruncated) text. Most already do naturally (entry_heading()-based text, home/about/category copy); this
+    is the safety net for the rest (synopsis-derived text, person-page bios) -- prepend a short brand-bearing
+    phrase and re-clip, rather than appending, so it survives truncation instead of risking being the part cut."""
+    if _has_brand_mention(text):
+        return text
+    return lib_seo.clip_text(f"{prefix} {text}")
 
 
 def entry_description(entry):
@@ -2485,6 +2522,8 @@ def entry_description(entry):
     participant is actually worth searching for without touching the curated synopsis prose at all."""
     people = _entry_people_broad(entry)
     etype = entry.get("type", "salon")
+    kind = TYPES[etype]["label"].lower()
+    brand_kind = "Techspressionism roundtable" if etype == "roundtable" else f"Techspressionist {kind}"
     if etype in ("salon", "roundtable", "presentation") and len(people) >= 2:
         # no single natural "star" among a multi-speaker session (unlike an interview, which always leads with
         # the interviewee) -- lead with whoever is actually worth searching for instead, per Colin: "optimize
@@ -2498,12 +2537,12 @@ def entry_description(entry):
         # namelist regex can't parse, like "Paul D. Miller aka DJ Spooky...") shouldn't repeat as the "about"
         real_topic = topic and not _is_namelist_title(topic) and not any(p.lower() in topic.lower() for p in people[:3])
         about = f"discussing their work in {topic}" if real_topic else "discussing their work"
-        lead = f"This {TYPES[etype]['label'].lower()} features artists {names}, {about}."
+        lead = f"This {brand_kind} features artists {names}, {about}."
         tail = " Timestamped to the exact moment in the video."
         return lib_seo.clip_text(lead + tail if len(lead) < 120 else lead)
     reviewed = load_synopsis(entry)
     if reviewed:                                             # a reviewed synopsis is the page's description
-        return lib_seo.clip_text(synopsis_plain(reviewed))
+        return _ensure_brand_mention(lib_seo.clip_text(synopsis_plain(reviewed)), f"{series_name(entry)}:")
     date = entry.get("date_recorded")
     when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
     with_ = ""
@@ -2608,8 +2647,10 @@ def seo_for_person(p):
     if p["exhibitions"]:
         bits.append(f"appears in {len(p['exhibitions'])} exhibition{'s' if len(p['exhibitions']) != 1 else ''} on techspressionism.com")
     lead = p["name"] + (f" ({p['location']})" if p.get("location") else "")
-    desc = lib_seo.clip_text(f"{lead} {' and '.join(bits) if bits else 'appears in the Techspressionism Video Archive'}. "
-                             "Timestamped transcript passages with links to the video, and links to their website and social pages.")
+    desc = _ensure_brand_mention(lib_seo.clip_text(
+        f"{lead} {' and '.join(bits) if bits else 'appears in the Techspressionism Video Archive'}. "
+        "Timestamped transcript passages with links to the video, and links to their website and social pages."),
+        "In the Techspressionism Video Archive,")
     same_as = [u for k in ("website", "instagram", "wikipedia", "twitter", "nft") for u in p["links"].get(k, [])]
     ld = None
     if page:
