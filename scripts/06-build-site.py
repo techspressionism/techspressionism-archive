@@ -748,6 +748,7 @@ PAGE_TMPL = """<!doctype html>
 <div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
 </div>
 </section>
+{footer}
 </div>
 <div class="right">
 {watch_next}
@@ -1547,6 +1548,7 @@ def build_session_page(entry, siblings=()):
         citation=citation_html,
         cite_data=e(cite_data),
         cite_format_select=cite_format_select_html(),
+        footer=FOOTER,
     )
 
 
@@ -2090,6 +2092,8 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .rowitem .pill { flex:none; }
 .person .note { color:var(--muted); font-size:.9rem; margin-top:.6rem; }
 .cite-example { border-left:3px solid var(--accent); padding:.2rem 0 .2rem 1rem; }
+.sitefoot { margin:2.5rem 0 0; text-align:center; font-size:.85rem; color:var(--muted); }   /* no max-width/auto-margin needed now -- it lives inside the content column itself (.side / .cat-main), not as its own full-width section after </main> */
+.sitefoot a { color:var(--muted); }
 .about ul { list-style:disc; padding-left:1.4rem; margin:.5rem 0; }
 .about li { margin:.3rem 0; }
 .person details summary { cursor:pointer; color:var(--accent); margin:.8rem 0 .2rem; }
@@ -2158,6 +2162,7 @@ def build_category_page(stype, entries):
 {excerpt}
 </section>
 {recent_section}
+{FOOTER}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
 </div>{CATEGORY_PLAYER_JS}"""
@@ -2714,6 +2719,10 @@ def seo_for_home(corpus):
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
 
+FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
+          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
+
+
 def google_tag_snippet():
     """The Google Tag that reports into the same GA4 property as the rest of techspressionism.com (data/site-config.json google_tag_id).
     The archive is static files outside WordPress's own templating, so Site Kit's tag never reached these pages before this."""
@@ -2726,7 +2735,9 @@ def google_tag_snippet():
 
 
 def add_seo(page_html, filename, seo):
-    """Replace the <title> and add the description / social / JSON-LD tags before </head>."""
+    """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer
+    inside <main> (the fallback for a single-column page -- a two-column page already places FOOTER itself,
+    at the bottom of its own content column rather than after the whole layout)."""
     title = seo["title"]
     suffix = f" · {TITLE_BRAND}"
     if len(title) > 100 and title.endswith(suffix):        # search results show about 60 characters: a long title keeps its own words, not the site name
@@ -2735,7 +2746,10 @@ def add_seo(page_html, filename, seo):
     tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
                              alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
-    return page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
+    page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
+    if "sitefoot" not in page_html:
+        page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
+    return page_html
 
 
 def build_about(corpus):
