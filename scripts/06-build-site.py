@@ -344,7 +344,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             '</div></header>')
 
 
-FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
+FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
 LISTED = []          # the people who have a page: those heard or named in the recordings
 PEOPLE = []          # people directory (data/people.json) with archive statistics, set in main()
 PERSON_BY_NORM = {}  # normalised name (or alias) -> person
@@ -523,7 +523,7 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
-.cat-latest .cat-sep { color:var(--accent); }
+.cat-latest .cat-sep { color:var(--accent); font-weight:400; }
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
 .cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
 .cat-latest.wrapped .cat-title-link { display:block; color:var(--accent); }
@@ -699,7 +699,7 @@ PAGE_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 </head>
@@ -1445,7 +1445,7 @@ INDEX_TMPL = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Techspressionism Video Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <script>document.documentElement.className+=" js"</script>
 <link href="pagefind/pagefind-ui.css" rel="stylesheet">
