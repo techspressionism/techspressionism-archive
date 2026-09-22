@@ -429,6 +429,7 @@ header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
+h1 .h1-sep { color:var(--accent); font-weight:400; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin */
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
@@ -710,7 +711,7 @@ PAGE_TMPL = """<!doctype html>
 <div class="layout">
 <div class="side">
 {player}
-<h1 data-pagefind-meta="title:{meta_title}">{label} <span class="topic">{topic}</span></h1>
+<h1 data-pagefind-meta="title:{meta_title}">{label} <span class="h1-sep">&#47;&#47;</span> <span class="topic">{topic}</span></h1>
 <p class="meta">
 {date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}" hidden></span>
