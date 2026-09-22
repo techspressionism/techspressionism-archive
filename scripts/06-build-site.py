@@ -273,6 +273,9 @@ SERIES = {
     "presentation": lambda n: "Hello Uzbekistan Presentations",
 }
 BRAND = "Techspressionism Video Archive"
+TITLE_BRAND = "Techspressionism Archive"   # shorter brand suffix used only in <title> tags, to leave room for the page's distinctive,
+                                            # searchable content within Google's ~60-char SERP title display; BRAND itself (visible
+                                            # headers, citations, og:site_name, social_title) is unchanged everywhere else
 
 
 def series_name(entry):
@@ -2154,7 +2157,7 @@ def build_category_page(stype, entries):
 
     page = canonical_url(f"{info['plural'].lower()}/")
     desc = lib_seo.clip_text(f"The most recent Techspressionism {info['label']} and the full archive of {len(ordered)}, "
-                              f"every one a searchable, citable transcript.", 300)
+                              f"every one a searchable, citable transcript.")
     head = build_header(NAV_CORPUS, "")
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
                              trail=[(BRAND, canonical_url("")), (info["plural"], page)]) if page else None
@@ -2206,7 +2209,7 @@ def build_artists_page(corpus):
             f'{build_artist_directory_html()}</div>')
     page = canonical_url("artists/")
     desc = lib_seo.clip_text(f"Everyone heard or named across the Techspressionism Video Archive -- {ARTIST_COUNT} artists, "
-                              "searchable by name, each with links to every recording they're in.", 300)
+                              "searchable by name, each with links to every recording they're in.")
     head = build_header(NAV_CORPUS, "")
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
                              trail=[(BRAND, canonical_url("")), ("Artists", page)]) if page else None
@@ -2389,7 +2392,7 @@ def synopsis_html(entry):
 def entry_description(entry):
     reviewed = load_synopsis(entry)
     if reviewed:                                             # a reviewed synopsis is the page's description
-        return lib_seo.clip_text(synopsis_plain(reviewed), 300)
+        return lib_seo.clip_text(synopsis_plain(reviewed))
     date = entry.get("date_recorded")
     when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
     people = entry_people(entry)
@@ -2397,7 +2400,7 @@ def entry_description(entry):
     if people:
         with_ = " With " + ", ".join(people[:4]) + (" and others" if len(people) > 4 else "") + "."
     return lib_seo.clip_text(f"Searchable, timestamped transcript of {entry_heading(entry)}{when}.{with_} "
-                             "Every passage links to the exact moment in the video.", 300)
+                             "Every passage links to the exact moment in the video.")
 
 
 def entry_clips(entry):
@@ -2480,7 +2483,7 @@ def seo_for_entry(entry):
     meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or clean_path(f"{slug(entry)}.html"),
                                 source_url=entry["url"]) if page else []
     alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
-    return dict(title=f"{title} · {BRAND}", social_title=title, description=desc, url=page, image=thumb, og_type="video.other", jsonld=ld,
+    return dict(title=f"{name} · {TITLE_BRAND}", social_title=title, description=desc, url=page, image=thumb, og_type="video.other", jsonld=ld,
                 meta=meta, alternates=alt, video_embed=f"https://www.youtube.com/embed/{entry['video_id']}")
 
 
@@ -2496,7 +2499,7 @@ def seo_for_person(p):
         bits.append(f"appears in {len(p['exhibitions'])} exhibition{'s' if len(p['exhibitions']) != 1 else ''} on techspressionism.com")
     lead = p["name"] + (f" ({p['location']})" if p.get("location") else "")
     desc = lib_seo.clip_text(f"{lead} {' and '.join(bits) if bits else 'appears in the Techspressionism Video Archive'}. "
-                             "Timestamped transcript passages with links to the video, and links to their website and social pages.", 300)
+                             "Timestamped transcript passages with links to the video, and links to their website and social pages.")
     same_as = [u for k in ("website", "instagram", "wikipedia", "twitter", "nft") for u in p["links"].get(k, [])]
     ld = None
     if page:
@@ -2513,7 +2516,7 @@ def seo_for_person(p):
         image, size = canonical_url(f"thumbnails/{iv['video_id']}.jpg"), ("1280", "720")
     else:
         image, size = default_share_image()
-    return dict(title=f"{p['name']}: recordings, mentions and links · {BRAND}", social_title=f"{p['name']} · {BRAND}", description=desc,
+    return dict(title=f"{p['name']} · {TITLE_BRAND}", social_title=f"{p['name']} · {BRAND}", description=desc,
                 url=page, image=image, image_size=size, og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
 
 
@@ -2527,8 +2530,9 @@ def archive_stats(corpus):
 
 
 def archive_summary(st):
-    return (f"A searchable, citable transcript archive of {st['n']} recorded Techspressionism salons, artist interviews, roundtables and "
-            f"presentations ({st['hours']} hours, {st['first']}–{st['last']}). Every passage links to the exact moment in the YouTube video.")
+    return lib_seo.clip_text(
+        f"{st['n']} Techspressionism salons, interviews, roundtables & presentations ({st['hours']} hrs, {st['first']}–{st['last']}) "
+        f"— searchable, citable, linked to the exact video moment.")
 
 
 def default_share_image():
@@ -2547,7 +2551,7 @@ def seo_for_home(corpus):
         ld = lib_seo.home_graph(base=page, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, description=desc, first_year=st["first"],
                                 last_year=st["last"], csv_url=canonical_url("data/recordings.csv"), license_url=SITE_CONFIG.get("license_url") or "",
                                 doi=SITE_CONFIG.get("zenodo_doi") or "", youtube_channel=SITE_CONFIG.get("youtube_channel_url") or "")
-    return dict(title=f"{BRAND}: searchable, citable transcripts of Techspressionism recordings", social_title=BRAND, description=desc,
+    return dict(title=f"{BRAND}: Searchable Transcript Archive", social_title=BRAND, description=desc,
                 url=page, image=default_share_image()[0] if page else "", image_size=default_share_image()[1], og_type="website", jsonld=ld, meta=[],
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
@@ -2570,7 +2574,7 @@ def google_tag_snippet():
 def add_seo(page_html, filename, seo):
     """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer before </body>."""
     title = seo["title"]
-    suffix = f" · {BRAND}"
+    suffix = f" · {TITLE_BRAND}"
     if len(title) > 100 and title.endswith(suffix):        # search results show about 60 characters: a long title keeps its own words, not the site name
         title = title[:-len(suffix)]
     page_html = re.sub(r"<title>.*?</title>", lambda m: f"<title>{e(title)}</title>", page_html, count=1, flags=re.S)
@@ -2590,7 +2594,7 @@ def build_about(corpus):
                f'{e(fmt_date(example.get("date_recorded")))}, streaming video, 00:12:34, {e(example["url"])}&amp;t=754s.')
     page = canonical_url("about.html")
     desc = lib_seo.clip_text("What the Techspressionism Video Archive contains, how its transcripts are made and how accurate they are, "
-                             "how to cite a passage, and where to download the data.", 300)
+                             "how to cite a passage, and where to download the data.")
     body = f"""<h1>About the {e(BRAND)}</h1>
 <p>The {e(BRAND)} is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
 It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
@@ -2635,7 +2639,7 @@ and the exhibition and artist pages on techspressionism.com.</p>"""
     html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
                  f'<title>About the {e(BRAND)}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person about">\n{body}\n</main>\n</body>\n</html>\n')
-    seo = dict(title=f"About the {BRAND}: coverage, method and how to cite", social_title=f"About the {BRAND}", description=desc, url=page,
+    seo = dict(title=f"About the {BRAND}", social_title=f"About the {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
                og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
     return add_seo(html_page, "about.html", seo)
