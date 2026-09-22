@@ -167,7 +167,7 @@ def nest(page_html, depth):
         if path.startswith(ASSET_PREFIXES):
             return root + target
         return target
-    page_html = re.sub(r'\b(href|src|action)="([^"]*)"', lambda m: f'{m.group(1)}="{fix(m.group(2))}"', page_html)
+    page_html = re.sub(r'\b(href|src|action|data-href)="([^"]*)"', lambda m: f'{m.group(1)}="{fix(m.group(2))}"', page_html)
     return page_html.replace("location.href='index.html'", f"location.href='{home}'")
 
 
@@ -301,14 +301,19 @@ def hhmmss(seconds):
 
 def build_browse(corpus, active="", navigate=False, sid=""):
     """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
-    (script); on every other page (navigate=True) choosing one opens the home page on that category. There nothing is
-    preselected: choosing the category the page belongs to would not fire a change event, so nothing would happen."""
+    (script); on every other page (navigate=True) choosing one opens that category's own landing page (Artists,
+    which has none, filters the home page instead -- same href logic as build_browse_links). There nothing is
+    preselected: choosing the category the page belongs to would not fire a change event, so nothing would happen.
+    Each option's real destination is its data-href (nest() depth-adjusts it exactly like a normal href; the
+    plain 'index.html?type=X' formula this used to compute in JS couldn't be depth-adjusted that way)."""
+    def opt_href(label):
+        return "index.html?type=Artist" if label == "Artist" else f"{label.lower()}s.html"
     opts = "".join(
-        f'<option value="{e(info["label"])}"{" selected" if info["label"] == active and not navigate else ""}>{e(info["plural"])} ({n})</option>'
+        f'<option value="{e(info["label"])}" data-href="{e(opt_href(info["label"]))}"{" selected" if info["label"] == active and not navigate else ""}>{e(info["plural"])} ({n})</option>'
         for info, n in [(TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES] + [(ARTIST_ENTRY, ARTIST_COUNT)] if n)
-    go = ' onchange="location.href=\'index.html\'+(this.value?\'?type=\'+encodeURIComponent(this.value):\'\')"' if navigate else ""
+    go = ' onchange="location.href=this.selectedOptions[0].dataset.href"' if navigate else ""
     return (f'<div class="browse"><label for="browse-select{sid}">BROWSE <span class="bslash">//</span></label>'
-            f'<select id="browse-select{sid}"{go}><option value="">Choose a category&hellip;</option>{opts}</select></div>')
+            f'<select id="browse-select{sid}"{go}><option value="" data-href="index.html">Choose a category&hellip;</option>{opts}</select></div>')
 
 
 HOME_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" '
@@ -380,7 +385,7 @@ def build_topnav(corpus, active=""):
     for info in TYPES.values():
         n = sum(1 for x in corpus if TYPES[x.get("type", "salon")]["label"] == info["label"])
         if n:
-            chips.append(chip(info["label"], info["plural"], n, f'index.html?type={info["label"]}'))
+            chips.append(chip(info["label"], info["plural"], n, f"{info['plural'].lower()}.html"))
     return f'<nav class="topnav" id="typebar" aria-label="Recording types">{"".join(chips)}</nav>'
 
 STYLE = """
@@ -668,7 +673,7 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   body.home header.site .browse { display:none; }
   body.home header.site .hright { order:2; margin:0; width:min(44rem, 100%); }
   body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
-  body.home header.site .browse-links { order:3; justify-content:center; gap:.4rem .8rem; font-size:1.15rem; }   /* higher specificity than the general rule above, so these win */
+  body.home header.site .browse-links { display:flex; flex-wrap:wrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:1.15rem; }   /* higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
   body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
   body.home .browse-links a { color:var(--accent); }
   body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
@@ -1458,8 +1463,8 @@ INDEX_TMPL = """<!doctype html>
 <p class="intro">The Techspressionism Video Archive is a searchable, citable transcript archive of recorded video related to Techspressionism published from {first_year}&ndash;{latest_year}.
 This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.
 <a href="about.html">More about the archive and how to cite it.</a></p>
-<p class="intro">The archive includes transcripts of Techspressionist <a href="index.html?type=Salon">salons</a>, artist <a href="index.html?type=Interview">interviews</a>,
-<a href="index.html?type=Roundtable">roundtable discussions</a>, and artist <a href="index.html?type=Presentation">presentations</a>.
+<p class="intro">The archive includes transcripts of Techspressionist <a href="salons.html">salons</a>, artist <a href="interviews.html">interviews</a>,
+<a href="roundtables.html">roundtable discussions</a>, and artist <a href="presentations.html">presentations</a>.
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
 </div>
@@ -2387,7 +2392,7 @@ def seo_for_entry(entry):
             series_name=entry.get("series") or SERIES_GROUP[entry.get("type", "salon")],
             people=[(n, canonical_url(person_link(n)) if person_link(n) else "") for n in people],
             clips=[(f"{sp}", s, e_) for sp, s, e_ in entry_clips(entry)],
-            trail=[(BRAND, base_home), (info["plural"], canonical_url(f"index.html?type={info['label']}")), (name, page)])
+            trail=[(BRAND, base_home), (info["plural"], canonical_url(f"{info['plural'].lower()}.html")), (name, page)])
     meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or clean_path(f"{slug(entry)}.html"),
                                 source_url=entry["url"]) if page else []
     alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
@@ -2505,8 +2510,8 @@ def build_about(corpus):
     body = f"""<h1>About the {e(BRAND)}</h1>
 <p>The {e(BRAND)} is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
 It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
-<a href="index.html?type=Salon">salons</a>, {tn.get('interview', 0)} artist <a href="index.html?type=Interview">interviews</a>,
-{tn.get('roundtable', 0)} <a href="index.html?type=Roundtable">roundtables</a> and {tn.get('presentation', 0)} <a href="index.html?type=Presentation">presentations</a>.
+<a href="salons.html">salons</a>, {tn.get('interview', 0)} artist <a href="interviews.html">interviews</a>,
+{tn.get('roundtable', 0)} <a href="roundtables.html">roundtables</a> and {tn.get('presentation', 0)} <a href="presentations.html">presentations</a>.
 It is a research tool for scholars, historians, students and anyone interested in Techspressionism, the art and technology community
 described at <a href="{e(ORG_URL)}" target="_blank" rel="noopener">techspressionism.com</a>. As of {st['as_of']}.</p>
 <h2>What you can do here</h2>
