@@ -329,6 +329,7 @@ def build_wp_strip():
 WP_MENU_CSS = """
 /* the home button at the top right of every page: back to techspressionism.com */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
+@media (max-width:63.99rem) { .wpstrip { justify-content:center; border-bottom-color:var(--accent); } }   /* mobile only, per Colin: Techspressionism.com centered at the very top, red rule below instead of gray */
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
