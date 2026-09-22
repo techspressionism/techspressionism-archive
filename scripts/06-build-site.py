@@ -347,6 +347,27 @@ WP_MENU_CSS = """
 """
 
 
+HEADER_LINKS_WRAP_JS = """<script>
+(function () {   // desktop: if the category links don't fit beside the title and search box without wrapping onto a
+                 // second line in place, drop them to their own full-width row under the title instead (not on the
+                 // home page, which already centers them on their own line(s) below the search box)
+  function check() {
+    if (document.body.classList.contains('home')) return;
+    document.querySelectorAll('header.site .wrap').forEach(function (wrap) {
+      var links = wrap.querySelector('.browse-links');
+      if (!links || !links.children.length) return;
+      wrap.classList.remove('links-wrapped');   // always measure the normal inline layout first, not a stale state
+      var kids = [].slice.call(links.children);
+      var wrapped = kids.some(function (k) { return k.offsetTop > kids[0].offsetTop; });
+      wrap.classList.toggle('links-wrapped', wrapped);
+    });
+  }
+  check();
+  window.addEventListener('resize', check);
+})();
+</script>"""
+
+
 def build_header(corpus, active="", sid="", strip=True, h1=False):
     """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
     see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
@@ -358,7 +379,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             + build_browse_links(corpus, active) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search transcripts&hellip;" aria-label="Search transcripts" required></form></div>'
-            '</div></header>')
+            '</div></header>' + HEADER_LINKS_WRAP_JS)
 
 
 FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
@@ -410,7 +431,7 @@ a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
 header.site { border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }
 header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
-header.site strong { font-size:1.1rem; white-space:nowrap; }
+header.site strong { font-size:1.1rem; white-space:nowrap; text-transform:uppercase; }
 header.site strong a { color:inherit; }
 h1.sitetitle { display:contents; font:inherit; margin:0; }   /* the home page's real <h1>: the site title, which looks exactly like the title on the other pages */
 header.site .wrap { container-type:inline-size; }
@@ -532,7 +553,7 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
 .cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
-.catpage-grid .cat-latest { margin:1.2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin */
+.catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
 .cat-latest .cat-sep { color:var(--accent); }
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
 .cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
@@ -662,6 +683,13 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
   header.site .hright { margin:0 0 0 auto; }
   header.site .hsearch input { width:19rem; }
+  /* if the links don't fit beside the title and search box without wrapping internally, JS (in build_header) detects
+     it and adds .links-wrapped: title+search stay on row one, the links drop to their own full-width row underneath,
+     left-aligned (not the centered home-hero style) */
+  body:not(.home) header.site .wrap.links-wrapped { flex-wrap:wrap; }
+  body:not(.home) header.site .wrap.links-wrapped strong { order:1; }
+  body:not(.home) header.site .wrap.links-wrapped .hright { order:2; }
+  body:not(.home) header.site .wrap.links-wrapped .browse-links { order:3; flex-basis:100%; margin-top:.6rem; justify-content:flex-start; }   /* body:not(.home) keeps this out of the home page's own centered/multi-line treatment below */
   /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
      (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
   body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
