@@ -479,7 +479,7 @@ body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI
        color:var(--fg); background:var(--bg); }
 a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
-header.site { border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--card); padding:.9rem 1.25rem; }   /* the top border replaces the separate wpstrip bar's own border-bottom, now that the home link/language selector merged into .hright instead of sitting above header.site in its own row, per Colin 2026-09-22 */
+header.site { border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--card); padding:1.4rem 1.25rem; }   /* the top border replaces the separate wpstrip bar's own border-bottom, now that the home link/language selector merged into .hright instead of sitting above header.site in its own row, per Colin 2026-09-22. Top/bottom padding widened from .9rem -- the home link/language selector sat too tight against the top of the page, per Colin 2026-09-22 */
 body.home header.site { border-top:0; }   /* home page alone still shows the wpstrip bar above this (its own border-bottom already draws the line); this new border-top would otherwise double up right underneath it, at every width */
 header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.1rem; white-space:nowrap; text-transform:uppercase; }
@@ -566,7 +566,7 @@ main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
 .stickyheader { display:none; position:fixed; top:0; left:0; right:0; z-index:40; }
 .stickyheader.on { display:block; }
-.stickyheader header.site { padding-top:.6rem; padding-bottom:2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough */
+.stickyheader header.site { padding-top:1rem; padding-bottom:2.2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough. Both widened again later that day -- the home link/language selector sat too tight against the top of the sticky bar */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
@@ -754,7 +754,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   body:not(.home) header.site strong { grid-column:1; grid-row:1; }
   header.site .browse { display:none; }
   body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; margin:0; }
-  header.site .hsearch input { width:19rem; }
+  header.site .hsearch input { width:100%; }   /* fills whatever width .hright/.wpgroup actually stretched to (was a fixed 19rem, which could come up slightly narrower than wpgroup's own natural content width -- e.g. on the Artists page, with no sidebar-width-sync JS to override it -- letting the language pill above visibly hang over the search box's right edge; per Colin 2026-09-22. JS-synced pages (recording/category) already set this inline anyway, so this only changes the ones that don't. */
   body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
@@ -995,6 +995,28 @@ ARTISTS_PAGE_JS = """<script>
   }
   box.addEventListener('input', filterArtists);
   filterArtists();
+})();
+(function () {   // once the page header has scrolled away, a slim sticky bar with the site title/search keeps the
+                 // way home in reach -- same pattern as the recording pages (see PLAYER_JS's titleBar()), just not
+                 // shared code since this page has no player/reading-mode machinery to hang it off of. --title-h is
+                 // read by .artist-sticky-tools below to sit right under whichever header is currently showing.
+  var bar = document.getElementById('stickytitle'), pageHeader = document.querySelector('header.site');
+  function titleBar() {
+    if (!bar || !pageHeader) return;
+    var on = pageHeader.getBoundingClientRect().bottom < 0;
+    if (on !== bar.classList.contains('on')) {
+      bar.classList.toggle('on', on);
+      document.documentElement.style.setProperty('--title-h', on ? bar.offsetHeight + 'px' : '0px');
+    }
+  }
+  titleBar(); window.addEventListener('scroll', titleBar, { passive: true }); window.addEventListener('resize', titleBar);
+})();
+(function () {   // the sticky search/azbar bar's own height isn't knowable in plain CSS -- measured here and
+                 // exposed as --tools-h so #artist-list li[id]'s scroll-margin-top can clear it when jumping via the A-Z bar
+  var tools = document.querySelector('.artist-sticky-tools');
+  if (!tools) return;
+  function sizeTools() { document.documentElement.style.setProperty('--tools-h', tools.offsetHeight + 'px'); }
+  sizeTools(); window.addEventListener('resize', sizeTools);
 })();
 </script>"""
 
@@ -1528,11 +1550,7 @@ def transcript_report_blocks(entry):
     if people:
         blocks.append(("h2", f"Participants ({len(people)})"))
         blocks.append(("p", ", ".join(people)))
-    blocks.append(("h2", "Cite this session"))
-    citation_html, _ = build_citation(entry)
-    citation_plain = re.sub(r"<[^>]+>", "", citation_html).replace("&ldquo;", '"').replace("&rdquo;", '"').replace("&amp;", "&")
-    blocks.append(("p", citation_plain))
-    blocks.append(("h2", "Transcript"))
+    blocks.append(("h2", "Transcript"))   # "Cite this session" removed here per Colin 2026-09-22 -- the citation is for the web page, not a document meant to be read/printed
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     prev_speaker = object()
     for seg in entry["segments"]:
@@ -1551,11 +1569,12 @@ def _docx_escape(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def _docx_paragraph(text, bold=False, italic=False, size=None, space_after=200, color=None):
+def _docx_paragraph(text, bold=False, italic=False, size=None, space_after=200, space_before=0, color=None):
     rpr = ("<w:b/>" if bold else "") + ("<w:i/>" if italic else "") + \
           (f'<w:sz w:val="{size}"/><w:szCs w:val="{size}"/>' if size else "") + (f'<w:color w:val="{color}"/>' if color else "")
     rpr_xml = f"<w:rPr>{rpr}</w:rPr>" if rpr else ""
-    return (f'<w:p><w:pPr><w:spacing w:after="{space_after}"/>{f"<w:rPr>{rpr}</w:rPr>" if rpr else ""}</w:pPr>'
+    before_attr = f' w:before="{space_before}"' if space_before else ""
+    return (f'<w:p><w:pPr><w:spacing w:after="{space_after}"{before_attr}/>{rpr_xml}</w:pPr>'
             f'<w:r>{rpr_xml}<w:t xml:space="preserve">{_docx_escape(text)}</w:t></w:r></w:p>')
 
 
@@ -1565,8 +1584,8 @@ def write_docx(blocks, path):
     styled = {
         "title": lambda t: _docx_paragraph(t, bold=True, size="36", space_after=160),
         "meta": lambda t: _docx_paragraph(t, italic=True, size="20", color="595959", space_after=280),
-        "h2": lambda t: _docx_paragraph(t, bold=True, size="26", space_after=140),
-        "speaker": lambda t: _docx_paragraph(t, bold=True, size="21", space_after=60),
+        "h2": lambda t: _docx_paragraph(t, bold=True, size="26", space_after=140, space_before=400),   # extra space above each section heading, per Colin 2026-09-22
+        "speaker": lambda t: _docx_paragraph(t, bold=True, size="21", space_after=60, space_before=240),   # extra space above each new speaker turn, per Colin 2026-09-22
         "p": lambda t: _docx_paragraph(t, size="21", space_after=160),
     }
     body = "".join(styled[kind](text) for kind, text in blocks)
@@ -1603,8 +1622,12 @@ SYSTEM_PDF_FONT = "/System/Library/Fonts/Supplemental/Arial Unicode.ttf"   # bro
     # error in ~40 sessions (see review/whisper-hallucinations.csv) -- fpdf2 logged "missing glyph" warnings and those
     # characters would render broken or drop silently. For a citation-focused archive, correctness of what's actually
     # in the corpus outweighs the ~30s of extra build time this costs across all 148 recordings.
+SYSTEM_PDF_FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"   # Latin-only (no broad-coverage bold TTF
+    # ships on macOS) -- fine here, since bold is only ever used for the title/section headings/speaker names, never
+    # transcript body text, so the missing-glyph risk that ruled out plain Arial.ttf above doesn't apply to it
 PDF_FONT_CACHE = Path.home() / ".cache" / "techspressionism-archive" / "PdfFont.ttf"   # a copy outside the repo (git has
     # no business tracking a copy of a system font) that this can rely on existing even if SYSTEM_PDF_FONT ever moves
+PDF_FONT_CACHE_BOLD = Path.home() / ".cache" / "techspressionism-archive" / "PdfFontBold.ttf"
 
 
 def _pdf_font_path():
@@ -1614,27 +1637,45 @@ def _pdf_font_path():
     return PDF_FONT_CACHE if PDF_FONT_CACHE.exists() else None
 
 
+def _pdf_font_path_bold():
+    if not PDF_FONT_CACHE_BOLD.exists() and Path(SYSTEM_PDF_FONT_BOLD).exists():
+        PDF_FONT_CACHE_BOLD.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(SYSTEM_PDF_FONT_BOLD, PDF_FONT_CACHE_BOLD)
+    return PDF_FONT_CACHE_BOLD if PDF_FONT_CACHE_BOLD.exists() else None
+
+
 def write_pdf(blocks, path):
     pdf = FPDF(format="Letter")
     pdf.set_auto_page_break(auto=True, margin=18)
     pdf.set_margins(20, 18, 20)
     pdf.add_page()
     font_path = _pdf_font_path()
+    bold_path = _pdf_font_path_bold()
     if font_path:
         pdf.add_font("Body", "", str(font_path))
         family = "Body"
+        if bold_path:
+            pdf.add_font("Body", "B", str(bold_path))
+        bold_available = bool(bold_path)
     else:
         family = "Helvetica"   # font missing (not on this machine) -- falls back to core fonts, Latin-1 only
+        bold_available = True   # Helvetica's bold variant is a built-in core font, always available
+    # (size, color, space after, space before, bold) -- space before puts real separation above each section
+    # heading and above each new speaker turn (a visible "line break between turns"), rather than just the
+    # uniform small gap "after" every block; bold on "speaker" makes names stand out from the turn's own text.
+    # All per Colin 2026-09-22.
     styled = {
-        "title": (16, (0, 0, 0), 6),
-        "meta": (10, (90, 90, 90), 8),
-        "h2": (13, (0, 0, 0), 5),
-        "speaker": (11, (0, 0, 0), 2),
-        "p": (10.5, (20, 20, 20), 4),
+        "title": (16, (0, 0, 0), 6, 0, True),
+        "meta": (10, (90, 90, 90), 8, 0, False),
+        "h2": (13, (0, 0, 0), 5, 5, True),
+        "speaker": (11, (0, 0, 0), 2, 4, True),
+        "p": (10.5, (20, 20, 20), 4, 0, False),
     }
     for kind, text in blocks:
-        size, color, after = styled[kind]
-        pdf.set_font(family, "", size)
+        size, color, after, before, bold = styled[kind]
+        if before:
+            pdf.ln(before * 0.3)
+        pdf.set_font(family, "B" if (bold and bold_available) else "", size)
         pdf.set_text_color(*color)
         pdf.multi_cell(0, size * 0.5, text)
         pdf.ln(after * 0.3)
@@ -2278,7 +2319,7 @@ def build_person_page(p):
                     if link_ok(info.get("url", "")) else title)
             sub = "".join(f'<span class="sub">{e(c)}</span><br>' for c in credits[:3])
             if slug == "southampton" and profile:
-                sub += f'<span class="sub"><a href="{e(profile)}" target="_blank" rel="noopener">Profile on techspressionism.com &#8599;</a></span><br>'
+                sub += f'<span class="sub"><a href="{e(profile)}" target="_blank" rel="noopener">Exhibition artist profile &#8599;</a></span><br>'
             reel = [r for r in p["reels"] if r["exhibition"] == slug]
             pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "REEL") for r in reel[:1])
             rows.append(f'<li class="rowitem"><div><strong>{link}</strong><br>{sub}</div>{pills}</li>')
@@ -2344,6 +2385,11 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person details summary { cursor:pointer; color:var(--accent); margin:.8rem 0 .2rem; }
 .person mark { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
 @media (max-width:40rem) { .rowitem { flex-direction:column; align-items:flex-start; } }
+/* the search box + A-Z bar stay pinned under the header while the list scrolls beneath them -- top tracks
+   --title-h (0px normally, the sticky mini-header's own height once it's on, set by ARTISTS_PAGE_JS's titleBar())
+   so this sits right under whichever header is currently showing; the background+padding trick keeps the list's
+   rows from visibly poking out above this block's own edges once it's pinned, per Colin 2026-09-22 */
+.artist-sticky-tools { position:sticky; top:var(--title-h, 0px); z-index:10; background:var(--bg); padding-top:1rem; margin-top:-1rem; border-bottom:1px solid var(--line); }
 /* the Artists directory's search-by-last-name box -- styled to match the home page's own search box (same
    height, font size, padding, border and icon treatment), centered at the same max-width, per Colin 2026-09-22 */
 .artist-tools { margin:0 auto 1.5rem; max-width:44rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
@@ -2356,7 +2402,8 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .azbar { display:flex; flex-wrap:wrap; gap:.15rem .7rem; justify-content:center; margin:0 0 .8rem; font-weight:700; }
 .azbar[hidden] { display:none; }
 #artist-list li[hidden], ul.sessions li[hidden] { display:none !important; }     /* the row styles set display:flex, which would otherwise override the hidden attribute (the filter box did nothing) */
-#artist-list li[id] { scroll-margin-top:5rem; }
+#artist-list li[id] { scroll-margin-top:calc(var(--title-h, 0px) + var(--tools-h, 5rem) + .5rem); }   /* clears the sticky header (when on) plus the sticky search/azbar bar now pinned above the list -- --tools-h is measured by ARTISTS_PAGE_JS since that bar's height isn't otherwise knowable in plain CSS; 5rem is just the fallback before JS runs */
+#artist-list a { font-weight:700; }   /* per Colin 2026-09-22; scoped to the Artists directory list only, not the other category pages' own .sessions lists */
 """
 
 
@@ -2436,17 +2483,18 @@ def build_category_page(stype, entries):
 def build_artist_directory_html():
     """The full Artists A-Z directory: search-by-last-name box, jump bar, list. Shared by the home page's
     in-place-filterable Artists group and the dedicated /artists/ page (Colin, 2026-09-22: gave Artists a real
-    page/address so the category-links row never has to fall back to a query string for it)."""
+    page/address so the category-links row never has to fall back to a query string for it).
+
+    Only people who actually speak in at least one recording are listed (p["speaks"]) -- someone merely named
+    by someone else (p["mentions"], no p["speaks"]) is left off, per Colin 2026-09-22. This is a display-only
+    filter: LISTED itself (and thus who gets their own /artist-*.html page) is untouched, since a named-only
+    person can still be legitimately linked to from a transcript mention elsewhere on the site."""
     rows, letters = [], []
     def initial(name):       # the list is in last-name order; A-Z jump links go to the first name under each letter
         c = unicodedata.normalize("NFKD", name.split()[-1]).encode("ascii", "ignore").decode()[:1].upper()
         return c if c.isalpha() else "#"
-    for pp in sorted(LISTED, key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
-        bits = []
-        if pp["speaks"]:
-            bits.append(f'{len(pp["speaks"])} recording{"s" if len(pp["speaks"]) != 1 else ""}')
-        elif pp["mentions"]:
-            bits.append("named in the recordings")
+    for pp in sorted((p for p in LISTED if p["speaks"]), key=lambda x: (x["name"].split()[-1].lower(), x["name"].lower())):
+        bits = [f'{len(pp["speaks"])} recording{"s" if len(pp["speaks"]) != 1 else ""}']
         sub = " &middot; ".join(x for x in [e(pp.get("location") or "")] + bits if x)
         ini = initial(pp["name"])
         anchor = ""
@@ -2455,29 +2503,36 @@ def build_artist_directory_html():
             anchor = f' id="az-{"other" if ini == "#" else ini}"'
         rows.append(f'<li{anchor} data-name="{e(pp["name"].lower())}"><span class="body">'
                     f'<a href="artist-{pp["id"]}.html">{e(pp["name"])}</a><span class="d">{sub}</span></span></li>')
-    return ('<div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist by last name&hellip;" aria-label="Find an artist by last name">'
+    # the tools+azbar are wrapped together so they can be pinned as one sticky unit under the header on the /artists/
+    # page (the list itself, a sibling, isn't part of that wrapper -- it just scrolls normally underneath), per Colin 2026-09-22
+    return ('<div class="artist-sticky-tools"><div class="artist-tools"><input type="search" id="artist-filter" placeholder="Find an artist by last name&hellip;" aria-label="Find an artist by last name">'
             '</div>'
             '<nav class="azbar" id="azbar" aria-label="Jump to a letter">' + " ".join(
-                f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav>'
+                f'<a href="#az-{"other" if x == "#" else x}">{x}</a>' for x in sorted(letters, key=lambda x: (x == "#", x))) + '</nav></div>'
             '<ul class="sessions" id="artist-list">' + "\n".join(rows) + "</ul>")
 
 
 def build_artists_page(corpus):
     """The Artists directory as its own page (/artists/), depth 1 like the other category pages. Same content
     as the home page's in-place-filterable Artists group (build_artist_directory_html()), just given a real,
-    crawlable address."""
+    crawlable address. The count here is people who actually speak in a recording (matching the list, which
+    leaves off named-only people -- see build_artist_directory_html) -- narrower than ARTIST_COUNT, which also
+    counts named-only people for the nav link's own visibility check elsewhere, per Colin 2026-09-22."""
+    speaking_count = sum(1 for p in LISTED if p["speaks"])
     body = (f'<div class="artists-page"><div class="artists-head"><h1>Artists</h1>'
-            f'<p class="d">{ARTIST_COUNT} artists heard or named in the recordings.</p></div>'
+            f'<p class="d">{speaking_count} artists in the video archive.</p></div>'
             f'{build_artist_directory_html()}</div>')
     page = canonical_url("artists/")
-    desc = lib_seo.clip_text(f"Everyone heard or named across the Techspressionism Video Archive -- {ARTIST_COUNT} artists, "
+    desc = lib_seo.clip_text(f"Everyone who speaks in a Techspressionism Video Archive recording -- {speaking_count} artists, "
                               "searchable by name, each with links to every recording they're in.")
     head = build_header(NAV_CORPUS, "")
+    sticky_head = build_header(NAV_CORPUS, "", sid="-sticky", strip="sticky")
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
                              trail=[(BRAND, canonical_url("")), ("Artists", page)]) if page else None
     html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
                  f'<title>Artists</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
+                 f'<div class="stickyheader" id="stickytitle">{sticky_head}</div>\n'
                  f'<main class="person category">\n{body}\n</main>\n{ARTISTS_PAGE_JS}\n</body>\n</html>\n')
     seo = dict(title=f"Artists — {BRAND}", social_title=f"Artists — {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
