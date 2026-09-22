@@ -89,25 +89,6 @@ def link_ok(url):
     return LINK_STATUS.get(url, {}).get("status") not in ("broken", "parked")
 
 
-def site_page_html(entry):
-    address = SITE_PAGES.get(slug(entry))
-    if address and not link_ok(address):
-        address = None
-    return (f' &middot; <a href="{e(address)}" target="_blank" rel="noopener" data-pagefind-ignore>'
-            f'View on techspressionism.com</a>') if address else ""
-
-
-def current_salon_link(entry):
-    """Every Salon page points at techspressionism.com/salon/, Colin's evergreen page for the upcoming/current
-    salon and registration (data/site-config.json current_salon_url). Salons only -- other series have no
-    recurring 'next one' to point to."""
-    url = SITE_CONFIG.get("current_salon_url")
-    if entry.get("type") != "salon" or not url:
-        return ""
-    return (f' &middot; <a href="{e(url)}" target="_blank" rel="noopener" data-pagefind-ignore>'
-            f'Looking for the next Salon? &#8594;</a>')
-
-
 def canonical_base():
     """The archive's final public address (data/site-config.json). The environment variable TVA_CANONICAL_BASE overrides it,
     to try a build with the final address (staging) without editing the config."""
@@ -468,6 +449,8 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
+.watch-yt { margin:.8rem 0 0; text-align:center; }   /* below the Read/Watch transcript buttons, per Colin -- the "View on techspressionism.com" / "Looking for the next Salon?" links that used to share this line were dropped, not moved */
+.watch-yt a { color:#000; }
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
 .watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
@@ -729,9 +712,9 @@ PAGE_TMPL = """<!doctype html>
 {player}
 <h1 data-pagefind-meta="title:{meta_title}">{label} <span class="topic">{topic}</span></h1>
 <p class="meta">
-<span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}">{type_cap}</span> &middot;
-{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}<br>
-<span class="linkline"><a href="{url}" data-pagefind-meta="youtube:{url}">Watch on YouTube</a>{site_page}{current_salon}</span>
+{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}
+<span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}" hidden></span>
+<span data-pagefind-meta="youtube:{url}" hidden></span>
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
 <span data-pagefind-meta="session:{number}" hidden></span>
 <span data-pagefind-meta="series:{series}" hidden></span>
@@ -746,6 +729,7 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>
 <button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
 </div>
+<p class="watch-yt"><a href="{url}">Watch on YouTube</a></p>
 </div>
 <div class="right">
 {watch_next}
@@ -1028,7 +1012,7 @@ PLAYER_JS = """<script>
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
     }
-    var ytBase = (document.querySelector('.meta a[href*="youtube.com/watch"]') || {}).href;
+    var ytBase = (document.querySelector('.watch-yt a[href*="youtube.com/watch"]') || {}).href;
     if (ytBase && pbox) {                  // "Watch on YouTube" sits under the video, at the same moment
       var yl = document.createElement('a');
       yl.className = 'yt-under'; yl.target = '_blank'; yl.rel = 'noopener';
@@ -1426,7 +1410,7 @@ def build_session_page(entry, siblings=()):
         label=e(label(entry)),
         series=e(series_name(entry)),
         participants=e(participants_line(entry)),
-        date_word="published" if date_is_estimate(entry) else "recorded",
+        date_word="Published" if date_is_estimate(entry) else "Recorded",
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
         header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
@@ -1444,8 +1428,6 @@ def build_session_page(entry, siblings=()):
         moderator=moderator,
         curator=curator,
         url=e(url),
-        site_page=site_page_html(entry),
-        current_salon=current_salon_link(entry),
         speakers=speakers_html,
         synopsis=synopsis_html(entry),
         description=description_html(entry),
