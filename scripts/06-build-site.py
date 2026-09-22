@@ -529,22 +529,21 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 /* Category landing pages (site/salons/, /interviews/, /roundtables/, /presentations/): featured + recent + full list.
    Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
-.catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }   /* beats .person h1's 2.2rem on specificity, not just source order */
+.catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
+.cat-kicker.cat-recent-label { font-size:1.1rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size */
 .cat-featured { margin:0 0 1.5rem; }
 .catpage-grid .cat-latest { margin:1.2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin */
 .cat-latest .cat-sep { color:var(--accent); }
-.cat-latest a { color:inherit; text-decoration:none; }
-.cat-latest a:hover, .cat-latest a:focus-visible { color:var(--accent); text-decoration:underline; }
+.cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
 .cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
-.cat-latest.wrapped a.cat-title-link { display:block; color:var(--accent); }
+.cat-latest.wrapped .cat-title-link { display:block; color:var(--accent); }
 .cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
-.cat-excerpt { margin:.6rem 0 0; line-height:1.55; }
 .cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
 .cat-recent a { display:block; color:inherit; }
 .cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
 .cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
 .cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
-.cat-list h2 { margin:0 0 .5rem; font-size:.95rem; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); }
+.cat-list h2 { margin:0 0 .5rem; font-size:.95rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }
 @media (min-width:64rem) { .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; } }
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
@@ -2082,18 +2081,16 @@ def build_category_page(stype, entries):
     when = fmt_date(featured.get("date_recorded"))
     when = f"published {when}" if date_is_estimate(featured) else when
     by = f' <span class="d">interviewed by {e(featured["interviewer"])}</span>' if featured.get("interviewer") else ""
-    syn = synopsis_plain(load_synopsis(featured))
-    excerpt = (f'<p class="cat-kicker cat-summary-label">Summary</p><p class="cat-excerpt">{e(lib_seo.clip_text(syn, 400))}</p>'
-               if syn else "")
+    excerpt = synopsis_html(featured)   # the full synopsis, same as on the recording page: heading, complete text, clickable timestamp links
     recent_html = ('<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul>') if recent else ""
     rows = "\n".join(session_row_html(x) for x in ordered)
 
-    recent_section = f'<h2 class="cat-kicker">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
+    recent_section = f'<h2 class="cat-kicker cat-recent-label">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
     body = f"""<div class="catpage-grid">
 <div class="cat-main">
 <section class="cat-featured">
 {build_player(featured)}
-<h1 class="cat-latest"><span class="cat-eyebrow">Latest {e(info['label'])}</span> <span class="cat-sep">//</span> <a class="cat-title-link" href="{slug(featured)}.html">{e(topic)}</a></h1>
+<h1 class="cat-latest"><span class="cat-eyebrow">Latest {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
 </section>
