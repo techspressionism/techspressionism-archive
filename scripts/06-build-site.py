@@ -515,7 +515,7 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:.78rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these */
+section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin */
 .synopsis .syn-text { margin:0; line-height:1.55; }
 .synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
 .synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
