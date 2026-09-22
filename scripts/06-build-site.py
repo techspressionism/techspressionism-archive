@@ -476,7 +476,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-next .num { color:var(--muted); font-variant-numeric:tabular-nums; }
 .watch-next .d { display:block; color:var(--muted); font-size:.85rem; }
 details.people { margin:0 0 1rem; }
-details.people summary { cursor:pointer; color:var(--muted); font-size:.9rem; margin:0 0 .6rem; }
+details.people summary { cursor:pointer; color:#000; font-weight:400; font-size:.9rem; margin:0 0 .6rem; }
 details.people .speakers { margin-bottom:.5rem; }
 section.seg.cont { border-top:0; padding-top:0; }
 section.seg.cont .speaker, .vh { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
@@ -509,7 +509,7 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-.synopsis h2 { margin:0 0 .3rem; font-size:.78rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); }
+.synopsis h2 { margin:0 0 .3rem; font-size:.78rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }
 .synopsis .syn-text { margin:0; line-height:1.55; }
 .synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
 .synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
@@ -522,7 +522,7 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .synopsis .syn-more[hidden] { display:none; }
 @media (max-width:63.99rem) { .js .synopsis.clamped .syn-text { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; } }   /* on a phone: four lines and Read more */
 .description { margin:.2rem 0 1rem; }   /* closed by default (a <details>); the synopsis above is the main summary, this is background for anyone who wants more */
-.description summary { cursor:pointer; font-size:.78rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); }
+.description summary { cursor:pointer; font-size:.78rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.07em; text-transform:uppercase; color:#000; }
 .description summary:hover { color:var(--accent); }
 .description p { margin:.5rem 0 0; line-height:1.55; }
 .description .desc-note { margin-top:.6rem; font-size:.8rem; color:var(--muted); }
@@ -2297,7 +2297,9 @@ def synopsis_html(entry):
     # entry["segments"]' own per-turn speaker attribution, not the entry-level "speakers" list -- some salons
     # (e.g. 29, 49) never got a structured speaker index but do have real per-turn attribution.
     seg_names = {s for s in (seg.get("speaker") for seg in entry.get("segments", [])) if s and not is_not_speaker(s)}
-    names = sorted({n for n in (set(entry_people(entry)) | seg_names) if person_link(n)}, key=len, reverse=True)
+    moderator = re.split(r"\s*(?:-|//)\s*", entry.get("moderator") or "", 1)[0].strip() or None   # some moderator fields carry " - AZ USA" / " // Montreal CA"; strip it to match the plain name used in the synopsis
+    candidates = set(entry_people(entry)) | seg_names | {moderator}   # the moderator isn't always in speakers/segments (e.g. no structured speaker index), but should still link when mentioned
+    names = sorted({n for n in candidates if n and person_link(n)}, key=len, reverse=True)
     name_re = re.compile("|".join(re.escape(n) for n in names)) if names else None
     linked_names = set()
 
@@ -2319,7 +2321,7 @@ def synopsis_html(entry):
 
     body = "".join(point(m) if isinstance(m, re.Match) else link_names(m) for m in _split_points(text))
     tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
-    return (f'<section class="synopsis" data-pagefind-ignore><h2>Summary{tag}</h2><p class="syn-text">{body}</p>'
+    return (f'<section class="synopsis" data-pagefind-ignore><h2>Synopsis{tag}</h2><p class="syn-text">{body}</p>'
             '<button type="button" class="syn-more" hidden>Read more</button>'
             '<p class="syn-note">This summary was written with AI assistance from the recording&rsquo;s transcript and reviewed by the archive&rsquo;s editor. '
             'The timestamps link to the moments discussed. Please check details against the video.</p></section>')
