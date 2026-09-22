@@ -531,7 +531,10 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
 .catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }   /* beats .person h1's 2.2rem on specificity, not just source order */
 .cat-featured { margin:0 0 1.5rem; }
-.cat-featured h3 { margin:.7rem 0 .2rem; font-size:1.35rem; }
+.catpage-grid .cat-latest { margin:.7rem 0 .2rem; font-size:1.35rem; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red (same specificity trick as .cat-kicker, beats .person h1) */
+.cat-latest .cat-sep { color:var(--accent); }
+.cat-latest a { color:inherit; text-decoration:none; }
+.cat-latest a:hover, .cat-latest a:focus-visible { color:var(--accent); text-decoration:underline; }
 .cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
 .cat-excerpt { margin:.6rem 0 0; line-height:1.55; }
 .cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
@@ -2078,9 +2081,8 @@ def build_category_page(stype, entries):
     body = f"""<div class="catpage-grid">
 <div class="cat-main">
 <section class="cat-featured">
-<h1 class="cat-kicker">Latest {e(info['label'])}</h1>
 {build_player(featured)}
-<h3><a href="{slug(featured)}.html">{e(topic)}</a></h3>
+<h1 class="cat-latest">Latest {e(info['label'])} <span class="cat-sep">//</span> <a href="{slug(featured)}.html">{e(topic)}</a></h1>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
 </section>
