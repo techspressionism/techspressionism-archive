@@ -549,7 +549,7 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
 .cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
 .cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
-aside.cat-list h2 { margin:0 0 .5rem; padding-top:0; border-top:none; font-size:.95rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:var(--accent); }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- no red rule above "All Salons", and the heading itself is red */
+aside.cat-list h2 { margin:0 0 .8rem; padding:0 0 .6rem; border-top:none; border-bottom:1px solid var(--accent); font-size:1.2rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- black, larger, a red rule BELOW "All Salons" instead of above */
 @media (min-width:64rem) { .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; } }
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
@@ -670,7 +670,7 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
   header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
-  body:not(.home) header.site strong { font-size:1.5rem; }   /* a bit bigger than .cat-latest's 1.35rem ("LATEST SALON // ...") */
+  body:not(.home) header.site strong { font-size:1.65rem; }   /* measured to match the title link's width to the menu row's width (excluding [BETA], which is allowed to extend past) */
   /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
      (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
   body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
