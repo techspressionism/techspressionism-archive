@@ -479,7 +479,7 @@ main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
 .stickyheader { display:none; position:fixed; top:0; left:0; right:0; z-index:40; }
 .stickyheader.on { display:block; }
-.stickyheader header.site { padding-top:.6rem; padding-bottom:.6rem; }
+.stickyheader header.site { padding-top:.6rem; padding-bottom:1.25rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
