@@ -516,9 +516,16 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .synopsis .syn-time { margin-left:.25rem; font-size:.75em; font-weight:700; color:var(--accent); white-space:nowrap; }
 .synopsis .syn-note { margin:.35rem 0 0; font-size:.8rem; color:var(--muted); }
 .synopsis .syn-draft { color:var(--accent); letter-spacing:0; text-transform:none; margin-left:.4rem; }
+.synopsis a.syn-person { color:inherit; text-decoration:underline; text-decoration-color:var(--muted); text-underline-offset:2px; }   /* a person's name, linked to their artist page: quiet, so it never competes with the syn-t "watch this" links */
+.synopsis a.syn-person:hover { color:var(--accent); text-decoration-color:var(--accent); }
 .synopsis .syn-more { margin:.3rem 0 0; padding:0; border:0; background:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--accent); cursor:pointer; }
 .synopsis .syn-more[hidden] { display:none; }
 @media (max-width:63.99rem) { .js .synopsis.clamped .syn-text { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; } }   /* on a phone: four lines and Read more */
+.description { margin:.2rem 0 1rem; }   /* closed by default (a <details>); the synopsis above is the main summary, this is background for anyone who wants more */
+.description summary { cursor:pointer; font-size:.78rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); }
+.description summary:hover { color:var(--accent); }
+.description p { margin:.5rem 0 0; line-height:1.55; }
+.description .desc-note { margin-top:.6rem; font-size:.8rem; color:var(--muted); }
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; gap:.4rem; }
@@ -691,6 +698,7 @@ PAGE_TMPL = """<!doctype html>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
 {synopsis}
+{description}
 {speakers}
 {flags}
 <div class="read-actions" id="read-actions" data-pagefind-ignore>
@@ -1358,6 +1366,7 @@ def build_session_page(entry, siblings=()):
         current_salon=current_salon_link(entry),
         speakers=speakers_html,
         synopsis=synopsis_html(entry),
+        description=description_html(entry),
         flags=flags_html,
         segments="\n".join(seg_html),
         citation=build_citation(entry),
@@ -2120,6 +2129,35 @@ def _split_points(text):
     yield text[pos:]
 
 
+DESCRIPTIONS_DIR = ROOT / "data" / "descriptions"
+
+
+def load_description(entry):
+    """Bio / background text pulled from the recording's old page on techspressionism.com (data/descriptions/<slug>.txt:
+    a first line "status: reviewed" or "status: draft", a blank line, then the text, as plain paragraphs separated
+    by blank lines -- no [[timestamp]] markers, since this text isn't tied to moments in the video).
+    Unlike a synopsis, a draft description is invisible EVERYWHERE, staging included, until Colin reviews it and
+    flips it to reviewed: this is content pulled wholesale from another page, not written for the archive, so it
+    needs a look before it's shown at all (2026-09-22)."""
+    path = DESCRIPTIONS_DIR / f"{slug(entry)}.txt"
+    if not path.exists():
+        return ""
+    head, _, body = path.read_text(encoding="utf-8").partition("\n\n")
+    if head.replace("status:", "").strip().lower() != "reviewed":
+        return ""
+    return body.strip()
+
+
+def description_html(entry):
+    text = load_description(entry)
+    if not text:
+        return ""
+    paras = "".join(f"<p>{e(p)}</p>" for p in text.split("\n\n") if p.strip())
+    label = {"interview": "About this Interview", "roundtable": "About this Roundtable"}.get(entry.get("type"), "Background")
+    return (f'<details class="description" data-pagefind-ignore><summary>{e(label)}</summary>{paras}'
+            '<p class="desc-note">Background text from techspressionism.com, not written for the archive.</p></details>')
+
+
 def synopsis_html(entry):
     text = load_synopsis(entry, drafts=os.environ.get("TVA_SHOW_DRAFTS") == "1")
     if not text:
@@ -2131,7 +2169,34 @@ def synopsis_html(entry):
         sec = parts[0] * 60 + parts[1] if len(parts) == 2 else parts[0] * 3600 + parts[1] * 60 + parts[2]
         return (f'<a class="syn-t" href="{e(entry["url"])}&amp;t={sec}s" data-t="{sec}" title="Watch from {m.group(1)}">{e(m.group(2))}'
                 f'<span class="syn-time">&#9654; {m.group(1)}</span></a>')
-    body = "".join(point(m) if isinstance(m, re.Match) else e(m) for m in _split_points(text))
+
+    # a participant's name, in the PLAIN text between watch-links (never inside one -- a link can't nest inside
+    # a link), gets linked to their artist page too, first mention only, so it doesn't compete with the syn-t
+    # links: quiet styling (see .syn-person), and only names who actually have a page (person_link). Read off
+    # entry["segments"]' own per-turn speaker attribution, not the entry-level "speakers" list -- some salons
+    # (e.g. 29, 49) never got a structured speaker index but do have real per-turn attribution.
+    seg_names = {s for s in (seg.get("speaker") for seg in entry.get("segments", [])) if s and not is_not_speaker(s)}
+    names = sorted({n for n in (set(entry_people(entry)) | seg_names) if person_link(n)}, key=len, reverse=True)
+    name_re = re.compile("|".join(re.escape(n) for n in names)) if names else None
+    linked_names = set()
+
+    def link_names(segment):
+        if not name_re:
+            return e(segment)
+        out, pos = [], 0
+        for m in name_re.finditer(segment):
+            name = m.group(0)
+            out.append(e(segment[pos:m.start()]))
+            if name in linked_names:
+                out.append(e(name))
+            else:
+                linked_names.add(name)
+                out.append(f'<a class="syn-person" href="{person_link(name)}">{e(name)}</a>')
+            pos = m.end()
+        out.append(e(segment[pos:]))
+        return "".join(out)
+
+    body = "".join(point(m) if isinstance(m, re.Match) else link_names(m) for m in _split_points(text))
     tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
     return (f'<section class="synopsis" data-pagefind-ignore><h2>Summary{tag}</h2><p class="syn-text">{body}</p>'
             '<button type="button" class="syn-more" hidden>Read more</button>'
