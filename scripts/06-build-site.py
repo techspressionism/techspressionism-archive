@@ -299,22 +299,6 @@ def hhmmss(seconds):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
-def build_browse(corpus, active="", navigate=False, sid=""):
-    """'Browse' + a dropdown of the categories with counts. On the home page it swaps the list in place
-    (script); on every other page (navigate=True) choosing one opens that category's own landing page. There
-    nothing is preselected: choosing the category the page belongs to would not fire a change event, so nothing
-    would happen. Each option's real destination is its data-href (nest() depth-adjusts it exactly like a normal
-    href; the plain 'index.html?type=X' formula this used to compute in JS couldn't be depth-adjusted that way)."""
-    def opt_href(label):
-        return f"{label.lower()}s.html"
-    opts = "".join(
-        f'<option value="{e(info["label"])}" data-href="{e(opt_href(info["label"]))}"{" selected" if info["label"] == active and not navigate else ""}>{e(info["plural"])} ({n})</option>'
-        for info, n in [(TYPES[k], sum(1 for x in corpus if x.get("type", "salon") == k)) for k in TYPES] + [(ARTIST_ENTRY, ARTIST_COUNT)] if n)
-    go = ' onchange="location.href=this.selectedOptions[0].dataset.href"' if navigate else ""
-    return (f'<div class="browse"><label for="browse-select{sid}">BROWSE <span class="bslash">//</span></label>'
-            f'<select id="browse-select{sid}"{go}><option value="" data-href="index.html">Choose a category&hellip;</option>{opts}</select></div>')
-
-
 HOME_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" '
             'd="M12 3 2 12h3v8h5v-6h4v6h5v-8h3z"/></svg>')
 
@@ -336,13 +320,13 @@ WP_MENU_CSS = """
 
 
 def build_header(corpus, active="", sid="", strip=True, h1=False):
-    """The site header: title, [BETA], Browse, search box (the type pills are in the markup but hidden for now,
-    see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. (On the home page a script
-    wires the search box and Browse to the page.)"""
+    """The site header: title, [BETA], category links, search box (the type pills are in the markup but hidden
+    for now, see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. The category links
+    (build_browse_links) are spelled out at every width now, mobile included -- no more BROWSE // dropdown
+    (Colin, 2026-09-22: wanted the categories visible immediately everywhere, on every device)."""
     return ((build_wp_strip() if strip else "") + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>' + ('</h1>' if h1 else '') + '\n'
             + build_topnav(corpus, active) + '\n'
-            + build_browse(corpus, active, navigate=True, sid=sid) + '\n'
             + build_browse_links(corpus, active) + '\n'
             '<div class="hright"><form class="hsearch" action="index.html" method="get" role="search">'
             '<input type="search" name="q" placeholder="Search the Archive&hellip;" aria-label="Search the Archive" required></form></div>'
@@ -422,10 +406,7 @@ header.site .wrap { container-type:inline-size; }
 .topnav .n { opacity:.7; font-size:.8em; margin-left:.3rem; }
 header.site .hright { margin:0 0 0 auto; display:flex; flex-direction:column; gap:.4rem; }
 header.site .hsearch { margin:0; }
-header.site .browse { margin:0; gap:.6rem; }
-@media (max-width:63.99rem) { header.site .wrap > .browse { flex:1 1 100%; margin-top:.5rem; } }
-header.site .browse label { font-size:.9rem; }
-header.site .browse select { padding:.3rem .7rem; font-size:.9rem; border-radius:1rem; background:var(--bg); }
+@media (max-width:63.99rem) { header.site .wrap > .browse-links { flex:1 1 100%; margin-top:.4rem; } }   /* its own row, like the BROWSE // dropdown used to sit -- categories visible immediately at every width, per Colin, 2026-09-22 */
 header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-width:100%; height:2.9rem; padding:.4rem 1rem .4rem 2.8rem; border:2px solid var(--accent); border-radius:0; color:var(--fg);
   background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E") no-repeat 1rem center / 1.2rem; }
 header.site .hsearch input::placeholder { color:#757575; opacity:1; }
@@ -592,11 +573,6 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
 #search .pagefind-ui__form::before { display:none; }
 body.searching #intro-block { display:none; }   /* while searching, the results come first */
-.browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
-.browse[hidden] { display:none; }
-.browse label { font:inherit; font-weight:700; letter-spacing:.03em; white-space:nowrap; }
-.browse .bslash { color:var(--accent); }   /* same font as the intro line */
-.browse select { flex:1; min-width:0; font:inherit; padding:.5rem .9rem; border:1px solid var(--line); border-radius:1rem; background:var(--card); color:var(--fg); }
 #search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1.2rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
 @media (max-width:40rem) {   /* phones: filters collapsed behind one button */
@@ -661,12 +637,18 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
+/* the category links: visible at every width, on every page, per Colin (2026-09-22) -- no more BROWSE //
+   dropdown on mobile; this base rule is the mobile size/wrap, the desktop media query below only repositions it */
+header.site .browse-links { display:flex; flex-wrap:wrap; align-items:center; gap:.2rem .45rem; font-size:.85rem; }
+header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
+header.site .browse-links a { color:var(--accent); text-decoration:none; }
+header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
+header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
 /* ---- desktop (64rem and wider) ---- */
-.browse-links { display:none; }
 @media (min-width:64rem) {
   /* every page: title at the left with the search box at the right on row one; the category links always sit on
      their own row directly under the title (row two), left-aligned, close underneath -- not sharing row one with
-     title/search at all (replaces the BROWSE // dropdown, which stays for mobile/tablet: no room to spell them out) */
+     title/search at all */
   header.site .wrap { flex-wrap:wrap; align-items:center; gap:.15rem 1.75rem; }   /* row-gap column-gap: the 1.75rem was also spacing the title row from the links row underneath it -- split so row-gap can be tiny */
   header.site strong { order:1; flex:none; }
   header.site .browse, header.site .hright { flex:none; }
