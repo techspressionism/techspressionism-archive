@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 In Interview 9, Colin Goldberg talks with Italian artist Andrea Bonaceto, based in the UK, about his work with NFTs. Bonaceto describes [[0:30|his background in economics and finance]] and [[2:39|growing up near Pisa]], and discusses [[5:08|the money headlines around NFTs]] and [[8:44|the social change behind blockchain and decentralized finance]]. He tells [[10:39|how a friend noticed his portraits and led him to portray the robot Sophia]], and [[14:08|how Second Life could become decentralized on the blockchain]]. He cites [[15:10|Kandinsky's Concerning the Spiritual in Art as an epiphany]], shows [[18:22|his vector portraits alongside acrylic and abstract work]] and explains [[20:52|the collaborative NFT with Sophia]] and [[22:27|how NFT sales are reported]]. He also talks about [[30:35|joining the Techspressionist community]] and [[34:31|his plans for new portraits and abstract work]].

@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 39, "Old-School Open Mic: Obsolescence" (March 16, 2022), is a group discussion moderated by Davonte Bradley on what becomes obsolete in art and technology. Participants discuss [[4:27|how obsolete objects such as radio tubes become precious]], [[10:33|the lack of an analog-style upgrade path in the digital world]], [[13:09|passing a file back and forth until data degrades]], [[27:06|lost platforms like Flash and Shockwave]] and [[30:08|a large printer that is no longer supported]]. They also consider [[32:54|photographers' use of obsolete materials]], [[45:00|how encyclopedias were replaced by smartphones]], [[1:01:32|how value and money drive obsolescence]], [[1:04:27|burning art]], [[1:13:39|an NFT sold to help a friend in Ukraine]] and [[1:20:30|the internet's origins in redundancy]]. Ideas for future salons include [[1:26:21|short show-and-tell presentations]] and [[1:29:43|making work in response to a topic]].

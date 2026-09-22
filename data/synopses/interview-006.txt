@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 In Interview 6, Colin Goldberg talks with artist and theorist Patrick Lichty, his classmate from the MFA program at Bowling Green. Lichty recalls [[0:38|growing up near Akron, Ohio]] and describes his work as being about [[8:00|mediation]]. They discuss [[11:24|how movements are usually named from the outside]], [[13:26|the intent behind the first Techspressionist manifesto]] and [[16:15|art as a continuum]], then turn to [[27:15|NFTs and the blockchain]]. Lichty tells how he began with [[28:13|light organs made from electronics at age 14]] and [[29:36|drawing on an Atari 800]], and shows [[35:12|early work]] inspired by [[38:51|plotter drawings]]. They talk about [[41:09|post-internet art and vaporwave]], [[48:09|his recent work with GANs]] and [[53:07|teaching at Winona State University]], and close by considering [[56:46|Expressionism as a continuum that Techspressionism now extends]].

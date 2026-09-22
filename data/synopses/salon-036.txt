@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 36 (February 2, 2022), moderated by Davonte Bradley, features Seungjin Lee and Dalton Portella. Lee [[3:06|presents from South Korea]], including [[13:39|her hand-painted paintings placed into a virtual world]]. Portella [[27:51|describes moving between New York, California and Brazil]], and shows [[38:55|self-portraits on OpenSea]], [[49:24|a piece of music he made]] and [[1:00:03|apps working together to build experiences]]. The salon ends with [[1:21:33|a recommendation of tools for showing work]].

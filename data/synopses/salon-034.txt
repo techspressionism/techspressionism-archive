@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 34, "Old-school Open Mic with Robert DuGrenier" (recorded in December 2021 and titled as the first salon of 2022), is moderated by Davonte Bradley. DuGrenier [[3:19|describes a long-running project and the collection of planets it inspired]], then answers questions about NFTs, including [[13:30|acquiring a photograph together with its NFT rights]], [[34:32|how decentralization and central marketplaces compare]], [[45:08|uploading work to IPFS]] and [[1:09:20|how selling an NFT compares to selling a physical piece]]. The salon also covers [[1:19:52|the arrival of new communities into NFTs]], [[1:30:25|the ethics debate around them]] and [[1:43:46|a shared banner for group members' work]].

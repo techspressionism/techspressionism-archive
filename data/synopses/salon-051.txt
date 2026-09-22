@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 51, "AI Engines: Friend or Foe?" (August 31, 2022), is moderated by Renata Janiszewska. David Cohen [[9:41|describes his process as play and letting the paint drip]] and [[13:39|a collage combining harvested images with hand-drawn elements]]. Colin Goldberg [[23:05|demonstrates Midjourney live in Discord]]. Patrick Lichty [[27:37|explains that he has worked in generative art since the mid-1990s]] and [[32:29|compares Midjourney and Stable Diffusion]]. Susan Detroy [[38:57|approaches AI as an experimental tool]], and Michael Pierre Price [[43:42|uses text-to-image AI to develop new visual ideas]] and [[1:05:42|raises the opacity of AI engines]]. Verneda Lights [[53:43|comes to the topic as a newcomer]] and [[1:02:14|argues for awareness and a level playing field among artists]].

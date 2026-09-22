@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 52, "Art and Physics" (September 14, 2022), is moderated by Allen Hirsh. Steve Miller [[7:51|presents his new book]] and [[23:06|its fashion component]], and Paul D. Miller (DJ Spooky) [[25:41|speaks from Yale]] about [[38:22|how audiences once rioted at new music]]. Michael Pierre Price presents [[48:27|a talk titled "Black Holes, Boltzmann Brains and the Heat Death of the Universe"]]. In the discussion, Miller describes [[1:06:57|our Newtonian view of the world]] and [[1:10:41|what he learned when he went to CERN]], Price discusses [[1:14:37|how we know what we know and how we share it]], and Lee Musgrave [[1:17:15|recalls conversations with MIT and art-and-technology people in the 1960s]]. Colin Goldberg comments on [[1:25:36|the effects of NFTs and AI art]].

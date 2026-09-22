@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Salon 59, "AI: Trends and Issues" (December 21, 2022), is the last salon of the year, moderated by Davonte Bradley. After [[3:24|an announcement about an online journal in progress]], participants discuss AI and artists' rights. Verneda Lights [[7:00|explains how copyright protects artists' intellectual property]], Patrick Lichty argues that [[11:45|platforms' terms of service do not respect creators]], and Michael Pierre Price says [[22:30|there is still no detailed account of how any particular engine works]]. Gavin Farrell describes [[33:37|two and a half years of AI art generation with visual-effects artists in Los Angeles]]. Jennifer Hrabota Lesser [[1:05:37|speaks as a traditional artist who worked in video games for twenty years]], and Allen Hirsh says [[1:18:25|he is all for artists using AI]].

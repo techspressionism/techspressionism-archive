@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 In Interview 11, Colin Goldberg talks with sculptor and digital artist Michael Rees, whose work has been shown at the Whitney. Rees describes [[8:34|his family and his older brother's shadow]], [[17:06|the influence of feminism]] and [[18:09|his early interest in constructions of masculinity]]. He recalls [[21:11|living in New York's East Village]], [[26:11|the early 3D animation software he worked with]] and [[33:34|the piracy and business of software]]. He shows animations and sculptures, including [[48:01|the Ajna Spine series from the 1995 Whitney Biennial]] and [[50:51|a show at Grounds for Sculpture]], talks about [[49:21|art and science being one in the Renaissance]] and demonstrates [[1:00:26|a work that turns a picture into video]]. He closes with [[1:08:24|his view of Techspressionism]] and [[1:12:50|Negroponte's idea of bits versus atoms]].

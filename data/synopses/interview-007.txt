@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 In Interview 7, Roz Dimon interviews Michael Pierre Price, an artist with a background in physics and the game industry. He describes [[3:28|growing up in industrial Hammond, Indiana]], [[5:50|his grandmother's influence]] and [[9:57|his physics degree and astrophysics graduate work]]. He explains [[16:06|why experimenting and failing matter to an artist]], [[16:59|how he began with tabletop role-playing games]] and [[28:19|his years developing video games at a toy company]]. He then shares his art, starting with [[49:51|fractals and mathematics]] and [[58:36|the work he makes from them]], [[1:19:16|the difference between his abstract and surrealist pieces]], [[1:23:22|the solo show he is preparing]] and [[1:25:05|a symbolic new piece]], before [[1:28:13|considering how Techspressionism merges technology and expression]].

@@ -1,3 +1,3 @@
-status: draft
+status: reviewed
 
 Presentation 7, "How Technology Changes Artist Interactions with Cultural Sources," is moderated by Stephen Paré and presented with the American Maker Space in Qarshi, Uzbekistan. Paré opens with [[0:00|a definition of Techspressionism and the topic]]. Patrick Lichty presents [[3:40|his work and that of his partner, Negin Ehtesabian]]. The artist cha :) defines [[13:30|"cultural sources" as the images used to build a generative AI model]]. Erin Ko speaks about [[16:07|technology, culture and art as always existing together, including her augmented-reality work]]. In the closing discussion, Paré asks [[23:15|what the audience members do as artists and whether they use technology]], and the makerspace members show 3D models they have built and printed.
