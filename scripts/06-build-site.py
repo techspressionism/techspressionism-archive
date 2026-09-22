@@ -550,7 +550,12 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
 .cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
 aside.cat-list h2 { margin:0 0 .8rem; padding:0 0 .6rem; border-top:none; border-bottom:1px solid var(--accent); font-size:1.2rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- black, larger, a red rule BELOW "All Salons" instead of above */
-@media (min-width:64rem) { .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; } }
+@media (min-width:64rem) {
+  .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; }
+  aside.cat-list { position:sticky; top:1.5rem; max-height:calc(100vh - 3rem); display:flex; flex-direction:column; }   /* its own scrollable pane: the "All Salons" heading stays put while the list scrolls in the space below it, the rest of the page scrolls normally (Colin, 2026-09-22) */
+  aside.cat-list h2 { flex:none; }
+  aside.cat-list ul.sessions { flex:1 1 auto; min-height:0; overflow:auto; scrollbar-width:thin; }
+}
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; gap:.4rem; }
