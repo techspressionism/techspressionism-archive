@@ -180,8 +180,11 @@ def main():
             people[key] = {"name": name.strip(" *"), "aliases": set(), "location": "", "links": {}, "ts_profile": "",
                            "exhibitions": {}, "reels": []}
         rec = people[key]
-        if name.strip(" *") != rec["name"] and "//" not in name:
-            rec["aliases"].add(name.strip(" *"))
+        cleaned = name.strip(" *")
+        # a spelling that differs from the canonical name only by capitalization ("renata Janiszewska" vs
+        # "Renata Janiszewska") is the same name, not a real alias worth showing -- compare case-insensitively
+        if cleaned.lower() != rec["name"].lower() and "//" not in name:
+            rec["aliases"].add(cleaned)
         if handle and handle.group(1).strip():
             rec["aliases"].add(handle.group(1).strip())
         return rec

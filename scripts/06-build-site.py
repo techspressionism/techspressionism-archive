@@ -1661,8 +1661,8 @@ function citationBlock(c) {{
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
   return '<div class="citation-info" data-cid="' + c.id + '" data-cite="' + escapeHtml(JSON.stringify(info)) + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
     + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>'
-    + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
-    + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
+    + '<div class="cite-actions"><a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
+    + '<button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
     + citeFormatSelect(fmt) + '</div></div>';
 }}
 
@@ -2037,7 +2037,7 @@ def watch_pill(href, seconds, label="WATCH"):
 def build_person_page(p):
     labels = p["exhibition_labels"]
     def count_link(n, one, many, anchor):
-        return f'<li><a href="#{anchor}">{n:,} {one if n == 1 else many}</a></li>'
+        return f'<a href="#{anchor}">{n:,} {one if n == 1 else many}</a>'
     profile = p.get("ts_profile") if p.get("ts_profile") and link_ok(p["ts_profile"]) else ""
     # every profile on techspressionism.com is a page of the Southampton exhibition, so the link sits under that show
     exhibitions = dict(p["exhibitions"])
@@ -2051,7 +2051,7 @@ def build_person_page(p):
         facts.append(count_link(len(p["mentions"]), "mention", "mentions", "mentions"))
     if exhibitions:
         facts.append(count_link(len(exhibitions), "exhibition", "exhibitions", "exhibitions"))
-    facts_html = "".join(facts)
+    facts_html = ' <span class="fsep">/</span> '.join(facts)
     links = []
     for k, en in enumerate(p["interviews"]):
         many = f" ({e(fmt_date(en.get('date_recorded')))})" if len(p["interviews"]) > 1 else ""
@@ -2067,7 +2067,7 @@ def build_person_page(p):
     if links:
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
-        parts.append(f'<ul class="facts">{facts_html}</ul>')
+        parts.append(f'<p class="facts">{facts_html}</p>')
     if exhibitions:
         rows = []
         for slug, credits in exhibitions.items():
@@ -2124,8 +2124,8 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
-.person ul.facts { margin:.4rem 0 0; }
-.person ul.facts li { margin:.15rem 0; font-size:1.1rem; }
+.person p.facts { margin:.4rem 0 0; font-size:1.1rem; }   /* one line, slash-separated, per Colin -- was a stacked bulleted list */
+.person p.facts .fsep { color:var(--muted); margin:0 .15em; }
 .person h2[id] { scroll-margin-top:1rem; }
 .person ul { list-style:none; padding:0; margin:0; }
 .rowitem { display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:.7rem 0; border-bottom:1px solid var(--line); }
