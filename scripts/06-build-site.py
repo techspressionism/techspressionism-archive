@@ -273,6 +273,13 @@ SERIES = {
     "presentation": lambda n: "Hello Uzbekistan Presentations",
 }
 BRAND = "Techspressionism Video Archive"
+FLAG_LABELS = {   # plain-English phrasing for entry["flags"] codes, for the unobtrusive note under a recording (never a raw flag code)
+    "moderator_missing": "no moderator is credited",
+    "recording_date_estimated_from_upload": "the recording date is estimated from the upload date",
+    "session_title_unparseable": "the session title couldn't be read from the source",
+    "speaker_index_missing": "no structured speaker list was available for this recording",
+    "speaker_index_partially_unparseable": "part of the speaker list couldn't be read",
+}
 TITLE_BRAND = "Techspressionism Archive"   # shorter brand suffix used only in <title> tags, to leave room for the page's distinctive,
                                             # searchable content within Google's ~60-char SERP title display; BRAND itself (visible
                                             # headers, citations, og:site_name, social_title) is unchanged everywhere else
@@ -432,7 +439,7 @@ h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .speakers a.name:hover, .speakers a.name:focus-visible { text-decoration:underline; }
 .speakers a.turn-t { color:#fff; background:var(--accent); border-radius:.7rem; padding:.05rem .55rem; font-size:.78em; font-weight:700; text-decoration:none; white-space:nowrap; flex:none; }   /* jump to when their turn starts, per Colin 2026-09-22: reuses the manually-curated or transcript-detected timecode from presentation_index() -- precedes the name */
 .speakers a.turn-t:hover, .speakers a.turn-t:focus-visible { background:#b30000; }
-.flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
+.flags { font-size:.8rem; color:var(--muted); margin:0 0 1.5rem; }   /* plain, unobtrusive note, styled like .syn-note -- not a warning box (2026-09-22, per Colin: it read like a bug report, not a footnote) */
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
@@ -951,6 +958,10 @@ document.addEventListener("change", function (ev) {
   if (!s) return;
   citeStore(s.value);
   [].slice.call(document.querySelectorAll("[data-cite]")).forEach(citeApply);
+  // a longer format (BibTeX, RIS) grows the citation text and pushes everything below it further down the
+  // page without the viewport following -- keep the dropdown the person just used in view instead of letting
+  // it (and everything after it) slide below the fold. "nearest" is a no-op if it's already visible.
+  s.scrollIntoView({ block: "nearest", behavior: "smooth" });
 });
 """
 
@@ -1426,10 +1437,8 @@ def build_session_page(entry, siblings=()):
                    # per-utterance Zoom speaker labels make a missing timestamp index moot
                    if not (f == "speaker_index_missing" and entry.get("transcript_source") == "zoom-transcript")]
     if shown_flags:
-        flags_html = (
-            '<p class="flags" data-pagefind-ignore>Known gaps in this recording\'s metadata: '
-            + e(", ".join(shown_flags).replace("_", " ")) + ".</p>"
-        )
+        phrases = [FLAG_LABELS.get(f, f.replace("_", " ")) for f in shown_flags]
+        flags_html = f'<p class="flags" data-pagefind-ignore>Note: {e("; ".join(phrases))}.</p>'
 
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
     seg_html = []
@@ -2733,7 +2742,10 @@ def add_seo(page_html, filename, seo):
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
                              alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
     page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
-    return page_html.replace("</body>", FOOTER + "\n</body>", 1)
+    # inside <main>, not after it, per Colin 2026-09-22: as a separate section after </main> (its own centered
+    # block, outside the two-column layout above it) it read as a distinct "fixed footer pane" rather than the
+    # last line of the page's own content
+    return page_html.replace("</main>", FOOTER + "\n</main>", 1)
 
 
 def build_about(corpus):
