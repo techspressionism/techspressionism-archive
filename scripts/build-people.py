@@ -66,6 +66,7 @@ PERSON_MERGES = {
     "Giovanna Sun": ["Dubwoman aka Giovanna Sun"],
     "Paul D. Miller aka DJ Spooky that Subliminal Kid": ["Paul D. Miller aka DJ Spooky"],
     "Reese Schroeder": ["Wiliam Reese Schroeder"],
+    "Jan Swinburne": ["Jan Swinbume"],   # "rn" misread as "m" somewhere in a WP export source (a bare, dataless stub record)
 }
 
 

@@ -45,6 +45,23 @@
  },
  "people": [
   {
+   "id": "w-v-rogers-stellarfire",
+   "name": "W.V. Rogers \"Stellarfire\"",
+   "aliases": [],
+   "location": "Mountain View, USA",
+   "links": {
+    "website": [
+     "https://www.stellarfire.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/bill.stellarfire//"
+    ]
+   },
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
    "id": "gabriel-a",
    "name": "Gabriel A.",
    "aliases": [],
@@ -152,16 +169,6 @@
    "reels": []
   },
   {
-   "id": "larry-akers",
-   "name": "Larry Akers",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "moritz-albrecht",
    "name": "Moritz Albrecht",
    "aliases": [],
@@ -250,16 +257,6 @@
    "reels": []
   },
   {
-   "id": "tina-anderson",
-   "name": "Tina Anderson",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "malavika-mandal-andrew",
    "name": "Malavika Mandal Andrew",
    "aliases": [
@@ -338,16 +335,6 @@
    "reels": []
   },
   {
-   "id": "javier-apariciofrago",
-   "name": "Javier AparicioFrago",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "m-ismet-arca",
    "name": "M. Ismet Arca",
    "aliases": [],
@@ -404,11 +391,20 @@
    "reels": []
   },
   {
-   "id": "cape-cod-museum-of-art",
-   "name": "Cape Cod Museum of Art",
-   "aliases": [],
-   "location": "",
-   "links": {},
+   "id": "beau-tardy-artist",
+   "name": "Beau Tardy Artist",
+   "aliases": [
+    "Beau Tardy Artist - B❤️!"
+   ],
+   "location": "Houston, USA",
+   "links": {
+    "website": [
+     "https://beautardyartist.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/beautardyartist/"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -447,9 +443,7 @@
   {
    "id": "cheryl-audet-lavoie",
    "name": "Cheryl Audet-Lavoie",
-   "aliases": [
-    "Cheryl Lavoie"
-   ],
+   "aliases": [],
    "location": "Alexandria, USA",
    "links": {
     "instagram": [
@@ -549,13 +543,13 @@
    "id": "ariel-baron-robbins",
    "name": "Ariel Baron-Robbins",
    "aliases": [],
-   "location": "USA",
+   "location": "Miami, USA",
    "links": {
     "website": [
-     "https://www.arielbaronrobbins.com"
+     "https://arielbaron-robbins.com/"
     ],
     "instagram": [
-     "https://www.instagram.com/arielbaronrobbinsart/"
+     "https://www.instagram.com/arielbaronlapciucart/"
     ]
    },
    "ts_profile": "",
@@ -688,16 +682,6 @@
      "https://en.wikipedia.org/wiki/Ivan_Beerkus"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "tam-benjamin",
-   "name": "Tam Benjamin",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -974,16 +958,6 @@
      "Peter Borges, Constant State of Confusion , 2021, Acrylic on Canvas, 28x28.."
     ]
    },
-   "reels": []
-  },
-  {
-   "id": "michael-borras",
-   "name": "Michael Borras",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
    "reels": []
   },
   {
@@ -1277,16 +1251,6 @@
    "reels": []
   },
   {
-   "id": "judith-carlin",
-   "name": "Judith Carlin",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "seth-indigo-carnes",
    "name": "Seth Indigo Carnes",
    "aliases": [],
@@ -1407,10 +1371,10 @@
    "location": "Miami Beach, USA",
    "links": {
     "website": [
-     "https://web.archive.org/web/20070502071752/http://www.geocities.com/cdavewesterman/"
+     "https://cha.cc.cc/"
     ],
     "instagram": [
-     "https://instagram.com/cdw_nstgrm/"
+     "https://www.instagram.com/nstgrm_cha/"
     ],
     "nft": [
      "https://objkt.com/@tzcha"
@@ -1555,9 +1519,11 @@
    "reels": []
   },
   {
-   "id": "david-cohen",
-   "name": "David Cohen",
-   "aliases": [],
+   "id": "david-doodleslice-cohen",
+   "name": "David \"Doodleslice\" Cohen",
+   "aliases": [
+    "David Cohen"
+   ],
    "location": "Atlanta, USA",
    "links": {
     "website": [
@@ -1567,16 +1533,6 @@
      "https://www.instagram.com/doodleslice/"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "giuliano-comperato",
-   "name": "Giuliano Comperato",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -2149,6 +2105,16 @@
    "reels": []
   },
   {
+   "id": "tom-dunn",
+   "name": "Tom Dunn",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
    "id": "joshua-duttweiler",
    "name": "Joshua Duttweiler",
    "aliases": [],
@@ -2192,6 +2158,16 @@
      "https://www.instagram.com/sechevere/"
     ]
    },
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
+   "id": "ellis-eclipse",
+   "name": "Ellis Eclipse",
+   "aliases": [],
+   "location": "",
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -2261,16 +2237,6 @@
      "Negin Ehtesabian, Googled Earth (Iran) , 2021,digital print on fabric, print 69 x 61 inches edition of 5."
     ]
    },
-   "reels": []
-  },
-  {
-   "id": "neginete-el",
-   "name": "Neginete EL",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
    "reels": []
   },
   {
@@ -2481,6 +2447,16 @@
      "Tomaz Favilla, Squared Sun , 2019-2022. Digital monoprint on aluminum, 24 x 24 inches. Edition of one."
     ]
    },
+   "reels": []
+  },
+  {
+   "id": "cory-feco",
+   "name": "Cory Feco",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
    "reels": []
   },
   {
@@ -2751,16 +2727,6 @@
    "reels": []
   },
   {
-   "id": "james-gardiner",
-   "name": "James Gardiner",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "dhruv-garg",
    "name": "Dhruv Garg",
    "aliases": [],
@@ -2803,9 +2769,7 @@
   {
    "id": "gregory-patrick-garvey",
    "name": "Gregory Patrick Garvey",
-   "aliases": [
-    "Gregory Garvey"
-   ],
+   "aliases": [],
    "location": "Hamden, USA",
    "links": {
     "website": [
@@ -2948,16 +2912,6 @@
      "https://www.instagram.com/caorline/"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "david-godefroy",
-   "name": "david godefroy",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -4335,9 +4289,7 @@
   {
    "id": "max-dali-kamilla-kulova",
    "name": "Max Dalí / Kamilla Kulova",
-   "aliases": [
-    "Max Dalí Kamilla Kulova"
-   ],
+   "aliases": [],
    "location": "Fortaleza, Brazil",
    "links": {
     "website": [
@@ -4487,6 +4439,16 @@
      "exhibition": "southampton"
     }
    ]
+  },
+  {
+   "id": "renata-janiszewska-and-karen-lafleur",
+   "name": "Renata Janiszewska and Karen LaFleur",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
   },
   {
    "id": "paul-r-lastovica",
@@ -4763,16 +4725,6 @@
      "https://Instagram.com/adellelin"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "lineadeluz",
-   "name": "Lineadeluz",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -5141,16 +5093,6 @@
      "Diane Marsella, A Star is Born , 2021, photography, 24 x 24, 1/100.."
     ]
    },
-   "reels": []
-  },
-  {
-   "id": "dimitrije-martinovic",
-   "name": "Dimitrije Martinovic",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
    "reels": []
   },
   {
@@ -5763,16 +5705,6 @@
    "reels": []
   },
   {
-   "id": "jacki-morie",
-   "name": "Jacki Morie",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "jacquelyn-ford-morie",
    "name": "Jacquelyn Ford Morie",
    "aliases": [],
@@ -5793,9 +5725,11 @@
    "reels": []
   },
   {
-   "id": "carmen-moses",
-   "name": "Carmen Moses",
-   "aliases": [],
+   "id": "carmen-payasa-moses",
+   "name": "Carmen \"Payasa\" Moses",
+   "aliases": [
+    "Carmen Moses"
+   ],
    "location": "Augusta, USA",
    "links": {
     "website": [
@@ -5805,6 +5739,16 @@
      "https://instagram.com/payasaart/"
     ]
    },
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
+   "id": "cee-moses",
+   "name": "Cee Moses",
+   "aliases": [],
+   "location": "",
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -6422,16 +6366,6 @@
    "reels": []
   },
   {
-   "id": "techspressionism-panel",
-   "name": "Techspressionism Panel",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "afrooz-partovi",
    "name": "Afrooz Partovi",
    "aliases": [],
@@ -6463,6 +6397,16 @@
     "brooklyn": [],
     "chelsea": []
    },
+   "reels": []
+  },
+  {
+   "id": "christiane-paul",
+   "name": "Christiane Paul",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
    "reels": []
   },
   {
@@ -6900,6 +6844,16 @@
    "reels": []
   },
   {
+   "id": "joyce-raimondo",
+   "name": "Joyce Raimondo",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
    "id": "ria-rajan",
    "name": "Ria Rajan",
    "aliases": [],
@@ -7159,20 +7113,6 @@
    "reels": []
   },
   {
-   "id": "3r-studio-retech",
-   "name": "3R Studio ReTech",
-   "aliases": [],
-   "location": "USA",
-   "links": {
-    "instagram": [
-     "https://www.instagram.com/retech_org/"
-    ]
-   },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "everardo-reyes",
    "name": "Everardo Reyes",
    "aliases": [],
@@ -7262,7 +7202,7 @@
      "https://www.instagram.com/_nightshining/"
     ]
    },
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/prince-magnolia-x-st-rivera/",
+   "ts_profile": "",
    "exhibitions": {
     "brooklyn": [],
     "chelsea": []
@@ -7290,23 +7230,6 @@
     ],
     "instagram": [
      "https://instagram.com/kenneth_ian_rogers"
-    ]
-   },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "w-v-rogers",
-   "name": "W.V. Rogers",
-   "aliases": [],
-   "location": "Mountain View, USA",
-   "links": {
-    "website": [
-     "https://www.stellarfire.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/bill.stellarfire//"
     ]
    },
    "ts_profile": "",
@@ -7389,16 +7312,6 @@
    "reels": []
   },
   {
-   "id": "marilyn-r-rosenberg",
-   "name": "Marilyn R. Rosenberg",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "lorin-roser",
    "name": "Lorin Roser",
    "aliases": [],
@@ -7460,12 +7373,7 @@
   {
    "id": "cynthia-beth-rubin",
    "name": "Cynthia Beth Rubin",
-   "aliases": [
-    "C B Rubin",
-    "CB Rubin",
-    "Cynthia B Rubin",
-    "Cynthia Rubin"
-   ],
+   "aliases": [],
    "location": "New Haven, USA",
    "links": {
     "website": [
@@ -7751,6 +7659,16 @@
    "reels": []
   },
   {
+   "id": "josh-scott",
+   "name": "Josh Scott",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
+   "reels": []
+  },
+  {
    "id": "anson-seeno",
    "name": "Anson Seeno",
    "aliases": [],
@@ -7791,16 +7709,6 @@
      "https://www.instagram.com/sanazmiss/"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "matt-semke",
-   "name": "Matt Semke",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -8180,7 +8088,7 @@
      "https://www.instagram.com/sarahsxr/"
     ]
    },
-   "ts_profile": "https://techspressionism.com/exhibition/southampton/sarah-song-and-andy-wauman/",
+   "ts_profile": "",
    "exhibitions": {},
    "reels": []
   },
@@ -8506,19 +8414,11 @@
    "reels": []
   },
   {
-   "id": "lisa-sutton",
-   "name": "Lisa Sutton",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "jan-swinburne",
    "name": "Jan Swinburne",
-   "aliases": [],
+   "aliases": [
+    "Jan Swinbume"
+   ],
    "location": "Toronto, Canada",
    "links": {
     "website": [
@@ -8626,16 +8526,6 @@
    ]
   },
   {
-   "id": "leeee-sznajberg",
-   "name": "Leeee Sznajberg",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "nesrin-soylemez",
    "name": "Nesrin Söylemez",
    "aliases": [],
@@ -8699,26 +8589,6 @@
     "brooklyn": [],
     "chelsea": []
    },
-   "reels": []
-  },
-  {
-   "id": "beau-tardy",
-   "name": "Beau Tardy",
-   "aliases": [
-    "Beau Tardy Artist",
-    "Beau Tardy Artist - B❤️!"
-   ],
-   "location": "Houston, USA",
-   "links": {
-    "website": [
-     "https://beautardyartist.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/beautardyartist/"
-    ]
-   },
-   "ts_profile": "",
-   "exhibitions": {},
    "reels": []
   },
   {
@@ -9118,16 +8988,6 @@
    "reels": []
   },
   {
-   "id": "mario-viele",
-   "name": "Mario Viele",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "yannet-vilela",
    "name": "Yannet Vilela",
    "aliases": [
@@ -9305,6 +9165,16 @@
     "brooklyn": [],
     "chelsea": []
    },
+   "reels": []
+  },
+  {
+   "id": "andy-warhol",
+   "name": "Andy Warhol",
+   "aliases": [],
+   "location": "",
+   "links": {},
+   "ts_profile": "",
+   "exhibitions": {},
    "reels": []
   },
   {
