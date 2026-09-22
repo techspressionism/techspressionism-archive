@@ -429,7 +429,7 @@ header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
-h1 .h1-sep { color:var(--accent); font-weight:400; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin */
+h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
@@ -499,7 +499,7 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin */
+section.synopsis h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin; margin-bottom widened .3rem->.8rem for more room before the synopsis text, per Colin */
 .synopsis .syn-text { margin:0; line-height:1.55; }
 .synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
 .synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
@@ -523,7 +523,7 @@ section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px
 .cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
-.cat-latest .cat-sep { color:var(--accent); font-weight:400; }
+.cat-latest .cat-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* extra room from the text on both sides, per Colin (matches h1 .h1-sep) */
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
 .cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
 .cat-latest.wrapped .cat-title-link { display:block; color:var(--accent); }
