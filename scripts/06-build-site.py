@@ -588,11 +588,10 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 #search { margin:.4rem 0 .3rem; }
 #search .pagefind-ui__results-area { margin-top:.3rem; }   /* Pagefind's own default (18px + another 18px of padding on the message right below) leaves too much dead space above "N results for...", per Colin */
 #search .pagefind-ui__message { padding-top:0; }
-.reccount { margin:.2rem 0 .6rem; color:var(--fg); }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
 #search .pagefind-ui__form::before { display:none; }
-body.searching #intro-block, body.searching .reccount, body.searching .sessions-group { display:none; }   /* while searching, the results come first */
+body.searching #intro-block { display:none; }   /* while searching, the results come first */
 .browse { display:flex; align-items:center; gap:.8rem; margin:.7rem 0 1rem; }
 .browse[hidden] { display:none; }
 .browse label { font:inherit; font-weight:700; letter-spacing:.03em; white-space:nowrap; }
@@ -662,7 +661,6 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
 mark.hit { background:#ffef5c; color:inherit; padding:0 .1em; border-radius:.15em; }
-body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repeats the sentence above; the count shows once a category is chosen (all widths) */
 /* ---- desktop (64rem and wider) ---- */
 .browse-links { display:none; }
 @media (min-width:64rem) {
@@ -694,16 +692,15 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
   body.home .browse-links a { color:var(--accent); }
   body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
   body.home main { max-width:44rem; width:100%; margin:0 auto; }
-  /* like Google, the whole block sits in the vertical middle of the page until a search or a category makes it longer */
-  body.home:not(.searching):not(.browsing) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
-  body.home:not(.searching):not(.browsing) main { padding-top:0; padding-bottom:0; }
-  body.home:not(.searching):not(.browsing) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
-  body.home:not(.searching):not(.browsing) #search { margin:0; }
+  /* like Google, the whole block sits in the vertical middle of the page until a search makes it longer */
+  body.home:not(.searching) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
+  body.home:not(.searching) main { padding-top:0; padding-bottom:0; }
+  body.home:not(.searching) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
+  body.home:not(.searching) #search { margin:0; }
   body.home header.site { width:100%; }
-  body.home.searching header.site .wrap, body.home.browsing header.site .wrap { padding-top:2.5rem; }
+  body.home.searching header.site .wrap { padding-top:2.5rem; }
 
 }
-.sessions-group h3 { margin:.9rem 0 0; font-size:1.05rem; text-transform:uppercase; letter-spacing:.04em; text-align:center; }
 """
 
 # The search filter dropdowns (Country, Speaker, Type, Year) and the phone "Filters" button are hidden for now;
@@ -1584,15 +1581,6 @@ This is a research tool intended for scholars, historians, and anyone with an in
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
 </div>
-<p class="reccount"><span id="rec-count">{count_text}</span></p>
-<script>
-(function () {{   // the intro shows on the home page, and on a category page only the first time a visitor sees it
-  var seen = false;
-  try {{ seen = sessionStorage.getItem("tvaSeen") === "1"; }} catch (e) {{}}
-  if (new URLSearchParams(location.search).get("type") && seen) document.getElementById("intro-block").hidden = true;
-  else try {{ sessionStorage.setItem("tvaSeen", "1"); }} catch (e) {{}}
-}})();
-</script>
 <div id="search"></div>
 <script>
 {cite_js}
@@ -1629,7 +1617,6 @@ function escapeHtml(s) {{
 // duo credits, non-Western orderings -- to invert reliably), so names stay
 // in the natural order they're recorded in.
 const PILL_SVG = {pill_svg_js};
-const REC_COUNTS = {rec_counts_js};
 
 // The result text is the WHOLE sentence containing the match (search hit words highlighted), found in the
 // page text by the hit's word position: back to the previous sentence end, forward to the next one.
@@ -1800,10 +1787,8 @@ window.addEventListener('DOMContentLoaded', () => {{
       return result;
     }},
   }});
-  // header search boxes on transcript pages send visitors here as ?q=term;
-  // ?type=Interview preselects a media type
+  // header search boxes on transcript pages send visitors here as ?q=term
   const params = new URLSearchParams(location.search);
-  setType(params.get("type") || "");
   const q = params.get("q");
   if (q) ui.triggerSearch(exactQuery(q));
 
@@ -1861,35 +1846,9 @@ window.addEventListener('DOMContentLoaded', () => {{
   searchBox.addEventListener("change", syncFiltersButton);
   syncFiltersButton();
 
-  function choose(type) {{      // one path for the header pills and the Browse dropdown
-    setType(type);
-    history.replaceState(null, "", type ? "?type=" + encodeURIComponent(type) : location.pathname);
-    document.getElementById("intro-block").hidden = !!type;   // already seen: choosing a category hides the intro, "All" brings it back
-  }}
-  document.getElementById("typebar").addEventListener("click", (ev) => {{
-    const btn = ev.target.closest("a[data-type]");
-    if (btn && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey) {{
-      ev.preventDefault();
-      choose(btn.dataset.type);
-    }}
-  }});
-  const browseSel = document.getElementById("browse-select");
-  browseSel.removeAttribute("onchange");                       // on other pages it opens the home page; here it swaps the list
-  // Artists list: filter as you type (the list holds only people heard or named in the recordings)
-  const artistBox = document.getElementById("artist-filter");
-  function filterArtists() {{
-    if (!artistBox) return;
-    const q = artistBox.value.trim().toLowerCase();   // the A-Z jump bar stays up throughout -- someone filtering might still want to jump a letter (Colin, 2026-09-22)
-    for (const li of document.querySelectorAll("#artist-list li")) {{
-      li.hidden = !!q && !li.dataset.name.includes(q);
-    }}
-  }}
-  if (artistBox) {{ artistBox.addEventListener("input", filterArtists); filterArtists(); }}
-  browseSel.addEventListener("change", (ev) => choose(ev.target.value));
-  document.querySelector(".browse-links").addEventListener("click", (ev) => {{
-    const a = ev.target.closest("a[data-type]");
-    if (a && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey) {{ ev.preventDefault(); choose(a.dataset.type); }}
-  }});
+  // category links (header pills, Browse dropdown, the spelled-out row under the search box) are plain
+  // navigation everywhere, forever, sitewide (Colin, 2026-09-22) -- no more in-place ?type= filtering here;
+  // each one already has its own real href/data-href to its category's own landing page, nothing to wire up
 
   // the header search box is the search box: it drives the results shown on this page
   const headerSearch = document.querySelector("header.site .hsearch");
@@ -1903,20 +1862,6 @@ window.addEventListener('DOMContentLoaded', () => {{
     searchTimer = setTimeout(() => ui.triggerSearch(exactQuery(headerInput.value)), 150);
   }});
   if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
-
-  function setType(type) {{
-    for (const b of document.querySelectorAll("#typebar a[data-type]")) {{
-      b.setAttribute("aria-current", String(b.dataset.type === type));
-    }}
-    for (const g of document.querySelectorAll(".sessions-group")) {{
-      g.hidden = !type || g.dataset.type !== type;      // no list until a category is chosen
-    }}
-    document.getElementById("browse-select").value = type;
-    for (const a of document.querySelectorAll(".browse-links a[data-type]")) a.setAttribute("aria-current", String(a.dataset.type === type));
-    document.body.classList.toggle("browsing", !!type);
-    document.getElementById("rec-count").textContent = REC_COUNTS[type] || REC_COUNTS[""];   // the count and years follow the selected category
-    // search always covers every category; choosing one here only changes the list shown below
-  }}
 }});
 
 // event delegation: result cards render/re-render as the user types, so a
@@ -1933,7 +1878,6 @@ document.addEventListener('click', (e) => {{
   }});
 }});
 </script>
-{groups}
 </main>
 </body>
 </html>
@@ -2295,41 +2239,22 @@ def build_artists_page(corpus):
 
 
 def build_index(corpus):
-    groups, spans = [], {}
-    type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
-    for t, info in type_labels:
-        entries = sorted((x for x in corpus if x.get("type", "salon") == t), key=list_order)
-        rows = []
+    """The home page: search first, a link to each category's own landing page -- no per-category listing lives
+    here any more (Colin, 2026-09-22: those were reachable in place via a query-string URL, which he ruled out
+    sitewide/forever; browsing now always means a real navigation to that category's real page)."""
+    spans = {}
+    for t in TYPES:
+        entries = [x for x in corpus if x.get("type", "salon") == t]
+        if not entries:
+            continue
         # date range of the category; year-only placeholder dates (e.g. "2000") are ignored, and
         # data/site-config.json "series_start_years" can set the year a series began (Salons: 2020)
         yrs = [int(x["date_recorded"][:4]) for x in entries if len(x.get("date_recorded") or "") >= 7]
         if yrs:
-            first = min(yrs + [int(SITE_CONFIG.get("series_start_years", {}).get(info["label"], min(yrs)))])
-            last = max(yrs)
-            span = f" ({first}&ndash;{last})" if first != last else f" ({first})"
-            spans[info["label"]] = (len(entries), first, last)
-        else:
-            span = ""
-        rows = [session_row_html(entry) for entry in entries]
-        groups.append(
-            f'<section class="sessions-group" data-type="{e(info["label"])}">'
-            f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
-    if ARTIST_COUNT:                       # the Artists list: everyone with a page, those heard or named in the recordings first-class
-        groups.append('<section class="sessions-group" data-type="Artist">' + build_artist_directory_html() + '</section>')
-        spans["Artist"] = (ARTIST_COUNT, 0, 0)
-    def count_text(n, first, last):
-        years = f"{first}\u2013{last}" if first != last else str(first)
-        return f"{n} recording{'' if n == 1 else 's'} \u00b7 {years}."
-    rec_counts = {label: count_text(*v) for label, v in spans.items() if label != "Artist"}
-    if ARTIST_COUNT:
-        rec_counts["Artist"] = f"{ARTIST_COUNT} artists heard or named in the recordings."
-    if any(k != "Artist" for k in spans):
-        rec_counts[""] = count_text(len(corpus), min(v[1] for k, v in spans.items() if k != "Artist"), max(v[2] for k, v in spans.items() if k != "Artist"))
-    else:
-        rec_counts[""] = f"{len(corpus)} recordings."
-
+            first = min(yrs + [int(SITE_CONFIG.get("series_start_years", {}).get(TYPES[t]["label"], min(yrs)))])
+            spans[TYPES[t]["label"]] = (len(entries), first, max(yrs))
     latest_year = max((int(x["date_recorded"][:4]) for x in corpus if x.get("date_recorded")), default=2020)
-    first_year = min((v[1] for k, v in spans.items() if k != "Artist"), default=latest_year)      # start of the earliest series (data/site-config.json series_start_years can set it)
+    first_year = min((v[1] for v in spans.values()), default=latest_year)      # start of the earliest series (data/site-config.json series_start_years can set it)
     hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
     as_of = datetime.date.today().strftime("%B %Y")
     return INDEX_TMPL.format(
@@ -2338,9 +2263,6 @@ def build_index(corpus):
         hours=hours,
         as_of=as_of,
         n_recordings=len(corpus),
-        count_text=e(rec_counts[""]),
-        rec_counts_js=json.dumps(rec_counts),
-        groups="\n".join(groups),
         watch_lead_in=WATCH_LEAD_IN,
         header=build_header(corpus, "", h1=True),
         pill_svg_js=json.dumps(PILL_SVG),
