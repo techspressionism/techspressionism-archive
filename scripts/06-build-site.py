@@ -664,7 +664,10 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 .sessions .thumb { display:block; flex:none; width:72px; height:40px; border-radius:.25rem; object-fit:cover; background:#ddd; }   /* a small thumbnail on a phone ... */
 @media (min-width:64rem) { .sessions .thumb { width:96px; height:54px; } }   /* ... a larger one on a computer */
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
-#search { margin:.4rem 0 .3rem; }
+.search-sort { display:none; float:right; margin:0; text-align:right; font-size:.9rem; }   /* floated right so it shares the same visual line as "N results for..." (deep inside #search's own managed DOM, not a true flex sibling) instead of sitting in its own row above it -- and out of normal flow entirely when hidden until a search happens, so it reserves no space either way; per Colin 2026-09-22 */
+body.searching .search-sort { display:block; }
+.search-sort select { font:inherit; font-size:.85rem; padding:.3rem 1.8rem .3rem .7rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; margin-left:.5rem; }   /* same pill treatment as the Citation Format / language selects; margin-left for space from the "Sort by" label, per Colin 2026-09-22 */
+#search { margin:0 0 .3rem; }   /* top margin removed -- was leaving too much space above the results line now that .search-sort shares it instead of sitting above, per Colin 2026-09-22 */
 #search .pagefind-ui__results-area { margin-top:.3rem; }   /* Pagefind's own default (18px + another 18px of padding on the message right below) leaves too much dead space above "N results for...", per Colin */
 #search .pagefind-ui__message { padding-top:0; }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
@@ -828,7 +831,7 @@ PAGE_TMPL = """<!doctype html>
 {player}
 <h1 class="rec-title" data-pagefind-meta="title:{meta_title}"><span class="rt-label">{label}</span> <span class="h1-sep">&#47;&#47;</span> <span class="topic">{topic}</span></h1>
 <p class="meta">
-{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}">{recorded}</span>{moderator}{curator}
+{date_word} <span data-pagefind-filter="year:{year}" data-pagefind-meta="date:{date_iso}" data-pagefind-sort="date:{date_iso}">{recorded}</span>{moderator}{curator}
 <span data-pagefind-filter="type:{type_cap}" data-pagefind-meta="type:{type_cap}" hidden></span>
 <span data-pagefind-meta="youtube:{url}" hidden></span>
 <span data-pagefind-meta="video_id:{video_id}" hidden></span>
@@ -1915,6 +1918,10 @@ This is a research tool intended for scholars, historians, and anyone with an in
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
 </div>
+<div class="search-sort" data-pagefind-ignore><label>Sort by <select id="sort-select" aria-label="Sort search results by">
+<option value="">Relevance</option>
+<option value="date">Date (newest first)</option>
+</select></label></div>
 <div id="search"></div>
 <script>
 {cite_js}
@@ -2093,34 +2100,42 @@ function citationInfo(result, sr, seconds) {{
 }}
 
 window.addEventListener('DOMContentLoaded', () => {{
-  const ui = new PagefindUI({{
-    element: "#search",
-    // resolve the bundle relative to wherever index.html actually sits
-    // (site root locally, project subpath on GitHub Pages)
-    bundlePath: location.pathname.replace(/[^/]*$/, "") + "pagefind/",
-    showSubResults: true,
-    showImages: false,
-    pageSize: 8,
-    translations: {{ placeholder: "Search the Archive…", zero_results: "No matches for [SEARCH_TERM]" }},
-    processResult: (result) => {{
-      // Pagefind derives its own base URL from bundlePath, so result URLs
-      // already resolve correctly under a project subpath. Add a direct
-      // deep-link to the matching second of the video, plus a ready-to-paste
-      // Chicago-style citation, on each sub-result.
-      const yt = result.meta && result.meta.youtube;
-      for (const sr of (result.sub_results || [])) {{
-        sr.title = (sr.title || "").replace(/^\s*WATCH\s*/, "");      // the timecode button's word is not part of the speaker's name
-        const m = (sr.url || "").match(/#(t\d+)/);
-        if (!yt || !m) continue;
-        const parts = sentenceParts(result, sr);      // the whole sentence that matched, not a fixed-length snippet
-        const c = {{ id: ++citeSeq, result, sr, anchor: m[1], at: parseInt(m[1].slice(1), 10), to: null,
-                    hits: parts ? parts.hits : [], sentenceHtml: parts ? parts.html : sr.excerpt, sentenceText: parts ? parts.text : "", done: false }};
-        CITES.set(c.id, c);
-        sr.excerpt = c.sentenceHtml + citationBlock(c);       // provisional; enhanceCitations() adds the sentences before and after
-      }}
-      return result;
-    }},
-  }});
+  // PagefindUI's `sort` option is only read once, at construction (confirmed against the bundled
+  // pagefind-ui.js: it's a Svelte prop, and its own triggerSearch()/triggerFilters() reach into the
+  // component's internal $$set() for everything EXCEPT sort, which isn't reactive that way) -- so changing
+  // sort later means destroying this instance and building a fresh one, not mutating the live one.
+  function makeUi(sortValue) {{
+    return new PagefindUI({{
+      element: "#search",
+      // resolve the bundle relative to wherever index.html actually sits
+      // (site root locally, project subpath on GitHub Pages)
+      bundlePath: location.pathname.replace(/[^/]*$/, "") + "pagefind/",
+      showSubResults: true,
+      showImages: false,
+      pageSize: 8,
+      sort: sortValue,
+      translations: {{ placeholder: "Search the Archive…", zero_results: "No matches for [SEARCH_TERM]" }},
+      processResult: (result) => {{
+        // Pagefind derives its own base URL from bundlePath, so result URLs
+        // already resolve correctly under a project subpath. Add a direct
+        // deep-link to the matching second of the video, plus a ready-to-paste
+        // Chicago-style citation, on each sub-result.
+        const yt = result.meta && result.meta.youtube;
+        for (const sr of (result.sub_results || [])) {{
+          sr.title = (sr.title || "").replace(/^\s*WATCH\s*/, "");      // the timecode button's word is not part of the speaker's name
+          const m = (sr.url || "").match(/#(t\d+)/);
+          if (!yt || !m) continue;
+          const parts = sentenceParts(result, sr);      // the whole sentence that matched, not a fixed-length snippet
+          const c = {{ id: ++citeSeq, result, sr, anchor: m[1], at: parseInt(m[1].slice(1), 10), to: null,
+                      hits: parts ? parts.hits : [], sentenceHtml: parts ? parts.html : sr.excerpt, sentenceText: parts ? parts.text : "", done: false }};
+          CITES.set(c.id, c);
+          sr.excerpt = c.sentenceHtml + citationBlock(c);       // provisional; enhanceCitations() adds the sentences before and after
+        }}
+        return result;
+      }},
+    }});
+  }}
+  let ui = makeUi(null);
   // header search boxes on transcript pages send visitors here as ?q=term
   const params = new URLSearchParams(location.search);
   const q = params.get("q");
@@ -2196,6 +2211,19 @@ window.addEventListener('DOMContentLoaded', () => {{
     searchTimer = setTimeout(() => ui.triggerSearch(exactQuery(headerInput.value)), 150);
   }});
   if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
+
+  // Relevance (Pagefind's own default ranking) or newest-first, by each recording's own date_recorded
+  // (data-pagefind-sort="date:..." in PAGE_TMPL). Verified live that PagefindUI's `sort` option only takes
+  // effect at construction (not a later $$set()), so a change here destroys and rebuilds the whole UI rather
+  // than trying to mutate the live one. Per Colin 2026-09-22.
+  const sortSelect = document.getElementById("sort-select");
+  if (sortSelect) {{
+    sortSelect.addEventListener("change", () => {{
+      ui.destroy();
+      ui = makeUi(sortSelect.value === "date" ? {{ date: "desc" }} : null);
+      ui.triggerSearch(exactQuery(headerInput.value));
+    }});
+  }}
 }});
 
 // event delegation: result cards render/re-render as the user types, so a
