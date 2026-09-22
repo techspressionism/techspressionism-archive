@@ -748,6 +748,7 @@ PAGE_TMPL = """<!doctype html>
 <div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
 </div>
 </section>
+{footer}
 </div>
 <div class="right">
 {watch_next}
@@ -1547,6 +1548,7 @@ def build_session_page(entry, siblings=()):
         citation=citation_html,
         cite_data=e(cite_data),
         cite_format_select=cite_format_select_html(),
+        footer=FOOTER,
     )
 
 
@@ -2160,6 +2162,7 @@ def build_category_page(stype, entries):
 {excerpt}
 </section>
 {recent_section}
+{FOOTER}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
 </div>{CATEGORY_PLAYER_JS}"""
@@ -2742,10 +2745,13 @@ def add_seo(page_html, filename, seo):
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
                              alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
     page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
-    # inside <main>, not after it, per Colin 2026-09-22: as a separate section after </main> (its own centered
-    # block, outside the two-column layout above it) it read as a distinct "fixed footer pane" rather than the
-    # last line of the page's own content
-    return page_html.replace("</main>", FOOTER + "\n</main>", 1)
+    # inside the actual content column, not just anywhere in <main> or after it, per Colin 2026-09-22: a
+    # two-column page (a recording, a category page) already places FOOTER itself, right at the bottom of its
+    # content column and before its sidebar -- this is the fallback for every single-column page (home, about,
+    # person, artists) that doesn't, so it still ends up as the last line of that page's own content either way
+    if "sitefoot" not in page_html:
+        page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
+    return page_html
 
 
 def build_about(corpus):
