@@ -356,6 +356,7 @@ PERSON_BY_NORM = {}  # normalised name (or alias) -> person
 ARTIST_COUNT = 0     # people listed by default under Artists (heard or mentioned in the recordings)
 ARTIST_ENTRY = {"label": "Artist", "plural": "Artists"}
 TIMES = {}           # slug -> sentence times for the search results (written to site/times/)
+AUTO_PRESENTATION_SLUGS = []   # slugs where presentation_index() detected a participant timecode itself (no manual data to use) -- printed at the end so Colin can spot-check them
 def build_browse_links(corpus, active=""):
     """Category links: red links separated by black double slashes. Shown under the search box on the desktop
     home page, and in the header on every other page (build_header). Salons/Interviews/Roundtables/Presentations
@@ -440,8 +441,10 @@ h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .speakers { list-style:none; padding:0; margin:0 0 1.5rem; display:flex; flex-wrap:wrap; gap:.4rem .8rem; }
-.speakers li { background:var(--card); border:1px solid var(--line); border-radius:1rem; padding:.15rem .7rem; font-size:.9rem; }
+.speakers li { background:var(--card); border:1px solid var(--line); border-radius:1rem; padding:.15rem .7rem; font-size:.9rem; display:inline-flex; align-items:center; flex-wrap:wrap; gap:.35rem; }
 .speakers .country { color:var(--muted); }
+.speakers a.turn-t { color:#fff; background:var(--accent); border-radius:.7rem; padding:.05rem .55rem; font-size:.78em; font-weight:700; text-decoration:none; white-space:nowrap; }   /* jump to when their turn starts, per Colin 2026-09-22: reuses the manually-curated or transcript-detected timecode from presentation_index() */
+.speakers a.turn-t:hover, .speakers a.turn-t:focus-visible { background:#b30000; }
 .flags { background:#fff8e1; border:1px solid #ffe08a; border-radius:.4rem; padding:.5rem .8rem; font-size:.88rem; color:#7a5c00; margin-bottom:1.5rem; }
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
@@ -1320,21 +1323,26 @@ def build_session_page(entry, siblings=()):
     stype = entry["type"]
 
     year = (entry.get("date_recorded") or "")[:4] or "unknown"
-    speakers = entry.get("speakers", [])
-    countries = sorted({s["country"] for s in speakers if s.get("country")})
+    pindex = presentation_index(entry)
+    countries = sorted({loc for _, loc, _, _ in pindex if loc})
 
-    if speakers or countries:
+    if pindex:
+        def turn_pills(starts):
+            return "".join(
+                f'<a class="turn-t" href="{e(entry["url"])}&amp;t={int(t)}s" title="Watch from {hhmmss(t)}">'
+                f'&#9654; {hhmmss(t)}</a>'
+                for t in starts)
         sp_items = "".join(
-            f'<li data-pagefind-filter="speaker:{facet(s["name"])}">{participant_name(s["name"])}'
-            + (f' <span class="country">{e(s.get("location") or s.get("country"))}</span>'
-               if (s.get("location") or s.get("country")) else "")
+            f'<li data-pagefind-filter="speaker:{facet(name)}">{participant_name(name)}'
+            + (f' <span class="country">{e(loc)}</span>' if loc else "")
+            + turn_pills(starts)
             + "</li>"
-            for s in speakers
+            for name, loc, starts, auto in pindex
         )
         country_tags = "".join(
             f'<span data-pagefind-filter="country:{facet(c)}" hidden></span>' for c in countries
         )
-        speakers_html = (f'<details class="people"><summary>Participants ({len(speakers)})</summary>'
+        speakers_html = (f'<details class="people"><summary>Participants ({len(pindex)})</summary>'
                          f'<ul class="speakers">{sp_items}</ul>{country_tags}</details>')
     else:
         speakers_html = ""
@@ -2382,6 +2390,40 @@ def entry_clips(entry):
     return sorted(sorted(clips, key=lambda c: c[1] - c[2])[:40], key=lambda c: c[1])
 
 
+def presentation_index(entry):
+    """The Participants list, each name paired with a jump-to-timecode for their real turn(s) -- salons and
+    presentations only (an interview or roundtable is just people talking throughout; there's no "their turn
+    starts here" to mark). A manually-curated timed speaker index (data/sessions.json, itself usually
+    harvested straight from the timecoded list Colin already puts in the YouTube description) is used as-is
+    when present. Otherwise -- or for a listed name with no time attached -- the timecode is detected
+    straight from the transcript: entry_clips() already finds every stretch where one identified speaker
+    holds the floor for two minutes or more (merging consecutive segments, skipping unidentified speech and
+    brief interjections); reused here, with the moderator's own stretches filtered out (introducing/hosting
+    isn't presenting -- entry_clips has no notion of a moderator). A person can have more than one qualifying
+    turn. Returns [(name, location_or_country, [start_seconds, ...], auto), ...] in first-appearance order;
+    auto is True when the time(s) came from detection rather than Colin's own curated data."""
+    speakers = entry.get("speakers", [])
+    if entry.get("type") not in ("salon", "presentation"):
+        return [(s["name"], s.get("location") or s.get("country"), [s["start"]] if s.get("start") is not None else [], False)
+                for s in speakers]
+    moderator = re.split(r"\s*(?:-|//)\s*", entry.get("moderator") or "", 1)[0].strip() or None
+    by_name = {}
+    for sp, start, _end in entry_clips(entry):
+        if sp and sp != moderator:
+            by_name.setdefault(sp, []).append(start)
+    if speakers:
+        result = [(s["name"], s.get("location") or s.get("country"),
+                   [s["start"]] if s.get("start") is not None else sorted(by_name.get(s["name"], [])),
+                   s.get("start") is None and bool(by_name.get(s["name"])))
+                  for s in speakers]
+    else:
+        # no manually-curated list at all: build the participants list straight from the transcript
+        result = [(name, None, sorted(starts), True) for name, starts in sorted(by_name.items(), key=lambda kv: min(kv[1]))]
+    if any(auto for _, _, _, auto in result):
+        AUTO_PRESENTATION_SLUGS.append(slug(entry))
+    return result
+
+
 def transcript_md_href(entry):
     return f"transcripts/{slug(entry)}.md"
 
@@ -2667,6 +2709,10 @@ def main():
                                                  f"artist-{pp['id']}.html", seo_for_person(pp)), 2)
     write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
+    if AUTO_PRESENTATION_SLUGS:
+        print(f"{len(AUTO_PRESENTATION_SLUGS)} sessions got a Participants timecode detected from the transcript "
+              f"(no manually-curated one to use) -- spot-check: {', '.join(AUTO_PRESENTATION_SLUGS[:8])}"
+              + (f", +{len(AUTO_PRESENTATION_SLUGS) - 8} more" if len(AUTO_PRESENTATION_SLUGS) > 8 else ""))
     (SITE_DIR / "times").mkdir(exist_ok=True)
     for sl, data in TIMES.items():
         (SITE_DIR / "times" / f"{sl}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
