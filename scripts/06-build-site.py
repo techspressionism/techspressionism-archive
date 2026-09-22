@@ -2327,7 +2327,9 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
 .person p.facts { margin:.4rem 0 0; font-size:1.1rem; }   /* one line, slash-separated, per Colin -- was a stacked bulleted list */
 .person p.facts .fsep { color:var(--muted); margin:0 .15em; }
-.artists-head { padding-bottom:1.5rem; margin-bottom:1.5rem; text-align:center; }   /* centered above the search box, red rule below removed, per Colin 2026-09-22 (was left-aligned + a red rule); scoped to the Artists category page only, individual artist pages untouched */
+.artists-page { max-width:52rem; margin:0 auto; }   /* narrower than main.person.category's 84rem (which exists for the OTHER category pages' two-column featured+list grid -- Artists doesn't use that layout at all), matching individual artist pages' own width so the list's names aren't flush to the edge, per Colin 2026-09-22 */
+.artists-head { margin-bottom:.8rem; text-align:center; }   /* centered above the search box, red rule below removed, per Colin 2026-09-22 (was left-aligned + a red rule + far more padding/margin, back when the rule needed the breathing room); scoped to the Artists category page only, individual artist pages untouched */
+.artists-head p.d { margin:0; }   /* the count line's own default <p> margin (1em top+bottom) was the real gap under "Artists" -- per Colin 2026-09-22 */
 .person h2[id] { scroll-margin-top:1rem; }
 .person ul { list-style:none; padding:0; margin:0; }
 .rowitem { display:flex; gap:1rem; align-items:center; justify-content:space-between; padding:.7rem 0; border-bottom:1px solid var(--line); }
@@ -2344,7 +2346,7 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 @media (max-width:40rem) { .rowitem { flex-direction:column; align-items:flex-start; } }
 /* the Artists directory's search-by-last-name box -- styled to match the home page's own search box (same
    height, font size, padding, border and icon treatment), centered at the same max-width, per Colin 2026-09-22 */
-.artist-tools { margin:.6rem auto 1.5rem; max-width:44rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
+.artist-tools { margin:0 auto 1.5rem; max-width:44rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
 .artist-tools input[type=search] { font:inherit; font-weight:700; font-size:1.2rem; width:100%; height:3.7rem; padding:.4rem 1rem .4rem 3.2rem; border:2px solid var(--accent); border-radius:0; color:var(--fg); flex:1 1 auto;
   background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E") no-repeat 1.1rem center / 1.4rem; }
 .artist-tools input[type=search]::placeholder { color:#757575; opacity:1; }
