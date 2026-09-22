@@ -323,7 +323,7 @@ LANGUAGES = [
 ]
 
 
-LANG_SWITCH_JS = """<script>
+GLOBAL_LANG_JS = """<script>
 function tvaSetLanguage(lang) {
   var host = location.hostname;
   if (!lang) {
@@ -334,37 +334,69 @@ function tvaSetLanguage(lang) {
   }
   location.reload();
 }
-(function () {
-  var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
-  var sel = document.getElementById("lang-select");
-  if (m && sel) sel.value = m[1];
-})();
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({ pageLanguage: "en", autoDisplay: false }, "google_translate_element");
 }
 </script>
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-"""
+"""   # emitted once only, from the main (non-sticky) wpstrip -- one Google Translate instance covers the whole
+      # page regardless of how many dropdown UIs (main + the sticky-header clone) drive it via tvaSetLanguage
 
 
-def build_wp_strip():
+def build_wp_strip(sticky=False):
     """A home button at the top right of every page: back to the main Techspressionism site. Also the
     language switcher (Google's free Website Translator, same underlying service the GTranslate plugin on
     techspressionism.com itself wraps) -- a custom <select> driving it via the "googtrans" cookie instead of
-    Google's own default widget UI, which is unstyled and pushes the whole page down with its own banner."""
+    Google's own default widget UI, which is unstyled and pushes the whole page down with its own banner.
+    Both are wrapped in .wpgroup, which JS centers over the nearest search box.
+
+    sticky=True builds the copy that lives inside the sticky mini-header (#stickytitle), so it's still reachable
+    without scrolling back to the top, per Colin 2026-09-22. It needs its own element ids (a page can carry both
+    copies at once) and reuses the global tvaSetLanguage()/Google Translate setup emitted by the main copy rather
+    than loading it a second time."""
+    variant = "-sticky" if sticky else ""
     lang_opts = "".join(f'<option value="{code}">{e(label)}</option>' for code, label in LANGUAGES)
     lang_switch = (f'<div class="langswitch" data-pagefind-ignore>'
-                   f'<select id="lang-select" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
-                   f'<option value="">Language</option>{lang_opts}</select></div>'
-                   f'<div id="google_translate_element" hidden></div>')
-    return (f'<div class="wpstrip"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
-            f'{HOME_SVG}<span>Techspressionism.com</span></a>{lang_switch}</div>\n{LANG_SWITCH_JS}')
+                   f'<select id="lang-select{variant}" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
+                   f'<option value="">Language</option>{lang_opts}</select></div>')
+    wpgroup = (f'<div class="wpgroup"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
+               f'{HOME_SVG}<span>Techspressionism.com</span></a>{lang_switch}</div>')
+    strip_html = f'<div class="wpstrip">{wpgroup}</div>'
+    # each instance restores its own dropdown's value from the cookie, and centers its own .wpgroup over the
+    # nearest matching search box -- scoped to .stickyheader for the sticky copy, since a page can carry both
+    input_selector = ".stickyheader .hsearch input" if sticky else "header.site .hsearch input"
+    instance_js = f"""<script>
+(function () {{
+  var thisScript = document.currentScript;
+  document.addEventListener("DOMContentLoaded", function () {{
+    var sel = document.getElementById("lang-select{variant}");
+    var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
+    if (m && sel) sel.value = m[1];
+    var wpstrip = thisScript.previousElementSibling;
+    var grp = wpstrip && wpstrip.querySelector(".wpgroup");
+    var input = document.querySelector("{input_selector}");
+    if (!grp || !input) return;
+    function align() {{
+      if (window.innerWidth < 1024) {{ grp.style.marginRight = ""; return; }}
+      var gw = grp.getBoundingClientRect().width, iw = input.getBoundingClientRect().width;
+      grp.style.marginRight = ((iw - gw) / 2) + "px";
+    }}
+    align();
+    window.addEventListener("resize", align);
+    if (window.MutationObserver) new MutationObserver(align).observe(input, {{ attributes: true, attributeFilter: ["style"] }});
+  }});
+}})();
+</script>"""
+    if sticky:
+        return strip_html + "\n" + instance_js
+    return strip_html + "\n" + instance_js + '\n<div id="google_translate_element" hidden></div>\n' + GLOBAL_LANG_JS
 
 
 WP_MENU_CSS = """
 /* the home button at the top right of every page: back to techspressionism.com */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
 @media (max-width:63.99rem) { .wpstrip { justify-content:center; border-bottom-color:var(--accent); } }   /* mobile only, per Colin: Techspressionism.com centered at the very top, red rule below instead of gray */
+.wpgroup { display:flex; align-items:center; }   /* home link + language selector as one unit -- JS (see LANG_SWITCH_JS) nudges it left with a computed margin-right so it centers over the search box on desktop, rather than sitting flush against the page edge, per Colin 2026-09-22 */
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
 .wphome svg { flex:none; color:var(--accent); }   /* the home icon is red even though the text beside it is black */
@@ -382,8 +414,12 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
     """The site header: title, [BETA], category links, search box (the type pills are in the markup but hidden
     for now, see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. The category links
     (build_browse_links) are spelled out at every width now, mobile included -- no more BROWSE // dropdown
-    (Colin, 2026-09-22: wanted the categories visible immediately everywhere, on every device)."""
-    return ((build_wp_strip() if strip else "") + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
+    (Colin, 2026-09-22: wanted the categories visible immediately everywhere, on every device).
+
+    strip: True for the normal home-link/language-selector strip, "sticky" for the copy that lives inside the
+    sticky mini-header (its own element ids, reuses the main copy's Google Translate setup), False for none."""
+    strip_html = build_wp_strip(sticky=(strip == "sticky")) if strip else ""
+    return (strip_html + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
             '<span class="beta">[BETA]</span></strong>' + ('</h1>' if h1 else '') + '\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse_links(corpus, active) + '\n'
@@ -1728,7 +1764,7 @@ def build_session_page(entry, siblings=()):
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
         header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
-        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip=False),
+        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip="sticky"),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
