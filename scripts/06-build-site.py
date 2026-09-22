@@ -2279,6 +2279,17 @@ def entry_people(entry):
     return names
 
 
+def _entry_people_broad(entry):
+    """entry_people(), broadened with segment-level speaker attribution when the curated "speakers" list is
+    empty -- some salons (e.g. 26, 29, 49) never got a structured speaker index but do have real per-turn
+    attribution in their segments (same gap synopsis_html() already works around)."""
+    people = entry_people(entry)
+    if people:
+        return people
+    names = {s.get("speaker") for s in entry.get("segments", []) if s.get("speaker") and not is_not_speaker(s.get("speaker"))}
+    return sorted(names)
+
+
 ARTIST_SEARCH_SIGNALS = json.loads((ROOT / "data" / "artist-search-signals.json").read_text()) \
     if (ROOT / "data" / "artist-search-signals.json").exists() else {"gsc": {}, "researched": {}}
 
@@ -2313,10 +2324,16 @@ def artist_prominence(name):
     return score * 3
 
 
+_BARE_DATE_TITLE = re.compile(r"^[A-Z][a-z]+ \d{1,2},? \d{4}$")   # "December 7, 2023" used as a placeholder topic, not a real one
+
+
 def _is_namelist_title(text):
     """True when a salon/roundtable's session_title is just a plain roster of participant surnames/names
-    (common on early salons, e.g. "Dimon, Kralikova, Lichty, Kell, Moses") rather than an actual topic."""
+    (common on early salons, e.g. "Dimon, Kralikova, Lichty, Kell, Moses") or a bare placeholder date
+    ("December 7, 2023") rather than an actual topic."""
     text = (text or "").strip()
+    if _BARE_DATE_TITLE.match(text):
+        return True
     return bool(text) and len(text) < 90 and bool(re.fullmatch(r"([A-Z][\w.'À-ſ-]*\.?,?\s*){2,8}", text.replace(" and ", ", ").replace(" & ", ", ")))
 
 
@@ -2329,7 +2346,7 @@ def title_for_entry_meta(entry):
     name = entry_heading(entry)
     if entry.get("type") not in ("salon", "roundtable"):
         return name
-    people = entry_people(entry)
+    people = _entry_people_broad(entry)
     if len(people) < 2:
         return name
     lead = max(people, key=artist_prominence)
@@ -2452,13 +2469,43 @@ def synopsis_html(entry):
             'The timestamps link to the moments discussed. Please check details against the video.</p></section>')
 
 
+def _ranked_names_clause(people):
+    """Up to 3 names, ranked by artist_prominence() (real search data first, see title_for_entry_meta's
+    docstring), joined naturally: "X, Y and Z" for 3 or fewer people total, "X, Y, Z and others" for more."""
+    ranked = sorted(people, key=lambda n: -artist_prominence(n))
+    top = ranked[:3]
+    if len(ranked) <= 3:
+        return (", ".join(top[:-1]) + f" and {top[-1]}") if len(top) > 1 else (top[0] if top else "")
+    return ", ".join(top) + " and others"
+
+
 def entry_description(entry):
+    """The page's <meta description> / OG / JSON-LD description -- separate from the VISIBLE synopsis
+    (synopsis_html()), same as the <title> tag is separate from the visible H1: this can lead with whichever
+    participant is actually worth searching for without touching the curated synopsis prose at all."""
+    people = _entry_people_broad(entry)
+    etype = entry.get("type", "salon")
+    if etype in ("salon", "roundtable", "presentation") and len(people) >= 2:
+        # no single natural "star" among a multi-speaker session (unlike an interview, which always leads with
+        # the interviewee) -- lead with whoever is actually worth searching for instead, per Colin: "optimize
+        # all recordings for the most searched artists... put in context of what the recording is about.
+        # Thus leveraging the names in all Salons" -- takes priority over the synopsis for this reason alone;
+        # every salon/roundtable/presentation already has a reviewed synopsis, so without this override this
+        # logic would never actually run.
+        topic = (entry.get("session_title") or "").strip()
+        names = _ranked_names_clause(people)
+        # a topic that's really just this same roster under another name (e.g. one long participant name the
+        # namelist regex can't parse, like "Paul D. Miller aka DJ Spooky...") shouldn't repeat as the "about"
+        real_topic = topic and not _is_namelist_title(topic) and not any(p.lower() in topic.lower() for p in people[:3])
+        about = f"discussing their work in {topic}" if real_topic else "discussing their work"
+        lead = f"This {TYPES[etype]['label'].lower()} features artists {names}, {about}."
+        tail = " Timestamped to the exact moment in the video."
+        return lib_seo.clip_text(lead + tail if len(lead) < 120 else lead)
     reviewed = load_synopsis(entry)
     if reviewed:                                             # a reviewed synopsis is the page's description
         return lib_seo.clip_text(synopsis_plain(reviewed))
     date = entry.get("date_recorded")
     when = f", {'published' if date_is_estimate(entry) else 'recorded'} {fmt_date(date)}" if date else ""
-    people = entry_people(entry)
     with_ = ""
     if people:
         with_ = " With " + ", ".join(people[:4]) + (" and others" if len(people) > 4 else "") + "."
