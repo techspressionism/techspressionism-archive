@@ -220,7 +220,7 @@ Have it up. So before I play this, um, as a lot of you know, I'm taking language
 
 ## Unattributed [30:56](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1856s)
 
-. . . . . . . . . . . . .
+…
 
 ## Jan Swinburne [31:16](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1876s)
 
@@ -228,7 +228,7 @@ Have it up. So before I play this, um, as a lot of you know, I'm taking language
 
 ## Unattributed [31:21](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1881s)
 
-. . . .
+…
 
 ## Renata Janiszewska [31:31](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1891s)
 

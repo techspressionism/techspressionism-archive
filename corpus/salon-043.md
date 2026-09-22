@@ -97,9 +97,7 @@ Angelic figures emerge, beckoning us to experience their musings of beyond. Sens
 
 ## Unattributed [16:28](https://www.youtube.com/watch?v=KyBLFghq4N0&t=988s)
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+…
 
 ## Nina Sobell [19:36](https://www.youtube.com/watch?v=KyBLFghq4N0&t=1176s)
 

@@ -39,6 +39,14 @@ flags:
   - moderator_missing
 ---
 
+## Unattributed [00:03](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3s)
+
+Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon Number 56. Today is Wednesday, November 9th, and the theme of tonight's salon is cultural influences. And that was suggested by Giovanna, who's here with us tonight. And the way it's going to work is, you know, if you're interested in presenting your work, please use the reactions button at the bottom of the Zoom grid window to raise your hand. And I will call on artists in the order that I see them in the queue there.
+
+And again, it does not need to be any kind of real formal presentation. Although if you did create a formal presentation. That's great, too. You're more than welcome to share your screen and pull work up either off your desktop or off the web or whatever you so choose. You know, and the topic of cultural influences is also, you know, quite widely open to interpretation. So without further ado, I see on the top of my list is Vernada. So Vernada, do you want to kick us off?
+
+Sure, we can do that. Well, since I had my NFT presentation today, and it's all about cultural influences, I figured I would do
+
 ## Verneda Lights [01:36](https://www.youtube.com/watch?v=I7-nXjL2koA&t=96s)
 
 A repeat. It lasts about five minutes. So let's get started. Oh, and if you're not presenting, if you could mute yourself, that would be appreciated. Okay. Okay, hold on a second. Let me pull up my, get my screen queued up here. Okay. Okay. Okay. Well, good evening. My name is Verneda Lights. And I'm a visual. I'm a visual artist who uses both Techspressionist and traditional approaches to create fine art. My artistic practice is richly informed by my background as a graphic and web designer, author, performance poet, historian, retired physician, and griot of the Gullah Geechee Nation of the South Carolina Low Country. The title of my NFT project is Gullah Me 2.0.

@@ -173,7 +173,7 @@ This is the light of the human spirit. This image speaks for itself. And we'll I
 
 ## Unattributed [31:08](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1868s)
 
-. . . Thank you.
+… Thank you.
 
 ## Verneda Lights [31:57](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1917s)
 

@@ -268,7 +268,7 @@ Hello. Bonjour. Can you hear me? Can you see me? Is it working? Is the connectio
 
 ## Cynthia Beth Rubin [36:01](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2161s)
 
-. . .
+…
 
 ## Unattributed [36:12](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2172s)
 
@@ -276,11 +276,11 @@ Hello. Bonjour. Can you hear me? Can you see me? Is it working? Is the connectio
 
 ## Cynthia Beth Rubin [36:20](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2180s)
 
-. . . . . .
+…
 
 ## Unattributed [36:25](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2185s)
 
-. . . . . . . . ¶¶ ¶¶ We are the same Let the light We
+… ¶¶ ¶¶ We are the same Let the light We
 
 ## Unattributed [39:28](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=2368s)
 

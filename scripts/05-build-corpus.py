@@ -717,8 +717,10 @@ def segments_from_youtube(session, artists, vocab_terms, review_rows):
         # -- emit the transcript as unattributed time blocks rather than
         # silently dropping real transcript content from the corpus.
         segments.append({"speaker": None, "start": words[0]["start"], "boundary_end": None})
-    elif boundaries[0][0] > words[0]["start"] + 5 and session.get("moderator"):
-        segments.append({"speaker": session["moderator"], "start": words[0]["start"], "boundary_end": boundaries[0][0]})
+    elif boundaries[0][0] > words[0]["start"] + 5:
+        # The stretch before the first named speaker belongs to the moderator; with no moderator on record it is kept
+        # Unattributed (21 Sep 2026: salons 37, 60, 67 and 100 had lost their first 13-31 minutes to a missing moderator)
+        segments.append({"speaker": session.get("moderator"), "start": words[0]["start"], "boundary_end": boundaries[0][0]})
     for i, (start, name) in enumerate(boundaries):
         end = boundaries[i + 1][0] if i + 1 < len(boundaries) else None
         segments.append({"speaker": name, "start": start, "boundary_end": end})

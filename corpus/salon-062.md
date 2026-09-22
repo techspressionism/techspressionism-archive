@@ -24,6 +24,14 @@ flags:
   - moderator_missing
 ---
 
+## Unattributed [00:02](https://www.youtube.com/watch?v=k8Prps3LUKE&t=2s)
+
+Hey everyone, my name is Colin Goldberg and welcome to the Expressionist Salon number 62. Today is Wednesday, February 1st, 2023, and this evening's topic is art pirates. So I'm just going to really quickly share my screen here. So this piece of artwork, art pirates, fittingly enough, was created using Midjourney, pirating the artwork from everyone on the internet and coming up with this image.
+
+And the prompt that was used to create the image was Expressionist art pirates. So that's what Midjourney thinks a Expressionist art pirate looks like. Wow. But the topic was originally just pirates. And I think Renata suggested, I think Tommy might have came up with pirates. And then Renata suggested that we add art to make it art pirates. But anything that anyone wants to show to share related to this idea and or anything else that's going on in the studios, I'd rather have the time be spent while we're recording of people showing and sharing their work than just having to do it on the internet. So I'm going to go ahead and get started. And then, you know, I mean, definitely discourse is also, you know, certainly encouraged. So without further ado, I'm going to kick us off with our first artist who we'll be presenting.
+
+And that is Zach Zaitseff, Zachary Zaitzeff. So just a quick intro. I met Zach many moons ago when I was through Steve Miller, when I was primarily doing a lot of client work. And I'm going to talk a little bit about Zach. And I'm going to talk a little bit about Zach. I've gotten to know him as an artist as well. At that time, I was working with him doing a website for a restaurant that he owned in New York that was actually pretty close to where I used to live in New York back in the day. So I'm going to hand the mic over to Zach. And Zach, you're welcome to share your screen at any time if you wish. Sure.
+
 ## Zachary Zaitzeff [02:14](https://www.youtube.com/watch?v=k8Prps3LUKE&t=134s)
 
 Yeah, I'm Zachary Zaitzeff. I am a transplant from originally from New York, but live in. Louisiana, just north of New Orleans. And I've been making art for close to making and selling art close to 30 years. And I use as many, many different kinds of media as possible. Hello? Can you hear me all right? Yeah. And for everyone who isn't sharing, if you could just mute yourselves, that'd be appreciated. Sorry, Zach. So, I mean, for example, now making. Whirly gigs. But I consider myself a painter. And I have something to share that I really haven't shown anybody except for Colin. It's a short video that I did. And let me just sort of present it. And then I can explain it. But I'd like to definitely hear people's feedback on it. So how do I? Where's the share? So on the bottom of the Zoom window, there should be a green.

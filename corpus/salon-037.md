@@ -19,6 +19,122 @@ flags:
   - speaker_index_partially_unparseable
 ---
 
+## Unattributed [00:02](https://www.youtube.com/watch?v=1hehNivSYTo&t=2s)
+
+Hello, hello, hello, and welcome everyone to our Techspresh Newsome virtual salon. I am your host, Davonte Bradley, fellow artist and friend to a lot of you people now. With me is Colin Goldberg, who coined the term, and our wonderful, well, one of our presenters for today, the other one's running a little late, but Deanna is also in attendance, going to be presenting.
+
+And just want to welcome all of you. Again. So if you are new around these parts, and our little corner of the internet and Zoom, we normally conduct these meetings pretty, pretty open on the flow. We do, we start things off with usually two presenters. During the time that presenters are presenting, we ask that you keep your mic muted and save your questions until later. Which you... You can drop your questions in the chat. I'll get to them then.
+
+Or any other comments, doesn't have to be a question. And then we'll have a discussion about said presentation after presentation's done. We've been doing this for a minute now since September of 2020, right? 20... Yeah. No, wait. Was it? My sense of time is messed up because pandemic happened. Has it been? 2020, I believe. Yeah. Yeah. Oh, yeah. It doesn't, it doesn't seem like it, but yeah. We've been doing it since a long time. I remember those first ones. Yeah. Yeah. But it doesn't seem like 2020.
+
+Anyway, we've been, we've been at this for, for a while now, but this is a really fairly close knit community that I've come to love. And quite a few of you have come to love it as well. And yeah, that's, that's it. That's kind of all I wanted to share at the start. So with that being said, Deanna, are you ready to go? I am ready to go. All right. Do you have the floor? Thank you.
+
+My name is Deanna Diavola. Can you see this first of all? Give me a... Yep. Okay, great. I'm Deanna Diavola. I am a digital artist, an acquired savant, and a cynist. What is acquired savantism? Some might know, some might not. But basically I received my art ability overnight. I had never been an artist. I'm getting ready to celebrate the fifth anniversary of a multiple sclerosis relapse and TBI injury that, I think, resulted in this fantastic art gift.
+
+## Unattributed [03:03](https://www.youtube.com/watch?v=1hehNivSYTo&t=183s)
+
+There is a doctor by the name of Darryl Treffert. He's the Rain Man doctor. And he talks about people, savants, having abilities that they never learned. Or we know things that we've never been taught. My savantism arrived with this crazy group of images. I have worked on a book in my library, and I've been working on a book called The! My co-author is on tonight, Wilma Davidson. And we produced Soldier Sister Savant, which actually shares my story of being in the military and onward and my accident and the art gift.
+
+Through the eyes of Cassini, a lot of my art, I would say 90% begins with fractal geometry. Fractal geometry always plays some segment. I tend to... I tend to mix fractals up, work with formulas, work with images, and get a lot of different results. This was a fractal manipulation with the name courtesy of Cynthia DiDonato.
+
+She won a contest. We named it. Splinter Man is actually an NFT and was part of an NFT collaboration of 50 international artists. Eames Swirly. I can't remember his name. So I don't know. And I don't know your name. The with perception. Having MS, vision is affected with me hearing and the sense of touch. So I try to recreate a lot of it. This was actually created in the midst of an insomnia bout.
+
+And it's a fractal recreated, manipulated, and recreated again with 30,000 individual curves. Curves. This is another fractal recreated. I love the bright colors. They I tend to exaggerate color texture. Synesthesia, if you're not familiar with it, I have it, but it is a crossing of the senses. So for me, sound produces color.
+
+And shape. I tend to work with experimental things. I'm trying to bring out some glass and a little bit of texture. Texture again. This was a fractal somewhere along the way, and I'm going to use it. I mean, I've probably used it in other pieces. I'll use many different pieces of my artwork to make new artwork.
+
+## Unattributed [06:06](https://www.youtube.com/watch?v=1hehNivSYTo&t=366s)
+
+Fractal geometry using self-similarity. And since 2017, I've created about 1,200 pieces of artwork. I never knew what an art exhibit was. I've never taken an art class. I've never taken an art class. I didn't know what fractal geometry was. I didn't know what a fractal was. I've never taken color theory.
+
+It's truly a mystery to me and the world. There are about 300 of us in the world. Fractals. Texture. Texture. Presupods. Congratulations to everyone who participated for today's workshop. Look forward to seeing your artwork next week and fall through your way I imagine something sounds. It's like reverse synesthesia. I'm trying to bioengineer my senses in a way. But I've had so many MRIs, and I've always imagined what do those coils look like. So an image has always come to me, and I finally decided to create it.
+
+The next bit that I want to show is what I'm going to do. I'm going to stop the sharing. I'm going to do a short video because my art goes into movement. And to show you. I also want to mention that the audio that you hear with this is my creation as well. With, I do get some synesthetic sounds. And I try to recreate. So this is actually a piece called Pegasus.
+
+And it, you know, you'll hear some abstraction. To me, it's not about the music theory, as much as it is about the, just get a feeling. Thank you.
+
+## Unattributed [09:45](https://www.youtube.com/watch?v=1hehNivSYTo&t=585s)
+
+Thank you. And that's really what I have. I could show a lot of work, but are there any questions? Questions or no no no questions do whatever anybody wants no questions how are we supposed to pick your brain no if there's time you can send me questions yeah oh well I think we actually do have um some time in between your presentation and because I'm not sure pat's here yet so So let me see. No, he hasn't arrived quite yet. So that being said, if anyone does have any questions for Deanna, feel free to ask away. I have a question, Deanna.
+
+It was lovely work. It's really great to see that. I was fascinated by the very last piece you showed, the hummingbird. I wondered how you did that, what app you used. I used a combination of it. I used the Adobe Cloud. You know, for a lot of my work. So that was Adobe Arrow and Adobe Dimension, I believe. And I might have used Final Cut.
+
+Or that no, no, no, I might have used what's the Adobe version of the Premiere, Premiere. Thank you. I've got so many different. But the Adobe Arrow is one of the big ones that you can use for the augmented reality, which is amazing and a lot of fun. Okay, cool. I'm not so familiar with that tool set. So Yeah, that's really cool. For a lot of my work, I it goes end to end Adobe. But then I throw in all kinds of strange applications, anything I can find my get my hands on kind of work with experiment yeah I mean I know some of the adobe products but adobe arrow that's new new for me yeah I try I try anything new that they put out and just kind of hunt and peck and create cool very cool and you meant your work um primarily on known origin diana or diana Known origin.
+
+## Unattributed [12:50](https://www.youtube.com/watch?v=1hehNivSYTo&t=770s)
+
+I know it's known origin and foundation. And I have some on OpenSea and Nifty, NiftyFi. That's another one that fractionalizes NFTs. But I mean, I just had somebody I did an NFT project with SketchUp that that Splinter Man, he had $160,000 in crypto stolen from his wallet. It and splinter man was stolen too so um I'm not anxious to you and that was from open c I'm not really anxious to go outside the other yeah known origin and foundation unless I can get on to super rare somehow it's a little bit less wild should I show some of my nft screens experience does anybody anybody interested sure sure sure yeah I went quickly yeah I was yeah and if you want to drop any of your links to um you know your um for the nft platforms that you're on to your um profiles in the chat that would be cool too yeah actually if you go to my main website let me go to how do I okay this will get you to clothing because I then.
+
+And I have a shirt on right now that I've created. We did a book that's on there. And then the NFT marketplaces you can get to. What did I do? Can you see the NFTs there? Yeah, we're looking at Noon Origin right now. Okay. I'm not sure what. Yes. So everything's showing up the same, but I've got a moving a moving version and a still version, several different pieces. And I was just invited in December. I had tried three times and it's worth it. You know, I got two sales within the first week. I think it's been a little rough since.
+
+And then foundation, that's where I have most of my collectors. And I've got 75 NFTs there. But it seems things are a little quiet I think but I've gotten into some fun 3d I mean you can actually I'm just getting started but I had created this pop can collection that people they were actually buying them on open c they could add them to their video games that was my to create something that would be usable in video.
+
+I've also done clothing. And this is made by a company in Le Galleriste in Montreal.
+
+## Unattributed [15:51](https://www.youtube.com/watch?v=1hehNivSYTo&t=951s)
+
+And they're so good. So, I mean, I've got many different artworks. There's dresses. And this piece is actually a generative assembly. That is a generative work. That I created. So a little bit of everything. All right, yeah, it looks like we have some questions. So I think first off, we'll go with Sherry.
+
+Deanna, I thought that was a lovely presentation. I really liked the way the music worked with your imagery, I thought was really very strong. And I wondered what is your background before you got into art? What were you doing? A school psychologist, metrics, and then I was a web developer. So I was a web developer with General Electric, General Electric, global, and I worked with single sign on. So it was more architecture.
+
+Yeah. And then I became an entrepreneur and sold a little, I invented a little pouch to carry an asthma inhaler. The MedReady Puffer Tote was called and we sold them I developed MS and I had to retire in 2005 or so. So, and then it's kind of progressed. So that's brought me to art, which is a gift. And it's so therapeutic, really therapeutic. Thank you.
+
+Thank you for your question. Looks like we've got Tommy with a couple of questions, actually. He said, do you view it? Do you view your AR work through a specific app? Uh, The way I do it, so ARROW, that's how you can create and view, but I tend to make videos out of them, and then I'm using a couple different things, but Adobe ARROW and Adobe Dimension I've used. And that's...
+
+Yeah. You got it? Yeah. I do it on my iPad a lot. Davo, you'll love your iPad when it comes out. Yeah, when I finally get it. I've never really used the Apple products before, but I guess there's a first time for everything. I got to tell you that I am using everything I've created, I've done, well, recently, because I just got it, the MacBook Pro 16-inch M1 Max.
+
+That can render 3D on the fly and it's a great app. And I had an iMac 27-inch that was chugging along and I finally killed it and I had to replace it. But this thing is insane. Recommend. I mean, if I don't break it, because I push them hard, it's not even making a sound. It's great. Nice. All right. Tom?
+
+## Unattributed [18:52](https://www.youtube.com/watch?v=1hehNivSYTo&t=1132s)
+
+We have another question from Anne. So, did the synesthesia come back? Did it come with art or did you have it before? No, it came with art. Synesthesia came with art and I thought I was going nuts. I'm in my pool and I had gotten out of the hospital because I had an MS relapse, lost vision in my left eye and a lot of vertigo. And as they put me on steroids and it made me kind of crazy. They do that when they're at really high doses. And I was in my bed. I was in my pool and I never had the desire to create art or didn't know what was happening to me at the beginning. But colors.
+
+Colors. Amazing. But along with the colors, the compulsion to create. And that compulsion hasn't stopped. And that's a common feature with acquired savantism. It's a very strange. It's like an OCD that comes with it. It comes from brain injury. And it just requires creation. It's a good outlet but nuts.
+
+All right. Well, thank you for that. Anne. And we have two questions from David. Could you briefly explain what fractals are and why do you think you didn't have this art ability in you before? Okay. Fractals. Fractals use fractal geometry. I've had to study. I've had to come up. Because I was creating fractals before I knew what they were.
+
+Fractals use self-similarity and recursion. And they repeat, repeat, repeat. You can see fractals and shorelines in the cosmos. And like a nautilus seashell if you saw some of my work. They're very familiar. We're used to the patterns. And how do I know I didn't have this art? Because I'd never done it. I couldn't color. I still can't write my name very well. There are real motor deficits. And I couldn't translate my art ability to a canvas.
+
+It doesn't translate. I'm a digital artist and I'm focused and I'm kind of in that lane. So. And that's very common. It's a mystery. But I was evaluated by the top doctor in the world. The Rain Man doc. It's nuts. I'll ask our resident wizard here as well if he has another explanation for fractals too. Mr. Price. Do the explanation. The real one.
+
+Michael, can you hear me?
+
+## Unattributed [21:53](https://www.youtube.com/watch?v=1hehNivSYTo&t=1313s)
+
+No. Michael? Yeah. Yeah. Fractals. Putting you on the spot. I'm running a little slow after my surgery. Sorry. I apologize. No. That's fine. I forgot. So you were asking about fractals? Mm-hmm. Yeah. I mean, I think Deanna was explaining it pretty well. I mean, it's an area. It's a specialized area of mathematics. That's in a larger realm called chaos theory. And chaos theory deals with higher order mathematics.
+
+And what really distinguishes it is this thing about feedback loops. So that helps to generate these repetitious patterns. And as Deanna was explaining, you can see the patterns. They're not exact replicas. When you look at things, you see very small variations. But when you look at it globally, you can see it's being repeated, but with small changes. And when you look at like the nautilus shell and other formations like that, that's why this has taken so long to develop.
+
+Because early on when this was looked at, it was really seen as a very complex thing. And it was seen as not very important. Because our mathematics has all been Euclidean for several thousand years. If it wasn't straight lines and circles and things, it was hard to understand. And it wasn't really until the advent of computers that we could really explore this. And Benoit Mandelbrot was the one who really kind of brought this forward. And it took a while to really get accepted. But now it's seen in so many different areas. It's still complex. I mean, it's still really complex. But like some radio circuit boards have been created using fractal patterns. And there's just a lot of new applied science where fractals are really showing efficiency in design, which nature needs because nature is about efficiency.
+
+So, yeah. All right. Enough of mine. No, that's great. Thank you, Professor Price. You're welcome. So I didn't have any math background. Somebody I can see somebody had talked about if were you good at geometry before the savantism? No, I never even took algebra one in school. I studied music. But by the time I got to GE, I had to teach. I did take some statistics in college. And I really excelled in statistics. But I've never taken a geometry class.
+
+## Unattributed [24:57](https://www.youtube.com/watch?v=1hehNivSYTo&t=1497s)
+
+It's all I mean, I have textbooks that I've had to catch up to the math. And it's been fun. And Wilma, who's on, I can see her. We are in touch with a synaesthetic expert. Her name is Dr. Barrett Brogard. And she's at some point going to do a functional MRI of my brain. But she did. She's done several books. The genius mind, I think, is one of hers. And she just she worked very closely with Dr. Trevor. But she seems to think that when I had my my I had a motorcycle accident in 84 that caused it. My helmet cracked in half and I had my brain injury then. But it's gotten worse over time. But Dr. Britt believes that I probably had. I developed some of that giftedness in an area of math at that time.
+
+You know, but I never knew that because that was years ago. I'm kind of catching up. It's exciting and interesting. Along those same lines, still talking about fractals. Lucy wants to know, it's like, do you code your fractals? You software or both? Both. Yes. Both. J wildfire is how I like. But I use Chaotica. I use Mandelbulber. It's any new thing I can find, too.
+
+And Colin wants to know, do you have did you have any favorite artists before your self-advocacy began? I didn't know any artists. I know it's it sounds pathetic. But when I think of it, imagine being dropped on the moon and you're not an astronaut. You know? And it's like, where's my suit? What do I do? So I didn't know artists, but I'm learning them. And I'm learning who I kind of favor.
+
+And then I've learned how to appreciate art and discuss art. It's been a schooling for me. Definitely relate to that. It's amazing how many of us got started with this digital art through some sort of health problem. Oh, really? I noticed in all the presentations. It's true of myself, and it's true of, I think, quite a number of us. That's interesting. It is. Yeah.
+
+Okay, so I've got two questions back to back, both about music. Cynthia wants to know, tell us about your music and its connection to your art. All right. Okay, so I come from a drumming background. I was a drummer, and I sang and some guitar.
+
+## Unattributed [27:59](https://www.youtube.com/watch?v=1hehNivSYTo&t=1679s)
+
+I, music, it's hard to explain. It's one of my synesthetic processes that music creates shapes, and that's how I first discovered it. Music, I would play these certain songs, and within the five or six songs within the first year of my artistic gift, first year, year and a half, I was, I found myself listening to the same five or six songs, and it produced a certain kind of work, but I kind of needed the music to create, and I still, it really makes a better, better job, but reversing it, I have a new type of synesthesia that is creating sound, touch is crossing over and creating sound, heat and touch, so some of that music, which is all mine, every instrument, I created it using Apple Logic Pro X and instrument loops.
+
+Yep, do I use a VR set? Oh, I'm sorry, I hopped out, but I'm going to answer that one. I tried, I have double vision, bad, bad, bad, bad, really bad vision. So I'm not able to, I wanted to so bad. Can't quite get that. I did the music. Dalton, I did the music, yeah. Dana wants to know how long has it been? I guess she's, are you asking about how long has it been since the accident, or how long has she known since, how long has she been? Savant. Yeah.
+
+Okay, I'll tell you both of them. The accident was in 1984. MS was diagnosed in 2001, and I had this mother of all relapses that caused vertigo and vision problems in summer 2017, and that's when it came, June 2017. Yep. Yeah. So I hope that answers her question. Five-year anniversary coming up this summer of my art gift, and I feel like the art has gone from the blobs to now AR and doing some 3D, but I love working with the fractals and creating texture and messing them all up and using algorithms and numbers. It's fun. Yeah.
+
+All right. Well, as much as I know, people's minds are stewing, trying to come up with things to ask you. In the interest of time, I think we probably need to get going so that Patrick can also have his presentation. With that being said, thank you so much, Deanna, for your time and your presentation.
+
+## Unattributed [30:59](https://www.youtube.com/watch?v=1hehNivSYTo&t=1859s)
+
+Thank you so much. Always a pleasure working with you as well. Thanks. All right.
+
 ## Patrick Lichty [31:08](https://www.youtube.com/watch?v=1hehNivSYTo&t=1868s)
 
 And Mr. Lichty. All right. Are you with us? Yeah, I'm here. Yeah. You know what? There was, you know, there's just every once in a while, there's just that one particular little, that one thing that you want to show that you just can't find. And I'm sorry I was digging around for that. Well, you know, anyway, I apologize for being a little bit late, but it'll be worth it, I swear.

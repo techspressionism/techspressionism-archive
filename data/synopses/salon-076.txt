@@ -1,0 +1,3 @@
+status: draft
+
+Salon 76, "Phreaking" (November 2, 2023), is moderated by Lee Schnaiberg and looks at hacking, phone systems and the early history of computing. The opening discussion covers [[15:41|how early computer makers borrowed the graphical interface from Xerox]]. Artists then show related work: [[26:16|Renata Janiszewska, on shapes made with iOS 17]], [[30:58|Colin Goldberg, on a Polycam 3D capture]], [[39:07|Allen Hirsh]], [[45:16|Schnaiberg, on a payphone near his house]], [[48:03|Lee Day, on how a phone's software can go wrong]], [[1:01:18|feedback loops in audio and visuals]] and [[1:05:16|Tommy Mintz, on a browser-based 3D space built on Mozilla Hubs]]. The session closes with [[1:33:50|the choice of a topic for the next salon]].

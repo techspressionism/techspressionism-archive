@@ -19,6 +19,12 @@ flags:
   - speaker_index_partially_unparseable
 ---
 
+## Unattributed [00:00](https://www.youtube.com/watch?v=b8yrqPIj934&t=0s)
+
+Recording. Hello, my name is Colin Goldberg, and welcome to the Expressionist Salon number 35. And I'd like to welcome you all here. I'm standing in for Davo as moderator today. And we have three or actually four artists in total presenting. Lily Kostrzewa, who's going to be the first artist, and then we have a pair of collaborating artists, Prince Magnolia and S.T. Rivera. And then rounding out our salon today is Michael Pierre Price. So we're going to get started and jump right into the things with Lily. So Lily, if you want to just introduce yourself and, you know, feel free to share your screen and jump right in. And after each artist, what we'll do is do a quick Q&A session and then move on. So we'll move on to the next artist. And if there's time remaining after the artist presentations, we'll kind of open it up for discussion.
+
+And everyone that's on now is welcome to stick around after the recording stops. And that's when we sort of have our after party slash advisory board meeting. We'll have to come up with a better name for that. But basically, when we discuss community building stuff, that'll happen right after the recording ends at four. So welcome, Lily.
+
 ## Lily Kostrzewa [01:24](https://www.youtube.com/watch?v=b8yrqPIj934&t=84s)
 
 Thank you, everybody. Okay. See if possible, I can change back. Okay. My name is Lily Kostrzewa. I came from Taiwan. So today, basically, I want to share is about my art journey with everybody. I think everybody here is artists and almost all your life is artists, just like me. So basically, it's just a humble story, how I learned and how I grew up and how I became an artist. So here you can see, I have a picture from Po Sai Tsang. And probably this is how I started to be an artist. And here I have a quoting from Frank Gehry called Making Art is Making Love to the World.

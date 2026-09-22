@@ -3398,7 +3398,7 @@
         "start_display": "01:21:13"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "speaker_index_partially_unparseable"
     ],
@@ -3449,7 +3449,7 @@
         "start_display": "00:58:00"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
@@ -3504,7 +3504,7 @@
         "start_display": "01:15:05"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
@@ -3559,7 +3559,7 @@
         "start_display": "00:49:58"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
@@ -3644,7 +3644,7 @@
         "start_display": "01:06:16"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "recording_date_from_title"
@@ -3701,7 +3701,7 @@
         "start_display": "00:48:47"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "recording_date_from_title"
@@ -3776,7 +3776,7 @@
         "start_display": "01:04:27"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
@@ -3837,7 +3837,7 @@
         "start_display": "00:57:29"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
@@ -3928,7 +3928,7 @@
         "start_display": "01:13:02"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "speaker_added_from_site:Sahar Moussavi",
@@ -4077,7 +4077,7 @@
     "thumbnail": "https://i.ytimg.com/vi/htDS7UsZjyA/maxresdefault.jpg",
     "moderator": "Malavika Mandal Andrew",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "speaker_index_missing"
     ],
@@ -4289,7 +4289,7 @@
         "start_display": "00:42:53"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "recording_date_from_title",
@@ -4483,7 +4483,7 @@
         "start_display": "00:02:27"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "country_backfilled_from_site:Michael Pierre Price",
@@ -4688,7 +4688,7 @@
         "start_display": "01:02:22"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "recording_date_backfilled_from_site"
@@ -4888,7 +4888,7 @@
         "start_display": "01:06:24"
       }
     ],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "session_title_manually_overridden:trailing guest name ('Heidi Boisvert') left in the parsed title"
@@ -4963,7 +4963,7 @@
     "thumbnail": "https://i.ytimg.com/vi/7zk9GzgaLvs/maxresdefault.jpg",
     "moderator": "Renata Janiszewska – Lion’s Head, Canada",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "speaker_index_missing"
     ],
@@ -4989,7 +4989,7 @@
     "thumbnail": "https://i.ytimg.com/vi/P-sfs-tCkgw/maxresdefault.jpg",
     "moderator": "Erin Ko",
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "speaker_index_missing"
     ],
@@ -5102,7 +5102,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RSGBYaBbWgg/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "youtube-auto-captions",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"

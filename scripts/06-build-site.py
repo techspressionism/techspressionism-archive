@@ -2262,6 +2262,17 @@ FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">Ab
           '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
 
 
+def google_tag_snippet():
+    """The Google Tag that reports into the same GA4 property as the rest of techspressionism.com (data/site-config.json google_tag_id).
+    The archive is static files outside WordPress's own templating, so Site Kit's tag never reached these pages before this."""
+    tag_id = SITE_CONFIG.get("google_tag_id")
+    if not tag_id:
+        return ""
+    return (f'<script async src="https://www.googletagmanager.com/gtag/js?id={e(tag_id)}"></script>\n'
+            f'<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}'
+            f'gtag(\'js\',new Date());gtag(\'config\',\'{tag_id}\');</script>\n')
+
+
 def add_seo(page_html, filename, seo):
     """Replace the <title>, add the description / social / JSON-LD tags before </head>, and the small footer before </body>."""
     title = seo["title"]
@@ -2272,7 +2283,7 @@ def add_seo(page_html, filename, seo):
     tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
                              alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
-    page_html = page_html.replace("</head>", tags + "\n</head>", 1)
+    page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
     return page_html.replace("</body>", FOOTER + "\n</body>", 1)
 
 

@@ -27,6 +27,18 @@ flags:
   - moderator_missing
 ---
 
+## Unattributed [00:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=2s)
+
+Hi, everyone. My name is Colin Goldberg, and today is Thursday, August 7th, 2025, and we're here for Techspressionist Salon Number 97. The topic is creative coding. We have four artists here today to talk a little bit about their practices and how they use code to create their work. We have also in the chat a PDF for instructions of how to use Zoom translated captions that was prepared by Cynthia Beth Rubin. And if you're interested in having the audio translated into a different language in real time, you can download that PDF and follow the instructions.
+
+So basically, I'm going to start with a little bit of a brief introduction to what we're doing today. I'm not going to give a whole long-winded explanation about creative coding because it's not really my area of expertise, although I have, you know, dabbled a little bit. I did my first animation work in BASIC back in the 80s on my Commodore, and lately I've sort of picked it up a little bit, asking ChatGPT to write code for me and describing some different things as a fun experiment, a little bit of cheating.
+
+I do ask... I do ask that anybody who's not presenting currently to mute yourselves so we can make sure the audio is nice and clean. So the featured artists for today's salon are Anton Dubrovin, who is from Kazakhstan, zooming in from Moscow, Russia right now. We have Allen Hirsh, who's from Chevy Chase, Maryland, there in the States.
+
+Elio Ramos-Colón Colon, who's from Garabo, Puerto Rico, and Chris Bly from Portland, Oregon. So without further ado, that's the the lineup in that order. Each artist is going to have about 15 minutes or so to present, share your work through screen share, and I will start a timer for each artist and then around two minutes before it ends, I'll just give you a heads up.
+
+So, Anton, do you want to start? Or do you want to take it away?
+
 ## Anton Dubrovin (MCHX) [02:28](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=148s)
 
 Yeah. Hi, everyone. So nice to see you. Yeah, and I'm excited to start. So, yeah, we'll go. We'll have to share screen now. And okay. So I would like to start with the... So I would like to start with the little introduction, how I started with art and my journey. So I was always fascinated with abstract art and especially movements like color field and abstract expressionism.

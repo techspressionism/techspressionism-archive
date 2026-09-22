@@ -21,6 +21,16 @@ flags:
   - moderator_missing
 ---
 
+## Unattributed [00:02](https://www.youtube.com/watch?v=ufGrnsSaMQo&t=2s)
+
+Hello, hello, hello and welcome everyone to our Techspressionist virtual salon here on March, the second of 2022. It is a, I guess kind of a probably chilly afternoon here in Richmond, Virginia but we've got attendees from all over attending today and we have one person actually that just flew into New York from Australia, New Zealand.
+
+What are those two that general area. Australia, okay I couldn't reach one. But yeah, so that's that's the kind of group that we are here we are all over the world in 30 plus countries at this point. And we are an eclectic bunch, I will say. And of these eclectic bunch we have two presenters today that Steve Miller and Lee Day.
+
+If you are if this is your first time attending a one of our virtual salons, the general format pretty much goes as we have our presenters present. And then that's shortly followed by a q amp a session and then general discussion generally falls right after, and usually goes right back into talking about presentations.
+
+In the interest of time I don't want to hold anything up so presenters Are you ready, Stephen Lee. Ready to go. All right. I'm going to hand over the mic to you, verbally.
+
 ## Steve Miller [01:31](https://www.youtube.com/watch?v=ufGrnsSaMQo&t=91s)
 
 So much. And Colin thanks for inviting me to come here today. And I think the, the subject I hope it's it's it's certainly related to technology and and and actually, my work is, I would say qualifies as a Techspressionist so we'll see some of that. The, the, the context of which I'm presenting is around.

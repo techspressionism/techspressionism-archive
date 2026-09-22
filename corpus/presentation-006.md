@@ -95,7 +95,7 @@ Thank you, Roz. Hi, I'm Lee Day. You can find my work at LeeDay.photography onli
 
 ## Unattributed [11:43](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=703s)
 
-. . . . . .
+…
 
 ## Lee Day [11:55](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=715s)
 

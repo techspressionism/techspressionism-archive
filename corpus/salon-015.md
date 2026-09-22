@@ -24,6 +24,16 @@ flags:
   - moderator_missing
 ---
 
+## Unattributed [00:02](https://www.youtube.com/watch?v=rwlq9lFhe18&t=2s)
+
+Okay. Welcome, welcome, welcome to our 15th virtual salon for Expressionism. My name is Davonte Bradley, otherwise known as Davo, and with me is Colin Goldberg, the founder of this wonderful movement of ours, and this growing, rapidly growing community. Today we actually have some interesting things on the agenda. We're going to kick things off with our, you know, regular business presentations with three artists. We have today Andrea Bonaceto, Tommy Mintz, and Clive Holden, who are going to be presenting today. One of the three was actually in, kind of made headline news with his NFT collaboration with Sophia from the, what was it?
+
+Hansen Robots. Hansen Robotics? Yes. Hansen Robotics collaboration. That's it. Yep. Yep. And yeah, that was kind of a big deal or is kind of a big deal. So we're all looking forward to hear from Andrea about that and whatever else he's working on. And then after our presentations, we have our debut for our Tech Specialism Collab exhibition.
+
+It's going to be the exhibition of the first collaboration project. It's going to be the exhibition of the first collaboration project. It's got eight artists in it, myself included. It was a very exciting kind of long drawn out process, but it was well worth the wait, I believe, and I hope everyone will enjoy it once we get to it. But until then, let's get to those presentations.
+
+I asked everyone involved in this to please keep themselves muted if you're not presenting. And with that, I give the floor to Andrea. Go ahead.
+
 ## Andrea Bonaceto [01:48](https://www.youtube.com/watch?v=rwlq9lFhe18&t=108s)
 
 Thanks, Davonte. How much, how long do I have for the presentation? You have 15 plus minutes-ish. Thereabouts. We're kind of fast and loose with that. Perfect. No, I'm happy, first of all, you know, to present here because Colin was probably one of the first people I approached. I mean, he approached me on Instagram when I went public, you know, with what I was doing.
