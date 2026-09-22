@@ -509,12 +509,12 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-.synopsis h2 { margin:0 0 .3rem; font-size:.78rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }
+section.synopsis h2 { margin:1.2rem 0 .3rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:.78rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these */
 .synopsis .syn-text { margin:0; line-height:1.55; }
 .synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
 .synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
 .synopsis .syn-time { margin-left:.25rem; font-size:.75em; font-weight:700; color:var(--accent); white-space:nowrap; }
-.synopsis .syn-note { margin:.35rem 0 0; font-size:.8rem; color:var(--muted); }
+.synopsis .syn-note { margin:1rem 0 0; font-size:.8rem; color:var(--muted); }
 .synopsis .syn-draft { color:var(--accent); letter-spacing:0; text-transform:none; margin-left:.4rem; }
 .synopsis a.syn-person { color:inherit; text-decoration:underline; text-decoration-color:var(--muted); text-underline-offset:2px; }   /* a person's name, linked to their artist page: quiet, so it never competes with the syn-t "watch this" links */
 .synopsis a.syn-person:hover { color:var(--accent); text-decoration-color:var(--accent); }
@@ -530,14 +530,14 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
    Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
 .catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
-.cat-kicker.cat-recent-label { font-size:1.1rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size */
+.cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
 .catpage-grid .cat-latest { margin:1.2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin */
 .cat-latest .cat-sep { color:var(--accent); }
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
 .cat-latest.wrapped .cat-sep { display:none; }   /* too long for one line: JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly */
 .cat-latest.wrapped .cat-title-link { display:block; color:var(--accent); }
-.cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
+.cat-featured .d { margin:0; color:#000; font-size:.9rem; }
 .cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
 .cat-recent a { display:block; color:inherit; }
 .cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
