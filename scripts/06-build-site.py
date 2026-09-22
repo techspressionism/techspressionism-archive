@@ -587,6 +587,8 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 @media (min-width:64rem) { .sessions .thumb { width:96px; height:54px; } }   /* ... a larger one on a computer */
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 #search { margin:.4rem 0 .3rem; }
+#search .pagefind-ui__results-area { margin-top:.3rem; }   /* Pagefind's own default (18px + another 18px of padding on the message right below) leaves too much dead space above "N results for...", per Colin */
+#search .pagefind-ui__message { padding-top:0; }
 .reccount { margin:.2rem 0 .6rem; color:var(--fg); }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
@@ -619,18 +621,16 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
 /* the Copy citation button and the Citation Format Selector (CFS), sitewide -- the whole-session box, a search
    result's citation, and the card under a cited passage all share this one look and layout, per Colin: WATCH (if
-   present), a solid Copy Citation button and the CFS all on one row. Pagefind's own UI ships a CSS reset
+   present), Copy Citation and the CFS all on one row. Pagefind's own UI ships a CSS reset
    (".pagefind-ui--reset :where(...)") that resets display/background/etc. back to the browser default at EQUAL
    specificity to a plain class selector, so on a search result specifically -- the one place these sit inside
-   that reset's scope -- every rule below needs the extra "#search" to reliably win (an ID beats the reset's
-   0-specificity :where() every time; without it, whichever loaded later in the stylesheet was winning). */
+   that reset's scope -- a bare ".copy-cite" was losing on every tied property (padding, border-radius,
+   font-weight...); "button.copy-cite" (adding the element type) has just enough extra specificity to reliably
+   beat the reset's :where() (always zero specificity) everywhere, with one rule, no separate #search override. */
 .cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:.6rem; }
-#search .cite-actions { display:flex; gap:1.1rem; }   /* more room between WATCH / Copy Citation / CFS than the sitewide default -- too tight otherwise, per Colin */
-.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:var(--accent); color:#fff; cursor:pointer; }
-.copy-cite:hover, .copy-cite:focus-visible { background:#b30000; }
-/* gray, not red, on a search result specifically -- it already has a red WATCH pill; two reds on one card compete (Colin, 2026-09-22) */
-#search .cite-actions .copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:#767676; color:#fff; cursor:pointer; }
-#search .cite-actions .copy-cite:hover, #search .cite-actions .copy-cite:focus-visible { background:#5f5f5f; }
+#search .cite-actions { display:flex; gap:1.1rem; margin-top:1.1rem; }   /* more room both between WATCH / Copy Citation / CFS, and above the row, than the sitewide default -- too tight otherwise, per Colin */
+button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1.1rem; border:none; border-radius:1.2rem; background:var(--line); color:#000; cursor:pointer; }   /* a light-gray pill with black text, everywhere, per Colin -- was red (and gray-but-square on a search result) */
+button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
 .cite-format { margin:0; font-size:.85rem; color:var(--muted); }
 .cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
@@ -877,10 +877,15 @@ CATEGORY_PLAYER_JS = """<script>
   window.addEventListener('resize', checkWrap);
 })();
 (function () {   // the header search box matches the sidebar's width -- the sidebar is a fluid grid column (fr-based),
-                 // so a fixed CSS width can't track it; measured and kept in sync instead
-  var sidebar = document.querySelector('.cat-list'), input = document.querySelector('header.site .hsearch input');
-  if (!sidebar || !input) return;
-  function match() { if (window.innerWidth >= 1024) input.style.width = sidebar.getBoundingClientRect().width + 'px'; else input.style.width = ''; }
+                 // so a fixed CSS width can't track it; measured and kept in sync instead. Every matching input, not
+                 // just the first: the sticky mini-header (#stickytitle) carries its own separate copy of the search
+                 // box, which was silently staying at the unmatched default width since querySelector only finds one.
+  var sidebar = document.querySelector('.cat-list'), inputs = document.querySelectorAll('header.site .hsearch input');
+  if (!sidebar || !inputs.length) return;
+  function match() {
+    var w = window.innerWidth >= 1024 ? sidebar.getBoundingClientRect().width + 'px' : '';
+    inputs.forEach(function (input) { input.style.width = w; });
+  }
   match();
   window.addEventListener('resize', match);
 })();
@@ -1344,11 +1349,11 @@ PLAYER_JS = """<script>
 (function () {   // the header search box matches the "All Salons" sidebar's width here too, same as category
                  // pages -- .watch-next only exists once JS turns it on, and toggles hidden in reading mode, so a
                  // ResizeObserver (not just a resize listener) catches it appearing/disappearing, not just resizing
-  var sidebar = document.querySelector('.watch-next'), input = document.querySelector('header.site .hsearch input');
-  if (!sidebar || !input) return;
+  var sidebar = document.querySelector('.watch-next'), inputs = document.querySelectorAll('header.site .hsearch input');
+  if (!sidebar || !inputs.length) return;
   function match() {
     var w = window.innerWidth >= 1024 ? sidebar.getBoundingClientRect().width : 0;
-    input.style.width = w ? w + 'px' : '';
+    inputs.forEach(function (input) { input.style.width = w ? w + 'px' : ''; });
   }
   match();
   window.addEventListener('resize', match);
