@@ -98,11 +98,21 @@ Holden (pos 1.5, 75 impr, 0 clicks), Colin Goldberg (pos 1.9, 84 impr, 0 clicks)
 (pos 1.9, 504 impr, 3 clicks). See `Queries.csv` for the full list. `/artists/` has the opposite
 problem: 924 impressions but ranks position 29.5 (page 3) — a real visibility gap.
 
-## Next steps (post–Phase 2, per Colin)
+## Phase plan (per Colin, 2026-09-22)
 
-Full site-wide title/description/structure analysis and optimization is planned for **after**
-Phase 2 (once the archive is live under techspressionism.com and its own Search Console data
-starts accumulating) rather than now, so today's work was data-gathering plus the two concrete
-fixes already shipped (description-length bug, artist-name-led titles on salons/interviews). Once
-Phase 2 lands: re-capture this same baseline, diff it, and revisit the "discovered/crawled but not
-indexed" 210-page issue with real post-launch numbers.
+- **Phase 1 — archive-related SEO, before the redirects.** Everything specific to the Video
+  Archive itself: `<title>`/description optimization, salon/roundtable lead-name titles, JSON-LD/
+  schema, sitemap correctness, internal linking within the archive. Today's title-tag and
+  description-length work (this session) counts as Phase 1. Still open under Phase 1: an audit of
+  the archive's own internal linking and sitemap ahead of the redirect, so incoming pages land
+  well rather than risking the "discovered/crawled but not indexed" limbo described above.
+- **Phase 2 — redirect all video pages** into techspressionism.com (previously documented target:
+  before 1 October 2026, production via WP Engine). Phase 1 finishes before this starts.
+- **Phase 3 — unspecified/TBD** (not yet defined; ask Colin when it's relevant).
+- **Phase 4 — general, site-wide SEO optimization**, after Phase 2 has real post-launch data to
+  work from: the techspressionism.com-wide findings in this baseline (the 210-page indexing-limbo
+  issue, backlink strategy, non-archive pages' titles/descriptions, the duplicate sitemap
+  submission) belong here, not before.
+
+Once Phase 2 lands: re-capture this same baseline, diff it against this snapshot, and revisit the
+"discovered/crawled but not indexed" 210-page issue with real post-launch numbers.
