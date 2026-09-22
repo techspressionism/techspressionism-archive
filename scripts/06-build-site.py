@@ -562,7 +562,7 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
 @media (min-width:64rem) {
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:2.5rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
-  .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
+  .player-box { position:sticky; top:0; z-index:5; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }   /* was static -- per Colin 2026-09-22, should stay pinned to the top of .side while scrolling within it, same as it already does on mobile (there against the whole page, since .side itself doesn't have its own scroll box below 64rem) */
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
