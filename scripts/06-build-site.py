@@ -526,6 +526,20 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .description summary:hover { color:var(--accent); }
 .description p { margin:.5rem 0 0; line-height:1.55; }
 .description .desc-note { margin-top:.6rem; font-size:.8rem; color:var(--muted); }
+/* Category landing pages (site/salons/, /interviews/, /roundtables/, /presentations/): featured + recent + full list.
+   Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
+   no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
+.cat-featured { margin:0 0 1.5rem; }
+.cat-featured h2 { margin:.7rem 0 .2rem; font-size:1.35rem; }
+.cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
+.cat-excerpt { margin:.6rem 0 0; line-height:1.55; }
+.cat-recent { list-style:none; margin:0 0 2rem; padding:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:1.2rem; }
+.cat-recent a { display:block; color:inherit; }
+.cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
+.cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
+.cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
+.cat-list h2 { margin:0 0 .5rem; font-size:.95rem; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); }
+@media (min-width:64rem) { .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; } }
 .para-foot { margin:.55rem 0 0; display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }   /* the Cite button sits at the END of each turn, where the reader is when they finish it (the top of a long turn is often behind the pinned video) */
 .cite-btn { display:none; font:inherit; font-size:.92rem; font-weight:700; line-height:1.4; margin:0; padding:.3rem 1rem; border:0; border-radius:1.2rem; background:var(--accent); color:#fff; cursor:pointer; }   /* needs the script: shown only when it runs */
 .js .cite-btn { display:inline-flex; align-items:center; gap:.4rem; }
@@ -769,6 +783,31 @@ def build_player(entry):
     return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-cite="{e(cite_data)}" data-pagefind-ignore>'
             f'<div class="player-frame" id="player"><button type="button" class="poster" aria-label="{alt}">{img}'
             f'<span class="bigplay">{PLAY_SVG}</span></button></div></div>')
+
+
+CATEGORY_PLAYER_JS = """<script>
+(function () {   // a category page's featured video: click the poster, load the iframe API, play -- none of the
+                 // transcript-page's reading/cite/search machinery applies here, so this stays deliberately small
+  var box = document.getElementById('player-box');
+  if (!box) return;
+  var vid = box.dataset.video, poster = box.querySelector('.poster'), loading = false;
+  poster.addEventListener('click', function () {
+    if (loading) return;
+    loading = true;
+    window.onYouTubeIframeAPIReady = function () {
+      document.getElementById('player').innerHTML = '<div id="yt"></div>';
+      new YT.Player('yt', {
+        videoId: vid, width: '100%', height: '100%',
+        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1 },
+        events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} } }
+      });
+    };
+    var s = document.createElement('script');
+    s.src = 'https://www.youtube.com/iframe_api';
+    document.head.appendChild(s);
+  });
+})();
+</script>"""
 
 
 CITE_JS = """// ---- citation formats: Chicago (the default), MLA, APA, BibTeX, RIS. The choice is remembered in the browser. ----
@@ -1951,6 +1990,7 @@ def build_person_page(p):
 
 PERSON_CSS = """
 main.person { max-width:52rem; }
+main.person.category { max-width:84rem; }   /* wider: the category pages' two-column featured+list grid needs the room the plain person/about layout doesn't */
 .person h1 { margin:.2rem 0 .1rem; font-size:2.2rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
@@ -1982,6 +2022,79 @@ main.person { max-width:52rem; }
 """
 
 
+def session_row_html(entry):
+    """One <li> in a full recordings list (the home page's per-type list, and a category page's sidebar)."""
+    topic = entry.get("session_title") or "Untitled"
+    by = f' <span class="d">interviewed by {e(entry["interviewer"])}</span>' if entry.get("interviewer") else ""
+    when = fmt_date(entry.get("date_recorded"))
+    when = f"published {when}" if date_is_estimate(entry) else when
+    small = SMALL_THUMBS_SRC_DIR / f"{entry['video_id']}.jpg"
+    thumb = (f'<img class="thumb" src="thumbnails-small/{e(entry["video_id"])}.jpg" alt="" width="96" height="54" loading="lazy">'
+             if small.exists() else "")
+    return (f'<li>{thumb}<span class="num">#{entry["number"]}</span>'
+            f'<span class="body"><a href="{slug(entry)}.html">{e(topic)}</a>{by}'
+            f'<span class="d">{e(when)}</span></span></li>')
+
+
+def recent_card_html(entry):
+    """One card in a category page's 'recent' strip: a bigger thumbnail than the list rows get, since there are only a few."""
+    small = SMALL_THUMBS_SRC_DIR / f"{entry['video_id']}.jpg"
+    thumb = (f'<img src="thumbnails-small/{e(entry["video_id"])}.jpg" alt="" width="160" height="90" loading="lazy">'
+             if small.exists() else "")
+    when = fmt_date(entry.get("date_recorded"))
+    when = f"published {when}" if date_is_estimate(entry) else when
+    return (f'<li><a href="{slug(entry)}.html">{thumb}'
+            f'<span class="rc-title">{e(entry.get("session_title") or "Untitled")}</span>'
+            f'<span class="rc-date">{e(when)}</span></a></li>')
+
+
+def build_category_page(stype, entries):
+    """A landing page for one recording type (Salon/Interview/Roundtable/Presentation): its most recent recording,
+    playable inline, a strip of the next few with thumbnails, then the full list -- so techspressionism.com's own
+    menu can link straight at "what's new" in a category, rather than the whole archive home page. Colin's plan,
+    2026-09-22. Written to site/<plural>/index.html (e.g. site/salons/), depth 1 like the About page."""
+    info = TYPES[stype]
+    ordered = sorted(entries, key=list_order)          # newest first, the same order the home page's list uses
+    featured, recent = ordered[0], ordered[1:4]
+    topic = featured.get("session_title") or "Untitled"
+    when = fmt_date(featured.get("date_recorded"))
+    when = f"published {when}" if date_is_estimate(featured) else when
+    by = f' <span class="d">interviewed by {e(featured["interviewer"])}</span>' if featured.get("interviewer") else ""
+    syn = synopsis_plain(load_synopsis(featured))
+    excerpt = f'<p class="cat-excerpt">{e(lib_seo.clip_text(syn, 220))}</p>' if syn else ""
+    recent_html = ('<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul>') if recent else ""
+    rows = "\n".join(session_row_html(x) for x in ordered)
+
+    body = f"""<h1>{e(info['plural'])}</h1>
+<div class="catpage-grid">
+<div class="cat-main">
+<section class="cat-featured">
+{build_player(featured)}
+<h2><a href="{slug(featured)}.html">{e(topic)}</a></h2>
+<p class="d">{e(when)}{by}</p>
+{excerpt}
+</section>
+{recent_html}
+</div>
+<aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
+</div>{CATEGORY_PLAYER_JS}"""
+
+    page = canonical_url(f"{info['plural'].lower()}/")
+    desc = lib_seo.clip_text(f"The most recent Techspressionism {info['label']} and the full archive of {len(ordered)}, "
+                              f"every one a searchable, citable transcript.", 300)
+    head = build_header(NAV_CORPUS, "")
+    ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
+                             trail=[(BRAND, canonical_url("")), (info["plural"], page)]) if page else None
+    html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+                 f'<title>{e(info["plural"])}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
+                 f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
+                 f'<main class="person category">\n{body}\n</main>\n</body>\n</html>\n')
+    seo = dict(title=f"{info['plural']} — {BRAND}", social_title=f"{info['plural']} — {BRAND}", description=desc, url=page,
+               image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
+               og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
+    return add_seo(html_page, f"{info['plural'].lower()}.html", seo)
+
+
 def build_index(corpus):
     groups, spans = [], {}
     type_labels = [(t, TYPES[t]) for t in TYPES if any(x.get("type", "salon") == t for x in corpus)]
@@ -1998,19 +2111,7 @@ def build_index(corpus):
             spans[info["label"]] = (len(entries), first, last)
         else:
             span = ""
-        for entry in entries:
-            topic = entry.get("session_title") or "Untitled"
-            by = f' <span class="d">interviewed by {e(entry["interviewer"])}</span>' if entry.get("interviewer") else ""
-            when = fmt_date(entry.get("date_recorded"))
-            when = f"published {when}" if date_is_estimate(entry) else when
-            small = SMALL_THUMBS_SRC_DIR / f"{entry['video_id']}.jpg"
-            thumb = (f'<img class="thumb" src="thumbnails-small/{e(entry["video_id"])}.jpg" alt="" width="96" height="54" loading="lazy">'
-                     if small.exists() else "")
-            rows.append(
-                f'<li>{thumb}<span class="num">#{entry["number"]}</span>'
-                f'<span class="body"><a href="{slug(entry)}.html">{e(topic)}</a>{by}'
-                f'<span class="d">{e(when)}</span></span></li>'
-            )
+        rows = [session_row_html(entry) for entry in entries]
         groups.append(
             f'<section class="sessions-group" data-type="{e(info["label"])}">'
             f'<ul class="sessions">' + "\n".join(rows) + "</ul></section>")
@@ -2500,13 +2601,17 @@ def main():
     for old in SITE_DIR.glob("*.html"):                     # the old .html addresses are gone
         if old.name != "index.html":
             old.unlink()
-    for folder in [d for d in SITE_DIR.iterdir() if d.is_dir() and re.match(r"^(?:(?:salon|interview|roundtable|presentation)-[0-9]{3}(?:-[a-z0-9-]+)?|about|artist)$", d.name)]:
+    for folder in [d for d in SITE_DIR.iterdir() if d.is_dir() and re.match(
+            r"^(?:(?:salon|interview|roundtable|presentation)-[0-9]{3}(?:-[a-z0-9-]+)?|about|artist|salons|interviews|roundtables|presentations)$", d.name)]:
         shutil.rmtree(folder)
     write_page("", add_seo(add_robots(build_index(corpus), "index.html"), "index.html", seo_for_home(corpus)), 0)
     write_page("about", add_robots(build_about(corpus), "about.html"), 1)
     by_type = {}
     for entry in sorted(corpus, key=list_order):      # newest first, as on the home page
         by_type.setdefault(entry.get("type", "salon"), []).append(entry)
+    for stype, entries in by_type.items():             # one landing page per category (not Artists): featured + recent + full list
+        info = TYPES[stype]
+        write_page(info["plural"].lower(), add_robots(build_category_page(stype, entries), f"{info['plural'].lower()}.html"), 1)
     for entry in corpus:
         write_page(PAGE_NAMES[slug(entry)], add_seo(add_robots(build_session_page(entry, by_type[entry.get('type', 'salon')]), f"{slug(entry)}.html"),
                                                     f"{slug(entry)}.html", seo_for_entry(entry)), 1)
