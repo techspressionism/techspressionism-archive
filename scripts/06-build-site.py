@@ -529,7 +529,7 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 /* Category landing pages (site/salons/, /interviews/, /roundtables/, /presentations/): featured + recent + full list.
    Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
-.cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }
+.catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }   /* beats .person h1's 2.2rem on specificity, not just source order */
 .cat-featured { margin:0 0 1.5rem; }
 .cat-featured h3 { margin:.7rem 0 .2rem; font-size:1.35rem; }
 .cat-featured .d { margin:0; color:var(--muted); font-size:.9rem; }
@@ -646,19 +646,27 @@ body.home:not(.browsing) .reccount { display:none; }   /* "142 recordings" repea
 /* ---- desktop (64rem and wider) ---- */
 .browse-links { display:none; }
 @media (min-width:64rem) {
-  /* every page: one row, TED-style: title at the left, Browse next to it, search box at the right; it never stacks */
+  /* every page: one row, TED-style: title at the left, category links next to it (replaces the BROWSE // dropdown,
+     which stays for mobile/tablet where there's no room to spell them all out), search box at the right */
   header.site .wrap { flex-wrap:nowrap; align-items:center; gap:1.75rem; }
   header.site strong, header.site .browse, header.site .hright { flex:none; }
+  header.site .browse { display:none; }
+  header.site .browse-links { display:flex; flex-wrap:wrap; align-items:center; gap:.35rem .65rem; font-size:.95rem; }
+  header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
+  header.site .browse-links a { color:var(--accent); text-decoration:none; }
+  header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
+  header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
   header.site .hright { margin:0 0 0 auto; }
   header.site .hsearch input { width:19rem; }
-  /* home page: like Google, the search box is the star, with the categories as links under it */
+  /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
+     (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
   body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
   body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; }
   body.home header.site strong { font-size:3.1rem; line-height:1.15; text-align:center; }
   body.home header.site .browse { display:none; }
   body.home header.site .hright { order:2; margin:0; width:min(44rem, 100%); }
   body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
-  body.home .browse-links { order:3; display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:.4rem .8rem; font-size:1.15rem; }
+  body.home header.site .browse-links { order:3; justify-content:center; gap:.4rem .8rem; font-size:1.15rem; }   /* higher specificity than the general rule above, so these win */
   body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
   body.home .browse-links a { color:var(--accent); }
   body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
@@ -2067,11 +2075,10 @@ def build_category_page(stype, entries):
     rows = "\n".join(session_row_html(x) for x in ordered)
 
     recent_section = f'<h2 class="cat-kicker">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
-    body = f"""<h1>{e(info['plural'])}</h1>
-<div class="catpage-grid">
+    body = f"""<div class="catpage-grid">
 <div class="cat-main">
 <section class="cat-featured">
-<h2 class="cat-kicker">Latest {e(info['label'])}</h2>
+<h1 class="cat-kicker">Latest {e(info['label'])}</h1>
 {build_player(featured)}
 <h3><a href="{slug(featured)}.html">{e(topic)}</a></h3>
 <p class="d">{e(when)}{by}</p>
