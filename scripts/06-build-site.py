@@ -459,7 +459,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
 .read-btn:hover { background:#5f5f5f; border-color:#5f5f5f; }
-.js .read-actions { display:flex; gap:.6rem; position:sticky; top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw)); z-index:15; box-shadow:0 .5rem 0 var(--bg); }   /* narrow: locks to the bottom edge of the pinned video */
+.js .read-actions { display:flex; gap:.6rem; }   /* scrolls with the rest of the content, per Colin -- no longer locked to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
@@ -467,7 +467,6 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-yt a { color:#000; }
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
-.watch-next h2 { font-size:1rem; margin:0 0 .6rem; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
 .watch-next li { border-bottom:1px solid var(--line); }
 .watch-next a { display:flex; gap:.8rem; align-items:center; padding:.5rem .3rem; color:var(--fg); }
@@ -546,7 +545,7 @@ section.synopsis h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px
 .cat-recent img { width:100%; height:auto; border-radius:4px; display:block; margin-bottom:.4rem; }
 .cat-recent .rc-title { display:block; font-weight:600; font-size:.92rem; line-height:1.3; }
 .cat-recent .rc-date { display:block; color:var(--muted); font-size:.8rem; margin-top:.15rem; }
-aside.cat-list h2 { margin:0 0 .8rem; padding:0 0 .6rem; border-top:none; border-bottom:1px solid var(--accent); font-size:1.2rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- black, larger, a red rule BELOW "All Salons" instead of above */
+aside.cat-list h2, .watch-next h2 { margin:0 0 .8rem; padding:0 0 .6rem; border-top:none; border-bottom:1px solid var(--accent); font-size:1.2rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; text-transform:uppercase; letter-spacing:.04em; color:#000; }   /* the extra "aside." beats .person h2 on specificity (same trick as section.synopsis h2) -- black, larger, a red rule BELOW "All Salons" instead of above; .watch-next h2 (the same list on a recording page) matches, per Colin */
 @media (min-width:64rem) {
   .catpage-grid { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(20rem,1fr); gap:2.5rem; align-items:start; }
   aside.cat-list { position:sticky; top:1.5rem; max-height:calc(100vh - 3rem); display:flex; flex-direction:column; }   /* its own scrollable pane: the "All Salons" heading stays put while the list scrolls in the space below it, the rest of the page scrolls normally (Colin, 2026-09-22) */
@@ -571,7 +570,6 @@ a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /*
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; scrollbar-width:thin; }
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
-  .js .read-actions { position:static; box-shadow:none; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
   .meta .mod-line.wrapped { display:block; }   /* was breaking mid-phrase ("...North Bennington," / "VT USA"); force it onto its own line after the date instead, with normal wrapping still available within it if it's still too long alone */
@@ -618,30 +616,39 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info { margin-top:.5rem; padding:.5rem .7rem; background:var(--bg); border:1px solid var(--line); border-radius:.35rem; font-size:.85em; color:#333; }
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
-#search .cite-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .5rem; margin-top:1rem; }
+/* the Copy citation button and the Citation Format Selector (CFS), sitewide -- the whole-session box, a search
+   result's citation, and the card under a cited passage all share this one look and layout, per Colin: a solid
+   red button with the CFS beside it on the same row (not stacked below). On a search result specifically, the
+   WATCH pill sits on its own row above, and Copy Citation is gray there instead of red so it doesn't visually
+   compete with WATCH (see .cite-watch / #search .cite-actions .copy-cite below). */
+.cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:.6rem; }
+.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:var(--accent); color:#fff; cursor:pointer; }
+.copy-cite:hover, .copy-cite:focus-visible { background:#b30000; }
+.cite-format { margin:0; font-size:.85rem; color:var(--muted); }
+.cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
 a.pill.pill-watch:hover { background:#d60000; }
 a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
-#search .cite-actions .copy-cite, #search .cite-actions a.pill.pill-watch { box-sizing:border-box; height:2.2rem; padding-top:0; padding-bottom:0; display:inline-flex; align-items:center; line-height:1; }
-#search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }
-.citation-info .copy-cite { display:block; margin:0; font:inherit; font-size:.85em; padding:.2rem .6rem; border:1px solid var(--line); background:var(--card); border-radius:.3rem; cursor:pointer; }
-.citation-info .copy-cite:hover { border-color:var(--accent); color:var(--accent); }
-.cite-format { margin-top:.6rem; font-size:.85rem; color:var(--muted); }
-.cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
+.cite-watch { margin-top:.6rem; }
+#search .cite-watch a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; box-sizing:border-box; height:2.2rem; display:inline-flex; align-items:center; line-height:1; }
+/* gray, not red -- a search result already has a red WATCH pill; two reds on one card compete (Colin, 2026-09-22).
+   The higher specificity here (over the plain .copy-cite rule) is also what actually gets applied at all on this
+   page: Pagefind's own UI ships a ".pagefind-ui--reset button" reset that otherwise wins on background. */
+#search .cite-actions .copy-cite { box-sizing:border-box; height:2.2rem; padding-top:0; padding-bottom:0; display:inline-flex; align-items:center; line-height:1; background:#767676; color:#fff; }
+#search .cite-actions .copy-cite:hover, #search .cite-actions .copy-cite:focus-visible { background:#5f5f5f; }
 .cite-text.cite-code { display:block; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.8rem; white-space:pre-wrap; overflow-wrap:anywhere; margin-top:.2rem; }
 section.cite { margin:0 0 1.5rem; }   /* moved into the content pane, under "Watch on YouTube", per Colin -- no longer a separate boxed card below the two-column layout */
 section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* same treatment as SYNOPSIS/PARTICIPANTS, per Colin; the extra "section." beats .person h2 on specificity */
 .cite blockquote { margin:0; font-size:.92rem; color:#333; }
-.cite button { margin-top:.6rem; font:inherit; font-size:.82rem; padding:.25rem .7rem; border:1px solid var(--line); background:var(--bg); border-radius:.3rem; cursor:pointer; }
-.cite button:hover { border-color:var(--accent); color:var(--accent); }
+.cite .cite-text.cite-code { color:#333; }   /* BibTeX/RIS: monospace comes from the shared .cite-text.cite-code rule; keep the same body color */
 .cite .doi { color:var(--muted); }
 
 /* search-result citations and the citation card under a cited passage */
 #search .citation-info { margin-top:.6rem; padding:.55rem 0 0; border:0; border-top:1px solid #bbb; background:none; border-radius:0; }   /* a thin rule between the quoted text and its citation */
 .citation-info strong.cite-head, .cite-card strong.cite-head { color:var(--accent); display:block; margin:0 0 .25rem; font-size:inherit; }   /* the citation itself starts on the next line */
-#search .copy-cite, .cite-card .copy-cite, .cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
-#search .copy-cite:hover, .cite-card .copy-cite:hover, .cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
+.cite-card .continue-btn { font:inherit; font-size:.9rem; padding:.25rem .8rem; border:1px solid var(--accent); border-radius:.3rem; background:#fff; color:var(--accent); cursor:pointer; }
+.cite-card .continue-btn:hover { background:var(--accent); color:#fff; }
 .cite-card { margin:0 0 1.5rem; padding:.7rem .9rem; border-left:3px solid var(--accent); background:#fafafa; }
 .cite-card .cite-text { font-family:Georgia,"Times New Roman",serif; font-size:.95rem; }
 .cite-card .cite-actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
@@ -747,8 +754,10 @@ PAGE_TMPL = """<!doctype html>
 <p class="watch-yt"><a href="{url}">Watch on YouTube</a></p>
 <section class="cite" data-pagefind-ignore>
 <h2>Cite this session</h2>
-<blockquote id="citation">{citation}</blockquote>
-<button type="button" onclick="navigator.clipboard.writeText(document.getElementById('citation').innerText).then(()=>{{this.textContent='Copied';setTimeout(()=>this.textContent='Copy citation',1500)}})">Copy citation</button>
+<div data-cite="{cite_data}">
+<blockquote class="cite-text">{citation}</blockquote>
+<div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select}</div>
+</div>
 </section>
 </div>
 <div class="right">
@@ -766,7 +775,27 @@ PAGE_TMPL = """<!doctype html>
 """
 
 
+# kept in sync with CITE_FORMATS in CITE_JS by hand (one's Python, one's JS) -- the server only needs this
+# to pre-render the <select> so it's there on first paint; CITE_JS's citeApply() re-syncs it to the browser's
+# remembered choice once it runs.
+CITE_FORMATS_PY = [("chicago", "Chicago"), ("mla", "MLA"), ("apa", "APA"), ("bibtex", "BibTeX"), ("ris", "RIS (Zotero, EndNote)")]
+
+
+def cite_format_select_html():
+    """The Citation Format Selector (CFS): pre-rendered server-side (defaulting to Chicago) so it's there
+    without JS; CITE_JS takes over from here, matching the one already on every search-result citation."""
+    opts = "".join(f'<option value="{v}"{" selected" if v == "chicago" else ""}>{e(label)}</option>' for v, label in CITE_FORMATS_PY)
+    return f'<div class="cite-format"><label>Citation Format: <select class="cite-format-select" aria-label="Citation Format">{opts}</select></label></div>'
+
+
 def build_citation(entry):
+    """The 'Cite this session' box: a Chicago-style citation (unchanged wording/behavior) plus a data-cite JSON
+    payload so the same CITE_JS that drives a search result's citation format selector (CFS: Chicago/MLA/APA/
+    BibTeX/RIS, choice remembered in the browser) can drive this one too, per Colin -- it was missing entirely
+    before. No single moment applies to a whole session, so "seconds" is left out of the payload; citeFormats()
+    (CITE_JS) knows to drop each format's timestamp phrase when that happens. The plain-text "chicago" value is
+    passed through as an override so the default view's wording/tone is exactly what it always was (no author
+    named for a multi-presenter session) -- only the other four formats are new."""
     title = e(entry.get("session_title") or "Untitled")
     series = e(series_name(entry))
     date = entry.get("date_recorded")
@@ -778,7 +807,12 @@ def build_citation(entry):
         head = f"{series}, &ldquo;{title},&rdquo; {when}."
     else:
         head = f"{series}, &ldquo;{title}.&rdquo;"
-    return f'{head} <em>{BRAND}</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
+    html = f'{head} <em>{BRAND}</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
+    chicago_plain = re.sub(r"<[^>]+>", "", html).replace("&ldquo;", '"').replace("&rdquo;", '"').replace("&amp;", "&")
+    who = participants_line(entry) or series_name(entry)   # no one named speaker for most sessions (several presenters); the series name is a more honest stand-in than "Unidentified speaker"
+    data = json.dumps({"speaker": who, "series": series_name(entry), "topic": entry.get("session_title") or "Untitled",
+                        "date": date or "", "url": entry["url"], "chicago": chicago_plain}, ensure_ascii=False)
+    return html, data
 
 
 PLAY_SVG = '<svg viewBox="0 0 12 14" aria-hidden="true"><path d="M1 0.5v13l10.5-6.5z"/></svg>'
@@ -866,7 +900,7 @@ function citeYMD(iso) { var p = (iso || "").split("-").map(Number); return { y: 
 function citeDateLong(p) { if (!p.y) return ""; if (!p.m) return String(p.y); return CITE_MONTHS_LONG[p.m] + (p.d ? " " + p.d + ", " : " ") + p.y; }
 function citeDateMla(p) { if (!p.y) return ""; if (!p.m) return String(p.y); return (p.d ? p.d + " " : "") + CITE_MONTHS_MLA[p.m] + " " + p.y; }
 function citeToday() { var d = new Date(); return d.getDate() + " " + CITE_MONTHS_MLA[d.getMonth() + 1] + " " + d.getFullYear(); }
-function citeIsPerson(n) { return n && !/^Unidentified/i.test(n) && n.indexOf(",") < 0 && n.indexOf(" and ") < 0 && n.indexOf("&") < 0; }
+function citeIsPerson(n) { return n && !/^Unidentified/i.test(n) && !/\d/.test(n) && n.indexOf(",") < 0 && n.indexOf(" and ") < 0 && n.indexOf("&") < 0; }   /* a series name ("Techspressionist Salon 110", the CFS's fallback "author" for a whole-session citation with no single named speaker) always has a digit; a real person's name never does */
 function citeApaName(n) {
   var t = n.trim().split(/ +/);
   if (!citeIsPerson(n) || t.length < 2) return n.trim();
@@ -874,20 +908,24 @@ function citeApaName(n) {
 }
 function citeBibEsc(s) { return String(s).replace(/&/g, CITE_BS + "&").replace(/%/g, CITE_BS + "%"); }
 function citeFormats(i) {
+  // i.seconds is omitted for a whole-session citation (the "Cite this session" box, per Colin -- no one
+  // moment to point at): every format below drops its timestamp phrase gracefully instead of showing 00:00:00
   var title = (i.series || "Techspressionism") + ": " + (i.topic || "Untitled");
-  var pub = "Techspressionism Video Archive", p = citeYMD(i.date), ts = citeHms(i.seconds), url = i.url || "", who = i.speaker || "Unidentified speaker";
-  var mla = who + '. "' + title + '." ' + pub + ", " + (p.y ? citeDateMla(p) + ", " : "") + ts + ", " + url + ". Accessed " + citeToday() + ".";
+  var pub = "Techspressionism Video Archive", p = citeYMD(i.date), ts = i.seconds != null ? citeHms(i.seconds) : "", url = i.url || "", who = i.speaker || "Unidentified speaker";
+  var mla = who + '. "' + title + '." ' + pub + ", " + (p.y ? citeDateMla(p) + ", " : "") + (ts ? ts + ", " : "") + url + ". Accessed " + citeToday() + ".";
   var apa = citeApaName(who) + " " + (p.y ? "(" + citeDateLong(p).replace(/^([A-Za-z]+) ([0-9]+), ([0-9]+)$/, "$3, $1 $2").replace(/^([A-Za-z]+) ([0-9]+)$/, "$2, $1") + ")" : "(n.d.)") +
-    ". " + title + " [Video transcript excerpt, " + ts + "]. " + pub + ". " + url;
+    ". " + title + (ts ? " [Video transcript excerpt, " + ts + "]" : " [Video]") + ". " + pub + ". " + url;
   var last = (who.trim().split(/ +/).pop() || "tva").toLowerCase().replace(/[^a-z]/g, "") || "tva";
-  var bib = ["@misc{" + last + (p.y || "nd") + "t" + Math.floor(i.seconds || 0) + ",",
+  var bib = ["@misc{" + last + (p.y || "nd") + (ts ? "t" + Math.floor(i.seconds || 0) : "") + ",",
     "  author = {" + citeBibEsc(who) + "},", "  title = {" + citeBibEsc(title) + "},",
     "  howpublished = {" + pub + ", streaming video},"].concat(p.y ? ["  year = {" + p.y + "},"] : [], p.m ? ["  month = {" + CITE_MONTHS_LONG[p.m].slice(0, 3).toLowerCase() + "},"] : [],
-    ["  note = {Transcript passage at " + ts + (p.y ? "; recorded " + citeDateLong(p) : "") + "},", "  url = {" + url + "}", "}"]).join(CITE_NL);
+    (ts ? ["  note = {Transcript passage at " + ts + (p.y ? "; recorded " + citeDateLong(p) : "") + "},"] : []),
+    ["  url = {" + url + "}", "}"]).join(CITE_NL);
   var ris = ["TY  - VIDEO", "AU  - " + (citeIsPerson(who) ? (who.trim().split(/ +/).length > 1 ? who.trim().split(/ +/).pop() + ", " + who.trim().split(/ +/).slice(0, -1).join(" ") : who) : who),
     "TI  - " + title, "T2  - " + pub].concat(p.y ? ["PY  - " + p.y, "DA  - " + p.y + "/" + (p.m ? String(p.m).padStart(2, "0") : "") + "/" + (p.d ? String(p.d).padStart(2, "0") : "") + "/"] : [],
-    ["N1  - Transcript passage at " + ts, "UR  - " + url, "ER  - "]).join(CITE_NL);
-  return { chicago: i.chicago || who + ', "' + title + '," ' + pub + ", " + (p.y ? citeDateLong(p) : "n.d.") + ", streaming video, " + ts + ", " + url + ".", mla: mla, apa: apa, bibtex: bib, ris: ris };
+    (ts ? ["N1  - Transcript passage at " + ts] : []),
+    ["UR  - " + url, "ER  - "]).join(CITE_NL);
+  return { chicago: i.chicago || who + ', "' + title + '," ' + pub + ", " + (p.y ? citeDateLong(p) : "n.d.") + (ts ? ", streaming video, " + ts : "") + ", " + url + ".", mla: mla, apa: apa, bibtex: bib, ris: ris };
 }
 function citeFormatSelect(current) {
   return '<div class="cite-format"><label>Citation Format: <select class="cite-format-select" aria-label="Citation Format">' +
@@ -1022,7 +1060,7 @@ PLAYER_JS = """<script>
       card.setAttribute('data-cite', JSON.stringify(cinfo));
       card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
         + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
-        + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button></div>' + citeFormatSelect(citeStored());
+        + '<button type="button" class="continue-btn" hidden>Continue watching &#9654;</button>' + citeFormatSelect(citeStored()) + '</div>';
       citeApply(card);
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
@@ -1130,7 +1168,7 @@ PLAYER_JS = """<script>
     card.innerHTML = '<strong class="cite-head">Citation information:</strong> <span class="cite-text"></span>'
       + '<div class="cite-actions"><button type="button" class="copy-cite">Copy Citation</button>'
       + '<button type="button" class="continue-btn"' + (wasPlaying ? '' : ' hidden') + '>Continue watching &#9654;</button>'
-      + '<button type="button" class="close-cite">Close</button></div>' + citeFormatSelect(citeStored());
+      + '<button type="button" class="close-cite">Close</button>' + citeFormatSelect(citeStored()) + '</div>';
     citeApply(card);
     para.parentNode.insertBefore(card, para.nextSibling);
     cb.setAttribute('aria-expanded', 'true');
@@ -1302,6 +1340,19 @@ PLAYER_JS = """<script>
   checkWrap();
   window.addEventListener('resize', checkWrap);
 })();
+(function () {   // the header search box matches the "All Salons" sidebar's width here too, same as category
+                 // pages -- .watch-next only exists once JS turns it on, and toggles hidden in reading mode, so a
+                 // ResizeObserver (not just a resize listener) catches it appearing/disappearing, not just resizing
+  var sidebar = document.querySelector('.watch-next'), input = document.querySelector('header.site .hsearch input');
+  if (!sidebar || !input) return;
+  function match() {
+    var w = window.innerWidth >= 1024 ? sidebar.getBoundingClientRect().width : 0;
+    input.style.width = w ? w + 'px' : '';
+  }
+  match();
+  window.addEventListener('resize', match);
+  if (window.ResizeObserver) new ResizeObserver(match).observe(sidebar);
+})();
 </script>"""
 
 
@@ -1451,6 +1502,7 @@ def build_session_page(entry, siblings=()):
     if entry.get("interviewer"):
         moderator = f'<span class="mod-line"> &middot; interviewed by {e(entry["interviewer"])}</span>'
     curator = f'<span class="mod-line"> &middot; curated by {e(entry["curator"])}</span>' if entry.get("curator") else ""
+    citation_html, cite_data = build_citation(entry)
 
     return PAGE_TMPL.format(
         title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
@@ -1481,7 +1533,9 @@ def build_session_page(entry, siblings=()):
         description=description_html(entry),
         flags=flags_html,
         segments="\n".join(seg_html),
-        citation=build_citation(entry),
+        citation=citation_html,
+        cite_data=e(cite_data),
+        cite_format_select=cite_format_select_html(),
     )
 
 
@@ -1606,9 +1660,9 @@ function citationBlock(c) {{
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
   return '<div class="citation-info" data-cid="' + c.id + '" data-cite="' + escapeHtml(JSON.stringify(info)) + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
     + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>'
+    + '<div class="cite-watch"><a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a></div>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
-    + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
-    + '</div>' + citeFormatSelect(fmt) + '</div>';
+    + citeFormatSelect(fmt) + '</div></div>';
 }}
 
 const timesCache = new Map();
