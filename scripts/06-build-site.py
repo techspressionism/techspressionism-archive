@@ -618,26 +618,26 @@ body.searching #intro-block, body.searching .reccount, body.searching .sessions-
 .citation-info strong { display:block; margin-bottom:.2rem; color:var(--muted); font-size:.85em; font-weight:600; }
 .citation-info .cite-text { font-family:Georgia,"Times New Roman",serif; }
 /* the Copy citation button and the Citation Format Selector (CFS), sitewide -- the whole-session box, a search
-   result's citation, and the card under a cited passage all share this one look and layout, per Colin: a solid
-   red button with the CFS beside it on the same row (not stacked below). On a search result specifically, the
-   WATCH pill sits on its own row above, and Copy Citation is gray there instead of red so it doesn't visually
-   compete with WATCH (see .cite-watch / #search .cite-actions .copy-cite below). */
+   result's citation, and the card under a cited passage all share this one look and layout, per Colin: WATCH (if
+   present), a solid Copy Citation button and the CFS all on one row. Pagefind's own UI ships a CSS reset
+   (".pagefind-ui--reset :where(...)") that resets display/background/etc. back to the browser default at EQUAL
+   specificity to a plain class selector, so on a search result specifically -- the one place these sit inside
+   that reset's scope -- every rule below needs the extra "#search" to reliably win (an ID beats the reset's
+   0-specificity :where() every time; without it, whichever loaded later in the stylesheet was winning). */
 .cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:.6rem; }
+#search .cite-actions { display:flex; }
 .copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:var(--accent); color:#fff; cursor:pointer; }
 .copy-cite:hover, .copy-cite:focus-visible { background:#b30000; }
+/* gray, not red, on a search result specifically -- it already has a red WATCH pill; two reds on one card compete (Colin, 2026-09-22) */
+#search .cite-actions .copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1rem; border:none; border-radius:.4rem; background:#767676; color:#fff; cursor:pointer; }
+#search .cite-actions .copy-cite:hover, #search .cite-actions .copy-cite:focus-visible { background:#5f5f5f; }
 .cite-format { margin:0; font-size:.85rem; color:var(--muted); }
 .cite-format select { font:inherit; font-size:.85rem; margin-left:.3rem; padding:.15rem .4rem; border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:0; }
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
 a.pill.pill-watch:hover { background:#d60000; }
 a.pill.pill-watch .watch-word { letter-spacing:.05em; font-size:.8rem; }
-.cite-watch { margin-top:.6rem; }
-#search .cite-watch a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; box-sizing:border-box; height:2.2rem; display:inline-flex; align-items:center; line-height:1; }
-/* gray, not red -- a search result already has a red WATCH pill; two reds on one card compete (Colin, 2026-09-22).
-   The higher specificity here (over the plain .copy-cite rule) is also what actually gets applied at all on this
-   page: Pagefind's own UI ships a ".pagefind-ui--reset button" reset that otherwise wins on background. */
-#search .cite-actions .copy-cite { box-sizing:border-box; height:2.2rem; padding-top:0; padding-bottom:0; display:inline-flex; align-items:center; line-height:1; background:#767676; color:#fff; }
-#search .cite-actions .copy-cite:hover, #search .cite-actions .copy-cite:focus-visible { background:#5f5f5f; }
+#search .cite-actions a.pill { font-size:.85rem; padding:.18rem .65rem .18rem .55rem; }   /* the copy-cite button next to it is NOT height-matched to this on purpose -- it should look exactly like the one on a video page (same padding/font-size/border-radius), just gray instead of red, per Colin */
 .cite-text.cite-code { display:block; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.8rem; white-space:pre-wrap; overflow-wrap:anywhere; margin-top:.2rem; }
 section.cite { margin:0 0 1.5rem; }   /* moved into the content pane, under "Watch on YouTube", per Colin -- no longer a separate boxed card below the two-column layout */
 section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* same treatment as SYNOPSIS/PARTICIPANTS, per Colin; the extra "section." beats .person h2 on specificity */
@@ -1661,8 +1661,8 @@ function citationBlock(c) {{
     + "&hl=" + encodeURIComponent(c.hits.join(",")) + "&cite=" + encodeURIComponent(citation) + "#" + c.anchor;
   return '<div class="citation-info" data-cid="' + c.id + '" data-cite="' + escapeHtml(JSON.stringify(info)) + '"' + (c.done ? ' data-enhanced="1"' : "") + '>'
     + '<strong class="cite-head">Citation information:</strong> <span class="cite-text' + (shown.code ? " cite-code" : "") + '">' + shown.html + '</span>'
-    + '<div class="cite-watch"><a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a></div>'
     + '<div class="cite-actions"><button type="button" class="copy-cite" data-citation="' + escapeHtml(shown.text) + '">Copy Citation</button>'
+    + '<a class="pill pill-watch" href="' + escapeHtml(here) + '" title="Watch here: opens the transcript at this sentence and plays the clip"><span class="watch-word">WATCH</span>' + {pill_svg_js} + pillTime(c.at) + '</a>'
     + citeFormatSelect(fmt) + '</div></div>';
 }}
 
