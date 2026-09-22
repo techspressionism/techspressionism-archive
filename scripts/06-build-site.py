@@ -26,6 +26,8 @@ import shutil
 import subprocess
 import unicodedata
 import sys
+import zipfile
+from fpdf import FPDF
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -454,11 +456,10 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
-.watch-yt { margin:.8rem 0 0; text-align:center; }   /* below the Read/Watch transcript buttons, per Colin -- the "View on techspressionism.com" / "Looking for the next Salon?" links that used to share this line were dropped, not moved */
-.print-transcript { margin:.5rem 0 0; text-align:center; }
-.print-btn { font:inherit; font-size:.85rem; color:var(--muted); background:none; border:none; text-decoration:underline; cursor:pointer; padding:.3rem; }
+.watch-yt { margin:.8rem 0 0; text-align:center; font-size:.95rem; }   /* below the Read/Watch transcript buttons, per Colin -- the "View on techspressionism.com" / "Looking for the next Salon?" links that used to share this line were dropped, not moved. Watch on YouTube // Print transcript (PDF) // Download transcript (.DOCX / PDF) all share this one line, per Colin 2026-09-22 */
+.print-btn { font:inherit; font-size:inherit; color:#000; background:none; border:none; text-decoration:underline; cursor:pointer; padding:0; }
 .print-btn:hover, .print-btn:focus-visible { color:var(--accent); }
-.watch-yt a { color:#000; }
+.watch-yt a { color:#000; text-decoration:underline; }   /* sitewide links skip the underline and rely on the accent color instead, but these are recolored to plain black (matching this line's surrounding text/buttons) -- without it they were indistinguishable from plain text now that this line mixes links, a button, and plain "//" separators */
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
@@ -698,7 +699,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
 }
 /* ---- print ("Print transcript (PDF)", also plain Cmd/Ctrl+P) ---- */
 @media print {
-  header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt, .print-transcript,
+  header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
   .cite-actions, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
   .sitefoot, .player-box, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
@@ -706,6 +707,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   .layout { display:block !important; }   /* the two-column grid (content + transcript/sidebar) becomes one column, full width */
   .right { width:100% !important; }
   a { color:#000 !important; text-decoration:none !important; }
+  .speakers a.turn-t, .synopsis a.syn-t { background:none !important; border:none !important; padding:0 !important; border-radius:0 !important; }   /* the red timecode pill in the participant list and the underlined timecode marker in the synopsis -- per Colin, plain text like a written report, no button/chip styling left over */
   .seg-head, .para { break-inside:avoid; }   /* don't split a speaker turn or a paragraph across a page break where avoidable */
 }
 """
@@ -755,8 +757,7 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>
 <button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>
 </div>
-<p class="watch-yt"><a href="{url}">Watch on YouTube</a></p>
-<p class="print-transcript" data-pagefind-ignore><button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button></p>
+<p class="watch-yt" data-pagefind-ignore><a href="{url}">Watch on YouTube</a> &#47;&#47; <button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>
 <section class="cite" data-pagefind-ignore>
 <h2>Cite this session</h2>
 <div data-cite="{cite_data}">
@@ -1419,6 +1420,142 @@ def build_watch_next(entry, siblings):
     return f'<aside class="watch-next" data-pagefind-ignore><h2>All {e(info["plural"])}</h2><ul>' + "".join(rows) + "</ul></aside>"
 
 
+def transcript_report_blocks(entry):
+    """The content of a recording's downloadable transcript (DOCX/PDF) and the printed page, as plain content
+    blocks -- [(kind, text)], kind one of "title"/"meta"/"h2"/"speaker"/"p" -- independent of any markup format,
+    consumed by both write_docx() and write_pdf()."""
+    blocks = [("title", entry_heading(entry))]
+    date = entry.get("date_recorded")
+    when = f"{'Published' if date_is_estimate(entry) else 'Recorded'} {fmt_date(date)}" if date else ""
+    mod = ""
+    if entry.get("interviewer"):
+        mod = f" · interviewed by {entry['interviewer']}"
+    elif entry.get("moderator") and re.search(r"[^\W_]", str(entry["moderator"])):
+        mod = f" · moderated by {entry['moderator']}"
+    if when or mod:
+        blocks.append(("meta", f"{when}{mod}".lstrip(" ·")))
+    reviewed = load_synopsis(entry)
+    if reviewed:
+        blocks.append(("h2", "Synopsis"))
+        blocks.append(("p", synopsis_plain(reviewed)))
+    people = _entry_people_broad(entry)
+    if people:
+        blocks.append(("h2", f"Participants ({len(people)})"))
+        blocks.append(("p", ", ".join(people)))
+    blocks.append(("h2", "Cite this session"))
+    citation_html, _ = build_citation(entry)
+    citation_plain = re.sub(r"<[^>]+>", "", citation_html).replace("&ldquo;", '"').replace("&rdquo;", '"').replace("&amp;", "&")
+    blocks.append(("p", citation_plain))
+    blocks.append(("h2", "Transcript"))
+    all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
+    prev_speaker = object()
+    for seg in entry["segments"]:
+        speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
+        if speaker != prev_speaker:
+            blocks.append(("speaker", speaker))
+            prev_speaker = speaker
+        for para in (seg.get("text") or "").split("\n\n"):
+            para = para.strip()
+            if para:
+                blocks.append(("p", para))
+    return blocks
+
+
+def _docx_escape(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def _docx_paragraph(text, bold=False, italic=False, size=None, space_after=200, color=None):
+    rpr = ("<w:b/>" if bold else "") + ("<w:i/>" if italic else "") + \
+          (f'<w:sz w:val="{size}"/><w:szCs w:val="{size}"/>' if size else "") + (f'<w:color w:val="{color}"/>' if color else "")
+    rpr_xml = f"<w:rPr>{rpr}</w:rPr>" if rpr else ""
+    return (f'<w:p><w:pPr><w:spacing w:after="{space_after}"/>{f"<w:rPr>{rpr}</w:rPr>" if rpr else ""}</w:pPr>'
+            f'<w:r>{rpr_xml}<w:t xml:space="preserve">{_docx_escape(text)}</w:t></w:r></w:p>')
+
+
+def write_docx(blocks, path):
+    """A minimal but valid .docx (Office Open XML is just a zip of XML parts) -- no python-docx dependency,
+    since the content here (headings and plain paragraphs, no tables/images) doesn't need one."""
+    styled = {
+        "title": lambda t: _docx_paragraph(t, bold=True, size="36", space_after=160),
+        "meta": lambda t: _docx_paragraph(t, italic=True, size="20", color="595959", space_after=280),
+        "h2": lambda t: _docx_paragraph(t, bold=True, size="26", space_after=140),
+        "speaker": lambda t: _docx_paragraph(t, bold=True, size="21", space_after=60),
+        "p": lambda t: _docx_paragraph(t, size="21", space_after=160),
+    }
+    body = "".join(styled[kind](text) for kind, text in blocks)
+    body += ('<w:sectPr><w:pgSz w:w="12240" w:h="15840"/>'
+             '<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440"/></w:sectPr>')
+    document_xml = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+                     '<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">'
+                     f'<w:body>{body}</w:body></w:document>')
+    content_types = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+                      '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
+                      '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>'
+                      '<Default Extension="xml" ContentType="application/xml"/>'
+                      '<Override PartName="/word/document.xml" '
+                      'ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>'
+                      '</Types>')
+    pkg_rels = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+                '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
+                '<Relationship Id="rId1" '
+                'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" '
+                'Target="word/document.xml"/></Relationships>')
+    doc_rels = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+                '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"></Relationships>')
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
+        z.writestr("[Content_Types].xml", content_types)
+        z.writestr("_rels/.rels", pkg_rels)
+        z.writestr("word/document.xml", document_xml)
+        z.writestr("word/_rels/document.xml.rels", doc_rels)
+
+
+SYSTEM_PDF_FONT = "/System/Library/Fonts/Supplemental/Arial Unicode.ttf"   # broad coverage: tried the much smaller plain
+    # Arial.ttf (750KB vs. 23MB, ~5.6x faster per PDF -- fpdf2 re-parses a font from scratch on every add_font() call,
+    # no cross-call caching) but it can't render the stray CJK/Korean characters that are a KNOWN Whisper transcription
+    # error in ~40 sessions (see review/whisper-hallucinations.csv) -- fpdf2 logged "missing glyph" warnings and those
+    # characters would render broken or drop silently. For a citation-focused archive, correctness of what's actually
+    # in the corpus outweighs the ~30s of extra build time this costs across all 148 recordings.
+PDF_FONT_CACHE = Path.home() / ".cache" / "techspressionism-archive" / "PdfFont.ttf"   # a copy outside the repo (git has
+    # no business tracking a copy of a system font) that this can rely on existing even if SYSTEM_PDF_FONT ever moves
+
+
+def _pdf_font_path():
+    if not PDF_FONT_CACHE.exists() and Path(SYSTEM_PDF_FONT).exists():
+        PDF_FONT_CACHE.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(SYSTEM_PDF_FONT, PDF_FONT_CACHE)
+    return PDF_FONT_CACHE if PDF_FONT_CACHE.exists() else None
+
+
+def write_pdf(blocks, path):
+    pdf = FPDF(format="Letter")
+    pdf.set_auto_page_break(auto=True, margin=18)
+    pdf.set_margins(20, 18, 20)
+    pdf.add_page()
+    font_path = _pdf_font_path()
+    if font_path:
+        pdf.add_font("Body", "", str(font_path))
+        family = "Body"
+    else:
+        family = "Helvetica"   # font missing (not on this machine) -- falls back to core fonts, Latin-1 only
+    styled = {
+        "title": (16, (0, 0, 0), 6),
+        "meta": (10, (90, 90, 90), 8),
+        "h2": (13, (0, 0, 0), 5),
+        "speaker": (11, (0, 0, 0), 2),
+        "p": (10.5, (20, 20, 20), 4),
+    }
+    for kind, text in blocks:
+        size, color, after = styled[kind]
+        pdf.set_font(family, "", size)
+        pdf.set_text_color(*color)
+        pdf.multi_cell(0, size * 0.5, text)
+        pdf.ln(after * 0.3)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    pdf.output(str(path))
+
+
 def build_session_page(entry, siblings=()):
     number = entry["number"]
     video_id = entry["video_id"]
@@ -1558,6 +1695,8 @@ def build_session_page(entry, siblings=()):
         moderator=moderator,
         curator=curator,
         url=e(url),
+        docx_href=e(transcript_docx_href(entry)),
+        pdf_href=e(transcript_pdf_href(entry)),
         speakers=speakers_html,
         synopsis=synopsis_html(entry),
         description=description_html(entry),
@@ -2639,6 +2778,14 @@ def transcript_md_href(entry):
     return f"transcripts/{slug(entry)}.md"
 
 
+def transcript_docx_href(entry):
+    return f"transcripts/{slug(entry)}.docx"
+
+
+def transcript_pdf_href(entry):
+    return f"transcripts/{slug(entry)}.pdf"
+
+
 def seo_for_entry(entry):
     base_home = canonical_url("")
     name = entry_heading(entry)
@@ -2840,6 +2987,9 @@ def write_site_files(corpus):
         src = ROOT / "corpus" / f"{slug(entry)}.md"
         if src.exists():
             shutil.copy2(src, SITE_DIR / "transcripts" / src.name)
+        blocks = transcript_report_blocks(entry)
+        write_docx(blocks, SITE_DIR / "transcripts" / f"{slug(entry)}.docx")
+        write_pdf(blocks, SITE_DIR / "transcripts" / f"{slug(entry)}.pdf")
     csv_src = ROOT / "data" / "recordings.csv"
     if csv_src.exists():
         shutil.copy2(csv_src, SITE_DIR / "data" / "recordings.csv")
