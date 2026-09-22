@@ -663,7 +663,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   header.site strong { order:1; flex:none; }
   header.site .browse, header.site .hright { flex:none; }
   header.site .browse { display:none; }
-  header.site .hright { order:2; margin:0 0 0 auto; }
+  header.site .hright { order:2; margin:27px 0 0 auto; }   /* align-items:center only centers it against row one (the title); nudges it down to sit centered against the full two-row header height instead, per Colin 2026-09-22. Adding margin here also grows the header itself (pushing the bottom border down), so the needed offset is bigger than the raw gap first measured -- 27px, verified to land the search box's center within 1px of the true midpoint. Overridden back to margin:0 on the home page below (a different, single-column header layout) */
   header.site .hsearch input { width:19rem; }
   body:not(.home) header.site .browse-links { order:3; flex-basis:100%; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
