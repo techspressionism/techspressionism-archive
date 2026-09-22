@@ -424,6 +424,7 @@ header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
 @media (max-width:63.99rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
+@media (min-width:64rem) { main { padding-left:2.5rem; padding-right:2.5rem; } }   /* more breathing room against the scrollbar on desktop, per Colin 2026-09-22 -- mobile keeps the tighter padding, screen space is precious there */
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
 h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two red slashes between "Interview 1" and the title, lighter than the bold h1 around them, per Colin; margin gives them breathing room from the text on both sides */
