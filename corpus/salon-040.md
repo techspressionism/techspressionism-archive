@@ -25,15 +25,15 @@ But I'm going to first. Hand the mic over to Roz, who has an important announcem
 
 Thanks, Colin. And I want to welcome someone I invited today who I met at the Parrish Museum last weekend. His name is Ellis Eclipse. And hi, Ellis. I just wanted to welcome you today. I invited him to come to Techspressionism and I'm glad to see him here. Young man working with virtual photography ideas.
 
-Michael Pierre Price and I came up with a concept. During the Techspressionism show where the eye and Michael just interrupt me and say whatever you like. We're calling it like the digital handshake. I know that word is used a lot handshake. But the fact is, it is about really making a handshake with one another. And it's kind of different than the other interview series that we've had going, you know, that I started and a lot of you have participated in and taken on yourselves. But in this case, it's something we're doing online. On our own, outside of Techspressionism, just so these interviews won't be confused on the Techspressionism site as as the same. You know, they're a little bit different, but they're not quite the same as our our main mode of interviews, which you can find on the Techspressionism site.
+Michael Pierre Price and I came up with a concept. During the Techspressionism show where the eye and Michael just interrupt me and say whatever you like. We're calling it like the digital handshake. I know that word is used a lot handshake. But the fact is, it is about really making a handshake with one another. And it's kind of different than the other interview series that we've had going, you know, that I started and a lot of you have participated in and taken on yourselves. But in this case, it's something we're doing online. On our own, outside of Techspressionism, just so these interviews won't be confused on the Techspressionism site as the same. You know, they're a little bit different, but they're not quite the same as our main mode of interviews, which you can find on the Techspressionism site.
 
-And I could tell you just a little about the format that that Michael and I came up with. And we're inviting all of you to maybe and this is for people who are in the show specifically. We're going to run during the show, hopefully the Southampton Arts Center show and the format for it. I will put up for anybody who wants either on Discord or or send it to you. I don't have it in a format I can paste. I wouldn't want to paste in the chat. But the idea is like it's called the digital handshake. And the first one we will do a few days after the show opens, Michael and I will introduce ourselves and say a little bit about ourselves. And. And say something about the Southampton Art Show.
+And I could tell you just a little about the format that Michael and I came up with. And we're inviting all of you to maybe and this is for people who are in the show specifically. We're going to run during the show, hopefully the Southampton Arts Center show and the format for it. I will put up for anybody who wants either on Discord or send it to you. I don't have it in a format I can paste. I wouldn't want to paste in the chat. But the idea is like it's called the digital handshake. And the first one we will do a few days after the show opens, Michael and I will introduce ourselves and say a little bit about ourselves. And. And say something about the Southampton Art Show.
 
 And I will talk about my piece in the show and share the screen for ten minutes. He will talk about his piece in the show and share the screen. And then both artists will talk about collage and layering what makes what we're doing in digital distinct and different in this time than than other forms of art. And we'll also talk about Techspressionism a little bit. But we're going to put these up on our websites. And promote Techspressionism and the show. And it is a format that you're welcome to use and invite each other to. And we can promote each other on Instagram like, oh, here's another digital handshake. Makes it very different than, you know, the mode that we think of for the interviews. Michael, do you want to say anything? And I know we want to get to collage, but just wanted to welcome everybody.
 
 ## Michael Pierre Price [03:45](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=225s)
 
-Just real briefly, we're we're calling, I guess, for all hands on deck to kind of promote not only the show, but ourselves as artists. And what we do with what makes our art interesting and unique and why digital is
+Just real briefly, we're calling, I guess, for all hands on deck to kind of promote not only the show, but ourselves as artists. And what we do with what makes our art interesting and unique and why digital is
 
 ## Unattributed [04:02](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=242s)
 
@@ -41,7 +41,7 @@ Burgeoning right now.
 
 ## Michael Pierre Price [04:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=244s)
 
-And and so really, we're looking at these digital handshake interviews as an adjunct to the ongoing Techspressionism exhibit at Southampton. And we just felt like it was a good way to to promote the show, to promote our artwork. To promote the worldwide organization and community that we've been developing over the last nearly two years, year and a half or so. So, yeah.
+And so really, we're looking at these digital handshake interviews as an adjunct to the ongoing Techspressionism exhibit at Southampton. And we just felt like it was a good way to promote the show, to promote our artwork. To promote the worldwide organization and community that we've been developing over the last nearly two years, year and a half or so. So, yeah.
 
 ## Roz Dimon [04:36](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=276s)
 
@@ -283,7 +283,7 @@ Great. Thank you, Michael. And for anyone that's presented already, if you could
 
 Perfect. There's not too many things, but I want to kind of show maybe a little bit of an arc rather than maybe one piece. Collage has been something that's been really... Let's see here. Collage has been something that's really been a big part of my practice for a long time. Back in the 90s when I used to do things based on visual sociology, putting things together from online and video culture. But I figured that's just too much to go into. So, what I'm going to go into is kind of just a couple of things. I kind of call these man-machine interfaces because of the idea that you can't just go in and do it yourself. But I figured that we're taking things from around us and sometimes the machine has more to do with this and sometimes maybe I have more to do with it. And so early, early on...
 
-Well, this is about... Not that early. 2015. But ever since about 2003, 2004, I've been doing plotter drawings and such. And so this is a piece called Random Internet Cats that I showed New York in 2015. And this is Random Internet Cat Number One. And the thing is is that where the collage comes in is the fact that I looked at taking the piece and pulling it apart into its separations and then working it in fluorescence and such. Taking the RGB and pulling it apart and seeing how it reconstitutes itself when you throw blacklight on it. That was a fun series. Yeah. I'd like to go back to that, but that's 20 by 30 inches. And then let's see here. I'd say pandemic.
+Well, this is about... Not that early. 2015. But ever since about 2003, 2004, I've been doing plotter drawings and such. And so this is a piece called Random Internet Cats that I showed New York in 2015. And this is Random Internet Cat Number One. And the thing is that where the collage comes in is the fact that I looked at taking the piece and pulling it apart into its separations and then working it in fluorescence and such. Taking the RGB and pulling it apart and seeing how it reconstitutes itself when you throw blacklight on it. That was a fun series. Yeah. I'd like to go back to that, but that's 20 by 30 inches. And then let's see here. I'd say pandemic.
 
 I would like to suggest that 3D models from photogrammetry is a form of collage because you have a whole bunch of images that are being thrown together at a machine learning system that tries to make it back and reconstruct it, but with a lot of errors. So these three images are from a piece I did in Abu Dhabi and the United Arab Emirates called Confinement Spaces that was trying to reconstruct these fractured spaces that we were inhabiting during the pandemic.
 
@@ -293,7 +293,7 @@ It was actually a... It was actually a... It was actually a... Illegal airport a
 
 Artificial intelligence and Colin was thinking about his vector work and also my calligraphy work, which goes forward into Techspressionist. Still life three out of 24, which this one is going to be at the... At Southampton. And the thing is, is what I wound up doing is I wound up doing a series of painting using machine learning. I mean, I sketched this from machine learning systems in... In a platform called Playform and then used some of the calligraphy work that I've been doing over the last three or four years, sandwiched this and worked these out. And you can kind of see where these are going. And this is another piece called Mayor City that is a very generous work from that.
 
-McGeehan and I were working on is basically all the cities that we had major experiences in and that sort of thing. And this is actually now a tapestry. And I showed this before. I think sometimes machine learning is also a form of collage. But in this case, this is, you know, of a really extremely complex nature. You know, when in other words, what you're doing is, is that you are taking images and texts and throwing them into this incredibly thick environment. And this had to do with some some poetry that I did in 2018.
+McGeehan and I were working on is basically all the cities that we had major experiences in and that sort of thing. And this is actually now a tapestry. And I showed this before. I think sometimes machine learning is also a form of collage. But in this case, this is, you know, of a really extremely complex nature. You know, when in other words, what you're doing is, is that you are taking images and texts and throwing them into this incredibly thick environment. And this had to do with some poetry that I did in 2018.
 
 ## Jan Swinburne [33:28](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2008s)
 
@@ -315,11 +315,11 @@ Home of falls in turn, and the most sacred fruit, the bird. All the fish circle 
 
 ## Patrick Lichty [35:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2101s)
 
-And I think lastly, um, um, there's a series that was done in Cyprus for the show Nimi. Um, that, uh, we worked on. And this is actually a 3D scan of a, um, of a street scene in Limassol. But the thing is, is that the way that it's rendered is from an impossible position. In other words, you'd be in, you'd be within a wall about three meters away from the wall. And you wouldn't be able to, um, you know, see this in a, in a normal perspective. Um, this is the, another scan from the, um, um, from the old city, uh, to, to Limassol. Um, I think the same thing. And then the last thing, uh, you know, it's, it's, however you could see it from that perspective, but I, I like the fact that, you know, these, these, these are all pieces that are from the city of Limassol. This is the reconstruction from the machine collaging of the, of the images from the video.
+And I think lastly,, there's a series that was done in Cyprus for the show Nimi. That, we worked on. And this is actually a 3D scan of a, of a street scene in Limassol. But the thing is, is that the way that it's rendered is from an impossible position. In other words, you'd be in, you'd be within a wall about three meters away from the wall. And you wouldn't be able to, you know, see this in a, in a normal perspective. This is the, another scan from the,, from the old city, to, to Limassol. I think the same thing. And then the last thing, you know, it's, it's, however you could see it from that perspective, but I, I like the fact that, you know, these, these, these are all pieces that are from the city of Limassol. This is the reconstruction from the machine collaging of the, of the images from the video.
 
-It's, um, you know, it's broken. And then the last piece is that I did, uh, from, um, Winona. Actually, this is the, this is the, this is the fountain in the central, in the central park. And, uh, It has the has Indian Princess Winona in up at the top, you know, pointing towards the future, etc. But the thing is, is that I like the fact, again, that, you know, is that the I couldn't get close enough and it was too tall that I couldn't get her head. And that, you know, the Pelicans around worked out quite well. And then on top of that, I then collaged in some artificial intelligence sky from was a replaced sky in in Photoshop.
+It's, you know, it's broken. And then the last piece is that I did, from, Winona. Actually, this is the, this is the, this is the fountain in the central, in the central park. And, It has the has Indian Princess Winona in up at the top, you know, pointing towards the future, etc. But the thing is, is that I like the fact, again, that, you know, is that the I couldn't get close enough and it was too tall that I couldn't get her head. And that, you know, the Pelicans around worked out quite well. And then on top of that, I then collaged in some artificial intelligence sky from was a replaced sky in Photoshop.
 
-And that's, you know, this these last three pieces are part of what I'm starting to call kind of where I'm at at the moment, as well as, you know, trying to formalize the text version is still lives a bit. Is that kind of what I'm calling AFK? Being away from keyboard. In other words, you know, making making work and also a lot of I'm doing a continuing a lot of calligraphy out on my Instagram, like two or three a day. And, you know, just really looking at this idea of of of, you know, how layering and that sort of thing really sort of informs my work. So anyway, I probably went way too long and I apologize. So thank you for listening.
+And that's, you know, this these last three pieces are part of what I'm starting to call kind of where I'm at the moment, as well as, you know, trying to formalize the text version is still lives a bit. Is that kind of what I'm calling AFK? Being away from keyboard. In other words, you know, making making work and also a lot of I'm doing a continuing a lot of calligraphy out on my Instagram, like two or three a day. And, you know, just really looking at this idea of, you know, how layering and that sort of thing really sort of informs my work. So anyway, I probably went way too long and I apologize. So thank you for listening.
 
 ## Colin Goldberg [37:53](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2273s)
 
@@ -343,13 +343,13 @@ So.
 
 ## Roz Dimon [38:21](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2301s)
 
-Can you guys hear me? See my screen yes yes okay uh I thought I'd go back I know we're keeping this kind of short um and uh I'm going back to a commission uh my first fascination of course with digital was as I've told many of you is all by accident when my wool's filled with pixels so it was all about that electronic pixel for quite a while but then as I got into layers and the potential for for layering I saw that this was also a whole new dimension in painting um I'm going back to a piece it was done in 1990 it was a commission for a magazine called um electronic directions uh by roger sperberg and and they had interviewed um al gore who had just kind of released his whole ideas about the information highway I was working at the world trade center my graduate school at the time in digital and uh I took all the imagery here it's a collage like for me collage is always involved with storytelling um and uh here I'm telling a story uh that works on multiple planes it's an 11 by 17 tabloid magazine that's going to be sent out to people so I made it in the shape of the american flag and the address right over here where I'm pointing in the bottom left left, I knew it would be folded.
+Can you guys hear me? See my screen yes okay I thought I'd go back I know we're keeping this kind of short and I'm going back to a commission my first fascination of course with digital was as I've told many of you is all by accident when my wool's filled with pixels so it was all about that electronic pixel for quite a while but then as I got into layers and the potential for layering I saw that this was also a whole new dimension in painting I'm going back to a piece it was done in 1990 it was a commission for a magazine called electronic directions by roger sperberg and they had interviewed al gore who had just kind of released his whole ideas about the information highway I was working at the world trade center my graduate school at the time in digital and I took all the imagery here it's a collage like for me collage is always involved with storytelling and here I'm telling a story that works on multiple planes it's an 11 by 17 tabloid magazine that's going to be sent out to people so I made it in the shape of the american flag and the address right over here where I'm pointing in the bottom left left, I knew it would be folded.
 
 So I incorporated the whole idea of an address in the entire piece. And it's all about the pushing and the pressing of people in America, go, go, go, go, go, and how we are always competitive. There's the ones and zeros of the ASCII code up here. Al Gore's face is in here, the Photoshop.
 
 ## Unattributed [40:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2404s)
 
-Um can you go up there on the left top of your screen there um click the red the green button click this no oh am I not sharing way over to the left where there's red yellow and green buttons yes uh the green button will get rid of the window yeah oh
+Can you go up there on the left top of your screen there click the red the green button click this no oh am I not sharing way over to the left where there's red yellow and green buttons yes the green button will get rid of the window yeah oh
 
 ## Roz Dimon [40:30](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2430s)
 
@@ -361,7 +361,7 @@ Always need help I always need good
 
 ## Roz Dimon [40:33](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=2433s)
 
-Thank you very much yeah that's great um my husband helps me I usually wear my shirt on inside out you know to my own openings and things like that but um so uh just taking you a little bit of time to get started with the question um I'm going to go ahead and get started with the question um I'm going to go ahead and closer in here uh thank you very much it's the information highway uh Al Gore actually signed three of these but collage was part of a larger story and making a flag and also it was all uh images that I took at the a huge gym down at the World Financial Center with people pumping and pressing and you can see the the people pushing here um and you know little figures for the the restrooms and, you know, in the bottom right, it says less great, not so good, excellent, needs help, all about the competitiveness of America.
+Thank you very much yeah that's great my husband helps me I usually wear my shirt on inside out you know to my own openings and things like that but so just taking you a little bit of time to get started with the question I'm going to go ahead and get started with the question I'm going to go ahead and closer in here thank you very much it's the information highway Al Gore actually signed three of these but collage was part of a larger story and making a flag and also it was all images that I took at the a huge gym down at the World Financial Center with people pumping and pressing and you can see the people pushing here and you know little figures for the restrooms and, you know, in the bottom right, it says less great, not so good, excellent, needs help, all about the competitiveness of America.
 
 And now I'm going to go shoot forward to some of my latest work, which some of you are familiar with, called My Diamondscapes, where I'm doing these pieces that are multi, multi-layered, like hundreds to thousands of layers. This is a piece in the Shelter on Historical Society. It's a commission, and it takes 300 years of history making it into a work of art. And I took photographs of artifacts and this family's history, and it's a still, it's still a painting, but it is a collage that you can enter into, and that gets into the topic of abstraction. I'm just going to play this real quick to show you a young girl interacting with the piece. What are you looking for?
 
@@ -451,7 +451,7 @@ And here I have a bunch of people walking past, you know, sort of the mannequin 
 
 ## Unattributed [52:43](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3163s)
 
-OK, well, that's that's all I'm sharing. Thank you so much for your attention.
+OK, well, that's all I'm sharing. Thank you so much for your attention.
 
 ## Colin Goldberg [52:48](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3168s)
 
@@ -461,7 +461,7 @@ It was about 15 years ago that has sort of a visual collage as well as an audio 
 
 ## Patrick Lichty [53:46](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3226s)
 
-Yeah, but somebody is somebody is breathing is is really it's me.
+Yeah, but somebody is somebody is breathing is really it's me.
 
 ## Tommy Mintz [53:50](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3230s)
 
@@ -477,7 +477,7 @@ All right.
 
 ## Colin Goldberg [54:05](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3245s)
 
-So this is a piece where the audio is is composed from samples and the video is actually from footage that I shot while I was living in New York City and these village as well as on a trip to Montreal. And the sound samples come from a variety of sources, including, I believe, Twilight Zone. Scooby Doo and an old black and white TV show called The Prisoner.
+So this is a piece where the audio is composed from samples and the video is actually from footage that I shot while I was living in New York City and these village as well as on a trip to Montreal. And the sound samples come from a variety of sources, including, I believe, Twilight Zone. Scooby Doo and an old black and white TV show called The Prisoner.
 
 ## Unattributed [55:26](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3326s)
 
@@ -485,7 +485,7 @@ I will not be pushed, filed, stamped, indexed, briefed, debriefed, or numbered. 
 
 ## Colin Goldberg [57:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3421s)
 
-That's it it's pretty pixelated because it's 15 years old oh
+That's it's pretty pixelated because it's 15 years old oh
 
 ## Unattributed [57:14](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3434s)
 
@@ -497,11 +497,11 @@ Wow
 
 ## Patrick Lichty [57:20](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3440s)
 
-It was really strange is that what is it this week do you remember mtv does anybody remember mtv's techno show from britain called amp it it had things like future sound of london and um let's see your dj supreme and all that sort of thing and and uh I was and uh I've been watching that a lot the last couple weeks and that was that was just that was just channeling right in there as far as I was concerned like early early 2000s um um trip trance yeah
+It was really strange is that what is it this week do you remember mtv does anybody remember mtv's techno show from britain called amp it had things like future sound of london and let's see your dj supreme and all that sort of thing and I was and I've been watching that a lot the last couple weeks and that was that was just that was just channeling right in there as far as I was concerned like early early 2000s trip trance yeah
 
 ## Colin Goldberg [58:01](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3481s)
 
-Yeah definitely definitely techno music is usually what I'm listening to when I'm making any kind of visual work so um and it's been fun you know definitely getting back into doing audio visual stuff uh with nfts and I think you know nfts provide an opportunity for people doing time-based work um to get it out there and um you know in a way that never existed before so I'm thinking about maybe minting a bunch of this early stuff at some point you
+Yeah definitely definitely techno music is usually what I'm listening to when I'm making any kind of visual work so and it's been fun you know definitely getting back into doing audio visual stuff with nfts and I think you know nfts provide an opportunity for people doing time-based work to get it out there and you know in a way that never existed before so I'm thinking about maybe minting a bunch of this early stuff at some point you
 
 ## Jan Swinburne [58:31](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3511s)
 
@@ -509,11 +509,11 @@ By the way how are you doing with your minting
 
 ## Colin Goldberg [58:37](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3517s)
 
-Um pretty good actually I see another hand up here jan um swinburne so um before we get into discussion let me um keep going and anyone else who would like to present before we open it up for a conversation just use the raise hand tool so jan the floor is yours
+Pretty good actually I see another hand up here jan swinburne so before we get into discussion let me keep going and anyone else who would like to present before we open it up for a conversation just use the raise hand tool so jan the floor is yours
 
 ## Jan Swinburne [58:56](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3536s)
 
-Hi everyone I just uh had a couple of pieces that I had to make and I'm going to show you a couple of pieces that are sort of analog but uh kind of early Techspressionistiness so I'll just see if I can share them with you they're a bit amusing on the topic of the collage desktop that's what I want okay all right can you see it my desktop yep okay yes great all right so I'm just gonna try and get these pictures up why isn't my bar coming oh heck um okay here's the first one I'll just pull them the thing here uh oh that's not the one I was thinking of but it does relate to the collage this is from a series I've been working on uh with beholden and I use the um this was a picture of light that I transformed in an app and then I usually fill in the background with another uh piece of light but let me try and get the one I'm aiming at here so we're having trouble here there we go there um so this is a collage that eventually sort of became a digital piece and I also kind of blew up in uh gigapixel because it's very early work and I I call it I I grew up with the idea of you know like are there people in the tv kind of thing and these are sculptures that were attached to uh a crt screen and I took some photographs of them so that that was one piece that I thought was kind of related to collage uh an assemblage but has now sort of transferred itself into the digital realm and then this other piece is a an assemblage which is very analog which I thought would be amusing for the talk um digitally represented now but I just sort of thought it was amusing as a throwback to the idea of Techspressionism and kind of these figures leaning into uh leaning into it in a way way back when and that's that's it that's all I really wanted to share with you today okay thanks
+Hi everyone I just had a couple of pieces that I had to make and I'm going to show you a couple of pieces that are sort of analog but kind of early Techspressionistiness so I'll just see if I can share them with you they're a bit amusing on the topic of the collage desktop that's what I want okay all right can you see it my desktop yep okay yes great all right so I'm just gonna try and get these pictures up why isn't my bar coming oh heck okay here's the first one I'll just pull them the thing here oh that's not the one I was thinking of but it does relate to the collage this is from a series I've been working on with beholden and I use the this was a picture of light that I transformed in an app and then I usually fill in the background with another piece of light but let me try and get the one I'm aiming at here so we're having trouble here there we go there so this is a collage that eventually sort of became a digital piece and I also kind of blew up in gigapixel because it's very early work and I call it I grew up with the idea of you know like are there people in the tv kind of thing and these are sculptures that were attached to a crt screen and I took some photographs of them so that was one piece that I thought was kind of related to collage an assemblage but has now sort of transferred itself into the digital realm and then this other piece is a an assemblage which is very analog which I thought would be amusing for the talk digitally represented now but I just sort of thought it was amusing as a throwback to the idea of Techspressionism and kind of these figures leaning into leaning into it in a way way back when and that's it that's all I really wanted to share with you today okay thanks
 
 ## Colin Goldberg [01:02:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3724s)
 
@@ -525,11 +525,11 @@ Yeah it's just it's sort of on the silly side but it's
 
 ## Colin Goldberg [01:02:13](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3733s)
 
-Good to be silly absolutely um and I saw lee um messaged me over the chat that he has some stuff to share with us so um it's all yours lee
+Good to be silly absolutely and I saw lee messaged me over the chat that he has some stuff to share with us so it's all yours lee
 
 ## Lee Schnaiberg [01:02:26](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3746s)
 
-Well hi everybody um I'm going to try to do this I hope this is going to work out because because I've got, as you see, there's two of me here. One is me actually talking, and then the other one is me trying to share my screens. So I have a bunch of, I was going to show a newer piece that I've been working on that I showed, well, Patrick saw it and Colin saw it. I was pretty excited about it, but it's not collage. And so I'm going a little bit further back in time, and I hope the sound is going to work on this. And it's just a little clip. I used to do a lot of video collage. Does the sound work?
+Well hi everybody I'm going to try to do this I hope this is going to work out because I've got, as you see, there's two of me here. One is me actually talking, and then the other one is me trying to share my screens. So I have a bunch of, I was going to show a newer piece that I've been working on that I showed, well, Patrick saw it and Colin saw it. I was pretty excited about it, but it's not collage. And so I'm going a little bit further back in time, and I hope the sound is going to work on this. And it's just a little clip. I used to do a lot of video collage. Does the sound work?
 
 ## Colin Goldberg [01:03:12](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3792s)
 
@@ -567,7 +567,7 @@ So that really actually heard of that browser before.
 
 ## Lee Schnaiberg [01:05:33](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3933s)
 
-Brave. Yeah, it's got really good privacy. I do have that other thing that I did want to show, but it's so not a collage, but. It's it should do. What do you think, Colin? You saw it. It's sort of I was reacting to people's feelings this week in a way that I normally don't do, because normally I just draw that line. That doesn't end or mess around with my algorithm on my phone. And instead I I did some some actual AI work, which which is.
+Brave. Yeah, it's got really good privacy. I do have that other thing that I did want to show, but it's so not a collage, but. It's it should do. What do you think, Colin? You saw it. It's sort of I was reacting to people's feelings this week in a way that I normally don't do, because normally I just draw that line. That doesn't end or mess around with my algorithm on my phone. And instead I did some actual AI work, which is.
 
 ## Colin Goldberg [01:06:09](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=3969s)
 
@@ -579,7 +579,7 @@ I think that'll work. And I don't think there's sound on it, but just to make su
 
 You know what, what, what, what somehow I wanted to get some feelings out there so that I didn't have to feel them anymore and I didn't really feel like this. I was kind of posing, you know, I was like, well, what if I did a monk pose right with my hand up on the side and try to scream really wide? But I wasn't screaming. I was just like, you know, making a tank, Cynthia. OK, so it's collage. I was kind of not so sure because it's sort of stills.
 
-But this is basically it got it off my chest, you know, and I I felt like I could go back to shooting my normal photos, there is one slipped in there of the actual photos. But I just. I needed to get it out there because I felt like I was banging into this stress from people. I see people on the street and I feel the stress and I see people in the anti-social networks and I see more stress and I and fighting with people and fighting about stupid stuff or fighting about, like, you know, this side of it's red. And no, but that side is red. And it just it got to me. So I was like, OK, this is what I was feeling. And then I got it out there. And I put it out in the anti-social networks. That was it. And and I felt like I could go back to doing my normal work, which was really good, is it was fun to do and it was a fun experience.
+But this is basically it got it off my chest, you know, and I felt like I could go back to shooting my normal photos, there is one slipped in there of the actual photos. But I just. I needed to get it out there because I felt like I was banging into this stress from people. I see people on the street and I feel the stress and I see people in the anti-social networks and I see more stress and I and fighting with people and fighting about stupid stuff or fighting about, like, you know, this side of it's red. And no, but that side is red. And it just it got to me. So I was like, OK, this is what I was feeling. And then I got it out there. And I put it out in the anti-social networks. That was it. And I felt like I could go back to doing my normal work, which was really good, is it was fun to do and it was a fun experience.
 
 I did like that one boat and I've been trying to feed it into other into my normal my photos and in my paintings, I haven't had a lot of success yet. And plus, like for that. Little experiment, it was fine, but the resolution doesn't really blow me away. So I'm trying to find ways to get a greater resolution, but to see what I can do with these eyes looking at the work that I'm doing, but so thanks for letting me share that.
 
@@ -587,13 +587,13 @@ It for me, it really was a little bit cathartic. And I know, Patrick, I know you
 
 ## Patrick Lichty [01:09:25](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4165s)
 
-I think I you know, I think I think it's I think it's a it's a very effective piece. And I mean, and I didn't say what I say I said is a as a criticism, you know, and I'm just sort of like saying, oh, my God, you know, it's like, yeah, we we were we're we're just we're heading we're heading down the big pike.
+I think I you know, I think I think it's I think it's a it's a very effective piece. And I mean, and I didn't say what I say I said is a as a criticism, you know, and I'm just sort of like saying, oh, my God, you know, it's like, yeah, we were we're just we're heading we're heading down the big pike.
 
 ## Lee Schnaiberg [01:09:44](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4184s)
 
-Oh, yeah, I agree. I mean, I know the movie that I say the link was like it's like a two and a half hour long movie. So I didn't think. So you might get to see the whole thing. It is a collage, too. So it almost fits in today. But but it's yeah, I agree with you completely. And I mean, you know, 30 years ago where I was, I remember when I was making movies about climate change, I chased around the Global Climate Coalition and I'd be like, hey, can I get some of that Exxon money? And they they kicked me out of bond for bugging them.
+Oh, yeah, I agree. I mean, I know the movie that I say the link was like it's like a two and a half hour long movie. So I didn't think. So you might get to see the whole thing. It is a collage, too. So it almost fits in today. But it's yeah, I agree with you completely. And I mean, you know, 30 years ago where I was, I remember when I was making movies about climate change, I chased around the Global Climate Coalition and I'd be like, hey, can I get some of that Exxon money? And they kicked me out of bond for bugging them.
 
-And a lot of people that I meet would be like, well, you know, we want to have warmer weather. So what are you complaining about? And I'm like, that's not how it works. It's not like Montreal is going to be Miami. It means where's your food coming from? And now people are starting to get it. But like like the kids, the kids understand it. People our age, I find are like, well, what are you going to do? I'm like, no, you guys.
+And a lot of people that I meet would be like, well, you know, we want to have warmer weather. So what are you complaining about? And I'm like, that's not how it works. It's not like Montreal is going to be Miami. It means where's your food coming from? And now people are starting to get it. But like the kids, the kids understand it. People our age, I find are like, well, what are you going to do? I'm like, no, you guys.
 
 ## Patrick Lichty [01:10:42](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4242s)
 
@@ -601,7 +601,7 @@ I mean, consider this. Silent Spring next year will be the 60th anniversary of i
 
 ## Lee Schnaiberg [01:10:48](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4248s)
 
-It's crazy. That's crazy. And we still we're. We're not allowing glyphosate for lawns up here, only for food. And our wheat is not Roundup ready. So they use that for desiccation. This is insane. So everybody has unwashed Roundup in their bellies. So so many people got the gut microbiomes are dying because we're poisoning them with every slice of bread that's not organic.
+It's crazy. That's crazy. And we still we're. We're not allowing glyphosate for lawns up here, only for food. And our wheat is not Roundup ready. So they use that for desiccation. This is insane. So everybody has unwashed Roundup in their bellies. So many people got the gut microbiomes are dying because we're poisoning them with every slice of bread that's not organic.
 
 It's craziness. And the only glimmer of hope I have is one hat that I still wear a little bit is with the CDR people. And if there's one snowball's chance of like just getting out of the worst case scenario and just having real bad situation, the carbon dioxide removal people there's like 40 different groups that are working on carbon dioxide removal. A lot of it is like with algae, with rock weathering. It's stuff that's not high tech stuff that can make better quality food as well as taking carbon out of the atmosphere. But even if we get carbon back down to preindustrial levels, the damage in the Arctic and in the Arctic, we're going to be coming through with big problems. Although that's not the expressionism column. Sorry. That's a side issue. But thanks. Thanks for letting me participate.
 
@@ -687,13 +687,13 @@ So nine hours, nine hours. Yeah, it's just something I'd like to see at some poi
 
 ## Colin Goldberg [01:17:44](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4664s)
 
-Yeah, I think, you know, I definitely think that makes sense. I'm concerned if we, you know, change the time up, you know, on an ongoing basis, it's going to be hard for people to know, you know, that this is happening at a specific time on a specific day of the week. But I think that, you know, we can definitely accommodate it in a variety of ways. And I do agree with this idea, you know, certainly. And I was thinking about it, too, that it might be interesting for people. Like, I think that the best way for for something like this to work would be if you, Cynthia, wanted to organize a bunch of people or if Nagin wanted to organize a bunch of people, that you would basically be the organizer or the person who's putting it together would be the moderator for that particular salon, you know, and that way it wouldn't be like, here's my idea, Davo, like you have to run it.
+Yeah, I think, you know, I definitely think that makes sense. I'm concerned if we, you know, change the time up, you know, on an ongoing basis, it's going to be hard for people to know, you know, that this is happening at a specific time on a specific day of the week. But I think that, you know, we can definitely accommodate it in a variety of ways. And I do agree with this idea, you know, certainly. And I was thinking about it, too, that it might be interesting for people. Like, I think that the best way for something like this to work would be if you, Cynthia, wanted to organize a bunch of people or if Nagin wanted to organize a bunch of people, that you would basically be the organizer or the person who's putting it together would be the moderator for that particular salon, you know, and that way it wouldn't be like, here's my idea, Davo, like you have to run it.
 
 You know what I mean? It would be more like you're putting an event together. And that could be done either within the existing salon time framework or outside of it, you know, and I started thinking like, wow, wouldn't it be interesting if there is a salon for people who spoke French or German? And then there's a bunch of people who are all speaking that language. I mean, it wouldn't have to be at the same salon. It's just a Zoom meeting. You know what I mean?
 
 ## Patrick Lichty [01:19:09](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4749s)
 
-I think the idea of special events is is is is really good. I you know, the like maybe a special event or something like that that would that would accommodate this, the one thing is, is that unless unless you're talking about like Cynthia wanting to have like an African thing or something like that, I think that probably should have some pretty deep conversations about, you know, about a bunch of different languages, because that that could that could create that could create.
+I think the idea of special events is really good. I you know, the like maybe a special event or something like that would that would accommodate this, the one thing is, is that unless unless you're talking about like Cynthia wanting to have like an African thing or something like that, I think that probably should have some pretty deep conversations about, you know, about a bunch of different languages, because that could that could create that could create.
 
 You know, in other words, there's a good side to that and there's a bad side to it.
 
@@ -721,7 +721,7 @@ You know, which I think is going to be a limitation. I mean, that's my own perso
 
 ## Renata Janiszewska [01:23:14](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4994s)
 
-But I wanted to I wanted to add that I'm in contact with at least two French artists who I'm sure would be really thrilled to present. And I was thinking, well, Cynthia, would you object if I sent a couple of French speaking artists to your your project or your your idea?
+But I wanted to I wanted to add that I'm in contact with at least two French artists who I'm sure would be really thrilled to present. And I was thinking, well, Cynthia, would you object if I sent a couple of French speaking artists to your project or your idea?
 
 ## Cynthia Beth Rubin [01:23:32](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5012s)
 
@@ -739,9 +739,9 @@ I have to say, I love the idea because I felt that the digital revolution that w
 
 And I'm just going to share a link in the chat also for one of the artists that's going to be in the Southampton show, his name is Demian Ferry and he's a Ukrainian artist, he's in Kyiv right now and his piece. I'm just going to share my screen real quick before we close. So you can see what his work looks like. So this is his piece here.
 
-And he. He also creates audio techno music and his Instagram is accessible through the the Southampton show page and there's his link tree. That's like the jumping off point. But he does mint NFTs both on Tezos and on the Ethereum blockchain and has quite a lot of work out there. So, you know, if you guys are interesting in supporting a Ukrainian artist, he's he's one of us and he's going to have a piece in the in the show. We also actually have a Russian artist, which is interesting, you know, and I think that it just shows how, you know, how art can sort of just transcend politics.
+And he. He also creates audio techno music and his Instagram is accessible through the Southampton show page and there's his link tree. That's like the jumping off point. But he does mint NFTs both on Tezos and on the Ethereum blockchain and has quite a lot of work out there. So, you know, if you guys are interesting in supporting a Ukrainian artist, he's one of us and he's going to have a piece in the in the show. We also actually have a Russian artist, which is interesting, you know, and I think that it just shows how, you know, how art can sort of just transcend politics.
 
-And, you know, we're all. Interested in in developing our creative selves, so. Just wanted to put that out there.
+And, you know, we're all. Interested in developing our creative selves, so. Just wanted to put that out there.
 
 ## Jan Swinburne [01:26:11](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5171s)
 
@@ -763,9 +763,9 @@ I do have a Russian artist Facebook friend, and when he posted paintings on Face
 
 But so I'm just going to share my screen here. So this is a piece that I've been working on for a long time. This is the landing page for the show that just went up. And the Russian artist, Mounth, and this is one of Andy Thomas's NFTs at the top, there's Nagin's piece, which was selected by the Arts Center as a featured image. And this is actually the Russian artist Mounth, his piece here. And then we have Verneda.
 
-And Randy. The bottom. So those are the pieces that were selected as key art images by the Arts Center. And then Mounth, whose work we're looking at now. All of the artist links are live. So this is his piece here. And there's also links to his website and Instagram. And initially he actually had said he wanted to donate any proceeds to people who needed more than him. And then I got a message from him again. Saying he actually was most likely going to be trying to leave the country and probably would need it. So it's, you know, I feel like it's it's something it's one thing to see this stuff on the news, but it's another thing to get a DM over Instagram from an artist in Kyiv right now.
+And Randy. The bottom. So those are the pieces that were selected as key art images by the Arts Center. And then Mounth, whose work we're looking at now. All of the artist links are live. So this is his piece here. And there's also links to his website and Instagram. And initially he actually had said he wanted to donate any proceeds to people who needed more than him. And then I got a message from him again. Saying he actually was most likely going to be trying to leave the country and probably would need it. So it's, you know, I feel like it's something it's one thing to see this stuff on the news, but it's another thing to get a DM over Instagram from an artist in Kyiv right now.
 
-And his concern was, is the resolution good enough on my piece for fabrication? You know, he wasn't like this. This is where his head was at. So I don't know. That's that's interesting to me. It's something something kind of it makes me feel like, you know, people can can still go about their their artistic lives in spite of forces outside of their control.
+And his concern was, is the resolution good enough on my piece for fabrication? You know, he wasn't like this. This is where his head was at. So I don't know. That's interesting to me. It's something something kind of it makes me feel like, you know, people can still go about their artistic lives in spite of forces outside of their control.
 
 So. So. It looks like we're just about at time, unless anyone has anything they want to share before we stop recording. And then, you know, you're welcome to hang out for a little bit afterwards. This is where we do our sort of, you know, after party slash what do you call it? Advisory board meeting, which has always struck me as way too official. So it'll be an after party instead.
 
@@ -777,13 +777,13 @@ I am I have a I actually have a question for a one. Timothy Mintz, if I can acce
 
 ## Tommy Mintz [01:29:53](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5393s)
 
-Yeah. So I think it's a great question. I think it's a great question. I learned how to code when the Raspberry Pi was released. Here's a Raspberry Pi. It's a thirty five dollar computer that I felt comfortable experimenting with. I wasn't actually I didn't code it. I didn't code the Python program to run originally on a Mac. I wrote it to run on a Raspberry Pi. So Python can run on many different platforms. So you don't need and actually, by the way, my code is up on GitHub. If you look up my name, you could find my code. It's all there, open source and and you could put it onto a Raspberry Pi or there's another version that I sort of tweaked a little bit to run on the Mac.
+Yeah. So I think it's a great question. I think it's a great question. I learned how to code when the Raspberry Pi was released. Here's a Raspberry Pi. It's a thirty five dollar computer that I felt comfortable experimenting with. I wasn't actually I didn't code it. I didn't code the Python program to run originally on a Mac. I wrote it to run on a Raspberry Pi. So Python can run on many different platforms. So you don't need and actually, by the way, my code is up on GitHub. If you look up my name, you could find my code. It's all there, open source and you could put it onto a Raspberry Pi or there's another version that I sort of tweaked a little bit to run on the Mac.
 
 But I learned how to code by reading one book called Python for Beginners by I'm forgetting the name now. It was a book. You know, I read one book. I know Python and Raspberry Pi both have a lot of community support. Raspberry Pi dot o r g is where I got a lot of my community support and sort of asking questions about working on this particular project. So does that help? Alice, that answer your question?
 
 ## Unattributed [01:31:24](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5484s)
 
-It actually does. I I know a little bit about Raspberry Pi as well, as well as some floss software. As I edit most of my virtual photography and Adobe like adjacent that is free and open sourced called Darktable, which is great.
+It actually does. I know a little bit about Raspberry Pi as well, as well as some floss software. As I edit most of my virtual photography and Adobe like adjacent that is free and open sourced called Darktable, which is great.
 
 ## Tommy Mintz [01:31:47](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5507s)
 
@@ -791,7 +791,7 @@ Yeah.
 
 ## Unattributed [01:31:47](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5507s)
 
-Yeah. As for Raspberry Pi. I think I had a cousin that that and a pizza box to make a laptop, which is a really interesting moment. So thank you for answering a question.
+Yeah. As for Raspberry Pi. I think I had a cousin that and a pizza box to make a laptop, which is a really interesting moment. So thank you for answering a question.
 
 ## Tommy Mintz [01:32:06](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5526s)
 

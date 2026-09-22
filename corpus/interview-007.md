@@ -47,7 +47,7 @@ Oh, it's great to see you too. Wow, what an intro. That's really something. And 
 
 I was born in northwest Indiana, Hammond, Indiana. It's situated right between Gary and Chicago. And it's a highly, highly industrial area. At nighttime, it felt like the skyscape was more like a view of Mordor from Lord of the Rings. Yeah. Because you'd have these tiny little windows. Yeah. And you'd have these towering flames shooting up orange into the sky from the oil refineries, heavy smoke from the steel mills. So it was heavily influenced by the Chicago area, by the Great Lakes, because Lake Michigan, you know, I could walk to Lake Michigan from where I grew up. Yeah. So it was. Wow. Yeah. So it was.
 
-It was someplace that I knew that I didn't want to like stay there for the rest of my life. But yeah, that's so that that's kind of where I grew up. I currently live in Phoenix, Arizona, which is a very different landscape. Sure.
+It was someplace that I knew that I didn't want to like stay there for the rest of my life. But yeah, that's so that's kind of where I grew up. I currently live in Phoenix, Arizona, which is a very different landscape. Sure.
 
 ## Unattributed [04:44](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=284s)
 
@@ -131,11 +131,11 @@ Wow.
 
 ## Michael Pierre Price [09:40](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=580s)
 
-And so for me, that was my my early educational higher educational reason for that it what I
+And so for me, that was my early educational higher educational reason for that it what I
 
 ## Roz Dimon [09:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=592s)
 
-Think take courses in that I don't want to interrupt you yes yes
+Think take courses in that I don't want to interrupt you yes
 
 ## Michael Pierre Price [09:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=597s)
 
@@ -171,11 +171,11 @@ Yes
 
 ## Michael Pierre Price [10:43](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=643s)
 
-Well and and that came about it and it took me a few years after I left academia to get the perspective that I needed but I was all I was always interested in this I thought as a career you know I thought the idea of doing pure research and you know I thought the idea of doing pure research and sort of bringing forward more knowledge about areas of physics or astronomy was going to be sort of my life's purpose but the third year when I was in grad school and I the advisor that I had had left and I got the chairman of the astronomy department which I did not mesh well with it was a blessing in disguise but it was a very special time for me and I think that's what I'm sort of going to call it my dark period but it was it was a very painful period I started realizing that the reason for me to delve into this whole thing so deeply to really start to understand the fundamentals of the universe the cosmos both small and large was for a larger purpose or a grander purpose than just research there was a part that helped fill a spiritual quest for me that I didn't that I didn't necessarily put a name to at that point in time that's
+Well and that came about it and it took me a few years after I left academia to get the perspective that I needed but I was all I was always interested in this I thought as a career you know I thought the idea of doing pure research and you know I thought the idea of doing pure research and sort of bringing forward more knowledge about areas of physics or astronomy was going to be sort of my life's purpose but the third year when I was in grad school and I the advisor that I had left and I got the chairman of the astronomy department which I did not mesh well with it was a blessing in disguise but it was a very special time for me and I think that's what I'm sort of going to call it my dark period but it was it was a very painful period I started realizing that the reason for me to delve into this whole thing so deeply to really start to understand the fundamentals of the universe the cosmos both small and large was for a larger purpose or a grander purpose than just research there was a part that helped fill a spiritual quest for me that I didn't that I didn't necessarily put a name to at that point in time that's
 
 ## Roz Dimon [12:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=737s)
 
-Why I said it took me a few years to know about that spiritual quest because it seems like astrophysics I I mean we go oh the heavens the stars you know and the physics of how things work but you really it wasn't really a spiritual thing at that point it was still very science it
+Why I said it took me a few years to know about that spiritual quest because it seems like astrophysics I mean we go oh the heavens the stars you know and the physics of how things work but you really it wasn't really a spiritual thing at that point it was still very science it
 
 ## Michael Pierre Price [12:34](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=754s)
 
@@ -183,11 +183,11 @@ It wasn't it wasn't it what it was underneath the surface and that's why it took
 
 ## Roz Dimon [13:42](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=822s)
 
-You know the world of games which you know I'm not I'm not really I was always so obsessed with my own work you get into a tunnel sometime and I did you know but I heard about mist and all the and all these different games that certain artists were working in the bigger games too but I didn't didn't really play them so much but I was always fascinated by them because it is like you said you're out there in this world studying the cosmos and the and how things work in the world and with a real quest and and then you get into this other it's a whole it's another world where those things are kind of similar in a way aren't they in a bit well figuring things out or not and the thing is as a kid my
+You know the world of games which you know I'm not I'm not really I was always so obsessed with my own work you get into a tunnel sometime and I did you know but I heard about mist and all the and all these different games that certain artists were working in the bigger games too but I didn't really play them so much but I was always fascinated by them because it is like you said you're out there in this world studying the cosmos and the and how things work in the world and with a real quest and then you get into this other it's a whole it's another world where those things are kind of similar in a way aren't they in a bit well figuring things out or not and the thing is as a kid my
 
 ## Michael Pierre Price [14:19](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=859s)
 
-Younger brother Patrick and I loved to play games and we ended up having more fun creating our own game was very beneficial to me I'm not you know I think the benefits of technology today are great but I also see a downside at times like I remember when in the in the the 60s when the space race was on, my brother and I, we had walkie talkies and we had a large moving box in the basement that we cut out a hole and we pretended that each one of us, we took turns being in the capsule going to the moon and the other person, the other walkie talkie was mission control.
+Younger brother Patrick and I loved to play games and we ended up having more fun creating our own game was very beneficial to me I'm not you know I think the benefits of technology today are great but I also see a downside at times like I remember when in the in the 60s when the space race was on, my brother and I, we had walkie talkies and we had a large moving box in the basement that we cut out a hole and we pretended that each one of us, we took turns being in the capsule going to the moon and the other person, the other walkie talkie was mission control.
 
 ## Unattributed [15:30](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=930s)
 
@@ -481,7 +481,7 @@ Right.
 
 ## Michael Pierre Price [39:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2363s)
 
-Because I don't like doing the same thing over and over again. I want to break new ground. I always want to break. And that's for me personally. Once I've done something and I feel like, oh, I've really explored this really deeply now, it's time to go on and do something else. I might take what I've learned from that, but I don't want to keep doing the same thing. Think oh you know I I don't want to be a one-trick pony I I I find that what the lessons learned I need to move on and so finally in 2010 I I said goodbye to active you know my active career in trying to you know either do game development or look for those sorts of avenues and I ended my consulting business and said I'll die if I'm not a creative person so that's where my art career began.
+Because I don't like doing the same thing over and over again. I want to break new ground. I always want to break. And that's for me personally. Once I've done something and I feel like, oh, I've really explored this really deeply now, it's time to go on and do something else. I might take what I've learned from that, but I don't want to keep doing the same thing. Think oh you know I don't want to be a one-trick pony I find that what the lessons learned I need to move on and so finally in 2010 I said goodbye to active you know my active career in trying to you know either do game development or look for those sorts of avenues and I ended my consulting business and said I'll die if I'm not a creative person so that's where my art career began.
 
 ## Roz Dimon [40:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2424s)
 
@@ -509,7 +509,7 @@ Yeah I
 
 ## Roz Dimon [40:56](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2456s)
 
-Love it so I'm not anti-business but I hear you you do have to make decisions at a point of like it to go outside the box uh you know there's
+Love it so I'm not anti-business but I hear you do have to make decisions at a point of like it to go outside the box you know there's
 
 ## Unattributed [41:04](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2464s)
 
@@ -529,11 +529,11 @@ A box is the is the death of us I mean even though we're always in this box but 
 
 ## Michael Pierre Price [41:13](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2473s)
 
-Yeah all right so I I realize there's a there's a lot and I covered more on the techno well I guess I wanted to cover more on the technology side because of expression people to understand that this is a diverse group of artists that's worldwide and we've each come to this point of being part of this larger community in very diverse ways in very different ways but there's there's a thread that's connecting us all and I find that fascinating
+Yeah all right so I realize there's a there's a lot and I covered more on the techno well I guess I wanted to cover more on the technology side because of expression people to understand that this is a diverse group of artists that's worldwide and we've each come to this point of being part of this larger community in very diverse ways in very different ways but there's a thread that's connecting us all and I find that fascinating
 
 ## Roz Dimon [41:54](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2514s)
 
-Yeah it's it's exciting and and we don't really and like the other things we've been a part of it's defined. Loosely enough so we keep you know as colin said Colin Goldberg who started this whole thing um with Patrick Lichty and and others um that you know it it seems to have a a certain openness to to see where it goes you know and that's right it's
+Yeah it's exciting and we don't really and like the other things we've been a part of it's defined. Loosely enough so we keep you know as colin said Colin Goldberg who started this whole thing with Patrick Lichty and others that you know it seems to have a certain openness to see where it goes you know and that's right it's
 
 ## Michael Pierre Price [42:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2537s)
 
@@ -541,11 +541,11 @@ Not it's not been defined by technique it's by an approach it's by sort of that 
 
 ## Roz Dimon [42:55](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2575s)
 
-Uh and there's a lot of the stories and how even uh spiritual or or digital at least that part interests me a lot and that's only one sector of expressionism but that is emerging as a part of it yes
+And there's a lot of the stories and how even spiritual or digital at least that part interests me a lot and that's only one sector of expressionism but that is emerging as a part of it yes
 
 ## Michael Pierre Price [43:08](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2588s)
 
-Um
+
 
 ## Roz Dimon [43:08](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2588s)
 
@@ -555,7 +555,7 @@ You know where we try to seek meaning in this digital ether and in the and in th
 
 Me delve into this here all right are you seeing yes I am successfully here okay yes I am so I'm trying to think. So, one of my very earliest influences getting back to that for me is really important. I was about 11 years old. Growing up near Chicago, I finally got to go to the Art Institute in Chicago.
 
-And my grandmother being French, she loved the impression. So the art institute has a great area of impressionist art so I loved going to there and and but we as we walked around I saw this
+And my grandmother being French, she loved the impression. So the art institute has a great area of impressionist art so I loved going to there and but we as we walked around I saw this
 
 ## Roz Dimon [44:32](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2672s)
 
@@ -563,7 +563,7 @@ Jackson pollock I knew that was jackson pollock wait that's not an impressionist
 
 ## Michael Pierre Price [44:39](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2679s)
 
-It I did at 11 years old I didn't know who jackson pollock was I had never seen a jackson pollock painting for that point yeah we walked into I I forget exactly which room it was at that time this was like the mid mid 60s probably about 66 or so I was captivated there was something about this piece that spoke to me I didn't understand why and it's taken me you know I at the time but there was something about it that completely drew me in and enveloped me at the same time so I wanted this I just wanted to to share this now it's wonderful tying with expressionism and yes exactly yes yeah so for me this this was a really defining moment for me even though artists and and all of that seemed magical in one level and never thought that I would have any connection to it other than the sense of reflection I felt I felt I felt something inside me I felt something outside my soul I felt beauty.
+It I did at 11 years old I didn't know who jackson pollock was I had never seen a jackson pollock painting for that point yeah we walked into I forget exactly which room it was at that time this was like the mid mid 60s probably about 66 or so I was captivated there was something about this piece that spoke to me I didn't understand why and it's taken me you know I at the time but there was something about it that completely drew me in and enveloped me at the same time so I wanted this I just wanted to share this now it's wonderful tying with expressionism and yes exactly yes yeah so for me this was a really defining moment for me even though artists and all of that seemed magical in one level and never thought that I would have any connection to it other than the sense of reflection I felt I felt I felt something inside me I felt something outside my soul I felt beauty.
 
 But I saw this beautiful bike. But I couldn't, I couldn't elucidate why that was. And then I came across another piece. This Mark Rothko hit me like a wall. It's like, why is this a piece of art? I didn't understand it at all. This had a completely different effect on me. But I remember it. This is the thing that's so fascinating. I, from that time, other than the Impressionists, that Jackson Pollock and this Mark Rothko stayed with me for very different reasons.
 
@@ -593,7 +593,7 @@ Hmm.
 
 ## Michael Pierre Price [48:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2897s)
 
-And you see these formations happening over time. And you see this area. Down in here in this lower left hand it's it's almost like a wave coming forward. And in this area there are these like bubble areas happening. And you can still see this wave coming in. And then it starts to recede. And, and the bubble the areas sort of take over.
+And you see these formations happening over time. And you see this area. Down in here in this lower left hand it's almost like a wave coming forward. And in this area there are these like bubble areas happening. And you can still see this wave coming in. And then it starts to recede. And, and the bubble the areas sort of take over.
 
 This is the whole air, this whole thing of turbulence is an area of mathematics, called chaos theory. Well, and to me this is very fascinating. And fractals. Are a subset of chaos theory. And there's a famous. Where did it go. There's a, there's a famous. Oh no, that's okay. I'll get back to it.
 
@@ -611,7 +611,7 @@ My take your time.
 
 ## Michael Pierre Price [49:51](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=2991s)
 
-Oh here it is. So. Oh yeah. This is this is the famous Badil broad steps. Set this is one I mean I think it's gotten into pulp popular culture by now it's been around this area of mathematics emerged in the 60s and the 70s it was not accepted very early on this was seen as sort of uh not real mathematics it took a while for it to become integrated so science and math has its foibles as any human endeavor uh new areas that break new ground um take a while to get accepted in into the into the culture no matter you know even if we think science is pure um no it's it's done by human beings so yeah but anyway I just I just needed to talk very quickly about why this is important it
+Oh here it is. So. Oh yeah. This is this is the famous Badil broad steps. Set this is one I mean I think it's gotten into pulp popular culture by now it's been around this area of mathematics emerged in the 60s and the 70s it was not accepted very early on this was seen as sort of not real mathematics it took a while for it to become integrated so science and math has its foibles as any human endeavor new areas that break new ground take a while to get accepted in into the into the culture no matter you know even if we think science is pure no it's done by human beings so yeah but anyway I just I just needed to talk very quickly about why this is important it
 
 ## Roz Dimon [51:01](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3061s)
 
@@ -619,7 +619,7 @@ Is important I remember the mandelbrot thing I guess from the 90s I was fascinat
 
 ## Michael Pierre Price [51:06](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3066s)
 
-Yes so the these areas of black the mathematics of this is is is a is a recursive mathematics what that means is you have a formula you plug numbers into the formula you take that answer and plug it back into one side of the formula you get an answer you take that answer and plug it back into the original formula you crunch the numbers you get a new answer you take that new answer and you keep doing it over and over and over until either you settle down into a final answer that doesn't change over time or you may get something that oscillates back and forth like between zero and one zero and one zero and one and no matter how many times you do you keep getting the same answer so that's what these black areas of this mandelbrot set indicate the formula settles down into something that doesn't change so that's what this sort of beam-like shape thing is and all these little circles that that go off now you can go to a very these are the what the B1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1 getting a larger and larger number until some point it just keeps going on it doesn't matter it's not going to settle down nothing new is going to happen so you go to infinity now the the quickness at which you approach infinity dictates the color of the gradations
+Yes so the these areas of black the mathematics of this is a is a recursive mathematics what that means is you have a formula you plug numbers into the formula you take that answer and plug it back into one side of the formula you get an answer you take that answer and plug it back into the original formula you crunch the numbers you get a new answer you take that new answer and you keep doing it over and over and over until either you settle down into a final answer that doesn't change over time or you may get something that oscillates back and forth like between zero and one zero and one zero and one and no matter how many times you do you keep getting the same answer so that's what these black areas of this mandelbrot set indicate the formula settles down into something that doesn't change so that's what this sort of beam-like shape thing is and all these little circles that go off now you can go to a very these are the what the B1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1 getting a larger and larger number until some point it just keeps going on it doesn't matter it's not going to settle down nothing new is going to happen so you go to infinity now the quickness at which you approach infinity dictates the color of the gradations
 
 ## Roz Dimon [53:20](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3200s)
 
@@ -627,15 +627,15 @@ So
 
 ## Michael Pierre Price [53:21](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3201s)
 
-Basically out here in this outside area outside the bean and the circles and all the little squigglies you've got basically noise that goes to infinity nothing interesting happens this is beyond and here you've got perfect solidity or perfect uh uh you've got the two ends of the scale basically something is completely rigid in the center nothing interesting happened or something goes to complete noise and there's you can't make out any anything informational here because it just blows up to infinity and you can't like the macro micro a little bit to me it's like if you paint something you've defined so this is pure definition on the inside and then if you look at a television screen and all you've got is the noise and no information coming through it's pure k I don't want to say pure chaos it's pure noise there's not nothing there's nothing informational out here now you've got squiggly bits along the pure chaos and then you've got the whole perimeter between the complete definition and the complete noise out here this is the squiggly bits that people concentrate on and I'm gonna zoom in
+Basically out here in this outside area outside the bean and the circles and all the little squigglies you've got basically noise that goes to infinity nothing interesting happens this is beyond and here you've got perfect solidity or perfect you've got the two ends of the scale basically something is completely rigid in the center nothing interesting happened or something goes to complete noise and there's you can't make out any anything informational here because it just blows up to infinity and you can't like the macro micro a little bit to me it's like if you paint something you've defined so this is pure definition on the inside and then if you look at a television screen and all you've got is the noise and no information coming through it's pure k I don't want to say pure chaos it's pure noise there's not nothing there's nothing informational out here now you've got squiggly bits along the pure chaos and then you've got the whole perimeter between the complete definition and the complete noise out here this is the squiggly bits that people concentrate on and I'm gonna zoom in
 
 ## Roz Dimon [55:08](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3308s)
 
-I'm fascinated see I get the big concepts but you know I'm not the scientist like you you're the one who really understands how it works behind it so
+I'm fascinated see I get the big concepts but you know I'm not the scientist like you're the one who really understands how it works behind it so
 
 ## Michael Pierre Price [55:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3317s)
 
-We zoom in and now we're we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're we're in we're in the narrow region Let me start to zoom out here. So we're in, we focused in on the narrow region right around the periphery, right around the periphery of this area right in here. Let me go back out.
+We zoom in and now we're in the middle of a now I'm zoomed in I'm looking at my screen here we zoomed in nearly 400 magnification levels from where we were and here you know here's what we're seeing oh wow so we're in we're in the narrow region Let me start to zoom out here. So we're in, we focused in on the narrow region right around the periphery, right around the periphery of this area right in here. Let me go back out.
 
 ## Roz Dimon [55:58](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3358s)
 
@@ -671,11 +671,11 @@ Think of it if you think of evolution and the truth of evolution life is experim
 
 ## Roz Dimon [58:25](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3505s)
 
-But you wonder how humans where where are we in there teeny dot on the edge of one of those things and how are we doing I don't know so anyway that
+But you wonder how humans where are we in there teeny dot on the edge of one of those things and how are we doing I don't know so anyway that
 
 ## Michael Pierre Price [58:36](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3516s)
 
-That's my that's my thing about about fractals so where does that where does that bring me then to um the art that I wanted to share and here's here's one example so this is this is I I took some screenshots just to kind of move through this rather quickly this is from uh a 3d fractal program called mandelbot mandel bulb 3d I know a number of Techspressionist artists use this program because I've seen their work but for me again I like using this as a metaphor to let to help people think about other than the abstract quality or the coolness of the shape is think of this as an eyeball this sphere is an eyeball and these are nerve bundles or muscles around the eye so if you think about the anatomical drawings that we've seen of eyes and what eyes look like um and and over here might be where the iris is or the front part of the eye and this is the back part where the retina is so as I as I look to look closer and get more detail of this what happens is I'm I'm now getting my camera in this 3d simulated uh cyber environment of the fractal world these bundles now that you see that are sort of arching away they're actually enveloping and going behind my camera and I'm seeing craters of them closer in to bundles inside of buttons so as I go as I go in another step closer now I'm seeing that there's a hollow a double spherical hollow core to this to this fractal and if you can see there's sort of like a center column here yeah and you see like these fibrous things coming off of this center core if I get closer and I'm going to zoom in a little bit more now you now you can see the center core better yes see kind of what I'm saying look at this very very center piece here it looks like there's some horizontal striations can you see that on screen yes I can I can see it okay I'm going to zoom in a lot closer now that's that's what that that center part is now here's what's cool all of this detail is in the mathematics of creating this fractal and well that exists natively as a text file and it's only when I go and say the mathematics is telling me it's kind of have you seen the movie the matrix yes so like when they're looking at the streaming data in the matrix and they said oh you know they could kind of tell what it's what what the 3d world is actually telling them by just looking at the stream of data it's a similar sense of when programmers look at their code and they can tell kind of what they should see from that code wow so to me when I start looking at this now I'm looking at what looks like um nodes that could be like a neural network yeah totally you see what I'm saying oh yeah I look a little closer now and it looks like if you look at simulated neural nodes of our own brain system you know as models for our our uh deep learning our ai of simulating a human brain we're starting to get something that looks on a very crude level that that type of that type of system so I'm going to go in a lot deeper now raz and here I'm looking at just a few of those inside bundles I'm going to look a little closer get a little more detail and I'm going to zoom into my lowest level I took the capture
+That's my that's my thing about fractals so where does that where does that bring me then to the art that I wanted to share and here's one example so this is this is I took some screenshots just to kind of move through this rather quickly this is from a 3d fractal program called mandelbot mandel bulb 3d I know a number of Techspressionist artists use this program because I've seen their work but for me again I like using this as a metaphor to let to help people think about other than the abstract quality or the coolness of the shape is think of this as an eyeball this sphere is an eyeball and these are nerve bundles or muscles around the eye so if you think about the anatomical drawings that we've seen of eyes and what eyes look like and over here might be where the iris is or the front part of the eye and this is the back part where the retina is so as I as I look to look closer and get more detail of this what happens is I'm now getting my camera in this 3d simulated cyber environment of the fractal world these bundles now that you see that are sort of arching away they're actually enveloping and going behind my camera and I'm seeing craters of them closer in to bundles inside of buttons so as I go as I go in another step closer now I'm seeing that there's a hollow a double spherical hollow core to this to this fractal and if you can see there's sort of like a center column here yeah and you see like these fibrous things coming off of this center core if I get closer and I'm going to zoom in a little bit more now you now you can see the center core better yes see kind of what I'm saying look at this very center piece here it looks like there's some horizontal striations can you see that on screen yes I can I can see it okay I'm going to zoom in a lot closer now that's what that center part is now here's what's cool all of this detail is in the mathematics of creating this fractal and well that exists natively as a text file and it's only when I go and say the mathematics is telling me it's kind of have you seen the movie the matrix yes so like when they're looking at the streaming data in the matrix and they said oh you know they could kind of tell what it's what the 3d world is actually telling them by just looking at the stream of data it's a similar sense of when programmers look at their code and they can tell kind of what they should see from that code wow so to me when I start looking at this now I'm looking at what looks like nodes that could be like a neural network yeah totally you see what I'm saying oh yeah I look a little closer now and it looks like if you look at simulated neural nodes of our own brain system you know as models for our deep learning our ai of simulating a human brain we're starting to get something that looks on a very crude level that type of that type of system so I'm going to go in a lot deeper now raz and here I'm looking at just a few of those inside bundles I'm going to look a little closer get a little more detail and I'm going to zoom into my lowest level I took the capture
 
 ## Roz Dimon [01:03:40](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3820s)
 
@@ -687,7 +687,7 @@ Or well
 
 ## Michael Pierre Price [01:03:49](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3829s)
 
-Just I would I wouldn't say it it is created but it's discovered so It's like, no, this is the man machine interface that you've talked about, that you've tried to indicate on some of your pieces that you showed me when I interviewed you in the interactive qualities.
+Just I would I wouldn't say it is created but it's discovered so It's like, no, this is the man machine interface that you've talked about, that you've tried to indicate on some of your pieces that you showed me when I interviewed you in the interactive qualities.
 
 ## Roz Dimon [01:04:17](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3857s)
 
@@ -829,7 +829,7 @@ Yes.
 
 ## Michael Pierre Price [01:11:20](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4280s)
 
-But at a macroscopic level, it's so this is the thing. This is kind of like, I told people working with fractals is like trying to, to rein in a bunch of wild horse, you know, like if you're, if you're a stage coach driver and your, your stage coach is running, you know, or if you're a chariot driver, you know, you're trying to maintain the horses, So the level the colors are stored up built in on one level that you can play around with it. But it's not the same as if I went in and brushed in the colors I can do some brushing yeah which I do but it's on a very very small scale so you learn to do these things over time it's It's like if you're an airbrush artists and You learn How you do different techniques of of how the nozzle works and what kind of you know you block part
+But at a macroscopic level, it's so this is the thing. This is kind of like, I told people working with fractals is like trying to, to rein in a bunch of wild horse, you know, like if you're, if you're a stage coach driver and your, your stage coach is running, you know, or if you're a chariot driver, you know, you're trying to maintain the horses, So the level the colors are stored up built in on one level that you can play around with it. But it's not the same as if I went in and brushed in the colors I can do some brushing yeah which I do but it's on a very small scale so you learn to do these things over time it's like if you're an airbrush artists and You learn How you do different techniques of how the nozzle works and what kind of you know you block part
 
 ## Unattributed [01:12:23](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4343s)
 
@@ -837,19 +837,19 @@ Of
 
 ## Michael Pierre Price [01:12:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4344s)
 
-It you you know any artist for any medium you're using you get tricks of the trade so this piece is actually 30 34 inches across 55 inches tall and then it's got a three inch border around the three inch black borders built in the what
+It you know any artist for any medium you're using you get tricks of the trade so this piece is actually 30 34 inches across 55 inches tall and then it's got a three inch border around the three inch black borders built in the what
 
 ## Roz Dimon [01:12:45](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4365s)
 
-Is that material out on the physical world what is that um this is uh this is
+Is that material out on the physical world what is that this is this is
 
 ## Michael Pierre Price [01:12:52](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4372s)
 
-A a print that I that I printed yes okay so like so like how you know like what colin does with his printer um I don't have a 44 inch printer in my home studio so I have a studio that I go to where I use their their epson 44 inch printer so this what this was printed on a kansan infinity uh photographic uh rag paper then I took it to um took it to uh my framer who then adheres it to dibond uh does a um match finish over it and then the frame um which could the pieces could be either unframed or framed through this for this show they were framed do
+A print that I that I printed yes okay so like so like how you know like what colin does with his printer I don't have a 44 inch printer in my home studio so I have a studio that I go to where I use their epson 44 inch printer so this what this was printed on a kansan infinity photographic rag paper then I took it to took it to my framer who then adheres it to dibond does a match finish over it and then the frame which could the pieces could be either unframed or framed through this for this show they were framed do
 
 ## Roz Dimon [01:13:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4437s)
 
-You do editions uh even if you don't want to get into this no I
+You do editions even if you don't want to get into this no I
 
 ## Michael Pierre Price [01:14:01](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=4441s)
 
@@ -1055,7 +1055,7 @@ Yeah.
 
 ## Michael Pierre Price [01:33:31](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5611s)
 
-So artificial reality. Augmented. I think augmented reality is a really current thing that has a lot of of applications that we haven't played around with enough yet. So yeah, I mean, I, so I think the computer physical, the human machine interface, I mean, we're, this could pose some real challenging questions to us in terms of, you know, what's machine, what's human, what, what is our consciousness?
+So artificial reality. Augmented. I think augmented reality is a really current thing that has a lot of applications that we haven't played around with enough yet. So yeah, I mean, I, so I think the computer physical, the human machine interface, I mean, we're, this could pose some real challenging questions to us in terms of, you know, what's machine, what's human, what, what is our consciousness?
 
 I mean, some people really just our brain.
 
@@ -1065,7 +1065,7 @@ I once said to somebody, look, I just took my brain. I put it out in front of me
 
 ## Michael Pierre Price [01:34:24](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5664s)
 
-Physicists and some scientists have are already saying that the universe behaves like a very advanced computer simulation. So so rods, think about this. 1000 years. From now, we keep we don't kill ourselves, we keep advancing, we keep advancing, we get to the point where we can create a universe that is so real.
+Physicists and some scientists have are already saying that the universe behaves like a very advanced computer simulation. So rods, think about this. 1000 years. From now, we keep we don't kill ourselves, we keep advancing, we keep advancing, we get to the point where we can create a universe that is so real.
 
 We can put beings into that universe that can act autonomously independently, they can live there. At that point, how much do those beings think they're real? So is it?
 
@@ -1087,7 +1087,7 @@ I love what you're saying. We'll have more conversation. We'll have more convers
 
 ## Michael Pierre Price [01:37:14](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5834s)
 
-No, that is such a good point. And it's backed up by the indigenous languages, speak of other beings in relationship, familial relationships. Yeah, those things that we see as things they see as connected. And I think that that hits your point, right on the head.
+No, that is such a good point. And it's backed up by the indigenous languages, speak of other beings in relationship, familial relationships. Yeah, those things that we see as things they see as connected. And I think that hits your point, right on the head.
 
 ## Roz Dimon [01:37:43](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5863s)
 

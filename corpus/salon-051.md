@@ -35,7 +35,7 @@ Okay.
 
 ## Unattributed [01:57](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=117s)
 
-So I'll start sharing my screen. Let's see. . Can you all see my screen?
+So I'll start sharing my screen. Let's see.. Can you all see my screen?
 
 ## Michael Pierre Price [02:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=136s)
 
@@ -93,9 +93,9 @@ And they all have their pros and cons. Dream seems, at least at this stage, to p
 
 Bringing out the character of the squirrel. Pulling it more in the cartoon style that if you've seen other of my work, it kind of fits in. To kind of create a mood that fit the poem. And continuing in that vein, this is another poem. So, again, on the left is what, after, you know, several iterations, I decided I liked the AI had given me. And basically the prompts, in this case, this was Dolly. I asked for a watercolor image. I had asked for it to be figures in silhouette, but it didn't seem to understand that concept.
 
-And dancing in a field of clover, which in the body of the poem is a refrain about meeting in the clover. And will you dance with me tonight? And... Um... So it had a little bit of the playful, innocent feel that I wanted. But I wanted to take it a little darker. Bring that silhouette in. Bring a moon in. Um... So, uh...
+And dancing in a field of clover, which in the body of the poem is a refrain about meeting in the clover. And will you dance with me tonight? And...... So it had a little bit of the playful, innocent feel that I wanted. But I wanted to take it a little darker. Bring that silhouette in. Bring a moon in.... So,...
 
-Basically building on top of that gave me a nice foundation, uh... To add some more painterly elements as well as some linear work. And again, I feel that it complements the poem. So it was nice to have that, you know, guardrail, if you will, on the selection process.
+Basically building on top of that gave me a nice foundation,... To add some more painterly elements as well as some linear work. And again, I feel that it complements the poem. So it was nice to have that, you know, guardrail, if you will, on the selection process.
 
 ## Renata Janiszewska [13:37](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=817s)
 
@@ -103,11 +103,11 @@ David, you have one minute left, please.
 
 ## David Cohen [13:39](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=819s)
 
-Okay. Speeding up. Uh, the next piece here is more of a collage, uh, piece. So I took several of my harvesting of these images and wanted to bring them together with some hand-drawn elements. This time with just a theme in mind. Uh... Uh, mindful at Magnolia is the name of the piece. And, um... Use the combinations and trimming them, the magnolias out of the one image and bringing them into the collage. But doing the rest with handwork.
+Okay. Speeding up. The next piece here is more of a collage, piece. So I took several of my harvesting of these images and wanted to bring them together with some hand-drawn elements. This time with just a theme in mind.... Mindful at Magnolia is the name of the piece. And,... Use the combinations and trimming them, the magnolias out of the one image and bringing them into the collage. But doing the rest with handwork.
 
-Um... And now I'm exploring, uh, a little bit more of what I consider a true collaboration with the AI. And I've written some haiku. Singles. Sing sweet mountain bird. Fall silent with due respect. Breaks the day. Resume. And I just gave that haiku entire as a prompt. And this was one of several images that it generated. And I still played curator to bring out some more. Sing for thistle seeds. Wine sap hues. Warm burgundy. Mellow industry.
+... And now I'm exploring, a little bit more of what I consider a true collaboration with the AI. And I've written some haiku. Singles. Sing sweet mountain bird. Fall silent with due respect. Breaks the day. Resume. And I just gave that haiku entire as a prompt. And this was one of several images that it generated. And I still played curator to bring out some more. Sing for thistle seeds. Wine sap hues. Warm burgundy. Mellow industry.
 
-Vigilance brown thorn. Stand sharp brittle protector. Guard the withered rose. And I'm very interested in this dynamic of playing back and forth. So like Cynthia, I'm concluding friend or foe friend. Uh... There's lots to play with here. And, uh... I look forward to exploring more. Um... You know, the pitfalls are time being sucked away and spending money on credits. But, uh... So it goes. But I appreciate your time and letting me share. Thank
+Vigilance brown thorn. Stand sharp brittle protector. Guard the withered rose. And I'm very interested in this dynamic of playing back and forth. So like Cynthia, I'm concluding friend or foe friend.... There's lots to play with here. And,... I look forward to exploring more.... You know, the pitfalls are time being sucked away and spending money on credits. But,... So it goes. But I appreciate your time and letting me share. Thank
 
 ## Renata Janiszewska [15:27](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=927s)
 
@@ -115,7 +115,7 @@ You very much, David. Our next presenter is Diane.
 
 ## Unattributed [15:33](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=933s)
 
-Okay. Um... Just wanted to first say thank you. Let me start by saying that I'm not a techie. Uh... I don't know what an algorithm is or how they work. So I'm just going to talk about my limited experience with two of the programs and whether I believe they're friends or foes. So let me get my screen sharing here. Okay.
+Okay.... Just wanted to first say thank you. Let me start by saying that I'm not a techie.... I don't know what an algorithm is or how they work. So I'm just going to talk about my limited experience with two of the programs and whether I believe they're friends or foes. So let me get my screen sharing here. Okay.
 
 So I'm going to start with the first one. Can everybody see the screen? Yes. All right. Great. Okay. So I was first introduced to Mid Journey by my friend and fellow tech specialist, Frederick Pons. And since a lot of my digital work revolves around visions of the future, I started by using prompts like alien planet with futuristic city. And I started using prompts like alien planet with futuristic city. Then I took these source images and augmented them in Photoshop. And some of the images coincided with what I expected to see. And others reminded me a lot of the old Omni magazine, the science fiction art.
 
@@ -155,7 +155,7 @@ Yeah, cool.
 
 ## Colin Goldberg [22:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1336s)
 
-So I thought. I would do a little demo. I was just really sort of experimenting, you know, with AI stuff with mid journey. And honestly, haven't gotten too deep into it. But I thought it might be interesting to do a little bit of an experiment. So as you know, the salon was going, I just put in expressionist salon to see what it would come up with. But I'd like to get some some some words, some prompt ideas from the audience. So we could sort of do a live exquisite corpse. Maybe if you want to just unmute if anyone has a word they'd like to suggest.
+So I thought. I would do a little demo. I was just really sort of experimenting, you know, with AI stuff with mid journey. And honestly, haven't gotten too deep into it. But I thought it might be interesting to do a little bit of an experiment. So as you know, the salon was going, I just put in expressionist salon to see what it would come up with. But I'd like to get some words, some prompt ideas from the audience. So we could sort of do a live exquisite corpse. Maybe if you want to just unmute if anyone has a word they'd like to suggest.
 
 ## Michael Pierre Price [22:55](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1375s)
 
@@ -209,7 +209,7 @@ Let's see. Take it away, Patrick.
 
 ## Patrick Lichty [27:37](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1657s)
 
-Yeah. Let's see here. Well, not just, not just mid journey. I've been working in generative generative and algorithmic art and that sort of thing since the mid nineties. And so I'm not going to do any talk about anything like fractals or or ties power tools or anything like that from the nineties because that's just going on too long. But I've been very interested in algorithmic. Yeah. And I've been working on. You know, Expansions of work. This is a piece I called predator versus predator.
+Yeah. Let's see here. Well, not just, not just mid journey. I've been working in generative generative and algorithmic art and that sort of thing since the mid nineties. And so I'm not going to do any talk about anything like fractals or ties power tools or anything like that from the nineties because that's just going on too long. But I've been very interested in algorithmic. Yeah. And I've been working on. You know, Expansions of work. This is a piece I called predator versus predator.
 
 And kind of dealing with the idea of robotic drawing robotic mark making and that sort of thing. And the idea that we, most of our machines are most of our machines and most of our pets are all from some sort of, you know, Marshall lineage. But about 2018. I, I have a, I have an iPad. And one thing I'm very interested in is like mind versus mind is generator and machine is generator.
 
@@ -217,7 +217,7 @@ And, you know, a lot of this has to do with my fascination with automatism comin
 
 Algenal's work in Generator of Vengeance. So I gave him a call and I became one of the Playform people. And so I had about like three, four thousands of these pieces that I'd done. And I fed them into the engine and started coming up with these other pieces. In other words, trying to see whether I could find areas of commonality in my stuff.
 
-And started running generation... Uh work animating them and um also done a lot of um um with nagin a lot of um Persian carpets but um going from this basically led me to my um collaborations with nagin and Colin uh basically having to do with they have a they have a sketch completion piece kind of like that one of uh you know that the guy who does um complete children's drawings as if they're paintings and so um Playform has something like that and I was doing these sketches and ascribing a style to them and learning them and brought these to Colin's work and then also nagin and I did uh some textile work for a show in Iran and um so this was my this was my piece in conversation with my dear nagin and so what this led to was taking these layerings of sketch completions with um it was some of the calligraphic stuff in the middle and it's kind of like that um maybe maybe more layers and maybe more layers than this but that's your your basic minimum um so um this led to something that's now in the Techspressionism nft collection expanding on this work and um so that's basically one of my few nfts from these series um but the thing is I always thinking about how this can be expanded um into motion and and gesture um but um at one point I really kind of started seeing the other engines like night cafe and um um this was in the Techspressionist show at Southampton and this was a poem that I did from nagin in our early days of our relationship and so I fed that in there over the mountain and of course it's very lovely it's very luminous and and one representative but on
+And started running generation... Work animating them and also done a lot of with nagin a lot of Persian carpets but going from this basically led me to my collaborations with nagin and Colin basically having to do with they have a they have a sketch completion piece kind of like that one of you know that the guy who does complete children's drawings as if they're paintings and so Playform has something like that and I was doing these sketches and ascribing a style to them and learning them and brought these to Colin's work and then also nagin and I did some textile work for a show in Iran and so this was my this was my piece in conversation with my dear nagin and so what this led to was taking these layerings of sketch completions with it was some of the calligraphic stuff in the middle and it's kind of like that maybe more layers and maybe more layers than this but that's your basic minimum so this led to something that's now in the Techspressionism nft collection expanding on this work and so that's basically one of my few nfts from these series but the thing is I always thinking about how this can be expanded into motion and gesture but at one point I really kind of started seeing the other engines like night cafe and this was in the Techspressionist show at Southampton and this was a poem that I did from nagin in our early days of our relationship and so I fed that in there over the mountain and of course it's very lovely it's very luminous and one representative but on
 
 ## Unattributed [31:50](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1910s)
 
@@ -225,21 +225,21 @@ One hand I find
 
 ## Patrick Lichty [31:53](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1913s)
 
-That night cafe in the day in many ways um also did a number of animations based on photography that we did did from 3D scans in a show we did in Cyprus over last December um you know I kind of felt that a lot of night cafes used for me was a little um narrow so one thing I've been interested in is using prompt-based engines as a kind of form of writing and poesis you know in other words to me it's kind of like not necessarily art but maybe concrete pros because
+That night cafe in the day in many ways also did a number of animations based on photography that we did from 3D scans in a show we did in Cyprus over last December you know I kind of felt that a lot of night cafes used for me was a little narrow so one thing I've been interested in is using prompt-based engines as a kind of form of writing and poesis you know in other words to me it's kind of like not necessarily art but maybe concrete pros because
 
 ## Cynthia Beth Rubin [32:27](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1947s)
 
-I'm very interested in concretism uh
+I'm very interested in concretism
 
 ## Patrick Lichty [32:29](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=1949s)
 
-So I've done mid journey stable diffusion mid journey I'm kind of interested in maybe doing disco diffusion because I've seen some interesting work that was over at uh um that was highlighted by um friends of mine who run a gallery in New York called uh postmasters and I thought that was kind of interesting uh so I was kind of looking at this idea of self of self-referential work kind of like computers dreaming of computers or if we're talking about Techspressionist in other words like the idea of what is the notion of the computer inside something that's talking about digital art so I was looking around for some things and these are a couple studies that I did but I started finding something that was very much in the expressionist range and what I wound up with was this site really tight set of prompts and really just tweaking little bits like color or size and colin was saying 16 9 probably looking for mine I almost always do my work in 16 9.
+So I've done mid journey stable diffusion mid journey I'm kind of interested in maybe doing disco diffusion because I've seen some interesting work that was over at that was highlighted by friends of mine who run a gallery in New York called postmasters and I thought that was kind of interesting so I was kind of looking at this idea of self of self-referential work kind of like computers dreaming of computers or if we're talking about Techspressionist in other words like the idea of what is the notion of the computer inside something that's talking about digital art so I was looking around for some things and these are a couple studies that I did but I started finding something that was very much in the expressionist range and what I wound up with was this site really tight set of prompts and really just tweaking little bits like color or size and colin was saying 16 9 probably looking for mine I almost always do my work in 16 9.
 
-And so to me I really don't look at this as art but the idea of concretizing some intent so I'm looking at this idea of maybe you know intent is medium so every once in a while going from series I've done four series of these um with format and um for different types of fabrication different types of execution and um you know I'll just throw out a prompt and rewrite and so this led me to series three this is not the format that I was doing I was doing um was it uh 48 by 12 4 to 1 and I'm actually thinking of getting one of those shot out at um walgreens just to see what it looks like as a uh as a two by eight you know that we like we did at the weird media show um so the thing is is that you know just really working with the words just little bits I think this idea of of playing with intention and that sort of thing is as kind of part of the medium um you know the other thing I thought was really interesting is that the the output really changed a lot when I went to different formats so this is uh the eight by six uh format that um I wanted to use for um some of my larger output like weavings and that and that that I think this would really go well with and um so I'm really fascinated with how when you change the format how things change so much and then saying whoa wait a second this is completely out of control and then you you turn around and say okay guess what how do we wrestle this back into position and this is what I've been doing with this um iterate adjust iterate adjust and that's kind of the thing there is it um I've always been kind of a process based artist you know it's basically look at different frameworks and different brackets to work with and um kind of then funneling my intention through those and I think this is what I'm doing with this is that um in many ways it reminds me of a whole lot of different um disruptive um technologies like desktop publishing you know basically really disrupted you know my my work in graphic design um but you know basically I found that you know there's a lot of different ways that I can work with different um you know there was a core core practice that still stayed there and um I think that's the one thing that you know really doesn't shake me up too much with this because I find that after a while you know there's a style that the engine maintains that people um kind of recognize and say oh that's from stable diffusion that's from mid journey that's from this and I think what I've been trying to do if you can kind of see I've been trying to do things that sort of break the engine's expectations um and I'll kind of say this is in that um yeah and then I'll just say some of this work that I've been doing as well um for a friend of mine um nathan schaefer um who's in in canada basically kind of like a climate fiction uh dirigible stories in the 22nd century I've been kind of uh exploring things with that dealing with steampunk cyberpunk and biomorphic shapes and so that led me to one of my favorite pieces so far in that route and I'm just going to put it out as a provocation and this is what I call the cybernetic cat tank which people tend to like and so in other words I like the idea of if you know what if we're going to have robot if we're going to have cybernetic robots going across the landscape you know I definitely would like to have them be biomorphic cat tanks and those things so anyway it's like so I'm glad that to present the work with my my own exploration of this and with my dear nagin and with colin so thank you thank
+And so to me I really don't look at this as art but the idea of concretizing some intent so I'm looking at this idea of maybe you know intent is medium so every once in a while going from series I've done four series of these with format and for different types of fabrication different types of execution and you know I'll just throw out a prompt and rewrite and so this led me to series three this is not the format that I was doing I was doing was it 48 by 12 4 to 1 and I'm actually thinking of getting one of those shot out at walgreens just to see what it looks like as a as a two by eight you know that we like we did at the weird media show so the thing is that you know just really working with the words just little bits I think this idea of playing with intention and that sort of thing is as kind of part of the medium you know the other thing I thought was really interesting is that the output really changed a lot when I went to different formats so this is the eight by six format that I wanted to use for some of my larger output like weavings and that and that I think this would really go well with and so I'm really fascinated with how when you change the format how things change so much and then saying whoa wait a second this is completely out of control and then you turn around and say okay guess what how do we wrestle this back into position and this is what I've been doing with this iterate adjust iterate adjust and that's kind of the thing there is it I've always been kind of a process based artist you know it's basically look at different frameworks and different brackets to work with and kind of then funneling my intention through those and I think this is what I'm doing with this is that in many ways it reminds me of a whole lot of different disruptive technologies like desktop publishing you know basically really disrupted you know my work in graphic design but you know basically I found that you know there's a lot of different ways that I can work with different you know there was a core core practice that still stayed there and I think that's the one thing that you know really doesn't shake me up too much with this because I find that after a while you know there's a style that the engine maintains that people kind of recognize and say oh that's from stable diffusion that's from mid journey that's from this and I think what I've been trying to do if you can kind of see I've been trying to do things that sort of break the engine's expectations and I'll kind of say this is in that yeah and then I'll just say some of this work that I've been doing as well for a friend of mine nathan schaefer who's in canada basically kind of like a climate fiction dirigible stories in the 22nd century I've been kind of exploring things with that dealing with steampunk cyberpunk and biomorphic shapes and so that led me to one of my favorite pieces so far in that route and I'm just going to put it out as a provocation and this is what I call the cybernetic cat tank which people tend to like and so in other words I like the idea of if you know what if we're going to have robot if we're going to have cybernetic robots going across the landscape you know I definitely would like to have them be biomorphic cat tanks and those things so anyway it's like so I'm glad that to present the work with my own exploration of this and with my dear nagin and with colin so thank you thank
 
 ## Renata Janiszewska [37:30](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2250s)
 
-You patrick I was um chatting with patrick this week and one of the things I've noticed about the for example mid journey has a default to teal and orange very frequently and so I try to give it a lot of guidance when it comes to color and I do and I find with dolly then the colors are are a lighter brighter cleaner but their resolution is poor and there's a lot of stuff going on that I think it's it's just the question you asked me was what is it we are trying to accomplish as artists and that that is something that we can contemplate and that's with intent
+You patrick I was chatting with patrick this week and one of the things I've noticed about the for example mid journey has a default to teal and orange very frequently and so I try to give it a lot of guidance when it comes to color and I do and I find with dolly then the colors are a lighter brighter cleaner but their resolution is poor and there's a lot of stuff going on that I think it's just the question you asked me was what is it we are trying to accomplish as artists and that is something that we can contemplate and that's with intent
 
 ## Patrick Lichty [38:14](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2294s)
 
@@ -247,7 +247,7 @@ You know shaping
 
 ## Renata Janiszewska [38:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2296s)
 
-So is susan here yes I'm great all right you're our next presenter susan um
+So is susan here yes I'm great all right you're our next presenter susan
 
 ## Susan Detroy [38:26](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2306s)
 
@@ -263,13 +263,13 @@ Okay
 
 ## Susan Detroy [38:57](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2337s)
 
-Um um my experimentation I approached the um sorry I approached ai as um an experimental tool and I came to it with um thinking I wanted to use my brain as an of what can I make this do and how can I use it in my art. So I initially fed in some prompts and just played with it. I was using Wombo. That's the only application I've used on my iPad.
+my experimentation I approached the sorry I approached ai as an experimental tool and I came to it with thinking I wanted to use my brain as an of what can I make this do and how can I use it in my art. So I initially fed in some prompts and just played with it. I was using Wombo. That's the only application I've used on my iPad.
 
 And I decided to think about it as a way to possibly expand the series that I've been doing since 2016 about self-portraiture related to aging. So I fed in prompts such as, where are my ideas? Where are my ideas? And I started to think about it as a way to express my love for birds. And I did it multiple times until I found something that I liked. And then in this case, I lightened it up a bit and then started applying it with a self-portrait. So these are some of the pieces that I created.
 
 And then I worked at some in Snapseed, I think this particular one. And I believe this is the last this is my final piece. Another time I prompted I think it was something like older woman as an animal. And I really liked this image. And I played with it quite a bit. To superimpose my own image into the animal. And I felt like my as though my goal was to meld and even more animalistic way like my face to become more of the animal, and then create another, and then the result would be a persona or an animal human being. So I created a number of these.
 
-Those that's my picture I don't want that. But, um, so, and I'd forgotten about one other that I just remembered this morning, as people were talking that I. This was another prompt that had to do with aging. And I. This one. This is where I ended up with it I couldn't. I don't have. I don't have memory where all the access, all the in between pieces are. But basically, my goal.
+Those that's my picture I don't want that. But, so, and I'd forgotten about one other that I just remembered this morning, as people were talking that I. This was another prompt that had to do with aging. And I. This one. This is where I ended up with it I couldn't. I don't have. I don't have memory where all the access, all the in between pieces are. But basically, my goal.
 
 I do think of it as I think of it as a tool. Another way for me to create art. That is part of a bigger plan of bigger, the bigger project. And most, and I used. And most, and I used. I was using Diana as a blending tool. And in this one that I'm showing right now, I also use procreate. I think it has a lot of potential.
 
@@ -393,15 +393,15 @@ Yeah.
 
 ## Michael Pierre Price [01:09:53](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4193s)
 
-Yeah. The big problem is that most people don't see bias. Though. No. That's the, that, you know, that's the sneaky bastardly, you know, that that's, that's our blindness.
+Yeah. The big problem is that most people don't see bias. Though. No. That's the, that, you know, that's the sneaky bastardly, you know, that's, that's our blindness.
 
 ## Colin Goldberg [01:10:06](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4206s)
 
-Even in the way that, you know, the, the sort of, you know, our, our art histories are constructed, you know, our notions of what the history of art is, you know, up until relatively recently, it was a fairly. Straight. Bias Eurocentric. Like this is how art came about, you know? And meanwhile, there was, you know, multiple streams of culture being developed on every continent simultaneously in reality. You know what I mean? But the story usually isn't described that way. Um, or it's broken down into segments that are sort of separate, you know, components.
+Even in the way that, you know, the, the sort of, you know, our, our art histories are constructed, you know, our notions of what the history of art is, you know, up until relatively recently, it was a fairly. Straight. Bias Eurocentric. Like this is how art came about, you know? And meanwhile, there was, you know, multiple streams of culture being developed on every continent simultaneously in reality. You know what I mean? But the story usually isn't described that way. Or it's broken down into segments that are sort of separate, you know, components.
 
 ## Lee Musgrave [01:10:50](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4250s)
 
-Um, makes, makes me wonder if several of us. Got the same program in. In our computer and we all typed in flying turtles or whatever that was, would the image all come up the same for all of us?
+Makes, makes me wonder if several of us. Got the same program in. In our computer and we all typed in flying turtles or whatever that was, would the image all come up the same for all of us?
 
 ## Verneda Lights [01:11:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4265s)
 
@@ -417,7 +417,7 @@ There's a random generation part of it.
 
 ## David Cohen [01:11:31](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4291s)
 
-And most of these engines work off of pre-training. Uh, there are a few where you can upload your own imagery, but they're not harvesting from your particular machine. Uh, that all of the machine learning has been done on huge data sets of imagery, uh, things like Google images and. Probably crawling various art sites and all the museum sites and, and so forth. So, uh, a lot of biases that they're going to be echoing back are in those institutions and in those data sets. Yeah. Um, but they're not, you know, they, they're not built to look at what's on your phone and.
+And most of these engines work off of pre-training. There are a few where you can upload your own imagery, but they're not harvesting from your particular machine. That all of the machine learning has been done on huge data sets of imagery, things like Google images and. Probably crawling various art sites and all the museum sites and, and so forth. So, a lot of biases that they're going to be echoing back are in those institutions and in those data sets. Yeah. But they're not, you know, they, they're not built to look at what's on your phone and.
 
 Adapt. Whatever they're delivering based. On. That.
 
@@ -451,11 +451,11 @@ So how does that affect you how does what part affect me that I'm the bias in th
 
 ## Susan Detroy [01:15:12](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4512s)
 
-It's infuriating it's infuriating I mean it's constant I mean there's two parts of it there's the female part and there's the aging part and the way that just this the language of our culture um the imagery that even if you google older woman it's it's chilling actually so um there's a constant um there's a constant sort of rethinking and uh and uh perception I have to I'm dealing with when I'm uh creating and using that kind of and that's part of the whole reason I'm doing the series that I'm doing is to expand the idea of who what a woman is in in aging in our culture and um so it's like it's mixed like I'm angry but also I'm trying to create something different so that the base of what's available is broader and bigger I
+It's infuriating it's infuriating I mean it's constant I mean there's two parts of it there's the female part and there's the aging part and the way that just this the language of our culture the imagery that even if you google older woman it's chilling actually so there's a constant there's a constant sort of rethinking and perception I have to I'm dealing with when I'm creating and using that kind of and that's part of the whole reason I'm doing the series that I'm doing is to expand the idea of who what a woman is in aging in our culture and so it's like it's mixed like I'm angry but also I'm trying to create something different so that the base of what's available is broader and bigger I
 
 ## Verneda Lights [01:16:19](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4579s)
 
-Don't know if I answered your question angry mostly I think you do a great job um of infusing beauty into um a space not an artistic space that can be very um constricted yeah and and you do um imbue the artwork with the art that's available and I think a search for qualities that are feminine, you know, or female oriented. So, yeah.
+Don't know if I answered your question angry mostly I think you do a great job of infusing beauty into a space not an artistic space that can be very constricted yeah and you do imbue the artwork with the art that's available and I think a search for qualities that are feminine, you know, or female oriented. So, yeah.
 
 ## Susan Detroy [01:17:10](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4630s)
 
@@ -585,7 +585,7 @@ My approach has been to use the exact same set of words for two months but keep 
 
 ## Patrick Lichty [01:28:58](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5338s)
 
-Too much like Francis Bacon all the time yeah yeah
+Too much like Francis Bacon all the time yeah
 
 ## Michael Pierre Price [01:29:02](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5342s)
 
@@ -601,7 +601,7 @@ To speak to a comment earlier about the watchdog component of this new arena of 
 
 ## Renata Janiszewska [01:30:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5405s)
 
-You for Neda I just want to say when I chose this topic I had a distinct feeling that we could have hours and hours of discussion the whole subject is changing daily there's more and more stuff being added Diane told me before the meeting that now you can have animation AI engines that that's a new one so
+You for Neda I just want to say when I chose this topic I had a distinct feeling that we could have hours and hours of discussion the whole subject is changing daily there's more and more stuff being added Diane told me before the meeting that now you can have animation AI engines that's a new one so
 
 ## Patrick Lichty [01:30:30](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5430s)
 
@@ -613,7 +613,7 @@ Those were I thought they were people were throwing it throwing their still imag
 
 ## Patrick Lichty [01:30:49](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5449s)
 
-I mean my my my stuff generated from you know from the images I brought it but it brought up very different things from what I've been in
+I mean my stuff generated from you know from the images I brought it but it brought up very different things from what I've been in
 
 ## Renata Janiszewska [01:30:59](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5459s)
 
@@ -629,23 +629,23 @@ For control all that you know Thanks for Neda I really appreciate it appreciate 
 
 ## Verneda Lights [01:31:34](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5494s)
 
-Yeah yeah keep up the good work thank
+Yeah keep up the good work thank
 
 ## David Cohen [01:31:37](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5497s)
 
-You I just uh paste it into the chat if anyone's interested a big list um I didn't gather it someone else gathered it of tools and resources for aria art and uh it covers a lot of different tools that are out there so if you want to go exploring it it's a good starting point thank you uncle
+You I just paste it into the chat if anyone's interested a big list I didn't gather it someone else gathered it of tools and resources for aria art and it covers a lot of different tools that are out there so if you want to go exploring it's a good starting point thank you uncle
 
 ## Allen Hirsh [01:31:59](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5519s)
 
-Did you uh perhaps um think that maybe the dark man is dark matter no
+Did you perhaps think that maybe the dark man is dark matter no
 
 ## Michael Pierre Price [01:32:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5527s)
 
-That's an interesting uh interesting uh element but no oh but cynthia um I saw your post on the book physics and art oh that's a wonderful book I picked it up I'm enjoying it so far I
+That's an interesting interesting element but no oh but cynthia I saw your post on the book physics and art oh that's a wonderful book I picked it up I'm enjoying it so far I
 
 ## Allen Hirsh [01:32:26](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5546s)
 
-Love it art and physics um just incredible uh the fact that artists have prefigured things that have happened in science um just fascinating so I you can get it at a library or you can buy it really inexpensively online as secondhand online shop but I'm buying it because I got it from the library and it took me too long to read they wanted it back because I savor each chapter so uh yeah pick it up what's it called again art and physics yeah by leonard schlain I'll put it in the chat it's
+Love it art and physics just incredible the fact that artists have prefigured things that have happened in science just fascinating so I you can get it at a library or you can buy it really inexpensively online as secondhand online shop but I'm buying it because I got it from the library and it took me too long to read they wanted it back because I savor each chapter so yeah pick it up what's it called again art and physics yeah by leonard schlain I'll put it in the chat it's
 
 ## Michael Pierre Price [01:33:07](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5587s)
 
@@ -661,4 +661,4 @@ Really oh yeah it's cool I didn't even know it existed so it was just happenstan
 
 ## Colin Goldberg [01:33:47](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5627s)
 
-Oh thank you renata um so yeah I just was saying we're just about at time um to stop the recording so um I think I'm gonna count us down I just wanted to thank um renata for uh proposing this uh topic and moderating and organizing it and I'm going to hand it over to you um to give us a little bit of time to wrap up and then we'll see you next time did you have any other questions recording of this salon number 51 in three two one and cut
+Oh thank you renata so yeah I just was saying we're just about at time to stop the recording so I think I'm gonna count us down I just wanted to thank renata for proposing this topic and moderating and organizing it and I'm going to hand it over to you to give us a little bit of time to wrap up and then we'll see you next time did you have any other questions recording of this salon number 51 in three two one and cut

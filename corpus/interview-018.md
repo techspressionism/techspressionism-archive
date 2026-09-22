@@ -455,7 +455,7 @@ I can see how you like Bacon.
 
 Of course I like it very much too. And I'm proud, and then I was, you know, and then even with the way I was handling the paint on the faces, you know, what happens, and it led me to think what happens if you, you know, just combine that with the painting. And I was like, oh, I'm going to do this. And then I was like, oh, I'm going to do this. And then I was like, oh, I'm going to do this. And then I was like, oh, I'm going to do this. So it's kind of like that abstract expressionist Mark with this emotional expressive work, which the two are technically like opposites in the art world, you know, and then it's not quite surrealism, but it's not, and it's kind of symbolism. And so it's this melding of like, he's looking for a human connection, which I decided was something I was looking for, finally.
 
-So here's in the summer back to how I got digital. My mother was in home hospice. She lived with me for five years. And she was like, oh, I want to do this. And I was like, oh, I want years I've been taking care of her for years many of us out here up in the world have this moment and as a daughter and I know many sons do it but as a daughter in my family it was mine and I picked up my phone my friends were telling me about different apps like the um like like leap the leap products okay there's a suite of apps for your phone and they're phone apps and it's like well will it recognize one of my portraits as a as a photograph and it did and what I started doing was making them move wow
+So here's in the summer back to how I got digital. My mother was in home hospice. She lived with me for five years. And she was like, oh, I want to do this. And I was like, oh, I want years I've been taking care of her for years many of us out here up in the world have this moment and as a daughter and I know many sons do it but as a daughter in my family it was mine and I picked up my phone my friends were telling me about different apps like the like leap the leap products okay there's a suite of apps for your phone and they're phone apps and it's like well will it recognize one of my portraits as a as a photograph and it did and what I started doing was making them move wow
 
 ## Roz Dimon [31:41](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1901s)
 
@@ -463,11 +463,11 @@ And that's so cool and are you doing that with these leap apps is that oh I see 
 
 ## Randi Matushevitz [31:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1908s)
 
-What I'm doing and different facial apps there's about four or five apps I use and this is a series not added any background layers this is just me lining up my photos and then I'm like oh my gosh I'm gonna do this and then I'm like oh my gosh so some people here's a good one thing to know someone asked me if I was making all those faces am I using the kind of apps that allow me I can't make that kind of gesture I can't move clowny enough I'm not Jim Carrey I wish right he can get it to do it um so I have to line up the dots of what it gives you for eyes nose mouth cheekbones and then I have to carve them in time based with my fingers I have to move the face as if it was like clay so it's digital clay and then and hold it and move it and repeat over and over and over to get these 10 seconds 20 seconds 20 seconds the tongue and the tongue with some of the apps um I hope to you know it's not really something that bothers me even though others have mentioned their denture like but
+What I'm doing and different facial apps there's about four or five apps I use and this is a series not added any background layers this is just me lining up my photos and then I'm like oh my gosh I'm gonna do this and then I'm like oh my gosh so some people here's a good one thing to know someone asked me if I was making all those faces am I using the kind of apps that allow me I can't make that kind of gesture I can't move clowny enough I'm not Jim Carrey I wish right he can get it to do it so I have to line up the dots of what it gives you for eyes nose mouth cheekbones and then I have to carve them in time based with my fingers I have to move the face as if it was like clay so it's digital clay and then and hold it and move it and repeat over and over and over to get these 10 seconds 20 seconds 20 seconds the tongue and the tongue with some of the apps I hope to you know it's not really something that bothers me even though others have mentioned their denture like but
 
 ## Roz Dimon [32:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1968s)
 
-I don't find that it doesn't bother me there's just they're so odd and different and unusual there there's a eerie beauty to these that it's just and and I like the sort of I don't know the patterning that's going on in the background of some of these is the way that the face and the I don't know you know I I'm it's
+I don't find that it doesn't bother me there's just they're so odd and different and unusual there's a eerie beauty to these that it's just and I like the sort of I don't know the patterning that's going on in the background of some of these is the way that the face and the I don't know you know I'm it's
 
 ## Randi Matushevitz [33:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1986s)
 
@@ -479,7 +479,7 @@ A lot of you must have had that aha moment when it said oh did it recognize as a
 
 ## Randi Matushevitz [33:23](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2003s)
 
-Couldn't believe it I mean I couldn't believe it so this here we'll let this play why we talk and and this will this is a collection of some of these are nfts some of them are just the clips you know where you end so I move the face the patterns in the original painting and I'm controlling the expression and I added sparkle so though these are part of some of the original headspace paintings I just had shown a few and that here I started to add layers so it's a painting and then different screen layers and this is the color in each so I know they're going to add layers because they're short they're all like six seconds but you get the essence now I'm playing with all the digital effects and um and I'm just and it's starting what happened all of a sudden this this desire to paint a feeling an emotion to make a portrait of an emotion that hopefully humans will connect to because we are familiar with feelings right that will make us kinder to each other because we're all equally as important like we're all preaching it but let's live it right and and that's where you know some of those and it's just going to start again for a second come from and now you see the paintings as I see them because the faces I'm painting change I don't know who they're going to be when I start and I'm not sure who they're going to be when I'm done and I choose to make the pattern move like with that one so you know there's um I started doing some longer versions of these and and this is Queenie I showed you her painting earlier yeah
+Couldn't believe it I mean I couldn't believe it so this here we'll let this play why we talk and this will this is a collection of some of these are nfts some of them are just the clips you know where you end so I move the face the patterns in the original painting and I'm controlling the expression and I added sparkle so though these are part of some of the original headspace paintings I just had shown a few and that here I started to add layers so it's a painting and then different screen layers and this is the color in each so I know they're going to add layers because they're short they're all like six seconds but you get the essence now I'm playing with all the digital effects and I'm just and it's starting what happened all of a sudden this desire to paint a feeling an emotion to make a portrait of an emotion that hopefully humans will connect to because we are familiar with feelings right that will make us kinder to each other because we're all equally as important like we're all preaching it but let's live it right and that's where you know some of those and it's just going to start again for a second come from and now you see the paintings as I see them because the faces I'm painting change I don't know who they're going to be when I start and I'm not sure who they're going to be when I'm done and I choose to make the pattern move like with that one so you know there's I started doing some longer versions of these and this is Queenie I showed you her painting earlier yeah
 
 ## Unattributed [35:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2106s)
 
@@ -491,11 +491,11 @@ That matter to you what are the titles well the titles are each video is more or
 
 ## Roz Dimon [35:22](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2122s)
 
-Of clips I think there's some it looks like male female it does it that that thing you were talking about look and if I'm not gender if I'm not this it it is getting to a certain essence it's really interesting and
+Of clips I think there's some it looks like male female it does it that thing you were talking about look and if I'm not gender if I'm not this it is getting to a certain essence it's really interesting and
 
 ## Randi Matushevitz [35:37](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2137s)
 
-And then adding like adding the crystals this is all digital elements and things I find even to add some sound I find that this tells the story of of these characters like I do I I don't mind if the music is playing it just gives you like my installation and and um an environment and atmosphere and this sound I put together with different sounds in um are you creating the sounds or do you work collaboratively for the live sounds I worked collaboratively for this collaboratively with this woman Michelle Greener out here and she has um a children's orchestra it's pretty amazing and she composes um for this one I made my own by combining I mean we're here to share right by combining different sound effects you know you could buy um apps or programs that give you choices of sound and in this case I was just using what iMovie or Rush Premiere what came with things um so that gives you that sense this is fame but famous this is what I'm working on and I thought I'd show you people I'm working on this is what I'm working on and I thought I'd show you people pieces of it and these about a minute they're the crux of what I work on um telling these stories and I think the time-based storytelling so you remember the painting yes can you hear the footsteps
+And then adding like adding the crystals this is all digital elements and things I find even to add some sound I find that this tells the story of these characters like I do I don't mind if the music is playing it just gives you like my installation and an environment and atmosphere and this sound I put together with different sounds in are you creating the sounds or do you work collaboratively for the live sounds I worked collaboratively for this collaboratively with this woman Michelle Greener out here and she has a children's orchestra it's pretty amazing and she composes for this one I made my own by combining I mean we're here to share right by combining different sound effects you know you could buy apps or programs that give you choices of sound and in this case I was just using what iMovie or Rush Premiere what came with things so that gives you that sense this is fame but famous this is what I'm working on and I thought I'd show you people I'm working on this is what I'm working on and I thought I'd show you people pieces of it and these about a minute they're the crux of what I work on telling these stories and I think the time-based storytelling so you remember the painting yes can you hear the footsteps
 
 ## Roz Dimon [37:08](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2228s)
 
@@ -533,11 +533,11 @@ No, it's fine. But I mean, that's what I was saying. So we are that every man th
 
 And this one is your phone is that what's that experience like fast? I love it. Clicking buttons. I can think fast I can save I download it to my photos and I can have I have so many I 30,000 photos or video shorts on photos because and I pay for that space because this way I can take live video of like my driving to Las Vegas after my mom passed. They're very personal. I'm very personal to talk to every man on a road trip like whoa, it's beautiful. Did you see the bird? Did you see these simple quiet things that keep that help us regulate but my work isn't one thing sometimes I want to disturb us because sometimes we're frantic but maybe when you know, I don't know where I was and I this one woman was crying something happened. I don't know. We could have been in a rock for let you know, one of those stores and we spoke for a minute.
 
-I asked her if she was okay. And and I said, I don't know. She said I don't know what happened to her and she wanted help and that's all I'll say and and see if I wouldn't have felt the need to say are you okay? She couldn't have gotten that little help she needed right then and so this is that culmination. This is quoi this is I'm sorry for the street volume. It's not important. I'll make it lower. This is something that happened just a month ago Quaft was invited to be at the Helms Design Center on slide building. And now I realize to see this larger than life this experience watching people walk by this is a real short one of it live makes me want to do this more you're
+I asked her if she was okay. And I said, I don't know. She said I don't know what happened to her and she wanted help and that's all I'll say and see if I wouldn't have felt the need to say are you okay? She couldn't have gotten that little help she needed right then and so this is that culmination. This is quoi this is I'm sorry for the street volume. It's not important. I'll make it lower. This is something that happened just a month ago Quaft was invited to be at the Helms Design Center on slide building. And now I realize to see this larger than life this experience watching people walk by this is a real short one of it live makes me want to do this more you're
 
 ## Roz Dimon [42:28](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2548s)
 
-Projecting it um projecting from inside oh yeah it's really quite an experience did you I imagine people were stopping and
+Projecting it projecting from inside oh yeah it's really quite an experience did you I imagine people were stopping and
 
 ## Randi Matushevitz [42:37](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2557s)
 
@@ -545,15 +545,15 @@ It was pretty amazing should I stop sharing so we can talk do you want to ask qu
 
 ## Roz Dimon [42:43](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2563s)
 
-You know what let's just uh well I think we should just stay on one of your pieces maybe um the queen or somebody maybe uh the
+You know what let's just well I think we should just stay on one of your pieces maybe the queen or somebody maybe the
 
 ## Randi Matushevitz [42:51](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2571s)
 
-Video and let it play in the background you mean or yeah just or maybe just a still one um because
+Video and let it play in the background you mean or yeah just or maybe just a still one because
 
 ## Roz Dimon [42:57](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2577s)
 
-They're so interesting I mean well let's go queenie we can always jump to her video you talk faster than I do I told you I was hypey you're so fascinating this has been a wonderful uh discussion um! I did want to just include I wanted to say something first as a woman to woman I've never been quite someone who liked to be part of the I'm a woman artist I'm a this artist I'm a white artist I'm a whatever even though I do agree with you that the specialty and the attention being paid to uh oppressed peoples I think I'm I think it's so important and the world but I do like where you're coming from and I I've been thinking a lot lately more than I ever have about how a male maybe paints or an artist works who's a man uh or at least more man than woman and how a woman does I mean we are the progenitors we're the birth creatures we're the nurturers we're the you know there's I love that seeing something that's complicated and strange which is also trying to to heal you know it doesn't have to be this mamsy pamsy um or what would I say it's hard to say because beauty comes it doesn't have to be just soft like oh that makes me feel good yes it can still be uh I love the kind of darkness of your work that also comes with a real caring and nurturing and feeling about what's happening in the world right now and that really uh I really respond to that so thank you so much um well thank you I want
+They're so interesting I mean well let's go queenie we can always jump to her video you talk faster than I do I told you I was hypey you're so fascinating this has been a wonderful discussion! I did want to just include I wanted to say something first as a woman to woman I've never been quite someone who liked to be part of the I'm a woman artist I'm a this artist I'm a white artist I'm a whatever even though I do agree with you that the specialty and the attention being paid to oppressed peoples I think I'm I think it's so important and the world but I do like where you're coming from and I've been thinking a lot lately more than I ever have about how a male maybe paints or an artist works who's a man or at least more man than woman and how a woman does I mean we are the progenitors we're the birth creatures we're the nurturers we're the you know there's I love that seeing something that's complicated and strange which is also trying to heal you know it doesn't have to be this mamsy pamsy or what would I say it's hard to say because beauty comes it doesn't have to be just soft like oh that makes me feel good yes it can still be I love the kind of darkness of your work that also comes with a real caring and nurturing and feeling about what's happening in the world right now and that really I really respond to that so thank you so much well thank you I want
 
 ## Randi Matushevitz [44:26](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2666s)
 
@@ -565,11 +565,11 @@ What
 
 ## Randi Matushevitz [44:27](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2667s)
 
-The when I was talking about headspace and then this other body dystopian lullabies which again I bounced into a body of narrative work and it's all gray painted like really focused and and it comes out of these two bodies these three bodies of work I'm showing you or four um but that's my practice it's a revolving simultaneous practice um yeah and I wanted the paintings to do it but I think the videos do it better is being a transposition for our suffering which is why we do yoga which is why we go to church or whatever our temple or our source is to re-regulate or to or art the temple of art making which has already always helped me regulate you know from the practice where I'm just in here making a big mess I mean not every time I walk in here working on something to be finished or shown I'm cutting I'm doing sometimes you just need to release I
+The when I was talking about headspace and then this other body dystopian lullabies which again I bounced into a body of narrative work and it's all gray painted like really focused and it comes out of these two bodies these three bodies of work I'm showing you or four but that's my practice it's a revolving simultaneous practice yeah and I wanted the paintings to do it but I think the videos do it better is being a transposition for our suffering which is why we do yoga which is why we go to church or whatever our temple or our source is to re-regulate or to or art the temple of art making which has already always helped me regulate you know from the practice where I'm just in here making a big mess I mean not every time I walk in here working on something to be finished or shown I'm cutting I'm doing sometimes you just need to release I
 
 ## Roz Dimon [45:22](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2722s)
 
-Remember that um as a spiritual seeker myself I mean I I you know I was raised Episcopalian but I the reason I went and took interfaith ministries because the whole I'm interested in all of it you know I'm uh you know too Jewish Christian Muslim Islamic I mean you know philosophy people
+Remember that as a spiritual seeker myself I mean I you know I was raised Episcopalian but I the reason I went and took interfaith ministries because the whole I'm interested in all of it you know I'm you know too Jewish Christian Muslim Islamic I mean you know philosophy people
 
 ## Randi Matushevitz [45:40](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2740s)
 
@@ -581,7 +581,7 @@ A hundred
 
 ## Randi Matushevitz [45:46](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2746s)
 
-That's there yes and so I think I had I just want to show you one more picture we can keep talking this is uh I had this 3D sculpture printed and I've been trying to project to loose a video onto it I don't know enough about mapping to show you this experiment but see it goes further because how do I want to present these do I want to have a group of heads talking so my computer hold
+That's there yes and so I think I had I just want to show you one more picture we can keep talking this is I had this 3D sculpture printed and I've been trying to project to loose a video onto it I don't know enough about mapping to show you this experiment but see it goes further because how do I want to present these do I want to have a group of heads talking so my computer hold
 
 ## Roz Dimon [46:08](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2768s)
 
@@ -589,11 +589,11 @@ On just did you say that you created this in 3D?
 
 ## Randi Matushevitz [46:12](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2772s)
 
-Digitally yeah uh yes I worked with somebody to help me make the 3D model from my painting we had to make a 3D sculpture if I really if I would have realized I would have wanted to help make the sculpture because I would really feel oh perfect but you see how just the face part I have to work on digital mapping but I wanted to say this journey isn't done you know and I don't and I just made a small head even when we die it's not done right
+Digitally yeah yes I worked with somebody to help me make the 3D model from my painting we had to make a 3D sculpture if I really if I would have realized I would have wanted to help make the sculpture because I would really feel oh perfect but you see how just the face part I have to work on digital mapping but I wanted to say this journey isn't done you know and I don't and I just made a small head even when we die it's not done right
 
 ## Roz Dimon [46:40](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2800s)
 
-What even when we die the journey's not done I'm not sure for being here I understand as an artist it is always it's a journey it's it's
+What even when we die the journey's not done I'm not sure for being here I understand as an artist it is always it's a journey it's
 
 ## Randi Matushevitz [46:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2808s)
 
@@ -605,15 +605,15 @@ What's she sure uh-huh
 
 ## Randi Matushevitz [47:00](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2820s)
 
-Does it loop do you have your pieces they they usually loop this one's not looped I just threw it in here to share it usually I do I think this one might be looped the videos are are looped I just for this presentation I didn't want them to go on forever and ever you know oh
+Does it loop do you have your pieces they usually loop this one's not looped I just threw it in here to share it usually I do I think this one might be looped the videos are looped I just for this presentation I didn't want them to go on forever and ever you know oh
 
 ## Roz Dimon [47:16](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2836s)
 
-There's so I love this one it's it's so interesting I could look at these for a long time that's one thing about a still image that I think is interesting as well though is that you can look at a still image a long time and and keep seeing things in it especially this work um dream
+There's so I love this one it's so interesting I could look at these for a long time that's one thing about a still image that I think is interesting as well though is that you can look at a still image a long time and keep seeing things in it especially this work dream
 
 ## Randi Matushevitz [47:30](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2850s)
 
-And this is um I have a collector who um but I'm gonna stop a few more questions and we're gonna sure sure just ask them I'll talk about the collector since she started no who she has looked at some of these and she just is dying over the videos you know we just she says what you say um she has a different painting and she just says how she talks to her and and she's it's a very small face and she loves her to death oh
+And this is I have a collector who but I'm gonna stop a few more questions and we're gonna sure sure just ask them I'll talk about the collector since she started no who she has looked at some of these and she just is dying over the videos you know we just she says what you say she has a different painting and she just says how she talks to her and she's it's a very small face and she loves her to death oh
 
 ## Roz Dimon [47:59](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2879s)
 
@@ -629,7 +629,7 @@ Well, what I wanted to ask you, what interests you? Let's tie it back to the gro
 
 ## Randi Matushevitz [48:24](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2904s)
 
-Much well one is you know when I heard the name and I heard what what call it you know the definition using technology for expression I and you know I'd never heard of it and I was like oh my god here are these little faces that I made move because that's how I always think of things not with my ego but with my joy of just look what I stumbled on yeah
+Much well one is you know when I heard the name and I heard what call it you know the definition using technology for expression I and you know I'd never heard of it and I was like oh my god here are these little faces that I made move because that's how I always think of things not with my ego but with my joy of just look what I stumbled on yeah
 
 ## Roz Dimon [48:47](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2927s)
 
@@ -637,15 +637,15 @@ And
 
 ## Randi Matushevitz [48:47](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=2927s)
 
-What I love about this group this collective I don't know what the right word is it's a growing force um yeah learning from people like you who who know how to like I've been doing it or they're laying in code and how they're you know I stumbled into being user friendly um I'm trying to learn the adobe suite and I'm trying to learn how to use it and I'm trying to learn how to use it and I'm it's knocking my me for you know right off my chair it's hard it's much easier to push my phone to feel free to feel experimental um and and I just to see how many different technological visions that I I love to just meet this group of warm intelligent thoughtful yes who have so long been ignored I don't really you know I've told you this before all the time I've told you this before all the time I've told you this before all the time off this video I'm here to learn I I I love it too and I was so glad to be part of it like to be invited to you know eventually to be accepted in and um because I'm learning and we talk about tech we talk about projectors we I mean stuff I I am such a novice and I'm thrilled also
+What I love about this group this collective I don't know what the right word is it's a growing force yeah learning from people like you who know how to like I've been doing it or they're laying in code and how they're you know I stumbled into being user friendly I'm trying to learn the adobe suite and I'm trying to learn how to use it and I'm trying to learn how to use it and I'm it's knocking my me for you know right off my chair it's hard it's much easier to push my phone to feel free to feel experimental and I just to see how many different technological visions that I love to just meet this group of warm intelligent thoughtful yes who have so long been ignored I don't really you know I've told you this before all the time I've told you this before all the time I've told you this before all the time off this video I'm here to learn I love it too and I was so glad to be part of it like to be invited to you know eventually to be accepted in and because I'm learning and we talk about tech we talk about projectors we I mean stuff I am such a novice and I'm thrilled also
 
 ## Roz Dimon [50:03](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3003s)
 
-I think the art that's being shown is not just you know it's like I just use tech I mean there's really coming from different angles and different points of view there's been from some very uh I
+I think the art that's being shown is not just you know it's like I just use tech I mean there's really coming from different angles and different points of view there's been from some very I
 
 ## Randi Matushevitz [50:12](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3012s)
 
-Like watching NFTs there I had seen hardly anything that looks cartoony or or just like for a quick sorry to say it this way nobody's doing a quick trick everybody has a pursuit based in their personal uh interest
+Like watching NFTs there I had seen hardly anything that looks cartoony or just like for a quick sorry to say it this way nobody's doing a quick trick everybody has a pursuit based in their personal interest
 
 ## Unattributed [50:28](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3028s)
 
@@ -665,11 +665,11 @@ Sorry is that what you're saying you're talking about the people in text yes I a
 
 ## Randi Matushevitz [50:41](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3041s)
 
-Scientists and artists and people who play mute all different um inspirations
+Scientists and artists and people who play mute all different inspirations
 
 ## Roz Dimon [50:49](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3049s)
 
-It's really we only have a few more minutes this has been excellent Randy and I know we're just you know just tapping uh the iceberg here with your work but it's sorry
+It's really we only have a few more minutes this has been excellent Randy and I know we're just you know just tapping the iceberg here with your work but it's sorry
 
 ## Randi Matushevitz [50:58](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3058s)
 
@@ -677,11 +677,11 @@ I talked so long I was I said I'm going to be a short one but then you got
 
 ## Roz Dimon [51:03](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3063s)
 
-It we need it so it's fine but um I think you may have already told us this but well you know can you just briefly before we sign off your talk a little about what you're working on now which seems to be the uh video maybe going into 3D uh and if you could add on to that maybe how you see uh the future of art if you want to comment on that
+It we need it so it's fine but I think you may have already told us this but well you know can you just briefly before we sign off your talk a little about what you're working on now which seems to be the video maybe going into 3D and if you could add on to that maybe how you see the future of art if you want to comment on that
 
 ## Randi Matushevitz [51:24](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3084s)
 
-I think okay so for my work I'm still painting I uh my I see uh creating more experiences digit where these digital videos are playing in windows or on buildings especially after seeing the lady who spoke the other day and the text especially I can't think of her name off the top of my head yes oh yeah like some of not like you know some of her control over the projectors and stuff this is a dream for me um even though our work is completely different um so that's so there's so much respect when I come to this group so I'm still working on finding my um my community like you people who like this kind of work and you know you I do run it's LA there's a little you know this is a little dark on the west coast might be a little well better on the east coast or Berlin or you know hence where the work is shown um and so to create this overarching installation of painting and video and perhaps sculpt or series of these sculptures with videos that are mapped um this is the investigation so you know so I'm using all of my tools and I'm still making large paintings small paintings that feed the work very exciting very exciting at the end I have a big you know like a big body of work in the end you know um because it comes out of a need to make
+I think okay so for my work I'm still painting I my I see creating more experiences digit where these digital videos are playing in windows or on buildings especially after seeing the lady who spoke the other day and the text especially I can't think of her name off the top of my head yes oh yeah like some of not like you know some of her control over the projectors and stuff this is a dream for me even though our work is completely different so that's so there's so much respect when I come to this group so I'm still working on finding my community like you people who like this kind of work and you know you I do run it's LA there's a little you know this is a little dark on the west coast might be a little well better on the east coast or Berlin or you know hence where the work is shown and so to create this overarching installation of painting and video and perhaps sculpt or series of these sculptures with videos that are mapped this is the investigation so you know so I'm using all of my tools and I'm still making large paintings small paintings that feed the work very exciting very exciting at the end I have a big you know like a big body of work in the end you know because it comes out of a need to make
 
 ## Roz Dimon [52:49](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3169s)
 
@@ -689,7 +689,7 @@ The future of
 
 ## Randi Matushevitz [52:51](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3171s)
 
-Art do you have any future of art I think is really interesting I think that we are are raising a very sophisticated group of visual people that's why everyone's hyper now it's not that everyone's really hyper it's that we process visually more than we know and we're not talking about it in our schools so I think it's a very interesting thing to do and I think it's a very moving piece because our artists would never never stop developing digital vegetables um only once per generation even though these images through digital directions through imagination through artistic variations through correlation throughул charges through involvement through presup gauge through acceleration through realization through transitions through metaphor through I'm not worried about conservation. I mean, as the maker, I do the best I can, but this could be a whole jobs for the world.
+Art do you have any future of art I think is really interesting I think that we are raising a very sophisticated group of visual people that's why everyone's hyper now it's not that everyone's really hyper it's that we process visually more than we know and we're not talking about it in our schools so I think it's a very interesting thing to do and I think it's a very moving piece because our artists would never never stop developing digital vegetables only once per generation even though these images through digital directions through imagination through artistic variations through correlation throughул charges through involvement through presup gauge through acceleration through realization through transitions through metaphor through I'm not worried about conservation. I mean, as the maker, I do the best I can, but this could be a whole jobs for the world.
 
 You know, I think art is just gonna always be with us. As Ellen Dasaniaki said in her book in the 90s, a homoestheticus, it's a sociobiological need in the human species.
 

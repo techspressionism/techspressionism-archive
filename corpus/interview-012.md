@@ -85,7 +85,7 @@ I spent my undergraduate days trying to outpaint the Kooning, which was quite a 
 
 ## Patrick Lichty [04:06](https://www.youtube.com/watch?v=m6ca8UoF49M&t=246s)
 
-Yeah, yeah, yeah. So when did this hit you? When did the epiphany come upon you that you were thinking about? You know, that... You know, that... What made you... What was the epiphany that told you you were an artist? And when was it? And, you know, how did this make you go, boom, I'm going to do this?
+Yeah, yeah, yeah. So when did this hit you? When did the epiphany come upon you that you were thinking about? You know, that... You know, that... What made you... What was the epiphany that told you were an artist? And when was it? And, you know, how did this make you go, boom, I'm going to do this?
 
 For me, it wasn't really an epiphany.
 
@@ -459,7 +459,7 @@ Okay. We're nearing up on things.
 
 ## Gregory Little [24:37](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1477s)
 
-Yeah. And then this is current now. So we are... Okay. I left... Obviously I had to leave out a lot of stuff, but... Sure, sure. ... You know, when you're in a new environment, I have your life is about editing. So... Of course. Yeah. So that's that.
+Yeah. And then this is current now. So we are... Okay. I left... Obviously I had to leave out a lot of stuff, but... Sure, sure.... You know, when you're in a new environment, I have your life is about editing. So... Of course. Yeah. So that's that.
 
 ## Patrick Lichty [24:51](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1491s)
 
@@ -499,7 +499,7 @@ Yeah.
 
 ## Gregory Little [27:22](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1642s)
 
-Yeah. I mean, and my feeling, you know, initially when I began working with them was that I was, my job was kind of a subversive one because I did feel that the people, that were, that I was surrounded by who were working on computers at the time were often, you know, they were, they were, they were not expressive. They were not terribly expressive people. It seemed to me at least. Their, their interests were pretty narrow and how they they saw computation was very narrow as well and not did not seem at all to me in the spirit of engelbart and fine and and uh vannevar bush and people like that who really had a very different vision for how the computer should work um so yeah of course it is it is an extension of those things and those
+Yeah. I mean, and my feeling, you know, initially when I began working with them was that I was, my job was kind of a subversive one because I did feel that the people, that were, that I was surrounded by who were working on computers at the time were often, you know, they were, they were, they were not expressive. They were not terribly expressive people. It seemed to me at least. Their, their interests were pretty narrow and how they saw computation was very narrow as well and not did not seem at all to me in the spirit of engelbart and fine and vannevar bush and people like that who really had a very different vision for how the computer should work so yeah of course it is it is an extension of those things and those
 
 ## Patrick Lichty [28:13](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1693s)
 
@@ -813,43 +813,43 @@ Hmm.
 
 ## Gregory Little [38:49](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2329s)
 
-And this one I'm actually, I have all of these elements are, are actually 3D elements that were created in Maya and other places. That's a block of birds there. And so this one is in process and becoming a, an AR piece where. Okay yeah the color grid on the wall and then those images will pop out or are popping out ar so so you can see how it goes painting to ar and back and forth
+And this one I'm actually, I have all of these elements are, are actually 3D elements that were created in Maya and other places. That's a block of birds there. And so this one is in process and becoming a, an AR piece where. Okay yeah the color grid on the wall and then those images will pop out or are popping out ar so you can see how it goes painting to ar and back and forth
 
 ## Patrick Lichty [39:18](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2358s)
 
-Yeah yeah yeah yeah yeah yeah that's that's the thing I mean it's um you think like the next do you think the next step is maybe going to be like with the you know the proposed apple glasses things like what's what's what do you think is going to be happening with you? With all this?
+Yeah that's the thing I mean it's you think like the next do you think the next step is maybe going to be like with the you know the proposed apple glasses things like what's what do you think is going to be happening with you? With all this?
 
 ## Gregory Little [39:35](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2375s)
 
 Oh, wow. I think it will. What's the future, Greg? Yeah. Right. I know. Yeah. Yeah. I mean, the Apple glasses are interesting. I think they're like, they're a bit like the magic leap in terms of how I understand them because. Yeah. They are, you know, they're, they're ergonomically and prescription puts prescripted for a single individual.
 
-You'll have like, like with the magic leap, you know, you would have your own magic leap headset, which doesn't exist anymore, but, but I think the Apple glasses will be the same kind of thing. I think it's just gonna, just gonna to kind of disappear into us and become completely acceptable and I think to some degree I sometimes feel like we're sort of throwing the baby out with the bath water a little bit I love that phrase but I think that um it often seems to me that we're we especially in the in the vr ar thing where things are becoming the platforms are becoming specific to you know portable phones and personal devices I think we're losing some of the questions and notions of presence and changing presence and occupying different presences that were so valuable, I think, in large scale.
+You'll have like, like with the magic leap, you know, you would have your own magic leap headset, which doesn't exist anymore, but, but I think the Apple glasses will be the same kind of thing. I think it's just gonna, just gonna to kind of disappear into us and become completely acceptable and I think to some degree I sometimes feel like we're sort of throwing the baby out with the bath water a little bit I love that phrase but I think that it often seems to me that we're we especially in the in the vr ar thing where things are becoming the platforms are becoming specific to you know portable phones and personal devices I think we're losing some of the questions and notions of presence and changing presence and occupying different presences that were so valuable, I think, in large scale.
 
-So so fascinating um and now it's becoming I don't know the the internalization of the media I guess it's uh disappointing to me but that's that's always been where it's kind of inevitable I suppose at the same time but I do look for those places um where where that's not happening as much where um where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with uh with that sort of thing the shoes that you did uh
+So fascinating and now it's becoming I don't know the internalization of the media I guess it's disappointing to me but that's always been where it's kind of inevitable I suppose at the same time but I do look for those places where that's not happening as much where the where the commercialization and the sales and the commodification haven't quite taken over I like your interventions that you sometimes talk about with that sort of thing the shoes that you did
 
 ## Patrick Lichty [41:42](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2502s)
 
-The nike shoes that you did oh yeah yeah the one the one set for either yeah the one that was that that had our bite chin which was kind of like child child worker but with the with the german flag colors then the iraqi flag cover yeah
+The nike shoes that you did oh yeah the one the one set for either yeah the one that was that had our bite chin which was kind of like child child worker but with the with the german flag colors then the iraqi flag cover yeah
 
 ## Unattributed [41:56](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2516s)
 
-Yeah yeah that kind of
+Yeah that kind of
 
 ## Patrick Lichty [41:57](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2517s)
 
-Bush yeah yeah yeah
+Bush yeah
 
 ## Gregory Little [41:59](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2519s)
 
-Those those sorts of interventions I think are totally necessary um for me though I'm you know making worlds like this making artwork like this is about kind of offering a an alternative reality and uh I don't see that I mean kind of a way not I don't want to say escape but an alternative reality um I don't see that happening so much with what we're working on what people are working on now with the apple glasses and things like that you know just just seems to be more of the same
+Those sorts of interventions I think are totally necessary for me though I'm you know making worlds like this making artwork like this is about kind of offering a an alternative reality and I don't see that I mean kind of a way not I don't want to say escape but an alternative reality I don't see that happening so much with what we're working on what people are working on now with the apple glasses and things like that you know just seems to be more of the same
 
 ## Patrick Lichty [42:37](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2557s)
 
-In in other words what what is it in what mccluhan was talking about hot hot and bold media in other words you get you're getting towards like a hotter media which basically kind of takes away uh interpretation yeah and so what happens is is that as the as the experiences that we have these virtual spaces become more defined and the resolution gets higher in other words basically takes your do you think that it takes away part of our interpretation completely
+In other words what is it in what mccluhan was talking about hot hot and bold media in other words you get you're getting towards like a hotter media which basically kind of takes away interpretation yeah and so what happens is that as the as the experiences that we have these virtual spaces become more defined and the resolution gets higher in other words basically takes your do you think that it takes away part of our interpretation completely
 
 ## Gregory Little [43:07](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2587s)
 
-Right I mean it's it's it's not to be about interpretation.
+Right I mean it's not to be about interpretation.
 
 ## Patrick Lichty [43:13](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2593s)
 
@@ -973,7 +973,7 @@ Well, I'm really, I'm very excited about what you, what, what you all are doing 
 
 ## Patrick Lichty [48:26](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2906s)
 
-And I'm really sure that you're all now in the same place. And I'm really, I'm really sure that you're all in the same place. I'm really, I'm really, I'm really, I'm really, this is the way to is a way to um reconnect with that with with that which makes us human maybe in in the good sense yeah
+And I'm really sure that you're all now in the same place. And I'm really, I'm really sure that you're all in the same place. I'm really, I'm really, I'm really, I'm really, this is the way to is a way to reconnect with that with that which makes us human maybe in the good sense yeah
 
 ## Gregory Little [48:46](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2926s)
 
@@ -981,4 +981,4 @@ Yeah
 
 ## Patrick Lichty [48:46](https://www.youtube.com/watch?v=m6ca8UoF49M&t=2926s)
 
-All right all right thanks so much okay and that's fantastic so thank you thanks for uh spending some time with me patrick absolutely good to see you
+All right all right thanks so much okay and that's fantastic so thank you thanks for spending some time with me patrick absolutely good to see you

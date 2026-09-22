@@ -18,15 +18,15 @@ flags:
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2s)
 
-Hello, hello, and welcome everyone to our Techspressionism Virtual Salon. Today we've got a bit of a different salon. It's actually going to be a little bit of a walkthrough slash, you know, opening for our second Techspressionism Virtual, ah, wow, I can't speak, our second Techspressionism Virtual Collab project. Um, it's been in the works for quite a few months, a bit longer than what was originally intended, um, but such is the way of things because, you know, we're all kind of working on our own projects and things get pushed aside sometimes, but it's all good. Still care about you, still care about the work that you do, still care about this project.
+Hello, hello, and welcome everyone to our Techspressionism Virtual Salon. Today we've got a bit of a different salon. It's actually going to be a little bit of a walkthrough slash, you know, opening for our second Techspressionism Virtual, ah, wow, I can't speak, our second Techspressionism Virtual Collab project. It's been in the works for quite a few months, a bit longer than what was originally intended, but such is the way of things because, you know, we're all kind of working on our own projects and things get pushed aside sometimes, but it's all good. Still care about you, still care about the work that you do, still care about this project.
 
-Um, but if you are just tuning in or have no idea what the Techspressionism Collab project, um, is. It's a project that I kind of envisioned that was inspired by that famous collab all those years ago between Basquiat and Warhol. And I thought, you know, because this is the day, the day and age that we live in and that technology is already connecting us, um, to one another through things like Zoom and Discord and Facebook and all these other things. Why not create a...
+But if you are just tuning in or have no idea what the Techspressionism Collab project, is. It's a project that I kind of envisioned that was inspired by that famous collab all those years ago between Basquiat and Warhol. And I thought, you know, because this is the day, the day and age that we live in and that technology is already connecting us, to one another through things like Zoom and Discord and Facebook and all these other things. Why not create a...
 
-Um, it was collaboration art project utilizing some of those same tools? Um, like we might not be able to physically be working alongside each other, but you know, virtual is kind of the next best thing. Um, especially in the context of no ongoing pandemic that still hasn't quite abated. So. No. Just wanting artists to be able to further connect with each other and produce great artwork. Um. Uh. In a virtual context.
+It was collaboration art project utilizing some of those same tools? Like we might not be able to physically be working alongside each other, but you know, virtual is kind of the next best thing. Especially in the context of no ongoing pandemic that still hasn't quite abated. So. No. Just wanting artists to be able to further connect with each other and produce great artwork.. In a virtual context.
 
 So that gave rise to this project. And this is our second one. The first one was now several months ago. And this one actually technically concluded right around March of this year. But, you know, things got pushed aside and it's been long going, but it's finally here. And I'm finally glad to be able to show you guys all this wonderful work that has been created during that time period. And it's been a joy to work with the artists, a joy to work with, you know, Brandon and Colin on getting this together and getting this on the road. And yeah.
 
-So we have in this particular collaboration, there are seven pairings. You would think that that also would mean there's 14 artists, but no, there's actually 13 artists. And because there was a little bit of, well, things happened as they do sometimes. And one pairing ended up getting paired off with two people, which there was nothing wrong with that. I thought that was actually pretty interesting to see what kind of work this same artist did with two other artists. So we'll get into that.
+So we have in this particular collaboration, there are seven pairings. You would think that also would mean there's 14 artists, but no, there's actually 13 artists. And because there was a little bit of, well, things happened as they do sometimes. And one pairing ended up getting paired off with two people, which there was nothing wrong with that. I thought that was actually pretty interesting to see what kind of work this same artist did with two other artists. So we'll get into that.
 
 But yeah. And with that, I think I can go ahead and start going into the exhibition, which is done virtually using a platform called Kunstmatrix. Which we have a digital partnership. And the name of this titled by Brandon Gallus is A Calling For Utopia. Who also he's the one that's responsible for, you know, actually how the exhibition itself looks. And he also did the write-up. So I'm going to give him his credit where credit is due, even though he doesn't feel like he's done a whole lot. So I'm putting you on the spot, Brandon. Take that praise.
 
@@ -60,7 +60,7 @@ Darcy?
 
 ## Darcy Gerbarg [07:58](https://www.youtube.com/watch?v=cYU7eKBcCto&t=478s)
 
-Well, actually, I had a series called The Inside and Outside Pictures and so it wasn't just inside, it was also outside and it's I have images that I have painted in a virtual world using tilt brush, so basically painting 3D light sculptures in a virtual world and I'm accustomed to taking snapshots of various pieces of those in the real world and so Michael and I looked at each other's work and we both do some stuff with photography. I'd say he's a really great photographer and and so we used his photographic images and pieces of some of my light sculptures to overlay the color on a lot of his black and white work, which was kind of interesting.
+Well, actually, I had a series called The Inside and Outside Pictures and so it wasn't just inside, it was also outside and it's I have images that I have painted in a virtual world using tilt brush, so basically painting 3D light sculptures in a virtual world and I'm accustomed to taking snapshots of various pieces of those in the real world and so Michael and I looked at each other's work and we both do some stuff with photography. I'd say he's a really great photographer and so we used his photographic images and pieces of some of my light sculptures to overlay the color on a lot of his black and white work, which was kind of interesting.
 
 And it was fun for me to play with I think I will say that you're going to have to ambiguous space that existed in his more abstract photographs, which you'll see not on this picture, but on the right hand picture more than on this one. So this one started with one of Michael's photographs. I guess they both started with Michael's photographs.
 
@@ -232,7 +232,7 @@ How did you come up with your titling for some of these pieces? Does this one is
 
 ## Malavika Mandal Andrew [26:20](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1580s)
 
-So as I, uh, they, and we give his one, but I can tell my one, my, uh, I have given the, uh, uh, though vibration word I added because, uh, as I said, my, I have used the joy and the blooming. And, uh, the song. Is related with the. And the spring. So which gives life. And, uh, the sound is the part which added by the on. So that's how I thought of. He, uh, using these two names and what you don't use is again, I think it's from the picture from the song on the, am I right? Yeah.
+So as I, they, and we give his one, but I can tell my one, my, I have given the,, though vibration word I added because, as I said, my, I have used the joy and the blooming. And, the song. Is related with the. And the spring. So which gives life. And, the sound is the part which added by the on. So that's how I thought of. He, using these two names and what you don't use is again, I think it's from the picture from the song on the, am I right? Yeah.
 
 ## Ryan Henderson [27:01](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1621s)
 
@@ -240,7 +240,7 @@ Yeah. Though I think it was part of the lyrics or what I understood of it. Got i
 
 ## Malavika Mandal Andrew [27:06](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1626s)
 
-Because Neil D. Gontay is the meaning of blue sky. I mean, when, when the, when the blooming starts, uh, when the, uh, spring starts, it's so it's just the leaf starts coming out. So need because there's the blooming sky and, uh, the other one, I'm sorry. I just, uh, uh, blue eyes. And it's also the, they take it, uh, dance.
+Because Neil D. Gontay is the meaning of blue sky. I mean, when, when the, when the blooming starts, when the, spring starts, it's so it's just the leaf starts coming out. So need because there's the blooming sky and, the other one, I'm sorry. I just,, blue eyes. And it's also the, they take it, dance.
 
 So it's all picked up from the, our, our songs.
 
@@ -250,11 +250,11 @@ Got it. All right. Well, thank you. Does anyone have any questions for Ryan or M
 
 ## Verneda Lights [28:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1682s)
 
-Scrolling through the chat in case I missed something. I have a question. Uh, uh, Ryan said that, um, he, could not understand the songs. He did not, um, did not have access to the language and interpretation of the songs. So I wanted to know, um, from Malavika's perspective, given that he did not have, um, access to a native language in hearing the music, hearing the songs, is there any evidence or are the evidences, uh, of understanding that he picked up, um, intuitively? Uh, do you see this in the works that were finalized? Do you see an understanding that he could not, um, have access to by reason of understanding the language?
+Scrolling through the chat in case I missed something. I have a question., Ryan said that, he, could not understand the songs. He did not, did not have access to the language and interpretation of the songs. So I wanted to know, from Malavika's perspective, given that he did not have, access to a native language in hearing the music, hearing the songs, is there any evidence or are the evidences, of understanding that he picked up, intuitively? Do you see this in the works that were finalized? Do you see an understanding that he could not, have access to by reason of understanding the language?
 
 ## Ryan Henderson [29:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1742s)
 
-Oh, can I, can I interrupt real quick? Uh, so I, I definitely looked up the lyrics, uh, and, and had it translated.
+Oh, can I, can I interrupt real quick? So I, I definitely looked up the lyrics, and, and had it translated.
 
 ## Verneda Lights [29:09](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1749s)
 
@@ -278,11 +278,11 @@ No, it's not a cheat. It's not a cheat, but it would have been interesting. It w
 
 ## Davonte Bradley [29:39](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1779s)
 
-Oh, I did. I did catch a question from earlier from Cynthia. I keep losing it though. Hold on. Oh, um, so this is about blue horizon. Um, again, Cynthia wants to know who, um, started the piece first.
+Oh, I did. I did catch a question from earlier from Cynthia. I keep losing it though. Hold on. Oh, so this is about blue horizon. Again, Cynthia wants to know who, started the piece first.
 
 ## Unattributed [29:56](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1796s)
 
-Uh, yeah.
+Yeah.
 
 ## Davonte Bradley [30:00](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1800s)
 
@@ -290,15 +290,15 @@ Orion started it first.
 
 ## Ryan Henderson [30:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1802s)
 
-Yeah. Yeah. And it was those, those colors. I was trying to do a, a sunrise and a, and a kind of a, uh, a sky there with the blue. So those are the colors. It fits very well.
+Yeah. Yeah. And it was those, those colors. I was trying to do a, a sunrise and a, and a kind of a, a sky there with the blue. So those are the colors. It fits very well.
 
 ## Unattributed [30:18](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1818s)
 
-And who added, who added that, um, plateau that's in the background. That's I, uh, I did. Melvi. It's just, it, piece is stunning. I think the, the work between you and Ryan just, is stunning indeed.
+And who added, who added that, plateau that's in the background. That's I, I did. Melvi. It's just, it, piece is stunning. I think the, the work between you and Ryan just, is stunning indeed.
 
 ## Malavika Mandal Andrew [30:37](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1837s)
 
-Actually speaking, that is the last work. I mean, slowly, slowly we start understanding maybe that's the reason that's the last work we did. And, uh, uh, and these are the photographs I have taken. I mean, this is a mixed photograph. It's not one. I think some four or five photographs are there in this, when I created this, uh, landscape. Uh, and, uh, it's having, uh, there's a place called the dark here. Then there is a place. Uh, uh, is that the
+Actually speaking, that is the last work. I mean, slowly, slowly we start understanding maybe that's the reason that's the last work we did. And,, and these are the photographs I have taken. I mean, this is a mixed photograph. It's not one. I think some four or five photographs are there in this, when I created this, landscape. And, it's having, there's a place called the dark here. Then there is a place., is that the
 
 ## Unattributed [31:24](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1884s)
 
@@ -362,7 +362,7 @@ You one thing somewhere we felt that we did both the way. I mean, there was one 
 
 That's, that's actually how I originally envisioned the project work, like on it's a base level, but that's kind of how I felt like it was going to be almost like maybe artists playing catch with each other. It's like they throw a ball and then you scribble on it. And then the person that receives it scribbles back and throws it back and goes back and forth like that. But on a, that's kind of how it was on a base level in my mind anyway. But of course other people are going to have their own interpretations of how it's going to work. And you know, it, I'm not going to stop you from doing it.
 
-I'm not going to say that that's wrong, but it's, it's been wonderful seeing the interpretations and spins that you guys have taken on just the collaboration project itself. Like I, I feel like I'm just providing the baseline. Like you can build whatever you want on top of it.
+I'm not going to say that's wrong, but it's, it's been wonderful seeing the interpretations and spins that you guys have taken on just the collaboration project itself. Like I, I feel like I'm just providing the baseline. Like you can build whatever you want on top of it.
 
 ## Malavika Mandal Andrew [34:38](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2078s)
 
@@ -372,7 +372,7 @@ But thank you for this collaborative idea. We really enjoyed it.
 
 Good. Glad to hear it. And we, this, this will not be the last one. I promise. Definitely won't be. All right. So moving right along, we have another work that's actually our first triptych in the collab. Between So moving right along, we have C and Michael Price. And I'm not sure if C was able to make it today. I know her schedule's pretty darn busy.
 
-Um, but I think Michael, Michael Price is here.
+But I think Michael, Michael Price is here.
 
 ## Michael Pierre Price [35:21](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2121s)
 
@@ -384,11 +384,11 @@ Ah, Roz apparently knew your work before
 
 ## Michael Pierre Price [35:26](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2126s)
 
-I moved you here before you even seeing it. Um, yeah. Are you going to say something first or do you want me to just, just get right into it?
+I moved you here before you even seeing it. Yeah. Are you going to say something first or do you want me to just, just get right into it?
 
 ## Davonte Bradley [35:37](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2137s)
 
-Um, I was actually just kind of looking at it again.
+I was actually just kind of looking at it again.
 
 ## Michael Pierre Price [35:40](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2140s)
 
@@ -400,7 +400,7 @@ So I, I love, I love this one. I, I love the fact that it's a triptych for one. 
 
 ## Michael Pierre Price [36:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=2194s)
 
-End up happening at two windows at night and um, And I was really fascinated by C's work that she was taking, modernizing, if you will, sort of old, religious, thematic, kind of Renaissance-type pieces. Like she had the Virgin Mary in one piece with a cell phone, with a TV, and she was doing it in a respectful way. She wasn't doing things in any sort of mocking tone, but she was looking, it seemed to me that she was coming from a place of wanting to modernize sort of the feeling that art had been, that was really important back then for religious themes. Obviously the church was the sponsorship of most of the artists back then.
+End up happening at two windows at night and, And I was really fascinated by C's work that she was taking, modernizing, if you will, sort of old, religious, thematic, kind of Renaissance-type pieces. Like she had the Virgin Mary in one piece with a cell phone, with a TV, and she was doing it in a respectful way. She wasn't doing things in any sort of mocking tone, but she was looking, it seemed to me that she was coming from a place of wanting to modernize sort of the feeling that art had been, that was really important back then for religious themes. Obviously the church was the sponsorship of most of the artists back then.
 
 And there was something about her work that really resonated with me. Even though my aesthetic is different than hers, I felt a real connection. So I contacted her, we decided to do the partnership. And I liked the idea of the old work, but I also liked the idea of the religious triptychs. And she was a big fan of that as well. And I said, okay, well, let's try to come up with our own triptych. And so we did our collaboration a little bit differently than others, I have to say. Our collaboration was primarily brainstorming and then doing preliminary, doing preliminary sketches, me doing preliminary sort of mockups of using some of my AI software.
 
@@ -562,7 +562,7 @@ I really do.
 
 ## Davonte Bradley [52:59](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3179s)
 
-But all right. Well, thank you. Thank you, Michael. For, for your time and your part of this amazing project. And I hope you get a chance to participate later. Like I think that that's one of the things. I love, I would love to see your work with other other artists as well. All right. Let's move right along. Cause I'm realizing that we are now an hour in. And. We are at just under halfway through everything.
+But all right. Well, thank you. Thank you, Michael. For, for your time and your part of this amazing project. And I hope you get a chance to participate later. Like I think that's one of the things. I love, I would love to see your work with other artists as well. All right. Let's move right along. Cause I'm realizing that we are now an hour in. And. We are at just under halfway through everything.
 
 So sorry about that folks. I'm going to try to speed things up a little bit. But. So we have the collaboration between Michael Pointer again, and Carol Ramon. Or Ramon D Ramon.
 
@@ -590,7 +590,7 @@ I did a kind of. A more. My work was on the gray one that it was more dystopian 
 
 ## Michael Pointer [55:37](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3337s)
 
-One of the interesting things about that piece is that the, uh, I, I traveled with a mind company with you mind. Those people are, are mimes performing a piece called angels rise. So it. Did it. It works really well. In that context.
+One of the interesting things about that piece is that the, I, I traveled with a mind company with you mind. Those people are, are mimes performing a piece called angels rise. So it. Did it. It works really well. In that context.
 
 ## Davonte Bradley [56:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3362s)
 
@@ -614,7 +614,7 @@ Yeah. This will be perfect as an NFT also. It will be really successful. I think
 
 ## Davonte Bradley [57:09](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3429s)
 
-I remember when I first saw that I was almost getting like, um, like the serpent from the Genesis story. Um, that was, that was what immediately came to mind.
+I remember when I first saw that I was almost getting like, like the serpent from the Genesis story. That was, that was what immediately came to mind.
 
 ## Unattributed [57:21](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3441s)
 
@@ -622,7 +622,7 @@ Yeah.
 
 ## Davonte Bradley [57:22](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3442s)
 
-And then just Michael adding on the context of the, what the, um, the mimes were doing was. Was it angels rising was the performance that we're doing. Right. So yeah, that, that fits.
+And then just Michael adding on the context of the, what the, the mimes were doing was. Was it angels rising was the performance that we're doing. Right. So yeah, that, that fits.
 
 ## Michael Pointer [57:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3454s)
 
@@ -630,11 +630,11 @@ We don't wear, we don't wear white face. All right.
 
 ## Davonte Bradley [57:40](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3460s)
 
-Now what about this one? Um, there's, there's a lot of textures going on with this one.
+Now what about this one? There's, there's a lot of textures going on with this one.
 
 ## Michael Pointer [57:46](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3466s)
 
-Well, that was, you know, Carol sent me a painting. Um, that, that was kind of a. Yeah. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing.
+Well, that was, you know, Carol sent me a painting. That, that was kind of a. Yeah. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing. It's a little bit of a different kind of thing.
 
 It's a little bit of a different kind of thing. So I'm just part of the yeah. Realities within things we don't understand.
 
@@ -672,19 +672,19 @@ All right. Now, did anyone have any questions for Caro or Michael about these tw
 
 ## Verneda Lights [01:02:12](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3732s)
 
-The colored piece looks a lot like images sent from, say, the photographing of the moon Titan, you know, the outer space photos and how you're looking at oftentimes you, they superimpose this NASA schematics from their monitoring devices. They sometimes superimpose that upon the images, the photographs being taken of a moon surface or planetary surface or something like that. And it looks like a combination of the monitoring schematics and that superimposed upon something going going on on another planet or on another moon beside our own and the face actually brings to mind the man in the moon uh
+The colored piece looks a lot like images sent from, say, the photographing of the moon Titan, you know, the outer space photos and how you're looking at oftentimes you, they superimpose this NASA schematics from their monitoring devices. They sometimes superimpose that upon the images, the photographs being taken of a moon surface or planetary surface or something like that. And it looks like a combination of the monitoring schematics and that superimposed upon something going on another planet or on another moon beside our own and the face actually brings to mind the man in the moon
 
 ## Unattributed [01:03:20](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3800s)
 
-I can definitely see that yeah yeah yeah
+I can definitely see that yeah
 
 ## Davonte Bradley [01:03:23](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3803s)
 
-For the woman in the moon the woman in the moon yeah the person in the moon person yeah uh to me the whatever whatever the gender may be of this person they almost look pained or is that just me it
+For the woman in the moon the woman in the moon yeah the person in the moon person yeah to me the whatever whatever the gender may be of this person they almost look pained or is that just me it
 
 ## Verneda Lights [01:03:43](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3823s)
 
-Looks mocking to me and somewhat clownish okay sort of a winky wink type of way it definitely draws the eyes in that's for sure yeah yeah it reminds me of the um illustrations for books like Gulliver's Travels you know um yeah it's
+Looks mocking to me and somewhat clownish okay sort of a winky wink type of way it definitely draws the eyes in that's for sure yeah it reminds me of the illustrations for books like Gulliver's Travels you know yeah it's
 
 ## Davonte Bradley [01:04:10](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3850s)
 
@@ -696,7 +696,7 @@ Be interesting if for next time maybe to add the original pieces that we blend t
 
 ## Davonte Bradley [01:04:23](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3863s)
 
-That could be a thing yeah um because that's that's the only thing we only see the finished products not necessarily behind the scenes that goes on with making these yeah and how technology changes
+That could be a thing yeah because that's the only thing we only see the finished products not necessarily behind the scenes that goes on with making these yeah and how technology changes
 
 ## Caro Ramonde [01:04:35](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3875s)
 
@@ -704,11 +704,11 @@ Everything right yeah it's really interesting
 
 ## Davonte Bradley [01:04:42](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3882s)
 
-All right did anyone else have any questions or comments um that they'd like to share with um Carol or Michael I
+All right did anyone else have any questions or comments that they'd like to share with Carol or Michael I
 
 ## Michael Pierre Price [01:04:50](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3890s)
 
-Think both images are very dynamic and I like that a lot they don't feel static to me at all um and I agree I just saw Roz made a comment that there there's a mythological element to them yeah they it has that vibe and feeling to me um the snake looks like it's coming down to devour the scenery to me it's really cool looking and and they are very textural but I I like the dynamism of both pieces so well done thank
+Think both images are very dynamic and I like that a lot they don't feel static to me at all and I agree I just saw Roz made a comment that there's a mythological element to them yeah they it has that vibe and feeling to me the snake looks like it's coming down to devour the scenery to me it's really cool looking and they are very textural but I like the dynamism of both pieces so well done thank
 
 ## Caro Ramonde [01:05:24](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3924s)
 
@@ -720,11 +720,11 @@ All right well thank you for that Michael
 
 ## Caro Ramonde [01:05:42](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3942s)
 
-Um I think the artwork was perfect it was an unusual combination but it matched perfectly
+I think the artwork was perfect it was an unusual combination but it matched perfectly
 
 ## Davonte Bradley [01:05:50](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3950s)
 
-Yes yeah I'd say it meshed very well yeah all right well thank you too um and thank you Michael again for your for your second uh thank
+Yes yeah I'd say it meshed very well yeah all right well thank you too and thank you Michael again for your for your second thank
 
 ## Caro Ramonde [01:06:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3962s)
 
@@ -744,7 +744,7 @@ Right our next up we havebes we have going to havearazally we have negeen and br
 
 ## Brandon S Gellis [01:06:23](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3983s)
 
-That up we have negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these um parallel or horizontally may I share my screen for a moment and share the original um parallel or horizontally may I share my screen for a moment and share the original composition and
+That up we have negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original parallel or horizontally may I share my screen for a moment and share the original composition and
 
 ## Unattributed [01:06:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3994s)
 
@@ -752,7 +752,7 @@ Then
 
 ## Brandon S Gellis [01:06:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3994s)
 
-We can talk about that yeah and then later on I'll update it on the website yeah um thank you me and negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these um parallel or horizontally may I share my screen for a moment and share the original composition and then we can talk about that yeah and then later on I'll update it on the website yeah um thank you And Nagin, do you want to jump in first and talk?
+We can talk about that yeah and then later on I'll update it on the website yeah thank you me and negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original composition and then we can talk about that yeah and then later on I'll update it on the website yeah thank you And Nagin, do you want to jump in first and talk?
 
 ## Negin Ehtesabian [01:06:47](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4007s)
 
@@ -828,7 +828,7 @@ And just the grid structure that the platform has, I wasn't sure, but ended up w
 
 Poetic work. Gives a scroll painting feeling. The aesthetic is very cohesive. It has a lot of synergy. It's very It has a calligraphic feeling. A narrative that flows. And under the sea, unnatural, but beautiful and scary. Yeah. Yeah. And I guess you wouldn't be able to get like the full breadth of the experience looking at them side to side like this.
 
-But this this version will not be the final version. So just keep that in mind if you're tuning in.
+But this version will not be the final version. So just keep that in mind if you're tuning in.
 
 ## Michael Pierre Price [01:16:08](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4568s)
 
@@ -1098,7 +1098,7 @@ Least, we have Deanne and Tommy's collab. Which actually includes text on two th
 
 ## Deann Stein Hasinoff [01:30:06](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5406s)
 
-I'll let Tommy go. Are you still here, Tommy? Because he has to go to class at four. Oh, uh, he's still here.
+I'll let Tommy go. Are you still here, Tommy? Because he has to go to class at four. Oh, he's still here.
 
 ## Davonte Bradley [01:30:13](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5413s)
 
@@ -1106,13 +1106,13 @@ Yeah. I'm not sure if my microphone's been working at all. So I'm just trying to
 
 ## Tommy Mintz [01:30:21](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5421s)
 
-Oh, good. Well, I wasn't trying to talk until now. So it's totally fine. Yeah, I mean, I do have to run. I have like five more minutes before I gotta go. So I'll just maybe say how great this was, first of all, as a process. Deanne, this is like a wonderful kind of thing to look back on now. This is it feels like it was a long time ago. Right? We had a bunch of Wow. Yeah. Um, Conversations that we were sort of I feel like this was the depths of Covid pandemic that we were working together in and talking about place and the sort of effect of what was going on in the places we were in.
+Oh, good. Well, I wasn't trying to talk until now. So it's totally fine. Yeah, I mean, I do have to run. I have like five more minutes before I gotta go. So I'll just maybe say how great this was, first of all, as a process. Deanne, this is like a wonderful kind of thing to look back on now. This is it feels like it was a long time ago. Right? We had a bunch of Wow. Yeah. Conversations that we were sort of I feel like this was the depths of Covid pandemic that we were working together in and talking about place and the sort of effect of what was going on in the places we were in.
 
 And similarities, both in our experience and also then the visual things that we were talking about. Finding in each other's work. The shapes that, yeah, I think we're looking at here, we're begun, we send stuff back and forth a lot. And gosh, do you know, do you remember how many times we exchanged?
 
 ## Deann Stein Hasinoff [01:31:37](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5497s)
 
-Yeah, so I would just play around with different things. We were using Sketches Pro to share our work back and forth. And I would just bombard Tommy with a whole bunch of stuff. He would take it and make sense of it. A lot of the time. We were coming from two different places. Like I was reading a book called _The Midnight Library_, which was talking about like alternate versions of your own life, like infinite versions of your own life. And and then in context with the pandemic, and then so I in talking Tommy sent me these really amazing images of like from his algorithm. One was an accordion player and then one was of a streetscape. And I was completely obsessed with the accordion player. I'm sure he was like, all right, give me a card and play a rest already.
+Yeah, so I would just play around with different things. We were using Sketches Pro to share our work back and forth. And I would just bombard Tommy with a whole bunch of stuff. He would take it and make sense of it. A lot of the time. We were coming from two different places. Like I was reading a book called _The Midnight Library_, which was talking about like alternate versions of your own life, like infinite versions of your own life. And then in context with the pandemic, and then so I in talking Tommy sent me these really amazing images of like from his algorithm. One was an accordion player and then one was of a streetscape. And I was completely obsessed with the accordion player. I'm sure he was like, all right, give me a card and play a rest already.
 
 ## Tommy Mintz [01:32:26](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5546s)
 
@@ -1130,15 +1130,15 @@ I had a cousin that passed away from COVID. And, you know, we're just processing
 
 ## Deann Stein Hasinoff [01:34:00](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5640s)
 
-And I think you know that um we never really decided any of these things were done we just sort of it was sort of like you are done now because you need to give us your images we probably could have worked on them like kept exchanging back and forth for you know quite a while longer we were having really a lot of fun with the process I think was was what it came down to so and
+And I think you know that we never really decided any of these things were done we just sort of it was sort of like you are done now because you need to give us your images we probably could have worked on them like kept exchanging back and forth for you know quite a while longer we were having really a lot of fun with the process I think was what it came down to so and
 
 ## Davonte Bradley [01:34:26](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5666s)
 
-You know what if you if you guys wanted to continue I'm not gonna stop here like this is just I just needed stuff to be able to put in this exhibition like if you wanted to keep going by all means continue to collaborate like as I get as I said before I just laid the foundation you guys build whatever on top of that foundation that you see fit and it can go as high or for as long as you wanted to but this my my favorite one of these I think it's this one that actually doesn't have any text on it but there is so much here there is so much here and my eyes were immediately you're drawn to like the two well the only two words that I could say anyway like or rejoice up here at the top and then live down here in the bottom left corner
+You know what if you if you guys wanted to continue I'm not gonna stop here like this is just I just needed stuff to be able to put in this exhibition like if you wanted to keep going by all means continue to collaborate like as I get as I said before I just laid the foundation you guys build whatever on top of that foundation that you see fit and it can go as high or for as long as you wanted to but this my favorite one of these I think it's this one that actually doesn't have any text on it but there is so much here there is so much here and my eyes were immediately you're drawn to like the two well the only two words that I could say anyway like or rejoice up here at the top and then live down here in the bottom left corner
 
 ## Deann Stein Hasinoff [01:35:19](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5719s)
 
-Yeah we're inspired by the accordion player yeah yeah that
+Yeah we're inspired by the accordion player yeah that
 
 ## Davonte Bradley [01:35:26](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5726s)
 
@@ -1146,15 +1146,15 @@ Accordion player who may not actually be Tommy himself
 
 ## Tommy Mintz [01:35:32](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5732s)
 
-That's that's me wrapped in the depths of winter when I go out to the river and spare my life and my family accordion practicing and actually this is a really interesting one to me I'm looking back on it now I remember Deanne sent me a version that had sort of some repetition going on in the right hand side that we retained above this bicyclist that we were discussing you know sort of in negative form there in the lower right hand there's what appears to me right now sort of within sort of recent conversation in the media especially are the twin towers seeming to burn in the distance and actually this picture is of barrack street which is lower seventh avenue um seven avenue south right um sort of looking south it was haunting because this picture didn't have that in it with the one I sent but somehow Deanne with this sort of process um it popped up in there when she sent me a version so that was really cool yeah
+That's me wrapped in the depths of winter when I go out to the river and spare my life and my family accordion practicing and actually this is a really interesting one to me I'm looking back on it now I remember Deanne sent me a version that had sort of some repetition going on in the right hand side that we retained above this bicyclist that we were discussing you know sort of in negative form there in the lower right hand there's what appears to me right now sort of within sort of recent conversation in the media especially are the twin towers seeming to burn in the distance and actually this picture is of barrack street which is lower seventh avenue seven avenue south right sort of looking south it was haunting because this picture didn't have that in it with the one I sent but somehow Deanne with this sort of process it popped up in there when she sent me a version so that was really cool yeah
 
 ## Unattributed [01:36:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5794s)
 
-I mean if he has enough credit I mean I could probably write about it but I don't know if he has enough credit but I think he's probably going to write about it in the future and the the um pixelation
+I mean if he has enough credit I mean I could probably write about it but I don't know if he has enough credit but I think he's probably going to write about it in the future and the pixelation
 
 ## Deann Stein Hasinoff [01:36:40](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5800s)
 
-Aspect of this couple of them that was just an accident I was trying to copy and paste from one app to another and ended up copying this like blown up one small section that gave me these really interesting pixelations and then I just kind of and then we just kind of went with it and started layering that into the images as well so you know it was sort of a series of you know just go with the flow and and see what comes of it which I really enjoyed I really enjoyed the whole process
+Aspect of this couple of them that was just an accident I was trying to copy and paste from one app to another and ended up copying this like blown up one small section that gave me these really interesting pixelations and then I just kind of and then we just kind of went with it and started layering that into the images as well so you know it was sort of a series of you know just go with the flow and see what comes of it which I really enjoyed I really enjoyed the whole process
 
 ## Davonte Bradley [01:37:10](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5830s)
 
@@ -1162,11 +1162,11 @@ Good and that goes back to the whole thing about artifacts earlier like they pop
 
 ## Deann Stein Hasinoff [01:37:38](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5858s)
 
-Exactly it's it's just really and then Tommy I love this one that Tommy did because he took a whole bunch of different images and really collaged them in a really interesting way to me then we layered on the pixelation parts and I think it came together really well
+Exactly it's just really and then Tommy I love this one that Tommy did because he took a whole bunch of different images and really collaged them in a really interesting way to me then we layered on the pixelation parts and I think it came together really well
 
 ## Davonte Bradley [01:37:52](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5872s)
 
-I inclined to agree one thing too that I noticed this shape right up here at the top left like the left of rejoice is that a str like like what what is that it's
+I inclined to agree one thing too that I noticed this shape right up here at the top left like the left of rejoice is that a str like what is that it's
 
 ## Unattributed [01:38:09](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5889s)
 
@@ -1174,7 +1174,7 @@ A traffic light okay
 
 ## Davonte Bradley [01:38:11](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5891s)
 
-That's why I thought it was I was like it it looks like a traffic light but I'm not entirely sure but okay yeah
+That's why I thought it was I was like it looks like a traffic light but I'm not entirely sure but okay yeah
 
 ## Deann Stein Hasinoff [01:38:19](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5899s)
 
@@ -1182,7 +1182,7 @@ The streetscape image that Tommy sent was really interesting and I was trying to
 
 ## Unattributed [01:38:48](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5928s)
 
-And the traffic light is repeated I think on the right hand side yeah it is um once you
+And the traffic light is repeated I think on the right hand side yeah it is once you
 
 ## Tommy Mintz [01:38:53](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5933s)
 
@@ -1194,15 +1194,15 @@ On the bottom right corner like down here right yeah it's
 
 ## Tommy Mintz [01:39:02](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5942s)
 
-The same traffic light same traffic light and actually next to the one all the way on the right you can see the current world trade center in sort of a white outline the the I think one of the original images for this were was a um what I'd call an alpha channel or a layer mask that I generated for my work that is just black and white uh and and often has these strange outlines that pop up and yeah you can make out the current world trade center there and that's why I was so strange to see the other one ghosted in front of it right I've been listening to ghost stories too much there's
+The same traffic light same traffic light and actually next to the one all the way on the right you can see the current world trade center in sort of a white outline the I think one of the original images for this were was a what I'd call an alpha channel or a layer mask that I generated for my work that is just black and white and often has these strange outlines that pop up and yeah you can make out the current world trade center there and that's why I was so strange to see the other one ghosted in front of it right I've been listening to ghost stories too much there's
 
 ## Davonte Bradley [01:39:41](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5981s)
 
-Um quite a few people definitely getting Rauschenberg um vibes from this um yeah there's quite a few people
+Quite a few people definitely getting Rauschenberg vibes from this yeah there's quite a few people
 
 ## Michael Pierre Price [01:39:54](https://www.youtube.com/watch?v=cYU7eKBcCto&t=5994s)
 
-Before you have to leave uh I have to say that both your work and the Anne's work that I really been drawn to are your black and whites so I'm curious as to I mean I see black and white elements in some of these but that there's color in each of these images so I'm curious did that just sort of organically come about or did you not want to do a black and white the collaborative image
+Before you have to leave I have to say that both your work and the Anne's work that I really been drawn to are your black and whites so I'm curious as to I mean I see black and white elements in some of these but that there's color in each of these images so I'm curious did that just sort of organically come about or did you not want to do a black and white the collaborative image
 
 ## Deann Stein Hasinoff [01:40:28](https://www.youtube.com/watch?v=cYU7eKBcCto&t=6028s)
 
@@ -1210,7 +1210,7 @@ We never really discussed it actually I think it just sort of happened organical
 
 ## Tommy Mintz [01:40:35](https://www.youtube.com/watch?v=cYU7eKBcCto&t=6035s)
 
-A lot of them started black and white though I think yeah adding you had certain elements like that yellow Blotch was something in the beginning right we kept using it in different ways I forget where that came from but that was one of your pieces I think that we were sort of pixelating and abstracting further as we sent it back and forth so Michael it's interesting I mean as Dan said we didn't consciously add color but I I think we definitely were looking at each other's black and white pictures as starting points. And you could see them being very dominant in this. And honestly, maybe we picked, we had so many more, Dan, that we sent back and forth. And we were continuing to go and then we're like, oh, wait, we got to send in four. And so we might have picked the most colorful ones. I don't know.
+A lot of them started black and white though I think yeah adding you had certain elements like that yellow Blotch was something in the beginning right we kept using it in different ways I forget where that came from but that was one of your pieces I think that we were sort of pixelating and abstracting further as we sent it back and forth so Michael it's interesting I mean as Dan said we didn't consciously add color but I think we definitely were looking at each other's black and white pictures as starting points. And you could see them being very dominant in this. And honestly, maybe we picked, we had so many more, Dan, that we sent back and forth. And we were continuing to go and then we're like, oh, wait, we got to send in four. And so we might have picked the most colorful ones. I don't know.
 
 You know, it's an interesting question.
 

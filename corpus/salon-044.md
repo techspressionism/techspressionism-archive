@@ -28,7 +28,7 @@ Take it away, Suzanne.
 
 ## Suzanne Anker [01:13](https://www.youtube.com/watch?v=PecHOYGSnWY&t=73s)
 
-Thanks so much everyone for joining us. Colin will be showing my work since my computer is set in a different way. But my work in the show are three dimensional. So I'm going to start with the first one. The second one is called Raushak Tests. And Raushak tests were originally conceived of as ambiguous forms that were for schizophrenic patients. And eventually they became projective tests for other psychological reasons. But what's really interesting about the word Raushak, who is the founder of this text, text is he originally started out to be an artist and he got this idea about the ambiguity of images from a children's game called blotto and when I started to investigate Rorschach tests I was very curious about the way that coastlines or complex mathematical systems could essentially be enumerated through computer technology this is not something I could have made in any other way and what happens uh with these three-dimensional objects they become images of the imagination that you can hold in your hand.
+Thanks so much everyone for joining us. Colin will be showing my work since my computer is set in a different way. But my work in the show are three dimensional. So I'm going to start with the first one. The second one is called Raushak Tests. And Raushak tests were originally conceived of as ambiguous forms that were for schizophrenic patients. And eventually they became projective tests for other psychological reasons. But what's really interesting about the word Raushak, who is the founder of this text, text is he originally started out to be an artist and he got this idea about the ambiguity of images from a children's game called blotto and when I started to investigate Rorschach tests I was very curious about the way that coastlines or complex mathematical systems could essentially be enumerated through computer technology this is not something I could have made in any other way and what happens with these three-dimensional objects they become images of the imagination that you can hold in your hand.
 
 Some are large scale, some are small scale, some are plaster, some are bronze. And what happens when they turn into three dimensions is new metaphors are evoked. So that what was once an inkblot now looks like a body part, or a crab or a bear or some other kind of bone structure. This is true for all ambiguous kinds of images, which I think technology is well suited now to explore.
 
@@ -322,23 +322,23 @@ This is this is the steel, steel back polymer plate. And this is how the image e
 
 Folded it over. It would look very much like a Rorschach in a way. Colin Because one thing comes from another. But in this particular case where I've developed the image, I then inked it differently on the plate, put a piece of paper down on top of it, and then cranked it through the press. Looked at it and in the case behind me is how the other ones looked. I really didn't like them too much. And I have this habit of changing what I do and not knowing where I'm going until I'm doing it. And finally it changed and evolved into what it became.
 
-So and this is to me the exciting thing about making art is the unknown, the journey of not knowing exactly where you're going. What's going to happen what's it what is it going to look like so in these particular cases the uh the print came off the press and then I looked at and examined it and said okay what am I going to do with it now and I used acrylics and uh caran d'ache crayons and uh even ballpoint pen whatever it takes uh the interesting thing is I don't always remember what I do until afterwards and I look at and I have to examine and say oh yeah I guess I used this or that material the material isn't really as important with what the final outcome is uh because that's where where it's uh where it tells the full story of whether it's it succeeds or not in my eyes so I've been doing this kind of thing and now I'm getting into a little bit more technology of uh and I have I have to say I have a partner with this technology that partner is nature and uh the idea of using nature as my technological partner using how nature rusts and corrodes things and then I work into them further and that's into the series that I'm currently working with in asap's fable series uh that's actually going to be um we'll be doing some work along with the pianist uh axel quinky at ltv and um august 23rd in the evening and be able to show what's going to be going on there so um thank you very much for this opportunity to to share with everyone and also for everyone sharing with me thank you yeah
+So and this is to me the exciting thing about making art is the unknown, the journey of not knowing exactly where you're going. What's going to happen what's it what is it going to look like so in these particular cases the print came off the press and then I looked at and examined it and said okay what am I going to do with it now and I used acrylics and caran d'ache crayons and even ballpoint pen whatever it takes the interesting thing is I don't always remember what I do until afterwards and I look at and I have to examine and say oh yeah I guess I used this or that material the material isn't really as important with what the final outcome is because that's where it's where it tells the full story of whether it's it succeeds or not in my eyes so I've been doing this kind of thing and now I'm getting into a little bit more technology of and I have I have to say I have a partner with this technology that partner is nature and the idea of using nature as my technological partner using how nature rusts and corrodes things and then I work into them further and that's into the series that I'm currently working with in asap's fable series that's actually going to be we'll be doing some work along with the pianist axel quinky at ltv and august 23rd in the evening and be able to show what's going to be going on there so thank you very much for this opportunity to share with everyone and also for everyone sharing with me thank you yeah
 
 ## Steve Miller [47:15](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2835s)
 
-Thank you dan great to get a little studio visit there one nice thing about zoom is is peeking behind everybody's uh image and seeing you know a little bit of a studio in the background I know people enjoy that and I'm going to show you a little bit of a studio in the background and uh and uh thanks for giving us uh a look at your studio as well dan and I
+Thank you dan great to get a little studio visit there one nice thing about zoom is peeking behind everybody's image and seeing you know a little bit of a studio in the background I know people enjoy that and I'm going to show you a little bit of a studio in the background and thanks for giving us a look at your studio as well dan and I
 
 ## Colin Goldberg [47:32](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2852s)
 
-I just wanted to also add one one note about dan I don't know if you had mentioned it in in um your commentary but you actually um developed or helped develop the whole solar plate process correct I
+I just wanted to also add one note about dan I don't know if you had mentioned it in your commentary but you actually developed or helped develop the whole solar plate process correct I
 
 ## Dan Welden [47:45](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2865s)
 
-Did I did and um and And the interesting connection actually that Colin and I have is his professor was one of my students. And so that was at Janet Bowick at Bowling Green University, chairman of the printmaking department was, I think, Colin, your mentor, right?
+Did I did and the interesting connection actually that Colin and I have is his professor was one of my students. And so that was at Janet Bowick at Bowling Green University, chairman of the printmaking department was, I think, Colin, your mentor, right?
 
 ## Colin Goldberg [48:08](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2888s)
 
-Yeah, I had her for a graduate printmaking class at BGSU. And she said, hey, you're from Long Island. You know, do you know Dan Welden? Because we were learning solar. Printing at the time and I said I didn't and she said well you should look him up he invented this um so when I looked him up I realized that um dan lived lives about 10 minutes from where I grew up. So over Christmas break, we did a studio visit. And, you know, it's been amazing getting to know you and your work and really pleased that I could include you in the exhibition.
+Yeah, I had her for a graduate printmaking class at BGSU. And she said, hey, you're from Long Island. You know, do you know Dan Welden? Because we were learning solar. Printing at the time and I said I didn't and she said well you should look him up he invented this so when I looked him up I realized that dan lived lives about 10 minutes from where I grew up. So over Christmas break, we did a studio visit. And, you know, it's been amazing getting to know you and your work and really pleased that I could include you in the exhibition.
 
 ## Dan Welden [48:40](https://www.youtube.com/watch?v=PecHOYGSnWY&t=2920s)
 
@@ -352,11 +352,11 @@ Thank you, gentlemen. It's not surprising. We heard about the first word of vide
 
 Hi, all. Thank you for having me. I'm really thrilled to hear so many interesting discussions that have been going on. It's great to hear people really just talk about what their intent and their content is about. And I appreciate my being able to share some of this. Thanks, you all, for inviting me. The biggest issue that I'm learning from everybody else, and this is my main issue, is why? Why do I do this? What is this about? Why have I spent my life always trying to create either tableaus or Alice in Wonderland scapes to invite people in to look at the content and maybe experience something in a new way about social injustice, about underserved communities, topics of oppression, and so on. And I think it's really important that we have a way to do that. And I think that's what is going to be so important.
 
-And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's going to be so important. And I think that's what is going to be so important. And I think that's going to be so important. And I think that's what is going to be so important.
+And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's what is going to be so important. And I think that's going to be so important. And I think that's what is going to be so important. And I think that's going to be so important. And I think that's what is going to be so important.
 
-And I think that's people, all of us, share being in the community of human beings. Human beings, we just all have been either excluded, unfairly dealt with, for myriad reasons. So for me, making art has always had this particular focus to bring people into a, either whether it's a physical installation or video projections, bring them in and have them experience it and think, wow, this is something I can be part of to change because I don't like what's happening. For this Techspressionist show, um, one of my biggest, um, concerns has always been unsung sheroes, um, unsung sheroes in science and, um, um, unsung sheroes in all walks of life. Um, and I chose to work on, with this woman, uh, Emmy Noether, who I found a really fascinating, um, scientist that she really should be as well known as, uh, Einstein from my perspective.
+And I think that's people, all of us, share being in the community of human beings. Human beings, we just all have been either excluded, unfairly dealt with, for myriad reasons. So for me, making art has always had this particular focus to bring people into a, either whether it's a physical installation or video projections, bring them in and have them experience it and think, wow, this is something I can be part of to change because I don't like what's happening. For this Techspressionist show, one of my biggest, concerns has always been unsung sheroes, unsung sheroes in science and,, unsung sheroes in all walks of life. And I chose to work on, with this woman, Emmy Noether, who I found a really fascinating, scientist that she really should be as well known as, Einstein from my perspective.
 
-My personal perspective. Um, and, um, there, I created these two, uh, like tableau pieces, like architectural windows, um, faux windows for you, uh, the public to enter, enter, look at these windows, into these windows with moving shutters, digital shutters that give you glimpses into the practice and the life of works of, and we know they're from two different perspectives, each screen in conversation with each other.
+My personal perspective. And, there, I created these two, like tableau pieces, like architectural windows, faux windows for you, the public to enter, enter, look at these windows, into these windows with moving shutters, digital shutters that give you glimpses into the practice and the life of works of, and we know they're from two different perspectives, each screen in conversation with each other.
 
 ## Unattributed [53:00](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3180s)
 
@@ -364,11 +364,11 @@ Can you see this?
 
 ## Steve Miller [53:02](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3182s)
 
-Yeah, Nina, do you want to uh I know you're yeah it's on the screen share do you want to uh bring that up yes I'm okay I'm
+Yeah, Nina, do you want to I know you're yeah it's on the screen share do you want to bring that up yes I'm okay I'm
 
 ## Unattributed [53:10](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3190s)
 
-Trying to find it's not coming here right now that'd be the problem with it um hold on hold on hold on it's not showing up and he has to be closed you
+Trying to find it's not coming here right now that'd be the problem with it hold on hold on hold on it's not showing up and he has to be closed you
 
 ## Nina Yankowitz [53:23](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3203s)
 
@@ -510,7 +510,7 @@ And I'm really happy that I was able to work with Colin and have this experience
 
 I have a three part series about energy and environment that starts started in the in the Amazon. And in my experience of seeing how the Amazon was deforested and how it's used using Brazil as an example of that and there was this idea that if the Amazon was the lungs of the planet, I could actually give the planet, a metaphorical checkup by doing x rays of the floor and fauna the Amazon so this book is really.
 
-So I'm going to start with the off and that's that's the first thing I'm going to just start with the first thing I'm going to work on and that's the big first thing I'm going to say is I'm going to need to think about is that I'm going to have to think about is that I'm going to have to think about that the world is... 90 degrees clockwise, you'll see a landscape and a window on a wall in the favela. So I love the idea of rotating. And I have to say that I initially showed this at the National Academy of Sciences in the show about the Amazon called Health of the Planet. And then Colin selected this. And I love the idea that he emboldened me to look at it from another perspective. So you're looking at satellite views in pink of deforestation in the Amazon, and the black in the center is a type of fern that I photographed in the jungle.
+So I'm going to start with the off and that's the first thing I'm going to just start with the first thing I'm going to work on and that's the big first thing I'm going to say is I'm going to need to think about is that I'm going to have to think about is that I'm going to have to think about that the world is... 90 degrees clockwise, you'll see a landscape and a window on a wall in the favela. So I love the idea of rotating. And I have to say that I initially showed this at the National Academy of Sciences in the show about the Amazon called Health of the Planet. And then Colin selected this. And I love the idea that he emboldened me to look at it from another perspective. So you're looking at satellite views in pink of deforestation in the Amazon, and the black in the center is a type of fern that I photographed in the jungle.
 
 And then the black lines are also maps of cities and deforestation of the Amazon. So the Amazon became kind of a metaphor for me of what's going on in the planet. I know a lot of you have all talked about that. And we can open it up. I don't know how we're going to do this. Did people know how to do raised hand? If you go to the reaction button on your screen at the bottom of the toolbar, and if you click on that, you can do a raised hand. And if I see your raised hand, if there are questions, yeah, you can ask the question and I'll identify you. Or you can also type something in the chat.
 
@@ -566,7 +566,7 @@ But these different installations that dealt with participation, interactive par
 
 ## Steve Miller [01:15:54](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4554s)
 
-Thank you nina um suzanne
+Thank you nina suzanne
 
 ## Unattributed [01:15:57](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4557s)
 
@@ -574,11 +574,11 @@ You can jump in but I just want to preface
 
 ## Steve Miller [01:16:01](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4561s)
 
-Suzanne yes um just to answer michael's thing about where it's going suzanne started something at the school of visual arts called the bio lab which she maybe uh say something about but that you know the idea that a bio lab would be a new technology experience of fine art a new medium is is pretty revolutionary so I just I don't know if you're leading it without tuesday I wanted to mention that well
+Suzanne yes just to answer michael's thing about where it's going suzanne started something at the school of visual arts called the bio lab which she maybe say something about but that you know the idea that a bio lab would be a new technology experience of fine art a new medium is pretty revolutionary so I just I don't know if you're leading it without tuesday I wanted to mention that well
 
 ## Suzanne Anker [01:16:27](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4587s)
 
-Thank you very much but uh biology is technology and technology is biology but I want to address the elephant in the room because all of this technology is essentially embedded in what we call the information age which is really the disinformation age so there is a a series of downsides with social media with fake news and with the ways in which technology now has alienated us even further from being human so I just wanted to make that as a comment that this is not the great panacea but this comes with consequences and the same way in which tv changed your brain technology is now changing our brain and for better and for worse
+Thank you very much but biology is technology and technology is biology but I want to address the elephant in the room because all of this technology is essentially embedded in what we call the information age which is really the disinformation age so there is a series of downsides with social media with fake news and with the ways in which technology now has alienated us even further from being human so I just wanted to make that as a comment that this is not the great panacea but this comes with consequences and the same way in which tv changed your brain technology is now changing our brain and for better and for worse
 
 ## Steve Miller [01:17:35](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4655s)
 
@@ -586,13 +586,13 @@ Thank you suzanne
 
 ## Colin Goldberg [01:17:37](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4657s)
 
-Okay we can open it up for comment we have a few more minutes if somebody wants I just wanted to say something real quick steve um you know I think it's important to note that um the you know the show impressionism digital and beyond is happening in southampton on the east end of long island and I I really don't think it's a coincidence that um it's happening very close to where pollock and a lot of the abstract expressionist painters did their seminal work in fact I think I'm going to make a point that at least for me for this show we're going to do a little bit of a I think that's that's the first thing that we're going to do that's that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the paint splattered floor.
+Okay we can open it up for comment we have a few more minutes if somebody wants I just wanted to say something real quick steve you know I think it's important to note that the you know the show impressionism digital and beyond is happening in southampton on the east end of long island and I really don't think it's a coincidence that it's happening very close to where pollock and a lot of the abstract expressionist painters did their seminal work in fact I think I'm going to make a point that at least for me for this show we're going to do a little bit of a I think that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the first thing that we're going to do that's the paint splattered floor.
 
 And it was a very, you know, it was a very almost spiritual moment in the sense that I sort of almost felt like his presence there. It was strange, you know, and I also had been, you know, working with computers, you know, as, as a kid, I had a Commodore and through the eighties did work with computers, but was exposed to the expressionist ABEX people at the time, and then studied under an abstract expressionist. So I think it's interesting that this show is happening, you know, where abstract expressionism originated to a large degree. I mean, people might say also downtown New York city. But I just, you know, I wanted to put that out there and see if anybody had any thoughts about that and you know, relevant to Techspressionism as a continuation of sort of expressionist thought or ideology.
 
 ## Patrick Lichty [01:19:30](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4770s)
 
-If I can jump in just a second, I think that in, in general I think I was doing some writing on this as the idea of like the resonance of, of account of ideas that, you know, came that keeps coming back. In other words, it's it's like the expressionist, then the ABEX Nia and Nios. And it's once again, as you know, as culture develops, as Kandinsky said, you know, the, a cultural expression of its time. And I think the idea is that the affective, you know, the emotional is you know, is, is a primary human dimension and you know, it keeps kind of keeps maybe putting on a different coat for, you know, a different occasion, but it's, it's here we are.
+If I can jump in just a second, I think that in, in general I think I was doing some writing on this as the idea of like the resonance of, of account of ideas that, you know, came that keeps coming back. In other words, it's like the expressionist, then the ABEX Nia and Nios. And it's once again, as you know, as culture develops, as Kandinsky said, you know, the, a cultural expression of its time. And I think the idea is that the affective, you know, the emotional is you know, is, is a primary human dimension and you know, it keeps kind of keeps maybe putting on a different coat for, you know, a different occasion, but it's, it's here we are.
 
 ## Steve Miller [01:20:21](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4821s)
 
@@ -676,7 +676,7 @@ Helen has been very much the guiding light, the historical perspective, auteur, 
 
 ## Colin Goldberg [01:26:53](https://www.youtube.com/watch?v=PecHOYGSnWY&t=5213s)
 
-Is actually the first person to use the term expressionism in print as well. She wrote the first essay, you know, about about the topic back in 2011. And I'm looking forward to an upcoming essay. So stay tuned for that. We're not letting we're not letting you go, Helen.
+Is actually the first person to use the term expressionism in print as well. She wrote the first essay, you know, about the topic back in 2011. And I'm looking forward to an upcoming essay. So stay tuned for that. We're not letting we're not letting you go, Helen.
 
 ## Helen A. Harrison [01:27:13](https://www.youtube.com/watch?v=PecHOYGSnWY&t=5233s)
 
@@ -688,7 +688,7 @@ She's our trusted.
 
 ## Colin Goldberg [01:27:20](https://www.youtube.com/watch?v=PecHOYGSnWY&t=5240s)
 
-Advisor and and is very instrumental in helping to find the term. So many, many thanks, Helen, for all of your guidance and support.
+Advisor and is very instrumental in helping to find the term. So many, many thanks, Helen, for all of your guidance and support.
 
 ## Helen A. Harrison [01:27:30](https://www.youtube.com/watch?v=PecHOYGSnWY&t=5250s)
 

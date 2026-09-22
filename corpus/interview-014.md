@@ -73,27 +73,27 @@ And that's what people think we're doing now with digital, right? You just slap 
 
 ## Carter Hodgkin [06:42](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=402s)
 
-So, did you get your paint by number set? No, because I didn't get my, my tonsils taken out. Oh dear. Oh, I've made up for it. And I just, I really do love to paint. And when I have taken sculpture classes, I just, I couldn't do it. I'm not a sculptor. Um, is your interest more in 2d the 2d space? Yeah.
+So, did you get your paint by number set? No, because I didn't get my, my tonsils taken out. Oh dear. Oh, I've made up for it. And I just, I really do love to paint. And when I have taken sculpture classes, I just, I couldn't do it. I'm not a sculptor. Is your interest more in 2d the 2d space? Yeah.
 
 ## Roz Dimon [07:10](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=430s)
 
-You know, I think, um, we could talk about your process a little bit, but if you're comfortable, maybe it's always fun just to look at your work while we, you know, talk about these things. So if you're comfortable, why don't we go ahead and just share your screen? Okay. Cause I was going to ask you a little about your process. And when you said you didn't, you know, sculpture, wasn't your thing. Um, no, you dive in. It seems to me looking at some of your work a little bit. Um, I'm learning all the time as I get to know you better, even though our lives have crossed a lot in New York, which is amazing, isn't it? It really is. But there does seem to be, even though they're 2d they're, they seem to encapsulate a huge mysterious space, which I think is part of the allure of the digital. So maybe you'd like to talk more about that.
+You know, I think, we could talk about your process a little bit, but if you're comfortable, maybe it's always fun just to look at your work while we, you know, talk about these things. So if you're comfortable, why don't we go ahead and just share your screen? Okay. Cause I was going to ask you a little about your process. And when you said you didn't, you know, sculpture, wasn't your thing. No, you dive in. It seems to me looking at some of your work a little bit. I'm learning all the time as I get to know you better, even though our lives have crossed a lot in New York, which is amazing, isn't it? It really is. But there does seem to be, even though they're 2d they're, they seem to encapsulate a huge mysterious space, which I think is part of the allure of the digital. So maybe you'd like to talk more about that.
 
 And your problem.
 
 ## Carter Hodgkin [08:04](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=484s)
 
-Um, well, I've been doing this homepage. I have, um, you know, the top, the top image is my painting work, which has been influenced by my mosaic work, which is the bottom left. And then I also have expanded into animation. Um, my process is using, um, well, I was influenced as we were talking about Sol LeWitt and the idea of iteration and process and, um, um, other procedural drawing, things like that. Um, so in 2004, I had broken my leg and I was sitting around trying to think of what I was doing next. And I found processing, um, the program processing by Casey Reese and Ben Fryer, I believe their names, um, that was on the MIT website and started playing around with that. And what I like about it is, um, not only is it procedural, um, but, well, I gravitated to atomic particle collisions and now I have to backtrack and say that, um, an old friend of mine, um, is a physicist.
+Well, I've been doing this homepage. I have, you know, the top, the top image is my painting work, which has been influenced by my mosaic work, which is the bottom left. And then I also have expanded into animation. My process is using, well, I was influenced as we were talking about Sol LeWitt and the idea of iteration and process and,, other procedural drawing, things like that. So in 2004, I had broken my leg and I was sitting around trying to think of what I was doing next. And I found processing, the program processing by Casey Reese and Ben Fryer, I believe their names, that was on the MIT website and started playing around with that. And what I like about it is, not only is it procedural, but, well, I gravitated to atomic particle collisions and now I have to backtrack and say that, an old friend of mine, is a physicist.
 
-And when I was living in California, he was out there too at Stanford doing, um, experiments. And I went to visit and he showed me bubble chamber photographs and they just really intrigued me, um, for their, their random form and, uh, quirkiness and that stayed with me. And I've used, um, silkscreen, I used to silkscreen images from, uh, bubble chamber collisions
+And when I was living in California, he was out there too at Stanford doing, experiments. And I went to visit and he showed me bubble chamber photographs and they just really intrigued me, for their, their random form and, quirkiness and that stayed with me. And I've used, silkscreen, I used to silkscreen images from, bubble chamber collisions
 
 ## Roz Dimon [09:55](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=595s)
 
-And Do you mind telling me a little, uh, a bubble chamber collision? Um, can you talk a little more about that? Like what, what is that?
+And Do you mind telling me a little, a bubble chamber collision? Can you talk a little more about that? Like what, what is that?
 
 ## Carter Hodgkin [10:06](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=606s)
 
-Uh, well, I'm not a physicist, so I can't get into particle physics. But it's about splitting atoms and where all they, they capture and measure where all the particles have gone so they can try to thank you.
+Well, I'm not a physicist, so I can't get into particle physics. But it's about splitting atoms and where all they, they capture and measure where all the particles have gone so they can try to thank you.
 
 ## Roz Dimon [10:20](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=620s)
 
@@ -101,9 +101,9 @@ That does help though. That does help. I figured we were in that, that sphere fo
 
 ## Carter Hodgkin [10:25](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=625s)
 
-Thanks. So there are traces, um, actually, you know, there's a collision in their traces of, um, where the particles have gone. Um, so what I'm able to do with processing is work, uh, and a trace of the particles that are going to be in the particle. And I attribute behaviors to different particles. I've worked with four different types of particles and attribute like how much gravity or speed or I can do stuff with colors. Um, and I set off a collision and it's, it always gives a random result.
+Thanks. So there are traces, actually, you know, there's a collision in their traces of, where the particles have gone. So what I'm able to do with processing is work, and a trace of the particles that are going to be in the particle. And I attribute behaviors to different particles. I've worked with four different types of particles and attribute like how much gravity or speed or I can do stuff with colors. And I set off a collision and it's, it always gives a random result.
 
-So, um, instead of having to rely on somebody else's, um, you know, photograph somewhere that I've found, I can do this myself. And get different kinds of, um, collisions going and play around with those. So, um, like this mosaic here that I just finished, um, the collision is in the middle right here. It's that's where it starts. And then all the particles go out outward from that. Now this is an installation, right? That you've done? Well, I just finished it. It was a commission at the Mayo Clinic.
+So, instead of having to rely on somebody else's, you know, photograph somewhere that I've found, I can do this myself. And get different kinds of, collisions going and play around with those. So, like this mosaic here that I just finished, the collision is in the middle right here. It's that's where it starts. And then all the particles go out outward from that. Now this is an installation, right? That you've done? Well, I just finished it. It was a commission at the Mayo Clinic.
 
 ## Roz Dimon [11:37](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=697s)
 
@@ -119,11 +119,11 @@ And a half feet tall by almost 17 feet wide.
 
 ## Roz Dimon [11:45](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=705s)
 
-And is this done using this processing, um, technique that, uh, the software? Yeah.
+And is this done using this processing, technique that, the software? Yeah.
 
 ## Carter Hodgkin [11:53](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=713s)
 
-And so, um, here's one from Capital One. That one's really big. It's like 11 or more, almost 12 feet high. And then, um. Beautiful. Uh. And then this one is, uh, 45 feet wide. They're hard to photograph, but you can see when I do the, the closeups, you can get the part. These, um, tiles are just so gorgeous. I love getting tiles.
+And so, here's one from Capital One. That one's really big. It's like 11 or more, almost 12 feet high. And then,. Beautiful. And then this one is, 45 feet wide. They're hard to photograph, but you can see when I do the, the closeups, you can get the part. These, tiles are just so gorgeous. I love getting tiles.
 
 ## Roz Dimon [12:22](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=742s)
 
@@ -135,7 +135,7 @@ Oh yeah. Well, see, I love that.
 
 ## Carter Hodgkin [12:29](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=749s)
 
-Each tile represents a pixel in the the image. Sure, it's wonderful. So and then the first one I did was at Queens College which is harder to see because it's four, three different floors and nine columns. So these are the columns that go down the hallway. And can we still see that there?
+Each tile represents a pixel in the image. Sure, it's wonderful. So and then the first one I did was at Queens College which is harder to see because it's four, three different floors and nine columns. So these are the columns that go down the hallway. And can we still see that there?
 
 ## Roz Dimon [12:52](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=772s)
 
@@ -423,7 +423,7 @@ So much fun.
 
 ## Roz Dimon [30:49](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1849s)
 
-Yes. Like word processing that that's where you can really use your creative and. And multi. Level talents, you know?
+Yes. Like word processing that's where you can really use your creative and. And multi. Level talents, you know?
 
 ## Carter Hodgkin [30:58](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=1858s)
 
@@ -533,11 +533,11 @@ Yeah. Nice guy. Well, there are just so many points and references. Yeah. But be
 
 I would just like I was saying, I would recommend this book by Madeleine Hoy called... I think that's her name. From Point to Pixel. And it really is an in-depth understanding of a much more complex and complex art. And it's about how we can create a future of art that's more open. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it.
 
-And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's a reaction rather than like really speaking to what what what does this all mean the digital what what does that mean to the art and art history that's my question
+And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's an important part of it. And I think that's a reaction rather than like really speaking to what does this all mean the digital what does that mean to the art and art history that's my question
 
 ## Roz Dimon [38:12](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2292s)
 
-I hear you because because the deeper exploration if we're not too fearful is one of extreme excitement yeah
+I hear you because the deeper exploration if we're not too fearful is one of extreme excitement yeah
 
 ## Carter Hodgkin [38:20](https://www.youtube.com/watch?v=DEIe5Z44tx0&t=2300s)
 

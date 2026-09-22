@@ -117,7 +117,7 @@ That is very good point. Here. And I think that visual interference. Is so. Impo
 
 If it has one. And here are some of the. Rorschach pieces. They initially start out. From Herman Rorschach. Ink blots. Then a third. Access. Is. Created by the use of the software. Program called Maya. So that we have a back. And. Front. Of these pieces. I gave them my. Own names. This one is called Wolf. And as you can see in the back of the piece. That's very seashell. Like. And.
 
-I've also made them. I've I've used the rapid prototype pieces. To convert them into bronze.
+I've also made them. I've used the rapid prototype pieces. To convert them into bronze.
 
 ## Helen A. Harrison [15:04](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=904s)
 
@@ -145,15 +145,15 @@ And Thank you.
 
 ## Suzanne Anker [18:34](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1114s)
 
-And that's to eric satis music so I think that that video shows the brain in action and the of core choreography of thought that takes place when we view works of art and that includes art made by technology technology well
+And that's to eric satis music so I think that video shows the brain in action and the of core choreography of thought that takes place when we view works of art and that includes art made by technology technology well
 
 ## Helen A. Harrison [19:02](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1142s)
 
-I mean I I have to disagree with you slightly because I don't think the art is made by the technology I think the artist makes the art and then the technology enables it really it comes from your your impulse to create something and then you find the means to do it and of course colin and I are both fond of quoting jackson pollock in that regard he said technique is just a means of arriving at a statement so you're your statement comes to you through these forms that you've been able to develop through technology I
+I mean I have to disagree with you slightly because I don't think the art is made by the technology I think the artist makes the art and then the technology enables it really it comes from your impulse to create something and then you find the means to do it and of course colin and I are both fond of quoting jackson pollock in that regard he said technique is just a means of arriving at a statement so you're your statement comes to you through these forms that you've been able to develop through technology I
 
 ## Suzanne Anker [19:36](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1176s)
 
-I agree with that and and I think without though uh the ability to use the 3d technology which is rather new I could not have made the 3d rorschach test now when I was thinking about what can I do with what can I do with 3d technology um I had to think for a very long time what would be a significant image that would essentially give me new metaphors and um and as it turned out it was because I had access to this technology that I was able to realize this project so
+I agree with that and I think without though the ability to use the 3d technology which is rather new I could not have made the 3d rorschach test now when I was thinking about what can I do with what can I do with 3d technology I had to think for a very long time what would be a significant image that would essentially give me new metaphors and as it turned out it was because I had access to this technology that I was able to realize this project so
 
 ## Helen A. Harrison [20:27](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1227s)
 
@@ -165,7 +165,7 @@ This is a 3d printed is that how it's going to work yeah I think that's a good q
 
 ## Helen A. Harrison [20:35](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1235s)
 
-Then when you uh arrived at the image that you wanted you how do you translate it from two dimensions to three well
+Then when you arrived at the image that you wanted you how do you translate it from two dimensions to three well
 
 ## Suzanne Anker [20:46](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1246s)
 
@@ -177,7 +177,7 @@ And what could I do with it rather than simply replicating something but to crea
 
 ## Suzanne Anker [21:59](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1319s)
 
-And they're really a pleasure to to put in your hand particularly the bronze ones because they you know you feel kind of the weight that the imagination has as a kind of storehouse for the future wonderful
+And they're really a pleasure to put in your hand particularly the bronze ones because they you know you feel kind of the weight that the imagination has as a kind of storehouse for the future wonderful
 
 ## Helen A. Harrison [22:21](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1341s)
 
@@ -185,15 +185,15 @@ So will people at the south end of the world be able to use the technology to cr
 
 ## Suzanne Anker [22:30](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1350s)
 
-That sort of depends on um what the southampton art center allows you know in normal circumstances it's do not touch the art well
+That sort of depends on what the southampton art center allows you know in normal circumstances it's do not touch the art well
 
 ## Helen A. Harrison [22:44](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1364s)
 
-Also they uh we don't want them to have legs so to speak you got that but
+Also they we don't want them to have legs so to speak you got that but
 
 ## Suzanne Anker [22:50](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1370s)
 
-Maybe there's one that they can they can hold maybe it's at the guards desk or something and um they could be um that they could feel what this is so I think I think that the um the role of of technology and as you're talking about it's used by artists as a form of expression um um is very much of the moment and um many artists whom I know um are involved in this endeavor and it it's interesting to note also since I'm also the chair of the fine arts department at the school of visual arts and uh when this technology was first introduced to students they were very hesitant about it they thought that they wouldn't be able to make paintings anymore uh but they have now uh changed their mind and are gearing towards it and uh making some really fantastic work well
+Maybe there's one that they can they can hold maybe it's at the guards desk or something and they could be that they could feel what this is so I think I think that the role of technology and as you're talking about it's used by artists as a form of expression is very much of the moment and many artists whom I know are involved in this endeavor and it's interesting to note also since I'm also the chair of the fine arts department at the school of visual arts and when this technology was first introduced to students they were very hesitant about it they thought that they wouldn't be able to make paintings anymore but they have now changed their mind and are gearing towards it and making some really fantastic work well
 
 ## Helen A. Harrison [24:15](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1455s)
 
@@ -221,11 +221,11 @@ Yeah, quite right. But there are also the consideration that. Once you've decide
 
 ## Suzanne Anker [27:12](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1632s)
 
-I agree, and I've continued to use the rapid prototype machine for newer sculptures that are quite different, and that I'm always surprised. The outcome because it's not a hands-on experience it's kind of a mental experience of of choosing the different ways to model the item and you're not sure what you are going to get as a final result it's a collaboration with the machine and and sometimes the machine teaches you things
+I agree, and I've continued to use the rapid prototype machine for newer sculptures that are quite different, and that I'm always surprised. The outcome because it's not a hands-on experience it's kind of a mental experience of choosing the different ways to model the item and you're not sure what you are going to get as a final result it's a collaboration with the machine and sometimes the machine teaches you things
 
 ## Helen A. Harrison [28:02](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1682s)
 
-That you have not thought about hmm oh I think it's the same is true with paint learning how to use paint learning how to use clay learning how to use a camera all of these technologies and it's it's been you could even consider the pencil a technology that there are and some people handle it better than others you know people say well well why did why did Jackson Pollock use liquid paint because that's what he needed in order to get the result he was after but it led him in a direction that he probably could never have foreseen.
+That you have not thought about hmm oh I think it's the same is true with paint learning how to use paint learning how to use clay learning how to use a camera all of these technologies and it's been you could even consider the pencil a technology that there are and some people handle it better than others you know people say well well why did why did Jackson Pollock use liquid paint because that's what he needed in order to get the result he was after but it led him in a direction that he probably could never have foreseen.
 
 ## Suzanne Anker [28:39](https://www.youtube.com/watch?v=GReJ-zgJz-o&t=1719s)
 

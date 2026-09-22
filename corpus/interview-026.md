@@ -39,11 +39,11 @@ And there was my mother. I remember copying being a cartoon. And she said to me,
 
 ## Renata Janiszewska [03:32](https://www.youtube.com/watch?v=iQL826mqyFg&t=212s)
 
-It um on that one that's a good answer now I would like it I would really like it if you could make a reference to something in your brooklyn rail talk now okay
+It on that one that's a good answer now I would like it I would really like it if you could make a reference to something in your brooklyn rail talk now okay
 
 ## Nina Sobell [03:45](https://www.youtube.com/watch?v=iQL826mqyFg&t=225s)
 
-Um uh the brooklyn rail was organized by uh ann mccoy and um she is one of my present influences um she is giving talks about young um young art and alchemy and the alchemical imagination and she works with dreams and transformations and she's a quite something and she is influencing me now and um um yeah
+the brooklyn rail was organized by ann mccoy and she is one of my present influences she is giving talks about young young art and alchemy and the alchemical imagination and she works with dreams and transformations and she's a quite something and she is influencing me now and yeah
 
 ## Unattributed [04:27](https://www.youtube.com/watch?v=iQL826mqyFg&t=267s)
 
@@ -51,7 +51,7 @@ That's good that's good yeah that's just a little like segue into it
 
 ## Nina Sobell [04:33](https://www.youtube.com/watch?v=iQL826mqyFg&t=273s)
 
-So now she she she organized she she she organized these this uh brooklyn rail that was produced by brooklyn rail this um presentation that involved uh three other artists as
+So now she organized she organized these this brooklyn rail that was produced by brooklyn rail this presentation that involved three other artists as
 
 ## Renata Janiszewska [04:48](https://www.youtube.com/watch?v=iQL826mqyFg&t=288s)
 
@@ -117,7 +117,7 @@ Our collective consciousness nature allows us to perceive each individual moveme
 
 ## Nina Sobell [16:46](https://www.youtube.com/watch?v=iQL826mqyFg&t=1006s)
 
-Presupmän years old and um then uh my mother used to bring me in from long island to the to moma and I remember seeing my first giacomettis when I was like just barely 40 years old and remarking to her how much I liked them and um and and then um in the sixth grade my art teacher was jim dying and jim dying and jim dying loved my sculpture he he he we did clay sculptures with him and we built this huge chicken wire base uh sculpture in the in the attic of the school and his energy and his uh his his devotion it influenced me he used to sing he used to take us on trips into the city to see shows and go to the museums together sixth sixth grade and um and uh he said that I was an artist he liked my sculpture so much he wanted one and um I wouldn't give it to him he says you're an artist so uh I I I always knew that I was an artist before that um and uh that just cemented the deal and um when you
+Presupmän years old and then my mother used to bring me in from long island to the to moma and I remember seeing my first giacomettis when I was like just barely 40 years old and remarking to her how much I liked them and then in the sixth grade my art teacher was jim dying and jim dying and jim dying loved my sculpture he we did clay sculptures with him and we built this huge chicken wire base sculpture in the in the attic of the school and his energy and his devotion it influenced me he used to sing he used to take us on trips into the city to see shows and go to the museums together sixth sixth grade and he said that I was an artist he liked my sculpture so much he wanted one and I wouldn't give it to him he says you're an artist so I always knew that I was an artist before that and that just cemented the deal and when you
 
 ## Renata Janiszewska [18:11](https://www.youtube.com/watch?v=iQL826mqyFg&t=1091s)
 
@@ -133,7 +133,7 @@ Young they must have seemed huge to
 
 ## Nina Sobell [18:17](https://www.youtube.com/watch?v=iQL826mqyFg&t=1097s)
 
-You they were they were huge they were they're absolutely huge they were massive yeah yeah and um I remember I remember going to the museum and crying when I saw a painting of his of jean genet and um uh I I just was always an artist and um and I and I work with communication because um when I was a child there was nothing I could do about it I was just just one in the house really I mean it sounds like there was but it there wasn't it's really um and um I still remember my neighbor's phone number because I used to reach out uh by phone yeah and uh so I've used telecommunications and telepresence and communication my work all the time yeah I was at the cusp of video art and um I there were no other video artists that I had at the time so I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at I knew when I started using video.
+You they were they were huge they were they're absolutely huge they were massive yeah and I remember I remember going to the museum and crying when I saw a painting of his of jean genet and I just was always an artist and I and I work with communication because when I was a child there was nothing I could do about it I was just one in the house really I mean it sounds like there was but it there wasn't it's really and I still remember my neighbor's phone number because I used to reach out by phone yeah and so I've used telecommunications and telepresence and communication my work all the time yeah I was at the cusp of video art and I there were no other video artists that I had at the time so I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at the cusp of video art and I was at I knew when I started using video.
 
 And so I did the first known thesis in video. I see. Yeah, I did the first known thesis in video. And I, yeah, there was the Video Freaks, the Video Freaks video manual. And the librarian for Cornell, I was at Cornell for graduate school. And at Cornell, there was David Shearer. And he lent me the video equipment. He brought video equipment for students to use. And I used it to document the interaction with the sculptures that I had made. And then I recreated the, the configuration of the sculptures. It went from recreating the sculptures in video, four weeks to six second time lapse. So if you went from that, that time to the six second time lapse, it recorded you rubbing your nose. And then I went, then there was a closed circuit monitor and you went out to close the circuit monitor. That was the end of the show.
 

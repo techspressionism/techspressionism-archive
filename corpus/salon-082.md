@@ -44,7 +44,7 @@ Yes.
 
 ## Roz Dimon [01:03](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=63s)
 
-Great. I'm I'm coming to you from the booming metropolis of Shelter Island. It's out at the very end of Long Island, about 3 h from New York City, and they're 5 buses a day. So it's kind of a nice place it's it's you're out in the wilderness, but you're still connected to what I think is the greatest city in the world. New York City. I'm going to be showing you a piece. Well, I'm just gonna go into it. Okay? Cause yes, I can talk as most of you know.
+Great. I'm coming to you from the booming metropolis of Shelter Island. It's out at the very end of Long Island, about 3 h from New York City, and they're 5 buses a day. So it's kind of a nice place it's you're out in the wilderness, but you're still connected to what I think is the greatest city in the world. New York City. I'm going to be showing you a piece. Well, I'm just gonna go into it. Okay? Cause yes, I can talk as most of you know.
 
 I'm going to go ahead and just share my screen. Talk about a piece. That can everybody see my screen? Oh, I can't hear people. Oh, maybe it's cause you're mute. I've forgotten that you're muted. It's okay. I'll just wash for your heads, Bobby.
 
@@ -56,9 +56,9 @@ Doesn't we see it?
 
 Thank you. I've been working on a piece which I think a lot of. You know I've spoken about it. I've been working on a piece for off and on for 4 years. Some of you are familiar with my latest work, and that's been going on for the last 20 years alongside other work, but pieces called diamond Scapes, where you're lifting up the layers of a painting and going deep inside the story. My first one was done in about 2,004 and as our paint box has gotten more sophisticated, I'm able to do more with this and add video and other things. But the idea here is I come to this whole media as a painter who accidentally started pixels, filled my screens in the eighties in New York.
 
-And. It's progressed to this point where I'm doing these multi image pieces. But for me as a painter it's still all about painting. So you're looking at this piece. It's a little small, but we'll be going into it. It's called Garrett. This is a 3 60 degree. Look At a police shooting that happened on a night in Georgia in 2,018. I'm originally from Georgia, and the shooting was my first cousin's son. It was 3 weeks before I was showing my work at Carter Burden. The gallery I'm part of in New York, and kind of ironically and sadly. The whole show was about. We're drawings of guns and right before the opening had to go down to a funeral. My own family What happened. I just wanna give you a little background over the next year I, my cousin, will call me late at night. I'm also an interfaith minister, and and I think that had something to do. That's a big part of me and my minister side, and he was able to talk to me about the loss of his son, and we became very close. The rest of the family didn't want to hear too much, but this is a 3 suite. He he hired me to do a finally he hired me to do a diamond scape. I worked with him for a full year, my small team and I and when I was ready to show him actually just the visual component of it. It had been a year since his son died, and he couldn't even look at the piece, and I had to take. I use volumes and gigabytes of information. And just I understood, though you know he, his loss is huge. This is his only he and his wife's only child.
+And. It's progressed to this point where I'm doing these multi image pieces. But for me as a painter it's still all about painting. So you're looking at this piece. It's a little small, but we'll be going into it. It's called Garrett. This is a 3 60 degree. Look At a police shooting that happened on a night in Georgia in 2,018. I'm originally from Georgia, and the shooting was my first cousin's son. It was 3 weeks before I was showing my work at Carter Burden. The gallery I'm part of in New York, and kind of ironically and sadly. The whole show was about. We're drawings of guns and right before the opening had to go down to a funeral. My own family What happened. I just wanna give you a little background over the next year I, my cousin, will call me late at night. I'm also an interfaith minister, and I think that had something to do. That's a big part of me and my minister side, and he was able to talk to me about the loss of his son, and we became very close. The rest of the family didn't want to hear too much, but this is a 3 suite. He hired me to do a finally he hired me to do a diamond scape. I worked with him for a full year, my small team and I and when I was ready to show him actually just the visual component of it. It had been a year since his son died, and he couldn't even look at the piece, and I had to take. I use volumes and gigabytes of information. And just I understood, though you know he, his loss is huge. This is his only he and his wife's only child.
 
-And so I I packed it up and and just put it away, shipped him a copy thought this would be a piece that would never be done, and I I thought it was actually a pretty beautiful and sad piece at the same time. And then he called me last February, and he's doing much better. And he this has become his whole life to maybe make some change In the world about not only guns, but children that are born with disabilities what's now called neurodiversity? And and and the drug situation. So we're not. We're approaching it from a 3 60 degree. Look, he owns 38 guns. The person who's commissioning me I own 0. He's a champion for a education in Georgia, and has affected so many people's lives, and he's a very responsible gun owner. So it brings up so many issues. And I'd love to talk to you about it after. But what I'm gonna do is just say It's a digital interactive painting. It has a digital narrative. And we're going into the scene of the crime, and because my brilliant cousin Was able to get all the Gbi recordings and everything of that night, you're hearing the actual recording of what happened. Segments of it. What happened that night? If you can't put it all together, and it's hard here on Zoom, you can go back later. I'll give you the URL. Please don't share it on social media. I have it out to some top places in Georgia. It's just premiering, but this group's so important to me. I wanted to share it with you online.
+And so I packed it up and just put it away, shipped him a copy thought this would be a piece that would never be done, and I thought it was actually a pretty beautiful and sad piece at the same time. And then he called me last February, and he's doing much better. And he this has become his whole life to maybe make some change In the world about not only guns, but children that are born with disabilities what's now called neurodiversity? And the drug situation. So we're not. We're approaching it from a 3 60 degree. Look, he owns 38 guns. The person who's commissioning me I own 0. He's a champion for a education in Georgia, and has affected so many people's lives, and he's a very responsible gun owner. So it brings up so many issues. And I'd love to talk to you about it after. But what I'm gonna do is just say It's a digital interactive painting. It has a digital narrative. And we're going into the scene of the crime, and because my brilliant cousin Was able to get all the Gbi recordings and everything of that night, you're hearing the actual recording of what happened. Segments of it. What happened that night? If you can't put it all together, and it's hard here on Zoom, you can go back later. I'll give you the URL. Please don't share it on social media. I have it out to some top places in Georgia. It's just premiering, but this group's so important to me. I wanted to share it with you online.
 
 First. So Alright, I'm clicking. Here's the painting and I'm just gonna click here to go Into the piece and play it. Using auto, you can go back and forth inside the piece later. It's not a video. This is a coded painting that has a web story that goes along with it. Interact with this multilayered digital painting to experience the true story of Garrett, a mentally challenged young man who was gunned down in a late-night Swat police, standoff. Press the play button for auto, play, or select the side arrows to go at your own pace Toggle the sound icon on and off as desired.
 
@@ -66,7 +66,7 @@ Click the I button for more details about this soulful, heartbreaking story. Gun
 
 And I, Hi, guys, am I not going to ask? I don't want my deputies past tonight because. You know, I got an over agent Police, or that I told The Kid says he has a mental disability. He took medication for anxiety, and he did something bad, and they didn't get that. But I don't want him to try. But at the same time, if he's calling me, I don't want him to call me and say goodbye and shoot himself in my head. What are Americans aiming for? And I He's got a couple Good Upper Admiral strikes you got one through the filthy kernel You've been to the map of these, you know. He's not looking well. Did he get? He got hit with a long gun in pistol. According to Garrett's dad. He had always loved race cars. In spite of his mental challenges, Garrett was considered an auto mechanical savant who was trusted by Racecar driver. Scott Wheeler Even lived on a street called Grand Prix. I would give them projects around the shop.
 
-And I would monitor him. And I say, I need you to do this. Especially on my race car. I Never ever let anyone else work on the race car, but I did with Garrett. And he did an outstanding job. And I'm like. Wow. Like most police departments in America these days, the Forsyth County Police department had plenty of ammo and protective gear. Their 2018 sheriff's annual report leads with new look, same mission. Stating that our office exists to protect life and property, deter crime, create relations in our community, and to set an example of professionalism in our service to others. You know what. Let us handle it, and I go. I've heard I've I've been. I read in the papers the last 25 years where you can handle it, and you can, you can. And that's what I'm expecting to have right in the next 30 min.
+And I would monitor him. And I say, I need you to do this. Especially on my race car. I Never ever let anyone else work on the race car, but I did with Garrett. And he did an outstanding job. And I'm like. Wow. Like most police departments in America these days, the Forsyth County Police department had plenty of ammo and protective gear. Their 2018 sheriff's annual report leads with new look, same mission. Stating that our office exists to protect life and property, deter crime, create relations in our community, and to set an example of professionalism in our service to others. You know what. Let us handle it, and I go. I've heard I've been. I read in the papers the last 25 years where you can handle it, and you can, you can. And that's what I'm expecting to have right in the next 30 min.
 
 Garrett is what's known as a lifer. It means a parent will have to support their child for the rest of their lives. While this is mostly financial. They also have to steer their lives, doing the best they can to make their child's life livable and hopefully happy. So it doesn't Have a lot of money to support himself. His family's unemployed. He's not certain of his future, and he's handicapped. I mean, he's not, you know. He's a special Ed student and authorized school. He's not a super intelligent kid, so I don't think he knows how to handle. You know, high stress situations. There was a party that night at Garrett's house.
 
@@ -84,7 +84,7 @@ Even this fragile butterfly has no fear, as it lands gently on his hand. Thank y
 
 Police act with a certain amount of impunity. A job applicant can become part of a police force. Even with a tainted record. Becomes killed or he can commit suicide, and I got old police officers or twentieth 30 outside his house. And I'm telling them, damn down. It's like I don't think they want to be. Stand down. At 103 A. M. Garret still had time, according to Chief Negotiator, Terry Hawkins, assuring Bailey Mitchell, Garrett's father. No one was looking to harm Garrett.
 
-But precinct. Commander Ben Finley, claiming Garrett, pointed a shotgun at him, and his deputies opened fire, triggering its fellow officers to release a barrage of gunfire. In less than 3 h since the beginning of the incident Garrett was on the ground near death, with multiple gunshots fired into his body at point blank range. Hey, Kelly? After a bunch of talking and whatnot, he ended up throwing the shotgun down, then picking it back up, and as he picked it up he pointed it at a group of our deputies, and then for 2 or 3 locations our guys opened fire on on top of it, so he's down on the ground Did first day, but got him in the May unit. He still has the pulse, but I have no idea he's been here, probably.
+But precinct. Commander Ben Finley, claiming Garrett, pointed a shotgun at him, and his deputies opened fire, triggering its fellow officers to release a barrage of gunfire. In less than 3 h since the beginning of the incident Garrett was on the ground near death, with multiple gunshots fired into his body at point blank range. Hey, Kelly? After a bunch of talking and whatnot, he ended up throwing the shotgun down, then picking it back up, and as he picked it up he pointed it at a group of our deputies, and then for 2 or 3 locations our guys opened fire on top of it, so he's down on the ground Did first day, but got him in the May unit. He still has the pulse, but I have no idea he's been here, probably.
 
 What about time. The police were armed with an M. 4. Combine a descendant of the World War Ii. Kalishnikov, A. K. 47, invented by the Russians to defeat the Nazis. Garrett was shot multiple times. The Crime scene reported bullets embedded throughout the house. Amen. He was shot by a 2, 2, 3 caliber weapon. The weapons were so powerful they went completely through the pouch. The Forsyth County Humane Society, where Garrett worked is the largest, no kill, no profit. Humane center in Forsyth County, Georgia.
 
@@ -96,9 +96,9 @@ We sat down together, and I told them both my wife and I were good with everythi
 
 And this lizard likes Is gentle. Mr. You on a panel. No, hey, Barton? Nice, thank you. I promise you guys. Boo. I'm sorry.
 
-So. I'm just going to share a few more things. I'd love to hear your comments later. Things that work that don't what you think About any of it. But just so, you know, you can go into the sound button over here that I'm hovering over and turn it on and off. Because the whole way to see this piece is the best way is to see it within a situation where you're looking at the painting on the wall. A digital backlit light box is usually how I do these rather large. With a QR code embedded in a brass plaque beside it. So the painting doesn't really move, it stays. And if the Internet's off. You can still investigate the layers. You can move in and out of this diamond scape. You can go in and out. Look at things again. It's not like a video. You know, you're you're moving inside the Z space of a painting.
+So. I'm just going to share a few more things. I'd love to hear your comments later. Things that work that don't what you think About any of it. But just so, you know, you can go into the sound button over here that I'm hovering over and turn it on and off. Because the whole way to see this piece is the best way is to see it within a situation where you're looking at the painting on the wall. A digital backlit light box is usually how I do these rather large. With a QR code embedded in a brass plaque beside it. So the painting doesn't really move, it stays. And if the Internet's off. You can still investigate the layers. You can move in and out of this diamond scape. You can go in and out. Look at things again. It's not like a video. You know, you're moving inside the Z space of a painting.
 
-And when you hover over the information bar, this is a very important part of this piece and and where I think paintings can go that just kind of blow my own mind. But it! It's a database that references every single image. And in this particular case we drill into, I'm not going to go into, because I know other people are presenting. But you go. It's an extensive bibliography database where you can go into all of the photos of Garrett and videos scenes from that night recordings complete Georgia Bureau of investigation. You did look into the case Recordings of the police and everything. It's it has an educational aspect. So it's a painting that has wings that that go really deep and. I should have warned you. It's pretty tough material. I I think I did last week, but if I didn't I apologize. It's tough for me every time I look at it. So thank you. Thank you for listening. And Yeah. Hopefully can make a difference. We're not trying to give answers. We're asking the questions.
+And when you hover over the information bar, this is a very important part of this piece and where I think paintings can go that just kind of blow my own mind. But it! It's a database that references every single image. And in this particular case we drill into, I'm not going to go into, because I know other people are presenting. But you go. It's an extensive bibliography database where you can go into all of the photos of Garrett and videos scenes from that night recordings complete Georgia Bureau of investigation. You did look into the case Recordings of the police and everything. It's it has an educational aspect. So it's a painting that has wings that go really deep and. I should have warned you. It's pretty tough material. I think I did last week, but if I didn't I apologize. It's tough for me every time I look at it. So thank you. Thank you for listening. And Yeah. Hopefully can make a difference. We're not trying to give answers. We're asking the questions.
 
 Thanks.
 
@@ -124,7 +124,7 @@ Okay, sorry I lost you. I didn't see you on the screen.
 
 ## Stephen Paré [23:07](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=1387s)
 
-Yes, I'm Steven Peray. I'm in Houston, Texas. As we've been here. It's the Rain has started. We're under a flash flood watch today, which sort of comes with the territory. And so you may be hearing some thunder as as I do this presentation. Alright. So. This is from A book that I've written recently.
+Yes, I'm Steven Peray. I'm in Houston, Texas. As we've been here. It's the Rain has started. We're under a flash flood watch today, which sort of comes with the territory. And so you may be hearing some thunder as I do this presentation. Alright. So. This is from A book that I've written recently.
 
 But.
 
@@ -166,17 +166,17 @@ Thank you.
 
 ## Michael Pierre Price [32:46](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=1966s)
 
-Wow! That That's gonna need some explanation after we're done. That was awesome. Thank you. Thanks, Steven. Love, that I love the evocative imagery and and your words along with with the artwork. Thank you for sharing that. Okay, our next presenter is Dean.
+Wow! That's gonna need some explanation after we're done. That was awesome. Thank you. Thanks, Steven. Love, that I love the evocative imagery and your words along with the artwork. Thank you for sharing that. Okay, our next presenter is Dean.
 
 ## Deann Stein Hasinoff [33:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=1997s)
 
-Hoping my dog will. Stay silent. Well, usually this is exactly when he starts to bark. So. So when when this subject of storytelling came up, I thought about my own Approach to art making, which originally when I first started using digital art about 10 years ago or so. Had to do with me processing my own personal story. And so the first. Attempts I had at at. Doing that were just some digital sketches that I had made to sort of start to take the ideas out of my head and put them somewhere else.
+Hoping my dog will. Stay silent. Well, usually this is exactly when he starts to bark. So. So when this subject of storytelling came up, I thought about my own Approach to art making, which originally when I first started using digital art about 10 years ago or so. Had to do with me processing my own personal story. And so the first. Attempts I had at. Doing that were just some digital sketches that I had made to sort of start to take the ideas out of my head and put them somewhere else.
 
 And then from there I went to Transforming these ideas into abstract digital drawings which I use to create a visual narrative of sort of my journey through. You know, on set Diagnosis and. And then sort of management, I guess you could say. And so these are just a few of the series. The series actually has about 35 pieces in it. Melody. And then from there I decided I wanted to look at some other aspects of my personal life. So I moved on to. Looking at anxiety which I Have lived with my entire life On.
 
 And this Series has about 15 pieces in it. This was then presented in a show in a local gallery. Riley and Edmonton, Canada.
 
-And then from there, I decided, I It's kind of. Reached the point of where I sort of dealt with the the. The challenging aspects of my life, and I was just kind of thinking of other ways. I could use narrative and storytelling in some of my my work. And so I moved on to thinking about words and the power of words. And so I used some photos. So this is a photo of me when I was Little. And I was also trying to think of a way to incorporate some more tactile work as well. So this is a combination of photograph digitally modified over the photograph, and then I stitched the words over top.
+And then from there, I decided, I It's kind of. Reached the point of where I sort of dealt with the. The challenging aspects of my life, and I was just kind of thinking of other ways. I could use narrative and storytelling in some of my work. And so I moved on to thinking about words and the power of words. And so I used some photos. So this is a photo of me when I was Little. And I was also trying to think of a way to incorporate some more tactile work as well. So this is a combination of photograph digitally modified over the photograph, and then I stitched the words over top.
 
 Onto the photograph. The idea of this is thinking of the word nice, and how you know it has that many different connotations. And For me, in my in my world I feel like nice means. Go away. Try, be as quiet as possible. Try not to be of obtrusive try. You know all of these things, and I think this is something that women in particular deal with, maybe at various points in their lives. So the idea of the girl sort of slowly disappearing in the image as she Becomes nuts. And then the next one I worked on was just a mom. So I decided when my daughter was born that I was going to stay home with my with her, and then ultimately with my other, with my son as well.
 
@@ -184,15 +184,15 @@ And it was not something I had ever anticipated doing. It wasn't a plan at all. 
 
 I was bringing these this image up to put it into my presentation this morning, and I was like. I know what I want to say now. So this morning I was working on these other these other images. So. The idea that you know.
 
-What society perceives as a stay at home, parent or a stay at home. Care is not exact, is not at all what that person is in in their life Value. And then this was the second one that I did this morning.
+What society perceives as a stay at home, parent or a stay at home. Care is not exact, is not at all what that person is in their life Value. And then this was the second one that I did this morning.
 
 And then finally, in terms of sort of looking at telling the story, I have done a little bit of stuff in terms of environment. In Alberta the government of the day decided to re resend a coal policy that would allow. Open pit coal mining in the eastern slopes of the Rocky Mountains sort of a footprint which has in formerly protected areas that we're not allowed to have mining in them anymore. And it has been like that since, you know, for decades. And then they rescinded it, and then allowed licenses to pull Companies, to start exploration.
 
-And so this work and the next work I created. Sort of as a A visual of what. What the impact of the of the mining could be in terms of Bum. Our province likes to tout their relationship to the mountains, and it's a huge tourism. Draw, and those kinds of things. And then you're going to allow them to come in and basically just take out a huge chunk of it and leave. And what's what do you have left for? And so that is the sort of the gist of these 2 books. And that is all I have to share for today. So thank you.
+And so this work and the next work I created. Sort of as a visual of what. What the impact of the of the mining could be in terms of Bum. Our province likes to tout their relationship to the mountains, and it's a huge tourism. Draw, and those kinds of things. And then you're going to allow them to come in and basically just take out a huge chunk of it and leave. And what's what do you have left for? And so that is the sort of the gist of these 2 books. And that is all I have to share for today. So thank you.
 
 ## Michael Pierre Price [40:23](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=2423s)
 
-Thanks, Dean. For me. Personally. I think you're one of the most affected black and white artists that I know of. You. That is such a strong medium for you. And I'm just wowed and odd. By how how effective Your artwork is Through black and white. Very evocative thanks for sharing all of that today. Awesome. Yeah. Just a mom. Huh? Okay. Alright, we're gonna move along here. And Karen is our next presenter.
+Thanks, Dean. For me. Personally. I think you're one of the most affected black and white artists that I know of. You. That is such a strong medium for you. And I'm just wowed and odd. By how effective Your artwork is Through black and white. Very evocative thanks for sharing all of that today. Awesome. Yeah. Just a mom. Huh? Okay. Alright, we're gonna move along here. And Karen is our next presenter.
 
 ## Karen LaFleur [41:09](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=2469s)
 
@@ -232,7 +232,7 @@ Well, it was kind of tricky, because Zoom covered some of my text, I realized. A
 
 ## Michael Pierre Price [47:54](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=2874s)
 
-So it's. It's really Interesting. I I guess I'm making a plug for the Tuesday Sessions that we have the the collaboratives art sessions In being able to see the intricacy of your illustrative works. And what goes into it. Karen? I you know I I get a little bit of insight into just seeing how intricate your work is, and just how evocative that ends up being from all that detail. So thanks thanks for sharing the story. Thanks for sharing your artwork today.
+So it's. It's really Interesting. I guess I'm making a plug for the Tuesday Sessions that we have the collaboratives art sessions In being able to see the intricacy of your illustrative works. And what goes into it. Karen? I you know I get a little bit of insight into just seeing how intricate your work is, and just how evocative that ends up being from all that detail. So thanks thanks for sharing the story. Thanks for sharing your artwork today.
 
 ## Karen LaFleur [48:32](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=2912s)
 
@@ -246,23 +246,23 @@ Okay. Next up, we have Renata.
 
 Thank you, Michael.
 
-So a year ago I started a series that I loosely turn the faces. And I I'm really surprised that I'm still working on it a year later. Usually these these phases last a few months. But every picture tells a story. And the face is something that we're we all like to look at. We all like to read The faces that I'm using are AI generated, and they're based on Classical and other periods of art history. These are faces of women on the cover of Cosmo from the 80 S.
+So a year ago I started a series that I loosely turn the faces. And I'm really surprised that I'm still working on it a year later. Usually these phases last a few months. But every picture tells a story. And the face is something that we're we all like to look at. We all like to read The faces that I'm using are AI generated, and they're based on Classical and other periods of art history. These are faces of women on the cover of Cosmo from the 80 S.
 
-And they were shot by a photographer named Francesco Scavolo. And I show them, too, because they, the women, all have the same vacant stare in their eyes. You can go through hundreds of these Covers, and they all have the same look. And the the women that the AI spits out for me. I call them zombified because they all have a kind of half. They can't dream. Not very Of this world. Look to them. And that's okay. I can work with that. Mostly. I'm I'm manipulating the background around around the faces.
+And they were shot by a photographer named Francesco Scavolo. And I show them, too, because they, the women, all have the same vacant stare in their eyes. You can go through hundreds of these Covers, and they all have the same look. And the women that the AI spits out for me. I call them zombified because they all have a kind of half. They can't dream. Not very Of this world. Look to them. And that's okay. I can work with that. Mostly. I'm manipulating the background around around the faces.
 
-And I did a series of animations for the wrong that was all. They were all based on the faces paintings. This is more recent it. It's a combination of my drawing with an AI, and I'm actually really amazed at how clear the lines are becoming. The technology is getting better and better. And it it's learned a lot of my work over time. And so I can credit myself really for for the background. But here, I also try to let the AI take over, as they say.
+And I did a series of animations for the wrong that was all. They were all based on the faces paintings. This is more recent it. It's a combination of my drawing with an AI, and I'm actually really amazed at how clear the lines are becoming. The technology is getting better and better. And it's learned a lot of my work over time. And so I can credit myself really for the background. But here, I also try to let the AI take over, as they say.
 
 Surrender to the AI. And I've started using More repeats of my work with it, so you can see some of it is AI generated. And then I put put my own Work over top of that. I show you this one because I'm also interested in doubling these pieces so that I can get it a more of a depth effect. So, for example, with this one I went over it with A glitch and some filters. Lately. What I've been doing is I've been using name, putting names of artists I admire into the machinery.
 
-And it's everything from Northern European Renaissance artists like Lucas, Cranach, or Janvanike. And then I used some Italian artists like Piero de la Francesca. And I even go farther in history and use some rocco and some baroque, and also some neoclassical works from the nineteenth century. I'm working on this image, and I've tried it both ways. I've tried it in portrait. And I've tried it in landscape. And I like what's happening with the work on the on the bottom, right hand side you can see the kind of snakes of gold I I'm really interested in portraying Metallics In my work. This is influenced from Gustav Klimt and Friedrich hundert foster A, and it's not easy to make gold look gold in a painting. This is a new brush I have here on the right bottom, right, and I think I achieved what I was looking for, which is a certain Texture and dimensionality and the glow of of something metallic.
+And it's everything from Northern European Renaissance artists like Lucas, Cranach, or Janvanike. And then I used some Italian artists like Piero de la Francesca. And I even go farther in history and use some rocco and some baroque, and also some neoclassical works from the nineteenth century. I'm working on this image, and I've tried it both ways. I've tried it in portrait. And I've tried it in landscape. And I like what's happening with the work on the on the bottom, right hand side you can see the kind of snakes of gold I'm really interested in portraying Metallics In my work. This is influenced from Gustav Klimt and Friedrich hundert foster A, and it's not easy to make gold look gold in a painting. This is a new brush I have here on the right bottom, right, and I think I achieved what I was looking for, which is a certain Texture and dimensionality and the glow of something metallic.
 
-I'm I'm going to close with some very strange images, which For me, I didn't do much to these other than give the AI some commands, but they definitely tell a story because they're so completely UN Like what human people really look like. And the the backgrounds are very odd as well.
+I'm going to close with some very strange images, which For me, I didn't do much to these other than give the AI some commands, but they definitely tell a story because they're so completely UN Like what human people really look like. And the backgrounds are very odd as well.
 
 That's the end. Thank you.
 
 ## Michael Pierre Price [54:03](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3243s)
 
-Well, thanks, Renata. Mean, you and I have had some discussions off of camera and those last couple images. We're interesting, but they lacked you with regards to what your previous images that you were showing. And so it's very interesting to see How that interplay between your artistry working with the AI has such an impact on the final image. And I and I think that's a discussion we've We've had here in in previous saloons in in regards to technology and how we use technology to enhance R innate artist vision. So Thanks, thanks for sharing all of that.
+Well, thanks, Renata. Mean, you and I have had some discussions off of camera and those last couple images. We're interesting, but they lacked you with regards to what your previous images that you were showing. And so it's very interesting to see How that interplay between your artistry working with the AI has such an impact on the final image. And I and I think that's a discussion we've We've had here in previous saloons in regards to technology and how we use technology to enhance R innate artist vision. So Thanks, thanks for sharing all of that.
 
 It's my pleasure. Looks like we have a little bit of time for discussion. So. How about if we use the hand raising tool in zoom To order anybody who has any questions or comments.
 
@@ -270,7 +270,7 @@ If not, I guess we could just open it up. Have a free for all. But Does anybody 
 
 ## Stephen Paré [55:33](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3333s)
 
-Yeah. So just Comment. Something of a question with Kare for Karen. First of all, very much interested in the idea of rewriting. Some of those old stories. Just some editorial commenter. And I think we're in a A period when we're finding our way. And one way to do that is to look to the past and to our childhoods, and that sort of thing. And so very much welcome. My question actually has to do with your use of language. And I I Very much Liked. Are you looking for a kind of a stylized. Language to match your. Fairy, is it fairytale? I guess it's a fairytale that whatever is it? Do you call it? Fredericton?
+Yeah. So just Comment. Something of a question with Kare for Karen. First of all, very much interested in the idea of rewriting. Some of those old stories. Just some editorial commenter. And I think we're in a period when we're finding our way. And one way to do that is to look to the past and to our childhoods, and that sort of thing. And so very much welcome. My question actually has to do with your use of language. And I Very much Liked. Are you looking for a kind of a stylized. Language to match your. Fairy, is it fairytale? I guess it's a fairytale that whatever is it? Do you call it? Fredericton?
 
 ## Karen LaFleur [56:42](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3402s)
 
@@ -286,11 +286,11 @@ The fairytale has a certain structure, is just read the very, the earliest, earl
 
 ## Stephen Paré [57:14](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3434s)
 
-Yeah, I I picked up on a couple of expressions of use that I especially liked. Precision scissor cuts, which has a little bit of a tongue twister, but it's a way into A kind of language style. And the call of distant crows very poetic image. And then I love that old fashioned expression. Sit vigil so there were an a number of things like that. And so my question is, just, are you looking for a kind of stylization of language as well as of and could you say what that is? Perhaps.
+Yeah, I picked up on a couple of expressions of use that I especially liked. Precision scissor cuts, which has a little bit of a tongue twister, but it's a way into A kind of language style. And the call of distant crows very poetic image. And then I love that old fashioned expression. Sit vigil so there were an a number of things like that. And so my question is, just, are you looking for a kind of stylization of language as well as of and could you say what that is? Perhaps.
 
 ## Karen LaFleur [57:52](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3472s)
 
-Well, all the stories are a little different, but they come from. The way I approach writing is, you sit down at a table, and if I was going to talk to you or Roz, or Deanne and I said, This is what happened. It needs to be that immediate. And so that's how I approach my writing in general, depending on the story. I have more room to to use More prose. Let's put it that way than the poetic language, but in sudden fiction, which is flash fiction, the words have to be under 500 words or so. So you're looking for those poetic bridges to get the idea across, so that may be as close to a style as I get.
+Well, all the stories are a little different, but they come from. The way I approach writing is, you sit down at a table, and if I was going to talk to you or Roz, or Deanne and I said, This is what happened. It needs to be that immediate. And so that's how I approach my writing in general, depending on the story. I have more room to use More prose. Let's put it that way than the poetic language, but in sudden fiction, which is flash fiction, the words have to be under 500 words or so. So you're looking for those poetic bridges to get the idea across, so that may be as close to a style as I get.
 
 I don't know if that answers your question, but.
 
@@ -300,11 +300,11 @@ Yes, of course. Thank you.
 
 ## Michael Pierre Price [58:50](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3530s)
 
-Yeah. And from a from a our historical standpoint that was very much at the heart of like the surrealists as well. That immediacy of what comes. You're not thinking about it. You're letting it. You're letting it pour out. So I think that's very. Very, very cool. For artists to to have that as part of their practice once in a while. It frees you from trying to force, you know, force a narrative, or force an image.
+Yeah. And from a from a our historical standpoint that was very much at the heart of like the surrealists as well. That immediacy of what comes. You're not thinking about it. You're letting it. You're letting it pour out. So I think that's very. Very, very cool. For artists to have that as part of their practice once in a while. It frees you from trying to force, you know, force a narrative, or force an image.
 
 ## Karen LaFleur [59:25](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3565s)
 
-Oh, absolutely! And the story, you know, flows as sort of a ghost story in a way, because I had the first with, I have the first sentence. I have the story. That's just it. If I try to plant a story, forget it. But the little house has no eyes. I mean, really, I'm going there. So I had it but in the end. When she waves goodbye to the brother that hearkens back to Roz, and I'm not gonna go there. But same situation. Let's put it that way. Nobody would ever know that. But all these different parts of yourself. If you approach writing and my my art, but especially in writing for me.
+Oh, absolutely! And the story, you know, flows as sort of a ghost story in a way, because I had the first with, I have the first sentence. I have the story. That's just it. If I try to plant a story, forget it. But the little house has no eyes. I mean, really, I'm going there. So I had it but in the end. When she waves goodbye to the brother that hearkens back to Roz, and I'm not gonna go there. But same situation. Let's put it that way. Nobody would ever know that. But all these different parts of yourself. If you approach writing and my art, but especially in writing for me.
 
 I just let everything channel in. And Yeah.
 
@@ -322,13 +322,13 @@ The ad.
 
 ## Deann Stein Hasinoff [01:00:17](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3617s)
 
-Yeah, my question is for Roz. So the the work that you showed us is extremely emotional, and I'm wondering in creating that. How do you? How do you approach it? Because you are have such a personal connection to it? And it is so highly charged. Does it Do the emotions fuel you? Or do they get in the way at sometimes in terms of making your creative decisions.
+Yeah, my question is for Roz. So the work that you showed us is extremely emotional, and I'm wondering in creating that. How do you? How do you approach it? Because you are have such a personal connection to it? And it is so highly charged. Does it Do the emotions fuel you? Or do they get in the way at sometimes in terms of making your creative decisions.
 
 ## Roz Dimon [01:00:43](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3643s)
 
-Both, especially in this piece. I I have to say my, when I was working with th this piece got into a lot of decisions about audio. You know that larger as much as the video. The visuals and there were times where you know Peter and I. We work via zoom my sound person and he also helps with narrative somewhat. But we would just we'd have to listen to these things over and over like, Oh, where do we put that one cop? Oh, but we don't want to be. Do slanted to the cops. I know we don't want it to be too slanted against Garrett, and we just like Oh, my God! It's just like you hear about filmmakers, or even artists. You know the kind of work. We're all doing that that there's multiple layers in digital in a way that you know, you can really get your hands in a lot of different areas. And it would just be overwhelming. We just have to stop the session, this very painful piece to make. Actually it kind of shut me down. I love and I had to give everything to it. I I usually am part of a poetry group. I love poetry, and you know anything that's usually dealing with death and life, and that's, you know, the the essence of things. And this is so much about all of that in every scene, and from all these different angles that I I couldn't even I I didn't even read, for you know, when I say he opened it up in February, I mean, he opened it up February 2023. I've been living this piece for a year and a half, and Yeah, but there's something about being an artist that I don't think we're afraid to look at the truth. And I I think it's been such an exciting session today. You know, Stephen Paré, I'm not sure I'm saying your name the right way.
+Both, especially in this piece. I have to say my, when I was working with th this piece got into a lot of decisions about audio. You know that larger as much as the video. The visuals and there were times where you know Peter and I. We work via zoom my sound person and he also helps with narrative somewhat. But we would just we'd have to listen to these things over and over like, Oh, where do we put that one cop? Oh, but we don't want to be. Do slanted to the cops. I know we don't want it to be too slanted against Garrett, and we just like Oh, my God! It's just like you hear about filmmakers, or even artists. You know the kind of work. We're all doing that there's multiple layers in digital in a way that you know, you can really get your hands in a lot of different areas. And it would just be overwhelming. We just have to stop the session, this very painful piece to make. Actually it kind of shut me down. I love and I had to give everything to it. I usually am part of a poetry group. I love poetry, and you know anything that's usually dealing with death and life, and that's, you know, the essence of things. And this is so much about all of that in every scene, and from all these different angles that I couldn't even I didn't even read, for you know, when I say he opened it up in February, I mean, he opened it up February 2023. I've been living this piece for a year and a half, and Yeah, but there's something about being an artist that I don't think we're afraid to look at the truth. And I think it's been such an exciting session today. You know, Stephen Paré, I'm not sure I'm saying your name the right way.
 
-And also, Karen. I saw real similarities in your work in some ways like that open psychological just facing the absolute. I don't know the macro micro both of your pieces a little like, and the digital that would come in, which is a whole nother world. You're you're blending real and and digital together. In in, you know, we all did it in certain ways here today. And Well, you know I always be under like this, so I have to stop talking. But it's it's been a very interesting day, and thank you for your question. I hope I I answered it, but the art at a point we've got to do it. We've got to do it, I mean I I had to. You just had to keep going, and and I'm I'm proud of the piece, and it's a part of me. And and now it's just getting it out there. And I ask any of you if you know a brave kind of museum or place, or this piece could go in a lot of areas. But if you have suggestions, or who to submit this to I'd I'd love to get your comments and thank you.
+And also, Karen. I saw real similarities in your work in some ways like that open psychological just facing the absolute. I don't know the macro micro both of your pieces a little like, and the digital that would come in, which is a whole nother world. You're blending real and digital together. In, you know, we all did it in certain ways here today. And Well, you know I always be under like this, so I have to stop talking. But it's been a very interesting day, and thank you for your question. I hope I answered it, but the art at a point we've got to do it. We've got to do it, I mean I had to. You just had to keep going, and I'm proud of the piece, and it's a part of me. And now it's just getting it out there. And I ask any of you if you know a brave kind of museum or place, or this piece could go in a lot of areas. But if you have suggestions, or who to submit this to I'd love to get your comments and thank you.
 
 And I really enjoyed all the presentations today. All of them were really fascinating their own way. And commentaries on women were pretty prominent.
 
@@ -346,15 +346,15 @@ Cheryl has her hand up.
 
 ## Cheryl Audet-Lavoie [01:03:38](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3818s)
 
-Yeah. I just. I just am overwhelmed by all this talent. And I know you have all been working at it for an awfully long time, so you deserve every credit you can get. I wish my my process was allowing me to do to do that. But my question. I think. 1 one piece of Karen's work. It might not have been Karen but looked. I just wonder if anybody is using the 3D Programs To incorporate. Things in, you know, in in the works.
+Yeah. I just. I just am overwhelmed by all this talent. And I know you have all been working at it for an awfully long time, so you deserve every credit you can get. I wish my process was allowing me to do to do that. But my question. I think. 1 one piece of Karen's work. It might not have been Karen but looked. I just wonder if anybody is using the 3D Programs To incorporate. Things in, you know, in the works.
 
 ## Karen LaFleur [01:04:23](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3863s)
 
-To to answer your your question. Cheryl. Yes, I am using 3D. I'm using it a lot in my animations the Internet's really fluky today here. So I couldn't show any of my animations here today. But I'm bringing them in. Almost like, in a way. AI. It's like you're pushing it so that it's not 3D. And it doesn't look Hollywood and bringing it back into the work. So I'm using it as spot elements.
+To answer your question. Cheryl. Yes, I am using 3D. I'm using it a lot in my animations the Internet's really fluky today here. So I couldn't show any of my animations here today. But I'm bringing them in. Almost like, in a way. AI. It's like you're pushing it so that it's not 3D. And it doesn't look Hollywood and bringing it back into the work. So I'm using it as spot elements.
 
 ## Cheryl Audet-Lavoie [01:04:55](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3895s)
 
-Thanks. That's that's all I asked.
+Thanks. That's all I asked.
 
 ## Michael Pierre Price [01:05:00](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3900s)
 
@@ -362,23 +362,23 @@ Thanks. Cheryl.
 
 ## Roz Dimon [01:05:01](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3901s)
 
-If no one has a hand up, can I say something else? Here, Michael? I just wanted on Renata's work. Wow! I you know I'm you know I don't. However, beauty is made. I I'm not really a snob about that. It's just like this. Is the master director, putting it together in a way. So you know, I always source everything in my pieces, too. They're not all my images. It's just you're kind of becoming the master magician, I think, in digital, like images of images of images that make an image in my case. But with you, Renata, I'm getting to the question. But what I I think it's fascinating, isn't it? What you prompt is your part of it. Is it the way you prompt your AI guide? Or and also, what what AI are you using? I'm I'm really curious.
+If no one has a hand up, can I say something else? Here, Michael? I just wanted on Renata's work. Wow! I you know I'm you know I don't. However, beauty is made. I'm not really a snob about that. It's just like this. Is the master director, putting it together in a way. So you know, I always source everything in my pieces, too. They're not all my images. It's just you're kind of becoming the master magician, I think, in digital, like images of images of images that make an image in my case. But with you, Renata, I'm getting to the question. But what I think it's fascinating, isn't it? What you prompt is your part of it. Is it the way you prompt your AI guide? Or and also, what AI are you using? I'm really curious.
 
-The images were were really fascinating, though.
+The images were really fascinating, though.
 
 ## Renata Janiszewska [01:05:55](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=3955s)
 
-Well, I can say without apology. I've been using mid journey For a few years now, and it's It's it's it's a tool. It's also a collaborator at times. I really enjoy. Really using it to generate. I mean, for every 500 images I generate, I might use 3. So it's very time consuming right now. But I'll pick it up and put it down. And I have been using 3D. Lately. There's a free animation software that I I was given the URL for, and I completely went into that. I was drawing with objects.
+Well, I can say without apology. I've been using mid journey For a few years now, and it's a tool. It's also a collaborator at times. I really enjoy. Really using it to generate. I mean, for every 500 images I generate, I might use 3. So it's very time consuming right now. But I'll pick it up and put it down. And I have been using 3D. Lately. There's a free animation software that I was given the URL for, and I completely went into that. I was drawing with objects.
 
-And then I was making the objects into a scene like we did for Saberiana. And then I would go into my scene, or I had to light it a certain way and background. And then I'd photograph it and use those and sometimes feed those through the AI, but mostly just working within that world of of space Where you get to look at it from all 360 degrees. It's I. Honestly, it's, I think, that in about 10 years we'll all be in 3D spaces for our work all the time. It'll just be the norm.
+And then I was making the objects into a scene like we did for Saberiana. And then I would go into my scene, or I had to light it a certain way and background. And then I'd photograph it and use those and sometimes feed those through the AI, but mostly just working within that world of space Where you get to look at it from all 360 degrees. It's I. Honestly, it's, I think, that in about 10 years we'll all be in 3D spaces for our work all the time. It'll just be the norm.
 
 And this is just the beginning. It's good to be getting the hands dirty a little bit.
 
 ## Roz Dimon [01:07:24](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4044s)
 
-Well, I I I I dabbled AI a little when I had time about a year or so ago, and I was fascinated. It was laborious, just like what you're saying, like 500 images. I would pick. Yeah, like you 3. I mean, just totally. That needs to be told. That story needs to be told, because that's the human involvement in it all. You know the artist, at least from our point of view. And as for 3D. You know I'm doing these flat flat pieces with thousands of images in them that I don't use them all but mixing them all together. And I'm like, and it's and it's in this flat space that has no.
+Well, I dabbled AI a little when I had time about a year or so ago, and I was fascinated. It was laborious, just like what you're saying, like 500 images. I would pick. Yeah, like you 3. I mean, just totally. That needs to be told. That story needs to be told, because that's the human involvement in it all. You know the artist, at least from our point of view. And as for 3D. You know I'm doing these flat flat pieces with thousands of images in them that I don't use them all but mixing them all together. And I'm like, and it's and it's in this flat space that has no.
 
-3D. At all. But it's it's intersecting with the 3D. In a new kind of dimension that I find fascinating. That's totally about digital.
+3D. At all. But it's intersecting with the 3D. In a new kind of dimension that I find fascinating. That's totally about digital.
 
 ## Michael Pierre Price [01:08:06](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4086s)
 
@@ -394,7 +394,7 @@ The original source of The Stories that I write is almost always an image. And s
 
 ## Michael Pierre Price [01:09:39](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4179s)
 
-Great question. Thanks for the answer to that Steven and and I I also I I What I what I found fascinating not only about yours, but also about Karen's. While there was a closer understanding because of Hansel and Gretel aspect. But both both of your stories felt very. Dreamlike in some regards, or you were sharing little snippets that. Maybe feel a little off balance. And I like that. I for me. That's a a lot of why I like surrealism as well is that there are little points that you can kind of anchor to, but there are other aspects that that kind of take you off in tangents, and I I felt, though, your presentation, and and with Karen's as well, had that kind of Essence or quality to them.
+Great question. Thanks for the answer to that Steven and I also I What I what I found fascinating not only about yours, but also about Karen's. While there was a closer understanding because of Hansel and Gretel aspect. But both both of your stories felt very. Dreamlike in some regards, or you were sharing little snippets that. Maybe feel a little off balance. And I like that. I for me. That's a lot of why I like surrealism as well is that there are little points that you can kind of anchor to, but there are other aspects that kind of take you off in tangents, and I felt, though, your presentation, and with Karen's as well, had that kind of Essence or quality to them.
 
 ## Stephen Paré [01:10:41](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4241s)
 
@@ -402,7 +402,7 @@ I'm interested in that off balance, could you? Would you say a couple of more wo
 
 ## Michael Pierre Price [01:10:45](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4245s)
 
-Sure. There were surprises that you know it. It kind of like. Oh, you're talking about this. Then, all of a sudden something else happens it like in dreams, you know, all of a sudden, dreams have at least for my dreams. Have these qualities where I feel like I'm in a situation. But then, all of a sudden, something mutates or changes in in a not rational kind of way. And even though the stories feel rational, there are these points where something unexpected happens, or or your narrative Looks at what's going on from a different perspective. And I like that. It's not linear. It's not linear.
+Sure. There were surprises that you know it. It kind of like. Oh, you're talking about this. Then, all of a sudden something else happens it like in dreams, you know, all of a sudden, dreams have at least for my dreams. Have these qualities where I feel like I'm in a situation. But then, all of a sudden, something mutates or changes in a not rational kind of way. And even though the stories feel rational, there are these points where something unexpected happens, or your narrative Looks at what's going on from a different perspective. And I like that. It's not linear. It's not linear.
 
 ## Karen LaFleur [01:11:35](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4295s)
 
@@ -418,9 +418,9 @@ And well, whatever comes out comes out, and when I write I never plan anything. 
 
 ## Michael Pierre Price [01:12:34](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4354s)
 
-I know that I love these insights from all of you today. They're they're. I think, what Is a hallmark Of of this group Is the thoughtfulness behind the work is the truth behind the work. And and I think that takes artists to be daring. It. It's, you know, looking at Dean's work, looking at that sense of the personal. Just a housewife. You know, and how that, how that can make you recoil, because society oftentimes, you know, has these, you know pronouncements about what that means. But then to turn that around and to say just a housewife, and then you have all these wonderful Words that are associated with that I think that daring to be truthful.
+I know that I love these insights from all of you today. They're. I think, what Is a hallmark Of this group Is the thoughtfulness behind the work is the truth behind the work. And I think that takes artists to be daring. It. It's, you know, looking at Dean's work, looking at that sense of the personal. Just a housewife. You know, and how that, how that can make you recoil, because society oftentimes, you know, has these, you know pronouncements about what that means. But then to turn that around and to say just a housewife, and then you have all these wonderful Words that are associated with that I think that daring to be truthful.
 
-Causes us to go within and then share that with the world around us. And and I think In the world that we're living at at these times we are needed to be able to share that with people around us Both in beauty and ugliness, in everything in between. Because there's so much untruth that is out in the world right now. So I thank thank all of you for sharing that. I don't know what other questions or comments people might have. Yeah, Karen. You're muted.
+Causes us to go within and then share that with the world around us. And I think In the world that we're living at these times we are needed to be able to share that with people around us Both in beauty and ugliness, in everything in between. Because there's so much untruth that is out in the world right now. So I thank thank all of you for sharing that. I don't know what other questions or comments people might have. Yeah, Karen. You're muted.
 
 ## Karen LaFleur [01:14:13](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4453s)
 
@@ -440,15 +440,15 @@ You know, back in the in the 1970s, I remember lots of discussions about semanti
 
 ## Roz Dimon [01:16:45](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4605s)
 
-I wanted to make a comment bringing up that. There was so much psychological Things going on I felt in in in these pieces. Maybe especially Steve's Stevens,. And also Karen's, too, but and and others. But I I liked, I commented on Stevens about the macro and kind of ma micro aspects of it like you. You're kind of on this story in 21. I I don't. I don't know. It's in the future. And you get inside this, the bowels of some kind of electron or or fusion. Or, you know, some kind of massive technology going on. And and you know, sometimes you hear the camel.
+I wanted to make a comment bringing up that. There was so much psychological Things going on I felt in these pieces. Maybe especially Steve's Stevens,. And also Karen's, too, but and others. But I liked, I commented on Stevens about the macro and kind of ma micro aspects of it like you. You're kind of on this story in 21. I don't. I don't know. It's in the future. And you get inside this, the bowels of some kind of electron or fusion. Or, you know, some kind of massive technology going on. And you know, sometimes you hear the camel.
 
-And you feel like they're just like camels are now. They're spitting and everything. And other times you're inside this little metal engraving and some kind of funnel that you don't even know what it is. And and you're going inside that, that the bowels of that thing like, you know, I found that fascinating how it it juxtapose that I think that's happening in a lot of the work we're seeing, cause we're we're in a time where like it's not just dreams, it's like our own. What lives are being interrupted every second By so much information and visuals and stuff, and I don't know.
+And you feel like they're just like camels are now. They're spitting and everything. And other times you're inside this little metal engraving and some kind of funnel that you don't even know what it is. And you're going inside that, that the bowels of that thing like, you know, I found that fascinating how it juxtapose that I think that's happening in a lot of the work we're seeing, cause we're in a time where like it's not just dreams, it's like our own. What lives are being interrupted every second By so much information and visuals and stuff, and I don't know.
 
-I I keep talking, but I I think it's I think that that's part of this world, too, that that was captured today of you know those interruptions like Karen, you, you're in a real kind of situation. Then you're in this abstract, digital really close up. Look of you don't know what you know, but it had psychological aspects, too, that I thought really interesting.
+I keep talking, but I think it's I think that's part of this world, too, that was captured today of you know those interruptions like Karen, you, you're in a real kind of situation. Then you're in this abstract, digital really close up. Look of you don't know what you know, but it had psychological aspects, too, that I thought really interesting.
 
 ## Michael Pierre Price [01:18:18](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4698s)
 
-Yes, I agree, and and and so that I did a segue here to ask Renata that you you show the Cosmo images of the females and their vacuous looks. What did I think? What I found really fascinating about the face. Images, and art that you've done over the past year. Has been. They do. They do have a Renaissance quality about them. And I'm assuming, since you said you sort of mentioned using historical artists to sort of generate some of those. But they are but your images that I find really evocative is all the layering and. Like with the 1010 brushes. There, there's There's something that's going on there that almost feels like. Your version of Clint at times, not because of gold, but because of the the texture and and the layering of imagery on top of the or with the faces. I'm just really curious about what's been inspiring to you about creating those images.
+Yes, I agree, and so that I did a segue here to ask Renata that you show the Cosmo images of the females and their vacuous looks. What did I think? What I found really fascinating about the face. Images, and art that you've done over the past year. Has been. They do. They do have a Renaissance quality about them. And I'm assuming, since you said you sort of mentioned using historical artists to sort of generate some of those. But they are but your images that I find really evocative is all the layering and. Like with the 1010 brushes. There, there's something that's going on there that almost feels like. Your version of Clint at times, not because of gold, but because of the texture and the layering of imagery on top of the or with the faces. I'm just really curious about what's been inspiring to you about creating those images.
 
 ## Renata Janiszewska [01:19:39](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4779s)
 
@@ -468,11 +468,11 @@ Thanks, Stephen. I wanted to give the last few minutes to Tommy so he could talk
 
 ## Roz Dimon [01:21:57](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4917s)
 
-I love the way Deanne put made me think well, the word nice. She got some really deep feminist things in there that were fabulous, that that in a way visually that you couldn't couldn't say. But a lot of us, I would say speaking for the women, we know exactly where you are in that pink little fuzzy nice? Yeah, no, no, it was good, thank you.
+I love the way Deanne put made me think well, the word nice. She got some really deep feminist things in there that were fabulous, that in a way visually that you couldn't say. But a lot of us, I would say speaking for the women, we know exactly where you are in that pink little fuzzy nice? Yeah, no, no, it was good, thank you.
 
 ## Tommy Mintz [01:22:23](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4943s)
 
-Really everybody's work was so good to to see today. I mean, really thank you all for sharing Roz as well. I mean, really, I'm still like. Stunned emotionally, you know, by the the story. And the way it's told. So yeah, I'd love to include that in Hello, Brooklyn! The upcoming Exhibition that we're working on. August Seventh through September 20 fifth, are the dates that I finally have
+Really everybody's work was so good to see today. I mean, really thank you all for sharing Roz as well. I mean, really, I'm still like. Stunned emotionally, you know, by the story. And the way it's told. So yeah, I'd love to include that in Hello, Brooklyn! The upcoming Exhibition that we're working on. August Seventh through September 20 fifth, are the dates that I finally have
 
 ## Renata Janiszewska [01:23:01](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=4981s)
 
@@ -482,7 +482,7 @@ Tommy, isn't it? August the ninth? Now.
 
 Well, we'll have a reception on some date somewhere in the middle. There, we don't have to have our opening reception on the first day that the shows up. That's totally fine. I need to have the work printed well before then, etc. So my plan, and really I'm happy to chat individually with everybody about this. I'm doing a pretty relaxed Co-curation of the exhibition. In so far that I'm not going out and saying, Hey, I want you to send this work. I'd like to Request that you, if you're interested in participating allow me to reproduce something. Possibly we have a wonderful printer here. I have some examples behind me of The scale and materials. I have lots of different materials we can print on frames and mats. That the museum has, and the idea is this show could travel if we all donate, if you will, the right to Reproduction of a work, if you will alright Iteration. I don't know. Is it really reproduction? If it's digital right, we won't get into that conversation here.
 
-That said, I know a lot of people do mix media work, and if you have something that you want to ship I've already been contacted by a number of artists who have that particular Issue, and I'm game to receive stuff. I'd rather not because I cannot receive stuff there. I've been trying to deal with The central receiving there, and I'm not comfortable with them and art. They have to open everything up Comes in. That's the rule. Every box gets opened by somebody else if it gets shipped there. So and happy to drive stuff to campus myself and just make sure it gets there safely. So that's that way. I'm handling things for the upcoming exhibit. We have, a couple of Of local artists who are in a group that is called Digiana, which is, maybe a sub group of Techspressionism. Seungjin Lee is one of the Co. Curators. And he has a space in Long Island City. And so we're bringing Some sculptures and physical objects from there as well. Ross, are you waving to Mary.
+That said, I know a lot of people do mix media work, and if you have something that you want to ship I've already been contacted by a number of artists who have that particular Issue, and I'm game to receive stuff. I'd rather not because I cannot receive stuff there. I've been trying to deal with The central receiving there, and I'm not comfortable with them and art. They have to open everything up Comes in. That's the rule. Every box gets opened by somebody else if it gets shipped there. So and happy to drive stuff to campus myself and just make sure it gets there safely. So that's that way. I'm handling things for the upcoming exhibit. We have, a couple of local artists who are in a group that is called Digiana, which is, maybe a sub group of Techspressionism. Seungjin Lee is one of the Co. Curators. And he has a space in Long Island City. And so we're bringing Some sculptures and physical objects from there as well. Ross, are you waving to Mary.
 
 ## Roz Dimon [01:25:31](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5131s)
 
@@ -498,7 +498,7 @@ To the artist. Specs like, if you want to go, like, you know, 36, 48.
 
 ## Tommy Mintz [01:25:51](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5151s)
 
-Yes, yes, 36, 40 is my width, so I have a 44 inch wide. Printer By I I think our walls are 14 feet high. So if you wanna do a 44 floor to ceiling Like you go 44 by 14 feet and I have a number of different materials and a lot of ink. And Yeah, I I'm I'm as if you if you're doing something very large it probably won't get framed right. We have to figure out how to hang it. And that's fine, too. I also have adhesive materials to directly apply to wall and we have a number of projectors.
+Yes, yes, 36, 40 is my width, so I have a 44 inch wide. Printer By I think our walls are 14 feet high. So if you wanna do a 44 floor to ceiling Like you go 44 by 14 feet and I have a number of different materials and a lot of ink. And Yeah, I'm I'm as if you if you're doing something very large it probably won't get framed right. We have to figure out how to hang it. And that's fine, too. I also have adhesive materials to directly apply to wall and we have a number of projectors.
 
 ## Roz Dimon [01:26:26](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5186s)
 
@@ -506,7 +506,7 @@ They may pay paper, I suppose. Paper print to paper.
 
 ## Tommy Mintz [01:26:31](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5191s)
 
-I I have a yes. Big rolls of paper, and also a canvas which some people like some people don't like. But I'll have that conversation individually, whereas if you wanna you're close enough that I can maybe drive somewhere and retrieve your backlit and a light box and install that we wouldn't have to reproduce. If that's something that you you're. You know. Really interested in doing we can work that out to thank you.
+I have a yes. Big rolls of paper, and also a canvas which some people like some people don't like. But I'll have that conversation individually, whereas if you wanna you're close enough that I can maybe drive somewhere and retrieve your backlit and a light box and install that we wouldn't have to reproduce. If that's something that you're. You know. Really interested in doing we can work that out to thank you.
 
 ## Roz Dimon [01:27:01](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5221s)
 
@@ -514,7 +514,7 @@ Yes.
 
 ## Tommy Mintz [01:27:02](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5222s)
 
-And we do have. Karen, we have the capacity. Thank you, Karen, for sending the speaker. We have Capacity for having audio with our video work. And I'm thinking today, after hearing these wonderful narratives. And you know, the spoken word aspect of people's work is so powerful. I think that's something we can consider, you know. If that's something, Karen, I'm not sure that's something you personally, we're thinking about. But anybody you know who's here today? We could all all chat about, you know, having a screen.
+And we do have. Karen, we have the capacity. Thank you, Karen, for sending the speaker. We have Capacity for having audio with our video work. And I'm thinking today, after hearing these wonderful narratives. And you know, the spoken word aspect of people's work is so powerful. I think that's something we can consider, you know. If that's something, Karen, I'm not sure that's something you personally, we're thinking about. But anybody you know who's here today? We could all chat about, you know, having a screen.
 
 ## Karen LaFleur [01:27:37](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5257s)
 
@@ -530,7 +530,7 @@ And guys.
 
 ## Tommy Mintz [01:28:04](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5284s)
 
-Yeah, I haven't done any installation or construction yet. I'm I'm. Minnesota. Yes, yeah.
+Yeah, I haven't done any installation or construction yet. I'm. Minnesota. Yes, yeah.
 
 ## Karen LaFleur [01:28:11](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5291s)
 
@@ -554,7 +554,7 @@ Is it? Is it like one of those sound tube speakers? I love those I had. I had on
 
 ## Karen LaFleur [01:28:35](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5315s)
 
-The the same company does that cone one but the.
+The same company does that cone one but the.
 
 ## patrick lichty [01:28:38](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5318s)
 
@@ -574,7 +574,7 @@ Those parabolics really directed straight down same company. Brown innovations o
 
 ## patrick lichty [01:28:57](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5337s)
 
-Okay. Fantastic, hey, Tommy? Actually sorry. Sorry I was late. I you know, that's it's been an insane semester. So I haven't been around much, but I'd love. I'd I'd love to talk to you about. You know, at basically what goes on. I had. I had a class that was right over all these all the time, and this is the first first time all semester. I've actually had time to be here. So thing is, I'd love to catch up with you and maybe talk about maybe putting something here.
+Okay. Fantastic, hey, Tommy? Actually sorry. Sorry I was late. I you know, that's it's been an insane semester. So I haven't been around much, but I'd love. I'd love to talk to you about. You know, at basically what goes on. I had. I had a class that was right over all these all the time, and this is the first first time all semester. I've actually had time to be here. So thing is, I'd love to catch up with you and maybe talk about maybe putting something here.
 
 ## Tommy Mintz [01:29:23](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5363s)
 
@@ -586,13 +586,13 @@ To see everybody. As I said. Sorry I've been gone, but you know it's like.
 
 ## Tommy Mintz [01:29:40](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5380s)
 
-That's great to see you, Patrick. So I'm I'm Yeah. One last thing I mean, really this, this has been such a wonderful Deep. Attention driven set of pieces that I wanted to bring people's attention to in the current. I guess this is the current New Yorker. There's an article by Nathan Heller, that. Actually goes in a very interesting direction, and it's called the Battle for attention, and it talks about a group called the birds, who go around and view artwork together Deeply With this sort of like 8 min Timing that they'll stand and observe something. They sort of like an old flash mob. Pre flash mob. This is a bunch of apparently academics. Get into this kind of thing, but it's really interesting article thinking about how to approach attention in a very Conscious way. You know, as an artist, you know what you're doing, maybe you know, is that in in an unconscious way. When you write kind of thing, you know, and paying attention to that process, I think, is a really fascinating one. So thank you ever, Paul, for sharing. This is To May sixth this year. So it just came out.
+That's great to see you, Patrick. So I'm Yeah. One last thing I mean, really this, this has been such a wonderful Deep. Attention driven set of pieces that I wanted to bring people's attention to in the current. I guess this is the current New Yorker. There's an article by Nathan Heller, that. Actually goes in a very interesting direction, and it's called the Battle for attention, and it talks about a group called the birds, who go around and view artwork together Deeply With this sort of like 8 min Timing that they'll stand and observe something. They sort of like an old flash mob. Pre flash mob. This is a bunch of apparently academics. Get into this kind of thing, but it's really interesting article thinking about how to approach attention in a very Conscious way. You know, as an artist, you know what you're doing, maybe you know, is that in an unconscious way. When you write kind of thing, you know, and paying attention to that process, I think, is a really fascinating one. So thank you ever, Paul, for sharing. This is To May sixth this year. So it just came out.
 
 Who's hosting, Michael? Is there anything else you wanted me to say?
 
 ## Michael Pierre Price [01:31:05](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5465s)
 
-No, unless anybody's got any questions. So so at this point, you are still looking for artwork, Tommy, and you're reaching out to people, or you're asking people to reach out to you.
+No, unless anybody's got any questions. So at this point, you are still looking for artwork, Tommy, and you're reaching out to people, or you're asking people to reach out to you.
 
 ## Tommy Mintz [01:31:21](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5481s)
 
@@ -604,7 +604,7 @@ Sony.
 
 ## Tommy Mintz [01:31:40](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5500s)
 
-And and getting this ready and I also just got all the materials. Well, it's in central shipping. So I say that on the recording. But I have the materials. And I'm I'm ready to start, you know, fabricating things, framing things, getting stuff together. And and yeah, we have plenty of time to do that now. So yes, the answer is yes to both. Please email me. If you have my email address or other contact methods are fine, too. I feel like some people are direct messaging through Instagram.
+And getting this ready and I also just got all the materials. Well, it's in central shipping. So I say that on the recording. But I have the materials. And I'm ready to start, you know, fabricating things, framing things, getting stuff together. And yeah, we have plenty of time to do that now. So yes, the answer is yes to both. Please email me. If you have my email address or other contact methods are fine, too. I feel like some people are direct messaging through Instagram.
 
 I find those as well.
 
@@ -614,7 +614,7 @@ Okay.
 
 ## Tommy Mintz [01:32:12](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5532s)
 
-I will email people as well. I have a giant list. And and I promise everybody's on it. I just haven't been Emailing enough people. I don't do it. Gonna do it this coming week. Taxes. Let me taxes. I just finished taxes.
+I will email people as well. I have a giant list. And I promise everybody's on it. I just haven't been Emailing enough people. I don't do it. Gonna do it this coming week. Taxes. Let me taxes. I just finished taxes.
 
 ## patrick lichty [01:32:25](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5545s)
 
@@ -626,13 +626,13 @@ Hitting the tackle, which order right.
 
 ## patrick lichty [01:32:31](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5551s)
 
-Well, you know what we have these. We have these annual reports for the University that usually turn out to be about 125 pages, you know. So you know, that was yesterday. Today is grading. Next week is taxes. So and then guess what it's and then and then for the next 2 weeks. After that I will be starting at the well. No, actually, I'll be doing a a chapter for Bloomsbury. Was it the encyclopedia of new media art. Actually. So you know what? No breath.
+Well, you know what we have these. We have these annual reports for the University that usually turn out to be about 125 pages, you know. So you know, that was yesterday. Today is grading. Next week is taxes. So and then guess what it's and then and then for the next 2 weeks. After that I will be starting at the well. No, actually, I'll be doing a chapter for Bloomsbury. Was it the encyclopedia of new media art. Actually. So you know what? No breath.
 
 Nobody rests. That's okay.
 
 ## Michael Pierre Price [01:33:04](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5584s)
 
-I wanna, I wanna thank the presenters today, and everybody here. What an awesome group so thanks. And I think, Colin, we're probably ready to wrap things up for for the presentation. And I Ap. I apologize for not mentioning that today is May second, and it's the 80 s Slalom that we've had. So I I think I'll just throw that in at the end. Here.
+I wanna, I wanna thank the presenters today, and everybody here. What an awesome group so thanks. And I think, Colin, we're probably ready to wrap things up for the presentation. And I Ap. I apologize for not mentioning that today is May second, and it's the 80 s Slalom that we've had. So I think I'll just throw that in at the end. Here.
 
 ## patrick lichty [01:33:32](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5612s)
 
@@ -640,4 +640,4 @@ Super.
 
 ## Colin Goldberg [01:33:34](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5614s)
 
-Alright. Well, thank you, Michael, for for moderating, and thank you to all the presenters. Amazing swan sorry I had to mute and disappear for a minute. Client work was calling, and I Gotta keep the lights on. But I appreciate it. And for anyone who wants to stick around for the after party. This is where we discuss community related concerns initiatives. I'm sure the conversation about the Brooklyn show can continue. Tommy's willing to hang for a minute. 1 point of business that we usually try to take care of in the after party is the The topic of the next salon which generally the caveat is, if you Suggest the topic, and it ends up being voted in as the topic. Your the de facto moderator. So keep that in mind. When you're when you're approaching this subject. So with that, I am going to stop the recording in 3, 2, one, and cut.
+Alright. Well, thank you, Michael, for moderating, and thank you to all the presenters. Amazing swan sorry I had to mute and disappear for a minute. Client work was calling, and I Gotta keep the lights on. But I appreciate it. And for anyone who wants to stick around for the after party. This is where we discuss community related concerns initiatives. I'm sure the conversation about the Brooklyn show can continue. Tommy's willing to hang for a minute. 1 point of business that we usually try to take care of in the after party is the topic of the next salon which generally the caveat is, if you Suggest the topic, and it ends up being voted in as the topic. Your the de facto moderator. So keep that in mind. When you're when you're approaching this subject. So with that, I am going to stop the recording in 3, 2, one, and cut.

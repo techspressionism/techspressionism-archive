@@ -127,7 +127,7 @@ And just being out there in the world and working with other artists. And what's
 
 ## Darcy Gerbarg [10:19](https://www.youtube.com/watch?v=aP2x9m5GMak&t=619s)
 
-Yeah. So that was great. Yeah. That's like art, art, art all the time at that place, I bet. I was in my early 20s. Okay. The first museum exhibition opening that I went to was Jules Oblitsky's retrospective at the Boston Museum of Fine Art. It was curated by Kenworth Moffitt, who was the director. And Jules was a friend and Clem and a whole bunch of us went to this opening and the whole thing. We were all part of the thing. And here I was in my early 20s, right. And I just assumed that that was what happened when you got more established as a museum. But then you got into this space and you found yourself as an artist. So you start out as an art student. You work and then, you know, eventually this is how your career evolves. And then you have these openings at the museums.
+Yeah. So that was great. Yeah. That's like art, art, art all the time at that place, I bet. I was in my early 20s. Okay. The first museum exhibition opening that I went to was Jules Oblitsky's retrospective at the Boston Museum of Fine Art. It was curated by Kenworth Moffitt, who was the director. And Jules was a friend and Clem and a whole bunch of us went to this opening and the whole thing. We were all part of the thing. And here I was in my early 20s, right. And I just assumed that was what happened when you got more established as a museum. But then you got into this space and you found yourself as an artist. So you start out as an art student. You work and then, you know, eventually this is how your career evolves. And then you have these openings at the museums.
 
 ## Roz Dimon [11:08](https://www.youtube.com/watch?v=aP2x9m5GMak&t=668s)
 
@@ -245,19 +245,19 @@ Oh, I see. Yeah.
 
 So this painting on here is about eight foot, right? Or something like that. Yeah. All right? Yeah, there's that one crop. Okay. Now, the one on the left is from what I call the series. All right? The one on the right is from my inside-outside series. Right? And there's some more of those in this way. They do seem to have a different point of view now, you know, visually. I'll tell you what it is. Uh-oh. Why is this doing that? I don't know why it's doing that.
 
-So these guys, for instance, these are my series inside-outside pictures. Okay? And for instance, I take my 3D VR light sculpture, which I paint in the brush, okay? And I take it as an object into the real world. All right? And in the world, I take a snapshot across the . Okay? But in addition to the model, I can work in snapshot with it. So I actually am taking a snapshot of the AR object in the real world.
+So these guys, for instance, these are my series inside-outside pictures. Okay? And for instance, I take my 3D VR light sculpture, which I paint in the brush, okay? And I take it as an object into the real world. All right? And in the world, I take a snapshot across the. Okay? But in addition to the model, I can work in snapshot with it. So I actually am taking a snapshot of the AR object in the real world.
 
 ## Roz Dimon [20:21](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1221s)
 
-I see now what you mean by real world. I can almost feel like a part of New York City now. Which is . Wow, that's very cool. There's an interesting juxtaposition of space and time. And it's really interesting. And it's so spontaneous looking, too. There's energy in your work.
+I see now what you mean by real world. I can almost feel like a part of New York City now. Which is. Wow, that's very cool. There's an interesting juxtaposition of space and time. And it's really interesting. And it's so spontaneous looking, too. There's energy in your work.
 
 ## Darcy Gerbarg [20:33](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1233s)
 
-And that's because of the action. You know, it's like you're taking a snapshot of the actual space. And so they .
+And that's because of the action. You know, it's like you're taking a snapshot of the actual space. And so they.
 
 ## Roz Dimon [20:43](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1243s)
 
-And it's all in a . You know? Digital.
+And it's all in a. You know? Digital.
 
 ## Unattributed [20:48](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1248s)
 
@@ -265,19 +265,19 @@ And it's all in a . You know? Digital.
 
 ## Roz Dimon [20:50](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1250s)
 
-Right. The multi. .
+Right. The multi..
 
 ## Darcy Gerbarg [20:54](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1254s)
 
-So for instance, this one on the right is in a room. And over here, I'm sorry. Over here, you can see some flowers that were . And . . So I really like the idea of not trying to make it look like a real world. So I keep that. I don't have to. I want to add the visual complexity. So know that this is with an AR object. Because it's an abstract thing. Yeah. That's because it works. It's always interesting to kind of hear the art .
+So for instance, this one on the right is in a room. And over here, I'm sorry. Over here, you can see some flowers that were. And.. So I really like the idea of not trying to make it look like a real world. So I keep that. I don't have to. I want to add the visual complexity. So know that this is with an AR object. Because it's an abstract thing. Yeah. That's because it works. It's always interesting to kind of hear the art.
 
 ## Roz Dimon [21:16](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1276s)
 
-Well, this is because they work because they're paintings. That's . You know, see. And you can way after that and going after it. And that's .
+Well, this is because they work because they're paintings. That's. You know, see. And you can way after that and going after it. And that's.
 
 ## Darcy Gerbarg [21:23](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1283s)
 
-But the other thing I love is that I like these . There's one that's on the left. It's called . It's almost like a . Yeah. Or . I thought of . And the middle is . And I don't know what you're talking about. Picture. And this, I put my AR in a dark room at party. Cool. And you can actually read it.
+But the other thing I love is that I like these. There's one that's on the left. It's called. It's almost like a. Yeah. Or. I thought of. And the middle is. And I don't know what you're talking about. Picture. And this, I put my AR in a dark room at party. Cool. And you can actually read it.
 
 ## Roz Dimon [21:43](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1303s)
 
@@ -313,11 +313,11 @@ Sorry. Oh, thank you. I didn't know where that was. That's good. All of the bad 
 
 ## Roz Dimon [25:32](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1532s)
 
-It wow that was cool um you know I must relate to you also it looks like you have a small team that you work with I certainly work on collaborations with my diamondscapes that are kind of immersive paintings I mean it almost you know it it almost uh it begs collaboration in a way even though I guess do you still see yourself as the director or
+It wow that was cool you know I must relate to you also it looks like you have a small team that you work with I certainly work on collaborations with my diamondscapes that are kind of immersive paintings I mean it almost you know it almost it begs collaboration in a way even though I guess do you still see yourself as the director or
 
 ## Darcy Gerbarg [25:53](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1553s)
 
-How did they come about well I see myself as the artist and then my husband is my main collaborator and he's a senior level tech person who's been he was head of r d at magi synthavision which right was the um 3d animation production company that did most of the work for the movie tron the original tron oh yes of course and so gene's been in the field a very long time and very knowledgeable about lighting shading everything digital computer animation graphics all of that stuff um and uh so that
+How did they come about well I see myself as the artist and then my husband is my main collaborator and he's a senior level tech person who's been he was head of r d at magi synthavision which right was the 3d animation production company that did most of the work for the movie tron the original tron oh yes of course and so gene's been in the field a very long time and very knowledgeable about lighting shading everything digital computer animation graphics all of that stuff and so that
 
 ## Roz Dimon [26:38](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1598s)
 
@@ -325,7 +325,7 @@ Was a marvelous immersive experience
 
 ## Darcy Gerbarg [26:41](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1601s)
 
-Um that was now this one which I which you visited me in remember yes and you are the one that's in the back of the ΦVHx and you have a very good person you have a very good use of the who you are you have a very good use of the in-the-wars you have a very good use of the in-the-wars you have a very good use of the in-the-wars you have a very good use of the in-the-wars
+That was now this one which I which you visited me in remember yes and you are the one that's in the back of the ΦVHx and you have a very good person you have a very good use of the who you are you have a very good use of the in-the-wars you have a very good use of the in-the-wars you have a very good use of the in-the-wars you have a very good use of the in-the-wars
 
 ## Roz Dimon [27:12](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1632s)
 
@@ -527,7 +527,7 @@ Well, great. Can you tell us also can you just tell us what you're working on no
 
 ## Darcy Gerbarg [35:04](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2104s)
 
-I'm really excited about. Which I wasn't originally about exploring other kinds of interaction in these virtual worlds with art. So, um, I'm starting, you know, I've been to visit a lot of virtual worlds, and there are things about them that work and don't work for me. But I think we have the opportunity to create new ways to experience art. When you're using new tools as an artist, it changes what your work looks like. Because as you use the tool, you find new things to do with it and new things you want to explore with it and so the look of your work changes. We all know that.
+I'm really excited about. Which I wasn't originally about exploring other kinds of interaction in these virtual worlds with art. So, I'm starting, you know, I've been to visit a lot of virtual worlds, and there are things about them that work and don't work for me. But I think we have the opportunity to create new ways to experience art. When you're using new tools as an artist, it changes what your work looks like. Because as you use the tool, you find new things to do with it and new things you want to explore with it and so the look of your work changes. We all know that.
 
 ## Unattributed [35:50](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2150s)
 
@@ -629,7 +629,7 @@ Actually a friend of mine put something in the capsule that's out there.
 
 ## Roz Dimon [45:17](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2717s)
 
-No, it is a very, we're in a huge shift. I agree. And, um, and, uh, I didn't expect really an answer, but I think you're, you're very thoughtful about it. And it's interesting. I, I, I feel we're in a whole visual vocabulary, rising visual vocabulary, and some of it's pretty ugly, it'll continue to rise.
+No, it is a very, we're in a huge shift. I agree. And, and, I didn't expect really an answer, but I think you're, you're very thoughtful about it. And it's interesting. I, I, I feel we're in a whole visual vocabulary, rising visual vocabulary, and some of it's pretty ugly, it'll continue to rise.
 
 And I think there's some interesting people like yourself who were doing really-
 
@@ -651,7 +651,7 @@ True it's
 
 ## Roz Dimon [47:05](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2825s)
 
-True but I can only lead with this f-tap that picasso when he did his dainty d'arvignon which was his big breakthrough out of his you know blue period and classical period into cubism you know a critic came to see him and and said you know this is a piece of trash and he put it under his bed and you know it's one of the most famous works ever you know part of it is knowing art history. I mean, these kind of arguments. Wait a minute, wait a minute, wait a minute.
+True but I can only lead with this f-tap that picasso when he did his dainty d'arvignon which was his big breakthrough out of his you know blue period and classical period into cubism you know a critic came to see him and said you know this is a piece of trash and he put it under his bed and you know it's one of the most famous works ever you know part of it is knowing art history. I mean, these kind of arguments. Wait a minute, wait a minute, wait a minute.
 
 ## Darcy Gerbarg [47:32](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2852s)
 
@@ -671,7 +671,7 @@ No, no, not, no, I'm not saying that. I'm not. But I'm, well, maybe I am. It's p
 
 ## Darcy Gerbarg [48:41](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2921s)
 
-That's not true. That has not usually been the case through the history of of art number one well
+That's not true. That has not usually been the case through the history of art number one well
 
 ## Roz Dimon [48:48](https://www.youtube.com/watch?v=aP2x9m5GMak&t=2928s)
 

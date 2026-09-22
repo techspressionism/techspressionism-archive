@@ -224,7 +224,7 @@ Yeah.
 
 I've been doing. So. Some organization. But I think I, myself, my role has been like facilitating activities on projects or just like spreading the word of how important is digital art. Right. So I, I started here my PhD with Jean-Pierre Balbe. And I was lucky to meet some colleagues, Maurice Benayoun, Pierre Lévy. And the ambient was really. Very interesting for exploring the use of new media. I started in Mexico. I lived there for years after my PhD. I started this small conference. Maybe you have heard about it. Maybe not. It's the Computer Art Congress. But it was cool that I can recall now that we had this first exhibition of digital art at the Museum of Modern Art in the city where I was living there, Toluca, Mexico.
 
-Among other people. Yeah. And we had to like construct really many electric cables. Right. To put the exhibition. Then. So I've been very like I really like like participating and giving a hand to whenever I can. Once, for instance, Ed Shanken asked too many people, Spanish speakers who would like to participate in this exhibition. And I was very lucky to help translating his book. And I ended up being the translator of his book. Then I know I've been involved recently with other perhaps larger organizations such as C-Graph. By the way, we are releasing today the program of the Art Gallery, which is happening next summer in Los Angeles at the Los Angeles Convention Center. And in parallel as well. I am also serving in the board of ICIA International. Perhaps also you have heard about this association that we have like reoriented to electronic and emerging art as Roger Molina was also inviting us to reflect on that.
+Among other people. Yeah. And we had to like construct really many electric cables. Right. To put the exhibition. Then. So I've been very like I really like participating and giving a hand to whenever I can. Once, for instance, Ed Shanken asked too many people, Spanish speakers who would like to participate in this exhibition. And I was very lucky to help translating his book. And I ended up being the translator of his book. Then I know I've been involved recently with other perhaps larger organizations such as C-Graph. By the way, we are releasing today the program of the Art Gallery, which is happening next summer in Los Angeles at the Los Angeles Convention Center. And in parallel as well. I am also serving in the board of ICIA International. Perhaps also you have heard about this association that we have like reoriented to electronic and emerging art as Roger Molina was also inviting us to reflect on that.
 
 So to move forward, I wanted to I chose a couple of projects that I wanted to show. That they say are part of my own experiments, I would say. And I really like I really love working with images and doing plastic. I would say experiment with those digital images using digital technologies that today with the web we are trying to do interactive and opening those in form in the form of tools. Right. So it started a while ago.
 
@@ -420,7 +420,7 @@ It lives in the scar of the trembling wrist.
 
 ## treeskulltown [53:40](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3220s)
 
-Maya is not just an animation, it is a testament of a machine condemned to be the unadorned mirror of humanity. All compressed. All compressed. All kannstolden. All lieu de trouver des inconsพ zawsze ? Yes. It will be presented in augmented reality at the Caboom Festival in 2026. The work will remain visible until May 23 at the Amsterdam Illustration Embassy. That's it for my presentation and thank you for listening.
+Maya is not just an animation, it is a testament of a machine condemned to be the unadorned mirror of humanity. All compressed. All compressed. All kannstolden. All lieu de trouver des inconsพ zawsze? Yes. It will be presented in augmented reality at the Caboom Festival in 2026. The work will remain visible until May 23 at the Amsterdam Illustration Embassy. That's it for my presentation and thank you for listening.
 
 ## Cynthia Beth Rubin [54:38](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3278s)
 
@@ -470,7 +470,7 @@ What people value in terms of what they feel that they want to express, for me a
 
 ## Isabelle Arvers [58:56](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3536s)
 
-Uh If I can just give a word, working a lot with sub-Saharan Africa and West Africa, it is a lot with digital materiality, but connected to realities like the biggest e-trash dump in Ghana, in Nigeria. And so, yeah, I would. And I'm talking about artists like Afrane Makoff, who is working on that subject.
+If I can just give a word, working a lot with sub-Saharan Africa and West Africa, it is a lot with digital materiality, but connected to realities like the biggest e-trash dump in Ghana, in Nigeria. And so, yeah, I would. And I'm talking about artists like Afrane Makoff, who is working on that subject.
 
 ## Cynthia Beth Rubin [59:35](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3575s)
 
@@ -500,13 +500,13 @@ Oh, that's interesting. This morning we had a Zoom with Makerspace in Uzbekistan
 
 ## Roz Dimon [01:02:35](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3755s)
 
-Very wonderful session. Really exciting. I'm trying to figure out how to say this question. It's just observations, but a questions in it. It seems to me there's there's such a largeness to the presentations today. In terms of. Various worlds, whether it's AI, spiritual material code, all coming together in these presentations in a kind of large, inventive, multilayered sort of presentations. I'm very inspired by what I'm seeing. And I wonder if you feel supported in France for doing this kind of work. And also, I'd love it if you if some of you and maybe especially Michael Boras.
+Very wonderful session. Really exciting. I'm trying to figure out how to say this question. It's just observations, but a questions in it. It seems to me there's such a largeness to the presentations today. In terms of. Various worlds, whether it's AI, spiritual material code, all coming together in these presentations in a kind of large, inventive, multilayered sort of presentations. I'm very inspired by what I'm seeing. And I wonder if you feel supported in France for doing this kind of work. And also, I'd love it if you if some of you and maybe especially Michael Boras.
 
-The. The spiritual aspects of. There's so many interesting things about AI. I mean, you end with this this this this kind of dark. Thing foreboding in the end. And yet there's such a idealism and beauty in the work. And I know in my own work, paradox for me is is just central. And I wonder if you could speak to that. And if any of you want to speak to your support of your work in France, too. Thank you. It's huge.
+The. The spiritual aspects of. There's so many interesting things about AI. I mean, you end with this kind of dark. Thing foreboding in the end. And yet there's such a idealism and beauty in the work. And I know in my own work, paradox for me is just central. And I wonder if you could speak to that. And if any of you want to speak to your support of your work in France, too. Thank you. It's huge.
 
 ## Stephen Paré [01:03:46](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3826s)
 
-I'd like to break in for just a moment because. I. I cropped systems video. Oh, and so that that ending, which might have seemed very dark to you, is is my responsibility. We we had a time limitation. So anyway, I apologize if that gave if that misrepresented your work, Michael.
+I'd like to break in for just a moment because. I. I cropped systems video. Oh, and so that ending, which might have seemed very dark to you, is my responsibility. We had a time limitation. So anyway, I apologize if that gave if that misrepresented your work, Michael.
 
 ## Systaime [01:04:15](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3855s)
 
@@ -516,13 +516,13 @@ I.
 
 ## Roz Dimon [01:04:55](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3895s)
 
-My my captions are not working and my French is OK.
+My captions are not working and my French is OK.
 
 ## Systaime [01:05:00](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3900s)
 
-So I say the object. Sorry, but my English is so my objective was to to show the positive vision of artificial intelligence because we see a lot of dark vision of. I. I. But true. At the end, I think a little bit about dark vision and I like to, you know, in young. So you understand what I mean? And that's it. But.
+So I say the object. Sorry, but my English is so my objective was to show the positive vision of artificial intelligence because we see a lot of dark vision of. I. I. But true. At the end, I think a little bit about dark vision and I like to, you know, in young. So you understand what I mean? And that's it. But.
 
-Mercy. Yeah. I mean, we are always in this in this attraction repulsion in digital art because we we. We. We are clever. We love mature. We love energy. But we are with machine and the computer. And it's a it's a paradox. But it's not a paradox because we can put inside some positive vibes. I mean.
+Mercy. Yeah. I mean, we are always in this in this attraction repulsion in digital art because we. We. We are clever. We love mature. We love energy. But we are with machine and the computer. And it's a it's a paradox. But it's not a paradox because we can put inside some positive vibes. I mean.
 
 ## Cynthia Beth Rubin [01:06:11](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3971s)
 
@@ -534,11 +534,11 @@ We artists specialize in paradox. Yeah. Yeah. We are paradox. That's right. We m
 
 ## Roz Dimon [01:06:21](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3981s)
 
-But I would say I'm still an idealist as well. I'm an idealist. So I love the the visions and the the openness and the beauty of a lot of these presentations. I mean, life is miraculous and you could feel in these pieces and many of them.
+But I would say I'm still an idealist as well. I'm an idealist. So I love the visions and the openness and the beauty of a lot of these presentations. I mean, life is miraculous and you could feel in these pieces and many of them.
 
 ## Systaime [01:06:37](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3997s)
 
-Yeah. And we can use the numeric and and the tool of this century. It's OK. I mean.
+Yeah. And we can use the numeric and the tool of this century. It's OK. I mean.
 
 ## Cynthia Beth Rubin [01:06:49](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4009s)
 
@@ -632,11 +632,11 @@ I'm curious how your use of hardware has changed like how is it have you gone to
 
 ## Stephen Paré [01:11:28](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4288s)
 
-Perhaps Treeskulltown Town would like to answer that okay okay
+Perhaps Treeskulltown Town would like to answer that okay
 
 ## treeskulltown [01:11:33](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4293s)
 
-The purpose is to have to be a a quick Fun multiplication I call this another knowledge maybe maybe maybe maybe with clay and start with the idea to the Prima material with my collection about Hachimi. And that's the definition. And the story comes with material. And you start with a clear space. We have so much stimulation in this world, so much technology. And to start to create free, we have to forget everything and add technology, add the generative art, add painting and so much tools to build the material. And that's the definition of the Prima material.
+The purpose is to have to be a quick Fun multiplication I call this another knowledge maybe with clay and start with the idea to the Prima material with my collection about Hachimi. And that's the definition. And the story comes with material. And you start with a clear space. We have so much stimulation in this world, so much technology. And to start to create free, we have to forget everything and add technology, add the generative art, add painting and so much tools to build the material. And that's the definition of the Prima material.
 
 ## Cynthia Beth Rubin [01:13:05](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4385s)
 

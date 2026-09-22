@@ -59,11 +59,11 @@ Oh, well, time
 
 ## Tikoi Kuitenbrouwer [04:06](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=246s)
 
-Differences. Well, to answer the big question of tonight, whether I think photography will die by the end of new media and AI, like they said, painting would do. I would say that's a big no for me. I think photography has always been such a strong media. And I think that's especially because of the paradox of photography. That's it's a straight reflection of reality. But at the same time, it's not because it's just a two dimensional depiction of it and it could never be real. But at the same time, it has this power that people say when they show their their past. But photo, they say this is me. They don't say this is a photo of me. This is me. So it's always been such a strong medium for me and to be able to mix it with other media. That's the big, big part and the big exciting thing about it.
+Differences. Well, to answer the big question of tonight, whether I think photography will die by the end of new media and AI, like they said, painting would do. I would say that's a big no for me. I think photography has always been such a strong media. And I think that's especially because of the paradox of photography. That's it's a straight reflection of reality. But at the same time, it's not because it's just a two dimensional depiction of it and it could never be real. But at the same time, it has this power that people say when they show their past. But photo, they say this is me. They don't say this is a photo of me. This is me. So it's always been such a strong medium for me and to be able to mix it with other media. That's the big, big part and the big exciting thing about it.
 
 And I think that will, of course, never go will never go under, especially will even get bigger in time. And. Well, like the first way I used photography was to because I couldn't sketch or anything. I'm going to start my share screen now. I am. OK. Basic share. So no, really? How come this is the wrong freaking?
 
-Sorry. There we go. Well, I couldn't really sketch. So I took photos and then I got them developed and brought them to a bookstore and I photocopied it and I enlarged it and enlarged it. So I had a back piece to draw on or to paint on on my first art classes in in high school. And that was the first get together of different media. But this is the first double exposure because this is the big thing I'm doing now. The first double exposure I ever took. But it's also made with a pinhole camera I made myself with six holes in it and it goes in these six parts intertwined in one negative. But here in the middle you can see my first self portrait.
+Sorry. There we go. Well, I couldn't really sketch. So I took photos and then I got them developed and brought them to a bookstore and I photocopied it and I enlarged it and enlarged it. So I had a back piece to draw on or to paint on my first art classes in high school. And that was the first get together of different media. But this is the first double exposure because this is the big thing I'm doing now. The first double exposure I ever took. But it's also made with a pinhole camera I made myself with six holes in it and it goes in these six parts intertwined in one negative. But here in the middle you can see my first self portrait.
 
 Double exposure. OK. I've been making myself make a daily double for a whole year now. And this is a big thing for me because I was getting almost lost in all the opportunities and all the possibilities in making the double exposures and also making them with glitch and everything. But now it's back to looking at the composition and the framing and the lighting and the most basic parts. And it's also a small diary.
 
@@ -85,7 +85,7 @@ Thank you very much.
 
 ## Tikoi Kuitenbrouwer [09:31](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=571s)
 
-Well, I wanted to show you some things as well. I'm making my own photography paper. And then the... The digital processed or manipulative... Where it's... I can put back on an old, really old medium. And I really love the way of the old processes... Those cyanotypes? ...winding with the new stuff. So...
+Well, I wanted to show you some things as well. I'm making my own photography paper. And then the... The digital processed or manipulative... Where it's... I can put back on an old, really old medium. And I really love the way of the old processes... Those cyanotypes?...winding with the new stuff. So...
 
 Those are cyanotypes?
 
@@ -103,7 +103,7 @@ And I also started with...
 
 ## Tikoi Kuitenbrouwer [10:14](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=614s)
 
-A lot of cyanotypes. Yeah. I started with a lot of cyanotype. I started with a lot of... That's fantastic. ...with the cyanotype brown process. But there are also bigger ones that... Or bigger ones. These are ones that I got... Relighted? How do you say? Exposed on negative. And then I brought them back to the darkroom. So these are manipulated images from the computer put back on negatives and then I put them back on the darkroom and then developed in the darkroom on the old-fashioned way. Beautiful.
+A lot of cyanotypes. Yeah. I started with a lot of cyanotype. I started with a lot of... That's fantastic....with the cyanotype brown process. But there are also bigger ones that... Or bigger ones. These are ones that I got... Relighted? How do you say? Exposed on negative. And then I brought them back to the darkroom. So these are manipulated images from the computer put back on negatives and then I put them back on the darkroom and then developed in the darkroom on the old-fashioned way. Beautiful.
 
 So those are... Yeah. That's what brings excitement from photography to me. To bring the old and the new together.
 
@@ -229,7 +229,7 @@ You should you should be able to yes okay
 
 ## Jaime Bautista [32:54](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1974s)
 
-Now let's see let me see where is this uh I share I cannot respond Do you see it? Can you see it?
+Now let's see let me see where is this I share I cannot respond Do you see it? Can you see it?
 
 ## Verneda Lights [33:40](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=2020s)
 
@@ -569,7 +569,7 @@ And most likely where do I go with security?
 
 ## Renata Janiszewska [01:14:35](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4475s)
 
-But you can all do that in in an event and it's your own business. It's not like you can't have it in an event. You can't have it in an event. It's not like you can't have it in an event.
+But you can all do that in an event and it's your own business. It's not like you can't have it in an event. You can't have it in an event. It's not like you can't have it in an event.
 
 ## Jaime Bautista [01:14:44](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4484s)
 
@@ -629,11 +629,11 @@ Your talk before that was very interesting. So thank you for that. Yeah.
 
 ## Colin Goldberg [01:17:14](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4634s)
 
-And you're definitely, you know, more than welcome to join us again. And a lot of times we we do have sort of a general open share. So, you know, once the, all the screen sharing, technical issues get worked out, we would love to have you back and, you know, see what you're working on. I'll post a link to your site though, again, in the...
+And you're definitely, you know, more than welcome to join us again. And a lot of times we do have sort of a general open share. So, you know, once the, all the screen sharing, technical issues get worked out, we would love to have you back and, you know, see what you're working on. I'll post a link to your site though, again, in the...
 
 ## Jaime Bautista [01:17:37](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4657s)
 
-So people can can check your work out on their own okay yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what what went wrong with this uh my system thank you very much and thank you for all the participants and you as an organizers as a expression thank you
+So people can check your work out on their own okay yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what went wrong with this my system thank you very much and thank you for all the participants and you as an organizers as a expression thank you
 
 ## Renata Janiszewska [01:18:09](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4689s)
 
@@ -641,7 +641,7 @@ Thank you tommy do you want to continue
 
 ## Tommy Mintz [01:18:21](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4701s)
 
-So I think we firmly answered the question that photography is not dead right I mean there's a silly question to propose in the first place um but it's not what it ever was historically it's continued to evolve right and I think it's really interesting to sort of consider once again this sort of uh interconnection between the practices we just viewed and I really think it's lovely to sort of see how the vocabulary I'm sort of hesitating to figure out the right word of how to describe what it is that the the camera has lent us as artists working within this space is it a how would you describe that renata what would you describe I
+So I think we firmly answered the question that photography is not dead right I mean there's a silly question to propose in the first place but it's not what it ever was historically it's continued to evolve right and I think it's really interesting to sort of consider once again this sort of interconnection between the practices we just viewed and I really think it's lovely to sort of see how the vocabulary I'm sort of hesitating to figure out the right word of how to describe what it is that the camera has lent us as artists working within this space is it a how would you describe that renata what would you describe I
 
 ## Unattributed [01:19:05](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4745s)
 
@@ -649,15 +649,15 @@ Mean
 
 ## Tommy Mintz [01:19:05](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4745s)
 
-I know you use some photographic methodologies within your brushes but what what does that add to your work what would you how would you describe that
+I know you use some photographic methodologies within your brushes but what does that add to your work what would you how would you describe that
 
 ## Renata Janiszewska [01:19:15](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4755s)
 
-For me I think the photographs are kind of shorthand they they work they work almost instantly if you have the ability to take a digital photograph it's much different than waiting for it to develop in the dark room so they they become like a shorthand for I sometimes just take pictures to remind myself of things that I've that I want to go back to or like I I thought you showing us the big screen in the gagosian gallery was that you know a really good illustration of what clive mentioned in in terms of the the ubiquity of those large format screens becoming better and better in resolution and cheaper and cheaper in price
+For me I think the photographs are kind of shorthand they work they work almost instantly if you have the ability to take a digital photograph it's much different than waiting for it to develop in the dark room so they become like a shorthand for I sometimes just take pictures to remind myself of things that I've that I want to go back to or like I thought you showing us the big screen in the gagosian gallery was that you know a really good illustration of what clive mentioned in terms of the ubiquity of those large format screens becoming better and better in resolution and cheaper and cheaper in price
 
 ## Clive Holden [01:20:06](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4806s)
 
-If you want to see what's coming up in a few years I don't want to make an advertisement because there'll be other competitors but samsung has a new technology called the wall they're starting to market this year it's easy easy to look up and uh that's probably an example of it there in gregorian but uh the prices are starting to come down they're still at uh kind of professional level prices right now um but they were you know from a million dollars to a hundred thousand dollars just a big jump in a short time in three or four years they come down to consumer prices and people are going to have these in their homes and uh so I don't really care so much about that and as I said there's going to be a negative aspect to do with the marketing but for us, to find a way to get some of these digital images into people's homes and on the walls of more normal galleries, it's going to be a huge opportunity change in a very short time.
+If you want to see what's coming up in a few years I don't want to make an advertisement because there'll be other competitors but samsung has a new technology called the wall they're starting to market this year it's easy easy to look up and that's probably an example of it there in gregorian but the prices are starting to come down they're still at kind of professional level prices right now but they were you know from a million dollars to a hundred thousand dollars just a big jump in a short time in three or four years they come down to consumer prices and people are going to have these in their homes and so I don't really care so much about that and as I said there's going to be a negative aspect to do with the marketing but for us, to find a way to get some of these digital images into people's homes and on the walls of more normal galleries, it's going to be a huge opportunity change in a very short time.
 
 And we should be planning for it in our art practices. Given what this group is interested in, it's going to be a big deal. It's very unlikely not to happen. So it's worth thinking about three, four, five years down the road, certainly 10 years down the road, probably more like five. Because at a certain point, the price just starts to plummet on these things.
 

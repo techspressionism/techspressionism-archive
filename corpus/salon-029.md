@@ -50,7 +50,7 @@ An account was established on the Kunstmatrix VR exhibition platform to begin in
 
 In the initial salon meetup, the group came to a consensus on the primary definition for Techspressionism, which is an artistic approach in which technology is utilized as a means to express emotional experience. And that definition is really a mashup of the definitions of technology and expressionism, specifically expressionism.
 
-But Helen actually made the suggestion that the initial definition used the word style, an artistic style in which technology is utilized as a means to express emotional experience. And I think it's important to state that one of her main contributions, in my opinion, was that that word style was replaced with the word approach. So this is not work that's unified in any form or form of expressionism. It's actually more than just unified by sort of a tech aesthetic in any way, in my opinion. It's a very diverse body of work that is unified by the approach and the philosophy behind the methodology involved in the making of the work, not necessarily work that all looks the same, which I think is an important distinction when we're seeing things like glitch art and other things like that out there on the net today.
+But Helen actually made the suggestion that the initial definition used the word style, an artistic style in which technology is utilized as a means to express emotional experience. And I think it's important to state that one of her main contributions, in my opinion, was that word style was replaced with the word approach. So this is not work that's unified in any form or form of expressionism. It's actually more than just unified by sort of a tech aesthetic in any way, in my opinion. It's a very diverse body of work that is unified by the approach and the philosophy behind the methodology involved in the making of the work, not necessarily work that all looks the same, which I think is an important distinction when we're seeing things like glitch art and other things like that out there on the net today.
 
 So with the addition of Patrick, who was teaching in Abu Dhabi at the time, this core group effectively became Techspressionism's founders when we met and came to a consensus on the definition of the term. Shortly after the first salon, Patrick suggested a set of revisions to the original manifesto, resulting in version two, which is the text currently posted on the website.
 
@@ -152,7 +152,7 @@ Well, I don't know, maybe so people understand what I'm talking. I don't know. I
 
 ## Colin Goldberg [24:54](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1494s)
 
-Um, yeah, I think that's a good idea, you know, just so probably the majority of the time can be spent, looking at one.
+Yeah, I think that's a good idea, you know, just so probably the majority of the time can be spent, looking at one.
 
 ## Patrick Lichty [25:01](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1501s)
 
@@ -160,7 +160,7 @@ And thank you so much for being part of the exhibition we really do appreciate i
 
 ## Nina Yankowitz [25:05](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1505s)
 
-Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the so here in this piece it's the smoke that's filling your lungs whether you can see see it or not. Just reminding that treating subjects as outliers, just as artists are treated as outliers, not into the mainstream vocabulary, which was a little bit of what was just presented, which I love that consciousness being presented, that we all have a voice and and we have something to say, and we hope that our community and others outside of our community will learn from it, experience it, and be excited about changing.
+Thank you. Thank you. So, most of my work through out from the 60s through now has basically been about speaking about the culture, cultural issues on championing unsung sheroes which is something I'm very involved with now still currently on a global global warming. So I've been working with the so here in this piece it's the smoke that's filling your lungs whether you can see see it or not. Just reminding that treating subjects as outliers, just as artists are treated as outliers, not into the mainstream vocabulary, which was a little bit of what was just presented, which I love that consciousness being presented, that we all have a voice and we have something to say, and we hope that our community and others outside of our community will learn from it, experience it, and be excited about changing.
 
 It's really an act, a call to act, action, is something that I've used technology to portray my visions. That's it.
 
@@ -340,7 +340,7 @@ All right. Sue, Sue, Sue. There you are, Sue.
 
 ## Sue Beyer [43:49](https://www.youtube.com/watch?v=ADjcjvSQViE&t=2629s)
 
-Cool. Okay. So this work is actually a digital version of a painting that I've made. And I think that it's just an amazing world. And I think that that's what you're doing. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that.
+Cool. Okay. So this work is actually a digital version of a painting that I've made. And I think that it's just an amazing world. And I think that's what you're doing. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that. So I'm going to talk a little bit about that.
 
 So I'm going to talk a little bit about that. Using other people's work is that I feel that a lot has already been said about problems in the world like racism, poverty, war and climate that I felt like it's already been said so I'm not going to say it again. So I'll use someone else's work to talk about what they were talking about. That's terrible. I don't know what to explain it. But, yeah, that's what this work is about. And that's it, really.
 
@@ -442,7 +442,7 @@ Thank you. And it's been awesome for us to just put that out there. I'll do some
 
 ## Colin Goldberg [55:52](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3352s)
 
-No, I was just saying thank you as well. And for anyone that that came in late, I put this in the chat. But if you are in the show and you want to say something about your work, please place your name in the chat. If you've not done so already.
+No, I was just saying thank you as well. And for anyone that came in late, I put this in the chat. But if you are in the show and you want to say something about your work, please place your name in the chat. If you've not done so already.
 
 ## Davonte Bradley [56:08](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3368s)
 
@@ -486,11 +486,11 @@ Add the!
 
 That's all right. People can go see it as the NFT where it's listed. This is hello, everyone. It's been great to be here. This is for my series called Guns that first premiered at Carter Burden Gallery in Chelsea, New York, in 2018, following my investigations of tools. And I've always been fascinated by tools. That includes the computer, which in 1980s, upon landing in New York City, my oil paintings just filled with pixels and I call them information paintings.
 
-So these pieces, this was a quick animation of a gun, which is also a still piece, and it is 41 layers and created totally digitally one mark at a time, and all of these guns have stories behind them. And for me, the marks of the digital, the digital marks that I make are very important and expressive to me. They look similar to the kind of works that I do in other media. And yet there is something that speaks to this time distinctly. I feel that this group is speaking to as well in a world that has been turned upside down really by sure. There's always been technology, but I think the quantum leaks we're making right now are hard for people. And I think artists actually hold the reins to to be talking about this new cave wall in a way that brings maybe understanding and meaning to people about about current events and things going on.
+So these pieces, this was a quick animation of a gun, which is also a still piece, and it is 41 layers and created totally digitally one mark at a time, and all of these guns have stories behind them. And for me, the marks of the digital, the digital marks that I make are very important and expressive to me. They look similar to the kind of works that I do in other media. And yet there is something that speaks to this time distinctly. I feel that this group is speaking to as well in a world that has been turned upside down really by sure. There's always been technology, but I think the quantum leaks we're making right now are hard for people. And I think artists actually hold the reins to be talking about this new cave wall in a way that brings maybe understanding and meaning to people about current events and things going on.
 
-But but in a dialog that is different than just talking, I mean, people say, Roz, guns, why are you drawing guns? Well, my God, they're on the front page every day. Every police department has a Kalashnikov now or, you know, MK 15 and tools are beautiful and brilliant things. And human beings are are pretty brilliant, too. But where it's all about good and evil. So paradox is always a big part of my work, no matter what medium it is. And drawing and painting, I'm kind of like a conduit between the old school and the new. It's always about expressing the world we're in. And the only thing different from, I guess, the Roman days and the Greeks is that, you know, we can artists speak uniquely to their time. And I think expressionism as a movement is also doing that in a very generous, open and interesting, social, experimental way that Colin has put forth that welcomes all.
+But in a dialog that is different than just talking, I mean, people say, Roz, guns, why are you drawing guns? Well, my God, they're on the front page every day. Every police department has a Kalashnikov now or, you know, MK 15 and tools are beautiful and brilliant things. And human beings are pretty brilliant, too. But where it's all about good and evil. So paradox is always a big part of my work, no matter what medium it is. And drawing and painting, I'm kind of like a conduit between the old school and the new. It's always about expressing the world we're in. And the only thing different from, I guess, the Roman days and the Greeks is that, you know, we can artists speak uniquely to their time. And I think expressionism as a movement is also doing that in a very generous, open and interesting, social, experimental way that Colin has put forth that welcomes all.
 
-But. And I think that's a very, very exciting moments happening in this field. I've been pleased to be part of it. You can come see more about me online and feel free to be in touch. Thank you for including me. And also, I've curated a show at the the wrong biennial, Love Being in the Wrong, and it's called Devotion. And some of the artists in this group are part of my pavilion. So please come take a look then. And thank you.
+But. And I think that's a very, very exciting moments happening in this field. I've been pleased to be part of it. You can come see more about me online and feel free to be in touch. Thank you for including me. And also, I've curated a show at the wrong biennial, Love Being in the Wrong, and it's called Devotion. And some of the artists in this group are part of my pavilion. So please come take a look then. And thank you.
 
 This is called Stephen Small Lovable. And you can't hear the voiceover, but it's about a gun that a very lonely, gay man had tucked away in his drawer. It's a beautiful little Derringer, never fired, that he loved. And he was of a time where he couldn't express who he was really as a man. And this gun really meant a lot to this person. I mean, the stories behind guns are really touching.
 
@@ -534,7 +534,7 @@ Thank you, everyone.
 
 ## Davonte Bradley [01:07:32](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4052s)
 
-I don't think it needs to be said, but in the interest of courtesy, if you please do have your your mic muted, if you're not going to be the person speaking, but yeah, it goes without saying. Next up, we have Victor. Let's go, Victor.
+I don't think it needs to be said, but in the interest of courtesy, if you please do have your mic muted, if you're not going to be the person speaking, but yeah, it goes without saying. Next up, we have Victor. Let's go, Victor.
 
 ## Unattributed [01:07:52](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4072s)
 
@@ -604,7 +604,7 @@ Right back at you. All right.
 
 ## Davonte Bradley [01:17:14](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4634s)
 
-Thank you for that. Thank you. Next up, we have Renata. So let me do do do. Whoops. Works. And there you are, infirm nebula.
+Thank you for that. Thank you. Next up, we have Renata. So let me do. Whoops. Works. And there you are, infirm nebula.
 
 ## Renata Janiszewska [01:17:38](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4658s)
 
@@ -650,7 +650,7 @@ Thank you, Colin and Patrick. And it's a pleasure to be a part of this show, whi
 
 I took those mechanics and I kind of turned them on their head to make something that looked like it had a little bit more human involvement in it. Human interaction. But it was actually done through a nonlinear transformation called a minkaliscope through fractal software. I use for this piece, the base of it started with J. Wildfire.
 
-I felt that it was a very energetic piece, thus the name, eruption, kind of breaking through. But it's a very energetic piece. But the colors were warm and I felt that that provided a little bit more balance to it. My art has moved a little bit in the direction of more of that self-similar animated art that I enjoy. But I love working with fractals and bending the mechanics. This has been minted into an NFT on foundation.
+I felt that it was a very energetic piece, thus the name, eruption, kind of breaking through. But it's a very energetic piece. But the colors were warm and I felt that provided a little bit more balance to it. My art has moved a little bit in the direction of more of that self-similar animated art that I enjoy. But I love working with fractals and bending the mechanics. This has been minted into an NFT on foundation.
 
 Yes. Thank you.
 
@@ -898,9 +898,9 @@ And she also had some other stuff that was going on, which made her like super p
 
 So it's like that weight, that burden fell on my shoulders, even though she actually lives with my brother, surprisingly enough, but he's kind of not helpful anyway. That's pretty much the idea behind this. And this one, like if you if I zoom in really close here, it almost looks a little staticky in the middle and also has my like eye of truth or variation of it over it, which is kind of like a symbol for protection and observation. Like the work is looking at you while also you're peering into it.
 
-And yeah, that's so it's it's actually kind of tied indirectly to my book of short poems called _Generational_, which I do have a copy that I just dropped on the floor. So there's that. But yeah, my book of short poems pretty much covers the exact same thing. It's a series of stories and in poem form with art that accompanies it that falls the same vein.
+And yeah, that's so it's actually kind of tied indirectly to my book of short poems called _Generational_, which I do have a copy that I just dropped on the floor. So there's that. But yeah, my book of short poems pretty much covers the exact same thing. It's a series of stories and in poem form with art that accompanies it that falls the same vein.
 
-So, yeah. And again, glad to be here. Glad to be your moderator, your host, your general nonsense person that, uh, that's been a real pleasure this whole year. I've been part of this.
+So, yeah. And again, glad to be here. Glad to be your moderator, your host, your general nonsense person that, that's been a real pleasure this whole year. I've been part of this.
 
 ## Colin Goldberg [01:55:37](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6937s)
 
@@ -920,7 +920,7 @@ I guess I could pull up.
 
 ## Colin Goldberg [01:56:19](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6979s)
 
-Once to go, if you want to pull his his work up, maybe Sean Mick, correct?
+Once to go, if you want to pull his work up, maybe Sean Mick, correct?
 
 ## Davonte Bradley [01:56:24](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6984s)
 
@@ -1040,7 +1040,7 @@ Yeah. Okay. I've got a great link to share. It's here. Okay. It can show a littl
 
 ## Colin Goldberg [02:07:03](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7623s)
 
-And I just wanted to add too, for the people who might be watching later on on YouTube, one of the main ways that we locate artists is through the use of the hashtag, Techspressionism, on Instagram. So if you're an artist or a creator and use the hashtag, our curator will most likely see your work when she's looking to share content for the... You know, the Instagram story, as well as passing on suggestions for featured artists to me that I could add to the index.
+And I just wanted to add too, for the people who might be watching later on YouTube, one of the main ways that we locate artists is through the use of the hashtag, Techspressionism, on Instagram. So if you're an artist or a creator and use the hashtag, our curator will most likely see your work when she's looking to share content for the... You know, the Instagram story, as well as passing on suggestions for featured artists to me that I could add to the index.
 
 ## Unattributed [02:07:33](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7653s)
 

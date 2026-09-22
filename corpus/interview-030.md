@@ -175,7 +175,7 @@ Photoshop.
 
 ## Carla Gannis [14:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=855s)
 
-And populating them, emojifying the Bosch. And, the first time I showed Just a small print where I was still working in progress, which was the HELL panel, and I later, as you saw, you know, created all three, the triptych. I thought I'd get laughed out of the gallery, because I thought, what an absurd premise. And I swim in the absurd and the comedic with a lot of my work, but I was sure I was going to get laughed out of the gallery, and it resonated with people in a way that that was incredibly unexpected to me, and has continued to do so. I still get DMs, I have a show coming up showing this work, and that's been, you know, many… 12 years ago, and so it's fascinating when you're working on something, and you're not even sure about the premise.
+And populating them, emojifying the Bosch. And, the first time I showed Just a small print where I was still working in progress, which was the HELL panel, and I later, as you saw, you know, created all three, the triptych. I thought I'd get laughed out of the gallery, because I thought, what an absurd premise. And I swim in the absurd and the comedic with a lot of my work, but I was sure I was going to get laughed out of the gallery, and it resonated with people in a way that was incredibly unexpected to me, and has continued to do so. I still get DMs, I have a show coming up showing this work, and that's been, you know, many… 12 years ago, and so it's fascinating when you're working on something, and you're not even sure about the premise.
 
 And then an audience responds to it in ways you didn't expect. Yeah.
 
@@ -989,7 +989,7 @@ Probably.
 
 ## Carla Gannis [01:01:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3673s)
 
-Yeah, and you kind of invited me into the community via Facebook group, and then I participated in quite a few shows now, you know. Thankful… thankfully to you, and to Tommy Mintz, and, you know. And and I know last summer or last spring, I was on a panel discussion.
+Yeah, and you kind of invited me into the community via Facebook group, and then I participated in quite a few shows now, you know. Thankful… thankfully to you, and to Tommy Mintz, and, you know. And I know last summer or last spring, I was on a panel discussion.
 
 ## Colin Goldberg [01:01:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3691s)
 

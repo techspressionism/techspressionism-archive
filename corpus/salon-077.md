@@ -31,7 +31,7 @@ flags:
 
 Hello! My name is Colleen Goldberg, and I am here. At the seventy-seventh rush and salon Today is December seventh, 2023, and I'm zooming in from North Beddington, Vermont. The topic of today's salon is sculpture which is related to not only physical sculpture, but anything that could be considered sculptures such as objects in a virtual space. And I'm gonna open up briefly with a little kind of intro on social sculpture, and tonight's or today's presenting. Artists are Steve Miller and Suzanne Anker both of whom I know from Long Island and no for quite a while, and they're gonna talk about sculptural work within their own practices.
 
-So without further ado, I'm just gonna open it up as far as this idea goes, you know. Really, I do not make Sculpture per se. But I tend to like to think of text freshmen as a social sculpture. That is you know, the idea of social sculpture is something that I was introduced to by one of the artists in the group Named Joseph Macfittal, and I was doing a project back in the late nineties called Ever Beta, which is still the name of my my studio and at that point, and the idea with ever beta is it is constantly changing, like the web is always in Beta, so it's morphed into various iterations. But at that point it was a a content network. And at that point also everyone was on dial up and there was not an audience for it, but it was.
+So without further ado, I'm just gonna open it up as far as this idea goes, you know. Really, I do not make Sculpture per se. But I tend to like to think of text freshmen as a social sculpture. That is you know, the idea of social sculpture is something that I was introduced to by one of the artists in the group Named Joseph Macfittal, and I was doing a project back in the late nineties called Ever Beta, which is still the name of my studio and at that point, and the idea with ever beta is it is constantly changing, like the web is always in Beta, so it's morphed into various iterations. But at that point it was a content network. And at that point also everyone was on dial up and there was not an audience for it, but it was.
 
 I would say, something that provided a structure for the way Techspressionism is in some regards. Now, that is it was loosely based on The idea behind Morehall's Interview magazine, where artists would interview other artists. Which is, you know, something that we've been doing here within the community. But it also extended to poets, musicians, interviewing people in different disciplines, and Joseph related that to this idea of social sculpture which I hadn't heard of before, but it was actually invented by a German artist named Joseph Boyce, who also happened to be the co-founder of the Green party in Germany.
 
@@ -41,7 +41,7 @@ We kind of started formulating the goals of the project, and when I think about 
 
 Who is Steve Miller? Steve was born in 1951 in Buffalo, New York, and he's a multimedia artist who makes paintings, screen prints, artists, books, and sculptures, and through his art he explores the influence of science and technology on modern culture. According to Wikipedia. According to Colin, Steve is the person that I was a studio assistant for 30 years ago, and basically learn silk screen printing how to clean silk screens, met tons of interesting people in a studio. But I think most importantly, I saw the inside of a working studio for the first time, which was very revelatory, and something that I wasn't able to experience. As an undergraduate student.
 
-You know, my professors were people that I saw inside the Art Building never really saw what they were doing the rest of the time. So I learned a lot from Steve. One of the main things was. He was not in the artist, in the, in the studio, making work all the time, as many people think. This is what a you know, practicing artist does. He was actually. You know, many days of the week sending out slides back when people use slides making phone calls, doing, you know all of the other stuff. And then the actual printing and making art was, you know, the that was the fun part. So it it opened my eyes to like the reality of what this requires, and also, you know, was great opportunity to be in a fantastic space. Renovated potato barn that used to be owned by Frank Stella.
+You know, my professors were people that I saw inside the Art Building never really saw what they were doing the rest of the time. So I learned a lot from Steve. One of the main things was. He was not in the artist, in the, in the studio, making work all the time, as many people think. This is what a you know, practicing artist does. He was actually. You know, many days of the week sending out slides back when people use slides making phone calls, doing, you know all of the other stuff. And then the actual printing and making art was, you know, the that was the fun part. So it opened my eyes to like the reality of what this requires, and also, you know, was great opportunity to be in a fantastic space. Renovated potato barn that used to be owned by Frank Stella.
 
 You know one of the other assistants, Robert Barton, printed for Andy Warhol for many years. So it was just an incredible experience. Since Steve has been a mentor, a friend for many years. I helped him build out Steve Miller.com, and to secure the domain before the Steve Miller band. Guy got it. So Steve is. I think, very happy about that, and still his don't. His site is hosted at that URL, Steve Miller so without further ado, I'm gonna pass the mic over to Steve and yeah, take it away, Steve.
 
@@ -55,7 +55,7 @@ Oh, is that what it was? Okay? So can you guys see my screen.
 
 ## Steve Miller [07:14](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=434s)
 
-So I kind of backed into sculpture In a in a a, A way that I had not. Okay, we've got to make this
+So I kind of backed into sculpture In a in a, A way that I had not. Okay, we've got to make this
 
 ## Suzanne Anker [07:25](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=445s)
 
@@ -63,39 +63,39 @@ Bigger
 
 ## Steve Miller [07:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=446s)
 
-Fit the screen. Right? Okay, there we go. And it was a project at Longhouse in East Hampton, New York, and The II done it with a woman name. I was supposed to do a project with Edwina Van Gogh, the who was a trustee there, and a and a well known gardener, landscape, architect, and designer, and the idea was, you had to take care of a living thing in a box For the entire summer. So my idea was to make a steel cube fill it with moss, because you were also obligated to maintain this thing. And what happened was is that she baled and and I decided to take some of my X rays.
+Fit the screen. Right? Okay, there we go. And it was a project at Longhouse in East Hampton, New York, and The II done it with a woman name. I was supposed to do a project with Edwina Van Gogh, the who was a trustee there, and a and a well known gardener, landscape, architect, and designer, and the idea was, you had to take care of a living thing in a box For the entire summer. So my idea was to make a steel cube fill it with moss, because you were also obligated to maintain this thing. And what happened was is that she baled and I decided to take some of my X rays.
 
-Print them on glass, slip them, and do a sheet of steel, and and that's you know how I got started on this project. And then I put them in different environments. This is in Times Square, in somebody's office again. I'd had this project called Health of the Planet, and the idea was. If the Amazon were the lungs of the planet. I would have this project where I would go down to Brazil X. Ray the plants and animals of the Amazon. And do this metaphorical checkup for, you know, for the benefit of the earth. And and this These sculptures I also did some sculptures which involve books, because I'm a bibliophile.
+Print them on glass, slip them, and do a sheet of steel, and that's you know how I got started on this project. And then I put them in different environments. This is in Times Square, in somebody's office again. I'd had this project called Health of the Planet, and the idea was. If the Amazon were the lungs of the planet. I would have this project where I would go down to Brazil X. Ray the plants and animals of the Amazon. And do this metaphorical checkup for, you know, for the benefit of the earth. And this These sculptures I also did some sculptures which involve books, because I'm a bibliophile.
 
 This image on the left is actually from the Atlantic rainforest. Those are Amazon leaves from the Atlantic. Rainforest Started still screening into books about nature about the Amazon, and started making these book sculptures. So these are just different pages of the book. So I still screened on every page of the book, and you could change the book. You could pull it out from the glass, and kind of make a different composition each time you flip the pages.
 
 So this is an X-ray python again using those. I embedded those Amazon plants into the glass, and you know you can change the pages and open the book up. And you know part of my thinking was that you could always be refreshing your eyes. So if you got tired of looking at something, and you'd have this reference to you know the land of what was going on, as well as keeping your eye brush about the environmental issues that I thought were really important.
 
-So I was still screening again on the left this X-ray of a python that I had taken down there, and and then I had taken this snake to a hospital, had an X-ray we had fetid a rat. And that's the only way you can get the snake to be dormant and quiet. While you're taking the X-ray. Otherwise they're always moving. So we Fed the snake, and Rat took it to the hospital and appropriately called it Love the jungle. And again I kept really enjoying playing with these ideas of books. I'm a real bibliophile. I make a lot of artist books, and this is the color version of that same branch from the Atlantic rainforest, where I stayed a little bit for several years, you know. A few weeks a year I'd go down there and investigate and then I took the The book by Al Gore, for I guess he won the Nobel Prize for this Earth imbalance, and I still screen on every page of the book.
+So I was still screening again on the left this X-ray of a python that I had taken down there, and then I had taken this snake to a hospital, had an X-ray we had fetid a rat. And that's the only way you can get the snake to be dormant and quiet. While you're taking the X-ray. Otherwise they're always moving. So we Fed the snake, and Rat took it to the hospital and appropriately called it Love the jungle. And again I kept really enjoying playing with these ideas of books. I'm a real bibliophile. I make a lot of artist books, and this is the color version of that same branch from the Atlantic rainforest, where I stayed a little bit for several years, you know. A few weeks a year I'd go down there and investigate and then I took the book by Al Gore, for I guess he won the Nobel Prize for this Earth imbalance, and I still screen on every page of the book.
 
 And so again you can open the book on the left. You have images of the wires that are these crazy drawings and the slums of the Brazil and Rio Called the favela, and the idea was. You know, law of the jungle. This sort of deforestation is causing, you know, the result of this deforestation are the image on the left, and what you're losing, perhaps, is the image on the right. So it was a real opportunity to start playing with things that I loved. And while I don't think of these as traditional sculptures.
 
-I really felt it was a great way for me to put my love of books and the beauty of looking through an X-ray, because I think the X-rays themselves are really beautiful. And this you're looking at right now as an osprey From Northern, you know, North Long Island on the north port, and ospreys actually go down to the Amazon when they meet sexual maturity. They they, they migrate to the Amazon right after their first summer. Then they Huh! And it gets actually mi mature in Brazil and and the Northern Amazon, and then they come back and stay north for the rest of their lives. So this book actually had 360 page spreads in it. So the idea is you could change the image every day. So each each one has been still screened, so you can imagine it takes about a year to make one of these books, and you also have the pleasure of being able to change it on a regular basis.
+I really felt it was a great way for me to put my love of books and the beauty of looking through an X-ray, because I think the X-rays themselves are really beautiful. And this you're looking at right now as an osprey From Northern, you know, North Long Island on the north port, and ospreys actually go down to the Amazon when they meet sexual maturity. They, they migrate to the Amazon right after their first summer. Then they Huh! And it gets actually mi mature in Brazil and the Northern Amazon, and then they come back and stay north for the rest of their lives. So this book actually had 360 page spreads in it. So the idea is you could change the image every day. So each each one has been still screened, so you can imagine it takes about a year to make one of these books, and you also have the pleasure of being able to change it on a regular basis.
 
 Here you're looking at a mirror. Which is that Thing that looks like an artery which is actually a satellite map of the Amazon and I use that in combination with the snake and these other imagers about the Amazon for this particular piece another version of books and branches called Library Branch. And here I've combined the X-ray of the Amazon plant with the wires and the Brazil favela. And then an a version of these is, I got more kind of elaborate with you. I started putting these images and bronze and making them Really suitable for outdoor use. This is an indoor piece combining that same image from the rainforest.
 
-And then this is actually the hand of the radiologist. Who has all this metal in his? In his arm when we brought the snake to the hospital, and the book below is a book that Richard Prince got sued from, called Yes, Rosta, and I love that book as well, and it started using it On my own, and then Actually met the photographer that did it, and got permission to use the images and the start of one of the themes was the, you know, the deforestation, and you have here my version of of a PA tel, which is a an endangered species, which is the Sloth. They're really going through a crisis in Brazil. And this was a commission for the opening of a museum Called the Broad Museum in East Landing, Lanzing, Michigan, at Michigan State University, and the building in the background is a Zaha hadid Building. So I took these live alligator, put them on glass. This is the sloth With a sort of stainless steel camouflage pattern that's also at Longhouse. So I did a solo show at Longhouse with these images and Long Island.
+And then this is actually the hand of the radiologist. Who has all this metal in his? In his arm when we brought the snake to the hospital, and the book below is a book that Richard Prince got sued from, called Yes, Rosta, and I love that book as well, and it started using it On my own, and then Actually met the photographer that did it, and got permission to use the images and the start of one of the themes was the, you know, the deforestation, and you have here my version of a PA tel, which is a an endangered species, which is the Sloth. They're really going through a crisis in Brazil. And this was a commission for the opening of a museum Called the Broad Museum in East Landing, Lanzing, Michigan, at Michigan State University, and the building in the background is a Zaha hadid Building. So I took these live alligator, put them on glass. This is the sloth With a sort of stainless steel camouflage pattern that's also at Longhouse. So I did a solo show at Longhouse with these images and Long Island.
 
-So some of the images you see earlier. But now outdoors, you know, the glass can on the right angle disappear, and they really kind of float in the landscape. This is an indoor piece, and in this case I actually took a a rifle, shot the sloth through the heart of the X ray. That is so. That's One thing. Now, I gotta get out of here and find How to get to my desktop again, and we'll make this quick. Okay? So the idea of you know what is a sculpture? And Obviously we learn from Duchamp with a bottle rack and a urinal and a snow shovel that you know sculpture can have these different lives. And I started looking at ways to get the image out in the world in a different kind of way, and perhaps a more commercial way.
+So some of the images you see earlier. But now outdoors, you know, the glass can on the right angle disappear, and they really kind of float in the landscape. This is an indoor piece, and in this case I actually took a rifle, shot the sloth through the heart of the X ray. That is so. That's One thing. Now, I gotta get out of here and find How to get to my desktop again, and we'll make this quick. Okay? So the idea of you know what is a sculpture? And Obviously we learn from Duchamp with a bottle rack and a urinal and a snow shovel that you know sculpture can have these different lives. And I started looking at ways to get the image out in the world in a different kind of way, and perhaps a more commercial way.
 
-And that was working with surfboards and skate decks. And I also like the idea that if you're moving around on a skate deck, you're actually kind of, you know, moving back and forth like a the way a snake might move. So this is a a pair, sir, of skate decks that I did for a company as a limited edition. And then I started doing unique versions, using the Amazon images is actually an X-ray of a pineapple and Amazon fur ferns from the jungle. Kind of a group that I saw as a trip tick on the left. You have banana flowers. Believe it or not. If you look at the very bottom of the board, you see these sort of Groupings of small bananas before the flower has been actually pollinated. That's what they look like in these small bunches.
+And that was working with surfboards and skate decks. And I also like the idea that if you're moving around on a skate deck, you're actually kind of, you know, moving back and forth like a the way a snake might move. So this is a pair, sir, of skate decks that I did for a company as a limited edition. And then I started doing unique versions, using the Amazon images is actually an X-ray of a pineapple and Amazon fur ferns from the jungle. Kind of a group that I saw as a trip tick on the left. You have banana flowers. Believe it or not. If you look at the very bottom of the board, you see these sort of Groupings of small bananas before the flower has been actually pollinated. That's what they look like in these small bunches.
 
-And we were going to into the Amazon, going to the river getting Amazon River fish. And I was doing this in Belen, which is the northern mouth of the Amazon, was lucky enough to get a fresh water stingray, which was illegally poached. But I met the poachers, and they had a huge warehouse of live this, and and by the way, the poachers. I was taken to the poacher warehouse by the head of the aquarium in Beland. So the boundaries and all this is something interesting. The aquarium was closed because of funding possibilities problems. And then the head of the aquarium took me to the poacher.
+And we were going to into the Amazon, going to the river getting Amazon River fish. And I was doing this in Belen, which is the northern mouth of the Amazon, was lucky enough to get a fresh water stingray, which was illegally poached. But I met the poachers, and they had a huge warehouse of live this, and by the way, the poachers. I was taken to the poacher warehouse by the head of the aquarium in Beland. So the boundaries and all this is something interesting. The aquarium was closed because of funding possibilities problems. And then the head of the aquarium took me to the poacher.
 
-Warehouse, and and I wanted one of the sting rays to X ray. They said no way. While I was there in Belam one died in captivity, so they brought it to me, and we X. Rayed it that evening. From the Zoo. In Vailam we had live juvenile alligators that we fed through an X-ray machine, and I thought this was how the sculpture project was surpord started. I was thinking, like people, stuff alligators and make them trophies. And while this is made of plastic, I thought it was an interesting concept To make a kind of less. You know, we didn't kill the animal in this case. So my version of the Eco trophy and you see surfboards and almost everyone's houses, you know, especially in Rio and in the coastal communities, surfing is just a a major activity. So again, these are the fresh water stingrays from the Amazon River.
+Warehouse, and I wanted one of the sting rays to X ray. They said no way. While I was there in Belam one died in captivity, so they brought it to me, and we X. Rayed it that evening. From the Zoo. In Vailam we had live juvenile alligators that we fed through an X-ray machine, and I thought this was how the sculpture project was surpord started. I was thinking, like people, stuff alligators and make them trophies. And while this is made of plastic, I thought it was an interesting concept To make a kind of less. You know, we didn't kill the animal in this case. So my version of the Eco trophy and you see surfboards and almost everyone's houses, you know, especially in Rio and in the coastal communities, surfing is just a major activity. So again, these are the fresh water stingrays from the Amazon River.
 
-And then On this board I actually put on the reverse of the board Satellite maps of Amazon land clearing and the palm tree on the front. So it's sort of a double sided board and a trip tick that I made of of Amazon piranas and piranhas are an important Animal, because they clean all the garbage in the river, so they have a really important function to make the ecosystem. You know better for the other animal. You know the other fish, and The ecosystem and the water that that needs a clean environment. So these guys are the the bottom feeders, but they serve a major purpose. So the boards are all unique On the right. If you can see on the bottom, I guess this is number 12. And people, you know, some people have served these, but they ended up being, you know, put in.
+And then On this board I actually put on the reverse of the board Satellite maps of Amazon land clearing and the palm tree on the front. So it's sort of a double sided board and a trip tick that I made of Amazon piranas and piranhas are an important Animal, because they clean all the garbage in the river, so they have a really important function to make the ecosystem. You know better for the other animal. You know the other fish, and The ecosystem and the water that needs a clean environment. So these guys are the bottom feeders, but they serve a major purpose. So the boards are all unique On the right. If you can see on the bottom, I guess this is number 12. And people, you know, some people have served these, but they ended up being, you know, put in.
 
-You know, regular environments by collectors, and and hung as a work of art. And Just a quick view of the process. You could now actually print these things digitally on cloth on fiberglass cloth, and this is at the shapers. Who's you know? We're laying down the cloth, figuring out how to put it on the board. And that's kind of the result when it's clean The again the the river fish. And then finally I ended up doing some spending time at the large Hadron Collider in Geneva, Switzerland, and they have all these amazing chalkboards. So I thought, Wow, it really made sense to make chalkboards. And so these are the chalkboards. They're different.
+You know, regular environments by collectors, and hung as a work of art. And Just a quick view of the process. You could now actually print these things digitally on cloth on fiberglass cloth, and this is at the shapers. Who's you know? We're laying down the cloth, figuring out how to put it on the board. And that's kind of the result when it's clean The again the river fish. And then finally I ended up doing some spending time at the large Hadron Collider in Geneva, Switzerland, and they have all these amazing chalkboards. So I thought, Wow, it really made sense to make chalkboards. And so these are the chalkboards. They're different.
 
-You know, images. Obviously the one in the center is a straight chalkboard, something I photographed. And then I started playing in Photoshop and animating them, and putting with different kinds of paintings this for the the people on Long Island. It's X-ray of a lobster. So here's my lobster board, my only not well. Not my only non Amazon images, but my last book was called something called _Surfing the Cosmos_ with Neil Degrasse Tyson, as some of you know, and so I put the Adrabida. I thought it was a perfect idea for _Surfing the Cosmos_, and as an image to put on a surfboard.
+You know, images. Obviously the one in the center is a straight chalkboard, something I photographed. And then I started playing in Photoshop and animating them, and putting with different kinds of paintings this for the people on Long Island. It's X-ray of a lobster. So here's my lobster board, my only not well. Not my only non Amazon images, but my last book was called something called _Surfing the Cosmos_ with Neil Degrasse Tyson, as some of you know, and so I put the Adrabida. I thought it was a perfect idea for _Surfing the Cosmos_, and as an image to put on a surfboard.
 
-And yeah, that's it. This Image on the left I happen to, you know, one of the beauties of making these objects that you can put out into the world. This is actually I did a whole block at Bloomingdale's in New York, and this is just a detail of one of the windows. And on the right is the second page of the Surf Skate Book, or it could be the opening page. And this is from Rio de Janeiro. And I saw this on on, you know, a pulldown dropdown gate from a business, presumably a surf shop. And so surf. Now, apocalypse later.
+And yeah, that's it. This Image on the left I happen to, you know, one of the beauties of making these objects that you can put out into the world. This is actually I did a whole block at Bloomingdale's in New York, and this is just a detail of one of the windows. And on the right is the second page of the Surf Skate Book, or it could be the opening page. And this is from Rio de Janeiro. And I saw this on, you know, a pulldown dropdown gate from a business, presumably a surf shop. And so surf. Now, apocalypse later.
 
 Thank you.
 
@@ -117,7 +117,7 @@ Yeah, hey, Steve? Wow! So I'm really blown away by the those first sculptures th
 
 You've seen that done by other people? And then that was no, that was just. You know II really love the way X-rays look. And I was thinking about ways to show X-rays. And I'm still thinking about actually using light boxes. But you know, if you want something that's gonna be outdoors. That was the first one was a prototype. I just took a sheet of glass in a printer, new York Lamont, printed directly on the glass, and I wanted to see how long it would last.
 
-And that base original base was a sheet of steel, which was, you know, like as rusty, although I've I've had that outside in in the front of my building in a garden, and it's lasted pretty much a decade so, but in order for the one at the Bro. Then I started laminating, printing them. And then laminating 2 sheets of glass together in order to keep the ink away from the weather, and then I was spending so much on the lamination of fabrication, and the first piece was steel. I started dropping them into bronze. But no, that I'd not seen that before. It's just a way to kind of get those X-rays literally out into the world. And in nature
+And that base original base was a sheet of steel, which was, you know, like as rusty, although I've had that outside in the front of my building in a garden, and it's lasted pretty much a decade so, but in order for the one at the Bro. Then I started laminating, printing them. And then laminating 2 sheets of glass together in order to keep the ink away from the weather, and then I was spending so much on the lamination of fabrication, and the first piece was steel. I started dropping them into bronze. But no, that I'd not seen that before. It's just a way to kind of get those X-rays literally out into the world. And in nature
 
 ## Michael Price [23:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1395s)
 
@@ -125,11 +125,11 @@ It's brilliant. I and I love the I love the book idea about being able to change
 
 ## Steve Miller [23:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1406s)
 
-So there's there's there's a they, there's they're just like the sculptures that you saw outdoors. It's a sheet of steel with 2 slots in it. One slot takes the image on the glass, then another slot is the thickness of a book, and that's on the other side, you know, in the foreground, and then you just slip the book in between the 2 sheets of glass, and you can change it as often as you like.
+So there's a they, there's they're just like the sculptures that you saw outdoors. It's a sheet of steel with 2 slots in it. One slot takes the image on the glass, then another slot is the thickness of a book, and that's on the other side, you know, in the foreground, and then you just slip the book in between the 2 sheets of glass, and you can change it as often as you like.
 
 ## Michael Price [23:50](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1430s)
 
-I'm I'm impressed, Steve. That's beautifully presented. I'm glad you shared that today, cause I've never seen that of your work before. So that was way cool.
+I'm impressed, Steve. That's beautifully presented. I'm glad you shared that today, cause I've never seen that of your work before. So that was way cool.
 
 ## Steve Miller [23:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1439s)
 
@@ -145,11 +145,11 @@ Well, full disclosure I work with Suzanne, and I've lectured at the Bio art cour
 
 ## Renata Janiszewska [25:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1559s)
 
-Hi, Steve, thank you for a beautiful presentation. I'm a bibliophile as well, and I'm curious about the book projects where you have them encased in glass. Did any of those go out to any private individuals. And and could I, for example, if I owned it, do that changing of the pages?
+Hi, Steve, thank you for a beautiful presentation. I'm a bibliophile as well, and I'm curious about the book projects where you have them encased in glass. Did any of those go out to any private individuals. And could I, for example, if I owned it, do that changing of the pages?
 
 ## Steve Miller [26:20](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1580s)
 
-Yeah, the whole idea is to change it. I haven't sold a lot of them. You know. I do think I have one or 2 out in the world. I'm actually showing 2 and 2 different shows now one in East Hampton. Right now. It has a Mckay gallery and one on the north work at Pamela Willoughby Gallery. But What I love about. I mean, my work is full of contradictions, because, you know, that's the the book by, you know, Al Gore, but we're cutting down trees to print the book, and you know I'm trying to use the book as a as a point of awareness, to keep your eye fresh by Br. Being able to change the pages and also metaphorically, keep fresh The discussion, you know, like you can flip the page and get another image. It could be wires. It could be an X ray of an animal could be an X-ray of a plant. But getting these kinds of things out into the world as a way to Increase the audience and the eyeballs that could have access, and to bring you as a viewer into the conversation By actively picking up the book and flipping through it.
+Yeah, the whole idea is to change it. I haven't sold a lot of them. You know. I do think I have one or 2 out in the world. I'm actually showing 2 and 2 different shows now one in East Hampton. Right now. It has a Mckay gallery and one on the north work at Pamela Willoughby Gallery. But What I love about. I mean, my work is full of contradictions, because, you know, that's the book by, you know, Al Gore, but we're cutting down trees to print the book, and you know I'm trying to use the book as a as a point of awareness, to keep your eye fresh by Br. Being able to change the pages and also metaphorically, keep fresh The discussion, you know, like you can flip the page and get another image. It could be wires. It could be an X ray of an animal could be an X-ray of a plant. But getting these kinds of things out into the world as a way to Increase the audience and the eyeballs that could have access, and to bring you as a viewer into the conversation By actively picking up the book and flipping through it.
 
 ## Renata Janiszewska [27:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1646s)
 
@@ -157,11 +157,11 @@ There, there's an intimacy to books.
 
 ## Steve Miller [27:30](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1650s)
 
-I'm I'm I'm I make so many crazy books. II make literally 100. So this the the real story about the books was I was making these books they were taking, you know, months, if not years, to print, and people would look at the books, and they go like, oh, it's a book. It should be $100, right? And there's no way that you can come any kind of value system based on you holding that book and thinking it's worth 3 or $4,000, for example. So I said, Well, I wonder if I could put the book at a sculpture, you'd be buying the sculpture, not the book.
+I'm I make so many crazy books. II make literally 100. So this the real story about the books was I was making these books they were taking, you know, months, if not years, to print, and people would look at the books, and they go like, oh, it's a book. It should be $100, right? And there's no way that you can come any kind of value system based on you holding that book and thinking it's worth 3 or $4,000, for example. So I said, Well, I wonder if I could put the book at a sculpture, you'd be buying the sculpture, not the book.
 
-So I started thinking, Okay, I can make these sculptures. Now you're getting steel. You're getting glass. And you're getting this active experience. And so it was really an artist way to increase the price point for the effort involved. But that's that's the the hidden story behind. Invention.
+So I started thinking, Okay, I can make these sculptures. Now you're getting steel. You're getting glass. And you're getting this active experience. And so it was really an artist way to increase the price point for the effort involved. But that's the hidden story behind. Invention.
 
-Alright, I think that's that's that's good. Thanks so much. And Suzanne, looking forward to hearing from you
+Alright, I think that's good. Thanks so much. And Suzanne, looking forward to hearing from you
 
 ## Suzanne Anker [28:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1712s)
 
@@ -171,7 +171,7 @@ Great! Well, that was a wonderful talk, Steve and as you know, I'm a very big fa
 
 According to Wikipedia Suzanne Anker is an American visual artist and theorist, and considered a pioneer in bio art. She's been working on the relationship between art and the biological sciences for more than 25 years. Her practice investigates the ways in which nature is being altered in the 20 first century. And concern with genetics, climate change, species, extinction and toxic degradation per more, calls attention to the beauty of life, and the necessity for enlightened thinking About Nature's tangled bank Anchor frequently assembles with predefined and found materials, botanical specimens, medical museum artifacts, laboratory apparatus, microscopic images, and geological specimens.
 
-So II met Susan. I think Must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 1960s. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne for the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been Deeply involved with the School of Visual Arts in Manhattan for a long time. So so I'll pass the mic on to you, Suzanne, and you know, if you want to take it from there.
+So II met Susan. I think Must have been some time in the nineties. Her husband is also very storied artist, Frank Chillette, who worked with Martian clue, and is one of the people that you'll read about in books about video art, working with video art since the 1960s. And I recently saw Frank's work at Moma, and the video art survey signals, which was pretty amazing, and actually got an opportunity to receive to stay with him for a week and teach him Photoshop back in the nineties, and it was quite a week. And I think that's when I met Suzanne for the first time, and I know that Suzanne also. Not exactly sure. I of your role at Sva, but I know you've been Deeply involved with the School of Visual Arts in Manhattan for a long time. So I'll pass the mic on to you, Suzanne, and you know, if you want to take it from there.
 
 ## Suzanne Anker [31:08](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=1868s)
 
@@ -185,7 +185,7 @@ Oh, and one last thing about 2 presenters. They both were in the Oh Techspressio
 
 Great. Well, I am the Chair of the Fine Arts Department at the School of Visual Arts. And I have been chair of that department since 2,005 before that I was chair of the Art History Department, at the School of Visual Arts for 5 years and my practice does involve innovation and the kinds of theoretical back stories To how we are citizens of the 20 first century. So, we're gonna talk a little bit about this series of work called remote sensing and sculpting without hands. If this was 50 years ago, and I told you I was making sculpture without touching it, you would send me to Bellevue Hospital and enroll me in a schizophrenic ward.
 
-But what has happened over the last number of years Is that through data one can now transform codes of zeros and ones into 3 dimensional objects. And 3 dimensional objects have a very diverse nature since the 1970 S. With people like Roz and Kraus, who who wrote about sculpture in the expanded field, which was a text about the differences in sculpture that could be a video or a a land Artwork, or something that hasn't been named yet, and and in conjunction with that Jack Burnham, another theorist at the time. We're we're really investigating these seminal ideas. So sculpture has come a long way From what my teacher, Ed Reinhardt, has said Ed Reinhardt was a very mystical painter, and was a great influence on me during my studies with him. But he said that sculpture is what you backed into when you looked at a painting, so it sort of didn't have the same status As a painting did, because it was something you could walk around you could touch. And it's illusionistic capabilities were not as prevalent.
+But what has happened over the last number of years Is that through data one can now transform codes of zeros and ones into 3 dimensional objects. And 3 dimensional objects have a very diverse nature since the 1970 S. With people like Roz and Kraus, who wrote about sculpture in the expanded field, which was a text about the differences in sculpture that could be a video or a land Artwork, or something that hasn't been named yet, and in conjunction with that Jack Burnham, another theorist at the time. We're really investigating these seminal ideas. So sculpture has come a long way From what my teacher, Ed Reinhardt, has said Ed Reinhardt was a very mystical painter, and was a great influence on me during my studies with him. But he said that sculpture is what you backed into when you looked at a painting, so it sort of didn't have the same status As a painting did, because it was something you could walk around you could touch. And it's illusionistic capabilities were not as prevalent.
 
 But In the beginning of the 2,000 I decided that I was going to use the datasets from many of my photographs or found images To create sculpture, because my background, also my early work in the eighties and nineties was all about 3 dimensional objects, whether they were made out of bronze or sugar Or steel wall, or plaster. It was about trying to create images that intersected nature with culture, because that was the spectrum which we are living in. A lot of that was adapted from reading Donna Haraways work. And here, finally, in 20 first century I've been able to create these sculptures, which are quite unique and come from 2 dimensional sources. Here you can see a variety of them. I have made at least 48 of them actually probably more, and because they are made through rapid prototyping, which is like the creation of a sedimentary rock, the computer reads the data set and creates The image one layer at a time, at the same time applying the color. So what we have here are these micro landscapes, which look like aerial views.
 
@@ -193,19 +193,19 @@ And even the term remote sensing is a term used by NASA, because it is a kind of
 
 But what I've learned from this process of machine learning, which is very much on the palette of the 20 first century, is that the machine will read data in new ways that you haven't thought of. So if we look at the bottom left hand side, we see a rubber ducky and a sunflower. This is kind of the idea of second nature, which, manufacturing copies the colors of the natural world to entice you to. Buy the piece. But if you look at the surrounding edge you'll see a white up and down kind of line which I had never intended To make, and this is essentially a glitch which I am trying to now use as part of my work. These are the originals. These are the original two-dimensional photographs. So there's a whole series of translations. I make a still life in a country dish.
 
-It is then photographed and even printed as a 2 dimensional digital print, and from there it is now mapped in such a way where 3 dimensional access is is organized so that you can turn anything that's 2 dimensional into 3 dimensional Space. Using this technology, which is called displacement, mapping. And here are several more of the vanitas in a Petri dish, and you know that vanitas is essentially a 18 century term about the inclination that everything that is live has an expiration date, and my vanitas combine The idea of the manufacturing world with the natural world, the nature of representation, the nature of nature. And in this process, as you can see here in this image, we go from a still life on the left.
+It is then photographed and even printed as a 2 dimensional digital print, and from there it is now mapped in such a way where 3 dimensional access is organized so that you can turn anything that's 2 dimensional into 3 dimensional Space. Using this technology, which is called displacement, mapping. And here are several more of the vanitas in a Petri dish, and you know that vanitas is essentially a 18 century term about the inclination that everything that is live has an expiration date, and my vanitas combine The idea of the manufacturing world with the natural world, the nature of representation, the nature of nature. And in this process, as you can see here in this image, we go from a still life on the left.
 
 Which is an art historical genre. 2. A micro landscape which is a second art historical genre. So I don't think ever before these 2 genres in art history have been merged. And this these are examples of the ways in which new technologies can take from the history of art's database new ways of seeing the world. And here again are a number of the rapid prototype sculptures which have been shown all over the world and are part of museum collections. Now that I've created an archival basis for them. And they're these little worlds that combine a kind of geography With a botany. So we have the Anthropocene here being pictured in new ways.
 
-The piece on the upper left is a very interesting one for me, because if you look closely at the left hand side you will see a projection of a butterfly, little hard to recognize, unless you see it in person. But you see that the butterfly wings have been extruded To create a 3 dimensional wing rapid prototyping is going to be or is already the next frontier. There will be airplanes made by this method there will be homes that are made by this method and and I think it is part of the way to reduce the carbon footprint In the world.
+The piece on the upper left is a very interesting one for me, because if you look closely at the left hand side you will see a projection of a butterfly, little hard to recognize, unless you see it in person. But you see that the butterfly wings have been extruded To create a 3 dimensional wing rapid prototyping is going to be or is already the next frontier. There will be airplanes made by this method there will be homes that are made by this method and I think it is part of the way to reduce the carbon footprint In the world.
 
-The first exhibition of this combination was at the Parish Museum in Watermel in 2,016 and I had 24 of the prints with 24, the rapid prototype sculptures. And the viewers were invited to kind of match up the 3D. Version with the 2D. Version, which was not that easy, but it became a game, and people really were interactive in in trying to see the differences with the same data in various dimensions. And here is a close up the sculptures were also placed on little glass vessels, which function as different kinds of optical devices.
+The first exhibition of this combination was at the Parish Museum in Watermel in 2,016 and I had 24 of the prints with 24, the rapid prototype sculptures. And the viewers were invited to kind of match up the 3D. Version with the 2D. Version, which was not that easy, but it became a game, and people really were interactive in trying to see the differences with the same data in various dimensions. And here is a close up the sculptures were also placed on little glass vessels, which function as different kinds of optical devices.
 
 Further distorting what can be seen through glass early microscopes operated this way, which water was put in a glass to enlarge or reduce what was being seen. And then some of my early genetic work glass vessels were also employed. Here's a close up where you can see the distortion in the central image, and you can also see the irregularity of the perimeters of the sculpture which I learned from the machine. So as we make the machine, the machine makes us.
 
 This is a zinnia flower that has been cut down, and you know now is almost looking like a labyrinth. Going on from there in 2,019, I was invited to do a solo show at the Everson Museum, which was a opportunity for me to upscale everything, because not only does nature grow, but ideas Bro as well. So rather than 24 small vanitas pieces I did 48 large vanity toss pieces, and the rapid prototype sculpture were included in this large vitrine that you see in the center, which is called a frank case. And here is another image. As you can see, the name of the show is 1.5°C, which is the tipping point For the destruction of living things. We see here now through these glass vessels. We see part of the wall works which are again distorted, showing us alternative views of what is available optically.
 
-And if you think that was sort of the last time I did this I got a call from the Beijing art and technology biennial. We're doing an exhibition called synthetic Ecology. And not only did they want all 48 of the vanitas and the remote sensing. But they wanted everything I could give them. So I sent them the files. And they decided that they would make 85 of these vanitas rather than using the frank case. They constructed a plexiglass pedestals, and I use plexiglass a lot because it disappears like like what Steve Miller said about printing line glass and having the glass Disappear.
+And if you think that was sort of the last time I did this I got a call from the Beijing art and technology biennial. We're doing an exhibition called synthetic Ecology. And not only did they want all 48 of the vanitas and the remote sensing. But they wanted everything I could give them. So I sent them the files. And they decided that they would make 85 of these vanitas rather than using the frank case. They constructed a plexiglass pedestals, and I use plexiglass a lot because it disappears like what Steve Miller said about printing line glass and having the glass Disappear.
 
 So what you see here finally, in 2022 is a full realization of this idea that started in 2,016, in which we now see this concept of an environment that is related to the spectrum of the man made, and the natural as being one and the same thing. And this was at Cube, a new big space in Beijing. So thank you very much.
 
@@ -219,7 +219,7 @@ Suzanne wants to call them, or I see Steve Miller has a question.
 
 ## Steve Miller [47:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2832s)
 
-Yeah, thanks, Suzanne. II guess when you were doing the is, I guess, a technical question. But you said you were scanning the photos On a 3 dimensional axis to get the the rabbit prototype projection of that axis.
+Yeah, thanks, Suzanne. II guess when you were doing the is, I guess, a technical question. But you said you were scanning the photos On a 3 dimensional axis to get the rabbit prototype projection of that axis.
 
 ## Suzanne Anker [47:31](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=2851s)
 
@@ -243,21 +243,21 @@ Thank you for an extraordinary presentation, Suzanne. I'm fascinated with your m
 
 ## Suzanne Anker [50:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3010s)
 
-Yes, and it is out there in the world for artists. But most artists I know. Are not quite versatile with 3D printing. So there are our classes or courses that are available where you could learn these programs The same way you would learn Photoshop, you would learn a 3D. Program like rhino or Maya, etc. And there are places including Sva that have courses. In this. The technology of the machine itself Is expensive. So it's not something you would do at home to get the kind of detail that I have. There are cheaper versions of these, but but those some of those are in plastic.
+Yes, and it is out there in the world for artists. But most artists I know. Are not quite versatile with 3D printing. So there are our classes or courses that are available where you could learn these programs The same way you would learn Photoshop, you would learn a 3D. Program like rhino or Maya, etc. And there are places including Sva that have courses. In this. The technology of the machine itself Is expensive. So it's not something you would do at home to get the kind of detail that I have. There are cheaper versions of these, but those some of those are in plastic.
 
 And I don't work with plastic. This is plaster and a kind of resin, and then archival paint on top of it, so that they are pretty much biodegradable.
 
 ## Allen Hirsh [51:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3086s)
 
-I think the title Synthetic Synthetic Ecology is also Fascinating the idea, and and Steve raised it a little earlier about the juxtaposition in the early part of the presentation of the man made, and the natural, and that just creates so many reverberations. It's like a rock in a lake.
+I think the title Synthetic Synthetic Ecology is also Fascinating the idea, and Steve raised it a little earlier about the juxtaposition in the early part of the presentation of the man made, and the natural, and that just creates so many reverberations. It's like a rock in a lake.
 
 ## Suzanne Anker [51:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3108s)
 
-It's true. And and now we, we even have rocks that are in e encrusted in plastic that one can find on the beach, because the idea of what is nature? Is not even a question any any more, that we are so entangled In the cultures of the man made and the origins of living matter. That there's no separating them out. Okay, thank you. Thank you. Okay, we have. Michael.
+It's true. And now we, we even have rocks that are in e encrusted in plastic that one can find on the beach, because the idea of what is nature? Is not even a question any more, that we are so entangled In the cultures of the man made and the origins of living matter. That there's no separating them out. Okay, thank you. Thank you. Okay, we have. Michael.
 
 ## Michael Price [52:27](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3147s)
 
-Wow, Suzanne, brilliant, totally totally awesome presentation. I I'm fascinated with the way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve will will appreciate where I'm coming from To the the micro scale of quantum mechanics and and looking at The mathematics involved. And I was curious, and I if I missed this. I apologize. But We're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a a curiosity for me is looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or or if I missed that. And I apologize.
+Wow, Suzanne, brilliant, totally totally awesome presentation. I'm fascinated with the way in which these are created, and a lot of these I see so many similarities, and I'm sure Steve will appreciate where I'm coming from To the micro scale of quantum mechanics and looking at The mathematics involved. And I was curious, and I if I missed this. I apologize. But We're all of these created from something that was known ahead of time. Or were these created? And you didn't know how they were gonna end up. And that's a curiosity for me is looking at artificial life where you could start with a premise, and it can go in a number of different directions. You could create various iterations, and I was just curious whether or not that's something that you looked at, or if I missed that. And I apologize.
 
 ## Suzanne Anker [53:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3218s)
 
@@ -267,7 +267,7 @@ Okay.
 
 ## Michael Price [54:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3272s)
 
-So I have. I do have one personal question. If if I were interested to find out more, is there a way to contact you? Just just to find out some more extensive information.
+So I have. I do have one personal question. If I were interested to find out more, is there a way to contact you? Just to find out some more extensive information.
 
 ## Suzanne Anker [54:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3288s)
 
@@ -295,7 +295,7 @@ Okay? And but I can see different variations of in one only different variations
 
 ## Suzanne Anker [56:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3414s)
 
-The way it reads data, we can't ask it a question, and or or tell it that it should be a little lower, we would have to change the numerical values. So there's some trial and error involved in this. But fortunately my collaborators and expert. So we have been able to work this out. I'm now trying a new Set of work which is rectangular. To see if that could match up with a new series of collages that I have made about climate change Called after Eden. So I'm working on that because I like to see the relationship between the 2D and the 3D. Because it gives you more information about what you don't know.
+The way it reads data, we can't ask it a question, and or tell it that it should be a little lower, we would have to change the numerical values. So there's some trial and error involved in this. But fortunately my collaborators and expert. So we have been able to work this out. I'm now trying a new Set of work which is rectangular. To see if that could match up with a new series of collages that I have made about climate change Called after Eden. So I'm working on that because I like to see the relationship between the 2D and the 3D. Because it gives you more information about what you don't know.
 
 ## Malavika Andrew [57:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3474s)
 
@@ -303,7 +303,7 @@ And what about the color application you are doing? I mean, it's a hand applicat
 
 ## Suzanne Anker [58:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3480s)
 
-The color application is follows The printed color, except it now is hand put on on top of The printed color with acrylic inks and paints.
+The color application is follows The printed color, except it now is hand put on top of The printed color with acrylic inks and paints.
 
 ## Malavika Andrew [58:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3497s)
 
@@ -315,17 +315,17 @@ Yes, when I was looking at your Petri dish sculptures. I flashed back to my chil
 
 ## Suzanne Anker [58:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3528s)
 
-I remember those toys. I had some of those as well, and they were very magical. I don't know why I can't get you up here, but I'll try 1 s View speaker. Not there. You are. Okay. Yeah. It was like a clam shell, and you put it in water, and all of a sudden some flower would emerge on a string. Etc. I've also done a lot of work with with coral and ceramics as well. But that's a very handmade process. For me, I choose a medium that best Can be utilized with the concept involved, and sometimes starting with a concept and then trying to find the visual images, takes a long time. And and and I think that that you know different artists work in different ways and and and trying to visualize climate change.
+I remember those toys. I had some of those as well, and they were very magical. I don't know why I can't get you up here, but I'll try 1 s View speaker. Not there. You are. Okay. Yeah. It was like a clam shell, and you put it in water, and all of a sudden some flower would emerge on a string. Etc. I've also done a lot of work with coral and ceramics as well. But that's a very handmade process. For me, I choose a medium that best Can be utilized with the concept involved, and sometimes starting with a concept and then trying to find the visual images, takes a long time. And I think that you know different artists work in different ways and trying to visualize climate change.
 
 And there are a lot of images on my website about that in which I packed a number of seasons together at the same time. So that I began calling those mono seasons which we are experiencing in the world today.
 
 ## Lee Musgrave [01:00:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3615s)
 
-One of the things that fascinated me about that stuff, even though I was very young, was that Different colors reacted differently in terms of the shapes they would take and how long they would last. And also the strength of the colour itself. The the colors, different colors would fade at a different rate than other colors would fade. The amount of Organic looking detail Would differ greatly from one color to another.
+One of the things that fascinated me about that stuff, even though I was very young, was that Different colors reacted differently in terms of the shapes they would take and how long they would last. And also the strength of the colour itself. The colors, different colors would fade at a different rate than other colors would fade. The amount of Organic looking detail Would differ greatly from one color to another.
 
 ## Suzanne Anker [01:00:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3652s)
 
-And that is why they're all hand painted now because of the fading, and the companies who make the machines Have not yet developed Archival coloring systems, and which puts artists at a disadvantage, you know, for, say, for an architect who's gonna make a presentation Or an engineer, it doesn't matter, because it's a throw away. But for an artist it is not a throw away. It is something that enters into the database Of of art history in that way. And where are you located? I'm sorry. Where are you located?
+And that is why they're all hand painted now because of the fading, and the companies who make the machines Have not yet developed Archival coloring systems, and which puts artists at a disadvantage, you know, for, say, for an architect who's gonna make a presentation Or an engineer, it doesn't matter, because it's a throw away. But for an artist it is not a throw away. It is something that enters into the database Of art history in that way. And where are you located? I'm sorry. Where are you located?
 
 ## Lee Musgrave [01:01:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3707s)
 
@@ -333,7 +333,7 @@ I'm one and White Salmon Washington.
 
 ## Suzanne Anker [01:01:51](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3711s)
 
-Okay, I just have a book coming out. Call, what color is your salmon? Okay, hey, be? And it's all about dying farm salmon. So look for that. Because even in Washington. There's a lot of problems with the water being too warm for the salmon eggs to to procreate. So this is sort of another one of my interest.
+Okay, I just have a book coming out. Call, what color is your salmon? Okay, hey, be? And it's all about dying farm salmon. So look for that. Because even in Washington. There's a lot of problems with the water being too warm for the salmon eggs to procreate. So this is sort of another one of my interest.
 
 ## Lee Musgrave [01:02:21](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3741s)
 
@@ -347,9 +347,9 @@ The ticks and other aspects of our daily lives. How people tend to cling to one 
 
 ## Suzanne Anker [01:04:39](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=3879s)
 
-Yeah, I think, I think that diversity of knowledge production is what will help eradicate Some of the long standing problems that we face today. And because stereotypes and Cliche thinking is what has driven us into the inequalities of the day. So by opening up These possibilities in which Technology can even become more democratic in the sense. Here I am speaking to a bunch of people in different places. In in the United States or other countries where I couldn't have this dialogue unless there was this internet and digital technologies. I'm also very interested in a new project that I'm working on. I just started working on it. And I learned this from some of my African American students.
+Yeah, I think, I think that diversity of knowledge production is what will help eradicate Some of the long standing problems that we face today. And because stereotypes and Cliche thinking is what has driven us into the inequalities of the day. So by opening up These possibilities in which Technology can even become more democratic in the sense. Here I am speaking to a bunch of people in different places. In the United States or other countries where I couldn't have this dialogue unless there was this internet and digital technologies. I'm also very interested in a new project that I'm working on. I just started working on it. And I learned this from some of my African American students.
 
-Who told me about the scenes that their slave ancestors Brought over with them, such as Okra, which was never part of the American Diet. Or even the Thanksgiving. Sweet potato is a total lie, because we never had sweet potatoes in North America. So I'm I'm working on a project about decolonizing my garden and finding out what the origins are Of these plants, to give them wider perspective, and to even look at weeds, or invasive as sort of possible useful entities that we can appreciate. So this question of diversity of knowledge Is is part of my practice in the statics.
+Who told me about the scenes that their slave ancestors Brought over with them, such as Okra, which was never part of the American Diet. Or even the Thanksgiving. Sweet potato is a total lie, because we never had sweet potatoes in North America. So I'm working on a project about decolonizing my garden and finding out what the origins are Of these plants, to give them wider perspective, and to even look at weeds, or invasive as sort of possible useful entities that we can appreciate. So this question of diversity of knowledge Is part of my practice in the statics.
 
 ## Verneda Lights [01:07:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4022s)
 
@@ -357,15 +357,15 @@ Yes. Thank you very much for that response. Now, regarding the glitch that you s
 
 ## Suzanne Anker [01:07:30](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4050s)
 
-That's that's a very good idea. I'm not sure if we do. But I'm going to ask The person I work with. Because he may know How to capture that Activity if it is possible. Yes, that'll give me your answer, I think. Yes, yes, and and what?
+That's a very good idea. I'm not sure if we do. But I'm going to ask The person I work with. Because he may know How to capture that Activity if it is possible. Yes, that'll give me your answer, I think. Yes, yes, and what?
 
 ## Verneda Lights [01:08:01](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4081s)
 
-Thank you. One more thing. When you mentioned about the decolonizing your garden? I live in South Carolina. I'm gala okay. And so my ancestors were the ones who were in brought over forcefully from West Africa. Into the South Carolina little country. Rich extends well, basically, the gulla country go goes from Greenville, North Carolina, to Jacksonville, Florida, and the agriculturalists who were among the enslaved. We're the ones who Planned and maintained the entire rice-producing process which made the United States, of course, very wealthy. And yes, and now that we no longer had this rice production as part of our major economic thrust in the low country. People are starting to look at The basic architecture that was laid out for the rice plantations, in looking at the mathematics and the the Geological sensitivity with which it was created, and is becoming a part of The aesthetic presentation of the low country now as well. So it's like a great Go ahead, great! And you know the same is true.
+Thank you. One more thing. When you mentioned about the decolonizing your garden? I live in South Carolina. I'm gala okay. And so my ancestors were the ones who were in brought over forcefully from West Africa. Into the South Carolina little country. Rich extends well, basically, the gulla country go goes from Greenville, North Carolina, to Jacksonville, Florida, and the agriculturalists who were among the enslaved. We're the ones who Planned and maintained the entire rice-producing process which made the United States, of course, very wealthy. And yes, and now that we no longer had this rice production as part of our major economic thrust in the low country. People are starting to look at The basic architecture that was laid out for the rice plantations, in looking at the mathematics and the Geological sensitivity with which it was created, and is becoming a part of The aesthetic presentation of the low country now as well. So it's like a great Go ahead, great! And you know the same is true.
 
 ## Suzanne Anker [01:09:31](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4171s)
 
-Had another student who was just in a show at the Metropolitan Museum of Art about black potters, and because there was not only rice crops and cotton crops but there was a whole pottery industry that was started by slave owners. And these and these huge pots ended up recently at the Pet Metropolitan Museum of Art. Good! They were so a lot of this unknown history. It really needs to come to the surface because it is part of what made America. America and and credit should be given where credit is due.
+Had another student who was just in a show at the Metropolitan Museum of Art about black potters, and because there was not only rice crops and cotton crops but there was a whole pottery industry that was started by slave owners. And these and these huge pots ended up recently at the Pet Metropolitan Museum of Art. Good! They were so a lot of this unknown history. It really needs to come to the surface because it is part of what made America. America and credit should be given where credit is due.
 
 ## Verneda Lights [01:10:26](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4226s)
 
@@ -409,7 +409,7 @@ Oh, I'm just inquiring about how recording works.
 
 ## Colin Goldberg [01:13:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4417s)
 
-Oh, well, I mean, it's just basically, you know, it's it's rolling now, and it I mean, we can make this longer than an hour and a half if you think it's worthwhile. You know, is this is the Siberiana discussion. Gonna be sort of a QA.
+Oh, well, I mean, it's just basically, you know, it's rolling now, and it I mean, we can make this longer than an hour and a half if you think it's worthwhile. You know, is this is the Siberiana discussion. Gonna be sort of a QA.
 
 ## Renata Janiszewska [01:13:56](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4436s)
 
@@ -421,7 +421,7 @@ Is. Is there? Is there any way to end the Salam. You know, and then start back u
 
 ## Colin Goldberg [01:14:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4456s)
 
-That's a really good idea. Yeah, what do I do? That? You know I'm I'm unfortunately not going to be able to stay too long, because I have to run out and pick up my daughter from elementary school pretty soon. But I could definitely throw host to one of you guys once we restart the The the recording, and I believe Well, actually, maybe, whoever it is, that's the host could initiate the recording. Just so, I know, because I'm not 100. Sure if I start the recording, and if a Co. Host could stop it but At any rate, that's a really good suggestion. So why don't we do that, and we could move on to the remaining presenters. On this topic of sculpture. So, Jan, did you want to go?
+That's a really good idea. Yeah, what do I do? That? You know I'm unfortunately not going to be able to stay too long, because I have to run out and pick up my daughter from elementary school pretty soon. But I could definitely throw host to one of you guys once we restart the recording, and I believe Well, actually, maybe, whoever it is, that's the host could initiate the recording. Just so, I know, because I'm not 100. Sure if I start the recording, and if a Co. Host could stop it but At any rate, that's a really good suggestion. So why don't we do that, and we could move on to the remaining presenters. On this topic of sculpture. So, Jan, did you want to go?
 
 ## Jan Swinburne [01:15:05](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4505s)
 
@@ -435,15 +435,15 @@ Oh. Okay.
 
 Bear with me a second.
 
-Oh. There we go. Okay. So those of you who know my practice. Can you see that? Okay? Okay, I've been working on these sculptures that are based on sound. And it's interesting today that you know the Presenter Talked about the depth. This is Cnc processing. So it's also machine learning based. So what I've done this is for those of you who don't know is my voice. Captured and carved and hand worked and the the word that I'm saying is time. And this one is the same word, but a different wave form.
+Oh. There we go. Okay. So those of you who know my practice. Can you see that? Okay? Okay, I've been working on these sculptures that are based on sound. And it's interesting today that you know the Presenter Talked about the depth. This is Cnc processing. So it's also machine learning based. So what I've done this is for those of you who don't know is my voice. Captured and carved and hand worked and the word that I'm saying is time. And this one is the same word, but a different wave form.
 
 And so I decided to do an artist multiple. And I'm interested in sort of how The voice, the power of the voice, and everything like that. So these are the designs that I work from. And essentially, my signature is my voice In these, and they both say time. It's loosely based on. Apparently James Joyce was said to say, quoted as saying, Time is, time was and is no more. And I really like the idea of how this translated into you know, an artist multiple as a coin. And these are nickel Plated brass and they come in.
 
-They're an inch In diameter and a little bit. But the thickness of a looney for those of us, you who know the Canadian dollar and I've developed a card as well. That comes with this that reflects that. And so it's an open edition. And I just thought there were a lot of interesting ideas behind this that go further than like simple things like money talks and all those illusions. But also thinking about equity and being able to make something that's, you know, financially ex accessible as well. But Alludes to all the themes around the voice. The power of the voice, the power of money. And I wrote an essay years ago in a book called _Money Value Art_, and I was really Interested to sort of revisit that theme. So That's what I had to tell you today. I just wanted to keep that short. And and, Jen, are these available for sale to us? Yes, they are. 15. If you're in Canada, Canadian dollars or 15 Usd outside of Canada. Is what I'm making them available for. And you can just get in touch with me through my website if you're interested in them. And they come in this little package.
+They're an inch In diameter and a little bit. But the thickness of a looney for those of us, you who know the Canadian dollar and I've developed a card as well. That comes with this that reflects that. And so it's an open edition. And I just thought there were a lot of interesting ideas behind this that go further than like simple things like money talks and all those illusions. But also thinking about equity and being able to make something that's, you know, financially ex accessible as well. But Alludes to all the themes around the voice. The power of the voice, the power of money. And I wrote an essay years ago in a book called _Money Value Art_, and I was really Interested to sort of revisit that theme. So That's what I had to tell you today. I just wanted to keep that short. And, Jen, are these available for sale to us? Yes, they are. 15. If you're in Canada, Canadian dollars or 15 Usd outside of Canada. Is what I'm making them available for. And you can just get in touch with me through my website if you're interested in them. And they come in this little package.
 
 And I can show you a little bit What actual coin is. I forgive my tremor, but it's like It's hard to see. So anyways, Yeah, I thought there was. It's an interest more of a concept project. So but I call. I'm calling it pocket sculpture, because I don't really think of it in terms of A coin per se. It's more token, and even that with the language involved, you know, tokenism and speech. And there's just lots of associations that happen there. So Anyways, that's been my project for the last little while, and I was wanted to bring it to expressionism first.
 
-A lot of the processes I use in processing my voice are what were discussed today. And that's that's really interesting stuff to me. So Thanks.
+A lot of the processes I use in processing my voice are what were discussed today. And that's really interesting stuff to me. So Thanks.
 
 ## Colin Goldberg [01:20:08](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=4808s)
 
@@ -543,15 +543,15 @@ The application do? How far can it go?
 
 ## Colin Goldberg [01:30:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5454s)
 
-Very interesting now, I was thinking, you know we could actually just keep this recording going that way. People don't have to go somewhere else to find The session. I mean, that might even be better. Otherwise we're gonna have to post it somewhere other than the salon page. I mean, it could live on the Siberian page to. That's another option where you know the the form lives to submit your URL and stuff renata like W. What do you think would be? I like. I like the idea of attaching
+Very interesting now, I was thinking, you know we could actually just keep this recording going that way. People don't have to go somewhere else to find The session. I mean, that might even be better. Otherwise we're gonna have to post it somewhere other than the salon page. I mean, it could live on the Siberian page to. That's another option where you know the form lives to submit your URL and stuff renata like W. What do you think would be? I like. I like the idea of attaching
 
 ## Renata Janiszewska [01:31:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5489s)
 
-Our QA. To this recording, if that's feasible, and then it can go on the Siberiana page as well as the the salon. Youtube.
+Our QA. To this recording, if that's feasible, and then it can go on the Siberiana page as well as the salon. Youtube.
 
 ## Colin Goldberg [01:31:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5500s)
 
-Okay, would you be comfortable? Being the the host like if I gave you host capability to try to be able to stop the recording? I'm I just googled it, and it says Host and Co. Host should be able to stop a recording in progress.
+Okay, would you be comfortable? Being the host like if I gave you host capability to try to be able to stop the recording? I'm I just googled it, and it says Host and Co. Host should be able to stop a recording in progress.
 
 ## Renata Janiszewska [01:31:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5518s)
 
@@ -559,7 +559,7 @@ So I might have to. I might have to leave before the conversation is done. Okay,
 
 ## Colin Goldberg [01:32:08](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5528s)
 
-Okay, Michael, would you be able to hang and and admit. Okay, and I, yeah, actually, you are a host on the zoom account to our you know, you know. So I'm gonna make you host, and then just let me know if you see a stop button where the recording icon is on the top left. Let's see. Price.
+Okay, Michael, would you be able to hang and admit. Okay, and I, yeah, actually, you are a host on the zoom account to our you know, you know. So I'm gonna make you host, and then just let me know if you see a stop button where the recording icon is on the top left. Let's see. Price.
 
 ## Unattributed [01:32:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5554s)
 
@@ -575,7 +575,7 @@ Okay? So that should be that should be good. And then, yeah, that way, you know.
 
 ## Renata Janiszewska [01:33:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5590s)
 
-I just wanted to say I was lucky enough to see Karen's world and the resolution on her artworks is not only really great, but if you angle your body so that you're standing Close to the art and looking up at it, there's recession into space that is so clear and so good. I was really enthralled. So I just want to say that Siberiana is a example of the Techspressionism community in in cyberspace. And the town square is a place To meet and exchange ideas. And that that there's a kind of inclusivity to Techspressionism that you can see a representation of in the concept of a town square and a place for dialogue among artists from all over the world. And we? We were lucky. We had about 75 artists apply, and we have them from countries all over the globe.
+I just wanted to say I was lucky enough to see Karen's world and the resolution on her artworks is not only really great, but if you angle your body so that you're standing Close to the art and looking up at it, there's recession into space that is so clear and so good. I was really enthralled. So I just want to say that Siberiana is a example of the Techspressionism community in cyberspace. And the town square is a place To meet and exchange ideas. And that there's a kind of inclusivity to Techspressionism that you can see a representation of in the concept of a town square and a place for dialogue among artists from all over the world. And we? We were lucky. We had about 75 artists apply, and we have them from countries all over the globe.
 
 Tommy couldn't be here, unfortunately, today to answer technical questions about Mozilla Hubs. But Michael is our resident, Guru. So I'm gonna pass it to him.
 
@@ -585,7 +585,7 @@ But
 
 ## Michael Price [01:34:27](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5667s)
 
-Thanks, Renata. I'm not sure exactly how we could be most useful to everybody. So I guess right right now let's get some questions asked, so I just saw Sahar Put her hand up so. What what would you like to ask? Sahar?
+Thanks, Renata. I'm not sure exactly how we could be most useful to everybody. So I guess right now let's get some questions asked, so I just saw Sahar Put her hand up so. What would you like to ask? Sahar?
 
 ## Sahar Moussavi [01:34:48](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5688s)
 
@@ -593,7 +593,7 @@ Hi! Everyone! Hi, Michael! Thanks. I wanted to ask, how can we upload videos to 
 
 ## Michael Price [01:35:44](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5744s)
 
-Okay. We have a form. That we're asking all the artists to fill out and in that form. We're looking for the URL that spoke generates Or I guess Through that. Through that hubs what what that address is, and we need that because we have a database that's going to connect to each artists Room or gallery, you know. However, you wanna think of it. And then that'll get put into and connect through the doors that are in that in in the main area. So if you don't have that form
+Okay. We have a form. That we're asking all the artists to fill out and in that form. We're looking for the URL that spoke generates Or I guess Through that. Through that hubs what that address is, and we need that because we have a database that's going to connect to each artists Room or gallery, you know. However, you wanna think of it. And then that'll get put into and connect through the doors that are in that in the main area. So if you don't have that form
 
 ## Colin Goldberg [01:36:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5798s)
 
@@ -601,7 +601,7 @@ I guess either Renata or Tommy will need to get that to you, and if anybody else
 
 ## Michael Price [01:37:21](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5841s)
 
-And then and then the other thing that we need from everybody is an image that's gonna go on to the door that's in that public space, that that then they, the person who wants to go visit you kind of clicks on so again that that's formatted in a portrait portrait orientation. Now. In regards to your question, Sahar, about if it needs to be closed or open. I'm not sure exactly what you mean by open like. There's no or
+And then and then the other thing that we need from everybody is an image that's gonna go on to the door that's in that public space, that then they, the person who wants to go visit you kind of clicks on so again that's formatted in a portrait portrait orientation. Now. In regards to your question, Sahar, about if it needs to be closed or open. I'm not sure exactly what you mean by open like. There's no or
 
 ## Sahar Moussavi [01:38:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5880s)
 
@@ -609,7 +609,7 @@ Like. Karen has her room inside the box a closed box, but I created like an open
 
 ## Michael Price [01:38:11](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5891s)
 
-Okay, but but I'm assuming there's like a bounding box around the edge of the forest.
+Okay, but I'm assuming there's like a bounding box around the edge of the forest.
 
 ## Sahar Moussavi [01:38:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5899s)
 
@@ -617,21 +617,21 @@ No.
 
 ## Michael Price [01:38:21](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5901s)
 
-So they could, they could just keep wandering out beyond the edge of the forest. I don't know how. Yeah, I don't know how problematic that is, for the hub engine overall and also just for the end user, we, we, we need the doorway to go. There needs to be the mechanism that the person can click on to get back to the main central area. So if if you're creating your own space, you need to have a link that goes back to the main area. Otherwise there's no way for somebody to go to your space and then get back into into the town square.
+So they could, they could just keep wandering out beyond the edge of the forest. I don't know how. Yeah, I don't know how problematic that is, for the hub engine overall and also just for the end user, we, we, we need the doorway to go. There needs to be the mechanism that the person can click on to get back to the main central area. So if you're creating your own space, you need to have a link that goes back to the main area. Otherwise there's no way for somebody to go to your space and then get back into into the town square.
 
 Does that make that make sense. Right? Okay.
 
 ## Renata Janiszewska [01:39:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5952s)
 
-II think the idea of having a close boundary is good. I've had people get lost inside their own room. A guy yesterday was stuck inside a a gigantic stone that he had installed in his room, and I had to fly him out of there. So, having a boundary, would probably be helpful. Also, with regard to the video question. I think we have to talk maybe a little bit about the file size. The video I've uploaded successfully is small. It's short and it doesn't have sound.
+II think the idea of having a close boundary is good. I've had people get lost inside their own room. A guy yesterday was stuck inside a gigantic stone that he had installed in his room, and I had to fly him out of there. So, having a boundary, would probably be helpful. Also, with regard to the video question. I think we have to talk maybe a little bit about the file size. The video I've uploaded successfully is small. It's short and it doesn't have sound.
 
 Karen might be able to speak.
 
 ## Michael Price [01:39:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5992s)
 
-So there, there's a couple. There's a couple of issues with with video, file size may be may be an issue that. But the other thing and and the video that I have successfully playing Renata has both sound and and image. So. Because I have not been able to find a lot of the technical stuff behind the scenes for Hubs and spoke, I'm going. This is anecdotal just to me. But I managed to host A number of videos that I've been able to post successfully From Youtube and using my link from there into my space.
+So there, there's a couple. There's a couple of issues with video, file size may be may be an issue that. But the other thing and the video that I have successfully playing Renata has both sound and image. So. Because I have not been able to find a lot of the technical stuff behind the scenes for Hubs and spoke, I'm going. This is anecdotal just to me. But I managed to host A number of videos that I've been able to post successfully From Youtube and using my link from there into my space.
 
-And it does stay consistent. The challenge is going through there. Sometimes it takes a little time for it to completely load, and and that may be an issue that people are running into. I don't know.
+And it does stay consistent. The challenge is going through there. Sometimes it takes a little time for it to completely load, and that may be an issue that people are running into. I don't know.
 
 ## Renata Janiszewska [01:41:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6060s)
 
@@ -639,7 +639,7 @@ I have a question about the very beginning of uploading. What I'm doing is going
 
 ## Michael Price [01:41:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6076s)
 
-Is is that the correct way? That that's fine. You can do that. You could also go to the menu at the bottom of the screen and add, you know, just click on picture or click on video, and then you get to place it where you want it's it's The video Widget or the image widget are, you know, part of the spoke. Set of things that you you can do. Did W. Did I forget anything else that you? Asked Sahar.
+Is that the correct way? That's fine. You can do that. You could also go to the menu at the bottom of the screen and add, you know, just click on picture or click on video, and then you get to place it where you want it's The video Widget or the image widget are, you know, part of the spoke. Set of things that you can do. Did W. Did I forget anything else that you? Asked Sahar.
 
 ## Sahar Moussavi [01:41:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6114s)
 
@@ -675,11 +675,11 @@ Yeah, what is what about gives?
 
 ## Michael Price [01:44:13](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6253s)
 
-What was the question, what about gifts. I don't know. I don't know the answer to that. I don't know if that's I don't know if that is readable by by the engine. I'm not positive.
+What was the question, what about gifts. I don't know. I don't know the answer to that. I don't know if that's I don't know if that is readable by the engine. I'm not positive.
 
 ## Renata Janiszewska [01:44:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6272s)
 
-What I've been doing is is, I've just been going to chat Gpt or Google, and just asking those questions. And it'll come back with the specs.
+What I've been doing is, I've just been going to chat Gpt or Google, and just asking those questions. And it'll come back with the specs.
 
 ## Verneda Lights [01:44:42](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6282s)
 
@@ -729,7 +729,7 @@ II have a question comment. I have no problem with, you know, getting a URL and 
 
 ## Michael Price [01:48:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6482s)
 
-Okay, so you are pointing out some of the challenges of of working in a interface. So do we? Th, this is. This is a this is a question that if we need a little bit of a tutorial, I'm fine doing that. So I don't know if that's an issue other people are running into as well. But if we, if we need to go over that, I'm perfectly fine. Doing a short tutorial on that.
+Okay, so you are pointing out some of the challenges of working in a interface. So do we? Th, this is. This is a this is a question that if we need a little bit of a tutorial, I'm fine doing that. So I don't know if that's an issue other people are running into as well. But if we, if we need to go over that, I'm perfectly fine. Doing a short tutorial on that.
 
 ## Allen Hirsh [01:48:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6520s)
 
@@ -751,7 +751,7 @@ Let me bring up, spoke first, and then I'll share my screen.
 
 So I'm going to.
 
-What I'm gonna do is I'm gonna show you my current. Version of my space that I've been working on. I'm I'm nearly done with it. It's I consider it pretty simple, so alright, so let me.
+What I'm gonna do is I'm gonna show you my current. Version of my space that I've been working on. I'm nearly done with it. It's I consider it pretty simple, so alright, so let me.
 
 Can everybody see my screen?
 
@@ -767,13 +767,13 @@ Alright! So.
 
 So here, here's the here's the thing that's challenging. Can you see over here? I clicked on. I clicked on this black and white piece of art. And you can see the arrows. I don't like to use the arrows very much other than for gross placement. The real trick is in using the numbers that deal with position, rotation, and scale. And Cynthia, have you played with those at all? Are you familiar with that part of the interface? I did try a little bit of that.
 
-Okay, so. Th, the the trick is you wanna like for things with the walls? The the big thing for me is if I click, if I click on the wall itself. I can see the positioning of the X and the Y and the Z. And what I want to do is I'll write those numbers down if I need to. And I'm suggesting. Perhaps you know, looking at that and and recording those numbers, first, because then, when I click on the artwork. I can see comparatively where this is. And typically what I'm either dealing with is the X or the Z, because the Y is the up and the down. How high, vertically, or how low, vertically, something is.
+Okay, so. Th, the trick is you wanna like for things with the walls? The big thing for me is if I click, if I click on the wall itself. I can see the positioning of the X and the Y and the Z. And what I want to do is I'll write those numbers down if I need to. And I'm suggesting. Perhaps you know, looking at that and recording those numbers, first, because then, when I click on the artwork. I can see comparatively where this is. And typically what I'm either dealing with is the X or the Z, because the Y is the up and the down. How high, vertically, or how low, vertically, something is.
 
-But depending on the depending on which wall orientation you're looking at, trying to get close to the X or a X or the z component depending on which which side you're on of the 4 walls. And if you get too close. For instance, if I click if I click on the The arrow here and you look at the number. What I'm changing is the X number here. Here. It's at 0, minus 5.5, Minus one 1.5 minus 2. Now, all of a sudden it disappears. That's because it's behind the wall. From my perspective.
+But depending on the depending on which wall orientation you're looking at, trying to get close to the X or a X or the z component depending on which side you're on of the 4 walls. And if you get too close. For instance, if I click if I click on the arrow here and you look at the number. What I'm changing is the X number here. Here. It's at 0, minus 5.5, Minus one 1.5 minus 2. Now, all of a sudden it disappears. That's because it's behind the wall. From my perspective.
 
-I bring it back. Now it's it's floating outside the wall. If I orient over here I can see that it's sticking out. You know. I'm looking at the edge. There. It's kind of sticking out away from the wall. This painting here, the X is minus 1.7. This is minus 1.5. So it's actually out into the room a little bit further. So if I click on the X. And I use my keyboard if I go 1.6, it's a little closer, 1.7 minus 1.7. It's closer, minus 1.8. It's almost flush against the wall, minus 1.9. It's behind the wall.
+I bring it back. Now it's floating outside the wall. If I orient over here I can see that it's sticking out. You know. I'm looking at the edge. There. It's kind of sticking out away from the wall. This painting here, the X is minus 1.7. This is minus 1.5. So it's actually out into the room a little bit further. So if I click on the X. And I use my keyboard if I go 1.6, it's a little closer, 1.7 minus 1.7. It's closer, minus 1.8. It's almost flush against the wall, minus 1.9. It's behind the wall.
 
-So I tend not to be like right right next to the wall. I'll come out just slightly a little bit further. So that it looks like it's on the wall. But if somebody steps away they're not going to get that fuzzy thing where, if it's right, flush against the wall, the rendering engine doesn't know whether to rent, to render the wall in front or the image. And so you get you get this kind of tessellation. Sort of weird look going on. Is this helping at all?
+So I tend not to be like right next to the wall. I'll come out just slightly a little bit further. So that it looks like it's on the wall. But if somebody steps away they're not going to get that fuzzy thing where, if it's right, flush against the wall, the rendering engine doesn't know whether to rent, to render the wall in front or the image. And so you get you get this kind of tessellation. Sort of weird look going on. Is this helping at all?
 
 And then and then for how high you're down, you know. Down I'll go to the Y Component, and then I just play with the numbers there. But the main thing is, if you're trying to match the walls, you want to know what the coordinates of the wall that you're trying to match is and the easiest way to do it is to click on the wall itself. And you'll know that you're on the wall, because it'll it'll tell you. It's you know it's the wall, whatever the wall Designation is, and then you can click on the numbers. There, now, the tricky thing is.
 
@@ -797,11 +797,11 @@ Does that? Am I? Am I making sense to you or not?
 
 ## Renata Janiszewska [01:58:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7083s)
 
-Yeah. I have a question about navigation in general. You're you're working on a windows machine with a particular type of mouse. And I take it you're holding your mouse down as you're dragging the works Right. But but on a Mac The the most doesn't have those capabilities and navigation. I tend to just mentioning this for those of you out there working on a Mac. You can use the arrow buttons, but it's not as easy as it is on a windows machine.
+Yeah. I have a question about navigation in general. You're working on a windows machine with a particular type of mouse. And I take it you're holding your mouse down as you're dragging the works Right. But on a Mac The most doesn't have those capabilities and navigation. I tend to just mentioning this for those of you out there working on a Mac. You can use the arrow buttons, but it's not as easy as it is on a windows machine.
 
 ## Karen LaFleur [01:58:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7117s)
 
-Can I interject here, can you? Unfortunately the zoom window is over the keyboard, over the direction, so I can't see. But if you put your cursor on a Mac between the X and the number box In in sort of press. There you get a sideways perfect cause. You don't need the keyboard to change the numbers and orientation is right there in that window. The properties window. Basically, you click on, you click on the
+Can I interject here, can you? Unfortunately the zoom window is over the keyboard, over the direction, so I can't see. But if you put your cursor on a Mac between the X and the number box In sort of press. There you get a sideways perfect cause. You don't need the keyboard to change the numbers and orientation is right there in that window. The properties window. Basically, you click on, you click on the
 
 ## Michael Price [01:59:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7152s)
 
@@ -813,7 +813,7 @@ II don't see the XY. And Z. I'm viewing this on my iphone. And I don't see
 
 ## Michael Price [01:59:35](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7175s)
 
-Coordinates. Well, oh, my gosh! Well, then. That's problematic. So I have to switch my machine. I have to go to my laptop. I yeah, would To be honest, Frenada, if if you do not have The this side interface here, viewable or usable. This is, gonna be a pain in the ass to try to get to work. Yeah, yeah.
+Coordinates. Well, oh, my gosh! Well, then. That's problematic. So I have to switch my machine. I have to go to my laptop. I yeah, would To be honest, Frenada, if you do not have The this side interface here, viewable or usable. This is, gonna be a pain in the ass to try to get to work. Yeah, yeah.
 
 ## Allen Hirsh [02:00:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7210s)
 
@@ -821,7 +821,7 @@ II have another question, Michael. I hope I'm not Ending someone else's answer. 
 
 ## Michael Price [02:00:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7237s)
 
-Typically I was getting those as well, and usually that means that the image is too large. The recommendation is that The images need to be less than 2,000 pixels in either the X or the you know the the horizontal or the vertical direction. Okay. And and and that's you can definitely go smaller. Now.
+Typically I was getting those as well, and usually that means that the image is too large. The recommendation is that The images need to be less than 2,000 pixels in either the X or the you know the horizontal or the vertical direction. Okay. And that's you can definitely go smaller. Now.
 
 ## Allen Hirsh [02:01:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7277s)
 
@@ -831,9 +831,9 @@ Can you show at some point uploading an image?
 
 Pardon me, show us at some point uploading. Sure.
 
-I can. I can do that. So, for instance. If if. Say, if I wanted to replace this. Now, I need to now to do the upload. Oh. Okay, let me. I need. I need the bring this out. So so you you need to have before you upload anything you need to know what the URL for the image is. It? It needs to have been saved somewhere, either using imguire, or for in my case I'm using my squarespace account and I've got all my images saved on Squarespace, and so I use the the link there.
+I can. I can do that. So, for instance. If. Say, if I wanted to replace this. Now, I need to now to do the upload. Oh. Okay, let me. I need. I need the bring this out. So you need to have before you upload anything you need to know what the URL for the image is. It? It needs to have been saved somewhere, either using imguire, or for in my case I'm using my squarespace account and I've got all my images saved on Squarespace, and so I use the link there.
 
-But basically, if you go to image URL, you can see you can see here. My, my squarespace account. URL, but if I go all the way here, and I just hit Delete. Now it's blank. And if I wanna in include a new URL, I can type that in here. Or I could. Do you know a cut and paste to to put right into that to that spot? So Let me. Let me do that just a second. Here.
+But basically, if you go to image URL, you can see you can see here. My, my squarespace account. URL, but if I go all the way here, and I just hit Delete. Now it's blank. And if I wanna in include a new URL, I can type that in here. Or I could. Do you know a cut and paste to put right into that to that spot? So Let me. Let me do that just a second. Here.
 
 Quickly going to my asset library. Let me pick an image.
 
@@ -859,7 +859,7 @@ And now, instead of a red triangle, you have a yellow triangle.
 
 ## Michael Price [02:04:32](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7472s)
 
-So see this red, yellow triangle. Now. If I hover over it, it tells me the image is too large. So I know that if I wanted to use that to be as efficient as I can in the Execution of my space, I'll want to go in and and, you know, make a smaller, a slightly smaller image. So it doesn't exceed The file size that it recommends.
+So see this red, yellow triangle. Now. If I hover over it, it tells me the image is too large. So I know that if I wanted to use that to be as efficient as I can in the Execution of my space, I'll want to go in and, you know, make a smaller, a slightly smaller image. So it doesn't exceed The file size that it recommends.
 
 ## Allen Hirsh [02:05:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7503s)
 
@@ -867,7 +867,7 @@ Okay, that helps me. I also wanted to ask. I had trouble getting rid of Tommy's 
 
 ## Michael Price [02:05:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7524s)
 
-Not the one I deleted. So okay, I did not have that problem, so I'm not sure. In fact, I ended up just kind of deleting most of his images and just starting over and and placing my own. But it I'm not saying that that's a better solution. But Yeah, if you actually deleted the URL, and then you put in your own. That should work there, there should be anything else. And then it's just from there. It's a matter of placing it where you want it to be
+Not the one I deleted. So okay, I did not have that problem, so I'm not sure. In fact, I ended up just kind of deleting most of his images and just starting over and placing my own. But it I'm not saying that's a better solution. But Yeah, if you actually deleted the URL, and then you put in your own. That should work there, there should be anything else. And then it's just from there. It's a matter of placing it where you want it to be
 
 ## Allen Hirsh [02:05:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7559s)
 
@@ -895,9 +895,9 @@ You see how it's. Yes, I see see back right. I'm gonna try to get close in here 
 
 As I get. Closer to the wall here.
 
-Yeah, it's tricky. It's right back there. See? It's right behind the wall. Yeah. And then The easiest way for me to know how to bring it forward, since it's at minus 2, I'll go. Let's try minus one. It's already now, way out here. So I could just keep playing with it, and I know that that onee is where I want to be. But now you can tell this one. This larger version is at a scale of 1.8. And this smaller version is that a scale one? So if I want to make it larger, all I have to do is play with the scale. And I could make it, you know, as large as I want to. That's appropriate.
+Yeah, it's tricky. It's right back there. See? It's right behind the wall. Yeah. And then The easiest way for me to know how to bring it forward, since it's at minus 2, I'll go. Let's try minus one. It's already now, way out here. So I could just keep playing with it, and I know that onee is where I want to be. But now you can tell this one. This larger version is at a scale of 1.8. And this smaller version is that a scale one? So if I want to make it larger, all I have to do is play with the scale. And I could make it, you know, as large as I want to. That's appropriate.
 
-And the nice thing is. Even when it's scaled up. There's there's a lot of detail. The detail is very nice, and that's what everybody's been talking about is
+And the nice thing is. Even when it's scaled up. There's a lot of detail. The detail is very nice, and that's what everybody's been talking about is
 
 ## Karen LaFleur [02:10:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7802s)
 
@@ -913,7 +913,7 @@ Constantly spinning. You know, I put something in, and they'll just do a little 
 
 ## Michael Price [02:10:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7852s)
 
-It's it's the yeah. It's the illusion that if you don't know where that object is in the 3 dimensional space it can feel like, Oh, this is really, really large, or this is really tiny. And you need, that's where you need to understand again, where it's located In space. Because alright.
+It's the yeah. It's the illusion that if you don't know where that object is in the 3 dimensional space it can feel like, Oh, this is really, really large, or this is really tiny. And you need, that's where you need to understand again, where it's located In space. Because alright.
 
 ## Allen Hirsh [02:11:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7876s)
 
@@ -925,9 +925,9 @@ You're talking about rotating the room, the whole room, the whole room. So you c
 
 ## Michael Price [02:11:50](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7910s)
 
-See how this smaller one now looks bigger. But the app. The reality is as they start to spit, you know. Move around in the room. It's way forward. So as I'm as my camera is right here. You know my eyes are right here. It looks bigger, but that's an illusion, because it's closer to me. Because it's sitting in the middle, you know it's kind of floating in the middle of the room where this guy back here is actually against that wall. So that that's where you need. That's the hard part of a threed space is you need to know where things are oriented In your in your room, or you know your gallery?
+See how this smaller one now looks bigger. But the app. The reality is as they start to spit, you know. Move around in the room. It's way forward. So as I'm as my camera is right here. You know my eyes are right here. It looks bigger, but that's an illusion, because it's closer to me. Because it's sitting in the middle, you know it's kind of floating in the middle of the room where this guy back here is actually against that wall. So that's where you need. That's the hard part of a threed space is you need to know where things are oriented In your in your room, or you know your gallery?
 
-And and that's where these numbers. Especially especially if you know you like, where your walls are. You need to know the values of these Positions and the rotations of the walls, because if you're placing things against them, they need. They need to be close to the numbers here.
+And that's where these numbers. Especially especially if you know you like, where your walls are. You need to know the values of these Positions and the rotations of the walls, because if you're placing things against them, they need. They need to be close to the numbers here.
 
 ## Allen Hirsh [02:12:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7978s)
 
@@ -935,7 +935,7 @@ So the image placement, the image numbers for rotation must be the same as the r
 
 ## Michael Price [02:13:07](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7987s)
 
-Very close to it. The the rotations need to be identical. The rotation tells you the facing of the wall.
+Very close to it. The rotations need to be identical. The rotation tells you the facing of the wall.
 
 ## Allen Hirsh [02:13:19](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7999s)
 
@@ -955,7 +955,7 @@ Yes. So how do you spin the room.
 
 ## Michael Price [02:14:09](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8049s)
 
-So, okay, that's a great question, Bernadette. So for me, I. And again, I'm on a PC. So again, those who are Mac users, you may do do things differently. Do you see? Do you see my cursor here? Okay. So if I do a left click. And then I'm just
+So, okay, that's a great question, Bernadette. So for me, I. And again, I'm on a PC. So again, those who are Mac users, you may do things differently. Do you see? Do you see my cursor here? Okay. So if I do a left click. And then I'm just
 
 ## Verneda Lights [02:14:30](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8070s)
 
@@ -963,7 +963,7 @@ Moving my mouse. I get an orientation change like this, so I can see.
 
 ## Michael Price [02:14:38](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8078s)
 
-And then, if I want to actually move. I can use the the wheel in the center of my mouse to go back and forward. Now, the other thing that you you can also do which is helpful is, if I do a right click. Then what it does is it uses my position as the rotation spot, and so now I can rotate exactly where I am in the room to look around in the room.
+And then, if I want to actually move. I can use the wheel in the center of my mouse to go back and forward. Now, the other thing that you can also do which is helpful is, if I do a right click. Then what it does is it uses my position as the rotation spot, and so now I can rotate exactly where I am in the room to look around in the room.
 
 ## Verneda Lights [02:15:09](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8109s)
 
@@ -975,11 +975,11 @@ So I want I wanted to show I wanted to show just real. Briefly here, this image.
 
 The other thing that the other thing that I've done Is that I have.
 
-I have an audio file here. That's kind of like a welcoming file. And I use Soundcloud to play audio and soundcloud is free, and it works fine. So if there's anybody who's thinking of of using audio, and you don't have a way for hosting. Go to soundcloud.com.
+I have an audio file here. That's kind of like a welcoming file. And I use Soundcloud to play audio and soundcloud is free, and it works fine. So if there's anybody who's thinking of using audio, and you don't have a way for hosting. Go to soundcloud.com.
 
 ## Colin Goldberg [02:16:49](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8209s)
 
-Hey, Michael, I'm gonna have to take off but you know, feel free to continue as long as it's a good conversation. And if you don't mind, before you guys close out either before or after the recording ends. If you can collectively decide on a new topic for Salon 78. And Hopefully, the person who suggests it will be The moderator. But I'll I'll refer back to the end of the salon. Maybe if you just keep that in the recording, that would be the easiest that way. I could just look back at the end of the recording. And you know, kinda take it from there to build auto, graphic and everything.
+Hey, Michael, I'm gonna have to take off but you know, feel free to continue as long as it's a good conversation. And if you don't mind, before you guys close out either before or after the recording ends. If you can collectively decide on a new topic for Salon 78. And Hopefully, the person who suggests it will be The moderator. But I'll refer back to the end of the salon. Maybe if you just keep that in the recording, that would be the easiest that way. I could just look back at the end of the recording. And you know, kinda take it from there to build auto, graphic and everything.
 
 Okay. Okay, alright cool. Take care, everyone. Happy Hanukkah to those to celebrate.
 
@@ -1033,17 +1033,17 @@ Great.
 
 ## Verneda Lights [02:19:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8383s)
 
-Okay. I have a question about the. Overall Sort of meta presentation of of the galleries in Siberiana. I see here that you have a. Several Techspressionist presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by business superstructure? Or do we name by author? You know, by the
+Okay. I have a question about the. Overall Sort of meta presentation of the galleries in Siberiana. I see here that you have a. Several Techspressionist presentations of this work, Michael Art Book Gallery. And then you have my name is Ishmael. Okay. So overall. How are these galleries being named? Is there a uniformity to that? Do we name by project, or do we name by business superstructure? Or do we name by author? You know, by the
 
 ## Michael Price [02:20:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8437s)
 
-That's a great question, and and I would be happy if if Renata or Steven has any feeling on that. But Tommy, I think, is leaving it to everybody. As to. What your room, or gallery, or space is, if you want it. According to your name. And then it I don't necessarily see A uniformity other than we've talked about keeping the stuff outside similar with the kind of tying into the public space with the tile roofing and and the The the public space arena around it. But internally inside.
+That's a great question, and I would be happy if Renata or Steven has any feeling on that. But Tommy, I think, is leaving it to everybody. As to. What your room, or gallery, or space is, if you want it. According to your name. And then it I don't necessarily see A uniformity other than we've talked about keeping the stuff outside similar with the kind of tying into the public space with the tile roofing and the public space arena around it. But internally inside.
 
-We've really Said, if you want to use the template as the minimum. And all you do is replace the images in there, and that's as far as you go, because that's all you feel comfortable doing. Then at least you've got a space within Siberiana. If you want to exercise a little bit more of your creativity, and you want to add new things in, or you want to change some of the things that's up to you. And so. That's kind of the philosophy. I would say that Tommy has brought to it, and as far as I could see, what Steven and and Renata and myself have kind of worked with as well. So does that kind of help. Well, strategically having a scatter shot
+We've really Said, if you want to use the template as the minimum. And all you do is replace the images in there, and that's as far as you go, because that's all you feel comfortable doing. Then at least you've got a space within Siberiana. If you want to exercise a little bit more of your creativity, and you want to add new things in, or you want to change some of the things that's up to you. And so. That's kind of the philosophy. I would say that Tommy has brought to it, and as far as I could see, what Steven and Renata and myself have kind of worked with as well. So does that kind of help. Well, strategically having a scatter shot
 
 ## Verneda Lights [02:22:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8554s)
 
-Approach to nomenclature. Is, or or I guess I could better see, signage. Individual signage disadvantages you. It disadvantages the project, and it disadvantages. The Us. The artist's gallery space, and the way it does it is that it is not search engine optimized for continuity. For instance, if I have a gallery space that I want to have well known in Siberiana. It is useful For people who look for my work To know how to look for it. I have many different projects, but if I use the different projects to name the galleries Assuming it'd be more than one over time. Then they're gonna not be able to readily identify me. And that becomes a time factor. And and time is money on the Internet. People need ready identification. But if I call myself I call my gallery space Bernado Lights.
+Approach to nomenclature. Is, or I guess I could better see, signage. Individual signage disadvantages you. It disadvantages the project, and it disadvantages. The Us. The artist's gallery space, and the way it does it is that it is not search engine optimized for continuity. For instance, if I have a gallery space that I want to have well known in Siberiana. It is useful For people who look for my work To know how to look for it. I have many different projects, but if I use the different projects to name the galleries Assuming it'd be more than one over time. Then they're gonna not be able to readily identify me. And that becomes a time factor. And time is money on the Internet. People need ready identification. But if I call myself I call my gallery space Bernado Lights.
 
 Or I name it after my business e graphics omnimia then you have that anchor identification. And yet at within the space itself I can have a variation of projects to be presented without losing continuity. So, strategically speaking, there's great advantage To giving an in-depth thought To how you're gonna approach signage and how it will advantage or disadvantage the people within The space and the space itself in general, I mean, get lost with Siberiana, cause, you know, that's gonna be constant.
 
@@ -1055,13 +1055,13 @@ I mean, it's as far as far as. The as far as I know, we don't have like somethin
 
 ## Renata Janiszewska [02:25:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8712s)
 
-Michael, I'm I want to perhaps go back a few steps, because III must admit I didn't catch the beginning of this this particular discussion, but we had a hard and fast decision that each artist would have a door In the town square with the same layout for the door, IE. There would be a round window there would be a portrait, sized artwork, and there would be the artist's name below. So everyone has the same presentation in the town square. It goes by your name. If you want to put your company name.
+Michael, I'm I want to perhaps go back a few steps, because III must admit I didn't catch the beginning of this particular discussion, but we had a hard and fast decision that each artist would have a door In the town square with the same layout for the door, IE. There would be a round window there would be a portrait, sized artwork, and there would be the artist's name below. So everyone has the same presentation in the town square. It goes by your name. If you want to put your company name.
 
 That's welcome as well, that's all. And then everything else inside the spaces. The studios is up to the individual artist. Does that? Does that help?
 
 ## Verneda Lights [02:26:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8762s)
 
-Well, I it gives clarity as to what the initial vision was and what it is now. But I'm still thinking I'm projecting into the future over time. That Ye may well have to tweak that for search engine purposes. You know, or that search engine optimization may not be a concern. You know, for the project, but it's something that's definitely on my mind, you know, as a web master. So so we'll see. I'll just figure it out for myself, and then see how it plays, and make sure that what I do put up is compliant with what's already been set forth.
+Well, I it gives clarity as to what the initial vision was and what it is now. But I'm still thinking I'm projecting into the future over time. That Ye may well have to tweak that for search engine purposes. You know, or that search engine optimization may not be a concern. You know, for the project, but it's something that's definitely on my mind, you know, as a web master. So we'll see. I'll just figure it out for myself, and then see how it plays, and make sure that what I do put up is compliant with what's already been set forth.
 
 ## Allen Hirsh [02:26:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8807s)
 
@@ -1069,9 +1069,9 @@ I have another question about when you first go into The Mozilla Hub and you're 
 
 ## Michael Price [02:27:15](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8835s)
 
-Okay, that's that is an excellent question, Cynthia, and. I am a believer of saving often. And the reason, I say that is, when you make changes, when you make additions, when you change something. It's easier if you save. Then, if if something happens, if you make a mistake, you haven't done like 50 different things, and then you've lost what what you've done. So I it. It's a lit. It lengthens the process very slightly, but I tend to save, and then I'll publish.
+Okay, that's that is an excellent question, Cynthia, and. I am a believer of saving often. And the reason, I say that is, when you make changes, when you make additions, when you change something. It's easier if you save. Then, if something happens, if you make a mistake, you haven't done like 50 different things, and then you've lost what you've done. So I it. It's a lit. It lengthens the process very slightly, but I tend to save, and then I'll publish.
 
-And then I'll look at the example again, so I'll walk through in Hu, you know a after I save the at the end of the save process. It asks you if you wanna if you want to enter your seed and hubs. And that way I can go in hubs and make sure that I'm happy with the change or changes that I've made and I can. I can. You know. Certified to myself that what I've done is exactly what I wanted it to do. Maybe I'll look at it, and I'll think. Oh, I should really tweak this up a little higher or lower, or a little more to the left, or a little more to the right, but having that back and forth process Really helps me that if if I make too many changes and then I save and I'm not liking things, I won't. I won't remember how I changed things previously. So I'm a believer in saving often and and reviewing those changes.
+And then I'll look at the example again, so I'll walk through in Hu, you know a after I save the at the end of the save process. It asks you if you wanna if you want to enter your seed and hubs. And that way I can go in hubs and make sure that I'm happy with the change or changes that I've made and I can. I can. You know. Certified to myself that what I've done is exactly what I wanted it to do. Maybe I'll look at it, and I'll think. Oh, I should really tweak this up a little higher or lower, or a little more to the left, or a little more to the right, but having that back and forth process Really helps me that if I make too many changes and then I save and I'm not liking things, I won't. I won't remember how I changed things previously. So I'm a believer in saving often and reviewing those changes.
 
 ## Allen Hirsh [02:29:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8942s)
 
@@ -1089,17 +1089,17 @@ Okay, so it's file save. And then, when you're if you're happy with the changes 
 
 ## Michael Price [02:30:11](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9011s)
 
-Yeah. And and when you go to publish, that'll let you go actually go into hubs and see it as an end user. And that's really helpful. Because Oftentimes you things look good still in here, and you may realize, oh, this is still sticking out of the wall a little bit too much. I want to, you know. I want to push this closer and and actually seeing it in hubs versus seeing it in, spoke
+Yeah. And when you go to publish, that'll let you go actually go into hubs and see it as an end user. And that's really helpful. Because Oftentimes you things look good still in here, and you may realize, oh, this is still sticking out of the wall a little bit too much. I want to, you know. I want to push this closer and actually seeing it in hubs versus seeing it in, spoke
 
 ## Allen Hirsh [02:30:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9040s)
 
-Can be really instrumental in in making those final changes, or the tweets that you like better. So the reason my view of it in hubs was not the same as what it looked like when I was working on. It is because I had not tweaked those images enough. Put them where they should be. I'm getting to see that they're floating so back, and I rework it alright. So you'll need to understand why what I see in hubs is not the same
+Can be really instrumental in making those final changes, or the tweets that you like better. So the reason my view of it in hubs was not the same as what it looked like when I was working on. It is because I had not tweaked those images enough. Put them where they should be. I'm getting to see that they're floating so back, and I rework it alright. So you'll need to understand why what I see in hubs is not the same
 
 ## Michael Price [02:31:09](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9069s)
 
 Correct. Because what happens is when you're working. If you're working in here and you're trying to do everything from one perspective. You know, this may look fine here. This may look fine here, and that looks okay. And that looks okay. But I need to actually walk through the space to see. Now, now my perspective is different here, and if this were, if this particular image were sticking out too far, I may not have noticed it when I was closer to this side of the room.
 
-But once I get here I could see. Oh, gosh! This is, you know, this is sticking out too far. I need to. I need to push it closer to the wall. And that's where sometimes, going actually into hubs can help. You see those discrepancies that you might have been blind to in spoke if you if you don't. If you don't really move through the spoke spaces as readily as you do in in the hub space. I mean, it's the same space. It's just looking at it from the end user versus looking at it from the person creating the interface.
+But once I get here I could see. Oh, gosh! This is, you know, this is sticking out too far. I need to. I need to push it closer to the wall. And that's where sometimes, going actually into hubs can help. You see those discrepancies that you might have been blind to in spoke if you if you don't. If you don't really move through the spoke spaces as readily as you do in the hub space. I mean, it's the same space. It's just looking at it from the end user versus looking at it from the person creating the interface.
 
 If that makes sense. Yes, it does make sense. Okay.
 
@@ -1109,19 +1109,19 @@ Are those arrows functional? The arrows that are emanating from the artwork? Are
 
 ## Michael Price [02:32:37](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9157s)
 
-Bernadette, can. You see that this green arrow all of a sudden becomes brighter now with my. So that lets me know it's functional, and it will. So it it moves vertically. And so now click on the red one. Let's see what that does. Okay, in and out the wall. Okay? And yeah.
+Bernadette, can. You see that this green arrow all of a sudden becomes brighter now with my. So that lets me know it's functional, and it will. So it moves vertically. And so now click on the red one. Let's see what that does. Okay, in and out the wall. Okay? And yeah.
 
 ## Verneda Lights [02:33:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9183s)
 
-Okay, well, that that that's more user friendly than the mouse thing. I think
+Okay, well, that's more user friendly than the mouse thing. I think
 
 ## Michael Price [02:33:09](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9189s)
 
-This will get you Close. The numbers is the numbers will give you precision. This will give. This will give you. I'm close to where I want to be. I you know this feels close. But let me play with the numbers to make sure how it's looking with respect to the actual wall itself. That's why these numbers on the side here give you precision. And as and as Karen LaFleur had mentioned, if you want to use The Slider instead of just typing in the numbers, all you have to do is click on here, and you'll see That's sliding, sliding here. I'm I'm actually changing the numbers in that interface as well. So it depends on what works for you. There's several different ways to play around with this.
+This will get you Close. The numbers is the numbers will give you precision. This will give. This will give you. I'm close to where I want to be. I you know this feels close. But let me play with the numbers to make sure how it's looking with respect to the actual wall itself. That's why these numbers on the side here give you precision. And as and as Karen LaFleur had mentioned, if you want to use The Slider instead of just typing in the numbers, all you have to do is click on here, and you'll see That's sliding, sliding here. I'm actually changing the numbers in that interface as well. So it depends on what works for you. There's several different ways to play around with this.
 
-But the bay, the main thing is getting the right precision, so that something that looks like it's fine, is it's actually sticking out into the room or isn't the reverse of the image the way you want it to actually be. So you know that that's some of the stuff you need to to be able to deal with. And then and then the other thing that I've got a lot of in here is actual text, and it works very similarly to the images. I don't know why it's called troika text, but that's that's what it is. If you click on here and troika texts.
+But the bay, the main thing is getting the right precision, so that something that looks like it's fine, is it's actually sticking out into the room or isn't the reverse of the image the way you want it to actually be. So you know that's some of the stuff you need to be able to deal with. And then and then the other thing that I've got a lot of in here is actual text, and it works very similarly to the images. I don't know why it's called troika text, but that's what it is. If you click on here and troika texts.
 
-Then then you can create a text. And again, it has. You have to worry about the orientation. You can worry about the size. And then you you Type in what it is you want. You want and The width of how how much text you can put on a line you can. You can control. That's what I did. Here. You can see in here all the text that I had to type in. I basically had to set how how wide my paragraphs are. Cause if it's too wide, the text will go out into, you know, into the room here, that's, you know, not on, on, not on this surface that I created.
+Then you can create a text. And again, it has. You have to worry about the orientation. You can worry about the size. And then you Type in what it is you want. You want and The width of how much text you can put on a line you can. You can control. That's what I did. Here. You can see in here all the text that I had to type in. I basically had to set how wide my paragraphs are. Cause if it's too wide, the text will go out into, you know, into the room here, that's, you know, not on, on, not on this surface that I created.
 
 ## Renata Janiszewska [02:35:43](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9343s)
 
@@ -1137,11 +1137,11 @@ Will you have. Well, according to what we're not just said, I was gonna ask In l
 
 ## Michael Price [02:37:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9424s)
 
-That that's That's an important question. It's one that we have talked about. So here I'm speaking just for myself. This is not an official statement at all. So. I think right now we are asking for people to Get their Form filled out and sent in to us like a a week from tomorrow. I think the date is the fifteenth. My guess is, if enough artists are still struggling to get their spaces done. And that doesn't happen. It's gonna be up to Probably Tommy to figure out whether or not what that means for the opening.
+That's That's an important question. It's one that we have talked about. So here I'm speaking just for myself. This is not an official statement at all. So. I think right now we are asking for people to Get their Form filled out and sent in to us like a week from tomorrow. I think the date is the fifteenth. My guess is, if enough artists are still struggling to get their spaces done. And that doesn't happen. It's gonna be up to Probably Tommy to figure out whether or not what that means for the opening.
 
-So I don't have a my feeling is Breneda, that It's gonna be driven by the community. Whether or not whether or not we have everybody Sufficiently along, so that their spaces are in in a shape that people are happy with, and I don't know what the answer is to that. That's why I wanted to to have several tutorial sessions. And that's why we've I felt that doing something like this today would be helpful. But I don't II have no idea how far along everybody is at this point.
+So I don't have a my feeling is Breneda, that It's gonna be driven by the community. Whether or not whether or not we have everybody Sufficiently along, so that their spaces are in a shape that people are happy with, and I don't know what the answer is to that. That's why I wanted to have several tutorial sessions. And that's why we've I felt that doing something like this today would be helpful. But I don't II have no idea how far along everybody is at this point.
 
-So My feeling is personally that if we don't have an overwhelming number of the artists ready to show that will probably need to push this off a bit but I don't know that there we're we're operating under the assumption right now that December the thirtieth is a go. Well, it looks from the sounds of
+So My feeling is personally that if we don't have an overwhelming number of the artists ready to show that will probably need to push this off a bit but I don't know that there we're operating under the assumption right now that December the thirtieth is a go. Well, it looks from the sounds of
 
 ## Verneda Lights [02:39:20](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9560s)
 
@@ -1157,9 +1157,9 @@ Yeah. Oh, yes, it is very much so Cause Mozilla is still evolving anyway, in ter
 
 ## Michael Price [02:40:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9604s)
 
-That's true. I, to be honest, I don't know how hard and fast that deadline is and because Tommy was The originator of this concept. You know, and he's not here. I'm uncomfortable saying, this is the way it is. But I'm just trying as somebody who has been one of the 4 working on this I. And because of my experience in the game industry working with environments. I have been a proponent that this is gonna probably take longer to get done Than what the others have thought and but I don't know, you know. And so my my feeling is. I think, the community, if if half the artists have not been able to to get something that they're happy with.
+That's true. I, to be honest, I don't know how hard and fast that deadline is and because Tommy was The originator of this concept. You know, and he's not here. I'm uncomfortable saying, this is the way it is. But I'm just trying as somebody who has been one of the 4 working on this I. And because of my experience in the game industry working with environments. I have been a proponent that this is gonna probably take longer to get done Than what the others have thought and but I don't know, you know. And so my feeling is. I think, the community, if half the artists have not been able to get something that they're happy with.
 
-You know, then, that I think that that makes the decision something really important. Because. You know, we're we're trying to make this a community space. And we need to have enough people for that to be viable and and something that that feels like it's a positive
+You know, then, that I think that makes the decision something really important. Because. You know, we're trying to make this a community space. And we need to have enough people for that to be viable and something that feels like it's a positive
 
 ## Verneda Lights [02:41:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9684s)
 
@@ -1171,15 +1171,15 @@ To roll out the project in iterations.
 
 ## Verneda Lights [02:41:42](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9702s)
 
-Yeah, you can do the the soft opening call. It may be on the thirtieth, and then A month later.
+Yeah, you can do the soft opening call. It may be on the thirtieth, and then A month later.
 
 ## Michael Price [02:41:51](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9711s)
 
-Another iteration. Right? Yeah. And the the challenge. The challenge is, Rene, is that. It's very hands on to incorporate. Changes. So it's not an automated process Tommy, or whoever's gonna be handling the The database has to do physical entries of here's here's the information. Here are the links. And and all of that for it to work. So what we were planning Is that once we're up and running, that we would have periodic updates. It it, you know, if we got everything past the soft launch. Maybe we do have a couple of updates that are monthly, but then from there we would probably do quarterly updates, because there's an intensive Aspect to making the updates. But so that's that's kind of where we're at in in behind the scenes.
+Another iteration. Right? Yeah. And the challenge. The challenge is, Rene, is that. It's very hands on to incorporate. Changes. So it's not an automated process Tommy, or whoever's gonna be handling the database has to do physical entries of here's the information. Here are the links. And all of that for it to work. So what we were planning Is that once we're up and running, that we would have periodic updates. It, you know, if we got everything past the soft launch. Maybe we do have a couple of updates that are monthly, but then from there we would probably do quarterly updates, because there's an intensive Aspect to making the updates. But so that's kind of where we're at in behind the scenes.
 
 ## Allen Hirsh [02:42:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9779s)
 
-Well, I agree with everything that Bernada mentioned. And, Michael, I understand Your feelings, and why they have to be that way. So I'm hoping, you know, that either there's a soft opening, or that the opening is postponed. Again. We don't know how many people have already submitted to Tommy. Even that that would be. That would be be interesting and indicative. I would think of where we're going with this. And I certainly do not wanna put something out that I'm not proud of simply to be ready for December thirtieth.
+Well, I agree with everything that Bernada mentioned. And, Michael, I understand Your feelings, and why they have to be that way. So I'm hoping, you know, that either there's a soft opening, or that the opening is postponed. Again. We don't know how many people have already submitted to Tommy. Even that would be. That would be interesting and indicative. I would think of where we're going with this. And I certainly do not wanna put something out that I'm not proud of simply to be ready for December thirtieth.
 
 ## Michael Price [02:43:36](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9816s)
 
@@ -1191,7 +1191,7 @@ And so that. And I've been working. I've been working on this along with Judy Ja
 
 ## Michael Price [02:44:06](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9846s)
 
-Which which is why. For me, having tutorials. I wanted to have some tutorials before today. Just some. Just so. Just so it wasn't feeling rushed to try to make that that deadline of the fifteenth and. I that that just didn't come about. Unfortunately, yeah, this would have been much better.
+Which is why. For me, having tutorials. I wanted to have some tutorials before today. Just some. Just so. Just so it wasn't feeling rushed to try to make that deadline of the fifteenth and. I that just didn't come about. Unfortunately, yeah, this would have been much better.
 
 ## Verneda Lights [02:44:39](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9879s)
 
@@ -1199,9 +1199,9 @@ This type of session Ideally, because high sight is always 2020
 
 ## Michael Price [02:44:45](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9885s)
 
-Would have taken place 2 months ago. Yes. That that's been my voice to the group. And I. It won't surprise me if the lodge changes. But it may not, and we may only have, you know, a few things up and running as a very soft, soft launch. And then But I. Yeah, II. It's a valued, it's a valiant effort. It's a good effort. I I'm really happy. We're doing this. But It's not. It's not like putting a website together. There's it's everybody. I'm grateful for everybody, at least making the attempt.
+Would have taken place 2 months ago. Yes. That's been my voice to the group. And I. It won't surprise me if the lodge changes. But it may not, and we may only have, you know, a few things up and running as a very soft, soft launch. And then But I. Yeah, II. It's a valued, it's a valiant effort. It's a good effort. I'm really happy. We're doing this. But It's not. It's not like putting a website together. There's it's everybody. I'm grateful for everybody, at least making the attempt.
 
-And and I think this is this is where. Over the next week whenever the fifteenth rolls around. You know, in 8 days. This, this is where it's The voices in the community are gonna have to say we need a lot more time, or we're not there yet. And and that's where I think the evaluation is gonna have to come is depending on what the feedback is from everybody. Where and how can we express it?
+And I think this is this is where. Over the next week whenever the fifteenth rolls around. You know, in 8 days. This, this is where it's The voices in the community are gonna have to say we need a lot more time, or we're not there yet. And that's where I think the evaluation is gonna have to come is depending on what the feedback is from everybody. Where and how can we express it?
 
 ## Allen Hirsh [02:46:16](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9976s)
 
@@ -1209,19 +1209,19 @@ I mean, feedback will be they don't. I think this has to go directly to Tommy.
 
 ## Deann Stein Hasinoff [02:46:22](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9982s)
 
-I sent an email. When I first was having problems, I sent an email to the Siberiana Email.com. So the email that you got your information from that's where I sent it to. And so I think if everyone. Just, you know, if you're having problems and it's not working for you, and you're not gonna be ready. I think you just need to be really upfront with them about that. And then, like Michael said, if there are enough People who for whom that's the case. Then then maybe things will change. But I also know that they're already advertising The Siberiana open. How? Opening on Techspressionism so they may not want to change it, for whatever reason.
+I sent an email. When I first was having problems, I sent an email to the Siberiana Email.com. So the email that you got your information from that's where I sent it to. And so I think if everyone. Just, you know, if you're having problems and it's not working for you, and you're not gonna be ready. I think you just need to be really upfront with them about that. And then, like Michael said, if there are enough People who for whom that's the case. Then maybe things will change. But I also know that they're already advertising The Siberiana open. How? Opening on Techspressionism so they may not want to change it, for whatever reason.
 
-In which case some people may like myself may just be like, is it gonna happen? I'll I'll do it another time, maybe this time we'll see now that I've said this little tutorial, I'm like a little more hopeful that I could actually make it work, but you know it's still, you know, I'm one of the people who's at the bottom of the mountain right now. So I got get to the top.
+In which case some people may like myself may just be like, is it gonna happen? I'll do it another time, maybe this time we'll see now that I've said this little tutorial, I'm like a little more hopeful that I could actually make it work, but you know it's still, you know, I'm one of the people who's at the bottom of the mountain right now. So I got get to the top.
 
 ## Michael Price [02:47:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10049s)
 
-The the other the other thing. And and this is not a great solution but The very barest minimum is, if you still wanted to have A presence In in Siberiana for the launch would be to have your name. The image that you want on the door. And a link to your web page Or a link to something that Expresses, you know your Siberiana spaces coming, whatever it is, and that would be the bare minimum that way. If people click on your doorway in the in the in the town square that at least it's active.
+The other the other thing. And this is not a great solution but The very barest minimum is, if you still wanted to have A presence In Siberiana for the launch would be to have your name. The image that you want on the door. And a link to your web page Or a link to something that Expresses, you know your Siberiana spaces coming, whatever it is, and that would be the bare minimum that way. If people click on your doorway in the in the in the town square that at least it's active.
 
 Even though it doesn't take you to your 3D space. They know you're part of this. They can go to your website. You can advertise on your website that you're part of the Siberian thing, and that's the bare minimum. I you know, that doesn't satisfy me, but it's something. It at least shows that you're participating. And it's like, you know, your space is coming. I'm hoping that you could get there and have an actual space before the soft launch, but that those are kind of the tiers. Is your space is done.
 
-You you! You've got your doorway and it goes to your website. But that that's kind of you know. That's kind of the At least I'm I'm in the space sort of thing. That sounds like a a good idea. But that that but that was something. I told Tommy that we had at least at a minimum. We needed to be able to do so if somebody wasn't ready or they didn't have time. That at least they're part of the experience they're in the space, and that we know that they will be part of it at some point.
+You! You've got your doorway and it goes to your website. But that's kind of you know. That's kind of the At least I'm in the space sort of thing. That sounds like a good idea. But that but that was something. I told Tommy that we had at least at a minimum. We needed to be able to do so if somebody wasn't ready or they didn't have time. That at least they're part of the experience they're in the space, and that we know that they will be part of it at some point.
 
-And and at least that it. You know, we don't want all, you know, 75 artists just leaking to their website, and that, you know, kind of defeats the purpose of having a threed space. But if you, if you can't be ready that it's at least your presence is still in there.
+And at least that it. You know, we don't want all, you know, 75 artists just leaking to their website, and that, you know, kind of defeats the purpose of having a threed space. But if you, if you can't be ready that it's at least your presence is still in there.
 
 ## Allen Hirsh [02:49:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10199s)
 
@@ -1245,7 +1245,7 @@ And what about the name? Can 2 names be on the door?
 
 ## Michael Price [02:51:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10260s)
 
-As far as I know, 2 names is fine having on the door, I believe. I don't know how much space there is for the name on the door, so that that's something you probably should ask directly. II would. I would suggest sending an email out pretty soon on that question.
+As far as I know, 2 names is fine having on the door, I believe. I don't know how much space there is for the name on the door, so that's something you probably should ask directly. II would. I would suggest sending an email out pretty soon on that question.
 
 ## Allen Hirsh [02:51:24](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10284s)
 
@@ -1281,11 +1281,11 @@ Yeah, I can't, either.
 
 ## Michael Price [02:52:28](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10348s)
 
-Texting art is a good one. Yeah, let's try that I I will email Colin, and tell him that's what we decided.
+Texting art is a good one. Yeah, let's try that I will email Colin, and tell him that's what we decided.
 
 ## Deann Stein Hasinoff [02:52:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10360s)
 
-And I would say that pulling off of Karen's. So our discussion of of fast fiction or flash. What is it called flash fiction or sudden fiction necessarily have to be incorporated into the art. It can be part of the narrative narrative of the art, or something. No, like Karen did some things where she she had a narrative, a short narrative that was associated with the image. But they weren't.
+And I would say that pulling off of Karen's. So our discussion of fast fiction or flash. What is it called flash fiction or sudden fiction necessarily have to be incorporated into the art. It can be part of the narrative narrative of the art, or something. No, like Karen did some things where she had a narrative, a short narrative that was associated with the image. But they weren't.
 
 ## Sahar Moussavi [02:53:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10392s)
 
@@ -1293,7 +1293,7 @@ Yeah, that's great. I think that's a good idea. I have a last question, Michael.
 
 ## Michael Price [02:53:44](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10424s)
 
-So you have to. There are 2 boxes that you have to check. Yes, so here, let me. So here's here's the publish.
+So you have to. There are 2 boxes that you have to check. Yes, so here, let me. So here's the publish.
 
 ## Sahar Moussavi [02:53:57](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10437s)
 
@@ -1303,7 +1303,7 @@ Yes.
 
 So when you so do the save, and publish. The next box will give you the. I believe the link.
 
-If I remember correctly. But I don't want to do that here because I've screwed up my my gallery. I mean the 2 boxes. Mtv, check boxes. To click, publish.
+If I remember correctly. But I don't want to do that here because I've screwed up my gallery. I mean the 2 boxes. Mtv, check boxes. To click, publish.
 
 ## Sahar Moussavi [02:54:34](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10474s)
 
@@ -1341,11 +1341,11 @@ So it could be that somehow that was checked off to allow to make it into a temp
 
 You know. That's.
 
-That's a good question. And I don't know. Because I think when I work in spoke as well. I think I get remix. I don't think I get edit. Cause. That was one. That was one thing that freaked me out at first was cause in Tommy's example it shows edit. And when I went in, I remember, I've got remix. And maybe that's because since we're using that as a template. We're actually remixing what what was initially given to us to use.
+That's a good question. And I don't know. Because I think when I work in spoke as well. I think I get remix. I don't think I get edit. Cause. That was one. That was one thing that freaked me out at first was cause in Tommy's example it shows edit. And when I went in, I remember, I've got remix. And maybe that's because since we're using that as a template. We're actually remixing what was initially given to us to use.
 
 ## Deann Stein Hasinoff [02:56:50](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10610s)
 
-I'm speculating. I did in my email. My original email, I said, is my problem, because mine says remix and not edit. And and we're not. I didn't think that was the issue. So it's not yeah. So it's just my own, you know. Tech issues. I have to sort out. But but yeah, this was very helpful. So thank you for going through all of that information.
+I'm speculating. I did in my email. My original email, I said, is my problem, because mine says remix and not edit. And We're not. I didn't think that was the issue. So it's not yeah. So it's just my own, you know. Tech issues. I have to sort out. But yeah, this was very helpful. So thank you for going through all of that information.
 
 ## Michael Price [02:57:18](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10638s)
 
@@ -1353,11 +1353,11 @@ Yes, thank you very much. You're definitely welcome. If we need to do another se
 
 ## Deann Stein Hasinoff [02:58:03](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10683s)
 
-Could we? Potentially, just for this one week. Co-OP the the Co. Working. Cynthia, Beth Ruben.
+Could we? Potentially, just for this one week. Co-OP the Co. Working. Cynthia, Beth Ruben.
 
 ## Allen Hirsh [02:58:17](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10697s)
 
-She began the program and see if she's amenable. If if that's the case.
+She began the program and see if she's amenable. If that's the case.
 
 ## Michael Price [02:58:25](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10705s)
 
@@ -1401,7 +1401,7 @@ Text and art or art and text, Cynthia, and next Tuesday and
 
 ## Michael Price [02:59:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10780s)
 
-We'll go from there and then I'll contact you, Michael, as to what happened. Yeah, unless there's a you know, like remaining questions, I'm I'm a little toasty at this point. Thank you so much, Michael. Oh, you're welcome.
+We'll go from there and then I'll contact you, Michael, as to what happened. Yeah, unless there's a you know, like remaining questions, I'm a little toasty at this point. Thank you so much, Michael. Oh, you're welcome.
 
 ## Sahar Moussavi [03:00:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=10804s)
 

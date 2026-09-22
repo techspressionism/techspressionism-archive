@@ -137,9 +137,9 @@ Whilst looking for more examples of 3D scanning, I stumbled across on, I believe
 
 This is a private home in Ukraine. This would be the home of, I think his name was Grigory, who was a retired factory worker. And this is a 3D model. You can go through that space and look at things from the back, the front. Here's another example of a kindergarten classroom in Ukraine that was captured on with an iPhone 12 Pro.
 
-All the pro versions of the iPhone have LIDAR scanners in them. I put a lot of these scans together using Maya and Unity 3D and placed them in our virtual reality cave, created a kind of flashlight for them, did some programming to get all this to work. And they're very spooky, very disturbing spaces to wander around in. I wanted to give some kind of context to them and add some some twist. So I began looking at 3D scans of people. These are sold online. And generally to gaming companies, to game creators. So here I Googled businessmen checking their phones and watches. And then I combined them with this image.
+All the pro versions of the iPhone have LIDAR scanners in them. I put a lot of these scans together using Maya and Unity 3D and placed them in our virtual reality cave, created a kind of flashlight for them, did some programming to get all this to work. And they're very spooky, very disturbing spaces to wander around in. I wanted to give some kind of context to them and add some twist. So I began looking at 3D scans of people. These are sold online. And generally to gaming companies, to game creators. So here I Googled businessmen checking their phones and watches. And then I combined them with this image.
 
-These these scans from the Ukraine of automobiles and trucks all smashed up at the bottom, a hotel. Here's another one I call Field Trip, where I was able to find a group of 3D scans of schoolchildren. So these are actually these are actually the children. These are these are not 3D modeled or created. These are these are reality. This is the form of reality capture. So here's another one called Field Trip.
+These scans from the Ukraine of automobiles and trucks all smashed up at the bottom, a hotel. Here's another one I call Field Trip, where I was able to find a group of 3D scans of schoolchildren. So these are actually these are actually the children. These are these are not 3D modeled or created. These are these are reality. This is the form of reality capture. So here's another one called Field Trip.
 
 And this one is called Happy Hour. And it's kind of about how we just keep going on in the face of all these problems and how those of us. We live in the third and the first world are kind of distant from all this, at least for now. So here is a list of the attributions of these 3D scans that I've that I've used. Made you some. And so I hope you get a chance to check that out. And congratulations on your new maker space. I hope you have a great time.
 
@@ -171,17 +171,17 @@ Thank you, Lee. That was excellent. This is how you can reach Lee. He is on his 
 
 ## Unattributed [31:18](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=1878s)
 
-So, and in case people don't know what Q&A is, it's a question period. It's our time to hear from you, the people in Uzbekistan. Thank you. Um, we need... You need to unmute. Yes. Thank you. Okay. Yeah. Few more three minutes like we just disconnected my... Like our computer like went down. Does anybody there have any questions?
+So, and in case people don't know what Q&A is, it's a question period. It's our time to hear from you, the people in Uzbekistan. Thank you. We need... You need to unmute. Yes. Thank you. Okay. Yeah. Few more three minutes like we just disconnected my... Like our computer like went down. Does anybody there have any questions?
 
 Or did we lose the audience when that happened? I closed. I think we have no questions here.
 
 ## Roz Dimon [32:05](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=1925s)
 
-Well, yeah, I can, I might bring up some questions myself for the artists and you can listen in and if you have further questions, you can add to it. I'll start with Lee Day. Do you create these images in in Photoshop, I mean you said that the iPhone creates your photographs. How does it do that? I mean, if you can explain that a little bit more.
+Well, yeah, I can, I might bring up some questions myself for the artists and you can listen in and if you have further questions, you can add to it. I'll start with Lee Day. Do you create these images in Photoshop, I mean you said that the iPhone creates your photographs. How does it do that? I mean, if you can explain that a little bit more.
 
 ## Lee Day [32:34](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=1954s)
 
-And how, yeah. So, so the iPhone does actually create all the images, sort of looks like they're they're put together by by me and Photoshop but that's not what happens so the way the iPhone panorama function works is it takes sort of hundred pixel wide strips, and then the, the genius brain in there tries to stick them all together into a beautiful picture. And so it's a beautiful panorama, but because it's flying through space it, you know, I don't know 100 kilometers an hour or something. It really struggles and it can't put them together properly. And so that's why you get these stitched together kinds of looks. So, the images are entirely created by the, by the iPhone and that's why I think of them as being sort of a proxy for algorithmic intelligence because they are actually created by algorithms, or at least assembled by algorithms.
+And how, yeah. So, so the iPhone does actually create all the images, sort of looks like they're put together by me and Photoshop but that's not what happens so the way the iPhone panorama function works is it takes sort of hundred pixel wide strips, and then the, the genius brain in there tries to stick them all together into a beautiful picture. And so it's a beautiful panorama, but because it's flying through space it, you know, I don't know 100 kilometers an hour or something. It really struggles and it can't put them together properly. And so that's why you get these stitched together kinds of looks. So, the images are entirely created by the, by the iPhone and that's why I think of them as being sort of a proxy for algorithmic intelligence because they are actually created by algorithms, or at least assembled by algorithms.
 
 ## Roz Dimon [33:29](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2009s)
 
@@ -189,7 +189,7 @@ And yet your artists I there's some I that's in that in those pieces that are di
 
 ## Lee Day [33:35](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2015s)
 
-Well, I, you know, it's sort of a collaboration because what my, my contribution is is more of a curatorial or curationist perspective I go through, like I said thousands of images, looking for those moments for the panoramas that work and so there's, you know, there's very much a cure, I'm going through and adding my eye. I'm going through and adding my eye. I'm going through and adding my eye. And so, I think that's a really good way to kind of connect to what the iPhone has created. And so, I think that's a really good way to connect to what
+Well, I, you know, it's sort of a collaboration because what my, my contribution is more of a curatorial or curationist perspective I go through, like I said thousands of images, looking for those moments for the panoramas that work and so there's, you know, there's very much a cure, I'm going through and adding my eye. I'm going through and adding my eye. I'm going through and adding my eye. And so, I think that's a really good way to kind of connect to what the iPhone has created. And so, I think that's a really good way to connect to what
 
 ## Roz Dimon [34:03](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2043s)
 
@@ -201,7 +201,7 @@ And you really, it can. I think if people think digital working in digital is ea
 
 I first. Well I found myself in the, in the mid to late 80s. Working on paintings and trying to accomplish certain effects and juxtapositions that were proving to be very difficult and the paintings began to have too many layers and I couldn't quite sort it out and I. And also my, my mind was moving very fast. Lots of images being generated lots of ideas coming up and the painting process was so slow at the time because I was trying to figure out these difficult technical things that I didn't know how to do. And I realized that the computer was kind of a relief, kind of allowed me to make things a little more quickly almost as quickly as I could think once I figured out the software, and allowed me to do to combine photographs and very fine lines and, you know, lots of and try out multiple color combinations really quickly which would, you know, take forever if I was changing the painting completely so it, it kind of freed, you know, kind of freed my process.
 
-And I think that's what I'm trying to do. Yeah. We could say that, you know, like the, the act of reproducing an image and turning a painting into a free floating image kind of frees the image, it kind of allows it to to float between different mediums and and I liked that at the time. Recently, though, I have.
+And I think that's what I'm trying to do. Yeah. We could say that, you know, like the, the act of reproducing an image and turning a painting into a free floating image kind of frees the image, it kind of allows it to float between different mediums and I liked that at the time. Recently, though, I have.
 
 Well, I found myself painting on one of my prints, a large print on canvas actually that blue one that I showed you. I added a little bit of color. And after printing it and stretching it and looking at it for a couple days I thought, it doesn't work, but it worked on the screen that the screen was so small, compared to the size of the painting which is seven feet wide.
 
@@ -209,7 +209,7 @@ So, I began painting on it and that changed things to, I missed the surface of a
 
 ## Roz Dimon [36:57](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2217s)
 
-That brings up some. Thank you. Thank you that that brings up a lot of interesting concepts. I think for a lot of us working in this medium. I know for myself that my paintings just filled up with squares in New York City these electronic squares and montages of information and I
+That brings up some. Thank you. Thank you that brings up a lot of interesting concepts. I think for a lot of us working in this medium. I know for myself that my paintings just filled up with squares in New York City these electronic squares and montages of information and I
 
 ## Unattributed [37:13](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2233s)
 
@@ -217,7 +217,7 @@ Had to
 
 ## Roz Dimon [37:14](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2234s)
 
-Have the computer, it would and you know it was challenging I never thought I'd put down that other brush you know. And it also brings up elements of consciousness. Um, that I think Lee tackles I mean. I mean, his work is so fast, but it's sort of, it's to me representative of humanity right now, just barely struggling to keep up with our inventions, you know, if you want to speak to that a minute. Well,
+Have the computer, it would and you know it was challenging I never thought I'd put down that other brush you know. And it also brings up elements of consciousness. That I think Lee tackles I mean. I mean, his work is so fast, but it's sort of, it's to me representative of humanity right now, just barely struggling to keep up with our inventions, you know, if you want to speak to that a minute. Well,
 
 ## Lee Day [37:40](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2260s)
 
@@ -251,15 +251,15 @@ Yeah. The wonderful thing about it is it's instant, too. If I can see something 
 
 ## Roz Dimon [40:36](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2436s)
 
-Yeah. Yeah. And the technology is always changing. Yeah. You know, all the time. So it's a good way to keep your mind sharp, but a little fatiguing at times. It brings up maybe as a final thing to talk about a little is, you know, what do we miss about the good old days of painting or do you want to go back to that? I know for myself, I actually just bought 100 little canvas squares that are an inch wide, and I'll be doing maybe my first painting after 20 years with oil on canvas. And as someone said who's watched me. I work all along said, well, it's not going to be painting the same way you did because our minds and our lives have been so changed by this technology that I don't know. But I'm just looking forward to, you know, we get obsessed with the technology. And and yet as some another friend of mine from Smithsonian, Paul Trackman, he's an artist now retired.
+Yeah. Yeah. And the technology is always changing. Yeah. You know, all the time. So it's a good way to keep your mind sharp, but a little fatiguing at times. It brings up maybe as a final thing to talk about a little is, you know, what do we miss about the good old days of painting or do you want to go back to that? I know for myself, I actually just bought 100 little canvas squares that are an inch wide, and I'll be doing maybe my first painting after 20 years with oil on canvas. And as someone said who's watched me. I work all along said, well, it's not going to be painting the same way you did because our minds and our lives have been so changed by this technology that I don't know. But I'm just looking forward to, you know, we get obsessed with the technology. And yet as some another friend of mine from Smithsonian, Paul Trackman, he's an artist now retired.
 
 But he said he said, you know, when you look at an oil painting, there's thousands of layers in a little oil painting. You know, there's lots of stuff going on in there. So anyway, maybe I don't know who wants to talk.
 
 ## Lee Day [41:43](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2503s)
 
-You know, that goes back, you know, the technology influencing painting or art, you know, goes back to Durer and, you know, they got from photography strictly from photography's point of view. So but, you know, frankly, I've never put paint on a canvas. So for me, I mean, I think the question I have for the the the other artists here is, is what is it about photography that makes it so important that you want to incorporate that into your paintings? Why is it somehow a special thing that you use rather than painting?
+You know, that goes back, you know, the technology influencing painting or art, you know, goes back to Durer and, you know, they got from photography strictly from photography's point of view. So but, you know, frankly, I've never put paint on a canvas. So for me, I mean, I think the question I have for the other artists here is, is what is it about photography that makes it so important that you want to incorporate that into your paintings? Why is it somehow a special thing that you use rather than painting?
 
-I think Greg answered that a little bit before. You know, there is a time constraint. But I know from my perspective, I think there's also a reality lock to photography that that, you know, painting starts off with a blank slate basically.
+I think Greg answered that a little bit before. You know, there is a time constraint. But I know from my perspective, I think there's also a reality lock to photography that, you know, painting starts off with a blank slate basically.
 
 ## Unattributed [42:36](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2556s)
 
@@ -291,7 +291,7 @@ So, sorry, back to you, Roz. No, that's great.
 
 ## Roz Dimon [47:08](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2828s)
 
-Thank you. Thank you for your input and you know we're all open about sharing our work and we'd love to hear from you and you. There will be a recording that you can access of course but you can find us on Instagram and in other means or on Twitter. You can email us from our websites and you know I know I personally would love to see what, what all of you come up with your, your the next generation and it's exciting to be here and we thank you again and and look forward to the next session and also hearing more from you so don't be too shy. I didn't, I was so shy I could barely talk when I was little, I, everything about art, but I have definitely learned to talk.
+Thank you. Thank you for your input and you know we're all open about sharing our work and we'd love to hear from you and you. There will be a recording that you can access of course but you can find us on Instagram and in other means or on Twitter. You can email us from our websites and you know I know I personally would love to see what, what all of you come up with your, your the next generation and it's exciting to be here and we thank you again and look forward to the next session and also hearing more from you so don't be too shy. I didn't, I was so shy I could barely talk when I was little, I, everything about art, but I have definitely learned to talk.
 
 ## Unattributed [47:50](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2870s)
 
@@ -299,7 +299,7 @@ Somehow hard to believe.
 
 ## Roz Dimon [47:51](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2871s)
 
-I know. Thank you. I can't believe it. But once you find your, your, your home and who you are, then it gets easier and you know, it's it's great to ask the questions are to ask the questions so you can always keep that dialogue going. Thank you again everyone.
+I know. Thank you. I can't believe it. But once you find your, your, your home and who you are, then it gets easier and you know, it's great to ask the questions are to ask the questions so you can always keep that dialogue going. Thank you again everyone.
 
 ## Unattributed [48:10](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2890s)
 
@@ -313,7 +313,7 @@ Okay.
 
 ## Unattributed [49:10](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2950s)
 
-Okay. And anyone out there's there's someone sitting behind you just. Do you have any questions or work. Set here. No more questions. Okay. Great. Okay. So, so you're going to sign us off. So.
+Okay. And anyone out there's someone sitting behind you just. Do you have any questions or work. Set here. No more questions. Okay. Great. Okay. So, so you're going to sign us off. So.
 
 ## Roz Dimon [49:29](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2969s)
 

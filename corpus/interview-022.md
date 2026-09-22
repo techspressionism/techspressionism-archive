@@ -47,19 +47,19 @@ Yes. It's been a wonderful community of people who are doing so many different t
 
 Right. I agree. Colin Goldberg really has made a wonderful open platform for us to all share. And of course, we have a show coming up that we're both in, the Techspressionism show that will be opening close to where I live in the Hamptons, in Southampton. That's going to be a very exciting show. Thank you. Thank you so much for sharing your thoughts with us today. Thank you so much for having me. Looking forward to that. I'm glad that you will be in it and I will be in it as well. We do have other questions here as part of our interview process. But I think I'll just let you share.
 
-Karen, we talked about that because our art is how we tell our journey. But we want to just cover your background. Background maybe remember to talk about what made you become an artist or like you said you had no choice I think you said love that um a little about your influences um and then we'll talk a little at the end about expressionism in the future but just just go for it I may interrupt once in a while if I have a question if that's okay I
+Karen, we talked about that because our art is how we tell our journey. But we want to just cover your background. Background maybe remember to talk about what made you become an artist or like you said you had no choice I think you said love that a little about your influences and then we'll talk a little at the end about expressionism in the future but just go for it I may interrupt once in a while if I have a question if that's okay I
 
 ## Karen LaFleur [03:52](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=232s)
 
-Think that's fine and I think it's great for the audience to be able to see what I'm doing too as I'm talking about my backgrounds and things so let me go and share my screen and bring up my lecture screen can you see that great excellent so Roz asked me in a way you know when did you know you were artists is one of the questions they ask and I said to her with my first breath and it's true because it's really how I have seen the world right from the very beginning um and so my artwork in general uh speaks to the resiliency of the human heart to survive in ever-shifting landscapes and I do that by exploring the interplay between interior and exterior worlds with a focus on adaptability and a lot of this comes from voice where we have thoughts and in our head and yet we're a social human being and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that exterior world that picks up in my artwork in all different forms but it stems from this duality
+Think that's fine and I think it's great for the audience to be able to see what I'm doing too as I'm talking about my backgrounds and things so let me go and share my screen and bring up my lecture screen can you see that great excellent so Roz asked me in a way you know when did you know you were artists is one of the questions they ask and I said to her with my first breath and it's true because it's really how I have seen the world right from the very beginning and so my artwork in general speaks to the resiliency of the human heart to survive in ever-shifting landscapes and I do that by exploring the interplay between interior and exterior worlds with a focus on adaptability and a lot of this comes from voice where we have thoughts and in our head and yet we're a social human being and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that interior world and we're speaking out loud and it's sort of that exterior world that picks up in my artwork in all different forms but it stems from this duality
 
 ## Roz Dimon [05:08](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=308s)
 
-Has that always been evident to you from the beginning that that's where you were going or did it take you a while to figure out what you're doing right
+Has that always been evident to you from the beginning that's where you were going or did it take you a while to figure out what you're doing right
 
 ## Karen LaFleur [05:15](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=315s)
 
-From the beginning right from the very very beginning I mean you know well before six years old oh the very last slide I'll show you some of these little twig and stone uh villages and communities I think that I've been working on some of these little twig and stone uh villages and communities I think that I've been working on some of these little twig and stone uh villages and communities I think that I've been working on and I'd put them in the marsh grass and I just leave them there for people to find and wonder what was this community where did it come from this
+From the beginning right from the very beginning I mean you know well before six years old oh the very last slide I'll show you some of these little twig and stone villages and communities I think that I've been working on some of these little twig and stone villages and communities I think that I've been working on some of these little twig and stone villages and communities I think that I've been working on and I'd put them in the marsh grass and I just leave them there for people to find and wonder what was this community where did it come from this
 
 ## Unattributed [05:40](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=340s)
 
@@ -67,7 +67,7 @@ A lot
 
 ## Karen LaFleur [05:40](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=340s)
 
-Earlier so I was already working with this duality uh right from the beginning so um when I talk about my work I start with me and I'm a writer as well as a visual artist so let's start me look there are pictures and stories inside my hands that's nice to hear everyone said just don't forget to wash them before dinner but I didn't wash away the pictures and stories and they're still inside my hands even today all these pieces if you're curious were all done on the computer and when I'm working on the computer I don't use any paint programs it's strictly photoshopped the trackpad and mouse a
+Earlier so I was already working with this duality right from the beginning so when I talk about my work I start with me and I'm a writer as well as a visual artist so let's start me look there are pictures and stories inside my hands that's nice to hear everyone said just don't forget to wash them before dinner but I didn't wash away the pictures and stories and they're still inside my hands even today all these pieces if you're curious were all done on the computer and when I'm working on the computer I don't use any paint programs it's strictly photoshopped the trackpad and mouse a
 
 ## Roz Dimon [06:33](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=393s)
 
@@ -75,15 +75,15 @@ Quick question Karen are were we looking at three different pieces or is that al
 
 ## Karen LaFleur [06:41](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=401s)
 
-To show the range of what can be accomplished wow yeah so we start at the beginning I'm from the Boston area really very very very close to the city I mean I could see it it was 10 minutes right there is my horizon so in the winters I was in the city in the summers I was on the island and the ocean left a huge impression on me as a young child because of the freedom and also the freedom to explore the microcosms the ocean is so changeable on the moment's notice one tidal pool will have one community in the morning and it'll have a different one in the afternoon and so on the right side of this slide you'll see these little nurse figures and the other big influence for me was my health because right from the very beginning I had a severe heart condition and we were literally waiting for the heart lung machine to develop so I'm an experimental case coming through in the early 60s when they did the surgery so I had this sci-fi world that I would be in for months at a time in the hospital and then I would have this amazing amazing freedom when I came home at the at the ocean so they were like these two worlds duality again happening
+To show the range of what can be accomplished wow yeah so we start at the beginning I'm from the Boston area really very close to the city I mean I could see it was 10 minutes right there is my horizon so in the winters I was in the city in the summers I was on the island and the ocean left a huge impression on me as a young child because of the freedom and also the freedom to explore the microcosms the ocean is so changeable on the moment's notice one tidal pool will have one community in the morning and it'll have a different one in the afternoon and so on the right side of this slide you'll see these little nurse figures and the other big influence for me was my health because right from the very beginning I had a severe heart condition and we were literally waiting for the heart lung machine to develop so I'm an experimental case coming through in the early 60s when they did the surgery so I had this sci-fi world that I would be in for months at a time in the hospital and then I would have this amazing amazing freedom when I came home at the at the ocean so they were like these two worlds duality again happening
 
 ## Roz Dimon [08:08](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=488s)
 
-Yeah that really explains the interior and exterior uh and psychological uh experience when
+Yeah that really explains the interior and exterior and psychological experience when
 
 ## Karen LaFleur [08:16](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=496s)
 
-You were young yes yes and when I was in the hospital you know it wasn't all doom and gloom you were still being children and so we would empower ourselves to be children because back in the 50s this is the early 50s we're talking about we didn't have therapy dogs or social workers we were given a deck of cards and a pad of paper and a pencil no television no nothing so we learned to be children in the middle of chaos difficult chaos and I found the community to be extraordinarily empathetic and amazing observers of people if if you weren't feeling well someone would lean against you while you were playing cards until the pain passed and then they just lean away and we were all into six years old so this left a huge impression in terms of observation so text and image right from the very beginning I always was putting text and image in in my work I'm not signing this my name is part of the picture it's part of the community and these small microcosms that I ran into at the beach I would go into imaginary ones when I was a kid and I would put them in my little drawing pad at home I was also writing stories but if you notice the words disappear because I'm extraordinarily dyslexic and I can't read in fact I can't read more than three pages per hour until I was in my late 30s and yes creatively decided to do a master's in English literature to study children's literature from text to image I was like okay But you
+You were young yes and when I was in the hospital you know it wasn't all doom and gloom you were still being children and so we would empower ourselves to be children because back in the 50s this is the early 50s we're talking about we didn't have therapy dogs or social workers we were given a deck of cards and a pad of paper and a pencil no television no nothing so we learned to be children in the middle of chaos difficult chaos and I found the community to be extraordinarily empathetic and amazing observers of people if you weren't feeling well someone would lean against you while you were playing cards until the pain passed and then they just lean away and we were all into six years old so this left a huge impression in terms of observation so text and image right from the very beginning I always was putting text and image in my work I'm not signing this my name is part of the picture it's part of the community and these small microcosms that I ran into at the beach I would go into imaginary ones when I was a kid and I would put them in my little drawing pad at home I was also writing stories but if you notice the words disappear because I'm extraordinarily dyslexic and I can't read in fact I can't read more than three pages per hour until I was in my late 30s and yes creatively decided to do a master's in English literature to study children's literature from text to image I was like okay But you
 
 ## Roz Dimon [09:58](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=598s)
 
@@ -91,7 +91,7 @@ Were already writing even though reading is difficult was writing a ball of wax 
 
 ## Karen LaFleur [10:05](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=605s)
 
-Was always story driven behind the art but the words were too hard to get out so that when when I went and did the Masters what happened was is I was photocopying material I needed because I just had a little library here on the island that didn't have interlibrary loan and I found out that by photocopying the page, I could read 30 pages an hour. If you hand me a book, I can only do three.
+Was always story driven behind the art but the words were too hard to get out so that when I went and did the Masters what happened was is I was photocopying material I needed because I just had a little library here on the island that didn't have interlibrary loan and I found out that by photocopying the page, I could read 30 pages an hour. If you hand me a book, I can only do three.
 
 ## Roz Dimon [10:33](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=633s)
 
@@ -199,7 +199,7 @@ And you know, you would have to think
 
 ## Karen LaFleur [18:35](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1115s)
 
-With your family. And you know, you would have to think with your family. And you know, you would have to think with your family. And you know, you would have keep the gallery going we we made clothing we made jewelry we made uh you know fix the lawnmower wheel we worked with a lot of designers we worked with doing Bloomingdale's windows you know they would call up artists in that day and say hey we need 45 porcelain hands for the windows and you know in New York which we did then we'd ship it all down to them so it kept us going in terms of uh financials we didn't sell one thing we did many things so these are the figures that I was working with at the time and these were my studios little ones clay studio all the faces in these are hand-built I didn't use molds and I would make many things so you know if we had one doll I made 12 because when they made out of fabric or plaster or wood or what fabric with armatures uh aluminum armature wire rigging uh porcelain faces hands extremities uh antique glass eyes I used to work with a company in New York that had a collection from 1900 to 1910 that were four dolls in the late 1800s so they were just really beautiful eyes um I'm trying to move it along because we don't get through this stage we'll get to the end stage but these are the things that I was building at the time a lot of these sometimes were in almost an installation tableaus in the in the gallery uh almost like little mini theater productions right here's one of the sculptures is
+With your family. And you know, you would have to think with your family. And you know, you would have to think with your family. And you know, you would have keep the gallery going we made clothing we made jewelry we made you know fix the lawnmower wheel we worked with a lot of designers we worked with doing Bloomingdale's windows you know they would call up artists in that day and say hey we need 45 porcelain hands for the windows and you know in New York which we did then we'd ship it all down to them so it kept us going in terms of financials we didn't sell one thing we did many things so these are the figures that I was working with at the time and these were my studios little ones clay studio all the faces in these are hand-built I didn't use molds and I would make many things so you know if we had one doll I made 12 because when they made out of fabric or plaster or wood or what fabric with armatures aluminum armature wire rigging porcelain faces hands extremities antique glass eyes I used to work with a company in New York that had a collection from 1900 to 1910 that were four dolls in the late 1800s so they were just really beautiful eyes I'm trying to move it along because we don't get through this stage we'll get to the end stage but these are the things that I was building at the time a lot of these sometimes were in almost an installation tableaus in the in the gallery almost like little mini theater productions right here's one of the sculptures is
 
 ## Roz Dimon [20:34](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1234s)
 
@@ -227,15 +227,15 @@ Of two well
 
 ## Karen LaFleur [21:04](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1264s)
 
-It's a kingdom of two because of our health we couldn't I mean sometimes we were open for three weeks and then if there was an emergency which there were many you know we would chase the ambulance to Boston and uh or got police escort and then we were up there for a while and then we'd come back and open up again so we couldn't do that to other artists I
+It's a kingdom of two because of our health we couldn't I mean sometimes we were open for three weeks and then if there was an emergency which there were many you know we would chase the ambulance to Boston and or got police escort and then we were up there for a while and then we'd come back and open up again so we couldn't do that to other artists I
 
 ## Roz Dimon [21:24](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1284s)
 
-See what a special um relationship and story this is here's
+See what a special relationship and story this is here's
 
 ## Karen LaFleur [21:29](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1289s)
 
-Some of the other ones and I'm still working with puppetry as you see on the left her hair is all fine copper wire so this has nothing to do with the beach where every gallery on Cape Cod you know well not every but many of them were selling the picture of the beach the picket fence the cottage and then there was us and a few other galleries and uh it just became a wonderful audience that we ended up collecting oh that's you wouldn't think it would be but it but it was I'm also doing paintings I'm doing sculptures and this piece I put in because it's actually not one painting what I was doing was painting individual shapes and then assembling collages from them so it's almost like a precursor to using layers in Photoshop yeah very much
+Some of the other ones and I'm still working with puppetry as you see on the left her hair is all fine copper wire so this has nothing to do with the beach where every gallery on Cape Cod you know well not every but many of them were selling the picture of the beach the picket fence the cottage and then there was us and a few other galleries and it just became a wonderful audience that we ended up collecting oh that's you wouldn't think it would be but it but it was I'm also doing paintings I'm doing sculptures and this piece I put in because it's actually not one painting what I was doing was painting individual shapes and then assembling collages from them so it's almost like a precursor to using layers in Photoshop yeah very much
 
 ## Roz Dimon [22:19](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1339s)
 
@@ -243,7 +243,7 @@ And it moves backward and forward a little in a way that yeah that feels like la
 
 ## Karen LaFleur [22:28](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1348s)
 
-Like the eyes are all cut out of the circles out of it and then they're all put together to make one piece and this is around like the early 80s so like 81 82. And like I said I was working with a lot of designers so and uh so um this one is like the theater set the little stuffed uh Christmas ornament in the upper left actually goes with that Christmas tree in the centers the Boston ballet and they had a Christmas tree that went from normal size to like 30 feet high and all my ornaments were on it so we would work with set designers um I was also working for a museum uh in their collections departments for four or five years and during that time through them I cataloged the collection of a Hans Hoffman student of 6 000 pieces over two years so I learned a lot about how to provenance your own artwork along the way very important very important but I never gave up the story and the image through Hans
+Like the eyes are all cut out of the circles out of it and then they're all put together to make one piece and this is around like the early 80s so like 81 82. And like I said I was working with a lot of designers so and so this one is like the theater set the little stuffed Christmas ornament in the upper left actually goes with that Christmas tree in the centers the Boston ballet and they had a Christmas tree that went from normal size to like 30 feet high and all my ornaments were on it so we would work with set designers I was also working for a museum in their collections departments for four or five years and during that time through them I cataloged the collection of a Hans Hoffman student of 6 000 pieces over two years so I learned a lot about how to provenance your own artwork along the way very important very important but I never gave up the story and the image through Hans
 
 ## Roz Dimon [23:34](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1414s)
 
@@ -251,11 +251,11 @@ Did working with Hans Hoffman and his collection have any influence on you or no
 
 ## Karen LaFleur [23:40](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1420s)
 
-Wasn't Hans Hoffman it was a student of Hans Hoffman oh okay okay so uh did it influence my work uh no it it gave me more of an idea of how to like I said provenance and artwork and realize that the artwork has a history beyond you just creating it which is an important lesson in my 30s and 40s to realize and
+Wasn't Hans Hoffman it was a student of Hans Hoffman oh okay so did it influence my work no it gave me more of an idea of how to like I said provenance and artwork and realize that the artwork has a history beyond you just creating it which is an important lesson in my 30s and 40s to realize and
 
 ## Roz Dimon [24:03](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1443s)
 
-It's a big deal now with nfts uh if we can get beyond it all being about the currency itself but um giving provenance to a piece that's totally digitally created but I don't want to yeah that would be
+It's a big deal now with nfts if we can get beyond it all being about the currency itself but giving provenance to a piece that's totally digitally created but I don't want to yeah that would be
 
 ## Karen LaFleur [24:16](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1456s)
 
@@ -263,7 +263,7 @@ Difficult somebody's going to come up with a solution though they have to hold
 
 ## Roz Dimon [24:21](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1461s)
 
-On I got to get my my barking Yorkie one second that's okay come
+On I got to get my barking Yorkie one second that's okay come
 
 ## Karen LaFleur [24:26](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1466s)
 
@@ -275,15 +275,15 @@ This is how you know our interviews are live folks yes and I have the piece okay
 
 ## Karen LaFleur [24:35](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1475s)
 
-Sorry to interrupt but oh no um so anyways I'm still trying to do the the text in the in the image these are the drawings that I was doing this is charcoal I'd paint with India ink and different sheared layers um rubbed in graphite but about this time this is probably my mid-30s now um I started to lose my eyesight so that I can't really focus on these details anymore and so I didn't really draw for four or five years until technology came into the picture and then I could blow things up big and you actually get back to the visuals but that little hiatus
+Sorry to interrupt but oh no so anyways I'm still trying to do the text in the in the image these are the drawings that I was doing this is charcoal I'd paint with India ink and different sheared layers rubbed in graphite but about this time this is probably my mid-30s now I started to lose my eyesight so that I can't really focus on these details anymore and so I didn't really draw for four or five years until technology came into the picture and then I could blow things up big and you actually get back to the visuals but that little hiatus
 
 ## Roz Dimon [25:16](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1516s)
 
-I love how you're in and you're um telling us your story in that way and how technology was helpful to you and in those ways absolutely because
+I love how you're in and you're telling us your story in that way and how technology was helpful to you and in those ways absolutely because
 
 ## Karen LaFleur [25:26](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1526s)
 
-Having this little hiatus away from the drawing and still making stuff for the gallery and the designers but um it gave me a chance to write you know that I got that so I had the writing for three or four years and then the visual came back with technology so here we go digitally I started in 1981 I bought the computer because I thought it would help me with my dyslexia and I thought it would help with the business forms and things and at the time there were no computer stores so I would go to the big trade shows up in Boston because I was a business I could get in get in and the guy who sold this to my first computer to me said lady you get 128k you don't need any more memory I could have blew that out of the picture real fast
+Having this little hiatus away from the drawing and still making stuff for the gallery and the designers but it gave me a chance to write you know that I got that so I had the writing for three or four years and then the visual came back with technology so here we go digitally I started in 1981 I bought the computer because I thought it would help me with my dyslexia and I thought it would help with the business forms and things and at the time there were no computer stores so I would go to the big trade shows up in Boston because I was a business I could get in get in and the guy who sold this to my first computer to me said lady you get 128k you don't need any more memory I could have blew that out of the picture real fast
 
 ## Roz Dimon [26:20](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1580s)
 
@@ -291,7 +291,7 @@ But once I got a hold of the machine I knew it was going places first computer i
 
 ## Karen LaFleur [26:31](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1591s)
 
-2e Apple TV of course yeah yeah and I've been been Apple the whole way uh that's another story we'll get into but I'll tell you later um so uh so in the beginning um I'm just testing the scene machine to see how far I can push to get back to my drawings and so this is literally Matrix dot printer because the trouble with the machines was yeah it's great on the screen what do I do with it you know that I can't get it off right yeah period of time so eventually it gets going up close enough that it's getting real close that I can actually start to say yeah can start to sketch on this machine and have the freedom to work. But I still am, I'm chasing the story. So I decided to do a master's in children's literature in Boston. It's a premier program up there. It's wonderful. And it's really not about children.
+2e Apple TV of course yeah and I've been Apple the whole way that's another story we'll get into but I'll tell you later so in the beginning I'm just testing the scene machine to see how far I can push to get back to my drawings and so this is literally Matrix dot printer because the trouble with the machines was yeah it's great on the screen what do I do with it you know that I can't get it off right yeah period of time so eventually it gets going up close enough that it's getting real close that I can actually start to say yeah can start to sketch on this machine and have the freedom to work. But I still am, I'm chasing the story. So I decided to do a master's in children's literature in Boston. It's a premier program up there. It's wonderful. And it's really not about children.
 
 It's about the texts. And it's about literature. So this was a wonderful experience for me to go through. And they were extraordinarily supportive with my husband. You know, if he was sick halfway through the class, they'd say, go home, take care, come back, you can do it next semester. They were very, very good.
 
@@ -345,7 +345,7 @@ Question were you showing the on where you were is the audio part of the piece o
 
 ## Karen LaFleur [34:40](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2080s)
 
-If I'm doing the animations now but back then there was no access to animation these are just digital prints but when I gave a lecture because I'm dyslexic and I can't read my own writing uh well I would record them and this started me on this whole journey of putting wait a minute I can put my voice in my artwork and I'm going to put my voice in my work thank you that helps that helps and then my gallery was open you got to realize at the same time and we would have to do the christmas fair for a week for the town or whatever and all the businesses had to come up with something you know so and so hired a harp player somebody else did you know christmas decorating for ornaments for the kids and what I put out every year are a collection of doll houses that we built they were just architectural models and I would run these videos I made videos out of these and ran them in the back room and people would be able to hear them spoken that way so it's sort of like my beginning when
+If I'm doing the animations now but back then there was no access to animation these are just digital prints but when I gave a lecture because I'm dyslexic and I can't read my own writing well I would record them and this started me on this whole journey of putting wait a minute I can put my voice in my artwork and I'm going to put my voice in my work thank you that helps that helps and then my gallery was open you got to realize at the same time and we would have to do the christmas fair for a week for the town or whatever and all the businesses had to come up with something you know so and so hired a harp player somebody else did you know christmas decorating for ornaments for the kids and what I put out every year are a collection of doll houses that we built they were just architectural models and I would run these videos I made videos out of these and ran them in the back room and people would be able to hear them spoken that way so it's sort of like my beginning when
 
 ## Unattributed [35:39](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2139s)
 
@@ -357,7 +357,7 @@ This
 
 ## Karen LaFleur [35:42](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2142s)
 
-Piece was important to me because in the in the in the frame around the edge the stories pulled apart and that's literally the story that's outside the story inside in the brown area is very rigid and straight and that's the internal voice of this particular character the theme is the fear of saying yes to love so all this is going on side but this is fear holding this character like this I also in this story uh put interior stories so you can read it by color so if you chose the pink text it would read to mark its passage only the tiniest of flake drifts in december and you'd have these other little stories inside the story so I'm playing again with pushing the story apart this is um ella jean she's uh about teenage love being wiser than the parents actually because the parents are dysfunctional and this is about motherhood and the loss of identity and yet retaining identity she's literally courting a little superhero in a suit and a cereal bowl how
+Piece was important to me because in the in the in the frame around the edge the stories pulled apart and that's literally the story that's outside the story inside in the brown area is very rigid and straight and that's the internal voice of this particular character the theme is the fear of saying yes to love so all this is going on side but this is fear holding this character like this I also in this story put interior stories so you can read it by color so if you chose the pink text it would read to mark its passage only the tiniest of flake drifts in december and you'd have these other little stories inside the story so I'm playing again with pushing the story apart this is ella jean she's about teenage love being wiser than the parents actually because the parents are dysfunctional and this is about motherhood and the loss of identity and yet retaining identity she's literally courting a little superhero in a suit and a cereal bowl how
 
 ## Roz Dimon [36:52](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2212s)
 
@@ -365,7 +365,7 @@ Large is this they
 
 ## Karen LaFleur [36:54](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2214s)
 
-Were running um probably 22 by 28 and I would sell these in the gallery constantly and they're all digitally created on photoshop digitally created yes um now we are at 10 of
+Were running probably 22 by 28 and I would sell these in the gallery constantly and they're all digitally created on photoshop digitally created yes now we are at 10 of
 
 ## Roz Dimon [37:10](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2230s)
 
@@ -373,7 +373,7 @@ Three I don't mean to hurry us but I want you to be thinking about we definitely
 
 ## Karen LaFleur [37:21](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2241s)
 
-So how much more time do you think we have ross because I think I'll I think maybe 15 minutes let's unshare the screen because everybody's going to be able to see what we're doing next so I'm going to put this on the screen so I'm going to put this on the screen so I'm going to put this on the screen here we go um um um!!!!
+So how much more time do you think we have ross because I think I'll I think maybe 15 minutes let's unshare the screen because everybody's going to be able to see what we're doing next so I'm going to put this on the screen so I'm going to put this on the screen so I'm going to put this on the screen here we go!!!!
 
 Yeah okay so pull it forward a whole bunch of time and I'm still writing and I'm still doing text and image and I end up back on the island and now where is my muse and my muse becomes the ocean that I started with so I start a series called a diary of a tidal pool and I began to realize the story could be pulled apart just visually and abstractly.
 
@@ -381,7 +381,7 @@ So I would visit this title pool every now and then and I would get these differ
 
 ## Roz Dimon [39:16](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2356s)
 
-Now are these multi-layered or do you just do one one layer or how do you work your process? Hundreds and hundreds of layers on Photoshop. It has a real... Something interesting about this because it really speaks to the medium you're working with a lot. Yes.
+Now are these multi-layered or do you just do one layer or how do you work your process? Hundreds and hundreds of layers on Photoshop. It has a real... Something interesting about this because it really speaks to the medium you're working with a lot. Yes.
 
 ## Karen LaFleur [39:34](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2374s)
 
@@ -517,19 +517,19 @@ Really happy to be in the group. Oh yes. It has been quite an experience. I agre
 
 ## Karen LaFleur [47:44](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2864s)
 
-Always done it and we'll always do it you know even if we only have a stick and sand we'll we'll do something but um I do see it going more digital and I do see it opening up uh huge horizons uh for for digital artists coming forward um especially with the younger generations that are so in tune with the machine I mean they're doing stuff that's kind of like really I agree
+Always done it and we'll always do it you know even if we only have a stick and sand we'll do something but I do see it going more digital and I do see it opening up huge horizons for digital artists coming forward especially with the younger generations that are so in tune with the machine I mean they're doing stuff that's kind of like really I agree
 
 ## Roz Dimon [48:11](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2891s)
 
-I agree I I totally agree it's it's it's fascinating to watch and it's it's um I I do think we also have to tie to our history to to give a real sort of resonance to what we come from but at the same time it's you know it's it's like any revolution um it's it's it's gonna change the financial way we do art it changes the way we collaborate with art I mean look at us where we we talk on a salon with third-generation artists of color we talk about how they've changed what they've done over the other artists every two weeks and we may have more going on with them than the artists in our own neighborhood so you know the metaverse has arrived and um it's but it's I love what you just said because it's still it's still all about art and emotions and and sharing and connecting with others absolutely
+I agree I totally agree it's fascinating to watch and it's I do think we also have to tie to our history to give a real sort of resonance to what we come from but at the same time it's you know it's like any revolution it's gonna change the financial way we do art it changes the way we collaborate with art I mean look at us where we talk on a salon with third-generation artists of color we talk about how they've changed what they've done over the other artists every two weeks and we may have more going on with them than the artists in our own neighborhood so you know the metaverse has arrived and it's but it's I love what you just said because it's still it's still all about art and emotions and sharing and connecting with others absolutely
 
 ## Karen LaFleur [48:55](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2935s)
 
-So I think that human need is is driving the technology to find itself you know the community around it I
+So I think that human need is driving the technology to find itself you know the community around it I
 
 ## Roz Dimon [49:04](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2944s)
 
-Agree well listen uh this has been wonderful and uh I'll see you at the next salon perfect
+Agree well listen this has been wonderful and I'll see you at the next salon perfect
 
 ## Unattributed [49:12](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2952s)
 

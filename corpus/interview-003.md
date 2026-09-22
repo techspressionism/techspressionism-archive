@@ -51,9 +51,9 @@ Oh wow.
 
 ## Roz Dimon [03:47](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=227s)
 
-Let this get out in the universe. But they called me Leonardo to TT because I was. They. I didn't talk much. I was so shy but I drew a lot and wow. And so other people knew I guess I was an artist, but I don't think I really knew the meaning of being it's a great question of what what it meant to really be an artist I mean just you could I could draw, I really could draw. Um, and, and and I had a real connection between my up here and my hand always. But, uh, I didn't really know what it meant to draw. Until. I landed in a class at the Lamar dot School of Art, and I can talk about that a minute before we open up this PowerPoint but I had an instructor who put in it was a really great school Mar dot it was wonderful very rigorous. I also studied in Gortona Italy while I was with Lamar dot School of Art, but the day that I started my drawing class and he put my drawing along with others up on the wall and he went, and he had us all go out and draw something in the driveway of the school like I think there was a motorcycle park there and he said now, he said, I'm going to draw a motorcycle park.
+Let this get out in the universe. But they called me Leonardo to TT because I was. They. I didn't talk much. I was so shy but I drew a lot and wow. And so other people knew I guess I was an artist, but I don't think I really knew the meaning of being it's a great question of what it meant to really be an artist I mean just you could I could draw, I really could draw. And, and I had a real connection between my up here and my hand always. But, I didn't really know what it meant to draw. Until. I landed in a class at the Lamar dot School of Art, and I can talk about that a minute before we open up this PowerPoint but I had an instructor who put in it was a really great school Mar dot it was wonderful very rigorous. I also studied in Gortona Italy while I was with Lamar dot School of Art, but the day that I started my drawing class and he put my drawing along with others up on the wall and he went, and he had us all go out and draw something in the driveway of the school like I think there was a motorcycle park there and he said now, he said, I'm going to draw a motorcycle park.
 
-And I said, No, this person can really draw. I mean look she can draw but but what is she saying, like what, what, what does it matter if she can draw a perfect motorcycle or she knows how you know what is she saying what is she touching what is she feeling what is she thinking and you know what, that was it. Wow, this history. That's when I went, Oh, this is what it means to be an artist you know I'm going to share my world through this language, and boy, I did that, that's what I know.
+And I said, No, this person can really draw. I mean look she can draw but what is she saying, like what, what, what does it matter if she can draw a perfect motorcycle or she knows how you know what is she saying what is she touching what is she feeling what is she thinking and you know what, that was it. Wow, this history. That's when I went, Oh, this is what it means to be an artist you know I'm going to share my world through this language, and boy, I did that, that's what I know.
 
 ## Michael Pierre Price [05:21](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=321s)
 
@@ -77,9 +77,9 @@ So, anyway, go ahead and get your present presentation up on the screen here.
 
 ## Roz Dimon [05:43](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=343s)
 
-You can see I'm very reticent to talk now, you know I came out of the box and my mother said she's never going to go back in. I think that's probably true. Anyway, I'm kind of jumping in here. Oh I knew the phone would ring. All these devices. Goodbye. Um, anyway, I'm starting here I have the screen up. When I got out of the University of Georgia.
+You can see I'm very reticent to talk now, you know I came out of the box and my mother said she's never going to go back in. I think that's probably true. Anyway, I'm kind of jumping in here. Oh I knew the phone would ring. All these devices. Goodbye. Anyway, I'm starting here I have the screen up. When I got out of the University of Georgia.
 
-Um, oh I did want to say, Michael I'm kind of going backward but I'm looking at our questions. Um, you know, biggest influence. Coming up as New York City but I did want to say before I get into that, that I think I may have said that both my grandmothers were really talented at art and it all glommed on right on to me. And one of five kids and so that was always there. Um, what we're looking at right now is a portrait of my mother after I graduated from the Lamar Doug School of Art I'm still in Atlanta, Georgia, and I'm just as I look back now it's so interesting to me that technology was there from my very first show. I'm still in Atlanta, Georgia, and I'm still as I look back now it's so interesting to me that technology was there from my very first show. Which I did these portraits of people I painted portraits.
+Oh I did want to say, Michael I'm kind of going backward but I'm looking at our questions. You know, biggest influence. Coming up as New York City but I did want to say before I get into that, that I think I may have said that both my grandmothers were really talented at art and it all glommed on right on to me. And one of five kids and so that was always there. What we're looking at right now is a portrait of my mother after I graduated from the Lamar Doug School of Art I'm still in Atlanta, Georgia, and I'm just as I look back now it's so interesting to me that technology was there from my very first show. I'm still in Atlanta, Georgia, and I'm still as I look back now it's so interesting to me that technology was there from my very first show. Which I did these portraits of people I painted portraits.
 
 Which I did these portraits of people I painted portraits. And this is about 36 by 24, it's so this is of my mother, any Mitchell diamond di mo n by the way. And this
 
@@ -89,7 +89,7 @@ Is about 36 by 24, it's so this is of my mother, any Mitchell diamond di mo n by
 
 ## Roz Dimon [07:04](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=424s)
 
-Um, well people always think it's diamond, like a jewel. Um,
+Well people always think it's diamond, like a jewel.,
 
 ## Unattributed [07:08](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=428s)
 
@@ -353,15 +353,15 @@ Right.
 
 None. I mean, a lot of things people say, well, I don't see any of your links to things. Well, there were no links. Yes. I mean, there were starting to be. Here's another piece called an information woman where a woman is getting bombarded by her thoughts. She's absolutely drowning. I'm going kind of fast here. I'm going to play this for Techspressionism, but I'm just going to go in it just a second and just show you that.
 
-Woman's face being drawn over time. And you go further into the piece and it builds. And she's. And it goes on to the rest of the piece and the beach comes out of her elbow. And and I'm going to get more into that later because that's a five minute piece and we just need to move along. This was an invitation in 2000 to Flash Bible, which was kind of a spiritual and technological view of all of our wonderful artifacts from Ajax to Coca-Cola. And I sent out this invitation and I am right now also rolling this up. This was also done in Macromedia director and Flash Shockwave, which isn't supported anymore. So I'm now going back to old emulators with John Mark again. I mean, we've been working together. A couple of years.
+Woman's face being drawn over time. And you go further into the piece and it builds. And she's. And it goes on to the rest of the piece and the beach comes out of her elbow. And I'm going to get more into that later because that's a five minute piece and we just need to move along. This was an invitation in 2000 to Flash Bible, which was kind of a spiritual and technological view of all of our wonderful artifacts from Ajax to Coca-Cola. And I sent out this invitation and I am right now also rolling this up. This was also done in Macromedia director and Flash Shockwave, which isn't supported anymore. So I'm now going back to old emulators with John Mark again. I mean, we've been working together. A couple of years.
 
-It's like finding a treasure in a treasure hunt. Like I go, you know, you you put this thing in your CD and it would play the invitation. It was very funny. And we had these pink couches where people would sit around and look at animations on the ceiling. Short little animations. I don't want to bore people. How do you think we're doing here?
+It's like finding a treasure in a treasure hunt. Like I go, you know, you put this thing in your CD and it would play the invitation. It was very funny. And we had these pink couches where people would sit around and look at animations on the ceiling. Short little animations. I don't want to bore people. How do you think we're doing here?
 
 We're making room.
 
 ## Michael Pierre Price [37:21](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2241s)
 
-We're we're we're we probably should be. Continuing on with a couple of the other questions, but I think you're sort of naturally getting there.
+We're we probably should be. Continuing on with a couple of the other questions, but I think you're sort of naturally getting there.
 
 ## Roz Dimon [37:34](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2254s)
 
@@ -379,11 +379,11 @@ Exactly.
 
 Yeah. And then my gallery closed. And, you know, I'm so lucky to be alive. So I don't mean to be playing my violin, but it was a terrible time. It was a bad, terrible time for the country. And I was really lost. And I did. I just was painting dumping containers for a few years out here in Shelter Island, not knowing what to do. Because we had to let go of our apartment. And there was just nothing was going on in downtown Manhattan for quite a while that could afford me. And I went to I saw the show at the Metropolitan about icons. And it said icons were a source of comfort to a nation besieged. And I was like, whoa. I mean, I couldn't think of doing an art show. I thought, why to show my wizardry? I can do web design. I can do paintings. I can you know, I just wasn't I wasn't I just couldn't do.
 
-I just couldn't do art for the first time. And I went and I did this icon of the Theotokos, which is the Mary of bright sorrow. And it's layer upon layer upon layer upon layer of a prayer that you do for a week. I was the only professional artist in the class. Anybody can go take an icon painting class. It's it's prayer. And it's it's it's as far from Western expressionism as anything you could ever participate in. It's reverence. It's obedience to another icon. And you're copying. I mean, my rabboni, my rabbi, he kept coming by and going, Ms. Donnan, please put a quick move in your arm like you need to be diligent. I mean, I want to bust out. But it was a wonderful intellectual as well as well as religious exercise.
+I just couldn't do art for the first time. And I went and I did this icon of the Theotokos, which is the Mary of bright sorrow. And it's layer upon layer upon layer upon layer of a prayer that you do for a week. I was the only professional artist in the class. Anybody can go take an icon painting class. It's prayer. And it's as far from Western expressionism as anything you could ever participate in. It's reverence. It's obedience to another icon. And you're copying. I mean, my rabboni, my rabbi, he kept coming by and going, Ms. Donnan, please put a quick move in your arm like you need to be diligent. I mean, I want to bust out. But it was a wonderful intellectual as well as well as religious exercise.
 
-And in every layer means something and has symbolism. And and icons are known for opening a window into the world of the painting itself for those who view it and have it in their space. And I have one in my space and they do. They have something about them. And I came back and I out of me exploded this piece that I call Pale Male. And it's it's about the hawk, Pale Male, who found his home in New York City when his home was lost. And it's also about Christ drained of blood. And it's about finding hope. It compares Jesus to Nike and all the places that I mean, I was in the richest working in the most wealthy enclave in the world, the World Trade Center. And I could play a little of it or we can just keep going forward. But this is an immersive painting. This is my first what I call my diamond scapes.
+And in every layer means something and has symbolism. And icons are known for opening a window into the world of the painting itself for those who view it and have it in their space. And I have one in my space and they do. They have something about them. And I came back and I out of me exploded this piece that I call Pale Male. And it's about the hawk, Pale Male, who found his home in New York City when his home was lost. And it's also about Christ drained of blood. And it's about finding hope. It compares Jesus to Nike and all the places that I mean, I was in the richest working in the most wealthy enclave in the world, the World Trade Center. And I could play a little of it or we can just keep going forward. But this is an immersive painting. This is my first what I call my diamond scapes.
 
-And and I don't know.
+And I don't know.
 
 ## Michael Pierre Price [41:59](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2519s)
 
@@ -393,7 +393,7 @@ Why don't you play a little bit of it just so we can sort of get a flavor of wha
 
 Quick. OK, I'll go into it. And these all have sound, too. But I think I'm going to turn the sound off. You can do it over on the left. And this is all coded. And I mean, I've been doing HTML for years by then. And now I'm working with a programmer, but I really know programming or how to do it. And I'm not sure if I have it's in my bones. But this piece, you know, I was working these multi layers of Photoshop. And I thought I came back from that icon class that I can share paintings that invite people in. So you look at this piece of pale male, 48 inches by 36 lightbox on the wall and you click on the QR code and go inside the painting. So it might look like it's analog and we often use old technology to get into new. But you're really going deep inside the layers of a painting. And all of it is coming up 100 percent to you until you get to the end.
 
-And you can play it back and forth and it has an audio. And also, I feel most importantly, from the intellectual point of view, is it sources every single piece in a kind of bibliography. I mean, I feel like we're in the new Gutenberg press of imagery right now. It's images of images of images, images building to be an image. And and and pale male was done in 2005. And there's a Spanish version. And I'll go back. That's enough for people. I can share the URL later. But if you go to pale. Male a pilgrimage dot com online, you can find it.
+And you can play it back and forth and it has an audio. And also, I feel most importantly, from the intellectual point of view, is it sources every single piece in a kind of bibliography. I mean, I feel like we're in the new Gutenberg press of imagery right now. It's images of images of images, images building to be an image. And pale male was done in 2005. And there's a Spanish version. And I'll go back. That's enough for people. I can share the URL later. But if you go to pale. Male a pilgrimage dot com online, you can find it.
 
 ## Michael Pierre Price [43:28](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2608s)
 
@@ -401,7 +401,7 @@ That's awesome.
 
 ## Roz Dimon [43:29](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2609s)
 
-And, you know, there is always a kind of sweet grace that sometimes happens in your life. I mean, I really was so, so down like we've all had tragedies. But this was my biggest when everything was lost in New York, it seemed. And that was home. But this piece was seen by the 9-11 Memorial Museum, along with millions of others. Artists sent in and and they went for it and they have it and it is in their permanent collection. And I'm just you know, there's something about that that it came around. I mean, that was my home. I mean, for many from the 90s.
+And, you know, there is always a kind of sweet grace that sometimes happens in your life. I mean, I really was so, so down like we've all had tragedies. But this was my biggest when everything was lost in New York, it seemed. And that was home. But this piece was seen by the 9-11 Memorial Museum, along with millions of others. Artists sent in and they went for it and they have it and it is in their permanent collection. And I'm just you know, there's something about that it came around. I mean, that was my home. I mean, for many from the 90s.
 
 I think I showed this with shared this with expressionism. But since then, I've had several commissions for public artworks for nonprofits like the Shelter on Historical Society, where they asked me to do a piece about 700 years of history of the havens at the Havens house. And, you know, when you love the process you do and you don't I don't care if I'm painting a dog's nose. I'll get in there and do that. I'm going to do thousands of images about it from that from you know it's I'm into the idea that I'm doing an image that is made of so many images in a new language that I feel is building right now in our world.
 
@@ -431,7 +431,7 @@ Sherman shared that neighbors help one another.
 
 I'm going to turn the sound off, which you can do you have rights to do. And again, the information log that tells where everything is. Plus they have a crossword puzzle they're selling and on the crossword puzzle they have a link to the painting, because this painting man everybody like they hate me after they get it they go this puzzle is impossible.
 
-Because I mean even that look at that one little couple of inches of this piece it's it's very hard to figure out what you're doing here. You can see the sheep and the children's toys and the roof and the I mean tons of things at once.
+Because I mean even that look at that one little couple of inches of this piece it's very hard to figure out what you're doing here. You can see the sheep and the children's toys and the roof and the I mean tons of things at once.
 
 ## Unattributed [46:43](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2803s)
 
@@ -463,13 +463,13 @@ Yeah.
 
 ## Roz Dimon [47:41](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2861s)
 
-Oh, she just loved it. So that made she was great. Um, so I'm kind of rolling along here. This is process. Uh, how I evolved artistically and technically it's all about paintings, which I call the diamond scapes and I do call them that, you know, I worked 30 years to make them something like a diamond scape and seems like a good name to me. I don't want it to distract from people doing it. But if someone does something I would like I like to always do it. I always pay homage. I think it's very important if we're going to be a respected industry and you know when I use anything in my diamonds scapes. It's not mine. I might I always call or, you know, I call me them sometime and say, oh, I need this piece of, you know, the Battle of Bunker Hill. I'm doing this interactive thing and they say, oh, great.
+Oh, she just loved it. So that made she was great. So I'm kind of rolling along here. This is process. How I evolved artistically and technically it's all about paintings, which I call the diamond scapes and I do call them that, you know, I worked 30 years to make them something like a diamond scape and seems like a good name to me. I don't want it to distract from people doing it. But if someone does something I would like I like to always do it. I always pay homage. I think it's very important if we're going to be a respected industry and you know when I use anything in my diamonds scapes. It's not mine. I might I always call or, you know, I call me them sometime and say, oh, I need this piece of, you know, the Battle of Bunker Hill. I'm doing this interactive thing and they say, oh, great.
 
 And I saw a link to you and your museum. Always get credit. So if someone does a diamond scape. I'd love it. They just said, you know, I don't think women should be passed off in history. And so that's when I do speak out. That gets you in a little trouble, but why not. So anyway, I'm also while I'm doing these pieces that I call novels, because they take about a year to make the diamond scapes. They're long Or three months at the full time every minute, but I also started drawing guns. Our nation was being torn apart by guns and I always loved drawing and painting that still the soul of me. And this is a Kalashnikov Here's another one of my guns and going in close up as I did before you can see the layers and these are big. I mean, these are sometimes Two gigs. The diamond scapes are two gigs.
 
 These aren't that big there, but they're, you know, close. Some of them are close to a gig. And this is just the interior one little couple of inches of the Kalashnikov So it's like little paintings inside of paintings inside of paintings. I mean, you look at it. It looks like a drawing, but it's you can't make these kind of marks with a pencil. Now, Even though I love pencils, too. But, you know, I'm drawing with leaves and stars and it has an edge of the digital media.
 
-I'm going to do this a second. This is a little recording of me and my process. I'm looking at a collection call on one screen and I'm painting it on the other. I live in this box, you know, it's it's become like a home so I work pretty fast. This is the most recent they add me if you want, you know, it says Like, what are you doing now. I just the first time I ever Michael this is My I'm curious how you respond to this, but this is the first time I ever loaded my paintbrush with other people's work.
+I'm going to do this a second. This is a little recording of me and my process. I'm looking at a collection call on one screen and I'm painting it on the other. I live in this box, you know, it's become like a home so I work pretty fast. This is the most recent they add me if you want, you know, it says Like, what are you doing now. I just the first time I ever Michael this is My I'm curious how you respond to this, but this is the first time I ever loaded my paintbrush with other people's work.
 
 ## Unattributed [50:13](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3013s)
 
@@ -485,7 +485,7 @@ That is so cool and made this piece.
 
 ## Roz Dimon [51:00](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3060s)
 
-Thank you. I mean, some people see it on my website go, God, you know, I don't know. Ross's art is really changed, you know, You don't hear this. You don't know really what it's about. But, you know, That'd be fun to have a surprise. You go inside it and it's all the their, their pictures and their voices and and all their stuff and they're so excited to be part of me. I'm helping them raise funds by selling posters and you know artists have real power in this medium.
+Thank you. I mean, some people see it on my website go, God, you know, I don't know. Ross's art is really changed, you know, You don't hear this. You don't know really what it's about. But, you know, That'd be fun to have a surprise. You go inside it and it's all the their, their pictures and their voices and all their stuff and they're so excited to be part of me. I'm helping them raise funds by selling posters and you know artists have real power in this medium.
 
 ## Unattributed [51:30](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3090s)
 
@@ -493,7 +493,7 @@ Yes.
 
 ## Roz Dimon [51:31](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3091s)
 
-You know, and they they supported me and boy I'm supporting them. I'm People love this little poster. And they go, Ross, this doesn't look like your style. But, you know, intellectually again thought conceptual is part of it and exactly.
+You know, and they supported me and boy I'm supporting them. I'm People love this little poster. And they go, Ross, this doesn't look like your style. But, you know, intellectually again thought conceptual is part of it and exactly.
 
 ## Michael Pierre Price [51:45](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3105s)
 
@@ -509,11 +509,11 @@ This is like you being a composer. You know, your aesthetic as the as the compos
 
 ## Roz Dimon [51:59](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3119s)
 
-Yeah, and I had to get screenshots off of zoom and then their voices. There's voices in this of like, oh, here's my bunny rabbit. I mean, we had so many So much fun online and these kids really their drawings. The next generation boy art is a big part of their vocabulary. You know, they all have an iPhone with millions of images. So they did some wonderful work and I just put it together and then I salute every single one of the kids. I didn't know if you saw in the credits, but they get lots of credits and And here's just done a mini I'm kind of going to the finish line here and then we can keep chatting. But here's a recent piece. And when you go close up into it. You can see the kind of layering going on in it. Now, I haven't made it a dime. Enscape yet, but it's after reading a book by Haruki Murakami and It's just an amazing story about murder and lake and the space shuttle.
+Yeah, and I had to get screenshots off of zoom and then their voices. There's voices in this of like, oh, here's my bunny rabbit. I mean, we had so many So much fun online and these kids really their drawings. The next generation boy art is a big part of their vocabulary. You know, they all have an iPhone with millions of images. So they did some wonderful work and I just put it together and then I salute every single one of the kids. I didn't know if you saw in the credits, but they get lots of credits and here's just done a mini I'm kind of going to the finish line here and then we can keep chatting. But here's a recent piece. And when you go close up into it. You can see the kind of layering going on in it. Now, I haven't made it a dime. Enscape yet, but it's after reading a book by Haruki Murakami and It's just an amazing story about murder and lake and the space shuttle.
 
 I mean, the, the, the Sputnik where they took a dog into space and there's tons of layering in here and you know, I like in this case I buy these little hearts because you can buy them and then I credit them and say where I bought them in the in the info in the Footnotes and oh yeah I get interrupted all the time by things happening. But I think it's really interesting to see how much of that is happening in our country. I respond and latest series of digital drawings and pin and ink and also pencil of Lincoln.
 
-Because our world's being torn apart. I saw his face and as angry as I am lately I I like to see both sides of things like even the guns there. They're there both sides of guns are good guns are evil. It's got a spiritual aspect everything on my work does a little bit Yeah. And attention and here's a picture of John Mark and I'm working on our, our latest piece where we're resurrecting the world's greatest bar chart.
+Because our world's being torn apart. I saw his face and as angry as I am lately I like to see both sides of things like even the guns there. They're there both sides of guns are good guns are evil. It's got a spiritual aspect everything on my work does a little bit Yeah. And attention and here's a picture of John Mark and I'm working on our, our latest piece where we're resurrecting the world's greatest bar chart.
 
 ## Michael Pierre Price [53:40](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3220s)
 
@@ -521,7 +521,7 @@ Okay, cool.
 
 ## Roz Dimon [53:41](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3221s)
 
-And code going on is just it's intense. It's so intense and art story, which is something I coded in 1998 and it goes through all the years and it's it's a little bit crazy. Still, I'm still trying to make it work a little better. But you can go to the years and see stories you can see art, you can see different. There are lots of different ways to navigate. It's It's a new kind of way to navigate a blog. And I'm just going to end with, you know, I went to my doctor the other day and just get an EKG see I was doing. And I said, Oh, can I take that he said, Sure.
+And code going on is just it's intense. It's so intense and art story, which is something I coded in 1998 and it goes through all the years and it's a little bit crazy. Still, I'm still trying to make it work a little better. But you can go to the years and see stories you can see art, you can see different. There are lots of different ways to navigate. It's a new kind of way to navigate a blog. And I'm just going to end with, you know, I went to my doctor the other day and just get an EKG see I was doing. And I said, Oh, can I take that he said, Sure.
 
 So I said, I need it for my next portrait, which I think will look something like this. And I guess I can end on that. But This is what my portrait. I mean, this is where we are, you know,
 
@@ -543,13 +543,13 @@ And that's kind of what I'm doing in the diamond scale. You know, Yeah, yeah, ye
 
 ## Michael Pierre Price [54:35](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3275s)
 
-If we Kind of put a bow on on on all of this and sort of bring this to a nice what you would feel resolution. What about expressionism has drawn you into this. And where do you where do you see Things going From here and I don't want to spend too much time because we We run. I don't know if we're running too long, but I just am curious because you have such a good historical perspective on seeing both the growth and evolution of technology where you where you're hopeful or where you think it might be going and what role expressionism and you using that You know, In in in you know sort of self identifying as a as a technology based artists in some respects.
+If we Kind of put a bow on all of this and sort of bring this to a nice what you would feel resolution. What about expressionism has drawn you into this. And where do you where do you see Things going From here and I don't want to spend too much time because we run. I don't know if we're running too long, but I just am curious because you have such a good historical perspective on seeing both the growth and evolution of technology where you where you're hopeful or where you think it might be going and what role expressionism and you using that You know, In you know sort of self identifying as a as a technology based artists in some respects.
 
 Where were you raised this all headed
 
 ## Roz Dimon [55:44](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=3344s)
 
-Um, yeah, I you know I I know Collins work we showed a few times together. I respected and when I saw he was doing this group I got kind of curious but I tiptoed in, you know, but I found myself getting more and more interested. I'll tell you the truth. I love the community of it. You know my work is more than just tech and expressionism. I mean, I think it's cultural and it's, it's not that, that others aren't, but it, but what I like is that it is expressive, is about expression and it's, it's about a visual language and, and the community. And I love learning. I've really, I mean, in the late nineties, picture element, we were meeting, you know, at each other's homes and there was a community building and, and the dot-com people who didn't live through that don't realize how much it, it really did break a lot.
+Yeah, I you know I know Collins work we showed a few times together. I respected and when I saw he was doing this group I got kind of curious but I tiptoed in, you know, but I found myself getting more and more interested. I'll tell you the truth. I love the community of it. You know my work is more than just tech and expressionism. I mean, I think it's cultural and it's, it's not that, that others aren't, but it, but what I like is that it is expressive, is about expression and it's, it's about a visual language and, and the community. And I love learning. I've really, I mean, in the late nineties, picture element, we were meeting, you know, at each other's homes and there was a community building and, and the dot-com people who didn't live through that don't realize how much it, it really did break a lot.
 
 I felt at least in New York city and out here in Long Island, I love, I don't mind working alone because I'm always online with people, even before, you know, COVID. And I have a little group I work with, I do, and I have meetings with, but I, I was kind of, I like learning from people and I like seeing what young people are doing.
 

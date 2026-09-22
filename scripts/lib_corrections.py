@@ -234,11 +234,81 @@ def spell_out_emails(text):
     return _EMAIL.sub(lambda m: f"{m.group(1)} at {m.group(2).lower()} dot {m.group(3).lower()}", text)
 
 
+# ---- fillers and stutters: "clean verbatim" (project_archive_transcript_style: uh/um out, like/you know stay) ----
+# Colin, 2026-09-22: make every transcript read naturally aloud, with no grammatical/capitalization/spelling
+# errors, without touching name handling. These two passes only ever remove/collapse tokens from a small,
+# hand-verified set (never a name, never an unrecognized word) -- anything outside that set is left alone for
+# human review (see scripts/quality-report.py's filler/stutter section) rather than guessed at automatically.
+
+_FILLER = r"(?<!-)(?:um|uh)(?!-)"   # never "uh-huh"/"uh-uh"/"um-hmm" -- real words, not disfluencies
+
+
+def _cap_first(s):
+    for i, ch in enumerate(s):
+        if ch.isalpha():
+            return s[:i] + ch.upper() + s[i + 1:]
+        if not ch.isspace():
+            break
+    return s
+
+
+def remove_fillers(text):
+    """Strip standalone "uh"/"um" disfluencies. Cleans up the punctuation/spacing left behind and
+    re-capitalizes the next word when the filler removed was the start of a sentence."""
+    def fix_par(par):
+        def sent_repl(m):
+            return m.group("lead") + _cap_first(m.group("rest"))
+        par = re.sub(rf"(?P<lead>^|[.!?\u2026]\s+)\b{_FILLER}\b[,.]?\s+(?P<rest>\S)", sent_repl, par, flags=re.IGNORECASE)
+        par = re.sub(rf",\s*\b{_FILLER}\b\s*,", ",", par, flags=re.IGNORECASE)          # ", um," mid-sentence
+        par = re.sub(rf",\s*\b{_FILLER}\b(?=\s)", ",", par, flags=re.IGNORECASE)        # ", um" (no closing comma)
+        par = re.sub(rf"\b{_FILLER}\b\s*,\s*", ", ", par, flags=re.IGNORECASE)          # "um, " (no leading comma)
+        par = re.sub(rf"\s*\b{_FILLER}\b\s*", " ", par, flags=re.IGNORECASE)            # whatever's left, bare
+        par = re.sub(r"[ \t]{2,}", " ", par)
+        par = re.sub(r"[ \t]+([.!?,;:])", r"\1", par)
+        return par.strip()
+    return "\n\n".join(fix_par(p) for p in text.split("\n\n"))
+
+
+# common function/filler words and contractions hand-verified (2026-09-22, ~750 real instances read in
+# context across the corpus) to be a stutter every time they repeat back to back in this transcript set --
+# e.g. "and and", "is is", "so so", "really really", "yeah yeah yeah", "it's it's", "how how". A word NOT in
+# this set is never touched by collapse_stutters(), even if repeated -- that includes anything that could be
+# a name ("Ann Ann") or a real repeated phrase (protected explicitly below): flagged for a human to look at
+# instead (review/repeated-word-candidates.csv), never guessed at.
+SAFE_STUTTER_WORDS = frozenset("""
+and the that is a to in of it this you my for so with but on if as they your when just these some he
+are from there we or very really yeah no like what an be was were will would can could has have had
+do does did not who which at by i know think going want kind she him them its our us out about all been get got
+other right any his because then okay how where their those one different maybe yes more back
+it's that's i'm there's we're they're you're i'll i've he's she's who's let's what's here's
+won't don't didn't doesn't isn't aren't wasn't weren't can't couldn't wouldn't shouldn't
+haven't hasn't hadn't that'll you'll we'll they'll i'd you'd he'd she'd we'd they'd
+""".split())
+
+_STUTTER_PROTECTED_PAIRS = {("wild", "wild"), ("bye", "bye")}   # "the wild wild west", "bye bye" -- idioms, not disfluencies
+
+
+def collapse_stutters(text):
+    """Collapse an immediately-repeated word ("and and", "so so so") to one occurrence, but only for a word in
+    SAFE_STUTTER_WORDS -- never a name or any other word outside that hand-verified list."""
+    def repl(m):
+        first = m.group(1)
+        low = first.lower()
+        if low not in SAFE_STUTTER_WORDS:
+            return m.group(0)
+        rest = re.findall(r"[A-Za-z']+", m.group(0))[1:]
+        if any((low, w.lower()) in _STUTTER_PROTECTED_PAIRS for w in rest):
+            return m.group(0)
+        return first
+    return re.sub(r"\b([A-Za-z']+)\b(?:[ \t]+\1\b)+", repl, text, flags=re.IGNORECASE)
+
+
 def apply_style_rules(text):
     text = spell_out_emails(fix_techspressionism(text))
     text = re.sub(r"(?:(?<=\s)|^)\.(?:\s+\.){2,}(?=\s|$)", "\u2026", text)          # a run of stray periods (Whisper in silence) becomes one ellipsis
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
+    text = collapse_stutters(remove_fillers(text))
     return text
 
 

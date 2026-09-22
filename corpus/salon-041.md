@@ -269,23 +269,23 @@ No.
 
 ## Ann Shapiro [15:22](https://www.youtube.com/watch?v=XUBL7L41hjA&t=922s)
 
-Why? That's okay though. That's that looks good. Is that all right? Yeah. The, um, I, the way I showed these originally, I think I have, um, what I wanted to say of the Florida before I move. I didn't know quite how to, uh, deal with the Florida, which everybody knows is going to fall under the, uh, or drown. You know, I think we could call it drowning Florida. And in some cases, politically, the sooner, the better. Um, but, uh, Uh, anyway, so I did it. I, what I found on doing the research was there was so many different maps of what the kind of problems that were going on in, in, uh, Florida. So that's where I hit. That's where I hit Alaska.
+Why? That's okay though. That's that looks good. Is that all right? Yeah. The, I, the way I showed these originally, I think I have, what I wanted to say of the Florida before I move. I didn't know quite how to, deal with the Florida, which everybody knows is going to fall under the, or drown. You know, I think we could call it drowning Florida. And in some cases, politically, the sooner, the better. But,, anyway, so I did it. I, what I found on doing the research was there was so many different maps of what the kind of problems that were going on in, in, Florida. So that's where I hit. That's where I hit Alaska.
 
-This is still going on in New Talk shoreline. There it's eroding. They're, they're still having problems moving everybody. Um, people are moving back from the, from the shore. Uh, this is started in 54. Um, I did this piece in 08 and it's still, and this is a continuous, I looked it up the other day. It continues to be an on an ongoing problem. Um, you know, what I was interested in initially was showing the country or the state and showing the couch, trying to convey the culture in hopes that people would be able to say, oh, might that change? I care, not care. I don't know. I don't know if it made a bit of difference. Uh, I'm a native of New Hampshire, so I had a, do a piece about New Hampshire. Actually did more than one. And when I first started, I said, this is kind of stupid on my part.
+This is still going on in New Talk shoreline. There it's eroding. They're, they're still having problems moving everybody. People are moving back from the, from the shore. This is started in 54. I did this piece in 08 and it's still, and this is a continuous, I looked it up the other day. It continues to be an on an ongoing problem. You know, what I was interested in initially was showing the country or the state and showing the couch, trying to convey the culture in hopes that people would be able to say, oh, might that change? I care, not care. I don't know. I don't know if it made a bit of difference. I'm a native of New Hampshire, so I had a, do a piece about New Hampshire. Actually did more than one. And when I first started, I said, this is kind of stupid on my part.
 
-Uh, New Hampshire has the smallest coastline of any of the States in the U S it's 18 miles. And I thought, oh, it's not going to affect New Hampshire at all or very little. And even this piece, which was done. In 2010, um, already the water was rising and 10 miles inland. The water was, was flooding because it was coming up from underneath. This talks about the ski areas that are closing the ice, how early the ice was breaking and when a Pesaki.
+New Hampshire has the smallest coastline of any of the States in the U S it's 18 miles. And I thought, oh, it's not going to affect New Hampshire at all or very little. And even this piece, which was done. In 2010, already the water was rising and 10 miles inland. The water was, was flooding because it was coming up from underneath. This talks about the ski areas that are closing the ice, how early the ice was breaking and when a Pesaki.
 
-Oh, I want to say one other thing. These lines, can you see the lines, the green lines? Um, I broke those up. I initially showed the pieces by breaking them up into six by each one is six by eight inches. And I enlarged them to 7.5 by 10 and centered them on eight and a half by 11 inch paper. And that's how in framed each one. And that's how I showed it.
+Oh, I want to say one other thing. These lines, can you see the lines, the green lines? I broke those up. I initially showed the pieces by breaking them up into six by each one is six by eight inches. And I enlarged them to 7.5 by 10 and centered them on eight and a half by 11 inch paper. And that's how in framed each one. And that's how I showed it.
 
 Another New Hampshire piece. This is my. Big Vietnam, Vietnamese piece.
 
 ## Tommy Mintz [18:31](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1111s)
 
-Uh, And I think we're still seeing a different piece. Nothing's changed. You're not seeing the, uh, I'm seeing, I'm seeing New Hampshire townhouse. Oh, no, I am. Thank you. Sorry.
+And I think we're still seeing a different piece. Nothing's changed. You're not seeing the, I'm seeing, I'm seeing New Hampshire townhouse. Oh, no, I am. Thank you. Sorry.
 
 ## Ann Shapiro [18:41](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1121s)
 
-Yeah. Well, you know, I could close these. I wasn't realizing, um, is that bad? Ah, I just,
+Yeah. Well, you know, I could close these. I wasn't realizing, is that bad? Ah, I just,
 
 ## Davonte Bradley [18:52](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1132s)
 
@@ -317,9 +317,9 @@ Yeah.
 
 ## Ann Shapiro [19:37](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1177s)
 
-Thank you. Sorry about that. I get, well, you can, my problem is I do have two screens, but I can't figure out why I have, I have both the gallery and the single shot show up on my, and I haven't been able to get out of it. This is, um, I guess I should focus on that. I did one on erosion because it gave me the whole state, the whole country. I'm not nervous or anything. And especially the problems with Lake Superior as, as the erosion problem, which I hadn't even thought about at the time. And, um, the, uh, I, I was fascinated. This was, uh, my adaptation of a, of a piece that was done by a guy. Here comes my cat. By a guy named Hogue during the depression in the 1930s.
+Thank you. Sorry about that. I get, well, you can, my problem is I do have two screens, but I can't figure out why I have, I have both the gallery and the single shot show up on my, and I haven't been able to get out of it. This is, I guess I should focus on that. I did one on erosion because it gave me the whole state, the whole country. I'm not nervous or anything. And especially the problems with Lake Superior as, as the erosion problem, which I hadn't even thought about at the time. And, the, I, I was fascinated. This was, my adaptation of a, of a piece that was done by a guy. Here comes my cat. By a guy named Hogue during the depression in the 1930s.
 
-Uh, I was at an opening at a hell at the Hella gallery at the Hebrew union college and a rumor came around that, um, they were going to have a traveling map show. And so I immediately had a thought of how I would change my work because I knew they wouldn't hang. Something that took. Two people all day to hang. And, um, and it came into my mind. I would do approximately three pieces. Uh, and this is how I redid the Vietnam. Now it's big at non-peace and major, the May Kong Delta. And with one meter rise in sea level practically takes over the entire area.
+I was at an opening at a hell at the Hella gallery at the Hebrew union college and a rumor came around that, they were going to have a traveling map show. And so I immediately had a thought of how I would change my work because I knew they wouldn't hang. Something that took. Two people all day to hang. And, and it came into my mind. I would do approximately three pieces. And this is how I redid the Vietnam. Now it's big at non-peace and major, the May Kong Delta. And with one meter rise in sea level practically takes over the entire area.
 
 ## Davonte Bradley [21:19](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1279s)
 
@@ -327,15 +327,15 @@ And one second, Patrick actually had a question about what's going on with Lake 
 
 ## Patrick Lichty [21:25](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1285s)
 
-What's going on with Lake Superior and the erosion. Cause I mean, you know, we, we, we live, you know, uh, we live close to Lake Superior. You know, we're, uh, we're just down in the river about two hours from Duluth.
+What's going on with Lake Superior and the erosion. Cause I mean, you know, we, we, we live, you know, we live close to Lake Superior. You know, we're, we're just down in the river about two hours from Duluth.
 
 ## Ann Shapiro [21:37](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1297s)
 
-Well, I can't speak to the Lake Superior. I do know I've, uh, was a friend who lives near Lake Michigan and some years it's going down and some years it's flooding. Yeah. Having a lot of erosion, but it's been uneven.
+Well, I can't speak to the Lake Superior. I do know I've, was a friend who lives near Lake Michigan and some years it's going down and some years it's flooding. Yeah. Having a lot of erosion, but it's been uneven.
 
 ## Patrick Lichty [21:52](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1312s)
 
-Right. And I, and I know, and I know, I know what they wind up doing is, is that they're. There's erosion problems between Chicago and then, and then the, um, you know, going back to the, the, the landmass going back and forth between Chicago and Indiana dunes.
+Right. And I, and I know, and I know, I know what they wind up doing is, is that they're. There's erosion problems between Chicago and then, and then the, you know, going back to the, the, the landmass going back and forth between Chicago and Indiana dunes.
 
 ## Ann Shapiro [22:10](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1330s)
 
@@ -343,13 +343,13 @@ Yeah. They redid the redirected the river. Yeah. I have no, I have no answer.
 
 ## Patrick Lichty [22:19](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1339s)
 
-Yeah. Yeah. Yeah. Yeah. That was, that was strange because I was there when I lived there for about 10 years and I remember when I remember. I remember when they built it. The uh when the chicago river changed directions and everybody's going wow wow that's interesting yeah
+Yeah. Yeah. Yeah. Yeah. That was, that was strange because I was there when I lived there for about 10 years and I remember when I remember. I remember when they built it. The when the chicago river changed directions and everybody's going wow wow that's interesting yeah
 
 ## Ann Shapiro [22:36](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1356s)
 
-Yeah when I read about that I nearly it blew my mind I must say yeah I did a series of uh smaller works 18 inches by 24 inches and they did travel and uh the gallery I mean the museum did ask me to donate two of them then they had another show and this is um uh I did a puerto rico following the um hurricane the devastation of the hurricane I have very dear friends down there and I was able to speak to them a lot because they couldn't go out or go anywhere but their phone was working and um my friend said we don't know what to hope for which became the title of this piece and um it's there's uh most of this is either my own artwork my own photography um oh my I mean yeah okay yeah this is some of the things I did in changing in developing the uh puerto rico in in the uh the map until I came to came to it the philippines uh boston uh this is all my photography uh not the diagrams and not the uh where the sea level riser goes on um taken the photo taken that the lines the black lines taken from the museum of contemporary art in boston out of the uh over the harbor I pray another one spain their problem is humidity new york the floods one day the art changed um this piece when hung is 65 inches by 95 inches 65 65 by 90.
+Yeah when I read about that I nearly it blew my mind I must say yeah I did a series of smaller works 18 inches by 24 inches and they did travel and the gallery I mean the museum did ask me to donate two of them then they had another show and this is I did a puerto rico following the hurricane the devastation of the hurricane I have very dear friends down there and I was able to speak to them a lot because they couldn't go out or go anywhere but their phone was working and my friend said we don't know what to hope for which became the title of this piece and it's there's most of this is either my own artwork my own photography oh my I mean yeah okay yeah this is some of the things I did in changing in developing the puerto rico in the map until I came to came to it the philippines boston this is all my photography not the diagrams and not the where the sea level riser goes on taken the photo taken that the lines the black lines taken from the museum of contemporary art in boston out of the over the harbor I pray another one spain their problem is humidity new york the floods one day the art changed this piece when hung is 65 inches by 95 inches 65 65 by 90.
 
-And the director of the gallery had said to me, why don't you have a climate change show? And I thought that was a good idea. I don't know what happened, but this is what happened. This is what came out. There I am. Can you see me suffering and proud of my piece? Then oh I missed one god forbid right I think I left it out it's not there all right uh then I worked on another piece for another show we did I just run through the process And last but of course not least, the final, the final piece. Peace. There I am. Thank you very much.
+And the director of the gallery had said to me, why don't you have a climate change show? And I thought that was a good idea. I don't know what happened, but this is what happened. This is what came out. There I am. Can you see me suffering and proud of my piece? Then oh I missed one god forbid right I think I left it out it's not there all right then I worked on another piece for another show we did I just run through the process And last but of course not least, the final, the final piece. Peace. There I am. Thank you very much.
 
 ## Davonte Bradley [26:02](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1562s)
 
@@ -461,11 +461,11 @@ Conscious but
 
 ## Patrick Lichty [30:41](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1841s)
 
-I mean I I think it worked though yeah delighted that it was seen that way yeah you know maybe maybe maybe something to consider for future work honestly okay
+I mean I think it worked though yeah delighted that it was seen that way yeah you know maybe something to consider for future work honestly okay
 
 ## Ann Shapiro [30:53](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1853s)
 
-Yeah I have some paintings that deal with that would deal with the hurricane katrina before uh um before I was where I pasted stuff onto the canvas you know I'd print out a drawing or a map or whatever and slap it onto the canvas that was that's how it began incidentally I got in loved computer because I saw you it in the must have been the 80s at epcot center they had this big display oh yeah mac paint and that's that's what got me going you know I loved it that's for me
+Yeah I have some paintings that deal with that would deal with the hurricane katrina before before I was where I pasted stuff onto the canvas you know I'd print out a drawing or a map or whatever and slap it onto the canvas that was that's how it began incidentally I got in loved computer because I saw you it in the must have been the 80s at epcot center they had this big display oh yeah mac paint and that's what got me going you know I loved it that's for me
 
 ## Unattributed [31:38](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1898s)
 
@@ -477,7 +477,7 @@ Oh there you go yeah wonderful oh
 
 ## Cynthia Beth Rubin [31:47](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1907s)
 
-Yeah so so I had a couple quick questions comments one is um I'm a big proponent of printing on fabric when you go really large um and I use um spoon flower um they use dyes so they will fade over time I've never noticed the fading but it's But it's really great because you can go up to, depending on what you choose, about 36 by 54 or 50 or something. I mean, if you want to hold it over.
+Yeah so I had a couple quick questions comments one is I'm a big proponent of printing on fabric when you go really large and I use spoon flower they use dyes so they will fade over time I've never noticed the fading but it's But it's really great because you can go up to, depending on what you choose, about 36 by 54 or 50 or something. I mean, if you want to hold it over.
 
 ## Unattributed [32:20](https://www.youtube.com/watch?v=XUBL7L41hjA&t=1940s)
 
@@ -663,7 +663,7 @@ So I just wanted to bring that up that there's a lot more behind the video you s
 
 ## Marlow DJ Shami [43:36](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2616s)
 
-Yeah. Karen and I. Oh, go ahead. How close were you to that bobcat? You know, it's it's that bobcat. She had her kitten. She had her kittens here. And they used to we live in a log cabin with a wraparound porch. Those kittens used to come up on the wraparound porch. She'd stand, you know, over in the side. And so she was I shot that out of my bedroom window. She was probably 10 feet away.
+Yeah. Karen and I. Oh, go ahead. How close were you to that bobcat? You know, it's that bobcat. She had her kitten. She had her kittens here. And they used to we live in a log cabin with a wraparound porch. Those kittens used to come up on the wraparound porch. She'd stand, you know, over in the side. And so she was I shot that out of my bedroom window. She was probably 10 feet away.
 
 ## Unattributed [44:03](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2643s)
 
@@ -671,7 +671,7 @@ Wow.
 
 ## Marlow DJ Shami [44:03](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2643s)
 
-The deer were in the backyard. I raised monarchs one year and used my macro lens to get the shot of the caterpillar. Let's see the snake. That was a black rat snake native to this area. I used to handle one and do programs that that snake's name is Jacob. Very sweet, sweet snake. I was only one that could handle him. For some reason, everyone was frightened by him. Who else was in there? The jellyfish.
+The deer were in the backyard. I raised monarchs one year and used my macro lens to get the shot of the caterpillar. Let's see the snake. That was a black rat snake native to this area. I used to handle one and do programs that snake's name is Jacob. Very sweet, sweet snake. I was only one that could handle him. For some reason, everyone was frightened by him. Who else was in there? The jellyfish.
 
 Norwalk Aquarium. So, yeah. Yeah.
 
@@ -681,11 +681,11 @@ That is awesome.
 
 ## Marlow DJ Shami [44:41](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2681s)
 
-Yeah. It's it's the other thing I do do is for the last year, the last 20 years, I've been doing workshops, including the eco psychology piece or experiential workshops. I have a PowerPoint. Everyone goes out and starts learning the language of nature and how to dialogue with it. Obviously not in a traditional human way. And then I usually have a guided meditation for folks to integrate the experience, remembering what they already knew, but forgot and perhaps some new material. So I really split my time between making art and doing workshops.
+Yeah. It's the other thing I do is for the last year, the last 20 years, I've been doing workshops, including the eco psychology piece or experiential workshops. I have a PowerPoint. Everyone goes out and starts learning the language of nature and how to dialogue with it. Obviously not in a traditional human way. And then I usually have a guided meditation for folks to integrate the experience, remembering what they already knew, but forgot and perhaps some new material. So I really split my time between making art and doing workshops.
 
 ## Davonte Bradley [45:28](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2728s)
 
-And I think that's was an interesting place to start. What I think that's going to be on the next few years. And I think that's one of the things that I'm going to think about that I'm going to is is it's not like that I'm going to have to have to have And I had a lot of different feelings about it over the years because I couldn't actually be out in it when I was younger. I'm not sure if you were part of that early conversation that we were having before the recording started, but I had really bad lung issues.
+And I think that's was an interesting place to start. What I think that's going to be on the next few years. And I think that's one of the things that I'm going to think about that I'm going to is it's not like that I'm going to have to have to have And I had a lot of different feelings about it over the years because I couldn't actually be out in it when I was younger. I'm not sure if you were part of that early conversation that we were having before the recording started, but I had really bad lung issues.
 
 So I had severe asthma as a child. So I had very, very limited contact with nature and the outdoors because anytime that I would have like activity out there, I would have an asthma attack. So where most children would, you know, were trying to spend their time outdoors and, you know, running around doing typical kid stuff. I was indoors doing art on MS paints and things like that.
 
@@ -693,7 +693,7 @@ But I know I realized that I did care quite a bit about, you know, nature and th
 
 ## Marlow DJ Shami [47:06](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2826s)
 
-Well, you're a part of it, you know, and you'll find a way and an attraction that might inspire you to do it safely. Right. You know, because you know you're on the road. You know, you're on the road. You know, you're on boundaries and limitations as far as your health and that that's that comes first. Right. Yeah. Yeah. It's everywhere. Right. Even the middle of the city. I've done workshops in the middle of North Walk, Virginia. It's like there.
+Well, you're a part of it, you know, and you'll find a way and an attraction that might inspire you to do it safely. Right. You know, because you know you're on the road. You know, you're on the road. You know, you're on boundaries and limitations as far as your health and that's that comes first. Right. Yeah. Yeah. It's everywhere. Right. Even the middle of the city. I've done workshops in the middle of North Walk, Virginia. It's like there.
 
 ## Davonte Bradley [47:30](https://www.youtube.com/watch?v=XUBL7L41hjA&t=2850s)
 
@@ -785,7 +785,7 @@ What is CCH? Climate change.
 
 ## Unattributed [55:10](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3310s)
 
-There'll be a change in the weather. Change in the weather. Strange weather. Strange weather. Climate change. Change in the weather. Climate changes Climate changes Climate changes Climate changes Climate, climate, climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Changes in the weather Changes Changes Climate Changes Climate Changes Clim- ...ate Ch-ch-changes Clim- Changes Clim- Clim- Changes Clim- Changes Clim- Ch-ch-ch-changes Clim- Climate changes.
+There'll be a change in the weather. Change in the weather. Strange weather. Strange weather. Climate change. Change in the weather. Climate changes Climate changes Climate changes Climate changes Climate, climate, climate changes Climate changes Climate changes Climate changes Climate changes Climate changes Changes in the weather Changes Changes Climate Changes Climate Changes Clim-...ate Ch-ch-changes Clim- Changes Clim- Clim- Changes Clim- Changes Clim- Ch-ch-ch-changes Clim- Climate changes.
 
 Climate changes. Climate changes. Climate changes.
 
@@ -839,7 +839,7 @@ Was how
 
 ## Marlow DJ Shami [59:03](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3543s)
 
-Much time did you put into that that was I loved your video that was
+Much time did you put into that was I loved your video that was
 
 ## Unattributed [59:08](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3548s)
 
@@ -847,7 +847,7 @@ Really powerful well
 
 ## Lee Schnaiberg [59:10](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3550s)
 
-You know um I tried to do something that um uh sort of I wanted to do it in a short little piece and then I and I I like the idea of taking well there's not a lot of people singing climate it but
+You know I tried to do something that sort of I wanted to do it in a short little piece and then I and I like the idea of taking well there's not a lot of people singing climate it but
 
 ## Unattributed [59:23](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3563s)
 
@@ -855,17 +855,17 @@ There's
 
 ## Lee Schnaiberg [59:24](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3564s)
 
-A lot of people singing about a mountain and they're gonna climb it and I was like wow okay and and then I found people saying changes but then I then I thought okay well I don't want to make this like just an overload of disaster porn so I mean I did want to get that out to people that like this is what we're going to be seeing regularly if we don't do something but But I've been working with a lot of people doing carbon dioxide removal, and it's gaining a lot of momentum now.
+A lot of people singing about a mountain and they're gonna climb it and I was like wow okay and then I found people saying changes but then I then I thought okay well I don't want to make this like just an overload of disaster porn so I mean I did want to get that out to people that like this is what we're going to be seeing regularly if we don't do something but I've been working with a lot of people doing carbon dioxide removal, and it's gaining a lot of momentum now.
 
 There's ways that you can make soil much healthier and grow better quality food by using stuff that right now is stored as waste, either from cement factories or from mine tailings. Not all of it, but a lot of it can be used. And it makes better quality food, climate resistant. It increases the biomass in forests by 800%.
 
-There's this amazing book called Geotherapy, not geoengineering, but geotherapy. And the stats are amazing. Like an apple from the 1950s, if you were to try to get that same nutrient value that you would get in the 50s from one apple, you have to eat six apples now. So there's something that we can do they call it enhanced rock weathering that takes carbon out of the atmosphere and it increases our life quality of life um so what I decided to do is while there's all these overwhelming images make it like an easter egg hunt that people see all these things unfortunately when it comes on to zoom it doesn't it's a little bit lost in the translation but you know um having like about about a hundred people get, I think people will get a sense. They're like, Oh, I saw solutions. Is there solutions?
+There's this amazing book called Geotherapy, not geoengineering, but geotherapy. And the stats are amazing. Like an apple from the 1950s, if you were to try to get that same nutrient value that you would get in the 50s from one apple, you have to eat six apples now. So there's something that we can do they call it enhanced rock weathering that takes carbon out of the atmosphere and it increases our life quality of life so what I decided to do is while there's all these overwhelming images make it like an easter egg hunt that people see all these things unfortunately when it comes on to zoom it doesn't it's a little bit lost in the translation but you know having like about a hundred people get, I think people will get a sense. They're like, Oh, I saw solutions. Is there solutions?
 
 And you can pause and you can get these URLs and you can see that there are all these things happening now that are positive, that if more people were to get behind, we could maybe see ourselves out of this. I mean, we'll never undo all the damages. One of the names that was in the video is Paul Beckwith.
 
-Paul Beckwith is one of the Arctic experts, um, right up there with a guy named Peter Wadhams. And, um, he's famous for saying what, what, what, what happens in the Arctic doesn't stay in the Arctic. Um, and, um, you know, we see it with, um, with these, um, polar vortexes that go down and all of a sudden in Georgia, everything freezes or, you know, these, these whips of of freezing cold weather that come down from the poles. And that's just the start. And before, who was it that was talking about the Arctic?
+Paul Beckwith is one of the Arctic experts, right up there with a guy named Peter Wadhams. And, he's famous for saying what, what, what, what happens in the Arctic doesn't stay in the Arctic. And, you know, we see it with, with these, polar vortexes that go down and all of a sudden in Georgia, everything freezes or, you know, these, these whips of freezing cold weather that come down from the poles. And that's just the start. And before, who was it that was talking about the Arctic?
 
-Holly was talking about the Antarctic. And this past couple of months, one part of the Antarctic, which ironically has two volcanoes that are living, active volcanoes. Volcanoes um one's called mount doom and the other is called mount uh iribus and they're like surrounded by ice and that ice is cracking up now so this is this is a this could lead to to to several feet of an increase you
+Holly was talking about the Antarctic. And this past couple of months, one part of the Antarctic, which ironically has two volcanoes that are living, active volcanoes. Volcanoes one's called mount doom and the other is called mount iribus and they're like surrounded by ice and that ice is cracking up now so this is this is a this could lead to several feet of an increase you
 
 ## Unattributed [01:02:53](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3773s)
 
@@ -875,15 +875,15 @@ Know
 
 In a decade as opposed to like everything that I learned was always they'd say that oh this is going to be in 100 years and then it happens 20 years and oh this far away. There's stuff that the IPCC didn't want to put into their reports because they didn't want to freak everybody out, like about how the Gulf Stream, the thermohaline conveyor belt that keeps, regulates the temperature on the planet, how that might break down because when you put a ton of fresh water at the head of it, which is in the Arctic, it can break the whole chain. And then And all of a sudden the Gulf Stream breaks down and the rain cycles that we're used to having break down. So, I mean, they didn't want to put that in because that's too freaked out. That would sound too extreme.
 
-You know, and I mean, and I don't even know what it's like in the States because I have one friend who's in Washington. Right now he's working for the Gates Foundation. And so he and he's very he's not like left or right but I've heard him say liberals a bunch of times which blows my mind and when I talked to him about climate he's like oh well the liberals and I'm like no no no no no let's talk about the like what have you seen you know and and do some research talk to scientists like don't make it into a political issue because that's really a provincial issue in in the states it's not a provincial issue with most other countries on the planet where climate change is a reality and um so I I guess I wanted to make something that would kind of say it in less than two hours which is like my old movies were always about two hours long so um that wasn't too much it
+You know, and I mean, and I don't even know what it's like in the States because I have one friend who's in Washington. Right now he's working for the Gates Foundation. And so he and he's very he's not like left or right but I've heard him say liberals a bunch of times which blows my mind and when I talked to him about climate he's like oh well the liberals and I'm like no let's talk about the like what have you seen you know and do some research talk to scientists like don't make it into a political issue because that's really a provincial issue in the states it's not a provincial issue with most other countries on the planet where climate change is a reality and so I guess I wanted to make something that would kind of say it in less than two hours which is like my old movies were always about two hours long so that wasn't too much it
 
 ## Davonte Bradley [01:04:43](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3883s)
 
-Was not too much it was it was I think it was just enough well thanks thank you thank you very much everybody yeah I'll also say like as far as and being kind of cognizant of the politicals going on here about doing anything about the environment Or the climate Has become Politicized Heavily Not even lightly Any kind of ideas about preserving the environment Is Is immediately labeled as a left or right idea And it's You don't want that to happen But it's what's happening And we're having to deal with that And it's not pretty
+Was not too much it was it was I think it was just enough well thanks thank you thank you very much everybody yeah I'll also say like as far as and being kind of cognizant of the politicals going on here about doing anything about the environment Or the climate Has become Politicized Heavily Not even lightly Any kind of ideas about preserving the environment Is immediately labeled as a left or right idea And it's You don't want that to happen But it's what's happening And we're having to deal with that And it's not pretty
 
 ## Lee Schnaiberg [01:05:28](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3928s)
 
-It's horrible Yeah I hope that people start to realize You know I always thought that You know the funniest thing is that One of the projects that I've been working on Is Using these rock dust For farmers Because a farmer can save about $300 per acre So if a farmer's got a thousand acres You know We can save them like A third of a million dollars If they make their If they basically Suck carbon out of the atmosphere And that's not including Carbon credits So they could double that And And then people tell me Oh yeah but most farmers In the states don't care Because They have this thing that If their crops get ruined They get money from the government And so They don't really care about that They don't really care And I'm like well But after a while Don't they care Like when they're looking at
+It's horrible Yeah I hope that people start to realize You know I always thought that You know the funniest thing is that One of the projects that I've been working on Is Using these rock dust For farmers Because a farmer can save about $300 per acre So if a farmer's got a thousand acres You know We can save them like A third of a million dollars If they make their If they basically Suck carbon out of the atmosphere And that's not including Carbon credits So they could double that And then people tell me Oh yeah but most farmers In the states don't care Because They have this thing that If their crops get ruined They get money from the government And so They don't really care about that They don't really care And I'm like well But after a while Don't they care Like when they're looking at
 
 ## Davonte Bradley [01:06:21](https://www.youtube.com/watch?v=XUBL7L41hjA&t=3981s)
 
@@ -915,7 +915,7 @@ Telling anybody about that He puts a bumper sticker On his truck That he goes in
 
 ## Unattributed [01:07:24](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4044s)
 
-And And then maybe
+And then maybe
 
 ## Davonte Bradley [01:07:26](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4046s)
 
@@ -923,7 +923,7 @@ So much Maybe Rebranding And optics That's what I hope I hope I hope we do somet
 
 ## Lee Schnaiberg [01:07:36](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4056s)
 
-Because I just get frustrated sometimes So I just want to make Funny pictures But But I hope
+Because I just get frustrated sometimes So I just want to make Funny pictures But I hope
 
 ## Davonte Bradley [01:07:45](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4065s)
 
@@ -939,11 +939,11 @@ That's not it Screen All right Start Right Cast No
 
 ## Susan Detroy [01:08:25](https://www.youtube.com/watch?v=XUBL7L41hjA&t=4105s)
 
-Oh Wait a second I have to do Sorry I put you all on I get to get out of that First When I When I Watch this I put it on my TV I mirror it to my television So I can see it bigger And it won't let me see it Let me Um Share when when I have that going. I'm going to try again. All right, here we go. Okay.
+Oh Wait a second I have to do Sorry I put you all on I get to get out of that First When I When I Watch this I put it on my TV I mirror it to my television So I can see it bigger And it won't let me see it Let me Share when I have that going. I'm going to try again. All right, here we go. Okay.
 
-So, um, is all going well, you're seeing a photo. Yep. Okay. Okay. I'm going to show two. That are part of a series That I started in 2016 Um That some of you are familiar with where I use my own face And life Who I am And blend that With uh Elements Now Originally I was using some Human created elements But now I'm just using um Natural world elements And um So I I have been Looking more At this series As Time's gone by And also! I've been influenced by The time during the pandemic Where I'm Much more connected to people Internationally And well like here This group And also I I'm connected to two other online Big international groups Um Well one is fairly big And one has 15 people So I'm So I I feel more affected to the world Outside of Origin And I think that's Because of my small town And also During the pandemic I Uh I'm I shifted to entirely digital art making I used to make Prints And Make Canvases Of my work I don't I'm not doing that At this time I don't know if I will again And I'm And Um I'm also Starting to use more video But I'm Not going to show that today So I I've been So I've In Thinking about my work I've been looking And Organizing And Kind of Re-categorizing And And for This Today I started Look I looked back In several piece Through some pieces That I've done And I believe this piece Originally I did in Um 2018 So I did quite a few pieces That In that period From 2018 To The pandemic And Um Many of these Are About In Retrospect I think Much more about My relationship To the earth Uh And Um My feeling about it During that time In Oregon We experienced Um Fires And Uh More than one Uh Dramatic Fires That Um Devastated Areas Throughout my state And also During the summer We're having Heat waves And Um Anyway Every Very Unusual And Changing Events That are going on Although our weather Weather pattern here is Still a bit Holding up In The Willamette Valley And Uh So I wanted to show These pieces That I Went To Back in And reworked A small amount Uh Just For today And Like seeing them From A 2022 Eyes My own vision Now in 2022 And Thinking More deeply About The significance Of The earth And its effect On my art And Uh Upon My Uh Whole being Spiritual Mental Emotional Being So this was one Uh That I wanted to show And This is a second one That I made Um Uh Probably Even Before This piece Has Gone Through A few Renditions And It It made Uh Was in a couple I I did print it out As a Color Um Um Piece Uh It had Had More With Looked more Natural Worldly The first time And I thought of it As Um I didn't think of it As much In anguish As I do now Uh I This is a place That I Have walked Along Um With a friend For many years Um And And!
+So, is all going well, you're seeing a photo. Yep. Okay. Okay. I'm going to show two. That are part of a series That I started in 2016 That some of you are familiar with where I use my own face And life Who I am And blend that With Elements Now Originally I was using some Human created elements But now I'm just using Natural world elements And So I have been Looking more At this series As Time's gone by And also! I've been influenced by The time during the pandemic Where I'm Much more connected to people Internationally And well like here This group And also I'm connected to two other online Big international groups Well one is fairly big And one has 15 people So I'm So I feel more affected to the world Outside of Origin And I think that's Because of my small town And also During the pandemic I'm I shifted to entirely digital art making I used to make Prints And Make Canvases Of my work I don't I'm not doing that At this time I don't know if I will again And I'm And I'm also Starting to use more video But I'm Not going to show that today So I've been So I've In Thinking about my work I've been looking And Organizing And Kind of Re-categorizing And for This Today I started Look I looked back In several piece Through some pieces That I've done And I believe this piece Originally I did in 2018 So I did quite a few pieces That In that period From 2018 To The pandemic And Many of these Are About In Retrospect I think Much more about My relationship To the earth And My feeling about it During that time In Oregon We experienced Fires And More than one Dramatic Fires That Devastated Areas Throughout my state And also During the summer We're having Heat waves And Anyway Every Very Unusual And Changing Events That are going on Although our weather Weather pattern here is Still a bit Holding up In The Willamette Valley And So I wanted to show These pieces That I Went To Back in And reworked A small amount Just For today And Like seeing them From A 2022 Eyes My own vision Now in 2022 And Thinking More deeply About The significance Of The earth And its effect On my art And Upon My Whole being Spiritual Mental Emotional Being So this was one That I wanted to show And This is a second one That I made Probably Even Before This piece Has Gone Through A few Renditions And It made Was in a couple I did print it out As a Color Piece It had More With Looked more Natural Worldly The first time And I thought of it As I didn't think of it As much In anguish As I do now I This is a place That I Have walked Along With a friend For many years And!
 
-That's Along the Willamette Valley That's north Of where I live And uh I haven't Been there This spring yet But Uh It's a Sort of Oops My phone is going off Quacking Um And Um It's The edge of farm Farmland And Uh The natural world Of the river Kind of Cross between Um The wild River And when I Looked at it In the last Few days To rework it I realized That I Felt More anguish About Uh How the world Is affecting Me now In terms of Climate And war And pandemic pandemic and politics. So I reworked it with that feeling in mind. And I don't know what to have anything else to say. I think that's it. Those are my two pieces that I wanted to share. I'll just show this one again.
+That's Along the Willamette Valley That's north Of where I live And I haven't Been there This spring yet But It's a Sort of Oops My phone is going off Quacking And It's The edge of farm Farmland And The natural world Of the river Kind of Cross between The wild River And when I Looked at it In the last Few days To rework it I realized That I Felt More anguish About How the world Is affecting Me now In terms of Climate And war And pandemic pandemic and politics. So I reworked it with that feeling in mind. And I don't know what to have anything else to say. I think that's it. Those are my two pieces that I wanted to share. I'll just show this one again.
 
 I'm noticing the colors are much more hot than they were before. For both of these pieces work had them all of this has some cool in it. But this piece definitely is hotter in terms of feeling and palette. So, all right. I'm going to stop that now. Thank you. Much, Susan. You're welcome.
 
@@ -999,7 +999,7 @@ I appreciate all of that. We have three minutes to go. Before the end of our sch
 
 Sure. Let's see here. Can I. Okay. This kind of has to do with a project that I worked on with a guy named Nathan Schaefer, who's now doing climate-based comic books with Native Alaskans and that sort of thing. And this just kind of. Comes from. Our exploration of the Alaska Archives. Seeing that they actually wanted to do.
 
-Weather protection domes for Anchorage in the 1970s. We actually kind of did this initial kind of like 22nd century climate fiction. Bruce Sterling, the science fiction writer said he wanted more 22nd century stuff. Because. Near 21st century wasn't right science fiction anymore and so we thought we thought about the 22nd century where we're thinking about whether science whether uh climate whether climate is going to run away or not and everything's gone to dirigibles and the entire world is um being um you know all the all the knowledge of the world is being sealed up into these domes and wondering whether we're going to have to seal ourselves within them. So this is, I had to do, I think this was at the Anchorage Museum, I think. And this was a group show of artists. And this is actually for sale.
+Weather protection domes for Anchorage in the 1970s. We actually kind of did this initial kind of like 22nd century climate fiction. Bruce Sterling, the science fiction writer said he wanted more 22nd century stuff. Because. Near 21st century wasn't right science fiction anymore and so we thought we thought about the 22nd century where we're thinking about whether science whether climate whether climate is going to run away or not and everything's gone to dirigibles and the entire world is being you know all the all the knowledge of the world is being sealed up into these domes and wondering whether we're going to have to seal ourselves within them. So this is, I had to do, I think this was at the Anchorage Museum, I think. And this was a group show of artists. And this is actually for sale.
 
 This is from Nathan. And this is an anthology of 22nd century climate fiction pieces about these alternate universes. And he actually also has a, what he called fish head soup. A comic book company that is actively working between Anglo and Native Alaskan writers and artists to try to give the indigenous peoples of the Northwest kind of a, you know, more voices in pop culture. So, and the other thing is, is that, yes, these are 80 by 60 inch tapestries, actually. So, and these were, I think these are actually still in Alaska. But anyways, that's about two, three years ago. And that's my contribution.
 

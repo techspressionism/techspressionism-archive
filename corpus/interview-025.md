@@ -41,7 +41,7 @@ Okay. Okay. Well, let me say a little bit more about being Gullah. Being Gullah 
 
 The African attitude towards art is that art should be utilitarian. So we see here in the West that there's art for art's sake. But the African concept of art from time immemorial, and which has flowed over into the Lowcountry as African retentions, is that art is a form of art. And so, you know, we have a lot of art, but we also have a lot of art that is utilitarian. So we see here in the West that there's art for art's sake. But the African concept of art is that art should be functional.
 
-So my art, artistic influence, Gullah wise, is infused with this philosophy that the art must do something. So I started creating art, because because I needed to make sense of what was happening to the changing world. I had retired from the practice of medicine and 9-11 happened and I had a series of dreams, premonitions actually, that such an event would occur here in the United States. And I was, you know, somewhat rattled by being thrown into that reality unexpectedly.
+So my art, artistic influence, Gullah wise, is infused with this philosophy that the art must do something. So I started creating art, because I needed to make sense of what was happening to the changing world. I had retired from the practice of medicine and 9-11 happened and I had a series of dreams, premonitions actually, that such an event would occur here in the United States. And I was, you know, somewhat rattled by being thrown into that reality unexpectedly.
 
 And I needed to de-stress from the trauma of going from one profession into another, not quite knowing what was going to happen, you know, in the future. And then to be, have to work through or process the dangers. Nascent dangers of terrorism. I had to process that as a citizen and as a physician also. And I had an experience as a poet. I had published a book of poetry titled Dog Moon. It's published by Sunbury Press in Brooklyn, New York. And I tried writing poetry about it, and I couldn't find the words. All I could write was, the one sentence I wrote was, there are no words for this. And so I was basically stuck and stumbled upon graphic design programs in my brother's computer.
 
@@ -171,7 +171,7 @@ And I think that's what I would say. Would you want to. Show us a little bit of 
 
 ## Verneda Lights [23:28](https://www.youtube.com/watch?v=8x8eIkbpHws&t=1408s)
 
-Well. I should add before we do that. My current project. Gala me 2.0 as an NFT project. And I use artificial intelligence. Software. On. Dolly. And I also use night cafe. I found. Mid journey problematic. So I. I shied away from that. But. Yeah, I can. Start to. Hold on a a second. Okay, share my screen.
+Well. I should add before we do that. My current project. Gala me 2.0 as an NFT project. And I use artificial intelligence. Software. On. Dolly. And I also use night cafe. I found. Mid journey problematic. So I. I shied away from that. But. Yeah, I can. Start to. Hold on a second. Okay, share my screen.
 
 Okay. Are you seeing it?
 
@@ -333,13 +333,13 @@ But then I thought about, oh my goodness. All right. This is a, it's floor lengt
 
 And I think because I have on an expensive coat. The coat costs something like 10 grand, okay? So is this going to get me in trouble? And I said, you know, it was so stressful. And then I spoke with my younger brother who has a more faith-based approach, much like myself. And he said, well, you know, you think about how the Black groups of the 60s, how they made it traveling through the South. You know, the temptations, the Supremes, Smokey Robinson. The Miracles. They talk often in their memoirs and in their interviews about how threatened they were physically while performing or even just traveling through the South. And I thought, again, you know, that is such an unfair burden because being creative is enough to be responsible for, you know, to conceptualize this artwork and to bring it into fruition and have the resources necessary to make it a reality.
 
-And then on top of that, you figured because I've done this, you know, well, I could possibly lose my life behind a misunderstanding related to the color of my skin. So it was rough. So I I in my prayers, I remembered to that I had a neighbor who was a soldier. And the women in my community are like the Dora Milaj, you know, from the Black Panther movies.
+And then on top of that, you figured because I've done this, you know, well, I could possibly lose my life behind a misunderstanding related to the color of my skin. So it was rough. So I in my prayers, I remembered to that I had a neighbor who was a soldier. And the women in my community are like the Dora Milaj, you know, from the Black Panther movies.
 
-They are fierce. And it's a military community. So to have a neighbor that I grew up with, who was a soldier, you know, she did time in the army, not the cushy Air Force, the army, you know, she was a real soldier, you know, and I told her about my situation. And she said, Look, Ricky, you know, it's my nickname, Ricky, we're gonna, um, my husband, I will come get you at the airport, and we'll take you to the hotel. And you know what, we'll go to the exhibit with you and take you back to the airport when it's time for you to go home, you'll be all right. You know, and, you know, and I'm like, I'm gonna go home. And I'm like, I'm gonna go home. And I was moving through the airport when I landed.
+They are fierce. And it's a military community. So to have a neighbor that I grew up with, who was a soldier, you know, she did time in the army, not the cushy Air Force, the army, you know, she was a real soldier, you know, and I told her about my situation. And she said, Look, Ricky, you know, it's my nickname, Ricky, we're gonna, my husband, I will come get you at the airport, and we'll take you to the hotel. And you know what, we'll go to the exhibit with you and take you back to the airport when it's time for you to go home, you'll be all right. You know, and, you know, and I'm like, I'm gonna go home. And I'm like, I'm gonna go home. And I was moving through the airport when I landed.
 
 The only people of color were the people who were busting the floors, you know, and it was it was deep moment. And when I saw her and her husband, I was so happy. And she, she took control of the situation. She's such a soldier. Oh, my goodness, she's retired now. But she just moved through that crowd. Like it was.
 
-Like the way it had been paved, I got to the hotel was no big deal got settled in. And when when Showtime came, she was there, and I had on my make on. And at that by that point in time, I was fearless. But the memory of that stress lingers. It is difficult. You know, it's a difficult world we live in. But you have to be brave. It takes courage.
+Like the way it had been paved, I got to the hotel was no big deal got settled in. And when Showtime came, she was there, and I had on my make on. And at that by that point in time, I was fearless. But the memory of that stress lingers. It is difficult. You know, it's a difficult world we live in. But you have to be brave. It takes courage.
 
 ## Colin Goldberg [59:28](https://www.youtube.com/watch?v=8x8eIkbpHws&t=3568s)
 
@@ -351,7 +351,7 @@ You know, it's just very less than five years ago, really. Because it's November
 
 ## Colin Goldberg [01:00:02](https://www.youtube.com/watch?v=8x8eIkbpHws&t=3602s)
 
-Well, thank you for sharing that. That story. And the the sort of last question that I'm going to wrap up with is, how do you see the future of art?
+Well, thank you for sharing that. That story. And the sort of last question that I'm going to wrap up with is, how do you see the future of art?
 
 ## Verneda Lights [01:00:15](https://www.youtube.com/watch?v=8x8eIkbpHws&t=3615s)
 

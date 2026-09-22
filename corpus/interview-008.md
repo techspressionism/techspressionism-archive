@@ -51,7 +51,7 @@ One
 
 ## Steve Miller [04:44](https://www.youtube.com/watch?v=--L1ziEx3-A&t=284s)
 
-Short story um the uh which I've shared in other interviews but um they had this grand stairway that went from the old museum to the new museum and they would usually hang a gigantic painting uh on the landing the midpoint of that stairwell and when they purchased jackson pollock's convergence they hung it in that stairway and so you're looking up at it right you know and I'm a kid and I'm looking up at this huge painting of incredible splatters and color and I I remember my first reaction was to burst out laughing because I mean I couldn't believe that these even though I was at the gallery I couldn't believe these paint splatters was a work of art and then at the same time I saw the joy in it you know and it was just like I want to do this yeah so that was I would say that was the you know the earliest you know the earliest cultural influence and then I was lucky enough to be brought up in a a family where we went to museums we traveled we always went to you know I went to the louvre when I was in kind of like junior high school and went to the ufiti I mean had the the lucky, lucky life that let me see that stuff in a different kind of world, you know, long, long time ago.
+Short story the which I've shared in other interviews but they had this grand stairway that went from the old museum to the new museum and they would usually hang a gigantic painting on the landing the midpoint of that stairwell and when they purchased jackson pollock's convergence they hung it in that stairway and so you're looking up at it right you know and I'm a kid and I'm looking up at this huge painting of incredible splatters and color and I remember my first reaction was to burst out laughing because I mean I couldn't believe that these even though I was at the gallery I couldn't believe these paint splatters was a work of art and then at the same time I saw the joy in it you know and it was just like I want to do this yeah so that was I would say that was the you know the earliest you know the earliest cultural influence and then I was lucky enough to be brought up in a family where we went to museums we traveled we always went to you know I went to the louvre when I was in kind of like junior high school and went to the ufiti I mean had the lucky, lucky life that let me see that stuff in a different kind of world, you know, long, long time ago.
 
 And, and I just, it just fed me like, what is this stuff?
 
@@ -61,7 +61,7 @@ And I mean, we used to go places. Yeah, I know.
 
 ## Steve Miller [06:18](https://www.youtube.com/watch?v=--L1ziEx3-A&t=378s)
 
-And those, and it was just another kind of travel. It was so free and easy. So it was, that was sort of my, my sort of inspiration. And I, my, my family tried to I had a real interest in architecture and I worked for an architect for a couple of years in high school in the summers doing drafting and doing the kind of grunt work. And that was done by hand. Right. And with with the sort of, you know, transparent sheet overlays where you'd sketch out and move things around and analog world. But as much as they pushed me towards architecture, I got to college. It was like clear. I threw away the the physics and the math. I said, screw it. I just want to do mud pies and finger painting.
+And those, and it was just another kind of travel. It was so free and easy. So it was, that was sort of my, my sort of inspiration. And I, my, my family tried to I had a real interest in architecture and I worked for an architect for a couple of years in high school in the summers doing drafting and doing the kind of grunt work. And that was done by hand. Right. And with the sort of, you know, transparent sheet overlays where you'd sketch out and move things around and analog world. But as much as they pushed me towards architecture, I got to college. It was like clear. I threw away the physics and the math. I said, screw it. I just want to do mud pies and finger painting.
 
 ## Roz Dimon [07:06](https://www.youtube.com/watch?v=--L1ziEx3-A&t=426s)
 
@@ -77,9 +77,9 @@ Oh, I see.
 
 ## Steve Miller [07:14](https://www.youtube.com/watch?v=--L1ziEx3-A&t=434s)
 
-And so she's still with us. She's not a practicing artist, but she taught art. And, you know, I remember seeing a portrait that she did of my sister. And I'm like, wow, cool. Really good for my, you know, childhood perspective. So, yeah, we and my my family collected art. It was mostly fine art prints, you know, that she would get at the members gallery at the Albright. But it was Brock.
+And so she's still with us. She's not a practicing artist, but she taught art. And, you know, I remember seeing a portrait that she did of my sister. And I'm like, wow, cool. Really good for my, you know, childhood perspective. So, yeah, we and my family collected art. It was mostly fine art prints, you know, that she would get at the members gallery at the Albright. But it was Brock.
 
-And, you know, I'm I'm thinking of Soutine. You know, those are prints. And then she started getting more kind of we had a family friend that that ran the Martha Jackson Gallery in New York. So we ended up getting like a San Francis watercolor, you know, a tapis drawing. So these are things that we had in the house.
+And, you know, I'm thinking of Soutine. You know, those are prints. And then she started getting more kind of we had a family friend that ran the Martha Jackson Gallery in New York. So we ended up getting like a San Francis watercolor, you know, a tapis drawing. So these are things that we had in the house.
 
 ## Roz Dimon [08:03](https://www.youtube.com/watch?v=--L1ziEx3-A&t=483s)
 
@@ -89,15 +89,15 @@ And, you know, once you start, I'd like to say sorry for you, Steve, but it soun
 
 Yeah, well, it was, you know, it was the incredible opportunity to have the engagement with great art at the Albright and also to live with art. And I just remember the Soutine was like this really weird guy with a mustache. It was kind of a fuzzy, grimy lithograph. And it was part of the Vincent Price collection at Sears Roebuck. Right. My mom started buying art at Sears Roebuck. And Vincent Price, the actor, you know, sort of brought me to the Albright. And I was like, well, I'm going to have to put that into the public realm. But, you know, the Brock was a real simple curiosity of those like, you know, simple birds over a kind of an abstract geometric background. But, you know, you just look at that stuff and you go like, like with the Pollock, like, what is this stuff? And you just start asking questions and you keep looking at it and you get engaged.
 
-So I think that's the the long version of like how I got sucked into this whole art thing.
+So I think that's the long version of like how I got sucked into this whole art thing.
 
 ## Roz Dimon [09:07](https://www.youtube.com/watch?v=--L1ziEx3-A&t=547s)
 
-All right. Well, that's a wow. That's that's a really interesting, cultural background that you come from, you know, looking at artists like that and seeing that other world as a young child. There's another world, you know, outside of yours.
+All right. Well, that's a wow. That's a really interesting, cultural background that you come from, you know, looking at artists like that and seeing that other world as a young child. There's another world, you know, outside of yours.
 
 ## Steve Miller [09:21](https://www.youtube.com/watch?v=--L1ziEx3-A&t=561s)
 
-You know, we knew it was different because people would come to the house and they, you know, they would come to the house to see this is a modest, I mean, art collection. Yes. But I mean, but but we had modern art in our house, you know, and people would come look at it and go, oh, they have modern art. So I knew that there was something.
+You know, we knew it was different because people would come to the house and they, you know, they would come to the house to see this is a modest, I mean, art collection. Yes. But I mean, but we had modern art in our house, you know, and people would come look at it and go, oh, they have modern art. So I knew that there was something.
 
 Special about it as well, as modest as it was.
 
@@ -115,7 +115,7 @@ Interesting. Did you go to art school or?
 
 ## Steve Miller [10:13](https://www.youtube.com/watch?v=--L1ziEx3-A&t=613s)
 
-No, no, actually. Well, OK, I went to Middlebury College in Middlebury, Vermont. I was an art major. It's a kind of a small time art department. And then I went to the Skowhegan School one summer and then then I was at a place called the Fine Arts Work Center in Provincetown, which gave you kind of a two year residency. So I was there for a couple of years and then moved to New York.
+No, no, actually. Well, OK, I went to Middlebury College in Middlebury, Vermont. I was an art major. It's a kind of a small time art department. And then I went to the Skowhegan School one summer and then I was at a place called the Fine Arts Work Center in Provincetown, which gave you kind of a two year residency. So I was there for a couple of years and then moved to New York.
 
 ## Roz Dimon [10:39](https://www.youtube.com/watch?v=--L1ziEx3-A&t=639s)
 
@@ -157,7 +157,7 @@ Yeah. Wow. That's interesting. So, you know, you also you've been working digita
 
 Well, I actually was. OK, so I guess you're telling me a screen share and, you know, I will do this much, which is, you know, we had talked about this the other day. But this piece, I don't know when it's from. I think it's around 1980. Let's see if we get. OK, 1982. And I was aware of a shift that was going on. And the awareness of that shift had to do with a lot of reading. I was doing by Michel Foucault, Jacques Derrida, Roland Barthes, Jean Baudrillard, the Frankfurt School, you know, Adorno, Horkheimer, Marcuse. And they were all kind of looking at the changes that were going on in culture. And, you know, like, you know, it seems stupid, but the universal barcode in 1982 was like, you know, it's not going to be the same. Like, what the hell is that and how are they going to use it? Right.
 
-And, you know, it's something that we just really take for granted. So, yes, I did get interested in, you know, this is just a really simple, simple digitized eyeball on a computer. But that's how, you know, different it was in those days. You know, the moves that you can make took a long time, something that that might have taken a few hours. And it takes the press of a button now, you know, in any Photoshop program. But so, yeah, I did have this interest in technology. And this is actually the first painting I sold to a museum. It's in the Museum of the Albright-Knox Art Gallery.
+And, you know, it's something that we just really take for granted. So, yes, I did get interested in, you know, this is just a really simple, simple digitized eyeball on a computer. But that's how, you know, different it was in those days. You know, the moves that you can make took a long time, something that might have taken a few hours. And it takes the press of a button now, you know, in any Photoshop program. But so, yeah, I did have this interest in technology. And this is actually the first painting I sold to a museum. It's in the Museum of the Albright-Knox Art Gallery.
 
 And I was looking at kind of power relations and symbols of power and communication and how the value of labor had been transformed. And this is getting more into the digital space. I'm going to go. This is I think this is around 1986. Let's just see.
 
@@ -175,7 +175,7 @@ Tell us what medium. I mean, is that output to something or is it in your.
 
 ## Steve Miller [15:07](https://www.youtube.com/watch?v=--L1ziEx3-A&t=907s)
 
-This is this is a large scale. Painting. Let's see if we get the size of it. It's 168 by 240. Oh, it's 66 by 97 inches. OK, so it's it's fairly good sized. And I'm taking mapping systems. And that is actually that white grid is drawn using like a squeeze bottle. I had done done the grid by pencil and then I went over the grid with a squeeze bottle and poured out white paint.
+This is this is a large scale. Painting. Let's see if we get the size of it. It's 168 by 240. Oh, it's 66 by 97 inches. OK, so it's fairly good sized. And I'm taking mapping systems. And that is actually that white grid is drawn using like a squeeze bottle. I had done done the grid by pencil and then I went over the grid with a squeeze bottle and poured out white paint.
 
 And I think you can see that I'm actually doing that with the
 
@@ -257,7 +257,7 @@ Side is something that, you know, I learned at CERN and understanding that it's 
 
 ## Roz Dimon [21:40](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1300s)
 
-The CERN. That's very interesting. Um, can you tell us a little bit about that when you were at CERN? I mean. Yeah.
+The CERN. That's very interesting. Can you tell us a little bit about that when you were at CERN? I mean. Yeah.
 
 ## Steve Miller [21:47](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1307s)
 
@@ -269,7 +269,7 @@ Yeah. Right.
 
 ## Steve Miller [22:02](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1322s)
 
-Then John became head of Stony Brook and then Stony. And then then. Then, you know, Brookhaven grabbed him because they needed someone with some PR and managerial skills. They brought him in to run the lab and then Bush grabbed him to be his science advisor, the only Democrat in his administration, which was. And so John invited artists to do Brookhaven.
+Then John became head of Stony Brook and then Stony. And then. Then, you know, Brookhaven grabbed him because they needed someone with some PR and managerial skills. They brought him in to run the lab and then Bush grabbed him to be his science advisor, the only Democrat in his administration, which was. And so John invited artists to do Brookhaven.
 
 To kind of help them with the PR.
 
@@ -305,7 +305,7 @@ It's like it's going really.
 
 ## Steve Miller [23:51](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1431s)
 
-Yeah. So it's like that that image that that maybe I will go to that. Yeah.
+Yeah. So it's like that image that maybe I will go to that. Yeah.
 
 ## Roz Dimon [23:57](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1437s)
 
@@ -329,7 +329,7 @@ Yeah. It's this. It's the same moment. Right. So, you know, with this, it was li
 
 So what I realized that was going on it. It's certain. So they were looking at something called cork glue on plasma so they were colliding protons at the speed of light at a temperature of absolute zero, in order to see if they could get the courts and glue ons, which is the strong force, they hang on to. They're really tight these particles. If they could get these.
 
-Particles to leave and become a plasma state which was the state of matter at Big Bang, so they were actually verifying that the plasma state was possible. And I'm thinking like well what's the first thing that people make in civilization. It happens to be, you know, pottery, right they make it from the earth. And certain is thinking. About the nature of matter so there's this timeline between when you know humankind make something out of clay, which is, you know, the earliest stuff that we make. And then there's this consciousness about how we got there because we now understand that all of the clay that we come from starts out at a plasma stated Big Bang. So it was this kind of like crazy timeline. So, these are the cables it's it's certain. This is one of the chalkboards or drawings it says physics here if you could see this.
+Particles to leave and become a plasma state which was the state of matter at Big Bang, so they were actually verifying that the plasma state was possible. And I'm thinking like well what's the first thing that people make in civilization. It happens to be, you know, pottery, right they make it from the earth. And certain is thinking. About the nature of matter so there's this timeline between when you know humankind make something out of clay, which is, you know, the earliest stuff that we make. And then there's this consciousness about how we got there because we now understand that all of the clay that we come from starts out at a plasma stated Big Bang. So it was this kind of like crazy timeline. So, these are the cables it's certain. This is one of the chalkboards or drawings it says physics here if you could see this.
 
 These are some of the calculations to start up the collider. These are the wires and a piece of Neolithic pottery it's happens to be a Banpo M4 from 4000 BC. And this is the startup code. So this is the code to start up the clock I let's see if I can see anything here it's in C. I think it's written in C++. No, it's written in C++. It's written in Java. And this is the startup code written, I think by Steve Miller, along with the chalkboards that you see here. And, you know, the Neolithic pottery in the. So it's sort of like the timeline of human endeavor. And from the, you know, the earliest things that we make to the like incredible remove sense of, of being that we have now to understand that all of this started out with Big Bang. So I guess it was an ambitious timeline but that's what I was thinking.
 
@@ -351,7 +351,7 @@ Know. It was experiments in art and technology and people like Jasper Johns, Joh
 
 ## Roz Dimon [27:49](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1669s)
 
-Yes. Yeah, I think has continued that a little bit you know in recent times but yeah, go ahead. This is so so interesting.
+Yes. Yeah, I think has continued that a little bit you know in recent times but yeah, go ahead. This is so interesting.
 
 ## Steve Miller [27:57](https://www.youtube.com/watch?v=--L1ziEx3-A&t=1677s)
 
@@ -417,7 +417,7 @@ And he, and he valued them as data points and he aggregated that together to fig
 
 ## Roz Dimon [35:39](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2139s)
 
-Absolutely. I mean, we all know there are pieces that stun you for life or things that happen in an elevator that between you and another person, some kind word or something that happens that is in the realm of whether it's called the spiritual or the mystical that that goes beyond numbers. And to bring that together, that kind of art with data and have discussions about it, I don't know, could lead to another place.
+Absolutely. I mean, we all know there are pieces that stun you for life or things that happen in an elevator that between you and another person, some kind word or something that happens that is in the realm of whether it's called the spiritual or the mystical that goes beyond numbers. And to bring that together, that kind of art with data and have discussions about it, I don't know, could lead to another place.
 
 ## Steve Miller [36:03](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2163s)
 
@@ -507,15 +507,15 @@ Yeah. And now it's automatically set at 10%, although you could change it if you
 
 ## Roz Dimon [44:03](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2643s)
 
-So it's a real gallery. I'm in a gallery in New York right now. And I'm sure you're in several. But it's you know, it's you know, it's 50 percent always 50 percent. And, you know, of course, we know New York real estate. But, yeah, things are changing. And I think it's in an exciting way and kind of have the ups and downs. But it's been fascinating to talk. To you I I saw some of your work recently um in southampton some of your work that you did in the amazon with oh
+So it's a real gallery. I'm in a gallery in New York right now. And I'm sure you're in several. But it's you know, it's you know, it's 50 percent always 50 percent. And, you know, of course, we know New York real estate. But, yeah, things are changing. And I think it's in an exciting way and kind of have the ups and downs. But it's been fascinating to talk. To you I saw some of your work recently in southampton some of your work that you did in the amazon with oh
 
 ## Steve Miller [44:27](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2667s)
 
-Yeah yeah I
+Yeah I
 
 ## Roz Dimon [44:28](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2668s)
 
-Was in their their beauty
+Was in their beauty
 
 ## Unattributed [44:29](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2669s)
 
@@ -523,11 +523,11 @@ To
 
 ## Roz Dimon [44:30](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2670s)
 
-Me it's still about art and beauty um you know people may laugh at that but but no there still is something about a visual image that yes holds information but makes sense out of information in a way that is poetic and and beautiful and inspiring and it's I think there can be a new call for artists like for the new cave wall here where we can that whole data health
+Me it's still about art and beauty you know people may laugh at that but no there still is something about a visual image that yes holds information but makes sense out of information in a way that is poetic and beautiful and inspiring and it's I think there can be a new call for artists like for the new cave wall here where we can that whole data health
 
 ## Steve Miller [44:52](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2692s)
 
-Of the planet thing was taking x-rays you know the amazon so um this happens to be in someone's office in uh in new york so it's overlooking times square so it's just great to get these you're lucky to get these shots but this was the first sculpture and it was um the idea that you in a show at longhouse reserve where you had to um make a a planter put sculpture in it there's a more sophisticated way to talk about this but and I I decided to well I can't go maintain you know this thing over the summer and I said okay so my my thing is going to be this x-ray that's you know in a this happens to be another version in broadway I've
+Of the planet thing was taking x-rays you know the amazon so this happens to be in someone's office in new york so it's overlooking times square so it's just great to get these you're lucky to get these shots but this was the first sculpture and it was the idea that you in a show at longhouse reserve where you had to make a planter put sculpture in it there's a more sophisticated way to talk about this but and I decided to well I can't go maintain you know this thing over the summer and I said okay so my thing is going to be this x-ray that's you know in a this happens to be another version in broadway I've
 
 ## Roz Dimon [45:36](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2736s)
 
@@ -543,7 +543,7 @@ Know
 
 ## Steve Miller [45:39](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2739s)
 
-This was just a way to kind of look at the floor and and understand through technology that we could really get another view of of this fragile and beautiful and awesome natural you know environment that's being decimated um so I started to make a series of sculptures this
+This was just a way to kind of look at the floor and understand through technology that we could really get another view of this fragile and beautiful and awesome natural you know environment that's being decimated so I started to make a series of sculptures this
 
 ## Unattributed [46:00](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2760s)
 
@@ -551,7 +551,7 @@ Is
 
 ## Steve Miller [46:01](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2761s)
 
-Actually a a bush in brazil where I on the beach that and I just looked at the way it looked and these are leaves from the amazon that I did just embedded in in glass and then I silkscreened a book um about leaves and put it in the sculpture about leaves and these are just kind of a few details from the book in that sculpture yeah it was just really really fun to make these so you know I'm a book obsessed person and you know again you know maybe you're not like you're not it's not for me and it's not for you and it's not for me and it's not for Meryl we're all in the dialogue I don't know where my place in it is I see the beauty and I see the complexity this idea was that with the book you could pull the book out and and change it every day right and have kind of a different composition um so I was you know silkscreening into the books and uh this sort of gives you different ways you know that you can look at it and it's not so good it.
+Actually a bush in brazil where I on the beach that and I just looked at the way it looked and these are leaves from the amazon that I did just embedded in glass and then I silkscreened a book about leaves and put it in the sculpture about leaves and these are just kind of a few details from the book in that sculpture yeah it was just really fun to make these so you know I'm a book obsessed person and you know again you know maybe you're not like you're not it's not for me and it's not for you and it's not for me and it's not for Meryl we're all in the dialogue I don't know where my place in it is I see the beauty and I see the complexity this idea was that with the book you could pull the book out and change it every day right and have kind of a different composition so I was you know silkscreening into the books and this sort of gives you different ways you know that you can look at it and it's not so good it.
 
 So this is that same branch two years later, the same beach. And I decided to do it in color. The branch got a little bit bigger. I got a bird. A bird would come every day. I was like five feet from this and sit right there. So eventually I photographed it. I called this piece Branch Manager.
 
@@ -565,7 +565,7 @@ Then just another book, you know, a nature book and these wires are the wires in
 
 ## Roz Dimon [48:00](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2880s)
 
-It also was a little like a Chinese sort of, um, um, landscape in it somewhere.
+It also was a little like a Chinese sort of,, landscape in it somewhere.
 
 ## Steve Miller [48:06](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2886s)
 
@@ -577,7 +577,7 @@ So multi-layered.
 
 ## Steve Miller [48:26](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2906s)
 
-And this is just, um, this is a book that, uh, um, Al Gore, won the Nobel prize for, and I, I photographed on, you know, I silkscreened on every it's called the earth and balance, which you can see there. And I just silkscreened on every page of the book, you know, kind of different kind of environmental messages. You've got the rat in the stomach of the snake, you know, it's some kind of, you know, understanding of like what's going on in our culture and what's going on in the environment. So the stuff you saw this summer, I don't know that those are actually two shark and an Osprey that flies to the Amazon, right? We have Osprey out here. And after the first year, you know, at the end of the season, they fly down to the Amazon for a couple of years and they, they come back after they've had, um, you know, reached sexual maturity, you know, they hunt for a couple of years down in the Amazon, they, they grow, and then they come back North and they stay North.
+And this is just, this is a book that,, Al Gore, won the Nobel prize for, and I, I photographed on, you know, I silkscreened on every it's called the earth and balance, which you can see there. And I just silkscreened on every page of the book, you know, kind of different kind of environmental messages. You've got the rat in the stomach of the snake, you know, it's some kind of, you know, understanding of like what's going on in our culture and what's going on in the environment. So the stuff you saw this summer, I don't know that those are actually two shark and an Osprey that flies to the Amazon, right? We have Osprey out here. And after the first year, you know, at the end of the season, they fly down to the Amazon for a couple of years and they, they come back after they've had, you know, reached sexual maturity, you know, they hunt for a couple of years down in the Amazon, they, they grow, and then they come back North and they stay North.
 
 ## Roz Dimon [49:29](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2969s)
 
@@ -585,9 +585,9 @@ I didn't realize they, they went that far. I know the birds do, but I didn't kno
 
 ## Steve Miller [49:33](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2973s)
 
-Yeah, they go to, they actually go to the Amazon. So it's crazy. And then they fly back, right? This in the background, that, that, um, sort of like river is actually a land stat aerial view from a satellite of the Amazon river basin, right? So you've got the Amazon river, the snake, you know, the monkeys in the forest. So it's, it's just sort of this beautiful story that I liked it. You know, you've got like a leopard, swimming in water, just the story about how magnificent, um, the environment is, I guess I chose this page. It says snarled, right? You know, if you could read that. So it just shows you this complex world that we live in, right? The wires, you know, silkscreen on top of an orange x-ray of an orchid in a book with a, with an alligator that's swimming in this river that we're seeing from a satellite.
+Yeah, they go to, they actually go to the Amazon. So it's crazy. And then they fly back, right? This in the background, that, that, sort of like river is actually a land stat aerial view from a satellite of the Amazon river basin, right? So you've got the Amazon river, the snake, you know, the monkeys in the forest. So it's, it's just sort of this beautiful story that I liked it. You know, you've got like a leopard, swimming in water, just the story about how magnificent, the environment is, I guess I chose this page. It says snarled, right? You know, if you could read that. So it just shows you this complex world that we live in, right? The wires, you know, silkscreen on top of an orange x-ray of an orchid in a book with a, with an alligator that's swimming in this river that we're seeing from a satellite.
 
-And so I'm just trying to kind of put this together. So I'm going to stop here and I'll see you next time. You know, whole story together in different ways. Let's see if we can get to the bigger sculptures. You're powerful. Yeah. Thanks. This was a book about, you know, the Jamaican Rasta culture that's disappearing. And, um, and I called the book gold Rasta. It's the book that Richard Prince used that he got sued for called yes Rasta. And, um, I just, you know, again, like the hand grabbing the snake, it's like all of these, like, horses in conflict. And this was actually one of the very first ones where I took one of the alligators that I x-rayed in Brazil and the Amazon. I took actually a live alligator to, um, a hospital. And that made me think about these kinds of possibilities. Oh, this is in front of a museum, a Zaha Hadid building at Michigan state university.
+And so I'm just trying to kind of put this together. So I'm going to stop here and I'll see you next time. You know, whole story together in different ways. Let's see if we can get to the bigger sculptures. You're powerful. Yeah. Thanks. This was a book about, you know, the Jamaican Rasta culture that's disappearing. And, and I called the book gold Rasta. It's the book that Richard Prince used that he got sued for called yes Rasta. And, I just, you know, again, like the hand grabbing the snake, it's like all of these, like, horses in conflict. And this was actually one of the very first ones where I took one of the alligators that I x-rayed in Brazil and the Amazon. I took actually a live alligator to, a hospital. And that made me think about these kinds of possibilities. Oh, this is in front of a museum, a Zaha Hadid building at Michigan state university.
 
 It's called sloth Pieta.
 
@@ -597,15 +597,15 @@ And it's just, where's the Zaha Hadid? Where are we?
 
 ## Steve Miller [51:30](https://www.youtube.com/watch?v=--L1ziEx3-A&t=3090s)
 
-It's Michigan state university in Lansing. Eli Broad built the museum. He's, you know, there's a Broad museum in, um, Los Angeles. It's called, I think, and this is a museum that he built for his alma mater. He had Zaha Hadid, uh, you know, do the building. And then they put me in a, a sculpture commission, this for the, for the entrance.
+It's Michigan state university in Lansing. Eli Broad built the museum. He's, you know, there's a Broad museum in, Los Angeles. It's called, I think, and this is a museum that he built for his alma mater. He had Zaha Hadid, you know, do the building. And then they put me in a, a sculpture commission, this for the, for the entrance.
 
-And that's, um, another version where actually shot the sloth, right? Which is, this is a closeup of the, of the bullet hole through the heart of the sloth. It's just another way to sort of start telling this, this Amazon story. But if I can, so that led me to kind of move out. Let's see. Oh, I do have surfboards here. So it, it, it, you know, I started thinking about these trophies, that first alligator on a, on a piece of sheet of glass.
+And that's, another version where actually shot the sloth, right? Which is, this is a closeup of the, of the bullet hole through the heart of the sloth. It's just another way to sort of start telling this, this Amazon story. But if I can, so that led me to kind of move out. Let's see. Oh, I do have surfboards here. So it, it, it, you know, I started thinking about these trophies, that first alligator on a, on a piece of sheet of glass.
 
 These are piranhas from the Amazon river. And I just love the trophy value. And the idea of getting this story out into the world in a different kind of way, which is how I got involved with all of the designing fashion and scarves and, you know, different versions of this sort of trophy.
 
 ## Roz Dimon [52:44](https://www.youtube.com/watch?v=--L1ziEx3-A&t=3164s)
 
-Steve, because I'm recording to my, uh, hard drive here, um, it's starting to pulse up and on, and I don't want us to get caught.
+Steve, because I'm recording to my, hard drive here, it's starting to pulse up and on, and I don't want us to get caught.
 
 ## Steve Miller [52:52](https://www.youtube.com/watch?v=--L1ziEx3-A&t=3172s)
 
@@ -613,15 +613,15 @@ We've done enough. We've done enough.
 
 ## Roz Dimon [52:54](https://www.youtube.com/watch?v=--L1ziEx3-A&t=3174s)
 
-Fantastic. And I want to just talk for a minute before we, uh, in this particular session, uh, if you can just. You know, a little bit more about your interest in Techspressionism and, and where, where you see the future of art, what you're working on now and how you see the future. I know that's a large question.
+Fantastic. And I want to just talk for a minute before we, in this particular session, if you can just. You know, a little bit more about your interest in Techspressionism and, and where, where you see the future of art, what you're working on now and how you see the future. I know that's a large question.
 
 ## Steve Miller [53:12](https://www.youtube.com/watch?v=--L1ziEx3-A&t=3192s)
 
-Well, we've, we've kind of talked about it. I mean, I think the tech expression and his ideas that something that we, that that we previously thought like computers and NFT, like we, we have this idea, Oh, this is really cold. And this is without humanity and this is very mechanical, right? So it's something that very distances you from what we think about is like, let's just say Van Gogh, because that's obvious example. It's very tactile. It's physical. It's like a Carvel. You go up to one, you want to lick the painting. You want to touch it. You know, they're like, oh, you know, it looks like ice cream. And that's the sort of physical response that we have. And then, you know, you start to get these kind of emotional responses through something that's more impersonal. For example, Eve Klein, a long time ago, took some gold dust, threw it into the sand, and then the collector bought a contract that says, you know, Eve Klein through this, you know, so now you're holding, owning something, but that ownership tells you there was this physical gesture.
+Well, we've, we've kind of talked about it. I mean, I think the tech expression and his ideas that something that we, that we previously thought like computers and NFT, like we, we have this idea, Oh, this is really cold. And this is without humanity and this is very mechanical, right? So it's something that very distances you from what we think about is like, let's just say Van Gogh, because that's obvious example. It's very tactile. It's physical. It's like a Carvel. You go up to one, you want to lick the painting. You want to touch it. You know, they're like, oh, you know, it looks like ice cream. And that's the sort of physical response that we have. And then, you know, you start to get these kind of emotional responses through something that's more impersonal. For example, Eve Klein, a long time ago, took some gold dust, threw it into the sand, and then the collector bought a contract that says, you know, Eve Klein through this, you know, so now you're holding, owning something, but that ownership tells you there was this physical gesture.
 
 There was this precious thing that you flew. And so there's a whole lot of emotional content. You're throwing away gold and you, you know, so there's a lot of emotional content. And so you're throwing away gold and you, you know, so there's a lot of emotional content. You're this piece of paper that said that it happened.
 
-And then the same way with computers and, and even more with NFTs, it's like, well, there's, it's so mechanical, there's nothing material. And then you, you know, you start to understand an early Techspressionism, which might be like with me and Colin, where you have a computer image with a lot of paint splatter. It's trying to put these two worlds together in some way that understands there's a conjunction, and there's a collision that's happening. And, you know, so, so with, you know, with Techspressionism, it's obviously that there is emotional content with technology and with Techspressionism, you don't have to have splattered paint, which was, you know, we have all sorts of people that make purely digital stuff. And we would say that that digital file has emotional content. And then you, and most of the, I think the Techspressionists are just the majority of them actually use.
+And then the same way with computers and, and even more with NFTs, it's like, well, there's, it's so mechanical, there's nothing material. And then you, you know, you start to understand an early Techspressionism, which might be like with me and Colin, where you have a computer image with a lot of paint splatter. It's trying to put these two worlds together in some way that understands there's a conjunction, and there's a collision that's happening. And, you know, so, so with, you know, with Techspressionism, it's obviously that there is emotional content with technology and with Techspressionism, you don't have to have splattered paint, which was, you know, we have all sorts of people that make purely digital stuff. And we would say that digital file has emotional content. And then you, and most of the, I think the Techspressionists are just the majority of them actually use.
 
 Yeah. Printers and stuff. I know there's some people, I saw someone that used performance, you know, that's also going towards that notion of immateriality. But I think the whole future of art, there will always, will always be object makers. You know, it's just someone wants to take a totem pole, a piece of wood and carve a face on it, or an animal that's, that's never going to end. But I also think that there's this idea that you could do something that's purely digital, and it could really, you know, it could really, you know, it could really, you know, it could really touch you emotionally. So I think that's kind of where the future is going. There'll be a whole new world that can introduce total immateriality into the emotional space, into the culture space.
 

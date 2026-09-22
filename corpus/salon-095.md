@@ -55,7 +55,7 @@ Because Rachel just entered and welcome. I'm glad you're here. To all of you tal
 
 And so we started and love each other. And know why? Was in this group. We came up with the name Picture Element with a square in it. Cynthia Beth Rubin was in the group and some other artists, about eight of us I guess. And we met at each other's houses from like the late 80s to like I guess 94 or 95 and we showed together and it was so exciting to be part of something new where you really had a reason to share you know oh I'm using this or I'm using that and we went to, it was pretty hilarious because I look back at our pictures of us talking to each other on rotary phones, these huge computers.
 
-James was helping me set up things but I had to shoot the burglar camera to get my images off the screen and take them to the gal and you know I was so excited to have like 88 colors when the Amiga came along you know I was like whoa and so it's very exciting time but that community and meeting each other was that's the closest kind of subset I'd make since school, college, you know that happened in college. But I found the same thing as you did with Techspressionist and I'm very impressed with the level of the work that is going on and it's not just a group where everybody gets on from all parts of the world now and says oh I did this or I did that. I mean it's always great to share these things but it's more about seriously coming from that earnest place of discovery and and how you're responding to this new age both in subject matter and the way we do our work.
+James was helping me set up things but I had to shoot the burglar camera to get my images off the screen and take them to the gal and you know I was so excited to have like 88 colors when the Amiga came along you know I was like whoa and so it's very exciting time but that community and meeting each other was that's the closest kind of subset I'd make since school, college, you know that happened in college. But I found the same thing as you did with Techspressionist and I'm very impressed with the level of the work that is going on and it's not just a group where everybody gets on from all parts of the world now and says oh I did this or I did that. I mean it's always great to share these things but it's more about seriously coming from that earnest place of discovery and how you're responding to this new age both in subject matter and the way we do our work.
 
 So it's been very exciting. Yeah so that's my two cents and whoever else wants to carry on. It might be good to introduce ourselves because some people online or even here might not know us.
 
@@ -85,7 +85,7 @@ It really was exciting so yeah but then things kind of died 9-11 shot a lot of u
 
 ## Carla Gannis [08:13](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=493s)
 
-Yeah yeah I moved here in 1995 so So this year marks 30 years that I've been here. And as my practice has evolved. North Carolina originally.
+Yeah I moved here in 1995 so this year marks 30 years that I've been here. And as my practice has evolved. North Carolina originally.
 
 ## Unattributed [08:24](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=504s)
 
@@ -177,7 +177,7 @@ Did you call yourself Silicon Valley? Wasn't it? No.
 
 ## cari ann shim sham [12:53](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=773s)
 
-No, you didn't. Oh, you were underground. That was the more corporate part? It was all underground and yeah it was part of the raid culture the desert raves and then in the city the city hadn't gentrified yet so there were all these like warehouse parties and there were a lot of like pop-up galleries that were happening and um that at that time I was working in dance and performance and performance art and um just starting to work technology and cameras and video and all that kind of thing. But that community makes me think of this community as you were asking, like, was there ever another time? I think of that time was like this kind of golden era that was happening, the underground art scene in LA. And now I'm so grateful to be with the text question is and and I think the most pivotal thing for me has been the working group that every Tuesday, there's a place that I can go to and be present with other people intimately through zoom and have an hour that I commit to work on whatever I need to work on and then know that I have this group to give feedback.
+No, you didn't. Oh, you were underground. That was the more corporate part? It was all underground and yeah it was part of the raid culture the desert raves and then in the city the city hadn't gentrified yet so there were all these like warehouse parties and there were a lot of like pop-up galleries that were happening and that at that time I was working in dance and performance and performance art and just starting to work technology and cameras and video and all that kind of thing. But that community makes me think of this community as you were asking, like, was there ever another time? I think of that time was like this kind of golden era that was happening, the underground art scene in LA. And now I'm so grateful to be with the text question is and I think the most pivotal thing for me has been the working group that every Tuesday, there's a place that I can go to and be present with other people intimately through zoom and have an hour that I commit to work on whatever I need to work on and then know that I have this group to give feedback.
 
 It's that's incredible. That is such an interesting energy
 
@@ -251,7 +251,7 @@ Potty
 
 ## Unattributed [24:09](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1449s)
 
-요nogy and faculty member yet? Or no we need this she wasn't exactly exactly into horlingen because did your 독 의 mommy stop eating , baby?
+요nogy and faculty member yet? Or no we need this she wasn't exactly exactly into horlingen because did your 독 의 mommy stop eating, baby?
 
 ## Tommy Mintz [24:23](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1463s)
 
@@ -281,7 +281,7 @@ I wanted to see when Colin was talking about expressionism and one thing I love 
 
 ## Colin Goldberg [25:55](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1555s)
 
-Yes. So the initial definition, the sort of a mashup of technology and expressionism from the Oxford Dictionary. So it was an artistic style in which technology is utilized as a means to express emotional experience, not impressions of the outside world. So in our first salon, two important changes were made to that definition. Oz said, let's just get rid of this end part about it not being impressions of the outside world. Because, um, what about figurative work that can involve technology? Yeah. And Helen said, let's strike that word style and replace it with approach.
+Yes. So the initial definition, the sort of a mashup of technology and expressionism from the Oxford Dictionary. So it was an artistic style in which technology is utilized as a means to express emotional experience, not impressions of the outside world. So in our first salon, two important changes were made to that definition. Oz said, let's just get rid of this end part about it not being impressions of the outside world. Because, what about figurative work that can involve technology? Yeah. And Helen said, let's strike that word style and replace it with approach.
 
 ## Ann Shapiro [26:37](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1597s)
 
@@ -289,9 +289,9 @@ Yes, that was the.
 
 ## Colin Goldberg [26:38](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1598s)
 
-And so like, you know, movements of the past, if you think about it, are bound by a certain style to a large degree. You think about surrealism or cubism and you can tell how stylistically the different artists are related. Whereas I think her suggestion of using the word style, the word approach really opens it up to a much broader base of any artist using technology for personal expression. So I think that's what has actually given this legs. And I was actually speaking with, um, you know, about this recently, um, to another artist. And, and I see it as sort of like an almost like an onion where, uh, you know, it was actually in my conversation yesterday with Claudia Hart. And we're talking about the idea of community, versus movement, which is movement is something that I'm very hesitant to use as a, as a term.
+And so like, you know, movements of the past, if you think about it, are bound by a certain style to a large degree. You think about surrealism or cubism and you can tell how stylistically the different artists are related. Whereas I think her suggestion of using the word style, the word approach really opens it up to a much broader base of any artist using technology for personal expression. So I think that's what has actually given this legs. And I was actually speaking with, you know, about this recently, to another artist. And, and I see it as sort of like an almost like an onion where, you know, it was actually in my conversation yesterday with Claudia Hart. And we're talking about the idea of community, versus movement, which is movement is something that I'm very hesitant to use as a, as a term.
 
-But I think of the onion piece of it as the inner part of the onion is this community of people that are like showing up at the salons, you know, involved in physical exhibitions. And there's this outer layer of people used in the hashtag, which is how a lot of the artists are located. Renata, um, Januszewska is now the Instagram curator. And she locates people. A lot of times, through the use of the hashtag. And right now there's, I think 81,000 posts on Instagram using the hashtag from artists all over the world. So that outer part of the onion is actually very interesting to me because these are people that relate conceptually to the idea that aren't necessarily participating in the activities of the group. So, you know, it's, it's, yeah. And it's, I mean, you know, for me personally, it's only, it's turned into something that I could never have anticipated.
+But I think of the onion piece of it as the inner part of the onion is this community of people that are like showing up at the salons, you know, involved in physical exhibitions. And there's this outer layer of people used in the hashtag, which is how a lot of the artists are located. Renata, Januszewska is now the Instagram curator. And she locates people. A lot of times, through the use of the hashtag. And right now there's, I think 81,000 posts on Instagram using the hashtag from artists all over the world. So that outer part of the onion is actually very interesting to me because these are people that relate conceptually to the idea that aren't necessarily participating in the activities of the group. So, you know, it's, it's, yeah. And it's, I mean, you know, for me personally, it's only, it's turned into something that I could never have anticipated.
 
 And it's amazing to see, you know, all the artists here today, got it together and, you know, building this community.
 
@@ -305,7 +305,7 @@ Sorry. No, I'll go after you.
 
 ## Tommy Mintz [28:40](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1720s)
 
-But I'm going to say about onion or some sort of growing thing. Uh, I'm actually thinking of like bulbs and how they, uh, multiply under a ground. And then all of a sudden you have more sprouts and more plants. I'm thinking of like, right.
+But I'm going to say about onion or some sort of growing thing. I'm actually thinking of like bulbs and how they, multiply under a ground. And then all of a sudden you have more sprouts and more plants. I'm thinking of like, right.
 
 ## Unattributed [28:53](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1733s)
 
@@ -313,7 +313,7 @@ So, did Johnny, but yeah, I, there are international expressionism
 
 ## Tommy Mintz [28:58](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1738s)
 
-Nodes that you will. Right. But we also have this route that's in, you know, within and without sort of Venn diagram with Vigiana. Right. Some kid. Do you want to talk about digiana group and how similar or different .
+Nodes that you will. Right. But we also have this route that's in, you know, within and without sort of Venn diagram with Vigiana. Right. Some kid. Do you want to talk about digiana group and how similar or different.
 
 ## Seungjin Lee [29:17](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1757s)
 
@@ -335,17 +335,17 @@ Its digital... Digital right now. Yeah. Digital right now.
 
 ## Seungjin Lee [30:45](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1845s)
 
-Yeah. Collaboration between the tech person is, I think DGN and tech person have a common side. Yeah, definitely. Yeah. Because tech person is, like definition is using technology, but like it's playing the humans, you know, like inspiration or like emotional thing or technology, right? But the DGN means also, you know, using the digital and like non-digital effect, they definitely having something like a great emotional like even in Chrome. So that's why, you know, for me it's a very thankful thing to to join this time like a cooperation.
+Yeah. Collaboration between the tech person is, I think DGN and tech person have a common side. Yeah, definitely. Yeah. Because tech person is, like definition is using technology, but like it's playing the humans, you know, like inspiration or like emotional thing or technology, right? But the DGN means also, you know, using the digital and like non-digital effect, they definitely having something like a great emotional like even in Chrome. So that's why, you know, for me it's a very thankful thing to join this time like a cooperation.
 
 Yeah, yeah, big, big meaning for me. Yeah.
 
 ## Roz Dimon [31:40](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1900s)
 
-The thing about approach also that I've been thinking about lately is I heard someone say, oh, this is a different, it was in the New York Times, and said, oh, this is a different kind of show where the artist, she is not every, she doesn't have like one period of work. She has like, you know, 18. We're in a world I think in some ways expressions that opens it up to this fast growing moving. I mean, so much is coming in every day and you can react to so many things that I mean, I know I probably have I have this coffee cup that says why does Picasso you know, get nine periods and women only get five? One but you know what the fact is that was one of my little jokes but you know the truth is yeah but the truth is is that when I look back I I I asked the curators to get out there and really do the digging because there's a story that's happening but people are not just I mean it's okay if you stay with one style and you just obsess I mean art is obsession but I know for me that I've had a lot of different periods and doesn't mean I'm not focused it's just that I'm changing and I'm responding to a changing world and I think the fact that we have an approach and we're not just like the futurists you know which you could you know they all have a kind of style I think that's a kind of freedom and new whole thing that is that we're opening up here in a way and yet it's serious artists talking about serious discovery I mean I know that I'm glad we're a friendly group but it's certainly not therapy it's it's serious artists I've been very impressed with the level of the work that comes in you know to the group for the most part
+The thing about approach also that I've been thinking about lately is I heard someone say, oh, this is a different, it was in the New York Times, and said, oh, this is a different kind of show where the artist, she is not every, she doesn't have like one period of work. She has like, you know, 18. We're in a world I think in some ways expressions that opens it up to this fast growing moving. I mean, so much is coming in every day and you can react to so many things that I mean, I know I probably have I have this coffee cup that says why does Picasso you know, get nine periods and women only get five? One but you know what the fact is that was one of my little jokes but you know the truth is yeah but the truth is that when I look back I asked the curators to get out there and really do the digging because there's a story that's happening but people are not just I mean it's okay if you stay with one style and you just obsess I mean art is obsession but I know for me that I've had a lot of different periods and doesn't mean I'm not focused it's just that I'm changing and I'm responding to a changing world and I think the fact that we have an approach and we're not just like the futurists you know which you could you know they all have a kind of style I think that's a kind of freedom and new whole thing that is that we're opening up here in a way and yet it's serious artists talking about serious discovery I mean I know that I'm glad we're a friendly group but it's certainly not therapy it's serious artists I've been very impressed with the level of the work that comes in you know to the group for the most part
 
 ## Tommy Mintz [33:12](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=1992s)
 
-I think that's interesting that we're using this technology to create the work but I think it's um in a way that questions the technology and doesn't just say it's all right right uh or you know taking it apart making glitch out of whatever it is that we're questioning the underlying tools that we're using that you know come from somewhere else actually come from the business world in a funny way and really be first um one of the other things that I want to return to and what you're saying is um and Colin brought up is this idea of um the language of Techspressionism reflected impressionism and the Impressionists right if we look back on that group were first of all um the people who weren't exhibiting in the official salons and brands at that time the government said hey here's the official artists and then the ones who weren't and with the polished style at the time making this sort of more revolutionary work were the Impressionists but who were the Impressionists is another question is it only those artists who participated in the those
+I think that's interesting that we're using this technology to create the work but I think it's in a way that questions the technology and doesn't just say it's all right or you know taking it apart making glitch out of whatever it is that we're questioning the underlying tools that we're using that you know come from somewhere else actually come from the business world in a funny way and really be first one of the other things that I want to return to and what you're saying is and Colin brought up is this idea of the language of Techspressionism reflected impressionism and the Impressionists right if we look back on that group were first of all the people who weren't exhibiting in the official salons and brands at that time the government said hey here's the official artists and then the ones who weren't and with the polished style at the time making this sort of more revolutionary work were the Impressionists but who were the Impressionists is another question is it only those artists who participated in the those
 
 ## Unattributed [34:16](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2056s)
 
@@ -353,11 +353,11 @@ Shows or is it the
 
 ## Tommy Mintz [34:19](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2059s)
 
-And some very prominent I was not in that show I'm mixing it up or is it use of the style that defines an impressionism um not all Impressionists in that show were using that same style and I think thinking about the wide uh sweep of Impressionism and how that redefined is thought of themselves and comparing that to I think how expressionism can allow us to redefine how we think of ourselves in relation to and people saying oh you know painting is the way that art you know defines itself in the you know galleries here in this neighborhood 97 of sales is painting right what is it that we're so our comparison is where that salon if you will of refusage but not just that group if you think of our internal show here maybe as a comparison to that there's all of these other artists that are using the hashtag that are using these tools and ideas that are well beyond so I think it's a really interesting comparison to think about the maybe inner circle and outer circles or whatever you're saying and and compare that to movements and groups of the past and
+And some very prominent I was not in that show I'm mixing it up or is it use of the style that defines an impressionism not all Impressionists in that show were using that same style and I think thinking about the wide sweep of Impressionism and how that redefined is thought of themselves and comparing that to I think how expressionism can allow us to redefine how we think of ourselves in relation to and people saying oh you know painting is the way that art you know defines itself in the you know galleries here in this neighborhood 97 of sales is painting right what is it that we're so our comparison is where that salon if you will of refusage but not just that group if you think of our internal show here maybe as a comparison to that there's all of these other artists that are using the hashtag that are using these tools and ideas that are well beyond so I think it's a really interesting comparison to think about the maybe inner circle and outer circles or whatever you're saying and compare that to movements and groups of the past and
 
 ## Carla Gannis [35:34](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2134s)
 
-Well where's the monster mind when you were talking about the the onion and the outer layer is zeitgeist too and and I think that this could be a zeitgeist moment I remember several years ago or it was just like two years ago at the Metropolitan Museum they had a surrealist show representing all these works that we weren't familiar with in the global South and so you know the one thing with the hashtags that represents that there is this zeitgeist moment where people are tapping in to you know the expressionism that is possible with these you know industry Technologies and also you know that more and more when I first quit painting and started working digitally I felt like I just had to be working virtually basically and I have increasingly adopted a very hybrid approach that you call it digital the you know the analog to digital and I really do feel like there's a zeitgeist moment where whether people are you know in this group group or not they are kind of connecting to these things in a way that is relative yeah also have the notion of self-definition
+Well where's the monster mind when you were talking about the onion and the outer layer is zeitgeist too and I think that this could be a zeitgeist moment I remember several years ago or it was just like two years ago at the Metropolitan Museum they had a surrealist show representing all these works that we weren't familiar with in the global South and so you know the one thing with the hashtags that represents that there is this zeitgeist moment where people are tapping in to you know the expressionism that is possible with these you know industry Technologies and also you know that more and more when I first quit painting and started working digitally I felt like I just had to be working virtually basically and I have increasingly adopted a very hybrid approach that you call it digital the you know the analog to digital and I really do feel like there's a zeitgeist moment where whether people are you know in this group group or not they are kind of connecting to these things in a way that is relative yeah also have the notion of self-definition
 
 ## Ann Shapiro [36:36](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2196s)
 
@@ -369,11 +369,11 @@ Self-identification aspect is something that to me is a little bit of a differen
 
 ## Carla Gannis [37:32](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2252s)
 
-What happens in the Techspressionism Club stays in the tech press Russianism okay I just love yeah yeah
+What happens in the Techspressionism Club stays in the tech press Russianism okay I just love yeah
 
 ## Roz Dimon [37:42](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2262s)
 
-Yeah I also think it's interesting we want to dialogue we have like we come up with topics you know for the our zooms uh our monthly meetings now it used to be bi-weekly during the pandemic but I was having a conversation with an editor from Smithsonian and a painter friend of mine recently Paul Trachman and I was so I mean no this is a few years ago but I was going oh my gosh Paul I mean the amount of layers that I can put in a digital I still call it paint I'm still doing still paintings that are like layers and layers and layers and layers and layers and layers and layers and layers deep and there's just no end to how much can go into this screen and I said and it's amazing he said well Ross if you ever looked like if you look up close at an oil painting you'll see you can see a lot going on in that one little you know lots of stuff so I love that kind of interchange between history and now like we come from a history and I think I think that'd be a good thing for us to keep bridging into a little as we go further because you can't just come out of nowhere you know um tying ourselves to the larger historic moments and comparing and contrasting as we are today like what's the difference between you know maybe a futurist and a expressions but I just think that that kind of dialing is so good because we're all we're we're tied together to history and that's what makes a movement you know if you have to have that I think to have some bravitas like your garden of Berkeley lines oh
+Yeah I also think it's interesting we want to dialogue we have like we come up with topics you know for the our zooms our monthly meetings now it used to be bi-weekly during the pandemic but I was having a conversation with an editor from Smithsonian and a painter friend of mine recently Paul Trachman and I was so I mean no this is a few years ago but I was going oh my gosh Paul I mean the amount of layers that I can put in a digital I still call it paint I'm still doing still paintings that are like layers and layers and layers and layers and layers and layers and layers and layers deep and there's just no end to how much can go into this screen and I said and it's amazing he said well Ross if you ever looked like if you look up close at an oil painting you'll see you can see a lot going on in that one little you know lots of stuff so I love that kind of interchange between history and now like we come from a history and I think I think that'd be a good thing for us to keep bridging into a little as we go further because you can't just come out of nowhere you know tying ourselves to the larger historic moments and comparing and contrasting as we are today like what's the difference between you know maybe a futurist and a expressions but I just think that kind of dialing is so good because we're all we're tied together to history and that's what makes a movement you know if you have to have that I think to have some bravitas like your garden of Berkeley lines oh
 
 ## Unattributed [39:04](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2344s)
 
@@ -381,11 +381,11 @@ Yeah oh my
 
 ## Roz Dimon [39:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2347s)
 
-Gosh I saw it in the softbee show was so fantastic this animated um and but it was so uh all your own and very um it was really quite pivotal you know but it was nice to see something historic we imagined reimagined remixed the garden of Berkeley still with us always yeah okay
+Gosh I saw it in the softbee show was so fantastic this animated and but it was so all your own and very it was really quite pivotal you know but it was nice to see something historic we imagined reimagined remixed the garden of Berkeley still with us always yeah okay
 
 ## Seungjin Lee [39:29](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2369s)
 
-Can I talk about today I'm very interested about like everyone talking about like like take place of easel you know like a robot either or like something later inside or like how people see the like artwork thing because you know I'm from Asia like actually I'm born in South Korea but I used to live in Japan a long time like almost 10 years then I come to New York then I really realize there's so many like different approach to when people like you know like the uh handle about the digital or when people see the artwork like you know for example like basically Japanese scene people think about like a digital it's kind of like a like a reason Shinto is like thousands of reasons you know so they don't put like a digital concept also like a lady it's like just a feel of like just a reason because they're basically like a personality from the like naturalism so they say like a digital naturalism they don't see it or just like not late when we see here like a digital style like people say like when they're like a digital concept painting oh it's from the like expressionism and then cubism then like later like a pop art scene and digital things like people say like more logical so and
+Can I talk about today I'm very interested about like everyone talking about like take place of easel you know like a robot either or like something later inside or like how people see the like artwork thing because you know I'm from Asia like actually I'm born in South Korea but I used to live in Japan a long time like almost 10 years then I come to New York then I really realize there's so many like different approach to when people like you know like the handle about the digital or when people see the artwork like you know for example like basically Japanese scene people think about like a digital it's kind of like a like a reason Shinto is like thousands of reasons you know so they don't put like a digital concept also like a lady it's like just a feel of like just a reason because they're basically like a personality from the like naturalism so they say like a digital naturalism they don't see it or just like not late when we see here like a digital style like people say like when they're like a digital concept painting oh it's from the like expressionism and then cubism then like later like a pop art scene and digital things like people say like more logical so and
 
 ## Carla Gannis [40:59](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2459s)
 
@@ -397,7 +397,7 @@ The Western
 
 ## Colin Goldberg [41:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2467s)
 
-Approach yeah like Shinto I mean correct me if I'm wrong but I think you know my understanding is that there isn't necessarily a distinction between things that are man-made versus natural that it's all natural so I think that idea that maybe there isn't really a boundary like we're immersed in a digital society culture at this point you know so like even artists who completely work with paint ultimately they have to take digital photographs publish it on this global telecommunications Network right to get their work out there so it's it's embedded in so many things and you know when you brought up Shinto it kind of made me think about that that concept you know it's really interesting it's
+Approach yeah like Shinto I mean correct me if I'm wrong but I think you know my understanding is that there isn't necessarily a distinction between things that are man-made versus natural that it's all natural so I think that idea that maybe there isn't really a boundary like we're immersed in a digital society culture at this point you know so like even artists who completely work with paint ultimately they have to take digital photographs publish it on this global telecommunications Network right to get their work out there so it's embedded in so many things and you know when you brought up Shinto it kind of made me think about that concept you know it's really interesting it's
 
 ## cari ann shim sham [41:52](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2512s)
 
@@ -409,11 +409,11 @@ Text question and I kind of even visceral you know I think
 
 ## Seungjin Lee [42:25](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2545s)
 
-Like today's our nowadays world is very interesting complicated world because I also do like side job in the tourism in Metro Museum or Korean people and Japanese people so almost two years I've been doing tour tourism and I always notice Metropolitan Museum they do a really good creation like special exhibition and event but recently they what they do is more opposed side of like like Asian art or like a block rock people you know like African star art or yeah like more you know like a not famous Countryside art or like I'm sorry for the resolution to speak but but I think like here like American based like a like a Western art history is more Western like a logical approach like from the MoMA and you know like they have like you know like inspirationism like Judaism pop art like more Western but nowadays they approach like outside or like Western side but for me is it's a little bit weird because here's America but why I see my Korean art or the Metro for example is not the same as the American art world but it's not the same as the New York why I see you know like so where's going on the cheers you know like Western basically like art ministry and what people think about the like a new digital form you know like for me is really really something complicated like a like here's New York what is the mainstream in your nowadays what
+Like today's our nowadays world is very interesting complicated world because I also do like side job in the tourism in Metro Museum or Korean people and Japanese people so almost two years I've been doing tour tourism and I always notice Metropolitan Museum they do a really good creation like special exhibition and event but recently they what they do is more opposed side of like Asian art or like a block rock people you know like African star art or yeah like more you know like a not famous Countryside art or like I'm sorry for the resolution to speak but I think like here like American based like a like a Western art history is more Western like a logical approach like from the MoMA and you know like they have like you know like inspirationism like Judaism pop art like more Western but nowadays they approach like outside or like Western side but for me is it's a little bit weird because here's America but why I see my Korean art or the Metro for example is not the same as the American art world but it's not the same as the New York why I see you know like so where's going on the cheers you know like Western basically like art ministry and what people think about the like a new digital form you know like for me is really something complicated like a like here's New York what is the mainstream in your nowadays what
 
 ## Unattributed [44:05](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2645s)
 
-Is the major that's a good question yeah yeah that's
+Is the major that's a good question yeah that's
 
 ## Carla Gannis [44:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2647s)
 
@@ -433,7 +433,7 @@ Just like it
 
 ## Carla Gannis [44:14](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2654s)
 
-Used to be it also is difficult to find or or kind of understand counterculture because counterculture because we're so mediated gets kind of subsumed and then we see all these brands who have kind of adopted the aesthetics or the style or the language of counterculture and you're like wait does counterculture and what is mainstream and yeah it's gotten very common there
+Used to be it also is difficult to find or kind of understand counterculture because counterculture because we're so mediated gets kind of subsumed and then we see all these brands who have kind of adopted the aesthetics or the style or the language of counterculture and you're like wait does counterculture and what is mainstream and yeah it's gotten very common there
 
 ## Unattributed [44:37](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2677s)
 
@@ -441,7 +441,7 @@ And
 
 ## Carla Gannis [44:37](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2677s)
 
-And then in you know museums and their curatorial works I mean I think it has been important for them to expand outside of the Western canon you know as the internet has connected us globally we should be seeing that art represented in these institutions you know yeah yeah but but then it's like oh well who you know that there used to be Andy Warhol or there were these people who were as famous as the Beatles and now it you know it's more diffuse yeah you
+And then in you know museums and their curatorial works I mean I think it has been important for them to expand outside of the Western canon you know as the internet has connected us globally we should be seeing that art represented in these institutions you know yeah but then it's like oh well who you know that there used to be Andy Warhol or there were these people who were as famous as the Beatles and now it you know it's more diffuse yeah you
 
 ## Roz Dimon [45:04](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2704s)
 
@@ -449,11 +449,11 @@ Get five seconds now
 
 ## Unattributed [45:05](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2705s)
 
-Yeah yeah yeah yeah
+Yeah
 
 ## Roz Dimon [45:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2707s)
 
-It really really really does redefine fame and all sorts of things the democratization along with this movement is is amazing you know and yet and yet I do still feel we're kind of rising to some new visual language that we're all a part of and kind of suffering from too I mean you know it's English I don't know I always call the new Gutenberg press of imagery but I think we're there I mean you see so many more images every day than used to not you know you would I couldn't wait to go with my parents to a museum and see art and
+It really does redefine fame and all sorts of things the democratization along with this movement is amazing you know and yet and yet I do still feel we're kind of rising to some new visual language that we're all a part of and kind of suffering from too I mean you know it's English I don't know I always call the new Gutenberg press of imagery but I think we're there I mean you see so many more images every day than used to not you know you would I couldn't wait to go with my parents to a museum and see art and
 
 ## Unattributed [45:38](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2738s)
 
@@ -461,7 +461,7 @@ Now
 
 ## Roz Dimon [45:38](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2738s)
 
-I see so much work you know and and I feel like what we're doing is speaking to that in a way the community thing is another way to give that some bloom and give it some meaning and storytelling of course we're all talking about that a lot making stories from images of images of images and from community and it's doing these images because otherwise it's just a big it's like a big morass you know
+I see so much work you know and I feel like what we're doing is speaking to that in a way the community thing is another way to give that some bloom and give it some meaning and storytelling of course we're all talking about that a lot making stories from images of images of images and from community and it's doing these images because otherwise it's just a big it's like a big morass you know
 
 ## Unattributed [45:59](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2759s)
 
@@ -469,19 +469,19 @@ Yeah chaos
 
 ## Roz Dimon [46:00](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2760s)
 
-So I think artists who are in this field have a huge role to play you know um uh I don't know I call it sometimes the new shaman so it doesn't mean that your work has to be about peace and love but um but that but that it is a way of us helping usher in this new visualization that is is is taking over in a way a new kind of hieroglyphics so a hundred years
+So I think artists who are in this field have a huge role to play you know I don't know I call it sometimes the new shaman so it doesn't mean that your work has to be about peace and love but that but that it is a way of us helping usher in this new visualization that is taking over in a way a new kind of hieroglyphics so a hundred years
 
 ## Tommy Mintz [46:22](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2782s)
 
-Ago right sort of the beginning of modernism maybe previous 110 years ago and I think what brought that about was technology of transportation and movement of people and goods around from you know Asia and Africa to the European cities where artists then saw these masks and incorporated them in their work very infamously right um today are we having a similar expansion of our visual knowledge base if you will that we could then make sense of as artists in this new mode of transportation that's now just images or just digital yeah makes sense yeah to
+Ago right sort of the beginning of modernism maybe previous 110 years ago and I think what brought that about was technology of transportation and movement of people and goods around from you know Asia and Africa to the European cities where artists then saw these masks and incorporated them in their work very infamously right today are we having a similar expansion of our visual knowledge base if you will that we could then make sense of as artists in this new mode of transportation that's now just images or just digital yeah makes sense yeah to
 
 ## cari ann shim sham [47:04](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2824s)
 
-Make meaning of life right to understand uh art um offers us this abstraction and right now we're missing ritual we're missing we're missing great we're missing gathering we're missing community and so I feel like people are really turning to art and it can become like the new religion you're talking a lot about religion I feel like I feel like people are falling away from religion so then they fall into art and and that's where art can like provide probably a new space or a new way of having that connection and understanding of what it means to be human
+Make meaning of life right to understand art offers us this abstraction and right now we're missing ritual we're missing we're missing great we're missing gathering we're missing community and so I feel like people are really turning to art and it can become like the new religion you're talking a lot about religion I feel like I feel like people are falling away from religion so then they fall into art and that's where art can like provide probably a new space or a new way of having that connection and understanding of what it means to be human
 
 ## Ann Shapiro [47:56](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2876s)
 
-And I I yeah that's it yeah beautiful that's kind of fun yeah yeah
+And I yeah that's it yeah beautiful that's kind of fun yeah
 
 ## Roz Dimon [48:09](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2889s)
 
@@ -489,11 +489,11 @@ I mean
 
 ## Tommy Mintz [48:11](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2891s)
 
-Um well I think this goes until one we're up till 1 30 on Zoom but did you want maybe we open up to the audience yeah I've
+Well I think this goes until one we're up till 1 30 on Zoom but did you want maybe we open up to the audience yeah I've
 
 ## Carla Gannis [48:20](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=2900s)
 
-Been seeing that there's there are all sorts of things coming going on in the chat so I can't wait to hear from the audience but the one thing I was going to say too is that I think sometimes we were talking about lineages and often art history and then kind of new media digital art those timelines get bifurcated and and certain people aren't making those connections between like Saul Whitt you know where he's giving instructions that humans are abiding by and then you know artists Horatzko or various artists from that time are typing the instructions but it's a very similar practice ultimately and that you know what has been exciting is to see these convergences where people from outside of maybe this community are starting to understand that we've always been part of you know this artistic timeline and our artists I mean the invention of two paints revolutionized forward recent alter graphics along with massive technological innovations actually painting and and really that's why the impressionists were no longer tethered to the studio and they started thinking about optics and the impressions of light and atmosphere yeah and so that revolutionized its science to you know um einstein at the turn of the century where people are you know I think cubism kind of developed out of that thinking about dimensionally time and space outside of newtonian frameworks and so you know art has always you know and of course the polymath leonardo da vinci you know where he is already building a robotic knight in like 1492 and so to think that art and science and technology and culture have ever been something that we're not linked is so absurd and it seems like we are a natural outgrowth using the tools of our time to respond you know in this this emotional way and so instead of it being some kind of cold hard you know technology just for capitalism and industry we redefine the world it so that it can actually resonate
+Been seeing that there's there are all sorts of things coming going on in the chat so I can't wait to hear from the audience but the one thing I was going to say too is that I think sometimes we were talking about lineages and often art history and then kind of new media digital art those timelines get bifurcated and certain people aren't making those connections between like Saul Whitt you know where he's giving instructions that humans are abiding by and then you know artists Horatzko or various artists from that time are typing the instructions but it's a very similar practice ultimately and that you know what has been exciting is to see these convergences where people from outside of maybe this community are starting to understand that we've always been part of you know this artistic timeline and our artists I mean the invention of two paints revolutionized forward recent alter graphics along with massive technological innovations actually painting and really that's why the impressionists were no longer tethered to the studio and they started thinking about optics and the impressions of light and atmosphere yeah and so that revolutionized its science to you know einstein at the turn of the century where people are you know I think cubism kind of developed out of that thinking about dimensionally time and space outside of newtonian frameworks and so you know art has always you know and of course the polymath leonardo da vinci you know where he is already building a robotic knight in like 1492 and so to think that art and science and technology and culture have ever been something that we're not linked is so absurd and it seems like we are a natural outgrowth using the tools of our time to respond you know in this emotional way and so instead of it being some kind of cold hard you know technology just for capitalism and industry we redefine the world it so that it can actually resonate
 
 ## Colin Goldberg [50:10](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3010s)
 
@@ -505,7 +505,7 @@ And
 
 ## Colin Goldberg [50:31](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3031s)
 
-Photography galleries were segregated yeah just like digital galleries are segregated yeah! And eventually people like cindy sherman decided I'm an artist not a photographer right um and happened to use the camera and I think we're you know moving in the direction where the technology isn't the important part it's what is said with it yeah yeah
+Photography galleries were segregated yeah just like digital galleries are segregated yeah! And eventually people like cindy sherman decided I'm an artist not a photographer right and happened to use the camera and I think we're you know moving in the direction where the technology isn't the important part it's what is said with it yeah
 
 ## Unattributed [50:56](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3056s)
 
@@ -525,7 +525,7 @@ All right all right all right do we have a chat coming here?
 
 ## Tommy Mintz [51:07](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3067s)
 
-Oh yeah there's such a whole room yeah so on the chat we have some messages I'm gonna start up at the top hello bernetta hello everybody hello arielle hello cynthia hello marilyn patrickق nochmal easter eggs relax gosh absolutely obviously yes yes yes online art community based in spaces beyond Zoom. Right. And I absolutely, we're not tethered to that one thing.
+Oh yeah there's such a whole room yeah so on the chat we have some messages I'm gonna start up at the top hello bernetta hello everybody hello arielle hello cynthia hello marilyn patrickق nochmal easter eggs relax gosh absolutely obviously yes online art community based in spaces beyond Zoom. Right. And I absolutely, we're not tethered to that one thing.
 
 Co-working space registration. Yeah. Are there questions from the audience that you could raise a hand and, you know, unmute yourself if you want. Oh, we have a nice typed in thing here. One last thing. Tintin 23X said, my question for the panel relates to the something, the use and function of NFTs. Oh, it just disappeared again. And prominent since 2021. Why do you think their use as a digital provenance has not been fully implemented and or accepted for both physical and digital works, especially for those mediums, sorry, video art and digital photography, which have long lacked uniqueness. That's in quotes as described in Walter Benjamin's essay, the work of art. In the age of mechanical reproduction, which we all love.
 
@@ -535,13 +535,13 @@ So any, any ideas on why that NFT technology has not been fully embraced? Is tha
 
 Yeah. I mean, I, I, I've been participating since 2021 on different blockchain networks and working with curators and. Being involved in shows and even, you know, mentioning some of my own work because I am generally like, I think all of you, I'm an early adopter of, of things, if not technologies also, you know, just this idea of new ways of.
 
-With legitimizing, you know, a work and I read photography, even etching lithographs. I mean, these were all things dealing with multiples. And so I have been selling digital work for, you know, over 25 years as. Limited editions and I'm ethical about it and I don't print more or produce more if they're sold out. But I think that that still has been like with any kind of new technological art medium difficult for valuables collectors or certain galleries for people to just either.
+With legitimizing, you know, a work and I read photography, even etching lithographs. I mean, these were all things dealing with multiples. And so I have been selling digital work for, you know, over 25 years as. Limited editions and I'm ethical about it and I don't print more or produce more if they're sold out. But I think that still has been like with any kind of new technological art medium difficult for valuables collectors or certain galleries for people to just either.
 
-Understand their parts. And so NFTs what I felt for a lot of young digital artists, particularly who are working day jobs in industry because they have to support it. Or those of us who. Teach you know we always have to have two three or more jobs to support our art practice because it has been more difficult to monetize this kind of work and so I saw that as you know some new possibilities but but there have been some outbursts of it that are more feel more nefarious and that has been one reason why I haven't just fully like I'm going to put everything in the blockchain because it just seems like oh it's going to be decentralized but then you see that it's actually reflecting um some of the negative things we've seen in the traditional art as well yeah
+Understand their parts. And so NFTs what I felt for a lot of young digital artists, particularly who are working day jobs in industry because they have to support it. Or those of us who. Teach you know we always have to have two three or more jobs to support our art practice because it has been more difficult to monetize this kind of work and so I saw that as you know some new possibilities but there have been some outbursts of it that are more feel more nefarious and that has been one reason why I haven't just fully like I'm going to put everything in the blockchain because it just seems like oh it's going to be decentralized but then you see that it's actually reflecting some of the negative things we've seen in the traditional art as well yeah
 
 ## Colin Goldberg [55:05](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3305s)
 
-I mean to me like I remember when I actually learned how to mint through one of the artists came into the group andrea bonchetta who he created an nft with sophia which was a robot it was handsome labs I think oh yeah yeah
+I mean to me like I remember when I actually learned how to mint through one of the artists came into the group andrea bonchetta who he created an nft with sophia which was a robot it was handsome labs I think oh yeah
 
 ## Unattributed [55:19](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3319s)
 
@@ -549,7 +549,7 @@ And
 
 ## Colin Goldberg [55:20](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3320s)
 
-Handsome robots handsome robots right right and um to me like the nft phenomenon upends the traditional you economic structure of the art world that is the artists were the first ones to understand it and minting their own work allowed them to sell directly to collectors and circumvent the gallery system right and then gallerists didn't really know how to handle that like do they mint the work um how does it split you know and the splitting you know happens mechanically just like the royalty payout happens mechanically through a smart contract so I feel like the ability for artists to interact directly with the collectors you know is a threat to the art world as it stands and that's one reason it hasn't ever been adopted and also one thing that I think is really interesting about the nft scene is the majority of collectors are artists like artists that sell work you know for the most part take it and buy work of other artists especially on pesos where the work is affordable um and I think all of that um you know there's a lot of risk say every artist where there's an exploitative the only reason that everyone, you know, the sort of mainstream heard about NFTs was because of people.
+Handsome robots handsome robots right and to me like the nft phenomenon upends the traditional you economic structure of the art world that is the artists were the first ones to understand it and minting their own work allowed them to sell directly to collectors and circumvent the gallery system right and then gallerists didn't really know how to handle that like do they mint the work how does it split you know and the splitting you know happens mechanically just like the royalty payout happens mechanically through a smart contract so I feel like the ability for artists to interact directly with the collectors you know is a threat to the art world as it stands and that's one reason it hasn't ever been adopted and also one thing that I think is really interesting about the nft scene is the majority of collectors are artists like artists that sell work you know for the most part take it and buy work of other artists especially on pesos where the work is affordable and I think all of that you know there's a lot of risk say every artist where there's an exploitative the only reason that everyone, you know, the sort of mainstream heard about NFTs was because of people.
 
 And the only reason they heard of people was because of the number of zeros after, you know, in the price tag of the work. So that's when like, you know, it gets a headline, however much it's sold for. And then all of a sudden you're like, what is this thing? You know, and then the galleries and the auction houses started taking note of it, which is.
 
@@ -605,7 +605,7 @@ So this is a big deal. And you can't keep track of that. Exactly. And there's no
 
 ## cari ann shim sham [01:01:46](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3706s)
 
-Yesterday I went to the beach and 11 pieces of my work for dance prompts, this, um, AI generative piece that I made on M props sold on secondary. And when I got home, there was, and it was like, that's amazing.
+Yesterday I went to the beach and 11 pieces of my work for dance prompts, this, AI generative piece that I made on M props sold on secondary. And when I got home, there was, and it was like, that's amazing.
 
 ## Colin Goldberg [01:02:02](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=3722s)
 
@@ -769,7 +769,7 @@ Those are, I guess, those distinctions. Yeah.
 
 ## Colin Goldberg [01:10:46](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4246s)
 
-Yeah. Yes, I actually think, you know. Yeah. In the end, the majority of the ways people in general are affected by AI isn't artists, like, social style trading around systems. It's meta, Google, like... Proprietary. The biggest corporations in the world using AI to affect the population in a commercial way. Yeah. And that's frightening. You know? No one can deny that that's frightening.
+Yeah. Yes, I actually think, you know. Yeah. In the end, the majority of the ways people in general are affected by AI isn't artists, like, social style trading around systems. It's meta, Google, like... Proprietary. The biggest corporations in the world using AI to affect the population in a commercial way. Yeah. And that's frightening. You know? No one can deny that's frightening.
 
 ## Roz Dimon [01:11:13](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4273s)
 
@@ -875,7 +875,7 @@ Right?
 
 ## Nina Sobell [01:18:29](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4709s)
 
-Like there was always something very competitive about everything we were using for value across huge existing assets is . Are pieces incredibly and you know I'm happy to have her here today so there's a there's
+Like there was always something very competitive about everything we were using for value across huge existing assets is. Are pieces incredibly and you know I'm happy to have her here today so there's a there's
 
 ## Tommy Mintz [01:18:46](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4726s)
 
@@ -883,7 +883,7 @@ A qr code above that
 
 ## Roz Dimon [01:18:49](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4729s)
 
-Plays the link in this question about the qr code oh the qr code um the qr code actually will animate if you click on the qr code um it will animate the the portrait of lincoln that you see below it so
+Plays the link in this question about the qr code oh the qr code the qr code actually will animate if you click on the qr code it will animate the portrait of lincoln that you see below it so
 
 ## Tommy Mintz [01:19:04](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4744s)
 
@@ -895,4 +895,4 @@ Tommy thank you thank you thank you
 
 ## Colin Goldberg [01:19:48](https://www.youtube.com/watch?v=LntR7Bo5jmA&t=4788s)
 
-Thank you I just want to continue hanging out on zoom for the after party please feel free um and we will stop recording three two one
+Thank you I just want to continue hanging out on zoom for the after party please feel free and we will stop recording three two one

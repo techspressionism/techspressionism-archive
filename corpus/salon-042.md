@@ -157,7 +157,7 @@ She's here.
 
 I'm here. And you can see them behind me too in the great 3D walkthrough that anyone can use by going to the Techspressionism.com website. And these are four pastel drawings that are based actually on AI artwork that were created with a dataset that I put together myself with images of my own artwork. And I'm going to show you a few of them. Okay. So this is a photo of me and photographs of airplanes that I got off the web. And they sort of fight against each other in an AI process called a GAN. And they ended up making these really crazy compositions that looked like airplane crashes and UFOs. And I loved the compositions, but they were very low resolution, only 256 pixels across. So my solution was to blow them up and make them into pastel drawings. And it was fun using sort of cutting edge technology on one hand, but then rendering it with a very, very high resolution.
 
-And I media for the final output and I'm going to be talking more about that whole process and and my artwork and digital and analog on Tuesday May 3rd at 6 pm if you want to hear a whole lot more about my process thanks and
+And I media for the final output and I'm going to be talking more about that whole process and my artwork and digital and analog on Tuesday May 3rd at 6 pm if you want to hear a whole lot more about my process thanks and
 
 ## Colin Goldberg [09:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=585s)
 
@@ -201,7 +201,7 @@ Excellent. Now we don't. And we're. This is a small one. But we're going to do a
 
 ## Colin Goldberg [13:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=790s)
 
-And I don't believe Suzanne is here, but I could say a couple words about these because I know the background to create these. She took the original Rorschach plots and and extruded them in a 3D probe. Called Maya to create molds. And then they were cast in plaster, which are the large white pieces. And then also as bronzes, which are the smaller pieces there.
+And I don't believe Suzanne is here, but I could say a couple words about these because I know the background to create these. She took the original Rorschach plots and extruded them in a 3D probe. Called Maya to create molds. And then they were cast in plaster, which are the large white pieces. And then also as bronzes, which are the smaller pieces there.
 
 ## Roz Dimon [13:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=819s)
 
@@ -293,7 +293,7 @@ Great. Next is Sean. Sean, I'm going to turn it over to you. Thank you, Sherry. 
 
 ## Sherry Karver [21:18](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1278s)
 
-Hi, Sherry. Hi. Hi, everybody. I'm very honored to be in this show. And I'm sorry I couldn't fly in for the opening, but I live in California, so it would have been quite a trip. This piece is called Looking for the Answers, and it's part of an ongoing series called Movement Interrupted, which I started way before COVID, but now the whole concept of movement literally being interrupted for all of us has taken on a new meaning. My work is really low tech. I'm harnessing data corruption glitches that are happening on my TV screen. So this is an actual photograph. I photograph my screen when it pixelates and breaks up due to uneven results. I don't do anything else to this. It's not created in Photoshop. No algorithms. It's an actual photograph. And I have it printed as dye sublimation on metal because I really feel that that metal substrate shines through and really works well with contemporary digital technology.
+Hi, Sherry. Hi. Hi, everybody. I'm very honored to be in this show. And I'm sorry I couldn't fly in for the opening, but I live in California, so it would have been quite a trip. This piece is called Looking for the Answers, and it's part of an ongoing series called Movement Interrupted, which I started way before COVID, but now the whole concept of movement literally being interrupted for all of us has taken on a new meaning. My work is really low tech. I'm harnessing data corruption glitches that are happening on my TV screen. So this is an actual photograph. I photograph my screen when it pixelates and breaks up due to uneven results. I don't do anything else to this. It's not created in Photoshop. No algorithms. It's an actual photograph. And I have it printed as dye sublimation on metal because I really feel that metal substrate shines through and really works well with contemporary digital technology.
 
 So thank you for putting me in the show. Looks great. The whole exhibition looks absolutely amazing. It's actually beautiful. Thank you. Thank you, Sherry.
 
@@ -753,7 +753,7 @@ Beautiful.
 
 ## Roz Dimon [55:05](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3305s)
 
-Meltdown Love is the artist. Media disease. Print sees eyes. Digital monoprint on aluminum from Ukraine, 2021. .
+Meltdown Love is the artist. Media disease. Print sees eyes. Digital monoprint on aluminum from Ukraine, 2021..
 
 ## Unattributed [55:23](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3323s)
 
@@ -805,7 +805,7 @@ Next is Oz Van Rosen, who I believe we saw her bench in the front room. Power of
 
 ## Colin Goldberg [59:37](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3577s)
 
-And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred A blurred line, really, when you talk about founders, because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was here at the very first salon where it was myself, Steve Miller, Oz, Patrick Lichty and Helen Harrison. And we sort of formulated the definition and kind of came up with a game plan to to develop the concept. So that's a digital piece of Oz's.
+And Oz, I do not believe is in the Zoom. I'm going to paste a link in the chat to her page. And you guys could find all of these links off of Techspressionism.com's homepage, the artist list. Oz is one of the founding members of Techspressionism in the sense that she was at the very first salon. It's kind of a blurred A blurred line, really, when you talk about founders, because I think that there's plenty of people who have been involved early on that really contributed greatly to the formation of the group. But Roz was here at the very first salon where it was myself, Steve Miller, Oz, Patrick Lichty and Helen Harrison. And we sort of formulated the definition and kind of came up with a game plan to develop the concept. So that's a digital piece of Oz's.
 
 And she just said about that piece in particular, trans-historical art is the blending of the new and the old. It is a way of reliving the history of art and keeping it topical and contemporary.
 
@@ -879,7 +879,7 @@ Okay. You can hear me okay? Yeah. All right. So, yeah, I was really, what a happ
 
 And the particular clip starts one way and it ends another. So that also helps drive the narrative. And I really enjoyed plucking that part out. It's composed by a friend of mine, Richard Wood, who is a prolific jazz composer. And what I can do is put the link to the full video, which is on YouTube. And it's of course is on the expressionist reel. And it's also, the video itself is available as an NFT on open sea, as well as about 20 stills from the, from the video.
 
-So it's been, I'm sorry, I couldn't make the opening last Saturday. I've been watching from afar, digging the excitement and it's been amazing. I could, you know, I wish I could have been there, but it's a honor to be in the show and really exciting. It's been amazing journey so far. And I'm, I'm looking forward to seeing what we can do next. And I think this show will reverberate for many decades, really as it it's gets kind of it's landed now in the timeline of history. And it's a culmination of many years, many decades of, of all this collection of practitioners working for decades.
+So it's been, I'm sorry, I couldn't make the opening last Saturday. I've been watching from afar, digging the excitement and it's been amazing. I could, you know, I wish I could have been there, but it's a honor to be in the show and really exciting. It's been amazing journey so far. And I'm, I'm looking forward to seeing what we can do next. And I think this show will reverberate for many decades, really as it's gets kind of it's landed now in the timeline of history. And it's a culmination of many years, many decades of, of all this collection of practitioners working for decades.
 
 Many, many of us and it's very much feels like a vindication to, to get into the timeline. And it feels it's very art historical. In its energy. It's a way I'm experiencing it. So. Kudos to everyone. Thank you, Colin, for. Spearheading this event. This happening. And thank you so much. Great to be here.
 
@@ -995,7 +995,7 @@ Colin Scott. Yes. You guys. Have a see the screen share. Yep.
 
 ## Allen Hirsh [01:15:23](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4523s)
 
-Yes. Well, first of all, thank you, Colin at all for making this exhibit possible. I can only imagine having hung smaller exhibitions, how difficult and challenging it must've been to create this exhibition. So I thank you for all your hard work. Uh, the three pieces you see here are animated pieces that were done during the. Yeah. The pandemic. And, um, I am interested in the fleeting and illusory quality of time in the universe, whether the time is moving forward or it's moving round and round. And indeed, uh, there's even talk of perhaps it can move backward. So I find all of this fascinating. And, um, so these three pieces are each a minute long and, uh, they have been, uh, done in, uh, procreate percolator and in, um, I call Rama. Thank you. Thank you.
+Yes. Well, first of all, thank you, Colin at all for making this exhibit possible. I can only imagine having hung smaller exhibitions, how difficult and challenging it must've been to create this exhibition. So I thank you for all your hard work. The three pieces you see here are animated pieces that were done during the. Yeah. The pandemic. And, I am interested in the fleeting and illusory quality of time in the universe, whether the time is moving forward or it's moving round and round. And indeed, there's even talk of perhaps it can move backward. So I find all of this fascinating. And, so these three pieces are each a minute long and, they have been, done in, procreate percolator and in, I call Rama. Thank you. Thank you.
 
 ## Lee Musgrave [01:16:30](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4590s)
 
@@ -1003,15 +1003,15 @@ So Colin, Colin, could I make a brief statement? Sure. Lee.
 
 ## Colin Goldberg [01:16:41](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4601s)
 
-Um, so we're going to get to, um, your work in a moment. Lee, um, we're, we're just getting through the video art here. Um, so, um, to see. So, um, so this is a screenshot of his video piece, which is an NFT. Um, he's based, I believe in France or originally originally from France, maybe in Spain right now. Um, but he is in the zoom. Um, and I will share a link to his work in the chat. And I think, you know, we probably are going to go a little bit past seven, but given that we're in, you know, the sort of nature of this particular salon, I think that's, that's probably fine. Yep. And Lee, you will definitely get a chance to share once, um, Roz comes around to your piece, which is in this room.
+So we're going to get to, your work in a moment. Lee, we're, we're just getting through the video art here. So, to see. So, so this is a screenshot of his video piece, which is an NFT. He's based, I believe in France or originally originally from France, maybe in Spain right now. But he is in the zoom. And I will share a link to his work in the chat. And I think, you know, we probably are going to go a little bit past seven, but given that we're in, you know, the sort of nature of this particular salon, I think that's, that's probably fine. Yep. And Lee, you will definitely get a chance to share once, Roz comes around to your piece, which is in this room.
 
 ## Roz Dimon [01:17:32](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4652s)
 
-Great. Now we're, uh, we are rounding the corner here, uh, the second room and it's, we're looking at low bits, pop fly on the left-hand side of the door. And, um, I believe this is a, a two artists, isn't it? Um, or is it one? Low.
+Great. Now we're, we are rounding the corner here, the second room and it's, we're looking at low bits, pop fly on the left-hand side of the door. And, I believe this is a, a two artists, isn't it? Or is it one? Low.
 
 ## Colin Goldberg [01:17:49](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4669s)
 
-Yes, it's a, I believe it's a husband and wife, um, team, um, low vid. Um, and I don't know that, um, either of them are here right now. Um, but I will read, uh, the statement, um, low vid is known for employing analog video as the source of their visual output with snares, electric energy. In recent years, low vid is increasingly embedding images from nature and social interactions into their work presented here at two digital paintings. Melding terrain and technology through craft lush hyperspaces, which offer both confusion and comfort together with abstraction taken straight from the voltaic realm. And, um, low vid is Tali Hinkes and Kyle Lapidus.
+Yes, it's a, I believe it's a husband and wife, team, low vid. And I don't know that, either of them are here right now. But I will read, the statement, low vid is known for employing analog video as the source of their visual output with snares, electric energy. In recent years, low vid is increasingly embedding images from nature and social interactions into their work presented here at two digital paintings. Melding terrain and technology through craft lush hyperspaces, which offer both confusion and comfort together with abstraction taken straight from the voltaic realm. And, low vid is Tali Hinkes and Kyle Lapidus.
 
 ## Roz Dimon [01:18:36](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4716s)
 
@@ -1023,11 +1023,11 @@ So you can see that they're both on either side of the door.
 
 ## Roz Dimon [01:18:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4720s)
 
-Thanks, Colin. I'm moving along to, uh, uh, so many great works. 10, 10, 23 X. The title is words and below that. Uh, another piece by the same artist. So vain, uh, NFT photo print NFT photo print.
+Thanks, Colin. I'm moving along to,, so many great works. 10, 10, 23 X. The title is words and below that. Another piece by the same artist. So vain, NFT photo print NFT photo print.
 
 ## Colin Goldberg [01:18:58](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4738s)
 
-And, um, I believe 10, 10. Are you here? 10, 10.
+And, I believe 10, 10. Are you here? 10, 10.
 
 ## Davonte Bradley [01:19:02](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4742s)
 
@@ -1035,21 +1035,21 @@ Oh, I saw.
 
 ## Unattributed [01:19:05](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4745s)
 
-Um, okay.
+Okay.
 
 ## Colin Goldberg [01:19:07](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4747s)
 
-Well, I'll just, um, read what he has here. Um, 10, 10, uh, 23 X, a graduate of Cal arts makes use of a variety of techniques to create work. Whether still are moving imagery. Working on computers and computer based systems is a consistent element to his work exploring and shifting definitions of text and imagery's meaning or mood through narrative construction or deconstruction service consistent as a consistent underlying theme. Um, and both of these works are, um, minted as NFTs on rareable, uh, accessible through his link. Yeah.
+Well, I'll just, read what he has here. 10, 10, 23 X, a graduate of Cal arts makes use of a variety of techniques to create work. Whether still are moving imagery. Working on computers and computer based systems is a consistent element to his work exploring and shifting definitions of text and imagery's meaning or mood through narrative construction or deconstruction service consistent as a consistent underlying theme. And both of these works are, minted as NFTs on rareable, accessible through his link. Yeah.
 
 All right.
 
 ## Roz Dimon [01:19:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4785s)
 
-Uh, and we come up to, um, another Long Island artist Dalton. We're telling baboon and lady. Hey there. Yeah. 1995.
+And we come up to, another Long Island artist Dalton. We're telling baboon and lady. Hey there. Yeah. 1995.
 
 ## Dalton Portella [01:19:57](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4797s)
 
-I think it was done in 95. I'm not a hundred percent sure because, um, I actually, I don't have a, uh, a digital file of this. I have it on transparency.
+I think it was done in 95. I'm not a hundred percent sure because, I actually, I don't have a, a digital file of this. I have it on transparency.
 
 ## Victor Acevedo [01:20:08](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4808s)
 
@@ -1057,13 +1057,13 @@ This is it.
 
 ## Dalton Portella [01:20:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4810s)
 
-Um, and, uh, I kind of gotten the show late and, uh, just showed calling some of the stuff that I had framed years and years ago. He picked that one first. And, um, and, uh, truth be told, I can't remember what I was thinking when I made it, but it was done on a Quantel paint box, Quantel graphic paint box, uh, which was a, uh, predecessor to, uh, you know, the, it was the first computer I'd heard of that you could draw and paint with. And we was used to manipulate photography.
+And, I kind of gotten the show late and, just showed calling some of the stuff that I had framed years and years ago. He picked that one first. And, and, truth be told, I can't remember what I was thinking when I made it, but it was done on a Quantel paint box, Quantel graphic paint box, which was a, predecessor to, you know, the, it was the first computer I'd heard of that you could draw and paint with. And we was used to manipulate photography.
 
-And I taught myself the paint box by creating art on it and, um, got hired by this company. And made an agreement to be able to output my, uh, my work as transparencies at the time. Um, cause this computer output to nine track date. Um, and I had stacks and stacks of them and then I started, uh, making transparencies and prints. And, um, anyway, I just wanted to say, thanks for getting me in the show. Colin, this show was kick-ass. It was beautiful. Absolutely. Uh, just a really strong, strong show by everybody. So thanks.
+And I taught myself the paint box by creating art on it and, got hired by this company. And made an agreement to be able to output my, my work as transparencies at the time. Cause this computer output to nine track date. And I had stacks and stacks of them and then I started, making transparencies and prints. And, anyway, I just wanted to say, thanks for getting me in the show. Colin, this show was kick-ass. It was beautiful. Absolutely. Just a really strong, strong show by everybody. So thanks.
 
 ## Colin Goldberg [01:21:20](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4880s)
 
-Thanks Dalton. And, um, before we move on to Vernetta, I realized that there's just a couple of people, um, that are in the, I saw, um, shared in the chat Reese Schroeder, who's in the real as well as, um, Stephanie Sydney, and Giovanna. I just want to make sure that anyone that's present, um, gets the opportunity to introduce themselves. So, um, Stephanie, um, I see you're on there. So do you want to start?
+Thanks Dalton. And, before we move on to Vernetta, I realized that there's just a couple of people, that are in the, I saw, shared in the chat Reese Schroeder, who's in the real as well as, Stephanie Sydney, and Giovanna. I just want to make sure that anyone that's present, gets the opportunity to introduce themselves. So, Stephanie, I see you're on there. So do you want to start?
 
 ## Stephanie Sydney [01:21:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4906s)
 
@@ -1075,19 +1075,19 @@ Wonderful show. Really impressive. I'm really impressed.
 
 ## Stephanie Sydney [01:21:50](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4910s)
 
-Um, my work, I work, basically I use my own photographs and then I collage them together and I like to, um, you know, put together things that are unexpected and, um, and that somehow find a relationship between very diverse elements. And, um, these collages all contain a lot of different things and a lot of different layers. And, um, and it's really, I'm really excited about this whole group and the show. I think it's just excellent. And, um, thank you again.
+My work, I work, basically I use my own photographs and then I collage them together and I like to, you know, put together things that are unexpected and, and that somehow find a relationship between very diverse elements. And, these collages all contain a lot of different things and a lot of different layers. And, and it's really, I'm really excited about this whole group and the show. I think it's just excellent. And, thank you again.
 
 ## Colin Goldberg [01:22:25](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4945s)
 
-Thank you, Stephanie. Okay. Um, research Giovanna, would you like to, um, say a few words?
+Thank you, Stephanie. Okay. Research Giovanna, would you like to, say a few words?
 
 ## Giovanna Sun [01:22:32](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4952s)
 
-Oh yeah. Um, yeah, the first of all, I have to have a big science to a dival because he's the one brought me introduced me to calling and, and also of course, uh, the, you know, I'm such honor to join these. Uh, take Christian easy and the movement. Um, I, I already, uh, put my, uh, linking the chart. So if, uh, yeah, if a calling, you can share the screen. People can see my, uh, image.
+Oh yeah. Yeah, the first of all, I have to have a big science to a dival because he's the one brought me introduced me to calling and, and also of course, the, you know, I'm such honor to join these. Take Christian easy and the movement. I, I already, put my, linking the chart. So if, yeah, if a calling, you can share the screen. People can see my, image.
 
-Um, here. Yes. Um, it's actually, I have a 4k video. So this is a video, um, not a still image. I think, uh, uh, I probably, I forgot to attach in a trial, but I like to say a little. A little bit about it. The, the title is, uh, the women's power. Um, so I use a rose. I really love a rose, Bob and also rock. So you can see all these, uh, rock and the roles that represent like a, like a, a woman can be very beautiful and also very strong, like a rock. Um, and the, the original, um, this image is also like a, my favorite vintage image, public domain from Metropolitan Museum of art. So if you look closely from your, um, um, if you have a web version, uh, you, you, you can, uh, just zoom, zoom out. Um, so you can see is actually there. There's a, there's a woman. She's a queen. She's, she's on the top.
+Here. Yes. It's actually, I have a 4k video. So this is a video, not a still image. I think,, I probably, I forgot to attach in a trial, but I like to say a little. A little bit about it. The, the title is, the women's power. So I use a rose. I really love a rose, Bob and also rock. So you can see all these, rock and the roles that represent like a, like a, a woman can be very beautiful and also very strong, like a rock. And the, the original, this image is also like a, my favorite vintage image, public domain from Metropolitan Museum of art. So if you look closely from your,, if you have a web version, you, you, you can, just zoom, zoom out. So you can see is actually there. There's a, there's a woman. She's a queen. She's, she's on the top.
 
-And, uh, um, uh, there was a, like a king on the top. So somehow I just delete that king because I feel like. Uh, we need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, uh, how, how about we live women's on the top? So So that's why, and this is also a tribute to the International Women's Month last month, March.
+And,, there was a, like a king on the top. So somehow I just delete that king because I feel like. We need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, how, how about we live women's on the top? So that's why, and this is also a tribute to the International Women's Month last month, March.
 
 Yeah, so that's what I want to say.
 
@@ -1215,7 +1215,7 @@ Let me ask you a little bit more about your work. So I will...
 
 ## Colin Goldberg [01:35:07](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5707s)
 
-Expressionism is described as a way to present the world solely from a subjective perspective, distorting it radically for emotional effect in order to evoke moods or ideas. My work does just that. By distorting photographic images into free-flowing shapes, each viewer has the opportunity to see what they need to see. The image may guide the viewer to a particular image, a particular idea, but the interpretation is solely individual. And I'm going to paste a link to her page in the chat. And it was great to see her make the trip from Tennessee up to to the opening reception.
+Expressionism is described as a way to present the world solely from a subjective perspective, distorting it radically for emotional effect in order to evoke moods or ideas. My work does just that. By distorting photographic images into free-flowing shapes, each viewer has the opportunity to see what they need to see. The image may guide the viewer to a particular image, a particular idea, but the interpretation is solely individual. And I'm going to paste a link to her page in the chat. And it was great to see her make the trip from Tennessee up to the opening reception.
 
 ## Roz Dimon [01:35:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5746s)
 
@@ -1229,9 +1229,9 @@ These were. Oh, and the one on the left, Alice Null. I started this in 2014. And
 
 I left Null, which is this one draws upon telepathic information perceived from the divine spontaneity, intuition and meditation with energy and light forming matter as infinitesimal elements. Anthropogenic dust particles, the sources that have shaped our universe. All if no expresses our oneness with nature.
 
-And on the right is. Lips. It's glyphs. And because I did this because I have circled over the Nazca lines and explore deep sea diving and glyphs represents my fascination with geoglyphs, petroglyphs, seagulls and the acknowledgement that our planet was once covered in water. I dissolved many images reflecting upon the massive emergence of land from the sea. And this is one. It's one of and all of Null is is one of 18 different different imaginings upon the same. D.
+And on the right is. Lips. It's glyphs. And because I did this because I have circled over the Nazca lines and explore deep sea diving and glyphs represents my fascination with geoglyphs, petroglyphs, seagulls and the acknowledgement that our planet was once covered in water. I dissolved many images reflecting upon the massive emergence of land from the sea. And this is one. It's one of and all of Null is one of 18 different imaginings upon the same. D.
 
-And what else did I want to say? I think that that's it. Thank you.
+And what else did I want to say? I think that's it. Thank you.
 
 ## Roz Dimon [01:39:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5979s)
 
@@ -1255,7 +1255,7 @@ I think the Wi-Fi signal might be a little weak back there.
 
 ## Christine Sciulli [01:40:17](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6017s)
 
-Oh, no. I have a photo in my background. Um so it's not going to image I guess it's
+Oh, no. I have a photo in my background. So it's not going to image I guess it's
 
 ## Unattributed [01:40:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6028s)
 
@@ -1263,7 +1263,7 @@ Trying really still
 
 ## Christine Sciulli [01:40:31](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6031s)
 
-And just like focus on the dots the points and don't try to move the camera it'll catch up there you go I would just stay there so um I I've been fascinated with uh geometry like my whole life but I studied architectural engineering and one of the things that I'm exploring is a collaboration with computer generated moving lines and physical engagement. So the physical engagement here is a network of string that I build out which you can see in this this picture behind me.
+And just like focus on the dots the points and don't try to move the camera it'll catch up there you go I would just stay there so I've been fascinated with geometry like my whole life but I studied architectural engineering and one of the things that I'm exploring is a collaboration with computer generated moving lines and physical engagement. So the physical engagement here is a network of string that I build out which you can see in this picture behind me.
 
 Sort of an abstract expressionist way. I mean, usually there's, I resonate off of the architecture in the space. I generate these lines that are rotating in apple motion, sometimes generatively, sometimes I like hand animate them for position. And then I go back and forth between the projections, once the projectors are set, and the network of string, and sequence them so that the intersection of the planes of light with the string result in points that seem to move around. People tend to put all kinds of scale notions onto these points. And yeah, that's the short end of the book.
 
@@ -1325,7 +1325,7 @@ I'm sure maybe everyone
 
 ## Negin Ehtesabian [01:45:20](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6320s)
 
-Yeah tell us a little bit everyone and thank you so much uh for including me and that's an honor to be in uh showing you with all these amazing artists so these two pieces uh it's uh iran and america it's a part of this installation we are doing with uh my dear husband patrick lickley so we lived in abu dhabi and because of a lot of political reasons we couldn't visit each other's country but we had this idea that we know a lot about each other's country through media so it starts with technology that actually gives a new um notion of experience uh to people so you change a technology around people and the people change so we try to visit each other's country with google earth so that was the first time actually I was using this vr glasses and it was so exciting for me so we went all around these uh cities that he really he was living and working and his uh childhood house is there the one and all these experiences I had with this vr uh alongside with all the information I think I have from america uh through media uh cinema literature uh philosophy whatever you read about a country and the culture because we somehow raised on these movies and cartoons and cinema and like satellite uh programs uh so we think we know a lot about the culture but sometimes that is also, the other way, he tried to visit Iran through Google Earth, but because of the limitations, there were no 3D photography there.
+Yeah tell us a little bit everyone and thank you so much for including me and that's an honor to be in showing you with all these amazing artists so these two pieces it's iran and america it's a part of this installation we are doing with my dear husband patrick lickley so we lived in abu dhabi and because of a lot of political reasons we couldn't visit each other's country but we had this idea that we know a lot about each other's country through media so it starts with technology that actually gives a new notion of experience to people so you change a technology around people and the people change so we try to visit each other's country with google earth so that was the first time actually I was using this vr glasses and it was so exciting for me so we went all around these cities that he really he was living and working and his childhood house is there the one and all these experiences I had with this vr alongside with all the information I think I have from america through media cinema literature philosophy whatever you read about a country and the culture because we somehow raised on these movies and cartoons and cinema and like satellite programs so we think we know a lot about the culture but sometimes that is also, the other way, he tried to visit Iran through Google Earth, but because of the limitations, there were no 3D photography there.
 
 So it was all flat. So this is a part of that installation that we did different artworks for that. That's it. Thank you.
 
@@ -1453,7 +1453,7 @@ I do not think she's here with us. Don't think is here. Yeah. I'll paste it a li
 
 ## Roz Dimon [02:00:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=7228s)
 
-Great. We now have a very huge wall that you can see from the beginning when you come in this room by Frank Gillette. And it's post apocalypse. And some of them are numbered different numbers and also preludes. All are ink on our cut. Painter made with quite dramatic presentation of work. I'll save it by . See that. .
+Great. We now have a very huge wall that you can see from the beginning when you come in this room by Frank Gillette. And it's post apocalypse. And some of them are numbered different numbers and also preludes. All are ink on our cut. Painter made with quite dramatic presentation of work. I'll save it by. See that..
 
 .!
 
@@ -1699,7 +1699,7 @@ Oh.
 
 ## Patrick Lichty [02:17:39](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8259s)
 
-So in its first edition so we're we're spanning the world again nice
+So in its first edition so we're spanning the world again nice
 
 ## Davonte Bradley [02:17:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=8265s)
 

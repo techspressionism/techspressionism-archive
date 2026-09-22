@@ -221,7 +221,7 @@ Gotcha.
 
 ## Claudia Hart [19:57](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1197s)
 
-And these are… you wanted me to show you this a little bit more, and we can go into that, but this is a nice way to see that these are paintings where I combined a lot of handmade Right? The underneath layers are like you could see on this this one… can you see my cursor? Right, so those are my Mary Mecco floral bedsheets in my…
+And these are… you wanted me to show you this a little bit more, and we can go into that, but this is a nice way to see that these are paintings where I combined a lot of handmade Right? The underneath layers are like you could see on this one… can you see my cursor? Right, so those are my Mary Mecco floral bedsheets in my…
 
 ## Colin Goldberg [20:25](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1225s)
 
@@ -1291,7 +1291,7 @@ Yeah, so, here's something that was in this recent BidForm show, which has an ea
 
 ## Colin Goldberg [01:02:08](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3728s)
 
-Too, with your work is it doesn't have a technological aesthetic to it. You know, you see a lot of the work out there now, and it feels very… you know, very digital, or, like, even my work, really, like, involves wireframe imagery, and and kind of elements that speak directly to technology itself, whereas, like, I look at your work, and it's very… you know, the imagery and the treatment is sort of rooted in traditional, art, and it uses technology in a way that isn't really referencing it as part of the visual language of the work, which I think.
+Too, with your work is it doesn't have a technological aesthetic to it. You know, you see a lot of the work out there now, and it feels very… you know, very digital, or, like, even my work, really, like, involves wireframe imagery, and kind of elements that speak directly to technology itself, whereas, like, I look at your work, and it's very… you know, the imagery and the treatment is sort of rooted in traditional, art, and it uses technology in a way that isn't really referencing it as part of the visual language of the work, which I think.
 
 ## Claudia Hart [01:02:46](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3766s)
 
@@ -1325,7 +1325,7 @@ But thin down paint, where you really see the brush strokes. As a layer, I use m
 
 ## Colin Goldberg [01:05:34](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3934s)
 
-Now, for the viewers, they wouldn't know, necessarily, that that central component is a screen, right?
+Now, for the viewers, they wouldn't know, necessarily, that central component is a screen, right?
 
 ## Claudia Hart [01:05:41](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3941s)
 
@@ -1417,7 +1417,7 @@ Yeah, so I think we're at this actual transition… transitional moment, and tha
 
 ## Colin Goldberg [01:10:12](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4212s)
 
-Well, I feel like, you know, with work like yours, it bridges a gap, because your traditional collector isn't gonna want something where they pay a whole lot of money for it, and then they just put it on their flat-screen TV. You know, they want something that's, like. If it's going to incorporate technology at all, like, a lot of times, you know, I'm not saying people who would buy, like, a Beeple or something that's straight-up tech stuff, but, you know, people who might come from a traditional collecting background still want to see some Some of the hand in there, traditional materials, but it's also, you know, incorporating the media of today, which is, you know, technology, so…
+Well, I feel like, you know, with work like yours, it bridges a gap, because your traditional collector isn't gonna want something where they pay a whole lot of money for it, and then they just put it on their flat-screen TV. You know, they want something that's, like. If it's going to incorporate technology at all, like, a lot of times, you know, I'm not saying people who would buy, like, a Beeple or something that's straight-up tech stuff, but, you know, people who might come from a traditional collecting background still want to see some of the hand in there, traditional materials, but it's also, you know, incorporating the media of today, which is, you know, technology, so…
 
 ## Claudia Hart [01:10:53](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4253s)
 

@@ -33,7 +33,7 @@ And with that, we'll get started. So welcome, Anne. Thanks for coming to the int
 
 Sure. Thanks. And I'm excited to be here and be part of the Expressionism group. I was I grew up in Brookline, Massachusetts, which is right outside of Boston. And it was a great place to grow up, very multicultural. A lot of immigrants from different countries, but good public schools. And I lived there until I went to college at the Rhode Island School of Design. And I think that has to do with sort of part of another part of the question that you just asked, which is how I got interested in making art. I had a really great art instructor in high school who was very classically trained and trained us to really look at things and see them and draw them and paint them. And I became fascinated with that process of how you really see something differently when you draw it, when you make artwork with it, than when you just look at it or even for me just taking a photograph of it.
 
-And that really captivated me. And I was also amazed by just the magic of how you could draw a few lines on a piece of paper and somehow in in your mind and the mind of other people that became a person or an object or an animal or still life. So I didn't know it then, but the sort of cognitive psychology part of just how art is made and interpreted. Has always seemed very magical and fascinating to me. And also the fact that you could communicate things that you couldn't say with words. So language is amazing and very powerful, but I love that you could look at a single image and get so much out of it. And it seemed to transcend time and language in a way that, you know, remains very compelling to me. So if you look at a Rothko, it's not it doesn't translate into some sort of verbal explanation.
+And that really captivated me. And I was also amazed by just the magic of how you could draw a few lines on a piece of paper and somehow in your mind and the mind of other people that became a person or an object or an animal or still life. So I didn't know it then, but the sort of cognitive psychology part of just how art is made and interpreted. Has always seemed very magical and fascinating to me. And also the fact that you could communicate things that you couldn't say with words. So language is amazing and very powerful, but I love that you could look at a single image and get so much out of it. And it seemed to transcend time and language in a way that, you know, remains very compelling to me. So if you look at a Rothko, it's not it doesn't translate into some sort of verbal explanation.
 
 There's no explanation. There's no equivalent. So, I enjoyed making art and I really didn't like regular school. So the idea of going to some kind of college where I never had to write a paper ever again, seems just absolutely fantastic to me and that's how I ended up at the Rhode Island School of Design.
 
@@ -81,15 +81,15 @@ Yeah I'm into dreams I'm into Carl Jung and uh-huh
 
 ## Colin Goldberg [07:54](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=474s)
 
-Yeah that that that makes a lot of sense you know um definitely definitely um so do you have any specific um influences as far as you know um where your work is at now or as it evolved um you know maybe both in terms of uh aesthetic influences or stylistic influences and then also sort of more um conceptual influences like the you know the ideas that you became interested in as an artist um
+Yeah that makes a lot of sense you know definitely definitely so do you have any specific influences as far as you know where your work is at now or as it evolved you know maybe both in terms of aesthetic influences or stylistic influences and then also sort of more conceptual influences like the you know the ideas that you became interested in as an artist
 
 ## Anne Spalter [08:29](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=509s)
 
-Yeah I'd say aesthetically I've always been interested in medieval art I think because the perspective is so strange so when you use the computer or a 3D program or a camera you get this three-point perspective that's kind of the western perspective that we're used to and and really like a lot of people are interested in the medievalism but I've always loved the way that medieval work looks sort of compressed and twisted and doesn't follow that perspective and therefore to me has sort of a more inner perspective so you're seeing a real landscape but it has this subjective quality as well so I think that's been a factor in my work um switching from more photographic perspective to the kind of this patterning or things that transform the work and try to keep that balance between um internal and external um other art things that you know I enjoy um color field painting I think that's more aspirational for me but just being able to you know put the right colors next to each other to get certain feelings has always intrigued me and as I mentioned Carl Jung I've read some and I'm very interested in his archetypal imagery um throughout my work pretty much the same imagery has kept reoccurring for decades so these things like lighthouses and spheres and water and airplanes um so they have this sort of symbolic personal iconography resonance for me
+Yeah I'd say aesthetically I've always been interested in medieval art I think because the perspective is so strange so when you use the computer or a 3D program or a camera you get this three-point perspective that's kind of the western perspective that we're used to and really like a lot of people are interested in the medievalism but I've always loved the way that medieval work looks sort of compressed and twisted and doesn't follow that perspective and therefore to me has sort of a more inner perspective so you're seeing a real landscape but it has this subjective quality as well so I think that's been a factor in my work switching from more photographic perspective to the kind of this patterning or things that transform the work and try to keep that balance between internal and external other art things that you know I enjoy color field painting I think that's more aspirational for me but just being able to you know put the right colors next to each other to get certain feelings has always intrigued me and as I mentioned Carl Jung I've read some and I'm very interested in his archetypal imagery throughout my work pretty much the same imagery has kept reoccurring for decades so these things like lighthouses and spheres and water and airplanes so they have this sort of symbolic personal iconography resonance for me
 
 ## Colin Goldberg [10:03](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=603s)
 
-To work yeah I noticed that that airplane piece was one of the ones that I reposted um to the Techspressionism feed and I thought that was really interesting you know how um you know you're bringing in photographs of the past and the present and the present and the future and you know I'm glad that people put those pieces together um because there was also um uh photographic imagery and sort of I guess those pieces were um involved ai in some way
+To work yeah I noticed that airplane piece was one of the ones that I reposted to the Techspressionism feed and I thought that was really interesting you know how you know you're bringing in photographs of the past and the present and the present and the future and you know I'm glad that people put those pieces together because there was also photographic imagery and sort of I guess those pieces were involved ai in some way
 
 ## Anne Spalter [10:22](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=622s)
 
@@ -97,7 +97,7 @@ Yeah were they the colorful airplanes yeah
 
 ## Colin Goldberg [10:25](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=625s)
 
-There was a set that had sort of like um photographic content and there were these sort of meshes or grids that um one of them was like an airplane sort of taking off but it was kind of contorted and there were almost like polygons kind of growing out of it and stuff I think it was um Okay, yeah, that was an AI.
+There was a set that had sort of like photographic content and there were these sort of meshes or grids that one of them was like an airplane sort of taking off but it was kind of contorted and there were almost like polygons kind of growing out of it and stuff I think it was Okay, yeah, that was an AI.
 
 ## Anne Spalter [10:46](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=646s)
 
@@ -123,7 +123,7 @@ The images come out a little bit low res, which is one of the reasons they were 
 
 ## Colin Goldberg [12:15](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=735s)
 
-Did you, how is that style determined? Was that something that that was in the system or did it like analyze a whole bunch of Hoffman paintings and then.
+Did you, how is that style determined? Was that something that was in the system or did it like analyze a whole bunch of Hoffman paintings and then.
 
 ## Anne Spalter [12:28](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=748s)
 
@@ -217,7 +217,7 @@ You know, Watched and notice. Have an example of combining the two things. Go ba
 
 And he talks about how people see UFOs in troubled times. Out of a desire for someone just to come from outer space and save us from ourselves. So that has seemed relevant. To conditions in the U S for several years now. Yeah. And I loved all the images that it made and it made literally thousands of images.
 
-But there were just 256 pixels across. So I wanted to do something with them, but there wasn't really a way to print them or make videos from them directly in the digital world. And that that year, which was last year, the spring break art show in New York. Which has a theme every year had the theme of excess. And I thought, well, I have this excess of images through the process because it's generated so many little pieces of art. So I wanted to make something like this and then use it as a reference for other artists to come up with new pieces of art. So I created these little compositions and I wanted to do a proposal based on that. But I really struggled with how to bring them out into the real world in a way that other people could see them. And at the same time I got a residency at mass MoCA.
+But there were just 256 pixels across. So I wanted to do something with them, but there wasn't really a way to print them or make videos from them directly in the digital world. And that year, which was last year, the spring break art show in New York. Which has a theme every year had the theme of excess. And I thought, well, I have this excess of images through the process because it's generated so many little pieces of art. So I wanted to make something like this and then use it as a reference for other artists to come up with new pieces of art. So I created these little compositions and I wanted to do a proposal based on that. But I really struggled with how to bring them out into the real world in a way that other people could see them. And at the same time I got a residency at mass MoCA.
 
 So I had access to a real galleries studio space where I could use traditional media if I wanted. Unlike my apartment or I didn't really want to be painting.
 
@@ -231,7 +231,7 @@ It was sort of super high tech. And the most low tech traditional solution came 
 
 ## Colin Goldberg [22:57](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1377s)
 
-That's that's that's really cool. Like I know that Frank Stella, a lot of his work, I think even, you know, maybe in the 80s was the computer was used in some ways in the compositional. Can you hear me now?
+That's really cool. Like I know that Frank Stella, a lot of his work, I think even, you know, maybe in the 80s was the computer was used in some ways in the compositional. Can you hear me now?
 
 ## Anne Spalter [23:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1394s)
 
@@ -255,7 +255,7 @@ Yeah.
 
 ## Colin Goldberg [23:30](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1410s)
 
-That reminded me of, I believe, Frank Stella's work from, like maybe the 80s or 90s, you know, involved computers in terms of the way that they were composed, but not necessarily in terms of the execution. And that's that's really interesting. Yeah. I have a bunch of work that I did actually when I did a residency down in Key West.
+That reminded me of, I believe, Frank Stella's work from, like maybe the 80s or 90s, you know, involved computers in terms of the way that they were composed, but not necessarily in terms of the execution. And that's really interesting. Yeah. I have a bunch of work that I did actually when I did a residency down in Key West.
 
 There weren't any large format printers or tools like that. So I did some work where I drew the pieces digitally and then projected them. And then sort of executed them by hand as like pen and ink drawings, gouache and stuff like that. So I can relate to that idea. And there's something that, you know, I think people, if they see that it's oil on canvas, it adds like an instant level of legitimacy to the piece. You know that something that's digitally executed, you know, we're still waiting for that day where it's kind of, you know, considered to be at the same level of legitimacy, I think.
 
@@ -361,9 +361,9 @@ Secondary market. There is a thriving secondary market and artists get a percent
 
 ## Colin Goldberg [31:47](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1907s)
 
-I saw that. I actually. Actually, you know, I had been waiting, I guess, SuperRare sort of closed off there. You know, they're not adding any new artists. So I set up an account on Rarible, which is more of like a community owned, you know, NFT marketplace just to experiment. And, you know, I saw that, you know, it's just it's really it's you know, the subculture with NFTs reminds me a lot of street art in a way that it's a lot of artists, you know, working under a handle in the same way that street artists a lot of times do. And there's sort of a level of anonymity and just the language in terms of like artists have drops and stuff like that. You know, it's it's kind of different lingo from kind of the traditional. Fine art world way of talking about art. And I think it's you know, it's interesting and it's refreshing and definitely, you know, the blockchain itself.
+I saw that. I actually. Actually, you know, I had been waiting, I guess, SuperRare sort of closed off there. You know, they're not adding any new artists. So I set up an account on Rarible, which is more of like a community owned, you know, NFT marketplace just to experiment. And, you know, I saw that, you know, it's just it's really it's you know, the subculture with NFTs reminds me a lot of street art in a way that it's a lot of artists, you know, working under a handle in the same way that street artists a lot of times do. And there's sort of a level of anonymity and just the language in terms of like artists have drops and stuff like that. You know, it's kind of different lingo from kind of the traditional. Fine art world way of talking about art. And I think it's you know, it's interesting and it's refreshing and definitely, you know, the blockchain itself.
 
-I learned about it at first from another expressionist artist, a guy, Andrea Bonaceto, who joined the group a couple of months ago. But he's you know, he's a blockchain, I guess, entrepreneur in London. But he also does portrait art and really interesting work. And he kind of explained the concept to me. And and turned me on to the idea. So then I started dabbling around with it. And it's really just a whole a whole other world, like another art world.
+I learned about it at first from another expressionist artist, a guy, Andrea Bonaceto, who joined the group a couple of months ago. But he's you know, he's a blockchain, I guess, entrepreneur in London. But he also does portrait art and really interesting work. And he kind of explained the concept to me. And turned me on to the idea. So then I started dabbling around with it. And it's really just a whole a whole other world, like another art world.
 
 ## Anne Spalter [33:14](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=1994s)
 
@@ -387,7 +387,7 @@ Which were bizarre to me before. But now it's sort of like evolution of the GIF,
 
 ## Colin Goldberg [34:25](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2065s)
 
-Yeah, it does remind me of that. Like I got involved in web work right at the beginning of the web, you know, and was doing director based. CD-ROM development prior to that. So I remember the first time that I saw a GIF, you know, within I think it was Netscape browser, you know, and it just blew my mind. And then developers and designers started using these tiled GIF backgrounds that were like insane, you know, that's kind of gone away. But, you know, but this this is really interesting because, you know, I struggled with so what do I what do I release if I'm trying to make an NFT? And. And. And I was thinking, well, I could take some digital drawings that I haven't released before or some video, you know, experimental videos that. But then, you know, I started thinking more and it does make sense that and what I've been seeing is more of these short form videos.
+Yeah, it does remind me of that. Like I got involved in web work right at the beginning of the web, you know, and was doing director based. CD-ROM development prior to that. So I remember the first time that I saw a GIF, you know, within I think it was Netscape browser, you know, and it just blew my mind. And then developers and designers started using these tiled GIF backgrounds that were like insane, you know, that's kind of gone away. But, you know, but this is really interesting because, you know, I struggled with so what do I what do I release if I'm trying to make an NFT? And. And. And I was thinking, well, I could take some digital drawings that I haven't released before or some video, you know, experimental videos that. But then, you know, I started thinking more and it does make sense that and what I've been seeing is more of these short form videos.
 
 And, you know, and in some of the other marketplaces, too, it's like not all art either. It's these weird like trading cards, you know, almost like, yeah, it's very strange. You know, it's kind of like Pokemon type type collecting, but like evolved into some strange crypto hybrid.
 
@@ -407,9 +407,9 @@ Yeah.
 
 And I think that also, you know, part of it, too, was like when I was a graduate student, I noticed that like I was I went to grad school with Patrick, who, you know, also when we were in Bowling Green and did our MFAs together for computer art. And I remember, you know, most of the undergraduate students really were only concerned in getting. Involved in industry in terms of, you know, being placed in a Pixar or electronic arts type studio.
 
-And, you know, it was, you know, Patrick and I as graduate students, we were more concerned with the fine art context and looking at what the computer could be used for within that context. But very few of the younger students, even, you know, if if you said the term digital art to them, that wasn't even a component. Of what that meant, you know, and in terms of the curriculum to generally speaking, you know, is more about the tools and learning the specific usages of the tools, but not necessarily talking about using them for a personal expression.
+And, you know, it was, you know, Patrick and I as graduate students, we were more concerned with the fine art context and looking at what the computer could be used for within that context. But very few of the younger students, even, you know, if you said the term digital art to them, that wasn't even a component. Of what that meant, you know, and in terms of the curriculum to generally speaking, you know, is more about the tools and learning the specific usages of the tools, but not necessarily talking about using them for a personal expression.
 
-And I think that that's, you know, when I would see the students creating their own work for that purpose, though, it was always amazing, you know, and really interesting to see. So, yeah, that's that's really.
+And I think that's, you know, when I would see the students creating their own work for that purpose, though, it was always amazing, you know, and really interesting to see. So, yeah, that's really.
 
 ## Anne Spalter [37:33](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2253s)
 
@@ -551,7 +551,7 @@ Okay. And so the last question, I guess, is how do you see the future of art?
 
 ## Anne Spalter [47:13](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2833s)
 
-I think we might have covered that with some of the NFT. I'm hoping that that continues to be popular. I think it might come down a little bit. There's been some sales for a really extreme amounts of money that don't completely make sense to me. But I think that it has a lot of potential. And even if artists don't all end up making crypto based artwork, that it could influence the regular art world and encourage more transparency.
+I think we might have covered that with some of the NFT. I'm hoping that continues to be popular. I think it might come down a little bit. There's been some sales for a really extreme amounts of money that don't completely make sense to me. But I think that it has a lot of potential. And even if artists don't all end up making crypto based artwork, that it could influence the regular art world and encourage more transparency.
 
 And sort of ease of interface and use for people. And I think the pandemic has done that some as well with all the art shows that have been online. And you can see art. You can often even see prices. You don't have to go into a gallery in Chelsea and have someone sort of look at you condescendingly and have to ask for the price list. And then you don't know if it's the real price list. And you have to negotiate. If they don't think you're an important enough collector, they may not sell to you anyway. You know, it's a very bizarre world.
 
@@ -621,7 +621,7 @@ All the time with ai because you know at the end of count zero where there's the
 
 ## Colin Goldberg [53:51](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3231s)
 
-Totally and then um and also like um uh stevenson there was a book the diamond age where he's talking about nanotech and uh you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding um raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on instagram um so it's it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate um your time and uh you know um there'll be links uh to your sites and stuff when this gets posted up on our youtube channel and on Techspressionism.com so people can check out your work and um I look forward to you know continuing to work with you thanks thank you so much okay
+Totally and then and also like stevenson there was a book the diamond age where he's talking about nanotech and you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on instagram so it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate your time and you know there'll be links to your sites and stuff when this gets posted up on our youtube channel and on Techspressionism.com so people can check out your work and I look forward to you know continuing to work with you thanks thank you so much okay
 
 ## Unattributed [55:04](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3304s)
 

@@ -130,7 +130,7 @@ This is the recent program I use. How I use the mic. It's a collab with Google. 
 
 But it's very interesting that when you share when you want to generate something. If you find a good source of image that in another word, you have to give them a good DNA. It is not like if you give them the pool is what generate like a pool. So I still have a. It's not like a totally artificial intelligence.
 
-Which I mean, you still need to give them some something more makes sense. Let's say if I want to do something like a like a blue image. So I upload the blue image and I type in. Oh, we create and the machine learning and I want to see like how I will generate image. So the so so you all see the outcome. So the result is a like a human brands with the blue image and also with a hand. And if for some reason, I think that's also they have something like from the block. That's like a logo from up blocks because the probably because of the up lies a kind of pioneering for for all these artificial intelligence things. So. There is a one particular I really I like it. Well, I'm not finished here, but I can share in the chart. So, um, um, yeah, Colin, can you open this?
+Which I mean, you still need to give them some something more makes sense. Let's say if I want to do something like a like a blue image. So I upload the blue image and I type in. Oh, we create and the machine learning and I want to see like how I will generate image. So the so you all see the outcome. So the result is a like a human brands with the blue image and also with a hand. And if for some reason, I think that's also they have something like from the block. That's like a logo from up blocks because the probably because of the up lies a kind of pioneering for all these artificial intelligence things. So. There is a one particular I really I like it. Well, I'm not finished here, but I can share in the chart. So,, yeah, Colin, can you open this?
 
 I put in the chart so you can download. You can share. So that's when I type in. Because I use these this is a metropolitan museums, a public domain images. It's free. Great. This. So I upload these and I type in space X to the moon. I Vincent van Gogh. And this is the result. And I think that this is interesting and I love this. I still will do some editing and oh, yeah. And the other thing is, if you want to play around with this program is I feel like it's still like a high risk because you need to have a ring. And you also need. You have the really a lot of storage because they save on Google Drive and the people, whoever in that the development team, they can access your Google Drive. So, you know, do your own research and do you know, you do need to my own risk. But I use like an empty Google Drive, so I don't really care.
 
@@ -188,7 +188,7 @@ Wonderful. Connection with this. Series of passing moments there's also a skateb
 
 ## Colin Goldberg [24:26](https://www.youtube.com/watch?v=pxavr84wDJs&t=1466s)
 
-Awesome thank you tell me. Yeah. I appreciate that I was familiar with Benjamin. You know before. Reading Helen's essay but I was not familiar with Valerie and his you know. The one line in there. You know that. Talking about. His his sort of foreseeing this phenomenon. About art we shall only have to summon them and there they will be. I mean how precious is that you know it's it's really pretty unbelievable.
+Awesome thank you tell me. Yeah. I appreciate that I was familiar with Benjamin. You know before. Reading Helen's essay but I was not familiar with Valerie and his you know. The one line in there. You know that. Talking about. His sort of foreseeing this phenomenon. About art we shall only have to summon them and there they will be. I mean how precious is that you know it's really pretty unbelievable.
 
 I mean. So. And I see Michael Rees is here. I might do a brief intermission because I know Michael wanted to. Maybe mention the seminar seminar that is going on tomorrow. And if you wanted to jump in Michael or if you wanted to wait till I. Yeah can you. Done can you hear me.
 
@@ -198,7 +198,7 @@ Yeah. Yeah great. Thank you so much Colin for giving me a little spot here. We r
 
 You know want to check it through the Web site you can go to my Web site which is. Michael Rees dot org Reese's R E E S dot O R G. And tomorrow afternoon at 2 p.m. Eastern Daylight Time. Michelle will be hosting the platforms part of our conference. I think I mentioned it's called projects and platforms. Today we talked with artists and their approach to NFTs. I thought it was a scintillating conversation. I really enjoyed it. I learned a lot even though I've been studying this carefully for a while now. And then tomorrow we're going to talk to platforms and Michelle is going to conduct that interview. A woman named Sophia Garcia from Art X Code which is a generative design generative art blockchain experience.
 
-Then also the McCoys Jennifer and Kevin McCoy from you know they they're artists but they also have a company called Monograph. And then finally Nadia Teja who is from Snark Art. And I don't know if you guys know Snark Art. But they. Have produced some really stunning projects in the NFT space. So again Colin thank you so much for allowing me to give a little pitch. The best place to go is Michael Rees dot org and Reese's R E E S dot org 2 p.m. To 3 30 p.m. Tomorrow afternoon. And of course the YouTube video I'll post it on my site shortly so you can watch today's event if you missed it. OK.
+Then also the McCoys Jennifer and Kevin McCoy from you know they're artists but they also have a company called Monograph. And then finally Nadia Teja who is from Snark Art. And I don't know if you guys know Snark Art. But they. Have produced some really stunning projects in the NFT space. So again Colin thank you so much for allowing me to give a little pitch. The best place to go is Michael Rees dot org and Reese's R E E S dot org 2 p.m. To 3 30 p.m. Tomorrow afternoon. And of course the YouTube video I'll post it on my site shortly so you can watch today's event if you missed it. OK.
 
 ## Colin Goldberg [27:23](https://www.youtube.com/watch?v=pxavr84wDJs&t=1643s)
 
@@ -248,7 +248,7 @@ And so I used Photoshop to create it. And there it just sat. And the same thing 
 
 And then my patron didn't particularly care for my photos that I took. He said it looked like tourist photos. And just by chance, I started to experiment with Nick Silver effects. And the next thing I knew, they put me into their creative pool. And I had created this whole body called, oops, called Water Music. And three of the pieces were in there. And I had created this whole body called Water Music. And three of the pieces are in the exhibit. And so sometimes my water was sharp and crisp. And sometimes it was gossamer. And I really imagined how Jackson Pollock felt when he was pouring his paints and deciding upon the thickness of them or the thinness of them. And he was stirring them all over his canvas. Okay. I have this attitude toward technology. I have this attitude toward technology that I want to humanize it.
 
-It's like even Stieglitz said in 1934, if you're going to manipulate your photography, do it for all it's worth. And digital photography wasn't even established then. Technology is a means by which we can create and present our feelings, our point of view. I am connected to Mother Nature. My work has a very natural bent. And I will tell you, I was so taken by the environment salon weeks ago. I really would would love to see some kind of environmental virtual exhibit be considered because that is something that unites us all on this planet. So this is stacked against us. I very definitely wanted the four North Port smokestacks to be in this image. And there's the fisherman in Macky Maw who is a is a lone figure against the smokestacks. For years, I've been creating this image called Crows Over Long Island Farm Field because I'm so concerned about how urbanization is eating up our lands.
+It's like even Stieglitz said in 1934, if you're going to manipulate your photography, do it for all it's worth. And digital photography wasn't even established then. Technology is a means by which we can create and present our feelings, our point of view. I am connected to Mother Nature. My work has a very natural bent. And I will tell you, I was so taken by the environment salon weeks ago. I really would love to see some kind of environmental virtual exhibit be considered because that is something that unites us all on this planet. So this is stacked against us. I very definitely wanted the four North Port smokestacks to be in this image. And there's the fisherman in Macky Maw who is a is a lone figure against the smokestacks. For years, I've been creating this image called Crows Over Long Island Farm Field because I'm so concerned about how urbanization is eating up our lands.
 
 And finally, in 2016, I decided to superimpose Vincent Van Gogh's Crows Over the over my created image to convey the deepest concern that I have for what's happening to our planet.
 
@@ -294,7 +294,7 @@ With the Techspressionist of name and I think the sensibilities that
 
 ## Unattributed [34:51](https://www.youtube.com/watch?v=pxavr84wDJs&t=2091s)
 
-We all have in our own unique ways. Um, One of the things recently that I was reading. Thanks to Patrick. Lickety
+We all have in our own unique ways. One of the things recently that I was reading. Thanks to Patrick. Lickety
 
 ## Michael Pierre Price [35:03](https://www.youtube.com/watch?v=pxavr84wDJs&t=2103s)
 
@@ -302,7 +302,7 @@ Was Kandinsky's two books that he had recommended a number of salons ago and Kan
 
 ## Unattributed [35:16](https://www.youtube.com/watch?v=pxavr84wDJs&t=2116s)
 
-He also had some really good insights about moving forward and what he was seeing it and he saw that the advances that we were seeing in science and all around that akin to some of the things that were happening in photography and elsewhere that the mechanization could be seen as the there there and kandinsky was saying no it's in the artist's use of the technology technology is where the there is there and and so for me Um, I I see that as a really really important thing now today, where AI and other avenues can produce very interesting works. The double-edged sword that I see, and this is something that I value in this group, is in the sense that the artist's spirit and eye and whatever else goes into it is an essential element in working with those powerful technologies, because I find it really interesting and fascinating.
+He also had some really good insights about moving forward and what he was seeing it and he saw that the advances that we were seeing in science and all around that akin to some of the things that were happening in photography and elsewhere that the mechanization could be seen as the there and kandinsky was saying no it's in the artist's use of the technology technology is where the there is there and so for me, I see that as a really important thing now today, where AI and other avenues can produce very interesting works. The double-edged sword that I see, and this is something that I value in this group, is in the sense that the artist's spirit and eye and whatever else goes into it is an essential element in working with those powerful technologies, because I find it really interesting and fascinating.
 
 ## Michael Pierre Price [36:39](https://www.youtube.com/watch?v=pxavr84wDJs&t=2199s)
 
@@ -394,7 +394,7 @@ Thank you. So this is a piece I'm working on for, to submit to a full dome film 
 
 It's called Earth Tree Sky because a tree belongs to the Earth and it belongs to the land and it belongs to the sky and it bridges those domains. It's like it holds the land. It holds the Earth and it holds the sky. So that's the official name and for the purpose of today. It's also called Below Above and Beyond so… Because it really is. I… Really great idea. I promise it really is below, above and beyond.
 
-So I'm just going to play it. This is the three minute version. I just couldn't quite get it less than three minutes. All right. So first of all, what you're seeing here is a warped fisheye projection. And the very center is the right above you, the top of the dome. The lower half is in front of you and around the perimeters is the edges of the dome. So it's it's happening all around you. But it's I kind of enjoying it as a sort of a warped fisheye projection. So I'm just going to play it.
+So I'm just going to play it. This is the three minute version. I just couldn't quite get it less than three minutes. All right. So first of all, what you're seeing here is a warped fisheye projection. And the very center is the right above you, the top of the dome. The lower half is in front of you and around the perimeters is the edges of the dome. So it's happening all around you. But it's I kind of enjoying it as a sort of a warped fisheye projection. So I'm just going to play it.
 
 I hope everybody can hear it as well.
 
@@ -428,33 +428,33 @@ Thank you so much. And by the way, Lucy, that was just amazing. So thank you. Th
 
 But first I wanted to say about going beyond. Get my share my window. Okay. Share screen. Share the whole screen. Sure. Why not? Okay. Sure. Sorry about that. And where is it? Why can't I get to my screen? I apologize for this. Going beyond. I. I sort of learned this week. Actually today. They kept them the cherry tree in my backyard. And I started to go beyond my regular spastic movements while I'm. Shooting these panoramas. And I find that. What's happened is.
 
-Something I've never experienced before. And. I've learned. What I thought was because it was just a. Cut tree. But somehow the movements that I've learned how to do with like holding back instead of just being kind of going forward like a wild person. That's given me a whole kind of iconography that I never imagined would show up like this. So that was something that I really wanted to share with everybody. And again, this is like all of these pictures are from one image, but I just been like Pollock, pieces of it um and um and I really find that that's something I've never experienced before and then wrapping up the other thing that was really exciting this week was um I started to play around with tommy's software and it's amazing um and um I've been mixing my uh rogue panos like like the angels.
+Something I've never experienced before. And. I've learned. What I thought was because it was just a. Cut tree. But somehow the movements that I've learned how to do with like holding back instead of just being kind of going forward like a wild person. That's given me a whole kind of iconography that I never imagined would show up like this. So that was something that I really wanted to share with everybody. And again, this is like all of these pictures are from one image, but I just been like Pollock, pieces of it and I really find that's something I've never experienced before and then wrapping up the other thing that was really exciting this week was I started to play around with tommy's software and it's amazing and I've been mixing my rogue panos like the angels.
 
-I tried. Right away and I have another one which which I couldn't find just before today where the angels are all sort of competing with each other um but that was super fun and then I went down the street and renata when she was here we were um mentioning the colors of these uh strange pylons and so I started doing shooting with them but then I got back into tommy and it just worked so well together that um I I've just been overwhelmed by being slow with the camera instead of really fast and being able to bring out all these um sort of more subtle or more controlled movements and that's it but tommy's software is amazing and last last last thing um my uh my girlfriend is um really smart phd in computer sciences and she built a front end for tommy software so I could use it and when she's totally happy with it and it's got no bugs she wants to send it on to tommy so that everybody can use it if we get tommy's blessing so that was it that was my I hope I did that in the right amount of time and thank everybody for your um for checking it out thanks
+I tried. Right away and I have another one which I couldn't find just before today where the angels are all sort of competing with each other but that was super fun and then I went down the street and renata when she was here we were mentioning the colors of these strange pylons and so I started doing shooting with them but then I got back into tommy and it just worked so well together that I've just been overwhelmed by being slow with the camera instead of really fast and being able to bring out all these sort of more subtle or more controlled movements and that's it but tommy's software is amazing and last last last thing my girlfriend is really smart phd in computer sciences and she built a front end for tommy software so I could use it and when she's totally happy with it and it's got no bugs she wants to send it on to tommy so that everybody can use it if we get tommy's blessing so that was it that was my I hope I did that in the right amount of time and thank everybody for your for checking it out thanks
 
 ## Colin Goldberg [51:03](https://www.youtube.com/watch?v=pxavr84wDJs&t=3063s)
 
-Awesome thank you lee and uh yeah I think that this this idea of collaborative software development for creative uses is pretty pretty awesome um it just takes that whole collab concept um in a different direction which I think is really really interesting um and it's cool to see you guys sharing you know your your um methodologies
+Awesome thank you lee and yeah I think that this idea of collaborative software development for creative uses is pretty pretty awesome it just takes that whole collab concept in a different direction which I think is really interesting and it's cool to see you guys sharing you know your methodologies
 
 ## Lee Schnaiberg [51:27](https://www.youtube.com/watch?v=pxavr84wDJs&t=3087s)
 
-Like that oh yeah I am so grateful I'm so grateful tommy so generous and tommy if I can ever repay you um like today's stuff I just learned like today my mind's blown on how like being like there's a way that you can do these really controlled um panorama sabotages so if I can share anything with you um it would be my pleasure at some time and thank you so much for for letting for sharing and being honest I mean generous and I'm sure you're honest too thank you so much everybody thank you for this afternoon and thank you so much colin
+Like that oh yeah I am so grateful I'm so grateful tommy so generous and tommy if I can ever repay you like today's stuff I just learned like today my mind's blown on how like being like there's a way that you can do these really controlled panorama sabotages so if I can share anything with you it would be my pleasure at some time and thank you so much for letting for sharing and being honest I mean generous and I'm sure you're honest too thank you so much everybody thank you for this afternoon and thank you so much colin
 
 ## Colin Goldberg [52:08](https://www.youtube.com/watch?v=pxavr84wDJs&t=3128s)
 
-Sure thank okay we have uh ellis up next so there's ellis and lee and that's the end of the queue as far as I can see it unless anyone else wants to get their hand up
+Sure thank okay we have ellis up next so there's ellis and lee and that's the end of the queue as far as I can see it unless anyone else wants to get their hand up
 
 ## Ellis Eclipse [52:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=3145s)
 
-Um hello can everyone hear me yes
+Hello can everyone hear me yes
 
 ## Patrick Lichty [52:29](https://www.youtube.com/watch?v=pxavr84wDJs&t=3149s)
 
-All right good uh
+All right good
 
 ## Ellis Eclipse [52:31](https://www.youtube.com/watch?v=pxavr84wDJs&t=3151s)
 
-Share screen uh it'll just be the screen ah okay so um hello my name is ellis eclipse I identify as a a virtual photographer um in the artistic sense um I this is very very much my first uh show and tell and I wanted to um start off uh correctly um by just going uh down a very short timeline of how I I went from uh basically this this was my very first uh piece batman nihilismo of uh I believe of 2021 um to um uh my uh most uh recent creation the uh untitled 1999 um so my mother um is very fascinated uh with uh artists um I her biggest her biggest she's the probably biggest fan of uh vincent van gogh and um she has always supported me through the arts whether it was uh cooking or music um but uh painting was uh probably the most recent and uh she got me uh paint by the numbers which is the canvas of this uh um frame and uh And I was getting into it.
+Share screen it'll just be the screen ah okay so hello my name is ellis eclipse I identify as a virtual photographer in the artistic sense I this is very much my first show and tell and I wanted to start off correctly by just going down a very short timeline of how I went from basically this was my very first piece batman nihilismo of I believe of 2021 to my most recent creation the untitled 1999 so my mother is very fascinated with artists I her biggest her biggest she's the probably biggest fan of vincent van gogh and she has always supported me through the arts whether it was cooking or music but painting was probably the most recent and she got me paint by the numbers which is the canvas of this frame and I was getting into it.
 
 And then it kind of frustrated me, not because I just didn't really follow the numbers, but it was mostly because it was very limiting. I had an idea of how I wanted to invert the colors that they gave me and created an entirely different piece. But my mind and my hand was very out of sync. So out of a fit of rage, I just drew a bunch of Batman. And this is like the most abstract form of Batman, if you can see it. And he was kind of like this six feet tall guy with his sword out of shape and everything and everything like that. And then that became Batman Nihilismo.
 
@@ -522,7 +522,7 @@ Lee, when you say that it's a time lapse and you're shooting running water, what
 
 ## Lee Day [01:03:37](https://www.youtube.com/watch?v=pxavr84wDJs&t=3817s)
 
-Is the length of time? It's not really time lapse. It's just a longer exposure, but it's anywhere from a tenth of a second or in some places where the water is moving quite fast it might be a 30th at the second but when you're very very close to the to the subject matter that's that's it's moving you know it's moving through and blurring quite a bit in that in that you know that that speed thank
+Is the length of time? It's not really time lapse. It's just a longer exposure, but it's anywhere from a tenth of a second or in some places where the water is moving quite fast it might be a 30th at the second but when you're very close to the to the subject matter that's it's moving you know it's moving through and blurring quite a bit in that in that you know that speed thank
 
 ## Renata Janiszewska [01:04:11](https://www.youtube.com/watch?v=pxavr84wDJs&t=3851s)
 
@@ -634,15 +634,15 @@ Anyone else? We can also certainly open up... The discussion to ideas about what
 
 ## Patrick Lichty [01:15:47](https://www.youtube.com/watch?v=pxavr84wDJs&t=4547s)
 
-Well, I mean, I think... I think that we could definitely take you on a little tour of the, you know, of the of the website of the gallery website. You know, hopefully that'll be done. Keep you in in in touch with that. And actually, you know what, if I can share just a second.
+Well, I mean, I think... I think that we could definitely take you on a little tour of the, you know, of the of the website of the gallery website. You know, hopefully that'll be done. Keep you in touch with that. And actually, you know what, if I can share just a second.
 
 ## Colin Goldberg [01:16:05](https://www.youtube.com/watch?v=pxavr84wDJs&t=4565s)
 
-Now, the theme of that show is weird media, right? Weird media. Yeah. I mean, that could be an interesting topic for the salon to sort of build off. I mean, we'd sort of be stealing your your title, but you know what?
+Now, the theme of that show is weird media, right? Weird media. Yeah. I mean, that could be an interesting topic for the salon to sort of build off. I mean, we'd sort of be stealing your title, but you know what?
 
 ## Patrick Lichty [01:16:20](https://www.youtube.com/watch?v=pxavr84wDJs&t=4580s)
 
-No. Hey, I'll tell you, you know, actually, that, you know, that would be, you know, that that would be fantastic. Just as you know, just as kind of as long as we say it's kind of, you know, it's it's kind of hooked in with the, you know, just, you know, it's just kind of, you know, we're going to talk about this is kind of, you know, as a little bit of a topical touch on the weird media show. That's great. You know, that's fantastic. You know, and we've got some of the artists who are in, you know, here and that's that's fantastic, you know, so. And by the way, one thing really, really quick, if I can, is that I'll just share this. This is what I'm talking about. So what this is, this is the central fountain in Winona. And this is, you know, Princess Winona, the, you know, they're one of the, a Sioux princess who, you know, through her self into the river, you know, nice colonial story.
+No. Hey, I'll tell you, you know, actually, that, you know, that would be, you know, that would be fantastic. Just as you know, just as kind of as long as we say it's kind of, you know, it's kind of hooked in with the, you know, just, you know, it's just kind of, you know, we're going to talk about this is kind of, you know, as a little bit of a topical touch on the weird media show. That's great. You know, that's fantastic. You know, and we've got some of the artists who are in, you know, here and that's fantastic, you know, so. And by the way, one thing really, really quick, if I can, is that I'll just share this. This is what I'm talking about. So what this is, this is the central fountain in Winona. And this is, you know, Princess Winona, the, you know, they're one of the, a Sioux princess who, you know, through her self into the river, you know, nice colonial story.
 
 But the thing is, is that the basically one of the things that I was interested in is basically I scan this with my iPad. And you can see there's some glitching to it. And I think which is really interesting. And then basically took AI with Photoshop and replace the sky. You know, that was just gray. But I mean, but the idea to me, I think, is that the expression and the gesture of, you know, just basically going out someplace and creating by moving through a space and capturing and then bringing it home and then making a piece of work out of it.
 
@@ -650,9 +650,9 @@ As a process, I really, I really like that. I really like this idea and it's sta
 
 ## Colin Goldberg [01:18:07](https://www.youtube.com/watch?v=pxavr84wDJs&t=4687s)
 
-Thank you, Patrick. So consensus. What do you guys all think of this idea of weird media? As a theme for the next salon in two weeks down with that. So, you know, you should all bust out the the work that's the weirdest, you know, and and, you know, like, I think that what's interesting is like the the work that challenges the notion of what what art is, you know, I mean, I definitely feel that if I start to think about what I'm doing, I'm going to be able to do it. But if I start thinking about this expressionism project as a piece of social sculpture versus something else, then I start thinking about what it could be in a completely different set of ways than looking at it as a collective or an artist group or any other sort of label like, you know, looking at it as as art, you know, that everybody can sort of move in the direction that they want.
+Thank you, Patrick. So consensus. What do you guys all think of this idea of weird media? As a theme for the next salon in two weeks down with that. So, you know, you should all bust out the work that's the weirdest, you know, and, you know, like, I think that what's interesting is like the work that challenges the notion of what art is, you know, I mean, I definitely feel that if I start to think about what I'm doing, I'm going to be able to do it. But if I start thinking about this expressionism project as a piece of social sculpture versus something else, then I start thinking about what it could be in a completely different set of ways than looking at it as a collective or an artist group or any other sort of label like, you know, looking at it as art, you know, that everybody can sort of move in the direction that they want.
 
-And that's what I'm thinking about. So I think that's that's really exciting to me to hear about the the Canadian node and the flavor of maple. Interesting. We have a lot of maple products here in Vermont, which I've been getting very, very hooked on. Specifically, the maple creamy, which is maple soft serve ice cream.
+And that's what I'm thinking about. So I think that's really exciting to me to hear about the Canadian node and the flavor of maple. Interesting. We have a lot of maple products here in Vermont, which I've been getting very, very hooked on. Specifically, the maple creamy, which is maple soft serve ice cream.
 
 ## Renata Janiszewska [01:19:37](https://www.youtube.com/watch?v=pxavr84wDJs&t=4777s)
 
@@ -686,7 +686,7 @@ You know,
 
 ## Colin Goldberg [01:20:59](https://www.youtube.com/watch?v=pxavr84wDJs&t=4859s)
 
-Giovanna, like what I've found is Instagram chats are a really good way to just pull people together from within the Techspressionist community. That's kind of like how the nodes first started getting organized as I thought, well, here's the index. I could see all the people right in there who are from Canada, who are from France and just started chats. So like, you know, if you want to get people together who are physically in New York City, you can go down to the New York section of the artist index, see who's in New York City and just start a group chat with an Instagram and say, hey, anyone who wants, you know, like a ticket, like I have a few comps or whatever, you know what I mean? So and I think that that's a really good way that we can use the index. Yeah. As a way to organize. Like I got a message from there's two Isaiah's.
+Giovanna, like what I've found is Instagram chats are a really good way to just pull people together from within the Techspressionist community. That's kind of like how the nodes first started getting organized as I thought, well, here's the index. I could see all the people right in there who are from Canada, who are from France and just started chats. So like, you know, if you want to get people together who are physically in New York City, you can go down to the New York section of the artist index, see who's in New York City and just start a group chat with an Instagram and say, hey, anyone who wants, you know, like a ticket, like I have a few comps or whatever, you know what I mean? So and I think that's a really good way that we can use the index. Yeah. As a way to organize. Like I got a message from there's two Isaiah's.
 
 Apparently there's two different organizations called Isaiah, but one of them is doing a conference down in Florida. And one of their people reached out to me and said, hey, are there any Techspressionist that might be interested in teaching a one day workshop in Fort Myers? So I just literally like copied and pasted all the Florida artists in the index into an email. And she reached out to a couple of them. You know what I mean? So I think that trying to organize in a localized way using things like Instagram chat, which are just prebuilt for us already. You know, I mean, if Mark Zuckerberg is going to be sucking the life out of our souls and taking all of our personal information, we should at least have some benefit from Meta's products. I'll probably be blacklisted for life by being on a recording saying that, but that's fine.
 
@@ -706,9 +706,9 @@ They'll get promoted.
 
 ## Colin Goldberg [01:23:14](https://www.youtube.com/watch?v=pxavr84wDJs&t=4994s)
 
-I did. And I think I DM do about this Patrick that I've been corresponding with your pal Roman. Yeah, I didn't know that he actually lived downtown and hung out with like, you know, Motherwell and all the old school abex painters like he's like the missing link this guy. You know, it's it's pretty remarkable.
+I did. And I think I DM do about this Patrick that I've been corresponding with your pal Roman. Yeah, I didn't know that he actually lived downtown and hung out with like, you know, Motherwell and all the old school abex painters like he's like the missing link this guy. You know, it's pretty remarkable.
 
-Just his his background and you know it looks like he's, you
+Just his background and you know it looks like he's, you
 
 ## Unattributed [01:23:43](https://www.youtube.com/watch?v=pxavr84wDJs&t=5023s)
 
@@ -744,23 +744,23 @@ Well, yeah. You know, I mean, I saw this stuff in 1994. As it's like, I'm lookin
 
 ## Colin Goldberg [01:24:59](https://www.youtube.com/watch?v=pxavr84wDJs&t=5099s)
 
-Yeah. He mentioned you specifically. We've we've exchanged a couple emails, you know, and I was sort of urging him. Him I was saying well would you mind if we listed you um in the in the Techspressionist artist index and he said well actually I identify as an algorist but I appreciate what you guys are doing and I think it's important and I respect that you know I feel like the algorists really were the first organized computer art movement right I mean uh
+Yeah. He mentioned you specifically. We've we've exchanged a couple emails, you know, and I was sort of urging him. Him I was saying well would you mind if we listed you in the in the Techspressionist artist index and he said well actually I identify as an algorist but I appreciate what you guys are doing and I think it's important and I respect that you know I feel like the algorists really were the first organized computer art movement right I mean
 
 ## Patrick Lichty [01:25:25](https://www.youtube.com/watch?v=pxavr84wDJs&t=5125s)
 
-Well I mean if you want to kind of talk about things like that you know you could probably maybe talk about eat maybe as yeah and then also Also, there were the people in Zagreb, you know, the new something with Vera Molnar and that sort of thing. And they were around the same time as, you know, but Vera Molnar is also an Algarist, you know. So, I mean, it's. You know uh so that's yeah there's yeah
+Well I mean if you want to kind of talk about things like that you know you could probably maybe talk about eat maybe as yeah and then also Also, there were the people in Zagreb, you know, the new something with Vera Molnar and that sort of thing. And they were around the same time as, you know, but Vera Molnar is also an Algarist, you know. So, I mean, it's. You know so that's yeah there's yeah
 
 ## Colin Goldberg [01:25:55](https://www.youtube.com/watch?v=pxavr84wDJs&t=5155s)
 
-As far as isms go like that they were probably the first ism to arise out of the the computer right
+As far as isms go like that they were probably the first ism to arise out of the computer right
 
 ## Patrick Lichty [01:26:03](https://www.youtube.com/watch?v=pxavr84wDJs&t=5163s)
 
-Yeah well I mean yeah and then there was you know I mean there was that thing that came out that I said the thing that came out of zagra but it I mean it's kind of like saying like the the new objectivity you know out of photography you know and you know and that sort of thing so in other words it it was kind of an ism but that had a name to it you know kind of like new media you know so I mean it's like you know yeah there yeah it one of the first sure exactly definitely
+Yeah well I mean yeah and then there was you know I mean there was that thing that came out that I said the thing that came out of zagra but it I mean it's kind of like saying like the new objectivity you know out of photography you know and you know and that sort of thing so in other words it was kind of an ism but that had a name to it you know kind of like new media you know so I mean it's like you know yeah there yeah it one of the first sure exactly definitely
 
 ## Colin Goldberg [01:26:31](https://www.youtube.com/watch?v=pxavr84wDJs&t=5191s)
 
-Right on well it's it's been really it's it's been it's been really uh yeah kind of cool to be
+Right on well it's been really it's been it's been really yeah kind of cool to be
 
 ## Unattributed [01:26:38](https://www.youtube.com/watch?v=pxavr84wDJs&t=5198s)
 
@@ -776,4 +776,4 @@ Amazing and makes
 
 ## Colin Goldberg [01:26:48](https://www.youtube.com/watch?v=pxavr84wDJs&t=5208s)
 
-Amazing bean soup nice well if uh if you guys are um able to tune in to Michael Rees's thing tomorrow um it should be a real interesting one with the mccoys um definitely casey casey reis um today was like pretty incredible to see and listen to and and uh hear about his you know development and processing and show some of his personal work it's um like really witnessing some some cool history in the making um so with that it looks like it's just about 705 so that puts us at an hour and a half mark um and I guess I will count us down until the next salon which will be on let's see the 22nd um super and that will be weird media great awesome so we will stop recording in three two one and cut
+Amazing bean soup nice well if you guys are able to tune in to Michael Rees's thing tomorrow it should be a real interesting one with the mccoys definitely casey casey reis today was like pretty incredible to see and listen to and hear about his you know development and processing and show some of his personal work it's like really witnessing some cool history in the making so with that it looks like it's just about 705 so that puts us at an hour and a half mark and I guess I will count us down until the next salon which will be on let's see the 22nd super and that will be weird media great awesome so we will stop recording in three two one and cut

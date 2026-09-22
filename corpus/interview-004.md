@@ -201,7 +201,7 @@ Okay. But you want me to go?
 
 ## Joseph Nechvatal [10:20](https://www.youtube.com/watch?v=Hjej663DEjw&t=620s)
 
-Uh, no.
+No.
 
 ## Unattributed [10:21](https://www.youtube.com/watch?v=Hjej663DEjw&t=621s)
 
@@ -209,7 +209,7 @@ I'm going to the
 
 ## Joseph Nechvatal [10:22](https://www.youtube.com/watch?v=Hjej663DEjw&t=622s)
 
-Computer. I don't have to go. I'm just giving the tour. I'm going to the ...
+Computer. I don't have to go. I'm just giving the tour. I'm going to the...
 
 ## Unattributed [10:26](https://www.youtube.com/watch?v=Hjej663DEjw&t=626s)
 
@@ -249,7 +249,7 @@ Exit from whence we came.
 
 ## Joseph Nechvatal [11:18](https://www.youtube.com/watch?v=Hjej663DEjw&t=678s)
 
-Actually, I'm not on the line, but I'll just ... I know what I'll do. I'll give you a little tour. I'll give you a little show. A little slideshow. All right. Now it's 436 PM. This is how you ... Brian Lins. I'm throwing in some Brian Glick on the student list. And as I said, we're going to continue with John Clay. Yeah. Just a little show of some of the work ... I've been doing ... The visual work I've been doing that ... Three.
+Actually, I'm not on the line, but I'll just... I know what I'll do. I'll give you a little tour. I'll give you a little show. A little slideshow. All right. Now it's 436 PM. This is how you... Brian Lins. I'm throwing in some Brian Glick on the student list. And as I said, we're going to continue with John Clay. Yeah. Just a little show of some of the work... I've been doing... The visual work I've been doing that... Three.
 
 Yeah. Three. So, this is a performance by Garth, Zach, and Juan. I mean, they blend for me. And essentially, the speech rundown is that Variation 3 requests any action by any person. Garth and I, when I am able, make independent realization. I am able to use his percussion and the left-hand half of the organ manual in his version. Okay.
 

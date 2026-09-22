@@ -17,7 +17,7 @@ flags:
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3s)
 
-Hi, everyone. My name is Colin Goldberg, and I am zooming in from Vermont, U.S.A. And we're here at the 88th text Salon, and the theme of this salon is education, and we have a special guest, moderate moderator here, Malavika. Mandel Andrew, who is here with us from India, with a bunch of her students. And basically, the idea of this salon is the students that that she's been working with have created collaborative artworks by passing digital file back and forth together. And that's something that originated from an activity in this text. Freshness community that was spearheaded by an artist named Davonte Bradley, Aka Davo, and we did a couple collaborative exhibitions using that format. And it's very exciting that Malavika has taken that idea and brought it to India. And she actually is the 1st Techspressionist artist listed in the artist index from India, and also co-founder of the Indian node along with Goba Kumar. So I'm good.
+Hi, everyone. My name is Colin Goldberg, and I am zooming in from Vermont, U.S.A. And we're here at the 88th text Salon, and the theme of this salon is education, and we have a special guest, moderate moderator here, Malavika. Mandel Andrew, who is here with us from India, with a bunch of her students. And basically, the idea of this salon is the students that she's been working with have created collaborative artworks by passing digital file back and forth together. And that's something that originated from an activity in this text. Freshness community that was spearheaded by an artist named Davonte Bradley, Aka Davo, and we did a couple collaborative exhibitions using that format. And it's very exciting that Malavika has taken that idea and brought it to India. And she actually is the 1st Techspressionist artist listed in the artist index from India, and also co-founder of the Indian node along with Goba Kumar. So I'm good.
 
 Oh.
 
@@ -101,7 +101,7 @@ This is the 1st stage. This is the second stage. Am I right?
 
 Yes. Yeah.
 
-So this was artwork done by me. It's it's fully done by me. So when we had the idea of space tourism. I wanted that an astronaut from India will be going to the space on a mission and will be standing, or, you know, jumping from the space to Boots Khalifa. So this was one of the very initial dreams I had of this competition. So it went this way around.
+So this was artwork done by me. It's fully done by me. So when we had the idea of space tourism. I wanted that an astronaut from India will be going to the space on a mission and will be standing, or, you know, jumping from the space to Boots Khalifa. So this was one of the very initial dreams I had of this competition. So it went this way around.
 
 Yes. So the second artwork shows the infinite possibilities on a voyage of universe as a part of space mission. We have dreamt of 2 friends, one from India and another from western country who have traveled on a celestial body nearby. Can I have the second one?
 
@@ -109,7 +109,7 @@ They are musicians by profession. There are space tourists, space tourists and m
 
 The another one is the musician from Western country and is playing Imperial concert piano. He is playing the piano to a suitable note to match it with that of the Indian friend. And together they are making a fusion. Music which is pleasing to the celestial friends. Up there. Together they are projecting the culture of Mother Earth in turn. They are also entertaining themselves in the vast expanse of the universe Where someone may feel lonely, otherwise All this night all this might also become a reality in near future, as countries are planning to send humans to universe in upcoming years, in different forms and on different missions. We have used adobe fresco as a tool of making both of the artworks.
 
-Digital artwork is quite fun, because whenever a mistake has been made, you can just erase it or redo it with a touch of button. But it's not possible on doing it with on the paper. I I we have used chisel, eraser, pixel brushes, live brushes and water brushes. As for making them. We also tried to add as many as elements as we could to make the appearance of the artwork look more realistic as possible. We sincerely thank the judges for selecting us and also for the platform to speak today.
+Digital artwork is quite fun, because whenever a mistake has been made, you can just erase it or redo it with a touch of button. But it's not possible on doing it with on the paper. I we have used chisel, eraser, pixel brushes, live brushes and water brushes. As for making them. We also tried to add as many as elements as we could to make the appearance of the artwork look more realistic as possible. We sincerely thank the judges for selecting us and also for the platform to speak today.
 
 Thank you so much. There you go.
 
@@ -149,7 +149,7 @@ Very interesting.
 
 ## Colin Goldberg [17:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1049s)
 
-I I believe you said you used adobe fresco. Is that the software.
+I believe you said you used adobe fresco. Is that the software.
 
 ## Kedar Shah [17:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1053s)
 
@@ -165,7 +165,7 @@ Yes.
 
 ## Colin Goldberg [17:38](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1058s)
 
-Yeah, I mean, I just have a comment about it. You know. When you said you're we're showing the the artwork is conveying the culture of earth, you know, to to people off the earth, or whatever it just made me think of how this particular salon is really bringing in people from at least, you know, 3 or 4 different countries from all over the world, and at this particular moment in history. Right after our election. I think it's. You know. It just struck me that. You know we're we're on one planet and you know, it's it's it's nice for us all to get together to look at our, to share our work and everything else like that. So yeah, it's just a little observation.
+Yeah, I mean, I just have a comment about it. You know. When you said you're we're showing the artwork is conveying the culture of earth, you know, to people off the earth, or whatever it just made me think of how this particular salon is really bringing in people from at least, you know, 3 or 4 different countries from all over the world, and at this particular moment in history. Right after our election. I think it's. You know. It just struck me that. You know we're on one planet and you know, it's nice for us all to get together to look at our, to share our work and everything else like that. So yeah, it's just a little observation.
 
 ## Kedar Shah [18:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1109s)
 
@@ -177,7 +177,7 @@ Absolutely.
 
 ## Allen Hirsh [18:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1113s)
 
-I particularly enjoy the piece with the musicians. I'm enjoying the fact that the music that is emanating from the Person playing the Indian. Drum, or whatever it is, I think it looks like a drum, is sending out peace symbols and trying to show harmony, and I think that that's quite important for all of us to see today, particularly, as Colin said, there's a connection of people different countries within the piece. If I understand what you said earlier.
+I particularly enjoy the piece with the musicians. I'm enjoying the fact that the music that is emanating from the Person playing the Indian. Drum, or whatever it is, I think it looks like a drum, is sending out peace symbols and trying to show harmony, and I think that's quite important for all of us to see today, particularly, as Colin said, there's a connection of people different countries within the piece. If I understand what you said earlier.
 
 So thank you.
 
@@ -243,7 +243,7 @@ So, Anna, you want to say you have added this. Am I right?
 
 ## Anya Chaturvedi [24:50](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1490s)
 
-Yes, ma'am, I have added this when drove, sent me his piece. I loved it absolutely, but I felt that it needed some More life to it, some more emotion to it. So I thought, What's the one thing that that's missing? The mother is missing, of course, so I tried to weave a story through the artwork, and we can see a constellation in the sky which is actually the face Of the mother. And I have also added some little details like there's a Northern light, and there are some trees. There's also a telescope, so to add depth to Vps To an already beautiful piece.
+Yes, ma'am, I have added this when drove, sent me his piece. I loved it absolutely, but I felt that it needed some More life to it, some more emotion to it. So I thought, What's the one thing that's missing? The mother is missing, of course, so I tried to weave a story through the artwork, and we can see a constellation in the sky which is actually the face Of the mother. And I have also added some little details like there's a Northern light, and there are some trees. There's also a telescope, so to add depth to Vps To an already beautiful piece.
 
 Well.
 
@@ -309,7 +309,7 @@ Lots of comments. Yes.
 
 ## Colin Goldberg [27:55](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1675s)
 
-I actually have one other question the 1st piece that had the girl sort of standing on that field of pink, the color solid color was that Painted digitally like the the figure.
+I actually have one other question the 1st piece that had the girl sort of standing on that field of pink, the color solid color was that Painted digitally like the figure.
 
 ## Anya Chaturvedi [28:11](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1691s)
 
@@ -337,7 +337,7 @@ Thank you. They're both wonderful.
 
 ## Roz Dimon [28:42](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1722s)
 
-I wanted to say one more thing. We've touched on it in the comments, but what I think some of us are particularly enjoying is not just the color and the technique, but the stories. Every artist, every artwork has a story. And you can really feel the stories. And they're they're complex. It's nice.
+I wanted to say one more thing. We've touched on it in the comments, but what I think some of us are particularly enjoying is not just the color and the technique, but the stories. Every artist, every artwork has a story. And you can really feel the stories. And they're complex. It's nice.
 
 ## Anya Chaturvedi [29:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1743s)
 
@@ -349,7 +349,7 @@ You.
 
 ## Stephen Carpenter [29:05](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1745s)
 
-I just wanna comment that it's It's really interesting from a point of view of iconography. That there are universals that are beginning to show up. And that gives me hope.
+I just wanna comment that it's really interesting from a point of view of iconography. That there are universals that are beginning to show up. And that gives me hope.
 
 ## Malavika Mandal Andrew [29:31](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1771s)
 
@@ -393,7 +393,7 @@ Please.
 
 ## Roz Dimon [33:53](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2033s)
 
-I noticed that. Thank you so much. I noticed that some of the images No, the The woman she's looking out with her her hands. But maybe it was the 1st image where she's standing on what looks like it could be a mountain or a wave. Yeah, is this? Is that? Yeah, no. The last one where the blue dress, where.
+I noticed that. Thank you so much. I noticed that some of the images No, the woman she's looking out with her her hands. But maybe it was the 1st image where she's standing on what looks like it could be a mountain or a wave. Yeah, is this? Is that? Yeah, no. The last one where the blue dress, where.
 
 ## Adrita Purkait [34:17](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2057s)
 
@@ -417,7 +417,7 @@ Like something that is uncertain, but still is something that you can build up F
 
 ## Roz Dimon [35:08](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2108s)
 
-Yeah, that's nice. And I noticed on the other one where she's in the Grand Hotel, that again from from her waist it goes out like it's kind of an unusual image to see, like again the red how it goes out. And I wonder if that has anything to do with Indian clothing or your concept, or it's just it's kind of unusual and and intriguing. Yeah, no.
+Yeah, that's nice. And I noticed on the other one where she's in the Grand Hotel, that again from her waist it goes out like it's kind of an unusual image to see, like again the red how it goes out. And I wonder if that has anything to do with Indian clothing or your concept, or it's just it's kind of unusual and intriguing. Yeah, no.
 
 ## Adrita Purkait [35:32](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2132s)
 
@@ -449,7 +449,7 @@ Yeah, I thought that was curious as a form to see it twice coming from India. I 
 
 ## lee day [36:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2167s)
 
-It's funny. I had the same reaction to it being a mountain as well. In the 1st one I thought of Mount Fuji and and Cinderella dancing over Mount Fuji.
+It's funny. I had the same reaction to it being a mountain as well. In the 1st one I thought of Mount Fuji and Cinderella dancing over Mount Fuji.
 
 ## Roz Dimon [36:16](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2176s)
 
@@ -537,7 +537,7 @@ But it's not just the plant imagery. It's that I'm not sure where the plants cam
 
 ## Malavika Mandal Andrew [43:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2583s)
 
-Yeah. So what? What? Basically, we we have done for this particular group, I mean, 1814 to 18 years group. We are not very strict with the use of the tools in the sense we have told that because they are learning. So we have told that you can create semi, you know, some part in the by hand and taking the photograph scanning it. Then you're applying all the different tools. What is available on you, I mean, whichever is comfortable to you. So that's how they develop their work. Some have done totally on digital, and some have done mixed match which is allowed for the I mean In our rules. We have said, Okay, for that.
+Yeah. So what? What? Basically, we have done for this particular group, I mean, 1814 to 18 years group. We are not very strict with the use of the tools in the sense we have told that because they are learning. So we have told that you can create semi, you know, some part in the by hand and taking the photograph scanning it. Then you're applying all the different tools. What is available on you, I mean, whichever is comfortable to you. So that's how they develop their work. Some have done totally on digital, and some have done mixed match which is allowed for the I mean In our rules. We have said, Okay, for that.
 
 Any more question for Anaya. Thank you, dear, for the.
 
@@ -551,11 +551,11 @@ So we end up our students presentation here. Thank you. Everyone for asking the 
 
 ## Colin Goldberg [44:23](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2663s)
 
-Thanks, thanks so much. Malavika. I also had the thought while these presentations were going on, that just, you know, the the students ability to articulate. You know what the work is about in English is really remarkable. You know, it made me think about how I'm not fluent in any other language. And you know I mean, most American high school students study another language, but I don't think ever get to the point where they can really speak you know, in in such a way that it just sounds like you know their native language. And you know, I think initially, I just sort of took that for granted. Oh, they're explaining their work and everything. But just the fact that it's Basically, you know, in another language that isn't their language that they probably, you know, learned initially. It's it's pretty. It's pretty amazing. So and you know, I wanted to thank you for organizing this Exhibition and project, you know, especially you know, bringing students into the mix. I think it's it's really refreshing to see the work Done by students where there's really no Other, you know. Kind of agenda. When the work is made. It's really just pure creativity, I think. In terms of you know, it's it's just kind of different. And and just showing how you know this idea to Expressionism has touched people. You know, in India. I think it's it's pretty great. So I definitely want to thank you. And you know, if I don't know if anyone in the Zoom has any general questions, comments, either for Malavika or anyone else. Just jump on in, Cynthia.
+Thanks, thanks so much. Malavika. I also had the thought while these presentations were going on, that just, you know, the students ability to articulate. You know what the work is about in English is really remarkable. You know, it made me think about how I'm not fluent in any other language. And you know I mean, most American high school students study another language, but I don't think ever get to the point where they can really speak you know, in such a way that it just sounds like you know their native language. And you know, I think initially, I just sort of took that for granted. Oh, they're explaining their work and everything. But just the fact that it's Basically, you know, in another language that isn't their language that they probably, you know, learned initially. It's pretty. It's pretty amazing. So and you know, I wanted to thank you for organizing this Exhibition and project, you know, especially you know, bringing students into the mix. I think it's really refreshing to see the work Done by students where there's really no Other, you know. Kind of agenda. When the work is made. It's really just pure creativity, I think. In terms of you know, it's just kind of different. And just showing how you know this idea to Expressionism has touched people. You know, in India. I think it's pretty great. So I definitely want to thank you. And you know, if I don't know if anyone in the Zoom has any general questions, comments, either for Malavika or anyone else. Just jump on in, Cynthia.
 
 ## Allen Hirsh [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
 
-Yes, I I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
+Yes, I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
 
 ## Malavika Mandal Andrew [46:56](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2816s)
 
@@ -569,7 +569,7 @@ Yeah. So during making my piece, I feel one challenge was that we both artists, 
 
 ## Roz Dimon [47:53](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2873s)
 
-Malavika getting back to the the English language, and thank you so much. This is so wonderful to hear everything you're doing. Seems like it's all year long you've got projects going on. It's fantastic.
+Malavika getting back to the English language, and thank you so much. This is so wonderful to hear everything you're doing. Seems like it's all year long you've got projects going on. It's fantastic.
 
 ## Malavika Mandal Andrew [48:06](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2886s)
 
@@ -585,19 +585,19 @@ No, no, it is a compulsory subject in all the schools, so almost everyone knows 
 
 ## Roz Dimon [48:51](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2931s)
 
-And that's from from Britain being, yes. Yeah, right? Yeah. Okay. But thank you. It was terrific. Really.
+And that's from Britain being, yes. Yeah, right? Yeah. Okay. But thank you. It was terrific. Really.
 
 ## Malavika Mandal Andrew [49:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2943s)
 
-Thank you. Colleen. Shall we go ahead with the the other presentations.
+Thank you. Colleen. Shall we go ahead with the other presentations.
 
 ## Colin Goldberg [49:09](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2949s)
 
-Sure you know I did. I know Sahar had asked me. You know, if there'd be time for any of the other artists to to present and you know, looks like we have about a half an hour left. So you know, she could start us off. And then, if there's anyone else that wants to share some of their work. You know. The only thing that I ask ideally is that it somehow is related to this idea or topic of education. In some way it could be work that you did as a student or work that you've done with students, or even work that, you know is created as a result of you know, an influence that was from a teacher or something like that, you know, just some way to weave it in. I did also want to remark that, you know. So this idea of taking a digital file and passing it back and forth to create a collaboration.
+Sure you know I did. I know Sahar had asked me. You know, if there'd be time for any of the other artists to present and you know, looks like we have about a half an hour left. So you know, she could start us off. And then, if there's anyone else that wants to share some of their work. You know. The only thing that I ask ideally is that it somehow is related to this idea or topic of education. In some way it could be work that you did as a student or work that you've done with students, or even work that, you know is created as a result of you know, an influence that was from a teacher or something like that, you know, just some way to weave it in. I did also want to remark that, you know. So this idea of taking a digital file and passing it back and forth to create a collaboration.
 
-You know, it was something that Davo Davonte Bradley came up with, and his inspiration for that was the collaboration between Andy Warhol and Jean-michel Basquiat, in which they made very large paintings together and took turns working on the canvases. So it's really interesting to see how you know this idea Evolved where you know it came from in terms of the roots of the idea and where it's at today. So just just kind of very cool to see the the flow. And and certainly I encourage anybody on this zoom and watching it on Youtube to go to the Techspressionism website. And under exhibitions there's Collab one and Collab 2, and that those shows have work.
+You know, it was something that Davo Davonte Bradley came up with, and his inspiration for that was the collaboration between Andy Warhol and Jean-michel Basquiat, in which they made very large paintings together and took turns working on the canvases. So it's really interesting to see how you know this idea Evolved where you know it came from in terms of the roots of the idea and where it's at today. So just kind of very cool to see the flow. And certainly I encourage anybody on this zoom and watching it on Youtube to go to the Techspressionism website. And under exhibitions there's Collab one and Collab 2, and that those shows have work.
 
-By many of the artists. Here in in this zoom that Were passed back and forth. So those were the original collaborative exhibitions that came out of the Techspressionist community. And they actually are. You know, there's something that can be experienced in VR through a platform called Kunst matrix. So they're really interesting exhibitions. At any rate, I'm gonna open it up to Sahar and yeah, feel free to to share your work with us. And thank you. If you could tell us where you're zooming in from, also, that'd be great.
+By many of the artists. Here in this zoom that Were passed back and forth. So those were the original collaborative exhibitions that came out of the Techspressionist community. And they actually are. You know, there's something that can be experienced in VR through a platform called Kunst matrix. So they're really interesting exhibitions. At any rate, I'm gonna open it up to Sahar and yeah, feel free to share your work with us. And thank you. If you could tell us where you're zooming in from, also, that'd be great.
 
 ## Sahar Moussavi [51:39](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3099s)
 
@@ -615,7 +615,7 @@ Okay? So. I am. Okay. My presentation is about jewelry design with AI. I was spo
 
 AI, and Bing image Creator, and the last one because they were able to write prompts in Farsi because we have to consider language barrier in AI tools. So Wiscom is A Is a powerful AI driven tool, tailored for designers and artists, transforming the way they visualize and conceptualize their ideas. It allows users to convert sketches, concepts, or rough visuals into high quality, realistic renderings with a focus on speed, creativity, and detail.
 
-This can be particularly valuable for fields like jewelry design, product design, automotive design, and more so I'm just going to speak about viscom because. For time saving, and I just chose Viscam. So I described viscom for the students. And this is how it looks. This is the interface of Wiscom and home files, and how can they import? And the settings? I describe everything to them, and some of them didn't have any Background in design or art, or anything else like like like the shop owner. So here I explain to them how they can import their sketches, and I have to say that actually viscom works with hand drawing sketches that students can import their files, or there is real time tools for sketching in the program, so and then they can render it later. This is how it looks when you import a file hand drawing file, so I ask them to scan or take a photo of their hand drawings or any linear drawings they have, and import it in viscom you can see the right, and I describe them, the right side panel rendering, defining, and how they can use the palettes and reference images.
+This can be particularly valuable for fields like jewelry design, product design, automotive design, and more so I'm just going to speak about viscom because. For time saving, and I just chose Viscam. So I described viscom for the students. And this is how it looks. This is the interface of Wiscom and home files, and how can they import? And the settings? I describe everything to them, and some of them didn't have any Background in design or art, or anything else like the shop owner. So here I explain to them how they can import their sketches, and I have to say that actually viscom works with hand drawing sketches that students can import their files, or there is real time tools for sketching in the program, so and then they can render it later. This is how it looks when you import a file hand drawing file, so I ask them to scan or take a photo of their hand drawings or any linear drawings they have, and import it in viscom you can see the right, and I describe them, the right side panel rendering, defining, and how they can use the palettes and reference images.
 
 And there's a small prompt box, because in viscom viscom can render without prompt. And at the left I just I showed them the layers like other Softwares that it's layered, and on top there are other tools for drawing, like eraser pencil and drawing tools, and the newest feature is that actually, after you render the 2D. File, you can export it as a 3D. File. So I chose one of my students artworks, Sara Yousefar. She's actually a classic jewelry designer who uses which uses a watercolor pencil and Classic tools for designing. So at right. This is her 1st render. She imported one of her actually very simple pencil drawing into viscom and rendered, and you can see the result at the left.
 
@@ -631,7 +631,7 @@ Should I stop sharing Colin.
 
 ## Colin Goldberg [58:59](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3539s)
 
-Yeah, you could stop sharing. Thank you so much, Sahar. That was really great presentation. Those tools are unbelievable. I've never seen something that can take you know, something like a hand done line drawing. And and translate it into 3D. Like that. Is that is that software something that runs online? Or is it run locally on your computer.
+Yeah, you could stop sharing. Thank you so much, Sahar. That was really great presentation. Those tools are unbelievable. I've never seen something that can take you know, something like a hand done line drawing. And translate it into 3D. Like that. Is that is that software something that runs online? Or is it run locally on your computer.
 
 ## Sahar Moussavi [59:28](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3568s)
 
@@ -679,7 +679,7 @@ You're saying the 3D piece is moving to another. You move to another piece of so
 
 ## Sahar Moussavi [01:00:36](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3636s)
 
-No, it just you just click the 3D model and it it generates a 3D model out of the final render.
+No, it just you just click the 3D model and it generates a 3D model out of the final render.
 
 ## Allen Hirsh [01:00:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3644s)
 
@@ -691,7 +691,7 @@ And then that could be taken, and a actually 3D. Printed so you could go to From
 
 ## Sahar Moussavi [01:01:09](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3669s)
 
-Usually they use matrix rhino and rhino. And that's they use it. And then they just 3D print it with rhino or matrix Matrixes, especially, I think, for jewelry design. But Beside the beside, the the renders they can get ideas new ideas from AI using Leonardo, and being that I didn't actually present it. But I just wanted to present. Because it's like unknown For most of people, because, like Leonardo and Midjourneys are very famous, but viscom is especially for product designers.
+Usually they use matrix rhino and rhino. And that's they use it. And then they just 3D print it with rhino or matrix Matrixes, especially, I think, for jewelry design. But Beside the beside, the renders they can get ideas new ideas from AI using Leonardo, and being that I didn't actually present it. But I just wanted to present. Because it's like unknown For most of people, because, like Leonardo and Midjourneys are very famous, but viscom is especially for product designers.
 
 So I wanted just to talk about risk.
 
@@ -709,7 +709,7 @@ Imagine that you know I mean all the tools that I personally use for my art are 
 
 ## Sahar Moussavi [01:02:41](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3761s)
 
-Actually my background. My background is it. It was a watercolored painting from when I was a teenager, and then I just put it in viscom, and rendered it, and give them give it some prompts. In one of the co-working sessions. I showed it to other other friends.
+Actually my background. My background is it. It was a watercolored painting from when I was a teenager, and then I just put it in viscom, and rendered it, and give them give it some prompts. In one of the co-working sessions. I showed it to other friends.
 
 ## Colin Goldberg [01:03:05](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3785s)
 
@@ -719,11 +719,11 @@ Awesome. Yeah, if you could put that link in the chat that would be great to the
 
 I just.
 
-There we go. Yes, I I just want to say to Sahar. This is a link, a missing link for me that I've been looking for for about 3 months. And I can't wait to try it. Just wanted to say.
+There we go. Yes, I just want to say to Sahar. This is a link, a missing link for me that I've been looking for about 3 months. And I can't wait to try it. Just wanted to say.
 
 ## Colin Goldberg [01:03:42](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3822s)
 
-Awesome. Well, we do have about 15 min left. Usually we stop the recording at. You know, 1, 30 or so. So I guess, unless there's any other questions for Sahar. If anyone else would like to to present Just, you know, jump on in so it looks like Roz and Cynthia both wanna share something. So Roz, you want to go first, st maybe go until I don't know one 22 something like that.
+Awesome. Well, we do have about 15 min left. Usually we stop the recording at. You know, 1, 30 or so. So I guess, unless there's any other questions for Sahar. If anyone else would like to present Just, you know, jump on in so it looks like Roz and Cynthia both wanna share something. So Roz, you want to go first, st maybe go until I don't know one 22 something like that.
 
 ## Roz Dimon [01:04:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3859s)
 
@@ -735,13 +735,13 @@ Okay.
 
 ## Roz Dimon [01:04:23](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3863s)
 
-Pivotal to me, pivotal to me in Art school. I went to the Lamar Dodd School of Art that's in Georgia, at the Athens, Georgia, B. 52 s. And a lot of great music coming out of there. And it's a really really wonderful art school. And I just wanted to share a drawing. I did. And what impact a teacher can make on an artist. And thank you, Sahar. And this whole presentation has been really awesome. So I just wanted to share my screen. And this I'm just showing one drawing. Let me go to share.
+Pivotal to me, pivotal to me in Art school. I went to the Lamar Dodd School of Art that's in Georgia, at the Athens, Georgia, B. 52 s. And a lot of great music coming out of there. And it's a really wonderful art school. And I just wanted to share a drawing. I did. And what impact a teacher can make on an artist. And thank you, Sahar. And this whole presentation has been really awesome. So I just wanted to share my screen. And this I'm just showing one drawing. Let me go to share.
 
-Desktop one. Okay, we're going back in time. After all this innovative high tech stuff we're doing. I'm kind of the old fogey of the group here. But can you see my image? It's a drawing of a woman. Okay, great. I thought I'd share that when I went to this is done from okay, I guess I'm revealing age getting older Older and better in some ways. But this is 1973. It's my 1st drawing school I was lucky to. I've always been able to draw, because I got it from my grandparents seriously. I could draw, since Before I could talk, and I didn't talk for a long time, which is hard for all the people here to to believe at this point, but when you find what you love, it does open you up. But I must say I went into this drawings course At the Lamar does School of Art at the University of Georgia, and I I we were drawing from the model.
+Desktop one. Okay, we're going back in time. After all this innovative high tech stuff we're doing. I'm kind of the old fogey of the group here. But can you see my image? It's a drawing of a woman. Okay, great. I thought I'd share that when I went to this is done from okay, I guess I'm revealing age getting older Older and better in some ways. But this is 1973. It's my 1st drawing school I was lucky to. I've always been able to draw, because I got it from my grandparents seriously. I could draw, since Before I could talk, and I didn't talk for a long time, which is hard for all the people here to believe at this point, but when you find what you love, it does open you up. But I must say I went into this drawings course At the Lamar does School of Art at the University of Georgia, and I we were drawing from the model.
 
 This isn't my 1st day in the class, but we were drawing seriously from the figure, the nude model, and this particular teacher had seen my earliest drawing when I, the 1st drawing I ever did, and he said, Well, look at this artist like she I mean, she can obviously draw. But he said, What is she saying. What is she saying? And just that I just oh, I just went! What? What is? What am I saying like? Look! Look how I can draw! I look how I can make this figure look like a figure. And this particular piece we were doing a figure drawing.
 
-And I stopped looking at the figure, and I started looking across at this woman in our class who was drawing the figure. And I just loved her face. And I just went after that face, and I just that for me. I just wanted to share with you how in a matter of minutes A life change can happen, because I knew. Then, when I went after this emotional thing of this woman, nothing could stop me, and I wasn't really obeying what we were supposed to be doing. But the teacher came by and said, Keep going, and that was for me a real beginning of what I think. You know How I feel, what art is all about, but it's it's all about so many things as we keep learning here, and that's all I wanted to share. But that was a big, huge educational experience for me.
+And I stopped looking at the figure, and I started looking across at this woman in our class who was drawing the figure. And I just loved her face. And I just went after that face, and I just that for me. I just wanted to share with you how in a matter of minutes A life change can happen, because I knew. Then, when I went after this emotional thing of this woman, nothing could stop me, and I wasn't really obeying what we were supposed to be doing. But the teacher came by and said, Keep going, and that was for me a real beginning of what I think. You know How I feel, what art is all about, but it's all about so many things as we keep learning here, and that's all I wanted to share. But that was a big, huge educational experience for me.
 
 ## Colin Goldberg [01:07:28](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4048s)
 
@@ -761,7 +761,7 @@ What is that work that you have in the background to? Kind of compare it to earl
 
 ## Roz Dimon [01:07:48](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4068s)
 
-That. These are the. It's from my information painting series. When I moved to New York City in the eighties, and I've told everyone here how my paintings start to fill up with pixels and squares. And there's a famous downtown nightclub called the Pyramid Club. And all of my oil paint. This is an oil painting, and it's before I got into digital. All of my oil paintings started filling up with these layers and and stories and squares and math. I mean all this math in the air. So that's what that piece is. It's from the information painting series.
+That. These are the. It's from my information painting series. When I moved to New York City in the eighties, and I've told everyone here how my paintings start to fill up with pixels and squares. And there's a famous downtown nightclub called the Pyramid Club. And all of my oil paint. This is an oil painting, and it's before I got into digital. All of my oil paintings started filling up with these layers and stories and squares and math. I mean all this math in the air. So that's what that piece is. It's from the information painting series.
 
 And I did lots of them, lots of them. And then I finally just said, Oh, you know, I gotta give up my brush. I mean, I got so tight I just. I went into 4 colors on an Ibm clunkiest Drawings you could ever see, and I was thrilled to death because I knew I knew I had to have that brush so it can be torturous. Some of these things that we have to do. But they get you going. But thanks for asking Zoe. I'd really like to show these pieces again along with digital, because it kind of tells the story for people and connects old to new. Thank you.
 
@@ -815,7 +815,7 @@ Okay. And I was the only one there, because it was between classes. I they would
 
 ## Colin Goldberg [01:16:22](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4582s)
 
-Oh, it's great, you know. It's really I think one thing that I really enjoy about this group is that there's people here who have been involved in the academic side of you know, art and technology for decades, you know. And it's really it's become sort of like a place where a lot of real, you know, pioneers are able to to come share their experiences with us All. And you know, it's it's pretty great to to see people from all different you know, age groups and levels of experience and everything else like that. So I appreciate you sharing and also giving us a little bit of that. You know the history of Of this sort of field. So yeah, thanks very much.
+Oh, it's great, you know. It's really I think one thing that I really enjoy about this group is that there's people here who have been involved in the academic side of you know, art and technology for decades, you know. And it's really it's become sort of like a place where a lot of real, you know, pioneers are able to come share their experiences with us All. And you know, it's pretty great to see people from all different you know, age groups and levels of experience and everything else like that. So I appreciate you sharing and also giving us a little bit of that. You know the history of this sort of field. So yeah, thanks very much.
 
 ## Stephen Carpenter [01:17:12](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4632s)
 
@@ -827,9 +827,9 @@ Go ahead!
 
 ## Stephen Carpenter [01:17:14](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4634s)
 
-I just want to comment to Cynthia and to everybody that the that the best learning starts when a student has an idea that they need to work out The tools, take care of themselves. And that was how I learned design. And I'm going to thank Lee Dusell, who was at Cranbrook Academy, and was my design teacher. Because, he said, you start with a premise. And everything else takes care of itself. And it's it's so true. If you learn Photoshop, that's all, you know.
+I just want to comment to Cynthia and to everybody that the that the best learning starts when a student has an idea that they need to work out The tools, take care of themselves. And that was how I learned design. And I'm going to thank Lee Dusell, who was at Cranbrook Academy, and was my design teacher. Because, he said, you start with a premise. And everything else takes care of itself. And it's so true. If you learn Photoshop, that's all, you know.
 
-But if you have an idea that Photoshop is the tool, for then, you know, Photoshop, when you're done. And that's that's that's just it's That's the only way to go.
+But if you have an idea that Photoshop is the tool, for then, you know, Photoshop, when you're done. And that's just it's That's the only way to go.
 
 ## Cynthia Beth Rubin [01:17:57](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4677s)
 
@@ -839,7 +839,7 @@ Which I wouldn't save. Of course they have to go back and do it themselves.
 
 ## Colin Goldberg [01:18:35](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4715s)
 
-Well, thanks again. Thanks so much, Cynthia, and you know, thanks a lot to Malavika, especially for organizing this salon and bringing students in from India. I think it's really special. You know. And and I appreciate all of you guys who came into the zoom. We're coming into 1 30 now. So I'm gonna stop the recording momentarily. But you're all welcome to come hang out at the after party. Actually have to drive about 2 h to take my my daughter to a dentist appointment immediately after stopping the recording. So I'm gonna have to jump.
+Well, thanks again. Thanks so much, Cynthia, and you know, thanks a lot to Malavika, especially for organizing this salon and bringing students in from India. I think it's really special. You know. And I appreciate all of you guys who came into the zoom. We're coming into 1 30 now. So I'm gonna stop the recording momentarily. But you're all welcome to come hang out at the after party. Actually have to drive about 2 h to take my daughter to a dentist appointment immediately after stopping the recording. So I'm gonna have to jump.
 
 But you guys are welcome to hang out and chat. I do know that the next salon, the next 2 salons the subjects, have been decided upon, so we don't need to come up with ideas for that. The December salon is going to be Renata, Yanaszewska, and Karen LaFleur introducing Mariniana, which is their exhibition at the Cape Cod Museum of art. It's a 2 person show that, I believe is opening this month, and they're going to be down there, as far as I know, in December, to give artist talks and stuff like that. So that show is actually also on the Techspressionism site. There's a micro site there under the exhibitions tab, so you could check out their trailer, which is amazing, and an online catalog. And then the January salon, I believe, is going to be moderated by Cynthia Beth Rubin.
 
@@ -867,7 +867,7 @@ Yeah, it's probably good.
 
 ## Colin Goldberg [01:20:34](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4834s)
 
-Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new Artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to to decide on it.
+Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new Artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to decide on it.
 
 ## Allen Hirsh [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
 
@@ -883,4 +883,4 @@ So.
 
 ## Colin Goldberg [01:22:35](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4955s)
 
-Alright awesome. Well, the the link is on Techspressionism.com. Right on the homepage is a section virtual Co working that describes the the format, and also there's a link to register for the zoom. So I hope. You guys who haven't been there? Will come check it out. So that's it from from the the record for the recording part of it. And like I said, You guys are all welcome to hang out afterwards. So this will be posted on the text. Russianism site, I would say. Probably by the end of the week. Maybe not. That's tomorrow. But sometime very soon. So yeah, thanks again, everyone. And we will stop recording in 3, 2, 1 and cut.
+Alright awesome. Well, the link is on Techspressionism.com. Right on the homepage is a section virtual Co working that describes the format, and also there's a link to register for the zoom. So I hope. You guys who haven't been there? Will come check it out. So that's it from the record for the recording part of it. And like I said, You guys are all welcome to hang out afterwards. So this will be posted on the text. Russianism site, I would say. Probably by the end of the week. Maybe not. That's tomorrow. But sometime very soon. So yeah, thanks again, everyone. And we will stop recording in 3, 2, 1 and cut.
