@@ -63,7 +63,7 @@ Is that just, claudiahart.com?
 
 ## Claudia Hart [02:58](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=178s)
 
-Yes, you can see Claudiahart.com. And, I use this in a very encyclopedic way. My, my website is, has everything in it? My web… Designer is actually, A very successful experimental jazz drummer, and part of his creative practice is still doing this with me, and we have a lot of fun with it. So, I keep it very relevant, and we get a lot of hits. I think we get some crazy number… we get about 10,000 hits, A month, I think. Anyway, so… Let's start. You wanted me to talk first about pattern… the retrospective, correct?
+Yes, you can see Claudiahart.com. And, I use this in a very encyclopedic way. My, my website is, has everything in it? My web… Designer is actually, A very successful experimental jazz drummer, and part of his creative practice is still doing this with me, and we have a lot of fun with it. So, I keep it very relevant, and we get a lot of hits. I think we get some crazy number… we get about 10,000 hits, A month, I think. Anyway, so… let's start. You wanted me to talk first about pattern… the retrospective, correct?
 
 ## Colin Goldberg [03:48](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=228s)
 
@@ -79,15 +79,15 @@ That show is… it's up currently, correct, in Austria? Yes.
 
 ## Claudia Hart [03:54](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=234s)
 
-So, this is a show that is… Yes, it's up until February 6th. And… it shows with a point of view, which is pretty much what you talked about, work of mine that starts, with earlier… things. From, not the 90s? Oh, wait, we do have a thing from the late 90s in there. We do have stuff there, but also has a certain point of view. About image making, Can you hear me? Oh, you turned off your phone. That… that is about a painting tradition, romantic painting, basically, and has this feminist woman… woman, romantic… Point of view, so the work is very selected to relate to that. And, so I'm gonna start here, at the entrance, because in these first images here, it's a sort of synopsis of everything, so, these were photographs that I did, when did I do them?
+So, this is a show that is… Yes, it's up until February 6th. And… it shows with a point of view, which is pretty much what you talked about, work of mine that starts, with earlier… things. From, not the 90s? Oh, wait, we do have a thing from the late 90s in there. We do have stuff there, but also has a certain point of view. About image making, Can you hear me? Oh, you turned off your phone. That… that is about a painting tradition, romantic painting, basically, and has this feminist woman… woman, romantic… point of view, so the work is very selected to relate to that. And, so I'm gonna start here, at the entrance, because in these first images here, it's a sort of synopsis of everything, so, these were photographs that I did, when did I do them?
 
-2002, in which I made up this fantasy character who was a fashion model. Named E, and I integrated her into, actually, analog photographs. And… I either made, used, experimental fashion designer work, or I also used, Things that I designed myself. These aren't really great images, so I want to go sort of fast through it. And this was a,. It's called The Seasons, in which a female body rots, decays, and grows roses all over itself, and these are the kind of themes we're talking about here. Also, here's another one. This is Ophelia.
+2002, in which I made up this fantasy character who was a fashion model. Named E, and I integrated her into, actually, analog photographs. And… I either made, used, experimental fashion designer work, or I also used, things that I designed myself. These aren't really great images, so I want to go sort of fast through it. And this was a,. It's called The Seasons, in which a female body rots, decays, and grows roses all over itself, and these are the kind of themes we're talking about here. Also, here's another one. This is Ophelia.
 
-That comes… the character in, the Shakespeare play, but she's an example of… The focus of the retrospective, but also this theme that has been happening since the beginning for me, in which I'm dealing with these, canonical women heroines. And, thinking very much about them in terms of 19th century romantic painting. Which I can get into a little after this. Here… here is the, this one, which I'll show a little later, also, which is the seasons in which this character… there she is. I made a 3D model, and I made up a kind of fake aging process that I called kryptonite, which was… basically, I… Made a… like, when you make your baby's gold plate your baby's booties, And then I, I put shoe polish all over it, and then I, it's just funny, that's why I mention it, and then varnished it, and I called it kryptonite, which was a kind of playful, ironic.
+That comes… the character in, the Shakespeare play, but she's an example of… The focus of the retrospective, but also this theme that has been happening since the beginning for me, in which I'm dealing with these, canonical women heroines. And, thinking very much about them in terms of 19th century romantic painting. Which I can get into a little after this. Here… here is the, this one, which I'll show a little later, also, which is the seasons in which this character… there she is. I made a 3D model, and I made up a kind of fake aging process that I called kryptonite, which was… basically, I… made a… like, when you make your baby's gold plate your baby's booties, And then I, I put shoe polish all over it, and then I, it's just funny, that's why I mention it, and then varnished it, and I called it kryptonite, which was a kind of playful, ironic.
 
-Way of dealing with history and feminism and all this. And there, it was also an animation in which the flowers grow all over her, and she rots. And dies, and then comes back to life. Again, within this, this is actually more recent work that was also acquired by the museum, in which I'm hybridizing, just as you mentioned, hand-making… handmade processes with Tech… tech processes. And, so for example, in this one. I'm gonna mention a technology here, which is the UV printer, which is a new technology that sprays pure pigment, pure chroma, as a very fine spray, onto… it can be objects, or it can be… Flat work like this, which was, A drawing. And that is a way that I'm able to integrate 3D images that are purely simulated, as you mentioned, with processes, that are extremely contemporary and could have never exist… well, didn't exist before a few years ago, right? So this mixing of things that I make with my hands and innovative new technology processes are my signature, and you wanted me to talk a little about earlier work, and I will. I sort of had… not sort of, this is what I've always done since day zero, is… Intermedia, as you mentioned. Intermedia meant, from my generation, a mixture Between medias.
+Way of dealing with history and feminism and all this. And there, it was also an animation in which the flowers grow all over her, and she rots. And dies, and then comes back to life. Again, within this, this is actually more recent work that was also acquired by the museum, in which I'm hybridizing, just as you mentioned, hand-making… handmade processes with Tech… tech processes. And, so for example, in this one. I'm gonna mention a technology here, which is the UV printer, which is a new technology that sprays pure pigment, pure chroma, as a very fine spray, onto… it can be objects, or it can be… flat work like this, which was, A drawing. And that is a way that I'm able to integrate 3D images that are purely simulated, as you mentioned, with processes, that are extremely contemporary and could have never exist… well, didn't exist before a few years ago, right? So this mixing of things that I make with my hands and innovative new technology processes are my signature, and you wanted me to talk a little about earlier work, and I will. I sort of had… not sort of, this is what I've always done since day zero, is… Intermedia, as you mentioned. Intermedia meant, from my generation, a mixture Between medias.
 
-And that is a sort of Techspressionism thing, I believe, right? That's why, I can talk to you all, and you know about The technologies I use, and also the impulse to make pictures, to make images, as opposed to algorithmic Phone-based work. There's a lot of work that's done nowadays for the phone. Phone is very important in our culture, but it also, Doesn't require much processing power, and although the new phones are super powerful, the kind of technologies I used from the beginning, Had to do with simulations, technologies, 3D, tremendously power-intensive.
+And that is a sort of Techspressionism thing, I believe, right? That's why, I can talk to you all, and you know about The technologies I use, and also the impulse to make pictures, to make images, as opposed to algorithmic phone-based work. There's a lot of work that's done nowadays for the phone. Phone is very important in our culture, but it also, doesn't require much processing power, and although the new phones are super powerful, the kind of technologies I used from the beginning, had to do with simulations, technologies, 3D, tremendously power-intensive.
 
 And, you can start, because of AI, to put this stuff on a phone, but, but before, it was way too power, hungry to be used for telephone platform, and that's why you see me doing installation-based work that mixes medium. Because it was not meant for the phone, it's meant for… to exist as images within an installation environment. So here's, like, early… did things like paintings on wood, where I do hand painting underneath, and then do a UV-printed spray, pure chroma.
 
@@ -99,9 +99,9 @@ Wallpaper yours as well?
 
 ## Claudia Hart [11:15](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=675s)
 
-Yes, the wallpaper is actually augmented reality, so I was interested in, in pattern, wallpaper, my generation, pattern and decoration, the decorative, pattern… Was very significant, but I make my patterns trackable, so when you look at it with a custom app on your phone, you can see animation in it, and this is… Trackable wallpaper. And… more from the Lynch Show, which is animated versions of Matisse paintings. In which I'm using pattern, so whereas Matisse made floral things, and I make some floral things, I'm dealing with noise, algorithmic noise, as a substitute for the organic, right?
+Yes, the wallpaper is actually augmented reality, so I was interested in, in pattern, wallpaper, my generation, pattern and decoration, the decorative, pattern… was very significant, but I make my patterns trackable, so when you look at it with a custom app on your phone, you can see animation in it, and this is… Trackable wallpaper. And… more from the Lynch Show, which is animated versions of Matisse paintings. In which I'm using pattern, so whereas Matisse made floral things, and I make some floral things, I'm dealing with noise, algorithmic noise, as a substitute for the organic, right?
 
-So, noise… Is my contemporary version of floral, and you see these appearing along with a lot… and these are very slow-moving animations where I'm really thinking I'm making a contemporary version of a painting. Right here also, is… wait, what is this? Processing history. It was also a, animation… that… Comes from the Acropolis, so I animated the figures on the Acropolis, which exist in Chicago, where I taught and lived for many years, the World's Fair.
+So, noise… is my contemporary version of floral, and you see these appearing along with a lot… and these are very slow-moving animations where I'm really thinking I'm making a contemporary version of a painting. Right here also, is… wait, what is this? Processing history. It was also a, animation… that… comes from the Acropolis, so I animated the figures on the Acropolis, which exist in Chicago, where I taught and lived for many years, the World's Fair.
 
 Was part of the history of Chicago, and we have these old buildings, part of the World's Fair, with these figures from the Acropolis, and I brought them to life and made them move a little bit, because if you're a painting and you're animated, you don't move that much. And this idea of loop-based, slowly moving translations of painting and image into, animation, but also into physical objects. Using advanced technology is, I would say, my signature. Here is another wallpaper that's augmented reality, meaning I make a custom app, and if you look at it, you see animation in it.
 
@@ -131,7 +131,7 @@ Right.
 
 ## Claudia Hart [16:04](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=964s)
 
-Of the body, as opposed to, of the noise and fast speed and glittery stuff, which is what you see in most technology art nowadays. By the way, these were mixed media paintings. Can we get bigger on that? I'll show you… I can show you closer shots of that. But these are things where I watercolored… I like to mix hand drawing, watercoloring, layers, Print with this UV printer on top of it, sand it…
+Of the body, as opposed to, of the noise and fast speed and glittery stuff, which is what you see in most technology art nowadays. By the way, these were mixed media paintings. Can we get bigger on that? I'll show you… I can show you closer shots of that. But these are things where I watercolored… I like to mix hand drawing, watercoloring, layers, print with this UV printer on top of it, sand it…
 
 ## Colin Goldberg [16:46](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1006s)
 
@@ -221,7 +221,7 @@ Gotcha.
 
 ## Claudia Hart [19:57](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1197s)
 
-And these are… you wanted me to show you this a little bit more, and we can go into that, but this is a nice way to see that these are paintings where I combined a lot of handmade Right? The underneath layers are like you could see on this one… can you see my cursor? Right, so those are my Mary Mecco floral bedsheets in my…
+And these are… you wanted me to show you this a little bit more, and we can go into that, but this is a nice way to see that these are paintings where I combined a lot of handmade right? The underneath layers are like you could see on this one… can you see my cursor? Right, so those are my Mary Mecco floral bedsheets in my…
 
 ## Colin Goldberg [20:25](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1225s)
 
@@ -277,7 +277,7 @@ I was gonna say…
 
 ## Claudia Hart [21:52](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1312s)
 
-So, I… I work with a color center, which is… They're very arty, and they… Work with basically only artists.
+So, I… I work with a color center, which is… they're very arty, and they… Work with basically only artists.
 
 ## Colin Goldberg [22:07](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1327s)
 
@@ -317,7 +317,7 @@ Yeah, I'd like to check that out, for sure.
 
 ## Claudia Hart [22:18](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1338s)
 
-Yes, he's a great colorist. Cody is a fantastic colorist. And then… and we always argue about color. Because he likes… I like low contrast, and he likes high contrast, and then we have a lot of argumentation about that. But, anyway, like, some of these… Like, this one, I actually painted a fake Mary Heilman painting underneath of it.
+Yes, he's a great colorist. Cody is a fantastic colorist. And then… and we always argue about color. Because he likes… I like low contrast, and he likes high contrast, and then we have a lot of argumentation about that. But, anyway, like, some of these… like, this one, I actually painted a fake Mary Heilman painting underneath of it.
 
 ## Colin Goldberg [22:46](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1366s)
 
@@ -333,11 +333,11 @@ Of a woman painter from that?
 
 ## Claudia Hart [23:01](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1381s)
 
-Early 20th century. And this one, there's, like, you could see there's so much handwork in this, because I hated it, and I ended up… Using tiny brushes and, like, making another painting on top of it. Which… so there's this weird mixture all the time. Of both. Also, because I can do both.
+Early 20th century. And this one, there's, like, you could see there's so much handwork in this, because I hated it, and I ended up… using tiny brushes and, like, making another painting on top of it. Which… so there's this weird mixture all the time. Of both. Also, because I can do both.
 
 ## Colin Goldberg [23:27](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1407s)
 
-Right, and you came from a… Painting background prior to working with technology, right at.
+Right, and you came from a… painting background prior to working with technology, right at.
 
 ## Claudia Hart [23:34](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1414s)
 
@@ -365,7 +365,7 @@ Okay.
 
 ## Claudia Hart [24:12](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1452s)
 
-And, yeah. I don't think it exists anymore, but, so, when I went to architecture school, they required… Realistic drawing is part of that kind of practice, and… I went to perfect my technique, and he, Warhol, made everybody copy classical sculptures.
+And, yeah. I don't think it exists anymore, but, so, when I went to architecture school, they required… realistic drawing is part of that kind of practice, and… I went to perfect my technique, and he, Warhol, made everybody copy classical sculptures.
 
 ## Colin Goldberg [24:41](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1481s)
 
@@ -373,7 +373,7 @@ So you would go in there.
 
 ## Claudia Hart [24:43](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1483s)
 
-And… Sit in a room and copy classical Like, the Venus D'Amilo, or something.
+And… Sit in a room and copy classical like, the Venus D'Amilo, or something.
 
 ## Colin Goldberg [24:52](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1492s)
 
@@ -441,7 +441,7 @@ You go first, go backwards, and then go forwards again.
 
 ## Colin Goldberg [26:43](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1603s)
 
-Well, why don't we stop the share for a second, and let me just, you know, why don't we just talk a bit, because usually… Okay. I wanted to sort of lead with this show, because it's up now, and it also… Shows, you know, a good portion of your, you know, your life's work. But just to get a little bit of a background on you for, you know, the viewers, can you tell us a little bit about, you know, just your personal background, where you were born, where you live and practice now, like, stuff like that?
+Well, why don't we stop the share for a second, and let me just, you know, why don't we just talk a bit, because usually… Okay. I wanted to sort of lead with this show, because it's up now, and it also… shows, you know, a good portion of your, you know, your life's work. But just to get a little bit of a background on you for, you know, the viewers, can you tell us a little bit about, you know, just your personal background, where you were born, where you live and practice now, like, stuff like that?
 
 ## Claudia Hart [27:13](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1633s)
 
@@ -513,7 +513,7 @@ And then, she took me to an opening at MoMA of, Barnett Newman. Which was also�
 
 ## Colin Goldberg [29:39](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1779s)
 
-What did you… About that work as an 11-year-old, you know, when you see it, it's just so… it's not what, you know, your average person is gonna think of as art, you know, with the capital A, or…
+What did you… about that work as an 11-year-old, you know, when you see it, it's just so… it's not what, you know, your average person is gonna think of as art, you know, with the capital A, or…
 
 ## Claudia Hart [29:51](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1791s)
 
@@ -621,7 +621,7 @@ Okay, gotcha. On the east side or the west side? You're on the east side?
 
 ## Claudia Hart [33:20](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2000s)
 
-I was on the east between, Fifth Avenue and What was, Broadway or something, which was a crack corner, and I remember they used the telephone booth outside, downstairs from my… where I was living. And at night, it was just… people made a lot of noise hanging around the… there were no cell phones.
+I was on the east between, Fifth Avenue and what was, Broadway or something, which was a crack corner, and I remember they used the telephone booth outside, downstairs from my… where I was living. And at night, it was just… people made a lot of noise hanging around the… there were no cell phones.
 
 ## Colin Goldberg [33:48](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2028s)
 
@@ -725,7 +725,7 @@ Right?
 
 ## Claudia Hart [36:50](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2210s)
 
-And in the beginning, you could only learn, that on a Unix… On a… on… on a very expensive… $50,000 ONNX computer.
+And in the beginning, you could only learn, that on a Unix… on a… on… on a very expensive… $50,000 ONNX computer.
 
 ## Colin Goldberg [37:03](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2223s)
 
@@ -775,7 +775,7 @@ Gosh. Now, I remember you were telling me that you, you know, you're… one of y
 
 ## Claudia Hart [39:23](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2363s)
 
-Robert Rosenblum, so that is also a very good story that, so, Rosenblum was… Part, was an art historian who was… wrote a book about romanticism. And, he was one of the first art historians who actually was not just a formalist, formally describing Things. That's what art historians did, and he brought in social content. And political content. And he wrote this book that was called… what was it called? Romantic… I can't even remember what it's called.
+Robert Rosenblum, so that is also a very good story that, so, Rosenblum was… part, was an art historian who was… wrote a book about romanticism. And, he was one of the first art historians who actually was not just a formalist, formally describing things. That's what art historians did, and he brought in social content. And political content. And he wrote this book that was called… what was it called? Romantic… I can't even remember what it's called.
 
 Because I'm old.
 
@@ -793,7 +793,7 @@ But an image maker.
 
 ## Claudia Hart [40:36](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2436s)
 
-And, they were all clustered around what was the Guggenheim then, was on 59th Street and is now the Museum of Art and Design. And, warhol? Right? So they were, doing that, And… he was my hero and my teacher, and they were very, very helpful to me, as a mutant girl who could do math and… Was inappropriately playing in a rock band and all that. So, you know. You know, my… they… they helped me a lot. And they were the ones that say… said, oh, your papers for me were the great writing, and I'm gonna help you.
+And, they were all clustered around what was the Guggenheim then, was on 59th Street and is now the Museum of Art and Design. And, warhol? Right? So they were, doing that, And… he was my hero and my teacher, and they were very, very helpful to me, as a mutant girl who could do math and… was inappropriately playing in a rock band and all that. So, you know. You know, my… they… they helped me a lot. And they were the ones that say… said, oh, your papers for me were the great writing, and I'm gonna help you.
 
 You should be publishing, or you should be doing all these different things, and they really, really helped me.
 
@@ -891,7 +891,7 @@ Involved in the group. He was my graduate advisor, so…
 
 ## Claudia Hart [45:05](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2705s)
 
-Right, so Greg… so in the be… so because… anyway, I did that, and that involved me with, this kind of performance live thing, and the reason I knew Greg was that In trying to create a context.
+Right, so Greg… so in the be… so because… anyway, I did that, and that involved me with, this kind of performance live thing, and the reason I knew Greg was that in trying to create a context.
 
 ## Colin Goldberg [45:24](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2724s)
 
@@ -899,7 +899,7 @@ So I started working with silicon graphics, and I started working with computer 
 
 ## Claudia Hart [45:34](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2734s)
 
-Rosenblum romantic painting movement, and all these figures like Ophelia and the romantic heroines from literature came from that interest. And then, you're asking about Greg Little. So, right from the beginning, we started… Tried to make a context for people working with 3D Specifically, who were, art… artists.
+Rosenblum romantic painting movement, and all these figures like Ophelia and the romantic heroines from literature came from that interest. And then, you're asking about Greg Little. So, right from the beginning, we started… tried to make a context for people working with 3D specifically, who were, art… artists.
 
 ## Colin Goldberg [46:05](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2765s)
 
@@ -931,7 +931,7 @@ You know, that sounds good. And by the time I got there, it was actually in the 
 
 ## Claudia Hart [47:00](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2820s)
 
-Right. So I started also with that machine, and then Michael Dell, who just gave a billion dollars to the Republican cause, so every child Or it can have $200. He actually ported, Lenox, And, What's Linux, and what's the other one called? Two… Unix. Yeah.
+Right. So I started also with that machine, and then Michael Dell, who just gave a billion dollars to the Republican cause, so every child or it can have $200. He actually ported, Lenox, And, what's Linux, and what's the other one called? Two… Unix. Yeah.
 
 ## Colin Goldberg [47:29](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2849s)
 
@@ -995,7 +995,7 @@ I can relate to that.
 
 ## Claudia Hart [49:54](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2994s)
 
-Yes, that's what I mean, that's what you did with expressionism, and that kind of, community building Is a very important part of my practice, so what Rachel and I did, did this project that was called The Real Fake, and we, we made a show, we made a conference at UC Sacramento, California Sacramento. She got them to fund it. We did all this stuff, and then we curated shows with it, and one of the first people that we found who actually was doing this, who we didn't know before, was Greg Little!
+Yes, that's what I mean, that's what you did with expressionism, and that kind of, community building is a very important part of my practice, so what Rachel and I did, did this project that was called The Real Fake, and we, we made a show, we made a conference at UC Sacramento, California Sacramento. She got them to fund it. We did all this stuff, and then we curated shows with it, and one of the first people that we found who actually was doing this, who we didn't know before, was Greg Little!
 
 ## Colin Goldberg [50:38](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3038s)
 
@@ -1051,7 +1051,7 @@ Right.
 
 ## Claudia Hart [51:34](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3094s)
 
-These kind of machines and this kind of technology, and it actually tracked What's now pretty cheap and easy to do.
+These kind of machines and this kind of technology, and it actually tracked what's now pretty cheap and easy to do.
 
 ## Colin Goldberg [51:41](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3101s)
 
@@ -1095,7 +1095,7 @@ We found Greg, and he was in our first real fake. Show. Cool.
 
 ## Colin Goldberg [52:20](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3140s)
 
-It's so funny how, like, you know, as… As time goes on with this project, with Techspressionism, I keep meeting people, like, of your generation, who are, you know, working with technology early on. And, like, all you guys know each other, and there's this whole, sort of, network of people, like Nina Sobell, or, Cynthia Beth Rubin, you know, like, or Ants Fault, or, like, all you guys, sort of, like… Were somehow involved, like, within academia, because, like, back then, right, like, your average computer user isn't able to really make too much interesting stuff, comparatively to, like, if you're involved with an institution, then you have access to, like, the best toys, and… you know.
+It's so funny how, like, you know, as… as time goes on with this project, with Techspressionism, I keep meeting people, like, of your generation, who are, you know, working with technology early on. And, like, all you guys know each other, and there's this whole, sort of, network of people, like Nina Sobell, or, Cynthia Beth Rubin, you know, like, or Ants Fault, or, like, all you guys, sort of, like… were somehow involved, like, within academia, because, like, back then, right, like, your average computer user isn't able to really make too much interesting stuff, comparatively to, like, if you're involved with an institution, then you have access to, like, the best toys, and… you know.
 
 ## Claudia Hart [53:03](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3183s)
 
@@ -1127,7 +1127,7 @@ Yeah, so here we are.
 
 ## Colin Goldberg [53:36](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3216s)
 
-So, you know, and the museum show that you shared is at the top, right, of this stack, so why don't you maybe go all the way down, you know, to the bottom, and share a little bit about what your earliest work involving technology was. I remember before we started the interview, you showed me something that looked sort of like… An animation on a TV set, and she was minted. To… to Bitcoin versus to the Ethereum blockchain?
+So, you know, and the museum show that you shared is at the top, right, of this stack, so why don't you maybe go all the way down, you know, to the bottom, and share a little bit about what your earliest work involving technology was. I remember before we started the interview, you showed me something that looked sort of like… an animation on a TV set, and she was minted. To… to Bitcoin versus to the Ethereum blockchain?
 
 ## Claudia Hart [54:05](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3245s)
 
@@ -1151,7 +1151,7 @@ Can you hit escape, maybe? I saw something pop up.
 
 Oh yeah, that's good. But we want to see that other thing. Fair. So, he… That's a, was based… oh, it should loop.
 
-Oh, see, that's bad too, so I'm gonna hit… well, that was enough. And… and what… what we did with that… There's some… it was actually in an early experimental animation show at PS1, and then, there were NFTs, and then there were ordinals, which is like, a thing that's minted or written into the blockchain. And that only happened about 4 or 5 years ago, and I made… I was in the first crop of people who made an ordinal.
+Oh, see, that's bad too, so I'm gonna hit… well, that was enough. And… and what… what we did with that… there's some… it was actually in an early experimental animation show at PS1, and then, there were NFTs, and then there were ordinals, which is like, a thing that's minted or written into the blockchain. And that only happened about 4 or 5 years ago, and I made… I was in the first crop of people who made an ordinal.
 
 ## Colin Goldberg [56:13](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3373s)
 
@@ -1235,7 +1235,7 @@ Yes.
 
 ## Colin Goldberg [58:46](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3526s)
 
-You know, a lot of people aren't even interested in the content. They're like, oh, that's cool, you know, that's augmented reality, or that's virtual reality, but like, what is… what is it about? And I think that's something that, you know, your work has a lot of… Depth, because, you know, there… it's actually using the technology to express something that's more grounded in art history and, you know, things like topics like feminism. Yeah. You know.
+You know, a lot of people aren't even interested in the content. They're like, oh, that's cool, you know, that's augmented reality, or that's virtual reality, but like, what is… what is it about? And I think that's something that, you know, your work has a lot of… depth, because, you know, there… it's actually using the technology to express something that's more grounded in art history and, you know, things like topics like feminism. Yeah. You know.
 
 ## Claudia Hart [59:13](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3553s)
 
@@ -1287,7 +1287,7 @@ And you've had multiple shows with this gallery, correct?
 
 ## Claudia Hart [01:01:38](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3698s)
 
-Yeah, so, here's something that was in this recent BidForm show, which has an early animation in it. So, I was curated into a two-person show with Marina Zirkow, who also works, Still with BitForms by Michelle Thurse, who was an early curator of weird experimental artists working with technology when it was weird and experimental. Now computers are ubiquitous, and it's not.
+Yeah, so, here's something that was in this recent BidForm show, which has an early animation in it. So, I was curated into a two-person show with Marina Zirkow, who also works, still with BitForms by Michelle Thurse, who was an early curator of weird experimental artists working with technology when it was weird and experimental. Now computers are ubiquitous, and it's not.
 
 ## Colin Goldberg [01:02:08](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3728s)
 
@@ -1319,9 +1319,9 @@ And I made a vocabulary of 50 different wallpapers.
 
 ## Claudia Hart [01:04:29](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3869s)
 
-The… with, AI, In the beginning of… Voice, you know, written, language to image. And I use this vocabulary of the 50 wallpapers as the basis of many, many different things that I do. So this thing has this sort of impressionistic wallpaper, right, as a layer. And then, my Mary Mecco hand-painted Bedsheets, right? I make it very transparent, so you could see the wood texture of the natural wood under it. I use a big brush, With, watery, you know, acrylic.
+The… with, AI, In the beginning of… voice, you know, written, language to image. And I use this vocabulary of the 50 wallpapers as the basis of many, many different things that I do. So this thing has this sort of impressionistic wallpaper, right, as a layer. And then, my Mary Mecco hand-painted Bedsheets, right? I make it very transparent, so you could see the wood texture of the natural wood under it. I use a big brush, With, watery, you know, acrylic.
 
-But thin down paint, where you really see the brush strokes. As a layer, I use my romantic moldy wallpaper. This one, I was… Playing more with.
+But thin down paint, where you really see the brush strokes. As a layer, I use my romantic moldy wallpaper. This one, I was… playing more with.
 
 ## Colin Goldberg [01:05:34](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=3934s)
 
@@ -1381,7 +1381,7 @@ I don't care, you know? I mean, some of them do, and some of them don't. You kno
 
 ## Claudia Hart [01:08:36](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4116s)
 
-But you have to be in a painting space. For that to happen, because what I find is that when you're in a digital space. Like, the aesthetic and the choice of palette… All of this stuff is prohibitive.
+But you have to be in a painting space. For that to happen, because what I find is that when you're in a digital space. Like, the aesthetic and the choice of palette… all of this stuff is prohibitive.
 
 ## Colin Goldberg [01:08:53](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4133s)
 
@@ -1707,7 +1707,7 @@ I remember seeing his… some of his, CNC sculptures. Yes, it's right! They were
 
 ## Claudia Hart [01:19:31](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4771s)
 
-And he also did cast metal and bronze, and he, you know, used his teaching His, he made labs for himself and taught at places where he could use the technology, which is exactly what I did. I taught at the School of the Art Institute for 16 years, which didn't just give me A salary, which allowed me to do whatever I want. But also, a lab. Which was the entire school. It's funny.
+And he also did cast metal and bronze, and he, you know, used his teaching his, he made labs for himself and taught at places where he could use the technology, which is exactly what I did. I taught at the School of the Art Institute for 16 years, which didn't just give me A salary, which allowed me to do whatever I want. But also, a lab. Which was the entire school. It's funny.
 
 ## Colin Goldberg [01:20:05](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4805s)
 
@@ -1731,7 +1731,7 @@ Well, you have to do a, you know, if you're willing to do it, do a salon with us
 
 ## Claudia Hart [01:20:50](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4850s)
 
-Well, I wanted to ask Steve, because I was trying to figure out How did they find me to be a bass player in Foolish Virgins? Like, how did they know it was me? And then I thought, did Steve Miller say, you should get in touch with that crazy girl? She'll.
+Well, I wanted to ask Steve, because I was trying to figure out how did they find me to be a bass player in Foolish Virgins? Like, how did they know it was me? And then I thought, did Steve Miller say, you should get in touch with that crazy girl? She'll.
 
 ## Colin Goldberg [01:21:09](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=4869s)
 
@@ -1797,7 +1797,7 @@ Was Robert Rauschenberg involved in that, too?
 
 ## Claudia Hart [01:23:21](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5001s)
 
-Yes. And John Cage, and you know. Everybody who is anybody. And, oh, why is this small? But… I did… I have to fix that. So, I never did get money to make any of this, but I did get… A chance to review my entire life, and I made performance art out of it. So the character… became me, performing me. In live storytelling. That's what happened. So, the character that would be living forever… Let's see if I could get this. This actually is… the one…. How do I make this big?
+Yes. And John Cage, and you know. Everybody who is anybody. And, oh, why is this small? But… I did… I have to fix that. So, I never did get money to make any of this, but I did get… A chance to review my entire life, and I made performance art out of it. So the character… became me, performing me. In live storytelling. That's what happened. So, the character that would be living forever… let's see if I could get this. This actually is… the one…. How do I make this big?
 
 That… I see that first one, and the top left has the full screen. Oh, yeah, that has the full screen. Alright, let's do that. Memory theater for… Okay. But I don't like this one. Wait. I'd rather do this one. This one. So, in these, I tell these stories. Is it going? Help.
 
@@ -1969,9 +1969,9 @@ And that's gonna be in… that's gonna be in Rotterdam?
 
 ## Claudia Hart [01:29:44](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5384s)
 
-That's in Rotterdam. It opens on the 20… at this, it's called the Boyman's Depot. It's a very fan… the Boyman's Museum is a historic museum on par with the Louvre, with a historic, important collection that they've made open to the public to… Enter and U… and C. And touch… Well, you can't touch it, but I got to touch it. And then, they built this, like, glass flying saucer called the Depot for its new technologies branch. And, I'm in one of the first shows. There's 3 artists, it's called Pixel Pioneers.
+That's in Rotterdam. It opens on the 20… at this, it's called the Boyman's Depot. It's a very fan… the Boyman's Museum is a historic museum on par with the Louvre, with a historic, important collection that they've made open to the public to… enter and U… and C. And touch… well, you can't touch it, but I got to touch it. And then, they built this, like, glass flying saucer called the Depot for its new technologies branch. And, I'm in one of the first shows. There's 3 artists, it's called Pixel Pioneers.
 
-And we each get a mini solo show, I guess. It was supposed… I don't know what it is. And mine is this commission where I'm commissioned to make Every medium. That's responding or emerging from this early dolls work, which we're re-staging, with the original dancer, who's a good friend of mine, Christina Isabelle, that's her. Dancing over there. In the middle. And she's wearing a paper doll dress. When we did it, it was the beginning of projection mapping, so it was very frustrating to her. It was like, if you're a painting, you would move… if you're an animation who was a painting, you would move very slow. Well, if you were dancing with projection mapping on you.
+And we each get a mini solo show, I guess. It was supposed… I don't know what it is. And mine is this commission where I'm commissioned to make every medium. That's responding or emerging from this early dolls work, which we're re-staging, with the original dancer, who's a good friend of mine, Christina Isabelle, that's her. Dancing over there. In the middle. And she's wearing a paper doll dress. When we did it, it was the beginning of projection mapping, so it was very frustrating to her. It was like, if you're a painting, you would move… if you're an animation who was a painting, you would move very slow. Well, if you were dancing with projection mapping on you.
 
 12 years ago, you couldn't really move that much. You can only move your upper body a little. Which was very disturbing to her, because she was used to dancing, and she would get mad at me.
 
@@ -2025,7 +2025,7 @@ Right, it was fun.
 
 ## Colin Goldberg [01:32:15](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5535s)
 
-Yeah, no, absolutely. You know, and I know you and I talked through some of this stuff, initially, and you said, well, you know, we can always edit… edit the parts we don't want out, but I'm of the philosophy of, like… like Warhol when he made his movies, just… Started the recording, and then just let it go, and then it's done.
+Yeah, no, absolutely. You know, and I know you and I talked through some of this stuff, initially, and you said, well, you know, we can always edit… edit the parts we don't want out, but I'm of the philosophy of, like… like Warhol when he made his movies, just… started the recording, and then just let it go, and then it's done.
 
 ## Claudia Hart [01:32:36](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=5556s)
 

@@ -263,7 +263,7 @@ The model of tech expression is. And he's interested in maybe capitulating this.
 
 And I was like, no, I haven't. Haven't done that. And he said, well, it's in the paid version, which I have the paid version because I also use it. For client work. And I tried it out this past week and it's. It's just mind boggling. Like you are having a conversation. With an AI and it's completely natural language. And I asked it. About expressionism.
 
-And it went on to expound about what it is. I asked about its relationship to. The expressionist movements of the past. It capitulated it very intelligently. And. It's just pretty staggering. Honestly, if you guys use chat GPT at all, I think the voice to voice thing is part of the paid. Version of it, but you could get the same results through.
+And it went on to expound about what it is. I asked about its relationship to. The expressionist movements of the past. It capitulated it very intelligently. And. It's just pretty staggering. Honestly, if you guys use ChatGPT at all, I think the voice to voice thing is part of the paid. Version of it, but you could get the same results through.
 
 You know, the text to text. Interaction, but I thought that was, that was pretty wild and. Yeah. You know, I, I really. It, this whole situation is it's very encouraging. What you two have done is, is pretty awesome. And. Again, I definitely would encourage. You know, individual artists to. Think about it, you know, and if you have someone in particular that you've collaborated with on the past or whatever, I just think it's a good. It's a good pitch to get in the door to an exhibition space.
 

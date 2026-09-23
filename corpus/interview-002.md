@@ -89,7 +89,7 @@ Yeah I'd say aesthetically I've always been interested in medieval art I think b
 
 ## Colin Goldberg [10:03](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=603s)
 
-To work yeah I noticed that airplane piece was one of the ones that I reposted to the Techspressionism feed and I thought that was really interesting you know how you know you're bringing in photographs of the past and the present and the present and the future and you know I'm glad that people put those pieces together because there was also photographic imagery and sort of I guess those pieces were involved ai in some way
+To work yeah I noticed that airplane piece was one of the ones that I reposted to the Techspressionism feed and I thought that was really interesting you know how you know you're bringing in photographs of the past and the present and the present and the future and you know I'm glad that people put those pieces together because there was also photographic imagery and sort of I guess those pieces were involved AI in some way
 
 ## Anne Spalter [10:22](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=622s)
 
@@ -617,7 +617,7 @@ And I'm really excited to have you on the show. Determine what our reality is ye
 
 ## Anne Spalter [53:43](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3223s)
 
-All the time with ai because you know at the end of count zero where there's the machine making the little like joseph cornell artworks totally
+All the time with AI because you know at the end of count zero where there's the machine making the little like joseph cornell artworks totally
 
 ## Colin Goldberg [53:51](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3231s)
 

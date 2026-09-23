@@ -338,7 +338,7 @@ I use angels because I'm always curious about angels because angel is in between
 
 I make fun of these. Of course. These are these are very I which I think is interesting. So why do we have humans that like the angel want to kill them? So this isn't like my black humor. So I research a lot of human history and like also like those ancient like ancient war and sign and a lot of science. My style is like you see like surrealism and I, of course, I call myself take precision lesion. This is a new genre, right? So we that's why we have we can meet together.
 
-So I also developed the other transomination. It's more like a geometric metric mathematic so I use all the cube and some part partial of these are like a ai generated r and I must manipulate with the colors image and some of course some filter and special effects so this is a great thanks to and spexler that I joined NETiNOW curation. So we all know that it was a feature by Artnet.
+So I also developed the other transomination. It's more like a geometric metric mathematic so I use all the cube and some part partial of these are like a AI generated r and I must manipulate with the colors image and some of course some filter and special effects so this is a great thanks to and spexler that I joined NETiNOW curation. So we all know that it was a feature by Artnet.
 
 And so I also joined several Metaverse curation. So I got more exposure. So if you want to see, you can see the, this is the metamuseums.io. My friend Vera and Daniel Millenial, they're the founder and co-founder of this metamuseum.io. So they still have a lot of Metaverse project that I can coordinate next year.
 

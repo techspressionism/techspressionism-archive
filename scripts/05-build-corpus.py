@@ -27,7 +27,7 @@ from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from lib_corrections import apply_style_rules, apply_vocabulary, correct_text, fix_midsentence_caps
+from lib_corrections import apply_style_rules, apply_vocabulary, correct_text, fix_midsentence_caps, _ordinary_words
 from lib_media import TYPES, label, selected, slug
 from lib_sentences import sentence_times
 from lib_speakers import canonical_name, finalize_speakers, is_not_speaker
@@ -424,7 +424,14 @@ def fix_continuation_capitalization(text):
     if not m:
         return text
     word = (m.group(1) + m.group(2)).lower()
-    if word in CONTINUATION_LOWERCASE_WORDS:
+    # The hardcoded set above is deliberately tiny (never proper nouns, so always
+    # safe). Beyond it, data/lowercase-words.json (the same curated "never a name"
+    # list fix_midsentence_caps trusts) is safe here too, for the same reason: the
+    # caller has already established this cue is a same-speaker, no-real-pause
+    # continuation of the previous one, so a capital here is never a sentence
+    # start -- only ever Zoom's per-cue auto-capitalization (Colin, 22 September
+    # 2026, reported via "Qualities"/"Became"/"Exists"/"Come" in Interview 28).
+    if word in CONTINUATION_LOWERCASE_WORDS or word in _ordinary_words():
         return m.group(1).lower() + text[1:]
     return text
 

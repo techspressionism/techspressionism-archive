@@ -443,7 +443,7 @@ And I said, OK, where did it come from? Let me see if I can find out. And then I
 
 ## Davonte Bradley [52:18](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3138s)
 
-Is that the Oracle of Delphi? It's the Oracle of Open AI? Yeah.
+Is that the Oracle of Delphi? It's the Oracle of OpenAI? Yeah.
 
 ## Verneda Lights [52:24](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3144s)
 

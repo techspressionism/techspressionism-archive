@@ -48,15 +48,15 @@ languages: ["en"]
 
 ## Cynthia Beth Rubin [00:02](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2s)
 
-Great, so welcome to everybody, to our session on perspective, which is a very vast Wide, open term. Open to whatever interpretation people have. You can be talking about traditional perspective in space, cultural perspectives. The ways in which perspective has the concept of perspective has. Influenced your work and maybe your ideas about perspective have changed over time. Really, we're just happy to be here sharing our work and sharing our ideas. And Colin just put into the chat The very important Point, which is that if you're not sharing to mute, so that when the guys next door start mowing their lawns or the dogs start barking.
+Great, so welcome to everybody, to our session on perspective, which is a very vast Wide, open term. Open to whatever interpretation people have. You can be talking about traditional perspective in space, cultural perspectives. The ways in which perspective has the concept of perspective has. Influenced your work and maybe your ideas about perspective have changed over time. Really, we're just happy to be here sharing our work and sharing our ideas. And Colin just put into the chat The very important point, which is that if you're not sharing to mute, so that when the guys next door start mowing their lawns or the dogs start barking.
 
-Whatever. And you know what I'm gonna do. That I forgot to do is put my phone into do not disturb because somebody's gonna call when I'm in the middle of speaking which they still do. Anyway, somehow some of the calls get through so be ready to hang up On people as well if it comes in middle speaking. I also want to point out that the zoom interface has changed some. And if you're showing video, and you have sound over to the right when you go to share these little boxes that you need to click. And I think it's a good idea to click those, anyway. Share video, and share sound. So it's pretty it's pretty important to do that, or we don't get smooth video. We can't hear what you're doing.
+Whatever. And you know what I'm gonna do. That I forgot to do is put my phone into do not disturb because somebody's gonna call when I'm in the middle of speaking which they still do. Anyway, somehow some of the calls get through so be ready to hang up on people as well if it comes in middle speaking. I also want to point out that the zoom interface has changed some. And if you're showing video, and you have sound over to the right when you go to share these little boxes that you need to click. And I think it's a good idea to click those, anyway. Share video, and share sound. So it's pretty it's pretty important to do that, or we don't get smooth video. We can't hear what you're doing.
 
-Colin suggested that I take a minute and talk about our Tuesday co-working group. Which has been a wonderful Time, and many of the people who are here today are part of the Tuesday co-working group. And what we do is we meet on Tuesdays at this time. And we meet for an hour to start with. So everyone goes around the group. It's wide open with no commitments about what you're gonna do. And we go around and say what we're gonna do for the next hour. And then people mute themselves, and they either keep their video on or not.
+Colin suggested that I take a minute and talk about our Tuesday co-working group. Which has been a wonderful time, and many of the people who are here today are part of the Tuesday co-working group. And what we do is we meet on Tuesdays at this time. And we meet for an hour to start with. So everyone goes around the group. It's wide open with no commitments about what you're gonna do. And we go around and say what we're gonna do for the next hour. And then people mute themselves, and they either keep their video on or not.
 
-And then we work, and we come back on at the end of the hour, and we share our work, and it's Evolved into a kind of quick group, support group, hand holding group where we push each other. Encouragement group. We've made some really deep friendships over the past year with some of us never meeting. Some of us have met in person, but feeling like We're really tight, best friends. So I encourage you to join that, and if that time is impossible for you. We did say at the outset, cynthia did nota who's on this call? Zoom also, and I were the initial organizers, although we take turns leading we did say that we would help people set up another time. No. One's indicated that they're interested in that.
+And then we work, and we come back on at the end of the hour, and we share our work, and it's Evolved into a kind of quick group, support group, hand holding group where we push each other. Encouragement group. We've made some really deep friendships over the past year with some of us never meeting. Some of us have met in person, but feeling like we're really tight, best friends. So I encourage you to join that, and if that time is impossible for you. We did say at the outset, cynthia did nota who's on this call? Zoom also, and I were the initial organizers, although we take turns leading we did say that we would help people set up another time. No. One's indicated that they're interested in that.
 
-So. Anyway, you're Interested in another time, and you want some help setting it up. That's possible to do. I think those of us who've been doing it on Tuesdays. Now it's It'd be hard for us to make a second one. Cynthia, did you have anything you wanted to add?
+So. Anyway, you're interested in another time, and you want some help setting it up. That's possible to do. I think those of us who've been doing it on Tuesdays. Now it's it'd be hard for us to make a second one. Cynthia, did you have anything you wanted to add?
 
 ## Allen Hirsh [03:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=235s)
 
@@ -64,9 +64,9 @@ Just wanna say that we're very encouraging and welcoming to people, even though 
 
 ## Cynthia Beth Rubin [04:34](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=274s)
 
-That's a really good point. We're trying to get one of those AI translators to work. But I thought we had one, and it turns out, it costs like $1,500 to subscribe. So we're not doing that. But we have simultaneously,. Just paste it into Google translator reverso. What's going on into the chat, and that has worked. Thank you for putting the other link into the chat. It's not the same link as this link to join on Tuesdays. It's on the website, but it's a different link. And Anyway.
+That's a really good point. We're trying to get one of those AI translators to work. But I thought we had one, and it turns out, it costs like $1,500 to subscribe. So we're not doing that. But we have simultaneously,. Just paste it into Google translator reverso. What's going on into the chat, and that has worked. Thank you for putting the other link into the chat. It's not the same link as this link to join on Tuesdays. It's on the website, but it's a different link. And anyway.
 
-Once you sign up, you'll just get a reminder every week with the link. So you can just go to the Techspressionist, website and sign up. And it's a good idea for people to go to Techspressionist website every now and then. Anyway, there's always great information, including information about the wonderful upcoming exhibit. Hello, Brooklyn! Where, hopefully, we'll see A lot of people in person Rape. So Now I think we should just jump in and get going. So, William, your 1st and. I'm going to put on my timer and give you I will give you a 2 min warning. I find a 1 min warning often is not enough.
+Once you sign up, you'll just get a reminder every week with the link. So you can just go to the Techspressionist, website and sign up. And it's a good idea for people to go to Techspressionist website every now and then. Anyway, there's always great information, including information about the wonderful upcoming exhibit. Hello, Brooklyn! Where, hopefully, we'll see A lot of people in person Rape. So now I think we should just jump in and get going. So, William, your 1st and. I'm going to put on my timer and give you I will give you a 2 min warning. I find a 1 min warning often is not enough.
 
 So. Are you ready to share your screen.
 
@@ -158,7 +158,7 @@ They gotta keep us hopping.
 
 ## Roz Dimon [08:02](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=482s)
 
-Really get through an open door. So these things are hard for me. Okay, all right, I'm getting ready to share. I'm sharing from Shelter Island, the booming metropolis of Shelter Island. Out in the Hamptons. We're a little island, with The Hamptons on one side and the north work on the other 90 miles from New York City. Which I also consider home forever. Okay. I'm gonna share My desktop. Oh, they're asking for my password. Oh, my God, I'm jeepers! Are you guys? Seeing my desktop.
+Really get through an open door. So these things are hard for me. Okay, all right, I'm getting ready to share. I'm sharing from Shelter Island, the booming metropolis of Shelter Island. Out in the Hamptons. We're a little island, with The Hamptons on one side and the north work on the other 90 miles from New York City. Which I also consider home forever. Okay. I'm gonna share my desktop. Oh, they're asking for my password. Oh, my God, I'm jeepers! Are you guys? Seeing my desktop.
 
 ## Cynthia Beth Rubin [08:35](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=515s)
 
@@ -174,7 +174,7 @@ Ready to roll.
 
 ## Roz Dimon [08:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=518s)
 
-All right. Good. So play from start. Okay, perspective. You know, I'm talking about all kinds of perspectives. Some of the people in this group have heard this talk a little bit, but it just seems to be right for this topic. First, st I want to just talk a little about emotional perspective from my own life. I mean, things were really going uphill in the nineties. I started in digital in the eighties. But by the nineties things were really rolling along Was really very fun to be in a force magazine article with David Hockney and others. I'm sorry for the low risk picture, but I was having shows in Soho early shows of digital art getting lots of attention. And it's fun, and doing pieces like the world's greatest bar chart using shockwave and macromedia. This is an interactive piece. It's analyzing money in a kind of funny, irreverent way. Curated show called code that several people here were in that show. I know Cynthia and Annette.
+All right. Good. So play from start. Okay, perspective. You know, I'm talking about all kinds of perspectives. Some of the people in this group have heard this talk a little bit, but it just seems to be right for this topic. First, st I want to just talk a little about emotional perspective from my own life. I mean, things were really going uphill in the nineties. I started in digital in the eighties. But by the nineties things were really rolling along was really very fun to be in a force magazine article with David Hockney and others. I'm sorry for the low risk picture, but I was having shows in Soho early shows of digital art getting lots of attention. And it's fun, and doing pieces like the world's greatest bar chart using shockwave and macromedia. This is an interactive piece. It's analyzing money in a kind of funny, irreverent way. Curated show called code that several people here were in that show. I know Cynthia and Annette.
 
 For sure. And it was an international show, and it was very exciting sponsored by Microsoft wayfront. You usually don't get all these people. Robert Green, worker associates, big big time players in this show, also working at the World Trade Center for about a decade. I was working their 1st freelance, and then at a point when Pratt said, Sure you could go graduate school, but you could teach half the courses. I got an offer to go to Deloitte, and I started their 1st new media department, and I found working in corporate art and fine art very exciting, and loved kind of joining those arms together. Wsh.com things were. I was always near these twin towers, and live near as well, and things just looked up up. I mean, you know what could go wrong. Well, you know things as we know, life's fragile and things can change in an instant.
 
@@ -182,7 +182,7 @@ Here's the entrance to the World Financial Center, where several of I work there
 
 If we can just hang on through tough times, I think we can make even more meaningful art that connects with others. If we stay empath to the world and listening in traditional perspective, as we know, the vanishing point is, is as it is, we're looking from our point of view, and going to a single point perspective on the horizon, and with icons which I'm going to go into soon, which were a major influence on me of the vanishing point is you? I mean, it's exactly opposite. It's like the painting is. It's all about this painting of multiple layers that comes out and speaks to the viewer, and I was just astounded by that. So I was thinking, how can I reach with all my wizardry and digital and creativity and ideas. How can I? How can I reach people in a way that makes any meaningfulness? And I went to this show at the Metropolitan in about 2,003, I think.
 
-And it was it said that icons which never really interested me too much honestly, even though I'm an interfaith minister, and spirituality is just a part of my being and my work. It said that icons were a source of comfort to a nation besieged. And I was like, Wow! And they're made of these layers, flat, flat layers of color and symbolism. I was just absolutely fascinated, and I took a big detour, and I left my computer and all my Wacom tablets and everything and started took. I have this board because I took an Icon class, 3 of them, actually. And this is where you're really not just painting an icon. But you're they call it writing an icon, because you're praying for about a solid week, and 1st I see in this board, then comes up the light Layers of the theatocus. I'm a I'm actually copying my rabbi kept coming by and telling me to stop my arm, you know, like too much passion. It was like totally Eastern and different perspective of reverence and containment and worship of a icon that was already thousands of years old, that you're looking at, and you and you're redoing it and copying it, and every single color in this egg temper means something like earth tones. And as Mary develops, I took pictures, I was thinking.
+And it was it said that icons which never really interested me too much honestly, even though I'm an interfaith minister, and spirituality is just a part of my being and my work. It said that icons were a source of comfort to a nation besieged. And I was like, Wow! And they're made of these layers, flat, flat layers of color and symbolism. I was just absolutely fascinated, and I took a big detour, and I left my computer and all my Wacom tablets and everything and started took. I have this board because I took an Icon class, 3 of them, actually. And this is where you're really not just painting an icon. But you're they call it writing an icon, because you're praying for about a solid week, and 1st I see in this board, then comes up the light layers of the theatocus. I'm a I'm actually copying my rabbi kept coming by and telling me to stop my arm, you know, like too much passion. It was like totally Eastern and different perspective of reverence and containment and worship of a icon that was already thousands of years old, that you're looking at, and you and you're redoing it and copying it, and every single color in this egg temper means something like earth tones. And as Mary develops, I took pictures, I was thinking.
 
 This is somehow gonna relate to the digital work I do, and it has layers and layers. Sacredness comes into it. Flat, flat washes praying the whole time. And this was my icon, my 1st icon. I did the version of bright sorrows, and you know the empathy, and her. Her nose is small, her lips are small, the eyes are large, and it's like through the eyes. There's a window to the viewer who people have these in their homes, and they pray into these pieces.
 
@@ -218,11 +218,11 @@ Wow. I don't see my. Photos.
 
 ## Cynthia Beth Rubin [17:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1031s)
 
-Yeah, I The interface and zoom has really gotten not very good. And if you have other. Windows open, I suggest that people Try to quit your other applications because I had that problem.
+Yeah, I The interface and zoom has really gotten not very good. And if you have other. Windows open, I suggest that people try to quit your other applications because I had that problem.
 
 ## Verneda Lights [17:28](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1048s)
 
-Yeah, I don't have any Other applications really other than the Safari. And my photos.
+Yeah, I don't have any other applications really other than the Safari. And my photos.
 
 ## Cynthia Beth Rubin [17:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1058s)
 
@@ -296,7 +296,7 @@ Okay. So I grew up during the Iran Iraq War, which lasted from 1980 to 1988, and
 
 And so some impossible happens suddenly. And is, the video is playing. It's not. Okay.
 
-So then, that was one of the impossible things that happened, and another experience that afflicted my ideas of impossible happening was the dissolution of the Soviet Union by the time we were living in a border town next To the Soviet Union border, and in 1991, when I was 11 years old, we were surprised to see a large crowd of people On the street that entered our town from the other side of the border, searching for their families who they got separated like after 70 years.
+So then, that was one of the impossible things that happened, and another experience that afflicted my ideas of impossible happening was the dissolution of the Soviet Union by the time we were living in a border town next to the Soviet Union border, and in 1991, when I was 11 years old, we were surprised to see a large crowd of people on the street that entered our town from the other side of the border, searching for their families who they got separated like after 70 years.
 
 So that was another surprise that something impossible happened. Who would think that Soviet Union will disappear? I'm just playing the videos during my presentation. So I think this experience this experience, does stay.
 
@@ -330,7 +330,7 @@ Yeah, and then play the video. Afterwards you can escape back and click, share. 
 
 ## Sahar Moussavi [22:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=1374s)
 
-Okay. So I think this experience stayed on my conscious memory. And I started creating these planets. I felt like a creator. First, st that I'm making a new universe with different planets. And The planets are usually made of. Some other materials for the body of my planets. I usually use materials such as metal or plastic, that actually they are impossible for earth trees to grow from. But all of my planets Are home to earth trees. Because deep inside it was it wasn't a problem for me. And I actually believe that can happen.
+Okay. So I think this experience stayed on my conscious memory. And I started creating these planets. I felt like a creator. First, st that I'm making a new universe with different planets. And The planets are usually made of. Some other materials for the body of my planets. I usually use materials such as metal or plastic, that actually they are impossible for earth trees to grow from. But all of my planets are home to earth trees. Because deep inside it was it wasn't a problem for me. And I actually believe that can happen.
 
 So I continued the concept in different media and the AI as well. So I'm going to show you some of my Planets. I hope the video plays.
 
@@ -412,21 +412,21 @@ Yeah, yeah.
 
 Excellent. Okay, I am William Rogers. And my artist name is Stellar Fire.
 
-I'm a light artist. I work with pure sunlight that I refract through crystal filters To create unusual and colorful art.
+I'm a light artist. I work with pure sunlight that I refract through crystal filters to create unusual and colorful art.
 
-I'm not. Don't have any formal artistic training Or study, but I've always been interested in art and always studying it. I've always been interested in it from time I was a small child in the sixties I was pouring over album covers of. Colorful artworks from our crumb and from Roger Dean. And Always interested in that. And when I went to college I went to a big city, particularly because I wanted to be in the big city and take advantage of the opportunity to go to concerts, go to theater, go to art museums, learn about stop me exposed to it, and it was great. In college. I. I got a job in Planetarium as a technician which might sound very interesting. But it's actually quite a low level job cleaning circuits and changing light bulbs.
+I'm not. Don't have any formal artistic training or study, but I've always been interested in art and always studying it. I've always been interested in it from time I was a small child in the sixties I was pouring over album covers of. Colorful artworks from our crumb and from Roger Dean. And always interested in that. And when I went to college I went to a big city, particularly because I wanted to be in the big city and take advantage of the opportunity to go to concerts, go to theater, go to art museums, learn about stop me exposed to it, and it was great. In college. I. I got a job in Planetarium as a technician which might sound very interesting. But it's actually quite a low level job cleaning circuits and changing light bulbs.
 
-But I was exposed to lots of astrophotography and space and science information, and also at the planetarium. They had laserium shows. I don't know if any of you are familiar with Lasarium. But they used to do that back in the 70 s. And 80 s. And some very bright, colorful light show done with lasers Today. I don't use lasers. And I don't use Colored lights at night. I don't use fractal programs or anything that I use sunlight. And these are some examples of what I've been doing.
+But I was exposed to lots of astrophotography and space and science information, and also at the planetarium. They had laserium shows. I don't know if any of you are familiar with Lasarium. But they used to do that back in the 70 s. And 80 s. And some very bright, colorful light show done with lasers Today. I don't use lasers. And I don't use colored lights at night. I don't use fractal programs or anything that I use sunlight. And these are some examples of what I've been doing.
 
 If I can make this go.
 
 I take these colorful images of refractive sunlight, and then I manipulate them on a computer, blend them together to create unusual and colorful art. These are some examples, simple examples. Or this one gets you to give you an idea of my process. This is a single image that I've cut in, half Mirrored and then blended, but offset the blend. So to give give, so that causes interaction between the colors and the shapes and the forms. Right? It gets more and more complex.
 
-I've been doing this for a while developing this process. It's really a two-part level of abstraction. I abstract sunlight by breaking it up and then refracting it as I take digital photos. And on the computer, I manipulate those images, using Photoshop and similar tools To make very unusual and unique Part. There's some perspective here forcing it into the side. Think you add some depth To the image? Because this is total abstract art, I try to give it a sense of depth and movement, energy. And try and add some emotional content. And yes, sometimes I get a little spacey.
+I've been doing this for a while developing this process. It's really a two-part level of abstraction. I abstract sunlight by breaking it up and then refracting it as I take digital photos. And on the computer, I manipulate those images, using Photoshop and similar tools to make very unusual and unique part. There's some perspective here forcing it into the side. Think you add some depth to the image? Because this is total abstract art, I try to give it a sense of depth and movement, energy. And try and add some emotional content. And yes, sometimes I get a little spacey.
 
 I've always been interested in space and science. My experience and a planetarium has influenced my art. This is my Aurora nebula. And look at those colors. I got purple. Get orange. Do you ever see purple and orange in a rainbow. How many colors are in the rainbow? This is another way to think of the perspective of light and color. Well, all colors can be found in the rainbow, if you know where to look and how to tease them out. So this is a little example of what it is that I do. And this is why I do it.
 
-Can you see this comment? This is from one of my Instagram followers. I love the idea of reaching out and touching people around the world and making them feel something. I'm not in this to make money. I'm not making money. I don't know if any of us really making money. That's not why I make art. But I do want to get my art out there into the world and have people see and appreciate it. Now, this guy here. I'm going to try and share a video. This guy took one of my art videos and used it As part of his Instagram story to remote himself. See the image in the background.
+Can you see this comment? This is from one of my Instagram followers. I love the idea of reaching out and touching people around the world and making them feel something. I'm not in this to make money. I'm not making money. I don't know if any of us really making money. That's not why I make art. But I do want to get my art out there into the world and have people see and appreciate it. Now, this guy here. I'm going to try and share a video. This guy took one of my art videos and used it as part of his Instagram story to remote himself. See the image in the background.
 
 I like to think that he got a kick out of making that and sharing it with his friends, and I certainly got a kick out of seeing him, and what he did with my art. Did you see the video and hear it?
 
@@ -480,7 +480,7 @@ I think I heard it.
 
 ## Cynthia Beth Rubin [34:46](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2086s)
 
-Well, I heard some of it, but I we couldn't hear it as well as if you know the zoom interface. Just why don't they make the default share, video, share, sound if you're sharing, and everyone wants that. But no, they want you to like Jump through something else. So.
+Well, I heard some of it, but I we couldn't hear it as well as if you know the zoom interface. Just why don't they make the default share, video, share, sound if you're sharing, and everyone wants that. But no, they want you to like jump through something else. So.
 
 ## Bill Rogers [35:04](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2104s)
 
@@ -510,21 +510,21 @@ Okay.
 
 Choosing.
 
-Okay, as we stated earlier. When Roz was speaking, she gave a general view on perspectives, and my 1st share for today deals with the physical aspect of perspective. Spatially, I do a lot of photography as well as other forms of digital art, and even involvement with AI, and these Up Photos that I'm About to share. Show the various aspect of perspectives Of in a physical sense. When traveling they were taken. The photos were taken several years ago, while I was working as a family caregiver for my family members. I had a younger brother who was in a nursing home, and I had to travel from my home in Port Royal, South Carolina, where I'm broadcasting from to Savannah, Georgia.
+Okay, as we stated earlier. When Roz was speaking, she gave a general view on perspectives, and my 1st share for today deals with the physical aspect of perspective. Spatially, I do a lot of photography as well as other forms of digital art, and even involvement with AI, and these up photos that I'm about to share. Show the various aspect of perspectives Of in a physical sense. When traveling they were taken. The photos were taken several years ago, while I was working as a family caregiver for my family members. I had a younger brother who was in a nursing home, and I had to travel from my home in Port Royal, South Carolina, where I'm broadcasting from to Savannah, Georgia.
 
-And to decrease the stress of the anticipation in traveling. I took a lot of photos. I live on an island off the coast of South Carolina. Call Port Royal, Ireland. And here we have a put up the broad river. And we were crossing the broad river bridge, and I took a snapshot out of my passenger Window. And After looking at it later on, it seems so much like a painting to me that I just decided to share it, and I've used it several times in my communications over the years.
+And to decrease the stress of the anticipation in traveling. I took a lot of photos. I live on an island off the coast of South Carolina. Call Port Royal, Ireland. And here we have a put up the broad river. And we were crossing the broad river bridge, and I took a snapshot out of my passenger window. And after looking at it later on, it seems so much like a painting to me that I just decided to share it, and I've used it several times in my communications over the years.
 
 Okay.
 
 And here we have an example of the clouds. The clouds of South Carolina are very, very mysterious, and here we have them hovering over the roadway, and when we're traveling and you see the clouds hanging low, we take it as a type of omen. And. I felt like this was not necessarily a bad omen, but it's always something deep waiting for me at the other end of the road to Savannah. And here we have another vanishing point. Situation. But I don't see myself as the vanishing point. I see the vanishing point as the destination which is in the distance. And here we have the clouds that look like they're just about on top of the cars.
 
-I'm hanging very low, and this was one incident where, when I got to Savannah, it was, you know, very bad news indeed. And here we have the roadside. You see the trees and the trees remind you of the African savannah, and for that reason Some people say that is why Savannah is named Savannah, because it The landscape was so similar to the savannahs in Africa. And here we have again on the bridge. I've crossed a lot of bridges when traveling in this area because of the cluster of islands off the coast. And here we are, you know, on the bridge, heading into Savannah.
+I'm hanging very low, and this was one incident where, when I got to Savannah, it was, you know, very bad news indeed. And here we have the roadside. You see the trees and the trees remind you of the African savannah, and for that reason some people say that is why Savannah is named Savannah, because it The landscape was so similar to the savannahs in Africa. And here we have again on the bridge. I've crossed a lot of bridges when traveling in this area because of the cluster of islands off the coast. And here we are, you know, on the bridge, heading into Savannah.
 
-And again. I think the perspective is interesting. Looking at the road, the winding of the road, and the clouds again Hanging very low. And here we are going off of the bridge. Further and in the distance The tail end, you see. When you hit this point, you're actually in Savannah, Georgia. So.
+And again. I think the perspective is interesting. Looking at the road, the winding of the road, and the clouds again hanging very low. And here we are going off of the bridge. Further and in the distance The tail end, you see. When you hit this point, you're actually in Savannah, Georgia. So.
 
-The second perspective Deals with Ultimate reality. Which is a spiritual perspective. Ultimate reality is reality from God's perspective. And looking at the landscapes, we're looking at physical reality here in ultimate reality out, will share a series of AI digital paintings using mid journey Where I Did a series of paintings called hair white like wool. A lot of people argue about what Jesus looked like. You know, in using religious imagery.
+The second perspective deals with Ultimate reality. Which is a spiritual perspective. Ultimate reality is reality from God's perspective. And looking at the landscapes, we're looking at physical reality here in ultimate reality out, will share a series of AI digital paintings using mid journey where I did a series of paintings called hair white like wool. A lot of people argue about what Jesus looked like. You know, in using religious imagery.
 
-And in the Book of Revelation, St. John the beloved described him as having here white like wool. White like snow. But most people don't think of Jesus that way, because many times in our culture he's depicted as having blind hair and blue eyes, which was not the case at all. So here we have one of the series Where I Showed. Jesus with white hair series number one. And with brown skin. He said also that he has Skin like Brass when it's in a furnace and brass when it's in a furnace, has a variety of colors of dark brown, black.
+And in the Book of Revelation, St. John the beloved described him as having here white like wool. White like snow. But most people don't think of Jesus that way, because many times in our culture he's depicted as having blind hair and blue eyes, which was not the case at all. So here we have one of the series where I showed. Jesus with white hair series number one. And with brown skin. He said also that he has skin like Brass when it's in a furnace and brass when it's in a furnace, has a variety of colors of dark brown, black.
 
 Alabaster even, and greenish. So I decided to use the Burnish brass appearance of his skin. And, believe it or not, most people had a problem with the white hair. Not the color of the skin. Here again, it's another version of Jesus says, up. The ancient of days, it's right here. Give. And here we have an another religious perspective. We have dealing with hair. We have a dreadlock appearance we have Jesus and Peter. And Jesus is washing Peter's feet.
 
@@ -534,7 +534,7 @@ Alabaster even, and greenish. So I decided to use the Burnish brass appearance o
 
 ## Verneda Lights [42:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2532s)
 
-Okay. And here we have another picture of Jesus. I have taken the perspective of black exploitation movies from the 1970s, and we have Jesus in a super fly type attire, and he's shooting shots of tequila with Judas. It's scary it. And here we have at the very end Jesus, and Simon the Cyrene. Simon was a black man From the north of Africa, from the country of Cyrene, and he was conscripted by Roman soldiers to help Jesus carry his cross. And so I use my nephew and his son As the models for Simon and Christ.
+Okay. And here we have another picture of Jesus. I have taken the perspective of black exploitation movies from the 1970s, and we have Jesus in a super fly type attire, and he's shooting shots of tequila with Judas. It's scary it. And here we have at the very end Jesus, and Simon the Cyrene. Simon was a black man From the north of Africa, from the country of Cyrene, and he was conscripted by Roman soldiers to help Jesus carry his cross. And so I use my nephew and his son as the models for Simon and Christ.
 
 And I was told by a very angry viewer on Facebook that they weren't black enough. And I said, Well, I didn't answer. But you know people have all kinds of ways of looking at situations. So that's my perspective.
 
@@ -542,7 +542,7 @@ I guess I could stop here.
 
 ## Cynthia Beth Rubin [43:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2609s)
 
-Great. Thank you so much. You brought us 2 very different ways of talking about perspective, and it's really great to see them. So if you want to put Your Instagram, or anything in the chat.
+Great. Thank you so much. You brought us 2 very different ways of talking about perspective, and it's really great to see them. So if you want to put your Instagram, or anything in the chat.
 
 ## Verneda Lights [43:43](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=2623s)
 
@@ -566,21 +566,21 @@ Hi! I come to you from a town called Eugene, in Oregon, which is in what's calle
 
 Alright.
 
-So I'm going to talk about I'm gonna talk about my work In terms of my, I come. I have 2 themes in the work that I do. One is the natural world, and the other is self portrait. And I Him I, my La earliest work as an artist, was as a photographer. So I come to you As a photographer. Primarily. That's the base of all of my work I work with. I use an iphone and an ipad with my in my captures and I Almost never use the computer which I'm on today. But and my work. Since the pandemic I have been riding a bicycle a lot. So I am out on my bike and many, much of the work that I do. Yeah, that involves the natural world which I integrate into my self portrait work. So I have natural world and self-portrait work. That natural world work comes either from my own garden Or from. Okay. Alright, I'm gonna have to go. I guess I'm I was hoping that Alright doesn't want to go from one to the other. I don't know why. Okay.
+So I'm going to talk about I'm gonna talk about my work in terms of my, I come. I have 2 themes in the work that I do. One is the natural world, and the other is self portrait. And I him I, my La earliest work as an artist, was as a photographer. So I come to you as a photographer. Primarily. That's the base of all of my work I work with. I use an iphone and an ipad with my in my captures and I almost never use the computer which I'm on today. But and my work. Since the pandemic I have been riding a bicycle a lot. So I am out on my bike and many, much of the work that I do. Yeah, that involves the natural world which I integrate into my self portrait work. So I have natural world and self-portrait work. That natural world work comes either from my own garden or from. Okay. Alright, I'm gonna have to go. I guess I'm I was hoping that Alright doesn't want to go from one to the other. I don't know why. Okay.
 
 I'm just gonna do it like this, then. So I use. Favorite of favorite camera app is systematic. And I use this to reimagine and alter the visual understanding to give a different perspective. And. So this is the original image. And then. I'm going to show it here and. And I'm gonna have to do it like this. I didn't make a slideshow today. Oh, here we go.
 
-So the just hipstomatic camera app Takes a picture Of what does a native picture like a regular image like here? And then it also captures it with a particular filter. So I'm altering the perspective of. I'm giving you a different perspective, a different interpretation, visual interpretation of The. Image. I also within the natural world. Theme roses have emerged as a big Theme for me. For a while I was doing this as nfts. This is from my personal garden.
+So the just hipstomatic camera app takes a picture Of what does a native picture like a regular image like here? And then it also captures it with a particular filter. So I'm altering the perspective of. I'm giving you a different perspective, a different interpretation, visual interpretation of The. Image. I also within the natural world. Theme roses have emerged as a big theme for me. For a while I was doing this as nfts. This is from my personal garden.
 
 And often on my inst. On my Instagram and Facebook posts. I will create reels that use the Native image and then go through these hypstatic image. So I'm just gonna go through the roses right now. I adore roses. So the native image is slightly altered each time.
 
-So I'm introducing A different idea about. And a different perspective with that Abstract camera app. These are taken on my iphone Walk out my front door.
+So I'm introducing A different idea about. And a different perspective with that abstract camera app. These are taken on my iphone walk out my front door.
 
-I think this may have been one of the last roses of the Season I have Ever book bearing roses that go Twice they bloom in the spring, and then again some more in the fall. If you water them.
+I think this may have been one of the last roses of the Season I have ever book bearing roses that go twice they bloom in the spring, and then again some more in the fall. If you water them.
 
-I love what the hipstramatic camera does. And oftentimes I then use these to okay. And Oftentimes I use the roses. You'll see when I get to the end of the presentation inner interact and blended with my self portrait. Another part of my idea is physically altering the camera angle. I enjoy doing this and then combining it with The hipstomatic. I was recently at a conference at this hotel. That's about 10 blocks from my house Actually last weekend and I went out to rest my back on those benches.
+I love what the hipstramatic camera does. And oftentimes I then use these to okay. And Oftentimes I use the roses. You'll see when I get to the end of the presentation inner interact and blended with my self portrait. Another part of my idea is physically altering the camera angle. I enjoy doing this and then combining it with The hipstomatic. I was recently at a conference at this hotel. That's about 10 blocks from my house actually last weekend and I went out to rest my back on those benches.
 
-And I thought, Oh, I love this angle. So I took some images. This is one of my favorite filters from the hipstatic camera app because it References, the perspective of a photographer. This is a Sides of Imitates the sides of the film. And then I pretty much stayed.
+And I thought, Oh, I love this angle. So I took some images. This is one of my favorite filters from the hipstatic camera app because it references, the perspective of a photographer. This is a Sides of Imitates the sides of the film. And then I pretty much stayed.
 
 ## Cynthia Beth Rubin [50:29](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3029s)
 
@@ -592,9 +592,9 @@ Okay, thank you.
 
 This was another perspective from the hospitality room I was in.
 
-Okay. My other theme is self portraits. I started this series and about 8 years ago. The project has many, many images. I take pictures of myself, and then I alter them In a variety of ways. Using apps on my primarily on my ipad. So I'm just gonna go through these because so I'm here. I'm at Skinner's Butte, which is near my house. I love to go there and go hiking. And then I Alter them. These are earlier pieces. That I've altered.
+Okay. My other theme is self portraits. I started this series and about 8 years ago. The project has many, many images. I take pictures of myself, and then I alter them in a variety of ways. Using apps on my primarily on my ipad. So I'm just gonna go through these because so I'm here. I'm at Skinner's Butte, which is near my house. I love to go there and go hiking. And then I Alter them. These are earlier pieces. That I've altered.
 
-As you can see, I'm Using my iphone. This is a recent piece I did for challenge about Reflections. That's why I had all these sunglass. He says.
+As you can see, I'm using my iphone. This is a recent piece I did for challenge about Reflections. That's why I had all these sunglass. He says.
 
 And then these are older works that I'm starting to rework and. Using a variety of apps.
 
@@ -606,7 +606,7 @@ Okay, thanks. So that's time. So.
 
 ## Susan Detroy [52:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3143s)
 
-That's perfect. Because That's it. Okay.
+That's perfect. Because that's it. Okay.
 
 ## Cynthia Beth Rubin [52:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3147s)
 
@@ -618,7 +618,7 @@ I'm good.
 
 ## Cynthia Beth Rubin [52:36](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3156s)
 
-Move ahead here because we have 3 more people and a half hour left. So It's good. But we've got to keep rolling. So, Deanne, you are next.
+Move ahead here because we have 3 more people and a half hour left. So it's good. But we've got to keep rolling. So, Deanne, you are next.
 
 ## Deann Stein Hasinoff [52:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3169s)
 
@@ -632,17 +632,17 @@ Something changed in zoom, and it's really hard sometimes to see the window you'
 
 ## Deann Stein Hasinoff [53:23](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3203s)
 
-Yeah, it's the problem was the I couldn't see. I couldn't get the start button. Because where my. The way that my thing was. Yeah, we go. Okay. Okay. So I'm gonna talk about architectural, natural and Created spaces In my work. So these are the things that I currently am a bit obsessed with still life of natural or found objects industrial landscape. And then I always hope, love the prairie landscape because I'm from. And then I've been using the I Colorama app a lot. And then I've been starting to build a library of images that I layer into each other.
+Yeah, it's the problem was the I couldn't see. I couldn't get the start button. Because where my. The way that my thing was. Yeah, we go. Okay. Okay. So I'm gonna talk about architectural, natural and created spaces in my work. So these are the things that I currently am a bit obsessed with still life of natural or found objects industrial landscape. And then I always hope, love the prairie landscape because I'm from. And then I've been using the I Colorama app a lot. And then I've been starting to build a library of images that I layer into each other.
 
 And so these are sort of the beginnings of me, experimenting with the layers and using the industrial landscape. And then moving into starting to modify the landscape. Using some of the Options within icon.
 
-I liked Now to try and alter it as much as possible, so that you're Not necessarily exactly sure all the time what The landscape is supposed to look like.
+I liked now to try and alter it as much as possible, so that you're not necessarily exactly sure all the time what The landscape is supposed to look like.
 
 And using my. Library of images in different layers. I'm starting to get a little bit more complex in some of my imagery. And then also much more simple.
 
 When I was showing these some of my newer work to my husband. He described me as an artistic Gj. So, combining layers of things to create a new image. It's kind of becoming my new obsession right now.
 
-This was my most recent work that I just working on the last couple of weeks we were driving around and we were got stuck at a train Track because they were shuttling the trains back and forth, and so I took some image, some pictures. And then I worked on combining them with some other layers.
+This was my most recent work that I just working on the last couple of weeks we were driving around and we were got stuck at a train track because they were shuttling the trains back and forth, and so I took some image, some pictures. And then I worked on combining them with some other layers.
 
 And then I looked. I also have some prairie landscape that I was altering, and so I combined some prairie landscape here with some of the more industrial landscape.
 
@@ -660,7 +660,7 @@ No, none of these are on Instagram yet. I there's only one, I think, one of the 
 
 ## Cynthia Beth Rubin [57:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3470s)
 
-Great thanks. Well, I think there probably are going to be comments in the chat. And those of us in the co-working group have seen this work evolve. So it's really a delight. If you Can come to the co-working group, you'll see you'll get a lot more depth and what people are doing so. Annette. You're next.
+Great thanks. Well, I think there probably are going to be comments in the chat. And those of us in the co-working group have seen this work evolve. So it's really a delight. If you can come to the co-working group, you'll see you'll get a lot more depth and what people are doing so. Annette. You're next.
 
 ## Annette Weintraub [58:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3493s)
 
@@ -724,7 +724,7 @@ Okay.
 
 Oh, you.
 
-Let me try to do the. Let me just do it with. Pres Presenter view.
+Let me try to do the. Let me just do it with. Pres presenter view.
 
 ## Cynthia Beth Rubin [59:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3590s)
 
@@ -894,7 +894,7 @@ And I've done this before, and I was never a problem, so I don't understand what
 
 ## Cynthia Beth Rubin [01:03:38](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3818s)
 
-What's happened is that zoom interface changed, and it's piling in the windows. I even lost Myself. Why, we were here. And I had to cut my second monitor and then reattach it in order to be able to see people again. It's just.
+What's happened is that zoom interface changed, and it's piling in the windows. I even lost myself. Why, we were here. And I had to cut my second monitor and then reattach it in order to be able to see people again. It's just.
 
 ## Annette Weintraub [01:03:54](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3834s)
 
@@ -920,17 +920,17 @@ Okay, we're not. We actually didn't see the website. But.
 
 ## Annette Weintraub [01:06:19](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3979s)
 
-Oh. Well, let me just. The links are actually, on my website. My website is On the Pdf. I'm just gonna show some of the details. So for this project The idea was to commission a number of artists to create artwork that would go on construction fences, construction sheds, and netting that is kind of everywhere in the city, on building sites and developers and buildings can choose to work with the artists in this portfolio. So the portfolio was just launched.
+Oh. Well, let me just. The links are actually, on my website. My website is on the Pdf. I'm just gonna show some of the details. So for this project The idea was to commission a number of artists to create artwork that would go on construction fences, construction sheds, and netting that is kind of everywhere in the city, on building sites and developers and buildings can choose to work with the artists in this portfolio. So the portfolio was just launched.
 
-And we did templates for 50 foot 100 foot and 250 foot environments, which was really exciting for me, because I'd always wanted to work Kind of in public space on a large scale. So these are the mock ups of the templates. The big Space on top is the building netting. And then the construction shed Is a 4, by whatever length. Panorama that would be above the test pedestrian's head, and the construction fence is usually 8 feet by whatever length. And then this is just a close-up of the small building Panorama. The elements in the panorama never repeat, but regardless of how big the building side is. This is the 100 foot building.
+And we did templates for 50 foot 100 foot and 250 foot environments, which was really exciting for me, because I'd always wanted to work kind of in public space on a large scale. So these are the mock ups of the templates. The big space on top is the building netting. And then the construction shed is a 4, by whatever length. Panorama that would be above the test pedestrian's head, and the construction fence is usually 8 feet by whatever length. And then this is just a close-up of the small building Panorama. The elements in the panorama never repeat, but regardless of how big the building side is. This is the 100 foot building.
 
-And then this is the 250 foot building. And then these are some details From the individual panorama. The bottom image Is a complete panorama, and the top image is a blow up of a section. So you can see there's it's a composite of 3D. And 2D imagery. And then that's another detail and full panorama. And in reality, once these buildings, once we start working on the actual designs for these buildings, that'll probably be somewhat customized to the particular Environment. The other series I've been working on is A is a group of. Virtual. Still, life spaces. And this is the last group in the series is called Juncture Rap Cities.
+And then this is the 250 foot building. And then these are some details From the individual panorama. The bottom image is a complete panorama, and the top image is a blow up of a section. So you can see there's it's a composite of 3D. And 2D imagery. And then that's another detail and full panorama. And in reality, once these buildings, once we start working on the actual designs for these buildings, that'll probably be somewhat customized to the particular environment. The other series I've been working on is A is a group of. Virtual. Still, life spaces. And this is the last group in the series is called Juncture Rap Cities.
 
-And it's a series of triptychs, although each of the images In the triptych was composed On its own. But the triptych shows A group of common household objects. In a virtual space. And using lighting and perspective to kind of just sort and enhance the objects. You'll see I'm not sure how Far I'm going to get before my time runs out. But these last images are much more concerned with lighting and reflection. The 1st images are very spare and almost flat, although they're 3D model.
+And it's a series of triptychs, although each of the images in the triptych was composed on its own. But the triptych shows A group of common household objects. In a virtual space. And using lighting and perspective to kind of just sort and enhance the objects. You'll see I'm not sure how far I'm going to get before my time runs out. But these last images are much more concerned with lighting and reflection. The 1st images are very spare and almost flat, although they're 3D model.
 
 This is the second triptych.
 
-And I'm really interested in exploring the shape and form of common place objects, but also using Lighting and reflection to. Give them A kind of monumentality.
+And I'm really interested in exploring the shape and form of common place objects, but also using lighting and reflection to. Give them A kind of monumentality.
 
 ## Cynthia Beth Rubin [01:10:22](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4222s)
 
@@ -938,7 +938,7 @@ And I'm really interested in exploring the shape and form of common place object
 
 ## Annette Weintraub [01:10:24](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4224s)
 
-Okay. And this is the 3rd trip that. And then I want to talk a little bit about this other series, because the space is much more complex. This series is called interstitial spaces, and inner cities Are like the spaces in between things. So these still lives were composed In a way that's totally different than what you would imagine from seeing the final image. The space is actually like a long, thin runway, and objects are distributed kind of into very deep space.
+Okay. And this is the 3rd trip that. And then I want to talk a little bit about this other series, because the space is much more complex. This series is called interstitial spaces, and inner cities are like the spaces in between things. So these still lives were composed in a way that's totally different than what you would imagine from seeing the final image. The space is actually like a long, thin runway, and objects are distributed kind of into very deep space.
 
 And then, when they're imaged from the front with the virtual camera, they kind of come together in a very interwoven way. So this actually represents an incredibly deep space that's compressed through. The image in.
 
@@ -978,7 +978,7 @@ Okay? If you go to publications.
 
 ## Cynthia Beth Rubin [01:13:17](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4397s)
 
-Okay, wait a minute. I'm gonna Share Right now and tell me publications or.
+Okay, wait a minute. I'm gonna share right now and tell me publications or.
 
 ## Darcy Gerbarg [01:13:27](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4407s)
 
@@ -990,13 +990,13 @@ Okay, so please go and tell us what you wanna say.
 
 ## Darcy Gerbarg [01:13:47](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4427s)
 
-Okay, so this is a catalog which I'm using for really 2 exhibitions One is at a commercial art gallery just outside of Woodstock, New York, and I'm up in the Catskill Mountains. You can just click and click through them. It's okay. I. This is the Lockwood Gallery. And I work with an organization called a Lust, which allows me to place AR objects In a somewhat more permanent way wherever I'd like to put them, so that people can go there with their mobile phones and see A R.
+Okay, so this is a catalog which I'm using for really 2 exhibitions one is at a commercial art gallery just outside of Woodstock, New York, and I'm up in the Catskill Mountains. You can just click and click through them. It's okay. I. This is the Lockwood Gallery. And I work with an organization called a Lust, which allows me to place AR objects in a somewhat more permanent way wherever I'd like to put them, so that people can go there with their mobile phones and see A R.
 
-Sculptures that I've created in VR. And this catalog is a perspective of my work that was done in 79 Until today. And so it has works all the way from kind of my 1st pieces at Nyit. This ex. This piece is also in another exhibition, which is in New York right now called the called Process at the Palettes Gallery, and it will be up Until September 21, st there's an opening there on September 12.th I think it's a 6 30. You're all invited. If you'd like to come. It's on 11 East 61st Street across from the Pier Hotel.
+Sculptures that I've created in VR. And this catalog is a perspective of my work that was done in 79 until today. And so it has works all the way from kind of my 1st pieces at Nyit. This ex. This piece is also in another exhibition, which is in New York right now called the called Process at the Palettes Gallery, and it will be up until September 21, st there's an opening there on September 12.th I think it's a 6 30. You're all invited. If you'd like to come. It's on 11 East 61st Street across from the Pier Hotel.
 
 This is the other big piece in that space, and this one I wanted to sit up and say a few words about. I don't know if you can make that any bigger on your screen. But.
 
-The perspective that I find very interesting is what Knowledgeable curators. Bring to looking at and talking about my work In this catalog. I have articles by 3 curators. And they each say very different things things that I wouldn't necessarily have thought about myself when I was making the work. The curator who has done the process exhibition Looked at this picture. Her background is in Renaissance painting. And she said, if this were on a ceiling it would have the kind of perspective that a Tiepolo painting has.
+The perspective that I find very interesting is what Knowledgeable curators. Bring to looking at and talking about my work in this catalog. I have articles by 3 curators. And they each say very different things things that I wouldn't necessarily have thought about myself when I was making the work. The curator who has done the process exhibition looked at this picture. Her background is in Renaissance painting. And she said, if this were on a ceiling it would have the kind of perspective that a Tiepolo painting has.
 
 And she said, and I look at it that way. And I can see going through these spaces up into the sky. Which was a pretty, interesting kind of perspective. Looking at a painting, these are fairly large. I think it's a 50, 8 by 96. Something like that.
 
@@ -1024,7 +1024,7 @@ No.
 
 Okay, I have to stop the share and share again. I'm really sorry. But.
 
-Okay, it didn't. Our people. It's pausing it again. And I don't know why. I will try One more time, and then I'm sorry. I don't know Why they are doing this to us.
+Okay, it didn't. Our people. It's pausing it again. And I don't know why. I will try one more time, and then I'm sorry. I don't know why they are doing this to us.
 
 Okay, you're seeing it now.
 
@@ -1034,11 +1034,11 @@ Yes, yeah, that's it.
 
 ## Cynthia Beth Rubin [01:17:12](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4632s)
 
-It seemed not like it when I made it full screen. So Let's just try to see it this way.
+It seemed not like it when I made it full screen. So let's just try to see it this way.
 
 ## Darcy Gerbarg [01:17:21](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4641s)
 
-Okay, well, that's fine. The picture on the right here Was a Printed on a 3. I'm scanning mural. A huge plotter and what I exhibited this at Siggraph in 1,980 in Seattle, which was one year before the 1st kind of official siggraph art show.
+Okay, well, that's fine. The picture on the right here was a printed on a 3. I'm scanning mural. A huge plotter and what I exhibited this at Siggraph in 1,980 in Seattle, which was one year before the 1st kind of official siggraph art show.
 
 ## Cynthia Beth Rubin [01:17:49](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4669s)
 
@@ -1048,7 +1048,7 @@ And get a little bigger on this.
 
 This is me at the future reality lab at Nyu Ken Perlin's lab. Creating the Unity! 3D. Models in tilt brush that are how I create all my current paintings since 19 since the 2016.
 
-All of these paintings are created from crops of the 3D models in the VR world using the camera tool. And when I show these paintings I show them As AR enhanced paintings, so that I show them with a QR code next to them. And with that QR code and your mobile phone pointed at the painting. The actual VR sculpture will emerge out of the picture out of the painting on canvas on the wall, and it will completely surround you, and you can turn around in it and walk around in it and see it from all directions. You can. Just. This is from my inside outside series. This is a newer painting. I'm sorry. This is from my inside outside series where I take an AR object, and I place it in the real environment and take a snapshot and then turn that into a painting. Photoshop. This is from my new series, my blast series about space and rockets and things like that. This was a sort of strange diversion for me. I during Covid I was watching a lot of Ichabana Flower ranging videos on Youtube. And I had studied Icuban in Japan many, many years ago. So I thought, maybe in VR. I could create some of these kinds of. Flower arrangements just abstractly and this is from that series. This was also from a catalog and an exhibition.
+All of these paintings are created from crops of the 3D models in the VR world using the camera tool. And when I show these paintings I show them as AR enhanced paintings, so that I show them with a QR code next to them. And with that QR code and your mobile phone pointed at the painting. The actual VR sculpture will emerge out of the picture out of the painting on canvas on the wall, and it will completely surround you, and you can turn around in it and walk around in it and see it from all directions. You can. Just. This is from my inside outside series. This is a newer painting. I'm sorry. This is from my inside outside series where I take an AR object, and I place it in the real environment and take a snapshot and then turn that into a painting. Photoshop. This is from my new series, my blast series about space and rockets and things like that. This was a sort of strange diversion for me. I during Covid I was watching a lot of Ichabana Flower ranging videos on Youtube. And I had studied Icuban in Japan many, many years ago. So I thought, maybe in VR. I could create some of these kinds of. Flower arrangements just abstractly and this is from that series. This was also from a catalog and an exhibition.
 
 ## Cynthia Beth Rubin [01:19:47](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4787s)
 
@@ -1096,7 +1096,7 @@ This is a silk screen edition very early. I think it's 1982,. And this is one of
 
 ## Cynthia Beth Rubin [01:21:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4915s)
 
-Okay, so we're at 8 min now. So I'm just gonna Just there. We are. Okay. Great. Well. Thank you. Everybody. We just made it to 1 30 which was, which is wonderful, and we had some really great presentations. And I lost the chat window in my trying to screen share. So I'm assuming there's great stuff in the chat, and I will save the chat if I can find it again. Oh, yeah, here it is so if anyone has anything else to put in the chat. Please do we had some really. Good comments about. The work, and I think if anyone has any, we, Colin, we should end now, and just hang out or do we? Can we take like 10 min for any questions.
+Okay, so we're at 8 min now. So I'm just gonna just there. We are. Okay. Great. Well. Thank you. Everybody. We just made it to 1 30 which was, which is wonderful, and we had some really great presentations. And I lost the chat window in my trying to screen share. So I'm assuming there's great stuff in the chat, and I will save the chat if I can find it again. Oh, yeah, here it is so if anyone has anything else to put in the chat. Please do we had some really. Good comments about. The work, and I think if anyone has any, we, Colin, we should end now, and just hang out or do we? Can we take like 10 min for any questions.
 
 ## Colin Goldberg [01:23:02](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4982s)
 
@@ -1104,7 +1104,7 @@ Yeah, I think we could run till say, 1 40, if you wanna you know, keep it going.
 
 ## Cynthia Beth Rubin [01:23:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=4993s)
 
-Okay. Great. Does anyone have any Comments, questions for artists, or.
+Okay. Great. Does anyone have any comments, questions for artists, or.
 
 I'm a.
 
@@ -1164,7 +1164,7 @@ Okay. Well, are we going to? Oh, Cynthia, yeah.
 
 ## Allen Hirsh [01:25:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5157s)
 
-Yes, I very much enjoyed Your presentation, Annette, and I really enjoyed the concept of mixing 3D. With 2D. And what do you use to create your 3D. Objects.
+Yes, I very much enjoyed your presentation, Annette, and I really enjoyed the concept of mixing 3D. With 2D. And what do you use to create your 3D. Objects.
 
 ## Annette Weintraub [01:26:13](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5173s)
 
@@ -1176,7 +1176,7 @@ Thank you. Curve. Yeah.
 
 ## Cynthia Beth Rubin [01:26:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5215s)
 
-I wanted to mention. Siggraph is going on right now, and Max on has some live presentations which I think everybody can see. I think if you go to Max, I'm looking in my email, and I'm not seeing a link that I can send people I'm gonna click it and see if it works. That's a pretty obnoxious, okay? But it looks like the link is working. So if you have time today, you wanna attend some Free cinema. 4G, Workshops online.
+I wanted to mention. Siggraph is going on right now, and Max on has some live presentations which I think everybody can see. I think if you go to Max, I'm looking in my email, and I'm not seeing a link that I can send people I'm gonna click it and see if it works. That's a pretty obnoxious, okay? But it looks like the link is working. So if you have time today, you wanna attend some free cinema. 4G, Workshops online.
 
 Whoops. I only sent it to Lee. Sorry.
 
@@ -1242,12 +1242,12 @@ Yes.
 
 Okay? So yeah, the exhibition. There's a micro site that is online. Now for the exhibition at Techspressionism.com slash Brooklyn. You could also get there directly from the homepage but basically it has a couple of different sections. There's an Rsvp for eventbrite which is actually required due to the museums. Kind of need for security. So they want to have a guest list for the reception. I think otherwise, it's open without the need to pre register.
 
-There's an artist list which has, you know, basically everyone in the show which is quite extensive. There's over 40 countries represented in the artist list. And then the real which is also has a list of all the people with work in it. Which includes nfts. Time, based work like video are digital still images. It's about an hour and 20 min. And that's gonna be projected At the at the Museum, and there's a couple of events that are associated with it. The shows at the Kingsborough Art Museum, which is in Brooklyn kind of down towards Coney Island and Brooklyn. And One of the events is on September 5, th which is our next salon.
+There's an artist list which has, you know, basically everyone in the show which is quite extensive. There's over 40 countries represented in the artist list. And then the real which is also has a list of all the people with work in it. Which includes nfts. Time, based work like video are digital still images. It's about an hour and 20 min. And that's gonna be projected At the at the Museum, and there's a couple of events that are associated with it. The shows at the Kingsborough Art Museum, which is in Brooklyn kind of down towards Coney Island and Brooklyn. And one of the events is on September 5, th which is our next salon.
 
 And that's going to be a hybrid event. So I believe Tommy is going to be on site in the museum. Doing a little walkthrough I guess I would be maybe co-moderating. I know Renata has been heavily involved in the planning for the show as well, and it's her image that is being used as kind of the main exhibition image. So, Renata, you're welcome to jump in and help Co. Moderate if you'd like. I'm sure Tommy would be amenable to that. So? Yeah, that's about it. You know, I just wanted to. Give this information. There's a little bit of a writing section that's been started on the site as well. That has pieces by Tommy and Jan Swinburne. I know Tommy has put out just a general open call. If anyone's interested in writing a little something, you know, that can go up on the site as well.
 
-Doesn't necessarily have to be associated with the show specifically, or if you have work in the show, it doesn't necessarily need to be related to your piece. But something, you know touching on the topic of Techspressionism or just technology based art in general. So yeah, I guess you know, this Coming month, we don't really need to vote on a topic because the show is gonna be up and it's gonna run through September 25, th and the opening is A week from this Friday, which will be on August 9.th So For those of you who can make it hopefully, I'll see you in Brooklyn.
+Doesn't necessarily have to be associated with the show specifically, or if you have work in the show, it doesn't necessarily need to be related to your piece. But something, you know touching on the topic of Techspressionism or just technology based art in general. So yeah, I guess you know, this coming month, we don't really need to vote on a topic because the show is gonna be up and it's gonna run through September 25, th and the opening is A week from this Friday, which will be on August 9.th So for those of you who can make it hopefully, I'll see you in Brooklyn.
 
 And you know I want to thank Cynthia for moderating the salon and all the artists who presented it was an excellent you know, an excellent salon, and it will be posted online at some point. Hopefully. So yeah. And I just want to give a shout out to the curators of the Brooklyn exhibition. Tommy Mintz is the principal curator. He's also a newly tenured professor At Kingsborough College, Kingsborough Community College in Brooklyn teaching Digital Art and photography was responsible for securing the space getting the show booked, and, you know, is the principal curator. Also Giovanna, Sonjin, Lee and Oceana Andreas are Co curators. And yeah, you know, it's been a it's been a huge undertaking for the curators. I've seen a couple of installation shots and looks like it's going to be an amazing show. So yeah, that's about it.
 
-And anyone who would like to hang out After the recording stop stops. We have a tradition here known as the after party, where people could just sort of share on. You know, whatever they have going on any random thoughts, you know, it's just kind of a hangout session that's off the record. So With that being said, we're a little bit over time. So I am going to stop the recording in 3, 2, 1, and cut.
+And anyone who would like to hang out after the recording stop stops. We have a tradition here known as the after party, where people could just sort of share on. You know, whatever they have going on any random thoughts, you know, it's just kind of a hangout session that's off the record. So with that being said, we're a little bit over time. So I am going to stop the recording in 3, 2, 1, and cut.

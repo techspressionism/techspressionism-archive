@@ -339,6 +339,34 @@ function googleTranslateElementInit() {
 }
 </script>
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // lock the site title's rendered width to the menu bar's (Salons // Interviews // ...) own rendered width,
+  // in the tablet tier (45rem-63.99rem, i.e. 720-1023px) where they share a grid row -- per Colin 2026-09-22
+  // ("lock the width of the site title to the width of the menu bar beneath it"). Deferred to DOMContentLoaded:
+  // on the home page this script runs before header.site exists yet (the wpstrip there is a standalone bar
+  // ahead of it, not merged into .hright like every other page). Measures actual rendered widths rather than
+  // hand-tuning another font-size/em ratio -- a CSS formula alone kept drifting out of sync with the menu
+  // row's own real width. Below 720px (the true-phone tier), title/links/search each stack on their own row
+  // (see the max-width:44.99rem block) and just use the plain CSS formula -- no menu bar alongside to lock to.
+  var title = document.querySelector("header.site .wrap > strong");
+  var link = title && title.querySelector("a");
+  var beta = title && title.querySelector(".beta");
+  var menu = document.querySelector("header.site .browse-links");
+  if (!title || !link || !beta || !menu) return;
+  function lockWidth() {
+    if (window.innerWidth < 720 || window.innerWidth >= 1024) { title.style.fontSize = ""; return; }   // outside the tablet tier: desktop has its own fixed size, true phone uses the plain CSS formula
+    title.style.fontSize = "";   // clear any previous lock first, back to the CSS formula's own baseline
+    var textWidth = beta.getBoundingClientRect().right - link.getBoundingClientRect().left;
+    var menuWidth = menu.getBoundingClientRect().width;
+    if (!textWidth || !menuWidth) return;
+    var currentSize = parseFloat(getComputedStyle(title).fontSize);
+    title.style.fontSize = (currentSize * (menuWidth / textWidth)) + "px";
+  }
+  lockWidth();
+  window.addEventListener("resize", lockWidth);
+});
+</script>
 """   # emitted once only, from the main (non-sticky) wpstrip -- one Google Translate instance covers the whole
       # page regardless of how many dropdown UIs (main + the sticky-header clone) drive it via tvaSetLanguage
 
@@ -387,7 +415,7 @@ WP_MENU_CSS = """
    build_wp_strip and the grid rules in the desktop media query below); the home page alone still uses this as
    a standalone full-width bar, since its landing layout floats it independently at the top */
 .wpstrip { display:flex; align-items:center; justify-content:flex-end; padding:.35rem 1.25rem; background:var(--card); border-bottom:1px solid var(--line); }
-@media (max-width:63.99rem) { .wpstrip { justify-content:center; border-bottom-color:var(--accent); } }   /* mobile only, per Colin: Techspressionism.com centered at the very top, red rule below instead of gray */
+@media (max-width:44.99rem) { .wpstrip { justify-content:center; border-bottom-color:var(--accent); } }   /* true phone only, per Colin 2026-09-22 -- centered there, but locked to the right (the default justify-content:flex-end) at the tablet tier and up, matching desktop; was max-width:63.99rem (centered through the whole tablet tier too, which he didn't want) */
 .wpgroup { display:flex; align-items:center; justify-content:center; }   /* home link + language selector as one unit; justify-content:center only does anything once .hright's align-items:stretch has made this exactly as wide as the search box below it (the merged, non-home case) -- centers it over that box with no JS, per Colin 2026-09-22 */
 .wphome { display:inline-flex; align-items:center; gap:.4rem; font-size:1rem; line-height:1.4; color:#000; text-decoration:none; }
 .wphome:hover, .wphome:focus-visible { color:var(--accent); text-decoration:none; }
@@ -486,13 +514,42 @@ header.site strong { font-size:1.1rem; white-space:nowrap; text-transform:upperc
 header.site strong a { color:inherit; }
 h1.sitetitle { display:contents; font:inherit; margin:0; }   /* the home page's real <h1>: the site title, which looks exactly like the title on the other pages */
 header.site .wrap { container-type:inline-size; }
-@media (max-width:63.99rem) {   /* phone/tablet layout (the desktop layout starts at 64rem, with nothing in between): the title fills the width of the screen on one line (17.85 = title + [BETA] length in em, plus a little slack) */
+@media (max-width:63.99rem) {   /* phone/tablet layout (the desktop layout starts at 64rem) */
   header.site .wrap { row-gap:.1rem; }
   header.site strong { line-height:1.1; }
   header.site .topnav { flex:1 1 100%; justify-content:center; margin-top:.4rem; }   /* the pills fill the width, centred, in rows */
   header.site .topnav a.chip { flex:1 1 auto; text-align:center; }
   header.site .wrap > .d { display:none; }
-  header.site strong { display:block; flex:1 1 100%; white-space:nowrap; font-size:6.4vw; font-size:min(calc(100cqw / 17.85), 2rem); line-height:1.2; }
+}
+@media (max-width:44.99rem) {   /* true phone: not enough room for the tablet tier's side-by-side treatment below,
+     so everything stacks on its own full-width row -- in this order, per Colin 2026-09-22: home link/language
+     selector (centered) above the logo+links (also centered), then the search box (full width) last. .hright
+     is dissolved (display:contents) so .wpgroup and the search form can be freely reordered as if they were
+     .wrap's own direct flex items, independent of each other -- they'd otherwise be stuck adjacent, trapped
+     together inside .hright's own box. */
+  header.site strong { display:block; flex:1 1 100%; order:0; white-space:nowrap; font-size:min(calc(100cqw / 18.97), 1.65rem); line-height:1.2; }   /* sizing unscoped -- the home page needs this same formula for its own title at this width too; centering below is scoped away from it */
+  header.site .wrap > .browse-links { flex:1 1 100%; order:1; margin-top:.4rem; }   /* sizing unscoped -- the home page needs this same full-width row for its own browse-links too; centering below is scoped away from it */
+  body:not(.home) header.site strong { text-align:center; }
+  body:not(.home) header.site .wrap > .browse-links { justify-content:center; }
+  body:not(.home) header.site .hright { display:contents; }
+  body:not(.home) header.site .wpgroup { order:-1; flex:1 1 100%; margin:0 0 .4rem; }
+  body:not(.home) header.site .hsearch { order:2; flex:1 1 100%; margin:.5rem 0 0; }
+  body:not(.home) header.site .hsearch input { width:100%; }
+}
+@media (min-width:45rem) and (max-width:63.99rem) {   /* tablet: same grid structure as the desktop tier below --
+     title top-left, the home-link/language-selector/search block ("search block") spanning both rows on the
+     right and vertically centered against their combined height, category links spanning the full width below
+     both. Was flexbox (each sharing/dropping to its own row based on available width), which left the search
+     block sitting lower than the title+links "logo block" whenever it didn't fit next to the links row -- per
+     Colin 2026-09-22 ("the search block is still too low... aligned vertically with the logo block"); flexbox
+     can't span multiple wrapped lines the way grid can, so this borrows the desktop tier's own solution instead
+     of hand-tuning another pixel offset. Scoped off the home page, which keeps its own single-column layout
+     (build_wp_strip's merged=False path never puts anything but the search form in .hright here anyway). */
+  body:not(.home) header.site .wrap { display:grid; grid-template-columns:auto 1fr auto; grid-template-rows:auto auto; align-items:center; column-gap:1.75rem; row-gap:.15rem; }
+  body:not(.home) header.site strong { grid-column:1; grid-row:1; flex:none; }
+  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; flex:none; margin-top:0; justify-self:start; }   /* justify-self:start -- a grid item defaults to stretching across its spanned columns, which would make this row-2 item's own rendered width equal the FULL row width instead of its actual (shorter) text content, throwing off the title-width-lock script (GLOBAL_LANG_JS) that measures it */
+  body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; flex:none; margin:0; }
+  body:not(.home) header.site .hsearch input { width:100%; max-width:19rem; }
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
 .topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1.2rem; color:var(--fg); }
@@ -501,13 +558,11 @@ header.site .wrap { container-type:inline-size; }
 .topnav .n { opacity:.7; font-size:.8em; margin-left:.3rem; }
 header.site .hright { margin:0 0 0 auto; display:flex; flex-direction:column; gap:.4rem; }
 header.site .hsearch { margin:0; }
-@media (max-width:63.99rem) { header.site .wrap > .browse-links { flex:1 1 100%; margin-top:.4rem; } }   /* its own row, like the BROWSE // dropdown used to sit -- categories visible immediately at every width, per Colin, 2026-09-22 */
 header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-width:100%; height:2.9rem; padding:.4rem 1rem .4rem 2.8rem; border:2px solid var(--accent); border-radius:0; color:var(--fg);
   background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E") no-repeat 1rem center / 1.2rem; }
 header.site .hsearch input::placeholder { color:#757575; opacity:1; }
 header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
-@media (max-width:63.99rem) { header.site .hright { flex:1 1 100%; margin:.5rem 0 0; } header.site .hsearch input { width:100%; } }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem; }   /* bottom padding used to be 4rem, room for the footer that lived at the end of <main> -- now that it's removed (per Colin) that was just dead blank space full-width below the content, so it matches the top padding instead */
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -766,28 +821,30 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
   header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
   body:not(.home) header.site strong { font-size:1.65rem; }   /* measured to match the title link's width to the menu row's width (excluding [BETA], which is allowed to extend past) */
-  /* home page: like Google, the search box is the star, with the categories as links under it, bigger and centered
-     (the general header.site .browse-links rule above still applies here too; these override its size/layout) */
-  body.home header.site { border-bottom:0; background:transparent; padding:0 1.25rem; }
-  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; }
-  body.home header.site strong { font-size:3.1rem; line-height:1.15; text-align:center; }
-  body.home header.site .browse { display:none; }
-  body.home header.site .hright { order:2; margin:0; width:min(44rem, 100%); }
-  body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
-  body.home header.site .browse-links { display:flex; flex-wrap:wrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:1.15rem; }   /* higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
-  body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
-  body.home .browse-links a { color:var(--accent); }
-  body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
-  body.home main { max-width:44rem; width:100%; margin:0 auto; }
-  /* like Google, the whole block sits in the vertical middle of the page until a search makes it longer */
-  body.home:not(.searching) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
-  body.home:not(.searching) main { padding-top:0; padding-bottom:0; }
-  body.home:not(.searching) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
-  body.home:not(.searching) #search { margin:0; }
-  body.home header.site { width:100%; }
-  body.home.searching header.site .wrap { padding-top:2.5rem; }
-
 }
+/* home page: like Google, the search box is the star, with the categories as links under it -- this exact
+   layout (wpstrip top-right, centered title/search/links column) now applies at every width, not just desktop,
+   per Colin 2026-09-22 ("the homepage layout should look like this at all 3 sizes"); previously it only
+   applied at min-width:64rem and fell back to the general (non-home) mobile/tablet header styles below that,
+   which he didn't want. These all keep their body.home specificity, so they still win over the general rules
+   at any width regardless of media query. */
+body.home header.site { border-top:0; border-bottom:0; background:transparent; padding:3.2rem 1.25rem 0; width:100%; }   /* padding-top reserves room for .wpstrip, which floats position:absolute above this at every width now -- without it, a big enough title (a narrow phone, before its own shrink-to-fit formula was added below) could rise up and overlap it */
+body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; row-gap:1.6rem; }
+body.home header.site strong { display:block; font-size:min(calc(100cqw / 18.97), 3.1rem); white-space:nowrap; line-height:1.15; text-align:center; }   /* shrink-to-fit so the title + [BETA] always stay on one line, scaling down as needed, rather than wrapping at narrow widths -- per Colin 2026-09-22 (18.97 is the title's own measured natural em-width, same formula as the non-home header's title) */
+body.home header.site .browse { display:none; }
+body.home header.site .hright { display:flex; order:2; margin:0; width:min(44rem, 100%); }
+body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
+body.home header.site .browse-links { display:flex; flex-wrap:nowrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:min(calc(100cqw / 33), 1.15rem); margin-top:0; }   /* shrink-to-fit so the links also always stay on one line -- per Colin 2026-09-22; 33 has a bit of slack beyond the measured natural width (31.24em) since flex-wrap:nowrap gives no room for rounding error the way wrapping would forgive. Higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
+body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
+body.home .browse-links a { color:var(--accent); }
+body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
+body.home main { max-width:44rem; width:100%; margin:0 auto; }
+/* like Google, the whole block sits in the vertical middle of the page until a search makes it longer */
+body.home:not(.searching) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
+body.home:not(.searching) main { padding-top:0; padding-bottom:0; }
+body.home:not(.searching) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
+body.home:not(.searching) #search { margin:0; }
+body.home.searching header.site .wrap { padding-top:2.5rem; }
 /* ---- print ("Print transcript (PDF)", also plain Cmd/Ctrl+P) ---- */
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,

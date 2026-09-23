@@ -263,7 +263,7 @@ Okay
 
 ## Susan Detroy [38:57](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=2337s)
 
-my experimentation I approached the sorry I approached ai as an experimental tool and I came to it with thinking I wanted to use my brain as an of what can I make this do and how can I use it in my art. So I initially fed in some prompts and just played with it. I was using Wombo. That's the only application I've used on my iPad.
+my experimentation I approached the sorry I approached AI as an experimental tool and I came to it with thinking I wanted to use my brain as an of what can I make this do and how can I use it in my art. So I initially fed in some prompts and just played with it. I was using Wombo. That's the only application I've used on my iPad.
 
 And I decided to think about it as a way to possibly expand the series that I've been doing since 2016 about self-portraiture related to aging. So I fed in prompts such as, where are my ideas? Where are my ideas? And I started to think about it as a way to express my love for birds. And I did it multiple times until I found something that I liked. And then in this case, I lightened it up a bit and then started applying it with a self-portrait. So these are some of the pieces that I created.
 
@@ -329,7 +329,7 @@ And came up with this. You know, and notable here. Is the. Absence of kinky hair
 
 Police. Hints of flashing lights and. And danger, but to. Basically present this. As to me is garbage. It looks like garbage. You know, human garbage. And. I have a problem with that. Very definitely. And I think that. For those of us who work in digital media. People who create these programs need to be approached. About how they're doing. I mean, I agree with Michael. There's a level of opacity going on here. And.
 
-This agenda. It is Euro centric. Debt. It's going to be like the room of art. You know, there's going to be a lot of. You know, Denigrating type. World view when you. Seek to express. Art about cultures outside of that European framework. The. Ai not only fails in this limited for Ray. For me, not only fails. But it sabotages the desire to create art and I find that problematic indeed.
+This agenda. It is Euro centric. Debt. It's going to be like the room of art. You know, there's going to be a lot of. You know, Denigrating type. World view when you. Seek to express. Art about cultures outside of that European framework. The. AI not only fails in this limited for Ray. For me, not only fails. But it sabotages the desire to create art and I find that problematic indeed.
 
 So I had another image here if I pull it up but I didn't put it in the folder but I had one for Black is Beautiful and I got a very mammy-ish step and fetch it type of caricature. So we have our work cut out for us. You know this is definitely an arena for social justice to apply itself and that's it. Thank you.
 

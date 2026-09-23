@@ -45,7 +45,7 @@ Meeting. Yeah.
 
 Awesome. Well, welcome. So I'm gonna read a little bit of a blurb to, let our viewers know a little bit about you. So, Carla Gannis is a multidisciplinary artist whose work explores the uncanny intersections of our physical and digital lives. Through mixed reality, installation, and multimodal media, she examines identity, power, and marginalization, drawing on history, contemporary culture, absurdity, and humor. Gannis is an Industry Professor at NYU Tandon, and holds an MFA from Boston University.
 
-Her work has been exhibited internationally, with recent projects at the Hunter Museum of American Art, Halsey Institute of Contemporary Art, Pérez Art Museum Miami, and Ryan Lee Gallery. Her work has also been featured in The New York Times, ARTnews, El País, and the Los Angeles Times. So, again, welcome, Carla, and Why don't you, I guess, start by telling us just a little bit about your background, like, where you were born, where you studied, and, you know, well, you already told me where you live and practice now, so, you know, just, Sure.
+Her work has been exhibited internationally, with recent projects at the Hunter Museum of American Art, Halsey Institute of Contemporary Art, Pérez Art Museum Miami, and Ryan Lee Gallery. Her work has also been featured in The New York Times, ARTnews, El País, and the Los Angeles Times. So, again, welcome, Carla, and why don't you, I guess, start by telling us just a little bit about your background, like, where you were born, where you studied, and, you know, well, you already told me where you live and practice now, so, you know, just, sure.
 
 ## Carla Gannis [01:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=105s)
 
@@ -69,7 +69,7 @@ I was a painting student myself for my undergrad. Yeah, yeah.
 
 ## Carla Gannis [03:35](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=215s)
 
-And so… It's really funny, I… Took into account everything my dad was telling me, of course, but I felt like I wanted to explore fine art, and at that time, with the kind of information I had, it seemed like being a painter was being an artist. And so I went to UNC Greensboro in North Carolina, and then I moved up to Boston, which was a bit of a culture shock for me. All my family lives in the South, I had a thick southern accent, which As we talk, might come out still, but I spent time on elocution and listening to myself, you know, and changing my accent a bit.
+And so… It's really funny, I… took into account everything my dad was telling me, of course, but I felt like I wanted to explore fine art, and at that time, with the kind of information I had, it seemed like being a painter was being an artist. And so I went to UNC Greensboro in North Carolina, and then I moved up to Boston, which was a bit of a culture shock for me. All my family lives in the South, I had a thick southern accent, which as we talk, might come out still, but I spent time on elocution and listening to myself, you know, and changing my accent a bit.
 
 And, At Boston University, I had some professors who knew that I was already starting to experiment a little bit with computing. I was making my paintings, but, you know, thanks to my dad, he sent me a computer. This is the, early 1990s. And… there was a library in New York City, a small art school in New York City, that had this art library, but it just had a collection of books, a collection of all of these old lectures from, like, 20 years, but they didn't have any way to organize it or put structure to it. And I worked in libraries as my, you know.
 
@@ -119,7 +119,7 @@ Kind of, you know, I think also, like, you know, I was looking at your work, lik
 
 ## Carla Gannis [09:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=571s)
 
-Oh, certainly. Yeah, yeah, I was a total art history nerd. And so… I think… All of these different art historical figures, it's kind of two-pronged. One, they're people that I respect and admire, and Bosch was somebody who was resonant with me for a long time. Even growing up in this little tiny town of 7,000 people, you know, Bosch was someone I had access to, but something else, I think, from one of my other perspectives, which is feminist critique, you know?
+Oh, certainly. Yeah, yeah, I was a total art history nerd. And so… I think… all of these different art historical figures, it's kind of two-pronged. One, they're people that I respect and admire, and Bosch was somebody who was resonant with me for a long time. Even growing up in this little tiny town of 7,000 people, you know, Bosch was someone I had access to, but something else, I think, from one of my other perspectives, which is feminist critique, you know?
 
 ## Colin Goldberg [10:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=603s)
 
@@ -135,7 +135,7 @@ I've never heard that term before, intersectional approaches.
 
 ## Carla Gannis [10:36](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=636s)
 
-Yeah, well, intersectionality, it's sometimes used with, you know, feminism after third wave, these kind of things, where we're taking into account Not only gender, but class and, you know, sexual orientation and all of these other things, so I, you know… but, anyway, you know, sometimes I am referencing or quoting art history to kind of, you know, insert myself within that framework and lineage, too. So there's both an admiration and sometimes a subversion as well. And then with the Bosch.
+Yeah, well, intersectionality, it's sometimes used with, you know, feminism after third wave, these kind of things, where we're taking into account not only gender, but class and, you know, sexual orientation and all of these other things, so I, you know… but, anyway, you know, sometimes I am referencing or quoting art history to kind of, you know, insert myself within that framework and lineage, too. So there's both an admiration and sometimes a subversion as well. And then with the Bosch.
 
 Which, maybe I should pull that piece up, since we're talking about it.
 
@@ -155,7 +155,7 @@ Yep, just kidding.
 
 ## Carla Gannis [11:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=703s)
 
-All right. So this piece is called the Garden of Emoji Delights. And I began working on this in 2013, and it also exists as a 13 foot by 7 foot digital print work. And after I completed that, I animated it, as you see in this piece. I've made 3D prints, sculptures, hand-painted, numerous drawings, and augmented reality experiences. But one reason or prompt to make this work Was the fact that even though I'd known Hieronymus Bosch's work, and particularly The Garden of Earthly Delights.
+All right. So this piece is called the Garden of Emoji Delights. And I began working on this in 2013, and it also exists as a 13 foot by 7 foot digital print work. And after I completed that, I animated it, as you see in this piece. I've made 3D prints, sculptures, hand-painted, numerous drawings, and augmented reality experiences. But one reason or prompt to make this work was the fact that even though I'd known Hieronymus Bosch's work, and particularly The Garden of Earthly Delights.
 
 For decades, and it was influential. It's just such a trippy piece, and it has all of these kind of pre… it's a predecessor to surrealism, you know, in a way, and then, you know, also made itself on the cover of a lot of, you know, 70s psychedelic Album covers and things like that. Right. And… I only knew it, though, from books or as an object on the internet, like the language of emojis that was beginning to emerge at that time. And so, one night I stayed up all night, and I worked on the hell panel first, emojifying it, which is actually not a verb, but…
 
@@ -167,7 +167,7 @@ I just know.
 
 Yeah, I'll stop sharing, because I think we've gotten a taste of it, but… I was… I just thought, what would it be like, because a lot of my work is about sampling from art history, about remix and mashing up things, right? And I was like, what would it be like to mash up Bosch with emoji? And what was fascinating, because the language of Bosch is enigmatic but symbolic. And emoji, when you start laying over these different emojis that existed in 2013, like the skull emoji when you're in hell, and the knife emoji, and these kind of things, you know.
 
-You're like, oh, it's starting to fit. Oh, how interesting that is. Then I spent a year of my life Creating a lot of new Chimera to fit with the Bosch language, because emoji wasn't… so it was kind of expanding the lexical set of emoji, because it wasn't a really expanded language at that time. For example, there were only white faces then, and yellow emoji, you know, and so I really spent a long, or a lengthy time, a year, you know, making my own in Illustrator.
+You're like, oh, it's starting to fit. Oh, how interesting that is. Then I spent a year of my life creating a lot of new Chimera to fit with the Bosch language, because emoji wasn't… so it was kind of expanding the lexical set of emoji, because it wasn't a really expanded language at that time. For example, there were only white faces then, and yellow emoji, you know, and so I really spent a long, or a lengthy time, a year, you know, making my own in Illustrator.
 
 ## Colin Goldberg [14:14](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=854s)
 
@@ -175,7 +175,7 @@ Photoshop.
 
 ## Carla Gannis [14:15](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=855s)
 
-And populating them, emojifying the Bosch. And, the first time I showed Just a small print where I was still working in progress, which was the HELL panel, and I later, as you saw, you know, created all three, the triptych. I thought I'd get laughed out of the gallery, because I thought, what an absurd premise. And I swim in the absurd and the comedic with a lot of my work, but I was sure I was going to get laughed out of the gallery, and it resonated with people in a way that was incredibly unexpected to me, and has continued to do so. I still get DMs, I have a show coming up showing this work, and that's been, you know, many… 12 years ago, and so it's fascinating when you're working on something, and you're not even sure about the premise.
+And populating them, emojifying the Bosch. And, the first time I showed just a small print where I was still working in progress, which was the HELL panel, and I later, as you saw, you know, created all three, the triptych. I thought I'd get laughed out of the gallery, because I thought, what an absurd premise. And I swim in the absurd and the comedic with a lot of my work, but I was sure I was going to get laughed out of the gallery, and it resonated with people in a way that was incredibly unexpected to me, and has continued to do so. I still get DMs, I have a show coming up showing this work, and that's been, you know, many… 12 years ago, and so it's fascinating when you're working on something, and you're not even sure about the premise.
 
 And then an audience responds to it in ways you didn't expect. Yeah.
 
@@ -197,7 +197,7 @@ Yeah.
 
 ## Colin Goldberg [16:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=963s)
 
-Mocha lights show, and I thought, you know, just the work is, was, really, sort of… Unique way of using the technology in a narrative sense. It was that Wunderkammer… I think it's called Wunderkammer? Is that the name of the piece you shared? I think?
+Mocha lights show, and I thought, you know, just the work is, was, really, sort of… unique way of using the technology in a narrative sense. It was that Wunderkammer… I think it's called Wunderkammer? Is that the name of the piece you shared? I think?
 
 ## Carla Gannis [16:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=981s)
 
@@ -217,7 +217,7 @@ It was a gift.
 
 ## Carla Gannis [16:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1002s)
 
-Digital 3D object first, and you had to buy the NFT to actually be able to peep into the box, and then with that, you got a VR experience, a custom VR experience where you could actually enter the box as a world, an environment. Right. But that was what I was showing there, but it was definitely… In relation to this larger project I've been working on, that I continue to work on, called Wonder Camera, which is the Cabinet of Curiosities, but mine is called www Undercamera.
+Digital 3D object first, and you had to buy the NFT to actually be able to peep into the box, and then with that, you got a VR experience, a custom VR experience where you could actually enter the box as a world, an environment. Right. But that was what I was showing there, but it was definitely… in relation to this larger project I've been working on, that I continue to work on, called Wonder Camera, which is the Cabinet of Curiosities, but mine is called www Undercamera.
 
 ## Colin Goldberg [17:13](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1033s)
 
@@ -257,7 +257,7 @@ Sure.
 
 ## Carla Gannis [18:18](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1098s)
 
-That this is real, but it… is it really? And so that's why I made that peat box and then made a VR experience. But I also was taking from this Hoogstraten peat box, in that one side of the box is open, and you can see that How it's inlaid with imagery, that it always kind of doesn't make sense, but when you look through the two peoples, everything comes into perspective, and it… and it completes the illusionism, and actually.
+That this is real, but it… is it really? And so that's why I made that peat box and then made a VR experience. But I also was taking from this Hoogstraten peat box, in that one side of the box is open, and you can see that how it's inlaid with imagery, that it always kind of doesn't make sense, but when you look through the two peoples, everything comes into perspective, and it… and it completes the illusionism, and actually.
 
 ## Colin Goldberg [18:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1125s)
 
@@ -265,7 +265,7 @@ That this is real, but it… is it really? And so that's why I made that peat bo
 
 ## Carla Gannis [18:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1126s)
 
-Spectivally correct. And then the final layer to that, because all of my work is multi-layered, I'm a maximalist to the max maximalist, I was working with AI then. And I've been working with AI, like all of us, experimenting with it for… For quite some time, and I was working with, you know, early Gannis models for that. And so, Hoop Stratton's was about a peep box, and you're peeping in on this woman, you know, that's sitting in this room. And so I made mine. My training sets were peep shows in Times Square, and, Tokyo, and various, you know, the history of these different peep shows. That was one training set.
+Spectivally correct. And then the final layer to that, because all of my work is multi-layered, I'm a maximalist to the max maximalist, I was working with AI then. And I've been working with AI, like all of us, experimenting with it for… for quite some time, and I was working with, you know, early Gannis models for that. And so, Hoop Stratton's was about a peep box, and you're peeping in on this woman, you know, that's sitting in this room. And so I made mine. My training sets were peep shows in Times Square, and, Tokyo, and various, you know, the history of these different peep shows. That was one training set.
 
 And then the other training set, or data set was, Dutch paintings, where you're always kind of looking at the woman through a window, and so this.
 
@@ -299,7 +299,7 @@ Pull that up for the viewers.
 
 ## Carla Gannis [20:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1216s)
 
-Not pulled that up, but I will, so let's see… Give me a moment, because I wish my… Site was better, organized than it is. So, let's see… Where do I have it? This was the one thing I did not pull up early. Oh, here it is. Okay, I'll show you People Rama. And you'll actually… are you in any of these photos? Okay, so let me share. Hold on… Okay… Oops, I need to do that here. So, this is the one that I was talking about right now. So, as you can see, this just shows you… and actually, let me see if I can pull up the Hoogstraten so you get a sense of… The quotation.
+Not pulled that up, but I will, so let's see… give me a moment, because I wish my… site was better, organized than it is. So, let's see… where do I have it? This was the one thing I did not pull up early. Oh, here it is. Okay, I'll show you People Rama. And you'll actually… are you in any of these photos? Okay, so let me share. Hold on… Okay… Oops, I need to do that here. So, this is the one that I was talking about right now. So, as you can see, this just shows you… and actually, let me see if I can pull up the Hoogstraten so you get a sense of… The quotation.
 
 ## Colin Goldberg [21:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1268s)
 
@@ -325,7 +325,7 @@ Yeah, I remember you had sort of a VR component where you were showing me how yo
 
 ## Carla Gannis [22:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1345s)
 
-So this is the… so this was… That's showing the physical object, and then this was the VR, Vimeo. I have all of these things because I organize my site, you know, an NFT project, but so almost every project I make, or every major project I work on, generally has multiple components, or modules. And, so if we go on Vimeo, let me see if I can find it… so it was for Casey Reyes' ferrell file the first time I showed it as a… yeah. There we go So it began completely as a virtual object.
+So this is the… so this was… that's showing the physical object, and then this was the VR, Vimeo. I have all of these things because I organize my site, you know, an NFT project, but so almost every project I make, or every major project I work on, generally has multiple components, or modules. And, so if we go on Vimeo, let me see if I can find it… so it was for Casey Reyes' ferrell file the first time I showed it as a… yeah. There we go So it began completely as a virtual object.
 
 Or that might be the… oh, and then I created a video about experience. So that's it as a virtual object.
 
@@ -337,7 +337,7 @@ Gotcha.
 
 And… These are just showing you the interiors.
 
-So again, layers upon layers. So I… with the Wonder Camera project, with Peep-O-Rama, with one of my earliest projects in 1998 through, like, 2005, Sister Gemini. I will explore an idea, or concept, or narrative, or… Some kind of combination of those things through multiple media channels.
+So again, layers upon layers. So I… with the Wonder Camera project, with Peep-O-Rama, with one of my earliest projects in 1998 through, like, 2005, Sister Gemini. I will explore an idea, or concept, or narrative, or… some kind of combination of those things through multiple media channels.
 
 ## Colin Goldberg [23:49](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1429s)
 
@@ -353,13 +353,13 @@ Right.
 
 ## Carla Gannis [24:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1444s)
 
-An interactive narrative, comic books, installation, physical forms, and I like the idea of all of these things in dialogue with each other, and multiple ways that different audiences can kind of enter the work. Because there's so many different mediums and media through which we can express ourselves today, and I like the idea of, kind of. Letting it travel across these different platforms, and a new expressive mode emerges from that core concept, you know? And one person who is more familiar with drawing as a language is able to kind of see the work through that lens, but another person who Is… You know, a fan of, or really involved with immersive experiences can enter it, you know, through that.
+An interactive narrative, comic books, installation, physical forms, and I like the idea of all of these things in dialogue with each other, and multiple ways that different audiences can kind of enter the work. Because there's so many different mediums and media through which we can express ourselves today, and I like the idea of, kind of. Letting it travel across these different platforms, and a new expressive mode emerges from that core concept, you know? And one person who is more familiar with drawing as a language is able to kind of see the work through that lens, but another person who is… You know, a fan of, or really involved with immersive experiences can enter it, you know, through that.
 
 You know?
 
 ## Colin Goldberg [24:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1497s)
 
-Another thing that you sort of have in common with Duchamp, now that I'm thinking about it, is you see in that show, like, just how he traveled from traditional painting through all sorts of different stuff, you know? I mean, and it was… I think that's something that, you know, I think is really remarkable about Duchamp, and that it's… Really cool to see how you're working in that way as well, like, just… Not being bound to one media. I feel like I've been making wall art for so long that, I want to, you know, branch out and try some things, so that's very inspiring.
+Another thing that you sort of have in common with Duchamp, now that I'm thinking about it, is you see in that show, like, just how he traveled from traditional painting through all sorts of different stuff, you know? I mean, and it was… I think that's something that, you know, I think is really remarkable about Duchamp, and that it's… really cool to see how you're working in that way as well, like, just… not being bound to one media. I feel like I've been making wall art for so long that, I want to, you know, branch out and try some things, so that's very inspiring.
 
 ## Carla Gannis [25:34](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1534s)
 
@@ -367,7 +367,7 @@ Well, since you're mentioning Duchamp, I will show you my responses to Duchamp's
 
 Act of creating a self-portrait, and so I would take a photo of myself, and then draw it and share it every week, because it begs the question, is it a selfie if you're not sharing it on multiple you know, social media channels, but each one was not just, like, me and, you know, some kind of Pose, you know, about what my face looks like, or that kind of self-portrait. It was more my meditation with art history and culture and society through these selfie drawings I was making. And so to shop is very important to me. And here, though, you see that I'm being playful. So I'm playing chess, which I love chess. I was on the chess team when I was in high school. Not a great chess player, I like to shop, though. That's my caveat.
 
-But here, I'm playing… chess against Duchamp, or the ghost of Duchamp on my iPad, with Nail polish bottles. So, playing on gender, the famous photo of him playing chess with, I should remember her name, but with… I don't, but a nude female. And then, this is the show where I'm just, like, amazing. I love the show. And, particularly, you know, Bride Strip Bear by, Her Bachelor, even. This is, a book I published with a poet. Oh, it's not showing up on Instagram the same way. But, with a drawing I'd made With, kind of.
+But here, I'm playing… chess against Duchamp, or the ghost of Duchamp on my iPad, with Nail polish bottles. So, playing on gender, the famous photo of him playing chess with, I should remember her name, but with… I don't, but a nude female. And then, this is the show where I'm just, like, amazing. I love the show. And, particularly, you know, Bride Strip Bear by, Her Bachelor, even. This is, a book I published with a poet. Oh, it's not showing up on Instagram the same way. But, with a drawing I'd made with, kind of.
 
 Yeah, it doesn't show up here like it should, but anyway, with a drawing I made in homage to that. This is a piece I called Nude Descending a Staircase. Now, obviously, I'm not trying to, like I did with the Bosch. Mash it up or remix it in such a way that you can still recognize the piece I'm referencing, but the title.
 
@@ -425,7 +425,7 @@ I didn't realize you had such a direct influence,
 
 ## Carla Gannis [30:08](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1808s)
 
-Yeah, yeah, yeah. Definitely. And then, though, to your point about Carla Gannis. Here, my maximalism, goes to the max. Oh shoot, I'm not used to using, Can I find her? Here… let's see… Other status… I'll stop sharing and pull up.
+Yeah, yeah, yeah. Definitely. And then, though, to your point about Carla Gannis. Here, my maximalism, goes to the max. Oh shoot, I'm not used to using, can I find her? Here… let's see… Other status… I'll stop sharing and pull up.
 
 ## Colin Goldberg [30:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1833s)
 
@@ -449,9 +449,9 @@ Can you explain really quickly what a GAN is for laypeople that might be watchin
 
 ## Carla Gannis [30:59](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1859s)
 
-Yeah, yeah, yeah. A generative adversarial network, so this is, early, or early-ish. I mean, AI has been around since the 40s and 50s, but, in the mid to late… I mean, the 2010s through… gosh, up till, like, 2019, 2020, we were using these adversarial networks. So you have these competing algorithms that, unlike the diffusion models that are, like, kind of generating images Now completely out of noise, they were taking your references and basically combating with each other until they resolved from the inputs they were getting some kind of crude image. I mean, if we look at these early generative models.
+Yeah, yeah, yeah. A generative adversarial network, so this is, early, or early-ish. I mean, AI has been around since the 40s and 50s, but, in the mid to late… I mean, the 2010s through… gosh, up till, like, 2019, 2020, we were using these adversarial networks. So you have these competing algorithms that, unlike the diffusion models that are, like, kind of generating images now completely out of noise, they were taking your references and basically combating with each other until they resolved from the inputs they were getting some kind of crude image. I mean, if we look at these early generative models.
 
-They look like Francis Bacon paintings. You know? And so, given my name is Gannis, I just played on that and came up with this alter ego, Carla Gannis. And… I have worked with avatars, I… I… Created my first avatar in an art context in 1998. I wrote out a story for her first. Her name was Sister Gemini. And then, in the days of Second Life, which was an online Virtual platform.
+They look like Francis Bacon paintings. You know? And so, given my name is Gannis, I just played on that and came up with this alter ego, Carla Gannis. And… I have worked with avatars, I… I… created my first avatar in an art context in 1998. I wrote out a story for her first. Her name was Sister Gemini. And then, in the days of Second Life, which was an online Virtual platform.
 
 ## Colin Goldberg [32:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1936s)
 
@@ -459,7 +459,7 @@ They look like Francis Bacon paintings. You know? And so, given my name is Ganni
 
 ## Carla Gannis [32:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=1937s)
 
-Use goggles, you just used a browser to go into that space and build environments and communities. There was even a currency, so Jezebel Lanley was my avatar then. Since then, I've had multiple other Kind of identities through which I, like many of us, express or Contemplate the differences, but from the differences between our physical reality existence and our existence online, and our performances online, and so that's a lot of times why I developed these avatars, to explore those themes. And Carla Gannis emerged this is just showing… we have done 3 solo shows together, and I will pause it here for any listener who wonders if I'm a little cuckoo. She does not exist. This is a construction of fictional alter ego. She, in terms of her backstory, she is an artificial intelligence, just like my first avatar from 1998. Sister Gemini was half AI, half human.
+Use goggles, you just used a browser to go into that space and build environments and communities. There was even a currency, so Jezebel Lanley was my avatar then. Since then, I've had multiple other kind of identities through which I, like many of us, express or Contemplate the differences, but from the differences between our physical reality existence and our existence online, and our performances online, and so that's a lot of times why I developed these avatars, to explore those themes. And Carla Gannis emerged this is just showing… we have done 3 solo shows together, and I will pause it here for any listener who wonders if I'm a little cuckoo. She does not exist. This is a construction of fictional alter ego. She, in terms of her backstory, she is an artificial intelligence, just like my first avatar from 1998. Sister Gemini was half AI, half human.
 
 You see early training. This is working with Gann's model, so that kind of technology that I briefly described. Sorry, I didn't give a really great engineering description of it, but, this just gives you a sense of the kind of visuals you were getting at the time, and my different training sets. Gotcha.
 
@@ -477,7 +477,7 @@ Yeah.
 
 ## Carla Gannis [33:45](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2025s)
 
-Yeah, and now we're using, for, like, ChatGPT, NanoBanana, all of those are diffusion models, and diffusion models Have a totally different technology that they're using, which is, though, the diffusion is coming from, you know, all of this noise that it resolves over a very quick amount of time. And you don't need those big data sets anymore. It used to be… when I was working with this, I was using Playform, and they were one of an early model where you, as a layperson or, you know, a digital artist who wasn't kind of building the technologies yourself, where you could use a dataset that was only 30 images, which was really remarkable at the time, because before that, it required hundreds and hundreds and hundreds of images to train.
+Yeah, and now we're using, for, like, ChatGPT, NanoBanana, all of those are diffusion models, and diffusion models have a totally different technology that they're using, which is, though, the diffusion is coming from, you know, all of this noise that it resolves over a very quick amount of time. And you don't need those big data sets anymore. It used to be… when I was working with this, I was using Playform, and they were one of an early model where you, as a layperson or, you know, a digital artist who wasn't kind of building the technologies yourself, where you could use a dataset that was only 30 images, which was really remarkable at the time, because before that, it required hundreds and hundreds and hundreds of images to train.
 
 You know, days if not weeks, and when I started using Playform, it only took a few hours. But now we're at a point only a few years later where you're generating images in a matter of minutes, if not seconds at times.
 
@@ -503,7 +503,7 @@ Absolutely.
 
 ## Carla Gannis [35:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2106s)
 
-Anyway, this is… Carla Gannis still exists. We're not working on many collaborations these days, but she still, she, she posts Every so often, particularly about, AI technologies and robotics, and so she still exists as this alter ego. She is me as a fictional identity.
+Anyway, this is… Carla Gannis still exists. We're not working on many collaborations these days, but she still, she, she posts every so often, particularly about, AI technologies and robotics, and so she still exists as this alter ego. She is me as a fictional identity.
 
 ## Colin Goldberg [35:28](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2128s)
 
@@ -541,7 +541,7 @@ Wanted to… maybe I'm a control freak, but how much I wanted to kind of run in 
 
 ## Colin Goldberg [36:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2191s)
 
-Right. I actually tried it for the first time. I have a spare laptop that I used to print off of, so this weekend. You know, I gave Claude some direction. I've been indexing all the Techspressionism videos, and had to just sort of parse them all, and running, like, this routine called Whisper, and it was just going, like, all weekend by itself, and it would check in with me over the phone, and it's just pretty… It's pretty wild, you know? It's like having a studio assistant.
+Right. I actually tried it for the first time. I have a spare laptop that I used to print off of, so this weekend. You know, I gave Claude some direction. I've been indexing all the Techspressionism videos, and had to just sort of parse them all, and running, like, this routine called Whisper, and it was just going, like, all weekend by itself, and it would check in with me over the phone, and it's just pretty… it's pretty wild, you know? It's like having a studio assistant.
 
 ## Carla Gannis [37:00](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2220s)
 
@@ -549,7 +549,7 @@ No, I know, and it's so expeditious, too. I mean, just the speed in which it can
 
 ## Colin Goldberg [37:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2244s)
 
-Have you watched that documentary, the AI doc? Which one? Oh, there's one that just came out on Netflix recently called The AI Doc, and they actually had, like, Sam Altman on, you know, talking about it, but it was… and I think there's a subtitle, like, the… How I Became an Apocalyptimist. So, like, the first group was, like, all people were like, oh, it's the end of the world, and the other group was like, there's gonna be, you know, infinite, Not prosperity, what do they call it? I don't know, like, there's some language that, you know, the tech… the tech bros, Yeah, so it's like these two, you know, ideas of where it could go, where it is… it is a little frightening. I mean, you know, definitely, I know Gemini escaped for the first time a couple days ago, like, Google's model actually Broke out and, like, hacked a couple companies, you know, autonomously, which is…
+Have you watched that documentary, the AI doc? Which one? Oh, there's one that just came out on Netflix recently called The AI Doc, and they actually had, like, Sam Altman on, you know, talking about it, but it was… and I think there's a subtitle, like, the… How I Became an Apocalyptimist. So, like, the first group was, like, all people were like, oh, it's the end of the world, and the other group was like, there's gonna be, you know, infinite, not prosperity, what do they call it? I don't know, like, there's some language that, you know, the tech… the tech bros, Yeah, so it's like these two, you know, ideas of where it could go, where it is… it is a little frightening. I mean, you know, definitely, I know Gemini escaped for the first time a couple days ago, like, Google's model actually broke out and, like, hacked a couple companies, you know, autonomously, which is…
 
 ## Carla Gannis [38:21](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2301s)
 
@@ -627,7 +627,7 @@ My website's.
 
 I probably will pull up some things from there, too, because I have the final sculptures here. Let me just pull these up. And then I'll talk about it. So… this past summer, I participated in something called the Digital Stone Project in Gramolazzo, Italy. And I had been to openings that they'd had in the past on trips to Italy, so I was already quite familiar with the project and the nonprofit organization that is behind this. And they've been doing this, I don't know, for over a decade, I believe.
 
-Yeah, definitely over a decade, because the first opening I went to was in 2015, in… I think it was Florenze, in Florence. And so… and, oh, this is just a funny… Other, you know, thing. One of the people on the board is one of my professors from undergraduate in North Carolina.
+Yeah, definitely over a decade, because the first opening I went to was in 2015, in… I think it was Florenze, in Florence. And so… and, oh, this is just a funny… other, you know, thing. One of the people on the board is one of my professors from undergraduate in North Carolina.
 
 ## Colin Goldberg [41:57](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2517s)
 
@@ -643,7 +643,7 @@ Nice.
 
 ## Carla Gannis [42:06](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2526s)
 
-I took anatomy for the artist with her. She was a tough professor, and I took sculpture. And that's the last time I'd taken a sculpture classes with her in the early 90s. And, so, back to the present. I, Got accepted for this residency. There were about 20 of us, so it was a huge crew. There was, Aria Harvey, myself, in terms of some artists who maybe you know, this community is familiar with. Lars Bland, Ashley Zielinski, a whole crew of new artists that I met from, you know, around the world.
+I took anatomy for the artist with her. She was a tough professor, and I took sculpture. And that's the last time I'd taken a sculpture classes with her in the early 90s. And, so, back to the present. I, got accepted for this residency. There were about 20 of us, so it was a huge crew. There was, Aria Harvey, myself, in terms of some artists who maybe you know, this community is familiar with. Lars Bland, Ashley Zielinski, a whole crew of new artists that I met from, you know, around the world.
 
 And, and so we were working with a robot that was doing the initial carve, the initial milling of the piece. And so, there is a group of engineers. In Granolazzo, which is this tiny village in the mountains of Italy, that works with the Digital Stone Carving Project, and they have these really impressive facilities. And so, prior to our arriving in Italy, we all submitted our digital files. So you model.
 
@@ -653,7 +653,7 @@ Oh, you…
 
 ## Carla Gannis [43:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2596s)
 
-Project in 3D, like using Blender or Maya, I use both. I even used some AI tools when I was first, kind of, prototyping it. And… Then, we get there, and… they have little… we worked outside every day for, like, 8 to 9 hours. We ate breakfast together. It was just such an incredible experience. And within, like, the first week, I worked on two different projects… two different sculptures. They,. They deliver your sculpture, but I was wondering, I was like, well, if the robot does it all, what am I going to do for the next month? It is very… Not… Crudely, but just… it's the first pass that they give to you.
+Project in 3D, like using Blender or Maya, I use both. I even used some AI tools when I was first, kind of, prototyping it. And… Then, we get there, and… they have little… we worked outside every day for, like, 8 to 9 hours. We ate breakfast together. It was just such an incredible experience. And within, like, the first week, I worked on two different projects… two different sculptures. They,. They deliver your sculpture, but I was wondering, I was like, well, if the robot does it all, what am I going to do for the next month? It is very… not… Crudely, but just… it's the first pass that they give to you.
 
 And then you spend the rest of the month… they had pneumatic tubes with these different power tools, so you spend the rest of the month carving into it. Finessing it. I actually hand-carved something, because they gave me these big bases, and I'll get to the visuals so people can actually see some stuff. But, I… I'm going to resort to Instagram again, and then I have some final, pictures, but I do, just because this is where everything.
 
@@ -671,7 +671,7 @@ Everyone's on there.
 
 ## Carla Gannis [44:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2679s)
 
-Become more sus, I know, yeah. Here we go, so this is me with the actual robot carving one of my pieces, and here you can see it actually… Doing some of the carving. Hmm. And this takes, generally, my file… Wasn't that complex. This is for one of the taller ones, so I think it was about 36 inches, but that took almost a day of carving.
+Become more sus, I know, yeah. Here we go, so this is me with the actual robot carving one of my pieces, and here you can see it actually… doing some of the carving. Hmm. And this takes, generally, my file… wasn't that complex. This is for one of the taller ones, so I think it was about 36 inches, but that took almost a day of carving.
 
 ## Colin Goldberg [45:09](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2709s)
 
@@ -719,7 +719,7 @@ That's amazing.
 
 ## Carla Gannis [46:16](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2776s)
 
-And then this shows you my first… this is what I submitted… Wow. …as my 3D model. Oh, okay. And so I had elements that I added to the final project, and I'll show you the final pieces in just a moment, but I… Again. In reference to art history, I made one work titled The Daughter of Woman, based on Magritte's The Son of Man.
+And then this shows you my first… this is what I submitted… Wow. …as my 3D model. Oh, okay. And so I had elements that I added to the final project, and I'll show you the final pieces in just a moment, but I… again. In reference to art history, I made one work titled The Daughter of Woman, based on Magritte's The Son of Man.
 
 ## Colin Goldberg [46:42](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2802s)
 
@@ -751,7 +751,7 @@ Hmm.
 
 ## Carla Gannis [47:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2832s)
 
-And then this one, that figure there, I should show you the actual final pieces, but that figure there is something that's 3D printed as well. And then here we are. We had an exhibition at a, museum, In a castle, which was just…
+And then this one, that figure there, I should show you the actual final pieces, but that figure there is something that's 3D printed as well. And then here we are. We had an exhibition at a, museum, in a castle, which was just…
 
 ## Colin Goldberg [47:31](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2851s)
 
@@ -791,7 +791,7 @@ That's right, I remember reading about that. That's just so wild.
 
 ## Carla Gannis [49:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2942s)
 
-So, there are all sorts of other frameworks and illusions, but then the process itself… so back to my hand-carved pillow. So, you know. Carving the… the… Top part, the head, you know, the head and hair, and on the other one, the head and torso. So, yeah.
+So, there are all sorts of other frameworks and illusions, but then the process itself… so back to my hand-carved pillow. So, you know. Carving the… the… top part, the head, you know, the head and hair, and on the other one, the head and torso. So, yeah.
 
 ## Colin Goldberg [49:24](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=2964s)
 
@@ -859,7 +859,7 @@ Do you… is it under wraps?
 
 No, it's not under wraps. Let's see, let me just organize, organize myself a little bit to pull some, things up.
 
-So… maybe I'll just pull up this one image. I'm such a maximalist, if I pull up more than one, it might, Yeah, convolute things. So, I'll just pull up one. So let me share again. Okay, and I'll just kind of describe the process. So, this is a piece that I'm working on, and it's a series called Interfaces, and the title for this one is Empire, but they're all a series of portraits. That are framed by these rounded rectangles, an allusion to… What most of our experiences are framed by today, the rounded rectangle of our smart device, or… and so I am making physical models in my studio.
+So… maybe I'll just pull up this one image. I'm such a maximalist, if I pull up more than one, it might, Yeah, convolute things. So, I'll just pull up one. So let me share again. Okay, and I'll just kind of describe the process. So, this is a piece that I'm working on, and it's a series called Interfaces, and the title for this one is Empire, but they're all a series of portraits. That are framed by these rounded rectangles, an allusion to… what most of our experiences are framed by today, the rounded rectangle of our smart device, or… and so I am making physical models in my studio.
 
 I use found material, I have tons of toys, and I take apart computer parts. I want to share more examples, because this one doesn't represent… I have about 6 of these going right now. But I… I create these physical prototypes, really, you know, kind of roughly assembled with hot glue and paint and these kind of I photograph them, I feed them into generative AI systems, I, curate kind of what they generate, I then bring them into Photoshop or Blender and these places.
 
@@ -871,9 +871,9 @@ Right.
 
 ## Carla Gannis [53:37](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3217s)
 
-A physical thing, through photography, through generative AI, through my own work in Photoshop and Blender, and then this output, which is only one step towards what I… the final instantiation, which I want them to be a combination of marble, 3D printing, perhaps porcelain, and found objects, and old recycled you know. Technology, e-waste. I… if you saw at my studio right now, the much… the amount of e-waste and Jewelry and all sorts of different things I'm combining together. And so, the final outcome is for this to be a relief sculpture. But right now, I'm still, you know, working through, the process and how I'm going to realize that. But it's something I'm really excited about doing. Over the past few years, I've Been returning more to the hand after years of making VR and AR projects and things that Spent more time in the virtual realm. I'm… I'm increasingly doing that. Some of that comes from some other… I'll… we'll show these.
+A physical thing, through photography, through generative AI, through my own work in Photoshop and Blender, and then this output, which is only one step towards what I… the final instantiation, which I want them to be a combination of marble, 3D printing, perhaps porcelain, and found objects, and old recycled you know. Technology, e-waste. I… if you saw at my studio right now, the much… the amount of e-waste and Jewelry and all sorts of different things I'm combining together. And so, the final outcome is for this to be a relief sculpture. But right now, I'm still, you know, working through, the process and how I'm going to realize that. But it's something I'm really excited about doing. Over the past few years, I've been returning more to the hand after years of making VR and AR projects and things that spent more time in the virtual realm. I'm… I'm increasingly doing that. Some of that comes from some other… I'll… we'll show these.
 
-Where the interfaces come out of if this wants to launch. The interfaces come out of the… Hardware that last year, I was… Interrogating, or if not interrogating, just kind of taking a second look at, I have all these defunct headsets, VR headsets, from the years of.
+Where the interfaces come out of if this wants to launch. The interfaces come out of the… hardware that last year, I was… Interrogating, or if not interrogating, just kind of taking a second look at, I have all these defunct headsets, VR headsets, from the years of.
 
 ## Colin Goldberg [55:10](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3310s)
 
@@ -883,7 +883,7 @@ Working in.
 
 That now are just e-waste. They're just things that will go in landfills, and I was like, what about upcycling them into art, but really thinking about obsolescence, entropy. And again, working with moss and seashells and all of these other kind of organic things that you know, by dent of years on the planet, they will also, you know, no longer exist. But, also thinking about how homogenizing our tech is today, and so with the… I call these wilding wearables, with the headsets, you know.
 
-Expressing my own identity, expressing things that are organic, things that are outside of the domain of just sleep, minimalist tech, and creating these wild, wearable devices. They… they exist as sculptural objects, so they're not… At this point, anyway, actual functional systems, but that's okay to me. It's in the domain of art, and so it's no longer about functionality, but the absurdity of kind of how homogenizing and you know, these hardware devices are that we use. We can't tell each other apart when we're wearing them, and so that I was working on last year, and now it's become about the interfaces where each one of these kind of oracles, they're each a head that exists within this collage Or this, yeah, collage of different elements framed by the rounded rectangle.
+Expressing my own identity, expressing things that are organic, things that are outside of the domain of just sleep, minimalist tech, and creating these wild, wearable devices. They… they exist as sculptural objects, so they're not… At this point, anyway, actual functional systems, but that's okay to me. It's in the domain of art, and so it's no longer about functionality, but the absurdity of kind of how homogenizing and you know, these hardware devices are that we use. We can't tell each other apart when we're wearing them, and so that I was working on last year, and now it's become about the interfaces where each one of these kind of oracles, they're each a head that exists within this collage or this, yeah, collage of different elements framed by the rounded rectangle.
 
 You know, is giving face to the technologies that we use, because a lot of what they're…. What they're doing, what the algorithms are kind of bringing out in us, in terms of, you know, my even being embarrassed about using Instagram, because it's become something that is, so ubiquitous in our lives, and also something that can, I, I mean… it becomes a… what is the word I'm looking for? We're addicted, you know, it becomes.
 
@@ -925,7 +925,7 @@ Right.
 
 ## Carla Gannis [58:02](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3482s)
 
-You know, and so you can see them on the shelf there. And then, let's see… Since I'm in my studio… oh, this one isn't really glued that well, but I don't know if it's gonna show. But, Yeah, so these are the things that, like, where I just start making things, yeah, and some of it I haven't even glued down, but I just.
+You know, and so you can see them on the shelf there. And then, let's see… since I'm in my studio… oh, this one isn't really glued that well, but I don't know if it's gonna show. But, Yeah, so these are the things that, like, where I just start making things, yeah, and some of it I haven't even glued down, but I just.
 
 ## Colin Goldberg [58:25](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3505s)
 
@@ -969,7 +969,7 @@ No, no.
 
 ## Colin Goldberg [01:00:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3604s)
 
-That's super cool. So I asked this to everybody, or whoever is interviewing another artist. So this interview series was really inspired by Interview Magazine, Warhol's sort of idea of artists interviewing other artists, so I would definitely invite you To, if you have a friend or an artist that you think is interesting, you know, I'd love it if you interviewed them, we'd put it up on the site, someone working with technology, you know, that's kind of the spirit of it. But an artist named Roz Dimon, actually, who's been doing Part of the text question in the community. Yeah, she came up with the interview format, years ago, so that's kind of been the basis of the general basis of the interviews, but, one question that she sort of.
+That's super cool. So I asked this to everybody, or whoever is interviewing another artist. So this interview series was really inspired by Interview Magazine, Warhol's sort of idea of artists interviewing other artists, so I would definitely invite you to, if you have a friend or an artist that you think is interesting, you know, I'd love it if you interviewed them, we'd put it up on the site, someone working with technology, you know, that's kind of the spirit of it. But an artist named Roz Dimon, actually, who's been doing part of the text question in the community. Yeah, she came up with the interview format, years ago, so that's kind of been the basis of the general basis of the interviews, but, one question that she sort of.
 
 ## Carla Gannis [01:00:46](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3646s)
 
@@ -997,13 +997,13 @@ Yeah, in Chelsea, yeah.
 
 ## Carla Gannis [01:01:33](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3693s)
 
-And Chelsea. And, and so it's… Really exciting that there's just this global community, because Patrick… I've known Patrick for years, you know, and so he's one of the founding members with you. Expressionism. And, you know. Just based on the conversation we've been having today about our own practices, Techspressionism, if I can pronounce it correctly, exemplifies that kind of experimentation, and that an argument I've made since I first started working with a computer is that it is not just this cold algorithmic process.
+And Chelsea. And, and so it's… really exciting that there's just this global community, because Patrick… I've known Patrick for years, you know, and so he's one of the founding members with you. Expressionism. And, you know. Just based on the conversation we've been having today about our own practices, Techspressionism, if I can pronounce it correctly, exemplifies that kind of experimentation, and that an argument I've made since I first started working with a computer is that it is not just this cold algorithmic process.
 
-That, you know, is devoid of or separate from any kind of you know, fine arts, history, or lineage. It's something that is expressionistic. It is something where you can explore a language As thoroughly as Jackson Pollock did with his pour paintings, right? We're using different tools, but, like, our motivations for, you know, making work that has these expressive tendencies are not hampered by digital technologies, and it is an argument that I think we all have had to make at some point in our careers.
+That, you know, is devoid of or separate from any kind of you know, fine arts, history, or lineage. It's something that is expressionistic. It is something where you can explore a language as thoroughly as Jackson Pollock did with his pour paintings, right? We're using different tools, but, like, our motivations for, you know, making work that has these expressive tendencies are not hampered by digital technologies, and it is an argument that I think we all have had to make at some point in our careers.
 
 ## Colin Goldberg [01:02:39](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3759s)
 
-Absolutely. I think that's what brings people together in the community, is this feeling of, like, oh, I found other people that, like, went through that same struggle of, like, galleries closing doors in your face because you mentioned the word computer, you know? And, yeah, so… and it seems like it's… It's come of age, sort of, as the community has developed in a way. Like, you know, when NFTs first started happening, that's when people outside of the, you know, this sort of realm started taking notice when there was headlines about people, you know, selling NFTs for gargantuan amounts of money, and then those Stories went into main, you know, mass media. People are like, that's insane, that's crazy, you know? And now you see things like Dataland and things out there, just in the public, where it's technology-oriented work.
+Absolutely. I think that's what brings people together in the community, is this feeling of, like, oh, I found other people that, like, went through that same struggle of, like, galleries closing doors in your face because you mentioned the word computer, you know? And, yeah, so… and it seems like it's… it's come of age, sort of, as the community has developed in a way. Like, you know, when NFTs first started happening, that's when people outside of the, you know, this sort of realm started taking notice when there was headlines about people, you know, selling NFTs for gargantuan amounts of money, and then those stories went into main, you know, mass media. People are like, that's insane, that's crazy, you know? And now you see things like Dataland and things out there, just in the public, where it's technology-oriented work.
 
 Yeah, so that's, you know, and also just, for me, like, the idea kind of originated from the terminology didn't really exist for things that involved technology that weren't digital art, you know, like.
 
@@ -1017,7 +1017,7 @@ You know, is a sculpture that uses robotics and 3D modeling digital art, like, y
 
 ## Carla Gannis [01:04:04](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3844s)
 
-That's something, you know, for years, I've called myself… I remember the first time I got a NYFA grant in 2004, and prior to that, because I came out of painting, a lot of my friends were painters, and I didn't understand why I kept Being left out of shows. Oh, right, I'm using this thing called a computer. And then I got a computer arts grant, a NYFA grant, and I was like, okay, I'm a digital artist, right?
+That's something, you know, for years, I've called myself… I remember the first time I got a NYFA grant in 2004, and prior to that, because I came out of painting, a lot of my friends were painters, and I didn't understand why I kept being left out of shows. Oh, right, I'm using this thing called a computer. And then I got a computer arts grant, a NYFA grant, and I was like, okay, I'm a digital artist, right?
 
 ## Colin Goldberg [01:04:26](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3866s)
 
@@ -1069,7 +1069,7 @@ Yeah, yeah.
 
 ## Colin Goldberg [01:06:12](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3972s)
 
-Awesome. Well, I always love to hear what people have to say about it, because, you know, to me, It's like… it's like art itself, you know? Like, the person who creates a piece might have a particular personal meaning associated with it, but then a viewer is gonna come along and see something in it based on a reflection of their own personality and experience, you know?
+Awesome. Well, I always love to hear what people have to say about it, because, you know, to me, it's like… it's like art itself, you know? Like, the person who creates a piece might have a particular personal meaning associated with it, but then a viewer is gonna come along and see something in it based on a reflection of their own personality and experience, you know?
 
 ## Carla Gannis [01:06:38](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=3998s)
 
@@ -1099,7 +1099,7 @@ Thank you, absolutely. All right, so, can you tell us, us viewers in the future,
 
 ## Carla Gannis [01:08:03](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4083s)
 
-Well, the big one that's coming up… I'm a busy artist at the Whitney, this semester. My life is in semesters because I teach, and I'm actually… Teaching or working with a group of high school students, so they're… I'm shouting out for them first, but they're having a big show, in December, or late November. I… yeah, my dates… if I don't have my calendar in front of me, it's all, yeah, a blur. And then I'm gonna be in the show at the Whitney, the Art Court Show, and it's a 25-year.
+Well, the big one that's coming up… I'm a busy artist at the Whitney, this semester. My life is in semesters because I teach, and I'm actually… teaching or working with a group of high school students, so they're… I'm shouting out for them first, but they're having a big show, in December, or late November. I… yeah, my dates… if I don't have my calendar in front of me, it's all, yeah, a blur. And then I'm gonna be in the show at the Whitney, the Art Court Show, and it's a 25-year.
 
 Wow. Anniversary of… Art exploring, you know, network-based culture, the net art term, and Christian Paul, who is the curator at the Whitney who supports these kind of practices, has…
 
@@ -1137,7 +1137,7 @@ Yeah.
 
 ## Colin Goldberg [01:09:17](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4157s)
 
-Yeah, amazing, yeah. I did a roundtable discussion, actually, here on the Techspressionism site with Christiane and Helen Harrison, and that was an amazing conversation to hear these two art historians and curators Speak about, you know, the past and the future, and how they come together. And then, your work is at Carla Gannis.com, and then at Carla Gannis on Instagram.
+Yeah, amazing, yeah. I did a roundtable discussion, actually, here on the Techspressionism site with Christiane and Helen Harrison, and that was an amazing conversation to hear these two art historians and curators speak about, you know, the past and the future, and how they come together. And then, your work is at Carla Gannis.com, and then at Carla Gannis on Instagram.
 
 ## Carla Gannis [01:09:43](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4183s)
 

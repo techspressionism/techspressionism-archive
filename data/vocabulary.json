@@ -706,6 +706,33 @@
       "category": "common_word",
       "known_asr_variants": [],
       "note": "Protective entry, not a misspelling fix: this ordinary phrase (Salon 109, Roz Dimon) fuzzy-matches Salon 109's own participant 'Beau Tardy Artist' closely enough (0.76 ratio, exact match on the trailing word 'artist') to get auto-corrected INTO that name by correct_names_in_text()'s strong-prior pass, silently reverting Colin's 2026-09-22 correction on every rebuild. Being a recognized vocabulary canonical makes it 'known_good', which lib_corrections.py's auto-correction branch now also respects (previously only suppressed the review-CSV row, not the correction itself)."
+    },
+    {
+      "canonical": "Techspressionist Manifesto",
+      "category": "movement_term",
+      "known_asr_variants": [
+        "expressionist manifesto"
+      ],
+      "whole_word": true,
+      "note": "Colin's 2014 founding text, referred to by its proper title elsewhere in the corpus (e.g. Salon 94, Roundtable 1). Interview 28 (Sasha Stiles) has speech recognition dropping the 'Tech' prefix to bare 'expressionist manifesto' (Colin, 22 September 2026: replace sitewide)."
+    },
+    {
+      "canonical": "Ed Ruscha",
+      "category": "person",
+      "known_asr_variants": [
+        "Ed Rucher"
+      ],
+      "whole_word": true,
+      "note": "Artist mentioned in passing (Interview 28); correctly spelled elsewhere in the corpus (Salon 10, Salon 38). Not in the community artist index, so the fuzzy name-matcher never sees him as a candidate (Colin, 22 September 2026)."
+    },
+    {
+      "canonical": "John Baldessari",
+      "category": "person",
+      "known_asr_variants": [
+        "Baldassari"
+      ],
+      "whole_word": true,
+      "note": "Interview 28 (Sasha Stiles), same sentence as the Ed Ruscha fix: 'artists like Ed Rucher and Baldassari, and Jenny Holzer...' -- a well-known conceptual artist, misspelled; not in the community artist index so never checked by the fuzzy name-matcher. Inferred correction (not explicitly reported by Colin), flagged for his review."
     }
   ]
 }

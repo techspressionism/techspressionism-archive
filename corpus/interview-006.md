@@ -431,7 +431,7 @@ Noticed some stills from that one we first started working together they look pr
 
 ## Patrick Lichty [52:41](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3161s)
 
-These are some style transfers of these are some oil paintings I did from ai style transfers from photographs of my old old institution in abu dhabi inside university and so
+These are some style transfers of these are some oil paintings I did from AI style transfers from photographs of my old old institution in abu dhabi inside university and so
 
 ## Colin Goldberg [52:58](https://www.youtube.com/watch?v=a5h-eBQYrks&t=3178s)
 

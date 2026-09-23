@@ -93,7 +93,7 @@ AI does not save whole pictures. It learns rules and patterns for how things ten
 
 Then step by step. It changes that noise, guessing what shapes and colors match your words. Each steps. Each step makes the image less noisy and more clear until it looks like a finished picture that fits your prompt. This process is often done with a special kind of model called a diffusion model, which is now the main method used in modern image generators.
 
-Now, some of the best known AI images. Which generators that you may have encountered are dolly. That was created by open AI mid journey made by the independent mid journey research lab. Stable diffusion, which is an open source model released by stability AI and its collaborators. There's Adobe Firefly built into Adobe tools like Photoshop and illustrator. There's Imogen developed inside Google, mainly shown in Google products. Not as a public. Standalone app. And there's also AI included in major platforms such as Facebook. Which allows you to experience what multimodal reasoning is by applying its AI and the creation of Facebook posts wherein you can use images and also sound.
+Now, some of the best known AI images. Which generators that you may have encountered are dolly. That was created by OpenAI mid journey made by the independent mid journey research lab. Stable diffusion, which is an open source model released by stability AI and its collaborators. There's Adobe Firefly built into Adobe tools like Photoshop and illustrator. There's Imogen developed inside Google, mainly shown in Google products. Not as a public. Standalone app. And there's also AI included in major platforms such as Facebook. Which allows you to experience what multimodal reasoning is by applying its AI and the creation of Facebook posts wherein you can use images and also sound.
 
 Now, we ask a question. Has generative AI actually redefined? What an artist is? I thought about this. And I've decided no. It has not actually redefined what an artist is. Generative AI has not given a single new agreed on definition of artist. But it has strongly challenged and stretched how people think about what an artist is and does.
 
@@ -265,7 +265,7 @@ I think that's our first salon that was dedicated to the topic of AI. And right.
 
 And all the typography was done manually. But, you know, in creating these graphics, some of them are not AI. Like this is a installation shot from the exhibition in Chelsea that Tommy Mintz curated a while back. You know, so not everything is AI. But I think it's a great way to kind of create a graphic that's more of a graphic AI. But a lot of the images, the majority of them, I used AI. So that was a way, and this one here too, for this particular salon was generated in mid-journey, this image. And usually it takes a couple rounds of prompting, and sometimes I'll manipulate it a little bit afterwards.
 
-So fast forward to,, like when, I don't know, the last year or so I, I picked up and started playing around with Sora, which is, open AI's, text to video prompting tool. And this was the first one that I, that I did just for the fun of it. I asked, Sora to come up with something.
+So fast forward to,, like when, I don't know, the last year or so I, I picked up and started playing around with Sora, which is, OpenAI's, text to video prompting tool. And this was the first one that I, that I did just for the fun of it. I asked, Sora to come up with something.
 
 Basically, the prompt was Andy Warhol talking about Techspressionism. So let me see if I can just channel through the circuitry.
 
@@ -431,7 +431,7 @@ Okay, we have a couple of raised hands. Cheryl.
 
 Hi. I just, I'm like overwhelmed here. I'm so far behind. I started in 1983 with kind of crazy art with a computer, like the little one mini computer that Apple had. And it was just a keyboard there and you could print from the other room and whatever, whatever. And I made a piece that I don't know if I've shown you guys, but consistent of all you could use was copy paper. And I put together like 12, 12 pieces of copy paper and, and there was my work. So, I'm just trying to get the best out of it. And I'm going to have to go back and eat my words. But I guess without Photoshop seems to me I'd be dead. I don't know, you know, what everybody else thinks about that. But it seems I need to have Photoshop in order to continue with, with all the, you know, the things that I've been doing. You know, with the art, you know, animation and all that stuff.
 
-My screen is different. Is everybody hearing me? Okay. Yeah, we hear you. Okay. I'm just so overwhelmed by the beautiful work that everybody presented today. And I just wondered if anybody wanted to hear what chat GPT said about itself. It's kind of funny because I asked, I asked it. What is generative AI? It says generative.
+My screen is different. Is everybody hearing me? Okay. Yeah, we hear you. Okay. I'm just so overwhelmed by the beautiful work that everybody presented today. And I just wondered if anybody wanted to hear what ChatGPT said about itself. It's kind of funny because I asked, I asked it. What is generative AI? It says generative.
 
 Okay, why is this? Oh, gosh. Well, never mind. This always happens to me. Something always goes wrong. Okay, never mind. Thank you very much for listening. Thank you.
 
@@ -549,7 +549,7 @@ And then if you have the funds, because it's very expensive. Sometimes to build,
 
 ## Lee Day [01:28:58](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5338s)
 
-Yeah. And can I just make a suggestion on that? Because I've actually looked into this a little bit. I would go to Claude or whatever, like chat GPT use, and I would describe to them exactly what you're trying to do and have a dialog with it. And it will give you a pretty detailed come up with a pretty detailed plan for how to implement what you're trying to do with, you know, also talking to it about how you want to approach it, how many images you have, what you're trying to do. Get out of it, et cetera.
+Yeah. And can I just make a suggestion on that? Because I've actually looked into this a little bit. I would go to Claude or whatever, like ChatGPT use, and I would describe to them exactly what you're trying to do and have a dialog with it. And it will give you a pretty detailed come up with a pretty detailed plan for how to implement what you're trying to do with, you know, also talking to it about how you want to approach it, how many images you have, what you're trying to do. Get out of it, et cetera.
 
 ## Unattributed [01:29:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5370s)
 

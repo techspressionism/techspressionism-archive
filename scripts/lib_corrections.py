@@ -214,6 +214,26 @@ from difflib import SequenceMatcher as _SM
 _TECH_TARGET = {"ism": "Techspressionism", "ist": "Techspressionist"}
 _TECH_WORD = re.compile(r"\b[Tt][A-Za-z-]{7,21}(?:ism|ist)s?\b")
 
+# Colin, 22 September 2026: "Ai"/"ai" should always be the two-letter acronym "AI" -- Zoom
+# capitalizes only the first letter of a caption line ("Ai"), and Whisper/YouTube auto-captions
+# often leave it bare lowercase ("ai"). Excludes the artist Ai Weiwei, whose name is not the
+# acronym. "OpenAI" and "ChatGPT" are heard as two separate words with stray capitalization or
+# punctuation between them and are always one word, matching the correct product names.
+_OPENAI_RE = re.compile(r"\bopen\s+ai\b", re.IGNORECASE)
+_CHATGPT_RE = re.compile(r"\bchat[\s,]+gpt\b", re.IGNORECASE)
+_GPT_NUM_RE = re.compile(r"\bgpt-?\s?(two|three|four|five|\d+)\b", re.IGNORECASE)
+_GPT_BARE_RE = re.compile(r"\bgpt\b", re.IGNORECASE)
+_AI_RE = re.compile(r"\b[Aa][Ii]\b(?!\s+[Ww]eiwei)")
+
+
+def fix_ai_terms(text):
+    text = _OPENAI_RE.sub("OpenAI", text)
+    text = _CHATGPT_RE.sub("ChatGPT", text)
+    text = _GPT_NUM_RE.sub(lambda m: "GPT-" + m.group(1).lower(), text)
+    text = _GPT_BARE_RE.sub("GPT", text)
+    text = _AI_RE.sub("AI", text)
+    return text
+
 
 def fix_techspressionism(text):
     def repl(m):
@@ -339,7 +359,7 @@ def remove_non_latin_hallucinations(text):
 
 
 def apply_style_rules(text):
-    text = spell_out_emails(fix_techspressionism(text))
+    text = fix_ai_terms(spell_out_emails(fix_techspressionism(text)))
     text = re.sub(r"(?:(?<=\s)|^)\.(?:\s+\.){2,}(?=\s|$)", "\u2026", text)          # a run of stray periods (Whisper in silence) becomes one ellipsis
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)

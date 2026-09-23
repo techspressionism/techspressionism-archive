@@ -636,7 +636,7 @@
   "v": 3
  },
  "https://arielbaron-robbins.com/": {
-  "checked": "2026-09-20",
+  "checked": "2026-09-22",
   "detail": "HTTP 200",
   "status": "ok",
   "v": 3
@@ -732,13 +732,19 @@
   "v": 3
  },
  "https://cha.cc.cc/": {
-  "checked": "2026-09-20",
+  "checked": "2026-09-22",
   "detail": "HTTP 200",
   "status": "ok",
   "v": 3
  },
  "https://charitycult.bandcamp.com/": {
   "checked": "2026-09-20",
+  "detail": "HTTP 200",
+  "status": "ok",
+  "v": 3
+ },
+ "https://chrisbly.com": {
+  "checked": "2026-09-22",
   "detail": "HTTP 200",
   "status": "ok",
   "v": 3
@@ -4788,10 +4794,10 @@
   "v": 3
  },
  "https://www.instagram.com/arielbaronlapciucart/": {
-  "checked": "2026-09-20",
+  "checked": "2026-09-22",
   "detail": "profile found",
   "status": "ok",
-  "v": 2
+  "v": 3
  },
  "https://www.instagram.com/arielbaronrobbinsart/": {
   "checked": "2026-09-22",
@@ -5946,10 +5952,10 @@
   "v": 3
  },
  "https://www.instagram.com/nstgrm_cha/": {
-  "checked": "2026-09-20",
+  "checked": "2026-09-22",
   "detail": "profile found",
   "status": "ok",
-  "v": 2
+  "v": 3
  },
  "https://www.instagram.com/officialbarnettsuskind/": {
   "checked": "2026-09-22",
