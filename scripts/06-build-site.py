@@ -1706,15 +1706,39 @@ PDF_FONT_CACHE_BOLD = Path.home() / ".cache" / "techspressionism-archive" / "Pdf
 def _pdf_font_path():
     if not PDF_FONT_CACHE.exists() and Path(SYSTEM_PDF_FONT).exists():
         PDF_FONT_CACHE.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(SYSTEM_PDF_FONT, PDF_FONT_CACHE)
+        # plain copy, not copy2: copy2 also tries to preserve the source's metadata, and this
+        # source is a SIP-protected macOS system file whose special flags can't be set on the
+        # destination -- copy2 raises PermissionError on chflags even though the copy itself
+        # (the only part that matters here) succeeds (Colin, 23 September 2026).
+        shutil.copy(SYSTEM_PDF_FONT, PDF_FONT_CACHE)
     return PDF_FONT_CACHE if PDF_FONT_CACHE.exists() else None
 
 
 def _pdf_font_path_bold():
     if not PDF_FONT_CACHE_BOLD.exists() and Path(SYSTEM_PDF_FONT_BOLD).exists():
         PDF_FONT_CACHE_BOLD.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(SYSTEM_PDF_FONT_BOLD, PDF_FONT_CACHE_BOLD)
+        shutil.copy(SYSTEM_PDF_FONT_BOLD, PDF_FONT_CACHE_BOLD)
     return PDF_FONT_CACHE_BOLD if PDF_FONT_CACHE_BOLD.exists() else None
+
+
+def _pdf_safe_text(text, family):
+    """Helvetica is a core PDF font: Latin-1 only. GitHub Actions' Linux runner never has
+    SYSTEM_PDF_FONT (a macOS path), so every CI-built PDF -- meaning every PDF a real visitor
+    ever downloads, since the live site is always built by CI, never from Colin's own Mac --
+    hits this fallback. A handful of sessions have a stray non-Latin-1 character in the
+    transcript (Whisper CJK/Korean hallucinations, an occasional emoji): fpdf2 raises and
+    crashes the ENTIRE site build the moment one reaches multi_cell() on this font, which is
+    what broke every deploy since PDF downloads were added (Colin, 23 September 2026 --
+    found while chasing an unrelated deploy failure). Replacing the unencodable character
+    keeps the build from ever crashing again; it costs a '?' in place of what was already an
+    ASR error, not real spoken content, in the rare session that has one."""
+    if family != "Helvetica":
+        return text
+    try:
+        text.encode("latin-1")
+        return text
+    except UnicodeEncodeError:
+        return text.encode("latin-1", errors="replace").decode("latin-1")
 
 
 def write_pdf(blocks, path):
@@ -1750,7 +1774,7 @@ def write_pdf(blocks, path):
             pdf.ln(before * 0.3)
         pdf.set_font(family, "B" if (bold and bold_available) else "", size)
         pdf.set_text_color(*color)
-        pdf.multi_cell(0, size * 0.5, text)
+        pdf.multi_cell(0, size * 0.5, _pdf_safe_text(text, family))
         pdf.ln(after * 0.3)
     path.parent.mkdir(parents=True, exist_ok=True)
     pdf.output(str(path))
