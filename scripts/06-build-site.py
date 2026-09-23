@@ -1265,6 +1265,9 @@ PLAYER_JS = """<script>
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
+    if (/[?&]watch=1(&|$)/.test(location.search)) setTimeout(function () {    // arrived from a category page's "Watch with transcript": same as pressing it here (deferred so the player code below has finished setting up)
+      reading(true, false); ensureFreshPlayer();
+    }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
       if (el && document.getElementById('transcript').contains(el)) {
@@ -1955,7 +1958,7 @@ def build_actions_and_cite(entry, link_to=None):
         target = e(link_to)
         read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
                          f'<a class="read-btn" href="{target}">Read transcript</a>'
-                         f'<a class="watch-btn" href="{target}">Watch with transcript</a></div>')
+                         f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a></div>')
         watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
                     f'<a href="{pdf_href}">Print transcript (PDF)</a> &#47;&#47; '
                     f'Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>')
