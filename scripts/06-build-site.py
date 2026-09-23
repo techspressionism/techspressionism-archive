@@ -621,7 +621,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
-/* touch devices (phones AND tablets -- "mobile" here always means touch, per Colin 2026-09-23): no Read transcript button up top; instead a collapsed READ TRANSCRIPT bar below all the page's content, which opens the transcript in place. On a category page the same bar links to the recording's transcript. */
+/* touch devices (phones AND tablets -- touch = phones and tablets, per Colin 2026-09-23): no Read transcript button up top; instead a collapsed READ TRANSCRIPT bar below all the page's content, which opens the transcript in place. On a category page the same bar links to the recording's transcript. */
 .transcript-toggle { display:none; }
 @media (pointer: coarse) {
   .read-btn { display:none; }
@@ -799,7 +799,9 @@ button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4re
 button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
 .cite-format { margin:0; font-size:.85rem; color:#000; font-weight:700; }   /* "Citation Format:" black and bold, same weight as Copy Citation, sitewide, per Colin */
 @media (max-width:44.99rem) { .cite-actions .cite-format { flex:1 1 100%; margin-top:.5rem; } }   /* phone: always its own row below Watch/Copy Citation, rather than opportunistically wrapping -- squeezed onto the same row as those two, the format select (or a button's own label) could break its text instead of the whole group wrapping, per Colin 2026-09-23 */
-.cite-format select { font:inherit; font-size:.85rem; font-weight:700; margin-left:.3rem; padding:.4rem 1.6rem .4rem 1.1rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same shape/padding as Copy Citation, but white with a red outline -- the native dropdown arrow stays (no appearance:none), per Colin */
+.cite-format .cf-pill { position:relative; display:inline-flex; align-items:center; padding:.4rem 2.2rem .4rem 1.1rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); font-size:.85rem; font-weight:700; line-height:1.3; cursor:pointer; }   /* one pill reading "Citation Format: MLA" with a down arrow, instead of a "Citation Format:" label beside a dropdown -- saves the row's width, per Colin 2026-09-23. The real <select> sits invisible over it (below), so a tap still opens the native picker (iOS wheel / Android list) and the list itself shows just Chicago, MLA, APA... */
+.cite-format .cf-pill::after { content:""; position:absolute; right:1rem; top:50%; width:.45rem; height:.45rem; border:solid var(--accent); border-width:0 2px 2px 0; transform:translateY(-70%) rotate(45deg); pointer-events:none; }
+.cite-format .cf-pill select { position:absolute; inset:0; width:100%; height:100%; margin:0; padding:0; border:0; opacity:0; cursor:pointer; font-size:16px; }   /* 16px: iOS zooms the page in on focusing anything smaller */
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
 a.pill.pill-watch:hover { background:#d60000; }
@@ -986,7 +988,8 @@ def cite_format_select_html():
     """The Citation Format Selector (CFS): pre-rendered server-side (defaulting to Chicago) so it's there
     without JS; CITE_JS takes over from here, matching the one already on every search-result citation."""
     opts = "".join(f'<option value="{v}"{" selected" if v == "chicago" else ""}>{e(label)}</option>' for v, label in CITE_FORMATS_PY)
-    return f'<div class="cite-format"><label>Citation Format: <select class="cite-format-select" aria-label="Citation Format">{opts}</select></label></div>'
+    return (f'<div class="cite-format"><label class="cf-pill"><span class="cf-text">Citation Format: {e(CITE_FORMATS_PY[0][1].split()[0])}</span>'
+            f'<select class="cite-format-select" aria-label="Citation Format">{opts}</select></label></div>')
 
 
 def build_citation(entry):
@@ -1188,9 +1191,11 @@ function citeFormats(i) {
   return { chicago: i.chicago || who + ', "' + title + '," ' + pub + ", " + (p.y ? citeDateLong(p) : "n.d.") + (ts ? ", streaming video, " + ts : "") + ", " + url + ".", mla: mla, apa: apa, bibtex: bib, ris: ris };
 }
 function citeFormatSelect(current) {
-  return '<div class="cite-format"><label>Citation Format: <select class="cite-format-select" aria-label="Citation Format">' +
+  return '<div class="cite-format"><label class="cf-pill"><span class="cf-text">Citation Format: ' + citeFormatName(current) + '</span><select class="cite-format-select" aria-label="Citation Format">' +
     CITE_FORMATS.map(function (f) { return '<option value="' + f[0] + '"' + (f[0] === current ? " selected" : "") + ">" + f[1] + "</option>"; }).join("") + "</select></label></div>";
 }
+// the visible text of the format pill: "Citation Format: MLA" (the select itself is invisible on top of it, so a tap opens the native picker) -- short name only, "RIS (Zotero, EndNote)" shows as "RIS"
+function citeFormatName(v) { for (var i = 0; i < CITE_FORMATS.length; i++) if (CITE_FORMATS[i][0] === v) return CITE_FORMATS[i][1].split(" ")[0]; return v; }
 // a web address inside a citation becomes a link (Copy Citation still copies plain text)
 function citeLinkify(escaped) { return escaped.replace(/(https?:[/][/][^ ,<]+?)(?=[.]?(?:[ ,]|$))/g, '<a href="$1" target="_blank" rel="noopener">$1</a>'); }
 function citeRender(info, fmt) {
@@ -1202,7 +1207,7 @@ function citeApply(block) {
   var fmt = citeStored(), r = citeRender(info, fmt), ct = block.querySelector(".cite-text"), b = block.querySelector(".copy-cite"), s = block.querySelector(".cite-format-select");
   if (ct) { ct.innerHTML = r.html; ct.classList.toggle("cite-code", r.code); }
   if (b) b.setAttribute("data-citation", r.text);
-  if (s) s.value = fmt;
+  if (s) { s.value = fmt; var t = s.parentNode && s.parentNode.querySelector(".cf-text"); if (t) t.textContent = "Citation Format: " + citeFormatName(fmt); }
 }
 // a "Cite this session" box already in the page at load (the recording page's own, or a category page's
 // featured one) needs this run once up front -- otherwise its Copy citation button's data-citation is never
@@ -1242,6 +1247,22 @@ PLAYER_JS = """<script>
   var hitWords = (qs.get('hl') || '').split(',').filter(Boolean), citeText = qs.get('cite') || '';
   var citedMode = false, continueBtn = null;
   if (cited) layout.classList.add('from-search');      // arrived from a search result: no Read/Hide transcript button
+  // Desktop arrivals (a search result, a summary timestamp, an artist page's WATCH): the start of the turn goes to the
+  // vertical middle of the visible area under the sticky title bar, instead of the very top edge where that bar covers it
+  // (Colin, 23 September 2026). The bar only switches on once the page has scrolled, so its height isn't known until
+  // after the first move -- hence the second placement. Touch layouts (stacked, video pinned on top) keep their own
+  // scroll-margin behaviour.
+  function centerTurn(el, smooth) {
+    if (!el) return;
+    var turn = (el.closest && el.closest('.para')) || el;
+    if (window.innerWidth < 1024) { turn.scrollIntoView(smooth ? { block: 'center', behavior: 'smooth' } : undefined); return; }
+    function place(behavior) {
+      var h = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--title-h')) || 0;
+      window.scrollTo({ top: Math.max(0, turn.getBoundingClientRect().top + window.pageYOffset - (h + (window.innerHeight - h) / 2)), behavior: behavior });
+    }
+    place(smooth ? 'smooth' : 'auto');
+    setTimeout(function () { place('auto'); }, smooth ? 700 : 150);
+  }
   function reading(on, scroll) {
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
@@ -1289,14 +1310,14 @@ PLAYER_JS = """<script>
         var wi = 0;
         for (var wk = 0; wk < starts.length; wk++) if (starts[wk] <= wat + 0.5) wi = wk;
         forced = wi; mark(wi); holdUntil = Date.now() + 2200;
-        if (paras[wi] && paras[wi].scrollIntoView) paras[wi].scrollIntoView({ block: 'center' });
+        centerTurn(paras[wi], false);
         ensureFreshPlayer(Math.max(0, wat - lead));
       } else ensureFreshPlayer();
     }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
       if (el && document.getElementById('transcript').contains(el)) {
-        reading(true, false); el.scrollIntoView();
+        reading(true, false); centerTurn(el, false);
         if (autoplay) {                      // "watch" from a search result, if the browser allows the video to start
           autoplay = false;
           if (cited) setTimeout(startCited, 300);
@@ -1548,7 +1569,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; closeParaCite();
     reading(true, false); holdUntil = Date.now() + 2200;
     forced = i; mark(i);
-    if (paras[i].scrollIntoView) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
+    centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
