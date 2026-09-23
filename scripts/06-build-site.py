@@ -825,7 +825,7 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
 .player-box .tap-hint[hidden] { display:none; }
-.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; padding:.9rem 1rem 1.6rem; text-align:center; pointer-events:none; color:#fff; font-weight:800; font-size:1.15rem; line-height:1.25; text-shadow:0 1px 4px rgba(0,0,0,.9); background:linear-gradient(rgba(0,0,0,.94) 65%, rgba(0,0,0,0)); }   /* touch devices: sits over the top of the video, NOT over its centre play button -- pointer-events:none so the tap goes straight through to the YouTube player, which is the only tap iOS/Android will accept as "start this video" */
+.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; display:flex; align-items:center; justify-content:center; min-height:3.6rem; padding:0 1rem; text-align:center; background:var(--accent); color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.1rem; line-height:1.2; }   /* touch devices: a solid red bar (Kanit italic, white -- the only Kanit faces the site loads are italic) over the top of the video, NOT over its centre play button. It is deliberately NOT tap-through: the top edge of the YouTube embed is its title/channel link, which opens YouTube, so a tap on this bar is swallowed instead of passed down to that (Colin 2026-09-23). The bar is tall enough to cover that title row completely.
 .player-box .tap-play[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
@@ -1466,7 +1466,7 @@ PLAYER_JS = """<script>
   function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
     if (!pbox) return;
     if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-play'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
-    tapOverlay.textContent = '\u25B6 Tap the play button to start' + (seconds > 0 ? ' at ' + fmtTime(seconds) : '');
+    tapOverlay.textContent = 'Tap the play button to watch with transcript';
     tapOverlay.hidden = false;
   }
   function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; }
