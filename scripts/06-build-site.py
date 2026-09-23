@@ -371,28 +371,38 @@ document.addEventListener("DOMContentLoaded", function () {
       # page regardless of how many dropdown UIs (main + the sticky-header clone) drive it via tvaSetLanguage
 
 
-def build_wp_strip(sticky=False, merged=True):
+def build_wp_strip(sticky=False, merged=True, variant="", include_global=True):
     """A home link back to the main Techspressionism site. Also the language switcher (Google's free Website
     Translator, same underlying service the GTranslate plugin on techspressionism.com itself wraps) -- a custom
     <select> driving it via the "googtrans" cookie instead of Google's own default widget UI, which is unstyled
     and pushes the whole page down with its own banner. Both are wrapped in .wpgroup.
 
-    merged=True (every page except home) returns just the .wpgroup markup, meant to be embedded inside .hright
-    right before the search box: .hright's own align-items:stretch makes .wpgroup exactly as wide as the search
-    box, so a plain justify-content:center on .wpgroup centers its contents over it with no JS needed -- and
-    folding it into the existing header removes the separate top bar altogether, shortening the header and
-    moving the page's content up, per Colin 2026-09-22. merged=False returns the old standalone full-width bar
-    (only the home page still uses this: its "Google-like" vertically-centered landing layout floats this bar
-    independently at the absolute top, outside the centered block -- see body.home:not(.searching) .wpstrip).
+    merged=True (every page except home's desktop/tablet copy) returns just the .wpgroup markup, meant to be
+    embedded inside .hright right before the search box: .hright's own align-items:stretch makes .wpgroup
+    exactly as wide as the search box, so a plain justify-content:center on .wpgroup centers its contents over
+    it with no JS needed -- and folding it into the existing header removes the separate top bar altogether,
+    shortening the header and moving the page's content up, per Colin 2026-09-22. merged=False returns the old
+    standalone full-width bar (only the home page's desktop/tablet copy still uses this: its "Google-like"
+    vertically-centered landing layout floats this bar independently at the absolute top, outside the centered
+    block -- see body.home:not(.searching) .wpstrip, now scoped to min-width:45rem).
 
     sticky=True builds the copy that lives inside the sticky mini-header (#stickytitle), so it's still reachable
-    without scrolling back to the top, per Colin 2026-09-22. It needs its own element ids (a page can carry both
-    copies at once) and reuses the global tvaSetLanguage()/Google Translate setup emitted by the main copy rather
-    than loading it a second time."""
-    variant = "-sticky" if sticky else ""
+    without scrolling back to the top, per Colin 2026-09-22.
+
+    variant: an extra id suffix (beyond -sticky) for when a single page carries more than two simultaneous
+    copies -- the home page, since 2026-09-23, renders BOTH a desktop/tablet-only standalone copy (unchanged,
+    merged=False, variant="-desktop") and a mobile-only copy merged into .hright exactly like every other page
+    (variant="-mobile"), each hidden by CSS outside its own tier, so home's mobile header can match every other
+    page's mobile header exactly while its tablet/desktop view stays pixel-unchanged.
+
+    include_global=False suppresses the hidden #google_translate_element div and GLOBAL_LANG_JS (the shared
+    tvaSetLanguage()/Google Translate setup) -- needed on a page's SECOND non-sticky copy (home's mobile-variant
+    one) so that setup is emitted exactly once per page, not duplicated. Every instance, sticky or not, still
+    gets its own tiny cookie-restore script (each dropdown needs its own id-scoped copy)."""
+    id_suffix = ("-sticky" if sticky else "") + variant
     lang_opts = "".join(f'<option value="{code}">{e(label)}</option>' for code, label in LANGUAGES)
     lang_switch = (f'<div class="langswitch" data-pagefind-ignore>'
-                   f'<select id="lang-select{variant}" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
+                   f'<select id="lang-select{id_suffix}" aria-label="Translate this page" onchange="tvaSetLanguage(this.value)">'
                    f'<option value="">Language</option>{lang_opts}</select></div>')
     wpgroup = (f'<div class="wpgroup"><a class="wphome" href="https://techspressionism.com/" title="Back to techspressionism.com">'
                f'{HOME_SVG}<span>Techspressionism.com</span></a>{lang_switch}</div>')
@@ -400,12 +410,12 @@ def build_wp_strip(sticky=False, merged=True):
     # each instance just restores its own dropdown's value from the cookie on load -- alignment is pure CSS now
     instance_js = f"""<script>
 document.addEventListener("DOMContentLoaded", function () {{
-  var sel = document.getElementById("lang-select{variant}");
+  var sel = document.getElementById("lang-select{id_suffix}");
   var m = document.cookie.match(/googtrans=\\/en\\/([a-zA-Z-]+)/);
   if (m && sel) sel.value = m[1];
 }});
 </script>"""
-    if sticky:
+    if sticky or not include_global:
         return html + "\n" + instance_js
     return html + "\n" + instance_js + '\n<div id="google_translate_element" hidden></div>\n' + GLOBAL_LANG_JS
 
@@ -438,12 +448,17 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
 
     strip: True for the normal home-link/language-selector, "sticky" for the copy that lives inside the sticky
     mini-header (its own element ids, reuses the main copy's Google Translate setup), False for none. h1=True
-    (the home page only) keeps it as its own standalone bar before <header>; everywhere else it's merged into
-    .hright, right before the search box (see build_wp_strip)."""
+    (the home page's own MAIN header only, never its sticky copy) renders BOTH a desktop/tablet-only standalone
+    bar before <header> (unchanged) and a mobile-only copy merged into .hright like every other page -- each
+    hidden by CSS outside its own tier, so home's mobile header matches every other page's exactly while its
+    tablet/desktop view stays pixel-unchanged (Colin, 23 September 2026). Everywhere else (including home's own
+    sticky copy, which is identical to every other page's) it's simply merged into .hright, right before the
+    search box (see build_wp_strip)."""
     pre_html, hright_prefix = "", ""
     if strip:
-        if h1:
-            pre_html = build_wp_strip(sticky=(strip == "sticky"), merged=False)
+        if h1 and strip is True:
+            pre_html = build_wp_strip(merged=False, variant="-desktop")
+            hright_prefix = build_wp_strip(merged=True, variant="-mobile", include_global=False)
         else:
             hright_prefix = build_wp_strip(sticky=(strip == "sticky"), merged=True)
     return (pre_html + '<header class="site"><div class="wrap">' + ('<h1 class="sitetitle">' if h1 else '') + '<strong><a href="index.html">Techspressionism Video Archive</a> '
@@ -508,7 +523,7 @@ body { margin:0; font:17px/1.5 "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI
 a { color:var(--accent); text-decoration:none; }
 a:hover { text-decoration:none; }
 header.site { border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--card); padding:1.4rem 1.25rem; }   /* the top border replaces the separate wpstrip bar's own border-bottom, now that the home link/language selector merged into .hright instead of sitting above header.site in its own row, per Colin 2026-09-22. Top/bottom padding widened from .9rem -- the home link/language selector sat too tight against the top of the page, per Colin 2026-09-22 */
-body.home header.site { border-top:0; }   /* home page alone still shows the wpstrip bar above this (its own border-bottom already draws the line); this new border-top would otherwise double up right underneath it, at every width */
+@media (min-width:45rem) { body.home header.site { border-top:0; } }   /* home's desktop/tablet copy alone still shows the wpstrip bar above this (its own border-bottom already draws the line); this new border-top would otherwise double up right underneath it. Mobile gets the normal border like every other page now (Colin, 23 September 2026: home's mobile header must match every other page's exactly) */
 header.site .wrap { max-width:84rem; margin:0 auto; display:flex; gap:1rem; align-items:baseline; flex-wrap:wrap; }
 header.site strong { font-size:1.1rem; white-space:nowrap; text-transform:uppercase; }
 header.site strong a { color:inherit; }
@@ -526,15 +541,26 @@ header.site .wrap { container-type:inline-size; }
      selector (centered) above the logo+links (also centered), then the search box (full width) last. .hright
      is dissolved (display:contents) so .wpgroup and the search form can be freely reordered as if they were
      .wrap's own direct flex items, independent of each other -- they'd otherwise be stuck adjacent, trapped
-     together inside .hright's own box. */
-  header.site strong { display:block; flex:1 1 100%; order:0; white-space:nowrap; font-size:min(calc(100cqw / 18.97), 1.65rem); line-height:1.2; }   /* sizing unscoped -- the home page needs this same formula for its own title at this width too; centering below is scoped away from it */
-  header.site .wrap > .browse-links { flex:1 1 100%; order:1; margin-top:.4rem; }   /* sizing unscoped -- the home page needs this same full-width row for its own browse-links too; centering below is scoped away from it */
-  body:not(.home) header.site strong { text-align:center; }
-  body:not(.home) header.site .wrap > .browse-links { justify-content:center; }
-  body:not(.home) header.site .hright { display:contents; }
-  body:not(.home) header.site .wpgroup { order:-1; flex:1 1 100%; margin:0 0 .4rem; }
-  body:not(.home) header.site .hsearch { order:2; flex:1 1 100%; margin:.5rem 0 0; }
-  body:not(.home) header.site .hsearch input { width:100%; }
+     together inside .hright's own box. Unscoped from body:not(.home) on 2026-09-23: the home page's mobile
+     view now uses this exact same treatment as every other page (Colin: "use the mobile header and mobile
+     sticky header that is used on all of the other pages"); its desktop/tablet view is untouched, handled by
+     the min-width:45rem-scoped body.home rules further down winning there on specificity. Each selector here
+     keeps a leading "body" type-selector it never functionally needed before -- when these were scoped
+     body:not(.home), the :not(.home) pseudo-class itself contributed a class's worth of specificity (per spec,
+     :not() counts its argument's specificity), which is what actually beat each property's plain, unconditional
+     header.site base rule (equal-specificity ties go to whichever comes LATER in the file, and several of those
+     base rules come after this block) -- bare "header.site .hright" etc., with that pseudo-class simply removed,
+     ties its base rule and silently loses, which is exactly what broke .hright's display:contents dissolve here
+     first. "body" is a cheap, always-true stand-in for that same specificity point, without re-introducing any
+     home/not-home distinction. */
+  body header.site strong { display:block; flex:1 1 100%; order:0; white-space:nowrap; font-size:min(calc(100cqw / 18.97), 1.65rem); line-height:1.2; }
+  body header.site .wrap > .browse-links { flex:1 1 100%; order:1; margin-top:.4rem; }
+  body header.site strong { text-align:center; }
+  body header.site .wrap > .browse-links { justify-content:center; }
+  body header.site .hright { display:contents; }
+  body header.site .wpgroup { order:-1; flex:1 1 100%; margin:0 0 .4rem; }
+  body header.site .hsearch { order:2; flex:1 1 100%; margin:.5rem 0 0; }
+  body header.site .hsearch input { width:100%; }
 }
 @media (min-width:45rem) and (max-width:63.99rem) {   /* tablet: same grid structure as the desktop tier below --
      title top-left, the home-link/language-selector/search block ("search block") spanning both rows on the
@@ -549,7 +575,12 @@ header.site .wrap { container-type:inline-size; }
   body:not(.home) header.site strong { grid-column:1; grid-row:1; flex:none; }
   body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; flex:none; margin-top:0; justify-self:start; }   /* justify-self:start -- a grid item defaults to stretching across its spanned columns, which would make this row-2 item's own rendered width equal the FULL row width instead of its actual (shorter) text content, throwing off the title-width-lock script (GLOBAL_LANG_JS) that measures it */
   body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; flex:none; margin:0; }
-  body:not(.home) header.site .hsearch input { width:100%; max-width:19rem; }
+  body:not(.home) header.site .hsearch input { width:100%; max-width:15rem; }   /* was 19rem: at this tier the title
+     is JS-locked to match the browse-links row's own (often wide) natural width, and that width plus a 19rem search
+     box plus both column-gaps could exceed the available row width with no room left to give -- grid's auto columns
+     don't shrink below their content size to make up a deficit, so the row silently overflowed the page at some
+     widths in this tier (e.g. 768px). Narrower search box buys back enough room (Colin, 23 September 2026, caught
+     reviewing Interview 28 at tablet width). */
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
 .topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1.2rem; color:var(--fg); }
@@ -822,29 +853,40 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
   body:not(.home) header.site strong { font-size:1.65rem; }   /* measured to match the title link's width to the menu row's width (excluding [BETA], which is allowed to extend past) */
 }
-/* home page: like Google, the search box is the star, with the categories as links under it -- this exact
-   layout (wpstrip top-right, centered title/search/links column) now applies at every width, not just desktop,
-   per Colin 2026-09-22 ("the homepage layout should look like this at all 3 sizes"); previously it only
-   applied at min-width:64rem and fell back to the general (non-home) mobile/tablet header styles below that,
-   which he didn't want. These all keep their body.home specificity, so they still win over the general rules
-   at any width regardless of media query. */
-body.home header.site { border-top:0; border-bottom:0; background:transparent; padding:3.2rem 1.25rem 0; width:100%; }   /* padding-top reserves room for .wpstrip, which floats position:absolute above this at every width now -- without it, a big enough title (a narrow phone, before its own shrink-to-fit formula was added below) could rise up and overlap it */
-body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; row-gap:1.6rem; }
-body.home header.site strong { display:block; font-size:min(calc(100cqw / 18.97), 3.1rem); white-space:nowrap; line-height:1.15; text-align:center; }   /* shrink-to-fit so the title + [BETA] always stay on one line, scaling down as needed, rather than wrapping at narrow widths -- per Colin 2026-09-22 (18.97 is the title's own measured natural em-width, same formula as the non-home header's title) */
-body.home header.site .browse { display:none; }
-body.home header.site .hright { display:flex; order:2; margin:0; width:min(44rem, 100%); }
-body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
-body.home header.site .browse-links { display:flex; flex-wrap:nowrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:min(calc(100cqw / 33), 1.15rem); margin-top:0; }   /* shrink-to-fit so the links also always stay on one line -- per Colin 2026-09-22; 33 has a bit of slack beyond the measured natural width (31.24em) since flex-wrap:nowrap gives no room for rounding error the way wrapping would forgive. Higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
-body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
-body.home .browse-links a { color:var(--accent); }
-body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
+/* home page: like Google, the search box is the star, with the categories as links under it -- this layout
+   (wpstrip top-right, centered title/search/links column) applies at the tablet/desktop tiers (min-width:45rem),
+   UNCHANGED since 2026-09-22 ("the homepage layout should look like this at all 3 sizes"). On 2026-09-23 Colin
+   asked for mobile alone to instead match every other page's mobile header exactly (own top border, standard
+   search box, sticky header on scroll) -- so this whole block, previously unconditional at every width, is now
+   scoped to min-width:45rem, and mobile falls through to the same shared phone-tier rules every other page
+   already uses. These all keep their body.home specificity, so they still win over the general tablet/desktop
+   rules regardless of media query order. */
+@media (min-width:45rem) {
+  body.home header.site { border-top:0; border-bottom:0; background:transparent; padding:3.2rem 1.25rem 0; width:100%; }   /* padding-top reserves room for .wpstrip, which floats position:absolute above this -- without it, a big enough title could rise up and overlap it */
+  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; row-gap:1.6rem; }
+  body.home header.site strong { display:block; font-size:min(calc(100cqw / 18.97), 3.1rem); white-space:nowrap; line-height:1.15; text-align:center; }   /* shrink-to-fit so the title + [BETA] always stay on one line, scaling down as needed, rather than wrapping at narrow widths -- per Colin 2026-09-22 (18.97 is the title's own measured natural em-width, same formula as the non-home header's title) */
+  body.home header.site .browse { display:none; }
+  body.home header.site .hright { display:flex; order:2; margin:0; width:min(44rem, 100%); }
+  body.home header.site .hright .wpgroup { display:none; }   /* the mobile-only merged copy (build_header's h1 dual-copy) never shows here -- this tier shows the standalone .wpstrip copy below instead, unchanged */
+  body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
+  body.home header.site .browse-links { display:flex; flex-wrap:nowrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:min(calc(100cqw / 33), 1.15rem); margin-top:0; }   /* shrink-to-fit so the links also always stay on one line -- per Colin 2026-09-22; 33 has a bit of slack beyond the measured natural width (31.24em) since flex-wrap:nowrap gives no room for rounding error the way wrapping would forgive. Higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
+  body.home .browse-links .bsep { color:var(--fg); font-weight:700; }
+  body.home .browse-links a { color:var(--accent); }
+  body.home .browse-links a[aria-current="true"] { color:var(--fg); font-weight:700; }
+  /* like Google, the whole block sits in the vertical middle of the page until a search makes it longer --
+     tablet/desktop only: on a phone this ran the content past the bottom of the screen for no benefit, so
+     mobile just flows top-to-bottom like every other page instead (Colin, 23 September 2026) */
+  body.home:not(.searching) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
+  body.home:not(.searching) main { padding-top:0; padding-bottom:0; }
+  body.home:not(.searching) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
+  body.home:not(.searching) #search { margin:0; }
+  body.home.searching header.site .wrap { padding-top:2.5rem; }
+  body.home .stickyheader { display:none !important; }   /* home's sticky header exists only for mobile parity with every other page -- tablet/desktop home never had one and still doesn't (Colin, 23 September 2026: "do not change the tablet or desktop view of the homepage at all") */
+}
 body.home main { max-width:44rem; width:100%; margin:0 auto; }
-/* like Google, the whole block sits in the vertical middle of the page until a search makes it longer */
-body.home:not(.searching) { min-height:100vh; display:flex; flex-direction:column; justify-content:center; padding-bottom:4vh; }
-body.home:not(.searching) main { padding-top:0; padding-bottom:0; }
-body.home:not(.searching) .wpstrip { position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:0; }   /* the menu button stays at the top right, outside the vertically centred content */
-body.home:not(.searching) #search { margin:0; }
-body.home.searching header.site .wrap { padding-top:2.5rem; }
+@media (max-width:44.99rem) {
+  body.home .wpstrip { display:none; }   /* the desktop/tablet-only standalone copy -- mobile shows the merged header.site .hright > .wpgroup copy instead (build_header's h1 dual-copy), matching every other page's mobile header exactly (Colin, 23 September 2026) */
+}
 /* ---- print ("Print transcript (PDF)", also plain Cmd/Ctrl+P) ---- */
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
@@ -1989,6 +2031,7 @@ INDEX_TMPL = """<!doctype html>
 </head>
 <body class="home">
 {header}
+<div class="stickyheader" id="stickytitle">{sticky_header}</div>
 <main>
 <div id="intro-block">
 <p class="intro">The Techspressionism Video Archive is a searchable, citable transcript archive of recorded video related to Techspressionism published from {first_year}&ndash;{latest_year}.
@@ -2320,6 +2363,22 @@ document.addEventListener('click', (e) => {{
     setTimeout(() => {{ btn.textContent = original; }}, 1500);
   }});
 }});
+(function () {{   // once the page header has scrolled away, a slim sticky bar with the site title/search keeps the
+                   // way home in reach -- same pattern as every other page (see PLAYER_JS's/ARTISTS_PAGE_JS's own
+                   // titleBar()); mobile-only in practice, since .stickyheader is hidden outright at min-width:45rem
+                   // for the home page (Colin, 23 September 2026: home's mobile view should match every other
+                   // page's, tablet/desktop unchanged).
+  var bar = document.getElementById('stickytitle'), pageHeader = document.querySelector('header.site');
+  function titleBar() {{
+    if (!bar || !pageHeader) return;
+    var on = pageHeader.getBoundingClientRect().bottom < 0;
+    if (on !== bar.classList.contains('on')) {{
+      bar.classList.toggle('on', on);
+      document.documentElement.style.setProperty('--title-h', on ? bar.offsetHeight + 'px' : '0px');
+    }}
+  }}
+  titleBar(); window.addEventListener('scroll', titleBar, {{ passive: true }}); window.addEventListener('resize', titleBar);
+}})();
 </script>
 </main>
 </body>
@@ -2742,6 +2801,7 @@ def build_index(corpus):
         n_recordings=len(corpus),
         watch_lead_in=WATCH_LEAD_IN,
         header=build_header(corpus, "", h1=True),
+        sticky_header=build_header(corpus, "", sid="-sticky", strip="sticky"),
         pill_svg_js=json.dumps(PILL_SVG),
         cite_js=CITE_JS,
         pill_lead=f"{PILL_LEAD_IN:g}",
