@@ -1330,7 +1330,7 @@ PLAYER_JS = """<script>
       pbox.appendChild(yl);
     }
     citedMode = true;
-    whenReady(function () { player.seekTo(seek, true); tryPlay(); });
+    whenReady(function (deferred) { player.seekTo(seek, true); tryPlay(deferred); });
   }
   document.addEventListener('click', function (ev) {
     var c = ev.target.closest && ev.target.closest('.continue-btn');
@@ -1353,7 +1353,10 @@ PLAYER_JS = """<script>
   // YouTube's own captions are switched off here: the transcript beside the video is the text, and two sets of words are confusing
   function captionsOff() { try { player.unloadModule('captions'); player.unloadModule('cc'); } catch (e) {} }
   function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
-  function whenReady(fn) { if (ready) fn(); else { queue.push(fn); load(); } }
+  function whenReady(fn) { if (ready) fn(false); else { queue.push(function () { fn(true); }); load(); } }   // fn(deferred) -- deferred
+    // is true when the player wasn't ready in time and this call is running later, from the onReady queue, outside the
+    // tap that asked for it; tryPlay() uses that to skip straight to a muted start instead of trying (and failing) an
+    // unmuted one first, per Colin 2026-09-23 ("Watch with transcript ... does not autoplay ... recurring bug")
   var loading = false;
   // Starting the video: a computer allows this straight after a click. A phone only starts a video inside a tap
   // itself, so (1) on a touch screen the player is made ready at the first touch or scroll, long before a watch
@@ -1361,7 +1364,20 @@ PLAYER_JS = """<script>
   // from a search result, where the tap that got us here was on the SEARCH page, not this one, so this page never
   // gets its own "inside a tap" moment at all -- the video is started muted instead (phones allow that) and a line
   // says how to turn the sound on; (3) if even that is refused, a line asks for a tap on the video's own play button.
-  function tryPlay() {
+  function tryPlay(deferred) {
+    if (deferred) {         // running from the onReady queue, outside the tap that asked for it -- an unmuted start
+                             // would just be refused (and 1.2s wasted finding that out), so go straight to muted,
+                             // which phones allow with no gesture at all. This was the actual "Watch with transcript
+                             // doesn't autoplay" bug: the player usually isn't ready the instant the button is
+                             // tapped, so this path -- not the direct one below -- is the common case on a phone.
+      player.mute(); player.playVideo();
+      setTimeout(function () {
+        var s = player.getPlayerState();
+        if (s === 1 || s === 3) showHint('Playing without sound: tap the video, then the speaker icon, to turn the sound on.');
+        else { player.unMute(); showHint('Tap the \u25B6 on the video to start it. The transcript then scrolls along.'); }
+      }, 800);
+      return;
+    }
     player.playVideo();
     setTimeout(function () {
       var s1 = player.getPlayerState();
@@ -1374,7 +1390,7 @@ PLAYER_JS = """<script>
       }, 1200);
     }, 1200);
   }
-  function startWatching() { tryPlay(); }
+  function startWatching(deferred) { tryPlay(deferred); }
   if (('ontouchstart' in window) || navigator.maxTouchPoints > 0) {
     ['touchstart', 'scroll'].forEach(function (n) { window.addEventListener(n, function () { preload(); }, { passive: true, once: true }); });
   }
@@ -1441,7 +1457,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     closeParaCite();      // playing on: the open citation card folds away
     forced = i; mark(i);
-    whenReady(function () { player.seekTo(seek, true); tryPlay(); });
+    whenReady(function (deferred) { player.seekTo(seek, true); tryPlay(deferred); });
   });
   document.addEventListener('click', function (ev) {         // a moment named in the summary: open the transcript there and play from it
     var a = ev.target.closest && ev.target.closest('a.syn-t');
@@ -1453,7 +1469,7 @@ PLAYER_JS = """<script>
     reading(true, false); holdUntil = Date.now() + 2200; autoplayOnLoad = true;
     forced = i; mark(i);
     if (paras[i].scrollIntoView) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
-    whenReady(function () { player.seekTo(at, true); tryPlay(); });
+    whenReady(function (deferred) { player.seekTo(at, true); tryPlay(deferred); });
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
