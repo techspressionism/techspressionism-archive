@@ -2710,19 +2710,34 @@ def build_person_page(p):
             return (f'<li class="rowitem"><div><a href="{slug_}.html"><strong>{e(label(en))}</strong></a> &middot; {e(fmt_date(en.get("date_recorded")))}'
                     f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}spoke {r["turns"]} time{"s" if r["turns"] != 1 else ""}</span></div>'
                     f'{archive_moment_pill(en, r["first"])}</li>')
-        first, rest = items[:10], items[10:]
+        first, rest = items[:3], items[3:]
         more = f'<details><summary>Show {len(rest)} more recordings</summary><ul>{"".join(row(r) for r in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="recordings">Speaking in the archive</h2><ul>{"".join(row(r) for r in first)}</ul>{more}'
                      '<p class="note">Newest first. WATCH opens that recording here in the archive, at their first words.</p>')
     if p["mentions"]:
         ms = sorted(p["mentions"], key=lambda m: (m[0].get("date_recorded") or "", m[3]), reverse=True)
         name_rx = re.compile("|".join(re.escape(n) for n in sorted([p["name"]] + p.get("aliases", []), key=len, reverse=True)), re.I)
+        def snippet(txt, span=110):
+            # transcripts often have no punctuation for minutes at a time, so one "sentence" can be a whole run-on turn;
+            # show only a short window around the name, cut at word boundaries (Colin 2026-09-23)
+            m = name_rx.search(txt)
+            if not m or len(txt) <= 2 * span + len(m.group(0)):
+                return txt
+            a, b = max(0, m.start() - span), min(len(txt), m.end() + span)
+            if a > 0:
+                k = txt.find(" ", a)
+                a = k + 1 if 0 <= k < m.start() else m.start()
+            if b < len(txt):
+                k = txt.rfind(" ", m.end(), b)
+                b = k if k > m.end() else m.end()
+            return ("\u2026 " if a > 0 else "") + txt[a:b].strip() + (" \u2026" if b < len(txt) else "")
         def mrow(m):
             en, sp, txt, tm = m
+            txt = snippet(txt)
             body = e(re.sub(name_rx, lambda x: "\x00" + x.group(0) + "\x01", txt)).replace("\x00", "<mark>").replace("\x01", "</mark>")
             return (f'<li class="rowitem"><div>&ldquo;{body}&rdquo;<br><span class="sub">{e(sp)} &middot; {e(label(en))} &middot; '
                     f'{e(fmt_date(en.get("date_recorded")))}</span></div>{archive_moment_pill(en, tm)}</li>')
-        first, rest = ms[:8], ms[8:60]
+        first, rest = ms[:3], ms[3:60]
         more = f'<details><summary>Show {len(rest)} more</summary><ul>{"".join(mrow(m) for m in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="mentions">Mentioned by others</h2><ul>{"".join(mrow(m) for m in first)}</ul>{more}'
                      f'<p class="note">Passages where a speaker names them in full ({len(ms)} in all, newest first). Only passages with an identified speaker are shown.</p>')
