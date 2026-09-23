@@ -826,8 +826,8 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
 .player-box .tap-hint[hidden] { display:none; }
-.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; display:flex; align-items:center; justify-content:center; min-height:clamp(4rem, 9vw, 5rem); padding:0 .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.8rem, 4.2vw, 1.1rem); line-height:1.2; }   /* touch devices: a solid #ff0033 bar -- exactly the fill of YouTube's own red play button (.ytp-large-play-button-red-bg falls back to #f03 in www-player.css; this site's own --accent is #ff0000, which looks slightly different next to it) -- (Kanit italic, white -- the only Kanit faces the site loads are italic) over the top of the video, NOT over its centre play button. It is deliberately NOT tap-through: the top edge of the YouTube embed is its title/channel link, which opens YouTube, so a tap on this bar is swallowed instead of passed down to that (Colin 2026-09-23). The bar is tall enough (4rem+, growing on a tablet) to cover that title/channel row completely so it can't be seen or tapped by accident; the text never wraps, it just shrinks with the screen. */
-.player-box .tap-play[hidden] { display:none; }
+.player-box .tap-bar { display:flex; align-items:center; justify-content:center; padding:.45rem .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.8rem, 4.2vw, 1.05rem); line-height:1.2; }   /* touch: a thin red bar directly BELOW the video (not over it -- an overlay hid the thumbnail) reading "Tap play to watch with transcript"; #ff0033 = YouTube's own red play button. The video's own play button is what's tapped; the page follows along once it plays. Hides when the video starts. Colin 2026-09-23. */
+.player-box .tap-bar[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
@@ -1062,7 +1062,7 @@ CATEGORY_PLAYER_JS = """<script>
   poster.addEventListener('click', function () {
     if (loading) return;
     loading = true;
-    if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-play'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = 'Tap play to watch'; box.appendChild(tapLabel);
+    if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-bar'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = 'Tap play to watch'; box.appendChild(tapLabel);
     }
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
@@ -1480,7 +1480,7 @@ PLAYER_JS = """<script>
   function fmtTime(t) { t = Math.floor(t); var h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), sec = t % 60; return (h ? h + ':' + (m < 10 ? '0' : '') : '') + m + ':' + (sec < 10 ? '0' : '') + sec; }
   function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
     if (!pbox) return;
-    if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-play'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
+    if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-bar'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
     tapOverlay.textContent = 'Tap play to watch with transcript';
     tapOverlay.hidden = false;
   }
@@ -2843,10 +2843,10 @@ def build_category_page(stype, entries):
 {speakers_html}
 {flags_html}
 {read_actions}
+<a class="transcript-toggle" href="{slug(featured)}.html?read=1" data-pagefind-ignore>Read transcript</a>
 {watch_yt}
 {cite_section}
 </section>
-<a class="transcript-toggle" href="{slug(featured)}.html?read=1" data-pagefind-ignore>Read transcript</a>
 {recent_section}
 {FOOTER}
 </div>
@@ -3158,7 +3158,7 @@ def synopsis_html(entry):
     def point(m):                    # [[11:43|The Garden of Emoji Delights]] -> a link that plays the video from that moment
         parts = [int(x) for x in m.group(1).split(":")]
         sec = parts[0] * 60 + parts[1] if len(parts) == 2 else parts[0] * 3600 + parts[1] * 60 + parts[2]
-        return (f'<a class="syn-t" href="{e(entry["url"])}&amp;t={sec}s" data-t="{sec}" title="Watch from {m.group(1)}">{e(m.group(2))}'
+        return (f'<a class="syn-t" href="{slug(entry)}.html?watch=1&amp;at={sec}" data-t="{sec}" title="Watch from {m.group(1)}">{e(m.group(2))}'
                 f'<span class="syn-time">&#9654; {m.group(1)}</span></a>')
 
     # a participant's name, in the PLAIN text between watch-links (never inside one -- a link can't nest inside
