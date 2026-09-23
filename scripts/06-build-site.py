@@ -440,7 +440,7 @@ body { top:0 !important; }
 """
 
 
-def build_header(corpus, active="", sid="", strip=True, h1=False):
+def build_header(corpus, active="", sid="", strip=True, h1=False, video_scope=False):
     """The site header: title, [BETA], category links, search box (the type pills are in the markup but hidden
     for now, see HIDE_PILLS_CSS). The SAME markup on every page, so it always looks the same. The category links
     (build_browse_links) are spelled out at every width now, mobile included -- no more BROWSE // dropdown
@@ -465,9 +465,10 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             '<span class="beta">[BETA]</span></strong>' + ('</h1>' if h1 else '') + '\n'
             + build_topnav(corpus, active) + '\n'
             + build_browse_links(corpus, active) + '\n'
-            f'<div class="hright">{hright_prefix}<form class="hsearch" action="index.html" method="get" role="search">'
-            '<input type="search" name="q" placeholder="Search for anything&hellip;" aria-label="Search for anything" required></form></div>'
-            '</div></header>')
+            f'<div class="hright">{hright_prefix}<form class="hsearch{" scoped" if video_scope else ""}" action="index.html" method="get" role="search">'
+            '<input type="search" name="q" placeholder="Search for anything&hellip;" aria-label="Search for anything" required>'
+            + ('<label class="vscope" title="Search only this video"><input type="checkbox" aria-label="Search only this video"><span>in this video</span></label>' if video_scope else '') +
+            '</form></div></div></header>')
 
 
 FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
@@ -660,6 +661,37 @@ main.watch-page { max-width:84rem; }
 .stickyheader.on { display:block; }
 .stickyheader header.site { padding-top:1rem; padding-bottom:2.2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough. Both widened again later that day -- the home link/language selector sat too tight against the top of the sticky bar */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
+.pin-bar { display:none; }
+header.site .hsearch.scoped { display:flex; align-items:stretch; }   /* video and category pages: a red "in this video" box with the checkbox is locked to the right end, the input takes the rest (Colin 2026-09-23) */
+header.site .hsearch.scoped input[type="search"] { flex:1 1 auto; width:auto; min-width:0; font-size:.8rem; padding-left:2.3rem; background-size:1rem; background-position:.75rem center; padding-right:.4rem; }
+header.site .hsearch .vscope { flex:none; box-sizing:border-box; display:flex; align-items:center; justify-content:center; gap:.5rem; margin:0; padding:0 .8rem; background:var(--accent); color:#fff; border:2px solid var(--accent); border-left:0; font-size:.9rem; font-weight:700; line-height:1.1; white-space:nowrap; cursor:pointer; }
+header.site .hsearch label.vscope input[type="checkbox"] { width:1.1rem; height:1.1rem; min-width:0; margin:0; padding:0; flex:none; border:0; accent-color:#fff; cursor:pointer; }
+.vsearch { background:var(--card); border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin:0 -1.25rem 1rem; padding:.7rem 1.25rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 0px) + .5rem); }
+.vsearch[hidden] { display:none; }
+.vs-head { display:flex; justify-content:space-between; align-items:baseline; gap:.8rem; margin:0 0 .3rem; font-size:.92rem; }
+.vs-close { font:inherit; background:none; border:0; padding:0; color:var(--accent); text-decoration:underline; cursor:pointer; flex:none; }
+.vs-list { list-style:none; margin:0; padding:0; }
+.vs-item { padding:.65rem 0; border-top:1px solid var(--line); }
+.vs-who { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:.92rem; color:var(--accent); }
+.vs-text { margin:.15rem 0 .45rem; line-height:1.5; }
+.vs-text mark { background:#fdebc8; color:inherit; }
+a.vs-watch { display:inline-flex; align-items:center; gap:.5rem; background:var(--accent); color:#fff; border-radius:1.2rem; padding:.3rem 1.1rem; font-size:.92rem; font-weight:700; line-height:1.4; font-variant-numeric:tabular-nums; text-decoration:none; }
+a.vs-watch:hover { background:#d60000; text-decoration:none; }
+a.vs-watch svg { width:.72rem; height:.85rem; color:#fff; flex:none; }
+a.vs-watch .vs-word { letter-spacing:.05em; font-size:.8rem; }
+@media (min-width:64rem) { .vsearch { margin:0 0 1rem; padding:.7rem .9rem; border:1px solid var(--line); border-radius:.4rem; } }
+@media (max-width:44.99rem) {   /* PHONE ONLY (Colin 2026-09-23): the pinned video sits at the very top of the screen, a thin red strip with a down arrow above it slides the site header down (and back up) so the extra room goes to the transcript by default */
+  html.pinbar { --title-h:1.5rem; }
+  body.category-page .catpage-grid, body.category-page .cat-main, body.category-page .cat-featured { display:contents; }   /* the video's sticky range would otherwise end with .cat-featured, scrolling it away once Recent reaches it; flattened so it stays pinned down the whole page */
+  body.category-page .cat-recent-label { margin-top:2rem; }
+  .player-box { transition:top .25s ease; }
+  body .stickyheader.pin-drawer { display:block; transform:translateY(-105%); visibility:hidden; transition:transform .25s ease, visibility 0s linear .25s; }
+  body .stickyheader.pin-drawer.open { transform:none; visibility:visible; transition:transform .25s ease; }
+  .pin-bar { display:flex; align-items:center; justify-content:center; position:absolute; left:0; right:0; top:-1.5rem; height:1.5rem; margin:0; padding:0; border:0; border-radius:0; background:#e3e3e3; color:#000; cursor:pointer; opacity:0; pointer-events:none; transition:opacity .15s ease; -webkit-tap-highlight-color:transparent; }
+  .player-box.pinned .pin-bar { opacity:1; pointer-events:auto; }
+  .pin-bar svg { width:1.1rem; height:.7rem; transition:transform .25s ease; }
+  .pin-bar[aria-expanded="true"] { opacity:0; pointer-events:none; }   /* header showing: the strip disappears, the video slides up under the header */
+}
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
 .player-frame .poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:#000; cursor:pointer; }
@@ -735,6 +767,8 @@ a.pill:hover svg, a.pill:focus-visible svg { color:#FF0000; }
 a.pill:hover svg path, a.pill:focus-visible svg path { fill:currentColor; }   /* solid red triangle on hover */
 .para .tx { border-radius:.15rem; }
 .para.active .tx { background:#fdebc8; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
+html.sent-hl .para.active .tx { background:none; }   /* only the sentence being spoken is highlighted (Colin 2026-09-23) -- via the CSS Custom Highlight API; a browser without it keeps highlighting the whole turn */
+::highlight(spoken) { background-color:#fdebc8; }
 @media (min-width:64rem) {
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:2.5rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
@@ -826,7 +860,7 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
 .player-box .tap-hint[hidden] { display:none; }
-.player-box .tap-bar { display:flex; align-items:center; justify-content:center; padding:.45rem .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.8rem, 4.2vw, 1.05rem); line-height:1.2; }   /* touch: a thin red bar directly BELOW the video (not over it -- an overlay hid the thumbnail) reading "Tap play to watch with transcript"; #ff0033 = YouTube's own red play button. The video's own play button is what's tapped; the page follows along once it plays. Hides when the video starts. Colin 2026-09-23. */
+.player-box .tap-bar { display:flex; align-items:center; justify-content:center; padding:.45rem .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.6rem, 3.3vw, 1.05rem); line-height:1.2; }   /* touch: a thin red bar directly BELOW the video (not over it -- an overlay hid the thumbnail) reading "Tap play to watch with transcript"; #ff0033 = YouTube's own red play button. The video's own play button is what's tapped; the page follows along once it plays. Hides when the video starts. Colin 2026-09-23. */
 .player-box .tap-bar[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
@@ -906,7 +940,7 @@ body.home.searching main { max-width:60rem; }   /* the search results (SERP) nee
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
   .cite-actions, .transcript-toggle, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
-  .sitefoot, .player-box, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
+  .sitefoot, .player-box, .vsearch, .vscope, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
   .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
   .layout { display:block !important; }   /* the two-column grid (content + transcript/sidebar) becomes one column, full width */
@@ -1045,7 +1079,7 @@ def build_player(entry):
                             "participants": participants_line(entry)}, ensure_ascii=False)
     img = (f'<img src="thumbnails/{e(video_id)}.jpg" alt="" loading="lazy">'
            if (THUMBNAILS_SRC_DIR / f"{video_id}.jpg").exists() else "")
-    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-lead="{PILL_LEAD_IN:g}" data-cite="{e(cite_data)}" data-pagefind-ignore>'
+    return (f'<div class="player-box" id="player-box" data-video="{e(video_id)}" data-slug="{e(slug(entry))}" data-lead="{PILL_LEAD_IN:g}" data-cite="{e(cite_data)}" data-pagefind-ignore>'
             f'<div class="player-frame" id="player"><button type="button" class="poster" aria-label="{alt}">{img}'
             f'<span class="bigplay">{PLAY_SVG}</span></button></div></div>')
 
@@ -1090,11 +1124,12 @@ CATEGORY_PLAYER_JS = """<script>
                  // so a fixed CSS width can't track it; measured and kept in sync instead. Every matching input, not
                  // just the first: the sticky mini-header (#stickytitle) carries its own separate copy of the search
                  // box, which was silently staying at the unmatched default width since querySelector only finds one.
-  var sidebar = document.querySelector('.cat-list'), inputs = document.querySelectorAll('header.site .hsearch input');
+  var sidebar = document.querySelector('.cat-list'), inputs = document.querySelectorAll('header.site .hsearch input[type="search"]');
   if (!sidebar || !inputs.length) return;
   function match() {
     var w = window.innerWidth >= 1024 ? sidebar.getBoundingClientRect().width + 'px' : '';
-    inputs.forEach(function (input) { input.style.width = w; });
+    inputs.forEach(function (input) { if (input.form && input.form.querySelector('.vscope')) return;   // video/category pages: the search+checkbox box keeps the home link/language selector's width instead
+    input.style.width = w; });
   }
   match();
   window.addEventListener('resize', match);
@@ -1281,6 +1316,7 @@ PLAYER_JS = """<script>
   var bar = document.getElementById('stickytitle'), pageHeader = document.querySelector('header.site');
   function titleBar() {     // once the page header has scrolled away, a slim bar with the site title keeps the way home in reach
     if (!bar || !pageHeader) return;
+    if (window.matchMedia && window.matchMedia('(max-width: 44.99rem)').matches) return;      // phone: the red strip above the pinned video opens the header instead (PIN_BAR_JS)
     var on = pageHeader.getBoundingClientRect().bottom < 0;
     if (on !== bar.classList.contains('on')) {
       bar.classList.toggle('on', on);
@@ -1389,14 +1425,6 @@ PLAYER_JS = """<script>
       continueBtn = card.querySelector('.continue-btn');
       paras[i1].parentNode.insertBefore(card, paras[i1].nextSibling);
     }
-    var ytBase = (document.querySelector('.watch-yt a[href*="youtube.com/watch"]') || {}).href;
-    if (ytBase && pbox) {                  // "Watch on YouTube" sits under the video, at the same moment
-      var yl = document.createElement('a');
-      yl.className = 'yt-under'; yl.target = '_blank'; yl.rel = 'noopener';
-      yl.href = ytBase + '&t=' + Math.max(0, Math.floor(citeAt - lead)) + 's';
-      yl.textContent = 'Watch on YouTube \u2197';
-      pbox.appendChild(yl);
-    }
     citedMode = true;
     ensureFreshPlayer(seek);
   }
@@ -1481,7 +1509,7 @@ PLAYER_JS = """<script>
   function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
     if (!pbox) return;
     if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-bar'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
-    tapOverlay.textContent = 'Tap play to watch with transcript';
+    tapOverlay.textContent = 'Tap the play button to watch with transcript';
     tapOverlay.hidden = false;
   }
   function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; }
@@ -1522,7 +1550,7 @@ PLAYER_JS = """<script>
         playerVars: vars,
         events: {
           onReady: function () { ready = true; captionsOff(); queue.splice(0).forEach(function (f) { f(); }); },
-          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1 || ev.data === 3) hideTapOverlay(); if (ev.data === 1) { captionsOff(); hasPlayed = true; } },
+          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1 || ev.data === 3) hideTapOverlay(); if (ev.data === 1) { captionsOff(); hasPlayed = true; citedMode = false; } },
           onError: function () { failed = true; queue = []; }
         }
       });
@@ -1588,13 +1616,54 @@ PLAYER_JS = """<script>
     centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   });
+  window.tvaPlayAt = function (at) {      // "Search only this video" results: play from that moment, the transcript following along
+    var i = 0;
+    for (var k = 0; k < starts.length; k++) if (starts[k] <= at + 0.5) i = k;
+    stopAt = null; citedMode = false; closeParaCite();
+    reading(true, false); holdUntil = Date.now() + 2200;
+    forced = i; mark(i);
+    centerTurn(paras[i], true);
+    ensureFreshPlayer(at);
+  };
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
     if (citedMode || i === active) return;
     if (active >= 0) paras[active].classList.remove('active');
     active = i;
-    if (i < 0) return;
+    if (i < 0) { setSentence(-1); return; }
     paras[i].classList.add('active');
+    setSentence(i, starts[i]);
+  }
+  var HL = !!(window.CSS && CSS.highlights && window.Highlight), hlKey = '';      // only the sentence being spoken is highlighted, not the whole turn
+  if (HL) document.documentElement.classList.add('sent-hl');
+  if (HL && active >= 0) setSentence(active, starts[active]);
+  function textRange(tx, a, b) {
+    var w = document.createTreeWalker(tx, NodeFilter.SHOW_TEXT), node, seen = 0, r = document.createRange(), gotStart = false;
+    while ((node = w.nextNode())) {
+      var len = node.nodeValue.length;
+      if (!gotStart && a < seen + len) { r.setStart(node, a - seen); gotStart = true; }
+      if (gotStart && b <= seen + len) { r.setEnd(node, b - seen); return r; }
+      seen += len;
+    }
+    return null;
+  }
+  function setSentence(i, t) {
+    if (!HL) return;
+    if (i < 0) { CSS.highlights.delete('spoken'); hlKey = ''; return; }
+    var m = model(paras[i]);
+    if (!m.tx || !m.len) return;
+    var a = 0, b = m.len;
+    if (m.starts) {
+      var j = 0;
+      for (var q = 0; q < m.times.length; q++) if (m.times[q] <= t + 0.25) j = q;
+      a = m.starts[j]; b = j + 1 < m.starts.length ? m.starts[j + 1] : m.len;
+    }
+    var text = m.tx.textContent;
+    while (b > a && text.charCodeAt(b - 1) <= 32) b--;
+    var key = i + ':' + a;
+    if (key === hlKey) return;
+    var r = textRange(m.tx, a, b);
+    if (r) { CSS.highlights.set('spoken', new Highlight(r)); hlKey = key; }
   }
   // while the video plays, the timecode on the current turn's gray PAUSE button counts up with the video; when the transcript moves on to the next
   // turn, that one goes back to its own start time and the next turn's button starts counting from there
@@ -1698,6 +1767,7 @@ PLAYER_JS = """<script>
     var lo = 0, hi = starts.length - 1, idx = -1;
     while (lo <= hi) { var mid = (lo + hi) >> 1; if (starts[mid] <= t + 0.25) { idx = mid; lo = mid + 1; } else hi = mid - 1; }
     if (playing || idx !== active) mark(idx, playing);
+    if (playing && !citedMode && active >= 0) setSentence(active, t);
     if ((st === 1 || st === 3) && !citedMode && active >= 0) {
       if (ticking !== active) { resetClock(); ticking = active; }
       setClock(active, Math.max(t, starts[active]));
@@ -1732,11 +1802,12 @@ PLAYER_JS = """<script>
 (function () {   // the header search box matches the "All Salons" sidebar's width here too, same as category
                  // pages -- .watch-next only exists once JS turns it on, and toggles hidden in reading mode, so a
                  // ResizeObserver (not just a resize listener) catches it appearing/disappearing, not just resizing
-  var sidebar = document.querySelector('.watch-next'), inputs = document.querySelectorAll('header.site .hsearch input');
+  var sidebar = document.querySelector('.watch-next'), inputs = document.querySelectorAll('header.site .hsearch input[type="search"]');
   if (!sidebar || !inputs.length) return;
   function match() {
     var w = window.innerWidth >= 1024 ? sidebar.getBoundingClientRect().width : 0;
-    inputs.forEach(function (input) { input.style.width = w ? w + 'px' : ''; });
+    inputs.forEach(function (input) { if (input.form && input.form.querySelector('.vscope')) return;
+    input.style.width = w ? w + 'px' : ''; });
   }
   match();
   window.addEventListener('resize', match);
@@ -1745,8 +1816,153 @@ PLAYER_JS = """<script>
 </script>"""
 
 
+PIN_BAR_JS = """<script>
+(function () {   // PHONE ONLY: when the video is pinned to the top, a thin red strip above it (down arrow, centred) slides the site
+                 // header down over the page and back up again, so the transcript gets the room by default and the header is
+                 // still one tap away (Colin 2026-09-23). --title-h is the height of everything stacked above the video.
+  var pbox = document.getElementById('player-box'), drawer = document.getElementById('stickytitle');
+  if (!pbox || !drawer || !window.matchMedia) return;
+  var mq = window.matchMedia('(max-width: 44.99rem)'), root = document.documentElement, bar = null, open = false, lockUntil = 0;
+  function titleH() { return open ? drawer.offsetHeight : (bar ? bar.offsetHeight : 0); }      // header open: the red strip steps aside and the video sits right under the header
+  function apply() { root.style.setProperty('--title-h', titleH() + 'px'); }
+  function setOpen(v) {
+    open = v; drawer.classList.toggle('open', v);
+    bar.setAttribute('aria-expanded', v ? 'true' : 'false'); bar.setAttribute('aria-label', v ? 'Hide site header' : 'Show site header');
+    apply(); lockUntil = Date.now() + 320;
+  }
+  function check() {
+    if (!bar || Date.now() < lockUntil) return;
+    var pinned = pbox.getBoundingClientRect().top <= titleH() + 1;
+    pbox.classList.toggle('pinned', pinned);
+    if (!pinned && open) setOpen(false);
+  }
+  function enable() {
+    if (bar) return;
+    bar = document.createElement('button'); bar.type = 'button'; bar.className = 'pin-bar'; bar.setAttribute('aria-controls', 'stickytitle'); bar.setAttribute('aria-expanded', 'false'); bar.setAttribute('aria-label', 'Show site header');
+    bar.innerHTML = '<svg viewBox="0 0 16 10" aria-hidden="true"><path d="M1.5 1.5 8 8l6.5-6.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    bar.addEventListener('click', function () { setOpen(!open); });
+    pbox.insertBefore(bar, pbox.firstChild);
+    root.classList.add('pinbar'); drawer.classList.remove('on'); drawer.classList.add('pin-drawer');
+    apply(); check();
+  }
+  function disable() {
+    if (!bar) return;
+    bar.remove(); bar = null; open = false;
+    root.classList.remove('pinbar'); drawer.classList.remove('open', 'pin-drawer'); pbox.classList.remove('pinned'); root.style.removeProperty('--title-h');
+    window.dispatchEvent(new Event('scroll'));      // lets the wider layouts' own header logic re-evaluate
+  }
+  function sync() { if (mq.matches) enable(); else disable(); }
+  window.addEventListener('scroll', check, { passive: true });
+  function userScroll(ev) { if (open && Date.now() > lockUntil && !drawer.contains(ev.target)) setOpen(false); }   // scrolling the page (finger or wheel, not the app's own follow-along scrolling) tucks the header away again
+  document.addEventListener('touchmove', userScroll, { passive: true }); document.addEventListener('wheel', userScroll, { passive: true });
+  window.addEventListener('resize', function () { if (bar) { apply(); check(); } });
+  if (mq.addEventListener) mq.addEventListener('change', sync); else if (mq.addListener) mq.addListener(sync);
+  sync();
+})();
+</script>"""
+
 PLAYER_JS = PLAYER_JS.replace("<script>" + chr(10) + "(function () {", "<script>" + chr(10) + CITE_JS + chr(10) + "(function () {", 1)
 CATEGORY_PLAYER_JS = CATEGORY_PLAYER_JS.replace("<script>" + chr(10) + "(function () {", "<script>" + chr(10) + CITE_JS + chr(10) + "(function () {", 1)   # the featured recording's "Cite this session" box (copy-cite button, citation format selector) now needs CITE_JS too, per Colin 2026-09-22
+VSEARCH_JS = r"""<script>
+(function () {   // "Search only this video": a checkbox under the header search box. Ticked, a search is answered here -- results listed right
+                 // below the pinned video, from this recording's own sentence times (times/<slug>.json) -- instead of going to the archive search.
+  var pbox = document.getElementById('player-box');
+  if (!pbox || !pbox.dataset.slug) return;
+  var slug = pbox.dataset.slug, checks = document.querySelectorAll('.vscope input'), panel = null, data = null, loading = null, timer = null, seq = 0;
+  if (!checks.length) return;
+  var css = document.querySelector('link[rel="stylesheet"][href*="style.css"]'), root = css ? css.href.replace(/style\.css.*$/, '') : location.pathname.replace(/[^\/]*$/, '');
+  var BS = String.fromCharCode(92), LN = BS + 'p{L}' + BS + 'p{N}', SPECIAL = '.*+?^${}()|[]' + BS;
+  function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function escRe(t) { var o = ''; for (var i = 0; i < t.length; i++) o += (SPECIAL.indexOf(t.charAt(i)) >= 0 ? BS : '') + t.charAt(i); return o; }
+  function clock(sec) { sec = Math.floor(sec); var h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60, two = function (n) { return String(n).padStart(2, '0'); }; return h ? h + ':' + two(m) + ':' + two(s) : two(m) + ':' + two(s); }
+  function terms(q) {        // "quoted phrases" stay together, everything else is a whole word
+    var out = [], re = /"([^"]+)"|(\S+)/g, m;
+    while ((m = re.exec(q))) { var t = (m[1] || m[2]).replace(/^["“”]+|["“”]+$/g, '').trim(); if (t) out.push(t.toLowerCase()); }
+    return out;
+  }
+  function load() {
+    if (!loading) loading = fetch(root + 'times/' + slug + '.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) { data = d; return d; }).catch(function () { return null; });
+    return loading;
+  }
+  function ensurePanel() {
+    if (panel) return panel;
+    panel = document.createElement('div'); panel.className = 'vsearch'; panel.id = 'vsearch'; panel.hidden = true; panel.setAttribute('data-pagefind-ignore', '');
+    panel.setAttribute('aria-live', 'polite');
+    pbox.parentNode.insertBefore(panel, pbox.nextSibling);
+    panel.addEventListener('click', function (ev) {
+      if (ev.target.closest('.vs-close')) { panel.hidden = true; return; }
+      var a = ev.target.closest('a.vs-watch');
+      if (a && window.tvaPlayAt && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey && !ev.button) { ev.preventDefault(); panel.hidden = true; window.tvaPlayAt(parseFloat(a.dataset.t)); }
+    });
+    return panel;
+  }
+  function hrefAt(sec) {
+    var w = document.querySelector('a.watch-btn');
+    return w ? w.href + (w.href.indexOf('?') >= 0 ? '&' : '?') + 'at=' + Math.floor(sec) : '#';
+  }
+  function render(q, d, jump) {
+    var p = ensurePanel(), ts = terms(q), res = [];
+    if (d && ts.length) {
+      var regs = ts.map(function (t) { return new RegExp('(?<![' + LN + '])' + escRe(t) + '(?![' + LN + '])', 'giu'); });
+      d.s.forEach(function (sn) {
+        var text = sn[1].replace(/(^|[\s(])_([^_\s][^_]*?)_(?=[\s.,;:!?)]|$)/g, '$1$2');
+        for (var k = 0; k < regs.length; k++) { regs[k].lastIndex = 0; if (!regs[k].test(text)) return; }
+        var spans = [];
+        regs.forEach(function (re) { re.lastIndex = 0; var m; while ((m = re.exec(text))) { spans.push([m.index, m.index + m[0].length]); if (!m[0].length) re.lastIndex++; } });
+        spans.sort(function (a, b) { return a[0] - b[0]; });
+        var html = '', pos = 0;
+        spans.forEach(function (sp) { if (sp[0] < pos) { if (sp[1] > pos) { html += '<mark>' + esc(text.slice(pos, sp[1])) + '</mark>'; pos = sp[1]; } return; } html += esc(text.slice(pos, sp[0])) + '<mark>' + esc(text.slice(sp[0], sp[1])) + '</mark>'; pos = sp[1]; });
+        html += esc(text.slice(pos));
+        res.push({ t: sn[0], who: (d.p[sn[2]] || [])[1] || '', html: html });
+      });
+    }
+    var cap = 200, shown = res.slice(0, cap);
+    var head = '<div class="vs-head"><strong>' + (res.length ? res.length + (res.length === 1 ? ' match' : ' matches') + ' in this video for “' + esc(q.trim()) + '”' : 'No matches in this video for “' + esc(q.trim()) + '”') + (res.length > cap ? ' (first ' + cap + ' shown)' : '') + '</strong><button type="button" class="vs-close">Close</button></div>';
+    p.innerHTML = head + (shown.length ? '<ul class="vs-list">' + shown.map(function (r) {
+      return '<li class="vs-item">' + (r.who && !/^(unattributed|transcript|discussion|announcements)$/i.test(r.who) ? '<div class="vs-who">' + esc(r.who) + '</div>' : '') + '<p class="vs-text">' + r.html + '</p>'
+        + '<a class="vs-watch" href="' + hrefAt(r.t) + '" data-t="' + r.t + '"><span class="vs-word">WATCH</span><svg viewBox="0 0 10 12" aria-hidden="true"><path d="M1 1l8 5-8 5z" fill="currentColor"/></svg>' + clock(r.t) + '</a></li>';
+    }).join('') + '</ul>' : '');
+    p.hidden = false;
+    document.documentElement.style.setProperty('--player-h', pbox.offsetHeight + 'px');
+    if (jump) p.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  function run(q, jump) {
+    var n = ++seq;
+    if (!terms(q).length) { if (panel) panel.hidden = true; return; }
+    load().then(function (d) { if (n === seq) render(q, d, jump); });
+  }
+  function syncWidth() {      // the red checkbox box is exactly as wide as the language selector above it (Colin 2026-09-23)
+    document.querySelectorAll('.hright').forEach(function (h) {
+      var sel = h.querySelector('.langswitch select'), v = h.querySelector('.vscope');
+      if (sel && v && sel.offsetWidth) v.style.width = sel.offsetWidth + 'px';
+    });
+  }
+  syncWidth(); window.addEventListener('resize', syncWidth); window.addEventListener('load', syncWidth);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(syncWidth);
+  if (window.ResizeObserver) document.querySelectorAll('.langswitch select').forEach(function (sel) { new ResizeObserver(syncWidth).observe(sel); });
+  function inputOf(box) { var hr = box.closest('.hright'); return hr ? hr.querySelector('.hsearch input[type="search"]') : null; }
+  function scoped(form) { var hr = form.closest('.hright'), c = hr && hr.querySelector('.vscope input'); return !!(c && c.checked); }
+  checks.forEach(function (c) {
+    c.addEventListener('change', function () {
+      checks.forEach(function (o) { o.checked = c.checked; });
+      var inp = inputOf(c);
+      if (!c.checked) { seq++; if (panel) panel.hidden = true; }
+      else if (inp) { if (inp.value.trim()) run(inp.value, true); else inp.focus(); }
+    });
+  });
+  document.querySelectorAll('header.site .hsearch, .stickyheader .hsearch').forEach(function (form) {
+    form.addEventListener('submit', function (ev) { if (!scoped(form)) return; ev.preventDefault(); var inp = form.querySelector('input[type="search"]'); run(inp.value, true); if (document.activeElement) document.activeElement.blur(); });
+    form.querySelector('input[type="search"]').addEventListener('input', function (ev) {
+      if (!scoped(form)) return;
+      clearTimeout(timer); var v = ev.target.value; timer = setTimeout(function () { run(v, true); }, 250);
+    });
+  });
+})();
+</script>"""
+PLAYER_JS += PIN_BAR_JS
+CATEGORY_PLAYER_JS += PIN_BAR_JS
+PLAYER_JS += VSEARCH_JS
+CATEGORY_PLAYER_JS += VSEARCH_JS
 
 
 def emphasize(escaped):
@@ -2123,8 +2339,8 @@ def build_session_page(entry, siblings=()):
         date_word="Published" if date_is_estimate(entry) else "Recorded",
         player=build_player(entry),
         watch_next=build_watch_next(entry, siblings) if siblings else "",
-        header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label']),
-        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip="sticky"),
+        header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], video_scope=True),
+        sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip="sticky", video_scope=True),
         player_js=PLAYER_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
@@ -2583,10 +2799,11 @@ def load_people(corpus):
                 if p is None or person_key(who) in NO_ARTIST_PAGE:
                     continue
                 key = (ent.get("type", "salon"), ent["number"])
-                r = p["speaks"].setdefault(key, {"ent": ent, "turns": 0, "words": 0, "first": seg["start"]})
+                r = p["speaks"].setdefault(key, {"ent": ent, "turns": 0, "words": 0, "first": seg["start"], "first_text": seg["text"]})
                 r["turns"] += 1
                 r["words"] += len(seg["text"].split())
-                r["first"] = min(r["first"], seg["start"])
+                if seg["start"] < r["first"]:
+                    r["first"], r["first_text"] = seg["start"], seg["text"]
     # where others name them
     names = {}
     for p in PEOPLE:
@@ -2703,17 +2920,28 @@ def build_person_page(p):
                      '<p class="note">From the exhibition pages on techspressionism.com. A REEL button plays the exhibition reel at this artist\'s entry.</p>')
     if p["speaks"]:
         items = sorted(p["speaks"].values(), key=lambda r: (r["ent"].get("date_recorded") or "", r["ent"]["number"]), reverse=True)
+        def first_sentence(text, cap=200):
+            # the first sentence of the turn the WATCH button opens (like the mentions below); a run-on with no punctuation is cut at a word boundary
+            para = re.sub(r"_([^_]+)_", r"\1", (text or "").split("\n\n")[0]).strip()
+            spans = split_sentences(para)
+            sent = spans[0][2] if spans else para
+            if len(sent) > cap:
+                cut = sent.rfind(" ", 0, cap)
+                sent = sent[:cut if cut > 0 else cap].rstrip(" ,;:") + " \u2026"
+            return sent
         def row(r):
             en = r["ent"]
             slug_ = f"{en.get('type', 'salon')}-{int(en['number']):03d}"
+            quote = first_sentence(r.get("first_text"))
+            quote_html = f'<br>&ldquo;{e(quote)}&rdquo;' if quote else ""
             title = en.get("session_title") or ""
             return (f'<li class="rowitem"><div><a href="{slug_}.html"><strong>{e(label(en))}</strong></a> &middot; {e(fmt_date(en.get("date_recorded")))}'
-                    f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}spoke {r["turns"]} time{"s" if r["turns"] != 1 else ""}</span></div>'
+                    f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}spoke {r["turns"]} time{"s" if r["turns"] != 1 else ""}</span>{quote_html}</div>'
                     f'{archive_moment_pill(en, r["first"])}</li>')
         first, rest = items[:3], items[3:]
         more = f'<details><summary>Show {len(rest)} more recordings</summary><ul>{"".join(row(r) for r in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="recordings">Speaking in the archive</h2><ul>{"".join(row(r) for r in first)}</ul>{more}'
-                     '<p class="note">Newest first. WATCH opens that recording here in the archive, at their first words.</p>')
+                     '<p class="note">Newest first. WATCH opens that recording here in the archive, at the turn quoted.</p>')
     if p["mentions"]:
         ms = sorted(p["mentions"], key=lambda m: (m[0].get("date_recorded") or "", m[3]), reverse=True)
         name_rx = re.compile("|".join(re.escape(n) for n in sorted([p["name"]] + p.get("aliases", []), key=len, reverse=True)), re.I)
@@ -2871,12 +3099,14 @@ def build_category_page(stype, entries):
     page = canonical_url(f"{info['plural'].lower()}/")
     desc = lib_seo.clip_text(f"The most recent Techspressionism {info['label']} and the full archive of {len(ordered)}, "
                               f"every one a searchable, citable transcript.")
-    head = build_header(NAV_CORPUS, "")
+    head = build_header(NAV_CORPUS, "", video_scope=True)
+    sticky_head = build_header(NAV_CORPUS, "", sid="-sticky", strip="sticky", video_scope=True)
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
                              trail=[(BRAND, canonical_url("")), (info["plural"], page)]) if page else None
     html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
                  f'<title>{e(info["plural"])}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
+                 f'<div class="stickyheader" id="stickytitle">{sticky_head}</div>\n'
                  f'<main class="person category">\n{body}\n</main>\n</body>\n</html>\n')
     seo = dict(title=f"{info['plural']} — {BRAND}", social_title=f"{info['plural']} — {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
