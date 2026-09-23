@@ -1049,7 +1049,7 @@ CATEGORY_PLAYER_JS = """<script>
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // mute:1 baked into construction, not a later mute() call -- iOS Safari won't reliably autoplay an unmuted cross-origin iframe even from a direct tap; the video's own on-screen speaker icon still unmutes it (Colin, 23 September 2026)
+        playerVars: (/iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // iPhone/iPad refuse autoplay of this embed even muted (Colin's phone, 23 September 2026), so there it just loads with sound on and its own play button; a muted autoplay attempt there would only leave a manual play muted too
         events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} } }
       });
     };
@@ -1401,9 +1401,26 @@ PLAYER_JS = """<script>
   // scroll, well before any watch tap), it's torn down and rebuilt fresh with the real intent baked in, rather than
   // remote-controlled after the fact. If it's already actively playing, no rebuild is needed -- just seek if asked.
   // Per Colin, 23 September 2026: "on my iphone, none of the watch buttons start the video ... recurring bug."
+  // iPhone/iPad: Safari confirmed (Colin's own phone, Low Power Mode off, 23 September 2026) to refuse even a muted,
+  // baked-in autoplay from a tap on OUR button -- a tap only counts as a gesture for the YouTube player if it lands on
+  // the player itself (it is a separate, cross-origin page). So on iOS nothing here tries to start the video: it is
+  // cued at the requested moment, unmuted, with a line saying to tap its own play button. Once the visitor has done
+  // that once, Safari lets the page control the same player, so later WATCH/timestamp taps seek and play normally.
+  var IS_IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var hasPlayed = false;
   function ensureFreshPlayer(seek) {
+    var hasSeek = typeof seek === 'number' && !isNaN(seek);
+    if (IS_IOS) {
+      autoplayOnLoad = false;
+      pendingSeek = hasSeek ? Math.max(0, Math.floor(seek)) : null;
+      if (ready && player && hasPlayed) { if (hasSeek) player.seekTo(seek, true); player.playVideo(); return; }
+      if (ready && player) { try { player.cueVideoById({ videoId: vid, startSeconds: hasSeek ? seek : 0 }); } catch (e) {} }
+      else { queue.push(function () { if (hasSeek) { try { player.cueVideoById({ videoId: vid, startSeconds: seek }); } catch (e) {} } }); load(); }
+      showHint('Tap the \u25B6 on the video to start it at this moment. The transcript then scrolls along.');
+      return;
+    }
     autoplayOnLoad = true;
-    pendingSeek = (typeof seek === 'number' && !isNaN(seek)) ? Math.max(0, Math.floor(seek)) : null;
+    pendingSeek = hasSeek ? Math.max(0, Math.floor(seek)) : null;
     var playing = ready && player && player.getPlayerState && (player.getPlayerState() === 1 || player.getPlayerState() === 3);
     if (playing) {
       if (pendingSeek !== null) player.seekTo(seek, true);
@@ -1426,7 +1443,7 @@ PLAYER_JS = """<script>
         playerVars: vars,
         events: {
           onReady: function () { ready = true; captionsOff(); queue.splice(0).forEach(function (f) { f(); }); },
-          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1) captionsOff(); },
+          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1) { captionsOff(); hasPlayed = true; if (IS_IOS && hint) hint.hidden = true; } },
           onError: function () { failed = true; queue = []; }
         }
       });
