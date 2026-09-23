@@ -1049,7 +1049,7 @@ CATEGORY_PLAYER_JS = """<script>
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1 },
+        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // mute:1 baked into construction, not a later mute() call -- iOS Safari won't reliably autoplay an unmuted cross-origin iframe even from a direct tap; the video's own on-screen speaker icon still unmutes it (Colin, 23 September 2026)
         events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} } }
       });
     };
@@ -1257,8 +1257,7 @@ PLAYER_JS = """<script>
     var wbtn = document.getElementById('watch-btn');
     if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
       reading(true, true);
-      autoplayOnLoad = true;
-      if (typeof whenReady === 'function') whenReady(startWatching);
+      if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
@@ -1330,7 +1329,7 @@ PLAYER_JS = """<script>
       pbox.appendChild(yl);
     }
     citedMode = true;
-    whenReady(function (deferred) { player.seekTo(seek, true); tryPlay(deferred); });
+    ensureFreshPlayer(seek);
   }
   document.addEventListener('click', function (ev) {
     var c = ev.target.closest && ev.target.closest('.continue-btn');
@@ -1349,7 +1348,7 @@ PLAYER_JS = """<script>
   var vid = box.dataset.video, lead = parseFloat(box.dataset.lead) || 0;
   var paras = [].slice.call(document.querySelectorAll('.para[data-t]'));
   var starts = paras.map(function (p) { return parseFloat(p.dataset.t); });
-  var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0;
+  var player = null, ready = false, failed = false, queue = [], forced = null, active = -1, lastUser = 0, pendingSeek = null;
   // YouTube's own captions are switched off here: the transcript beside the video is the text, and two sets of words are confusing
   function captionsOff() { try { player.unloadModule('captions'); player.unloadModule('cc'); } catch (e) {} }
   function setPlaying(on) { layout.classList.toggle('is-playing', on); }   // playing (or buffering): the turn buttons are gray PAUSE buttons
@@ -1390,19 +1389,41 @@ PLAYER_JS = """<script>
       }, 1200);
     }, 1200);
   }
-  function startWatching(deferred) { tryPlay(deferred); }
   if (('ontouchstart' in window) || navigator.maxTouchPoints > 0) {
     ['touchstart', 'scroll'].forEach(function (n) { window.addEventListener(n, function () { preload(); }, { passive: true, once: true }); });
   }
   function preload() { if (box && !player) load(); }   // opening the transcript is the sign of intent: have the player ready before the first WATCH tap (a phone only starts a video inside the tap)
+  // Any tap that means "start (or jump to a moment in) the video" goes through here, not a bare whenReady()+tryPlay().
+  // iOS Safari won't reliably honor a postMessage playVideo()/mute()/seekTo() sent to an ALREADY-LOADED, idle iframe
+  // as "inside a tap", no matter how synchronously it's called from here -- but it DOES honor autoplay+muted+start
+  // baked into a fresh embed's own construction, the same way it honors a native <video autoplay muted playsinline>.
+  // So: if the player is sitting idle (the common case -- preload already built one, quietly, on the first touch or
+  // scroll, well before any watch tap), it's torn down and rebuilt fresh with the real intent baked in, rather than
+  // remote-controlled after the fact. If it's already actively playing, no rebuild is needed -- just seek if asked.
+  // Per Colin, 23 September 2026: "on my iphone, none of the watch buttons start the video ... recurring bug."
+  function ensureFreshPlayer(seek) {
+    autoplayOnLoad = true;
+    pendingSeek = (typeof seek === 'number' && !isNaN(seek)) ? Math.max(0, Math.floor(seek)) : null;
+    var playing = ready && player && player.getPlayerState && (player.getPlayerState() === 1 || player.getPlayerState() === 3);
+    if (playing) {
+      if (pendingSeek !== null) player.seekTo(seek, true);
+      tryPlay(false);
+      return;
+    }
+    if (player) { try { player.destroy(); } catch (e) {} player = null; ready = false; loading = false; failed = false; }
+    whenReady(function (deferred) { tryPlay(deferred); });
+  }
   function load() {
     if (player || failed || loading) return;
     loading = true;
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
+      var vars = { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: autoplayOnLoad ? 1 : 0 };
+      if (autoplayOnLoad) vars.mute = 1;   // baked in from construction, not a later mute() call -- see ensureFreshPlayer() above for why
+      if (pendingSeek !== null) vars.start = pendingSeek;
       player = new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: autoplayOnLoad ? 1 : 0 },
+        playerVars: vars,
         events: {
           onReady: function () { ready = true; captionsOff(); queue.splice(0).forEach(function (f) { f(); }); },
           onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1) captionsOff(); },
@@ -1446,7 +1467,7 @@ PLAYER_JS = """<script>
     cb.setAttribute('aria-expanded', 'true');
     if (card.scrollIntoView) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   });
-  box.querySelector('.poster').addEventListener('click', function () { whenReady(tryPlay); });
+  box.querySelector('.poster').addEventListener('click', function () { ensureFreshPlayer(); });
   document.addEventListener('click', function (ev) {
     var a = ev.target.closest && ev.target.closest('a.pill');
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
@@ -1457,7 +1478,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; if (continueBtn) continueBtn.hidden = true;
     closeParaCite();      // playing on: the open citation card folds away
     forced = i; mark(i);
-    whenReady(function (deferred) { player.seekTo(seek, true); tryPlay(deferred); });
+    ensureFreshPlayer(seek);
   });
   document.addEventListener('click', function (ev) {         // a moment named in the summary: open the transcript there and play from it
     var a = ev.target.closest && ev.target.closest('a.syn-t');
@@ -1466,10 +1487,10 @@ PLAYER_JS = """<script>
     var at = parseFloat(a.dataset.t), i = 0;
     for (var k = 0; k < starts.length; k++) if (starts[k] <= at + 0.5) i = k;
     stopAt = null; citedMode = false; closeParaCite();
-    reading(true, false); holdUntil = Date.now() + 2200; autoplayOnLoad = true;
+    reading(true, false); holdUntil = Date.now() + 2200;
     forced = i; mark(i);
     if (paras[i].scrollIntoView) paras[i].scrollIntoView({ block: 'center', behavior: 'smooth' });
-    whenReady(function (deferred) { player.seekTo(at, true); tryPlay(deferred); });
+    ensureFreshPlayer(at);
   });
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
   function mark(i, follow) {
