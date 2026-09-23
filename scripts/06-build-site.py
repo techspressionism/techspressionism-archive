@@ -746,6 +746,7 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 @media (min-width:64rem) { .sessions .thumb { width:96px; height:54px; } }   /* ... a larger one on a computer */
 .sessions .d { display:block; color:var(--muted); font-size:.9rem; }   /* the date goes on its own line, aligned under the title */
 .search-sort { display:none; float:right; margin:0; text-align:right; font-size:.9rem; }   /* floated right so it shares the same visual line as "N results for..." (deep inside #search's own managed DOM, not a true flex sibling) instead of sitting in its own row above it -- and out of normal flow entirely when hidden until a search happens, so it reserves no space either way; per Colin 2026-09-22 */
+@media (max-width:44.99rem) { .search-sort { float:none; text-align:left; margin:0 0 .4rem; } }   /* phone: the float-shares-a-line trick above didn't leave "N results for..." and Sort by enough room, wrapping into an overlapping mess that also made the dropdown unclickable (it was floated behind the results message in paint order). Its own full-width row instead, per Colin 2026-09-23 ("should be on two lines... the sort dropdown does not work when I click it"). */
 body.searching .search-sort { display:block; }
 .search-sort select { font:inherit; font-size:.85rem; padding:.3rem 1.8rem .3rem .7rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; margin-left:.5rem; }   /* same pill treatment as the Citation Format / language selects; margin-left for space from the "Sort by" label, per Colin 2026-09-22 */
 #search { margin:0 0 .3rem; }   /* top margin removed -- was leaving too much space above the results line now that .search-sort shares it instead of sitting above, per Colin 2026-09-22 */
@@ -784,10 +785,11 @@ body.searching #intro-block { display:none; }   /* while searching, the results 
    font-weight...); "button.copy-cite" (adding the element type) has just enough extra specificity to reliably
    beat the reset's :where() (always zero specificity) everywhere, with one rule, no separate #search override. */
 .cite-actions { display:flex; align-items:center; flex-wrap:wrap; gap:.6rem; margin-top:1.2rem; }   /* more room above the Copy citation/Citation Format row, between it and the citation text above -- per Colin 2026-09-22 */
-#search .cite-actions { display:flex; gap:1.1rem; margin-top:1.1rem; }   /* more room both between WATCH / Copy Citation / CFS, and above the row, than the sitewide default -- too tight otherwise, per Colin */
+#search .cite-actions { display:flex; flex-wrap:wrap; gap:1.1rem; margin-top:1.1rem; }   /* flex-wrap explicit, not just inherited from the sitewide .cite-actions rule below -- Pagefind's own CSS reset (.pagefind-ui--reset, on this whole subtree) was winning that specific property, computing to nowrap regardless, which is what let WATCH/Copy Citation/Citation Format squeeze into an unbreakable row and wrap letter-by-letter on a phone instead of the group wrapping. More room both between WATCH / Copy Citation / CFS, and above the row, than the sitewide default -- too tight otherwise, per Colin */
 button.copy-cite { font:inherit; font-size:.85rem; font-weight:700; padding:.4rem 1.1rem; border:none; border-radius:1.2rem; background:var(--line); color:#000; cursor:pointer; }   /* a light-gray pill with black text, everywhere, per Colin -- was red (and gray-but-square on a search result) */
 button.copy-cite:hover, button.copy-cite:focus-visible { background:#cfcfcf; }
 .cite-format { margin:0; font-size:.85rem; color:#000; font-weight:700; }   /* "Citation Format:" black and bold, same weight as Copy Citation, sitewide, per Colin */
+@media (max-width:44.99rem) { .cite-actions .cite-format { flex:1 1 100%; margin-top:.5rem; } }   /* phone: always its own row below Watch/Copy Citation, rather than opportunistically wrapping -- squeezed onto the same row as those two, the format select (or a button's own label) could break its text instead of the whole group wrapping, per Colin 2026-09-23 */
 .cite-format select { font:inherit; font-size:.85rem; font-weight:700; margin-left:.3rem; padding:.4rem 1.6rem .4rem 1.1rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; }   /* same shape/padding as Copy Citation, but white with a red outline -- the native dropdown arrow stays (no appearance:none), per Colin */
 a.pill.pill-watch { background:var(--accent); color:#fff; font-weight:700; padding:.3rem 1.1rem; gap:.5rem; }
 a.pill.pill-watch svg, a.pill.pill-watch:hover svg, a.pill.pill-watch:focus-visible svg { color:#fff; }
@@ -816,6 +818,9 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
 #search .pagefind-ui__result-link::before { content:none; }   /* Pagefind's own default UI CSS puts a curly "⤷ " arrow before the speaker's name -- removed, per Colin 2026-09-22 */
+#search .pagefind-ui__drawer { width:100%; }   /* Pagefind's own default leaves this width:auto, which should fill its block-level parent (.pagefind-ui__form) but in practice measured a shrink-to-fit ~105px instead, collapsing every result underneath it (title wrapping to 3 lines, citation text and buttons bleeding off the right edge of a phone). Forcing it explicitly is the actual fix; per Colin 2026-09-23. */
+#search .pagefind-ui__result-inner, #search .pagefind-ui__result-nested, #search .pagefind-ui__result-inner *, #search .pagefind-ui__result-nested * { min-width:0; }   /* belt and suspenders alongside the width:100% above -- so nothing in this chain (result-inner > result-nested > citation-info > cite-actions ...) can still refuse to shrink below its own content's min-content size (in practice, a long citation URL) if the drawer fix above ever isn't enough on its own. Safe everywhere here: min-width:0 only ever allows shrinking, never forces it. Per Colin 2026-09-23. */
+#search .citation-info { overflow-wrap:anywhere; }   /* belt and suspenders alongside min-width:0 above (the citation link itself already has overflow-wrap:anywhere, below) */
 /* a red rule, with room above and below, before each following search result */
 #search .pagefind-ui__result-nested + .pagefind-ui__result-nested { border-top:1px solid var(--accent); margin-top:1.5rem; padding-top:1.5rem; }
 #search .pagefind-ui__result + .pagefind-ui__result { border-top:1px solid var(--accent); margin-top:1.8rem; padding-top:1.8rem; }
@@ -861,7 +866,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   body.home header.site .wrap { flex-direction:column; align-items:center; gap:.8rem; max-width:none; padding:0 0 1.6rem; row-gap:.8rem; }   /* was 1.6rem -- too much air between the title and the links row below the search box, per Colin 2026-09-23 */
   body.home header.site strong { display:block; font-size:min(calc(100cqw / 18.97), 3.1rem); white-space:nowrap; line-height:1.15; text-align:center; }   /* shrink-to-fit so the title + [BETA] always stay on one line, scaling down as needed, rather than wrapping at narrow widths -- per Colin 2026-09-22 (18.97 is the title's own measured natural em-width, same formula as the non-home header's title) */
   body.home header.site .browse { display:none; }
-  body.home header.site .hright { display:flex; order:2; margin:0; width:100%; }   /* was min(44rem,100%) -- too narrow to reach the language dropdown's own right edge above it; full width now matches (.wrap and .wpstrip share the same 1.25rem side padding), per Colin 2026-09-23 */
+  body.home header.site .hright { display:flex; order:2; margin:0; width:min(44rem, 100%); }   /* JS (home-width-sync below) overrides this inline to match the title's own rendered width exactly -- this is just the pre-JS/no-JS fallback. Was briefly full-width (2026-09-23 commit 83afdc4), which was actually the fix for a DIFFERENT complaint (the non-home category-page header, not home) applied to the wrong page; Colin caught it: "the search box on the homepage ... should be the same width as the logo instead of full-width." */
   body.home header.site .hright .wpgroup { display:none; }   /* the mobile-only merged copy (build_header's h1 dual-copy) never shows here -- this tier shows the standalone .wpstrip copy below instead, unchanged */
   body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
   body.home header.site .browse-links { display:flex; flex-wrap:nowrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:min(calc(100cqw / 33), 1.15rem); margin-top:0; }   /* shrink-to-fit so the links also always stay on one line -- per Colin 2026-09-22; 33 has a bit of slack beyond the measured natural width (31.24em) since flex-wrap:nowrap gives no room for rounding error the way wrapping would forgive. Higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
@@ -879,6 +884,7 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   body.home .stickyheader { display:none !important; }   /* home's sticky header exists only for mobile parity with every other page -- tablet/desktop home never had one and still doesn't (Colin, 23 September 2026: "do not change the tablet or desktop view of the homepage at all") */
 }
 body.home main { max-width:44rem; width:100%; margin:0 auto; }
+body.home.searching main { max-width:60rem; }   /* the search results (SERP) need more room than the landing page's search box -- 44rem was tight enough that the Watch/Copy Citation/Citation Format row could wrap, per Colin 2026-09-23 */
 @media (max-width:44.99rem) {
   body.home .wpstrip { display:none; }   /* the desktop/tablet-only standalone copy -- mobile shows the merged header.site .hright > .wpgroup copy instead (build_header's h1 dual-copy), matching every other page's mobile header exactly (Colin, 23 September 2026) */
 }
@@ -2373,6 +2379,18 @@ document.addEventListener('click', (e) => {{
     }}
   }}
   titleBar(); window.addEventListener('scroll', titleBar, {{ passive: true }}); window.addEventListener('resize', titleBar);
+}})();
+(function () {{   // tablet/desktop only: the search box (.hright) should be exactly as wide as the title text
+                   // above it, not a fixed rem cap that only approximates it -- per Colin 2026-09-23 ("the search
+                   // box ... should be the same width as the logo").
+  var title = document.querySelector('header.site .wrap h1.sitetitle strong'), hright = document.querySelector('header.site .hright');
+  function syncWidth() {{
+    if (!title || !hright) return;
+    if (window.innerWidth < 720) {{ hright.style.width = ''; return; }}
+    var w = title.getBoundingClientRect().width;
+    if (w) hright.style.width = w + 'px';
+  }}
+  syncWidth(); window.addEventListener('resize', syncWidth);
 }})();
 </script>
 </main>
