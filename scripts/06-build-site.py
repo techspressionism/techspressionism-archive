@@ -621,6 +621,15 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
 .layout.from-search .read-actions, .layout.reading .read-actions { display:none !important; }   /* opening the transcript is for good; there is no Hide button */
+/* touch devices (phones AND tablets -- "mobile" here always means touch, per Colin 2026-09-23): no Read transcript button up top; instead a collapsed READ TRANSCRIPT bar below all the page's content, which opens the transcript in place. On a category page the same bar links to the recording's transcript. */
+.transcript-toggle { display:none; }
+@media (pointer: coarse) {
+  .read-btn { display:none; }
+  .js .transcript-toggle { display:flex; align-items:center; justify-content:space-between; width:100%; margin:1.5rem 0 1rem; padding:1.75rem 0 .3rem; border:0; border-top:1px solid var(--accent); background:none; color:#000; font:inherit; font-size:1.1rem; letter-spacing:.02em; text-transform:uppercase; text-align:left; cursor:pointer; text-decoration:none; }
+  .js .transcript-toggle::after { content:""; flex:none; width:.6rem; height:.6rem; margin-right:.4rem; border:solid var(--accent); border-width:0 3px 3px 0; transform:rotate(45deg); transition:transform .15s; }
+  .js .transcript-toggle[aria-expanded="true"]::after { transform:rotate(-135deg); }
+  .js a.transcript-toggle::after { transform:rotate(-45deg); }   /* a link to the recording page, not an expander: chevron points right */
+}
 .watch-yt { margin:.8rem 0 0; text-align:center; font-size:.95rem; }   /* below the Read/Watch transcript buttons, per Colin -- the "View on techspressionism.com" / "Looking for the next Salon?" links that used to share this line were dropped, not moved. Watch on YouTube // Print transcript (PDF) // Download transcript (.DOCX / PDF) all share this one line, per Colin 2026-09-22 */
 .print-btn { font:inherit; font-size:inherit; color:#000; background:none; border:none; text-decoration:underline; cursor:pointer; padding:0; }
 .print-btn:hover, .print-btn:focus-visible { color:var(--accent); }
@@ -893,7 +902,7 @@ body.home.searching main { max-width:60rem; }   /* the search results (SERP) nee
 /* ---- print ("Print transcript (PDF)", also plain Cmd/Ctrl+P) ---- */
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
-  .cite-actions, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
+  .cite-actions, .transcript-toggle, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
   .sitefoot, .player-box, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
   .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
@@ -953,6 +962,7 @@ PAGE_TMPL = """<!doctype html>
 </div>
 <div class="right">
 {watch_next}
+<button type="button" class="transcript-toggle" id="transcript-toggle" aria-expanded="false" aria-controls="transcript" data-pagefind-ignore>Read transcript</button>
 <div class="transcript" id="transcript">
 {segments}
 </div>
@@ -1236,6 +1246,7 @@ PLAYER_JS = """<script>
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
     btn.textContent = on ? 'Hide transcript' : 'Read transcript';
+    var tg = document.getElementById('transcript-toggle'); if (tg) tg.setAttribute('aria-expanded', String(on));
     if (on && scroll) { holdUntil = Date.now() + 1800; document.getElementById('transcript').scrollIntoView({ behavior: 'smooth', block: 'start' }); }   // no following while that scroll runs
   }
   var pbox = document.getElementById('player-box');
@@ -1258,6 +1269,12 @@ PLAYER_JS = """<script>
   var printBtn = document.getElementById('print-btn');   // @media print forces the transcript visible regardless of on-screen state, so this can just open the print dialog directly
   if (printBtn) printBtn.addEventListener('click', function () { window.print(); });
   if (btn) {
+    if (window.matchMedia && window.matchMedia('(pointer: coarse) and (max-width: 63.99rem)').matches) {   // stacked touch layout: the footer goes after the transcript pane, not between the page's content and it
+      var foot = document.querySelector('.side .sitefoot'); if (foot && layout.parentNode) layout.parentNode.appendChild(foot);
+    }
+    var tgl = document.getElementById('transcript-toggle');
+    if (tgl) tgl.addEventListener('click', function () { reading(!layout.classList.contains('reading'), false); });
+    if (/[?&]read=1(&|$)/.test(location.search)) setTimeout(function () { reading(true, true); }, 0);      // from a category page's READ TRANSCRIPT bar
     btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
     var wbtn = document.getElementById('watch-btn');
     if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
@@ -1265,8 +1282,16 @@ PLAYER_JS = """<script>
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
-    if (/[?&]watch=1(&|$)/.test(location.search)) setTimeout(function () {    // arrived from a category page's "Watch with transcript": same as pressing it here (deferred so the player code below has finished setting up)
-      reading(true, false); ensureFreshPlayer();
+    if (/[?&]watch=1(&|$)/.test(location.search)) setTimeout(function () {    // arrived from a category page's "Watch with transcript" (no at=) or an artist page's WATCH (at= their words): same as pressing it here (deferred so the player code below has finished setting up)
+      var wa = qs.get('at'), wat = wa !== null ? parseFloat(wa) : NaN;
+      reading(true, false);
+      if (!isNaN(wat)) {
+        var wi = 0;
+        for (var wk = 0; wk < starts.length; wk++) if (starts[wk] <= wat + 0.5) wi = wk;
+        forced = wi; mark(wi); holdUntil = Date.now() + 2200;
+        if (paras[wi] && paras[wi].scrollIntoView) paras[wi].scrollIntoView({ block: 'center' });
+        ensureFreshPlayer(Math.max(0, wat - lead));
+      } else ensureFreshPlayer();
     }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
@@ -2582,6 +2607,14 @@ def watch_pill(href, seconds, label="WATCH"):
             f'<span class="watch-word">{label}</span>{PILL_SVG}{pill_time(seconds)}</a>')
 
 
+def archive_moment_pill(ent, seconds):
+    """WATCH on an artist page: the archive's own recording page at that moment (transcript open, video cued there),
+    not a YouTube tab -- Colin 2026-09-23. ?watch=1&at=SECONDS is handled by the recording page's script."""
+    slug_ = f"{ent.get('type', 'salon')}-{int(ent['number']):03d}"
+    return (f'<a class="pill pill-watch" href="{slug_}.html?watch=1&amp;at={max(0, int(seconds))}">'
+            f'<span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(seconds)}</a>')
+
+
 def build_person_page(p):
     labels = p["exhibition_labels"]
     def count_link(n, one, many, anchor):
@@ -2639,11 +2672,11 @@ def build_person_page(p):
             title = en.get("session_title") or ""
             return (f'<li class="rowitem"><div><a href="{slug_}.html"><strong>{e(label(en))}</strong></a> &middot; {e(fmt_date(en.get("date_recorded")))}'
                     f'<br><span class="sub">{e(title)}{" &middot; " if title else ""}spoke {r["turns"]} time{"s" if r["turns"] != 1 else ""}</span></div>'
-                    f'{watch_pill(yt_moment(en, r["first"]), r["first"])}</li>')
+                    f'{archive_moment_pill(en, r["first"])}</li>')
         first, rest = items[:10], items[10:]
         more = f'<details><summary>Show {len(rest)} more recordings</summary><ul>{"".join(row(r) for r in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="recordings">Speaking in the archive</h2><ul>{"".join(row(r) for r in first)}</ul>{more}'
-                     '<p class="note">Newest first. WATCH opens the YouTube video at their first words in that recording.</p>')
+                     '<p class="note">Newest first. WATCH opens that recording here in the archive, at their first words.</p>')
     if p["mentions"]:
         ms = sorted(p["mentions"], key=lambda m: (m[0].get("date_recorded") or "", m[3]), reverse=True)
         name_rx = re.compile("|".join(re.escape(n) for n in sorted([p["name"]] + p.get("aliases", []), key=len, reverse=True)), re.I)
@@ -2651,7 +2684,7 @@ def build_person_page(p):
             en, sp, txt, tm = m
             body = e(re.sub(name_rx, lambda x: "\x00" + x.group(0) + "\x01", txt)).replace("\x00", "<mark>").replace("\x01", "</mark>")
             return (f'<li class="rowitem"><div>&ldquo;{body}&rdquo;<br><span class="sub">{e(sp)} &middot; {e(label(en))} &middot; '
-                    f'{e(fmt_date(en.get("date_recorded")))}</span></div>{watch_pill(yt_moment(en, tm), tm)}</li>')
+                    f'{e(fmt_date(en.get("date_recorded")))}</span></div>{archive_moment_pill(en, tm)}</li>')
         first, rest = ms[:8], ms[8:60]
         more = f'<details><summary>Show {len(rest)} more</summary><ul>{"".join(mrow(m) for m in rest)}</ul></details>' if rest else ""
         parts.append(f'<h2 id="mentions">Mentioned by others</h2><ul>{"".join(mrow(m) for m in first)}</ul>{more}'
@@ -2776,6 +2809,7 @@ def build_category_page(stype, entries):
 {watch_yt}
 {cite_section}
 </section>
+<a class="transcript-toggle" href="{slug(featured)}.html?read=1" data-pagefind-ignore>Read transcript</a>
 {recent_section}
 {FOOTER}
 </div>
