@@ -814,6 +814,8 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
 .player-box .tap-hint[hidden] { display:none; }
+.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; padding:.9rem 1rem 1.6rem; text-align:center; pointer-events:none; color:#fff; font-weight:800; font-size:1.15rem; line-height:1.25; text-shadow:0 1px 4px rgba(0,0,0,.9); background:linear-gradient(rgba(0,0,0,.94) 65%, rgba(0,0,0,0)); }   /* touch devices: sits over the top of the video, NOT over its centre play button -- pointer-events:none so the tap goes straight through to the YouTube player, which is the only tap iOS/Android will accept as "start this video" */
+.player-box .tap-play[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
@@ -1042,15 +1044,18 @@ CATEGORY_PLAYER_JS = """<script>
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, poster = box.querySelector('.poster'), loading = false;
+  var tapMode = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches), tapLabel = null;
   poster.addEventListener('click', function () {
     if (loading) return;
     loading = true;
+    if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-play'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = '\u25B6 Tap the play button to start'; box.appendChild(tapLabel); }
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: (/iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // iPhone/iPad refuse autoplay of this embed even muted (Colin's phone, 23 September 2026), so there it just loads with sound on and its own play button; a muted autoplay attempt there would only leave a manual play muted too
-        events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} } }
+        playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
+        events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} },
+                  onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) tapLabel.hidden = true; } }
       });
     };
     var s = document.createElement('script');
@@ -1406,17 +1411,26 @@ PLAYER_JS = """<script>
   // the player itself (it is a separate, cross-origin page). So on iOS nothing here tries to start the video: it is
   // cued at the requested moment, unmuted, with a line saying to tap its own play button. Once the visitor has done
   // that once, Safari lets the page control the same player, so later WATCH/timestamp taps seek and play normally.
-  var IS_IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var TAP_MODE = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches);   // any phone or tablet, iOS or Android; a desktop or laptop (even a touch one) keeps autoplay
+  var tapOverlay = null;
+  function fmtTime(t) { t = Math.floor(t); var h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), sec = t % 60; return (h ? h + ':' + (m < 10 ? '0' : '') : '') + m + ':' + (sec < 10 ? '0' : '') + sec; }
+  function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
+    if (!pbox) return;
+    if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-play'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
+    tapOverlay.textContent = '\u25B6 Tap the play button to start' + (seconds > 0 ? ' at ' + fmtTime(seconds) : '');
+    tapOverlay.hidden = false;
+  }
+  function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; }
   var hasPlayed = false;
   function ensureFreshPlayer(seek) {
     var hasSeek = typeof seek === 'number' && !isNaN(seek);
-    if (IS_IOS) {
+    if (TAP_MODE) {
       autoplayOnLoad = false;
       pendingSeek = hasSeek ? Math.max(0, Math.floor(seek)) : null;
-      if (ready && player && hasPlayed) { if (hasSeek) player.seekTo(seek, true); player.playVideo(); return; }
+      if (ready && player && hasPlayed) { hideTapOverlay(); if (hasSeek) player.seekTo(seek, true); player.playVideo(); return; }
       if (ready && player) { try { player.cueVideoById({ videoId: vid, startSeconds: hasSeek ? seek : 0 }); } catch (e) {} }
       else { queue.push(function () { if (hasSeek) { try { player.cueVideoById({ videoId: vid, startSeconds: seek }); } catch (e) {} } }); load(); }
-      showHint('Tap the \u25B6 on the video to start it at this moment. The transcript then scrolls along.');
+      showTapOverlay(hasSeek ? seek : 0);
       return;
     }
     autoplayOnLoad = true;
@@ -1443,7 +1457,7 @@ PLAYER_JS = """<script>
         playerVars: vars,
         events: {
           onReady: function () { ready = true; captionsOff(); queue.splice(0).forEach(function (f) { f(); }); },
-          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1) { captionsOff(); hasPlayed = true; if (IS_IOS && hint) hint.hidden = true; } },
+          onStateChange: function (ev) { setPlaying(ev.data === 1 || ev.data === 3); if (ev.data === 1 || ev.data === 3) hideTapOverlay(); if (ev.data === 1) { captionsOff(); hasPlayed = true; } },
           onError: function () { failed = true; queue = []; }
         }
       });
