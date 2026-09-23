@@ -571,16 +571,11 @@ header.site .wrap { container-type:inline-size; }
      can't span multiple wrapped lines the way grid can, so this borrows the desktop tier's own solution instead
      of hand-tuning another pixel offset. Scoped off the home page, which keeps its own single-column layout
      (build_wp_strip's merged=False path never puts anything but the search form in .hright here anyway). */
-  body:not(.home) header.site .wrap { display:grid; grid-template-columns:auto 1fr auto; grid-template-rows:auto auto; align-items:center; column-gap:1.75rem; row-gap:.15rem; }
-  body:not(.home) header.site strong { grid-column:1; grid-row:1; flex:none; }
-  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; flex:none; margin-top:0; justify-self:start; }   /* justify-self:start -- a grid item defaults to stretching across its spanned columns, which would make this row-2 item's own rendered width equal the FULL row width instead of its actual (shorter) text content, throwing off the title-width-lock script (GLOBAL_LANG_JS) that measures it */
+  body:not(.home) header.site .wrap { display:grid; grid-template-columns:auto 1fr auto; grid-template-rows:auto auto; align-items:center; column-gap:1rem; row-gap:.15rem; }   /* column-gap was 1.75rem: with the search box no longer capped narrower than .wpgroup (below), title+gap+.hright could again run past the available width at some sizes in this tier; the narrower gap buys back the room */
+  body:not(.home) header.site strong { grid-column:1; grid-row:1; flex:none; align-self:end; }   /* align-self:end (not the grid's own align-items:center) -- .hright spans both rows, and a row-spanning item's height inflates BOTH spanned tracks well beyond what title/links alone need, which left them centered inside that extra space with a wide gap between them. Bottom-aligning title and top-aligning links (below) closes that inner gap; the outer padding this frees up above/below the pair is harmless. Per Colin 2026-09-23: "the logo is too far from the links below it." */
+  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; flex:none; margin-top:0; justify-self:start; align-self:start; }   /* justify-self:start -- a grid item defaults to stretching across its spanned columns, which would make this row-2 item's own rendered width equal the FULL row width instead of its actual (shorter) text content, throwing off the title-width-lock script (GLOBAL_LANG_JS) that measures it */
   body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; flex:none; margin:0; }
-  body:not(.home) header.site .hsearch input { width:100%; max-width:15rem; }   /* was 19rem: at this tier the title
-     is JS-locked to match the browse-links row's own (often wide) natural width, and that width plus a 19rem search
-     box plus both column-gaps could exceed the available row width with no room left to give -- grid's auto columns
-     don't shrink below their content size to make up a deficit, so the row silently overflowed the page at some
-     widths in this tier (e.g. 768px). Narrower search box buys back enough room (Colin, 23 September 2026, caught
-     reviewing Interview 28 at tablet width). */
+  body:not(.home) header.site .hsearch input { width:100%; }   /* stretches to match .wpgroup's own natural width above it (per .hright's align-items:stretch) -- a max-width cap here previously left it short of the language dropdown's right edge (Colin, 23 September 2026). .hright's own width is set by .wpgroup's natural content size regardless of what this rule does, so capping the input never actually addressed the horizontal overflow it was added for; verified separately that this tier no longer overflows at the widths that used to (see title-width-lock in GLOBAL_LANG_JS). */
 }
 .topnav { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
 .topnav a.chip { font-size:.9rem; line-height:1.4; padding:.25rem .8rem; border:1px solid var(--line); background:var(--card); border-radius:1.2rem; color:var(--fg); }
@@ -842,11 +837,11 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
      both rows with no magic numbers, however tall .hright's now-two-row content turns out to be. Scoped off the
      home page, which keeps its own single-column flex layout below. */
   body:not(.home) header.site .wrap { display:grid; grid-template-columns:auto 1fr auto; grid-template-rows:auto auto; align-items:center; column-gap:1.75rem; row-gap:.15rem; }
-  body:not(.home) header.site strong { grid-column:1; grid-row:1; }
+  body:not(.home) header.site strong { grid-column:1; grid-row:1; align-self:end; }   /* align-self:end, not the grid's own align-items:center -- .hright spans both rows, and a row-spanning item's height inflates BOTH spanned tracks beyond what title/links alone need, which left them centered inside that extra space with a wide gap between them. Bottom-aligning title and top-aligning links (below) closes that inner gap. Per Colin 2026-09-23: "the logo is too far from the links below it." */
   header.site .browse { display:none; }
   body:not(.home) header.site .hright { grid-column:3; grid-row:1 / 3; align-self:center; justify-self:end; margin:0; }
   header.site .hsearch input { width:100%; }   /* fills whatever width .hright/.wpgroup actually stretched to (was a fixed 19rem, which could come up slightly narrower than wpgroup's own natural content width -- e.g. on the Artists page, with no sidebar-width-sync JS to override it -- letting the language pill above visibly hang over the search box's right edge; per Colin 2026-09-22. JS-synced pages (recording/category) already set this inline anyway, so this only changes the ones that don't. */
-  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
+  body:not(.home) header.site .browse-links { grid-column:1 / -1; grid-row:2; display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-start; gap:.25rem .5rem; font-size:.95rem; align-self:start; }   /* the row-gap above now controls the vertical distance from the title; no separate margin-top needed */
   header.site .browse-links .bsep { color:var(--fg); font-weight:700; }
   header.site .browse-links a { color:var(--accent); text-decoration:none; }
   header.site .browse-links a:hover, header.site .browse-links a:focus-visible { text-decoration:underline; }
