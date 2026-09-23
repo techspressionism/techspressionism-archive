@@ -1627,8 +1627,11 @@ PLAYER_JS = """<script>
         var cs = getComputedStyle(document.documentElement), th = parseFloat(cs.getPropertyValue('--title-h')) || 0, ph = pbox ? pbox.offsetHeight : 0;
         window.scrollTo({ top: Math.max(0, turn.getBoundingClientRect().top + window.pageYOffset - (th + ph + 16)), behavior: behavior });
       };
-      place('smooth'); setTimeout(function () { place('auto'); }, 700);
-    } else centerTurn(paras[i], true);
+      ensureFreshPlayer(at);      // first: the tap-to-play bar under the video is part of the pinned height being cleared
+      place('smooth'); setTimeout(function () { place('auto'); }, 700); setTimeout(function () { place('auto'); }, 1500);
+      return;
+    }
+    centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   };
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
