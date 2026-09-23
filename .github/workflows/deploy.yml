@@ -29,6 +29,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+      - name: Install Python dependencies
+        # Stage 6 only needs fpdf2 (PDF transcript downloads, added 2026-09-22) -- not the whole
+        # requirements.txt, which also lists mlx-whisper (Apple Silicon-only, irrelevant here and
+        # would fail to install on this Linux runner)
+        run: pip install fpdf2
       - name: Build site + Pagefind index
         # this GitHub copy is the test site: it always asks search engines not to list it, even after techspressionism.com/archive/ is opened to them
         env:
