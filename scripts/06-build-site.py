@@ -1622,7 +1622,13 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; closeParaCite();
     reading(true, false); holdUntil = Date.now() + 2200;
     forced = i; mark(i);
-    centerTurn(paras[i], true);
+    if (window.matchMedia && window.matchMedia('(max-width: 44.99rem)').matches) {      // phone: scroll on to the turn so the video pins to the top (gray bar above it) with that turn just below it
+      var turn = paras[i], place = function (behavior) {
+        var cs = getComputedStyle(document.documentElement), th = parseFloat(cs.getPropertyValue('--title-h')) || 0, ph = pbox ? pbox.offsetHeight : 0;
+        window.scrollTo({ top: Math.max(0, turn.getBoundingClientRect().top + window.pageYOffset - (th + ph + 16)), behavior: behavior });
+      };
+      place('smooth'); setTimeout(function () { place('auto'); }, 700);
+    } else centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   };
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
@@ -1851,6 +1857,7 @@ PIN_BAR_JS = """<script>
     root.classList.remove('pinbar'); drawer.classList.remove('open', 'pin-drawer'); pbox.classList.remove('pinned'); root.style.removeProperty('--title-h');
     window.dispatchEvent(new Event('scroll'));      // lets the wider layouts' own header logic re-evaluate
   }
+  window.tvaPinReset = function () { if (bar && open) setOpen(false); };      // "in this video" WATCH: header tucks away so the video sits at the very top under the gray bar
   function sync() { if (mq.matches) enable(); else disable(); }
   window.addEventListener('scroll', check, { passive: true });
   function userScroll(ev) { if (open && Date.now() > lockUntil && !drawer.contains(ev.target)) setOpen(false); }   // scrolling the page (finger or wheel, not the app's own follow-along scrolling) tucks the header away again
@@ -1892,7 +1899,7 @@ VSEARCH_JS = r"""<script>
     panel.addEventListener('click', function (ev) {
       if (ev.target.closest('.vs-close')) { panel.hidden = true; return; }
       var a = ev.target.closest('a.vs-watch');
-      if (a && window.tvaPlayAt && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey && !ev.button) { ev.preventDefault(); panel.hidden = true; window.tvaPlayAt(parseFloat(a.dataset.t)); }
+      if (a && window.tvaPlayAt && !ev.metaKey && !ev.ctrlKey && !ev.shiftKey && !ev.button) { ev.preventDefault(); panel.hidden = true; if (window.tvaPinReset) window.tvaPinReset(); window.tvaPlayAt(parseFloat(a.dataset.t)); }
     });
     return panel;
   }
