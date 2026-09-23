@@ -596,6 +596,7 @@ h1 .h1-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* two re
 h1.rec-title { margin-top:2rem; padding-top:1rem; border-top:1px solid var(--accent); }   /* a red rule above the title too, matching the category page's .cat-latest treatment (the SYNOPSIS heading right below already gets one of its own, so this closes the "line above and below" look Colin liked there), per Colin 2026-09-22 */
 h1.rec-title.wrapped .h1-sep { display:none; }   /* too long for one line (a long title, or a narrow/phone screen): JS below detects the title wrapped to its own line and adds this class -- drop the "//", the title goes red and starts its own line cleanly (same pattern as .cat-latest.wrapped on category pages) */
 h1.rec-title.wrapped .topic { display:block; color:var(--accent); }
+h1.rec-title.wrapped { line-height:1.1; }   /* the two lines ("Interview 30" / the title) sat a full body line-height apart; pulled together, per Colin 2026-09-23 */
 .linkline { white-space:nowrap; font-size:min(1em, calc((100vw - 2.5rem) / 23.5)); }   /* one line on a phone (the text is about 22.2em wide) */
 .meta { color:var(--muted); margin:.2rem 0 1.2rem; }
 .meta .mod-line { }   /* "moderated by"/"interviewed by"/"curated by": forced onto its own line on desktop when it would otherwise wrap mid-phrase -- see the desktop media query and PLAYER_JS's wrap check; left alone on mobile, per Colin */
@@ -825,8 +826,10 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .cite-card .continue-btn[hidden] { display:none; }
 .player-box .tap-hint { display:block; background:#000; color:#fff; padding:.5rem .9rem; font-size:.9rem; line-height:1.35; text-align:center; }
 .player-box .tap-hint[hidden] { display:none; }
-.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; display:flex; align-items:center; justify-content:center; min-height:3.6rem; padding:0 1rem; text-align:center; background:var(--accent); color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.1rem; line-height:1.2; }   /* touch devices: a solid red bar (Kanit italic, white -- the only Kanit faces the site loads are italic) over the top of the video, NOT over its centre play button. It is deliberately NOT tap-through: the top edge of the YouTube embed is its title/channel link, which opens YouTube, so a tap on this bar is swallowed instead of passed down to that (Colin 2026-09-23). The bar is tall enough to cover that title row completely.
+.player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; display:flex; align-items:center; justify-content:center; min-height:clamp(4rem, 9vw, 5rem); padding:0 .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.8rem, 4.2vw, 1.1rem); line-height:1.2; }   /* touch devices: a solid #ff0033 bar -- exactly the fill of YouTube's own red play button (.ytp-large-play-button-red-bg falls back to #f03 in www-player.css; this site's own --accent is #ff0000, which looks slightly different next to it) -- (Kanit italic, white -- the only Kanit faces the site loads are italic) over the top of the video, NOT over its centre play button. It is deliberately NOT tap-through: the top edge of the YouTube embed is its title/channel link, which opens YouTube, so a tap on this bar is swallowed instead of passed down to that (Colin 2026-09-23). The bar is tall enough (4rem+, growing on a tablet) to cover that title/channel row completely so it can't be seen or tapped by accident; the text never wraps, it just shrinks with the screen. */
 .player-box .tap-play[hidden] { display:none; }
+.player-box .tap-mask { position:absolute; left:0; right:0; z-index:3; background:#000; }   /* bottom strip over YouTube's start-screen extras (share / watch-later icons, "Watch on YouTube" link), which can't be turned off; swallows taps like the red bar above. Positioned/sized by script from the video frame. */
+.player-box .tap-mask[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
@@ -1057,18 +1060,22 @@ CATEGORY_PLAYER_JS = """<script>
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, poster = box.querySelector('.poster'), loading = false;
-  var tapMode = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches), tapLabel = null;
+  var tapMode = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches), tapLabel = null, tapMask = null;
   poster.addEventListener('click', function () {
     if (loading) return;
     loading = true;
-    if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-play'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = '\u25B6 Tap the play button to start'; box.appendChild(tapLabel); }
+    if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-play'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = 'Tap play to watch'; box.appendChild(tapLabel);
+      tapMask = document.createElement('div'); tapMask.className = 'tap-mask'; tapMask.setAttribute('aria-hidden', 'true'); box.appendChild(tapMask);
+      var placeMask = function () { var fr = document.getElementById('player'); if (!fr) return; var mh = Math.max(48, Math.min(72, fr.offsetHeight * 0.24)); tapMask.style.height = mh + 'px'; tapMask.style.top = (fr.offsetTop + fr.offsetHeight - mh) + 'px'; };
+      placeMask(); window.addEventListener('resize', placeMask); if (window.ResizeObserver && document.getElementById('player')) new ResizeObserver(placeMask).observe(document.getElementById('player'));
+    }
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
+        playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, controls: 0, fs: 0, disablekb: 1, iv_load_policy: 3 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
         events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} },
-                  onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) tapLabel.hidden = true; } }
+                  onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) { tapLabel.hidden = true; if (tapMask) tapMask.hidden = true; } } }
       });
     };
     var s = document.createElement('script');
@@ -1466,10 +1473,18 @@ PLAYER_JS = """<script>
   function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
     if (!pbox) return;
     if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-play'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
-    tapOverlay.textContent = 'Tap the play button to watch with transcript';
+    tapOverlay.textContent = 'Tap play to view transcript';
     tapOverlay.hidden = false;
+    if (!tapMask) { tapMask = document.createElement('div'); tapMask.className = 'tap-mask'; tapMask.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapMask); window.addEventListener('resize', placeTapMask); var fr0 = document.getElementById('player'); if (window.ResizeObserver && fr0) new ResizeObserver(placeTapMask).observe(fr0); }
+    tapMask.hidden = false; placeTapMask();
   }
-  function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; }
+  var tapMask = null;
+  function placeTapMask() {
+    var fr = document.getElementById('player'); if (!tapMask || !fr) return;
+    var mh = Math.max(48, Math.min(72, fr.offsetHeight * 0.24));
+    tapMask.style.height = mh + 'px'; tapMask.style.top = (fr.offsetTop + fr.offsetHeight - mh) + 'px';
+  }
+  function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; if (tapMask) tapMask.hidden = true; }
   var hasPlayed = false;
   function ensureFreshPlayer(seek) {
     var hasSeek = typeof seek === 'number' && !isNaN(seek);
@@ -1501,6 +1516,7 @@ PLAYER_JS = """<script>
       var vars = { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: autoplayOnLoad ? 1 : 0 };
       if (autoplayOnLoad) vars.mute = 1;   // baked in from construction, not a later mute() call -- see ensureFreshPlayer() above for why
       if (pendingSeek !== null) vars.start = pendingSeek;
+      if (TAP_MODE) { vars.controls = 0; vars.fs = 0; vars.disablekb = 1; vars.iv_load_policy = 3; }   // touch: hide YouTube's own controls (title/share/Watch-on-YouTube links etc.) -- the page's buttons run the video; only the big play button is left to tap (Colin 2026-09-23)
       player = new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
         playerVars: vars,
