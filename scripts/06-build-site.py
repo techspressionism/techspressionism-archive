@@ -466,7 +466,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False):
             + build_topnav(corpus, active) + '\n'
             + build_browse_links(corpus, active) + '\n'
             f'<div class="hright">{hright_prefix}<form class="hsearch" action="index.html" method="get" role="search">'
-            '<input type="search" name="q" placeholder="Search the Archive&hellip;" aria-label="Search the Archive" required></form></div>'
+            '<input type="search" name="q" placeholder="Search for anything&hellip;" aria-label="Search for anything" required></form></div>'
             '</div></header>')
 
 
@@ -863,10 +863,10 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
    rules regardless of media query order. */
 @media (min-width:45rem) {
   body.home header.site { border-top:0; border-bottom:0; background:transparent; padding:3.2rem 1.25rem 0; width:100%; }   /* padding-top reserves room for .wpstrip, which floats position:absolute above this -- without it, a big enough title could rise up and overlap it */
-  body.home header.site .wrap { flex-direction:column; align-items:center; gap:1.6rem; max-width:none; padding:0 0 1.6rem; row-gap:1.6rem; }
+  body.home header.site .wrap { flex-direction:column; align-items:center; gap:.8rem; max-width:none; padding:0 0 1.6rem; row-gap:.8rem; }   /* was 1.6rem -- too much air between the title and the links row below the search box, per Colin 2026-09-23 */
   body.home header.site strong { display:block; font-size:min(calc(100cqw / 18.97), 3.1rem); white-space:nowrap; line-height:1.15; text-align:center; }   /* shrink-to-fit so the title + [BETA] always stay on one line, scaling down as needed, rather than wrapping at narrow widths -- per Colin 2026-09-22 (18.97 is the title's own measured natural em-width, same formula as the non-home header's title) */
   body.home header.site .browse { display:none; }
-  body.home header.site .hright { display:flex; order:2; margin:0; width:min(44rem, 100%); }
+  body.home header.site .hright { display:flex; order:2; margin:0; width:100%; }   /* was min(44rem,100%) -- too narrow to reach the language dropdown's own right edge above it; full width now matches (.wrap and .wpstrip share the same 1.25rem side padding), per Colin 2026-09-23 */
   body.home header.site .hright .wpgroup { display:none; }   /* the mobile-only merged copy (build_header's h1 dual-copy) never shows here -- this tier shows the standalone .wpstrip copy below instead, unchanged */
   body.home header.site .hsearch input { width:100%; height:3.7rem; font-size:1.2rem; padding-left:3.2rem; background-size:1.4rem; background-position:1.1rem center; }
   body.home header.site .browse-links { display:flex; flex-wrap:nowrap; order:3; justify-content:center; gap:.4rem .8rem; font-size:min(calc(100cqw / 33), 1.15rem); margin-top:0; }   /* shrink-to-fit so the links also always stay on one line -- per Colin 2026-09-22; 33 has a bit of slack beyond the measured natural width (31.24em) since flex-wrap:nowrap gives no room for rounding error the way wrapping would forgive. Higher specificity than the general rule above, so these win -- needs its own display:flex too: the base .browse-links{display:none} (mobile default) was never being overridden on the home page, so this row was silently invisible at any width */
@@ -2238,7 +2238,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       showImages: false,
       pageSize: 8,
       sort: sortValue,
-      translations: {{ placeholder: "Search the Archive…", zero_results: "No matches for [SEARCH_TERM]" }},
+      translations: {{ placeholder: "Search for anything…", zero_results: "No matches for [SEARCH_TERM]" }},
       processResult: (result) => {{
         // Pagefind derives its own base URL from bundlePath, so result URLs
         // already resolve correctly under a project subpath. Add a direct
