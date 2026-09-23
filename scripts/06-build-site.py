@@ -828,8 +828,6 @@ section.cite h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px sol
 .player-box .tap-hint[hidden] { display:none; }
 .player-box .tap-play { position:absolute; left:0; right:0; top:0; z-index:3; display:flex; align-items:center; justify-content:center; min-height:clamp(4rem, 9vw, 5rem); padding:0 .75rem; text-align:center; white-space:nowrap; background:#ff0033; color:#fff; font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:clamp(.8rem, 4.2vw, 1.1rem); line-height:1.2; }   /* touch devices: a solid #ff0033 bar -- exactly the fill of YouTube's own red play button (.ytp-large-play-button-red-bg falls back to #f03 in www-player.css; this site's own --accent is #ff0000, which looks slightly different next to it) -- (Kanit italic, white -- the only Kanit faces the site loads are italic) over the top of the video, NOT over its centre play button. It is deliberately NOT tap-through: the top edge of the YouTube embed is its title/channel link, which opens YouTube, so a tap on this bar is swallowed instead of passed down to that (Colin 2026-09-23). The bar is tall enough (4rem+, growing on a tablet) to cover that title/channel row completely so it can't be seen or tapped by accident; the text never wraps, it just shrinks with the screen. */
 .player-box .tap-play[hidden] { display:none; }
-.player-box .tap-mask { position:absolute; left:0; right:0; z-index:3; background:#000; }   /* bottom strip over YouTube's start-screen extras (share / watch-later icons, "Watch on YouTube" link), which can't be turned off; swallows taps like the red bar above. Positioned/sized by script from the video frame. */
-.player-box .tap-mask[hidden] { display:none; }
 .player-box .yt-under { display:block; background:var(--card); padding:.4rem 1.25rem; font-size:.9rem; }
 #search .cite-text a, .cite-card .cite-text a { color:var(--fg); text-decoration:none; overflow-wrap:anywhere; }   /* the YouTube address in a citation is a link, in black like the rest of the citation */
 #search .pagefind-ui__result-tags { display:none; }   /* the gray metadata pills (date, series, session, video id ...) are not needed under a result */
@@ -1060,14 +1058,11 @@ CATEGORY_PLAYER_JS = """<script>
   var box = document.getElementById('player-box');
   if (!box) return;
   var vid = box.dataset.video, poster = box.querySelector('.poster'), loading = false;
-  var tapMode = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches), tapLabel = null, tapMask = null;
+  var tapMode = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) || /Android/i.test(navigator.userAgent) || (window.matchMedia && window.matchMedia('(pointer: coarse)').matches), tapLabel = null;
   poster.addEventListener('click', function () {
     if (loading) return;
     loading = true;
     if (tapMode) { tapLabel = document.createElement('div'); tapLabel.className = 'tap-play'; tapLabel.setAttribute('aria-hidden', 'true'); tapLabel.textContent = 'Tap play to watch'; box.appendChild(tapLabel);
-      tapMask = document.createElement('div'); tapMask.className = 'tap-mask'; tapMask.setAttribute('aria-hidden', 'true'); box.appendChild(tapMask);
-      var placeMask = function () { var fr = document.getElementById('player'); if (!fr) return; var mh = Math.max(48, Math.min(72, fr.offsetHeight * 0.24)); tapMask.style.height = mh + 'px'; tapMask.style.top = (fr.offsetTop + fr.offsetHeight - mh) + 'px'; };
-      placeMask(); window.addEventListener('resize', placeMask); if (window.ResizeObserver && document.getElementById('player')) new ResizeObserver(placeMask).observe(document.getElementById('player'));
     }
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
@@ -1075,7 +1070,7 @@ CATEGORY_PLAYER_JS = """<script>
         videoId: vid, width: '100%', height: '100%',
         playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, controls: 0, fs: 0, disablekb: 1, iv_load_policy: 3 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
         events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} },
-                  onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) { tapLabel.hidden = true; if (tapMask) tapMask.hidden = true; } } }
+                  onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) tapLabel.hidden = true; } }
       });
     };
     var s = document.createElement('script');
@@ -1297,16 +1292,29 @@ PLAYER_JS = """<script>
   var printBtn = document.getElementById('print-btn');   // @media print forces the transcript visible regardless of on-screen state, so this can just open the print dialog directly
   if (printBtn) printBtn.addEventListener('click', function () { window.print(); });
   if (btn) {
-    if (window.matchMedia && window.matchMedia('(pointer: coarse) and (max-width: 63.99rem)').matches) {   // stacked touch layout: the footer goes after the transcript pane, not between the page's content and it
+    var TOUCH_STACKED = !!(window.matchMedia && window.matchMedia('(pointer: coarse) and (max-width: 63.99rem)').matches);   // phone or tablet in the stacked (single-column) layout
+    var tgl = document.getElementById('transcript-toggle'), transcriptEl = document.getElementById('transcript'), actionsEl = document.getElementById('read-actions');
+    if (TOUCH_STACKED) {
+      // the READ TRANSCRIPT bar sits directly under the Watch with transcript button, and the transcript opens right under the bar
+      // (Colin 2026-09-23); the footer goes to the very end of the page
+      if (tgl && transcriptEl && actionsEl && actionsEl.parentNode) { actionsEl.parentNode.insertBefore(tgl, actionsEl.nextSibling); actionsEl.parentNode.insertBefore(transcriptEl, tgl.nextSibling); }
       var foot = document.querySelector('.side .sitefoot'); if (foot && layout.parentNode) layout.parentNode.appendChild(foot);
     }
-    var tgl = document.getElementById('transcript-toggle');
-    if (tgl) tgl.addEventListener('click', function () { reading(!layout.classList.contains('reading'), false); });
-    if (/[?&]read=1(&|$)/.test(location.search)) setTimeout(function () { reading(true, true); }, 0);      // from a category page's READ TRANSCRIPT bar
+    function barBelowVideo() {      // scroll so the READ TRANSCRIPT bar sits just under the pinned video (and title bar), the transcript text starting right below it
+      if (!tgl) return;
+      function place(behavior) {
+        var cs = getComputedStyle(document.documentElement), h = parseFloat(cs.getPropertyValue('--title-h')) || 0, ph = parseFloat(cs.getPropertyValue('--player-h')) || 0;
+        window.scrollTo({ top: Math.max(0, tgl.getBoundingClientRect().top + window.pageYOffset - (h + ph + 8)), behavior: behavior });
+      }
+      place('smooth'); setTimeout(function () { place('auto'); }, 700);      // the sticky title bar only switches on once the page has scrolled, so its height isn't known until after the first move
+    }
+    function openTranscript() { if (TOUCH_STACKED) { reading(true, false); barBelowVideo(); } else reading(true, true); }
+    if (tgl) tgl.addEventListener('click', function () { var open = layout.classList.contains('reading'); if (open) reading(false, false); else openTranscript(); });
+    if (/[?&]read=1(&|$)/.test(location.search)) setTimeout(openTranscript, 0);      // from a category page's READ TRANSCRIPT bar
     btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
     var wbtn = document.getElementById('watch-btn');
     if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
-      reading(true, true);
+      openTranscript();
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
@@ -1319,7 +1327,7 @@ PLAYER_JS = """<script>
         forced = wi; mark(wi); holdUntil = Date.now() + 2200;
         centerTurn(paras[wi], false);
         ensureFreshPlayer(Math.max(0, wat - lead));
-      } else ensureFreshPlayer();
+      } else { ensureFreshPlayer(); if (TOUCH_STACKED) barBelowVideo(); }
     }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
@@ -1473,18 +1481,10 @@ PLAYER_JS = """<script>
   function showTapOverlay(seconds) {      // a big "tap play" label over the top of the video; taps pass straight through it to the player itself
     if (!pbox) return;
     if (!tapOverlay) { tapOverlay = document.createElement('div'); tapOverlay.className = 'tap-play'; tapOverlay.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapOverlay); }
-    tapOverlay.textContent = 'Tap play to view transcript';
+    tapOverlay.textContent = 'Tap play to watch with transcript';
     tapOverlay.hidden = false;
-    if (!tapMask) { tapMask = document.createElement('div'); tapMask.className = 'tap-mask'; tapMask.setAttribute('aria-hidden', 'true'); pbox.appendChild(tapMask); window.addEventListener('resize', placeTapMask); var fr0 = document.getElementById('player'); if (window.ResizeObserver && fr0) new ResizeObserver(placeTapMask).observe(fr0); }
-    tapMask.hidden = false; placeTapMask();
   }
-  var tapMask = null;
-  function placeTapMask() {
-    var fr = document.getElementById('player'); if (!tapMask || !fr) return;
-    var mh = Math.max(48, Math.min(72, fr.offsetHeight * 0.24));
-    tapMask.style.height = mh + 'px'; tapMask.style.top = (fr.offsetTop + fr.offsetHeight - mh) + 'px';
-  }
-  function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; if (tapMask) tapMask.hidden = true; }
+  function hideTapOverlay() { if (tapOverlay) tapOverlay.hidden = true; }
   var hasPlayed = false;
   function ensureFreshPlayer(seek) {
     var hasSeek = typeof seek === 'number' && !isNaN(seek);
