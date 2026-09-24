@@ -57,6 +57,7 @@ HOME_HTML="$(curl -s -m 30 "$BASE/?nocache=$N")"
 [[ "$HOME_HTML" == *"<link rel=\"canonical\" href=\"$BASE/\">"* ]] && print "  ok   home carries the production canonical" || { print -P "  %F{red}FAIL%f home canonical (old page still cached?)"; FAIL=1; }
 [[ "$HOME_HTML" == *'href="artists/"'* ]] && print "  ok   home Artists link goes to the archive Artists page" || { print -P "  %F{yellow}note%f home Artists link is not the new one yet (cache?)"; }
 print "$SHORT $(date '+%Y-%m-%d %H:%M')" > private/last-live-build.txt
+print "\nSyncing the Notes checklist..."; python3 scripts/update-notes-checklist.py 2>&1 | tail -3 || true
 print -P "\n%F{green}Live copy finished for commit $SHORT.%f"
 (( FAIL )) && print -P "%F{red}Some checks failed: clear the caches below and run the checks again.%f"
 cat <<MSG
