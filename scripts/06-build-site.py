@@ -2655,14 +2655,22 @@ window.addEventListener('DOMContentLoaded', () => {{
   // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
   const searchBox = document.getElementById("search");
   const sortBox = document.querySelector(".search-sort");
+  let sortObserver;
   function alignSort() {{
     if (!sortBox || window.innerWidth < 720) return;
     const msg = searchBox.querySelector(".pagefind-ui__message"), label = sortBox.querySelector("label");
     if (!msg || !label) return;
     const lineH = Math.min(msg.offsetHeight, 40);
-    sortBox.style.setProperty("--sort-top", Math.max(0, msg.getBoundingClientRect().top - sortBox.getBoundingClientRect().top + (lineH - label.offsetHeight) / 2) + "px");
+    let top = Math.max(0, msg.getBoundingClientRect().top - sortBox.getBoundingClientRect().top + (lineH - label.offsetHeight) / 2);
+    sortBox.style.setProperty("--sort-top", top + "px");
+    // then line the two pieces of text up on their baselines: a zero-size inline probe shows where each line's baseline is (Colin 2026-09-24)
+    const baseline = (el) => {{ const probe = document.createElement("span"); probe.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline"; el.insertBefore(probe, el.firstChild); const y = probe.getBoundingClientRect().bottom; probe.remove(); return y; }};
+    const delta = baseline(msg) - baseline(label);
+    sortObserver.takeRecords();      // the probes' own insert/remove must not trigger this again
+    if (Math.abs(delta) > 0.25 && Math.abs(delta) < 40) sortBox.style.setProperty("--sort-top", (top + delta) + "px");
   }}
-  new MutationObserver(() => {{ enhanceCitations(searchBox); alignSort(); }}).observe(searchBox, {{ childList: true, subtree: true }});
+  sortObserver = new MutationObserver(() => {{ enhanceCitations(searchBox); alignSort(); }});
+  sortObserver.observe(searchBox, {{ childList: true, subtree: true }});
   window.addEventListener("resize", alignSort);
   function filterCount(panel) {{
     let n = 0;
