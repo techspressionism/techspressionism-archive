@@ -811,6 +811,16 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 .search-sort { display:none; float:right; margin:0; text-align:right; font-size:.9rem; }   /* floated right so it shares the same visual line as "N results for..." (deep inside #search's own managed DOM, not a true flex sibling) instead of sitting in its own row above it -- and out of normal flow entirely when hidden until a search happens, so it reserves no space either way; per Colin 2026-09-22 */
 @media (max-width:44.99rem) { .search-sort { float:none; text-align:left; margin:0 0 .4rem; } }   /* phone: the float-shares-a-line trick above didn't leave "N results for..." and Sort by enough room, wrapping into an overlapping mess that also made the dropdown unclickable (it was floated behind the results message in paint order). Its own full-width row instead, per Colin 2026-09-23 ("should be on two lines... the sort dropdown does not work when I click it"). */
 body.searching .search-sort { display:block; }
+#artist-hit[hidden] { display:none; }
+#artist-hit { margin:0 0 .2rem; }
+.artist-card { display:flex; align-items:center; gap:.9rem; margin:1.1rem 0 1.3rem; }   /* an artist's own page, first above the results: just the picture (if there is one), the name, "View artist page" after it, and the details underneath (Colin 2026-09-24) */
+.artist-card img { width:3.6rem; height:3.6rem; flex:none; border-radius:50%; object-fit:cover; background:#eee; }
+.artist-card .ac-body { min-width:0; }
+.artist-card .ac-line { display:flex; flex-wrap:wrap; align-items:baseline; gap:.15rem .9rem; }
+.artist-card .ac-name { font-family:"Kanit",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:italic; font-weight:700; font-size:1.3rem; line-height:1.2; color:var(--fg); text-decoration:none; }
+.artist-card .ac-name:hover { color:var(--accent); }
+.artist-card .ac-go { font-weight:700; font-size:.95rem; white-space:nowrap; }
+.artist-card .ac-sub { display:block; margin-top:.15rem; font-size:.88rem; color:var(--muted); }
 .search-sort select { font:inherit; font-size:.85rem; padding:.3rem 1.8rem .3rem .7rem; border:2px solid var(--accent); border-radius:1.2rem; background:#fff; color:var(--accent); cursor:pointer; margin-left:.5rem; }   /* same pill treatment as the Citation Format / language selects; margin-left for space from the "Sort by" label, per Colin 2026-09-22 */
 #search { margin:0 0 .3rem; }   /* top margin removed -- was leaving too much space above the results line now that .search-sort shares it instead of sitting above, per Colin 2026-09-22 */
 #search .pagefind-ui__results-area { margin-top:.3rem; }   /* Pagefind's own default (18px + another 18px of padding on the message right below) leaves too much dead space above "N results for...", per Colin */
@@ -2412,6 +2422,7 @@ This is a research tool intended for scholars, historians, and anyone with an in
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
 </div>
+<div id="artist-hit" data-pagefind-ignore hidden></div>
 <div class="search-sort" data-pagefind-ignore><label>Sort by <select id="sort-select" aria-label="Sort search results by">
 <option value="">Relevance</option>
 <option value="date">Date (newest first)</option>
@@ -2608,7 +2619,7 @@ window.addEventListener('DOMContentLoaded', () => {{
       showImages: false,
       pageSize: 8,
       sort: sortValue,
-      translations: {{ placeholder: "Search for anything…", zero_results: "No matches for [SEARCH_TERM]" }},
+      translations: {{ placeholder: "Search for anything…", zero_results: "No matches for [SEARCH_TERM]", many_results: "[COUNT] video search results for [SEARCH_TERM]", one_result: "[COUNT] video search result for [SEARCH_TERM]" }},
       processResult: (result) => {{
         // Pagefind derives its own base URL from bundlePath, so result URLs
         // already resolve correctly under a project subpath. Add a direct
@@ -2705,6 +2716,51 @@ window.addEventListener('DOMContentLoaded', () => {{
     searchTimer = setTimeout(() => ui.triggerSearch(exactQuery(headerInput.value)), 150);
   }});
   if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
+
+  // an artist who has a page in this archive: a card linking to it comes first, above the results, whenever the search is their name
+  const artistBox = document.getElementById("artist-hit");
+  let artists = null, tokenCount = new Map();
+  const fold = (s) => s.normalize("NFD").replace(new RegExp("[" + String.fromCharCode(768) + "-" + String.fromCharCode(879) + "]", "g"), "").toLowerCase().replace(/[^a-z0-9 ]+/g, " ").replace(/ +/g, " ").trim();
+  function artistHits(text) {{
+    const f = fold(text);
+    if (!artists || f.length < 3) return [];
+    const qt = f.split(" "), hits = [];
+    for (const a of artists) {{
+      let best = 0;
+      for (const n of [a.n].concat(a.a || [])) {{
+        const nf = fold(n), nt = nf.split(" ");
+        if (nf === f) best = 3;
+        else if (qt.length >= 2 && qt.every((t, i) => nt.some((x) => (i === qt.length - 1 ? x.startsWith(t) : x === t)))) best = Math.max(best, 2);   // "carla gann" while still typing
+        else if (qt.length === 1 && qt[0].length >= 4 && nt.includes(qt[0]) && tokenCount.get(qt[0]) === 1) best = Math.max(best, 1);   // a surname (or one-word name) only one artist has
+      }}
+      if (best) hits.push([best, a]);
+    }}
+    return hits.sort((x, y) => y[0] - x[0]).slice(0, 3).map((x) => x[1]);
+  }}
+  function showArtist(text) {{
+    if (!artistBox) return;
+    artistBox.textContent = "";
+    const hits = document.body.classList.contains("searching") ? artistHits(text) : [];
+    artistBox.hidden = !hits.length;
+    for (const a of hits) {{
+      const card = document.createElement("div"); card.className = "artist-card";
+      if (a.i) {{ const img = document.createElement("img"); img.src = a.i; img.alt = ""; img.width = 58; img.height = 58; card.appendChild(img); }}
+      const body = document.createElement("div"); body.className = "ac-body";
+      const line = document.createElement("div"); line.className = "ac-line";
+      const nm = document.createElement("a"); nm.className = "ac-name"; nm.href = a.u; nm.textContent = a.n;
+      const go = document.createElement("a"); go.className = "ac-go"; go.href = a.u; go.textContent = "View artist page \u2192";
+      line.appendChild(nm); line.appendChild(go);
+      const sub = document.createElement("span"); sub.className = "ac-sub";
+      sub.textContent = [a.l, a.r ? a.r + (a.r === 1 ? " recording" : " recordings") : "", a.m ? a.m + (a.m === 1 ? " mention" : " mentions") : ""].filter(Boolean).join(" \u00b7 ");
+      body.appendChild(line); body.appendChild(sub); card.appendChild(body); artistBox.appendChild(card);
+    }}
+  }}
+  fetch("data/artists-search.json").then((r) => (r.ok ? r.json() : [])).then((d) => {{
+    artists = d;
+    for (const a of d) {{ for (const t of new Set([a.n].concat(a.a || []).flatMap((n) => fold(n).split(" ")))) tokenCount.set(t, (tokenCount.get(t) || 0) + 1); }}
+    showArtist(headerInput.value);
+  }}).catch(() => {{}});
+  headerInput.addEventListener("input", () => showArtist(headerInput.value));
 
   // Relevance (Pagefind's own default ranking) or newest-first, by each recording's own date_recorded
   // (data-pagefind-sort="date:..." in PAGE_TMPL). Verified live that PagefindUI's `sort` option only takes
@@ -3025,7 +3081,8 @@ main.person:has(.person-cols.has-photo) { max-width:66rem; }   /* room for the p
 @media (max-width:47.99rem) { .person-photo img { width:auto; max-width:100%; max-height:20rem; } }   /* a phone: the picture on top, but not taller than a screenful */
 .person-photo figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); overflow-wrap:anywhere; }
 .person-photo figcaption a { color:inherit; text-decoration:underline; }
-@media (min-width:48rem) { .person-cols.has-photo { display:grid; grid-template-columns:15rem minmax(0,1fr); gap:2.2rem; align-items:start; } .person-photo { position:sticky; top:1rem; } }   /* left column on tablet and desktop; on a phone the picture simply comes first, above the details */
+@media (min-width:48rem) { .person-cols.has-photo { display:grid; grid-template-columns:15rem minmax(0,1fr); gap:2.2rem; align-items:start; }
+@media (min-width:64rem) { .person-cols.has-photo { gap:4.5rem; grid-template-columns:16rem minmax(0,1fr); } }   /* desktop: a wider gutter between the picture and the text (Colin 2026-09-24) */ .person-photo { position:sticky; top:1rem; } }   /* left column on tablet and desktop; on a phone the picture simply comes first, above the details */
 .about-artist p { margin:0 0 .7rem; line-height:1.55; }
 .about-artist .wiki-credit { margin-top:.2rem; }
 main.person.category { max-width:84rem; }   /* wider: the category pages' two-column featured+list grid needs the room the plain person/about layout doesn't */
@@ -4004,6 +4061,10 @@ def main():
     for pp in LISTED:                                   # only artists heard or named in the recordings have a page
         write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
                                                  f"artist-{pp['id']}.html", seo_for_person(pp)), 2)
+    (SITE_DIR / "data").mkdir(exist_ok=True)      # the names the home page's search checks a query against, to put an artist's own page first
+    (SITE_DIR / "data" / "artists-search.json").write_text(json.dumps([
+        {"n": pp["name"], "a": pp.get("aliases") or [], "u": f"artist/{pp['id']}/", "l": pp.get("location") or "", "r": len(pp["speaks"]), "m": len(pp["mentions"]),
+         "i": f"artist-images/{pp['id']}.jpg" if (WIKI.get(pp["id"]) or {}).get("image") else ""} for pp in LISTED], ensure_ascii=False, separators=(",", ":")))
     write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     if AUTO_PRESENTATION_SLUGS:
