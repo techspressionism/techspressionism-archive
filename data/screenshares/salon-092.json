@@ -1,0 +1,53 @@
+{
+ "video_id": "bdzAVjhHPaw",
+ "source": "nametag screen-share layout + on-screen name",
+ "shares": [
+  {
+   "start": 406,
+   "end": 1060,
+   "name": "Ariel Barron-Robbins",
+   "readings": {
+    "Ariel Barron-Robbins": 303,
+    "Systaime": 22,
+    "Colin Goldberg": 2
+   }
+  },
+  {
+   "start": 1276,
+   "end": 1736,
+   "name": "Systaime",
+   "readings": {
+    "Systaime": 193,
+    "Colin Goldberg": 37
+   }
+  },
+  {
+   "start": 1846,
+   "end": 2546,
+   "name": "Michael Pierre Price",
+   "readings": {
+    "Michael Pierre Price": 334,
+    "Systaime": 13,
+    "Colin Goldberg": 1
+   }
+  },
+  {
+   "start": 2630,
+   "end": 2898,
+   "name": "Randi Matushevitz",
+   "readings": {
+    "Randi Matushevitz": 132,
+    "Systaime": 2
+   }
+  },
+  {
+   "start": 2984,
+   "end": 3156,
+   "name": "Colin Goldberg",
+   "readings": {
+    "Colin Goldberg": 83,
+    "Systaime": 3
+   }
+  }
+ ]
+}
