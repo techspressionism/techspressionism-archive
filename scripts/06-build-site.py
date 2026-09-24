@@ -23,6 +23,7 @@ import json
 import os
 import re
 import shutil
+import struct
 import subprocess
 import unicodedata
 import sys
@@ -42,7 +43,15 @@ import lib_voicehints  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS_JSON = ROOT / "corpus" / "corpus.json"
 SITE_DIR = ROOT / "site"
+SCREENSHARES = {}      # video_id -> [{start, end, name}], from data/screenshares/*.json (Stage 3e: found from the recording's own video)
+for _p in sorted((ROOT / "data" / "screenshares").glob("*.json")) if (ROOT / "data" / "screenshares").is_dir() else []:
+    _d = json.loads(_p.read_text())
+    SCREENSHARES[_d["video_id"]] = _d["shares"]
 THUMBNAILS_SRC_DIR = ROOT / "assets" / "thumbnails"  # tracked in git -- CI has no access to raw/
+OG_DEFAULT_SRC = ROOT / "assets" / "og-default.jpg"   # 1200x630 share picture for every page that is not a recording (Colin, 2026-09-24)
+OG_SRC_DIR = ROOT / "assets" / "og"      # tracked in git -- one 1200x630 picture per recording (scripts/collect-og-images.py)
+OG_OUT_DIR = SITE_DIR / "og"
+OG_W, OG_H = 1200, 630
 THUMBNAILS_OUT_DIR = SITE_DIR / "thumbnails"
 SMALL_THUMBS_SRC_DIR = ROOT / "assets" / "thumbnails-small"   # 240 px, for the sidebar lists (make-small-thumbnails.py)
 SMALL_THUMBS_OUT_DIR = SITE_DIR / "thumbnails-small"
@@ -2193,6 +2202,15 @@ def build_participants_and_flags(entry):
     else:
         speakers_html = ""
 
+    shares = SCREENSHARES.get(entry.get("video_id")) or []
+    if shares:      # Colin 2026-09-23: where each screen share starts and who shared, right under the participants, styled the same
+        share_items = "".join(
+            f'<li><a class="turn-t syn-t" href="{slug(entry)}.html?watch=1&amp;at={int(sh["start"])}" data-t="{int(sh["start"])}" title="Watch from {hhmmss(sh["start"])}">&#9654; {hhmmss(sh["start"])}</a> '
+            f'{participant_name(sh["name"], "name")} <span class="country">{max(1, round((sh["end"] - sh["start"]) / 60))} min</span></li>'
+            for sh in shares)
+        speakers_html += (f'<section class="people screenshares" data-pagefind-ignore><h2>Screen shares ({len(shares)})</h2>'
+                          f'<ul class="speakers">{share_items}</ul></section>')
+
     flags_html = ""
     shown_flags = [f for f in (entry.get("flags") or [])
                    # per-utterance Zoom speaker labels make a missing timestamp index moot
@@ -3563,20 +3581,48 @@ def transcript_pdf_href(entry):
     return f"transcripts/{slug(entry)}.pdf"
 
 
+def jpeg_size(path):
+    """(width, height) of a JPEG, read from its header; None if unreadable."""
+    try:
+        d = Path(path).read_bytes()
+        i = 2
+        while i + 9 < len(d):
+            if d[i] != 0xFF:
+                i += 1
+                continue
+            if d[i + 1] in (0xC0, 0xC1, 0xC2):
+                h, w = struct.unpack(">HH", d[i + 5:i + 9])
+                return w, h
+            i += 2 + struct.unpack(">H", d[i + 2:i + 4])[0]
+    except (OSError, struct.error):
+        pass
+    return None
+
+
+def share_thumb(video_id):
+    """(public address, (width, height)) of a recording's own share picture, or ("", size) if it has none (the caller uses the default)."""
+    if (OG_SRC_DIR / f"{video_id}.jpg").exists():
+        return canonical_url(f"og/{video_id}.jpg"), (str(OG_W), str(OG_H))
+    return "", (str(OG_W), str(OG_H))
+
+
 def seo_for_entry(entry):
     base_home = canonical_url("")
     name = entry_heading(entry)
     title = f"{name} (Transcript)"
     desc = entry_description(entry)
     page = canonical_url(f"{slug(entry)}.html")
-    thumb = canonical_url(f"thumbnails/{entry['video_id']}.jpg") if (SITE_DIR / "thumbnails" / f"{entry['video_id']}.jpg").exists() or \
-        (THUMBNAILS_SRC_DIR / f"{entry['video_id']}.jpg").exists() else ""
+    thumb, thumb_size = share_thumb(entry["video_id"])
+    if page and not thumb:       # no picture of its own yet: the default share image (assets/og-default.jpg); listed in review/og-image-report.csv
+        thumb, thumb_size = default_share_image()[0], default_share_image()[1]
+    yt_thumb = canonical_url(f"thumbnails/{entry['video_id']}.jpg") if (THUMBNAILS_SRC_DIR / f"{entry['video_id']}.jpg").exists() else ""
     people = entry_people(entry)
     ld = None
     if page:
         info = TYPES[entry.get("type", "salon")]
         ld = lib_seo.video_graph(
-            base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=title, description=desc, thumb=thumb,
+            base=base_home, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, name=title, description=desc, thumb=yt_thumb or thumb,
+            share_image=thumb, transcript_url=canonical_url(transcript_md_href(entry)),
             video_id=entry["video_id"], upload_date=entry.get("date_published") or entry.get("date_recorded") or "",
             recorded=None if date_is_estimate(entry) else entry.get("date_recorded"), duration=entry.get("duration_seconds"),
             series_name=entry.get("series") or SERIES_GROUP[entry.get("type", "salon")],
@@ -3586,7 +3632,12 @@ def seo_for_entry(entry):
     meta = lib_seo.scholar_meta(title=name, authors=people, recorded=entry.get("date_recorded"), publisher=BRAND, url=page or clean_path(f"{slug(entry)}.html"),
                                 source_url=entry["url"]) if page else []
     alt = [("text/markdown", canonical_url(transcript_md_href(entry)) or transcript_md_href(entry), f"{name}: transcript as Markdown")]
+    when = entry.get("date_recorded") or entry.get("date_published") or ""
+    extra = [("video:release_date", when)]
+    if entry.get("duration_seconds"):
+        extra.append(("video:duration", str(int(entry["duration_seconds"]))))
     return dict(title=f"{title_for_entry_meta(entry)} · {TITLE_BRAND}", social_title=title, description=desc, url=page, image=thumb,
+                image_size=thumb_size, image_alt=f"Video thumbnail: {name}", og_extra=extra,
                 og_type="video.other", jsonld=ld, meta=meta, alternates=alt, video_embed=f"https://www.youtube.com/embed/{entry['video_id']}")
 
 
@@ -3617,12 +3668,10 @@ def seo_for_person(p):
     iv = p["interviews"][-1] if p.get("interviews") else None      # their interview's picture, else the site's default share image
     if not page:
         image, size = "", ("1280", "720")
-    elif iv and iv.get("video_id"):
-        image, size = canonical_url(f"thumbnails/{iv['video_id']}.jpg"), ("1280", "720")
     else:
         image, size = default_share_image()
     return dict(title=f"{p['name']} · {TITLE_BRAND}", social_title=f"{p['name']} · {BRAND}", description=desc,
-                url=page, image=image, image_size=size, og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
+                url=page, image=image, image_size=size, image_alt=f"{p['name']}: {BRAND}", og_type="profile", jsonld=ld, meta=[], alternates=[], video_embed="")
 
 
 def archive_stats(corpus):
@@ -3641,10 +3690,28 @@ def archive_summary(st):
 
 
 def default_share_image():
-    """The picture shown when a page without a video of its own is shared: the same image techspressionism.com uses for its home page
-    (data/site-config.json og_image_url / og_image_width / og_image_height)."""
+    """The picture shown when a page that is not a recording is shared: assets/og-default.jpg, 1200x630, published at og/default.jpg.
+    Falls back to the techspressionism.com image in data/site-config.json only if that file is missing."""
+    if OG_DEFAULT_SRC.exists():
+        return canonical_url("og/default.jpg"), (str(OG_W), str(OG_H))
     return (SITE_CONFIG.get("og_image_url") or "https://techspressionism.com/wp-content/uploads/2022/04/techspressionism_digital_and_beyond.jpg",
             (str(SITE_CONFIG.get("og_image_width") or 1920), str(SITE_CONFIG.get("og_image_height") or 1440)))
+
+
+def make_og_images(corpus):
+    """Publish each recording's share picture (assets/og/<video id>.jpg, 1200x630, collected by scripts/collect-og-images.py from the
+    local video folders and the techspressionism.com featured images) as site/og/<id>.jpg, plus og/default.jpg (assets/og-default.jpg)
+    for every page without one. Returns how many recordings have their own picture."""
+    OG_OUT_DIR.mkdir(exist_ok=True)
+    if OG_DEFAULT_SRC.exists():
+        shutil.copy2(OG_DEFAULT_SRC, OG_OUT_DIR / "default.jpg")
+    have = 0
+    for entry in corpus:
+        src = OG_SRC_DIR / f"{entry['video_id']}.jpg"
+        if src.exists():
+            shutil.copy2(src, OG_OUT_DIR / src.name)
+            have += 1
+    return have
 
 
 def seo_for_home(corpus):
@@ -3687,7 +3754,11 @@ def add_seo(page_html, filename, seo):
     page_html = re.sub(r"<title>.*?</title>", lambda m: f"<title>{e(title)}</title>", page_html, count=1, flags=re.S)
     tags = lib_seo.head_tags(title=seo["social_title"], description=seo["description"], url=seo["url"], image=seo["image"],
                              og_type=seo["og_type"], site_name=BRAND, jsonld=seo["jsonld"], meta=seo["meta"],
-                             alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")))
+                             alternates=seo["alternates"], video_embed=seo["video_embed"], image_size=seo.get("image_size", ("1280", "720")),
+                             discovery=([("sitemap", "application/xml", canonical_url("sitemap.xml"), "Sitemap"),
+                                         ("alternate", "text/plain", canonical_url("llms.txt"), "llms.txt: Markdown index of the archive for AI tools")]
+                                        if canonical_base() else ()),
+                             image_alt=seo.get("image_alt") or (SITE_CONFIG.get("og_image_alt") or "Techspressionism Video Archive: a searchable, citable transcript archive of Techspressionism video" if seo["image"] else ""), og_extra=seo.get("og_extra", ()))
     page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
     if "sitefoot" not in page_html:
         page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
@@ -3876,7 +3947,7 @@ def main():
         if src.exists():
             shutil.copy2(src, THUMBNAILS_OUT_DIR / src.name)
             copied += 1
-    print(f"Wrote {len(corpus) + 2} files to {SITE_DIR}, copied {copied} promo images")
+    print(f"Wrote {len(corpus) + 2} files to {SITE_DIR}, copied {copied} promo images, {make_og_images(corpus)} share pictures (of {len(corpus)}; the rest use the default)")
 
     if no_index:
         print("Skipped Pagefind indexing (--no-index). Run: npx -y pagefind --site site")

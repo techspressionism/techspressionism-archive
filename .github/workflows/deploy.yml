@@ -33,7 +33,7 @@ jobs:
         # Stage 6 only needs fpdf2 (PDF transcript downloads, added 2026-09-22) -- not the whole
         # requirements.txt, which also lists mlx-whisper (Apple Silicon-only, irrelevant here and
         # would fail to install on this Linux runner)
-        run: pip install fpdf2
+        run: pip install fpdf2 Pillow
       - name: Build site + Pagefind index
         # this GitHub copy is the test site: it always asks search engines not to list it, even after techspressionism.com/archive/ is opened to them
         env:

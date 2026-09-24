@@ -40,7 +40,7 @@ def ld_script(obj):
 
 
 def head_tags(*, title, description, url="", image="", og_type="website", site_name="", jsonld=None, meta=(), alternates=(),
-              video_embed="", image_size=("1280", "720")):
+              video_embed="", image_size=("1280", "720"), image_alt="", og_extra=(), discovery=()):
     """The tags inserted before </head>. `meta` is [(name, content)], `alternates` is [(mime type, href, title)]."""
     t = [f'<meta name="description" content="{esc(description)}">']
     og = [("og:site_name", site_name), ("og:title", title), ("og:description", description), ("og:type", og_type),
@@ -48,18 +48,24 @@ def head_tags(*, title, description, url="", image="", og_type="website", site_n
     if url:
         og.append(("og:url", url))
     if image:
-        og += [("og:image", image), ("og:image:width", image_size[0]), ("og:image:height", image_size[1])]
+        og += [("og:image", image), ("og:image:type", "image/png" if image.lower().endswith(".png") else "image/jpeg"),
+               ("og:image:width", image_size[0]), ("og:image:height", image_size[1]), ("og:image:alt", image_alt)]
     if video_embed:
         og += [("og:video", video_embed), ("og:video:secure_url", video_embed), ("og:video:type", "text/html"),
                ("og:video:width", "1280"), ("og:video:height", "720")]
+    og += list(og_extra)      # e.g. video:release_date, video:duration
     t += [f'<meta property="{k}" content="{esc(v)}">' for k, v in og if v]
     tw = [("twitter:card", "summary_large_image" if image else "summary"), ("twitter:title", title),
           ("twitter:description", description)]
     if image:
         tw.append(("twitter:image", image))
+        if image_alt:
+            tw.append(("twitter:image:alt", image_alt))
     t += [f'<meta name="{k}" content="{esc(v)}">' for k, v in tw]
     t += [f'<meta name="{esc(k)}" content="{esc(v)}">' for k, v in meta if v]
     t += [f'<link rel="alternate" type="{esc(mime)}" href="{esc(href)}" title="{esc(ttl)}">' for mime, href, ttl in alternates]
+    for rel, mime, href, ttl in discovery:      # site-wide pointers for crawlers and AI tools: the sitemap and llms.txt
+        t.append(f'<link rel="{rel}" type="{esc(mime)}" href="{esc(href)}" title="{esc(ttl)}">')
     if jsonld:
         t.append(ld_script(jsonld))
     return "\n".join(t)
@@ -81,13 +87,17 @@ def breadcrumb(page_url, trail):
 
 
 def video_graph(*, base, brand, org_name, org_url, page_url, name, description, thumb, video_id, upload_date, recorded,
-                duration, series_name, people, clips, trail):
+                duration, series_name, people, clips, trail, transcript_url="", share_image=""):
     """A recording: WebPage about a VideoObject (with Clips per speaker) and its BreadcrumbList."""
     video = {"@type": "VideoObject", "@id": page_url + "#video", "name": name, "description": description,
-             "thumbnailUrl": [thumb] if thumb else [], "uploadDate": upload_date, "duration": iso_duration(duration),
+             "thumbnailUrl": [u for u in (thumb, share_image) if u], "uploadDate": upload_date, "duration": iso_duration(duration),
              "embedUrl": f"https://www.youtube.com/embed/{video_id}", "sameAs": f"https://www.youtube.com/watch?v={video_id}",
              "inLanguage": "en", "publisher": {"@id": base + "#org"}, "mainEntityOfPage": {"@id": page_url + "#webpage"},
              "isPartOf": {"@type": "CreativeWorkSeries", "name": series_name}}
+    video["isAccessibleForFree"] = True
+    if transcript_url:      # the full transcript as plain Markdown, for search engines and AI tools that want the text without the page
+        video["subjectOf"] = {"@type": "MediaObject", "name": "Transcript (Markdown)", "encodingFormat": "text/markdown",
+                              "contentUrl": transcript_url, "inLanguage": "en"}
     if recorded:
         video["dateCreated"] = recorded
     if people:
