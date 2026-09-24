@@ -187,7 +187,7 @@ def main():
         handle = re.search(r"\(([^)]*)\)", name)
         name = strip_handle(name)
         if key not in people:
-            people[key] = {"name": name.strip(" *"), "aliases": set(), "location": "", "links": {}, "ts_profile": "",
+            people[key] = {"name": name.strip(" *"), "aliases": set(), "location": "", "links": {}, "index_links": {}, "ts_profile": "",
                            "exhibitions": {}, "reels": []}
         rec = people[key]
         cleaned = name.strip(" *")
@@ -208,7 +208,7 @@ def main():
         if any(h in host for h in ("facebook.com", "linkedin.com", "youtube.com", "vimeo.com", "tiktok.com")): return "social"
         return "website"
 
-    def merge_links(rec, links):
+    def merge_links(rec, links, field="links"):
         for k, v in (links or {}).items():
             for u in (v if isinstance(v, list) else [v]):
                 u = (u or "").strip()
@@ -217,10 +217,11 @@ def main():
                 u = re.sub(r"^([a-zA-Z]+)://", lambda m: m.group(1).lower() + "://", u)   # "Https://x.com" -> broken relative
                                                                                             # link once rendered as an <a href> -- fix the scheme casing (source data typo, e.g. Chris Bly's site)
                 u = WIKIPEDIA_FIXES.get(u.rstrip("/"), u)
+                u = re.sub(r"^(https?://)([^/]+)", lambda m: m.group(1) + m.group(2).lower(), u)     # "en.Wikipedia.org" -> "en.wikipedia.org"
                 key = kind_of(u)
-                have = {x.rstrip("/") for x in rec["links"].get(key, [])}
-                if u.rstrip("/") not in have:
-                    rec["links"].setdefault(key, []).append(u)
+                have = {x.rstrip("/").lower() for x in rec[field].get(key, [])}
+                if u.rstrip("/").lower() not in have:
+                    rec[field].setdefault(key, []).append(u)
 
     # 1. the artist index
     for a in json.loads((ROOT / "data" / "artists.json").read_text()):
@@ -229,6 +230,7 @@ def main():
             continue
         r["location"] = r["location"] or ", ".join(x for x in (a.get("location"), a.get("country")) if x)
         merge_links(r, a.get("links"))
+        merge_links(r, a.get("links"), "index_links")      # what the artist index itself lists: the only links an artist page shows
         r["ts_profile"] = r["ts_profile"] or a.get("profile_url") or ""
 
     # 2. the microsites
@@ -295,6 +297,10 @@ def main():
             for u in vv:
                 if u.rstrip("/") not in {x.rstrip("/") for x in rec["links"].setdefault(kk, [])}:
                     rec["links"][kk].append(u)
+        for kk, vv in gone.get("index_links", {}).items():
+            for u in vv:
+                if u.rstrip("/").lower() not in {x.rstrip("/").lower() for x in rec["index_links"].setdefault(kk, [])}:
+                    rec["index_links"][kk].append(u)
         for ex, cr in gone["exhibitions"].items():
             rec["exhibitions"].setdefault(ex, []).extend(x for x in cr if x not in rec["exhibitions"][ex])
         rec["reels"] += gone["reels"]
@@ -336,6 +342,24 @@ def main():
                 have = {u.rstrip("/").lower() for u in rec["links"].get("wikipedia", [])}
                 if url.rstrip("/").lower() not in have:
                     rec["links"].setdefault("wikipedia", []).append(url)
+    # An artist page shows ONE link of each kind, taken from the artist index on techspressionism.com and only if it works (Colin, 24 Sep 2026).
+    # The exhibition pages' own icon lists are not used: they had handed other artists' links to the artist listed above them (Steve Miller, Gregory Little ...).
+    # Only a Wikipedia address may come from elsewhere (data/wikipedia-links.json), and only when the index has none.
+    status = {}
+    sp = ROOT / "data" / "link-status.json"
+    if sp.exists():
+        status = {k.lower(): v for k, v in json.loads(sp.read_text()).items()}
+    def works(u):
+        return status.get(u.lower(), {}).get("status") not in ("broken", "parked")
+    for r in people.values():
+        chosen = {}
+        for kind, urls in r["index_links"].items():
+            good = next((u for u in urls if works(u)), None)
+            if good:
+                chosen[kind] = [good]
+        if "wikipedia" not in chosen and r["links"].get("wikipedia"):
+            chosen["wikipedia"] = [r["links"]["wikipedia"][0]]
+        r["links"] = chosen
     out = []
     used = set()
     for key in sorted(people):

@@ -52,9 +52,6 @@
    "links": {
     "website": [
      "https://www.stellarfire.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/bill.stellarfire//"
     ]
    },
    "ts_profile": "",
@@ -145,11 +142,7 @@
    "name": "Adariiine",
    "aliases": [],
    "location": "Berlin, Germany",
-   "links": {
-    "instagram": [
-     "https://instagram.com/adariiine"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -159,11 +152,7 @@
    "name": "Yeohyun Ahn",
    "aliases": [],
    "location": "Munster, USA",
-   "links": {
-    "website": [
-     "http://www.yeohyunahn.com/"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -196,14 +185,7 @@
    "name": "nessi alexander-barnes",
    "aliases": [],
    "location": "USA",
-   "links": {
-    "website": [
-     "http://apocryphabulous.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/apocryphabulous/"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -244,14 +226,7 @@
    "name": "Marjan Andaroodi",
    "aliases": [],
    "location": "Tehran, Iran",
-   "links": {
-    "website": [
-     "http://www.marjanandaroodi.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/marjanandaroudi/"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -265,12 +240,10 @@
    "location": "Mumbai, India",
    "links": {
     "website": [
-     "https://www.malavikamandalandrew.com/",
-     "https://www.guillermoarismendi.com/"
+     "https://www.malavikamandalandrew.com/"
     ],
     "instagram": [
-     "https://instagram.com/malavikamandal",
-     "https://www.instagram.com/guillermo_arismendi/"
+     "https://instagram.com/malavikamandal"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/malavika-mandal-andrew/",
@@ -513,9 +486,6 @@
    "links": {
     "website": [
      "https://wordsbyandrew.com/"
-    ],
-    "instagram": [
-     "https://instagram.com/wordsbyandrew/"
     ]
    },
    "ts_profile": "",
@@ -619,9 +589,6 @@
    "links": {
     "website": [
      "https://tassneen.myportfolio.com/work"
-    ],
-    "instagram": [
-     "https://instagram.com/tee.n.bee"
     ]
    },
    "ts_profile": "",
@@ -648,9 +615,6 @@
    "aliases": [],
    "location": "Astoria, USA",
    "links": {
-    "website": [
-     "https://www.artbybautista.com"
-    ],
     "instagram": [
      "https://instagram.com/artbybautista/"
     ]
@@ -720,8 +684,7 @@
    "location": "Melbourne, Australia",
    "links": {
     "website": [
-     "https://Www.suebeyer.com.au",
-     "https://www.suebeyer.com.au/"
+     "https://www.suebeyer.com.au"
     ],
     "instagram": [
      "https://www.instagram.com/sue_beyer/"
@@ -791,9 +754,6 @@
    "aliases": [],
    "location": "Philadelphia, USA",
    "links": {
-    "website": [
-     "https://www.samnicoleart.com"
-    ],
     "instagram": [
      "https://www.instagram.com/samnicoleart/"
     ]
@@ -822,9 +782,6 @@
    "aliases": [],
    "location": "Wiesbaden, Germany",
    "links": {
-    "website": [
-     "https://www.artstudio-ernest.de/"
-    ],
     "instagram": [
      "https://www.instagram.com/artstudio_ernest/"
     ]
@@ -855,11 +812,7 @@
    "name": "David Bloom",
    "aliases": [],
    "location": "Birmingham, USA",
-   "links": {
-    "website": [
-     "https://townsendstreetgallery.com/david-bloom"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -1006,8 +959,7 @@
    "location": "Fallbrook, USA",
    "links": {
     "website": [
-     "https://www.LucyBoydWilson.com",
-     "https://www.lucyboydwilson.com/"
+     "https://www.lucyboydwilson.com"
     ],
     "instagram": [
      "https://www.instagram.com/lucyboydwilson/"
@@ -1202,9 +1154,6 @@
    "aliases": [],
    "location": "Seattle, USA",
    "links": {
-    "website": [
-     "https://draincain.com/"
-    ],
     "instagram": [
      "https://instagram.com/draincain/"
     ]
@@ -1317,9 +1266,6 @@
    "aliases": [],
    "location": "Slovakia",
    "links": {
-    "website": [
-     "https://www.cassiopeus.com"
-    ],
     "instagram": [
      "https://www.instagram.com/cassiopeus/"
     ]
@@ -1671,9 +1617,6 @@
    "aliases": [],
    "location": "New Orleans, USA",
    "links": {
-    "website": [
-     "https://www.brianstcyr.com"
-    ],
     "instagram": [
      "https://instagram.com/stcyrbrian/"
     ]
@@ -2001,9 +1944,6 @@
    "aliases": [],
    "location": "Bloomington, USA",
    "links": {
-    "website": [
-     "https://soaad.indiana.edu/faculty/directory/dolinsky-margaret.html"
-    ],
     "instagram": [
      "https://www.instagram.com/artzgrit/"
     ]
@@ -2121,7 +2061,7 @@
    "location": "Corpus Christi, USA",
    "links": {
     "website": [
-     "https://www.JoshuaDuttweiler.com"
+     "https://www.joshuaduttweiler.com"
     ],
     "instagram": [
      "https://instagram.com/josh_dutt_design/"
@@ -2219,9 +2159,6 @@
    "aliases": [],
    "location": "Tehran, Iran",
    "links": {
-    "website": [
-     "https://www.neginete.com"
-    ],
     "instagram": [
      "https://www.instagram.com/neginete.art/"
     ]
@@ -2246,7 +2183,7 @@
    "location": "NYC, USA",
    "links": {
     "website": [
-     "https://Lclmachine.com"
+     "https://lclmachine.com"
     ],
     "instagram": [
      "https://www.instagram.com/local.machine/"
@@ -2279,9 +2216,6 @@
    "aliases": [],
    "location": "Colchester, United Kingdom",
    "links": {
-    "website": [
-     "https://www.katevans.art"
-    ],
     "instagram": [
      "https://instagram.com/katevansartist19/"
     ]
@@ -2568,9 +2502,6 @@
    "aliases": [],
    "location": "Lebanon",
    "links": {
-    "website": [
-     "https://www.elhelouzouhair.co/"
-    ],
     "instagram": [
      "https://www.instagram.com/zhr.hlu"
     ]
@@ -2669,9 +2600,6 @@
    "aliases": [],
    "location": "Everett, USA",
    "links": {
-    "nft": [
-     "https://foundation.app/gaizutis"
-    ],
     "instagram": [
      "https://www.instagram.com/vytas_gaizutis/"
     ]
@@ -2687,7 +2615,7 @@
    "location": "Hazleton, USA",
    "links": {
     "website": [
-     "https://www.TinaGalbiati.com"
+     "https://www.tinagalbiati.com"
     ],
     "instagram": [
      "https://instagram.com/tgalbiati/"
@@ -2743,7 +2671,7 @@
    "location": "Boca Raton, USA",
    "links": {
     "wikipedia": [
-     "https://en.Wikipedia.org/wiki/Laurence_Gartel"
+     "https://en.wikipedia.org/wiki/Laurence_Gartel"
     ],
     "website": [
      "https://gartelmuseum.weebly.com/"
@@ -2795,9 +2723,6 @@
    "links": {
     "website": [
      "http://www.brandongellis.com"
-    ],
-    "instagram": [
-     "https://instagram.com/brandongellis/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/brandon-gellis/",
@@ -2841,9 +2766,6 @@
    "aliases": [],
    "location": "Patchogue, USA",
    "links": {
-    "website": [
-     "https://www.bethgiacummo.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/beebeegiacummo/"
     ]
@@ -2932,12 +2854,6 @@
     ],
     "instagram": [
      "https://www.instagram.com/colingoldberg/"
-    ],
-    "twitter": [
-     "https://twitter.com/goldbergfineart"
-    ],
-    "nft": [
-     "https://foundation.app/goldberg/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/colin-goldberg/",
@@ -3074,9 +2990,6 @@
    "aliases": [],
    "location": "Los Angeles, USA",
    "links": {
-    "website": [
-     "https://davidguerrero.art/"
-    ],
     "nft": [
      "https://opensea.io/Fragment"
     ],
@@ -3192,14 +3105,7 @@
    "name": "Deann Stein Hasinoff",
    "aliases": [],
    "location": "Edmonton, Canada",
-   "links": {
-    "website": [
-     "http://www.deannsteinhasinoff.com/"
-    ],
-    "instagram": [
-     "https://instagram.com/deann_stein_hasinoff_art"
-    ]
-   },
+   "links": {},
    "ts_profile": "https://techspressionism.com/exhibition/southampton/deann-stein-hasinoff/",
    "exhibitions": {
     "brooklyn": [],
@@ -3238,9 +3144,6 @@
    "aliases": [],
    "location": "Edmonton, Canada",
    "links": {
-    "website": [
-     "https://www.emergingartistplatform.com/kerihaskell"
-    ],
     "instagram": [
      "https://www.instagram.com/kerihaskellart/"
     ]
@@ -3255,9 +3158,6 @@
    "aliases": [],
    "location": "Helsinki, Finland",
    "links": {
-    "website": [
-     "https://www.iikkamattihauru.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/iikkamattihauru/"
     ],
@@ -3309,9 +3209,6 @@
    "aliases": [],
    "location": "Rocky Mount, USA",
    "links": {
-    "website": [
-     "https://artistken.wixsite.com/artistken"
-    ],
     "instagram": [
      "https://www.instagram.com/artistken1981/"
     ]
@@ -3326,9 +3223,6 @@
    "aliases": [],
    "location": "Dallas, USA",
    "links": {
-    "website": [
-     "https://www.audio-optio.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/audio.optio/"
     ]
@@ -3444,9 +3338,6 @@
    "aliases": [],
    "location": "Prineville, USA",
    "links": {
-    "website": [
-     "http://gxhpainter.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/gary_gxhpainter/"
     ]
@@ -3524,9 +3415,6 @@
    "aliases": [],
    "location": "Québec, Canada",
    "links": {
-    "website": [
-     "https://puguess.com"
-    ],
     "instagram": [
      "https://instagram.com/puguess"
     ]
@@ -3558,9 +3446,6 @@
    "aliases": [],
    "location": "Berlin, Germany",
    "links": {
-    "website": [
-     "https://www.ikatch.net/"
-    ],
     "instagram": [
      "https://www.instagram.com/ikatch_/"
     ]
@@ -3593,19 +3478,7 @@
    "name": "Cristina Inciarte",
    "aliases": [],
    "location": "Orlando, Florida",
-   "links": {
-    "website": [
-     "http://www.cristinainciarte.com/",
-     "https://judith-jacobs.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/cristina_inciarte",
-     "https://www.instagram.com/judithjacobs_pics"
-    ],
-    "social": [
-     "https://www.facebook.com/judy.jacobs.14"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {
     "brooklyn": [],
@@ -3619,9 +3492,6 @@
    "aliases": [],
    "location": "Las Vegas, USA",
    "links": {
-    "website": [
-     "https://www.aurorartstudio.com"
-    ],
     "instagram": [
      "https://www.instagram.com/aurora_innconnu/"
     ]
@@ -3657,8 +3527,7 @@
    "location": "Afghanistan",
    "links": {
     "instagram": [
-     "https://www.instagram.com/haydiii.iii/",
-     "https://www.instagram.com/haydi.graph/"
+     "https://www.instagram.com/haydiii.iii/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/hayede-jamshidi/",
@@ -3750,9 +3619,6 @@
    "aliases": [],
    "location": "Toronto, Canada",
    "links": {
-    "website": [
-     "https://www.colman.net"
-    ],
     "instagram": [
      "https://www.instagram.com/colman.jones/"
     ]
@@ -3825,9 +3691,6 @@
    "aliases": [],
    "location": "Little Switzerland, USA",
    "links": {
-    "website": [
-     "https://www.barbarakahn.art"
-    ],
     "instagram": [
      "https://instagram.com/barbara_l_kahn"
     ]
@@ -3863,9 +3726,6 @@
    "links": {
     "website": [
      "https://linktr.ee/amirkarim.i"
-    ],
-    "nft": [
-     "https://foundation.app/@amirkarimi/"
     ]
    },
    "ts_profile": "",
@@ -3877,14 +3737,7 @@
    "name": "Sherry Karver",
    "aliases": [],
    "location": "Oakland, USA",
-   "links": {
-    "website": [
-     "https://sherrykarver.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/sherrykarver/"
-    ]
-   },
+   "links": {},
    "ts_profile": "https://techspressionism.com/exhibition/southampton/sherry-karver/",
    "exhibitions": {
     "brooklyn": [],
@@ -3974,9 +3827,6 @@
     ],
     "instagram": [
      "https://instagram.com/djkero/"
-    ],
-    "nft": [
-     "https://foundation.app/@kero"
     ]
    },
    "ts_profile": "",
@@ -4010,15 +3860,6 @@
    "links": {
     "wikipedia": [
      "https://en.wikipedia.org/wiki/DJ_Spooky"
-    ],
-    "website": [
-     "http://djspooky.com/"
-    ],
-    "twitter": [
-     "https://twitter.com/djspooky"
-    ],
-    "instagram": [
-     "https://www.instagram.com/djspooky_official/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/paul-d-miller/",
@@ -4117,8 +3958,7 @@
    "location": "NYC, USA",
    "links": {
     "website": [
-     "https://www.erinkostudios.com/",
-     "https://linktr.ee/ErinKo"
+     "https://www.erinkostudios.com/"
     ],
     "instagram": [
      "https://www.instagram.com/erinkostudios/"
@@ -4189,7 +4029,7 @@
      "https://lilykostrzewa.com"
     ],
     "instagram": [
-     "https://Instagram.com/lilykostrzewa"
+     "https://instagram.com/lilykostrzewa"
     ]
    },
    "ts_profile": "",
@@ -4246,9 +4086,6 @@
    "aliases": [],
    "location": "Prague, Czech Republic",
    "links": {
-    "website": [
-     "https://lucikkralikova.wixsite.com/portfolio"
-    ],
     "instagram": [
      "https://instagram.com/kralik_/"
     ]
@@ -4481,9 +4318,6 @@
    "aliases": [],
    "location": "Nipomo, USA",
    "links": {
-    "website": [
-     "http://www.highinfiberart.com"
-    ],
     "instagram": [
      "https://www.instagram.com/melsrun2000"
     ]
@@ -4666,7 +4500,6 @@
    "location": "Winona, USA",
    "links": {
     "wikipedia": [
-     "https://en.Wikipedia.org/wiki/Patrick_Lichty",
      "https://en.wikipedia.org/wiki/Patrick_Lichty"
     ],
     "website": [
@@ -4733,7 +4566,7 @@
      "https://adelleninja.com/"
     ],
     "instagram": [
-     "https://Instagram.com/adellelin"
+     "https://instagram.com/adellelin"
     ]
    },
    "ts_profile": "",
@@ -4897,8 +4730,7 @@
    "location": "Setauket, USA",
    "links": {
     "website": [
-     "http://lovid.org/",
-     "https://postmastersblockchain.com/artists/lovid/"
+     "http://lovid.org/"
     ],
     "twitter": [
      "https://twitter.com/lovidlovid"
@@ -4988,9 +4820,6 @@
    "aliases": [],
    "location": "Denver, USA",
    "links": {
-    "website": [
-     "https://www.anamcarastudiogallery.com/"
-    ],
     "instagram": [
      "https://instagram.com/artscarriemakenna/"
     ]
@@ -5050,9 +4879,6 @@
    "aliases": [],
    "location": "Los Angeles, USA",
    "links": {
-    "website": [
-     "https://phrancism.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/phrancism.art/"
     ]
@@ -5230,9 +5056,6 @@
    "aliases": [],
    "location": "Sheffield, United Kingdom",
    "links": {
-    "website": [
-     "https://juliemciver.myportfolio.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/juliejmciver/"
     ]
@@ -5508,19 +5331,16 @@
    "location": "Sagaponack, USA",
    "links": {
     "wikipedia": [
-     "https://en.Wikipedia.org/wiki/Steve_Miller_(artist)",
      "https://en.wikipedia.org/wiki/Steve_Miller_(artist)"
     ],
     "website": [
-     "https://stevemiller.com",
-     "http://tommymintz.com"
+     "https://stevemiller.com"
     ],
     "twitter": [
      "https://twitter.com/SteveMillerArt"
     ],
     "instagram": [
-     "https://www.instagram.com/stevemillerdotcom/",
-     "https://instagram.com/tommymintznyc/"
+     "https://www.instagram.com/stevemillerdotcom/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/steve-miller/",
@@ -5565,9 +5385,6 @@
    "aliases": [],
    "location": "Seattle, USA",
    "links": {
-    "website": [
-     "https://kerrycmitchell.com"
-    ],
     "instagram": [
      "https://instagram.com/kerrycmitchell"
     ]
@@ -5600,14 +5417,7 @@
    "name": "Momo",
    "aliases": [],
    "location": "New York, NY",
-   "links": {
-    "website": [
-     "https://www.nyseikatsu.com/entertainment/03/2023/37851/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/momo_x_art/"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {
     "brooklyn": [],
@@ -5635,9 +5445,6 @@
    "aliases": [],
    "location": "High Wycombe, United Kingdom",
    "links": {
-    "website": [
-     "https://oneglyph.com"
-    ],
     "instagram": [
      "https://instagram.com/monoglyph1/"
     ]
@@ -5761,9 +5568,6 @@
     ],
     "website": [
      "https://linktr.ee/saharmoussavi"
-    ],
-    "twitter": [
-     "https://twitter.com/sa_hirmo"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/sahar-moussavi/",
@@ -5799,9 +5603,6 @@
    "aliases": [],
    "location": "Los Angeles, USA",
    "links": {
-    "website": [
-     "http://www.expressinabstract.net/"
-    ],
     "instagram": [
      "https://www.instagram.com/osiris_munir_thepainter"
     ]
@@ -5894,9 +5695,6 @@
    "aliases": [],
    "location": "Miami, USA",
    "links": {
-    "website": [
-     "http://qinzanajm.com/index.html"
-    ],
     "instagram": [
      "https://www.instagram.com/qinza1/"
     ]
@@ -5943,7 +5741,6 @@
    "location": "Paris, France",
    "links": {
     "wikipedia": [
-     "https://en.Wikipedia.org/wiki/Joseph_Nechvatal",
      "https://en.wikipedia.org/wiki/Joseph_Nechvatal"
     ],
     "website": [
@@ -6040,7 +5837,7 @@
    "location": "TN, USA, USA",
    "links": {
     "website": [
-     "http://Monyanikahd.com"
+     "http://monyanikahd.com"
     ],
     "instagram": [
      "https://www.instagram.com/monernism/"
@@ -6073,9 +5870,6 @@
    "aliases": [],
    "location": "Menomonie, USA",
    "links": {
-    "website": [
-     "http://enikoo.com/all-works/creative-coding/"
-    ],
     "instagram": [
      "https://instagram.com/elham.nikoo/"
     ]
@@ -6290,14 +6084,8 @@
    "aliases": [],
    "location": "Falls Church, USA",
    "links": {
-    "nft": [
-     "https://foundation.app/@Dg8tal"
-    ],
     "instagram": [
      "https://www.instagram.com/scottopp/"
-    ],
-    "twitter": [
-     "https://twitter.com/dg8tal"
     ]
    },
    "ts_profile": "",
@@ -6348,9 +6136,6 @@
    "aliases": [],
    "location": "NYC, USA",
    "links": {
-    "website": [
-     "https://www.michphoto.com"
-    ],
     "twitter": [
      "https://twitter.com/michpalmer"
     ],
@@ -6446,14 +6231,7 @@
    "name": "Mark Pechlivanos",
    "aliases": [],
    "location": "Toledo, OH",
-   "links": {
-    "website": [
-     "http://markospechlivanos.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/colororangeart/"
-    ]
-   },
+   "links": {},
    "ts_profile": "https://techspressionism.com/exhibition/southampton/mark-pechlivanos/",
    "exhibitions": {
     "brooklyn": [],
@@ -6570,9 +6348,6 @@
    "aliases": [],
    "location": "Irvine, USA",
    "links": {
-    "website": [
-     "https://www.sandrapipkenphotography.com"
-    ],
     "instagram": [
      "https://instagram.com/sandrapipkenphotography"
     ]
@@ -6741,12 +6516,7 @@
    "location": "Phoenix, USA",
    "links": {
     "website": [
-     "https://www.michaelpierreprice.com/",
-     "https://kalamint.io/user/prince_magnolia"
-    ],
-    "instagram": [
-     "https://www.instagram.com/mpp_digital_art/",
-     "https://www.instagram.com/999prince_magnolia999/"
+     "https://www.michaelpierreprice.com/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/michael-pierre-price/",
@@ -6815,9 +6585,6 @@
    "aliases": [],
    "location": "Tehran, Iran",
    "links": {
-    "website": [
-     "http://arianqalandaran.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/arianvisions/"
     ]
@@ -6927,9 +6694,6 @@
    "aliases": [],
    "location": "Afghanistan",
    "links": {
-    "website": [
-     "https://amanrasouli.art/works"
-    ],
     "instagram": [
      "https://www.instagram.com/amanrasouli_"
     ],
@@ -6949,9 +6713,6 @@
    "links": {
     "instagram": [
      "https://instagram.com/mahnazrasouli_"
-    ],
-    "nft": [
-     "https://foundation.app/mahnaz"
     ]
    },
    "ts_profile": "",
@@ -7009,9 +6770,6 @@
    "aliases": [],
    "location": "Colombia",
    "links": {
-    "website": [
-     "https://nataliarecalde.com/"
-    ],
     "instagram": [
      "https://instagram.com/nnatalia.recalde"
     ]
@@ -7190,13 +6948,8 @@
    "aliases": [],
    "location": "Mountlake Terrace, USA",
    "links": {
-    "website": [
-     "http://www.shamikalovesink.com/versions-of-the-same-song",
-     "https://www.night-shining.com/"
-    ],
     "instagram": [
-     "https://www.instagram.com/__st_rivera__/",
-     "https://www.instagram.com/_nightshining/"
+     "https://www.instagram.com/__st_rivera__/"
     ]
    },
    "ts_profile": "",
@@ -7297,8 +7050,7 @@
    "location": "Minneapolis, USA",
    "links": {
     "website": [
-     "https://www.jacquerosenau.com",
-     "https://JRosenauStudio.com"
+     "https://www.jacquerosenau.com"
     ],
     "instagram": [
      "https://instagram.com/jacque_rosenau"
@@ -7374,8 +7126,7 @@
    "location": "New Haven, USA",
    "links": {
     "website": [
-     "https://www.cbrubin.com/",
-     "https://cbrubin.net/"
+     "https://www.cbrubin.com/"
     ],
     "instagram": [
      "https://www.instagram.com/cbrubinstudio/"
@@ -7572,8 +7323,7 @@
      "http://www.liquidoranges.com"
     ],
     "instagram": [
-     "https://www.instagram.com/reese_schroeder_artist",
-     "https://www.instagram.com/reese_liquidoranges/"
+     "https://www.instagram.com/reese_schroeder_artist"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/reese-schroeder/",
@@ -7629,14 +7379,8 @@
    "aliases": [],
    "location": "Rockville, USA",
    "links": {
-    "website": [
-     "https://www.artscojo.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/artscojo/"
-    ],
-    "nft": [
-     "https://foundation.app/@artscojo"
     ],
     "twitter": [
      "https://twitter.com/artscojo"
@@ -7754,8 +7498,7 @@
    "location": "NYC, USA",
    "links": {
     "website": [
-     "https://warpcast.com/cariannshimsham",
-     "https://www.cariannshimsham.com/"
+     "https://warpcast.com/cariannshimsham"
     ]
    },
    "ts_profile": "",
@@ -7806,8 +7549,7 @@
    "location": "NYC, USA",
    "links": {
     "website": [
-     "https://www.annrshapiro.com/",
-     "https://www.cariannshimsham.com/"
+     "https://www.annrshapiro.com/"
     ],
     "instagram": [
      "https://www.instagram.com/shapiro.ann/"
@@ -7959,7 +7701,7 @@
    "location": "Cumberland, USA",
    "links": {
     "website": [
-     "https://Christopherpsloan.com"
+     "https://christopherpsloan.com"
     ]
    },
    "ts_profile": "",
@@ -7993,12 +7735,10 @@
      "https://en.wikipedia.org/wiki/Nina_Sobell"
     ],
     "website": [
-     "http://www.ninasobell.com",
-     "https://sarahsong.site/"
+     "http://www.ninasobell.com"
     ],
     "instagram": [
-     "https://www.instagram.com/nina_sobell/",
-     "https://www.instagram.com/sarahsxr/"
+     "https://www.instagram.com/nina_sobell/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/nina-sobell/",
@@ -8098,12 +7838,10 @@
    "location": "Brooklyn, USA",
    "links": {
     "wikipedia": [
-     "https://en.Wikipedia.org/wiki/Anne_Morgan_Spalter",
      "https://en.wikipedia.org/wiki/Anne_Morgan_Spalter"
     ],
     "website": [
-     "https://superrare.co/aspalter7",
-     "https://annespalter.com/"
+     "https://superrare.co/aspalter7"
     ],
     "instagram": [
      "https://www.instagram.com/annespalter/"
@@ -8162,9 +7900,6 @@
     "website": [
      "https://joannasteidle.com/"
     ],
-    "nft": [
-     "https://foundation.app/@jsteidle"
-    ],
     "instagram": [
      "https://www.instagram.com/hamptonsdroneimages/"
     ],
@@ -8186,7 +7921,7 @@
    "location": "Near NYC, USA",
    "links": {
     "website": [
-     "https://Sashastiles.com"
+     "https://sashastiles.com"
     ],
     "instagram": [
      "https://www.instagram.com/sashastiles/"
@@ -8291,9 +8026,6 @@
    "aliases": [],
    "location": "United Kingdom",
    "links": {
-    "website": [
-     "https://Subcisco.com"
-    ],
     "instagram": [
      "https://instagram.com/subcisco"
     ]
@@ -8308,9 +8040,6 @@
    "aliases": [],
    "location": "Los Angeles, USA",
    "links": {
-    "twitter": [
-     "https://twitter.com/sudorootla"
-    ],
     "nft": [
      "https://rarible.com/sudo"
     ],
@@ -8330,9 +8059,6 @@
    ],
    "location": "NYC, USA",
    "links": {
-    "website": [
-     "https://linktr.ee/dubwoman"
-    ],
     "instagram": [
      "https://instagram.com/giovannasun/"
     ]
@@ -8671,8 +8397,7 @@
    "location": "Melbourne, Australia",
    "links": {
     "website": [
-     "https://www.AndyThomas.com.au",
-     "https://www.andythomas.com.au/"
+     "https://www.andythomas.com.au"
     ],
     "instagram": [
      "https://www.instagram.com/andythomasartist/"
@@ -8758,9 +8483,6 @@
    "aliases": [],
    "location": "Kansas City, USA",
    "links": {
-    "website": [
-     "https://www.rebeccatombaugh.com/"
-    ],
     "instagram": [
      "https://instagram.com/inkings_by_rt"
     ]
@@ -8809,9 +8531,6 @@
    "aliases": [],
    "location": "Brooklyn, USA",
    "links": {
-    "website": [
-     "https://bentritt.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/bentritt/"
     ]
@@ -8902,9 +8621,6 @@
    "aliases": [],
    "location": "Brooklyn, USA",
    "links": {
-    "website": [
-     "http://vakula.eu/home-en.html"
-    ],
     "instagram": [
      "https://www.instagram.com/matej_vakula/"
     ]
@@ -8973,9 +8689,6 @@
     "wikipedia": [
      "https://en.wikipedia.org/wiki/Roman_Verostko"
     ],
-    "website": [
-     "http://verostko.com/"
-    ],
     "social": [
      "https://www.facebook.com/roman.verostko/"
     ]
@@ -8993,15 +8706,7 @@
    "location": "Lima, Peru",
    "links": {
     "instagram": [
-     "https://instagram.com/n3t4_/",
-     "https://www.instagram.com/andywauman/"
-    ],
-    "nft": [
-     "https://objkt.com/@joeyzaza"
-    ],
-    "website": [
-     "https://www.fxhash.xyz/u/joey%20zaza",
-     "http://andywauman.xyz/"
+     "https://instagram.com/n3t4_/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/n3t4/",
@@ -9133,9 +8838,6 @@
    "aliases": [],
    "location": "Helmond, Netherlands",
    "links": {
-    "website": [
-     "https://bonkstraa.com"
-    ],
     "instagram": [
      "https://www.instagram.com/bonkstraa/"
     ]
@@ -9149,14 +8851,7 @@
    "name": "Juan Álvarez / Wamoo",
    "aliases": [],
    "location": "New York, NY",
-   "links": {
-    "website": [
-     "https://thisiswamoo.com/"
-    ],
-    "instagram": [
-     "https://www.instagram.com/thisiswamoo/"
-    ]
-   },
+   "links": {},
    "ts_profile": "",
    "exhibitions": {
     "brooklyn": [],
@@ -9190,9 +8885,6 @@
    "aliases": [],
    "location": "Belgium",
    "links": {
-    "website": [
-     "http://andywauman.xyz/"
-    ],
     "instagram": [
      "https://www.instagram.com/andywauman/"
     ]
@@ -9310,9 +9002,6 @@
    "aliases": [],
    "location": "Milan, Italy",
    "links": {
-    "website": [
-     "https://pierstefanobellani.com/"
-    ],
     "instagram": [
      "https://www.instagram.com/werpi279/"
     ]
@@ -9419,9 +9108,6 @@
    "aliases": [],
    "location": "London, United Kingdom",
    "links": {
-    "website": [
-     "https://xnewworlds.xyz/"
-    ],
     "instagram": [
      "https://www.instagram.com/x_new_worlds"
     ]
@@ -9491,9 +9177,6 @@
    "aliases": [],
    "location": "Amsterdam, Netherlands",
    "links": {
-    "website": [
-     "https://StrangeCarrots.com"
-    ],
     "instagram": [
      "https://www.instagram.com/strangecarrotsart/"
     ]
@@ -9568,9 +9251,7 @@
    "location": "NYC, USA",
    "links": {
     "website": [
-     "http://www.digitalzaza.com",
-     "https://warpcast.com/joeyzaza",
-     "https://www.fxhash.xyz/u/joey%20zaza"
+     "http://www.digitalzaza.com"
     ],
     "nft": [
      "https://objkt.com/@joeyzaza"
