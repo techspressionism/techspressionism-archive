@@ -70,6 +70,11 @@ PERSON_MERGES = {
 }
 
 
+# Wikipedia addresses on techspressionism.com that point at the wrong page, and the right one (found 24 Sep 2026: the index links Michael Rees to a
+# "may refer to" page; the artist is Michael Rees (artist), sculptor / interactive computing, 1995 Whitney Biennial)
+WIKIPEDIA_FIXES = {"https://en.wikipedia.org/wiki/Michael_Rees": "https://en.wikipedia.org/wiki/Michael_Rees_(artist)"}
+
+
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().lower()).strip("-")
 
@@ -127,9 +132,13 @@ def parse_microsite_artists(content):
                 line = re.sub(r"<[^>]+>", " ", line)
                 line = re.sub(r"\s+", " ", html.unescape(line)).strip()
                 m = ENTRY.match(line)
-                if m and len(m.group(1).split()) <= 5:
+                if m and (len(m.group(1).split()) <= 5 or re.search(r"\baka\b", m.group(1), re.I)):
                     cur = {"name": m.group(1).strip(" *"), "location": m.group(2).strip(), "links": {}}
                     entries.append(cur)
+                elif m:
+                    # a long entry line (a collective: "NPT / Negin Ehtesabian and Patrick Lichty"): its own icon links follow it, and must not
+                    # be handed to the artist listed just before it (24 Sep 2026: that gave Gregory Little other people's websites and Instagram)
+                    cur = {"name": "", "location": "", "links": {}}
         elif cur is not None and tok[1] in ICONS:
             cur["links"].setdefault(ICONS[tok[1]], []).append(tok[2])
     return entries
@@ -207,6 +216,7 @@ def main():
                     continue
                 u = re.sub(r"^([a-zA-Z]+)://", lambda m: m.group(1).lower() + "://", u)   # "Https://x.com" -> broken relative
                                                                                             # link once rendered as an <a href> -- fix the scheme casing (source data typo, e.g. Chris Bly's site)
+                u = WIKIPEDIA_FIXES.get(u.rstrip("/"), u)
                 key = kind_of(u)
                 have = {x.rstrip("/") for x in rec["links"].get(key, [])}
                 if u.rstrip("/") not in have:

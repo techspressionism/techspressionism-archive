@@ -120,7 +120,7 @@ def pull():
     gone = [t for t in known if t in written and t not in lines]      # items added to the master list since the last write are not in the note yet: not "removed"
     headings = {TITLE, "Open items", "Recommendations", "Nothing open.", f"Staging: {STAGING} Live: {LIVE}", f"Staging: {STAGING}", f"Live: {LIVE}"}
     heads = {f"Phase {ph['n']} - {nice(ph['title'])}" for ph in phases} | {sub for ph in phases for sub, _ in ph["open"] if sub}
-    new = [l for l in lines if l not in known and l not in headings and l not in heads and not l.startswith(("Staging:", "Live:"))]
+    new = [l for l in lines if l not in known and l not in written and l not in headings and l not in heads and not l.startswith(("Staging:", "Live:"))]
     if gone:
         text = SRC.read_text()
         for t in gone:

@@ -34,6 +34,13 @@
   "title": "Angela Ferraiolo",
   "url": "https://en.wikipedia.org/wiki/Angela_Ferraiolo"
  },
+ "angela-nikolau": {
+  "retrieved": "2026-09-24",
+  "revid": 1372133956,
+  "text": "Angelina \"Angela\" Nikolau (born 29 June 1993) is a Russian rooftopper, urban climber, and artist who gained recognition due to her unusual photographs taken on the roofs of skyscrapers around the world, including the Empire State Building in July 2026.",
+  "title": "Angela Nikolau",
+  "url": "https://en.wikipedia.org/wiki/Angela_Nikolau"
+ },
  "anne-morgan-spalter": {
   "image": {
    "author": "Hiptorries",
@@ -132,6 +139,20 @@
   "title": "Colin Goldberg",
   "url": "https://en.wikipedia.org/wiki/Colin_Goldberg"
  },
+ "ellen-k-levy": {
+  "image": {
+   "author": "George Quasha",
+   "file": "Ellen_Levy_c.2003.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ellen_Levy_c.2003.jpg"
+  },
+  "retrieved": "2026-09-24",
+  "revid": 1374654694,
+  "text": "Ellen K. Levy is an American multimedia artist, writer, curator, and educator whose interdisciplinary work explores the intersections of art, science, technology, and the environment. Since the early 1980s, she has investigated how scientific paradigms, including neuroscience, evolution, and complexity theory, inform visual culture and artistic practice. Levy has exhibited internationally and published widely on the role of visual art in shaping and interpreting scientific knowledge.\nThrough her evolving career, Levy has examined how art–science collaborations influence social and political movements, environmental activism, and contemporary art's role in public discourse. Her work emphasizes the interdisciplinarity of design across engineering, art, and technology, informed by emergent scientific ideas. She has engaged with themes such as morphology, systems theory, and eco-catastrophe, positioning her among artists who bridge visual culture and scientific inquiry. Science historian and author Arthur I. Miller has described her more recent work as focusing on \"the convergence of biology and information systems and the borders of the animate and inanimate.\"\nShe has examined how art-science collaborations have influenced social and political movements, encouraged environmental activism, and shaped contemporary art's evolving role.",
+  "title": "Ellen Levy",
+  "url": "https://en.wikipedia.org/wiki/Ellen_Levy"
+ },
  "frank-gillette": {
   "retrieved": "2026-09-24",
   "revid": 1348237584,
@@ -139,18 +160,33 @@
   "title": "Frank Gillette",
   "url": "https://en.wikipedia.org/wiki/Frank_Gillette"
  },
- "gregory-little": {
-  "retrieved": "2026-09-24",
-  "revid": 1360716576,
-  "skip": "'Patrick Lichty' is a disambiguation page or another person: check the Wikipedia address in data/wikipedia-links.json or artists.json",
-  "title": "Patrick Lichty"
- },
  "helen-a-harrison": {
   "retrieved": "2026-09-24",
   "revid": 1360077295,
   "text": "Helen A. Harrison (born December 4, 1943) is an American art historian, curator, journalist and author. Harrison was the longtime director (1990-2024) of the Pollock-Krasner House and Study Center, the former home and studio of the Abstract Expressionist artists Jackson Pollock and Lee Krasner in East Hampton, New York. She is known for her books, essays, reviews and exhibitions devoted to modern American art, and a series of historical mystery novels set in the New York art world.\nFrom 1978 to 2006, Harrison was an art critic for The New York Times Long Island section. Her arts commentaries, “Art Waves,” were heard on WLIU FM, Long Island University’s NPR-affiliated radio station, from 2004-2009. “Eye On Art,” her monthly column for the Sag Harbor Express, ran from 2010 to 2020.",
   "title": "Helen A. Harrison",
   "url": "https://en.wikipedia.org/wiki/Helen_A._Harrison"
+ },
+ "ivan-beerkus": {
+  "retrieved": "2026-09-24",
+  "revid": 1372113595,
+  "text": "Ivan Beerkus (born Ivan Artemovich Kuznetsov; May 11, 1994) is a Russian rooftopper, urban climber and blogger.   Beerkus has ascended the Eiffel Tower in Paris, the Main Building of Moscow State University, Shun Hing Square in Shenzhen, China, Mercury City Tower in Moscow, Shanghai Tower in Shanghai, the CTF Financial Centre building in Guangzhou, China, Goldin Finance 117 in Tianjin, China, and the second-tallest building in the world, Merdeka 118 in Malaysia.",
+  "title": "Ivan Beerkus",
+  "url": "https://en.wikipedia.org/wiki/Ivan_Beerkus"
+ },
+ "jacquelyn-ford-morie": {
+  "image": {
+   "author": "ClowderMan",
+   "file": "Jacki_Morie_Presenting_at_TrinityScienceCentre,_Dublin_Feb2017.png",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Jacki_Morie_Presenting_at_TrinityScienceCentre%2C_Dublin_Feb2017.png"
+  },
+  "retrieved": "2026-09-24",
+  "revid": 1372015062,
+  "text": "Jacquelyn Ford Morie is an artist, scientist and educator working in the areas of immersive worlds, virtual reality, games and social networks.  Until 2013 she was a senior research scientist at the Institute for Creative Technologies. In 2011 she started a spin-off company called All These Worlds, to take her work in virtual worlds and avatars to a broader audience.",
+  "title": "Jacquelyn Ford Morie",
+  "url": "https://en.wikipedia.org/wiki/Jacquelyn_Ford_Morie"
  },
  "janet-biggs": {
   "image": {
@@ -187,11 +223,19 @@
   "title": "Lauren Woods",
   "url": "https://en.wikipedia.org/wiki/Lauren_Woods"
  },
+ "laurence-gartel": {
+  "retrieved": "2026-09-24",
+  "revid": 1356035691,
+  "text": "Laurence Gartel (born June 5, 1956) is an American artist, considered a pioneer of digital art. His biography is included in Who's Who, Who's Who in the East, Who's Who in America, Who's Who in American Art, and Who's Who in the World.",
+  "title": "Laurence Gartel",
+  "url": "https://en.wikipedia.org/wiki/Laurence_Gartel"
+ },
  "michael-rees": {
   "retrieved": "2026-09-24",
-  "revid": 1277294663,
-  "skip": "'Michael Rees' is a disambiguation page or another person: check the Wikipedia address in data/wikipedia-links.json or artists.json",
-  "title": "Michael Rees"
+  "revid": 1364880020,
+  "text": "Michael Rees is an American artist practicing sculpture making, installation, animation, and interactive computing. He has exhibited his works widely, including at the Whitney Museum of American Art, New York, NY (1995 Whitney Biennial, 2001 Bitstreams Exhibition); Bitforms gallery, Universal Concepts Unlimited, The Aldrich Museum of Contemporary Art, Ridgefield, CT (Putto Large and Moving 2004, Pop Surrealism 1998, Best of Season 2001), The MARTa Museum, Herford, Germany (Putto 4 over 4 2005), and The Kemper Museum of Contemporary Art, Kansas City, MO (Putto 2x2x4 permanent installation of sculpture and animation). He has experimented with a broad practice that includes performance, interactive computer programs (the sculptural user interface), digital modeling and fabrication, animation, and video. Rees' work with digital media has been written about and illustrated in books, articles, and catalogues for exhibitions. His talk at the Rothko Chapel, Houston, Texas is also published.",
+  "title": "Michael Rees (artist)",
+  "url": "https://en.wikipedia.org/wiki/Michael_Rees_(artist)"
  },
  "nina-kuo": {
   "retrieved": "2026-09-24",
@@ -228,6 +272,20 @@
   "title": "Nina Yankowitz",
   "url": "https://en.wikipedia.org/wiki/Nina_Yankowitz"
  },
+ "oliver-peterson": {
+  "image": {
+   "author": "118AF",
+   "file": "Oliver_Peterson.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Oliver_Peterson.jpg"
+  },
+  "retrieved": "2026-09-24",
+  "revid": 1372560337,
+  "text": "Oliver Peterson (born September 14, 1976) is an American artist based in the Hamptons, Long Island, New York, US.",
+  "title": "Oliver Peterson",
+  "url": "https://en.wikipedia.org/wiki/Oliver_Peterson"
+ },
  "patrick-lichty": {
   "retrieved": "2026-09-24",
   "revid": 1360716576,
@@ -262,12 +320,6 @@
   "text": "Sasha Stiles (born 1980) is an American artist and poet. After discovering natural language processing, she created the 2021 poetry collection Technelegy through an eponymous AI model, before presenting the 2025–2026 installation A Living Poem at the Museum of Modern Art. In addition to artificial intelligence, binary code and non-fungible tokens have been important aspects of her work.",
   "title": "Sasha Stiles",
   "url": "https://en.wikipedia.org/wiki/Sasha_Stiles"
- },
- "sean-mick": {
-  "retrieved": "2026-09-24",
-  "revid": 1360484781,
-  "skip": "'DJ Spooky' is a disambiguation page or another person: check the Wikipedia address in data/wikipedia-links.json or artists.json",
-  "title": "DJ Spooky"
  },
  "steve-miller": {
   "retrieved": "2026-09-24",

@@ -10,13 +10,13 @@
    "label": "Hello Brooklyn: Techspressionism 2024",
    "url": "https://techspressionism.com/brooklyn/",
    "reel_video": "Mzad3l4Xwxk",
-   "n_artists": 90
+   "n_artists": 91
   },
   "chelsea": {
    "label": "Hello Chelsea: Techspressionism 2025",
    "url": "https://techspressionism.com/chelsea/",
    "reel_video": "Mzad3l4Xwxk",
-   "n_artists": 90
+   "n_artists": 91
   },
   "chicago": {
    "label": "Techspressionism Chicago",
@@ -4010,10 +4010,21 @@
    "links": {
     "wikipedia": [
      "https://en.wikipedia.org/wiki/DJ_Spooky"
+    ],
+    "website": [
+     "http://djspooky.com/"
+    ],
+    "twitter": [
+     "https://twitter.com/djspooky"
+    ],
+    "instagram": [
+     "https://www.instagram.com/djspooky_official/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/paul-d-miller/",
    "exhibitions": {
+    "brooklyn": [],
+    "chelsea": [],
     "southampton": [
      "Paul D. Miller aka DJ SPOOKY, title, year, media, dimensions"
     ]
@@ -4770,16 +4781,10 @@
    "location": "Oberlin, USA",
    "links": {
     "website": [
-     "http://gregorylittle.org/",
-     "https://www.neginete.com/",
-     "https://www.stephenpare.art/"
+     "http://gregorylittle.org/"
     ],
     "instagram": [
-     "https://www.instagram.com/gregoryalittle/",
-     "https://instagram.com/verbonnet/"
-    ],
-    "wikipedia": [
-     "https://en.wikipedia.org/wiki/Patrick_Lichty"
+     "https://www.instagram.com/gregoryalittle/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/gregory-little/",
@@ -5410,18 +5415,10 @@
    "location": "Miami, USA",
    "links": {
     "website": [
-     "https://www.seanmick.com",
-     "http://djspooky.com/"
+     "https://www.seanmick.com"
     ],
     "instagram": [
-     "https://instagram.com/_seanmick/",
-     "https://www.instagram.com/djspooky_official/"
-    ],
-    "twitter": [
-     "https://twitter.com/djspooky"
-    ],
-    "wikipedia": [
-     "https://en.wikipedia.org/wiki/DJ_Spooky"
+     "https://instagram.com/_seanmick/"
     ]
    },
    "ts_profile": "https://techspressionism.com/exhibition/southampton/sean-mick/",
@@ -7059,7 +7056,7 @@
    "location": "North Bergen, USA",
    "links": {
     "wikipedia": [
-     "https://en.wikipedia.org/wiki/Michael_Rees"
+     "https://en.wikipedia.org/wiki/Michael_Rees_(artist)"
     ],
     "website": [
      "https://www.michaelrees.org/"
