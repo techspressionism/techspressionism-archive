@@ -4,7 +4,11 @@
 Source: private/archive-checklist.txt (the master checklist). The note has the two archive links under the title, then for each phase its
 open items followed by the recommendations. Done items are left out. Re-running replaces the note's text; it creates the note if it is missing.
 
-    python3 scripts/update-notes-checklist.py
+    python3 scripts/update-notes-checklist.py           # first read the note and apply Colin's edits to the master list, then rewrite the note
+    python3 scripts/update-notes-checklist.py --pull    # only read the note and apply his edits (no rewrite)
+
+Two-way, so nothing he does in the note is lost: an item he deleted from the note is marked done ([x]) in the master list; a line he added
+that is not in the master list is printed (Claude then files it under the right phase). Only run this on the Mac where Notes is signed in.
 """
 import html
 import re
@@ -77,6 +81,60 @@ def build_html(phases):
     return "\n".join(out)
 
 
+def item_texts(phases):
+    """The exact text each open item and recommendation has in the note -> the master-list line it came from."""
+    out = {}
+    for ph in phases:
+        for _, item in ph["open"]:
+            out[item.strip()] = item
+        for r in ph["recs"]:
+            out[r.strip()] = r
+    return out
+
+
+READ = '''
+with timeout of 300 seconds
+tell application "Notes"
+    tell account "iCloud"
+        if (count of (notes whose name is "%s")) = 0 then return ""
+        return plaintext of (first note whose name is "%s")
+    end tell
+end tell
+end timeout
+'''
+
+
+def pull():
+    """Compare the note with the master list. Returns (marked done, new lines)."""
+    r = subprocess.run(["osascript", "-e", READ % (TITLE, TITLE)], capture_output=True, text=True, timeout=350)
+    note = r.stdout
+    if not note.strip():
+        print("no note yet (or it could not be read): nothing to pull")
+        return [], []
+    lines = {re.sub(r"^[\u2022\-\*]\s*", "", l).strip() for l in note.splitlines() if l.strip()}
+    phases = parse()
+    known = item_texts(phases)
+    gone = [t for t in known if t not in lines]
+    headings = {TITLE, "Open items", "Recommendations", "Nothing open.", f"Staging: {STAGING} Live: {LIVE}", f"Staging: {STAGING}", f"Live: {LIVE}"}
+    heads = {f"Phase {ph['n']} - {nice(ph['title'])}" for ph in phases} | {sub for ph in phases for sub, _ in ph["open"] if sub}
+    new = [l for l in lines if l not in known and l not in headings and l not in heads and not l.startswith(("Staging:", "Live:"))]
+    if gone:
+        text = SRC.read_text()
+        for t in gone:
+            src = known[t].replace("Decide: ", "")
+            m = re.search(r"^\[[ ?]\] (?:\(R\) )?" + re.escape(src[:60]), text, re.M)
+            if m:
+                text = text[:m.start()] + "[x]" + text[m.start() + 3:]
+        SRC.write_text(text)
+        Path("/Users/colin/Desktop/Techspressionism-Archive-Checklist.txt").write_text(text)
+    print(f"from the note: {len(gone)} item(s) removed by Colin, marked done in the master list; {len(new)} new line(s)")
+    for t in gone:
+        print("  done:", t[:110])
+    for t in new:
+        print("  NEW:", t[:160])
+    return gone, new
+
+
 SCRIPT = '''
 with timeout of 600 seconds
 set theBody to read (POSIX file "%s") as «class utf8»
@@ -96,6 +154,13 @@ end timeout
 
 
 def main():
+    import sys
+    gone, new = pull()
+    if "--pull" in sys.argv:
+        return
+    if new:
+        print("New lines in the note are not in the master list yet: add them to private/archive-checklist.txt first (Claude does this), then run again.")
+        return
     body = build_html(parse())
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
         f.write(body)
