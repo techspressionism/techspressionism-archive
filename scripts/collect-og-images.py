@@ -12,7 +12,7 @@ Second source, for recordings with no local file: the featured image of the reco
 "/video/..." page that embeds it), found in the WordPress export (WP_EXPORT below) and fetched one at a time, politely, into
 raw/og-wp/. One that is not exactly 1200x630 is scaled to fit inside 1200x630 on white, never cropped. A featured image shared by
 several recordings (a generic one) is flagged in the report: it is not specific to that recording.
-Everything is reported in review/og-image-report.csv (type, number, title, video id, source, note).
+Last resort: the recording's YouTube thumbnail (assets/thumbnails), fitted the same way. Everything is reported in review/og-image-report.csv (type, number, title, video id, source, note).
 """
 import csv
 import importlib.util
@@ -142,7 +142,14 @@ def main():
             except Exception as ex:
                 report.append(head + ["default (OG.jpg)", f"WP featured image could not be fetched: {ex}"])
                 continue
-        report.append(head + ["default (OG.jpg)", "no picture found locally or on techspressionism.com"])
+        yt = ROOT / "assets" / "thumbnails" / f"{s['video_id']}.jpg"      # last resort before the default: the recording's own YouTube thumbnail
+        if yt.exists():
+            with Image.open(yt) as im:
+                if im.width >= 200:      # a 120 px one is YouTube's grey "no picture" placeholder
+                    fit_to_frame(im).save(dest, "JPEG", quality=90, optimize=True, progressive=True)
+                    report.append(head + ["YouTube thumbnail", f"{im.width}x{im.height}, fitted on white"])
+                    continue
+        report.append(head + ["default (OG.jpg)", "no picture found locally, on techspressionism.com or on YouTube"])
     with open(ROOT / "review" / "og-image-report.csv", "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["type", "number", "title", "video_id", "source", "note"])
