@@ -38,6 +38,7 @@ import lib_speakers
 from lib_speakers import is_not_speaker
 from lib_media import TYPES, label, slug  # noqa: E402
 import lib_seo  # noqa: E402
+import lib_wikipedia  # noqa: E402
 import lib_voicehints  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -115,7 +116,7 @@ def noindex():
 
 _RECORDING_PAGE = re.compile(r"^((?:salon|interview|roundtable|presentation)-[0-9]{3})\.html$")
 _ARTIST_PAGE = re.compile(r"^artist-(.+)\.html$")
-ASSET_PREFIXES = ("style.css", "thumbnails/", "thumbnails-small/", "pagefind/", "data/", "times/", "transcripts/", "llms.txt", "sitemap.xml")
+ASSET_PREFIXES = ("style.css", "artist-images/", "thumbnails/", "thumbnails-small/", "pagefind/", "data/", "times/", "transcripts/", "llms.txt", "sitemap.xml")
 
 
 CSS_VERSION = ""      # set in main() from the stylesheet's content
@@ -482,6 +483,7 @@ def build_header(corpus, active="", sid="", strip=True, h1=False, video_scope=Fa
 
 FONT_LINKS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,700;1,800&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
 LISTED = []          # the people who have a page: those heard or named in the recordings
+WIKI = {}            # artist id -> Wikipedia introduction / free picture (scripts/lib_wikipedia.py), refreshed at every build
 PEOPLE = []          # people directory (data/people.json) with archive statistics, set in main()
 PERSON_BY_NORM = {}  # normalised name (or alias) -> person
 ARTIST_COUNT = 0     # people listed by default under Artists (heard or mentioned in the recordings)
@@ -722,8 +724,16 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-section.synopsis h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin; margin-bottom widened .3rem->.8rem for more room before the synopsis text, per Colin */
+section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin; margin-bottom widened .3rem->.8rem for more room before the synopsis text, per Colin */
 .synopsis .syn-text { margin:0; line-height:1.55; }
+.synopsis .syn-help { margin:0 0 .6rem; font-size:.85rem; color:var(--muted); }   /* one short line under the Synopsis heading: how the links work (Colin 2026-09-24) */
+.video-desc { margin:.2rem 0 1rem; }
+.video-desc .vd-text p { margin:0 0 .7rem; line-height:1.55; }
+.video-desc .vd-text a { color:inherit; text-decoration:underline; text-decoration-color:var(--muted); text-underline-offset:2px; overflow-wrap:anywhere; }
+.js .video-desc.clamped .vd-text { max-height:9.3em; overflow:hidden; }   /* long descriptions: a few lines and Read more */
+.video-desc .vd-more { margin:.1rem 0 0; padding:0; border:0; background:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--accent); cursor:pointer; }
+.video-desc .vd-more[hidden] { display:none; }
+.artists-more { margin:.5rem auto 0; max-width:40rem; font-size:.92rem; color:var(--muted); }
 .synopsis a.syn-t { color:inherit; border-bottom:1px solid var(--accent); }
 .synopsis a.syn-t:hover { color:var(--accent); text-decoration:none; }
 .synopsis .syn-time { margin-left:.25rem; font-size:.75em; font-weight:700; color:var(--accent); white-space:nowrap; }
@@ -2365,7 +2375,7 @@ def build_session_page(entry, siblings=()):
         curator=curator,
         url=e(url),
         speakers=speakers_html,
-        synopsis=synopsis_html(entry),
+        synopsis=video_description_html(entry) + synopsis_html(entry),
         description=description_html(entry),
         flags=flags_html,
         read_actions=read_actions,
@@ -2913,6 +2923,14 @@ def build_person_page(p):
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
         parts.append(f'<p class="facts">{facts_html}</p>')
+    wiki = WIKI.get(p["id"])
+    if wiki and wiki.get("text"):      # "About this artist": Wikipedia's introduction, no links, credited with the retrieval date (Colin 2026-09-24)
+        when = datetime.date.fromisoformat(wiki["retrieved"])
+        paras_w = "".join(f"<p>{e(t)}</p>" for t in wiki["text"].split("\n\n") if t.strip())
+        parts.append(f'<section class="about-artist" data-pagefind-ignore><h2>About this artist</h2>{paras_w}'
+                     f'<p class="note wiki-credit">Source: <a href="{e(wiki["url"])}" target="_blank" rel="noopener">Wikipedia, &ldquo;{e(wiki["title"])}&rdquo;</a>, '
+                     f'text available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. '
+                     f'Retrieved {when.day} {when.strftime("%B %Y")}.</p></section>')
     if exhibitions:
         rows = []
         for slug, credits in exhibitions.items():
@@ -2982,6 +3000,17 @@ def build_person_page(p):
     if not (p["speaks"] or p["mentions"] or exhibitions):
         parts.append('<p class="note">Nothing from the recordings yet. The details above come from the artist index on techspressionism.com.</p>')
     body = "\n".join(parts)
+    img = (wiki or {}).get("image")
+    if img and (lib_wikipedia.IMG_DIR / f"{p['id']}.jpg").exists():      # a freely licensed Wikipedia picture: left column on desktop, on top on a phone
+        w_, h_ = jpeg_size(lib_wikipedia.IMG_DIR / f"{p['id']}.jpg") or (640, 640)
+        author = re.sub(r"\s+", " ", img.get("author") or "").strip()
+        author = (author[:117].rstrip() + "…") if len(author) > 120 else author
+        lic = f'<a href="{e(img["license_url"])}" target="_blank" rel="noopener">{e(img["license"])}</a>' if img.get("license_url") else e(img["license"])
+        cap = (f'{e(author) + ", " if author else ""}{lic}, via '
+               f'<a href="{e(img["page"])}" target="_blank" rel="noopener">Wikimedia Commons</a>')
+        photo = (f'<aside class="person-photo"><figure><img src="artist-images/{e(p["id"])}.jpg" width="{w_}" height="{h_}" '
+                 f'alt="Picture from the Wikipedia article on {e(p["name"])}" loading="lazy"><figcaption>{cap}</figcaption></figure></aside>')
+        body = f'<div class="person-cols has-photo">{photo}<div class="person-main">\n{body}\n</div></div>'
     head = build_header(NAV_CORPUS, "Artist")
     return (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{e(p["name"])} · Techspressionism Video Archive</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
@@ -2990,6 +3019,15 @@ def build_person_page(p):
 
 PERSON_CSS = """
 main.person { max-width:52rem; }
+main.person:has(.person-cols.has-photo) { max-width:66rem; }   /* room for the picture column */
+.person-photo figure { margin:0 0 1.2rem; }
+.person-photo img { display:block; width:100%; height:auto; border-radius:.3rem; }
+@media (max-width:47.99rem) { .person-photo img { width:auto; max-width:100%; max-height:20rem; } }   /* a phone: the picture on top, but not taller than a screenful */
+.person-photo figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); overflow-wrap:anywhere; }
+.person-photo figcaption a { color:inherit; text-decoration:underline; }
+@media (min-width:48rem) { .person-cols.has-photo { display:grid; grid-template-columns:15rem minmax(0,1fr); gap:2.2rem; align-items:start; } .person-photo { position:sticky; top:1rem; } }   /* left column on tablet and desktop; on a phone the picture simply comes first, above the details */
+.about-artist p { margin:0 0 .7rem; line-height:1.55; }
+.about-artist .wiki-credit { margin-top:.2rem; }
 main.person.category { max-width:84rem; }   /* wider: the category pages' two-column featured+list grid needs the room the plain person/about layout doesn't */
 .person h1 { margin:.2rem 0 .1rem; font-size:2.2rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
@@ -3074,7 +3112,7 @@ def build_category_page(stype, entries):
     when = fmt_date(featured.get("date_recorded"))
     when = f"published {when}" if date_is_estimate(featured) else when
     by = f' <span class="d">interviewed by {e(featured["interviewer"])}</span>' if featured.get("interviewer") else ""
-    excerpt = synopsis_html(featured)   # the full synopsis, same as on the recording page: heading, complete text, clickable timestamp links
+    excerpt = video_description_html(featured) + synopsis_html(featured)   # the full synopsis, same as on the recording page: heading, complete text, clickable timestamp links
     # everything else the recording page's own .side column shows below the synopsis -- participants, the
     # read-transcript/watch-with-transcript actions, the watch/print/download line, and the citation box --
     # replicated here too, so a visitor can do all of this straight from the category page, per Colin
@@ -3164,7 +3202,9 @@ def build_artists_page(corpus):
     counts named-only people for the nav link's own visibility check elsewhere, per Colin 2026-09-22."""
     speaking_count = sum(1 for p in LISTED if p["speaks"])
     body = (f'<div class="artists-page"><div class="artists-head"><h1>Artists</h1>'
-            f'<p class="d">{speaking_count} artists in the video archive.</p></div>'
+            f'<p class="d">{speaking_count} artists in the video archive.</p>'
+            f'<p class="artists-more">For the full list of artists in the Techspressionism community, visit the '
+            f'<a href="https://techspressionism.com/artists/">Techspressionism Artist Index (techspressionism.com/artists)</a>.</p></div>'
             f'{build_artist_directory_html()}</div>')
     page = canonical_url("artists/")
     desc = lib_seo.clip_text(f"Everyone who speaks in a Techspressionism Video Archive recording -- {speaking_count} artists, "
@@ -3404,6 +3444,34 @@ def description_html(entry):
             '<p class="desc-note">Background text from techspressionism.com, not written for the archive.</p></details>')
 
 
+VIDEO_DESCRIPTIONS = {}
+_vd = ROOT / "data" / "video-descriptions.json"
+if _vd.exists():
+    VIDEO_DESCRIPTIONS = json.loads(_vd.read_text())      # video id -> the narrative part of its YouTube description (scripts/extract-video-descriptions.py)
+
+
+def video_description_html(entry):
+    """"Video Description": the narrative text of the recording's YouTube description (no presenter/time-code lists), above the synopsis."""
+    text = VIDEO_DESCRIPTIONS.get(entry.get("video_id"))
+    if not text:
+        return ""
+    def para(p):
+        out, pos = [], 0
+        for m in re.finditer(r"https?://[^\s<>\"]+", p):
+            url = m.group(0).rstrip(".,;:)")
+            out.append(e(p[pos:m.start()]))
+            out.append(f'<a href="{e(url)}" target="_blank" rel="noopener nofollow">{e(url)}</a>')
+            pos = m.start() + len(url)
+        out.append(e(p[pos:]))
+        return "<p>" + "".join(out) + "</p>"
+    paras = "".join(para(p) for p in text.split("\n\n"))
+    return (f'<section class="video-desc" data-pagefind-ignore><h2>Video Description</h2><div class="vd-text">{paras}</div>'
+            '<button type="button" class="vd-more" hidden>Read more</button>'
+            "<script>(function(){var s=document.currentScript.parentNode,t=s.querySelector('.vd-text'),b=s.querySelector('.vd-more');"
+            "s.classList.add('clamped');if(t.scrollHeight>t.clientHeight+4){b.hidden=false;b.addEventListener('click',function(){s.classList.toggle('clamped');"
+            "b.textContent=s.classList.contains('clamped')?'Read more':'Show less';});}else s.classList.remove('clamped');})();</script></section>")
+
+
 def synopsis_html(entry):
     text = load_synopsis(entry, drafts=os.environ.get("TVA_SHOW_DRAFTS") == "1")
     if not text:
@@ -3448,7 +3516,7 @@ def synopsis_html(entry):
     # bold the leading "Salon 58, "Dreams"" (series + number + quoted title) most synopses open with, per Colin
     body = re.sub(r'^([A-Z][^&<]*?\d+, &quot;[^&]*?&quot;)', r"<strong>\1</strong>", body, count=1)
     tag = ' <span class="syn-draft">DRAFT: not yet reviewed, shown only on the test site</span>' if draft else ""
-    return (f'<section class="synopsis" data-pagefind-ignore><h2>Synopsis{tag}</h2><p class="syn-text">{body}</p>'
+    return (f'<section class="synopsis" data-pagefind-ignore><h2>Synopsis{tag}</h2><p class="syn-help">Click a time code to jump to that point in the video, or an artist&rsquo;s name to learn more about them.</p><p class="syn-text">{body}</p>'
             '<button type="button" class="syn-more" hidden>Read more</button>'
             '<p class="syn-note">This summary was written with AI assistance from the recording&rsquo;s transcript and reviewed by the archive&rsquo;s editor. '
             'The timestamps link to the moments discussed. Please check details against the video.</p></section>')
@@ -3925,6 +3993,14 @@ def main():
                                                     f"{slug(entry)}.html", seo_for_entry(entry)), 1)
         write_moved_stub(slug(entry), PAGE_NAMES[slug(entry)])
 
+    if os.environ.get("TVA_WIKIPEDIA_OFFLINE") == "1":
+        WIKI.update(lib_wikipedia.refresh(LISTED, offline=True))
+    else:
+        WIKI.update(lib_wikipedia.refresh(LISTED))       # checks each article's revision; only changed ones are fetched again
+    (SITE_DIR / "artist-images").mkdir(exist_ok=True)
+    for pid, w in WIKI.items():
+        if w.get("image") and (lib_wikipedia.IMG_DIR / f"{pid}.jpg").exists():
+            shutil.copy2(lib_wikipedia.IMG_DIR / f"{pid}.jpg", SITE_DIR / "artist-images" / f"{pid}.jpg")
     for pp in LISTED:                                   # only artists heard or named in the recordings have a page
         write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
                                                  f"artist-{pp['id']}.html", seo_for_person(pp)), 2)

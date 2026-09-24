@@ -315,7 +315,7 @@ def main():
     head = ["review", "display name", "first name", "last name", "country", "city", "state or region", "NO WORKING LINKS (YES/NO)", "ALL EMAILS (found online first, then your lists newest first)", "email found online (public)",
             "online email source URL", "emails from your lists (newest first)", "list, date and how it matched", "POSSIBLE list matches (check by hand)",
             "on the Southampton (SAC) artists list", "section on the index",
-            "TS website profile URL", "archive page (final address)", "archive page (test address)", "archive: recordings speaking", "archive: mentions",
+            "TS website profile URL", "archive page (final address)", "archive page (test address)", "in the archive artist index (YES/NO)", "archive: recordings speaking", "archive: mentions",
             "exhibitions on techspressionism.com", "Wikipedia"]
     for kind, label in columns:
         head.append(f"{label} (working)")
@@ -410,6 +410,7 @@ def main():
                "TS website profile URL": (p or {}).get("ts_profile") or ent["ts_link"],
                "archive page (final address)": f"{FINAL_BASE}artist/{p['id']}/" if p and p["id"] in pages else "",
                "archive page (test address)": f"{TEST_BASE}artist/{p['id']}/" if p and p["id"] in pages else "",
+               "in the archive artist index (YES/NO)": "YES" if p and p["id"] in pages else "NO",      # for an email list of just the artists shown in the archive's Artists index (Colin 2026-09-24)
                "archive: recordings speaking": len(live_p["speaks"]) if live_p else 0, "archive: mentions": len(live_p["mentions"]) if live_p else 0,
                "exhibitions on techspressionism.com": "; ".join(live_p["exhibition_labels"].get(s, {}).get("label", s) for s in live_p["exhibitions"]) if live_p else "",
                "Wikipedia": "\n".join(dict.fromkeys(wiki))}

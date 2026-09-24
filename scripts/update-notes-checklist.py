@@ -11,6 +11,7 @@ Two-way, so nothing he does in the note is lost: an item he deleted from the not
 that is not in the master list is printed (Claude then files it under the right phase). Only run this on the Mac where Notes is signed in.
 """
 import html
+import json
 import re
 import subprocess
 import tempfile
@@ -18,6 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "private" / "archive-checklist.txt"
+SNAPSHOT = ROOT / "private" / "notes-synced.json"      # the item texts written to the note last time: only these can count as "removed by Colin"
 TITLE = "Techspressionism Archive To Do List"
 STAGING = "https://techspressionism.github.io/techspressionism-archive/"
 LIVE = "https://techspressionism.com/archive/"
@@ -114,7 +116,8 @@ def pull():
     lines = {re.sub(r"^[\u2022\-\*]\s*", "", l).strip() for l in note.splitlines() if l.strip()}
     phases = parse()
     known = item_texts(phases)
-    gone = [t for t in known if t not in lines]
+    written = set(json.loads(SNAPSHOT.read_text())) if SNAPSHOT.exists() else set()
+    gone = [t for t in known if t in written and t not in lines]      # items added to the master list since the last write are not in the note yet: not "removed"
     headings = {TITLE, "Open items", "Recommendations", "Nothing open.", f"Staging: {STAGING} Live: {LIVE}", f"Staging: {STAGING}", f"Live: {LIVE}"}
     heads = {f"Phase {ph['n']} - {nice(ph['title'])}" for ph in phases} | {sub for ph in phases for sub, _ in ph["open"] if sub}
     new = [l for l in lines if l not in known and l not in headings and l not in heads and not l.startswith(("Staging:", "Live:"))]
@@ -161,12 +164,15 @@ def main():
     if new:
         print("New lines in the note are not in the master list yet: add them to private/archive-checklist.txt first (Claude does this), then run again.")
         return
-    body = build_html(parse())
+    phases = parse()
+    body = build_html(phases)
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
         f.write(body)
         path = f.name
     r = subprocess.run(["osascript", "-e", SCRIPT % (path, TITLE, TITLE)], capture_output=True, text=True, timeout=650)
     print((r.stdout or r.stderr).strip())
+    if r.returncode == 0:
+        SNAPSHOT.write_text(json.dumps(sorted(item_texts(phases))))
     Path(path).unlink(missing_ok=True)
 
 
