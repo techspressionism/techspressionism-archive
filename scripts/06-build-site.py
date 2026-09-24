@@ -1102,7 +1102,7 @@ CATEGORY_PLAYER_JS = """<script>
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
-        playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, controls: 0, fs: 0, disablekb: 1, iv_load_policy: 3 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1, mute: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
+        playerVars: tapMode ? { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0 } : { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: 1 },   // phones and tablets (iOS and Android) refuse to start this embed from a tap on the poster -- the tap has to land on the YouTube player itself -- so there it loads with sound on and a "tap play" label; desktop keeps autoplay (Colin, 23 September 2026)
         events: { onReady: function (ev) { try { ev.target.unloadModule('captions'); ev.target.unloadModule('cc'); } catch (e) {} },
                   onStateChange: function (ev) { if ((ev.data === 1 || ev.data === 3) && tapLabel) tapLabel.hidden = true; } }
       });
@@ -1461,29 +1461,13 @@ PLAYER_JS = """<script>
   // gets its own "inside a tap" moment at all -- the video is started muted instead (phones allow that) and a line
   // says how to turn the sound on; (3) if even that is refused, a line asks for a tap on the video's own play button.
   function tryPlay(deferred) {
-    if (deferred) {         // running from the onReady queue, outside the tap that asked for it -- an unmuted start
-                             // would just be refused (and 1.2s wasted finding that out), so go straight to muted,
-                             // which phones allow with no gesture at all. This was the actual "Watch with transcript
-                             // doesn't autoplay" bug: the player usually isn't ready the instant the button is
-                             // tapped, so this path -- not the direct one below -- is the common case on a phone.
-      player.mute(); player.playVideo();
-      setTimeout(function () {
-        var s = player.getPlayerState();
-        if (s === 1 || s === 3) showHint('Playing without sound: tap the video, then the speaker icon, to turn the sound on.');
-        else { player.unMute(); showHint('Tap the \u25B6 on the video to start it. The transcript then scrolls along.'); }
-      }, 800);
-      return;
-    }
+    // (Colin 2026-09-23: "never mute the video" -- the video is only ever started with its sound on. If the browser refuses
+    // that, a line asks for a tap on the video's own play button instead.)
     player.playVideo();
     setTimeout(function () {
       var s1 = player.getPlayerState();
       if (s1 === 1 || s1 === 3) return;
-      player.mute(); player.playVideo();
-      setTimeout(function () {
-        var s2 = player.getPlayerState();
-        if (s2 === 1 || s2 === 3) showHint('Playing without sound: tap the video, then the speaker icon, to turn the sound on.');
-        else { player.unMute(); showHint('Tap the \u25B6 on the video to start it. The transcript then scrolls along.'); }
-      }, 1200);
+      showHint('Tap the \u25B6 on the video to start it. The transcript then scrolls along.');
     }, 1200);
   }
   if (('ontouchstart' in window) || navigator.maxTouchPoints > 0) {
@@ -1542,9 +1526,7 @@ PLAYER_JS = """<script>
     window.onYouTubeIframeAPIReady = function () {
       document.getElementById('player').innerHTML = '<div id="yt"></div>';
       var vars = { rel: 0, playsinline: 1, modestbranding: 1, cc_load_policy: 0, autoplay: autoplayOnLoad ? 1 : 0 };
-      if (autoplayOnLoad) vars.mute = 1;   // baked in from construction, not a later mute() call -- see ensureFreshPlayer() above for why
       if (pendingSeek !== null) vars.start = pendingSeek;
-      if (TAP_MODE) { vars.controls = 0; vars.fs = 0; vars.disablekb = 1; vars.iv_load_policy = 3; }   // touch: hide YouTube's own controls (title/share/Watch-on-YouTube links etc.) -- the page's buttons run the video; only the big play button is left to tap (Colin 2026-09-23)
       player = new YT.Player('yt', {
         videoId: vid, width: '100%', height: '100%',
         playerVars: vars,
