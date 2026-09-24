@@ -673,8 +673,11 @@ main.watch-page { max-width:84rem; }
 .stickyheader header.site { padding-top:1rem; padding-bottom:2.2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough. Both widened again later that day -- the home link/language selector sat too tight against the top of the sticky bar */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .pin-bar { display:none; }
-header.site .hsearch.scoped { display:flex; align-items:stretch; }   /* video and category pages: a red "in this video" box with the checkbox is locked to the right end, the input takes the rest (Colin 2026-09-23) */
-header.site .hsearch.scoped input[type="search"] { flex:1 1 auto; width:auto; min-width:0; font-size:.8rem; padding-left:2.3rem; background-size:1rem; background-position:.75rem center; padding-right:.4rem; }
+@media (pointer: coarse) {   /* iPhone/Android zoom the page in when a field with text smaller than 16px gets focus: every field is 16px on a touch screen so tapping the search box never zooms (Colin 2026-09-24) */
+  input:not([type="checkbox"]):not([type="radio"]):not([type="button"]):not([type="submit"]), select, textarea { font-size:16px !important; }
+}
+header.site .hsearch.scoped { display:flex; align-items:stretch; min-width:0; }   /* video and category pages: a red "in this video" box with the checkbox is locked to the right end, the input takes the rest (Colin 2026-09-23) */
+header.site .hsearch.scoped input[type="search"] { flex:1 1 0; width:0; min-width:0; font-size:.8rem; padding-left:2.3rem; background-size:1rem; background-position:.75rem center; padding-right:.4rem; }
 header.site .hsearch .vscope { flex:none; box-sizing:border-box; display:flex; align-items:center; justify-content:center; gap:.5rem; margin:0; padding:0 .8rem; background:var(--accent); color:#fff; border:2px solid var(--accent); border-left:0; font-size:.9rem; font-weight:700; line-height:1.1; white-space:nowrap; cursor:pointer; }
 header.site .hsearch label.vscope input[type="checkbox"] { width:1.1rem; height:1.1rem; min-width:0; margin:0; padding:0; flex:none; border:0; accent-color:#fff; cursor:pointer; }
 .vsearch { background:var(--card); border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin:0 -1.25rem 1rem; padding:.7rem 1.25rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 0px) + .5rem); }
