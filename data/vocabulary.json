@@ -733,6 +733,15 @@
       ],
       "whole_word": true,
       "note": "Interview 28 (Sasha Stiles), same sentence as the Ed Ruscha fix: 'artists like Ed Rucher and Baldassari, and Jenny Holzer...' -- a well-known conceptual artist, misspelled; not in the community artist index so never checked by the fuzzy name-matcher. Inferred correction (not explicitly reported by Colin), flagged for his review."
+    },
+    {
+      "canonical": "Spalter",
+      "category": "person_surname",
+      "known_asr_variants": [
+        "Spalder"
+      ],
+      "whole_word": true,
+      "notes": "Anne Morgan Spalter / Michael Spalter; Whisper heard 'Spalder' in Salon 11 and Salon 51 (Colin, 24 Sep 2026: 'Spalder should be Spalter everywhere')."
     }
   ]
 }

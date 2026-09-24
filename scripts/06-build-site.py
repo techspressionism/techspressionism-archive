@@ -811,9 +811,14 @@ a.suggest:hover { border-color:var(--accent); color:var(--accent); text-decorati
 .search-sort { display:none; float:right; margin:0; text-align:right; font-size:.9rem; }   /* floated right so it shares the same visual line as "N results for..." (deep inside #search's own managed DOM, not a true flex sibling) instead of sitting in its own row above it -- and out of normal flow entirely when hidden until a search happens, so it reserves no space either way; per Colin 2026-09-22 */
 @media (max-width:44.99rem) { .search-sort { float:none; text-align:left; margin:0 0 .4rem; } }   /* phone: the float-shares-a-line trick above didn't leave "N results for..." and Sort by enough room, wrapping into an overlapping mess that also made the dropdown unclickable (it was floated behind the results message in paint order). Its own full-width row instead, per Colin 2026-09-23 ("should be on two lines... the sort dropdown does not work when I click it"). */
 body.searching .search-sort { display:block; }
+@media (min-width:45rem) {   /* tablet and desktop: "Sort by" sits on the same line as "N video search results", locked to the right; JS sets --sort-top from where that line actually is (a phone keeps them on two lines) */
+  body.searching .search-sort { float:none; height:0; margin:0; position:relative; z-index:3; }
+  .search-sort label { position:absolute; right:0; top:var(--sort-top, 2.3rem); margin:0; white-space:nowrap; }
+  #search .pagefind-ui__message { padding-right:15rem; }
+}
 #artist-hit[hidden] { display:none; }
 #artist-hit { margin:0 0 .2rem; }
-.artist-card { display:flex; align-items:center; gap:.9rem; margin:1.1rem 0 1.3rem; }   /* an artist's own page, first above the results: just the picture (if there is one), the name, "View artist page" after it, and the details underneath (Colin 2026-09-24) */
+.artist-card { display:flex; align-items:center; gap:.9rem; margin:.3rem 0 1rem; }   /* an artist's own page, first above the results: just the picture (if there is one), the name, "View artist page" after it, and the details underneath (Colin 2026-09-24) */
 .artist-card img { width:3.6rem; height:3.6rem; flex:none; border-radius:50%; object-fit:cover; background:#eee; }
 .artist-card .ac-body { min-width:0; }
 .artist-card .ac-line { display:flex; flex-wrap:wrap; align-items:baseline; gap:.15rem .9rem; }
@@ -961,7 +966,8 @@ header.site .browse-links a[aria-current="true"] { color:var(--fg); font-weight:
   body.home .stickyheader { display:none !important; }   /* home's sticky header exists only for mobile parity with every other page -- tablet/desktop home never had one and still doesn't (Colin, 23 September 2026: "do not change the tablet or desktop view of the homepage at all") */
 }
 body.home main { max-width:44rem; width:100%; margin:0 auto; }
-body.home.searching main { max-width:60rem; }   /* the search results (SERP) need more room than the landing page's search box -- 44rem was tight enough that the Watch/Copy Citation/Citation Format row could wrap, per Colin 2026-09-23 */
+body.home.searching main { max-width:60rem; }
+@media (min-width:45rem) { body.home.searching header.site .wrap { padding-bottom:.5rem; } body.home.searching main { padding-top:.4rem; } }   /* results start closer under the category links (Colin 2026-09-24) */   /* the search results (SERP) need more room than the landing page's search box -- 44rem was tight enough that the Watch/Copy Citation/Citation Format row could wrap, per Colin 2026-09-23 */
 @media (max-width:44.99rem) {
   body.home .wpstrip { display:none; }   /* the desktop/tablet-only standalone copy -- mobile shows the merged header.site .hright > .wpgroup copy instead (build_header's h1 dual-copy), matching every other page's mobile header exactly (Colin, 23 September 2026) */
 }
@@ -2648,7 +2654,16 @@ window.addEventListener('DOMContentLoaded', () => {{
 
   // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
   const searchBox = document.getElementById("search");
-  new MutationObserver(() => enhanceCitations(searchBox)).observe(searchBox, {{ childList: true, subtree: true }});
+  const sortBox = document.querySelector(".search-sort");
+  function alignSort() {{
+    if (!sortBox || window.innerWidth < 720) return;
+    const msg = searchBox.querySelector(".pagefind-ui__message"), label = sortBox.querySelector("label");
+    if (!msg || !label) return;
+    const lineH = Math.min(msg.offsetHeight, 40);
+    sortBox.style.setProperty("--sort-top", Math.max(0, msg.getBoundingClientRect().top - sortBox.getBoundingClientRect().top + (lineH - label.offsetHeight) / 2) + "px");
+  }}
+  new MutationObserver(() => {{ enhanceCitations(searchBox); alignSort(); }}).observe(searchBox, {{ childList: true, subtree: true }});
+  window.addEventListener("resize", alignSort);
   function filterCount(panel) {{
     let n = 0;
     for (const block of panel.querySelectorAll(".pagefind-ui__filter-block")) {{

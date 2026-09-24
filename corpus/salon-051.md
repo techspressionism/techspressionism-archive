@@ -213,7 +213,7 @@ Yeah. Let's see here. Well, not just, not just mid journey. I've been working in
 
 And kind of dealing with the idea of robotic drawing robotic mark making and that sort of thing. And the idea that we, most of our machines are most of our machines and most of our pets are all from some sort of, you know, Marshall lineage. But about 2018. I, I have a, I have an iPad. And one thing I'm very interested in is like mind versus mind is generator and machine is generator.
 
-And, you know, a lot of this has to do with my fascination with automatism coming from the data's and surrealists. And my background is Japanese my second language and calligraphy training and that and so what I do is I just started every day started cranking through, you know, three or four calligraphy is every day in my life. And I'm like, And Spalder and Carla Gannis were doing a lot of work in Playform. So I knew of Mr.
+And, you know, a lot of this has to do with my fascination with automatism coming from the data's and surrealists. And my background is Japanese my second language and calligraphy training and that and so what I do is I just started every day started cranking through, you know, three or four calligraphy is every day in my life. And I'm like, And Spalter and Carla Gannis were doing a lot of work in Playform. So I knew of Mr.
 
 Algenal's work in Generator of Vengeance. So I gave him a call and I became one of the Playform people. And so I had about like three, four thousands of these pieces that I'd done. And I fed them into the engine and started coming up with these other pieces. In other words, trying to see whether I could find areas of commonality in my stuff.
 
