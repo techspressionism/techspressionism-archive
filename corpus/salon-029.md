@@ -106,7 +106,7 @@ Think I've covered quite a few of them and if I didn't get to your piece. And so
 
 ## Colin Goldberg [22:53](https://www.youtube.com/watch?v=ADjcjvSQViE&t=1373s)
 
-For all you guys that came in late and thank you Davo. The show is now live at Expressionism.com. It will reside there until the end of the year at which point it will be archived back at the permanent address for the show which is Expressionism.com slash TS 2021. And each artist is going to be invited that's here. If you haven't put your name in the chat and you want to talk about your work. Just drop your name in the chat. And we're going to go through in the order that they appeared in the chat. I think Nina had mentioned that she had a had a engagement.
+For all you guys that came in late and thank you Davo. The show is now live at Expressionism.com. It will reside there until the end of the year at which point it will be archived back at the permanent address for the show which is Expressionism.com slash TS 2021. And each artist is going to be invited that's here. If you haven't put your name in the chat and you want to talk about your work. Just drop your name in the chat. And we're going to go through in the order that they appeared in the chat. I think Nina had mentioned that she had a had an engagement.
 
 So, I think we could lead off with her but we're going to give each artist three minutes, I'm going to be the timekeeper so when it hits two minutes I'm just going to jump in and say one minute, one minute, and that'll let you know that there's. It's time to start wrapping it up.
 

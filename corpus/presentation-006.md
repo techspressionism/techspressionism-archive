@@ -285,7 +285,7 @@ But in many ways, it's the same thing all over the world. But one of the things 
 
 ## Unattributed [46:12](https://www.youtube.com/watch?v=V3NO6tMIiPU&t=2772s)
 
-It's not like you're trying to say, like, it's not an varioy. Something interesting, I mean it's kept, let's say, catching my attention quickly, because at the same time I was interested in the pictures, especially from the Earth and different, let's say, galaxies and planets. Yeah, it was also cool at the same time with the joking pictures. Yeah.
+It's not like you're trying to say, like, it's not a varioy. Something interesting, I mean it's kept, let's say, catching my attention quickly, because at the same time I was interested in the pictures, especially from the Earth and different, let's say, galaxies and planets. Yeah, it was also cool at the same time with the joking pictures. Yeah.
 
 So, sorry, back to you, Roz. No, that's great.
 

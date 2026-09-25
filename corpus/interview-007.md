@@ -729,7 +729,7 @@ But I wanted to show- No, we have a little time.
 
 ## Michael Pierre Price [01:05:57](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=3957s)
 
-Okay. I wanted to show a few distinct pieces of my actual art based on all this. So I'm getting around to it. So in 2018, I applied for a artist call for a show that was called The Art of the Cosmos. It was an international show that was tied to or it was going to be tied to the 30 year anniversary of the launch of the Hubble telescope.
+Okay. I wanted to show a few distinct pieces of my actual art based on all this. So I'm getting around to it. So in 2018, I applied for an artist call for a show that was called The Art of the Cosmos. It was an international show that was tied to or it was going to be tied to the 30 year anniversary of the launch of the Hubble telescope.
 
 So I did a very abstract piece as my, one of the things that I wanted to submit to them, very abstract in nature, but to me tied in very well. So these are three different fractal pieces in an overall triptych that I call, The Enigma of the Cosmos.
 

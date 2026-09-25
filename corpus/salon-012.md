@@ -35,7 +35,7 @@ He's going to be our, essentially, our timekeeper. We've gotten a little lax on 
 
 Oh, how the job titles change so fast. All right. So, typical format is, first, we have our five presenters, our five art presenters. Among them today, we have Colin and... I actually wrote this down. I've misplaced it. Colin, Michael Price, Randy, and... Apparently, I did not write down the other two people. I know Michael Rees is in the lineup. Michael Rees, yeah.
 
-And... Carter. Carter. Sorry. Okay. So, Carter, Michael Rees, Michael Price, Colin, and... And Randy. So, those are going to be our five presenters for the day. After the presentations, we will have kind of a introduce yourself, general discussion kind of time, go over what's going on with the movements, the content we're producing, all that good stuff. All right. Sound good to everybody?
+And... Carter. Carter. Sorry. Okay. So, Carter, Michael Rees, Michael Price, Colin, and... And Randy. So, those are going to be our five presenters for the day. After the presentations, we will have kind of an introduce yourself, general discussion kind of time, go over what's going on with the movements, the content we're producing, all that good stuff. All right. Sound good to everybody?
 
 And we can dive right into our first presentation, which we're going to be handing that off to Carter. Hi. All right. Okay. Yeah, before. Let me... Thank you.
 
@@ -291,7 +291,7 @@ It's crazy. We might have to go back to drawing and painting or something. Nah. 
 
 Was selling an NFT and I looked at it like what is he selling you know what is he making his NFT was that if you buy the NFT you get Mark Cuban to do a little infomercial about your stuff you know what I mean so the actual NFT is like purchasing is. You know influencer. Time you know which is really interesting I mean people are selling all sorts of stuff and I think the NFT is just a way of tokenizing. Values to like you know I don't know that it necessarily even needs to be. I mean a lot of the work on wearable is really like to me that.
 
-The NFC they're like the digital equivalent of Pokemon cards and I was talking to someone recently about the whole phenomenon of people selling like NBA dunks and stuff like that it was Steve Miller actually that said like you know. These are what today's baseball cards are you know instead of kids trading baseball cards they're going to be like oh I have Michael Jordan's dunk you know from. 2013. When they were playing the next whatever and it's X amount of dollars and then they'll trade it with their other friend for something else you know.
+The NFC they're like the digital equivalent of Pokémon cards and I was talking to someone recently about the whole phenomenon of people selling like NBA dunks and stuff like that it was Steve Miller actually that said like you know. These are what today's baseball cards are you know instead of kids trading baseball cards they're going to be like oh I have Michael Jordan's dunk you know from. 2013. When they were playing the next whatever and it's X amount of dollars and then they'll trade it with their other friend for something else you know.
 
 ## Michael Pierre Price [01:35:47](https://www.youtube.com/watch?v=colPPMiP6gk&t=5747s)
 

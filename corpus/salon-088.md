@@ -595,7 +595,7 @@ Thank you. Colleen. Shall we go ahead with the other presentations.
 
 Sure you know I did. I know Sahar had asked me. You know, if there'd be time for any of the other artists to present and you know, looks like we have about a half an hour left. So you know, she could start us off. And then, if there's anyone else that wants to share some of their work. You know. The only thing that I ask ideally is that it somehow is related to this idea or topic of education. In some way it could be work that you did as a student or work that you've done with students, or even work that, you know is created as a result of you know, an influence that was from a teacher or something like that, you know, just some way to weave it in. I did also want to remark that, you know. So this idea of taking a digital file and passing it back and forth to create a collaboration.
 
-You know, it was something that Davo Davonte Bradley came up with, and his inspiration for that was the collaboration between Andy Warhol and Jean-michel Basquiat, in which they made very large paintings together and took turns working on the canvases. So it's really interesting to see how you know this idea Evolved where you know it came from in terms of the roots of the idea and where it's at today. So just kind of very cool to see the flow. And certainly I encourage anybody on this zoom and watching it on Youtube to go to the Techspressionism website. And under exhibitions there's Collab one and Collab 2, and that those shows have work.
+You know, it was something that Davo Davonte Bradley came up with, and his inspiration for that was the collaboration between Andy Warhol and Jean-michel Basquiat, in which they made very large paintings together and took turns working on the canvases. So it's really interesting to see how you know this idea Evolved where you know it came from in terms of the roots of the idea and where it's at today. So just kind of very cool to see the flow. And certainly I encourage anybody on this zoom and watching it on YouTube to go to the Techspressionism website. And under exhibitions there's Collab one and Collab 2, and that those shows have work.
 
 By many of the artists. Here in this zoom that were passed back and forth. So those were the original collaborative exhibitions that came out of the Techspressionist community. And they actually are. You know, there's something that can be experienced in VR through a platform called Kunst matrix. So they're really interesting exhibitions. At any rate, I'm gonna open it up to Sahar and yeah, feel free to share your work with us. And thank you. If you could tell us where you're zooming in from, also, that'd be great.
 
@@ -659,7 +659,7 @@ I was wondering, is it? Is it also rendering out 3D. Models.
 
 ## Sahar Moussavi [59:56](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3596s)
 
-No, but if you render like you like what you did, you can export it as a Obj file or Glv.
+No, but if you render like you like what you did, you can export it as an Obj file or Glv.
 
 ## lee day [01:00:06](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3606s)
 
@@ -867,7 +867,7 @@ Yeah, it's probably good.
 
 ## Colin Goldberg [01:20:34](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4834s)
 
-Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on Youtube and get some new artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to decide on it.
+Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on YouTube and get some new artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to decide on it.
 
 ## Allen Hirsh [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
 

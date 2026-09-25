@@ -165,7 +165,7 @@ The idea is actually, I mean, if you're going to. Give people an outlet for thei
 
 ## Frank Gillette [19:59](https://www.youtube.com/watch?v=RoCFEGxcw4Y&t=1199s)
 
-There are two phases in digital technology. One began in, let's see, let me get the dates right. So it's, this is a classical position here. Began in 80, 81 when I was a artist in residence at the Art Institute in San Francisco. And I convinced the director of the Art Institute and the president, Stephen Goldstein, I don't know if you know him or not, but he's retired since.
+There are two phases in digital technology. One began in, let's see, let me get the dates right. So it's, this is a classical position here. Began in 80, 81 when I was an artist in residence at the Art Institute in San Francisco. And I convinced the director of the Art Institute and the president, Stephen Goldstein, I don't know if you know him or not, but he's retired since.
 
 And he said, well, what do you want to do? I said, I want to start the, at that time, video digital technology was very primitive. And so we work with what you got and an institute or was an institute as an extension of a corporation. It's called Safari. Are you familiar with what Safari was? Well, Safari got wind of it through Stephen, I propose.
 

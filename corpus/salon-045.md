@@ -126,7 +126,7 @@ Gotcha. All right. Let me try to share here.
 
 ## Giovanna Sun [14:48](https://www.youtube.com/watch?v=pxavr84wDJs&t=888s)
 
-This is the recent program I use. How I use the mic. It's a collab with Google. So how it works is a live. Like when you type some sentence and you can upload your own image. So the image will generate is a artificial intelligence. AI. I think the most important thing is I feel like you need to solve some really good image. And it's very funny because. I also have several. But unfortunately, I couldn't share my screen here.
+This is the recent program I use. How I use the mic. It's a collab with Google. So how it works is a live. Like when you type some sentence and you can upload your own image. So the image will generate is an artificial intelligence. AI. I think the most important thing is I feel like you need to solve some really good image. And it's very funny because. I also have several. But unfortunately, I couldn't share my screen here.
 
 But it's very interesting that when you share when you want to generate something. If you find a good source of image that in another word, you have to give them a good DNA. It is not like if you give them the pool is what generate like a pool. So I still have a. It's not like a totally artificial intelligence.
 
@@ -170,7 +170,7 @@ All right. So. Just for anyone who just came in, if you do want to share anythin
 
 ## Tommy Mintz [19:48](https://www.youtube.com/watch?v=pxavr84wDJs&t=1188s)
 
-Hi, Colin. I'm on two machines. I'm going to try to share my screen from my computer and let me know. This is working. See. Can everybody hear me as this other share is going on? So, gosh, I couldn't pass up. A little bit of a discussion of Walter Benjamin. Such a interesting moment to just read and reconsider Valeray and Walter Benjamin. Right. Can I just read a little bit? I'm sorry. I'm going to just take up some of my time, not even talking about my work. But I highlighted this. I think I should just read this part of the introduction to the work of art and the mechanical reproduction, as we call it now, which is this quote of Valeray that starts and just to think about this is 1931. He's writing it right. Profound changes are impending in the ancient craft of the beautiful in all the arts.
+Hi, Colin. I'm on two machines. I'm going to try to share my screen from my computer and let me know. This is working. See. Can everybody hear me as this other share is going on? So, gosh, I couldn't pass up. A little bit of a discussion of Walter Benjamin. Such an interesting moment to just read and reconsider Valeray and Walter Benjamin. Right. Can I just read a little bit? I'm sorry. I'm going to just take up some of my time, not even talking about my work. But I highlighted this. I think I should just read this part of the introduction to the work of art and the mechanical reproduction, as we call it now, which is this quote of Valeray that starts and just to think about this is 1931. He's writing it right. Profound changes are impending in the ancient craft of the beautiful in all the arts.
 
 There is a physical component which can no longer be considered or treated as it used to be. Right. The last 20 years. I'm sorry. Which cannot remain unaffected by our modern knowledge and power. Right. The last 20 years neither matter nor space nor time has been what it was from time immemorial. And I feel like that's the part where we're sort of doing digital and beyond this sort of consideration of space and time and how technology.
 

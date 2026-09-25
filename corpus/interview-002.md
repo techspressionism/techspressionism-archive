@@ -101,7 +101,7 @@ There was a set that had sort of like photographic content and there were these 
 
 ## Anne Spalter [10:46](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=646s)
 
-But I did some where I combined airplane images with Hans Hoffman paintings, speaking of color. And that came out really, so that's something I could screen share if you want.
+But I did some where I combined airplane images with Hans Hofmann paintings, speaking of color. And that came out really, so that's something I could screen share if you want.
 
 ## Colin Goldberg [10:56](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=656s)
 
@@ -109,7 +109,7 @@ Yeah, absolutely.
 
 ## Anne Spalter [10:57](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=657s)
 
-Let's see, they were in a show on artsy. Hold on, let me bring up the page. I have some pages up already, but I didn't know. I'll just share my whole screen. I think that'll be easiest. So this is a show I did with the company Playform and through artsy called the dream within a dream with a bunch of other really great artists and the pieces I had in it were these airplane pieces. And they're based on photographs of airplanes from the web, and then it was an AI algorithm that does style transfer so the style was Hans Hoffman paintings.
+Let's see, they were in a show on artsy. Hold on, let me bring up the page. I have some pages up already, but I didn't know. I'll just share my whole screen. I think that'll be easiest. So this is a show I did with the company Playform and through artsy called the dream within a dream with a bunch of other really great artists and the pieces I had in it were these airplane pieces. And they're based on photographs of airplanes from the web, and then it was an AI algorithm that does style transfer so the style was Hans Hofmann paintings.
 
 And I thought it actually did a really great job, taking the colors from his paintings and repurposing. Them.
 
@@ -135,7 +135,7 @@ Yeah remember Patrick look he had mentioned that he was doing work with Playform
 
 ## Anne Spalter [12:45](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=765s)
 
-Yeah so the inputs to it the inspiration set. It loads in here yet are a bunch of airplanes that I just grabbed from the web. And similarly, screen grabbed a bunch of Hans Hoffman paintings. And then you can see the process that it goes through. So it starts out kind
+Yeah so the inputs to it the inspiration set. It loads in here yet are a bunch of airplanes that I just grabbed from the web. And similarly, screen grabbed a bunch of Hans Hofmann paintings. And then you can see the process that it goes through. So it starts out kind
 
 ## Colin Goldberg [13:13](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=793s)
 
@@ -389,7 +389,7 @@ Which were bizarre to me before. But now it's sort of like evolution of the GIF,
 
 Yeah, it does remind me of that. Like I got involved in web work right at the beginning of the web, you know, and was doing director based. CD-ROM development prior to that. So I remember the first time that I saw a GIF, you know, within I think it was Netscape browser, you know, and it just blew my mind. And then developers and designers started using these tiled GIF backgrounds that were like insane, you know, that's kind of gone away. But, you know, but this is really interesting because, you know, I struggled with so what do I what do I release if I'm trying to make an NFT? And. And. And I was thinking, well, I could take some digital drawings that I haven't released before or some video, you know, experimental videos that. But then, you know, I started thinking more and it does make sense that and what I've been seeing is more of these short form videos.
 
-And, you know, and in some of the other marketplaces, too, it's like not all art either. It's these weird like trading cards, you know, almost like, yeah, it's very strange. You know, it's kind of like Pokemon type type collecting, but like evolved into some strange crypto hybrid.
+And, you know, and in some of the other marketplaces, too, it's like not all art either. It's these weird like trading cards, you know, almost like, yeah, it's very strange. You know, it's kind of like Pokémon type type collecting, but like evolved into some strange crypto hybrid.
 
 ## Anne Spalter [35:44](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2144s)
 
@@ -461,7 +461,7 @@ Oh, OK.
 
 ## Anne Spalter [39:45](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2385s)
 
-Or another language like that. So it's making generative artwork that is similar to. That's spelling my name wrong. Similar to early artwork. That was, you know, programmed. Yeah. And created. By artists. Like. Manfred Moore. Who did all these investigations of the cube. So, you know, his algorithms would spit out many, many things and then he would select ones to make into final prints. So each one is a unique drawing that's printed.
+Or another language like that. So it's making generative artwork that is similar to. That's spelling my name wrong. Similar to early artwork. That was, you know, programmed. Yeah. And created. By artists. Like. Manfred Mohr. Who did all these investigations of the cube. So, you know, his algorithms would spit out many, many things and then he would select ones to make into final prints. So each one is a unique drawing that's printed.
 
 ## Colin Goldberg [40:30](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=2430s)
 
@@ -621,7 +621,7 @@ All the time with AI because you know at the end of count zero where there's the
 
 ## Colin Goldberg [53:51](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3231s)
 
-Totally and then and also like stevenson there was a book the diamond age where he's talking about nanotech and you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on instagram so it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate your time and you know there'll be links to your sites and stuff when this gets posted up on our youtube channel and on Techspressionism.com so people can check out your work and I look forward to you know continuing to work with you thanks thank you so much okay
+Totally and then and also like stevenson there was a book the diamond age where he's talking about nanotech and you know that the idea of like some you know in the future people have this box where there's a feed tube and it's feeding raw you know molecular material into it and just making things in their homes you know and then I see like there's a 3d printer now like we have a six-year-old there's a 3d printer called a toy box where it's basically they're just making toys you know and you download and there's an app and it's like wow this was like this was fiction you know and now here it is and I'm getting an ad for it on Instagram so it's pretty cool you know just seeing it's exciting how the future is now so all right well you know I really appreciate your time and you know there'll be links to your sites and stuff when this gets posted up on our YouTube channel and on Techspressionism.com so people can check out your work and I look forward to you know continuing to work with you thanks thank you so much okay
 
 ## Unattributed [55:04](https://www.youtube.com/watch?v=2JTyaVoXMsQ&t=3304s)
 

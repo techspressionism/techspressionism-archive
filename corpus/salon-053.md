@@ -467,7 +467,7 @@ I don't know if
 
 ## Tommy Mintz [01:07:55](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4075s)
 
-I could pinch to zoom. Can I? Oh, I'm sorry, people. I was hoping to pinch and zoom and show you the resolution on this enormous screen. This is in the Gaussian gallery. Currently, this is hers. Fisher. And it's. It's. Super high resolution. L.E.D. Screen. That's gosh. You know, what's that? Fifteen feet tall. Somebody do it in meters for me. Twenty four feet wide. And it's driven by some giant bank of computers behind the wall. But it really blows your mind and makes you think about an expand. Like, what can we do with this visual language of photography now that it's digital, now that there's a added to it? And Earth Fisher, his work is about sort of cataloging.
+I could pinch to zoom. Can I? Oh, I'm sorry, people. I was hoping to pinch and zoom and show you the resolution on this enormous screen. This is in the Gaussian gallery. Currently, this is hers. Fisher. And it's. It's. Super high resolution. L.E.D. Screen. That's gosh. You know, what's that? Fifteen feet tall. Somebody do it in meters for me. Twenty four feet wide. And it's driven by some giant bank of computers behind the wall. But it really blows your mind and makes you think about an expand. Like, what can we do with this visual language of photography now that it's digital, now that there's an added to it? And Earth Fisher, his work is about sort of cataloging.
 
 And utilizing AI to aggregate databases of images and present them. And it's sort of like fascinating in many levels. So photography functioning in other ways. This is Hank Willis Thomas. Also right up the block here in Chelsea. These are pictures that are activated by taking a flash photo with the picture. So really, once again, the language of photography. Being this structure within which we're sort of creating.
 
@@ -633,7 +633,7 @@ And you're definitely, you know, more than welcome to join us again. And a lot o
 
 ## Jaime Bautista [01:17:37](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4657s)
 
-So people can check your work out on their own okay yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what went wrong with this my system thank you very much and thank you for all the participants and you as an organizers as a expression thank you
+So people can check your work out on their own okay yeah I will share with you the link and then the links that I have probably that might be helpful to and if you if you wish to look at it other than that I guess I'm sorry about this I don't know have to figure out what went wrong with this my system thank you very much and thank you for all the participants and you as an organizers as an expression thank you
 
 ## Renata Janiszewska [01:18:09](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=4689s)
 

@@ -671,7 +671,7 @@ For your time, our time in Iran
 
 ## Negin Ehtesabian [01:16:56](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4616s)
 
-Would be good, would be like 10 a.m. How fast and I am before it's before you change the time. It was our 1030 p.m..
+Would be good, would be like 10 a.m. How fast and I am before it's before you change the time. It was our 1030 p.m.
 
 ## Cynthia Beth Rubin [01:17:09](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4629s)
 

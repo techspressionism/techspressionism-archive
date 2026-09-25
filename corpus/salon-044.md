@@ -18,7 +18,7 @@ flags:
 
 ## Steve Miller [00:03](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3s)
 
-So good afternoon in my time zone in Sagaponack, New York on the east end of Long Island where I believe every artist who's invited in this Zoom is also living as well. So this is a East End presentation of the artists that are participating in the Colin Goldberg curated Techspressionism show at the Southampton Art Center. And the premise of the show is, has been widely distributed around social media and in the press, and it's artists looking at technology as a tool of personal expression. And today we're going to give people the opportunity to talk about their particular piece of the show. And there's a brief time limit. So those of you just coming in and out, you can see that we have a few minutes left. And now each artist is going to speak about their particular piece of the show for about five minutes.
+So good afternoon in my time zone in Sagaponack, New York on the east end of Long Island where I believe every artist who's invited in this Zoom is also living as well. So this is an East End presentation of the artists that are participating in the Colin Goldberg curated Techspressionism show at the Southampton Art Center. And the premise of the show is, has been widely distributed around social media and in the press, and it's artists looking at technology as a tool of personal expression. And today we're going to give people the opportunity to talk about their particular piece of the show. And there's a brief time limit. So those of you just coming in and out, you can see that we have a few minutes left. And now each artist is going to speak about their particular piece of the show for about five minutes.
 
 And I'm looking forward to starting this off with Suzanne Anker.
 
@@ -452,7 +452,7 @@ Works and NFTs. And that reel is actually visible online as well. It's on the Te
 
 ## Steve Miller [58:06](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3486s)
 
-So that, that I wanted to make that one point because what we're seeing on the East end with this particular group is your understanding is very early involvement from many different directions of entering the digital space. And that gives this particular East end group a kind of depth of experience. And also I think quality of content that is indicative to this particular area of the world that's always been a hotbed of creativity. And one of my early, early experiences in video, I was fortunate enough to know Namjoo Paik and show in the same gallery with him in Paris, which is my segue into John Zieman, who is a early worker and experienced artist. And he's a very good artist in the realm of video. So take it away, John.
+So that, that I wanted to make that one point because what we're seeing on the East end with this particular group is your understanding is very early involvement from many different directions of entering the digital space. And that gives this particular East end group a kind of depth of experience. And also I think quality of content that is indicative to this particular area of the world that's always been a hotbed of creativity. And one of my early, early experiences in video, I was fortunate enough to know Namjoo Paik and show in the same gallery with him in Paris, which is my segue into John Zieman, who is an early worker and experienced artist. And he's a very good artist in the realm of video. So take it away, John.
 
 ## John Zieman [58:59](https://www.youtube.com/watch?v=PecHOYGSnWY&t=3539s)
 

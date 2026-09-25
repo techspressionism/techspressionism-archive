@@ -644,7 +644,7 @@ Come on.
 
 ## Victor Acevedo [01:21:47](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4907s)
 
-I think Randy had to step away, but she, as I was saying before, was worked with two groups, which was quite, I would, from my vantage point, quite a feat. And they're 2 different, very different kinds of expression. And at some point I think we're gonna have the real on the on the Techspressionist website. Oh. Again. And yeah, it's fascinating. To see how Randy's work got expressed in a augmented reality, and also in a worlding, as they say, sort of environment. One was kind of unnatural.
+I think Randy had to step away, but she, as I was saying before, was worked with two groups, which was quite, I would, from my vantage point, quite a feat. And they're 2 different, very different kinds of expression. And at some point I think we're gonna have the real on the on the Techspressionist website. Oh. Again. And yeah, it's fascinating. To see how Randy's work got expressed in an augmented reality, and also in a worlding, as they say, sort of environment. One was kind of unnatural.
 
 Immersive. World, and the other was more of a straight sort of mobile app experience with interactivity. Oh. So you know, not only is it augmented reality, it has an interactive functionality. And that's another thing. So these tools are real are really expanding the palette that most of us are. Probably, you know, I should speak for myself. But I didn't, you know, when I started in computer art in the 1980s, we had nothing like this. Just having a computer graph, you know, just a paint system was amazing, or 3D modeling animation on the desktop was amazing. But, you know, we've gone light years, so to speak, since then, so it's exciting.
 

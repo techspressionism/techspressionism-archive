@@ -263,7 +263,7 @@ Beautiful. You can see the laser that I try to give that features like no feelin
 
 And it's supposed to show his details in a different level like you're experiencing it. And lastly, I want to talk about the recent project. I was the art director, and I was also a participating artist. Our topic was about the digital art, history, and digital culture. So we divided digital art history into 7 different eras, starting from fifties, and it was also about the modern echoes of that era. So I created introductions for each era that resembles that era itself.
 
-Like inspiring by Vera Mohner, Ben Laposki, Marfa. Pioneers like that. And after the introduction, you see, the modern echoes with the today's artists. Unfortunately, we don't have the professional videos yet, but there's some image, but it's a very long show. It's like 28 min long. So they're very different level details. And it will take a place on 20 second August to 20 second September. This was just a 3 day opening we did this month. And I tried to show you very different styles I used so it might feel a little mixed up. But I wanted to show you my approach and my website and my Instagram address is this, and that's it.
+Like inspiring by Vera Molnar, Ben Laposky, Marfa. Pioneers like that. And after the introduction, you see, the modern echoes with the today's artists. Unfortunately, we don't have the professional videos yet, but there's some image, but it's a very long show. It's like 28 min long. So they're very different level details. And it will take a place on 20 second August to 20 second September. This was just a 3 day opening we did this month. And I tried to show you very different styles I used so it might feel a little mixed up. But I wanted to show you my approach and my website and my Instagram address is this, and that's it.
 
 Thank you so much for listening to me.
 
@@ -355,7 +355,7 @@ Thank you. I also have a question for Michael. Michael, when you created the pro
 
 ## Michael Pierre Price [01:08:49](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=4129s)
 
-Yeah. Good question. It's definitely been a iteration in my thought process of Illustrating this idea of the field and what it could mean, and how I might be able. The Zen Rock Garden seemed like a nice 1st idea, because it's a simple principle to start with, and there's a fractal quality when you look at it from a holistic standpoint. And so what I did was again going back to my Physics background is starting from 1st principles. What can what can you derive from there and then? What can you derive from those derivatives? And you keep going? And that was sort of my exploration mode. And what I what I wanted to be able to do is to create pieces that could be meditative in some way, but then also get people to think about how they might relate that to their own views of the universe. Because we're again. I'm piggybacking a little bit on. What Aaron was saying is that we're living in such a fractured time that we see things as individuals, and we other those individuals.
+Yeah. Good question. It's definitely been an iteration in my thought process of Illustrating this idea of the field and what it could mean, and how I might be able. The Zen Rock Garden seemed like a nice 1st idea, because it's a simple principle to start with, and there's a fractal quality when you look at it from a holistic standpoint. And so what I did was again going back to my Physics background is starting from 1st principles. What can what can you derive from there and then? What can you derive from those derivatives? And you keep going? And that was sort of my exploration mode. And what I what I wanted to be able to do is to create pieces that could be meditative in some way, but then also get people to think about how they might relate that to their own views of the universe. Because we're again. I'm piggybacking a little bit on. What Aaron was saying is that we're living in such a fractured time that we see things as individuals, and we other those individuals.
 
 But then, looking at Aegon's work with the ocean is. We have 4 billion years of evolution that started in water. And we're all intimately connected on a genome and genetic level. And so this idea of oneness to me is more than just a nice sounding meme. It's real. It's what's the actual reality, and not this false narrative of individuals and separation. And so I'm not a political person, but I think that science and truth matters. And that we can look to those things. And to me there's a deep spiritual quality in all of that. So it was a thought process that looked at the environment textures, colors. The viewpoint for me was really important as well, because your viewpoint colors how you see things.
 
@@ -437,7 +437,7 @@ So.
 
 ## Colin Goldberg [01:25:24](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5124s)
 
-For yep for anyone. Also, that's on watching this on Youtube, you can go to Techspressionism.com slash Oozebeck, UZBE, K, and that will take you to the micro site that Cynthia and the rest of the participants have put together, and that's got you know, information about that call and the exhibition in general.
+For yep for anyone. Also, that's on watching this on YouTube, you can go to Techspressionism.com slash Oozebeck, UZBE, K, and that will take you to the micro site that Cynthia and the rest of the participants have put together, and that's got you know, information about that call and the exhibition in general.
 
 ## Cynthia Beth Rubin [01:25:48](https://www.youtube.com/watch?v=VaKW4Gnh9eE&t=5148s)
 
@@ -477,4 +477,4 @@ Awesome if you could post a link to that in the chat, Nina, that'd be great as w
 
 Thinking outside of the box is certainly encouraged, you know, like we don't have to be constrained to just salons. Coworking shows like it could be pretty much anything that would be kind of like an armature off this whole social sculpture idea. So certainly, you know. Bring it on so. On that note I will be stopping this recording. And then, like Renata said, Whoever wants to stay and hang out, I would encourage it. So, thanks again to all of the artists, presenters, and thanks so much to Renata for organizing and moderating the salon.
 
-And I will see you all well, I'll still be here. But I'll see everyone else on Youtube in a month. Okay, so we will stop recording in 3, 2, 1, and.
+And I will see you all well, I'll still be here. But I'll see everyone else on YouTube in a month. Okay, so we will stop recording in 3, 2, 1, and.

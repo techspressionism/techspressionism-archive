@@ -203,7 +203,7 @@ The first exhibition of this combination was at the Parish Museum in Watermel in
 
 Further distorting what can be seen through glass early microscopes operated this way, which water was put in a glass to enlarge or reduce what was being seen. And then some of my early genetic work glass vessels were also employed. Here's a close up where you can see the distortion in the central image, and you can also see the irregularity of the perimeters of the sculpture which I learned from the machine. So as we make the machine, the machine makes us.
 
-This is a zinnia flower that has been cut down, and you know now is almost looking like a labyrinth. Going on from there in 2,019, I was invited to do a solo show at the Everson Museum, which was a opportunity for me to upscale everything, because not only does nature grow, but ideas Bro as well. So rather than 24 small vanitas pieces I did 48 large vanity toss pieces, and the rapid prototype sculpture were included in this large vitrine that you see in the center, which is called a frank case. And here is another image. As you can see, the name of the show is 1.5°C, which is the tipping point for the destruction of living things. We see here now through these glass vessels. We see part of the wall works which are again distorted, showing us alternative views of what is available optically.
+This is a zinnia flower that has been cut down, and you know now is almost looking like a labyrinth. Going on from there in 2,019, I was invited to do a solo show at the Everson Museum, which was an opportunity for me to upscale everything, because not only does nature grow, but ideas Bro as well. So rather than 24 small vanitas pieces I did 48 large vanity toss pieces, and the rapid prototype sculpture were included in this large vitrine that you see in the center, which is called a frank case. And here is another image. As you can see, the name of the show is 1.5°C, which is the tipping point for the destruction of living things. We see here now through these glass vessels. We see part of the wall works which are again distorted, showing us alternative views of what is available optically.
 
 And if you think that was sort of the last time I did this I got a call from the Beijing art and technology biennial. We're doing an exhibition called synthetic Ecology. And not only did they want all 48 of the vanitas and the remote sensing. But they wanted everything I could give them. So I sent them the files. And they decided that they would make 85 of these vanitas rather than using the frank case. They constructed a plexiglass pedestals, and I use plexiglass a lot because it disappears like what Steve Miller said about printing line glass and having the glass disappear.
 
@@ -547,7 +547,7 @@ Very interesting now, I was thinking, you know we could actually just keep this 
 
 ## Renata Janiszewska [01:31:29](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5489s)
 
-Our QA. To this recording, if that's feasible, and then it can go on the Siberiana page as well as the salon. Youtube.
+Our QA. To this recording, if that's feasible, and then it can go on the Siberiana page as well as the salon. YouTube.
 
 ## Colin Goldberg [01:31:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5500s)
 
@@ -575,7 +575,7 @@ Okay? So that should be that should be good. And then, yeah, that way, you know.
 
 ## Renata Janiszewska [01:33:10](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5590s)
 
-I just wanted to say I was lucky enough to see Karen's world and the resolution on her artworks is not only really great, but if you angle your body so that you're standing close to the art and looking up at it, there's recession into space that is so clear and so good. I was really enthralled. So I just want to say that Siberiana is a example of the Techspressionism community in cyberspace. And the town square is a place to meet and exchange ideas. And that there's a kind of inclusivity to Techspressionism that you can see a representation of in the concept of a town square and a place for dialogue among artists from all over the world. And we? We were lucky. We had about 75 artists apply, and we have them from countries all over the globe.
+I just wanted to say I was lucky enough to see Karen's world and the resolution on her artworks is not only really great, but if you angle your body so that you're standing close to the art and looking up at it, there's recession into space that is so clear and so good. I was really enthralled. So I just want to say that Siberiana is an example of the Techspressionism community in cyberspace. And the town square is a place to meet and exchange ideas. And that there's a kind of inclusivity to Techspressionism that you can see a representation of in the concept of a town square and a place for dialogue among artists from all over the world. And we? We were lucky. We had about 75 artists apply, and we have them from countries all over the globe.
 
 Tommy couldn't be here, unfortunately, today to answer technical questions about Mozilla Hubs. But Michael is our resident, Guru. So I'm gonna pass it to him.
 
@@ -629,7 +629,7 @@ Karen might be able to speak.
 
 ## Michael Price [01:39:52](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=5992s)
 
-So there, there's a couple. There's a couple of issues with video, file size may be may be an issue that. But the other thing and the video that I have successfully playing Renata has both sound and image. So. Because I have not been able to find a lot of the technical stuff behind the scenes for Hubs and spoke, I'm going. This is anecdotal just to me. But I managed to host A number of videos that I've been able to post successfully From Youtube and using my link from there into my space.
+So there, there's a couple. There's a couple of issues with video, file size may be may be an issue that. But the other thing and the video that I have successfully playing Renata has both sound and image. So. Because I have not been able to find a lot of the technical stuff behind the scenes for Hubs and spoke, I'm going. This is anecdotal just to me. But I managed to host A number of videos that I've been able to post successfully From YouTube and using my link from there into my space.
 
 And it does stay consistent. The challenge is going through there. Sometimes it takes a little time for it to completely load, and that may be an issue that people are running into. I don't know.
 
@@ -643,13 +643,13 @@ Is that the correct way? That's fine. You can do that. You could also go to the 
 
 ## Sahar Moussavi [01:41:54](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6114s)
 
-I Oh, I use. I tried Youtube link, but it did not work, and I was wondering, how should we upload we videos or in which sites website.
+I Oh, I use. I tried YouTube link, but it did not work, and I was wondering, how should we upload we videos or in which sites website.
 
 ## Michael Price [01:42:12](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6132s)
 
-I. Because I do have a Youtube channel, I used Youtube, and that is working for me. I don't know if anybody else has done video successfully in another way. So this, again, is my limit in knowing what works behind the scenes. So that's why I'm saying this is only anecdotal information. I know somebody has tried Vimeo, and that hasn't worked, and I don't know what the issue is. But II don't have a Vimeo channel. I've not tried playing with that. So I that part I don't know.
+I. Because I do have a YouTube channel, I used YouTube, and that is working for me. I don't know if anybody else has done video successfully in another way. So this, again, is my limit in knowing what works behind the scenes. So that's why I'm saying this is only anecdotal information. I know somebody has tried Vimeo, and that hasn't worked, and I don't know what the issue is. But II don't have a Vimeo channel. I've not tried playing with that. So I that part I don't know.
 
-But I know that I know that Youtube can work because I've got it working in my space.
+But I know that I know that YouTube can work because I've got it working in my space.
 
 ## Renata Janiszewska [01:43:00](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6180s)
 
@@ -713,7 +713,7 @@ It's IMGU. R.com. It's a free hosting site for your images on the web
 
 ## Jan Swinburne [01:46:46](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6406s)
 
-Cause I couldn't get any of my links to work. I couldn't get Youtube to work. I couldn't get I was trying to link them to my website. That wouldn't work. So
+Cause I couldn't get any of my links to work. I couldn't get YouTube to work. I couldn't get I was trying to link them to my website. That wouldn't work. So
 
 ## Renata Janiszewska [01:46:58](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6418s)
 
@@ -729,7 +729,7 @@ II have a question comment. I have no problem with, you know, getting a URL and 
 
 ## Michael Price [01:48:02](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6482s)
 
-Okay, so you are pointing out some of the challenges of working in a interface. So do we? Th, this is. This is a this is a question that if we need a little bit of a tutorial, I'm fine doing that. So I don't know if that's an issue other people are running into as well. But if we, if we need to go over that, I'm perfectly fine. Doing a short tutorial on that.
+Okay, so you are pointing out some of the challenges of working in an interface. So do we? Th, this is. This is a this is a question that if we need a little bit of a tutorial, I'm fine doing that. So I don't know if that's an issue other people are running into as well. But if we, if we need to go over that, I'm perfectly fine. Doing a short tutorial on that.
 
 ## Allen Hirsh [01:48:40](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=6520s)
 
@@ -809,7 +809,7 @@ The X or the Y or the Z, and you'll see a little kind of side arrow to arrow tha
 
 ## Verneda Lights [01:59:27](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7167s)
 
-II don't see the XY. And Z. I'm viewing this on my iphone. And I don't see
+II don't see the XY. And Z. I'm viewing this on my iPhone. And I don't see
 
 ## Michael Price [01:59:35](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=7175s)
 
@@ -967,11 +967,11 @@ And then, if I want to actually move. I can use the wheel in the center of my mo
 
 ## Verneda Lights [02:15:09](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8109s)
 
-Right? Okay. Okay. Why use a PC, oriented mouse that I connect to my macbook pro via USB port. So I'll just make my instrument of choice. While dealing with the Siberiana space that's exactly what Tommy does
+Right? Okay. Okay. Why use a PC, oriented mouse that I connect to my MacBook pro via USB port. So I'll just make my instrument of choice. While dealing with the Siberiana space that's exactly what Tommy does
 
 ## Michael Price [02:15:31](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=8131s)
 
-So I want I wanted to show I wanted to show just real. Briefly here, this image. Has. Actually, this is a video. And so I wanted to show, here's my URL for my Youtube video for it to play. Now. It won't play in here. I'll need to, you know, be in the actual hub space for it to actually play. But that's my video, and it does play fine.
+So I want I wanted to show I wanted to show just real. Briefly here, this image. Has. Actually, this is a video. And so I wanted to show, here's my URL for my YouTube video for it to play. Now. It won't play in here. I'll need to, you know, be in the actual hub space for it to actually play. But that's my video, and it does play fine.
 
 The other thing that the other thing that I've done is that I have.
 
@@ -1149,7 +1149,7 @@ From the feedback here. I'm just guessing now that the Mozilla learning experien
 
 ## Michael Price [02:39:47](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9587s)
 
-Correct. So it's not wordpress, and even wordpress has its challenges and whatnot. But now, this is a level up.
+Correct. So it's not WordPress, and even WordPress has its challenges and whatnot. But now, this is a level up.
 
 ## Verneda Lights [02:39:55](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9595s)
 

@@ -214,7 +214,7 @@ Yeah.
 
 Can you hear me? Okay. If something gets wrong, yeah, just wave or say something. So yeah, thank you. My name is Everardo Reyes. So I am originally from Mexico, but half of my life I've been living in France. So yeah, I'm French. I'm doing many, many stuff here, always based in Paris. Maybe I'll do a little bit of introduction myself. I, as Cynthia said, yes, I am at the Université Paris-Rite of Vincennes-Saint-Denis, which used to be the experimental center outside Paris.
 
-And by the way, all guys at Université Paris won, which is the Sorbonne. You know, here in Paris, of course, we do have some, some strange numbers for our universities. So one, two, three, four, up to 13. But Paris-Rite has always been like this university, open to humanities. You know, a lot of French theory and philosophies came here. But, and I think it's an, it's a, it's an interesting place for us to innovate, to experiment, because it's really open to that. We call today Paris-Rite as Université de Création. So it's a creation-oriented university. So what I've been doing here is, although I am not strictly in a art, in an art department, I do have a lot of activities in, from the research creation. You know, I love doing research, teaching, of course. I learn a lot.
+And by the way, all guys at Université Paris won, which is the Sorbonne. You know, here in Paris, of course, we do have some, some strange numbers for our universities. So one, two, three, four, up to 13. But Paris-Rite has always been like this university, open to humanities. You know, a lot of French theory and philosophies came here. But, and I think it's an, it's a, it's an interesting place for us to innovate, to experiment, because it's really open to that. We call today Paris-Rite as Université de Création. So it's a creation-oriented university. So what I've been doing here is, although I am not strictly in an art, in an art department, I do have a lot of activities in, from the research creation. You know, I love doing research, teaching, of course. I learn a lot.
 
 ## Cynthia Beth Rubin [27:12](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=1632s)
 
@@ -502,7 +502,7 @@ Oh, that's interesting. This morning we had a Zoom with Makerspace in Uzbekistan
 
 Very wonderful session. Really exciting. I'm trying to figure out how to say this question. It's just observations, but a questions in it. It seems to me there's such a largeness to the presentations today. In terms of. Various worlds, whether it's AI, spiritual material code, all coming together in these presentations in a kind of large, inventive, multilayered sort of presentations. I'm very inspired by what I'm seeing. And I wonder if you feel supported in France for doing this kind of work. And also, I'd love it if you if some of you and maybe especially Michael Boras.
 
-The. The spiritual aspects of. There's so many interesting things about AI. I mean, you end with this kind of dark. Thing foreboding in the end. And yet there's such a idealism and beauty in the work. And I know in my own work, paradox for me is just central. And I wonder if you could speak to that. And if any of you want to speak to your support of your work in France, too. Thank you. It's huge.
+The. The spiritual aspects of. There's so many interesting things about AI. I mean, you end with this kind of dark. Thing foreboding in the end. And yet there's such an idealism and beauty in the work. And I know in my own work, paradox for me is just central. And I wonder if you could speak to that. And if any of you want to speak to your support of your work in France, too. Thank you. It's huge.
 
 ## Stephen Paré [01:03:46](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=3826s)
 
@@ -546,7 +546,7 @@ Yeah. OK. I just uploaded.
 
 ## Systaime [01:06:51](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4011s)
 
-It's not. It's not. I mean, it's not the opposite. Or not you're energy and computer. It just a energy is everywhere. And we can see now we exchange it. Not only a sentence and concept. We can show our energy.
+It's not. It's not. I mean, it's not the opposite. Or not you're energy and computer. It just an energy is everywhere. And we can see now we exchange it. Not only a sentence and concept. We can show our energy.
 
 ## Unattributed [01:07:13](https://www.youtube.com/watch?v=kAXUgOIUjw0&t=4033s)
 

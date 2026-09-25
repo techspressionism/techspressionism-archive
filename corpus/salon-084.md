@@ -77,7 +77,7 @@ With art and technology, and the bar's been pretty high here. It's been fairly i
 
 ## Colin Goldberg [06:23](https://www.youtube.com/watch?v=9uB83V9qp8M&t=383s)
 
-Shout out to Davo, who is not here? We all hope he comes back. But it was his idea to record these sessions to begin with, and that was really the birth of the Youtube Channel. So we love you, Davo. Hope you come back soon.
+Shout out to Davo, who is not here? We all hope he comes back. But it was his idea to record these sessions to begin with, and that was really the birth of the YouTube Channel. So we love you, Davo. Hope you come back soon.
 
 ## Roz Dimon [06:37](https://www.youtube.com/watch?v=9uB83V9qp8M&t=397s)
 
@@ -283,7 +283,7 @@ And I feel like The like talking about liberty or independence. I feel like a fr
 
 But I just I love the harshness of these, and when I look at these, I mean, I've been spending a lot of time like a lot of people have looking at the destruction that's going on around the planet specifically in a place that's very close to me. And I look at this horrible disruption, and people had homes. And now it's just Bricks and steel bars and useless things. So I'm trying to give them some kind of dignity or some kind of a bit of wow! Still and a little bit of magic still.
 
-So that's been kind of my latest. Obsession, you can see here this there's like it's not just steel and bars, but there's even boards of wood. There's Gip Rock. It's all this stuff that people are. I've ignored, and I really could just bundle it up and send it off to the garbage. But I've been making this my muse for the past Month. And I feel like it's been giving me a little bit of independent creativity and like, look at this one, this, this little piece in the middle is the bar of steel, and it's got like these blues and these skin tones and sometimes there's still junk like the rusty stare, or the this giant pot. I actually know somebody brought the pot over to do an experiment with some Biochar, and which is really good. It's a whole different story. It takes carbon out of the atmosphere. But he left the pot. And I'm like, Well, okay, that was really environmental dude. But now it's become part of part of this composition like, it's not still life, but it's some kind of. Something that I've just been just finding that the Freedom to get away from any images. And it's funny, you know, we often talk about Pollock or Lee Kasner, and I definitely feel like when I'm doing a piece like this. I'm so not thinking about content at all, I figure out my brush stroke before I do it, and then this, you know, this will take like 4 min, a 4 min exposure. And so for those 4 4 min I've got like a little movement, and it's going through my bones, my spine, my breathing, everything to get this done.
+So that's been kind of my latest. Obsession, you can see here this there's like it's not just steel and bars, but there's even boards of wood. There's Gip Rock. It's all this stuff that people are. I've ignored, and I really could just bundle it up and send it off to the garbage. But I've been making this my muse for the past Month. And I feel like it's been giving me a little bit of independent creativity and like, look at this one, this, this little piece in the middle is the bar of steel, and it's got like these blues and these skin tones and sometimes there's still junk like the rusty stare, or the this giant pot. I actually know somebody brought the pot over to do an experiment with some Biochar, and which is really good. It's a whole different story. It takes carbon out of the atmosphere. But he left the pot. And I'm like, Well, okay, that was really environmental dude. But now it's become part of part of this composition like, it's not still life, but it's some kind of. Something that I've just been just finding that the Freedom to get away from any images. And it's funny, you know, we often talk about Pollock or Lee Krasner, and I definitely feel like when I'm doing a piece like this. I'm so not thinking about content at all, I figure out my brush stroke before I do it, and then this, you know, this will take like 4 min, a 4 min exposure. And so for those 4 4 min I've got like a little movement, and it's going through my bones, my spine, my breathing, everything to get this done.
 
 It's just so freeing and liberating. And so I just wanted to share this with everybody, and thank you for letting me indulge with everybody. I really appreciate your time, and I love this group, and I'm glad that I can actually share these things with people who can sort of understand my weirdness, and I don't know how many I've put here, but I think that it'll go on for way longer than it should. Oh, no, it's probably right at the end of this. But thank you so much.
 
@@ -401,7 +401,7 @@ It's been a fantastic eye opening experience for me, seeing all of your work. Th
 
 ## Roz Dimon [51:52](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3112s)
 
-Thank you. Thank you, Stephanie. It's great. She's been quite a incredible woman in the world of film as a professor and a new friend of mine who I invited, and I'm so glad she could be here. But now I was talking to is it staff and carpenter who has his hand up. Did you want to say something? I can't hear. We can't hear you, though.
+Thank you. Thank you, Stephanie. It's great. She's been quite an incredible woman in the world of film as a professor and a new friend of mine who I invited, and I'm so glad she could be here. But now I was talking to is it staff and carpenter who has his hand up. Did you want to say something? I can't hear. We can't hear you, though.
 
 Yeah, I don't know. Maybe the volume isn't working. We can come back to you, though, if you want. Still not hearing.
 
@@ -415,7 +415,7 @@ Yes, this is.
 
 ## Roz Dimon [53:27](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3207s)
 
-One of my, I have to say, when I was working I worked. I started the 1st new media department for Deloitte in the World Trade Center and At the time I felt I was working in the heart of capitalism. I worked there for a decade, off and on in digital, and I would go home at night. And this is done in 1995, and it's called Washington Pig. And it's kind of a celebration and a critique of capitalism, and you can see for sale. And George Washington's eyes The continent of Africa in his ear, which is something we're still wrestling with it, says Hawk. If you love Jesus has the word go in 15 different languages. Noam Chomsky is in here somewhere, saying, the manufacturer of consent. Everybody needs a house of wife and a dog. There are tons of little pig buttons and no dominion. It's a dollar bill, kind of gone berserk, and it's all about capitalism. And it's really a celebration and a critique of capitalism which is kind of at the heart of this country. And I was working at the in the heart of money at the World Trade Center for a long time. This is not an interactive diamond state piece. You can't enter into it, but you know what I just it. It's just one of my strong pieces, and I felt like it was appropriate for today's topic of independence quickly. I'm going to show more recent ipad drawing of Ted Cruz felt kind of fast here. This was my 2022 there is no happy. That was my July 4.th I put this up today, and a few people thought it might be misconstrued, so I took it down because the name of this piece is supreme injustice.
+One of my, I have to say, when I was working I worked. I started the 1st new media department for Deloitte in the World Trade Center and At the time I felt I was working in the heart of capitalism. I worked there for a decade, off and on in digital, and I would go home at night. And this is done in 1995, and it's called Washington Pig. And it's kind of a celebration and a critique of capitalism, and you can see for sale. And George Washington's eyes The continent of Africa in his ear, which is something we're still wrestling with it, says Hawk. If you love Jesus has the word go in 15 different languages. Noam Chomsky is in here somewhere, saying, the manufacturer of consent. Everybody needs a house of wife and a dog. There are tons of little pig buttons and no dominion. It's a dollar bill, kind of gone berserk, and it's all about capitalism. And it's really a celebration and a critique of capitalism which is kind of at the heart of this country. And I was working at the in the heart of money at the World Trade Center for a long time. This is not an interactive diamond state piece. You can't enter into it, but you know what I just it. It's just one of my strong pieces, and I felt like it was appropriate for today's topic of independence quickly. I'm going to show more recent iPad drawing of Ted Cruz felt kind of fast here. This was my 2022 there is no happy. That was my July 4.th I put this up today, and a few people thought it might be misconstrued, so I took it down because the name of this piece is supreme injustice.
 
 And it's not me that's so happy. It's Ted Kavanaugh. I actually did it right when he was. Elected to the port, and I put it up today. But friends said that people might see it as not in the direction I'm talking about. And finally, I want to end with oh, there are a few more. Here's Giuliani. Oh, I've been doing these drawings lately and talk about Techspressionism. Lately I have not been going digital, these just pulling them right out of my 19 by 13 drawer paper, taking out the Conti Cray on the pencils and just going after these guys. I recently saw a show of, you know, the whole period of the Weimar Republic of George Auto Dex, and they just inspired me so much. It's like they're looking at the heart of evil in some of their pieces, and I feel like I had to stop drawing Lincoln and Eleanor Roosevelt. And just look at what I what I had to just get into it. So this is not, I mean a pencil is a tool, you know. So and I'll let's see who else? Oh, here's Marjorie Taylor Green. These are just pictures of the pieces off the wall. I'm sorry the kind of granular I'm used to like having things made right in the computer. So I can show them to you perfect perfectly. But they're about 19 by 13. Here's Ted Cruz.
 
@@ -423,9 +423,9 @@ And they have these funny titles like she says, so happy, plus I'm a blonde. Ted
 
 ## Susan Detroy [57:26](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3446s)
 
-Hi, Susan! Here, I ha! I it's gonna be super hot here today. So I had to be outside doing some, getting some watering started before I could concentrate. But I would like to share one piece that I've done that, I think, is connected, and I've had trouble sharing recently from my ipad. So I'll try it if it doesn't work. I have the link to the video in Youtube. And we'll try that. I shared this in my in the co-working group and here, I wanna get my video on so you can see me. I want to reinforce The. Positivity and Importance currently, in my work of the co-working Techspressionism group. It has, supported being. Part of that group has supported my work. I feel connected to people in ways that I didn't imagine.
+Hi, Susan! Here, I ha! I it's gonna be super hot here today. So I had to be outside doing some, getting some watering started before I could concentrate. But I would like to share one piece that I've done that, I think, is connected, and I've had trouble sharing recently from my iPad. So I'll try it if it doesn't work. I have the link to the video in YouTube. And we'll try that. I shared this in my in the co-working group and here, I wanna get my video on so you can see me. I want to reinforce The. Positivity and Importance currently, in my work of the co-working Techspressionism group. It has, supported being. Part of that group has supported my work. I feel connected to people in ways that I didn't imagine.
 
-And I feel influenced in a caring and supportive way. I'm often given ideas that I go away from the group and think, oh, I think I might enter enter Integrate that into my work. So I feel an interdependence in a very positive way with the co-working group, and I want to share A film that I have been working on over the past. I think couple of months that I shared and got a lot of positive feedback. And I just loved it. Okay, so I'm going to. Everything's changed on the ipad once again. Okay, share. I'm gonna try sharing.
+And I feel influenced in a caring and supportive way. I'm often given ideas that I go away from the group and think, oh, I think I might enter enter Integrate that into my work. So I feel an interdependence in a very positive way with the co-working group, and I want to share A film that I have been working on over the past. I think couple of months that I shared and got a lot of positive feedback. And I just loved it. Okay, so I'm going to. Everything's changed on the iPad once again. Okay, share. I'm gonna try sharing.
 
 And as I said, if it doesn't work. I will then put a link in the. Okay. Can't optimize for Alright. So are you seeing my desktop.
 
@@ -479,7 +479,7 @@ Okay. This is what happened. This is what was happening. I don't know why it in 
 
 Alright. I'm gonna try this now. And maybe you'll see it, and maybe you won't. We'll see.
 
-Are you? Seeing that Youtube.
+Are you? Seeing that YouTube.
 
 ## Roz Dimon [01:01:20](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3680s)
 
@@ -505,7 +505,7 @@ Share.
 
 Screen.
 
-Okay, start brought. Okay. Says it's broadcasting. Alright. So now, do you see the Youtube.
+Okay, start brought. Okay. Says it's broadcasting. Alright. So now, do you see the YouTube.
 
 ## Roz Dimon [01:02:02](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3722s)
 
@@ -581,13 +581,13 @@ Oh, cause it's being recorded. Okay. A. Thank you.
 
 The. A.
 
-A Oh. A. Wow!
+An Oh. A. Wow!
 
 A.
 
 A.
 
-Oh! Oh! Oh! Oh! A Oh Lord! Oh. A.
+Oh! Oh! Oh! Oh! An Oh Lord! Oh. A.
 
 Oh. Love you! Oh. E! A.
 
@@ -761,7 +761,7 @@ Either Renato or Colin. Last time I was using our lupa and artifact a few years 
 
 Yeah, it basically is a paid platform, although there's multiple levels. So you know, I believe there is a free kind of level where you could have up to. They eliminated that Renata. Yeah, they there used to be but you know, I mean to me that's kind of like The cost of doing business. I mean, it hasn't really paid for itself yet. But ultimately, you know, the AR aspect has resulted in the sale of like larger physical pieces. So I think that you know for me, it's worthwhile there, you know, I don't think there's really gonna be a point where it's something that's free cause it has to be running on a server somewhere. You know that being said, I think it's possible that, like QR. Codes.
 
-It could be integrated into mobile operating systems at some point. You know, it used to be that you had to download a special app to view a QR. Code, and pretty much no one used QR codes until Ios and Android operating systems incorporated them, you know, directly into the camera app. So I don't know exactly how that could possibly work, but I think down the road that is plausible. But yeah, for now it is paid platform, and there's also other stuff with our divide, where you know they offer sale of the through their own commerce platform. But I think it's based in the Uk, so Footnote on that. But yeah.
+It could be integrated into mobile operating systems at some point. You know, it used to be that you had to download a special app to view a QR. Code, and pretty much no one used QR codes until iOS and Android operating systems incorporated them, you know, directly into the camera app. So I don't know exactly how that could possibly work, but I think down the road that is plausible. But yeah, for now it is paid platform, and there's also other stuff with our divide, where you know they offer sale of the through their own commerce platform. But I think it's based in the Uk, so Footnote on that. But yeah.
 
 ## Lucy Boyd-Wilson [01:18:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4723s)
 
@@ -841,7 +841,7 @@ Perspective and keep the surprise of the show. So that people, you know, I think
 
 Oh, and so for those of you viewing at home. It's the details for this show is online, or are online at Techspressionism.com slash Brooklyn. This will be the last little bit to share, but I'm just gonna share my screen, anyway, because this will be the last salon before the opening. So Techspressionism.com slash Brooklyn. You could see this beautiful piece by Renata. And there's a press release and some other information about the exhibition. Google map. All that good stuff. And you could also get there from the Techspressionism, homepage.
 
-There's a oop. That's the back end. Nothing to see here. So yeah, on the homepage. There's a link here as well as to the open call for the Mount Exhibition. I think we.
+There's an oop. That's the back end. Nothing to see here. So yeah, on the homepage. There's a link here as well as to the open call for the Mount Exhibition. I think we.
 
 ## Roz Dimon [01:26:59](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5219s)
 
@@ -849,7 +849,7 @@ Have a salon, though, will we? I mean Cynthia's salon would be before it opens, 
 
 ## Colin Goldberg [01:27:03](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5223s)
 
-Yeah, yeah, I just wanted to put a little plug in there for the show. So people could see it on Youtube, you know, and get the information if they wanna learn. But Cynthia, if you're willing to do it. Then I you know I would keep that motion open. If Roz you, you want to be a second, and I'm not gonna speak for you, though Cynthia.
+Yeah, yeah, I just wanted to put a little plug in there for the show. So people could see it on YouTube, you know, and get the information if they wanna learn. But Cynthia, if you're willing to do it. Then I you know I would keep that motion open. If Roz you, you want to be a second, and I'm not gonna speak for you, though Cynthia.
 
 ## Cynthia Beth Rubin [01:27:25](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5245s)
 

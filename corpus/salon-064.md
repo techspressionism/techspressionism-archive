@@ -124,7 +124,7 @@ Okay. Cynthia. Now, I know Roz wanted to go. Am I jumping the line here? Not at 
 
 ## Allen Hirsh [29:26](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=1766s)
 
-Sorry about that. I'm Cynthia DiDonato, and I'm zooming in from North Providence. And I'm going to start sharing to get right to... It says ask... Oh, no. Sorry. Here we go. IPad share. I'm getting a plug-in. In order to share. And let's see. Okay. Can you see my... You can see my granddaughter. Okay. Let me first say that... Can everyone see what I have on my iPad screen?
+Sorry about that. I'm Cynthia DiDonato, and I'm zooming in from North Providence. And I'm going to start sharing to get right to... It says ask... Oh, no. Sorry. Here we go. iPad share. I'm getting a plug-in. In order to share. And let's see. Okay. Can you see my... You can see my granddaughter. Okay. Let me first say that... Can everyone see what I have on my iPad screen?
 
 Yes. Great. Okay. I do layering for most of my pieces. I use it to create depth and interesting compositional forms. I like to use my traditional analog water media that I've done. And then use that in the layering process. I also like to digitally paint in software and use that in the layering process. And then, of course, I also use photographs sometimes as a base layer or for manipulation. So what I'm going to be showing you tonight is a variety of things that are parts of series. And let me start with the first piece. Okay.
 

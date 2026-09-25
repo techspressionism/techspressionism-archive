@@ -523,15 +523,15 @@ Srimoyee Mitra, you're right I'm sorry that's right and I've said a few times in
 
 ## Malavika Mandal Andrew [38:12](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2292s)
 
-Srimoyee Mitra, definite it is, it is fascinating and sometime it happened, you know we are so lost that I miss at least for me, because I am not. Srimoyee Mitra, What I should say I'm not a professional way I have not learned the ad of photoshop. Srimoyee Mitra, Or a photo draw. Srimoyee Mitra, You have learned with a trial and error so.
+Srimoyee Mitra, definite it is, it is fascinating and sometime it happened, you know we are so lost that I miss at least for me, because I am not. Srimoyee Mitra, What I should say I'm not a professional way I have not learned the ad of Photoshop. Srimoyee Mitra, Or a photo draw. Srimoyee Mitra, You have learned with a trial and error so.
 
 ## Roz Dimon [38:35](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2315s)
 
-Malavika Sharan, For me to bring back. Malavika Sharan, say that again you're not using photoshop you're not using are you using. Malavika Sharan, photo no.
+Malavika Sharan, For me to bring back. Malavika Sharan, say that again you're not using Photoshop you're not using are you using. Malavika Sharan, photo no.
 
 ## Malavika Mandal Andrew [38:42](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2322s)
 
-Malavika Sharan, I am using I am using yeah I am using photoshop and folder. Malavika Sharan, yeah for my work, but what I'm saying, because I keep on moving ahead, it becomes very difficult to understand later on this effect, how I got it yeah.
+Malavika Sharan, I am using I am using yeah I am using Photoshop and folder. Malavika Sharan, yeah for my work, but what I'm saying, because I keep on moving ahead, it becomes very difficult to understand later on this effect, how I got it yeah.
 
 ## Roz Dimon [38:59](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2339s)
 
@@ -697,7 +697,7 @@ Srimoyee Mitra, yeah well. Srimoyee Mitra, that's very I don't know that seems v
 
 ## Malavika Mandal Andrew [48:03](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2883s)
 
-Srimoyee Mitra, So here again, it is actually missing gamebook, but if I show the next slide you'll understand these all I have developed on computer on photoshop photo so and then I have combined on an acrylic transparent sheet to give the feel of this all around. Srimoyee Mitra, surrounding the. Srimoyee Mitra, entity. Srimoyee Mitra, So, wherever it will, I mean the person will be keeping the buyer will be keeping will get the. Srimoyee Mitra, The back wall will be part of that.
+Srimoyee Mitra, So here again, it is actually missing gamebook, but if I show the next slide you'll understand these all I have developed on computer on Photoshop photo so and then I have combined on an acrylic transparent sheet to give the feel of this all around. Srimoyee Mitra, surrounding the. Srimoyee Mitra, entity. Srimoyee Mitra, So, wherever it will, I mean the person will be keeping the buyer will be keeping will get the. Srimoyee Mitra, The back wall will be part of that.
 
 ## Roz Dimon [48:36](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=2916s)
 
@@ -811,7 +811,7 @@ Srimoyee Mitra, And along with the technical thing. Srimoyee Mitra, And along wi
 
 ## Roz Dimon [56:16](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3376s)
 
-Srimoyee Mitra, I understand I agree there is I've always called myself a digital artists, but I know on instagram and. Srimoyee Mitra, That sometimes you can look at a lot of. Srimoyee Mitra, digital art and it's really some of it's technically interesting but it's not on the level of. Srimoyee Mitra, That I want to see some time you know back of exploration and of mystery and of seriousness and yet I think it's also a great tool for people to. Srimoyee Mitra, To earn their living, you know and learn so many things you know within the commercial side of it and then go home, I and do whatever you want, you know, on your own. Srimoyee Mitra, So those two worlds in some ways, I think, can really complement each other. Srimoyee Mitra, But I do agree with you that the level of art in the Techspressionist index is a high level and I.
+Srimoyee Mitra, I understand I agree there is I've always called myself a digital artists, but I know on Instagram and. Srimoyee Mitra, That sometimes you can look at a lot of. Srimoyee Mitra, digital art and it's really some of it's technically interesting but it's not on the level of. Srimoyee Mitra, That I want to see some time you know back of exploration and of mystery and of seriousness and yet I think it's also a great tool for people to. Srimoyee Mitra, To earn their living, you know and learn so many things you know within the commercial side of it and then go home, I and do whatever you want, you know, on your own. Srimoyee Mitra, So those two worlds in some ways, I think, can really complement each other. Srimoyee Mitra, But I do agree with you that the level of art in the Techspressionist index is a high level and I.
 
 Srimoyee Mitra, I like that too, I mean you don't want to just pay $40 to be in some show and they don't even tell you the juror is and. Srimoyee Mitra, They don't even tell you why they want it or what it means and there's a different thing working here there's something real going on here, you know that's exciting.
 
@@ -841,7 +841,7 @@ Kalimba Sharif, he's great I agree, I think it's wonderful and they need the fee
 
 ## Malavika Mandal Andrew [58:20](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3500s)
 
-Kalimba Sharif, Exactly, I want to say that part definitely fees is very important. Kalimba Sharif, But. Kalimba Sharif, You didn't feel that time he okay not for this he given me the chance, so there is a emotional touch, though it is a digital world, but so much emotional things that data.
+Kalimba Sharif, Exactly, I want to say that part definitely fees is very important. Kalimba Sharif, But. Kalimba Sharif, You didn't feel that time he okay not for this he given me the chance, so there is an emotional touch, though it is a digital world, but so much emotional things that data.
 
 ## Roz Dimon [58:37](https://www.youtube.com/watch?v=lXCEgu2Iz5k&t=3517s)
 

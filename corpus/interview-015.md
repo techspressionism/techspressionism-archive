@@ -199,7 +199,7 @@ Do you make them into editions or are they original? Do you make them originals 
 
 ## Darcy Gerbarg [17:14](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1034s)
 
-Everything at these scales is an this scale. However, I've decided to make editions of 150 of smaller scale pieces, like 18 by 18 or something like that. Yeah. And I'm doing some of these images, smaller scale as an edition. Additions I've just started that we'll see how that goes. So, since 2016 I've been painting with colored light with tilt brush and taking the unity model to the world in a few different ways.
+Everything at these scales is a this scale. However, I've decided to make editions of 150 of smaller scale pieces, like 18 by 18 or something like that. Yeah. And I'm doing some of these images, smaller scale as an edition. Additions I've just started that we'll see how that goes. So, since 2016 I've been painting with colored light with tilt brush and taking the unity model to the world in a few different ways.
 
 I said I learned about, okay I didn't. I learned about cropping images in Larry Poon's studio one day when I was there with Glenn Greenberg. Larry as you know, takes buckets of paint, throws them at the wall which is complete, his walls are completely covered. Ceiling to floor in canvas, and he throws paint at them, and it all drips down. This is one way that he was working at that time. He's done other things.
 

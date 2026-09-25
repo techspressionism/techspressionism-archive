@@ -277,7 +277,7 @@ Concrete building. It's like a building. Like a particle of a building. Like, I 
 
 ## Randi Matushevitz [19:31](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1171s)
 
-If you move on and I'll just go back here because you see here, even though I'm telling these stories, which goes onto. Other bodies of work that we won't be discussing here, but the faces. I was having a conversation with the curator. And at that time, I'm going to be doing this. I'm a gallerist who took my work to a art show, which culminated in ugly portraits. He said, why don't you take a break?
+If you move on and I'll just go back here because you see here, even though I'm telling these stories, which goes onto. Other bodies of work that we won't be discussing here, but the faces. I was having a conversation with the curator. And at that time, I'm going to be doing this. I'm a gallerist who took my work to an art show, which culminated in ugly portraits. He said, why don't you take a break?
 
 ## Unattributed [19:52](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1192s)
 
@@ -467,7 +467,7 @@ What I'm doing and different facial apps there's about four or five apps I use a
 
 ## Roz Dimon [32:48](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1968s)
 
-I don't find that it doesn't bother me there's just they're so odd and different and unusual there's a eerie beauty to these that it's just and I like the sort of I don't know the patterning that's going on in the background of some of these is the way that the face and the I don't know you know I'm it's
+I don't find that it doesn't bother me there's just they're so odd and different and unusual there's an eerie beauty to these that it's just and I like the sort of I don't know the patterning that's going on in the background of some of these is the way that the face and the I don't know you know I'm it's
 
 ## Randi Matushevitz [33:06](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=1986s)
 
@@ -703,7 +703,7 @@ So, and I think we're gonna get used to having more immersive experiences. You k
 
 ## Roz Dimon [54:42](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3282s)
 
-It's better than something like what you're doing or I'm doing that's coming out of a artist process. You know, it's a little more entertainment, but it is getting people into this, you know, to understand and look more seriously at digital, you know.
+It's better than something like what you're doing or I'm doing that's coming out of an artist process. You know, it's a little more entertainment, but it is getting people into this, you know, to understand and look more seriously at digital, you know.
 
 ## Randi Matushevitz [54:58](https://www.youtube.com/watch?v=Jb-J_QTgufM&t=3298s)
 

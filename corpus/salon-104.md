@@ -281,7 +281,7 @@ I would agree, yeah. And there was also a, you will know this, Helen, there was 
 
 A very important British pioneer of cybernetics, and he saw these Pollock paintings at the Whitechapel, and immediately, somehow, made this connection between bringing the, Physicality, the expressionism, the, that, that, that… quality of dancing, I think somebody said in the, in the chat. He brought that together with cybernetics and made his art interactive. He saw that gesture became extremely important. Mark-making was very important. And of course, what do artists who use computers want to do? They want to make interesting marks.
 
-You know, Harold Cohn said to me once that he felt that he might run out of ideas. He might run out of ways to make new marks, on paper, on canvas, so he felt that perhaps if he could encode his knowledge into a computer, it would find endless ways of making new marks. But in fact, I don't think he… he didn't really need to do that. You never run out of… of… of… The desire to make marks and new marks.
+You know, Harold Cohen said to me once that he felt that he might run out of ideas. He might run out of ways to make new marks, on paper, on canvas, so he felt that perhaps if he could encode his knowledge into a computer, it would find endless ways of making new marks. But in fact, I don't think he… he didn't really need to do that. You never run out of… of… of… The desire to make marks and new marks.
 
 ## Helen A. Harrison [45:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2748s)
 

@@ -243,15 +243,15 @@ And it moves backward and forward a little in a way that yeah that feels like la
 
 ## Karen LaFleur [22:28](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1348s)
 
-Like the eyes are all cut out of the circles out of it and then they're all put together to make one piece and this is around like the early 80s so like 81 82. And like I said I was working with a lot of designers so and so this one is like the theater set the little stuffed Christmas ornament in the upper left actually goes with that Christmas tree in the centers the Boston ballet and they had a Christmas tree that went from normal size to like 30 feet high and all my ornaments were on it so we would work with set designers I was also working for a museum in their collections departments for four or five years and during that time through them I cataloged the collection of a Hans Hoffman student of 6 000 pieces over two years so I learned a lot about how to provenance your own artwork along the way very important very important but I never gave up the story and the image through Hans
+Like the eyes are all cut out of the circles out of it and then they're all put together to make one piece and this is around like the early 80s so like 81 82. And like I said I was working with a lot of designers so and so this one is like the theater set the little stuffed Christmas ornament in the upper left actually goes with that Christmas tree in the centers the Boston ballet and they had a Christmas tree that went from normal size to like 30 feet high and all my ornaments were on it so we would work with set designers I was also working for a museum in their collections departments for four or five years and during that time through them I cataloged the collection of a Hans Hofmann student of 6 000 pieces over two years so I learned a lot about how to provenance your own artwork along the way very important very important but I never gave up the story and the image through Hans
 
 ## Roz Dimon [23:34](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1414s)
 
-Did working with Hans Hoffman and his collection have any influence on you or not so much it
+Did working with Hans Hofmann and his collection have any influence on you or not so much it
 
 ## Karen LaFleur [23:40](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1420s)
 
-Wasn't Hans Hoffman it was a student of Hans Hoffman oh okay so did it influence my work no it gave me more of an idea of how to like I said provenance and artwork and realize that the artwork has a history beyond you just creating it which is an important lesson in my 30s and 40s to realize and
+Wasn't Hans Hofmann it was a student of Hans Hofmann oh okay so did it influence my work no it gave me more of an idea of how to like I said provenance and artwork and realize that the artwork has a history beyond you just creating it which is an important lesson in my 30s and 40s to realize and
 
 ## Roz Dimon [24:03](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=1443s)
 
@@ -365,7 +365,7 @@ Large is this they
 
 ## Karen LaFleur [36:54](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2214s)
 
-Were running probably 22 by 28 and I would sell these in the gallery constantly and they're all digitally created on photoshop digitally created yes now we are at 10 of
+Were running probably 22 by 28 and I would sell these in the gallery constantly and they're all digitally created on Photoshop digitally created yes now we are at 10 of
 
 ## Roz Dimon [37:10](https://www.youtube.com/watch?v=FDFxHrpDvEI&t=2230s)
 

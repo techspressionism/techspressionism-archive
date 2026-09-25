@@ -358,8 +358,67 @@ def remove_non_latin_hallucinations(text):
     return "\n\n".join(fix_par(p) for p in text.split("\n\n"))
 
 
+# ---- mechanical clean-ups (Colin, 25 Sep 2026: "fix" the lower-case product names, a/an mistakes and doubled punctuation) --------------------------------
+_PRODUCT_NAMES = {"ipad": "iPad", "ipads": "iPads", "iphone": "iPhone", "iphones": "iPhones", "ipod": "iPod", "imovie": "iMovie", "ios": "iOS", "itunes": "iTunes",
+                  "macbook": "MacBook", "wordpress": "WordPress", "instagram": "Instagram", "youtube": "YouTube", "photoshop": "Photoshop", "pokemon": "Pok\u00e9mon",
+                  "icolorama": "iColorama"}
+# not inside an address or handle (instagram.com/x, @youtube, a-b-photoshop)
+_PRODUCT_RE = re.compile(r"(?<![\w./@\-])(" + "|".join(_PRODUCT_NAMES) + r")(?![\w@\-]|\.[a-z]|/)", re.IGNORECASE)
+
+
+def fix_product_names(text):
+    return _PRODUCT_RE.sub(lambda m: _PRODUCT_NAMES[m.group(1).lower()], text)
+
+
+_FALSE_START = r"in|into|and|as|at|on|if|or|of|it|its|it's|is|i|i'm|i've|i'll|i'd|are|all|also|about|after|again|ago|any|another|around|always|actually|even|either|every|everything|ever|else|each|enough|often|only|over|out|off|up|upon|under|already|almost|although|among|anyway|anyone|anything|are|aren't|as|a|an"
+_A_BEFORE_VOWEL = re.compile(r"\b([Aa])( +)(?!(?i:" + _FALSE_START + r")\b)(?=(?i:[aeio][a-z]|hour|honest|honor|honour|heir)[A-Za-z\-']*\b)(?!(?i:one\b|once\b|ones\b|eu|ewe\b|oui\b))")
+_ACRONYMS = "nft|nfts|mfa|fbi|sql|svg|html|xml|mri|lcd|led|rss|sms|mba|mvp|ftp|faq|fyi|hdr|nda|npc|nyc|mp|rf|lsd|std|sos|ssd|xr|nsa|mit|mfa|rn|hr|fx|rgb|lcd|smtp|mfc|fcc|nba|nhl|nfl|mtv|npr|nyu|sva"
+_AN_BEFORE_CONSONANT = re.compile(r"\b([Aa]n)( +)(?!(?i:" + _ACRONYMS + r")\b)(?=[bcdfgjklmnpqrstvwxz](?=[a-z]*[aeiouy])[a-z]{2,}\b)")
+
+
+def fix_articles(text):
+    """"a artist" -> "an artist", "an painting" -> "a painting". Only clear cases: a before a word that starts with a, e, i or o (not "one", "once", "eu..."),
+    or the silent-h words hour, honest, honor, heir; "an" before a lower-case word that starts with a consonant (not h, y, or a spelled-out letter). Words starting
+    with u are left alone (a unique / an umbrella need the sound, not the letter)."""
+    text = _A_BEFORE_VOWEL.sub(lambda m: m.group(1) + "n" + m.group(2), text)
+    return _AN_BEFORE_CONSONANT.sub(lambda m: m.group(1)[:-1] + m.group(2), text)
+
+
+_ARTIST_NAME_FIXES = [      # (pattern, correction): a misheard or misspelled name, only in the phrase where the surrounding words show who is meant (Colin, 25 Sep 2026)
+    (r"\bPollick[- ]Krasner\b|\bPollock Brasner\b", "Pollock-Krasner"),
+    (r"\bLee Kasner\b", "Lee Krasner"),
+    (r"\bKanditsky\b", "Kandinsky"),
+    (r"\bStena Vasuka\b|\bStane of Vesulka\b", "Steina Vasulka"),
+    (r"\bRoman Virosko\b", "Roman Verostko"),
+    (r"\bVera (?:Monar|Mohner)\b", "Vera Molnar"),
+    (r"\bMaria Abramovich\b", "Marina Abramovi\u0107"),
+    (r"\bEgon Schiegel\b|\bcalled Schiegel\b", lambda m: "Egon Schiele" if m.group(0).startswith("Egon") else "called Schiele"),
+    (r"\bRinehart(?=, Motherwell)", "Reinhardt"),
+    (r"\bRuth Levitt(?=, Artist and Computer)", "Ruth Leavitt"),
+    (r"\bHans Hoffman\b", "Hans Hofmann"),
+    (r"\bFran(?:z|ce) Klein\b", "Franz Kline"),
+    (r"\bManfred Moore\b", "Manfred Mohr"),
+    (r"\bBen Laposki\b", "Ben Laposky"),
+    (r"\bchuck, Suri\b", "Chuck Csuri"),
+    (r"\bHarold Cohn\b", "Harold Cohen"),
+    (r"\bNam June Pike\b", "Nam June Paik"),
+]
+_ARTIST_NAME_RES = [(re.compile(p, re.IGNORECASE), r) for p, r in _ARTIST_NAME_FIXES]
+
+
+def fix_artist_names(text):
+    for rx, r in _ARTIST_NAME_RES:
+        text = rx.sub(r, text)
+    return text
+
+
+def fix_doubled_punctuation(text):
+    text = re.sub(r"(?<![.\u2026])\.\.(?![.\u2026])", ".", text)      # ".." -> "." ("..." is an ellipsis and stays)
+    return re.sub(r",{2,}", ",", text)
+
+
 def apply_style_rules(text):
-    text = fix_ai_terms(spell_out_emails(fix_techspressionism(text)))
+    text = fix_artist_names(fix_doubled_punctuation(fix_articles(fix_product_names(fix_ai_terms(spell_out_emails(fix_techspressionism(text)))))))
     text = re.sub(r"(?:(?<=\s)|^)\.(?:\s+\.){2,}(?=\s|$)", "\u2026", text)          # a run of stray periods (Whisper in silence) becomes one ellipsis
     text = re.sub(r"\b(Techspressionist) salon\b", r"\1 Salon", text)
     text = re.sub(r"\b(Techspressionist Salon) number\b", r"\1 Number", text)
