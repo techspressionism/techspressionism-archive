@@ -2580,13 +2580,17 @@ async function enhanceCitations(root) {{
   }}
 }}
 
-// Search matches WHOLE WORDS. The search engine's default also matches word beginnings and word stems, so "hat" finds
-// hate, hated, hatch, hatred ...; putting each word in quotes makes it exact ("hat" finds hat and hats). Words the
-// visitor already put in quotes (a phrase) are left as typed.
+// One word matches WHOLE WORDS: the search engine's default also matches word beginnings and word stems, so "hat" finds
+// hate, hated, hatch ...; quoting the word makes it exact ("hat" finds hat and hats). Several words: the recording must
+// contain ALL of them, anywhere (searching python matlab finds the recordings that mention both). They are sent
+// unquoted on purpose: the search engine reads adjacent quoted words ("python" "matlab") as ONE exact phrase, which found
+// nothing unless the two words stood side by side (reported by a team member 25 Sep 2026). Words the visitor put in
+// quotes (a phrase) are left as typed.
 function exactQuery(text) {{
   const v = text.trim();
   if (!v || v.indexOf('"') >= 0) return v;
-  return v.split(/\s+/).map((w) => '"' + w + '"').join(" ");
+  const words = v.split(/\s+/);
+  return words.length === 1 ? '"' + words[0] + '"' : words.join(" ");
 }}
 
 function pillTime(seconds) {{
