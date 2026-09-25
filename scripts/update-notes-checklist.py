@@ -238,9 +238,103 @@ def write_review():
     Path(path).unlink(missing_ok=True)
 
 
+DEC_SRC = ROOT / "private" / "archive-decisions.txt"
+DEC_SNAPSHOT = ROOT / "private" / "notes-synced-decisions.json"
+DEC_TITLE = "Archive Decisions"
+
+
+def parse_decisions():
+    """(intro lines, [{id, status, text, answer}]) from private/archive-decisions.txt."""
+    intro, items, cur = [], [], None
+    for raw in DEC_SRC.read_text().splitlines():
+        line = raw.rstrip()
+        m = re.match(r"^\[( |a|x)\] (D\d+)\. (.*)", line)
+        if m:
+            cur = {"status": m.group(1), "id": m.group(2), "text": m.group(3), "answer": ""}
+            items.append(cur)
+            continue
+        m = re.match(r"^\s+ANSWER:\s*(.*)", line)
+        if m and cur is not None:
+            cur["answer"] = m.group(1).strip()
+            continue
+        if line.startswith("LOG"):
+            cur = None
+        elif cur is None and not items and line.strip() and not line.startswith("ARCHIVE DECISIONS"):
+            intro.append(line)
+    return intro, items
+
+
+def decisions_html(intro, items):
+    e = html.escape
+    out = [f"<h1>{e(DEC_TITLE)}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
+    open_items = [i for i in items if i["status"] != "x"]
+    if not open_items:
+        out.append("<p>Nothing waiting for you.</p>")
+    for i in open_items:
+        out.append(f"<p><b>{e(i['id'])}. {e(i['text'])}</b></p>")
+        out.append(f"<p>ANSWER: {e(i['answer'])}</p>")
+    return "\n".join(out)
+
+
+def pull_decisions():
+    """Read Colin's answers from the note into private/archive-decisions.txt (status [a]); an item he deleted from the note is marked [x]."""
+    if not DEC_SRC.exists():
+        return []
+    r = subprocess.run(["osascript", "-e", READ % (DEC_TITLE, DEC_TITLE)], capture_output=True, text=True, timeout=350)
+    note = r.stdout
+    if not note.strip():
+        return []
+    lines = [l.rstrip() for l in note.splitlines()]
+    answers, present = {}, set()
+    cur = None
+    for l in lines:
+        m = re.match(r"^\s*(D\d+)\.", l)
+        if m:
+            cur = m.group(1)
+            present.add(cur)
+            continue
+        m = re.match(r"^\s*ANSWER:\s*(.*)", l)
+        if m and cur:
+            answers[cur] = m.group(1).strip()
+            cur = None
+    intro, items = parse_decisions()
+    written = set(json.loads(DEC_SNAPSHOT.read_text())) if DEC_SNAPSHOT.exists() else set()
+    text = DEC_SRC.read_text()
+    new_answers = []
+    for i in items:
+        if i["status"] == "x":
+            continue
+        if i["id"] in written and i["id"] not in present:          # removed from the note by Colin: dismissed
+            text = re.sub(r"^\[[ a]\] " + i["id"] + r"\.", "[x] " + i["id"] + ".", text, flags=re.M)
+            print(f"  {i['id']}: removed from the note, marked done")
+            continue
+        a = answers.get(i["id"], "")
+        if a and a != i["answer"]:
+            text = re.sub(r"^(\[)[ a](\] " + i["id"] + r"\..*\n\s+ANSWER:).*$", lambda m: m.group(1) + "a" + m.group(2) + " " + a, text, flags=re.M, count=1)
+            new_answers.append((i["id"], i["text"], a))
+    DEC_SRC.write_text(text)
+    print(f"Archive Decisions note: {len(new_answers)} new answer(s)")
+    for i, q, a in new_answers:
+        print(f"  ANSWER {i}: {a}\n     (question: {q[:90]})")
+    return new_answers
+
+
+def write_decisions():
+    intro, items = parse_decisions()
+    with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
+        f.write(decisions_html(intro, items))
+        path = f.name
+    r = subprocess.run(["osascript", "-e", SCRIPT % (path, DEC_TITLE, DEC_TITLE)], capture_output=True, text=True, timeout=650)
+    print("Archive Decisions:", (r.stdout or r.stderr).strip())
+    if r.returncode == 0:
+        DEC_SNAPSHOT.write_text(json.dumps([i["id"] for i in items if i["status"] != "x"]))
+    Path(path).unlink(missing_ok=True)
+
+
 def main():
     import sys
     gone, new = pull()
+    pull_decisions()
     rgone, rnew = pull_review()
     if "--pull" in sys.argv:
         return
@@ -248,6 +342,7 @@ def main():
         print("New lines in a note are not in its master list yet: add them to private/archive-checklist.txt or private/archive-review.txt first (Claude does this), then run again.")
         return
     write_review()
+    write_decisions()
     phases = parse()
     body = build_html(phases)
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
