@@ -35,7 +35,7 @@ Okay.
 
 ## Unattributed [01:57](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=117s)
 
-So I'll start sharing my screen. Let's see.. Can you all see my screen?
+So I'll start sharing my screen. Let's see. Can you all see my screen?
 
 ## Michael Pierre Price [02:16](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=136s)
 

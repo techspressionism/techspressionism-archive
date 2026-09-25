@@ -174,7 +174,7 @@ A mouse m.
 
 And that's what I'm going to do. Yeah, that's a good idea. Okay.
 
-So this has. Some nice sort of.. A bit just… and sh. Lots of more of the pieces. My intention was to do the whole roll. Those babies. We had gallery viewers who took precedence in that moment. Yeah, exactly.
+So this has. Some nice sort of. A bit just… and sh. Lots of more of the pieces. My intention was to do the whole roll. Those babies. We had gallery viewers who took precedence in that moment. Yeah, exactly.
 
 I think we can get Rex, I'm gonna ask him to repr. Cynthia D. Donato's piece, I think something Captain. With the color profile. I know she's noticing. The colors aren't quite right. So I'm going to follow up on that just as a note between us that's being recorded for posterity. We'll see what I Oh. No. So let me jump ahead a little bit.
 

@@ -175,11 +175,11 @@ VLC. Share. And please let me know if it's not working correctly. Just go ahead 
 
 ## Unattributed [42:39](https://www.youtube.com/watch?v=xm747MwGbiA&t=2559s)
 
-My name is Beau Tardy and I am an artist...! My tag is B-Love because I believe that love is the most powerful force in the universe.. Love is what I want to communicate as an artist. My work merges high art and low art. Fine art and pop art. Traditional means and modern technology. My art is called electronism.
+My name is Beau Tardy and I am an artist...! My tag is B-Love because I believe that love is the most powerful force in the universe. Love is what I want to communicate as an artist. My work merges high art and low art. Fine art and pop art. Traditional means and modern technology. My art is called electronism.
 
-My style freely borrows from pop culture and mass media because I believe that today's artist needs to use all available media modalities to be effective in a hyper saturated world.. I see myself as an art scientist.. Early on while studying illustration and painting in art school and getting my work published in magazines like the East Village Eye, I realized that the future of art was digital.
+My style freely borrows from pop culture and mass media because I believe that today's artist needs to use all available media modalities to be effective in a hyper saturated world. I see myself as an art scientist. Early on while studying illustration and painting in art school and getting my work published in magazines like the East Village Eye, I realized that the future of art was digital.
 
-I took the very first computer graphics class at Parsons School of Design and also took a master's degree in computer graphics. I also applied for a grant from the French Ministry of Culture for my electronism project. The term digital art didn't really exist at the time and computer graphics was still frowned upon. They were derisively called flying logos. Pretty soon though I was making flying logos on my own..
+I took the very first computer graphics class at Parsons School of Design and also took a master's degree in computer graphics. I also applied for a grant from the French Ministry of Culture for my electronism project. The term digital art didn't really exist at the time and computer graphics was still frowned upon. They were derisively called flying logos. Pretty soon though I was making flying logos on my own.
 
 Still I knew there was much more that could be done with the technology. And so I started experimenting using these expensive tools when nobody was watching. …
 
@@ -291,7 +291,7 @@ But I was like having artists interview other artists and finding weird, like ho
 
 And it's super cool. And then like a bunch of artists are organizing this show in LA. That's opening up in a couple of weeks. Totally. You know, it's just like, you guys run with it, whatever. And like, I'll publish it on the site. And just seeing, that witnessing that, it's very gratifying, you know, I feel like in a way it, it makes my own personal work seem sort of trivial, honestly, to see the interconnections happening between people, like something important is happening, I think, you know, and it's really like I planted a seed and now all this other stuff is happening because everyone else is watering in, you know, pouring, miracles, like that. So anyway, I'm just rambling now, but, we still have a little time if anyone has any, other questions or if any of the participating artists want to share anything, you know, I think it was, I think it was a good point.
 
-Is sort of need to have a hobby or, or, or, you know, an outlet to, to, to sort of, to find your next kind of, you know, the, the next thing, you know, when you're mentioning the,, the, the professionals that you're working with that had, had, you know, art, art going in the background.
+Is sort of need to have a hobby or, or, or, you know, an outlet to, to, to sort of, to find your next kind of, you know, the, the next thing, you know, when you're mentioning the, the, the professionals that you're working with that had, had, you know, art, art going in the background.
 
 ## Unattributed [01:20:27](https://www.youtube.com/watch?v=xm747MwGbiA&t=4827s)
 

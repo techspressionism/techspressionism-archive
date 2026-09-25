@@ -175,9 +175,9 @@ And lastly, this one is called Black Holes, Boltzmann Brains, and the Heat Death
 
 So it gets to be kind of heady stuff. But. This was another boundary that I thought was rather interesting to take a look at that I wanted to try and put my hand at creating some imagery towards. So thank you. Thank you very much, Michael. The Boltzmann brain. It's a concept that Michael introduced us to during the roundtable discussion we had with Tommy, Roz. And I've not been able to stop thinking about that for a while.
 
-Marlo, how's it going there? You're muted again. You're muted. I can try it again. Sure. It seems that the video should be able to hear you. It seems that the audio is able to be played. So let me bring up that one slide. That's the slide. Let me go to share. And I'll keep my fingers crossed here..
+Marlo, how's it going there? You're muted again. You're muted. I can try it again. Sure. It seems that the video should be able to hear you. It seems that the audio is able to be played. So let me bring up that one slide. That's the slide. Let me go to share. And I'll keep my fingers crossed here.
 
-..!!!!.. Wilted the breaks and ruptures, products of momentary amnesia, they have a memory. A memory that longs for cohesiveness. And like the concentric circles radiating from the heart of an aging tree, the newly mended fabric of my being expands. Other, with each return to the heart, each growth of another circle, other becomes one.
+.!!!!. Wilted the breaks and ruptures, products of momentary amnesia, they have a memory. A memory that longs for cohesiveness. And like the concentric circles radiating from the heart of an aging tree, the newly mended fabric of my being expands. Other, with each return to the heart, each growth of another circle, other becomes one.
 
 So you all, oh, did you see this time? Okay. Yes, yes. Thank you. That was beautiful. Thanks for your patience. Thank you. Yeah, you're welcome. Thank you. Thank you. I didn't ask, I asked at the beginning, but I'm going to ask again if there are any other artists who wish to show us anything. Susan?
 

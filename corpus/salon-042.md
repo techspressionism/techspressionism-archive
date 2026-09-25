@@ -753,7 +753,7 @@ Beautiful.
 
 ## Roz Dimon [55:05](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3305s)
 
-Meltdown Love is the artist. Media disease. Print sees eyes. Digital monoprint on aluminum from Ukraine, 2021..
+Meltdown Love is the artist. Media disease. Print sees eyes. Digital monoprint on aluminum from Ukraine, 2021.
 
 ## Unattributed [55:23](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3323s)
 
@@ -1023,7 +1023,7 @@ So you can see that they're both on either side of the door.
 
 ## Roz Dimon [01:18:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4720s)
 
-Thanks, Colin. I'm moving along to,, so many great works. 10, 10, 23 X. The title is words and below that. Another piece by the same artist. So vain, NFT photo print NFT photo print.
+Thanks, Colin. I'm moving along to, so many great works. 10, 10, 23 X. The title is words and below that. Another piece by the same artist. So vain, NFT photo print NFT photo print.
 
 ## Colin Goldberg [01:18:58](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4738s)
 
@@ -1085,9 +1085,9 @@ Thank you, Stephanie. Okay. Research Giovanna, would you like to, say a few word
 
 Oh yeah. Yeah, the first of all, I have to have a big science to a dival because he's the one brought me introduced me to calling and, and also of course, the, you know, I'm such honor to join these. Take Christian easy and the movement. I, I already, put my, linking the chart. So if, yeah, if a calling, you can share the screen. People can see my, image.
 
-Here. Yes. It's actually, I have a 4k video. So this is a video, not a still image. I think,, I probably, I forgot to attach in a trial, but I like to say a little. A little bit about it. The, the title is, the women's power. So I use a rose. I really love a rose, Bob and also rock. So you can see all these, rock and the roles that represent like a, like a, a woman can be very beautiful and also very strong, like a rock. And the, the original, this image is also like a, my favorite vintage image, public domain from Metropolitan Museum of art. So if you look closely from your,, if you have a web version, you, you, you can, just zoom, zoom out. So you can see is actually there. There's a, there's a woman. She's a queen. She's, she's on the top.
+Here. Yes. It's actually, I have a 4k video. So this is a video, not a still image. I think, I probably, I forgot to attach in a trial, but I like to say a little. A little bit about it. The, the title is, the women's power. So I use a rose. I really love a rose, Bob and also rock. So you can see all these, rock and the roles that represent like a, like a, a woman can be very beautiful and also very strong, like a rock. And the, the original, this image is also like a, my favorite vintage image, public domain from Metropolitan Museum of art. So if you look closely from your, if you have a web version, you, you, you can, just zoom, zoom out. So you can see is actually there. There's a, there's a woman. She's a queen. She's, she's on the top.
 
-And,, there was a, like a king on the top. So somehow I just delete that king because I feel like. We need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, how, how about we live women's on the top? So that's why, and this is also a tribute to the International Women's Month last month, March.
+And, there was a, like a king on the top. So somehow I just delete that king because I feel like. We need to have a more female leader. So let the women be on the top. Okay. Because I saw so many images. They always put the, the, the women on the bottom and the king on the top and somehow, so this is like, I have these, a metaphor, metaphor, metaphor, metaphor that, how, how about we live women's on the top? So that's why, and this is also a tribute to the International Women's Month last month, March.
 
 Yeah, so that's what I want to say.
 
@@ -1453,7 +1453,7 @@ I do not think she's here with us. Don't think is here. Yeah. I'll paste it a li
 
 ## Roz Dimon [02:00:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=7228s)
 
-Great. We now have a very huge wall that you can see from the beginning when you come in this room by Frank Gillette. And it's post apocalypse. And some of them are numbered different numbers and also preludes. All are ink on our cut. Painter made with quite dramatic presentation of work. I'll save it by. See that..
+Great. We now have a very huge wall that you can see from the beginning when you come in this room by Frank Gillette. And it's post apocalypse. And some of them are numbered different numbers and also preludes. All are ink on our cut. Painter made with quite dramatic presentation of work. I'll save it by. See that.
 
 .!
 

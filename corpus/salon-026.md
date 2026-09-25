@@ -22,7 +22,7 @@ Hello, hello, and welcome everyone to our Techspressionism Virtual Salon. Today 
 
 But if you are just tuning in or have no idea what the Techspressionism Collab project, is. It's a project that I kind of envisioned that was inspired by that famous collab all those years ago between Basquiat and Warhol. And I thought, you know, because this is the day, the day and age that we live in and that technology is already connecting us, to one another through things like Zoom and Discord and Facebook and all these other things. Why not create a...
 
-It was collaboration art project utilizing some of those same tools? Like we might not be able to physically be working alongside each other, but you know, virtual is kind of the next best thing. Especially in the context of no ongoing pandemic that still hasn't quite abated. So. No. Just wanting artists to be able to further connect with each other and produce great artwork.. In a virtual context.
+It was collaboration art project utilizing some of those same tools? Like we might not be able to physically be working alongside each other, but you know, virtual is kind of the next best thing. Especially in the context of no ongoing pandemic that still hasn't quite abated. So. No. Just wanting artists to be able to further connect with each other and produce great artwork. In a virtual context.
 
 So that gave rise to this project. And this is our second one. The first one was now several months ago. And this one actually technically concluded right around March of this year. But, you know, things got pushed aside and it's been long going, but it's finally here. And I'm finally glad to be able to show you guys all this wonderful work that has been created during that time period. And it's been a joy to work with the artists, a joy to work with, you know, Brandon and Colin on getting this together and getting this on the road. And yeah.
 
@@ -232,7 +232,7 @@ How did you come up with your titling for some of these pieces? Does this one is
 
 ## Malavika Mandal Andrew [26:20](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1580s)
 
-So as I, they, and we give his one, but I can tell my one, my, I have given the,, though vibration word I added because, as I said, my, I have used the joy and the blooming. And, the song. Is related with the. And the spring. So which gives life. And, the sound is the part which added by the on. So that's how I thought of. He, using these two names and what you don't use is again, I think it's from the picture from the song on the, am I right? Yeah.
+So as I, they, and we give his one, but I can tell my one, my, I have given the, though vibration word I added because, as I said, my, I have used the joy and the blooming. And, the song. Is related with the. And the spring. So which gives life. And, the sound is the part which added by the on. So that's how I thought of. He, using these two names and what you don't use is again, I think it's from the picture from the song on the, am I right? Yeah.
 
 ## Ryan Henderson [27:01](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1621s)
 
@@ -240,7 +240,7 @@ Yeah. Though I think it was part of the lyrics or what I understood of it. Got i
 
 ## Malavika Mandal Andrew [27:06](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1626s)
 
-Because Neil D. Gontay is the meaning of blue sky. I mean, when, when the, when the blooming starts, when the, spring starts, it's so it's just the leaf starts coming out. So need because there's the blooming sky and, the other one, I'm sorry. I just,, blue eyes. And it's also the, they take it, dance.
+Because Neil D. Gontay is the meaning of blue sky. I mean, when, when the, when the blooming starts, when the, spring starts, it's so it's just the leaf starts coming out. So need because there's the blooming sky and, the other one, I'm sorry. I just, blue eyes. And it's also the, they take it, dance.
 
 So it's all picked up from the, our, our songs.
 
@@ -298,7 +298,7 @@ And who added, who added that, plateau that's in the background. That's I, I did
 
 ## Malavika Mandal Andrew [30:37](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1837s)
 
-Actually speaking, that is the last work. I mean, slowly, slowly we start understanding maybe that's the reason that's the last work we did. And,, and these are the photographs I have taken. I mean, this is a mixed photograph. It's not one. I think some four or five photographs are there in this, when I created this, landscape. And, it's having, there's a place called the dark here. Then there is a place., is that the
+Actually speaking, that is the last work. I mean, slowly, slowly we start understanding maybe that's the reason that's the last work we did. And, and these are the photographs I have taken. I mean, this is a mixed photograph. It's not one. I think some four or five photographs are there in this, when I created this, landscape. And, it's having, there's a place called the dark here. Then there is a place., is that the
 
 ## Unattributed [31:24](https://www.youtube.com/watch?v=cYU7eKBcCto&t=1884s)
 

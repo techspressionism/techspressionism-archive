@@ -27,7 +27,7 @@ from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from lib_corrections import apply_style_rules, apply_vocabulary, correct_text, fix_midsentence_caps, _ordinary_words
+from lib_corrections import apply_style_rules, apply_vocabulary, correct_text, fix_doubled_punctuation, fix_midsentence_caps, _ordinary_words
 from lib_media import TYPES, label, selected, slug
 from lib_sentences import sentence_times
 from lib_speakers import canonical_name, finalize_speakers, is_not_speaker
@@ -815,6 +815,8 @@ def process_session(session, artists, vocab_terms, review_rows):
             if seg["start"] is not None:
                 seg["para_starts"][0] = seg["start"]     # the first paragraph shares the turn's printed time
     segments = apply_text_edits(session, segments)
+    for seg in segments:            # doubled punctuation left behind by the steps above (".." / ",,"): the last text change before sentence times are worked out
+        seg["text"] = fix_doubled_punctuation(seg["text"])
     for seg in segments:            # a start time for every sentence (the search results play from the sentence before the match)
         paras = seg["text"].split("\n\n")
         maps = seg.pop("para_maps", None)

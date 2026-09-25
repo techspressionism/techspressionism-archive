@@ -345,7 +345,7 @@ So one of the things for me that I've gotten very much involved with and was ins
 
 This is the PlayForm site. And I have been working on, based on just, this has been just testing that I've done. A lot of my creative work is sort of the mad scientist, physicist, that feeds my soul a lot. So I took 105 of my own fractal-based artwork over the past six or seven years, just as an experiment to try out this PlayForm platform.
 
-And these were the seed images then that I used to do the work. So I took the first set of 64, and I'm going to go back to my mathematics here. If you think of what's going on here, it's almost like these are derivatives of equations, of fractal equations. So if you look at the graph, you'll see that these are the results of the ities.. These are things that you would never see as a regular fractal image.
+And these were the seed images then that I used to do the work. So I took the first set of 64, and I'm going to go back to my mathematics here. If you think of what's going on here, it's almost like these are derivatives of equations, of fractal equations. So if you look at the graph, you'll see that these are the results of the ities. These are things that you would never see as a regular fractal image.
 
 And like I said, to me, these are like derivatives, mathematical derivatives of the fractal mathematics, now creating some new types of imagery that I'm going to be utilizing in some form or fashion. So this is kind of the vanguard for me of a new set of images. So I think it's going to be a lot of works, but I don't know where it's going. So I just wanted to kind of briefly share that with all of you.
 

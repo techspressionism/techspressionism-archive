@@ -265,11 +265,11 @@ And it's all in a. You know? Digital.
 
 ## Roz Dimon [20:50](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1250s)
 
-Right. The multi..
+Right. The multi.
 
 ## Darcy Gerbarg [20:54](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1254s)
 
-So for instance, this one on the right is in a room. And over here, I'm sorry. Over here, you can see some flowers that were. And.. So I really like the idea of not trying to make it look like a real world. So I keep that. I don't have to. I want to add the visual complexity. So know that this is with an AR object. Because it's an abstract thing. Yeah. That's because it works. It's always interesting to kind of hear the art.
+So for instance, this one on the right is in a room. And over here, I'm sorry. Over here, you can see some flowers that were. And. So I really like the idea of not trying to make it look like a real world. So I keep that. I don't have to. I want to add the visual complexity. So know that this is with an AR object. Because it's an abstract thing. Yeah. That's because it works. It's always interesting to kind of hear the art.
 
 ## Roz Dimon [21:16](https://www.youtube.com/watch?v=aP2x9m5GMak&t=1276s)
 

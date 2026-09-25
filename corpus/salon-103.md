@@ -265,7 +265,7 @@ I think that's our first salon that was dedicated to the topic of AI. And right.
 
 And all the typography was done manually. But, you know, in creating these graphics, some of them are not AI. Like this is an installation shot from the exhibition in Chelsea that Tommy Mintz curated a while back. You know, so not everything is AI. But I think it's a great way to kind of create a graphic that's more of a graphic AI. But a lot of the images, the majority of them, I used AI. So that was a way, and this one here too, for this particular salon was generated in mid-journey, this image. And usually it takes a couple rounds of prompting, and sometimes I'll manipulate it a little bit afterwards.
 
-So fast forward to,, like when, I don't know, the last year or so I, I picked up and started playing around with Sora, which is, OpenAI's, text to video prompting tool. And this was the first one that I, that I did just for the fun of it. I asked, Sora to come up with something.
+So fast forward to, like when, I don't know, the last year or so I, I picked up and started playing around with Sora, which is, OpenAI's, text to video prompting tool. And this was the first one that I, that I did just for the fun of it. I asked, Sora to come up with something.
 
 Basically, the prompt was Andy Warhol talking about Techspressionism. So let me see if I can just channel through the circuitry.
 
@@ -293,7 +293,7 @@ And his work is quite political and pretty humorous using AI tools. So, you know
 
 So the way that I work is I, I paint on linen and then basically print on top of it. I bring the image of the painting to the painting into the computer, do a digital drawing that is superimposed upon that layer, and then actually run the painted surface through my printer, which is an old Epson 9800. And so, and then rinse and repeat, do multiple runs of that. So this So this is actually this body of work, the overpainted work or overprinted work, rather, is really where I kind of like, you know, came up with this. That's what originated this idea, this term Techspressionism for me initially was the combination of gestural painting and digital overprinting. So, you know. Is the, the starting point for what I'm going to show you. And that's a piece from, the series of mine, called Wireframes.
 
-And I have a bunch of different work on my website from this series, paintings, works on paper, et cetera. And I'm going to show you some of the paintings. So these are various paintings, you know, going kind of like in chronological order, this being the most recent and going back. And some of these are quite large. Like this is the finished piece, of the one that was, in the video of me,, running through my printer. And that gives you a sense of the scale. It's a three by four foot, piece. Some of them are larger., let's see. Yeah, this one is, this is probably the largest 36 by 64. And it's actually, I created these ones, this, this painting and a lot of them in particular to correspond with, HD dimensions. So it's, 16 to nine aspect ratio. And that was a conscious sort of choice.
+And I have a bunch of different work on my website from this series, paintings, works on paper, et cetera. And I'm going to show you some of the paintings. So these are various paintings, you know, going kind of like in chronological order, this being the most recent and going back. And some of these are quite large. Like this is the finished piece, of the one that was, in the video of me, running through my printer. And that gives you a sense of the scale. It's a three by four foot, piece. Some of them are larger., let's see. Yeah, this one is, this is probably the largest 36 by 64. And it's actually, I created these ones, this, this painting and a lot of them in particular to correspond with, HD dimensions. So it's, 16 to nine aspect ratio. And that was a conscious sort of choice.
 
 Also rotated nine degrees vertically, same, same proportions., so anyway, I started playing around with this. This idea of feeding the actual images of the hand painted work into Sora with a variety of different prompts. And well, I'm skipping ahead here. So after I started doing this overprinting, which, I first, ran a painted service through my printer back in 2005, I started experimenting with augmented reality and AR. So the first body of work that I, incorporated, AR into were these digital drawings called Metagraphs. And you could see as you're looking at it through, an app, it'll animate and these are digital drawings. So at some point I started exhibiting these, at a gallery and some of the people coming through said, Hey, can you, can you animate your paintings?
 
@@ -301,7 +301,7 @@ And I said, well, no, you know, like there's really no way that I can go in and 
 
 ## Unattributed [57:00](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3420s)
 
-.. Thank you. Thank you. Thank you. Thank you. Thank you.
+. Thank you. Thank you. Thank you. Thank you. Thank you.
 
 ## Colin Goldberg [01:01:01](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3661s)
 

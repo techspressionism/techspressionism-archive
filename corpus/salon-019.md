@@ -141,7 +141,7 @@ Yeah. Hold on. Yeah, one second. Technical difficulties do happen. Absolutely. T
 
 Yeah, so we're seeing more of your desktop as well. Oh, wait, wait. I think we got it. Like useful. There you go. I think we got it. There we go. Hey. You got it. You got it. You got it. We got it. OK. Well, let's see. What was I talking about? Oh, I lived most of my life in Los Angeles. And so I attended college there and went to Cal State Northridge.
 
-And this painting is from the little solo show that the university gave me when I was graduating. I had the good fortune to have a friend who was a professor at Cal State Northridge. And I was a good fortune while there to study with Fritz Feiss and Hans Burkhardt. Fritz Feiss studied at the Bauhaus with Paul Clay and Kandinsky.
+And this painting is from the little solo show that the university gave me when I was graduating. I had the good fortune to have a friend who was a professor at Cal State Northridge. And I was a good fortune while there to study with Fritz Faiss and Hans Burkhardt. Fritz Faiss studied at the Bauhaus with Paul Clay and Kandinsky.
 
 And Burkhardt studied with Ashley Gorky and was studio partner with him and Mark Tobey. So this was not only from my first solo show, but it was also a very special experience for me. And it was the very first painting I sold. The man who bought it became a good friend, bought many paintings throughout my career. And he is no longer with us. I got the painting back.
 

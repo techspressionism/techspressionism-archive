@@ -213,7 +213,7 @@ And there's various colors here that you can see. You have blue, red, this purpl
 
 And then next, one of the few pieces of mine that actually features texts. I don't use texts a whole lot. This one may double check. I created this one January 13th of 2021. So this is right on the heels of the January 6th event. And there was a lot of feelings regarding that. You can see the Maga being kind of highlighted in red here. Certain phrases, make us a great, you against us, all lives matter.
 
-What else there's, there's, I wrote a lot in here. There's, there's a lot of details within this one. But it was called, this one's title. It's not all the same. Following that you have another kind of text-based piece. This is called the blue. This was, actually excerpts from,, Joe Biden's inaugural speech.
+What else there's, there's, I wrote a lot in here. There's, there's a lot of details within this one. But it was called, this one's title. It's not all the same. Following that you have another kind of text-based piece. This is called the blue. This was, actually excerpts from, Joe Biden's inaugural speech.
 
 And then to contrast that you had excerpts from Trump's last speech to the public while he was in office. And I've highlighted, you can see back and forth. There's various pieces are highlighted. Zoom in, but I guess that might be later when we have more time. And then there was, a piece I created that was a combination of the two. That is called, Believe in Hope Again.
 

@@ -565,7 +565,7 @@ Then just another book, you know, a nature book and these wires are the wires in
 
 ## Roz Dimon [48:00](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2880s)
 
-It also was a little like a Chinese sort of,, landscape in it somewhere.
+It also was a little like a Chinese sort of, landscape in it somewhere.
 
 ## Steve Miller [48:06](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2886s)
 
@@ -577,7 +577,7 @@ So multi-layered.
 
 ## Steve Miller [48:26](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2906s)
 
-And this is just, this is a book that,, Al Gore, won the Nobel prize for, and I, I photographed on, you know, I silkscreened on every it's called the earth and balance, which you can see there. And I just silkscreened on every page of the book, you know, kind of different kind of environmental messages. You've got the rat in the stomach of the snake, you know, it's some kind of, you know, understanding of like what's going on in our culture and what's going on in the environment. So the stuff you saw this summer, I don't know that those are actually two shark and an Osprey that flies to the Amazon, right? We have Osprey out here. And after the first year, you know, at the end of the season, they fly down to the Amazon for a couple of years and they, they come back after they've had, you know, reached sexual maturity, you know, they hunt for a couple of years down in the Amazon, they, they grow, and then they come back North and they stay North.
+And this is just, this is a book that, Al Gore, won the Nobel prize for, and I, I photographed on, you know, I silkscreened on every it's called the earth and balance, which you can see there. And I just silkscreened on every page of the book, you know, kind of different kind of environmental messages. You've got the rat in the stomach of the snake, you know, it's some kind of, you know, understanding of like what's going on in our culture and what's going on in the environment. So the stuff you saw this summer, I don't know that those are actually two shark and an Osprey that flies to the Amazon, right? We have Osprey out here. And after the first year, you know, at the end of the season, they fly down to the Amazon for a couple of years and they, they come back after they've had, you know, reached sexual maturity, you know, they hunt for a couple of years down in the Amazon, they, they grow, and then they come back North and they stay North.
 
 ## Roz Dimon [49:29](https://www.youtube.com/watch?v=--L1ziEx3-A&t=2969s)
 

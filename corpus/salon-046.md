@@ -95,7 +95,7 @@ Nice and I appreciate that and I also wanted to mention you know the idea of nod
 
 ## Patrick Lichty [17:09](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1029s)
 
-Sure. Sure. Sure. Sure. Is that,, let's see here. Let's, let's open the, let's open the floor to Roz.
+Sure. Sure. Sure. Sure. Is that, let's see here. Let's, let's open the, let's open the floor to Roz.
 
 ## Roz Dimon [17:19](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=1039s)
 

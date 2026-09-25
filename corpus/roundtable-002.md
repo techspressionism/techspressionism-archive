@@ -100,7 +100,7 @@ What I did was I just took stills from the video. And you hear the original musi
 
 ## Tommy Mintz [12:48](https://www.youtube.com/watch?v=S_q30BIvh8c&t=768s)
 
-.. I wanted to talk a little bit about my animations because it's really something I'm delving into more deeply. I want to make five minute long ones now instead of one minute. So that's where it's going. But it's just really hard to share them with people. There's a tremendous amount of work that goes into a one minute piece. I work with very high resolution files. My files are always in 4K with stereo sound. But the only time people get to see them that way is if they can go to my Vimeo page channel and look at my Vimeo things that I put there or on my website. It's just it's disappointing when you, you know, I think we've all.
+. I wanted to talk a little bit about my animations because it's really something I'm delving into more deeply. I want to make five minute long ones now instead of one minute. So that's where it's going. But it's just really hard to share them with people. There's a tremendous amount of work that goes into a one minute piece. I work with very high resolution files. My files are always in 4K with stereo sound. But the only time people get to see them that way is if they can go to my Vimeo page channel and look at my Vimeo things that I put there or on my website. It's just it's disappointing when you, you know, I think we've all.
 
 ## Michael Pierre Price [13:40](https://www.youtube.com/watch?v=S_q30BIvh8c&t=820s)
 

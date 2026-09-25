@@ -403,6 +403,19 @@ _ARTIST_NAME_FIXES = [      # (pattern, correction): a misheard or misspelled na
     (r"\bHarold Cohn\b", "Harold Cohen"),
     (r"\bNam June Pike\b", "Nam June Paik"),
 ]
+_ARTIST_NAME_FIXES += [        # confirmed by hand from review/artist-name-candidates.csv (25 Sep 2026)
+    (r"\bFritz Feiss\b", "Fritz Faiss"),
+    (r"\bDavid Salley\b", "David Salle"),
+    (r"\bDonna Haraways work\b", "Donna Haraway's work"),
+    (r"\bMary Heilman\b", "Mary Heilmann"),
+]
+try:      # written by scripts/scan-notable-artists.py: misspelled first+last names of notable artists (Wikipedia's artist categories), fixed where the words around them are about art
+    import json as _json
+    from pathlib import Path as _Path
+    for _f in _json.loads((_Path(__file__).resolve().parent.parent / "data" / "artist-name-fixes.json").read_text()):
+        _ARTIST_NAME_FIXES.append((_f["pattern"], _f["replacement"]))
+except (OSError, ValueError):
+    pass
 _ARTIST_NAME_RES = [(re.compile(p, re.IGNORECASE), r) for p, r in _ARTIST_NAME_FIXES]
 
 

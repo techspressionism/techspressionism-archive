@@ -224,7 +224,7 @@ Have it up. So before I play this, as a lot of you know, I'm taking language fro
 
 ## Jan Swinburne [31:16](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1876s)
 
-..
+.
 
 ## Unattributed [31:21](https://www.youtube.com/watch?v=WCOXAr5_wdE&t=1881s)
 

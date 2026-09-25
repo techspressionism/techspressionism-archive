@@ -1,0 +1,12 @@
+[
+ {
+  "pattern": "\\bWolfgang Stahler\\b",
+  "replacement": "Wolfgang Staehle",
+  "seen": 2
+ },
+ {
+  "pattern": "\\bDonna Haraways\\b",
+  "replacement": "Donna Haraway",
+  "seen": 1
+ }
+]

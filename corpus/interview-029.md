@@ -317,7 +317,7 @@ Yeah, I'd like to check that out, for sure.
 
 ## Claudia Hart [22:18](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1338s)
 
-Yes, he's a great colorist. Cody is a fantastic colorist. And then… and we always argue about color. Because he likes… I like low contrast, and he likes high contrast, and then we have a lot of argumentation about that. But, anyway, like, some of these… like, this one, I actually painted a fake Mary Heilman painting underneath of it.
+Yes, he's a great colorist. Cody is a fantastic colorist. And then… and we always argue about color. Because he likes… I like low contrast, and he likes high contrast, and then we have a lot of argumentation about that. But, anyway, like, some of these… like, this one, I actually painted a fake Mary Heilmann painting underneath of it.
 
 ## Colin Goldberg [22:46](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=1366s)
 
