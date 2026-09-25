@@ -2586,10 +2586,15 @@ async function enhanceCitations(root) {{
 // unquoted on purpose: the search engine reads adjacent quoted words ("python" "matlab") as ONE exact phrase, which found
 // nothing unless the two words stood side by side (reported by a team member 25 Sep 2026). Words the visitor put in
 // quotes (a phrase) are left as typed.
+// Everyday filler words (with, the, of ...) are left out of a several-word search: they appear in every recording, so they matched everywhere and
+// the excerpts showed them instead of the words that were searched ("photography with python", 25 Sep 2026). If nothing else is left they stay.
+const FILLER = new Set("a an the and or but nor of to in on at by for with from as into onto about over under between through during without within is are was were be been am it its this that these those i you he she we they me him her us them my your his our their what which who whom whose when where why how do does did has have had not no yes so if then than there here also just very can could should would will shall may might must".split(" "));
 function exactQuery(text) {{
   const v = text.trim();
   if (!v || v.indexOf('"') >= 0) return v;
-  const words = v.split(/\s+/);
+  const all = v.split(/\s+/);
+  const kept = all.filter((w) => !FILLER.has(w.toLowerCase().replace(/[^a-z']/g, "")));
+  const words = kept.length ? kept : all;
   return words.length === 1 ? '"' + words[0] + '"' : words.join(" ");
 }}
 
