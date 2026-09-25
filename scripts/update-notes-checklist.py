@@ -7,6 +7,9 @@ open items followed by the recommendations. Done items are left out. Re-running 
     python3 scripts/update-notes-checklist.py           # first read the note and apply Colin's edits to the master list, then rewrite the note
     python3 scripts/update-notes-checklist.py --pull    # only read the note and apply his edits (no rewrite)
 
+The same is done for a second note, "Archive Review" (master: private/archive-review.txt, snapshot private/notes-synced-review.json): its items
+come from the UI/UX and transcript review, in sections, open items only.
+
 Two-way, so nothing he does in the note is lost: an item he deleted from the note is marked done ([x]) in the master list; a line he added
 that is not in the master list is printed (Claude then files it under the right phase). Only run this on the Mac where Notes is signed in.
 """
@@ -156,14 +159,95 @@ end timeout
 '''
 
 
+REVIEW_SRC = ROOT / "private" / "archive-review.txt"
+REVIEW_SNAPSHOT = ROOT / "private" / "notes-synced-review.json"
+REVIEW_TITLE = "Archive Review"
+
+
+def parse_review():
+    """(intro lines, [(section title, [open item texts])]) from private/archive-review.txt; done items ([x]) are left out."""
+    intro, secs, cur = [], [], None
+    for raw in REVIEW_SRC.read_text().splitlines():
+        line = raw.rstrip()
+        m = re.match(r"SECTION (.*)", line)
+        if m:
+            cur = (m.group(1).strip(), [])
+            secs.append(cur)
+            continue
+        if line.startswith("LOG"):
+            cur = None
+            continue
+        m = re.match(r"^\[( |\?)\] (.*)", line)
+        if m and cur is not None:
+            cur[1].append(("Decide: " if m.group(1) == "?" and not m.group(2).lower().startswith("decide") else "") + m.group(2))
+        elif cur is None and not secs and line.strip() and not line.startswith(("ARCHIVE REVIEW", "Key:")):
+            intro.append(line)
+    return intro, secs
+
+
+def review_html(intro, secs):
+    e = html.escape
+    out = [f"<h1>{e(REVIEW_TITLE)}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
+    for title, items in secs:
+        out.append(f"<h2>{e(title)}</h2>")
+        out.append("<ul>" + "".join(f"<li>{e(i)}</li>" for i in items) + "</ul>" if items else "<p>Nothing open.</p>")
+    return "\n".join(out)
+
+
+def pull_review():
+    """Apply Colin's edits in the Archive Review note to private/archive-review.txt. Returns (marked done, new lines)."""
+    if not REVIEW_SRC.exists():
+        return [], []
+    r = subprocess.run(["osascript", "-e", READ % (REVIEW_TITLE, REVIEW_TITLE)], capture_output=True, text=True, timeout=350)
+    note = r.stdout
+    if not note.strip():
+        print("Archive Review: no note yet (or it could not be read): nothing to pull")
+        return [], []
+    lines = {re.sub(r"^[\u2022\-\*]\s*", "", l).strip() for l in note.splitlines() if l.strip()}
+    intro, secs = parse_review()
+    known = {i.strip(): i for _, items in secs for i in items}
+    written = set(json.loads(REVIEW_SNAPSHOT.read_text())) if REVIEW_SNAPSHOT.exists() else set()
+    gone = [t for t in known if t in written and t not in lines]
+    heads = {REVIEW_TITLE, "Nothing open."} | {t for t, _ in secs} | {l.strip() for l in intro}
+    new = [l for l in lines if l not in known and l not in written and l not in heads]
+    if gone:
+        text = REVIEW_SRC.read_text()
+        for t in gone:
+            src = known[t].replace("Decide: ", "")
+            m = re.search(r"^\[[ ?]\] " + re.escape(src[:60]), text, re.M)
+            if m:
+                text = text[:m.start()] + "[x]" + text[m.start() + 3:]
+        REVIEW_SRC.write_text(text)
+    print(f"Archive Review note: {len(gone)} item(s) removed by Colin, marked done; {len(new)} new line(s)")
+    for t in gone:
+        print("  done:", t[:110])
+    for t in new:
+        print("  NEW:", t[:160])
+    return gone, new
+
+
+def write_review():
+    intro, secs = parse_review()
+    with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
+        f.write(review_html(intro, secs))
+        path = f.name
+    r = subprocess.run(["osascript", "-e", SCRIPT % (path, REVIEW_TITLE, REVIEW_TITLE)], capture_output=True, text=True, timeout=650)
+    print("Archive Review:", (r.stdout or r.stderr).strip())
+    if r.returncode == 0:
+        REVIEW_SNAPSHOT.write_text(json.dumps(sorted(i.strip() for _, items in secs for i in items)))
+    Path(path).unlink(missing_ok=True)
+
+
 def main():
     import sys
     gone, new = pull()
+    rgone, rnew = pull_review()
     if "--pull" in sys.argv:
         return
-    if new:
-        print("New lines in the note are not in the master list yet: add them to private/archive-checklist.txt first (Claude does this), then run again.")
+    if new or rnew:
+        print("New lines in a note are not in its master list yet: add them to private/archive-checklist.txt or private/archive-review.txt first (Claude does this), then run again.")
         return
+    write_review()
     phases = parse()
     body = build_html(phases)
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
