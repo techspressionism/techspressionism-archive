@@ -3015,7 +3015,12 @@ def build_person_page(p):
     if facts_html:
         parts.append(f'<p class="facts">{facts_html}</p>')
     wiki = WIKI.get(p["id"])
-    if wiki and wiki.get("text"):      # "About this artist": Wikipedia's introduction, no links, credited with the retrieval date (Colin 2026-09-24)
+    mine = ARTIST_PROFILES.get(p["id"])
+    if mine and mine.get("bio"):      # the artist's own words (approved by the archive's editor), credited as such
+        paras_m = "".join(f"<p>{e(t)}</p>" for t in mine["bio"].split("\n") if t.strip())
+        parts.append(f'<section class="about-artist" data-pagefind-ignore><h2>About this artist</h2>{paras_m}'
+                     '<p class="note wiki-credit">Written by the artist.</p></section>')
+    elif wiki and wiki.get("text"):      # "About this artist": Wikipedia's introduction, no links, credited with the retrieval date (Colin 2026-09-24)
         when = datetime.date.fromisoformat(wiki["retrieved"])
         paras_w = "".join(f"<p>{e(t)}</p>" for t in wiki["text"].split("\n\n") if t.strip())
         parts.append(f'<section class="about-artist" data-pagefind-ignore><h2>About this artist</h2>{paras_w}'
@@ -3092,7 +3097,14 @@ def build_person_page(p):
         parts.append('<p class="note">Nothing from the recordings yet. The details above come from the artist index on techspressionism.com.</p>')
     body = "\n".join(parts)
     img = (wiki or {}).get("image")
-    if img and (lib_wikipedia.IMG_DIR / f"{p['id']}.jpg").exists():      # a freely licensed Wikipedia picture: left column on desktop, on top on a phone
+    up = (ROOT / "assets" / "artist-uploads" / mine["image"]) if mine and mine.get("image") else None
+    if up and up.exists():                 # a picture the artist sent (approved by the archive's editor)
+        shutil.copy2(up, SITE_DIR / "artist-images" / up.name)
+        w_, h_ = (jpeg_size(up) or (640, 640)) if up.suffix == ".jpg" else (640, 640)
+        photo = (f'<aside class="person-photo"><figure><img src="artist-images/{e(up.name)}" width="{w_}" height="{h_}" alt="Picture of {e(p["name"])}" loading="lazy">'
+                 f'<figcaption>Picture provided by the artist</figcaption></figure></aside>')
+        body = f'<div class="person-cols has-photo">{photo}<div class="person-main">\n{body}\n</div></div>'
+    elif img and (lib_wikipedia.IMG_DIR / f"{p['id']}.jpg").exists():      # a freely licensed Wikipedia picture: left column on desktop, on top on a phone
         w_, h_ = jpeg_size(lib_wikipedia.IMG_DIR / f"{p['id']}.jpg") or (640, 640)
         author = re.sub(r"\s+", " ", img.get("author") or "").strip()
         author = (author[:117].rstrip() + "…") if len(author) > 120 else author
@@ -3536,6 +3548,12 @@ def description_html(entry):
             '<p class="desc-note">Background text from techspressionism.com, not written for the archive.</p></details>')
 
 
+ARTIST_PROFILES = {}       # artist id -> {bio, image} approved by the archive's editor (data/artist-profiles/<id>.json); shown instead of the Wikipedia text and picture
+_ap = ROOT / "data" / "artist-profiles"
+if _ap.is_dir():
+    for _f in sorted(_ap.glob("*.json")):
+        _d = json.loads(_f.read_text())
+        ARTIST_PROFILES[_d["artist_id"]] = _d
 VIDEO_DESCRIPTIONS = {}
 _vd = ROOT / "data" / "video-descriptions.json"
 if _vd.exists():
