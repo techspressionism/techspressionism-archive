@@ -35,7 +35,9 @@ grep -q "<link rel=\"canonical\" href=\"$BASE/\">" site/index.html || die "built
 print "built: $(grep -c . /tmp/push-live-build.log) log lines, canonical $BASE/"
 
 step "3/6  Rollback snapshot"
-scripts/snapshot-release.sh "live-$SHORT" 2>&1 | tail -1 || die "snapshot failed"
+SNAPLINE="$(scripts/snapshot-release.sh "live-$SHORT" 2>&1 | tail -1)"; print "$SNAPLINE"
+SNAPTAG="$(print -r -- "$SNAPLINE" | sed -n 's/^Snapshot \([^ ]*\) saved.*/\1/p')"
+[[ -n "$SNAPTAG" ]] || die "snapshot failed"
 
 step "4/6  Rehearsal (nothing copied yet)"
 WPE_INSTALL="$INSTALL" scripts/deploy-wpengine.sh > /tmp/push-live-rehearsal.log 2>&1 || { tail -5 /tmp/push-live-rehearsal.log; die "rehearsal failed (is the WP Engine key unlocked?)"; }
@@ -57,6 +59,7 @@ HOME_HTML="$(curl -s -m 30 "$BASE/?nocache=$N")"
 [[ "$HOME_HTML" == *"<link rel=\"canonical\" href=\"$BASE/\">"* ]] && print "  ok   home carries the production canonical" || { print -P "  %F{red}FAIL%f home canonical (old page still cached?)"; FAIL=1; }
 [[ "$HOME_HTML" == *'href="artists/"'* ]] && print "  ok   home Artists link goes to the archive Artists page" || { print -P "  %F{yellow}note%f home Artists link is not the new one yet (cache?)"; }
 print "$SHORT $(date '+%Y-%m-%d %H:%M')" > private/last-live-build.txt
+python3 scripts/changelog.py add "$SHORT" "$SNAPTAG" > /dev/null && print "recorded in the changelog as push $(python3 -c "import json;print(str(len(json.load(open('private/push-log.json')))).zfill(3))")"
 print "\nSyncing the Notes checklist..."; python3 scripts/update-notes-checklist.py 2>&1 | tail -3 || true
 print -P "\n%F{green}Live copy finished for commit $SHORT.%f"
 (( FAIL )) && print -P "%F{red}Some checks failed: clear the caches below and run the checks again.%f"

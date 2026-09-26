@@ -352,6 +352,44 @@ def write_answer_note(cfg):
         cfg["snap"].write_text(json.dumps([i["id"] for i in items if i["status"] != "x"]))
 
 
+TOC_TITLE = "Archive: TOC"
+CHANGELOG_TITLE = "Archive: Changelog"
+NOTE_GUIDE = [       # (title, what it is for)
+    (TOC_TITLE, "This list: every archive note and what it is for."),
+    ("Archive: To Do List", "The master checklist for all four phases: what is open, in order, with my recommendations under each phase. Remove an item when it is done and it is marked done everywhere."),
+    ("Archive: Review", "The UI/UX and transcript review: design problems, optimisation ideas, transcript fixes and search items, most important first."),
+    ("Archive: Decisions", "Questions only you can answer. Type your answer after ANSWER: under each one; it is read at the next sync and the item is removed once acted on."),
+    ("Archive: Techspressionism Mishearings", "Every place the transcript may have misheard Techspressionism / Techspressionist, with the sentence, recording and time. Choose A, B, C or D for each."),
+    ("Archive: Interview 1 Turns", "The turns in Interview 1 with no speaker named, with times. Type who is speaking."),
+    ("Archive: Broken Artist Links", "Artist links from the artist index that no longer work. Type the new address, skip or remove."),
+    ("Archive: TSedit Plan", "The plan for TSedit, the private invite-only review and edit web app. Approve or change each part."),
+    (CHANGELOG_TITLE, "Every push to the live site, numbered with 001 the first and the newest on top: what changed each time, and the snapshot to go back to (say: revert live to 00N)."),
+]
+EXTRA_GUIDE = [
+    "Sync: all these notes are kept in step with the archive by Claude. It reads your answers and removed items first, then rewrites the notes. It runs at the start of a session, after every push, and when you say 'sync notes' or 'check my note'.",
+    "Files on your Desktop: Techspressionism-Archive-Checklist.txt (the checklist as plain text), Yoast-video-redirects-LIVE.csv, Yoast-video-redirects-STAGING.csv (do not use publicly), Yoast-listing-page-redirects-OPTIONAL.csv, Archive-UI-UX-and-Transcript-Review.txt.",
+    "Addresses: live https://techspressionism.com/archive/ ; staging https://techspressionism.github.io/techspressionism-archive/",
+]
+
+
+def toc_html():
+    e = html.escape
+    out = ["<h1>" + e(TOC_TITLE) + "</h1>"]
+    out += [f"<p><b>{e(t)}</b><br>{e(d)}</p>" for t, d in NOTE_GUIDE]
+    out += [f"<p>{e(x)}</p>" for x in EXTRA_GUIDE]
+    return "\n".join(out)
+
+
+def write_static_notes():
+    """Notes that are only generated (no answers to read back): the table of contents and the changelog."""
+    import sys
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import changelog
+    phases = "".join(f"<p>{html.escape(l)}</p>" for l in PHASE_LINES)
+    for title, body in ((TOC_TITLE, toc_html()), (CHANGELOG_TITLE, changelog.render_html())):
+        write_note(body.replace("</h1>", "</h1>" + phases, 1), title)
+
+
 def main():
     import sys
     gone, new = pull()
@@ -370,6 +408,7 @@ def main():
     phases = parse()
     if write_note(build_html(phases), TITLE):
         SNAPSHOT.write_text(json.dumps(sorted(item_texts(phases))))
+    write_static_notes()
 
 
 if __name__ == "__main__":
