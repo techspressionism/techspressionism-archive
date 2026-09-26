@@ -498,7 +498,7 @@ To the artist. Specs like, if you want to go, like, you know, 36, 48.
 
 ## Tommy Mintz [01:25:51](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5151s)
 
-Yes, yes, 36, 40 is my width, so I have a 44 inch wide. Printer by I think our walls are 14 feet high. So if you wanna do a 44 floor to ceiling like you go 44 by 14 feet and I have a number of different materials and a lot of ink. And Yeah, I'm I'm as if you if you're doing something very large it probably won't get framed right. We have to figure out how to hang it. And that's fine, too. I also have adhesive materials to directly apply to wall and we have a number of projectors.
+Yes, yes, 36, 40 is my width, so I have a 44 inch wide. Printer by I think our walls are 14 feet high. So if you wanna do a 44 floor to ceiling like you go 44 by 14 feet and I have a number of different materials and a lot of ink. And Yeah, I'm as if you if you're doing something very large it probably won't get framed right. We have to figure out how to hang it. And that's fine, too. I also have adhesive materials to directly apply to wall and we have a number of projectors.
 
 ## Roz Dimon [01:26:26](https://www.youtube.com/watch?v=Lc0jSsfTb9A&t=5186s)
 

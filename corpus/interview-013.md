@@ -695,7 +695,7 @@ Time oh no problem we'll talk to you soon about video games and stuff later yeah
 
 ## Davonte Bradley [01:10:27](https://www.youtube.com/watch?v=w6fW5oWbBdk&t=4227s)
 
-A huge video gamer I can't help it's it's like it happens for
+A huge video gamer I can't help it's like it happens for
 
 ## Unattributed [01:10:32](https://www.youtube.com/watch?v=w6fW5oWbBdk&t=4232s)
 

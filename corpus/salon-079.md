@@ -283,7 +283,7 @@ Oh, that's good, that's good information. Thank you.
 
 ## Cynthia Beth Rubin [01:01:49](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=3709s)
 
-So I say, I've I've only done them from the train. I've just tried a few live and found them really boring, but with the new operating system, the speed, if you can just get it at the right moment, as it's either going into a station or out of a station you actually can get something that looks like the old things. But it's not. So. You have to be really into it and take a train with a lot of stops.
+So I say, I've only done them from the train. I've just tried a few live and found them really boring, but with the new operating system, the speed, if you can just get it at the right moment, as it's either going into a station or out of a station you actually can get something that looks like the old things. But it's not. So. You have to be really into it and take a train with a lot of stops.
 
 ## Harvey Birnbaum [01:02:17](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=3737s)
 
@@ -415,7 +415,7 @@ Well, Lee, what I what I found really intriguing, especially in the Siberiana sp
 
 ## Lee Day [01:15:04](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=4504s)
 
-Thanks for saying that. I mean I've I've sort of worked really hard to try to do that, and I'm glad it came across, because II wasn't sure, and I haven't been short.
+Thanks for saying that. I mean I've sort of worked really hard to try to do that, and I'm glad it came across, because II wasn't sure, and I haven't been short.
 
 ## Renata Janiszewska [01:15:15](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=4515s)
 

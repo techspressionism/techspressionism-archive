@@ -1137,7 +1137,7 @@ Will you have. Well, according to what we're not just said, I was gonna ask in l
 
 ## Michael Price [02:37:04](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9424s)
 
-That's that's an important question. It's one that we have talked about. So here I'm speaking just for myself. This is not an official statement at all. So. I think right now we are asking for people to get their form filled out and sent in to us like a week from tomorrow. I think the date is the fifteenth. My guess is, if enough artists are still struggling to get their spaces done. And that doesn't happen. It's gonna be up to probably Tommy to figure out whether or not what that means for the opening.
+That's an important question. It's one that we have talked about. So here I'm speaking just for myself. This is not an official statement at all. So. I think right now we are asking for people to get their form filled out and sent in to us like a week from tomorrow. I think the date is the fifteenth. My guess is, if enough artists are still struggling to get their spaces done. And that doesn't happen. It's gonna be up to probably Tommy to figure out whether or not what that means for the opening.
 
 So I don't have a my feeling is Breneda, that it's gonna be driven by the community. Whether or not whether or not we have everybody Sufficiently along, so that their spaces are in a shape that people are happy with, and I don't know what the answer is to that. That's why I wanted to have several tutorial sessions. And that's why we've I felt that doing something like this today would be helpful. But I don't II have no idea how far along everybody is at this point.
 

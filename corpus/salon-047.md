@@ -637,7 +637,7 @@ Nina you have a follow up?
 
 ## Nina Sobell [01:22:56](https://www.youtube.com/watch?v=ggbxdDYOEz4&t=4976s)
 
-Oh, I just want to say, you know I've been able to keep this material thing at bay because I use my iPhone and I use my finger. So I'm constantly touching the screen with tactility with the screen with my iPhone screen that takes over and forming my images. And so I've tried to go back to using charcoal and paints and everything. For this other project but I'm I'm obsessed with my finger on my iPhone screen and creating images obsessed that's
+Oh, I just want to say, you know I've been able to keep this material thing at bay because I use my iPhone and I use my finger. So I'm constantly touching the screen with tactility with the screen with my iPhone screen that takes over and forming my images. And so I've tried to go back to using charcoal and paints and everything. For this other project but I'm obsessed with my finger on my iPhone screen and creating images obsessed that's
 
 ## Michael Pierre Price [01:23:34](https://www.youtube.com/watch?v=ggbxdDYOEz4&t=5014s)
 

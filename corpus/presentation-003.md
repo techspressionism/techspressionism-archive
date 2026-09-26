@@ -83,7 +83,7 @@ And it was prompted by Mike Trivich sending me an article about how 40 Hz gamma 
 
 And each person will have each person has a sculpture that's already been made. It's already been printed. And I forgot to put that slide up, but we've printed out, 3D printed out each of those sculptures, and there's four of them actually, four sculptures now. And each person will be able to hold their own sculpture as they're watching themselves on the screen, manipulating the sculpture on the screen, they'll be able to hold that same sculpture in their hands.
 
-Wow, Nina, that's that's amazing. Getting psychedelic art out of everyone's minds.I'm deeply impressed there. So our art our next artist
+Wow, Nina, that's amazing. Getting psychedelic art out of everyone's minds.I'm deeply impressed there. So our art our next artist
 
 ## Cynthia Beth Rubin [18:58](https://www.youtube.com/watch?v=DtGglnJ4mdI&t=1138s)
 

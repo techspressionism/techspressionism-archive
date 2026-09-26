@@ -289,7 +289,7 @@ Yeah. His work was the first time I ever really saw plodder drawings, you know, 
 
 ## Patrick Lichty [39:08](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2348s)
 
-Spotters yeah and I mean he's he's my primary inspiration there's another guy chaperon from the twin cities as well who does motion control as well as he wound up selling that sand table with the he did he did indiegogo for that sand table with the with the marble that would then go and make these designs and that sort of thing I think that was bruce how
+Spotters yeah and I mean he's my primary inspiration there's another guy chaperon from the twin cities as well who does motion control as well as he wound up selling that sand table with the he did he did indiegogo for that sand table with the with the marble that would then go and make these designs and that sort of thing I think that was bruce how
 
 ## Colin Goldberg [39:36](https://www.youtube.com/watch?v=a5h-eBQYrks&t=2376s)
 

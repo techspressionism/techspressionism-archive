@@ -313,13 +313,16 @@ haven't hasn't hadn't that'll you'll we'll they'll i'd you'd he'd she'd we'd the
 _STUTTER_PROTECTED_PAIRS = {("wild", "wild"), ("bye", "bye")}   # "the wild wild west", "bye bye" -- idioms, not disfluencies
 
 
-def collapse_stutters(text):
+EMPHASIS_WORDS = frozenset("very really so no yes more right okay".split())    # repeats that are usually meant ("very very", "no no"); the final pass in Stage 5 leaves them alone (Colin, 26 Sep 2026)
+
+
+def collapse_stutters(text, keep=frozenset()):
     """Collapse an immediately-repeated word ("and and", "so so so") to one occurrence, but only for a word in
     SAFE_STUTTER_WORDS -- never a name or any other word outside that hand-verified list."""
     def repl(m):
         first = m.group(1)
         low = first.lower()
-        if low not in SAFE_STUTTER_WORDS:
+        if low not in SAFE_STUTTER_WORDS or low in keep:
             return m.group(0)
         rest = re.findall(r"[A-Za-z']+", m.group(0))[1:]
         if any((low, w.lower()) in _STUTTER_PROTECTED_PAIRS for w in rest):
@@ -408,6 +411,7 @@ _ARTIST_NAME_FIXES += [        # confirmed by hand from review/artist-name-candi
     (r"\bDavid Salley\b", "David Salle"),
     (r"\bDonna Haraways work\b", "Donna Haraway's work"),
     (r"\bMary Heilman\b", "Mary Heilmann"),
+    (r"\bVisc[oa]m\b", "Vizcom"),        # the AI design tool (Salon 88: jewelry design, Leonardo.AI, Bing Image Creator)
 ]
 try:      # written by scripts/scan-notable-artists.py: misspelled first+last names of notable artists (Wikipedia's artist categories), fixed where the words around them are about art
     import json as _json
