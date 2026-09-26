@@ -360,6 +360,14 @@ def main():
         if "wikipedia" not in chosen and r["links"].get("wikipedia"):
             chosen["wikipedia"] = [r["links"]["wikipedia"][0]]
         r["links"] = chosen
+    ov_path = ROOT / "data" / "link-overrides.json"
+    if ov_path.exists():       # hand-set links win over the index's own (by artist id)
+        overrides = {k: v for k, v in json.loads(ov_path.read_text()).items() if not k.startswith("_")}
+        for r in people.values():
+            ov = overrides.get(slugify(r["name"]))
+            if ov:
+                for kind, url in ov.items():
+                    r["links"][kind] = [url]
     out = []
     used = set()
     for key in sorted(people):

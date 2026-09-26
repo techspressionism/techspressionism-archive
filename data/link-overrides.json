@@ -1,0 +1,6 @@
+{
+ "_comment": "Hand-set links for an artist page, by artist id: {id: {kind: url}}; applied by build-people.py over the artist index's own link (Colin, 26 Sep 2026)",
+ "joseph-nechvatal": {
+  "website": "http://www.nechvatal.net"
+ }
+}

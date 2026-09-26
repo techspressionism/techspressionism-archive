@@ -27,7 +27,14 @@ HEADER_WORDS = re.compile(r"(techspressionist|salon|interview|roundtable|present
 NAME_ONLY = re.compile(r"^[A-ZÀ-Ý][\w'’.\-]+(?: (?:[A-ZÀ-Ý][\w'’.\-]+|de|van|von|da|del|la|le|di|bin|el)){0,4}(?: \([^)]*\))?$")
 
 
+DESCRIPTION_FIXES = {      # exact text replaced in a raw description (Colin, 26 Sep 2026)
+    "https://hyperallergic.com/author/joseph_nechvatal/": "http://www.nechvatal.net",
+}
+
+
 def narrative(desc):
+    for old, new in DESCRIPTION_FIXES.items():
+        desc = desc.replace(old, new)
     paras = [p for p in re.split(r"\n\s*\n", desc.replace("\r", "").strip()) if p.strip()]
     if paras:
         first = [l.strip() for l in paras[0].split("\n") if l.strip()]
