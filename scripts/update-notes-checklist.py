@@ -25,6 +25,12 @@ SRC = ROOT / "private" / "archive-checklist.txt"
 SNAPSHOT = ROOT / "private" / "notes-synced.json"      # the item texts written to the note last time: only these can count as "removed by Colin"
 TITLE = "Archive: To Do List"
 OLD_TITLES = {"Archive: To Do List": "Techspressionism Archive To Do List", "Archive: Review": "Archive Review", "Archive: Decisions": "Archive Decisions"}     # notes renamed 26 Sep 2026 ("Archive: <purpose>"): found under the old name once, then renamed
+PHASE_LINES = [      # one sentence per phase, at the top of every note (Colin, 26 Sep 2026)
+    "Phase 1 (archive and SEO): get the archive itself right before anything moves: search-engine setup, transcript and artist-page quality, and the search and page design.",
+    "Phase 2 (redirects): put the archive live at techspressionism.com/archive and redirect the old WordPress video pages to their new archive pages.",
+    "Phase 3 (stabilise and enrich): after launch, keep the archive healthy and grow it: permanent DOI, YouTube captions, the TSedit review tool, speaker naming and steady fixes.",
+    "Phase 4 (site-wide SEO): use the launch data to improve search visibility for all of techspressionism.com: indexing, links, speed and content.",
+]
 STAGING = "https://techspressionism.github.io/techspressionism-archive/"
 LIVE = "https://techspressionism.com/archive/"
 
@@ -82,7 +88,8 @@ def nice(t):
 def build_html(phases):
     e = html.escape
     out = [f"<h1>{e(TITLE)}</h1>",
-           f'<p>Staging: <a href="{STAGING}">{STAGING}</a><br>Live: <a href="{LIVE}">{LIVE}</a></p>']
+           f'<p>Staging: <a href="{STAGING}">{STAGING}</a><br>Live: <a href="{LIVE}">{LIVE}</a></p>',
+           "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)]
     for ph in phases:
         out.append(f"<h2>Phase {ph['n']} - {e(nice(ph['title']))}</h2>")
         out.append("<h3>Open items</h3>")
@@ -142,7 +149,7 @@ def pull():
     headings = {TITLE, "Open items", "Recommendations", "Nothing open.", f"Staging: {STAGING} Live: {LIVE}", f"Staging: {STAGING}", f"Live: {LIVE}"}
     heads = {f"Phase {ph['n']} - {nice(ph['title'])}" for ph in phases} | {sub for ph in phases for sub, _ in ph["open"] if sub}
     new = [l for l in lines if l not in known and l not in written and l not in headings and l not in heads and not l.startswith(("Staging:", "Live:", "Phase "))
-           and l not in OLD_TITLES.values()]
+           and l not in OLD_TITLES.values() and l not in PHASE_LINES]
     if gone:
         text = SRC.read_text()
         for t in gone:
@@ -209,7 +216,7 @@ def parse_review():
 
 def review_html(intro, secs):
     e = html.escape
-    out = [f"<h1>{e(REVIEW_TITLE)}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
+    out = [f"<h1>{e(REVIEW_TITLE)}</h1>", "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)] + [f"<p>{e(l)}</p>" for l in intro]
     for title, items in secs:
         out.append(f"<h2>{e(title)}</h2>")
         out.append("<ul>" + "".join(f"<li>{e(i)}</li>" for i in items) + "</ul>" if items else "<p>Nothing open.</p>")
@@ -230,7 +237,7 @@ def pull_review():
     written = set(json.loads(REVIEW_SNAPSHOT.read_text())) if REVIEW_SNAPSHOT.exists() else set()
     gone = [t for t in known if t in written and t not in lines]
     heads = {REVIEW_TITLE, "Nothing open."} | {t for t, _ in secs} | {l.strip() for l in intro}
-    new = [l for l in lines if l not in known and l not in written and l not in heads and l not in OLD_TITLES.values()]
+    new = [l for l in lines if l not in known and l not in written and l not in heads and l not in OLD_TITLES.values() and l not in PHASE_LINES]
     if gone:
         text = REVIEW_SRC.read_text()
         for t in gone:
@@ -290,7 +297,7 @@ def parse_answer_note(cfg):
 
 def answer_note_html(cfg, intro, items):
     e = html.escape
-    out = [f"<h1>{e(cfg['title'])}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
+    out = [f"<h1>{e(cfg['title'])}</h1>", "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)] + [f"<p>{e(l)}</p>" for l in intro]
     open_items = [i for i in items if i["status"] != "x"]
     if not open_items:
         out.append("<p>Nothing waiting for you.</p>")
