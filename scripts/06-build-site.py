@@ -765,6 +765,8 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 .cat-main > .cat-intro-more summary { cursor:pointer; font-weight:700; color:var(--accent); }
 .cat-main > .cat-intro-more summary:hover { text-decoration:underline; }
 .cat-main > .cat-intro-more p { color:var(--fg); max-width:44rem; margin:.6rem 0 0; line-height:1.55; }
+.cat-cta { display:block; width:100%; margin:0 0 1.5rem; padding:18px 25px; box-sizing:border-box; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; font-weight:400; text-align:center; text-decoration:none; color:#fff; background:var(--accent); border:1px solid transparent; border-radius:0; }   /* matches techspressionism.com's own WPBakery "RESERVE YOUR SPOT" button exactly (bg #FF0000, white Lato 400 16px, padding 18px 25px, square corners, full width), per Colin 2026-09-27 */
+.cat-cta:hover, .cat-cta:focus-visible { background:#cc0000; color:#fff; text-decoration:none; }
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
 .cat-latest .cat-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* extra room from the text on both sides, per Colin (matches h1 .h1-sep) */
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
@@ -3269,6 +3271,15 @@ CATEGORY_INTRO = {
 # name text, so it keeps working if the session is ever retitled.
 CATEGORY_FEATURED_OVERRIDE = {"roundtable": 1}
 
+# A full-width call-to-action button below "Recent ..." and above the About-the-archive footer, keyed by
+# stype -- styled to match techspressionism.com's own WPBakery "RESERVE YOUR SPOT" button (same colors,
+# padding, font) so it reads as one brand crossing from the archive back to the main site. Colin, 2026-09-27:
+# the Salon page gets one sending visitors to techspressionism.com/salon/ to RSVP for the next Salon on Zoom
+# (techspressionism.com's own homepage button already points there too, confirmed live).
+CATEGORY_CTA = {
+    "salon": '<a class="cat-cta" href="https://techspressionism.com/salon/">ATTEND THE NEXT SALON</a>',
+}
+
 
 def build_category_page(stype, entries):
     """A landing page for one recording type (Salon/Interview/Roundtable/Presentation): its most recent recording,
@@ -3317,6 +3328,7 @@ def build_category_page(stype, entries):
 {cite_section}
 </section>
 {recent_section}
+{CATEGORY_CTA.get(stype, "")}
 {FOOTER}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
