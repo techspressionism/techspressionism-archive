@@ -3212,14 +3212,14 @@ def recent_card_html(entry):
 
 
 # The old /interviews/ and /salon/ pages' own intro text, carried over before those WordPress pages redirect
-# to these (Colin, 2026-09-27) -- wording as given/as scraped, verbatim (including the interview text's "of of"
-# as written on the original page). Placed above the latest recording, with a red rule below; keyed by stype
+# to these (Colin, 2026-09-27) -- wording as given/as scraped, with the interview text's original "of of"
+# fixed to "of" (2026-09-27). Placed above the latest recording, with a red rule below; keyed by stype
 # so other category pages are untouched. The salon text's first paragraph is always shown; the rest (the
 # "What is a Techspressionist Salon?" accordion's remaining paragraphs on the WP page) sits behind a native
 # <details>/<summary> "Read more", per Colin -- same mechanism as description_html()'s "About this Interview".
 CATEGORY_INTRO = {
     "interview": (
-        '<p class="intro cat-intro"><b>Techspressionist Interviews</b> are self-produced videos of of artists interviewing '
+        '<p class="intro cat-intro"><b>Techspressionist Interviews</b> are self-produced videos of artists interviewing '
         'other artists in the spirit of Warhol&rsquo;s <a href="https://en.wikipedia.org/wiki/Interview_(magazine)">'
         'Interview Magazine</a>. Many thanks to artist <a href="https://www.instagram.com/rozolution/">Roz Dimon</a> '
         'developing the Interview Series initiative and drafting the '
