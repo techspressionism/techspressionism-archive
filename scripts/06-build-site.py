@@ -758,6 +758,13 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 .catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
 .cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
+.cat-main > .cat-intro-hr { border:none; border-top:2px solid var(--accent); margin:0 0 1.2rem; }   /* red rule below the category intro text, per Colin 2026-09-27 (moving /interviews/ and /salon/ content here before those old pages redirect) */
+.cat-main > p.intro.cat-intro { margin:0 0 .6rem; }
+.cat-main > p.intro.cat-intro:has(+ .cat-intro-hr) { margin-bottom:1.2rem; }   /* interviews: no "Read more" between the paragraph and the rule, so it needs the fuller gap itself */
+.cat-main > .cat-intro-more { margin:0 0 1.2rem; }
+.cat-main > .cat-intro-more summary { cursor:pointer; font-weight:700; color:var(--accent); }
+.cat-main > .cat-intro-more summary:hover { text-decoration:underline; }
+.cat-main > .cat-intro-more p { color:var(--fg); max-width:44rem; margin:.6rem 0 0; line-height:1.55; }
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
 .cat-latest .cat-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* extra room from the text on both sides, per Colin (matches h1 .h1-sep) */
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
@@ -3204,6 +3211,65 @@ def recent_card_html(entry):
             f'<span class="rc-date">{e(when)}</span></a></li>')
 
 
+# The old /interviews/ and /salon/ pages' own intro text, carried over before those WordPress pages redirect
+# to these (Colin, 2026-09-27) -- wording as given/as scraped, verbatim (including the interview text's "of of"
+# as written on the original page). Placed above the latest recording, with a red rule below; keyed by stype
+# so other category pages are untouched. The salon text's first paragraph is always shown; the rest (the
+# "What is a Techspressionist Salon?" accordion's remaining paragraphs on the WP page) sits behind a native
+# <details>/<summary> "Read more", per Colin -- same mechanism as description_html()'s "About this Interview".
+CATEGORY_INTRO = {
+    "interview": (
+        '<p class="intro cat-intro"><b>Techspressionist Interviews</b> are self-produced videos of of artists interviewing '
+        'other artists in the spirit of Warhol&rsquo;s <a href="https://en.wikipedia.org/wiki/Interview_(magazine)">'
+        'Interview Magazine</a>. Many thanks to artist <a href="https://www.instagram.com/rozolution/">Roz Dimon</a> '
+        'developing the Interview Series initiative and drafting the '
+        '<a href="https://techspressionism.com/wp-content/uploads/2021/01/Techspressionist_Interview_Series_Suggested_Format_1.2.pdf">format</a>. '
+        'These videos are also published to the <a href="https://www.youtube.com/channel/UCIu-35fUEUTDDhRqa5z6zXQ">'
+        'Techspressionism YouTube Channel.</a></p>'
+        '<hr class="cat-intro-hr">'
+    ),
+    "salon": (
+        '<p class="intro cat-intro"><b>Techspressionist Salons</b> are a time and place in cyberspace where artists '
+        'gather once a month to hang out, share their work and discuss matters relating to art, philosophy, and '
+        'technology. These meetups were conceived as a modern counterpart to the Surrealist salons of the 1920s and '
+        '1930s, in which artists could meet informally to socialize and discuss ideas. Techspressionism is a 100% '
+        'volunteer-based international artist community.</p>'
+        '<details class="cat-intro-more" data-pagefind-ignore><summary>Read more</summary>'
+        '<p>The First Techspressionist Salon was held on September 1, 2020, and included artists Colin Goldberg, '
+        'Patrick Lichty, Steve Miller and Oz Van Rosen, as well as art historian Helen Harrison.</p>'
+        '<p>In 1990, after serving as curator of the Parrish Art Museum in Southampton, NY, director of the Public '
+        'Art Preservation Committee in Manhattan, and curator of Guild Hall Museum in East Hampton, Ms. Harrison '
+        'became the director of the Pollock-Krasner House and Study Center, a National Historic Landmark museum and '
+        'the former home of Abstract Expressionist painters Jackson Pollock and Lee Krasner. She served as Director '
+        'of this National Historic Landmark museum and research collection in East Hampton from 1990 until retiring '
+        'from her post in 2024. Ms. Harrison continues to serve Techspressionist artistic community in an advisory '
+        'role.</p>'
+        '<p>During this first Salon session, the working definition of Techspressionism was decided upon by the '
+        'participants as: &ldquo;An artistic approach in which technology is utilized as a means to express '
+        'emotional experience.&rdquo;</p>'
+        '<p>Artist Davonte Bradley (aka DAVO) proposed the idea of recording the Salons and publishing them on the '
+        'Techspressionism YouTube Channel, which was implemented starting with Salon #8.</p>'
+        '<p>Salons are moderated by a rotating panel of artist volunteers. After the recording ends, artists are '
+        'welcome to hang out for the afterparty (aka advisory board meeting), in which the topic for the next Salon '
+        'is decided upon, and other community-related ideas are discussed.</p>'
+        '</details>'
+        '<hr class="cat-intro-hr">'
+    ),
+    "roundtable": (
+        '<p class="intro cat-intro"><b>Techspressionist Roundtables</b> are small, invitation-only Zoom discussions '
+        'featuring a moderator and a select group of artists and curators from the community. Each session centers '
+        'on a specific Techspressionist theme and emphasizes genuine dialogue over formal presentations, fostering '
+        'candid, creative exchange.</p>'
+        '<hr class="cat-intro-hr">'
+    ),
+}
+
+# Roundtable 1 ("Curators in Conversation", Christiane Paul & Helen Harrison) is featured on the Roundtables
+# category page in place of the latest roundtable, to highlight it -- Colin, 2026-09-27. Matched by number, not
+# name text, so it keeps working if the session is ever retitled.
+CATEGORY_FEATURED_OVERRIDE = {"roundtable": 1}
+
+
 def build_category_page(stype, entries):
     """A landing page for one recording type (Salon/Interview/Roundtable/Presentation): its most recent recording,
     playable inline, a strip of the next few with thumbnails, then the full list -- so techspressionism.com's own
@@ -3211,7 +3277,14 @@ def build_category_page(stype, entries):
     2026-09-22. Written to site/<plural>/index.html (e.g. site/salons/), depth 1 like the About page."""
     info = TYPES[stype]
     ordered = sorted(entries, key=list_order)          # newest first, the same order the home page's list uses
-    featured, recent = ordered[0], ordered[1:4]
+    override_num = CATEGORY_FEATURED_OVERRIDE.get(stype)
+    if override_num is not None:      # highlight one specific recording instead of the latest -- see CATEGORY_FEATURED_OVERRIDE
+        featured = next((x for x in ordered if x.get("number") == override_num), ordered[0])
+        recent = [x for x in ordered if x is not featured][:3]     # still the 3 most recent, per Colin -- not "next after featured"
+        eyebrow = "Featured"
+    else:
+        featured, recent = ordered[0], ordered[1:4]
+        eyebrow = "Latest"
     topic = featured.get("session_title") or "Untitled"
     when = fmt_date(featured.get("date_recorded"))
     when = f"published {when}" if date_is_estimate(featured) else when
@@ -3230,9 +3303,10 @@ def build_category_page(stype, entries):
     recent_section = f'<h2 class="cat-kicker cat-recent-label">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
     body = f"""<div class="catpage-grid">
 <div class="cat-main">
+{CATEGORY_INTRO.get(stype, "")}
 <section class="cat-featured">
 {build_player(featured)}
-<h1 class="cat-latest"><span class="cat-eyebrow">Latest {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
+<h1 class="cat-latest"><span class="cat-eyebrow">{e(eyebrow)} {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
 <p class="d">{e(when)}{by}</p>
 {excerpt}
 {speakers_html}
@@ -3249,8 +3323,8 @@ def build_category_page(stype, entries):
 </div>{CATEGORY_PLAYER_JS}"""
 
     page = canonical_url(f"{info['plural'].lower()}/")
-    desc = lib_seo.clip_text(f"The most recent Techspressionism {info['label']} and the full archive of {len(ordered)}, "
-                              f"every one a searchable, citable transcript.")
+    desc = lib_seo.clip_text(f"{'A featured' if override_num is not None else 'The most recent'} Techspressionism {info['label']} and the full archive of "
+                              f"{len(ordered)}, every one a searchable, citable transcript.")
     head = build_header(NAV_CORPUS, "", video_scope=True)
     sticky_head = build_header(NAV_CORPUS, "", sid="-sticky", strip="sticky", video_scope=True)
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
