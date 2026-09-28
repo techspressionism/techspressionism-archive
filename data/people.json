@@ -244,9 +244,18 @@
   {
    "id": "tina-anderson",
    "name": "Tina Anderson",
-   "aliases": [],
-   "location": "",
-   "links": {},
+   "aliases": [
+    "Anderson Tina"
+   ],
+   "location": "Moscow, Russia",
+   "links": {
+    "website": [
+     "https://andersontina.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/tinaanders0n"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -946,9 +955,19 @@
   {
    "id": "michael-borras",
    "name": "Michael Borras",
-   "aliases": [],
-   "location": "",
-   "links": {},
+   "aliases": [
+    "Michaël Borras",
+    "Systaime"
+   ],
+   "location": "Limoges, France",
+   "links": {
+    "website": [
+     "http://www.systaime.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/systaime/"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -1243,8 +1262,15 @@
    "id": "judith-carlin",
    "name": "Judith Carlin",
    "aliases": [],
-   "location": "",
-   "links": {},
+   "location": "Miami, FL USA",
+   "links": {
+    "website": [
+     "https://www.judithcarlin.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/judith_carlin"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -8790,9 +8816,18 @@
   {
    "id": "mario-viele",
    "name": "Mario Viele",
-   "aliases": [],
-   "location": "",
-   "links": {},
+   "aliases": [
+    "Charity Cult"
+   ],
+   "location": "Brooklyn, NY USA",
+   "links": {
+    "website": [
+     "https://charitycult.bandcamp.com/"
+    ],
+    "instagram": [
+     "https://www.instagram.com/charity.cult/"
+    ]
+   },
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
