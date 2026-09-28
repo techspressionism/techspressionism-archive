@@ -601,16 +601,6 @@
    "reels": []
   },
   {
-   "id": "ariel-barron-robbins",
-   "name": "Ariel Barron-Robbins",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "tassneen-bashir",
    "name": "Tassneen Bashir",
    "aliases": [],
@@ -682,16 +672,6 @@
   {
    "id": "tam-benjamin",
    "name": "Tam Benjamin",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "stephanie-beroes",
-   "name": "Stephanie Beroes",
    "aliases": [],
    "location": "",
    "links": {},
@@ -1135,16 +1115,6 @@
    "reels": []
   },
   {
-   "id": "pen-and-brush",
-   "name": "Pen and Brush",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "tor-burwell",
    "name": "Tor Burwell",
    "aliases": [],
@@ -1198,16 +1168,6 @@
    "reels": []
   },
   {
-   "id": "seth-c",
-   "name": "Seth C",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
    "id": "adrian-cain",
    "name": "Adrian Cain",
    "aliases": [],
@@ -1224,16 +1184,6 @@
   {
    "id": "molly-caldwell",
    "name": "Molly Caldwell",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "clay-campbell",
-   "name": "Clay Campbell",
    "aliases": [],
    "location": "",
    "links": {},
@@ -1291,16 +1241,6 @@
      "https://twitter.com/soulincode/"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "steohen-carpenter",
-   "name": "Steohen Carpenter",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -2302,9 +2242,9 @@
   },
   {
    "id": "anne-wichmann-she-s-excited",
-   "name": "Anne Wichmann / She's Excited!",
+   "name": "Anne Wichmann",
    "aliases": [
-    "Anne Wichmann"
+    "Anne Wichmann / She's Excited!"
    ],
    "location": "Brooklyn, USA",
    "links": {
@@ -2457,16 +2397,6 @@
      "Tomaz Favilla, Squared Sun , 2019-2022. Digital monoprint on aluminum, 24 x 24 inches. Edition of one."
     ]
    },
-   "reels": []
-  },
-  {
-   "id": "cory-feco",
-   "name": "Cory Feco",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
    "reels": []
   },
   {

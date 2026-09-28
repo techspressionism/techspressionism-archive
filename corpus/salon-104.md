@@ -15,7 +15,7 @@ flags:
   - speaker_index_missing
 ---
 
-## renata Janiszewska [00:04](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4s)
+## Renata Janiszewska [00:04](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4s)
 
 Welcome!
 
@@ -41,7 +41,7 @@ Then in the early 1900s, you have Albert Einstein throwing this huge monkey wren
 
 And then the mention of Jackson Pollock and the abstract expressionists. There was a study done in the late 1990s that showed there's a fractal quality to Jackson Pollock's drip paintings. And so, for all of these things, to me, this just brings Techspressionism Merging all of that together, and I… I think that… that… that's very interesting, and I thought I would mention that and share that with everybody today. So, thanks.
 
-## renata Janiszewska [07:19](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=439s)
+## Renata Janiszewska [07:19](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=439s)
 
 I'm sorry. We're talking about where technology and expressionism cross over in the sphere of art history. And Helen and Catherine, I'd like to ask you if you could talk a little bit, please, about exploring the intersection of the abstract expressionists with early computer art. And either one of you, please. Go ahead.
 
@@ -55,7 +55,7 @@ It has to… Pollock's famous statement was that art has to make a statement. Th
 
 But why? Why would you do it? The impulse behind it is what we want to examine.
 
-## renata Janiszewska [10:19](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=619s)
+## Renata Janiszewska [10:19](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=619s)
 
 Thanks. Catherine or Angela, do you have anything in response?
 
@@ -67,7 +67,7 @@ But still, there is this sense of wanting to, say something through the art, and
 
 And then the, Juxtaposition with Harold Cohen. I don't know if you've got those slides able to share screens or not.
 
-## renata Janiszewska [12:02](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=722s)
+## Renata Janiszewska [12:02](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=722s)
 
 I'm sure…
 
@@ -75,7 +75,7 @@ I'm sure…
 
 Are these.
 
-## renata Janiszewska [12:05](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=725s)
+## Renata Janiszewska [12:05](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=725s)
 
 Do that. Angela's going to share.
 
@@ -93,7 +93,7 @@ Oh, and then there are other kinds of technology, too. You think of the Gutai ar
 
 So it's kind of interesting to see how different technologies are accepted in different ways. Look at how long it took for photography to be accepted as an expressive medium.
 
-## renata Janiszewska [14:38](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=878s)
+## Renata Janiszewska [14:38](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=878s)
 
 Right. Thank you, and I want… I was wondering if perhaps we could look at the slide set now, because Angela put it together. It's a bit of contribution from a few of us cobbled together.
 
@@ -239,7 +239,7 @@ So, I did want to mention these, like, more recent exhibitions, and then I thoug
 
 And how to bring the behavioral mess of the studio to the clean environment of the screen. So, just as a computational person, the screen isn't always that clean. I would just throw that out there. Sometimes it is quite the mess. But I think these are great, topics, like, just to get the ball rolling, although the audience, I'm sure, I'm sure all of the people in the Zoom will have their own ideas, but I will stop sharing here. Thanks for watching our slides, and thanks everyone for, your contributions to the conversation.
 
-## renata Janiszewska [42:29](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2549s)
+## Renata Janiszewska [42:29](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2549s)
 
 Thank you. Thank you.
 
@@ -255,7 +255,7 @@ Thank you, Angela.
 
 I don't even jerky.
 
-## renata Janiszewska [42:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2574s)
+## Renata Janiszewska [42:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2574s)
 
 Thank you, Angela.
 
@@ -303,7 +303,7 @@ And he said, I… I didn't… I didn't take it far enough. I see more potential 
 
 Interesting, yeah.
 
-## renata Janiszewska [48:25](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2905s)
+## Renata Janiszewska [48:25](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2905s)
 
 I see that we're… we have a lot of comments building up in the chat, and it's time to throw the discussion over to you, the audience. I think probably the best way to go about it is if you want to speak, if you just raise your hand, please, and we'll go from there. Rose.
 
@@ -337,7 +337,7 @@ And I looked at them, well, yeah, I guess they were. But I was so excited, becau
 
 Great.
 
-## renata Janiszewska [51:04](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3064s)
+## Renata Janiszewska [51:04](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3064s)
 
 Thank you. I think Lucy, we have Lucy next.
 
@@ -367,7 +367,7 @@ One day.
 
 But it's something that, you know, can be done, and these technologies are changing all the time. Artists… I don't think artists could even keep up with it, but if there's a technology out there, an artist will start messing with it, I'm sure.
 
-## renata Janiszewska [52:58](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3178s)
+## Renata Janiszewska [52:58](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3178s)
 
 We have a question from Greg.
 
@@ -375,7 +375,7 @@ We have a question from Greg.
 
 I think Steven Carpenter was first? If he wants to go first?
 
-## renata Janiszewska [53:11](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3191s)
+## Renata Janiszewska [53:11](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3191s)
 
 Okay. Okay, Steven, are you… Available?
 
@@ -397,7 +397,7 @@ Let me just say briefly, Stephen, have a look at Lillian Schwartz, because she a
 
 I will do that. I've got a list of… I've got a list of people… I know that I'm not traveling in a space that hasn't been traveled before. But every time we're in it. It feels so different, and it really is kind of different, but at the same time. You either have… what's the expression? You either fish or cut bait. Or you put up the brushes and say, no more. And I… I'm not one of those. I… I have to… I have to be busy. So, thank you for your audience.
 
-## renata Janiszewska [56:49](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3409s)
+## Renata Janiszewska [56:49](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3409s)
 
 Thanks, Steven. Can we hear from Greg now?
 
@@ -407,19 +407,19 @@ Yeah, what I… one of the things I think is very exciting about Techspressionis
 
 And… I countered by saying it's really a new kind of international style. That you can find roots going back perhaps as early as the 50s, or you could even locate it much earlier in Dada, or… Basics experiments with Art-making, materials, performance, the convergence, and the embrace of doing things, discovering new ways to do things, and art is always related. Even if you're painting, painting is a technology. Making paint, making brushes, and so there is this lineage, which is a part of… not just the avant-garde, but it's kind of… for those who are excited by discovery and invention, and… Different ways of making.
 
-## renata Janiszewska [58:38](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3518s)
+## Renata Janiszewska [58:38](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3518s)
 
 Thank you very much, Greg, and we have a question from… or a comment from Clayton.
 
-## Clay Campbell [58:47](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3527s)
+## Clayton Campbell [58:47](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3527s)
 
 A… Here I am. Hi, Renan.
 
-## renata Janiszewska [58:53](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3533s)
+## Renata Janiszewska [58:53](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3533s)
 
 Hi.
 
-## Clay Campbell [58:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3534s)
+## Clayton Campbell [58:54](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3534s)
 
 Hey, this has been really stimulating. Thank you to the speakers, it's just been wonderful. Hearing, your knowledge and wisdom and anecdotes, so thank you very much. Just intellectually, and I was wondering if the panel and maybe others could speak to this… these thoughts I'm having. I was interested, Yeah, Renata, and the way you introduced the different phases of expressionism, and where you place Techspressionism as, this… Further evolution of, A kind of urgency of, A mode of art making, let me put it that way. But I also was interested in the question that were left with us, the four questions before the speaker had to leave.
 
@@ -433,7 +433,7 @@ So, it isn't… it isn't about… whether or not you can write code. It's really
 
 That… that's the… the narrow avenue down which the Techspressionists travel.
 
-## Clay Campbell [01:01:45](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3705s)
+## Clayton Campbell [01:01:45](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3705s)
 
 Let me ask you this, Helen. A lot of work, is… has a great deal of feeling in it, comes from a subjective place. What…. Would make someone who's experiencing the work by an artist who's identified as a Techspressionist say, this is a… this is a work by a Techspressionist.
 
@@ -441,7 +441,7 @@ Let me ask you this, Helen. A lot of work, is… has a great deal of feeling in 
 
 Well, you wouldn't necessarily know it just by looking at it, because even something that might just appear… like, one of Pollock's critics said his work is a beautiful design for a necktie, and in fact, it has been used as a necktie, but.
 
-## Clay Campbell [01:02:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3750s)
+## Clayton Campbell [01:02:30](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3750s)
 
 I know.
 
@@ -449,7 +449,7 @@ I know.
 
 Yeah, that the… the image itself Conveys that content is… it's a little bit slippery. It's a little bit hard to know. I mean, you think about a Mondrian that seems to be so cut and dried, you know, so this is just geometry.
 
-## Clay Campbell [01:02:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3768s)
+## Clayton Campbell [01:02:48](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3768s)
 
 Right, right.
 
@@ -459,7 +459,7 @@ It had emotional content. The colors themselves, Kandinsky believed that the col
 
 But, so maybe you have to know a little something about the artist's intention, which I, you know, this is why people ask artists for their statements. What were you talking about?
 
-## Clay Campbell [01:03:37](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3817s)
+## Clayton Campbell [01:03:37](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3817s)
 
 So… The question that was posed, one of those four questions then, I wonder… because she said, how does Techspressionism differ from other forms of computational and digital art. That seems to be kind of a… A large question for tech specialism to be asking itself right now. Maybe that's not… The right question. Maybe… would there be another question? The movement, at this point, its lifespan should be asking itself? I'd like to just…
 
@@ -467,7 +467,7 @@ So… The question that was posed, one of those four questions then, I wonder…
 
 Jump in on that really quick.
 
-## Clay Campbell [01:04:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3853s)
+## Clayton Campbell [01:04:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3853s)
 
 Thing.
 
@@ -483,7 +483,7 @@ You know, identifies or believes in The term, that is, it speaks to them and res
 
 Like saying, I'm gonna put all these people together because they paint. So we'll have a show of painters. Okay. Have a show of painters, but they could be painting any subject, or no subject at all, or something from their imagination, and just because they use paint doesn't really make them compatible.
 
-## Clay Campbell [01:07:18](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4038s)
+## Clayton Campbell [01:07:18](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4038s)
 
 Well, why do you think she asked the question?
 
@@ -491,7 +491,7 @@ Well, why do you think she asked the question?
 
 About.
 
-## Clay Campbell [01:07:24](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4044s)
+## Clayton Campbell [01:07:24](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4044s)
 
 Did it have any distinguishing factors about it at this point? That's what made me curious, you know.
 
@@ -517,19 +517,19 @@ Time, but, this is something that, I think maybe just generally humanity likes t
 
 No, but you're right about the world. I mean, this is something that… is it YA? Is it a cookbook? Is it an art book? Is it a picture book? Is it history? Is it a thriller? I mean, all these different categories, these, you know, minutiae breakdowns. Help people to decide what they're looking at, or what they're reading, or what they're thinking about. And it is, kind of frustrating when you have something that doesn't fit into any one of those categories, but at the same time, it is kind of understandable.
 
-## Clay Campbell [01:10:59](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4259s)
+## Clayton Campbell [01:10:59](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4259s)
 
 Yeah, we have a…
 
-## renata Janiszewska [01:11:00](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4260s)
+## Renata Janiszewska [01:11:00](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4260s)
 
 Couple of questions.
 
-## Clay Campbell [01:11:02](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4262s)
+## Clayton Campbell [01:11:02](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4262s)
 
 Sorry, that's a great conversation. Thank you very much, everyone. Of course. I'm glad to keep chatting.
 
-## renata Janiszewska [01:11:08](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4268s)
+## Renata Janiszewska [01:11:08](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4268s)
 
 Michael Pierre Price.
 
@@ -571,7 +571,7 @@ And I think this probably goes back to Renaissance times, when, you know, artist
 
 Artists have been trying to raise themselves up to the same level as scientists. You know, we are important, society does require creativity and art. But it's a shame that, you know, we've had to fight for this continually.
 
-## renata Janiszewska [01:15:49](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4549s)
+## Renata Janiszewska [01:15:49](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4549s)
 
 Thank you. I think Cynthia Beth Rubin, please.
 
@@ -581,7 +581,7 @@ Okay, so thank you, and I wanted to echo what Michael Price just said about bein
 
 You know, I personally was really drawn to the color and the luminosity of the screen, and I had the opportunity to work with early coders in the mid-70s, and didn't turn it… didn't do it, because everything was just in black and white, and X's and O's. And so that's… I don't want to… I know there are a lot of people who want to talk. So, that's all I'm gonna say, is that we're in that in-between place, where we come to code is integral to our work, whether we wrote it ourselves or we're using software code, but we… are twisting it in different expressive ways.
 
-## renata Janiszewska [01:17:11](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4631s)
+## Renata Janiszewska [01:17:11](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4631s)
 
 Thank you, Cynthia. And Annette is next.
 
@@ -593,7 +593,7 @@ It's important because it's important not to see these things as siloed in boxes
 
 Because it's kind of a, like, a dirty secret in the art world. So it's really interesting to me to see investigations both into the history and forerunners, and also into the contemporary ways of using it that bring it together more.
 
-## renata Janiszewska [01:19:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4753s)
+## Renata Janiszewska [01:19:13](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4753s)
 
 Thank you. Lee Musgrave is next.
 
@@ -617,7 +617,7 @@ All of those arguments are still right there in front of you. And it's extremely
 
 Because is it going to be there on the paper still? Or is it going to be gone?
 
-## renata Janiszewska [01:24:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5090s)
+## Renata Janiszewska [01:24:50](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5090s)
 
 Thanks, Lee. Annette, did you have something to add?
 
@@ -625,7 +625,7 @@ Thanks, Lee. Annette, did you have something to add?
 
 No, sorry, I just forgot to take my hand down. Apologies.
 
-## renata Janiszewska [01:25:03](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5103s)
+## Renata Janiszewska [01:25:03](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5103s)
 
 Okay.
 
@@ -639,7 +639,7 @@ I'll tell you… A very funny story, if we have a very quick minute, that Patric
 
 So it was purely a size of, to do with the size. And so, Mallory and Patrick Prince started calling this the Leo-Castelli effect. So you can invoke that, you know, well, I've got the Leo-Castelli effect. When you get… when you come across that, you can… you can invoke that.
 
-## renata Janiszewska [01:26:12](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5172s)
+## Renata Janiszewska [01:26:12](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5172s)
 
 That's a great story.
 
@@ -647,7 +647,7 @@ That's a great story.
 
 Is.
 
-## renata Janiszewska [01:26:14](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5174s)
+## Renata Janiszewska [01:26:14](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5174s)
 
 I… I'm really…
 
@@ -661,7 +661,7 @@ And all I can say is, rock on, Techspressionism! And bye-bye, everyone. Thank yo
 
 Lovely to meet you, Helen.
 
-## renata Janiszewska [01:27:12](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5232s)
+## Renata Janiszewska [01:27:12](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5232s)
 
 Thank you, Helen. And it's a good moment to say thank you to Catherine as well. You're welcome. We really appreciate having had you both.
 
@@ -669,7 +669,7 @@ Thank you, Helen. And it's a good moment to say thank you to Catherine as well. 
 
 Oh, thank you, it's a pleasure, thank you.
 
-## renata Janiszewska [01:27:23](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5243s)
+## Renata Janiszewska [01:27:23](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5243s)
 
 It was just wonderful.
 
@@ -677,7 +677,7 @@ It was just wonderful.
 
 Giving me.
 
-## renata Janiszewska [01:27:26](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5246s)
+## Renata Janiszewska [01:27:26](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=5246s)
 
 Yeah, it was… it was really wonderful. I also want to mention our next salon is going to be coming to you live from New York City with Erin Ko, who's moderating the Every Women… Every Woman Bien All, which is opening this Saturday, or Sunday, a number of Techspressionist artists are in the exhibition, and I'll be co-moderating from here in Canada. And, there's an after-party that starts when we end our recording, so welcome to all the people who were perhaps new faces today.
 

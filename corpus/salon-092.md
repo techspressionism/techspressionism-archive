@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=bdzAVjhHPaw"
 duration_seconds: 5706
 moderator: Colin Goldberg
 speakers:
-  - name: Ariel Barron-Robbins
+  - name: Ariel Baron-Robbins
     country: USA
     start: 288
   - name: Systaime
@@ -45,7 +45,7 @@ She's integrating generative, artificial intelligence into her intermediate anim
 
 Additionally, she was featured in a discussion with Stephanie Trip from the University of Tampa. Titled Discussion with Curator AI Nfts art in the Metaverse held at tempest projects in Tampa, Florida so without further ado, I will hand the mic over to Ariel.
 
-## Ariel Barron-Robbins [06:24](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=384s)
+## Ariel Baron-Robbins [06:24](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=384s)
 
 Hello! You guys, can you guys hear me? Oh, no, no. Okay. Sorry. I'm in front of a college classroom right now. Just so you know. And so thank you so much. For that, that was long. 10 min. Is not that short? So I'm going to start sharing my desktop. Okay? So yes, all of that was true. I've had a very interdisciplinary focus. When it comes to my artwork you can find me. This is my website right here. Where you can draw, I would say the Major. One of the major things between all that connects all of my artwork together is an interest in process and the process of making work.
 
@@ -75,7 +75,7 @@ So I have this one. And then I had this. Now, this is when we got more video to 
 
 You have about 2 min left. Ariel.
 
-## Ariel Barron-Robbins [15:10](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=910s)
+## Ariel Baron-Robbins [15:10](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=910s)
 
 Okay, yeah, and so I'm putting them together. So also, I have some rules when it comes to these projects and the rules, because I'm very into flux fluxes and things like that, which is my rule is that you know I do. The generation I try to stick to the 1st run through, you know, and not repeat and repeat and repeat. Because I just want to get the raw output of what it's doing. So in a way, I'm like kind of like co-constructing it. And with the AI. And I'm allowing the AI to have a lot of autonomy in this process. You know, I created the whole video. So I've had a lot to do with it. The AI also has a lot to do with it at the end, because I'm only running it once. I'm not necessarily making the decision by running it over and over and over again to control it that way if that makes sense.
 

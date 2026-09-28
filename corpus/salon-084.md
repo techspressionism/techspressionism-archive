@@ -49,7 +49,7 @@ Great. Thank you. Yeah, Tommy, did you want to say a few words where we get goin
 
 Thanks, Roz. I was not planning on it.
 
-## cha cha [02:17](https://www.youtube.com/watch?v=9uB83V9qp8M&t=137s)
+## Tommy Mintz [02:17](https://www.youtube.com/watch?v=9uB83V9qp8M&t=137s)
 
 But no.
 
@@ -67,7 +67,7 @@ However you do it in your art. My art happens to be. Politics seem to be in ther
 
 It's a it's a solo position, but it's also a democratic one, and I have to say that I think the greatest works of art, even though they might be done by one individual has that universal. I think of the Pieta, or just Monica, or so many pieces where the greatness of the work is that it has a universality that everyone everyone can feel in their hearts somewhere. Okay, with that, said, I don't want to be the bully pulpit here, but I've taken my crown off, and I'm just one with the masses, all of you who I really care for. This is such a great group I love, that we have so many recorded sessions hats off always to Colin Goldberg for starting this group. I've said this before, but I just want to say, I think the fact that these Zooms are recorded and our interviews. And so for the last years, since 2,019, I guess I don't know when we started exactly, but you know they're all recorded on Zoom, and I think they are a wonderful place for people to see what artists are doing.
 
-## cha cha [06:07](https://www.youtube.com/watch?v=9uB83V9qp8M&t=367s)
+## Tommy Mintz [06:07](https://www.youtube.com/watch?v=9uB83V9qp8M&t=367s)
 
 With.
 
@@ -155,7 +155,7 @@ Yes.
 
 Okay. Good. Just quickly.
 
-## Stephanie Beroes [10:19](https://www.youtube.com/watch?v=9uB83V9qp8M&t=619s)
+## Unattributed [10:19](https://www.youtube.com/watch?v=9uB83V9qp8M&t=619s)
 
 It's.
 
@@ -239,23 +239,23 @@ That was Renata. You said Cynthia.
 
 Oh, I'm sorry I'm so sorry. And yours was as well since you. But yeah, that was great. And again, we'll save our questions, or quite a few comments in the chat. And let's go on to Lee. Did you say some? You wanted to share something.
 
-## Leeeeeeee eeeeeeeee [27:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1635s)
+## Lee Schnaiberg [27:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1635s)
 
 Sure. Yeah, I'd love to. But 1st I'd like to say, everybody's stuff has been so beautiful. Thank everybody for sharing the gorgeous ran out of those purple ones. I want one. I don't have the money to afford one, but I'd love to find a way because it's beautiful. I'm just looking for my share screen. Button. Okay, so think this is screen number 2. Is that working? Do you see this.
 
-## Stephanie Beroes [27:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1663s)
+## Unattributed [27:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1663s)
 
 Yes.
 
-## Leeeeeeee eeeeeeeee [27:44](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1664s)
+## Lee Schnaiberg [27:44](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1664s)
 
 Okay, so it's interesting what Cynthia was saying before about independence, from being locked into making images or being locked into anything. And, as you know, I often shoot the same things over and over again, and I really like the process sometimes instead of just the just the actual work. And this is I can't seem to. I can't seem to. Can you still see it? Because now I'm trying to get back to the screen. Okay? So I'm hoping you can still see the screen.
 
-## Stephanie Beroes [28:22](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1702s)
+## Unattributed [28:22](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1702s)
 
 Yes. I can.
 
-## Leeeeeeee eeeeeeeee [28:25](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1705s)
+## Lee Schnaiberg [28:25](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1705s)
 
 I know it's not the same image. I apologize. I'm sorry I'm gonna start all over again. I apologize. I'll be let really quick here. So often I've been become kind of independent of am I still sharing the screen? Oh, God, I'm so sorry! Actually, you know what? Let me.
 
@@ -263,15 +263,15 @@ I know it's not the same image. I apologize. I'm sorry I'm gonna start all over 
 
 You're not sharing the screen you're not sharing. We're back at our multiple view. Do you want to go back in share.
 
-## Leeeeeeee eeeeeeeee [28:52](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1732s)
+## Lee Schnaiberg [28:52](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1732s)
 
 Okay. So yeah. So I think I can go alright. I. My problem was, I was trying to be fancy, and I shouldn't be fancy. Here, I think this is gonna work. Let's see. Share screen. Here we go. Okay. So.
 
-## Stephanie Beroes [29:05](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1745s)
+## Unattributed [29:05](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1745s)
 
 Yes, yes, yes.
 
-## Leeeeeeee eeeeeeeee [29:07](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1747s)
+## Lee Schnaiberg [29:07](https://www.youtube.com/watch?v=9uB83V9qp8M&t=1747s)
 
 A boring picture in my backyard under my stairs. There's a ladder and these grills. I don't even know where they come from. But I've been collecting them and finding more and more of these grills and building materials, and there's a roll of stainless steel which is slowly been unraveling and talking about independence. I felt like I wanna get away from the images that I've been shooting so much of like the one that is it an angel, or is it Goddess of Liberty? But it looks like something with wings or the forest. I always shoot the forest. And I was like, Okay, well, what about this thing?
 
@@ -317,7 +317,7 @@ So when the work is viewed through the app I don't know if you could sort of see
 
 We can see it a little. Yeah, no.
 
-## Stephanie Beroes [45:55](https://www.youtube.com/watch?v=9uB83V9qp8M&t=2755s)
+## Unattributed [45:55](https://www.youtube.com/watch?v=9uB83V9qp8M&t=2755s)
 
 Yeah. Yeah. Very interesting. Hmm.
 
@@ -379,7 +379,7 @@ Thanks for sharing that. Yeah, would people like to have some? I mean, I could s
 
 I still can. We still can't hear you.
 
-## Stephanie Beroes [51:34](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3094s)
+## Unattributed [51:34](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3094s)
 
 I'm sorry. Are you talking to me?
 
@@ -387,7 +387,7 @@ I'm sorry. Are you talking to me?
 
 Yes.
 
-## Stephanie Beroes [51:38](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3098s)
+## Unattributed [51:38](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3098s)
 
 Yes, it's been a fantastic.
 
@@ -395,7 +395,7 @@ Yes, it's been a fantastic.
 
 Oh, is it, Stephanie? Oh, I was talking to Stephen Carpenter. But, Stephanie, go ahead.
 
-## Stephanie Beroes [51:47](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3107s)
+## Unattributed [51:47](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3107s)
 
 It's been a fantastic eye opening experience for me, seeing all of your work. Thank you.
 
@@ -409,7 +409,7 @@ Yeah, I don't know. Maybe press the volume up on your audio, or something. I'm n
 
 I guess. You see the big zoom screen and I'm going into something. Oh. Alright. 1st of all, some of you can you guys see Washington pig on the screen?
 
-## Stephanie Beroes [53:26](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3206s)
+## Unattributed [53:26](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3206s)
 
 Yes, this is.
 
@@ -429,7 +429,7 @@ And I feel influenced in a caring and supportive way. I'm often given ideas that
 
 And as I said, if it doesn't work. I will then put a link in the. Okay. Can't optimize for Alright. So are you seeing my desktop.
 
-## Stephanie Beroes [59:32](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3572s)
+## Unattributed [59:32](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3572s)
 
 Yes.
 
@@ -441,7 +441,7 @@ Just wonderful.
 
 Are you seeing capcut.
 
-## Stephanie Beroes [59:37](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3577s)
+## Unattributed [59:37](https://www.youtube.com/watch?v=9uB83V9qp8M&t=3577s)
 
 Yes.
 
@@ -659,7 +659,7 @@ I might be willing to work on that. We'll see. Not. August. But Wait. Is this is
 
 Yeah.
 
-## Steohen Carpenter [01:11:17](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4277s)
+## Stephen Carpenter [01:11:17](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4277s)
 
 No, I can't do it.
 
@@ -699,7 +699,7 @@ Wonderful. I'm fascinated with. The viewpoints that you were able to achieve in 
 
 Thank you. Thank you, Cynthia.
 
-## Steohen Carpenter [01:13:05](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4385s)
+## Stephen Carpenter [01:13:05](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4385s)
 
 Is anybody able to hear me.
 
@@ -707,7 +707,7 @@ Is anybody able to hear me.
 
 Yes, yes, we can.
 
-## Steohen Carpenter [01:13:09](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4389s)
+## Stephen Carpenter [01:13:09](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4389s)
 
 Oh, wonderful! I just wanted to introduce myself and how wonderful everything is, and how I feel like I'm a kindergartner with a whole bunch of support. So bunch of stuff that I've got to explore quick, quick thing. We were talking about interdependence today and dependence, and everybody stops at we, the people. But look at the next few words in order to form a more perfect union, which means it's not it, which means for me, anyway, my sermon that. We are all in this together, and it demands our work.
 
@@ -721,7 +721,7 @@ So maybe later on, when we get to the multiple viewpoints and things like that. 
 
 Welcome. Thank you, Stephen. It's great to hear from you. Yeah. And there is a procedure that I think Colin might want to speak to for a minute about how this works, or I can talk to it. Colin. You know that if you want to be, you're on the list now, or you should be I think, and we meet once a month, and if you do want to present, we usually do 5 to 10 min Timing. Usually there are more people and you just come a few minutes before like 15, for, like 1145.
 
-## Steohen Carpenter [01:16:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4575s)
+## Stephen Carpenter [01:16:15](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4575s)
 
 And make sure everything works.
 
@@ -729,7 +729,7 @@ And make sure everything works.
 
 Yeah, make sure everything works. And you know, just share the screen and all that. So it's really pretty easy, but welcome. Yes,
 
-## Steohen Carpenter [01:16:23](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4583s)
+## Stephen Carpenter [01:16:23](https://www.youtube.com/watch?v=9uB83V9qp8M&t=4583s)
 
 Good.
 
@@ -883,7 +883,7 @@ Okay. Great.
 
 Excellent.
 
-## Steohen Carpenter [01:28:22](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5302s)
+## Stephen Carpenter [01:28:22](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5302s)
 
 I'd I. This is a topic I love. And I will be on the road on August first, st so maybe I'll just submit my book or something.
 
@@ -891,7 +891,7 @@ I'd I. This is a topic I love. And I will be on the road on August first, st so 
 
 Well, if you're on the road you might still be able to join in. Wi-fi is everywhere.
 
-## Steohen Carpenter [01:28:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5323s)
+## Stephen Carpenter [01:28:43](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5323s)
 
 I know. But I'm gonna be in a car. I mean, I'm gonna be. I am gonna be traveling. So anyway. I'll catch it afterward. Maybe another time perspective will come around again. And the only reason I'm mentioning it is A friend of mine, my own, my old Prof. And I got together, and it was embarrassing because it was public. But we came up with 19 Viable historic things called perspective that are usable and at our are historic and presentable. So everybody stops at linear perspective. But that's just the beginning. And I'm very, very interested in it because of the Byzantine and non non Western kinds of work. And anyway.
 
@@ -905,7 +905,7 @@ Okay, I just wanna remind you, Starbucks is everywhere.
 
 For an hour and a half, and you'll be all set.
 
-## Steohen Carpenter [01:29:52](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5392s)
+## Stephen Carpenter [01:29:52](https://www.youtube.com/watch?v=9uB83V9qp8M&t=5392s)
 
 If only if only I could get all of the other people that are traveling with me to do that as well.
 

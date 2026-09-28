@@ -15,7 +15,7 @@ flags:
   - speaker_index_missing
 ---
 
-## renata Janiszewska [00:03](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=3s)
+## Renata Janiszewska [00:03](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=3s)
 
 Welcome! I'm Renata Janiszewska, and I'm coming to you from Lion's Head, Ontario, Canada. For those of you just meeting us, Expressionism can be thought of as Expressionism for the digital age. We are a community of over 350 artists, In 45 different countries. Who use everything from mobile apps to coding. To translate our inner experiences into visual art. It's an approach. Not a style. We don't care what software you use, we care about the feeling behind it.
 
@@ -23,7 +23,7 @@ We were started by a group of five, four of them artists. One of them, Helen Har
 
 Our Instagram account is partly based on works bearing that hashtag. And we would also love it for you to join our Artist Index. To do so, just follow the at Techspressionism Instagram account, and DM me for the details. We are a very inclusive and welcoming community. The website address, once again, is Techspressionism.com. And the Instagram is at Techspressionism. We're also on TikTok. Now, I'm going to hand things over to Erin Ko, who is my co-moderator, coming from the Pen and Brush Gallery in New York City.
 
-## Pen and Brush [02:28](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=148s)
+## Erin Ko [02:28](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=148s)
 
 Okay, I'm gonna play a short overview, video.
 
@@ -57,7 +57,7 @@ You can play automatically, though, I'll say next, right? Yeah, you can tell me 
 
 Yep.
 
-## Pen and Brush [11:15](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=675s)
+## Erin Ko [11:15](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=675s)
 
 Okay, great. Okay, I first made it as… These terrible sculptures and I said, oh my goodness, how fun that is to be able to make something on such a grand scale.
 
@@ -103,7 +103,7 @@ And He's the engineer at Stoyer Express.
 
 Correct.
 
-## Pen and Brush [22:01](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1321s)
+## Erin Ko [22:01](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1321s)
 
 And… Rapid graphics and graphics. Oh, oh, yeah, that went up.
 
@@ -141,19 +141,19 @@ Alright, my name is Tasmine. I am presenting to you today a video game that I am
 
 I'm sorry. Consume audio. At all.
 
-## renata Janiszewska [31:07](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1867s)
+## Renata Janiszewska [31:07](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1867s)
 
 We're not seeing the screen share at home.
 
-## Pen and Brush [31:09](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1869s)
+## Erin Ko [31:09](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1869s)
 
 Oh, got it, thank you. Let's do that. Can everyone at home see the slides? Meal here.
 
-## renata Janiszewska [31:26](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1886s)
+## Renata Janiszewska [31:26](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1886s)
 
 Yes, we're good.
 
-## Pen and Brush [31:27](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1887s)
+## Erin Ko [31:27](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=1887s)
 
 Okay, fantastic. I have to deal with this when I teach Zoom classes for my students.
 
@@ -357,13 +357,13 @@ And, what's inside us? Emanating that. Outside. And journeyed back again. In a c
 
 Do we have questions from the Zoom online audience?
 
-## renata Janiszewska [01:26:59](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5219s)
+## Renata Janiszewska [01:26:59](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5219s)
 
 Raise your hand, and….
 
 Buddy?
 
-## Pen and Brush [01:27:15](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5235s)
+## Erin Ko [01:27:15](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5235s)
 
 Well… I have another question that's more important. Sits… You all kind of have some… Again, psycho-spiritual minds going on. Do you think this is indicative of the time? More… And your own practice, or do you think you would be making A crucible, or a collective consciousness. You….
 
@@ -407,17 +407,17 @@ Expressionism, if you are at all interested, it's a fabulous group, you should c
 
 Alrighty.
 
-## renata Janiszewska [01:38:38](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5918s)
+## Renata Janiszewska [01:38:38](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5918s)
 
 Thanks to Aaron and to Tommy for tech support at Penn and.
 
-## Pen and Brush [01:38:42](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5922s)
+## Erin Ko [01:38:42](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5922s)
 
 Thank you so much to die. Thank you, Ordata, thank you, Colin. Thank you, Michael. Thank you, everyone.
 
 This…
 
-## renata Janiszewska [01:38:56](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5936s)
+## Renata Janiszewska [01:38:56](https://www.youtube.com/watch?v=P-sfs-tCkgw&t=5936s)
 
 Wraps up our portion of the home. Salon visitors. And thanks again to Aaron for putting together such a great panel. We will still have our after-party, and now I guess we're ready to conclude this part of the song.
 
