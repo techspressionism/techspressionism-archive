@@ -601,6 +601,13 @@ header.site .hsearch input { font:inherit; font-weight:700; width:18rem; max-wid
 header.site .hsearch input::placeholder { color:#757575; opacity:1; }
 header.site .hsearch input::-webkit-search-cancel-button { cursor:pointer; }
 header.site .hsearch input:focus { outline:none; border-color:var(--accent); }
+/* type-ahead suggestions dropdown under the search box, per Colin 2026-09-28 -- see SUGGEST_JS */
+.suggest-drop { position:absolute; top:100%; left:0; right:0; z-index:20; margin-top:-2px; background:#fff; border:2px solid var(--accent); border-top:0; max-height:60vh; overflow-y:auto; text-align:left; }
+.suggest-item { display:flex; align-items:baseline; justify-content:space-between; gap:.8rem; width:100%; padding:.55rem .9rem; border:0; border-bottom:1px solid var(--line); background:none; font:inherit; text-align:left; cursor:pointer; }
+.suggest-item:last-child { border-bottom:0; }
+.suggest-item:hover, .suggest-item.on { background:#fdeaea; }
+.suggest-t { color:var(--fg); font-weight:700; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.suggest-y { flex:none; color:var(--muted); font-size:.8rem; }
 main { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem; }   /* bottom padding used to be 4rem, room for the footer that lived at the end of <main> -- now that it's removed (per Colin) that was just dead blank space full-width below the content, so it matches the top padding instead */
 h1 { font-size:1.7rem; margin:.2rem 0 .3rem; }
 h1 .topic { color:var(--muted); font-weight:400; }
@@ -1055,6 +1062,7 @@ PAGE_TMPL = """<!doctype html>
 </article>
 </main>
 {player_js}
+{suggest_js}
 </body>
 </html>
 """
@@ -1309,6 +1317,100 @@ document.addEventListener("change", function (ev) {
   s.scrollIntoView({ block: "nearest", behavior: "smooth" });
 });
 """
+
+
+# Type-ahead suggestions under the header search box, every page (Colin, 2026-09-28: "pop up suggestions ... like
+# Google does"). Matches against artist names (data/artists-search.json, already built for the in-results artist
+# card) and recording titles (data/recordings-search.json, new). Works wherever header.site .hsearch/.stickyheader
+# .hsearch shows up -- the search-results page (where the input also drives live results as you type) gets this
+# dropdown too, as a faster "just take me there" alongside the in-place results; a click or Enter-on-a-highlighted-
+# item navigates straight to that artist/recording page instead of running a text search for it.
+SUGGEST_JS = r"""<script>
+(function () {
+  var inputs = document.querySelectorAll('header.site .hsearch input[type="search"], .stickyheader .hsearch input[type="search"]');
+  if (!inputs.length) return;
+  var css = document.querySelector('link[rel="stylesheet"][href*="style.css"]');
+  var root = css ? css.href.replace(/style\.css.*$/, '') : location.pathname.replace(/[^\/]*$/, '');
+  var artists = null, recordings = null;
+  function load() {
+    if (artists) return;
+    artists = fetch(root + 'data/artists-search.json').then(function (r) { return r.ok ? r.json() : []; }).catch(function () { return []; });
+    recordings = fetch(root + 'data/recordings-search.json').then(function (r) { return r.ok ? r.json() : []; }).catch(function () { return []; });
+  }
+  function norm(s) { return (s || '').toLowerCase(); }
+  function score(name, q) {         // 2 = starts with the query, 1 = contains it, 0 = no match
+    var n = norm(name);
+    if (n.indexOf(q) < 0) return 0;
+    return n.indexOf(q) === 0 ? 2 : 1;
+  }
+  function matches(q, list) {
+    var out = [];
+    for (var i = 0; i < list.length; i++) {
+      var it = list[i], best = score(it.n || it.t, q);
+      for (var j = 0; !best && it.a && j < it.a.length; j++) best = score(it.a[j], q);   // an artist's alias
+      if (best) out.push([best, it]);
+    }
+    out.sort(function (a, b) { return b[0] - a[0]; });
+    return out.map(function (x) { return x[1]; });
+  }
+  inputs.forEach(function (input) {
+    var form = input.closest('form'), wrap = document.createElement('div');
+    wrap.className = 'suggest-drop'; wrap.hidden = true; wrap.setAttribute('data-pagefind-ignore', '');
+    form.style.position = form.style.position || 'relative';
+    form.appendChild(wrap);
+    var items = [], active = -1, seq = 0;
+    function close() { wrap.hidden = true; wrap.innerHTML = ''; items = []; active = -1; }
+    function go(u) { location.href = root + u; }
+    function render(list) {
+      items = list;
+      active = -1;
+      if (!list.length) { close(); return; }
+      wrap.innerHTML = list.map(function (it, i) {
+        if (it.u.indexOf('artist/') === 0) {
+          return '<button type="button" class="suggest-item" data-i="' + i + '"><span class="suggest-t">' + esc(it.n)
+               + '</span><span class="suggest-y">Artist' + (it.l ? ' · ' + esc(it.l) : '') + '</span></button>';
+        }
+        return '<button type="button" class="suggest-item" data-i="' + i + '"><span class="suggest-t">' + esc(it.t)
+             + '</span><span class="suggest-y">' + esc(it.y) + (it.d ? ' · ' + esc(it.d) : '') + '</span></button>';
+      }).join('');
+      wrap.hidden = false;
+    }
+    function esc(s) { return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+    function setActive(i) {
+      var els = wrap.querySelectorAll('.suggest-item');
+      if (active >= 0 && els[active]) els[active].classList.remove('on');
+      active = i;
+      if (active >= 0 && els[active]) { els[active].classList.add('on'); els[active].scrollIntoView({ block: 'nearest' }); }
+    }
+    var timer;
+    input.addEventListener('input', function () {
+      clearTimeout(timer);
+      var q = input.value.trim().toLowerCase();
+      if (q.length < 2) { close(); return; }
+      load();
+      var n = ++seq;
+      Promise.all([artists, recordings]).then(function (r) {
+        if (n !== seq) return;      // a later keystroke already started a newer lookup
+        var a = matches(q, r[0]).slice(0, 5), b = matches(q, r[1]).slice(0, 8 - Math.min(a.length, 5));
+        render(a.concat(b).slice(0, 8));
+      });
+    });
+    input.addEventListener('keydown', function (ev) {
+      if (wrap.hidden) return;
+      if (ev.key === 'ArrowDown') { ev.preventDefault(); setActive(Math.min(active + 1, items.length - 1)); }
+      else if (ev.key === 'ArrowUp') { ev.preventDefault(); setActive(Math.max(active - 1, -1)); }
+      else if (ev.key === 'Escape') { close(); }
+      else if (ev.key === 'Enter' && active >= 0) { ev.preventDefault(); go(items[active].u); }
+    });
+    wrap.addEventListener('mousedown', function (ev) {      // mousedown (not click) fires before the input's blur closes the dropdown
+      var btn = ev.target.closest('.suggest-item');
+      if (btn) { ev.preventDefault(); go(items[parseInt(btn.dataset.i, 10)].u); }
+    });
+    input.addEventListener('blur', function () { setTimeout(close, 150); });      // delay: still lets the mousedown above land first
+    input.addEventListener('focus', function () { if (input.value.trim().length >= 2 && items.length) wrap.hidden = false; });
+  });
+})();
+</script>"""
 
 
 PLAYER_JS = """<script>
@@ -2409,6 +2511,7 @@ def build_session_page(entry, siblings=()):
         header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], video_scope=True),
         sticky_header=build_header(NAV_CORPUS, TYPES[entry.get('type', 'salon')]['label'], sid='-sticky', strip="sticky", video_scope=True),
         player_js=PLAYER_JS,
+        suggest_js=SUGGEST_JS,
         type=e(stype),
         type_cap=e(TYPES[stype]["label"]),
         year=e(year),
@@ -2902,6 +3005,7 @@ document.addEventListener('click', (e) => {{
   syncWidth(); window.addEventListener('resize', syncWidth);
 }})();
 </script>
+{suggest_js}
 </main>
 </body>
 </html>
@@ -3166,7 +3270,7 @@ def build_person_page(p):
     head = build_header(NAV_CORPUS, "Artist")
     return (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{e(p["name"])} · Techspressionism Video Archive</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
-            f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person">\n{body}\n</main>\n</body>\n</html>\n')
+            f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person">\n{body}\n</main>\n{SUGGEST_JS}\n</body>\n</html>\n')
 
 
 PERSON_CSS = """
@@ -3385,7 +3489,7 @@ def build_category_page(stype, entries):
                  f'<title>{e(info["plural"])}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
                  f'<div class="stickyheader" id="stickytitle">{sticky_head}</div>\n'
-                 f'<main class="person category">\n{body}\n</main>\n</body>\n</html>\n')
+                 f'<main class="person category">\n{body}\n</main>\n{SUGGEST_JS}\n</body>\n</html>\n')
     seo = dict(title=f"{info['plural']} — {BRAND}", social_title=f"{info['plural']} — {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
                og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
@@ -3447,7 +3551,7 @@ def build_artists_page(corpus):
                  f'<title>Artists</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
                  f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page category-page">\n{head}\n'
                  f'<div class="stickyheader" id="stickytitle">{sticky_head}</div>\n'
-                 f'<main class="person category">\n{body}\n</main>\n{ARTISTS_PAGE_JS}\n</body>\n</html>\n')
+                 f'<main class="person category">\n{body}\n</main>\n{ARTISTS_PAGE_JS}\n{SUGGEST_JS}\n</body>\n</html>\n')
     seo = dict(title=f"Artists — {BRAND}", social_title=f"Artists — {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
                og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
@@ -3474,6 +3578,7 @@ def build_index(corpus):
     hours = round(sum(x.get("duration_seconds") or 0 for x in corpus) / 3600)
     as_of = datetime.date.today().strftime("%B %Y")
     return INDEX_TMPL.format(
+        suggest_js=SUGGEST_JS,
         latest_year=latest_year,
         first_year=first_year,
         hours=hours,
@@ -4122,7 +4227,7 @@ and the exhibition and artist pages on techspressionism.com.</p>"""
                              trail=[(BRAND, canonical_url("")), ("About", page)]) if page else None
     html_page = (f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
                  f'<title>About the {e(BRAND)}</title>\n{FONT_LINKS}\n<link rel="stylesheet" href="style.css">\n'
-                 f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person about">\n{body}\n</main>\n</body>\n</html>\n')
+                 f'<script>document.documentElement.className+=" js"</script>\n</head>\n<body class="person-page">\n{head}\n<main class="person about">\n{body}\n</main>\n{SUGGEST_JS}\n</body>\n</html>\n')
     seo = dict(title=f"About the {BRAND}", social_title=f"About the {BRAND}", description=desc, url=page,
                image=default_share_image()[0] if page else "", image_size=default_share_image()[1],
                og_type="website", jsonld=ld, meta=[], alternates=[], video_embed="")
@@ -4244,6 +4349,11 @@ def main():
     (SITE_DIR / "data" / "artists-search.json").write_text(json.dumps([
         {"n": pp["name"], "a": pp.get("aliases") or [], "u": f"artist/{pp['id']}/", "l": pp.get("location") or "", "r": len(pp["speaks"]), "m": len(pp["mentions"]),
          "i": f"artist-images/{pp['id']}.jpg" if (WIKI.get(pp["id"]) or {}).get("image") else ""} for pp in LISTED], ensure_ascii=False, separators=(",", ":")))
+    # every recording's title, for the search box's type-ahead suggestions (Colin, 2026-09-28) -- same idea as
+    # artists-search.json above, just for recordings instead of people
+    (SITE_DIR / "data" / "recordings-search.json").write_text(json.dumps([
+        {"t": x.get("session_title") or "Untitled", "y": TYPES[x.get("type") or "salon"]["label"], "u": clean_path(f"{slug(x)}.html"),
+         "d": fmt_date(x.get("date_recorded")) or ""} for x in corpus], ensure_ascii=False, separators=(",", ":")))
     write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     if AUTO_PRESENTATION_SLUGS:
