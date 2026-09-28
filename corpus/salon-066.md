@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=UBx4LDG--60"
 duration_seconds: 5337
 moderator: Davonte Bradley
 speakers:
-  - name: Morgan Harper Nichols
-    country: null
-    start: 1230
   - name: Sherry Karver
     country: null
     start: 2409
@@ -58,7 +55,7 @@ How light shifted in handling the different colors and whatnot. And initially in
 
 So I considered myself to be a sculptor of light. And that persisted for a certain period of time. And then when I had to deal with the logistics, the logistics of printing and presentation and putting on an exhibit, you know, doing a show, I had to then consider more textures in the external world experience. And that was quite involved because, I mean, back in early on in my career, it wasn't so obvious how you were going to get your artwork out of the computer and into the real world and in front of people. And it took me quite a while to sit down and walk through the logistics of that. And at that point in time, I started seeing my work as being more akin to works on paper as opposed to being a light sculpture, although the light sculpturing remains a significant part of what I do. And I find that, you know, I'm not a sculptor.
 
-I'm an artist. I'm a professional of what I do. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. Yeah, Photoshop, Adobe is very much into money. You know, they like to monetize their ideas. And so they don't really think about folk like us. But I thought that paint was intuitive.
+I'm an artist. I'm a professional of what I do. And I think that's what I'm most sold on. Yeah, Photoshop, Adobe is very much into money. You know, they like to monetize their ideas. And so they don't really think about folk like us. But I thought that paint was intuitive.
 
 You know, paint had a way of coming up with stuff that I'm only seeing now in artificial intelligence. And in working with paint, I felt like on more than one occasion, paint could feel what it is that I wanted, you know. And then when I transported the bitmap from paint into something like PaintShop Pro, then the intuitive component really just exploded. You know, and I felt like I was in many ways interacting with the intelligence. And I felt like I was in many ways interacting with the intelligence inside the machine.
 
@@ -82,15 +79,25 @@ And I came up with some pretty creative solutions to it. But the whole psycholog
 
 We have to figure our way around. There's women and figure our way around as people of color and whatnot. And if you want to be egalitarian in your thought processes, you have to be very mindful of how you're going to interact with the materials that are available to us nowadays.
 
-## Morgan Harper Nichols [20:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=1230s)
+## Davonte Bradley [20:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=1230s)
 
-Now, I'd like to call attention to something that it just dawned on me because I know I opened up the salon, but saying that there were going to be. Presenters. But this has become more or less an open discussion kind of day. So if everyone's fine with us continuing on with that, cool. But it doesn't seem like we're going to have like formal presenters this time around. Which I'm okay with that. Morgan Harper Nichols has an image she wants to share. Oh, sure. And she relates to it's a custom image set that she made as a black woman with AI that she wants to share. So rock on. Well, like a silent follower for a while. I always just watch on YouTube and I was like, oh, maybe I should try to like join in live one time. I tend to get very nervous, but it's all good. What you're sharing. I was like, you know, I got to overcome my fear because I think this is relevant.
+Now, I'd like to call attention to something that it just dawned on me because I know I opened up the salon, but saying that there were going to be. Presenters. But this has become more or less an open discussion kind of day. So if everyone's fine with us continuing on with that, cool. But it doesn't seem like we're going to have like formal presenters this time around. Which I'm okay with that.
+
+## Verneda Lights [20:59](https://www.youtube.com/watch?v=UBx4LDG--60&t=1259s)
+
+Morgan Harper Nichols has an image she wants to share. Oh, sure. And she relates to it's a custom image set that she made as a black woman with AI that she wants to share. So rock on.
+
+## Morgan Harper Nichols [21:13](https://www.youtube.com/watch?v=UBx4LDG--60&t=1273s)
+
+Well, like a silent follower for a while. I always just watch on YouTube and I was like, oh, maybe I should try to like join in live one time. I tend to get very nervous, but it's all good. What you're sharing. I was like, you know, I got to overcome my fear because I think this is relevant.
 
 But because when I first found just with being very digital media minded, when I first found out about AI, I was immediately like, wow, I want to know, like, how can how can I get my art involved? But. It was very closed off and I couldn't figure it out. So I was like, well, I'm going to figure out how to make my own. I'm an artist. I'm not a computer person.
 
 So it's been a long journey. There are a lot of those in here. So I've gone on a very, very long journey and I just wanted to show a screenshot of what I've been working on here. Excellent. So this on this is all my original artwork that I painted digitally on my iPad and I've been working on custom. So I've been working on custom training models to address that very same thing, because I just realized that as a black woman, like the stuff that I was seeing was not really reflective of me. It was gross. Yeah, I was like, oh, no. Your options are your options are hyper sexualization or nothing. Yeah. Monsters or monsters. Yeah, exactly. So I started working with Checkpoint. So that's something that you can use. I started working with a local thing. It's called Automatic 111.
 
 And I turned the setting up to where it's all my art. So I'm just generating from my art. And yeah, it's just been a really great I'm in an MFA program right now. So it's what I'm writing a paper on. So I haven't shared it too much, but I was just like, I felt like it was relevant because that's kind of my hope for generative AI is that there could be more opportunities. For people to generate things that are from more of their experiences as an artist from their own collections. So that's kind of that is exactly the kind of thing that I was hoping that people would eventually get to because.
+
+## Davonte Bradley [23:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=1409s)
 
 Thank you. Yeah, thank you. Thanks for the platform. I love following along. Well, also, thank you for coming and thank you for having the courage to. Pop up and show your work. Yeah, it's great work. Yeah. Make sure you come back. I've always been watching on YouTube, but I'm always like, I don't know. I totally identify with being shy. And then of course is the fact that we're mostly a white group, but we're also very inclusive. So it takes a lot of courage and I applaud it. Yes. Well, thank you for saying that. I appreciate that. Thank you. Welcome.
 

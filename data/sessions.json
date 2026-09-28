@@ -2636,12 +2636,6 @@
     "moderator": "Davonte Bradley",
     "speakers": [
       {
-        "name": "Morgan Harper Nichols",
-        "country": null,
-        "start_seconds": 1230,
-        "start_display": "00:20:30"
-      },
-      {
         "name": "Sherry Karver",
         "country": null,
         "start_seconds": 2409,
@@ -2652,12 +2646,6 @@
         "country": "]",
         "start_seconds": 4733,
         "start_display": "01:18:53"
-      },
-      {
-        "name": "Morgan Harper Nichols USA",
-        "country": null,
-        "start_seconds": 1230,
-        "start_display": "00:20:30"
       }
     ],
     "transcript_source": "whisper-large-v3",
