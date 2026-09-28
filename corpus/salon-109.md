@@ -130,7 +130,7 @@ And be able to access it later. Also, once the, yeah, thank you so much, thanks 
 
 Alright, so, moving on, we have, Giuliano. So if you'd like to share and just introduce yourself, let us know where you're zooming in from, take it away.
 
-## Giuliano Comperato [15:46](https://www.youtube.com/watch?v=w8IHfgE2veI&t=946s)
+## Void-Sign [15:46](https://www.youtube.com/watch?v=w8IHfgE2veI&t=946s)
 
 I'm… I'm zooming in from Singapore, let me find the share button, here it is. So, the whole screen, the sound as well, okay. Let's go! So, let's start with… you see my screen right, let's… start with this here, my YouTube channel. So, I'm a teacher from Singapore. I've teached and taught for 3 years here in the university, National University of Singapore as a teacher. I did also a lot of private teaching, so I'm a trained teacher from Germany, I've lived for 40 years in Germany, basically. Also was very interested in theater and stuff like this.
 
@@ -158,7 +158,7 @@ Lady Gaga, I need a picture of her, yeah, my god, I mean, what the hell, man? Yo
 
 One minute.
 
-## Giuliano Comperato [21:29](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1289s)
+## Void-Sign [21:29](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1289s)
 
 With the artist, you know, and enjoy the artwork as a whole, not the person, you know? That's my goal with this project, and this… if it's successful, if people like this when I go on stage, I don't know, you know? But I want to not focus on the people themselves, or me as an artist themselves, but on the performance, you know. And I think it's something for theater, you know. I need to try it first, you know, I don't know how it will turn out to be, but I will do the singing live myself, you know, and try to melt with the artwork, and if it's… Good enough on stage, we can do it on smartphones, we can do it in theater.
 
@@ -168,7 +168,7 @@ That's basically what I try to do, because I use this as an expression for my em
 
 Okay, we are at… we are at time, Giuliana.
 
-## Giuliano Comperato [22:40](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1360s)
+## Void-Sign [22:40](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1360s)
 
 Yeah, yeah, it could be used more intelligently, like, to really put the art out there to the audience, you know? Yeah, never mind, it's okay. Thank you.
 
@@ -176,7 +176,7 @@ Yeah, yeah, it could be used more intelligently, like, to really put the art out
 
 Thank you, thank you.
 
-## Giuliano Comperato [22:51](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1371s)
+## Void-Sign [22:51](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1371s)
 
 Yeah, yeah.
 
@@ -184,7 +184,7 @@ Yeah, yeah.
 
 Thanks so much.
 
-## Giuliano Comperato [22:53](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1373s)
+## Void-Sign [22:53](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1373s)
 
 Stop the screen now here, okay? Stop sharing, you're good.
 
@@ -192,7 +192,7 @@ Stop the screen now here, okay? Stop sharing, you're good.
 
 Excellent! Okay, so yeah, if you'd like to, put a link in the chat, maybe to your YouTube channel, that'd be great, and then everybody who's in here, could check your material out at their leisure.
 
-## Giuliano Comperato [23:10](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1390s)
+## Void-Sign [23:10](https://www.youtube.com/watch?v=w8IHfgE2veI&t=1390s)
 
 Okay.
 
