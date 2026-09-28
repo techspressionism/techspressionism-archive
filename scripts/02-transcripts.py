@@ -31,6 +31,9 @@ CAPTIONS_DIR = ROOT / "raw" / "captions"
 OUT_DIR = ROOT / "raw" / "transcripts"
 WHISPER_DIR = ROOT / "raw" / "whisper"  # Stage 3 output, kept apart so re-running Stage 2 can't clobber it
 LOCAL_SALON_DIR = Path.home() / "Documents" / "~TECHSPRESSIONISM" / "VIDEO" / "SALON"
+OVERRIDES_PATH = ROOT / "data" / "transcript-source-overrides.json"
+SOURCE_OVERRIDES = {k: v for k, v in json.loads(OVERRIDES_PATH.read_text()).items() if k != "_comment"} \
+    if OVERRIDES_PATH.exists() else {}
 
 TIME_RE = re.compile(r"(\d{2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}\.\d{3})")
 TAG_RE = re.compile(r"<[^>]+>")
@@ -232,13 +235,14 @@ def process_session(session, inventory):
 
     words = None  # word-level (timestamp, word) list -- only populated for
     # the YouTube path, where cues has no per-speaker structure to slice by.
-    zoom_path = find_local_zoom_transcript(session, inventory)
+    forced_source = SOURCE_OVERRIDES.get(slug(session))
+    zoom_path = None if forced_source else find_local_zoom_transcript(session, inventory)
     if zoom_path and zoom_path.exists():
         text = zoom_path.read_text(errors="replace")
         cues = parse_zoom_transcript(text)
         source = "zoom-transcript"
         cues = shift_to_video_timeline(session, drop_cut_material(session, cues))
-    elif (WHISPER_DIR / f"{slug(session)}.json").exists():
+    elif not forced_source and (WHISPER_DIR / f"{slug(session)}.json").exists():
         # Stage 3 output: better than YouTube captions, worse than a Zoom
         # transcript (no speaker labels)
         with open(WHISPER_DIR / f"{slug(session)}.json") as f:

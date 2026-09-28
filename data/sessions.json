@@ -5034,7 +5034,7 @@
         "start_display": "00:44:52"
       }
     ],
-    "transcript_source": "zoom-transcript",
+    "transcript_source": "youtube-subtitles",
     "flags": [
       "moderator_missing"
     ],
@@ -5042,9 +5042,9 @@
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY MAY 7, 2026'), confirmed by Colin Goldberg 2026-09-18"
     ],
     "transcript_quality": {
-      "word_count": 8675,
+      "word_count": 8320,
       "duration_seconds": 4706,
-      "words_per_minute": 110.6,
+      "words_per_minute": 106.1,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }

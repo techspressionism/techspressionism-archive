@@ -1,0 +1,4 @@
+{
+ "_comment": "Force a session to use its YouTube caption track instead of Stage 2's normal priority order (local Zoom transcript first). Key: session id (e.g. 'salon-106'). Value: must be 'youtube-subtitles' (a human-uploaded track) -- the only case this exists for so far.",
+ "salon-106": "youtube-subtitles"
+}

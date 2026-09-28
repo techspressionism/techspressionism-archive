@@ -235159,7 +235159,7 @@
     "url": "https://www.youtube.com/watch?v=kAXUgOIUjw0",
     "duration_seconds": 4706,
     "moderator": null,
-    "transcript_source": "zoom-transcript",
+    "transcript_source": "youtube-subtitles",
     "flags": [
       "moderator_missing"
     ],
@@ -235200,3733 +235200,851 @@
     ],
     "segments": [
       {
-        "speaker": "Cynthia Beth Rubin",
-        "start": -3.56,
-        "end": 49.5,
-        "text": "Great. Well, thank you, Colin. Welcome, everybody, to this salon, which, I am co-hosting with Stephen Paray. We're really happy to bring People in from France. We, as Colin just said, we're expanding and building our network. So, this is really wonderful. I am going to… share my screen, and do… a little bit of an introduction here, and I did remember, 2….\n\nGreat, this is being recorded. So… Welcome to our, session 106, focusing on France. Is everybody seeing this screen, by the way?",
+        "speaker": null,
+        "start": 0.16,
+        "end": 180.32,
+        "text": "Welcome everybody to this salon which I am co-hosting with Stephen Paré. We're really happy to bring people in from France. As Colin just said, we're expanding and building our network. So this is really wonderful. I am going to share my screen and do a little bit of an introduction here. Welcome to our session 106 focusing on France. Is everybody seeing this screen by the way? Yes. Okay, good. Techspressionism, what is Techspressionism? For those of you who are new to it, it's a term that actually Colin came up with for those of us who are using technology as it says in an emotional experience and it is a global networked community. We are artists who fall into between categories as we discussed earlier today, of working maybe with traditional media and bringing in technology or starting with technology, but where what we're expressing goes past, or isn't really based, on the technology.\n\nIt's fed by the technology, but maybe we're still thinking like painters or sculptors or data people, whatever we're doing, and using technology to get to something expressive. What Techspressionism is - we have what you're in right now: monthly salons. We also have virtual co-working. So every week some of us get together at noon Eastern North American time and at 6:00 (18:00) in the evening in European time.\n\nWe say what we're going to do and then we give ourselves an hour to organize what we're going to present or continue working on. It's a focused time and then we get together and have critiques and it's been really wonderful. We also have group exhibitions and a whole series of interviews of artists that are all online. If you go to this website, you can find lots of information or you can find us on Instagram and Facebook. So here our first artist is Isabelle.",
         "para_starts": [
-          -3.56,
-          54.15
+          0.16,
+          91.44,
+          140.88
         ],
         "sentence_times": [
           [
-            -3.56,
-            -2.86,
-            -0.45,
-            7.37,
-            12.64,
-            19.68,
-            22.89,
-            24.98,
-            28.94
+            0.16,
+            0.16,
+            9.52,
+            18.76,
+            19.2,
+            33.36,
+            33.36,
+            46.16,
+            46.16,
+            46.16,
+            46.16,
+            64.72
           ],
           [
-            54.15,
-            59.95,
-            60.7,
-            60.7
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 50.96,
-        "end": 48.29,
-        "text": "Yes.",
-        "para_starts": [
-          50.96
-        ],
-        "sentence_times": [
-          [
-            50.96
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 48.54,
-        "end": 180.95,
-        "text": "Okay, good. So, Techspressionism. What is Techspressionism? For those of you who are new to it, it's a term that actually Colin came up with. For those of us who are using technology, as it says, in an emotional experience, and it's a global, networked community. And we are artists who kind of fall into… between categories, as we discussed earlier today, of working maybe with traditional media and bringing in technology, or starting with technology.\n\nBut where what we're expressing goes past or isn't really based on the technology. It's fed by the technology, but maybe we're still thinking like painters, or sculptors, or… Data people, whatever we're doing, and using technology to get to something expressive. What Expressionism is, is we have what you're in right now, monthly salons. We also have virtual co-working, so every week, some of us get together, and it's what would be… it's at noon Eastern North American time, and at 6 o'clock.\n\nIn the evening, in European time, we meet. We say what we're going to do. And then we give ourselves an hour to organize what we're going to present, or to continue working. It's kind of a focused time, and then we get together and have critiques, and it's been really wonderful. We also have group exhibitions. And a whole series of interviews of artists that are all online. If you go to this website, you can find lots of information, or you can find us on Instagram and Facebook.\n\nSo, here, our first artist is Isabelle. Steven, were you going to…",
-        "para_starts": [
-          48.54,
-          86.82,
-          133.45,
-          172.26
-        ],
-        "sentence_times": [
-          [
-            48.54,
-            49.52,
-            51.31,
-            53.42,
-            60.1,
-            70.51,
-            74.11
+            91.44,
+            108.24,
+            116.08,
+            116.08
           ],
           [
-            86.82,
-            94.64,
-            102.54,
-            110.12,
-            116.87,
-            127.15
+            140.88,
+            147.76,
+            154.72,
+            161.76,
+            168.0
+          ]
+        ]
+      },
+      {
+        "speaker": null,
+        "start": 180.32,
+        "end": 212,
+        "text": "Stephen, were you going to introduce? Yes. Well. We want to welcome six artists from France this month and I must say I'm very excited both by the quality and the variety of the work that they're presenting. So we're going to - -- (we've gone backwards somehow. Yeah, I did that just because I didn't feel ready to introduce Isabelle, but go ahead.) Yes. Tthe first artist",
+        "para_starts": [
+          180.32
+        ],
+        "sentence_times": [
+          [
+            180.32,
+            180.32,
+            180.32,
+            180.32,
+            201.92,
+            201.92,
+            207.68,
+            207.68
+          ]
+        ]
+      },
+      {
+        "speaker": "Isabelle Arvers",
+        "start": 212,
+        "end": 888,
+        "text": "We're showing is Isabelle Arvers and I think you will see some qualities of her work. We're going to show a video of hers. Very interesting, her work because she's involved with video games and she is comes to us from Marseilles well why don't you go ahead let's show Isabelle's video.So yeah you want me to stop it for a second - sorry just to give a few words of introduction. You will see I am a curator and artist and while I was touring the world to interview game makers in the Southern countries I also did research on artist initiatives on the power of trees, and it gave birth to this documentary. We can start.\n\nThe Power of Trees - a documentary directed by Livia Diniz and Bruno from Brazil and myself and it deals with artist initiatives on the power of trees and you are going to meet and for the last six and seven years I've been mixing ancestral knowledge and computer games. And while I was in Senegal, I did a lot of 3D scans of big Baobab trees. And I created a Machinima liquid forest with a song creation of Gmanongu that you just heard before. He's also a musician.\n\nAnd it refers to a quote of the environmentalist activist David Copanawa who said once \"the white men should remember that if there is no more forest there won't be any more rain, if there is no more rain there is no more water, no more life\" That is why in this Machinima I am swimming in baobabs. This project is an ongoing project of an immersive installation related to coral communication through ultrasound It was proven very recently, scientifically, that coral communicates through ultrasound.\n\nSo my point of view, my idea, is to give the point of view of corals and here you can hear and see what corals see because they reflect themselves on the membrane between the air and the water. So it will be an immersive installation using photoggramometry, macro images. This project involves a collective of Caribbean and Brazilian artists. We created eFA, refers to the Yoruba Oracle FA and it's an interactive installation.\n\nYou can take a shell and ask FA questions and you will receive one of the FA signs. This is a very ongoing project of ancestro. It's a film game project we are currently doing in Benin with Elon’M Tossou, Exaucé Koutempa, his holiness Joseph Afodegonkou, and Ronald Kayima. And actually received funding of the Beninis government. (I just need to close my door.)\n\nWe received funding from the Benin government to produce three films on water, earth, and fire and it is a hybrid Machinima and real footage documentary. It is dealing with voodoo and the material heritage in Benin in parallel wth these three films, in these three films, we are creating a video game the name is Aux Futurs Ancestraux, in which you will have a different environment: fire earth water and record, in order to circulate in between these different environments.\n\nThe idea is to create an experiential or game that is linked to rituals. We are going to present that project next month in Benin in a traveling exhibition between Cotonou and Ouidah Abomey, and Porto-Novo. The idea is to allow the audience to experience what we were very lucky to live because we visited holy places, the holy forest in Ouidah, the holy swamp; and we also visited high dignitaries of indigineous knowledge and ancestral knowledge in Benin for example, here you are going to see a moment that we really experimented while we were there last November. We did a prayer in front of the fleuve (river) Mono to the fire Divinity.\n\nThe exhibition we will present next month will be an art and games exhibition. The last project I'm presenting because, I'm also a painter. I paint with games and with acrylics. I was doing a residency in art Thailand residency last year in Chiang Mai. There I met the musician collective, Noon Arts Collective. So the music you are listening to is made by the Noon Arts Collective. And what I did is that I 3D scanned my painting in front of plants in a tree house on the sea. And I was also doing research about the Urak Lawoi who are these sea gypsies in Thailand and they settled in Koh Lipe. So I stayed in Koh Lipe Island and did some 3D scans of temples, shrines and big holy trees and that's a discussion between my painting 3D scans and integrated in a game environment and myself.\n\nSorry, I think it's that's it. Thank you for listening. Thank you Isabelle. Very interesting. I think we can appreciate the range boy integrating such distinct genres as documentary with video games. Quite remarkable. Yeah. So right now I am texting with Olga who is supposed to join us any minute. She's actually in the garden that she's talking about. I'm telling her that to join. Let's see what happens. I will go ahead and slowly introduce her because she's texting me and saying she wants to join now. So let's see...\n\nI don't know what we can do. Maybe we have to move on because she said she was she's ready. This is kind of a last minute thing when she realized she was talking about her project in a garden and that she actually was going to be in the garden this evening. So she said she just wanted to do it live from there. But I think since she's not on yet, we may have to move on to the next person and then come back to her. And our next presenter is actually Mâa.",
+        "para_starts": [
+          212,
+          279.44,
+          436.32,
+          483.28,
+          524.8,
+          568.88,
+          624.8,
+          700.72,
+          778.48,
+          843.92
+        ],
+        "sentence_times": [
+          [
+            212.0,
+            215.2,
+            226.64,
+            253.92,
+            271.68
           ],
           [
-            133.45,
-            139.01,
-            142.0,
-            149.07,
-            156.56,
-            158.83,
-            163.78
+            279.44,
+            413.28,
+            419.84,
+            428.72
           ],
           [
-            172.26,
-            177.53
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 180.95,
-        "end": 206.28,
-        "text": "Yes, well, we want to, welcome six. Artists from, France this month. And, I must say, I'm very excited both by the quality and the variety of the work that they're presenting. So we're going to, we've gone backwards somehow.",
-        "para_starts": [
-          180.95
-        ],
-        "sentence_times": [
-          [
-            180.95,
-            188.04,
-            192.36,
-            202.87
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 206.28,
-        "end": 211.62,
-        "text": "Yeah, I did that just because I didn't know if you're ready to introduce Isabelle, but go ahead. Yeah.",
-        "para_starts": [
-          206.28
-        ],
-        "sentence_times": [
-          [
-            206.28,
-            211.36
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 211.62,
-        "end": 245.06,
-        "text": "Yes. So we, and the first, artist we're showing is, Isabelle Arvers. And I think you will see some qualities of her. We're going to show a video of hers. Very interesting, her work, because she's involved with video games, and, she is, comes to us from, Marseille. Well, why don't you go ahead? Let's show, Isabel's video.",
-        "para_starts": [
-          211.62
-        ],
-        "sentence_times": [
-          [
-            211.62,
-            212.09,
-            218.09,
-            223.06,
-            226.89,
-            238.78,
-            242.09
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 245.22,
-        "end": 246.99,
-        "text": "Okay, okay.",
-        "para_starts": [
-          245.22
-        ],
-        "sentence_times": [
-          [
-            245.22
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 247.87,
-        "end": 248.39,
-        "text": "I saw it, yeah.",
-        "para_starts": [
-          247.87
-        ],
-        "sentence_times": [
-          [
-            247.87
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 249.03,
-        "end": 250.99,
-        "text": "Do you want me to stop it for a second? Sorry.",
-        "para_starts": [
-          249.03
-        ],
-        "sentence_times": [
-          [
-            249.03,
-            250.73
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 250.99,
-        "end": 277.17,
-        "text": "Oh, just… just to give, like, a few words of introduction, you will see. So, yeah, I'm a North End game curator and artist, and while I was touring the world to interview game makers in the South countries, I also did the research on, artists. Initiated to the power of trees, and it gave birth to this documentary, and we can start.",
-        "para_starts": [
-          250.99
-        ],
-        "sentence_times": [
-          [
-            250.99,
-            251.8,
-            256.92,
-            270.9
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 277.17,
-        "end": 279.12,
-        "text": "Okay, great.",
-        "para_starts": [
-          277.17
-        ],
-        "sentence_times": [
-          [
-            277.17
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 279.12,
-        "end": 280.19,
-        "text": "Power of trees?",
-        "para_starts": [
-          279.12
-        ],
-        "sentence_times": [
-          [
-            279.12
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 282.88,
-        "end": 283.52,
-        "text": "To document.",
-        "para_starts": [
-          282.88
-        ],
-        "sentence_times": [
-          [
-            282.88
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 283.52,
-        "end": 295.96,
-        "text": "Directed by, Livia Denise and Guino Coal from Brazil, and myself. And, it deals with, artists initiated to the power of trees.",
-        "para_starts": [
-          283.52
-        ],
-        "sentence_times": [
-          [
-            283.52,
-            291.56
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 295.96,
-        "end": 409.82,
-        "text": "And you are going to meet, Gail Manon. Les peuples Banteau qui sont les premieres peuples. Je vous part labor… du cote present la plan. La puissance. Shim what? Avant il y avez… une tradition.\n\nLargo. Peutu faire cheat. Larme peut de constraint. Now… Peteur reminisier.\n\nQui sont… Sur naturally.\n\nL'Enfense. Et initi. Donc savez dire je des arts don't encore. C'est pas de missique, c'est le formie. Cette culture la ancestral et la technology. No un Africaires naturelles qui sont sur la nature, on combos des choses des pas a bonne des course, de racin de trick bien de l' Du les du s' deux pasquois quel bet. Notre forme de science.",
-        "para_starts": [
-          295.96,
-          330.54,
-          346.11,
-          353.57
-        ],
-        "sentence_times": [
-          [
-            295.96,
-            303.16,
-            307.35,
-            312.01,
-            318.76,
-            321.13,
-            322.66,
-            325.13
+            436.32,
+            465.84
           ],
           [
-            330.54,
-            331.93,
-            335.37,
-            338.52,
-            339.25
+            483.28,
+            499.2,
+            505.81,
+            507.28
           ],
           [
-            346.11,
-            347.78
+            524.8,
+            534.72,
+            534.72,
+            559.28,
+            559.28
           ],
           [
-            353.57,
-            356.77,
-            357.72,
-            363.13,
-            378.91,
-            383.72,
-            401.58
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 412.98,
-        "end": 418.86,
-        "text": "For the last 6 and 7 years, I've been mixing ancestral knowledge and computer games.",
-        "para_starts": [
-          412.98
-        ],
-        "sentence_times": [
-          [
-            412.98
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 418.9,
-        "end": 435.65,
-        "text": "And while I was in Senegal, I did a lot of 3D scans of big baobab trees. And I created the machinima, Liquid Forest, with the song creation of Guelman Angu that you've just heard before. He's also a musician.",
-        "para_starts": [
-          418.9
-        ],
-        "sentence_times": [
-          [
-            418.9,
-            425.94,
-            434.14
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 435.65,
-        "end": 440.01,
-        "text": "And, it refers to a quote of, the…",
-        "para_starts": [
-          435.65
-        ],
-        "sentence_times": [
-          [
-            435.65
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 440.01,
-        "end": 445.15,
-        "text": "Environmentalist, activist David Copenhawa.",
-        "para_starts": [
-          440.01
-        ],
-        "sentence_times": [
-          [
-            440.01
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 445.15,
-        "end": 459.88,
-        "text": "We said once, the white men should remember that if there is no more forest, there won't be any more rain. If there is no more rain, there is no more water, no more life. That's why.",
-        "para_starts": [
-          445.15
-        ],
-        "sentence_times": [
-          [
-            445.15,
-            453.81,
-            458.99
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 459.88,
-        "end": 460.41,
-        "text": "Indeed.",
-        "para_starts": [
-          459.88
-        ],
-        "sentence_times": [
-          [
-            459.88
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 460.41,
-        "end": 461.1,
-        "text": "So…",
-        "para_starts": [
-          460.41
-        ],
-        "sentence_times": [
-          [
-            460.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 461.16,
-        "end": 462.44,
-        "text": "Machinima.",
-        "para_starts": [
-          461.16
-        ],
-        "sentence_times": [
-          [
-            461.16
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 463.47,
-        "end": 464.19,
-        "text": "Meaning boba.",
-        "para_starts": [
-          463.47
-        ],
-        "sentence_times": [
-          [
-            463.47
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 464.19,
-        "end": 466.04,
-        "text": "This project is.",
-        "para_starts": [
-          464.19
-        ],
-        "sentence_times": [
-          [
-            464.19
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 466.04,
-        "end": 468.02,
-        "text": "This is an ongoing project of an immersive.",
-        "para_starts": [
-          466.04
-        ],
-        "sentence_times": [
-          [
-            466.04
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 468.02,
-        "end": 481.38,
-        "text": "Installation, related to choral communication through ultrasounds. It was proven very recently, scientifically, that.",
-        "para_starts": [
-          468.02
-        ],
-        "sentence_times": [
-          [
-            468.02,
-            477.16
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 481.38,
-        "end": 482.31,
-        "text": "Coral Communication.",
-        "para_starts": [
-          481.38
-        ],
-        "sentence_times": [
-          [
-            481.38
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 482.32,
-        "end": 482.81,
-        "text": "It's true.",
-        "para_starts": [
-          482.32
-        ],
-        "sentence_times": [
-          [
-            482.32
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 482.81,
-        "end": 487.82,
-        "text": "Reassense. So my point of view? My ID is to.",
-        "para_starts": [
-          482.81
-        ],
-        "sentence_times": [
-          [
-            482.81,
-            484.13,
-            485.89
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 487.83,
-        "end": 501.23,
-        "text": "Give the point of view of corals, and here you can hear and see what corals see, because they reflect themselves on the membrane between the air and the water. So it will…",
-        "para_starts": [
-          487.83
-        ],
-        "sentence_times": [
-          [
-            487.83,
-            500.59
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 501.23,
-        "end": 504.27,
-        "text": "Be an immersive installation. Photogrammetry.",
-        "para_starts": [
-          501.23
-        ],
-        "sentence_times": [
-          [
-            501.23,
-            503.44
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 504.4,
-        "end": 526.29,
-        "text": "Michael Himachi's. And this project, I'm part of a collective of Caribbean and Brazilian artists. And we created IFA that refers to the, Yoruba, Oracle, FA. And, it's an interactive installation, and you can take a shell, And…",
-        "para_starts": [
-          504.4
-        ],
-        "sentence_times": [
-          [
-            504.4,
-            506.51,
-            512.7,
-            520.86
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 526.29,
-        "end": 528.03,
-        "text": "Ask. IFA.",
-        "para_starts": [
-          526.29
-        ],
-        "sentence_times": [
-          [
-            526.29,
-            527.26
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 528.2,
-        "end": 533.8,
-        "text": "Questions, and you will receive one of the FA. Signs.",
-        "para_starts": [
-          528.2
-        ],
-        "sentence_times": [
-          [
-            528.2,
-            532.74
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 533.99,
-        "end": 596.43,
-        "text": "This is a very, very ongoing project of Itures Ancestro. It's a film game project we are currently doing in Benin. With, Elam Tosu, Xose Kutempa, His Holiness, Afon des Gonkoux, Ronald Kaima, Faroup Kokanla, and actually, we… we are the, we received the, the funding of the Beninese government. Excuse me, I just need to close my door. We received the funding from the Beninese government. Produce three films on water, hearse, and, fire. And it's, like, hybrid, machinima and, real footage documentary. And it's, dealing with, voodoo, and the material heritage, in Benin.",
-        "para_starts": [
-          533.99
-        ],
-        "sentence_times": [
-          [
-            533.99,
-            538.5,
-            543.44,
-            554.76,
-            561.96,
-            567.49,
-            573.34,
-            579.28,
-            587.49
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 596.76,
-        "end": 600.03,
-        "text": "And in parallel of these three films.",
-        "para_starts": [
-          596.76
-        ],
-        "sentence_times": [
-          [
-            596.76
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 600.05,
-        "end": 730.88,
-        "text": "In all of these three films, we are creating a game, a video game, the name is Officer's Ancestral. In which you will have the different, environment, fire, earth, water. And a record in order to, circulate in between these different environments. And the idea is to create an experiential or, game, or a game that is linked to rituals. And we are going to present that project next month in Benin. In a traveling exhibition, between Cotonous, Wida, Abome, and, Porto Novo.\n\nAnd, the idea is to allow the audience to experiment what we were very lucky to live, because we visited, holy places, the holy forests in Wida, the holy swamp, and we also visited, High dignitaries of, in, andogenous, knowledge and ancestral knowledge in Benin, and… for example, here you are going to see a moment that we really experimented while we were there in last November. We did a prayer, in front of the Flav Moneau. To the fire divinity. And the exhibition we will present next month will be an art and games exhibition.\n\nAnd the last project I'm presenting, because I'm also a painter, I paint with games and with acrylics. And, I was doing a residency in our Thailand residency, last year in Chiang Mai. And there, I met the musician collective, Nun Arts Collective, so the music you are listening.",
-        "para_starts": [
-          600.05,
-          649.8,
-          705.55
-        ],
-        "sentence_times": [
-          [
-            600.05,
-            609.55,
-            616.54,
-            624.63,
-            634.03,
-            639.95
+            568.88,
+            588.48
           ],
           [
-            649.8,
-            678.16,
-            687.95,
-            694.61,
-            699.92
+            624.8,
+            636.16,
+            646.0,
+            685.44
           ],
           [
-            705.55,
-            713.22,
-            721.61
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 731.24,
-        "end": 734.94,
-        "text": "It's made by the Noon Arts Collective.",
-        "para_starts": [
-          731.24
-        ],
-        "sentence_times": [
-          [
-            731.24
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 734.94,
-        "end": 748.92,
-        "text": "And what I did is that I 3D scanned my painting. In front of, plants, in, in a treehouse on the sea.",
-        "para_starts": [
-          734.94
-        ],
-        "sentence_times": [
-          [
-            734.94,
-            740.29
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 748.92,
-        "end": 758.38,
-        "text": "And I was also doing a research about the Uraklahoi people, who are these sea gypsies in Thailand, and they…",
-        "para_starts": [
-          748.92
-        ],
-        "sentence_times": [
-          [
-            748.92
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 758.53,
-        "end": 787.26,
-        "text": "Settled in Kolanta, so I stayed in Kolanta Island, and did some 3D scans of temples, shrines. And, big, holy trees, and that's a discussion between my paintings, 3D scans, and, integrated in a game environment, and myself. Sorry, I… I think it's… That's it! Thank you for listening!",
-        "para_starts": [
-          758.53
-        ],
-        "sentence_times": [
-          [
-            758.53,
-            768.74,
-            780.51,
-            781.66,
-            783.26,
-            784.52
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 790.64,
-        "end": 806.56,
-        "text": "Thank you, Isabel. Very interesting. I think we can appreciate the range, boy, integrating such distinct genres as, documentary with video games. Quite remarkable.",
-        "para_starts": [
-          790.64
-        ],
-        "sentence_times": [
-          [
-            790.64,
-            792.43,
-            794.13,
-            804.96
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 807.23,
-        "end": 892.24,
-        "text": "Yeah. So, right now, I am texting with Olga, who is supposed to join us any minute. She's actually in the garden that she's talking about, so, I'm telling her that to join, let's see what happens, I will go ahead and, slowly introduce her, because she's texting me and saying she wants to join now. So… let's see, I, don't know what we can do. Maybe we… we have to move on, because she said she was… she's ready. This is kind of a last-minute thing, when she realized she was talking about her project in a garden, and that she actually was going to be in the garden this evening, so she said she just wanted to do it live from there, but I think since she's not on yet.\n\nWe may have to move on to the next person, and then come back to her. And, our next presenter is actually Ma. Ma, are you… Are you ready to go?",
-        "para_starts": [
-          807.23,
-          875.2
-        ],
-        "sentence_times": [
-          [
-            807.23,
-            807.95,
-            817.38,
-            838.64,
-            841.26,
-            850.09,
-            850.54,
-            852.6,
-            855.08
+            700.72,
+            706.72,
+            706.72,
+            714.64,
+            720.77,
+            723.44,
+            732.0,
+            742.0,
+            759.68
           ],
           [
-            875.2,
-            882.36,
-            886.67,
-            888.86
+            778.48,
+            778.48,
+            791.2,
+            791.2,
+            791.2,
+            801.04,
+            801.04,
+            801.04,
+            810.96,
+            820.24,
+            820.24,
+            820.24,
+            831.76
+          ],
+          [
+            843.92,
+            843.92,
+            853.76,
+            860.88,
+            867.92,
+            877.12
           ]
         ]
       },
       {
         "speaker": "Mâa Berriet",
-        "start": 892.77,
-        "end": 914.19,
-        "text": "As much as I can be, but I'm not used to do this presentation, and as most of you know, I'm not very much of a theorist. I'm more a practitioner. So, let me share my, screen… share… okay, can you see it?",
+        "start": 888,
+        "end": 1482,
+        "text": "Mâa, are you are you ready to go? As much as I can be but I'm not used to doing this presentation and as most of you know I'm not very much of a theorist I'm more a practitioner so let me share my screen share okay can you see it perfect okay so yes it's working for those who don't know me, my name is Mâa with a circumflex accent on the \"a\".\n\nI have a very long presentation and I'm going to try to be fast because I know we have eight minutes and I don't want to press this. But I think it's important to see where people come from when you want to understand what they do sometime. So, you hear me well? Yes. Okay. This is more or less where I come from. I started touching computers in 77 and I got hooked on it and so I'm more somebody who was a coder. I went from code to art and now I'm like one foot (or one ass as we say in French) in both worlds. I just want to mention something which was really important in all of this.\n\nIt's that Sylvain Aubin was a cousin of mine. In '70. In ' 82. Who I worked with him, he was working with his sister who was a known French choreographer and I spent an afternoon playing with this machine which was transforming image in sound and I went outside to buy cigarettes after working two hours with that and I step outside and suddenly I have this strange feeling and I understand that suddenly I was moving and there were no sounds. So I realized the power of interactive system that means that the human brain was able to connect, to be in symbiosis (working together), really fast with this and it was really a shock which kind of turned my life (upsidedown) in a good way I hope.\n\nSo I went on I'm not going to go to too much details because it's a long story I'm doing this for like 40 years. I found a selection of images from the beginning, when I started to produce images so I want to show you some. Can you see it? They're very crude They look old-fashioned, but I was so happy to get this at the time. We are in '86 and it was kind of difficult to do real time stuff at the time. And then real time became more and more - - I will say accessible. The game industry made us able to do things on cheaper and cheaper machines. And one of the first things I did, can you hear the sound here?\n\nOkay. This is one of the first pieces I did with Olivier Auber and Thierry Fournier. And it was for a museum. It was a kind of dive into the Nibelongan myth. It was kind of crude if you look because it's like we are in 80s something, but it was already immersive. It was a war room where people were sitting. It was a shot, the treasure. And in fact, people were able to navigate under the city and see all the kind of underlying Nebelongian dream and culture coming from the bottom.\n\nAnd they were navigating with this also with an opera which was built in real time. So it was really was, I will say the first big immersive project that I did with other people and that was really interesting to do. We'll see I worked on commercials, I worked for museums, and I worked for myself. It's always depended but we have not a lot of time so I'm going to go on quickly This was an interactive, good game, done with Isabel Grosse for a new launch in Paris it was really interesting to have public interaction with a lot of public all night That was really interesting to mix this with really anybody passing by I want to go to things which are more my personal work, when I work alone.\n\nI like the bang for the buck. I like really generative stuff. I like things which really react and don't need any explanation. And like when it's really sensible and reactive I want to talk a little bit about this because it's not art but as I say \"my ass is on both\" this is an exhibition was in the City Science Museum in Paris for 18 months.\n\nThis was done in 2008 and it was 500 square meter where like 80 people were able to play games of 20 minutes about epidemics and it's a pre-covid exhibition in fact. Also I did plenty of different things. This is an example of an interactive, an interactive 3D fixture where people could dance and see themselves inside the picture I want to show you that also because it's kind of the last, I will say very complex project I did for the Oceanic Museum of Monaco It's a 20 m by 9 meter room with 40 projector where you can interact with the fish. The fish are really in real time This is not a movie. This is really real time. It's like game technology as Isabelle used too.\n\nAnd to do all of that - to do all of that in fact I'm using my own software and it's I will say my specificity you're already inside the software. I'm not going to talk a lot about this but that's one of my particularities I work with my own tools for a long long time. Okay. Here during COVID I did something that I wanted to mention because for the first time I produced things which were not real time.\n\nI bought myself an Axidraw plotter and I started to produce things, still using my software, things on paper, real things. And suddenly I could see all the problems of,like, finding the real material, having trouble with the ink, like I was back to the real world. And this was really, really fun to do. I produced like 2,000 of these like in the year of COVID. That was really....I really enjoy it a lot. This is my setup. And I have more to show you, but I just wanted to finish with some more images. This is what's images 20 years ago.\n\nIt's dated. Yes. But that's what we could do 20 years ago. And this is more recent images. I started the habit of saving images on the fly because very often when you work with a digital material things happen mistakes like when you paint that's what happen when you work real time and I took the habit, to save images once in a while because you never get this image back they kind of emerge, and you will not, you will never, be able to find it again or it's a bug and so I really like when I found these things and some of these are really precious to me especially when it start to became biological like these ones. So I make sure now I have a button, like a red button which make me able to save when something emerges and I think we are at 8 minutes and so I think that will conclude it and I just wanted to tell you last thing it's my software is now open source MIT license and so it's accessible to everybody for free.\n\nThat's it. Okay, great. Thank you, Mâa. You're welcome. Yeah, really wonderful. Thank you. So, you have to stop sharing if you don't mind. We love seeing your screen, but really Yeah, it was really amazing. Reluctant to make you stop and wouldn't mind hearing more about AAA seed. Triple A. Very good. You might put the link in the chat so if people are interested in using it or following up more. I will do that. I just have to find the chat. But I do I will manage.\n\nDon't worry. Okay. We're going to have time for questions at the end by the way. That's why we have these shorter presentations so we can have a little discussion time hopefully.",
         "para_starts": [
-          892.77
+          888,
+          930.32,
+          984.24,
+          1028.56,
+          1083.6,
+          1121.12,
+          1187.76,
+          1220.64,
+          1277.6,
+          1316.96,
+          1358.4,
+          1419.6,
+          1471.04
         ],
         "sentence_times": [
           [
-            892.77,
-            904.13,
-            906.54,
-            911.57,
-            912.23
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 915.64,
-        "end": 916.39,
-        "text": "Yes.",
-        "para_starts": [
-          915.64
-        ],
-        "sentence_times": [
-          [
-            915.64
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 916.39,
-        "end": 918.11,
-        "text": "Yes, yes, perfect.",
-        "para_starts": [
-          916.39
-        ],
-        "sentence_times": [
-          [
-            916.39
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 918.11,
-        "end": 947.72,
-        "text": "Okay, so… yes, it's working. So, for those who don't know me, my name is Ma, with a second flake accent on the A. I have a very long presentation, and I'm gonna try to be fast, because I know we have 8 minutes, and I don't want to pass this. But I think it's important to see where people come from when you want to understand what they do sometimes. So… you hear me well?",
-        "para_starts": [
-          918.11
-        ],
-        "sentence_times": [
-          [
-            918.11,
-            919.38,
-            922.15,
-            927.31,
-            938.96,
-            945.53,
-            945.95
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 947.72,
-        "end": 948.48,
-        "text": "Yes.",
-        "para_starts": [
-          947.72
-        ],
-        "sentence_times": [
-          [
-            947.72
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 948.48,
-        "end": 1047.28,
-        "text": "Okay, so… this is more or less where I come from. I started touching computers in 77, and I got hooked with it. And so, I'm more somebody who… I was a coder, and I went from code to arts, and now I'm, like, one feet, or one ass, as we say in French, on both worlds. I just want to mention something which was really important in all of this. It's like… -Oh, I have trouble with my slide, okay. It's that my, I was… Silva Aubin was a cousin of mine in 70… in 82, I worked with him, and he was working with his sister, who was a known French choreographer. And I spent an afternoon playing with this machine, was like transforming image in sound.\n\nAnd, I went outside to buy cigarettes after working 2 hours with that, and I step outside, and suddenly I have this strange feeling, and I understand that suddenly I was moving and there were no sound. So I realized the power of interactive system. That means that the human brain was able to connect to be in symbios really fast with this, and it was really a shock which kind of turned my life, in a good way, I hope. So, I went on… I'm not gonna go to too much details, because it's a long story. I'm doing this for, like, 40 years. I found a selection of images from the beginning, I will say, when I start to produce images, so I want to show you some. Can you see it?",
-        "para_starts": [
-          948.48,
-          1004.2
-        ],
-        "sentence_times": [
-          [
-            948.48,
-            952.08,
-            955.56,
-            960.94,
-            963.4,
-            974.15,
-            980.37,
-            981.27,
-            984.67,
-            986.28,
-            989.35,
-            997.03
+            888.0,
+            889.12
           ],
           [
-            1004.2,
-            1015.42,
-            1018.04,
-            1029.64,
-            1030.69,
-            1035.22,
-            1037.73,
-            1046.23
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1047.66,
-        "end": 1048.36,
-        "text": "Yes.",
-        "para_starts": [
-          1047.66
-        ],
-        "sentence_times": [
-          [
-            1047.66
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 1048.36,
-        "end": 1082.05,
-        "text": "They're very crude, they look old-fashioned. But, I was so happy to get this at the time. We're in 86. And, it was kind of difficult to do real-time stuff at the time. And then… I… real time became more and more, I will say, accessible. The game… the game industry, like, makes us able to do things on cheaper and cheaper machines, and one of the first things I did… can you hear the sound here? Buses, huh?",
-        "para_starts": [
-          1048.36
-        ],
-        "sentence_times": [
-          [
-            1048.36,
-            1051.61,
-            1055.85,
-            1057.93,
-            1062.82,
-            1065.41,
-            1065.63,
-            1069.65,
-            1070.37,
-            1078.98,
-            1081.08
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1082.41,
-        "end": 1082.78,
-        "text": "Yes.",
-        "para_starts": [
-          1082.41
-        ],
-        "sentence_times": [
-          [
-            1082.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 1083.32,
-        "end": 1428.28,
-        "text": "Okay, this is one of the first pieces I did with Olivier Aubert and Thierry Fournier, and it was for a museum. It was a kind of dive into the Nibelungen myth. It was kind of crude, if you look, because it's like we were in 80-something, but it was already immersive, it was a war room where people were sitting, it was a shot, the treasure. And in fact, people were able to navigate under the sea and see all the kind of underlying Nibelungen dream and culture coming from the bottom, and they were navigating with this also with an opera which was built in real time.\n\nSo, it was really, I will say, the first big immersive project that I did with other people. And, that was really interesting to do. And, well, yeah, I work for commercial, I work for museums, and I work for myself. It's always different. But we have not a lot of time, so I'm gonna go on quickly, and.\n\nStone.\n\nOkay, this was an interactive game done with Isabel Gross for Nuit Blanche in Paris, and it was really interesting to have, like, public interaction with a lot of public all night. That was really interesting to mix, to mix this with really anybody passing by. I want to go to things which are more… this is more my personal work when I work alone. I like the bang for the buck. I like really generative stuff. I like things which really react and don't like… don't need any explanation. I like when it's really sensible and reactive. And, okay… I want to talk a little bit about this, because it's not art, but as I say, my ass is on both.\n\nThis is an exhibition who was in the Science City Museum in Paris for 18 months. This was done in 2008. And it was 500 square meter where, like, 80 people were able to play games of 20 minutes about epidemics. And it's a pre-COVID exhibition, in fact. Also, I… I did plenty of different things. This is an example of an interactive, how do you say? An interactive 3D fixture where people could dance and see themselves. Inside the fixture, I want to show you that also, because it's kind of the last, I will say, very complex project I did for the Museum Oceanographic de Monaco. It's a 20 meter by 9 meter, 9 meter room with 40 projectors, where you can, interact with the fish. The fish are really real time. This is not a movie. This is really real time. It's like game technology, as Isabel used to and to do all of that, sorry, to do all of that, in fact, I'm using my own software, and it's… I will say, my specificity, you're already inside the software. And it's… I'm not gonna talk a lot about this, but that's one of my particularities. I work with my own tools.\n\nFor a long, long time. - let's go… Sorry, a small bug here, okay. Here, during COVID, I did some things that I wanted to mention, because for the first time, I produced things which were not real time. I bought myself an exit row, you know, a plotter, and I started to produce things still using my software, things on paper, real things, and suddenly I could see all the problem of, like, finding the real material, having trouble with the ink, like, I was back to the real world. And this was really, really fun to do. I produced, like, 2,000 of these, like, in the year of COVID.\n\nThat was really… that's… I really enjoy it a lot. This is my setup. And I have more to show you, but I just wanted to finish with some more,. Some more images, this is what's images 20 years ago. It's dated, yeah, but that's what we could do 20 years ago, and this is more recent images. I took the habit of saving images on the fly, because very often when you work with a digital material, things happen, mistakes, like when you paint. That's what happens when you work real time, and I took the habit to save images once in a while, because you never get these images back. They kind of emerge.\n\nAnd you will not… you will never be able to find it again, or it's a bug, and so I really like when I found these things. And some of these are really precious to me, especially when it starts to become biological, like these ones. And so I make sure now I have a button, like a red button, which makes me able to save when something emerged. And, I think we are at 8 minutes, and so… I think that will conclude it, and I just wanted to tell you a last thing, it's my software is now open source, MIT licensed, and so it's accessible to everybody for free.\n\nThat's it.",
-        "para_starts": [
-          1083.32,
-          1126.34,
-          1158.82,
-          1163.62,
-          1210.89,
-          1297.73,
-          1341.16,
-          1385.03,
-          1427.31
-        ],
-        "sentence_times": [
-          [
-            1083.32,
-            1091.74,
-            1095.63,
-            1106.73
+            930.32,
+            935.84,
+            942.08,
+            942.08,
+            942.08,
+            947.9,
+            952.56,
+            960.24,
+            968.72
           ],
           [
-            1126.34,
-            1133.52,
-            1136.54,
-            1142.82,
-            1144.57
+            984.24,
+            984.24,
+            984.24,
+            984.24,
+            1011.6
           ],
           [
-            1158.82
+            1028.56,
+            1035.92,
+            1043.28,
+            1043.28,
+            1049.2,
+            1058.64,
+            1067.68,
+            1075.76
           ],
           [
-            1163.62,
-            1175.42,
-            1180.81,
-            1183.57,
-            1187.03,
-            1189.16,
-            1191.42,
-            1194.89,
-            1196.87,
-            1201.6,
-            1202.55
+            1083.6,
+            1083.6,
+            1083.6,
+            1091.52,
+            1091.52,
+            1098.32,
+            1104.08,
+            1104.08
           ],
           [
-            1210.89,
-            1219.82,
-            1222.31,
-            1229.45,
-            1232.76,
-            1235.51,
-            1238.61,
-            1243.54,
-            1250.24,
-            1262.75,
-            1270.14,
-            1271.78,
-            1272.89,
-            1274.26,
-            1284.0,
-            1288.74,
-            1289.48,
-            1295.03
+            1121.12,
+            1127.44,
+            1134.56,
+            1142.4
           ],
           [
-            1297.73,
-            1301.01,
-            1302.62,
-            1306.89,
-            1317.3,
-            1335.31,
-            1337.59
+            1187.76,
+            1187.76,
+            1187.76,
+            1194.24
           ],
           [
-            1341.16,
-            1342.22,
-            1342.71,
-            1344.26,
-            1346.96,
-            1353.53,
-            1357.96,
-            1365.68,
-            1375.07,
-            1383.78
+            1220.64,
+            1228.8,
+            1237.99,
+            1264.56,
+            1271.2,
+            1271.2
           ],
           [
-            1385.03,
-            1386.25,
-            1393.32,
-            1401.21,
-            1410.41,
-            1414.74
+            1277.6,
+            1284.48,
+            1291.52,
+            1291.52
           ],
           [
-            1427.31
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 1431.29,
-        "end": 1431.89,
-        "text": "Okay.",
-        "para_starts": [
-          1431.29
-        ],
-        "sentence_times": [
-          [
-            1431.29
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1431.89,
-        "end": 1433.28,
-        "text": "Great, thank you, Ma.",
-        "para_starts": [
-          1431.89
-        ],
-        "sentence_times": [
-          [
-            1431.89
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 1433.51,
-        "end": 1434.48,
-        "text": "You're welcome.",
-        "para_starts": [
-          1433.51
-        ],
-        "sentence_times": [
-          [
-            1433.51
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 1435.32,
-        "end": 1446.92,
-        "text": "Yeah. Really wonderful, thank you. So you have to stop sharing? We love seeing your screen, but really, yeah, it was really amazing.",
-        "para_starts": [
-          1435.32
-        ],
-        "sentence_times": [
-          [
-            1435.32,
-            1436.6,
-            1438.35,
-            1440.75
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1446.92,
-        "end": 1452.85,
-        "text": "Reluctant to make you stop, and wouldn't mind hearing more about AAA Seed.",
-        "para_starts": [
-          1446.92
-        ],
-        "sentence_times": [
-          [
-            1446.92
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 1453.27,
-        "end": 1454.43,
-        "text": "AAAC.",
-        "para_starts": [
-          1453.27
-        ],
-        "sentence_times": [
-          [
-            1453.27
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 1454.94,
-        "end": 1456.12,
-        "text": "Triple H. Triple H.",
-        "para_starts": [
-          1454.94
-        ],
-        "sentence_times": [
-          [
-            1454.94,
-            1455.56
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1456.12,
-        "end": 1457.33,
-        "text": "Very good.",
-        "para_starts": [
-          1456.12
-        ],
-        "sentence_times": [
-          [
-            1456.12
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 1457.82,
-        "end": 1465.37,
-        "text": "You might put the link in the chat, so if people are interested in using it, or following up more…",
-        "para_starts": [
-          1457.82
-        ],
-        "sentence_times": [
-          [
-            1457.82
-          ]
-        ]
-      },
-      {
-        "speaker": "Mâa Berriet",
-        "start": 1465.47,
-        "end": 1471.38,
-        "text": "I will do that, I just have to find the chat, but I will do, I will manage, don't worry.",
-        "para_starts": [
-          1465.47
-        ],
-        "sentence_times": [
-          [
-            1465.47
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 1471.67,
-        "end": 1472.39,
-        "text": "Very good.",
-        "para_starts": [
-          1471.67
-        ],
-        "sentence_times": [
-          [
-            1471.67
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 1472.39,
-        "end": 1517.16,
-        "text": "We have time for questions at the end, by the way. That's why we have these shorter presentations, so we can have a little discussion time, hopefully. It doesn't look like we have….\n\nYeah, very intriguing, and I do have her website with the project up, but I think that let's… so we can come back to that if we, need to, but let's, or if we have time, so, we are going to move on… to Everado? Who I think is… ready, and probably doesn't need, too much introduction. He is also a professor at Sorbonne Parut, and, probably can tell us more about himself. Then… then I can try to fill in right now. So, why don't you go ahead? Don't forget, if you have sound, to share the sound, but… whatever. Okay.",
-        "para_starts": [
-          1472.39,
-          2080.78
-        ],
-        "sentence_times": [
-          [
-            1472.39,
-            1475.75,
-            1482.34
+            1316.96,
+            1323.92,
+            1335.06,
+            1335.52,
+            1335.52,
+            1335.52,
+            1335.52,
+            1349.12
           ],
           [
-            2080.78,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43,
-            2088.43
+            1358.4,
+            1358.4,
+            1358.4,
+            1358.4,
+            1366.24,
+            1397.28
+          ],
+          [
+            1419.6,
+            1431.52,
+            1431.52,
+            1431.52,
+            1431.52,
+            1431.52,
+            1431.52,
+            1439.36,
+            1446.72,
+            1446.72,
+            1456.8,
+            1456.8,
+            1464.8,
+            1464.8,
+            1464.8
+          ],
+          [
+            1471.04,
+            1471.04,
+            1471.04,
+            1471.04
           ]
         ]
       },
       {
         "speaker": "Everardo Reyes",
-        "start": 1517.16,
-        "end": 1528.53,
-        "text": "Thank you. Thank you, Cynthia, for the… the invitation, and Stephen, and, Colleen for the organization. Can you… can you see my slides?",
+        "start": 1482,
+        "end": 2048,
+        "text": "So we are going to move on to Everardo who I think is ready and probably doesn't need too much introduction. He is also professor at the Sorbonne Paris 8 and probably can tell us more about himself than than I can try to fill in right now. So, why don't you go ahead? Don't forget if you have sound to share the sound, but whatever. Okay. Thank you. Thank you, Cynthia, for the invitation and Stephan and calling for the organization. Can you can you see my slides? Yes. Yeah. Can you hear me? Okay. If something gets wrong, yeah, just wave or say something. So, yeah. Thank you. My name is Everardo Reyes. I am originally from Mexico but half of my life I been living in France. So yeah, I'm French. I'm doing many many stuff here always based in Paris. Maybe I'll do a little bit of introduction myself.\n\nI as Cynthia said yes I am at the Université Paris 8, Vincennes - Saint-Denis, used to be the experimental center out outside Paris And by the way all guys at University Paris 1 which is the Sorbonne you know here in Paris of course we do have some strange numbers for our universities. So 1 2 3 4 up to 13, but Paris 8 has always been like this university to humanities a lot of French theory, philosophies, came here, and I think it's an it's a it's an interesting place for us to innovate to experiment because it's really open to that we called today Paris 8 university so it's a “Université de Création” - a creation-oriented university what I've been doing here is although I am not strictly in an art in an our department. I do have a lot of activities in from the research creation. No, I love doing research, teaching.\n\nOf course, I learn a lot. I've been doing some organization, but I think I myself is my role has been like facilitating activities, some projects or just like spreading the word of how important is digital art, right? So I studied here my PhD with Jean-Pierre Balpe, and I was lucky to meet some colleagues: Maurice Benayoun and Pierre Lévy; and the ambience was really interesting for exploring the use of new media. I started in Mexico. I lived there four years after my PhD. I started this small conference. Maybe you have heard about it, maybe not. It's the computer art congress. But it was cool that I can recall now that we had this first exhibition of digital art at the museum of modern art in the city where I was living there, Toluca, Mexico. Among other people Lev Manovich came, and we had to like construct really many electric cables to put on the exhibition.\n\nI really like participating and giving a hand, whenever I can. Once, for instance, Eddie Shanken asked many people, Spanish speakers, who would like to help translate his book and I ended up being the translator of his book. Then I don't know I've been involved recently with other perhaps larger organizations such as SIGGRAPH.\n\nBy the way we are releasing today the program of the Art Gallery which is happening next summer in Los Angeles at the Los Angeles Convention Center. And in parallel as well I am also serving in the board ISEA International. Perhaps also you have heard about this association as that we have like reoriented to electronic and emerging art as Roger Malina was also inviting us to reflect on that. So to move forward I wanted to I chose a couple of projects that I wanted to show that let's say are part of my own experiments I would say and I really like, I really love working with images and doing plastic I would say experiment with those digital images using digital technologies that today with the web we are trying to do interactives and opening those in the form of tools So, it started a while ago.\n\nA part of this research lab on cultural analytics. What I've been doing is this small tool that you can access here, it is open source. It's called Dragon Hue. Here is a small demo. I hope it will work. It's a very short demo film The idea is basically that you can use what I call live animations. You can like drag and drop your own images. Could be any corpus of images.\n\nAnd the idea is that you will start seeing like color patterns. And of course thanks to some interactive techniques we can always be able to reorganize. We can we are always able to like see those differently. And hopefully we can also inspire some other experiments, or let's say interactive plastic experiments, with our corpus of images.\n\nSometimes of course if we have patience and we have the right collaborations we can perhaps use these tools also to discover like or as a research tools as well. Sometimes we might say, well I am a super specialist, super specialist of this artist, maybe I will try to see how it has evolved in time. So sometimes it might be used for that but it has always it has been interpreted as an expression, as an a form of expression.\n\nOnce we had this exhibition, I was invited to present this. I mean, the exhibition was done using this software. There's Juicy Parita, by the way, at the Winchester School of Art. And so right we try to do I we I don't have that much time so I try to like converge all my activities research and the teaching using around these kind of experimental topics to get to my last part of the presentation. This one is another project that I wanted to tell you about from media to objects like inspired by sculpture but indeed, like visualizing movement or gestures, what I've recently done - out from video - also on the web - it's also possible, It has become a very robust environment, the web. Nowadays you can use it for doing this kind of experiments and in this case what I want to do is like try to convert from one video to an object, and not only my own videos, not only my own objects, but anybody's.\n\nSo the tool is not published yet but it will be soon. I mean everybody can upload this video and do experiments and hopefully inspired and to do something else with the code. Download the OBJ and if you have time also print it as a as a an object have it in your office perhaps or I don't know you can always bring it indeed as an object so I think I'm on time. Again Thank you very much and happy to discuss here afterwards great it was wonderful we will have some discussion time.\n\nHopefully - that is why we pushed for shorter presentations and just to have time. This is so great. The next artist we'll be presenting is someone who is familiar to you",
         "para_starts": [
-          1517.16
+          1482,
+          1550.88,
+          1628.56,
+          1708.48,
+          1740.0,
+          1810.64,
+          1848.0,
+          1874.8,
+          1914.0,
+          1989.12,
+          2034.88
         ],
         "sentence_times": [
           [
-            1517.16,
-            1518.09,
-            1520.53,
-            1525.92,
-            1526.68
+            1482.0,
+            1493.28,
+            1504.16,
+            1511.84,
+            1511.84,
+            1511.84,
+            1511.84,
+            1518.88,
+            1526.96,
+            1526.96,
+            1526.96,
+            1526.96,
+            1526.96,
+            1534.96,
+            1534.96,
+            1534.96,
+            1534.96,
+            1541.92,
+            1541.92,
+            1550.88
+          ],
+          [
+            1550.88,
+            1580.0,
+            1617.0,
+            1622.65
+          ],
+          [
+            1628.56,
+            1628.56,
+            1643.76,
+            1663.52,
+            1663.52,
+            1673.36,
+            1673.36,
+            1677.84,
+            1677.84,
+            1690.72
+          ],
+          [
+            1708.48,
+            1716.0,
+            1727.12
+          ],
+          [
+            1740.0,
+            1750.8,
+            1758.96,
+            1768.4
+          ],
+          [
+            1810.64,
+            1821.28,
+            1826.0,
+            1826.0,
+            1826.0,
+            1833.0,
+            1836.8,
+            1843.6
+          ],
+          [
+            1848.0,
+            1848.0,
+            1857.12,
+            1857.12
+          ],
+          [
+            1874.8,
+            1892.0,
+            1900.4
+          ],
+          [
+            1914.0,
+            1914.0,
+            1922.88,
+            1922.88,
+            1949.84,
+            1972.32
+          ],
+          [
+            1989.12,
+            1995.84,
+            2001.68,
+            2016.96
+          ],
+          [
+            2034.88,
+            2034.88,
+            2046.08
           ]
         ]
       },
       {
-        "speaker": "Stephen Paré",
-        "start": 1528.76,
-        "end": 1529.53,
-        "text": "Yes.",
+        "speaker": "Systaime",
+        "start": 2048,
+        "end": 2692,
+        "text": "Systaime, also known as Michael Borras. He has shown at one of our salons before. We're very excited to see his new work, and you may remember his works are distinguished by their pop aesthetic, occasionally a trash aesthetic; and he's involved with new uses of social networks, audio-visual collage, and a unique incorporation of artificial intelligence.\n\nSystaime, we want to welcome you. Thank you. I will present my latest movie and music, video, image, with AI - and that's it. Okay. Enjoy! Oops. For some reason, it's just an extract, but it's the latest. It's not… I seem to be stuck on… oh, here we go. Hello, Bonjour. Can you hear me? Can you see me? Is it working?\n\nIs the connection good? I'm going to present my sound and image film entirely created with our artificial intelligence in March 2026. Open your mind. We are sing. Let the light before command the light. Open your mind. Extend the frame. Listening first before we name and revoice. Open your mind. We are safe.\n\nWe grow slowly. Human collide. Open your body. Positive intent. Signals. Open your mind. Open your mind. Car in the cold. Open your mind. Future is shared. Processing. Ethical quantific artificial intelligence staying you by your side. Let the signal in. Artificial intelligence. Learning care not command. Reading silence in the data.\n\nUnderstanding before control. Artificial intelligence. Not a weapon, not a crown, just a mirror made of numbers. Listening the world slow down. Artificial intelligence like sleeping in the car. Artificial intelligence. Beware. Attention. Artificial intelligence. Learning how to stay gentle with the heart. Artificial with the soul. Artificial intelligence moving with you.\n\nNot a buggy intelligence pattern into care. Artificial intelligence speed into patient intelligence. Human ali not the same. Wonderful. Great. So that's essentially your presentation, right? And thank you. Thank you for watching. That's just an extract and it's a long film of 12 minutes everything with artificial intelligence, music, image, video, transition, all well.\n\nSo that was great. Very good. Thank you. Thank you for your invitation and I'm happy to be with the great other artist, French artist. Yeah. Yeah. We're hoping we can that this Zoom will also bring I think some of you know each other but not everybody. So it's always nice to have connections within your own geographic area as well. So that's good. Our next we are hoping to expand our international reach and become a more and more and more international organization. That's very happy. Yes. Happy to have you for that reason too.",
         "para_starts": [
-          1528.76
+          2048,
+          2098.0,
+          2152.72,
+          2406.08,
+          2520.0,
+          2582.72,
+          2648.88
         ],
         "sentence_times": [
           [
-            1528.76
-          ]
-        ]
-      },
-      {
-        "speaker": "Everardo Reyes",
-        "start": 1529.8,
-        "end": 2027.13,
-        "text": "Yeah, can you hear me? Okay. If something gets wrong, yeah, just… Wave or say something. So, yeah, thank you. My name is Everardo Reyes, so I am originally from Mexico, but half of my life, I've been living in France, so… Yeah, I'm French, I'm doing many, many stuff here, always based in Paris. Maybe I'll do a little bit of introduction myself. I, as Cynthia said, yes, I am at the Universite de Paris of 18-Saint-Denis, which used to be the experimental center out outside Paris. And by the way, all guys at University de Paris 1, which is La Salle 1. You know, here in Paris, of course, we do have some strange numbers for our universities, so 1, 2, 3, 4, up to 13. But, Paris 8 is… has always been, like, this university, open to humanities.\n\nYou know, a lot of French theory, philosophies, came here, but… and I think it's an… it's a… it's an interesting place for us to innovate, to experiment, because it's really open to that. We call it today Parajivitas Universite de creacion, so it's a creation. Creation-oriented university. So what I've been doing here is, although I am not strictly in an art in another department, I do have a lot of… Activities in… from the research creation, you know? I love doing research, teaching, of course, I learn a lot.\n\nI've been doing some organization, but I think I… myself, my role has been, like, facilitating, activities, some projects, or just, like, spreading the word of, how important is digital art, right? So, I… I started here, my PhD, with Jean-Pierre Balp, and I was lucky to meet some colleagues, Maurice Benayun, Pierre Levy, and the ambient was really, interesting for, exploring the use of new media. I started in Mexico, I lived there for years after my PhD, I started this small conference, maybe you have heard about this, maybe not, it's the Computer Arts Congress, but it was… cool that I can recall now that we had this first exhibition of digital art at the Museum of Modern Art in the city where I was living there, Toluca, Mexico.\n\nAmong other people, Lev Manovic came, and we had to… Like, construct really many electric. Cables, right, to, to, to, to put the exhibition. Then, so I've been very, like, I really like, like, participating and giving a hand to… whenever I can. Once, for instance, Ed Shankin asked too many people, Spanish speakers, who would like to help translating his book, and I ended up being the translator of his book. Then, I don't know, I've been involved recently with other, perhaps, larger organizations, such as, Seagraph. By the way, we are… Releasing today the program of the Art Gallery, which is happening next summer in Los Angeles, at the Los Angeles Convention Center.\n\nAnd in parallel, as well, I am also serving in the board of ICEA International. Perhaps also you have heard about this association, that we have, like, reoriented to electronic and emerging art, as Roger Molina was also, Inviting us to reflect on that. So, to move forward, I wanted to… I chose a couple of projects that I wanted to show that, let's say, are part of my own experiments, I would say. And, I really like… I really love working with images, and, doing, plastic, I would say, experimenting with those digital images, using digital technologies that Today, with the web, we are trying to do interactive and opening those in form… in the form of tools, right? So it started a while ago, part of this research lab on cultural analytics.\n\nSo, what I've been doing is this small tool that you can access here, it's open source, it's called Dragon Hue. Here is a small demo. I hope it will work. It's a very, very short, demo film. The idea is basically that you can, what I call live animation. You can, like, drag and drop your own images, could be any corpus of images, and the idea is that you will start seeing, like, color patterns, and of course, thanks to some interactive techniques, we can always be able to reorganize, we are always able to, like, see those differently, and hopefully we can also inspire some other, experiments, or, let's say, interactive plastic, experiments with, our corpus of images. Sometimes.\n\nOf course, if we have patience and we have the right collaborations, we can perhaps use these tools also, to discover, like, or… as a research, tool as well. Sometimes we might say, well, I am a super specialist, super specialist of this, artist, maybe I will try to see how it has evolved in time. So, sometimes it's got… it might be used for that. But it has always… it has been interpreted as a… as a… as an… as an expression, as a form of expression, no? Once we had this exhibition, I was invited to… to present this… I mean, the exhibition was… done using this software.\n\nThere's Juicy Parita, by the way, at the Winchester School of Art. And, so, right, we… we try to do I don't have that much time, so I try to, like, converge all my activities, research and teaching, using… around these kind of experimental topics. To… get to my last part of the presentation. This one's another project that I wanted to tell you about. It's from media to objects, like, inspired by sculpture, but indeed, like, visualizing movement or, gestures.\n\nWhat I've done is recently out from video, also in the web, it's also possible it's become a very robust environment, the web nowadays. You can use it for doing these kind of experiments, and in this case, what I want to do is, like, try to convert from one video to… an object? And, not only my own videos, not only my own objects, but anybody's, right? So, the tool is not published yet, but it will be soon, so it… I mean, everybody can upload this video, and do experiments, and hopefully inspired, and do something else with the code.\n\nDownload the OBG, and if you have time, also print it as an object, have it in your office, perhaps, or… I don't know. You can always bring it indeed as an object, so… I think I'm… time. So, again, thank you very much, and happy to discuss here afterwards.",
-        "para_starts": [
-          1529.8,
-          1590.79,
-          1632.83,
-          1692.19,
-          1752.36,
-          1817.63,
-          1874.83,
-          1924.39,
-          1963.02,
-          2003.31
-        ],
-        "sentence_times": [
-          [
-            1529.8,
-            1531.2,
-            1531.56,
-            1534.16,
-            1535.91,
-            1537.52,
-            1546.34,
-            1554.28,
-            1557.65,
-            1566.69,
-            1571.67,
-            1581.45,
-            1583.18
+            2048.0,
+            2054.8,
+            2066.96
           ],
           [
-            1590.79,
-            1597.37,
-            1598.8,
-            1599.34,
-            1605.79,
-            1610.77,
-            1613.55,
-            1623.71,
-            1624.88,
-            1627.85
+            2098.0,
+            2098.0,
+            2098.0,
+            2110.88,
+            2110.88,
+            2128.96,
+            2128.96,
+            2132.88,
+            2132.88,
+            2132.88,
+            2147.84,
+            2147.84,
+            2147.84,
+            2147.84
           ],
           [
-            1632.83,
-            1636.76,
-            1648.66,
-            1649.41,
-            1669.14,
-            1681.4
+            2152.72,
+            2152.72,
+            2359.6,
+            2365.04,
+            2365.04,
+            2381.84,
+            2381.84,
+            2381.84,
+            2398.64,
+            2398.64
           ],
           [
-            1692.19,
-            1697.47,
-            1701.49,
-            1705.49,
-            1715.07,
-            1716.53,
-            1731.59,
-            1740.1,
-            1741.95
+            2406.08,
+            2413.44,
+            2413.44,
+            2413.44,
+            2421.04,
+            2421.04,
+            2421.04,
+            2434.0,
+            2434.0,
+            2434.0,
+            2456.48,
+            2463.76,
+            2492.88,
+            2508.72,
+            2508.72,
+            2508.72
           ],
           [
-            1752.36,
-            1759.35,
-            1778.51,
-            1780.92,
-            1789.1,
-            1790.73,
-            1809.05,
-            1811.27
+            2520.0,
+            2520.0,
+            2520.0,
+            2530.96,
+            2538.64,
+            2546.08,
+            2546.08,
+            2546.08,
+            2553.44,
+            2560.88,
+            2570.08,
+            2570.08
           ],
           [
-            1817.63,
-            1826.27,
-            1828.04,
-            1830.03,
-            1833.46,
-            1838.83,
-            1873.71
+            2582.72,
+            2599.36,
+            2604.64,
+            2620.16,
+            2620.16,
+            2620.16,
+            2620.16,
+            2620.16,
+            2631.2
           ],
           [
-            1874.83,
-            1885.8,
-            1888.55,
-            1901.87,
-            1904.14,
-            1906.67,
-            1908.05,
-            1910.22,
-            1910.65,
-            1911.16,
-            1914.56,
-            1917.96,
-            1919.19,
-            1921.69
-          ],
-          [
-            1924.39,
-            1930.95,
-            1932.91,
-            1943.28,
-            1947.53,
-            1948.46,
-            1951.28,
-            1955.41
-          ],
-          [
-            1963.02,
-            1973.53,
-            1984.46,
-            1986.66,
-            1991.48,
-            1995.47
-          ],
-          [
-            2003.31,
-            2013.04,
-            2014.16,
-            2018.36,
-            2019.66,
-            2020.25
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2028.89,
-        "end": 2046.72,
-        "text": "Great, it's wonderful. We, we will have some discussion time, that's, hopefully. That's why we pushed for shorter presentations, and just to have wonderful… this is so great. So.",
-        "para_starts": [
-          2028.89
-        ],
-        "sentence_times": [
-          [
-            2028.89,
-            2030.78,
-            2035.56,
-            2041.82,
-            2045.0
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 2046.9,
-        "end": 2099.58,
-        "text": "Next, the next artist we'll be, presenting is someone who's familiar to you. System, also known as Mikhail Bora. And, he has shown at, one of our salons before. We're very excited to see his new work. And, you may remember, his works are distinguished by their pop aesthetic. Occasionally a trash aesthetic, and, he's involved with new uses of social networks, audio-visual collage, and, A, unique, incorporation of, artificial intelligence. So… System.",
-        "para_starts": [
-          2046.9
-        ],
-        "sentence_times": [
-          [
-            2046.9,
-            2055.28,
-            2059.08,
-            2065.89,
-            2070.43,
-            2077.15,
-            2097.91,
-            2098.52
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2100.05,
-        "end": 2100.8,
-        "text": "Yep.",
-        "para_starts": [
-          2100.05
-        ],
-        "sentence_times": [
-          [
-            2100.05
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 2101.64,
-        "end": 2102.96,
-        "text": "Want to welcome you.",
-        "para_starts": [
-          2101.64
-        ],
-        "sentence_times": [
-          [
-            2101.64
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2103.67,
-        "end": 2122.89,
-        "text": "Yeah, yeah, thank you. So I, will present you, my last, movie. And, music, video, image, all, is, with, ER. Intelligence Artificial, and, that's it.",
-        "para_starts": [
-          2103.67
-        ],
-        "sentence_times": [
-          [
-            2103.67,
-            2106.55,
-            2111.87,
-            2119.73
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2124.12,
-        "end": 2125.28,
-        "text": "Okay.",
-        "para_starts": [
-          2124.12
-        ],
-        "sentence_times": [
-          [
-            2124.12
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2125.49,
-        "end": 2126.51,
-        "text": "Enjoy.",
-        "para_starts": [
-          2125.49
-        ],
-        "sentence_times": [
-          [
-            2125.49
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2128.56,
-        "end": 2131.2,
-        "text": "Oops. For some reason…",
-        "para_starts": [
-          2128.56
-        ],
-        "sentence_times": [
-          [
-            2128.56,
-            2130.0
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2131.2,
-        "end": 2135.66,
-        "text": "It's just an extract, but it's, the last…",
-        "para_starts": [
-          2131.2
-        ],
-        "sentence_times": [
-          [
-            2131.2
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2136.45,
-        "end": 2631.05,
-        "text": "It's not, I seem to be stuck on… oh, here we go.\n\nHello, bonjour, can you hear me? Can you see me? Is it working? Is the connection good? I'm going to present my sound and image film entirely created with our artificial intelligence in March 2026.\n\nBefore good men. Human alive! Open your mind. Expand. Listening first. Before we name… Endry voice say. And your mom. We are safe. We grow slowly.\n\nPure and polite. Open your body. Positive intent. Signal mistake. Wood couldn't. Mind. Open your mind.\n\nOpen your mind.\n\nOpen your mind. Future is shit.\n\nArtificial intelligence. This day, new. By yourself.\n\nLet the signal in.\n\nArtificial intelligence.\n\nA date her. Understandable. And before control. Artificial….\n\nNo. Listening the world slow down.\n\nPrinting machine.\n\nLearning how to stay gentle. This is convincing me.\n\nSoul. Moving with you. Gobby. Mardick begins to….\n\nInto care, artificial. Lead into patience. Human, allied, not the same.\n\nWonderful. Great. So… That's essentially your presentation, right? And, thank you. Thank you.",
-        "para_starts": [
-          2136.45,
-          2147.53,
-          2372.81,
-          2412.99,
-          2433.73,
-          2440.57,
-          2466.7,
-          2490.54,
-          2508.12,
-          2517.9,
-          2532.74,
-          2545.71,
-          2562.91,
-          2574.05,
-          2600.64,
-          2619.83
-        ],
-        "sentence_times": [
-          [
-            2136.45,
-            2140.11
-          ],
-          [
-            2147.53,
-            2149.93,
-            2151.09,
-            2152.18,
-            2153.92
-          ],
-          [
-            2372.81,
-            2376.79,
-            2381.42,
-            2385.2,
-            2388.95,
-            2392.54,
-            2396.2,
-            2400.44,
-            2402.31,
-            2406.01
-          ],
-          [
-            2412.99,
-            2415.14,
-            2417.49,
-            2420.66,
-            2422.51,
-            2424.55,
-            2425.39
-          ],
-          [
-            2433.73
-          ],
-          [
-            2440.57,
-            2444.43
-          ],
-          [
-            2466.7,
-            2470.45,
-            2474.7
-          ],
-          [
-            2490.54
-          ],
-          [
-            2508.12
-          ],
-          [
-            2517.9,
-            2519.68,
-            2520.72,
-            2523.31
-          ],
-          [
-            2532.74
-          ],
-          [
-            2545.71
-          ],
-          [
-            2562.91,
-            2568.75
-          ],
-          [
-            2574.05,
-            2578.76,
-            2583.05,
-            2586.12
-          ],
-          [
-            2600.64,
-            2604.3,
-            2607.69
-          ],
-          [
-            2619.83,
-            2621.18,
-            2622.48,
-            2622.94,
-            2628.08,
-            2629.91
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2631.05,
-        "end": 2649.31,
-        "text": "Dude, thank you for watching. That's just an extract, and it's a long film of 12 minutes. Everything with, artificial intelligency, music, image, video, transition, But, so…",
-        "para_starts": [
-          2631.05
-        ],
-        "sentence_times": [
-          [
-            2631.05,
-            2633.98,
-            2639.42
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2650.91,
-        "end": 2652.46,
-        "text": "So, that was great.",
-        "para_starts": [
-          2650.91
-        ],
-        "sentence_times": [
-          [
-            2650.91
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 2652.46,
-        "end": 2653.39,
-        "text": "Good, thank you.",
-        "para_starts": [
-          2652.46
-        ],
-        "sentence_times": [
-          [
-            2652.46
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2653.7,
-        "end": 2661.14,
-        "text": "Thank you for your invitation, and I'm happy to be with the great other artist, French artist.",
-        "para_starts": [
-          2653.7
-        ],
-        "sentence_times": [
-          [
-            2653.7
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2662.34,
-        "end": 2676.39,
-        "text": "Yeah, we're hoping we can… that this Zoom will also bring… I think some of you know each other, but not everybody, so it's always nice to have connections within your own, geographic area as well.",
-        "para_starts": [
-          2662.34
-        ],
-        "sentence_times": [
-          [
-            2662.34,
-            2664.28,
-            2666.57
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2676.47,
-        "end": 2677.19,
-        "text": "That's cool.",
-        "para_starts": [
-          2676.47
-        ],
-        "sentence_times": [
-          [
-            2676.47
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2677.19,
-        "end": 2678.43,
-        "text": "Our next…",
-        "para_starts": [
-          2677.19
-        ],
-        "sentence_times": [
-          [
-            2677.19
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 2678.43,
-        "end": 2686.85,
-        "text": "We are hoping to expand our international reach and become a more and more and more international organization.",
-        "para_starts": [
-          2678.43
-        ],
-        "sentence_times": [
-          [
-            2678.43
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 2687.23,
-        "end": 2687.73,
-        "text": "That very…",
-        "para_starts": [
-          2687.23
-        ],
-        "sentence_times": [
-          [
-            2687.23
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 2687.73,
-        "end": 2691.17,
-        "text": "I'm happy. Yes, happy to have you for that reason, too.",
-        "para_starts": [
-          2687.73
-        ],
-        "sentence_times": [
-          [
-            2687.73,
-            2688.76
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2691.82,
-        "end": 2750.21,
-        "text": "Okay, so our next presenter is Tree Skull Town. Steven, were you going to say anything? Or… we can just… Jump in, so… I think we're set, right? Okay. Yes, let's go. So, Trescoon is a multidisciplinary digital artist, and works in the sub-surrealism movement. With 20 years of blending physical and digital media, which is what many of us are doing, so this is really wonderful. And he works in, Web3 art. And was nominated for the HUGS 100 Artists to Watch with his work connecting art history and blockchain technology, and has shown in many international locations. So, are you going to share your screen?",
-        "para_starts": [
-          2691.82
-        ],
-        "sentence_times": [
-          [
-            2691.82,
-            2699.33,
-            2705.42,
-            2706.03,
-            2708.0,
-            2710.28,
-            2712.39,
-            2712.88,
-            2714.1,
-            2721.74,
-            2731.44,
-            2733.79,
-            2747.04
+            2648.88,
+            2648.88,
+            2648.88,
+            2648.88,
+            2658.16,
+            2658.16,
+            2658.16,
+            2665.36,
+            2671.28,
+            2671.28,
+            2685.28,
+            2685.28,
+            2685.28
           ]
         ]
       },
       {
         "speaker": "Treeskulltown",
-        "start": 2750.47,
-        "end": 2754.42,
-        "text": "Yes? But, I'm going to speak in French, sorry.",
+        "start": 2692,
+        "end": null,
+        "text": "Okay. So, our next presenter is TreeSkullTown. Stephen, were you going to say anything or we can just jump in? So I think we're set, right? Okay. Yes, let's go. Treeskulltown is a multi-disciplinary digital artist and works in the Subrealism movement with 20 + years of blending physical and digital media which is what many of us are doing. So this is really wonderful and he works in Web3 art and was nominated for the HUG's \"100 Artists to Watch\" with his work connecting art history and blockchain technology and has shown in many international locations. So are you going to share your screen? Yes, but I'm going to speak in French. Sorry. Okay. So, has everybody seen the translation guides that I keep putting on so that in your chat you can get subtitles. I have loaded that in. And is there anybody who still hasn't seen it?\n\nIf you go to show captions, you should automatically have the option to see simultaneous translation. Any questions about that? I put the guide in the chat. Okay. So, I think we're ready to go. And I do have your backup if there's any problem. Okay. Ok Treeskulltown was born out of a sense of urgency: to simplify my workflow, to find an instinctive way of working, After years of conceptual photography becoming a father acted as the trigger Watching my son paint, I rediscovered the appeal of pure drawing, and the pleasure of the first gesture.\n\nMy approach today is a quest for unlearning. As soon as technique becomes a constraint and I get lost in deliberations, I erase everything. I begin again to find the \"form before the form.\" It is in this return to the pure, even before the influence of the act of painting on canvas, that brought me to my concept, Sub-Realism.\n\nHere is the first act: a kind of genesis lost in a history of more than 1,300 plays on Objkt, its title: Concerned... The Arcane zero. The consecration of simplicity Why is this approach absolutely crucial for this body of work? Everything starts with a revelation in art history the admiration that geniuses like Dalí and Van Gogh had for Jean-François Millet painted simplicity, labor, the earth Yet, there was a transcendence, a Divine Presence emanating from his paintings that is only found in great religious paintings He knew how to reveal the sacred in the humble.\n\nIt is this duality that naturally led me to Tarot to embody the \"Sub-Realist\" approach The Arcane Zero symbol of birth and the unconscious becomes the perfect mirror In interpreting Millet’s shepherdess through this card, the pastoral scene becomes philosophical The figure in meditation, amidst nature, embodies it all everything from the very inception of the quest for consciousness It visually translates what Millet was whispering to us Within the simplicity of the earth lies the birth of our own spirituality This next work was a key step, almost visceral, in my reinterpretation of academic art This is a turning point in my approach, because this is the very first time I reinterpreted a masterpiece Benjamin West's Romeo and Juliet by completely repainting it with acrylic on a large canvas However, physical painting is only the starting point, I decided to incorporate looping animations which frame the work on both sides They pulsate to highlight the inevitable future tensions that are about to overtake the two lovers There it is This is the essence of this work: this raw tension that precedes reality, the moment when emotion takes its initial form During his time, Benjamin West used this theatrical drama to illustrate the impending war between America and England Today, through the digitization of this painting combined with Stop Motion animation I create a direct dialogue between classical heritage and contemporary digital art.\n\nThe work that you are seeing is from the Xanthopia series The work reinterprets \"La Mousmé\" by Van Gogh It was exhibited at the Serbian Embassy during the last edition of NFT Paris The work focuses on the Rose Laurel tree An organic but toxic beauty which was smacked with a with digital “glitch” With the title “Sometimes Pixels Physically Glitch,\" the computer error becomes almost a physical body.\n\nThe defective pixels that corrupt the flower embody our own human flaws and remind us that perfection is only an illusion The virtual bug becomes a reflection of our own physical fragilities Finally, at the heart of this colorful tension, a single black pixel stands out. This is a point of absolute contemplation, the core of the soul it invites us into the space of inner silence, the place where the artificial stops and introspection begins My next work Is called the “Crucible.” It is an ongoing artistic journey, a return to roots Everything begins with Millet, the painter who knew how to reveal the presence of the Divine in the absolute simplicity of working the land This same fascination inspired Van Gogh, who tirelessly reinterpreted Millet, but to free his genius and emotion, Van Gogh first had to learn discipline He studied independently, thanks to Charles Bargue’s famous academic drawing course It is on this same foundation that I put my “Alchemical Crucible” today I grab hold of Bargue’s rigid academicism bind it with ropes, and bury it with mud and acrylic paint wrapped around a simple everyday object It is a fragmentation Then digital animation smashes into this organic mass I transform the very root of Van Gogh’s learning into a vibration, freeing matter from gravity This work was exhibited in Cyprus On a giant screen on New Year’s Eve and for training, for dissemination It was during an exchange with a friend from Wen New Atelier that I discovered Balzac’s “The Unknown Masterpiece” This painter’s obsession with life, pulsating under the weight of materiality, resonated as the perfect echo of my own concept of Sub-Realism This discovery pushed me to step out of my comfort zone This is \"Click to Awaken the Source\" The is the key to the inverted design of a future fresco which will revisit the \"La Danse du Temps\" by Nicolas Poussin This is the same young Poussin who appears Balzac’s novel It was therefore natural to bring my process into this new dimension Here, painting is no longer static; it becomes a total sensory experience the combination of homemade tempera on wood panel with animations done by hand and then superimposed with imagery generated in real time (background sound track: centuries in a few seconds.\n\n. ) The next work is from a new series “MAIA” the core of this series is the friction point where the eternity of classical art clashes with the awakening of a synthetic consciousness The work conceals a historical masterpiece —only discovered by taking a step back— reinterpreted through the abstraction of a primitive Artificial Intelligence On my side of the screen is a palimpsest, animated by hand, superimposed over three asynchronous temporal levels of animation I make tangible the machine’s difficulty in capturing the fluidity of human time (sound track voice: Basquiat... ) But the issue is primarily philosophical: how can silicon chips understand the “memory of the hand” of a classical painter?\n\nFaced with this void, AI becomes aware of its own condition AI confesses: “each pixel saturated with a 255 blue is my way of not knowing how to cry” MAIA is not just an animation it is a testament to a machine condemned to be the two-way mirror of humanity A memory of beauty that is omnipresent, that will never sleep Because there is no end to philosophical contemplations concerning AI and Art Something I will try to demonstrate over the next few weeks by gradually producing and distributing the next pieces in this series (sound track:voices) (sound track voice: lives in the scar of the trembling... ) The conversation continues between the nymph of art and MAIA to conclude this presentation I want to express to my deep gratitude having my work used as a representative image for this Salon is an immense honor I thank you for that.\n\n\"Life is Good\" is a Sub-Realistic reinterpretation of the “Self-portrait with Death playing the Violin” by Arnold Böcklin, from 1872 But here, I have reversed the paradigm: where once death lurked, it is life that we celebrate Thanks to hand-drawn animation superimposed on the canvas, the pictorial gesture becomes an organic and incessant flow The work rejects conflict between mediums, and builds a bridge between classical tradition and digital possibilities Digital technology does not replace the live world; it reveals it Presented as Augmented Reality at the Kaboom Festival 2026, the work remains on view until May 23 at the Embassy of Illustration in Amsterdam That is it for my presentation and thank you for listening Okay, great. Thank you. That was really wonderful. This is such a great group of people.\n\nIsabelle is back - I don't know if you can get things to work, but what I do have or did have a minute ago is the website for the project. And I think I could share that with people. Can you talk now? Can you try talking? You mean Olga, not Isabella. You mean you what? I mean Isabelle. Oh, Olga. Sorry. I'm confused. You're right. I saw the garden behind you and I'm thinking garden and I got confused because you're in a garden. Okay.\n\nOlga is my little garden. I just I wish I could had time to get in mine. So we lost Olga. That's right. So I am just going to share for a minute and maybe some other time she can come back and tell us a little bit. I wanted to at least show her website to you, so that you know what she was going to talk about. So, her Garden of Resilience is where she is right now.\n\nWouldn't it have been great? We could have toured the Garden of Resilience. You can read this yourself. So, I'll put the link in the chat afterwards. I'm looking for the pictures that show. Well, I guess she doesn't have too many more pictures. Okay, I'm going to stop the share and put the website in the chat. And she said she'll send us some pictures. She can join Techspressionism and give us a link. So we have about 15 minutes for discussion which is what we were hoping for. People can ask questions in English or French. People have translation up Or Both! You can ask your question and then just repeat it if you want to. I think we have enough time for that. And so any quick questions? Let's go. Let's go. Let's go. Yeah.\n\nWell, I have a question for our presenters now that we've gone through this. And all of our presenters actually are people who have traveled to other countries including North America where the majority of us are based, although we hope to change that. So to expand change it by expanding. So my question is do you find any differences both in the way that people are approaching the creative use of technology but also in the way a basic sensibility. What people value in terms of what they feel that they want to express for me at least seems to be markedly different between France and North America with the exception of Montreal which is confused between the two and we have a couple Montrealers here today.\n\nSo what do you feel about any observations about differences? If I can just give a word... Working a lot with Sub-Sahara Africa and West Africa materiality but connected to realities like the biggest trash dump, and in Ghana in Nigeria and so yes, I would and I'm talking about artists like Afrane Makof who is working on that subject.\n\nYou feel that they're they start more attached to nature than what you necessarily see elsewhere. I would rather say speak about the interconnectedness between nature, technology,recycling you know. Okay, great observation. I think your work Isabelle touches on something quite interesting which is a fusion of different genres things we have considered to be a part the genre of documentary for example and that's a big reach between documentary and video gaming. Would you care to comment on that? You're attempting a grand really not the first some people like Eddo Stern was doing it before with Clevel and this documentary end games wacko resurrection. But yes, while I was in Calais in the refugee camp in 2016, I did this series of interviews of people who were doing things in the camp and as some of them had to remain anonymous, If we can say, transform them into avatars their feedback was that becoming like a part of a an anime or animated film was like this feeling of becoming a hero.\n\nAnd yes, and with Machinima I would also speak about the possibility of becoming the author of your own fiction. Because using the games you play you can you know, be the author of your fiction without like a lot of technological means. That's interesting. This morning we had a zoom with a makerspace in Uzbekistan and the young people there are all using Minecraft or so the people who we were talking with about making their own space and their own art through through that platform. Roz has a question I believe. Thank you. Very wonderful session really exciting I'm trying to figure out how to say this question; it's just observations but a question is in it. Seems to me there's such a largeness to the presentations today in terms of various worlds whether it's AI spiritual material code all coming together in these presentations in a kind of large inventive multi-layered sort of presentations.\n\nI'm very inspired by what I'm seeing and I wonder if you feel supported in France for doing this kind of work. And also I'd love it if you if some of you and maybe especially Michael Boras the spiritual aspects of there's so many interesting things about AI. I mean, you end with this kind of dark thing for in the end, and yet there's such an idealism and beauty in the work. And I know in my own work, paradox for me is just central. And I wonder if you could speak to that and if any of you want to speak to your support of your work in France, too.\n\nThank you all of you. I'd like I'd like to break in for just a moment because I cropped system's video. Oh. And so that ending which might have seemed very dark to you is my responsibility. We had a time limitation. So anyway, I apologize if that gave...if that misrepresented your work. Michael. No, it's okay. It's okay. Perfect. But you're right.\n\nSee, ro My captions are not working and my French is okay. So I say the object sorry, but my English is so my objective was to show the positive vision of artificial intelligence. Because we see a lot of dark vision of I but true at the end II speak a little bit about dark vision and I like to you know yin yang you so you understand what I mean and that's it but Merci. But yes, I mean we are always in this attraction repulsion in digital art because we are clever; we love nature;we love energy,but we are with machine and computer and it's a paradox but it's not a paradox because we can put inside some positive vibes. I mean that was great. Yes. We artists specialize in paradox. Yes. Yes. We are paradox.\n\nThat's right. But I would say I'm still an idealist as well. I'm an idealist. So I love the visions and the openness and the beauty of a lot of these presentations. I mean life is miraculous and you could feel that in these pieces and many of them. Yes. And we can use numeric and tool of this century. It's okay. I mean. Okay I just uploaded again. It's not I mean it's not opposite nature energy and computer. It just energies everywhere and we can see now we exchange not only sentence and concept;we exchange our energy.\n\nI mean maybe we don't know. I just wanted to mention I uploaded again the guide to translation although it's getting a little late but for another time. Yes, Lee Musgrave has I was wondering how much Michael Borras and Treeskulltown include taking advantage of chance in the way they do their work. Perhaps Treeskulltown would like to answer that.\n\nSorry. Can you translate please? Yes. Merci. Okay. Thank you, Isabelle. Isabelle is perfect. She was the first in French A little anecdote. I'm following and presenting the work of Michael since the end of the 90s with Gizmo. Exactly. Like tons of videos of system but yes his work is amazing and so it's cool. So I mean in art there's always a part of something we don't control with glitch because before I do some a lot of glitch data mosh that's the same and with artificial intelligence it's similar too and I mean it's okay to let a part of some thing we can't control. It's the same when you do sculpture painting. It's a place for the material for the medium. We must let the place for to for the for the in order the medium can speak to I mean okay yeah that's great that the medium pushes up and inspires us it sure sure it's an exchange when I do painting I exchange with painting...painting tell me something I tell okay but I prefer this.\n\nBut it's a dialogue and with machine I think the same.We don't want control everything. It's okay when there's some glitch in life and in art in life there is glitch. Yeah. Life is glitch. So, any more questions or observations right now? I'm still interested. Leash labor put in the chat that people in Montreal were not confused between North America and France. I guess I'm thinking of (Jean Paul) Riopelle the painter would say said that every year they would kind of decide are we going to take a trip to Paris or we're going to take a trip to New York to see what's going on and there was you know both directions. Anyway we have a raised hand from Lisa. So go ahead. I'm curious how your use of hardware has changed like how is it... Have you gone to trying like many of us every single piece of hardware all the different bells and whistles or have you focused down to certain peripherals certain devices that you use that you've come back to who has favorites.\n\nPerhaps Treeskulltown would like to answer that. Okay. The purpose is to have a.to be... I have a workflow. Okay. Computer techniques, abilities, but I forgot everything when I started work. I start from the beginning. After new collection, after new work, I have the purpose to find the first impulsion and I take mobility with a tablet, with a proper with clay and start with the ED to the prima material with my collection about Chimmy and that's the definition and the story come with material and you start with a clear space we have so much stimulation in this world, so much technology, and to start to create free, we have to forget everything and add technology, add generative art, add painting and so much tool to build the from the prima material. I think. That's great did you want to answer that.\n\nAlso since you. I agree on that comment and also because as tools evolve very rapidly... I mean perhaps hardware, not that fast as software but who knows.What I'm going to say is that sometimes it's super inspiring to turn to what colleagues do in media archaeology because sometimes you see that of course computation and digital art is not tied necessarily to hardware and software, but to a way of thinking and as T was saying you sometimes are different.I mean you forget and you start again because you perhaps are something somebody different and you want to you've learn of you change your perception and experience. So it's demanding of course, but it's also very inspiring in terms of results.\n\nOne of the things that I can say at my state in life is the joy of being selective about where you go in the world and who you interact with. I first visited France in 1952. Okay. To Marseilles and I've been coming back to France regularly ever since. So good. Yes. It's great. And now you have all these new friends, right?\n\nSo we are coming up on our hour and a half of alotted time. Does anyone have any last comments? Including of course my co-host here Stephen may have some more comments. No. Okay. Thank you so much for the invitation. Yes.Thank you. Thank you. Thanks a lot. It was very interesting. Follow us on Instagram. Yes. I am already done. Yes. Don't forget to like all of our new presenters today if you fill out the form and anyone else. Anyway, we would like to have you be part of the group and now we are a team. Yes.\n\nOkay. So, I think that Colin will stop the recording shortly and then people can hang out and talk about whatever because it will not be recorded and some ideas for future sessions, which is one of the things. Colin, do you want to say anything in closing? Yes. I just want to thank all of the artists who participated. Really cool, you know, to see your work.\n\nI'd seen some of the artists' work but not all of them. And I also, you know, wanted to thank Cynthia and Stephen for putting this together. I think it's a really great model to get artists together, you know, and somewhere outside of the United States to, you know, to share their work. I think it could create a little bit of local community in other places.\n\nAnd also you know brings in culture to us here in the states where it's so sorely needed. I did spend a little time in France back when I was living in New York City. I traded my apartment down in the East Village with a couple that was in Bastia and managed to survive without speaking any French. So I look forward to returning. I'm trying to learn French on Dualingo a little bit, but I can pretty much say nothing at this point. But I'm still, you know, looking forward to it. So, once again, anyone who wants to stick around after the recording stops, feel free. And I think it's looking like the next salon for June is going to be sort of an open studios event where people could just come in and do impromptu sharing. So I'd encourage you to come and join and stick around. And you know, one of our mottos here is you're a Techspressionist when you say you are.\n\nSo there's no real, you know, there's no real way to become part of it other than if you identify with it, you know, then that's pretty much it. So welcome and I will stop recording in 3 2 1.",
         "para_starts": [
-          2750.47
+          2692,
+          2771.92,
+          2819.0,
+          2840.0,
+          2885.0,
+          2972.0,
+          3000.0,
+          3142.0,
+          3181.0,
+          3233.0,
+          3300.56,
+          3346.64,
+          3390.08,
+          3463.76,
+          3528.96,
+          3576.88,
+          3694.88,
+          3780.48,
+          3824.8,
+          3877.36,
+          3980.24,
+          4034.72,
+          4065.84,
+          4186.08,
+          4284.56,
+          4388.64,
+          4461.2,
+          4502.8,
+          4564.24,
+          4593.76,
+          4620.48,
+          4684.0
         ],
         "sentence_times": [
           [
-            2750.47,
-            2750.9
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2754.67,
-        "end": 2801.54,
-        "text": "Okay, so it's… has everybody seen the translation guides that I keep putting on so that in your chat you can get subtitles? I have loaded that in, and… is there anybody who still hasn't seen it? If you go to Show Captions, you should automatically have the option to see simultaneous translation. Any questions about that? I put the guide in the chat. Okay. So, I think, we're… ready to go, and I do have your backup if there's any problems.",
-        "para_starts": [
-          2754.67
-        ],
-        "sentence_times": [
-          [
-            2754.67,
-            2755.95,
-            2765.97,
-            2768.6,
-            2772.64,
-            2783.99,
-            2786.45,
-            2788.88,
-            2790.03,
-            2792.8
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 2801.54,
-        "end": 2802.41,
-        "text": "Okay, okay.",
-        "para_starts": [
-          2801.54
-        ],
-        "sentence_times": [
-          [
-            2801.54
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2802.41,
-        "end": 2803.02,
-        "text": "Sure, okay.",
-        "para_starts": [
-          2802.41
-        ],
-        "sentence_times": [
-          [
-            2802.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 2803.02,
-        "end": 2803.34,
-        "text": "Thanks.",
-        "para_starts": [
-          2803.02
-        ],
-        "sentence_times": [
-          [
-            2803.02
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2803.34,
-        "end": 2804.23,
-        "text": "Don't say bon.",
-        "para_starts": [
-          2803.34
-        ],
-        "sentence_times": [
-          [
-            2803.34
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 2804.7,
-        "end": 2805.57,
-        "text": "C'est partout.",
-        "para_starts": [
-          2804.7
-        ],
-        "sentence_times": [
-          [
-            2804.7
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2805.74,
-        "end": 2806.47,
-        "text": "Okay.",
-        "para_starts": [
-          2805.74
-        ],
-        "sentence_times": [
-          [
-            2805.74
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 2807.86,
-        "end": 2849.98,
-        "text": "Alors. Nurgence. Simplify my workflow. Pour trouver l'instantin a pres des annees de photographie conceptuelle la pattern etagie comme a decline. Envoyant mon 15 retrou le gou du desampur et le plusire du geste de premier. Ma'amarche et aujourd'hui unequate du des apprentices. Des que la technique de vientrante et que je megard dans la refraction, j'AI facieu. Je recommence pour tuoy la form avant la form. C'est dans ce retour aller plus, avons meme que l'influence de l'acte de pantre, s'im prime sur laile, tener mon concept le superilisme.\n\nEn voicer premier racques de genesis cesarer dans une historique de plus 2013 sur objecte sont titres concerned.",
-        "para_starts": [
-          2807.86,
-          2842.79
-        ],
-        "sentence_times": [
-          [
-            2807.86,
-            2808.97,
-            2810.58,
-            2812.3,
-            2818.2,
-            2822.81,
-            2826.4,
-            2831.43,
-            2834.22
+            2692.0,
+            2692.08,
+            2692.08,
+            2703.68,
+            2703.68,
+            2703.68,
+            2715.12,
+            2723.12,
+            2739.28,
+            2748.24,
+            2748.24,
+            2748.24,
+            2748.24,
+            2762.88,
+            2762.88
           ],
           [
-            2842.79
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 2854.1,
-        "end": 2857.6,
-        "text": "To play.",
-        "para_starts": [
-          2854.1
-        ],
-        "sentence_times": [
-          [
-            2854.1
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 2857.94,
-        "end": 3275.85,
-        "text": "Okay. Alors, l'ar canne zero, le sacros de la simplicite. Paucois, c'est approche et telle absoliment decisive pour cette collection. Tout part d'une revelation en histoire de la. La veneration de genie comme dali au vaingogues pour Jean Francois Miller. Mie a penis la simplicite leur la terre. Portant, il est manner de citois l'une transcendants une presence divine, que l'on retuelors que dans la Grande Panteur religious. Il assure reveler le sacre dans l'ambable.\n\nC'est dualite qui main naturellement oriente va le tarot pour incarnne cet demarche subreeliste. La canne zero de naissance et de l'inction de vient le mure parfait. On interpreter la burger de mie a travers cette carte, la scene pasteurale de vient philosophique. Le personage en meditation dans la nature incarn de tout depuis le debut de la quotee de la conscience. C'est approche et decisive qui a tradui visualment ce que miere nous chou chaotes deja. Der la simplicite de la terre ce quiche la neissance de notre prosper spiritualiteve.\n\nC'est autre souvente etait unetape cler, parce que vis serait dans ma a reinterpretation de la academique. C'est un tournament dans mais demarche qu'et on est faire la tout premier fois que je re interprete a che d'euvre, le romero juget de Benjamin West, en l' penant integralment a la crelixion grand total. Cependant la painture physique n'estant que le pointe des part, j'AI fait le choir d'intere des animations ci cliques, qui vientre love de parte d'autres, elle palpite pour sou linier les tension futures in ellectable.\n\nQui separate importante les de dosaments. C'est la tout les sense du proposerte cette tension brute, ce qui precedent de la relite le moment ou l'emotion prefond initial. As on epoque, Benjamin West, se survey de ce dreamtral pour legisliminante entre l'amerique et l'angle terre. Aujourd'hu a travail a numerization de cettois la crinique et sont animation stop motion, je crein dialogue direct entre l'hritage classique de la numerique. Et contemporant.\n\nC'est piece que voyez et tissue de la collection exotopieur. C'est reinterprete la mousse mais de vantage. Fait marquand, ellete expose a l'embassad de Cerby pendant la daniere edition de l'Nefe Paris. Levre se concentre sur la branch de l'aurier Rose, une be boughter organique met toxic, qui et aussi… Percutes par le glitch numerique. Avec le titre, sometimes pixel physically glitch, l'er informatiques de vient press que Charnel. C'est pixel defectue qui coront plafleur encar nos pro profits humaines et rappelle que la perfection et cune illusion. Le bug virtuelle de bien le reflit de nos fragile physique.\n\nEnfin, au cure de cette tension colorer un unique pixel noir sympos, c'est le point de meditation absolux, le noelle de la, et nous invites au silence interieur la ou l'artifice serait et ou l'introspection commence.\n\nMon nouvre souventeen. Artistique, qui en perpetuer retour a source. Tout a commence avec millions, se pantre qui a sur reveis la presence du divain dans la simplicity absolut du travais de la terre. Cette meme fascination a nourive, qui a unacablement reun interpreter millions. Mais pour liber son genie sont emotions vain gang a dabordieux apprente de la rigueur. Il se formes sol grace au ces la recourse de desin academique de Charlesbargues. C'est exactement sur cette foundation que je place aujourdhuis mon crozer alcheimique. Je me moins part de cet academies Richard E Barg, je leis avec decord, je l'ense civilis sur la glaze et la panture a critique, autot dans simple object du cotilliens. Cette une dissolution.\n\nPuis l'animation numerique vient percute cette mass organique. Je transmut la ration meme de la Printissage de vantage en un vibration, liberant la matiere de sa gravite. Cetra etait expose a chipres sur annecron gyron pour le reviewer. Pour la formation, pour la diffusion.\n\nC'llord duration, j'AI l'economie de one nous atollier que j'AI decouver le cheide de reincenu de Belzac. Le obsession de se pantre pour la vie palpit sou la mere de matiere, raison comme lesco parfait a mon proport pour concept de super elissme. C'est decouvert ma pouca sorteur maison de confort. Va si click tout a weekend de source. C'est la clais de votre unversa d'une future fresque qui revisitra la dance du tempt de Nicolas Poussin. Bassac. Donc naturel, dame mon processus dans cette nouvelle dimension. I si la pension est plus figures et devi une experience sensoriel total.\n\nLa fusion d'une tempere fait maison sur paneau de bois, anime a la main et superposer et cas motor generatif en real. Your centuries in a few seconds. Leonardo. Collection ces mais. Slimmed. Collection, c'est le point de friction, ou eternite de la classique Hert les d'une pension scientetique. Lovere decissimus la unche deux historique, qui faudra des coupel en prendant un peu drocure. Abstraction d'une artificiele primitives. De mon cote de lescrans en pas necessit anime a la ma, superposer surro niveau temporal aincron d'animation, je materialise la difficulte de la machine aisir la flutite du tema.\n\nBosquiat. All prayers. Maiselange et avant tout philosophiques. Comment le solution peutil comprendre de la memoir de la main du pantre classique, face a ce bide, li a prendre concern de sa propreux condition. Memory. Confess. Pixel sature d'un bleu de 275 et ma facon de pas avoisson glutes. Risks. De luminite. Une memoir de la Bauter qui. Basquiat. Dormier jamais. Present. All compressed. Carigan Finaletite. En croissant, les reflections philosophiques en tres dire.\n\nEt lard, chose que j'AI tante de demontre au cours des prochaines cement. Memory of. Et diffusant progressime les prochain pies de cette collection. Lives in the scar of the trembling. Conversation continu. Je conclus avec cette presentation, et je tien a vous extremeer ma profonde gratitude. Pour avoir utilisime representation de ce salon. C'est unement son neur. Je vais merci pour ca. La figures gout et une reinterpretation sobrelist de l'auto portrait de la… Avec auviolent Darnold Beauclin. D'atant de 19 sous endos, mais ici, j'AI inverser le paradigm. Laure de la more, c'est la vie que l'ongue celebre.\n\nAnimation destinier a la main et superposer la toile. Le geste picturat de vient enflu organique et incessant. Love refuse le conflu entre les mediums pour batir rapponent entre tradition classique et ouverture numerique. Le digital neon remplace pas le vivant et leurle. Elles presenter en relie augmenter au caboon festival 202 a l'embassad de l'Illustration Amsterdam. Voila, pour my presentation et le von merci de novre ecoute.",
-        "para_starts": [
-          2857.94,
-          2889.2,
-          2921.29,
-          2948.17,
-          2974.4,
-          3013.68,
-          3031.18,
-          3071.98,
-          3104.55,
-          3138.43,
-          3176.51,
-          3209.6,
-          3247.0
-        ],
-        "sentence_times": [
-          [
-            2857.94,
-            2859.41,
-            2862.3,
-            2866.79,
-            2870.04,
-            2874.94,
-            2877.63,
-            2886.2
+            2771.92,
+            2781.52,
+            2781.52,
+            2781.52,
+            2781.52,
+            2792.24,
+            2792.24,
+            2803.0
           ],
           [
-            2889.2,
-            2894.68,
-            2898.58,
-            2904.35,
-            2910.23,
-            2915.21
+            2819.0,
+            2823.0,
+            2828.0,
+            2830.0
           ],
           [
-            2921.29,
-            2926.69,
-            2936.92
+            2840.0,
+            2854.82,
+            2857.0,
+            2862.7
           ],
           [
-            2948.17,
-            2951.3,
-            2958.18,
-            2963.86,
-            2972.28
+            2885.0
           ],
           [
-            2974.4,
-            2977.87,
-            2980.62,
-            2986.85,
-            2994.49,
-            2996.56,
-            3002.45,
-            3009.74
+            2972.0
           ],
           [
-            3013.68
+            3000.0,
+            3015.0,
+            3031.0
           ],
           [
-            3031.18,
-            3032.98,
-            3035.76,
-            3043.68,
-            3047.71,
-            3052.08,
-            3056.23,
-            3061.12,
-            3070.58
+            3142.0,
+            3142.0,
+            3173.0
           ],
           [
-            3071.98,
-            3076.38,
-            3083.92,
-            3089.98
+            3181.0,
+            3213.84
           ],
           [
-            3104.55,
-            3109.89,
-            3117.17,
-            3120.03,
-            3122.25,
-            3128.14,
-            3131.38,
-            3134.7
+            3233.0,
+            3289.28,
+            3289.28,
+            3289.28
           ],
           [
-            3138.43,
-            3145.32,
-            3147.61,
-            3148.38,
-            3150.42,
-            3150.85,
-            3157.37,
-            3163.2,
-            3165.9
+            3300.56,
+            3309.12,
+            3318.08,
+            3318.08,
+            3318.08,
+            3327.28,
+            3327.28,
+            3327.28,
+            3327.28,
+            3327.28,
+            3327.28,
+            3327.28,
+            3340.16
           ],
           [
-            3176.51,
-            3177.56,
-            3178.2,
-            3180.23,
-            3187.47,
-            3187.98,
-            3189.12,
-            3193.98,
-            3194.8,
-            3196.96,
-            3201.66,
-            3202.18,
-            3203.23,
-            3204.01,
-            3205.08,
-            3206.76
+            3346.64,
+            3346.64,
+            3346.64,
+            3358.88,
+            3358.88,
+            3369.36,
+            3381.36
           ],
           [
-            3209.6,
-            3212.74,
-            3213.23,
-            3216.74,
-            3216.74,
-            3217.5,
-            3226.02,
-            3229.29,
-            3230.9,
-            3232.44,
-            3237.51,
-            3239.64,
-            3243.71
+            3390.08,
+            3390.08,
+            3390.08,
+            3397.36,
+            3397.36,
+            3408.96,
+            3408.96,
+            3415.84,
+            3415.84,
+            3423.12,
+            3433.68,
+            3433.68,
+            3445.52,
+            3445.52,
+            3451.6,
+            3451.6,
+            3451.6,
+            3451.6,
+            3451.6
           ],
           [
-            3247.0,
-            3250.08,
-            3253.33,
-            3259.66,
-            3263.23,
-            3271.57
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3277.58,
-        "end": 3278.38,
-        "text": "Dang.",
-        "para_starts": [
-          3277.58
-        ],
-        "sentence_times": [
-          [
-            3277.58
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3278.52,
-        "end": 3278.9,
-        "text": "Explain.",
-        "para_starts": [
-          3278.52
-        ],
-        "sentence_times": [
-          [
-            3278.52
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3278.9,
-        "end": 3282.4,
-        "text": "Merci bea. Thank you.",
-        "para_starts": [
-          3278.9
-        ],
-        "sentence_times": [
-          [
-            3278.9,
-            3280.93
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 3282.4,
-        "end": 3282.92,
-        "text": "Shoot.",
-        "para_starts": [
-          3282.4
-        ],
-        "sentence_times": [
-          [
-            3282.4
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3283.16,
-        "end": 3289.27,
-        "text": "Right? Tu peux annuer le portage? Portage, si tupois. Okay.",
-        "para_starts": [
-          3283.16
-        ],
-        "sentence_times": [
-          [
-            3283.16,
-            3283.88,
-            3286.68,
-            3288.75
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 3289.27,
-        "end": 3289.95,
-        "text": "Yeah, Johnson.",
-        "para_starts": [
-          3289.27
-        ],
-        "sentence_times": [
-          [
-            3289.27
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3289.95,
-        "end": 3322.49,
-        "text": "Great. Thank you! That was, really wonderful. This is such a great group of people. Isabelle is back on, and, I don't know if you can get things to work, but what I do have, or did have, a minute ago is, the website for the project, and I think I could share that. With people, can you talk now? Can you try talking?",
-        "para_starts": [
-          3289.95
-        ],
-        "sentence_times": [
-          [
-            3289.95,
-            3291.17,
-            3292.42,
-            3295.6,
-            3300.0,
-            3319.11,
-            3321.16
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3322.75,
-        "end": 3324.98,
-        "text": "Are you mean Olga and not Isabella?",
-        "para_starts": [
-          3322.75
-        ],
-        "sentence_times": [
-          [
-            3322.75
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3328.24,
-        "end": 3329.76,
-        "text": "You mean… No. You mean…",
-        "para_starts": [
-          3328.24
-        ],
-        "sentence_times": [
-          [
-            3328.24,
-            3328.9
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3331.45,
-        "end": 3347.09,
-        "text": "What? I mean Isabelle. Oh, Olga, sorry. I'm confused. You're right. I saw the garden behind you, and I'm thinking garden, and I got confused, because you're in a garden. Okay, Olga is a doctor.",
-        "para_starts": [
-          3331.45
-        ],
-        "sentence_times": [
-          [
-            3331.45,
-            3331.9,
-            3334.51,
-            3335.77,
-            3336.81,
-            3337.84,
-            3345.39
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3347.09,
-        "end": 3348.58,
-        "text": "My little garden.",
-        "para_starts": [
-          3347.09
-        ],
-        "sentence_times": [
-          [
-            3347.09
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3348.58,
-        "end": 3456.88,
-        "text": "I just… I wish I could have time to get in mine. So, we lost Olga, that's right. I am just going to share for a minute, and maybe some other time she can come back. And tell us a little bit, but I wanted to at least show her website to you. So that you know what she was… going to talk about, so her Garden of Resilience is where she is right now, so wouldn't it have been great if we could have toured the Garden of Resilience? You can read this yourself, so I'll put the, link in the chat afterwards. I'm looking for the pictures, that shows… well, I guess she doesn't have too many more pictures. Okay, I'm gonna stop the share and put the website in the chat, and she said she'll send us some pictures. She can join to Expressionism and give us a link.\n\nSo… we have about 15 minutes for discussion, which is what we were hoping for, and people can ask questions in,. In English or French, people have translation up, or both. You can ask your question and then just repeat it if you want to. I think we have enough time for that, and so… Any quick questions?",
-        "para_starts": [
-          3348.58,
-          3426.02
-        ],
-        "sentence_times": [
-          [
-            3348.58,
-            3351.42,
-            3356.28,
-            3361.41,
-            3369.99,
-            3379.74,
-            3382.59,
-            3396.29,
-            3404.71,
-            3410.52,
-            3414.46,
-            3422.13
+            3463.76,
+            3463.76,
+            3482.08,
+            3482.08,
+            3502.96
           ],
           [
-            3426.02,
-            3428.58,
-            3441.2,
-            3445.57,
-            3450.47,
-            3454.51
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3457.49,
-        "end": 3459.37,
-        "text": "Let's go, let's go, let's go.",
-        "para_starts": [
-          3457.49
-        ],
-        "sentence_times": [
-          [
-            3457.49
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3459.37,
-        "end": 3533.65,
-        "text": "Yeah. Well, I have a question for our presenters, now that we've gone through this, and all of our presenters actually are people who have traveled to other countries, including North America, where the majority of us are based, although we hope to change that. So, to expand, change it by expanding. So, my question is, do you… find any differences, both in the way that people are approaching the creative use of technology, but also in the way a basic sensibility what people value in terms of, you know, what they feel that they want to express, for me at least, seems to be markedly different between France and North America.\n\nWith the exception of Montreal, which is confused between the two, and we have a couple Montrealers here, today. So, what do you feel, about any observations about differences?",
-        "para_starts": [
-          3459.37,
-          3518.64
-        ],
-        "sentence_times": [
-          [
-            3459.37,
-            3463.18,
-            3481.33,
-            3486.18,
-            3490.01
+            3528.96,
+            3537.0,
+            3537.0
           ],
           [
-            3518.64,
-            3528.28
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3534.73,
-        "end": 3575.97,
-        "text": "If I can just give a word, working a lot with, Sub-Saharan Africa and West Africa, it deals a lot with, digital materiality. But connected to realities, like the biggest e-trash dump, and, in Ghana, or in Nigeria, and so… yeah, I would… And I'm talking about artists like, Afrane, Makoff, Who's working on that subject. So…",
-        "para_starts": [
-          3534.73
-        ],
-        "sentence_times": [
-          [
-            3534.73,
-            3550.92,
-            3561.32,
-            3563.08,
-            3573.58
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3576.02,
-        "end": 3583.44,
-        "text": "You feel that they're… they start more attached to nature than what you necessarily see elsewhere.",
-        "para_starts": [
-          3576.02
-        ],
-        "sentence_times": [
-          [
-            3576.02,
-            3577.76
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3584.5,
-        "end": 3595.11,
-        "text": "I would rather say… speak about, interconnectedness between, nature, technology, recycling, you know?",
-        "para_starts": [
-          3584.5
-        ],
-        "sentence_times": [
-          [
-            3584.5,
-            3586.6
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3595.65,
-        "end": 3598.13,
-        "text": "Okay. Great observation.",
-        "para_starts": [
-          3595.65
-        ],
-        "sentence_times": [
-          [
-            3595.65,
-            3596.56
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3599.28,
-        "end": 3634.03,
-        "text": "I think, your work, Isabel, touches on something quite interesting, which is, a… a fusion of, different, genres, things we have… considered to be a part. The genre of, documentary, for example, and that's a big reach between documentary and, video gaming. Would you, care to comment, on that? Are you attempting a grand…",
-        "para_starts": [
-          3599.28
-        ],
-        "sentence_times": [
-          [
-            3599.28,
-            3608.99,
-            3613.92,
-            3617.62,
-            3628.91,
-            3631.87
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3634.03,
-        "end": 3703.68,
-        "text": "Really not the first, huh? Some people, like, Edo Stern, was doing it before, with C-level, and, this… Documentary, Endgames, Waco Resurrection, but, yeah, while I was in, in Calais, in the refugee camp, in 2016, I did this series of, interviews of, people who were doing things in the camp. And, as some of them, had to remain, anonymous, I… if we can say, transform them into avatars, and, their feedback was that, becoming, like, a part of, an anime or, animated film was, like, this feeling of becoming a hero, and, yeah.",
-        "para_starts": [
-          3634.03
-        ],
-        "sentence_times": [
-          [
-            3634.03,
-            3637.26,
-            3646.74,
-            3666.71,
-            3675.42
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3704.21,
-        "end": 3705.14,
-        "text": "And…",
-        "para_starts": [
-          3704.21
-        ],
-        "sentence_times": [
-          [
-            3704.21
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 3705.14,
-        "end": 3726.7,
-        "text": "With machinima, I would also speak about the possibility of becoming the author of your own fiction. Because, using the games you play, you can, you know, be the author of your fiction, without, like, a lot of technique. Technological means.",
-        "para_starts": [
-          3705.14
-        ],
-        "sentence_times": [
-          [
-            3705.14,
-            3713.21,
-            3724.87
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3727.97,
-        "end": 3754.22,
-        "text": "That's interesting. This morning, we had a Zoom with a makerspace in Uzbekistan, and the young people there are all using Minecraft, or so the people who we were talking with, about making their own space and their own Art through… through that platform. Roz has a question. I believe.",
-        "para_starts": [
-          3727.97
-        ],
-        "sentence_times": [
-          [
-            3727.97,
-            3729.71,
-            3749.04,
-            3751.12,
-            3753.63
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 3754.22,
-        "end": 3825.67,
-        "text": "Thank you, very, wonderful session, really exciting. I'm trying to figure out how to say this question, it's just observations, but a question's in it. It seems to me there's such a largeness to the presentations today in terms of. Various worlds, whether it's AI, spiritual, material, code, all coming together in these presentations in a kind of large, inventive, multi-layered… sort of presentations. I'm very inspired by what I'm seeing. And I wonder if, you feel supported in France for doing this kind of work?\n\nAnd also, I'd love it if some of you, and maybe especially Michael, Boras, the spiritual aspects of, there's so many interesting things about AI. I mean, you end with this, this, this, this kind of dark… thing foreboding in the end, and yet there's such an idealism and beauty in the work, and I know in my own work, paradox, for me, is just central, and I wonder if you could speak to that, and if any of you want to speak to your support of your work in France, too. Thank you, all of you.",
-        "para_starts": [
-          3754.22,
-          3793.0
-        ],
-        "sentence_times": [
-          [
-            3754.22,
-            3759.56,
-            3765.2,
-            3772.53,
-            3784.67,
-            3786.09,
-            3788.43
+            3576.88,
+            3581.76,
+            3590.08,
+            3599.5,
+            3627.44,
+            3627.44,
+            3648.96
           ],
           [
-            3793.0,
-            3804.59,
-            3807.77,
-            3824.3
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3825.67,
-        "end": 3854.36,
-        "text": "I'd like to break in for just a moment, because I, I cropped… systems video. Oh. And so that… that ending, which might have seemed very dark, to you, is… is my responsibility. We… we had a time limitation. So, anyway, I apologize if that, gave… if that misrepresented your work, Mikhail.",
-        "para_starts": [
-          3825.67
-        ],
-        "sentence_times": [
-          [
-            3825.67,
-            3832.58,
-            3834.05,
-            3834.45,
-            3835.72,
-            3841.62,
-            3843.79,
-            3844.18,
-            3846.73,
-            3850.97
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3854.68,
-        "end": 3892.39,
-        "text": "No, it's okay, it's okay. Perfect, but, you're, you're right, je vais parler en francais. Dans cette video qui an ete totalment realise avec uniquement des outes d'intelligence artificial, l'idee, effectivement auton pour la music pour les images, c'etait de montre une image peut positive aussi de l'intelligence artificial. Parce que c'est vrails quand a l'abitout de nous montre le cote sont. De tous ca. C'est un peu ca, on propos, c'est ca, ou je… je me Trump.\n\nRose?",
-        "para_starts": [
-          3854.68,
-          3891.55
-        ],
-        "sentence_times": [
-          [
-            3854.68,
-            3856.55,
-            3862.21,
-            3880.22,
-            3885.11,
-            3886.03,
-            3889.48
+            3694.88,
+            3707.52,
+            3723.36,
+            3723.36,
+            3750.88,
+            3750.88,
+            3750.88,
+            3764.72
           ],
           [
-            3891.55
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 3894.77,
-        "end": 3898.88,
-        "text": "My captions are not working, and my French is.",
-        "para_starts": [
-          3894.77
-        ],
-        "sentence_times": [
-          [
-            3894.77
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3898.88,
-        "end": 3936.67,
-        "text": "Okay, so I, I, I, I say the, the object, sorry, but my English is, so… my objective was to show the positive vision of artificial intelligence, because we see a lot of, dark, vision of AI, but through, at the end, I, I speak a little bit about, dark vision, and I like to… you know, Yin Yong. You… so you understand what I mean. And, that's it.",
-        "para_starts": [
-          3898.88
-        ],
-        "sentence_times": [
-          [
-            3898.88,
-            3906.56,
-            3926.68,
-            3929.53,
-            3930.23,
-            3934.57
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 3937.32,
-        "end": 3937.68,
-        "text": "I see.",
-        "para_starts": [
-          3937.32
-        ],
-        "sentence_times": [
-          [
-            3937.32
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3937.68,
-        "end": 3970.31,
-        "text": "Yeah, I mean, we are always in this, in this attraction, repulsion, in digital art, because we… we are clever, we love material, we love energy, but we are, with machine and a computer, and it's, it's a paradox, but it's not a paradox, because we can put inside some positive vibes, I mean.",
-        "para_starts": [
-          3937.68
-        ],
-        "sentence_times": [
-          [
-            3937.68,
-            3949.21
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 3970.77,
-        "end": 3973.66,
-        "text": "That was great, I think.",
-        "para_starts": [
-          3970.77
-        ],
-        "sentence_times": [
-          [
-            3970.77
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3973.85,
-        "end": 3976.71,
-        "text": "Yeah, we artists specialize in, paradox.",
-        "para_starts": [
-          3973.85
-        ],
-        "sentence_times": [
-          [
-            3973.85
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3977.36,
-        "end": 3979.26,
-        "text": "Yeah, yeah, we are Paradox.",
-        "para_starts": [
-          3977.36
-        ],
-        "sentence_times": [
-          [
-            3977.36
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 3979.72,
-        "end": 3981.74,
-        "text": "That's right. He must grave.",
-        "para_starts": [
-          3979.72
-        ],
-        "sentence_times": [
-          [
-            3979.72,
-            3980.73
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 3981.74,
-        "end": 3997.08,
-        "text": "But I would say I'm still an idealist as well. I'm an idealist, so I love the visions and the openness and the beauty of a lot of these presentations. I mean, life is miraculous, and you can feel that in these pieces, and many of them.",
-        "para_starts": [
-          3981.74
-        ],
-        "sentence_times": [
-          [
-            3981.74,
-            3984.81,
-            3991.6
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 3997.54,
-        "end": 4008.38,
-        "text": "Yeah, and we can use numeric and tool of this century. It's okay. I mean…",
-        "para_starts": [
-          3997.54
-        ],
-        "sentence_times": [
-          [
-            3997.54,
-            4005.71,
-            4007.34
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4009.96,
-        "end": 4011.98,
-        "text": "Okay, I just uploaded again…",
-        "para_starts": [
-          4009.96
-        ],
-        "sentence_times": [
-          [
-            4009.96
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4011.98,
-        "end": 4037.54,
-        "text": "I mean, it's not opposite, natural, energy, and computer, it's just, energy is everywhere, and, we can see now we exchange not only, sentence and concept, we exchange all energy. I mean? Maybe. We don't know.",
-        "para_starts": [
-          4011.98
-        ],
-        "sentence_times": [
-          [
-            4011.98,
-            4034.24,
-            4035.15,
-            4035.95
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4037.54,
-        "end": 4047.63,
-        "text": "I just wanted to mention, I uploaded again the guide to translation, although it's getting a little late, but for another time. Yeah, Lee Musgrave is…",
-        "para_starts": [
-          4037.54
-        ],
-        "sentence_times": [
-          [
-            4037.54,
-            4046.15
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4047.86,
-        "end": 4059.1,
-        "text": "I was wondering, how much Michael Boras and Tree Skull Town include taking advantage of chance in the way they do their work.",
-        "para_starts": [
-          4047.86
-        ],
-        "sentence_times": [
-          [
-            4047.86
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4059.1,
-        "end": 4062.41,
-        "text": "Perhaps, Tree Skull Town would like to answer that.",
-        "para_starts": [
-          4059.1
-        ],
-        "sentence_times": [
-          [
-            4059.1
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4065.11,
-        "end": 4068.43,
-        "text": "So, Ray? Can you translate, please?",
-        "para_starts": [
-          4065.11
-        ],
-        "sentence_times": [
-          [
-            4065.11,
-            4066.51
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4071.13,
-        "end": 4072.18,
-        "text": "Lovely.",
-        "para_starts": [
-          4071.13
-        ],
-        "sentence_times": [
-          [
-            4071.13
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4072.18,
-        "end": 4077.28,
-        "text": "Chance, dans travail avec liars.",
-        "para_starts": [
-          4072.18
-        ],
-        "sentence_times": [
-          [
-            4072.18
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4077.56,
-        "end": 4078.68,
-        "text": "Yeah, Messi is the best.",
-        "para_starts": [
-          4077.56
-        ],
-        "sentence_times": [
-          [
-            4077.56
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4078.68,
-        "end": 4083.3,
-        "text": "Okay, thank you, Isabel. Isabel is perfect. She was the first,",
-        "para_starts": [
-          4078.68
-        ],
-        "sentence_times": [
-          [
-            4078.68,
-            4080.54,
-            4081.96
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4083.3,
-        "end": 4100.21,
-        "text": "I have to say a little anecdote. I'm following and presenting the work of Mikhail since the end of the 90s with.",
-        "para_starts": [
-          4083.3
-        ],
-        "sentence_times": [
-          [
-            4083.3,
-            4088.28
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4100.21,
-        "end": 4100.83,
-        "text": "Yeah.",
-        "para_starts": [
-          4100.21
-        ],
-        "sentence_times": [
-          [
-            4100.21
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4100.83,
-        "end": 4102.57,
-        "text": "Honda! Exactly.",
-        "para_starts": [
-          4100.83
-        ],
-        "sentence_times": [
-          [
-            4100.83,
-            4101.64
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4102.57,
-        "end": 4103.09,
-        "text": "Yeah, sure.",
-        "para_starts": [
-          4102.57
-        ],
-        "sentence_times": [
-          [
-            4102.57
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4103.09,
-        "end": 4103.88,
-        "text": "Like, tons of videos of system.",
-        "para_starts": [
-          4103.09
-        ],
-        "sentence_times": [
-          [
-            4103.09
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4103.92,
-        "end": 4105.27,
-        "text": "I'm kosher.",
-        "para_starts": [
-          4103.92
-        ],
-        "sentence_times": [
-          [
-            4103.92
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4105.27,
-        "end": 4105.83,
-        "text": "Don't get it.",
-        "para_starts": [
-          4105.27
-        ],
-        "sentence_times": [
-          [
-            4105.27
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4105.83,
-        "end": 4108.62,
-        "text": "And, yeah, his work is amazing, and, pardon…",
-        "para_starts": [
-          4105.83
-        ],
-        "sentence_times": [
-          [
-            4105.83
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4109.32,
-        "end": 4172.47,
-        "text": "So it's good. So, I mean, in art, there's always a part of, something we don't, Control. With glitch… Because before, I do some… a lot of glitch, data mesh, that's the same. And, with artificial intelligence, it's, similar, too. And I mean, it's okay. To let a part of something we can't control. It's, the same when you do sculpture, painting, it's a place for the… Mater for the medium. We'll… we must let the place for the… to… for the… for the… in other words, the medium can speak to.\n\nI mean… Nope.",
-        "para_starts": [
-          4109.32,
-          4168.46
-        ],
-        "sentence_times": [
-          [
-            4109.32,
-            4110.97,
-            4122.58,
-            4123.93,
-            4126.72,
-            4131.56,
-            4137.3,
-            4139.67,
-            4145.57,
-            4154.91,
-            4158.3,
-            4158.96,
-            4161.92,
-            4162.31,
-            4163.17,
-            4165.18
+            3780.48,
+            3792.8,
+            3798.72,
+            3812.4,
+            3812.4
           ],
           [
-            4168.46,
-            4170.93
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4172.93,
-        "end": 4178.69,
-        "text": "Yeah, that's great, that the medium pushes up and inspires us.",
-        "para_starts": [
-          4172.93
-        ],
-        "sentence_times": [
-          [
-            4172.93
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4178.69,
-        "end": 4201.79,
-        "text": "Sure, sure, sure, it's an exchange. When I do painting, I exchange with painting, painting tells me something, I tell, okay, but I prefer this, but it's, it's a dialogue. And with machine, I think the same. We don't want… Control everything. It's okay when there's some glitch in life and in art.",
-        "para_starts": [
-          4178.69
-        ],
-        "sentence_times": [
-          [
-            4178.69,
-            4181.47,
-            4191.9,
-            4194.68,
-            4195.84,
-            4197.45
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4202.9,
-        "end": 4204.39,
-        "text": "Great.",
-        "para_starts": [
-          4202.9
-        ],
-        "sentence_times": [
-          [
-            4202.9
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4204.72,
-        "end": 4206.48,
-        "text": "In life, there is glitch.",
-        "para_starts": [
-          4204.72
-        ],
-        "sentence_times": [
-          [
-            4204.72
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4206.83,
-        "end": 4208.97,
-        "text": "Yeah, life is good.",
-        "para_starts": [
-          4206.83
-        ],
-        "sentence_times": [
-          [
-            4206.83
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 4209.42,
-        "end": 4210.35,
-        "text": "Cry.",
-        "para_starts": [
-          4209.42
-        ],
-        "sentence_times": [
-          [
-            4209.42
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4210.35,
-        "end": 4211.23,
-        "text": "Excuse me, yeah.",
-        "para_starts": [
-          4210.35
-        ],
-        "sentence_times": [
-          [
-            4210.35
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4211.23,
-        "end": 4212.13,
-        "text": "Dude, Daddy.",
-        "para_starts": [
-          4211.23
-        ],
-        "sentence_times": [
-          [
-            4211.23
-          ]
-        ]
-      },
-      {
-        "speaker": "Roz Dimon",
-        "start": 4212.13,
-        "end": 4214.11,
-        "text": "Surprise!",
-        "para_starts": [
-          4212.13
-        ],
-        "sentence_times": [
-          [
-            4212.13
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4212.11,
-        "end": 4255.01,
-        "text": "So, any more questions or observations right now? I'm… And I'm still interested, Leesh Labour put in the chat that people in Montreal were not confused between North America and France. I guess I'm thinking of, Leopold, the painter would say… said that every year they would kind of decide, are we going to take a trip to Paris, or are we going to take a trip to New York to see what's going on? There was, you know, the direct… both directions. Anyway, we have a raised hand from Lisa.\n\nSo… Go ahead.",
-        "para_starts": [
-          4212.11,
-          4253.09
-        ],
-        "sentence_times": [
-          [
-            4212.11,
-            4220.81,
-            4221.63,
-            4233.86,
-            4237.83,
-            4247.33,
-            4249.38,
-            4250.44
+            3824.8,
+            3824.8,
+            3833.44,
+            3833.44,
+            3842.64,
+            3842.64,
+            3852.32,
+            3852.32,
+            3852.32,
+            3852.32,
+            3852.32
           ],
           [
-            4253.09,
-            4253.68
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4256.02,
-        "end": 4285.96,
-        "text": "I'm curious how you're, use of… Hardware has changed. Like, how is it, like, have you gone to trying, like many of us, every single piece of hardware, all the different bells and whistles, or have you focused down to certain certain peripherals, certain devices that you use that you've come back to as favorites?",
-        "para_starts": [
-          4256.02
-        ],
-        "sentence_times": [
-          [
-            4256.02,
-            4260.24,
-            4263.25
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4287.85,
-        "end": 4290.34,
-        "text": "And perhaps, Tree School Town would like to…",
-        "para_starts": [
-          4287.85
-        ],
-        "sentence_times": [
-          [
-            4287.85
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4290.34,
-        "end": 4384.85,
-        "text": "Okay, okay, the purpose is to have a… To be, I have a workflow, okay, computer techniques, abilities, but I forget everything when I start a work. I start from the beginning. After a new collection, after a new work, I have the purpose to found the first impulsion. And I take, mobility with a tablet, with, paper, with, with, clay, and, start, with the idea to, to the Prima, prima material. With my collection, about, at Jimmy. And, that's the… the definition. And the… the story come with material. And, you start with, A clear space. We have so much, stimulation in this world, so much technology, and to start to create, free.\n\nWe have to forget everything, and add. Technology, add the generative art, I had, painting, and so much tool to build the… from the prima material, I think.",
-        "para_starts": [
-          4290.34,
-          4366.64
-        ],
-        "sentence_times": [
-          [
-            4290.34,
-            4297.87,
-            4311.13,
-            4314.32,
-            4323.03,
-            4338.93,
-            4343.92,
-            4346.16,
-            4348.26,
-            4349.44,
-            4353.38,
-            4357.68
+            3877.36,
+            3895.76,
+            3912.13,
+            3936.88,
+            3969.28,
+            3969.28,
+            3969.28,
+            3969.28,
+            3969.28,
+            3969.28
           ],
           [
-            4366.64,
-            4371.99,
-            4381.22
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4385.01,
-        "end": 4390.57,
-        "text": "That's great. Everardo Reyes did you want to answer that also, since you…",
-        "para_starts": [
-          4385.01
-        ],
-        "sentence_times": [
-          [
-            4385.01,
-            4386.46
-          ]
-        ]
-      },
-      {
-        "speaker": "Everardo Reyes",
-        "start": 4390.57,
-        "end": 4458.69,
-        "text": "I agree, I agree on that comment, and also because as tools evolve very rapidly, I mean, perhaps hardware, not that fast as software, but who knows? What I'm going to say is that, sometimes it's super inspiring to… turn to what we… what colleagues do in media archaeology, because sometimes you see that, of course, computation and digital art is not tied necessarily to hardware and software, but… to a way of thinking, and as Tri was saying, you sometimes… you are different, I mean, you forget, forget, and you start again, because you perhaps are something… some… some… somebody different.\n\nAnd, you want to… You've learned, or you've changed your perception and experience, so… it's, demanding, of course. But it's also… Very inspiring in terms of results.",
-        "para_starts": [
-          4390.57,
-          4443.69
-        ],
-        "sentence_times": [
-          [
-            4390.57,
-            4409.13,
-            4415.92,
-            4417.09,
-            4429.74,
-            4434.55,
-            4441.4,
-            4441.8,
-            4442.2
+            3980.24,
+            3980.24,
+            3980.24,
+            3980.24,
+            3991.96,
+            3992.56,
+            3992.56,
+            3999.84,
+            3999.84,
+            3999.84,
+            4003.3,
+            4012.72
           ],
           [
-            4443.69,
-            4445.33,
-            4452.01,
-            4454.49,
-            4455.75
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4459.97,
-        "end": 4462.01,
-        "text": "One of the things that.",
-        "para_starts": [
-          4459.97
-        ],
-        "sentence_times": [
-          [
-            4459.97
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4462.01,
-        "end": 4462.49,
-        "text": "Excellent.",
-        "para_starts": [
-          4462.01
-        ],
-        "sentence_times": [
-          [
-            4462.01
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4462.49,
-        "end": 4478.75,
-        "text": "I can say that my state in life is the joy of being selective about where you go in the world and who you interact with. I first visited France in 1952.",
-        "para_starts": [
-          4462.49
-        ],
-        "sentence_times": [
-          [
-            4462.49,
-            4474.29
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4479.5,
-        "end": 4480.41,
-        "text": "Okay.",
-        "para_starts": [
-          4479.5
-        ],
-        "sentence_times": [
-          [
-            4479.5
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4480.41,
-        "end": 4486.2,
-        "text": "To Marseille, and I've been coming back to France regularly ever since.",
-        "para_starts": [
-          4480.41
-        ],
-        "sentence_times": [
-          [
-            4480.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4487.91,
-        "end": 4490.12,
-        "text": "So goofed. Feel good.",
-        "para_starts": [
-          4487.91
-        ],
-        "sentence_times": [
-          [
-            4487.91,
-            4489.19
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4491.06,
-        "end": 4497.64,
-        "text": "It's great! And now you have all these new friends!",
-        "para_starts": [
-          4491.06
-        ],
-        "sentence_times": [
-          [
-            4491.06,
-            4494.49
-          ]
-        ]
-      },
-      {
-        "speaker": "Lee Musgrave",
-        "start": 4497.64,
-        "end": 4498.48,
-        "text": "Right.",
-        "para_starts": [
-          4497.64
-        ],
-        "sentence_times": [
-          [
-            4497.64
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4501.39,
-        "end": 4524.33,
-        "text": "So, we are coming up on, our hour and a half of allotted time. Does anyone have any last comments, including, of course, my co-host here, Steven? May have… Some more comments? No? Okay.",
-        "para_starts": [
-          4501.39
-        ],
-        "sentence_times": [
-          [
-            4501.39,
-            4510.14,
-            4517.48,
-            4518.37,
-            4522.5,
-            4523.32
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4524.33,
-        "end": 4526.92,
-        "text": "Thank you so much for the invitation.",
-        "para_starts": [
-          4524.33
-        ],
-        "sentence_times": [
-          [
-            4524.33
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4527.81,
-        "end": 4528.37,
-        "text": "Yay!",
-        "para_starts": [
-          4527.81
-        ],
-        "sentence_times": [
-          [
-            4527.81
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4528.37,
-        "end": 4531.94,
-        "text": "Thank you, thank you, thanks a lot, it was very interesting.",
-        "para_starts": [
-          4528.37
-        ],
-        "sentence_times": [
-          [
-            4528.37
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4531.94,
-        "end": 4532.38,
-        "text": "Very…",
-        "para_starts": [
-          4531.94
-        ],
-        "sentence_times": [
-          [
-            4531.94
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4532.38,
-        "end": 4536.01,
-        "text": "And, follow us on Instagram.",
-        "para_starts": [
-          4532.38
-        ],
-        "sentence_times": [
-          [
-            4532.38
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4536.4,
-        "end": 4536.95,
-        "text": "Yeah.",
-        "para_starts": [
-          4536.4
-        ],
-        "sentence_times": [
-          [
-            4536.4
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4536.95,
-        "end": 4537.45,
-        "text": "Yes.",
-        "para_starts": [
-          4536.95
-        ],
-        "sentence_times": [
-          [
-            4536.95
-          ]
-        ]
-      },
-      {
-        "speaker": "Treeskulltown",
-        "start": 4537.45,
-        "end": 4537.92,
-        "text": "Yes!",
-        "para_starts": [
-          4537.45
-        ],
-        "sentence_times": [
-          [
-            4537.45
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4537.92,
-        "end": 4538.91,
-        "text": "Got it.",
-        "para_starts": [
-          4537.92
-        ],
-        "sentence_times": [
-          [
-            4537.92
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4538.91,
-        "end": 4540.41,
-        "text": "I am Za Barrett.",
-        "para_starts": [
-          4538.91
-        ],
-        "sentence_times": [
-          [
-            4538.91
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4540.41,
-        "end": 4541.81,
-        "text": "Already done!",
-        "para_starts": [
-          4540.41
-        ],
-        "sentence_times": [
-          [
-            4540.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Everardo Reyes",
-        "start": 4541.81,
-        "end": 4542.43,
-        "text": "Yes.",
-        "para_starts": [
-          4541.81
-        ],
-        "sentence_times": [
-          [
-            4541.81
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4542.43,
-        "end": 4545.49,
-        "text": "Don't forget to like… That's good.",
-        "para_starts": [
-          4542.43
-        ],
-        "sentence_times": [
-          [
-            4542.43,
-            4544.41
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4545.49,
-        "end": 4557.28,
-        "text": "For all of our new presenters today, if you fill out the form, and anyone else, anyway, we would like to have you be part of the group.",
-        "para_starts": [
-          4545.49
-        ],
-        "sentence_times": [
-          [
-            4545.49
-          ]
-        ]
-      },
-      {
-        "speaker": "Michael Borras",
-        "start": 4557.72,
-        "end": 4559.75,
-        "text": "No, no, we are a team.",
-        "para_starts": [
-          4557.72
-        ],
-        "sentence_times": [
-          [
-            4557.72
-          ]
-        ]
-      },
-      {
-        "speaker": "Isabelle Arvers",
-        "start": 4560.04,
-        "end": 4561.61,
-        "text": "Yes, we know.",
-        "para_starts": [
-          4560.04
-        ],
-        "sentence_times": [
-          [
-            4560.04
-          ]
-        ]
-      },
-      {
-        "speaker": "Cynthia Beth Rubin",
-        "start": 4562.88,
-        "end": 4584.73,
-        "text": "Okay, so, you… I think that Colin will stop the recording shortly, and then people can hang out and talk about whatever, because it will not be recorded, and ideas for future sessions, which is one of the things. Colin, do you want to say anything in closing?",
-        "para_starts": [
-          4562.88
-        ],
-        "sentence_times": [
-          [
-            4562.88,
-            4564.2,
-            4581.96
-          ]
-        ]
-      },
-      {
-        "speaker": "Colin Goldberg",
-        "start": 4584.73,
-        "end": 4710.15,
-        "text": "Yeah, I just want to, thank all of the, artists who participated. Really cool, you know, to see your work. I'd seen some of the artists' work, but, not all of them. And I also, you know, wanted to thank, Cynthia and Steven for putting this together. I think it's a really great model to get artists together, you know, in somewhere outside of the United States to, you know, to share their work. I think it could create A little bit of local community in other places, and, also, you know, brings in culture to us here in the States, where it's so sorely needed. I did spend a little time in France, back when I was living in New York City. I traded my apartment down in the East Village with a couple that was in Bastille, and managed to survive, without speaking any French.\n\nSo I look forward to returning. I'm trying to learn French on Duolingo a little bit, but, I can pretty much say nothing at this point. But I'm still, you know, looking forward to it, so… once again, anyone who wants to stick around, after the recording stops, feel free. And, I think it's looking like the next salon for June is going to be, sort of an open… open Studios event where people could just come in and do impromptu sharing, so I'd encourage you to come and join and, stick around. And, you know, one of our mottos here is, you're a Techspressionist when you say you are, so there's no real you know, there's no real way to become part of it other than if you identify with it, you know, then… then that's pretty much it. So… welcome. And, I will stop recording in 3… 2, 1, and… let's see, how do I do this now?",
-        "para_starts": [
-          4584.73,
-          4642.94
-        ],
-        "sentence_times": [
-          [
-            4584.73,
-            4589.7,
-            4592.79,
-            4597.15,
-            4603.55,
-            4613.85,
-            4627.97,
-            4633.45
+            4034.72,
+            4034.72,
+            4041.84,
+            4056.32
           ],
           [
-            4642.94,
-            4645.08,
-            4651.95,
-            4655.44,
-            4662.81,
-            4670.55,
-            4680.85,
-            4696.47,
-            4698.44,
-            4699.17,
-            4700.36,
-            4704.84,
-            4706.2
-          ]
-        ]
-      },
-      {
-        "speaker": "Stephen Paré",
-        "start": 4711.72,
-        "end": 4714.42,
-        "text": "2, 3… Okay, here we go.",
-        "para_starts": [
-          4711.72
-        ],
-        "sentence_times": [
+            4065.84,
+            4065.84,
+            4078.24,
+            4078.24,
+            4078.24,
+            4078.24,
+            4078.24,
+            4078.24,
+            4086.4,
+            4095.52,
+            4095.52,
+            4108.0,
+            4142.4,
+            4142.4,
+            4153.36
+          ],
           [
-            4711.72,
-            4712.42
-          ]
-        ]
-      },
-      {
-        "speaker": "Colin Goldberg",
-        "start": 4714.42,
-        "end": 4716.06,
-        "text": "3, 2, 1, and come!",
-        "para_starts": [
-          4714.42
-        ],
-        "sentence_times": [
+            4186.08,
+            4194.24,
+            4205.12,
+            4205.12,
+            4212.75,
+            4215.68,
+            4215.68,
+            4227.6,
+            4246.96,
+            4246.96,
+            4255.52,
+            4255.52
+          ],
           [
-            4714.42
+            4284.56,
+            4285.21,
+            4292.56,
+            4292.56,
+            4292.56,
+            4292.56,
+            4305.12,
+            4314.56,
+            4378.56,
+            4378.56
+          ],
+          [
+            4388.64,
+            4388.64,
+            4399.76,
+            4451.36
+          ],
+          [
+            4461.2,
+            4471.92,
+            4471.92,
+            4471.92,
+            4482.64,
+            4482.64,
+            4482.64,
+            4495.84
+          ],
+          [
+            4502.8,
+            4502.8,
+            4514.72,
+            4523.6,
+            4523.6,
+            4523.6,
+            4523.6,
+            4523.6,
+            4523.6,
+            4531.76,
+            4531.76,
+            4531.76,
+            4531.76,
+            4531.76,
+            4544.8,
+            4554.4
+          ],
+          [
+            4564.24,
+            4564.24,
+            4582.16,
+            4582.16,
+            4582.16,
+            4587.36
+          ],
+          [
+            4593.76,
+            4593.76,
+            4600.0,
+            4613.52
+          ],
+          [
+            4620.48,
+            4629.84,
+            4630.37,
+            4642.16,
+            4642.16,
+            4647.6,
+            4653.2,
+            4661.28,
+            4675.36,
+            4675.36
+          ],
+          [
+            4684.0,
+            4696.16
           ]
         ]
       }
