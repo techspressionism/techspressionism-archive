@@ -15,7 +15,7 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 533
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: null
     start: 995
   - name: Cynthia Beth Rubin
@@ -81,7 +81,7 @@ In 2014, I was awarded a Krasner Foundation grant, which I used to purchase an E
 
 Once there's paint involved, I no longer consider a digital art. I call it Techspressionism. Thank you, Colin. That was excellent. Okay. And now we'll move on to Cynthia DiDonato, an artist living in North Providence, Rhode Island. Providence, one of my favorite towns. Cynthia is a retired educator, excuse me, who taught English and art in high school as well as technology in education to graduate students in college. She was initially a water media artist, earning signature status at Rhode Island Watercolor Society and the New England Watercolor Society.
 
-## Allen Hirsh [16:35](https://www.youtube.com/watch?v=9u3WpSKe3bM&t=995s)
+## Cynthia DiDonato [16:35](https://www.youtube.com/watch?v=9u3WpSKe3bM&t=995s)
 
 She began creating digital artworks in 2014. She is an interdisciplinary artist whose focus is abstract digital and analog art and moving image animations. She creates very personal artworks envisioning seen landscapes and unseen mindscapes. That's curious. She creates her artwork on an iPad and with a MacBook and she has exhibited, as you can see, internationally.
 
