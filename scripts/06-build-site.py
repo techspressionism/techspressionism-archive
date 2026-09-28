@@ -1909,6 +1909,24 @@ VSEARCH_JS = r"""<script>
   if (!pbox || !pbox.dataset.slug) return;
   var slug = pbox.dataset.slug, checks = document.querySelectorAll('.vscope input'), panel = null, data = null, loading = null, timer = null, seq = 0;
   if (!checks.length) return;
+  // Most-used search terms, for Colin (2026-09-28): same fire-and-forget logger as the main search page's,
+  // duplicated here since this is a separate script -- see its comment there for what it does and doesn't send.
+  var logTimer, lastLogged = '';
+  function logSearch(raw) {
+    if (location.hostname !== 'techspressionism.com') return;
+    clearTimeout(logTimer);
+    var term = raw.trim();
+    if (term.length < 2) return;
+    logTimer = setTimeout(function () {
+      var key = term.toLowerCase();
+      if (key === lastLogged) return;
+      lastLogged = key;
+      fetch('https://techspressionism.com/search-log/log.php', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ term: term, scope: 'video', page: location.pathname }), keepalive: true,
+      }).catch(function () {});
+    }, 1200);
+  }
   var css = document.querySelector('link[rel="stylesheet"][href*="style.css"]'), root = css ? css.href.replace(/style\.css.*$/, '') : location.pathname.replace(/[^\/]*$/, '');
   var BS = String.fromCharCode(92), LN = BS + 'p{L}' + BS + 'p{N}', SPECIAL = '.*+?^${}()|[]' + BS;
   function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
@@ -1986,14 +2004,15 @@ VSEARCH_JS = r"""<script>
       checks.forEach(function (o) { o.checked = c.checked; });
       var inp = inputOf(c);
       if (!c.checked) { seq++; if (panel) panel.hidden = true; }
-      else if (inp) { if (inp.value.trim()) run(inp.value, true); else inp.focus(); }
+      else if (inp) { if (inp.value.trim()) { run(inp.value, true); logSearch(inp.value); } else inp.focus(); }
     });
   });
   document.querySelectorAll('header.site .hsearch, .stickyheader .hsearch').forEach(function (form) {
-    form.addEventListener('submit', function (ev) { if (!scoped(form)) return; ev.preventDefault(); var inp = form.querySelector('input[type="search"]'); run(inp.value, true); if (document.activeElement) document.activeElement.blur(); });
+    form.addEventListener('submit', function (ev) { if (!scoped(form)) return; ev.preventDefault(); var inp = form.querySelector('input[type="search"]'); run(inp.value, true); logSearch(inp.value); if (document.activeElement) document.activeElement.blur(); });
     form.querySelector('input[type="search"]').addEventListener('input', function (ev) {
       if (!scoped(form)) return;
       clearTimeout(timer); var v = ev.target.value; timer = setTimeout(function () { run(v, true); }, 250);
+      logSearch(ev.target.value);
     });
   });
 })();
@@ -2607,6 +2626,26 @@ function exactQuery(text) {{
   return words.length === 1 ? '"' + words[0] + '"' : words.join(" ");
 }}
 
+// Most-used search terms, for Colin (2026-09-28): fire-and-forget, production only (never from staging or a
+// local preview), no cookie/IP/visitor identity sent -- just the term itself, once it settles for a moment.
+// Debounced here (not the 150ms UI-responsiveness one above) so a term isn't logged once per keystroke.
+let _tvaLogTimer, _tvaLastLogged = "";
+function tvaLogSearch(raw, scope) {{
+  if (location.hostname !== "techspressionism.com") return;
+  clearTimeout(_tvaLogTimer);
+  const term = raw.trim();
+  if (term.length < 2) return;
+  _tvaLogTimer = setTimeout(() => {{
+    const key = term.toLowerCase();
+    if (key === _tvaLastLogged) return;
+    _tvaLastLogged = key;
+    fetch("https://techspressionism.com/search-log/log.php", {{
+      method: "POST", headers: {{ "Content-Type": "application/json" }},
+      body: JSON.stringify({{ term, scope, page: location.pathname }}), keepalive: true,
+    }}).catch(() => {{}});
+  }}, 1200);
+}}
+
 function pillTime(seconds) {{
   seconds = Math.floor(seconds);
   const h = Math.floor(seconds / 3600), m = Math.floor(seconds % 3600 / 60), s = seconds % 60;
@@ -2671,7 +2710,7 @@ window.addEventListener('DOMContentLoaded', () => {{
   // header search boxes on transcript pages send visitors here as ?q=term
   const params = new URLSearchParams(location.search);
   const q = params.get("q");
-  if (q) ui.triggerSearch(exactQuery(q));
+  if (q) {{ ui.triggerSearch(exactQuery(q)); tvaLogSearch(q, "site"); }}
 
   // phones: the filter dropdowns (Country, Speaker, Type, Year) sit behind one "Filters" button so the results start higher
   const searchBox = document.getElementById("search");
@@ -2758,6 +2797,7 @@ window.addEventListener('DOMContentLoaded', () => {{
     clearTimeout(searchTimer);
     document.body.classList.toggle("searching", !!headerInput.value.trim());
     searchTimer = setTimeout(() => ui.triggerSearch(exactQuery(headerInput.value)), 150);
+    tvaLogSearch(headerInput.value, "site");
   }});
   if (q) {{ headerInput.value = q; document.body.classList.add("searching"); }}
 
