@@ -1921,7 +1921,7 @@ VSEARCH_JS = r"""<script>
       var key = term.toLowerCase();
       if (key === lastLogged) return;
       lastLogged = key;
-      fetch('https://techspressionism.com/search-log/log.php', {
+      fetch('https://techspressionism.com/stats/log.php', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ term: term, scope: 'video', page: location.pathname }), keepalive: true,
       }).catch(function () {});
@@ -2639,7 +2639,7 @@ function tvaLogSearch(raw, scope) {{
     const key = term.toLowerCase();
     if (key === _tvaLastLogged) return;
     _tvaLastLogged = key;
-    fetch("https://techspressionism.com/search-log/log.php", {{
+    fetch("https://techspressionism.com/stats/log.php", {{
       method: "POST", headers: {{ "Content-Type": "application/json" }},
       body: JSON.stringify({{ term, scope, page: location.pathname }}), keepalive: true,
     }}).catch(() => {{}});
