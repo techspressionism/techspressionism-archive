@@ -5074,7 +5074,7 @@
     "thumbnail": "https://i.ytimg.com/vi/xm747MwGbiA/maxresdefault.jpg",
     "moderator": "Colin Goldberg – North Bennington, VT USA",
     "speakers": [],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "speaker_index_missing"
     ],
@@ -5082,9 +5082,9 @@
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY JUNE 4, 2026'), confirmed by Colin Goldberg 2026-09-18"
     ],
     "transcript_quality": {
-      "word_count": 14190,
+      "word_count": 13576,
       "duration_seconds": 5773,
-      "words_per_minute": 147.5,
+      "words_per_minute": 141.1,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
