@@ -4050,16 +4050,16 @@
     "thumbnail": "https://i.ytimg.com/vi/RFWaEX_2QPk/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 15288,
+      "word_count": 17069,
       "duration_seconds": 7800,
-      "words_per_minute": 117.6,
+      "words_per_minute": 131.3,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4118,15 +4118,15 @@
         "start_display": "00:28:16"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "date_recorded_manually_overridden:the YouTube title ('December 5, 2024'); the description's 21 November 2024 is the exhibition's opening date"
     ],
     "transcript_quality": {
-      "word_count": 13806,
+      "word_count": 13278,
       "duration_seconds": 5531,
-      "words_per_minute": 149.8,
+      "words_per_minute": 144.0,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4175,15 +4175,15 @@
         "start_display": "01:02:39"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "recording_date_from_title"
     ],
     "transcript_quality": {
-      "word_count": 11234,
+      "word_count": 10984,
       "duration_seconds": 4991,
-      "words_per_minute": 135.1,
+      "words_per_minute": 132.0,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4316,16 +4316,16 @@
     "thumbnail": "https://i.ytimg.com/vi/PrrvyUZvD5k/maxresdefault.jpg",
     "moderator": null,
     "speakers": [],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
       "speaker_index_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12069,
+      "word_count": 12126,
       "duration_seconds": 5353,
-      "words_per_minute": 135.3,
+      "words_per_minute": 135.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4386,16 +4386,16 @@
         "start_display": "00:59:46"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
       "speaker_index_partially_unparseable"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 9620,
+      "word_count": 10324,
       "duration_seconds": 4406,
-      "words_per_minute": 131.0,
+      "words_per_minute": 140.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4420,15 +4420,15 @@
         "start_display": "00:23:29"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 13024,
+      "word_count": 12197,
       "duration_seconds": 4784,
-      "words_per_minute": 163.3,
+      "words_per_minute": 153.0,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4545,7 +4545,7 @@
         "start_display": "00:02:28"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing"
     ],
@@ -4554,9 +4554,9 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 11959,
+      "word_count": 11719,
       "duration_seconds": 5587,
-      "words_per_minute": 128.4,
+      "words_per_minute": 125.9,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4617,7 +4617,7 @@
         "start_display": "01:08:34"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "session_title_unparseable"
     ],
@@ -4625,9 +4625,9 @@
       "recording_date_backfilled_from_site"
     ],
     "transcript_quality": {
-      "word_count": 11410,
+      "word_count": 11423,
       "duration_seconds": 5070,
-      "words_per_minute": 135.0,
+      "words_per_minute": 135.2,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4769,16 +4769,16 @@
         "start_display": "00:51:26"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing",
       "speaker_index_partially_unparseable"
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12189,
+      "word_count": 11970,
       "duration_seconds": 5908,
-      "words_per_minute": 123.8,
+      "words_per_minute": 121.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4839,13 +4839,13 @@
         "start_display": "01:08:33"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11462,
+      "word_count": 11190,
       "duration_seconds": 5470,
-      "words_per_minute": 125.7,
+      "words_per_minute": 122.7,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -4939,13 +4939,13 @@
         "start_display": "01:03:37"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 11851,
+      "word_count": 11294,
       "duration_seconds": 5924,
-      "words_per_minute": 120.0,
+      "words_per_minute": 114.4,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5046,7 +5046,7 @@
         "start_display": "00:44:52"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [
       "moderator_missing"
     ],
@@ -5054,9 +5054,9 @@
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY MAY 7, 2026'), confirmed by Colin Goldberg 2026-09-18"
     ],
     "transcript_quality": {
-      "word_count": 8912,
+      "word_count": 8675,
       "duration_seconds": 4706,
-      "words_per_minute": 113.6,
+      "words_per_minute": 110.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5174,15 +5174,15 @@
         "start_display": "00:47:11"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "date_recorded_manually_overridden:thumbnail graphic ('THURSDAY AUGUST 6, 2026'), confirmed by Colin Goldberg 2026-08-16"
     ],
     "transcript_quality": {
-      "word_count": 14315,
+      "word_count": 13866,
       "duration_seconds": 5965,
-      "words_per_minute": 144.0,
+      "words_per_minute": 139.5,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -5231,15 +5231,15 @@
         "start_display": "00:58:30"
       }
     ],
-    "transcript_source": "whisper-large-v3",
+    "transcript_source": "zoom-transcript",
     "flags": [],
     "notes": [
       "date_recorded_manually_overridden:Salon 110 was held Thursday 3 September 2026 (techspressionism.com page); uploaded 4 September. To be confirmed by Colin"
     ],
     "transcript_quality": {
-      "word_count": 12184,
+      "word_count": 11967,
       "duration_seconds": 5799,
-      "words_per_minute": 126.1,
+      "words_per_minute": 123.8,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
