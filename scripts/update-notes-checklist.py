@@ -363,6 +363,7 @@ NOTE_GUIDE = [       # (title, what it is for)
     ("Archive: Interview 1 Turns", "The turns in Interview 1 with no speaker named, with times. Type who is speaking."),
     ("Archive: Broken Artist Links", "Artist links from the artist index that no longer work. Type the new address, skip or remove."),
     ("Archive: TSedit Plan", "The plan for TSedit, the private invite-only review and edit web app. Approve or change each part."),
+    ("Archive: Artist Pages", "Every artist with a page in the archive, sorted by last name, with any website/Instagram we already have. Add a URL after a name (or a correction) and it's read back in and verified before adding."),
     (CHANGELOG_TITLE, "Every push to the live site, numbered with 001 the first and the newest on top: what changed each time, and the snapshot to go back to (say: revert live to 00N)."),
 ]
 EXTRA_GUIDE = [
