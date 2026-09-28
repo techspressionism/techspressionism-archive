@@ -69,6 +69,9 @@ def e(s):
 # the recording, time and passage already filled in (Gravity Forms populates fields from the address).
 # Hidden unless data/site-config.json sets suggest_url, so nothing changes on the site until that is set.
 SITE_CONFIG = json.loads((ROOT / "data" / "site-config.json").read_text()) if (ROOT / "data" / "site-config.json").exists() else {}
+# Merged/removed artist pages: old id -> new id (or null for the artist index). See data/artist-redirects.json.
+ARTIST_REDIRECTS = {k: v for k, v in json.loads((ROOT / "data" / "artist-redirects.json").read_text()).items() if k != "_comment"} \
+    if (ROOT / "data" / "artist-redirects.json").exists() else {}
 SUGGEST_MAX = 1200  # characters of the passage carried in the address; a longer one is cut at a word boundary
 # "▶ watch" links start a few seconds BEFORE the passage: speech timing is only accurate to about a second
 # (a few seconds on recordings whose Zoom timing was converted), and a listener needs a beat of context.
@@ -192,6 +195,21 @@ def write_moved_stub(old, new):
     href = target or f"../{new}/"
     (SITE_DIR / old).mkdir(parents=True, exist_ok=True)
     (SITE_DIR / old / "index.html").write_text(
+        '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><title>This page has moved</title>'
+        f'<link rel="canonical" href="{e(href)}"><meta http-equiv="refresh" content="0; url={e(href)}">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1"></head>'
+        f'<body><p>This page has moved to <a href="{e(href)}">{e(href)}</a>.</p></body></html>\n')
+
+
+def write_artist_redirect_stub(old_id, new_id):
+    """A merged/removed artist page (data/artist-redirects.json) keeps its old address working: a page that sends the
+    visitor to the artist it was merged into, or to the artist index if there is no replacement, and names that as the
+    canonical address -- so the URL returns 200 with a redirect instead of 404ing once the real page is gone from the build."""
+    target = canonical_url(f"artist-{new_id}.html" if new_id else "artists.html")
+    href = target or (f"../{new_id}/" if new_id else "../../artists/")
+    folder = SITE_DIR / "artist" / old_id
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / "index.html").write_text(
         '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><title>This page has moved</title>'
         f'<link rel="canonical" href="{e(href)}"><meta http-equiv="refresh" content="0; url={e(href)}">'
         '<meta name="viewport" content="width=device-width, initial-scale=1"></head>'
@@ -4240,6 +4258,10 @@ def main():
     for pp in LISTED:                                   # only artists heard or named in the recordings have a page
         write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
                                                  f"artist-{pp['id']}.html", seo_for_person(pp)), 2)
+    listed_ids = {pp["id"] for pp in LISTED}
+    for old_id, new_id in ARTIST_REDIRECTS.items():
+        if old_id not in listed_ids:                    # never shadow a real page with a stale redirect entry
+            write_artist_redirect_stub(old_id, new_id)
     (SITE_DIR / "data").mkdir(exist_ok=True)      # the names the home page's search checks a query against, to put an artist's own page first
     (SITE_DIR / "data" / "artists-search.json").write_text(json.dumps([
         {"n": pp["name"], "a": pp.get("aliases") or [], "u": f"artist/{pp['id']}/", "l": pp.get("location") or "", "r": len(pp["speaks"]), "m": len(pp["mentions"]),

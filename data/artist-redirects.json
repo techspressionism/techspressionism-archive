@@ -1,0 +1,13 @@
+{
+ "_comment": "Old artist-page ids that were merged into another artist or removed outright (bad attribution, not a real artist, duplicate spelling, etc). On every rebuild, 06-build-site.py writes a static forwarding page at the OLD address (canonical link + instant meta-refresh, like write_moved_stub for recording addresses) so the URL returns 200 and search engines see a redirect instead of finding a 404. Key: the old id (a former data/people.json id). Value: the id to forward to, or null to forward to the artist index (/artists/) when there is no replacement page.",
+ "morgan-harper-nichols": null,
+ "giuliano-comperato": "void-sign",
+ "ariel-barron-robbins": "ariel-baron-robbins",
+ "stephanie-beroes": null,
+ "steohen-carpenter": "stephen-carpenter",
+ "clay-campbell": "clayton-campbell",
+ "seth-c": null,
+ "pen-and-brush": "erin-ko",
+ "cory-feco": null,
+ "andy-warhol": null
+}
