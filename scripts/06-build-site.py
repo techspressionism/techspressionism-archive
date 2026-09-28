@@ -1391,8 +1391,12 @@ SUGGEST_JS = r"""<script>
       var n = ++seq;
       Promise.all([artists, recordings]).then(function (r) {
         if (n !== seq) return;      // a later keystroke already started a newer lookup
-        var a = matches(q, r[0]).slice(0, 5), b = matches(q, r[1]).slice(0, 8 - Math.min(a.length, 5));
-        render(a.concat(b).slice(0, 8));
+        // an artist match wins outright: their own page already lists every recording they're in, so a
+        // recording titled with their name (an interview, or a salon "X and Y") is redundant here -- Colin,
+        // 2026-09-28 ("davon" showed the same person 3 times: the artist, and two recordings named after him)
+        var a = matches(q, r[0]).slice(0, 8);
+        var b = a.length ? [] : matches(q, r[1]).slice(0, 8);
+        render(a.concat(b));
       });
     });
     input.addEventListener('keydown', function (ev) {
