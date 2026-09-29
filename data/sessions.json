@@ -7016,9 +7016,9 @@
     ],
     "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 7108,
+      "word_count": 7392,
       "duration_seconds": 3114,
-      "words_per_minute": 137.0,
+      "words_per_minute": 142.4,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
@@ -7064,9 +7064,9 @@
     ],
     "transcript_source": "whisper-large-v3",
     "transcript_quality": {
-      "word_count": 9967,
+      "word_count": 10500,
       "duration_seconds": 3863,
-      "words_per_minute": 154.8,
+      "words_per_minute": 163.1,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
