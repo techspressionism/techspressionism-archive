@@ -160,14 +160,23 @@ def pick_date(item, meta, upload):
     return upload.isoformat(), "upload_date"
 
 
+PLACEHOLDER_THUMB_BYTES = 5000   # i.ytimg.com returns HTTP 200 with a tiny 120x90 gray placeholder (not a 404)
+                                  # when a size doesn't exist for a video -- urlretrieve alone can't tell, so a
+                                  # real thumbnail (tens of KB at least) is distinguished by size instead
+
+
 def download_thumbnail(video_id):
     THUMB_DIR.mkdir(parents=True, exist_ok=True)
     ASSET_THUMB_DIR.mkdir(parents=True, exist_ok=True)
     dest = THUMB_DIR / f"{video_id}.jpg"
+    if dest.exists() and dest.stat().st_size < PLACEHOLDER_THUMB_BYTES:
+        dest.unlink()      # a previous run accepted the placeholder; retry properly
     if not dest.exists():
         for name in ("maxresdefault", "hqdefault"):
             try:
                 urllib.request.urlretrieve(f"https://i.ytimg.com/vi/{video_id}/{name}.jpg", dest)
+                if dest.stat().st_size < PLACEHOLDER_THUMB_BYTES:
+                    raise ValueError("placeholder image, not a real thumbnail")
                 break
             except Exception:
                 dest.unlink(missing_ok=True)
