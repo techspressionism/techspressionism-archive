@@ -30,7 +30,7 @@ speakers:
   - name: Michael Pierre Price
     country: null
     start: 2436
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: null
     start: 2761
   - name: David Bloom
@@ -181,7 +181,7 @@ All right. So and definitely share your links if you'd like in the chat there. I
 
 Of course it wants a plug-in. Can you see anything? Yeah, I see the, I think your iPad screen.
 
-## Allen Hirsh [46:01](https://www.youtube.com/watch?v=axa3_RqLoWw&t=2761s)
+## Cynthia DiDonato [46:01](https://www.youtube.com/watch?v=axa3_RqLoWw&t=2761s)
 
 Yep. Great. Well, first of all, hello, everyone. Good evening. I'm Cynthia DiDonato, and I'm zooming in from North Providence, Rhode Island. I'm about 70. Seven minutes from the Rhode Island School of Design campus and museum, which is always a luxury. This, lately, I have been working intensely with the color red. You might say I'm riffing on red.
 

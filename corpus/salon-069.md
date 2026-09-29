@@ -24,7 +24,7 @@ speakers:
   - name: Deann Stein Hasinoff
     country: Edmonton, Canada
     start: 1364
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: North Providence, RI USA
     start: 1702
   - name: Colin Goldberg
@@ -138,7 +138,7 @@ And that's it. Thanks for letting me share. Thank you, Deanne. I always love you
 
 I'm doing great. Can you hear me? Yes. Yeah. Got you now. Awesome. I'm doing fantastic. But I was hoping Colin and Cynthia and Tommy could go before me because I've been trying to edit down what I want to show. But I can't in the next minutes. I'm sorry. OK. So you want to go last? Yes, please. All right. That's fine. Thanks. OK. Well, Cynthia, then I guess you're up next, according to my screen here.
 
-## Allen Hirsh [28:22](https://www.youtube.com/watch?v=90wRPqAgA98&t=1702s)
+## Cynthia DiDonato [28:22](https://www.youtube.com/watch?v=90wRPqAgA98&t=1702s)
 
 OK. I will unmute myself. Now share my screen. OK. I did something. OK. I don't know what happened. Well, here it is. OK. I'm not sharing that. Sorry about that. That's OK. It wants a plug-in. OK. And for some reason. Oh. I'm sorry. I'm sorry. For some reason. I'm going to stop the share and start again. OK. For some reason it was acting strange. OK. iPhone. iPad. Here we go. Share.
 

@@ -12,7 +12,7 @@ speakers:
   - name: Rebecca Tombaugh
     country: Kansas City MO USA
     start: 290
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: North Providence RI USA
     start: 3270
 transcript_source: whisper-large-v3
@@ -169,7 +169,7 @@ All right. Well, thank you, Colin. And thank you, Rebecca. And thank you for you
 
 Okay. So thank you, everyone. Thank you for
 
-## Allen Hirsh [54:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3270s)
+## Cynthia DiDonato [54:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3270s)
 
 That. And now we have our second presentation for today by Cynthia. Are you here, Cynthia? Yes, I am. Yes. All right. Are you ready to present? I'm ready to present. All right. You have the floor. Great. I want to thank Rebecca for her presentation. As Davo said, support and collaboration is what this group is about.
 

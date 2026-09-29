@@ -21,7 +21,7 @@ speakers:
   - name: Colin Goldberg
     country: null
     start: 1403
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: null
     start: 1766
   - name: Roz Dimon
@@ -122,7 +122,7 @@ Awesome. That was a very nice instructive demo of showing off layers, Colin. Tha
 
 Okay. Cynthia. Now, I know Roz wanted to go. Am I jumping the line here? Not at all. Please, go right ahead. Go right ahead. Thank you, Roz. Cynthia, you're muted. We lost your audio.
 
-## Allen Hirsh [29:26](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=1766s)
+## Cynthia DiDonato [29:26](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=1766s)
 
 Sorry about that. I'm Cynthia DiDonato, and I'm zooming in from North Providence. And I'm going to start sharing to get right to... It says ask... Oh, no. Sorry. Here we go. iPad share. I'm getting a plug-in. In order to share. And let's see. Okay. Can you see my... You can see my granddaughter. Okay. Let me first say that... Can everyone see what I have on my iPad screen?
 

@@ -24,7 +24,7 @@ speakers:
   - name: Susan Detroy
     country: Eugene OR USA
     start: 2457
-  - name: Allen Hirsh
+  - name: Cynthia DiDonato
     country: North Providence RI USA
     start: 2787
   - name: Lee Musgrave
@@ -335,7 +335,7 @@ Welcome!
 
 Alright. So next up is Cynthia di Denado.
 
-## Allen Hirsh [46:28](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2788s)
+## Cynthia DiDonato [46:28](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=2788s)
 
 Hello, everyone! I'm Cynthia from North Providence, Rhode Island in the Us. And I'm thrilled to be part of the salon, as always. Let me share.
 
@@ -353,7 +353,7 @@ And eventually. You see this. I would certainly like to invite everyone who's in
 
 Yeah. Thanks. Yeah. I just have to say that group has been so wonderful. And it's Eastern daylight time, by the way, but.
 
-## Allen Hirsh [51:34](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3094s)
+## Cynthia DiDonato [51:34](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3094s)
 
 Thank you for the correction.
 
@@ -361,7 +361,7 @@ Thank you for the correction.
 
 We all forget. Yeah, it's really, if enough people are interested. We were open to trying a different time, because some people said they couldn't do it at that hour. But it's really right now. The group is amazing. So, thanks, Cynthia, your work is amazing.
 
-## Allen Hirsh [51:55](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3115s)
+## Cynthia DiDonato [51:55](https://www.youtube.com/watch?v=VfiH4ayJbGE&t=3115s)
 
 Thank you.
 
