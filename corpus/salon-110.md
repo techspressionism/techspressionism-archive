@@ -100,7 +100,7 @@ Eight pens. Ariel, you have 2 minutes left. Yeah.
 
 It would always be my decision who got in or who didn't, and in this anonymous way, so that even, like, one person's, you know, perspective or philosophy on art wouldn't be the thing that limits who gets to participate. And, and then gradually, that role of the judge became more of a bigger role of, like, the guest, and the guest ends up, like, taking… sometimes even, you know, putting, themes onto their critiques. And they sit in on a critique once a week.
 
-Yeah, so it's, 6 weeks, twice a week, and then I'm gonna talk a little bit extra. And then since then. Oh, that's mine. Since then, we've actually gotten a Knight grant, which is a tech expression grant, which has given us a lot of new capabilities, and we also, like I said before, we are now part of a museum called the Institute of Contemporary Art. We're inside of their art and research program. And they've taken over a lot of expenses, and also raise the amount of money that we give to the guests and to the artists.
+Yeah, so it's, 6 weeks, twice a week, and then I'm gonna talk a little bit extra. And then since then. Oh, that's mine. Since then, we've actually gotten a Knight grant, which is a Techspressionism grant, which has given us a lot of new capabilities, and we also, like I said before, we are now part of a museum called the Institute of Contemporary Art. We're inside of their art and research program. And they've taken over a lot of expenses, and also raise the amount of money that we give to the guests and to the artists.
 
 To participate, and they pay that. And then after that, what has also happened is that I always envisioned to have a shared studio program. So, cha and Carolina are going to talk about that. And… and I just want to say I'm super excited. That, Techspressionism, that we're having, like, a closer relationship, because we've been having a relationship for a while. Renata was a guest for us. And cha been a part of Techspressionism for a lot. We've been talking for a long time, and so it's just awesome that we've kind of gotten the, we've gone ahead and, you know.
 
@@ -578,7 +578,7 @@ But we can, like, we can use it. You can go meet a friend there, you can bring y
 
 Very cool. And, before we… throw everything open to your questions that you have written down, like I do. There was… A starter question that I was asked to pose to everybody, which is, can you think of ways that Techspressionism and loop can get more connected to one another? So with that, as a question, I'd like to throw it open to anybody who has questions for any of the Artist presenters today, and…. You're welcome to use the… there's the react button on the bottom, you can click that, and then hit the raise hand, and I'm happy to call on you, or you can just unmute yourself. One of my… oh, Cynthia, go ahead, before I start on my list.
 
-## Allen Hirsh [01:12:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4369s)
+## Cynthia DiDonato [01:12:49](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4369s)
 
 First of all, I'd like to say this is very… interesting and fascinating, and I thank all those who have presented. But I would like to ask SAHAR a question. She mentioned that the GL… the very sculptural, lovely GLB that is within her verse has a story behind it. Could you tell us that story?
 
@@ -594,7 +594,7 @@ The gates are closed to people, so the Reiki healers can meditate and do their s
 
 Originally was placed in Sloan of SALON, and then removed to… part of it is, of it is now in India by, Persian, Zoroastrians, and part… one part is still burning in Yass City. So, they never let the fire to get off. So, that's the story of Thorn of SALON.
 
-## Allen Hirsh [01:17:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4641s)
+## Cynthia DiDonato [01:17:21](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4641s)
 
 Thank you for sharing that.
 
@@ -660,7 +660,7 @@ Very, very, very different, you know? From somebody that's in the east coast of 
 
 Very cool. Very cool. Cynthia, did you have another question, or just…
 
-## Allen Hirsh [01:22:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4951s)
+## Cynthia DiDonato [01:22:31](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4951s)
 
 I do, but I think Roz had her hand up earlier. And I'd like her to go… let her go first.
 
@@ -738,7 +738,7 @@ Cynthia had a question, Tommy. Cynthia DiDonato.
 
 Thanks, Bob. Cynthia, did we skip your last question? I'm so sorry.
 
-## Allen Hirsh [01:30:54](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5454s)
+## Cynthia DiDonato [01:30:54](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5454s)
 
 That's okay. I was just gonna ask how the Loop participants have felt have been affected by their participation, and what this effect produced in their work outside of Loop.
 

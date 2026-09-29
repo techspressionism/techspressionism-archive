@@ -125,7 +125,7 @@ Oh, okay, so let me let me go past all of these. And I'm gonna show you one more
 
 And here is another video made from the same photograph.
 
-These generally am making them at 6 to 700 frames. To make this takes quite a few hours in the computer to generate them. And I guess that's you know. I guess just I should say I'm I hope my presentation appreciate helps. You appreciate the power of mathematics as a fine art tool, and I want to found. Thank the texpressions leadership for the opportunity. And you can find me as the abstract gardener on the web.
+These generally am making them at 6 to 700 frames. To make this takes quite a few hours in the computer to generate them. And I guess that's you know. I guess just I should say I'm I hope my presentation appreciate helps. You appreciate the power of mathematics as a fine art tool, and I want to found. Thank the Techspressionism leadership for the opportunity. And you can find me as the abstract gardener on the web.
 
 ## Colin Goldberg [29:09](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=1749s)
 
@@ -385,9 +385,9 @@ Exclusive.
 
 ## Colin Goldberg [01:13:39](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4419s)
 
-So let's see, we have Cynthia Didonato up next.
+So let's see, we have Cynthia DiDonato up next.
 
-## Allen Hirsh [01:13:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4424s)
+## Cynthia DiDonato [01:13:44](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4424s)
 
 I just wanted to say thank you to all the presenters today for sharing such fascinating use of coding as a medium. And I have a question for Elio. I went to the open processing Techspressionism subset, and looked at all the lovely pieces that are there, and I noticed that it says, Submit your sketch. So I'm assuming that any of us, because this is open processing could submit a digital file there. Or am I wrong.
 
@@ -395,7 +395,7 @@ I just wanted to say thank you to all the presenters today for sharing such fasc
 
 Yeah, the thing is that in open processing you can create a correction. And you can tell other people to submit their code, basically so they can submit. If you are in open processing. If you, if you have an account in open processing, you can add your call to that creation. So basically, it's inside open processing.
 
-## Allen Hirsh [01:14:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4492s)
+## Cynthia DiDonato [01:14:52](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4492s)
 
 Okay. So the submit. Your sketch is to submit code.
 
@@ -403,7 +403,7 @@ Okay. So the submit. Your sketch is to submit code.
 
 Yes. Yeah.
 
-## Allen Hirsh [01:14:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4498s)
+## Cynthia DiDonato [01:14:58](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4498s)
 
 That's what I needed to understand.
 
@@ -411,7 +411,7 @@ That's what I needed to understand.
 
 Yeah, okay.
 
-## Allen Hirsh [01:15:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4502s)
+## Cynthia DiDonato [01:15:02](https://www.youtube.com/watch?v=w6dn7xxG6ds&t=4502s)
 
 Thank you.
 

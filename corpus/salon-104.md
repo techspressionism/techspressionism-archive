@@ -387,7 +387,7 @@ I lost the sight of my right eye. For… temporarily, but I lost it, which elimi
 
 But now I have all of this digital… all these digital tools, and all of this digital repu- reputation. But I still have the idea, and it was such a breath of fresh air to hear that… you can paint, you can make a drawing, submit it to a… to a printer, it comes back digitally, printed, now you paint, take the photograph of the paint, send it back to the printer. And I did a couple of these, but I know that's where I'm gonna end up. And it's just… it's… it's really exciting to see how you look out, and you can see where two paths that are supposed to be parallel are going to converge.
 
-And I think that's one of the things about… that I'm so happy about with tech… tech expression. Is that the doors are open. It's not… it's not borders, it's fields to… to explore. And, I guess I can shut up now, but I've got so much to say, and… and, I will save… I will save reminiscences for later when I can contact people directly.
+And I think that's one of the things about… that I'm so happy about with tech… Techspressionism. Is that the doors are open. It's not… it's not borders, it's fields to… to explore. And, I guess I can shut up now, but I've got so much to say, and… and, I will save… I will save reminiscences for later when I can contact people directly.
 
 ## Catherine Mason [56:06](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3366s)
 
@@ -573,7 +573,7 @@ Artists have been trying to raise themselves up to the same level as scientists.
 
 ## Renata Janiszewska [01:15:49](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4549s)
 
-Thank you. I think Cynthia Beth Rubin, please.
+Thank you. I think Cynthia, Beth Rubin, please.
 
 ## Cynthia Beth Rubin [01:15:52](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=4552s)
 

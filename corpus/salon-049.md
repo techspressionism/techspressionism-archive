@@ -265,7 +265,7 @@ You know, different. It's just it's just weird. You know, it's weird. But everyo
 
 Hello, everyone, and thank you for giving me an opportunity to talk.
 
-## Allen Hirsh [44:24](https://www.youtube.com/watch?v=iVP63DGbCGY&t=2664s)
+## Cynthia DiDonato [44:24](https://www.youtube.com/watch?v=iVP63DGbCGY&t=2664s)
 
 I too enjoyed hearing what everyone had to say, and I think some excellent points have been made. Colin, earlier you mentioned that the Southampton Arts Center was very interested in, as are other art institutions, programming. And so I think that's a great link for us to connect. For example, many of us are involved with art institutions and sometimes they'll have a calls for digital art or even, you know, manipulated photography.
 
@@ -285,13 +285,13 @@ And, you know, I set up an account for Techspressionism, posted a few things, bu
 
 And some of those some percentage of those people followed me. You know what I mean? And that's a really easy way to spread the meme and also sort of, you know, look at some cool art, be a sort of social curator of sorts and define Techspressionism for the rest of the world. Hey this is Techspressionism right here and anybody can do that just by commenting with the hashtag you know that's a real easy peasy way to be involved on an individual level without having to really do any hard heavy lifting you know so you're just putting that out there how
 
-## Allen Hirsh [51:46](https://www.youtube.com/watch?v=iVP63DGbCGY&t=3106s)
+## Cynthia DiDonato [51:46](https://www.youtube.com/watch?v=iVP63DGbCGY&t=3106s)
 
 About even putting out the website address on twitter you know when you post the text
 
 ## Colin Goldberg [51:54](https://www.youtube.com/watch?v=iVP63DGbCGY&t=3114s)
 
-Yeah, you know, or, you know, the account, because of the character limit is at text expressions. Unfortunately, I think we're like one character over the whatever Twitter's limit is which is really annoying, and I was thinking of like truncating it in some weird way or whatever else but I wanted it to be something that people could sort of pronounce. Accounts. But yeah, you know, like, definitely. But what I find is honestly, and this is also from the standpoint of working as sort of like an internet marketing professional is people don't like to leave the platform they're on, you know, if you can, if you can keep them on the platform they're on, and still sort of, you know, get your message across, then that's going to be more effective than than than bouncing them out, you know, because really, really like people are there because they want to be there.
+Yeah, you know, or, you know, the account, because of the character limit is at Techspressionism. Unfortunately, I think we're like one character over the whatever Twitter's limit is which is really annoying, and I was thinking of like truncating it in some weird way or whatever else but I wanted it to be something that people could sort of pronounce. Accounts. But yeah, you know, like, definitely. But what I find is honestly, and this is also from the standpoint of working as sort of like an internet marketing professional is people don't like to leave the platform they're on, you know, if you can, if you can keep them on the platform they're on, and still sort of, you know, get your message across, then that's going to be more effective than than than bouncing them out, you know, because really, really like people are there because they want to be there.
 
 I mean, it takes a lot, you know, like, unless there's a real specific call to action, I think a lot of times it works best to use the hashtag. And the hashtag really is what kind of got this ball rolling in the first place. And I feel like now, especially now with the advent of NFTs and this whole new audience on Twitter of artists, right, that never were, they weren't on Twitter two years ago. None of these people were on Twitter. I hated Twitter. I was one of those people that hated Twitter. I still semi hate Twitter. But, you know, not fully anymore. Because there's all these NFT people out there and a lot of the art is actually really good and really interesting, you know. So to tag it up a little bit, you know, is a good way to engage with that audience. And, you know, as far as I'm concerned, you know, like the traditional gallery world is one world, you know.
 
@@ -381,7 +381,7 @@ As artists we were very substantive in our thoughts, and especially this group. 
 
 ## Renata Janiszewska [01:15:52](https://www.youtube.com/watch?v=iVP63DGbCGY&t=4552s)
 
-I appreciate what you just said. Michael about inviting a smaller group, and definitely that sounds great. I'm just gonna do a quick report on the node text. Pressionism Canada. I just wanted to let everyone know that we have a Twitter account, and just like Colin had the issue with not enough characters. We've had to make a rather sort of odd character an odd name. It's text expressions.
+I appreciate what you just said. Michael about inviting a smaller group, and definitely that sounds great. I'm just gonna do a quick report on the node text. Pressionism Canada. I just wanted to let everyone know that we have a Twitter account, and just like Colin had the issue with not enough characters. We've had to make a rather sort of odd character an odd name. It's Techspressionism.
 
 Underscore. C. A. But it's Techspressionistes with an X. Sorry, but that was the only way it would work out. And then we have a an Instagram at text, specialism, Canada, all one word. So I wanted to let everyone know, and we have a website in the works which Lee and Martin are actively putting together, and possibly some exhibitions coming later down the road. So thanks, and I hope you follow us on Instagram and Twitter.
 

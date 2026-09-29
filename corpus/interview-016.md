@@ -27,7 +27,7 @@ Hello. Today is Wednesday, June 9th, 2021. My name is Colin Goldberg, and I'm he
 
 ## Paul D. Miller aka DJ Spooky that Subliminal Kid [00:34](https://www.youtube.com/watch?v=sqMzJArwmhg&t=34s)
 
-Okay, so let's just dive in. First and foremost, just want to say thank you for inviting me on your show. It's always a pleasure. And Colin, it's been real, you know, interesting to get a chance to see the evolution of what you're doing with this whole text expression scenario. All right, so for folks on the audience, what's up? My name is Paul Miller, aka DJ Spooky.
+Okay, so let's just dive in. First and foremost, just want to say thank you for inviting me on your show. It's always a pleasure. And Colin, it's been real, you know, interesting to get a chance to see the evolution of what you're doing with this whole Techspressionism scenario. All right, so for folks on the audience, what's up? My name is Paul Miller, aka DJ Spooky.
 
 All right, so I'm from Washington, DC. I grew up near DuPont Circle, but also grew up in another area called Shepherd Park up in an area called Northwest near Silver Spring. Anybody who knows those regions, they're very different. DuPont Circle is where all the embassies are. It's a very beautiful area. My mom had a store called Toast and Strawberries that was at Connecticut Avenue and R Street.
 

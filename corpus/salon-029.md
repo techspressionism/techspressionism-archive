@@ -450,7 +450,7 @@ We are currently 18 artists down that I have. So, yeah, I think we still probabl
 
 All right.
 
-## Allen Hirsh [56:47](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3407s)
+## Cynthia DiDonato [56:47](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3407s)
 
 OK, thank you, Davonte, for getting my piece there in focus. Can everyone hear me?
 
@@ -458,7 +458,7 @@ OK, thank you, Davonte, for getting my piece there in focus. Can everyone hear m
 
 Yep, we can hear you.
 
-## Allen Hirsh [56:58](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3418s)
+## Cynthia DiDonato [56:58](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3418s)
 
 OK, first of all, I'm Cynthia DiDonato from Rhode Island on the East Coast of the USA, and I, like others, are honored and humbled to be part of this exhibit. The exhibit, I think, is extraordinary. I can only imagine the work that it took to create this virtual exhibit. That involves using technology as well. And I thank you all for making it possible for me to be part of this. First of all, let me say I'm interested in mind landscapes, dealing with the natural world, dealing with oppression, dealing with consciousness, also dealing with quantum mechanics. And I say that term as a layperson. I am not a scientist, but I am fascinated by it and its implications for our world and our worldview. I primarily use an iPad Pro and an Apple Pencil. And I did use that with this piece. But this piece has a history.
 
@@ -470,7 +470,7 @@ And so the beaming pieces... Let me get rid of that. Sorry, I apologize for that
 
 That's one minute. OK.
 
-## Allen Hirsh [59:20](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3560s)
+## Cynthia DiDonato [59:20](https://www.youtube.com/watch?v=ADjcjvSQViE&t=3560s)
 
 It also was reborn because I was able to create layers in which I was able to create that sculptural piece you see in the front that helps to provide depth. And of course, I added motion to the piece. I want to say thank you again. And that's about it.
 
@@ -508,7 +508,7 @@ So this series speaks to a lot of those ideas. And in my mind, everything is sou
 
 But we are of this time. I don't.
 
-## Allen Hirsh [01:07:14](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4034s)
+## Cynthia DiDonato [01:07:14](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4034s)
 
 That's a great intro, whatever
 
@@ -570,7 +570,7 @@ But we are. And you with us, Malavika? Yeah. All right.
 
 ## Malavika Mandal Andrew [01:11:47](https://www.youtube.com/watch?v=ADjcjvSQViE&t=4307s)
 
-You have a floor. Thank you. Thank you. I'm a Techspressionist, media and artist from India. First of all, I want to thank the exhibition advisor and curator for selecting and exhibiting my text expressions, my work in Techspressionism 2021. In all my medium in inspiration of my creation is elements of life.
+You have a floor. Thank you. Thank you. I'm a Techspressionist, media and artist from India. First of all, I want to thank the exhibition advisor and curator for selecting and exhibiting my Techspressionism, my work in Techspressionism 2021. In all my medium in inspiration of my creation is elements of life.
 
 And along with this, the element us. All our link depend on each other, along with technological development. In the work, I want to try to show always the movement of life through ups and downs, smooth and sharp path, taking our all conscious, unconscious and subconscious thoughts together, get strong in my work. Through.!
 
@@ -1070,7 +1070,7 @@ I can wing it.
 
 All right. I think I've got you right here.
 
-## Allen Hirsh [02:08:11](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7691s)
+## Cynthia DiDonato [02:08:11](https://www.youtube.com/watch?v=ADjcjvSQViE&t=7691s)
 
 Right there.
 

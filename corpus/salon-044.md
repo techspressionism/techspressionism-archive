@@ -612,7 +612,7 @@ This is final word urgent.
 
 ## Colin Goldberg [01:22:39](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4959s)
 
-I would like to just pose this question to any of the presenters that would want to answer is how do you, maybe in one sentence, how do you personally relate to the, to the idea of text expression?
+I would like to just pose this question to any of the presenters that would want to answer is how do you, maybe in one sentence, how do you personally relate to the, to the idea of Techspressionism?
 
 ## Steve Miller [01:23:01](https://www.youtube.com/watch?v=PecHOYGSnWY&t=4981s)
 

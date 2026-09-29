@@ -21,7 +21,7 @@ languages: ["en"]
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=l52RGfTiatE&t=2s)
 
-And hello, hello, hello, and welcome to our Tech Freshness Virtual Salon. Today is kind of an interesting day. It's February 2nd of 2022, so it's 2-2-22, which isn't probably going to happen again for a very, very, very, very, very long time. Not while any of us are alive, anyway. So, celebrate today, or something, I don't know. But whatever things happen on interesting days like this.
+And hello, hello, hello, and welcome to our Techspressionist Virtual Salon. Today is kind of an interesting day. It's February 2nd of 2022, so it's 2-2-22, which isn't probably going to happen again for a very, very, very, very, very long time. Not while any of us are alive, anyway. So, celebrate today, or something, I don't know. But whatever things happen on interesting days like this.
 
 So, if you are just joining us for the first time for our salons, how we typically do things are we have our two or so presenters do their presentations. And over the course of that presentation, we ask that everyone be muted for the duration so that you're not speaking. We're not talking over the presenter and, you know, kind of rude. It happens. But, and then after the presentation, which will last probably about 20 or so minutes, then we'll go into, or presentations rather, we'll go into a Q&A session and discussion about, you know, what was presented.
 

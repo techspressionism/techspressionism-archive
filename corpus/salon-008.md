@@ -113,7 +113,7 @@ The Adams family. Colors of the American flag done in reverse. The Lone Ranger. 
 
 And those are the halcyon days for, for the people who are resisting change. And the things that they refer back to and think about our, our evidence in, in the popularity of old sitcoms. And, in, and I, I just sort of brought them up. And worked on them to show them as, as they were just a facade that were, that.
 
-Were not a, an accurate. Depiction. Of what real life in America was or, or has been ever. That it's an ideal that has never really existed. So the, the tech expression is part of it is, you know, it begins with my iPhone. And a digital TV screen. And, and then I, I make it larger. Combining a contemporary process with an analog., component.
+Were not a, an accurate. Depiction. Of what real life in America was or, or has been ever. That it's an ideal that has never really existed. So the, the Techspressionism is part of it is, you know, it begins with my iPhone. And a digital TV screen. And, and then I, I make it larger. Combining a contemporary process with an analog., component.
 
 So I'm, I'm, I'm literally addressing. Old ideas of the past with new technology. And, that's, that's what I've been doing the most of lately. Rogers and Dale Evans. This is as far as I've gotten so far, but I have, I have. Plenty more negatives to make and. It's all done on metallic paper. So it, it, the images read like a.
 

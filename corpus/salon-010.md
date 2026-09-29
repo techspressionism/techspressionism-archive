@@ -384,7 +384,7 @@ And turned out not to be necessary in this exhibition. But I think that's a good
 
 Well, it's your organization, right? Well, it's I'm curating the show. So it's my exhibition. And the co curator is in London. So I'm in alignment with that, as well as Helen Harrison, who's our advisor. There are a million ways to do exhibitions. There are a million ways to do exhibitions, and they each have their strengths and some of you know, I'm sure it'll be fine. Right? Yeah, I mean, I find very few exhibitions that are curated arbitrarily to be interesting.
 
-I didn't say it was arbitrary. You already have the context of membership in this organization. And the context there's really, I mean, to me, membership is sort of not really. The way I see it. I mean, if you want to refer to yourself as a tech expression is you are more than welcome to. If you don't, then you don't. But we certainly don't charge any fees. And I don't consider it an organization.
+I didn't say it was arbitrary. You already have the context of membership in this organization. And the context there's really, I mean, to me, membership is sort of not really. The way I see it. I mean, if you want to refer to yourself as a Techspressionism is you are more than welcome to. If you don't, then you don't. But we certainly don't charge any fees. And I don't consider it an organization.
 
 Okay. I actually consider it a community. I'm just finding out I have no idea what this is about. Well, I would I would, I would vote for it. It to be done. It's defined as an online community more so than an organization and organization implies user fees as far as I could see it. It's definitely not the case. No, no community is the current way of describing groups, I guess.
 

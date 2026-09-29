@@ -229,7 +229,7 @@ Take expressionism. Is basically. Describes. The. The concept of tax oppression 
 
 Message from you. About the group. And introducing me to the concept of Techspressionism. And. Asking me to, you know, attend the salons and whatnot. And I said, okay, this sounds cool. I need a community. And I said, okay. I need a community. Community is good. Cause I come from a strong community. So I know what community can do for you. So I attended the salons and, you know, and I said.
 
-Immediately. Okay, this is me. So I'm going to plug in. And see what happens. You know, so. The tech expression is community. I find them to be very bright. Very. Beautiful. They're very creative with their wide variety of experiences that they bring to the table. And many have been long acquainted. With Techspressionism. Like, you know, dating from the sixties and the seventies and whatnot. And I also am impressed by the.
+Immediately. Okay, this is me. So I'm going to plug in. And see what happens. You know, so. The Techspressionism is community. I find them to be very bright. Very. Beautiful. They're very creative with their wide variety of experiences that they bring to the table. And many have been long acquainted. With Techspressionism. Like, you know, dating from the sixties and the seventies and whatnot. And I also am impressed by the.
 
 Deep involvement in technology. That you have people who not only use technology for art, but they read science fiction. You know, I'm a Trekkie from way back. I love science fiction. And so you see this secondary layer of literary expertise that pertains to technology and a curiosity, a very healthy curiosity and a willingness to share and learn together. So it's a great adventure.
 
