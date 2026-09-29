@@ -742,6 +742,25 @@
       ],
       "whole_word": true,
       "notes": "Anne Morgan Spalter / Michael Spalter; Whisper heard 'Spalder' in Salon 11 and Salon 51 (Colin, 24 Sep 2026: 'Spalder should be Spalter everywhere')."
+    },
+    {
+      "canonical": "East End of Long Island",
+      "category": "place",
+      "known_asr_variants": [
+        "east end of long island"
+      ],
+      "whole_word": true,
+      "notes": "The East End of Long Island, NY -- a proper regional name, always capitalized (Colin, 28 Sep 2026)."
+    },
+    {
+      "canonical": "Oz Van Rosen",
+      "category": "person",
+      "known_asr_variants": [
+        "Osvan Rosen",
+        "osvan rosen"
+      ],
+      "whole_word": true,
+      "notes": "ASR mishearing of the artist Oz Van Rosen (Colin, 28 Sep 2026)."
     }
   ]
 }

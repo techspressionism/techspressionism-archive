@@ -128,7 +128,7 @@ Okay. Okay. Our next
 
 ## cari ann shim sham [22:44](https://www.youtube.com/watch?v=vE2cOCt7b0o&t=1364s)
 
-Artist is cari ann shim sham* and she's coming to us from New York City. I just wanted to mention before she speaks that Carrie Ann and Joey are the two co-founders of the Mauna Museum and we're having an exhibition with them next month. I believe most of the expressionist artists who are in the exhibition received their acceptance letter.
+Artist is cari ann shim sham and she's coming to us from New York City. I just wanted to mention before she speaks that Carrie Ann and Joey are the two co-founders of the Mauna Museum and we're having an exhibition with them next month. I believe most of the expressionist artists who are in the exhibition received their acceptance letter.
 
 So I just wanted to remind you that we're going to have a party for the opening of Mauna X Expressionism at our next salon in October. And now I'll give it over to Carrie Ann. Thank you, Renata. Hello, everyone. It's such a pleasure to be here. And I want to thank Tommy, and the whole crew of you for this wonderful show where we all got to come together. Most of us got to meet each other sometimes for the first time. That was really wonderful and magical. So yeah. And for those of you that weren't there, I feel like you were there in spirit. So without further ado, I will share my screen.
 
@@ -288,7 +288,7 @@ Thank you. So Colin.
 
 Thanks, Renata. Can you guys hear me okay? Okay, cool. Yeah, just first of all, I'd like to thank Tommy immensely for putting this show together. This is the primary force behind it, beautiful installation, and very exciting to have our first museum show as a community. So, you know, kudos. And thanks, Renata, for moderating.
 
-So I have a piece in the show called Circuit. Let me just share my screen here. Okay, so the piece, here's an image of it that shows it to scale. It's approximately six by eight feet. It's 75 by 100 inches. And it has this AR component. That's it. So it's kind of like over it and then Osvan Rosen and Renata sort of flanking the piece there. And there is an augmented reality component to the piece, which see if I can find the video real quick. Well actually I'll pull up, I'll pull up something else that is, so the, I'll, I'll give a little quick.
+So I have a piece in the show called Circuit. Let me just share my screen here. Okay, so the piece, here's an image of it that shows it to scale. It's approximately six by eight feet. It's 75 by 100 inches. And it has this AR component. That's it. So it's kind of like over it and then Oz Van Rosen and Renata sort of flanking the piece there. And there is an augmented reality component to the piece, which see if I can find the video real quick. Well actually I'll pull up, I'll pull up something else that is, so the, I'll, I'll give a little quick.
 
 Background on the piece itself. It's part of this series called Metagraphs, which this is the second large format digital monoprint. It's printed on vinyl. The first one was shown in Southampton and subsequently was shown in a showroom in the in the city of New York City. And it was a piece that was purchased by the Hearst Corporation, which I was very excited about. It's the first AR piece in their corporate collection. That's the CEO there on the right. And that was also printed on vinyl to those same dimensions.
 

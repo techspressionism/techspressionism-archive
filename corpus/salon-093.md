@@ -58,13 +58,13 @@ Let me get this screen share going here.
 
 Okay? So Techspressionism is defined as an artistic approach in which technology is utilized as a means to express emotional experience. The term is derived from 2 root words technology and expressionism. So a lot of people can't have a hard time pronouncing it and think it's Techspressionism. And I just tell people it's expressionism with a T so just Techspressionism. I'll start with a little bit of background information on my personal artistic development which will provide some context on how the term originated.
 
-I was born in the Bronx, New York, in 1971, and I grew up on the east end of Long Island, where my father got a job teaching chemistry at Southampton College.
+I was born in the Bronx, New York, in 1971, and I grew up on the East End of Long Island, where my father got a job teaching chemistry at Southampton College.
 
-## Allen Hirsh [11:53](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=713s)
+## Allen Hirsh [10:55](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=655s)
 
 I've loved to draw since I was a kid and got my start with computer art as a high school student in the 1980s, with the commodore, 64,
 
-## Cape Cod Museum of Art [12:01](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=721s)
+## Cape Cod Museum of Art [11:03](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=663s)
 
 I created my 1st digital drawings, using various input tools, including a light pen which let you draw right on the computer monitor and the Koala pad, which was an early drawing tablet. I also experimented with telecommunications, using the Commodore 64, and a 1,200 baud dial-up modem. Since this was before the World Wide Web. Most of my time online was spent dialing into underground bbss or bulletin board systems run out of people's homes. Most bbss were run by nerdy kids like myself.
 
@@ -274,31 +274,31 @@ It's 8 min, I believe, a little over 8 min between 2 min for each artist to g
 
 The one on the right we just received along with the drone footage. This is my piece at night on the video wall. Which is really dramatic. I love this shot, but if you notice in the right-hand side that color piece on the left-hand side of that colored image. There are these white lines that are kind of streaking in across, and they almost touch the little orange globe in the red ring on the left. Now look at the full left, and there are many people in this audience who knows Philip Piper. Philip Piper was my husband. For over 30 years. He passed away way too young at about 50 years old, an absolutely brilliant artist, and the reason that I selected different parts and pieces of his little white sketches here to embed within my 150 media stream artwork, is that, Phil? His whole life was a very early transplant patient. So he spent 17 and a half years on dialysis, etc, and yet he still created beautiful work which is in the collection here at the Museum.
 
-But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago. So for me personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there this part of the presentation. And we're going to go online to Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
+But his family came from Chicago, and Phil used to go when he was quite young, right up until he left for college every summer, and he would paint in the streets of Chicago with his painter grandfather, who came over from Germany and was a painter there. And so in Chicago he and his grandfather would not paint the pretty riverside. They would paint the industrial parts of Chicago. So for me personally, and now, publicly. This is my love letter to bring Phil back to Chicago. So I'm going to end there this part of the presentation. And we're going to go online. To Michael, because Jan Swinburne, the 4th artist in our group, will begin to present
 
-## Michael Pierre Price [51:42](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3102s)
+## Michael Pierre Price [51:41](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3101s)
 
 Thank you, Karen. So I want to introduce
 
-## Cape Cod Museum of Art [51:46](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3106s)
+## Cape Cod Museum of Art [51:45](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3105s)
 
 Cool and
 
-## Michael Pierre Price [51:49](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3109s)
+## Michael Pierre Price [51:48](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3108s)
 
 Jan Swinburne intermediate practice overlaps images, sculpture, and experimental moving image art in 2 streams. Gallery-oriented exhibitions and time-based experimental forms. Her thematic focus revolves around speech, languages, landscape degenerated and regenerated images and sounds. Jan lives in Toronto. Welcome, Jan.
 
-## Jan Swinburne [52:21](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3141s)
+## Jan Swinburne [52:20](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3140s)
 
 Hi, Michael! I'll just pull up my screen share and hope it works. Just give me a second here.
 
 Okay, we don't need this every. Can you see that
 
-## Michael Pierre Price [52:40](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3160s)
+## Michael Pierre Price [52:39](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3159s)
 
 Yes.
 
-## Jan Swinburne [52:41](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3161s)
+## Jan Swinburne [52:40](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=3160s)
 
 Alright. Let's see if we can make this go. You have a second to click on. Okay, so my piece I thought maybe I'd talk a little bit about my work and how this came about. I'm interested in making the invisible visible. And that's something that technology can definitely help with so sonic flight is an iterative project that began with an image of the sound of a war jet, a waveform that flew over my house, and it was shocking to me that the waveform actually looked a bit like the jet plane, so that made me very interested.
 

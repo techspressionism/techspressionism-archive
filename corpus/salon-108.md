@@ -46,7 +46,7 @@ It was first referred to as a movement by Wired in 2014.
 
 ## Colin Goldberg [00:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=39s)
 
-And in 2020, I initiated the formation of an artist group around the idea with fellow artists Osvan Rosen, Steve Miller, and Patrick Lichty, as well as art historian Helen Harrison, who served as director of the Paula Krasner House and Study Center.
+And in 2020, I initiated the formation of an artist group around the idea with fellow artists Oz Van Rosen, Steve Miller, and Patrick Lichty, as well as art historian Helen Harrison, who served as director of the Paula Krasner House and Study Center.
 
 ## Randi Matushevitz [00:55](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=55s)
 
@@ -62,7 +62,7 @@ And the group or movement or whatever you want to call it has spread largely thr
 
 ## Colin Goldberg [01:21](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=81s)
 
-And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randi Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So,
+And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randy Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So,
 
 ## Randi Matushevitz [02:08](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=128s)
 
@@ -236,7 +236,7 @@ Alan Hirsch.
 
 Bill Rogers. And Maria Trianda Fellows.
 
-So on the far wall, the other side of the cube. The monitor on the left is Cynthia Beth Rubin, paired with Michael Woodruff and Mark Chavez and Ina Conradi. And the other monitor on the right is Audrey Phillips and Randy Matashevitz. And again photos for each Cynthia Beth Rubin work. Michael Woodruff. Mark Shepherd and Ina Kanradi They work together as a team.
+So on the far wall, the other side of the cube. The monitor on the left is Cynthia Beth Rubin, paired with Michael Woodruff and Mark Chavez and Ina Conradi. And the other monitor on the right is Audrey Phillips and Randy Matashevitz. And again photos for each Cynthia Beth Rubin's work. Michael Woodruff. Mark Shepherd and Ina Kanradi They work together as a team.
 
 And this one is Audrey Phillips. And Randy's piece.
 
@@ -244,7 +244,7 @@ And these 2 monitors are on the other wall of the cube. The one on the left is C
 
 Nagina Itasabian and Patrick Lichty. And Victor Acevedo. So I'm just so glad that we got to see some live shots during the show where everything was actually animated. But these are at least photos of each video artwork on the monitors. And the next segment is going to be showing a little bit about the New Media Expressionist Architectures Exhibition Experiment, which we also call the DAT Collaborations. DAC stands for Digital Artist Community, and it's a SIGGRAPH subgroup. And this is the poster.
 
-Curated by Joshua Dickinson, Tuna Bora, Gustavo Rincon, and Randi Matushevitz, and there are six collaboration projects. The collaborators were put together by Gustavo and Joshua. And each group consists of an expressionist artist and an audio music composer and technologist. So…. For showing on the monitor at Lacta, each project has a clip of two and a half minutes, and the total runtime on that monitor is 15 and a half minutes. And here's a photo.
+Curated by Joshua Dickinson, Tuna Bora, Gustavo Rincon, and Randy Matushevitz, and there are six collaboration projects. The collaborators were put together by Gustavo and Joshua. And each group consists of an expressionist artist and an audio music composer and technologist. So…. For showing on the monitor at Lacta, each project has a clip of two and a half minutes, and the total runtime on that monitor is 15 and a half minutes. And here's a photo.
 
 Of… Somebody listening with the headphones. Yeah, all the monitors have headphones attached. And this piece that we're looking at is the team that Cynthia Beth Rubin was part of this team. This piece is called Ambient Ocean. Okay, I have a trailer video where each each of the collaboration projects shows just 20 seconds. So this plays for two and a half minutes. And I want to warn you that the title. The title screens go go past very quickly, and only 2 seconds. So read fast and don't blink and don't miss the titles. So Okay.
 
@@ -350,7 +350,7 @@ And I'm very proud of it as well.
 
 Thanks, Victor. Cynthia DiDonato.
 
-## Cynthia DiDonato [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
+## Allen Hirsh [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
 
 I just want to say thank you again to the curators and those who worked on the catalog. But I also want to say you made me feel as though I was there. For the.
 
@@ -358,7 +358,7 @@ I just want to say thank you again to the curators and those who worked on the c
 
 Good.
 
-## Cynthia DiDonato [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
+## Allen Hirsh [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
 
 And… That… is a tremendous, it represents a tremendous effort on all your parts. So again, thank you so much.
 
@@ -532,7 +532,7 @@ One part of, I love the fact that you all did so much documenting and sharing to
 
 No. Great. Yeah, before Lee, I just wanted to say that those of you who have prints in the show, you can have the prints mailed to you. You have to connect with Rex and he'll charge you shipping, but you can get your prints mailed to you. I'll leave.
 
-## lee day [01:06:40](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4000s)
+## Lee Day [01:06:40](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4000s)
 
 I was just wondering if you could talk a little bit more about how the collaboration worked and how you had, you know, interacted with people, what the process was a little bit. I imagine it was different for different people.
 
@@ -562,7 +562,7 @@ Uses of AI. And then, The composer who I mentioned already, Alessandro Fedini. H
 
 In type sync. Anyway, I should speed up. I'm… maybe I've been… had this bottled up, and I'm… you know, you give me the opportunity to go on at length, so I'll try to wrap it up. But I thought you might find it interesting. Like, what… to Lee's question, how did it work? So then, but I'm looking forward, I haven't seen the… I've only seen prototypes of the AR App on the phone. And at SIGGRAPH, there'll be a version that people can actually download on their phone and experience that cube, and you can walk around it.
 
-## lee day [01:13:12](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4392s)
+## Lee Day [01:13:12](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4392s)
 
 Okay.
 
@@ -572,7 +572,7 @@ Oh. You see it through your phone, and it's as if it's… that cube's in your ro
 
 And that was real important. And he handed that back to Alex, who then brought it into the app. So, it was a kind of a, for me, in my sort of, you know. As a neophyte in this extra extended use of media beyond what I've known… I've had experience with. It was really fun and exciting. So, anyway, that's my wrap-up. I should hand it over to Randy, she can talk about… she worked with two co-labs.
 
-## lee day [01:14:22](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4462s)
+## Lee Day [01:14:22](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4462s)
 
 Wow.
 
@@ -666,7 +666,7 @@ Really, really cool. Great to see, you know, Techspressionism getting spread to 
 
 And it'll basically be sort of, like, on a first-come, first-served basis, you know, like, so if you want to show up, like 1145 or something, then we can start, you know, a queue going of… who wants to share and stuff like that. And then based on how many people want to share, that'll kind of determine the timeframe. But I would say probably, you know, five to 10 minutes, hopefully we'll get a bunch of people sharing. You know, and if… if anybody wants to step up to moderate that, that would be welcome. Otherwise, I guess I'll moderate it since I came up with the idea, as the rule goes, supposedly. So that being said, I think we're going to bring this recording to a close. Oh, Cynthia.
 
-## Cynthia DiDonato [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
+## Allen Hirsh [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
 
 Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. As we know, Cynthia Beth Rubin, a number of moderators and artists have.
 
@@ -674,7 +674,7 @@ Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. 
 
 Okay.
 
-## Cynthia DiDonato [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
+## Allen Hirsh [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
 
 In participating in videos where, the artists. Shared their artwork and their process with Makerspace participants. I have to say, I've been looking at a number of the videos myself that I didn't get a chance to see earlier. They are very well done. So please. Check them out and I think you'll find rather interesting information about their processes. Thank you.
 
