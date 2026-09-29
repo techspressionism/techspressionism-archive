@@ -275,13 +275,15 @@ ANSWER_NOTES = [
 
 
 def parse_answer_note(cfg):
-    """(intro lines, [{id, status, text, answer}]) from the note's master file."""
+    """(intro lines, [{id, status, text, detail, answer}]) from the note's master file. `detail` is any indented
+    lines between the header and ANSWER: (e.g. the quoted sentence in the mishearings note) -- optional, empty
+    for note types that don't have one."""
     intro, items, cur = [], [], None
     for raw in cfg["src"].read_text().splitlines():
         line = raw.rstrip()
         m = re.match(r"^\[( |a|x)\] (" + cfg["prefix"] + r"\d+)\. (.*)", line)
         if m:
-            cur = {"status": m.group(1), "id": m.group(2), "text": m.group(3), "answer": ""}
+            cur = {"status": m.group(1), "id": m.group(2), "text": m.group(3), "detail": [], "answer": ""}
             items.append(cur)
             continue
         m = re.match(r"^\s+ANSWER:\s*(.*)", line)
@@ -290,6 +292,8 @@ def parse_answer_note(cfg):
             continue
         if line.startswith("LOG"):
             cur = None
+        elif cur is not None and line.strip():
+            cur["detail"].append(line.strip())
         elif cur is None and not items and line.strip() and not line.startswith(cfg["head"]):
             intro.append(line)
     return intro, items
@@ -303,6 +307,8 @@ def answer_note_html(cfg, intro, items):
         out.append("<p>Nothing waiting for you.</p>")
     for i in open_items:
         out.append(f"<p><b>{e(i['id'])}. {e(i['text'])}</b></p>")
+        for d in i.get("detail", []):
+            out.append(f"<p>{e(d)}</p>")
         out.append(f"<p>ANSWER: {e(i['answer'])}</p>")
     return "\n".join(out)
 
@@ -337,7 +343,7 @@ def pull_answer_note(cfg):
             continue
         a = answers.get(i["id"], "")
         if a and a != i["answer"]:
-            text = re.sub(r"^(\[)[ a](\] " + i["id"] + r"\..*\n\s+ANSWER:).*$", lambda m: m.group(1) + "a" + m.group(2) + " " + a, text, flags=re.M, count=1)
+            text = re.sub(r"^(\[)[ a](\] " + i["id"] + r"\..*(?:\n\s+[^\n]*)*?\n\s+ANSWER:).*$", lambda m: m.group(1) + "a" + m.group(2) + " " + a, text, flags=re.M, count=1)
             new_answers.append((i["id"], i["text"], a))
     cfg["src"].write_text(text)
     print(f"{cfg['title']}: {len(new_answers)} new answer(s)")
@@ -359,7 +365,7 @@ NOTE_GUIDE = [       # (title, what it is for)
     ("Archive: To Do List", "The master checklist for all four phases: what is open, in order, with my recommendations under each phase. Remove an item when it is done and it is marked done everywhere."),
     ("Archive: Review", "The UI/UX and transcript review: design problems, optimisation ideas, transcript fixes and search items, most important first."),
     ("Archive: Decisions", "Questions only you can answer. Type your answer after ANSWER: under each one; it is read at the next sync and the item is removed once acted on."),
-    ("Archive: Techspressionism Mishearings", "Every place the transcript may have misheard Techspressionism / Techspressionist, with the sentence, recording and time. Choose A, B, C or D for each."),
+    ("Archive: Techspressionism Mishearings", "Every place the transcript may have misheard Techspressionism / Techspressionist, with the sentence, recording, time and speaker. Type the corrected word after ANSWER, or leave it blank to skip."),
     ("Archive: Interview 1 Turns", "The turns in Interview 1 with no speaker named, with times. Type who is speaking."),
     ("Archive: Broken Artist Links", "Artist links from the artist index that no longer work. Type the new address, skip or remove."),
     ("Archive: TSedit Plan", "The plan for TSedit, the private invite-only review and edit web app. Approve or change each part."),
