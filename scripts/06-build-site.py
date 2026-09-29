@@ -3111,11 +3111,20 @@ def build_person_page(p):
                      '<p class="note">From the exhibition pages on techspressionism.com. A REEL button plays the exhibition reel at this artist\'s entry.</p>')
     if p["speaks"]:
         items = sorted(p["speaks"].values(), key=lambda r: (r["ent"].get("date_recorded") or "", r["ent"]["number"]), reverse=True)
-        def first_sentence(text, cap=200):
-            # the first sentence of the turn the WATCH button opens (like the mentions below); a run-on with no punctuation is cut at a word boundary
+        def first_sentence(text, cap=260, min_len=80):
+            # enough of the turn the WATCH button opens to give real context (Colin, 28 Sep 2026: a lone short
+            # sentence like "Great." or "Thank you, Michael." reads as no quote at all) -- keep adding sentences
+            # while the quote so far is under min_len, up to cap; a run-on with no punctuation is cut at a word boundary
             para = re.sub(r"_([^_]+)_", r"\1", (text or "").split("\n\n")[0]).strip()
             spans = split_sentences(para)
-            sent = spans[0][2] if spans else para
+            if not spans:
+                sent = para
+            else:
+                sent = spans[0][2]
+                for _s0, _e0, more in spans[1:]:
+                    if len(sent) >= min_len:
+                        break
+                    sent = sent + " " + more
             if len(sent) > cap:
                 cut = sent.rfind(" ", 0, cap)
                 sent = sent[:cut if cut > 0 else cap].rstrip(" ,;:") + " \u2026"
