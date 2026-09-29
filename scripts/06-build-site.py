@@ -641,7 +641,7 @@ h1.rec-title.wrapped { line-height:1.1; }   /* the two lines ("Interview 30" / t
 section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .seg-head { display:flex; align-items:baseline; gap:.7rem; margin:0 0 .7rem; font-size:1rem; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .seg-head .speaker { font-weight:inherit; }
-.read-actions { display:none; margin:1.5rem 0 1.2rem; }   /* top margin added -- per Colin 2026-09-22, wanted space above these buttons on both video and category pages (they share this class) */
+.read-actions { display:none; margin:0 0 1.2rem; padding-top:1.75rem; border-top:1px solid var(--accent); }   /* Colin, 2026-09-29: moved above the Video Description/Synopsis so the transcript -- the core functionality -- sits above the fold; the red top border is the same section-divider look as the Video Description/Synopsis headings below it */
 .read-btn, .watch-btn { flex:1 1 0; min-width:0; padding:.85rem .6rem; border:2px solid var(--accent); border-radius:999px; color:#fff; font:inherit; font-size:1rem; font-weight:800;
                         letter-spacing:.06em; text-transform:uppercase; line-height:1.2; cursor:pointer; text-align:center; text-decoration:none; display:inline-block; }   /* 999px (not a fixed rem value) so the ends are always fully circular regardless of the button's actual height, matching the red timecode pills above -- per Colin 2026-09-22, 1.2rem wasn't enough to fully round a button this tall. text-align/text-decoration/display added when a category page's featured section started rendering these as <a> instead of <button> (no transcript on that page for a real button to toggle) -- an anchor doesn't center its own text or become a flex item sized by padding the way a button does by default */
 .watch-btn { background:var(--accent); }
@@ -713,13 +713,13 @@ a.vs-watch svg { width:.72rem; height:.85rem; color:#fff; flex:none; }
 a.vs-watch .vs-word { letter-spacing:.05em; font-size:.8rem; }
 @media (min-width:64rem) { .vsearch { margin:0 0 1rem; padding:.7rem .9rem; border:1px solid var(--line); border-radius:.4rem; } }
 @media (max-width:44.99rem) {   /* PHONE ONLY (Colin 2026-09-23): the pinned video sits at the very top of the screen, a thin red strip with a down arrow above it slides the site header down (and back up) so the extra room goes to the transcript by default */
-  html.pinbar { --title-h:1.5rem; }
+  html.pinbar { --title-h:2rem; }
   body.category-page .catpage-grid, body.category-page .cat-main, body.category-page .cat-featured { display:contents; }   /* the video's sticky range would otherwise end with .cat-featured, scrolling it away once Recent reaches it; flattened so it stays pinned down the whole page */
   body.category-page .cat-recent-label { margin-top:2rem; }
   .player-box { transition:top .25s ease; }
   body .stickyheader.pin-drawer { display:block; transform:translateY(-105%); visibility:hidden; transition:transform .25s ease, visibility 0s linear .25s; }
   body .stickyheader.pin-drawer.open { transform:none; visibility:visible; transition:transform .25s ease; }
-  .pin-bar { display:flex; align-items:center; justify-content:center; position:absolute; left:0; right:0; top:-1.5rem; height:1.5rem; margin:0; padding:0; border:0; border-radius:0; background:#e3e3e3; color:#000; cursor:pointer; opacity:0; pointer-events:none; transition:opacity .15s ease; -webkit-tap-highlight-color:transparent; }
+  .pin-bar { display:flex; align-items:center; justify-content:center; position:absolute; left:0; right:0; top:-2rem; height:2rem; margin:0; padding:0; border:0; border-radius:0; background:#e3e3e3; color:#000; cursor:pointer; opacity:0; pointer-events:none; transition:opacity .15s ease; -webkit-tap-highlight-color:transparent; }
   .player-box.pinned .pin-bar { opacity:1; pointer-events:auto; }
   .pin-bar svg { width:1.1rem; height:.7rem; transition:transform .25s ease; }
   .pin-bar[aria-expanded="true"] { opacity:0; pointer-events:none; }   /* header showing: the strip disappears, the video slides up under the header */
@@ -751,7 +751,7 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 .video-desc { margin:.2rem 0 1rem; }
 .video-desc .vd-text p { margin:0 0 .7rem; line-height:1.55; }
 .video-desc .vd-text a { color:inherit; text-decoration:underline; text-decoration-color:var(--muted); text-underline-offset:2px; overflow-wrap:anywhere; }
-.js .video-desc.clamped .vd-text { max-height:9.3em; overflow:hidden; }   /* long descriptions: a few lines and Read more */
+.video-desc .vd-extra[hidden] { display:none; }   /* long descriptions: everything after the cutoff sentence is hidden until Read more, rather than a CSS clamp -- so the cut always lands at the end of a sentence, never mid-line or mid-sentence */
 .video-desc .vd-more { margin:.1rem 0 0; padding:0; border:0; background:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--accent); cursor:pointer; }
 .video-desc .vd-more[hidden] { display:none; }
 .artists-more { margin:.5rem auto 0; max-width:40rem; font-size:.92rem; color:var(--muted); }
@@ -822,6 +822,7 @@ html.sent-hl .para.active .tx { background:none; }   /* only the sentence being 
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:2.5rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
   .player-box { position:sticky; top:0; z-index:5; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }   /* was static -- per Colin 2026-09-22, should stay pinned to the top of .side while scrolling within it, same as it already does on mobile (there against the whole page, since .side itself doesn't have its own scroll box below 64rem) */
+  .js .read-actions { position:sticky; top:var(--player-h, 56.25vw); z-index:4; background:var(--bg); }   /* Colin 2026-09-29: stays onscreen right under the pinned video as .side scrolls, not just above the fold once */
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
@@ -1007,6 +1008,7 @@ body.home.searching main { max-width:60rem; }
   .cite-actions, .transcript-toggle, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
   .sitefoot, .player-box, .vsearch, .vscope, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
+  .vd-extra { display:block !important; }   /* the collapsed remainder of a long Video Description -- always shown for print, same reasoning as the transcript above */
   .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
   .layout { display:block !important; }   /* the two-column grid (content + transcript/sidebar) becomes one column, full width */
   .right { width:100% !important; }
@@ -1053,11 +1055,11 @@ PAGE_TMPL = """<!doctype html>
 <span data-pagefind-meta="participants:{participants}" hidden></span>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
+{read_actions}
 {synopsis}
 {description}
 {speakers}
 {flags}
-{read_actions}
 {watch_yt}
 {cite_section}
 {footer}
@@ -3713,6 +3715,26 @@ if _vd.exists():
     VIDEO_DESCRIPTIONS = json.loads(_vd.read_text())      # video id -> the narrative part of its YouTube description (scripts/extract-video-descriptions.py)
 
 
+VD_PREVIEW_CHARS = 480   # roughly the old ~6-line clamp's worth of text
+
+
+def split_at_sentence(text, target_chars):
+    """The preview/remainder split point for a long description: the end of the last sentence at or before
+    target_chars, so "Read more" never lands mid-sentence (Colin, 2026-09-29) -- never mid-letter either, since
+    unlike a CSS line-clamp this is a real text split, not a visual cutoff. Falls back to the first sentence end
+    of all if even one sentence alone runs past target_chars, rather than ever cutting one open."""
+    if len(text) <= target_chars:
+        return text, ""
+    ends = [m.end() for m in re.finditer(r'[.!?][\'"”’]?(?=\s|\n|$)', text)]
+    if not ends or ends[-1] >= len(text) - 1:
+        return text, ""      # no clean sentence break, or the only break is basically the end already
+    before = [p for p in ends if p <= target_chars]
+    cut = before[-1] if before else ends[0]
+    if cut >= len(text) - 1:
+        return text, ""
+    return text[:cut].rstrip(), text[cut:].lstrip()
+
+
 def video_description_html(entry):
     """"Video Description": the narrative text of the recording's YouTube description (no presenter/time-code lists), above the synopsis."""
     text = VIDEO_DESCRIPTIONS.get(entry.get("video_id"))
@@ -3727,12 +3749,17 @@ def video_description_html(entry):
             pos = m.start() + len(url)
         out.append(e(p[pos:]))
         return "<p>" + "".join(out) + "</p>"
-    paras = "".join(para(p) for p in text.split("\n\n"))
-    return (f'<section class="video-desc" data-pagefind-ignore><h2>Video Description</h2><div class="vd-text">{paras}</div>'
+    def paras_html(t):
+        return "".join(para(p) for p in t.split("\n\n") if p.strip())
+    visible, remainder = split_at_sentence(text, VD_PREVIEW_CHARS)
+    if not remainder:
+        return f'<section class="video-desc" data-pagefind-ignore><h2>Video Description</h2><div class="vd-text">{paras_html(visible)}</div></section>'
+    return (f'<section class="video-desc" data-pagefind-ignore><h2>Video Description</h2>'
+            f'<div class="vd-text">{paras_html(visible)}<div class="vd-extra">{paras_html(remainder)}</div></div>'
             '<button type="button" class="vd-more" hidden>Read more</button>'
-            "<script>(function(){var s=document.currentScript.parentNode,t=s.querySelector('.vd-text'),b=s.querySelector('.vd-more');"
-            "s.classList.add('clamped');if(t.scrollHeight>t.clientHeight+4){b.hidden=false;b.addEventListener('click',function(){s.classList.toggle('clamped');"
-            "b.textContent=s.classList.contains('clamped')?'Read more':'Show less';});}else s.classList.remove('clamped');})();</script></section>")
+            "<script>(function(){var s=document.currentScript.parentNode,x=s.querySelector('.vd-extra'),b=s.querySelector('.vd-more');"
+            "x.hidden=true;b.hidden=false;b.addEventListener('click',function(){var open=x.hidden;x.hidden=!open;"
+            "b.textContent=open?'Show less':'Read more';});})();</script></section>")
 
 
 def synopsis_html(entry):
