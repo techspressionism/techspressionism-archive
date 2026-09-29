@@ -2261,7 +2261,7 @@ def build_participants_and_flags(entry):
             if not starts:
                 return ""
             t = starts[0]
-            return (f'<a class="turn-t" href="{e(entry["url"])}&amp;t={int(t)}s" title="Watch from {hhmmss(t)}">'
+            return (f'<a class="turn-t" href="{slug(entry)}.html?watch=1&amp;at={int(t)}" title="Watch from {hhmmss(t)}">'
                     f'&#9654; {hhmmss(t)}</a> ')
         sp_items = "".join(
             f'<li data-pagefind-filter="speaker:{facet(name)}">{turn_pill(starts)}{participant_name(name, "name")}'
@@ -3105,10 +3105,10 @@ def build_person_page(p):
             if slug == "southampton" and profile:
                 sub += f'<span class="sub"><a href="{e(profile)}" target="_blank" rel="noopener">Exhibition artist profile &#8599;</a></span><br>'
             reel = [r for r in p["reels"] if r["exhibition"] == slug]
-            pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "REEL") for r in reel[:1])
+            pills = "".join(watch_pill(f"https://www.youtube.com/watch?v={r['video']}&t={max(0, r['t'] - 1)}s", r["t"], "Watch on YouTube") for r in reel[:1])
             rows.append(f'<li class="rowitem"><div><strong>{link}</strong><br>{sub}</div>{pills}</li>')
         parts.append('<h2 id="exhibitions">Exhibitions and collaborations</h2><ul>' + "".join(rows) + '</ul>'
-                     '<p class="note">From the exhibition pages on techspressionism.com. A REEL button plays the exhibition reel at this artist\'s entry.</p>')
+                     '<p class="note">From the exhibition pages on techspressionism.com. "Watch on YouTube" opens the exhibition reel at this artist\'s entry (a separate video from the archive recordings, so it opens on YouTube itself).</p>')
     if p["speaks"]:
         items = sorted(p["speaks"].values(), key=lambda r: (r["ent"].get("date_recorded") or "", r["ent"]["number"]), reverse=True)
         def first_sentence(text, cap=260, min_len=80):
