@@ -34,13 +34,18 @@ def lab(e):
 # prefix followed by an express*/impress*/pression/fresh/fashion/salon/community-like suffix, as two words or merged -- plus the specific
 # phrase forms already known from earlier passes. Bare "expressionism"/"impressionism" is never flagged (647 legitimate art-history
 # references excluded per the vocabulary.json survey note) -- only prefixed/merged forms are a candidate mishearing of Techspressionism.
+# Grouped by distinct string (Colin, 29 Sep 2026: "narrow it down to all instances that are different strings. This way if there is a
+# misspelling anywhere, it will be corrected everywhere."): one item per exact phrase, not one per occurrence, so a single answer covers
+# every place it appears -- once approved it becomes a data/vocabulary.json entry, corrected automatically everywhere from then on.
+# Also excludes bare "expressionist(s)"/"expressionism" (Colin: "context-specific") even with a prefix attached, since e.g. "tech
+# expressionist" can be a genuine description ("an expressionist who works with tech") rather than a mishearing.
 PREFIX = r"tech|tex|tec|tach|tack|dex|dax|tax"
 SUFFIX = r"express(?:ion)?s?|impress(?:ion)?s?|pression|fresh(?:men|ness)?|fashion|salon|community|crescent|preciousness|questionist"
 PH = rf"(?:{PREFIX})[\s-]?(?:{SUFFIX})s?|text expressions?|texpressions?"
 rx = re.compile(r"\b(" + PH + r")\b", re.I)
 ALREADY_CORRECT = re.compile(r"^techspression", re.I)  # never flag the real word itself
-rows = []
-seen = set()  # (recording key, sentence) -- collapse a run-on paragraph matching the same phrase many times into one row
+BARE_EXCLUDE = re.compile(r"^expressionist|^expressionism", re.I)
+groups = {}  # lowercased phrase -> {"count": int, "recordings": set, "example": (e, sent, tm, speaker) -- the SHORTEST sentence seen, for readability}
 for e in corpus:
     for s in e["segments"]:
         t = s.get("text") or ""
@@ -48,39 +53,47 @@ for e in corpus:
             continue
         for pi, p in enumerate(t.split("\n\n")):
             for m in rx.finditer(p):
-                if ALREADY_CORRECT.match(m.group(0)):
+                phrase = m.group(0)
+                if ALREADY_CORRECT.match(phrase) or BARE_EXCLUDE.match(phrase):
                     continue
+                key = phrase.lower()
+                g = groups.setdefault(key, {"count": 0, "recordings": set(), "example": None})
+                g["count"] += 1
+                g["recordings"].add(lab(e))
                 a = max(p.rfind(". ", 0, m.start()), p.rfind("? ", 0, m.start()), p.rfind("! ", 0, m.start())) + 1
                 ends = [x for x in (p.find(". ", m.end()), p.find("? ", m.end()), p.find("! ", m.end())) if x >= 0]
                 b = min(ends) + 1 if ends else len(p)
                 sent = p[a:b].strip().replace("\n", " ")
-                key = (e["type"], e["number"], sent)
-                if key in seen:
-                    continue
-                seen.add(key)
-                st = s.get("para_starts") or [s.get("start")]
-                times = (s.get("sentence_times") or [[]])
-                idx = len(re.findall(r"[.?!]\s", p[:m.start()]))
-                tm = times[pi][idx] if pi < len(times) and idx < len(times[pi]) else (st[pi] if pi < len(st) and st[pi] is not None else s.get("start"))
-                rows.append((e, m.group(0), sent, tm, s.get("speaker") or "Unattributed"))
+                if g["example"] is None or len(sent) < len(g["example"][1]):
+                    st = s.get("para_starts") or [s.get("start")]
+                    times = (s.get("sentence_times") or [[]])
+                    idx = len(re.findall(r"[.?!]\s", p[:m.start()]))
+                    tm = times[pi][idx] if pi < len(times) and idx < len(times[pi]) else (st[pi] if pi < len(st) and st[pi] is not None else s.get("start"))
+                    g["example"] = (e, sent, tm, s.get("speaker") or "Unattributed")
+rows = sorted(groups.items(), key=lambda kv: -kv[1]["count"])
 if FORCE or not (ROOT / "private" / "archive-mishearings.txt").exists():
     out = ["ARCHIVE MISHEARINGS",
-           "Each line is a place where the transcript has a phrase that may be a mishearing of Techspressionism / Techspressionist. To request a change, "
-           "type the corrected word or phrase after ANSWER: (e.g. Techspressionism). Leave it blank to skip. Claude reads what you typed when it syncs, "
-           "changes the transcript, and removes the item.",
+           "Each item is a distinct phrase that may be a mishearing of Techspressionism / Techspressionist -- one item covers every place "
+           "it appears, so correcting it here corrects it everywhere. To request a change, type the corrected word or phrase after ANSWER: "
+           "(e.g. Techspressionism). Leave it blank to skip. Claude reads what you typed when it syncs, applies it everywhere the phrase "
+           "occurs, and removes the item.",
            "Status: [ ] open   [a] answered, waiting for Claude   [x] done", ""]
-    for k, (e, phrase, sent, tm, speaker) in enumerate(rows, 1):
-        out.append(f"[ ] M{k}. {lab(e)}, \"{e.get('session_title') or ''}\", {hms(tm)}, {speaker}:  [heard as: {phrase}]")
-        out.append(f"    \"{sent}\"")
+    for k, (phrase, g) in enumerate(rows, 1):
+        e, sent, tm, speaker = g["example"]
+        recs = ", ".join(sorted(g["recordings"]))
+        out.append(f"[ ] M{k}. \"{phrase}\" -- {g['count']} occurrence{'s' if g['count'] != 1 else ''} in: {recs}")
+        out.append(f"    Example -- {lab(e)}, \"{e.get('session_title') or ''}\", {hms(tm)}, {speaker}: \"{sent}\"")
         out.append("    ANSWER:")
-    out += ["", "LOG", "26 Sep 2026  Created.", "29 Sep 2026  Rebuilt with a broader phrase net, speaker per line, and free-text correction entry."]
+    out += ["", "LOG", "26 Sep 2026  Created.", "29 Sep 2026  Rebuilt with a broader phrase net, speaker per line, and free-text correction entry.",
+            "29 Sep 2026  Grouped by distinct string (one item per phrase, not per occurrence); excluded bare expressionist/expressionism."]
     (ROOT / "private" / "archive-mishearings.txt").write_text("\n".join(out) + "\n")
 with open(ROOT / "review" / "techspressionism-mishearings.csv", "w", newline="") as f:
     w = csv.writer(f)
-    w.writerow(["id", "recording type", "number", "title", "time", "speaker", "heard as", "sentence", "correction"])
-    for k, (e, phrase, sent, tm, speaker) in enumerate(rows, 1):
-        w.writerow([f"M{k}", e["type"], int(e["number"]), e.get("session_title") or "", hms(tm), speaker, phrase, sent, ""])
-print(len(rows), "mishearing instances")
+    w.writerow(["id", "heard as", "occurrences", "recordings", "example recording type", "number", "title", "time", "speaker", "example sentence", "correction"])
+    for k, (phrase, g) in enumerate(rows, 1):
+        e, sent, tm, speaker = g["example"]
+        w.writerow([f"M{k}", phrase, g["count"], "; ".join(sorted(g["recordings"])), e["type"], int(e["number"]), e.get("session_title") or "", hms(tm), speaker, sent, ""])
+print(len(rows), "distinct mishearing phrases")
 
 # ---- Interview 1 turns without a speaker -----------------------------------------------------------------------------------------------------
 e1 = next(e for e in corpus if e["type"] == "interview" and int(e["number"]) == 1)
