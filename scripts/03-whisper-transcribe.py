@@ -18,16 +18,26 @@ already punctuates and capitalizes, and per-word timestamps drive the same
 speaker-index slicing and ~3-minute block splitting as the YouTube path. Whisper
 gives no speaker labels.
 
-Audio source: the original recording in ~/Documents/~TECHSPRESSIONISM/VIDEO when
-one can be found (Salon N -> SALON/SALON_N, Roundtable N -> ROUNDTABLE/ROUNDTABLE_N,
-Interview -> INTERVIEWS/<first name>). Those folders also hold promos and edits, so
-a file only counts if its duration is within 1% of the YouTube video's; .m4a is
-preferred, then .mp4/.mov/.mp3. Otherwise the audio comes from YouTube via yt-dlp.
+Audio source: the published YouTube video, via yt-dlp -- always, even when a local
+recording exists. (Changed 28 Sep 2026: this used to prefer a same-length local file
+in ~/Documents/~TECHSPRESSIONISM/VIDEO for speed, but the local recording is the RAW
+Zoom capture, and Colin routinely trims/cuts it before publishing -- a same-duration
+local file can still be minutes of content offset from the real video, silently
+putting every Whisper timestamp on the wrong timeline. Found via Roundtable 6: its
+local-sourced Whisper transcript agreed with Zoom's timing well enough that Stage 2b's
+alignment check treated it as a valid reference and reported "no shift needed", when
+the real published video actually needed a growing 13-17s correction throughout.)
+find_local_audio() and its 1%-duration-match search are kept ONLY as a last-resort
+fallback when yt-dlp cannot fetch the video at all (removed, private, geo-blocked) --
+that result is marked "audio_source": "local-fallback" in the output so a session
+using it is visible and its timing should be treated as unverified against YouTube.
 
-Safety check: a wrong-but-similar-length file would transcribe the wrong
-recording without any error. So when YouTube captions exist, the Whisper text
+Safety check: a wrong-but-similar-length local-fallback file would transcribe the
+wrong recording without any error. So when YouTube captions exist, the Whisper text
 is compared against them (share of word pairs in common). Below
 CROSSCHECK_MIN_OVERLAP the result goes to raw/whisper/rejected/ and is NOT used.
+This only catches a wrong RECORDING, not a right-recording-wrong-TIMELINE offset --
+see the audio-source note above for why that needed a different fix.
 
 Known gap: the spec calls for per-segment language detection ("at least
 one Salon (#48) includes French-language presentation... preserve the
@@ -192,19 +202,22 @@ def transcribe_session(session, keep_audio):
 
     audio_source = "cached"
     if not wav_path.exists():
-        local_audio = find_local_audio(session)
-        if local_audio:
-            print(f"  using local recording: {local_audio}")
-            resample_to_whisper_wav(local_audio, wav_path)
-            audio_source = f"local:{local_audio}"
-        else:
-            print(f"  no matching local recording, extracting from YouTube ({session['video_id']})")
+        try:
+            print(f"  extracting audio from YouTube ({session['video_id']})")
             raw_wav = extract_audio_via_ytdlp(session["video_id"], AUDIO_CACHE_DIR)
             if not raw_wav:
-                raise RuntimeError(f"Could not extract audio for {label(session)}")
+                raise RuntimeError(f"yt-dlp returned no audio for {session['video_id']}")
             resample_to_whisper_wav(raw_wav, wav_path)
             raw_wav.unlink()  # ~700 MB per hour, and only wanted for the resample
             audio_source = "youtube"
+        except Exception as exc:
+            local_audio = find_local_audio(session)
+            if not local_audio:
+                raise RuntimeError(f"Could not extract audio for {label(session)} (YouTube failed: {exc}; no matching local recording either)")
+            print(f"  YouTube extraction failed ({exc}); falling back to local recording: {local_audio}")
+            print("  WARNING: local audio is the raw Zoom capture -- its timing is unverified against the published video")
+            resample_to_whisper_wav(local_audio, wav_path)
+            audio_source = f"local-fallback:{local_audio}"
 
     print(f"  transcribing with {MODEL_REPO}...")
     result = mlx_whisper.transcribe(str(wav_path), path_or_hf_repo=MODEL_REPO, word_timestamps=True, verbose=False)
