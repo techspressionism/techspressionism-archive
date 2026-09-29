@@ -761,6 +761,16 @@
       ],
       "whole_word": true,
       "notes": "ASR mishearing of the artist Oz Van Rosen (Colin, 28 Sep 2026)."
+    },
+    {
+      "canonical": "Femme Tech Salon",
+      "category": "event",
+      "known_asr_variants": [
+        "fem tech salon",
+        "Femtech salon"
+      ],
+      "whole_word": true,
+      "notes": "Salon 43's own name (moderated by Roz Dimon) -- not a mishearing of Techspressionism, confirmed by Colin 29 Sep 2026."
     }
   ]
 }

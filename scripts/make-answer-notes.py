@@ -18,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 FORCE = "--force" in sys.argv
 corpus = json.loads((ROOT / "corpus" / "corpus.json").read_text())
+VOCAB_CANONICALS = {t["canonical"].lower() for t in json.loads((ROOT / "data" / "vocabulary.json").read_text())["terms"]}
 
 
 def hms(t):
@@ -45,16 +46,25 @@ PH = rf"(?:{PREFIX})[\s-]?(?:{SUFFIX})s?|text expressions?|texpressions?"
 rx = re.compile(r"\b(" + PH + r")\b", re.I)
 ALREADY_CORRECT = re.compile(r"^techspression", re.I)  # never flag the real word itself
 BARE_EXCLUDE = re.compile(r"^expressionist|^expressionism", re.I)
+# a confirmed-correct vocabulary.json canonical (e.g. "Femme Tech Salon") can still contain a substring that matches
+# PH ("Tech Salon") -- never flag a match that falls inside one of those, once Colin has settled it (29 Sep 2026).
+CANON_RX = re.compile("|".join(re.escape(c) for c in VOCAB_CANONICALS), re.I) if VOCAB_CANONICALS else None
 groups = {}  # lowercased phrase -> {"count": int, "recordings": set, "example": (e, sent, tm, speaker) -- the SHORTEST sentence seen, for readability}
 for e in corpus:
     for s in e["segments"]:
         t = s.get("text") or ""
         if not rx.search(t):
             continue
+        canon_spans = [(cm.start(), cm.end()) for cm in CANON_RX.finditer(t)] if CANON_RX else []
         for pi, p in enumerate(t.split("\n\n")):
             for m in rx.finditer(p):
                 phrase = m.group(0)
                 if ALREADY_CORRECT.match(phrase) or BARE_EXCLUDE.match(phrase):
+                    continue
+                # re-locate this paragraph-relative match in the full segment text to check against canon_spans
+                seg_offset = t.find(p)
+                ms, me = seg_offset + m.start(), seg_offset + m.end()
+                if any(cs <= ms and me <= ce for cs, ce in canon_spans):
                     continue
                 key = phrase.lower()
                 g = groups.setdefault(key, {"count": 0, "recordings": set(), "example": None})
