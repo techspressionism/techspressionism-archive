@@ -22,51 +22,47 @@ Hello. My name is Colin Goldberg, and today is Thursday, October 3, rd 2024. We 
 
 It also serves the purpose of introducing a lot of the Techspressionist community artists to working on the blockchain to minting. And just general you know, kind of exposure to nfts in the blockchain, which I think is really important. And without further ado. I'm just gonna ask everyone who is not sharing on their work actively, which would be basically everybody to mute your microphones, and then I'll let Carrie Ann and Joey kind of explain the general format for this salon, so I will hand the mic over to them.
 
-## Unattributed [01:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=111s)
+## cari ann shim sham [01:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=111s)
 
-Cari ann shim sham**: Thank you, Colin. Cari ann shim sham**: Welcome everyone. Cari ann shim sham**: So the general format will be. We're going to start with our curator statement. Cari ann shim sham**: We're going to then take you to the mounta.org site to look at the exhibition there. Cari ann shim sham**: and then we will enter into the metaverse space, the loop room, where we will do a walkthrough and visit each of the artworks, which all of the artists will take turns speaking to their work Cari ann shim sham**: for approximately 2 min each.
+Thank you, Colin. Welcome everyone. So the general format will be. We're going to start with our curator statement. We're going to then take you to the mounta.org site to look at the exhibition there. And then we will enter into the metaverse space, the loop room, where we will do a walkthrough and visit each of the artworks, which all of the artists will take turns speaking to their work for approximately 2 min each. And after that we're gonna have a party in the in the loop room woo to celebrate 4 years of salons congratulations to expressionism.
 
-Cari ann shim sham**: And after that we're gonna have a party in the in the loop room woo to celebrate 4 years of salons congratulations to expressionism. Cari ann shim sham**: And for us, we're starting into our 5th year. And this is our 11th exhibition. Cari ann shim sham**: So let's start with our curator statement. Cari ann shim sham**: You're a Techspressionist when you say you are Cari ann shim sham**: is more than a declaration. It's an invitation to embark on a collective exploration of a transformative artistic movement that bridges technology and emotional expression Cari ann shim sham**: at its core. Techspressionism is an evolving dialogue between digital innovation and raw emotional truth.
+And for us, we're starting into our 5th year. And this is our 11th exhibition. So let's start with our curator statement. You're a Techspressionist when you say you are is more than a declaration. It's an invitation to embark on a collective exploration of a transformative artistic movement that bridges technology and emotional expression At its core. Techspressionism is an evolving dialogue between digital innovation and raw emotional truth. It calls upon digital creatives to identify with and contribute to a community where technology becomes a tool.
 
-Cari ann shim sham**: It calls upon digital creatives to identify with and contribute to a community Cari ann shim sham**: where technology becomes a tool. Cari ann shim sham**: not just for creation, but for profound emotional articulation. Cari ann shim sham**: Yeah, I'm very excited. Just to say that for this exhibition Joey Zaza Cari ann shim sham**: Expressionism draws its roots from the expressionist movement which emerged in the early 20th century as a radical departure from traditional artistic representation.
+Not just for creation, but for profound emotional articulation. Yeah, I'm very excited. Just to say that for this exhibition Joey Zaza Expressionism draws its roots from the expressionist movement which emerged in the early 20th century as a radical departure from traditional artistic representation. Expressionism sought to convey deep emotional experiences, often through distorted forms and vivid colors reacting against the constraints of realism.
 
-Cari ann shim sham**: Expressionism sought to convey deep emotional experiences, often through distorted forms and vivid colors reacting against the constraints of realism. Cari ann shim sham**: In this spirit expressionism continues this trajectory into the digital age, however, it does not merely replicate expressionist principles. It reimagines them through the lens of contemporary technology. Cari ann shim sham**: The movement embraces digital media virtual environments and interactive platforms to explore and communicate the complexities of human emotions. Expressionism explores the cutting edge of digital artwork with this investigation of artificial intelligence systems and financialization of digital assets. But it is not just limited.
+In this spirit expressionism continues this trajectory into the digital age, however, it does not merely replicate expressionist principles. It reimagines them through the lens of contemporary technology. The movement embraces digital media virtual environments and interactive platforms to explore and communicate the complexities of human emotions. Expressionism explores the cutting edge of digital artwork with this investigation of artificial intelligence systems and financialization of digital assets. But it is not just limited.
 
-Cari ann shim sham**: To the medium of digital art as it expands behind the screen. Cari ann shim sham**: This exhibition at the Museum of wild and newfangled art marks a significant moment in the evolution of Techspressionism. Cari ann shim sham**: our partnership highlights a shared commitment to pushing boundaries and rethinking the relationship between art. Cari ann shim sham**: technology and community. Cari ann shim sham**: With this exhibition we present a curated selection of works that embody the ethos of Techspressionism.
+To the medium of digital art as it expands behind the screen. This exhibition at the Museum of wild and newfangled art marks a significant moment in the evolution of Techspressionism. Our partnership highlights a shared commitment to pushing boundaries and rethinking the relationship between art. Technology and community. With this exhibition we present a curated selection of works that embody the ethos of Techspressionism. Art that is both technologically innovative and deeply personal.
 
-Cari ann shim sham**: art that is both technologically innovative and deeply personal. Cari ann shim sham**: Our previous exhibition exit plan Cari ann shim sham**: critically examined. The practices of web 2.0 pushing Mauna to reevaluate its digital engagement strategies. Cari ann shim sham**: This led us to leave harmful platforms and embrace new platforms like warpcast and rodeo which offer models for artist compensation and community interaction.
+Our previous exhibition exit plan Critically examined. The practices of web 2.0 pushing Mauna to reevaluate its digital engagement strategies. This led us to leave harmful platforms and embrace new platforms like warpcast and rodeo which offer models for artist compensation and community interaction. Warpcast, decentralization, and Rodeo's equitable compensation reflect our dedication to fostering a more sustainable and artist-centered digital ecosystem and help us to promote this show and get the artists paid.
 
-Cari ann shim sham**: warpcast, decentralization, and Rodeo's equitable compensation reflect our dedication to fostering a more sustainable and artist-centered digital ecosystem and help us to promote this show and get the artists paid. Cari ann shim sham**: As we launch this exhibition we also celebrate the 87th Expressionism Salon, a vibrant forum that has championed diverse voices and facilitated meaningful dialogues among artists from the past 4 years.
+As we launch this exhibition we also celebrate the 87th Expressionism Salon, a vibrant forum that has championed diverse voices and facilitated meaningful dialogues among artists from the past 4 years. These salons have proven essential, especially during the pandemic providing a crucial platform for artistic exchange and community building. In addition to our collaboration with Techspressionism, we are excited to partner with Loop Art Critique as our Xr exhibition, hub, Loop Art Critique merges the concept of Gissam Kunstwerk, a total work of art with contemporary digital and traditional art critique inspired by historical salons, loop fosters in-depth conversation between artists focusing on the art itself rather than the artist's backgrounds. Loop's approach contrasts sharply with the often superficial exchanges on social media, offering a space where meaningful interactions are paramount.
 
-Cari ann shim sham**: These salons have proven essential, especially during the pandemic providing a crucial platform for artistic exchange and community building. Cari ann shim sham**: In addition to our collaboration with Techspressionism, we are excited to partner with Loop Art Critique Cari ann shim sham**: as our Xr exhibition, hub, Loop Art Critique merges the concept of Gissam Kunstwerk, a total work of art with contemporary digital and traditional art critique inspired by historical salons, loop fosters in-depth conversation between artists focusing on the art itself rather than the artist's backgrounds. Loop's approach contrasts sharply with the often superficial exchanges on social media, offering a space where meaningful interactions are paramount.
+Loop facilitates discussions that enrich our exhibition and reinforcing the value of thoughtful building. The power of gathering, whether physical or virtual, lies in its ability to foster connections, inspire creativity and challenge conventions. Mauna, Techspressionism, and Loop archatigue are united in their commitment to these ideals. This exhibition stands as a Testament to the dynamic interplay between technology and emotional expression, showcasing a diverse array of artworks that are as unique as the artists behind them as Techspressionism celebrates 4 years of communal gatherings and salon discussions, and as Mauna marks 4 years of curatorial innovation, this exhibition represents a milestone in our shared journey, it is a celebration of creativity, technology and community, a reflection of what it means to be human in an ever evolving digital landscape and wrapping up, we invite you to experience the exhibition, not just as spectators, but as participants in an ongoing dialogue about the intersection of technology and emotion. The artworks on display are a Testament to the innovative spirit of Techspressionism and a reminder of the profound ways in which art can capture the essence of our digital age.
 
-Cari ann shim sham**: loop facilitates discussions that enrich our exhibition and reinforcing the value of thoughtful building. Cari ann shim sham**: The power of gathering, whether physical or virtual, lies in its ability to foster connections, inspire creativity and challenge conventions. Mauna, Techspressionism, and Loop archatigue are united in their commitment to these ideals. Cari ann shim sham**: This exhibition stands as a Testament to the dynamic interplay between technology and emotional expression, showcasing a diverse array of artworks that are as unique as the artists behind them Cari ann shim sham**: as Techspressionism celebrates 4 years of communal gatherings and salon discussions, and as Mauna marks Cari ann shim sham**: 4 years of curatorial innovation, this exhibition represents a milestone in our shared journey, it is a celebration of creativity, technology and community, a reflection of what it means to be human in an ever evolving digital landscape Cari ann shim sham**: and wrapping up, we invite you to experience the exhibition, not just as spectators, but as participants in an ongoing dialogue about the intersection of technology and emotion. The artworks on display are a Testament to the innovative spirit of Techspressionism and a reminder of the profound ways in which art can capture the essence of our digital age.
+And now it's party time. Yay, let's look at some art people. We're gonna share our screen.
 
-Cari ann shim sham**: And now it's party time. Yay, let's look at some art people. We're gonna share our screen.
+So this is our exhibition page, our splash page, our entrance page. This is the fancy button that allows you inside. And here is the Curator statement that we just read. And you scroll down to the bottom. You click the next, and here we are. So this site is an Elegant and Intimate way of experiencing the art, with no distractions, no doom scrolling, no pop-up windows, no advertisements. And if you arrow or scroll down a little bit, there's a question mark that tells you the name of the work.
 
-Cari ann shim sham**: So this is our exhibition page, our splash page, our entrance page. Cari ann shim sham**: This is the fancy button that allows you inside. And here is the Cari ann shim sham**: curator statement that we just read. Cari ann shim sham**: and you scroll down to the bottom. You click the next, and here we are. Cari ann shim sham**: So Cari ann shim sham**: this site Cari ann shim sham**: is a Cari ann shim sham**: elegant Cari ann shim sham**: and Cari ann shim sham**: intimate way of experiencing the art, with no distractions, no doom scrolling, no pop-up windows, no advertisements.
+This is ornamental uncertainty, sequencing the patterns of peaceful coexistence by Galina Shevchenko. And if you want to go to the next work, you just click on this arrow to the right, and that takes you to the next.
 
-Cari ann shim sham**: and if you arrow or scroll down a little bit, there's a question mark that tells you the name of the work. Cari ann shim sham**: This is ornamental uncertainty, sequencing the patterns of peaceful coexistence by Galina Shevchenko. And if you want to go to the next work, you just click on this arrow to the right, and that takes you to the next.
+So here you are inside of the work. You can mouse around and interact with this word. So we actually installed Ross's piece into our site. And again scrolling down, we have the question mark to show the name and the next arrow to get to the next work? So that is our so site. Say again. Yeah. And then when there's an nft that's linked to the associated artwork, you'll see that in the question mark. So this work happens to be minted onto the object.com site. So you can see the glb here and kind of mouse around, and it's available for purchase. There's a variety of different platforms that we're working with our exhibitions usually.
 
-Cari ann shim sham**: So here you are inside of the work. You can mouse around and interact with this word. Cari ann shim sham**: So we actually installed Ross's piece into our site. Cari ann shim sham**: and again scrolling down, we have the question mark to show the name and the next arrow to get to the next work? Cari ann shim sham**: So that is our Cari ann shim sham**: so Cari ann shim sham**: site. Say again. Cari ann shim sham**: yeah. And then when there's an nft that's linked to the associated artwork, you'll see that in the question mark. So this work happens to be minted Cari ann shim sham**: onto the object.com site. So you can see the glb here and kind of mouse around, and it's available for purchase. There's a variety of different platforms that we're working with our exhibitions usually.
+Or on blockchain, such as ethereum and tezos, and anywhere the artist wants to mint, we're open to that. And of course, a lot of the works in our exhibitions are unminted as well. Our priority 1st is to be a place to exhibit art. And the nfts have provided a good way Of allowing the artist to receive compensation for their work. So if you just click the question, mark, and you see a link that will bring you to the page where the work will be available for sale. If it is so that's kind of how the exhibition works. On the mountain site. And now we're going to go over into the loop space where everyone will be invited to talk about their work.
 
-Cari ann shim sham**: or on blockchain, such as ethereum and tezos, and anywhere the artist wants to mint, we're open to that. And of course, a lot of the works in our exhibitions are unminted as well. Our priority 1st is to be a place to exhibit art. Cari ann shim sham**: and the nfts have provided a good way Cari ann shim sham**: of allowing the artist to receive compensation for their work. So if you just click the question, mark, and you see a link that will bring you to the page where the work will be available for sale. If it is Cari ann shim sham**: so that's kind of how the exhibition works. On the mountain site. And now we're going to go over Cari ann shim sham**: into the loop space where everyone will be invited to talk about their work.
+So to enter the loop room which you'll be doing after this you will go visit the loop room, you click here, and we enter into the space, you'll see the loading, and it's telling you the objects that are in the space. There's 142 objects in the space. That's a lot of objects. Those objects are mostly art. And you'll get prompted to join. It'll ask you to test your audio. And you will enter the space.
 
-Cari ann shim sham**: So to enter the loop room which you'll be doing after this Cari ann shim sham**: you will go visit the loop room, you click here, and we enter into the space, you'll see the loading, and it's telling you the objects that are in the space. There's 142 objects in the space. Cari ann shim sham**: That's a lot of objects. Those objects are mostly art. Cari ann shim sham**: and you'll get prompted to join. It'll ask you to test your audio.
+So that is the way of entering into the space.
 
-Cari ann shim sham**: and you will enter the space.
+So here we are. We're going to quickly turn around. And we still have things loading.
 
-Cari ann shim sham**: So that is the Cari ann shim sham**: way of entering into the space.
+Alright, so you can see. These purple lobbies are The items for the objects that are loading.
 
-Cari ann shim sham**: So here we are. Cari ann shim sham**: we're going to quickly turn around. Cari ann shim sham**: and we still have things loading.
+So we'll just wait for those to propagate.
 
-Cari ann shim sham**: alright, so you can see. These purple lobbies Cari ann shim sham**: are Cari ann shim sham**: the items for the objects that are loading.
+And we will start.
 
-Cari ann shim sham**: so we'll just wait for those to propagate.
-
-Cari ann shim sham**: and we will start.
-
-Cari ann shim sham**: with the Green Sun. Cari ann shim sham**: by Sahar Cari ann shim sham**: Mousavi, and you'll see there's a link here, and that means that it is Cari ann shim sham**: on sale at object dot com. So if you click on that link, it'll take you to object where you can buy this work. Cari ann shim sham**: So, Sahar. Cari ann shim sham**: would you like to speak.
+With the Green Sun. By Sahar Mousavi, and you'll see there's a link here, and that means that it is on sale at object dot com. So if you click on that link, it'll take you to object where you can buy this work. So, Sahar. Would you like to speak.
 
 ## Sahar Moussavi [13:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=836s)
 
@@ -78,25 +74,25 @@ I mean, it's challenging times drawing inspiration from the landscapes of the Mi
 
 Although the trip in this. Where the tree looks barren in this piece. But it may gradually thrive in the future. Thank you so much for presenting the art and giving me time.
 
-## Unattributed [16:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=982s)
+## cari ann shim sham [16:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=982s)
 
-Cari ann shim sham**: Beautiful. Thank you so much, Sahar.
+Beautiful. Thank you so much, Sahar.
 
 ## Sahar Moussavi [16:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=987s)
 
 Friends.
 
-## Unattributed [16:39](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=999s)
+## cari ann shim sham [16:39](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=999s)
 
-Cari ann shim sham**: So this is. Cari ann shim sham**: short circuit.
+So this is. Short circuit.
 
-Cari ann shim sham**: by Bena Gain. Marie and Benna has been with us since the very beginning. Cari ann shim sham**: Benna is in Europe, and not with us today. Cari ann shim sham**: And we're just really happy to continue to showcase this artist. Cari ann shim sham**: The work is available on object, and Cari ann shim sham**: it's already sold circus by banana.
+By Bena Gain. Marie and Benna has been with us since the very beginning. Benna is in Europe, and not with us today. And we're just really happy to continue to showcase this artist. The work is available on object, and it's already sold circus by banana.
 
-Cari ann shim sham**: We have machine texture. By Michael Woodruff. Michael, are you? Here. Cari ann shim sham**: is Michael here?
+We have machine texture. By Michael Woodruff. Michael, are you? Here. Is Michael here?
 
-Cari ann shim sham**: I know Lucy's here.
+I know Lucy's here.
 
-Cari ann shim sham**: Missy Boyd Williams, Earth, Tree, Sky Orbs.
+Missy Boyd Williams, Earth, Tree, Sky Orbs.
 
 ## Lucy Boyd-Wilson [18:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1105s)
 
@@ -112,9 +108,9 @@ States in Uk and Canada. And. So it was created in virtual reality, and then ren
 
 But this is an earth tree sky, and just a little journey, exploring the sort of history of a tree from earth to sky, starting in the roots and up into the leaves, and then kind of Delving into Skyness. And that's my piece of truth. Thank you.
 
-## Unattributed [20:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1238s)
+## cari ann shim sham [20:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1238s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: Yeah. And we should say that when you are in the space, you can click on this button, and it takes you to the other world. So do try that. It's really exciting. Cari ann shim sham**: Next up. Thank you so much, Lucy. Let's give Lucy a hand. Everyone. Cari ann shim sham**: Lucy's been working in the loop space extensively, was in Cari ann shim sham**: the loop. Art critique Cari ann shim sham**: alright. Who do we have here? We have Cynthia. Cari ann shim sham**: overdressed Cari ann shim sham**: Cynthia. Cari ann shim sham**: Can we hear from you.
+Thank you. Yeah. And we should say that when you are in the space, you can click on this button, and it takes you to the other world. So do try that. It's really exciting. Next up. Thank you so much, Lucy. Let's give Lucy a hand. Everyone. Lucy's been working in the loop space extensively, was in The loop. Art critique Alright. Who do we have here? We have Cynthia. Overdressed Cynthia. Can we hear from you.
 
 ## Allen Hirsh [21:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1275s)
 
@@ -122,43 +118,41 @@ We certainly can. Hello, everyone. Thank you. Joey and Carrie Ann and Colin, for
 
 This is an intuitive, Techspressionistic interpretation of fabric-like form and texture. Undulating in a horizontal repose. I thank you for giving me the opportunity to talk about my work. Thank you. Everyone.
 
-## Unattributed [22:33](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1353s)
+## cari ann shim sham [22:33](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1353s)
 
-Cari ann shim sham**: Thank you, Cynthia. Bravo! Bravo! Shall I say? Bravo!
+Thank you, Cynthia. Bravo! Bravo! Shall I say? Bravo!
 
-Cari ann shim sham**: I'm the place where the light goes out by Sandrine Dumiera. Cari ann shim sham**: I'm not sure Sandra Praboon is with us today.
+I'm the place where the light goes out by Sandrine Dumiera. I'm not sure Sandra Praboon is with us today.
 
-Cari ann shim sham**: This is approximately a 6 min film. Cari ann shim sham**: And it is. Cari ann shim sham**: I have no words for this film. It's. Cari ann shim sham**: it's wild. It's entangled. Cari ann shim sham**: Now it's text, precious. Cari ann shim sham**: Yeah. Wonderful world. Some of the films in this space run for longer than 2 min, so Cari ann shim sham**: encourage everyone to come into the loose space and check them out or on the Mount Exhibition.
+This is approximately a 6 min film. And it is. I have no words for this film. It's. It's wild. It's entangled. Now it's text, precious. Yeah. Wonderful world. Some of the films in this space run for longer than 2 min, so encourage everyone to come into the loose space and check them out or on the Mount Exhibition. Yeah, this is one I just need some time to sit with personally and just Fake it in. It's just captivating great sound, too. Yeah, thank you. All right. You want to talk about Dr. Kim. Yeah, Doc.
 
-Cari ann shim sham**: Yeah, this is one I just need some time to sit with personally and just Cari ann shim sham**: fake it in. Cari ann shim sham**: It's just captivating Cari ann shim sham**: great sound, too. Cari ann shim sham**: Yeah, thank you. Cari ann shim sham**: All right. Cari ann shim sham**: you want to talk about Dr. Kim. Yeah, Doc. Cari ann shim sham**: Dr. Kim Hamilton is another one of the kind of wild and newfangled artists that we see Cari ann shim sham**: having Cari ann shim sham**: connection to what Expressionism is doing.
+Dr. Kim Hamilton is another one of the kind of wild and newfangled artists that we see having connection to what Expressionism is doing. We put the call out to our community. We wanted to kind of bring some of the artists from our space into the Techspressionist, space. This artist often works with various artificial intelligence text techniques we've been exhibiting with them for their work for a few years now it's always a joy to see what they're creating. And over the years, too. It's kind of remarkable that you know the artists continue to just surprise you, and they always sort of continue to make the work. Not too many artists fall off. I think once you start the practice, you sort of stay in it forever. This work is available on object. It's just Joy for me to see him.
 
-Cari ann shim sham**: We put the call out to our community. We wanted to kind of bring some of the artists from our space Cari ann shim sham**: into the Techspressionist, space. This artist often works with various artificial intelligence text techniques Cari ann shim sham**: we've been exhibiting with them for Cari ann shim sham**: their work for a few years now Cari ann shim sham**: it's always a joy to Cari ann shim sham**: to see Cari ann shim sham**: what they're creating. And over the years, too. It's kind of remarkable that Cari ann shim sham**: you know the artists continue to just surprise you, and they always sort of continue to make the work. Not too many Cari ann shim sham**: artists fall off. I think once you start the practice, you sort of stay in it forever. This work is available on object. Cari ann shim sham**: It's just Cari ann shim sham**: joy for me to see him.
+And Dr. Kim is coming to us from Australia. Which is why they're not here right now. I think they're sleeping.
 
-Cari ann shim sham**: and Dr. Kim is coming to us from Australia. Cari ann shim sham**: which is why they're not here right now. I think they're sleeping.
+All right. We have timber, tapestry. Vanity, Avila, are you here?
 
-Cari ann shim sham**: all right. Cari ann shim sham**: We have timber, tapestry. Cari ann shim sham**: vanity, Avila, are you here?
+I really love this work. You can really get up into it and see the details here. It reminds me of abalone and shell and crustacean and very see Oriented work. Yeah, some of the detail and the work in the exhibition is just fantastic. And I can't say enough. The quality of the artist coming from the Techspressionism Community. It's just it's like world class down to the down to the pixel and it's why I need so much time to sit with the exhibition and just really take it in and get into some of the detail. And so on.
 
-Cari ann shim sham**: I really love this work. Cari ann shim sham**: You can really get up into it Cari ann shim sham**: and see the details here. Cari ann shim sham**: It reminds me of abalone and shell and crustacean and Cari ann shim sham**: very see Cari ann shim sham**: oriented work. Cari ann shim sham**: Yeah, some of the detail Cari ann shim sham**: and the work in the exhibition is just fantastic. Cari ann shim sham**: And I can't say enough. The quality of the artist coming from the Techspressionism Cari ann shim sham**: community. It's just it's like world class down to the down to the pixel Cari ann shim sham**: And it's why I need so much time to sit with the exhibition and just really take it in and get into some of the detail. And so on.
+Night swatch by Adrian Wartzel. Yeah, Adrian is on the zoom. I'm not sure if going to speak or not. Would you like to speak, Adrian? 2 min.
 
-Cari ann shim sham**: Night swatch by Adrian Wartzel. Cari ann shim sham**: Yeah, Adrian is on the zoom. I'm not sure if going to speak or not. Would you like to speak, Adrian? Cari ann shim sham**: 2 min.
+It might be. Are they coming.
 
-Cari ann shim sham**: it might be. Cari ann shim sham**: are they coming.
+Annette? Are you with us today? Annette? Ghosted artifacts, zigzags, twists, and turns by Annette Wingtrub.
 
-Cari ann shim sham**: Annette? Cari ann shim sham**: Are you with us today? Annette? Cari ann shim sham**: Ghosted artifacts, zigzags, twists, and turns by Annette Wingtrub.
+Him.
 
-Cari ann shim sham**: Him.
+Melted architecture. I know Tim's over in Europe, and very, very busy exhibiting right now. So I don't think they're with us today. And this is another one where you can really get into that detail and see what's going on this digital painting. It's fun. You can fly through the paintings. All right next up.
 
-Cari ann shim sham**: melted architecture. Cari ann shim sham**: I know Tim's over in Europe, and very, very busy exhibiting right now. So I don't think they're with us today. Cari ann shim sham**: And this is another one where you can really get into that detail Cari ann shim sham**: and see Cari ann shim sham**: what's going on Cari ann shim sham**: this digital painting. It's fun. You can fly through the paintings. Cari ann shim sham**: all right next up.
-
-Cari ann shim sham**: Deanne. You're here.
+Deanne. You're here.
 
 ## Deann Stein Hasinoff [27:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1675s)
 
 I am here. Yeah.
 
-## Unattributed [27:57](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1677s)
+## cari ann shim sham [27:57](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1677s)
 
-Cari ann shim sham**: Balance. Cari ann shim sham**: Would you like to talk about your work? Yeah, wonderful.
+Balance. Would you like to talk about your work? Yeah, wonderful.
 
 ## Deann Stein Hasinoff [28:03](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1683s)
 
@@ -166,9 +160,9 @@ Well, thanks again. Like, as everyone has said to Carrie Ann and Joey for organi
 
 And so this one I call balance because feel like I struck the right balance in terms of the composition and the overall sense. I feel a sense of calm when.
 
-## Unattributed [29:00](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1740s)
+## cari ann shim sham [29:00](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1740s)
 
-Cari ann shim sham**: Thank you, Deanne. Adrian, did you want to speak to your work?
+Thank you, Deanne. Adrian, did you want to speak to your work?
 
 ## Adrienne Wortzel [29:04](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1744s)
 
@@ -178,15 +172,15 @@ And to be part of the cannon Of fine art through history. So they're made in dif
 
 Thank you.
 
-## Unattributed [30:35](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1835s)
+## cari ann shim sham [30:35](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1835s)
 
-Cari ann shim sham**: Amazing. Thank you.
+Amazing. Thank you.
 
-Cari ann shim sham**: Hey, Tommy.
+Hey, Tommy.
 
-Cari ann shim sham**: that Tommy, man.
+That Tommy, man.
 
-Cari ann shim sham**: I don't think this artist is with a nomaritzu. It was Marito. Okay. Cari ann shim sham**: wait. Would you like to speak.
+I don't think this artist is with a nomaritzu. It was Marito. Okay. Wait. Would you like to speak.
 
 ## Moritz Albrecht [31:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1876s)
 
@@ -198,33 +192,31 @@ So it gives very much room for interpretation in the end, what we see in the in 
 
 It's a bit washed out. You can see, maybe patterns in it for structures. But Yeah, after all, altogether, it's like it's very diverse, but also Equivalent. So the same. Yeah.
 
-## Unattributed [34:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2057s)
+## cari ann shim sham [34:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2057s)
 
-Cari ann shim sham**: Thank you. Thank you so much. We love it. Cari ann shim sham**: The word Cari ann shim sham**: I want to see it minted so I can I get a Cari ann shim sham**: yeah. Cari ann shim sham**: give me one a minute.
+Thank you. Thank you so much. We love it. The word I want to see it minted so I can I get a Yeah. Give me one a minute.
 
 ## Moritz Albrecht [34:28](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2068s)
 
 Yeah, I will. I will do it before Mr.
 
-## Unattributed [34:34](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2074s)
+## cari ann shim sham [34:34](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2074s)
 
-Cari ann shim sham**: All right.
+All right.
 
-Cari ann shim sham**: The wind blows in every direction. Sherry Karver. Cari ann shim sham**: Yeah. Sherry's I don't believe is on has given us Cari ann shim sham**: something to read. So we're gonna Cari ann shim sham**: go with that. Cari ann shim sham**: This piece. The wind blows in every direction is my movement, interrupted series which harnesses data, corruption glitches that occur on my TV screen due to uneven reception. Cari ann shim sham**: This series uses a breakdown of technology for aesthetic purposes within a fine art context.
+The wind blows in every direction. Sherry Karver. Yeah. Sherry's I don't believe is on has given us something to read. So we're gonna go with that. This piece. The wind blows in every direction is my movement, interrupted series which harnesses data, corruption glitches that occur on my TV screen due to uneven reception. This series uses a breakdown of technology for aesthetic purposes within a fine art context. I photograph my TV screen the moment the image, pixelates and fragments, stretching the colors, lines, and shapes into a new format which disappears in a moment.
 
-Cari ann shim sham**: I photograph my TV screen the moment the image, pixelates and fragments, stretching the colors, lines, and shapes into a new format which disappears in a moment. Cari ann shim sham**: This is an actual, unaltered photograph, not created using Photoshop or any algorithm. Cari ann shim sham**: the little squares that arbitrarily appear reflect how our technological world interacts with and affect people and the environment itself.
+This is an actual, unaltered photograph, not created using Photoshop or any algorithm. The little squares that arbitrarily appear reflect how our technological world interacts with and affect people and the environment itself. It seems we are in an uncertain period in our history, where things are disintegrating and fragmenting on many levels, politically, socially, psychologically, and environmentally. This is what my work represents. Yet I see the beauty and hopefulness within the chaos.
 
-Cari ann shim sham**: It seems we are in an uncertain period in our history, where things are disintegrating and fragmenting on many levels, politically, socially, psychologically, and environmentally. Cari ann shim sham**: this is what my work represents. Yet I see the beauty and hopefulness within the chaos. Cari ann shim sham**: This series is printed as dye sublimation on metal, a very archival process in small editions. I've chosen to use metal rather than printing on paper, because the metal substrate shines through the surface, adding another visual layer of depth.
+This series is printed as dye sublimation on metal, a very archival process in small editions. I've chosen to use metal rather than printing on paper, because the metal substrate shines through the surface, adding another visual layer of depth. The industrial feel of the metal works well with contemporary digital technology and the glitches that occur. Thank you. Sherry Carter. Thank you. Sherry. Wonderful series.
 
-Cari ann shim sham**: The industrial feel of the metal works well with contemporary digital technology and the glitches that occur. Cari ann shim sham**: Thank you. Sherry Carter. Thank you. Sherry. Wonderful series.
+I'm a pixel by Una Renata. One of our mountain artists with AI. How many times a week. I mean, I should know the answer. Yeah, they've been working with AI video for some time around. Sort of, I mean before some of the kind of like the stable diffusion models and lumos were kind of blowing up. It's always kind of fascinating to see what some of this technology is doing easy. They were a great artist. They hadn't kind of been working in VR and all sorts of technologies and such and AI, and very, very heavy in the blockchain.
 
-Cari ann shim sham**: I'm a pixel by Una Renata. Cari ann shim sham**: one of our mountain artists Cari ann shim sham**: with AI. Cari ann shim sham**: How many times a week. Cari ann shim sham**: I mean, I should know the answer. Cari ann shim sham**: Yeah, they've been working with AI video for some time Cari ann shim sham**: around. Cari ann shim sham**: sort of, I mean before some of the kind of like the stable diffusion models and lumos were kind of blowing up. Cari ann shim sham**: it's always kind of fascinating to see what some of this technology is doing Cari ann shim sham**: easy. Cari ann shim sham**: They were a great artist. They hadn't kind of been working in VR Cari ann shim sham**: and all sorts of technologies and such and AI, and very, very heavy in the blockchain.
+Heaven's jewels. Sandra Pipken is Sandra here today?
 
-Cari ann shim sham**: Heaven's jewels. Cari ann shim sham**: Sandra Pipken Cari ann shim sham**: is Sandra here today?
+Yeah, this is a work by Sarah Ratabarovitch. Who I don't believe it's on The call. It's exploration. Between shape and glitch squared The circle and sort of the back and forth between the 2 works we've been exhibiting with Sarah. We 1st saw her work. It was A series of Intentionally breaking the cell phone to create glitch imagery. So those works we're wonderful to see. Yeah, that was a 2021 mounted biennial and we've stayed in contact and have exhibited their work since.
 
-Cari ann shim sham**: Yeah, this is a work by Sarah Ratabarovitch. Cari ann shim sham**: who Cari ann shim sham**: I don't believe it's on Cari ann shim sham**: the call. Cari ann shim sham**: It's exploration. Between shape Cari ann shim sham**: and glitch squared Cari ann shim sham**: the circle Cari ann shim sham**: and sort of the back and forth between the 2 Cari ann shim sham**: works we've been exhibiting with Sarah. We 1st saw her work. It was Cari ann shim sham**: a series of Cari ann shim sham**: intentionally breaking the cell phone to create glitch imagery. So Cari ann shim sham**: those works Cari ann shim sham**: we're wonderful Cari ann shim sham**: to see. Yeah, that was a 2021 mounted biennial and we've stayed in contact and have exhibited their work Cari ann shim sham**: since.
-
-Cari ann shim sham**: Lee Musgrave Lee has to be on here, Lee Musgrave in the house Cari ann shim sham**: aging Lee Musgrave. Cari ann shim sham**: we've got tickled. Fancy here for you to talk about Cari ann shim sham**: 2 min.
+Lee Musgrave Lee has to be on here, Lee Musgrave in the house Aging Lee Musgrave. We've got tickled. Fancy here for you to talk about 2 min.
 
 ## Lee Musgrave [38:45](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2325s)
 
@@ -236,27 +228,27 @@ I brought it into the studio. I threw it up in the air and it fell down on the w
 
 That whole process is what makes me feel great.
 
-## Unattributed [41:19](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2479s)
+## cari ann shim sham [41:19](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2479s)
 
-Cari ann shim sham**: Wonderful.
+Wonderful.
 
 ## Lee Musgrave [41:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2480s)
 
 Thank you for including me in this show.
 
-## Unattributed [41:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2483s)
+## cari ann shim sham [41:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2483s)
 
-Cari ann shim sham**: Thank you, Lee. Cari ann shim sham**: Wonderful, wonderful! Though. Cari ann shim sham**: like a fine wine. Cari ann shim sham**: it takes time.
+Thank you, Lee. Wonderful, wonderful! Though. Like a fine wine. It takes time.
 
-Cari ann shim sham**: Wirgum, by Malavika Mandal Andrew is Malavika.
+Wirgum, by Malavika Mandal Andrew is Malavika.
 
 ## Malavika Mandal Andrew [41:46](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2506s)
 
 Yeah. Yeah, hi.
 
-## Unattributed [41:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2509s)
+## cari ann shim sham [41:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2509s)
 
-Cari ann shim sham**: Hi.
+Hi.
 
 ## Malavika Mandal Andrew [41:52](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2512s)
 
@@ -264,11 +256,11 @@ Thank you, Mona, for organizing the beautiful exhibition. And, thanks to colleen
 
 So that's how the form has come up, and I have given the title of all the meaning of all the titles are animal. It's in different language. I say, I have used a Japanese, or I've used Spanish, but the meaning of everyone is animal. I didn't try to give some identity because it looks similar. It's not that's the we are developers. Thank you.
 
-## Unattributed [43:24](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2604s)
+## cari ann shim sham [43:24](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2604s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: That's wonderful. Cari ann shim sham**: I love that you're connecting into animals.
+Thank you. That's wonderful. I love that you're connecting into animals.
 
-Cari ann shim sham**: This is Robert A. Rips. I know Robert's here. Did you want to speak about this? Hi! Sure.
+This is Robert A. Rips. I know Robert's here. Did you want to speak about this? Hi! Sure.
 
 ## Robert A. Ripps [43:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2624s)
 
@@ -278,19 +270,19 @@ About what is truth and what is inarguably false, yet, touted as truth. It is ab
 
 What would happen if nature took hold if vegetation overgrew the familiar and transformed it into something altogether different and foreign-looking, but also strangely beautiful. And this image is from some photographs that I took in Vietnam at the beginning of the year that I put together to create this piece.
 
-## Unattributed [45:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2715s)
+## cari ann shim sham [45:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2715s)
 
-Cari ann shim sham**: Thank you so much that was so lovely. Cari ann shim sham**: really, really compelling to listen to you. Speak.
+Thank you so much that was so lovely. Really, really compelling to listen to you. Speak.
 
-Cari ann shim sham**: alright. We have stellar fire Cari ann shim sham**: from crystal matrix.
+Alright. We have stellar fire From crystal matrix.
 
 ## Bill Rogers [45:35](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2735s)
 
 I'm here.
 
-## Unattributed [45:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2736s)
+## cari ann shim sham [45:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2736s)
 
-Cari ann shim sham**: Hi.
+Hi.
 
 ## Bill Rogers [45:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2738s)
 
@@ -298,11 +290,11 @@ Hi, I'm Bill Rogers dialing in from sunny California. I'm the artist stellar fir
 
 It's not about explaining or understanding. My art is about feeling. I try to evoke a sense of depth, of movement and convey a sense of emotions through color and form. The abstract approach really frees my imagination, sparks my creativity. I follow the colors and go where they take me, and this is where they took me. This is my crystal matrix.
 
-## Unattributed [46:42](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2802s)
+## cari ann shim sham [46:42](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2802s)
 
-Cari ann shim sham**: Thank you. Thank you so much. Cari ann shim sham**: It's beautiful. Cari ann shim sham**: I can see the movement in there happening.
+Thank you. Thank you so much. It's beautiful. I can see the movement in there happening.
 
-Cari ann shim sham**: Karen, Lefleur, Fanwaves.
+Karen, Lefleur, Fanwaves.
 
 ## Karen LaFleur [47:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2828s)
 
@@ -310,27 +302,27 @@ Hi, everyone! I hope you can hear me. Yes, thank you. Joey and Carrie Ann and Co
 
 So thank you very much.
 
-## Unattributed [48:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2907s)
+## cari ann shim sham [48:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2907s)
 
-Cari ann shim sham**: This is Javier's work, Alpha Body, who was here earlier and had to run. Cari ann shim sham**: They're in Spain right now, and they had to go to a rehearsal. Cari ann shim sham**: But we had the pleasure of talking to Javier at the office hours. And, Cari ann shim sham**: They're a really gentle soul, beautiful soul! And Cari ann shim sham**: they're working with this idea of script and body and dance and movement Cari ann shim sham**: and alpha body, meaning Cari ann shim sham**: this kind of like layering of script and text with body.
+This is Javier's work, Alpha Body, who was here earlier and had to run. They're in Spain right now, and they had to go to a rehearsal. But we had the pleasure of talking to Javier at the office hours. And, they're a really gentle soul, beautiful soul! And they're working with this idea of script and body and dance and movement and alpha body, meaning this kind of like layering of script and text with body. And we really love their work. We've exhibited them before.
 
-Cari ann shim sham**: and we really love their work. We've exhibited them before. Cari ann shim sham**: and this work is available Cari ann shim sham**: on Tezos. Cari ann shim sham**: They also do a lot of work with landscape Cari ann shim sham**: as well. So there's the body seems to be a big core of their practice as well as Cari ann shim sham**: Land! I don't even know if it's landscapes. Land is sort of the subject. Cari ann shim sham**: Those 2 are interesting subjects to kind of have interweaving between each other.
+And this work is available on Tezos. They also do a lot of work with landscape as well. So there's the body seems to be a big core of their practice as well as Land! I don't even know if it's landscapes. Land is sort of the subject. Those 2 are interesting subjects to kind of have interweaving between each other.
 
-Cari ann shim sham**: Alan Kinnard Cari ann shim sham**: Green. Crack!
+Alan Kinnard Green. Crack!
 
-Cari ann shim sham**: I don't believe Alan is on, but this work is really cool, because Cari ann shim sham**: if you connect the art Vive app, this is augmented reality work. So you open the app on your phone and you point it to the screen, and it'll start to animate the work. Cari ann shim sham**: Which is cool. This is pretty high resolution, as a lot of the work is. Cari ann shim sham**: So you can usually get pretty far in and see some of the detail Cari ann shim sham**: as well. There's a lot of like layers of technology that are Cari ann shim sham**: happening sort of in the exhibition. I mean, we're in the spatial web space, and it's a digital artwork with a layer of augmented reality that's being sold on the cryptocurrency. So Cari ann shim sham**: it's like there's so many layers Cari ann shim sham**: of technology as we're on a zoom call Cari ann shim sham**: right and like, on and on and on different devices, and so on. Cari ann shim sham**: This work is Fay, by Genevie Cari ann shim sham**: Denny's another artist that we've been exhibiting Cari ann shim sham**: for a couple of years.
+I don't believe Alan is on, but this work is really cool, because if you connect the art Vive app, this is augmented reality work. So you open the app on your phone and you point it to the screen, and it'll start to animate the work. Which is cool. This is pretty high resolution, as a lot of the work is. So you can usually get pretty far in and see some of the detail as well. There's a lot of like layers of technology that are happening sort of in the exhibition. I mean, we're in the spatial web space, and it's a digital artwork with a layer of augmented reality that's being sold on the cryptocurrency. So it's like there's so many layers Of technology as we're on a zoom call right and like, on and on and on different devices, and so on. This work is Fay, by Genevie Denny's another artist that we've been exhibiting for a couple of years.
 
-Cari ann shim sham**: Working with beauty and technology together, exploring Cari ann shim sham**: self portraiture.
+Working with beauty and technology together, exploring self portraiture.
 
-Cari ann shim sham**: Andy.
+Andy.
 
 ## Cindy Hawkins [51:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3082s)
 
 Hi.
 
-## Unattributed [51:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3083s)
+## cari ann shim sham [51:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3083s)
 
-Cari ann shim sham**: Hi! You want to talk about nocturnal sprite.
+Hi! You want to talk about nocturnal sprite.
 
 ## Cindy Hawkins [51:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3085s)
 
@@ -340,69 +332,69 @@ Combination of insects and animals. And. I called them sprites. And I thought, w
 
 So this is an ongoing thing to come up with the story behind it all. And so I have, you know, plans for. How they come into these come into the world that way. And they come in as in a cocoon. Anyway, I'm just. It's developing. There'll be animations, and I'm do it to have fun with. I kind of escape into it. You know, the world can be a hard place, and I'm actually humbled to be part of this exhibition. Such moving work that I have. I mean, it is amazing.
 
-## Unattributed [53:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3229s)
+## cari ann shim sham [53:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3229s)
 
-Cari ann shim sham**: Thank you.
+Thank you.
 
 ## Cindy Hawkins [53:50](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3230s)
 
 About it.
 
-## Unattributed [53:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3231s)
+## cari ann shim sham [53:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3231s)
 
-Cari ann shim sham**: Thank you, Javier. We just saw that you're still on the zoom. Do you want to speak. Cari ann shim sham**: Alpha? Body Cari ann shim sham**: of your.
+Thank you, Javier. We just saw that you're still on the zoom. Do you want to speak. Alpha? Body Of your.
 
 ## Javier Aparicio Frago [54:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3248s)
 
 Hi! Hi! Hi! Thanks for saying Calling me because I was very glad to be here. But, as I told you yesterday. Hello, rehearschel, and thanks for calling me, and have the opportunity to talk about my work. And this is this is a piece. It's a call from a series that is called Choreo scripts, that this is mixing The human body movement, sometimes from choreography, from dancers. And mixing with writing systems. These writing systems are taking from Alphabets or other kind of writing system that this is not already being used right now, almost haven't done it writing system. So it's an idea to combine some movements from the body, from the these alphabets, and this is the main idea of the work.
 
-## Unattributed [55:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3316s)
+## cari ann shim sham [55:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3316s)
 
-Cari ann shim sham**: Thank you, Javier.
+Thank you, Javier.
 
 ## Javier Aparicio Frago [55:18](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3318s)
 
 Okay.
 
-## Unattributed [55:19](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3319s)
+## cari ann shim sham [55:19](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3319s)
 
-Cari ann shim sham**: Hear from you have a great rehearsal.
+Hear from you have a great rehearsal.
 
 ## Javier Aparicio Frago [55:21](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3321s)
 
 Thank you so much, Simon.
 
-## Unattributed [55:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3323s)
+## cari ann shim sham [55:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3323s)
 
-Cari ann shim sham**: Exactly.
+Exactly.
 
 ## Javier Aparicio Frago [55:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3323s)
 
 Party later. I would like to be here.
 
-## Unattributed [55:26](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3326s)
+## cari ann shim sham [55:26](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3326s)
 
-Cari ann shim sham**: We'll see you soon.
+We'll see you soon.
 
 ## Javier Aparicio Frago [55:28](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3328s)
 
 See you.
 
-## Unattributed [55:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3336s)
+## cari ann shim sham [55:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3336s)
 
-Cari ann shim sham**: Up, Tommy. Cari ann shim sham**: All right. Cari ann shim sham**: Here we are, with Downside up and through by Judith Jacobs.
+Up, Tommy. All right. Here we are, with Downside up and through by Judith Jacobs.
 
-Cari ann shim sham**: Judith, are you with us?
+Judith, are you with us?
 
 ## Allen Hirsh [55:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3356s)
 
 She was not able to be here. Carrie.
 
-## Unattributed [55:59](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3359s)
+## cari ann shim sham [55:59](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3359s)
 
-Cari ann shim sham**: Thank you so much, Cynthia. Cari ann shim sham**: Beautiful work. Cari ann shim sham**: Yeah. Lots of detailed texture in that part, for sure. Yeah. Cari ann shim sham**: This is the soundtrack to our trailer. If you've seen our trailer Cari ann shim sham**: posture by Xk. Cari ann shim sham**: ERX. Cari ann shim sham**: Not sure if they're with us today. Cari ann shim sham**: and Cari ann shim sham**: this song is forever playing, looping in my brain.
+Thank you so much, Cynthia. Beautiful work. Yeah. Lots of detailed texture in that part, for sure. Yeah. This is the soundtrack to our trailer. If you've seen our trailer Posture by Xk. ERX. Not sure if they're with us today. And this song is forever playing, looping in my brain.
 
-Cari ann shim sham**: Here we have. I, too, am a cat. By Cari ann shim sham**: Steven Perry! I think Steven's here, Steven.
+Here we have. I, too, am a cat. By Steven Perry! I think Steven's here, Steven.
 
 ## Stephen Paré [56:41](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3401s)
 
@@ -410,29 +402,29 @@ I am. Hello! I'm in Houston, Texas. First.st I want to thank you, Mauna, and tha
 
 Namely, to tell them that I am one of them. And this suggested A fictional character, who is, in fact, some hybrid of human and feline. And although I have not written a story that goes beyond this title, it has for me The suggestion in it of a longer story, and from that perspective the work is still open-ended and expandable.
 
-## Unattributed [58:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3509s)
+## cari ann shim sham [58:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3509s)
 
-Cari ann shim sham**: Beautiful. I love it. Cari ann shim sham**: Big cat lover! Here. Cari ann shim sham**: I, too, am the cat.
+Beautiful. I love it. Big cat lover! Here. I, too, am the cat.
 
-Cari ann shim sham**: Thank you so much. This is herbidden flowers. Cari ann shim sham**: I imagine Cari ann shim sham**: Tasabi and Likti. I'm not sure if they're here with us today. Cari ann shim sham**: Or if Patrick's here, I'm not sure Cari ann shim sham**: Patrick wants to speak to this. If they are here Cari ann shim sham**: beautiful work.
+Thank you so much. This is herbidden flowers. I imagine Tasabi and Likti. I'm not sure if they're here with us today. Or if Patrick's here, I'm not sure Patrick wants to speak to this. If they are here beautiful work.
 
-Cari ann shim sham**: Renada.
+Renada.
 
 ## Renata Janiszewska [59:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3551s)
 
 Yes.
 
-## Unattributed [59:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3552s)
+## cari ann shim sham [59:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3552s)
 
-Cari ann shim sham**: Hello!
+Hello!
 
 ## Renata Janiszewska [59:14](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3554s)
 
 Hello!
 
-## Unattributed [59:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3557s)
+## cari ann shim sham [59:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3557s)
 
-Cari ann shim sham**: Tell us, tell us about this mark.
+Tell us, tell us about this mark.
 
 ## Renata Janiszewska [59:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3560s)
 
@@ -444,11 +436,11 @@ They would have been half the size that they are, and they would have closed to 
 
 Post-contemporary, as Joey would say. And so I used very muted colors. I tried to convey a feeling of stillness in the objects that are in the work. I also put in some iconography that has to do with the ocean with shells. And, for example. The 2 lines of. Of shapes that you see going down and mark off the 3 parts. Those were my Shelves, because that kind of iconography was very common in during during the Southern Renaissance period.
 
-## Unattributed [01:02:32](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3752s)
+## cari ann shim sham [01:02:32](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3752s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: Thank you so much. It's so beautiful. And this is also available on object. Cari ann shim sham**: If you would like to purchase. Cari ann shim sham**: not as beautiful as Sunnyberg. Cari ann shim sham**: This is Reese. Schroeder circles. Flattened is Reese here with us today?
+Thank you. Thank you so much. It's so beautiful. And this is also available on object. If you would like to purchase. Not as beautiful as Sunnyberg. This is Reese. Schroeder circles. Flattened is Reese here with us today?
 
-Cari ann shim sham**: Yummy. Cari ann shim sham**: I know you're floating around your head.
+Yummy. I know you're floating around your head.
 
 ## Tommy Mintz [01:03:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3786s)
 
@@ -456,17 +448,17 @@ Floating around. I'm hoping to experiment here, since we're using this interesti
 
 Yeah, I think that's what I wanted to say. Thanks for thanks for everything. And really I do want to say one more thing, beautiful space that you generated here. Really, I love the method of exploring curatorial process within this virtual space, and whether it's indoor or outdoor around the bushes hanging free. This is really lovely. Thank you so much for including.
 
-## Unattributed [01:05:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3955s)
+## cari ann shim sham [01:05:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3955s)
 
-Cari ann shim sham**: Tommy.
+Tommy.
 
 ## Tommy Mintz [01:05:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3956s)
 
 Having us all here.
 
-## Unattributed [01:05:57](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3957s)
+## cari ann shim sham [01:05:57](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3957s)
 
-Cari ann shim sham**: Larry, I know you're in the room. Would you like to speak about Cari ann shim sham**: way the later.
+Larry, I know you're in the room. Would you like to speak about way the later.
 
 ## Larry Akers [01:06:03](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3963s)
 
@@ -476,31 +468,31 @@ And it's intended actually for creating layered images where a background geomet
 
 This is actually a snapshot of the collapsing of those 2 layers just into one digital image. But in doing the series of these, whereas I approached it purely as a, you know, work of geometric abstraction. What I discovered was that I was wandering into A set of different earthbound environments, you know, like an undersea or a deep aquatic environment, or deep forest, or there were other areas that were more like seared Landscapes, or even landscapes being consumed in an inferno, you know, suggested by, you know, our global warming problems. So it was really an interesting kind of crossover from that really purely geometric world into an abstract world that was earthbound. And I've had a lot of fun with that.
 
-## Unattributed [01:08:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4118s)
+## cari ann shim sham [01:08:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4118s)
 
-Cari ann shim sham**: Thank you, Larry. Cari ann shim sham**: Wonderful work. Cari ann shim sham**: we have over here. Cari ann shim sham**: Artificial fog series by Cari ann shim sham**: Argopakumar. I'm not sure if they're here with us today. Cari ann shim sham**: ours, not here. Ours, not here. Okay.
+Thank you, Larry. Wonderful work. We have over here. Artificial fog series by Argopakumar. I'm not sure if they're here with us today. Ours, not here. Ours, not here. Okay.
 
-Cari ann shim sham**: my screen.
+My screen.
 
-Cari ann shim sham**: in disappointment.
+In disappointment.
 
-Cari ann shim sham**: and reloading, my screen froze. So what we're really here to talk to you about today is technology. Cari ann shim sham**: wonderful, wonderful technology. Cari ann shim sham**: And how sometimes it just freezes. Give it a little reboot. And you're right back in the exhibition. Cari ann shim sham**: broke it. That's our intermission. There. Okay, act 2. Yeah. Act 2. I guess we can go left at this point. Cari ann shim sham**: She have to keep. Cari ann shim sham**: bear with us. We're almost Cari ann shim sham**: getting back to where we were okay.
+And reloading, my screen froze. So what we're really here to talk to you about today is technology. Wonderful, wonderful technology. And how sometimes it just freezes. Give it a little reboot. And you're right back in the exhibition. Broke it. That's our intermission. There. Okay, act 2. Yeah. Act 2. I guess we can go left at this point. She have to keep. Bear with us. We're almost getting back to where we were okay. Okay. Look at Beatrice Krone, who is not here with us today, but Longtime mauna artist. And this is a wonderful site that you can access through clicking on this link. It's a tarot from Siberia by Beatrice Kron.
 
-Cari ann shim sham**: Okay. Cari ann shim sham**: look at Beatrice Krone, who is not here with us today, but Cari ann shim sham**: longtime mauna artist. And this is a wonderful site Cari ann shim sham**: that you can access through clicking on this link. It's a tarot from Siberia by Beatrice Kron. Cari ann shim sham**: And you can ask questions and you click on this button, and it gives you a card. Cari ann shim sham**: a Tarot card in response. And they're all Cari ann shim sham**: from Siberia, meaning like the Internet Siberia Cari ann shim sham**: world that she's created. And she's a wonderful artist.
+And you can ask questions and you click on this button, and it gives you a card. A Tarot card in response. And they're all From Siberia, meaning like the Internet Siberia World that she's created. And she's a wonderful artist.
 
-Cari ann shim sham**: joining us.
+Joining us.
 
-Cari ann shim sham**: She does a lot of paper cutting work. Cari ann shim sham**: So let's move over here to Cari ann shim sham**: our other Cynthia, Cynthia Beth Ribbon. Cari ann shim sham**: who cannot join us today. Happy. Rosh Hashanah! Cari ann shim sham**: This is Eden's water, Eden waters. Microscopic life in the springtime of our earth. Cari ann shim sham**: Really beautiful work.
+She does a lot of paper cutting work. So let's move over here to our other Cynthia, Cynthia Beth Ribbon. Who cannot join us today. Happy. Rosh Hashanah! This is Eden's water, Eden waters. Microscopic life in the springtime of our earth. Really beautiful work.
 
-Cari ann shim sham**: by Cynthia. Cari ann shim sham**: Ross. Cari ann shim sham**: Would you like.
+By Cynthia. Ross. Would you like.
 
 ## Roz Dimon [01:11:24](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4284s)
 
 Hello! Hello! Everyone!
 
-## Unattributed [01:11:26](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4286s)
+## cari ann shim sham [01:11:26](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4286s)
 
-Cari ann shim sham**: Hi.
+Hi.
 
 ## Roz Dimon [01:11:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4287s)
 
@@ -512,33 +504,33 @@ But you go into the noses and you can go into the water. And all these crazy ima
 
 You know, we didn't have the same technology. But Macromedia was great. But it's I'm doing the kind of same thing. Almost all my work are still paintings that exist as a still painting, but they're also A place where you can dive into that painting. Anyway. Enjoy and thank you, Mauna. It's great to be in the Mounta Metaverse here with my favorite tech group art of artists. Techspressionism. Thank you so much.
 
-## Unattributed [01:14:34](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4474s)
+## cari ann shim sham [01:14:34](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4474s)
 
-Cari ann shim sham**: Thank you, Ross. And yeah, you can open the link just by clicking onto it as well as in our web. Cari ann shim sham**: Our 1st site that we showed you the Mauna Museum.
+Thank you, Ross. And yeah, you can open the link just by clicking onto it as well as in our web. Our 1st site that we showed you the Mauna Museum.
 
 ## Roz Dimon [01:14:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4484s)
 
 Oh, that's great, and I look forward to it someday, someday, being an nft, but.
 
-## Unattributed [01:14:50](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4490s)
+## cari ann shim sham [01:14:50](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4490s)
 
-Cari ann shim sham**: Yeah, yeah, we'll figure that out with you. We'll figure it out.
+Yeah, yeah, we'll figure that out with you. We'll figure it out.
 
 ## Roz Dimon [01:14:53](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4493s)
 
 Thank you.
 
-## Unattributed [01:14:53](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4493s)
+## cari ann shim sham [01:14:53](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4493s)
 
-Cari ann shim sham**: Yeah, we want to do that, too. Cari ann shim sham**: We're coming back over here. Cari ann shim sham**: Woo! Woo! Woo! Are you getting dizzy? Cari ann shim sham**: This is 1916. Cari ann shim sham**: Detrius by Lee Cari ann shim sham**: Schnadberg. Isley here.
+Yeah, we want to do that, too. We're coming back over here. Woo! Woo! Woo! Are you getting dizzy? This is 1916. Detrius by Lee Schnadberg. Isley here.
 
 ## Lee Schnaiberg [01:15:10](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4510s)
 
 Hey!
 
-## Unattributed [01:15:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4511s)
+## cari ann shim sham [01:15:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4511s)
 
-Cari ann shim sham**: Hi.
+Hi.
 
 ## Lee Schnaiberg [01:15:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4512s)
 
@@ -550,27 +542,27 @@ So I don't really feel like I'm smart enough to get really deep. But what I try 
 
 But I do feel everybody's really smart here. So.
 
-## Unattributed [01:17:40](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4660s)
+## cari ann shim sham [01:17:40](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4660s)
 
-Cari ann shim sham**: Thank you, Lee. Just like you, Lee. Wonderful work. Cari ann shim sham**: We all have our different intelligences. Cari ann shim sham**: and Cari ann shim sham**: I appreciate you, Lee.
+Thank you, Lee. Just like you, Lee. Wonderful work. We all have our different intelligences. And I appreciate you, Lee.
 
-Cari ann shim sham**: Alright. Let's come over to Chalda. I'm not sure if Childa's with us today. Childa, are you here? I think I saw you in the room.
+Alright. Let's come over to Chalda. I'm not sure if Childa's with us today. Childa, are you here? I think I saw you in the room.
 
 ## Chalda Maloff [01:18:02](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4682s)
 
 Yes, I am here.
 
-## Unattributed [01:18:04](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4684s)
+## cari ann shim sham [01:18:04](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4684s)
 
-Cari ann shim sham**: Oh, wonderful!
+Oh, wonderful!
 
 ## Chalda Maloff [01:18:05](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4685s)
 
 I'm putting my work.
 
-## Unattributed [01:18:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4686s)
+## cari ann shim sham [01:18:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4686s)
 
-Cari ann shim sham**: Yeah, let's look at your work Cari ann shim sham**: board on.
+Yeah, let's look at your work Board on.
 
 ## Chalda Maloff [01:18:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4691s)
 
@@ -580,11 +572,11 @@ And this one is called Poor Dawn. One of the things I did was Exaggerated. Scale
 
 Print. I reworked the file a little bit. So all 3 in this room does. Like the differences. So this health series is called Key. Thank you.
 
-## Unattributed [01:20:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4815s)
+## cari ann shim sham [01:20:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4815s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: Thank you. Cari ann shim sham**: Color palette is just so refreshing. I feel like I'm Cari ann shim sham**: fucking on candy.
+Thank you. Thank you. Color palette is just so refreshing. I feel like I'm Fucking on candy.
 
-Cari ann shim sham**: So here we have Fanny's firearms. Cari ann shim sham**: by Judith Carlin.
+So here we have Fanny's firearms. By Judith Carlin.
 
 ## Judith Carlin [01:20:41](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4841s)
 
@@ -596,13 +588,13 @@ The more horrific stuff I'm dealing with, the brighter I seem to get. And so and
 
 So thank you for selecting my work and congratulations to all the artists.
 
-## Unattributed [01:23:05](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4985s)
+## cari ann shim sham [01:23:05](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4985s)
 
-Cari ann shim sham**: Thank you, Judith. Your work is really prolific. It's so strong. And we really appreciate Cari ann shim sham**: the activism that you are. Cari ann shim sham**: anything around these topics. Cari ann shim sham**: We gotta talk about it. Cari ann shim sham**: Let's talk about it.
+Thank you, Judith. Your work is really prolific. It's so strong. And we really appreciate The activism that you are. Anything around these topics. We gotta talk about it. Let's talk about it.
 
-Cari ann shim sham**: all right. We have love flies by Cara. O, Cari ann shim sham**: one moment.
+All right. We have love flies by Cara. O, one moment.
 
-Cari ann shim sham**: hey!
+Hey!
 
 ## Caro Ramonde [01:23:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5024s)
 
@@ -610,17 +602,17 @@ Arianne and Joey, and everyone making this exhibition a reality.
 
 The step in case of Pardon.
 
-## Unattributed [01:24:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5052s)
+## cari ann shim sham [01:24:12](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5052s)
 
-Cari ann shim sham**: We can't hear you.
+We can't hear you.
 
 ## Caro Ramonde [01:24:13](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5053s)
 
 And we are, yeah.
 
-## Unattributed [01:24:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5055s)
+## cari ann shim sham [01:24:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5055s)
 
-Cari ann shim sham**: There we go we can hear you.
+There we go we can hear you.
 
 ## Caro Ramonde [01:24:19](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5059s)
 
@@ -628,25 +620,25 @@ And this during the pandemic I was Vancouver, and specialist meeting became a hi
 
 And it represents where playing, praying at the cemetery after her friends were killed by musings which are represented by the crowds. And my process starts with total abstraction, with creating my oil painting, and then I like to intervene them with check.
 
-## Unattributed [01:25:42](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5142s)
+## cari ann shim sham [01:25:42](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5142s)
 
-Cari ann shim sham**: Wonderful. Thank you. So much. Beautiful, really beautiful work, these birds and the light. Cari ann shim sham**: really stunning light work Cari ann shim sham**: happening here.
+Wonderful. Thank you. So much. Beautiful, really beautiful work, these birds and the light. Really stunning light work happening here.
 
 ## Caro Ramonde [01:25:53](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5153s)
 
 You. Yeah.
 
-## Unattributed [01:25:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5156s)
+## cari ann shim sham [01:25:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5156s)
 
-Cari ann shim sham**: You're not a. Cari ann shim sham**: tornado.
+You're not a. Tornado.
 
 ## Verneda Lights [01:26:01](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5161s)
 
 Yes, thank you. Remain there.
 
-## Unattributed [01:26:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5166s)
+## cari ann shim sham [01:26:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5166s)
 
-Cari ann shim sham**: Grenada. Cari ann shim sham**: tell us about your work.
+Grenada. Tell us about your work.
 
 ## Verneda Lights [01:26:11](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5171s)
 
@@ -660,9 +652,9 @@ Suggesting a spectrum of colors, black, brown, white and green. The creation pro
 
 Jesus, who's right here, invites viewers to question prevailing narratives. And to embrace a more inclusive and historically accurate representation. By challenging conventions in religious psychology I hope to inspire conversations that bridge cultural divides and fosters a deeper understanding of diversity in the spiritual realm. Thank you very much. It's my honor to be here.
 
-## Unattributed [01:29:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5369s)
+## cari ann shim sham [01:29:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5369s)
 
-Cari ann shim sham**: Thank you so much. We love this work. Cari ann shim sham**: and I'll correct that little title down below and add the with In there, Jesus with right there. Cari ann shim sham**: Such stunning work. Thank you. Cari ann shim sham**: Over here we have a peace guide tree skull found. Cari ann shim sham**: This is also available on object, this artist from France. Cari ann shim sham**: Let's hear from you.
+Thank you so much. We love this work. And I'll correct that little title down below and add the with In there, Jesus with right there. Such stunning work. Thank you. Over here we have a peace guide tree skull found. This is also available on object, this artist from France. Let's hear from you.
 
 ## David Godefroy [01:29:59](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5399s)
 
@@ -672,17 +664,17 @@ My own contemporary tame and idea. The 12 frame of my animation could be seen as
 
 You for your attention. Excuse me from my end lips. Thank you.
 
-## Unattributed [01:32:05](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5525s)
+## cari ann shim sham [01:32:05](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5525s)
 
-Cari ann shim sham**: School. It's so nice to meet you and see you in person, and thank you for being here and you can hear the sound coming a little bit from this work. It does have a soundtrack.
+School. It's so nice to meet you and see you in person, and thank you for being here and you can hear the sound coming a little bit from this work. It does have a soundtrack.
 
 ## David Godefroy [01:32:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5537s)
 
 Makes you some good treat.
 
-## Unattributed [01:32:18](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5538s)
+## cari ann shim sham [01:32:18](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5538s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: all right. Cari ann shim sham**: Andrew Quadramid, by Andrew Reeding.
+Thank you. All right. Andrew Quadramid, by Andrew Reeding.
 
 ## Andrew Reach [01:32:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5549s)
 
@@ -696,25 +688,25 @@ Which is the angle of slope of the Great Pyramid of Giza. It began with 545, 3D.
 
 And I would just like to add to that my background. I was an architect. For 20 years I practiced architecture for 20 years, but I have a spine disease, a rare spine disease that ended up fusing almost my entire spine. I cope with chronic debilitating pain, and I find working in the virtual 3D. Space of 3D. Apps is a just, an amazing escape. You kind of get totally immersed in what you're doing. And you the world dissolves away, the pain dissolves, and I get lost in a plane where pain does not live. So I know there's a lot of other disabled people that use technology in creating art. And it's a real blessing that we're living in a time when we have this ability to use technology to help us cope with challenges that we face in our lives. Thank you for allowing me to share my work.
 
-## Unattributed [01:36:14](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5774s)
+## cari ann shim sham [01:36:14](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5774s)
 
-Cari ann shim sham**: Thank you, Andrea. Thank you for sharing. Cari ann shim sham**: of blood from a stone. Cari ann shim sham**: Ira, open.
+Thank you, Andrea. Thank you for sharing. Of blood from a stone. Ira, open.
 
-Cari ann shim sham**: Iris. Not on really detailed, beautiful work. You can get really close in there and see so much. Cari ann shim sham**: Next up we do have Cari ann shim sham**: woman in Iran by Farnoosh. I know Farnoosh was here earlier. I don't know if they're still here. Cari ann shim sham**: I think they had to leave. Cari ann shim sham**: I think I saw in the chat. Cari ann shim sham**: really beautiful work by Bernish.
+Iris. Not on really detailed, beautiful work. You can get really close in there and see so much. Next up we do have Woman in Iran by Farnoosh. I know Farnoosh was here earlier. I don't know if they're still here. I think they had to leave. I think I saw in the chat. Really beautiful work by Bernish.
 
-Cari ann shim sham**: Hello!
+Hello!
 
-Cari ann shim sham**: And we have you cut. Cari ann shim sham**: by Max is Max here, Max, Dolly, Camilla Kaluba.
+And we have you cut. By Max is Max here, Max, Dolly, Camilla Kaluba.
 
-Cari ann shim sham**: Yeah, Max, if you're trying to talk, I think you're muted.
+Yeah, Max, if you're trying to talk, I think you're muted.
 
 ## Max Dalí / Kamilla Kulova [01:37:25](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5845s)
 
 Hi! I'm Juan.
 
-## Unattributed [01:37:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5847s)
+## cari ann shim sham [01:37:27](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5847s)
 
-Cari ann shim sham**: I'm Max.
+I'm Max.
 
 ## Max Dalí / Kamilla Kulova [01:37:29](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=5849s)
 
@@ -728,27 +720,27 @@ Retirement phase. The lines. The lines that are so are. Remember, remember the s
 
 Sign on something that People and think is only part of imagination. That's all. Really thanks for the opportunity. The huge opportunity.
 
-## Unattributed [01:40:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6036s)
+## cari ann shim sham [01:40:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6036s)
 
-Cari ann shim sham**: Thanks.
+Thanks.
 
 ## Max Dalí / Kamilla Kulova [01:40:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6036s)
 
 And I hope to be able to exhibit more with you. Thanks very much.
 
-## Unattributed [01:40:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6044s)
+## cari ann shim sham [01:40:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6044s)
 
-Cari ann shim sham**: Thank you so much. Cari ann shim sham**: Wonderful work. Cari ann shim sham**: Next up we have Patrick Lichty.
+Thank you so much. Wonderful work. Next up we have Patrick Lichty.
 
-Cari ann shim sham**: Endangered species is the name of the collection. Cari ann shim sham**: and this is black, double rubber, ducky. Cari ann shim sham**: and this is minted to the Tezos blockchain, so Cari ann shim sham**: you can get one Cari ann shim sham**: for yourself.
+Endangered species is the name of the collection. And this is black, double rubber, ducky. And this is minted to the Tezos blockchain, so you can get one for yourself.
 
 ## Max Dalí / Kamilla Kulova [01:41:31](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6091s)
 
 I forgot to say that the collection is available on foundation. Thank you very.
 
-## Unattributed [01:41:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6096s)
+## cari ann shim sham [01:41:36](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6096s)
 
-Cari ann shim sham**: Oh, thank you, thank you, thank you. You can drop the link in the chat Cari ann shim sham**: here we have, is it? By Anne R. Shapiro? I'm not sure if Anne's with us today, Anne, are you here? And would you like to speak.
+Oh, thank you, thank you, thank you. You can drop the link in the chat here we have, is it? By Anne R. Shapiro? I'm not sure if Anne's with us today, Anne, are you here? And would you like to speak.
 
 ## Ann Shapiro [01:41:50](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6110s)
 
@@ -756,11 +748,11 @@ Unmute my audio and unmute my video. I'm suffering from a cold. So I've tried to
 
 And normally I keep. I must have responded myself to? Is it because I normally keep things by date? Because they number probably at this point in the thousands. It's just there's no message here other than what I'm thinking at the moment, which, Heaven knows. This looks a little scary, and I'm so happy to participate in this and to what happened. Thank you so very much.
 
-## Unattributed [01:43:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6196s)
+## cari ann shim sham [01:43:16](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6196s)
 
-Cari ann shim sham**: Thank you. Thank you, Ian. We're so happy and happiest.
+Thank you. Thank you, Ian. We're so happy and happiest.
 
-Cari ann shim sham**: We have Queen of Monsters, by Michael Pierre Price.
+We have Queen of Monsters, by Michael Pierre Price.
 
 ## Michael Pierre Price [01:43:31](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6211s)
 
@@ -770,29 +762,29 @@ Not only in the art world, but especially in the areas of mathematics. Physics. 
 
 Yeah. Moving forward as a species. Of my work is the union of those things. So that's what this is all about for me.
 
-## Unattributed [01:45:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6322s)
+## cari ann shim sham [01:45:22](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6322s)
 
-Cari ann shim sham**: I need him. Cari ann shim sham**: And then. Cari ann shim sham**: stunning. Cari ann shim sham**: Thank you. Cari ann shim sham**: It's interesting, too, to think of how the computer was able to bring an idea like Raccoho's forward. So you kind of have the thinking of some of these Cari ann shim sham**: ideas, and in the power of technology to kind of bring it forward, envision it, and just push some of those.
+I need him. And then. Stunning. Thank you. It's interesting, too, to think of how the computer was able to bring an idea like Raccoho's forward. So you kind of have the thinking of some of these ideas, and in the power of technology to kind of bring it forward, envision it, and just push some of those.
 
 ## Michael Pierre Price [01:45:46](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6346s)
 
 Absolutely.
 
-## Unattributed [01:45:48](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6348s)
+## cari ann shim sham [01:45:48](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6348s)
 
-Cari ann shim sham**: Hello!
+Hello!
 
-Cari ann shim sham**: 1st work to sell. That was our 1st work to sell for this exhibition. They're not on. They're not here to sell. No, no, they're not. They work a lot with gifs and language. This title is rather a long one, so Cari ann shim sham**: sunrise over an alien ocean. Build the strange clouds. Cha is one of the people who is also working with loop. Cari ann shim sham**: I build a bar, could think Cari ann shim sham**: so now we are inside. We made it inside everyone. We're going to be wrapping up shortly. We just have a few more to go and let's check out Cari ann shim sham**: Venus. A bell closer in closer up. Cari ann shim sham**: Gotcha.
+1st work to sell. That was our 1st work to sell for this exhibition. They're not on. They're not here to sell. No, no, they're not. They work a lot with gifs and language. This title is rather a long one, so Sunrise over an alien ocean. Build the strange clouds. Cha is one of the people who is also working with loop. I build a bar, could think so now we are inside. We made it inside everyone. We're going to be wrapping up shortly. We just have a few more to go and let's check out Venus. A bell closer in closer up. Gotcha.
 
-Cari ann shim sham**: I think you're muted. If you're talking. Yeah, you might want to unmute.
+I think you're muted. If you're talking. Yeah, you might want to unmute.
 
 ## Nina Sobell [01:47:02](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6422s)
 
 Bye. Alright.
 
-## Unattributed [01:47:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6426s)
+## cari ann shim sham [01:47:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6426s)
 
-Cari ann shim sham**: Yes.
+Yes.
 
 ## Nina Sobell [01:47:06](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6426s)
 
@@ -802,33 +794,33 @@ Revealing a reality within The process of searching into our mind as into our su
 
 And using the camera, the live camera aspect to animate as yet in unanimate forms. Observing a layering process. That is a technically innate tool of the phone itself. You're not making it into anything else except what it is. And it's Deepest core. Yeah. And the music is mine. I guess you imagine that to be true. Yeah.
 
-## Unattributed [01:48:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6529s)
+## cari ann shim sham [01:48:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6529s)
 
-Cari ann shim sham**: Thank you.
+Thank you.
 
 ## Nina Sobell [01:48:51](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6531s)
 
 And I'm thrilled to be here.
 
-## Unattributed [01:48:54](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6534s)
+## cari ann shim sham [01:48:54](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6534s)
 
-Cari ann shim sham**: Thank you. We're so happy.
+Thank you. We're so happy.
 
 ## Nina Sobell [01:48:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6535s)
 
 Thank you. Thank you.
 
-## Unattributed [01:48:58](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6538s)
+## cari ann shim sham [01:48:58](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6538s)
 
-Cari ann shim sham**: Cats will eat you stacking blocks. Cats! I've seen you come in and out of the Cari ann shim sham**: the.
+Cats will eat you stacking blocks. Cats! I've seen you come in and out of the.
 
 ## Matt Semke [01:49:07](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6547s)
 
 Yeah, I'm here.
 
-## Unattributed [01:49:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6548s)
+## cari ann shim sham [01:49:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6548s)
 
-Cari ann shim sham**: There you are! Hi!
+There you are! Hi!
 
 ## Matt Semke [01:49:10](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6550s)
 
@@ -836,13 +828,13 @@ Hi, yeah, stacking blocks for me, this is about kind of how we're all uploading 
 
 That's about it. Thanks for having me.
 
-## Unattributed [01:50:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6615s)
+## cari ann shim sham [01:50:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6615s)
 
-Cari ann shim sham**: Thank you. I love the movement in this piece. It's just like really. Cari ann shim sham**: kinesthetically pleasing to me. Cari ann shim sham**: my body. Thank you so much for the word. Cari ann shim sham**: We're so thrilled to have you. Cari ann shim sham**: save my world by flower. Cari ann shim sham**: Not sure if flower's with us today. Cari ann shim sham**: But this piece is really beautiful to zoom in and look at.
+Thank you. I love the movement in this piece. It's just like really. Kinesthetically pleasing to me. My body. Thank you so much for the word. We're so thrilled to have you. Save my world by flower. Not sure if flower's with us today. But this piece is really beautiful to zoom in and look at.
 
-Cari ann shim sham**: And here we have face space. By Jodi Zelen!
+And here we have face space. By Jodi Zelen!
 
-Cari ann shim sham**: Really fun, animation. Cari ann shim sham**: Colin Goldberg.
+Really fun, animation. Colin Goldberg.
 
 ## Colin Goldberg [01:51:09](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6669s)
 
@@ -858,25 +850,23 @@ So organic gravity was one of my father's favorite pieces, and it hung in my par
 
 Interpreted the forms to the bright. He interpreted the forms and the bright colors of the peas to a parrot in the rainforest. The big cat and the audio and Haiku emerged from my subconscious as the piece developed. And I find that my understanding of my own work is slowly revealed to me the further I get away from it. That's it.
 
-## Unattributed [01:54:21](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6861s)
+## cari ann shim sham [01:54:21](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6861s)
 
-Cari ann shim sham**: Beautiful.
+Beautiful.
 
 ## Colin Goldberg [01:54:23](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6863s)
 
 Thank you.
 
-## Unattributed [01:54:24](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6864s)
+## cari ann shim sham [01:54:24](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6864s)
 
-Cari ann shim sham**: Where the big cat growls.
+Where the big cat growls.
 
-Cari ann shim sham**: Here we have dream by day, by Iris pan. This is actually Cari ann shim sham**: like a game experience Cari ann shim sham**: and built in unreal engine. I believe Cari ann shim sham**: we had the pleasure of meeting Iris a couple weekends ago Cari ann shim sham**: during one of my tech labs that I host at Nyu. Cari ann shim sham**: and they're out working in Silicon Valley for Amazon while doing art on the side. Cari ann shim sham**: Here we have Moonflower 2 by Cari ann shim sham**: Karina Ali Pavsky. I'm not sure if you're here.
+Here we have dream by day, by Iris pan. This is actually like a game experience and built in unreal engine. I believe we had the pleasure of meeting Iris a couple weekends ago during one of my tech labs that I host at Nyu. And they're out working in Silicon Valley for Amazon while doing art on the side. Here we have Moonflower 2 by Karina Ali Pavsky. I'm not sure if you're here. I don't know if they could make it today. Because he. Haunting jellyfish work. Burn by violet Bond. Violet is one of our longtime Mauna artists coming out of The outback of Australia and working in the wild and using technology to express the wild we love violet and Violet is definitely sleeping right now.
 
-Cari ann shim sham**: I don't know if they could make it today. Cari ann shim sham**: because he. Cari ann shim sham**: haunting jellyfish Cari ann shim sham**: work. Cari ann shim sham**: burn by violet Bond. Violet is one of our longtime Mauna artists coming out of Cari ann shim sham**: the outback of Australia Cari ann shim sham**: and working in the wild and using technology to express the wild we love violet and Violet is definitely sleeping right now.
+This work is A generative artwork that's available on the highlight platform. The artist is Stefano Contiero. This work is sort of interesting. You have to see it, either in the museum space I would recommend, or on the platform itself, which you can get by opening the link. It moves. It has words as you scroll through the artworks, the words disappear and reveal kind of that underlaying abstract artwork. This is also available as kind of like a free mint. So for a couple pennies of gas. You could pick one of these up.
 
-Cari ann shim sham**: This work is Cari ann shim sham**: a generative artwork that's available on the highlight platform. Cari ann shim sham**: The artist is Stefano Contiero. Cari ann shim sham**: This work is sort of interesting. You have to see it, either in the museum space I would recommend, or on the platform itself, which you can get by opening the link. Cari ann shim sham**: It moves. It has words as you scroll through the artworks, the words disappear Cari ann shim sham**: and reveal kind of that underlaying abstract artwork. This is also available as kind of like a free mint. So for a couple pennies of gas. You could pick one of these up.
-
-Cari ann shim sham**: It's pool work. That's the example that the museum. Cari ann shim sham**: Susan. I know you're here, Susan. Cari ann shim sham**: Yeah.
+It's pool work. That's the example that the museum. Susan. I know you're here, Susan. Yeah.
 
 ## Susan Detroy [01:56:35](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=6995s)
 
@@ -894,19 +884,19 @@ Okay. The natural world of bird and tree and it reflects my lengthy background b
 
 The apps I use to instruct my piece are snapseed X story, Z. Clip to comic iPad, editor, and capcut. My most favorite video current, most video editor, and the title is in Spanish that references my years studying and living in Mexico and Spain. And okay, I had to read it, but thank you.
 
-## Unattributed [01:59:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7155s)
+## cari ann shim sham [01:59:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7155s)
 
-Cari ann shim sham**: Thank you so much. I can look at that bird all day long. And I have been lately. Cari ann shim sham**: Thank you. Yeah. Cari ann shim sham**: all right.
+Thank you so much. I can look at that bird all day long. And I have been lately. Thank you. Yeah. All right.
 
-Cari ann shim sham**: we have help by Kathleen Cari ann shim sham**: Gobrowski.
+We have help by Kathleen Gobrowski.
 
-Cari ann shim sham**: Kathleen, are you here? Cari ann shim sham**: Would you like to speak?
+Kathleen, are you here? Would you like to speak?
 
-Cari ann shim sham**: Maybe they stepped away, but they might have stepped away. Cari ann shim sham**: so we'll come back if they if they come back Cari ann shim sham**: And this work by. Cari ann shim sham**: it's called head Study, 2020 by Cari ann shim sham**: Adelfina Perino.
+Maybe they stepped away, but they might have stepped away. So we'll come back if they if they come back and this work by. It's called head Study, 2020 by Adelfina Perino.
 
-Cari ann shim sham**: really stunning work.
+Really stunning work.
 
-Cari ann shim sham**: This is one of our Mauna artists returning, I dreamed myself a landscape. Will I ever wake up by? Cari ann shim sham**: You know the news. Cari ann shim sham**: Vinaya? Are you here? Would you like to speak.
+This is one of our Mauna artists returning, I dreamed myself a landscape. Will I ever wake up by? You know the news. Vinaya? Are you here? Would you like to speak.
 
 ## Lineadeluz [02:00:37](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7237s)
 
@@ -914,27 +904,27 @@ Hi, can everyone hear me? Yeah. Hi, everyone. Thank you so much. To Mona, to Car
 
 Yeah, how we can embody the emotion. I'm very excited to be among such amazing works. And just to hear everyone's experiences and just to hear them in the face. It's really, really exciting. And I think everyone push me amazing. Thank you.
 
-## Unattributed [02:02:02](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7322s)
+## cari ann shim sham [02:02:02](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7322s)
 
-Cari ann shim sham**: We're so happy to have you here with us. Cari ann shim sham**: God Cari ann shim sham**: figure 0 1 AI together there by Sky X. Cari ann shim sham**: Really gorgeous generative artwork.
+We're so happy to have you here with us. God figure 0 1 AI together there by Sky X. Really gorgeous generative artwork.
 
-Cari ann shim sham**: And over here. We have this fun. Car. Cari ann shim sham**: charger 8. Cari ann shim sham**: by Ahmed Esh.
+And over here. We have this fun. Car. Charger 8. By Ahmed Esh.
 
-Cari ann shim sham**: They were on earlier. I think they had to leave us.
+They were on earlier. I think they had to leave us.
 
-Cari ann shim sham**: and then up above us.
+And then up above us.
 
-Cari ann shim sham**: Here we go. Cari ann shim sham**: We have chapter 3.
+Here we go. We have chapter 3.
 
-Cari ann shim sham**: bye, Galina Schveenko! Hi!
+Bye, Galina Schveenko! Hi!
 
 ## Galina Shevchenko [02:03:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7397s)
 
 Hi.
 
-## Unattributed [02:03:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7397s)
+## cari ann shim sham [02:03:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7397s)
 
-Cari ann shim sham**: Hi.
+Hi.
 
 ## Galina Shevchenko [02:03:18](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7398s)
 
@@ -946,29 +936,27 @@ Beautiful, steepest, steady game falling for contemplation, non action. And this
 
 Hoping for Excuse me, wow! Thank you.
 
-## Unattributed [02:05:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7555s)
+## cari ann shim sham [02:05:55](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7555s)
 
-Cari ann shim sham**: Thank you. Cari ann shim sham**: So we conclude Cari ann shim sham**: all right. Cari ann shim sham**: And we just want to thank everyone. Cari ann shim sham**: for taking part in this wonderful.
+Thank you. So we conclude all right. And we just want to thank everyone. For taking part in this wonderful.
 
 ## Nina Sobell [02:06:20](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7580s)
 
 I just wanted to know. Is Lee Day. Here still was Lee Day Lee Day part of the show, or I saw him in the very beginning. I didn't know whether we missed his work. No Lee Day, no.
 
-## Unattributed [02:06:37](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7597s)
+## cari ann shim sham [02:06:37](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7597s)
 
-Cari ann shim sham**: Yeah, yeah.
+Yeah, yeah.
 
 ## Nina Sobell [02:06:38](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7598s)
 
 Okay.
 
-## Unattributed [02:06:39](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7599s)
+## cari ann shim sham [02:06:39](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7599s)
 
-Cari ann shim sham**: So thank you everyone for Mauna and Ts wild and newfangled Techspressionism. Cari ann shim sham**: We're just so happy to Cari ann shim sham**: gather together with you, and this space is now open for you to come into and or hang out in the salon. And thank you, Colin, and thanks for letting us go a little bit longer than normal. We just wanted to hear from all of the artists. And we celebrate you. Cari ann shim sham**: Yeah, wonderful exhibition.
+So thank you everyone for Mauna and Ts wild and newfangled Techspressionism. We're just so happy to Gather together with you, and this space is now open for you to come into and or hang out in the salon. And thank you, Colin, and thanks for letting us go a little bit longer than normal. We just wanted to hear from all of the artists. And we celebrate you. Yeah, wonderful exhibition. I definitely have to have a deep dive into some of the works, even though I've seen them a bunch. It's so fantastic, the community, the quality of work, the connection to be able to kind of share, story, technique and so on.
 
-Cari ann shim sham**: I definitely have to have a deep dive into some of the works, even though I've seen them a bunch. Cari ann shim sham**: It's so fantastic, the community, the quality of work, the connection to be able to kind of share, story, technique Cari ann shim sham**: and so on. Cari ann shim sham**: I guess there's no exhibition for next week. We've got to come up with a topic. So I don't know how we're doing that, and so on. Cari ann shim sham**: We're not moderating it, and we're not throwing in execution. We'll turn it back to you, Colin. You're in charge. Thanks. Everybody join us in the join us in the loop room.
-
-Cari ann shim sham**: Okay. Awesome.
+I guess there's no exhibition for next week. We've got to come up with a topic. So I don't know how we're doing that, and so on. We're not moderating it, and we're not throwing in execution. We'll turn it back to you, Colin. You're in charge. Thanks. Everybody join us in the join us in the loop room. Okay. Awesome.
 
 ## Roz Dimon [02:07:49](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7669s)
 

@@ -3496,10 +3496,10 @@
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12596,
+      "word_count": 12535,
       "duration_seconds": 5126,
-      "words_per_minute": 147.4,
-      "bracket_marker_count": 1,
+      "words_per_minute": 146.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -3551,10 +3551,10 @@
     "flags": [],
     "notes": [],
     "transcript_quality": {
-      "word_count": 12984,
+      "word_count": 12909,
       "duration_seconds": 5543,
-      "words_per_minute": 140.5,
-      "bracket_marker_count": 1,
+      "words_per_minute": 139.7,
+      "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
   },
@@ -4045,9 +4045,9 @@
     ],
     "notes": [],
     "transcript_quality": {
-      "word_count": 17069,
+      "word_count": 14893,
       "duration_seconds": 7800,
-      "words_per_minute": 131.3,
+      "words_per_minute": 114.6,
       "bracket_marker_count": 0,
       "low_confidence_flag": false
     }
