@@ -34,103 +34,541 @@ That being said, I think I can go ahead and introduce our presenters for the day
 
 Lauren Kozer partners with Nina Kuo. And Nina Kuo is a Chinese American painter, photographer, sculptor, author, video artist, and activist who lives in New York City. Her work examines the role of women, feminism, and identity in Asian American art. And we have Emma Ann Johnson, who is an artist based in Brooklyn, New York, whose practice includes 2D work, animation, and lighting and stage design.
 
-All right. That was a mouthful on my part. I apologize. All right. So that being said, Nina, Lauren, are you ready to present? Sure.
+All right. That was a mouthful on my part. I apologize. All right. So that being said, Nina, Lauren, are you ready to present? Sure. Can you hear us? Yep. We can hear you just fine.
 
-## Lorin Roser And Nina Kuo [02:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=163s)
+## Nina Kuo [02:46](https://www.youtube.com/watch?v=sbMbH55efqM&t=166s)
 
-Can you hear us? Yep. We can hear you just fine. Great. All right. You have the floor. Okay. So first off, I'm just going to run like a demo reel. Just do it. Okay. So. Yeah, we're lining it up. These are basic sequence of animated video clips. Is it coming through? Yes. Are you going to be sharing your screen or?
+Great.
 
-Yeah. Isn't it sharing? It is not. We currently do not see anything at this time. Okay. Hold on. How about now? We see... Yes. Great. So all the sounds and compositions are composed by Lauren. She... Is influenced by many genres and traditions of music compositions and instrumentations. And worked with some experimental composers at a young age. And influenced by Shari Deans, who was a kind of like a brutalist emigrate artist, feminist artist, a fluxist artist. Oh, yeah. So we saw... The when we were dating actually and she kind of gave us a lot of inspiration this shot is all AI the cameras are AI controlled and so is the movie Thank you.
+## Davonte Bradley [02:48](https://www.youtube.com/watch?v=sbMbH55efqM&t=168s)
+
+All right. You have the floor. Okay.
+
+## Nina Kuo [02:51](https://www.youtube.com/watch?v=sbMbH55efqM&t=171s)
+
+So first off, I'm just going to run like a demo reel. Just do it. Okay. So.
+
+## Unattributed [03:01](https://www.youtube.com/watch?v=sbMbH55efqM&t=181s)
+
+Yeah, we're lining it up. These are basic sequence of animated video clips.
+
+## Davonte Bradley [03:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=194s)
+
+Is it coming through? Yes. Are you going to be sharing your screen or?
+
+## Nina Kuo [03:21](https://www.youtube.com/watch?v=sbMbH55efqM&t=201s)
+
+Yeah. Isn't it sharing?
+
+## Davonte Bradley [03:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=203s)
+
+It is not. We currently do not see anything at this time.
+
+## Nina Kuo [03:30](https://www.youtube.com/watch?v=sbMbH55efqM&t=210s)
+
+Okay. Hold on. How about now?
+
+## Davonte Bradley [03:34](https://www.youtube.com/watch?v=sbMbH55efqM&t=214s)
+
+We see... Yes.
+
+## Unattributed [03:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=219s)
+
+Great.
+
+## Davonte Bradley [03:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=219s)
+
+So all
+
+## Unattributed [03:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=223s)
+
+The sounds and compositions are composed by Lauren. She... Is influenced by many genres and traditions of music compositions and instrumentations. And worked with some experimental composers at a young age. And influenced by Shari Deans, who was a kind of like a brutalist emigrate artist, feminist artist, a fluxist artist. Oh, yeah. So we saw... The when we were dating actually and she kind of gave us a lot of inspiration
+
+## Nina Kuo [04:32](https://www.youtube.com/watch?v=sbMbH55efqM&t=272s)
+
+This shot is all AI the cameras are AI controlled and so is the movie
+
+## Unattributed [05:11](https://www.youtube.com/watch?v=sbMbH55efqM&t=311s)
+
+Thank
+
+## Renata Janiszewska [05:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=313s)
+
+You.
+
+## Unattributed [05:33](https://www.youtube.com/watch?v=sbMbH55efqM&t=333s)
 
 So for us video is an intermediate experience, computational, spatial, using forms with technological innovation. There's a new world of disciplines now. We work with many types of drawing, architectural, spatial kind of experiences that we build in our relationship. Having worked with some poets and performance artists in the past has given us a new way to look at theater. Writer, Larry Lipp, Eleanor Hartney, some early Chinese American avant-garde artists in New York.
 
-They kind of heightened our world. We see that this democracy of art can reach reach many audiences. This is a segment of a piece called Crabistic. I composed and used it. And this is a piece where we took one of Nina's paintings and animated the 2D artwork. We have a whole series of these paintings that are animated.
+They kind of heightened our world. We see that this democracy of art can reach reach many audiences.
 
-And this piece is about reconstituting our lives after the pandemic. Them Thank you. Thank you. I don't want to. So that's it for the real. Any questions? I think due to just the limitations of Zoom, I'm not sure if everyone's able to adequately hear some of the musical aspects to your work. I think Michael expressed that he said that he didn't actually hear anything. But yeah, that's just that's just kind of par for the course with Zoom sometimes, like audio doesn't always come through as well as it should.
+## Nina Kuo [07:15](https://www.youtube.com/watch?v=sbMbH55efqM&t=435s)
 
-But with that being said, is there any way that people might be able to view these works outside of Zoom so that they might be able to actually like be able to hear? Just contact us. You know, the best thing is to contact us or we'll let you know if all right. And that's the end of your presentation, correct? Yes. Okay. All right. Cool. Just making sure. All right, everyone. Does anyone have any questions, comments, or feedback that they'd like to give?
+This is a segment of a piece called Crabistic. I composed and used it. And this is a piece where we took one of Nina's paintings and animated the 2D artwork. We have a whole series of these paintings that are animated. And this piece is about reconstituting our lives after the pandemic. Them
 
-Anybody? Michael, okay. First question goes to Michael. Hi, thank you for your presentation. I just kind of would like to have a little bit more background in regards to, I guess, two areas. One, on the technical side of what either software or what drove you to create what you did. And then the other is I would just like to have a little bit more background information on the meaning behind some of the pieces. Just because, you know, I heard a few of your comments, but some of the imagery is rather eclectic and could be thought about or interpreted in a lot of different ways. So I was just kind of curious to get a little bit more background info. Thank you.
+## Unattributed [09:01](https://www.youtube.com/watch?v=sbMbH55efqM&t=541s)
 
-Well, sure. A real interest is in real-time interactivity. So we sometimes use gaming engines to create our own. Background is as an architect. Nina began as a painter. Then as a photographer and video artist and sculptor. And her work has a lot to do with community organizing. It's hard. We've got a whole grouping of images. So I don't think we have time to really analyze each clip. Okay. But it's really about, you know, the sensation of video, travel logs.
+Thank you.
 
-And, you know, just, oh, so what you, what you want to make of it. Okay. That's fair. So is there a reason. Since I have a background in, in making games, is there a reason why. You. Let let the characters like walk through the geometry. It, I don't know, I guess I'm just trying to understand sort of a bit about that.
+## Michael Pierre Price [09:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=583s)
 
-They felt sort of disconnected from it in that respect. And I apologize, I know I have a little bias there, but I was just kind of curious about that. Sure, actually, I have an architect friend that complained about my work that used to defy gravity. But who knows? You know, they would develop gravity, anti-gravity software, hardware and software in the future. Our viewpoint is mostly futuristic. We try to imagine and try to have some magic in the artwork.
+Thank you.
 
-The desire. Okay. It's really about fantasy and, you know, a different world tradition, traditional worlds, meaning a futuristic world. Okay. You know, like a picture coming to life, you know, a different kind of storyboard and looping of images. Thank you. When you break expectations that you can really make people think, we like to break the rules.
+## Unattributed [10:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=636s)
 
-Thank you. I'm not sure that I understand how the images were created. Where were they initiated at? On drawing boards? Or in a computer? They're almost all CGI, except for the canvases that we animated. We do use storyboard and, you know, we do a lot of sketching. A lot of these took years to make with the compositions.
+I don't want to.
 
-Okay. Thank you. And we have shorter clips and then we make them into longer. This is really like a demo reel. It's more like a demo. Yeah, I got it. Thank you. All right. We do have a couple of questions in the chat. Let's see. Patrick wants to know what engine you're actually using for your artwork. I know you mentioned that you used a game engine. Is that Unity or is that another engine? We use them both. Unreal. Okay. So Unreal and Unity? Yeah. Not, not Crisis or Blitz. No. Okay. So when some people say both, I'm familiar with about seven engines.
+## Nina Kuo [11:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=665s)
 
-And then the other thing is that the thing that I wonder about here is that, I mean, you talk about the technical and, you know, shall we say like general evocative terms, but what's the real intention behind the work? What are you getting at? Each case is different. Well, I mean, other than these big terms of architecture and technology, I think the real intention is to make the work. But if you want to talk about more technical terms, what are you trying to communicate?
+So that's it for the real. Any questions?
 
-Well, I guess one preoccupation is life off world. How as the pandemic has shown us, it's quite possible that the human race is going to have to move. So a lot of our thinking is about how to create environments quickly off world. Okay. Sure. Okay. And it's really about art. You know, art meaning, you know, a new platform a new next generational form right because we were I have a group called second front that started doing performance in second life about 2006 and that was really kind of a that's been a really interesting thing we kind of quit in about we kind of shut down about 2008 I mean 2018 it's still kind of around and that sort of thing is that and the thing is that I mean I think performance in virtual spaces is really a an interesting thing because in performance art you know what happens when you get rid of the body right you know it's you pretty much just have affect left and but the thing is as like as we shift from things like platforms to engines and then there are different sorts of things around you know going around I think I'm very interested in the idea of where the performative lies you know in creating the creating the artistic experience and this is this is where I think I see you know see a resonance in your work that's it's pretty cool absolutely thank you and we're really inspired by performance artists but sort of like on the cutting edge like in music I'm fascinated with synthesis and I like to be like an explorer and we I did a piece with stellar where he was in a gallery for five days with this visual feed coming from london I did the audio feed from new york and which was controlled over the internet by a robotic device he had constructed what was it ping body yeah we used to we used to perform a lot with stellar in the second life when he was doing the brain pieces so yeah we'll tell him thanks yeah so and I used to set him on fire all the time but he'd laugh as an oh patrick yes he's a great guy that's fantastic thank you so much we'll send you to the moon what's up you're next move over beezle oh my goodness all right we do actually have okay we're going to go to the next question so this is the next question rick I actually had a question that she wanted to share, so I'll get to her first.
+## Davonte Bradley [11:12](https://www.youtube.com/watch?v=sbMbH55efqM&t=672s)
+
+I think due to just the limitations of Zoom, I'm not sure if everyone's able to adequately hear some of the musical aspects to your work. I think Michael expressed that he said that he didn't actually hear anything. But yeah, that's just that's just kind of par for the course with Zoom sometimes, like audio doesn't always come through as well as it should.
+
+But with that being said, is there any way that people might be able to view these works outside of Zoom so that they might be able to actually like be able to hear?
+
+## Unattributed [11:51](https://www.youtube.com/watch?v=sbMbH55efqM&t=711s)
+
+Just contact us. You know, the best thing is to contact us or we'll let you know if
+
+## Davonte Bradley [12:02](https://www.youtube.com/watch?v=sbMbH55efqM&t=722s)
+
+All right. And that's the end of your presentation, correct? Yes. Okay. All right. Cool. Just making sure. All right, everyone. Does anyone have any questions, comments, or feedback that they'd like to give? Anybody? Michael, okay. First question goes to Michael.
+
+## Michael Pierre Price [12:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=756s)
+
+Hi, thank you for your presentation. I just kind of would like to have a little bit more background in regards to, I guess, two areas. One, on the technical side of what either software or what drove you to create what you did. And then the other is I would just like to have a little bit more background information on the meaning behind some of the pieces. Just because, you know, I heard a few of your comments, but some of the imagery is rather eclectic and could be thought about or interpreted in a lot of different ways. So I was just kind of curious to get a little bit more background info. Thank you.
+
+## Nina Kuo [13:33](https://www.youtube.com/watch?v=sbMbH55efqM&t=813s)
+
+Well, sure. A real interest is in real-time interactivity. So we sometimes use gaming engines to create our own. Background is as an architect. Nina began as a painter. Then as a photographer and video artist and sculptor. And her work has a lot to do with community organizing.
+
+## Unattributed [14:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=846s)
+
+It's hard. We've got a whole grouping of images. So I don't think we have time to really analyze each clip. Okay. But it's really about, you know, the sensation of video, travel logs. And, you know, just, oh, so what you, what you want to make of it.
+
+## Michael Pierre Price [14:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=866s)
+
+Okay. That's fair. So is there a reason. Since I have a background in, in making games, is there a reason why. You. Let let the characters like walk through the geometry. It, I don't know, I guess I'm just trying to understand sort of a bit about that. They felt sort of disconnected from it in that respect. And I apologize, I know I have a little bias there, but I was just kind of curious about that.
+
+## Nina Kuo [15:04](https://www.youtube.com/watch?v=sbMbH55efqM&t=904s)
+
+Sure, actually, I have an architect friend that complained about my work that used to defy gravity. But who knows? You know, they would develop gravity, anti-gravity software, hardware and software in the future. Our viewpoint is mostly futuristic. We try to imagine and try to have some magic in the artwork.
+
+The desire. Okay.
+
+## Unattributed [15:31](https://www.youtube.com/watch?v=sbMbH55efqM&t=931s)
+
+It's really about fantasy and, you know, a different world tradition, traditional worlds, meaning a futuristic world. Okay. You know, like a picture coming to life, you know, a different kind of storyboard and looping of images.
+
+## Nina Kuo [15:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=950s)
+
+Thank you. When you break expectations that you can really make people think, we like to break the rules.
+
+## Unattributed [16:02](https://www.youtube.com/watch?v=sbMbH55efqM&t=962s)
+
+Thank you.
+
+## Lee Musgrave [16:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=965s)
+
+I'm not sure that I understand how the images were created. Where were they initiated at? On drawing boards? Or in a computer?
+
+## Nina Kuo [16:16](https://www.youtube.com/watch?v=sbMbH55efqM&t=976s)
+
+They're almost all CGI, except for the canvases that we animated.
+
+## Unattributed [16:22](https://www.youtube.com/watch?v=sbMbH55efqM&t=982s)
+
+We do use storyboard and, you know, we do a lot of sketching. A lot of these took years to make with the compositions.
+
+## Lee Musgrave [16:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=996s)
+
+Okay. Thank you.
+
+## Unattributed [16:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=998s)
+
+And we have shorter clips and then we make them into longer.
+
+## Nina Kuo [16:42](https://www.youtube.com/watch?v=sbMbH55efqM&t=1002s)
+
+This is really like a demo reel. It's more like a demo. Yeah, I got it.
+
+## Davonte Bradley [16:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=1010s)
+
+Thank you. All right. We do have a couple of questions in the chat. Let's see. Patrick wants to know what engine you're actually using for your artwork. I know you mentioned that you used a game engine. Is that Unity or is that another engine?
+
+## Nina Kuo [17:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=1026s)
+
+We use them both. Unreal. Okay.
+
+## Davonte Bradley [17:08](https://www.youtube.com/watch?v=sbMbH55efqM&t=1028s)
+
+So Unreal and Unity?
+
+## Patrick Lichty [17:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1030s)
+
+Yeah. Not, not Crisis or Blitz. No.
+
+## Nina Kuo [17:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=1034s)
+
+Okay.
+
+## Patrick Lichty [17:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=1034s)
+
+So when some people say both, I'm familiar with about seven engines. And then the other thing is that the thing that I wonder about here is that, I mean, you talk about the technical and, you know, shall we say like general evocative terms, but what's the real intention behind the work? What are you getting at?
+
+## Nina Kuo [17:37](https://www.youtube.com/watch?v=sbMbH55efqM&t=1057s)
+
+Each case is different.
+
+## Patrick Lichty [17:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=1059s)
+
+Well, I mean, other than these big terms of architecture and technology, I think the real intention is to make the work. But if you want to talk about more technical terms, what are you trying to communicate?
+
+## Nina Kuo [17:48](https://www.youtube.com/watch?v=sbMbH55efqM&t=1068s)
+
+Well, I guess one preoccupation is life off world. How as the pandemic has shown us, it's quite possible that the human race is going to have to move. So a lot of our thinking is about how to create environments quickly off world. Okay. Sure. Okay.
+
+## Unattributed [18:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1090s)
+
+And it's really about art. You know, art meaning, you know, a new platform a new next generational form right
+
+## Patrick Lichty [18:22](https://www.youtube.com/watch?v=sbMbH55efqM&t=1102s)
+
+Right because we were I have a group called second front that started doing performance in second life about 2006 and that was really kind of a that's been a really interesting thing we kind of quit in about we kind of shut down about 2008 I mean 2018 it's still kind of around and that sort of thing is that and the thing is that I mean I think performance in virtual spaces is really a an interesting thing because in performance art you know what happens when you get rid of the body right you know it's you pretty much just have affect left and but the thing is as like as we shift from things like platforms to engines and then there are different sorts of things around you know going around I think I'm very interested in the idea of where the performative lies you know in creating the creating the artistic experience and this is this is where I think I see you know see a resonance in your work that's it's pretty cool absolutely
+
+## Nina Kuo [19:29](https://www.youtube.com/watch?v=sbMbH55efqM&t=1169s)
+
+Thank you and we're really inspired by performance artists but sort of like on the cutting edge like in music I'm fascinated with synthesis and I like to be like an explorer and we I did a piece with stellar where he was in a gallery for five days with this visual feed coming from london I did the audio feed from new york and which was controlled over the internet by a robotic device he had constructed what was it ping body
+
+## Unattributed [20:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=1200s)
+
+Yeah we
+
+## Patrick Lichty [20:02](https://www.youtube.com/watch?v=sbMbH55efqM&t=1202s)
+
+We used to we used to perform a lot with stellar in the second life when he was doing the brain pieces so
+
+## Unattributed [20:07](https://www.youtube.com/watch?v=sbMbH55efqM&t=1207s)
+
+Yeah we'll tell him thanks yeah
+
+## Patrick Lichty [20:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1210s)
+
+So and I used to set him on fire all the time but he'd laugh as an oh patrick yes he's a great guy that's fantastic thank you so much we'll send you to the moon what's up
+
+## Unattributed [20:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=1226s)
+
+You're next move over beezle oh
+
+## Davonte Bradley [20:32](https://www.youtube.com/watch?v=sbMbH55efqM&t=1232s)
+
+My goodness all right we do actually have okay we're going to go to the next question so this is the next question rick I actually had a question that she wanted to share, so I'll get to her first.
+
+## Unattributed [20:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=1245s)
 
 Yes. Thank you so much for your presentation. I have a question about the fairy or angelic creature that sort of flitted about through the video. Do you, what is, what does this represent? Sure, that's done with coating. That's a coated shader. Okay. Your significance, the symbolism, how does that tie in? The overall representation?
 
-I think you said that the entire video basically proposes life after COVID or life on other worlds. How then does the fairy figure, is it a fairy or angel? Yeah, it's a combination. We started this before, a year or two years ago. And a lot of drawings and trying to put things together. So every time we see it, we want to change it into something a little bit pertinent to what may come through. I'd say she's mostly an angel.
+I think you said that the entire video basically proposes life after COVID or life on other worlds. How then does the fairy figure, is it a fairy or angel? Yeah, it's a combination. We started this before, a year or two years ago. And a lot of drawings and trying to put things together. So every time we see it, we want to change it into something a
 
-Okay. And the angel is put there in order to illustrate what? Hope. Hope for the future. Okay. All right. And I just wanted to make a comment about how to tie in what I'm seeing now on the screen with what you had mentioned about performance, being involved in performance. Your images, your faces keep changing. Fading in and out of the screen. It's like you're being present and erased at the same time and at different points in time. So that sort of ties in, I think, with the performance. That's because our place is a mess.
+## Lee Musgrave [21:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=1313s)
 
-No, I think that's because the internet is fading in and out too. Oh, I know. I know it's the internet. But I just said that this coincidence plays into the performance aspect. The work. Thank you. The fickleness of technology. I think this is, it's like a Greek arena. Of course. You know, where there's the stages, everyone.
+Little bit pertinent
 
-You know, each one of us is a part of the component of how the salon or the play is going to be reenacted. Yeah. We're in the Coliseum. All right. Let's see. What else do we have here? An earlier question about where is the work actually intended to be viewed? Is it art galleries or elsewhere? Oh, everywhere. Anywhere is fine.
+## Unattributed [21:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=1316s)
 
-Our favorite is a big screen with a huge music system. That's our favorite. And I do think that again, probably quite a bit of the presentation was probably lost because Zoom's limitation when it comes to audio sharing. But kind of the, we work with what we got pretty much. By the way, if I can add one little thing is that I know that I was getting at some specifics. But the other thing is that I also see this as formal work in virtual reality. So I think it's really important that we're able to have some sort of like a virtual space where we can actually see what's happening in the virtual space. And I think that in itself is fantastic as well. You know, because I mean, artists like Banton Bowinkle and things like that, you know, and that sort of thing. So I mean, it's like, I think I was trying to drill in for some, you know, basically trying to tease out elements of elements of concept and form and things like that.
+To what may come through.
 
-And just trying to explore the matrix a little bit. And I thank you for your patience, by the way. Thank you. Thank you. All right. Well, thank you for your input. And thank you so far for the engagement that we've had already. And there's still more questions. They are slowly trickling in. The next question comes from, I think it's pronounced Sahar.
+## Nina Kuo [22:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=1320s)
 
-Who wants to know, did you use architectural softwares in any of your work? Any of the productions or no? Absolutely. So you did use art. I'd imagine they also want to know which ones you might have used. Sure. Blender, Max, Rhino. Those are the main ones. All right. Cynthia wants to know, is community building a part of this work? If not, do you see community building coming into future collaborations?
+I'd say she's mostly an angel. Okay.
+
+## Unattributed [22:04](https://www.youtube.com/watch?v=sbMbH55efqM&t=1324s)
+
+And the angel is put there in order to illustrate what?
+
+## Nina Kuo [22:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1330s)
+
+Hope. Hope for the future.
+
+## Unattributed [22:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=1333s)
+
+Okay. All right. And I just wanted to make a comment about how to tie in what I'm seeing now on the screen with what you had mentioned about performance, being involved in performance. Your images, your faces keep changing. Fading in and out of the screen. It's like you're being present and erased at the same time and at different points in time. So that sort of ties in, I think, with the performance. That's because our place is a mess.
+
+No, I think that's because the internet is fading in and out too. Oh, I know. I know it's the internet. But I just said that this coincidence plays into the performance aspect. The work.
+
+## Davonte Bradley [23:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=1385s)
+
+Thank you. The fickleness of technology.
+
+## Unattributed [23:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=1389s)
+
+I think this is, it's like a Greek arena.
+
+## Nina Kuo [23:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=1393s)
+
+Of course.
+
+## Unattributed [23:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=1394s)
+
+You know, where there's the stages, everyone. You know, each one of us is a part of the component of how the salon
+
+## Nina Kuo [23:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=1406s)
+
+Or
+
+## Unattributed [23:28](https://www.youtube.com/watch?v=sbMbH55efqM&t=1408s)
+
+The play is going to be reenacted. Yeah. We're in the Coliseum.
+
+## Davonte Bradley [23:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=1418s)
+
+All right. Let's see. What else do we have here? An earlier question about where is the work actually intended to be viewed? Is it art galleries or elsewhere?
+
+## Unattributed [23:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=1433s)
+
+Oh, everywhere. Anywhere is fine.
+
+## Nina Kuo [23:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=1437s)
+
+Our favorite is a big screen with a huge music system. That's our favorite.
+
+## Davonte Bradley [24:04](https://www.youtube.com/watch?v=sbMbH55efqM&t=1444s)
+
+And I do think that again, probably quite a bit of the presentation was probably lost because Zoom's limitation when it comes to audio sharing. But kind of the, we work with what we got pretty much.
+
+## Patrick Lichty [24:20](https://www.youtube.com/watch?v=sbMbH55efqM&t=1460s)
+
+By the way, if I can add one little thing is that I know that I was getting at some specifics. But the other thing is that I also see this as formal work in virtual reality. So I think it's really important that we're able to have some sort of like a virtual space where we can actually see what's happening in the virtual space. And I think that in itself is fantastic as well. You know, because I mean, artists like Banton Bowinkle and things like that, you know, and that sort of thing. So I mean, it's like, I think I was trying to drill in for some, you know, basically trying to tease out elements of elements of concept and form and things like that. And just trying to explore the matrix a little bit. And I thank you for your patience, by the way. Thank you.
+
+## Unattributed [25:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=1506s)
+
+Thank you. All right. Well, thank you for your input.
+
+## Davonte Bradley [25:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1510s)
+
+And thank you so far for the engagement that we've had already. And there's still more questions. They are slowly trickling in. The next question comes from, I think it's pronounced Sahar. Who wants to know, did you use architectural softwares in any of your work? Any of the productions or no? Absolutely. So you did use art. I'd imagine they also want to know which ones you might have used.
+
+## Nina Kuo [25:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=1545s)
+
+Sure. Blender, Max, Rhino. Those are the main ones.
+
+## Davonte Bradley [25:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=1553s)
+
+All right. Cynthia wants to know, is community building a part of this work? If not, do you see community building coming into future collaborations?
+
+## Unattributed [26:04](https://www.youtube.com/watch?v=sbMbH55efqM&t=1564s)
 
 Well, yeah. I mean, I think we're always trying to connect and build the community. You know, it's really difficult now. Nonprofits and educational places are really hurting. They were hurting before. I think that hopefully because of technology, we can communicate. You know, at a different level. But, you know, it's a, I think maybe a difference of economic means, you know, for some groups.
 
-So we need to kind of like decipher what it's going to mean to them. But internationally, I think working in new media kind of gives you more opportunities. Or ways to connect. So that's, keeping up with that is a real challenge. Considering technology is always advancing at a rapid pace. And new media definitely has to utilize new technology. So, yeah, I can definitely see that. Yeah. I want to hear from all of you, too, how that is going to impact your world. You know.
+So we need to kind of like decipher what it's going to mean to them. But internationally, I think working in new media kind of gives you more opportunities. Or ways to connect. So that's, keeping up with that is a real challenge.
 
-And people we know, you know, have kind of gone and disappeared into their cyber world. Because it's more convenient or it's more comfortable. So how much comfort do you need in the cyber world? That's another question. Because you posed one question and a host of other question marks. Yeah. So I think that's a good answer.
+## Davonte Bradley [27:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=1634s)
 
-Can I just. I just wanted to follow up. Could you tell us because of the introduction you talked about community building. And so what does that mean for you? Because I heard it as community building on the local level. But it also, of course, can be community building among artists internationally. So it sounds like you're doing both or you're interested in both. Well, I think. Sometimes you're not just an artist. You're, you know, you're a mother or you're a woman that needs to speak out for human rights.
+Considering technology is always advancing at a rapid pace. And new media definitely has to utilize new technology. So, yeah, I can definitely see that.
 
-So, you know, you can't stay apolitical. You need to see how you work is judged on social issues. So I think those are new, not just new questions, but, you know, I was always working. Yeah. With people of color and sort of like helping fundraise, you know, and that's becoming harder also for people too, because it's also the fundraising going on with, you know, online fundraising.
+## Unattributed [27:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=1646s)
 
-So maybe we need to change that. And of course. Depending on government agencies, you know, and public art and so forth. You know how, how they select what is appropriate. All good questions. They are. They are all very good questions. We need part two and three, everybody. Text us. There you go. We're going to go to the next question. Oh, there is.
+Yeah. I want to hear from all of you, too, how that is going to impact your world. You know. And people we know, you know, have kind of gone and disappeared into their cyber world. Because it's more convenient or it's more comfortable. So how much comfort do you need in the cyber world? That's another question.
 
-There is a question from Tommy who wants to know about the image that you currently have as your background. What, what's the story behind that? Oh, it's a created. Sculptural piece that Warren made and then he just kind of composed it. It was an illustration for a panel talk about. Imperfections creating imperfections in the digital world and make it seem more realistic.
+Because you posed one question and a host of other question marks. Yeah. So I think that's a good answer.
 
-All right. And then, oh, from question from Colin. Are any of your creative environments able to be experienced as VR spaces for users to explore? Yes, they actually they all are. But we found it just too painful in the gallery. Millia to present the VR. Just it's just too hard to complicate. But the headset.
+## Cynthia Beth Rubin [28:08](https://www.youtube.com/watch?v=sbMbH55efqM&t=1688s)
 
-What about like, you know, having them available online? Is that something that you guys do or ever plan to do is like, you know, creating a space where people can, you know, log in and sort of explore it, you know, from their own their own environment? We really felt uncomfortable with the lack of control during the pandemic. So we're trying to do that. And we're trying to do it online that way. So, so no.
+Can I just. I just wanted to follow up. Could you tell us because of the introduction you talked about community building. And so what does that mean for you? Because I heard it as community building on the local level. But it also, of course, can be community building among artists internationally. So it sounds like you're doing both or you're interested in both. Well, I think.
 
-Awesome. There's so many copyright issues, you know. It's very hard to deal with it on a business level. Thank you. Thank you for your question, Colin. We have a another question from. I'm not sure if I guess that's your handle. 1010 wants to know in today's cultural climate. Do you feel the need to address the hate crimes towards the API community in current or future works?
+## Unattributed [28:32](https://www.youtube.com/watch?v=sbMbH55efqM&t=1712s)
 
-Oh, sure. We've been, you know, going to the protest marches. Connected with many of the groups. Old friends, filmmakers are doing documentary and statistical work. So of course it's ongoing. It was always a lot of, you know, prejudice and racism. It's just more media centered now. I will say. Everyone needs help. So, you know, if you have ideas, you can always share them. Share.
+Sometimes you're not just an artist. You're, you know, you're a mother or you're a woman that needs to speak out for human rights. So, you know, you can't stay apolitical. You need to see how you work is judged on social issues. So I think those are new, not just new questions, but, you know, I was always working. Yeah. With people of color and sort of like helping fundraise, you know, and that's becoming harder also for people too, because it's also the fundraising going on with, you
+
+## Lee Musgrave [29:19](https://www.youtube.com/watch?v=sbMbH55efqM&t=1759s)
+
+Know, online fundraising.
+
+## Unattributed [29:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=1763s)
+
+So maybe we need to change that. And of course. Depending on government agencies, you know, and public art and so forth. You know how, how they select what is appropriate. All good questions.
+
+## Davonte Bradley [29:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=1792s)
+
+They are. They are all very good questions.
+
+## Unattributed [29:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=1796s)
+
+We need part two and three, everybody. Text us. There you go.
+
+## Davonte Bradley [30:04](https://www.youtube.com/watch?v=sbMbH55efqM&t=1804s)
+
+We're going to go to the next question. Oh, there is. There is a question from Tommy who wants to know about the image that you currently have as your background. What, what's the story behind that?
+
+## Unattributed [30:19](https://www.youtube.com/watch?v=sbMbH55efqM&t=1819s)
+
+Oh, it's a created. Sculptural piece that Warren made and then he just kind of composed it.
+
+## Nina Kuo [30:28](https://www.youtube.com/watch?v=sbMbH55efqM&t=1828s)
+
+It was an illustration for a panel talk about. Imperfections creating imperfections in the digital world and make it seem more realistic.
+
+## Davonte Bradley [30:44](https://www.youtube.com/watch?v=sbMbH55efqM&t=1844s)
+
+All right. And then, oh, from question from Colin. Are any of your creative environments able to be experienced as VR spaces for users to explore?
+
+## Nina Kuo [30:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=1856s)
+
+Yes, they actually they all are. But we found it just too painful in the gallery. Millia to present the VR. Just it's just too hard to complicate.
+
+## Unattributed [31:07](https://www.youtube.com/watch?v=sbMbH55efqM&t=1867s)
+
+But the headset.
+
+## Colin Goldberg [31:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=1870s)
+
+What about like, you know, having them available online? Is that something that you guys do or ever plan to do is like, you know, creating a space where people can, you know, log in and sort of explore it, you know, from their own their own environment?
+
+## Nina Kuo [31:27](https://www.youtube.com/watch?v=sbMbH55efqM&t=1887s)
+
+We really felt uncomfortable with the lack of control during the pandemic. So we're trying to do that. And we're trying to do it online that way. So, so no.
+
+## Unattributed [31:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=1896s)
+
+Awesome. There's so many copyright issues, you know. It's very hard to deal with it on a business level. Thank you.
+
+## Davonte Bradley [31:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=1913s)
+
+Thank you for your question, Colin. We have a another question from. I'm not sure if I guess that's your handle. 1010 wants to know in today's cultural climate. Do you feel the need to address the hate crimes towards the API community in current or future works?
+
+## Unattributed [32:19](https://www.youtube.com/watch?v=sbMbH55efqM&t=1939s)
+
+Oh, sure. We've been, you know, going to the protest marches. Connected with many of the groups. Old friends, filmmakers are doing documentary and statistical work. So of course it's ongoing. It was always a lot of, you know, prejudice and racism. It's just more media centered now.
+
+## Davonte Bradley [32:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=1972s)
+
+I will say.
+
+## Unattributed [32:54](https://www.youtube.com/watch?v=sbMbH55efqM&t=1974s)
+
+Everyone needs help. So, you know, if you have ideas, you can always share them. Share.
+
+## Davonte Bradley [33:02](https://www.youtube.com/watch?v=sbMbH55efqM&t=1982s)
 
 So one of the things that's changed at least on that front is just the fact that it's a lot more. In public eye, so to speak and shared. With the world because now everyone literally does have a camera in their hands on a regular basis. And they're using it to document, not just their lives, but the lives of people going on around them and the interactions of. You know, their communities and. You can share that with everyone and it has the potential to reach the entire world. So.
 
-Activism has changed a lot in that way. And then getting the message out about, you know, just certain things in cultural spaces has changed because of that too. Yes. I don't see any more questions currently in the chat. I wasn't sure if. Verna did you have something else that you want to ask because I saw you did raise your hand earlier. I'm not sure if that was on accident or.
+Activism has changed a lot in that way. And then getting the message out about, you know, just certain things in cultural spaces has changed because of that too.
 
-You had another question. No, I don't have another question, but thank you. All right. Well, that takes care of that. Did anyone else have any questions? I think we have a couple more. I think we have a couple more questions that they want to ask Nina or. Oh, Colin has one. Okay. What would be your interpretation of the idea of expressionism in relation to your work or practice.
+## Unattributed [33:49](https://www.youtube.com/watch?v=sbMbH55efqM&t=2029s)
 
-Well, I think it's fundamental to the creation of the work that. I originally got into CGI as an architect for business reasons and just became fascinated with the possibilities as an artist later on. And so that combination of technology and art is very important to our work. And thank you again for hosting us. And giving us space and time.
+Yes.
 
-Absolutely. You guys got connected to the group through Giovanna, right? Yes, that's correct. Well, thank you so much. And thanks Giovanna for bringing these artists in. Oh, well, I mean. I'm glad to because that's the whole thing for, right? We want to push this big movement. I feel wonderful and I so appreciate it because recently I really, I saw a lot of NFTs. It's just because I figured out that because I was featured by Take Pressure Nisei on Instagram. You know, I keep talking to other people that, you know, this is the greatest movement. And this is a new genre. We're going to make it. You know, everybody, all the artists in the world that we're going to make it is going to be the next genre for the big art movement.
+## Davonte Bradley [33:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=2033s)
 
-And by the way, I really, yeah, also because I really love all the artists that this is such a great, great, great circle. Well, I won't say circle community, but this, you know, like this so warm and so that I can feel. Yeah, great platform. Yeah, yeah, yeah. And I am glad that this, I think Nina and the, I think I saw your work all over anywhere in New York already. You are well established.
+I don't see any more questions currently in the chat. I wasn't sure if. Verna did you have something else that you want to ask because I saw you did raise your hand earlier. I'm not sure if that was on accident or.
 
-Yeah, I would like to get the audio track of the music so I can add it to the podcast. Actually, I hardly to hear anything. I know because of the problem with the Zoom. Thank you. Thank you all. Thank you. And I know I actually kind of missed a few steps in my intro process because I guess I got ahead of myself because that happens.
+## Unattributed [34:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=2049s)
 
-But thank you. Thank you very much for your presentation. Thank you very much for your engagement with everyone here with their questions. And thank you. Thank you for your presentation was very interesting I wish I wish I could have heard been able to hear it on the way it was intended to be heard but we'll find a way to do that for sure.
+You had another question. No, I don't have another question, but thank you.
 
-That being said, I think we can you know give you a round of applause. Because that is definitely an order. Thank you. I wanted to let everyone know also both. Both artists that just presented. Are in the index now under New York. So you could find links to their sites there as well. Like a whole bunch of like copy and paste things because it just makes your life so much easier. By the way, yeah, please do utilize the artist index. If you are tuning in from YouTube or elsewhere and you're watching this, please go to the Techspressionism website and check out the artist index. You'll, there's a long list of artists with their websites and their Instagrams and it's a great way to be able to connect with people that are interesting, including people that you see here in this meeting. So we're all there.
+## Davonte Bradley [34:15](https://www.youtube.com/watch?v=sbMbH55efqM&t=2055s)
 
-So please feel free to utilize that resource. It's there for a reason. And with that being said, oh, let's see. I will drop the URL for the index right around the time that's the next presentation to get started or Colin can cover it for me. And that's that. No problem taking care of. All right. So now we have our second
+All right. Well, that takes care of that. Did anyone else have any questions? I think we have a couple more. I think we have a couple more questions that they want to ask Nina or. Oh, Colin has one. Okay. What would be your interpretation of the idea of expressionism in relation to your work or practice.
 
-## Emma Anne Johnson [38:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=2330s)
+## Nina Kuo [34:34](https://www.youtube.com/watch?v=sbMbH55efqM&t=2074s)
 
-Presentation for the day with Emma. Are you ready to go? Yeah, thank you. All right. Can you hear me okay? Yep. And for everyone, because I didn't say this before, but it's kind of just like an implied thing. If you have any questions or comments that you'd like to say, please save those for the end of the presentation. Keep your, self mute it for the duration of the presentation. Just because, you know, that's respectful and interrupting would be rude. So yeah. Is it convenient for you? Emma, you have the floor. Okay. Thank you. You're welcome. Sorry for the background noise. New York doesn't know how to be quiet.
+Well, I think it's fundamental to the creation of the work that. I originally got into CGI as an architect for business reasons and just became fascinated with the possibilities as an artist later on. And so that combination of technology and art is very important to our work.
 
-But I'm going to share my screen. So made a little, thing to stay on topic. Expressionism and my personal philosophy. I'm a millennial. And I feel like I'm born into expressionism. I first learned how to draw Microsoft Paint when I was not paying attention in my computer class in fourth grade. And I feel like that is where the world is moving. And yeah.
+## Unattributed [34:58](https://www.youtube.com/watch?v=sbMbH55efqM&t=2098s)
+
+And thank you again for hosting us. And giving us space and time. Absolutely.
+
+## Colin Goldberg [35:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=2105s)
+
+You guys got connected to the group through Giovanna, right?
+
+## Nina Kuo [35:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=2110s)
+
+Yes, that's correct.
+
+## Colin Goldberg [35:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=2113s)
+
+Well, thank you so much. And thanks Giovanna for bringing these artists in.
+
+## Giovanna Sun [35:18](https://www.youtube.com/watch?v=sbMbH55efqM&t=2118s)
+
+Oh, well, I mean. I'm glad to because that's the whole thing for, right? We want to push this big movement. I feel wonderful and I so appreciate it because recently I really, I saw a lot of NFTs. It's just because I figured out that because I was featured by Take Pressure Nisei on Instagram. You know, I keep talking to other people that, you know, this is the greatest movement. And this is a new genre. We're going to make it. You know, everybody, all the artists in the world that we're going to make it is going to be the next genre for the big art movement.
+
+And by the way, I really, yeah, also because I really love all the artists that this is such a great, great, great circle. Well, I won't say circle community, but this, you know, like this so warm and so that I can feel.
+
+## Unattributed [36:17](https://www.youtube.com/watch?v=sbMbH55efqM&t=2177s)
+
+Yeah, great platform.
+
+## Giovanna Sun [36:19](https://www.youtube.com/watch?v=sbMbH55efqM&t=2179s)
+
+Yeah, yeah, yeah. And I am glad that this, I think Nina and the, I think I saw your work all over anywhere in New York already. You are well established. Yeah, I would like to get the audio track of the music so I can add it to the podcast. Actually, I hardly to hear anything. I know because of the problem with the Zoom.
+
+## Unattributed [36:46](https://www.youtube.com/watch?v=sbMbH55efqM&t=2206s)
+
+Thank you. Thank you all.
+
+## Giovanna Sun [36:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=2210s)
+
+Thank you.
+
+## Davonte Bradley [36:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=2213s)
+
+And I know I actually kind of missed a few steps in my intro process because I guess I got ahead of myself because that happens. But thank you. Thank you very much for your presentation. Thank you very much for your engagement with everyone here with their questions. And thank you. Thank you for your presentation was very interesting I wish I wish I could have heard been able to hear it on the way it was intended to be heard but we'll find a way to do that for sure.
+
+That being said, I think we can you know give you a round of applause. Because that is definitely an order. Thank you.
+
+## Colin Goldberg [37:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=2258s)
+
+I wanted to let everyone know also both. Both artists that just presented.
+
+## Unattributed [37:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=2263s)
+
+Are in the index now under New York.
+
+## Colin Goldberg [37:46](https://www.youtube.com/watch?v=sbMbH55efqM&t=2266s)
+
+So you could find links to their sites there as well.
+
+## Unattributed [37:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=2270s)
+
+Like a whole bunch of like copy and paste things because it just makes your life so much easier.
+
+## Davonte Bradley [37:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=2276s)
+
+By the way, yeah, please do utilize the artist index. If you are tuning in from YouTube or elsewhere and you're watching this, please go to the Techspressionism website and check out the artist index. You'll, there's a long list of artists with their websites and their Instagrams and it's a great way to be able to connect with people that are interesting, including people that you see here in this meeting. So we're all there. So please feel free to utilize that resource. It's there for a reason.
+
+And with that being said, oh, let's see. I will drop the URL for the index right around the time that's the next presentation to get started or Colin can cover it for me. And that's that. No problem taking care of. All right. So now we have our second presentation for the day with Emma. Are you ready to go?
+
+## Emma Anne Johnson [38:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=2336s)
+
+Yeah, thank you.
+
+## Davonte Bradley [38:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=2337s)
+
+All right.
+
+## Emma Anne Johnson [38:58](https://www.youtube.com/watch?v=sbMbH55efqM&t=2338s)
+
+Can you hear me okay?
+
+## Davonte Bradley [38:59](https://www.youtube.com/watch?v=sbMbH55efqM&t=2339s)
+
+Yep. And for everyone, because I didn't say this before, but it's kind of just like an implied thing. If you have any questions or comments that you'd like to say, please save those for the end of the presentation. Keep your, self mute it for the duration of the presentation. Just because, you know, that's respectful and interrupting would be rude. So yeah.
+
+## Unattributed [39:21](https://www.youtube.com/watch?v=sbMbH55efqM&t=2361s)
+
+Is it convenient for you?
+
+## Davonte Bradley [39:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=2363s)
+
+Emma, you have the floor.
+
+## Emma Anne Johnson [39:25](https://www.youtube.com/watch?v=sbMbH55efqM&t=2365s)
+
+Okay. Thank you. You're welcome. Sorry for the background noise. New York doesn't know how to be quiet. But I'm going to share my screen. So made a little, thing to stay on topic. Expressionism and my personal philosophy. I'm a millennial. And I feel like I'm born into expressionism. I first learned how to draw Microsoft Paint when I was not paying attention in my computer class in fourth grade. And I feel like that is where the world is moving. And yeah.
 
 So these are stills from animations I made. And I'm going to show you. Look. I'm going to show you. Code of what I use. I use a software called Processing. It's an open source code. And I make frame by frame animations. I was always fascinated with old school movies. And I saw one of those spinny things go around once. And I was like, yes, I want to make frame by frame animations. I just have to change something. Real quick.
 
@@ -144,17 +582,51 @@ And so you would do a different projection. These are just different keys. But b
 
 I worked for the university sculpture professor who gave me access to all the art studios, which was key. And now I have some videos. It was kind of hard to find stuff because I never really. During the whole thing of installation was a lot of how it was only there for a week or a day. And it would disappear after that.
 
-OK. Here we go. This is that. And the lighting. Would also be triggered with either piezo sensors or color organ circuits, which are circuits that respond to music and sound. This was one of my humanoid installations, and the humanoids were based on just kind of questioning the line between machine and man. With learning electrical engineering, the most prevalent information that stuck with me was the uncertainty principle, which is like science, yeah, it's there, but still it's kind of up in the air and magical and mystical. So this is another one of those.
+## Unattributed [42:59](https://www.youtube.com/watch?v=sbMbH55efqM&t=2579s)
 
-This is at a music festival. And here's more. This is from like testing an installation, and this one lit up as people walked by, these piezo sensors. So as you walk by, yeah. And this is kind of change. And this is also, I also use random event generators, like what you're seeing here. The pixels are completely just doing their own thing, coming up with their own colors.
+OK. Here we go. This is that.
 
-And this was my first installation, and it was in a building. And they, you know, wanted me to do something to speak to the architecture of the building. And I ended up researching the building and finding out that like they had these busts on the front, and they were the lead scientists in the eugenics movement, which freaked me out. So I decided to make an animation that this was the animation that was projected on the building.
+## Emma Anne Johnson [43:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=2589s)
 
-And then, I made this mask that was kind of, it was trying to like expose the history behind these busts. You'll see it. So it was called Williams. Those were the busts on the front of the museum. So the masks were like, yeah, in those head shapes. It was big. It was like in this huge stairwell. And it was set up with another piezo, and the projector would turn on when anybody walks by. It was kind of spooky because it had sound too. So. Yeah.
+And the lighting. Would also be triggered with either piezo sensors or color organ circuits, which are circuits that respond to music and sound. This was one of my humanoid installations, and the humanoids were based on just kind of questioning the line between machine and man. With learning electrical engineering, the most prevalent information that stuck with me was the uncertainty principle, which is like science, yeah, it's there, but still it's kind of up in the air and magical and mystical. So this is another one of those.
 
-And you wrote a paper called Types of Mankind. And then I just made a little like response to it saying, humankind cannot be defined. Get out of here, Louis. So yeah, other work I did in that building was they asked me to make a monument. And I made this sculpture. And it was an ode to my mother. And it was a little bit of a, you know, I don't know if you've seen it. But it was used out of all electrical waste.
+This is at a music festival.
 
-It's called Monument. Here's another video of that installation at double speed sometimes. So the animation would play. It was randomly, like the speed was random. So it would play super fast or it would take a long time. It was never like the same speed when the animation was played. Here's more lighting sculptures. This was like the first thing I did. And then I made this sculpture. And then I made this sculpture. This is like the color. I don't know if you can hear the sound, but it's responding to the sound.
+## Unattributed [44:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=2646s)
+
+And here's more. This is from like testing an installation, and this one lit up as people walked by, these piezo sensors. So as you walk by, yeah. And this is kind of change.
+
+## Emma Anne Johnson [44:33](https://www.youtube.com/watch?v=sbMbH55efqM&t=2673s)
+
+And this is also, I also use random event generators, like what you're seeing here. The pixels are completely just doing
+
+## Unattributed [44:41](https://www.youtube.com/watch?v=sbMbH55efqM&t=2681s)
+
+Their own thing, coming up with their own colors. And this
+
+## Emma Anne Johnson [44:51](https://www.youtube.com/watch?v=sbMbH55efqM&t=2691s)
+
+Was my first installation, and it was in a building. And they, you know, wanted me to do something to speak to the architecture of the building. And I ended up researching the building and finding out that like they had these busts on the front, and they were the lead scientists in the eugenics movement, which freaked me out. So I decided to make an animation that this was the animation that was projected on the building.
+
+And then, I made this mask that was kind of, it was trying to like expose the history behind these busts. You'll see it.
+
+## Unattributed [45:43](https://www.youtube.com/watch?v=sbMbH55efqM&t=2743s)
+
+So it was called Williams. Those were the busts on the front of the museum.
+
+## Emma Anne Johnson [46:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=2773s)
+
+So the masks were like, yeah, in those head shapes. It was big. It was like in this huge stairwell. And it was set up with another piezo, and the projector would turn on when anybody walks by. It was kind of spooky because it had sound too. So. Yeah. And you wrote a paper called Types of Mankind. And then I just made a little like response to it saying, humankind cannot be defined. Get out of here, Louis. So yeah, other work I did in that building was they asked me to make a monument. And I made this sculpture.
+
+And it was an ode to my mother. And it was a little bit of a, you know, I don't know if you've seen it. But it was used out of all electrical waste. It's called Monument. Here's another video of that installation at double speed sometimes. So the animation would play. It was randomly, like the speed was random. So it would play super fast or it would take a long time. It was never like the same speed when the animation was played.
+
+Here's more lighting sculptures. This was like the first thing I did. And then I made this sculpture. And then I made this sculpture. This is like the color.
+
+## Unattributed [47:32](https://www.youtube.com/watch?v=sbMbH55efqM&t=2852s)
+
+I don't know if you can hear the sound, but it's responding to the sound.
+
+## Emma Anne Johnson [47:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=2859s)
 
 And the thing about the installations is I had like I gained more and more sculptures. And then a lot of them, they were space oriented. So depending on the space and like the history of the space, they were rearranged in different settings. But the sculptures were reused until they did not work anymore.
 
@@ -168,143 +640,523 @@ I first painted them like years ago and then with as the events came to me that'
 
 And then this one was warm colors. The other one was this one was secondary colors. And then as certain events happened that's when I started oh well first the pandemic happened. So I stopped all music installation and it kind of like forced me to do this. To do what I was avoiding was like the sit in the studio alone and just do the work. And that's kind of what caused me to move to painting subjects on top of the abstract expressionist artworks. And so this one came first. This happened this was the media headline imagery and I use a projector to so that's kind of like expressionism. I find in is my 2d artworks is I use either a projector or I take I print out someone's like Instagram photo and I create my palettes like my painting palettes from digital inkjet prints. So I kind of want to like bring the dimension of what is stimulated all the time through like our feeds into like the third dimension if that works.
 
-So that's kind of what I'm trying to do. Makes sense kind of and then this I painted I painted and drew these last year and these were also projections and they were photos I took of actual events that happened that I went to in New York protests. And then I took a picture of the events that happened at I went to in New York protests. And then these are drawings and also taken from digital imagery. These little creatures in the middle were from a picture my mother sent me. These are from a picture of a recipe someone I was working as a nanny they sent me. These this is from Greek mythology I was just reading about it online. So this was identity and it was kind of like how I was forming my sense of self at that time. And this was based off of I went to the Whitney American Museum of Southwestern Art and around that about a year before that I was working with I helped that professor I worked for move her studio to Santa Fe and she lived with a Pueblo lady out there who invited me to her reservation and her homeland and for a feast day celebration.
+## Unattributed [52:55](https://www.youtube.com/watch?v=sbMbH55efqM&t=3175s)
 
-And it was one of the best moments of my life and I learned a lot and that's what kind of inspired this drawing. And then this is a drawing of my fears and it was kind of me facing my fears. And the layers I first drew the inside layer like my biggest fear and this was drawn during the pandemic. If you didn't because the germs I wonder if I can hold on.
+So that's kind of what I'm trying to do. Makes sense kind of and then
 
-Sorry can you see it okay? Okay yeah and then this was me turning this one into a wallpaper. And then here's America the Bold and this was me dealing with what was going on. I painted this during the presidential debate. Yeah as a way of humorizing it. This is I drew the insurrection the media headline imagery that followed that. And it has mirrors on the back of it so it's America this is our mirror. This is broken skateboards and I call it broken dreams.
+## Emma Anne Johnson [53:03](https://www.youtube.com/watch?v=sbMbH55efqM&t=3183s)
 
-Okay so now that's over what I'm working on right now is a lot more uplifting. It's so I'm trying to so I'm trying to this the colors that make up the rainbow of my life so very personal people that mean a lot to me and that also I have an in-depth social media relationship. So I usually contact so I get all these images off of social media and then they are accompanied with abstract expressionist backgrounds that I use to make my work. Images that I paint beforehand.
+This I painted I painted and drew these last year and these were also projections and they were photos I took of actual events that happened that I went
 
-And this and these are the palettes that are completely made off of digital inkjet prints and the images I choose to bring into this dimension. So yeah. And so I just want to start with the ready-to-use And this is this is the And then I actually have this one here. And then I actually have this one here. And then here's a picture of what my studio looks like right now. And then I actually have this one here. And then I actually have this one here. More kind of background images.
+## Unattributed [53:20](https://www.youtube.com/watch?v=sbMbH55efqM&t=3200s)
 
-Just previous, these were my first lighting sculptures made out of bean cans. And they were set up in this kind of setting. So we're programming them. Here's another monument. This, these were plaster molds of light bulbs. Early drawing humanoid too. And I believe, oh, I have one more video of an installation.
+To in New York protests. And then I took a picture of the events that happened at I went to in New York protests. And then these are drawings
 
-This is the test run, but this was called the feeling machine. And this was one that like sensed your presence with the paisos. They were like spread around the stage. So when people got up closer to the entertainment, the brighter the lights got, and the more they responded to the music. And yeah, that's, that should be good.
+## Emma Anne Johnson [53:40](https://www.youtube.com/watch?v=sbMbH55efqM&t=3220s)
 
-I'll stop sharing this. All right. Well, thank you Emma for your presentation. Thank you for having me. No problem. No problem. All right. Are you ready for your Q and A session? Yeah. All right. Unfortunately, there's actually no questions currently in the chat. Okay. But I guess I can, oh, well, nevermind. We got one in the queue. Vernada.
+And also taken from digital imagery. These little creatures in the middle were from a picture my mother sent me. These are from a picture of a recipe someone I was working as a nanny they sent me. These this is from Greek mythology I was just reading about it online. So this was identity and it was kind of like how I was forming my sense of self at that time. And this was based off of I went to the Whitney American Museum of Southwestern Art and around that about a year before that I was working with I helped that professor I worked for move her studio to Santa Fe and she lived with a Pueblo lady out there who invited me to her reservation and her homeland and for a feast day celebration. And it was one of the best moments of my life and I learned a lot and that's what kind of inspired this drawing.
+
+And then this is a drawing of my fears and it was kind of me facing my fears. And the layers I first drew the inside layer like my biggest fear and this was drawn during the pandemic. If you didn't because the germs I wonder if I can hold on.
+
+## Unattributed [55:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=3326s)
+
+Sorry can you see it okay? Okay yeah and then this was me turning this one into a wallpaper. And then here's America the Bold and this was me dealing with what
+
+## Emma Anne Johnson [56:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=3360s)
+
+Was going on. I painted this during the
+
+## Unattributed [56:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=3365s)
+
+Presidential debate.
+
+## Emma Anne Johnson [56:08](https://www.youtube.com/watch?v=sbMbH55efqM&t=3368s)
+
+Yeah as a way of humorizing it. This is I drew the insurrection the media headline imagery that followed that. And it has mirrors on the back of it so it's America this is our mirror. This is broken skateboards and I call it broken dreams. Okay so now that's over what I'm working on right now is a lot more uplifting. It's so I'm trying to so I'm trying to this the colors that make up the rainbow of my life so very personal people that mean a lot to me and that also I have an in-depth social media relationship.
+
+So I usually contact so I get all these images off of social media and then they are accompanied with abstract expressionist backgrounds that I use to make my work. Images that I paint beforehand. And this and these are the palettes that are completely made off of digital inkjet prints and the images I choose to bring into this dimension. So
+
+## Unattributed [57:41](https://www.youtube.com/watch?v=sbMbH55efqM&t=3461s)
+
+Yeah. And so I just want to start with the ready-to-use And this is this is the And then I actually have this one here. And then I actually have this one here. And then here's a picture of what my studio looks like right now. And then I actually have this one here. And then I actually have this one here. More kind
+
+## Emma Anne Johnson [58:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=3503s)
+
+Of background images. Just previous, these were my first lighting sculptures made out of bean cans. And they were set up in this kind of setting. So we're programming them. Here's another monument. This, these were plaster molds of
+
+## Unattributed [58:49](https://www.youtube.com/watch?v=sbMbH55efqM&t=3529s)
+
+Light bulbs. Early drawing humanoid too. And I believe, oh,
+
+## Emma Anne Johnson [59:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=3546s)
+
+I have one more video of an installation. This is the test run, but this was called the feeling machine. And this was one that like sensed your presence with the paisos. They were like spread around the stage. So when people got up closer to the entertainment, the brighter the lights got, and the more they responded to the music.
+
+## Unattributed [59:28](https://www.youtube.com/watch?v=sbMbH55efqM&t=3568s)
+
+And yeah, that's, that should be good. I'll stop sharing this. All right. Well, thank you Emma for your presentation.
+
+## Emma Anne Johnson [59:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=3585s)
+
+Thank you for having me.
+
+## Davonte Bradley [59:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=3587s)
+
+No problem. No problem. All right. Are you ready for your Q and A session?
+
+## Unattributed [59:53](https://www.youtube.com/watch?v=sbMbH55efqM&t=3593s)
+
+Yeah.
+
+## Davonte Bradley [59:54](https://www.youtube.com/watch?v=sbMbH55efqM&t=3594s)
+
+All right. Unfortunately, there's actually no questions currently in the chat.
+
+## Unattributed [59:59](https://www.youtube.com/watch?v=sbMbH55efqM&t=3599s)
+
+Okay.
+
+## Davonte Bradley [01:00:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=3600s)
+
+But I guess I can, oh, well, nevermind. We got one in the queue. Vernada.
+
+## Unattributed [01:00:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=3609s)
 
 Hello. Thank you for your presentation. I identified with your starting off drawing in with paint. I started off the same way. Although I was much, much younger than you were at the time of your beginnings. What you say in the fourth grade or something like that. So but I noticed that some of your earlier drawings resembled hieroglyphics.
 
-Was that something intentional or is it a coincidence? I don't think it was intentional. No, but I definitely, I work based on symbolism, which is what kind of what hieroglyphics are. Like the Egyptians used hieroglyphics because they knew pictures spoke louder than words. I remember reading that in the Met.
+Was that something intentional or is it a coincidence?
 
-So I definitely identify with that aspect of the symbolism and the drawings. It's all kind of based off of, I actually have a picture. I was going to present it, but it's of my, like when I'm working on a drawing, I have everything kind of. Put out like a map almost like I'm looking at a treasure hunt. Like there's all the, like I print out all the images that I'm going to use. And that kind of like the image feeds into the drawing.
+## Emma Anne Johnson [01:00:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=3647s)
+
+I don't think it was intentional. No, but I definitely, I work based on symbolism, which is what kind of what hieroglyphics are. Like the Egyptians used hieroglyphics because they knew pictures spoke louder than words. I remember reading that in the Met. So I definitely identify with that aspect of the symbolism and the drawings. It's all kind of based off of, I actually have a picture. I was going to present it, but it's of my, like when I'm working on a drawing, I have everything kind of. Put out like a map almost like I'm looking at a treasure hunt. Like there's all the, like I print out all the images that I'm going to use. And that kind of like the image feeds into the drawing.
+
+## Unattributed [01:01:34](https://www.youtube.com/watch?v=sbMbH55efqM&t=3694s)
 
 I see. And I have another question. One of your abstract expressionist drawings. If I remember correctly, said you did it during COVID. And it seemed to me that the figure that. You drew was surrounded by spike proteins. What could something that resembles the spike protein of the coronavirus, but only it looked more like tombstones.
 
-Oh yeah. It is both. So that has layers. That one has seven layers of fears and the. The. I think the fourth layer was the. Coronavirus and different germs, just like any disease. I drew a bunch of cancer cells and other deadly disease. Viruses kind of things. And then that was death. I was like this. That was the sixth year was so I drew tombstones.
+## Emma Anne Johnson [01:02:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=3726s)
 
-Okay. I thought I could see the tombstones and. And that sort of surrounded the figure. And much in the same way that the spike proteins. Surround the outer surface of the coronavirus. And I thought that was a very interesting and effective use of symbolism. And merging of threats, visual threats. Thank you. Thank you.
+Oh yeah. It is both. So that has layers. That one has seven layers of fears and the. The. I think the fourth layer was the. Coronavirus and different germs, just like any disease. I drew a bunch of cancer cells and other deadly disease. Viruses kind of things.
 
-Thank you. Thank you. Thank you. Thank you. I'd also like to chime in that I was also one of those kids that was an early user of MS paint, except I was using it all the way back on windows 98. So this was before I was even like technically in grade school when I was using MS paid. So that's advanced.
+## Unattributed [01:02:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=3758s)
 
-Yeah. I think I was like four or five years old at the time. So yeah. Yeah. Yeah. He doesn't think he should have. Let's see. Yeah. Yeah. Yeah. Yeah. Oh, Roz has a question. So Roz wants to know, can you speak to your transition from animated pieces back to still images? Yeah. Maybe I can reiterate that a little. You know, hard to make, you know, I speak in layers like my own work, but I, I appreciated, you know, I think it's really important that we're talking about this in this conversation. But I, I appreciate it. Your presentation so much. I mean, you were going around so fast. People always tell me you Roz, you talk too fast and went, wow, look at this woman. I mean, you were going, it was, it's like the whole new language of the screen. Watching you, but I was fast. I've been very fascinated recently with and there's been an article about it recently in the New York times of how the still image versus the animated whiz bang stuff going on.
+And then that was death.
 
-And I don't mean to say that everything is whiz bang in animation, but there's something about a still image that can be. You know, you can sit with and look at and stay with, and I've always been interested in that in my own work, which is why they're both animations and still imageries together. But I wanted to just hear how watching you speeding up and going through the animated programming that you were doing. Pieces and then, and then said, then I decided to be a painter. I just thought that was great.
+## Emma Anne Johnson [01:02:41](https://www.youtube.com/watch?v=sbMbH55efqM&t=3761s)
+
+I was like this. That was the sixth year was so I drew tombstones.
+
+## Unattributed [01:02:46](https://www.youtube.com/watch?v=sbMbH55efqM&t=3766s)
+
+Okay. I thought I could see the tombstones and. And that sort of surrounded the figure. And much in the same way that the spike proteins. Surround the outer surface of the coronavirus. And I thought that was a very interesting and effective use of symbolism. And merging of threats, visual threats.
+
+## Emma Anne Johnson [01:03:14](https://www.youtube.com/watch?v=sbMbH55efqM&t=3794s)
+
+Thank you.
+
+## Unattributed [01:03:15](https://www.youtube.com/watch?v=sbMbH55efqM&t=3795s)
+
+Thank you. Thank
+
+## Davonte Bradley [01:03:20](https://www.youtube.com/watch?v=sbMbH55efqM&t=3800s)
+
+You. Thank you. Thank you. Thank you. I'd also like to chime in that I was also one of those kids that was an early user of MS paint, except I was using it all the way back on windows 98. So this was before I was even like technically in grade school when I was using MS paid.
+
+## Unattributed [01:03:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=3816s)
+
+So that's advanced.
+
+## Davonte Bradley [01:03:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=3819s)
+
+Yeah.
+
+## Unattributed [01:03:40](https://www.youtube.com/watch?v=sbMbH55efqM&t=3820s)
+
+I think I was like four
+
+## Davonte Bradley [01:03:41](https://www.youtube.com/watch?v=sbMbH55efqM&t=3821s)
+
+Or five years old at the time. So yeah.
+
+## Unattributed [01:03:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=3825s)
+
+Yeah. Yeah. He doesn't think he should have. Let's see.
+
+## Davonte Bradley [01:03:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=3830s)
+
+Yeah.
+
+## Unattributed [01:03:51](https://www.youtube.com/watch?v=sbMbH55efqM&t=3831s)
+
+Yeah.
+
+## Davonte Bradley [01:03:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=3832s)
+
+Yeah. Yeah. Oh, Roz has a question. So Roz wants to know, can you speak to your transition from animated pieces back to still images?
+
+## Unattributed [01:04:03](https://www.youtube.com/watch?v=sbMbH55efqM&t=3843s)
+
+Yeah.
+
+## Roz Dimon [01:04:11](https://www.youtube.com/watch?v=sbMbH55efqM&t=3851s)
+
+Maybe I can reiterate that a little. You know, hard to make, you know, I speak in layers like my own work, but I, I appreciated, you know, I think it's really important that we're talking about this in this conversation. But I, I appreciate it. Your presentation so much. I mean, you were going around so fast. People always tell me you Roz, you talk too fast and went, wow, look at this woman. I mean, you were going, it was, it's like the whole new language of the screen. Watching you, but I was fast. I've been very fascinated recently with and there's been an article about it recently in the New York times of how the still image versus the animated whiz bang stuff going on. And I don't mean to say that everything is whiz bang in animation, but there's something about a still image that can be.
+
+You know, you can sit with and look at and stay with, and I've always been interested in that in my own work, which is why they're both animations and still imageries together. But I wanted to just hear how watching you speeding up and going through the animated programming that you were doing. Pieces and then, and then said, then I decided to be a painter. I just thought that was great.
 
 And it's, it's watching a new generation at work with all this stuff. But I just wondered how you felt about, is there a quietness or something about coming down to a still image and working with it a while, or I just wanted you to speak to that. If you could a little bit. The still versus the everything in movement or maybe they're together. I don't know for you.
 
+## Emma Anne Johnson [01:05:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=3938s)
+
 Okay. Yeah, I definitely. Kind of transitioning back into the drawing. I never thought of doing drawing for anyone else other than myself. Before, like I started with the animation and that's what I did as like visual art for other people. And then when I kind of lost that outlet of like the world shutting off and there was no, it did not look like I was going to do another installation for a good amount of time. That's when I kind of was like, how can I do this in a form? And that's yeah. Kind of what. Transformed. Into drawing.
 
-The black and white drawings. And then that's kind of what moved me into the. Also the painting. Yeah. And the just sitting. Yeah. I was kind of resisting that until the pandemic, which kind of forced me to sit with myself and do that practice of it. So. Yeah. Thanks. All right. We have. A question from Colin. He says, I saw in your feed what looked like a sculptural, a sculptural piece with what looked like a cracked smartphone and a street sign. Can you tell us a little bit about it? Oh, yeah. I actually have.
+The black and white drawings. And then that's kind of what moved me into the. Also the painting. Yeah. And the just sitting. Yeah. I was kind of resisting that until the pandemic, which kind of forced me to sit with myself and do that practice of it. So. Yeah. Thanks.
 
-One of the cracked. Smartphone and then also one of windows 95. Which was my first. Just experience with a personal computer. And then now. My experience. With a personal computer is the smartphone. So I was just kind of reflecting on that and made those pieces. And. The there's a lot of. I put mere shards and circuits. And it just kind of. Reflecting on the fragility of technology in many ways, like a lot of people have cracked smartphone screens. And also. Just.
+## Davonte Bradley [01:06:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=4007s)
 
-There's lots of. Questions of the psychology. How it's affecting the next generation and my generation. The. Fragility of mental stability. And. So. That's kind of what. I can show you. Should I. Share the screen again. Yeah, you go ahead. Okay. Yeah. Yeah. Yeah. Okay. And then I called this series Techspressionism after learning about your term because I'm literally expressive technology.
+All right. We have. A question from Colin. He says, I saw in your feed what looked like a sculptural, a sculptural piece with what looked like a cracked smartphone and a street sign. Can you tell us a little bit about it?
 
-But here's the windows 95. And yeah, it has mere shards. And objects. And actually all of my two dimensional. Pieces, although they don't look like it, they're all found objects. They're either like old posters. Old pieces of paper or. Things I found on the side of the road. A lot of them came from working in the music industry, like the big boards of plywood.
+## Emma Anne Johnson [01:07:01](https://www.youtube.com/watch?v=sbMbH55efqM&t=4021s)
 
-And doing that. Yeah. This one is just a little more visible. It's a found object. Yeah. Would you prefer that website to be listed with your indexed because I think you had like Emma XYZ or a different URL on your Instagram so I haven't seen this site until now that you're presenting it? Oh yeah. Sure. I mean yeah definitely.
+Oh, yeah. I actually have. One of the cracked. Smartphone and then also one of windows 95. Which was my first. Just experience with a personal computer. And then now. My experience. With a personal computer is the smartphone. So I was just kind of reflecting on that and made those pieces. And. The there's a lot of. I put mere shards and circuits. And it just kind of. Reflecting on the fragility of technology in many ways, like a lot of people have cracked smartphone screens. And also. Just.
 
-Okay yeah those pieces in particular resonated with me I like the idea of using these sort of technology relics in that way like as physical components of the sculpture like I remember taking an old like Wacom tablet that I had that didn't work anymore and I was like real frustrated so I cut the cord off and painted on it and hung it up, you know, I definitely related to that.
+There's lots of. Questions of the psychology. How it's affecting the next generation and my generation. The. Fragility of mental stability. And. So. That's kind of what. I can show you. Should I. Share the screen again.
 
-Oh, so we have another question from Nina. Nina. So what are your future projects. I'm more of the. I have a lot of I'm working on like five of more of the digital imagery printing out and like making my pallets from that. And that's about it besides other like small commissions for people like cat paintings. Yeah.
+## Unattributed [01:08:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=4093s)
 
-Very cool. Thank you so much. Thank you. Yeah, it went by so fast I have to look at it slowly. Oh, sorry. Yeah. Oh no it's good. Very good. We do have a question from Michael. So, go ahead and give you the floor. Hi man thank you for your presentation I like. Like what you were showing, and I guess, from a creator standpoint or creative standpoint.
+Yeah, you go ahead. Okay. Yeah. Yeah. Yeah. Okay.
 
-A lot of the earlier pieces that you were showing us had that had that uncertainty principle that you that you mentioned sort of built into the built into the work. And so, I guess to piggyback a little bit on what Roz was asking you. Now that you are working on paintings which are very. I mean it's your vision it's this thing that you're presenting, and it's like that static thing. Is there a difference inside of you creativity wise that you're drawing from, or. Is there a difference inside of you creativity wise that you're drawing from, or. Is it speaking to a different part of you because I remember, you know, as a game designer, I set the stage for people, and my creativity was setting that stage for that people to be their own creativity I didn't know how they would end up using that stage that I set for them.
+## Emma Anne Johnson [01:08:29](https://www.youtube.com/watch?v=sbMbH55efqM&t=4109s)
 
-And I saw elements of that in some of your works before. And so now that it's like all of you in a painting because there's nothing else. I'm just kind of curious, sort of how that how that plays to your psyche as an artist as a creative person. Well question. I definitely think that uncertainty is still there. I mean, I feel like when I'm putting out those still images, there's still like a huge surrender at play. Okay. That I can't control what people are going to take away from it if they take any way, anything away from it. You know what I mean. Okay. So, there's that aspect and then there's also like the physical aspect of, I got these objects from garbage, and they might end up there again. It's kind of like that kind of fun play on it. You thrive on that experimentation don't you because I sense that I sense that in you.
+And then I called this series Techspressionism after learning about your term because I'm literally expressive technology. But here's the windows 95. And yeah, it has mere shards. And objects. And actually all of my two dimensional. Pieces, although they don't look like it, they're all found objects. They're either like old posters.
 
-Yeah, totally. Okay, cool. Good. All right, thanks. I appreciate you telling that. Oh, do you have another question from Karen. Just raised her hand. Yes. I can't type and listen and everything at the same time. I'm not sure like to make sense. I love you. You know, with the intro. I like your draft black and white drawings, and I see. I know what you started with sort of your early animations and then you went to your paintings. And stuff but I see a connection from those back to the Zoetrope.
+Old pieces of paper or. Things I found on the side of the road. A lot of them came from working in the music industry, like the big boards of plywood. And doing that.
 
-Because they're like the inner circle of your emotions you know if it went around quickly. And so I kind of see your drawings, hearkening and holding that paper quality that could go back into animation. Just an observation. Oh, thank you. Thank you. And we have a question from Jan. Have you thought of ways you might combine current traditional skill or skills with the technology you worked with before.
+## Unattributed [01:09:11](https://www.youtube.com/watch?v=sbMbH55efqM&t=4151s)
 
-Yeah, I've definitely thought about it. But nothing really. I definitely still mess around with the projector. What Lauren and Nina, when you showed the animation of Nina's paintings, that was definitely I've been thinking about, yeah, kind of doing something like that. So that was inspiring. But that's kind of it. Also the whole virtual reality. I don't know much about how, but my studio mates are actually video game makers and I've been kind of just slowly falling in love with the whole idea of creating a world somewhere and like immerse their self in like kind of a painting takes you like a really like a dream that your favorite painting will do for you. So yeah.
+Yeah. This one is just a little more visible. It's a found object. Yeah.
 
-I'd say that fascination is present in quite a few of us here. Michael who actually was in the gaming industry for like 30ish years. 30 some odd years. Yeah. And I've been a gamer myself who wanted to create video games for a good decade. Chunk of my life so the idea of creating an immersive world to you know interact with and that has a story and you know other people can experience it's very appealing so I definitely get that point does that I just want to jump in there because the work I've been doing for the last 15 years diamond scapes they're paintings that you immerse into they're paintings and you're not going into the x and the y and a lot of people don't seem to get it yet but you're going into the z space of a painting and it's infinite it's infinite and it has a story and there are a lot of ways to do this but I find those concepts I see those concepts in you and you're coming at it from a different way than I did but like a lot of us are doing this kind of thing michael pierre price and I talk about this stuff a lot but it's pretty fascinating I'd say it's the next big thing and it's not it's not video it's how deep can you go into a painting and then you can look at a great old painting and it's just you know as a friend of mine at smithsonian said you know well ross look at a great old van gogh we look at the crust look at all the stuff in there you know we think we're doing new things and we are but it's nice to tie history to it and I think that's one thing I love about expressionism is we get into these stories and share with each other and it's not just about what's hip and new but how we think about these processes and what they mean you know and how we connect to the older things of the past and to what's coming but thank you it's really stimulating I think it's cool too just as a side note you know to see people younger people people like yourself and Davo who sort of like you know came up drawing initially on computers you know and doing things where you know you're just exposed to it from basically birth you know where that for older artists like that wasn't the case so you know and seeing how you identify with this idea like of Techspressionism is sort of like more of a digital native or someone who you know, this is just...
+## Colin Goldberg [01:09:18](https://www.youtube.com/watch?v=sbMbH55efqM&t=4158s)
 
-World you came into it's a different perspective you know and it's interesting to hear that you know and it's like really hard for me to wrap my head around I mean I definitely like you know I played around like an apple to in elementary school you know kind of remember that but it wasn't like the way I was raised I was raised in a way that was like a norm you know it wasn't like that's what every kid little kid was doing you know so it's definitely like I don't know I think it's interesting to hear the perspective of younger artists for sure definitely I mean I always tell people that I got into digital totally by accident I mean you know the painting's filled up with squares in new york city and then they never went away and then I started using computer and everything changed so you know it's probably not that much of a change on the number of things that we can do that's what's really important and it's so how do you think that's what's going to call in I agree with Colin that hearing your perspective that you, you know, it's like babies are practically born with an iPad in their, in the womb, you know.
+Would you prefer that website to be listed with your indexed because I think you had like Emma XYZ or a different URL on your Instagram so I haven't seen this site until now that you're presenting it?
 
-It's like, it's a whole different situation. But there are similarities and they're interesting stories to construct with each other. I agree too with Colin that I love the openness of this movement he created. You know, they're young, old, all over the world, connecting people through these exhibits like the Davos do. Or curating.
+## Emma Anne Johnson [01:09:31](https://www.youtube.com/watch?v=sbMbH55efqM&t=4171s)
 
-You know, you work with someone in Iran, and I've never even met this person before, and you collaborate and make something. It's fabulous. Now on that on that point of being kind of born into the space like I remember as a kid, not really seeing much of a difference between like drawing with crayon and colored pencils then hopping on a computer and hopping on MS Paint and doing the exact same thing like to me that was the same. I didn't learn later. As I grew up. I grew up that no these were in people's minds these were two very distinct things.
+Oh yeah. Sure. I mean yeah definitely.
+
+## Colin Goldberg [01:09:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=4176s)
+
+Okay yeah those pieces in particular resonated with me I like the idea of using these sort of technology relics in that way like as physical components of the sculpture like I remember taking an old like Wacom tablet that I had that didn't work anymore and I was like real frustrated so I cut the cord off and painted on it and hung it up, you know, I
+
+## Unattributed [01:09:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=4197s)
+
+Definitely
+
+## Colin Goldberg [01:09:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=4197s)
+
+Related to that.
+
+## Unattributed [01:10:07](https://www.youtube.com/watch?v=sbMbH55efqM&t=4207s)
+
+Oh,
+
+## Davonte Bradley [01:10:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=4209s)
+
+So we have another question from Nina. Nina. So what are your future projects.
+
+## Emma Anne Johnson [01:10:20](https://www.youtube.com/watch?v=sbMbH55efqM&t=4220s)
+
+I'm more of the. I have a lot of I'm working on like five of more of the digital imagery printing out and like making my pallets from that. And that's about it besides other like small commissions for people like cat paintings. Yeah.
+
+## Unattributed [01:10:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=4245s)
+
+Very cool. Thank you so much. Thank you. Yeah, it went by so fast I have to look at it slowly. Oh, sorry. Yeah. Oh no it's good. Very good.
+
+## Davonte Bradley [01:11:01](https://www.youtube.com/watch?v=sbMbH55efqM&t=4261s)
+
+We do have a question from Michael. So, go ahead and give you the floor.
+
+## Michael Pierre Price [01:11:08](https://www.youtube.com/watch?v=sbMbH55efqM&t=4268s)
+
+Hi man thank you for your presentation I like. Like what you were showing, and I guess, from a creator standpoint or creative standpoint. A lot of the earlier pieces that you were showing us had that had that uncertainty principle that you that you mentioned sort of built into the built into the work.
+
+And so, I guess to piggyback a little bit on what Roz was asking you. Now that you are working on paintings which are very. I mean it's your vision it's this thing that you're presenting, and it's like that static thing. Is there a difference inside of you creativity wise that you're drawing from, or. Is there a difference inside of you creativity wise that you're drawing from, or. Is it speaking to a different part of you because I remember, you know, as a game designer, I set the stage for people, and my creativity was setting that stage for that people to be their own creativity I didn't know how they would end up using that stage that I set for them. And I saw elements of that in some of your works before. And so now that it's like all of you in a painting because there's nothing else.
+
+I'm just kind of curious, sort of how that how that plays to your psyche as an artist as a creative person.
+
+## Emma Anne Johnson [01:12:48](https://www.youtube.com/watch?v=sbMbH55efqM&t=4368s)
+
+Well question. I definitely think that uncertainty is still there. I mean, I feel like when I'm putting out those still images, there's still like a huge surrender at play. Okay. That I can't control what people are going to take away from it if they take any way, anything away from it. You know what I mean. Okay. So, there's that aspect and then there's also like the physical aspect of, I got these objects from garbage, and they might end up there again. It's kind of like that kind of fun play on it.
+
+## Michael Pierre Price [01:13:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=4403s)
+
+You thrive on that experimentation don't you because I sense that I sense that in you.
+
+## Emma Anne Johnson [01:13:29](https://www.youtube.com/watch?v=sbMbH55efqM&t=4409s)
+
+Yeah, totally.
+
+## Michael Pierre Price [01:13:30](https://www.youtube.com/watch?v=sbMbH55efqM&t=4410s)
+
+Okay, cool. Good. All right, thanks. I appreciate you telling that.
+
+## Davonte Bradley [01:13:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=4419s)
+
+Oh, do you have another question from Karen. Just raised her hand.
+
+## Karen LaFleur [01:13:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=4427s)
+
+Yes. I can't type and listen and everything at the same time.
+
+## Unattributed [01:13:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=4432s)
+
+I'm not sure like to make sense. I love you. You know, with the intro.
+
+## Karen LaFleur [01:13:59](https://www.youtube.com/watch?v=sbMbH55efqM&t=4439s)
+
+I like your draft black and white drawings, and I see. I know what you started with sort of your early animations and then you went to your paintings. And stuff but I see a connection from those back to the Zoetrope. Because they're like the inner circle of your emotions you know if it went around quickly.
+
+And so I kind of see your drawings, hearkening and holding that paper quality that could go back into animation. Just an observation.
+
+## Unattributed [01:14:29](https://www.youtube.com/watch?v=sbMbH55efqM&t=4469s)
+
+Oh, thank you. Thank you.
+
+## Davonte Bradley [01:14:37](https://www.youtube.com/watch?v=sbMbH55efqM&t=4477s)
+
+And we have a question from Jan. Have you thought of ways you might combine current traditional skill or skills with the technology you worked with before.
+
+## Unattributed [01:14:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=4497s)
+
+Yeah, I've definitely thought about it. But nothing really.
+
+## Emma Anne Johnson [01:15:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=4506s)
+
+I definitely still mess around with the projector. What Lauren and Nina, when you showed the animation of Nina's paintings, that was definitely I've been thinking about, yeah, kind of doing
+
+## Unattributed [01:15:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=4526s)
+
+Something like that. So that was inspiring. But that's kind of it.
+
+## Emma Anne Johnson [01:15:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=4536s)
+
+Also the whole virtual reality. I don't know much about how, but my studio mates are actually video game makers and I've been kind of just slowly falling in love with the whole idea of creating a world somewhere and like immerse their self in like kind of a painting takes you like a really like a dream that your favorite painting will do for you.
+
+## Unattributed [01:16:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=4560s)
+
+So yeah.
+
+## Davonte Bradley [01:16:08](https://www.youtube.com/watch?v=sbMbH55efqM&t=4568s)
+
+I'd say that fascination is present in quite a few of us here. Michael who actually was in the gaming industry for like 30ish years. 30 some odd years. Yeah. And I've been a gamer myself who wanted to create video games for a good decade. Chunk of my life so the idea of creating an immersive world to you know interact with and that has a story and you know other people can experience it's very appealing so I definitely get that point
+
+## Roz Dimon [01:16:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=4607s)
+
+Does that I just want to jump in there because the work I've been doing for the last 15 years diamond scapes they're paintings that you immerse into they're paintings and you're not going into the x and the y and a lot of people don't seem to get it yet but you're going into the z space of a painting and it's infinite it's infinite and it has a story and there are a lot of ways to do this but I find those concepts I see those concepts in you and you're coming at it from a different way than I did but like a lot of us are doing this kind of thing michael pierre price and I talk about this stuff a lot but it's pretty fascinating I'd say it's the next big thing and it's not it's not video it's how deep can you go into a painting and then you can look at a great old painting and it's just you know as a friend of mine at smithsonian said you know well ross look at a great old van gogh we look at the crust look at all the stuff in there you know we think we're doing new things and we are but it's nice to tie history to it and I think that's one thing I love about expressionism is we get into these stories and share with each other and it's not just about what's hip and new but how we think about these processes and what they mean you know and how we connect to the older things of the past and to what's coming but thank you it's really stimulating
+
+## Colin Goldberg [01:18:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=4690s)
+
+I think it's cool too just as a side note you know to see people younger people people like yourself and Davo who sort of like you know came up drawing initially on computers you know and doing things where you know you're just exposed to it from basically birth you know where that for older artists like that wasn't the case so you know and seeing how you identify with this idea like of Techspressionism is sort of like more of a digital native or someone who you know, this is just... World you came into it's a different perspective you know and it's interesting to hear that you know and it's like really hard for me to wrap my head around I mean I definitely like you know I played around like an apple to in elementary school you know kind of remember that but
+
+## Patrick Lichty [01:18:56](https://www.youtube.com/watch?v=sbMbH55efqM&t=4736s)
+
+It wasn't like the way I was raised I was raised in a way that was like a norm
+
+## Colin Goldberg [01:18:58](https://www.youtube.com/watch?v=sbMbH55efqM&t=4738s)
+
+You know it wasn't like that's what every kid little kid was doing you know so it's definitely like I don't know I think it's interesting to hear the perspective of younger artists for sure definitely
+
+## Roz Dimon [01:19:11](https://www.youtube.com/watch?v=sbMbH55efqM&t=4751s)
+
+I mean I always tell people that I got into digital totally by accident I mean you know the painting's filled up with squares in new york city and then they never went away and then I started using computer and everything changed so you know it's probably not that much of a change on the number of things that we can do that's what's really important and it's so how do you think that's what's going to call in I agree with Colin that hearing your perspective that you, you know, it's like babies are practically born with an iPad in their, in the womb, you know. It's like, it's a whole different situation. But there are similarities and they're interesting stories to construct with each other. I agree too with Colin that I love the openness of this movement he created. You know, they're young, old, all over the world, connecting people through these exhibits like the Davos do.
+
+Or curating. You know, you work with someone in Iran, and I've never even met this person before, and you collaborate and make something. It's fabulous.
+
+## Davonte Bradley [01:20:24](https://www.youtube.com/watch?v=sbMbH55efqM&t=4824s)
+
+Now on that on that point of being kind of born into the space like I remember as a kid, not really seeing much of a difference between like drawing with crayon and colored pencils then hopping on a computer and hopping on MS Paint and doing the exact same thing like to me that was the same. I didn't learn later. As I grew up. I grew up that no these were in people's minds these were two very distinct things.
 
 And that actually affected me like the way I approached art actually changed as a result of the fact that other people saw that there was a distinction there I was like, okay so this is, this is different. It's kind of the same but it's different than what's on pencil and paper or canvas or whatever. So it's like I was indirectly influenced. And I probably those primary reason why I know, like it took a long time for me to come back to it because it had been drilled into my head that like no this is not something that people are doing or interested in. It was like no, they are just that they didn't know anybody that was doing it that was that was a big thing like there wasn't enough people that were using it that way so to them, it was something that was rare or people didn't care about. And it took years for me to find out like, no, no there's others that they've been doing this and it's really important and it is growing and it's like, it's very important.
 
-Oh, Cynthia, what do you have to add. So I just wanted to add what after what both of you said that many of us, we obviously started with traditional media if we're of a certain age. And then we started with traditional media. And then we went into using digital media. And I really admire the fact that you started with digital media and realize that to marry the two was no really exciting and went back and learn traditional painting, whether you were actually doing traditional painting I guess you actually were but even looking at it and that's really great. Because I agree there actually is no distinction conceptually, I mean with what Devante was saying. And what we got from other people for a long time I think Roz can really agree with us, you know, although Roz actually was a graphic designer but maybe Darcy also experienced some of this I see that she's here.
+Oh, Cynthia, what do you have to add.
+
+## Cynthia Beth Rubin [01:22:03](https://www.youtube.com/watch?v=sbMbH55efqM&t=4923s)
+
+So I just wanted to add what after what both of you said that many of us, we obviously started with traditional media if we're of a certain age. And then we started with traditional media. And then we went into using digital media. And I really admire the fact that you started with digital media and realize that to marry the two was no really exciting and went back and learn traditional painting, whether you were actually doing traditional painting I guess you actually were but even looking at it and that's really great. Because I agree there actually is no distinction conceptually, I mean with what Devante was saying. And what we got from other people for a long time I think Roz can really agree with us, you know, although Roz actually was a graphic designer but maybe Darcy also experienced some of this I see that she's here.
 
 No, I tell people I was working digitally and they go, Oh, I know what you do graphic design, I'd be like, no. Or you'd get the reaction saying, I didn't know there were very many people doing that and you go. There aren't very many people doing it you happen to be talking to one of them and they just couldn't get their heads around that.
 
-So thank you for, you know, going, showing us that there's so many routes to get to this combo place where I think many of us are now. And that's the real comment that I wanted to make. So thanks. Thank you. And I think I can say with. Hmm. Pretty, pretty, pretty certain that just about everyone here kind of feels at home with this movement right is that is that a fair thing to say, like, thumbs up thumbs up. Yeah. Yeah. Yeah.
+So thank you for, you know, going, showing us that there's so many routes to get to this combo place where I think many of us are now. And that's the real comment that I wanted to make. So thanks.
+
+## Davonte Bradley [01:23:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=5018s)
+
+Thank you. And I think I can say with. Hmm. Pretty, pretty, pretty certain that just about everyone here kind of feels at home with this movement right is that is that a fair thing to say, like, thumbs up thumbs up. Yeah. Yeah.
+
+## Unattributed [01:23:57](https://www.youtube.com/watch?v=sbMbH55efqM&t=5037s)
+
+Yeah.
+
+## Davonte Bradley [01:23:58](https://www.youtube.com/watch?v=sbMbH55efqM&t=5038s)
 
 So that's. And I, for me that's big too like this community is amazing, like just the sheer breadth of what people are doing what they're working on the projects that they're involved in the different styles. But. But we're all on another level of technically doing like the same kinds of things as different as everything is it's still very similar like what we're actually trying to get at.
 
-And I well I think it's beautiful just putting that out there. And I love it and like I'm, I'm going to be a part of this for as long as humanly possible. That being said, humanly possible being. Yeah. Yeah. When I die, that's when I'll leave the movement. But I'll live on because my art will be right. So it's sort of like to remind everybody of.
+And I well I think it's beautiful just putting that out there. And I love it and like I'm, I'm going to be a part of this for as long as humanly possible. That being said, humanly possible being. Yeah. Yeah. When I die, that's when I'll leave the movement. But I'll live on because my art will be right. So
 
-It's all in transition. I started working with computers graphically as in publishing around 1970. I started playing with it as an artist, immediately. As soon as the boss walked out of the room. And I've seen it evolve. The hardest nut to crack is still not been cracked and that is getting accepted within the fine art community within the galleries and museums.
+## Lee Musgrave [01:24:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=5092s)
+
+It's sort of like to remind everybody of. It's all in transition. I started working with computers graphically as in publishing around 1970. I started playing with it as an artist, immediately. As soon as the boss walked out of the room. And I've seen it evolve. The hardest nut to crack is still not been cracked and that is getting accepted within the fine art community within the galleries and museums.
 
 That is starting to happen. And you recall last time we met I mentioned to you the NAA report that has done a great deal of help to all of us internationally. And there was another one, another thing coming up that you should be aware of. It's called file not found. I think that's a working title. I think they're probably going to change that. But it's a conference art fair. They're trying to determine what it'll be in spring of 22 in Los Angeles. And I think that's going to be a big thing. They're discussing if it's going to be an art fair, whether the spaces will only be rented to art galleries that present this kind of work, or is it also going to include spaces that individual artists like each one of you can use and present only your own work? Or is it going to be more like a conference where there's a lot of people who are going to be And so they'll have workshops and panel discussions about the validity of this kind of work being accepted in the fine art world.
 
 So keep your eye out for that. It's called file not found. But like I said, I suspect they might change that title as it progresses on. You can find that online. The only right now is a place for you to sign up for future newsletters about this topic. And of course, I encourage you to be patient. It's a long road, a very long road.
 
-I'd imagine you'd have to be patient if you've been at this since the 70s. Well, think about this. I've curated, I mentioned before, I've curated over 140 exhibits. I started working on the idea of exhibiting this work in around in the late 80s. 90s. I wasn't able to actually pull an exhibit together and present it in a public place. It was a community gallery that the county of Los Angeles owned, and that was in 1993.
+## Davonte Bradley [01:27:34](https://www.youtube.com/watch?v=sbMbH55efqM&t=5254s)
 
-And I haven't been able to pull another thing together since then, really, of any gallery that, or municipal space, that would be willing to discuss having such an exhibit. So we're definitely in this for the long haul, that is for sure. Trying to be here for both a good time. And a long time. And I would just, you know, encourage people to think of this as something that's, you know, basically open source and decentralized. You know, like, if you want to go start your own Techspressionist show and curate it and call it that, by all means, use the term. Like, I made, you know, a point of structuring this in such a way that it's as unstructured as possible. That is, you know, I really... Other than registration of the domains have no intention of trademarking the term or trying to turn it into a not-for-profit organization or, you know, the idea is that it is a term that may, you know, hopefully will grow up and become a word one day.
+I'd imagine you'd have to be patient if you've been at this since the 70s.
 
-That's my dream of this, you know. And the best way, I think, for that to happen is for people to just take it and run with it and do whatever they want with it. Like, when I see people like Emma using it, like, as to just, you know, on her website as, like, a section or, you know, a name of a series or something like that or to describe something like that makes me very psyched.
+## Lee Musgrave [01:27:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=5258s)
 
-You know, like, whenever I see people taking it and putting it on their profile or whatever, like, that's what I want this to be, you know, versus it being some sort of, like, an annual event or something about an exhibition or, you know, like, all those things are great. You know, obviously, like, that's how the work can get out. But I thought it was interesting that both of the presentations today, really, the work is contextualized in a nontraditional fashion, you know, not it's hanging in a white room somewhere, you know, and I think that's interesting. And that's the future, you know, like, what makes the fine art world the fine art world? Well, you know, Beeple decided that he was going to make this NFT that made the fine art. And if the fine art world starts saying NFT, NFT, when Sotheby's sells NFTs for millions of dollars, then it just inherently becomes part of the art world because that's, you know, that's the focus of that within the media.
+Well, think about this. I've curated, I mentioned before, I've curated over 140 exhibits. I started working on the idea of exhibiting this work in around in the late 80s. 90s. I wasn't able to actually pull an exhibit together and present it in a public place. It was a community gallery that the county of Los Angeles owned, and that was in 1993.
 
-You know, people want to see, oh, you know, how outraged can they get about some giant price tag for something that's essentially non-essential, you know, and that's the story, you know. But it is what it is. You know, that's how that's how digital art and digital artists, you know, kind of break in. It's like guerrilla. Style stuff, you know, and it's like, how could we make this accepted in the art world? It's like, you know, we make it our own, you know, and so, yeah, it's kind of hashtag and rant. But that's, you know, putting that out there. It's all right. Rants are good. Good time period to think about is really 1900.
+And I haven't been able to pull another thing together since then, really, of any gallery that, or municipal space, that would be willing to discuss having such an exhibit.
 
-You think about it. If you were an artist in 1900, you had a choice to make. You could be a traditional painter or you could be a cubist painter or a surrealist painter or a foe was painter. You see, what was in common there is every one of those artists use paint on canvas, but they went in several different directions. And all of those directions were accepted as fine art. OK, so now I look at this screen and I see all of these people. They're all calling themselves artists. They all use a computer in some way to make or express their artistic desires.
+## Davonte Bradley [01:28:31](https://www.youtube.com/watch?v=sbMbH55efqM&t=5311s)
+
+So we're definitely in this for the long haul, that is for sure. Trying to be here for both a good time. And a long time.
+
+## Colin Goldberg [01:28:42](https://www.youtube.com/watch?v=sbMbH55efqM&t=5322s)
+
+And I would just, you know, encourage people to think of this as something that's, you know, basically open source and decentralized. You know, like, if you want to go start your own Techspressionist show and curate it and call it that, by all means, use the term. Like, I made, you know, a point of structuring this in such a way that it's as unstructured as possible. That is, you know, I really... Other than registration of the domains have no intention of trademarking the term or trying to turn it into a not-for-profit organization or, you know, the idea is that it is a term that may, you know, hopefully will grow up and become a word one day. That's my dream of this, you know. And the best way, I think, for that to happen is for people to just take it and run with it and do whatever they want with it.
+
+Like, when I see people like Emma using it, like, as to just, you know, on her website as, like, a section or, you know, a name of a series or something like that or to describe something like that makes me very psyched. You know, like, whenever I see people taking it and putting it on their profile or whatever, like, that's what I want this to be, you know, versus it being some sort of, like, an annual event or something about an exhibition or, you know, like, all those things are great. You know, obviously, like, that's how the work can get out. But I thought it was interesting that both of the presentations today, really, the work is contextualized in a nontraditional fashion, you know, not it's hanging in a white room somewhere, you know, and I think that's interesting. And that's the future, you know, like, what makes the fine art world the fine art world?
+
+Well, you know, Beeple decided that he was going to make this NFT that made the fine art. And if the fine art world starts saying NFT, NFT, when Sotheby's sells NFTs for millions of dollars, then it just inherently becomes part of the art world because that's, you know, that's the focus of that within the media. You know, people want to see, oh, you know, how outraged can they get about some giant price tag for something that's essentially non-essential, you know, and that's the story, you know. But it is what it is. You know, that's how that's how digital art and digital artists, you know, kind of break in. It's like guerrilla. Style stuff, you know, and it's like, how could we make this accepted in the art world? It's like, you know, we make it our own, you know, and so, yeah, it's kind of hashtag and rant.
+
+But that's, you know, putting that out there.
+
+## Unattributed [01:31:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=5486s)
+
+It's all right. Rants are good.
+
+## Lee Musgrave [01:31:29](https://www.youtube.com/watch?v=sbMbH55efqM&t=5489s)
+
+Good time period to think about is really 1900. You think about it. If you were an artist in 1900, you had a choice to make. You could be a traditional painter or you could be a cubist painter or a surrealist painter or a foe was painter. You see, what was in common there is every one of those artists use paint on canvas, but they went in several different directions. And all of those directions were accepted as fine art. OK, so now I look at this screen and I see all of these people. They're all calling themselves artists. They all use a computer in some way to make or express their artistic desires.
 
 That's the only thing we really have in common, because some of you are working in a narrative way, in a representational way. Some of you are working in an abstract way, geometrically, organically. The only thing you have in common is that you've replaced the paint. Brush and canvas with the computer.
 
+## Roz Dimon [01:32:48](https://www.youtube.com/watch?v=sbMbH55efqM&t=5568s)
+
 I wanted to just add something to that. I think one of the larger things that ties that ties us together is and other movements is that I mean, art has a certain universal aspect to it throughout time. But, you know, you're what you I think what we're doing speaks to our time distinctly like no other art form. I mean, there I mean, it's not that paintings are important right now and painting on canvas or traditional work. But the fact that we're using the tool of our time, which is the computer, which has certainly whether you like it or not, you know, it defines this period as distinct. And I think that sets the artists who are responding to that time as pretty representative of that time. I think that's something we have to remember.
 
-Yeah. You know, we're not ignoring it and saying that's beautiful. Right. Right. Renata, do you seem to have any comments that you'd like to share? Yes. I'm speaking to the mention of the art exhibits you know that Colin talked about. I have a text version of this art exhibit that's currently up now at the Beaufort Digital Court. Which is a technology hub located in the South Carolina Lowcountry, which is, you know, where I live and where I grew up.
+## Lee Musgrave [01:33:37](https://www.youtube.com/watch?v=sbMbH55efqM&t=5617s)
+
+Yeah.
+
+## Roz Dimon [01:33:39](https://www.youtube.com/watch?v=sbMbH55efqM&t=5619s)
+
+You know, we're not ignoring it and saying that's beautiful. Right.
+
+## Davonte Bradley [01:33:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=5625s)
+
+Right. Renata, do you seem to have any comments that you'd like to share?
+
+## Unattributed [01:33:51](https://www.youtube.com/watch?v=sbMbH55efqM&t=5631s)
+
+Yes. I'm speaking to the mention of the art exhibits you know that Colin talked about. I have a text version of this art exhibit that's currently up now at the Beaufort Digital Court. Which is a technology hub located in the South Carolina Lowcountry, which is, you know, where I live and where I grew up.
 
 They had never heard of Techspressionism, and they had asked me to come and exhibit some of my works. And I explained to them that what makes my work unique is the fact that I use technology to create them and that, you know, this is indeed a global art movement. And they would do well to showcase this particular movement within their tech hub. The technology hub is set up as a gallery space for those who work inside.
 
 So I was very excited about that. And the exhibit will be up until the 30th of September, and we'll be doing a Facebook Live event on August 6th. But I'm glad to see this movement come of age. I mean, I've been working as a digital artist now since 2000 and 2001 when I started off with paint. And I'm very excited about that. And I knew then that I would meet resistance from the traditional art world and that people who work in this new medium would face resistance or pushback from the art elitists. And I decided to be safe and protect myself and learn how to draw using charcoal and pen and learn how to paint and whatnot. And I signed up for courses. But it was a... I did it as a defense mechanism.
 
-But eventually came to like it a lot and developed a body of work that spills off into that area as well. But my real passion is for the use of technology in the development of the arts. And I look forward to seeing this movement grow and people understanding more about it. Thank you, Renata. I think that probably does resonate with quite a few of us here in that sense because I know... Go ahead, Colin. I just wanted to say, Renata, if you have a link that you want to share about your show, definitely paste it in the chat. And also, I would encourage you and everyone else also to use the social channels that we have. Things like the Facebook group is kind of more active than the page. But we have a group and a page. The group is Techspressionists and the page is Techspressionism. And then there's a Discord server that Davo set up.
+But eventually came to like it a lot and developed a body of work that spills off into that area as well. But my real passion is for the use of technology in the development of the arts. And I look forward to seeing this movement grow and people understanding more about it.
 
-We have the Instagram, which if you use the hashtag, I do periodically troll through that and repost and share stuff to the story. I think those are probably the most active ones. Or if you... What is it? Tag, I guess, the Twitter handle. Sometimes... I don't check Twitter that often. But definitely the group, the Facebook group and the Discord, probably the best way to get the word out about whatever each one of you guys have going on as individual shows. I know Tommy chatted me in this session that he has a solo show coming up also. So, yeah, I would definitely encourage you guys all, if you have stuff going on, to share it with the group in our social channels so everyone can check it out. Thanks. I'll do that.
+## Davonte Bradley [01:36:27](https://www.youtube.com/watch?v=sbMbH55efqM&t=5787s)
 
-All right. Renata, did you have something that you wanted to share? I saw your hand was up. I didn't get a chance to call on you. Can you go back? You have yourself muted. There are two things. One, I just wanted to mention about art historical movements. Traditionally, every single movement that came and shattered what was going on before was at least 100 years ahead of the society.
+Thank you, Renata. I think that probably does resonate with quite a few of us here in that sense because I know...
 
-That's right. And it was in. So Lee mentioned cubism, photography. Being in the avant garde is actually where you want to be, I think, I've always thought, as an artist. And let the society catch up. And another point I wanted to make just briefly, we were talking about how to display your work, how to get the work accepted. And there was a big art fair in Paris just about a month ago called CADAF. And it was a digital art fair. And one of the groups that shows in it comes out of a collective called Sky Fine Foods. And I just noticed on their feed today on Instagram that somebody had made a beautiful frame for a video print that plays endlessly on a loop. And so you see it as a photograph or a picture that glows. And then you go closer and it's actually moving. And it's of water and an island and vegetation.
+## Unattributed [01:36:36](https://www.youtube.com/watch?v=sbMbH55efqM&t=5796s)
 
-And it's quite compelling. But what's so nice is how elegantly it's presented. And the care and the thought that went into how can we make digital art look great, look legit. And that would certainly go into a museum show. And I think it would captivate people. So that's all. Thank you for that. Yeah, just take it out. For me, I think when I was in the museum, I was in the museum for a long time. And I was realizing that I did want to be a full on digital artist was trying to figure out how to best present my work to an audience. It's one thing to have somebody see your work on a screen like behind a monitor or on a cell phone or something like that. But it's the case that like for the powers that be, the gatekeepers. They don't necessarily always want to or are willing to engage with your work in that way.
+Go ahead, Colin.
+
+## Colin Goldberg [01:36:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=5798s)
+
+I just wanted to say, Renata, if you have a link that you want to share about your show, definitely paste it in the chat. And also, I would encourage you and everyone else also to use the social channels that we have. Things like the Facebook group is kind of more active than the page. But we have a group and a page. The group is Techspressionists and the page is Techspressionism. And then there's a Discord server that Davo set up. We have the Instagram, which if you use the hashtag, I do periodically troll through that and repost and share stuff to the story.
+
+I think those are probably the most active ones. Or if you... What is it? Tag, I guess, the Twitter handle. Sometimes... I don't check Twitter that often. But definitely the group, the Facebook group and the Discord, probably the best way to get the word out about whatever each one of you guys have going on as individual shows. I know Tommy chatted me in this session that he has a solo show coming up also. So, yeah, I would definitely encourage you guys all, if you have stuff going on, to share it with the group in our social channels so everyone can check it out.
+
+## Unattributed [01:37:52](https://www.youtube.com/watch?v=sbMbH55efqM&t=5872s)
+
+Thanks. I'll do that.
+
+## Davonte Bradley [01:37:58](https://www.youtube.com/watch?v=sbMbH55efqM&t=5878s)
+
+All right. Renata, did you have something that you wanted to share? I saw your hand was up. I didn't get a chance to call on you.
+
+## Unattributed [01:38:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=5885s)
+
+Can you go back?
+
+## Davonte Bradley [01:38:07](https://www.youtube.com/watch?v=sbMbH55efqM&t=5887s)
+
+You have yourself muted.
+
+## Renata Janiszewska [01:38:10](https://www.youtube.com/watch?v=sbMbH55efqM&t=5890s)
+
+There are two things. One, I just wanted to mention about art historical movements. Traditionally, every single movement that came and shattered what was going on before was at least 100 years ahead of the society. That's right. And it was in. So Lee mentioned cubism, photography. Being in the avant garde is actually where you want to be, I think, I've always thought, as an artist. And let the society catch up. And another point I wanted to make just briefly, we were talking about how to display your work, how to get the work accepted. And there was a big art fair in Paris just about a month ago called CADAF. And it was a digital art fair. And one of the groups that shows in it comes out of a collective called Sky Fine Foods. And I just noticed on their feed today on Instagram that somebody had made a beautiful frame for a video print that plays endlessly on a loop.
+
+And so you see it as a photograph or a picture that glows. And then you go closer and it's actually moving. And it's of water and an island and vegetation. And it's quite compelling. But what's so nice is how elegantly it's presented. And the care and the thought that went into how can we make digital art look great, look legit.
+
+And that would certainly go into a museum show. And I think it would captivate people. So that's all.
+
+## Unattributed [01:39:45](https://www.youtube.com/watch?v=sbMbH55efqM&t=5985s)
+
+Thank you for that. Yeah, just take it out.
+
+## Davonte Bradley [01:39:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=5990s)
+
+For me, I think when I was in the museum, I was in the museum for a long time. And I was realizing that I did want to be a full on digital artist was trying to figure out how to best present my work to an audience. It's one thing to have somebody see your work on a screen like behind a monitor or on a cell phone or something like that. But it's the case that like for the powers that be, the gatekeepers. They don't necessarily always want to or are willing to engage with your work in that way.
 
 And the kind of go between for me that I came up with, quite a few other people came up with was, you know, creating prints of your artwork in the same way that like photographers created prints of their work, where the actual like photograph is wholly digital, but it has a physical representation. And it's kind of like the bridge. And so we get to the point where. It's wholly accepted as a digital form. I think, or all of that can be accepted as you know valid. And that's what that's what I'm hoping for and that's why like as far as like NFT stuff goes. That's, that's pushing the envelope on like wholly digital stuff like that being valuable and being able to be displayed.
 
-So, I'm excited about, you know, just the strides that have been made just like that. Just the past like couple of months on that front. It's, it's amazing to me. The Los Angeles County Art Museum just announced that they actually bought some NFTs few years ago. And they're already trying to figure out how as technology progresses, how they will be able to still show that look at it.
+So, I'm excited about, you know, just the strides that have been made just like that. Just the past like couple of months on that front. It's, it's amazing to me.
 
-Because they're worried that the technology to access what they bought may disappear. In other words, that's a great deal of museum resources go into the conservation department. If they buy a painting, you know, they want to try and keep it that way for as long as it possibly can. And painting has. Shown itself to be pretty resilient. It lasts a long time.
+## Lee Musgrave [01:41:25](https://www.youtube.com/watch?v=sbMbH55efqM&t=6085s)
 
-So far, technology, computer, computer technology, digital technology is evolving so rapidly. It's like one of the artists here recently showed us works where the work was on like iPads or something that were framed on the wall. And people bought them. Well, sooner or later that little iPad thing is going to wear out, not work anymore. And you won't be able to get anybody to repair it or there won't be any replacements available for it. So what that person bought is gone.
+The Los Angeles County Art Museum just announced that they actually bought some NFTs few years ago. And they're already trying to figure out how as technology progresses, how they will be able to still show that look at it. Because they're worried that the technology to access what they bought may disappear.
 
-This is an aspect of digital art right now that scares most of the art world. Especially scares away big collectors. And acquisition committees for museums. It frightens them. I think it's probably. I'm not I'm not sure like a good timeline would be but I think sooner than later we're probably going to have solutions for that because I know with things like conserving like video games. Like I know there's a museum here in Richmond that they have a very large collection of like antique video games. And they went so far as to like finally ideal voltage to operate the console and everything just so that like it can keep running forever no matter like what the voltage actually changes outside of that. So, I think if there's if there's a desire, which I know there is there. There's a big enough desire, they'll find out something to have this happen.
+In other words, that's a great deal of museum resources go into the conservation department. If they buy a painting, you know, they want to try and keep it that way for as long as it possibly can. And painting has. Shown itself to be pretty resilient. It lasts a long time. So far, technology, computer, computer technology, digital technology is evolving so rapidly.
+
+It's like one of the artists here recently showed us works where the work was on like iPads or something that were framed on the wall. And people bought them. Well, sooner or later that little iPad thing is going to wear out, not work anymore. And you won't be able to get anybody to repair it or there won't be any replacements available for it. So what that person bought is gone.
+
+This is an aspect of digital art right now that scares most of the art world. Especially scares away big collectors. And acquisition committees for museums. It frightens them.
+
+## Davonte Bradley [01:43:31](https://www.youtube.com/watch?v=sbMbH55efqM&t=6211s)
+
+I think it's probably. I'm not I'm not sure like a good timeline would be but I think sooner than later we're probably going to have solutions for that because I know with things like conserving like video games. Like I know there's a museum here in Richmond that they have a very large collection of like antique video games. And they went so far as to like finally ideal voltage to operate the console and everything just so that like it can keep running forever no matter like what the voltage actually changes outside of that. So, I think if there's if there's a desire, which I know there is there. There's a big enough desire, they'll find out something to have this happen.
 
 With those iPads I mean they probably could have, if they really wanted to probably couldn't develop something to keep those going as long as possible if they had the desire to do so but they probably didn't have maybe enough people on the creative team be like, Well, here's some possibilities that we can try out, but.
 
-Again, given enough time. Well, it'll happen. Soon later. I think so too Davo I mean there are places like rhizome you know at the new museum, and one of their biggest programs is, and this is happening at other in data science work that they're coming up with ways that it isn't the digital aspect of it is almost the kernel of every piece you know not just digital but paintings and everything else. And that. The whole thing. The whole process of rolling up is considered. I mean you know at the Met and everywhere else they have these huge departments where they're going in and taking these, you know, pieces by Rembrandt and others and there and they have to, they have to update them or, you know, they do fall apart, especially in the sun and also, but they have huge departments doing that all the time and it is this medium is more accepted, that will just be part of it, it will be you know part of the roll up technology.
+Again, given enough time. Well, it'll happen. Soon later.
 
-So, yeah. Digital Art Conservation Institute. Yeah. There's this ephemeral quality to that, you know like things like Snapchat, and you know you're looking even traditional work like people like Christo where the work is created as a site specific thing that's almost an event, and then it's gone you know it's documented, you know so I think people, you know, maybe that idea of things needing to last forever. I mean, who knows how long, all of us as humans are going to be on this rock that we're on so, you know, I think that's a good thing.
+## Roz Dimon [01:44:49](https://www.youtube.com/watch?v=sbMbH55efqM&t=6289s)
+
+I think so too Davo I mean there are places like rhizome you know at the new museum, and one of their biggest programs is, and this is happening at other in data science work that they're coming up with ways that it isn't the digital aspect of it is almost the kernel of every piece you know not just digital but paintings and everything else. And that. The whole thing. The whole process of rolling up is considered. I mean you know at the Met and everywhere else they have these huge departments where they're going in and taking these, you know, pieces by Rembrandt and others and there and they have to, they have to update them or, you know, they do fall apart, especially in the sun and also, but they have huge departments doing that all the time and it is this medium is more accepted, that will just be part of it, it will be you know part of the roll up technology.
+
+So, yeah.
+
+## Unattributed [01:45:44](https://www.youtube.com/watch?v=sbMbH55efqM&t=6344s)
+
+Digital Art Conservation Institute.
+
+## Roz Dimon [01:45:46](https://www.youtube.com/watch?v=sbMbH55efqM&t=6346s)
+
+Yeah.
+
+## Colin Goldberg [01:45:50](https://www.youtube.com/watch?v=sbMbH55efqM&t=6350s)
+
+There's this ephemeral quality to that, you know like things like Snapchat, and you know you're looking even traditional work like people like Christo where the work is created as a site specific thing that's almost an event, and then it's gone you know it's documented, you know so I think people, you know, maybe that idea of things needing to last forever. I mean, who knows how long, all of us as humans are going to be on this rock that we're on so, you know, I think that's a good thing.
+
+## Unattributed [01:46:20](https://www.youtube.com/watch?v=sbMbH55efqM&t=6380s)
 
 You know, in the next 10 years. You know, in the next 10 years. We're going to be on it. We're going to be on it. It's not like of this is it's not that we're going to be on it. It's not that we're going to be on it. It's not that we're going to be on it. It's not that we're going to be on it. It's not that we're going to be on it.
 
@@ -312,18 +1164,74 @@ It's not that we're going to be on it. It's not that we're going to be on it. Ar
 
 Because there are pockets of very forward thinking people out there in the art world who just don't know about expressionism and they don't see the depth of the work that's going on. But if you put it in front of them at these various platforms like Pictor and people who have you submit to Submittable, you'd be surprised at how they will welcome you and give you a fair shot, you know, in the brick and mortar world.
 
-So it's a long-running university. I do think that, you know, as we are a movement, I think we really should buckle down on sharing like the institutions or organizations that are friendly to artists like us. So we know who our friends are pretty much like going forward. And I know I suggested this probably like months and months ago, but please feel free to, you know, like share what museums or what organizations that you've worked with that has been receptive to your work. Because like the more submissions out there to these organizations, like that's more presence or invisibility for the movement itself.
+So it's a long-running university.
 
-I know somebody might maybe potentially see it as like competition, potentially, but it's not really competition. Like your audience might not be the same as next person audience. So it's fine. But, oh, I just realized we have five minutes left for the official time for our salon. And I know this discussion could probably go for a lot longer if we just let it go. But were there any closing remarks that anyone had or anything that anybody wanted to share before we wrap things up? I think Colin's point. Oh, go ahead. Oh. I think Colin's point. Colin's point is a really big one and a valid one that having the site showing how worldwide this is, it's building a momentum. And the fact that it is organic, kudos to Colin for seeing the wisdom in that.
+## Davonte Bradley [01:47:47](https://www.youtube.com/watch?v=sbMbH55efqM&t=6467s)
 
-I think just, yeah, we are our best representatives. And I think just, yeah, we are our best representatives for each other, whether we do it actively or not. The fact that we have within our midst folks like Lee and Roz and so many others that have been doing work in this area for so long that have had, you know, really good shows and have a history. I think it's really, really invaluable.
+I do think that, you know, as we are a movement, I think we really should buckle down on sharing like the institutions or organizations that are friendly to artists like us. So we know who our friends are pretty much like going forward. And I know I suggested this probably like months and months ago, but please feel free to, you know, like share what museums or what organizations that you've worked with that has been receptive to your work. Because like the more submissions out there to these organizations, like that's more presence or invisibility for the movement itself.
 
-Go ahead, Roz. Thanks, Michael. I just wanted to bring up two things that people might want to just know about if you don't. And that is there's a show at the new museum of Lynn Hirschman-Leeson, who I've admired for a long time. And she's been before even a lot of us who have been in it for a long time. And her work is really fabulous and inventive and original. And it's going to be up through October 3rd, if you can get to that. And also, there's an article on the website. It's a very interesting article in the New York Times called by Maya Phillips. I think it's today. No, it was Monday. But it's called When Van Gogh Goes Over the Top. And I thought it was a really fabulous article that took on, you know, there's this whole immersive stuff, entertainment stuff going on right now. And it is entertaining.
+I know somebody might maybe potentially see it as like competition, potentially, but it's not really competition. Like your audience might not be the same as next person audience. So it's fine. But, oh, I just realized we have five minutes left for the official time for our salon. And I know this discussion could probably go for a lot longer if we just let it go. But were there any closing remarks that anyone had or anything that anybody wanted to share before we wrap things up?
+
+## Michael Pierre Price [01:49:07](https://www.youtube.com/watch?v=sbMbH55efqM&t=6547s)
+
+I think Colin's point. Oh, go ahead. Oh. I think Colin's point. Colin's point is a really big one and a valid one that having the site showing how worldwide this is, it's building a momentum. And the fact that it is organic, kudos to Colin for seeing the wisdom in that. I think just, yeah, we are our best representatives. And I think just, yeah, we are our best representatives for each other, whether we do it actively or not. The fact that we have within our midst folks like Lee and Roz and so many others that have been doing work in this area for so long that have had, you know, really good shows and have a history. I think it's really, really invaluable.
+
+Go ahead, Roz.
+
+## Roz Dimon [01:50:13](https://www.youtube.com/watch?v=sbMbH55efqM&t=6613s)
+
+Thanks, Michael. I just wanted to bring up two things that people might want to just know about if you don't. And that is there's a show at the new museum of Lynn Hirschman-Leeson, who I've admired for a long time. And she's been before even a lot of us who have been in it for a long time. And her work is really fabulous and inventive and original. And it's going to be up through October 3rd, if you can get to that. And also, there's an article on the website. It's a very interesting article in the New York Times called by Maya Phillips. I think it's today. No, it was Monday. But it's called When Van Gogh Goes Over the Top. And I thought it was a really fabulous article that took on, you know, there's this whole immersive stuff, entertainment stuff going on right now. And it is entertaining.
 
 You know, you go in these rooms and Van Gogh is flying all over the walls. And she had a very prescient and very thoughtful article about the fact that it didn't have a lot of it didn't have for her nearly the resonance of going inside of Van Gogh or just staring at a Van Gogh painting. I mean, you know, why do we have to think about why do we do something? Not just, you know, if you can do it, great. But just because you can doesn't mean you should. You know? And so I think that she brings up she's one of the first critics I've seen write about this movement in a way that really I felt had some real depth to it. So her name's Maya Phillips. So you might want to M-A-Y-A.
 
 You might want to check it out. And I have a show, too, coming up. Lincoln's, it opens next week. It's 11 drawings of Abraham Lincoln and five originals. And I have been interviewed and I mentioned expressionism. And they may look like illustrations, but honestly, they're very expressionistic. And I just wanted to share, if you're anywhere near the Hamptons or if you want to bring them anywhere near you, they're really about educational and history during a very raucous Civil War time in our country. This winter.
 
-And seen through a portrait of a man who really kept our country together. So just wanted to say that you're all invited. Thank you for that, Roz. And Cynthia, you had one last thing? Yeah. With two minutes left. I just wanted to say really quickly. I have a lot of trouble with the Van Gogh Show. And the reason that I do is there actually are some wonderful people doing immersive work as new media intentional journalists.
+And seen through a portrait of a man who really kept our country together. So just wanted to say that you're all invited.
 
-And I'm just gonna say that I'm not for the space. Their medium and commercialize them instead of supporting new innovative artists who can be pushing the medium so a discussion for another time maybe but look up team borderless if you get a chance in tokyo because their work is just amazing okay so okay well thank you for that and with that we are right here at four minutes so I want to thank everyone that was in attendance both all three of our presenters emma nina lauren thank you very much for your presentations thank you everyone here for your engagement and your questions and this really interesting discussion that we've had after the fact it's all right thank you so much for your time and I'm going to hand it over to you and I'm going to wonderful and I very much hope to see as many of you as possible for next time in two weeks yep so colin did you have anything else that you wanted to add or not really you know awesome awesome salon and definitely like you know like I said in the beginning anyone that's interested in presenting for next time you know definitely reach out to Davo or myself and or if you know if anyone here knows of any artists or colleagues that you think would be interested in presenting definitely like refer them to the salons on the Techspressionism site it's just expressionism.com salon and they could check out some of the past recordings and see if they'd be interested in you know presenting so because the sooner that we lock in you know usually we've been doing two presentations but we could do you know I guess we could do three or you know whatever to make sense the sooner that I can sort of prep like a little promotional piece to put that put out there on social and get the info up on the site to drum up you know some support so the more lead time that we can schedule people in advance the better and you know you guys might also just want to check out some of the artists interviews and that's something that's been you know roz helped initiate that has been something that's been a really important ongoing component of this whole community as well so yeah that's about it for me and thanks again Davo for all of your service really appreciate it well thank you I don't want to toot my own horn or anything but apparently I'm good at this I guess for some reason I don't know I'm just going up what people have told me anyway thank you all for being in here this has been wonderful and I hope for many more very productive and interesting salons in the future so with that signing off all right take care thank you see you thank you
+## Davonte Bradley [01:52:23](https://www.youtube.com/watch?v=sbMbH55efqM&t=6743s)
+
+Thank you for that, Roz. And Cynthia, you had one last thing?
+
+## Cynthia Beth Rubin [01:52:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=6746s)
+
+Yeah. With two minutes left. I just wanted to say really quickly. I have a lot of trouble with the Van Gogh Show. And the reason that I do is there actually are some wonderful people doing immersive work as new media intentional journalists. And I'm just gonna say that I'm not for the space. Their medium and commercialize them instead of supporting new innovative artists who can be pushing the medium so a discussion for another time maybe but look up team borderless if you get a chance in tokyo because their work is just amazing okay so
+
+## Davonte Bradley [01:53:34](https://www.youtube.com/watch?v=sbMbH55efqM&t=6814s)
+
+Okay well thank you for that and with that we are right here at four minutes so I want to thank everyone that was in attendance both all three of our presenters emma nina lauren thank you very much for your presentations thank you everyone here for your engagement and your questions and this really interesting discussion that we've had after the fact it's all right thank you so much for your time and I'm going to hand it over to you and I'm going to wonderful and I very much hope to see as many of you as possible for next time in two weeks yep so colin did you have anything else that you wanted to add or
+
+## Colin Goldberg [01:54:15](https://www.youtube.com/watch?v=sbMbH55efqM&t=6855s)
+
+Not really you know awesome awesome salon and definitely like you know like I said in the beginning anyone that's interested in presenting for next time you know definitely reach out to Davo or myself and or if you know if anyone here knows of any artists or colleagues that you think would be interested in presenting definitely like refer them to the salons on the Techspressionism site it's just expressionism.com salon and they could check out some of the past recordings and see if they'd be interested in you know presenting so because the sooner that we lock in you know usually we've been doing two presentations but we could do you know I guess we could do three or you know whatever to make sense the sooner that I can sort of prep like a little promotional piece to put that put out there on social and get the info up on the site to drum up you know some support so the more lead time that we can schedule people in advance the better and you know you guys might also just want to check out
+
+## Unattributed [01:55:18](https://www.youtube.com/watch?v=sbMbH55efqM&t=6918s)
+
+Some of the artists interviews and that's something that's been you know roz
+
+## Colin Goldberg [01:55:22](https://www.youtube.com/watch?v=sbMbH55efqM&t=6922s)
+
+Helped initiate that has been something that's been a really
+
+## Unattributed [01:55:26](https://www.youtube.com/watch?v=sbMbH55efqM&t=6926s)
+
+Important ongoing component of this whole community as well so
+
+## Colin Goldberg [01:55:32](https://www.youtube.com/watch?v=sbMbH55efqM&t=6932s)
+
+Yeah that's about it for me and thanks again Davo for all of your service really appreciate it well
+
+## Davonte Bradley [01:55:38](https://www.youtube.com/watch?v=sbMbH55efqM&t=6938s)
+
+Thank you I don't want to toot my own horn or anything but apparently I'm good at this I guess for some reason I don't know I'm just going up what people have told me anyway thank you all for being in here this has been wonderful and I hope for many more very productive and interesting salons in the future so with that signing off all
+
+## Unattributed [01:56:02](https://www.youtube.com/watch?v=sbMbH55efqM&t=6962s)
+
+Right take care thank you see
+
+## Davonte Bradley [01:56:05](https://www.youtube.com/watch?v=sbMbH55efqM&t=6965s)
+
+You thank
+
+## Unattributed [01:56:06](https://www.youtube.com/watch?v=sbMbH55efqM&t=6966s)
+
+You

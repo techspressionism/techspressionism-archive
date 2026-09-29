@@ -30,15 +30,21 @@ And after that, we're going to open up the floor for discussion. And we're going
 
 Other than that, though, I want to say before we get started with our presentations, that the NFT show that we put on last week on Wednesday was a kind of resounding success, I believe. We had almost a hundred and fifty people in the audience. We had almost one hundred participants in our Zoom meeting for that meeting. The discussion around it was great. The question and answer session, just the overall presentation, the exhibition, all of it, very good. A lot of positive feedback regarding that. And that's the kind of positive press that, you know, we're all looking for because more positive press, more talking, more legitimacy, right? So always a good thing. After that, we probably have I'm probably going to try and open up the second collaboration exhibition sometime in between now and the next exhibition for the movement itself.
 
-So that's coming in because that was all we have all the work for that now. Yeah, the closing date for the NFT show at this point is August 30th. 31st. So and then the Expressionism 2021 show that's going to be kind of like the survey show the tentative opening date for that is November 1st. So that would give us a two month period for the for the round two of the collab.
+So that's coming in because that was all we have all the work for that now.
+
+## Colin Goldberg [02:17](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=137s)
+
+Yeah, the closing date for the NFT show at this point is August 30th. 31st. So and then the Expressionism 2021 show that's going to be kind of like the survey show the tentative opening date for that is November 1st. So that would give us a two month period for the for the round two of the collab.
+
+## Davonte Bradley [02:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=163s)
 
 Yep. So like to have some stuff in between big gaps of big shows, because I think this show would be great. Was huge and that show is going to be huge. The collab shows are a little bit smaller, but they're still very much important because that's us, that is a representation of what we're doing very closely. And a lot of people care about that. So it's like, I think that one's a little bit more intimate of an exhibition.
 
-Anyway, let's get started with the presentations. First up, we have Michael Price, who's presented here before, and I am very much a fan of his work. Thanks,
+Anyway, let's get started with the presentations. First up, we have Michael Price, who's presented here before, and I am very much a fan of his work.
 
-## Michael Pierre Price [03:30](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=210s)
+## Michael Pierre Price [03:29](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=209s)
 
-Davo. No problem. So if hopefully, if you all will allow me, this is almost a sharing of my work and also sort of a mini testimonial for Techspressionism and this group and the value of it. And I'll tell you that it's been to me personally. So when I first got the invite from Colin, it was I think early October last year, it was just around the second salon meeting.
+Thanks, Davo. No problem. So if hopefully, if you all will allow me, this is almost a sharing of my work and also sort of a mini testimonial for Techspressionism and this group and the value of it. And I'll tell you that it's been to me personally. So when I first got the invite from Colin, it was I think early October last year, it was just around the second salon meeting.
 
 And I wasn't sure, cause I'm not a joiner of groups. So I was, I kind of, you know, I checked the page, I looked at Colin's work and some of the other original members. And I thought, okay, this looks really interesting. And the thing that I felt really strongly about is, and I think we've all talked about this at some time or another, is that idea of being an artist who uses technology in some way, trying to talk about our work to folks who aren't technology-based. Oftentimes we're looked down upon, or a lot of times, that's been my experience. And I thought, okay, there might be safety in numbers here. So I just kind of like dipped my toe in the water and got in on the third salon meeting.
 
@@ -46,7 +52,15 @@ And Davo, I remember after the salon meeting was done, I don't know, you managed
 
 I see potential here. So that for me has been a real value. And my work, I have to say, would evolve the way it's gonna evolve. But everybody here who has presented at the salons have inspired me in one way or another. And to me, the value of these salons has turned out to be so much greater than I would have ever anticipated going into it. And so, like I said, for me, this is sort of a little mini testimonial about all of that. So, and I wanna say a few more things about that, but I'm gonna actually share my screen here.
 
-So can everybody see this okay? Yep, can see it just fine. Awesome. So I had a solo exhibit last year in August, August, and I had done a lot of planning for it, and obviously the pandemic really messed it up a lot, so I didn't get too many people to come in, but this piece is called The Birth of Monsters, and it relates to the time period about 100 years ago or so when World War I society was changing, the art world was changing, science was changing. And there were these great tumultuous events happening in the world and our sense of aesthetic and what needed to be utilized to express all of the things going on in the world changed.
+So can everybody see this okay?
+
+## Davonte Bradley [06:25](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=385s)
+
+Yep, can see it just fine.
+
+## Michael Pierre Price [06:26](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=386s)
+
+Awesome. So I had a solo exhibit last year in August, August, and I had done a lot of planning for it, and obviously the pandemic really messed it up a lot, so I didn't get too many people to come in, but this piece is called The Birth of Monsters, and it relates to the time period about 100 years ago or so when World War I society was changing, the art world was changing, science was changing. And there were these great tumultuous events happening in the world and our sense of aesthetic and what needed to be utilized to express all of the things going on in the world changed.
 
 And, and so there was this, in, in the area of mathematics, there were, there were these figures that were cropping up that were called monsters. And they, they were things that were almost like precursors to fractal mathematics. And, and I don't know if Patrick Lichty's here today, or not, but he was doing some plotter drawings a few weeks ago and I happened to see them and they reminded me of that. And so Patrick and I had a Zoom meeting and we talked about his work and some other things. And again, that's just another, that's just another example of just how cool this group is that, you know, we can post stuff on Instagram and, and, and here in the salon meetings. And we can be really, really inspired to, to see what's in their work and how it touches our work as well. So the reason I just wanted to show this is that kind of just a weird coincidence.
 
@@ -78,37 +92,177 @@ Some of them are the reliefs. The relief pieces that she did was very neat to se
 
 So anyway, that's kind of, you know, I just wanted to show my work, but to show that it's been inspired by this group. You know, some of the things that I'm doing now have literally and figuratively been altered by this group. And I thank you all for that. And I'm really, really grateful to have. Thank you. Have been invited to be part of the group. And yeah, so.
 
-Any questions? I didn't see any. Oh, you've got questions. You definitely have questions. All right. Well, thank you very much, Michael. And thank you for the praise earlier, because I. I don't know, I was recalling that moment that you were talking about where you were saying that, you know, I picked up one that you had one of your own. And I was like, oh, I want to say something. And I just I look at people's faces like I'm trying. I'd like try to keep track of everyone's face. And I make note of like somebody trying to make a motion that they want to speak or there's just an expression. There's like I want to say something. But then sometimes they might be too shy to say something. I don't know. That was definitely me. And really, that meant a lot to me. You know, it just is just like, wow.
+Any questions? I didn't see any.
 
-You actually you know, you heard my facial expression. I did. I did. All right. That being said, let's dive into some of these many questions that you have. All right. All right. We got one from Colin. So where your works combined with an individual Picasso works or a whole set of them at once. They were it was a group. So it was basically.
+## Davonte Bradley [20:52](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1252s)
 
-It was sort of the first step was sort of a synthesis of the fractals. And then I brought in as a sub influence. I picked out 64 Picasso works that were displayed on the Playform website. People off a lot of the artists on there leave some of their work up for you to look at and you can actually access it. And so I grabbed one set of Picasso works. There was like several hundred in there from his whole period, you know, from his whole life. And I picked 64 that I felt were representative of various aspects of the earlier works. And I think that's what I'm going to be doing. I'm going to be doing a lot of the later and the later works.
+Oh, you've got questions.
 
-Figurative abstract stuff that had a collage elements. And I just wanted to see what would result from it. So my plan is to try to pick other artists and collaborate with them with my practical words just to see sort of, you know, where, where that goes. Yeah. All right. Got a two, two more questions. One from Gary and then one from Randy. Gary just wants to see some of your original fractal pieces. Oh, yeah, sure.
+## Unattributed [20:54](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1254s)
 
-I'm going to share my screen then. And Randy wants to know if, have you considered how you will present these images, which I'm sure you're planning on printing them. Yes, because you like to print all. Okay. Yeah. I print every single one. I don't know. I don't know exactly where or how this might, this might end up getting displayed somewhere.
+You definitely have questions.
 
-Let me go. Oh, all right. Let me grab. Okay. So. I'm just going to. I'm assuming everybody can see this. All right. Yep. This is in no particular order. I didn't share all of the, I didn't use all of these, but these are just some of examples of fractal work. Some of them are 2D fractals. Some are 3D.
+## Davonte Bradley [20:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1256s)
 
-I'm sure you can kind of see a difference. Some of them are manipulated quite a bit. And some of them. There's a lot of people doing a lot of just straight fractal work. And for me, the fractals are sort of a jumping off point for my artistic aesthetic that I'm going for. These are all great. Thank you. I appreciate that. This one I liked. This was a very early one and it just had a very calligraphic, you know, kind of Japanese calligraphy vibe to it to me. Which I really liked.
+All right. Well, thank you very much, Michael. And thank you for the praise earlier, because I. I don't know, I was recalling that moment that you were talking about where you were saying that, you know, I picked up one that you had one of your own. And I was like, oh, I want to say something. And I just I look at people's faces like I'm trying. I'd like try to keep track of everyone's face. And I make note of like somebody trying to make a motion that they want to speak or there's just an expression. There's like I want to say something. But then sometimes they might be too shy to say something.
 
-We have a question from Jan, actually. I think she raised her hand earlier. Oh, okay. But she went ahead and asked in the chat. She said, have you considered running these AI images several times through the AI? Yes. And I'm planning to try that. So, you know, going back to my physics background and my math and calculus. There's this idea in calculus of derivatives and integrals. And for me, what I'm seeing is like when we say, you know, something's got a position and then it's got a velocity and an acceleration. Those are all derivatives of this idea of position in time. Then if that position changes, then we can calculate a velocity and then acceleration. And for me, this is somewhat.
+## Michael Pierre Price [21:28](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1288s)
 
-Analogous to that. And so, yeah, I want I want to sort of like keep distilling this out to see where it goes, because I really have no clue. So, yeah, Jan, that's a thanks for asking that question. And yeah, I'm definitely going to try that. That's on my radar. It made me think of processes a lot of us used to do with photocopiers.
+I don't know. That was definitely me. And really, that meant a lot to me. You know, it just is just like, wow. You actually you know, you heard my facial expression.
 
-Oh, okay. Degrading images through photocopiers. Yeah. So that's why it would be interesting to see what the computer or the AI does with it. Okay, cool. Yeah. Then we have a question from Roz and then I think a question from Clive and I think that's probably going to be it for our Q&A session from you, Michael. Sounds good. Sounds good. All right. So Roz asks, any thoughts about the resolution aspects using a photocopy machine? Any thoughts about that? Yeah. So here's the thing right now that's limiting or I should say cause is a cause for a lot of creativity.
+## Davonte Bradley [21:39](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1299s)
 
-And I know Gary Hopkins sort of addressed this with some of his work. If I remember correctly, in going from smaller images and taking steps to go larger and larger. So with Playform, images typically can be like 1024 by 1024 pixels up to about 4000, what would that be 98 by 4090 or 4096 by 4096. So for me, since I like to print my work, typically in the 20 some inch by 20 some inch up to, you know, a couple feet by four feet or so. This can prove challenging.
+I did. I did. All right. That being said, let's dive into some of these many questions that you have. All right. All right. We got one from Colin. So where your works combined with an individual Picasso works or a whole set of them at once.
 
-And I have managed to use a couple of different software packages that helped me with that, that some photographers. Use. And I'm working, I just, my brain just went blank for a second here. Oh, crap. You know what, Michael, that's okay I don't want to. But I just found that I've worked a little with Playform and, and that is really tough. Yes. Yes. So I use gigapixel from Topaz Labs.
+## Michael Pierre Price [21:59](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1319s)
 
-And it, it takes some practice, but they use sort of a fractal based technology and AI, they actually use AI to sort of interpolate what's real and what's noise and try to filter out the things that potentially might be potentially annoying. What's nice about it, Roz, is that they have different methodologies for upping the resolution. So if one works better than the other in your results, but it's not easy. It is difficult. And for those of us who like to work in real world dimensions that are not just displaying it on a computer screen or on an iPhone or something. Yeah, it is challenging. Now I know that if you're part of the Playform studio, I believe that they have potentially access to higher res imagery. And I think Anne and or Patrick could, could maybe address that more directly than me.
+They were it was a group. So it was basically. It was sort of the first step was sort of a synthesis of the fractals. And then I brought in as a sub influence. I picked out 64 Picasso works that were displayed on the Playform website. People off a lot of the artists on there leave some of their work up for you to look at and you can actually access it. And so I grabbed one set of Picasso works. There was like several hundred in there from his whole period, you know, from his whole life. And I picked 64 that I felt were representative of various aspects of the earlier works. And I think that's what I'm going to be doing. I'm going to be doing a lot of the later and the later works.
 
-Thanks. Yeah, it's, it's definitely a challenge. Yeah. I just want to confirm I could have missed something. You're not missing anything. Okay. Thank you. Sure. Oh, thanks. Thanks, Roz. And the last question for Michael is coming from Clive. Hi Michael, I really love your work. Great. Thanks. Thank you. I have a question about your about fractals because you have a deeper relationship with them than most people I've met. And it's possible you might even understand a little bit about the math involved in fractals. Yes.
+Figurative abstract stuff that had a collage elements. And I just wanted to see what would result from it. So my plan is to try to pick other artists and collaborate with them with my practical words just to see sort of, you know, where, where that goes. Yeah.
 
-For me coming to fractals and I think of them as part of digital art culture is I'm trying to find a place to put them in my kind of organization of shapes, I guess. I think I went to a textile art show about six or seven years ago. I had a big effect on how I thought about things involving the grid. And how human the right angle is. Yes. It doesn't show up in nature that much. And yet it's a positive thing. The loom after all is set up with right angles. And yet I came away from the show thinking about biomorphic shapes and organic as well. And it's helped me ever since to think about how they're all relating to each other. Yeah. And then coming up the middle is this thing, you know, that you're working with. And where do you place it? How do you think about it? Because you've got, you know, you use anything.
+## Davonte Bradley [23:32](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1412s)
 
-Anything I make that's a grid, I use math often. Yes. Make them. But this is an intensely mathematical thing that seems to be coming out of left field. How can you summarize your relationship with shapes? Man, thank you for that question. That's like a great, great question. It's not necessarily an easy answer to give. And the reason is when Benoit Mandelbrot sort of brought this. To the math world. It was seen as an oddity. And something not real. It wasn't accepted right away. Because exactly a lot of what you're saying is when we talk math. We're so used to. Well, whether it's Euclidean or even non Euclidean geometry that still we're dealing with lines and curves. Angles and, and there's a regularity involved. So here.
+All right. Got a two, two more questions. One from Gary and then one from Randy. Gary just wants to see some of your original fractal pieces.
+
+## Michael Pierre Price [23:42](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1422s)
+
+Oh, yeah, sure. I'm going to share my screen then.
+
+## Davonte Bradley [23:51](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1431s)
+
+And Randy wants to know if, have you considered how you will present these images, which I'm sure you're planning on printing them.
+
+## Unattributed [23:58](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1438s)
+
+Yes, because you like to print all. Okay.
+
+## Davonte Bradley [24:00](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1440s)
+
+Yeah.
+
+## Michael Pierre Price [24:02](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1442s)
+
+I print every single one. I don't know. I don't know exactly where or how this might, this might end up getting displayed somewhere. Let me go. Oh, all right. Let me grab. Okay. So. I'm just going to. I'm assuming everybody can see this. All right.
+
+## Davonte Bradley [24:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1483s)
+
+Yep.
+
+## Michael Pierre Price [24:44](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1484s)
+
+This is in no particular order. I didn't share all of the, I didn't use all of these, but these are just some of examples of fractal work. Some of them are 2D fractals. Some are 3D. I'm sure you can kind of see a difference. Some of them are manipulated quite a bit. And some of them. There's a lot of people doing a lot of just straight fractal work. And for me, the fractals are sort of a jumping off point for my artistic aesthetic that I'm going for.
+
+## Davonte Bradley [25:36](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1536s)
+
+These are all great.
+
+## Michael Pierre Price [25:40](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1540s)
+
+Thank you. I appreciate that. This one I liked. This was a very early one and it just had a very calligraphic, you know, kind of Japanese calligraphy vibe to it to me. Which I really liked.
+
+## Davonte Bradley [26:00](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1560s)
+
+We have a question from Jan, actually. I think she raised her hand earlier. Oh, okay. But she went ahead and asked in the chat. She said, have you considered running these AI images several times through the AI?
+
+## Michael Pierre Price [26:12](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1572s)
+
+Yes. And I'm planning to try that. So, you know, going back to my physics background and my math and calculus. There's this idea in calculus of derivatives and integrals. And for me, what I'm seeing is like when we say, you know, something's got a position and then it's got a velocity and an acceleration. Those are all derivatives of this idea of position in time. Then if that position changes, then we can calculate a velocity and then acceleration. And for me, this is somewhat.
+
+Analogous to that. And so, yeah, I want I want to sort of like keep distilling this out to see where it goes, because I really have no clue. So, yeah, Jan, that's a thanks for asking that question. And yeah, I'm definitely going to try that. That's on my radar.
+
+## Unattributed [27:12](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1632s)
+
+It made me think of processes a lot of us used to do with photocopiers.
+
+## Michael Pierre Price [27:19](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1639s)
+
+Oh, okay.
+
+## Unattributed [27:20](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1640s)
+
+Degrading images through photocopiers. Yeah. So that's why it would be interesting to see what the computer or the AI does with it.
+
+## Michael Pierre Price [27:30](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1650s)
+
+Okay, cool. Yeah.
+
+## Davonte Bradley [27:33](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1653s)
+
+Then we have a question from Roz and then I think a question from Clive and I think that's probably going to be it for our Q&A session from you, Michael.
+
+## Michael Pierre Price [27:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1666s)
+
+Sounds good. Sounds good. All right.
+
+## Davonte Bradley [27:48](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1668s)
+
+So Roz asks, any thoughts about the resolution aspects using a photocopy machine? Any thoughts about that? Yeah.
+
+## Michael Pierre Price [27:54](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1674s)
+
+So here's the thing right now that's limiting or I should say cause is a cause for a lot of creativity. And I know Gary Hopkins sort of addressed this with some of his work. If I remember correctly, in going from smaller images and taking steps to go larger and larger. So with Playform, images typically can be like 1024 by 1024 pixels up to about 4000, what would that be 98 by 4090 or 4096 by 4096.
+
+So for me, since I like to print my work, typically in the 20 some inch by 20 some inch up to, you know, a couple feet by four feet or so. This can prove challenging. And I have managed to use a couple of different software packages that helped me with that, that some photographers. Use. And I'm working, I just, my brain just went blank for a second here.
+
+Oh, crap.
+
+## Roz Dimon [29:36](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1776s)
+
+You know what, Michael, that's okay I don't want to.
+
+## Unattributed [29:39](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1779s)
+
+But I
+
+## Roz Dimon [29:42](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1782s)
+
+Just found that I've worked a little with Playform and, and that is really tough.
+
+## Michael Pierre Price [29:47](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1787s)
+
+Yes. Yes. So I use gigapixel from Topaz Labs. And it, it takes some practice, but they use sort of a fractal based technology and AI, they actually use AI to sort of interpolate what's real and what's noise and try to filter out the things that potentially might be potentially annoying. What's nice about it, Roz, is that they have different methodologies for upping the resolution. So if one works better than the other in your results, but it's not easy. It is difficult. And for those of us who like to work in real world dimensions that are not just displaying it on a computer screen or on an iPhone or something. Yeah, it is challenging. Now I know that if you're part of the Playform studio, I believe that they have potentially access to higher res imagery. And I think Anne and or Patrick could, could maybe address that more directly than me.
+
+Thanks. Yeah, it's, it's definitely a challenge. Yeah.
+
+## Roz Dimon [31:16](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1876s)
+
+I just want to confirm I could have missed something.
+
+## Michael Pierre Price [31:19](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1879s)
+
+You're not missing anything.
+
+## Roz Dimon [31:21](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1881s)
+
+Okay. Thank you.
+
+## Michael Pierre Price [31:22](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1882s)
+
+Sure.
+
+## Roz Dimon [31:23](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1883s)
+
+Oh,
+
+## Michael Pierre Price [31:25](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1885s)
+
+Thanks. Thanks, Roz.
+
+## Davonte Bradley [31:27](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1887s)
+
+And the last question for Michael is coming from Clive.
+
+## Clive Holden [31:32](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1892s)
+
+Hi Michael, I really love your work. Great. Thanks. Thank you. I have a question about your about fractals because you have a deeper relationship with them than most people I've met. And it's possible you might even understand a little bit about the math involved in fractals. Yes. For me coming to fractals and I think of them as part of digital art culture is I'm trying to find a place to put them in my kind of organization of shapes, I guess. I think I went to a textile art show about six or seven years ago. I had a big effect on how I thought about things involving the grid. And how human the right angle is. Yes. It doesn't show up in nature that much. And yet it's a positive thing. The loom after all is set up with right angles. And yet I came away from the show thinking about biomorphic shapes and organic as well.
+
+And it's helped me ever since to think about how they're all relating to each other. Yeah. And then coming up the middle is this thing, you know, that you're working with. And where do you place it? How do you think about it? Because you've got, you know, you use anything. Anything I make that's a grid, I use math often. Yes. Make them.
+
+But this is an intensely mathematical thing that seems to be coming out of left field. How can you summarize your relationship with shapes?
+
+## Michael Pierre Price [32:57](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=1977s)
+
+Man, thank you for that question. That's like a great, great question. It's not necessarily an easy answer to give. And the reason is when Benoit Mandelbrot sort of brought this. To the math world. It was seen as an oddity. And something not real. It wasn't accepted right away. Because exactly a lot of what you're saying is when we talk math. We're so used to. Well, whether it's Euclidean or even non Euclidean geometry that still we're dealing with lines and curves. Angles and, and there's a regularity involved. So here.
 
 Fractals are the math of the irregular. And, and that's where nature is. And that's why a lot of people never saw. Math in nature necessarily is because it's not easily defined. And there's an area of math called chaos theory. And it's all about turbulence and scientists use it. You know, in, in, in. The industrial engine. You know. It. In a lot of ways, you know, you're looking at fluid dynamics and how things. How airplanes work. And so you're all there. There's this idea of turbulence. And what's interesting is. The thrust of most of that is about how do you get rid of it? How do you get to, to nice, easy things where the math then becomes. More. Linear. And you can deal with lift. And take off, or you can deal with. Pipes. You know, water flowing through pipes. Well, and, and so. We've often.
 
@@ -126,37 +280,93 @@ It either blows up to infinity or it settles down to something. Or it becomes so
 
 And so there's a, in leaf structures, in tree structures, the branching of trees is very, is very fractal. One last thing. People have done fractal analysis on the population of trees in a forest. Pop tree populations occur, clumping and all of that is fractal. And so what it says is, that trees know and trees can grow up in the most ideal places because of shade, of the, you know, the soil conditions and all of that. And the last example, satellite antennas for like creating, I think, cell towers have been designed to create fractal shapes because they optimize power output.
 
-And so it's another example of fractals being used in a manufacturing and a high tech environment. So it's, I mean, it's a really fascinating element. And yes, I do feel like I have like this intuitive innate understanding about it. And I use it, you know, to the degree that I feel like it expresses my aesthetic qualities of how I see physics, the world, and all of that coming together and the spirituality that I attribute to all of that. So thanks, Clyde. That was a great question. And I'm really glad I asked, Michael. That was a beautiful answer. Oh, thanks.
+And so it's another example of fractals being used in a manufacturing and a high tech environment. So it's, I mean, it's a really fascinating element. And yes, I do feel like I have like this intuitive innate understanding about it. And I use it, you know, to the degree that I feel like it expresses my aesthetic qualities of how I see physics, the world, and all of that coming together and the spirituality that I attribute to all of that. So thanks, Clyde. That was a great question. And I'm really glad I asked, Michael.
 
-All right. Move on. All right. Well, that was a great Q&A session as well. Thanks, everybody. I appreciate it. To follow up with a great presentation. Thank you. Well, I appreciate this group. So kudos to everybody. We definitely appreciate you. Also, I just realized I forgot to give a shout out to Colin at the start of this because I always do that. And I forgot this time. So, hey, shout out to Colin Goldberg, who kind of brought us all together and got this whole thing started. And he found me and I have no idea. I don't even remember how he found me. So but thank you, Colin. Thank you, Colin. Thanks, Tom. Thanks to you also for moderating. You're doing an awesome job. Thank you. Thank you.
+## Clive Holden [40:15](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2415s)
 
-All right, folks. Following up with that great
+That was a beautiful answer.
 
-## Greggory Hill [41:10](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2470s)
+## Michael Pierre Price [40:16](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2416s)
 
-Presentation, we have a presentation from Greggory Hill. So, Greg, I don't think you've presented here before. So why don't you introduce yourself? A little bit about what you're about. And you can go on with your work. Sure. Thank you. And thank you for the opportunity to present. My name is Greg and I'm outside of Cleveland, Ohio.
+Oh, thanks. All right. Move on.
 
-I have been doing art all my life, but not with technology in mind. And about 20 years ago, I got into programming and initially just web development. And then that morphed into data visualization in the medical industry. Where I was taking medical data and generating animations and graphs and charts and different graphics for telling a story from the data. And as I was doing that more and more, I realized I could build a program based on some of the work I was doing for more of my compositional ideas. And so I started, I think about seven years ago, building a program to do that. And basically what I've done is because I know web development, I built it off of that. So it's all running in JavaScript, which has its limitations. I realize now that I've got a ton of code to rewrite, but there are probably some other platforms that would work better.
+## Davonte Bradley [40:21](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2421s)
 
-But I'll just go ahead and start showing some of the early stuff and move through, maybe move through chronologically. So. Did that work? I'm seeing myself, yes. Okay. So early on, I started just teaching myself what I was doing and taking basically just some simple shapes and randomly putting them on an HTML canvas.
+All right. Well, that was a great Q&A session as well.
 
-And. And then once I, you know, these are obviously very simple. Once I figured that out, I kind of muted them into the background. And as I show my work that progressed on from that, you'll see that in a lot of them, these kind of patterns are hiding in the background. And basically what I've done is just taken some ideas, written a code to recreate them and then randomized that code. So it comes out differently as far as the composition and the colors.
+## Unattributed [40:25](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2425s)
 
-And then the next piece I did was to then try and take a look at the code. And then I took it a step further and do just some basic portraits. And actually at this point, I could just show the actual program. Are you seeing kind of a very poorly generated user interface? It's fairly simple, but if it works, it works. So, and so this is like one of my earlier algorithms for creating the random human portraits.
+Thanks, everybody. I appreciate
 
-And you can see that. In the background, I have just kind of a basic horizon line with some of those shapes kind of melding into the back that I use for a lot of backgrounds. And sometimes I'll reduce the opacity. But you can see the randomization of the patterns and the colors. And then so once I kind of realized that the.
+## Davonte Bradley [40:26](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2426s)
 
-The. These were a little bit more cartoonish than I really was shooting for. So I kind of moved away from that and started doing. And I put it up at the beginning of the chat window. My Instagram address and my web address. So then I started doing like some more typical like landscapes. And these are just randomly generated evergreens.
+It. To follow up with a great presentation. Thank you.
 
-And. Started doing some more. Formal pieces. And always kind of going back to different landscape algorithms, which I always seem to be attracted to. And then. Once I started getting a little commercial as far as doing some gallery shows where I was selling some work, I started building these cityscapes. And then once I kind of got a handle on the algorithm for that.
+## Michael Pierre Price [40:28](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2428s)
+
+Well, I appreciate this group. So kudos to everybody.
+
+## Davonte Bradley [40:32](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2432s)
+
+We definitely appreciate you. Also, I just realized I forgot to give a shout out to Colin at the start of this because I always do that. And I forgot this time. So, hey, shout out to Colin Goldberg, who kind of brought us all together and got this whole thing started.
+
+## Michael Pierre Price [40:50](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2450s)
+
+And he found me and I have no idea. I don't even remember how he found me. So but thank you, Colin.
+
+## Colin Goldberg [40:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2456s)
+
+Thank you, Colin. Thanks, Tom. Thanks to you also for moderating. You're doing an awesome job. Thank you.
+
+## Davonte Bradley [41:03](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2463s)
+
+Thank you. All right, folks. Following up with that great presentation, we have a presentation from Greggory Hill. So, Greg, I don't think you've presented here before. So why don't you introduce yourself? A little bit about what you're about. And you can go on with your work.
+
+## Unattributed [41:25](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2485s)
+
+Sure. Thank you. And thank you for the opportunity to present. My name is Greg and I'm outside of Cleveland, Ohio. I have been doing art all my life, but not with technology in mind. And about 20 years ago, I got into programming and initially just web development. And then that morphed into data visualization in the medical industry. Where I was taking medical data and generating animations and graphs and charts and different graphics for telling a story from the data. And as I was doing that more and more, I realized I could build a program based on some of the work I was doing for more of my compositional ideas. And so I started, I think about seven years ago, building a program to do that. And basically what I've done is because I know web development, I built it off of that. So it's all running in JavaScript, which has its limitations.
+
+I realize now that I've got a ton of code to rewrite, but there are probably some other platforms that would work better. But I'll just go ahead and start showing some of the early stuff and move through, maybe move through chronologically. So.
+
+## Davonte Bradley [42:55](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2575s)
+
+Did that work? I'm seeing myself, yes. Okay.
+
+## Unattributed [43:03](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2583s)
+
+So early on, I started just teaching myself what I was doing and taking basically just some simple shapes and randomly putting them on an HTML canvas. And. And then once I, you know, these are obviously very simple. Once I figured that out, I kind of muted them into the background. And as I show my work that progressed on from that, you'll see that in a lot of them, these kind of patterns are hiding in the background. And basically what I've done is just taken some ideas, written a code to recreate them and then randomized that code. So it comes out differently as far as the composition and the colors.
+
+And then the next piece I did was to then try and take a look at the code. And then I took it a step further and do just some basic portraits. And actually at this point, I could just show the actual program. Are you seeing kind of a very poorly generated user interface?
+
+## Davonte Bradley [44:05](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2645s)
+
+It's fairly simple, but if it works, it works.
+
+## Unattributed [44:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2648s)
+
+So, and so this is like one of my earlier algorithms for creating the random human portraits. And you can see that. In the background, I have just kind of a basic horizon line with some of those shapes kind of melding into the back that I use for a lot of backgrounds. And sometimes I'll reduce the opacity.
+
+But you can see the randomization of the patterns and the colors. And then so once I kind of realized that the. The. These were a little bit more cartoonish than I really was shooting for. So I kind of moved away from that and started doing. And I put it up at the beginning of the chat window. My Instagram address and my web address.
+
+So then I started doing like some more typical like landscapes. And these are just randomly generated evergreens. And. Started doing some more. Formal pieces. And always kind of going back to different landscape algorithms, which I always seem to be attracted to. And then. Once I started getting a little commercial as far as doing some gallery shows where I was selling some work, I started building these cityscapes. And then once I kind of got a handle on the algorithm for that.
 
 I started doing a little commercial. I started doing a little bit more representational work where I was doing actually some. Shots of the city of Cleveland that were randomly generated. Randomly generated obviously within the bounds of the particular composition that I had chosen. And then at some point I.
 
 Started trying to build the algorithms based more just on simple lines and rectangles and blending the colors. In the code together. And so one of the algorithms I did here was to take the compass rose. And create. A randomly generated image based on that. And let me blow these up a little bit. And then so. And actually these were built on the initial piece that I did was just a background.
 
-Where I did. I guess Michael you'd call it a fractal. That's going on back here. There's some different tiles that sometimes are merging with this more of a. Two or one point perspective. I guess that's two point perspective. It's kind of blend together. And then I found that to be an interesting pattern but wasn't. It didn't feel it was a composition so much and I wanted to build something on top of it and that's where the.
+Where I did. I guess Michael you'd call it a fractal. That's going on back here. There's some different tiles that sometimes are merging with this more of a. Two or one point perspective. I guess that's two point perspective. It's kind of blend together. And then I found that to be an interesting pattern but wasn't.
 
-Compass rose came from. And then. So I will I kind of wanted to go back to the human portraiture. And get rid of the cartoonishness but I have still struggled with that but I built actually show you on the website. And now rhythm to generate. I did a good job of generating the you can't see I don't have a larger one for it here. But. This fish, which I you know still has a cartoonish feel but I felt like I got to a better place with it than I did with the human portraiture, and then from there I started doing.
+## Unattributed [47:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2828s)
+
+It didn't feel it was a composition so much and I wanted to build something on top of it and that's where the.
+
+## Sean Mick [47:15](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2835s)
+
+Compass rose came from.
+
+## Unattributed [47:24](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=2844s)
+
+And then. So I will I kind of wanted to go back to the human portraiture. And get rid of the cartoonishness but I have still struggled with that but I built actually show you on the website. And now rhythm to generate. I did a good job of generating the you can't see I don't have a larger one for it here. But. This fish, which I you know still has a cartoonish feel but I felt like I got to a better place with it than I did with the human portraiture, and then from there I started doing.
 
 And then from there I started doing. And this one randomly goes between a bowl and a goat. And you can see like the, the actual shape of the. If I. The actual shape is slightly different every time but it works within a kind of a range of randomization, and then what I'll do is all over printed so in this case I'm doing 10 versions of it on top of itself. And they're actually using different blending modes, it switches between a goat and a bull. So there's this kind of over printing and the over printing using those blending modes creates different color combinations, which you can easily see in the framing of it to that comes up in the. It's doing kind of the same thing there.
 
@@ -166,53 +376,193 @@ And so that in this and this again is using some of those other patterns that I 
 
 And I don't remember where I hid the configuration settings but as an under one that I was toying with. And I don't remember where I hid the configuration settings but as an under one that I was toying with. And I don't remember where I hid the configuration settings but as an under one that I was toying with.
 
-Sorry, I'm clicking too fast. And then at points I go back and forth between – obviously this one is just – this was for a specific project which was randomly generated protozoa in Lake Erie. I guess I only have one of them up here, but it doesn't vary too much. But I always kind of fall back into creating these abstract landscapes, which really always draw me in. And sometimes I use them as a background.
+Sorry, I'm clicking too fast.
+
+## Unattributed [50:31](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3031s)
+
+And then at points I go back and forth between – obviously this one is just – this was for a specific project which was randomly generated protozoa in Lake Erie. I guess I only have one of them up here, but it doesn't vary too much. But I always kind of fall back into creating these abstract landscapes, which really always draw me in. And sometimes I use them as a background.
 
 Occasionally what I'll do is use them. Maybe later. Like for instance, have the background be this landscape that comes into the U.S. Flag. And I've done it with some of the others where I just have the two meld together. But I really just always seem to go back to – this is kind of a different one that showed up in there. Go back to a landscape and just a simple horizon and try and create using rectangles and lines and patterns. And again, like taking the colors and blending them to create these different patterns. A lot of times I get just – So drawn into these kind of things and then sometimes I'll build something on top of them and layer them.
 
-And – I think that's really about all I have. Unless there are some questions. Okay. Okay. Okay. Okay. I think we're good. Are you done sharing your screen or no? Yeah, I can turn that off. Okay. All right. Well, thank you very much, Greg. Thank you for presenting. It's also a little strange, you know, just seeing a lot of people clapping, but you don't hear anything. It's just like an awkward golf clap, I guess is what you call that.
+And – I think that's really about all I have. Unless there are some questions.
 
-But thank you. I think I'm going to raise my hand here. All right, Ross, go ahead. I think I missed a little bit about where you were coming from, Greg. But I find it so fascinating. As someone who paints without, I mean, the math, of course, appeals to me or I wouldn't be using a digital brush. But to see a painting emerge with these elementary lines of code, I think I know that Michael was talking this, but it's almost, I don't know, it was a different kind of grid to look at. This was just so, to look at your different elementary things that you would just put in. I mean, I have so many questions that I don't even know where to start. It's not that I don't have questions. It's just such a different process that brings this whole tech and art back into, oh, well, it's numbers.
+## Davonte Bradley [52:02](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3122s)
 
-And it's, I don't know, I wonder where you tip over to the aesthetic. Do you ever take a brush and do something? Or is your brush? Totally. I'm going to change that number to 15 over zero or, you know, whatever. I certainly go back to the brush or often more so to the pen or the pencil. But a lot of times what I'm doing when I'm writing the code is I'm trying to emulate doodling. It's amazing how you can sit down at a piece of paper and within literally 10 or 20 seconds have drawn kind of an elaborate shape without really putting your mind into exactly what you're trying to create in that moment. And when you sit down at the computer. And try and recreate that programmatically, it's incredibly difficult to make even just like make a curve that blends into another curve and make that work smoothly.
+Okay.
 
-And so a lot of what I do is trying to recreate that. And a good example would be in some of those evergreen branches. Really, what I'm doing is just defining a line on the computer and giving it a random range is this I'm saying go along this line, but I'll allow you to go up four pixels or down four pixels. Or anywhere in between that randomly generated. And so then what it ends up doing is almost something like a doodle. It gets more difficult for me when I'm trying to do the same thing with curves than the line for sure.
+## Unattributed [52:05](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3125s)
 
-Yeah, I guess it gets back to doing websites, HTML, you look and see it, then you go back, make a change. But you're in an interface that's kind of in between the raw code and the piece, right? Or no? Yeah. So I'm really just doing it. In JavaScript, which is really just some basic math and logic. Every with some of the cityscapes, I have to get into a little trigonometry, but most of it is fairly basic math. It's just a part of the problem could be that my coding style is a little bit cumbersome. So it ends up being huge chunks of code.
+Okay. Okay.
 
-And then another thing that I should mention is that at this point in the process, I haven't built any artificial intelligence. Into it. So really often what happens is I'll generate maybe a couple hundred images and pick the best five or six, you know, just throw out the ones that didn't work. And do you get stuck sometime on one thing where all of a sudden, like, I don't know, I kind of like where the flags and those some kind of landscapes were coming together.
+## Davonte Bradley [52:07](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3127s)
 
-Do you get to a point where you go, I want to change that one little thing and get, you know, I know in a painting, you just get into that obsessive place or. Oh, you mean like changing? Change one little thing in one of the pieces. Yeah. Like you go, I'm getting where I want and I want it to go here.
+Okay. I think we're good. Are you done sharing your screen or no? Yeah, I can turn that off. Okay. All right. Well, thank you very much, Greg. Thank you for presenting. It's also a little strange, you know, just seeing a lot of people clapping, but you don't hear anything. It's just like an awkward golf clap, I guess is what you call that.
+
+But thank you.
+
+## Roz Dimon [52:39](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3159s)
+
+I think I'm going to raise my hand here.
+
+## Davonte Bradley [52:41](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3161s)
+
+All right, Ross, go ahead.
+
+## Roz Dimon [52:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3163s)
+
+I think I missed a little bit about where you were coming from, Greg. But I find it so fascinating. As someone who paints without, I mean, the math, of course, appeals to me or I wouldn't be using a digital brush. But to see a painting emerge with these elementary lines of code, I think I know that Michael was talking this, but it's almost, I don't know, it was a different kind of grid to look at. This was just so, to look at your different elementary things that you would just put in. I mean, I have so many questions that I don't even know where to start. It's not that I don't have questions. It's just such a different process that brings this whole tech and art back into, oh, well, it's numbers.
+
+And it's, I don't know, I wonder where you tip over to the aesthetic. Do you ever take a brush and do something? Or is your brush? Totally. I'm going to change that number to 15 over zero or, you know, whatever.
+
+## Unattributed [53:41](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3221s)
+
+I certainly go back to the brush or often more so to the pen or the pencil. But a lot of times what I'm doing when I'm writing the code is I'm trying to emulate doodling. It's amazing how you can sit down at a piece of paper and within literally 10 or 20 seconds have drawn kind of an elaborate shape without really putting your mind into exactly what you're trying to create in that moment. And when you sit down at the computer. And try and recreate that programmatically, it's incredibly difficult to make even just like make a curve that blends into another curve and make that work smoothly. And so a lot of what I do is trying to recreate that. And a good example would be in some of those evergreen branches. Really, what I'm doing is just defining a line on the computer and giving it a random range is this I'm saying go along this line, but I'll allow you to go up four pixels or down four pixels.
+
+Or anywhere in between that randomly generated. And so then what it ends up doing is almost something like a doodle. It gets more difficult for me when I'm trying to do the same thing with curves than the line for sure.
+
+## Roz Dimon [54:50](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3290s)
+
+Yeah, I guess it gets back to doing websites, HTML, you look and see it, then you go back, make a change. But you're in an interface that's kind of in between the raw code and the piece, right? Or no? Yeah.
+
+## Unattributed [55:04](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3304s)
+
+So I'm really just doing it. In JavaScript, which is really just some basic math and logic. Every with some of the cityscapes, I have to get into a little trigonometry, but most of it is fairly basic math. It's just a part of the problem could be that my coding style is a little bit cumbersome. So it ends up being huge chunks of code.
+
+And then another thing that I should mention is that at this point in the process, I haven't built any artificial intelligence. Into it. So really often what happens is I'll generate maybe a couple hundred images and pick the best five or six, you know, just throw out the ones that didn't work.
+
+## Roz Dimon [55:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3346s)
+
+And do you get stuck sometime on one thing where all of a sudden, like, I don't know, I kind of like where the flags and those some kind of landscapes were coming together. Do you get to a point where you go, I want to change that one little thing and get, you know, I know in a painting, you just get into that obsessive place or.
+
+## Unattributed [56:04](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3364s)
+
+Oh, you mean like changing? Change one little thing in one of the pieces. Yeah.
+
+## Roz Dimon [56:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3368s)
+
+Like you go, I'm getting where I want and I want it to go here.
+
+## Unattributed [56:13](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3373s)
 
 Certainly, there's a lot of back and forth. And usually what I do is I'll try and recreate the composition I have in mind. And then once I have it as close as I think, then I'll start randomizing chunks of it. And usually I go too far with it. And then I'll back, you know, back up a little bit. But there have been times when I've generated an image that, you know, just was stunned, stunned me. Yeah. Yeah. And then something came out of it that was not intentional in any way, mostly because of the way I blend the colors.
 
-And so there have been a few cases where I've tried to reverse engineer what might have happened there. It's incredibly difficult just because there are so many variables going on. Exactly. I sometimes talk to people about painting digitally with hundreds of layers and all these choices. And some people just can't, they cannot deal. It's, you get to save every iteration. You don't get that option in an oil painting, you know. It's a way you can. But you can make a big mess, you know. But here you can, you can drive yourself insane. It's like, anyway, I'm just saying they're, they're crossovers in all our processes here. I think where I sometimes feel like I'm making a movie and a painting. And by the time I finish it, I don't even want to see the thing again. You know, it's, it's, but perfection can be an enemy too.
+And so there have been a few cases where I've tried to reverse engineer what might have happened there. It's incredibly difficult just because there are so many variables going on.
 
-But anyway, thanks for sharing the process. Yeah, you bet. And thank you for your question, Roz. Thank you. Thank you. Does anyone else have any questions or comments for Greg? Any praise to give? I do. Well, go ahead. Thanks, Greg. I think it was the compass rose images, but I could be wrong. You had sort of in your background, a lot of squares.
+## Roz Dimon [56:51](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3411s)
 
-It felt very Klimt-like. Very what? Klimt. Oh yeah. I've heard people say that. Yeah. Yeah. Definitely. Yeah. It really, really kind of replicated that vibe of, of his, you know, kind of background images that were all very elegant looking or very ornate looking, but yeah. So, and then, and then the other thing I think that's really interesting is the overprinting process that for me. Okay. Okay. Okay.
+Exactly. I sometimes talk to people about painting digitally with hundreds of layers and all these choices. And some people just can't, they cannot deal. It's, you get to save every iteration. You don't get that option in an oil painting, you know. It's a way you can. But you can make a big mess, you know. But here you can, you can drive yourself insane. It's like, anyway, I'm just saying they're, they're crossovers in all our processes here. I think where I sometimes feel like I'm making a movie and a painting. And by the time I finish it, I don't even want to see the thing again. You know, it's, it's, but perfection can be an enemy too. But anyway, thanks for sharing the process.
 
-So I think that's the thing that I think is really interesting is that you know, it's really interesting to see how many times digital art can have a hard time with. Yeah. I would agree with you there. Yeah. Sometimes when I do it, I feel like I'm cheating a little bit, you know, rather than rather than creating kind of an irregular boundary for a shape. I'm creating that boundary, that irregular boundary by overprinting. Right. But. But so sometimes it does feel a little bit like cheating. But it also is kind of fun to see the way that they blend together. Yes. And sometimes. I like that a lot. I think. Yeah. I think that's a, I think that's a good, it's an interesting programmatic approach to, to trying to find a solution for that. So yeah. I found that interesting.
+## Unattributed [57:29](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3449s)
 
-Well, thank you. Thank you. You know, the, the, it's an interesting thing, the whole idea of thinking like you're cheating, because like when, when somebody that's from like almost strictly the traditional art world looks at some of the work that artists like us kind of do, they're like, oh, but, but you didn't, you didn't do that. Right. Like you didn't, you didn't have enough pain in what doing that thing that you did, like, you're, you're cheating, like you're finding shortcuts. You're not supposed to do that. And it's like, it's not really cheating if you just find an alternative way to do the same thing. Right. You're just, you're doing it.
+Yeah, you bet.
 
-It's like, like somebody complaining about like if somebody drove from one state to another in eight hours and the next person drove that same distance in four hours, it's like, oh no, you cheated. How dare you? Well, I said. I suppose in a way, like you could, you could use the same kind of statement for someone like Pollock or another expressionist painter. Like they're not, they're not consciously laying the paint down on the canvas, but they're letting gravity or wind or just their emotions do the painting. And yeah. And obviously we wouldn't want to consider that cheating. Right. Right. It's just, it's just an interesting thing that it pops up and I think it's going to probably keep popping up year after year. Cause I'm pretty sure. I'm pretty sure some people even say that about like AI generated artwork that, you know, they're taking shortcuts and it's not, it's not the same.
+## Davonte Bradley [57:31](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3451s)
 
-It's not real artwork, all that, all that naysayer stuff. Yeah. Everything begins in that way. Exactly. It does. It does. I mean, why take a car if you can take an airplane, you know? I mean, I'd like to respond to that a little bit. Cause I think it's an interesting question. And, you know, this sort of the analogy of one person taking a car and another person taking an airplane, I think actually gets to sort of the heart of understanding it, which for me is, is that when that analysis comes up of, oh, you've cheated or you've taken a shortcut it, it, it presupposes that you are both aiming at the same goal with the same intention in mind. And it, and it negates the idea that there are different intentionalities based on the modality that you're engaging with at any particular point. At any particular point in time, whether it's in travel or an art making or in cooking or whatever it is that you're doing.
+And thank you for your question, Roz. Thank you. Thank you. Does anyone else have any questions or comments for Greg? Any praise to give?
 
-And I think that throughout history, if you look at sort of art historical movements and, and sort of theoretical modes, it's constantly a blind spot there's because as humans, we seem to be really incapable of seeing anything except what we've already done and anything that sort of comes beyond that begins to immediately sort of our brains try to force it into the paradigm of what we already know. Understand rather than sort of understanding it as something unique or as something potentially different. Right.
+## Michael Pierre Price [57:38](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3458s)
 
-I'm right, right on board with that. Like I very much agree with that assessment. So thank you for your input, Michael. Actually, hold on. We now have three Michaels in here now, I think. Actually, we have a Michael that's going to be presenting next too. But thank you. Thank you, Michael. And thank you, Greg, for your presentation, showing off your art. Yeah, thanks for the opportunity. Yeah, thank you. All your comments. Absolutely. As I said a couple times before, we give praise freely.
+I do.
 
-And I encourage people to, you know, speak up if they have something positive to say, because, I mean, artists like to hear something positive. And I think that's a great way to do that. Good things about their work. Like it's part of the reason why we create sometimes. Like we want somebody to be able to appreciate what we do. Otherwise, it's just, I don't know, it feels very solitary sometimes. Yeah, for sure. Yeah.
+## Davonte Bradley [57:39](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3459s)
 
-All right. So next
+Well, go ahead.
 
-## Michael Pointer [01:03:41](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3821s)
+## Michael Pierre Price [57:42](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3462s)
 
-Up in our presentation list, we have Michael Pointer, who I know has been waiting patiently for his turn now. Hey. How's it going? It's good. How are y'all? All right. You want to introduce yourself a little bit? Well, I know you presented before, but. Yes, I am. And that was kind of a brief thing.
+Thanks, Greg. I think it was the compass rose images, but I could be wrong. You had sort of in your background, a lot of squares. It felt very Klimt-like. Very what? Klimt.
 
-Well, I'm Michael Pointer. I'm a fourth generation artist. I grew up with a painter father that kept me well informed about everything that happened with Rauschenberg and Munchenberg. And I've been a painter for a long time. And I've been a painter for a long time. And I've been a painter for a long time. But the main ingredient of our discussions was always, how does photography relate to painting? And what makes a painting a good painting? And why wouldn't it be a good photograph?
+## Unattributed [58:05](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3485s)
+
+Oh yeah. I've heard people say that. Yeah. Yeah. Definitely.
+
+## Michael Pierre Price [58:09](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3489s)
+
+Yeah. It really, really kind of replicated that vibe of, of his, you know, kind of background images that were all very elegant looking or very ornate looking, but yeah. So, and then, and then the other thing I think that's really interesting is the overprinting process that for me. Okay. Okay. Okay.
+
+So I think that's the thing that I think is really interesting is that you know, it's really interesting to see how many times digital art can have a hard time with. Yeah.
+
+## Unattributed [58:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3526s)
+
+I would agree with you there. Yeah. Sometimes when I do it, I feel like I'm cheating a little bit, you know, rather than rather than creating kind of an irregular boundary for a shape. I'm creating that boundary, that irregular boundary by overprinting. Right. But. But so sometimes it does feel a little bit like cheating. But it also is kind of fun to see the way that they blend together. Yes. And sometimes.
+
+## Michael Pierre Price [59:12](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3552s)
+
+I like that a lot. I think. Yeah. I think that's a, I think that's a good, it's an interesting programmatic approach to, to trying to find a solution for that. So yeah. I found that interesting.
+
+## Unattributed [59:30](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3570s)
+
+Well, thank you. Thank you.
+
+## Davonte Bradley [59:35](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3575s)
+
+You know, the, the, it's an interesting thing, the whole idea of thinking like you're cheating, because like when, when somebody that's from like almost strictly the traditional art world looks at some of the work that artists like us kind of do, they're like, oh, but, but you didn't, you didn't do that. Right. Like you didn't, you didn't have enough pain in what doing that thing that you did, like, you're, you're cheating, like you're finding shortcuts. You're not supposed to do that. And it's like, it's not really cheating if you just find an alternative way to do the same thing.
+
+## Unattributed [01:00:13](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3613s)
+
+Right.
+
+## Davonte Bradley [01:00:14](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3614s)
+
+You're just, you're doing it. It's like, like somebody complaining about like if somebody drove from one state to another in eight hours and the next person drove that same distance in four hours, it's like, oh no, you cheated. How dare you? Well, I said.
+
+## Unattributed [01:00:31](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3631s)
+
+I suppose in a way, like you could, you could use the same kind of statement for someone like Pollock or another expressionist painter. Like they're not, they're not consciously laying the paint down on the canvas, but they're letting gravity or wind or just their emotions do the painting. And yeah. And obviously we wouldn't want to consider that cheating. Right.
+
+## Davonte Bradley [01:00:53](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3653s)
+
+Right. It's just, it's just an interesting thing that it pops up and I think it's going to probably keep popping up year after year. Cause I'm pretty sure. I'm pretty sure some people even say that about like AI generated artwork that, you know, they're taking shortcuts and it's not, it's not the same. It's not real artwork, all that, all that naysayer stuff.
+
+## Roz Dimon [01:01:15](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3675s)
+
+Yeah. Everything begins in that way. Exactly. It does.
+
+## Unattributed [01:01:19](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3679s)
+
+It does.
+
+## Roz Dimon [01:01:20](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3680s)
+
+I mean, why take a car if you can take an airplane, you know? I mean, I'd
+
+## Michael Lorsung [01:01:27](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3687s)
+
+Like to respond to that a little bit. Cause I think it's an interesting question. And, you know, this sort of the analogy of one person taking a car and another person taking an airplane, I think actually gets to sort of the heart of understanding it, which for me is, is that when that analysis comes up of, oh, you've cheated or you've taken a shortcut it, it, it presupposes that you are both aiming at the same goal with the same intention in mind. And it, and it negates the idea that there are different intentionalities based on the modality that you're engaging with at any particular point. At any particular point in time, whether it's in travel or an art making or in cooking or whatever it is that you're doing. And I think that throughout history, if you look at sort of art historical movements and, and sort of theoretical modes, it's constantly a blind spot there's because as humans, we seem to be really incapable of seeing anything except what we've already done and anything that sort of comes beyond that begins to immediately sort of our brains try to force it into the paradigm of what we already know.
+
+Understand rather than sort of understanding it as something unique or as something potentially different.
+
+## Davonte Bradley [01:02:35](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3755s)
+
+Right. I'm right, right on board with that. Like I very much agree with that assessment. So thank you for your input, Michael. Actually, hold on. We now have three Michaels in here now, I think. Actually, we have a Michael that's going to be presenting next too. But thank you. Thank you, Michael. And thank you, Greg, for your presentation, showing off your art.
+
+## Unattributed [01:03:03](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3783s)
+
+Yeah, thanks for the opportunity.
+
+## Davonte Bradley [01:03:04](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3784s)
+
+Yeah, thank you.
+
+## Unattributed [01:03:06](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3786s)
+
+All your comments.
+
+## Davonte Bradley [01:03:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3788s)
+
+Absolutely. As I said a couple times before, we give praise freely. And I encourage people to, you know, speak up if they have something positive to say, because, I mean, artists like to hear something positive. And I think that's a great way to do that. Good things about their work. Like it's part of the reason why we create sometimes. Like we want somebody to be able to appreciate what we do. Otherwise, it's just, I don't know, it feels very solitary sometimes.
+
+## Unattributed [01:03:36](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3816s)
+
+Yeah, for sure.
+
+## Davonte Bradley [01:03:37](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3817s)
+
+Yeah. All right. So next up in our presentation list, we have Michael Pointer, who I know has been waiting patiently for his turn now. Hey. How's it going? It's good. How are y'all? All right. You want to introduce yourself a little bit? Well, I know you presented before, but.
+
+## Michael Pointer [01:04:01](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=3841s)
+
+Yes, I am. And that was kind of a brief thing. Well, I'm Michael Pointer. I'm a fourth generation artist. I grew up with a painter father that kept me well informed about everything that happened with Rauschenberg and Munchenberg. And I've been a painter for a long time. And I've been a painter for a long time. And I've been a painter for a long time. But the main ingredient of our discussions was always, how does photography relate to painting? And what makes a painting a good painting? And why wouldn't it be a good photograph?
 
 And vice versa, of course. And in my entire life has been an exploration of that. On how does photography relate to painting? To incorporate painterly elements into my photography and to create hyperreal moments within a painting. And I haven't painted in a long time. Although I paint on my analog stuff.
 
@@ -236,47 +586,153 @@ Because they will all be converted to black and white 4x5 negatives and projecte
 
 I love that. It's as satisfying as selling. Anyway, this is a gelatin silver print that I painted. And I'm going to put it on. And to give you an idea of kind of what I'll be doing with the previous images that you've seen. It's called Roy Rogers Wasn't Real. It was another statement that curators hated. But I liked it anyway. But just to give you an idea of where I'm going with that whole process.
 
-I'm going to put it on. It's a big color and big things. Anyway, that's all I've got. Unless anybody has anything they want to ask. Silence. I love silence. I have a question. I think Roz actually put it in the chat question. What's your editing? Are you using Photoshop or something else, sir? I use Photoshop. I use PixArt.
+I'm going to put it on. It's a big color and big things. Anyway, that's all I've got. Unless anybody has anything they want to ask. Silence. I love silence.
 
-I use Snapseed. It all comes the end product all come out of Photoshop. Okay. Thank you. Yeah. Just a footnote. Roy Rogers real name was Leonard Sly. See, he wasn't real. And I know he had an interesting interaction with Linda Lovelace as well. Interesting. I have a question. I'm sorry, Roz. Go ahead. No, go ahead. I have a question because I love the text and image end of it. And I'm curious because you said, I think you said that you write your poem last after you do the artwork. Whereas I have to have the first line of the poem or sudden fiction before the artwork comes. So I'm curious, positioning how and where you write in your work and what inspires you to write at what stage?
+## Unattributed [01:13:34](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4414s)
+
+I have a question. I think Roz actually put it in the chat question. What's your editing? Are you using Photoshop or something else, sir?
+
+## Michael Pointer [01:13:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4423s)
+
+I use Photoshop. I use PixArt. I use Snapseed. It all comes the end product all come out of Photoshop. Okay.
+
+## Unattributed [01:13:58](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4438s)
+
+Thank you. Yeah. Just a footnote. Roy Rogers real name was Leonard Sly.
+
+## Michael Pointer [01:14:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4448s)
+
+See, he wasn't real. And I know he had an interesting interaction with Linda Lovelace as well. Interesting.
+
+## Karen LaFleur [01:14:20](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4460s)
+
+I have a question. I'm sorry, Roz.
+
+## Unattributed [01:14:23](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4463s)
+
+Go ahead.
+
+## Karen LaFleur [01:14:23](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4463s)
+
+No, go ahead. I have a question because I love the text and image end of it. And I'm curious because you said, I think you said that you write your poem last after you do the artwork. Whereas I have to have the first line of the poem or sudden fiction before the artwork comes. So I'm curious, positioning how and where you write in your work and what inspires you to write at what stage?
+
+## Michael Pointer [01:14:53](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4493s)
 
 Well, I go in with the idea that there will be a poem begat somewhere along the way. And sometimes I actually have a beginning. You know, I'll have a phrase in my mind that I want to use. It used to be, I don't know, five years ago, I would write the poem and then I would create the artwork to go with the poem.
 
 But that slowed me down. And I found that as I worked through it. I was able to go through the various pathways of the image of creating the different shapes and forms and textures that I also began to see those as phrases in word forms. And then I sit down immediately when it's done and I write out all those ideas.
 
-And then they come together. And then they coalesce into a poem. I have a dear friend who's a well-known poet who kind of keeps me on the right track. And he says my poetry is okay. So I believe him. You know? I paid a lot of money for that degree. But, yeah, it's been a great and wonderful experience. It's been a wonderful thing for me. It all comes together. It is. And it's curious because I have to have the phrase or an impression or something that as I'm creating the artwork, the writing is coming at the same time. So it's interesting that it's the same. Yeah. Thank you.
+And then they come together. And then they coalesce into a poem. I have a dear friend who's a well-known poet who kind of keeps me on the right track. And he says my poetry is okay. So I believe him. You know? I paid a lot of money for that degree. But, yeah, it's been a great and wonderful experience. It's been a wonderful thing for me. It all comes together.
 
-All right. There is a question from Renata. Or Renata, I believe. That's how it's pronounced. Who wants to know is there a difference between your prints and digital work? Yeah. I make a black and white 4x5 digital negative. And I lay mine larger down in my darkroom. And I project that onto the wall. And I selectively develop and stop different areas on it. And then I wash it really well. And dry it. And I don't know if you can see behind me. That's kind of the size they come out. About seven feet by eight feet.
+## Karen LaFleur [01:16:34](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4594s)
 
-And then I paint on them. I think the difference is that they're sloppier. You know? I'm not as concerned with neatness. I'm more concerned with the expressive nature of my painting intervention on the surface of the print. Thank you. Thank you, Michael. I want to say I find your work. Thank you. I have a question.
+It is. And it's curious because I have to have the phrase or an impression or something that as I'm creating the artwork, the writing is coming at the same time. So it's interesting that it's the same.
 
-Maybe kind of generally. But I'm interested to hear more about sort of how you perceive like the hand of the artist. And what that means exactly. Because I always find that to be a really interesting line that gets drawn in work. Is where the hand exists. Because for, you know, a potter or some potters, it's like a fingerprint in clay. For digital artists, it takes and manifests a variety of different forms along that same scale. And so I'm curious sort of how you came up with the rubric for what that looks like in your work. Well, I think there are little imperfections that I allow to remain in my work.
+## Michael Pointer [01:16:49](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4609s)
 
-You know, a brush stroke that wasn't quite perfect. But it conveys essentially what I want. I don't clean up a lot of stuff. I clean up some things. But I like the little slips that I make in the creation. You know? Using an Apple pencil on my iPad. I leave those in. Because I, you know, I think they have great value.
+Yeah.
 
-I want to communicate to the viewer as the artist. And if it's too clean, then I personally feel that I have placed a barrier between the viewer and myself. You know? I want them to understand that this is not some wild unattainable thing that they could never do on their own. Even though it may well be.
+## Davonte Bradley [01:16:50](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4610s)
 
-I want them to engage more physically when they view their work. When they view my work. Not physically. Viscerally. I want them to have a sense of me when they're looking at my work. I love that, Michael. I really do. I love the humanism that you're bringing out here. I mean, I think we sort of forget that the word digital, I mean, it's touch. It's your finger. You know? And no fingers are alike. And no hearts are alike. And so it's, I love that individual aspect of it. And emotion. That's really nice. Appreciate it. Yeah, Michael. That's a great question. I think you brought up a point that I have been working with recently.
+Thank you. All right. There is a question from Renata. Or Renata, I believe. That's how it's pronounced. Who wants to know is there a difference between your prints and digital work?
 
-And that's, you know, allowing that kind of those, if you're using like in Photoshop, a line tool that can make perfectly pristine straight lines. But you're drawing a triangle and it doesn't quite match up in the corners. You know, if you leave all those little subtle clues, those are telltale, digital telltale signs that was done by a human and not a machine. And I think that is something that as a digital artist that we all kind of, at least I enjoy the ease and the quickness that we can get stuff done. But at the same time, you know, there are tools that we have that it's those little imperfections and not making everything look like a clean illustration that make it real relatable to humans. Yeah. And I think that's the great thing about photography is that we're sharing our vision of the world in color.
+## Michael Pointer [01:17:08](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4628s)
 
-And I think your mix of the photographic, which is, you know, high resolution, high detail information with curves and lines and rectangles and bright, bold colors to bring joy into the world in a serious way, but still joyful way is just outstanding. Thank you. Thank you. Yeah, I recently had a gallery that expressed an interest in my work and they thought it was all painting, regular old painting. I had to explain that it was a little different from that but I'd be happy to paint on it if they Anybody else?
+Yeah. I make a black and white 4x5 digital negative. And I lay mine larger down in my darkroom. And I project that onto the wall. And I selectively develop and stop different areas on it. And then I wash it really well. And dry it. And I don't know if you can see behind me. That's kind of the size they come out. About seven feet by eight feet.
 
-Anybody at all? What was their reaction when you told them it was digital? It was positive, actually. I was kind of surprised. They felt like that was something that they needed to begin to explore in their own collection. This is part of a corporate collection. Gallery associated with it. They own one of my early digital pieces so they're interested in more. And they were fine with it being all digital.
+And then I paint on them. I think the difference is that they're sloppier. You know? I'm not as concerned with neatness. I'm more concerned with the expressive nature of my painting intervention on the surface of the print. Thank you.
 
-I think some of you know that I go to a poetry Zoom after this with my library here in Shelter Island, and I just love it. But do you, your poems are interesting. I see some of them on Instagram. Do you, if you're showing your work, do you share the poetry with the pieces? It depends on the, whoever controls the space. If they're willing to put the work, put my poetry up, then yeah, I do.
+## Unattributed [01:18:16](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4696s)
 
-I did one exhibit where I just made a kind of a little chapbook of the poems that went along with the limits of people that they want. Yeah, because I think painting relates so much to poetry, you know, when we're talking about poetry, we're talking about the poetry of the world. I mean, sometimes it gets into novels, but it's more about poetry, I think. So I appreciate that. Yeah. Great. Thank you.
+Thank you, Michael. I want to say I find your work.
 
-Okay. All right. Actually kind of makes me want to try and reincorporate poetry back into my work, because that was something that I used to do once upon a time and got away from it. Great. Yeah. Okay. It is, thank you very much, Michael, for your presentation. It was a pleasure to have you again. I think this is your second presentation. Yeah. And each one is great.
+## Michael Pointer [01:18:21](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4701s)
 
-And we are actually right at what time it is right at 3.30 PM. So we've got 30 minutes for a kind of just a general discussion and panel talk. Which I'm not sure that we have some time to cover. I guess we'll try to cover what we can. The first kind of oral business that was brought up was like an NFT panel discussion. Talking about the various platforms for minting and getting your work out there or what the marketplace and kind of having a discussion about that or what people have been finding working. I guess. Is that right? Am I misremembering things? Yeah. What I was looking for was a bit more of a focused voting yay or nay on different platforms. Oh, okay. Rarible versus super rare versus one or two others. I think, as I said, I think OpenSea is a good place to start. That's what I've done.
+Thank you.
 
-It took a while to get there. And then I took a little rest after that because it was a bit stressful. But I got past the Canadian twists. There's a banking twist that's required up here. But anyway, what are people's experiences who are doing it? And if they found they really hate one because this happened or, you know, they have getting they think this one has a really good interface. The general user experience has been good. That kind of thing.
+## Clive Holden [01:18:24](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4704s)
 
-I mean, I could certainly speak on that a little bit, but I do a lot of the talking anyway. But if anybody else wants to say something. So I know we have all I can say. All I could say is that I've stuck my toe in the water on OpenSea. And it was, you know, a gallery had encouraged me out here to do that. He was trying to do a show. And then I don't know, as it is, everyone's in a new territory. And then we tried to work with cargo and to do meta because of all those concerns. And then we tried to work with cargo and to do meta because of all those concerns. And I'll be honest, for me, like I said, personally, I've dipped my toe in the water.
+I have a question.
 
-And some of those, some of the groups that look more interesting for my kind of work that you have to be invited to. So I don't know. That's all I want to say. I look forward to hearing everyone else. I can speak a little bit about my experience. First of all, I'm a big fan of the book. I'm happy to be here. This is my first salon meeting. And Spalter and I did a collaboration on Super Rare through another Zoom meeting, collective meetup that we did during the pandemic. I work out of the Bakehouse residency program in Miami, Florida.
+## Michael Lorsung [01:18:27](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4707s)
+
+Maybe kind of generally. But I'm interested to hear more about sort of how you perceive like the hand of the artist. And what that means exactly. Because I always find that to be a really interesting line that gets drawn in work. Is where the hand exists. Because for, you know, a potter or some potters, it's like a fingerprint in clay. For digital artists, it takes and manifests a variety of different forms along that same scale. And so I'm curious sort of how you came up with the rubric for what that looks like in your work. Well,
+
+## Michael Pointer [01:18:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4736s)
+
+I think there are little imperfections that I allow to remain in my work. You know, a brush stroke that wasn't quite perfect. But it conveys essentially what I want. I don't clean up a lot of stuff. I clean up some things. But I like the little slips that I make in the creation. You know? Using an Apple pencil on my iPad.
+
+I leave those in. Because I, you know, I think they have great value. I want to communicate to the viewer as the artist. And if it's too clean, then I personally feel that I have placed a barrier between the viewer and myself. You know? I want them to understand that this is not some wild unattainable thing that they could never do on their own. Even though it may well be.
+
+I want them to engage more physically when they view their work. When they view my work. Not physically. Viscerally. I want them to have a sense of me when they're looking at my work. I love
+
+## Roz Dimon [01:20:29](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4829s)
+
+That, Michael. I really do. I love the humanism that you're bringing out here. I mean, I think we sort of forget that the word digital, I mean, it's touch. It's your finger. You know? And no fingers are alike. And no hearts are alike. And so it's, I love that individual aspect of it. And emotion. That's really nice. Appreciate it.
+
+## Gary Hopkins [01:20:52](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4852s)
+
+Yeah, Michael. That's a great question. I think you brought up a point that I have been working with recently. And that's, you know, allowing that kind of those, if you're using like in Photoshop, a line tool that can make perfectly pristine straight lines. But you're drawing a triangle and it doesn't quite match up in the corners. You know, if you leave all those little subtle clues, those are telltale, digital telltale signs that was done by a human and not a machine. And I think that is something that as a digital artist that we all kind of, at least I enjoy the ease and the quickness that we can get stuff done. But at the same time, you know, there are tools that we have that it's those little imperfections and not making everything look like a clean illustration that make it real relatable to humans.
+
+Yeah. And I think that's the great thing about photography is that we're sharing our vision of the world in color. And I think your mix of the photographic, which is, you know, high resolution, high detail information with curves and lines and rectangles and bright, bold colors to bring joy into the world in a serious way, but still joyful way is just outstanding.
+
+Thank you.
+
+## Michael Pointer [01:22:22](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4942s)
+
+Thank you. Yeah, I recently had a gallery that expressed an interest in my work and they thought it was all painting, regular old painting. I had to explain that it was a little different from that but I'd be happy to paint on it if they Anybody else?
+
+## Davonte Bradley [01:22:50](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4970s)
+
+Anybody at all?
+
+## Unattributed [01:22:52](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4972s)
+
+What was their reaction when you told them it was digital?
+
+## Michael Pointer [01:22:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=4976s)
+
+It was positive, actually. I was kind of surprised. They felt like that was something that they needed to begin to explore in their own collection. This is part of a corporate collection. Gallery associated with it. They own one of my early digital pieces so they're interested in more. And they were fine with it being all digital.
+
+## Roz Dimon [01:23:33](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5013s)
+
+I think some of you know that I go to a poetry Zoom after this with my library here in Shelter Island, and I just love it. But do you, your poems are interesting. I see some of them on Instagram. Do you, if you're showing your work, do you share the poetry with the pieces?
+
+## Michael Pointer [01:23:53](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5033s)
+
+It depends on the, whoever controls the space. If they're willing to put the work, put my poetry up, then yeah, I do. I did one exhibit where I just made a kind of a little chapbook of the poems that went along with the limits of people that they want.
+
+## Roz Dimon [01:24:16](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5056s)
+
+Yeah, because I think painting relates so much to poetry, you know, when we're talking about poetry, we're talking about the poetry of the world. I mean, sometimes it gets into novels, but it's more about poetry, I think. So I appreciate that.
+
+## Michael Pointer [01:24:26](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5066s)
+
+Yeah. Great. Thank you. Okay.
+
+## Davonte Bradley [01:24:32](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5072s)
+
+All right. Actually kind of makes me want to try and reincorporate poetry back into my work, because that was something that I used to do once upon a time and got away from it. Great. Yeah. Okay. It is, thank you very much, Michael, for your presentation. It was a pleasure to have you again. I think this is your second presentation. Yeah. And each one is great.
+
+And we are actually right at what time it is right at 3.30 PM. So we've got 30 minutes for a kind of just a general discussion and panel talk. Which I'm not sure that we have some time to cover. I guess we'll try to cover what we can. The first kind of oral business that was brought up was like an NFT panel discussion. Talking about the various platforms for minting and getting your work out there or what the marketplace and kind of having a discussion about that or what people have been finding working. I guess. Is that right? Am I misremembering things?
+
+## Clive Holden [01:25:54](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5154s)
+
+Yeah. What I was looking for was a bit more of a focused voting yay or nay on different platforms. Oh, okay. Rarible versus super rare versus one or two others. I think, as I said, I think OpenSea is a good place to start. That's what I've done. It took a while to get there. And then I took a little rest after that because it was a bit stressful. But I got past the Canadian twists. There's a banking twist that's required up here. But anyway, what are people's experiences who are doing it? And if they found they really hate one because this happened or, you know, they have getting they think this one has a really good interface. The general user experience has been good. That kind of thing.
+
+## Davonte Bradley [01:26:48](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5208s)
+
+I mean, I could certainly speak on that a little bit, but I do a lot of the talking anyway. But if anybody else wants to say something. So I know we have all I can say.
+
+## Randi Matushevitz [01:27:00](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5220s)
+
+All I could say is that I've stuck my toe in the water on OpenSea. And it was, you know, a gallery had encouraged me out here to do that. He was trying to do a show. And then I don't know, as it is, everyone's in a new territory. And then we tried to work with cargo and to do meta because of all those concerns. And then we tried to work with cargo and to do meta because of all those concerns. And I'll be honest, for me, like I said, personally, I've dipped my toe in the water.
+
+And some of those, some of the groups that look more interesting for my kind of work that you have to be invited to. So I don't know. That's all I want to say. I look forward to hearing everyone else.
+
+## Sean Mick [01:27:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5263s)
+
+I can speak a little bit about my experience. First of all, I'm a big fan of the book. I'm happy to be here. This is my first salon meeting. And Spalter and I did a collaboration on Super Rare through another Zoom meeting, collective meetup that we did during the pandemic. I work out of the Bakehouse residency program in Miami, Florida.
 
 And the NFTs kind of came on my radar about two weeks before the pandemic hit and our studios were closed. I'm a fine art practicing artist. I work under two different names because I have two different styles. It was my gallerist idea in the Provincetown to do so. And I really enjoyed that aspect of it. But then when the studios were closed, I found myself like, where's my creative outlet going to go? I had a huge background in production art. I worked in educational publishing as an IT director for 13 years.
 
@@ -294,73 +750,273 @@ And you don't really get that as much in OpenSea when you go direct. OpenSea is 
 
 But I really do believe that not all platforms are equal. However, it is wonderful that there is access, especially ones that offer lazy minting or altcoins that aren't as exorbitant. I did a mint today. It was $575 if you look at the number part. And that's insane what's going on with that. I mean, it's prohibitive for a lot of people to really want to jump in. But in a way, especially when you're considering some of the platforms like SuperRare or Known Origin, it's the cost of doing business as well. Because you're investing into a system that has... Quite a bit of confidence. That's where my mileage is so far. And I've been doing it about a little over a year, year and a quarter.
 
-If that helps at all. I hope it wasn't too rambling. No, that's very helpful. Just to summarize from my point of view, you're saying, I think, that SuperRare and Foundation and Known Origin are ones that have a... Maker's Place, Nifty Gateway. Yep. Those are the ones that are really popular. Those are the ones that are juried in, tend to have a collector confidence to it that will kind of elevate your visibility to a degree. I mean, great work is great work. If it's just savant good, then it's going to start to speak for itself and you'll catch on. But these platforms seem to do a good way of cross-promoting it. You'll see that when you're on there, they have bots or they'll have a curatorial staff that will Instagram it for you. There's shell packs on Twitter, things like that. That's something that's maybe...
+If that helps at all. I hope it wasn't too rambling.
 
-Oh, yeah. Not all of the others, actually. I'm not on every platform, but this has been my experience. Of the top three or four or five, is there one that stands out a bit as being the best for the dollar? SuperRare. SuperRare. I mean, go look at nonfungible.com and tell me the sales of each and every week. I mean, I'm talking about it in a sales way. I mean, it's subjective in what you think their roster of artists are like, but I mean, the peers that are on that platform, you know, Pixar artists and Star Wars artists and then every other art in between.
+## Clive Holden [01:33:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5623s)
+
+No, that's very helpful. Just to summarize from my point of view, you're saying, I think, that SuperRare and Foundation and Known Origin are ones that have a...
+
+## Sean Mick [01:33:58](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5638s)
+
+Maker's Place, Nifty Gateway. Yep. Those are the ones that are really popular. Those are the ones that are juried in, tend to have a collector confidence to it that will kind of elevate your visibility to a degree. I mean, great work is great work. If it's just savant good, then it's going to start to speak for itself and you'll catch on. But these platforms seem to do a good way of cross-promoting it. You'll see that when you're on there, they have bots or they'll have a curatorial staff that will Instagram it for you. There's shell packs on Twitter, things like that. That's something that's maybe... Oh, yeah. Not all of the others, actually. I'm not on every platform, but this has been my experience.
+
+## Clive Holden [01:34:36](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5676s)
+
+Of the top three or four or five, is there one that stands out a bit as being the best for the dollar?
+
+## Sean Mick [01:34:45](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5685s)
+
+SuperRare.
+
+## Clive Holden [01:34:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5686s)
+
+SuperRare.
+
+## Sean Mick [01:34:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5686s)
+
+I mean, go look at nonfungible.com and tell me the sales of each and every week. I mean, I'm talking about it in a sales way. I mean, it's subjective in what you think their roster of artists are like, but I mean, the peers that are on that platform, you know, Pixar artists and Star Wars artists and then every other art in between.
 
 Their curatorial eye seems to be setting at times, not entirely, but at times it's setting the tone for a kind of level of what collectors should be looking at in the now. Because we've already gone through a couple of different formats. There was this kind of static or chaotic trash art kind of movement. Right now, anything... I mean, I think it's done in Octane out of Cinema 4D seems to be really hot. I mean, there's trends even within the NFT and they seem to be always a little bit on the leaderboard of that stuff and their sales speak to it. Like I just looked at nonfungible yesterday. I think last week, Known Origin pulled down 200 and some change thousand in sales, whereas SuperRare was 1.6 million. You know, they're always in the top five, usually in the top three. And it's only things like fantasy football, NFT or something like that.
 
-So I think it's a little bit of a mix of those. So I think it's a little bit of a mix of those. So I think it's a little bit of a mix of those. That kind of beats them out as a sales platform in the Ethereum space, like pure Ethereum. Yeah, that's very helpful. I'm going to stick with OpenSea maybe until I make a sale or two, and then try and parlay that money into paying for the minting fee on another. I would apply. Just apply to these platforms that enjoy the... Go look at nonfungible. There's no... I don't think there's any metric that someone can say it's a time amount or where your career is at. It's how your work will resonate with those curators and how it goes through that system. I don't think there's... There's just no reason not to try for it. But I think exposure on those platforms is good.
+So I think it's a little bit of a mix of those. So I think it's a little bit of a mix of those. So I think it's a little bit of a mix of those. That kind of beats them out as a sales platform in the Ethereum space, like pure Ethereum.
 
-Cost is a factor for many people. It is for my... Yeah, well, yeah, right. It is. I don't look at it. I've been doing it when Ether was cheap. And I still see it that way. I don't look at that number, although to mint today and see that number was like... Yeah, I don't look at it that way. I don't look at that number, although to mint today and see that number was like... Yeah, I don't look at that number, although to mint today and see that number was like... I still just see it predominantly as the Ether itself. Most OG people seem to be that way. Like the people that are not in the NFT space, but just crypto enthusiasts.
+## Clive Holden [01:36:10](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5770s)
 
-Excuse me. Could you please say the name of that... The listing that you're tracking? I didn't quite catch that. Nonfungible.com.com. Okay. Fabulous. Yeah. Yeah. They do every... A weekly listing of all sales metrics. They kick people off. So for a while, Rarible was not listed anymore. Yeah. Because it had a wash going through where it was just money laundering and people were buying just absolute crap.
+Yeah, that's very helpful. I'm going to stick with OpenSea maybe until I make a sale or two, and then try and parlay that money into paying for the minting fee on another.
 
-That's another thing. The maturity where NFT is now is also putting an impact on platforms where there's just a wash of things coming through. People are minting everything from tweets to... Right....work to photos to Instagram accounts now that are automatically making an NFT from any single post. I mean, to me, well, that's a different conversation. Yeah. Absolutely. I'm not even going to get into that. So I... If I could just say something, I feel like it would be remiss of me not to tell my own experience because it relates to this conversation, but I had only mint...
+## Sean Mick [01:36:21](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5781s)
 
-My second piece that I minted sold and it sold to Mark Cuban. Yeah. And I was on OpenSea or I am on OpenSea actually because Colin mentioned it as the most... As the best place to start. And so I thought that I should mention that just because I was like, you know how you don't know where guys like that are, right? But he's on OpenSea and he now has my piece listed for sale. I sold it to him for 0.4 Ether and he now has it listed for 0.4 Ether. And I just felt like I should mention that because I didn't know anything about any of the platforms. I have no idea how he found me or, you know, any of that. No idea.
+I would apply. Just apply to these platforms that enjoy the... Go look at nonfungible. There's no... I don't think there's any metric that someone can say it's a time amount or where your career is at. It's how your work will resonate with those curators and how it goes through that system. I don't think there's... There's just no reason not to try for it. But I think exposure on those platforms is good.
 
-But I have to admit that the experience happened. So guys like that are out there. They're everywhere. I mean, if he's on OpenSea, he's going to be on Rarible. He's going to be on Super. I mean, those people are looking at the entire space. And that's what collects the money. And that's what collectors really are doing. But I think that some of the confidence and especially some of the track record certain platforms have plays into where they're at. It's just part of it. But it's not to say any of these are hard and fast rules by a long shot. You know, mileage will vary.
+## Clive Holden [01:36:45](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5805s)
+
+Cost is a factor for many people. It is for my...
+
+## Sean Mick [01:36:47](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5807s)
+
+Yeah, well, yeah, right. It is. I don't look at it. I've been doing it when Ether was cheap. And I still see it that way. I don't look at that number, although to mint today and see that number was like... Yeah, I don't look at it that way. I don't look at that number, although to mint today and see that number was like... Yeah, I don't look at that number, although to mint today and see that number was like... I still just see it predominantly as the Ether itself. Most OG people seem to be that way. Like the people that are not in the NFT space, but just crypto enthusiasts.
+
+## Ann McIntyre [01:37:14](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5834s)
+
+Excuse me. Could you please say the name of that... The listing that you're tracking? I didn't quite catch that.
+
+## Sean Mick [01:37:26](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5846s)
+
+Nonfungible.com.
+
+## Ann McIntyre [01:37:28](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5848s)
+
+.com. Okay. Fabulous. Yeah.
+
+## Sean Mick [01:37:30](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5850s)
+
+Yeah. They do every... A weekly listing of all sales metrics. They kick people off. So for a while, Rarible was not listed anymore. Yeah. Because it had a wash going through where it was just money laundering and people were buying just absolute crap. That's another thing. The maturity where NFT is now is also putting an impact on platforms where there's just a wash of things coming through. People are minting everything from tweets to... Right....work to photos to Instagram accounts now that are automatically making an NFT from any single post. I mean, to me, well, that's a different conversation. Yeah. Absolutely. I'm not even going to get into that. So I...
+
+## Ann McIntyre [01:38:13](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5893s)
+
+If I could just say something, I feel like it would be remiss of me not to tell my own experience because it relates to this conversation, but I had only mint... My second piece that I minted sold and it sold to Mark Cuban. Yeah. And I was on OpenSea or I am on OpenSea actually because Colin mentioned it as the most... As the best place to start. And so I thought that I should mention that just because I was like, you know how you don't know where guys like that are, right? But he's on OpenSea and he now has my piece listed for sale. I sold it to him for 0.4 Ether and he now has it listed for 0.4 Ether. And I just felt like I should mention that because I didn't know anything about any of the platforms. I have no idea how he found me or, you know, any of that. No idea.
+
+But I have to admit that the experience happened. So guys like that are out there.
+
+## Sean Mick [01:39:19](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5959s)
+
+They're everywhere. I mean, if he's on OpenSea, he's going to be on Rarible. He's going to be on Super. I mean, those people are looking at the entire space. And that's what collects the money. And that's what collectors really are doing. But I think that some of the confidence and especially some of the track record certain platforms have plays into where they're at. It's just part of it. But it's not to say any of these are hard and fast rules by a long shot. You know, mileage will vary.
+
+## Roz Dimon [01:39:47](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=5987s)
 
 You know, also an issue that I'm coming up with a little is I have collectors, you know, and already out here. And for some of them and for some interested ones right now. I'm not sure. But it's kind of a if your collectors are not, you know, especially young. I mean, I'm always trying to tap into the younger collectors. But, you know, it's hard to they go, oh, well, how do I go buy this piece? And it's a hard place for them to enter, you know, for some of them to get into. And I'm just finding that has started to be an issue. I'm trying to help somebody right now get into it and go, well, you start with Coinbase. I mean, I have a couple of pieces up at OpenSea.
 
-But I just wonder if anybody else has come across that. It's like bringing in, you know, the traditional collector into this space is not easy. So I think Nifty Gateway allows credit card. You can pay through. But that's just that platform. If you're not on it, you're not, you know, you're not going to have that collector come and get your work. But that's something I think that they're going to have to incorporate eventually. But I also argue, too, I think most people, they don't know it, but six months to a year, wherever that number is, a lot of people are going to have wallets because this is it's moving, you know, just the crypto coins themselves, Doge and all of the to the moon stuff that's happening and Ethereum gaining so much value and smart contract capabilities of going beyond, you know, holding music or art.
+But I just wonder if anybody else has come across that. It's like bringing in, you know, the traditional collector into this space is not easy.
 
-Now you're looking at tickets and deeds and real estates and divorces and anything legal. That'll all start to happen. And these will be, you know, things that everyone will need are these wallets. So I don't I don't know if pushing I mean, for the right now to get people, you know, on board and their feet wet. Yes. But eventually, you know, I would encourage people like get your head around it now. It's going to help you later. But there are platforms that do take credit cards. Do you think that I like your work with Dan Spalter and thank you for all this for your input here. Sean, I was wondering. Do you think that. You know, any of the other blockchains that are not Ethereum basically like flow or Matic like are viable at all or, you know, because I've often thought is that truly a blockchain in the sense that there's somewhat more proprietary, you know, in a way.
+## Sean Mick [01:40:40](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6040s)
+
+So I think Nifty Gateway allows credit card. You can pay through. But that's just that platform. If you're not on it, you're not, you know, you're not going to have that collector come and get your work. But that's something I think that they're going to have to incorporate eventually. But I also argue, too, I think most people, they don't know it, but six months to a year, wherever that number is, a lot of people are going to have wallets because this is it's moving, you know, just the crypto coins themselves, Doge and all of the to the moon stuff that's happening and Ethereum gaining so much value and smart contract capabilities of going beyond, you know, holding music or art. Now you're looking at tickets and deeds and real estates and divorces and anything legal. That'll all start to happen.
+
+And these will be, you know, things that everyone will need are these wallets. So I don't I don't know if pushing I mean, for the right now to get people, you know, on board and their feet wet. Yes. But eventually, you know, I would encourage people like get your head around it now. It's going to help you later.
+
+## Unattributed [01:41:43](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6103s)
+
+But there are platforms that do take credit cards.
+
+## Roz Dimon [01:41:46](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6106s)
+
+Do you think that I like your work with Dan Spalter and thank you for all this for your input here.
+
+## Unattributed [01:41:53](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6113s)
+
+Sean, I was wondering.
+
+## Colin Goldberg [01:41:54](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6114s)
+
+Do you think that. You know, any of the other blockchains that are not Ethereum basically like flow or Matic like are viable at all or, you know, because I've often thought is that truly a blockchain in the sense that there's somewhat more proprietary, you know, in a way.
+
+## Sean Mick [01:42:14](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6134s)
 
 I think they're all competing for space right now and they're taking advantage of the point that, you know, Ethereum is so cost and effective for people to start start throwing their hat in the ring for getting into platforming. This is crazy that things are this so expensive. But I think that they have a ways to go before Tezos takes off. Flow is famous for, I think it's NBA Shots, is their big platform. So, I mean, they're doing good things, but their coin's not even close to the same valuation as that. And, you know, it's a crowded space. There's lots of coins. But I think it's so new and like only 1%, 1.5% of the population has these wallets, has really turned on to this whole thing. Anything can happen. I really, I can't. Possibly speculate. I'm still just trying to navigate where I am and it's a year later and I'm still with Ethereum, but I own Tezos, I own Algorand, I have all these other coins.
 
-I'm just waiting to see what happens with it. You know, it's, it's, it's one thing to be a creator. We all know how, how time consuming it is. And then there's the other whole art of, of navigating this world, the cryptocurrency. Could I ask a question? How do you figure out pricing and how do you decide if it's going to be an original, only one or an addition? And if it's going to be an addition, how many should an addition be of?
+I'm just waiting to see what happens with it. You know, it's, it's, it's one thing to be a creator. We all know how, how time consuming it is. And then there's the other whole art of, of navigating this world, the cryptocurrency.
 
-Is that, if, if, if you're asking me, I always, I think from a collector's point, yeah, I'm always going to, I'm going to say, always do singles for scarcity, but that's me. And how do you figure out pricing or is SuperRare figuring out the pricing? I, you, I, I leave it to market deciding, you know, you can, you can set your price, you can set time to auction, you can do trigger auctioning. All platforms really afford all of that. There's even more nuanced, like Known Origin, you can do collaboration splits. So they do the math.
+## Darcy Gerbarg [01:43:30](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6210s)
 
-I would let the market do the first nine months of my, my getting on SuperRare and Known Origin. And I would bump it up a little bit over time. It's, you know, like there's that equation to your square inch for painting, you know, where you're at and, you know, you merging mid-career, you know, that kind of thing. That's kind of in the same realm where you see what you're doing, how the, cause I study, I look at the numbers of it on the sales end of it, just to see what, what, how much money's moving through, what the, what the volume is like. And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I kind of go from there. I've, I get contacted a lot through Instagram from the bigger collectors on SuperRare and they try and coach, you know, it's also their self-interest.
+Could I ask a question? How do you figure out pricing and how do you decide if it's going to be an original, only one or an addition? And if it's going to be an addition, how many should an addition be of?
 
-They'd like, you know, you don't want to over mint because then your scarcity is going down, but they're also talking from it, from their flipping point of view and what they're going to do with that. I would say, you know, you just have to kind of look around and see what's moving because, you know, there's a pretty good transparency on the front page. Of the activity of these platforms that will tell you what's moving. And I think there's a little bit of a slowdown because the cost of Ethereum is so high. But I would let the market decide if you're undecided. Let them see what they see in your work and then react to it. Because you can let the bid stack up. You hope for a bidding war.
+## Sean Mick [01:43:44](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6224s)
 
-Let's bid sit out there for two months. If they don't pull it, you can take it. So that's my experience. Thank you. Okay. Well, this has been an interesting discussion so far. And it's nice to have somebody that's been in the space for longer than a couple of months to be able to speak on what's been happening.
+Is that, if, if, if you're asking me, I always, I think from a collector's point, yeah,
 
-Because a lot of us, I'd say, we're still fairly new or even beginners to this whole thing. Me, actually. So I think we're pretty much included. Say, what? Two-ish months or thereabouts? Is anybody attaching physical artwork in the group to your NFTs? I'm currently working on a generative piece that develops physical artwork that'll be attached to NFTs.
+## Unattributed [01:43:49](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6229s)
 
-And it's using a series of explosions over the course of 2020. So it's going to take 28 days to generate both a series of NFTs and then the resulting physical artwork, which is an acoustic painting. So how does that, if somebody buys your work, that you physically sending them the generated piece? Yep. Yeah. So that's eventually how that will manifest.
+I'm
 
-And so it'll be comprised, there's an explosion that'll happen every 10 minutes during that 28 days. And each of those will be generating an individual NFT. Oh, wow. The aggregate of that sort of series of heat transfers to an aluminum plate creates the encaustic. Okay. And there's quite a few other artists that are using their NFTs and their physical artwork together in such a way that, like, there's one artist I know. I can't remember their name. I can't remember their name right now. But literally every addition of their NFT comes with, like, a signed print of their artwork. Some artists have done stuff like that.
+## Sean Mick [01:43:50](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6230s)
 
-So they're both buying the NFT and the print together in a way. And I'm not sure how they're pricing that out. Like, if they're pricing the NFT separately from the physical print or if they're mashing that together and saying, this is the whole package. Yeah. That's why I was curious to find out the practicalities of that and if anybody in the group had done that. So, yeah, I'm just really curious.
+Always going to, I'm going to say, always do singles for scarcity, but that's me.
+
+## Darcy Gerbarg [01:43:57](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6237s)
+
+And how do you figure out pricing or is SuperRare figuring out the pricing?
+
+## Sean Mick [01:44:04](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6244s)
+
+I, you, I, I leave it to market deciding, you know, you can, you can set your price, you can set time to auction, you can do trigger auctioning. All platforms really afford all of that. There's even more nuanced, like Known Origin, you can do collaboration splits. So they do the math. I would let the market do the first nine months of my, my getting on SuperRare and Known Origin. And I would bump it up a little bit over time. It's, you know, like there's that equation to your square inch for painting, you know, where you're at and, you know, you merging mid-career, you know, that kind of thing. That's kind of in the same realm where you see what you're doing, how the, cause I study, I look at the numbers of it on the sales end of it, just to see what, what, how much money's moving through, what the, what the volume is like.
+
+And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I would bump it up a little bit over time. And I kind of go from there. I've, I get contacted a lot through Instagram from the bigger collectors on SuperRare and they try and coach, you know, it's also their self-interest. They'd like, you know, you don't want to over mint because then your scarcity is going down, but they're also talking from it, from their flipping point of view and what they're going to do with that. I would say, you know, you just have to kind of look around and see what's moving because, you know, there's a pretty good transparency on the front page. Of the activity of these platforms that will tell you what's moving. And I think there's a little bit of a slowdown because the cost of Ethereum is so high.
+
+But I would let the market decide if you're undecided. Let them see what they see in your work and then react to it. Because you can let the bid stack up. You hope for a bidding war. Let's bid sit out there for two months. If they don't pull it, you can take it. So that's my experience.
+
+## Darcy Gerbarg [01:45:53](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6353s)
+
+Thank you.
+
+## Davonte Bradley [01:45:58](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6358s)
+
+Okay. Well, this has been an interesting discussion so far. And it's nice to have somebody that's been in the space for longer than a couple of months to be able to speak on what's been happening. Because a lot of us, I'd say, we're still fairly new or even beginners to this whole thing. Me, actually. So I think we're pretty much included. Say, what? Two-ish months or thereabouts?
+
+## Michael Pierre Price [01:46:24](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6384s)
+
+Is anybody attaching physical artwork in the group to your
+
+## Michael Lorsung [01:46:34](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6394s)
+
+NFTs? I'm currently working on a generative piece that develops physical artwork that'll be attached to NFTs. And it's using a series of explosions over the course of 2020. So it's going to take 28 days to generate both a series of NFTs and then the resulting physical artwork, which is an acoustic painting.
+
+## Michael Pierre Price [01:46:57](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6417s)
+
+So how does that, if somebody buys your work, that you physically sending them the generated piece? Yep.
+
+## Michael Lorsung [01:47:09](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6429s)
+
+Yeah. So that's eventually how that will manifest. And so it'll be comprised, there's an explosion that'll happen every 10 minutes during that 28 days. And each of those will be generating an individual NFT.
+
+## Unattributed [01:47:22](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6442s)
+
+Oh, wow.
+
+## Michael Lorsung [01:47:24](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6444s)
+
+The aggregate of that sort of series of heat transfers to an aluminum plate creates the encaustic.
+
+## Michael Pierre Price [01:47:33](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6453s)
+
+Okay.
+
+## Davonte Bradley [01:47:36](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6456s)
+
+And there's quite a few other artists that are using their NFTs and their physical artwork together in such a way that, like, there's one artist I know. I can't remember their name. I can't remember their name right now. But literally every addition of their NFT comes with, like, a signed print of their artwork. Some artists have done stuff like that.
+
+So they're both buying the NFT and the print together in a way. And I'm not sure how they're pricing that out. Like, if they're pricing the NFT separately from the physical print or if they're mashing that together and saying, this is the whole package.
+
+## Michael Pierre Price [01:48:16](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6496s)
+
+Yeah. That's why I was curious to find out the practicalities of that and if anybody in the group had done that. So, yeah, I'm just really curious.
+
+## Clive Holden [01:48:27](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6507s)
 
 It's almost like an etiquette has to develop about how to offer it, the physical work. And you're promising. Yeah. You're promising to send it and, you know, you're going to wreck your reputation if you don't, obviously. And you're going to send it in a way that's careful and packaged properly and all that kind of stuff. So it's rest of the art world stuff overlapping with this stuff. I wanted to say something, Bill, that isn't about NFTs. It's just the subject of cheating has come up a number of times today for some reason. I know personally I feel like the only rule, the rule is make it work. So if you find yourself doing something and you really want to do something that's, quote unquote, cheating, you know, and you have to choose between making it work and supposedly not cheating, choose making it work.
 
-It's always that's the number one rule in my opinion. Definitely get behind that. The only cheating I see is taking credit for somebody else's work. Exactly. Other than that. And that is an issue that has happened in this space because it happens even outside of that with people making reproductions of other people's work. Yeah, but it happens in the NFT space too. The copy mentors as well. Yeah. They're being called where they'll find somebody else's artwork meant that and then try to sell it as if it was their own but a lot of places are either a trying to crack down on that or be making it so that it's a lot more difficult for somebody to come behind an artist and do that.
+It's always that's the number one rule in my opinion.
 
-Any hoodl we have five minutes left in our regularly scheduled time. Anybody have anything that they want to share or talk about in that short time span or comments. Oh right and had something. That's right. I'm sorry. Almost forgot. Let me unmute myself. Okay. Yes, thank you. So it spins right into what we're talking about actually.
+## Davonte Bradley [01:49:19](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6559s)
 
-I had. In the course of bouncing around LinkedIn looking for somebody or something. I saw that there was going to be a presentation. At a center, the thing called the Center for art law which is in New York and is a nonprofit. And they had a seminar. On NFTs and law and copyright and all of that. I was checking into it managed to find a way to listen to it but is it is a membership organization.
+Definitely get behind that.
 
-And is anybody in this organization involved or a member of that I was curious. To know. If anybody was aware of it or knew anything about it or had any experience. Okay, was let me just mention it. It was an excellent program. And I am thinking about going ahead and joining it because I feel like I've been such a new world here and, you know, the minute I made that NFT sale I'm thinking well do I still own the copyright and you know how does all that work right. Because actually it was an image I was hoping to do some other things with. But now that like some of the things that I've done. I'm like, I'm not sure if somebody else owns it. Where am I, you know, so I'll probably go ahead and join it looks like it's about $100 a year which is like, I mean that's, I have to stop and think about that, but I just wanted to see if anybody else had any exposure to it looks like to have an excellent series of programs.
+## Michael Pierre Price [01:49:21](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6561s)
 
-And I haven't. I haven't I haven't had real good luck with finding art law or art lawyers that I felt like I could work with. But I thought, well, maybe it's a nonprofit organization will somehow give me another set of resources. You don't give up any rights when you sell an NFT, unless you explicitly state that as part of the sale. And that's what I keep hearing. But I keep, I keep listening to all every time the question comes up just because you know how it is. It's just such a new entity, right?
+The only cheating I see is taking credit for somebody else's work.
 
-But that's what I keep hearing. Excuse me? Mintable, if you use Mintable, Mintable has a much more granular way of writing your smart contract. And you can actually assign copyright over to a buyer. You know, you would adjust that in your price and where you are, you know. That. But by and large, no, it's exactly what you do not. They own an NFT smart contract with a token ID attached. That's it. You own all the IP. Yeah.
+## Davonte Bradley [01:49:25](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6565s)
 
-Yeah. Okay. I have a question for Colin. Quick one. I think Colin, your experience of adding Ethereum as a payment method to your website, how did that go? Well, I just set it up yesterday, so I haven't given it very much time, but, you know, I set my site up. It's a WordPress based site. So I use use WooCommerce as an e-commerce platform. And it's just an extension, basically, that allows MetaMask Ethereum payment as a payment gateway. So I figure, you know, there's people out there buying NFTs with a lot of Ethereum in their wallet, and why not offer analog art, you know, as an option for people. Don't want to convert their ETH to fiat currency. So it's a little bit of an experiment, but, you know, I figured, well, I'll keep you guys posted.
+Exactly.
+
+## Michael Pierre Price [01:49:27](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6567s)
+
+Other than that.
+
+## Davonte Bradley [01:49:29](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6569s)
+
+And that is an issue that has happened in this space because it happens even outside of that with people making reproductions of other people's work. Yeah, but it happens in the NFT space too. The copy mentors as well. Yeah. They're being called where they'll find somebody else's artwork meant that and then try to sell it as if it was their own but a lot of places are either a trying to crack down on that or be making it so that it's a lot more difficult for somebody to come behind an artist and do that.
+
+Any hoodl we have five minutes left in our regularly scheduled time. Anybody have anything that they want to share or talk about in that short time span or comments. Oh right and had something. That's right. I'm sorry. Almost forgot.
+
+## Ann McIntyre [01:50:26](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6626s)
+
+Let me unmute myself. Okay. Yes, thank you. So it spins right into what we're talking about actually. I had. In the course of bouncing around LinkedIn looking for somebody or something. I saw that there was going to be a presentation. At a center, the thing called the Center for art law which is in New York and is a nonprofit.
+
+And they had a seminar. On NFTs and law and copyright and all of that. I was checking into it managed to find a way to listen to it but is it is a membership organization. And is anybody in this organization involved or a member of that I was curious. To know. If anybody was aware of it or knew anything about it or had any experience.
+
+Okay, was let me just mention it. It was an excellent program. And I am thinking about going ahead and joining it because I feel like I've been such a new world here and, you know, the minute I made that NFT sale I'm thinking well do I still own the copyright and you know how does all that work right. Because actually it was an image I was hoping to do some other things with. But now that like some of the things that I've done. I'm like, I'm not sure if somebody else owns it. Where am I, you know, so I'll probably go ahead and join it looks like it's about $100 a year which is like, I mean that's, I have to stop and think about that, but I just wanted to see if anybody else had any exposure to it looks like to have an excellent series of programs.
+
+And I haven't. I haven't I haven't had real good luck with finding art law or art lawyers that I felt like I could work with. But I thought, well, maybe it's a nonprofit organization will somehow give me another set of resources.
+
+## Colin Goldberg [01:52:11](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6731s)
+
+You don't give up any rights when you sell an NFT, unless you explicitly state that as part of the sale.
+
+## Ann McIntyre [01:52:17](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6737s)
+
+And that's what I keep hearing. But I keep, I keep listening to all every time the question comes up just because you know how it is. It's just such a new entity, right?
+
+## Unattributed [01:52:29](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6749s)
+
+But that's what I keep hearing. Excuse me?
+
+## Sean Mick [01:52:31](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6751s)
+
+Mintable, if you use Mintable, Mintable has a much more granular way of writing your smart contract. And you can actually assign copyright over to a buyer. You know, you would adjust that in your price and where you are, you know. That. But by and large, no, it's exactly what you do not. They own an NFT smart contract with a token ID attached. That's it. You own all the IP.
+
+## Ann McIntyre [01:52:55](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6775s)
+
+Yeah.
+
+## Sean Mick [01:52:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6776s)
+
+Yeah.
+
+## Clive Holden [01:52:59](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6779s)
+
+Okay. I have a question for Colin. Quick one. I think Colin, your experience of adding Ethereum as a payment method to your website, how did that go?
+
+## Colin Goldberg [01:53:10](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6790s)
+
+Well, I just set it up yesterday, so I haven't given it very much time, but, you know, I set my site up. It's a WordPress based site. So I use use WooCommerce as an e-commerce platform. And it's just an extension, basically, that allows MetaMask Ethereum payment as a payment gateway. So I figure, you know, there's people out there buying NFTs with a lot of Ethereum in their wallet, and why not offer analog art, you know, as an option for people. Don't want to convert their ETH to fiat currency. So it's a little bit of an experiment, but, you know, I figured, well, I'll keep you guys posted.
+
+## Sean Mick [01:53:56](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6836s)
 
 Can I jump in really quickly and say to people that are in the space of NFT and getting closer to all exchanges with cryptocurrency, go over, especially in the Ethereum network, this is what it pertains to, go over to ENS, Ethereum name service, because, you know, when you have a wallet that you get paid to, you have this incredibly long hash, right? So no one's going to know that off the top of the head. I don't even know the first six numbers or letters, you know, who knows? But what you can do is go over to ENS, I think it's.com or IO, and you can go by your name.eth and assign it to your wallet. And that's it. So I think it's a really, really good way to your wallet. So now when you tell people, oh, you know, if you want to look me up, you want to pay me, I'm seanmick.eth, which is a little, you know, it makes for, and it'll, it'll, it'll cry like, like DNS does to IP addresses on the internet.
 
 You know, nike.com is what we know. We don't know the long IP address of it. This is exactly what that does. Just as I recommend that to everybody. It's very cheap. If you were to add like a company name, it's extremely expensive, but your unique name, your given name.eth is usually like 25 bucks for $5.
 
-Interesting. There's also a really good service called coin tracker. I found out about it through Coinbase, but basically it allows you to attach your wallet and it tracks all of your transactions and even multiple wallets. It'll, it'll you know it'll accommodate multiple wallets, wallets, wallet transactions, and actually generate your tax forms that are required for long-term and short-term capital gains. Which especially like if you have a lot of work out there and you're dealing with stuff getting resold and small payments, royalties and stuff like that, you would need to track it against the price of ETH at every time of the transaction. Trying to do that manually would be almost impossible, I think. So it seems like a pretty, you know, pretty reasonable way to go and it's like fully automated.
+Interesting.
 
-So it's pretty sweet. Okay. We are right at 4pm now so I think now would be a good time to start winding things down. Thank you all for attending and thank you so much, our presenters today. Both Michaels who presented today and Greg. Thank you so much. Thank you again Colin for bringing us all together organizing the Zoom. And, you know, just everyone. Thank you so much. Thank you for being here. The community is a great part of what makes this great.
+## Colin Goldberg [01:55:06](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6906s)
+
+There's also a really good service called coin tracker. I found out about it through Coinbase, but basically it allows you to attach your wallet and it tracks all of your transactions and even multiple wallets. It'll, it'll you know it'll accommodate multiple wallets, wallets, wallet transactions, and actually generate your tax forms that are required for long-term and short-term capital gains. Which especially like if you have a lot of work out there and you're dealing with stuff getting resold and small payments, royalties and stuff like that, you would need to track it against the price of ETH at every time of the transaction. Trying to do that manually would be almost impossible, I think. So it seems like a pretty, you know, pretty reasonable way to go and it's like fully automated. So it's pretty sweet.
+
+Okay.
+
+## Davonte Bradley [01:56:04](https://www.youtube.com/watch?v=UE3rbE3XMf0&t=6964s)
+
+We are right at 4pm now so I think now would be a good time to start winding things down. Thank you all for attending and thank you so much, our presenters today. Both Michaels who presented today and Greg. Thank you so much. Thank you again Colin for bringing us all together organizing the Zoom. And, you know, just everyone. Thank you so much. Thank you for being here. The community is a great part of what makes this great.
 
 And all of you being here together being, you know, mostly friendly, I would say. Otherwise mean-spirited or anything like that everyone's generally trying to help everyone else and support each other. So that also makes things great. And with that, thank you again for attending. And we are going to close. Close out the recording. So, Oh, thank you. Yes, claps.
 

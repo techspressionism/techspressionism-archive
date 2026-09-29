@@ -30,81 +30,311 @@ languages: ["en"]
 
 ## Davonte Bradley [00:00](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=0s)
 
-Yes. All right, cool. Another thing that I would like to see or try before we get started. Do you guys know about the reaction functionality for Zoom, like the whole hand raising, thumbs up stuff? Yes? No. No? Okay. Not me. Are you on mobile or are you on desktop? I'm on a desktop. Okay. So if you look at the bottom of the Zoom window, there will be something that says reactions on the bottom right corner. Okay. I see it.
+Yes. All right, cool. Another thing that I would like to see or try before we get started. Do you guys know about the reaction functionality for Zoom, like the whole hand raising, thumbs up stuff? Yes?
 
-There's all, yeah, there you go. And then if you do that, yeah, if everyone could put a thumbs up, that'd be great. So I can see that everyone knows kind of how to do it. Nice, beautiful. All right. Great. So we'll use that or try to incorporate that someday. It might not be this meeting, but for organizational purposes, it's going to help a lot.
+## Unattributed [00:21](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=21s)
 
-Actually, I've never used that at all. Do you just turn it back on again if you want it off? Does it toggle? It's like on the timer. So the thumbs up one is on a timer. If you do the raise hand thing, that stays. That lets you know, oh, hey, I would like to speak. So it also will arrange the hands up first so we know fairly who goes next.
+No.
 
-I'm glad to hear that because I know that, Davo, you can also, it used to be you could raise your hand. Oh, I think you still can in the participants, but maybe not. No, you can. You can. Yeah. But anyway, yeah, that's good to know. Yep. Thanks. All right. So now that we've got that out of the way, hello, hello, and welcome to the Techspressionist Salon. I'm not quite sure what number this is though. So we're going to have to figure that out after the fact.
+## Davonte Bradley [00:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=22s)
 
-Today is January 19th, 2021. My name is Davonte Bradley, otherwise known as Davo, and I will be the moderator for today's meetup. Colin Goldberg, who is kind of the starter of this whole great event, is going to be our timekeeper for today. Today's recording session will be two hours with recording closing around 4 p.m. Eastern time. It is now 2 0 6 p.m., so two hours-ish from now. The salon format is as follows. Five artists will share on their work for five minutes each. Artists are welcome to share their screen if they wish to during their allotted time. After four minutes, you will get one a one-minute warning from the timekeeper so you can wrap things up. When sharing, please introduce yourself and let us know where you're located. If you're interested in sharing your work with the group, please raise your hand by clicking on the icon labeled Participate.
+No? Okay. Not me. Are you on mobile or are you on desktop? I'm on a desktop. Okay. So if you look at the bottom of the Zoom window, there will be something that says reactions on the bottom right corner. Okay. I see it. There's all, yeah, there you go. And then if you do that, yeah, if everyone could put a thumbs up, that'd be great. So I can see that everyone knows kind of how to do it. Nice, beautiful. All right. Great.
 
-Please share your work with the group. Please raise your hand by clicking on the icon labeled Participate. If you raise your hand, I'll be able to see or will be able to see who rose their hand in what order. After the five artist presentations, we will hold a 15-minute planning meeting where current and new initiatives as well as open commitments can be discussed. Following the planning meeting, the moderator will present me several different possible topics for general discussion and the group participants will decide upon a topic. The moderator will present their own topic and will share their own opinion on the topic. The discussion will be held on the floor of the floorboard. The floor will be open for discussion and with that we will get started with our first artist.
+So we'll use that or try to incorporate that someday. It might not be this meeting, but for organizational purposes, it's going to help a lot.
 
-I believe that is Roz, correct? Because I think so. Yeah, I think so. All right, so Roz, you have the floor. Also before we get started, if you would be so kind as to mute yourselves or I will mute you so that there won't be too many interruptions during the presentation.
+## Roz Dimon [01:05](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=65s)
+
+Actually, I've never used that at all. Do you just turn it back on again if you want it off? Does it toggle?
+
+## Davonte Bradley [01:11](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=71s)
+
+It's like on the timer. So the thumbs up one is on a timer. If you do the raise hand thing, that stays. That lets you know, oh, hey, I would like to speak. So it also will arrange the hands up first so we know fairly who goes next.
+
+## Roz Dimon [01:33](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=93s)
+
+I'm glad to hear that because I know that, Davo, you can also, it used to be you could raise your hand. Oh, I think you still can in the participants, but maybe not.
+
+## Davonte Bradley [01:40](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=100s)
+
+No, you can. You can.
+
+## Roz Dimon [01:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=101s)
+
+Yeah. But anyway, yeah, that's good to know.
+
+## Davonte Bradley [01:45](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=105s)
+
+Yep.
+
+## Roz Dimon [01:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=106s)
+
+Thanks.
+
+## Davonte Bradley [01:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=106s)
+
+All right. So now that we've got that out of the way, hello, hello, and welcome to the Techspressionist Salon. I'm not quite sure what number this is though. So we're going to have to figure that out after the fact. Today is January 19th, 2021. My name is Davonte Bradley, otherwise known as Davo, and I will be the moderator for today's meetup.
+
+Colin Goldberg, who is kind of the starter of this whole great event, is going to be our timekeeper for today. Today's recording session will be two hours with recording closing around 4 p.m. Eastern time. It is now 2 0 6 p.m., so two hours-ish from now. The salon format is as follows. Five artists will share on their work for five minutes each. Artists are welcome to share their screen if they wish to during their allotted time. After four minutes, you will get one a one-minute warning from the timekeeper so you can wrap things up. When sharing, please introduce yourself and let us know where you're located. If you're interested in sharing your work with the group, please raise your hand by clicking on the icon labeled Participate. Please share your work with the group. Please raise your hand by clicking on the icon labeled Participate.
+
+If you raise your hand, I'll be able to see or will be able to see who rose their hand in what order. After the five artist presentations, we will hold a 15-minute planning meeting where current and new initiatives as well as open commitments can be discussed. Following the planning meeting, the moderator will present me several different possible topics for general discussion and the group participants will decide upon a topic. The moderator will present their own topic and will share their own opinion on the topic. The discussion will be held on the floor of the floorboard. The floor will be open for discussion and with that we will get started with our first artist.
+
+I believe that is Roz, correct? Because I
+
+## Roz Dimon [03:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=221s)
+
+Think so. Yeah, I think so.
+
+## Davonte Bradley [03:43](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=223s)
+
+All right, so Roz, you have the floor. Also before we get started, if you would be so kind as to mute yourselves or I will mute you so that there won't be too many interruptions during the presentation. All right.
 
 ## Roz Dimon [03:58](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=238s)
 
-All right. Okay. Hi, everybody. Are we done? Devo, is that, am I ready? Yep. Okay. Hi, I'm Roz Dimon and I live in Shelter Island, a booming metropolis 90 miles from New York City. My life's been very much one of a New Yorker for many, many years. And I'm originally from Atlanta, Georgia. So if you hear a little southern accent, that's still with me. And I'm actually liking Georgia more than ever right now, more than I ever did. Anyway, so I think without further ado, I will say I've been in digital art almost by accident since arriving in the city. The pulse of it entered my paintings and all these squares started coming into my oil paintings for about 10, they'd already been occurring in Atlanta, but I am someone who's gotten into technology, as I say, almost by accident. So I've rarely done anything that was cool in my life.
+Okay. Hi, everybody. Are we done? Devo, is that, am I ready?
 
-I'm going to go just right into it because the clock is ticking and just share a screen. There's so much to tell all you guys about this adventure, but I'm going to go into one of my latest paintings. Can I just go into it, Davo? Share screen? Okay. The piece was behind me when I was talking to you guys.
+## Davonte Bradley [04:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=242s)
 
-And I am really primarily a painting and drawing person. And yet working with this digital tool has led me into all sorts of adventures. This piece is called Sputnik's Sweetheart Love Letter for Sumir, and it's based on a Haruki Murakami novel. And I'm going to show you a little bit of the painting. If you go in it, you can see I'm in Photoshop, all the layers in this, and you can see this Ferris wheel and even just this image and the layers within this image of this Ferris wheel. I hope you can see the Ferris wheel a little bit. Oh yeah, hold on. I think we've got a bit of a technical difficulty going on. It's not actually picking up your screen. Oh, it isn't? No, it is not. What's it picking up? You have to unfair and shift. Oh, you know what? Oh, here we go. Guess what? There we go. Oh, give me a few minutes of grace, will you, Tom?
+Yep.
 
-Sure thing. Give me a few minutes on the timer. All right. Yeah, it's funny. I'm not much of a techie, but I have become one because of my response to a digital age with my paintbrush. So we're inside this painting. I'm going to just zoom. Wait. Zoom back and forth. You can see the whole piece now a little better.
+## Roz Dimon [04:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=242s)
+
+Okay. Hi, I'm Roz Dimon and I live in Shelter Island, a booming metropolis 90 miles from New York City. My life's been very much one of a New Yorker for many, many years. And I'm originally from Atlanta, Georgia. So if you hear a little southern accent, that's still with me. And I'm actually liking Georgia more than ever right now, more than I ever did. Anyway, so I think without further ado, I will say I've been in digital art almost by accident since arriving in the city. The pulse of it entered my paintings and all these squares started coming into my oil paintings for about 10, they'd already been occurring in Atlanta, but I am someone who's gotten into technology, as I say, almost by accident. So I've rarely done anything that was cool in my life. I'm going to go just right into it because the clock is ticking and just share a screen.
+
+There's so much to tell all you guys about this adventure, but I'm going to go into one of my latest paintings. Can I just go into it, Davo? Share screen? Okay. The piece was behind me when I was talking to you guys. And I am really primarily a painting and drawing person. And yet working with this digital tool has led me into all sorts of adventures. This piece is called Sputnik's Sweetheart Love Letter for Sumir, and it's based on a Haruki Murakami novel. And I'm going to show you a little bit of the painting. If you go in it, you can see I'm in Photoshop, all the layers in this, and you can see this Ferris wheel and even just this image and the layers within this image of this Ferris wheel. I hope you can see the Ferris wheel a little bit.
+
+## Davonte Bradley [05:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=341s)
+
+Oh yeah, hold on. I think we've got a bit of a technical difficulty going on. It's not actually picking up your screen.
+
+## Roz Dimon [05:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=349s)
+
+Oh, it isn't?
+
+## Davonte Bradley [05:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=350s)
+
+No, it is not.
+
+## Roz Dimon [05:52](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=352s)
+
+What's it picking up?
+
+## Davonte Bradley [05:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=353s)
+
+You have to unfair and shift.
+
+## Roz Dimon [05:54](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=354s)
+
+Oh, you know what? Oh, here we go. Guess what? There we go. Oh, give me a few minutes of grace, will you, Tom?
+
+## Colin Goldberg [06:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=361s)
+
+Sure thing.
+
+## Roz Dimon [06:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=362s)
+
+Give me a few minutes on the timer. All right. Yeah, it's funny. I'm not much of a techie, but I have become one because of my response to a digital age with my paintbrush. So we're inside this painting. I'm going to just zoom. Wait. Zoom back and forth. You can see the whole piece now a little better.
 
 And I'm zooming into it, just saying that my whole ride in digital has been a little bit more than a few minutes. And I'm zooming in close. This piece is made at 300 pixels per inch, and it is 48 by 36. So it's a 1.5 gigabyte file. But I feel like my whole life's almost been this Ferris wheel that you're looking at. And it's called Lost in a City. Excuse me.
 
 I'm having a little trouble here. Oh, maybe it's the screen share. Anyway, I'm zooming back, but I don't know if you can see this Ferris wheel here and the ones and zeros, the word ASCII, which is American Standard Code interface, is there. This was a very visual novel, and I'm showing all the layers on the side here that are part of it, and some of them are in folders. So there's hundreds of layers here. And this whole thing of working in pixels and with a digital edge has been for me, as someone who paints and draws in this media, I think what makes it distinct is it speaks to our age. We all want to throw our computers out the window sometimes. But I think it's a great way to take that their time. But it is, this is the age we're in. So there's a certain mark I get in painting and drawing this media.
 
-And the multi-layered levels, which have led me into pieces that I call diamond scapes. After working in this media 30 years, I created these pieces that are multi-layered paintings that you can go and see on the wall, like the piece behind me. And then you can go inside the QR code beside it and go inside the painting, inside all these layers that you're looking at, that I make a full plan of. And that's what I'm doing. And I'm doing story with on the right and code I used to code all this by hand but now I work with a young coder and I love working with him I it's funny like I have a piece in the 911 memorial museum it's one of my first diamondscapes about finding hope when all is lost and I taught I mentioned this to john mark my programmer and he said oh ross I was five years old then I was like oh you know we just it's kind of nice that you can share different ideas across time and generations so I'm just gonna go real deep into the piece again to show you all these some of these layers going on and sometimes I will buy things if I want a high resolution violet I think I saw someone else use these little hearts the other day I bought these because I always attribute everything in my works everyone's attributed so if I don't want to go and make some little candy hearts which is part of the story I'm going to go and buy them and I'm going to go and make some little candy hearts I'm going to quickly switch to chrome to just go inside here's a diamondscape it's at a museum there's a picture of me and a couple other people with an iPad and we're interacting with what is like a very abstract looking piece on the wall and all the images I'm gliding across time now this might look like a slideshow but what you're really doing is going deep inside this image and this is the doesn't your so it's an education it's a painting it's a serious work of art that works on many layers and it's like diving deep into what I call the z space of a painting even though I'm using an analog interface to do it and here is my information code over here my source code that attributes everybody.
+And the multi-layered levels, which have led me into pieces that I call diamond scapes. After working in this media 30 years, I created these pieces that are multi-layered paintings that you can go and see on the wall, like the piece behind me. And then you can go inside the QR code beside it and go inside the painting, inside all these layers that you're looking at, that I make a full plan of. And that's what I'm doing. And I'm doing story with on the right and code I used to code all this by hand but now I work with a young coder and I love working with him I it's funny like I have a piece in the 911 memorial museum it's one of my first diamondscapes about finding hope when all is lost and I taught I mentioned this to john mark my programmer and he said oh ross I was five years old then I was like oh you know we just it's kind of nice that you can share different ideas across time and generations so I'm just gonna go real deep into the piece again to show you all these some of these layers going on and sometimes I will buy things if I want a high resolution violet I think I saw someone else use these little hearts the other day I bought these because I always attribute everything in my works everyone's attributed so if I don't want to go and make some little candy hearts which is part of the story I'm going to go and buy them and I'm going to go and make some little candy hearts I'm going to quickly switch to chrome to just go inside here's a diamondscape it's at a museum there's a picture of me and a couple other people with an iPad and we're interacting with what is like a very abstract looking piece on the wall and all the images I'm gliding across time now this might look like a slideshow but what you're really doing is going deep inside this image
 
-I mean, I feel we're in the new Gutenberg press of imagery. And when words started getting excited after the church and everybody else owned words for so long and only Kings could have words, you know people started writing novels and they started attributing and they started saying this footnote, footnotes this and this. Christiane Paul first wrote about my work or got, well, she wrote about intelligent agents and the first issue that I realized Patrick Lichty was very involved with too. But she really got the diamond scale male in the concept. And she said, wow, you're footnoting, you're taking all those layers and footnoting it on everything. And it's true. And that's where I think we open up the bouquet of art of digital art to a larger expanse.
+## Unattributed [09:20](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=560s)
 
-Am I cut? You got one minute to wrap up if you want. And if you could please paste the URL for this into the chat window. So people can check it out. Sure, oh I will. And you can see up here step 28 of Haven's house. We're going through it in certain steps. There are many more layers than that. There are hundreds of layers here. I took all these artifacts to make a whole story about this family. This was a commission and it's a permanent commission. And I've just had a second commission that I just put on the wall at the children's museum in Long Island where for the first time I loaded my brush with the kids' work and stories during COVID. That was a very challenging thing, but so fun and engaging. I'll put that URL up as well. And I just want to go to my finder. Let me just hide this for a second.
+And this is the doesn't
 
-Let me get out of here. Oh, wait, I hate this. OK, where am I? Let's get to the finder. I thought I would just show a few little things in my last seconds that I have. I'll just open this with preview. Why not? Why won't it do it? Come on, open with preview. OK, I'm going to go ahead and show you a little bit. That's weird. This usually works, but it's probably because I'm giving a talk. You know how that is.
+## Roz Dimon [09:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=562s)
 
-Cancel. Well, we're not going to show that part. I think I'm running out of time. But basically, it takes a little skip through New York. I seem to have a stall here. Oh, maybe that's it. That might be it. Hold on a minute. Let me try. OK. Let me try this one more time. Hm. Weird. Let's see. This preview will open.
+Your so it's an education it's a painting it's a serious work of art that works on many layers and it's like diving deep into what I call the z space of a painting even though I'm using an analog interface to do it and here is my information code over here my source code that attributes everybody. I mean, I feel we're in the new Gutenberg press of imagery. And when words started getting excited after the church and everybody else owned words for so long and only Kings could have words, you know people started writing novels and they started attributing and they started saying this footnote, footnotes this and this. Christiane Paul first wrote about my work or got, well, she wrote about intelligent agents and the first issue that I realized Patrick Lichty was very involved with too. But she really got the diamond scale male in the concept.
 
-Well, Roz is actually going to be telling everyone about an interview series that she's organizing. So there definitely will be a longer format version of this where you can present more images. And that's something that we're going to do in the future. But we're going to talk about it after all the artists present. But that will be an opportunity for anyone that's interested in both being an interviewer and being interviewed, kind of like an interactive way that we can publish and generate our own material. Yes. I'm very excited about that. And I can talk about this later at some other time. It just showed some of the things leading up to where I am today. Thank you for listening to me. I'm enjoying being part of this group. And I hope you're all doing well. Onward and forward. And definitely paste your web address into the chat, Roz.
+And she said, wow, you're footnoting, you're taking all those layers and footnoting it on everything. And it's true. And that's where I think we open up the bouquet of art of digital art to a larger expanse. Am I cut?
 
-I will. I will. And by the way, I named this process. It is a process. For me, this is a very emotional media and very expressive. But it's also a process. And so I named this process, this interactive painting process that is both a still painting and an interactive experience in a museum. I called it Diamondscapes because there are not many women who get known in art history. And I'm putting it out there. And I think it's a good name because people don't know what to call it. All right. That was my little feminist chat for the moment. Thank you, Roz. Stop chair.
+## Colin Goldberg [10:40](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=640s)
 
-Thank you. Being a timekeeper is harder than I thought. I didn't want to interrupt. Oh, thank you. I understand. I do. I get it. It's all good. All right. Is Patrick in here now? Or is he ready to go? I don't think so. I messaged him just now over Facebook, but I'm not getting a response. That's not good.
+You got one minute to wrap up if you want. And if you could please paste the URL for this into the chat window. So people can check
 
-Hopefully, all is OK with him. So what do you think? Should we just move on to the next artist that wants to present? I suppose. Oh, we have a hand raised. Michael? Michael? Hold on. What's up, Michael? I just had a question for Roz, actually. OK. Go ahead. OK. Thank you. Roz, so in the interactive process that you have for going into your multilayered paintings, do you start at the full image? And then if you look at your Photoshop layers, you strip away. And then if you look at your Photoshop layers, you strip away. Do you take away layers and go deeper and deeper? Or is it a different process than that? It's funny. I do a big storyboard on the wall. I mean, I tend to work kind of multi-level.
+## Roz Dimon [10:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=648s)
 
-And I put a big storyboard on the wall of like an X and a Y, like a math chart. Gotcha. And I start. And I already have the idea in mind. And it unfolds. And at the same time, I'm already starting to work with my coder. I can't remember exactly. Maybe the first one that happened was in the middle of the painting. But it happened. I think it built as a painting. But I had just done a course on iconography, medieval iconography, after going through a very dark time after 9-11. And I wanted my paintings to say more like icons do. Not necessarily religiously. Yeah. But I am a spiritual person. But to bring them into the painting symbolically. And so that one just erupted. And we have the layers. So why not share them? Every artwork has a story. Like Picasso said, I'd love to share them. So I'm just going to let go and look at my paintings.
+It out. Sure, oh I will. And you can see up here step 28 of Haven's house. We're going through it in certain steps. There are many more layers than that. There are hundreds of layers here. I took all these artifacts to make a whole story about this family. This was a commission and it's a permanent commission. And I've just had a second commission that I just put on the wall at the children's museum in Long Island where for the first time I loaded my brush with the kids' work and stories during COVID. That was a very challenging thing, but so fun and engaging. I'll put that URL up as well. And I just want to go to my finder. Let me just hide this for a second. Let me get out of here. Oh, wait, I hate this. OK, where am I? Let's get to the finder. I thought I would just show a few little things in my last seconds that I have.
 
-And I'm just going to let go. And I'm just going to make my�� And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way.
+I'll just open this with preview. Why not? Why won't it do it? Come on, open with preview. OK, I'm going to go ahead and show you a little bit. That's weird. This usually works, but it's probably because I'm giving a talk. You know how that is. Cancel. Well, we're not going to show that part. I think I'm running out of time. But basically, it takes a little skip through New York.
 
-And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. Isn't around. I guess we'll go into the next artist that was planning on presenting, which I want to say was Lucy, correct? So I'll go ahead and unmute
+I seem to have a stall here. Oh, maybe that's it. That might be it. Hold on a minute. Let me try. OK. Let me try this one more time. Hm. Weird. Let's see. This preview will open.
 
-## Lucie Králíková [16:55](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1015s)
+## Colin Goldberg [12:29](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=749s)
 
-You real quick. Yes, hi, I would like to introduce myself. I'm Lucie Králíková. I'm from Czech Republic and I'm still an artist year student at Academy of Fine Arts in Prague. And I would like to show you my process. So I will share my screen. Yes. Do you see something? We do now. Yep. Perfect. So my process includes many steps because I don't know why, but I enjoy those steps and I'm happy with that. So I'm starting with taking a picture. Then from a picture, I'm making a pattern. These pictures that I'm taking, the main motif is really important to me because it's connected with food and some kind of, I don't know how to say it, enjoying life or, you know, a bit of bourgeoisie. There you can see here you can see Prosecco and like Prosecco pattern. Then with these patterns, I work in two ways.
+Well, Roz is actually going to be telling everyone about an interview series that she's organizing. So there definitely will be a longer format version of this where you can present more images. And that's something that we're going to do in the future. But we're going to talk about it after all the artists present. But that will be an opportunity for anyone that's interested in both being an interviewer and being interviewed, kind of like an interactive way that we can publish and generate our own material. Yes.
 
-One way is digital. I'm making like things which are connected with the thing on the photo. And the next step is working with the pattern like manually. So I'm printing those patterns also on fabric and then I'm sewing and I'm trying to do those things also in my hand. This, my latest photo. This is from my favorite fashion magazine. It's called La Formosa. It's about fashion and how things are a little bit connected to fashion, to history of fashion because it reminds me a little bit like corset. So there is something specific for me between food, between hedonism and between like being the pretty Instagram girl, slim and so the corset is like the thing which makes you slim and then there is pattern so I can show you other things so the first thing I started there was my body photos and from that I also made the pattern sorry for my english I'm not talking really much now during quarantine but you can ask me if you want if you have any questions lucy if you could I'm sorry I'm sorry I'm not sure if you can hear me but I'm going Maybe paste your website address into the chat window.
+## Roz Dimon [13:06](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=786s)
 
-Yes, yes. And people could check out your site. Does anyone have any questions? We still have a little time on the clock. I can just click through the other things. So are you making garments or wearable items out of all these designs? Yes, yes, yes. Here you can see like canvas and I'm trying to paint all over.
+I'm very excited about that. And I can talk about this later at some other time. It just showed some of the things leading up to where I am today. Thank you for listening to me. I'm enjoying being part of this group. And I hope you're all doing well. Onward and forward.
 
-So, yes, I'm making canvases. So then are you after you do this process, you make something to wear on clothing? I'm no, no, no, not really. I'm trying to work more abstract, not really like clothing, but I'm quite inspired by clothing, by fashion. But I'm not really trying to make something you can really wear.
+## Colin Goldberg [13:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=797s)
 
-For me, more important is the process. And like these printed garments are important for me because my teeth are not so sharp. My parents have factory which prints those materials, materials like that. So I basically grew up in this company and I saw all these possibilities. All things materials you can use, you can print. So I was like, oh my gosh, I need to use this in art. I want to be artist. I want to use all these technologies. So I'm still trying to connect those. Those things together and make something which has meaning for me, which is important for me.
+And definitely paste your web address into the chat, Roz.
 
-It's very, very interesting. And I was really intrigued by the bottle of prosecco that you used or champagne that you made a bought it, but not about us, but a what was the garment you made out of it was the corset. Thank you. Yes. The corset. I think that there's something I also have like, like I'm working on those quite right now, like bigger things, but they are not photos.
+## Roz Dimon [13:21](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=801s)
 
-So, the, I just think that the intersection of like the critical idea about using this luxurious item to make something that's restrictive that you end up wearing is really interesting and I encourage you to keep exploring that in other ways, because there's something, you know, that you're now very interested in. Very interesting about these things that you are extravagant like the champagne or the really lovely bread with the fine cheese that you make for sustenance and enjoyment, but also contributes to something that is restrictive and desirable to be seen by other people but maybe not to be worn. So if you thought about some other elements that could be really other wearable elements that could be really interesting as well. That's just an idea. I think you can do it. Thank you for it.
+I will. I will. And by the way, I named this process. It is a process. For me, this is a very emotional media and very expressive. But it's also a process. And so I named this process, this interactive painting process that is both a still painting and an interactive experience in a museum. I called it Diamondscapes because there are not many women who get known in art history. And I'm putting it out there. And I think it's a good name because people don't know what to call it. All right. That was my little feminist chat for the moment.
 
-Thank you for an idea. Yeah, it was. Thank you. Thank you so much. All right. In the interest of time, not that I want to discourage discussion, I think we might want to move on to the next presentation. So I think Patrick just showed up. And he was supposed to be number two in our presentation line, but he's here now. So I'm going to go ahead and unmute him.
+## Unattributed [13:52](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=832s)
 
-Or
+Thank you, Roz. Stop chair. Thank you.
 
-## Patrick Lichty [24:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1453s)
+## Colin Goldberg [13:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=839s)
 
-Try to see if you're there. Oh, yeah, I'm here. Yeah. All right. All right. Yeah, so I'm a little issue finding the link. So that's and so we're all right. We're in the middle of the my first day of classes here at Winona State in Minnesota and watching my dear wife, Nagin across the line for a little bit. So that's the that's the thing there. So anyway, let's see. So I mean, I have I have five minutes to kind of talk about what's happening here. Yes. Mm hmm. Yep. Yep. Hey, so, it's here. So shall I? Shall I just get to it? Yeah, just dive right in. All right. So, well, first introduce yourself, of course. And yeah, where you're at.
+Being a timekeeper is harder than I thought. I didn't want to interrupt.
+
+## Roz Dimon [14:04](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=844s)
+
+Oh, thank you. I understand. I do. I get it.
+
+## Davonte Bradley [14:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=847s)
+
+It's all good. All right. Is Patrick in here now? Or is
+
+## Colin Goldberg [14:14](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=854s)
+
+He ready to go? I don't think so. I messaged him just now over Facebook, but I'm not getting a response.
+
+## Unattributed [14:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=862s)
+
+That's not good.
+
+## Colin Goldberg [14:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=865s)
+
+Hopefully, all is OK with him. So what do you think? Should we just move on to the next artist that wants to present?
+
+## Davonte Bradley [14:38](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=878s)
+
+I suppose. Oh, we have a hand raised. Michael? Michael? Hold on. What's up, Michael?
+
+## Unattributed [14:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=890s)
+
+I just had a question for Roz, actually.
+
+## Davonte Bradley [14:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=893s)
+
+OK. Go ahead. OK.
+
+## Unattributed [14:55](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=895s)
+
+Thank you. Roz, so in the interactive process that you have for going into your multilayered paintings, do you start at the full image? And then if you look at your Photoshop layers, you strip away. And then if you look at your Photoshop layers, you strip away. Do you take away layers and go deeper and deeper? Or is it a different process than that?
+
+## Roz Dimon [15:20](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=920s)
+
+It's funny. I do a big storyboard on the wall. I mean, I tend to work kind of multi-level. And I put a big storyboard on the wall of like an X and a Y, like a math chart.
+
+## Unattributed [15:34](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=934s)
+
+Gotcha.
+
+## Roz Dimon [15:34](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=934s)
+
+And I start. And I already have the idea in mind. And it unfolds. And at the same time, I'm already starting to work with my coder. I can't remember exactly. Maybe the first one that happened was in the middle of the painting. But it happened. I think it built as a painting. But I had just done a course on iconography, medieval iconography, after going through a very dark time after 9-11. And I wanted my paintings to say more like icons do. Not necessarily religiously. Yeah. But I am a spiritual person. But to bring them into the painting symbolically. And so that one just erupted. And we have the layers. So why not share them? Every artwork has a story. Like Picasso said, I'd love to share them. So I'm just going to let go and look at my paintings. And I'm just going to let go. And I'm just going to make my�� And I'm just going to make my master be that way.
+
+And I'm just going to make my master be that way.
+
+## Unattributed [16:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=984s)
+
+And I'm just going to make my master be that way. And I'm just going to make my master be that way.
+
+## Roz Dimon [16:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=987s)
+
+And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way.
+
+## Davonte Bradley [16:38](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=998s)
+
+And I'm just going to make my master be that way. And I'm just going to make my master be that way. And I'm just going to make my master be that way. Isn't around. I guess we'll go into the next artist that was planning on presenting, which I want to say was Lucy, correct? So I'll go ahead and unmute you real quick.
+
+## Unattributed [16:57](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1017s)
+
+Yes, hi, I would like to introduce myself. I'm Lucie Králíková. I'm from Czech Republic and I'm still an artist year student at Academy of Fine Arts in Prague. And I would like to show you my process. So I will share my screen. Yes. Do you see something? We do now.
+
+## Davonte Bradley [17:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1047s)
+
+Yep. Perfect.
+
+## Unattributed [17:29](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1049s)
+
+So my process includes many steps because I don't know why, but I enjoy those steps and I'm happy with that. So I'm starting with taking a picture. Then from a picture, I'm making a pattern. These pictures that I'm taking, the main motif is really important to me because it's connected with food and some kind of, I don't know how to say it, enjoying life or, you know, a bit of bourgeoisie. There you can see here you can see Prosecco and like Prosecco pattern. Then with these patterns, I work in two ways. One way is digital.
+
+I'm making like things which are connected with the thing on the photo. And the next step is working with the pattern like manually. So I'm printing those patterns also on fabric and then I'm sewing and I'm trying to do those things also in my hand. This, my latest photo. This is from my favorite fashion magazine. It's called La Formosa. It's about fashion and how things are a little bit connected to fashion, to history of fashion because it reminds me a little bit like corset. So there is something specific for me between food, between hedonism and between like being the pretty Instagram girl, slim and so the corset is like the thing which makes you slim and then there is pattern so I can show you other things so the first thing I started there was my body photos and from that I also made the pattern sorry for my english I'm not talking really much now during quarantine but you can ask me if you want if you have any questions
+
+## Colin Goldberg [20:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1225s)
+
+Lucy if you could I'm sorry I'm sorry I'm not sure if you can hear me but I'm going Maybe paste your website address into the chat window. Yes, yes. And people could check out your site. Does anyone have any questions? We still have a little time on the clock.
+
+## Unattributed [20:39](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1239s)
+
+I can just click through the other things.
+
+## Brandon S Gellis [20:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1246s)
+
+So are you making garments or wearable items out of all these designs?
+
+## Unattributed [20:54](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1254s)
+
+Yes, yes, yes. Here you can see like canvas and I'm trying to paint all over. So, yes, I'm making canvases.
+
+## Brandon S Gellis [21:12](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1272s)
+
+So then are you after you do this process, you make something to wear on clothing?
+
+## Unattributed [21:19](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1279s)
+
+I'm no, no, no, not really. I'm trying to work more abstract, not really like clothing, but I'm quite inspired by clothing, by fashion. But I'm not really trying to make something you can really wear. For me, more important is the process. And like these printed garments are important for me because my teeth are not so sharp. My parents have factory which prints those materials, materials like that. So I basically grew up in this company and I saw all these possibilities. All things materials you can use, you can print. So I was like, oh my gosh, I need to use this in art. I want to be artist. I want to use all these technologies. So I'm still trying to connect those. Those things together and make something which has meaning for me, which is important for me.
+
+## Brandon S Gellis [22:26](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1346s)
+
+It's very, very interesting. And I was really intrigued by the bottle of prosecco that you used or champagne that you made a bought it, but not about us, but a what was the garment you made out of it was the corset. Thank you.
+
+## Unattributed [22:44](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1364s)
+
+Yes. The corset. I think that there's something I also have like, like I'm working on those quite right now, like bigger things, but they are not photos.
+
+## Brandon S Gellis [22:57](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1377s)
+
+So, the, I just think that the intersection of like the critical idea about using this luxurious item to make something that's restrictive that you end up wearing is really interesting and I encourage you to keep exploring that in other ways, because there's something, you know, that you're now very interested in. Very interesting about these things that you are extravagant like the champagne or the really lovely bread with the fine cheese that you make for sustenance and enjoyment, but also contributes to something that is restrictive and desirable to be seen by other people but maybe not to be worn. So if you thought about some other elements that could be really other wearable elements that could be really interesting as well. That's just an idea.
+
+## Unattributed [23:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1421s)
+
+I think you can do it. Thank you for it. Thank you for an idea. Yeah, it was. Thank you. Thank you so much.
+
+## Davonte Bradley [23:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1430s)
+
+All right. In the interest of time, not that I want to discourage discussion, I think we might want to move on to the next presentation. So I think Patrick just showed up. And he was supposed to be number two in our presentation line, but he's here now. So I'm going to go ahead and unmute him. Or try to see if you're there.
+
+## Patrick Lichty [24:14](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1454s)
+
+Oh, yeah, I'm here. Yeah. All right. All right. Yeah, so I'm a little issue finding the link. So that's and so we're all right. We're in the middle of the my first day of classes here at Winona State in Minnesota and watching my dear wife, Nagin across the line for a little bit. So that's the that's the thing there. So anyway, let's see. So I mean, I have I have five minutes to kind of talk about what's happening here. Yes.
+
+## Unattributed [24:51](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1491s)
+
+Mm hmm. Yep. Yep.
+
+## Patrick Lichty [24:52](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1492s)
+
+Hey, so, it's here. So shall I? Shall I just get to it?
+
+## Davonte Bradley [24:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1499s)
+
+Yeah, just dive right in.
+
+## Patrick Lichty [25:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1501s)
+
+All right. So,
+
+## Davonte Bradley [25:03](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1503s)
+
+Well, first introduce yourself, of course.
+
+## Unattributed [25:05](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1505s)
+
+And yeah, where you're at.
+
+## Patrick Lichty [25:09](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=1509s)
 
 Involved with these things, you know, you know, since beginning, so I just all of a sudden, assume everybody knows, but I'm going to start off with you. Okay. So I'm Patrick. I'm from New Media Art and Technological Art. And I've been part of the New Media Art and Technological Art for probably about the last 30 years. I've been part of collectives like Artmark, the Yes Men, Pocha Nostra, Second Front, Manifest AR and now it's Expressionism. So, and let's see here. I have a couple of credentials on my thing here. So let's just get to it.
 
@@ -128,19 +358,59 @@ And while I tend to be a highly, highly, highly, almost right brain theory, I me
 
 And then, basically, during the 70s, working with electronics and painting and all that sort of thing, and then started drawing on an Atari 800. And really kind of, in this early period, working on an Amiga 1000, and basically about the same time as contemporaries like Gartel were, and just kind of, at the time, and most likely Roz, and just the matter of saying, how has technology been able to be, basically able to give me a voice that's specific to my experience as a human being and the specific context, of my life, rather than any other medium. And that's sort of what I've been doing with this. And it's very interesting is that Colin and I, went to grad school together, and this conversation sort of started a little bit back then. And it's interesting to see, looking back throughout my entire career, since like the early 90s, and seeing how this actual impulse of looking at, you know, the art historical context of expressionist art, has really had this resonance in my work, for probably 26 years.
 
-So anyway, I hope that wasn't too much of a stream of consciousness, but you know, thanks for letting me, you know, share this work, and you know, I hope that you find something in it. All right, awesome. Cool. Thank you, Patrick. Yeah. All right. So that was Patrick Lichty. We do have two more participants for today. Patrick, if you wanna paste your website into the chat, for people to check your work out. Okay, what I'll do is that actually, probably what's much more relevant at this point is, probably my Instagram hashtag.
+So anyway, I hope that wasn't too much of a stream of consciousness, but you know, thanks for letting me, you know, share this work, and you know, I hope that you find something in it.
 
-So, yep, because my website is a little bit old. We'll have a new one in a couple months. So, okay. Awesome. All right, cool. All right. Well, thank you for presenting, Patrick. It was a pleasure. My pleasure. I would like to hold questions for you during this time, but in the interest of time, I think we need to get on to the next presenter, right? So I'll just turn it over real quick. So, but if we have time later, I'm sure we could have you have the floor again. Awesome. All right. So in the next, hold on. How do I? Yeah. There we go. The next presenter I believe is going to be, where are you?
+## Colin Goldberg [37:43](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2263s)
 
-Just saw you. Leslie, I believe you were the next, supposed to be the next presenter after, or originally you were supposed to be the fourth presenter. I believe. I don't know. But yeah, you can go ahead and get started if you like. Just be sure to introduce yourself and where you're from.
+All right, awesome. Cool. Thank you, Patrick. Yeah.
 
-## Leslie Kell [39:30](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2370s)
+## Davonte Bradley [37:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2268s)
+
+All right. So that was Patrick Lichty. We do have two more participants for today.
+
+## Unattributed [37:56](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2276s)
+
+Patrick, if you wanna paste your website into the chat, for people to check your work out.
+
+## Patrick Lichty [38:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2281s)
+
+Okay, what I'll do is that actually, probably what's much more relevant at this point is, probably my Instagram hashtag. So, yep, because my website is a little bit old. We'll have a new one in a couple months. So, okay.
+
+## Colin Goldberg [38:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2305s)
+
+Awesome.
+
+## Davonte Bradley [38:26](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2306s)
+
+All right, cool. All right. Well, thank you for presenting, Patrick. It was a pleasure. My pleasure. I would like to hold questions for you during this time, but in the interest of time, I think we need to get on to the next presenter, right? So I'll just turn it over real quick. So, but if we have time later, I'm sure we could have you have the floor again.
+
+## Unattributed [38:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2330s)
+
+Awesome.
+
+## Davonte Bradley [38:51](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2331s)
+
+All right. So in the next, hold on. How do I? Yeah. There we go. The next presenter I believe is going to be, where are you? Just saw you. Leslie, I believe you were the next, supposed to be the next presenter after, or originally you were supposed to be the fourth presenter. I believe. I don't know.
+
+## Unattributed [39:20](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2360s)
+
+But yeah, you can go ahead
+
+## Davonte Bradley [39:23](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2363s)
+
+And get started if you like. Just be sure to introduce yourself and where you're from.
+
+## Unattributed [39:30](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2370s)
 
 So work on sharing this screen. I think I just want to share my whole desktop. So my name is Leslie. Leslie Kell. I live in Austin, Texas. Well, actually I live in Manchac, which is a little suburb of Austin, not too far away. And I started developing this technique about 12 years ago. I had came to art as basically a child and went to art school and did the drawing and the painting and all that, and then had the need to make a living. And so when my first son was born in 94, I quit my job at a magazine as a designer and went freelance. And over the course of the next 10, 12 years, I learned a lot about Photoshop and I became fairly comfortable in that space. And when I wanted to come back to art, because the kids were grown and the freelance world wasn't quite as demanding as it was at one point.
 
 And I realized that my paints were all dried up and my office had, my studio had turned into an office. And in the meantime, I'd taken up photography, which looking back, I was probably a photographer my whole life because all of our family pictures don't have me in them. Because I was the one taking the pictures. So I set about this photo, it's kind of a melding between photography and design. And this is one of my most recent pieces. I work in collections and they are, this particular collection is called the Lumen Collection. And the, let me zip over here and show you, I pulled this up to show you kind of some of my process. So I start with a series of designs. And I mean, I may do 10 or 12 drawings and then I start picking out the ones I want to actually translate into pieces. So I often work on three or four pieces at a time.
 
-And here's an example of, I take all my own photography. I only use my photography. And so these here's some examples of some of the pieces in this particular piece. There's always little creatures in my pieces. These is the detail of it. And you can see there's three little red Cardinals in here. And so all everything there's always a lot to see and a lot of what my work is about has to do with my works. So it's always going to be about seeing things and with light and reflection, but it also has to do with perceptions and adjacent realities and trying to create something that's familiar, but maybe you can't quite put your finger on it, kind of like a dream or something along those lines.
+And here's an example of, I take all my own photography. I only use my photography. And so these here's some examples of some of the pieces in this particular piece. There's always little creatures in my pieces. These is the detail of it. And you can see there's three little red Cardinals in here. And so all everything there's always a lot to see and a lot of what my work is about has to do
+
+## Unattributed [42:37](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2557s)
+
+With my works. So it's always going to be about seeing things and with light and reflection, but it also has to do with perceptions and adjacent realities and trying to create something that's familiar, but maybe you can't quite put your finger on it, kind of like a dream or something along those lines.
 
 So oh, it just started raining. Cool. Did I mention we're in Texas? It doesn't rain here much. So I'm going to switch over here and just run a couple videos. I hope they run. This is Mystic. So I'll mute that. Yeah, there we go. Here it comes. So then as I went along, so I do the still pieces and then I print them and sell them as... You know. I could get into more on print on demand and things like that. But one of the things that I've really enjoyed doing in the last couple of years are these cinemagraphs that I was at a show one time and this lady came in and she said, well, these are beautiful, but can you make them move? And I said, well, I know nothing about video, but sure, why not?
 
@@ -148,31 +418,157 @@ And I did a little crash course and at that point I was using Photoshop to do th
 
 So let me just, oh, look, it goes really fast because I know this is a five minute video, so I don't want to make it. So I travel a lot as much as I can. Not right at the bottom. So I'm just going to make it go like it is. And you can see in the moment, but because I do use all my own footage and my own photography, I have to actually go to the beach. It's a tough life, but I manage. And so these, at the moment, I'm planning a digital show right now in an art center near here, and I'm going to have TV screens with these running. And at the moment, they're also showing it. So I'm going to just let that play a little bit. 10 gates at the Austin airport.
 
-So, here's another one. It's been quite a learning curve to learn how to do them and the video end of things and it's a lot of fun. These little stripey things were, I had to figure those out, but let's see. And I think, let me show you real quick. I don't know how much time I have left, but let's go with this one.
+So, here's another one.
 
-Because, and this is my other side collection. So these pieces, this is a fairly recent collection of mine. These have to do a lot with the unseen and the fact that there's just always more to the story than what you see in the beginning of things. And, you know, like with a pyramid or an iceberg, there's always more under, the concept came from icebergs, but I use pyramids graphically.
+## Unattributed [45:37](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2737s)
 
-There's always more under the surface and more to the story and a structure like this, you can never see the other side until you walk around and look at it. So that's kind of what this series is about. So, I'm not sure I have much more to say. All right. Well, thank you. Thank you very much for presenting. Does anyone have any questions for Leslie or?
+It's been quite a learning curve to learn how to do them and the video end of things and it's a lot of fun. These little stripey things were, I had to figure those out, but let's see. And I think, let me show you real quick. I don't know how much time I have left, but let's go with this one. Because, and this is my other side collection. So these pieces, this is a fairly recent collection of mine. These have to do a lot with the unseen and the fact that there's just always more to the story than what you see in the beginning of things. And, you know, like with a pyramid or an iceberg, there's always more under, the concept came from icebergs, but I use pyramids graphically.
 
-I can stop the share, make up a little time. Leslie, do you have a 3D program for the trees and things? No, I'm actually drawing those in Adobe Illustrator. Cool. Okay. All right. All right. Thank you, Leslie, for presenting. It was a pleasure to have you. We'll be moving right along into our last presenter for the day.
+There's always more under the surface and more to the story and a structure like this, you can never see the other side until you walk around and look at it. So that's kind of what this series is about. So, I'm not sure I have much more to say. All right.
 
-Or for the meeting rather. Anna Hamer, are you ready? Did you change your mind? Do you still want to present today or? Oh, hold on. Hello. You're muted. Muted. I can share. I think I can share. My work is not moving or anything like that. No, I mean, that's fine. We have all sorts of different artists here. It is quite... Wasn't there someone else that had spoken up?
+## Colin Goldberg [46:56](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2816s)
 
-I think you were... I mean, there is somebody that would want to go today if you don't feel like you're ready, but the ball is in your court. Who's the other one that wants to go? Raise your hand. Moses, I believe. Did you change your mind on that front? Yeah. I know Carmen and Brandon both messaged me and asked about presenting. So I mean, if someone feels like they want to jump in, it's up to you guys. I will pass to give to people who actually sent a message ahead of time. So thank you.
+Well, thank you. Thank you very much for presenting. Does anyone have any questions for Leslie or?
 
-No, I think everyone just kind of showed up. So, I mean, I know Carmen was here early. Carmen, if you want to go, by all means. Thanks
+## Unattributed [47:06](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2826s)
 
-## Carmen Moses [48:58](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2938s)
+I can stop the share, make up a little time.
 
-For the pass, Anna. All right. I've been staring at Anna. Your curls are gorgeous. I just sent a private message to Davo and I was just like, if I can't present today, that's okay because my fauxhawk is not cooperating. It's all good. Okay. Great. All right. So just a little intro about who you are, where you're from, and then you can go ahead and present.
+## Anne Morgan Spalter [47:11](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2831s)
+
+Leslie, do you have a 3D program for the trees and things?
+
+## Unattributed [47:16](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2836s)
+
+No, I'm actually drawing those in Adobe Illustrator. Cool.
+
+## Davonte Bradley [47:23](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2843s)
+
+Okay. All right. All right. Thank you, Leslie, for presenting. It was a pleasure to have you. We'll be moving right along into our last presenter for the day. Or for the meeting rather. Anna Hamer, are you ready? Did you change your mind? Do you still want to present today or? Oh, hold on. Hello. You're muted.
+
+## Anna Hamer [47:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2869s)
+
+Muted. I can share. I think I can share. My work is not moving or anything like that.
+
+## Davonte Bradley [47:58](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2878s)
+
+No, I mean, that's fine. We have all sorts of different artists here. It is quite...
+
+## Anna Hamer [48:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2882s)
+
+Wasn't there someone else that had spoken up?
+
+## Davonte Bradley [48:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2887s)
+
+I think you were... I mean, there is somebody that would want to go today if you don't feel like you're ready, but the ball is in your court.
+
+## Anna Hamer [48:18](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2898s)
+
+Who's the other one that wants to go? Raise your hand.
+
+## Davonte Bradley [48:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2902s)
+
+Moses, I believe. Did you change your mind on that front?
+
+## Unattributed [48:28](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2908s)
+
+Yeah.
+
+## Colin Goldberg [48:28](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2908s)
+
+I know Carmen and Brandon both messaged me and asked about presenting. So I mean, if someone feels like they want to jump in, it's
+
+## Anna Hamer [48:39](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2919s)
+
+Up to you guys. I will pass to give to people who actually sent a message ahead of time. So thank you.
+
+## Unattributed [48:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2926s)
+
+No, I think everyone just kind of showed up.
+
+## Colin Goldberg [48:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2929s)
+
+So, I mean, I know Carmen was here early. Carmen, if you want to go, by all means.
+
+## Unattributed [48:57](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2937s)
+
+Thanks for the pass, Anna. All right. I've been staring at Anna. Your curls are gorgeous. I just sent a private message to Davo and I was just like, if I can't present today, that's okay because my fauxhawk is not cooperating.
+
+## Davonte Bradley [49:12](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2952s)
+
+It's all good.
+
+## Unattributed [49:14](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2954s)
+
+Okay. Great.
+
+## Davonte Bradley [49:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2957s)
+
+All right. So just a little intro about who you are, where you're from, and then you can go ahead and present.
+
+## Unattributed [49:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=2964s)
 
 Okay. Well, my name is Carmen Moses. I am from Augusta, Georgia. Right in the middle of Augusta, Georgia. I'm actually downtown right now in my work slash workshop. I go by Payasa as my art name, which is Spanish for the, you know, the female version of clown, which if you know me for five minutes, you'll go, okay, I get it.
 
 So, let me pull up my screen and I will show you, I actually just closed out of everything because I'm like, oh, I'm not going to present today. That's what you get for making an assumption, right? Okay. So let me remember how to use technology very quickly. There we go. All right. Can everyone see?
 
-Awesome. Yep. So I think my Instagram is probably the best way to kind of see the timeline of how I started developing my work. It really kind of started in college. I went to Augusta University. Represent. And I was kind of a, I kind of considered myself a lost artist at this point because I knew that I loved art, but it was always in my head, well, you got to make money so you can't do art. And that was the biggest disservice I think I ever did to myself. So I went back to school and I started to, at Augusta University paint, sorry, I was in the art department. So I went back to school and I started doing printmaking and digital photography are like the same track. So I took that track and started dabbling in digital photography and printmaking but like it wasn't clicking like my work was like just okay.
+Awesome.
 
-And then as I got into screen printing. This is not mine this is my daughter's right on Instagram. But as I got into screen printing and combining that with digital photography. It was, it was a breakthrough was very huge breakthrough for me. So about that time oh I'm already logged in aren't I not okay maybe next week would have been better oh and now I have to remember okay to the website we're just gonna go to the website all right so I'm gonna go to my website instead since Instagram wanted to boot me out but I started to combine these processes in Photoshop of like taking like leslie was saying taking you know my own photos my own stock photos and things like that to apply to my work so I guess I'll start with the photo gallery and I'll try to go through this very quickly so this is probably the best definition of what I started doing I started doing these sort of photo manipulations and I was I kind of became obsessed with technology because at the time I started you know teaching and talking to younger kids and stuff like that and they're like what's a vhs tape and I'm like oh my god so I started thinking about the role that technology has in our lives and I also started studying renaissance art pretty heavily so I'm just scrolling through while I'm talking so a religious iconography was really huge as well and I started to think about the idea of artificial intelligence and reverence and you know would we be able to do that and I was like yeah I'm gonna do that and I was like okay I'm gonna do that and I started thinking about how I could be god to an artificial intelligence and all these like really big questions that keep me up at night and it really started to influence my work so printmaking became my primary language so my first kind of full show or full collection I called spiritual biotechnics and they just basically these are all prints this one particular is monoprint monotype and screen print just kind of exploring the ideas of religious reference reverence and you know instead of having a regular tablet what if they had an iPad you know just like hey judas come to the meeting okay maybe not you know I also drew a lot of influence from many world religions and I kind of had this obsession with televisions and television schematics there's something really beautiful about a schematic to me just all of the lines and the words and things so I tend to use those as layers in my screen print a lot this one was pretty recent so like saint lucy is the patron saint of the blind so I had her with an oculus and an iPhone and just like some really crazy stuff and sometimes I look back on it and I'm just like what was I thinking but it works and then taking pieces of older sort of renaissance paintings and kind of creating these sort of digital abstractions with them this one's probably a fan favorite a lot of people like this one is you know baby jesus playing nintendo on mary probably a little sacrilegious to some but I do like to treat my subject matter with respect you know it's more of like a playful playful exploration not like you know not trying to be insulting at all so these are these are all based on images that I took or that I found most of the time like I thought these are models that actually modeled for me let's see here I'm gonna go through kind of quickly so I started getting more into I know everyone's kind of going through the same thing right now we're kind of going through a dark time but I'm going to go through the same thing right now we're kind of going through a dark time right now we're kind of going through a dark time you know in general so I kind of started to pull back on some of the more cerebral stuff and got really into digital abstraction and I'm going to try the Instagram one more time because that's where all the digital stuff is right now let me see how quickly I can remember my somebody want to play something maybe I'm a mess I pretty much say a mess but you know I think I think that's actually fairly consistent across most artists and I'm not sure too many of us are not messes that makes me feel so much better actually if you just want to show your feed if you go to Techspressionism.com then the artist page there's a link to it from there genius all right also it seems like we have a lot of people that either lived in or are from georgia yeah I saw that I was like the little hamburger thing on the top right there the menu tab the red the red three lines yeah the menu there you go and then the second one artists okay and this page was recently reorganized so you got to kind of scroll all the way down to get to the u.s oh yeah it's gorgeous it was nice to actually see like where everyone was from too so I love this arrangement georgia starts with g and I actually I grew up in lawrenceville and lived in norcross before moving to virginia oh lord you need to be logged in I'm going to try one more time if it doesn't I'll see what I can find on the website most of the recent stuff is on my is on my Instagram I haven't kind of put it on my website yet because I've been slacking well if you can't you can't get in we you can just we can view your yeah we can do your Instagram on our own if it need be okay what's this one abt your all so this is it's this is yammer we're going to do that so Well, just am I still good on time?
+## Anna Hamer [50:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3017s)
+
+Yep.
+
+## Unattributed [50:18](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3018s)
+
+So I think my Instagram is probably the best way to kind of see the timeline of how I started developing my work. It really kind of started in college. I went to Augusta University. Represent. And I was kind of a, I kind of considered myself a lost artist at this point because I knew that I loved art, but it was always in my head, well, you got to make money so you can't do art. And that was the biggest disservice I think I ever did to myself. So I went back to school and I started to, at Augusta University paint, sorry, I was in the art department. So I went back to school and I started doing printmaking and digital photography are like the same track. So I took that track and started dabbling in digital photography and printmaking but like it wasn't clicking like my work was like just okay.
+
+And then as I got into screen printing. This is not mine this is my daughter's right on Instagram. But as I got into screen printing and combining that with digital photography. It was, it was a breakthrough was very huge breakthrough for me. So about that time oh I'm already logged in aren't I not okay maybe next week would have been better oh and now I have to remember okay to the website we're just gonna go to the website all right so I'm gonna go to my website instead since Instagram wanted to boot me out but I started to combine these processes in Photoshop of like taking like leslie was saying taking you know my own photos my own stock photos and things like that to apply to my work so I guess I'll start with the photo gallery and I'll try to go through this very quickly so this is probably the best definition of what I started doing I started doing these sort of photo manipulations and I was I kind of became obsessed with technology because at the time I started you know teaching and talking to younger kids and stuff like that and they're like what's a vhs tape and I'm like oh my god so I started thinking about the role that technology has in our lives and I also started studying renaissance art pretty heavily so I'm just scrolling through while I'm talking so a religious iconography was really huge as well and I started to think about the idea of artificial intelligence and reverence and you know would we be able to do that and I was like yeah I'm gonna do that and I was like okay I'm gonna do that and I started thinking about how I could be god to an artificial intelligence and all these like really big questions that keep me up at night and it really started to influence my work so printmaking became my primary language so my first kind of full show or full collection I called spiritual biotechnics and they just basically these are all prints this one particular is monoprint monotype and screen print just kind of exploring the ideas of religious reference reverence and
+
+## Unattributed [53:18](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3198s)
+
+You know instead of having a regular tablet what if they had an iPad you know just like hey judas come to the meeting okay maybe not you know I also drew a lot of influence from many world religions and I kind of had this obsession with televisions and television schematics there's something really beautiful about a schematic to me just all of the lines and the words and things so I tend to use those as layers in my screen print a lot this one was pretty recent so like saint lucy is the patron saint of the blind so I had her with an oculus and an iPhone and just like some really crazy stuff and sometimes I look back on it and I'm just like what was I thinking but it works and then taking pieces of older sort of renaissance paintings and kind of creating these sort of digital abstractions with them this one's probably a fan favorite a lot of people like this one is you know baby jesus playing nintendo on mary probably a little sacrilegious to some but I do like to treat my subject matter with respect you know it's more of like a playful playful exploration not like you know not trying to be insulting at all so these are these are all based on images that I took or that I found most of the time like I thought these are models that actually modeled for me let's see here I'm gonna go through kind of quickly so I started getting more into I know everyone's kind of going through the same thing right now we're kind of going through a dark time but I'm going to go through the same thing right now we're kind of going through a dark time right now we're kind of going through a dark time you know in general so I kind of started to pull back on some of the more cerebral stuff and got really into digital abstraction and I'm going to try the Instagram one more time because that's where all the digital stuff is right now let me see how quickly I can remember my somebody want to play something maybe I'm a mess I pretty much say a mess but you
+
+## Davonte Bradley [55:15](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3315s)
+
+Know I think I think that's actually fairly consistent across most artists and I'm not sure too many of us are not messes that
+
+## Unattributed [55:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3322s)
+
+Makes me feel so much better
+
+## Colin Goldberg [55:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3324s)
+
+Actually if you just want to show your feed if you go to Techspressionism.com then the artist page there's a link to it from there genius
+
+## Davonte Bradley [55:35](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3335s)
+
+All right also it seems like we have a lot of people that either lived in or are from georgia
+
+## Colin Goldberg [55:42](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3342s)
+
+Yeah I saw that I was like the little hamburger thing on the top right there the menu tab the red the red three lines yeah the menu there you go and then the second one artists okay and this page was recently reorganized
+
+## Unattributed [56:00](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3360s)
+
+So you got to kind of scroll all the way down to get to the u.s oh yeah it's gorgeous it was nice to actually see like where everyone was from too so I love this arrangement georgia starts with g and
+
+## Davonte Bradley [56:12](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3372s)
+
+I actually I grew up in lawrenceville and lived in norcross before moving to virginia
+
+## Colin Goldberg [56:18](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3378s)
+
+Oh lord you need to be logged in I'm
+
+## Unattributed [56:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3382s)
+
+Going to try one more time if it doesn't I'll see what I can find on the website most of the recent stuff is on my is on my Instagram I haven't kind of put it on my website yet because I've been slacking well
+
+## Davonte Bradley [56:35](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3395s)
+
+If you can't you can't get in we you can just we can view your yeah we can do your Instagram on our own if it need be okay what's this one abt your all so this is it's this is yammer we're going to do that so Well, just am I still good on time?
+
+## Unattributed [56:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3410s)
 
 I can, I think I can probably throw out another 30 seconds. Sure. Go for it. Okay, thank you guys for cooperating with me. It's been a day. So this is my website. I've been playing around with After Effects as well and kind of creating these, all of these motion graphics and strange things on my website, I create myself. I'm really weird about collaborating with other people. Like I like to do it, but when it's something really personal, I'm just like, let me see what I can do. And it pushes me to learn new things.
 
@@ -180,127 +576,593 @@ So all these little motion graphics, and then yeah, kind of in this sort of dark
 
 But yeah, just like I said, just kind of playing with some of the, with some of the technology. And I think, oh, that's the one I was looking for. Yeah, just lots of layering, lots of exploration and kind of just trying things and being forgiving. And I think that's, I think that's it. Besides that Instagram club, I think I did okay.
 
-It happens. So that's me. Awesome. Awesome. All right. Thank you. Thank you so much for sharing. Okay. So that is our five presenters for this, this week's salon. Thank you so much for your participation and your works. Hopefully you guys come back, not scared away. So now we will move on to the next segment of our salon. It's something new this time around called a planning session. So. Do you want to do the quick intros first maybe before we get into that? Oh, right, right. I almost forgot about that. Yeah, sorry.
+It happens. So that's me. Awesome. Awesome. All right.
 
-So quick intros for like everybody or anybody that wants to introduce themselves. I was thinking just, you know, so that if anyone who's here for their first time wants to just say hello to the group and introduce themselves, let us know where you're dialing in from. And, you know, if you want to paste your website address into the chat that at least, you know, allows everyone to get up on the camera for a minute, if you want to, and we can check out, you know, who's in the room, you know, it's completely voluntary or not you know yeah I guess we could do that so if you if you would like to go ahead and introduce yourself I know we walked over this earlier please go ahead and raise your hand use that reaction and we will get to you the thumbs up raise the hand raise it is it just that says raise hand.
+## Davonte Bradley [58:45](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3525s)
 
-There we go, okay. Anybody else want to, okay, so we have, all right. Oh, it does not go in order or does it? We'll see. I think it does, right? It looked like it was and then it jumped. Gotcha. All right. Okay. So. Are you seeing Gregory at the top on your participant? Gregory is at the top right corner for me.
+Thank you. Thank you so much for sharing. Okay. So that is our five presenters for this, this week's salon. Thank you so much for your participation and your works. Hopefully you guys come back, not scared away. So now we will move on to the next segment of our salon. It's something new this time around called a planning session. So.
 
-Do you want me to just go ahead and raise my hand? Yeah, go for it. Yeah. So my name's Greggory Hill. I live in Sharon Falls, which is a small suburb in Northeast Ohio, outside of Cleveland. And I do, I'm an algorithmist. I do algorithmic art. I kind of move all over the place between representational and abstract based on just what I'm going with at the time. And I will post links in the chat room and I'd love to present maybe in the future when I have time to put something together. And thanks for doing this. This is fascinating.
+## Colin Goldberg [59:19](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3559s)
 
-That's what, that's part of the reason why we do it. Well, I appreciate it. Yeah, no problem. So is that, is that all you have to share or? Yeah, for this time, I think next time I'll put something together and I'd love to do a presentation. Okay. Yeah, definitely, you know, paste your web link or your Instagram into the chat so we could at least check out. Yeah. Check out your stuff. I will do that. Cool. Thank you, Gregory.
+Do you want to do the quick intros first maybe before we get into that?
 
-All right, moving down the list. We've got Brandon Gellis. Hi, yes, thank you. And thanks for not butchering my last name. Great job, by the way. Thank you. Yes, this has been really exciting and great. And I actually really want to know if I could have one of these sessions during the class and introduce my students to all of you. I'm a professor at the University of Wyoming. I teach graphic design and digital technology. I also teach classes sometimes in computer science.
+## Unattributed [59:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3564s)
+
+Oh, right, right.
+
+## Davonte Bradley [59:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3565s)
+
+I almost forgot about that. Yeah, sorry. So quick intros for like everybody or anybody that wants to introduce themselves.
+
+## Colin Goldberg [59:32](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3572s)
+
+I was thinking just, you know, so that if anyone who's here for their first time wants to just say hello to the group and introduce themselves, let us know where you're dialing in from. And, you know, if you want to paste your website address into the chat that at least, you know, allows everyone to get up on the camera for a minute, if you want to, and we can check out, you know, who's in the room, you know, it's completely voluntary or not you know
+
+## Davonte Bradley [01:00:03](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3603s)
+
+Yeah I guess we could do that so if you if you would like to go ahead and introduce yourself I know we walked over this earlier please go ahead and raise your hand use that reaction and we will get to you the thumbs up raise the hand raise it is it just that says raise hand. There we go, okay.
+
+Anybody else want to, okay, so we have, all right. Oh, it does not go in order or does it? We'll see. I think it does,
+
+## Colin Goldberg [01:00:47](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3647s)
+
+Right?
+
+## Davonte Bradley [01:00:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3648s)
+
+It looked like it was and then it jumped. Gotcha. All right. Okay.
+
+## Colin Goldberg [01:00:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3659s)
+
+So. Are you seeing Gregory at the top on your participant?
+
+## Davonte Bradley [01:01:05](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3665s)
+
+Gregory is at the top right corner for me. Do you want me to just go ahead and raise my hand? Yeah,
+
+## Colin Goldberg [01:01:12](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3672s)
+
+Go for it.
+
+## Unattributed [01:01:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3673s)
+
+Yeah. So my name's Greggory Hill. I live in Sharon Falls, which is a small suburb in Northeast Ohio, outside of Cleveland. And I do, I'm an algorithmist. I do algorithmic art. I kind of move all over the place between representational and abstract based on just what I'm going with at the time. And I will post links in the chat room and I'd love to present maybe in the future when I have time to put something together. And thanks for doing this. This is fascinating.
+
+## Davonte Bradley [01:01:47](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3707s)
+
+That's what, that's part of the reason why we do it. Well, I appreciate it. Yeah, no problem. So is that, is that all you have to share or?
+
+## Unattributed [01:01:56](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3716s)
+
+Yeah, for this time, I think next time I'll put something together and I'd love to do a presentation.
+
+## Colin Goldberg [01:02:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3721s)
+
+Okay. Yeah, definitely, you know, paste your web link or your Instagram into the chat so we could at least check out. Yeah.
+
+## Unattributed [01:02:08](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3728s)
+
+Check out your stuff.
+
+## Davonte Bradley [01:02:09](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3729s)
+
+I will do that. Cool. Thank you, Gregory. All right, moving down the list. We've got Brandon Gellis.
+
+## Brandon S Gellis [01:02:21](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3741s)
+
+Hi, yes, thank you. And thanks for not butchering my last name. Great job, by the way. Thank you. Yes, this has been really exciting and great. And I actually really want to know if I could have one of these sessions during the class and introduce my students to all of you. I'm a professor at the University of Wyoming. I teach graphic design and digital technology. I also teach classes sometimes in computer science.
 
 And so I have the amazing opportunity of getting to teach and I get paid to make my art too, which is unbelievable. I love it. And I consider myself to be an artist, a maker and a teacher. So most of my curriculum is around the use of or development of new technologies and approaches. And so I really want to encourage my students to explore different approaches or how to take design software and use it in atypical or not necessarily intended formats.
 
-Also multimodal. And so Roz and other people talked about bringing artifacts and iconography and typography and digital design and algorithms in. And so I really encourage my students to explore a variety of mixing of media and exploration. Exploration. I'm new to the group and this is great. Thank you very much. Thank you for joining us. Yeah. Here is my website and my Instagram. And yeah. All right. Sounds good. And again, thank you for being here.
+Also multimodal. And so Roz and other people talked about bringing artifacts and iconography and typography and digital design and algorithms in. And so I really encourage my students to explore a variety of mixing of media and exploration. Exploration. I'm new to the group and this is great. Thank you very much. Thank you for joining us. Yeah. Here is my website and my Instagram. And yeah. All right.
 
-Can't wait to actually be back in the classroom setting, so to speak. Right. All right. So next up, I think we have. Anne. Hi. Hi. Hi. I'm excited to be seeing everyone in this group. I think it's such a great idea and I've been using digital technology forever and ever. And currently I'm using artificial intelligence to do series of works and selling works in the crypto art market, which has been fun. So I'd love to see you. Yeah. So I'd love to present and show some of those things. All right.
+## Davonte Bradley [01:03:56](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3836s)
 
-Actually your special guests that I was informed of prior to the beating too. So glad to see you here that you can make it. And usually I'm in Brooklyn, New York right now. I'm in Vermont. Okay. Park indoors. Yes. As a quick footnote. That. I heard about in actually, when I was trying to put together a proposal for the physical show out South Hampton art center. And one of the board members said, you know, this. Person and Spalter, have you heard of her? And I hadn't at the time. And she said, you know, she should really be. Be involved in the show. So when an ordered up. Her book on Amazon, which is called _The Computer in the Visual Arts_. Which is a. Large. Textbook. Which was really. Interesting.
+Sounds good. And again, thank you for being here. Can't wait to actually be back in the classroom setting, so to speak. Right. All right. So next up, I think we have. Anne.
 
-I really enjoyed, especially the. The section on sort of the history of, you know, Computer art and kind of the origins. And yeah, it's, it's really awesome to have you, you know, as a participant. In this project. So. On that note, I'm very interested in the beginnings of computer art and with Michael Spalter, I have a collection. That's probably the largest of its kind. Private collection of early digital art. I'll put. The URL in there. Cause we have everything online for students and curators to use. Oh, wow. That was amazing. Yeah. Thank you. Thank you for joining us. Thank you very much. Thank you guys. All right. Okay. Next up we have.
+## Anne Morgan Spalter [01:04:14](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3854s)
 
-Denia Kazuko. Kazuko. Hi, it's a. It's Denia Kazaku. Kazaku. Okay. Sorry. Don't worry. Don't worry. I just wanted to say thank you to Colin and you for inviting me to listen to this talk. I'm not an expressionism artist. I actually spoke to Colin a few days ago about. Something else, but he told me to listen on this and it's very interesting. So I just wanted to say, hi, I'm listening from Greece. So it's 10.
+Hi. Hi.
 
-Past 10 at night here. So that's why I'm not participating with the video. But thanks. That's all I wanted to say. And congratulations to everyone on here. Thank you for joining us. Okay. Next up we have Anna. Let me. You. There you go. You're on muted. Hi, I'm Anna Hamer and I'm in Atlanta, Georgia. And I think we have some good strong Georgia contingent.
+## Davonte Bradley [01:04:16](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3856s)
 
-Just great. Connections. I am a painter and I studied graphic design. I have not ever really. Worked on the computer. I sort of. When, when the computer came out, I say PC before computers. I was working as a graphic designer and did not want to work on a computer. And now, and it went back to painting and now I am a physical painter. But I'm using digital.
+Hi.
 
-Overlaying digital with the paintings and then back from digital. To paintings and in the physical realm. So. Davo I'm using your language now. You said working in physical space and digital space. So I'm sort of. My interesting. Some information in here. Thank you. You're welcome. And glad to have you.
+## Anne Morgan Spalter [01:04:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3857s)
 
-All right. Moving along. Now we have Elena. Lipkowski. Oh, you, you are good at saying a name. Can you hear me? Yeah. Yes. I'm Elena Lipkowski and I'm living in Austin, Texas. I'm recently back to art making. After a very long time as a. Busy. Busy office day job. But I've always had art on the back burner. I have some experience way back in graphic design.
+I'm excited to be seeing everyone in this group. I think it's such a great idea and I've been using digital technology forever and ever. And currently I'm using artificial intelligence to do series of works and selling works in the crypto art market, which has been fun. So I'd love to see you. Yeah. So I'd love to present and show some of those things.
+
+## Davonte Bradley [01:04:37](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3877s)
+
+All right. Actually your special guests that I was informed of prior to the beating too. So glad to see you here that you can make it.
+
+## Anne Morgan Spalter [01:04:47](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3887s)
+
+And usually I'm in Brooklyn, New York right now. I'm in Vermont. Okay. Park indoors. Yes.
+
+## Colin Goldberg [01:04:55](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3895s)
+
+As a quick footnote. That. I heard about in actually, when I was trying to put together a proposal for the physical show out South Hampton art center. And one of the board members said, you know, this. Person and Spalter, have you heard of her? And I hadn't at the time. And she said, you know, she should really be. Be involved in the show. So when an ordered up. Her book on Amazon, which is called _The Computer in the Visual Arts_. Which is a. Large. Textbook. Which was really. Interesting.
+
+I really enjoyed, especially the. The section on sort of the history of, you know, Computer art and kind of the origins. And yeah, it's, it's really awesome to have you, you know, as a participant. In this project. So.
+
+## Anne Morgan Spalter [01:05:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3948s)
+
+On that note, I'm very interested in the beginnings of computer art and with Michael Spalter, I have a collection. That's probably the largest of its kind. Private collection of early digital art. I'll put. The URL in there. Cause we have everything online for students and curators to use.
+
+## Davonte Bradley [01:06:05](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3965s)
+
+Oh, wow. That was amazing. Yeah. Thank you. Thank you for joining us. Thank you very much.
+
+## Anne Morgan Spalter [01:06:12](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3972s)
+
+Thank you guys.
+
+## Davonte Bradley [01:06:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3973s)
+
+All right. Okay. Next up we have. Denia Kazuko. Kazuko.
+
+## Unattributed [01:06:23](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3983s)
+
+Hi, it's a. It's Denia Kazaku.
+
+## Davonte Bradley [01:06:26](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3986s)
+
+Kazaku.
+
+## Unattributed [01:06:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3987s)
+
+Okay.
+
+## Davonte Bradley [01:06:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3987s)
+
+Sorry. Don't worry.
+
+## Unattributed [01:06:29](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=3989s)
+
+Don't worry. I just wanted to say thank you to Colin and you for inviting me to listen to this talk. I'm not an expressionism artist. I actually spoke to Colin a few days ago about. Something else, but he told me to listen on this and it's very interesting. So I just wanted to say, hi, I'm listening from Greece. So it's 10.
+
+Past 10 at night here. So that's why I'm not participating with the video. But thanks. That's all I wanted to say. And congratulations to everyone on here.
+
+## Davonte Bradley [01:06:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4019s)
+
+Thank you for joining us. Okay. Next up we have Anna. Let me. You. There you go. You're on muted.
+
+## Anna Hamer [01:07:15](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4035s)
+
+Hi, I'm Anna Hamer and I'm in Atlanta, Georgia. And I think we have some good strong Georgia contingent. Just great. Connections. I am a painter and I studied graphic design. I have not ever really. Worked on the computer. I sort of. When, when the computer came out, I say PC before computers. I was working as a graphic designer and did not want to work on a computer. And now, and it went back to painting and now I am a physical painter. But I'm using digital.
+
+Overlaying digital with the paintings and then back from digital. To paintings and in the physical realm. So. Davo I'm using your language now. You said working in physical space and digital space. So I'm sort of. My interesting. Some information in here. Thank you. You're welcome.
+
+## Davonte Bradley [01:08:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4097s)
+
+And glad to have you. All right. Moving along. Now we have Elena. Lipkowski.
+
+## Elena Lipkowski [01:08:29](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4109s)
+
+Oh, you, you are good at saying a name. Can you hear me? Yeah. Yes. I'm Elena Lipkowski and I'm living in Austin, Texas. I'm recently back to art making. After a very long time as a. Busy. Busy office day job. But I've always had art on the back burner. I have some experience way back in graphic design.
 
 I do not paint and I do not like drawing. But put a hammer in my hand and I've done metal smithing. I've done. Welding I've done sculpture. I've come back into this. I officially launched. Last March, which was super interesting. In the sense that my, my, my busy day job. Most of my work is. Mostly went away and gave me a lot of time to think about art.
 
 So I like, I like to, I like the juncture between craft and pixel. And one of the things that really gave me a boost to getting back into this. Was because I didn't know much about Photoshop at all was I was listening to a. An interview with Yo-Yo Ma on public radio several years ago. And he gloriously said. I'm not sure if you've heard of Photoshop. Get just enough expertise to start playing and don't worry about it. And I wish I could find that interview so I could properly quote it. So I know hardly anything about Photoshop. But I use it. To the furthest extent of my limited knowledge. So thanks.
 
-Thank you. Thank you for joining. And thank you for introducing yourself to the group. Glad to have you. Feel free to. Talk to me. If you want to. Yeah. Everyone. Everyone that has spoken. Oh, sorry. My Instagram or on the chat. Thank you. All right. Okay. And speaking of chats. As you guys are posting us, I'm going to drop a link to the community discord. As soon as it lets me. Because it's not letting me do that. Hold on. Sorry.
+## Davonte Bradley [01:10:11](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4211s)
 
-If you are unfamiliar with discord. It is essentially an. Instant messaging. Video sharing. Chat. It's kind of an all in one kind of thing. It's very similar to zoom, but it's always on. So you can drop in and out of conversations at your leisure. So please, please, please utilize that. If you are so inclined. Because I kind of made it just for us to, you know, collab with talk, have conversations.
+Thank you. Thank you for joining. And thank you for introducing yourself to the group.
 
-So. You could also get there. There's a link in the site footer. On Techspressionism.com. It's the last social media icon. On the very bottom of the page. One of the bottom right. That looks sort of like a weird video game controller. Yeah. I don't know what it's. It's the one that I didn't recognize.
+## Unattributed [01:10:16](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4216s)
+
+Glad to have you. Feel free to. Talk to me. If you want to. Yeah. Everyone. Everyone that has spoken.
+
+## Davonte Bradley [01:10:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4224s)
+
+Oh, sorry.
+
+## Elena Lipkowski [01:10:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4224s)
+
+My Instagram or on the chat. Thank you.
+
+## Davonte Bradley [01:10:28](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4228s)
+
+All right. Okay. And speaking of chats. As you guys are posting us, I'm going to drop a link to the community discord. As soon as it lets me. Because it's not letting me do that. Hold on. Sorry. If you are unfamiliar with discord. It is essentially an. Instant messaging. Video sharing. Chat. It's kind of an all in one kind of thing. It's very similar to zoom, but it's always on. So you can drop in and out of conversations at your leisure.
+
+So please, please, please utilize that. If you are so inclined. Because I kind of made it just for us to, you know, collab with talk, have conversations. So.
+
+## Colin Goldberg [01:11:18](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4278s)
+
+You could also get there. There's a link in the site footer. On Techspressionism.com. It's the last social media icon. On the very bottom of the page. One of the bottom right. That looks sort of like a weird video game controller. Yeah. I don't know what it's. It's the one that I didn't recognize.
+
+## Davonte Bradley [01:11:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4301s)
 
 Fairly, fairly new to a lot of people, but. It's been around for a couple of years. I think now at this point for, for the gaming community. Or at least people that are into the gaming community and all that good stuff. Okay. Well, if, if no one else wants to introduce themselves, I guess we can move on unless we have any objections, Colin.
 
-No. Okay. Sounds good. All right. So now we at 3 16 PM. We are now going into our little planning session. We're going to talk about some of the topics that we want to talk And what we hope to do at this session. We. We want to take input from people. Where, you know, if there's a topic that you want to talk about.
+## Colin Goldberg [01:12:03](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4323s)
 
-We should be able to talk about it. So. I thought, did we, we didn't actually have any pre. Like I was going to make it like preplanned. Topics and then I completely forgot about it. So I dropped the ball on that. So I apologize. I apologize. I apologize. It's all good. I mean, you know, with the, the planning meeting, I think that well, there were sort of three things that I wanted to make sure that we just covered. Yeah. Briefly like the first one is, is just about the. The show in general. And you know, now that they. The call for entry has closed. What I did was, and we got like 1200 entries from over 300 artists. Right. And I ended up. Right. Emailing everybody that submitted work through call for entry. And letting them know that, you know, the final selection is going to be made from artists that are all.
+No.
 
-Artists listed in the, the index. So, you know, to, and I encourage them to make themselves visible by using the hashtag. And, or, you know, tagging in direct messaging. Me at techs at the Techspressionism. Instagram account. And we added a whole. A whole bunch of new people to the index as a result of that. And then actually.
+## Davonte Bradley [01:12:04](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4324s)
 
-Denia. And I spoke. About. Sort of the group as a whole, and she had some suggestions. One of which was that she thought that the Instagram feed should be. A little bit more tightly curated. And that kind of spurred me to change up a little bit about how. The work is presented on Instagram. So now instead of just me randomly reposting work. Continually throughout the day and night, which is driving my wife. Insane.
+Okay. Sounds good. All right. So now we at 3 16 PM. We are now going into our little planning session. We're going to talk about some of the topics that we want to talk And what we hope to do at this session. We. We want to take input from people. Where, you know, if there's a topic that you want to talk about.
+
+We should be able to talk about it. So. I thought, did we, we didn't actually have any pre. Like I was going to make it like preplanned. Topics and then I completely forgot about it. So I dropped the ball on that. So I apologize. I apologize. I apologize.
+
+## Colin Goldberg [01:12:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4361s)
+
+It's all good. I mean, you know, with the, the planning meeting, I think that well, there were sort of three things that I wanted to make sure that we just covered. Yeah. Briefly like the first one is, is just about the. The show in general. And you know, now that they. The call for entry has closed. What I did was, and we got like 1200 entries from over 300 artists. Right. And I ended up.
+
+## Unattributed [01:13:06](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4386s)
+
+Right.
+
+## Colin Goldberg [01:13:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4387s)
+
+Emailing everybody that submitted work through call for entry. And letting them know that, you know, the final selection is going to be made from artists that are all. Artists listed in the, the index. So, you know, to, and I encourage them to make themselves visible by using the hashtag. And, or, you know, tagging in direct messaging. Me at techs at the Techspressionism.
+
+Instagram account. And we added a whole. A whole bunch of new people to the index as a result of that. And then actually. Denia. And I spoke. About. Sort of the group as a whole, and she had some suggestions. One of which was that she thought that the Instagram feed should be. A little bit more tightly curated. And that kind of spurred me to change up a little bit about how. The work is presented on Instagram. So now instead of just me randomly reposting work. Continually throughout the day and night, which is driving my wife. Insane.
 
 And insane Instagram addict. At this point. I've tried to, to structure it a little bit so that. Each day there's one featured artist. And three of the featured artists works are presented each day to form one row. In the Instagram grid. So that way. It looks a little bit more cohesive. It gives each featured artist. You know, a bit more exposure, but also. It allows us to start, you know, pulling artists out of the index. That, you know, might be good for the exhibition.
 
 So that's one thing. And then, you know, Patrick. Is going to be co-curating the show with me. So. We still haven't really come up with a firm. Date. I've been working with Jan. Swinburne and Clive Holden on. You know, getting a. A presentation format together for. Video work within. Matrix, which, you know, is kind of a work in progress, but we're making, we're making some headway there. And, you know, the other two things really were the, the collaboration project, which Devante came up with. And then the interview.
 
-Project which Roz came up with and I'll let you guys kind of, you know, take it from there and. You know, let's. Let the group know about. Those things. Yeah. I'll go ahead and talk about the collaboration project. So originally this project started a couple of months ago, kind of at this point, but it's all good. The, the main idea behind it was that I was drawing inspiration from.
+Project which Roz came up with and I'll let you guys kind of, you know, take it from there and. You know, let's. Let the group know about. Those things.
 
-The. And the kind of collaborations that Basquiat did with his work. And, you know, he was very much inspired by jazz. Which there was a lot of jazz collaborations going on. He was like, I want to do that with, but with art. So he collabed with a couple other different artists. I want to say it was Warhol and Basquiat that had a collab. Yeah. That famous collab. And so me.
+## Davonte Bradley [01:15:35](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4535s)
 
-Studying this man's work very closely and kind of almost like at this point, I want to say that I'm honestly kind of patterning myself after his work. And like the kind of messages that he's doing and incorporating that into my style. But anyway. So. I, I, I see these collab, this collaboration project as a conversation between artists. So there'll be a group of two people, a pair of artists, and they'll submit either submit work back and forth with each other. With one work being, you know, the, the topic, so to speak. And another work, either an edited version of that original work. Or brand new work entirely being a response to that initial work. Which is a lot of work. And so I want to say that. Because you know, art is. Message like it's you're communicating.
+Yeah. I'll go ahead and talk about the collaboration project. So originally this project started a couple of months ago, kind of at this point, but it's all good. The, the main idea behind it was that I was drawing inspiration from. The. And the kind of collaborations that Basquiat did with his work. And, you know, he was very much inspired by jazz. Which there was a lot of jazz collaborations going on. He was like, I want to do that with, but with art. So he collabed with a couple other different artists.
+
+I want to say it was Warhol and Basquiat that had a collab. Yeah. That famous collab. And so me. Studying this man's work very closely and kind of almost like at this point, I want to say that I'm honestly kind of patterning myself after his work. And like the kind of messages that he's doing and incorporating that into my style. But anyway. So.
+
+I, I, I see these collab, this collaboration project as a conversation between artists. So there'll be a group of two people, a pair of artists, and they'll submit either submit work back and forth with each other. With one work being, you know, the, the topic, so to speak. And another work, either an edited version of that original work. Or brand new work entirely being a response to that initial work. Which is a lot of work. And so I want to say that. Because you know, art is. Message like it's you're communicating.
 
 Words meanings. Through your imagery or your audio or what have you. And to have an artist respond back to you. It's like, oh, this is what, this is what. This is what spoke to me. And this is what I'm responding to. That's the nature of the collaboration. So. The end result of that project. Is going to be. A little bit of a. A little bit of a mini art show slash exhibition that we are also trying to plan on having in Kunstmatrix. The first one we have 10 participants. It's still technically ongoing. There's been a little delays and that sort of thing, but. I was talking with Colin earlier. About opening up the second one already. So to get that. Started because a lot of people are very interested in participating now. So in discord, if you go in there, there is now a new channel that created.
 
 We're going to be doing a little bit of a collaboration. That was created yesterday. For essentially early signups for the second collab event that we have going on. And I'm going to record all that information into the Gmail account. That's just for collaboration submissions and all that good stuff. So if you want, please. Please. I encourage you go, go to the discord and hop in that channel and say that you want to participate in the next collab event. Because it's been, it's been fun so far. I'm the, we have one completed pair. Out of the five, but. It's all good. So it's still in the beginning process is still learning what works and what doesn't, but it's, it's really been truly fulfilling so far. So please go ahead and.
 
-Volunteers. I have one quick suggestion about that. I think that maybe in order for us to get a show up, you know, which I think we definitely should. Do, and this is a really good opportunity. To. To get a show up. And I think that's a really good way to structure the material. I think for our first sort of. Group exhibition. Is to set a date. You know, that we want that's a firm deadline. Right. Any pairings that get their work in by that time. Get to be in this show, you know, and because. I mean, you know, like there might be people that have other commitments and stuff comes up. And I think that, you know, in the interest of just getting something up and, and, you know, the way I envision it is. You know, and. We're going to have a Kunst matrix account that we can use on an ongoing basis.
+Volunteers. I have one
 
-So I would say. The best way to utilize that is to always have a show up, you know, and while there's one up. We're putting material together as a group to make the next show so that when they. You know, rotate, there's always something. To see that group members are creating because there's no shortage of. Talent or content, you know, So I think that you guys agree. And if you do, what do you think is a reasonable date to set for? I guess it would be, we would need two dates. One would be the deadline. To get the first. And I think the interviews don't necessarily need to be part of the deadline. I think people. Are able to pull off the interview component. That's great. But I feel like that might be a hindrance also, like in some people might be less. You know, More likely to get the interview.
+## Colin Goldberg [01:18:44](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4724s)
 
-Inclined to do that. That's sort of an exercise. So I think, you know, The important thing is that we get. You know, a number of images. I don't know Devante. I know you had mentioned like possibly four images. Her pair. Yeah. The show. And then, you know, We can kind of have, we could have multiple chapters of this concept, I think, but I think. You know, We could have multiple chapters of this concept. We could have multiple chapters of this concept. I would love to get something up. Sooner rather than later. So. Right. Have something visible to the public prior to the juried exhibition, you know, where it's really. The people that are actively participating in showing up to these things that are going to get. You know, some visibility out of it.
+Quick suggestion about that. I think that maybe in order for us to get a show up, you know, which I think we definitely should. Do, and this is a really good opportunity. To. To get a show up. And I think that's a really good way to structure the material. I think for our first sort of. Group exhibition. Is to set a date. You know, that we want that's a firm deadline. Right. Any pairings that get their work in by that time. Get to be in this show, you know, and because. I mean, you know, like there might be people that have other commitments and stuff comes up. And I think that, you know, in the interest of just getting something up and, and, you know, the way I envision it is. You know, and. We're going to have a Kunst matrix account that we can use on an ongoing basis. So I would say.
 
-Sorry. How do we get in? How can we find this on discord? Oh. I'm not sure if you're using it on mobile or if you're on desktop, are you. I'm on both, but right now I'm on desktop. Okay. So if you're on desktop, if you look on the left side, there is a list of what their, their channels. So there are chat channels. So under the general discussion, I mean, under the discussion. Sex subsection. There's a channel called collab discussion.
+The best way to utilize that is to always have a show up, you know, and while there's one up. We're putting material together as a group to make the next show so that when they. You know, rotate, there's always something. To see that group members are creating because there's no shortage of.
 
-And you can go under there and then. You can go to the chat section. And then. You can go to the chat section. Post that you want to be a participant and you'll see everyone else so far. That's also interested. So are you seeing that or no? Would you be able to share your screen? Maybe. Yeah, I can do that.
+## Unattributed [01:19:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4789s)
 
-To do. Maybe one screen too. Are you guys seeing this? Yep. Yep. Okay. So this is the main section and then the discussion section. It's going to be right here under collab. So it's the third one. Do I have to be invited to join the. Discord channel. That link that I introduced in the put in the chat. Should work. Okay.
+Talent or content, you know, So I think
 
-Okay. So. I think you just need to register and you can, you can. Yeah. The link on the site footer too. Yeah. There. I think that. Perfect. And then you just need to register. And then, so Davo, what do you think is reasonable as far as like a deadline? Like if we could get a date. Sort of set. You know, while we're all here. In the session that might be good. Just so, you know, people know, like, cause I know you did set a deadline and then one pairing did their homework and I'm guilty of not. Getting my homework in either Patrick and I are on our last day. So I think it's a good idea to set a date. For like the last one. I promise I was working on the last. You know, back and forth around with him yesterday, actually. So, but I think it's all good. If we can set a date based on like, you know, what.
+## Colin Goldberg [01:19:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4793s)
 
-What might be reasonable. Whatever that is. How, how I kind of originally envisioned it was like a once a month kind of deal. So at the end of the month. We'd have submissions. And then after that, then at some point in the following month, we'd have like a calendar for like one week or something. We'd have like a monthly assignment of like things like that. We'd have the show. That can be going to a conspiracy tricks. So does that, does that sound reasonable enough? Like a whole month? Like at the end of the month? As a deadline or.
+That you guys agree. And if you do, what do you think is a reasonable date to set for? I guess it would be, we would need two dates. One would be the deadline. To get the first. And I think the interviews don't necessarily need to be part of the deadline. I think people. Are able to pull off the interview component. That's great. But I feel like that might be a hindrance also, like in some people might be less. You know, More likely to get the interview. Inclined to do that. That's sort of an exercise. So I think, you know, The important thing is that we get. You know, a number of images. I don't know Devante. I know you had mentioned like possibly four images. Her pair.
 
-Maybe input. The end of January. You mean like so days from now would be a deadline to get working by. Yeah. I mean, yeah. Yeah, well, I mean, the existing pairings have had a while, you know, a good amount of notice at this point. So you don't you know, there's always the next one, I guess. You know, it's incentive to get it done. I think that's reasonable, you know. And then so, you know, Davo, you're the curator. So, you know, I'm expecting you to say at the end of the month, OK, this is the cutoff. Yeah, I was actually I was actually planning on writing up an email today and sending out to the rest of the participants like, hey, it's about that time. So right on. Cool. Yeah. And, you know, I think with the interview piece, like, you know, we had talked about each pairing interviewing each other.
+## Elena Lipkowski [01:20:36](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4836s)
 
-Like we could always add that on or, you know, I think that sometimes that might actually, you know, slow the process down to the point that it prevents the show from going up. You know. But I would envision it as something where, like, I'll create a page on the site for the collab project. And then each pairing can have, you know, their interviews there if they if they exist. And within Kunstmatrix, each work is clickable through to a URL. So, you know, we can just figure out put our heads together and figure out the best way to present this. Right.
+Yeah.
 
-Oh, it looks like Michael has a. Question. One second. All right. Okay. So are we going to choose our own collaborators or are we going to be assigned or where? How does this work? Do we just aim at each other? That is a good question. I'm glad you brought that up in the first batch. I can't. I personally assigned people who they're going to be working with. But I also did say before I did that, I was like, if anyone actually has somebody that they can work with, I'm going to be working with them. But if they're actually someone they'd like to work with among the current participants that they're free to reach out to that person and like, hey, you want to pair up for a collab?
+## Colin Goldberg [01:20:37](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4837s)
 
-So either or either you can you among the current participants, you can select who you want to work with or ask them if they'd want to work with you or I can assign you so. Is that satisfactory answer for you or? I like the idea of being assigned. So there aren't any loose ends. Right. Plus, you know, it's the process of discovery. Right.
+The show. And then, you know, We can kind of have, we could have multiple chapters of this concept, I think, but I think. You know, We could have multiple chapters of this concept. We could have multiple chapters of this concept. I would love to get something up. Sooner rather than later. So. Right. Have something visible to the public prior to the juried exhibition, you know, where it's really. The people that are actively participating in showing up to these things that are going to get. You know, some visibility out of it.
 
-Okay. And Roz? Davo, can people see who the collaborators are now? I'm going to make like an ongoing list of who we currently have, and that will probably also be posted in Discord, but I'm probably also going to... When either today or tomorrow, I'm going to need to collect you guys' emails so that I can put those on the contact list for the collaboration email so that we can also have that correspondence too. Yeah, actually in the email that you guys all got with the Zoom link, that should have all of that information in there, like the list of the current collaborator pairings, and also... It'll have Davo's Gmail that he set up. So like if you're in the Zoom right now and you want to participate, you could email Davo directly through that address. What was it? It was like... It was techspressioncolab.com.
+## Brandon S Gellis [01:21:08](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4868s)
 
-I will copy and paste it. Yeah, that might be the easiest way. Because it's actually kind of a long... It's kind of a long one. All right. All right. And I'm about to drop that in the chat right now as soon as... Ah. It's not actually letting me copy it. Technical difficulties happen. All right. And that is the email. Oh, hold on. It's sending it directly. Hold on. There we go.
+Sorry. How do we get in? How can we find this on discord?
 
-There we go. All right. So that is the email for our correspondents. So if you are interested, please email me so I can add you to the participant list as well. So I'm collecting... And Davo, I had another question just sort of in terms of the way the work is gonna be presented. So... Yes. All of this work right now is gonna be obviously digital work. And... Right. I know Kunstmatrix, I believe, has a... I think it's like a 5,000 by 5,000 pixel sort of recommended limit as far as the pixel dimensions of an image. Yeah. What are your thoughts? So with each image, when you're placing it within the space, you also specify a physical size that it shows the work as on the wall. So do you think that all the work should be sort of consistent in terms of if it was sort of produced, if it was physically produced, it would be within three by four feet, four by four feet?
+## Davonte Bradley [01:21:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4873s)
 
-I think that maybe if we have some consistency as far as the size across the show, I mean, it's sort of... I don't know if any other artists have had any kind of discussion about if there is a perceived physical size when they're creating their collaborative work. I mean, Patrick and I just used 5,000 pixels because that was as big as you could go and just... But then when you place the work in the VR space, you have to say it's X inches by X inches or X centimeters by X centimeters. So what do you think about that?
+Oh. I'm not sure if you're using it on mobile or if you're on desktop, are you.
 
-I do think that there does necessarily kind of need to be a minimum size that is submitted. But... Yeah. I think the issue though is how small can matrix display? Because I don't want to use that minimum as the minimum for submission. But what is the... Well, I think file size wise, I mean, even a 5,000 by 5,000 pixel image, if you save it as a medium size JPEG, it's really only a couple of megs. I mean, it's nothing crazy. Yeah. I'm really more talking about... Yeah. I'm just saying like this sort of... When you actually place it, you could say, I'd like it to be 12 inches by 12 inches or 12 feet by 12 feet. Oh, okay. How big is it going to appear on the wall in the virtual space? And I think for the show to look cohesive and good, it should all be sized relatively the same. So it's not like some pairings work is going to be giant on the wall and then another pairings work is going to be...
+## Brandon S Gellis [01:21:21](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4881s)
 
-Right. No, that's... Yeah. It's going to be tiny on the wall. You know what I mean? Yeah. That's a fair point to bring up. Do we... I mean, I think that the room is sized to be comparable to like a general sort of standard physical space, maybe eight foot ceilings or something. So I think like if all of the work fits within four feet by four feet or something, it'll be as if you're in a physical space with fairly large wall pieces. You know what I mean? Yeah. Versus presenting them as what they might be in actual printed size. Yeah. Right.
+I'm on both, but right now I'm on desktop.
 
-Because I think like even a 5,000 by 5,000 pixel image, if you're printing it at 300 DPI, you end up with a fairly small object. Yeah. You do. Ultimately. Can I give input on this? Sure. Sure. There are some... There might be some people where... Yeah. I mean, the artist is going to have a preference. For instance, I do a lot of head and shoulder portraits. And so I do imagine them to be life size, which for me is about two feet by two feet. So there could be people who do care about the size of their work.
+## Davonte Bradley [01:21:23](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4883s)
 
-That's a good point. I mean, maybe we ask each pairing to provide a physical sizing for the work. Yeah. For their submission. So that way it's decided upon by the artist in the pairing. That probably makes the most sense. Yeah. And the file does not need to actually reflect what it would need to be if it was printed at full resolution at that size. Correct. Correct. Because we're not producing these things.
+Okay. So if you're on desktop, if you look on the left side, there is a list of what their, their channels. So there are chat channels. So under the general discussion, I mean, under the discussion. Sex subsection. There's a channel called collab discussion. And you can go under there and then. You can go to the chat section. And then.
 
-That's a good idea. I think that's... I think that's a good idea. I think that's a good idea. I think that's a good idea. Oh, I think Roz had something to say first and then you can go ahead. Yeah. Having participated... Well, we're still participating. Nagin and I have something going here that we need to finish. I'm glad you're putting a deadline because we just need to get our asses in gear.
+You can go to the chat section. Post that you want to be a participant and you'll see everyone else so far. That's also interested. So are you seeing that or no?
 
-Once you don't have it and you get into other stuff, you go, ooh, we got to get back to that. Right. So I'm glad of that. But the other thing is, I think that we had a prescribed 10 inches by 10 inches. For the first one, didn't we? I think we did. That's what we started. I thought that was... It was a 10 inches by 10 inches at that time. Yeah. Which I think is kind of nice maybe for the first one. But anyway, I just wanted to make sure I got that right. Yeah. And I mean, we're still kind of in the learning phase for how this is supposed to work or how we're going to proceed with this. So, I mean, we're still learning how this goes. So it's all good. Yeah. The other thing in Kuntz Matrix is that we're still working on the! So, you know, one of the things that I would say is you can scale the imagery as well.
+## Brandon S Gellis [01:21:57](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4917s)
 
-So even if the physical dimensions would be like a foot by a foot, you can scale up as long as, you know, as long as the pixels are there, Kuntz Matrix allows you to actually scale the artwork in the space so it looks larger on the wall. Right. Yeah. I would say definitely, you know, if for, you know, like sort of two or three inches of your character, you're going to be able to make that much iDubbbz the same as the it's all about the size.
+Would you be able to share your screen? Maybe.
 
-So I think that's it. It's like a big non-the en Ferroni. It's not like a big car. It's not like a big top of the house. It's not like a big – that's not it. It's not like a big sound off the ground. It's not like a big sound off the ground. It's not like a big sound off the ground. It's not like a big sound off the ground. Too once it gets in the kunst matrix so it's probably also not going to be a big deal at the end of the day brandon you had something that you wanted to contribute or just having had used kun's matrix also I was just gonna mirror that kind of stuff and just say okay maybe one option is just when you if you set up a tentative gallery space maybe just give each pairing a measurement that their work together cannot exceed because there may be a perspective there may be a discussion of macro micro or juxtaposition so maybe one artist wants to do something tiny one artist wants to do something much larger because I'm actually also using kun's matrix for my students at the end of each class their capstone is going to be in a virtual gallery since we're not able to be here so it's the same thing I just give them set parameters and one other option is in unity I'm just designing a multi-level gallery and every every student gets a room that is this big to set up how they want for virtual space so just an idea thank you are you bringing the unity model into kunst matrix I'm not sure I might just host the unity model on my website similarly to how well no not similar to how someone would link to kun's matrix or embed it but basically just have like possibly have like a 3d image of each room that the students are working on if they want to right now I don't know how many students are working on in because there's 25 students in that class and they're each creating a virtual reality in a room with text and characters the designing and background so I don't have an exact answer cool yeah I know that someone had brought up that you can yeah you know create your own spaces and we haven't completely solidified the format you know the layout for the juried show but definitely it'll be broken up into rooms like you know along the lines of figurative versus abstract work and things of that nature I'm happy to help if you need but also when I've emailed them they're super responsive and super helpful kun's matrix they are in germany so it's the day you know it's later in the day but they're really nice and responsive and I think they'll even walk you through setting up really custom layouts if you want like rooms custom like okay yeah that's definitely something we will definitely need to explore a bit later on so once we get to that point yeah and the collab I think is a really good opportunity for to experiment and members yeah that want to be involved in this aspect because the jury show is just one show I mean right you know I think that anybody that has an idea for a show like you know there were a lot of people that wanted to submit video work and when I originally set the call for entry up I wasn't even sure if you'd be able to place you know if it was possible to place video work within kun's matrix so I didn't check the box that said allow video submissions so I ended up having people that wanted to submit video work just send me links to unlisted vimeo or YouTube videos via email along with their artist statement and you know got a bunch of submissions there in the down the road, you know, if we can actually figure out the best way to present the work, which at this point it's looking like a very short clip with a link to the full res video somewhere else that's just embedded flat on a page.
+## Davonte Bradley [01:21:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4919s)
+
+Yeah, I can do that. To do. Maybe one screen too. Are you guys seeing this?
+
+## Unattributed [01:22:10](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4930s)
+
+Yep. Yep.
+
+## Davonte Bradley [01:22:11](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4931s)
+
+Okay. So this is the main section and then the discussion section. It's going to be right here under collab. So it's the third one.
+
+## Brandon S Gellis [01:22:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4945s)
+
+Do I have to be invited to join the. Discord channel.
+
+## Davonte Bradley [01:22:31](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4951s)
+
+That link that I introduced in the put in the chat. Should work. Okay. Okay.
+
+## Colin Goldberg [01:22:39](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4959s)
+
+So. I think you just need to register and you can, you can. Yeah. The link on the site footer too. Yeah. There. I think that.
+
+## Unattributed [01:22:45](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4965s)
+
+Perfect.
+
+## Colin Goldberg [01:22:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=4966s)
+
+And then you just need to register. And then, so Davo, what do you think is reasonable as far as like a deadline? Like if we could get a date. Sort of set. You know, while we're all here. In the session that might be good. Just so, you know, people know, like, cause I know you did set a deadline and then one pairing did their homework and I'm guilty of not. Getting my homework in either Patrick and I are on our last day. So I think it's a good idea to set a date. For like the last one. I promise I was working on the last. You know, back and forth around with him yesterday, actually. So, but I think it's all good. If we can set a date based on like, you know, what. What might be reasonable. Whatever that is.
+
+## Davonte Bradley [01:23:23](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5003s)
+
+How, how I kind of originally envisioned it was like a once a month kind of deal. So at the end of the month. We'd have submissions. And then after that, then at some point in the following month, we'd have like a calendar for like one week or something. We'd have like a monthly assignment of like things like that. We'd have the show. That can be going to a conspiracy tricks. So does that, does that sound reasonable enough? Like a whole month? Like at the end of the month? As a deadline or.
+
+Maybe input.
+
+## Colin Goldberg [01:23:52](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5032s)
+
+The end of January. You mean like so days from now would be a deadline to get working by. Yeah. I mean, yeah. Yeah, well, I mean, the existing pairings have had a while, you know, a good amount of notice at this point. So you don't you know, there's always the next one, I guess. You know, it's incentive to get it done. I think that's reasonable, you know. And then so, you know, Davo, you're the curator. So, you know, I'm expecting you to say at the end of the month, OK, this is the cutoff.
+
+## Davonte Bradley [01:24:25](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5065s)
+
+Yeah, I was actually I was actually planning on writing up an email today and sending out to the rest of the participants like, hey, it's about that time. So right on. Cool.
+
+## Colin Goldberg [01:24:36](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5076s)
+
+Yeah. And, you know, I think with the interview piece, like, you know, we had talked about each pairing interviewing each other. Like we could always add that on or, you know, I think that sometimes that might actually, you know, slow the process down to the point that it prevents the show from going up. You know. But I would envision it as something where, like, I'll create a page on the site for the collab project. And then each pairing can have, you know, their interviews there if they if they exist. And within Kunstmatrix, each work is clickable through to a URL. So, you know, we can just figure out put our heads together and figure out the best way to present this. Right.
+
+## Davonte Bradley [01:25:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5122s)
+
+Oh, it looks like Michael has a. Question. One second.
+
+## Unattributed [01:25:28](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5128s)
+
+All right. Okay. So are we going to choose our own collaborators or are we going to be assigned or where? How does this work? Do we just aim at each other?
+
+## Davonte Bradley [01:25:40](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5140s)
+
+That is a good question. I'm glad you brought that up in the first batch. I can't. I personally assigned people who they're going to be working with. But I also did say before I did that, I was like, if anyone actually has somebody that they can work with, I'm going to be working with them. But if they're actually someone they'd like to work with among the current participants that they're free to reach out to that person and like, hey, you want to pair up for a collab?
+
+So either or either you can you among the current participants, you can select who you want to work with or ask them if they'd want to work with you or I can assign you so. Is that satisfactory answer for you or?
+
+## Unattributed [01:26:20](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5180s)
+
+I like the idea of being assigned. So there aren't any loose ends. Right. Plus, you know, it's the process of discovery. Right.
+
+## Davonte Bradley [01:26:34](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5194s)
+
+Okay. And Roz?
+
+## Roz Dimon [01:26:37](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5197s)
+
+Davo, can people see who the collaborators are now?
+
+## Davonte Bradley [01:26:42](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5202s)
+
+I'm going to make like an ongoing list of who we currently have, and that will probably also be posted in Discord, but I'm probably also going to... When either today or tomorrow, I'm going to need to collect you guys' emails so that I can put those on the contact list for the collaboration email so that we can also have that correspondence too.
+
+## Colin Goldberg [01:27:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5227s)
+
+Yeah, actually in the email that you guys all got with the Zoom link, that should have all of that information in there, like the list of the current collaborator pairings, and also... It'll have Davo's Gmail that he set up. So like if you're in the Zoom right now and you want to participate, you could email Davo directly through that address. What was it? It was like...
+
+## Davonte Bradley [01:27:31](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5251s)
+
+It was techspressioncolab.com. I will copy and paste it.
+
+## Colin Goldberg [01:27:38](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5258s)
+
+Yeah, that might be the easiest way.
+
+## Unattributed [01:27:41](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5261s)
+
+Because it's actually kind of a long...
+
+## Davonte Bradley [01:27:44](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5264s)
+
+It's kind of a long one. All right. All right. And I'm about to drop that in the chat right now as soon as... Ah. It's not actually letting me copy it. Technical difficulties happen. All right. And that is the email. Oh, hold on. It's sending it directly. Hold on. There we go. There we go. All right. So that is the email for our correspondents. So if you are interested, please email me so I can add you to the participant list as well.
+
+So I'm collecting...
+
+## Colin Goldberg [01:28:34](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5314s)
+
+And Davo, I had another question just sort of in terms of the way the work is gonna be presented. So... Yes. All of this work right now is gonna be obviously digital work. And... Right. I know Kunstmatrix, I believe, has a... I think it's like a 5,000 by 5,000 pixel sort of recommended limit as far as the pixel dimensions of an image.
+
+## Unattributed [01:28:57](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5337s)
+
+Yeah.
+
+## Colin Goldberg [01:28:58](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5338s)
+
+What are your thoughts? So with each image, when you're placing it within the space, you also specify a physical size that it shows the work as on the wall. So do you think that all the work should be sort of consistent in terms of if it was sort of produced, if it was physically produced, it would be within three by four feet, four by four feet? I think that maybe if we have some consistency as far as the size across the show, I mean, it's sort of... I don't know if any other artists have had any kind of discussion about if there is a perceived physical size when they're creating their collaborative work. I mean, Patrick and I just used 5,000 pixels because that was as big as you could go and just... But then when you place the work in the VR space, you have to say it's X inches by X inches or X centimeters by X centimeters.
+
+So what do you think about that?
+
+## Davonte Bradley [01:30:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5402s)
+
+I do think that there does necessarily kind of need to be a minimum size that is submitted. But... Yeah. I think the issue though is how small can matrix display? Because I don't want to use that minimum as the minimum for submission. But what is the...
+
+## Colin Goldberg [01:30:26](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5426s)
+
+Well, I think file size wise, I mean, even a 5,000 by 5,000 pixel image, if you save it as a medium size JPEG, it's really only a couple of megs.
+
+## Unattributed [01:30:38](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5438s)
+
+I mean, it's nothing crazy.
+
+## Colin Goldberg [01:30:39](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5439s)
+
+Yeah. I'm really more talking about... Yeah. I'm just saying like this sort of... When you actually place it, you could say, I'd like it to be 12 inches by 12 inches or 12 feet by 12 feet.
+
+## Unattributed [01:30:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5453s)
+
+Oh, okay.
+
+## Colin Goldberg [01:30:54](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5454s)
+
+How big is it going to appear on the wall in the virtual space? And I think for the show to look cohesive and good, it should all be sized relatively the same. So it's not like some pairings work is going to be giant on the wall and then another pairings work is going to be... Right. No, that's... Yeah. It's going to be tiny on the wall. You know what I mean?
+
+## Unattributed [01:31:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5473s)
+
+Yeah. That's a fair point to bring up.
+
+## Colin Goldberg [01:31:19](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5479s)
+
+Do we... I mean, I think that the room is sized to be comparable to like a general sort of standard physical space, maybe eight foot ceilings or something. So I think like if all of the work fits within four feet by four feet or something, it'll be as if you're in a physical space with fairly large wall pieces. You know what I mean? Yeah. Versus presenting them as what they
+
+## Unattributed [01:31:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5506s)
+
+Might be in actual printed size. Yeah.
+
+## Colin Goldberg [01:31:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5508s)
+
+Right. Because I think like even a 5,000 by 5,000 pixel image, if you're printing it at 300 DPI, you end up with a fairly small object. Yeah.
+
+## Unattributed [01:32:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5522s)
+
+You do.
+
+## Colin Goldberg [01:32:03](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5523s)
+
+Ultimately.
+
+## Unattributed [01:32:03](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5523s)
+
+Can I give input on this? Sure. Sure. There are some... There might be some people where... Yeah. I mean, the artist is going to have a preference. For instance, I do a lot of head and shoulder portraits. And so I do imagine them to be life size, which for me is about two feet by two feet. So there could be people who do care about the size of their work.
+
+## Colin Goldberg [01:32:31](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5551s)
+
+That's a good point. I mean, maybe we ask each pairing to provide a physical sizing for the work. Yeah. For their submission. So that way it's decided upon by the artist in the pairing. That probably makes the most sense.
+
+## Davonte Bradley [01:32:50](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5570s)
+
+Yeah.
+
+## Colin Goldberg [01:32:51](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5571s)
+
+And the file does not need to actually reflect what it would need to be if it was printed at full resolution at that size.
+
+## Unattributed [01:33:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5581s)
+
+Correct. Correct.
+
+## Colin Goldberg [01:33:01](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5581s)
+
+Because we're not producing these things.
+
+## Davonte Bradley [01:33:06](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5586s)
+
+That's a good idea. I think that's... I think that's a good idea. I think that's a good idea. I think that's a good idea. Oh, I think Roz had something to say first and then you can go ahead.
+
+## Roz Dimon [01:33:15](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5595s)
+
+Yeah. Having participated... Well, we're still participating. Nagin and I have something going here that we need to finish. I'm glad you're putting a deadline because we just need to get our asses in gear. Once you don't have it and you get into other stuff, you go, ooh, we got to get back to that. Right. So I'm glad of that. But the other thing is, I think that we had a prescribed 10 inches by 10 inches. For the first one, didn't we? I think we did.
+
+## Unattributed [01:33:44](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5624s)
+
+That's what we started. I thought that
+
+## Davonte Bradley [01:33:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5626s)
+
+Was... It was a 10 inches by 10 inches at that time.
+
+## Roz Dimon [01:33:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5629s)
+
+Yeah. Which I think is kind of nice maybe for the first one. But anyway, I just wanted to make sure I got that right.
+
+## Davonte Bradley [01:33:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5633s)
+
+Yeah. And I mean, we're still kind of in the learning phase for how this is supposed to work or how we're going to proceed with this. So, I mean, we're still learning how this goes. So it's all good.
+
+## Anna Hamer [01:34:08](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5648s)
+
+Yeah.
+
+## Unattributed [01:34:08](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5648s)
+
+The other thing in Kuntz Matrix is that we're still working on the! So, you know, one of the things that I would say is you can scale the imagery as well. So even if the physical dimensions would be like a foot by a foot, you can scale up as long as, you know, as long as the pixels are there, Kuntz Matrix allows you to actually scale the artwork in the space so it looks larger on the wall.
+
+## Davonte Bradley [01:34:31](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5671s)
+
+Right.
+
+## Colin Goldberg [01:34:33](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5673s)
+
+Yeah. I would say definitely, you know, if for, you know, like sort of two or three inches of your character, you're going to be able to make that much iDubbbz the same as the it's all about the size. So I think that's it. It's like a big non-the en Ferroni. It's not like a big car. It's not like a big top of the house. It's not like a big – that's not it. It's not like a big sound off the ground. It's not like a big sound off the ground. It's not like a big sound off the ground.
+
+## Davonte Bradley [01:35:09](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5709s)
+
+It's not like a big sound off the ground. Too once it gets in the kunst matrix so it's probably also not going to be a big deal at the end of the day
+
+## Brandon S Gellis [01:35:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5717s)
+
+Brandon you had something that you wanted to contribute or just having had used kun's matrix also I was just gonna mirror that kind of stuff and just say okay maybe one option is just when you if you set up a tentative gallery space maybe just give each pairing a measurement that their work together cannot exceed because there may be a perspective there may be a discussion of macro micro or juxtaposition so maybe one artist wants to do something tiny one artist wants to do something much larger because I'm actually also using kun's matrix for my students at the end of each class their capstone is going to be in a virtual gallery since we're not able to be here so it's the same thing I just give them set parameters and one other option is in unity I'm just designing a multi-level gallery and every every student gets a room that is this big to set up how they want for virtual space so just an idea thank
+
+## Colin Goldberg [01:36:14](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5774s)
+
+You are you bringing the unity model into kunst matrix I'm
+
+## Brandon S Gellis [01:36:19](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5779s)
+
+Not sure I might just host the unity model on my website similarly to how well no not similar to how someone would link to kun's matrix or embed it but basically just have like possibly have like a 3d image of each room that the students are working on if they want to right now I don't know how many students are working on in because there's 25 students in that class and they're each creating a virtual reality in a room with text and characters the designing and background so I don't have an exact answer
+
+## Colin Goldberg [01:36:53](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5813s)
+
+Cool yeah I know that someone had brought up that you can yeah you know create your own spaces and
+
+## Unattributed [01:36:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5819s)
+
+We haven't
+
+## Colin Goldberg [01:36:59](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5819s)
+
+Completely solidified the format you know the layout for the juried show but definitely it'll be broken up into rooms like
+
+## Unattributed [01:37:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5827s)
+
+You
+
+## Colin Goldberg [01:37:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5827s)
+
+Know along the lines of figurative versus abstract work and things of that nature I'm
+
+## Brandon S Gellis [01:37:15](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5835s)
+
+Happy to help if you need but also when I've emailed them they're super responsive and super helpful kun's matrix they are in germany so it's the day you know it's later in the day but they're really nice and responsive and I think they'll even walk you through setting up really custom layouts if you want like rooms custom
+
+## Davonte Bradley [01:37:35](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5855s)
+
+Like okay yeah that's definitely something we will definitely need to explore a bit later on so once we get to that point
+
+## Colin Goldberg [01:37:44](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5864s)
+
+Yeah and the collab I think is a really good opportunity for to experiment and members yeah that want to be involved in this aspect because the jury show is just one show I mean right you know I think that anybody that has an idea for a show like you know there were a lot of people that wanted to submit video work and when I originally set the call for entry up I wasn't even sure if you'd be able to place you know if it was possible to place video work within kun's matrix so I didn't check the box that said allow video submissions so I ended up having people that wanted to submit video work just send me links to unlisted vimeo or YouTube videos via email along with their artist statement and you know got a bunch of submissions there in the down the road, you know, if we can actually figure out the best way to present the work, which at this point it's looking like a very short clip with a link to the full res video somewhere else that's just embedded flat on a page.
 
 I think a show like Expressionism in Motion or something along those lines of all time-based work would be really interesting because there's a lot of really interesting video art that people are tagging with the hashtag. I've noticed that when I repost video work, a lot of times... End up with a black square with a play button and whatever the sort of thumbnail frame that the artist selected doesn't translate in the repost. So it doesn't really look good as a reposted video in the feed, but a lot of the video is pretty incredible.
 
-Anyway, just putting that out there. Right. We are actually, we got like 15 more minutes before we hit that four o'clock marker. I know Roz wanted to talk more about the interview section, so I'm going to give the floor to her real quick. Hi, everybody. Yeah, and they kind of, it kind of segs, thanks Davo, it kind of segs because into this one naturally as well. Because in the beginning, the early collaborations that Davo set up, one of the suggested things that you would do was to have an interview with each other in case you haven't read the specs yet. And so Nagin and I had one, I mean, she's was over in Abu Dhabi and here I am, you know, in New York. And that was really wonderful way to get to know each other. But now that we are starting an interview series, I kind of think that, you know, if you don't, I agree with Colin, if you don't get to that, you know, it's really about an art collaboration.
+Anyway, just putting that out there. Right.
 
-Right. Right. Yeah. But you can always chat via email and, you know, we all have full lives. So I got it. And I did find that our interview, I looked back on it, it's very interesting and cordial with each other. But that's what we thought it might be nice to have an interview thing where it's longer than five minutes, where you really get to know a little bit more about an artist. But it is, I will now, I think I'm going to share my screen. That's all right, Davo. I'm going to go ahead and do that. This is not going to be my art. This is just the interview. What we came up with Colin, just kind of suggested. Suggested guideline, because I'm not going to be the interviewer every time. Hello. I have a life too, even though it is interesting and fun. But I, these are suggested guidelines for you to pick someone else in the group and make a, you know, do one yourself.
+## Davonte Bradley [01:39:33](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5973s)
 
-I'm just going to share my screen this time. I'll remember to click share. I always forget to do that. Anyway. All right. So I have it on the screen. Can everybody see it? Yep. Great. So I'm just going to read it. So Techspressionist artist interview series suggested. These are suggested, but I would strongly suggest we stick to it. Or if we think something's really missing, of course, like everything in this group, which I like, it's very, it's a group, you know, it's not an hierarchical kind of thing. So a length, we thought though, 15, 20 minutes, probably enough.
+We are actually, we got like 15 more minutes before we hit that four o'clock marker. I know Roz wanted to talk more about the interview section, so I'm going to give the floor to her real quick.
+
+## Roz Dimon [01:39:46](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=5986s)
+
+Hi, everybody. Yeah, and they kind of, it kind of segs, thanks Davo, it kind of segs because into this one naturally as well. Because in the beginning, the early collaborations that Davo set up, one of the suggested things that you would do was to have an interview with each other in case you haven't read the specs yet. And so Nagin and I had one, I mean, she's was over in Abu Dhabi and here I am, you know, in New York. And that was really wonderful way to get to know each other. But now that we are starting an interview series, I kind of think that, you know, if you don't, I agree with Colin, if you don't get to that, you know, it's really about an art collaboration. Right. Right. Yeah. But you can always chat via email and, you know, we all have full lives. So I got it. And I did find that our interview, I looked back on it, it's very interesting and cordial with each other.
+
+But that's what we thought it might be nice to have an interview thing where it's longer than five minutes, where you really get to know a little bit more about an artist. But it is, I will now, I think I'm going to share my screen. That's all right, Davo. I'm going to go ahead and do that. This is not going to be my art. This is just the interview. What we came up with Colin, just kind of suggested. Suggested guideline, because I'm not going to be the interviewer every time. Hello. I have a life too, even though it is interesting and fun. But I, these are suggested guidelines for you to pick someone else in the group and make a, you know, do one yourself. I'm just going to share my screen this time. I'll remember to click share. I always forget to do that. Anyway. All right. So I have it on the screen.
+
+Can everybody see it?
+
+## Unattributed [01:41:22](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6082s)
+
+Yep. Great.
+
+## Roz Dimon [01:41:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6084s)
+
+So I'm just going to read it. So Techspressionist artist interview series suggested. These are suggested, but I would strongly suggest we stick to it. Or if we think something's really missing, of course, like everything in this group, which I like, it's very, it's a group, you know, it's not an hierarchical kind of thing. So a length, we thought though, 15, 20 minutes, probably enough.
 
 You know, attention span nowadays is about five seconds. So that's probably good. Interviewer begins and sets the stage. I mean, this is just for people who might want a little help in thinking about how, how they're going to interview someone. And here's an example. Today's January 22nd. I'm going to be interviewing Colin this Friday. So he's going to be the first interview. So that'll be fun for you to watch and see. And also figure out things that might be missing and better in the future. My name is Roz Dimon. I'm an artist who's been working with technology. Introduce who you are just a little bit because it's about the other person, but they still want to know a little about you. And I'm here today with Tech Specialism founder and artist Colin Goldberg. You know, find out from your other person.
 
@@ -308,16 +1170,120 @@ How they want to be introduced. One, tell us about your background really quickl
 
 No more than 10 paint pieces, again all suggestions. Five, what interests you about expressionism? Six, what are you working on now? Share screen again or keep it on. How do you see the future of art? I think these are a good, pretty good set of questions, and I guess Devo, what do you, or Colin, where do you think we should post these for people?
 
-In Discord? I mean, I could definitely set up a page on the site too for interviews where we could have a downloadable document, and then once there are interviews, we can post them on the site. I think that's a good way to do that. I think that's a great way to do that. So if there are interviews that are generated, I can embed them on that page the way that I embedded this salon. And I think that the videos will live both within our YouTube channel and also on individual pages on the site. So people can get to them quickly either way. And at some point, if anybody who's a video person and is really into YouTube wants to help curate the YouTube channel and or any other social channels, you know, feel free to just drop me a line. I know like Skojo, who he actually had some medical issues he had to deal with today, but he volunteered to, you know, help out with a Pinterest account for Techspressionism.
+In Discord?
+
+## Colin Goldberg [01:43:39](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6219s)
+
+I mean, I could definitely set up a page on the site too for interviews where we could have a downloadable document, and then once there are interviews, we can post them on the site. I think that's a good way to do that. I think that's a great way to do that. So if there are interviews that are generated, I can embed them on that page the way that I embedded this salon. And I think that the videos will live both within our YouTube channel and also on individual pages on the site. So people can get to them quickly either way. And at some point, if anybody who's a video person and is really into YouTube wants to help curate the YouTube channel and or any other social channels, you know, feel free to just drop me a line. I know like Skojo, who he actually had some medical issues he had to deal with today, but he volunteered to, you know, help out with a Pinterest account for Techspressionism.
 
 So he's going to start like tagging people. And, you know, anybody who has an interest or sort of facility with a particular platform, certainly, you know, feel free to jump in. And, you know, if you if you're so inclined, you know, to anyone will add them to our social links. We have, you know, a bunch already. I mean, the Twitter account right now is just hooked up through this, if then that service to repost Instagram images. But, you know, if there's someone who's really active, you know, you can just go to their social media and they'll be able to get their own account. And if you're active on Twitter, for instance, I'm not, but someone who's kind of up on what's going on and wants to retweet and run the account, you know, by all means, I'm happy to get it off out of my hands. And that can be said for any of the other platforms also.
 
+## Roz Dimon [01:45:33](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6333s)
+
 I did want to say the interview, I'm not a videographer. Even my animated pieces are really going inside a painting. They're not videos. But I don't know if I read this, but the suggested thing was that you just do it on Zoom with someone. And, you know, you keep it. That's what's wonderful about this thing. It's a little casual. You don't have to make this a beautifully crafted. You don't have to do this video and go back and edit it. It's kind of a fun, especially with the guideline questions, you know, you just kind of a casual conversation with someone else and put it up, you know, record your Zoom session and give it that makes it a video. So that's a really easy way for because no one would do it if we had to get to a full production, you know, video.
 
-People might, but some people might be able to do it. But does anybody have any questions before we get going here about it? I guess we'll just jump in and see how it goes with Colin. He said the guinea pig. I'll be the guinea pig. You know, and I would say like, you know, the way that I kind of, when you propose this, I thought, well, that's kind of cool, because I bet that like everybody in the group could scroll through the artist list. And find somebody that they're like, wow, that person's work looks really interesting. I want to, you know, I want to find out more about it. Or they look at their site and they're like, huh, that's, you know, that's a cool way of looking at things or whatever. So that way, you know, anybody that really has an interest in another artist that's in the group can then drop them a line and ask them if they want to do an interview.
+People might, but some people might be able to do it. But does anybody have any questions before we get going here about it? I guess we'll just jump in and see how it goes with Colin. He said the guinea pig.
 
-And then once it's recorded, I'm trying to think of the best way to actually get it published. I mean, probably it just, you know, you could message me or email me directly. And I can add you as a, you know, an editor, admin, or somebody that basically has upload privileges to the YouTube channel. And that might be the simplest way rather than having someone as like, you know, a point person where it needs to be drop boxed and then uploaded. I'm cool with like giving anybody that wants to take the time to produce and record an interview.
+## Colin Goldberg [01:46:34](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6394s)
+
+I'll be the guinea pig. You know, and I would say like, you know, the way that I kind of, when you propose this, I thought, well, that's kind of cool, because I bet that like everybody in the group could scroll through the artist list. And find somebody that they're like, wow, that person's work looks really interesting. I want to, you know, I want to find out more about it. Or they look at their site and they're like, huh, that's, you know, that's a cool way of looking at things or whatever. So that way, you know, anybody that really has an interest in another artist that's in the group can then drop them a line and ask them if they want to do an interview. And then once it's recorded, I'm trying to think of the best way to actually get it published. I mean, probably it just, you know, you could message me or email me directly.
+
+And I can add you as a, you know, an editor, admin, or somebody that basically has upload privileges to the YouTube channel. And that might be the simplest way rather than having someone as like, you know, a point person where it needs to be drop boxed and then uploaded. I'm cool with like giving anybody that wants to take the time to produce and record an interview.
+
+## Roz Dimon [01:47:51](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6471s)
 
 And that's it. And you're all going to be put in the same place. So I'm just very happy to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that.
 
-And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. Of that I could add to the interview page too that just explains from a technical standpoint like how somebody who's never done a Zoom recording or oh like maybe the right steps how to get into Zoom what to I mean yeah I think that the you know the questions are definitely important but I think the technical component of how to actually you know how someone who's never produced a video interview on a platform like this can just follow us a set of instructions and end up with a file you know and I could even work with you on that sure why don't we do that by the way just putting this out there if you want to if you want to do an interview and you don't necessarily want to use Zoom I can actually if you go into discord and you use you stream just like this like your audio video and that can be streamed I can actually capture that recording too like I have the software to do that from discord like it's not functionality in discord itself it's software that I use anyway but I can also do that in case somebody doesn't want to actually use zoom to do anything yeah like just video recorder actually you know yeah so if you want to do your interview in discord and I can record it for you and so I can pass that off to colin or whomever wants to upload to the YouTube that can be also an option one thing I was thinking about too raj when we were talking about I have to go about two minutes I have another zoom and I just okay yeah I was just thinking like if artists are able to present work off of their site and then they say it's accessible at whatever the web address is then it's going to drive more interest I think because then users at home can go to your site check out that section of work and explore it a little further you know what I mean I say that again sharing off your desktop you say your site during the video is that what you're saying or you know if you have work on your site that you want to share I think that might actually work better as a way to show the world your work because rather than sharing work off of your local machine because then users at home could go to your website and check it out further you know it's yeah using it would be using your site as a platform that's a good idea presentation yeah yep okay I've enjoyed being here I'm sorry I gotta get to my poetry zoom bye see ya all right I do believe we have covered everything or mostly everything that we wanted to cover if I have that correct right colin I think so I mean we had this whole other component planned out but I think we need to come back and start working on this next chapter I think so I mean we had this whole other component planned out but I think we need to come back and start working on this next chapter of like some sort of topic but ultimately it seems like there's enough actual sort of functional pieces that you know I feel like the big group needs to make these sort of decisions together right so it's a good use of time I think and does everyone feel like the way that the time has been divided up in the session makes sense as far as five artists roughly five ish minutes minutes per artist and then intros and then sort of a you know functional conversation yes I think that seems good okay so this is probably going to be the format going forward for the rest of these salons so that's what the aim was just have a more cohesive more organized way to conduct these meetings every two weeks but if everyone has on board and doesn't have any critiques or if you do let us know but with that being said I think we can probably close out this meeting like the formal part of the meeting and Davo I just wanted to say thank you very much for moderating you did an amazing job well thank you if you if you're interested in continuing modding you know by all means I'm happy to you know it gives it gives me a reason to use my radio voice as it's been called apparently all right then so that being said it's about that time to close out the meeting you're welcome to hang out and chat after the recording ends which I'm about to end now it's been a great session so far and we will reconvene in two weeks and until then you're welcome to join us on discord which I did drop the link if you need again I'll drop it again and yeah recording is going to end now as soon as I find the button there we go
+And I'm going to see that you're going to do that. And I'm going to see that you're going to do that. And I'm going to see that you're going to do that.
+
+## Colin Goldberg [01:48:07](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6487s)
+
+And I'm going to see that you're going to do that. Of that I could add to the interview page too that just explains from a technical standpoint like how somebody
+
+## Roz Dimon [01:48:21](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6501s)
+
+Who's never done a Zoom recording or oh like maybe the right steps how to get into Zoom what to I
+
+## Colin Goldberg [01:48:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6507s)
+
+Mean yeah I think that the you know the questions are definitely important but I think the technical component of how to actually you know how someone who's never produced a video interview on a platform like this can just follow us a set of instructions and end up with a file you know and I could even work with you on that sure
+
+## Unattributed [01:48:48](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6528s)
+
+Why don't we do that by the way just
+
+## Davonte Bradley [01:48:52](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6532s)
+
+Putting this out there if you want to if you want to do an interview and you don't necessarily want to use Zoom I can actually if you go into discord and you use you stream just like this like your audio video and that can be streamed I can actually capture that recording too like I have the software to do that from discord like it's not functionality in discord itself it's software that I use anyway but I can also do that in case somebody doesn't want to actually use zoom to do anything yeah
+
+## Unattributed [01:49:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6567s)
+
+Like
+
+## Roz Dimon [01:49:27](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6567s)
+
+Just video recorder actually you know yeah so
+
+## Davonte Bradley [01:49:31](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6571s)
+
+If you want to do your interview in discord and I can record it for you and so I can pass that off to colin or whomever wants to upload to the YouTube that can be also an option
+
+## Colin Goldberg [01:49:42](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6582s)
+
+One thing I was thinking about too raj when we were talking about I have to go about two minutes I have another zoom and I just okay yeah I was just thinking like if artists are able to present work off of their site and then they say it's accessible at whatever the web address is then it's going to drive more interest I think because then users at home can go to your site check out that section of work and explore it a little further you know what I mean I
+
+## Unattributed [01:50:11](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6611s)
+
+Say that again sharing
+
+## Colin Goldberg [01:50:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6613s)
+
+Off your desktop
+
+## Roz Dimon [01:50:13](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6613s)
+
+You say your site during the video is that what you're saying or
+
+## Colin Goldberg [01:50:17](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6617s)
+
+You know if you have work on your site that you want to share I think that might actually work better as a way to show the world your work because rather than sharing work off of your local machine because then users at home could go to your website and
+
+## Unattributed [01:50:35](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6635s)
+
+Check it out further you know it's yeah using it would be using your site as a platform that's a good idea presentation yeah yep
+
+## Roz Dimon [01:50:42](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6642s)
+
+Okay I've enjoyed being here I'm sorry I gotta get to my poetry zoom bye
+
+## Davonte Bradley [01:50:49](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6649s)
+
+See ya all right I do believe we have covered everything or mostly everything that we wanted to cover if I have that correct right colin I think
+
+## Colin Goldberg [01:51:02](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6662s)
+
+So I mean we had this whole other component planned out but I think we need to come back and start working on this next chapter I think so I mean we had this whole other component planned out but I think we need to come back and start working on this next chapter of like some sort of topic but ultimately it seems like there's enough actual sort of functional pieces that you know I feel like the big group needs to make these sort of decisions together right so it's a good use of time I think and does everyone feel like the way that the time has been divided up in the session makes sense as far as five artists roughly five ish minutes minutes per artist and then intros and then sort of a you know functional conversation
+
+## Unattributed [01:51:36](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6696s)
+
+Yes I think that seems good okay
+
+## Davonte Bradley [01:51:40](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6700s)
+
+So this is probably going to be the format going forward for the rest of these salons so that's what the aim was just have a more cohesive more organized way to conduct these meetings every two weeks but if everyone has on board and doesn't have any critiques or if you do let us know but with that being said I think we can probably close out this meeting like the formal part of the meeting
+
+## Colin Goldberg [01:52:09](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6729s)
+
+And Davo I just wanted to say thank you very much for moderating you did an amazing job well
+
+## Unattributed [01:52:15](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6735s)
+
+Thank you
+
+## Colin Goldberg [01:52:16](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6736s)
+
+If you if you're interested in continuing modding you know by all means I'm happy to you
+
+## Davonte Bradley [01:52:24](https://www.youtube.com/watch?v=wyAHD-HTAfM&t=6744s)
+
+Know it gives it gives me a reason to use my radio voice as it's been called apparently all right then so that being said it's about that time to close out the meeting you're welcome to hang out and chat after the recording ends which I'm about to end now it's been a great session so far and we will reconvene in two weeks and until then you're welcome to join us on discord which I did drop the link if you need again I'll drop it again and yeah recording is going to end now as soon as I find the button there we go

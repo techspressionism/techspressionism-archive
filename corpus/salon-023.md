@@ -23,31 +23,81 @@ languages: ["en"]
 
 Hello. That recording in progress message always gets me a little bit. So loud. Well, hello, everyone, and welcome to our Techspressionum salon number 23, I believe, right? Yes. The day is August 3rd, 2021, and I mentioned my cat earlier, and here he is again. Okay. There we go. All right. My name is Davonte Bradley, otherwise known as Davo. I'm your moderator for this salon.
 
-Joining me is Colin, who coined the term Techspressionism, and our host of wonderful artists, including two that are presenting today, which would be Rebecca Tombaugh and Cynthia. Oh, God, I don't want to butcher your last name. D. Donato? D. Donato. D. Donato. Got it. Okay. I should have practiced that before, but you know what? I like to do it on the fly, apparently.
+Joining me is Colin, who coined the term Techspressionism, and our host of wonderful artists, including two that are presenting today, which would be Rebecca Tombaugh and Cynthia. Oh, God, I don't want to butcher your last name. D. Donato?
 
-Anyway, before we get started, I actually want to share something with you all. I don't know why, but for whatever reason, like the past two or three salons now, I've developed a little bit of anxiety going into these meetings. And I have no idea why. I know that the climate has changed from our first couple of salons, which were very cozy, by the way. I think we averaged around like 8 to 12. And then we, like the past couple, we hit like 36 and around that number. So there was a lot more participants in salons. But the general format hasn't changed. But for whatever reason, in my mind, something has changed, and it's like anxiety-inducing.
+## Cynthia DiDonato [00:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=58s)
+
+D. Donato.
+
+## Davonte Bradley [00:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=59s)
+
+D. Donato. Got it. Okay. I should have practiced that before, but you know what? I like to do it on the fly, apparently. Anyway, before we get started, I actually want to share something with you all. I don't know why, but for whatever reason, like the past two or three salons now, I've developed a little bit of anxiety going into these meetings. And I have no idea why. I know that the climate has changed from our first couple of salons, which were very cozy, by the way. I think we averaged around like 8 to 12. And then we, like the past couple, we hit like 36 and around that number. So there was a lot more participants in salons. But the general format hasn't changed. But for whatever reason, in my mind, something has changed, and it's like anxiety-inducing.
 
 Don't know why. That would definitely. Explain why. At least I know for the last meeting, I might have jumbled up things and tried to speed through or I might have come across a little nervous. But that's that. Just wanted to share that with you all in case something might seem a little bit off with my typical moderation stuff.
 
-But yeah, just bear with me. I'll get there. Whatever this is. You're doing a great job, dude. We haven't picked up on it. Not at all, Davo. I guess we were all. Well, thank you. I guess we are our own worst critics, I guess. Yeah, you're doing fine. Well, thank you. Thank you very much. Okay. That out of the way now.
+But yeah, just bear with me. I'll get there. Whatever this is. You're doing a great job, dude.
 
-Yes, my wife is over there smiling at me now. We do have our typical format. I'm sorry? I'm inspired from you, rather, I should say. I have sent out. Well, thank you. Thank you very much. Oh, speaking of Malavika. She actually has a collaboration project of her own that she's starting soon. We'll be able to talk a little bit about that a bit later after the presentations. But I want to make sure to give her a little bit of time after the presentation so that she can plug her project and we can get that going.
+## Chalda Maloff [02:22](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=142s)
+
+We haven't picked up on it. Not at all, Davo.
+
+## Davonte Bradley [02:25](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=145s)
+
+I guess we were all. Well, thank you. I guess we are our own worst critics, I guess.
+
+## Lee Musgrave [02:33](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=153s)
+
+Yeah, you're doing fine.
+
+## Davonte Bradley [02:34](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=154s)
+
+Well, thank you. Thank you very much. Okay. That out of the way now. Yes, my wife is over there smiling at me now. We do have our typical format. I'm sorry?
+
+## Unattributed [02:50](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=170s)
+
+I'm inspired from you, rather, I should say. I have sent out.
+
+## Davonte Bradley [02:55](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=175s)
+
+Well, thank you. Thank you very much. Oh, speaking of Malavika. She actually has a collaboration project of her own that she's starting soon. We'll be able to talk a little bit about that a bit later after the presentations. But I want to make sure to give her a little bit of time after the presentation so that she can plug her project and we can get that going.
 
 If you are new here, is this your first salon? The typical format is we have our little in-person salon. Introduction. We then have our two artists present and it's Rebecca and Cynthia today. Their presentations will span about 30 minutes or so each and then we'll have like a 15 or so minute Q&A and then after that it's kind of a free-for-all discussion with anything and all things related to art, the movements, and news, whatever pertinent to the things that we care about. It gets discussed during that time. We've been using it to just talk about the presentations still but it's up it's like it's free space.
 
 And then I don't think I don't think we have any other new oh I know Michael has a new project as well that he will give him time to talk about too so both Malavika and Michael have something that they would like to share with us at their presentations so keep that in mind. All right and now without further ado I typically have been you know reading off the introduction list for from the Zoom meetings with introducing the presenters but I don't want to seem robotic as I'm reading them so I'm just going to like pass off the mic again.
 
-So I think we'll have Rebecca are you fine with going first? Is that fine? Yeah I can do that. Okay cool all right well everyone welcome
+So I think we'll have Rebecca are you fine with going first? Is that fine?
 
-## Rebecca Tombaugh [04:50](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=290s)
+## Rebecca Tombaugh [04:45](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=285s)
 
-Rebecca you have the floor. Okay well thanks for having me. I've been watching the salons and I'm just really thrilled and amazed with all the work and I was so glad to find this group of people because of the stuff I'm doing and you know being able to be with other artists doing this kind of stuff so what I'm going to do is click through some of my work and let you know who I am and then I'm going to go right into my virtual reality paintings which is the new thing I've been doing. Okay so I'm going to go right into my virtual reality paintings which is the new thing I've been doing. And then at the very end I have a little short little demo that will actually show you how I paint. So let me start off saying that I don't have any credentials. I have no training. I don't know what I'm doing.
+Yeah I can do that.
+
+## Davonte Bradley [04:47](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=287s)
+
+Okay cool all right well everyone welcome Rebecca you have the floor.
+
+## Rebecca Tombaugh [04:52](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=292s)
+
+Okay well thanks for having me. I've been watching the salons and I'm just really thrilled and amazed with all the work and I was so glad to find this group of people because of the stuff I'm doing and you know being able to be with other artists doing this kind of stuff so what I'm going to do is click through some of my work and let you know who I am and then I'm going to go right into my virtual reality paintings which is the new thing I've been doing. Okay so I'm going to go right into my virtual reality paintings which is the new thing I've been doing. And then at the very end I have a little short little demo that will actually show you how I paint. So let me start off saying that I don't have any credentials. I have no training. I don't know what I'm doing.
 
 But I've been painting and drawing and sculpting and everything all my life. About 10 years ago I started putting my stuff into the galleries here in Kansas City. It's a real art town and I started selling stuff. I started getting some awards, you know, and just having fun and join some plein air groups where the real artists are.
 
-So I hang out with a lot of people that are very traditional artists. And you'll see my style I just kind of made it up. So I'll just start in with that and this is let's see, I got to share screen to so hold on a sec. By the way, folks. I know it goes without saying, but please keep your questions and Mike muted during the duration of the presentation. You can feel free to leave your questions in the chat. If you feel the need to. So you don't lose your thought. But yeah.
+So I hang out with a lot of people that are very traditional artists. And you'll see my style I just kind of made it up. So I'll just start in with that and this is let's see, I got to share screen to so hold on a sec.
 
-Just be respectful. Are you seeing A 7-Eleven? Yep, seeing it. Okay, so This is going to sound weird and I don't normally share this, but I'm going to share it with you guys because I know you'll you won't laugh too hard. So I think you're about 10 years ago, I had a dream that I was painting with calligraphy pens and ink. And it was so vivid that the next day I went out to a craft store and I got a bunch of calligraphy pens and ink. And as soon as I started, you know, whirling my hands around, it was like, wow, this is me.
+## Davonte Bradley [06:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=381s)
+
+By the way, folks. I know it goes without saying, but please keep your questions and Mike muted during the duration of the presentation. You can feel free to leave your questions in the chat. If you feel the need to. So you don't lose your thought. But yeah.
+
+## Rebecca Tombaugh [06:37](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=397s)
+
+Just be respectful. Are you seeing A 7-Eleven?
+
+## Davonte Bradley [06:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=402s)
+
+Yep, seeing it.
+
+## Rebecca Tombaugh [06:43](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=403s)
+
+Okay, so This is going to sound weird and I don't normally share this, but I'm going to share it with you guys because I know you'll you won't laugh too hard. So I think you're about 10 years ago, I had a dream that I was painting with calligraphy pens and ink. And it was so vivid that the next day I went out to a craft store and I got a bunch of calligraphy pens and ink. And as soon as I started, you know, whirling my hands around, it was like, wow, this is me.
 
 And so this is something I've been doing for, you know, about 10 years. I call them inkings because they're kind of ink and painting so this is a 7-eleven this is plein air stuff I do this is a guy fishing on the river adding some brushes with the with the pens and I used my ink straight on. I don't mix any colors because I really don't know how. Don't know about mediums, all that kind of stuff, so I just paint right out of the bottle.
 
@@ -55,69 +105,279 @@ This is the skyline of Kansas City and you can see I'm using brush and the calli
 
 So this is a 15-foot mural I did for a company and this was right before the pandemic. This was the very last thing I had done. So then the pandemic hit and it really made me depressed. So I started painting snow fences. I don't know why. I painted 300 or so of these. I just couldn't paint in color.
 
-Then I started doing this is my granddaughter with a firefly. Oh, Rebecca? Yeah. Are you showing new images or are you still showing the mural? Yes. It's not showing the new...oh. Let me go back. Okay. Yeah, because it's still showing the mural. Do you see snow fence now? Uh-uh. Let me close. Let's see.
+Then I started doing this is my granddaughter with a firefly.
 
-How about now? You might just need to reshare the screen. Snow fence? Not yet. How about now? Go back to the Zoom window and re-click the share screen button. Okay. Make sure you're sharing screen one. You could just minimize that. Yep. There we go. Okay. Yep. Okay. So here we go. Snow fence. I started painting snow fences and I did about 300 something of these things.
+## Davonte Bradley [09:23](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=563s)
 
-Okay. Yep. Okay. And then I started painting my granddaughter with a firefly, all black and white. I just, I couldn't paint with color mentally. Then I started doing horses for some reason. And followed with ballerinas. Whoops. And so this is where I'm at now. So I'm back to horses, but they're in color.
+Oh, Rebecca? Yeah. Are you showing new images or are you still showing the mural?
 
-And they're moving around a little bit. Now this will kind of go into the VR painting when we get into it. So at the same time, I'm going to go back to the VR painting. So at the same time during the pandemic, my granddaughter, just as a way for us to do stuff together, she started playing. She taught me how to play video games, which I hadn't done for a long time. So let's see. Are you seeing a spider?
+## Unattributed [09:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=570s)
+
+Yes. It's not showing the new...oh.
+
+## Rebecca Tombaugh [09:33](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=573s)
+
+Let me go back. Okay.
+
+## Davonte Bradley [09:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=575s)
+
+Yeah, because it's still showing the mural.
+
+## Rebecca Tombaugh [09:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=579s)
+
+Do you see snow fence now?
+
+## Davonte Bradley [09:41](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=581s)
+
+Uh-uh.
+
+## Rebecca Tombaugh [09:43](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=583s)
+
+Let me close. Let's see. How about now?
+
+## Davonte Bradley [09:49](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=589s)
+
+You might just need to reshare the screen.
+
+## Rebecca Tombaugh [09:56](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=596s)
+
+Snow fence?
+
+## Unattributed [09:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=598s)
+
+Not yet. How about now?
+
+## Davonte Bradley [10:09](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=609s)
+
+Go back to the Zoom window and re-click the share screen button. Okay. Make sure you're sharing screen one.
+
+## Unattributed [10:26](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=626s)
+
+You could just minimize that. Yep. There we go. Okay. Yep.
+
+## Rebecca Tombaugh [10:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=636s)
+
+Okay. So here we go. Snow fence. I started painting snow fences and I did about 300 something of these things. Okay. Yep. Okay. And then I started painting my granddaughter with a firefly, all black and white. I just, I couldn't paint with color mentally. Then I started doing horses for some reason.
+
+And followed with ballerinas. Whoops. And so this is where I'm at now. So I'm back to horses, but they're in color. And they're moving around a little bit. Now this will kind of go into the VR painting when we get into it. So at the same time, I'm going to go back to the VR painting. So at the same time during the pandemic, my granddaughter, just as a way for us to do stuff together, she started playing. She taught me how to play video games, which I hadn't done for a long time. So let's see. Are you seeing a spider?
 
 This is me being the spider after earning 10,000 or so points in Roblox. Around Christmas time. This is me. I was buying. I was buying accessories and clothes for my avatar and really got into it. And so about that time, I, you know, the Oculus and the virtual reality things were coming out. So my daughter gave me that so I could do virtual reality with my granddaughter.
 
 And so we were doing that and she was teaching me. And she said, you know, there's a, I think there's a painting app. And so I went into that. And it was like, sometimes, you know, as an artist, you stumble into something and it just really clicks. Well, that's how it was for me. And this is the very first.
 
-Are you seeing this? Yep. Okay. This is the very first virtual reality painting I did. And I'm actually walking through my painting. And this was, this is, I showed you my Kansas city landscape because that's what this is. I did a Kansas city landscape. And this one, I actually got into the show with the international society of experimental artists. This is was accepted into a show that's going to be going on in September.
+Are you seeing this?
+
+## Unattributed [12:34](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=754s)
+
+Yep.
+
+## Rebecca Tombaugh [12:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=755s)
+
+Okay. This is the very first virtual reality painting I did. And I'm actually walking through my painting. And this was, this is, I showed you my Kansas city landscape because that's what this is. I did a Kansas city landscape. And this one, I actually got into the show with the international society of experimental artists. This is was accepted into a show that's going to be going on in September.
 
 Ever since I started doing this, I, I tried to get my virtual reality paintings. And I'm really glad that I got my virtual reality paintings submitted to the traditional galleries and was really having a hard time. That cause I would send a still photo and say, well, if somebody, you know, quote buys the painting, I will send them a link. And they can walk through the painting themselves.
 
 But it was, it, you know, unless you kind of do it, it, it maybe doesn't make enough sense. And also I said, rather than do like an NFT, which I'm not a fan of. I haven't really gotten ahold of that completely just yet. I thought instead of, you know, somebody owning it outright for money, why not share it with everybody? Because anytime I send a link, it's like, everybody has not a copy or a print. They have an exact original. And so, you know, for a dollar, everybody can own their own painting.
 
-But nobody has bought a link yet though. Okay. This is another one where I took one of my sketches of a flower and I uploaded it into the program and then I painted on top of it. And what was cool about this was I'm going to kind of fast forward through it. You can go above and below. A plane. And in this case, the plane is my, my own sketch.
+But nobody has bought a link yet though. Okay. This is another one where I took one of my sketches of a flower and I uploaded it into the program and then I painted on top of it.
 
-So again, I, this is, you know, I was just making it up and putting my own sketch in there. It was kind of like my reference material, but it was, it's really cool when you can paint something and then walk through it. And the program here, you can see it's Gravity Sketch and it is free. It's typically used by people that are designing cars and shoes and, you know, things like that. But I think it's totally suited for fine artists. And that's, I've been trying to get all my friends, you know, fine artists to jump into some of these programs that were not meant for us. And I post all these things on the Gravity Sketch community pages too, because, you know, they're painting a lot of the stuff they do too, or for, for gaming. But, you know, I think it's totally suited for fine artists. You know, I think it's just fabulous for fine artists.
+## Unattributed [14:32](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=872s)
 
-There's just an infinite space there. And it's, for me, I found it very freeing and easy to do. Now here's one where I didn't use reference material. I just started doing some abstract stuff and ended up making all these circles and then walking through them. This is called Thoughts of a Painter. This is called Thoughts and Feelings and... Oh, oh, the last one of the Ballerina. I did get that into a traditional gallery just recently for the dollar link, although nobody's bought one yet.
+And what was cool about this was I'm going to kind of fast forward through it. You can go above
+
+## Rebecca Tombaugh [14:43](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=883s)
+
+And below. A plane. And in this case, the plane is my, my own sketch. So again, I, this is, you know, I was just making it up and putting my own sketch in there. It was kind of like my reference material, but it was, it's really cool when you can paint something and then walk through it. And the program here, you can see it's Gravity Sketch and it is free. It's typically used by people that are designing cars and shoes and, you know, things like that. But I think it's totally suited for fine artists. And that's, I've been trying to get all my friends, you know, fine artists to jump into some of these programs that were not meant for us. And I post all these things on the Gravity Sketch community pages too, because, you know, they're painting a lot of the stuff they do too, or for, for gaming.
+
+But, you know, I think it's totally suited for fine artists. You know, I think it's just fabulous for fine artists. There's just an infinite space there. And it's, for me, I found it very freeing and easy to do. Now here's one where I didn't use reference material. I just started doing some abstract stuff and ended up making all these circles and then walking through them. This is called Thoughts of a Painter. This is called Thoughts and Feelings and... Oh, oh, the last one of the Ballerina. I did get that into a traditional gallery just recently for the dollar link, although nobody's bought one yet.
 
 And this is my latest one and this is for... I've got this submitted. It hasn't been accepted yet. This has been the most, I don't know, more, more intricate, time consuming one that I've done. This is my own photo. And then I painted on top of it. It's the Flint Hills of Kansas, which is this natural prairie. And I was trying to create the feeling of vastness of a prairie out there. And I painted this on the photo and then I deconstructed it because in this program, you can grab a hold of things and move sections. You can grab a hold of things and just instantly change colors.
 
-And for me, a person that does a lot of scribbling, it's so responsive. And I think too, that even though it's kind of an artificial environment, I think the human hand and that part of art still comes through. So anyway, I'm gonna kind of forward through this a little bit more. There's my cow. But I don't know if it's, I'm gonna walk through this photo and go to the other side. And I'm hoping that this gives you the feeling of space and time and vastness of the Flint Hills. Well, let me go a little bit further.
+And for me, a person that does a lot of scribbling, it's so responsive. And I think too, that even though it's kind of an artificial environment, I think the human hand and that part of art still comes through. So anyway, I'm gonna kind
 
-So this is the Flint Hills of Kansas. And these are actual you know I'm recording myself walking through this but in reality there's you know I've got a headset on and I'm in the back bedroom walking in a little space of maybe three by three but I have the feeling that I'm walking through this painting And so like in the background there, that's like, you know, the Flint Hills.
+## Unattributed [17:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1056s)
 
-Okay. So now, okay, now this is, oh, I started doing horses, of course. I think I'm up to the demo. Yeah, okay. Okay, so this is, if you were actually in Gravity Sketch, you would have a clipboard and you've got, you know, the hand things. And you can click on these different things. You can upload your own pictures, photos, and there I'm gonna use one of my paint inking as reference material. I'm gonna expand it so I can see better.
+Of forward through this a little bit more. There's my cow. But I don't know if it's, I'm gonna walk through this photo
 
-And you're seeing a warehouse space, but there's all, you can customize your own space. You can just have a white space, blue space, any kind of space you can imagine. There's the color wheel, which I really love because you see how quickly I can move and choose colors. And there I'm actually painting on top of it.
+## Rebecca Tombaugh [17:52](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1072s)
 
-And you can see I know that I'm also using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. The color wheel to make it moreover. The color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. You can see how I paint there.
+And go to the other side. And I'm hoping that this gives you the feeling of space and time and vastness of the Flint Hills. Well, let me go a little bit further.
 
-And then I think here in a second, I'm going to grab a hold of something and pull it out. Yeah, I'm going to remove my reference material and there is the 3D virtual reality. There, and see how I can expand it larger, smaller. Now I'm going to deconstruct it. I can pull things out. It also has an undo button that you can undo anything, clear back to the beginning.
+## Unattributed [18:08](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1088s)
 
-You can rotate it. And there I'm going to put the, kind of put it back together. Because I think sometimes, if you have something flat, you can see what you've done. I'm saving it. You can export it. You can live stream your painting. You can post it anywhere. As you would with any video, you can do stuff with the virtual reality.
+So this is the Flint Hills of Kansas.
 
-So that's, that's kind of what I'm doing in the back bedroom. So that's, that's kind of the end of my, my thing. All right. Well, thank you very much, Rebecca. I actually empathize with your, the way you started too, because, again, no, no formal tutelage or anything like that. And finally enough, the first thing I started creating with my artwork early on, like last year were something that I called ink plays because I was using the like expanded Chrome ink pen and, and the software that I was using. So I was like, ah, I know that feeling. So thank you. I do want to say that I recently joined the international society of experimental artists. And they, there's many artists there. They have like 400 members and so many of them are doing things that would fit in the movement. And I posted this invitation on there.
+## Rebecca Tombaugh [18:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1101s)
 
-So I think there's, there's a lot of people that might be interested in this. Gotcha. Also, you don't have anything else to share with your screen right now. Do you? No. All right. We'll go ahead and there we go. Okay. All right. Now let's open up the floor for discussion. And let's see, let's see, let's see.
+And these are actual you know I'm recording myself walking through this but in reality there's you know I've got a headset on and I'm in the back bedroom walking in a little space of maybe three by three but I have the feeling that I'm walking through this painting
 
-Somebody was asking if you use tilt brush, but we already answered what you're using. It's called a gravity brush, correct? It's called gravity sketch. I have a tilt brush and there's another one I'm using. It's I'm probably not using the right term. I'm like an early adapter of painting VR. They're still working it and I think it's 999. I kind of like that tilt brush, you know, is okay. But gravity sketch for me just seems more suited for fine artists.
+## Unattributed [18:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1124s)
 
-Gotcha. Oh, by the way, folks, if you do have any questions, feel free to use the raise hand functionality or reaction with zoom. So we can get to you in order. Oh, our Lee can raise his actual hand. I would I would use the hand thing if I could find it on my screen. My question is what when you make those freehand sketches and then you float around in them using that program, is it possible for you to stop and sort of capture one particular perspective and then make a print of it? Yes. Yes, you can while you're in there, you can take a screenshot or snapshot, a little camera will pop up and you can take a picture of anything you want and export that and yes, make a print of anything. The only problem that I've seen with that and I tried to do that at first is the spatialness of virtual reality just doesn't translate to 2D very well.
+And so like in the background there, that's like, you know, the Flint Hills. Okay.
 
-Like it's just so flat and that's why I started making the videos. And at first I was just you can sit in a chair and do this. I just be sitting and I would turn I would rotate my objects and still it was like you just it looks like a sculpture or something. So when I actually stood up and started walking, you know through it and around and everything that's when I started getting this the same feeling in the videos that I get when I'm in this program. So the answer is yes.
+## Rebecca Tombaugh [18:54](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1134s)
+
+So now, okay, now this is, oh, I started doing horses, of course. I think I'm up to the demo. Yeah, okay. Okay, so this is, if you were actually in Gravity Sketch, you would have a clipboard and you've got, you know, the hand things. And you can click on these different things. You can upload your own pictures, photos, and there I'm gonna use one of my paint inking as reference material.
+
+## Unattributed [19:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1170s)
+
+I'm gonna expand it so I can see better.
+
+## Rebecca Tombaugh [19:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1176s)
+
+And you're seeing a warehouse space, but there's all, you can customize your own space. You can just have a white space, blue space, any kind of space you can imagine. There's the color wheel, which I really love because you see how quickly I can move and choose colors.
+
+## Unattributed [20:00](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1200s)
+
+And there I'm actually painting on top of it. And you can see I know that I'm also using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. The color wheel to make it moreover. The color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover.
+
+## Rebecca Tombaugh [20:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1224s)
+
+And you can see that I'm actually using the color wheel to make it moreover. And you can see that I'm actually using the color wheel to make it moreover. And you can see that I'm actually using the color wheel
+
+## Unattributed [20:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1236s)
+
+To make it moreover. You can see how I paint there. And then I think here in a second, I'm going to grab a hold of something and pull it out. Yeah, I'm going to remove my reference material and there is the 3D virtual reality. There, and see how I can expand it larger, smaller.
+
+## Rebecca Tombaugh [21:29](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1289s)
+
+Now I'm going to deconstruct it. I can pull things out.
+
+## Unattributed [21:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1295s)
+
+It also has an undo button that you can undo anything, clear back to the beginning. You can rotate it. And there I'm going to put the, kind
+
+## Rebecca Tombaugh [21:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1319s)
+
+Of put it back together. Because I think sometimes, if you have something flat, you can see what you've done. I'm saving it. You can export it. You can live stream your painting. You can post it anywhere. As you would with any video, you can do stuff
+
+## Unattributed [22:25](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1345s)
+
+With the virtual reality. So that's, that's kind of what I'm doing in the back bedroom. So that's, that's kind of the end of my, my thing.
+
+## Davonte Bradley [22:48](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1368s)
+
+All right. Well, thank you very much, Rebecca. I actually empathize with your, the way you started too, because, again, no, no formal tutelage or anything like that. And finally enough, the first thing I started creating with my artwork early on, like last year were something that I called ink plays because I was using the like expanded Chrome ink pen and, and the software that I was using. So I was like, ah, I know that feeling. So thank you.
+
+## Rebecca Tombaugh [23:25](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1405s)
+
+I do want to say that I recently joined the international society of experimental artists. And they, there's many artists there. They have like 400 members and so many of them are doing things that would fit in the movement. And I posted this invitation on there. So I think there's, there's a lot of people that might be interested in this.
+
+## Davonte Bradley [23:49](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1429s)
+
+Gotcha. Also, you don't have anything else to share with your screen right now. Do you?
+
+## Rebecca Tombaugh [23:55](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1435s)
+
+No.
+
+## Davonte Bradley [23:56](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1436s)
+
+All right. We'll go ahead and there we go. Okay. All right. Now let's open up the floor for discussion. And let's see, let's see, let's see. Somebody was asking if you use tilt brush, but we already answered what you're using. It's called a gravity brush, correct?
+
+## Rebecca Tombaugh [24:18](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1458s)
+
+It's called gravity sketch. I have a tilt brush and there's another one I'm using. It's I'm probably not using the right term. I'm like an early adapter of painting VR. They're still working it and I think it's 999. I kind of like that tilt brush, you know, is okay. But gravity sketch for me just seems more suited for fine artists.
+
+## Davonte Bradley [24:49](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1489s)
+
+Gotcha. Oh, by the way, folks, if you do have any questions, feel free to use the raise hand functionality or reaction with zoom. So we can get to you in order. Oh, our Lee can raise his actual hand.
+
+## Lee Musgrave [25:05](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1505s)
+
+I would I would use the hand thing if I could find it on my screen. My question is what when you make those freehand sketches and then you float around in them using that program, is it possible for you to stop and sort of capture one particular perspective and then make a print of it?
+
+## Rebecca Tombaugh [25:29](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1529s)
+
+Yes. Yes, you can while you're in there, you can take a screenshot or snapshot, a little camera will pop up and you can take a picture of anything you want and export that and yes, make a print of anything. The only problem that I've seen with that and I tried to do that at first is the spatialness of virtual reality just doesn't translate to 2D very well. Like it's just so flat and that's why I started making the videos. And at first I was just you can sit in a chair and do this. I just be sitting and I would turn I would rotate my objects and still it was like you just it looks like a sculpture or something. So when I actually stood up and started walking, you know through it and around and everything that's when I started getting this the same feeling in the videos that I get when I'm in this program.
+
+So the answer is yes.
+
+## Lee Musgrave [26:31](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1591s)
 
 I think a lot of the sketchy kind of shapes that you're making don't seem to have any dimension. It's like when you float around in them and you get to the side of them. There isn't anything there. It's like a thin piece of paper. Keep moving. Then you see the backside of it. They have a front and a back and no side. So anytime you stop it and take a picture of it and then print it. It's always going to look flat. Do that. Give some dimension to some of those shapes in order to capture the feeling that there's a volume of space that these things are in.
+
+## Rebecca Tombaugh [27:12](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1632s)
 
 I totally agree. I'm at I've only been doing this since about December and I'm still struggling with that aspect of it because unless you have the goggles on yourself. You don't have the full experience of it. But and until I think it's it seems like the oculus and I could be wrong about this is like an Atari early Atari game, you know, like it's so new and there's a lot of people that have it and play games, but I think there's a whole different application for this. I even think I have a relative who's an artist who has trouble with her hands. You know, she can't hold the things like she used to that you the hand that things you don't even have to use those. There's a pass through where just your hand now can paint, you know, and you can be sitting and you saw at the end where I could expand it and contract it.
 
 Like there's very little physical movement that actually has to happen to create this great stuff. Now I scribble but I see our I can imagine artists doing things. I can imagine artists doing things way beyond what I'm doing because they just They have the wherewithal And know what they're doing and can and also I've barely imported anything or uploaded anything you could take something I was thinking of taking a real painting and then You know, trying to incorporate it more and not just having the VR stuff on top of a painting. So I'm very open to suggestions.
 
-Well, there's a lot of the 3D imitizing of Van Gogh paintings. That's very popular. You know that the image floats into the painting and Oh, right. Yeah. And you can see the other side of the tree and more of the path and all this other stuff. I'm not sure that I would encourage you to do that because it's not you. It's not your expression. You know, I think it's much more interesting to encourage you to keep playing with your free hand scribbles because they have a lot of energy in them and feeling of life to them. And if you can figure out how to use that program to capture that in some kind of way that then can be presented or you can see where I'm from. I'm old school. I keep coming back. I'm not sure. To The people who come into the gallery and see this and then want to take something with them.
+## Lee Musgrave [28:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1738s)
 
-You know, Taking an NFT isn't going to get it for these people at all. You have to figure out some way For them to be able to buy a print at least Some artists have actually Actually gotten the habit of actually selling an Oculus loaded with the artwork so that they could experience the whole thing at home. Which isn't an option for everyone but it is a thing that some people are doing. That was a suggestion I don't think that's too far off because the oculus is 400 and that's not expensive for you know painting and then once you have that it's yours you can you know do all the games and you can paint yourself and do all that kind of stuff so that is an option and one thing that is limiting with the gravity sketch is and I asked them if they would do this and they're not doing it yet I would like a brush function right now I can I have only lines to work with and I can make the lines bigger smaller the lines can respond to pressure or speed different things like that but I don't have a you know I'd like to have a brush function but they're saying you know if you this is the comments from the community page well if you want brushes go to you know this or go to the graffiti spray like there's other programs you have that stuff but I'm hoping they'll put a brush in there hopefully all right you've got essentially five questions I think lined up and we have one in the chat from earlier which we've kind of already answered from Cynthia Beth Rubin but she wants to know do you need a gaming interface to use it and I think it's just the it's an oculus only app correct that's correct gravity sketch is free and you can use it to do anything you want to do and I think it's just the oculus itself oh and does it have oculus go ahead do you know if it has a functionality with like drawing tablets like wacoms and things like that I know they wacom itself has their own like software that they use for vr stuff but I'm not sure if oculus natively can interact with a wacom tablet I'm not I don't know that one in particular and there are some that won't operate with the oculus but I'm not sure if they're going to be able to do that with a wacom tablet because they're there with you know something else but there are right now there's just a couple of paint or the gravity sketch and the tilt brush and then that the thing I'm doing which is nothing but brushes right that I'm aware of all right does that answer your question cynthia well enough trying to actually find your here I am I'm sorry I'm in my co-working space so I'm bad that's all good so yes you answered the question thank you all right good to go all right next up we have renata thank you rebecca I really enjoyed your presentation I was wondering about this the part where you showed the drawing of the flower the rose with the gray line and then the flat white line and then the black line and then the white line and then the black line and then the white when you did the demo there was no ground behind your painting but when you showed the flower drawing that white platform to me was the ground now can that be tilted in any way I mean I'm yes you can change you can tilt it any way you want and that's why I put that in there to give some sense of you know where you're going to be able to do that and then I'm going to move this around so it's very easy you know I think we've seen some people doing this before because there's no ground here but I think this is where you're at you know in there so yes you can you can move everything around in infinite ways great now the second question might have to do somehow with zoom more than anything because the resolution gets dumbed down a lot so when I looked at your painting demo it wasn't very sharp but when I looked at the photograph of the kansas as foothills, that drawing and some of the other drawings that you showed earlier were in focus more.
+Well, there's a lot of the 3D imitizing of Van Gogh paintings. That's very popular. You know that the image floats into the painting and Oh, right.
 
-So what would you say about the resolution? Okay, it's not coming through here. If you go to my website or my Facebook page, like and you've looked at the same things, it's real sharp, like you would see sharp lines. So it's just not coming through. And then if you were actually in the thing itself, it's you, it's so sharp that you feel like you can touch it. Excellent. Thank you so much. It's really, really enjoyable to hear your talk. Thank you. All right. Thank you, Renata.
+## Unattributed [29:14](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1754s)
 
-Next up, we have Michael Price. Hi, Rebecca. Thanks for your presentation. I think a number of people have mentioned the loose brushstrokes in your 2D work. It's very, very beautiful and dynamic. Different than Matisse, but it reminded me of just how simple brushstrokes can create really powerful imagery and evoke emotion. So kudos to your non-training and your natural abilities and your tenacity to work like this. Thank you.
+Yeah.
+
+## Lee Musgrave [29:14](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1754s)
+
+And you can see the other side of the tree and more of the path and all this other stuff. I'm not sure that I would encourage you to do that because it's not you. It's not your expression. You know, I think it's much more interesting to encourage you to keep playing with your free hand scribbles because they have a lot of energy in them and feeling of life to them. And if you can figure out how to use that program to capture that in some kind of way that then can be presented or you can see where I'm from. I'm old school. I keep coming back. I'm not sure. To The people who come into the gallery and see this and then want to take something with them. You know, Taking an NFT isn't going to get it for these people at all. You have to figure out some way For them to be able to buy a print at least
+
+## Davonte Bradley [30:15](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1815s)
+
+Some artists have actually Actually gotten the habit of actually selling an Oculus loaded with the artwork so that they could experience the whole thing at home. Which isn't an option for everyone but it is a thing that some people are doing.
+
+## Rebecca Tombaugh [30:28](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1828s)
+
+That was a suggestion I don't think that's too far off because the oculus is 400 and that's not expensive for you know painting and then once you have that it's yours you can you know do all the games and you can paint yourself and do all that kind of stuff so that is an option and one thing that is limiting with the gravity sketch is and I asked them if they would do this and they're not doing it yet I would like a brush function right now I can I have only lines to work with and I can make the lines bigger smaller the lines can respond to pressure or speed different things like that but I don't have a you know I'd like to have a brush function but they're saying you know if you this is the comments from the community page well if you want brushes go to you know this or go to the graffiti spray like there's other programs you have that stuff but I'm hoping they'll put a brush in there hopefully
+
+## Davonte Bradley [31:29](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1889s)
+
+All right you've got essentially five questions I think lined up and we have one in the chat from earlier which we've kind of already answered from Cynthia Beth Rubin but she wants to know do you need a gaming interface to use it and I think it's just the it's an oculus only app correct that's
+
+## Rebecca Tombaugh [31:51](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1911s)
+
+Correct gravity sketch is free and you can use it to do anything you want to do and I think it's just the
+
+## Davonte Bradley [31:57](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1917s)
+
+Oculus itself oh and does it have oculus go ahead do you know if it has a functionality with like drawing tablets like wacoms and things like that I know they wacom itself has their own like software that they use for vr stuff but I'm not sure if oculus natively can interact with a wacom tablet I'm
+
+## Rebecca Tombaugh [32:18](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1938s)
+
+Not I don't know that one in particular and there are some that won't operate with the oculus but I'm not sure if they're going to be able to do that with a wacom tablet because they're there with you know something else but there are right now there's just a couple of paint or the gravity sketch and the tilt brush and then that the thing I'm doing which is nothing but brushes right that I'm aware of
+
+## Davonte Bradley [32:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1964s)
+
+All right does that answer your question cynthia well enough
+
+## Cynthia Beth Rubin [32:51](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1971s)
+
+Trying to actually find your here I am I'm sorry I'm in my co-working space so I'm bad that's all good so yes you answered the question thank you all right good to go all right
+
+## Davonte Bradley [33:04](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1984s)
+
+Next up we have renata
+
+## Renata Janiszewska [33:09](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=1989s)
+
+Thank you rebecca I really enjoyed your presentation I was wondering about this the part where you showed the drawing of the flower the rose with the gray line and then the flat white line and then the black line and then the white line and then the black line and then the white when you did the demo there was no ground behind your painting but when you showed the flower drawing that white platform to me was the ground now can that be tilted in any way I mean I'm yes
+
+## Rebecca Tombaugh [33:40](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2020s)
+
+Yes you can change you can tilt it any way you want and that's why I put that in there to give some sense of you know where you're going to be able to do that and then I'm going to move this around so it's very easy you know I think we've seen some people doing this before because there's no ground here but I think this is where you're at you know in there so yes you can you can move everything around in infinite ways great
+
+## Renata Janiszewska [34:01](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2041s)
+
+Now the second question might have to do somehow with zoom more than anything because the resolution gets dumbed down a lot so when I looked at your painting demo it wasn't very sharp but when I looked at the photograph of the kansas as foothills, that drawing and some of the other drawings that you showed earlier were in focus more. So what would you say about the resolution?
+
+## Rebecca Tombaugh [34:26](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2066s)
+
+Okay, it's not coming through here. If you go to my website or my Facebook page, like and you've looked at the same things, it's real sharp, like you would see sharp lines. So it's just not coming through. And then if you were actually in the thing itself, it's you, it's so sharp that you feel like you can touch it.
+
+## Renata Janiszewska [34:47](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2087s)
+
+Excellent. Thank you so much. It's really, really enjoyable to hear your talk. Thank you. All right.
+
+## Davonte Bradley [34:54](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2094s)
+
+Thank you, Renata. Next up, we have Michael Price.
+
+## Michael Pierre Price [35:01](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2101s)
+
+Hi, Rebecca. Thanks for your presentation. I think a number of people have mentioned the loose brushstrokes in your 2D work. It's very, very beautiful and dynamic. Different than Matisse, but it reminded me of just how simple brushstrokes can create really powerful imagery and evoke emotion. So kudos to your non-training and your natural abilities and your tenacity to work like this. Thank you.
 
 See, for me, the 3D VR feels a little like deja vu for me personally, just because of my gaming history and background. But here's the challenge as working in a 3D environment as games and games designers, but also as artists is there's a profound difference between a flashlight. 2D space, since we are three-dimensional beings, we can see the entirety of everything in a two-dimensional plane. And I think piggybacking a little bit on what Lee was talking about earlier is that what I get, there's two parts to my question. What has drawn you into this personally as a person and an artist to completely explore this? But then how do you see your challenge of in a 3D space? Yes, you get that sense of, wow, I'm inside of this. But if you look at movies, if you look at games, you're creating a facade because the thing is with movies, you're curating, you're always curating where the camera is.
 
@@ -125,55 +385,207 @@ So you can have, you know, the Western town where everything's, you know, just l
 
 Do you think that's just part of the experience? And for me, that's the part I think that. I have stayed. I have stayed away from that as an artist because of. You lose that sense of where you want somebody to understand where the heart and soul of it is. And if you're thinking that whole totality is the embodiment of what you did, then, you know, then that's important. And I can respect that. But for me, having previously worked in VR like that, it's challenging. It's really, really challenging. And I think that's the part right now that can be really tough to handle. And I'm just kind of curious, you know, just sort of your feedback on my comments and what's drawn you into this, because I think it's really fascinating to see where you sort of started from and how this during the pandemic kind of brought you in.
 
-I'm just kind of curious where how that came about. I guess. I, you know, I had this moment the first time I even made the first stroke within VR. It was like, oh, this, you know, I, this is me. This is it. This is it. You know, and I was, I was electrified. And, so, and each time I go in and do something, I'm learning and, oh, I can do this. I can tilt the, you know, like the other lady was talking about, oh, I can move this around. And so I'm constantly feeling the same way. And I also feel like. If I could get more volume into my strokes, if I had a brush, not just lines, and, and all in this, so I tried using shapes. There are already pre-made shapes that I can, you know, pull in and paint and all that, but they look so, like clip art. And so I completely stayed away from that and decided, you know, if I can't do it myself, draw it or use one of my own paintings, I'm not going to use those shapes and everything.
+I'm just kind of curious where how that came about.
+
+## Rebecca Tombaugh [38:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2322s)
+
+I guess. I, you know, I had this moment the first time I even made the first stroke within VR. It was like, oh, this, you know, I, this is me. This is it. This is it. You know, and I was, I was electrified. And, so, and each time I go in and do something, I'm learning and, oh, I can do this. I can tilt the, you know, like the other lady was talking about, oh, I can move this around. And so I'm constantly feeling the same way. And I also feel like. If I could get more volume into my strokes, if I had a brush, not just lines, and, and all in this, so I tried using shapes. There are already pre-made shapes that I can, you know, pull in and paint and all that, but they look so, like clip art. And so I completely stayed away from that and decided, you know, if I can't do it myself, draw it or use one of my own paintings, I'm not going to use those shapes and everything.
 
 So yeah, I'm, I'm really struggling. I'm struggling with a lot of it. And I also struggle with, even when I'm showing you guys, it's a whole different thing. If you put on the goggles and you open up my thing, like I'm, I'm doing the video. So I'm walking through it. If you open it up, you would see one solid thing and then you would walk through it or turn to the right or to the left. You would think, oh my gosh, I think I can grab this. It's such a real experience. And when. I, the van go thing is in Kansas city right now. And so I'm seeing, you know, all that stuff and the commercials I'm thinking, yeah, this is like what I'm trying to like an immersion. Like I, I'm, I feel like I'm not good enough of an artist within this sphere yet to create that. But like the thoughts and feelings, the circles when I, yeah, I'm trying to, to.
 
-You're not, but you're not alone. No, I mean, serious, this, this is, this is a challenge for VR and 3d. So yeah, the van go, it's coming to Phoenix and I haven't, I haven't seen other than the commercials, but it's still going to be highly curated. I mean, you're, you're not going to have the same kind of thing of being able to walk into a corner where all of a sudden there's nothing there. So what I'm saying is. What they've done is a. High, high end production that nobody can really compete with, because unless you got a few million dollars to put together something like this, you know, you're just, you're just not going to be able to compete. So, but anyway, I, I mean, let me tell you this too. This is another thing I've been trying, you know, I know some of the, we have, you know, I think 200 little galleries here in Kansas city, and I've been trying to convince them to open the first VR gallery, which.
+## Michael Pierre Price [40:40](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2440s)
 
-So I'm like, as I'm here, I'm like, is this the right thing to do? And I'm like, it's the right thing to do. And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? Grant and do it myself, but I am not a museum curator, and, you know, it's beyond, I think, my abilities, but that's where I think something like this could happen, and I've seen on the West Coast, there is somebody that did that, and they have a VR gallery, and they're artists, and they show there's just this blank room, you know, empty room, and they've got it much more polished, and the artwork is much more complicated than mine.
+You're not, but you're not alone. No, I mean, serious, this, this is, this is a challenge for VR and 3d. So yeah, the van go, it's coming to Phoenix and I haven't, I haven't seen other than the commercials, but it's still going to be highly curated. I mean, you're, you're not going to have the same kind of thing of being able to walk into a corner where all of a sudden there's nothing there. So what I'm saying is. What they've done is a. High, high end production that nobody can really compete with, because unless you got a few million dollars to put together something like this, you know, you're just, you're just not going to be able to compete. So, but anyway, I, I mean, let me tell you this too.
 
-The only, the thing I so appreciate being able to join this group is I do feel that my, I have emotion and energy in my artwork, so it fits within your, the mission statement, you know, so, and again, I, like I said, I've been doing, what, six, seven months, so I just feel like I'm going to, you know, I want to keep going down this path, you know, and see where it takes me. Yeah. Well, thanks for all your comments.
+## Rebecca Tombaugh [41:29](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2489s)
 
-I appreciate it. Thank you. Oh, thank you, Michael. All right, we have two more questions, and after that, we got to get into the next presentation. Sure, I'll shut up. Sorry. No, it's fine, it's fine, it's fine. Just trying to be conscious of our time and whatnot. All right, so, Tommy, you're up. I know you've been waiting patiently.
+This is another thing I've been trying, you know, I know some of the, we have, you know, I think 200 little galleries here in Kansas city, and I've been trying to convince them to open the first VR gallery, which. So I'm like, as I'm here, I'm like, is this the right thing to do? And I'm like, it's the right thing to do. And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do?
 
-You're muted. Still muted. I found it. I'm so sorry. The screen was all weird. All good. First of all, thank you, Rebecca, for sharing your work. It's really fantastic. One of the things that jumped out to me was your snow fences, or, you know, whatever you're calling that series, and I looked at your website and checked out some of them, and it seemed to be in those images, you're creating a space for the work to happen. And I think that's a really good point. I think it's really interesting to see how you're creating a space with just very simple lines. And that might be an approach that would work well within this new space. If you're talking about, like, creating a sense of space, you know, look to what you've already done, I think, in a very interesting way, you could pretty have solved that problem.
+And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? And I'm like, is this the right thing to do? Grant and do it myself, but I am not a museum curator, and, you know, it's beyond, I think, my abilities, but that's where I think something like this could happen, and I've seen on the West Coast, there is somebody that did that, and they have a VR gallery, and they're artists, and they show there's just this blank room, you know, empty room, and they've got it much more polished, and the artwork is much more complicated than mine. The only, the thing I so appreciate being able to join this group is I do feel that my, I have emotion and energy in my artwork, so it fits within your, the mission statement, you know, so, and again, I, like I said, I've been doing, what, six, seven months, so I just feel like I'm going to, you know, I want to keep going down this path, you know, and see where it takes me.
 
-I think creating an object, as everybody's talking about, with flat panes that you sort of, you know, walk around and there's no depth to it, I think is a different challenge. I think it's a different challenge than creating a space that you sort of see and navigate, because you kind of want to navigate in this VR space, I feel. There's a stark quality that I think is native to that digital that you capture so beautifully in those snow fences.
+## Michael Pierre Price [43:06](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2586s)
 
-So, I know that, you know, I come in from the opposite, where I just look at a lot of art books. I grew up in libraries in the art section. So, when I look at your work, I think of, and museums, Alexander Calder and the wire sculptures that he makes. He did this, Calder, C-A-L-D-E-R, is a famous American sculptor, who has a sculpture at the Whitney Museum, always, maybe, of a circus made out of wire that he used to move and it would, like, do little things. It's actually, you know, sort of a mechanical movement thing that he designed.
+Yeah. Well, thanks for all your comments. I appreciate it. Thank you.
 
-I think you might love it. And there's other artists that sort of look to that wire. And I think if you're looking in the VR space, you're sort of working with that. You're working with a virtual wire, almost, with your painting. So, it might be an interesting kind of parallel. And when you think about, like, VR spaces, by the way, I don't want to go on a rant about the Van Gogh thing while I'm being recorded. But, you know, it's not anything new, right? So, if you want to think about interesting stuff happening in spaces, I think there's a group called Team Lab, T-E-A-M-L-A-B, out of Japan that's doing amazing things that are new. Okay. Within the digital and VR space that are, like, experimenting with this idea of being in a VR space instead of taking something familiar and in public domain and repackaging it and making it really… I mean, go to the Museum of Illusions.
+## Davonte Bradley [43:13](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2593s)
 
-You know, there's all this for-profit museum model of, you know, business that's happening right now that Van Gogh is touching on. And it's not really art. That's anything new. Yayoi Kusama. K-U-S-A-M-A. If you ever see her work shown anywhere, go see it. Okay. It's a space…she creates lots of things, but paintings, too. You can see her paintings. But she also has these spaces, architectural spaces that you enter into and are in another world, essentially. And I think there's a lot of parallels with, you know, what we're doing in these VR spaces that some sculptures…some sculptors have played with already and given us really interesting ideas to play with. So, Rebecca, your work is so great. Like, it's really fun to look at and exciting to… Oh, thank you. You know, I had a little video of a snow fence, me actually painting the snow fence in the VR space.
+Oh, thank you, Michael. All right, we have two more questions, and after that, we got to get into the next presentation.
 
-And I thought, no, this is too boring. I'm not going to show them this. But because I, you know, what you said, I'm going to go back and look at that again. I thought it was not enough, you know, just the snow fence. But I'll revisit it. Thank you. All right. Thank you, Tommy. And last question for Rebecca. Rebecca, this time goes to Colin.
+## Unattributed [43:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2601s)
 
-Hey, Rebecca. Yeah, thanks so much for, you know, coming on and showing your work and sharing it with the group. You know, it's really interesting to see how you came into working with technology and your background, you know, prior to that with traditional media. And, you know, it's funny that you mentioned Roblox. We have a seven-year-old, and she's commandeered both my old iPad and my wife's old iPad. And she's now addicted to, you know, she'll be FaceTiming with her nine or ten-year-old cousin at the same time that they're both in Roblox. Yeah. And she's explaining to me all of this stuff about Roblox. And it's like mind boggling that, you know, here's the seven-year-old completely engrossed in this virtual world while simultaneously video conferencing with her nine-year-old cousin. You know, I mean, this is the stuff that...
+Sure, I'll shut up.
 
-That's what I did. That's what she was doing with me. Yeah. I mean, when I was her age, that was science fiction that I fantasized about. But, and then, you know, so I've also played around. I have an Oculus that my wife actually got me an Oculus over the holidays as a present. And one of the big reasons that I got it was for art apps, specifically at that time, Tilt Brush, which I hadn't even known about the Gravity Sketch app. I think that might have recently become a free app. I think it was a paid app originally. It was. But, you know, one thing that I found with Tilt Brush was that, you know, I'm primarily a 2D artist, painting background originally before I started really getting, you know, involved in digital stuff. And so it was interesting. It really felt like I was, you know, creating sculpture when I first started working with Tilt Brush.
+## Davonte Bradley [43:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2604s)
 
-That is, you know, being able to move around to the side of the piece and then draw another stroke. That's sort of on a different axis and then walk completely around the piece. And it was very liberating because I never really got involved working sculpturally. Like I was never, you know, I just always felt like, well, you know, there's all this training involved and materials. Like I'm not that interested. I can't, you know, conceive of a time when I would really be able to execute what I, my vision in a way that I could on a flat plane. But I think VR kind of gave me that. You know? And I haven't really gone much beyond just experimentation with it. But I felt like that was a real kind of a breakthrough moment. And, you know, the real value for me wasn't what was created at the end of it.
+Sorry. No, it's fine, it's fine, it's fine. Just trying to be conscious of our time and whatnot. All right, so, Tommy, you're up. I know you've been waiting patiently. You're muted. Still muted.
 
-It was the experience of actually going in and making things in 3D space with my hands, which was like pretty amazing. You know, totally worth the price of admission as far as I'm concerned. You know, I got the Quest 2. And yeah, I play, you know, use it a little bit for gaming. But I mean, really. Like I think just the experience of being able to paint in a 3D space in that way is pretty remarkable. And so, like, my actual question is, you know, when you talk about sharing links, like, are you able to share a link to the actual piece that someone else with an Oculus can then go in and experience? And if that's the case, do they experience it in the app that you created it in? Or like how does that work? And sort of a piggyback question to that. Is there sort of a, you know, a place where artists share their VR pieces for other people with goggles so that you can go in and like check out other people's creations, you know?
+## Tommy Mintz [43:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2622s)
 
-Yes. Within Gravity Sketch is the gallery. Okay. And you can, you know, open up. I mean, there's tons and tons of stuff. I will say most of it is cars and avatars and shoes and things like that. And I'm just really I'm always pushing for this is a place for fine art. And yes. I have two sons who are, you know, longtime programmers and everything. And I had the discussion about does my painting actually exist? You know, or is it? So they explained to me, you know, how it actually does exist. And this is based on what they told me. But they said that every time I send a link, like I could send you a link to the original, you also now have the original. It's not a copy. It's not a duplicate. It is actually the exact original.
+I found it. I'm so sorry. The screen was all weird. All good. First of all, thank you, Rebecca, for sharing your work. It's really fantastic. One of the things that jumped out to me was your snow fences, or, you know, whatever you're calling that series, and I looked at your website and checked out some of them, and it seemed to be in those images, you're creating a space for the work to happen. And I think that's a really good point. I think it's really interesting to see how you're creating a space with just very simple lines. And that might be an approach that would work well within this new space. If you're talking about, like, creating a sense of space, you know, look to what you've already done, I think, in a very interesting way, you could pretty have solved that problem. I think creating an object, as everybody's talking about, with flat panes that you sort of, you know, walk around and there's no depth to it, I think is a different challenge.
+
+I think it's a different challenge than creating a space that you sort of see and navigate, because you kind of want to navigate in this VR space, I feel. There's a stark quality that I think is native to that digital that you capture so beautifully in those snow fences. So, I know that, you know, I come in from the opposite, where I just look at a lot of art books. I grew up in libraries in the art section. So, when I look at your work, I think of, and museums, Alexander Calder and the wire sculptures that he makes. He did this, Calder, C-A-L-D-E-R, is a famous American sculptor, who has a sculpture at the Whitney Museum, always, maybe, of a circus made out of wire that he used to move and it would, like, do little things. It's actually, you know, sort of a mechanical movement thing that he designed.
+
+I think you might love it. And there's other artists that sort of look to that wire. And I think if you're looking in the VR space, you're sort of working with that. You're working with a virtual wire, almost, with your painting. So, it might be an interesting kind of parallel. And when you think about, like, VR spaces, by the way, I don't want to go on a rant about the Van Gogh thing while I'm being recorded. But, you know, it's not anything new, right? So, if you want to think about interesting stuff happening in spaces, I think there's a group called Team Lab, T-E-A-M-L-A-B, out of Japan that's doing amazing things that are new.
+
+## Chalda Maloff [46:03](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2763s)
+
+Okay.
+
+## Tommy Mintz [46:04](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2764s)
+
+Within the digital and VR space that are, like, experimenting with this idea of being in a VR space instead of taking something familiar and in public domain and repackaging it and making it really… I mean, go to the Museum of Illusions. You know, there's all this for-profit museum model of, you know, business that's happening right now that Van Gogh is touching on. And it's not really art. That's anything new.
+
+Yayoi Kusama. K-U-S-A-M-A. If you ever see her work shown anywhere, go see it.
+
+## Unattributed [46:33](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2793s)
+
+Okay.
+
+## Tommy Mintz [46:34](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2794s)
+
+It's a space…she creates lots of things, but paintings, too. You can see her paintings. But she also has these spaces, architectural spaces that you enter into and are in another world, essentially. And I think there's a lot of parallels with, you know, what we're doing in these VR spaces that some sculptures…some sculptors have played with already and given us really interesting ideas to play with. So, Rebecca, your work is so great. Like, it's really fun to look at and exciting to…
+
+## Rebecca Tombaugh [47:04](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2824s)
+
+Oh, thank you. You know, I had a little video of a snow fence, me actually painting the snow fence in the VR space. And I thought, no, this is too boring. I'm not going to show them this. But because I, you know, what you said, I'm going to go back and look at that again. I thought it was not enough, you know, just the snow fence. But I'll revisit it. Thank you.
+
+## Davonte Bradley [47:26](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2846s)
+
+All right. Thank you, Tommy. And last question for Rebecca. Rebecca, this time goes to Colin.
+
+## Colin Goldberg [47:37](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2857s)
+
+Hey, Rebecca. Yeah, thanks so much for, you know, coming on and showing your work and sharing it with the group. You know, it's really interesting to see how you came into working with technology and your background, you know, prior to that with traditional media. And, you know, it's funny that you mentioned Roblox. We have a seven-year-old, and she's commandeered both my old iPad and my wife's old iPad. And she's now addicted to, you know, she'll be FaceTiming with her nine or ten-year-old cousin at the same time that they're both in Roblox.
+
+## Unattributed [48:10](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2890s)
+
+Yeah.
+
+## Colin Goldberg [48:11](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2891s)
+
+And she's explaining to me all of this stuff about Roblox. And it's like mind boggling that, you know, here's the seven-year-old completely engrossed in this virtual world while simultaneously video conferencing with her nine-year-old cousin. You know, I mean, this is the stuff
+
+## Unattributed [48:28](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2908s)
+
+That... That's what I did. That's what she was doing with me. Yeah.
+
+## Colin Goldberg [48:31](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2911s)
+
+I mean, when I was her age, that was science fiction that I fantasized about. But, and then, you know, so I've also played around. I have an Oculus that my wife actually got me an Oculus over the holidays as a present. And one of the big reasons that I got it was for art apps, specifically at that time, Tilt Brush, which I hadn't even known about the Gravity Sketch app. I think that might have recently become a free app. I think it was a paid app originally.
+
+## Unattributed [48:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2939s)
+
+It
+
+## Colin Goldberg [48:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=2939s)
+
+Was. But, you know, one thing that I found with Tilt Brush was that, you know, I'm primarily a 2D artist, painting background originally before I started really getting, you know, involved in digital stuff. And so it was interesting. It really felt like I was, you know, creating sculpture when I first started working with Tilt Brush. That is, you know, being able to move around to the side of the piece and then draw another stroke. That's sort of on a different axis and then walk completely around the piece. And it was very liberating because I never really got involved working sculpturally. Like I was never, you know, I just always felt like, well, you know, there's all this training involved and materials. Like I'm not that interested. I can't, you know, conceive of a time when I would really be able to execute what I, my vision in a way that I could on a flat plane.
+
+But I think VR kind of gave me that. You know? And I haven't really gone much beyond just experimentation with it. But I felt like that was a real kind of a breakthrough moment. And, you know, the real value for me wasn't what was created at the end of it. It was the experience of actually going in and making things in 3D space with my hands, which was like pretty amazing. You know, totally worth the price of admission as far as I'm concerned. You know, I got the Quest 2. And yeah, I play, you know, use it a little bit for gaming. But I mean, really. Like I think just the experience of being able to paint in a 3D space in that way is pretty remarkable. And so, like, my actual question is, you know, when you talk about sharing links, like, are you able to share a link to the actual piece that someone else with an Oculus can then go in and experience?
+
+And if that's the case, do they experience it in the app that you created it in? Or like how does that work? And sort of a piggyback question to that. Is there sort of a, you know, a place where artists share their VR pieces for other people with goggles so that you can go in and like check out other people's creations, you know?
+
+## Rebecca Tombaugh [51:11](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3071s)
+
+Yes. Within Gravity Sketch is the gallery.
+
+## Colin Goldberg [51:15](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3075s)
+
+Okay.
+
+## Rebecca Tombaugh [51:15](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3075s)
+
+And you can, you know, open up. I mean, there's tons and tons of stuff. I will say most of it is cars and avatars and shoes and things like that. And I'm just really I'm always pushing for this is a place for fine art. And yes. I have two sons who are, you know, longtime programmers and everything. And I had the discussion about does my painting actually exist? You know, or is it? So they explained to me, you know, how it actually does exist. And this is based on what they told me. But they said that every time I send a link, like I could send you a link to the original, you also now have the original. It's not a copy. It's not a duplicate. It is actually the exact original.
 
 And you can have as many originals as possible. And the landing pad is you probably know that from Gravity Sketch. There's a, you know, and all you need is a, you know, an email. So that's the other thing. Like, you know, it's some and I put my prices as a dollar just to see if people would just for the fun of it, you know, try it out.
 
-Yeah, I would encourage you to post links to the we have a Facebook group and also a Discord server and, you know, a bunch of different. Oh, okay. So like if you guys and you or anyone else like, you know, has work that can be experienced through like Oculus or desktop. You know, different other platforms, you know, that's certainly like a good place to share it, you know, as well as obviously links to any kind of web based projects or whatnot. But yeah, it'd be it'd be cool to check that out. And yeah, I know Darcy had posted had shared, you know, when she came on here about having like a virtual space and maybe trying to even organize meetups, you know, within that sort of environment, which I think would be interesting. Oh, well, you know, within Oculus now. Actually within Oculus.
+## Colin Goldberg [52:34](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3154s)
 
-Well, you probably have a lot of people. You probably know this even better than I do. There are rooms where you can do exactly what you're talking about, where we could all be in the same room and experience these things. Yeah. And even within Gravity Sketch, you can work with another artist at the same time on the same thing. Gotcha. Yeah, I briefly like went into one of those sort of VR environments and there were all sorts of strange creatures walking around talking to me. That were actual people behind them. That's true. That's true. But I think you can get your own. You can make your own for free. Gotcha.!
+Yeah, I would encourage you to post links to the we have a Facebook group and also a Discord server and, you know, a bunch of different.
 
-All right. Well, thank you, Colin. And thank you, Rebecca. And thank you for your presentation. Thank you. Thanks for giving me a lot of great ideas, too. All of you. That's also what we're here for. This is as much as a collaborative space as it is just supportive space. Thank you. Yeah. Oops. Almost dropped my phone. All right.
+## Unattributed [52:43](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3163s)
 
-Okay. So thank you, everyone. Thank you for
+Oh, okay. So like
 
-## Cynthia DiDonato [54:30](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3270s)
+## Colin Goldberg [52:45](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3165s)
 
-That. And now we have our second presentation for today by Cynthia. Are you here, Cynthia? Yes, I am. Yes. All right. Are you ready to present? I'm ready to present. All right. You have the floor. Great. I want to thank Rebecca for her presentation. As Davo said, support and collaboration is what this group is about.
+If you guys and you or anyone else like, you know, has work that can be experienced through like Oculus or desktop. You know, different other platforms, you know, that's certainly like a good place to share it, you know, as well as obviously links to any kind of web based projects or whatnot. But yeah, it'd be it'd be cool to check that out. And yeah, I know Darcy had posted had shared, you know, when she came on here about having like a virtual space and maybe trying to even organize meetups, you know, within that sort of environment, which I think would be interesting.
 
-I can't say enough about how humble and compassionate she is. I'm so grateful I am to be part of the group. I remember when Colin sent me a direct message through Instagram, and at first I thought it was, you know, how they always ask you, do you want to have a thousand followers or, you know, come to my gallery? And so I just assumed that, you know, this is what was going on. And so Colin smartly included a link to the Techspressionism website.
+## Unattributed [53:19](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3199s)
+
+Oh, well, you know, within Oculus now.
+
+## Rebecca Tombaugh [53:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3201s)
+
+Actually within Oculus. Well, you probably have a lot of people. You probably know this even better than I do. There are rooms where you can do exactly what you're talking about, where we could all be in the same room and experience these things.
+
+## Cynthia DiDonato [53:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3215s)
+
+Yeah.
+
+## Rebecca Tombaugh [53:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3215s)
+
+And even within Gravity Sketch, you can work with another artist at the same time on the same thing.
+
+## Colin Goldberg [53:41](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3221s)
+
+Gotcha. Yeah, I briefly like went into one of those sort of VR environments and there were all sorts of strange creatures walking around talking to me. That were actual people behind them.
+
+## Rebecca Tombaugh [53:54](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3234s)
+
+That's true. That's true. But I think you can get your own. You can make your own for free.
+
+## Colin Goldberg [53:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3239s)
+
+Gotcha.!
+
+## Davonte Bradley [54:03](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3243s)
+
+All right. Well, thank you, Colin. And thank you, Rebecca.
+
+## Unattributed [54:07](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3247s)
+
+And thank you for your presentation.
+
+## Rebecca Tombaugh [54:09](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3249s)
+
+Thank you. Thanks for giving me a lot of great ideas, too. All of you.
+
+## Davonte Bradley [54:15](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3255s)
+
+That's also what we're here for. This is as much as a collaborative space as it is just supportive space.
+
+## Rebecca Tombaugh [54:23](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3263s)
+
+Thank you. Yeah.
+
+## Davonte Bradley [54:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3264s)
+
+Oops. Almost dropped my phone. All right. Okay. So thank you, everyone. Thank you for that. And now we have our second presentation for today by Cynthia. Are you here, Cynthia?
+
+## Unattributed [54:38](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3278s)
+
+Yes, I am.
+
+## Cynthia DiDonato [54:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3279s)
+
+Yes.
+
+## Davonte Bradley [54:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3279s)
+
+All right. Are you ready to present?
+
+## Cynthia DiDonato [54:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3282s)
+
+I'm ready to present. All right.
+
+## Davonte Bradley [54:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3284s)
+
+You have the floor.
+
+## Cynthia DiDonato [54:45](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3285s)
+
+Great. I want to thank Rebecca for her presentation. As Davo said, support and collaboration is what this group is about. I can't say enough about how humble and compassionate she is. I'm so grateful I am to be part of the group. I remember when Colin sent me a direct message through Instagram, and at first I thought it was, you know, how they always ask you, do you want to have a thousand followers or, you know, come to my gallery? And so I just assumed that, you know, this is what was going on. And so Colin smartly included a link to the Techspressionism website.
 
 And, you know, that's what I thought. And so I went to the website and said, check it out. And so I did. And I was, I was, frankly, I was blown away. I went and listened to the earliest salons. I also checked out some of the artists that were listed, the manifesto. And I said, this is wow. I found my tribe. Yes.
 
@@ -183,9 +595,23 @@ And, you know, I'm back in the day when there was no technology. And I was a sec
 
 And it was so technology was a real natural for me. I would, you know, be talking to the boys in the class because a lot of the girls weren't very interested, at least the girls in my orbit, in technology. And the boys, of course, were. So, with that, I'll go on to 11 years ago. I started working with water media.
 
-And maybe this is a good time to share my work. Okay. Yep. Feel free. Okay. Sure. Maybe.! It's coming. Can you see my iPad screen? Yep. We can see it. Or at least I can. Everyone else can see it, hopefully. Yep. Let me start with my water media work. And I work primarily at this time with water media on mylar. And that's what you see here. These are quite large pieces, maybe 24 by 36.
+And maybe this is a good time to share my work. Okay.
 
-And, again, I worked on watercolor mylar. Also on TerraSkin and Yupo. Yupo is a polypropylene paper that you can take away and subtract paint from. TerraSkin is also a polypropylene paper. But there are this stone that's ground into it. And it's somewhat juicy. And so these pieces I was able to work on these papers. So this is, you know, where I started before digital art grabbed my attention. And, of course, water media is still very, very important to me.
+## Davonte Bradley [57:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3456s)
+
+Yep. Feel free.
+
+## Cynthia DiDonato [57:38](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3458s)
+
+Okay. Sure. Maybe.! It's coming. Can you see my iPad screen?
+
+## Davonte Bradley [58:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3501s)
+
+Yep. We can see it. Or at least I can.
+
+## Cynthia DiDonato [58:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3504s)
+
+Everyone else can see it, hopefully. Yep. Let me start with my water media work. And I work primarily at this time with water media on mylar. And that's what you see here. These are quite large pieces, maybe 24 by 36. And, again, I worked on watercolor mylar. Also on TerraSkin and Yupo. Yupo is a polypropylene paper that you can take away and subtract paint from. TerraSkin is also a polypropylene paper. But there are this stone that's ground into it. And it's somewhat juicy. And so these pieces I was able to work on these papers. So this is, you know, where I started before digital art grabbed my attention. And, of course, water media is still very, very important to me.
 
 This is one of my later pieces in water media. Here's another piece. This is ink and water media and acrylic. Again, this would be water media. Water color and Caran d'ache. This is one that I completed this summer. Sargasso sea. This is on TerraSkin, which is that rock embedded in polypropylene paper.
 
@@ -199,9 +625,15 @@ Procreate and also in another app. By the way, procreates like nine 99. I color 
 
 Same thing is true here. With this piece. And also here. Some of these I've named others. I haven't. And. And again, this is. Only in procreate. I was playing with the brushes. The brushes and procreate are incredible. Not to mention what you can get out there and download. But this was essentially a brush. I played with brushes.
 
-Here again, I played with brushes and I also, you can create your own brush in procreate as you can in Photoshop. And. Had great fun with that. And then. Here again, I worked with brushes again to create this image. And this was done again, only in procreate. And over here. This is. The brush I created. And then echoed it throughout the piece.
+Here again, I played with brushes and I also, you can create your own brush in procreate as you can in Photoshop. And.
 
-Again. This one, I love the title. There's a lady who's sure. All that glitters is gold. And again, this was done both in procreate and I color. This one is called entanglement. I'm very fascinated by quantum mechanics as a late lay person. I am not. I don't have any physics background, but I love.
+## Rebecca Tombaugh [01:03:13](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3793s)
+
+Had great fun with that.
+
+## Cynthia DiDonato [01:03:16](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=3796s)
+
+And then. Here again, I worked with brushes again to create this image. And this was done again, only in procreate. And over here. This is. The brush I created. And then echoed it throughout the piece. Again. This one, I love the title. There's a lady who's sure. All that glitters is gold. And again, this was done both in procreate and I color. This one is called entanglement. I'm very fascinated by quantum mechanics as a late lay person. I am not. I don't have any physics background, but I love.
 
 That. Again, these were all done. As paint. In procreate. And I color. And I color. You know, all these different colors. Then I have very. Much love trees and their importance in our environment. So I did a whole tree series. And the thing that is so much fun about the tree series is I took some photographs. Now this is the other way I work. I take photographs. The photograph could be of a shingle on the house, could be a piece of metal. In this case, I took a photograph of some trees, and then within iColorama, I am able to compose sections and then introduce in those sections textures from either other photographs or other pieces of my digital art. So if you look up in this section where I have, can you see my cursor?
 
@@ -247,9 +679,17 @@ And then I started playing with how to move the shapes. And I came up with all o
 
 Very simple. This one, again, was, believe it or not, a picture of a blind, a Venetian blind. But I was able to manipulate. And then I got into multiple repeating shapes. And again, this is fabric. This was a picture of some fabric that I fell in love with the print. And then I brought it into IKALA Rama. No, I'm sorry. Procreate and manipulated it and then eventually brought it into IKALA Rama. So I began moving in this. Maybe this was a we were emerging from the first. Lockdown. And I had this kind of feeling of freedom.
 
-This is fabric again. This is again playing with one brush in Procreate and manipulating the brush strokes. This is called Breathe. And then I'm going to go back to the first. Okay. This is what I'm working on lately. I'm working with a slow shutter app. Obviously you can use slow shutter in manual cameras. I'm sure in SLRs. This is an app that you have on your phone. And I was able to, by mixing together pieces, create these pieces here.
+This is fabric again. This is again playing with one brush in Procreate and manipulating the brush strokes. This is called Breathe.
 
-This one's called Route 66. And it actually was a slow shutter shot at one point of a car. This is a slow shutter of my husband walking with my granddaughter that I was able to manipulate. This is my granddaughter walking around. And I was able to capture her movements with the slow shutter. There is the motion. There's light trail. And there's another one. I can't think of it at the moment. That you can set the app for.
+## Unattributed [01:21:38](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=4898s)
+
+And then I'm going to go back to the first.
+
+## Cynthia DiDonato [01:21:40](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=4900s)
+
+Okay. This is what I'm working on lately. I'm working with a slow shutter app. Obviously you can use slow shutter in manual cameras. I'm sure in SLRs. This is an app that you have on your phone. And I was able to, by mixing together pieces, create these pieces here. This one's called Route 66. And it actually was a slow shutter shot at one point of a car.
+
+This is a slow shutter of my husband walking with my granddaughter that I was able to manipulate. This is my granddaughter walking around. And I was able to capture her movements with the slow shutter. There is the motion. There's light trail. And there's another one. I can't think of it at the moment. That you can set the app for.
 
 This is Citified. And this again is a mix of several pieces. This is Through the Door. This I used part of. If you recall the earlier piece that was Totem that had all those tree shapes, I used that in here. It's incredible the way you can create something new from something old. This is one of the latest slow shutters. This is called Crowded. And again, this is two or three slow shutter shots that I brought together in the different programs I have. And was able to. I think eventually I ended up in Snapseed, which is another program I used to tweak images.
 
@@ -259,80 +699,342 @@ Unfortunately my husband was not well. So I was not able to go down there. But t
 
 Here are some of the Cuban people at the show. This was the curator Juan Carlos. Here he is again in the corner hanging my work. I was just so thrilled that they took it upon themselves to put my show together. These pieces are 20 by 30 and these are the pieces before my husband became president of New Jersey at that time. Exact pieces that were in the show. This one's called Subterranean Pianissimo.
 
-Oh yeah, there we go. This is how I made Pianissimo. This is a video that you can create in Procreate to show all of the steps. I started with a wooden floor, and as you can see, and I show this to people because they think, oh, this is easy to put together. You don't work like painters in the real world, and so I show them this to show them that there's just as much work behind it, even though it's done with digital paint.
+## Renata Janiszewska [01:25:47](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5147s)
+
+Oh yeah, there we go.
+
+## Cynthia DiDonato [01:25:50](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5150s)
+
+This is how I made Pianissimo. This is a video that you can create in Procreate to show all of the steps. I started with a wooden floor, and as you can see, and I show this to people because they think, oh, this is easy to put together. You don't work like painters in the real world, and so I show them this to show them that there's just as much work behind it, even though it's done with digital paint.
 
 Here's another piece that was done with shots of ginkgo leaves, old ginkgo leaves, and my paintbrush. This is the painting, and this is the video of it. Oh, and I have a collage in there too. And so these are all the steps I went to get to the final piece. And that's the wonderful thing about Procreate, it has undo, redo, so you can decide I do like it, I don't like it.
 
 This is again fabric. This is called Jonah and the Whale. Again, these are all in the show. In Cuba. This was started with a shingle. In fact, the shingle is probably right about there. And the rest is paint in layers in Procreate with different brushes. This is called Forest Bog. I've forgotten the name of this one. Oh, I forgot.
 
-So. So, that's it. Thank you so much, Cynthia. Thank you for your presentation. It was amazing. Thank you. Shall I stop the share? Yeah, you can go ahead. Unless, unless there's a piece, or I could actually I could do that for you. Hold on. There we go. Thank you. Thank you. Yep, no problem. All right. Now, we can't get it in the team. Well, that was a wonderful presentation. And Lee is apparently one of the first people that has his hands up.
+So. So, that's it.
 
-Go ahead, Lee. Well, first of all, amazing image making, really strong work. And I really applaud you doing an exhibit in Cuba during a pandemic. That boggles my mind. No, it wasn't during the pandemic. It was 2019. 2019, the pandemic hit in 2020, and that stopped the Havana exhibit. It got postponed. Still an amazing feat. I'm curious about those works that are hanging on the wall there. They look like they had been rolled up like scrolls. What was the material printed on? It was printed on photographic paper, and the photographic 10 pieces were rolled.
+## Davonte Bradley [01:27:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5262s)
 
-And put in a tube to carry on the plane. And like I said, you know, one of the people I know that was in the show brought the tube there and got it through customs. It's incredible rigmarole you have to go through in order to go to Cuba, in order to show your work in Cuba. So that's why they seemed rolled to start with. And then they have their own little hanging system, so you didn't have to frame anything. Which was wonderful to me. And they had these tubes at the top and the bottom with a hanging strap. And eventually it would relax it and hold it straight.
+Thank you so much, Cynthia.
 
-So I would assume then if somebody bought one of those, they would eventually frame it under glass. Right, but you know, you cannot buy art from the U.S. In Cuba. So there it is. I wasn't. That wasn't what I was interested in as much as I was intrigued by the presentation. Paper hanging on the wall, exposed.
+## Unattributed [01:27:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5264s)
 
-You can. It's my curator background coming out. You know, all sorts of dangers are involved with that in terms of preservation. There was a plastic, clear plastic piece on the front and the back. So the whole thing was secured. Should someone have a drink and it flies over toward the work, it would not hurt it. So it was sealed, in other words. Right. Sealed. Right. Sealed. All right. Thank you.
+Thank you for your presentation. It was amazing.
+
+## Cynthia DiDonato [01:27:46](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5266s)
+
+Thank you. Shall I stop the share?
+
+## Davonte Bradley [01:27:49](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5269s)
+
+Yeah, you can go ahead. Unless, unless there's a piece, or I could actually I could do that for you. Hold on. There we go.
+
+## Unattributed [01:27:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5278s)
+
+Thank you. Thank you.
+
+## Davonte Bradley [01:27:59](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5279s)
+
+Yep, no problem. All right. Now, we can't get it in the team. Well, that was a wonderful presentation. And Lee is apparently one of the first people that has his hands up.
+
+## Lee Musgrave [01:28:08](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5288s)
+
+Go ahead, Lee. Well, first of all, amazing image making, really strong work. And I really applaud you doing an exhibit in Cuba during a pandemic. That boggles my mind.
+
+## Cynthia DiDonato [01:28:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5304s)
+
+No, it wasn't during the pandemic. It was 2019. 2019, the pandemic hit in 2020, and that stopped the Havana exhibit. It got postponed.
+
+## Lee Musgrave [01:28:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5316s)
+
+Still an amazing feat. I'm curious about those works that are hanging on the wall there. They look like they had been rolled up like scrolls. What was the material printed on?
+
+## Cynthia DiDonato [01:28:48](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5328s)
+
+It was printed on photographic paper, and the photographic 10 pieces were rolled. And put in a tube to carry on the plane. And like I said, you know, one of the people I know that was in the show brought the tube there and got it through customs. It's incredible rigmarole you have to go through in order to go to Cuba, in order to show your work in Cuba.
+
+So that's why they seemed rolled to start with. And then they have their own little hanging system, so you didn't have to frame anything. Which was wonderful to me. And they had these tubes at the top and the bottom with a hanging strap. And eventually it would relax it and hold it straight.
+
+## Lee Musgrave [01:29:37](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5377s)
+
+So I would assume then if somebody bought one of those, they would eventually frame it under glass.
+
+## Cynthia DiDonato [01:29:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5384s)
+
+Right, but you know, you cannot buy art from the U.S. In Cuba. So there it is.
+
+## Lee Musgrave [01:29:55](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5395s)
+
+I wasn't. That wasn't what I was interested in as much as I was intrigued by the presentation. Paper hanging on the wall, exposed. You can. It's my curator background coming out. You know, all sorts of dangers are involved with that in terms of preservation.
+
+## Cynthia DiDonato [01:30:20](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5420s)
+
+There was a plastic, clear plastic piece on the front and the back. So the whole thing was secured. Should someone have a drink and it flies over toward the work, it would not hurt it.
+
+## Lee Musgrave [01:30:36](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5436s)
+
+So it was sealed, in other words.
+
+## Cynthia DiDonato [01:30:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5439s)
+
+Right. Sealed. Right. Sealed. All right.
+
+## Lee Musgrave [01:30:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5442s)
+
+Thank you.
+
+## Davonte Bradley [01:30:45](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5445s)
 
 All right. We actually have a comment from Malavika. She says, amazing work, Santhea. Love the texture and freshness of the colors. Want to know the process of the painting. And if you have any questions about the tree series, is there are there any prints only or are they reworked? And if it's printed, she would love to know the surface.
+
+## Cynthia DiDonato [01:31:07](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5467s)
 
 Okay. Well, when I print my pieces, I have printed them on high quality photographic paper. That's one way that I've done it. I've also printed it on Hammamule bamboo. On a panel. That's been coated, specially coated to protect it. And I've also printed it on a bamboo. So that's what I've done so far. I really need to explore other ways to show the work. Other than framing it like a photograph or placing it on a panel. And I also want to blow it up larger. The largest I've gone with the pieces are 20 by 30.
 
 And I'd like to try something even larger than that. And I'm not sure if I can do that. But I've explored whether, you know, to print it on an aluminum surface, a metal surface. There are all kinds of ways to do it. You print it on canvas. So I'm looking into these different ways that I can print it. Of course, all of this is expensive. Not the printing so much as the framing. So that's always a challenge.
 
-But, yeah, it's something that I certainly love. I really need to explore more. You can definitely attest to a lot of people in here using metal print with their work. Quite a few people. Myself included. Really love that as a medium for printing. I don't know. I guess something about aluminum, it lends itself to digital work very well. Yeah, Tommy showing off his work printed on what? Is that some sort of fabric?
+But, yeah, it's something that I certainly love. I really need to explore more.
 
-He has it muted. Trying to figure out on mute. Yep. Technology gets the best of me. Sorry. This is signs.com has prints on a wrinkle resistant polyester fabric that's really fantastic. It's pretty inexpensive. And I've been making some very large prints through there. That sign, S-I-G-N-S dot C-O-M.
+## Davonte Bradley [01:32:29](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5549s)
 
-Wrinkle resistant. Wrinkle resistant. What's the rest of it? Like polyester. It's just a polyester fabric is what they call it. It's their banner material. But it takes a nice, I don't know if you can see the resolution on it. But it's, it's, it's, it's, the colors are nice. The resolution is pretty darn good. You know, and it has a, it's very lightweight. And so you could, you could ship it, you know, inexpensively. And you fold it up. So how do you, how do you tack it up, Tommy? How do you put it on the wall? I've been using. I've been using Ikea.
+You can definitely attest to a lot of people in here using metal print with their work. Quite a few people. Myself included. Really love that as a medium for printing. I don't know. I guess something about aluminum, it lends itself to digital work very well. Yeah, Tommy showing off his work printed on what? Is that some sort of fabric?
 
-Curtain hardware. Ikea, the, the furniture store. Yeah. Has different hardware for hanging curtains. I find that there. I'm not going to remember the name. Dictad or something like that. It actually might be it. D-I-K-T-A-D. Is the sort of hanger and sort of. Wire. Hardware they sell 15 bucks, but it looks very. You know, sort of modern. And professional.
+## Tommy Mintz [01:32:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5578s)
 
-I'll have to check that out. All right. Thank you, Tommy, for sharing. All right. Next up we have Rebecca. I'll go ahead and lower your hand. There we go. Oh, you're muted. Hold on. There we go. Cynthia. I'm so inspired by your work. It's. So incredible. So beautiful. You inspired me to. Maybe try some. I'm able to bend things. I believe, you know, try. Bringing some texture and other things and not just think I have to. Draw everything myself. So I'm very inspired, but my question is. On some of your work. You said you started with a shingle. And I just wondered. Do you, and your, then your titles are so app. Like they just totally describe it. So are you. When you're doing your digital art. Are you thinking about. Are you thinking something specific or do you just kind of. I don't know.
+He has it muted.
 
-Just see where stuff takes you or how, what are you thinking about when you're actually. Doing these beautiful pieces. Thank you. Rebecca. I generally am an experimental artist. In fact, I do belong to the group that you belong to. And so that's the way I like to work. I like to. Get through things. You know, that's how I started to throw something down and look at it. Turn it around.
+## Cynthia DiDonato [01:33:00](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5580s)
 
-And that. If something happens, sometimes things don't happen. I can tell you. I have a lot of things. That didn't work. But that's pretty much how I work. And as I'm moving along. You know, what title might come, but sometimes titles are to be so difficult. So I. I look at the work and what does it say to me? If I can't come up with something, it's generally untitled.
+Trying to figure out on mute.
 
-But yeah, I pretty much work experimentally. Not that I don't work with a concept sometimes. Maybe it's my emotion that works in with my experimentation. I think that happens a lot. And so, yeah, maybe I'm unconsciously thinking about something. But I love being spontaneous and letting things happen.
+## Tommy Mintz [01:33:02](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5582s)
 
-And that's what I very much enjoyed about your presentation, Rebecca, is that you're exploring. And thank you so much for sharing this today. Thank you, Cynthia. Thank you, Rebecca. All right. We are. We are actually running low on time. And there's a couple of things that I want to get to before we wrap up. But Renata, you can go ahead and get your question. Hold on. Your hand. All right. Yeah, just briefly, while we're on the subject of printing, I thought I'd throw in ceramic tile is another way of printing your digital work. So it comes in matte finish.
+Yep. Technology gets the best of me. Sorry. This is signs.com has prints on a wrinkle resistant polyester fabric that's really fantastic. It's pretty inexpensive. And I've been making some very large prints through there. That sign, S-I-G-N-S dot C-O-M.
 
-Or it comes in a gloss finish. So, yeah. Sorry, I'm bleeding in and out there. But the gloss is very beautiful. You can put a hook on the back of it. He comes. There's a man in California who does them for me. And I have to say that the color and the resolution of the image is really spot on. He's very, very good. And I will hunt down his name and send it to Cynthia and post it on Facebook group. Oh, thank you. Thank you. Yes, I'd love to hear about that. Yeah. Always about sharing resources and, you know, things that we all could definitely benefit from in some way, or at least learn what our options are. All right. And Shalda, let's see. Yes. I was wondering, talking about printing, I haven't been happy with the metal. I'm wondering if other people have the same experience that some of the detail is fuzz, like in the beautiful texture that Cynthia had, you know, some of that would be lost and the reds kind of lose their pop.
+## Unattributed [01:33:24](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5604s)
 
-And there's a, there's an overall kind of yellow shift. I found it very unsatisfactory. Am I doing something wrong? Other, other artists seem to love it. It could, it could very well come down to your printer or the resolution that you're using. Those are two big things when it comes to getting the colors right with aluminum prints.
+Wrinkle resistant.
 
-If the, I typically use 300 with mine. But I think Lee had something to add. I think, saw you raising your hand. Just a quick footnote. I've had my work exhibited in several locations in Europe, and I was surprised to discover that every single one of them insisted that the prints be on aluminum. They didn't want to see anything on any kind of paper or fabric or canvas at all. They wanted them all on aluminum. Whereas here in the United States, just about every exhibit I've had here, it's on paper framed under plexi.
+## Cynthia DiDonato [01:33:25](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5605s)
 
-Interesting. Cynthia, you had something to add? Yeah, I was going to say something about printing. That one of the things I do if I don't know who I'm working with and how good they are with color, is like, I actually put my print, my image into the most generic CYMK in Photoshop and strip off any unprintable colors. I mean, that will get rid of, because all the other methods with color profiles have seen what's printable and not printable. If you don't have their profile, it's not going to work. And then I stick it back into RGB when I send it to them. But I will have gotten rid of those.
+Wrinkle resistant. What's the rest of it?
 
-And then I will have gotten rid of those out of range colors by putting it into the dumbed down CYMK. And that usually works for me. That's great advice. Yeah. I know one of the labs I work with that print for me, they will do a test print of an area that may blow up and look fuzzy. And then I can decide if I want to go ahead with the whole piece. And that's been very helpful. It's like a $10 test print. Of an area. Bay photo is great. Yes, Tommy. I use Bay photo as well.
+## Tommy Mintz [01:33:28](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5608s)
 
-Cynthia, did you have something else to add? No. I mean, I always have more to say, but. All right. Thank you. Thank you, everyone, for your questions so far. We do have 10 minutes left. And in those 10 minutes, I'd like to try and get in Malavika and Michael. I know you both had something that you wanted to share. So, Malavika, you want to go ahead and share your information about your collaboration project that you're starting? Yes, sure.
+Like polyester. It's just a polyester fabric is what they call it. It's their banner material. But it takes a nice, I don't know if you can see the resolution on it. But it's, it's, it's, it's, the colors are nice. The resolution is pretty darn good. You know, and it has a, it's very lightweight. And so you could, you could ship it, you know, inexpensively.
 
-So, can I share a screen so that it will be faster also? Later on, they can check the link for the more details. Okay. Yeah. Yeah. Yeah. It was a good question. It's coming. Also thank you very much, Cynthia, for your presentation. I know I didn't actually do like a round of applause, but as we wrap things up. But thank you very much for your presentation. It was wonderful. Thank you for allowing me to present.
+## Unattributed [01:33:49](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5629s)
 
-No problem. Okay. Can you see the screen? Yep. Yep. We've got it. So, I have, I'm inspired from the textualism law. And keeping that in mind, I want to do right now short thanks to Colleen and Rahul for this project, which you have come up with, the collaborative project. From that only, I got inspired and I was talking to my friends for multiple, multiple names. It will be maybe two or three continuous change of artwork collaborative project. So, then one of my friends, he, she is having a gallery. And I was like, okay, I'm going to do this. So, this is my project. It's called the Artists at Fondicherry, India. So, we thought of, okay, let's come up with the physical and digital project. So, this is the call for artists we have created. And as I said, I'm still impressed with the expressionism.
+And you fold it up. So how do you, how do you tack it up, Tommy? How do you put it on the wall?
+
+## Tommy Mintz [01:33:55](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5635s)
+
+I've been using. I've been using Ikea. Curtain hardware. Ikea, the, the furniture store. Yeah. Has different hardware for hanging curtains. I find that there. I'm not going to remember the name. Dictad or something like that. It actually might be it. D-I-K-T-A-D. Is the sort of hanger and sort of. Wire.
+
+Hardware they sell 15 bucks, but it looks very. You know, sort of modern. And professional.
+
+## Cynthia DiDonato [01:34:28](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5668s)
+
+I'll have to check that out.
+
+## Davonte Bradley [01:34:31](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5671s)
+
+All right. Thank you, Tommy, for sharing. All right. Next up we have Rebecca. I'll go ahead and lower your hand. There we go. Oh, you're muted. Hold on.
+
+## Rebecca Tombaugh [01:34:51](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5691s)
+
+There we go. Cynthia. I'm so inspired by your work. It's. So incredible. So beautiful. You inspired me to. Maybe try some. I'm able to bend things. I believe, you know, try. Bringing some texture and other things and not just think I have to. Draw everything myself. So I'm very inspired, but my question is. On some of your work. You said you started with a shingle. And I just wondered. Do you, and your, then your titles are so app. Like they just totally describe it. So are you. When you're doing your digital art. Are you thinking about. Are you thinking something specific or do you just kind of. I don't know. Just see where stuff takes you or how, what are you thinking about when you're actually.
+
+Doing these beautiful pieces. Thank you.
+
+## Cynthia DiDonato [01:35:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5739s)
+
+Rebecca. I generally am an experimental artist. In fact, I do belong to the group that you belong to. And so that's the way I like to work. I like to. Get through things. You know, that's how I started to throw something down and look at it. Turn it around. And that. If something happens, sometimes things don't happen. I can tell you. I have a lot of things. That didn't work.
+
+But that's pretty much how I work. And as I'm moving along. You know, what title might come, but sometimes titles are to be so difficult. So I. I look at the work and what does it say to me? If I can't come up with something, it's generally untitled. But yeah, I pretty much work experimentally. Not that I don't work with a concept sometimes. Maybe it's my emotion that works in with my experimentation.
+
+I think that happens a lot. And so, yeah, maybe I'm unconsciously thinking about something. But I love being spontaneous and letting things happen. And that's what I very much enjoyed about your presentation, Rebecca, is that you're exploring. And thank you so much for sharing this today. Thank you, Cynthia.
+
+## Davonte Bradley [01:37:14](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5834s)
+
+Thank you, Rebecca. All right. We are. We are actually running low on time. And there's a couple of things that I want to get to before we wrap up. But Renata, you can go ahead and get your question. Hold on. Your hand. All right.
+
+## Renata Janiszewska [01:37:31](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5851s)
+
+Yeah, just briefly, while we're on the subject of printing, I thought I'd throw in ceramic tile is another way of printing your digital work. So it comes in matte finish. Or it comes in a gloss finish. So, yeah. Sorry, I'm bleeding in and out there. But the gloss is very beautiful. You can put a hook on the back of it. He comes. There's a man in California who does them for me. And I have to say that the color and the resolution of the image is really spot on. He's very, very good. And I will hunt down his name and send it to Cynthia and post it on Facebook group.
+
+## Davonte Bradley [01:38:14](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5894s)
+
+Oh, thank you.
+
+## Renata Janiszewska [01:38:15](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5895s)
+
+Thank you. Yes, I'd love to hear about that.
+
+## Cynthia DiDonato [01:38:17](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5897s)
+
+Yeah.
+
+## Davonte Bradley [01:38:18](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5898s)
+
+Always about sharing resources and, you know, things that we all could definitely benefit from in some way, or at least learn what our options are. All right. And Shalda, let's see.
+
+## Chalda Maloff [01:38:32](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5912s)
+
+Yes. I was wondering, talking about printing, I haven't been happy with the metal. I'm wondering if other people have the same experience that some of the detail is fuzz, like in the beautiful texture that Cynthia had, you know, some of that would be lost and the reds kind of lose their pop. And there's a, there's an overall kind of yellow shift.
+
+I found it very unsatisfactory. Am I doing something wrong? Other, other artists seem to love it.
+
+## Davonte Bradley [01:39:06](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5946s)
+
+It could, it could very well come down to your printer or the resolution that you're using. Those are two big things when it comes to getting the colors right with aluminum prints.
+
+## Unattributed [01:39:18](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5958s)
+
+If the, I typically
+
+## Davonte Bradley [01:39:23](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5963s)
+
+Use 300 with mine. But I think Lee had something to add. I think, saw you raising your hand.
+
+## Unattributed [01:39:31](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5971s)
+
+Just a quick footnote.
+
+## Lee Musgrave [01:39:34](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=5974s)
+
+I've had my work exhibited in several locations in Europe, and I was surprised to discover that every single one of them insisted that the prints be on aluminum. They didn't want to see anything on any kind of paper or fabric or canvas at all. They wanted them all on aluminum. Whereas here in the United States, just about every exhibit I've had here, it's on paper framed under plexi.
+
+## Davonte Bradley [01:40:05](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6005s)
+
+Interesting. Cynthia, you had something to add?
+
+## Cynthia Beth Rubin [01:40:10](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6010s)
+
+Yeah, I was going to say something about printing. That one of the things I do if I don't know who I'm working with and how good they are with color, is like, I actually put my print, my image into the most generic CYMK in Photoshop and strip off any unprintable colors. I mean, that will get rid of, because all the other methods with color profiles have seen what's printable and not printable. If you don't have their profile, it's not going to work. And then I stick it back into RGB when I send it to them. But I will have gotten rid of those.
+
+And then I will have gotten rid of those out of range colors by putting it into the dumbed down CYMK. And that usually works for me.
+
+## Cynthia DiDonato [01:40:54](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6054s)
+
+That's great advice. Yeah. I know one of the labs I work with that print for me, they will do a test print of an area that may blow up and look fuzzy. And then I can decide if I want to go ahead with the whole piece. And that's been very helpful. It's like a $10 test print. Of an area.
+
+## Davonte Bradley [01:41:19](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6079s)
+
+Bay photo is great. Yes, Tommy. I use Bay photo as well. Cynthia, did you have something else to add?
+
+## Cynthia Beth Rubin [01:41:27](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6087s)
+
+No. I mean, I always have more to say, but.
+
+## Davonte Bradley [01:41:32](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6092s)
+
+All right. Thank you. Thank you, everyone, for your questions so far. We do have 10 minutes left. And in those 10 minutes, I'd like to try and get in Malavika and Michael. I know you both had something that you wanted to share. So, Malavika, you want to go ahead and share your information about your collaboration project that you're starting? Yes, sure.
+
+## Unattributed [01:41:57](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6117s)
+
+So, can I share a screen so that it will be faster also? Later on, they can check the link for the more details. Okay. Yeah. Yeah. Yeah. It was a good question.
+
+## Davonte Bradley [01:42:19](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6139s)
+
+It's coming. Also thank you very much, Cynthia, for your presentation. I know I didn't actually do like a round of applause, but as we wrap things up. But thank you very much for your presentation. It was wonderful.
+
+## Cynthia DiDonato [01:42:32](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6152s)
+
+Thank you for allowing me to present.
+
+## Davonte Bradley [01:42:35](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6155s)
+
+No problem. Okay.
+
+## Unattributed [01:42:39](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6159s)
+
+Can you see the screen? Yep.
+
+## Davonte Bradley [01:42:41](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6161s)
+
+Yep.
+
+## Unattributed [01:42:41](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6161s)
+
+We've got it. So, I have, I'm inspired from the textualism law. And keeping that in mind, I want to do right now short thanks to Colleen and Rahul for this project, which you have come up with, the collaborative project. From that only, I got inspired and I was talking to my friends for multiple, multiple names. It will be maybe two or three continuous change of artwork collaborative project. So, then one of my friends, he, she is having a gallery. And I was like, okay, I'm going to do this. So, this is my project. It's called the Artists at Fondicherry, India. So, we thought of, okay, let's come up with the physical and digital project. So, this is the call for artists we have created. And as I said, I'm still impressed with the expressionism.
 
 So, I have tried to add the expressionism word along with the link on the about part. Yeah. Together. In the sense, I have created two different groups. One is digital, the other one is physical art, and we are doing internationally. So just wanted to share that whoever is interested can please look into this link and can join. And we are first taking the name of the artist and along with the art images. Once we get it, we'll send a selection note and later on we will create the group. So I think I have given a gist because we have a short time. I hope there is an application form. I mean, I'll just go to that. It's a call for artists. If you click, we'll go to the application form.
 
-And this is the team. We are two of us. Me and my, I mean, the person who is having, I think it's not getting, yeah. She's Keetie Chandler and here I am. All right. Well, thank you very much. Yeah. Thank you. Thank you. And I went ahead and I shared the link in the chat. So if anybody is interested, they can go ahead and click that and, you know, go there and check out the project, which is an extension of the project that started here. Yeah, thank you. You have done it. Thank you. You're welcome.
+And this is the team. We are two of us. Me and my, I mean, the person who is having, I think it's not getting, yeah. She's Keetie Chandler and here I am.
 
-All right. And last but not least, we have Michael. Thanks, Davo. Well, actually, I have two really quick things. Okay. First, I mentioned it on the Discord server. So anybody who hasn't been on Discord yet, or if you haven't joined the Discord server, please do so. I was fortunate enough, that a couple months ago, I joined Playform to work on some AI art that I've been really exploring and I joined their studio program and they're just recently put together a new exhibition, which I got in and it's going to debut on Rarible through Playform on this coming Monday.
+## Davonte Bradley [01:44:53](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6293s)
+
+All right.
+
+## Unattributed [01:44:54](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6294s)
+
+Well, thank you very much. Yeah. Thank you.
+
+## Davonte Bradley [01:44:58](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6298s)
+
+Thank you. And I went ahead and I shared the link in the chat. So if anybody is interested, they can go ahead and click that and, you know, go there and check out the project, which is an extension of the project that started here.
+
+## Unattributed [01:45:09](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6309s)
+
+Yeah, thank you. You have done it. Thank you.
+
+## Davonte Bradley [01:45:13](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6313s)
+
+You're welcome. All right. And last but not least, we have Michael.
+
+## Michael Pierre Price [01:45:21](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6321s)
+
+Thanks, Davo. Well, actually, I have two really quick things. Okay. First, I mentioned it on the Discord server. So anybody who hasn't been on Discord yet, or if you haven't joined the Discord server, please do so. I was fortunate enough, that a couple months ago, I joined Playform to work on some AI art that I've been really exploring and I joined their studio program and they're just recently put together a new exhibition, which I got in and it's going to debut on Rarible through Playform on this coming Monday.
 
 There's actually going to be an artist talk. I'm not sure if that's going to be viewable by outside folks. I'll find out if I know that for sure. I'll post a link on Discord. But I'll be one of the presenting artists giving a five-minute talk on my work. The thing that just a little incentive is that the artwork is available now and will be part of their AI program where you can stylize artwork based on existing pieces. And one of mine is part of that stylistic grouping of the artists that are in this new show. And basically, if I get more people trying my artwork than anybody else, then Playform commits to bidding on that. And I'm going to be talking about the NFT, which anybody who's heard me talk about NFTs is probably chuckling right now because I got dragged into this. It wasn't my idea.
 
 And then the second thing real quickly is I've got a solo show in September here in Phoenix. Techspressionism is going to be highlighted as part of the show. And from a very practical sense, I want to throw kudos out. To Lucy Boyd-Wilson, who's my collaborator in the show. She is helping me create the AR work. So I'm going to have a very interactive show that's got AR in my art.
 
-And I'm doing a few interviews locally and beyond. And Techspressionism is a central part of it. So thanks to everybody. And thanks especially to Colin. So there you go. Thank you. Thank you. Thank you. Thank you. Thank you. I would totally go all the way out there to go to your show if I had the means. Yeah, well, thank you, Davo. I appreciate the sentiment. Yeah, I'll be there in spirit.
+And I'm doing a few interviews locally and beyond. And Techspressionism is a central part of it. So thanks to everybody. And thanks especially to Colin. So there you go.
 
-All right. Well, I hope somebody else from here or other people might be able to attend if they're able. Because we should try and help support each other in person, too, not just virtually. So that being said, we are right here at the three-minute marker. We're going to get started in about a minute or two. So if anybody has anything else they want to share in like two minutes.
+## Davonte Bradley [01:48:00](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6480s)
 
-Oh, Colin, you got something? I got something real quick. All right. Cool. I just wanted to drop a link in the chat. So this is a project that I did with Helen Harrison, who's our group advisor. It was for the Paula Krasner House and Study Center. And the site just launched recently. It's a show that's up there now called Picasso and Me. And it's about a woman named Helen Harrison Pollock, which is a really interesting show. And the site has a great essay on it, which talks about Picasso's influence on Pollock. And even though the two of them never met in person, Pollock was very influenced by cubism and by Picasso's work. And just yesterday, actually, Helen sent me over a link to a Matterport capture of the installation, which has been added to the site under the installation tab. So you can actually go in.
+Thank you. Thank you. Thank you. Thank you. Thank you. I would totally go all the way out there to go to your show if I had the means.
 
-And it's inside Pollock. It's actually in the Jackson Pollock and Lee Krasner's house. The show is installed in the house. So it's interesting. And the Picasso pieces are facsimiles that were created by a service bureau called Dugal, which is based in New York City. And they have a facility in West Hampton Beach. And then there's several original Pollocks in the exhibition, too, which are owned by the Pollock-Krasner House. So it's a really interesting show. And I encourage you guys to check it out. It's just PicassoinPollock.org.
+## Michael Pierre Price [01:48:08](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6488s)
+
+Yeah, well, thank you, Davo.
+
+## Unattributed [01:48:10](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6490s)
+
+I appreciate the sentiment.
+
+## Davonte Bradley [01:48:12](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6492s)
+
+Yeah, I'll be there in spirit. All right. Well, I hope somebody else from here or other people might be able to attend if they're able. Because we should try and help support each other in person, too, not just virtually. So that being said, we are right here at the three-minute marker. We're going to get started in about a minute or two. So if anybody has anything else they want to share in like two minutes.
+
+Oh, Colin, you got something?
+
+## Colin Goldberg [01:48:42](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6522s)
+
+I got something real quick.
+
+## Unattributed [01:48:43](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6523s)
+
+All right.
+
+## Colin Goldberg [01:48:44](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6524s)
+
+Cool. I just wanted to drop a link in the chat. So this is a project that I did with Helen Harrison, who's our group advisor. It was for the Paula Krasner House and Study Center. And the site just launched recently. It's a show that's up there now called Picasso and Me. And it's about a woman named Helen Harrison Pollock, which is a really interesting show. And the site has a great essay on it, which talks about Picasso's influence on Pollock. And even though the two of them never met in person, Pollock was very influenced by cubism and by Picasso's work. And just yesterday, actually, Helen sent me over a link to a Matterport capture of the installation, which has been added to the site under the installation tab. So you can actually go in. And it's inside Pollock. It's actually in the Jackson Pollock and Lee Krasner's house.
+
+The show is installed in the house. So it's interesting. And the Picasso pieces are facsimiles that were created by a service bureau called Dugal, which is based in New York City. And they have a facility in West Hampton Beach. And then there's several original Pollocks in the exhibition, too, which are owned by the Pollock-Krasner House. So it's a really interesting show. And I encourage you guys to check it out. It's just PicassoinPollock.org.
+
+## Davonte Bradley [01:50:08](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6608s)
 
 All right. And that link is in the chat. And I will definitely upload this one because I haven't been good with this and uploading them to Discord. But this one will definitely go into the Discord in the chat log section. And, yeah, we got one minute. So that, I guess, will wrap things up. Thank you very much for attending and making this salon as great as it possibly could be. And, you know, thank you for showing up, being here, contributing to discussions and presentations, all of that good stuff.
 
-It's all very much appreciated. So thank you, everyone. And thank you for being here. This would not be possible if not for all of you and the passion that you bring to the table. So thank you. And thank you, Davo, for continuing to moderate, you know, and do such a great job with it. Thank you. I really appreciate it. Thank you. All right, folks. This will be the end of the meeting. You don't have to leave. But we will stop recording in about two seconds. So adios.
+It's all very much appreciated. So thank you, everyone. And thank you for being here. This would not be possible if not for all of you and the passion that you bring to the table. So thank you.
+
+## Colin Goldberg [01:50:57](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6657s)
+
+And thank you, Davo, for continuing to moderate, you know, and do such a great job with it. Thank you. I really appreciate it.
+
+## Davonte Bradley [01:51:04](https://www.youtube.com/watch?v=pmau5CDJUiQ&t=6664s)
+
+Thank you. All right, folks. This will be the end of the meeting. You don't have to leave. But we will stop recording in about two seconds. So adios.

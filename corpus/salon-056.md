@@ -39,19 +39,41 @@ flags:
   - moderator_missing
 ---
 
-## Unattributed [00:03](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3s)
+## Colin Goldberg [00:03](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3s)
 
 Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon Number 56. Today is Wednesday, November 9th, and the theme of tonight's salon is cultural influences. And that was suggested by Giovanna, who's here with us tonight. And the way it's going to work is, you know, if you're interested in presenting your work, please use the reactions button at the bottom of the Zoom grid window to raise your hand. And I will call on artists in the order that I see them in the queue there.
 
 And again, it does not need to be any kind of real formal presentation. Although if you did create a formal presentation. That's great, too. You're more than welcome to share your screen and pull work up either off your desktop or off the web or whatever you so choose. You know, and the topic of cultural influences is also, you know, quite widely open to interpretation. So without further ado, I see on the top of my list is Vernada. So Vernada, do you want to kick us off?
 
-Sure, we can do that. Well, since I had my NFT presentation today, and it's all about cultural influences, I figured I would do
+## Verneda Lights [01:23](https://www.youtube.com/watch?v=I7-nXjL2koA&t=83s)
 
-## Verneda Lights [01:36](https://www.youtube.com/watch?v=I7-nXjL2koA&t=96s)
+Sure, we can do that. Well, since I had my NFT presentation today, and it's all about cultural influences, I figured I would do a repeat. It lasts about five minutes. So let's get started.
 
-A repeat. It lasts about five minutes. So let's get started. Oh, and if you're not presenting, if you could mute yourself, that would be appreciated. Okay. Okay, hold on a second. Let me pull up my, get my screen queued up here. Okay. Okay. Okay. Well, good evening. My name is Verneda Lights. And I'm a visual. I'm a visual artist who uses both Techspressionist and traditional approaches to create fine art. My artistic practice is richly informed by my background as a graphic and web designer, author, performance poet, historian, retired physician, and griot of the Gullah Geechee Nation of the South Carolina Low Country. The title of my NFT project is Gullah Me 2.0.
+## Colin Goldberg [01:47](https://www.youtube.com/watch?v=I7-nXjL2koA&t=107s)
 
-Let me share my screen. Let me get this started. Okay. Gullah Me 2.0 is the backstory to my original Gullah Me collection, which is a series of digitally rendered multidimensional portraits of myself and family members that were made during and in the aftermath of my stint as a family caregiver. This series is a collection of my family members that were made during and in the aftermath of my stint as a family caregiver. The second phase in the Gullah Me story records my family's oral history as told by my father, Vernon Lights Sr.
+Oh, and if you're not presenting, if you could mute yourself, that would be appreciated.
+
+## Verneda Lights [01:54](https://www.youtube.com/watch?v=I7-nXjL2koA&t=114s)
+
+Okay. Okay, hold on a second. Let me pull up my, get
+
+## Unattributed [02:02](https://www.youtube.com/watch?v=I7-nXjL2koA&t=122s)
+
+My screen queued up here. Okay. Okay. Okay.
+
+## Verneda Lights [02:18](https://www.youtube.com/watch?v=I7-nXjL2koA&t=138s)
+
+Well, good evening. My name is Verneda Lights. And I'm a visual. I'm a visual artist who uses both Techspressionist and traditional approaches to create fine art. My artistic practice is richly informed by my background as a graphic and web designer, author, performance poet, historian, retired physician, and griot of the Gullah Geechee Nation of the South Carolina Low Country. The title of my NFT project is Gullah Me 2.0.
+
+Let me share my screen. Let me get this started.
+
+## Unattributed [03:03](https://www.youtube.com/watch?v=I7-nXjL2koA&t=183s)
+
+Okay.
+
+## Verneda Lights [03:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=185s)
+
+Gullah Me 2.0 is the backstory to my original Gullah Me collection, which is a series of digitally rendered multidimensional portraits of myself and family members that were made during and in the aftermath of my stint as a family caregiver. This series is a collection of my family members that were made during and in the aftermath of my stint as a family caregiver. The second phase in the Gullah Me story records my family's oral history as told by my father, Verneda Lights Sr.
 
 Soon, Gullah Me 2.0 will debut and be available on the blockchain as NFTs. I'm presenting before you today because I am basically on a vision quest. And I'm looking for 12 good, fearless people to walk with me on my NFT oral history to blockchain. Journey. I call them my undaunted dozen. The undaunted dozen are good, brave souls who care about Black culture and Black art, social justice, and preservation of the cultures of Black and Indigenous peoples of color here in the United States and abroad. But just in case you think the undaunted dozen are not enough, their group is too small, remember that 12 unlearned people changed the world 2,000 years ago, and we witnessed how their lives changed our world every time we see a church.
 
@@ -67,25 +89,67 @@ I chose to launch Gullamy 2.0 within the NFT space because my people are in dang
 
 Oral histories are important because they share collective wisdom and insights that strengthen our communities and our nations. So if you believe that it's important to preserve the oral histories of those whose cultures are endangered, endangered, meet with me later on in the... Session after the salon meeting and let me know what your thoughts are. If you want to learn more, you can go to my website, gullamee.com, G-U-L-L-A-H-M-E dot C-O-M and click on the tab that says Gullamee 2.0 NFT Project and sign up for future email notices.
 
-Thanks. And I can entertain any questions you may have. Thanks, Renata. Yeah, I guess maybe we could let's see if we have any questions. I think maybe what we've been doing is sort of holding all the questions until the end and then we kind of can open it up into an open discussion. That way we'll make sure that everyone gets a chance to present first. So yeah, thank you for sharing your presentation. And if anyone has some questions for Renata or any of the other presenters, we will open it up when everyone's done. And we also have David Bloom has an announcement to make. So he's going to make about a potential artist opportunity and a new project that he's going to be sharing also after the artist presentations.
+Thanks. And I can entertain any questions you may have.
 
-So the next artist up in the lineup is Giovanna.
+## Colin Goldberg [08:12](https://www.youtube.com/watch?v=I7-nXjL2koA&t=492s)
 
-## Giovanna Sun [09:01](https://www.youtube.com/watch?v=I7-nXjL2koA&t=541s)
+Thanks, Renata. Yeah, I guess maybe we could let's see if we have any questions. I think maybe what we've been doing is sort of holding all the questions until the end and then we kind of can open it up into an open discussion. That way we'll make sure that everyone gets a chance to present first. So yeah, thank you for sharing your presentation. And if anyone has some questions for Renata or any of the other presenters, we will open it up when everyone's done. And we also have David Bloom has an announcement to make. So he's going to make about a potential artist opportunity and a new project that he's going to be sharing also after the artist presentations.
 
-And when you come on, if you would like to share, you know, where you're located as well, that would be great. Just so people have an idea of where everyone's zooming in from. Absolutely. I think I just sort of played a video. Okay. So I already, I added, it's actually just this afternoon. Can you see my screen?
+So the next artist up in the lineup is Giovanna. And when you come on, if you would like to share, you know, where you're located as well, that would be great. Just so people have an idea of where everyone's zooming in from.
 
-Yeah. Okay. Because I'm, you know, I'm not that good if I want to say something live. So I already, I just made it. People often ask me, how did I get Italian in? Like Giovanna Sun I have an Italian name. When I changed to US possible, I feel like, okay, let's change something different. So I didn't have an English name. Instead, I have an Italian name. I really like Italian cultural, the food, the music, the history, the art, architecture, everything. When I graduated from college, I even, I was a backpack traveler.
+## Giovanna Sun [09:13](https://www.youtube.com/watch?v=I7-nXjL2koA&t=553s)
+
+Absolutely. I think I just sort of played a video. Okay. So I already, I added, it's actually just this afternoon. Can you see my screen?
+
+## Colin Goldberg [09:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=567s)
+
+Yeah.
+
+## Giovanna Sun [09:29](https://www.youtube.com/watch?v=I7-nXjL2koA&t=569s)
+
+Okay. Because I'm, you know, I'm not that good if I want to say something live. So I already, I just made it. People often ask me, how did I get Italian in? Like Giovanna Sun I have an Italian name. When I changed to US possible, I feel like, okay, let's change something different. So I didn't have an English name. Instead, I have an Italian name. I really like Italian cultural, the food, the music, the history, the art, architecture, everything. When I graduated from college, I even, I was a backpack traveler.
 
 I went to Italy and I just love all these architecture and art. And it's also very funny because there's an old saying that when Marco Polo traveled to China, and he learns how Chinese make those pancakes, like with the skinned onion, green onions. So when he back to Italy, he started, he started to teach people how to make pizza. Okay. I don't want to offend Italian, but that's something I heard when I, when I studied in Taiwan. So that was like, I'll say it is a cultural inference, but some people they, you know, like these days, the people, they feel very angry. They all say, oh, this is a cultural appropriation, which means something really bad. They think that you shouldn't use other culture. As represent your cultural. I'm big fan of Japanese, a cultural Italian cultural.
 
-I show. Oh, for some reason that I couldn't present the whole video. So I have to stop sharing. I know maybe use a YouTube. If you don't mind, or if I can have a little time. Yeah. Sure. Did you want to pull something else up? Now, or did you want to. I have a lot of videos and the image. For some reason that. Let me find my YouTube channel. Maybe it's more easy to share. I can just. It's always happened to me with, with zoom for some reason.
+I show. Oh, for some reason that I couldn't present the whole video. So I have to stop sharing. I know maybe use a YouTube. If you don't mind, or if I can have a little time. Yeah.
 
-Yeah, I just upload these videos. Okay. Okay. Okay. Let me reassure. See if I can do that. I'll remove. Okay. Okay. I get Italian and like Giovanna. I have an Italian and. When I change US passport. I feel like, okay, let's change something different. So I don't. I didn't have a. English name instead. I have Italian and. I really like Italian cultural.
+## Colin Goldberg [11:40](https://www.youtube.com/watch?v=I7-nXjL2koA&t=700s)
 
-The food, the music, the history, the art. Architecture. Everything's when I. I. I need to make those. Yeah. Yeah. For some reason I couldn't hear the other. Cultural. Artists. We also have a scientist. We have. Copa. And we have a crystal for Columbus. Because he. Place that we haven't. We haven't discovered.
+Sure. Did you want to pull something else up? Now, or did you want to.
 
-So this is a wide that, that the Renaissance. Kind of. It's a big as an era in the human history that. Change everything. And it's, it's not. Not only because they have these social movement. But they inference a lot of things as such. Do we exist? Why do we have art? So we create and what you know. Why do we want to create art? In age of a Renaissance?
+## Giovanna Sun [11:45](https://www.youtube.com/watch?v=I7-nXjL2koA&t=705s)
+
+I have a lot of videos and the image. For some reason that. Let me find my YouTube channel. Maybe it's more easy to share. I can just. It's always happened to me with, with zoom for some reason.
+
+## Unattributed [12:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=727s)
+
+Yeah, I just upload these videos. Okay. Okay.
+
+## Giovanna Sun [12:17](https://www.youtube.com/watch?v=I7-nXjL2koA&t=737s)
+
+Okay. Let me reassure. See if I can do that. I'll remove. Okay. Okay. I get Italian and like Giovanna. I have an Italian and. When I change US passport. I feel like, okay, let's change something different. So I don't. I didn't have a. English name instead. I have Italian and. I really like Italian cultural.
+
+The food, the music, the history, the art. Architecture. Everything's when I.
+
+## Unattributed [13:00](https://www.youtube.com/watch?v=I7-nXjL2koA&t=780s)
+
+I.
+
+## Cynthia DiDonato [13:03](https://www.youtube.com/watch?v=I7-nXjL2koA&t=783s)
+
+I need to make those. Yeah.
+
+## Giovanna Sun [13:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=785s)
+
+Yeah. For some reason I couldn't hear the other. Cultural.
+
+## Cynthia DiDonato [13:12](https://www.youtube.com/watch?v=I7-nXjL2koA&t=792s)
+
+Artists. We also have a scientist.
+
+## Giovanna Sun [13:15](https://www.youtube.com/watch?v=I7-nXjL2koA&t=795s)
+
+We have. Copa. And we have a crystal for Columbus. Because he. Place that we haven't. We haven't discovered. So this is a wide that, that the Renaissance. Kind of. It's a big as an era in the human history that. Change everything. And it's, it's not. Not only because they have these social movement. But they inference a lot of things as such. Do we exist? Why do we have art? So we create and what you know. Why do we want to create art? In age of a Renaissance?
 
 They shouldn't know. Penn and now we can use a computer to create. We can create art everywhere with the mobile phone and. iPad, any device. And we also have a very similar situation that Black Death was a pandemic. When I want to find a new idea to create ours, I find a lot of Renaissance public domain images from the Metropolitan Museum of Art. So I reinvent these old images. I create a digital video that has also come from Renaissance.
 
@@ -93,21 +157,41 @@ When people think about trans utopia, they may have different definitions and th
 
 Renaissance side of architecture and designs also have a great inference. I use a lot of vintage. So I created the video. You can use like for the desktop, like a wallpaper or just like a video loop. The idea is that you can actually think about that, how you can utilize these reuses. So I so call this as like a remix, remix. And you can see that at the ancient Rome, they use this DOM.
 
-So I create these, I call these a mix. And then I use it as a mirage. So I reinvent. Although we now we're in the new age of a renaissance thing, the actualize blockchain, finance, art, science, architecture, even a humanity. Okay. I wish you all see the video. I don't know why. This somehow is always a happen. When I want to use a zoom to share video anyway. So the whole idea is that trans utopia that actually come from Renaissance and which I think now we're like a renaissance. We have a pandemic. And when we have a pandemic, we think about why do, why don't we live in the present? Like, you know, when I create art, I can just focus. So I can have a less anxiety. And also we all like we may become legacy. Who knows? Like this is like the next renaissance. We have a blockchain. Like we have art.
+So I create these, I call these a mix. And then I use it as a mirage. So I reinvent. Although we now we're in the new age of a renaissance thing, the actualize blockchain, finance, art, science,
 
-We have all these movements. That's something like a renaissance because it's hard to believe that before the renaissance that people, they don't believe that we have a, we have the other side of the world. People don't not even believe with our earth is like a globe. So, I mean, this is a big movement, right? So, so even we can use our, and also I do like to have the idea of a creative common is also like a social sculpture. You can release a several rides that we can do a lot of a collab. It's like a remix and remix. If we don't want to have, we don't want to pay a lot of money for trademark. So why not? It's just a little more people get involved. So that's my sharing. Thank you. And I'm so glad I can share. My idea.
+## Unattributed [16:22](https://www.youtube.com/watch?v=I7-nXjL2koA&t=982s)
 
-Thank you. Giovanna. Thanks for sharing. And if you'd like to put your link to the video in the chat, definitely do that. And that'd be way people could sort of watch it on their own. All right.
+Architecture,
 
-## Marlow Shami [18:22](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1102s)
+## Giovanna Sun [16:23](https://www.youtube.com/watch?v=I7-nXjL2koA&t=983s)
 
-So next up is Tommy. Hi. So, wait, I really enjoyed both for NATO and Giovanna. And I think this is a great question. I'm thinking about this in kind of a different way. I'm going to just do my little slideshow and get on with it. But I had a sort of more of a. I guess direct response of what are the things that I think about when I'm making work.
+Even a humanity. Okay. I wish you all see the video. I don't know why. This somehow is always a happen. When I want to use a zoom to share video anyway. So the whole idea is that trans utopia that actually come from Renaissance and which I think now we're like a renaissance. We have a pandemic. And when we have a pandemic, we think about why do, why don't we live in the present? Like, you know, when I create art, I can just focus. So I can have a less anxiety. And also we all like we may become legacy. Who knows? Like this is like the next renaissance. We have a blockchain. Like we have art. We have all these movements. That's something like a renaissance because it's hard to believe that before the renaissance that people, they don't believe that we have a, we have the other side of the world.
+
+People don't not even believe with our earth is like a globe. So, I mean, this is a big movement, right? So, so even we can use our, and also I do like to have the idea of a creative common is also like a social sculpture. You can release a several rides that we can do a lot of a collab. It's like a remix and remix. If we don't want to have, we don't want to pay a lot of money for trademark. So why not? It's just a little more people get involved. So that's my sharing. Thank you. And I'm so glad I can share. My idea.
+
+## Colin Goldberg [18:08](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1088s)
+
+Thank you. Giovanna. Thanks for sharing. And if you'd like to put your link to the video in the chat, definitely do that. And that'd be way people could sort of watch it on their own. All right. So next up is Tommy.
+
+## Unattributed [18:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1107s)
+
+Hi. So,
+
+## Tommy Mintz [18:30](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1110s)
+
+Wait, I really enjoyed both for NATO and Giovanna. And I think this is a great question. I'm thinking about this in kind of a different way. I'm going to just do my little slideshow and get on with it. But I had a sort of more of a. I guess direct response of what are the things that I think about when I'm making work.
 
 As a, as a visual influence. Maybe. And I took the question the wrong way. Instead of the cultural, but maybe visual is cultural. That's the way I'm thinking. So let me see if I can just share. This. Yes. Good. So. I just really. Feel lucky that I. Was raised around museums as a cultural influence.
 
-I. Grew up in the 1980s in Manhattan. And, you know, not everywhere was. Comfortable and safe. The subway was, you know, feeling like this. And red grooms really. Gave a sense of like. What it felt like to be in a place visually. And that was my first aha moment. That sort of experience of like, wow, here's something that expresses like a feeling. And the culture of a place. Red grooms.
+I. Grew up in the 1980s in Manhattan.
 
-So in the same museum, so this is the Whitney. Right. And the old Whitney museum. On the Upper East side. I visited, I was brought there when I was young to see a show and. Red grooms. Jasper Johns and Robert Rauschenberg were there too. It's one of these things, right? I wonder. If this one visit to a museum sort of changed the direction. That I thought about.
+## Lee Day [19:26](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1166s)
+
+And, you know, not everywhere was. Comfortable and safe.
+
+## Tommy Mintz [19:31](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1171s)
+
+The subway was, you know, feeling like this. And red grooms really. Gave a sense of like. What it felt like to be in a place visually. And that was my first aha moment. That sort of experience of like, wow, here's something that expresses like a feeling. And the culture of a place. Red grooms. So in the same museum, so this is the Whitney. Right. And the old Whitney museum. On the Upper East side. I visited, I was brought there when I was young to see a show and. Red grooms. Jasper Johns and Robert Rauschenberg were there too. It's one of these things, right? I wonder. If this one visit to a museum sort of changed the direction. That I thought about.
 
 You know, sort of. What to do, what to think about what to. Pursue. And then I also. Growing up in New York, you sort of. In tight quarters with all sorts of people. And. I think that's a really good example of that. And this painter, Joan Schneider. Lived across the street. From a couple of years. And I got to see her work in process in her studio. And that was a huge cultural influence or influence on me. And I think her work is something that we should all look at. If you haven't seen it before. It's.
 
@@ -125,25 +209,39 @@ Real interest in, in architecture. It's sort of magical. I've never been to the.
 
 And then libraries. I spend a lot of time in libraries. I love libraries and books of photographs are magical. Which. Encompasses a lot of the historic pictures that I get exposed to actually. And I think that's one of the things that I've been very proud of. Reach lander and Jerry Altman are these collage artists who I think are also very influential on here. I'm going to stop. That's. Nine slides in 10 minutes, but I appreciate your attention. And I enjoy sharing work. I like, so thank you.
 
-All right. Awesome. Thank you, Tommy. Really interesting. Variety of work there that you shared. And let's see. Marlo is up next. Hi, everyone. I have a very short keynote. I'm going to share. And I was thinking about cultural influences. I actually thought. I was thinking about. The importance of cultural influences in the sense of fear and faith.
+## Colin Goldberg [24:02](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1442s)
 
-I grew up in a household that had a lot of. Discomfort going on in it. Here's one of the first digital pieces. When I went from analog to digital photography, it's called the girl's best friend. And that's little me in the corner taken from a slide. My father took with me. I would go out into the woods often. To celebrate, to console, to have witness. That was my museum. I was fortunate in the suburbs of New York city to have the woods. To go to. And. Yeah, there was violence. My father.
+All right. Awesome. Thank you, Tommy. Really interesting. Variety of work there that you shared. And let's see. Marlo is up next.
 
-Unfortunately. He had a tragic beginning, but he became a successful anesthesiologist. He was the first to leave his village in Israel. But he grew up when it, when that land was called Palestine and he grew up. In the middle of the world. And his people came from the caucuses. There were 12 tribes of Sir cash in. And his tribe was called the Diga. So his father, my grandfather migrated down to.
+## Marlow DJ Shami [24:19](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1459s)
 
-Palestine. During the time there was a horrible Russo. So cash in. Where the lasted a hundred years between. Mid 1800s, early 1900s. And there was tremendous genocide. And we're. So many people around the world had their people have experienced this. So a big piece of my. Art work source material is emotional in the sense of epigenetics. I believe we all.
+Hi, everyone. I have a very short keynote. I'm going to share. And I was thinking about cultural influences. I actually thought. I was thinking about. The importance of cultural influences in the sense of fear and faith. I grew up in a household that had a lot of. Discomfort going on in it. Here's one of the first digital pieces. When I went from analog to digital photography, it's called the girl's best friend. And that's little me in the corner taken from a slide. My father took with me.
 
-Have imprints, generational imprints, and I have stories I can't share here, but. Things I did as a child that I had no idea they were just rituals I did because I love the trees. So I do certain things with the trees, et cetera. I found out 40 years later after analyzing a dream. There was. A lot of. My ancestors did. In the caucuses.
+I would go out into the woods often. To celebrate, to console, to have witness. That was my museum. I was fortunate in the suburbs of New York city to have the woods. To go to. And. Yeah, there was violence. My father. Unfortunately. He had a tragic beginning, but he became a successful anesthesiologist. He was the first to leave his village in Israel.
+
+But he grew up when it, when that land was called Palestine and he grew up. In the middle of the world. And his people came from the caucuses. There were 12 tribes of Sir cash in. And his tribe was called the Diga. So his father, my grandfather migrated down to. Palestine. During the time there was a horrible Russo. So cash in. Where the lasted a hundred years between.
+
+Mid 1800s, early 1900s. And there was tremendous genocide. And we're. So many people around the world had their people have experienced this. So a big piece of my. Art work source material is emotional in the sense of epigenetics. I believe we all. Have imprints, generational imprints, and I have stories I can't share here, but. Things I did as a child that I had no idea they were just rituals I did because I love the trees. So I do certain things with the trees, et cetera. I found out 40 years later after analyzing a dream. There was. A lot of. My ancestors did. In the caucuses.
 
 For certain reasons, protection, et cetera. So this piece that I have up now is called Homeland. That's my father down in the right hand corner. That's me at age 16 when I visited Israel. There were horse people. But dad had to sleep with a gun under his pillow and go to work with a gun and a holster. He was a beloved doctor. So too was my mother. She was a pediatrician. He was an anesthesiologist.
 
 And I think that provided the fear and also the faith in the work I do as a visual artist. You know, initially when I made that transition in the mid-2000s to digital photography, I thought, ah, I'm going to show early work because it really exemplifies two very important threads in my work, the fear and the faith. I pulled my old black and white photos. I did a lot of negative burning, ripping photos.
 
-Sorts of crazy stuff as a as a ritual to honor those dark early days in my life and also to perform some sort of exorcism so this is this piece is called heavenly void based on a chinese astrologer's question to me what was going on in 1972 and I shared with him that and this piece is named after that period of time in my life skip ahead I spent eight years on a couple of bodies of work and what I've done here is I've knitted together some of a series I did called restoration in which I really spent a lot of time out in the natural world collecting files and leaving them together all of these pieces are anywhere between 15 by 15 to 20 by 20. I just thought it would be fun to put this together for tonight the work I'm doing now is very different I'm not going to go into it what I would like to do though is end with a short animation the last year and a half I've been working to develop my skill as an animator and this piece called making light is about my journey but I think everybody's journey as far as finding a place that we can call home and I'll end with that thanks for your attention and let me see if I can get that going it does have sound so!!
+Sorts of crazy stuff as a as a ritual to honor those dark early days in my life and also to perform some sort of exorcism so this is this piece is called heavenly void based on a chinese astrologer's question to me what was going on in 1972 and I shared with him that and this piece is named after that period of time in my life skip ahead I spent eight years on a couple of bodies of work and what I've done here is I've knitted together some of a series I did called restoration in which I really spent a lot of time out in the natural world collecting files and leaving them together all of these pieces are anywhere between 15 by 15 to 20 by 20. I just thought it would be fun to put this together for tonight the work I'm doing now is very different I'm not going to go into it what I would like to do though is end with a short animation the last year and a half I've been working to develop my skill as an animator and this piece called making light is about my journey but I think everybody's journey as far as finding a place that we can call home and I'll end with that thanks for your attention and let me see if I can get that going it does have sound
 
-I'll stop my share so thank you and I thank you everybody for your shares I'm really enjoying learning about everyone's source material so to speak thank you marlo that was really great thanks for sharing your work with us okay so next up we have Lee Musgrave grave
+## Unattributed [29:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1767s)
 
-## Lee Musgrave [31:01](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1861s)
+So!!
+
+## Marlow DJ Shami [30:33](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1833s)
+
+I'll stop my share so thank you and I thank you everybody for your shares I'm really enjoying learning about everyone's source material so to speak
+
+## Colin Goldberg [30:49](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1849s)
+
+Thank you marlo that was really great thanks for sharing your work with us okay so next up we have Lee Musgrave grave
+
+## Lee Musgrave [31:02](https://www.youtube.com/watch?v=I7-nXjL2koA&t=1862s)
 
 Hello everybody I've had several cultural influences in my life but I'd like to start way back at the beginning I was born in australia my biological father was bulgarian my real name is leonard petkar my mother decided not to marry that man she married an american marine instead his name was musgrave so I became from leonard petkov to Lee Musgrave and believe me when you go through that kind of change it has an effect on you and then we moved from australia which was one culture to los angeles which was an italian revolution an entirely different culture. But there I met an individual named Fritz Faiss from Germany.
 
@@ -155,49 +253,127 @@ And because I was an artist, I decided I would write about it. Write it set in t
 
 So I've written a book called Murder Mystery. About it in Los Angeles. And this is the book. Two years ago, I sent the book to a publisher, he sent me back a contract, he published the book. He just sent me a second contract about two or three weeks ago, for the sequel. He's going to go ahead and publish the sequel, which I've already written.
 
-And that has a big cultural influence on me at this age and stage of my life. Because the first thing that happened to me was, I was told I was too old to publish a book. Did you believe that? People said that you won't have any success at your age publishing a book now. Nobody will want to publish a book. I got nothing but negative responses from everybody.
+And that has a big cultural influence on me at this age and stage of my life. Because the first thing that happened to me was, I was told I was too old to publish a book. Did you believe that? People said that you won't have any success at your age publishing a book now. Nobody will want to publish a book.
 
-Especially book agents. Boy, they were real scary, those people. I bypassed them and sent the book directly to a publisher. And he was a great guy. He said, oh, wonderful. He just immediately decided to publish it. So that's had a tremendous cultural impact on me at this stage in my life. I don't know how that might show up in my artwork. I'm not sure that it will. But it has convinced me to write more.
+## Colin Goldberg [34:36](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2076s)
 
-Because all of you are much younger than me. And at my stage in life, when I stand up with my easel, which is down the other end of the studio here, I paint. I can't do it as much as I used to. I physically cannot do it. I get exhausted within two hours. I used to be able to paint all day, right into the night time. I'd often not even sleep, just go to work the next day. It never bothered me. But I can't do that anymore. I stand there with my arm up painting. And after two hours, I'm physically exhausted.
+I got nothing but negative
+
+## Lee Musgrave [34:39](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2079s)
+
+Responses from everybody. Especially book agents. Boy, they were real scary, those people. I bypassed them and sent the book directly to a publisher. And he was a great guy. He said, oh, wonderful. He just immediately decided to publish it. So that's had a tremendous cultural impact on me at this stage in my life.
+
+I don't know how that might show up in my artwork. I'm not sure that it will. But it has convinced me to write more. Because all of you are much younger than me. And at my stage in life, when I stand up with my easel, which is down the other end of the studio here, I paint. I can't do it as much as I used to. I physically cannot do it. I get exhausted within two hours. I used to be able to paint all day, right into the night time. I'd often not even sleep, just go to work the next day. It never bothered me. But I can't do that anymore. I stand there with my arm up painting. And after two hours, I'm physically exhausted.
 
 But I can sit here at this computer and write all day long, and it doesn't exhaust me at all. So I have this deep seated feeling that the total volume of artwork that I'm going to produce for the rest of my life is probably going to decrease. The writing is going to increase. That's a major cultural shift.
 
 And I'm going to be able to do that in my entire outlook on life. If you want to see my most current artwork, you can look it up on Instagram or on my website. It looks, in my opinion, I can see Fritz Weiss' influence in that work. I can see Paul Klee's influence in it. And a little bit of Kan Pinsky as well.
 
-That's it. Thank you for your attention. Thank you, Lee. All right. And we have Susan
+That's it. Thank you for your attention.
 
-## Susan Detroy [37:05](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2225s)
+## Colin Goldberg [36:57](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2217s)
 
-Detroit up next. Thanks for the segue, Lee, because I'm going to talk about aging. And, so, so, I, I interpreted the idea to think about the culture that we live with and how, how that culture impedes our understanding of who we are as human beings as we age. And I want to, I don't know, have I shared.
+Thank you, Lee. All right. And we have Susan Detroy up next.
 
-Okay, sure. I'm going to share with you a keynote that I have started for another presentation. It's not finished yet, but okay. Are you seeing my, are you seeing the cultural influences? Yep. Okay. So this, as I said, is a keynote I started. And the first is a video that I'm going to show that I made in 2018. So it's couched in the time. Of when I first started. Like a year or two into the series of portrait of woman. And this is work that I was making before the pandemic. I was exhibiting and lecturing and teaching and the pandemic shot, shot, shut all of that down.
+## Susan Detroy [37:09](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2229s)
 
-And so this video is about four minutes. And I'm going to kind of take a few minutes to look at you and our And you can see that I'm going to have a little bit of a project on I'm going to have a little bit of aera of this. A little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going Thank you.
+Thanks for the segue, Lee, because I'm going to talk about aging. And, so, so, I, I interpreted the idea to think about the culture that we live with and how, how that culture impedes our understanding of who we are as human beings as we age. And I want to, I don't know, have I shared. Okay, sure. I'm going to share with you a keynote that I have started for another presentation.
 
-Thank you. Thank you. Thanks. I've learned a lot about video making and imagery since then, and here I'm going to show a few other pieces from 2020 and 2021 in the series. These are newer. These pieces here are from the end of 2021 and into 2022. And these are some of the newest pieces that are in process. The one on the left is pretty much one done. The one on the right is in process.
+## Unattributed [37:49](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2269s)
 
-And I'm working on some pieces that are like the one on the right, which has movement and sound at the same time. It's sort of similar to my rose pieces, where it's a video and there's a sound. It's sort of meditative. And let's see the last, I also haven't been experimenting with AI using the self-portrait and the roses together.
+It's not finished yet, but okay. Are you seeing my, are you seeing the cultural influences?
 
-And I think that might be it. How do I get out of this? This. That's it. So anyway, thank you. It was weird because I couldn't hear the sound on the video, but since you said you could hear it, that's great. Okay, thank you. Thank you, Susan. Really interesting and diverse body of work there. You know, interesting to see the evolution as well.
+## Colin Goldberg [38:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2307s)
 
-So we have Michael Price. Space. Thanks Colin. So this I the whole concept of culture and
+Yep.
 
-## Michael Pierre Price [45:00](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2700s)
+## Unattributed [38:28](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2308s)
 
-Cultural identity is well it's a tough one for me at times. I think for most of my whole life I've felt like I'm a stranger in a strange land. Growing up in the early 60s, I had a raised by two very strong females from the south of France, from the Mediterranean area. My mom and dad divorced divorced when I was about two years old. So back then, it was a different culture than it is today.
+Okay.
 
-And my grandmother especially had this innate nature in her that was magical. She loved nature. She influenced both my brother my younger brother and I think in a lot of ways nurtured our creativity but the america of the 60s and such was stifling I didn't I wasn't supported in school with my creative mind and so I found I found myself oftentimes kind of shutting off and for I would say most of my life I've been pretty much a self-contained person who I've often said that I could be a loner very easily so in my late 30s or so I made to Canada and got a chance to really get immersed in the indigenous culture that my natural dad had as part of his heritage. And for me, that was sort of revelatory in a lot of ways. And so in the last six or seven or eight years, I've now been living out in Phoenix and I really felt like the desert was calling to me.
+## Susan Detroy [38:29](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2309s)
 
-So when my wife had a chance to move out here, we took it. And the desert is a magical place. And so I wanna just share just a few images that I've been working on. Let me get this full screen. All right. So these are some images that I've been working on using AI recently. And a lot of them are sort of very surreal, abstract kind of qualities to them. But they're they kind of reflect this whole thing about what is culture and what motivates us, what drives us in terms of an attractive element, and also a repulsive element. Development, because I think those things strongly influences as people and as artists, and how we see the world and how we reflect the world back to others.
+So this, as I said, is a keynote I started. And the first is a video that I'm going to show that I made in 2018. So it's couched in the time. Of when I first started. Like a year or two into the series of portrait of woman. And this is work that I was making before the pandemic. I was exhibiting and lecturing and teaching and the pandemic shot, shot, shut all of that down.
+
+And so this video is about four minutes. And I'm going to kind of take a few minutes to look at you and our
+
+## Colin Goldberg [39:22](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2362s)
+
+And you can see that I'm going to have a little bit of a project on I'm going to have a
+
+## Unattributed [39:24](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2364s)
+
+Little bit of aera of this. A little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going to have a little bit of a story and I'm going Thank you.
+
+Thank you. Thank you.
+
+## Susan Detroy [42:29](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2549s)
+
+Thanks. I've learned a lot about video making and imagery since then, and here I'm going to show a few other pieces from 2020 and 2021 in
+
+## Unattributed [42:44](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2564s)
+
+The series. These are newer. These pieces here are from the
+
+## Susan Detroy [43:04](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2584s)
+
+End of 2021
+
+## Unattributed [43:06](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2586s)
+
+And into 2022.
+
+## Susan Detroy [43:15](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2595s)
+
+And these are some of the newest pieces that are in process. The one on the left is pretty much one done. The one on the right is in process. And I'm working on some pieces that are like the one on the right, which has movement and sound at the same time. It's sort of similar to my rose pieces, where it's a video and there's a sound. It's sort of meditative.
+
+And let's see the last, I also haven't been experimenting with AI using the self-portrait and the roses together.
+
+## Unattributed [43:57](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2637s)
+
+And I think that might be it. How do I get out of this? This. That's it. So anyway, thank you.
+
+## Susan Detroy [44:22](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2662s)
+
+It was weird because I couldn't hear the sound on the video, but since you said you could hear it, that's great. Okay, thank you.
+
+## Colin Goldberg [44:37](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2677s)
+
+Thank you, Susan. Really interesting and diverse body of work there. You know, interesting to see the evolution as well. So we have Michael Price. Space.
+
+## Michael Pierre Price [44:51](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2691s)
+
+Thanks Colin. So this I the whole concept of culture and cultural identity is well it's a tough one for me at times. I think for most of my whole life I've felt like I'm a stranger in a strange land. Growing up in the early 60s, I had a raised by two very strong females from the south of France, from the Mediterranean area. My mom and dad divorced divorced when I was about two years old. So back then, it was a different culture than it is today.
+
+## Colin Goldberg [45:51](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2751s)
+
+And my grandmother
+
+## Michael Pierre Price [45:54](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2754s)
+
+Especially had this innate nature in her that was magical. She loved nature. She influenced both my brother my younger brother and I think in a lot of ways nurtured our creativity but the america of the 60s and such was stifling I didn't I wasn't supported in school with my creative mind and so I found I found myself oftentimes kind of shutting off and for I would say most of my life I've been pretty much a self-contained person who I've often said that I could be a loner very easily so in my late 30s or so I made to Canada and got a chance to really get immersed in the indigenous culture that my natural dad had as part of his heritage. And for me, that was sort of revelatory in a lot of ways. And so in the last six or seven or eight years, I've now been living out in Phoenix and I really felt like the desert was calling to me.
+
+So when my wife had a chance to move out here, we took it. And the desert is a magical place. And so I wanna just share just a few images
+
+## Unattributed [47:50](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2870s)
+
+That I've been working on. Let me get this full screen.
+
+## Michael Pierre Price [48:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=2887s)
+
+All right. So these are some images that I've been working on using AI recently. And a lot of them are sort of very surreal, abstract kind of qualities to them. But they're they kind of reflect this whole thing about what is culture and what motivates us, what drives us in terms of an attractive element, and also a repulsive element. Development, because I think those things strongly influences as people and as artists, and how we see the world and how we reflect the world back to others.
 
 And I love the simplicity of the desert. It's beautiful, and it's rich. And everything that lives out here lives on a nice edge. There's no middle ground here. You either survive or you die. There's very little gray. And having grown up in the Midwest, where there's a lot of plenty in terms of vegetation and life, this is a very different place. But I love the simplicity of it all. And here you see structure. Here you see the landscape.
 
-And for me, this speaks to the heritage that I have from my father's side of the equation, and it speaks to me about what's important from what I got from my mom and my grandmother in that part of the Mediterranean. And so I just wanted to share just a few images of what I've been working on lately just to kind of show off some of what I've been sharing here.
+And for me, this speaks to the heritage that I have from my father's side of the equation, and it speaks to me about what's important from what I got from my mom and my grandmother in that part of the Mediterranean. And so I just wanted to share just a few images of what I've been working on lately just to kind of show off some of what I've been sharing
 
-Thank you. Awesome. Thank you, Michael. Thanks for sharing. And interesting to hear some of your early history, backstory. I never knew that about you and your background. So it's always interesting to learn more about. You know, some of the artists in the group. So, yeah, you know, I mean, I actually thought maybe I would share something on the topic as well.
+## Unattributed [50:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3007s)
 
-## Colin Goldberg [50:55](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3055s)
+Here. Thank you.
+
+## Colin Goldberg [50:26](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3026s)
+
+Awesome. Thank you, Michael. Thanks for sharing. And interesting to hear some of your early history, backstory. I never knew that about you and your background. So it's always interesting to learn more about. You know, some of the artists in the group. So, yeah, you know, I mean, I actually thought maybe I would share something on the topic as well.
 
 So as some of you might know, I come from sort of a mixed ethnic background. My dad was Jewish, born in the Bronx in New York City, and my mom is of Japanese ancestry, born in Honolulu. And her parents, you know, are both Japanese blood on both sides and came into Hawaii from Japan. And so one of my big influences was my grandmother, my maternal grandmother, Kimie, who was an accomplished calligrapher. And she taught and studied Japanese Shoto calligraphy both in Honolulu and in Japan. So this image here is from 2006 when I went to visit her. And she was a very good teacher. And I was able to visit her shortly before she passed away, actually, and, you know, brought my laptop and my Wacom tablet. So I was showing her, you know, that you could write Shoto characters on a tablet. And she was amazed and got really excited about it.
 
@@ -209,9 +385,27 @@ And then I did the painting, you know, the hand painted piece, brought it into t
 
 And I thought it was, you know, interesting how, like, she... My mom told me a story about how my grandmother would sit at the table and, you know, make the same character over and over for hours. Crumple it up, make it again, crumple it up, make it again until, you know, she got it the way she wanted. And it sort of reminded me of the idea of sort of abstract painting that a lot of times the things that I liked the best were done really quickly. But they required a lot of iterations and a lot of pieces that were thrown out in the garbage bin. And I had to get a lot of work done in the garbage can to get the mark that I liked. So, yeah, you know, I think that, you know, trying to embrace that part of my cultural heritage definitely influenced me and my way of thinking. And, you know, none of these pieces really relate to any actual Japanese characters, but they're definitely inspired in part by, you know, that tradition.
 
-So, yeah, that's kind of, you know, what I wanted to share. That's what I thought of when this topic came up, you know. And, yeah, so that's what I got. So, yeah, I want to, you know, thank all the artists who presented. And, you know, we have some time, just about half an hour, you know, until we stop. So if anyone has any questions for any of the artists who presented, you know, the floor is open or just to open it up to the topic of discussion. I'm not sure, actually, you know what, is David still in here? David Bloom? Are you in here, David?
+So, yeah, that's kind of, you know, what I wanted to share. That's what I thought of when this topic came up, you know. And, yeah, so that's what I got. So, yeah, I want to, you know, thank all the artists who presented. And, you know, we have some time, just about half an hour, you know, until we stop. So if anyone has any questions for any of the artists who presented, you know, the floor is open or just to open it up to the topic of discussion. I'm not sure, actually, you know what, is David still in here?
 
-I am here. Okay, cool. Did you have a, you had an announcement you wanted to share with the group, right? It's not really an announcement. You and I talked, it's more of a question. Okay. I've been very, I live in Birmingham, Michigan. It's only 20,000 people. It's a suburb of Detroit. But I guess for people that aren't familiar, it's kind of like the Beverly Hills of Metro Detroit. Beverly Hills, Lake California.
+## Michael Pierre Price [56:25](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3385s)
+
+David Bloom?
+
+## Colin Goldberg [56:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3387s)
+
+Are you in here, David?
+
+## Unattributed [56:30](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3390s)
+
+I am here. Okay, cool.
+
+## Colin Goldberg [56:33](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3393s)
+
+Did you have a, you had an announcement you wanted to share with the group, right?
+
+## Unattributed [56:38](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3398s)
+
+It's not really an announcement. You and I talked, it's more of a question. Okay. I've been very, I live in Birmingham, Michigan. It's only 20,000 people. It's a suburb of Detroit. But I guess for people that aren't familiar, it's kind of like the Beverly Hills of Metro Detroit. Beverly Hills, Lake California.
 
 So it's a destination area for a lot of people in Metro Detroit to come to eat, to, for some entertainment, some cultural events, which are kind of limited. But a lot of people are coming. A lot of people come here from all over the Metro Detroit area. And we have a public library that I've been very involved in for various reasons since 2014.
 
@@ -219,103 +413,259 @@ As a result of my involvement in 2014, they were going to, there was a $20 milli
 
 And so that's an addition. And so that's the second process. And so in addition, it's an addition to the public movie station. And we're going to be working on the future of the movie park. And we're going to be working on the future of the movie park. And we're going to be working on the future of the movie park. And what I was thinking, and there was a design that may get canned and go to something else, but there was this blank wall that was basically a few feet away from facing one of the glass entrances to, and the whole addition is basically all glass. There was this very large wall. And I was thinking, gee, we could put something there that was digital art and try and do something that wasn't just traditional art. And I was thinking about this group, and I thought, gee, what an interesting way to maybe promote this.
 
-And the library is always looking to find ways to fund things. So I was thinking that maybe we could, and I can show you that space, if people wanted to do donations or something like that, that we could offer to go to the library and say we'd like to put a Techspressionism wall or something in the library with a large screen. So art of all digital artists could be displayed there, and then the name Techspressionism would also get out there. Alternatively, and the library director liked the idea of having a digital art wall. So there's a potential for doing something there, or even if we don't do a Techspressionism wall, if they end up with some type of digital art component that we could have an exhibit there in the future. Okay. And there's also another area that I'll show you where they're looking at having, and it's a much larger space of public art.
+And the library is always looking to find ways to fund things. So I was thinking that maybe we could, and I can show you that space, if people wanted to do donations or something like that, that we could offer to go to the library and say we'd like to put a Techspressionism wall or something in the library with a large screen.
 
-And maybe there's some way of trying to link that with the digital component. So let me, if it's okay, I will share, because you probably don't understand what I'm talking about. I can share my screen here. Let's see how this works. Are you able, are you guys able to see? Yes. Okay. So this is one of the drawings that's being considered. And this here is one of the glass walls. There's another wall that comes all the way over here. They're looking at where they want to locate a cafe. This probably won't be here. But these are current windows, and they're looking at, and they're large windows, putting in some type of art there or art that can change. And so that's one. So this is one of the spaces. These are some additional photos of the area. This is the wall here that would be exposed to the park where we could have something potentially.
+## Unattributed [59:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3581s)
+
+So art of all digital artists could be displayed there, and then the name Techspressionism would also get out there. Alternatively, and the library director liked the idea of having a digital art wall. So there's a potential for doing something there, or even if we don't do a Techspressionism wall, if they end up with some type of digital art component that we could have an exhibit there in the future. Okay. And there's also another area that I'll show you where they're looking at having, and it's a much larger space of public art. And maybe there's some way of trying to link that with the digital component. So let me, if it's okay, I will share, because you probably don't understand what I'm talking about. I can share my screen here.
+
+Let's see how this works. Are you able, are you guys able to see?
+
+## Colin Goldberg [01:00:40](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3640s)
+
+Yes.
+
+## Unattributed [01:00:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3641s)
+
+Okay. So this is one of the drawings that's being considered. And this here is one of the glass walls. There's another wall that comes all the way over here. They're looking at where they want to locate a cafe. This probably won't be here. But these are current windows, and they're looking at, and they're large windows, putting in some type of art there or art that can change. And so that's one. So this is one of the spaces. These are some additional photos of the area. This is the wall here that would be exposed to the park where we could have something potentially.
 
 They've been trying to work on it. They've been trying to cram a cafe and a restroom in this, and they've been really struggling with that. These are some cafe design options. And it's the other side of here. The other side. This is the other side of this wall facing that window, which is right here, where conceivably where I pitched the idea to the library director of just to have a wall like that, just facing the street. I thought we could do something to improve the design by putting a large screen there and having art on there. And we probably even want to have speakers or something there. And we could have this lit. So people walking by at night. I mean, this area would be visible 24 hours a day if it was lit at night. So I just wanted to get your thoughts on trying to bring digital art to this space.
 
 And if there's anything that we could do as expressionists to offer people would be if people would be interested in trying to figure something out so we could go to the library and say, yeah, we know there are some people interested in shipping in. And creating like an expressionism wall somewhere in this space. So that's the idea I'm trying to pitch to the group.
 
-So would you be curating the project? So if it's if this is something so this is something that's permanent. If this is something I mean I would help organize doing something and getting up a digital piece of art. Wall or a component in here. I don't necessarily think I'm qualified to be the curator. It would certainly be an honor. But if it's a permanent feature, this would be here forever as long as they decide to keep a screen on. And we would have to continue to have art go in there. This is a public building. It's managed by a library board and their elected officials. And I certainly wouldn't want to have 100% control ad infinitum on what goes on this wall or how it's used. I don't think that would be fair to the library. But having a space that we could kick start with digital art from our own group and they could have art calls or other things, whether it's local artists or Michigan artists or national or other projects, I think it would be up to them to manage and pick who they wanted to curate that particular project.
+## Verneda Lights [01:02:47](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3767s)
 
-What are the dimensions roughly, David, on the walls that are being under consideration? So, well, this is the wall where I pitched it. And then they're thinking about taking out this design. But I would assume this is seven or eight feet high by maybe three or four feet wide. I mean, maybe it'd probably be more than that because this is a handicap and there's space and there's a baby changing station in there. So this is probably, I'm guessing, six to eight feet. Eight feet?
+So would you be curating the project?
+
+## Unattributed [01:02:53](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3773s)
+
+So if it's if this is something so this is something that's permanent. If this is something I mean I would help organize doing something and getting up a digital piece of art. Wall or a component in here. I don't necessarily think I'm qualified to be the curator. It would certainly be an honor. But if it's a permanent feature, this would be here forever as long as they decide to keep a screen on. And we would have to continue to have art go in there. This is a public building. It's managed by a library board and their elected officials. And I certainly wouldn't want to have 100% control ad infinitum on what goes on this wall or how it's used. I don't think that would be fair to the library. But having a space that we could kick start with digital art from our own group and they could have art calls or other things, whether it's local artists or Michigan artists or national or other projects, I think it would be up to them to manage and pick who they wanted to curate that particular project.
+
+## Michael Pierre Price [01:04:06](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3846s)
+
+What are the dimensions roughly, David, on the walls that are being under consideration?
+
+## Unattributed [01:04:12](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3852s)
+
+So, well, this is the wall where I pitched it. And then they're thinking about taking out this design. But I would assume this is seven or eight feet high by maybe three or four feet wide. I mean, maybe it'd probably be more than that because this is a handicap and there's space and there's a baby changing station in there. So this is probably, I'm guessing, six to eight feet. Eight feet?
+
+## Colin Goldberg [01:04:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=3881s)
 
 I mean, my... I'll share my initial reaction with the group when David first brought this up to me is I do like the idea of being able to source work from the group. I'm not 100% sure how I feel about the idea of it being sort of crowdfunded with the name Expressionism attached to it. To it for a variety of reasons. One, it's going to be something where work is going to cycle through it, which might be different work that isn't necessarily even relevant to Techspressionism.
 
 But the thing for me is it's almost hard to put into words, but what I think about what Techspressionism is, at least just for me personally, is sort of the antithesis of an organization, per se, like not necessarily something that would have their name on a plaque anywhere. It's something about that idea doesn't completely gel with me. But I told David to put it out there to the group to see what people think. I think that certainly there are a lot of great artists here in this community that could contribute work to open calls and help create a variety of ongoing exhibitions, even themed exhibitions, where different people come in and curate shows around a concept or whatever else. And I'm not saying I'm opposed to it either, but that was sort of my initial gut reaction and definitely open to hearing what others have to say as well.
 
+## Michael Pierre Price [01:06:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4001s)
+
 I mean, I think it'd be a cool idea if Techspressionism was involved, like, say, kicking it off and then going with your idea, Colin, that basically this space is open to digital art, if that's kind of where the space is coming from. David. Yeah. I mean, I think it's a great idea. And that potentially there may be other things that some of the artists within the expressions group might be involved with other, you know, if this is a public space, you know, you could do digital gallery shows, if you will, or digital presentations of artwork, like you said, themed or whatever. But yeah, I think if it's the Techspressionist wall, then it becomes something that's kind of like a more concrete than maybe what we are at, you know, not being a full organization, like you've said, but sort of a loose cadre of people who associate with one another.
 
-I don't know what's appropriate or not, but I think it'd be cool if this does really happen and there's a first showing of artwork there that this is a kind of a group could be involved with. I think that would be kind of cool. I was thinking more of like a plaque or something that would say donated or by Techspressionism community artists. So it wasn't just because I understand Colin's point about expressionism funding it. But because I think at the last salon we talked about us being more of a community that's more free flowing. And that would still be a good thing. And that would still get the name out there. But it wouldn't like totally directly tie in that the Techspressionism is responsible for the wall.
+I don't know what's appropriate or not, but I think it'd be cool if this does really happen and there's a first showing of artwork there that this is a kind of a group could be involved with. I think that would be kind of cool.
+
+## Unattributed [01:08:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4087s)
+
+I was thinking more of like a plaque or something that would say donated or by Techspressionism community artists. So it wasn't just because I understand Colin's point about expressionism funding it. But because I think at the last salon we talked about us being more of a community that's more free flowing. And that would still be a good thing. And that would still get the name out there. But it wouldn't like totally directly tie in that the Techspressionism is responsible for the wall.
+
+## Lee Day [01:08:44](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4124s)
 
 I mean you could say members of the expressionism community you could fudge it somehow that way. I had a couple of other questions actually I mean you know this space, or the proposed space. A lot better. I'm sort of wondering what you're thinking about in terms of if we're going to be funding this somehow.
 
-Are you thinking of a simple screen here? Is it something that's actually integrated into the wall? You were talking about floor to ceiling. I don't know whether that's what you were talking about. I also I mean, like I say, you can see the space better. But there's a green window in front, and it appears that there's a column that runs through the wall. And it runs in front of this the larger wall there. So how are you going to integrate the screen into that into the space? And what is happening on the other side of the space? Are people walking past it? I mean I'm just trying to get a sense for what it is. Let me. This is another. These are other photos of how the space would be used. There's the entrance there. So this is a this entrance here is it's called a nano wall.
+Are you thinking of a simple screen here? Is it something that's actually integrated into the wall? You were talking about floor to ceiling. I don't know whether that's what you were talking about. I also I mean, like I say, you can see the space better. But there's a green window in front, and it appears that there's a column that runs through the wall. And it runs in front of this the larger wall there. So how are you going to integrate the screen into that into the space? And what is happening on the other side of the space? Are people walking past it? I mean I'm just trying to get a sense for what it is.
 
-So the wall basically opens, and then it folds it's almost like sliding. It's a very expensive. It's a relatively new technology, and the whole wall slides in sections and moves over when the wall is when this whole window is open. I don't know how much of this space would be visible or not. That I'm not clear I think this is I think so some of this would be obscured when the wall is open during the day in the summer, when things are nice when it's closed you'd be able to see everything now it would be through glass, and it would be partially tinted so it's not it's not pure clear.
+## Unattributed [01:09:48](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4188s)
+
+Let me. This is another. These are other photos of how the space would be used. There's the entrance there. So this is a this entrance here is it's called a nano wall. So the wall basically opens, and then it folds it's almost like sliding. It's a very expensive. It's a relatively new technology, and the whole wall slides in sections and moves over when the wall is when this whole window is open. I don't know how much of this space would be visible or not. That I'm not clear I think this is I think so some of this would be obscured when the wall is open during the day in the summer, when things are nice when it's closed you'd be able to see everything now it would be through glass, and it would be partially tinted so it's not it's not pure clear.
 
 Hunt. You know. 100% clear glasses that's not tinted there's a light tinting tinting component. But this will be lit, and you'd be able to see it. So it's kind of something that you would see, and it'd be probably more prominent at night when it's when it's lit up. I'm thinking of if this is the design that the screen would be the size of this whole wall. So the wall would be a screen, and it would be incorporated, and I almost think we need some kind of. Audio component to go with it. So just like we saw this evening, and we've seen previously some of these some of these slides. Some of these shows include an audio or music component to it, which I think would be really cool, and just enhance the whole idea of a digital technological artifact.
 
-I have whether it's this space. Go ahead. I have some comments and questions. My idea would be that the library would or some officials and a curator would put out a call for entry through. I'm sorry call for art through like cafe, for example, and maybe it could be the theme of expressionism, or I don't know whatever the library thought was suitable. And then you would. The library would specify the library would specify what size items they could entertain in the space. Would be. Would they be digital animations, digital printed images? Do some of these spaces face sunlight, so that if there were physical images there, how it would affect the images. So I think, knowing the dimensions of the space that allows for the showing of the art. Knowing that would be important, and I think someone at the library establishing a call for art could maybe get this off the ground.
+I have whether it's this space. Go ahead.
 
-So those are my thoughts. Thank you. All right. Well, I mean, I would suggest maybe that you know if you'd like David to put your contact info in the chat, or people could, I guess, locate you through the artist index on the Techspressionism site as well, and just sort of you know, kind of take it on an Okay.
+## Cynthia DiDonato [01:11:55](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4315s)
 
-On the basis of interested artists, you know, artists who are interested in participating. I'll do that. So in the lab. So Cynthia commented about light and what and how it would affect it. So I don't know if you guys can see Right here there's another there's another space that was the phase 2 addition, and it's an extension. And there's like inside this glass there's a wall. Maybe a 2 2 feet in there. Right? Yeah. So it's a wall and it wraps all the way around. So this is where the first public art project that we did was, and it was basically wrapping all the way around. It was 185 foot mural that was 18 inches high that wrapped around. There were 40 panels of art. And there was a zipper on at the end of each panel, and they all connected in and the and the artist collaborated on their art.
+I have some comments and questions. My idea would be that the library would or some officials and a curator would put out a call for entry through. I'm sorry call for art through like cafe, for example, and maybe it could be the theme of expressionism, or I don't know whatever the library thought was suitable. And then you would. The library would specify the library would specify what size items they could entertain in the space. Would be. Would they be digital animations, digital printed images? Do some of these spaces face sunlight, so that if there were physical images there, how it would affect the images. So I think, knowing the dimensions of the space that allows for the showing of the art. Knowing that would be important, and I think someone at the library establishing a call for art could maybe get this off the ground.
 
-And the second project we're putting in there is a it's going to go up in the beginning of December, and it's a it's 2 school districts here where their students go to the library, and it's elementary through it's done in cooperation with the 2 school districts and so they'll be art from elementary middle and high school students. Some of it collaborative little that'll be 40 separate pieces of art. 2 feet high by most. Almost 36 of the pieces will be 40. 8 inches long that will be going up in this space, and there are times where it's very sunny, and there's Blair, and you can't see it. But there are other times of the day when you can't so it's just trying to take advantage of the space and create basically an outdoor art gallery for different types of shows.
+So those are my thoughts.
+
+## Colin Goldberg [01:13:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4387s)
+
+Thank you. All right. Well, I mean, I would suggest maybe that you know if you'd like David to put your contact info in the chat, or people could, I guess, locate you through the artist index on the Techspressionism site as well, and just sort of you know, kind of take it on an Okay. On the basis of interested artists, you know, artists who are interested in participating.
+
+## Unattributed [01:13:42](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4422s)
+
+I'll do that. So in the lab. So Cynthia commented about light and what and how it would affect it. So I don't know if you guys can see Right here there's another there's another space that was the phase 2 addition, and it's an extension. And there's like inside this glass there's a wall. Maybe a 2 2 feet in there. Right? Yeah. So it's a wall and it wraps all the way around. So this is where the first public art project that we did was, and it was basically wrapping all the way around. It was 185 foot mural that was 18 inches high that wrapped around. There were 40 panels of art. And there was a zipper on at the end of each panel, and they all connected in and the and the artist collaborated on their art. And the second project we're putting in there is a it's going to go up in the beginning of December, and it's a it's 2 school districts here where their students go to the library, and it's elementary through it's done in cooperation with the 2 school districts and so they'll be art from elementary middle and high school students.
+
+Some of it collaborative little that'll be 40 separate pieces of art. 2 feet high by most. Almost 36 of the pieces will be 40. 8 inches long that will be going up in this space, and there are times where it's very sunny, and there's Blair, and you can't see it. But there are other times of the day when you can't so it's just trying to take advantage of the space and create basically an outdoor art gallery for different types of shows.
+
+## Colin Goldberg [01:15:26](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4526s)
 
 Yeah, and you know, definitely, you know I would say a good place to continue the conversation. Also would be on. Say the Facebook group, the Techspressionism is Facebook group. You could create a post, and then people who are interested, you know, could like sort of convene that way. You know I definitely wanted wanted you to be able to present this idea to everyone. But I also just wanted to make sure that anybody who had any questions for any of the artists about the this topic of the day. Cultural influences could also have an opportunity. To ask them. So. But I appreciate you know you thinking of expressionism, David. And again, you know, I think that probably the strongest asset of the group is the artists themselves, and it doesn't necessarily always need to be seen as a collective venture.
 
 When things are organized, you know, like I like people to think that. Curators can draw upon. The artist index and the community to organize projects that don't necessarily have to be, you know, associated with Techspressionism per se. You know it certainly doesn't preclude that but you know I think that's probably because you know like I'm not able to personally commit to going in and curating something on an ongoing basis. You know what I mean like so.
 
-That's just kind of like where I'm at but I did. I did want to open the floor up to anybody that might have any questions for any of the artists that presented tonight. Or if not, we could continue talking about the well, thank you very much. And again I was thinking about the group and the work that I've seen in some of these salons. And I think that the work that you've done in the past has inspired me and got me thinking about doing this, and without being part of this group and exposed to this I wouldn't have come up with the idea. So gotcha I appreciate that you know and I don't know the sort of idea of it being funded in a way that names the group.
+That's just kind of like where I'm at but I did. I did want to open the floor up to anybody that might have any questions for any of the artists that presented tonight. Or if not, we could continue talking about the well, thank you very much.
 
-You know there could be aspects to that could be difficult. Like, you know, people who donate. Might perceive that their work is going to be included on an ongoing basis, or so on and so forth. You know it's like a sticky sort of type situation that again, like if you're interested in organizing and negotiating it.
+## Unattributed [01:17:21](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4641s)
 
-You know I'm not I'm not saying not to but that's just my sort of 2 cents on it. Okay. I think. I think ultimately, if someone at the library or David with that someone comes up with a vision for the project and establishes what that is, then there may be artists that want to be involved in it. But I think you need to know the ramifications the I the theme or the idea or the vision of what would happen, and the specifics.
+And again I was thinking about the group and the work that I've seen in some of these salons. And I think that the work that you've done in the past has inspired me and got me thinking about doing this, and without being part of this group and exposed to this I wouldn't have come up with the idea. So gotcha
 
-And that's so. So the so there's 2 different. So. So the idea that I was trying to pitch to the group is to create a digital audio space that can be used for projects, whatever that might be. And then we could probably do the first project and propose something to them, and then they would be on their own to figure out how we use that. It wasn't necessarily a project based. Because the space doesn't exist yet. This is a virgin.
+## Colin Goldberg [01:17:37](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4657s)
 
-It's a virgin building. So we would be able to have some input as to what happens in there, or suggestions that we could make, since it hasn't been built yet, and it's still under the design phase. Oh, I just like to say it's actually I'm I was one of the curator. I still try to curate more shows and spattler she curate shows called Mft. Now she do like a we do have a like a more like a take precision easy and show. But she also she make a lot of effort like she call for submissions on those. What was the name of that play call for entries? You need to pay. I think about $200 to get the application phone, and we also we need to pay to apply so that can screen the make sure it's the good work like I don't really like my curation in the Williamsville Hotel. I don't charge artists because the Williams Hotel they actually they sponsor the space.
+I appreciate that you know and I don't know the sort of idea of it being funded in a way that names the group. You know there could be aspects to that could be difficult. Like, you know, people who donate. Might perceive that their work is going to be included on an ongoing basis, or so on and so forth. You know it's like a sticky sort of type situation that again, like if you're interested in organizing and negotiating it.
+
+You know I'm not I'm not saying not to but that's just my sort of 2 cents on it.
+
+## Unattributed [01:18:18](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4698s)
+
+Okay. I think. I think
+
+## Cynthia DiDonato [01:18:21](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4701s)
+
+Ultimately, if someone at the library or David with that someone comes up with a vision for the project and establishes what that is, then there may be artists that want to be involved in it. But I think you need to know the ramifications the I the theme or the idea or the vision of what would happen, and the specifics.
+
+And that's so.
+
+## Unattributed [01:18:48](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4728s)
+
+So the so there's 2 different. So. So the idea that I was trying to pitch to the group is to create a digital audio space that can be used for projects, whatever that might be. And then we could probably do the first project and propose something to them, and then they would be on their own to figure out how we use that. It wasn't necessarily a project based. Because the space doesn't exist yet. This is a virgin.
+
+It's a virgin building. So we would be able to have some input as to what happens in there, or suggestions that we could make, since it hasn't been built yet, and it's still under the design phase.
+
+## Giovanna Sun [01:19:37](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4777s)
+
+Oh, I just like to say it's actually I'm I was one of the curator. I still try to curate more shows and spattler she curate shows called Mft. Now she do like a we do have a like a more like a take precision easy and show. But she also she make a lot of effort like she call for submissions on those. What was the name of that play call for entries? You need to pay. I think about $200 to get the application phone, and we also we need to pay to apply so that can screen the make sure it's the good work like I don't really like my curation in the Williamsville Hotel. I don't charge artists because the Williams Hotel they actually they sponsor the space.
 
 And I personally I don't like to charge artists. Okay. But this is everything's a different, and it's all depends like in it's because for me it's all like a tedious job as a curator. There's a lot of work that you cannot imagine it's not even about money. It's about communications. It's about the time you can promote the artist. And the other word in other words, that's a lot of a responsibility to it was like a physical artwork, because I used to do that, too. There's also there's a there'll be more responsibility with the handling shipping. A lot of things you display the author. Yeah. So it's not something easy to do. But I'm glad that you have some suggestion, because I think the most difficult part right now for all the artists is to find a good physical locations. Like I got a several offer.
 
 Like I now I just interviewed the co-founder of the special the Io Jin Ha. I think special is actually is the one of the most I will say the really great the virtual space for most of artists, because they have all the architecture design all these space, and also they have a like all different type, and now they just launch more space. So I think that's a really good space that artists can put up their work.
 
-Which I think that's really good because but most of the we still like to see let people see our work. That's more like a physical thing that people can feel. But I'm just saying that if you design to do this, there'll be a lot of a responsibility. That's what I want to say. Oh, I totally recognize that.
+Which I think that's really good because but most of the we still like to see let people see our work. That's more like a physical thing that people can feel. But I'm just saying that if you design to do this, there'll be a lot of a responsibility. That's what I want to say.
 
-And hurting artists is like probably harder than herding cats. So. No, I recognize that the thing about the digital component is if it's digital and audio, you're not shipping you're not necessarily shipping physical things which makes it kind of interesting and makes it easier to get and less costly to produce once the initial investments made.
+## Unattributed [01:22:34](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4954s)
 
-Yeah. We have a friend, Nina Colosi, who does the screens, and she puts you know in down and people's downtime. I'm sorry on all advertising screens and screens and banks, and all of this. They put 30 min 32nd or minute long spots or longer pieces in digital spots like that. And so I mean it's a good model for doing that kind of thing. Yeah.
+Oh, I totally recognize that. And hurting artists is like probably harder than herding cats. So. No, I recognize that the thing about the digital component is if it's digital and audio, you're
 
-Absolutely. There's also, you know, I mean there's dedicated platforms for things like this, like black dove is one of them that I recently kind of have gotten involved with, and I would suggest you know anyone's interested check them out. I think they have an application process. There's a couple artists in the group that are on there now.
+## Verneda Lights [01:22:52](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4972s)
+
+Not shipping
+
+## Unattributed [01:22:53](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4973s)
+
+You're not necessarily shipping physical things which makes it kind of interesting and makes it easier to get and less costly to produce once the initial investments made.
+
+## Lee Day [01:23:07](https://www.youtube.com/watch?v=I7-nXjL2koA&t=4987s)
+
+Yeah. We have a friend, Nina Colosi, who does the screens, and she puts you know in down and people's downtime. I'm sorry on all advertising screens and screens and banks, and all of this. They put 30 min 32nd or minute long spots or longer pieces in digital spots like that. And so I mean it's a good model for doing that kind of thing.
+
+## Colin Goldberg [01:23:35](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5015s)
+
+Yeah. Absolutely. There's also, you know, I mean there's dedicated platforms for things like this, like black dove is one of them that I recently kind of have gotten involved with, and I would suggest you know anyone's interested check them out. I think they have an application process. There's a couple artists in the group that are on there now.
 
 And you know, basically it's the sort of a model where collectors can have a subscription to black dove, and then rent works, you know, that might be cycled through on a screen, either a vertical or horizontal display. I mean, one thing to consider is that you know there are sort of standard aspect ratios. You know the most common being 4k, which would be 6k. And then you have the other kind of like 16 to 9 either vertical or horizontal.
 
 That's what they're asking. You know their work to be formatted as, and I would say that's generally a standard when you're looking architecturally at the space in terms of what kind of hardware is going to be available. You know, to put on the wall. And that would sort of also determine, you know the specs for a call for entry. You know. So there's a lot of you know there's a lot of considerations. But there are also you know plenty of solutions out there. And you know, I think the idea of you know, putting together and curating a show of text. Pressionist artist is probably a little more feasible just logistically than necessarily crowdfunding something around the idea of text. Pressionism simply because you know it isn't an organization.
 
-You know. It's not a company. It's not a company. So if you're looking at like a small project that's going to be in the presentation that's on the wall, then that could be, you know, problematic. I would think you know again if you're if you're I've in the 2 projects that I did the public art projects that I've been partially funding.
+You know. It's not a company. It's not a company. So if you're looking at like a small project that's going to be in the presentation that's on the wall, then that could be, you know, problematic. I would think you
 
-My art is not is not going in there, because I don't want there to be that conflict, and I didn't even want to be a curator. I wanted there to be independence with the art that's going in and what's going on. So no one's saying, Oh, you did this, and you spent this money. So it's your art going up there. I wanted to make sure that it that there was a real genuine and verifiable public. Benefit to the project. It wasn't something that was coming back to me.
+## Unattributed [01:25:49](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5149s)
 
-Gotcha. Yeah, I mean it's a sort of a conundrum. But I see Techspressionism as something that's sort of an open source idea. So if you know an independent curator wants to go and put together a show of text, expressionist artworks, I would applaud that and encourage it. But on the flip side to say that text. Expressionism funds anything doesn't really sit well with me personally. It turns the conceptual framework around the idea. If that makes sense.
+Know again if you're if you're I've in the 2 projects that I did the public art projects that I've been partially funding. My art is not is not going in there, because I don't want there to be that conflict, and I didn't even want to be a curator. I wanted there to be independence with the art that's going in and what's going on. So no one's saying, Oh, you did this, and you spent this money. So it's your art going up there. I wanted to make sure that it that there was a real genuine and verifiable public. Benefit to the project. It wasn't something that was coming back to me.
 
-It's like saying pop art presents this exhibition, or you know it just doesn't make sense to me. Well, it's a new it's a newer area and so what we'd be doing is establishing a platform where text. Expressionism is. It's a new area of the art world. Expressionism community artists or other artists would be able to show their work, and it's kind of like we're just lighting the fire and putting a little gasoline on it, and it's up to other people to keep the pausing on wood to keep it going Gotcha.
+## Michael Pierre Price [01:26:35](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5195s)
 
-Okay, thank you for letting me pitch the idea. Absolutely. And you know, thank you for thinking of the group. And you know again, I would encourage individual artists to connect in terms of developing this out. You know, for those that are interested. So yeah, I mean is anyone have any conversation questions? I mean we're basically at time at this point. For any of the artists that have presented tonight.
+Gotcha.
 
-Well, Cynthia. Yeah, I'm sorry I'm sorry I kept pressing the wrong mute unmute so sorry about the dings from people texting me. I loved the talks tonight. I think it's that personally because I feel that I've presented enough. And I think people have an idea that I use cultural reference a lot in my work, and I can always come up with new images. But you know whatever but I just wanted to observe that I saw a couple trends tonight, and I would like us maybe in the future to return to these like I felt like each one of these. So I saw people talking about personal histories. And I under that I include family histories. As what led them to their work, and I feel like that could be its own topic one time, even with the same people. Everyone was so excellent. I mean this was really wonderful tonight.
+## Colin Goldberg [01:26:36](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5196s)
+
+Yeah, I mean it's a sort of a conundrum. But I see Techspressionism as something that's sort of an open source idea. So if you know an independent curator wants to go and put together a show of text, expressionist artworks, I would applaud that and encourage it. But on the flip side to say that text. Expressionism funds anything doesn't really sit well with me personally. It turns the conceptual framework around the idea. If that makes sense.
+
+It's like saying pop art presents this exhibition, or you know it just doesn't make sense to me.
+
+## Unattributed [01:27:18](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5238s)
+
+Well, it's a new it's a newer area and so what we'd be doing is establishing a platform where text. Expressionism is. It's a new area of the art world. Expressionism community artists or other artists would be able to show their work, and it's kind of like we're just lighting the fire and putting a little gasoline on it, and it's up to other people to keep the pausing on wood to keep it going
+
+## Colin Goldberg [01:27:40](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5260s)
+
+Gotcha.
+
+## Unattributed [01:27:42](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5262s)
+
+Okay, thank you for letting me pitch the idea.
+
+## Colin Goldberg [01:27:48](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5268s)
+
+Absolutely. And you know, thank you for thinking of the group. And you know again, I would encourage individual artists to connect in terms of developing this out. You know, for those that are interested. So yeah, I mean is anyone have any conversation questions? I mean we're basically at time at this point. For any of the artists that have presented tonight.
+
+## Unattributed [01:28:21](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5301s)
+
+Well, Cynthia. Yeah, I'm sorry
+
+## Cynthia Beth Rubin [01:28:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5307s)
+
+I'm sorry I kept pressing the wrong mute unmute so sorry about the dings from people texting me. I loved the talks tonight. I think it's that personally because I feel that I've presented enough. And I think people have an idea that I use cultural reference a lot in my work, and I can always come up with new images. But you know whatever but I just wanted to observe that I saw a couple trends tonight, and I would like us maybe in the future to return to these like I felt like each one of these. So I saw people talking about personal histories. And I under that I include family histories. As what led them to their work, and I feel like that could be its own topic one time, even with the same people. Everyone was so excellent. I mean this was really wonderful tonight.
 
 And how that fed into narratives and the narratives were not always personal narratives, but kind of like I'm thinking about Tommy and thinking about Subway. So a personal experience, but not in the same, you know, different veins of things. Yeah. OK, you're there. And then I personally am always interested in people's source material. And one of the things I thought was interesting, I think people know that I've worked a lot from Hebrew manuscripts and before that Persian and Indian manuscripts.
 
 Conscious decision to move away from western wall painting as influence and I was impressed you know colin made that decision to look at calligraphy, but that, of course, again, ties into personal narrative. So I just want to observe, you know, how do maybe we can talk about combining all these influences, and also looking at non-Western wall painting a little more, how that can happen. Because I think it's real. Personally, I think that's a way of being political, of opening up our culture, looking at other things. So that's it. And I just would like to see some of these topics spun off into the future. But maybe in a few months, you know, people can think about it when we come back, because by then we'll all have new work.
 
+## Giovanna Sun [01:31:01](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5461s)
+
 Well, it's very funny, because like, I was born in Taiwan, but, you know, Taiwan is more like, because of the World War Two. So it's like a lot, some Chinese, they relocate, they move to Taiwan. But I always feel so touched with Japanese and Italian, European, those type of art. And I don't feel, I don't have any particular interest about Chinese art. I don't know why. Don't ask me why. I really don't know why. It's just since I was little, like, even when I like to draw something, it's all like a Western.
 
-Well, I think it's funny, but because of the, and the other thing is in the contemporary war, right now, what happened? It's all like Western. You can see there's a like, like United States, even like a pop art, or everything is like, is like Western. Like, we want to recall, so what is the Chinese art? What is the Oriental Asian art? Like, everything is like a, like a mixture, mixture like a fusion everything's a mixture now but yeah 500 years ago it wasn't a mixture and I think that there's some assumptions you know some of us who are older were taught certain things in art school and when I was a kid and I went to a museum regularly because you know like my family I'm like... I took art classes at the museum. But I thought that I was not allowed to go to the second floor of the museum because I thought it was a church.
+Well, I think it's funny, but because of the, and the other thing is in the contemporary war, right now, what happened? It's all like Western. You can see there's a like, like United States, even like a pop art, or everything is like, is like Western. Like, we want to recall, so what is the Chinese art? What is the Oriental Asian art? Like, everything is like a, like a mixture, mixture like a fusion everything's
 
-I thought the second floor of the museum was the Catholic church and not really open to me. So that's something kind of lived with, you know, because it was so, because what we were taught was art was so heavily Catholic church. So anyway, that's kind of my personal journey. I didn't, obviously I was influenced by what, by traditional Renaissance and medieval art, but I didn't feel that I related to it in any way. So, so it all mushed together. Anyway, these are topics I'm going to shut up because I've been talking. I have a question for Michael. I like where you're coming from Cynthia. Yeah. Yeah. I have a question for Colin and Michael.
+## Cynthia Beth Rubin [01:32:20](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5540s)
 
-Colin, when you embraced the calligraphic elements in your artwork, even though, you know, initially your grandmother, you know, didn't understand your desire to engage as a subject. Yeah. You were able to, you know, you were able to start working on your own. But did you gain any particular insight or release or closeness in sentiment to your oriental roots in the process of embracing it or using it?
+A mixture now but yeah 500 years ago it wasn't a mixture and I think that there's some assumptions you know some of us who are older were taught certain things in art school and when I was a kid and I went to a museum regularly because you know like my family I'm like... I took art classes at the museum. But I thought that I was not allowed to go to the second floor of the museum because I thought it was a church. I thought the second floor of the museum was the Catholic church and not really open to me. So that's something kind of lived with, you know, because it was so, because what we were taught was art was so heavily Catholic church. So anyway, that's kind of my personal journey.
 
-So I'm going to take a question that and I'm going to come back to that. So I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question.
+I didn't, obviously I was influenced by what, by traditional Renaissance and medieval art, but I didn't feel that I related to it in any way. So, so it all mushed together. Anyway, these are topics I'm going to shut up because I've been talking.
+
+## Unattributed [01:33:31](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5611s)
+
+I have a question for Michael.
+
+## Michael Pierre Price [01:33:33](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5613s)
+
+I like where you're coming from Cynthia. Yeah.
+
+## Verneda Lights [01:33:35](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5615s)
+
+Yeah. I have a question for Colin and Michael. Colin, when you embraced the calligraphic elements in your artwork, even though, you know, initially your grandmother, you know, didn't understand your desire to engage as a subject. Yeah. You were able to, you know, you were able to start working on your own. But did you gain any particular insight or release or closeness in sentiment to your oriental roots in the process of embracing it or using it?
+
+So I'm going to take a question that and I'm going to come back to that. So I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question.
+
+## Colin Goldberg [01:34:38](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5678s)
+
+And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a
+
+## Verneda Lights [01:34:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5681s)
+
+Great question. And I'm going to take a question that you did have a
+
+## Colin Goldberg [01:34:44](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5684s)
+
+Great question. And I'm going to take a question that you did have a great question.
+
+## Verneda Lights [01:34:46](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5686s)
+
+And I'm going to take a question that you did have a great question.
+
+## Colin Goldberg [01:34:51](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5691s)
 
 And I'm going to take a question that you did have a great question. And I'm going to take a question that you did have a great question. You know, I feel that in making that work, it was a way of me sort of investigating my own identity. You know, I mean, I grew up far from that side of the family. Most of them are in Hawaii, which is now where my mom is living with my sister and where she was born. And that whole side of the family is over there on Oahu. So I never really identified as Asian per se until people called me that. And I was like, what does that mean as a young person?
 
 So I think it gave me sort of the, I don't know if it would be license, but the feeling. The feeling that it was okay to, you know, to look at that type of creative output in a personal way. You know, it gave me a personal connection in terms of having sort of more respect for my grandmother, her culture, you know, like a sense of self. But also, it's interesting how it also, you know, made me think about the interrelationship of that type of mark making with something like abstract expressionism. And how the expressive quality of the brushstroke, you know, is used across cultures in different ways, you know. So, and that was already sort of like, you know, an area within art history and painting that I had been interested in. So it definitely, you know, it made some connections happen. And in my mind, you know, in terms of investigating that and also, you know, started me thinking about language and visual language, the idea of a pictogram, you know, representing a concept versus phonetic alphabets.
 
-And even started thinking about, you know, katakana, which is the phonetic Japanese alphabet and Hebrew, you know, as an early phonetic alphabet and how they might have been developing, you know, different places in the world simultaneously. But conceptually, this idea of a phonetic alphabet was a very novel thing, you know, comparatively to what it existed before in terms of how human beings communicate. So, yeah, it definitely, you know, made me think about a lot of different things. But anyway, I'm going to pass it over to Michael because I think we have to wrap up the recording. All right. I'll try to be as brief as possible here.
+And even started thinking about, you know, katakana, which is the phonetic Japanese alphabet and Hebrew, you know, as an early phonetic alphabet and how they might have been developing, you know, different places in the world simultaneously. But conceptually, this idea of a phonetic alphabet was a very novel thing, you know, comparatively to what it existed before in terms of how human beings communicate. So, yeah, it definitely, you know, made me think about a lot of different things. But anyway, I'm going to pass it over to Michael because I think we have to wrap up the recording.
+
+## Unattributed [01:37:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5861s)
+
+All right.
+
+## Colin Goldberg [01:37:41](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5861s)
+
+I'll try to be as brief as possible here.
+
+## Michael Pierre Price [01:37:45](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5865s)
 
 Yeah, Vernetta, I... It's interesting because the little anecdote that Colin shared about what his grandma said to him, you know, about trying to cut corners to do something immediately in, I think, a lot of indigenous cultures. And I know for my Ojibwe connection, because it's oral tradition, there's a really, really different way of saying it. There's a really different way of teaching and learning.
 
@@ -327,10 +677,18 @@ We as Western culture see the world as dead, as objects. And in Aboriginal, in a
 
 And so we're humans are up here and everything else is at this other level. And it's like if we step on a bug. Most of us. Number one, don't even realize we've done it. And if we do, it's like, oh, it's only a bug. And I think, you know, I think back to I think it was. Oh, gosh. One of the one of the movies where the Dalai Lama wouldn't want to dig up a space and make sure that they didn't kill the worms in that space because they were building something new. And so they had to sift. The priests had to sift through and pull out any of the live creatures before anything could move forward on the on what they were doing. Anyway, I'm rambling on here. But anyway, that for me is kind of where. Where that has really been a strong part of my spirituality, my connection to physics and how the world is alive at all levels from subatomic to galactic.
 
-And. And I think for me that creates the magic in the universe. I don't need a God. I don't need I you know, I don't need anything else because it's so damn beautiful. I mean, it's just that's where I'm coming from on all of this. So anyway, thanks for asking. Can I ask something more about a renaissance? Why I particularly like renaissance because as I mentioned, you know, before the renaissance that people, they don't even see. The other side of the world and the art is not something we see right now, like da Vinci, like the smile of Mona Lisa, the people when they do the portrait, you know, out the elite, the noble, the rich people, they don't smile. You know, they all look serious. You know, this is like a really big change. And this change is just like right now, like we are in the pandemic, like doing the renaissance.
+And. And I think for me that creates the magic in the universe. I don't need a God. I don't need I you know, I don't need anything else because it's so damn beautiful. I mean, it's just that's where I'm coming from on all of this. So anyway, thanks for asking.
 
-They have a black dance. There's a lot of people die. And right now, like we also we are jump from the Web two to Web three. So in the blockchain, like in like a I blockchain, we all the same, like in the metaverse, you know, you don't look like you. I cannot I don't need to look like me. So that's the whole thing about all the cultural change. Like this is exactly, you know, like why a lot of young people like the Korean pop, they not even understand what the lyric is. It's all culture. It's all Korean. But they like to dance. They can understand the music. So that's the whole thing about I feel like, you know, all these are cultural. We are like influence each other. So even like a personal experience, that's something we can influence each other. So that's why we're here. You know, like take version easy.
+## Giovanna Sun [01:42:27](https://www.youtube.com/watch?v=I7-nXjL2koA&t=6147s)
 
-And, you know, like I always feel like a renna da like we not belong to any type of group until I see take person easy. Oh, bingo. You know, this is something I like to contribute something. And it's not John Rod. It's not I mean, he's a genre, but is it our genre as a movement? You know, it just is not like something even we can think about monitor. I say, how can you monitor? Right? You like extra expression? Easy. And he's a genre, right? So, yeah. So this is why I pick a renaissance.
+Can I ask something more about a renaissance? Why I particularly like renaissance because as I mentioned, you know, before the renaissance that people, they don't even see. The other side of the world and the art is not something we see right now, like da Vinci, like the smile of Mona Lisa, the people when they do the portrait, you know, out the elite, the noble, the rich people, they don't smile. You know, they all look serious. You know, this is like a really big change. And this change is just like right now, like we are in the pandemic, like doing the renaissance. They have a black dance. There's a lot of people die. And right now, like we also we are jump from the Web two to Web three. So in the blockchain, like in like a I blockchain, we all the same, like in the metaverse, you know, you don't look like you.
 
-I'm not necessarily, you know, I'm not Italian. But it's just like I feel like, you know, especially in the world with the Internet is the cultural influence is every day that even you watch TV, you when you do whatever, you know, just. Okay. So that's my interpretations. All right. Well, I'm going to have to put a cap on it at this point. We're definitely over time here. But I really appreciate everyone's shares. And, you know, people are more than welcome. To stick around after we stop our recording and hopefully we'll come to a consensus on the topic for two weeks from now, which I think there was already a couple good suggestions. But I am going to without further ado and our recording in 321 and cut. Hello.
+I cannot I don't need to look like me. So that's the whole thing about all the cultural change. Like this is exactly, you know, like why a lot of young people like the Korean pop, they not even understand what the lyric is. It's all culture. It's all Korean. But they like to dance. They can understand the music. So that's the whole thing about I feel like, you know, all these are cultural. We are like influence each other. So even like a personal experience, that's something we can influence each other. So that's why we're here. You know, like take version easy. And, you know, like I always feel like a renna da like we not belong to any type of group until I see take person easy. Oh, bingo. You know, this is something I like to contribute something.
+
+And it's not John Rod. It's not I mean, he's a genre, but is it our genre as a movement? You know, it just is not like something even we can think about monitor. I say, how can you monitor? Right? You like extra expression? Easy. And he's a genre, right? So, yeah. So this is why I pick a renaissance.
+
+I'm not necessarily, you know, I'm not Italian. But it's just like I feel like, you know, especially in the world with the Internet is the cultural influence is every day that even you watch TV, you when you do whatever, you know, just. Okay. So that's my interpretations.
+
+## Colin Goldberg [01:44:57](https://www.youtube.com/watch?v=I7-nXjL2koA&t=6297s)
+
+All right. Well, I'm going to have to put a cap on it at this point. We're definitely over time here. But I really appreciate everyone's shares. And, you know, people are more than welcome. To stick around after we stop our recording and hopefully we'll come to a consensus on the topic for two weeks from now, which I think there was already a couple good suggestions. But I am going to without further ado and our recording in 321 and cut. Hello.

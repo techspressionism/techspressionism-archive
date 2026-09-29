@@ -21,23 +21,43 @@ languages: ["en"]
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=l52RGfTiatE&t=2s)
 
-And hello, hello, hello, and welcome to our Techspressionist Virtual Salon. Today is kind of an interesting day. It's February 2nd of 2022, so it's 2-2-22, which isn't probably going to happen again for a very, very, very, very, very long time. Not while any of us are alive, anyway. So, celebrate today, or something, I don't know. But whatever things happen on interesting days like this.
+And hello, hello, hello, and welcome to our Techspressionist Virtual Salon. Today is kind of an interesting day. It's February 2nd of 2022, so it's 2-2-22, which isn't probably going to happen again for a very, very, very, very, very long time.
+
+## Patrick Lichty [00:22](https://www.youtube.com/watch?v=l52RGfTiatE&t=22s)
+
+Not while any of us are alive, anyway.
+
+## Davonte Bradley [00:26](https://www.youtube.com/watch?v=l52RGfTiatE&t=26s)
+
+So, celebrate today, or something, I don't know.
+
+## Colin Goldberg [00:29](https://www.youtube.com/watch?v=l52RGfTiatE&t=29s)
+
+But whatever things happen on interesting days like this.
+
+## Davonte Bradley [00:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=34s)
 
 So, if you are just joining us for the first time for our salons, how we typically do things are we have our two or so presenters do their presentations. And over the course of that presentation, we ask that everyone be muted for the duration so that you're not speaking. We're not talking over the presenter and, you know, kind of rude. It happens. But, and then after the presentation, which will last probably about 20 or so minutes, then we'll go into, or presentations rather, we'll go into a Q&A session and discussion about, you know, what was presented.
 
 Also, glad to be back because I had to miss last time because I started a new job and my schedule did not permit it at that time. But I'm back and hopefully to stay. Might be a little sleepy though, because I'm coming into this right after my shift. But I'll be here. I'll be here. So, you can count on that if you missed my face or, you know, whatever.
 
-All right. I'm being that weird person that makes himself laugh. Anyway, I guess we can go ahead and get on with things if everyone's ready to go, our presenter's ready. So, I'm going to go ahead and get started. So, we'll start with Seungjin Lee and, oh God, Dalton. You ready to go? And we'll kick things off with Sungjin. I'm saying that correctly, right? Yeah, Sungjin, right. Sungjin? Okay. Got
+All right. I'm being that weird person that makes himself laugh. Anyway, I guess we can go ahead and get on with things if everyone's ready to go, our presenter's ready. So, I'm going to go ahead and get started. So, we'll start with Seungjin Lee and, oh God, Dalton. You ready to go? And we'll kick things off with Sungjin. I'm saying that correctly, right? Yeah, Sungjin, right. Sungjin? Okay. Got it. All right.
 
-## Seungjin Lee [02:09](https://www.youtube.com/watch?v=l52RGfTiatE&t=129s)
+## Seungjin Lee [02:10](https://www.youtube.com/watch?v=l52RGfTiatE&t=130s)
 
-It. All right. Sungjin, you have the floor. All right. Thank you so much for having me today. Thank you so much. First of all, I really appreciate today's participant, Giovanna. Almost like years because I used to do like free art project in the New York local street and subway what I did is like just give my artwork just free to people like every day every day is concept right based on like what is art meaning in the like digital society like nowadays you know that you can see or buy digital artwork, even free, or even pay money, like NFT. So I just want people seeing, so how about real artwork?
+Seungjin Lee you have the floor. All right. Thank you so much for having me today. Thank you so much. First of all, I really appreciate today's participant, Giovanna. Almost like years because I used to do like free art project in the New York local street and subway what I did is like just give my artwork just free to people like every day every day is concept right based on like what is art meaning in the like digital society like nowadays you know that you can see or buy digital artwork, even free, or even pay money, like NFT. So I just want people seeing, so how about real artwork?
 
-Or not, like that kind of concept. And Giovanna saw my art things years before and she invited me to this time to take a question. Thank you so much for having me. So I'm gonna start my presentation. So, all right. All right, so my name is Seungjin Lee and I'm from South Korea, actually born in South Korea. So I'm from South Korea, but also I spent almost half time of my lifetime in Japan. So almost my, like I have two mother languages, like Japanese and Korean.
+Or not, like that kind of concept. And Giovanna saw my art things years before and she invited me to this time to take a question. Thank you so much for having me. So I'm gonna start my presentation. So, all right.
 
-And like seven years before I came to New York, because like, just, I just want to see, you know, like, because people say like, really New York is good for do art things. So I wanna see more like world and also learn about English and want to meet people and have an experience through my artwork. So that's why I come to New York. And as you can see, this is Mütter. I did in almost two years before. Yeah. This is located in the Japan Premium Beef, the butcher shop in Manhattan, the NoHo area. Also, I worked in Japan. Like in the part-time job. And this Mütter is all like images came from the, like internet images. And I hand painted. And after that, like people like shot QR code over there from their phone is like Mütter comes from AR. So you can see my presentation after.
+## Dalton Portella [03:40](https://www.youtube.com/watch?v=l52RGfTiatE&t=220s)
 
-All right. And this is me. Yeah. I just mentioned about the idea to write. What is that? The event and performance show exhibition, local New York or so like such as Baby Castle, like Spaceman's Sixth Gallery, a horror event house in Brooklyn. And of course, like virtual events or so. Yeah. Doing good. All right.
+All right, so my
+
+## Seungjin Lee [03:43](https://www.youtube.com/watch?v=l52RGfTiatE&t=223s)
+
+Name is Seungjin Lee and I'm from South Korea, actually born in South Korea. So I'm from South Korea, but also I spent almost half time of my lifetime in Japan. So almost my, like I have two mother languages, like Japanese and Korean. And like seven years before I came to New York, because like, just, I just want to see, you know, like, because people say like, really New York is good for do art things. So I wanna see more like world and also learn about English and want to meet people and have an experience through my artwork. So that's why I come to New York. And as you can see, this is Mütter. I did in almost two years before. Yeah. This is located in the Japan Premium Beef, the butcher shop in Manhattan, the NoHo area. Also, I worked in Japan. Like in the part-time job. And this Mütter is all like images came from the, like internet images.
+
+And I hand painted. And after that, like people like shot QR code over there from their phone is like Mütter comes from AR. So you can see my presentation after. All right. And this is me. Yeah. I just mentioned about the idea to write. What is that? The event and performance show exhibition, local New York or so like such as Baby Castle, like Spaceman's Sixth Gallery, a horror event house in Brooklyn. And of course, like virtual events or so. Yeah. Doing good. All right.
 
 And, yeah. So, yeah. So, yeah. So, yeah. So, yeah. So, this is the AR image I just mentioned. Let's see. Like this. When people use a phone, it's gonna be moving. So, why I made this is, basically my every artwork, not only this, every artwork is concept is like what is humanism? And myself in nowadays digital technology era.
 
@@ -55,21 +75,99 @@ And what I'm doing is shot, like recording myself, my face. And also like just o
 
 Because like, I want to bring some kind of like ghost. In the like digital situation. So, there also I, I do. I like, I mean, sometimes I'm doing like Korean shamanism, like this, or like this space in the, like, human soul and ghost someday, you know, digitally, maybe internet or something that, that kind of. So, yeah.
 
-Yeah. This one is, is what I do in the background. And, and also this, I did like virtual exhibition with my, like artist friend. And I use the module hub. You know what I mean? Module hubs is, the virtual, 3D, like place maker format, from, the Fox, the modular Fox, modular Fox. And you can make like your virtual exhibition in their place. And what I did is, is, I'm going to bring some, my paintings.
+Yeah. This one is, is what I do in the background.
+
+## Seungjin Lee [12:45](https://www.youtube.com/watch?v=l52RGfTiatE&t=765s)
+
+And, and also
+
+## Seungjin Lee [12:49](https://www.youtube.com/watch?v=l52RGfTiatE&t=769s)
+
+This, I did like virtual exhibition with my, like artist friend. And I use the module hub. You know what I mean? Module hubs is, the virtual, 3D, like place maker format, from, the Fox, the modular Fox, modular Fox. And you can make like your virtual exhibition in their place. And what I did is, is, I'm going to bring some, my paintings.
 
 I put in the virtual, the, my hand paint paintings. So this is, I call Sarah paintings. So how many of these paintings is, just put the paper and pen and trying to not thinking like no idea or no purpose for painting. Just, just, just rely on everything to your body and like inside like system. And, and then like, pen starts making like this kind of like, like shapes. I noticed. So, first time I noticed this skill, I have no idea why I did it. And, but I did, I doing this kind of skill, like, like ears. And now I really like, notice and like trying to make concept is like, maybe these like, shape is kind of like my cells inside. And like, the cells, why I explain is, it's maybe it's connect to my desire, like sexual thing. And also like, my species things. Also my humanism desire. So, I think this is really my inside, like humanism, like my organization, like really other organizations.
 
-And, I think this is really my organization painting experience. So this why, I like sometimes trying to put this kind of painting in the virtual system. So like, yeah, digital, opposite. So, yeah. This one also, like kind of, and, and, so I'm going to start, I'm going to start with, explain about, the, this, called Digiana Group. So, Digiana Group, is, my other, like activities, of my artworks, art movement. So Digiana Group is, my organizing, like, artist group. And like, I gather artists who deals with, sensory, digital and other media, from around the world. So, I, like, I did a lot of events with them, and, almost three years before. So far, around 30 to 50 artists, like, joined. And, this month, also, we gonna do, like, live stream event, with 12 artists.
+And, I think this is really my organization painting experience. So this why, I like sometimes trying to put this kind of painting in the virtual system. So like, yeah, digital, opposite. So, yeah. This one also, like kind of,
+
+## Tommy Mintz [15:33](https://www.youtube.com/watch?v=l52RGfTiatE&t=933s)
+
+And,
+
+## Seungjin Lee [15:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=934s)
+
+And, so I'm going to start, I'm going to start with, explain about, the, this, called Digiana Group. So, Digiana Group, is, my other, like activities, of my artworks, art movement. So Digiana Group is, my organizing, like, artist group. And like, I gather artists who deals with, sensory, digital and other media, from around the world. So, I, like, I did a lot of events with them, and, almost three years before. So far, around 30 to 50 artists, like, joined. And, this month, also, we gonna do, like, live stream event, with 12 artists.
 
 So, from around the world. And even today's, participants, the Tommy, also, this time, trying to join, this time. Thank you so much, Tommy, this time. Yeah, we, we met in, like, months before, the, take, fashion, exhibition, because Giovanna, invited me there. So, we meet together, and I asked Tommy, like, to join us. Yeah. And, what we gonna do is, to, like, put the, every, like, stream links, every day. Like, and, per day, per artist, gonna show, virtual, like, live stream, or, like, exhibition, every day. So, we gonna do, the kind of, like, art fair.
 
-Yeah. And, this is, the video, the Chris Lew turn, fiction page. You can't say it like this, you're saying this, because, every country, has its own way. God opens, they were live. Oh, fire out. Don't think that way. He's a, I turned off, I turned off the video. It's actually, contrary, to popular belief. He's comprised of, 18, of this energy, circling around. All this energy, that you guys are bringing, down here.
+## Dalton Portella [17:25](https://www.youtube.com/watch?v=l52RGfTiatE&t=1045s)
 
-So, just praying about, like, this performance, or like, in brief, some, performance, do, the, like, what's it like, game, video game, perform? Like, it's called video game, but, how, he did, is, like, playing, role playing game, with the audience. So, he asked to audience, there is monsters there. So, like, how, how, how do I do? Like, there's some options on the screen. So, like, just, like, throw the apple, or whatever, like, like, just run away, or like, there's options. And, like, she decides, that, like, every time, the audience responds, and make, like, screen, next, next, next, that kind of, like, like, so, I really love, his concept, like, he's, you know, like, digital right now, like, game system, like, real performance, like, real original performance, like, thing, and, and also, some artists, did, like, coding, like, music performance, like, make a music, from the, like, live stream coding, the same time, in the, the performance, and, other artists, like, user, like, random coding, like, poem reading, like, some artists do, or like, like, performance basis, or like, metamodernism concept, so, like, lot of different artists, but, it's, everyone, like, almost same concept, like, what is, humanism, and our, self, in the digital technology, now, and, this one, also, I did, like, with my friend, using, virtual, like, players, like, they said, they're all rooms, and doing, like, doing shows, and, this one, also, like, YouTube live stream, event, he said, like, this is, for example, like, oh, this day, like, from 8pm, like, soon, gonna do, like, live stream, and, 8, 8, 20, like, like, Melody is gonna do, like, 840, who do, like, like that, like, so, people can see, like, one by one, live stream, like, the same time, yeah, and, this is, some, like, introduce my, like, participants, artists, also, she, name is, Nicole Salamone, she, is based on, like, metamodalism concept, like, art, she work, a lot of time with me, and, her name is Melody, Melody also do, like, coding, like, music things, and, she's name is, Wamu, Wamu, we, with, in, on Instagram, and, she, could, like, really, original Instagram, like, the game character, but, guicci, with, his, like, personally, like, everyday, experience, like, recorded, from video, so, like, dreamy guicci, like, Instagram, and, she, now, like, she really good at, speaking, also, digital art, in, Korea, so, when I know, her, on internet, I just, like, contact her, like, how we can do, like, collaboration, and, yeah, and, this time, this month, then, also, she gonna, you know, like, and, she, her concept, also, like, what is, and, what is, baby, you know, human, in the, digital, like, internet, like, kind of, like, original concept, maybe, baby is gonna, can make, you know, internet, or digital, that kind of, yeah, yeah, so, this is, my website, and, Dijana Grove's website, and, Instagram, yeah, so, actually, presentation, I, feel, is, like, this, and, what I, like, on, my next goal, is, of course, this month, I'm gonna do, like, event with, Dijana Grove, and, also, the next month, Dijana Grove, and, the, the culture hub, the culture hub, is, the, global art, and, technology, like, like, studying, like, the movement, the society, and, we gonna do, like, collaboration event, in the, March soon, and, now, I'm thinking about, is, how, me, and, my, like, surround artists, can, more, make, like, support system, for our creation, like, for example, like, making NFTs, and, like, make even little money, or, something, like, make, can make, our, like, creative things, more support, so, this is our, like, my next visions, and, yeah, and, I really happy to, know each other, this time, take question, and, yeah, I think, I, I already did, like, 20 minutes, right, almost, so, I think, this is all, yeah, you're good, good, good, sorry, yeah, thank you, thank you, sorry, I really, nervous, like, I can't even, see your, your, you guys face, so, no, you're fine, Your presentation was great.
+Yeah.
 
-Thank you. All right. Yeah. Thank you so much for having me. Thank you. Thank you. That was awesome. And, you know, feel free to bring your friends from Digiana by. You have a mixer, you know, and all, you know, are welcome. It's awesome. All right. Well, thank you for that, Sungjin. And with that unlike previous loans we're gonna save all the questions and discussion until after the second presentation so if they're like sitting or blaring in your mind write them down somewhere so you don't forget or you can put them in the chat and then I'll dig it and find them in the chat and we'll bring it back up all right and with that I think dalton you're up up.
+## Seungjin Lee [17:26](https://www.youtube.com/watch?v=l52RGfTiatE&t=1046s)
 
-## Dalton Portella [25:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=1534s)
+And, this is, the video,
+
+## Seungjin Lee [17:37](https://www.youtube.com/watch?v=l52RGfTiatE&t=1057s)
+
+The Chris Lew turn, fiction page.
+
+## Unattributed [17:39](https://www.youtube.com/watch?v=l52RGfTiatE&t=1059s)
+
+You can't
+
+## Seungjin Lee [17:41](https://www.youtube.com/watch?v=l52RGfTiatE&t=1061s)
+
+Say it like this, you're saying this, because, every country, has its own way. God opens, they were live.
+
+## Unattributed [18:07](https://www.youtube.com/watch?v=l52RGfTiatE&t=1087s)
+
+Oh, fire out. Don't think that way.
+
+## Dalton Portella [18:10](https://www.youtube.com/watch?v=l52RGfTiatE&t=1090s)
+
+He's a,
+
+## Seungjin Lee [18:12](https://www.youtube.com/watch?v=l52RGfTiatE&t=1092s)
+
+, I turned off, I turned off the video. It's actually, contrary, to popular belief. He's comprised of, 18, of this energy, circling around. All this energy, that you guys are bringing, down here.
+
+## Seungjin Lee [18:30](https://www.youtube.com/watch?v=l52RGfTiatE&t=1110s)
+
+So, just praying about, like, this performance, or like, in brief, some, performance, do, the, like, what's it like, game, video game, perform? Like, it's called video game, but, how, he did, is, like, playing, role playing game, with the audience. So, he asked to audience, there is monsters there. So, like, how, how, how do I do? Like, there's some options on the screen. So, like, just, like, throw the apple, or whatever, like, like, just run away, or like, there's options. And, like, she decides, that, like, every time, the audience responds, and make, like, screen, next, next, next, that kind of, like, like, so, I really love, his concept, like, he's, you know, like, digital right now, like, game system, like, real performance, like, real original performance, like, thing, and, and also, some artists, did, like, coding, like, music performance, like, make a music, from the, like, live stream coding, the same time, in the, the performance, and, other artists, like, user, like, random coding, like, poem reading, like, some artists do, or like, like, performance basis, or like, metamodernism concept, so, like, lot of different artists, but, it's, everyone, like, almost same concept, like, what is, humanism, and our, self, in the digital technology, now, and, this one, also, I did, like, with my friend, using, virtual, like, players, like, they said, they're all rooms, and doing, like, doing shows, and, this one, also, like, YouTube live stream, event, he said, like, this is, for example, like, oh, this day, like, from 8pm, like, soon, gonna do, like, live stream, and, 8, 8, 20, like, like, Melody is gonna do, like, 840, who do, like, like that, like, so, people can see, like, one by one, live stream, like, the same time, yeah, and, this is, some, like, introduce my, like, participants, artists, also, she, name is, Nicole Salamone, she, is based on, like, metamodalism concept, like, art, she work, a lot of time with me, and, her name is Melody, Melody also do, like, coding, like, music things, and, she's name is, Wamu, Wamu, we, with, in, on Instagram, and, she, could, like, really, original Instagram, like, the game character, but, guicci, with, his, like, personally, like, everyday, experience, like, recorded, from video, so, like, dreamy guicci, like, Instagram, and, she, now, like, she really good at, speaking, also, digital art, in, Korea, so, when I know, her, on internet, I just, like, contact her, like, how we can do, like, collaboration, and, yeah, and, this time, this month, then, also, she gonna, you know, like, and, she, her concept, also, like, what is, and, what is, baby, you know, human, in the, digital, like, internet, like, kind of, like, original concept, maybe, baby is gonna, can make, you know, internet, or digital, that kind of, yeah, yeah, so, this is, my website, and, Dijana Grove's website, and, Instagram, yeah, so, actually, presentation, I, feel, is, like, this, and, what I, like, on, my next goal, is, of course, this month, I'm gonna do, like, event with, Dijana Grove, and, also, the next month, Dijana Grove, and, the, the culture hub, the culture hub, is, the, global art, and, technology, like, like, studying, like, the movement, the society, and, we gonna do, like, collaboration event, in the, March soon, and, now, I'm thinking about, is, how, me, and, my, like, surround artists, can, more, make, like, support system, for our creation, like, for example, like, making NFTs, and, like, make even little money, or, something, like, make, can make, our, like, creative things, more support, so, this is our, like, my next visions, and, yeah, and, I really happy to, know each other, this time, take question, and, yeah, I think, I, I already did, like, 20 minutes, right, almost, so, I think, this is all,
+
+## Seungjin Lee [24:26](https://www.youtube.com/watch?v=l52RGfTiatE&t=1466s)
+
+Yeah,
+
+## Seungjin Lee [24:28](https://www.youtube.com/watch?v=l52RGfTiatE&t=1468s)
+
+You're good, good, good, sorry, yeah, thank you, thank you, sorry, I really, nervous, like, I can't even, see your, your, you guys face, so,
+
+## Davonte Bradley [24:40](https://www.youtube.com/watch?v=l52RGfTiatE&t=1480s)
+
+No, you're fine, Your presentation was great. Thank you.
+
+## Seungjin Lee [24:45](https://www.youtube.com/watch?v=l52RGfTiatE&t=1485s)
+
+All right. Yeah. Thank you so much for having me.
+
+## Colin Goldberg [24:48](https://www.youtube.com/watch?v=l52RGfTiatE&t=1488s)
+
+Thank you.
+
+## Davonte Bradley [24:49](https://www.youtube.com/watch?v=l52RGfTiatE&t=1489s)
+
+Thank you.
+
+## Colin Goldberg [24:51](https://www.youtube.com/watch?v=l52RGfTiatE&t=1491s)
+
+That was awesome. And, you know, feel free to bring your friends from Digiana by. You have a mixer, you know, and all, you know, are welcome. It's awesome.
+
+## Davonte Bradley [25:04](https://www.youtube.com/watch?v=l52RGfTiatE&t=1504s)
+
+All right. Well, thank you for that, Sungjin. And with that unlike previous loans we're gonna save all the questions and discussion until after the second presentation so if they're like sitting or blaring in your mind write them down somewhere so you don't forget or you can put them in the chat and then I'll dig it and find them in the chat and we'll bring it back up all right and with that I think dalton you're up up.
+
+## Dalton Portella [25:37](https://www.youtube.com/watch?v=l52RGfTiatE&t=1537s)
 
 Hi, everybody. My name is Dalton Portella, and I am speaking to you from Montauk, New York. I'll give you a little bit of my history. I was born in Miami, Brazilian parents. And when I was 12, my mother divorced my father, who was a violent alcoholic. And that was a really good thing. And took us down to Brazil, where I went to junior high and high school. And I loved to draw.
 
@@ -121,96 +219,476 @@ One of my early self portraits. Four versions of Chuck. That was me feeling cens
 
 And when I think of Techspressionism, I, I, I think of, of, grabbing my paint strokes and then digital. And then I think of, of, of, of, digitally manipulating them and creating shapes. Here I've lifted paint strokes from different paintings. You can see these same paint strokes on one of the other digital files.
 
-Sounds good. Yeah. So I'm going to see what you can see. So I'm going to see go to it. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one.
+Sounds good.
+
+## Unattributed [44:54](https://www.youtube.com/watch?v=l52RGfTiatE&t=2694s)
+
+Yeah.
+
+## Dalton Portella [45:04](https://www.youtube.com/watch?v=l52RGfTiatE&t=2704s)
+
+So I'm going to see what you can see. So I'm going to see go to it.
+
+## Unattributed [45:08](https://www.youtube.com/watch?v=l52RGfTiatE&t=2708s)
+
+And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one.
+
+## Dalton Portella [45:24](https://www.youtube.com/watch?v=l52RGfTiatE&t=2724s)
 
 And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. And I'm going to see that I just got to go to the next one. So there's a little bit of the show and tell. I could actually also would like to put on some music in the background. Some of I've been working on some.
 
-Thank you. Thank you. Thank you. Thank you. Thank you. All right, so I think I'll open it up to questions and comments now. Well, that was a wonderful presentation. Thank you. Thank you. A little insight into my brain. We could see it, I think, very well. You know, there's one. Interesting part towards the end where you actually put on the music. For quite a while now, I was always thinking about whether or not it would be appropriate to have music in the background for some of these presentations. Because it is very quiet unless you're speaking the entire time. But the fact that you brought your own background music, that worked.
+## Unattributed [46:47](https://www.youtube.com/watch?v=l52RGfTiatE&t=2807s)
 
-Yeah, that was a piece of music I created over the last couple of days. A friend of mine approached me and asked me if I would put something together. And I said, yeah, I'll put something together for a one-minute film, minute and 15-second film. So I wrote that like yesterday and the day before. It worked. It actually went along with your work very well.
+Thank you. Thank you. Thank you. Thank you.
 
-They relate, I think. Yeah. All right. So we do have some questions for you, or at least one question in the chat so far. From Cynthia. She wants to know, why do you scan images? I'm scanning images. I'm scanning images. I'm scanning images. So my images were output to transparency as a way to preserve them. Because I didn't own a Mac. I was working on a proprietary system that the only way to output was to these nine-track tapes and transparencies. So my originals of my early digital work are eight by ten transparencies now. So that I'm having to re-scan and bring in.
+## Dalton Portella [48:37](https://www.youtube.com/watch?v=l52RGfTiatE&t=2917s)
 
-And digitize them again. So they've gone back and forth. Great. How are you presenting these digital pieces? Some I print, and some only exist now right here on the computer. So when I started hearing about it, and if he's coming out, it's like, finally, I have a decent venue to showcase this work.
+Thank you. All right, so I think I'll open it up to questions and comments now.
 
-I remember when I first started making these, I showed galleries the transparencies, and they didn't know what to make of them. They didn't understand the digital art concept and weren't very open to it. So it's taken 30-something years for me to now... Like, have a good venue to showcase them in Salem and share them with the world. That sounds like a very common story among a lot of people here. Yeah, sure.
+## Davonte Bradley [48:48](https://www.youtube.com/watch?v=l52RGfTiatE&t=2928s)
 
-Yeah. Tommy actually has a question for both presenters today. What do you think about the idea of control in your work? So either Dalton or Seungjin? What kind of control? What kind of control? Tommy? Can I unmute? I'm sorry. Hi. First of all, what fantastic work, both of you guys. It's like mind-blowing and really different, but somehow similar ways. Maybe it's the tools and techniques. And I'm wondering, you both have like painting in your, well, you know, sort of physical, you're both like using paint in some works, and then also translating into digital, this sort of painterly gesture, if you will. And I'm wondering, do you feel like there's a sense of control you're giving up in that translation or gaining? Maybe. You know, you talk about cutting and pasting from a canvas, which sounds like, wow, you know, cutting and pasting a brushstroke.
+Well, that was a wonderful presentation. Thank you.
 
-Do you gain control by that conversion? Well, digital. I, one of the things I enjoy about working in digital is because, is there can be a lot of unpredicted outcomes. Like when I, when I bring something in and then throw it through a curve or change the color, the layer style of it. And I like the, I like the unexpected in that, you know, where, you know, they're, they're almost the same as like when I'm applying oil paint to a canvas and then, and then I'm just going to go in and just take a, a palette knife and swoosh it across. And I get an unexpected blending of colors. I like that accident. I like that accident that also has some intention behind it. The, the, the hand movement. The mark. And that was one thing, the. That Japanese American teacher. I, I, I mentioned, he taught us about the importance of the mark.
+## Unattributed [48:51](https://www.youtube.com/watch?v=l52RGfTiatE&t=2931s)
 
-He would have. Models give us five second poses, give us a bucket of ink and a brush, and you would just try to capture her whole movement in one stroke. And. Yeah. So there's kind of a. Diving off of the cliff, lack of control there that I enjoy. Yeah. And what about you? You're muted. Unmute. Unmute yourself. Sorry. Thanks so much for your wonderful story.
+Thank you.
 
-I loved your yours too. Those pieces behind you is just so yeah. Yeah. Yeah. Thank you so much for Tommy. Great. Actually did that is that Christian. Is really important for me. Always creation themes. So how control or. Or is there no control in my life? Like every painting is like, basically maybe I can say my, I'm trying to explain like not myself, like it's weird, you know? Like I use my body and like every hand, also my brain and every organism, myself, but maybe I explain not myself, it's my kind of goal maybe, also using this sort of thing. Yeah, it's silly.
+## Davonte Bradley [48:52](https://www.youtube.com/watch?v=l52RGfTiatE&t=2932s)
+
+A little insight into my brain. We could see it, I think, very well. You know, there's one. Interesting part towards the end where you actually put on the music. For quite a while now, I was always thinking about whether or not it would be appropriate to have music in the background for some of these presentations. Because it is very quiet unless you're speaking the entire time. But the fact that you brought your own background music, that worked.
+
+## Dalton Portella [49:24](https://www.youtube.com/watch?v=l52RGfTiatE&t=2964s)
+
+Yeah, that was a piece of music I created over the last couple of days. A friend of mine approached me and asked me if I would put something together. And I said, yeah, I'll put something together for a one-minute film, minute and 15-second film. So I wrote that like yesterday and the day before. It worked.
+
+## Davonte Bradley [49:40](https://www.youtube.com/watch?v=l52RGfTiatE&t=2980s)
+
+It actually went along with your work very well.
+
+## Dalton Portella [49:44](https://www.youtube.com/watch?v=l52RGfTiatE&t=2984s)
+
+They relate, I think. Yeah. All right.
+
+## Davonte Bradley [49:49](https://www.youtube.com/watch?v=l52RGfTiatE&t=2989s)
+
+So we do have some questions for you, or at least one question in the chat so far. From Cynthia. She wants to know, why do you scan images?
+
+## Dalton Portella [49:59](https://www.youtube.com/watch?v=l52RGfTiatE&t=2999s)
+
+I'm scanning images. I'm scanning images. I'm scanning images. So my images were output to transparency as a way to preserve them. Because I didn't own a Mac. I was working on a proprietary system that the only way to output was to these nine-track tapes and transparencies. So my originals of my early digital work are eight by ten transparencies now. So that I'm having to re-scan and bring in.
+
+And digitize them again. So they've gone back and forth.
+
+## Unattributed [50:39](https://www.youtube.com/watch?v=l52RGfTiatE&t=3039s)
+
+Great. How are you presenting these digital pieces?
+
+## Dalton Portella [50:44](https://www.youtube.com/watch?v=l52RGfTiatE&t=3044s)
+
+Some I print, and some only exist now right here on the computer. So when I started hearing about it, and if he's coming out, it's like, finally, I have a decent venue to showcase this work. I remember when I first started making these, I showed galleries the transparencies, and they didn't know what to make of them. They didn't understand the digital art concept and weren't very open to it. So it's taken 30-something years for me to now...
+
+Like, have a good venue to showcase them in Salem and share them with the world.
+
+## Davonte Bradley [51:33](https://www.youtube.com/watch?v=l52RGfTiatE&t=3093s)
+
+That sounds like a very common story among a lot of people here. Yeah, sure.
+
+## Dalton Portella [51:39](https://www.youtube.com/watch?v=l52RGfTiatE&t=3099s)
+
+Yeah.
+
+## Davonte Bradley [51:42](https://www.youtube.com/watch?v=l52RGfTiatE&t=3102s)
+
+Tommy actually has a question for both presenters today. What do you think about the idea of control in your work? So either Dalton or Seungjin?
+
+## Dalton Portella [51:55](https://www.youtube.com/watch?v=l52RGfTiatE&t=3115s)
+
+What kind of control? What kind of control?
+
+## Tommy Mintz [52:00](https://www.youtube.com/watch?v=l52RGfTiatE&t=3120s)
+
+Tommy? Can I unmute? I'm sorry. Hi. First of all, what fantastic work, both of you guys. It's like mind-blowing and really different, but somehow similar ways. Maybe it's the tools and techniques. And I'm wondering, you both have like painting in your, well, you know, sort of physical, you're both like using paint in some works, and then also translating into digital, this sort of painterly gesture, if you will. And I'm wondering, do you feel like there's a sense of control you're giving up in that translation or gaining? Maybe. You know, you talk about cutting and pasting from a canvas, which sounds like, wow, you know, cutting and pasting a brushstroke.
+
+Do you gain control by that conversion? Well, digital.
+
+## Dalton Portella [52:46](https://www.youtube.com/watch?v=l52RGfTiatE&t=3166s)
+
+I, one of the things I enjoy about working in digital is because, is there can be a lot of unpredicted outcomes. Like when I, when I bring something in and then throw it through a curve or change the color, the layer style of it. And I like the, I like the unexpected in that, you know, where, you know, they're, they're almost the same as like when I'm applying oil paint to a canvas and then, and then I'm just going to go in and just take a, a palette knife and swoosh it across. And I get an unexpected blending of colors. I like that accident. I like that accident that also has some intention behind it. The, the, the hand movement. The mark. And that was one thing, the. That Japanese American teacher. I, I, I mentioned, he taught us about the importance of the mark. He would have. Models give us five second poses, give us a bucket of ink and a brush, and you would just try to capture her whole movement in one stroke.
+
+And. Yeah. So there's kind of a. Diving off of the cliff, lack of control there that I enjoy. Yeah.
+
+## Unattributed [54:20](https://www.youtube.com/watch?v=l52RGfTiatE&t=3260s)
+
+And what about you?
+
+## Dalton Portella [54:22](https://www.youtube.com/watch?v=l52RGfTiatE&t=3262s)
+
+You're muted. Unmute. Unmute yourself. Sorry.
+
+## Seungjin Lee [54:29](https://www.youtube.com/watch?v=l52RGfTiatE&t=3269s)
+
+Thanks so much for your wonderful story.
+
+## Dalton Portella [54:33](https://www.youtube.com/watch?v=l52RGfTiatE&t=3273s)
+
+I loved your yours too. Those pieces behind you is just so yeah.
+
+## Seungjin Lee [54:39](https://www.youtube.com/watch?v=l52RGfTiatE&t=3279s)
+
+Yeah. Yeah. Thank you so much for Tommy. Great. Actually did that is that Christian. Is really important for me. Always creation themes. So how control or. Or is there no control in my life? Like every painting is like, basically maybe I can say my, I'm trying to explain like not myself, like it's weird, you know? Like I use my body and like every hand, also my brain and every organism, myself, but maybe I explain not myself, it's my kind of goal maybe, also using this sort of thing. Yeah, it's silly.
 
 Like, I don't know, like it's kind of like looks like a Duchamp, like contemporary, you know, he brings us, you know, like toilet in the museum and like a ready-made, you know, like you don't need to make anything. Like maybe kind of, that's like sympathy in my life, my art creation thing maybe it's going. And it reminds me like one movie, the animation movie I worried, like moved by that movie, it's name called Ghost in the Shell. Maybe some of you guys know, actually, yeah, Ghost in the Shell is Japanese animation. And they have a lot of movie and series animation. And also actually my wife is Japanese and how we meet is my wife introduced the Ghost in the Shell, the original manga to me. Like, anyway, in that movie is, actually that movie is sci-fi movie, like really like human technology is kind of really high, high in the future.
 
 And every, almost every human have a like computer brain. So people can hijack their brain, like memory. And for example, like you have your family or friends in your memory, but one day some police came to me and he say, your memory is everything wrong. You don't have family or you don't have, you know, friends. So he say some hijacker, like take your memory, like put wrong memory in your brain. So that concept is really shocked to me, like when I first time see. So, and then movie, like say, like so many questioning to viewer, like what is your self and what is your memory? And what is like just your self in digital era, maybe it's fake, maybe it's not, so it's really scary thing. But also I can imagine what is our next generation future in the art scene and our myself.
 
-So like, sorry, I don't want to mention like long story, but like explain this painting is like kind of like, this is hand painting everything, but actually like already like, exactly same image I already made it in digital. So while I do like also hand painting is actually, this is really boring, really boring. There is no fun. Like I copy just hand painting like computer. It's really, really, really boring. But what I'm trying to do is maybe I want to be like computer or digital thing or they kind of like, yeah, I don't know. Like just I'm trying to like make, like, like, like, like, like a real experience with creative. But yeah, I hope this answer will help you guys. Tommy approves.
+So like, sorry, I don't want to mention like long story, but like explain this painting is like kind of like, this is hand painting everything, but actually like already like, exactly same image I already made it in digital. So while I do like also hand painting is actually, this is really boring, really boring. There is no fun. Like I copy just hand painting like computer. It's really, really, really boring. But what I'm trying to do is maybe I want to be like computer or digital thing or they kind of like, yeah, I don't know. Like just I'm trying to like make, like, like, like, like, like a real experience with creative. But yeah, I hope this answer will help you guys.
 
-All right. We actually have another question for you from the chats. It's like when you showed the butcher shop on Great Jones Street, you held up an iPhone to make it move. Is there an app to do this? So I guess they're asking about the AR. Yeah. Yeah. So I'm going to chat. Chat app name is the, give me a second. Yeah. But I will, I will put the app name on the chat and you can check that app and everyone can use that app. You know, once you put, use an app and you can have an account in the, like online, and you can put every, like, email, like a 3D image on every scanning image. But yeah, I'm going to share with you. Yeah. All right. Got another resource to use. There's a, there's a lot of heavy app users in here. I know that some, some people that's actually the majority of what they do.
+## Unattributed [58:54](https://www.youtube.com/watch?v=l52RGfTiatE&t=3534s)
 
-It's various apps working together to create all sorts of experiences. And I think a couple of people are definitely diving into AR work too. What is AR? I need to, I'm sorry. What is AR? AR stands for augmented reality. So if you remember back to Sung Joon's presentation, you saw how on his phone there was interaction between the physical work and what was being displayed on the phone. Yeah, it was so cool. Yeah. That's AR. Yeah. That's AR.
+Tommy approves.
 
-Yeah. I just put on chat the app name. App name is RTBipe. So everyone can use this app. Yeah. And you will go. Got it. Yeah. Yeah. All right. We have any further questions in the chat? Oh, we got one from Colin. I could just ask. I could just ask you. Yeah. So Sung Joon, I don't know if you are familiar with an artist named Joseph Boyes or the idea of social sculpture. Was it? Sure. But your Digiana project reminded me of what I've been working on in terms of thinking about Techspressionism in that way is something like a project like this or what you're doing can actually be an art piece in the sense that it's a collaborative social sculpture where people could contribute their own creative ideas or move it in a particular direction independently.
+## Seungjin Lee [58:57](https://www.youtube.com/watch?v=l52RGfTiatE&t=3537s)
 
-And I wanted to see if you had thought about that at all or if you. If that. If that resonates with you. Actually, also, I'm really sorry. Maybe I need to study more about Joseph Boyes. Maybe I still don't know his concept like that so much. But I only know his name actually. But I'm actually I'm looking his artwork in Google. Like, could you make sure? If you. Yeah. If you Google social sculpture. Sure. There's a Wikipedia page for it. And honestly, like I hadn't been that familiar with it. There is an artist, Joseph Necvital, who's sort of he hasn't been to a salon, but he was one of the people that his interviews on the page on expressionism. And he was one of the people that influenced me early on as far as using technology in an expressive way. And his work, it's interesting how he talks about it because.
+All right.
+
+## Davonte Bradley [58:59](https://www.youtube.com/watch?v=l52RGfTiatE&t=3539s)
+
+We actually have another question for you from the chats. It's like when you showed the butcher shop on Great Jones Street, you held up an iPhone to make it move. Is there an app to do this? So I guess they're asking about the AR. Yeah.
+
+## Seungjin Lee [59:14](https://www.youtube.com/watch?v=l52RGfTiatE&t=3554s)
+
+Yeah. So I'm going to chat. Chat app name is the, give me a second. Yeah. But I will, I will put the app name on the chat and you can check that app and everyone can use that app. You know, once you put, use an app and you can have an account in the, like online, and you can put every, like, email, like a 3D image on every scanning image. But yeah, I'm going to share with you. Yeah.
+
+## Davonte Bradley [59:52](https://www.youtube.com/watch?v=l52RGfTiatE&t=3592s)
+
+All right. Got another resource to use. There's a, there's a lot of heavy app users in here. I know that some, some people that's actually the majority of what they do. It's various apps working together to create all sorts of experiences. And I think a couple of people are definitely diving into AR work too.
+
+## Dalton Portella [01:00:11](https://www.youtube.com/watch?v=l52RGfTiatE&t=3611s)
+
+What is AR? I need to, I'm sorry. What is AR?
+
+## Davonte Bradley [01:00:16](https://www.youtube.com/watch?v=l52RGfTiatE&t=3616s)
+
+AR stands for augmented reality. So if you remember back to Sung Joon's presentation, you saw how on his phone there was interaction between the physical work and what was being displayed on the phone.
+
+## Dalton Portella [01:00:30](https://www.youtube.com/watch?v=l52RGfTiatE&t=3630s)
+
+Yeah, it was so cool.
+
+## Davonte Bradley [01:00:31](https://www.youtube.com/watch?v=l52RGfTiatE&t=3631s)
+
+Yeah. That's AR. Yeah.
+
+## Dalton Portella [01:00:33](https://www.youtube.com/watch?v=l52RGfTiatE&t=3633s)
+
+That's AR.
+
+## Seungjin Lee [01:00:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=3634s)
+
+Yeah. I just put on chat the app name. App name is RTBipe. So everyone can use this app. Yeah. And you will go. Got it. Yeah. Yeah.
+
+## Davonte Bradley [01:00:50](https://www.youtube.com/watch?v=l52RGfTiatE&t=3650s)
+
+All right. We have any further questions in the chat? Oh, we got one from Colin.
+
+## Unattributed [01:01:04](https://www.youtube.com/watch?v=l52RGfTiatE&t=3664s)
+
+I could just ask. I could just ask you. Yeah.
+
+## Colin Goldberg [01:01:07](https://www.youtube.com/watch?v=l52RGfTiatE&t=3667s)
+
+So Sung Joon, I don't know if you are familiar with an artist named Joseph Boyes or the idea of social sculpture. Was it? Sure. But your Digiana project reminded me of what I've been working on in terms of thinking about Techspressionism in that way is something like a project like this or what you're doing can actually be an art piece in the sense that it's a collaborative social sculpture where people could contribute their own creative ideas or move it in a particular direction independently.
+
+And I wanted to see if you had thought about that at all or if you. If that. If that resonates with you.
+
+## Seungjin Lee [01:01:46](https://www.youtube.com/watch?v=l52RGfTiatE&t=3706s)
+
+Actually, also, I'm really sorry. Maybe I need to study more about Joseph Boyes. Maybe I still don't know his concept like that so much. But I only know his name actually. But I'm actually I'm looking his artwork in Google. Like, could you make sure?
+
+## Colin Goldberg [01:02:10](https://www.youtube.com/watch?v=l52RGfTiatE&t=3730s)
+
+If you. Yeah. If you Google social sculpture. Sure. There's a Wikipedia page for it. And honestly, like I hadn't been that familiar with it. There is an artist, Joseph Necvital, who's sort of he hasn't been to a salon, but he was one of the people that his interviews on the page on expressionism. And he was one of the people that influenced me early on as far as using technology in an expressive way. And his work, it's interesting how he talks about it because.
 
 He almost, you know. Pushes away the idea that the work has anything to do with technology. It's just sort of a given that's what's being used to create it, but it's not what the work is about in any way. It's about it's about other things, you know, so. But he introduced me to this idea of social sculpture when I was working on another project that involved similar things like artists interviewing other artists and things like that. This was back in the 90s before there was broadband. So it was really. Yeah. Not really the time there was everyone was on dial up and there was no YouTube. It was real video. At any rate, it was it was kind of this. I see this as sort of the next iteration of that idea. But the idea of social sculpture, I think.
 
 As this project progresses, you know, things just sort of happen and that aspect of chance and so many multiple people being involved. Allows for. You know, interesting results. And a lot of times people have asked me, oh, are you going to trademark expressionism or is that going to become a 501, you know, C3 corporation, a not for profit organization? And like pretty much all of those things, I'm just like, no, no, no, no. You know, and I think the further away it gets from those things, the more chance it has to.
 
-Grow into what I would like it to be. Which is sort of the antithesis of that. Whatever that is, you know, I don't know. One thing that I think I like is, you know, boys is one thing. And then the other one is Nicholas Borio. The idea of a relational aesthetics. In other words, basically with artists, you know, basically bouncing off of each other. And then on the other hand, is that artists basically trying to get closer to their audiences and then, you know, basically going into a creative dialogue with them as well. And I think these things are really interesting. And I basically, this is kind of like the next step after boys. And that, that really kind of became kind of big in the 1990s. And you know, I think we have a lot of that here too. Interesting. Is there, is there a particular reading you could recommend for that?
+Grow into what I would like it to be. Which is sort of the antithesis of that. Whatever that is, you know, I don't know.
 
-The Borio's book, relational aesthetics. Well, there you go. All right. I'll, I'll add it to my reading list. Okay. I don't know about you guys, but my reading list is kind of long at this point. So is mine. It's the books I hope. I wish they have time to read. And it just keeps growing and play. Oh yeah. You should totally read this one. I was like, I'm interested in that, but where's the time?
+## Patrick Lichty [01:04:17](https://www.youtube.com/watch?v=l52RGfTiatE&t=3857s)
 
-It's a, it's not a bad problem to have. It's just, man, so many books. All right. We actually do have a reading list page on Techspressionism.com, or I think it's now maybe at the bottom of the manifesto page, but if anyone does have suggestions for that of books to add you know, I'm happy to make those edits and put them up there. Or, you know, if anyone in here is a writer and wants me to add your text to it send me a link to that too.
+One thing that I think I like is, you know, boys is one thing. And then the other one is Nicholas Borio. The idea of a relational aesthetics. In other words, basically with artists, you know, basically bouncing off of each other. And then on the other hand, is that artists basically trying to get closer to their audiences and then, you know, basically going into a creative dialogue with them as well. And I think these things are really interesting. And I basically, this is kind of like the next step after boys. And that, that really kind of became kind of big in the 1990s. And you know, I think we have a lot of that here too.
 
-Davo. I don't know what you're talking about. Patrick, I think your book's on there already. That reminds me I need to finish up the other iterations for my poems. Okay. I think I might actually finish those up once I actually get an iPad because I've been holding off for a minute. Oh, my, my poems, my first book. Yeah. Which books up there that my theory one or my science fiction one.
+## Colin Goldberg [01:04:53](https://www.youtube.com/watch?v=l52RGfTiatE&t=3893s)
 
-Science fiction one is hard to read. Pretty sure it's the theory one. Yeah. Yeah, it's probably easier to read. It was its own separate page but I'm pretty sure I moved that material to the manifesto page at the bottom. Hmm. Oh, so we had slight discussion about a movement called techism from Krista Kim was a founder. I've personally never heard of her.
+Interesting. Is there, is there a particular reading you could recommend for that?
 
-Diana, did you want to say a little bit about that? Or? Sure. I was. Yeah, I was doing a bit of research and thinking about expressionism and talking about it. And I don't know how I stumbled upon it. But Krista Kim. Yeah, Krista Kim studio.com founder of the tech is a movement and creator of the Mars house. Light is the new ink. So she's on super rare. So she started to blend. Kind of technical with NFT. I just I had wondered if Colin I'd never heard of it. But she's human. Yeah. Right. She's copyrighted techism. So gotcha. Gotcha. Well, copyright is inherent. You know, basically, he made put it up there. I mean, she you know, we follow each other on Twitter. I don't know her personally. But I saw that something about techism a while ago, but I don't know that it's really too active, you know?
+## Patrick Lichty [01:04:56](https://www.youtube.com/watch?v=l52RGfTiatE&t=3896s)
 
-She sold a piece for 500,000 bucks. What? I didn't see that. Was that the movie? Oh, okay. Yeah. Oh, creator of the Marvel movies. Yeah, bravo. Yeah, good on her. Absolutely. To see an artist not starving. It's always a good time. Yeah, I mean, you know, I've thought about like trademarking and I've trade, you know, I've registered marks before. You could just go to USPTO.gov and file a form. I did that for my business name. But I feel like, you know, if and my goal. With this project is to bring the term into common usage. So things like that are trademarked like Kleenex, for instance, it became a word, but, you know, it, I think it's a, it's a tougher road for trademark terms to actually be brought into common usage outside of commercial usage. You know that being said, if someone went and trademarked it and opened up the Techspressionism gallery or the Techspressionism magazine, good.
+The Borio's book, relational aesthetics.
 
-That's going to help propel it into common usage. As far as I'm concerned, let someone else do the work and if they want to earn money off of it, that's cool too. You know, I did register the domain name variants, the ones that I thought were worthwhile, but other than that I don't know, you know, like, I feel like, we did get it into urban dictionary now, maybe in Wiktionary, there's a pending stub.
+## Davonte Bradley [01:04:59](https://www.youtube.com/watch?v=l52RGfTiatE&t=3899s)
 
-So hopefully, you know, we're moving forward with it. And it seems like there's every, I have a Google alert set up for Techspressionism and Techspressionist, and I'm definitely getting daily pings. Yeah. Usually it's like, you know, posts using the hashtag. But that's definitely, it seems like, you know, the hashtag model has been what, you know, really has grown, at least the artist index. That's how I started finding the original people. Davo, you know, was one of the very first people. And I wasn't searching on the hashtag Techspressionism. I was searching on hashtags like digital art and finding people like, oh, that like really feels like it's Techspressionism. And then message Davo, hey, what do you think about this idea? You know what I mean? And then it kind of went on from there with basically almost, almost everyone in the artist index at this point, I've at least had some back and forth over DMs on Instagram with, which is like, kind of frightening.
+Well, there you go.
 
-It's a wonder that I'm still married at this point. Who are those other women you're talking to, Colin? Just the amount of time I spend on this is kind of been very probably, borders on addiction, but it's not so out of character. It's a healthy addiction, right? Because it's productive. I'm powerless over Techspressionism. My life has become unmanageable. Oh, no.
+## Colin Goldberg [01:05:01](https://www.youtube.com/watch?v=l52RGfTiatE&t=3901s)
 
-Oh, Holly, you have something to share? Oh, you're on mute, by the way. I'm good. Okay, so I keep comparing it. I keep thinking that way back when impressionism was first coined, that wasn't trademarked or copywritten or anything. And it took 20 or 30 years and it evolved into an organic art movement. And I think it's kind of neat that we're part of this process.
+All right. I'll, I'll add it to my reading list. Okay.
 
-And, okay, so my book is Parallel Perspectives, the Brush Lens Collaboration. And that's where my photoliminalism finally took name because I was doing all of this stuff since 1999, digitally. And just like Dalton said, when he found this Techspressionist group, it's like he found grounding. And for, I don't know, almost 20, 30 years, I've just kind of been floating.
+## Davonte Bradley [01:05:05](https://www.youtube.com/watch?v=l52RGfTiatE&t=3905s)
 
-And somebody had suggested to me that I come up with a term. And art has so many isms. And liminal is transitional time. And what I was doing with my photography was transitional because technology was changing photography as we know it. And so it just evolved into photoliminalism, which is at home in being a Techspressionist.
+I don't know about you guys, but my reading list is kind of long at this point.
+
+## Colin Goldberg [01:05:10](https://www.youtube.com/watch?v=l52RGfTiatE&t=3910s)
+
+So is mine. It's the books I hope. I wish they have time to read.
+
+## Davonte Bradley [01:05:14](https://www.youtube.com/watch?v=l52RGfTiatE&t=3914s)
+
+And it just keeps growing and play. Oh yeah. You should totally read this one. I was like, I'm interested in that, but where's the time? It's a, it's not a bad problem to have. It's just, man, so many books.
+
+## Colin Goldberg [01:05:29](https://www.youtube.com/watch?v=l52RGfTiatE&t=3929s)
+
+All right. We actually do have a reading list page on Techspressionism.com, or I think it's now maybe at the bottom of the manifesto page, but if anyone does have suggestions for that of books to add you know, I'm happy to make those edits and put them up there. Or, you know, if anyone in here is a writer and wants me to add your text to it send me a link to that too.
+
+Davo.
+
+## Davonte Bradley [01:05:55](https://www.youtube.com/watch?v=l52RGfTiatE&t=3955s)
+
+I don't know what you're talking about.
+
+## Colin Goldberg [01:06:00](https://www.youtube.com/watch?v=l52RGfTiatE&t=3960s)
+
+Patrick, I think your book's on there already.
+
+## Davonte Bradley [01:06:05](https://www.youtube.com/watch?v=l52RGfTiatE&t=3965s)
+
+That reminds me I need to finish up the other iterations for my poems. Okay. I think I might actually finish those up once I actually get an iPad because I've been holding off for a minute. Oh, my, my poems, my first book.
+
+## Seungjin Lee [01:06:23](https://www.youtube.com/watch?v=l52RGfTiatE&t=3983s)
+
+Yeah.
+
+## Patrick Lichty [01:06:23](https://www.youtube.com/watch?v=l52RGfTiatE&t=3983s)
+
+Which books up there that my theory one or my science fiction one. Science fiction one is hard to read.
+
+## Colin Goldberg [01:06:37](https://www.youtube.com/watch?v=l52RGfTiatE&t=3997s)
+
+Pretty sure it's the theory one. Yeah. Yeah, it's probably easier to read. It was its own separate page but I'm pretty sure I moved that material to the manifesto page at the bottom.
+
+## Patrick Lichty [01:06:48](https://www.youtube.com/watch?v=l52RGfTiatE&t=4008s)
+
+Hmm.
+
+## Davonte Bradley [01:06:52](https://www.youtube.com/watch?v=l52RGfTiatE&t=4012s)
+
+Oh, so we had slight discussion about a movement called techism from Krista Kim was a founder. I've personally never heard of her. Diana, did you want to say a little bit about that? Or? Sure.
+
+## Diana de Avila [01:07:09](https://www.youtube.com/watch?v=l52RGfTiatE&t=4029s)
+
+I was. Yeah, I was doing a bit of research and thinking about expressionism and talking about it. And I don't know how I stumbled upon it. But Krista Kim. Yeah, Krista Kim studio.com founder of the tech is a movement and creator of the Mars house. Light is the new ink. So she's on super rare. So she started to blend. Kind of technical with NFT. I just I had wondered if Colin I'd never heard of it. But she's human. Yeah. Right. She's copyrighted techism. So gotcha.
+
+## Colin Goldberg [01:07:51](https://www.youtube.com/watch?v=l52RGfTiatE&t=4071s)
+
+Gotcha. Well, copyright is inherent.
+
+## Unattributed [01:07:53](https://www.youtube.com/watch?v=l52RGfTiatE&t=4073s)
+
+You know, basically, he made put it up there.
+
+## Colin Goldberg [01:07:58](https://www.youtube.com/watch?v=l52RGfTiatE&t=4078s)
+
+I mean, she you know, we follow each other on Twitter. I don't know her personally. But I saw that something about techism a while ago, but I don't know that it's really too active, you know?
+
+## Patrick Lichty [01:08:13](https://www.youtube.com/watch?v=l52RGfTiatE&t=4093s)
+
+She sold a piece for 500,000 bucks.
+
+## Colin Goldberg [01:08:17](https://www.youtube.com/watch?v=l52RGfTiatE&t=4097s)
+
+What?
+
+## Diana de Avila [01:08:18](https://www.youtube.com/watch?v=l52RGfTiatE&t=4098s)
+
+I didn't see that.
+
+## Unattributed [01:08:19](https://www.youtube.com/watch?v=l52RGfTiatE&t=4099s)
+
+Was that the movie?
+
+## Diana de Avila [01:08:22](https://www.youtube.com/watch?v=l52RGfTiatE&t=4102s)
+
+Oh, okay.
+
+## Patrick Lichty [01:08:23](https://www.youtube.com/watch?v=l52RGfTiatE&t=4103s)
+
+Yeah. Oh, creator of the Marvel movies. Yeah, bravo.
+
+## Unattributed [01:08:29](https://www.youtube.com/watch?v=l52RGfTiatE&t=4109s)
+
+Yeah, good on her.
+
+## Davonte Bradley [01:08:31](https://www.youtube.com/watch?v=l52RGfTiatE&t=4111s)
+
+Absolutely. To see an artist not starving. It's always a good time.
+
+## Colin Goldberg [01:08:36](https://www.youtube.com/watch?v=l52RGfTiatE&t=4116s)
+
+Yeah, I mean, you know, I've thought about like trademarking and I've trade, you know, I've registered marks before. You could just go to USPTO.gov and file a form. I did that for my business name. But I feel like, you know, if and my goal. With this project is to bring the term into common usage. So things like that are trademarked like Kleenex, for instance, it became a word, but, you know, it, I think it's a, it's a tougher road for trademark terms to actually be brought into common usage outside of commercial usage. You know that being said, if someone went and trademarked it and opened up the Techspressionism gallery or the Techspressionism magazine, good. That's going to help propel it into common usage. As far as I'm concerned, let someone else do the work and if they want to earn money off of it, that's cool too.
+
+You know, I did register the domain name variants, the ones that I thought were worthwhile, but other than that I don't know, you know, like, I feel like, we did get it into urban dictionary now, maybe in Wiktionary, there's a pending stub. So hopefully, you know, we're moving forward with it. And it seems like there's every, I have a Google alert set up for Techspressionism and Techspressionist, and I'm definitely getting daily pings. Yeah. Usually it's like, you know, posts using the hashtag. But that's definitely, it seems like, you know, the hashtag model has been what, you know, really has grown, at least the artist index. That's how I started finding the original people. Davo, you know, was one of the very first people. And I wasn't searching on the hashtag Techspressionism. I was searching on hashtags like digital art and finding people like, oh, that like really feels like it's Techspressionism.
+
+And then message Davo, hey, what do you think about this idea? You know what I mean? And then it kind of went on from there with basically almost, almost everyone in the artist index at this point, I've at least had some back and forth over DMs on Instagram with, which is like, kind of frightening. It's a wonder that I'm still married at this point.
+
+## Davonte Bradley [01:10:52](https://www.youtube.com/watch?v=l52RGfTiatE&t=4252s)
+
+Who are those other women you're talking to, Colin?
+
+## Colin Goldberg [01:10:56](https://www.youtube.com/watch?v=l52RGfTiatE&t=4256s)
+
+Just the amount of time I spend on this is kind of been very probably, borders on addiction, but it's not so out of character.
+
+## Davonte Bradley [01:11:09](https://www.youtube.com/watch?v=l52RGfTiatE&t=4269s)
+
+It's a healthy addiction, right? Because it's productive.
+
+## Colin Goldberg [01:11:14](https://www.youtube.com/watch?v=l52RGfTiatE&t=4274s)
+
+I'm powerless over Techspressionism. My life has become unmanageable. Oh, no.
+
+## Davonte Bradley [01:11:24](https://www.youtube.com/watch?v=l52RGfTiatE&t=4284s)
+
+Oh, Holly, you have something to share? Oh, you're on mute, by the way.
+
+## Holly Gordon [01:11:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=4294s)
+
+I'm good. Okay, so I keep comparing it. I keep thinking that way back when impressionism was first coined, that wasn't trademarked or copywritten or anything. And it took 20 or 30 years and it evolved into an organic art movement. And I think it's kind of neat that we're part of this process. And, okay, so my book is Parallel Perspectives, the Brush Lens Collaboration. And that's where my photoliminalism finally took name because I was doing all of this stuff since 1999, digitally. And just like Dalton said, when he found this Techspressionist group, it's like he found grounding.
+
+And for, I don't know, almost 20, 30 years, I've just kind of been floating. And somebody had suggested to me that I come up with a term. And art has so many isms. And liminal is transitional time. And what I was doing with my photography was transitional because technology was changing photography as we know it. And so it just evolved into photoliminalism, which is at home in being a Techspressionist.
+
+## Patrick Lichty [01:13:20](https://www.youtube.com/watch?v=l52RGfTiatE&t=4400s)
 
 But I mean, if you think about the, if you think about like the early movements and such, like the expressionists, well, I'd say more expressionists, Dadaists, surrealists, and so on, is that, I mean, on one hand, they weren't necessarily looking for, they were looking to transform society. They're like the surrealists were trying to, you know, basically, you know, basically try to, you know, dig deep into the subconscious and that sort of thing to get at like the true nature of humanity. And then the, the first expressionists, you know, like the, the Blau Reiter and the Bruco were basically trying to, you know, use, use, use, you know, the expression of pure motion to try to transform human beings into, you know, a new, a new world. You know, it's like, that's, you know, the bridge to Bruca and that sort of thing.
 
 So the one thing is, is that, you know, the early, the 20, the 20th century avant-garde was looking to, you know, wasn't necessarily looking to trademark anything. They were looking to, they were looking to transform society, you know, through the, through the use of radical movements and that sort of thing. And, you know, that's, you know, that's a, that's an interesting thing to contrast. So, you know, versus, you know, today, you know. Do we have such grandiose aspirations? Not as much these days. I know they, they kind of say in the contemporary, you know, that, what, what was it? It was, what was it? Arthur Danto, you know, it's kind of the, you know, the Arthur Danto's thing is like, was, is art dead, you know, and that sort of thing, basically, you know, it's, it's all, it's all provocative conversation, you know, but I mean, it's just, it's the idea of saying is, is the notion Arthur Danto was kind of talking about is the notion of the movement as such as a, as a transformative, you know, social, social structure is, you know, has it, has it gone to the wayside and yes, no, you know, it's, it's things are different these days.
 
-It's not gone. It's just different. It's yeah. Things are different these days. Yeah. All right. We're actually getting pretty close to the end, but I did actually have one, one question for Dalton. It's kind of an aside that it, I remembered something with my early work that I was doing that I didn't really post around a lot, but I remember there was a time that I showed my then girlfriend now wife, some of my artwork and her first response is very emotive, very emotional, had a lot of me going on in it. And during that time, it was fairly dark period of my life. So it looked very dark. Like it was kind of, I guess it tugged at you in a not so positive way.
+## Davonte Bradley [01:15:25](https://www.youtube.com/watch?v=l52RGfTiatE&t=4525s)
 
-And I was told, it was like, Hey, you should make things that are happier looking. So have you, did you ever like get that response during your, the course of the development of your art or things like that? I got lots of comments. I got lots of comments that it was dark, but there seemed to be hope in there somewhere.
+It's not gone. It's just different.
 
-And I think that I have gotten that response from, from galleries out here. Well, one in particular, she kept asking me to be brighter, brighter, brighter. And I want to, I'll show you the piece later that I didn't in, in response to that, I found a deer that had been smashed by a train on the train tracks and, and did a piece of art that was all black and with this deer in it. And I'm like, there you go. That's me being brighter.
+## Patrick Lichty [01:15:27](https://www.youtube.com/watch?v=l52RGfTiatE&t=4527s)
 
-But I have, I have my, I have my moments where, you know, even I get tired of looking at my dark, you know, it's like, and I want to be brighter. And, I had no idea Dalton. Cause I, I remember your work, to me when I, when I initially was thinking about your work, I remember the show I went to of your paintings in Montauk. And it was a lot of like very loose watercolors with like sharks and they're really cool, pieces and, but totally like a whole other body of work that, and then you showed me these and I was like, wow, like that's a whole other side of your practice that I had never even had any idea. I did consciously, go with a whole, that shark series was all white backgrounds. And, I hadn't been doing watercolors for a while. And I found those, I wanted to focus on a subject matter that I thought was beautiful, but also would have some relevance.
+It's yeah. Things are different these days. Yeah.
 
-And, in terms of like what's going on with them, they're being overfished and, and, and, you know, decimated, but I did them in a graceful way that was very bright. I love those in the drips coming off. Yeah. I just posted a link to those ones. Yeah. Very different, but really nicely painted. I think. Thank you, Colin. Thanks. Yeah. Yeah, I was, yeah, I'm obviously a little ADD and I have a lot of different emotions to express and, know that feeling blessed that also have like very different mediums with which to express these things. And, yeah, it just keeps it interesting. Yeah. Right. I'm, I'm right there with you actually. Yeah. I might not have as many diverse mediums, but if, if anybody has seen like my journey as an artist so far, they're like, those all came from the same person.
+## Davonte Bradley [01:15:30](https://www.youtube.com/watch?v=l52RGfTiatE&t=4530s)
 
-Yeah. I, you know, when I first started showing, I, I was living in the city and I used to see the Washington square outdoor art exhibit, which was like, took over the whole village. And, there was like always this huge variety of artists. And so I applied, I got accepted and I set up a booth and, I had all of these works in there. And this woman comes walking by my booth and she goes, how many different artists are showing in this booth? I'm like, clearly, clearly you're multiple artists in one. That's what happened. Yeah. Clearly. Yeah.
+All right. We're actually getting pretty close to the end, but I did actually have one, one question for Dalton. It's kind of an aside that it, I remembered something with my early work that I was doing that I didn't really post around a lot, but I remember there was a time that I showed my then girlfriend now wife, some of my artwork and her first response is very emotive, very emotional, had a lot of me going on in it. And during that time, it was fairly dark period of my life. So it looked very dark. Like it was kind of, I guess it tugged at you in a not so positive way.
 
-So, all right. Well, thank you for that. I think we are right here. We are at the end. I think we have what, cause we were supposed to end at seven now, right? Is that correct? Okay. Yeah. So we got four ish minutes left. Did Anybody have any last questions for Dalton or Sungjin? I just wanted to say before the recording stops, if anybody would like to present in two weeks who is in the room, let me know after the meeting closes. We do have one artist booked, but there's one slot open. So that'll be on the 16th.
+And I was told, it was like, Hey, you should make things that are happier looking. So have you, did you ever like get that response during your, the course of the development of your art or things like that?
+
+## Dalton Portella [01:16:32](https://www.youtube.com/watch?v=l52RGfTiatE&t=4592s)
+
+I got lots of comments. I got lots of comments that it was dark, but there seemed to be hope in there somewhere. And I think that I have gotten that response from, from galleries out here. Well, one in particular, she kept asking me to be brighter, brighter, brighter. And I want to, I'll show you the piece later that I didn't in, in response to that, I found a deer that had been smashed by a train on the train tracks and, and did a piece of art that was all black and with this deer in it. And I'm like, there you go. That's me being brighter.
+
+But I have, I have my, I have my moments where, you know, even I get tired of looking at my dark, you know, it's like, and I want to be brighter. And, I
+
+## Colin Goldberg [01:17:31](https://www.youtube.com/watch?v=l52RGfTiatE&t=4651s)
+
+Had no idea Dalton. Cause I, I remember your work, to me when I, when I initially was thinking about your work, I remember the show I went to of your paintings in Montauk. And it was a lot of like very loose watercolors with like sharks and they're really cool, pieces and, but totally like a whole other body of work that, and then you showed me these and I was like, wow, like that's
+
+## Unattributed [01:17:54](https://www.youtube.com/watch?v=l52RGfTiatE&t=4674s)
+
+A whole other side of your practice that I had never even had any idea.
+
+## Dalton Portella [01:17:59](https://www.youtube.com/watch?v=l52RGfTiatE&t=4679s)
+
+I did consciously, go with a whole, that shark series was all white backgrounds. And, I hadn't been doing watercolors for a while. And I found those, I wanted to focus on a subject matter that I thought was beautiful, but also would have some relevance. And, in terms of like what's going on with them, they're being overfished and, and, and, you know, decimated, but I did them in a graceful way that was very bright.
+
+## Colin Goldberg [01:18:31](https://www.youtube.com/watch?v=l52RGfTiatE&t=4711s)
+
+I love those in the drips coming off.
+
+## Unattributed [01:18:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=4714s)
+
+Yeah.
+
+## Colin Goldberg [01:18:34](https://www.youtube.com/watch?v=l52RGfTiatE&t=4714s)
+
+I just posted a link to those ones. Yeah. Very different, but really nicely painted. I think.
+
+## Dalton Portella [01:18:40](https://www.youtube.com/watch?v=l52RGfTiatE&t=4720s)
+
+Thank you, Colin. Thanks. Yeah. Yeah, I was, yeah, I'm obviously a little ADD and I have a lot of different emotions to express and, know that feeling blessed that also have like very different mediums with which to express these things. And, yeah, it just keeps it interesting. Yeah.
+
+## Davonte Bradley [01:19:07](https://www.youtube.com/watch?v=l52RGfTiatE&t=4747s)
+
+Right. I'm, I'm right there with you actually. Yeah. I might not have as many diverse mediums, but if, if anybody has seen like my journey as an artist so far, they're like, those all came from the same person. Yeah.
+
+## Dalton Portella [01:19:21](https://www.youtube.com/watch?v=l52RGfTiatE&t=4761s)
+
+I, you know, when I first started showing, I, I was living in the city and I used to see the Washington square outdoor art exhibit, which was like, took over the whole village. And, there was like always this huge variety of artists. And so I applied, I got accepted and I set up a booth and, I had all of these works in there. And this woman comes walking by my booth and she goes, how many different artists are showing in this booth? I'm like,
+
+## Davonte Bradley [01:19:57](https://www.youtube.com/watch?v=l52RGfTiatE&t=4797s)
+
+Clearly, clearly you're multiple artists in one. That's what happened. Yeah.
+
+## Unattributed [01:20:00](https://www.youtube.com/watch?v=l52RGfTiatE&t=4800s)
+
+Clearly. Yeah.
+
+## Davonte Bradley [01:20:05](https://www.youtube.com/watch?v=l52RGfTiatE&t=4805s)
+
+So, all right. Well, thank you for that. I think we are right here. We are at the end. I think we have what, cause we were supposed to end at seven now, right? Is that correct? Okay. Yeah. So we got four ish minutes left. Did Anybody have any last questions for Dalton or Sungjin?
+
+## Colin Goldberg [01:20:26](https://www.youtube.com/watch?v=l52RGfTiatE&t=4826s)
+
+I just wanted to say before the recording stops, if anybody would like to present in two weeks who is in the room, let me know after the meeting closes. We do have one artist booked, but there's one slot open. So that'll be on the 16th.
+
+## Cynthia Beth Rubin [01:20:47](https://www.youtube.com/watch?v=l52RGfTiatE&t=4847s)
 
 I just have a quick question and maybe, we can talk about this later on the, on Facebook, but I used to use a Rasma for AR and then it got phased out. And when I looked into ArtVive and some of the other options, they were way too expensive. So I was like, okay, I'm going to go with this. I'm going to go with this. It was too expensive for what I wanted to do, which is because I wanted multiple hotspots. And when I looked into Ario, it wanted everything three-dimensional, which I know I could do work around and put on play. So, I, you know, you could make a plane and then project on it. I said that kind of quickly, but I would be interested in finding out what people are, you know, alternatives for AR.
 
-And if people, I think Michael Price uses something called ArtLupa. Is that it? I think that sounds right. And the only, the only, only drawback on Ario is, it, it just doesn't support video. And then Vuforia is still pretty strong under, under Unity. And, what is it? Tameka O'Teal has, who I was part of, Manifest AR back in 2010. She, her and her partner have, published a, an open source. And I think that's a really good thing. I think that's a really good thing. It's an open source, AR AR toolkit and that sort of thing. So yeah. So anyway. Well, I'll put this on Facebook and if people have all this information to share, I think it would be interesting because I haven't, I'm happy right now to step back from the AR for a while. It got to be too much. Yeah.
+## Colin Goldberg [01:21:33](https://www.youtube.com/watch?v=l52RGfTiatE&t=4893s)
 
-But, it was good to see that it's still being used. Well, I had to listen. I wasn't, I had to go back and see the video, but it was good. Okay. Thanks. All right. Thank you, Cynthia. All right, folks. I think that's about it. After our recording ends, there will be, I guess if anybody still wants to, I'm not sure times, but yeah, the, the after party post, post presentation discussion time where we just hang out and talk and whatnot always happens. Should still happen, but I just want to thank you all for attending. Thank you for your participation and thank, again, one last thank you for our presenters, adults in song gin today. So thank you so much. Thank you all. Thanks for all the great comments. And thank you Davo for your service. Moderating as always glad to have you back.
+And if people, I think Michael Price uses something called ArtLupa. Is that it? I think that sounds right.
 
-I did not. I moderated last time, but begrudgingly, so I'm sorry for you to, to moderate now. Now, Hey, you know what? Bill's got to get paid, dude. So I hear you, but, you know, always appreciated and, and definitely big ups to the, to our presenters. I'm glad we're on this schedule now.
+## Patrick Lichty [01:21:40](https://www.youtube.com/watch?v=l52RGfTiatE&t=4900s)
 
-All right, everyone. Thank you so much. Diana. She just DM'd me. So you're on, we got a second presenter. It's closed up for next time. So that's sweet. There you have it. All right, folks. I'm going to sign, sign, count us down. So we're signing out in five, four, three, two, one.
+And the only, the only, only drawback on Ario is, it, it just doesn't support video. And then Vuforia is still pretty strong under, under Unity. And, what is it? Tameka O'Teal has, who I was part of, Manifest AR back in 2010. She, her and her partner have, published a, an open source. And I think that's a really good thing. I think that's a really good thing. It's an open source, AR AR toolkit and that sort of thing. So yeah. So anyway.
+
+## Cynthia Beth Rubin [01:22:11](https://www.youtube.com/watch?v=l52RGfTiatE&t=4931s)
+
+Well, I'll put this on Facebook and if people have all this information to share, I think it would be interesting because I haven't, I'm happy right now to step back from the AR for a while. It got to be too much.
+
+## Dalton Portella [01:22:25](https://www.youtube.com/watch?v=l52RGfTiatE&t=4945s)
+
+Yeah.
+
+## Cynthia Beth Rubin [01:22:25](https://www.youtube.com/watch?v=l52RGfTiatE&t=4945s)
+
+But, it was good to see that it's still being used. Well, I had to listen. I wasn't, I had to go back and see the video, but it was good. Okay. Thanks. All right.
+
+## Davonte Bradley [01:22:37](https://www.youtube.com/watch?v=l52RGfTiatE&t=4957s)
+
+Thank you, Cynthia. All right, folks. I think that's about it. After our recording ends, there will be, I guess if anybody still wants to, I'm not sure times, but yeah, the, the after party post, post presentation discussion time where we just hang out and talk and whatnot always happens. Should still happen, but I just want to thank you all for attending. Thank you for your participation and thank, again, one last thank you for our presenters, adults in song gin today. So thank you so much.
+
+## Dalton Portella [01:23:14](https://www.youtube.com/watch?v=l52RGfTiatE&t=4994s)
+
+Thank you all. Thanks for all the great comments.
+
+## Colin Goldberg [01:23:18](https://www.youtube.com/watch?v=l52RGfTiatE&t=4998s)
+
+And thank you Davo for your service. Moderating as always glad to have you back. I did not. I moderated last time, but begrudgingly, so I'm sorry for you to, to moderate now. Now, Hey, you know what? Bill's got to get paid, dude. So I hear you, but, you know, always appreciated and, and definitely big ups to the, to our presenters.
+
+## Patrick Lichty [01:23:43](https://www.youtube.com/watch?v=l52RGfTiatE&t=5023s)
+
+I'm glad we're on this schedule now.
+
+## Colin Goldberg [01:23:46](https://www.youtube.com/watch?v=l52RGfTiatE&t=5026s)
+
+All right, everyone. Thank you so much. Diana. She just DM'd me. So you're on, we got a second presenter. It's closed up for next time. So that's sweet.
+
+## Davonte Bradley [01:23:57](https://www.youtube.com/watch?v=l52RGfTiatE&t=5037s)
+
+There you have it. All right, folks. I'm going to sign, sign, count us down. So we're signing out in five, four, three, two, one.

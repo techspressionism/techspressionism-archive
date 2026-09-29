@@ -2636,6 +2636,30 @@
     "moderator": "Davonte Bradley",
     "speakers": [
       {
+        "name": "Davonte Bradley",
+        "country": null,
+        "start_seconds": 1230,
+        "start_display": "00:20:30"
+      },
+      {
+        "name": "Verneda Lights",
+        "country": null,
+        "start_seconds": 1259,
+        "start_display": "00:20:59"
+      },
+      {
+        "name": "Morgan Harper Nichols",
+        "country": null,
+        "start_seconds": 1274,
+        "start_display": "00:21:14"
+      },
+      {
+        "name": "Davonte Bradley",
+        "country": null,
+        "start_seconds": 1409,
+        "start_display": "00:23:29"
+      },
+      {
         "name": "Sherry Karver",
         "country": null,
         "start_seconds": 2409,
@@ -2653,7 +2677,8 @@
     "notes": [
       "recording_date_from_title",
       "country_backfilled_from_site:Mark Strodl",
-      "speaker_added_from_site:Morgan Harper Nichols USA"
+      "speaker_added_from_site:Morgan Harper Nichols USA",
+      "manual_speaker_timing_restored_2026-09-29:Davonte Bradley/Verneda Lights/Morgan Harper Nichols segment split (hand-verified by Colin, not derivable from Whisper/diarization)"
     ],
     "transcript_quality": {
       "word_count": 12899,

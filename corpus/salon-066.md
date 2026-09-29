@@ -9,6 +9,15 @@ url: "https://www.youtube.com/watch?v=UBx4LDG--60"
 duration_seconds: 5337
 moderator: Davonte Bradley
 speakers:
+  - name: Davonte Bradley
+    country: null
+    start: 1230
+  - name: Verneda Lights
+    country: null
+    start: 1259
+  - name: Morgan Harper Nichols
+    country: null
+    start: 1274
   - name: Sherry Karver
     country: null
     start: 2409
@@ -29,39 +38,105 @@ And well, we'll see where the conversation takes us. But that being said, I will
 
 And, hmm. I'm not sure. I'm missing anything else. But let's go ahead and get started. And again, thank you for coming. Do we have, and I just asked like a minute or so ago, but do we have anyone, any volunteers that would like to talk about mediums? Or what mediums that they use? Or their significance? I know for a lot of us, one of our primary mediums is electricity, because a lot of us are digital artists.
 
-So anyone have anything to talk about with that? I do apologize if there's any kind of delay because I am multitasking my butt off or attempting to anyway. Okay. Okay. Well, good to hear from you. Oh, another thing. Could you talk or somebody else talk a little bit more about the topic because I wasn't here when you decided and it might spur some thoughts for me because I'm kind of operating in a blank right now. I just need a little.
+So anyone have anything to talk about with that? I do apologize if there's any kind of delay because I am multitasking my butt off or attempting to anyway.
+
+## Unattributed [02:24](https://www.youtube.com/watch?v=UBx4LDG--60&t=144s)
+
+Okay.
+
+## Davonte Bradley [02:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=149s)
+
+Okay. Well, good to hear from you. Oh, another thing.
+
+## Susan Detroy [02:34](https://www.youtube.com/watch?v=UBx4LDG--60&t=154s)
+
+Could you talk or somebody else talk a little bit more about the topic because I wasn't here when you decided and it might spur some thoughts for me because I'm kind of operating in a blank right now. I just need a little.
+
+## Davonte Bradley [02:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=171s)
 
 I too am operating somewhat off of blank. But it's a different kind of blank. So after our last session, we were chatting and we were talking about, we've kind of talked about a couple of different aspects of the process of art making. And mediums was kind of brought up as like, oh, well, let's talk about that. Considering even though a lot of us are, we call ourselves Techspressionist, but we use kind of different mediums as Techspressionist. So how the significance of that, you know, our particular mediums with respect to our craft.
 
-Like me specifically, I almost entirely, I use digital technologies to create. Also, hello, Nina. Hi, Gabo. How's it going? Okay, okay. The dog is coming around. We saved his leg. Oh, congrats. Good, good. Glad to hear it. Yeah. Yeah. So for me, I literally only create like 99.9% of my work is done in a digital format. And I do that mostly because that's, I'm honoring my inner child with that, because I actually started creating digital art. I started creating digital artwork and MS paints on Windows 98.
+Like me specifically, I almost entirely, I use digital technologies to create. Also, hello, Nina. Hi, Gabo. How's it going?
 
-However many years ago that was. Can't do the math right now in my head because brain's a little foggy. But I actually found my first experiences with art weren't on like pencil and paper and crayon, like some other people, you know, when they're creating as a child. But no, mine was on MS paints. Yes.
+## Sherry Karver [03:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=231s)
 
-So I started creating digital artwork with a with an old government issued computer that my father may or may not have stolen from his job. But I remember falling in love with just the versatility of using digital format to create art because I could vary the colors however I wanted. I could paint, erase and modify without having to worry about, oh, well, my marker is broken. I could paint, erase and modify without having to worry about, oh, well, my marker is running out or, oh, my crayon is going to go away or I need to sharpen this pencil or I don't have enough paper. Those kinds of things.
+Okay, okay. The dog is coming around. We saved his leg.
+
+## Davonte Bradley [03:57](https://www.youtube.com/watch?v=UBx4LDG--60&t=237s)
+
+Oh, congrats. Good, good. Glad to hear it.
+
+## Sherry Karver [04:01](https://www.youtube.com/watch?v=UBx4LDG--60&t=241s)
+
+Yeah. Yeah.
+
+## Davonte Bradley [04:04](https://www.youtube.com/watch?v=UBx4LDG--60&t=244s)
+
+So for me, I literally only create like 99.9% of my work is done in a digital format. And I do that mostly because that's, I'm honoring my inner child with that, because I actually started creating digital art. I started creating digital artwork and MS paints on Windows 98. However many years ago that was.
+
+Can't do the math right now in my head because brain's a little foggy. But I actually found my first experiences with art weren't on like pencil and paper and crayon, like some other people, you know, when they're creating as a child. But no, mine was on MS paints. Yes. So I started creating digital artwork with a with an old government issued computer that my father may or may not have stolen from his job.
+
+But I remember falling in love with just the versatility of using digital format to create art because I could vary the colors however I wanted. I could paint, erase and modify without having to worry about, oh, well, my marker is broken. I could paint, erase and modify without having to worry about, oh, well, my marker is running out or, oh, my crayon is going to go away or I need to sharpen this pencil or I don't have enough paper. Those kinds of things.
 
 And naturally, it's like over as the years went on, I kind of just leaned more and more into the digital format to create. And it's kind of become a natural extension of me and it's more difficult for me to create with graphite or actual like physical. Media than it is for me to create digitally these days.
 
-Yeah. So. So for me, Davo, I think it's I think there's a unique element to working digitally because I also work digitally. But I would consider my medium paper because I print my work. So I guess. You know, archival digital prints would be my medium. And. Understanding paper, understanding how big the files need to be, depending on how large of an artwork I'm creating are all very important aspects.
+Yeah. So.
+
+## Michael Pierre Price [06:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=369s)
+
+So for me, Davo, I think it's I think there's a unique element to working digitally because I also work digitally. But I would consider my medium paper because I print my work. So I guess. You know, archival digital prints would be my medium. And. Understanding paper, understanding how big the files need to be, depending on how large of an artwork I'm creating are all very important aspects.
 
 And I remember as well in some of our previous discussions and some conversations I've had with Renata. She said. She has mentioned that for her, a lot of her work, her ideal situation would be on a on a video screen because you have the illumination of the pixels behind that. So I think that's another aspect.
 
-The thing that makes, I think, a lot of this work sometimes feel esoteric is working digitally. How are you viewing the digital format? Is it on a is it on a smartphone? Is it on an iPad? Is it on a 72 inch high definition screen? Is it printed work? Is it sculptural? Whatever it might be. So I think that's the challenge when we talk about us being as digital artists. There's more to it than just the work medium in which we're working in. Right. And yeah, I can definitely. That's. That's something that was brought to my attention as I got more into creating art to be displayed. And I actually did have to put more thought into, oh, well, how is this actually going to look on this kind of display versus houses going to like in print? Because I started offering prints of my work, which was something that I didn't really think about doing before until somebody asked me, it's like, oh, can I can I have that as a print?
+The thing that makes, I think, a lot of this work sometimes feel esoteric is working digitally. How are you viewing the digital format? Is it on a is it on a smartphone? Is it on an iPad? Is it on a 72 inch high definition screen? Is it printed work? Is it sculptural? Whatever it might be. So I think that's the challenge when we talk about us being as digital artists. There's more to it than just the work medium in which we're working in.
 
-And I had never thought about that. And I had never thought about bringing physicality to my work. And I had to figure out, well, you know what? How do I want this to look in the physical world versus just on a screen? Because there are there are elements on a screen that you can utilize that you can't necessarily reproduce and print.
+## Davonte Bradley [07:53](https://www.youtube.com/watch?v=UBx4LDG--60&t=473s)
 
-Like I know there's some like exceptionally high contrast works that I did that I'm pretty sure you would not be able to. Yeah. So I will no longer go back to that. And I will know that I can't really create that with this thing. And I will just know that I can't just look at it and not get it to look like I'm part of the body. And I will just know that I can't just us it's not an object. And I will just know that I can't just us it's not a game. And I will just know that I can't just don't know that I can't just one thing. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that.
+Right. And yeah, I can definitely. That's. That's something that was brought to my attention as I got more into creating art to be displayed. And I actually did have to put more thought into, oh, well, how is this actually going to look on this kind of display versus houses going to like in print? Because I started offering prints of my work, which was something that I didn't really think about doing before until somebody asked me, it's like, oh, can I can I have that as a print? And I had never thought about that. And I had never thought about bringing physicality to my work. And I had to figure out, well, you know what? How do I want this to look in the physical world versus just on a screen? Because there are there are elements on a screen that you can utilize that you can't necessarily reproduce and print.
 
-How light shifted in handling the different colors and whatnot. And initially in my career as a digital artist, I considered my medium to be light. And I noticed that classic forms showed up often when you poured, quote unquote, poured the pixels onto an electronic canvas. And one of them was, you know, pyramid shapes and whatnot. And as I noticed that, it occurred to me that possibly early architecture, like of the pyramids and other ancient structures, were inspired by the ability, observers' fascination with light. And in that moment, I sort of felt like there was a connection between the dawn of architecture and the dawn of art and what I was witnessing inside the computerized environment.
+Like I know there's some like exceptionally high contrast works that I did that I'm pretty sure you would not be able to. Yeah. So I will no longer go back to that. And I will know that I can't really create that with this thing. And I will just know that I can't just look at it and not get it to look like I'm part of the body. And I will just know that I can't just us it's not an object. And I will just know that I can't just us it's not a game. And I will just know that I can't just don't know that I can't just one thing. And I will just
+
+## Unattributed [09:23](https://www.youtube.com/watch?v=UBx4LDG--60&t=563s)
+
+Know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. And I will just know that I can't just not have to do that. How light shifted in handling the different colors and whatnot. And initially in my career as a digital artist, I considered my medium to be light.
+
+And I noticed that classic forms showed up often when you poured, quote unquote, poured the pixels onto an electronic canvas. And one of them was, you know, pyramid shapes and whatnot. And as I noticed that, it occurred to me that possibly early architecture, like of the pyramids and other ancient structures, were inspired by the ability, observers' fascination with light. And in that moment, I sort of felt like there was a connection between the dawn of architecture and the dawn of art and what I was witnessing inside the computerized environment.
 
 So I considered myself to be a sculptor of light. And that persisted for a certain period of time. And then when I had to deal with the logistics, the logistics of printing and presentation and putting on an exhibit, you know, doing a show, I had to then consider more textures in the external world experience. And that was quite involved because, I mean, back in early on in my career, it wasn't so obvious how you were going to get your artwork out of the computer and into the real world and in front of people. And it took me quite a while to sit down and walk through the logistics of that. And at that point in time, I started seeing my work as being more akin to works on paper as opposed to being a light sculpture, although the light sculpturing remains a significant part of what I do. And I find that, you know, I'm not a sculptor.
 
-I'm an artist. I'm a professional of what I do. And I think that's what I'm most sold on. Yeah, Photoshop, Adobe is very much into money. You know, they like to monetize their ideas. And so they don't really think about folk like us. But I thought that paint was intuitive.
+I'm an artist. I'm a professional of what I do. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think that's what I'm most sold on. And I think
 
-You know, paint had a way of coming up with stuff that I'm only seeing now in artificial intelligence. And in working with paint, I felt like on more than one occasion, paint could feel what it is that I wanted, you know. And then when I transported the bitmap from paint into something like PaintShop Pro, then the intuitive component really just exploded. You know, and I felt like I was in many ways interacting with the intelligence. And I felt like I was in many ways interacting with the intelligence inside the machine.
+## Davonte Bradley [12:10](https://www.youtube.com/watch?v=UBx4LDG--60&t=730s)
+
+That's what I'm most sold on. And I think that's what I'm most sold on.
+
+## Unattributed [12:10](https://www.youtube.com/watch?v=UBx4LDG--60&t=730s)
+
+And I think that's what I'm most sold on. And I think that's what I'm most sold on.
+
+## Sherry Karver [12:18](https://www.youtube.com/watch?v=UBx4LDG--60&t=738s)
+
+And I think that's what I'm most sold on.
+
+## Unattributed [12:20](https://www.youtube.com/watch?v=UBx4LDG--60&t=740s)
+
+And I think that's what I'm most sold on. Yeah, Photoshop, Adobe is very much into money. You know, they like to monetize their ideas. And so they don't really think about folk like us. But I thought that paint was intuitive. You know, paint had a way of coming up with stuff that I'm only seeing now in artificial intelligence. And in working with paint, I felt like on more than one occasion, paint could feel what it is that I wanted, you know. And then when I transported the bitmap from paint into something like PaintShop Pro, then the intuitive component really just exploded. You know, and I felt like I was in many ways interacting with the intelligence. And I felt like I was in many ways interacting with the intelligence inside the machine.
 
 So the digital media, I believe, gives us an access to a dimensionality that you might not find to be so tangible when you're working directly on paper, you know. So, and it's interesting that, you know, Davo and I, and another participant, Morgan Harper Nichols. Started off with paint. Yep. And I'm thinking that maybe that is because paint was an egalitarian move.
 
-Yeah. Creating access to creative tools, which Black people have traditionally been excluded from. And I would like to study that further, you know, perhaps survey. I will definitely say Photoshop was paywalled, essentially, right? Oh, it was. And it still is. It's still active for Photoshop and Lightroom every month, you know. But that also creates another interesting point of discussion, though, because when we do talk about mediums, and digital is still a very broad term, but the individual software that we use, I think, can also count as its own kind of medium. Yes. Because the kinds of things I create with, my favorites are Krita, which is available on, you know, Windows and Mac computers.
+Yeah. Creating access to creative tools, which Black people have traditionally been excluded from. And I would like to study that further, you know, perhaps survey.
+
+## Davonte Bradley [14:17](https://www.youtube.com/watch?v=UBx4LDG--60&t=857s)
+
+I will definitely say Photoshop was paywalled, essentially, right?
+
+## Unattributed [14:23](https://www.youtube.com/watch?v=UBx4LDG--60&t=863s)
+
+Oh, it was. And it still is. It's still active for Photoshop and Lightroom every month, you know.
+
+## Davonte Bradley [14:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=869s)
+
+But that also creates another interesting point of discussion, though, because when we do talk about mediums, and digital is still a very broad term, but the individual software that we use, I think, can also count as its own kind of medium. Yes. Because the kinds of things I create with, my favorites are Krita, which is available on, you know, Windows and Mac computers.
 
 But Procreate is also another piece of software that I use on my iPad specifically, and that's not necessarily readily available, or not available unless you do wonky emulation stuff that I'm not going to get into. But Procreate is a piece of software. That's available on iPads that I create a specific kind of work there because the softwares are so different in how they handle user inputs that it's almost like working in a completely different way.
 
@@ -71,41 +146,141 @@ And, heck, MS Paint being that first one. It's very, very simplistic with how it
 
 Very rich detailed work in MS Paint without having all those that fanciness. It's just, it comes down to how you're using it how using that mouse how you're using that stylus if you're going to use a stylus in it because I think actually a lot of purists for MS Paint will actually, it's like oh no I'm not going to use a tablet I'm just going to use, I'm just going to use a tablet. A mouse to create an MS Paint because it feels better.
 
-I am. A mouse too. Yeah, and I'm actually in the same boat like if I, if I were to boot up MS Paint today and start playing around with it, I probably would not use my, my stylus and my tablet, which I've been using for everything else. Because it feels better to me or for me to use a mouse in that environment. Yeah. Yeah. So, so I think the medium thing also spills over into the different software platforms that you would utilize for artificial intelligence.
+I am.
 
-You know, I noticed a distinct difference between Night Cafe and Dial E and Mid Journey. Very, very, very different. Mid Journey I couldn't deal with at all. Right. And I think that Part of that was that Discord interface that they have. Discord is very dark space in my mind. Anyway, sort of like hanging out Star Trek Deep Space Nine, you know, when the Klingons are there. That type of thing. And I warmed up to Dial E and I found that the intrinsic bias element was, was very, very important. Very strong in Night Cafe. And I decided to take that as a challenge and to try and find ways to work around the, their inability to deal with melanated faces and whatnot.
+## Unattributed [17:21](https://www.youtube.com/watch?v=UBx4LDG--60&t=1041s)
 
-And I came up with some pretty creative solutions to it. But the whole psychological posturing that you have to do. With respect to these different platforms because of the environment in which they present themselves is likewise another component of media. You know, because I have to go through a series of thoughts and internal preparations in dealing with artificial intelligence that I did not have to go through with paint. Right. You know, I was just myself with paint. But with the AI, it's like, oh, you know, it's like being in a different neighborhood, so to speak. The neighborhood may not even be on the same planet. Right. Yeah. Yeah. It's far out. And you never know what's behind the thinking of the construction of the neighborhoods. And there are artistic equivalents of redlining going on.
+A mouse too.
 
-We have to figure our way around. There's women and figure our way around as people of color and whatnot. And if you want to be egalitarian in your thought processes, you have to be very mindful of how you're going to interact with the materials that are available to us nowadays.
+## Davonte Bradley [17:22](https://www.youtube.com/watch?v=UBx4LDG--60&t=1042s)
 
-## Davonte Bradley [20:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=1230s)
+Yeah, and I'm actually in the same boat like if I, if I were to boot up MS Paint today and start playing around with it, I probably would not use my, my stylus and my tablet, which I've been using for everything else. Because it feels better to me or for me to use a mouse in that environment.
 
-Now, I'd like to call attention to something that it just dawned on me because I know I opened up the salon, but saying that there were going to be. Presenters. But this has become more or less an open discussion kind of day. So if everyone's fine with us continuing on with that, cool. But it doesn't seem like we're going to have like formal presenters this time around. Which I'm okay with that.
+## Unattributed [17:43](https://www.youtube.com/watch?v=UBx4LDG--60&t=1063s)
 
-## Verneda Lights [20:59](https://www.youtube.com/watch?v=UBx4LDG--60&t=1259s)
+Yeah. Yeah. So, so I think the medium thing also spills over into the different software platforms that you would utilize for artificial intelligence. You know, I noticed a distinct difference between Night Cafe and Dial E and Mid Journey. Very, very, very different. Mid Journey I couldn't deal with at all. Right. And I think that Part of that was that Discord interface that they have.
 
-Morgan Harper Nichols has an image she wants to share. Oh, sure. And she relates to it's a custom image set that she made as a black woman with AI that she wants to share. So rock on.
+Discord is very dark space in my mind. Anyway, sort of like hanging out Star Trek Deep Space Nine, you know, when the Klingons are there. That type of thing. And I warmed up to Dial E and I found that the intrinsic bias element was, was very, very important. Very strong in Night Cafe. And I decided to take that as a challenge and to try and find ways to work around the, their inability to deal with melanated faces and whatnot.
+
+And I came up with some pretty creative solutions to it. But the whole psychological posturing that you have to do. With respect to these different platforms because of the environment in which they present themselves is likewise another component of media. You know, because I have to go through a series of thoughts and internal preparations in dealing with artificial intelligence that I did not have to go through with paint. Right. You know, I was just myself with paint. But with the AI, it's like, oh, you know, it's like being in a different neighborhood, so to speak.
+
+## Davonte Bradley [19:52](https://www.youtube.com/watch?v=UBx4LDG--60&t=1192s)
+
+The neighborhood may not even be on the same planet.
+
+## Unattributed [19:55](https://www.youtube.com/watch?v=UBx4LDG--60&t=1195s)
+
+Right. Yeah. Yeah. It's far out. And you never know what's behind the thinking of the construction of the neighborhoods. And there are artistic equivalents of redlining going on. We have to figure our way around. There's women and figure our way around as people of color and whatnot. And if you want to be egalitarian in your thought processes, you have to be very mindful of how you're going to interact with the materials that are available to us nowadays.
+
+## Davonte Bradley [20:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=1233s)
+
+Now, I'd like to call attention to something that it just dawned on me because I know I opened up the salon, but saying that there were going to be. Presenters. But this has become more or less an open discussion kind of day. So if everyone's fine with us continuing on with that, cool. But it doesn't seem like we're going to have like formal presenters this time around. Which I'm okay with
+
+## Unattributed [20:59](https://www.youtube.com/watch?v=UBx4LDG--60&t=1259s)
+
+That. Morgan Harper Nichols has an image she wants to share. Oh, sure. And she relates to it's a custom image set that she made as a black woman with AI that she wants to share. So rock on.
 
 ## Morgan Harper Nichols [21:13](https://www.youtube.com/watch?v=UBx4LDG--60&t=1273s)
 
-Well, like a silent follower for a while. I always just watch on YouTube and I was like, oh, maybe I should try to like join in live one time. I tend to get very nervous, but it's all good. What you're sharing. I was like, you know, I got to overcome my fear because I think this is relevant.
+Well, like a silent follower for a while. I always just watch on YouTube and I was like, oh, maybe I should try to like join in live one time. I tend to get very nervous, but it's
 
-But because when I first found just with being very digital media minded, when I first found out about AI, I was immediately like, wow, I want to know, like, how can how can I get my art involved? But. It was very closed off and I couldn't figure it out. So I was like, well, I'm going to figure out how to make my own. I'm an artist. I'm not a computer person.
+## Unattributed [21:25](https://www.youtube.com/watch?v=UBx4LDG--60&t=1285s)
 
-So it's been a long journey. There are a lot of those in here. So I've gone on a very, very long journey and I just wanted to show a screenshot of what I've been working on here. Excellent. So this on this is all my original artwork that I painted digitally on my iPad and I've been working on custom. So I've been working on custom training models to address that very same thing, because I just realized that as a black woman, like the stuff that I was seeing was not really reflective of me. It was gross. Yeah, I was like, oh, no. Your options are your options are hyper sexualization or nothing. Yeah. Monsters or monsters. Yeah, exactly. So I started working with Checkpoint. So that's something that you can use. I started working with a local thing. It's called Automatic 111.
+All good.
 
-And I turned the setting up to where it's all my art. So I'm just generating from my art. And yeah, it's just been a really great I'm in an MFA program right now. So it's what I'm writing a paper on. So I haven't shared it too much, but I was just like, I felt like it was relevant because that's kind of my hope for generative AI is that there could be more opportunities. For people to generate things that are from more of their experiences as an artist from their own collections. So that's kind of that is exactly the kind of thing that I was hoping that people would eventually get to because.
+## Morgan Harper Nichols [21:25](https://www.youtube.com/watch?v=UBx4LDG--60&t=1285s)
 
-## Davonte Bradley [23:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=1409s)
+What you're sharing. I was like, you know, I got to overcome my fear because I think this is relevant. But because when I first found just with being very digital media minded, when I first found out about AI, I was immediately like, wow, I want to know, like, how can how can I get my art involved? But. It was very closed off and I couldn't figure it out. So I was like, well, I'm going to figure out how to make my own. I'm an artist. I'm not a computer person.
 
-Thank you. Yeah, thank you. Thanks for the platform. I love following along. Well, also, thank you for coming and thank you for having the courage to. Pop up and show your work. Yeah, it's great work. Yeah. Make sure you come back. I've always been watching on YouTube, but I'm always like, I don't know. I totally identify with being shy. And then of course is the fact that we're mostly a white group, but we're also very inclusive. So it takes a lot of courage and I applaud it. Yes. Well, thank you for saying that. I appreciate that. Thank you. Welcome.
+So it's been a long journey.
 
-Welcome. Welcome. Welcome. Welcome. Yeah, we try not to be intimidating here, which I don't, I don't think any of us have it in us inherently, but I think maybe it comes across that way because some of us have. I don't know, just, just by having as much experience collectively as this group has, I guess it can kind of be intimidating to newcomers.
+## Unattributed [21:53](https://www.youtube.com/watch?v=UBx4LDG--60&t=1313s)
+
+There are a lot of those in here.
+
+## Morgan Harper Nichols [21:56](https://www.youtube.com/watch?v=UBx4LDG--60&t=1316s)
+
+So I've gone on a very, very long journey and I just wanted to show a screenshot of what I've been working on here.
+
+## Unattributed [22:04](https://www.youtube.com/watch?v=UBx4LDG--60&t=1324s)
+
+Excellent.
+
+## Morgan Harper Nichols [22:05](https://www.youtube.com/watch?v=UBx4LDG--60&t=1325s)
+
+So this on this is all my original artwork that I painted digitally on my iPad and I've been working on custom. So I've been working on custom training models to address that very same thing, because I just realized that as a black woman, like the stuff that I was seeing was not really reflective of me.
+
+## Unattributed [22:24](https://www.youtube.com/watch?v=UBx4LDG--60&t=1344s)
+
+It was gross.
+
+## Morgan Harper Nichols [22:26](https://www.youtube.com/watch?v=UBx4LDG--60&t=1346s)
+
+Yeah, I was like, oh, no.
+
+## Davonte Bradley [22:28](https://www.youtube.com/watch?v=UBx4LDG--60&t=1348s)
+
+Your options are your options are hyper sexualization or nothing.
+
+## Unattributed [22:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=1353s)
+
+Yeah. Monsters or monsters.
+
+## Morgan Harper Nichols [22:35](https://www.youtube.com/watch?v=UBx4LDG--60&t=1355s)
+
+Yeah, exactly. So I started working with Checkpoint. So that's something that you can use. I started working with a local thing. It's called Automatic 111. And I turned the setting up to where it's all my art. So I'm just generating from my art. And yeah, it's just been a really great I'm in an MFA program right now. So it's what I'm writing a paper on. So I haven't shared it too much, but I was just like, I felt like it was relevant because that's kind of my hope for generative AI is that there could be more opportunities. For people to generate things that are from more of their experiences as an artist from their own collections.
+
+## Davonte Bradley [23:20](https://www.youtube.com/watch?v=UBx4LDG--60&t=1400s)
+
+So that's kind of that is exactly the kind of thing that I was hoping that people would eventually get to because.
+
+## Morgan Harper Nichols [23:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=1409s)
+
+Thank you.
+
+## Unattributed [23:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=1410s)
+
+Yeah, thank you.
+
+## Morgan Harper Nichols [23:32](https://www.youtube.com/watch?v=UBx4LDG--60&t=1412s)
+
+Thanks for the platform. I love following along.
+
+## Davonte Bradley [23:36](https://www.youtube.com/watch?v=UBx4LDG--60&t=1416s)
+
+Well, also, thank you for coming and thank you for having the courage to. Pop up and show your work.
+
+## Unattributed [23:43](https://www.youtube.com/watch?v=UBx4LDG--60&t=1423s)
+
+Yeah, it's great work. Yeah. Make sure you come back.
+
+## Morgan Harper Nichols [23:47](https://www.youtube.com/watch?v=UBx4LDG--60&t=1427s)
+
+I've always been watching on YouTube, but I'm always like, I don't know.
+
+## Unattributed [23:52](https://www.youtube.com/watch?v=UBx4LDG--60&t=1432s)
+
+I totally identify with being shy. And then of course is the fact that we're mostly a white group, but we're also very inclusive. So it takes a lot of courage and I applaud it.
+
+## Morgan Harper Nichols [24:05](https://www.youtube.com/watch?v=UBx4LDG--60&t=1445s)
+
+Yes. Well, thank you for saying that. I appreciate that. Thank you.
+
+## Unattributed [24:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=1449s)
+
+Welcome. Welcome. Welcome. Welcome. Welcome.
+
+## Davonte Bradley [24:13](https://www.youtube.com/watch?v=UBx4LDG--60&t=1453s)
+
+Yeah, we try not to be intimidating here, which I don't, I don't think any of us have it in us inherently, but I think maybe it comes across that way because some of us have. I don't know, just, just by having as much experience collectively as this group has, I guess it can kind of be intimidating to newcomers.
 
 Because some of you, I know, have been in your craft for a significant amount of time. Not trying to age you or anything, but you've been around for a significant amount of time in your craft. And for newcomers, like, say, people that have only been around for five-ish years, give or take, with what they're currently doing, they'd be like, oh, man, I may not have actually thought about my work enough to be able to talk about this like that. But I promise it's not as bad as your mind might be trying to make it out to be.
 
-But, yeah. So, again, thank you for showing up and showing off, actually. So, there's that. Yeah. I'll talk a little bit. It spurred some thoughts. Good. Because I'm realizing... I've realized that, and I've mentioned these things, some of these things before, that I came to digital in sort of the opposite direction of a lot of people here. Because I started making art through film photography and a number of different... Like, I did painting, watercolor painting, and transfer pieces. So, mostly... Most of my work before 2012 or something like that was all...
+But, yeah. So, again, thank you for showing up and showing off, actually. So, there's that.
+
+## Susan Detroy [25:22](https://www.youtube.com/watch?v=UBx4LDG--60&t=1522s)
+
+Yeah. I'll talk a little bit. It spurred some thoughts. Good. Because I'm realizing... I've realized that, and I've mentioned these things, some of these things before, that I came to digital in sort of the opposite direction of a lot of people here. Because I started making art through film photography and a number of different... Like, I did painting, watercolor painting, and transfer pieces. So, mostly... Most of my work before 2012 or something like that was all...
 
 The end product were paper or canvas pieces. And either by using a particular kind of more traditional art tool, photography, or pins and marking kinds of things. And then... There was a period that I created a kind of transfer... I used a collage-type work where I used a number of different processes to create a layered, which has influenced a lot of my digital work, layered pieces with transfers and pieces on top of it. All that. And then...
 
@@ -121,43 +296,127 @@ It's... It's hard. It's hard. It's hard. And it's... It's a skill set and a cons
 
 So, it's just... It's a different avenue that I've come along to a different place. And now I'm very fascinated with the projecting and seeing things move. I... That was so far from anything I ever did in the past. So... And it's kind of... And it's interesting to go back and forth between digital and hard copy. So, that's my experience. I just wanted... I wanted to chime in. Yeah. Things worked for me. And so, I bring that... I bring that with me when I'm a digital artist. I have all of that history. And I've been thinking a lot about this lately. Because I am older. And I'm starting to think about it. And I'm starting to think about how...
 
-What I want to do with all my work. And, you know, maybe I want to do some kind of presentation about the lifetime of my work. So... Okey-doke. All right. Well, thank you, Susan. You're welcome. And I think there are certainly elements of your story of how you came to it that some of us definitely can resonate with. Because...
+What I want to do with all my work. And, you know, maybe I want to do some kind of presentation about the lifetime of my work. So... Okey-doke.
 
-I mean... Unless you're like me. And your first was digital. You kind of found yourself coming to it in some capacity along the way. And trying to reconcile things that you had maybe been taught in traditional sense that maybe trying to translate that to a more digital format. And vice versa. And like trying to get them to interplay with each other in a way that makes sense for you as an artist.
+## Davonte Bradley [31:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=1866s)
 
-Yeah. Oh. Looks like we have... Sorry. I wanted to get to... I'm seeing your name again. Is it Leela? Hi. It's Lila. Oh, my gosh. Second time messing up now. Sorry. Lila. That's okay. That's okay. I was actually just about to leave and go out for a walk. And I'm glad you caught me because I was afraid that, you know, I'd be in a bad situation. So, I'm going to go to the signal zone.
+All right. Well, thank you, Susan.
 
-Yeah. Thank you. No. I just wanted to share. I don't want to be going off topic. But a couple of ladies here mentioned, you know, what's going on with AI and, you know, all the issues with not being represented. So, I just wanted to offer my perspective. So, I'm actually originally from India. I've lived in the U.S. I'm a banker. By training, I came to traditional art about 15 years ago. And I actually took a lot of art painting classes at night and weekends. I've just been obsessed with painting. And now fast forward about a year and a half ago, I kind of came into NFTs. And that's how I met Colin and Giovanna and a few people on this, you know, on this Zoom.
+## Susan Detroy [31:08](https://www.youtube.com/watch?v=UBx4LDG--60&t=1868s)
+
+You're welcome.
+
+## Davonte Bradley [31:10](https://www.youtube.com/watch?v=UBx4LDG--60&t=1870s)
+
+And I think there are certainly elements of your story of how you came to it that some of us definitely can resonate with. Because... I mean... Unless you're like me. And your first was digital. You kind of found yourself coming to it in some capacity along the way. And trying to reconcile things that you had maybe been taught in traditional sense that maybe trying to translate that to a more digital format. And vice versa. And like trying to get them to interplay with each other in a way that makes sense for you as an artist.
+
+Yeah. Oh. Looks like we have... Sorry. I wanted to get to... I'm seeing your name again. Is it Leela?
+
+## Unattributed [32:05](https://www.youtube.com/watch?v=UBx4LDG--60&t=1925s)
+
+Hi. It's Lila.
+
+## Davonte Bradley [32:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=1926s)
+
+Oh, my gosh. Second time messing up now. Sorry. Lila.
+
+## Unattributed [32:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=1929s)
+
+That's okay. That's okay. I was actually just about to leave and go out for a walk. And I'm glad you caught me because I was afraid that, you know, I'd be in a bad situation. So, I'm going to go to the signal zone. Yeah. Thank you. No. I just wanted to share. I don't want to be going off topic. But a couple of ladies here mentioned, you know, what's going on with AI and, you know, all the issues with not being represented. So, I just wanted to offer my perspective.
+
+So, I'm actually originally from India. I've lived in the U.S. I'm a banker. By training, I came to traditional art about 15 years ago. And I actually took a lot of art painting classes at night and weekends. I've just been obsessed with painting. And now fast forward about a year and a half ago, I kind of came into NFTs. And that's how I met Colin and Giovanna and a few people on this, you know, on this Zoom.
 
 And what I was recently interviewed, I'm trying to think, it was not for my art on SuperRare. My art is on SuperRare. It's on a few different platforms. I am also now doing a little bit of digital art combining, you know, my art. And I don't have anything to show because I have my sneakers on and I'm just about to head out. But what I wanted to share is that I was asked about my opinion because I've been in Web3 space. And, you know, on LinkedIn, people say, you know, they call me a thought leader. You know, I always shy away from those terminologies.
 
 But they asked me as a woman who's, you know, been in the very male-dominated world of finance, how I've managed, how I've, you know, done pretty well in this, you know, learning. You know, coming from a non-art background into traditional painting. Right. And I've pivoted to digital. And the one thing I shared was, you know, as a woman, one of the things I've never, they said, well, how have you done so, you know, I'm a managing director of a big Wall Street firm. They're like, how do you, you know, how did you do that? And I said, one of the things was I never, I'm an immigrant, first of all, so I never expected there to be, when I look at images on TV or I look at, you know, I look at pictures on TV. I look at images on TV. And I never expected there to be representation of what I would look like.
 
-Right now, 20 years or so later, I see a lot more people. And my heritage is Indian and Portuguese. I'm sorry I don't, I'm not able to show my face up. But it's on my Instagram and it's on LinkedIn, whatever. But the point is that as an immigrant, as a woman in finance, what my philosophy was, I cannot control my own personal self. I cannot control other people's point of view. I cannot control. I can just do the best that I can being me and given my skill set.
+Right now, 20 years or so later, I see a lot more people. And my heritage is Indian and Portuguese. I'm sorry I don't, I'm not able to show my face up. But it's on my Instagram and it's on LinkedIn, whatever. But the point is that as an immigrant, as a woman in finance, what my philosophy was, I cannot control my
 
-So, and, you know, in finance, there is a little bit of a roadmap and art, there's no roadmap. It's so hard. You just got to figure it out. And so I think that, you know, I just worked really hard. I put my head down. I tried to just understand. It was very confusing. Because when I came here, I came to go to graduate school at Columbia. I started out with a psychology degree. Then I realized pretty quickly that I, you know, wanted to get some additional education. I got an MBA in finance. So the point of the story is, and I hope this, you know, my learnings, I'm just trying to share this with you, is my attitude was, you know, I'm just who I am. There's not much representation. There's not much. There's not much that I can do to change. I think we've come a long way as society.
+## Unattributed [35:19](https://www.youtube.com/watch?v=UBx4LDG--60&t=2119s)
 
-But I just put my head down, tried to make my own way, be, and that's kind of served me well. So I don't know if that was helpful. But that was how I dealt with it. I didn't have a lot of mentors initially. So now what I'm trying to do is help other women, other people. I'm often on Twitter spaces talking about this, saying, you know what, we're all in this together. How can we help one another? How can we help make this journey a little bit easier for others? You know? Some of us were blessed to be able to figure it out. And who knows? I'm still figuring it out. With AI. Yeah, I think it's kind of a lifelong kind of thing. It's lifelong. It's lifelong. But I think part of it was just having a sense of humility. And saying, you know, I'm just going to keep learning.
+Own personal self. I cannot control other people's point of view. I cannot control. I can just do the best that I can being me and given my skill set. So, and, you know, in finance, there is a little bit of a roadmap and art, there's no roadmap. It's so hard. You just got to figure it out. And so I think that, you know, I just worked really hard. I put my head down. I tried to just understand. It was very confusing. Because when I came here, I came to go to graduate school at Columbia. I started out with a psychology degree. Then I realized pretty quickly that I, you know, wanted to get some additional education. I got an MBA in finance. So the point of the story is, and I hope this, you know, my learnings, I'm just trying to share this with you, is my attitude was, you know, I'm just who I am.
 
-And just learning from others. And just do what I can to contribute to society. And give back. So I've been giving back, like, just through my art and stuff like that. But that was really it. Was just trying to have this spirit where, you know, this is difficult. It's I'm not going to solve this. I don't have a whole lot of people who have now, now there are a lot of Indians in America. Now, 20, 25 years later, they're, you know, Sundar Pichai people are heads of companies. They're doing really well. But when I first arrived, I mean, we were all, you know, just learning from each other. So anyway, so I just wanted to share that little piece and story and say, I'm still learning. I'm still doing my best. And, you know, I like to. And that's why I joined this. This group. I thought what you all are sharing is so generous.
+There's not much representation. There's not much. There's not much that I can do to change. I think we've come a long way as society. But I just put my head down, tried to make my own way, be, and that's kind of served me well. So I don't know if that was helpful. But that was how I dealt with it. I didn't have a lot of mentors initially. So now what I'm trying to do is help other women, other people.
 
-It's so wonderful. Maybe sometime I will have the courage to share my art. But thank you. That was it. I just wanted to thank you. Doing this, having this venue of where we can all just, you know, share and learn from one another. Yeah. Thank you so much. Yeah. Thank you. And you're 100% correct about, you know, just sharing kind of what our experience are and what we know. This is a great place. And I think that's a great way to kind of, you know, I think that's a great way to kind of share this whole subject actually of mediums. It was also kind of in part because someone had expressed a desire to know more about, you know, the software or tools that other artists here were using to create their work. And they just had no idea how many different things were out there that they could, you know, maybe test or play around with in their own work.
+I'm often on Twitter spaces talking about this, saying, you know what, we're all in this together. How can we help one another? How can we help make this journey a little bit easier for others? You know? Some of us were blessed to be able to figure it out. And who knows? I'm still figuring it out. With AI.
 
-And. We, we didn't necessarily want to just make it just about software. And it was like, oh, I guess talking about mediums generally should be able to cover that. Right. I think. Yeah, no, this is super helpful. And, you know, and like I said, I come from a traditional painting background. So that was why I initially went and Colin told me about this. I was like, this is great because I can, you know, I'd love to learn from you guys who've been doing it for so long. Oops. I realized my hand was up. I'm going to. Oh, no, no. It's fine. Thank you. Thank you. That was pretty much it. Yeah. This is super. Thank you for doing this. Thank you.
+## Davonte Bradley [37:10](https://www.youtube.com/watch?v=UBx4LDG--60&t=2230s)
 
-All right. I can actually lower your hand for you. Thank you. You're welcome. That sounds good. About technology. It's all good. Okay. I'm going to mute myself. Thank you. Thank you. Have a great day. Enjoy your walk. Thank you.
+Yeah, I think it's kind of a lifelong kind of thing.
 
-## Sherry Karver [40:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=2409s)
+## Unattributed [37:13](https://www.youtube.com/watch?v=UBx4LDG--60&t=2233s)
 
-All right, Sherry. Hi, everybody. I'm Sherry. And I wasn't even planning on sharing. But in hearing all of this talk, I realized that maybe some of my work or thoughts definitely fit into the idea of medium because I started out as a ceramic artist. My MFA's in ceramics and I taught that for many years. Ceramic sculpture and pottery. And then my own work I switched to photography.
+It's lifelong. It's lifelong. But I think part of it was just having a sense of humility. And saying, you know, I'm just going to keep learning. And just learning from others. And just do what I can to contribute to society. And give back. So I've been giving back, like, just through my art and stuff like that. But that was really it. Was just trying to have this spirit where, you know, this is difficult.
+
+It's I'm not going to solve this. I don't have a whole lot of people who have now, now there are a lot of Indians in America. Now, 20, 25 years later, they're, you know, Sundar Pichai people are heads of companies. They're doing really well. But when I first arrived, I mean, we were all, you know, just learning from each other. So anyway, so I just wanted to share that little piece and story and say, I'm still learning. I'm still doing my best. And, you know, I like to. And that's why I joined this. This group. I thought what you all are sharing is so generous. It's so wonderful. Maybe sometime I will have the courage to share my art.
+
+But thank you. That was it. I just wanted to thank you. Doing this, having this venue of where we can all just, you know, share and learn from one another. Yeah. Thank you so much.
+
+## Davonte Bradley [38:38](https://www.youtube.com/watch?v=UBx4LDG--60&t=2318s)
+
+Yeah. Thank you. And you're 100% correct about, you know, just sharing kind of what our experience are and what we know. This is a great place. And I think that's a great way to kind of, you know, I think that's a great way to kind of share this whole subject actually of mediums. It was also kind of in part because someone had expressed a desire to know more about, you know, the software or tools that other artists here were using to create their work. And they just had no idea how many different things were out there that they could, you know, maybe test or play around with in their own work. And. We, we didn't necessarily want to just make it just about software. And it was like, oh, I guess talking about mediums generally should be able to cover that. Right. I think.
+
+## Unattributed [39:23](https://www.youtube.com/watch?v=UBx4LDG--60&t=2363s)
+
+Yeah, no, this is super helpful. And, you know, and like I said, I come from a traditional painting background. So that was why I initially went and Colin told me about this. I was like, this is great because I can, you know, I'd love to learn from you guys who've been doing it for so long. Oops. I realized my hand was up. I'm going to.
+
+## Davonte Bradley [39:43](https://www.youtube.com/watch?v=UBx4LDG--60&t=2383s)
+
+Oh, no, no. It's fine.
+
+## Unattributed [39:45](https://www.youtube.com/watch?v=UBx4LDG--60&t=2385s)
+
+Thank you. Thank you. That was pretty much it. Yeah. This is super. Thank you for doing this. Thank you.
+
+## Davonte Bradley [39:54](https://www.youtube.com/watch?v=UBx4LDG--60&t=2394s)
+
+All right. I can actually lower your hand for you. Thank you.
+
+## Unattributed [39:58](https://www.youtube.com/watch?v=UBx4LDG--60&t=2398s)
+
+You're welcome. That sounds good. About technology.
+
+## Davonte Bradley [40:00](https://www.youtube.com/watch?v=UBx4LDG--60&t=2400s)
+
+It's all good.
+
+## Unattributed [40:01](https://www.youtube.com/watch?v=UBx4LDG--60&t=2401s)
+
+Okay. I'm going to mute myself. Thank you. Thank you. Have a great day. Enjoy your walk. Thank you.
+
+## Davonte Bradley [40:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=2409s)
+
+All right, Sherry.
+
+## Sherry Karver [40:12](https://www.youtube.com/watch?v=UBx4LDG--60&t=2412s)
+
+Hi, everybody. I'm Sherry. And I wasn't even planning on sharing. But in hearing all of this talk, I realized that maybe some of my work or thoughts definitely fit into the idea of medium because I started out as a ceramic artist. My MFA's in ceramics and I taught that for many years. Ceramic sculpture and pottery. And then my own work I switched to photography.
 
 So now I would say my medium is photography but also painting. And even more recently, puzzle making. And I do have some images, if I can pull them up real quick to show you. I showed images from the series called Movement Interrupted about a year ago, when I first joined to Expressionism. And I kind of joked then, but it's really true. I'm probably the most low-tech member of the group, because what I am using is the breakdown of technology.
 
 I'm photographing my TV screen when it breaks up and pixelates due to uneven reception. And those are the images I'm going to show you, hopefully, in a moment. I don't do them in Photoshop or using any algorithm. I just photograph exactly what I see. Eventually, everything does. I end up on the computer just for cropping and such. And in all my other series, everything ends up in Photoshop eventually, and I work on it. But I'm kind of the opposite of what I think some of you were saying, is that for me, everything has to get printed out, and everything has to end up on the wall. I mean, for me, this is really important. I don't hardly ever do anything that I just leave on the computer, assuming it's decent, of course. I will. I will print it out. I'll paint with it. Most recently, I'm having some of my images made into actual puzzles.
 
-But anyway, so let me try to screen share. And so give me a moment here. Please bear with me if I can do this. I have it open already, and I'm trying to share it. Is anybody seeing anything? Yep. You are seeing it? Okay, let me try to... Can you see me? So I'm going to try to zoom in and make it larger if possible.
+But anyway, so let me try to screen share. And so give me a moment here. Please bear with me if I can do this. I have it open already, and I'm trying to share it. Is anybody seeing anything?
 
-And sorry, this is a presentation I'm doing for somewhere else. And so I have it set up for that. Okay, is it big enough for people to see? Yes. Okay. So this is called Movement Interrupted. And as I said, I just wait for my TV. I have this old junkie television. And it just starts to pixelate all by itself. And then I'm going to try to get it to the right angle. And it creates all of these little broken up images and these little squares that appear. And the image lasts on the TV only for like a split second. And so I'm set up with my camera. I use a digital camera and I have it on a tripod. And I photograph really quickly so that I can capture these images. And then the ones that really work for me, I have them all printed as dye sublimation on metal. Because I feel that metal substrate using that medium works best with these kind of computer glitches.
+## Davonte Bradley [42:31](https://www.youtube.com/watch?v=UBx4LDG--60&t=2551s)
+
+Yep.
+
+## Unattributed [42:32](https://www.youtube.com/watch?v=UBx4LDG--60&t=2552s)
+
+You are seeing it?
+
+## Sherry Karver [42:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=2553s)
+
+Okay, let me try to... Can you see me? So I'm going to try to zoom in and make it larger if possible. And sorry, this is a presentation I'm doing for somewhere else. And so I have it set up for that. Okay, is it big enough for people to see?
+
+## Unattributed [42:50](https://www.youtube.com/watch?v=UBx4LDG--60&t=2570s)
+
+Yes.
+
+## Sherry Karver [42:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=2571s)
+
+Okay. So this is called Movement Interrupted. And as I said, I just wait for my TV. I have this old junkie television. And it just starts to pixelate all by itself. And then I'm going to try to get it to the right angle. And it creates all of these little broken up images and these little squares that appear. And the image lasts on the TV only for like a split second. And so I'm set up with my camera. I use a digital camera and I have it on a tripod. And I photograph really quickly so that I can capture these images. And then the ones that really work for me, I have them all printed as dye sublimation on metal. Because I feel that metal substrate using that medium works best with these kind of computer glitches.
 
 So I don't even remember the titles of all of them. But when I do remember, I'll tell you this one's called Overlooking the Bridge. This one is called Competing with One's Self. It's 16 by 20. And these are all like I said, dye sublimation on metal. This one just got accepted into a show called The About Face.
 
@@ -173,15 +432,63 @@ This is a more recent piece. This was a Fourth of July parade somewhere back eas
 
 So I was very happy about that. And I just have, I think, one more. And this one was also taken on Fourth of July. And again, it just looked like things were falling apart. I think that's it. No, a couple more. This one is called Looking at You. Girl in the Yellow Dress. I guess I do remember the titles.
 
-And this is the last one. Portals. I think it's the last one. Portals. I'm going to stop my screen sharing. So thank you. I mean, this was kind of a surprise to me. I really was not expecting to present anything. It's wonderful. Thank you. It's great. Thank you. You're a great audience. If you have any questions. Yeah.
+And this is the last one. Portals. I think it's the last one. Portals. I'm going to stop my screen sharing. So thank you. I mean, this was kind of a surprise to me. I really was not expecting to present anything.
 
-Please feel free to ask them. Do I what? Say that again. I didn't hear you. Oh, no. I said, please feel free to ask them questions. No questions. So what was the initial stimulus for you to start capturing the image disintegration that you witnessed on TV? That's a good question. I was actually I remember the exact moment. My husband and I were in London just on a trip. We were in a junky little hotel. It was raining. And they had a terrible little TV and it started to do this. And it was some band. I think some music. And the little TV started to do that. And I had my camera right there. I started photographing it. But I only got like one or two good photos out of that because I didn't have a tripod set up. And I was just doing it, you know, really on the fly. So I kind of put it aside because I never like to just do one piece.
+## Unattributed [47:59](https://www.youtube.com/watch?v=UBx4LDG--60&t=2879s)
 
-I like working a series. And then we came home. And surprisingly, our TV at home started doing it. So then I thought, oh, okay, you know, maybe I could get a whole series out of it. And so that kind of got me going. But then I started to really think about, well, why am I so interested in these kind of images? And it was sort of like what I said before, that I just kind of have been feeling that especially politically that things have just been a mess for the last four years. And before that. Yeah. And, you know, just things seem to be we seem to be having a difficult time in our history, not just here in America, but in the whole world. And I think that's what really got it all going. So would you consider it a Jungian synchronicity?
+It's wonderful. Thank you. It's great. Thank you.
 
-I believe a lot in synchronicity and coincidence and all that. Yeah, for sure. Now, I'm not. I'm not entirely familiar with that term. So could you maybe explain a little bit about what you've been for that? Well, Carl Jung was a leader in psychoanalytic theory. And he was interested in a phenomenon he called synchronicity, which are a series of events. One that are a causal. They do not cause each other. But yet they are meaningfully connected.
+## Sherry Karver [48:02](https://www.youtube.com/watch?v=UBx4LDG--60&t=2882s)
 
-For instance, in Sherry's initial exposure to the glitch phenomenon. You might consider that a coincidence. Right. But it caught her interest. So it had a meaning for her. Even though at that point in time, the meaning was not well defined. But then when the incident recurred at home, many thousands of miles away from where she initially witnessed it. And it elicited the same response of curiosity and wonder and artistic inspiration in her that caused her to act.
+You're a great audience. If you have any questions. Yeah.
+
+## Davonte Bradley [48:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=2886s)
+
+Please feel free to ask them.
+
+## Sherry Karver [48:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=2889s)
+
+Do I what? Say that again. I didn't hear you.
+
+## Davonte Bradley [48:14](https://www.youtube.com/watch?v=UBx4LDG--60&t=2894s)
+
+Oh, no. I said, please feel free to ask them questions.
+
+## Unattributed [48:19](https://www.youtube.com/watch?v=UBx4LDG--60&t=2899s)
+
+No questions. So what was the initial stimulus for you to start capturing the image disintegration that you witnessed on TV?
+
+## Sherry Karver [48:35](https://www.youtube.com/watch?v=UBx4LDG--60&t=2915s)
+
+That's a good question. I was actually I remember the exact moment. My husband and I were in London just on a trip. We were in a junky little hotel. It was raining. And they had a terrible little TV and it started to do this. And it was some band. I think some music. And the little TV started to do that. And I had my camera right there. I started photographing it. But I only got like one or two good photos out of that because I didn't have a tripod set up. And I was just doing it, you know, really on the fly. So I kind of put it aside because I never like to just do one piece. I like working a series.
+
+And then we came home. And surprisingly, our TV at home started doing it. So then I thought, oh, okay, you know, maybe I could get a whole series out of it. And so that kind of got me going. But then I started to really think about, well, why am I so interested in these kind of images? And it was sort of like what I said before, that I just kind of have been feeling that especially politically that things have just been a mess for the last four years. And before that. Yeah.
+
+## Unattributed [49:46](https://www.youtube.com/watch?v=UBx4LDG--60&t=2986s)
+
+And, you know, just things seem to
+
+## Sherry Karver [49:49](https://www.youtube.com/watch?v=UBx4LDG--60&t=2989s)
+
+Be we seem to be having a difficult time in our history, not just here in America, but in the whole world. And I think that's what really got it all going.
+
+## Unattributed [49:59](https://www.youtube.com/watch?v=UBx4LDG--60&t=2999s)
+
+So would you consider it a Jungian synchronicity?
+
+## Sherry Karver [50:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=3006s)
+
+I believe a lot in synchronicity and coincidence and all that. Yeah, for sure.
+
+## Davonte Bradley [50:15](https://www.youtube.com/watch?v=UBx4LDG--60&t=3015s)
+
+Now, I'm not. I'm not entirely familiar with that term. So could you maybe explain a little bit about what you've been for that?
+
+## Unattributed [50:22](https://www.youtube.com/watch?v=UBx4LDG--60&t=3022s)
+
+Well, Carl Jung was a leader in psychoanalytic theory. And he was interested in a phenomenon he called synchronicity, which are a series of events. One that are a causal. They do not cause each other. But yet they are meaningfully connected. For instance, in Sherry's initial exposure to the glitch phenomenon.
+
+You might consider that a coincidence. Right. But it caught her interest. So it had a meaning for her. Even though at that point in time, the meaning was not well defined. But then when the incident recurred at home, many thousands of miles away from where she initially witnessed it. And it elicited the same response of curiosity and wonder and artistic inspiration in her that caused her to act.
 
 You could say that the London incident definitely did not cause. What happened in her home. But despite the fact that they are not causally related. They are meaningfully connected. In a way that is persistent. Because here now we are witnessing, you know, however many years or months later. We're witnessing a body of work. That she has created. Based on the inspiration that she has. And it came from this echo type phenomenon.
 
@@ -189,19 +496,69 @@ Between what happened in London and what happened in her home. And it resonates 
 
 And the disintegration of personalities and whatnot that can occur. Upon adverse impact. With colonialism. So. Our world definitely is fragmented. It always was. You know. I grew up in the deep south. It was always treacherous. And it was treacherous for my parents and my grandparents. And my great grandparents. And on and on and on. But now it's starting to spill over. To the point where that falling apart is.
 
-More visible. To people who formerly had been untouched. By it. Because it was left uncontrolled. It was unaddressed. Right. And things like that. Chaos. If you don't put it in check. It spills over. You know. And it just goes on and on. Perpetuates itself. So. I've noticed a lot of. Synchronicities in my own life. I don't cling to them too much, but. When I saw Sherry's. Work. It came to mind, especially when I heard her story.
+More visible. To
 
-So for my. It's rudimentary understanding of it. It's actually seems fairly similar to the idea of almost like a butterfly effect. Right? Well, not quite. Well, similar. Yeah. But butterfly effect has a causal component. Right. And it correctly. Right. When this city does not have a causal component. They, they just. Had. Has they have meanings that resonate between. The events.
+## Unattributed [53:22](https://www.youtube.com/watch?v=UBx4LDG--60&t=3202s)
 
-And. Yeah. Oh, go ahead. Mike, Michael, you would know. Resonate between. And. You know, I think that's a great question. And I, and I think for an eight is point is that. Human beings. With our cognition can make the connections that are a causal. And not, not Lincoln causally, but see the connections. Right. And I think that's that. That was something that Jung brought. That was very, very fascinating and very important. And I think that's a very, very important. That. Not everything has to be linked with a causal effect to see meaning. And to drive meaning from it. And, and yeah, I think. Bringing that up was really kind of cool. So thanks.
+People who formerly had been untouched.
 
-It's cool seeing it. I didn't expect to see. Synchronicity. I've been studying it more here lately. And now here we go with confronting it in the salon. That's a great question. Yes. Do we use words or script or language for synchronicity in and of itself? Yeah. Oh, a web of meta connections. In a way in way. You know, It seems that as artists that we. I think that we are more prone to.
+## Davonte Bradley [53:25](https://www.youtube.com/watch?v=UBx4LDG--60&t=3205s)
 
-See it or I dunno if seize the right word. But sense the synchronicity and allow it to be part of our existence such as just be an example is just I'm if I'm thinking about something that I might want to be doing and I'm a few days later I'm riding my bike and I happen to see something and it just connects and I and I allow myself to stop where some people just like they just keep going right allow myself to stop and say think oh I can stop right now in the middle of all of this and go over and pick that thing off the ground or look at that tree or whatever it is and so that feels very kind of known to me that it's and that I feel like sort of live that sometimes not all the time but every once in a while I'll go like oh of course I will see this person that I've been thinking about because the blah blah blah anyway but I see michael kind of nodding his head and absolutely I mean I feel like that's a really incredible treasure and gift that we have as art artistic human beings I adore that in our arm and I like having that in my life when I can feel it and I also wanted to say to sherry I'm not sure why I'm just I'm just gonna go here but there's something about your work that reminds me of my own work in the sense of there's this desire to have to have something that is kind of known and represented clearly dissipate and turn into something else and that has been where I've gone quite a bit in my work where I there's an element that I start with but it transforms into something else cynthia does that with her textures and stuff but your representation of the faces that were glitched and re kind of rearranged into a different story to me because I use my own face in a lot of my own work and change it so people can't see what it is, sort of can see what it is, but it becomes a different story.
+By it.
 
-So I felt a relationship to many of the pieces in that way. And I wanted to tell you that. Yeah. Thank you, Susan. I appreciate hearing that. And I'm going to work much more carefully now. You know, I think for me, it started actually way back in ceramics that this lump of clay or this bag of, you know, gray or brown clay could be made into something.
+## Unattributed [53:26](https://www.youtube.com/watch?v=UBx4LDG--60&t=3206s)
 
-Functional and hopefully beautiful. And I think that's where it started for me about transforming things and making it into something else. Yeah, I have to say clay really has played an important role in my life and it's gotten me to this point. So thank you, Susan. I'm going to look at your work more.
+Because it was left uncontrolled. It was unaddressed. Right. And things like that. Chaos. If you don't put it in check. It spills over. You know. And it just goes on and on. Perpetuates itself. So. I've noticed a lot of. Synchronicities in my own life. I don't cling to them too much, but. When I saw Sherry's. Work. It came to mind, especially when I heard her story.
+
+## Davonte Bradley [53:56](https://www.youtube.com/watch?v=UBx4LDG--60&t=3236s)
+
+So for my. It's rudimentary understanding of it. It's actually seems fairly similar to the idea of almost like a butterfly effect. Right? Well,
+
+## Unattributed [54:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=3246s)
+
+Not quite.
+
+## Davonte Bradley [54:07](https://www.youtube.com/watch?v=UBx4LDG--60&t=3247s)
+
+Well, similar. Yeah.
+
+## Unattributed [54:09](https://www.youtube.com/watch?v=UBx4LDG--60&t=3249s)
+
+But butterfly effect has a causal component. Right. And it correctly. Right. When this city does not have a causal component. They, they just. Had. Has they have meanings that resonate between. The events. And.
+
+## Davonte Bradley [54:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=3269s)
+
+Yeah.
+
+## Unattributed [54:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=3270s)
+
+Oh, go ahead. Mike, Michael, you would know.
+
+## Michael Pierre Price [54:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=3273s)
+
+Resonate between. And. You know, I think that's a great question. And I, and I think for an eight is point is that. Human beings. With our cognition can make the connections that are a causal. And not, not Lincoln causally, but see the connections. Right. And I think that's that. That was something that Jung brought. That was very, very fascinating and very important. And I think that's a very, very important. That. Not everything has to be linked with a causal effect to see meaning. And to drive meaning from it. And, and yeah, I think. Bringing that up was really kind of cool. So thanks.
+
+## Unattributed [55:18](https://www.youtube.com/watch?v=UBx4LDG--60&t=3318s)
+
+It's cool seeing it. I didn't expect to see. Synchronicity. I've been studying it more here lately. And now here we go with confronting it in the salon. That's a great question. Yes. Do we use words or script or language for synchronicity in and of itself? Yeah.
+
+## Davonte Bradley [55:35](https://www.youtube.com/watch?v=UBx4LDG--60&t=3335s)
+
+Oh, a web of meta connections.
+
+## Susan Detroy [55:38](https://www.youtube.com/watch?v=UBx4LDG--60&t=3338s)
+
+In a way in way. You know, It seems that as artists that we. I think that we are more prone to. See it or I dunno if seize the right word. But sense the synchronicity and allow it to be part of our existence such as just be an example is just I'm if I'm thinking about something that I might want to be doing and I'm a few days later I'm riding my bike and I happen to see something and it just connects and I and I allow myself to stop where some people just like they just keep going right allow myself to stop and say think oh I can stop right now in the middle of all of this and go over and pick that thing off the ground or look at that tree or whatever it is and so that feels very kind of known to me that it's and that I feel like sort of live that sometimes not all the time but every once in a while I'll go like oh of course I will see this person that I've been thinking about because the blah blah blah anyway but I see michael kind of nodding his head and absolutely I mean I feel like that's a really incredible treasure and gift that we have as art artistic human beings I adore that in our arm and I like having that in my life when I can feel it and I also wanted to say to sherry I'm not sure why I'm just I'm just gonna go here but there's something about your work that reminds me of my own work in the sense of there's this desire to have to have something that is kind of known and represented clearly dissipate and turn into something else and that has been where I've gone quite a bit in my work where I there's an element that I start with but it transforms into something else cynthia does that with her textures and stuff but your representation of the faces that were glitched and re kind of rearranged into a different story to me because I use my own face in a lot of my own work and change it so people can't see what it is, sort of can see what it is, but it becomes a different story.
+
+So I felt a relationship to many of the pieces in that way.
+
+## Sherry Karver [58:42](https://www.youtube.com/watch?v=UBx4LDG--60&t=3522s)
+
+And I wanted to tell you that. Yeah. Thank you, Susan. I appreciate hearing that. And I'm going to work much more carefully now. You know, I think for me, it started actually way back in ceramics that this lump of clay or this bag of, you know, gray or brown clay could be made into something. Functional and hopefully beautiful. And I think that's where it started for me about transforming things and making it into something else.
+
+Yeah, I have to say clay really has played an important role in my life and it's gotten me to this point. So thank you, Susan. I'm going to look at your work more.
+
+## Lee Musgrave [59:27](https://www.youtube.com/watch?v=UBx4LDG--60&t=3567s)
 
 I sort of picked up on that same feeling because what I saw from what you're doing there, taking photographs from a television screen and then the image disappears really quick. It flashed me all the way back to the 1960s with the first computer. I ever pulled around with because it worked very much like that. We get this image up there and then it would be gone too quick for us to even photograph it, but you never forgot the image. But it also comes back to something I have mentioned here more than once, and I'm sure all of you are tired of it. It's called taking advantage of chance. It's a major philosophy in the world.
 
@@ -211,86 +568,366 @@ Related to that in Susan's discussion I was listening earlier about growing old 
 
 I throw it up in the air. It falls down. I look at it. If I like what I see, I grab my camera, and I take a photograph. If I don't like what I see, I pick it up and throw it up again and let it fall down, and I repeat that process. Then I can sit right down here at this computer and download those images out of the camera into the computer and look at each one and make a decision. Do I like this entire image? Do I like only the left-hand corner and zoom in and cop that right out? Do I like all of the colors and textures that are there or I don't? Do I alter them and make all of those decisions within an hour? And I can have a totally exclusive each series of images all done by the end of the day for me at my age that's fantastic it used to take me a year to have a whole image a series of images so now I'm just left with okay you've got this series what are you going to do with it take it to a printer and have it printed out on paper or as you're doing have it put out on aluminum or I can have put on canvas it could be on my on my table here where I photograph it most of it's under a square foot but I can make the decision that it'll be four feet by five foot on a piece of canvas and somebody else will technically take care of that for me and deliver it to me all I have to do is sign it's amazing truly amazing and I'm grateful that I'm able to do it at my age yes!
 
-I'm thrilled that I can produce a vast array of stuff in one year in my life where it used to take me a lot longer yes I think one of the things that technology really offers us is the chance to curate our experiences. You know, before experience was something that maybe you took a note of at the back of your mind or maybe journaled about at the end of the day.
+I'm thrilled that I can produce a vast array of stuff in one year in my life where it used to take me a lot longer
 
-But technology has made it possible for us to curate in real time as things are going on and it has made us aware that we are agents of change, not just in the vast expanse of a lifetime, but also on a daily basis and moment by moment. Of change that can decide who can decide what we're going to think and appreciate as being beautiful or otherwise designate in our experience and record and share. Even if only we are the only ones who see it again, but we are connected in such a way that we're able to pass it on.
+## Davonte Bradley [01:03:13](https://www.youtube.com/watch?v=UBx4LDG--60&t=3793s)
 
-I think that is so valuable and it gives us a measure of freedom, you know, such that, you know, Lee, who considers him, he keeps talking about at my age, well, you know, you ain't that old, number one. But. I've said it before. I was born during World War II. But that's that. Anybody else in here could say that? Yeah, but that ain't, you know, that ain't old in my book. But you have the ability to produce at the speed and capacity of your intellect.
+Yes
 
-Okay. And that's a blessing because. Most people. Most people, when they become fatigued by processes, they become limited by that fatigue. I always try to figure out how can I take advantage of this, whatever the heck it is. Yeah. Yeah. Yes. You know, when you were born during World War II, like I was, right? As I was growing up, everything was still being rationalized after the war. You had a limit on how much milk you could buy, how much bread you could make, you know.
+## Unattributed [01:03:23](https://www.youtube.com/watch?v=UBx4LDG--60&t=3803s)
 
-Clothing. Clothing was handed down. Little kids like me, you didn't get. There was no store you could go to buy clothes, at least in my family's financial situation, where you could buy branded clothes for a little kid. No. Little kid wore the clothes from the kid was a little older. Right. Absolutely wore out. It took quite a long time to get away from thinking like that. And so I was raised with watching.
+I think one of the things that technology really offers us is the chance to curate our experiences. You know, before experience was something that maybe you took a note of at the back of your mind or maybe journaled about at the end of the day. But technology has made it possible for us to curate in real time as things are going on and it has made us aware that we are agents of change, not just in the vast expanse of a lifetime, but also on a daily basis and moment by moment.
 
-Adults. Every single thing that they handled, they tried to figure out what else they could do with it than the first thing they used it for. How many more things can I use this thing for? Right. What else can I do with it? How valuable can it be in my life? Yeah. Yeah. That's very valuable thought process.
+Of change that can decide who can decide what we're going to think and appreciate as being beautiful or otherwise designate in our experience and record and share. Even if only we are the only ones who see it again, but we are connected in such a way that we're able to pass it on. I think that is so valuable and it gives us a measure of freedom, you know, such that, you know, Lee, who considers him, he keeps talking about at my age, well, you know, you ain't that old, number one.
 
-You know. It's resourceful. Yeah. And it builds civilizations. Really? Mm hmm. It does. I mean, you don't build a civilization. Based on what you've done. On throwing things away. Disposability and being non sustainable. Oh, that's how I come up. Maybe I can show you. There. Can you see that table? Yeah. That's your work table. The one right here in front. That's a pile of junk right there. That's trash. When I walk. I try to walk every day and I find this stuff laying on the ground. People throw it away. It blows away in the wind. I find it all over the place. I bring it back to the studio. I lay it on this table and I look at it for who knows how long. And then I start playing around with it. And it may turn into something. It may not.
+But.
 
-I like the blue and the yellow fabric. The blue and the yellow fabric. What's that like netting? Yellow fabric. Is the yellow over there? No. It looks like yellow. There's a bunch of yellow left. There's a bunch of yellow plastic. Okay. It may have been plastic. It looks kind of like fabric. It was a plastic bag that had some kind of cheap food in it. Yeah. Okay. Plastic bag away. Yeah. And what's the blue? What's the patch of blue? Blue. Yes.
+## Lee Musgrave [01:05:00](https://www.youtube.com/watch?v=UBx4LDG--60&t=3900s)
 
-Yeah. That. I don't know. I don't know what this. This came from. It's fabric. Some kind of netting that has. It's a netting. Yeah. Okay. Some kind of little silver things on it. I don't know what it was originally at all. It was just blowing in the wind when I got it. Yeah. That's beautiful. That's another piece of plastic. Oh, yeah. So what do I do with that craft? I play with it. And then. Oh, wow. All of this. Everything you see here was from that pile of crap. Okay.
+I've said it before. I was born during World War II.
 
-And in this case, most of it was in my coat pocket when I went to the last trip in Europe, walking through streets in Europe. I picked this stuff up. Now there's some exceptions like over here. You see these circles? Mm-hmm. Those are actually little tiny rubber bands that were given to me to a little kid.
+## Unattributed [01:05:05](https://www.youtube.com/watch?v=UBx4LDG--60&t=3905s)
 
-My cousin's daughter. They were asking me about what I do. And I was explaining to them exactly like I am to you. And this little girl came up and she said, well, here, why don't you take this? And maybe you can put them into one of your things. And she just dumped them in my hand. Oh. My pocket. And you see this big blue thing coming across here. Oh, yeah. That was a little cup that I ate some ice cream out of somewhere in. Oh, yeah. Oh, yeah. Comar. Comar, France.
+But that's that.
 
-And it broke real easy. And I just washed it off and stuck it in my pocket. The big thing that jumps up here like this, that's a shopping bag that was given to me at Carl's Department Store in Freiburg, Germany. That was also where this big black green thing. Oh. I think. I think it's a cylinder seal or something like that. I found it on the street, in the middle of the street when I crossed the street in Freiburg. It was just laying there. I picked it up, put it in my pocket.
+## Lee Musgrave [01:05:06](https://www.youtube.com/watch?v=UBx4LDG--60&t=3906s)
 
-I could go on and on and on. The doilies in the background came from London. Right. That little red dot thing and this big green circle thing here in green, that came out of a deli bag of food. I bought in Hood River, Oregon. Mm-hmm. I often think some of you know that I write. I write stories and every once in a while I think I should write a story for each one of these images. I mean, you could. No, it's only interesting to me. You know, I love the fact that I took a piece of garbage that somebody didn't have a second thought about it to throw away. And I turned it into what I think is a good thing. Because it's a beautiful image to look at. Yeah. That fascinates me. That's what I mean about taking advantage of chance. Yeah. Mm-hmm.
+Anybody else in here could say that?
 
-When I was listening to Lee talk about hand-me-down clothing, I have two parents who they went through the Holocaust in Europe. And after the war, they lived in England where there was a lot of rationing and then they came to Canada. But to make my point is that when I started working in Canada, I had to make sure that I had enough clothes to wear. And I realized that I had as much paint to squander as I wished. And I had as much canvas to work on as I wished. And the feeling was just so beautiful when you've gone through art college and university where you have to ration your materials.
+## Unattributed [01:05:07](https://www.youtube.com/watch?v=UBx4LDG--60&t=3907s)
 
-Because, you know, if you screw up that canvas, it's pretty expensive to go out and buy another piece. So I just wanted to share my joy. My ecstasy, if you will, that I had when I started painting on a screen. Yeah. And I just want to follow up real quickly with that as well. And especially with Lee's beautiful trash art.
+Yeah, but that ain't, you know, that ain't old in my book. But you have the ability to produce at the speed and capacity of your intellect. Okay. And that's a blessing because. Most people. Most people, when they become fatigued by processes, they become limited by that fatigue.
 
-I've used that inspiration with AI. And I've actually been working on a whole bunch of images. And I've been working on a whole bunch of images. That take household trash in AI and create artwork from it. It has nothing near the richness of Lee's being able to point to those kinds of stories and everything. But just since we've touched on AI earlier, I thought that was a nice connection there. Because Lee, you actually inspired me to think about that with AI. So I just thought I'd let you know that.
+## Lee Musgrave [01:05:37](https://www.youtube.com/watch?v=UBx4LDG--60&t=3937s)
 
-Is that one of those other synchronicities? Synchronicities. English is hard sometimes. We had a whole nine minutes left, folks. Well, let me. I'm sorry. Yeah. Follow through with something else that sort of fascinates me. I'd like to know actually how many of you do this. When the whole digital thing came up and I started doing this process and then these calls for artists would come through.
+I always try to figure out how can I take advantage of this, whatever the heck it is.
 
-Most of the ones I was getting was for paintings. You know, I did a lot of painting exhibits. But I suddenly started looking at what might be available for things that would be done digitally. And it wasn't much, but it would come through and it's progressed quite a bit quickly. When it first started, I would have the print made and frame it and ship that to them and they would put that in the exhibit. But boy, the last dozen or so exhibits I've been in, they don't want that. They tell me, send us a high res resolution of the image and we will print it out and frame it where we are and hang it on the wall. And if you want the print, we'll roll it up and mail it back.
+## Davonte Bradley [01:05:42](https://www.youtube.com/watch?v=UBx4LDG--60&t=3942s)
 
-Now, I have mixed emotions about this because when I was having the print made for me and I had it in my hands, two things. I could approve it or not. And if I approve it. I could sign it to prove that to show that I had it in my hands and approved of it. But doing it this way, having them print it, I don't get to see what it looks like before it gets exhibited. I don't get to see what it looks like framed.
+Yeah. Yeah.
+
+## Lee Musgrave [01:05:44](https://www.youtube.com/watch?v=UBx4LDG--60&t=3944s)
+
+Yes. You know, when you were born during World War II, like I was, right? As I was growing up, everything was still being rationalized after the war. You had a limit on how much milk you could buy, how much bread you could make, you know. Clothing. Clothing was handed down. Little kids like me, you didn't get. There was no store you could go to buy clothes, at least in my family's financial situation, where you could buy branded clothes for a little kid. No. Little kid wore the clothes from the kid was a little older.
+
+## Davonte Bradley [01:06:17](https://www.youtube.com/watch?v=UBx4LDG--60&t=3977s)
+
+Right.
+
+## Lee Musgrave [01:06:17](https://www.youtube.com/watch?v=UBx4LDG--60&t=3977s)
+
+Absolutely wore out. It took quite a long time to get away from thinking like that. And so I was raised with watching. Adults. Every single thing that they handled, they tried to figure out what else they could do with it than the first thing they used it for. How many more things can I use this thing for?
+
+## Unattributed [01:06:40](https://www.youtube.com/watch?v=UBx4LDG--60&t=4000s)
+
+Right.
+
+## Lee Musgrave [01:06:40](https://www.youtube.com/watch?v=UBx4LDG--60&t=4000s)
+
+What else can I do with it? How valuable can it be in my life?
+
+## Unattributed [01:06:44](https://www.youtube.com/watch?v=UBx4LDG--60&t=4004s)
+
+Yeah. Yeah. That's very valuable thought process. You know. It's resourceful. Yeah. And it builds civilizations. Really?
+
+## Davonte Bradley [01:06:55](https://www.youtube.com/watch?v=UBx4LDG--60&t=4015s)
+
+Mm hmm.
+
+## Unattributed [01:06:56](https://www.youtube.com/watch?v=UBx4LDG--60&t=4016s)
+
+It does. I mean, you don't build a civilization. Based on what you've done. On throwing things away. Disposability and being non sustainable.
+
+## Lee Musgrave [01:07:05](https://www.youtube.com/watch?v=UBx4LDG--60&t=4025s)
+
+Oh, that's how I come up. Maybe I can show you. There. Can you see that table? Yeah.
+
+## Unattributed [01:07:14](https://www.youtube.com/watch?v=UBx4LDG--60&t=4034s)
+
+That's your work table. The one right here in front.
+
+## Lee Musgrave [01:07:17](https://www.youtube.com/watch?v=UBx4LDG--60&t=4037s)
+
+That's a pile of junk right there. That's trash. When I walk. I try to walk every day and I find this stuff laying on the ground. People throw it away. It blows away in the wind. I find it all over the place. I bring it back to the studio. I lay it on this table and I look at it for who knows how long. And then I start playing around with it. And it may turn into something. It may not.
+
+## Unattributed [01:07:44](https://www.youtube.com/watch?v=UBx4LDG--60&t=4064s)
+
+I like the blue and the yellow fabric. The blue and the yellow fabric. What's that like netting?
+
+## Lee Musgrave [01:07:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=4071s)
+
+Yellow fabric.
+
+## Unattributed [01:07:53](https://www.youtube.com/watch?v=UBx4LDG--60&t=4073s)
+
+Is the yellow over there? No. It looks like yellow. There's a bunch of yellow left.
+
+## Lee Musgrave [01:08:01](https://www.youtube.com/watch?v=UBx4LDG--60&t=4081s)
+
+There's a bunch of yellow plastic.
+
+## Unattributed [01:08:04](https://www.youtube.com/watch?v=UBx4LDG--60&t=4084s)
+
+Okay. It may have been plastic. It looks kind of like fabric.
+
+## Lee Musgrave [01:08:11](https://www.youtube.com/watch?v=UBx4LDG--60&t=4091s)
+
+It was a plastic bag that had some kind of cheap food in it. Yeah.
+
+## Unattributed [01:08:15](https://www.youtube.com/watch?v=UBx4LDG--60&t=4095s)
+
+Okay.
+
+## Lee Musgrave [01:08:16](https://www.youtube.com/watch?v=UBx4LDG--60&t=4096s)
+
+Plastic bag away. Yeah.
+
+## Unattributed [01:08:18](https://www.youtube.com/watch?v=UBx4LDG--60&t=4098s)
+
+And what's the blue? What's the patch of blue?
+
+## Lee Musgrave [01:08:22](https://www.youtube.com/watch?v=UBx4LDG--60&t=4102s)
+
+Blue. Yes. Yeah.
+
+## Unattributed [01:08:26](https://www.youtube.com/watch?v=UBx4LDG--60&t=4106s)
+
+That. I don't know.
+
+## Lee Musgrave [01:08:28](https://www.youtube.com/watch?v=UBx4LDG--60&t=4108s)
+
+I don't know what this. This came from. It's fabric. Some kind of netting that has.
+
+## Unattributed [01:08:34](https://www.youtube.com/watch?v=UBx4LDG--60&t=4114s)
+
+It's a netting. Yeah. Okay.
+
+## Lee Musgrave [01:08:36](https://www.youtube.com/watch?v=UBx4LDG--60&t=4116s)
+
+Some kind of little silver things on it. I don't know what it was originally at all. It was just blowing in the wind when I got it.
+
+## Unattributed [01:08:44](https://www.youtube.com/watch?v=UBx4LDG--60&t=4124s)
+
+Yeah. That's beautiful.
+
+## Lee Musgrave [01:08:49](https://www.youtube.com/watch?v=UBx4LDG--60&t=4129s)
+
+That's another piece of plastic. Oh, yeah. So what do I do with that craft? I play with it. And then.
+
+## Unattributed [01:08:56](https://www.youtube.com/watch?v=UBx4LDG--60&t=4136s)
+
+Oh, wow.
+
+## Lee Musgrave [01:08:58](https://www.youtube.com/watch?v=UBx4LDG--60&t=4138s)
+
+All of this. Everything you see here was from that pile of crap. Okay. And in this case, most of it was in my coat pocket when I went to the last trip in Europe, walking through streets in Europe. I picked this stuff up. Now there's some exceptions like over here. You see these circles? Mm-hmm. Those are actually little tiny rubber bands that were given to me to a little kid.
+
+My cousin's daughter. They were asking me about what I do. And I was explaining to them exactly like I am to you. And this little girl came up and she said, well, here, why don't you take this? And maybe you can put them into one of your things. And she just dumped them in my hand.
+
+## Davonte Bradley [01:09:42](https://www.youtube.com/watch?v=UBx4LDG--60&t=4182s)
+
+Oh. My pocket.
+
+## Lee Musgrave [01:09:45](https://www.youtube.com/watch?v=UBx4LDG--60&t=4185s)
+
+And you see this big blue thing coming across here.
+
+## Davonte Bradley [01:09:49](https://www.youtube.com/watch?v=UBx4LDG--60&t=4189s)
+
+Oh, yeah.
+
+## Lee Musgrave [01:09:50](https://www.youtube.com/watch?v=UBx4LDG--60&t=4190s)
+
+That was a little cup that I ate some ice cream out of somewhere in. Oh, yeah. Oh, yeah. Comar. Comar, France. And it broke real easy. And I just washed it off and stuck it in my pocket. The big thing that jumps up here like this, that's a shopping bag that was given to me at Carl's Department Store in Freiburg, Germany.
+
+That was also where this big black green thing. Oh. I think. I think it's a cylinder seal or something like that. I found it on the street, in the middle of the street when I crossed the street in Freiburg. It was just laying there. I picked it up, put it in my pocket. I could go on and on and on. The doilies in the background came from London.
+
+## Davonte Bradley [01:10:47](https://www.youtube.com/watch?v=UBx4LDG--60&t=4247s)
+
+Right.
+
+## Lee Musgrave [01:10:48](https://www.youtube.com/watch?v=UBx4LDG--60&t=4248s)
+
+That little red dot thing and this big green circle thing here in green, that came out of a deli bag of food. I bought in Hood River, Oregon. Mm-hmm. I often think some of you know that I write. I write stories and every once in a while I think I should write a story for each one of these images. I mean, you could. No, it's only interesting to me. You know, I love the fact that I took a piece of garbage that somebody didn't have a second thought about it to throw away. And I turned it into what I think is a good thing. Because it's a beautiful image to look at.
+
+## Unattributed [01:11:28](https://www.youtube.com/watch?v=UBx4LDG--60&t=4288s)
+
+Yeah. That fascinates me.
+
+## Lee Musgrave [01:11:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=4290s)
+
+That's what I mean about taking advantage of chance.
+
+## Renata Janiszewska [01:11:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=4293s)
+
+Yeah. Mm-hmm. When I was listening to Lee talk about hand-me-down clothing, I have two parents who they went through the Holocaust in Europe. And after the war, they lived in England where there was a lot of rationing and then they came to Canada. But to make my point is that when I started working in Canada, I had to make sure that I had enough clothes to wear. And I realized that I had as much paint to squander as I wished. And I had as much canvas to work on as I wished. And the feeling was just so beautiful when you've gone through art college and university where you have to ration your materials.
+
+Because, you know, if you screw up that canvas, it's pretty expensive to go out and buy another piece. So I just wanted to share my joy. My ecstasy, if you will, that I had when I started painting on a screen. Yeah.
+
+## Michael Pierre Price [01:12:34](https://www.youtube.com/watch?v=UBx4LDG--60&t=4354s)
+
+And I just want to follow up real quickly with that as well. And especially with Lee's beautiful trash art. I've used that inspiration with AI. And I've actually been working on a whole bunch of images. And I've been working on a whole bunch of images. That take household trash in AI and create artwork from it. It has nothing near the richness of Lee's being able to point to those kinds of stories and everything. But just since we've touched on AI earlier, I thought that was a nice connection there. Because Lee, you actually inspired me to think about that with AI. So I just thought I'd let you know that.
+
+## Davonte Bradley [01:13:27](https://www.youtube.com/watch?v=UBx4LDG--60&t=4407s)
+
+Is that one of those other synchronicities? Synchronicities. English is hard sometimes. We had a whole nine minutes left, folks.
+
+## Lee Musgrave [01:13:54](https://www.youtube.com/watch?v=UBx4LDG--60&t=4434s)
+
+Well, let me. I'm sorry. Yeah. Follow through with something else that sort of fascinates me. I'd like to know actually how many of you do this. When the whole digital thing came up and I started doing this process and then these calls for artists would come through. Most of the ones I was getting was for paintings. You know, I did a lot of painting exhibits. But I suddenly started looking at what might be available for things that would be done digitally. And it wasn't much, but it would come through and it's progressed quite a bit quickly. When it first started, I would have the print made and frame it and ship that to them and they would put that in the exhibit. But boy, the last dozen or so exhibits I've been in, they don't want that. They tell me, send us a high res resolution of the image and we will print it out and frame it where we are and hang it on the wall.
+
+And if you want the print, we'll roll it up and mail it back. Now, I have mixed emotions about this because when I was having the print made for me and I had it in my hands, two things. I could approve it or not. And if I approve it. I could sign it to prove that to show that I had it in my hands and approved of it. But doing it this way, having them print it, I don't get to see what it looks like before it gets exhibited. I don't get to see what it looks like framed.
 
 Some of these people ask for a certificate of authenticity that they will stick on the back if it's sold. They'll offer that to the printer. They'll offer that to the purchaser. Even that bothers me. I'm so old fashioned that I'm having a hard time getting used to this. People in Europe, they tell me, you need to give us a price breakdown for these following sizes. And I'm saying, what are you talking about? They said, well, we'll exhibit this only in one size. But the label is going to say it's available in these following three sizes. And I'm saying, what are you talking about? What's the price for each one of these sizes? I'm like, Jesus.
 
-You know? And I'm thinking of limited edition. I usually limit them to ten prints, you know? And they're saying, okay, that's fine for the big sizes. But to this little size, let's not have a limit on that. If 1,000 people want it, we'll print 1,000 of them. You know, this makes my head swim. So those are actually all situations. And thoughts that I had to deal with very early on when I decided I wanted to start showing my work and selling my work to people. Because, you know, I had only been working digitally. And then people started expressing interest in buying it. And I had no idea how to go about doing that. And I ended up finding a way to partner with a print shop that they'll actually go ahead and print it and then ship it. Like actually fulfill the order on my behalf. But it was kind of, it was very terrifying for me.
+You know? And I'm thinking of limited edition. I usually limit them to ten prints, you know? And they're saying, okay, that's fine for the big sizes. But to this little size, let's not have a limit on that. If 1,000 people want it, we'll print 1,000 of them. You know, this makes my head swim.
 
-Because I was like, I'm not seeing the print before it goes off to the recipient. It's like I kind of have to have my fingers crossed that, man, I hope this is going to turn out okay when it gets to the person. And I haven't had any negative experiences so far with that. I guess because the company that I'm using is very good on that. But, yeah, I had to think about, like, okay, what mediums am I going to offer to people? Like am I just going to offer metal? They can apparently print on wood. They can have wood frames. They can have this really high class gicle.
+## Davonte Bradley [01:16:47](https://www.youtube.com/watch?v=UBx4LDG--60&t=4607s)
 
-And I was like, and I, and again, me having no prior experience with anything outside of digital media, I was like, this sounds good. This sounds good. Yeah. Oh. Do you want to show something, Mark? Oh, you're muted, by the way. Sorry. You're saying words. Hold on. You're still on. You're muted, Mark. Can't hear you. Can't hear you.
+So those are actually all situations. And thoughts that I had to deal with very early on when I decided I wanted to start showing my work and selling my work to people. Because, you know, I had only been working digitally. And then people started expressing interest in buying it. And I had no idea how to go about doing that. And I ended up finding a way to partner with a print shop that they'll actually go ahead and print it and then ship it. Like actually fulfill the order on my behalf. But it was kind of, it was very terrifying for me. Because I was like, I'm not seeing the print before it goes off to the recipient.
 
-There it is.
+It's like I kind of have to have my fingers crossed that, man, I hope this is going to turn out okay when it gets to the person. And I haven't had any negative experiences so far with that. I guess because the company that I'm using is very good on that. But, yeah, I had to think about, like, okay, what mediums am I going to offer to people? Like am I just going to offer metal? They can apparently print on wood. They can have wood frames. They can have this really high class gicle.
 
-## Mark Strodl [01:18:53](https://www.youtube.com/watch?v=UBx4LDG--60&t=4733s)
+And I was like, and I, and again, me having no prior experience with anything outside of digital media, I was like, this sounds good. This sounds good. Yeah. Oh. Do you want to show something, Mark? Oh, you're muted, by the way. Sorry. You're saying words.
 
-So just saying hello to everyone. You can see my entire screen, all my garbage. And I'm not sure. It's just interesting to see other people who digital, to do digital work as well. I want to say I'm a real old timer, that I've been doing this for a long time, and I probably have. But I see, I'm probably not alone.
+## Unattributed [01:18:42](https://www.youtube.com/watch?v=UBx4LDG--60&t=4722s)
 
-But I'm more of a traditional, I mean, I spent 30 years in a darkroom. And then worked in labs and galleries, and you name it. And this is, can you all see what's going on? Yes. Okay. And I love what I do. I don't know about you guys, but, and I have so much work. So yes, and some interesting questions. I print them. Lately I've been getting into the aspect of just leaving it digitally when I have shows. But then the thought occurs, like, what happens after you die? If you lose your external hard drives, I mean, that's it. They're digitally, they're gone. How do you, I mean, they're good for the next 10 years. How does it stay for the next 100 years? I mean, if we have such a, you know, high belief within ourselves. So there's a lot of problems, you know, or whatever. So I'm going through.
+Hold on. You're still on. You're muted, Mark.
 
-So just very nice to have a community with you guys where we have this thing in common. And it's just some of the, a lot of times, these are me, by the way. I don't know if you can see them. But I've been doing this for a long time. A lot of what I do occurs with masking. That's the good old, like, cut out, and you got to be really good at it. Most people aren't. It's a pain in the butt.
+## Davonte Bradley [01:18:49](https://www.youtube.com/watch?v=UBx4LDG--60&t=4729s)
 
-But it happens. It has its rewards. I probably only be doing this, I would say, for the last 10 years. I also do watercolors. So I am, like, when I get sick of doing this. So I don't know. I just thought I'd say hello. It's just really nice to see you all. I don't know how, if we ever meet up again or how that happens. Oh, well, we meet every two weeks. Okay. If you could someone send me a little letter. Yeah.
+Can't hear you.
 
-Yeah, actually, if you go to, I will drop the link. To our site. And I just did a, I just did a wall projection down in Long Island using After Effects because it's all digital. It's like this great aspects to digital. I think you could, you know, probably a lot of you don't know After Effects, but it's basically an animation. And so what's fun about them is I can, these are already ripped apart anyways. You're seeing the final.
+## Mark Strodl [01:18:50](https://www.youtube.com/watch?v=UBx4LDG--60&t=4730s)
 
-So it's called shredding. And it's like, you know, it's like reverse engineering. So you, you know, you bring up pieces, aspects of it and it slowly builds in an interesting way. But digital is wonderful. It's, you know, like digital used to be a dirty word. And now with AI out, I'm like, hell, I'm a fucking digital artist. You know, it's, it's fun. It's just nice to have a community and, you know, like, the pain is with like, oh, but you're, you're, you're hitting a button that doesn't count. You know? Yeah. And it's, and I'm like, hell no. I worked my butt off to make that piece.
+Can't hear you. There it is. So just saying hello to everyone. You can see my entire screen, all my garbage. And I'm not sure. It's just interesting to see other people who digital, to do digital work as well. I want to say I'm a real old timer, that I've been doing this for a long time, and I probably have. But I see, I'm probably not alone.
 
-And that's, that's, yeah, that's kind of the spirit of how this community even came together because, you know, Colin was kind of pushing against the idea that digital art is properly understood was something that wasn't deserving or the same level of respect as like traditional painting or traditional outlets of art. Right. And, you know, this is, that's how we started. Became home to a lot of us. Yeah.
+But I'm more of a traditional, I mean, I spent 30 years in a darkroom. And then worked in labs and galleries, and you name it. And this is, can you all see what's going on?
 
-So, yeah. So good. Just, I don't know. So just say hello and keep it up. It's great. Well, glad to have you. And yeah, we will, we meet every two weeks. So every, every two weeks we host these salons that go for hour and a half. And I mean, everyone's welcome to. I did drop the link in the chat. I'm not sure if you see that. Or not. Oh, I don't know.
+## Davonte Bradley [01:19:31](https://www.youtube.com/watch?v=UBx4LDG--60&t=4771s)
 
-I'm not sure how to get back on. Where am I? I kind of lost you. No. Yeah, I kind of lost you, but I'll move over here. Who knows? We're almost done anyways. There we go. Thank you. You're welcome. Yeah. So. All right. So we are right here at the top of the show. We're going to have a five minute delay. We're going to have a five minute delay for the hour for seven. So it's a normal stopping time. We can go for five more minutes because we did have a five minute delay starts as, as is the tradition at this point.
+Yes. Okay.
 
-But did anyone have anything else that they wanted to say before we wrap things up? Anything they want to contribute? May, May, May, May, May. Oh, I want to say so I see something about NFTs if I might. Yeah. So. A lot of people have been asking me and there's so many scammers online and just, you know, and then the recent fall of, and I got asked about from my high school friend, he works for a tops cards. They make the baseball cards, right? Yeah. And, and his, and his boss was like, oh, your friend makes NFTs. And then I started seeing this pattern where these corporations really, they pay people to make and then promote them. And I really saw that.
+## Mark Strodl [01:19:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=4773s)
 
-And I just think that's the way in an entire own way. The individual artist doesn't have a brain on earth. You would just like, so outranked by these corporations promoting building. And it's all a brand. And it's really a in my experience, it just, I don't know, don't waste your time. What do you, what do you think about that? Oh, well, there, there was actually a whole salon or multiple salons at this point, actually dedicated to the discussion and at Tees and kind of where we all stand with them. Some of our artists actually do use and create like an individual product. Create and sell NFTs and have had varying levels of success. You know, some people have, you know, sold a piece here and there. Others have sold entire collections.
+And I love what I do. I don't know about you guys, but, and I have so much work. So yes, and some interesting questions. I print them. Lately I've been getting into the aspect of just leaving it digitally when I have shows. But then the thought occurs, like, what happens after you die? If you lose your external hard drives, I mean, that's it. They're digitally, they're gone. How do you, I mean, they're good for the next 10 years. How does it stay for the next 100 years? I mean, if we have such a, you know, high belief within ourselves. So there's a lot of problems, you know, or whatever. So I'm going through. So just very nice to have a community with you guys where we have this thing in common.
 
-Gosh, I want to say what's her name? Yes. And Jesus Christ. And is making probably several killings with, with her NFTs and has been for the past like year and a half or so. But it's not a, but it's not a panacea. You definitely have to be promoted. Right. And she definitely had connections. I was able to get connected with people to help her. Exactly. Yeah. It's not this panacea. They make it out to be that it's not, you'd be making millions overnight and it's, you know, it's just, it's, it's a fucking crap. I shit. I'm sorry. I'm really open and I could use the money. No, no less. But I saw this pattern. It was an article I read that, that, that basically these corporations get behind and promote and build and they have connections and it's just this networking thing. And, and it's really almost impossible for any artists, unless you're very successful and you have all those connections to do this on your own.
+And it's just some of the, a lot of times, these are me, by the way. I don't know if you can see them. But I've been doing this for a long time. A lot of what I do occurs with masking. That's the good old, like, cut out, and you got to be really good at it. Most people aren't. It's a pain in the butt.
 
-You can make the art, but you don't have a prayer. I don't think, you know, so I'm not going to waste my time. You know what I'm saying? And then the stuff that's up there, I mean, the monkey and ape stuff is great. I love it, but it's you know, it's those willing, even the whole the backbone of this whole thing is just built on hype and well, it's business. It really is. Yeah. In a lot of ways, it's the art creation process and the art business process.
+But it happens. It has its rewards. I probably only be doing this, I would say, for the last 10 years. I also do watercolors. So I am, like, when I get sick of doing this. So I don't know. I just thought I'd say hello. It's just really nice to see you all. I don't know how, if we ever meet up again or how that happens.
 
-You can't really divorce the two, but it's, it's very much the case that like your art business is very similar to how, you know, your, your everyday businesses come and go like the good majority of everyday businesses. They don't see past year. A lot of artists don't see profit year over year over year with their work. They also keep, they'll see creating though, like unlike those other business owners, you close shop and it's like, Oh, I guess I'm throwing the towel in, but no, artists will keep going until eventually maybe something sticks.
+## Davonte Bradley [01:21:01](https://www.youtube.com/watch?v=UBx4LDG--60&t=4861s)
 
-And cause they're tenacious like that. But I will say, I think that's the other thing that I would say is that it does take a level of savvy networking business sense, all that good stuff to make it in that space. And a lot of us, myself included don't necessarily have that skillset. Yeah. So I mean, it is what it is. And I'm sure I could if I really dedicated myself to trying to learn how to do that, I probably could get there, but I don't have it in me at this current junction to that.
+Oh, well, we meet every two weeks.
 
-So I think it's just a matter of how much more I can learn and how much more I can learn from people. I think. And that's, that's cool. I'm fine with that. Yeah. You too. But that being said though, we, it is now 7 0 5. So I think we can go ahead and close things out. It's been a pleasure speaking with all of you and having you all here again. We do, we will still have our normal, you know, after discussion session that we like to have our after party, as some people like to call it where you're free to stick around and just chat about whatever, whatever floats your fancy.
+## Unattributed [01:21:04](https://www.youtube.com/watch?v=UBx4LDG--60&t=4864s)
+
+Okay. If you could someone send me a little letter. Yeah.
+
+## Davonte Bradley [01:21:08](https://www.youtube.com/watch?v=UBx4LDG--60&t=4868s)
+
+Yeah, actually, if you go to, I will drop the link.
+
+## Mark Strodl [01:21:14](https://www.youtube.com/watch?v=UBx4LDG--60&t=4874s)
+
+To our site. And I just did a, I just did a wall projection down in Long Island using After Effects because it's all digital. It's like this great aspects to digital. I think you could, you know, probably a lot of you don't know After Effects, but it's basically an animation. And so what's fun about them is I can, these are already ripped apart anyways. You're seeing the final.
+
+So it's called shredding. And it's like, you know, it's like reverse engineering. So you, you know, you bring up pieces, aspects of it and it slowly builds in an interesting way. But digital is wonderful. It's, you know, like digital used to be a dirty word. And now with AI out, I'm like, hell, I'm a fucking digital artist. You know, it's, it's fun. It's just nice to have a community and, you know, like, the pain is with like, oh, but you're, you're, you're hitting a button that doesn't count. You know? Yeah. And it's, and I'm like, hell no.
+
+## Davonte Bradley [01:22:12](https://www.youtube.com/watch?v=UBx4LDG--60&t=4932s)
+
+I worked my butt off to make that piece. And that's, that's, yeah, that's kind of the spirit of how this community even came together because, you know, Colin was kind of pushing against the idea that digital art is properly understood was something that wasn't deserving or the same level of respect as like traditional painting or traditional outlets of art. Right. And, you know, this is, that's how we started. Became home to a lot of us. Yeah.
+
+So, yeah. So good. Just, I don't know.
+
+## Mark Strodl [01:22:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=4971s)
+
+So just say hello and keep it up. It's great.
+
+## Davonte Bradley [01:22:54](https://www.youtube.com/watch?v=UBx4LDG--60&t=4974s)
+
+Well, glad to have you. And yeah, we will, we meet every two weeks. So every, every two weeks we host these salons that go for hour and a half. And I mean, everyone's welcome to. I did drop the link in the chat. I'm not sure if you see that. Or not. Oh, I don't know.
+
+## Mark Strodl [01:23:14](https://www.youtube.com/watch?v=UBx4LDG--60&t=4994s)
+
+I'm not sure how to get back on. Where am I?
+
+## Unattributed [01:23:16](https://www.youtube.com/watch?v=UBx4LDG--60&t=4996s)
+
+I kind
+
+## Mark Strodl [01:23:18](https://www.youtube.com/watch?v=UBx4LDG--60&t=4998s)
+
+Of lost you. No. Yeah, I kind of lost you, but I'll move over here. Who knows? We're almost done anyways. There we go. Thank you.
+
+## Unattributed [01:23:29](https://www.youtube.com/watch?v=UBx4LDG--60&t=5009s)
+
+You're welcome.
+
+## Mark Strodl [01:23:30](https://www.youtube.com/watch?v=UBx4LDG--60&t=5010s)
+
+Yeah. So.
+
+## Davonte Bradley [01:23:33](https://www.youtube.com/watch?v=UBx4LDG--60&t=5013s)
+
+All right. So we are right here at the top of the show. We're going to have a five minute delay. We're going to have a five minute delay for the hour for seven. So it's a normal stopping time. We can go for five more minutes because we did have a five minute delay starts as, as is the tradition at this point.
+
+But did anyone have anything else that they wanted to say before we wrap things up? Anything they want to contribute? May, May, May, May, May.
+
+## Mark Strodl [01:24:02](https://www.youtube.com/watch?v=UBx4LDG--60&t=5042s)
+
+Oh, I want to say so I see something about NFTs if I might. Yeah. So. A lot of people have been asking me and there's so many scammers online and just, you know, and then the recent fall of, and I got asked about from my high school friend, he works for a tops cards. They make the baseball cards, right? Yeah. And, and his, and his boss was like, oh, your friend makes NFTs. And then I started seeing this pattern where these corporations really, they pay people to make and then promote them. And I really saw that.
+
+And I just think that's the way in an entire own way. The individual artist doesn't have a brain on earth. You would just like, so outranked by these corporations promoting building. And it's all a brand. And it's really a in my experience, it just, I don't know, don't waste your time. What do you, what do you think about that?
+
+## Davonte Bradley [01:24:54](https://www.youtube.com/watch?v=UBx4LDG--60&t=5094s)
+
+Oh, well, there, there was actually a whole salon or multiple salons at this point, actually dedicated to the discussion and at Tees and kind of where we all stand with them. Some of our artists actually do use and create like an individual product. Create and sell NFTs and have had varying levels of success. You know, some people have, you know, sold a piece here and there. Others have sold entire collections.
+
+Gosh, I want to say what's her name? Yes. And Jesus Christ. And is making probably several killings with, with her NFTs and has been for the past like year and a half or so.
+
+## Michael Pierre Price [01:25:37](https://www.youtube.com/watch?v=UBx4LDG--60&t=5137s)
+
+But it's not a, but it's not a panacea. You definitely have to be promoted.
+
+## Davonte Bradley [01:25:41](https://www.youtube.com/watch?v=UBx4LDG--60&t=5141s)
+
+Right.
+
+## Unattributed [01:25:42](https://www.youtube.com/watch?v=UBx4LDG--60&t=5142s)
+
+And she definitely had connections.
+
+## Davonte Bradley [01:25:44](https://www.youtube.com/watch?v=UBx4LDG--60&t=5144s)
+
+I was able to get connected with people to help her.
+
+## Unattributed [01:25:48](https://www.youtube.com/watch?v=UBx4LDG--60&t=5148s)
+
+Exactly.
+
+## Davonte Bradley [01:25:48](https://www.youtube.com/watch?v=UBx4LDG--60&t=5148s)
+
+Yeah. It's not this panacea. They make it out to be that it's not, you'd be making millions overnight and it's, you know, it's just, it's, it's a fucking crap.
+
+## Mark Strodl [01:25:57](https://www.youtube.com/watch?v=UBx4LDG--60&t=5157s)
+
+I shit. I'm sorry. I'm really open and I could use the money. No, no less. But I saw this pattern. It was an article I read that, that, that basically these corporations get behind and promote and build and they have connections and it's just this networking thing. And, and it's really almost impossible for any artists, unless you're very successful and you have all those connections to do this on your own. You can make the art, but you don't have a prayer. I don't think, you know, so I'm not going to waste my time. You know what I'm saying? And then the stuff that's up there, I mean, the monkey and ape stuff is great. I love it, but it's you know, it's those willing, even the whole the backbone of this whole thing is just built on hype and well, it's business. It really is.
+
+## Davonte Bradley [01:26:45](https://www.youtube.com/watch?v=UBx4LDG--60&t=5205s)
+
+Yeah. In a lot of ways, it's the art creation process and the art business process. You can't really divorce the two, but it's, it's very much the case that like your art business is very similar to how, you know, your, your everyday businesses come and go like the good majority of everyday businesses. They don't see past year. A lot of artists don't see profit year over year over year with their work. They also keep, they'll see creating though, like unlike those other business owners, you close shop and it's like, Oh, I guess I'm throwing the towel in, but no, artists will keep going until eventually maybe something sticks.
+
+And cause they're tenacious like that. But I will say, I think that's the other thing that I would say is that it does take a level of savvy networking business sense, all that good stuff to make it in that space. And a lot of us, myself included don't necessarily have that skillset.
+
+## Morgan Harper Nichols [01:27:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=5271s)
+
+Yeah.
+
+## Davonte Bradley [01:27:51](https://www.youtube.com/watch?v=UBx4LDG--60&t=5271s)
+
+So I mean, it is what it is. And I'm sure I could if I really dedicated myself to trying to learn how to do that, I probably could get there, but I don't have it in me at this current junction to that. So I think it's just a matter of how much more I can learn and how much more I can learn from people. I think. And that's, that's cool. I'm fine with that. Yeah.
+
+You too. But that being said though, we, it is now 7 0 5. So I think we can go ahead and close things out. It's been a pleasure speaking with all of you and having you all here again. We do, we will still have our normal, you know, after discussion session that we like to have our after party, as some people like to call it where you're free to stick around and just chat about whatever, whatever floats your fancy.
 
 But that being said again, thank you all. And this is Davos signing off and 5, 4, 3, 2, 1. And that's a wrap.

@@ -25,11 +25,41 @@ Go. Thank you, AI voice. I very appreciate that. Hello, hello, hello, and welcom
 
 So glad you made it. Glad you're here. The date is June 22nd, and it is at 2.09 p.m., and it's summer, kind of. It's a little rainy, at least where I am. Not sure what the weather's like where all you are, but it's been hot because summer has started. And I hope all of you are still keeping up with the weather. I'm sure you're all doing great. Keeping up with your art, keeping up with the movement, all that good stuff.
 
-And today we have two presentations from Victor Acevedo. Close, Acevedo. Acevedo. Okay. Thank you for the correction. I promise I won't try to like mess it up a second time. Okay, no problem. Thank you. And then we also have Cynthia Shuley giving a presentation. And we did decide that Shuley. Did I not say that correctly?
+And today we have two presentations from Victor Acevedo. Close, Acevedo. Acevedo. Okay. Thank you for the correction. I promise I won't try to like mess it up a second time.
 
-Did I say Christina? Cynthia. Oh, oh, wow. My bad. Names. Sorry. Yes, Christine Sciulli. Sorry. I don't know where Cynthia came from, I guess, because I was talking about Cynthia Beth Rubin a second ago. Wait, I kind of love it because you got the last name right, which nobody on the planet gets right. So I applaud you, anyway. See, I'm really hit or miss sometimes, like really simple stuff. It's like, oh, no, that can't be that. And then the complicated one, it's like, oh, no, that's easy. It's cool.
+## Unattributed [01:18](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=78s)
 
-All right. So a little bit of background about Christine and Victor. Christine is a visual artist whose primary medium is projected light. Paul Miller has this to say about her work. It consists of intersections of geometry and intuitive sense of how to use everyday materials to give a sense of spatialization. She plays with how we perceive the world around us in a way that leaves us, leaves you with a kind of eerie sense of timelessness.
+Okay, no problem.
+
+## Davonte Bradley [01:19](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=79s)
+
+Thank you. And then we also have Cynthia Shuley giving a presentation.
+
+## Unattributed [01:26](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=86s)
+
+And we did decide that
+
+## Davonte Bradley [01:29](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=89s)
+
+Shuley. Did I not say that correctly? Did I say Christina?
+
+## Christine Sciulli [01:35](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=95s)
+
+Cynthia.
+
+## Davonte Bradley [01:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=96s)
+
+Oh, oh, wow. My bad. Names. Sorry. Yes, Christine Sciulli. Sorry. I don't know where Cynthia came from, I guess, because I was talking about Cynthia Beth Rubin a second ago.
+
+## Christine Sciulli [01:52](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=112s)
+
+Wait, I kind of love it because you got the last name right, which nobody on the planet gets right. So I applaud you, anyway.
+
+## Davonte Bradley [01:59](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=119s)
+
+See, I'm really hit or miss sometimes, like really simple stuff. It's like, oh, no, that can't be that. And then the complicated one, it's like, oh, no, that's easy. It's cool. All right. So a little bit of background about Christine and Victor. Christine is a visual artist whose primary medium is projected light.
+
+Paul Miller has this to say about her work. It consists of intersections of geometry and intuitive sense of how to use everyday materials to give a sense of spatialization. She plays with how we perceive the world around us in a way that leaves us, leaves you with a kind of eerie sense of timelessness.
 
 Christine holds an architectural engineering degree from Penn State University, graduated as a Bessal scholar, Bessel? Okay. As well as a BFA and MFA degrees in combined media from Hunter College, where she was awarded the British Perry Award, BFA Merit Award, and the Lutz-Rydal Travel Grant. Victor is, oops, sorry.
 
@@ -43,13 +73,19 @@ And then I ask that you kind of like self-moderate yourselves with the auditory 
 
 And then after that Q&A session for the second presentation, then it's kind of like a free for all discussion where we'll either talk more about the presentations, the artists, go over whatever new stuff that's going on in you guys' lives or your craft or any events that you have going on. Just general discussion because that's what salons are for. Just talking to people, connecting with people. All right. Sound good to everybody?
 
-And Colin, who I also forgot to introduce, who coined the term tech specialism, do you have any words to say? Just that, you know, I'm psyched. It's a really great turnout tonight and two really great presenters, you know. And yeah, it's pretty amazing. It's number 20, you know, it's pretty wild. And yeah. I feel like we should have done something special for our 20th.
+And Colin, who I also forgot to introduce, who coined the term tech specialism, do you have any words to say? Just that, you know, I'm psyched.
 
-But maybe we'll do like after the facts. We'll see. We'll see.
+## Colin Goldberg [05:46](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=346s)
 
-## Victor Acevedo [06:12](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=372s)
+It's a really great turnout tonight and two really great presenters, you know. And yeah, it's pretty amazing. It's number 20, you know, it's pretty wild.
 
-Anyway, Victor, I think we can go ahead and get started with your presentation so you have the floor. Okay, great. Thanks so much for this opportunity to speak to you all. It's really great. It's exciting for me and a great honor. So I'll jump right into sharing my screen. And well, actually, before I let's see. Yeah, I guess I could do that. Well, actually, before I do that, I would just want to say that I'm going to kind of do a PowerPoint based on a book that I'm producing, which is a career survey of 43 years going from analog to digital art.
+## Davonte Bradley [05:57](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=357s)
+
+And yeah. I feel like we should have done something special for our 20th. But maybe we'll do like after the facts. We'll see. We'll see. Anyway, Victor, I think we can go ahead and get started with your presentation so you have the floor. Okay, great.
+
+## Victor Acevedo [06:20](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=380s)
+
+Thanks so much for this opportunity to speak to you all. It's really great. It's exciting for me and a great honor. So I'll jump right into sharing my screen. And well, actually, before I let's see. Yeah, I guess I could do that. Well, actually, before I do that, I would just want to say that I'm going to kind of do a PowerPoint based on a book that I'm producing, which is a career survey of 43 years going from analog to digital art.
 
 So I'm just going to kind of jump through the book. Okay. So I'm kind of starting maybe 20% into it for this particular chronology. So let me share screen and I'll show you the cover of the book. Hopefully it'll be out like at the end of the year, November or December. It'll be it's a self published print book and then later ebook.
 
@@ -59,7 +95,15 @@ And that's the process and you can see that in the design of the book. And that'
 
 So I'm plucking my still images from the time-based work at this point. Okay. So now I'm going to, there's always a little bit. Okay. So because the book starts with analog media, I just wanted to show a couple of few images from that time that represent where I was at right before I learned about computer graphics, as they called it in those days. So about 1980, I was assimilating my influences, which were Dali, you know, there's a sort of allegorical surrealism and there was MC Escher was a big influence. And this is, this is my student work, but I wanted, it was also the age of neo expressionism, late seventies and early eighties. And I love the color graphic work of Mark Toby and of course Jackson Pollock on a larger scale. So that's in here too. So it's kind of an amalgam of these different modalities of mark making or art making or drawing.
 
-So I liked the idea of art and geometry, you know, all MC Escher. So that kind of like had me presupposed that for some reason I wanted to use to tune into computer graphics. I'm assuming you can all hear me okay. Oh, you know what? I'm going to stop sharing. Could you all hear me? Yeah, we can hear you. Yes, I can hear you fine. Okay. I think what I did is I forgot to click those buttons. Share sound, optimize for video clip. I'll need that later. Okay, because I can't tell if I'm, you know, hearing. I can't really hear myself other than in the room. So anyway, so there are some versions of that image in color. And you get it. This is a color study for it. This is called slated breakfast visceral analytic. And it's a color study for a painting. And here's a 16 by 20 version. And I did a large version of it later.
+So I liked the idea of art and geometry, you know, all MC Escher. So that kind of like had me presupposed that for some reason I wanted to use to tune into computer graphics. I'm assuming you can all hear me okay. Oh, you know what? I'm going to stop sharing. Could you all hear me?
+
+## Unattributed [10:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=637s)
+
+Yeah, we can hear you. Yes, I can hear you fine.
+
+## Victor Acevedo [10:40](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=640s)
+
+Okay. I think what I did is I forgot to click those buttons. Share sound, optimize for video clip. I'll need that later. Okay, because I can't tell if I'm, you know, hearing. I can't really hear myself other than in the room. So anyway, so there are some versions of that image in color. And you get it. This is a color study for it. This is called slated breakfast visceral analytic. And it's a color study for a painting. And here's a 16 by 20 version. And I did a large version of it later.
 
 So while I was still at ArtCenter, Oops, jumped ahead. Always go smoother in rehearsal. Okay, so I was taking, I took this class by Gene Youngblood, who was teaching at ArtCenter. And it was based on his book called _Expanded Cinema_. And this was 19, I took it twice because I loved his class so much. It was 1980 and 19. And it was based on Expanded Cinema that he published in 1970, about 10 years earlier. But what he had in there was amazing, still very new to a lot of people. And he was adding to it. He was carrying on where Expanded Cinema left off.
 
@@ -103,7 +147,15 @@ These are some others. Now, jumping to... This is a piece called Skull. And this
 
 Was picked up as the cover of...or used for the cover of Leonardo in September of 2001, Volume 34, Number Four. So that was a great honor at the time. So I kind of...it was kind of like riffing on this skull model. Which was really interesting. I really liked, right? So this is a piece called X-Hour and just kind of playing with some bilateral symmetry and composing this image and using the, you know, surrealism is always, always present in most of these works. So there's a variation of that. This is called Tavern Mirror and referring to the mirror reflection.
 
-So Davo, let me know if when I have just five minutes left, because I'll immediately jump to the videos, which are all very short, but I don't I don't want to, you know, miss out on showing some of those. Oh, no, you're fine. Don't even worry about that. Okay, cool. Cool. Thanks. So when I moved to New York in 95, after getting my bearings, you know, I first became an artist in residence at the School of Visual Arts because I had some contacts there. And I got access to these. Lab. And I had, even in LA, by 93, I had migrated from Cubicomp into Softimage, which was then again, was more powerful and more refined as a software.
+So Davo, let me know if when I have just five minutes left, because I'll immediately jump to the videos, which are all very short, but I don't I don't want to, you know, miss out on showing some of those.
+
+## Davonte Bradley [25:42](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=1542s)
+
+Oh, no, you're fine. Don't even worry about that.
+
+## Victor Acevedo [25:45](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=1545s)
+
+Okay, cool. Cool. Thanks. So when I moved to New York in 95, after getting my bearings, you know, I first became an artist in residence at the School of Visual Arts because I had some contacts there. And I got access to these. Lab. And I had, even in LA, by 93, I had migrated from Cubicomp into Softimage, which was then again, was more powerful and more refined as a software.
 
 So carrying on with my workflow of building geometrical models and structures that kind of articulate, they weren't just models in there for their own sake, but they were part of this structural field, or aggregates, or subsets of a potential structural field. And they could be like objects, large metal objects in their own right. And then later, I'd insert them into compositions, like this is a piece many of you may know, it was shown at the SIGGRAPH art show in 1998. It's called the Lace Maker. And it was based, influenced by Johannes Vermeer's same title painting, The Lace Maker. And, but it wasn't intentionally posed or anything, you know, it's purely spontaneous. I was a new, at a New Year's Eve party. And this woman had, was trying to reassemble a little necklace that had come undone.
 
@@ -143,59 +195,167 @@ So you can see that in the art of question and answer. So you can see that in th
 
 And these are stills from a piece called Proxima Nova. And this is from 2020, Red Shadow. So sort of surreal. So these are some of the last two. Let's take a look at these again. So these are, you know, models built primarily in soft image. I'm getting into Cinema 4D now, slowly. But working on the book has kind of stopped my forward-moving progress. I've been working on the book for about three years, maybe four.
 
-But I thought it was important to put this all together. I'm going to close this out, just the InDesign part of it. And I'd like to show you some videos. How are we doing? We have a little bit more time? Yeah, we have more time. Okay, cool. Great. I have to ask because I don't want to, you know, I lose track of time being in the flow. Oh, no, you're fine. Okay, cool.
+But I thought it was important to put this all together. I'm going to close this out, just the InDesign part of it. And I'd like to show you some videos. How are we doing? We have a little bit more time?
 
-Oh, that's right here. Okay. So I have two versions of this video. And these are kind of shortened versions of them. And this is, the original name is called Anonymous Realtime. And this first one is called the Ambient Anonymous Realtime. And this is actually, a version very close to the one I'm going to show you is up on OpenSea now, OpenSea as an NFT. So I have these two videos up on OpenSea.
+## Davonte Bradley [38:20](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2300s)
 
-And I have still images. So I'm kind of testing the waters in the NFT world with this kind of work. This is kind of an ambient piece. Okay. So let's see if this works. Okay. So let's see if this works. Okay. So let's see if this works. Yeah, so I've collaborated a lot with a guy called Chris Holland, who is an electronic musician, primarily focused on circuit bending and other modalities for generating sort of like hybrids of the part of music that goes into the noise spectrum, but kind of musical noise, if you will, and all that whole library of potentiality that comes out of that end of the spectrum. And this next piece, he's playing the soundtrack live. It's the same imagery, and it's the original version of this piece called Anonymous Real Time. He likes to wear a mask when he performs live.
+Yeah, we have more time.
 
-So I had this, I go, well, yeah, he's having fun, and he's being anonymous here. So Anonymous Real Time. Oh. I'm going to turn this down a little. This is a little noisier. Yeah, so these are kind of excerpted versions of the piece. The actual piece goes a little bit longer, but I cropped it for... For the NFT marketplace.
+## Victor Acevedo [38:22](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2302s)
 
-Here's a piece that I'm working on now. It's just about done. It's kind of a work in progress, but it's virtually done. And this was also a collaboration with Chris Holland, Igor Amokian, which is his stage name. And it's called Orbital Remix. So you can see that's it. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way.
+Okay, cool. Great. I have to ask because I don't want to, you know, I lose track of time being in the flow.
 
-So you're going to have to make the design in the same way. Okay and I'll play one more and this is another short little piece also a collaboration with chris and this one's called space matrix okay so I'm gonna stop sharing screen let's fast forward retrospective encapsulation thank you for listening and watching appreciate it thank you so much victor that presentation was amazing and it's always amazing to me just realizing just how far back the kind of work that you know we all do actually goes because you know for me I was unaware of artists like yourself like it was just completely unaware that artists like you and you know roz and you know lee all of you guys have been doing work for a really long time and I hadn't heard of any of you yeah and it's amazing just you know just my artistic world has been expanded just by being a part of this movement so it's always amazing just learning more about you know the history of what you guys have been doing and you know how my own work fits into all of this too well that's cool that's very cool thanks for saying that and acknowledging that it's and it's to your credit it, that you're tuning into it.
+## Unattributed [38:28](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2308s)
 
-And you're part of this male you that's living history, you know, as personified by a lot of the group. And, and that's so important. I remember as an art student, it was very important for me to learn the history of art, to see where I fit in, because I wanted to know what was done before. And I also wanted to do something different and build on that.
+Oh, no, you're fine.
+
+## Victor Acevedo [38:30](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2310s)
+
+Okay, cool. Oh, that's right here. Okay. So I have two versions of this video. And these are kind of shortened versions of them. And this is, the original name is called Anonymous Realtime. And this first one is called the Ambient Anonymous Realtime. And this is actually, a version very close to the one I'm going to show you is up on OpenSea now, OpenSea as an NFT. So I have these two videos up on OpenSea.
+
+And I have still images. So I'm kind of testing the waters in the NFT world with this kind of work. This is kind of an ambient piece.
+
+## Unattributed [39:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2376s)
+
+Okay. So let's see if this works. Okay. So let's see if this works. Okay. So let's see if this works.
+
+## Victor Acevedo [39:58](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2398s)
+
+Yeah, so I've collaborated a lot with a guy called Chris Holland, who is an electronic musician, primarily focused on circuit bending and other modalities for generating sort of like hybrids of the part of music that goes into the noise spectrum, but kind of musical noise, if you will, and all that whole library of potentiality that comes out of that end of the spectrum. And this next piece, he's playing the soundtrack live. It's the same imagery, and it's the original version of this piece called Anonymous Real Time. He likes to wear a mask when he performs live. So I had this, I go, well, yeah, he's having fun, and he's being anonymous here. So Anonymous Real Time.
+
+Oh. I'm going to turn this down a little. This is a little noisier. Yeah, so these are kind of excerpted versions of the piece. The actual piece goes a little bit longer, but I cropped it for... For the NFT marketplace. Here's a piece that I'm working on now. It's just about done. It's kind of a work in progress, but it's virtually done. And this was also a collaboration with Chris Holland, Igor Amokian, which is his stage name.
+
+And it's called Orbital Remix.
+
+## Unattributed [42:40](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2560s)
+
+So you can see that's it. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way. So you're going to have to make the design in the same way.
+
+So you're going to have to make the design in the same way.
+
+## Victor Acevedo [42:59](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2579s)
+
+Okay and I'll play one more and this is another short little piece also a collaboration with chris and this one's called space matrix okay so I'm gonna stop sharing screen let's fast forward retrospective encapsulation thank
+
+## Davonte Bradley [44:08](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2648s)
+
+You for listening and watching appreciate it thank you so much victor that presentation was amazing and it's always amazing to me just realizing just how far back the kind of work that you know we all do actually goes because you know for me I was unaware of artists like yourself like it was just completely unaware that artists like you and you know roz and you know lee all of you guys have been doing work for a really long time and I hadn't heard of any of you yeah and it's amazing just you know just my artistic world has been expanded just by being a part of this movement so it's always amazing just learning more about you know the history of what you guys have been doing and you know how my own work fits into all of this too
+
+## Victor Acevedo [45:03](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2703s)
+
+Well that's cool that's very cool thanks for saying that and acknowledging that it's and it's to your credit it, that you're tuning into it. And you're part of this male you that's living history, you know, as personified by a lot of the group. And, and that's so important. I remember as an art student, it was very important for me to learn the history of art, to see where I fit in, because I wanted to know what was done before. And I also wanted to do something different and build on that.
 
 So yeah, and that's, and it's symptomatic of where we're at this moment, where the history of digital art is sort of underreported. We need more and more books, we need more and more documentation, the story needs to be disseminated. But I think now that the appetite for it, and the knowledge base is there to receive it.
 
-We're right on that cusp, with an NFTs are part of that. But just the natural development of, you know, technology, you know, and the web, and people born digital, you know, it just gets ever more natural to be in a mediated cyber reality, hybrid, right, right, social space. Anyway. Well, thank you again, thank you very much for your presentation. I'm sure we've actually all given you a round of applause. We'll give you another one, you know, just for good measure.
+We're right on that cusp, with an NFTs are part of that. But just the natural development of, you know, technology, you know, and the web, and people born digital, you know, it just gets ever more natural to be in a mediated cyber reality, hybrid, right, right, social space.
 
-All right. So that being said, does anyone have any questions or comments for Oh, okay, nevermind. Beat me to it. I think we have, let's see who was actually first. So Michael Price, I believe was first with his hand. So give him the floor. Hey, Victor, that brilliant presentation. I appreciate it. Thank you.
+## Davonte Bradley [46:26](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2786s)
 
-Your work is stunning. So, so here's, here's a question that I have that I think those of us who've been working digitally for a while can probably relate to but it's, it's, I think it's also a unique and interesting thing to talk about. And maybe this is something we can talk more about in the future. But looking at the history of your work and the evolution of it.
+Anyway. Well, thank you again, thank you very much for your presentation. I'm sure we've actually all given you a round of applause. We'll give you another one, you know, just for good measure. All right. So that being said, does anyone have any questions or comments for Oh, okay, nevermind. Beat me to it. I think we have, let's see who was actually first.
+
+So Michael Price, I believe was first with his hand. So give him the floor.
+
+## Michael Pierre Price [46:59](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2819s)
+
+Hey, Victor, that brilliant presentation. I appreciate it. Thank you. Your work is stunning. So, so here's, here's a question that I have that I think those of us who've been working digitally for a while can probably relate to but it's, it's, I think it's also a unique and interesting thing to talk about. And maybe this is something we can talk more about in the future. But looking at the history of your work and the evolution of it.
 
 The limit. See it's like it's like if paint was evolving over time you know earlier painters would have looked a lot different I mean our concepts of what art has changed over time but the technology and traditional media not as much and for those of us who have been sort of been involved near Near the beginnings of these things, the limitations...
 
 The ingenuity that you needed to create art around that is very different than today in many respects in terms of the tools, in terms of what we can do. So as an artist who's been doing this for a while now, how do you see that for yourself? And just how that has influenced you? Because there's a lot of thematic things, like you said, that you've carried forward, but you can see the image making has changed over time because you've got more pixels to play with. Just what can be done is so much more than before. So I was just kind of curious of that unique aspect that digital brings to the art world, especially historically.
 
+## Victor Acevedo [49:09](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=2949s)
+
 Yeah, I hear what you're saying. And I agree. It's an important component of any digital artist's development, their evolution, because you're kind of writing along as the tool set evolves, which is kind of exciting. Like, you know, oil paints or acrylics are pretty much set, you know. But with... With digital tools, they keep evolving. And I'm feeling excited. Like, what I consider my act for is to continue on with these concepts, but express them, you know, in VR, in AR, you know, in the metaverse to be able to walk into the environment. So those tool sets are there. I'm just, you know, I hope to venture into that soon.
 
 I've dabbled in it, but I see that as my future. And that's the tool set, right? That's available. Unprecedented capability that's way beyond anything that I personally have worked with. So that is exciting. And, you know, and in some ways, I feel like I'm moving towards, if I could master that those new tools, I'll have a more exact rendering of these ideas.
 
-Okay, so here's my, I don't want to take too much time. But do you feel like your older work stands on its own. In other words, if you wanted to update your... Older pieces and bring them up to today's technology, that's one thing. But they have an integrity in and of themselves because of, I just see there's this level of ingenuity that those of us who had to work in the digital medium needed to bring to bear that I'm not saying doesn't exist today, but the type of ingenuity is very different at times. And that's what I'm curious about in terms of how you see your historical work in today's light. I see. Well, I'd like to think that it stands up and it's of its time. Thank you.
+## Michael Pierre Price [50:25](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3025s)
 
-And in some ways, today's audience can understand it more, could see what it is and have an experience of it. Like in the old, say 30, 40 years ago. An art critic. Could maybe speak or write very eloquently or articulately about a painter's work because you know, they took painting. Yeah. And you know, there was this kind of like no man's land for a while. Yes. Where they, people couldn't write about it. They didn't understand it. They didn't know how it was made. So they said, well, let's put that aside. It's not art yet. Let's just talk about painting and sculpture and drawing, you know, so what we know about what we have a visceral experience. Yeah. And I think that's a very, very important piece of, but yeah. So the work I think does stand on its own and the fact that it was done at a certain time in the past and adds to its value and the understanding of it.
+Okay, so here's my, I don't want to take too much time. But do you feel like your older work stands on its own. In other words, if you wanted to update your... Older pieces and bring them up to today's technology, that's one thing. But they have an integrity in and of themselves because of, I just see there's this level of ingenuity that those of us who had to work in the digital medium needed to bring to bear that I'm not saying doesn't exist today, but the type of ingenuity is very different at times. And that's what I'm curious about in terms of how you see your historical work in today's light.
 
-So it has a historical function and it also has a relevance in a retrospective way. But you know, we're all collectively fleshing out the story. We're all co-writing and co-inventing this and co-writing this big story. Yeah. And that's, what's exciting. You know, I don't know if I'm answering your question, but that's what comes to mind. No, you did. No, I thank you. And one last thing, I want to buy your book when it comes out. Okay. Well, thank you. So you got a sale here. Okay. Thank you so much. I'll keep you posted. It's going to be actually available as a print book on my website first and I'll have signed editions. You can buy it directly from me, but eventually it'll go on Amazon and I'll have a print book and it'll be an ebook, but I, that's kind of how I'm going to roll it out, how I see it.
+## Victor Acevedo [51:15](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3075s)
 
-So I'll keep everybody posted. Thank you. All right. We, we do have four hands up, but unfortunately it's like three o'clock, but I'd like two of you that have your hands up. I know you probably actually haven't had a chance to speak before, or at least I haven't seen you speak before. So sorry, Roz and sorry, Patrick. I know that you would like to, but I'm going to give them the chance to speak. So if you have a little bit of time, a little bit of space, and then we can get on to Christine's presentation, because I know she's very eager to go ahead. So let's go with Michael first.
+I see. Well, I'd like to think that it stands up and it's of its time. Thank you. And in some ways, today's audience can understand it more, could see what it is and have an experience of it. Like in the old, say 30, 40 years ago. An art critic. Could maybe speak or write very eloquently or articulately about a painter's work because you know, they took painting. Yeah. And you know, there was this kind of like no man's land for a while. Yes. Where they, people couldn't write about it. They didn't understand it. They didn't know how it was made. So they said, well, let's put that aside. It's not art yet. Let's just talk about painting and sculpture and drawing, you know, so what we know about what we have a visceral experience. Yeah. And I think that's a very, very important piece of, but yeah.
 
-Michael, are you there? Yes, I'm here. I was chattering in the comments about various things, but Victor, I was struck by the casualness of your photography. It mixed comments. I was struck by the contrasting with the precision of the rendering in many cases. And then you have digital imprecision added on top of it. Was that, has that always been a conscious choice to be working with the snapshot aesthetic, random pictures practically, or is that just what I'm seeing in it right now? Yeah. It kind of comes out of what, what, of, of, of the, of the, of the, of the, of the, of the, of the idea of everyday life. Just genre scenes and not being trained as a photographer and not having a lot of technical chops in that area. But just as a natural you know just somebody taking photographs but with an artist's eye.
+So the work I think does stand on its own and the fact that it was done at a certain time in the past and adds to its value and the understanding of it. So it has a historical function and it also has a relevance in a retrospective way. But you know, we're all collectively fleshing out the story. We're all co-writing and co-inventing this and co-writing this big story. Yeah. And that's, what's exciting.
 
-So there's that looseness that not you know that casualness of a snapshot that's there but it's towards the goal of really having an everyday scene. Sort of moment that actually is a cosmic happening you know every every second is it is we're in the inside this you know amazing eternal unfolding of whatever it is so and then locally you know there's energetic fields energetic waves so that's the metaphor so the photography yeah is that's how it is and there are some collaborations with professional photographers here and there thank you sure sure all right thank you for your question michael and then lastly we have vernita yes thank you so much victor I enjoyed your work and I noticed that there's a recurrent motif of filling space with interconnection geometric figures and some geometric fragmentation of the human form I think this presages the internet of things and the filling of our time in space with non-ionized radiation from our ever-present digital devices is there a central philosophy of yours from which this artistic choice emanates well I think yeah it kind of comes from myself sort of adopting the graphical metaphor to try to express that what I was saying a moment ago is you know things happening in an energy field you know the void plenum the void matrix from the dao of physics so it kind of comes the metaphor comes out of there and to express that graphically I adopted the isotropic vector matrix from buckminster fuller but at the time I was thinking about the!
+You know, I don't know if I'm answering your question, but that's what comes to mind.
 
-Of structural energy and also the ocean that's way bigger on the universal level so that's kind of yeah in whatever I'm doing is kind of like just a little bit of a almost like a haiku or a poem as a subset of that you know understanding yes and a foreshadowing because at the time that you created the earlier works this dense filling of our space with ionized non-ionized radiation did not exist I'm most of us didn't know about it yeah so it's like you are peering into the future in a way cool thank you that's an example of you know a contemporary audience can see things in the work could understand the work bring references to it that someone in the 90s couldn't do or you know in the late 80s there wasn't that the description of reality was nowhere near what it is now for any of us so thank you for that thank you for that observation thank you for your question and yeah definitely thank you for your observation vina okay all right I think we are kind of out of time for additional questions at this time and so that being said
+## Michael Pierre Price [52:43](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3163s)
 
-## Christine Sciulli [58:55](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3535s)
+No, you did. No, I thank you. And one last thing, I want to buy your book when it comes out.
 
-Christine would you like to start your presentation absolutely that was amazing like I honestly never thought about how work that's done before has new tools to describe it they can almost recontextualize the work and yeah that's a little mind-blowing I'm still absorbing that right now okay I'll share my screen I need to move my controls here I'm going to let you know that this is this is the most beautiful part of the show we're going to do is we're going to have a new co-host that's going to be like the new co-host of the show we're going to have s team that's going to be like the co-host of the show it's going to be me and jim not all of us are going to be or are going to be all of us are going to be at the same time so we're going to have s team that's going to be me and jim that's going to be jim and jim and we're going to have the co-host of the show that's going to be jim and jim and way before that I was just working with light.
+## Victor Acevedo [52:49](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3169s)
 
-This is an, I love that Victor showed student work because this is an undergraduate piece they did when I was in engineering. And I switched all my classes to art and I called my parents and I said, I just changed to an art major. Like you can come home and go to community college. So I sort of dumped all of that and went the very next day back to my engineering classes. But this was a piece of plywood. My dad was a wood shop teacher and industrial arts teacher. He was always psyched that he could give kids like an actual skill that they can go on and make a living from, which probably part of his, you know, disinterest in my doing art. But this was plywood that was cut into eighth increments. And it was like pretty regimented. I was working with a bandsaw for the first time and it was kind of intense, but these are just 12 by 12.
+Okay. Well, thank you.
 
-And I just, there's only one of them. And I changed the way the light landed on it and photographed it. But my inspiration is kind of from everywhere. Definitely light driven, light in shape. I spent a ton of time doing figure drawing work and then interested in natural phenomenon. Like these little worms that live on the beach that create like crazier patterns than humans sometimes or paper towels.
+## Unattributed [52:50](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3170s)
 
-Shout out to the Penrose guy for bounty in those patterns. And also the way that nature carves into space. So I'm jumped through time. And this is actually, I'm gonna show you a piece based on these carvings through time by water. A piece about reflection that I did at Shirley Feiderman that I had great aspirations for this piece. But I think it was challenging to see for most people but I got what I wanted, which was taking the water shapes that I had photographed and redrawn, transferring them onto the wall and then cutting what I saw as human interventions in the shape of roads through them with tape or just plastic tape.
+So you got a sale here. Okay.
+
+## Victor Acevedo [52:52](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3172s)
+
+Thank you so much. I'll keep you posted. It's going to be actually available as a print book on my website first and I'll have signed editions. You can buy it directly from me, but eventually it'll go on Amazon and I'll have a print book and it'll be an ebook, but I, that's kind of how I'm going to roll it out, how I see it. So I'll keep everybody posted. Thank you.
+
+## Davonte Bradley [53:16](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3196s)
+
+All right. We, we do have four hands up, but unfortunately it's like three o'clock, but I'd like two of you that have your hands up. I know you probably actually haven't had a chance to speak before, or at least I haven't seen you speak before. So sorry, Roz and sorry, Patrick. I know that you would like to, but I'm going to give them the chance to speak. So if you have a little bit of time, a little bit of space, and then we can get on to Christine's presentation, because I know she's very eager to go ahead. So let's go with Michael first.
+
+Michael, are you there?
+
+## Unattributed [53:52](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3232s)
+
+Yes, I'm here. I was chattering in the comments about various things, but Victor, I was struck by the casualness of your photography. It mixed comments. I was struck by the contrasting with the precision of the rendering in many cases. And then you have digital imprecision added on top of it. Was that, has that always been a conscious choice to be working with the snapshot aesthetic, random pictures practically, or is that just what I'm seeing in it right now?
+
+## Victor Acevedo [54:32](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3272s)
+
+Yeah. It kind of comes out of what, what, of, of, of the, of the, of the, of the, of the, of the, of the idea of everyday life. Just genre scenes and not being trained as a photographer and not having a lot of technical chops in that area. But just as a natural you know just somebody taking photographs but with an artist's eye. So there's that looseness that not you know that casualness of a snapshot that's there but it's towards the goal of really having an everyday scene.
+
+Sort of moment that actually is a cosmic happening you know every every second is it is we're in the inside this you know amazing eternal unfolding of whatever it is so and then locally you know there's energetic fields energetic waves so that's the metaphor so the photography yeah is that's how it is and there are some collaborations with professional photographers here and there thank
+
+## Davonte Bradley [55:39](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3339s)
+
+You sure sure all right thank you for your question michael and then lastly we have vernita
+
+## Unattributed [55:48](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3348s)
+
+Yes thank you so much victor I enjoyed your work and I noticed that there's a recurrent motif of filling space with interconnection geometric figures and some geometric fragmentation of the human form I think this presages the internet of things and the filling of our time in space with non-ionized radiation from our ever-present digital devices is there a central philosophy of yours from which this artistic choice emanates
+
+## Victor Acevedo [56:25](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3385s)
+
+Well I think yeah it kind of comes from myself sort of adopting the graphical metaphor to try to express that what I was saying a moment ago is you know things happening in an energy field you know the void plenum the void matrix from the dao of physics so it kind of comes the metaphor comes out of there and to express that graphically I adopted the isotropic vector matrix from buckminster fuller but at the time I was thinking about the!
+
+Of structural energy and also the ocean that's way bigger on the universal level so that's kind of yeah in whatever I'm doing is kind of like just a little bit of a almost like a haiku or a poem as a subset of that you know understanding yes and a foreshadowing because
+
+## Unattributed [57:51](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3471s)
+
+At the time that you created the earlier works this dense filling of our space with ionized non-ionized radiation did not exist I'm most of us didn't know about it yeah so it's like you are peering into the future in a way cool
+
+## Victor Acevedo [58:12](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3492s)
+
+Thank you that's an example of you know a contemporary audience can see things in the work could understand the work bring references to it that someone in the 90s couldn't do or you know in the late 80s there wasn't that the description of reality was nowhere near what it is now for any of us
+
+## Davonte Bradley [58:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3517s)
+
+So thank you for that thank you for that observation thank you for your question and yeah definitely thank you for your observation vina okay all right I think we are kind of out of time for additional questions at this time and so that being said christine would you like to start your presentation
+
+## Christine Sciulli [59:02](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3542s)
+
+Absolutely that was amazing like I honestly never thought about how work that's done before has new tools to describe it they can almost recontextualize the work and yeah that's a little mind-blowing I'm still absorbing that right now okay
+
+## Unattributed [59:22](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3562s)
+
+I'll share my screen I need
+
+## Christine Sciulli [59:28](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3568s)
+
+To move my controls here I'm going to let you know that this is this is the most beautiful part of the show we're going to do is we're going to have a new co-host that's going to be like the new co-host of the show we're going to have s team that's going to be like the co-host of the show it's going to be me and jim not all of us are going to be or are going to be all of us are going to be at the same time so we're going to have s team that's going to be me and jim that's going to be jim and jim and we're going to have the co-host of the show that's going to be jim and jim and way before that I was just working with light. This is an, I love that Victor showed student work because this is an undergraduate piece they did when I was in engineering. And I switched all my classes to art and I called my parents and I said, I just changed to an art major.
+
+Like you can come home and go to community college. So I sort of dumped all of that and went the very next day back to my engineering classes. But this was a piece of plywood. My dad was a wood shop teacher and industrial arts teacher. He was always psyched that he could give kids like an actual skill that they can go on and make a living from, which probably part of his, you know, disinterest in my doing art. But this was plywood that was cut into eighth increments. And it was like pretty regimented. I was working with a bandsaw for the first time and it was kind of intense, but these are just 12 by 12. And I just, there's only one of them. And I changed the way the light landed on it and photographed it. But my inspiration is kind of from everywhere. Definitely light driven, light in shape.
+
+I spent a ton of time doing figure drawing work and then interested in natural phenomenon. Like these little worms that live on the beach that create like crazier patterns than humans sometimes or paper towels. Shout out to the Penrose guy for bounty in those patterns. And also the way that nature carves into space.
+
+So I'm jumped through time. And this is actually, I'm gonna show you a piece based on these carvings through time by water. A piece about reflection that I did at Shirley Feiderman that I had great aspirations for this piece. But I think it was challenging to see for most people but I got what I wanted, which was taking the water shapes that I had photographed and redrawn, transferring them onto the wall and then cutting what I saw as human interventions in the shape of roads through them with tape or just plastic tape.
 
 And then you would see the way the light changed or you would sense yourself in the reflection which is the abstract of the reverse of the water. These drawings I did when I was pregnant with my first child. I have three kids in 2001, 2002. And then two and they kind of constantly come back from my work in a way that I wasn't really thinking of.
 
@@ -207,13 +367,45 @@ So from there, I went on to work, working with lines of light. We did this piece
 
 I think this one. I think this is the video. Yeah. So this is at Islip Art Museum. And this is what happens when you project rotating lines of light through a network of string. I worked with this for a pretty long time as a concept. And let's see, fast forwarding through. The lines can only, the points of light can only be where they are, but because you're in the dark, you don't really understand where it's coming from until your eyes dark adapt. So dark adapting for me is something that I like to play with when people experience my work. It takes about 45 minutes to dark adapt. Some people actually do sit down, lay down on the floor and let it all happen, which I love.
 
-I'm gonna pause this. Sorry, I don't know how to pause it. I do wanna share audio for this, but I don't know if you, can you give me a thumbs up if you hear audio when I play this? Probably not. So these kids are actually, screaming and space and jumping and a silas is, let me see, let's take, let me get that back.
+## Unattributed [01:04:38](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3878s)
 
-Well, maybe it's not time to mess with it, but I did want you guys to be able to hear this. You know, Christine, if maybe if you go out and reshare the screen, but make sure you hit those, check those two boxes for, Oh, which boxes are they? Share audio. When you, if you, if you stop sharing screen for a moment and then share screen again. Okay, stop share. And before you tap on something, look for those boxes to check at the bottom.
+I'm gonna pause this.
 
-Okay, share screen and then, no, I can't, it's okay. Okay. What if I do a new share? I don't wanna stop the flow here. Oh, share sound. All right, let's see. Is that better? Yeah. Yep. It's coming through now. Okay, good. So I was saying, you know, there were people who'd come in and do a saxophone sound and there was someone who was, Hello.
+## Christine Sciulli [01:04:39](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3879s)
 
-All right, they're talking. And anyway, all kinds of sounds would come through the space. This is another riff. I found the line piece, but I, you know, looked at it again, not so long ago, like maybe two years ago or a year ago, just before COVID. This is in a space called Vsauce Projects in Greenport, where I took over like kind of a tiny space in the gallery. And Colin actually saw this piece, which I think is how he found me.
+Sorry, I don't know how to pause it. I do wanna share audio for this, but I don't know if you, can you give me a thumbs up if you hear audio when I play this? Probably not. So these kids are actually, screaming and space and jumping and a silas is, let me see, let's take, let me get that back. Well, maybe it's not time to mess with it, but I did want you guys to be able to hear this.
+
+## Victor Acevedo [01:05:17](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3917s)
+
+You know, Christine, if maybe if you go out and reshare the screen, but make sure you hit those, check those two boxes for,
+
+## Unattributed [01:05:27](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3927s)
+
+Oh, which boxes are they?
+
+## Victor Acevedo [01:05:30](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3930s)
+
+Share audio. When you, if you, if you stop sharing screen for a moment and then share screen again.
+
+## Christine Sciulli [01:05:35](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3935s)
+
+Okay, stop share.
+
+## Victor Acevedo [01:05:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3937s)
+
+And before you tap on something, look for those boxes to check at the bottom.
+
+## Christine Sciulli [01:05:42](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3942s)
+
+Okay, share screen and then, no, I can't, it's okay. Okay. What if I do a new share? I don't wanna stop the flow here. Oh, share sound. All right, let's see. Is that better? Yeah.
+
+## Unattributed [01:06:00](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3960s)
+
+Yep.
+
+## Christine Sciulli [01:06:00](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=3960s)
+
+It's coming through now. Okay, good. So I was saying, you know, there were people who'd come in and do a saxophone sound and there was someone who was, Hello. All right, they're talking. And anyway, all kinds of sounds would come through the space. This is another riff. I found the line piece, but I, you know, looked at it again, not so long ago, like maybe two years ago or a year ago, just before COVID. This is in a space called Vsauce Projects in Greenport, where I took over like kind of a tiny space in the gallery. And Colin actually saw this piece, which I think is how he found me.
 
 This is from a while back after I was stopped working with straight pieces of string, I was working with like, network, like, works of brambles and bushes and going out and harvesting and bringing things back and inhabiting spaces, galleries. And this is the Edward Hopper House Museum up in Nyack. And then Carol Crane, if she's still on, invited me to do a residency at South Fork Natural History Museum after we accidentally ended up talking when a reservation I made for a Warhol walkthrough was, I was too late. I was like three days too late to reserve, but she said, hey, I looked at your website. Would you want to do something with us? So I started working with fabric during that residency with lines and inters through like a mesh of fabric. And this is my friend and collaborator, Janneke Pirna, who's an Estonian artist who works a lot with lines.
 
@@ -229,7 +421,13 @@ And then I went into the space and I had to work in the space. And I think that 
 
 These were by photographer Paul Warchall. He's an architectural photographer. Sorry, my dog. He was just laughing on my chair. That music was from Bodan Kilish who put together a score. The piece was called Royal at Smack Mellon and he put together a score with his band called The Royal Noise. Hold on, I'm gonna let my dog out because he's very excited.
 
-And he had musicians. There was a band called The Royal Noise. There was a band called The Royal Noise. There was Chris Nappy on percussion and Shazad Ismaili on like a tiny little guitar off in a corner. Everyone, all the musicians inhabited the space in different ways. That's Bodan. He had a bass clarinet. It was amazing.
+And he had musicians. There was a band called The Royal Noise. There was a band called The Royal Noise. There was Chris Nappy on percussion and Shazad Ismaili on like a tiny little guitar off in a corner. Everyone, all the musicians inhabited the space in different ways. That's Bodan. He had a bass clarinet.
+
+## Unattributed [01:12:07](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4327s)
+
+It was amazing.
+
+## Christine Sciulli [01:12:11](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4331s)
 
 This was, I was invited to Indianapolis to do a piece at the Heron Art Gallery. There's an art school there. And they gave me a couple of thick moving walls. So I put this sculpture, a soft sculpture over those walls. And this piece is called Subsume. You can see like kind of a corner poking out on the far left side. Space was incredible. It was over 100 feet long. And my family came for the night to visit, which was very sweet.
 
@@ -251,80 +449,474 @@ There. I have a piece up right now in Tribeca. And it's a small installation, bu
 
 I mean, I was... And politics. But that's what I like about art, that it can kind of give you a place to talk about things. I do projection interventions as well. This... I did it in East Hampton on a windmill the night that Ruth Bader Ginsburg died. I put together a projection series to get out the vote. This was a piece that I projected for... I was... Project your vote through Center for Artistic Activism. And then I put together 60 artists who had projections from St. Anne's Warehouse through the East End, trying to get people to get out to vote. So this was my contribution to those videos. And today we're voting out where I live in New York and I think in a lot of other places in the country.
 
-Let me get to the punchline. There we go. Oh. Oh, yeah. And yeah. These are... This was a Guild Hall out in East Hampton and my kid was in second grade at the time. This is class. Having fun. And that's that. Well, thank you very much, Christine. Your presentation was wonderful. And, you know, there's one thing about, you know, that kind of artwork or the artwork that you're doing that it kind of reminds me of... Like I'm not sure if a lot of you have seen this before. But like if you've ever gotten like a piece of cotton and set it on fire, that's the kind of effect that it kind of reminds me of.
+Let me get to the punchline. There we go. Oh. Oh, yeah. And yeah. These are... This was a Guild Hall out in East Hampton and my kid was in second grade at the time. This is class. Having fun. And that's that.
 
-I've never done that. Yeah. It's cool. It's cool. That might be an art form of itself. Some people might use. But that's... It really reminded me of that. It always fascinated me. And your work definitely reminds me of that. It's very beautiful. Cool. So. That being said... I think that's enough about what I think.
+## Davonte Bradley [01:18:47](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4727s)
 
-Let's see what everyone else thinks. Anybody else have any questions or comments? Feel free to leave them in the chat or, you know, raise your hand and we'll get to you in order. Anybody? I'm going to fill in this awkward silence with me just rambling a bit. … I just want to say that today's artists, I'm totally blown away by both of you and just seeing how you've used the tech and adapted the tech to your visions. And so, Victor, I've known Pharrell and now I feel like, wow, you know, we'll have to talk outside of this. Would love to talk more. And, Christine, I love how you're creating these experiences.
+Well, thank you very much, Christine. Your presentation was wonderful. And, you know, there's one thing about, you know, that kind of artwork or the artwork that you're doing that it kind of reminds me of... Like I'm not sure if a lot of you have seen this before. But like if you've ever gotten like a piece of cotton and set it on fire, that's the kind of effect that it kind of reminds me of.
 
-Especially since recently I've had the good fortune to be able to do this. And I've been really fortunate to project onto a building and so interested in this interactive sensibility. So thank you for sharing. And really exciting to see. All right. At my invitation, looks like we have a long line of comments now.
+## Unattributed [01:19:11](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4751s)
 
-We have one question in the chat. From Cynthia. Cynthia, how do you create the lines of light in the soft sculptures? So the ones that are done with fabric were, these are circles. They're cones of light projected through space. So wherever you are in space, you see them from a different point of view. If you were in line with all the projectors, you would just see circles.
+I've never done that.
 
-Neat. All right. Vernita. Go ahead. Thank you for sharing. I'm pronouncing your name correctly, right? It's Vernita. Vernita. I'm sorry. Yeah, right. Vernita. That's all right. Got you. Well, I enjoyed the presentation today very much. And I just wanted to offer my comment that it reminds me of continuous line drawings.
+## Davonte Bradley [01:19:13](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4753s)
 
-But the action is not sequential as it would be. When you're watching someone do a continuous line drawing, but rather it's presenting all possibilities of the line when viewed from different perspectives. Exactly. Vernita, you hit that nail on the head. Thank you. You're welcome. I appreciated that. It just made me smile thinking about it.
+Yeah. It's cool. It's cool. That might be an art form of itself. Some people might use. But that's... It really reminded me of that. It always fascinated me. And your work definitely reminds me of that. It's very beautiful. Cool. So. That being said... I think that's enough about what I think. Let's see what everyone else thinks. Anybody else have any questions or comments? Feel free to leave them in the chat or, you know, raise your hand and we'll get to you in order.
 
-That's really cool. Like no one's ever kind of just summed it up that way. Like to be able to see the line from different perspectives. Yep. And that's what these spaces are for. Yes. I have to share a little bit more. People can't say my name. I actually say Shuli like prosciutto because they can't spell it. So I also appreciate the Vernita like Vernita. I get it.
+Anybody? I'm going to fill in this awkward silence with me just rambling a bit.
 
-All right. Oh, okay. So we have kind of two questions that kind of overlap from Michael and Patrick. Patrick wants to know what's your approach to scaling your work and what power is your projection? And Michael also wants to know if you're using a video projector or lasers or what? I've tried laser projectors and I don't really like the color of light. But as far as lasers go, I haven't used lasers because I don't know. I definitely like people to feel comfortable in the space. And I've always been reluctant to do a laser. For those reasons. And I also have projectors from different angles. A lot of the time. It's hard to avoid the line of sight into them. As far as scalability.
+## Unattributed [01:20:00](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4800s)
 
-I like people to be able to inhabit the space and a lot of people have advised me to make a tabletop version or to make, you know, something that you could put on a wall. And I've. I've tried it. And it's never been satisfying enough to me. So I think while you could scale it way down. Almost to like a nano level. If you had the right, you know, if you had little threads on the right video projector. It's only interesting to me when it's in relationship to human scale.
+. I just want to say that today's artists, I'm totally blown away by both of you and just seeing how you've used the tech and adapted the tech to your visions. And so, Victor, I've known Pharrell and now I feel like, wow, you know, we'll have to talk outside of this. Would love to talk more. And, Christine, I love how you're creating these experiences.
 
-And how and the projectors. How strong. So when I work outside. It depends on how dark it is outside. The video projectors that I use. They are 2000. Almost 3000 lumens. But the thing about them is it's not very strong, except that they have like a million to one black ratio. So the contrast ratio, the video black is really, really, really absent of light. As opposed to some projectors that are a lot stronger, but have. A ratio that's more about projection. And they're not really projecting data. You know, where they just care about. Using DLP or.
+Especially since recently I've had the good fortune to be able to do this. And I've been really fortunate to project onto a building and so interested in this interactive sensibility. So thank you for sharing. And really exciting to see.
 
-I know I have LCD. LCD. But I do like the LP. If I do a big outdoor present project, then I like, like a 10,000 K DLP. 10,000. Thank you. And we have a question from Michael. Another question. Like add one in the chat, but. Yeah. I'll say something to say. I guess my question. Is that I see the complication in the, in the photograph that you have up and those are the cones of light going through. Your. Scans.
+## Davonte Bradley [01:20:45](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4845s)
 
-Surfaces. To make a very complicated image. If you hadn't told me they were projected cones, I would be thinking. And that was one of my earlier questions about the lasers is that there might be some sort of generative component, making these crazy. Shapes move around. And, and so I'm wondering, not, not without a criticism involved in there. How technical is most of your process.
+All right. At my invitation, looks like we have a long line of comments now. We have one question in the chat. From Cynthia. Cynthia, how do you create the lines of light in the soft sculptures?
 
-From on, on the. The electronic side. Not because I, I saw. Yeah. In the, the art museum. And you could actually see that it was Photoshop projected up there. And I was like, I would go. I would go bananas trying to get rid of that stuff and trying to figure out the. Pristine way to do it. And that would be ignoring the fact of. Of every one of those images you showed was just such a delight for the, the people, the kids involved there and the output and.
+## Christine Sciulli [01:21:04](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4864s)
 
-It wasn't. The perfect technology. It seems to me it is the perfect technology because. I like type of control. So when I, when I thought about doing generative work with this. I am less excited about it because then I lose control over what it would be. Right. But it is really important for me for people to understand that these are circles. So in this space, there's always a way for you to see them head on. Because it's about the transmission of light and how it gets caught through space.
+So the ones that are done with fabric were, these are circles. They're cones of light projected through space. So wherever you are in space, you see them from a different point of view. If you were in line with all the projectors, you would just see circles.
 
-You know, I'm not at, I'm not interested in. Making squiggles in space. That would be like a different kind of work. Yeah. But perfect, I guess I didn't. I'm not trying to imply. Correct. But. Like trying to get. Total and precise control for an exact end. And, and what I saw in the kids museum photos was not total control. That was. Perfect for everything that needed to be there. And it here that their cones of light going through creating such.
+## Davonte Bradley [01:21:21](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4881s)
 
-Amazing work. There. So you're talking about the messiness of this. And how it was just about fun. Yes. Without. Deletion. This is just like a big messy sloppy workshop where. Just playing. And, and yeah, but that's. You're saying that those were just cones of light that there wasn't. You are. You said you're using control. And, and I'm not trying. I think I'm.
+Neat. All right. Vernita. Go ahead. Thank you for sharing.
 
-Trying to defend myself. My own question here. If there wasn't a criticism. Thank you. It was amazing. Thank you. All right. We have actually three questions slash comments. Following that. One from the chats. What resolution are your projectors 4k 8k. And my predictors are like simulated 4k. But I, you know, I upgrade them every so often. And it depends on where I'm showing and what projectors they bring to the table. By now, if somebody gives me a. Projector that's not HD. I just say, no, thank you. I can't use it. You know, but in the beginning, of course I used projectors that were like seven 68 by 10 24.
+## Unattributed [01:21:29](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4889s)
 
-Cause that's all someone was giving you. Now you have standards. Yeah. I'm not sure. I'm not sure. I'm not sure. That's always nice. Right. Right. Right. You have a question from Nagin. Yes. Hi. Such amazing project. Thank you so much. I have two questions. Once I did something like that for a project that trying to write. With light.
+I'm pronouncing your name correctly, right? It's Vernita.
 
-And it was so difficult. So I had to do it like, I don't know, like 50 times until we could make it very nice. So I have this question that if you think of a drawing of a special image or composition and try to make it right or just express some movements. And if you express the movement, do you think of your body movement as an expression of like choreography of your body expression or you only think of the lines?
+## Davonte Bradley [01:21:32](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4892s)
+
+Vernita. I'm sorry. Yeah, right.
+
+## Unattributed [01:21:34](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4894s)
+
+Vernita. That's all right. Got you. Well, I enjoyed the presentation today very much. And I just wanted to offer my comment that it reminds me of continuous line drawings. But the action is not sequential as it would be. When you're watching someone do a continuous line drawing, but rather it's presenting all possibilities of the line when viewed from different perspectives.
+
+## Christine Sciulli [01:22:11](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4931s)
+
+Exactly. Vernita, you hit that nail on the head. Thank you.
+
+## Unattributed [01:22:15](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4935s)
+
+You're welcome. I appreciated that. It just made me smile thinking about it.
+
+## Christine Sciulli [01:22:22](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4942s)
+
+That's really cool. Like no one's ever kind of just summed it up that way. Like to be able to see the line from different perspectives.
+
+## Unattributed [01:22:31](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4951s)
+
+Yep. And that's what these spaces are for.
+
+## Davonte Bradley [01:22:35](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4955s)
+
+Yes.
+
+## Christine Sciulli [01:22:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4956s)
+
+I have to share a little bit more. People can't say my name. I actually say Shuli like prosciutto because they can't spell it. So I also appreciate the Vernita like Vernita. I get it.
+
+## Davonte Bradley [01:22:50](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4970s)
+
+All right. Oh, okay. So we have kind of two questions that kind of overlap from Michael and Patrick. Patrick wants to know what's your approach to scaling your work and what power is your projection? And Michael also wants to know if you're using a video projector or lasers or what?
+
+## Christine Sciulli [01:23:14](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=4994s)
+
+I've tried laser projectors and I don't really like the color of light. But as far as lasers go, I haven't used lasers because I don't
+
+## Unattributed [01:23:22](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5002s)
+
+Know. I definitely like people to feel comfortable in the space.
+
+## Christine Sciulli [01:23:24](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5004s)
+
+And I've always been reluctant to do a laser. For those reasons. And I also have projectors from different angles. A lot of the time. It's hard to avoid the line of sight into them. As far as scalability. I like people to be able to inhabit the space and a lot of people have advised me to make a tabletop version or to make, you know, something that you could put on a wall. And I've. I've tried it. And it's never been satisfying enough to me. So I think while you could scale it way down.
+
+Almost to like a nano level. If you had the right, you know, if you had little threads on the right video projector. It's only interesting to me when it's in relationship to human scale.
+
+## Unattributed [01:24:10](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5050s)
+
+And how and the projectors.
+
+## Christine Sciulli [01:24:12](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5052s)
+
+How strong. So when I work outside. It depends on how dark it is outside. The video projectors that I use. They are 2000. Almost 3000 lumens. But the thing about them is it's not very strong, except that they have like a million to one black ratio. So the contrast ratio, the video black is really, really, really absent of light. As opposed to some projectors that are a lot stronger, but have. A ratio that's more about projection. And they're not really projecting data. You know, where they just care about.
+
+## Patrick Lichty [01:24:48](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5088s)
+
+Using DLP or.
+
+## Christine Sciulli [01:24:50](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5090s)
+
+I know I have LCD.
+
+## Patrick Lichty [01:24:53](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5093s)
+
+LCD.
+
+## Christine Sciulli [01:24:54](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5094s)
+
+But I do like the LP. If I do a big outdoor present project, then I like, like a 10,000 K DLP. 10,000.
+
+## Davonte Bradley [01:25:02](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5102s)
+
+Thank you. And we have a question from Michael. Another question. Like add one in the chat, but. Yeah. I'll say something to say.
+
+## Unattributed [01:25:16](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5116s)
+
+I guess my question. Is that I see the complication in the, in the photograph that you have up and those are the cones of light going through. Your. Scans. Surfaces. To make a very complicated image. If you hadn't told me they were projected cones, I would be thinking. And that was one of my earlier questions about the lasers is that there might be some sort of generative component, making these crazy.
+
+Shapes move around. And, and so I'm wondering, not, not without a criticism involved in there. How technical is most of your process. From on, on the. The electronic side. Not because I, I saw. Yeah. In the, the art museum. And you could actually see that it was Photoshop projected up there. And I was like, I would go. I would go bananas trying to get rid of that stuff and trying to figure out the.
+
+Pristine way to do it. And that would be ignoring the fact of. Of every one of those images you showed was just such a delight for the, the people, the kids involved there and the output and. It wasn't. The perfect technology.
+
+## Christine Sciulli [01:26:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5196s)
+
+It seems to me it is the perfect technology because. I like type of control. So when I, when I thought about doing generative work with this. I am less excited about it because then I lose control over what it would be. Right. But it is really important for me for people to understand that these are circles. So in this space, there's always a way for you to see them head on. Because it's about the transmission of light and how it gets caught through space.
+
+You know, I'm not at, I'm not interested in. Making squiggles in space. That would be like a different kind of work.
+
+## Unattributed [01:27:15](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5235s)
+
+Yeah. But perfect, I guess I didn't. I'm not trying to imply. Correct. But. Like trying to get. Total and precise control for an exact end. And, and what I saw in the kids museum photos was not total control. That was. Perfect for everything that needed to be there. And it here that their cones of light going through creating such.
+
+Amazing work. There.
+
+## Christine Sciulli [01:27:47](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5267s)
+
+So you're talking about the messiness of this. And how it was just about fun.
+
+## Unattributed [01:27:53](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5273s)
+
+Yes. Without.
+
+## Christine Sciulli [01:27:55](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5275s)
+
+Deletion. This is just like a big messy sloppy workshop where. Just playing.
+
+## Unattributed [01:28:00](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5280s)
+
+And, and yeah, but that's. You're saying that those were just cones of light that there wasn't. You are. You said you're using control. And, and I'm not trying. I think I'm. Trying to defend myself. My own question here. If there wasn't a criticism. Thank you.
+
+## Christine Sciulli [01:28:19](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5299s)
+
+It was amazing. Thank you.
+
+## Davonte Bradley [01:28:25](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5305s)
+
+All right. We have actually three questions slash comments. Following that. One from the chats. What resolution are your projectors 4k 8k.
+
+## Christine Sciulli [01:28:39](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5319s)
+
+And my predictors are like simulated 4k. But I, you know, I upgrade them every so often. And it depends on where I'm showing and what projectors they bring to the table. By now, if somebody gives me a. Projector that's not HD. I just say, no, thank you. I can't use it. You know, but in the beginning, of course I used projectors that were like seven 68 by 10 24.
+
+Cause that's all someone was giving you.
+
+## Davonte Bradley [01:29:05](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5345s)
+
+Now you have standards. Yeah.
+
+## Christine Sciulli [01:29:07](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5347s)
+
+I'm not sure. I'm not sure. I'm not sure. That's always nice.
+
+## Davonte Bradley [01:29:10](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5350s)
+
+Right. Right. Right. You have a question from Nagin.
+
+## Unattributed [01:29:18](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5358s)
+
+Yes. Hi. Such amazing project. Thank you so much. I have two questions. Once I did something like that for a project that trying to write. With light. And it was so difficult. So I had to do it like, I don't know, like 50 times until we could make it very nice. So I have this question that if you think of a drawing of a special image or composition and try to make it right or just express some movements.
+
+And if you express the movement, do you think of your body movement as an expression of like choreography of your body expression or you only think of the lines?
+
+## Christine Sciulli [01:30:15](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5415s)
 
 Well, it's interesting. It's a good question or comment, because I think that the reason why I ended up putting the figure drawings into the slideshow was literally because there is a relationship that I don't think I've ever had. I was thinking of. But I think it's, again, one of those things that draws you to work that you don't quite realize through your life.
 
-Like there's a direct relation, but it's subconscious. But I think part of what pulls me towards continuing to work with fabric and the circles is something about getting this feeling. So you forgot about your movement and your body and just create what was happening. Yeah. I mean, I play with the speed of the projections of the expansion and contraction circles, which can manipulate how much it feels like, like an austere machine versus like a more lively physical body.
+Like there's a direct relation, but it's subconscious. But I think part of what pulls me towards continuing to work with fabric and the circles is something about getting this feeling.
 
-And do you think of a subject when you do that and playing or playing? No. Well, when I make the pieces, honestly, all I listen to is The National or Philip Glass. I think it's really weird. Thank you. It's all so amazing. So inspiring. Thank you. You definitely reach out if you have any questions, you know, that are partially written in space and you want something, you know. Thank you.
+## Unattributed [01:30:50](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5450s)
 
-All right. Next up, we have Colin, who wants to share or ask a question or make a comment. Yeah, I just wanted to say, you know, thank you, Christine, for coming. And sharing your work with us. You know, definitely very excited about, you know, having you participate in the Southampton Arts Center show too. You definitely talked me into that one space that I thought maybe like would be used for like a place to show a reel. And then you're like, how about that space to do an installation? I was like, you know what, that would probably be a much more compelling use of the space. And plus they have a theater in the back that we could show a reel on. So. That's great.
+So you forgot about your movement and your body and just create what was happening.
 
-That's great. Wait, I just want to say thank you. You guys can all see my screen. To Michael for this comment, because I literally was just writing a proposal for a grant about redistricting in Pennsylvania. And one of my images was Harold and the Purple Crown. So now I feel like that's a good moment.
+## Christine Sciulli [01:30:57](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5457s)
 
-Nice. Sorry, I interrupted. That was cool. Yeah. And, you know, definitely appreciate, you know, Christine was the artist that introduced me to Paul and Paul Miller to the show. And I think that's really important for the group, you know, so that definitely debt of gratitude for that. And also I just wanted to share a link to the chat of a piece that is by Christine's son, Tor Burwell, who is 17. And she sent me this link. And I mean, it was like, you know, Christine and I had shown together this little gallery on the North Fork of Long Island called VSOP. And it was the string projections. And I totally thought, you know, when I first saw the piece just walking up the stairs that it was some sort of high tech laser, you know, installation. And my daughter was with me, too. And she was, I think, five at the time.
+Yeah. I mean, I play with the speed of the projections of the expansion and contraction circles, which can manipulate how much it feels like, like an austere machine versus like a more lively physical body.
 
-And she was just mesmerized by it. And then I saw what it was, that it was string with light projected on it. Wow. You know, and then when it came time to start putting artists together for this Southampton show, I saw that Christine had a piece that wrote. Yeah. You know, the rope piece, the interactive piece hanging in that space in Southampton Arts Centre. And it just sort of clicked. But yeah, I just wanted to say, you know, thanks again. And, you know, hope you keep coming back to visit us, you know, and see what we have going on. But I definitely think that the work speaks to me in terms of having, you know, what I think of as Techspressionism. It sort of embodies that, especially, you know, the site-specific installations. I think it really feels like something very, very different from other work that I've seen before.
+## Unattributed [01:31:14](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5474s)
 
-So that's it. Thanks. Thanks. Okay. And then we have two more questions. Thank you, Colin, for your question in the comments, by the way. We have two more questions. One from Patrick. He wants to know. How do you feel about using fog machines in some of this? Never. Nope. No fog machines. Actually, I had the same kind of thought, too. Yeah.
+And do you think of a subject when you do that and playing or playing?
 
-But definitely lends itself to that appearance, though. You know what? I think part of that is that I use nylon, and the nylon is very translucent. So it glows. And it disappears like a scrim disappears, you know, especially when you first walk into a space. So you really see where the light is. You see where the light is hitting it. It passes through the weave and goes to the next layer. And it's all hand pinned, you know, pretty randomly. I'm the only one who can pin the work for some reason. I've tried to get people, especially in those giant installations. But no one can do it.
+## Christine Sciulli [01:31:21](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5481s)
 
-Nice. And Greg Little wants to know. Are your animations looping? They're looping they're like eight minutes generally like eight to twelve minutes but they're staggered so the space doesn't really repeat they're all different lengths and they don't start in sync and so if you do the math it's a really tough repetition thing all right that's cool okay does anyone else have any questions or comments that they want to leave with oh Roz and go ahead and lower your hand oh you're still muted Roz yes it takes me a little while yes coming from the old school still at it Christine thank you so much I mean both the presentations were wonderful today and I'm so grateful to have you on the show and I'm so grateful to have you on the show and the salons have been so great and I like the warmth of the atmosphere but Christine I just want to say it's not so much a question but I just want to say how much I appreciate that you know that your political voice and what's going on in the world comes is that you play you do you merge that with your work I think that is art I mean I never those concepts of fine art and commercial to me were always kind of like I don't know I get kind of what it is you should go to the heights that you can but I also think we are in the world and of the world and I think it's more powerful that we are so I just want to salute you for that and of course there's a mystery that comes with someone making something very original and creative that isn't up on a billboard or something you know where people encounter it in a way that is much more seminal I think and thank you for your beautiful work I saw your work at Guildhall I think it was with Tony Ousler's work in another room maybe but or I don't know maybe I'm I don't know I like this oh no Tony had his show right after my show that's what you're thinking maybe I was the spring show and he was the summer show I tried to get him to get the projectors I wanted but he wanted projectors that had a different brightness ratio so yeah he's pretty great too but I know your work's very different it is I certainly know the difference but really beautiful work and just thank you so much thank you thanks and thank you Roz for chiming in I'm not sure from the looks of it I think everyone's questions and comments have pretty much been asked I'm not oh we got one from Tommy have you seen Tomas Saraceno oh wait are they in Manhattan are they built in Manhattan like for playground structures Tommy Tommy that's you we're asking you Tom I'm sorry I'm sorry I'm having microphone clicking this actually I think Victor if you haven't seen Star Cena's work also you would really enjoy he uses these sort of structures that are geometric and have this kind of interlocking quality but actually he did also is he somehow had spiders build webs in structures that were in the gallery with a light that I think slightly moved there's a slight movement right to it and so yeah I mean it's really the sort of interweb and I also was thinking like neurons and neural networks coming as I stare like at you and your background it's sort of like very sort of mind extent I was I was talking to a material scientist I was I was trying to like understand how I could build something that wasn't actually nylon and you know like silkworms like how could you get silkworms to kind of spin in a space so I love that you bring that up check out check it out thanks yeah Lee did you have a question or comment yeah first of all my comment is a wonderful presentation I was wondering about the funding you obviously are not selling something that people are walking out so how do you find if I could only make a tabletop just basically from Grant to Grant based on the institution you know they give a budget if I need new projectors you know sometimes they'll get the projectors but they're not selling anything they're not selling anything but they're not selling anything but they're not selling anything projectors at cost for me and then you know I'll make a deal but usually it's just Grant based and the museum or the gallery pays for the flights and everything and for the installation time and a flat fee and then it goes away into a little ball yeah it's really bad impermanence not necessarily intentionally but I just don't have any interest in working differently so all right thank you thank you for your question lee ross did you have another question or no it's your she accidentally put your hand up no I didn't I yes I did have a question it's not really a question you know it's not a question people listen to go does she know what she's doing yes it's just that a lot's going on in the mind at all times I just wanted to say yeah thanks again to both of you but I had to put a shout out to victor I'm sort of loving that the exciting times that yes I was a part of and other people here like cynthia and there are other people here ruben were part of in the 90s I love how that's coming back together and the response that you guys see what was going on and there is something so exciting about seeing the constraints of the machine at that time where the pixels that people like what is last time you name I can't think of it but she's doing these large pixel things and it used to be you couldn't avoid those things and I was painting them in my paintings and they were coming out and all of us it was a different kind of approach and it's just fun to see history being built because it's more powerful for all of us that this story and this lineage goes through digital and yes even back to vermeer and I'm getting to one more point about the lace maker my husband and I purchased a print of the lace maker from victor it's a show that he was having in soho somewhere and I love that it is you know that it's related to vermeer and it's also got the technology and I had actually texted my husband in the middle of this and can you come bring the piece out and just it's somewhere with other work and a lot hanging but he wasn't able to do it but I just I just wanted to add that and I look forward to seeing the book and thank you thank you ross thank you ross I appreciate that you're that you I always feel very grateful that you got that and I'm very happy that you have it in your collection it's a small print from back in the day that was probably 1999 2000 that you acquired it so yes voice yeah grateful beautifully framed we're taking care of it right on okay we are we are down to the last 10 minutes of our wonderful meeting that being said if there's any additional comments or questions for victor or christine please feel free to share them it's like it's open space now like so you can go ahead and start a conversation or you know I could keep rambling for 10 minutes I can totally do that like I have a lot of practice with that oh you know I've got a quick I've got a question for victor and actually the thing is this is great seeing your work through time because I've been familiar with your work for you know since since early 90s and that sort of thing so it's really great to see this trajectory and I'm with michael as I you know what you're gonna have you're gonna sell books you're gonna be fine oh thank you so what happens is that the thing is that what you know in regards to some of the writing I'm doing haven't been showing yet about what's going on here is that I'm kind of looking at the ie right now I'm doing a lot of study of the you know the neo-expressionist movement you know like what you were involved in and I'm blanking on this but I'm going to do a little bit more on you know the other folks I see them from my head but the thing is that what do you see like the through lines in the notion of you know expressionism as it's going through time or the idea of like looking at you know trying to depict the interior state and that sort of thing and how as it keeps kind of like bouncing from expressionism in germany to abex to neo to this community and that sort of thing how do you how do you think you know things are resonating and you know how what are the things that you see what do you think what do you see staying the same what do you see the things that are changing in terms of the expressionist vector that's going through yeah exactly yeah you know I think my personal experience of it is that it's always been there but say maybe in the 80s and 90s it was less than that so for me it's there's just it's not an amazing work of art the imprint of the imagery was computer graphic in a way, you know, and as people were just learning these, you know, the work looked like digital art.
+No. Well, when I make the pieces, honestly, all I listen to is The National or Philip Glass. I think it's really weird. Thank you. It's all so amazing. So inspiring. Thank you. You definitely reach out if you have any questions, you know, that are partially written in space and you want something, you know. Thank you.
 
-We didn't even call it digital art. Right. In those days it was computer art then. But I think as people, as the, as the software becomes more facile and you have a generation of artists that have mastered it. Point where they can really express, you know, their subjective, their unique voice, it just keeps, it just keeps, if anything, turning up the uniqueness factor that's embedded in each person's digital practice. So it's always there, I think. And even for me, I feel like surrealism is always there.
+## Davonte Bradley [01:31:46](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5506s)
 
-You know, especially in the digital, of course. Yeah, yeah. Yeah. I don't know if I'm answering your question. But I think I mean, the Techspressionists is, that's why I think it's a very powerful term. Because it, it's a term that really kind of encompasses, maybe art actions that respond in analog media. But that impulse for mark making or expressing is just, you know, in the computer, if you will, to use an old term or phrase.
+All right. Next up, we have Colin, who wants to share or ask a question or make a comment.
 
-They're brought out of the computer through the human expression. Sure, sure. It's, I think, in many ways, to me, I, you know, and sorry, I don't know if I'm saying this, but I think it's a term that really kind of encompasses I don't want to go on for, but I think the thing is, I'm thinking about this idea, you know, the internal emotional landscape of the Germans versus the action of the AbEx. And then the idea of, you know, just, you know, basically going back to more of the representational practice, you know, with the with the Neos in the in the 80s and 90s, and that sort of thing. And then seeing how that goes, you know, with our ability to represent reality or not, or, you know, the flexibility of the of the, you know, the, you know, the, you know, the technology of the digital platform.
+## Colin Goldberg [01:31:54](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5514s)
 
-I think this is what's very interesting to me. Yeah, I agree. Thanks, Ross. Thanks, Ross. Cool. She found it. That's a vintage piece there. Connecting the 90s. Us old geezers, we're still going here, folks. Yeah. Hopefully for many, many more years. Yes, absolutely. Life is long. Yes. Cool. Michael, did you have Michael Price? I'm sorry, we have a couple of Michaels now. Michael Price, did you have something that you want to share? Yeah, actually.
+Yeah, I just wanted to say, you know, thank you, Christine, for coming. And sharing your work with us. You know, definitely very excited about, you know, having you participate in the Southampton Arts Center show too. You definitely talked me into that one space that I thought maybe like would be used for like a place to show a reel. And then you're like, how about that space to do an installation? I was like, you know what, that would probably be a much more compelling use of the space. And plus they have a theater in the back that we could show a reel on. So.
 
-Christine, thank you for sharing today. I love the organic quality of your work. I love the light against black. I like the black and white kind of vibe because it's pure. There's no distractions. It's in a lot of ways. And for me, they a lot of the imagery feels like you're expressing like what clouds are especially like in storms when lightning lights up the edges of clouds and goes through the clouds. That has a really strong vibe there. And also, when I look at projections or I look at imagery from subatomic cloud chambers, there's a real sense of that organic. That's something purposeful is there. But it's very enveloping. And I just I, I like that a lot. And I like the ephemeral quality of the work as well. So it's very intriguing.
+## Unattributed [01:32:25](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5545s)
 
-And I think as human beings. There's that real world sense of the organic that comes through in your artwork. That I find very satisfying. So thank you. Thank you. I think one of the things that I find like really paradoxical paradoxical about it is it's literally just circles. It's like the most devoid of any content and the most austere shape. Right. And it's just going through space and doing what it doing, but we get an emotional response to what's happening. And it's just so strange to me.
+That's great.
 
-But yeah, I'm happy that it happened. I just lost my earphone. Sorry. You're fine. It happens. Okay, we have like two ish minutes left before we hit our time. So that being said, I think we can go ahead and start closing it out. I will say you don't necessarily have to leave. A lot of us will... Well, not maybe a lot of us, but some of us will still be here after the, you know, official lot of time.
+## Colin Goldberg [01:32:27](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5547s)
+
+That's great.
+
+## Christine Sciulli [01:32:28](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5548s)
+
+Wait, I just want to say thank you. You guys can all see my screen. To Michael for this comment, because I literally was just writing a proposal for a grant about redistricting in Pennsylvania. And one of my images was Harold and the Purple Crown. So now I feel like that's a good moment. Nice.
+
+## Unattributed [01:32:48](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5568s)
+
+Sorry, I interrupted. That was cool. Yeah. And, you know, definitely appreciate,
+
+## Colin Goldberg [01:32:52](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5572s)
+
+You know, Christine was the artist that introduced me to Paul and Paul Miller to the show. And I think that's really important for the group, you know, so that definitely debt of gratitude for that. And also I just wanted to share a link to the chat of a piece that is by Christine's son, Tor Burwell, who is 17. And she sent me this link. And I mean, it was like, you know, Christine and I had shown together this little gallery on the North Fork of Long Island called VSOP. And it was the string projections. And I totally thought, you know, when I first saw the piece just walking up the stairs that it was some sort of high tech laser, you know, installation. And my daughter was with me, too. And she was, I think, five at the time. And she was just mesmerized by it. And then I saw what it was, that it was string with light projected on it.
+
+Wow. You know, and then when it came time to start putting artists together for this Southampton show, I saw that Christine had a piece that wrote. Yeah. You know, the rope piece, the interactive piece hanging in that space in Southampton Arts Centre. And it just sort of clicked. But yeah, I just wanted to say, you know, thanks again. And, you know, hope you keep coming back to visit us, you know, and see what we have going on. But I definitely think that the work speaks to me in terms of having, you know, what I think of as Techspressionism. It sort of embodies that, especially, you know, the site-specific installations. I think it really feels like something very, very different from other work that I've seen before. So that's it.
+
+## Davonte Bradley [01:34:35](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5675s)
+
+Thanks. Thanks. Okay. And then we have two more questions. Thank you, Colin, for your question in the comments, by the way. We have two more questions. One from Patrick. He wants to know. How do you feel about using fog machines in some of this?
+
+## Christine Sciulli [01:34:55](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5695s)
+
+Never. Nope.
+
+## Davonte Bradley [01:34:57](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5697s)
+
+No fog machines. Actually, I had the same kind of thought, too. Yeah. But definitely lends itself to that appearance, though. You know what?
+
+## Christine Sciulli [01:35:06](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5706s)
+
+I think part of that is that I use nylon, and the nylon is very translucent. So it glows. And it disappears like a scrim disappears, you know, especially when you first walk into a space. So you really see where the light is. You see where the light is hitting it. It passes through the weave and goes to the next layer. And it's all hand pinned, you know, pretty randomly. I'm the only one who can pin the work for some reason. I've tried to get people, especially in those giant installations. But no one can do it.
+
+## Davonte Bradley [01:35:38](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5738s)
+
+Nice. And Greg Little wants to know. Are your animations looping?
+
+## Christine Sciulli [01:35:45](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5745s)
+
+They're looping they're like eight minutes generally like eight to twelve minutes but they're staggered so the space doesn't really repeat they're all different lengths and they don't start in sync and so if you do the math it's a really tough repetition thing
+
+## Davonte Bradley [01:36:06](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5766s)
+
+All right that's cool okay does anyone else have any questions or comments that they want to leave with oh Roz and go ahead and lower your hand oh you're still muted Roz
+
+## Roz Dimon [01:36:24](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5784s)
+
+Yes it takes me a little while yes coming from the old school still at it Christine thank you so much I mean both the presentations were wonderful today and I'm so grateful to have you on the show and I'm so grateful to have you on the show and the salons have been so great and I like the warmth of the atmosphere but Christine I just want to say it's not so much a question but I just want to say how much I appreciate that you know that your political voice and what's going on in the world comes is that you play you do you merge that with your work I think that is art I mean I never those concepts of fine art and commercial to me were always kind of like I don't know I get kind of what it is you should go to the heights that you can but I also think we are in the world and of the world and I think it's more powerful that we are so I just want to salute you for that and of course there's a mystery that comes with someone making something very original and creative that isn't up on a billboard or something you know where people encounter it in a way that is much more seminal I think and thank you for your beautiful work I saw your work at Guildhall I think it was with Tony Ousler's work in another room maybe but or I don't know maybe I'm I don't know I like
+
+## Christine Sciulli [01:37:38](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5858s)
+
+This oh no Tony had his show right after my show that's what you're thinking maybe
+
+## Unattributed [01:37:42](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5862s)
+
+I was
+
+## Christine Sciulli [01:37:43](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5863s)
+
+The spring show and he was the summer show I
+
+## Unattributed [01:37:45](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5865s)
+
+Tried
+
+## Christine Sciulli [01:37:45](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5865s)
+
+To get him to get the projectors I wanted but he wanted projectors that had a different brightness ratio so yeah
+
+## Roz Dimon [01:37:51](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5871s)
+
+He's pretty great too but I know your work's very different it is I certainly know the difference but really beautiful work and just thank you so much thank you thanks and
+
+## Davonte Bradley [01:38:03](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5883s)
+
+Thank you Roz for chiming in I'm not sure from the looks of it I think everyone's questions and comments have pretty much been asked I'm not oh we got one from Tommy have you seen Tomas Saraceno
+
+## Christine Sciulli [01:38:25](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5905s)
+
+Oh wait are they in Manhattan are they built in Manhattan like for playground structures
+
+## Tommy Mintz [01:38:33](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5913s)
+
+Tommy Tommy that's you we're asking you Tom I'm sorry I'm sorry I'm having microphone clicking this actually I think Victor if you haven't seen Star Cena's work also you would really enjoy he uses these sort of structures that are geometric and have this kind of interlocking quality but actually he did also is he somehow had spiders build webs in structures that were in the gallery with a light that I think slightly moved there's a slight movement right to it and so yeah I mean it's really the sort of interweb and I also was thinking like neurons and neural networks coming
+
+## Unattributed [01:39:12](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5952s)
+
+As
+
+## Tommy Mintz [01:39:12](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5952s)
+
+I stare like at you and your background it's sort of like very sort of mind extent I was I was talking to a material scientist I was
+
+## Christine Sciulli [01:39:22](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5962s)
+
+I was trying to like understand how I could build something that wasn't actually nylon and you know like silkworms like how could you get silkworms to kind of spin in a space so I love that you bring that up check
+
+## Tommy Mintz [01:39:35](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5975s)
+
+Out check it out thanks yeah
+
+## Victor Acevedo [01:39:38](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5978s)
+
+Lee did you have a question or comment yeah first of all my comment is a wonderful presentation I was wondering about the funding you obviously are not selling something that people are walking out so how
+
+## Christine Sciulli [01:39:53](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5993s)
+
+Do you find if I could only make a tabletop just basically from Grant to Grant based on the institution you know they give a budget if I need new projectors you know sometimes they'll get the projectors but they're not selling anything they're not selling anything but they're not selling anything but they're not selling anything projectors at cost for me and then you know I'll make a deal but usually it's just Grant based and the museum or the gallery pays for the flights and everything and for the installation time and a flat fee and then it goes away into a little ball yeah it's really bad impermanence not necessarily intentionally but I just don't have any interest in working differently so all right
+
+## Davonte Bradley [01:40:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6037s)
+
+Thank you thank you for your question lee ross did you have another question or no it's your she accidentally put your hand up
+
+## Roz Dimon [01:40:47](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6047s)
+
+No I didn't I yes I did have a question it's not really a question you know it's not a question people listen to go does she know what she's doing yes it's just that a lot's going on in the mind at all times I just wanted to say yeah thanks again to both of you but I had to put a shout out to victor I'm sort of loving that the exciting times that yes I was a part of and other people here like cynthia and there are other people here ruben were part of in the 90s I love how that's coming back together and the response that you guys see what was going on and there is something so exciting about seeing the constraints of the machine at that time where the pixels that people like what is last time you name I can't think of it but she's doing these large pixel things and it used to be you couldn't avoid those things and
+
+## Unattributed [01:41:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6096s)
+
+I
+
+## Roz Dimon [01:41:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6097s)
+
+Was painting them in my paintings and they were coming out and all of us it was a different kind of approach and it's just fun to see history being built because it's more powerful for all of us that this story and this lineage goes through digital and yes even back to vermeer and I'm getting to one more point about the lace maker my husband and I purchased a print of the lace maker from victor it's a show that he was having in soho somewhere and I love that it is you know that it's related to vermeer and it's also got the technology and I had actually texted my husband in the middle of this and can you come bring the piece out and just it's somewhere with other work and a lot hanging but he wasn't able to do it but I just I just wanted to add that and I look forward to seeing the book and thank you thank
+
+## Victor Acevedo [01:42:21](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6141s)
+
+You ross thank you ross I appreciate that you're that you I always feel very grateful that you got that and I'm very happy that you have it in your collection it's a small print from back in the day that was probably 1999 2000 that you acquired it so yes voice yeah
+
+## Roz Dimon [01:42:41](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6161s)
+
+Grateful beautifully framed we're taking care of it right
+
+## Victor Acevedo [01:42:46](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6166s)
+
+On
+
+## Davonte Bradley [01:42:49](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6169s)
+
+Okay we are we are down to the last 10 minutes of our wonderful meeting that being said if there's any additional comments or questions for victor or christine please feel free to share them it's like it's open space now like so you can go ahead and start a conversation or you know I could keep rambling for 10 minutes I can totally do that like I have a lot of practice with that oh
+
+## Patrick Lichty [01:43:19](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6199s)
+
+You know I've got a quick I've got a question for victor and actually the thing is this is great seeing your work through time because I've been familiar with your work for you know since since early 90s and that sort of thing so it's really great to see this trajectory and I'm with michael as I you know what you're gonna have you're gonna sell books you're gonna be fine oh thank you so what happens is that the thing is that what you know in regards to some of the writing I'm doing haven't been showing yet about what's going on here is that I'm kind of looking at the ie right now I'm doing a lot of study of the you know the neo-expressionist movement you know like what you were involved in and I'm blanking on this but I'm going to do a little bit more on you know the other folks I see them from my head but the thing is that what do you see like the through lines in the notion of you know expressionism as it's going through time or the idea of like looking at you know trying to depict the interior state and that sort of thing and how as it keeps kind of like bouncing from expressionism in germany to abex to neo to this community and that sort of thing how do you how do you think you know things are resonating and you know how what are the things that you see what do you think what do you see staying the same what do you see the things that are changing
+
+## Victor Acevedo [01:44:42](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6282s)
+
+In terms of the expressionist vector that's going through yeah exactly yeah you know I think my personal experience of it is that it's always been there but say maybe in the 80s and 90s it was less than that so for me it's there's just it's not an amazing work of art the imprint of the imagery was computer graphic in a way, you know, and as people were just learning these, you know, the work looked like digital art. We didn't even call it digital art. Right. In those days it was computer art then.
+
+But I think as people, as the, as the software becomes more facile and you have a generation of artists that have mastered it. Point where they can really express, you know, their subjective, their unique voice, it just keeps, it just keeps, if anything, turning up the uniqueness factor that's embedded in each person's digital practice. So it's always there, I think. And even for me, I feel like surrealism is always there.
+
+## Patrick Lichty [01:45:58](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6358s)
+
+You know, especially in the digital, of course. Yeah, yeah.
+
+## Victor Acevedo [01:46:02](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6362s)
+
+Yeah. I don't know if I'm answering your question. But I think I mean, the Techspressionists is, that's why I think it's a very powerful term. Because it, it's a term that really kind of encompasses, maybe art actions that respond in analog media. But that impulse for mark making or expressing is just, you know, in the computer, if you will, to use an old term or phrase.
+
+They're brought out of the computer through the human expression.
+
+## Patrick Lichty [01:46:37](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6397s)
+
+Sure, sure. It's, I think, in many ways, to me, I, you know, and sorry, I don't know if I'm saying this, but I think it's a term that really kind of encompasses I don't want to go on for, but I think the thing is, I'm thinking about this idea, you know, the internal emotional landscape of the Germans versus the action of the AbEx. And then the idea of, you know, just, you know, basically going back to more of the representational practice, you know, with the with the Neos in the in the 80s and 90s, and that sort of thing. And then seeing how that goes, you know, with our ability to represent reality or not, or, you know, the flexibility of the of the, you know, the, you know, the, you know, the technology of the digital platform. I think this is what's very interesting to me.
+
+## Victor Acevedo [01:47:18](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6438s)
+
+Yeah, I agree.
+
+## Unattributed [01:47:20](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6440s)
+
+Thanks, Ross.
+
+## Victor Acevedo [01:47:21](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6441s)
+
+Thanks, Ross. Cool. She found it. That's a vintage piece there.
+
+## Roz Dimon [01:47:29](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6449s)
+
+Connecting the 90s. Us old geezers, we're still going here, folks. Yeah.
+
+## Davonte Bradley [01:47:36](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6456s)
+
+Hopefully for many, many more years.
+
+## Roz Dimon [01:47:39](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6459s)
+
+Yes, absolutely. Life is long.
+
+## Davonte Bradley [01:47:41](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6461s)
+
+Yes. Cool. Michael, did you have Michael Price? I'm sorry, we have a couple of Michaels now. Michael Price, did you have something that you want to share?
+
+## Michael Pierre Price [01:47:52](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6472s)
+
+Yeah, actually. Christine, thank you for sharing today. I love the organic quality of your work. I love the light against black. I like the black and white kind of vibe because it's pure. There's no distractions. It's in a lot of ways. And for me, they a lot of the imagery feels like you're expressing like what clouds are especially like in storms when lightning lights up the edges of clouds and goes through the clouds. That has a really strong vibe there. And also, when I look at projections or I look at imagery from subatomic cloud chambers, there's a real sense of that organic. That's something purposeful is there. But it's very enveloping. And I just I, I like that a lot. And I like the ephemeral quality of the work as well. So it's very intriguing.
+
+And I think as human beings. There's that real world sense of the organic that comes through in your artwork. That I find very satisfying. So thank you. Thank you.
+
+## Christine Sciulli [01:49:14](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6554s)
+
+I think one of the things that I find like really paradoxical paradoxical about it is it's literally just circles. It's like the most devoid of any content and the most austere shape. Right. And it's just going through space and doing what it doing, but we get an emotional response to what's happening. And it's just so strange to me.
+
+But yeah, I'm happy that it happened. I just lost my earphone. Sorry.
+
+## Davonte Bradley [01:49:44](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6584s)
+
+You're fine. It happens. Okay, we have like two ish minutes left before we hit our time. So that being said, I think we can go ahead and start closing it out. I will say you don't necessarily have to leave. A lot of us will... Well, not maybe a lot of us, but some of us will still be here after the, you know, official lot of time.
 
 But just want to say again, it's just an amazing work. Again, thank you for joining us on our 20th virtual salon. Just that's an amazing feat for me, I think. And I think we should celebrate that a little bit. So give yourselves a round of applause or if you want. And thank you. Thank you very much for joining us here today. Thank you very much, Christine and Victor, for your presentations. They were wonderful. And thank all of you in our audience for your questions and comments and just general input and keeping things interesting. Because I mean, presentations are one thing, but I think feedback and being able to talk about the presentation is just as important. So without your great questions and comments, the presentations would just be what they are.
 
-Thank you. Thank you. Thank you. I tried. Right on. Right on. So we will now. Yeah, well, now we'll wrap up our recording. If the feeling strikes you, Colin, or do you want me to go ahead and wrap it up? All right, we'll close out. Thank you very much. Thanks for moderating. Yeah. Thanks to Victor and Christine for presenting. Thanks so much. Thanks, everybody. Thank you.
+Thank you. Thank you. Thank you. I tried.
+
+## Unattributed [01:51:05](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6665s)
+
+Right on.
+
+## Victor Acevedo [01:51:07](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6667s)
+
+Right on.
+
+## Davonte Bradley [01:51:08](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6668s)
+
+So we
+
+## Unattributed [01:51:09](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6669s)
+
+Will now.
+
+## Davonte Bradley [01:51:10](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6670s)
+
+Yeah, well, now we'll wrap up our recording. If the feeling strikes you, Colin, or do you want me to go ahead and wrap it up? All right, we'll close out. Thank you very much.
+
+## Unattributed [01:51:24](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6684s)
+
+Thanks for moderating.
+
+## Colin Goldberg [01:51:26](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6686s)
+
+Yeah.
+
+## Unattributed [01:51:27](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6687s)
+
+Thanks to Victor
+
+## Colin Goldberg [01:51:29](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6689s)
+
+And Christine for presenting. Thanks so much. Thanks, everybody.
+
+## Unattributed [01:51:33](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=6693s)
+
+Thank you.

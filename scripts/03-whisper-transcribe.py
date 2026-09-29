@@ -93,7 +93,9 @@ def local_search_roots(session):
     base, n = LOCAL_VIDEO_DIR / top, int(session["number"])
     kind = media_type(session)
     if kind == "salon":
-        return [base / f"SALON_{n}"]
+        # Folder names aren't consistently zero-padded (SALON_08 but SALON_10):
+        # try both and keep whichever exists.
+        return [d for d in (base / f"SALON_{n}", base / f"SALON_{n:02d}") if d.is_dir()] or [base / f"SALON_{n}"]
     if kind == "roundtable":
         return [base / f"ROUNDTABLE_{n}"]
     # interview folders are named by first name ("DARCY", "CARI ANN")

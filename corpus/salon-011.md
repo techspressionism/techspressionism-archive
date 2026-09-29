@@ -30,23 +30,83 @@ languages: ["en"]
 
 ## Davonte Bradley [00:02](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2s)
 
-Continue. Oh, there's Patrick. All right, and you are now recording too. Yeah, and I can actually see it. Good. All right. I think I missed a prompt last time. That's good. What, this is number 11, correct? Yep. Okay. All right. All right. Hello, everyone. My name is Davonte Bradley. I will be your moderator for this 11th Expressionism Virtual Salon. We also have in attendance Colin Goldberg, the person that kind of coined the term to Expressionism and started this whole thing off.
+Continue. Oh, there's Patrick. All right, and you are now recording too.
+
+## Unattributed [00:09](https://www.youtube.com/watch?v=e5dH26wP9gk&t=9s)
+
+Yeah, and I can actually see it.
+
+## Davonte Bradley [00:12](https://www.youtube.com/watch?v=e5dH26wP9gk&t=12s)
+
+Good.
+
+## Colin Goldberg [00:12](https://www.youtube.com/watch?v=e5dH26wP9gk&t=12s)
+
+All right. I think I missed a prompt last time.
+
+## Davonte Bradley [00:16](https://www.youtube.com/watch?v=e5dH26wP9gk&t=16s)
+
+That's good. What, this is number 11, correct? Yep. Okay. All right. All right. Hello, everyone. My name is Davonte Bradley. I will be your moderator for this 11th Expressionism Virtual Salon. We also have in attendance Colin Goldberg, the person that kind of coined the term to Expressionism and started this whole thing off.
 
 He will be our timekeeper. And our recorded session will be two hours. So we'll be wrapping up around 4pm today, Eastern Time. Not quite sure why. I don't know what other people's time zones are, but two hours from now. We have, we're going to start things off with a presentation from five artists.
 
-And then we're going to go into a, you know, informal greeting chatting session and then whatever else business needs to be taken care of. We'll come after that. All right.
+And then we're going to go into a, you know, informal greeting chatting session and then whatever else business needs to be taken care of. We'll come after that. All right. So, that being said, our first presentation will be from Steve Miller. So go ahead and introduce yourself and you have the floor.
 
-## Steve Miller [01:20](https://www.youtube.com/watch?v=e5dH26wP9gk&t=80s)
+## Steve Miller [01:31](https://www.youtube.com/watch?v=e5dH26wP9gk&t=91s)
 
-So, that being said, our first presentation will be from Steve Miller. So go ahead and introduce yourself and you have the floor. Yeah. Okay. Thanks Devante. I'm sorry that I've been to a few of the early meetings and I can't sit through this whole meeting either. So my apologies. And the reason is that is I'm running a company, which I'll tell you about in a second. But I'm just going to do a screen share. Let's see.
+Yeah. Okay. Thanks Devante. I'm sorry that I've been to a few of the early meetings and I can't sit through this whole meeting either. So my apologies. And the reason is that is I'm running a company, which I'll tell you about in a second. But I'm just going to do a screen share. Let's see. You guys see my screen or no?
 
-You guys see my screen or no? No. Okay. This is always like trying to figure this out. It might have to, like, it takes a minute sometimes for it to actually pull up. It's not showing. I'm always guilty of not clicking share in the bottom corner. After you say share meeting, you have to still click share. Okay, share screen, right? That's what I click on.
+## Jan Swinburne [01:55](https://www.youtube.com/watch?v=e5dH26wP9gk&t=115s)
 
-And then these are not mine. Do you see anything on the screen right now? Nope, nothing yet. There's still a second thing you have to click, though. Oh, optimize screen sharing for video clip. Share sound. Select basic. All right, so this is a guy that runs a computer company, and I haven't done this. It happens. So I just click share, and have you guys allowed me to share it?
+No.
 
-Everyone should have screen sharing privileges. Not sure. You should see, like, an image of your desktop, you know, with the desktop one or two, depending on how many monitors you have, and you should be able to select one of those. Okay, let's try this. Let's try that. Are we on? Yep, looks like there it is. Okay, all right. So maybe we're close. Let's see how far we get on this.
+## Steve Miller [01:56](https://www.youtube.com/watch?v=e5dH26wP9gk&t=116s)
 
-Just going to kind of do this quick. I think it's about 10 minutes. Is that the story? Ish. Okay, so, you know, Devante, you're talking about, you know, philosophy and reading, and these next series of images are from the 1980s, believe it or not. This is 1982. And how did I get here? I was doing a lot of reading. I was reading philosophy. I was reading Foucault. I was reading Roland Barthes, the Frankfurt School, you know, Horkheimer, Adorno, Marcuse, eventually became. Friends with Jean Baudrillard. And, you know, in 1980, you know, I noticed this new thing, the universal barcode, right? And so I was, because I was reading these people and thinking about changes in society, I was just thinking about, you know, way culture was moving.
+Okay. This is always like trying to figure this out.
+
+## Davonte Bradley [01:59](https://www.youtube.com/watch?v=e5dH26wP9gk&t=119s)
+
+It might have to, like, it takes a minute sometimes for it to actually pull up.
+
+## Steve Miller [02:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=125s)
+
+It's not showing.
+
+## Roz Dimon [02:07](https://www.youtube.com/watch?v=e5dH26wP9gk&t=127s)
+
+I'm always guilty of not clicking share in the bottom corner. After you say share meeting, you have to still click share.
+
+## Steve Miller [02:14](https://www.youtube.com/watch?v=e5dH26wP9gk&t=134s)
+
+Okay, share screen, right? That's what I click on. And then these are not mine. Do you see anything on the screen right now?
+
+## Davonte Bradley [02:21](https://www.youtube.com/watch?v=e5dH26wP9gk&t=141s)
+
+Nope, nothing yet.
+
+## Roz Dimon [02:23](https://www.youtube.com/watch?v=e5dH26wP9gk&t=143s)
+
+There's still a second thing you have to click, though.
+
+## Steve Miller [02:25](https://www.youtube.com/watch?v=e5dH26wP9gk&t=145s)
+
+Oh, optimize screen sharing for video clip. Share sound. Select basic. All right, so this is a guy that runs a computer company, and I haven't done this. It happens. So I just click share, and have you guys allowed me to share it?
+
+## Davonte Bradley [02:51](https://www.youtube.com/watch?v=e5dH26wP9gk&t=171s)
+
+Everyone should have screen sharing privileges.
+
+## Unattributed [02:55](https://www.youtube.com/watch?v=e5dH26wP9gk&t=175s)
+
+Not sure.
+
+## Roz Dimon [02:57](https://www.youtube.com/watch?v=e5dH26wP9gk&t=177s)
+
+You should see, like, an image of your desktop, you know, with the desktop one or two, depending on how many monitors you have, and you should be able to select one of those.
+
+## Steve Miller [03:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=185s)
+
+Okay, let's try this. Let's try that. Are we on? Yep, looks like there it is. Okay, all right. So maybe we're close. Let's see how far we get on this. Just going to kind of do this quick. I think it's about 10 minutes. Is that the story? Ish. Okay, so, you know, Devante, you're talking about, you know, philosophy and reading, and these next series of images are from the 1980s, believe it or not. This is 1982. And how did I get here? I was doing a lot of reading. I was reading philosophy. I was reading Foucault. I was reading Roland Barthes, the Frankfurt School, you know, Horkheimer, Adorno, Marcuse, eventually became. Friends with Jean Baudrillard. And, you know, in 1980, you know, I noticed this new thing, the universal barcode, right? And so I was, because I was reading these people and thinking about changes in society, I was just thinking about, you know, way culture was moving.
 
 And Foucault had written a piece about power in a book called _Power/Knowledge_. And he wrote about a prison system in the old version of power up until now was like, you know, like an impenitent patrol castle wall or a prison wall and you couldn't see in. And there was this design of a new prison where they put the guard tower in the center of the prison. The prisoners were in a donut ring, you know, around that, and there are windows on both sides. So you got to see the shadow of the prisoner, and you could always be observing the person in prison. So I started thinking about power relationships, transparency of power. And I just started, you know, playing around with digitizing images, thinking about labor.
 
@@ -80,29 +140,49 @@ This is another kind of crazy, you know, slide. That's the background of the fav
 
 Yeah, I'll just end with these. Oh, actually, you know what? I'm going to end with this. So what I'm doing now is something called surfboards. I'm calling them chalkboards. And it's a series of surfboards with the chalkboard images from CERN. And I just like the idea that the way these things are kind of like, you know, iconic trophies that people hang on their wall. And I thought it was another way to kind of get involved with the art making. The object. And thanks so much for letting me take your time.
 
-Awesome. And Steve, could you paste a couple links into the chat so people could check out your site? You know, like your own Web site, maybe Help for the Planet, Arturnal and your Instagram? OK, I'll start typing them in. Yeah. So there's just there's my own Web site, which I'll type in Steve Miller dot com. There's a commercial site that's stevebiller.art, just about selling.
+## Colin Goldberg [15:57](https://www.youtube.com/watch?v=e5dH26wP9gk&t=957s)
 
-There's a fashion site that's healthoftheplanet.art. And then my company is called Arternal, and I'll put the links in. So I'm trying to, you know, the thing about Arternal is that I really saw it as an art piece. And I understood that data visualization of the art world would be something interesting to do. And the only way you could do that visualization, because data is, you know, is highly prized, is to actually own the data. So I thought, OK, I'm going to have to create a company to own the data. Once I own the data, I'll be able to get into a data visualization, which, Mate, you better, like, start studying up, because he's the guy that's going to help me do it. Thanks.
+Awesome. And Steve, could you paste a couple links into the chat so people could check out your site? You know, like your own Web site, maybe Help for the Planet, Arturnal and your Instagram?
 
-Thanks, Steve. And I met Steve as an undergrad through an internship, actually, through Southampton College. Where I worked for him as a studio assistant. So that's how he and I first met. That was back in, I think, 1992. And, you know, I learned how to pull silk screens. But also, that was the first time I was, you know, inside a working artist studio, which Steve is in now. And definitely, you know, a life-changing experience, you know. So thanks, Steve. Thanks for coming and showing us your stuff. Thanks, Steve. I'll just. Not to put Mate on the spot, but I've been lucky enough to have amazing people helping me.
+## Steve Miller [16:08](https://www.youtube.com/watch?v=e5dH26wP9gk&t=968s)
 
-Colin for years. And, as a matter of fact, I got my internet. I have stevemiller.com, if you can imagine that. And that's because I had met Colin at that time. I'd heard about this thing called domains, you know, just like in that universal barcode that I showed you in 1980. Like, what the hell is that? You know, and, oh, there's domains. And I was lucky enough with Colin and another friend. And in those days, you waited three months to get your domain. So for three months, I'm waiting for, oh, can I get Steve Miller, which I finally got. And then.art, because I was an early adopter, gave me a domain at.art. And, you know, that sort of led me to this whole data paradigm shift, which led to our eternal. So appreciate you allowing me to speak.
+OK, I'll start typing them in. Yeah. So there's just there's my own Web site, which I'll type in Steve Miller dot com. There's a commercial site that's stevebiller.art, just about selling. There's a fashion site that's healthoftheplanet.art. And then my company is called Arternal, and I'll put the links in. So I'm trying to, you know, the thing about Arternal is that I really saw it as an art piece. And I understood that data visualization of the art world would be something interesting to do. And the only way you could do that visualization, because data is, you know, is highly prized, is to actually own the data. So I thought, OK, I'm going to have to create a company to own the data. Once I own the data, I'll be able to get into a data visualization, which, Mate, you better, like, start studying up, because he's the guy that's going to help me do it.
 
-We appreciate you sharing all that you shared. It was amazing. I actually love the segmentation between, or the, not even segmentation, just the implementation of just art, science, and just all of that. Environmentalism. And it was amazing. Thank you.
+Thanks.
 
-## Ryan Henderson [19:00](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1140s)
+## Colin Goldberg [17:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1025s)
 
-All right. So moving right along. Our next presenter would have been Peter Borges, but it doesn't seem like he's inattentive. So we are going to move on to Ryan Henderson, who would be next right after him. So go ahead, Ryan. You have the floor. Can you hear me? Yep. Okay. So my video is probably going to cut out at some point, but I have some other stuff to show you.
+Thanks, Steve. And I met Steve as an undergrad through an internship, actually, through Southampton College. Where I worked for him as a studio assistant. So that's how he and I first met. That was back in, I think, 1992. And, you know, I learned how to pull silk screens. But also, that was the first time I was, you know, inside a working artist studio, which Steve is in now. And definitely, you know, a life-changing experience, you know. So thanks, Steve. Thanks for coming and showing us your stuff.
 
-Background, I don't know anything about art. So I'm hoping, you know, I've been watching these salon videos. And they've been really helpful and just learning terms and things like that. So I'm glad I found a group to kind of learn about this kind of stuff. I kind of stumbled into the art world, I guess. I'm an engineer.
+## Steve Miller [17:41](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1061s)
+
+Thanks, Steve. I'll just. Not to put Mate on the spot, but I've been lucky enough to have amazing people helping me. Colin for years. And, as a matter of fact, I got my internet. I have stevemiller.com, if you can imagine that. And that's because I had met Colin at that time. I'd heard about this thing called domains, you know, just like in that universal barcode that I showed you in 1980. Like, what the hell is that? You know, and, oh, there's domains. And I was lucky enough with Colin and another friend. And in those days, you waited three months to get your domain. So for three months, I'm waiting for, oh, can I get Steve Miller, which I finally got. And then.art, because I was an early adopter, gave me a domain at.art. And, you know, that sort of led me to this whole data paradigm shift, which led to our eternal.
+
+So appreciate you allowing me to speak.
+
+## Davonte Bradley [18:35](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1115s)
+
+We appreciate you sharing all that you shared. It was amazing. I actually love the segmentation between, or the, not even segmentation, just the implementation of just art, science, and just all of that. Environmentalism. And it was amazing. Thank you. All right. So moving right along. Our next presenter would have been Peter Borges, but it doesn't seem like he's inattentive.
+
+So we are going to move on to Ryan Henderson, who would be next right after him. So go ahead, Ryan. You have the floor. Can you hear me? Yep.
+
+## Ryan Henderson [19:27](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1167s)
+
+Okay. So my video is probably going to cut out at some point, but I have some other stuff to show you. Background, I don't know anything about art. So I'm hoping, you know, I've been watching these salon videos. And they've been really helpful and just learning terms and things like that. So I'm glad I found a group to kind of learn about this kind of stuff. I kind of stumbled into the art world, I guess. I'm an engineer.
 
 And just kind of through my engineering, I kind of was making pictures that looked kind of like what Steve Miller was talking about. Data visualization is a big thing with engineers. You know, you have to explain your data. But I kind of, you know, started making things a little bit more colorful and then figuring out different things. And then I found out I had something kind of unique and new. So that's what I'll kind of be talking about today. So let me try to share my screen and see if I have any luck.
 
 Okay. Did that work? Can you guys see this? Yep. Yes. All right. Okay. Hopefully you can see that. So as an engineer, I like PowerPoint. So sorry if this is not typical. But anyway, I wanted to give you kind of a background on what I do is I make art out of music. So the data that is music, I shape it in certain ways. So kind of wanted to give you a little of the basics on what sound is. And how I visually get to the art part.
 
-So if you didn't know, sound is just kind of vibrations you can hear. Can you hear me? Yep. We can hear you now. Okay. Sorry. Cut out. All right. Sorry about that. So anyway, the and you might just have to wave your hand Davo if you can't hear me again. Gotcha. Sorry about that. For some reason, my webcam doesn't like zoom.
+So if you didn't know, sound is just kind of vibrations you can hear. Can you hear me? Yep.
 
-Anyway, so yeah, hopefully you saw the waves moving across. So this is just kind of a visualization of what a sound wave looks like. So there's a sound source and, you know, there's this pressure wave that kind of goes across. And. You eventually pick it up with your ears or if it's computer related, it's with the microphone.
+## Unattributed [21:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1294s)
+
+We can hear you now. Okay. Sorry. Cut out.
+
+## Ryan Henderson [21:38](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1298s)
+
+All right. Sorry about that. So anyway, the and you might just have to wave your hand Davo if you can't hear me again. Gotcha. Sorry about that. For some reason, my webcam doesn't like zoom. Anyway, so yeah, hopefully you saw the waves moving across. So this is just kind of a visualization of what a sound wave looks like. So there's a sound source and, you know, there's this pressure wave that kind of goes across. And. You eventually pick it up with your ears or if it's computer related, it's with the microphone.
 
 So and then actually, let's try to see if I can do that. Okay. There you go. So you can see there's kind of like, you know, hills and valleys. And that's, that's what a frequency is. It's, it's a certain amount of time that kind of crosses your eardrum. And that's what your, your brain is kind of understanding as a certain frequency. So that's kind of a pure tone. So if it looks like it's a nice and smooth, they call that a pure tone. So, I guess you could consider that art. Why not? You could also consider a con complex tone art too, right? That's just something that has a lot more squiggles in it. But it's basically the same thing. It's just, it has a whole bunch of frequencies kind of all clustered into each other. So even your voice is a complex tone.
 
@@ -110,57 +190,177 @@ So again, that, that could also be art, but you know, to me, that's not super in
 
 And so you can kind of see, you can see where the quiet parts are, the loud parts. So, and if you've ever been to SoundCloud or even just typed in Soundwave art, that's what I kind of just took a picture of over there. You'll see a lot of this stuff. And that is a picture that's, that's great. And, you know, people have made it their own, but I wanted to take it a step further. So the. The missing. Component here is you're not seeing, the frequency content involved in this.
 
-I think your mic cut out again, unless you're saying words. Yes. No, maybe. Well, technical difficulties do abound. Hard to be expected. Ryan, I'm not sure if you can hear me or not. And I'm not sure if you're saying anything, but you got no audio on your end. Can you hear me? Yes. All right. I'm sorry, guys. I'm going to fly through this. I know I'm having a lot of difficulties here. But so the third component is the frequency content. I think I left somewhere off on that. Frequency content is the thing, it's just stuff that you can actually hear, you know.
+## Davonte Bradley [24:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1468s)
 
-Think about a piano, the pianos have these pure frequency tones of, you know, A4 is this particular frequency, you know, and E5 is this particular frequency. So there's a whole, I mean, there's all this frequency that you get from a song that your brain can understand, but if you're just seeing it how I laid it out in this past one, you don't see it. So I use an algorithm called the Fourier Transform that can actually take apart a sound wave into those frequency content. And so what I do with that is for about a second of a song, I take it apart and I put it into theune and I put it into theahannsheater and I put it into snapshot and I use that algorithm to figure out what's going on frequency-wise at that second. And then you could do that for the next second and the next second and so on.
+I think your mic cut out again, unless you're saying words. Yes. No, maybe. Well, technical difficulties do abound. Hard to be expected. Ryan, I'm not sure if you can hear me or not. And I'm not sure if you're saying anything, but you got no audio on your end.
 
-So what you end up doing is you could stack all those into one picture, which is what I do here. So I colored all of this in time just to kind of show, but time starts at the very, I guess, bottom of the page and goes to the back of the page. So from the white to the blue of the back. And then if you look at going from right to left, that's the frequency content. And however loud those frequencies are, those are those humps that you see kind of throughout the image there. So now I've built a 3D kind of model of what a song looks like. And so you can see the frequency, like lows, it means like, you know, you're drumming. You're playing drums and bass and then mids and highs are like voices and, you know, maybe guitar squeals and things like that. So you can actually kind of see what the song looks like at any particular point in the song.
+## Ryan Henderson [25:00](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1500s)
 
-And so each slice is one second of the song. I can slice it any way I want, but I generally do it in one second increments. So just kind of zooming in on the same image now. So if you were to just take one of those, one of those lines and just kind of look at it, that's that particular second in the song. And it has that frequency content.
+Can you hear me?
+
+## Davonte Bradley [25:01](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1501s)
+
+Yes.
+
+## Ryan Henderson [25:02](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1502s)
+
+All right. I'm sorry, guys. I'm going to fly through this. I know I'm having a lot of difficulties here. But so the third component is the frequency content. I think I left somewhere off on that. Frequency content is the thing, it's just stuff that you can actually hear, you know. Think about a piano, the pianos have these pure frequency tones of, you know, A4 is this particular frequency, you know, and E5 is this particular frequency. So there's a whole, I mean, there's all this frequency that you get from a song that your brain can understand, but if you're just seeing it how I laid it out in this past one, you don't see it. So I use an algorithm called the Fourier Transform that can actually take apart a sound wave into those frequency content. And so what I do with that is for about a second of a song, I take it apart and I put it into theune and I put it into theahannsheater and I put it into snapshot and I use that algorithm to figure out what's going on frequency-wise at that second.
+
+And then you could do that for the next second and the next second and so on. So what you end up doing is you could stack all those into one picture, which is what I do here. So I colored all of this in time just to kind of show, but time starts at the very, I guess, bottom of the page and goes to the back of the page. So from the white to the blue of the back. And then if you look at going from right to left, that's the frequency content. And however loud those frequencies are, those are those humps that you see kind of throughout the image there. So now I've built a 3D kind of model of what a song looks like. And so you can see the frequency, like lows, it means like, you know, you're drumming. You're playing drums and bass and then mids and highs are like voices and, you know, maybe guitar squeals and things like that.
+
+So you can actually kind of see what the song looks like at any particular point in the song. And so each slice is one second of the song. I can slice it any way I want, but I generally do it in one second increments. So just kind of zooming in on the same image now. So if you were to just take one of those, one of those lines and just kind of look at it, that's that particular second in the song. And it has that frequency content.
 
 So that's kind of the basics of what I do. So you can see that it kind of starts out as just this 3D plane. And then if I wanted to, you know, I could just zoom in. Hey, there's a picture that looks really, really great. Or I could twist it and it would look like that. Or I could roll it up into a ball and it would look like that. So that's kind of the basics of what I do. I have kind of different algorithms on top of sorting the frequency content out. And I have, I just, I try to come up with some all the time. I have hundreds of them and I just kind of throw them on whenever I get a chance. But I will show you my website just for a few more pictures.
 
 So this is Moonlight Sonata. It's that same kind of sphere one that I showed earlier. Bohemian Rhapsody. Just, I just take kind of any song, or any sound really would work. But I mostly like doing songs because they're fun. Especially when people get kind of their favorite songs. Yeah. That's pretty much it. Thanks for bearing with me through the technical difficulties.
 
-Any questions? Jeff Bullas So do not feel shy to use the Zoom features, like the raise your hand feature, if you're familiar with that. So you can go ahead and do that if you would like to ask a question or, you know, just unmute yourself. And I kind of hope you behave civilly with your discussion.
+Any questions?
 
-Okay, so we got Roz to go first. Thank you. That was interesting. I always loved whenever I worked with sound, I just love looking at those sound waves. So it was interesting to hear your presentation. My question is, are you actually doing the whole song like Bohemian Rhapsody or, you know, are you doing the whole song or are you just taking little pieces of it and calling it that? I'm just curious if it's a complete data, you know, visualization. Sure, yeah, yeah. Yeah, it is the whole song. Sometimes I zoom in. So, you know, you'd only be looking. I had a certain section of it. But yeah, I process the whole song first and then whatever view looks great.
+## Davonte Bradley [29:02](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1742s)
 
-I go with that. And do you ever think of maybe that might go back in animation and you actually put the sound with it or do you want to be more abstract about it? So I have done that. At some point, it kind of gets to like being a, what is it? Windows media player, you know, the. A lot of people have asked for video of it, but it kind of.
+Jeff Bullas So do not feel shy to use the Zoom features, like the raise your hand feature, if you're familiar with that. So you can go ahead and do that if you would like to ask a question or, you know, just unmute yourself. And I kind of hope you behave civilly with your discussion. Okay, so we got Roz to go first.
 
-I'd rather show the whole song because I don't think many people have ever seen it like that. So, yeah, I like it. Keeping it abstract, I guess. But I have done videos. It's interesting because, well, I know there are other questions, I'll let them go, but it just seems like you could do so much with this, too, and playing it a different way, like, you know, the way we're telling stories that are not analog anymore and stuff like that. OK, but I'll be quiet. And thank you very much. Yeah, thanks.
+## Roz Dimon [29:30](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1770s)
 
-All right. And next up, we have Matej. Oh, hey, I'm just curious what programming language or software are you using to make that? So right now it's MATLAB and I'm kind of transitioning it over to Python. So MATLAB is more of an engineering tool, and it's not really a language, but. Because there are also like, you know, open frameworks or processing that, you know, program and like compilers and yeah, it's great.
+Thank you. That was interesting. I always loved whenever I worked with sound, I just love looking at those sound waves. So it was interesting to hear your presentation. My question is, are you actually doing the whole song like Bohemian Rhapsody or, you know, are you doing the whole song or are you just taking little pieces of it and calling it that? I'm just curious if it's a complete data, you know, visualization.
 
-It's very, very great work and to consider yourself not an artist prior to this, that's, that's, you're definitely making some waves. All right. Well, thank you very much, Ryan. If no one else has any questions, we can move right along. Our next presenter. Does anybody else have any more questions before we go?
+## Ryan Henderson [29:56](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1796s)
 
-Anybody? Anybody else? Going once, going twice. All right, moving on.
+Sure, yeah, yeah. Yeah, it is the whole song. Sometimes I zoom in. So, you know, you'd only be looking. I had a certain section of it. But yeah, I process the whole song first and then whatever view looks great. I go with that.
 
-## Lauren Woods [32:23](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1943s)
+## Roz Dimon [30:14](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1814s)
 
-All right, Lauren Woods. Lauren Woods. If you are here, you can go ahead unmute yourself. I'm not actually seeing you. You're here? All right, there you are. Okay. You have the floor. Okay. Oh, no. Hi, I'm Lauren Woods, and I am an artist and a writer. I'm a writer and a writer. I'm a writer and a writer. I'm a writer and an artist and professor based in Alabama, working at Auburn University.
+And do you ever think of maybe that might go back in animation and you actually put the sound with it or do you want to be more abstract about it?
 
-My work is a thematic exploration of the concept of mythic time through painting, dance, video, and digital animation. The piece I'm going to show you today is from a collaborative project called Body Tides that I did with a choreographer named Billy. Billy Blanken of Sheep Meadow Dance Theater. This is him.
+## Ryan Henderson [30:22](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1822s)
 
-I created the digital animation and concept. He choreographed it and is performed by the dancers of Sheep Meadow Dance Theater with original music by Jack Ray. This was a live stream event produced by 10K Productions at Culture Lab LIC at the Plaxall Gallery in Long Island City, New York. So I'm going to show like an excerpt of the video. I'm not sure if the sound is going to work, but we'll see.
+So I have done that. At some point, it kind of gets to like being a, what is it? Windows media player, you know, the. A lot of people have asked for video of it, but it kind of. I'd rather show the whole song because I don't think many people have ever seen it like that. So, yeah, I like it. Keeping it abstract, I guess. But I have done videos.
 
-Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. All right, that's all I have for today. Thank you. All right. That was definitely an experience and one that I was not exactly sure about. For us to have in our Zoom meetings, which is why I love these things so much. We have so many different kinds of artists with such different and amazing work.
+## Roz Dimon [30:49](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1849s)
 
-One thing, though, would you mind telling us a little bit about your process before we go into any question and answer session? Yeah. So I always start with paintings, like physical paintings, because I can't start digitally. I get lost. So having something tangible helps me. And then I edit them on my iPad using Adobe Fresco and cut it into layers. And then you kind of have to kind of visualize them like stage sets. So I cut pieces and you have to paint behind them. So if you move something, there's still an image behind it. And then I animate them in After Effects.
+It's interesting because, well, I know there are other questions, I'll let them go, but it just seems like you could do so much with this, too, and playing it a different way, like, you know, the way we're telling stories that are not analog anymore and stuff like that. OK, but I'll be quiet. And thank you very much. Yeah, thanks.
 
-Okay. All right. Thank you. Looks like we do have one question off the bat from Michael. So I'll go ahead and give him the floor. Okay, thanks. Mark, you mentioned your interest or your focus on mythic time. Could you give me your definition of that or kind of how you see that? Okay. The way I am imagining mythic time is kind of like this place that exists outside of linear time that we can tap into like with ritual. So usually as a student, like when you're doing plastic, like you're doing.
+## Davonte Bradley [31:04](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1864s)
 
-I'm sorry, I didn't get that. Is that Kara? Kara? Kara? Wilted? All right. Hi. Yes. I'm here. Okay. How are you? All right. I'm sorry. I'm into some meetings. This is a mess. Okay. I just noticed that it was our time too. So how are you? Okay. I thought you had a question. That's why I was asking you. No, no, no. I just entered the room. Gotcha. Huh. Anybody else have any questions about?
+All right. And next up, we have Matej.
 
-Lauren's work? Yeah, can I say one thing? Sure. It's not really a question. I just wanted to see, first of all, that was beautiful, really beautiful. I really like the fact that they were wearing the face masks. I know it's because of COVID, but I thought it added another entire layer to the work about silence and communication.
+## Matej Vakula [31:08](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1868s)
 
-And I think it just really added something really lovely to it. So thank you. Thank you. Yeah, it actually ended up working conceptually. That's always a good feeling too. By the way, guys, you don't necessarily have to have a question. You can speak if you just have a comment that you wanted to share too about what the presentation. So that's cool too. It's no big deal.
+Oh, hey, I'm just curious what programming language or software are you using to make that?
 
-All right. And if we have no further questions or questions, we'll be right back. We can go ahead and get on with Jan Swinburne presentation. Is she here in attendance? I think I saw you.
+## Ryan Henderson [31:16](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1876s)
 
-## Jan Swinburne [43:30](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2610s)
+So right now it's MATLAB and I'm kind of transitioning it over to Python. So MATLAB is more of an engineering tool, and it's not really a language, but.
 
-Let me see. Jan, you here? Yes, I'm unmuting myself. There you are. Okay. Let's just see if I can manage the screen share. Desktop. Okay. Let's go with desktop. Hold shift to select. Share. Okay. All right. So I did a just a quick overview of my practice. Not a lot of words, but I'm interested in generation and degeneration and regeneration of images, audio and audio visualizations.
+## Matej Vakula [31:35](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1895s)
+
+Because there are also like, you know, open frameworks or processing that, you know, program and like compilers and yeah,
+
+## Davonte Bradley [31:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1905s)
+
+It's great. It's very, very great work and to consider yourself not an artist prior to this, that's, that's, you're definitely making some waves. All right. Well, thank you very much, Ryan. If no one else has any questions, we can move right along. Our next presenter. Does anybody else have any more questions before we go?
+
+Anybody? Anybody else? Going once, going twice. All right, moving on. All right, Lauren Woods. Lauren Woods. If you are here, you can go ahead unmute yourself. I'm not actually seeing you.
+
+## Unattributed [32:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1954s)
+
+You're here? All right, there you are.
+
+## Davonte Bradley [32:36](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1956s)
+
+Okay. You have the floor.
+
+## Unattributed [32:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=1965s)
+
+Okay. Oh, no. Hi, I'm Lauren Woods, and I am an artist and a writer. I'm a writer and a writer. I'm a writer and a writer. I'm a writer and an artist and professor based in Alabama, working at Auburn University. My work is a thematic exploration of the concept of mythic time through painting, dance, video, and digital animation.
+
+The piece I'm going to show you today is from a collaborative project called Body Tides that I did with a choreographer named Billy. Billy Blanken of Sheep Meadow Dance Theater. This is him. I created the digital animation and concept. He choreographed it and is performed by the dancers of Sheep Meadow Dance Theater with original music by Jack Ray. This was a live stream event produced by 10K Productions at Culture Lab LIC at the Plaxall Gallery in Long Island City, New York.
+
+So I'm going to show like an excerpt of the video. I'm not sure if the sound is going to work, but we'll see. Thank you.
+
+## Unattributed [36:31](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2191s)
+
+Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
+
+## Unattributed [39:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2385s)
+
+All right, that's all I have for today. Thank you.
+
+## Davonte Bradley [39:50](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2390s)
+
+All right. That was definitely an experience and one that I was not exactly sure about. For us to have in our Zoom meetings, which is why I love these things so much. We have so many different kinds of artists with such different and amazing work. One thing, though, would you mind telling us a little bit about your process before we go into any question and answer session?
+
+## Unattributed [40:15](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2415s)
+
+Yeah. So I always start with paintings, like physical paintings, because I can't start digitally. I get lost. So having something tangible helps me. And then I edit them on my iPad using Adobe Fresco and cut it into layers. And then you kind of have to kind of visualize them like stage sets. So I cut pieces and you have to paint behind them. So if you move something, there's still an image behind it. And then I animate them in After Effects.
+
+## Davonte Bradley [40:58](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2458s)
+
+Okay. All right. Thank you. Looks like we do have one question off the bat from Michael. So I'll go ahead and give him the floor.
+
+## Michael Pierre Price [41:09](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2469s)
+
+Okay, thanks. Mark, you mentioned your interest or your focus on mythic time. Could you give me your definition of that or kind of how you see that?
+
+## Unattributed [41:21](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2481s)
+
+Okay. The way I am imagining mythic time is kind of like this place that exists outside of linear time that we can tap into like with ritual.
+
+## Michael Pierre Price [41:35](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2495s)
+
+So usually as a student, like when you're doing plastic, like you're doing.
+
+## Unattributed [41:42](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2502s)
+
+I'm sorry, I didn't get that.
+
+## Davonte Bradley [41:46](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2506s)
+
+Is that Kara? Kara? Kara? Wilted? All right.
+
+## Unattributed [41:55](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2515s)
+
+Hi. Yes. I'm here. Okay. How are you? All right. I'm sorry. I'm into some meetings. This is a mess. Okay. I just noticed that it was our time too. So how are you? Okay.
+
+## Davonte Bradley [42:10](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2530s)
+
+I thought you had a question. That's why I was asking you.
+
+## Unattributed [42:14](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2534s)
+
+No, no, no. I just entered the room.
+
+## Davonte Bradley [42:17](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2537s)
+
+Gotcha. Huh. Anybody else have any questions about? Lauren's work?
+
+## Sherry Karver [42:23](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2543s)
+
+Yeah, can I say one thing? Sure. It's not really a question. I just wanted to see, first of all, that was beautiful, really beautiful. I really like the fact that they were wearing the face masks. I know it's because of COVID, but I thought it added another entire layer to the work about silence and communication.
+
+And I think it just really added something really lovely to it. So thank you.
+
+## Unattributed [42:50](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2570s)
+
+Thank you. Yeah, it actually ended up working conceptually.
+
+## Davonte Bradley [42:56](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2576s)
+
+That's always a good feeling too. By the way, guys, you don't necessarily have to have a question. You can speak if you just have a comment that you wanted to share too about what the presentation. So that's cool too. It's no big deal. All right. And if we have no further questions or questions, we'll be right back. We can go ahead and get on with Jan Swinburne presentation. Is she here in attendance? I think I saw you.
+
+Let me see. Jan, you here?
+
+## Jan Swinburne [43:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2614s)
+
+Yes, I'm unmuting myself.
+
+## Unattributed [43:36](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2616s)
+
+There you are.
+
+## Jan Swinburne [43:37](https://www.youtube.com/watch?v=e5dH26wP9gk&t=2617s)
+
+Okay. Let's just see if I can manage the screen share. Desktop. Okay. Let's go with desktop. Hold shift to select. Share. Okay. All right. So I did a just a quick overview of my practice. Not a lot of words, but I'm interested in generation and degeneration and regeneration of images, audio and audio visualizations.
 
 And I will. Okay. There we go. I'll tell you how that started. These are stills from videos that I've done. Anyone who follows on Instagram will have seen just stills that I do. I figured I'd put these up as kind of a reference. Most of these have been, screened and funny images like these here on YouTube for students who might want to listen to those videos as well. These two news clips here are end borders as well.
 
@@ -178,7 +378,15 @@ This is a waveform, an image created from a waveform of the, sorry, every year t
 
 This is Morse code with, based on Morse code and me saying the word crackers and then degrading the image as well. So it's a minute. So it's, it's degrades, my voice and turns it into music, degrades the Morse code. There's the waveform and the word. Okay. And it's my order. Okay. And here's a similar one. If you've got headphones on, this is a bit loud.
 
-Just a fair warning. This was, I showed in Washington for Queer Ink Sound, and it's just a brief excerpt of Love, similar theme. And let's see. Thank you. Okay. All right. This is the one I was starting with, which is the waveform of the... Flying over my house which so this is entirely created from the waveform a visual capture of the waveform and then augmented and processed through various apps and I also created the soundtrack for each of these okay so from there I started working with my voice and words it I've always been interested in audio language words and I've always been interested in the way that I'm speaking and words my background in painting sculpture well actually I majored in sculpture and drawing when I was in art college so then I got into transforming language particularly just a single word from my own voice using various apps and processes and I ended up creating these structures which a lot of you have seen on internet Instagram this one is these are all time and it's all taken from the same waveform and then processed differently through various apps and I was really happy with these but the digital print processor lack of texture lack of painting wasn't quite enough to get me started with this here's another slide of different words this one is crazy sometimes it's rearranging taking different words or reclaiming them this one here is desire this one the purple one is psycho and the lower blue one here is also crazy because it's a kind of crazy idea So then I decided to try and I did an animation.
+Just a fair warning. This was, I showed in Washington for Queer Ink Sound, and it's just a brief excerpt of Love, similar theme. And let's see.
+
+## Unattributed [51:02](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3062s)
+
+Thank you.
+
+## Jan Swinburne [51:51](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3111s)
+
+Okay. All right. This is the one I was starting with, which is the waveform of the... Flying over my house which so this is entirely created from the waveform a visual capture of the waveform and then augmented and processed through various apps and I also created the soundtrack for each of these okay so from there I started working with my voice and words it I've always been interested in audio language words and I've always been interested in the way that I'm speaking and words my background in painting sculpture well actually I majored in sculpture and drawing when I was in art college so then I got into transforming language particularly just a single word from my own voice using various apps and processes and I ended up creating these structures which a lot of you have seen on internet Instagram this one is these are all time and it's all taken from the same waveform and then processed differently through various apps and I was really happy with these but the digital print processor lack of texture lack of painting wasn't quite enough to get me started with this here's another slide of different words this one is crazy sometimes it's rearranging taking different words or reclaiming them this one here is desire this one the purple one is psycho and the lower blue one here is also crazy because it's a kind of crazy idea So then I decided to try and I did an animation.
 
 Still working on some of these again, and just using simple processes. There I have a bunch of these in development. And with all this work, basically, I applied for a grant. And I started to this basically just does the same thing. So I'm going to stop it. I got interested in taking these two fully kind of expressionist level. And I started to think about what I wanted to do. And using CNC process as well as traditional painting processes started working on a series of sculptural reliefs. This is time again. And that's how it becomes translated.
 
@@ -188,55 +396,231 @@ This is also time as well is the word. And the orange is a little pumped up in t
 
 And so I kept some of them and you know worked on the rest. And then just whip through to the next one. This was I think a second piece I did time as well. And then coming full circle back to video and moving image. This is where I'm headed especially with the pandemic. This particular waveform is called love. This is a minute section. Okay. This is a minute section of a longer video. I did the music as well.
 
-Okay. Okay. Okay. Okay. Yeah. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you for listening and I greatly appreciate the opportunity to share my work. It's a pleasure to experience that. Thank you. Fantastic. Thanks. All right. Now, does anyone have any questions, comments, anything they want to share?
+## Unattributed [58:10](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3490s)
 
-Anybody? Yeah, I just wanted to ask Jen, what's the substrate on those pieces that were created with the CNC router? Yeah, not ideal. It's MDF. It's what I'm working on now. Partly because it's affordable, but also it's workable. I'm looking into other things, other aspects of this. I'm hoping to do stuff that later translate into like pulling some molds off of them and possibly working with paper, slightly eco-friendlier material. Actually, MDF is just very thick paper.
+Okay. Okay. Okay. Okay. Yeah. Thank you. Thank you. Thank you. Thank you.
 
-So, yeah, there's so far it's worked out okay. I actually really. Since the pandemic, I've really been enjoying working with my hands and carving them as well. But yeah, that's they're sealed and lots and lots of layers of gesso to counteract the VOC. What's the general scale of those? It was sort of hard to tell from there. Yeah. So they're there.
+## Unattributed [01:01:27](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3687s)
 
-I should know off the top of my head. They're 21 inches long. And I think they're 19 by 21. I have some smaller scale ones that are 12 by 21. I basically decided to work with a more or less 16 by 9 or 16 by 10 approach because of my interest in video work. So, ideally. Ideally. Ideally. So I'm going to have to look at that and see what it's like. So I'm going to have to look at that and see what it's like. And I'm going to have to look at that and see what it's like. I have had a gallerist up here who seems somewhat interested. I'm hoping to be able to mount a show with both the video and the CNC.
+Thank you.
 
-But it's a long process. I've probably got a year, year and a half, at least more work to do. So. How about how about how about doing a how about doing a resin cast, you know, a clear and then putting the video beneath it? Yeah, I've been looking at different approaches like that. I had a discussion with somebody, you know, I thought of projecting onto them as well. Sure. That's another option. I think there's a lot of possibilities that I do want to explore with this. The resin casting, again, it's getting into areas of, you know, that's huge amounts of plastic and chemicals. Yeah, it's heavy. Yeah, they're heavy enough. That's one of the issues, too, with like transport is they each one weighs probably seven to ten pounds, I guess.
+## Jan Swinburne [01:01:58](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3718s)
 
-Definitely not sustainable. Yeah. Yeah, so I'm looking at, you know, possibly doing some vacuum forming on them and then working with that to do some casting. And then paper. I need to talk to somebody who's into sculpture to see if you could actually how latex works with MDF, if I'd need to seal them first or not.
+Thank you. Thank you for listening and I greatly appreciate the opportunity to share my work.
 
-Anyways, there's a lot of future. But with the pandemic and everything, I'm really happy to be able to kind of proceed with the work I do in video, which I do screenings. It's more musically based. And images. Image destruction and move it or parallel work. I consider myself an experimentalist, so I like to work, not limit myself to just particularly one thing. So the screening stuff is going quite well at the moment.
+## Davonte Bradley [01:02:25](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3745s)
 
-The traditional work, like what you see behind me in crackers, has been shown five or six screen five or six times this year. So that's kind of hopefully where I'm headed. It's good to see you present here because I'm already familiar with your work. So it's really good to hear you, you know, some of your narrative behind it. So it's really good. Thank you. Yeah. Thanks a lot. Mm hmm.
+It's a pleasure to experience that.
 
-Appreciate it. I wanted to know, did I miss on the later paintings with the little 3D effect on your ladder points, the white on white? What material you were using for that? For the mountain like. Yeah, that's a medium density fiberboard MDF. Oh, you use. OK. Yeah. So I thought you were talking about the background.
+## Jan Swinburne [01:02:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3748s)
 
-Yeah, that's the support and what is actually carved. Oh, OK. Thank you. That are both by hand and by machine. So it's very nice. OK. If there's no further questions or comments, we do actually have one more presenter for today. Peter Borges couldn't be with us today. He was supposed to go, but in his place we
+Thank you. Fantastic. Thanks.
 
-## Lucie Králíková [01:08:26](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4106s)
+## Davonte Bradley [01:02:33](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3753s)
 
-Have Lucy who got moved up into a slot because that slot became available. So let's give the floor to our last presenter for the day. Hi. Hi. I'm. I'm. Take Radikova for those who. That. Doesn't don't know me. I would like to present you my last work. So I will share screen. Immediately. So last time I showed you my process of my work where are where I start with a photo. Then I make a better in collage. And then I printed it out. And then we were we were talking last time about those corsets and meaning what is behind. So I just quickly quickly tell it again. So there's something important in those corsets because I really wanted to be a model when I was younger and I also had a few food disorders. So there's. For me strong and so weird relationship with food. So I was creating these corsets and also we talk about why not to wear it or if it is clothes or not.
+All right. Now, does anyone have any questions, comments, anything they want to share? Anybody?
 
-So I tried to make it more like clothes. Here you can see other pieces, other corset pieces with pearls and sparks. There's detail. And then I asked my friend, photographer to make those corsets into piece of clothes. So we were trying to create these corsets as well. So we wanted to create these corsets as well. So to photo it like it was a clothes.
+## Colin Goldberg [01:02:46](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3766s)
+
+Yeah, I just wanted to ask Jen, what's the substrate on those pieces that were created with the CNC router?
+
+## Jan Swinburne [01:02:54](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3774s)
+
+Yeah, not ideal. It's MDF. It's what I'm working on now. Partly because it's affordable, but also it's workable. I'm looking into other things, other aspects of this. I'm hoping to do stuff that later translate into like pulling some molds off of them and possibly working with paper, slightly eco-friendlier material. Actually, MDF is just very thick paper.
+
+So, yeah, there's so far it's worked out okay. I actually really. Since the pandemic, I've really been enjoying working with my hands and carving them as well. But yeah, that's they're sealed and lots and lots of layers of gesso to counteract the VOC.
+
+## Colin Goldberg [01:04:04](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3844s)
+
+What's the general scale of those? It was sort of hard to tell from there.
+
+## Unattributed [01:04:07](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3847s)
+
+Yeah.
+
+## Jan Swinburne [01:04:08](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3848s)
+
+So they're there. I should know off the top of my head. They're 21 inches long. And I think they're 19 by 21. I have some smaller scale ones that are 12 by 21. I basically decided to work with a more or less 16 by 9 or 16 by 10 approach because of my interest in video work. So, ideally. Ideally. Ideally. So I'm going to have to look at that and see what it's like. So I'm going to have to look at that and see what it's like. And I'm going to have to look at that and see what it's like. I have had a gallerist up here who seems somewhat interested. I'm hoping to be able to mount a show with both the video and the CNC.
+
+But it's a long process. I've probably got a year, year and a half, at least more work to do. So.
+
+## Patrick Lichty [01:05:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3905s)
+
+How about how about how about doing a how about doing a resin cast, you know, a clear and then putting the video beneath it?
+
+## Jan Swinburne [01:05:14](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3914s)
+
+Yeah, I've been looking at different approaches like that. I had a discussion with somebody, you know, I thought of projecting onto them as well. Sure. That's another option. I think there's a lot of possibilities that I do want to explore with this. The resin casting, again, it's getting into areas of, you know, that's huge amounts of plastic and chemicals.
+
+## Michael Pierre Price [01:05:43](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3943s)
+
+Yeah, it's heavy. Yeah, they're
+
+## Jan Swinburne [01:05:48](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3948s)
+
+Heavy enough. That's one of the issues, too, with like transport is they each one weighs probably seven to ten pounds, I guess.
+
+## Patrick Lichty [01:05:59](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3959s)
+
+Definitely not sustainable.
+
+## Jan Swinburne [01:06:01](https://www.youtube.com/watch?v=e5dH26wP9gk&t=3961s)
+
+Yeah. Yeah, so I'm looking at, you know, possibly doing some vacuum forming on them and then working with that to do some casting. And then paper. I need to talk to somebody who's into sculpture to see if you could actually how latex works with MDF, if I'd need to seal them first or not. Anyways, there's a lot of future. But with the pandemic and everything, I'm really happy to be able to kind of proceed with the work I do in video, which I do screenings. It's more musically based. And images. Image destruction and move it or parallel work. I consider myself an experimentalist, so I like to work, not limit myself to just particularly one thing. So the screening stuff is going quite well at the moment.
+
+The traditional work, like what you see behind me in crackers, has been shown five or six screen five or six times this year. So that's kind of hopefully where I'm headed.
+
+## Patrick Lichty [01:07:18](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4038s)
+
+It's good to see you present here because I'm already familiar with your work. So it's really good to hear you, you know, some of your narrative behind it. So it's really good. Thank you.
+
+## Jan Swinburne [01:07:27](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4047s)
+
+Yeah. Thanks a lot. Mm hmm. Appreciate it. I wanted to know, did I miss on the later paintings with the little 3D effect on your ladder points, the white on white? What material you were using for that? For the mountain like. Yeah, that's a medium density fiberboard MDF. Oh, you use. OK. Yeah. So I thought you were talking about the background.
+
+Yeah, that's the support and what is actually carved. Oh, OK. Thank you. That are both by hand and by machine. So it's very nice. OK.
+
+## Davonte Bradley [01:08:13](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4093s)
+
+If there's no further questions or comments, we do actually have one more presenter for today. Peter Borges couldn't be with us today. He was supposed to go, but in his place we have Lucy who got moved up into a slot because that slot became available. So let's give the floor to our last presenter for the day.
+
+## Unattributed [01:08:37](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4117s)
+
+Hi. Hi. I'm. I'm. Take Radikova for those who. That. Doesn't don't know me. I would like to present you my last work. So I will share screen. Immediately. So last time I showed you my process of my work where are where I start with a photo. Then I make a better in collage. And then I printed it out. And then we were we were talking last time about those corsets and meaning what is behind. So I just quickly quickly tell it again. So there's something important in those corsets because I really wanted to be a model when I was younger and I also had a few food disorders. So there's. For me strong and so weird relationship with food. So I was creating these corsets and also we talk about why not to wear it or if it is clothes or not. So I tried to make it more like clothes.
+
+Here you can see other pieces, other corset pieces with pearls and sparks. There's detail. And then I asked my friend, photographer to make those corsets into piece of clothes. So we were trying to create these corsets as well. So we wanted to create these corsets as well. So to photo it like it was a clothes.
 
 And then I started to think more about objects, what I'm photoing, why those things are important to me. So I started to photo my personal things like hats, my grandmother gave me, or bottle of my favorite Prosecco. And I was trying to make these things more personal, more related to me. And I ended up also with corsets because I think this theme isn't over for me. And I have a lot to say in theme like this. So I want to, I want to continue with those corsets from my personal things related to me and also make these like fancy looking little bit erotic patterns.
 
-So I think it's all for me for now. If you have any questions or something, don't worry. I'll be happy to ask. Well, thank you for sharing. One thing before we actually get into the discussion. How do you pronounce your first name? Cause is it? Lucia. Lucia. Okay. Cause I had it wrong. You can call me Lucy. It's okay. But do you prefer one or the other or? I think Lucy is okay. It's I don't know. It's okay. Okay.
+## Unattributed [01:11:50](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4310s)
+
+So I think it's all for me for now. If you have any questions or something, don't worry. I'll be happy to ask.
+
+## Davonte Bradley [01:12:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4325s)
+
+Well, thank you for sharing. One thing before we actually get into the discussion. How do you pronounce your first name? Cause is it?
+
+## Unattributed [01:12:18](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4338s)
+
+Lucia.
+
+## Davonte Bradley [01:12:19](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4339s)
+
+Lucia. Okay. Cause I had it wrong.
+
+## Unattributed [01:12:22](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4342s)
+
+You can call me Lucy. It's okay.
+
+## Davonte Bradley [01:12:26](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4346s)
+
+But do you prefer one or the other or?
+
+## Unattributed [01:12:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4348s)
+
+I think Lucy is okay. It's I don't know. It's okay. Okay.
+
+## Davonte Bradley [01:12:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4354s)
 
 All right. Anyone have any questions or comments about Lucy's work? No. Okay. If no one has any questions or comments or anything like that, we can go ahead and segue into the next session. So we're going to get into the next kind of more informal part of these salons, which is we're going to kick things off with like a little, you know, greeting, introduce yourself. If you, if this is your first time here, you want to say hello, feel free to do so. If you want to go in order, please do raise your hand so that we can get to any, everybody in turn properly.
 
-And by raise your hand, I mean like not physically raise your hand, but the zoom feature for raising your hand, please do that. Okay. So we got one, Susan. Hi. Hi. Hi. I'm a digital artist and I live in Eugene, Oregon. And I'm not sure what to include in this introduction, but I've, I came to this group through Instagram.
+And by raise your hand, I mean like not physically raise your hand, but the zoom feature for raising your hand, please do that. Okay. So we got one, Susan.
 
-And I had some pieces on the Instagram account. I mainly generate work using this, my iPhone, and I use apps and create work on my iPad. I make digital work that I reproduce in two dimensional work that I reproduce in two dimensional work. So I use things like canvas prints and such. And I also during COVID I've started making experimental videos focused on COVID life mostly.
+## Unattributed [01:13:39](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4419s)
 
-Yeah. That's and I in 2021, my word for the year is collaboration. So I'm, which has grown out of me. This isolating experience that many of us are having. I'm by myself a lot these days. And so I'm trying to switch that around by reaching out more to other groups, but also purposely taking steps towards doing work with people that I would never have worked with before. I'm, I'm, I'll just say the thing I'm doing next is I'm putting together and window installation with people I've never met that live in my neighborhood through a neighborhood art group. And we're going to put together a kind of analog digital thing in a window, a downtown window that's supposed to be installed in about a week and a half. So very different.
+Hi. Hi. Hi. I'm a digital artist and I live in Eugene, Oregon. And I'm not sure what to include in this introduction, but I've, I came to this group through Instagram. And I had some pieces on the Instagram account. I mainly generate work using this, my iPhone, and I use apps and create work on my iPad. I make digital work that I reproduce in two dimensional work that I reproduce in two dimensional work. So I use things like canvas prints and such. And I also during COVID I've started making experimental videos focused on COVID life mostly.
 
-Okay. Thank you. No, thank you. Thank you for sharing. Thanks for being here. If you want, when you introduce yourself, feel free to post your website link and or Instagram into the chat. People in the meeting can check your workout. Will do. If you said I missed it, where are you? I'm Eugene, Oregon, Willamette Valley.
+## Michael Pierre Price [01:14:44](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4484s)
 
-Rainy, rainy, rainy. Beautiful. Yeah. All right. Thank you, Susan. Thank you. Mm-hmm. All right. Next up we have Matej. You're still muted. Hold on. All right. There we go. I hope it works now. My name is Matej Vakula. I'm an artist. And also I'm finishing now my PhD at Rensselaer Polytechnic Institute. Yep. In bio art and generative art. I work with a little bit with philosophy and ethics of biology and computation.
+Yeah.
 
-I work with bioprinting, 3D bioprinting, and sometimes also before I worked with Memorial Sloan-Kettering Cancer Center on some art. So I'm working with some of these species and with Triumph particle collider in Vancouver, for example. That's actually what I'm working on right now at a 360 movie for a planetarium dome. It includes animation, data visualization.
+## Unattributed [01:14:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4485s)
 
-And also I work a lot with generative modeling. Yeah. Very cool. Thanks. And where are you based out of? So I'm based in Brooklyn. Okay. Already for 10 years, but I'm originally from Slovakia. Gotcha. From... Yep. All right. Well, thank you. And how did you pronounce your first name again? Is it Matej?
+That's and I in 2021, my word for the year is collaboration. So I'm, which has grown out of me. This isolating experience that many of us are having. I'm by myself a lot these days. And so I'm trying to switch that around by reaching out more to other groups, but also purposely taking steps towards doing work with people that I would never have worked with before. I'm, I'm, I'll just say the thing I'm doing next is I'm putting together and window installation with people I've never met that live in my neighborhood through a neighborhood art group. And we're going to put together a kind of analog digital thing in a window, a downtown window that's supposed to be installed in about a week and a half. So very different.
 
-Matej. Matej. Matej. Okay. Gotcha. Well, thank you very much. Definitely post a link in there too, Matej, if you want. Yeah. Oh, yeah. I definitely will. I don't have my newest stuff yet on the website. It will come in a couple of months, but after I will make the presentation. Gotcha. Yeah. I'm looking forward actually to that at some point.
+Okay. Thank you.
 
-All right. Thank you very much. All right. Next up. We have... You know what? Thanks so much. Is that I kind of am popping on for a couple of reasons. Is that... Let's see here. Matej is that... Well, it's here. I'm an intermediate artist in the kind of the Higgins tradition and that sort of thing. And that is that... But I'm very, very much around mediated art based on the... Yeah. You know, digital, you know, using technologies like robots, you know, code and animation and 3D animation. I've been at this for about 30 years.
+## Davonte Bradley [01:15:56](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4556s)
+
+No, thank you. Thank you for sharing. Thanks for being here.
+
+## Colin Goldberg [01:16:00](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4560s)
+
+If you want, when you introduce yourself, feel free to post your website link and or Instagram into the chat. People in the meeting can check your workout.
+
+## Unattributed [01:16:11](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4571s)
+
+Will do. If you said I missed it, where are you? I'm Eugene, Oregon, Willamette Valley. Rainy, rainy, rainy. Beautiful. Yeah.
+
+## Davonte Bradley [01:16:24](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4584s)
+
+All right. Thank you, Susan.
+
+## Matej Vakula [01:16:26](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4586s)
+
+Thank you. Mm-hmm. All right.
+
+## Davonte Bradley [01:16:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4588s)
+
+Next up we have Matej. You're still muted.
+
+## Matej Vakula [01:16:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4594s)
+
+Hold on. All right.
+
+## Unattributed [01:16:36](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4596s)
+
+There we go.
+
+## Matej Vakula [01:16:37](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4597s)
+
+I hope it works now. My name is Matej Vakula. I'm an artist. And also I'm finishing now my PhD at Rensselaer Polytechnic Institute. Yep. In bio art and generative art. I work with a little bit with philosophy and ethics of biology and computation. I work with bioprinting, 3D bioprinting, and sometimes also before I worked with Memorial Sloan-Kettering Cancer Center on some art. So I'm working with some of these species and with Triumph particle collider in Vancouver, for example. That's actually what I'm working on right now at a 360 movie for a planetarium dome. It includes animation, data visualization.
+
+And also I work a lot with generative modeling.
+
+## Ryan Henderson [01:17:51](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4671s)
+
+Yeah.
+
+## Matej Vakula [01:17:52](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4672s)
+
+Very cool.
+
+## Davonte Bradley [01:17:55](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4675s)
+
+Thanks.
+
+## Matej Vakula [01:17:56](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4676s)
+
+And where are you based out of? So I'm based in Brooklyn. Okay. Already for 10 years, but I'm originally from Slovakia. Gotcha. From... Yep.
+
+## Davonte Bradley [01:18:13](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4693s)
+
+All right. Well, thank you. And how did you pronounce your first name again? Is it Matej? Matej. Matej. Matej. Okay. Gotcha.
+
+## Unattributed [01:18:23](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4703s)
+
+Well, thank you very much.
+
+## Colin Goldberg [01:18:24](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4704s)
+
+Definitely post a link in there too, Matej, if you want.
+
+## Matej Vakula [01:18:27](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4707s)
+
+Yeah. Oh, yeah. I definitely will. I don't have my newest stuff yet on the website. It will come in a couple of months, but after I will make the presentation. Gotcha. Yeah. I'm looking forward actually to that at some point.
+
+## Michael Pierre Price [01:18:44](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4724s)
+
+All right.
+
+## Davonte Bradley [01:18:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4725s)
+
+Thank you very much. All right. Next up. We have... You know what?
+
+## Patrick Lichty [01:18:52](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4732s)
+
+Thanks so much. Is that I kind of am popping on for a couple of reasons. Is that... Let's see here. Matej is that... Well, it's here. I'm an intermediate artist in the kind of the Higgins tradition and that sort of thing. And that is that... But I'm very, very much around mediated art based on the... Yeah. You know, digital, you know, using technologies like robots, you know, code and animation and 3D animation. I've been at this for about 30 years.
 
 Let's see here. The... Let's see here. A couple of times back, I did a presentation on how basically my thoughts on Techspressionism go back to... Basically like the German expressionists like Kandinsky and all that and started working in drawing with technology in about 1994. But I think a lot of us kind of stretch back. The one thing that I want to invite all of you is that we're starting to talk... I'm on the board of directors of the Rock Biennial actually. And a couple of things that I want to talk about is that on one hand, we're starting to put viewers out for... Yeah. People who are interested in. And actually, the wrong is thinking about starting its own social media platform, which is very exciting. But, you know, we're in the venture capital perspective of that.
 
@@ -246,23 +630,71 @@ But that's not a problem. Being, on the other hand, with that is the idea that I
 
 So... Yeah. So that's the first thing I'm springing that out. So, you know, and that should be very interesting. And no reason why not to do it. And then lastly, the other thing is, is that a little bit later in the semester, I will be speaking at Rensselaer Polytechnic Institute for my dear friend and partner in the ESPN, Igor Vamos. And so, who I did a lot of the animations for up in the US. And he was doing some work on the I'm not sure.
 
-There is more people. But might be. Okay. Okay. But I mean, if you are, you know, you know what? Please come to the talk in Igor's class. You know, if you can. So, you know, you have my gold plate. Absolutely. So anyway, good to meet you. And so anyway, and then currently what I'm doing is I've been, you know, I was in Chicago for the whole glitch thing. And then I've been working with Playboy. I've been working with Playform.io along with people like and Spalter. And I just did a series of dogs playing poker. I took as many images of dogs playing poker as possible and put them into again and they came up really interesting.
+## Matej Vakula [01:22:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4960s)
 
-On one hand, highlighting the sublime and sometimes utterly useless nature of AI. Yeah. The other useful. And the other way. Yeah. So the thing is, is that we as artists. You know, anyway, sorry. I go on a bit, but I just wanted to invite people to the wrong. Say that we should have a show there. We should have a show there and that I'll be talking at risk. Thank you. All right. Thank you very much, Patrick.
+There is more people. But might be.
 
-And do go on and check out the wrong which I've been like I've been there. I've been around the site. I've been in multiple parts of it and it just keeps going deep and deep and deep and I end up losing a couple hours, but it's all good. But next up to say hello is Randy. So hold on. Good to see you.
+## Patrick Lichty [01:22:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=4965s)
 
-So there, Randy. Hi, I'm Randy. I'm very new to the group, but this is my second meeting. I came to this group because. I'm a. Classically trained. To the artist. I paint a draw. And over. COVID more so during COVID my mother was in home hospice. So Colin. I get it. And she had lived with me the last five years, but in that month.
+Okay. Okay. But I mean, if you are, you know, you know what? Please come to the talk in Igor's class. You know, if you can. So, you know, you have my gold plate. Absolutely. So anyway, good to meet you. And so anyway, and then currently what I'm doing is I've been, you know, I was in Chicago for the whole glitch thing. And then I've been working with Playboy. I've been working with Playform.io along with people like and Spalter. And I just did a series of dogs playing poker. I took as many images of dogs playing poker as possible and put them into again and they came up really interesting.
+
+On one hand, highlighting the sublime and sometimes utterly useless nature of AI. Yeah. The other useful. And the other way. Yeah. So the thing is, is that we as artists. You know, anyway, sorry. I go on a bit, but I just wanted to invite people to the wrong. Say that we should have a show there. We should have a show there and that I'll be talking at risk. Thank you. All right.
+
+## Davonte Bradley [01:23:59](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5039s)
+
+Thank you very much, Patrick. And do go on and check out the wrong which I've been like I've been there. I've been around the site. I've been in multiple parts of it and it just keeps going deep and deep and deep and I end up losing a couple hours, but it's all good. But next up to say hello is Randy. So hold on. Good to see you.
+
+## Unattributed [01:24:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5068s)
+
+So there, Randy.
+
+## Randi Matushevitz [01:24:30](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5070s)
+
+Hi, I'm Randy. I'm very new to the group, but this is my second meeting. I came to this group because. I'm a. Classically trained. To the artist. I paint a draw. And over. COVID more so during COVID my mother was in home hospice. So Colin. I get it. And she had lived with me the last five years, but in that month.
 
 I was sitting with her a lot in her room and I started downloading apps that people had told me about. And I was able to make these photo apps that were available to me. And I started using them. So I started using these apps and video apps recognize my expressive portraits. My background is in expressive portraiture where I'm really interested in. The silent understanding or where is the understanding the meaning and nonmeaning that we, from just watching our faces and facial expressions. And looking to create this understanding or at least gauge it. So my work has. Like that. Where I animated. The paintings. So they, and then I can create their expressions and then I layer them and I animate backgrounds and it goes through various apps.
 
-And I'm here to learn and to participate. I'm very excited by everything I'm seeing. And it just wants it to say, hi, I have some of the short clips on Instagram and a few on my. Website. Which is my name at randymonteshevitz.com or randymonteshevitzart. I'll put it in the chat after. And yeah, I'd look forward to presenting in the future and seeing what the impetus is and how it lands on you guys. I'm just looking to find my place, you know? Aren't we all? Aren't we all?
+And I'm here to learn and to participate. I'm very excited by everything I'm seeing. And it just wants it to say, hi, I have some of the short clips on Instagram and a few on my. Website. Which is my name at randymonteshevitz.com or randymonteshevitzart. I'll put it in the chat after. And yeah, I'd look forward to presenting in the future and seeing what the impetus is and how it lands on you guys. I'm just looking to find my place, you know?
 
-Thank you very much for being here. I look forward to seeing what you have to present. All right. We do have two more people that would like to speak. It would be Michael and then Colin. Hi, everyone. My name's Mike. I'm from London. It's really nice to meet all of you tonight. I mostly started making digital artworks about four or five years ago, having started off doing photography, mostly architectural photography.
+## Davonte Bradley [01:26:18](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5178s)
 
-I'm really interested in space, perspective, lines and patterns. And my work kind of plays a lot with scale and geometry. Kind of here, I found the group via Instagram and had a brief conversation with Colin. And it's really just to get, I'm here really just to start having conversations with people about digital art and to share my work and to learn from everyone else. So it's great to meet you all. All right. Thank you.
+Aren't we all?
 
-Nice having you here. Actually, my wife's family is actually from London. I think South London? Where they are? Yeah. She's half British because the other half is West Virginian. Yeah. I'm from North London. So yeah, just the other side of the river. Right. All right. Thank you for being here. And if you plan on presenting at any point, just let us know. Let me or Colin know and we'll put you down and we'll see you soon. Go from there. Yeah, will do. Thanks. No problem. All right. And Colin has some words for us.
+## Unattributed [01:26:19](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5179s)
+
+Aren't we all? Thank you very much for
+
+## Davonte Bradley [01:26:24](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5184s)
+
+Being here. I look forward to seeing what you have to present. All right. We do have two more people that would like to speak. It would be Michael and then Colin.
+
+## Michael Strevens [01:26:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5200s)
+
+Hi, everyone. My name's Mike. I'm from London. It's really nice to meet all of you tonight. I mostly started making digital artworks about four or five years ago, having started off doing photography, mostly architectural photography. I'm really interested in space, perspective, lines and patterns. And my work kind of plays a lot with scale and geometry.
+
+Kind of here, I found the group via Instagram and had a brief conversation with Colin. And it's really just to get, I'm here really just to start having conversations with people about digital art and to share my work and to learn from everyone else. So it's great to meet you all. All right. Thank you.
+
+## Davonte Bradley [01:27:26](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5246s)
+
+Nice having you here. Actually, my wife's family is actually from London. I think South London?
+
+## Matej Vakula [01:27:33](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5253s)
+
+Where they are?
+
+## Davonte Bradley [01:27:34](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5254s)
+
+Yeah. She's half British because the other half is West Virginian. Yeah.
+
+## Michael Strevens [01:27:41](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5261s)
+
+I'm from North London. So yeah, just the other side of the river.
+
+## Davonte Bradley [01:27:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5265s)
+
+Right. All right. Thank you for being here. And if you plan on presenting at any point, just let us know. Let me or Colin know and we'll put you down and we'll see you soon. Go from there. Yeah, will do. Thanks. No problem. All right. And Colin has some words for us.
+
+## Colin Goldberg [01:28:05](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5285s)
 
 Hey, what's up everyone? So I just wanted to give you guys some news. Well, as some of you know, I had some bad news yesterday. My father passed away. He was in hospice for quite a while and it was something that we saw coming. But definitely difficult news to receive. But he's no longer suffering now at any rate. And I did get some very positive news on Friday though. Basically, I got an email from the director of the Southampton Arts Centre, which is a physical space that was a museum space. It used to be the location of the museum called the Parish Art Museum for many years, which has since moved to Watermill, just not too far from where the Southampton Arts Centre is. And right when we started putting the idea for the virtual show together, we also started formulating plans for a physical exhibition and a proposal was put together.
 
@@ -276,21 +708,65 @@ And also, you know, I think there's definitely some time, there's over a year to
 
 Even if it's cost prohibitive for, you know, a lot of members to ship work back and forth to a physical space. So, you know, there's a lot of ways that it could be worked out. But I think, you know, it's a very exciting development. And the guy who gave the proposal to Greenlight, his name is Tom Dunn. He was actually, I believe, I'm not sure if he was the executive, the executive director of the Southampton Arts Center now, but he was on the board or he was he was pretty, you know, instrumental in a recent major redevelopment of Lincoln Center in Manhattan, you know, and that was his background before. He was at Southampton Arts Center. So definitely, you know, it should be an interesting audience. And I think that, you know, it has the potential to be a really good show. So I just wanted to share that with you guys.
 
-And, you know, this is all sort of like the flow of life, you know what I mean? In terms of the positive and negative energies happening. But all concurrently, always, always. Absolutely. So, you know, I mean, I'm glad that I have. This piece of structure in my life, you know, is able I still do client work, you know, to pay my bills and stuff like that. And I sort of told them, hey, you know, like I'm taking the week off to pay my respects to my old man. But, you know, this is like something different.
+And, you know, this is all sort of like the flow of life, you know what I mean? In terms of the positive and negative energies happening.
 
-And so, yeah, that's all I got. Thanks, guys. Thank you. I know this is kind of unrelated. So. I think there's a lot of things that we can learn from this subject. But, you know, I think if there isn't a word. There needs to be a word or like that's that feeling that you get when. You have this really unfortunate thing happen or becomes comes part of your knowledge. But at the same time, you also learn almost like within a day or hours of this other really positive thing happening. And you're kind of just caught in between. You want to feel happy, but at the same time, it's like, no, this is really sad, too.
+## Unattributed [01:34:08](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5648s)
 
-And I don't know, because that's been kind of the story of my life for a long time. It's like these good things happen. But same time, this other unfortunate thing is right there next to it. Always together. Always together. Always. Always. Always. Like I say, that's the gift of the universe for the pain and the hard part. So I feel like there should be a word for that.
+But all concurrently, always, always.
 
-We need to make one. We'll make one up. Yeah. Life is a pretty good one. True. I wonder if in some other language there's a word for that. You know, like there are languages that use that have that kind of capability of describing feelings that we don't have in the English language. And it makes me wonder if there's a language. That has that. I think Japan. Definitely. You think what?
+## Colin Goldberg [01:34:11](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5651s)
 
-Japan. Japan. Japan. And what language is that? Japanese? No, No, I think in Japanese there is definitely word for that. I don't know the particular one, but I think that the Japanese. You know, there's something Nagin and I have talked about a little bit in talking between New York and Iran. And it's something to do with, in my study of iconography, the Theotokos. It's called the icon of bright sorrow. Sorrow. And she said that in her culture, there's, I might be saying this wrong thinking, but something to do with that, a brightness and sorrow.
+Absolutely. So, you know, I mean, I'm glad that I have. This piece of structure in my life, you know, is able I still do client work, you know, to pay my bills and stuff like that. And I sort of told them, hey, you know, like I'm taking the week off to pay my respects to my old man. But, you know, this is like something different.
 
-And there's also some Greek word for your gut. It's not even your soul or your heart. And I'm going to look it up, but it's something that's deep in your gut. Is this thing that I think Devo brought up so beautifully. That's what, that paradox, you see it in art. It's suffering pieces and yet they're beautiful. And that paradox, I mean, it's that terrible place of loss and yet understanding the beauty of life where I think I know my own most important works have probably sprung from that space. I mean, my last bunch of paintings, actually really, they were abstract paintings, but they're really sort of like about my father in a way. Like he, you know, in his dementia, one of the things that he always remembered was this poem called Invictus. I forget the name of the poet, but it was, you know, about like sort of the unconquerable soul and he had memorized that.
+And so, yeah, that's all I got. Thanks, guys.
 
-Yeah, he memorized it, I think, when he was an undergrad, like at NYU years ago, like in the 1950s, you know, but for some reason he remembered it, you know, like that was one of the things that he remembered with clarity and he would recite it, you know, to me. So like one of the paintings that I finished recently, I just sort of named it that, you know, and then it started me thinking of like, you know, really like my own work is just like, you know, largely non-representational, but I mean, something is driving whatever ends up on the canvas or whatever ends up on the screen. And it's generally like whatever's happening in my subconscious or, you know, to some degree what's going on in my life. And then the next one, you know, I named it Dr. No. And that was one of the things that he and I shared was, you know, James Bond movies.
+## Davonte Bradley [01:34:38](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5678s)
 
-And I was always like a Roger Moore guy and he was a Sean Connery guy. But, you know, and, you know, these paintings have nothing, you know, visually to do with the titles per se, you know what I mean? But in some way, like I find that making work definitely can be very cathartic because then it's like by titling it that it's guiding my train of thought in a way that enables me to process, you know, the emotions and what's going on. So, yeah, I mean, I don't know. That's just in this. I mean, it may not give the audience or the viewer context, but for you as the artist, it definitely gives context too. And I've done similar things myself. Like I've made, because I still have ongoing issues with my own family, my own mother. Like my relationship with her is, to say it's strained is to put it lightly.
+Thank you. I know this is kind of unrelated. So. I think there's a lot of things that we can learn from this subject. But, you know, I think if there isn't a word. There needs to be a word or like that's that feeling that you get when. You have this really unfortunate thing happen or becomes comes part of your knowledge. But at the same time, you also learn almost like within a day or hours of this other really positive thing happening. And you're kind of just caught in between. You want to feel happy, but at the same time, it's like, no, this is really sad, too.
+
+And I don't know, because that's been kind of the story of my life for a long time. It's like these good things happen. But same time, this other unfortunate thing is right there next to it. Always together.
+
+## Randi Matushevitz [01:35:31](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5731s)
+
+Always together. Always. Always. Always. Like I say, that's the gift of the universe for the pain and the hard part.
+
+## Davonte Bradley [01:35:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5740s)
+
+So I feel like there should be a word for that. We need to make one.
+
+## Randi Matushevitz [01:35:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5745s)
+
+We'll make one up.
+
+## Davonte Bradley [01:35:46](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5746s)
+
+Yeah.
+
+## Colin Goldberg [01:35:48](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5748s)
+
+Life is a pretty good one. True.
+
+## Unattributed [01:35:52](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5752s)
+
+I wonder if in some other language there's a word for that. You know, like there are languages that use that have that kind of capability of describing feelings that we don't have in the English language. And it makes me wonder if there's a language. That has that. I think Japan. Definitely. You think what?
+
+Japan. Japan. Japan. And what language is that? Japanese? No, No, I think in Japanese there is definitely word for that. I don't know the particular one, but I think that the Japanese.
+
+## Roz Dimon [01:36:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5800s)
+
+You know, there's something Nagin and I have talked about a little bit in talking between New York and Iran. And it's something to do with, in my study of iconography, the Theotokos. It's called the icon of bright sorrow. Sorrow. And she said that in her culture, there's, I might be saying this wrong thinking, but something to do with that, a brightness and sorrow.
+
+And there's also some Greek word for your gut. It's not even your soul or your heart. And I'm going to look it up, but it's something that's deep in your gut. Is this thing that I think Devo brought up so beautifully. That's what, that paradox, you see it in art. It's suffering pieces and yet they're beautiful. And that paradox, I mean, it's that terrible place of loss and yet understanding the beauty of life where I think I know my own most important works have probably sprung from that space.
+
+## Colin Goldberg [01:37:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5860s)
+
+I mean, my last bunch of paintings, actually really, they were abstract paintings, but they're really sort of like about my father in a way. Like he, you know, in his dementia, one of the things that he always remembered was this poem called Invictus. I forget the name of the poet, but it was, you know, about like sort of the unconquerable soul and he had memorized that. Yeah, he memorized it, I think, when he was an undergrad, like at NYU years ago, like in the 1950s, you know, but for some reason he remembered it, you know, like that was one of the things that he remembered with clarity and he would recite it, you know, to me. So like one of the paintings that I finished recently, I just sort of named it that, you know, and then it started me thinking of like, you know, really like my own work is just like, you know, largely non-representational, but I mean, something is driving whatever ends up on the canvas or whatever ends up on the screen.
+
+And it's generally like whatever's happening in my subconscious or, you know, to some degree what's going on in my life. And then the next one, you know, I named it Dr. No. And that was one of the things that he and I shared was, you know, James Bond movies. And I was always like a Roger Moore guy and he was a Sean Connery guy. But, you know, and, you know, these paintings have nothing, you know, visually to do with the titles per se, you know what I mean? But in some way, like I find that making work definitely can be very cathartic because then it's like by titling it that it's guiding my train of thought in a way that enables me to process, you know, the emotions and what's going on. So, yeah, I mean, I don't know. That's just in this.
+
+## Davonte Bradley [01:39:36](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5976s)
+
+I mean, it may not give the audience or the viewer context, but for you as the artist, it definitely gives context too. And I've done similar things myself. Like I've made, because I still have ongoing issues with my own family, my own mother. Like my relationship with her is, to say it's strained is to put it lightly.
 
 But I, I called her what this past Saturday just to check up on her because the last time I spoke with her, she had fallen down some stairs, like she had blacked out at the top of some stairs and fell down the stairs. And she wasn't sure what was going on with her. And so three weeks later, I was calling to check up on her. And this, the conversation that we had was just, it started off okay. And then it just degraded into a mess. Like it literally just degraded into a mess. And it ended with her telling me that she'll never call me again. She's never going to contact me again, et cetera, et cetera. Some expletives were added to that. And I was like, and I like, after the conversation, I had this feeling, I was like, I think at this point, because she's suffering from severe depression and something else, I don't know what it is, but it's caused severe emotional shifts and other stuff and memory loss and all sorts of, I have no idea what it is.
 
@@ -298,23 +774,57 @@ It could be like early stage Alzheimer, early stage dementia. I have no idea wha
 
 But after she kind of, she did hang up on me, like she hung up on me. And I had the thought, I was like, you know what? I think I'd be okay. Or I think I'd be fine with probably never hearing from her again at this point. Because the woman that had raised me, she's either gone or like completely overshadowed by whatever mental health issues that have taken over.
 
-It's like, there's little blips of her, but she herself is kind of just not there. Not the person that I remember her being. And my artwork, some of my artwork, not the most recent stuff I've done, but there's other stuff that I haven't posted that kind of concerns those feelings of just acceptance of what things are and how they are. And just acceptance of my feelings for her. Like if I found out tomorrow, that she was dead, how would I feel about that? Would I be okay with that? And it's almost like she's already gone already for me.
+It's like, there's little blips of her, but she herself is kind of just not there. Not the person that I remember her being. And my artwork, some of my artwork, not the most recent stuff I've done, but there's other stuff that I haven't posted that kind of concerns those feelings of just acceptance of what things are and how they are. And just acceptance of my feelings for her. Like if I found out tomorrow, that she was dead, how would I feel about that? Would I be okay with that?
 
-So there was a lot of art that I've done that's kind of just, it was prepping for that realization and just kind of accepting that realization. And the titles for some of those work are rooted in those kinds of feelings. But what you see, because it's all abstract, it's not necessarily representational of that or any of those emotions. But the title is. And that connection with the title brings me back to whatever emotion that was with that work.
+## Michael Pierre Price [01:42:37](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6157s)
 
-So, yeah. It's, Davonte, been through it for the last six years. Yeah. My second partner. It's called ambiguous grief. It's a whole pre-stage to, to acceptance, like you said. So it's, it's very normal. And I think these times when it gets difficult for whatever reason in everyone's life or as an artist myself, I'll speak, I'm coming from a very genuine place. And so I seem to write my best writing because it's the most truthful and honest approach to that particular artwork. And that's what I'm trying to do. That moment I've been through a lot of this also through my whole life. So we won't get into that here but I've learned over times that when these things happen I balance it with my art. It definitely is. And I don't, I can't believe the work that I produced during those times. So go with it.
+And it's
 
-Go with it a little bit. So for me there's two arts traditions. That I think are really meaningful and tie into a lot of what everybody's been talking about. And sorry for your loss, Colin. And those are the traditions of the Buddhist mandalas and the Navajo sand paintings. We tend to create art that lasts and we memorialize the art that lasts. But in those two traditions, they realize that nothing is permanent.
+## Davonte Bradley [01:42:38](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6158s)
+
+Almost like she's already gone already for me. So there was a lot of art that I've done that's kind of just, it was prepping for that realization and just kind of accepting that realization. And the titles for some of those work are rooted in those kinds of feelings. But what you see, because it's all abstract, it's not necessarily representational of that or any of those emotions. But the title is. And that connection with the title brings me back to whatever emotion that was with that work.
+
+So, yeah.
+
+## Karen LaFleur [01:43:18](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6198s)
+
+It's, Davonte, been through it for the last six years. Yeah. My second partner. It's called ambiguous grief. It's a whole pre-stage to, to acceptance, like you said. So it's, it's very normal.
+
+## Unattributed [01:43:37](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6217s)
+
+And I think these times when
+
+## Karen LaFleur [01:43:41](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6221s)
+
+It gets difficult for whatever reason in everyone's life or as an artist myself, I'll speak, I'm coming from a very genuine place. And so I seem to write my best writing because it's the most truthful and honest approach to that particular artwork. And that's what I'm trying to do. That moment I've been through a lot of this also through my whole life. So we won't get into that here but I've learned over times that when these things happen I balance it with my art. It definitely is. And I don't, I can't believe the work that I produced during those times. So go with it. Go with it a little bit.
+
+## Michael Pierre Price [01:44:28](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6268s)
+
+So for me there's two arts traditions. That I think are really meaningful and tie into a lot of what everybody's been talking about. And sorry for your loss, Colin. And those are the traditions of the Buddhist mandalas and the Navajo sand paintings. We tend to create art that lasts and we memorialize the art that lasts. But in those two traditions, they realize that nothing is permanent.
 
 And oftentimes we try to hold on to things that are ephemeral. And the beauty is in the creation. It's not in the holding on to it. And I think that's true when we go through really good things and really bad things. And so for me, those two traditions, it's a powerful lesson and it's not an easy one at times. So just thought. I'd share that.
 
-Thank you. This has been a more heavy salon than most of the past ones. But that's fine. I mean, we're all people. We all go through things. One thing for Colin is that I don't know whether you remember that when we were in graduate school three days before I was going to have my MFA show at Bowling Green, my mom died. And that wasn't fun. And I was like, you know, no way. But I think the thing is, is that my mom was an artist. And I think what you might be seeing is like, you know, with this community is the fact that, you know, is the art is, you know, everybody, you know, like in our committees was saying, it's like, no, no, we can do this. And somebody can do it. I said, no, like hell. No, my mom was an artist. I'm an artist.
+## Davonte Bradley [01:45:32](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6332s)
+
+Thank you. This has been a more heavy salon than most of the past ones. But that's fine. I mean, we're all people. We all go through things.
+
+## Patrick Lichty [01:45:45](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6345s)
+
+One thing for Colin is that I don't know whether you remember that when we were in graduate school three days before I was going to have my MFA show at Bowling Green, my mom died. And that wasn't fun. And I was like, you know, no way. But I think the thing is, is that my mom was an artist. And I think what you might be seeing is like, you know, with this community is the fact that, you know, is the art is, you know, everybody, you know, like in our committees was saying, it's like, no, no, we can do this. And somebody can do it. I said, no, like hell. No, my mom was an artist. I'm an artist.
 
 And, you know, you are all my friends. I'd spent two and a half years with all of you. And guess what? I'm not going to let my mom down. I'm not going to let you down. And I think the thing is, is that this was, you know, that was the best thing to do. And I think the one thing is, is that, you know, an artist is what you are, you know, and, you know, let that sustain you.
 
-It was a great show too. Totally, totally remember that space. And it was full of amazing objects. Weird stuff. Yeah. Yeah. It was cool. It was cool. It was fun. You know, I did want to say one other thing real quick. So like maybe a couple of weeks ago, you know, Helen at the Pollock house is our group advisor.
+## Colin Goldberg [01:46:48](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6408s)
 
-And I was, I was contacted by a woman named Joyce Ray Mondo. Who's their education director. And so they do sort of like an ongoing series of zooms at the Pollock house, sort of about things centered around expressionism in general. So I'm going to be actually speaking on zoom on the 24th, which is next week at some point. Yeah.
+It was a great show too. Totally, totally remember that space. And it was full of amazing objects.
+
+## Unattributed [01:46:55](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6415s)
+
+Weird stuff. Yeah.
+
+## Colin Goldberg [01:46:57](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6417s)
+
+Yeah. It was cool. It was cool. It was fun. You know, I did want to say one other thing real quick. So like maybe a couple of weeks ago, you know, Helen at the Pollock house is our group advisor. And I was, I was contacted by a woman named Joyce Ray Mondo. Who's their education director. And so they do sort of like an ongoing series of zooms at the Pollock house, sort of about things centered around expressionism in general. So I'm going to be actually speaking on zoom on the 24th, which is next week at some point. Yeah.
 
 And I'll, I'll send out an email to the list. It's like something that people need to register for, but it's totally open. And I'm definitely going to be talking about expressionism. And I believe Helen is also going to be saying a couple words about it too, which is, you know, I think anytime that I can, you know, finagle that to happen. In some way, like that's a really good thing because her. To me, like her background and knowledge about.
 
@@ -322,8 +832,46 @@ You know, art history. Specifically Pollock, but the whole group of, of abstract
 
 But, you know, this is definitely the direction I'm trying to like move my own work in, you know, away from sort of corporate use of corporate, you know, the use of digital tools to help propagate corporate America for better or worse. Yeah. Yeah. And I think that's going to be a really interesting space to kind of like take a look at and kind of like, to kind of like take a look at and kind of like and kind of like look at and kind of like that's a little plug for myself. But I'll send a link out to you guys and anyone that's it's going to be on the 24th. I think it's in the afternoon, like 3.30 or something like that. But yeah.
 
-And Davo, did you want to say anything before we close quickly about the collab and sort of like, you know, where we're at right now? I know, you know, we're sort of, we started a second round too with people signing up for that. So. Yeah. I'll go as quickly as I can and try to like not go over. So pretty much the first, the first collab project is more or less done as far as the, the artwork is concerned. We just need to get that in the matrix and get that show set up and everything like that. The second one is now starting. I sent you guys an email earlier today.
+And Davo, did you want to say anything before we close quickly about the collab and sort of like, you know, where we're at right now? I know, you know, we're sort of, we started a second round too with people signing up for that. So.
 
-How many participants there are and who's going to be in it or who wants to be included in it like there's 16 participants so we have eight pair or eight potential pairs before I start pairing people off I did go ahead and say that among those people if there was somebody on there that you like wanted to work with go ahead and email them so that you know they know like hey I want to collab with you in particular before I start pairing people off or at least send me your top three picks if you have them, if you really want to work with some people.
+## Davonte Bradley [01:50:04](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6604s)
 
-And that's getting off the ground. It's taken a bit for like any kind of updates on that my mind's been a little sporadic lately unfortunately sorry but it's still it's still happening it's still going on even though I'm so slow to communicate with you guys I'll be better about that but it is it is still in the works and on the way we're not taking any more new participants for that for this round for this for this month next month is going to open up next month so there's that so if you still want to take part of the collab project we're having it every month it's going to be an ongoing thing and it's going to be smoother and more seamless each each go around because training wheels kind of yeah Davo do you envision the each each installment being up for a month basically so if we go on that schedule like you know the first show that goes live will be up for a month and then the next one comes up in the second month or how what do you what do you think about that I kind of envision it that way and then also having like a video record of that particular one like so we'll have like somebody go in virtually record that whole and then upload that to YouTube and then when that's done we'll upload the new one so that'll be the current living collab event for that month oh that's a cool idea yeah because I know you can do the walkthrough with yeah matrix too where you just click and it takes you through from piece to piece so that's a good way of documenting it and not having to like leave it up all the time because we don't have a hard you know date for the you know Techspressionist and the read show at this point you know that's a good way to do that kind of just sort of you know be open you know the next real hard date you know is that april 2022 date where you know I feel like now that we have the green light for that it's you know we could start thinking about putting some pr strategy together for the virtual show because I think I was holding off on trying to make any kind of announcement or press release until we heard back from southampton art center because to me that gives it a lot more oomph as far as like delivering a message hey we're doing this virtual show this year and then it's going to be followed up by a physical exhibition in southampton the following year I think at that point then you know critics and collectors are going to pay a lot more attention if there's going to be a physical venue down the road right so as much as we're trying to transition to being you know inclusive to both there are a lot more collectors and galleries and everybody that's sticking more to the traditional stuff for now which we have to utilize at this point but it's all right it's all good that being said though we are one minute away from four o'clock eastern time so we're going to be cutting the recording any second thank you for stopping by you're welcome to stick around if you just want to chat with me because I will be here because I don't have a life outside of this I'm just kidding actually it's kind of not a joke because this is like probably the biggest part of my life right now from what I'm working on but yeah you're free to stick around if you just want to chat I'll be here and thank you for stopping by it's been a pleasure yeah excellent meeting really great bye everybody thank you thanks everyone
+Yeah. I'll go as quickly as I can and try to like not go over. So pretty much the first, the first collab project is more or less done as far as the, the artwork is concerned. We just need to get that in the matrix and get that show set up and everything like that. The second one is now starting. I sent you guys an email earlier today.
+
+How many participants there are and who's going to be in it or who wants to be included in it like there's 16 participants so we have eight pair or eight potential pairs before I start pairing people off I did go ahead and say that among those people if there was somebody on there that you like wanted to work with go ahead and email them so that you
+
+## Unattributed [01:50:49](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6649s)
+
+Know
+
+## Davonte Bradley [01:50:49](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6649s)
+
+They know like hey I want to collab with you in particular before I start pairing people off or at least send me your top three picks if you have them, if you really want to work with some people. And that's getting off the ground. It's taken a bit for like any kind of updates on that my mind's been a little sporadic lately unfortunately sorry but it's still it's still happening it's still going on even though I'm so slow to communicate with you guys I'll be better about that but it is it is still in the works and on the way we're not taking any more new participants for that for this round for this for this month next month is going to open up next month so there's that so if you still want to take part of the collab project we're having it every month it's going to be an ongoing thing and it's going to be smoother and more seamless each each go around because training wheels kind of
+
+## Colin Goldberg [01:51:53](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6713s)
+
+Yeah Davo do you envision the each each installment being up for a month basically so if we go on that schedule like you know the first show that goes live will be up for a month and then the next one comes up in the second month or how what do you what do you think about that
+
+## Davonte Bradley [01:52:11](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6731s)
+
+I kind of envision it that way and then also having like a video record of that particular one like so we'll have like somebody go in virtually record that whole and then upload that to YouTube and then when that's done we'll upload the new one so that'll be the current living collab event for that month oh
+
+## Colin Goldberg [01:52:32](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6752s)
+
+That's a cool idea yeah because I know you can do the walkthrough with yeah matrix too where you just click and it takes you through from piece to piece so that's a good way of documenting it and not having to like leave it up all the time because we don't have a hard you know date for the you know Techspressionist and the
+
+## Unattributed [01:52:50](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6770s)
+
+Read
+
+## Colin Goldberg [01:52:50](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6770s)
+
+Show at this point you know that's a good way to do that kind of just sort of you know be open you know the next real hard date you know is that april 2022 date where you know I feel like now that we have the green light for that it's you know we could start thinking about putting some pr strategy together for the virtual show because I think I was holding off on trying to make any kind of announcement or press release until we heard back from southampton art center because to me that gives it a lot more oomph as far as like delivering a message hey we're doing this virtual show this year and then it's going to be followed up by a physical exhibition in southampton the following year I think at that point then you know critics and collectors are going to pay a lot more attention if there's going to be a physical venue down the road right so
+
+## Davonte Bradley [01:53:43](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6823s)
+
+As much as we're trying to transition to being you know inclusive to both there are a lot more collectors and galleries and everybody that's sticking more to the traditional stuff for now which we have to utilize at this point but it's all right it's all good that being said though we are one minute away from four o'clock eastern time so we're going to be cutting the recording any second thank you for stopping by you're welcome to stick around if you just want to chat with me because I will be here because I don't have a life outside of this I'm just kidding actually it's kind of not a joke because this is like probably the biggest part of my life right now from what I'm working on but yeah you're free to stick around if you just want to chat I'll be here and thank you for stopping by it's been a pleasure yeah excellent
+
+## Roz Dimon [01:54:39](https://www.youtube.com/watch?v=e5dH26wP9gk&t=6879s)
+
+Meeting really great bye everybody thank you thanks everyone

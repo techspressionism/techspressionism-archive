@@ -26,27 +26,59 @@ languages: ["en"]
 
 All right. Welcome, welcome to the 13th, I believe, to Expressionism Virtual Salon. Today is March 16th, 2021. We are in the midst of Women's History Month, which is the theme or subject matter of today's virtual salon. I'm Davonte Bradley, otherwise known as Davo. I'm the moderator. With me is Colin Goldberg, who kind of coined and kind of founded our whole little movement here, our little community. And today I'm actually not going to be talking too much because I'm actually going to pass the seat off to Roz, who kind of spearheaded the initiative of having pretty much our theme for today with Women's History Month.
 
-So you have the floor, Roz. Go ahead. Can everyone that's not speaking please mute yourselves too, if you don't mind? That is also the thing I forgot. Thanks, Davo. Yes, I thought it would be nice to, even though we do have a fairly nice representation of women and other countries in our Artist Index, I just thought it'd be nice to salute the International Women's Art History Month. And as a woman who is been working in this field for 38 years, I mean I started in 1984 when my own paintings filled up with pixels, I like to see, I like to salute those who have been in this industry and some of the young new people who I'm seeing on the Artist Index, which is what we focus on because after all this is the Techspressionism salon. So all the artists who are presenting today are in the Artist Index and we are going to be starting in March.
+So you have the floor, Roz. Go ahead. Can everyone that's not speaking please mute yourselves too, if you don't mind?
 
-So if you're interested in getting into the work, we're going to be starting with, it doesn't really matter who goes first depending on who wants to, but we are represented quite widely across the world by Negin Ehtesabian from Iran. Where's Nagin? Maybe just raise your hand so people see you. Do I see? Oh, there you are. I couldn't even see. There's Nagin. And also Nagin and I actually ended up, we did an early collaboration in the first series that Davonte is curating and we're looking forward to seeing that. Yay.
+## Unattributed [01:04](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=64s)
 
-And Diane Marsella is going to be speaking. She is located in, I think, Diane where are you? Maybe you can, in Nashville? I live outside of Nashville, originally from New York, but yeah I live just outside of Nashville now in Tennessee. Great. And also Sue Beyer will be speaking today from Melbourne and we really appreciate you guys because we know, we're here in the United States and we have a few hours difference, but we know it's a much larger time span. So thank you for being here with us. I mean, we all know there's a lot of excitement and BS and real good stuff too going on in the digital world right now, but it is about time that the art world proper started to accept this new medium that is just, you know, it is the medium that speaks to our time. I've been saying that forever and I believe it wholeheartedly and it's not just about technique.
+That is also the thing I forgot.
 
-It is about expression and personal expression. So I'm hoping that this door that's opening right now will open to all the complexities and personalities that go into digital art. You know, it's much more than wallpaper here. So it's really different personalities and I'm sure we'll be seeing that today. And with that, here's to women in technology. Oh, I want to say one more thing about that. Often in the past, women in technology have been, you know, lagged quite far behind when in terms of being recognized in fields, especially of art and science. Now that is changing a lot and I'm hoping that these doors that are opening right now for people and others who, wow, here's hats off to Beeple man. Wow. Incredible. But that it'll also open to people across the rainbow spectrum. Maybe this is a door that's going to open a lot more than than than just what we're seeing today.
+## Roz Dimon [01:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=67s)
 
-I mean, I think that's what we've seen, but maybe a new kind of reality for artists and even for new collectors to come into the scene that aren't just the two percent at the top. I mean, people don't realize this, but Alice Gee was one of the early filmmakers and no one even knows her name today. So, you know, we want to remember those who started it and who are continuing it. So with that said, here's to women and here's to the men too.
+Thanks, Davo. Yes, I thought it would be nice to, even though we do have a fairly nice representation of women and other countries in our Artist Index, I just thought it'd be nice to salute the International Women's Art History Month. And as a woman who is been working in this field for 38 years, I mean I started in 1984 when my own paintings filled up with pixels, I like to see, I like to salute those who have been in this industry and some of the young new people who I'm seeing on the Artist Index, which is what we focus on because after all this is the Techspressionism salon. So all the artists who are presenting today are in the Artist Index and we are going to be starting in March. So if you're interested in getting into the work, we're going to be starting with, it doesn't really matter who goes first depending on who wants to, but we are represented quite widely across the world by Negin Ehtesabian from Iran.
 
-Everybody, actually, but because of this month, we're celebrating women. And does anybody want to volunteer to start? Remember, don't get nervous. Just, you know, it's a fun space we have here where we do serious stuff. But, Nagin, could you maybe start or would you rather someone else start? You're because you're in Iran or either, Sue, I'm just thinking time wise and make sure you unmute.
+Where's Nagin? Maybe just raise your hand so people see you. Do I see? Oh, there you are. I couldn't even see. There's Nagin. And also Nagin and I actually ended up, we did an early collaboration in the first series that Davonte is curating and we're looking forward to seeing that. Yay. And Diane Marsella is going to be speaking. She is located in, I think, Diane where are you? Maybe you can, in Nashville?
 
-I'd like to go a bit later, if that's OK. That's fine. Okay, I start.
+## Diane Marsella [02:41](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=161s)
 
-## Negin Ehtesabian [05:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=330s)
+I live outside of Nashville, originally from New York, but yeah I live just outside of Nashville now in Tennessee.
 
-Good afternoon, everyone from 10 p.m. Tehran. I'm Negin Ehtesabian. And first of all, I want to thank you all for your great community that it's such a welcoming and valuable. A group of artists that we can learn a lot from them and get to know many impressive artists, especially for someone like me, that my most of my art practice is has been traditional and illustration.
+## Roz Dimon [02:47](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=167s)
 
-And though I was using computer for my art for about almost 20 years, but mostly as a help tool rather than the real actual technique. So I was using it in the same way that you use pencil or other materials, but different that it's a shiny modern quality of it. So if it is OK, I start sharing some. Of my artworks and talk about it to that. That's great.
+Great. And also Sue Beyer will be speaking today from Melbourne and we really appreciate you guys because we know, we're here in the United States and we have a few hours difference, but we know it's a much larger time span. So thank you for being here with us. I mean, we all know there's a lot of excitement and BS and real good stuff too going on in the digital world right now, but it is about time that the art world proper started to accept this new medium that is just, you know, it is the medium that speaks to our time. I've been saying that forever and I believe it wholeheartedly and it's not just about technique. It is about expression and personal expression. So I'm hoping that this door that's opening right now will open to all the complexities and personalities that go into digital art.
 
-Are you having my screen? Yep, we could also see ourselves because we the screen's up. Yeah, we see ourselves on your screen. Oh, there we go. Yeah. OK. Now I am a visual artist and illustrator born and raised in Tehran, Iran, studied visual communication at the University of Tehran Fine Art Faculty and Animation at University of the West of England, Bristol. The biggest part of my art practice has been illustration and I have had other experiences is design, painting, workshop leads. And I'm also a visual artist. Urban art, painting, murals, right design, intercultural art, art collaboration and street art projects.
+You know, it's much more than wallpaper here. So it's really different personalities and I'm sure we'll be seeing that today. And with that, here's to women in technology. Oh, I want to say one more thing about that. Often in the past, women in technology have been, you know, lagged quite far behind when in terms of being recognized in fields, especially of art and science. Now that is changing a lot and I'm hoping that these doors that are opening right now for people and others who, wow, here's hats off to Beeple man. Wow. Incredible. But that it'll also open to people across the rainbow spectrum. Maybe this is a door that's going to open a lot more than than than just what we're seeing today. I mean, I think that's what we've seen, but maybe a new kind of reality for artists and even for new collectors to come into the scene that aren't just the two percent at the top.
+
+I mean, people don't realize this, but Alice Gee was one of the early filmmakers and no one even knows her name today. So, you know, we want to remember those who started it and who are continuing it. So with that said, here's to women and here's to the men too. Everybody, actually, but because of this month, we're celebrating women. And does anybody want to volunteer to start? Remember, don't get nervous. Just, you know, it's a fun space we have here where we do serious stuff. But, Nagin, could you maybe start or would you rather someone else start? You're because you're in Iran or either, Sue, I'm just thinking time wise and make sure you unmute.
+
+## Sue Beyer [05:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=323s)
+
+I'd like to go a bit later, if that's OK.
+
+## Negin Ehtesabian [05:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=326s)
+
+That's fine. Okay, I start. Good afternoon, everyone from 10 p.m. Tehran. I'm Negin Ehtesabian. And first of all, I want to thank you all for your great community that it's such a welcoming and valuable. A group of artists that we can learn a lot from them and get to know many impressive artists, especially for someone like me, that my most of my art practice is has been traditional and illustration.
+
+And though I was using computer for my art for about almost 20 years, but mostly as a help tool rather than the real actual technique. So I was using it in the same way that you use pencil or other materials, but different that it's a shiny modern quality of it. So if it is OK, I start sharing some. Of my artworks and talk about it to that.
+
+## Unattributed [06:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=417s)
+
+That's great.
+
+## Negin Ehtesabian [07:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=427s)
+
+Are you having my screen?
+
+## Davonte Bradley [07:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=432s)
+
+Yep, we could also see ourselves because we the screen's up.
+
+## Roz Dimon [07:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=438s)
+
+Yeah, we see ourselves on your screen. Oh, there we go. Yeah.
+
+## Negin Ehtesabian [07:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=443s)
+
+OK. Now I am a visual artist and illustrator born and raised in Tehran, Iran, studied visual communication at the University of Tehran Fine Art Faculty and Animation at University of the West of England, Bristol. The biggest part of my art practice has been illustration and I have had other experiences is design, painting, workshop leads. And I'm also a visual artist. Urban art, painting, murals, right design, intercultural art, art collaboration and street art projects.
 
 About 35 of my children picture books has been published in different countries, and they have been awarded in several B&Os and illustration art first. Between. 2008 to 2012. I was leading the Iranian artist team in a series of collaborative intercultural new media art projects with some American artists that founded mostly by Morrison and Lahiri that was shown in the US and Canada. And actually it was my first steps into the new world of art today. It was also where I first virtually met Patrick who married 10 years later. And when I'm living with him and all the technology around him, along with all the gallery visits, and many our discussions discussions and even arguments lead me to a whole new understanding of art today and they created and it created the need of it in my art. We also collaborate together in art projects, art performances and video.
 
@@ -58,39 +90,121 @@ That is a beautiful picture, but all those knots also matter. But it seems somet
 
 Then I tried. Creating some quotes to music no notes and picture a part of the piece of music visually. So it's like when I was trying to put the notes in there. Then I wanted I went more emotion emotional based and tried to picture what I was hearing and tried it in a different way. So it was more of.
 
-Sensation of the music. This one is the one I tried to write the notes and have some variation of it and then I started to work with it more virtually. Then I shared some of my Instagram page. I started to picture my emotional feelings like as if any feelings... Like as if any feelings we have in the moment was in music. How it would look like. I took a notebook for it and started a journal of cartographies to sketch the emotions before I make them into digital form. Actually one other thought is that either if we think in pixels and codes, isn't it actually having a digital format? It's like having a digital system of thinking or seeing things.
+Sensation of the music. This one is the one I tried to write the notes and have some variation of it and then I started to work with it more virtually. Then I shared some of my Instagram page.
 
-So it was kind of a processing everything in digital format equally. Make a computer, like computer chromatidia experience, like this one. So I started to think of my emotions at the moment I had like lucky to be here and I had this feeling and I tried to see how these emotions demonstrate visually or like miraculous neighborhood with one of my friends or instead of late it was for Patrick my husband that for a reason he was staying up late for me and so I was thinking about that and I tried to make a map of it so if you check my journal it's all different thing or I was hearing to our dialogue dialogue with Ross who I think she helped me a lot to feel welcome in this community and I told her that you are like that kind of a spirit that every community needs so I was thinking of that and I was listening to our dialogue and I was drawing that so that's my talking we're going to all for you in the next few minutes and you're going to go to talk about it.
+## Unattributed [12:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=775s)
 
-We wanna leave room for other presenters. I love looking at your work and the expression of the pixels as that inner thing inside us and it's changing the world right now and the way you related it to people feeling alien to one another. I mean, it's interesting that the word digit actually means touch. So we are able to touch each other with this medium. I love your new journals. Thank you. And if people have questions, guess, Davo, how do you want, do you want people to raise their hand physically or to put up a hand or what should we do?
+I
+
+## Negin Ehtesabian [12:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=777s)
+
+Started to picture my emotional feelings like as if any feelings... Like as if any feelings we have in the moment was in music. How it would look like. I took a notebook for it and started a journal of cartographies to sketch the emotions before I make them into digital form. Actually one other thought is that either if we think in pixels and codes, isn't it actually having a digital format? It's like having a digital system of thinking or seeing things.
+
+So it was kind of a processing everything in digital format equally. Make a computer, like computer chromatidia experience, like this one. So I started to think of my emotions at the moment I had like lucky to be here and I had this feeling and I tried to see how these emotions demonstrate visually or like miraculous neighborhood with one of my friends or instead of late it was for Patrick my husband that for a reason he was staying up late for me and so I was thinking about that and I tried to make a map of it so if you check my journal it's all different thing or I was hearing to our dialogue dialogue with Ross who I think she helped me a lot to feel welcome in this community and I told her that you are like that kind of a spirit that every community needs so I was thinking of that and I was listening to our dialogue and I was drawing that so that's my talking we're going to all for you in the next few
+
+## Roz Dimon [16:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=976s)
+
+Minutes and you're going to go to talk about it. We wanna leave room for other presenters. I love looking at your work and the expression of the pixels as that inner thing inside us and it's changing the world right now and the way you related it to people feeling alien to one another. I mean, it's interesting that the word digit actually means touch. So we are able to touch each other with this medium. I love your new journals.
+
+## Unattributed [16:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1010s)
+
+Thank you.
+
+## Roz Dimon [16:51](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1011s)
+
+And if people have questions, guess, Davo, how do you want, do you want people to raise their hand physically or to put up a hand or what should we do?
+
+## Davonte Bradley [17:11](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1031s)
 
 Or do you want to ask verbal questions that they want to ask and maybe they're not the best at typing them? Please do raise your hand and we'll get to you in order of those. If you're more comfortable writing your question, please feel free to throw them in the chat and we'll get to them as quickly as we can.
 
-All right. And we have our first question from Michael Price. So, again, I really love your work. It feels a little bit symbolic in ways that I can relate to. I was curious about the actual symbols that you've used and the colors. And if you could just say a little bit about that in terms of where those inspirations come from.
+All right. And we have our first question from Michael Price.
+
+## Michael Pierre Price [17:39](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1059s)
+
+So, again, I really love your work. It feels a little bit symbolic in ways that I can relate to. I was curious about the actual symbols that you've used and the colors. And if you could just say a little bit about that in terms of where those inspirations come from.
+
+## Negin Ehtesabian [18:11](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1091s)
 
 Thank you. Well, for the first step, when I was, if you hear voices, it's not the war here. It's Church Ambassery Festival because we celebrate the last Tuesday night here. So if you hear some fireworks, don't worry. But if you hear some fireworks, don't worry. If you hear some fireworks, don't worry. But if you hear some fireworks, don't worry. If you hear some fireworks, don't worry. If you hear some fireworks, don't worry. First step when I was working on the rugs and magnifying the maps, I was choosing one color equal to the map color. So in the next practice when I was doing the music piece, I was doing some research about visual music that they have done before and a lot of different musicians and artists choose each color for their maps. So they give us different colors for each map.
 
 Each color for each notes is like kind of decided that this color is for this note. So I tried to get some shade of that color for that note. And also the shape for me was like if it was a sharp sound like Pizzigato, I used like triangle. If it was like a soft heat or soft longer, longer you say, sound continuous, I used more round and softer form. Then also for the feelings, I thought like that, like if you think or it is question or it's just, you know, experiencing these feelings, I try to actually see those as a music and see that music as colors and shapes. So for me also is sometimes surprising when I finish that and I see which forms more, which of forms I use more or how color it looks like. It's kind of watching.
 
-My inner picture at the moment too. Thank you. Thanks. Thank you. Any other questions before we go on? I have, I have a comment more than anything. I love your work. And I'm really struck because I love fabric and have done all kinds of stuff with fabric. I love fabrics and rugs and things like that. But I love how you've taken the sense of fabric, which is often used as a personal envelope around the person. It's personal in its sense that it's manufactured. And yet you brought it into this emotion of music. And it's like you've enveloped the fabric around in a code, almost like a heartbeat being the base of music. So I love how you're bringing all these different layers into your work. Well done.
+My inner picture at the moment too. Thank you. Thanks. Thank you.
 
-Great work. Beautiful work. I have a question if that's permissible. You may proceed. Okay. Yeah, I are you, you seem to be referencing the history of the grid in 20th century painting and also traditional art in Persia. How much are you thinking about that relationship? You mean the history of art in my culture? Well, it seems to me in your culture, there's a long history of the grid.
+## Roz Dimon [20:45](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1245s)
 
-Obviously, it overlaps. With textile art and rugs. But in a lot of the world in the last hundred years has been a lot of painting involving the grid and making a grid design. And you seem to be combining those two, which is very interesting. Yeah, yeah. Actually, that's very interesting what you say, because the grid for art is so ancient in Iran because of the fabrics, pictorial fabrics and also the grid design. So all these architecture designs.
+Any other questions before we go on?
+
+## Karen LaFleur [20:49](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1249s)
+
+I have, I have a comment more than anything. I love your work. And I'm really struck because I love fabric and have done all kinds of stuff with fabric. I love fabrics and rugs and things like that. But I love how you've taken the sense of fabric, which is often used as a personal envelope around the person. It's personal in its sense that it's manufactured. And yet you brought it into this emotion of music. And it's like you've enveloped the fabric around in a code, almost like a heartbeat being the base of music. So I love how you're bringing all these different layers into your work. Well done.
+
+## Victor Acevedo [21:42](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1302s)
+
+Great work. Beautiful work.
+
+## Unattributed [21:46](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1306s)
+
+I have a question if that's permissible.
+
+## Davonte Bradley [21:49](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1309s)
+
+You may proceed. Okay.
+
+## Unattributed [21:51](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1311s)
+
+Yeah, I are you, you seem to be referencing the history of the grid in 20th century painting and also traditional art in Persia. How much are you thinking about that relationship?
+
+## Negin Ehtesabian [22:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1332s)
+
+You mean the history of art in my culture?
+
+## Unattributed [22:19](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1339s)
+
+Well, it seems to me in your culture, there's a long history of the grid. Obviously, it overlaps. With textile art and rugs. But in a lot of the world in the last hundred years has been a lot of painting involving the grid and making a grid design. And you seem to be combining those two, which is very interesting. Yeah, yeah. Actually, that's very interesting what you say, because the grid for art is so ancient in Iran because of the fabrics, pictorial fabrics and also the grid design. So all these architecture designs.
 
 So they all had maps and they all was doing in grids. So that's actually so much for me. It is so much like our society or our history. Like all these grids and pixels were in different colors and put together and make these beautiful pictures. Of the like art and culture. But each of them had were individuals that are forgotten or never been seen. I'm sure. So a lot of times artists in our history didn't even have a sign or name or no one knows them. So only the big picture stayed, not the people.
 
 So for me, also bring it bringing that into digital art is like the society or the culture that change. But the grids are the same. We just see them in a different point of view. So for me, it's not like a different thing. It's like the same thing, but in a different approach. I don't know. It's like you get what you wanted to know.
 
-Thank you. All right. If anyone if there are no further questions, I think we can go right ahead into our next presenter for today, which Roz would that be? It's either going to be Diane Marsella. Diane, can you go next? And I think that Nagin, thank you. That was wonderful. Really. Thank you. Thank you so much. And you can stop your share. So that might be good. If you can share. I haven't stopped. Oh, sorry. Yeah. It was nice to look at your work while we talked about it. I thought it was great that it was up there. Thank you. Art needs to be looked at a while.
+Thank you.
 
-So is it possible? Diane? Yes, ma'am. I'm
+## Davonte Bradley [24:39](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1479s)
 
-## Diane Marsella [25:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1530s)
+All right. If anyone if there are no further questions, I think we can go right ahead into our next presenter for today, which Roz would that be?
 
-Ready. I have to tell you, though, I wish I had gone first because I don't think I want to follow Nagin's work. I should have gone first. But beautiful. And the decomposition and the recomposition of the essential elements of the work is absolutely fascinating. So, okay. I promise, Colin, I keep my presentation moving.
+## Roz Dimon [24:54](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1494s)
 
-And... Yeah. I'm going to share my screen now. All right. So I started out... Can everybody see that first image? Yep. Yeah. Okay. Great. All right. So I started out a photographer, kind of a Felix Unger, weddings and portraits, a specialty. And as a photographer, you know, it's kind of a lonely art. You're always observing somebody else's activity. So when those down times... You take your camera and you find interesting things. You start to notice things like...
+It's either going to be Diane Marsella. Diane, can you go next? And I think that Nagin, thank you. That was wonderful. Really. Thank you. Thank you so much. And you can stop your share. So that might be good. If you can share.
+
+## Negin Ehtesabian [25:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1512s)
+
+I haven't stopped. Oh, sorry.
+
+## Roz Dimon [25:14](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1514s)
+
+Yeah. It was nice to look at your work while we talked about it. I thought it was great that it was up there. Thank you. Art needs to be looked at a while. So is it possible? Diane? Yes, ma'am.
+
+## Diane Marsella [25:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1529s)
+
+I'm ready. I have to tell you, though, I wish I had gone first because I don't think I want to follow
+
+## Unattributed [25:35](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1535s)
+
+Nagin's work.
+
+## Diane Marsella [25:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1536s)
+
+I should have gone first. But beautiful. And the decomposition and the recomposition of the essential elements of the work is absolutely fascinating. So, okay. I promise, Colin, I keep my presentation moving. And... Yeah. I'm going to share my screen now. All right. So I started out... Can everybody see that first image?
+
+## Roz Dimon [26:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1566s)
+
+Yep.
+
+## Diane Marsella [26:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1567s)
+
+Yeah. Okay. Great. All right. So I started out a photographer, kind of a Felix Unger, weddings and portraits, a specialty. And as a photographer, you know, it's kind of a lonely art. You're always observing somebody else's activity. So when those down times... You take your camera and you find interesting things. You start to notice things like...
 
 And I started... I just work in Photoshop. And since I was a photographer really all my life, you start to learn a lot about people and that really people are all the same, whether you're sitting in the back of a Catholic church or a synagogue. People really all are the same. We come from the same... We're one race.
 
@@ -102,23 +216,171 @@ So I did it in my art. Instead, I started to show my rage and what I felt I coul
 
 And I have to say, when I first found the group, I had applied to a show on Call for Artists and I never thought that I would, when Colin emailed me and said, hey, we've got this little group, we're going, what do you think? And I have to tell you, since I've been, you know, listening to some of the, not only the great artists of this movement, but founders, I am actually rather humbled to be part of you guys. I hope I can somehow contribute something that other people will go, hey, that's a really cool thing.
 
-These are- Diane, I'm going to interrupt really, for a quick, is, yes, ma'am. Oh my goodness. I'm from Atlanta. I just have it. That's sweet. Yeah, would you, there has been a request because your work looks really beautiful to make it bigger. And you're probably planning on doing that, but just let you know, people are hungry to see it.
+## Roz Dimon [29:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1790s)
 
-What do you mean? Can you not see it full screen? Is that what's not happening? We're seeing little pictures. We're seeing all your- Oh, really? Yes, we haven't. I wasn't sure if you were doing that. No, I've got- Not in full screen. Oh, that's really annoying, isn't it? Yeah, so that's all right. How do I, how do I do that?
+These are- Diane, I'm going to interrupt really, for a quick, is, yes, ma'am. Oh my goodness. I'm from Atlanta.
 
-Oh, that's a darn good question, isn't it? All right. Well, maybe when you share your screen, if you don't share the whole desktop, you can't get to everything. So you can either unshare and try again, or you can double click on these and, or select them all and double click to go through them. Not sure what's the best way. Maybe Devo has messages. I mean, I've got, oh, you know, it just, all right. I'm going to stop sharing and try to share again.
+## Unattributed [29:58](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1798s)
 
-Oh, that's so frustrating. Take your time. Just pick the screen that you can work with, you know? I mean, if you pick the whole desktop, you'll be able to see it. Well, I don't really, I just have the folder. I mean, I opened up my, I put a folder together and, you know, I've double clicked it. And you're- You're still seeing a small image. Well, now you're not sharing at all. You have to go back and share.
+I just have it.
 
-Oh, don't worry. We've all done this stuff. It's not a big deal. And of course I'm recording. So it just sounds like it just being just- Community. Yeah, you're very kind, ma'am. All right. Okay. I don't want scheduling. Why? See, I told you I shouldn't have gone for a second. See, I, okay. All right. Now it's just embarrassing. Okay. Okay. I was over here somewhere.
+## Roz Dimon [30:00](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1800s)
 
-All right. So you're not seeing a big image. Nope. You're seeing a whole- We're seeing the whole screen of all the little images. It looks like it's- Well, that's just stupid, isn't it? No, I'm real frustrated now. Your folder might be at the bottom where you have to double click it. I don't know if you're on a Mac. No, I'm on a- I'm on a- I'm on a PC.
+That's sweet. Yeah, would you, there has been a request because your work looks really beautiful to make it bigger. And you're probably planning on doing that, but just let you know, people are hungry to see it.
 
-I have a question for you. Do you have two monitors or just one monitor? No, just one, sir. So it's just one monitor. When you click screen share, did you click capture the window or do you capture your desktop? Well, I'm going to stop. I feel like it's remedial 101. Okay. I just hit screen share. And then what do I, do I?
+## Diane Marsella [30:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1812s)
 
-Okay. After you hit screen share, you go and it gives you an options of what you can spend. Yeah. So you select, yeah. So select either the, if you select the whole desktop and Devo, correct me if I'm wrong, if you select the whole desktop, you have options to go into whatever you really, whatever you want to do on your desktop. You're open. Oh, hold on a second. If you just select one screen, you're kind of locked in there. Hold on a second. I think I got it. Hold on. Hang on. I think you got it because we see the entire screen. Is that a bigger screen now? Yeah. There we go. You guys are very patient. Thank you. Okay. Okay. All right. So you've seen some of my, okay. All right. Anyway, I'll go to my more current work since I've kind of wasted six minutes of your time. I'm sorry. Thank you for your help.
+What do you mean? Can you not see it full screen? Is that what's not happening?
 
-Okay. So we're able to see your work, just not big, but we can get you. I'm sorry. I'm glad you said something, Roz. Thank you. All right. So I don't, you know, I just, this one is entitled. Yeah, I've just lost it. Nero. Nero. And of course, this was after our former, I don't want to call him a leader because he wasn't because as Nero burned while, as he fiddled while Rome burned, while our cities were burning and our people were being massacred, Drumpy was out playing golf and I was outraged.
+## Unattributed [30:15](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1815s)
+
+We're seeing little pictures.
+
+## Roz Dimon [30:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1816s)
+
+We're seeing all your- Oh, really? Yes, we haven't. I wasn't sure if you were doing that.
+
+## Diane Marsella [30:22](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1822s)
+
+No, I've got- Not in full screen. Oh, that's really annoying, isn't it?
+
+## Unattributed [30:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1827s)
+
+Yeah, so that's all right.
+
+## Diane Marsella [30:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1829s)
+
+How do I, how do I do that? Oh, that's a darn good question, isn't it? All right.
+
+## Roz Dimon [30:38](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1838s)
+
+Well, maybe when you share your screen, if you don't share the whole desktop, you can't get to everything. So you can either unshare and try again, or you can double click on these and, or select them all and double click to go through them.
+
+## Unattributed [30:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1850s)
+
+Not sure what's the best way.
+
+## Diane Marsella [30:52](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1852s)
+
+Maybe Devo has messages. I mean, I've got, oh, you know, it just, all right. I'm going to stop sharing and try to share again. Oh, that's so frustrating.
+
+## Unattributed [31:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1867s)
+
+Take your time.
+
+## Roz Dimon [31:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1867s)
+
+Just pick the screen that you can work with, you know? I mean, if you pick the whole desktop, you'll be able to see it.
+
+## Diane Marsella [31:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1873s)
+
+Well, I don't really, I just have the folder. I mean, I opened up my, I put a folder together and, you know, I've double clicked it. And you're- You're still seeing a small image.
+
+## Roz Dimon [31:25](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1885s)
+
+Well, now you're not sharing at all. You have to go back and share.
+
+## Unattributed [31:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1889s)
+
+Oh, don't worry.
+
+## Roz Dimon [31:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1890s)
+
+We've all done this stuff. It's not a big deal.
+
+## Diane Marsella [31:33](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1893s)
+
+And of course I'm recording. So it just sounds like it just being just- Community. Yeah, you're very kind, ma'am. All right. Okay. I don't want scheduling. Why? See, I told you I shouldn't have gone for a second. See, I, okay. All right. Now it's just embarrassing. Okay. Okay. I was over here somewhere.
+
+All right. So you're not seeing a big image.
+
+## Roz Dimon [32:00](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1920s)
+
+Nope.
+
+## Diane Marsella [32:01](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1921s)
+
+You're seeing a whole-
+
+## Roz Dimon [32:03](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1923s)
+
+We're seeing the whole screen of all the little images.
+
+## Diane Marsella [32:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1926s)
+
+It looks like it's- Well, that's just stupid, isn't it?
+
+## Roz Dimon [32:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1932s)
+
+No,
+
+## Diane Marsella [32:14](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1934s)
+
+I'm real frustrated now.
+
+## Roz Dimon [32:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1937s)
+
+Your folder might be at the bottom where you have to double click it. I don't know if you're on a Mac.
+
+## Diane Marsella [32:21](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1941s)
+
+No, I'm on a- I'm on a- I'm on a PC.
+
+## Davonte Bradley [32:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1946s)
+
+I have a question for you. Do you have two monitors or just one monitor?
+
+## Diane Marsella [32:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1949s)
+
+No, just one, sir.
+
+## Davonte Bradley [32:31](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1951s)
+
+So it's just one monitor. When you click screen share, did you click capture the window or do you capture your desktop?
+
+## Diane Marsella [32:38](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1958s)
+
+Well, I'm going to stop. I feel like it's remedial 101. Okay. I just hit screen share. And then what do I, do I? Okay.
+
+## Roz Dimon [32:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1968s)
+
+After you hit screen share, you go and it gives you an options of what you can spend. Yeah. So you select, yeah. So select either the, if you select the whole desktop and Devo, correct me if I'm wrong, if you select the whole desktop, you have options to go into whatever you really, whatever you want to do on your desktop. You're open.
+
+## Unattributed [33:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1986s)
+
+Oh, hold on a second. If you just select one screen, you're kind of locked in there.
+
+## Diane Marsella [33:09](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1989s)
+
+Hold on a second. I think I got it. Hold on. Hang on.
+
+## Davonte Bradley [33:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1993s)
+
+I think you got it because we see the entire screen.
+
+## Unattributed [33:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1996s)
+
+Is that a bigger screen now? Yeah. There we go.
+
+## Diane Marsella [33:19](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1999s)
+
+You guys are very patient.
+
+## Unattributed [33:20](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2000s)
+
+Thank you.
+
+## Diane Marsella [33:21](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2001s)
+
+Okay. Okay. All right. So you've seen some of my, okay. All right. Anyway, I'll go to my more current work since I've kind of wasted six minutes of your time. I'm sorry. Thank you for your help. Okay.
+
+## Roz Dimon [33:35](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2015s)
+
+So we're able to see your work, just not big, but we can get you.
+
+## Diane Marsella [33:38](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2018s)
+
+I'm sorry. I'm glad you said something, Roz. Thank you. All right. So I don't, you know, I just, this one is entitled. Yeah, I've just lost it. Nero. Nero. And of course, this was after our former, I don't want to call him a leader because he wasn't because as Nero burned while, as he fiddled while Rome burned, while our cities were burning and our people were being massacred, Drumpy was out playing golf and I was outraged.
 
 And so it kind of came across in my art. Everything, this was actually on election day. This one is called Ascent from Madness because I thought, oh, I thought it was the first breath of air that a lot of us could feel we could take after four years of going, oh my God, what's he going to do next? And then sedition day came and they tried to take down the government. And I was outraged again, but I knew it was, I knew it would be okay. Cause I've been telling my family for four years we'll be okay.
 
@@ -126,51 +388,147 @@ And then, then I got to the point where I just thought, well, my sanity was just
 
 And this is a lot of red because this is a falling from grace as they all just sort of sliding off into the abyss, which is where I hope. So no, not team pasta. This is sort of my, my theme. It means I am the storm because as, as females, I know we're all tired of being told to sit in the back, and don't, don't have your, don't let your opinion be known, be a good girl and go do that. And no, I'm sorry. That's not, that's not who we are. And that's just not acceptable.
 
-And then these are a few that I've just finished recently. These are some old pieces that I decided to rework. Again, just using the same technique, Photoshop, moving layers around, creating layers. This was the most recent, one and coming back to beginnings Genesis revisited. I like the wave as a recurring theme or the wave shape and recurring theme in my work, because, you know, we all have come from the sea. It is life. It is also destruction. It depends on your point of view. And that's what I'm working on. And thank you so much for allowing me to share and nine minutes, not bad, but six minutes. And it's was yeah, just goofy. So I apologize for that. All right. I'm going to turn off my screen now. And thank you, Diane. Thank you, ma'am. Appreciate the share. We enjoyed listening to it and looking at your work.
+And then these are a few that I've just finished recently. These are some old pieces that I decided to rework. Again, just using the same technique, Photoshop, moving layers around, creating layers. This was the most recent, one and coming back to beginnings Genesis revisited. I like the wave as a recurring theme or the wave shape and recurring theme in my work, because, you know, we all have come from the sea. It is life. It is also destruction. It depends on your point of view. And that's what I'm working on. And thank you so much for allowing me to share and nine minutes, not bad, but six minutes. And it's was yeah, just goofy. So I apologize for that. All right. I'm going to turn off my screen now. And thank you, Diane. Thank you, ma'am. Appreciate the share.
 
-If anybody has any questions. I'm saying format from before. If you have any questions, you can type them into the chat box or raise your hand. If you have a question you'd like to say with your own voice, either way, we're open. Open for comments. Or if you don't even have a question, you just have a remark to say or share with Diane about her work. That's completely okay too.
+## Roz Dimon [37:03](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2223s)
 
-Just be kind because I did muck up for six minutes, guys. So be kind. I think Colin had written, he was interested in the source images for some of the political, but maybe you spoke to that somewhat. I don't know if that's what Colin was asking though exactly. No, it's a good question. The source images are never related to the finished product.
+We enjoyed listening to it and looking at your work. If anybody has any questions.
 
-Sometimes I do some local art shows because like you talked about before Roz, it's time for people to take the abstract digital serious. And I live in a red state and it's a blue area, but it's kind of a red state and they're real traditional down here. And when I tried to approach some galleries down here, and I was told, you know, I'm not going to be able to do this. I'm going to be able to do this. And I was told with a very polite before, oh, we're not looking at abstract photography. Thanks very much. So, but somebody had said to me at a show, hey, why don't you put the original image next to the finished? And I thought about that and I went, nah, because the original image is not related to the finished. What I look at Colin and everybody is I look at design and movement in anything.
+## Davonte Bradley [37:11](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2231s)
 
-It could be, you know, crystal shining through a glass, or frost on my window. I look at that and I go, ah, that's really cool. And I'll take an image of that. And then I'll throw it in my folders and I don't touch them for a bit. And then I'll go back and go, oh, what can I make out of that? So I take a finished image of something. I just look at pure design, which is completely the antithesis of what I've done my entire life. And I was a photographer. I was a photo finisher.
+I'm saying format from before. If you have any questions, you can type them into the chat box or raise your hand. If you have a question you'd like to say with your own voice, either way, we're open. Open for comments. Or if you don't even have a question, you just have a remark to say or share with Diane about her work. That's completely okay too.
+
+## Diane Marsella [37:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2256s)
+
+Just be kind because I did muck up for six minutes, guys. So be kind.
+
+## Roz Dimon [37:43](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2263s)
+
+I think Colin had written, he was interested in the source images for some of the political, but maybe you spoke to that somewhat. I don't know if that's what Colin was asking though exactly.
+
+## Diane Marsella [37:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2273s)
+
+No, it's a good question. The source images are never related to the finished product. Sometimes I do some local art shows because like you talked about before Roz, it's time for people to take the abstract digital serious. And I live in a red state and it's a blue area, but it's kind of a red state and they're real traditional down here. And when I tried to approach some galleries down here, and I was told, you know, I'm not going to be able to do this. I'm going to be able to do this. And I was told with a very polite before, oh, we're not looking at abstract photography. Thanks very much. So, but somebody had said to me at a show, hey, why don't you put the original image next to the finished? And I thought about that and I went, nah, because the original image is not related to the finished.
+
+What I look at Colin and everybody is I look at design and movement in anything. It could be, you know, crystal shining through a glass, or frost on my window. I look at that and I go, ah, that's really cool. And I'll take an image of that. And then I'll throw it in my folders and I don't touch them for a bit. And then I'll go back and go, oh, what can I make out of that? So I take a finished image of something. I just look at pure design, which is completely the antithesis of what I've done my entire life. And I was a photographer. I was a photo finisher.
 
 Everything I was, you know, I'm a portraitist. I'm a portrait painter. So it's completely opposite of what I've done. I take a finished image. I appreciate good photography. But to me, the finished photograph isn't enough. Because if I can't reinterpret what I see, then why am I doing this? It's a quick snap and I go, it's pretty. I don't know if that answered your question all or I just ramble a bit. I hope I answered.
 
-Good. All right, cool. Thank you. And then I have a question for you. She wants to know if, is the beginning, is your beginning the manipulation process or of the original image? Like, is that where you start? I just look at an image and I'll pull, I'll just go scrolling through my images. I say, I'm kind of feeling that one today. I'll throw it into Photoshop.
+Good. All right, cool. Thank you.
 
-I look, sometimes I take just a section of the image because I like the particular image. I take the particular design or the contrast or the movement. And then I'll crop that. And then I'll start working with that. And then it's kind of a, it's kind of a, you know, it's a metamorphosis. I don't know where it's going to take me.
+## Davonte Bradley [39:51](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2391s)
+
+And then I have a question for you. She wants to know if, is the beginning, is your beginning the manipulation process or of the original image? Like, is that where you start?
+
+## Diane Marsella [40:04](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2404s)
+
+I just look at an image and I'll pull, I'll just go scrolling through my images. I say, I'm kind of feeling that one today. I'll throw it into Photoshop. I look, sometimes I take just a section of the image because I like the particular image. I take the particular design or the contrast or the movement. And then I'll crop that. And then I'll start working with that. And then it's kind of a, it's kind of a, you know, it's a metamorphosis. I don't know where it's going to take me.
 
 Some pieces come together very quickly. Some pieces I labor on and sometimes I look at them. I'll start with 15 or 20 layers and I'll go, oh, this is just awful. And I just delete the whole thing and start all over again. Because I had a drawing instructor who once said, it's not precious, it's just dirt on paper. You can start again.
 
-It's just, it's kind of how the image hits me at the time. I don't start out with an idea and go, okay, this one's going to be political. If I had a rough day at work, I usually create a piece when I get home. Okay. Thank you so much, Diane. We really enjoyed it. Thank you. Thank you for looking at your work. There's one piece in there, some big red wings that come out or something that, I don't know, it just really strikes me as a very, very powerful image.
+It's just, it's kind of how the image hits me at the time. I don't start out with an idea and go, okay, this one's going to be political. If I had a rough day at work, I usually create a piece when I get home.
 
-That one's 9-11. Oh, is it? I'm glad that evokes a strong emotion. It's a nice piece. Thank you. I wasn't in New York when the planes hit, but I'm a New Yorker and that was my city that was attacked. And every year, I knew somebody who lost his life in the tower. It's something that I don't think any of us have ever gotten over.
+## Roz Dimon [41:15](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2475s)
 
-And that one is, I knew some firefighters who work there. I know people who are sick from it afterwards. It's something that's going to affect us forever. And again, what am I? I'm just an artist. I'm a stupid, dumb photographer. What did I have to contribute to what these people did? So if I can get a picture of a person, I can get a picture of a person. I can contribute one piece that moves somebody. I go, yeah, okay. I'm okay with that. So thank you. Thank you. Nice, humble approach. You don't hear that often with artists these days. And it's nice because we are, we are, I mean, that's, we are, I have a feeling that we're like sort of the shamans that are painting the cave wall of what's going on for people to wonder at. Agreed. Absolutely, agreed. So we're not like this, oh, we are the great ones.
+Okay. Thank you so much, Diane. We really enjoyed it. Thank you. Thank you for looking at your work. There's one piece in there, some big red wings that come out or something that, I don't know, it just really strikes me as a very, very powerful image.
 
-You know, I mean, once in a while, you get a great one, you know, but not every work is a masterpiece and we have to be critical of our work and others. So thank you so much. So our next presenter will be, unless that's all the questions, I think. Yes. Sue Beyer from Melbourne, Australia. We're so glad you're here. Are you still here with us? Are you snoring yet? Yes, I'm still awake.
+## Unattributed [41:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2490s)
 
-Just because you're tired, the work hasn't been great. Yeah, thank you.
+That one's 9-11. Oh, is it?
 
-## Sue Beyer [43:15](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2595s)
+## Diane Marsella [41:32](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2492s)
 
-Thanks for inviting me. It's been a pleasure. I feel like I've found my people. I've been watching a few of the videos on YouTube and I can really relate to what everyone's work is about. And I'm seeing a lot of my work and everyone else's work. So it was really, it's been really nice to watch some of those videos.
+I'm glad that evokes a strong emotion.
 
-Okay, so I've not used Zoom before. So just, I'm going to share my screen. And then I'm going to go to the desktop. Firefox. Now remember when you share, you had to click share. That's always been one thing I always forget to do is click share. Okay. Okay. So can everyone see my website with pictures? Yeah. Excellent. Okay.
+## Unattributed [41:38](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2498s)
 
-So I've just told you a bit of a background of my own life. So I've just told you a bit of a background of my own life. Okay. So I grew up on a farm in regional Queensland and it was very, pretty backward. This was in the seventies. It was very racist and not a very nice place. So I used to spend a lot of time just in my bedroom, drawing, doing my own thing. And as soon as I was old enough, I would, I escaped. Okay. And I would have an unaffiliated job. And I would have to really just like be on the front page. And I would have to do it and be on the front page.
+It's a nice piece.
+
+## Diane Marsella [41:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2500s)
+
+Thank you. I wasn't in New York when the planes hit, but I'm a New Yorker and that was my city that was attacked. And every year, I knew somebody who lost his life in the tower. It's something that I don't think any of us have ever gotten over. And that one is, I knew some firefighters who work there. I know people who are sick from it afterwards. It's something that's going to affect us forever. And again, what am I? I'm just an artist. I'm a stupid, dumb photographer. What did I have to contribute to what these people did? So if I can get a picture of a person, I can get a picture of a person. I can contribute one piece that moves somebody. I go, yeah, okay. I'm okay with that. So thank you. Thank you.
+
+## Unattributed [42:25](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2545s)
+
+Nice, humble approach.
+
+## Roz Dimon [42:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2547s)
+
+You don't hear that often with artists these days. And it's nice because we are, we are, I mean, that's, we are, I have a feeling that we're like sort of the shamans that are painting the cave wall of what's going on for people to wonder at. Agreed. Absolutely, agreed. So we're not like this, oh, we are the great ones. You know, I mean, once in a while, you get a great one, you know, but not every work is a masterpiece and we have to be critical of our work and others. So thank you so much.
+
+So our next presenter will be, unless that's all the questions, I think. Yes. Sue Beyer from Melbourne, Australia. We're so glad you're here. Are you still here with us? Are you snoring yet?
+
+## Unattributed [43:09](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2589s)
+
+Yes, I'm still awake.
+
+## Roz Dimon [43:11](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2591s)
+
+Just because you're tired, the work hasn't been great.
+
+## Sue Beyer [43:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2593s)
+
+Yeah, thank you. Thanks for inviting me. It's been a pleasure. I feel like I've found my people. I've been watching a few of the videos on YouTube and I can really relate to what everyone's work is about. And I'm seeing a lot of my work and everyone else's work. So it was really, it's been really nice to watch some of those videos.
+
+Okay, so I've not used Zoom before. So just, I'm going to share my screen. And then I'm going to go to the desktop.
+
+## Roz Dimon [43:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2633s)
+
+Firefox.
+
+## Sue Beyer [43:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2635s)
+
+Now remember when you share, you had to click share. That's always been one thing I always forget to do is click share. Okay. Okay. So can everyone see my website with pictures?
+
+## Karen LaFleur [44:05](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2645s)
+
+Yeah.
+
+## Sue Beyer [44:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2646s)
+
+Excellent. Okay. So I've just told you a bit of a background of my own life. So I've just told you a bit of a background of my own life. Okay. So I grew up on a farm in regional Queensland and it was very, pretty backward. This was in the seventies. It was very racist and not a very nice place. So I used to spend a lot of time just in my bedroom, drawing, doing my own thing. And as soon as I was old enough, I would, I escaped. Okay. And I would have an unaffiliated job. And I would have to really just like be on the front page. And I would have to do it and be on the front page.
 
 And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page. And I would have to do it and be on the front page.
 
 And I would have to do it and be on the front page. So and then now I've just done my MFA about two years ago and I set up a set of studios and we've got a little gallery and I do live drawing sessions. So we did live drawing last night and we do it on Saturday morning. We have openings once a month and it's a really great space. Oh, sorry.
 
-My work. When I started my MFA, I was making work that I wasn't happy with and I didn't have a direction. I was just sort of floundering around a bit. I was lucky enough to go to San Francisco on a study exchange in 2007 and when I was there I did a course called Conceptual Strategies and I learned a lot about how to use conceptual strategies learned about physical computing and we use processing and arduino and all these really fun little gadgets and I just I've always used the computer because of the design background but I found that the programming and the electronics was it was sort of like I really enjoyed it because it was like problem solving and it was just exciting because you never knew what was going to happen so when I got back to Australia there weren't there wasn't anyone doing it at the time my university was a bit not that great and so I sort of let it go but when I went to do my MFA I had an opportunity to just restart or reset my art practice basically so I thought okay I'm going to be doing this for two years what am I going to do and I thought what are the things I love so I love painting I love programming in electronics and I love roller skating so I thought okay I'm going to do an MFA about all these things so I decided to look at liminal space I was sort of already looking at liminal space in a way but for my MFA I really honed down on that topic and when I talk about liminal space the main thing I'm looking at is transformation so in a nutshell I won't go into what liminal space is but so what I did was I got the movie Xanadu from my childhood which was a real escape for me I'll have a living eating john and it was so romantic and roller skating I just loved it so I thought okay I'm going to do my thesis it's going to be about me basically more like an exegesis really and so I grabbed the movie Xanadu and I started transforming it using programming performance glitching data washing painting whatever I could think of and yeah I was using instruction-based art to transform the movie so here are some images from my MFA so these are just I would glitch the movie and grab screenshots and print them or keep them as images this one is the movie Xanadu from start to finish I think you see I've seen this a lot on the internet lately this sort of thing I did a performance like on roller skates with the green screen and using snapchat as my background and I did a little bit of a background that was fun and I actually sing along to the song so it's meant to be really daggy and awkward because I sort of I in my MFA I was really using that and just being myself and not really caring what anyone was thinking about so that was a fun part of it some more glitches so this is 2019 and projection I want to do a lot more with projection glitching and this is one that my internet connection might not be so good so using the movie yeah is that supposed to be making collages from processing yeah we may have trouble seeing some of the video to your point I like that's what I like about making work from digital processes you never know what you're quite going to get and then I was grabbing crops from the image the glitches and really blowing them up making paintings this is my MFA show I printed out the movie Xanadu in hex hexadecimal it was 14 and a half thousand pages I used hexfiend to do that and my printer could only print about six pages at once so it took me a long time to do it took about six months to print this one out and I'm not sure if I'm going to be able to do it in the next few months of this long call I've still got it I don't know what I'm going to do with it this was a little glitch that I presented using a raspberry pie and this one was bought by a government art collection which was really exciting little glitches my whole exhibition was had glittery silver foil curtains.
+My work. When I started my MFA, I was making work that I wasn't happy with and I didn't have a direction. I was just sort of floundering around a bit. I was lucky enough to go to San Francisco on a study exchange in 2007 and when I was there I did a course called Conceptual Strategies and I learned a lot about how to use conceptual strategies learned about physical computing and we use processing and arduino and all these really fun little gadgets and I just I've always used the computer because of the design background but I found that the programming and the electronics was it was sort of like I really enjoyed it because it was like problem solving and it was just exciting because you never knew what was going to happen so when I got back to Australia there weren't there wasn't anyone doing it at the time my university was a bit not that great and so I sort of let it go but when I went to do my MFA I had an opportunity to just restart or reset my art practice basically so I thought okay I'm going to be doing this for two years what am I going to do and I thought what are the things I love so I love painting I love programming in electronics and I love roller skating so I thought okay I'm going to do an MFA about all these things so I decided to look at liminal space I was sort of already looking at liminal space in a way but for my MFA I really honed down on that topic and when I talk about liminal space the main thing I'm looking at is transformation so in a nutshell I won't go into what liminal space is but so what I did was I got the movie Xanadu from my childhood which was a real escape for me I'll have a living eating john and it was so romantic and roller skating I just loved it so I thought okay I'm going to do my thesis it's going to be about me basically more like an exegesis really and so I grabbed the movie Xanadu and I started transforming it using programming performance glitching data washing painting whatever I could think of and yeah I was using instruction-based art to transform the movie so here are some images from my MFA so these are just I would glitch the movie and grab screenshots and print them or keep them as images this one is the movie Xanadu from start to finish I think you see I've seen this a lot on the internet lately this sort of thing I did a performance like on roller skates with the green screen and using snapchat as my background and I did a little bit of a background that was fun and I actually sing along to the song so it's meant to be really daggy and awkward because I sort of I in my MFA I was really using that and just being myself and not really caring what anyone was thinking about so that was a fun part of it some more glitches so this is 2019 and projection I want to do a lot more with projection glitching
 
-It was quite fun. I do a lot of video and present things on iPhones and iPads. I use the LED matrixes to present some work because I like the pixelation and how it further transforms an image. These were very popular. The only thing is you have to program the Raspberry Pi to actually make the work run. So one lady bought one and I had to give her a 10-page PDF on how to set it up.
+## Unattributed [49:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2990s)
 
-But she got into it so a true collector. That just shows all the little wires and everything. All of these were made using processing and I wanted to present the actual program because with instruction based art the program is the art not the outcome of the program. So I presented the programming as well and I did a performance. I actually sang Xanadu while rolling the scale. Skating in the gallery.
+And this is one that my internet connection might not be so good so using
+
+## Sue Beyer [49:59](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=2999s)
+
+The movie
+
+## Unattributed [50:03](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3003s)
+
+Yeah is that supposed to be making collages from processing
+
+## Roz Dimon [50:08](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3008s)
+
+Yeah we may have trouble seeing some of the video to your point
+
+## Sue Beyer [50:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3016s)
+
+I like that's what I like about making work from digital processes you never know what you're quite going to get and then I was grabbing crops from the image the glitches and really blowing them up making paintings this is my MFA show I printed out the movie Xanadu in hex hexadecimal it was 14 and a half thousand pages I used hexfiend to do that and my printer could only print about six pages at once so it took me a long time to do it took about six months to print this one out and I'm not sure if I'm going to be able to do it in the next few months of this long call I've still got it I don't know what I'm going to do with it this was a little glitch that I presented using a raspberry pie and this one was bought by a government art
+
+## Unattributed [51:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3077s)
+
+Collection which was really exciting little glitches my whole exhibition
+
+## Sue Beyer [51:28](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3088s)
+
+Was had glittery silver foil curtains. It was quite fun. I do a lot of video and present things on iPhones and iPads. I use the LED matrixes to present some work because I like the pixelation
+
+## Unattributed [51:47](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3107s)
+
+And how it further transforms an image. These were very popular.
+
+## Sue Beyer [51:56](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3116s)
+
+The only thing is you have to program the Raspberry Pi to actually make the work run. So one lady bought one and I had to give her a 10-page PDF on how to set it up. But she got into it so a true collector. That just shows all the little wires and everything. All of these were made using processing and I wanted to present the actual program because with instruction based art the program is the art not the outcome of the program. So I presented the programming as well and I did a performance. I actually sang Xanadu while rolling the scale. Skating in the gallery.
 
 There's little, you can see the disco balls. It was really fun. Everyone thought I was crazy. There's my skates. I did that for about two hours with headphones on, singing really loud and really badly. That was fun. Yeah, so I did my MFA. That was the sort of work I was making. And then I started setting up the studio. It took me about a year.
 
@@ -184,63 +542,417 @@ A huge transformation of the country in the landscape and then with COVID our so
 
 They've been really popular and I actually got a gallery during COVID, which was really weird. So COVID was really hard because we were in lockdown so long, but it was actually really good for my art practice because I got time to spend in the studio and just make work without having to worry about going to work.
 
-I entered a few things. This one was shown in New York in a place called Lightbox, I think it's called. And so it was projected 360 degrees and they sent photos of people sitting in there. It looked really cool. And I've just done these other works. I started doing prints on mirror, which was really interesting because I couldn't afford to make electronic works. I thought, how can I do this without using electronics? So I did some of those little paintings, big paintings. Still curious, do you have a question? Yeah. So are you using open processing or using processing three?
+I entered a few things. This one was shown in New York in a place called Lightbox, I think it's called. And so it was projected 360 degrees and they sent photos of people sitting in there. It looked really cool. And I've just done these other works. I started doing prints on mirror, which was really interesting because I couldn't afford to make electronic works. I thought, how can I do this without using electronics? So I did some of those little paintings, big paintings.
 
-Oh, I think it's the cloud version or the download version? Download version. Okay. Do you share your code anywhere in any? No. Yeah. I usually, cause I'm not really a programmer. I don't really know how to do it. Like when I was doing it in 2007, we were doing it from scratch, but I was doing it all the time, so I was really getting into it and starting to write my own stuff. But because I'm not doing it all the time, you know how you just, if you're not doing something all the time, you just, you just lose. All that skill. Yeah. And because it's programming, it's using the other side of the brain and it's just, I have to be doing all the time to really. Sure. Like, you know what I mean? Yeah. Do you have any source file recommendations of some like original files you started with or some tutorials?
+## Unattributed [56:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3413s)
 
-Yes. Cause I think my students would be really interested in this. Okay. Contact me after and I can give you a big list because I've kept all my references from my thesis. So I can give you heaps of stuff. Awesome. Heaps and heaps. I'm looking on your website and you have these beautiful standup like lit. Oh yes. Okay. Show those and maybe talk about that or how that works. Yes. I just did a show at a place in town in Melbourne and you know, those little matrixes I was doing those small ones. I mean, even those are quite expensive. I've been trying to buy them from China because you can get them on Amazon. That online place, Ali Ali. Ali express or Alibaba. That's it. Yes. So I've been buying stuff off them and hope hoping that when it comes, it actually works because sometimes, you know, it's not as good quality as what you hope, but like I've been selling paintings and my, my new galleries really great.
+Still curious, do you have a question?
 
-Like the very, you know, it's not the best gallery. They're very commercial, but they sell my work. Like I've been selling paintings. I think you can get it on Amazon. So I'm just going to see what it is. So I'm just going to get that in the book. And you like, I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. Like two months to decide whether to get it or not these are the same things that they make the big billboards out of it's an led screen yes so you can join 10 of these together and make a big wall it'd be really cool to do that but it would cost about fifty thousand dollars so this was about five thousand five and a half thousand australian so maybe about four and a half us I think and I had to pay customs as well which really sucked but yeah I've I'm so glad I got it just it looked amazing it was very hard to document because taking photos of the screen just the colors weren't as bright but yeah I want to try and get into public art and do it but I'm not sure if I can do it but I'm not sure if I can do it like the side of buildings and stuff like that but you know who knows yeah so that was from my exhibition about a month ago this one so I've got a show in sydney in october I'm working towards now and yeah it's pretty popular it's really I've had a really good response for these ones the mirrored ones I'm getting some alluminium frames powder coated to like red green like really bright colors and I want to start doing some more led screens but in three dimensions I saw someone I watched a video of someone yesterday that did spheres of leds and little boxes and I'd love because in china you can get them made to any dimensions you want you can do circles I'd like to I also like to do a wall with big gaps in it and yeah maybe a three-dimensional thing I don't know but we'll see we'll see what happens yeah so my art practice is very process-based you never know what's going to come out at the end although with the paintings I plan everything before because I'm using linen and it's really expensive so I always plan the paintings but you know the colors may change slightly but I've always know pretty much what I'm going to do before I do it also yeah I use instruction and I use post-internet and post-digital strategies so it's all about using those tools but it's not about that so it's more about society greed just the destruction of our landscape it's pretty political but it doesn't look like it is yeah so I'm going to stop sharing I have an Instagram it's got all my latest work so if you want to I'll I can put links up to my work if anyone's interested I'm just so happy to find you guys as soon as I found out about it I was really excited because no one else I know where I am is doing this sort of work and with the same sort of with the same intention so yeah I was really excited oh yeah and I sold two NFTs so I was really happy about that yeah crazy shit like What's your pick of the year?
+## Sue Beyer [56:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3415s)
 
-I just can't believe it's so exciting it reminds me of the internet in the 90s it's just I love a bit of anarchy so good a bit of chaos I just hope that it goes in the right direction and we can use it in a positive way yeah but I'm really excited about it so Sue that was fabulous thank you so much I was really nervous I love roller skating and the fun. I mean, art can be fun. It can be serious. It can be tragic. You know, I mean, one of the things lately that I, one of my things that I call out to curators is like, hey, do the homework, find out about these things, you know, dig deeper into art and connect the dots. I mean, we all have different lives and some of us might paint the same thing for all our lives, but not really. It's more like Gerard Richter who, you know, he painted all different things and just your story, you know, listening to you, it's great.
+Yeah.
 
-But I challenge the curators in this field to listen to Techspressionism and come in and hear what these artists are doing. It'll, you know, some curators, at least through the nineties and even beyond in New York City, in the traditional art world, I think they're rather threatened because when you don't know a field, it's kind of hard to speak about it. So I'm putting a call out there to these young curators, you know, women, men, all colors, all stripes. To get into this and help the world access, you know, we're here to bring access. We're not here to be the elite far away, you know, it's the only thing should be, it should be as great as we can do. Oh, and I think Carter Hodgkin is the one you might've been watching. She's here. Thanks. Hi, Carter. Oh, okay. Who did project on, wasn't that you, Carter, who projected on a square?
+## Unattributed [56:56](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3416s)
 
-You guys might want to connect. Yes, I'd love to connect with you. Yeah, I saw the work and just, oh, my God, someone else is doing what I'm doing. I just grabbed your website so we can trade. Yeah, that'd be great. Also, I've got a little gallery in our studio. And I want to curate a show in November. So on digital work, it doesn't have to be digital, but with a digital aesthetic. So I might contact everyone about that as well.
+So are you using open processing or using processing three? Oh, I think it's the cloud version or the download version?
 
-Yeah. I need to start organizing that. It goes for two weeks in November. Yeah. So yeah. If anyone's interested, like I might just put something together, a little proposal where people can, you know, send me if they want to do it. How would she be in touch with you or just come? How do you? I was thinking, you of this idea, actually, a while ago, where people in different... Since it started in the US, but we do have people from 30 different countries now, and I thought it'd be cool. Part of the goal, at least just from my point of view, is to try to bring this term, Techspressionism, into common usage and make it into a thing that people... Talk about as easily and freely as surrealism or expressionism or, you know, Helen Harris from the Pollock House did a really good job of sort of framing it in the recent video, like within the history of expressionism.
+## Sue Beyer [57:05](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3425s)
 
-So I started thinking, you know, if people in a particular, you know, place want to organize their own sort of, you know, group shows or even get a people, a bunch of people together around this idea, that sort of, you know, I think will really help the mean kind of spread is if there's these sort of local clusters, you know, and I think it's something where there are a couple Australian artists. There's one guy, Andy Young, who I think is in Mel, is it Andy or Andy Thomas? Is it the Pollock? Definitely an Andy.
+Download version.
 
-He's in the, the artist index in, in Australia. And he does just the most ridiculous animations. I mean, they are just unbelievable. Let me just see. He was, he was in a salon pretty recently. Let me just see. Yeah, Andy Thomas. Let me just post a link to his Instagram in the chat, because his work, one of the, one of the people involved early, kind of brought him to my attention and he's, he's, he's in Melbourne also. So, yeah, but so he's someone that definitely is local and then there's one other Aussie in there. Oh yeah. I looked up that guy on Instagram. It's pretty amazing.
+## Unattributed [57:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3427s)
 
-Yeah. Yeah. He does stuff with like bird sounds and visualizes them and stuff like that. But I think, you know, it'd be really cool to, you know, cause I mean, we, we have a show, a physical exhibition planned for 2022 here on Long Island where I'm located right now. And I want to come over if we can travel, I'm dying to travel. So if that happens, yeah, I'm definitely, I'm totally up for that. I want to come over. Well, thank you so much for joining us. It really, you know, I think it makes a big difference to have international participants, you know, or have it be as, as international, as possible. I think that's what really makes this interesting.
+Okay. Do you share your code anywhere in any? No. Yeah.
 
-Colin, can I interject and let everyone know about your talk next week? Oh yeah, absolutely. Hi. So I'm Brandon at the University of Wyoming and Colin is actually giving an invited artist talk next Thursday, March 25th at 7 PM mountain standard time. And I'm going to put the RSVP link. It's going to be on zoom and it's for our school, our school and our students and our faculty, but it's open to the public. And I'll put the link, to RSVP for the zoom webinar, and then it'll send you the link and the password to log in. So that's next Thursday evening. Thank you.
+## Sue Beyer [57:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3433s)
+
+I usually, cause I'm not really a programmer. I don't really know how to do it. Like when I was doing it in 2007, we were doing it from scratch, but
+
+## Unattributed [57:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3443s)
+
+I
+
+## Sue Beyer [57:24](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3444s)
+
+Was doing it all the time, so I was really getting into it and starting to write my own stuff. But because I'm not doing it all the time, you know how you just, if you're not doing something all the time, you just, you just lose. All that skill. Yeah. And because it's programming, it's using the other side of the brain and it's just, I have to be doing all the time to really.
+
+## Unattributed [57:45](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3465s)
+
+Sure.
+
+## Sue Beyer [57:46](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3466s)
+
+Like, you know what I mean?
+
+## Unattributed [57:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3468s)
+
+Yeah. Do you have any source file recommendations of some like original files you started with or some tutorials? Yes. Cause I think my students would be really interested in this.
+
+## Sue Beyer [57:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3477s)
+
+Okay. Contact me after and I can give you a big list because I've kept all my references from my thesis. So I can give you heaps of stuff.
+
+## Unattributed [58:08](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3488s)
+
+Awesome.
+
+## Sue Beyer [58:08](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3488s)
+
+Heaps and heaps.
+
+## Unattributed [58:09](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3489s)
+
+I'm looking on your website and you have these beautiful standup like lit.
+
+## Sue Beyer [58:14](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3494s)
+
+Oh yes. Okay.
+
+## Unattributed [58:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3496s)
+
+Show those and maybe talk about that or how that works.
+
+## Sue Beyer [58:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3498s)
+
+Yes. I just did a show at a place in town in Melbourne and you know, those little matrixes I was doing those small ones. I mean, even those are quite expensive. I've been trying to buy them from China because you can get them on Amazon. That online place, Ali Ali.
+
+## Davonte Bradley [58:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3520s)
+
+Ali express or Alibaba.
+
+## Sue Beyer [58:42](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3522s)
+
+That's it. Yes. So I've been buying stuff off them and hope hoping that when it comes, it actually works because sometimes, you know, it's not as good quality as what you hope, but like I've been selling paintings and my, my new galleries really great. Like the very, you know, it's not the best gallery. They're very commercial, but they sell my work. Like I've been selling paintings. I think you can get it on Amazon. So I'm just going to see what it is.
+
+So I'm just going to get that in the book. And you like, I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. And I'm just going to get that in the book. Like two months to decide whether to get it or not these are the same things that they make the big billboards out of it's an led screen yes so you can join 10 of these together and make a big wall it'd be really cool to do that but it would cost about fifty thousand dollars so this was about five thousand five and a half thousand australian so maybe about four and a half us I think and I had to pay customs as well which really sucked but yeah I've I'm so glad I got it just it looked amazing it was very hard to document because taking photos of the screen just the colors weren't as bright but yeah I want to try and get into public art and do it but I'm not sure if I can do it but I'm not sure if I can do it like the side of buildings and stuff like that but you know who knows yeah so that was from my exhibition about a month ago this one so I've got a show in sydney in october I'm working towards now and yeah it's pretty popular it's really I've had a really good response for these ones the mirrored ones I'm getting some alluminium frames powder coated to like red green like really bright colors and I want to start doing some more led screens but in three dimensions I saw someone I watched a video of someone yesterday that did spheres of leds and little boxes and I'd love because in china you can get them made to any dimensions you want you can do circles I'd like to I also like to do a wall with big gaps in it and yeah maybe a three-dimensional thing I don't know but we'll see we'll see what happens yeah so my art practice is very process-based you never know what's going to come out at the end although with the paintings I plan everything before because I'm using linen and it's really expensive so I always plan the paintings but you know the colors may change slightly but I've always know pretty much what I'm going to do before I do it also yeah I use instruction and I use post-internet and post-digital strategies so it's all about using those tools but it's not about that so it's more about society greed just the destruction of our landscape it's pretty political but it doesn't look like it is yeah so I'm going to stop sharing I have an Instagram it's got all my latest work so if you want to I'll I can put links up to my work if anyone's interested I'm just so happy to find you guys as soon as I found out about it I was really excited because no one else I know where I am is doing this sort of work and with the same sort of with the same intention so yeah I was really excited oh yeah and I sold two NFTs so I was really happy about that yeah crazy shit like What's your pick of the year?
+
+I just can't believe it's so exciting it reminds me of the internet in the 90s it's just I love a bit of anarchy so good a bit of chaos I just hope that it goes in the right direction and we can use it in a positive way yeah but I'm really excited about it so
+
+## Roz Dimon [01:03:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3828s)
+
+Sue that was fabulous thank you so much I was really nervous I love roller skating and the fun. I mean, art can be fun. It can be serious. It can be tragic. You know, I mean, one of the things lately that I, one of my things that I call out to curators is like, hey, do the homework, find out about these things, you know, dig deeper into art and connect the dots. I mean, we all have different lives and some of us might paint the same thing for all our lives, but not really. It's more like Gerard Richter who, you know, he painted all different things and just your story, you know, listening to you, it's great. But I challenge the curators in this field to listen to Techspressionism and come in and hear what these artists are doing. It'll, you know, some curators, at least through the nineties and even beyond in New York City, in the traditional art world, I think they're rather threatened because when you don't know a field, it's kind of hard to speak about it.
+
+So I'm putting a call out there to these young curators, you know, women, men, all colors, all stripes. To get into this and help the world access, you know, we're here to bring access. We're not here to be the elite far away, you know, it's the only thing should be, it should be as great as we can do. Oh, and I think Carter Hodgkin is the one you might've been watching. She's here. Thanks. Hi, Carter. Oh, okay. Who did project on, wasn't that you, Carter, who projected on a square?
+
+## Unattributed [01:05:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3913s)
+
+You guys might want to connect. Yes, I'd love to connect with you.
+
+## Sue Beyer [01:05:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3918s)
+
+Yeah, I saw the work and just, oh, my God, someone else is doing what I'm doing.
+
+## Unattributed [01:05:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3923s)
+
+I just grabbed your website so we can trade.
+
+## Sue Beyer [01:05:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3927s)
+
+Yeah, that'd be great. Also, I've got a little gallery in our studio. And I want to curate a show in November. So on digital work, it doesn't have to be digital, but with a digital aesthetic. So I might contact everyone about that as well. Yeah. I need to start organizing that. It goes for two weeks in November.
+
+Yeah. So yeah. If anyone's interested, like I might just put something together, a little proposal where people can, you know, send me if they want to do it. How would she be in touch with you or just come? How do you?
+
+## Colin Goldberg [01:06:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=3967s)
+
+I was thinking, you of this idea, actually, a while ago, where people in different... Since it started in the US, but we do have people from 30 different countries now, and I thought it'd be cool. Part of the goal, at least just from my point of view, is to try to bring this term, Techspressionism, into common usage and make it into a thing that people... Talk about as easily and freely as surrealism or expressionism or, you know, Helen Harris from the Pollock House did a really good job of sort of framing it in the recent video, like within the history of expressionism. So I started thinking, you know, if people in a particular, you know, place want to organize their own sort of, you know, group shows or even get a people, a bunch of people together around this idea, that sort of, you know, I think will really help the mean kind of spread is if there's these sort of local clusters, you know, and I think it's something where there are a couple Australian artists.
+
+There's one guy, Andy Young, who I think is in Mel, is it Andy or Andy Thomas?
+
+## Davonte Bradley [01:07:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4037s)
+
+Is it the Pollock?
+
+## Colin Goldberg [01:07:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4038s)
+
+Definitely an Andy. He's in the, the artist index in, in Australia. And he does just the most ridiculous animations. I mean, they are just unbelievable. Let me just see. He was, he was in a salon pretty recently. Let me just see. Yeah, Andy Thomas. Let me just post a link to his Instagram in the chat, because his work, one of the, one of the people involved early, kind of brought him to my attention and he's, he's, he's in Melbourne also.
+
+## Unattributed [01:07:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4075s)
+
+So, yeah, but
+
+## Colin Goldberg [01:07:58](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4078s)
+
+So he's someone that definitely is local and then there's one other Aussie in there. Oh yeah.
+
+## Unattributed [01:08:04](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4084s)
+
+I looked up that guy on Instagram. It's pretty amazing.
+
+## Colin Goldberg [01:08:09](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4089s)
+
+Yeah. Yeah. He does stuff with like bird sounds and visualizes them and stuff like that. But I think, you know, it'd be really cool to, you know, cause I mean, we, we have a show, a physical exhibition planned for 2022 here on Long Island where I'm located right now.
+
+## Sue Beyer [01:08:28](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4108s)
+
+And I want to come over if we can travel, I'm dying to travel. So if that happens, yeah, I'm definitely, I'm totally up for that. I want to come over.
+
+## Colin Goldberg [01:08:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4120s)
+
+Well, thank you so much for joining us. It really, you know, I think it makes a big difference to have international participants, you know, or have it be as, as international, as possible. I think that's what really makes this interesting.
+
+## Unattributed [01:08:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4133s)
+
+Colin, can I interject and let everyone know about your talk next week?
+
+## Colin Goldberg [01:08:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4137s)
+
+Oh yeah, absolutely.
+
+## Unattributed [01:08:59](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4139s)
+
+Hi. So I'm Brandon at the University of Wyoming and Colin is actually giving an invited artist talk next Thursday, March 25th at 7 PM mountain standard time. And I'm going to put the RSVP link. It's going to be on zoom and it's for our school, our school and our students and our faculty, but it's open to the public. And I'll put the link, to RSVP for the zoom webinar, and then it'll send you the link and the password to log in. So that's next Thursday evening. Thank you.
+
+## Roz Dimon [01:09:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4170s)
 
 Great, great, great, great. Yeah. Does anybody have, before we go on any other questions for Sue? Sue, that was so fun and great. Wonderful to see your process. And I don't know, I'm kind of an old fogey, so glitch. I go, glitch? I don't know. I don't know the process of glitch, but I don't want to get too into it. I should probably do some homework. But I love the way it looks, sort of like AI or something.
 
-I'm Mary Ellen Latino. I have a question. I wasn't sure with your glitch, glitching when you did the paintings over it, was that literal painting or was that digital? Oh, they're actual paintings. That's what I thought, but I wasn't. You can see them in the background, but there's just one there. Yeah, paintings. Okay. Yeah. Thank you. I did do some prints as well, but yeah.
+## Unattributed [01:10:00](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4200s)
 
-Sue, another question I had was when you were taking the imagery of the other guy, Boyd, somebody in Australia, does he know or does he welcome it or what's the exchange? He's actually passed away, but one of his family members friended me on Facebook. So I think they're okay about it. But I'm doing it in a very respectful way. So I'm hoping that no one gets offended. I love that concept. Yeah, I think it's interesting. There's an artist. Who was it? Oh, there's an artist that also does giant paintings with a lot of pixels. And I wanted to glitch some of his work, but he's alive, living. So I might contact him and see if he'd mind if I did it. I don't know. We'll see what happens. I think that's great. You know, appropriation. I mean, it's part of what we're able to do. I mean, look at the music industry.
+I'm Mary Ellen Latino. I have a question. I wasn't sure with your glitch, glitching when you did the paintings over it, was that literal painting or was that digital? Oh, they're actual paintings. That's what I thought, but I wasn't.
 
-It's been doing covers forever. And I think the whole personally, I think the whole thing about it is contacting the person, you know, and when I do these diamond skate pieces of mine, I'm putting out, I'm putting in images from all other people. And but the key thing is that I'm bringing them into the vocabulary of the work that I'm doing, which is, you know, we're starting to do novels of images of images of images of images. Yeah. And so I'm bringing everybody into the fold. And I think that'll be a big difference. And in the early days, honestly, in early digital, it's like, oh, you took mine. And yeah, it's going on in the early nineties. And, you know, we need to open it up to be a larger intellectual and validated situation.
+## Sue Beyer [01:10:15](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4215s)
 
-Yes. And I think that's asking people. So I just thought it was a good thing to bring up. Yeah. Yeah. Yeah. So do you do you work differently? For the imagery that is projected the light, the light images versus ones that are print images? Oh, like different color palettes or anything like that? Oh, not really. It's all up to chance what comes out. The moving videos that I've got as NFTs, I project those ones and they look, amazing.
+You can see them in the background, but there's just one there. Yeah, paintings. Okay. Yeah. Thank you. I did do some prints as well, but yeah.
 
-But it's all in the process. And it's sort of like the computer decides what is going to happen and what colors are there. And then I decide whether I like it or not. So because I was just curious because as I print all my imagery, I work digitally. But I have found over the years and I still am surprised sometimes that sometimes an image will look maybe not. As good or even better than what I saw on the computer or the size effects that and I was curious for those things that you're illuminating whether or not you go through a process that changes over time to get something that you kind of have a gut feeling that's going to work or not. I suppose it does change over time because each work comes from the work before. So in a way, so in the past, I've been doing a lot of, video and motion, motion graphics, I suppose you call it.
+## Roz Dimon [01:10:28](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4228s)
 
-And the aesthetics from a few pieces would lead into each other. So yeah, it doesn't away. Yeah. But I was just curious. Yeah. It's like, I've got, I've got the painting and that's got its own thing happening. And then I've got the video and gifts and JPEGs. And, that's got its own thing. Yeah. Yeah. It's like two streams. Okay. Yeah.
+Sue, another question I had was when you were taking the imagery of the other guy, Boyd, somebody in Australia, does he know or does he welcome it or what's the exchange?
 
-Thank you. Yeah. On my Instagram. There's some photos of projections that I've done. The work that, Steve bought, I've projected that and it looks amazing. Big. So I need to do more projection. Yeah. I just don't have time. I want to do everything. Well, make sure you keep roller skating. Sue got to have one year.
+## Unattributed [01:10:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4240s)
+
+He's actually passed away,
+
+## Sue Beyer [01:10:41](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4241s)
+
+But one of his family members friended me on Facebook. So I think they're okay about it. But I'm doing it in a very respectful way. So I'm hoping that no one gets offended.
+
+## Unattributed [01:10:54](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4254s)
+
+I love that concept.
+
+## Sue Beyer [01:10:56](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4256s)
+
+Yeah, I think it's interesting. There's an artist. Who was it? Oh, there's an artist that also does giant paintings with a lot of pixels. And I wanted to glitch some of his work, but he's alive, living. So I might contact him and see if he'd mind if I did it. I don't know. We'll see what happens.
+
+## Roz Dimon [01:11:16](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4276s)
+
+I think that's great. You know, appropriation. I mean, it's part of what we're able to do. I mean, look at the music industry. It's been doing covers forever. And I think the whole personally, I think the whole thing about it is contacting the person, you know, and when I do these diamond skate pieces of mine, I'm putting out, I'm putting in images from all other people. And but the key thing is that I'm bringing them into the vocabulary of the work that I'm doing, which is, you know, we're starting to do novels of images of images of images of images. Yeah. And so
+
+## Sue Beyer [01:11:47](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4307s)
+
+I'm
+
+## Roz Dimon [01:11:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4308s)
+
+Bringing everybody into the fold. And I think that'll be a big difference. And in the early days, honestly, in early digital, it's like, oh, you took mine. And yeah, it's going on in the early nineties. And, you know, we need to open it up to be a larger intellectual and validated situation. Yes. And I think that's asking people. So I just thought it was a good thing to bring up. Yeah. Yeah. Yeah.
+
+## Michael Pierre Price [01:12:11](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4331s)
+
+So do you do you work differently? For the imagery that is projected the light, the light images versus ones that are print images? Oh, like different color palettes or anything like that?
+
+## Sue Beyer [01:12:33](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4353s)
+
+Oh, not really. It's all up to chance what comes out. The moving videos that I've got as NFTs, I project those ones and they look, amazing. But it's all in the process. And it's sort of like the computer decides what is going to happen and what colors are there. And then I decide whether I like it or not.
+
+## Michael Pierre Price [01:13:00](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4380s)
+
+So because I was just curious because as I print all my imagery, I work digitally. But I have found over the years and I still am surprised sometimes that sometimes an image will look maybe not. As good or even better than what I saw on the computer or the size effects that and I was curious for those things that you're illuminating whether or not you go through a process that changes over time to get something that you kind of have a gut feeling that's going to work or not.
+
+## Sue Beyer [01:13:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4414s)
+
+I suppose it does change over time because each work comes from the work before. So in a way, so in the past, I've been doing a lot of, video and motion, motion graphics, I suppose you call it. And the aesthetics from a few pieces would lead into each other. So yeah, it doesn't away. Yeah.
+
+## Michael Pierre Price [01:14:03](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4443s)
+
+But I was just curious. Yeah.
+
+## Sue Beyer [01:14:05](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4445s)
+
+It's like, I've got, I've got the painting and that's got its own thing happening. And then I've got the video and gifts and JPEGs. And, that's got its own thing. Yeah. Yeah. It's like two streams. Okay.
+
+## Michael Pierre Price [01:14:21](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4461s)
+
+Yeah. Thank you.
+
+## Sue Beyer [01:14:24](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4464s)
+
+Yeah. On my Instagram. There's some photos of projections that I've done. The work that, Steve bought, I've projected that and it looks amazing. Big. So I need to do more projection.
+
+## Diane Marsella [01:14:43](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4483s)
+
+Yeah.
+
+## Sue Beyer [01:14:44](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4484s)
+
+I just don't have time. I want to do everything.
+
+## Roz Dimon [01:14:51](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4491s)
+
+Well, make sure you keep roller skating.
+
+## Unattributed [01:14:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4493s)
+
+Sue got to have one year.
+
+## Roz Dimon [01:14:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4495s)
 
 I went to the show where we blew up pink sofas. We blew them up. They're plastic furniture on the Lower East side. This is in a, like, I think it's year 2000 and we projected, I had a projection of flash shockwave animations, coming out, of a circle in a little, a little, a little box that we made like a little mirrored box. And everybody sat on the pink plastic couches. We opened, we went into this room with this glittery, you know, awful Lame go, let me to go into the special room and you sit on the pink couches and look up at the projections of things like, you know, Perry and Coca-Cola.
 
-And they were all making fun of the fact that water is now, you know, it was free for 2 million years, but no longer. And it's fun. I mean, you can bring fun into art. Yeah. You know, it's a while making a very serious statement about actually, actually, that was the feedback I was getting from my MFA exhibition was it was joy, like full of joy and people were posing in front of the projection and all the kids were running around. It was just, it was not right. Yeah, it was really good. I think and falters castles have that hopeful thing in them. And, and I don't know if that's something that I don't tend to like go, don't think so much in groups, even though I love saluting women and think they deserve their place. But I do think women may bring a certain different perspective to things sometimes, you know, but I would open that up to the men to, to, you know, their joy.
+And they were all making fun of the fact that water is now, you know, it was free for 2 million years, but no longer. And it's fun. I mean, you can bring fun into art.
 
-Yeah. It's a joy. It's always born of tragedy and, and comedy. So that's a deep one. Thank you. It was great. Thank you for asking me to come along. You're welcome. I also want to just have a shout out here to someone I haven't seen in a long time. Victor Acevedo. He's joining us here and Victor and I, we, we go back many, many years. He's been in California. He's done lovely work. I even have my husband. I own a print of this. And, I just, it's so nice to see you, Victor. I'm glad you're joining us and I'm hoping we can keep more women at least on the, on the March 30th, thing, but it's it, it, but maybe you could present your work at some point. It might be. Sure. Thank you. You and I go back to the early nineties or even earlier, maybe. I don't know. I, Rico Maresca gallery.
+## Unattributed [01:15:45](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4545s)
 
-I seem to remember, I forget the name of that show, but that's about the time when I first met you. Yeah, that was a piece of that. Curated for them called code. It was code, right? Yeah. You curated it. Wow. That was a brilliant show. Yeah. It's code 1995.com. Yeah. Oh yeah. Code was, well, it nearly killed me, but we have sure was exciting and nearly killed us all, but it was very exciting show. Yeah. It was, that's when we met, I suppose. Yeah. It was exciting time for some of you younger ones coming in here now. It's something that, Michael Pierce and I talked about the era price have talked about as well, but you know, that was, that was the dawning of the first.com and it was exciting as it can be. And I think what's going on now is exciting again. And I think we need to connect those dots out there, for people so that, cause we, we don't want to make ourselves a fad.
+Yeah.
 
-You want to, you always want to have a historical reference. Yeah, I agree. So it's great. Yeah. Thanks so much. I appreciate it. Colin sent me an invitation and you reached out to me regionally to tell me about the group. And I've, I've seen a few of, a little bit of, your archived, zoom, calls, zoom sessions and, to get a feel for the group. So it's a really an honor to be here and it's, yeah, I look forward to sharing my work at a future session. You can post a link to your, if you have a link to your website or Instagram, you know, feel free to, to paste them in the chat window. So, the people in the room can check them out as well. Okay. Yeah. I'll do that during the course of, in a few minutes. Yeah. You know, I have a call, a follow up question for Sue.
+## Roz Dimon [01:15:45](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4545s)
 
-If she's still on, has she got Sue? Yeah, I'm still here. Okay. Oh, there you are. You're right next to me. Okay. I was looking all around. I was curious. You said you sold a couple of NFTs. What platforms did you use? What marketplace? I can see with MetaMask. Oh, OpenSea. Okay, great. I've been hearing good things about OpenSea. Yeah. OpenSea is great because you only pay gas once and then everything you mint after that is free. So it costs me $75 for the first time. That changes because of the way the gas fee is. I don't know exactly. I think it's how busy they are or something. So if, if you don't want to pay as much, you just wait a little while and it might go down or it might go up to. So, but yeah, just pay once and then the rest are free. Sounds great. Sounds great.
+You know, it's a while making a very serious statement about actually, actually,
 
-It is. It's really good. And you have to get on Twitter because, everyone's on Twitter, like, promoting their work and that's where all the collectors and people that are interested. So, and also Clubhouse. If you don't, if you like that sort of thing. I've heard about that. Yeah. I want to get on there. Yeah. Oh, I can send you an invitation if you like. Well, you know, here's, here's the catch. I, I'm on Android, so I understand I have to get an iPhone. Yeah. So I'll be getting an iPhone, you know, in a few weeks, but that's, I was thinking of doing it anyway. So now I'm really in. I actually had a friend of mine that I reached out to. I was like, Hey, do you have a spare iPad or iPhone I could use? Maybe, you know, just, just, just to help somebody out real quick. Maybe. Yeah.
+## Unattributed [01:15:49](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4549s)
 
-It's a really great place to get like really up to date information. So there's a lot of crap as well, but you just got to try and find the right groups and just get on there. And I've met heaps of really nice people on there. So yeah, I recommend it. Okay, cool. Sounds good. Wow. There's not enough time in the day, but it's exciting.
+That
 
-Anyone else have any questions or comments for Sue? Anybody? Yeah. I'm kind of rifting off the, the NFT discussion. I wanted to let you guys know that, you know, we, we started working with a gallerist and PR consultant in Greece, and she was kind of enthusiastic about the idea of us getting involved with it, the whole NFT phenomenon as a group in some ways. And I think that's a really good way to kind of get to know more about the NFT community and how we can help people get involved So I actually asked Anne Spalter who spoke a few salons ago, if she'd be interested in curating an NFT show. She has been a panelist on super rare and, you know, has sold quite a number of NFTs on that platform. So out of all the people that I know involved in the group, she's certainly the authority and, you know, I've just started to get involved in it myself, actually dropped something on OpenSea as well.
+## Sue Beyer [01:15:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4550s)
+
+Was the feedback I was getting from my MFA exhibition was it was joy, like full of joy and people were posing in front of the projection and all the kids were running around. It was just, it was not right. Yeah, it was really good.
+
+## Roz Dimon [01:16:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4566s)
+
+I think and falters castles have that hopeful thing in them. And, and I don't know if that's something that I don't tend to like go, don't think so much in groups, even though I love saluting women and think they deserve their place. But I do think women may bring a certain different perspective to things sometimes, you know, but I would open that up to the men to, to, you know, their joy. Yeah. It's a joy. It's always born of tragedy and, and comedy. So that's a deep one. Thank you. It was great. Thank you for asking me to come along.
+
+You're welcome. I also want to just have a shout out here to someone I haven't seen in a long time. Victor Acevedo. He's joining us here and Victor and I, we, we go back many, many years. He's been in California. He's done lovely work. I even have my husband. I own a print of this. And, I just, it's so nice to see you, Victor. I'm glad you're joining us and I'm hoping we can keep more women at least on the, on the March 30th, thing, but it's it, it, but maybe you could present your work at some point. It might be. Sure.
+
+## Unattributed [01:17:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4637s)
+
+Thank you. You and I go back to the early nineties or even earlier, maybe.
+
+## Victor Acevedo [01:17:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4643s)
+
+I don't know. I, Rico Maresca gallery. I seem to remember, I forget the name of that show, but that's about the time when I first met you.
+
+## Unattributed [01:17:32](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4652s)
+
+Yeah, that was a piece of that.
+
+## Roz Dimon [01:17:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4654s)
+
+Curated for them called code. It was code, right?
+
+## Unattributed [01:17:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4656s)
+
+Yeah. You curated it. Wow. That was a brilliant show.
+
+## Roz Dimon [01:17:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4660s)
+
+Yeah. It's code 1995.com. Yeah. Oh yeah. Code was, well, it nearly killed me, but we have sure was exciting and nearly killed us all,
+
+## Unattributed [01:17:54](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4674s)
+
+But it was very exciting show.
+
+## Roz Dimon [01:17:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4677s)
+
+Yeah. It was, that's when we met, I suppose. Yeah. It was exciting time for some of you younger ones coming in here now. It's something that, Michael Pierce and I talked about the era price have talked about as well, but you know, that was, that was the dawning of the first.com and it was exciting as it can be. And I think what's going on now is exciting again. And I think we need to connect those dots out there, for people so that, cause we, we don't want to make ourselves a fad. You want to, you always want to have a historical reference.
+
+## Victor Acevedo [01:18:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4706s)
+
+Yeah, I agree.
+
+## Unattributed [01:18:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4709s)
+
+So it's great. Yeah.
+
+## Victor Acevedo [01:18:31](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4711s)
+
+Thanks so much. I appreciate it. Colin sent me an invitation and you reached out to me regionally to tell me about the group. And I've, I've seen a few of, a little bit of, your archived, zoom, calls, zoom sessions and, to get a feel for the group. So it's a really an honor to be here and it's, yeah, I look forward to sharing my work at a future session.
+
+## Colin Goldberg [01:18:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4737s)
+
+You can post a link to your, if you have a link to your website or Instagram, you know, feel free to, to paste them in the chat window. So, the people in the room can check them out as well.
+
+## Victor Acevedo [01:19:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4746s)
+
+Okay. Yeah. I'll do that during the course of, in a few minutes. Yeah. You know, I have a call, a follow up question for Sue. If she's still on, has she got Sue?
+
+## Unattributed [01:19:19](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4759s)
+
+Yeah, I'm still here.
+
+## Victor Acevedo [01:19:20](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4760s)
+
+Okay. Oh, there you are. You're right next to me. Okay.
+
+## Unattributed [01:19:24](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4764s)
+
+I was looking all around. I was curious.
+
+## Victor Acevedo [01:19:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4766s)
+
+You said you sold a couple of NFTs. What platforms did you use? What marketplace?
+
+## Unattributed [01:19:31](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4771s)
+
+I can see with MetaMask. Oh, OpenSea. Okay, great.
+
+## Victor Acevedo [01:19:35](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4775s)
+
+I've been hearing good things about OpenSea.
+
+## Sue Beyer [01:19:37](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4777s)
+
+Yeah. OpenSea is great because you only pay gas once and then everything you mint after that is free. So it costs me $75 for the first time. That changes because of the way the gas fee is. I don't know exactly. I think it's how busy they are or something. So if, if you don't want to pay as much, you just wait a little while and it might go down or it might go up to. So, but yeah, just pay once and then the rest are free.
+
+## Victor Acevedo [01:20:09](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4809s)
+
+Sounds great. Sounds great.
+
+## Sue Beyer [01:20:10](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4810s)
+
+It is. It's really good. And you have to get on Twitter because, everyone's on Twitter, like, promoting their work and that's where all the collectors and people that are interested. So, and also Clubhouse. If you don't, if you like that sort of thing.
+
+## Victor Acevedo [01:20:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4830s)
+
+I've heard about that. Yeah. I want to get on there.
+
+## Sue Beyer [01:20:32](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4832s)
+
+Yeah. Oh, I can send you an invitation if you like.
+
+## Victor Acevedo [01:20:35](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4835s)
+
+Well, you know, here's, here's the catch. I, I'm on Android, so I understand I have to get an iPhone.
+
+## Unattributed [01:20:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4840s)
+
+Yeah.
+
+## Victor Acevedo [01:20:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4840s)
+
+So I'll be getting an iPhone, you know, in a few weeks, but that's, I was thinking of doing it anyway. So now I'm really in.
+
+## Davonte Bradley [01:20:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4848s)
+
+I actually had a friend of mine that I reached out to. I was like, Hey, do you have a spare iPad or iPhone I could use? Maybe, you know, just, just, just to help somebody out real quick. Maybe.
+
+## Sue Beyer [01:20:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4857s)
+
+Yeah. It's a really great place to get like really up to date information. So there's a lot of crap as well, but you just got to try and find the right groups and just get on there. And I've met heaps of really nice people on there. So yeah, I recommend it.
+
+## Victor Acevedo [01:21:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4878s)
+
+Okay, cool. Sounds good.
+
+## Roz Dimon [01:21:21](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4881s)
+
+Wow. There's not enough time in the day, but it's exciting.
+
+## Davonte Bradley [01:21:29](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4889s)
+
+Anyone else have any questions or comments for Sue? Anybody? Yeah. I'm kind of
+
+## Colin Goldberg [01:21:44](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=4904s)
+
+Rifting off the, the NFT discussion. I wanted to let you guys know that, you know, we, we started working with a gallerist and PR consultant in Greece, and she was kind of enthusiastic about the idea of us getting involved with it, the whole NFT phenomenon as a group in some ways. And I think that's a really good way to kind of get to know more about the NFT community and how we can help people get involved So I actually asked Anne Spalter who spoke a few salons ago, if she'd be interested in curating an NFT show. She has been a panelist on super rare and, you know, has sold quite a number of NFTs on that platform. So out of all the people that I know involved in the group, she's certainly the authority and, you know, I've just started to get involved in it myself, actually dropped something on OpenSea as well.
 
 After looking at Rarible and some of these other platforms where literally the gas fee is more than what, you know, you're going to charge for the actual work. So I think OpenSea is a pretty good option. And but yeah, so there's a, there's actually an open call out now it's on the Techspressionism homepage. There's a link to it, but Anne also grabbed nftnowshow.com.
 
@@ -250,65 +962,207 @@ But the, the jpeg at this point is probably what's going to represent the NFT wi
 
 So certainly I think Anne's contact information is on the call, but you know, it's something that we're, and she actually proposed that we time it so that it opens up during freeze week. So we can sort of, you know, leverage the fact that a lot of people are just going to be online looking at art at that time, which is going to be a, you know, So, so yeah, that's you know, that's kind of something that's just popped up and, you know, hopefully I think we started to get some. Some entries, some submissions already and you know, but Anne is really the juror and the curator. I'm just sort of facilitating with the implementation. So, but it's, it's exciting to, you know, be putting something together for this and yeah, that's about it.
 
-I think she also put it up at her. It's up at her Instagram. Site to the call. And make sure. Instagram and her Twitter. Yeah. Read the call though. It's not, she does have a call for things to go in a search. She does say something about tying it to art history. So make sure you read the call. Yeah. I added a link to it. There's a banner link now on Techspressionism is them.com. Homepage. I figured I'd, I'd put something right there. And I think that's a great way to get people to know that. So it's visible and it links off to a description. You know, about the call and yeah, I guess kind of the idea is that the work. References some art historical.
+## Roz Dimon [01:25:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5127s)
+
+I think she also put it up at her. It's up at her Instagram. Site to the call. And make sure.
+
+## Davonte Bradley [01:25:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5134s)
+
+Instagram and her Twitter.
+
+## Roz Dimon [01:25:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5136s)
+
+Yeah. Read the call though. It's not, she does have a call for things to go in a search. She does say something about tying it to art history. So make sure you read the call.
+
+## Colin Goldberg [01:25:47](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5147s)
+
+Yeah. I added a link to it. There's a banner link now on Techspressionism is them.com. Homepage. I figured I'd, I'd put something right there. And I think that's a great way to get people to know that. So it's visible and it links off to a description. You know, about the call and yeah, I guess kind of the idea is that the work. References some art historical.
 
 You know, element, you know, it doesn't necessarily have to be expressionism per se, as in the way that expressionism kind of, you know, references that movement, you know, it could be any, any art historical movement, but you know, the idea is that basically it's work that's conceived of as art. Since a lot of the NFTs that are circulating are more like sort of. Trading cards or collectibles, like things like. Cypher punks or crypto kitties. You know, they're not necessarily conceived of as, as art pieces per se, as much as tokenized collectible.
 
 You know, I guess. I don't know what, what you'd exactly call them tokenized collectibles. So, I mean, what we're really looking for are our works that are conceived of as art pieces. And I would, I would probably venture to guess that. You know, and it's going to be more looking at work that's created specifically.
 
-To be. You know, conceived of as an NFT, not necessarily preexisting work. That's just, you know, minted. If that makes sense. You know, I had a question about. The process of. You can submit to JPEGs. And I say, if your piece or pieces get accepted at that point. Is it for the artist to quickly mint it or. When does that happen? Or do you mint it ahead of time and then submit it? Yeah, that's a really good question. So like, you know, right from the get go, I actually suggested to Ann that we ask.
+To be. You know, conceived of as an NFT, not necessarily preexisting work. That's just, you know, minted. If that makes sense.
 
-Artists to submit links to already minted NFTs. So there isn't any sort of. You know, we're not going to have a sort of like. Period where. You know, they have to make the NFT. But, but her sort of response to that was, well, we want to also. Have a show where the work. You know, might be shown for the very first time. When it opens. So how do we do that? You know, so one sort of requirement is that there's a link to.
+## Victor Acevedo [01:27:21](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5241s)
 
-The artist NFT platform of choice and that, you know, we can see that there's some NFTs that have already been minted. By the artist. So, you know, I think that. That process has to sort of be figured out by each individual artist. Prior to really submitting work because. It is, it is pretty technically involved, you know, or it can be. I posted a link in the chat to this publication that open C. Put out called the NFT Bible. That's pretty comprehensive.
+You know, I had a question about. The process of. You can submit to JPEGs. And I say, if your piece or pieces get accepted at that point. Is it for the artist to quickly mint it or. When does that happen? Or do you mint it ahead of time and then submit it?
 
-You know, but I think open C is a really good option because. At least as far as some of the. The different. There's different ways that you can. You can price your work or put it out there. One is to set a fixed price. And then you could also do an auction based. Publication where the, the gas fees are actually paid by the purchaser.
+## Colin Goldberg [01:27:42](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5262s)
 
-So that's a way of, of minting something basically. With. I believe a little upfront costs, but I think there still is an initial gas fee that needs to be paid. To. Put the account together. So. You know, I think that's a good way to do it. And then you can also. You can also do it. With the initial first one. Or actually maybe to mint the initial first one. I think that might be more accurate. But yeah, so, so the, the, the work. That's submitted. Doesn't necessarily need to exist as an NFT already. But I think that the, the artists submitting. Work to the show. Do you need to demonstrate that they've already. Mented NFTs.
+Yeah, that's a really good question. So like, you know, right from the get go, I actually suggested to Ann that we ask. Artists to submit links to already minted NFTs. So there isn't any sort of. You know, we're not going to have a sort of like. Period where. You know, they have to make the NFT. But, but her sort of response to that was, well, we want to also.
+
+Have a show where the work. You know, might be shown for the very first time. When it opens. So how do we do that? You know, so one sort of requirement is that there's a link to. The artist NFT platform of choice and that, you know, we can see that there's some NFTs that have already been minted. By the artist. So, you know, I think that. That process has to sort of be figured out by each individual artist. Prior to really submitting work because.
+
+It is, it is pretty technically involved, you know, or it can be. I posted a link in the chat to this publication that open C. Put out called the NFT Bible. That's pretty comprehensive. You know, but I think open C is a really good option because. At least as far as some of the. The different. There's different ways that you can. You can price your work or put it out there. One is to set a fixed price. And then you could also do an auction based.
+
+Publication where the, the gas fees are actually paid by the purchaser. So that's a way of, of minting something basically. With. I believe a little upfront costs, but I think there still is an initial gas fee that needs to be paid. To. Put the account together. So. You know, I think that's a good way to do it. And then you can also. You can also do it. With the initial first one. Or actually maybe to mint the initial first one. I think that might be more accurate. But yeah, so, so the, the, the work. That's submitted. Doesn't necessarily need to exist as an NFT already. But I think that the, the artists submitting. Work to the show. Do you need to demonstrate that they've already. Mented NFTs.
 
 You know, and I think that's an important aspect. One thing I do believe you can do is. You can actually mint something. And have it be not for sale. You know, and I think that if. Like Sue was saying a lot of the, a lot of the sort of action happens on Twitter. Where people are promoting their NFTs and driving traffic to it. So, I mean, if you meant something. And you don't post links to it anywhere.
 
 It's not going to be getting much visibility. I mean, that's kind of just. The, the, the fact of the matter is that the platforms. At this point are free. They're not going to be favoring sort of artists that. You know, they're, they're promoting artists that already have sort of a brand name value. As NFT artists. You know what I mean? So if you meant something.
 
-I would say. Unless you're really putting it out there and spreading it through social media. It can probably be minted. In a fairly sort of under the radar way. If that makes sense. I don't know if that answers your question or not, but. Yeah. There's several options there that you. Indicated. So, but thanks for it's a lot clearer to me. How it could work. Yeah.
+I would say. Unless you're really putting it out there and spreading it through social media. It can probably be minted. In a fairly sort of under the radar way. If that makes sense. I don't know if that answers your question or not, but.
+
+## Victor Acevedo [01:30:50](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5450s)
+
+Yeah. There's several options there that you. Indicated. So, but thanks for it's a lot clearer to me. How it could work. Yeah.
+
+## Roz Dimon [01:31:03](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5463s)
 
 I haven't done anything yet because I'm really thinking a lot about the whole scene. Coming having been in it a long time. And I'm I, I don't want them to jump in with something. I really want to kind of think about how. You know. What I jump in with. So I don't know. It's the time is not, but it's going to be here. For a little bit. It might, it might be where I like the discussions here because strategy and how you think about your work and, and, and what you put up and when.
 
-Especially if you have different. Periods of work. Yeah. I see a question from Giovanna and that's a good question too, about. She said, I have an NFT with music and I submit it. And if we submit the material to end, we may have to. Pay another gas fee. Right. So, yeah, I believe, you know, like from what I can understand and you can definitely read the language in, in the call that she put together. She's looking for any kind of creative material that artists. You know, wanna, wanna submit. And that would include, I would believe, you know, audio visual work now. And as far as the gas fee goes, there's no gas fee involved in submitting work through the open call. You know, the gas fee would happen when the work is minted. So, you know, you can, you can decide whether or not you want to mint the work in, in advance or not.
+Especially if you have different. Periods of work.
 
-And the cost of minting fluctuates with, you know, the level of activity on the theory of main net, which, you know, kind of. Also has to do with the price of Ethereum and all sorts of other factors, you know? So one thing to think about is I believe with, with open C, if you prep a whole bunch of work in advance and then you pay your upfront. Pay. Gas fee. Gas fee. You can mint like an entire collection of works.
+## Colin Goldberg [01:31:38](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5498s)
 
-Not having to pay a gas fee every single time. Sue probably knows more about this than I do, because I think she's definitely ahead of me in the fact that she's actually sold an NFT, which I have not. So maybe if, if you could let people know like about, you know, your process on open C, that would be really informative. Yeah.
+Yeah. I see a question from Giovanna and that's a good question too, about. She said, I have an NFT with music and I submit it. And if we submit the material to end, we may have to. Pay another gas fee. Right. So, yeah, I believe, you know, like from what I can understand and you can definitely read the language in, in the call that she put together. She's looking for any kind of creative material that artists. You know, wanna, wanna submit. And that would include, I would believe, you know, audio visual work now. And as far as the gas fee goes, there's no gas fee involved in submitting work through the open call. You know, the gas fee would happen when the work is minted. So, you know, you can, you can decide whether or not you want to mint the work in, in advance or not. And the cost of minting fluctuates with, you know, the level of activity on the theory of main net, which, you know, kind of.
 
-I uploaded work I'd already done. That was good. That was good. So I think that's the only thing that's really interesting about open C is that it's quite small. So videos have to be under a hundred meg. I think it is. And with open C you can have multiple collections. It doesn't cost extra. So I've, I've divided one into two collections, one for glitches and one for just.
+Also has to do with the price of Ethereum and all sorts of other factors, you know? So one thing to think about is I believe with, with open C, if you prep a whole bunch of work in advance and then you pay your upfront. Pay. Gas fee. Gas fee. You can mint like an entire collection of works. Not having to pay a gas fee every single time. Sue probably knows more about this than I do, because I think she's definitely ahead of me in the fact that she's actually sold an NFT, which I have not. So maybe if, if you could let people know like about, you know, your process on open C, that would be really informative.
 
-Digital art. Yeah. So far it's. Yeah, that's it's only, you've only had to pay once. So. Yeah. Cool. And you've minted stuff over like a period of time and still it was under that initial gas fee. Yeah. About 20 pieces. I think. I just do one every now and again. And. Yeah. And then promote it on Twitter as much as possible without annoying people. Right.
+## Sue Beyer [01:33:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5593s)
+
+Yeah. I uploaded work I'd already done. That was good. That was good. So I think that's the only thing that's really interesting about open C is that it's quite small. So videos have to be under a hundred meg. I think it is. And with open C you can have multiple collections. It doesn't cost extra. So I've, I've divided one into two collections, one for glitches and one for just.
+
+Digital art. Yeah. So far it's. Yeah, that's it's only, you've only had to pay once. So. Yeah.
+
+## Colin Goldberg [01:33:51](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5631s)
+
+Cool. And you've minted stuff over like a period of time and still it was under that initial gas fee.
+
+## Sue Beyer [01:33:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5637s)
+
+Yeah. About 20 pieces. I think. I just do one every now and again. And. Yeah. And then promote it on Twitter as much as possible without annoying people. Right.
+
+## Colin Goldberg [01:34:14](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5654s)
 
 Yeah. I know like some platforms are set up more like. You know, social networks like rare able where you can follow people and they follow you and super rare is kind of more like that. And open C is more like a database. Correct. Like, you know, there are followers and things like that. It's more like just sort of an open database that searchable and that's across all different platforms.
 
-Right. So anybody that's using. And then if anyone that's minted anything that's on, on the Ethereum. Main net, right. Like would show up in an open C search. Yes. And I've also purchased work. From other platforms and it all shows on my open C. Account. So I bought something from wearable. I think it was. And. I think I've purchased something else from open C. Yeah. And it's all in my collection. So.
+Right. So anybody that's using. And then if anyone that's minted anything that's on, on the Ethereum. Main net, right. Like would show up in an open C search.
 
-I actually, I had to. I think I've maybe need to go on a different channel. So I'm just going to go on a different channel. So I'm just going to go on a different channel. So I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. Person that bought your nft right you know I was yeah I was telling him just go onto every platform and grab Steve Miller as a profile name I did that yesterday yeah like and I would say to all the other artists that are on this call you know you don't need to actually set up like an ethereum wallet or anything else like that on most of the platforms just to create a profile so you could just grab your name you know on all the different platforms and just put a little picture up there in your bio if you want or whatever but at least that protects your ability in the future to publish and mint on that platform you know especially for someone like Steve Miller who I know that there's literally another Steve Miller who's an artist that lives near him so you know the if you have a very odd name I mean I've actually met another Colin Goldberg on a freelance job in new york city which is really strange but yeah so you never know but I think it's important you know if you're going to be doing nft stuff just to go on the main ones you know rarible super rare foundation there's a bunch of them that are sort of the main ones and just grab your name that's probably a good starting point colin I'm going to get out this for one second only because I don't want to forget before people leave if there are any women who want to present at the march 30th we're still in international women's history of course you can present women have presented here before many times but if anybody would like to you don't have to wait for me to come invite you if you would like to present should they come to me first do you think colin and devo do you want them to come right to you or let's maybe we should go over how people submit to present I will you know I mean if you want to if you want to be sort of a point person that'd be great you know I know that to your to your point about the women's history month too that was something that and explicitly built into the call was that you know female artists or women artists identifying as women are especially encouraged to apply to the show and you know that's part of like I think an important aspect of what we're doing as sort of a group is trying to really be you know gender inclusive as possible it's something that we have the ability to try to do by making sort of you know concrete decisions about what information we put out curatorial decisions and stuff like that so you know certainly I think that it's part of you know this being sort of a social sculpture of sorts and having some level of awareness you know and the ability to make change I'm just gonna put I actually I'm often I do large works on the computer so I'm often on the desktop I mean on my laptop so rather than go through Instagram if anyone who's interested can email me at roz at rozdimon.com for presenting on march 30th I think three people is actually really great I mean maybe we could do more but how do people feel I think the three is great and then it gives us a lot of time to talk about nfts and everything else and AI and there's a lot going on yeah three sounds good yeah so I'm just putting in my email so for march 30th I'll go ahead and handle be the channel for setting that up with hopefully three more women who will present and if you presented before and you have something unique and different that you want to focus on go ahead and present again that'd be great and I just want to thank roz you know for sort of spearheading you know this and also like the interview series and Davo you know for stepping up for the show and I'm just putting in my email so for march 30th I'll go ahead and handle be the channel for starting off with the interview series and Davo you know for starting off with to the mic and like pretty much running these salons you know as our moderator that's like what it's all about you know otherwise you know I'll have a nervous breakdown and probably my wife will divorce me because I'm literally like on my devices all the time thinking thinking and talking about this stuff.
+## Sue Beyer [01:34:49](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5689s)
 
-And, you know, it's, it's, I have to, have to unplug, periodically and, and certainly like, I welcome anybody that has an initiative or an idea just to like, you know, to run with it. You know what I mean? The, the sort of philosophy that I have when it comes to this is that, expressionism is, is source as I can make it that is you know I want it to be brought into common usage not trademarked and copyrighted and turned into a 501 c3 corporation you know I want it to be the opposite of that so like someone wants to just put together a Techspressionist show or whatever else to me that's just in keeping of the idea of it being brought into common usage so that's sort of my two cents on it thank you too colin you know I was talking to colin on the phone last week briefly and he said something like okay I gotta go I'm fried and I thought I bet you are I mean he's been doing a lot a lot of work out there and I know you don't want to make it into a corporation but the fact that you have that experience experience and a lot of us have talked about how we work in other things I say bring that into what we're doing and I it makes a big difference I mean his incredible tech you know expertise and things has made a difference in the way this thing is launching but with an openness that is it's really wonderful so thanks to you too sure and yeah like I know sue mentioned you know working in an agency so I've been there ros has been there you know I mean yeah that's what's helping to support my studio and pay my daughter.
+Yes. And I've also purchased work. From other platforms and it all shows on my open C. Account.
 
-I mean, pay my daughter to feed my, my daughter to help, you know, fund this operation is like, you know, doing the, doing the sort of client work that, you know, we all need to do or whatever. But I mean, and it's funny too, because I've often found that some of the most amazing, you know, personal work that I've seen has been when I've been in agencies and just the stuff that these freelancers are doing, like in their spare time, like, oh, just messing around with this thing. And it's like, whoa, look at that. You know what I mean? Because like they're doing, you know, they're doing stuff for, for these corporations where, you know, it, it has to be exactly perfect to a T. It's not going to be acceptable if it's not. So then when it's time to go and do your own thing, you know, there's more sort of creative freedom.
+## Unattributed [01:34:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5697s)
 
-So, you know, one upside of corporate. I don't know. Can't even call it corporate America now. Corporate earth. Corporate earth. Yes, of course. Yeah. And yeah, to that point when people say I do my day job, of course, which we all hated, we, we, we said we did, but when people say, oh, have you always worked as an artist? I say, yes, yes, I have. When I was doing the new media divisions or working at the wall street journal and had a creative storytelling, I was doing my art. And, you know, I think we need to take back that mantle a little bit, you know, it's hello. I it's, you know, only the people who have like, five homes and, you know, all over the world, the two top 2% can really say, I think that's really a stigma we have to get rid of because, you know, in the Renaissance, I mean, skilled craftsmanship and painting and everything was all one big deal.
+So I bought something from wearable.
 
-And, you know, you know, some of the great artists would have their great pieces they would do. And then they were, you know, Jesus was Coca-Cola. I mean, I like Jesus a lot, but he really was. I mean, that was the icon of the day and that was the advertising and the media and for all the great, you know, those periods and of course in other periods, but it was never separated as if, oh, you're not really an artist. If you're working, what, to feed yourself?
+## Sue Beyer [01:34:59](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5699s)
 
-So I've gotten in trouble talking about, but these barriers need to come down. I think this medium. Them down in a way that's very exciting. So I'm going to forward. Now, I normally would have more to say, but I had a handful of walnuts and raisins in my mouth. So I'm sorry. But yeah, now, as far as this project goes, it has really been an amazing experience so far, just from the starting point that I came from with this. And, you know, seeing it grow and become what it has come to now and how it continues to move. It's still exciting. Like, I'm still probably as excited as I was when Colin first contacted me. It's like, today, just about like, it's, it's an amazing movement, amazing community that we've got here now.
+I think it was. And. I think I've purchased something else from open C. Yeah. And it's all in my collection. So.
 
-And yeah, we were doing big things. We're trying to do big things. And I lost I lost my thought about where I was going. You don't have to be doing that. I also have the problem of thinking too much too. So like I could be thinking about all sorts of things and then lose track of where the direction that I was going. So that's also a problem. Oh, Davos. So there's probably a bunch of people on here who don't know about our discord or. What Discord is. Do you want to just do a quick intro on that too? Yeah, I got, I got five minutes. Sure. So if you guys, were not in the know, we have something called a Discord server. Now if you are completely unfamiliar with the term, or, or the platform, you can go to the Discord server and you can go to the Discord server and the closest thing I can compare it to is if you remember things like, like AOL instant messenger or Yahoo instant messenger from way back in the early two thousands, like it's an instant messaging platform, but it's a lot more sophisticated.
+## Colin Goldberg [01:35:07](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5707s)
 
-They think those platforms, but like on steroids, it's, it's a lot closer to like a mixture of like Yahoo instant messenger plus something like Zoom. So it has the capabilities to do, streaming or live sharing like this. You also have the ability to share images or text or what, whatever, pretty much, within that platform itself. You can actually access our Discord server, through the main site for Techspressionism.com. If you scroll all the way at the bottom, you see like the social media icons, like Twitter, Instagram, the one on the far right that kind of looks like a little robot. You can actually access our Discord server, through the main site for Techspressionism.com. If you scroll all the way at the bottom, you see like the social media icons, like Twitter, Instagram, the one on the far right that kind of looks like a little robot.
+I actually, I had to. I think I've maybe need to go on a different channel. So I'm just going to go on a different channel. So I'm just going to go on a different channel. So I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. And I'm just going to go on a different channel. Person that bought your nft right you know I was yeah I was telling him just go onto every platform and grab Steve Miller as a profile name I did that yesterday yeah like and I would say to all the other artists that are on this call you know you don't need to actually set up like an ethereum wallet or anything else like that on most of the platforms just to create a profile so you could just grab your name you know on all the different platforms and just put a little picture up there in your bio if you want or whatever but at least that protects your ability in the future to publish and mint on that platform you know especially for someone like Steve Miller who I know that there's literally another Steve Miller who's an artist that lives near him so
 
-Like a little, like if you like ever played, space invaders or something like that, it kind of resembles that kind of little alien looking tech robot thing. That's that icon. That's the Discord link. And it will take you to either download the app if you don't have it, if you're on your phone, or it'll take you to download it or open it up in a web browser if you're on your desktop. It is something that can be downloaded. You don't have to. There is a web app version, so you can just use it natively. And then you can also download it on your desktop. And then you can also download it in your, your web browser if that floats your boat. But it's just another place to connect with us. If you don't want to, you know, wait to reach out to somebody on Instagram or wait for another, salon to come around, you can reach out to somebody there because a good chunk of us are there on Discord now.
+## Victor Acevedo [01:36:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5787s)
 
-We might not always be on there like consistently, consistently, but somebody will more than likely see your, their messages on Discord. If you, if you go there and leave a message. And yeah, actually I can drop a link to that to get the process started if you guys are interested. So give me one second.
+You
 
-Oh, if anyone's like, you know, I'm periodically on Clubhouse, but if anyone's interested in starting a Techspressionism room on Clubhouse, I would say go for it because like, I've been sort of toying with the idea of that. But at that point, you know, I'm not going to be able to do it. But at that point, you know, I will officially be become a robot and like never leave my studio. So, and my wife is like already like pretty much, not very enthused about Clubhouse because I've been on it too much. First of quality time, Colin. First of quality time. Hey, I was, I was chilling with my kid. She got the training wheels off this weekend, you know, trying to unplug as best I can.
+## Colin Goldberg [01:36:28](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5788s)
+
+Know the if you have a very odd name I mean I've actually met another Colin Goldberg on a freelance job in new york city which is really strange
+
+## Unattributed [01:36:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5796s)
+
+
+
+## Colin Goldberg [01:36:37](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5797s)
+
+But yeah so you never know but I think it's important you know if you're going to be doing nft stuff just to go on the main ones you know rarible super rare foundation there's a bunch of them that are sort of the main ones and just grab your name that's probably a good starting point colin
+
+## Roz Dimon [01:36:58](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5818s)
+
+I'm going to get out this for one second only because I don't want to forget before people leave if there are any women who want to present at the march 30th we're still in international women's history of course you can present women have presented here before many times but if anybody would like to you don't have to wait for me to come invite you if you would like to present should they come to me first do you think colin and devo do you want them to come right to you or let's maybe we should go over how people submit to present I
+
+## Colin Goldberg [01:37:33](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5853s)
+
+Will you know I mean if you want to if you want to be sort of a point person that'd be great you know I know that to your to your point about the women's history month too that was something that and explicitly built into the call was that you know female artists or women artists identifying as women are especially encouraged to apply to the show and you know that's part of like I think an important aspect of what we're doing as sort of a group is trying to really be you know gender inclusive as possible it's something that we have the ability to try to do by making sort of you know concrete decisions about what information we put out curatorial decisions and stuff like that so you know certainly I think that it's part of you know this being sort of a social sculpture of sorts and having
+
+## Unattributed [01:38:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5906s)
+
+Some
+
+## Colin Goldberg [01:38:26](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5906s)
+
+Level of awareness you know and the ability to make change
+
+## Roz Dimon [01:38:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5910s)
+
+I'm just gonna put I actually I'm often I do large works on the computer so I'm often on the desktop I mean on my laptop so rather than go through Instagram if anyone who's interested can email me at roz at rozdimon.com for presenting on march 30th I think three people is actually really great I mean maybe we could do more but how do people feel I think the three is great and then it gives us a lot of time to talk about nfts and everything else and AI and there's a lot going on yeah three sounds good yeah so I'm just putting in my email so for march 30th I'll go ahead and handle be the channel for setting that up with hopefully three more women who will present and if you presented before and you have something unique and different that you want to focus on go ahead and present again that'd be great and
+
+## Colin Goldberg [01:39:24](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5964s)
+
+I just want to thank roz you know for sort of spearheading you know this and also like the interview series and Davo you know for stepping up for the show and I'm just putting in my email so for march 30th I'll go ahead and handle be the channel for starting off with the interview series and Davo you know for starting off with to the mic and like pretty much running these salons you know as our moderator that's like what it's all about you know otherwise you know I'll have a nervous breakdown and probably my wife will divorce me because
+
+## Unattributed [01:39:47](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5987s)
+
+I'm
+
+## Colin Goldberg [01:39:48](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=5988s)
+
+Literally like on my devices all the time thinking thinking and talking about this stuff. And, you know, it's, it's, I have to, have to unplug, periodically and, and certainly like, I welcome anybody that has an initiative or an idea just to like, you know, to run with it. You know what I mean? The, the sort of philosophy that I have when it comes to this is that, expressionism is, is source as I can make it that is you know I want it to be brought into common usage not trademarked and copyrighted and turned into a 501 c3 corporation you know I want it to be the opposite of that so like someone wants to just put together a Techspressionist show or whatever else to me that's just in keeping of the idea of it being brought into common usage so that's sort of my two cents on it
+
+## Roz Dimon [01:40:45](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6045s)
+
+Thank you too colin you know I was talking to colin on the phone last week briefly and he said something like okay I gotta go I'm fried and I thought I bet you are I mean he's been doing a lot a lot of work out there and I know you don't want to make it into a corporation but the fact that you have that experience experience and a lot of us have talked about how we work in other things I say bring that into what we're doing and I it makes a big difference I mean his incredible tech you know expertise and things has made a difference in the way this thing is launching but with an openness that is it's really wonderful so thanks to you too sure
+
+## Colin Goldberg [01:41:22](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6082s)
+
+And yeah like I know sue mentioned you know working in an agency so I've been there ros has been there you know I mean yeah that's what's helping to support my studio and pay my daughter. I mean, pay my daughter to feed my, my daughter to help, you know, fund this operation is like, you know, doing the, doing the sort of client work that, you know, we all need to do or whatever. But I mean, and it's funny too, because I've often found that some of the most amazing, you know, personal work that I've seen has been when I've been in agencies and just the stuff that these freelancers are doing, like in their spare time, like, oh, just messing around with this thing. And it's like, whoa, look at that. You know what I mean? Because like they're doing, you know, they're doing stuff for, for these corporations where, you know, it, it has to be exactly perfect to a T.
+
+It's not going to be acceptable if it's not. So then when it's time to go and do your own thing, you know, there's more sort of creative freedom. So, you know, one upside of corporate. I don't know. Can't even call it corporate America now. Corporate earth.
+
+## Roz Dimon [01:42:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6154s)
+
+Corporate earth. Yes, of course. Yeah. And yeah, to that point when people say I do my day job, of course, which we all hated, we, we, we said we did, but when people say, oh, have you always worked as an artist? I say, yes, yes, I have. When I was doing the new media divisions or working at the wall street journal and had a creative storytelling, I was doing my art. And, you know, I think we need to take back that mantle a little bit, you know, it's hello. I it's, you know, only the people who have like, five homes and, you know, all over the world, the two top 2% can really say, I think that's really a stigma we have to get rid of because, you know, in the Renaissance, I mean, skilled craftsmanship and painting and everything was all one big deal. And, you know, you know, some of the great artists would have their great pieces they would do.
+
+And then they were, you know, Jesus was Coca-Cola. I mean, I like Jesus a lot, but he really was. I mean, that was the icon of the day and that was the advertising and the media and for all the great, you know, those periods and of course in other periods, but it was never separated as if, oh, you're not really an artist. If you're working, what, to feed yourself?
+
+So I've gotten in trouble talking about, but these barriers need to come down. I think this medium. Them down in a way that's very exciting. So I'm going to forward.
+
+## Davonte Bradley [01:43:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6233s)
+
+Now, I normally would have more to say, but I had a handful of walnuts and raisins in my mouth. So I'm sorry. But yeah, now, as far as this project goes, it has really been an amazing experience so far, just from the starting point that I came from with this. And, you know, seeing it grow and become what it has come to now and how it continues to move. It's still exciting. Like, I'm still probably as excited as I was when Colin first contacted me. It's like, today, just about like, it's, it's an amazing movement, amazing community that we've got here now.
+
+And yeah, we were doing big things. We're trying to do big things. And I lost I lost my thought about where I was going.
+
+## Roz Dimon [01:44:53](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6293s)
+
+You don't have to be doing that.
+
+## Davonte Bradley [01:44:55](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6295s)
+
+I also have the problem of thinking too much too. So like I could be thinking about all sorts of things and then lose track of where the direction that I was going. So that's also a problem.
+
+## Colin Goldberg [01:45:06](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6306s)
+
+Oh, Davos. So there's probably a bunch of people on here who don't know about our discord or. What Discord is. Do you want to just do a quick intro on that too?
+
+## Davonte Bradley [01:45:15](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6315s)
+
+Yeah, I got, I got five minutes. Sure. So if you guys, were not in the know, we have something called a Discord server. Now if you are completely unfamiliar with the term, or, or the platform, you can go to the Discord server and you can go to the Discord server and the closest thing I can compare it to is if you remember things like, like AOL instant messenger or Yahoo instant messenger from way back in the early two thousands, like it's an instant messaging platform, but it's a lot more sophisticated. They think those platforms, but like on steroids, it's, it's a lot closer to like a mixture of like Yahoo instant messenger plus something like Zoom. So it has the capabilities to do, streaming or live sharing like this. You also have the ability to share images or text or what, whatever, pretty much, within that platform itself.
+
+You can actually access our Discord server, through the main site for Techspressionism.com. If you scroll all the way at the bottom, you see like the social media icons, like Twitter, Instagram, the one on the far right that kind of looks like a little robot. You can actually access our Discord server, through the main site for Techspressionism.com. If you scroll all the way at the bottom, you see like the social media icons, like Twitter, Instagram, the one on the far right that kind of looks like a little robot. Like a little, like if you like ever played, space invaders or something like that, it kind of resembles that kind of little alien looking tech robot thing.
+
+That's that icon. That's the Discord link. And it will take you to either download the app if you don't have it, if you're on your phone, or it'll take you to download it or open it up in a web browser if you're on your desktop. It is something that can be downloaded. You don't have to. There is a web app version, so you can just use it natively. And then you can also download it on your desktop. And then you can also download it in your, your web browser if that floats your boat. But it's just another place to connect with us. If you don't want to, you know, wait to reach out to somebody on Instagram or wait for another, salon to come around, you can reach out to somebody there because a good chunk of us are there on Discord now. We might not always be on there like consistently, consistently, but somebody will more than likely see your, their messages on Discord.
+
+If you, if you go there and leave a message. And yeah, actually I can drop a link to that to get the process started if you guys are interested. So give me one second.
+
+## Colin Goldberg [01:47:44](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6464s)
+
+Oh, if anyone's like, you know, I'm periodically on Clubhouse, but if anyone's interested in starting a Techspressionism room on Clubhouse, I would say go for it because like, I've been sort of toying with the idea of that. But at that point, you know, I'm not going to be able to do it. But at that point, you know, I will officially be become a robot and like never leave my studio. So, and my wife is like already like pretty much, not very enthused about Clubhouse because I've been on it too much.
+
+## Unattributed [01:48:13](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6493s)
+
+First of quality time, Colin. First of quality time.
+
+## Colin Goldberg [01:48:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6497s)
+
+Hey, I was, I was chilling with my kid. She got the training wheels off this weekend, you know, trying to unplug as best I can.
+
+## Michael Pierre Price [01:48:27](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6507s)
 
 Well, I want to echo. What Sue had said very in, in her talk about finding her people. I really, really feel that. And the more time that I've been on here. I have to say that this is really like a home community for me and I'm really grateful for that. Everybody's inspiring me. And I. I enjoyed interviewing Roz and being interviewed by Roz.
 
@@ -316,24 +1170,90 @@ And have enjoyed. The salon meetings. I, I just. It's, it's more than just techn
 
 Here, here in Phoenix. And I'm planning to have a number of augmented reality aspects to my show. And if there is anybody. In here. Who might want to contribute or help me with any of the augmented reality aspects to my show. Contact me and. I'd love to maybe work with a few artists that might want to contribute something. I will credit everybody.
 
-And if not, then I'm just going to, you know, do it all myself, but I've been really impressed by some of the. The animations and. The. Some of the artists doing augmented reality. So. And anyway, so just wanted to add that in. Thank you. No problem. I also wanted just to chime up and say, I agree about the volunteering for you, Colin, because it's a lot to carry. But you've been doing an amazing job. I would volunteer in three seconds, except for the health. So I can't stay consistent. But I want you to know I'm working every. I can.
+And if not, then I'm just going to, you know, do it all myself, but I've been really impressed by some of the. The animations and. The. Some of the artists doing augmented reality. So. And anyway, so just wanted to add that in. Thank you. No problem.
 
-In the background. These are art historians. Reviewers. The whole gamut. And I'm also have a solo show coming up. In April, 2022. So it's going to be a busy month. And I'm working on tagging my animations with a special acknowledgement. To Techspressionism. Just so my viewing audience gets to see it in a different format. So. I want you to know there are people in the background working for you too.
+## Karen LaFleur [01:50:39](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6639s)
+
+I also wanted just to chime up and say, I agree about the volunteering for you, Colin, because it's a lot to carry. But you've been doing an amazing job. I would volunteer in three seconds, except for the health. So I can't stay consistent. But I want you to know I'm working every. I can. In the background. These are art historians.
+
+Reviewers. The whole gamut. And I'm also have a solo show coming up. In April, 2022. So it's going to be a busy month. And I'm working on tagging my animations with a special acknowledgement. To Techspressionism. Just so my viewing audience gets to see it in a different format. So. I want you to know there are people in the background working for you too.
+
+## Colin Goldberg [01:51:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6694s)
 
 No, I really appreciate that. And, you know, the hashtag. Is really how this all. Has come about, which is really remarkable. I mean, it was, it was sort of a science experiment really, you know, to see, Hey, how about. You know, we put this out there as a hashtag and then put a site together with, you know, some, some. You know, language about use the hashtag. You'll get. You know, seeing in a search and maybe add you to the site. You know, and, and that seems to have worked pretty well so far. I think we're coming up to around 12,000.
 
-Posts on Instagram. With the hashtag. Which is pretty amazing, you know, and I'm pretty much, you know, all the artists. A good percentage actually came in through the initial open call. But, you know, a lot of them, the, the ones that are, especially from non-English speaking countries. Came in through the use of the hashtag. And I think that's, you know, something that's. You know, really interesting. So, you know, and I really believe like, you know, before there were what we call internet means.
+Posts on Instagram.
+
+## Unattributed [01:52:08](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6728s)
+
+With the hashtag.
+
+## Colin Goldberg [01:52:10](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6730s)
+
+Which is pretty amazing, you know, and I'm pretty much, you know, all the artists. A good percentage actually came in through the initial open call. But, you know, a lot of them, the, the ones that are, especially from non-English speaking countries. Came in through the use of the hashtag. And I think that's, you know, something that's. You know, really interesting. So, you know, and I really believe like, you know, before there were what we call internet means.
 
 You know, there was memetics, which was, you know, started by this guy, Richard Dawkins. And he, he based this around genetics. And it's sort of the, the mental counterpart to genetics, the way that ideas spread. And, you know, neurophysiologists. And people like that sort of dismissed it as a pseudoscience. But I, I actually believe that, you know, it's, it's a pretty good model of how things spread. How ideas spread is that they replicate. And the internet is a pretty good petri dish of allowing things to replicate. So the more that the hashtag is used, the more that the word is used. Especially the number of times that the word is actually said. And another person hears it. Because kind of the creepy thing about memetics. Is it views humans as hosts for memes.
 
-Which is, which is odd. But you can Google memetics and find out more about that. And think what you want about it. Interesting enough, there was, that was actually a concept in a video game. That, that's actually how I became familiar with the term memetics before I even knew that was like an actual thing that somebody had written about and studied.
+Which is, which is odd. But you can Google memetics and find out more about that. And think what you want about it.
 
-Which, video games are great. What's the name of the video game? It's Metal Gear Solid Revengeance. Yeah, it's, it's part of the Metal Gear Solid franchise. Which, that's full, that's chock full of philosophical stuff. Like just the whole franchise anyway. But, anyway. Before, before I go on nerding out about video game stuff. As I am wont to do many times.
+## Davonte Bradley [01:53:40](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6820s)
 
-We are hitting for, we are sitting at 4.03 PM Eastern time. So I think this would be a good point to start wrapping things up. Thank you for stopping by. It's been a pleasure to speak with all of you. And, you know, get your ideas, your thoughts, your feelings, and all that good stuff. And, great, great, you know, idea put together by Roz. With the whole presentations for Women's History Month. Because that's extremely important. And I almost kind of forgot about that. The last meeting we had this month. I was like, oh, wait, it is.
+Interesting enough, there was, that was actually a concept in a video game. That, that's actually how I became familiar with the term memetics before I even knew that was like an actual thing that somebody had written about and studied.
 
-So, thank you. And, yeah. Already have one person for next month. So, for the next meeting. And remember, you guys, it's every two weeks. And again, Davo, how do people spread if they want to come to the meeting? I just think people forget sometimes. How do they,. So, it's. On your email list. Is that at Techspressionism? I think it is. Yeah.
+## Unattributed [01:53:57](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6837s)
 
-Techspressionism. Well, Techspressionism. Collab is my email. He. As far as. No, but I mean. If they want to get on the email list to get invited to. Oh. Oh. The invitation. Isn't that at Techspressionism.com at the website? They can go to it. Yeah. There's a mailing list sign up in the site footer. So, at this point. You know, it's open to anyone on the mailing list. And also, I encourage you guys to, you know, personally invite any artists that you think might be interested in coming to the meeting. And, you know, if you're interested in, because that's how a lot of the people came in is sort of through word of mouth. Like, oh, I have a friend who would totally dig this or whatever. Actually, Sue, like, you know, I found out about you because of Steve. And he's like, he tweeted, like, I bought my first NFT.
+Which, video games are great.
 
-And I'm like, who, who is it? You know? And I looked at the tweet and I saw the link and I was like, wow, like she should come present, you know? So, so yeah. Yeah. Okay. Great. This has been fun. It has. Yeah. Thank you very much. And we are closing out in three, two, one. Bye. Bye.
+## Colin Goldberg [01:53:58](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6838s)
+
+What's the name of the video game?
+
+## Davonte Bradley [01:54:01](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6841s)
+
+It's Metal Gear Solid Revengeance. Yeah, it's, it's part of the Metal Gear Solid franchise. Which, that's full, that's chock full of philosophical stuff. Like just the whole franchise anyway. But, anyway. Before, before I go on nerding out about video game stuff. As I am wont to do many times. We are hitting for, we are sitting at 4.03 PM Eastern time. So I think this would be a good point to start wrapping things up. Thank you for stopping by. It's been a pleasure to speak with all of you. And, you know, get your ideas, your thoughts, your feelings, and all that good stuff.
+
+And, great, great, you know, idea put together by Roz. With the whole presentations for Women's History Month. Because that's extremely important. And I almost kind of forgot about that. The last meeting we had this month. I was like, oh, wait, it is. So, thank you. And, yeah.
+
+## Roz Dimon [01:55:04](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6904s)
+
+Already have one person for next month. So, for the next meeting. And remember, you guys, it's every two weeks. And again, Davo, how do people spread if they want to come to the meeting? I just think people forget sometimes. How do they,.
+
+## Unattributed [01:55:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6918s)
+
+So, it's.
+
+## Roz Dimon [01:55:18](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6918s)
+
+On your email list. Is that at Techspressionism? I think it is. Yeah.
+
+## Davonte Bradley [01:55:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6923s)
+
+Techspressionism. Well, Techspressionism. Collab is my email. He. As far as.
+
+## Roz Dimon [01:55:30](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6930s)
+
+No, but I mean. If they want to get on the email list to get invited to. Oh.
+
+## Unattributed [01:55:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6934s)
+
+Oh.
+
+## Roz Dimon [01:55:34](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6934s)
+
+The invitation. Isn't that at Techspressionism.com at the website? They can go to it.
+
+## Colin Goldberg [01:55:39](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6939s)
+
+Yeah. There's a mailing list sign up in the site footer. So, at this point. You know, it's open to anyone on the mailing list. And also, I encourage you guys to, you know, personally invite any artists that you think might be interested in coming to the meeting. And, you know, if you're interested in, because that's how a lot of the people came in is sort of through word of mouth. Like, oh, I have a friend who would totally dig this or whatever. Actually, Sue, like, you know, I found out about you because of Steve. And he's like, he tweeted, like, I bought my first NFT. And I'm like, who, who is it? You know? And I looked at the tweet and I saw the link and I was like, wow, like she should come present, you know? So, so yeah.
+
+## Roz Dimon [01:56:17](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6977s)
+
+Yeah. Okay. Great. This has been fun.
+
+## Davonte Bradley [01:56:20](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6980s)
+
+It has. Yeah. Thank you very much. And we are closing out in three, two, one. Bye.
+
+## Unattributed [01:56:28](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=6988s)
+
+Bye.

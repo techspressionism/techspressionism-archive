@@ -28,7 +28,7 @@ transcript_source: whisper-large-v3
 languages: ["en"]
 ---
 
-## Michael Pierre Price - AZ USA [00:02](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2s)
+## Unattributed [00:02](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2s)
 
 Good day. Today is October 5th, 2023. This is salon number 75. Another milestone here. Three years and running, so it's wonderful to be here today. My name is Michael Pierre Price. I'm an artist out of Phoenix, Arizona. And one of the nice things is, as we have grown we are very international at this point. We have artists here today from Germany, all across Canada, all across the USA, from Iran, and other points around the globe as well. So welcome to everybody who's here today and who may be watching after we do the recording.
 
@@ -36,19 +36,35 @@ Today's subject was designated as, Falling Leaves. And here we are in autumn tim
 
 And also, if anybody, is interested in making a short artist presentation today in between our discussions, feel free to use the raise hand option in Zoom here. And anybody who has their hand raised when we get to the point where we can do a presentation, I will call on you. So Cynthia Beth Rubin, you wanted, I'm going to go ahead and start the recording. I'm going to go ahead and start the recording. I'm going to go ahead and start the recording. I'm going to go ahead and start the recording. And I wanted to make a quick mention about the ongoing weekly co-working meetings that have been going on. So why don't you share that a little bit?
 
+## Cynthia Beth Rubin [02:15](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=135s)
+
 Okay. So did I unmute successfully? Okay. It's giving me too many messages about muting, unmuting. Someone changed the interface. So as people know, the two Cynthia's have been, I think, a couple of weeks ago, they were doing a lot of work on the! Zoom. So they've been organizing these weekly Zoom co-working sessions.
 
 And they've actually been really successful in getting us, we have a group now where we feel like we really know each other well, and we're open to other people joining and we're open to other times as well. So basically we just come on, people set aside that time as studio work time. They say what they plan to do. Then you turn off your sound, but keep your camera on. So you feel like you're in a joint space work for an hour and come back and show what you're doing. And it evolved a little bit in spontaneous crit work as well. So that's it. And so everybody is welcome. And if we got enough people.
 
-To you. So we're here to talk to you. So we're here to talk to you. So we're here to talk to you. And we're here to talk to you. So we're here to talk to you. So we're here to talk to you. So we're here to talk to you. And the people who are here at noon on Thursday probably don't have a time conflict. So Cynthia, did you have anything to add or anyone else who's been coming? We have of the people who are here right now, Karen comes, Sahar, Susan, Deanne, Michael has come a few times, right?
+To you. So we're here to talk to you. So we're here to talk to you. So we're here to talk to you. And we're here to talk to you. So we're here to talk to you. So we're here to talk to you. So we're here to talk to you. And the people who are here at noon on Thursday probably don't have a time conflict. So Cynthia DiDonato you have anything to add or anyone else who's been coming? We have of the people who are here right now, Karen comes, Sahar, Susan, Deanne, Michael has come a few times, right?
 
-And there are a bunch of other people and Kanish came last week. So it's really been great. I just wanted to add that the link to register is very often found in the Techspressionist Facebook page, also on Instagram, it'll appear. So make sure to register and registering before Tuesday is a good idea. So we know who's coming and we look forward to, having more join us. Right. It's also on the homepage of Techspressionism.com.
+And there are a bunch of other people and Kanish came last week. So it's really been great.
 
-You can always find the register link there. So that way, you know, that's a place where you can go to where it's always going to be there and you can sign up and you'll get the Zoom link via email. Okay. So that's a really good point. So it always happens on Tuesdays at noon and Colin put a little note to me to be sure to mention that. It's not the same link as the salons. And so if people have successfully registered in advance, I try to send out a reminder link sometime between Monday and before it happens so that you're sure to have the latest link.
+## Cynthia DiDonato [04:02](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=242s)
 
-But there are logistical reasons for not having it on the same link as the salons. So be sure to do that. Okay. That's, that's about, that's it. Unless someone else has anything to add who's been coming. Okay. All right. Thanks, Cynthia. Yes, that's been, it's been really fun attending this several times I've been there. So definitely worthwhile.
+I just wanted to add that the link to register is very often found in the Techspressionist Facebook page, also on Instagram, it'll appear. So make sure to register and registering before Tuesday is a good idea. So we know who's coming and we look forward to, having more join us.
 
-Okay. So one of the, one of the topics that we brought up last meeting is this idea of potentially creating either specific salons where we might do tutorials or we might integrate a tutorial as part of upcoming salons, or we might create specific separate meetings where tutorials might be brought up. So today, just as an example, Cynthia DiDonato and myself are each gonna present very short tutorials as potential examples. After our two presentations, I'd like to give us a little bit of time in which we could discuss the possibilities and what might work and whether or not those of us here would find doing tutorials as something beneficial for the group. So Cynthia, I will hand off the mic to you and your presentation.
+## Colin Goldberg [04:29](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=269s)
+
+Right. It's also on the homepage of Techspressionism.com. You can always find the register link there. So that way, you know, that's a place where you can go to where it's always going to be there and you can sign up and you'll get the Zoom link via email.
+
+## Cynthia Beth Rubin [04:47](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=287s)
+
+Okay. So that's a really good point. So it always happens on Tuesdays at noon and Colin put a little note to me to be sure to mention that. It's not the same link as the salons. And so if people have successfully registered in advance, I try to send out a reminder link sometime between Monday and before it happens so that you're sure to have the latest link.
+
+But there are logistical reasons for not having it on the same link as the salons. So be sure to do that. Okay. That's, that's about, that's it. Unless someone else has anything to add who's been coming.
+
+## Unattributed [05:35](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=335s)
+
+Okay. All right. Thanks, Cynthia. Yes, that's been, it's been really fun attending this several times I've been there. So definitely worthwhile. Okay. So one of the, one of the topics that we brought up last meeting is this idea of potentially creating either specific salons where we might do tutorials or we might integrate a tutorial as part of upcoming salons, or we might create specific separate meetings where tutorials might be brought up. So today, just as an example, Cynthia DiDonato and myself are each gonna present very short tutorials as potential examples. After our two presentations, I'd like to give us a little bit of time in which we could discuss the possibilities and what might work and whether or not those of us here would find doing tutorials as something beneficial for the group.
+
+So Cynthia, I will hand off the mic to you and your presentation.
 
 ## Cynthia DiDonato [06:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=418s)
 
@@ -80,15 +96,29 @@ The image. I can reset. If you see the bottom, right, it goes back to where it w
 
 To bring something. Up that I perhaps want to happen. So this is why I'm happy. I kept the black because that gives another aspect. I think to the image. So when I'm finished. And I decide, wow, that's hanging off here. I can go to free form. And then I can adjust the image. So that's there. Or if I want it to go off the canvas or what have you. So let's say I want to leave it there. Maybe I want to make it a little smaller. So I'm using my two fingers to zoom in. And then if I. Hit the transform button. Now it's placed on the screen. Generally when I do this, I decide. Gee, what happens if I duplicate it in order to duplicate? I use three fingers and I swipe down and I get this menu. I hit duplicate.
 
-And believe it or not. There are two images there that little. Green dot allows me to manipulate the image and even make it smaller with my two fingers. Zooming in and then I can choose to build whatever it is I would like to build. So I might decide I want it there and then I leave it alone. Now, once I've duplicated it automatically in Procreate creates another layer. So let's go up to the layer icon and you can see I have two layers now, one on top of the other. And the advantage of layers is people that work in software like this know that you can manipulate one layer and not harm other layers that are present. About one minute, Cynthia. Okay. So in the end, I keep building on this and then I can create my final image. So let me show you. I'm going to go to my series that I created in coworking.
+And believe it or not. There are two images there that little. Green dot allows me to manipulate the image and even make it smaller with my two fingers. Zooming in and then I can choose to build whatever it is I would like to build. So I might decide I want it there and then I leave it alone. Now, once I've duplicated it automatically in Procreate creates another layer. So let's go up to the layer icon and you can see I have two layers now, one on top of the other. And the advantage of layers is people that work in software like this know that you can manipulate one layer and not harm other layers that are present.
 
-Let me see. Not that coworking. Not that coworking. Let me find. I guess I hit it somewhere else. Here it is. Okay. So from this image in coworking, I went from this. To this. And some of them I like. I really like this one a lot. It's another image. So again, through manipulation, I was able to come up with all of these different images. And of course, as you saw, I changed the background here. I used the in the layer that allowed me to choose different blending modes. And I also used another tool that allows me to move around shapes, particularly this shape right here. That's called liquify.
+## Unattributed [17:51](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1071s)
 
-And so I got some very different images all from that television glitch. So that pretty much takes me there. And I am finished. I thank you for listening. Thanks, Cynthia. All right. So tutorial number two here.
+About one minute, Cynthia. Okay.
 
-## Michael Pierre Price [19:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1198s)
+## Cynthia DiDonato [17:54](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1074s)
 
-I will share my screen now as well. I am going to. Do a quick demo with mid journey. Does everybody see screen? Okay. All right. So what feature I wanted to highlight today is the blend feature in mid journey. And just to let everybody know, if you ever tried mid journey, if you haven't before, you'll need Discord.
+So in the end, I keep building on this and then I can create my final image. So let me show you. I'm going to go to my series that I created in coworking.
+
+## Karen LaFleur [18:13](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1093s)
+
+Let me see. Not that coworking. Not that coworking. Let me find.
+
+## Cynthia DiDonato [18:25](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1105s)
+
+I guess I hit it somewhere else. Here it is. Okay. So from this image in coworking, I went from this. To this. And some of them I like. I really like this one a lot. It's another image. So again, through manipulation, I was able to come up with all of these different images. And of course, as you saw, I changed the background here. I used the in the layer that allowed me to choose different blending modes. And I also used another tool that allows me to move around shapes, particularly this shape right here. That's called liquify.
+
+And so I got some very different images all from that television glitch. So that pretty much takes me there. And I am finished. I thank you for listening.
+
+## Unattributed [19:47](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1187s)
+
+Thanks, Cynthia. All right. So tutorial number two here. I will share my screen now as well. I am going to. Do a quick demo with mid journey. Does everybody see screen? Okay. All right. So what feature I wanted to highlight today is the blend feature in mid journey. And just to let everybody know, if you ever tried mid journey, if you haven't before, you'll need Discord.
 
 Mid Journey is planning to come out with a website version sometime soon. I don't know exactly when, but at this point, you need to be in Discord in order to use the software. Also, just wanted to highlight here. The settings that I have just in case anybody wants to know. I like the raw mode because it's something that works well for the type of artwork that I create.
 
@@ -96,7 +126,17 @@ And these are the other features here. The remix mode is nice, and I'll show you
 
 Artworks that I created primarily. In 3D Bryce. Old school software that I've liked. This one is a fractal image that I did a lot of work on. And this last one is one that I used mid journey earlier in the year. As a starting point and finished up with a lot of work in Photoshop and a few other techniques. So.
 
-I just wanted to show you. That with this blend feature. And you bring that up by hitting slash clicking on blend. And you can use anywhere from two to five images to blend. And I'm going to use four images. And. Let's see here. I thought I had them all selected to start with here. And then. We'll do four. I'll go back.
+I just wanted to show you. That with this blend feature. And you bring that up by hitting slash clicking on blend. And you can use anywhere from two to five images to blend.
+
+## Unattributed [22:52](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1372s)
+
+And I'm going to use four images. And. Let's see here. I thought I had them all selected to start with here. And then. We'll do four.
+
+## Karen LaFleur [23:24](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1404s)
+
+I'll go back.
+
+## Unattributed [23:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1406s)
 
 Okay. So what I'm going to do then is copy and paste the images. And then I'll do the same thing here. So I'll just do this one. Zoom is causing me issues here. Okay. So I have each of the four images in here. And then. I click on the type of image I want to create in terms of aspect ratio. And since these are all landscapes, I'm going to pick landscape. And I hit enter.
 
@@ -106,9 +146,13 @@ And basically. Mid journey is looking at the characteristics of each of the four
 
 Is pick a couple. Just for this. Tutorial. And I'll just go ahead and pick the first two. And I do that by hitting the you the upscale. Even though in this version it doesn't really upscale the image. But it isolate isolates the images. And you can look at them. And so. The feature. That I want to highlight now is.
 
-I can vary. And create. Basically another set of images from this base image that. I've utilized. And one of the things that I can. Bring into bear here. Is I can create a prompt. To help influence. The. The news for sets of images. And for this I'm saying. I'm going to add geometric abstract. Serial. Realist oil painting. So I hit submit.
+I can vary. And create. Basically another set of images from this base image that. I've utilized. And one of the things that I can. Bring into bear here. Is I can create a prompt. To help influence.
 
-And now. A new set of images are going to be. Created off of this one. And then for the second one. That I selected. I'm going to create a series of four more images. But I'm going to use a different prompt. And I'm going to vary this second image. And the prompt. I'm doing a bit of cutting. Cutting and pasting the same tape. Typing. I'm going to use architectural fractal. Faux this watercolor painting. And then I'm also going to highlight. The different colors that I want to have in there. So. What I want to show here.
+## Unattributed [26:27](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1587s)
+
+The. The news for sets of images. And for this I'm saying. I'm going to add geometric abstract. Serial. Realist oil painting. So I hit submit. And now. A new set of images are going to be. Created off of this one. And then for the second one. That I selected. I'm going to create a series of four more images.
+
+But I'm going to use a different prompt. And I'm going to vary this second image. And the prompt. I'm doing a bit of cutting. Cutting and pasting the same tape. Typing. I'm going to use architectural fractal. Faux this watercolor painting. And then I'm also going to highlight. The different colors that I want to have in there. So. What I want to show here.
 
 Is that you can use. Mid journey as. Your own set of experimentations. So now we have. Four images. From that second. From the first of the. The ones that I created. And now you can see they're becoming more and more. Painterly looking. And if I wanted to follow one and say like. This fourth one down here.
 
@@ -116,41 +160,135 @@ I'm going to. I can hit the upscale. Look at that and say. Okay. That's kind of 
 
 And then here's the here's the second. Here's the second series of images. Now you can tell. That there's some similarities. But stylistically. I've made some major major changes here. And for me. Once again. This is a way to test out ideas. This blend mode can be utilized as a jumping off point. From previous works that you've created. And see. How you might create something that's a hybrid. And then you can use prompts. To take that further and further along the way.
 
-All right. So I'm going to stop share. And if anybody has any questions. For me about that. Feel free to ask away. And yeah. Lee. I was just wondering how you inject the prompts in. I saw you were doing it in text. In a scroll. Okay. How the prompts get in there. Yeah. Okay. So when you do. When you do the very. Do you want me to go back in and share my screen? Would that be easier to answer you? Lee? Sure. Okay.
+All right. So I'm going to stop share. And if anybody has any questions.
 
-It didn't look like there was an interface. And that you were just putting it into a specific place. Right. Okay. Let me. Share my screen one more time. And I'll show you how. How to do it directly. Okay. So you see my screen right now. Yeah. Okay. So let's say. Let's say. I wanted to change this. This particular image right here. Okay. So if I go into vary. I can either vary it strongly. Which means it's going to create four really distinctively different ones. Or I can do a subtle variation. And let's say I do the subtle variation. Do you see this remix prompt?
+## Unattributed [29:28](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1768s)
 
-Yes. Screen. Okay. So when I. You see the URLs for the four images that were the original images that I blended. Starting here with the word geometric. That's what I had. That's what I had cut and paste in. But I can use my keyboard. And say. I'm deleting geometric. And I'm going to do abstract. Let me say. Let's go fractal. I'm typing in the word fractal here. So if I hit submit.
+For me about that. Feel free to ask away. And yeah. Lee.
+
+## Lee Day [29:38](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1778s)
+
+I was just wondering how you inject the prompts in. I saw you were doing it in text. In a scroll.
+
+## Unattributed [29:45](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1785s)
+
+Okay. How the prompts get in there.
+
+## Lee Day [29:47](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1787s)
+
+Yeah.
+
+## Unattributed [29:48](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1788s)
+
+Okay. So when you do. When you do the very. Do you want me to go back in and share my screen? Would that be easier to answer you? Lee? Sure. Okay.
+
+## Lee Day [30:10](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1810s)
+
+It didn't look like there was an interface. And that you were just putting it into a specific place.
+
+## Unattributed [30:15](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1815s)
+
+Right. Okay. Let me. Share my screen one more time. And I'll show you how. How to do it directly. Okay. So you see my screen right now. Yeah. Okay. So let's say. Let's say. I wanted to change this. This particular image right here. Okay. So if I go into vary. I can either vary it strongly. Which means it's going to create four really distinctively different ones. Or I can do a subtle variation. And let's say I do the subtle variation. Do you see this remix prompt?
+
+## Lee Day [31:03](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1863s)
+
+Yes.
+
+## Unattributed [31:04](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1864s)
+
+Screen. Okay. So when I. You see the URLs for the four images that were the original images that I blended. Starting here with the word geometric. That's what I had. That's what I had cut and paste in. But I can use my keyboard. And say. I'm deleting geometric. And I'm going to do abstract. Let me say. Let's go fractal. I'm typing in the word fractal here. So if I hit submit.
 
 That URL. Now you can see it's the U. R. I'm sorry that at the URL. The prompt that I'm using for this new variation of four is fractal abstract surrealist oil painting. Okay. Did you see that? Okay. Yeah. Okay. So that's how that works in terms of adding a prompt. If you want to add a prompt. And so now.
 
 It's using this image. And then highlighting not only the prompt that I use. But also again. The underlying images. To begin with. And now you can see. That there's. I can't say how much the fractal quality is in there. But we've got more of this kind of curvy wavy thing going on. And I would guess that the fractal part of the overall prompt. Probably did some influence into that.
 
-Thank you. Thanks. Good question. Cynthia. Yes. I had a question about. It's. Does it favor landscapes? I mean, there seems to be. You know, sky landscape. I know there was. It. Now that's a good question. Some people think that it does in some in some regards. But I've had good success with. With portrait.
+Thank you. Thanks. Good question. Cynthia.
 
-Aspect ratio and also square. So. The only. I mean, the only thing that favors is that when I look at it on screen. Because my screen is landscape. You know. I can. I can see it large. Without having to necessarily potentially scroll. But I don't. I don't know that there's an inherent bias necessarily.
+## Cynthia Beth Rubin [32:53](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1973s)
 
-So I'm not talking about the orientation. The fact that there's. Sky and. Okay. And it's okay. Even though your prompts were very abstract in a lot of ways. It kept giving you. Correct. So. Since. Since two of the images. Definitely had a landscape quality in terms of sky and ground. And far ground and imagery. That those images help to influence.
+Yes. I had a question about. It's. Does it favor landscapes? I mean, there seems to be. You know, sky landscape. I know there was.
 
-Showing that sense of sky and ground for ground background. Now I've done completely abstract works. That are very flat. And that was. But I think that will maintain that. Now if I. If in my prompts. I use words that potentially could add a dimensionality to that. Then that will start to influence.
+## Unattributed [33:03](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=1983s)
 
-And potentially bring in a landscape quality to it. Or some kind of dimensionality. Some lighting techniques where you might see shadow. And things like that. Cynthia DiDonato. Michael. When you add it. When you add the additional information to the prompt. As you did earlier. The geometric information. You have to make sure you put it right after the URL. For that particular image.
+It. Now that's a good question. Some people think that it does in some in some regards. But I've had good success with. With portrait. Aspect ratio and also square. So. The only. I mean, the only thing that favors is that when I look at it on screen. Because my screen is landscape. You know. I can. I can see it large. Without having to necessarily potentially scroll. But I don't. I don't know that there's an inherent bias necessarily.
 
-It needs to be afterwards. Yes. But the exact order in which things are done. That's a. There's debate about. How prompt wordage is. Influences things. But that's where I normally put it. I put it in that area. Right after. Right after the images. And that seems to work very well. Now I saw other URLs. Stacked up above it. Were those. Yeah. Those are the. Those are the four. Those are the URLs for each of the four original images. That I. That I brought in. To the blend.
+## Cynthia Beth Rubin [33:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2016s)
 
-Okay. Thank you. Okay. I think at this point we should transition. And discuss whether or not doing tutorials like this. Might be something that the group is interested in. And if you have comments. Feel free to speak up. And whether we'd want to do something that would be. Strictly. All. You know all about tutorials. We could do subjects. Things like that. So. I. This. This is just open for debate at this. For a few minutes here.
+So I'm not talking about the orientation. The fact that there's. Sky and. Okay. And it's okay. Even though your prompts were very abstract in a lot of ways. It kept giving you. Correct. So.
 
-Any feedback. Good. Bad. Or ugly. Sherry. Well. I want to thank both of you. I thought that the tutorials from both of you. Were excellent. I mean. I learned a lot. And I would like to see this happen. You know. Maybe every couple times. When we have a meeting. I thought it was very good. Very informative. So. Thank you. To both of you.
+## Unattributed [33:57](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2037s)
 
-Thanks for the feedback. Thank you. Other. Others would like to say something. Just. Go ahead. I'm always interested in how. People create their work. And particularly this group. Because I know some. Know you all. And I was really fascinated. I had no idea. How. I had no idea. How you were making your. Your pieces. Michael. And I. Enjoyed every. Minute of it. Every. Every aspect. And I really enjoyed. Watching Cynthia.
+Since. Since two of the images. Definitely had a landscape quality in terms of sky and ground. And far ground and imagery. That those images help to influence. Showing that sense of sky and ground for ground background. Now I've done completely abstract works. That are very flat. And that was. But I think that will maintain that. Now if I.
 
-Do her pieces. So. I found it. Extremely. Pleasurable. And I would like. More. Okay. Yeah. Thank you. Thank you. Yeah. I also. Like. Both. They were. Really pro. And. Really. Nice to watch. Really interesting. To see the process. And. Yeah. It's. It's. They're also. Inspiring. Kind of. I want. To. Come back. To. Exploring.
+If in my prompts. I use words that potentially could add a dimensionality to that. Then that will start to influence. And potentially bring in a landscape quality to it. Or some kind of dimensionality. Some lighting techniques where you might see shadow. And things like that. Cynthia DiDonato. Michael.
 
-AI. A bit. After this. So. Yeah. I never used. Procreate. But. Yeah. It was good. To know. This. What the. What it is about. And. It's. Really cool. To see what you guys. Do. And. I enjoyed it. I would love to see more. Yeah. Thank you. Thanks. Anton. Thank you. Okay. So. It sounds like. This is something. We should. Keep exploring. And. Maybe. We can do some more. Down the road.
+## Cynthia DiDonato [34:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2095s)
 
-So. The other. Subject. That we. Wanted. To talk. About. And. I'm going to hand. The. Mic. Off. The. Collin. In just a moment. But. We had. Also. Mentioned. Last. Meeting. The. Possibility. Of. Ways. In which. We. Could. Connect. With. Universities. Colleges. Educational. Institutions. Because. As we all. Can see. Not only. From today. But just. Over the last. Three years. Is. This group. Has a wealth. Of deep. Knowledge. Experience.
+When you add it. When you add the additional information to the prompt. As you did earlier. The geometric information. You have to make sure you put it right after the URL. For that particular image.
 
-In many ways. Of utilizing. Technology. To create. Art. And. To work. Batman. That a. Batman. That a. All. That a. That. There. No. Now. He. Well. Don't. Not. Not. Just. Is. Alive. We. All. In. This. This. And they, you know, they have a decent art department there. And I've been working with one of their alumni who's an MFA student on a couple different projects. So he brought me in. He's actually this guy, Divine Bradley. He got hired by them as their director of innovation.
+## Unattributed [35:12](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2112s)
+
+It needs to be afterwards. Yes. But the exact order in which things are done. That's a. There's debate about. How prompt wordage is. Influences things. But that's where I normally put it. I put it in that area. Right after. Right after the images. And that seems to work very well.
+
+## Cynthia DiDonato [35:38](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2138s)
+
+Now I saw other URLs. Stacked up above it. Were those. Yeah. Those are the.
+
+## Unattributed [35:44](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2144s)
+
+Those are the four. Those are the URLs for each of the four original images. That I. That I brought in. To the blend.
+
+## Cynthia DiDonato [35:54](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2154s)
+
+Okay. Thank you. Okay.
+
+## Unattributed [35:57](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2157s)
+
+I think at this point we should transition. And discuss whether or not doing tutorials like this. Might be something that the group is interested in. And if you have comments. Feel free to speak up. And whether we'd want to do something that would be. Strictly. All. You know all about tutorials. We could do subjects. Things like that. So. I. This. This is just open for debate at this. For a few minutes here.
+
+Any feedback. Good. Bad. Or ugly. Sherry.
+
+## Sherry Karver [36:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2196s)
+
+Well. I want to thank both of you. I thought that the tutorials from both of you. Were excellent. I mean. I learned a lot. And I would like to see this happen. You know. Maybe every couple times. When we have a meeting. I thought it was very good. Very informative. So. Thank you. To both of you.
+
+## Unattributed [36:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2215s)
+
+Thanks for the feedback.
+
+## Cynthia DiDonato [36:56](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2216s)
+
+Thank you.
+
+## Unattributed [36:59](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2219s)
+
+Other. Others would like to say something. Just. Go ahead.
+
+## Susan Detroy [37:05](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2225s)
+
+I'm always interested in how. People create their work. And particularly this group. Because I know some. Know you all. And I was really fascinated. I had no idea. How. I had no idea. How you were making your. Your pieces. Michael. And I. Enjoyed every. Minute of it. Every. Every aspect. And I really enjoyed. Watching Cynthia.
+
+Do her pieces. So. I found it. Extremely. Pleasurable. And I would like. More. Okay. Yeah. Thank you. Thank you.
+
+## Unattributed [37:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2266s)
+
+Yeah. I also. Like. Both. They were. Really pro. And. Really. Nice to watch. Really interesting. To see the process. And. Yeah. It's. It's. They're also. Inspiring. Kind of. I want. To. Come back. To. Exploring. AI. A bit. After this. So. Yeah. I never used. Procreate. But. Yeah. It was good. To know. This. What the. What it is about. And. It's. Really cool. To see what you guys. Do. And. I enjoyed it. I would love to see more. Yeah. Thank you. Thanks. Anton.
+
+## Cynthia DiDonato [38:37](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2317s)
+
+Thank you.
+
+## Unattributed [38:43](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2323s)
+
+Okay. So. It sounds like. This is something. We should. Keep exploring. And. Maybe. We can do some more. Down the road. So. The other. Subject. That we. Wanted. To talk. About. And. I'm going to hand. The. Mic. Off. The. Collin. In just a moment. But. We had. Also. Mentioned. Last. Meeting. The. Possibility. Of. Ways. In which. We. Could. Connect. With.
+
+Universities. Colleges. Educational. Institutions. Because. As we all. Can see. Not only. From today. But just. Over the last. Three years. Is. This group. Has a wealth. Of deep. Knowledge. Experience. In many ways. Of utilizing. Technology. To create. Art. And. To work. Batman. That a. Batman. That a.
+
+All.
+
+## Colin Goldberg [39:52](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2392s)
+
+That a. That. There. No. Now. He. Well. Don't. Not. Not. Just. Is. Alive. We. All. In. This. This. And they, you know, they have a decent art department there. And I've been working with one of their alumni who's an MFA student on a couple different projects. So he brought me in. He's actually this guy, Divine Bradley. He got hired by them as their director of innovation.
 
 And so he brought me into this new hire, Breakfast, just, you know, to help me network. I connected with him with some people that I know. And he had talked a little bit about the idea of me working with him and the school to do some sort of a workshop on Techspressionism. He was really interested in this idea of Techspressionism. And I had thought, you know, I had done a little bit of teaching in the past. And, you know, I thought it'd be interesting to do to create a syllabus around Techspressionism, where it might not be like a traditional college course where you learn soft. Where, but more like a painting course where you might have students doing a critique or developing a project over the course of the semester using technology. And then the instructor could help facilitate, you know, whatever sort of technologies they might want to work with.
 
@@ -174,67 +312,259 @@ You know, people like maybe Basquiat would fit into that group or Julian Schnabe
 
 So I think that's, you know, something that binds us all together. And so, I think that's something that binds us all together. So, yeah, so I mean, you know, it's something in this project is, I think, you know, Vivian's on Instagram, I'm sure she'd be happy to speak to anybody involving their, you know, experience with expressionism. And I think that's very exciting. So, yeah, that's all I had to really share about that, that piece with academia.
 
-Cynthia Beth Rubin. Okay, so I wanted to say first short comment. I started teaching computer stuff in the late 80s. And I never, never shot taught software, I took all of my painting assignments and just made them computer. So I think and I think many of us in the academic world have done that. But what I really wanted to say is, since we're spread out all over, I think that it was interesting to help each other line up visiting artist talks when we travel. I once went to the UK, and I gave three different talks around. England and each one was not particularly well paid, maybe the equivalent of 200 or $300.
+## Unattributed [48:57](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2937s)
+
+Cynthia Beth Rubin.
+
+## Cynthia Beth Rubin [48:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=2938s)
+
+Okay, so I wanted to say first short comment. I started teaching computer stuff in the late 80s. And I never, never shot taught software, I took all of my painting assignments and just made them computer. So I think and I think many of us in the academic world have done that. But what I really wanted to say is, since we're spread out all over, I think that it was interesting to help each other line up visiting artist talks when we travel. I once went to the UK, and I gave three different talks around. England and each one was not particularly well paid, maybe the equivalent of 200 or $300.
 
 But you kind of put them together and you have a free trip to England. So it would be great if we if maybe we even just started posting somewhere, you know, had a blog or in the chat somewhere. This is where I'm traveling in the next few weeks. This or months, this is, I'm open to giving talks, I think that would be really great.
 
-So, that's a great idea. And also, if you live near an academic institution that, you know, brings in visiting artists, that could also be posted as opportunities. So if someone's like, Oh, I always wanted to go to London, and look, there's they do visiting artists talks at this school, then you can reach out to the contact over there and see. You know, make them a pitch or whatever that could be another way that sort of networking opportunity could be, you know, facilitated.
+So, that's a great idea.
+
+## Colin Goldberg [50:11](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3011s)
+
+And also, if you live near an academic institution that, you know, brings in visiting artists, that could also be posted as opportunities. So if someone's like, Oh, I always wanted to go to London, and look, there's they do visiting artists talks at this school, then you can reach out to the contact over there and see. You know, make them a pitch or whatever that could be another way that sort of networking opportunity could be, you know, facilitated.
+
+## Unattributed [50:43](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3043s)
 
 Yeah, this is this, this is something I think is really important. And I appreciate all you shared Colin, I didn't realize some of the some of what was going on there. So that's really kind of cool. I mean, for us as a group, bringing in the next generation. Especially those exploring what technology can bring to art, I think, is a really important part of the whole, the whole dynamic for us. So that's this, this is another really exciting area.
 
 I see Tommy is joining in. I guess we'll wait for him to be ready, but Tommy's going to be presenting something brand new today. If I could just jump in here, Tommy. Yeah, sure. Tommy's been delayed in transit. So he'll be joining us at 1.15pm. Oh, okay. All right. Thanks for that info, Renata. Cynthia, do you do not know?
 
+## Cynthia DiDonato [51:49](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3109s)
+
 Time I have, I just wanted to mention something that's ongoing starting tonight. Is that all right? Won't take long. Tonight begins Mocha Lights in Pachag, Long Island. It goes from October 5th to the 9th. It starts tonight at 6pm Eastern Standard Time and goes to 11pm tonight. And of course, until October 9th.
 
 Digital art is being projected on buildings and marquees. Animations and videos are going to be shown and we are well represented. There are 10 of us who have our work in Mocha Lights. Marlo has work, Renata, Karen, Lucy, myself, Jaime, Deanne, Malavika, Sahar, and Susan. So we're well represented there and I'm thrilled myself to be a part of it. So I just wanted to share that.
 
-Thanks. That's really nice. That is really exciting. And again, it just shows. I think Jaime is also, Jaime's that expressionist. I mentioned Jaime. Jaime is also. Oh, yeah. Jaime. I thought he pronounced it Jaime. Oh, by the way, in the spirit of pronunciation as a native New Yorker, it's Pachog. If you ever talk to the curator there, it looks like it should be pronounced Pachog, but it's Pachog. I have so much trouble with that. Pachog. Pachog. Pachog. Okay.
+## Unattributed [52:57](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3177s)
 
-Thanks. Thanks, Colin. Yeah, it's really exciting. Congrats to all of you. I just wanted to also make a special mention of Karen. Sorry, Karen's work. She and I were in Mocha Lights last year, and this year they invited her to, they commissioned her to make a special work to fit the post office building in the village. So big shout out to Karen. Shout out for that. Thank you. Thank you. Yes. Yes. And there's a preview, I think, on the Facebook post of her piece. It's spectacular.
+Thanks. That's really nice. That is really exciting. And again, it just shows. I think Jaime is also, Jaime's that expressionist. I mentioned Jaime. Jaime is also. Oh, yeah.
 
-On their Facebook page. I would love to stand on the street and see the building light up in person. It's quite a large building, so it's really exciting. Thank you, everyone. Yes. Do apply next year, everybody, because they take all kinds of art, and they really support us in the arts. It's amazing. Yeah. And it's international.
+## Cynthia DiDonato [53:09](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3189s)
 
-Lucy has a spotlight that they've put out for her on Instagram and Facebook as well. Is that Beth Giacomo that's still the point person there? So she's a really good person also just in terms of exhibition ideas. She's one of the... I think she might have a few more. I think she might actually be the main person behind getting museum accreditation for Mocha Long Island, which is in the same township as Mocha Lights and Patchogue, but it was an art space there. And it recently did get museum accreditation. And I was part of a four-person show there initially. But I think if... She would certainly be receptive to exhibition proposals and things like that.
+Jaime. I thought he pronounced it Jaime.
 
-Especially if you've been involved with Mocha Lights in the past. So definitely you could drop her a line. She's on Instagram. Did you say her name again? It's Beth Giacomo. That's G-I-A-C-U-M-M-O. Thank you. She's very nice. Very responsive. And if you Google Museum of Contemporary Art Long Island, you'll find more information about them as well.
+## Colin Goldberg [53:13](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3193s)
 
-I just wanted to say one other thing about that. I think it's really important that we have a lot of people that are interested in art and that it's not all animation work. They do take still works too. So do apply. So since we have five or ten minutes before Tommy joins us, does anybody have some artwork that they would like to share today?
+Oh, by the way, in the spirit of pronunciation as a native New Yorker, it's Pachog. If you ever talk to the curator there, it looks like it should be pronounced Pachog, but it's Pachog.
 
-Opened... Yeah. Lucy.
+## Cynthia DiDonato [53:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3206s)
 
-## Lucy Boyd-Wilson [56:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3386s)
+I have so much trouble with that. Pachog. Pachog. Pachog. Okay. Thanks. Thanks, Colin.
 
-Go for it. Yay. All right. Because I noticed it was welcoming falling leaves. Yes. And so I did show this a couple of years ago, but I made some adjustments and I'll just show it one more time. All right. Good. Thank you. Thank you. All right. So, bit of a dark message, but there we have it. Lucy, that's beautiful.
+## Unattributed [53:35](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3215s)
 
-You said you've made some changes. This one really had a lot of almost hand-drawn feel to it. Was that intentional or did you do something different to get that feel? Yeah, it's sort of an aesthetic that I like. I like that sort of painterly look. You know, I'll share my screen again. And I'm sort of playing with this. At the beginning, it shows up with this sort of luminous, quality of the trunk and the branches coming through and then it gradually becomes a bit more that part disappears becomes a bit more solid but yet I like that sort of dry dry brush look where you can see see through the trunk and the branches so it's sort of ephemeral in that respect, and it's like the leaves are going through the changing colors of fall, but the trunk is sort of doing its own thing, also changing color in a way that, how do I express this, it's like here, it's like, okay, where the trunk and the tree is becoming sort of red it's for me that's like that pain that's sort of the internal pain of our environment somehow speaking to us in a way that maybe we can relate to it as, you know, blood.
+Yeah, it's really exciting. Congrats to all of you. I just wanted to also make a special mention of Karen. Sorry, Karen's work. She and I were in Mocha Lights last year, and this year they invited her to, they commissioned her to make a special work to fit the post office building in the village. So big shout out to Karen. Shout out for that. Thank you.
+
+## Susan Detroy [54:01](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3241s)
+
+Thank you. Yes. Yes. And there's a preview, I think, on the Facebook post of her piece. It's spectacular. On their Facebook page.
+
+## Karen LaFleur [54:15](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3255s)
+
+I would love to stand on the street and see the building light up in person. It's quite a large building, so it's really exciting. Thank you, everyone. Yes. Do apply next year, everybody, because they take all kinds of art, and they really support us in the arts. It's amazing. Yeah.
+
+## Cynthia DiDonato [54:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3276s)
+
+And it's international. Lucy has a spotlight that they've put out for her on Instagram and Facebook as well.
+
+## Colin Goldberg [54:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3286s)
+
+Is that Beth Giacomo that's still the point person there? So she's a really good person also just in terms of exhibition ideas. She's one of the... I think she might have a few more. I think she might actually be the main person behind getting museum accreditation for Mocha Long Island, which is in the same township as Mocha Lights and Patchogue, but it was an art space there. And it recently did get museum accreditation. And I was part of a four-person show there initially. But I think if... She would certainly be receptive to exhibition proposals and things like that.
+
+Especially if you've been involved with Mocha Lights in the past. So definitely you could drop her a line. She's on Instagram.
+
+## Unattributed [55:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3336s)
+
+Did you say her name again?
+
+## Colin Goldberg [55:38](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3338s)
+
+It's Beth Giacomo. That's G-I-A-C-U-M-M-O.
+
+## Susan Detroy [55:44](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3344s)
+
+Thank you. She's very nice.
+
+## Colin Goldberg [55:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3346s)
+
+Very responsive. And if you Google Museum of Contemporary Art Long Island, you'll find more information about them as well.
+
+## Karen LaFleur [55:54](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3354s)
+
+I just wanted to say one other thing about that. I think it's really important that we have a lot of people that are interested in art and that it's not all animation work. They do take still works too. So do apply.
+
+## Unattributed [56:06](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3366s)
+
+So since we have five or ten minutes before Tommy joins us, does anybody have some artwork that they would like to share today? Opened... Yeah. Lucy. Go for it. Yay.
+
+## Lucy Boyd-Wilson [56:29](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3389s)
+
+All right. Because I noticed it was welcoming falling leaves. Yes. And so I did show this a couple of years ago, but I made some adjustments and I'll just show it one more time. All right.
+
+## Karen LaFleur [56:57](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3417s)
+
+Good.
+
+## Unattributed [57:34](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3454s)
+
+Thank you. Thank you.
+
+## Lucy Boyd-Wilson [59:05](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3545s)
+
+All right. So, bit of a dark message, but there we have it.
+
+## Unattributed [59:17](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3557s)
+
+Lucy, that's beautiful. You said you've made some changes. This one really had a lot of almost hand-drawn feel to it. Was that intentional or did you do something different to get that feel?
+
+## Lucy Boyd-Wilson [59:40](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3580s)
+
+Yeah, it's sort of an aesthetic that I like. I like that sort of painterly look. You know, I'll share my screen again. And I'm sort of playing with this. At the beginning, it shows up with this sort of luminous, quality of the trunk and the branches coming through and then it gradually becomes a bit more that part disappears becomes a bit more solid but yet I like that sort of dry dry brush look where you can see see through the trunk and the branches so it's sort of ephemeral in that respect, and it's like the leaves are going through the changing colors of fall, but the trunk is sort of doing its own thing, also changing color in a way that, how do I express this, it's like here, it's like, okay, where the trunk and the tree is becoming sort of red it's for me that's like that pain that's sort of the internal pain of our environment somehow speaking to us in a way that maybe we can relate to it as, you know, blood.
 
 And yet when it comes to the point of finally becoming charcoal and ash and that sort of like it's drawn in charcoal and Conte, but animated and then finally that luminous quality of the trunk and the branches really coming through brightly as its own spirit something like that so just kind of just playing it's like the leaves are kind of going through seasonal colors But the trunk and the inner branches is sort of expressing itself in a different way. Maybe more.
 
-Could you repeat the word you said? Internal pain. What? Of what? Like here. It's like the leaves are becoming white. Like they're it's no longer it's no longer sort of seasons the trees the leaves are becoming white they're going are and this is like the branches is and the and the trunk is like to me that's sort of expressing that the pain of the what's happening with the environment okay thank you something like that okay for me it looks very much like it's transition to flames yeah and that here you have you have smoke and ash right yeah that too that's the word the word that I heard lucy use originally was blood yeah that you know it's like it can be like flame but also this especially in sort of this area where you know the leaves are like ash and you can think of this like they be on fire but yeah I was thinking of it also more internal like as in blood but so you know ambiguous ambiguous in different ways and not so completely representational it's not like flames even though it can kind of you know represent that also so yeah any more questions or thoughts yeah I sorry I had to jump off for a second lucy for a medical phone call so if this has already been discussed just let me know but is this one of your dome pieces?
+## Susan Detroy [01:02:20](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3740s)
 
-No, it's not. I mean, my dome piece did have a tree and the leaves were flowing in a similar way. So I'm using some of the techniques, but this wasn't the actual piece. Well, I've had the pleasure and Cynthia, I'm not sure if Lucy's work was running when you came up to the Katuit to see Lucy's work full scale, like large, six, eight feet across. And also in a dome festival where it's all 3D around. And it's just amazing because you're inside of her visuals as they're flowing past you.
+Could you repeat the word you said? Internal pain. What? Of what?
 
-I just wanted when I'm watching it Lucy to take my monitor but I just paid for it so I can't I would love to just take it and sort of wrap it around. Thank you. It's beautiful. I remember well seeing it with you, Karen. It was remarkable. It's remarkable. Thank you. See it that large. Thanks. And yeah, it was kind of cool being able to have it projected on a dome so it's actually all around you.
+## Lucy Boyd-Wilson [01:02:29](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3749s)
 
-So yeah, exploring dome, dome creation, dome, that type of immersion was very fun and interesting. Exactly what I've been wanting to do. So dome is a pretty good medium for me. Yeah, thank you. Thanks, Lucy. I'm assuming we're still waiting on Tommy at this point. Mm-hmm. Does anybody else have a short? Presentation of their art that they might be able to do for a couple minutes? Susan?
+Like here. It's like the leaves are becoming white. Like they're it's no longer it's no longer sort of seasons the trees the leaves are becoming white they're going are and this is like the branches is and the and the trunk is like to me that's sort of expressing that the pain of the what's happening with the environment okay thank you something like that okay
 
-## Susan Detroy [01:06:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4015s)
+## Lee Day [01:03:13](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3793s)
 
-I would. In addition, this is like a very big month for me. In addition to being part of the MOCA Lights, my biking movie that I made during COVID that I redid for a bike festival that won a prize. I actually won it for an award in the won some money I re mastered it and submitted it to a local event called the mayor's art show that's kind of a prestigious event here once a year and it's going to be shown and I'd like to share it with you it's a minute it's going to be shown in outside I'm very excited on a building outside in this october the 13th I think it is so I'm going to share content and show that short film for you it's on it's on YouTube at this point and I'm going to make it big and start up here so all right oops all right thanks Susan congrats oh you're welcome yeah I'm excited I there's limited opportunities locally for showing the work that I do and I'm always excited when local people are going to see my work and it'll also be on they'll have an online gallery also so I'm happy about that yeah Susan are you going to is there a link to that some of us our internet is off today so yeah that would be great yeah I'll put a link to that thank you it's on YouTube yeah okay Tommy are you ready ready to share your news today oops you there Tommy you're up if you're if you're ready to share hey so I'm so sorry I'm stuck in a subway and so I'm not sure if my connection is going to survive actual video use so I might turn off my video I see everybody's frozen right now doesn't look good your audio is coming through audio is perfect now Tommy I can't spoil you tonight can I come back in five minutes and then I'll be able to actually talk this is I've had such technology train trouble I'm sorry okay all right so I guess we got a few more minutes here in between any further discussions or does anybody have any short artwork presentation that you would like to make all righty then dead air here I can tell people about a new so can Renata share yeah screen that'd be awesome thank you and I'll come in like okay Renata okay so we've come up with an online initiative it's going to be a 3D world and all expressionist artists are invited to participate we have a Google form and it's going to be well Tommy will probably drop the link in the chat as he's the one who designed the space so the idea is that we're going to have a town square which is representative of an exchange of ideas a forum if you will or a place where artists can meet and discuss ideas and in addition to that each artist will have their own space coming out from the main square there'll be a corridor and you have a room and you can decorate it any way you like it's a powered by denazela hubs and we have a one-minute tutorial that we'll put up online so people can take a look and see how everything will work the main point of this for us is that we didn't want to useresponding times for us is that we didn't want to use Conce matrix are as we will this we will not be able to use this one for this other part of the working world we're going to do is we're going to have the or a traditional gallery-like setting for showing Expressionist art.
+For me it looks very much like it's transition to flames yeah and that here you have you have smoke and ash
+
+## Lucy Boyd-Wilson [01:03:24](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3804s)
+
+Right yeah that
+
+## Unattributed [01:03:27](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3807s)
+
+Too that's the word the word that I heard lucy use originally was blood
+
+## Lucy Boyd-Wilson [01:03:37](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3817s)
+
+Yeah that you know it's like it can be like flame but also this especially in sort of this area where you know the leaves are like ash and you can think of this like they be on fire but yeah I was thinking of it also more internal like as in blood but so you know ambiguous ambiguous in different ways and not so completely representational it's not like flames even though it can kind of you know represent that also so yeah any more questions
+
+## Karen LaFleur [01:04:32](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3872s)
+
+Or thoughts yeah I sorry I had to jump off for a second lucy for a medical phone call so if this has already been discussed just let me know but is this one of your dome pieces?
+
+## Lucy Boyd-Wilson [01:04:45](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3885s)
+
+No, it's not. I mean, my dome piece did have a tree and the leaves were flowing in a similar way. So I'm using some of the techniques, but this wasn't the actual piece. Well,
+
+## Karen LaFleur [01:05:06](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3906s)
+
+I've had the pleasure and Cynthia, I'm not sure if Lucy's work was running when you came up to the Katuit to see Lucy's work full scale, like large, six, eight feet across. And also in a dome festival where it's all 3D around. And it's just amazing because you're inside of her visuals as they're flowing past you.
+
+I just wanted when I'm watching it Lucy to take my monitor but I just paid for it so I can't I would love to just take it and sort of wrap it around.
+
+## Unattributed [01:05:44](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3944s)
+
+Thank you.
+
+## Karen LaFleur [01:05:45](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3945s)
+
+It's beautiful.
+
+## Cynthia DiDonato [01:05:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3946s)
+
+I remember well seeing it with you, Karen. It was remarkable. It's remarkable. Thank you.
+
+## Unattributed [01:05:53](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3953s)
+
+See it that large.
+
+## Lucy Boyd-Wilson [01:05:55](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3955s)
+
+Thanks. And yeah, it was kind of cool being able to have it projected on a dome so it's actually all around you. So yeah, exploring dome, dome creation, dome, that type of immersion was very fun and interesting. Exactly what I've been wanting to do. So dome is a pretty good medium for me. Yeah, thank you.
+
+## Unattributed [01:06:31](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3991s)
+
+Thanks, Lucy. I'm assuming we're still waiting on Tommy at this point. Mm-hmm. Does anybody else have a short? Presentation of their art that they might be able to do for a couple minutes? Susan?
+
+## Susan Detroy [01:06:56](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4016s)
+
+I would. In addition, this is like a very big month for me. In addition to being part of the MOCA Lights, my biking movie that I made during COVID that I redid for a bike festival that won a prize. I actually won it for an award in the won some money I re mastered it and submitted it to a local event called the mayor's art show that's kind of a prestigious event here once a year and it's going to be shown and I'd like to share it with you it's a minute it's going to be shown in outside I'm very excited on a building outside in this october the 13th I think it is so I'm going to share content and show that short film for you it's on it's on YouTube at this point and I'm going to make it big and start up here
+
+## Unattributed [01:08:21](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4101s)
+
+So all right
+
+## Susan Detroy [01:09:22](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4162s)
+
+Oops all right
+
+## Unattributed [01:09:33](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4173s)
+
+Thanks Susan congrats
+
+## Susan Detroy [01:09:41](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4181s)
+
+Oh you're welcome yeah I'm excited I there's limited opportunities locally for showing the work that I do and I'm always excited when local people are going to see my work and it'll also be on they'll have an online gallery also so I'm happy about that
+
+## Karen LaFleur [01:10:08](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4208s)
+
+Yeah Susan are you going to is there a link to that some of us our internet is off today so
+
+## Susan Detroy [01:10:17](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4217s)
+
+Yeah that would be great yeah I'll put a link to that thank you it's on YouTube
+
+## Unattributed [01:10:26](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4226s)
+
+Yeah okay Tommy are you ready ready to share your news today oops you there Tommy you're up if you're if you're ready to share hey so I'm so sorry I'm stuck in a subway and so I'm not sure if my connection is going to survive actual video use so I might turn off my video I see everybody's frozen right now doesn't look good your audio is coming through audio is perfect now Tommy I can't spoil you tonight can I come back in five minutes and then I'll be able to actually talk this is I've had such technology train trouble I'm sorry okay all right so I guess we got a few more minutes here in between any further discussions or does anybody have any short artwork presentation that you would like to make all righty then dead air here I can tell people about a new so can Renata share yeah screen that'd be awesome thank you and I'll come in like okay Renata okay so we've come up with an online initiative it's going to be a 3D world and all expressionist artists are invited to participate we have a Google form and it's going to be well Tommy will probably drop the link in the chat as he's the one who designed the space so the idea is that we're going to have a town square which is representative of an exchange of ideas a forum if you will or a place where artists can meet and discuss ideas and in addition to that each artist will have their own space coming out from the main square there'll be a corridor and you have a room and you can decorate it any way you like it's a powered by denazela hubs and we have a one-minute tutorial that we'll put up online so people can take a look and see how everything will work the main point of this for us is that we didn't want to useresponding times for us is that we didn't want to use Conce matrix are as we will this we will not be able to use this one for this other part of the working world we're going to do is we're going to have the or a traditional gallery-like setting for showing Expressionist art.
+
+## Unattributed [01:13:42](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4422s)
 
 We wanted to blast open the idea of the square white room with white walls and wooden floor. So the floor can be carpeted with mushrooms. You can put rocks in there. It's really, we want to sort of get it looking a bit messy, if you will. Tommy has already made a world like this for his own use, and it's set in Brooklyn, and you go up the stairs and there's graffiti on the wall, and you can take a look at that.
 
 Yes, the other thing about this show, if you will, is that we want you to talk about how Expressionism has made an impact on your art. So that's really what we want to find out in the Google form. We've asked you that question, and I'm... Sure we'll get a lot of different kinds of ideas from that. So those are the two components. The Google form first, which is like our intake. We have a curatorial team of four artists, and we will look over all the submissions. And by October 15th, we're going to close it off. And the show itself will open on December the 1st and run until December 31st. And December 1st is a Friday, and it's the day after our December Salon. So we would encourage you to come to the opening. You can bring an avatar and mingle. And because it's a 3D world, we can all meet in the town square and have some contact with each other that's a little more social in a different way than we do on these monthly salons.
 
-Cynthia? I think we're good. I think we're good. I think you're muted. So we don't need a device in order to enter this world? No. Okay, here's Tommy. I was thinking goggles. Oh, no, no. You can watch it on a browser. You can be in it on a browser. Okay, that's what I needed to know. It sounds like so much fun. Good.
+Cynthia? I think we're good. I think we're good. I think you're muted.
 
-Here's Tommy. On the streets. Frozen Tommy. Yeah, I'm wondering how this can be resolved by the end of the Salon, because he's the one that has the link. What I'll do is I'll make an Instagram post about it. Okay. That's what I'll do. Right. And I'll also make an Instagram story, and I'll put a live link in the story, and I'll keep it up for more than 24 hours. And that way you can all get the Google form and fill it out. And I'll liaise with Tommy at the end if he doesn't make it.
+## Cynthia DiDonato [01:15:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4536s)
 
-I think he's sprinting for his classroom or his office. If we're waiting, I have something I could show. While we're waiting? Yeah. Okay, Lee.
+So we don't need a device in order to enter this world?
 
-## Lee Schnaiberg [01:17:06](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4626s)
+## Unattributed [01:15:42](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4542s)
 
-It's not very much, and I didn't edit anything, but it's just stuff that when I was shooting this morning, like I shoot basically every day in the morning, I was thinking about leaves rather than what I normally shoot. And I have something open I'm going to share. Oh, here it is. Okay. So I'm going to share this. And it's just like a dozen or two. I go pretty fast. Of the shots that I took this morning thinking about the leaves.
+No. Okay, here's Tommy.
+
+## Cynthia DiDonato [01:15:49](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4549s)
+
+I was thinking goggles.
+
+## Unattributed [01:15:51](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4551s)
+
+Oh, no, no. You can watch it on a browser. You can be in it on a browser.
+
+## Cynthia DiDonato [01:15:56](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4556s)
+
+Okay, that's what I needed to know. It sounds like so much fun.
+
+## Unattributed [01:16:00](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4560s)
+
+Good. Here's Tommy. On the streets. Frozen Tommy. Yeah, I'm wondering how this can be resolved by the end of the Salon, because he's the one that has the link. What I'll do is I'll make an Instagram post about it.
+
+## Cynthia DiDonato [01:16:33](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4593s)
+
+Okay. That's what I'll do.
+
+## Unattributed [01:16:34](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4594s)
+
+Right. And I'll also make an Instagram story, and I'll put a live link in the story, and I'll keep it up for more than 24 hours. And that way you can all get the Google form and fill it out. And I'll liaise with Tommy at the end if he doesn't make it. I think he's sprinting for his classroom or his office.
+
+## Lee Schnaiberg [01:16:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4618s)
+
+If we're waiting, I have something I could show. While we're waiting? Yeah. Okay, Lee. It's not very much, and I didn't edit anything, but it's just stuff that when I was shooting this morning, like I shoot basically every day in the morning, I was thinking about leaves rather than what I normally shoot. And I have something open I'm going to share. Oh, here it is. Okay. So I'm going to share this. And it's just like a dozen or two. I go pretty fast. Of the shots that I took this morning thinking about the leaves.
 
 And so can you see this? Yes. Okay. So can you still see it now that I think I switched to the actual app so I can change it? Or maybe it'll work. Okay. So it does work. All right. So I wanted to focus mostly on the leaves, but I went to these areas that and I haven't like selected any pieces of it yet. But I do think there's probably some pretty nice images here, but I just want to scooch through them.
 
@@ -246,19 +576,39 @@ So like a piece like this might be two feet by four feet full resolution. So I'm
 
 I forget what the word's called right now. Probably blackout. But for some reason I feel like if I can print this on a surface of something that's like maybe two inches even. And I don't want to use foam core. But some kind of 3D image not a canvas but a 3D surface that could the black spots could just be missing. And it could be the gallery wall behind it. Because the actual photo doesn't exist where there's black. So I was kind of thinking that. And that's the last one that I shot. Started thinking about today's salon. So thank you so much. And I guess Tommy's still not there.
 
-I'm here. But I'm only on audio I realize. Every time I start turning on video, everything collapsed on me. Renata I think did a beautiful explanation. I was not able to hear everything. So I don't want to repeat what Renata said. But we've been having some conversations. But it's important that I think extend Colin's idea of Expressionism as social sculpture.
+I'm here.
+
+## Unattributed [01:20:42](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=4842s)
+
+But I'm only on audio I realize. Every time I start turning on video, everything collapsed on me. Renata I think did a beautiful explanation. I was not able to hear everything. So I don't want to repeat what Renata said. But we've been having some conversations. But it's important that I think extend Colin's idea of Expressionism as social sculpture.
 
 This idea of community that we sort of value and find so important within this group. How do we approach creating a space? You know, for, to emphasize that quality is I think what we were thinking as we came up with this idea of cyber, cyber, yeah, like, you know, and I think Renata has shown a draft of our Mozilla Hubs 3D space. And this is an open source 3D tool. I'm going to record a quick demonstration on how to use it and post that. And I'd like to solicit some feedback on that. And then maybe have people have a template that you could use. And I was looking at this sort of idea of like, what can you do in digital space? Like Lee's picture there of, you know, how do you have a photo that has that edge, you know? Yeah, digital space, right? It has a, it's a place to show it and share it and walk around it with people.
 
 It's an interesting, playful space. It's low resolution in a way that I think veers away from the uncanny valley of weirdness that can happen in VR spaces. And it's, we're intending for it to be playful. Renata suggested using an icon of a mushroom as our mascot. And that I think is, you know, a playful and otherworldly, you know, metaphor or something. So we're hoping to solicit interest in participants in Siberiana. And we have a Google form thing. We can share it with people. Sure. Did that when I was popped off here? Not sure if I'm still on.
 
-You're there. I see Cynthia's mic is not muted. Cynthia, can you hear me? Yes, we can hear you. Oh, good. Okay. So I'm going to go ahead and start. Okay. So Renata, can you tell me how much I should continue? I'm sorry, I missed when you were demonstrating and sharing screens. Well, I think we got the gist of it across between the two of us talking. But I didn't share my screen to show the Mozilla Hubs mockup that you made. But Colin has offered to point out. That's fine. Colin's offered to put out information.
+You're there. I see Cynthia's mic is not muted. Cynthia, can you hear me? Yes, we can hear you. Oh, good. Okay. So I'm going to go ahead and start. Okay. So Renata, can you tell me how much I should continue? I'm sorry, I missed when you were demonstrating and sharing screens. Well, I think we got the gist of it across between the two of us talking.
 
-I just put a Techspressionism story on Instagram with some of the relevant info. And I will put links. As soon as I liaise with Tommy, we'll send Colin everything and he'll put it out on the mailing list. So you'll all get everything you need. And this Siberiana. Sorry, go ahead. I just. I'm sorry. I'm curious if you could just give us just a very brief overview of what type of media would be welcome.
+## Unattributed [01:23:43](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5023s)
 
-Like I assume, of course, images, but audio or 3D models. All of the above. Yeah, that's the great thing about this space is very flexible. You could have videos playing with or without audio. Audio is actually kind of proximate within the space. So as you approach. A video, the audio comes on to your speakers in a kind of nice way.
+But I didn't share my screen to show the Mozilla Hubs mockup that you made. But Colin has offered to point out. That's fine. Colin's offered to put out information. I just put a Techspressionism story on Instagram with some of the relevant info. And I will put links. As soon as I liaise with Tommy, we'll send Colin everything and he'll put it out on the mailing list. So you'll all get everything you need.
 
-And the same thing happens when you're talking with your microphone in the space. People whose avatars are standing close to you hear you louder. So it's an interesting. Thing to be working with audio within this space, if that's something that you're interested in. So we're not in October 15th as a date. Is that the day to apply or is that the date that people need to have finished work completed by.
+And this Siberiana. Sorry, go ahead.
+
+## Lucy Boyd-Wilson [01:24:20](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5060s)
+
+I just. I'm sorry. I'm curious if you could just give us just a very brief overview of what type of media would be welcome. Like I assume, of course, images, but audio or 3D models.
+
+## Unattributed [01:24:36](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5076s)
+
+All of the above. Yeah, that's the great thing about this space is very flexible. You could have videos playing with or without audio. Audio is actually kind of proximate within the space. So as you approach. A video, the audio comes on to your speakers in a kind of nice way. And the same thing happens when you're talking with your microphone in the space. People whose avatars are standing close to you hear you louder. So it's an interesting.
+
+Thing to be working with audio within this space, if that's something that you're interested in.
+
+## Colin Goldberg [01:25:12](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5112s)
+
+So we're not in October 15th as a date. Is that the day to apply or is that the date that people need to have finished work completed by.
+
+## Unattributed [01:25:23](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5123s)
 
 Let's make that the date to apply. It's just interest is we're trying to gauge how big this is going to be, how many doors and spaces we're going to. Put in there for the first iteration, I do think of this also something that's totally able to be iterated. People can make another node. This is all open source and really just templates. You use the template and you call it Siberiana, too, or whatever. And then you're going to have to make a new one. In the future is the idea since.
 
@@ -266,8 +616,60 @@ Open ended if possible. So but that said, I am planning on using the digital Sib
 
 Would allow people to interact in a group with the space together. So I'm not sure if that makes sense. I'm going to turn off my mic because I feel like I have wind noise and I'm not hearing anybody else, but I'm hearing myself a lot. But really, I. I do want to say this was what I heard was fantastic and I really liked all of the demonstrations that went on today. It was really, really great. I'd love to see more.
 
-I also wanted to ask, is it possible to apply with generative art like HTML or something? I think we may have lost Tommy. Anton, I don't have the answer to write this second, but I can DM you with an answer. How's that? OK. Yeah. Thanks. Sure. I can't wait to see his more of the generative art. They're so cool. Take like Orby Glow. That'd be cool if you can. If he can. Thanks. Yeah.
+I also wanted to ask, is it possible to apply with generative art like HTML or something?
 
-Well, I think if Tommy can hear us, that's wonderful what he and Renata have discussed regarding this space. I'm very excited about it. So I'm looking forward to it happening. So can we have some context about this? That's just an announcement. We thought 50 artists was the cap for the first iteration.
+## Cynthia DiDonato [01:27:21](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5241s)
 
-And December 1st is the opening. So that's what the graphic was there. Okay. So this is for the Mozilla Hub space. Yes. Yes. Because I know Tommy was mentioning the other experience, the other 2024. So I get it. You december 1st is the opening of siberiana the mozilla the virtual world thank you and october 15th would be your cutoff date to fill out to fill out the google form october 15th would be your cutoff date or your deadline and then there'd be a later deadline for providing the finished work precisely yes right as I don't know exactly how the platform works but many of the platforms are a little bit limited and I was thinking about anton's question about generative platforming and I was thinking about anton's question about generative work and it may be that in order to do that type of work to create a video for any of us who are doing what an animation or generative work or whatever at least we can know that playing a video in that space will work if you can't actually run the html in the platform which may or may not be possible so just putting it out guys I'm just going to jump in here we are a little bit past time so usually you know we'll do an hour and a half of the recording and then whoever wants to stay and hang out we usually do an after party after the recording stops which is basically just hangout time something in lieu of an advisory board since we're not an organization we're just a bunch of artists I like to hang out and have an after party and then we'll do an after party but that could also be you know a time to do just kind of talk about group initiatives or share ideas certainly the conversation about this show you know can be continued after the recording but I do want to just kind of limit it to the general time frame but I really appreciate all the great discourse through this last salon it's been very interesting and thank you michael for moderating and renata for also you know helping to move the conversation forward and tommy is really great great to see him on the subway you know it's a real a real artist group and someone's webcasting or whatever we're doing from the subway so all right so I'm gonna stop recording in a couple seconds but all those that want to stay are welcome to stay and hang out so we will stop recording in three two one and good night
+I think we may have lost Tommy.
+
+## Unattributed [01:27:24](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5244s)
+
+Anton, I don't have the answer to write this second, but I can DM you with an answer. How's that? OK. Yeah. Thanks. Sure.
+
+## Lee Schnaiberg [01:27:35](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5255s)
+
+I can't wait to see his more of the generative art. They're so cool. Take like Orby Glow. That'd be cool if you can. If he can.
+
+## Unattributed [01:27:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5266s)
+
+Thanks. Yeah.
+
+## Cynthia DiDonato [01:27:53](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5273s)
+
+Well, I think if Tommy can hear us, that's wonderful what he and Renata have discussed regarding this space. I'm very excited about it. So I'm looking forward to it happening. So can we have some context about this?
+
+## Unattributed [01:28:28](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5308s)
+
+That's just an announcement. We thought 50 artists was the cap for the first iteration. And December 1st is the opening. So that's what the graphic was there.
+
+## Cynthia DiDonato [01:28:42](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5322s)
+
+Okay. So this is for the Mozilla Hub space.
+
+## Unattributed [01:28:50](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5330s)
+
+Yes. Yes.
+
+## Cynthia DiDonato [01:28:52](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5332s)
+
+Because I know Tommy was mentioning the other experience, the other 2024. So I get it.
+
+## Unattributed [01:28:58](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5338s)
+
+You december 1st is the opening of siberiana the mozilla the virtual world thank you and october 15th would be your cutoff date to fill out to fill out the google form october 15th would be your cutoff date or your deadline
+
+## Lucy Boyd-Wilson [01:29:20](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5360s)
+
+And then there'd be a later deadline for providing the finished work precisely
+
+## Unattributed [01:29:27](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5367s)
+
+Yes right
+
+## Lucy Boyd-Wilson [01:29:29](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5369s)
+
+As I don't know exactly how the platform works but many of the platforms are a little bit limited and I was thinking about anton's question about generative platforming and I was thinking about anton's question about generative work and it may be that in order to do that type of work to create a video for any of us who are doing what an animation or generative work or whatever at least we can know that playing a video in that space will work if you can't actually run the html in the platform which may or may not be possible so just putting it out
+
+## Colin Goldberg [01:30:12](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=5412s)
+
+Guys I'm just going to jump in here we are a little bit past time so usually you know we'll do an hour and a half of the recording and then whoever wants to stay and hang out we usually do an after party after the recording stops which is basically just hangout time something in lieu of an advisory board since we're not an organization we're just a bunch of artists I like to hang out and have an after party and then we'll do an after party but that could also be you know a time to do just kind of talk about group initiatives or share ideas certainly the conversation about this show you know can be continued after the recording but I do want to just kind of limit it to the general time frame but I really appreciate all the great discourse through this last salon it's been very interesting and thank you michael for moderating and renata for also you know helping to move the conversation forward and tommy is really great great to see him on the subway you know it's a real a real artist group and someone's webcasting or whatever we're doing from the subway so all right so I'm gonna stop recording in a couple seconds but all those that want to stay are welcome to stay and hang out so we will stop recording in three two one and good night

@@ -25,29 +25,95 @@ And one. Hello, hello, hello, and welcome everyone to our 19th virtual Techspres
 
 And yeah, and then whatever else may come. We're kind of very loose after the presentation sometimes, so that whole time period or time span is negotiable, like with its use. But yeah, so I'm Davonte Bradley, otherwise known as Davo. I'll be the moderator for this salon and probably the next ones. And the next one is... And the next ones. And we also have Colin Goldberg, who is the founder of the movement and coiner of the term.
 
-Who's also kind of quiet at the moment because he's muted. Hi, guys. I'll leave it at coiner of the term. Coiner of the term. Too formal for you? I could wear the hat, but... But you also don't wear hats. Or do you wear hats? I do sometimes. Not today, though. Showing my age. You should bring out one of your hats one day.
+Who's also kind of quiet at the moment because he's muted. Hi, guys.
 
-All right. You want to just also let people know how they should ask questions, like if they should use the chat window or whatnot. Yes. So as far as the Q&A session goes, I ask you to refrain from commenting during the duration of the presentation. So please keep yourselves muted during the presentations. If you have any questions that pop up, please do share them in the chat. If you're familiar with using the chat window, please share it there. And then I'll record it or make a note of it, and we'll get back to it after the presentation is done.
+## Colin Goldberg [01:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=101s)
+
+I'll leave it at coiner of the term.
+
+## Unattributed [01:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=103s)
+
+Coiner of the term. Too formal for you?
+
+## Colin Goldberg [01:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=105s)
+
+I could wear the hat, but...
+
+## Unattributed [01:47](https://www.youtube.com/watch?v=mA3da8lu0iU&t=107s)
+
+But you also don't wear hats. Or do you wear hats? I do sometimes. Not today, though.
+
+## Colin Goldberg [01:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=112s)
+
+Showing my age.
+
+## Davonte Bradley [01:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=114s)
+
+You should bring out one of your hats one day.
+
+## Colin Goldberg [02:00](https://www.youtube.com/watch?v=mA3da8lu0iU&t=120s)
+
+All right. You want to just also let people know how they should ask questions, like if they should use the chat window or whatnot.
+
+## Davonte Bradley [02:09](https://www.youtube.com/watch?v=mA3da8lu0iU&t=129s)
+
+Yes. So as far as the Q&A session goes, I ask you to refrain from commenting during the duration of the presentation. So please keep yourselves muted during the presentations. If you have any questions that pop up, please do share them in the chat. If you're familiar with using the chat window, please share it there. And then I'll record it or make a note of it, and we'll get back to it after the presentation is done.
 
 If you would like to actually speak or voice your question, please do raise your hand first before just unmuting yourself because you might end up cutting somebody off or, you know, might be in the middle of something else going on. So it's just a little bit nicer to... You know, let me know that you want to speak.
 
-Yeah. And I think that pretty much covers it. Yes. I say so. All right. I think we can go ahead and dive right into our first presentation.
+Yeah. And I think that pretty much covers it. Yes. I say so. All right. I think we can go ahead and dive right into our first presentation. Gregory Little, would you like to take the floor?
 
-## Gregory Little [03:10](https://www.youtube.com/watch?v=mA3da8lu0iU&t=190s)
+## Gregory Little [03:14](https://www.youtube.com/watch?v=mA3da8lu0iU&t=194s)
 
-Gregory Little, would you like to take the floor? Yes, I will take the screen, I guess it is. Yes. Yeah. So. It is very hot here as well. And my air conditioner and my studio died last week and has not been replaced. So if I go face down on the keyboard at any point, you know, just call 911 should be fine. OK, so I'll do a share screen and see if I can screw this up. Let's see. Yeah.!
+Yes, I will take the screen, I guess it is. Yes. Yeah. So. It is very hot here as well. And my air conditioner and my studio died last week and has not been replaced. So if I go face down on the keyboard at any point, you know, just call 911 should be fine. OK, so I'll do a share screen and see if I can screw this up. Let's see. Yeah.!
 
-OK. This is not... Wait a second. This is not going the way I want it to. All right. I have two monitors. I'm trying to get this to play in only one of them. Will that work? Are you trying to share the other monitor and not the one that you're using? You're trying to share the other monitor and not your main monitor? Yeah. So when you go to... When you click share screen, it should give you the option of what monitor or what window that you want to share. Oh, got it. Got you. Yeah. I would select the other monitor and it should be good to go. There you go. OK. Now when I full screen this, let's see what happens. I'm afraid it's going to wipe out my other monitor.
+## Unattributed [03:53](https://www.youtube.com/watch?v=mA3da8lu0iU&t=233s)
 
-Ah. OK. We're floating on top. That'll work. OK. I cannot see the chat, though. Let's see. Oh, I wouldn't worry about the chat. We'll worry about that later. OK. Yeah. OK. We won't worry about that. OK. So sorry about the delay. Yeah. So I'm Gregory Little. I am a multimedia, new media, I never quite know what to call myself, artist. My background is in painting.
+OK.
 
-I began working with digital media in 1986. These two images are from the mid to the mid-'80s. So I'm just kind of going to show you just a couple things to give you a sense of where I'm coming from. And also I wanted to say I noticed that Cynthia Beth Rubin is here. In 1986 or something, Cynthia, correct me if I'm wrong. Cynthia started a computer art program at Connecticut College. And I remember seeing Cynthia at an opening, which I often did, and her telling me all about this computer that she had and about computer for art and all that sort of stuff. And I remember my response was like, go away, you're evil, like this, right? And then because I was a painter who fashioned himself after de Kooning and Pollock and that kind of stuff. And this did not make any sense to me.
+## Gregory Little [04:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=241s)
 
-Cynthia locked me up in a room in the library at Connecticut College in front of an old 386 computer with a DOS display. And I emerged about two hours later having lost everything I had made. And I was transformed. So it's your fault. So thank you for that. Happy to help. Happy to be of service. Thank you. So at any rate, I considered myself an expressionist artist and expressionist painter. I was very much into materials and techniques.
+This is not... Wait a second. This is not going the way I want it to. All right. I have two monitors. I'm trying to get this to play in only one of them. Will that work?
 
-These two images were important to me at the time when I chose them for this presentation because they represented abstraction to some degree, but abstraction taking on a political or current meaning in a sense. These two pictures were going on the right as a detail. But these two pictures were made after the Chernobyl disaster in 1986, and I felt the need to respond to them, to that disaster in my work. The one on the left was called the call, and to me it just simply represented nature, nature sort of SOS dialing 911, you know, after this, after this horrible disaster. The one on the right was based on a diagram of a nuclear reactor core, sort of an aestheticized nuclear reactor core. It's all done in, that's, that's watercolor, and the one on the left is oil and canvas. So that notion of abstraction becoming relevant in terms of current politics was interesting to me and always has been, especially in jazz music or music in general.
+## Davonte Bradley [04:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=258s)
 
-If you think of John Coltrane's Alabama, it's a very moving, very dramatic, very dramatic song that has very deep meaning. So that is kind of just trying to set a little background here. Okay. These were, this image was done in the early 90s, and this is me starting to think about video. So we have a video monitor sitting on the floor facing an encaustic painting that is also sitting on the floor. The painting is of a, well, anyway, the background of this, my father was a Korean war veteran. He was a medic and he was forever changed by the horrors of being a frontline medic. And this, these two images came from a book that he was given after the war. I don't know, it was some kind of weird document about the war, but it was a very thick hardcover book that I used to peruse through trying to get some sense of what he'd been through because he couldn't talk about it.
+Are you trying to share the other monitor and not the one that you're using?
+
+## Unattributed [04:22](https://www.youtube.com/watch?v=mA3da8lu0iU&t=262s)
+
+You're trying to share the other monitor and not your main monitor?
+
+## Davonte Bradley [04:23](https://www.youtube.com/watch?v=mA3da8lu0iU&t=263s)
+
+Yeah. So when you go to... When you click share screen, it should give you the option of what monitor or what window that you want to share. Oh, got it. Got you. Yeah. I would select the other monitor and it should be good to go. There you go.
+
+## Gregory Little [04:40](https://www.youtube.com/watch?v=mA3da8lu0iU&t=280s)
+
+OK. Now when I full screen this, let's see what happens. I'm afraid it's going to wipe out my other monitor. Ah. OK. We're floating on top. That'll work. OK. I cannot see the chat, though. Let's see.
+
+## Davonte Bradley [05:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=301s)
+
+Oh, I wouldn't worry about the chat. We'll worry about that later. OK. Yeah.
+
+## Gregory Little [05:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=306s)
+
+OK. We won't worry about that. OK. So sorry about the delay. Yeah. So I'm Gregory Little. I am a multimedia, new media, I never quite know what to call myself, artist. My background is in painting. I began working with digital media in 1986. These two images are from the mid to the mid-'80s. So I'm just kind of going to show you just a couple things to give you a sense of where I'm coming from.
+
+And also I wanted to say I noticed that Cynthia Beth Rubin is here. In 1986 or something, Cynthia, correct me if I'm wrong. Cynthia started a computer art program at Connecticut College. And I remember seeing Cynthia at an opening, which I often did, and her telling me all about this computer that she had and about computer for art and all that sort of stuff. And I remember my response was like, go away, you're evil, like this, right? And then because I was a painter who fashioned himself after de Kooning and Pollock and that kind of stuff. And this did not make any sense to me.
+
+Cynthia locked me up in a room in the library at Connecticut College in front of an old 386 computer with a DOS display. And I emerged about two hours later having lost everything I had made. And I was transformed. So it's your fault. So thank you for that.
+
+## Cynthia Beth Rubin [06:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=405s)
+
+Happy to help. Happy to
+
+## Gregory Little [06:48](https://www.youtube.com/watch?v=mA3da8lu0iU&t=408s)
+
+Be of service. Thank you. So at any rate, I considered myself an expressionist artist and expressionist painter. I was very much into materials and techniques. These two images were important to me at the time when I chose them for this presentation because they represented abstraction to some degree, but abstraction taking on a political or current meaning in a sense. These two pictures were going on the right as a detail. But these two pictures were made after the Chernobyl disaster in 1986, and I felt the need to respond to them, to that disaster in my work. The one on the left was called the call, and to me it just simply represented nature, nature sort of SOS dialing 911, you know, after this, after this horrible disaster. The one on the right was based on a diagram of a nuclear reactor core, sort of an aestheticized nuclear reactor core.
+
+It's all done in, that's, that's watercolor, and the one on the left is oil and canvas. So that notion of abstraction becoming relevant in terms of current politics was interesting to me and always has been, especially in jazz music or music in general. If you think of John Coltrane's Alabama, it's a very moving, very dramatic, very dramatic song that has very deep meaning. So that is kind of just trying to set a little background here.
+
+Okay. These were, this image was done in the early 90s, and this is me starting to think about video. So we have a video monitor sitting on the floor facing an encaustic painting that is also sitting on the floor. The painting is of a, well, anyway, the background of this, my father was a Korean war veteran. He was a medic and he was forever changed by the horrors of being a frontline medic. And this, these two images came from a book that he was given after the war. I don't know, it was some kind of weird document about the war, but it was a very thick hardcover book that I used to peruse through trying to get some sense of what he'd been through because he couldn't talk about it.
 
 So, but this is a foray into video. Then I kind of took a plunge and stopped painting altogether and decided that the computer was sort of too beige and clean and white male dominated. And as an artist working late nights after hours in computer labs, which were difficult to get access to at the time, I made these images in kind of protest. And they are in a sense visualizations of a virtual world that I would not want to inhabit really, but there they are. These are from 1991-ish, I'd say.
 
@@ -77,27 +143,63 @@ These could be shown as photographs. Of course, one of the problems with doing t
 
 So, the color and choice of images that were overlaid to build your two-dimensional avatar were here. Okay. Okay. So, this is a little bit of a And then we entered the world. All of these, all of those streaks that you see, or those ribbons that you see, not the wire frame, but the ribbons are paths that were left behind by other people who had come into the world. So, I developed some code that allowed the avatar to be tracked as it traveled through the world and kind of leave a path of cookie crumbs or whatever behind it. And then those would stay in the world and gradually fade away over time.
 
-A lot of the content for this particular area came from my travels to Teesside and getting to know the people there. I'll stop that. Okay. Okay. Okay. Oops. There we go. So I tried to start backing away from the VR stuff a little bit again, because it was so difficult and impractical and it had been six to eight years working on the same project. This project was a projection based piece that was shown at a gallery in Adrian, Michigan at Adrian College. And the projection is of that scan of myself in the center, which is animated. And it's projected or it's keyed into a live map of seismic data on the earth. So all those circles that you see, you can see there's, oops, there's Australia down there. All these, there's the United States, South America, and all these circles that you see are live earthquakes.
+A lot of the content for this particular area came from my travels to Teesside and getting to know the people there. I'll stop that.
 
-So this would be updated by a satellite every 25, 30 seconds. Real time and satellite time. One frame per 20 seconds. And the installation was set up, well, here's the image of myself and some satellite data. So mapping the earth to a male figure, which interested me kind of. And this was the installation was pretty complicated, but the gallery space was supposed to be haunted by a Confederate soldier, which interested me.
+## Unattributed [20:58](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1258s)
+
+Okay. Okay. Okay.
+
+## Gregory Little [21:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1263s)
+
+Oops. There we go. So I tried to start backing away from the VR stuff a little bit again, because it was so difficult and impractical and it had been six to eight years working on the same project. This project was a projection based piece that was shown at a gallery in Adrian, Michigan at Adrian College. And the projection is of that scan of myself in the center, which is animated. And it's projected or it's keyed into a live map of seismic data on the earth. So all those circles that you see, you can see there's, oops, there's Australia down there. All these, there's the United States, South America, and all these circles that you see are live earthquakes. So this would be updated by a satellite every 25, 30 seconds.
+
+Real time and satellite time. One frame per 20 seconds. And the installation was set up, well, here's the image of myself and some satellite data. So mapping the earth to a male figure, which interested me kind of. And this was the installation was pretty complicated, but the gallery space was supposed to be haunted by a Confederate soldier, which interested me.
 
 So what I did basically is starting up here, I set up a theremin hanging from the ceiling upside down. And as people approached and approached the antenna of this, of the theremin, the sound file or the sound itself was sent to a program called, it was called Big Eye, I think at the time. And it would take the sound and. And then it would send it to the satellite.
 
 And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket.
 
-And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. Sitting in a chair was a skin galvanization monitor, which is what this is. And so if you sat down in the chair and put this around your hand, it would measure the moisture in your palm and would create data. And that data controlled the frame rate of the animation of the animated body.
+And it would take the sound and the sound is trinket.
+
+## Unattributed [23:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1398s)
+
+And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket.
+
+## Gregory Little [23:22](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1402s)
+
+And it would take the sound and the sound is trinket. And it would take the sound and the sound is trinket. Sitting in a chair was a skin galvanization monitor, which is what this is. And so if you sat down in the chair and put this around your hand, it would measure the moisture in your palm and would create data. And that data controlled the frame rate of the animation of the animated body.
 
 And then I did some ghosting research because it was just interesting. And I found that sometimes ghosts will respond to human voices and provocations. And so I recorded some sounds addressing this Confederate soldier, asking semi-personal questions to the soldier. And nothing came of that I'm aware of. But it formed to me an interesting loop because part of my goal was to create interactive systems that interacted in different ways than kind of point click. I wanted to use different kinds of data to control things and I wanted them to be mapped in ways that were not obvious. So I was playing with this piece in that way. So if we go back just a second, the projection was projected on a bed of salt, which was really gorgeous. I mean, I had lots and lots, pounds and pounds of salt getting finer as it reached the top and it really sparkled.
 
-It was nice. So this idea of the idea of data became really interesting to me. How much more time do I have left? By the way? We are you're like 26 ish minutes in as I started like 205 around there. So I mean, give or give or take 10 ish minutes. Okay, I'll speed up. The problem is I'm old. I have a lot of work.
+It was nice. So this idea of the idea of data became really interesting to me. How much more time do I have left? By the way?
 
-This, I became I became an artist. I was still interested in the data, the data processing in this, these pieces, I began a new project where I was using protein data bank files. These are these are files of DNA coordinates of protein coordinates. And so I would use these files to visualize these images using a plugin from Maya and then porting it to a game engine.
+## Davonte Bradley [25:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1506s)
 
-And this the remapping idea became even stronger for me, I started thinking of really illogical. Things I realized that all I had to do was feed numbers to this Maya plugin and it would build things that looked like ball and stick DNA sequences. And so I found some data showing the longitudinal latitudinal and elevation coordinates of all the Starbucks in Manhattan at the time. And so I used that data to build what looked like a DNA model. And so this kind of remapping was part of what your was happening in this piece this is just one example this was again using this game engine was exhibited as real-time animations at a pretty large scale so here's a couple instances of the installations and here's a very quick video shot with a with a shot with a phone I came back to this project just recently like two years ago so I took a 10-year break from it and I came back to it and reworked it so this is kind of v2 version that's the blitz 3d that's it had to be still done in blitz yeah because okay so I had to run it on a I was running it on a mac that was running windows xp oh my what I had and so I recoded much of it and yeah because that's what I did my thesis in is blitz who's talking patrick oh patrick there you are hey patrick yeah so that's done in blitz yes so that's my work I still you know it's like how do you archive these pieces the only way to archive these pieces is to run them on the machines that they were built on in a way so the pieces is the computer as well as the software you know so anyway let me keep running here the next piece I did was a piece called bird of ohio it was for the ingenuity festival in cleveland and here I had bird counts from lorraine county which is where I live I had a bird count from 1908 and then I obtained a bird count from cornell from for 2008 and then I compared what's known as species richness in other words how many how many different species were there how many examples of each species and so I built all these birds threw them into the blitz engine recoded it with some help from friends and put this installation together so here's some shots really low res shots of the installation in cleveland and then I had some sort of vignettes off to the side that just showed the raw data with a kind of a bird flocking animation playing in the background so northern bob white population declined 82 percent since 1967.
+We are you're like 26 ish minutes in as I started like 205 around there. So I mean, give or give or take 10 ish minutes.
 
-Oh boy there's so much to talk about here soon after that I became because of my interest in remapping and stuff I started working on this sky that I discovered that we discovered patrick and I worked on this a little bit together louis fine who was a computer scientist you got to know your history I was really fascinated by the development of computation and what were their agendas and I guess a favorite line here is that these scientists made many suggestions in an effort to facilitate the redirection of u.s post-war agendas and scientific research but notably was the charge that research and computational systems shift from replacement of human workers with computers to building machines to augment individual intellect so you can see that they had a very different idea of what the computer should be than I think it has become so I did these series of prints that I considered synodic systems which I haven't really discussed but I don't feel like I have time we could talk about that later or you could there's stuff online you could look at so these are digital prints they're about 60 inches high and the idea was kind of a visualization of everything a slice of everything at any given instance that was kind of the idea so these are about 40 two by I don't know I can't remember 60 something 70 something this one is eight feet wide by 44 high and again these are prints this is a rear projection kind of a pop-up thing I made I decided to animate these so this is a pop-up animation done on a storefront in lorraine ohio and I then embarked on a project related to this with a composer friend of mine jeffrey mumford and we I can play this while I'm talking we I chose one of his pieces called in soft echoes he's an amazing composer a composer so I picked one of his pieces to animate it had 15 movements so I like the idea of working with these short pieces but the total piece was over 13 14 minutes so that's a kind of an image of the wall in my studio the kind of ideation wall in my studio and then these are a few still frames from the animation so I tried to make each movement very different and here is a quick oops what did I just do here here's a very quick video of that presupích So that gives you an idea of that.
+## Gregory Little [25:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1518s)
 
-That piece has been exhibited and performed live in a lot of different formats. The most recent one was using the animation itself as a sort of visual score for jazz improvisation. So this was done at the Oberlin Conservatory of Music. The guest artist is the pianist Jeffrey Mumford, who was the composer. So it's come full circle.
+Okay, I'll speed up. The problem is I'm old. I have a lot of work. This, I became I became an artist. I was still interested in the data, the data processing in this, these pieces, I began a new project where I was using protein data bank files. These are these are files of DNA coordinates of protein coordinates. And so I would use these files to visualize these images using a plugin from Maya and then porting it to a game engine.
+
+And this the remapping idea became even stronger for me, I started thinking of really illogical. Things I realized that all I had to do was feed numbers to this Maya plugin and it would build things that looked like ball and stick DNA sequences. And so I found some data showing the longitudinal latitudinal and elevation coordinates of all the Starbucks in Manhattan at the time. And so I used that data to build what looked like a DNA model. And so this kind of remapping was part of what your was happening in this piece this is just one example this was again using this game engine was exhibited as real-time animations at a pretty large scale so here's a couple instances of the installations and here's a very quick video shot with a with a shot with a phone I came back to this project just recently like two years ago so I took a 10-year break from it and I came back to it and reworked it so this is kind of v2 version that's the blitz 3d that's it had to be still done in blitz yeah because okay so I had to run it on a I was running it on a mac that was running windows xp oh my what I had and so I recoded much of it and yeah because that's what I did my thesis in is blitz who's talking patrick
+
+## Unattributed [27:25](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1645s)
+
+Oh patrick there you are hey patrick yeah
+
+## Gregory Little [27:29](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1649s)
+
+So that's done in blitz yes so that's my work I still you know it's like how do you archive these pieces the only way to archive these pieces is to run them on the machines that they were built on in a way so the pieces is the computer as well as the software you know so anyway let me keep running here the next piece I did was a piece called bird of ohio it was for the ingenuity festival in cleveland and here I had bird counts from lorraine county which is where I live I had a bird count from 1908 and then I obtained a bird count from cornell from for 2008 and then I compared what's known as species richness in other words how many how many different species were there how many examples of each species and so I built all these birds threw them into the blitz engine recoded it with some help from friends and put this installation together so here's some shots really low res shots of the installation in cleveland and then I had some sort of vignettes off to the side that just showed the raw data with a kind of a bird flocking animation playing in the background so northern bob white population declined 82 percent since 1967.
+
+Oh boy there's so much to talk about here soon after that I became because of my interest in remapping and stuff I started working on this sky that I discovered that we discovered patrick and I worked on this a little bit together louis fine who was a computer scientist you got to know your history I was really fascinated by the development of computation and what were their agendas and I guess a favorite line here is that these scientists made many suggestions in an effort to facilitate the redirection of u.s post-war agendas and scientific research but notably was the charge that research and computational systems shift from replacement of human workers with computers to building machines to augment individual intellect so you can see that they had a very different idea of what the computer should be than I think it has become so I did these series of prints that I considered synodic systems which I haven't really discussed but I don't feel like I have time we could talk about that later or you could there's stuff online you could look at so these are digital prints they're about 60 inches high and the idea was kind of a visualization of everything a slice of everything at any given instance that was kind of the idea so these are about 40 two by I don't know I can't remember 60 something 70 something this one is eight feet wide by 44 high and again these are prints this is a rear projection kind of a pop-up thing I made I decided to animate these so this is a pop-up animation done on a storefront in lorraine ohio and I then embarked on a project related to this with a composer friend of mine jeffrey mumford and we I can play this while I'm talking we I chose one of his pieces called in soft echoes he's an amazing composer a composer so I picked one of his pieces to animate it had 15 movements so I like the idea of working with these short pieces but the total piece was over 13 14 minutes so that's a kind of an image of the wall in my studio the kind of ideation
+
+## Unattributed [31:29](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1889s)
+
+Wall in my studio
+
+## Gregory Little [31:31](https://www.youtube.com/watch?v=mA3da8lu0iU&t=1891s)
+
+And then these are a few still frames from the animation so I tried to make each movement very different and here is a quick oops what did I just do here here's a very quick video of that presupích So that gives you an idea of that. That piece has been exhibited and performed live in a lot of different formats. The most recent one was using the animation itself as a sort of visual score for jazz improvisation. So this was done at the Oberlin Conservatory of Music. The guest artist is the pianist Jeffrey Mumford, who was the composer. So it's come full circle.
 
 And this is getting into the last group of work, so I'm almost done here. I over the years have built all these small pieces. I don't quite call them sketches, but more assets. And so here's just examples of some of them. So I have this gigantic database of all these weird little... Little things. Little images and pieces and parts. And so what I've started doing most recently is constructing all of these into images.
 
@@ -105,43 +207,221 @@ So these are paintings that involve laser etching, hand-ground pigments, collage
 
 So these are recent pieces and some are still in process, like the copper one I'm not done with. And I won't get into too much about what this is about. But this is a... What I've just started doing is using some augmented reality software to bring these assets into the yard, into other spaces. And so that's where this is going. And then eventually it will become, I think, probably another new virtual world.
 
-So I believe that's all I've got. So sorry for going on a little longer. I thought it was a 45-minute talk. So I screwed up. But anyway, I'm done here. I'm done there. You're fine. Yeah, no worries. No worries. You did well. Thank you. Thank you for your time. And thank you for your presentation, Greg. Thank you. And we should all give you... Well, Roz is already on giving you an applause.
+So I believe that's all I've got. So sorry for going on a little longer. I thought it was a 45-minute talk. So I screwed up. But anyway, I'm done here. I'm done there. You're fine.
 
-Thank you very much for your presentation. It was wonderful. Thank you. Thank you so much, you guys. It's great to have some people to talk to. It always amazes me that audiences are willing to sit and listen to artists. Well, it also helps with their other artists who are interested, too. Yeah. That's true. It's true. Yeah. Know your audience, right? So how do I get out of... Here we go. Okay. So... Hey, Greg. Pause share? Yeah. Yes, Patrick. Okay. Let's get that taken. But you know what? So the thing is, is that... I mean, I'm sorry I got in a little bit late. I was biking.
+## Davonte Bradley [34:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2094s)
 
-Biking? Yeah. Yeah. I'm living on an eight-mile circumference lake right now. So I did that. I just... It took me a little while to get off a second lap. But anyways, what happens is that... Good for you. Being that... Being that... You know, we actually met in 1996 when you were at Bowling... I mean, at Kent State University, now in my hometown. And so anyway, we started this conversation. So I know all this work pretty darn well. So the one thing that I think is really fascinating here, and without going like... Yeah. Without saying, I know this, I know this, I know this, I want to get into something that I think is really interesting, but I've never asked. So what happens is that... So say, for example, in the earlier days, you were dealing with things like physical computing and printmaking and that sort of thing.
+Yeah, no worries. No worries. You did well. Thank you. Thank you for your time. And thank you for your presentation, Greg. Thank you. And we should all give you... Well, Roz is already on giving you an applause. Thank you very much for your presentation. It was wonderful.
 
-Then we all shifted into this Blitz 3D stuff in the mid-2000s and that sort of thing. And you kept on going with it. And I kind of drifted out of it in the late 2000s. And now you're working on some of these other things. What do you think that... How do you think that the shift from technological regime to technological regime has helped shape and influence your work?
+## Gregory Little [35:09](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2109s)
 
-The shift away from the technology? No, no, no. From regime to regime. From regime to regime. Yeah. Because remember, the piece, the body without organs piece, we did it at University of Connecticut was very different from the later one. And then you shifted to this fantastic thing with the data body, which was amazing. But the thing is, is that I see a shaping at times of the work by the technological regime that the work is constructed under. Right. And there's an internal logic to it. Right.
+Thank you. Thank you so much, you guys. It's great to have some people to talk to. It always amazes me that audiences are willing to sit and listen to artists.
 
-There is an internal logic to it. I can't say that I'm always privy to what it's about. Sure. But how do you feel when you look at it? Well, I will say that when I was in graduate school and even in undergraduate school, one of the big conversations about painting, at least, and drawing and sculpture was something that we called truth to materials. You use a particular material to say a particular thing. You don't use concrete to necessarily make delicate sculptures. Yeah. And you stay true to the material. You don't try to make one material look like another. Yeah. And so that has always stuck with me. Paint is paint. It drips. It has these properties. Digital stuff. It has polygons and it has pixels and it has voxels. And it has weird artifacts. And all of that stuff has...
+## Davonte Bradley [35:19](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2119s)
 
-I have to leave in the work because that's what I believe in. And so I think in those... In the sense of the truth to materials, each medium has kind of shaped and formed the aesthetic as it develops. Yeah. The slight greasiness of bacon and things like that. Like what? The slight greasiness of bacon. Yes, exactly. You don't want to hide that. No, of course. Exactly. Yeah. So I think that's the best answer I have for you right now.
+Well, it also helps with their other artists who are interested, too.
 
-Thank you. All right. And I know you weren't here at the start, Patrick, but we're trying to hold off the questions until after both presentations. Oh, I'm so sorry. No, no, no. It's fine. You did raise a very interesting question. And I mean, this is also part of the presentation too. So it's all good. No worries.
+## Gregory Little [35:22](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2122s)
 
-But if anyone else has any questions, please feel free to ask them in the Q&A. And if anyone else has any questions or comments, please hold them for after the second presentation. Then we'll dive into a full on like discussion Q&A session with both presenters. Cool. That being said, again, thank you, Greg, for your presentation. And I'm pretty sure there's probably people waiting patiently to give you questions and praise and all that because that's usually the case here.
+Yeah. That's true. It's true. Yeah.
 
-But it's going to have to wait. Thank you all for listening. Yes. All right. So, Lee, are you ready to present? Yes. Let's see
+## Unattributed [35:25](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2125s)
 
-## Lee Musgrave [40:29](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2429s)
+Know your audience, right?
 
-If I can get this up here. All right. You have the floor. Go ahead. All right. Do you see that? Yep. Okay. All right. All right. That's all I can see. Now, of course, you can get that up and going. You can just say you can't all get that up and going. You can all get that up and going. You can all get that up and going.
+## Gregory Little [35:27](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2127s)
 
-You can all get that up and going. Lance, can you see that? We're only seeing, I think, the window that's showing your folder. So you might have to choose to capture your whole screen rather than a specific window. Can we have it do that? We're seeing thumbnails. Yeah, we're seeing thumbnails at the moment.
+So how do I get out of... Here we go. Okay. So... Hey, Greg. Pause share? Yeah. Yes, Patrick.
 
-Yeah, you didn't see the one that I clicked on then. That's what you're seeing. Correct. Yeah, OK. Let me see why that is not happening. Do you have two monitors, perchance? No. Then when you click the Share Screen button. Yeah, I did that. Did you choose a specific window, or did you click Share the whole screen?
+## Patrick Lichty [35:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2136s)
 
-Yeah, that might have been the problem. Let's see here. Yeah, it's probably just capturing the window. So what you can do, you can. How's that? Nope. Still don't see it. Nope. Wow. Yeah, so just go ahead and stop the screen share, and then restart by making sure that your screen one is selected rather than a window. And that should fix the issue.
+Okay. Let's get that taken. But you know what? So the thing is, is that... I mean, I'm sorry I got in a little bit late. I was biking. Biking? Yeah. Yeah. I'm living on an eight-mile circumference lake right now. So I did that. I just... It took me a little while to get off a second lap. But anyways, what happens is that... Good for you. Being that... Being that... You know, we actually met in 1996 when you were at Bowling... I mean, at Kent State University, now in my hometown. And so anyway, we started this conversation. So I know all this work pretty darn well. So the one thing that I think is really fascinating here, and without going like... Yeah. Without saying, I know this, I know this, I know this, I want to get into something that I think is really interesting, but I've never asked.
 
-OK. OK. OK. Did it get it that time? Nope. We see more of the window now, though. We see more of your folder. Wow. Well. Lee, what are you viewing? Yeah. What software are you seeing the images in? Is it like just a viewer of some sort, or what? What do you mean, a viewer? Well, I mean, are you viewing them in? What software are we supposed to be seeing the images in? Because we're just seeing your finder right now. Is this primary Windows Explorer?
+So what happens is that... So say, for example, in the earlier days, you were dealing with things like physical computing and printmaking and that sort of thing. Then we all shifted into this Blitz 3D stuff in the mid-2000s and that sort of thing. And you kept on going with it. And I kind of drifted out of it in the late 2000s. And now you're working on some of these other things. What do you think that... How do you think that the shift from technological regime to technological regime has helped shape and influence your work?
 
-Yeah. Hold on. Yeah, one second. Technical difficulties do happen. Absolutely. That's weird. I'm not seeing the same thing, I guess. Did you double click that file instead of just letting it come up by clicking it singly? There we go. We're seeing more of the desktop now. So you're still seeing the thumbnails.
+The shift away from the technology? No, no, no. From regime to regime.
 
-Yeah, so we're seeing more of your desktop as well. Oh, wait, wait. I think we got it. Like useful. There you go. I think we got it. There we go. Hey. You got it. You got it. You got it. We got it. OK. Well, let's see. What was I talking about? Oh, I lived most of my life in Los Angeles. And so I attended college there and went to Cal State Northridge.
+## Gregory Little [37:20](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2240s)
 
-And this painting is from the little solo show that the university gave me when I was graduating. I had the good fortune to have a friend who was a professor at Cal State Northridge. And I was a good fortune while there to study with Fritz Faiss and Hans Burkhardt. Fritz Faiss studied at the Bauhaus with Paul Clay and Kandinsky.
+From regime to regime. Yeah.
+
+## Patrick Lichty [37:21](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2241s)
+
+Because remember, the piece, the body without organs piece, we did it at University of Connecticut was very different from the later one. And then you shifted to this fantastic thing with the data body, which was amazing. But the thing is, is that I see a shaping at times of the work by the technological regime that the work is constructed under. Right. And there's an internal logic to it.
+
+## Gregory Little [37:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2272s)
+
+Right. There is an internal logic to it. I can't say that I'm always privy to what it's about. Sure. But how do you feel when you look at it? Well, I will say that when I was in graduate school and even in undergraduate school, one of the big conversations about painting, at least, and drawing and sculpture was something that we called truth to materials. You use a particular material to say a particular thing. You don't use concrete to necessarily make delicate sculptures. Yeah. And you stay true to the material. You don't try to make one material look like another.
+
+## Patrick Lichty [38:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2316s)
+
+Yeah.
+
+## Gregory Little [38:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2317s)
+
+And so that has always stuck with me. Paint is paint. It drips. It has these properties. Digital stuff. It has polygons and it has pixels and it has voxels. And it has weird artifacts. And all of that stuff has... I have to leave in the work because that's what I believe in. And so I think in those... In the sense of the truth to materials, each medium has kind of shaped and formed the aesthetic as it develops.
+
+## Patrick Lichty [39:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2347s)
+
+Yeah. The slight greasiness of bacon and things like that. Like what? The slight greasiness of bacon.
+
+## Gregory Little [39:14](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2354s)
+
+Yes, exactly. You don't want to hide that.
+
+## Patrick Lichty [39:16](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2356s)
+
+No, of course.
+
+## Gregory Little [39:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2358s)
+
+Exactly. Yeah. So I think that's the best answer I have for you right now. Thank you.
+
+## Davonte Bradley [39:26](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2366s)
+
+All right. And I know you weren't here at the start, Patrick, but we're trying to hold off the questions until after both presentations.
+
+## Unattributed [39:35](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2375s)
+
+Oh, I'm so sorry. No, no, no.
+
+## Davonte Bradley [39:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2376s)
+
+It's fine. You did raise a very interesting question. And I mean, this is also part of the presentation too. So it's all good. No worries. But if anyone else has any questions, please feel free to ask them in the Q&A. And if anyone else has any questions or comments, please hold them for after the second presentation. Then we'll dive into a full on like discussion Q&A session with both presenters. Cool. That being said, again, thank you, Greg, for your presentation. And I'm pretty sure there's probably people waiting patiently to give you questions and praise and all that because that's usually the case here.
+
+But it's going to have to wait. Thank you all for listening. Yes. All right. So, Lee, are you ready to present?
+
+## Lee Musgrave [40:26](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2426s)
+
+Yes. Let's see if I can get this up here.
+
+## Davonte Bradley [40:34](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2434s)
+
+All right. You have the floor. Go ahead. All right. Do you see that? Yep.
+
+## Lee Musgrave [40:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2441s)
+
+Okay.
+
+## Unattributed [40:46](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2446s)
+
+All right. All right.
+
+## Lee Musgrave [40:56](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2456s)
+
+That's all I can see.
+
+## Davonte Bradley [41:05](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2465s)
+
+Now, of course, you can get that up and going. You can just say you can't all get that up and going. You can all get that up and going. You can all get that up and going.
+
+## Lee Musgrave [41:10](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2470s)
+
+You can all get that up and going. Lance, can you see that?
+
+## Davonte Bradley [41:17](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2477s)
+
+We're only seeing, I think, the window that's showing your folder. So you might have to choose to capture your whole screen rather than a specific window. Can we have it do that?
+
+## Gregory Little [41:33](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2493s)
+
+We're seeing thumbnails.
+
+## Davonte Bradley [41:34](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2494s)
+
+Yeah, we're seeing thumbnails at the moment.
+
+## Lee Musgrave [41:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2497s)
+
+Yeah, you didn't see the one that I clicked on then.
+
+## Davonte Bradley [41:40](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2500s)
+
+That's what you're seeing. Correct.
+
+## Lee Musgrave [41:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2502s)
+
+Yeah, OK. Let me see why that is not happening.
+
+## Davonte Bradley [41:47](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2507s)
+
+Do you have two monitors, perchance? No. Then when you click the Share Screen button. Yeah, I did that. Did you choose a specific window, or did you click Share the whole screen?
+
+## Lee Musgrave [42:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2527s)
+
+Yeah, that might have been the problem. Let's see here.
+
+## Davonte Bradley [42:15](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2535s)
+
+Yeah, it's probably just capturing the window. So what you can do, you can. How's that? Nope. Still don't see it. Nope. Wow. Yeah, so just go ahead and stop the screen share, and then restart by making sure that your screen one is selected rather than a window. And that should fix the issue. OK.
+
+## Unattributed [42:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2563s)
+
+OK.
+
+## Davonte Bradley [42:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2574s)
+
+OK. Did it get it that time? Nope. We see more of the window now, though. We see more of your folder. Wow.
+
+## Lee Musgrave [43:09](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2589s)
+
+Well.
+
+## Gregory Little [43:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2591s)
+
+Lee, what are you viewing? Yeah. What software are you seeing the images in? Is it like just a viewer of some sort, or what?
+
+## Lee Musgrave [43:20](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2600s)
+
+What do you mean, a viewer?
+
+## Gregory Little [43:22](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2602s)
+
+Well, I mean, are you viewing them in? What software are we supposed to be seeing the images in? Because we're just seeing your finder right now.
+
+## Patrick Lichty [43:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2612s)
+
+Is this primary Windows Explorer? Yeah.
+
+## Gregory Little [43:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2617s)
+
+Hold on. Yeah, one second.
+
+## Davonte Bradley [43:39](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2619s)
+
+Technical difficulties do happen.
+
+## Lee Musgrave [43:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2622s)
+
+Absolutely. That's weird. I'm not seeing the same thing, I guess.
+
+## Darcy Gerbarg [43:50](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2630s)
+
+Did you double click that file instead of just letting it come up by clicking it singly? There we go.
+
+## Davonte Bradley [43:57](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2637s)
+
+We're seeing more of the desktop now.
+
+## Lee Musgrave [44:00](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2640s)
+
+So you're still seeing the thumbnails.
+
+## Gregory Little [44:04](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2644s)
+
+Yeah, so we're seeing more of your desktop as well.
+
+## Davonte Bradley [44:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2647s)
+
+Oh, wait, wait. I think we got it. Like useful. There you go. I think we got
+
+## Unattributed [44:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2651s)
+
+It. There we go. Hey. You got it. You got it.
+
+## Lee Musgrave [44:15](https://www.youtube.com/watch?v=mA3da8lu0iU&t=2655s)
+
+You got it. We got it. OK. Well, let's see. What was I talking about? Oh, I lived most of my life in Los Angeles. And so I attended college there and went to Cal State Northridge. And this painting is from the little solo show that the university gave me when I was graduating. I had the good fortune to have a friend who was a professor at Cal State Northridge. And I was a good fortune while there to study with Fritz Faiss and Hans Burkhardt. Fritz Faiss studied at the Bauhaus with Paul Clay and Kandinsky.
 
 And Burkhardt studied with Ashley Gorky and was studio partner with him and Mark Tobey. So this was not only from my first solo show, but it was also a very special experience for me. And it was the very first painting I sold. The man who bought it became a good friend, bought many paintings throughout my career. And he is no longer with us. I got the painting back.
 
@@ -205,144 +485,676 @@ I've forgotten the name of the city in France. The polka dot thing was a shoppin
 
 And again, that black, red ring, black ring, rubber ring. I used that thing a lot in a lot of photographs before I discarded it again. So all of these are done the same way, in other words. No variations. Collect the stuff, throw it around on my work table, photograph it, get it into the computer, manipulate the colors, the shapes, the composition.
 
-And I'm up to the point where this is the end of the video. So for this series now, something about this series is telling me that I need to print this out on canvas and then paint on it. It may not work, but I'm tempted to try it. That's the end right there. I'm going to go ahead and print this out.
+And I'm up to the point where this is the end of the video. So for this series now, something about this series is telling me that I need to print this out on canvas and then paint on it. It may not work, but I'm tempted to try it. That's the end right there.
 
-All right. Well, thank you very much, Ali. I would have never thought that those works were objects. So I do very much see what the critics were immediately drawn to because it doesn't look like they came from trash. It's... The kind of extraction that ends up getting created. I've got here... You can see here this jar, this little plastic plate that's full of junk. It's just...
+## Davonte Bradley [01:04:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3851s)
 
-Not much to it at all. That's why I use the word ephemera. You know, it'll easily destroy itself if you just leave it outside. Right. The elements will destroy it. But it's wonderful. Free resource. It gets me in trouble sometimes. Never lost for materials, though. I've gone inside of stores sometimes and I see a bag.
+I'm going to go ahead and print this out. All right. Well, thank you very much, Ali. I would have never thought that those works were objects. So I do very much see what the critics were immediately drawn to because it doesn't look like they came from trash. It's...
 
-You know, somebody will be buying something and the store employee will put it in the bag and hand them the bag. The bag just looks wonderful to me. And I'll ask if I can have one of the bags free and get you in trouble. You can't do that. They think you want a bag so you can steal something and walk out and make it look like you bought something. So I offer to buy the bag. You know, can I buy a bag? You still... You know, suddenly the security guys are standing behind you. I have to pull out ID to prove I'm an artist. I just want it for an art project.
+## Lee Musgrave [01:04:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3877s)
 
-Right. Well, thank you very much for your presentation. It was wonderful. And I think we can all join in with a round of applause for... Thank you very much. Thank you very much. All right. And if you would be so kind, could you please stop sharing your screen for now? Yeah. You might have to do it again at some point, but for now, we'll take it off. It's cool.
+The kind of extraction that ends up getting created. I've got here... You can see here this jar, this little plastic plate that's full of junk. It's just... Not much to it at all. That's why I use the word ephemera. You know, it'll easily destroy itself if you just leave it outside. Right. The elements will destroy it.
 
-Okay. So now we are at the Q&A portion of the... Of our time. The floor is... Like, the questions are going to be for... For both Lee or Greg. So if you've got them, now would be a good time to share them. I'm going through the chat at the moment to make sure I haven't really missed too much. I saw somebody had their hand up. But they put it down. Well, their Zoom hand up. But Greg can go first, I guess. That's the first person I'm seeing right now.
+But it's wonderful. Free resource.
+
+## Unattributed [01:05:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3911s)
+
+It gets me in trouble sometimes.
+
+## Davonte Bradley [01:05:14](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3914s)
+
+Never lost for materials, though.
+
+## Lee Musgrave [01:05:16](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3916s)
+
+I've gone inside of stores sometimes and I see a bag. You know, somebody will be buying something and the store employee will put it in the bag and hand them the bag. The bag just looks wonderful to me. And I'll ask if I can have one of the bags free and get you in trouble. You can't do that. They think you want a bag so you can steal something and walk out and make it look like you bought something. So I offer to buy the bag. You know, can I buy a bag? You still... You know, suddenly the security guys are standing behind you. I have to pull out ID to prove I'm an artist. I just want it for an art project.
+
+## Davonte Bradley [01:05:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3952s)
+
+Right. Well, thank you very much for your presentation. It was wonderful. And I think we can all join in with a round of applause for... Thank you
+
+## Unattributed [01:06:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3963s)
+
+Very much. Thank you very much.
+
+## Davonte Bradley [01:06:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=3966s)
+
+All right. And if you would be so kind, could you please stop sharing your screen for now? Yeah. You might have to do it again at some point, but for now, we'll take it off. It's cool. Okay. So now we are at the Q&A portion of the... Of our time. The floor is... Like, the questions are going to be for... For both Lee or Greg.
+
+So if you've got them, now would be a good time to share them. I'm going through the chat at the moment to make sure I haven't really missed too much. I saw somebody had their hand up. But they put it down. Well, their Zoom hand up. But Greg can go first, I guess. That's the first person I'm seeing right now.
+
+## Gregory Little [01:07:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4021s)
 
 It's really fun. It's really fascinating work, the kind of turnaround that you do from the materials to the actual photograph or object. It's pretty cool. I was wondering, I'm just trying to imagine your studio with all this stuff. Do you... I'm interested in the collecting part. Do you throw things away? And how do you know when to do that?
 
-I wish I could show you. I could pick up the camera and show you. It's laying on top of every surface that I have. And it's gotten to the point where I will occasionally take a day and start separating it. And when I started doing that, I had problems right away how to separate it. By what? Right. I was thinking about... I decided to do it by color. So all the green pieces are together and all the red ones are together and that sort of thing. And I got big plastic bags and started filling them up with all these little pieces and putting them neatly in a file. And when I finished with that, I was very happy. I thought, gee, that's good. That's going to work. Well, it doesn't work. Because when I'm in the heat of playing with the pieces and making the composition, I can't stand having to go to a file and go through and try and find something.
+## Lee Musgrave [01:07:25](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4045s)
 
-Right. It works better for me. Like when you're looking for something in particular, you're waiting to be inspired by something. Yeah. I was wondering if there was any kind of injection. I have to work in the moment. So whatever's in my sight, in my mind. In my reach at the moment. That's what ends up in the work. Cool. Do you use things more than once? Oh, yeah. Yeah. That black ring, rubber ring thing that I found in Frybird, I've used it many, many times. I love that there's a story to go along with each one of the little assets, too. I was thinking about stop motion animation when I was looking at them. I can think of a few animators that work under a light table and do animation like that. But just another thought. Well, you know, I'm listening to what you're saying. I'm listening to what you were talking about.
+I wish I could show you. I could pick up the camera and show you. It's laying on top of every surface that I have. And it's gotten to the point where I will occasionally take a day and start separating it. And when I started doing that, I had problems right away how to separate it. By what?
 
-It reminded me of a couple of things in my life. At one point, I was invited to Disney Imagineering Department. And they just wanted me to experience what they had been doing, you know, what they were playing around with. They just thought it would be good to bring some artists in and get some responses from artists on what we can do with this stuff. Right. I really was envious of the guys working with me. You know, I asked them, how did you get this job? We don't know, really. You know, they just saw us do something and they brought us in here and they just said, here's some money. Do whatever you want to do and then show us what you come up with. What a nice job.
+## Gregory Little [01:07:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4065s)
 
-Except Disney owns everything you do. Yeah, that's only kind of like bad upshot. And the other thing that, Gregory, your work reminded me of was E.A.T. That was back in the 70s. Oh, yeah. At Rensselaer. It's in art and technology. Oh, no, no. The Billy Kluber thing. I was a member of that group. And there were some wonderful things like the after image room was something I really enjoyed.
+Right. I was thinking about...
 
-They let you in, several people, maybe a dozen people into a completely black room. And suddenly a strobe light would come on and that image would be burned into your eyes. Everybody would get excited and move around. And another strobe in another location would come on and the group would be in your eyes again. So, in other words, the first group is starting to fade away and change colors. And the second group now is there in full color. And then the third strobe. Well, after about a half a dozen strobe lights popping on, you're disoriented. You can't tell where people really are and where they're not. You're afraid to make a movement because you think you might fall over. It made you lose your entire feeling for gravity. Very cool. And they opened up a door and rushed you out into the hallway.
+## Lee Musgrave [01:07:46](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4066s)
 
-Now you're out in the hallway with bright lights and real people walking by. And you're walking like this because you're afraid you're going to run into people. You can't tell who the real people are and who the illusions are. And it's all fading away at the same time. One absolutely wonderful experience.
+I decided to do it by color. So all the green pieces are together and all the red ones are together and that sort of thing. And I got big plastic bags and started filling them up with all these little pieces and putting them neatly in a file. And when I finished with that, I was very happy. I thought, gee, that's good. That's going to work. Well, it doesn't work. Because when I'm in the heat of playing with the pieces and making the composition, I can't stand having to go to a file and go through and try and find something.
 
-That is so cool. I'm sorry I missed that whole eat thing. I mean, I know about it. I'm sorry I missed it. But I'm going to back off and mute myself now. Tommy had a question earlier asking for Lee, asking if you had an artist ID? An artist ID. Yeah, I have a business card. It has my name on it. And it says painting, drawing, photography.
+## Gregory Little [01:08:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4098s)
 
-I had to come up with that because I'm often, even when I'm out. I live. I live up on top of Mount Boudoin now in Washington state. Overlooks the Columbia River. I'm surrounded by private property. But there's about eight miles of trails that we all agree that we can walk on across other people's property, you know. So they don't ask me for it much anymore. They just look over and see I'm out with my camera. And they go, oh, it's just Lee. He's an artist. Don't worry about it.
+Right. It works better for me. Like when you're looking for something in particular, you're waiting to be inspired by something. Yeah.
 
-That's great. It's like, oh, yeah, no, I have a license. See, I'm an artist. I can be here. It's all good. Well, you know, in addition to that, I was a professor of art in L.A. For 30 years as well. So I had my ID from that. Right. Oh, we have a question. Oh, two questions now. First one was Michael Price.
+## Unattributed [01:08:24](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4104s)
 
-Hey. Actually, I have a question for each artist. Go for it. Cool. Lee, I'll start with you. I think to me a lot of the power in the last sets of images that you were sharing with the, you know, found trash around the world, there's two things that it kind of reminded me of. They feel almost like mandalas or sand paintings. In that the notion. The notion that they don't last forever, even though you digitize them and created digital artwork from it. I like the ephemeral quality of how they originate. And I think there's a lot of carryover for me just personally and as an artist, that power of something coming in the moment and being realized in that way. So I was just curious sort of if you have any feelings about that. Well, generally speaking, I'm seeking grace in the chaos. Okay. In other words, I like the spontaneity of being able to play with this variety of stuff.
+I was wondering if there was any kind of injection.
 
-And I love the fact that I can destroy it even more. It might even get better. You know. It presents a lot of. It presents me with a lot of choices. And that's, to me, that's the best position to be in life in general. To have choices. The worst place to be is when you have no choice. Right. Well, it's interesting because even though you've placed these things, the final artwork feels very fluid to me. It doesn't feel like a static thing that's, you know, like a monument. And I just, yeah, there's just a lot of life flowing through the imagery. And I really, really like that a lot. Well, to be honest with you, the trick is in the lighting. I'm sure.
+## Lee Musgrave [01:08:27](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4107s)
 
-Really? Seriously? I didn't show you any of the ones where the lighting didn't work out. Yeah. Well, that's how we get to, you know, I think Roz and I had talked about failure. And failure is not really failure. It's, you know, a learning experience that you learn along the way. And, you know, I think as artists, we're experimentalists. And so that I really value. Yeah.
+I have to work in the moment. So whatever's in my sight, in my mind. In my reach at the moment. That's what ends up in the work.
 
-The lessons learned along the way and the way we grow that, you know, in our art. Yeah. At one point, the college that I was teaching at gave me a new brand-new machine that specialized, it was specially built to make slides out of pages of books. So you could open up any book, put it in there, put it in the machine and press the button and it would give you a colored slide, you know. And the moment the guys walked away. You know, the officials went away from the machine. All of us art teachers are standing in the room going, I get it first.
+## Gregory Little [01:08:33](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4113s)
 
-Because we wanted to play with this thing and see what you could do with it. That's awesome. It reminds me of Graham Nash, you know, Crosby, Stills, Nash, Graham Nash. You know, I didn't mention it, but I also curated, let me see here. I did this just for you guys. I added it up. I've curated 140. 143 exhibits in my life. Wow.
+Cool. Do you use things more than once?
 
-I only curated one on computer art. That was back in 1993. This is the review from the Los Angeles Times. They called it painting with pixels. But anyway, in that process of curating, there's a lot of things that go through your mind, you know, of what aspect of the work are you going to emphasize. Do you understand what I mean? And I have that problem today with the people who are interested in exhibiting.
+## Lee Musgrave [01:08:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4116s)
 
-You know, I keep wanting to bring a tray, a whole bunch of this stuff to the gallery. And I would like to sit in the gallery and play with it right there while the work is on the wall. You know, and maybe use an overhead projector, have what I'm playing with. Project it up on the wall so people could see it. No gallery wants to hear this. You know, they shy away from that because they think it will somehow demean, lower the quality of the images that are on the wall. In other words, this stuff is trash. People see it as trash, as something you discard, that you throw away. Right. And suddenly I've turned it into something that society values. I've turned it into artwork. Therefore, it's precious.
+Oh, yeah. Yeah. That black ring, rubber ring thing that I found in Frybird, I've used it many, many times.
 
-See, and so they don't want to see me demean it. Very instructive. Okay. Do you prefer Greg or Gregory? Greg is fine. Okay, Greg. So I think we probably have a lot of... Okay. I think we probably have a lot of parallel tracks when you were talking about some of the early VR work that you were doing.
+## Gregory Little [01:08:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4123s)
 
-I knew the folks that were doing virtuality, which was a commercial application in England. I was involved here in the US with a couple of VR gaming companies very early on. I mean, like this was like early stuff. We had gotten the Pixel Plane's technology out of the research triangle in North Carolina.
+I love that there's a story to go along with each one of the little assets, too. I was thinking about stop motion animation when I was looking at them. I can think of a few animators that work under a light table and do animation like that. But just another thought.
+
+## Lee Musgrave [01:08:58](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4138s)
+
+Well, you know, I'm listening to what you're saying. I'm listening to what you were talking about. It reminded me of a couple of things in my life. At one point, I was invited to Disney Imagineering Department. And they just wanted me to experience what they had been doing, you know, what they were playing around with. They just thought it would be good to bring some artists in and get some responses from artists on what we can do with this stuff. Right. I really was envious of the guys working with me. You know, I asked them, how did you get this job? We don't know, really. You know, they just saw us do something and they brought us in here and they just said, here's some money. Do whatever you want to do and then show us what you come up with. What a nice job.
+
+## Unattributed [01:09:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4185s)
+
+Except Disney owns everything you do.
+
+## Davonte Bradley [01:09:48](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4188s)
+
+Yeah, that's only kind of like bad upshot.
+
+## Lee Musgrave [01:09:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4192s)
+
+And the other thing that, Gregory, your work reminded me of was E.A.T. That was back in the 70s. Oh, yeah.
+
+## Gregory Little [01:10:00](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4200s)
+
+At Rensselaer.
+
+## Lee Musgrave [01:10:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4201s)
+
+It's in art and technology.
+
+## Gregory Little [01:10:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4203s)
+
+Oh, no, no. The Billy Kluber thing.
+
+## Lee Musgrave [01:10:05](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4205s)
+
+I was a member of that group. And there were some wonderful things like the after image room was something I really enjoyed. They let you in, several people, maybe a dozen people into a completely black room. And suddenly a strobe light would come on and that image would be burned into your eyes. Everybody would get excited and move around. And another strobe in another location would come on and the group would be in your eyes again. So, in other words, the first group is starting to fade away and change colors. And the second group now is there in full color. And then the third strobe. Well, after about a half a dozen strobe lights popping on, you're disoriented. You can't tell where people really are and where they're not. You're afraid to make a movement because you think you might fall over.
+
+It made you lose your entire feeling for gravity. Very cool. And they opened up a door and rushed you out into the hallway. Now you're out in the hallway with bright lights and real people walking by. And you're walking like this because you're afraid you're going to run into people. You can't tell who the real people are and who the illusions are. And it's all fading away at the same time. One absolutely wonderful experience.
+
+## Gregory Little [01:11:22](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4282s)
+
+That is so cool. I'm sorry I missed that whole eat thing. I mean, I know about it. I'm sorry I missed it. But I'm going to back off and mute myself now.
+
+## Davonte Bradley [01:11:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4292s)
+
+Tommy had a question earlier asking for Lee, asking if you had an artist ID?
+
+## Lee Musgrave [01:11:40](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4300s)
+
+An artist ID. Yeah, I have a business card. It has my name on it. And it says painting, drawing, photography. I had to come up with that because I'm often, even when I'm out. I live. I live up on top of Mount Boudoin now in Washington state. Overlooks the Columbia River. I'm surrounded by private property. But there's about eight miles of trails that we all agree that we can walk on across other people's property, you know. So they don't ask me for it much anymore. They just look over and see I'm out with my camera. And they go, oh, it's just Lee. He's an artist. Don't worry about it.
+
+## Davonte Bradley [01:12:24](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4344s)
+
+That's great. It's like, oh, yeah, no, I have a license. See, I'm an artist. I can be here. It's all good.
+
+## Lee Musgrave [01:12:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4352s)
+
+Well, you know, in addition to that, I was a professor of art in L.A. For 30 years as well. So I had my ID from that.
+
+## Davonte Bradley [01:12:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4361s)
+
+Right. Oh, we have a question. Oh, two questions now. First one was Michael Price.
+
+## Michael Pierre Price [01:12:50](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4370s)
+
+Hey. Actually, I have a question for each artist.
+
+## Davonte Bradley [01:12:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4374s)
+
+Go for it. Cool.
+
+## Michael Pierre Price [01:12:56](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4376s)
+
+Lee, I'll start with you. I think to me a lot of the power in the last sets of images that you were sharing with the, you know, found trash around the world, there's two things that it kind of reminded me of. They feel almost like mandalas or sand paintings. In that the notion. The notion that they don't last forever, even though you digitize them and created digital artwork from it. I like the ephemeral quality of how they originate. And I think there's a lot of carryover for me just personally and as an artist, that power of something coming in the moment and being realized in that way. So I was just curious sort of if you have any feelings about that.
+
+## Lee Musgrave [01:13:57](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4437s)
+
+Well, generally speaking, I'm seeking grace in the chaos. Okay. In other words, I like the spontaneity of being able to play with this variety of stuff. And I love the fact that I can destroy it even more. It might even get better. You know. It presents a lot of. It presents me with a lot of choices. And that's, to me, that's the best position to be in life in general. To have choices. The worst place to be is when you have no choice.
+
+## Michael Pierre Price [01:14:33](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4473s)
+
+Right. Well, it's interesting because even though you've placed these things, the final artwork feels very fluid to me. It doesn't feel like a static thing that's, you know, like a monument. And I just, yeah, there's just a lot of life flowing through the imagery. And I really, really like that a lot.
+
+## Lee Musgrave [01:14:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4492s)
+
+Well, to be honest with you, the trick is in the lighting. I'm sure. Really? Seriously? I didn't show you any of the ones where the lighting didn't work out.
+
+## Michael Pierre Price [01:15:02](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4502s)
+
+Yeah. Well, that's how we get to, you know, I think Roz and I had talked about failure. And failure is not really failure. It's, you know, a learning experience that you learn along the way. And, you know, I think as artists, we're experimentalists. And so that I really value. Yeah. The lessons learned along the way and the way we grow that, you know, in our art.
+
+## Lee Musgrave [01:15:28](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4528s)
+
+Yeah. At one point, the college that I was teaching at gave me a new brand-new machine that specialized, it was specially built to make slides out of pages of books. So you could open up any book, put it in there, put it in the machine and press the button and it would give you a colored slide, you know. And the moment the guys walked away. You know, the officials went away from the machine. All of us art teachers are standing in the room going, I get it first.
+
+Because we wanted to play with this thing and see what you could do with it.
+
+## Unattributed [01:16:05](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4565s)
+
+That's awesome.
+
+## Lee Musgrave [01:16:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4566s)
+
+It reminds me of Graham Nash, you know, Crosby, Stills, Nash, Graham Nash. You know, I didn't mention it, but I also curated, let me see here. I did this just for you guys. I added it up. I've curated 140. 143 exhibits in my life. Wow. I only curated one on computer art. That was back in 1993. This is the review from the Los Angeles Times. They called it painting with pixels.
+
+But anyway, in that process of curating, there's a lot of things that go through your mind, you know, of what aspect of the work are you going to emphasize. Do you understand what I mean? And I have that problem today with the people who are interested in exhibiting. You know, I keep wanting to bring a tray, a whole bunch of this stuff to the gallery. And I would like to sit in the gallery and play with it right there while the work is on the wall. You know, and maybe use an overhead projector, have what I'm playing with. Project it up on the wall so people could see it. No gallery wants to hear this. You know, they shy away from that because they think it will somehow demean, lower the quality of the images that are on the wall. In other words, this stuff is trash. People see it as trash, as something you discard, that you throw away.
+
+Right. And suddenly I've turned it into something that society values. I've turned it into artwork. Therefore, it's precious. See, and so they don't want to see me demean it.
+
+## Michael Pierre Price [01:18:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4683s)
+
+Very instructive. Okay. Do you prefer Greg or Gregory?
+
+## Gregory Little [01:18:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4691s)
+
+Greg is fine.
+
+## Michael Pierre Price [01:18:12](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4692s)
+
+Okay, Greg. So I think we probably have a lot of... Okay. I think we probably have a lot of parallel tracks when you were talking about some of the early VR work that you were doing. I knew the folks that were doing virtuality, which was a commercial application in England. I was involved here in the US with a couple of VR gaming companies very early on. I mean, like this was like early stuff. We had gotten the Pixel Plane's technology out of the research triangle in North Carolina.
 
 So how do you manage or how do you think about sort of pushing the envelope when the technology is sort of in its primitive state? Right. So I think it's kind of like the old days versus as it matures over time. And do you find that you're more attracted to things that are sort of emerging technologically?
 
 Or do you come back to it as it matures? Because now with a lot of the virtual headsets that have come to market and what Microsoft is doing with the HoloLens 2 and other things is... I mean, when we were... When I was working with Microsoft, I was working with Microsoft for a couple of years. And I was working on things. It was very limited.
 
-We were like at 224 pixels by 182 pixels for the headset display, which caused a lot of people to like throw up. Right. But you tried to do any sorts of entertainment kinds of gaming. And so now that the technology is mature... You have a lot more to play with. But I've always liked sort of being on the emerging edge of the technologies just because it challenges my creativity to deal with the limitations. So I'm just kind of curious sort of where your artistic motivations have led you and sort of how that's come about for you and where you have found the satisfaction for that. Hmm. Yeah. Wow. That's a very good question.
+We were like at 224 pixels by 182 pixels for the headset display, which caused a lot of people to like throw up. Right. But you tried to do any sorts of entertainment kinds of gaming. And so now that the technology is mature... You have a lot more to play with. But I've always liked sort of being on the emerging edge of the technologies just because it challenges my creativity to deal with the limitations. So I'm just kind of curious sort of where your artistic motivations have led you and sort of how that's come about for you and where you have found the satisfaction for that.
 
-I think I used to be more so, maybe not as much as what you're describing, but I used to be really fascinated by the new technology and really want to be on that edge. But I found it... Eventually, I found it to be kind of too difficult and time consuming. And it would take me so... I mean, I remember trying to code a line and stuff. A line. I mean, I'm talking a literal line, you know, A to B for hours. And I mean, I got to the... I'm not a great programmer. You know, like I said, early on, I didn't really... I was very naive when I jumped into this, but I did manage to do some things. But at any rate, I'm not always on the cutting edge because it's often the bleeding edge. And I came to a place in my practice about maybe 10 years ago where I really wanted to make work. And I didn't really care whether it was the newest, the latest.
+## Gregory Little [01:20:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4841s)
 
-I just wanted to get some work done and get it out there. And the difficulties with exhibiting work when I was doing the VR were pretty profound. I mean, not a lot of people experienced this work. Not that they do my work now either, but that's my fault. But at any rate. Yeah. So on the other hand, I pick and choose, I guess. You know, I do want to do some more. Stuff. I recently lobbied and was very lucky to find a donor. And we have a cave now at the school where I'm teaching, which I was told by the president of Eon Reality that I was living in the dark ages because I had a cave, you know? And my feeling was that his attitude was sort of, what's that phrase, throwing the baby out with the bathwater. You know, I mean, I think what's profound about the cave cannot be, what's, yeah, what's profound experientially about a space like the cave cannot be done on your iPhone.
+Hmm. Yeah. Wow. That's a very good question. I think I used to be more so, maybe not as much as what you're describing, but I used to be really fascinated by the new technology and really want to be on that edge. But I found it... Eventually, I found it to be kind of too difficult and time consuming. And it would take me so... I mean, I remember trying to code a line and stuff. A line. I mean, I'm talking a literal line, you know, A to B for hours. And I mean, I got to the... I'm not a great programmer. You know, like I said, early on, I didn't really... I was very naive when I jumped into this, but I did manage to do some things. But at any rate, I'm not always on the cutting edge because it's often the bleeding edge. And I came to a place in my practice about maybe 10 years ago where I really wanted to make work.
 
-I'm sorry. It's not going to happen. Yeah. And there is something about presence and being in two realities at the same time and your body being convinced that you're actually there. All that stuff happens in a cave that does not happen on your phone. And so I do pick and choose. And yeah. And sometimes I feel a bit like a dinosaur because I'm in my studio here grinding, grinding chunks of turquoise and things like that. But like I said, I just, Yeah. Need to get my work done and whatever tools and I am fortunate because I do have a lot of tools because of what I've done. And so I don't have any regrets in that sense. In the early days when I was working with caves and hemispheriums and stuff there were. You know, I'd go to these all these cool conferences and meet all these cool people and there was talk a lot of talk I met with someone from MoMA about putting a cave in MoMA and that was like in the mid nineties and I was like hot damn okay this is going to be great.
+And I didn't really care whether it was the newest, the latest. I just wanted to get some work done and get it out there. And the difficulties with exhibiting work when I was doing the VR were pretty profound. I mean, not a lot of people experienced this work. Not that they do my work now either, but that's my fault. But at any rate. Yeah. So on the other hand, I pick and choose, I guess. You know, I do want to do some more. Stuff. I recently lobbied and was very lucky to find a donor. And we have a cave now at the school where I'm teaching, which I was told by the president of Eon Reality that I was living in the dark ages because I had a cave, you know? And my feeling was that his attitude was sort of, what's that phrase, throwing the baby out with the bathwater. You know, I mean, I think what's profound about the cave cannot be, what's, yeah, what's profound experientially about a space like the cave cannot be done on your iPhone.
 
-Yeah. You know, it didn't happen because it was too impractical. I mean, now, I mean, the thing that I like about it now, yes, maybe it is more accessible, but to, but on the other hand that we've lost with, with that increased accessibility, we've become more templated in a sense. Like here's the, here's the, here's the template. Just follow the instructions and fill in your content. But what if, you know, what if I don't like that? What if I want to break that, you know, and then you're, then I'm in the same place again. Right. Yes, exactly. I'm always trying to break stuff, you know, I think artists are like, well, I, I've always had that attitude as well. And I feel that artists like to be forward looking, you know, however that means. And I think with technology, there's a real natural sense of, of, you know, wanting to see what can we do with this?
+I'm sorry.
 
-Yeah. Cool. Michael. That's very cool. I love that. Yeah. Okay. Well, I thank you both. That's what I was trying to tell you about Graham Nash when I got off on another track. Graham Nash, people don't know this, but he actually started as a photographer, not a musician. His father was a photographer.
+## Unattributed [01:23:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4983s)
 
-I knew him in LA. I had a lot of contacts in the music industry and I was asked to curate an exhibit for UKLA, which was, which was a great, big festival in LA and I knew he was a photographer. So I asked him if he had anything that I could put in the exhibit. And he said, well, why don't you come over to the studio? I came over and he had just bought the latest, most newest thing on the market. That was a digital printer, a huge one as big as this desk. Okay. And he had it completely taken all apart.
+It's not going to happen. Yeah.
+
+## Gregory Little [01:23:05](https://www.youtube.com/watch?v=mA3da8lu0iU&t=4985s)
+
+And there is something about presence and being in two realities at the same time and your body being convinced that you're actually there. All that stuff happens in a cave that does not happen on your phone. And so I do pick and choose. And yeah. And sometimes I feel a bit like a dinosaur because I'm in my studio here grinding, grinding chunks of turquoise and things like that. But like I said, I just, Yeah. Need to get my work done and whatever tools and I am fortunate because I do have a lot of tools because of what I've done. And so I don't have any regrets in that sense. In the early days when I was working with caves and hemispheriums and stuff there were. You know, I'd go to these all these cool conferences and meet all these cool people and there was talk a lot of talk I met with someone from MoMA about putting a cave in MoMA and that was like in the mid nineties and I was like hot damn okay this is going to be great.
+
+Yeah. You know, it didn't happen because it was too impractical. I mean, now, I mean, the thing that I like about it now, yes, maybe it is more accessible, but to, but on the other hand that we've lost with, with that increased accessibility, we've become more templated in a sense. Like here's the, here's the, here's the template. Just follow the instructions and fill in your content. But what if, you know, what if I don't like that? What if I want to break that, you know, and then you're, then I'm in the same place again. Right.
+
+## Unattributed [01:24:38](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5078s)
+
+Yes, exactly.
+
+## Michael Pierre Price [01:24:39](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5079s)
+
+I'm always trying to break stuff, you know, I think artists are like, well, I, I've always had that attitude as well. And I feel that artists like to be forward looking, you know, however that means. And I think with technology, there's a real natural sense of, of, you know, wanting to see what can we do with this? Yeah.
+
+## Gregory Little [01:25:05](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5105s)
+
+Cool.
+
+## Michael Pierre Price [01:25:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5106s)
+
+Michael.
+
+## Gregory Little [01:25:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5106s)
+
+That's very cool. I love that. Yeah. Okay.
+
+## Lee Musgrave [01:25:09](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5109s)
+
+Well, I thank you both. That's what I was trying to tell you about Graham Nash when I got off on another track. Graham Nash, people don't know this, but he actually started as a photographer, not a musician. His father was a photographer. I knew him in LA. I had a lot of contacts in the music industry and I was asked to curate an exhibit for UKLA, which was, which was a great, big festival in LA and I knew he was a photographer. So I asked him if he had anything that I could put in the exhibit. And he said, well, why don't you come over to the studio? I came over and he had just bought the latest, most newest thing on the market. That was a digital printer, a huge one as big as this desk. Okay. And he had it completely taken all apart.
 
 He said, I violated the warranty already. I said, why'd you do this? He said, because I could see how I could make it better. And he said, you want to see the first prints I made? Sure. So he pulls out these big, huge pieces of paper that he made these prints on and the machine had gone all haywire.
 
 What he had photographed was a standard photograph of some people, but the machine put out this stuff that looked like a, almost like a Jackson Pollock painting, you know, and it was wonderful. I loved it. And I said, Graham, that's it. That's what we got to put in the exhibit. He said, no, no, no, no, no. Don't put those in. Don't think I'm crazy.
 
-He would not let me exhibit. And they were done because he screwed around with this machine and made it so the jets wouldn't spray anything where they were supposed to. They were spraying all over the place. Awesome. I just wanted to make a really quick point about Lee's photography. The fact that they are temporary really, to me defines them as photography, you know, because photography is so much about a moment and instance, the passage of time, all that sort of stuff. So that really does keep them in that genre. Even though my first take on them is that they're abstract paintings when I first look at them, you know, especially on a screen, but they are, they're totally photography. That's very cool.
+He would not let me exhibit. And they were done because he screwed around with this machine and made it so the jets wouldn't spray anything where they were supposed to. They were spraying all over the place.
 
-With that, I'm out. All right. We are actually, we only have about 30 ish minutes left. I know that Roz had a question, but she put her hand down earlier. Did you still want to speak Roz or no? Mine was real quick. I just wondered, thank you both of you. Really fascinating. I love the kind of totemic, kind of iconic pieces, Greg, at the end that you were doing. I mean, I think they're all from data, but they look like totems that you see, you know, of indigenous people. And just, they have some kind of universal beauty to them. I mean, both of these presentations had a visual language that I think concerns, well, most of us, certainly myself.
+## Michael Pierre Price [01:26:58](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5218s)
 
-Lee, quick question. I just noticed at the end of your piece, your presentation, that it looked like things were busting out of the rectangle. And I wondered if you're, what you're doing. I mean, we all work and look at it. We're all in rectangles right now. I mean, you know, I'm trying to think of the woman, maybe Dorothy Grace. I don't know if I'm saying the right name, but who, or maybe Elizabeth Murray, how she busted out of the rectangle. And I just wonder if that's somewhere you're going. So I saw little things coming out of the air. When I was doing the light and space stuff on plexiglass, I created those same kinds of images. I'd have a border within a border within a border and pieces would be going out past the borders like that.
+Awesome.
 
-But in the ones that you're talking about that I've made recently, I did that in the computer. The pieces that I actually photographed were inside the board, but using clone stamping and a number of other processes of bending and twisting the image, I pulled them outside of the border. Cool. Thanks.
+## Gregory Little [01:26:59](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5219s)
 
-I should tell you though, one of the criticisms I received back when I did them on plexiglass was the border within a border. A lot of the critics didn't like it. Why did you, why did you make that? Why did you paint the frame and the map to make an illusionistic frame? Why did you do that? Screw them. You know, yeah. I'm sorry. I mentioned to you that each one of those plexiglass paintings had a clear area, an area left unpainted, right? So if you hung it on a blue wall, it would suddenly be blue in the middle. I love that. I love that. I was playing with this illusion of space and depth and that's why I wanted to get past the border idea it just increased that well you know that's something with critics really quickly and we'll go on but you know that's why you're a critic you criticize so I mean I you know you get late you get land blasts that I figure you're doing something that they can get their hands on you know so a spark discussion somehow actually I had a question yeah I was actually about to get to you Patrick well let's Of course, I can grow Greg for eons, but we won't do that.
+I just wanted to make a really quick point about Lee's photography. The fact that they are temporary really, to me defines them as photography, you know, because photography is so much about a moment and instance, the passage of time, all that sort of stuff. So that really does keep them in that genre. Even though my first take on them is that they're abstract paintings when I first look at them, you know, especially on a screen, but they are, they're totally photography. That's very cool.
 
-But anyway, what happens is that, but Lee, I'm. You know, known your work for a long time and good to get a good overview on it. And the thing is, is that I remember when Graham got that, you know, got that and started breaking it and that sort of thing. That was crazy. And then I used to do stuff with Rick DeCoy, you know, down in Philadelphia, you know, when, you know, with, so those were basically a lot of the people on the, you know, on the East Coast, you know, doing a lot of the fine art printing, which I, you know, which was great, really interesting at the time. But the thing is, is you bring up a really good point.
+With that, I'm out.
+
+## Davonte Bradley [01:27:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5252s)
+
+All right. We are actually, we only have about 30 ish minutes left. I know that Roz had a question, but she put her hand down earlier. Did you still want to speak Roz or no?
+
+## Roz Dimon [01:27:46](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5266s)
+
+Mine was real quick. I just wondered, thank you both of you. Really fascinating. I love the kind of totemic, kind of iconic pieces, Greg, at the end that you were doing. I mean, I think they're all from data, but they look like totems that you see, you know, of indigenous people. And just, they have some kind of universal beauty to them. I mean, both of these presentations had a visual language that I think concerns, well, most of us, certainly myself.
+
+Lee, quick question. I just noticed at the end of your piece, your presentation, that it looked like things were busting out of the rectangle. And I wondered if you're, what you're doing. I mean, we all work and look at it. We're all in rectangles right now. I mean, you know, I'm trying to think of the woman, maybe Dorothy Grace. I don't know if I'm saying the right name, but who, or maybe Elizabeth Murray, how she busted out of the rectangle. And I just wonder if that's somewhere you're going. So I saw little things coming out of the air.
+
+## Lee Musgrave [01:28:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5322s)
+
+When I was doing the light and space stuff on plexiglass, I created those same kinds of images. I'd have a border within a border within a border and pieces would be going out past the borders like that. But in the ones that you're talking about that I've made recently, I did that in the computer. The pieces that I actually photographed were inside the board, but using clone stamping and a number of other processes of bending and twisting the image, I pulled them outside of the border.
+
+## Roz Dimon [01:29:17](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5357s)
+
+Cool. Thanks.
+
+## Lee Musgrave [01:29:19](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5359s)
+
+I should tell you though, one of the criticisms I received back when I did them on plexiglass was the border within a border. A lot of the critics didn't like it. Why did you, why did you make that? Why did you paint the frame and the map to make an illusionistic frame? Why did you do that? Screw them. You know, yeah.
+
+## Unattributed [01:29:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5383s)
+
+I'm sorry.
+
+## Lee Musgrave [01:29:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5385s)
+
+I mentioned to you that each one of those plexiglass paintings had a clear area, an area left unpainted, right? So if you hung it on a blue wall, it would suddenly be blue in the middle.
+
+## Roz Dimon [01:29:57](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5397s)
+
+I love that.
+
+## Unattributed [01:29:58](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5398s)
+
+I love that.
+
+## Lee Musgrave [01:29:59](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5399s)
+
+I was playing with this illusion of space and depth and that's why I wanted to get past the border idea it just increased that well
+
+## Roz Dimon [01:30:09](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5409s)
+
+You know that's something with critics really quickly and we'll go on but you know that's why you're a critic you criticize so I mean I you know you get late you get land blasts that I figure you're doing something that they can get their hands on you know so a spark discussion somehow
+
+## Unattributed [01:30:24](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5424s)
+
+Actually I had a question yeah
+
+## Patrick Lichty [01:30:27](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5427s)
+
+I was actually about to get to you Patrick well let's Of course, I can grow Greg for eons, but we won't do that. But anyway, what happens is that, but Lee, I'm. You know, known your work for a long time and good to get a good overview on it. And the thing is, is that I remember when Graham got that, you know, got that and started breaking it and that sort of thing. That was crazy. And then I used to do stuff with Rick DeCoy, you know, down in Philadelphia, you know, when, you know, with, so those were basically a lot of the people on the, you know, on the East Coast, you know, doing a lot of the fine art printing, which I, you know, which was great, really interesting at the time. But the thing is, is you bring up a really good point.
 
 You know, so say, for example, like what I'd say is gallery engagement and gallery practice and things that happen in the gallery. Because the thing is, is that. You know, I've done a lot of things with the existing Fluxus artists and that sort of thing. And, and at Nagina and I used to be in Abu Dhabi and there was a show called Reinventing Downtown that NYU had. And it talked about, you know, how like the Johnson Street School and, you know, like, and, and Aldo Tambolini's space, that sort of thing. And just a lot of the spaces were doing just a lot of stuff that was just very, very, you know, very, you know, ad hoc. There were happenings and all that sort of thing. And, but this is what I think you're pointing at, you know, like with the early 90s stuff in which, you know, there are things in which there are practices which are creating work, you know, creating work in the gallery, you know, especially, you know, with technology and the art in the early 90s and into the mid 90s.
 
-And beyond. But the thing is, what do you think, you know, has changed the most as you see as far as, you know, artist engagement, you know. And what do you think has been lost and what do you think has been gained? I mean, that's a big question. I'm sorry. It's a good, it's a good question, but I think it veers away from what holds that question together and what holds the thing together is that commercial galleries are there to make money. Of course, the owner and the employee. And so when you've addressed something. Like this at them. That's the first thing that's in their mind. And I'm money from this. Can I sell this somehow? Yeah. You understand what I mean? Well, yeah. Yeah. And I mean, I'm not saying that they don't love art and they don't appreciate artists. I'm just saying that this is always in their head because they've got rent to pay.
+And beyond. But the thing is, what do you think, you know, has changed the most as you see as far as, you know, artist engagement, you know. And what do you think has been lost and what do you think has been gained? I mean, that's a big question. I'm sorry.
 
-They've got, of course, you know, if they think that whatever you're talking about is going to bring people in, especially new people, new collectors, you know. Then they might. Support it. Yeah, sure. Yeah. Yeah. So I think the thing is, is that, I mean, you know, I've shown a great deal. And I used to have a number of solo shows with a kind of an avant gallery in New Orleans called Barristers run by a guy named Andy Antipas, who unfortunately is probably not going to be with us much longer.
+## Lee Musgrave [01:32:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5561s)
+
+It's a good, it's a good question, but I think it veers away from what holds that question together and what holds the thing together is that commercial galleries are there to make money. Of course, the owner and the employee. And so when you've addressed something. Like this at them. That's the first thing that's in their mind. And I'm money from this. Can I sell this somehow?
+
+## Patrick Lichty [01:33:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5586s)
+
+Yeah.
+
+## Lee Musgrave [01:33:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5587s)
+
+You understand what I mean? Well, yeah. Yeah. And I mean, I'm not saying that they don't love art and they don't appreciate artists. I'm just saying that this is always in their head because they've got rent to pay.
+
+## Unattributed [01:33:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5598s)
+
+They've got, of course, you know,
+
+## Lee Musgrave [01:33:20](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5600s)
+
+If they think that whatever you're talking about is going to bring people in, especially new people, new collectors, you know. Then they might. Support it.
+
+## Patrick Lichty [01:33:30](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5610s)
+
+Yeah, sure. Yeah. Yeah. So I think the thing is, is that, I mean, you know, I've shown a great deal. And I used to have a number of solo shows with a kind of an avant gallery in New Orleans called Barristers run by a guy named Andy Antipas, who unfortunately is probably not going to be with us much longer.
 
 But what the thing is, is that, you know, he was very much for making sure that there was a, you know, a large body, you know, a large body of work. If you had a solo show, let's make sure that we have work there that we can sell. But the one thing is that the one thing that he always loved to do is he always loved to maybe not a demo because, you know, that's too pedantic. Right. So the thing is, is that maybe have some sort of happening in which you're making some making some piece, which then goes up at the end of the vernissage, you know. And so this is this is this is the sort of thing. That got my interest when you were talking about things. There was you've got, you know, galleries who got these sort of things. But then, you know, there are some galleries that, you know, want to have some sort of event, some sort of happening that tries to capture the imagination of the of the patrons and the collectors, that sort of thing to kind of suck them into the narrative, you know.
 
-And that's kind of where I was getting at. Yeah, I recently I've heard some big name collectors talk. About how at about NFTs coming into vogue. And most of them have mentioned that what they would really like to see is a video made of the artist making the NFT image because they recognize the NFT itself. They can't show it. They can't do anything with it, really. Whereas if they had a video of the artist making whatever. It was that's in the NFT. They could show that to other people. And believe me, collectors want to show off what they bought. Oh, heck, yeah.
+And that's kind of where I was getting at.
+
+## Lee Musgrave [01:34:51](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5691s)
+
+Yeah, I recently I've heard some big name collectors talk. About how at about NFTs coming into vogue. And most of them have mentioned that what they would really like to see is a video made of the artist making the NFT image because they recognize the NFT itself. They can't show it. They can't do anything with it, really. Whereas if they had a video of the artist making whatever. It was that's in the NFT. They could show that to other people. And believe me, collectors want to show off what they bought.
+
+## Patrick Lichty [01:35:39](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5739s)
+
+Oh, heck, yeah.
+
+## Lee Musgrave [01:35:41](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5741s)
 
 Yeah, you know, and by the way, do you guys know that somebody who stepped forward and set up a nonprofit to fund artists to make NFTs? You know who that is? You don't know. No, Paris Hilton. Paris Hilton has set up a nonprofit. Nonprofit organization to give grants to artists who can't afford to have NFTs made.
 
-Bravo, I think. That's different. That's very different. I'm incredibly shocked by this revelation, but good. Good on her. Sorry, I can't. I might have it here. I'm the name of the organization. Well, it is interesting. I mean, the whole it's we could spend a whole session probably on it. But the way the art scene is changing and, you know, alternative spaces versus commercial galleries. And that's why they exactly they're called commercial galleries. And sure, you can see some good work. But most of the most adventurous work is going to be in those places like, you know, a lot of us remember the alternative museum and in New York, you know, on Prince Street. I think it was. And some great stuff was going on. There and, you know, more funding for nonprofits. There's a one. I mean, the space where expressionism is showing the Arts Center, which in Southampton is a wonderful space.
+## Unattributed [01:36:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5767s)
 
-They've got some great shows. And I'm sure that the expression of the show will also be great. But it's a big topic, of course. Yeah. And New Museum used to be a lot more experimental than it was and then it is now. I mean, it's still a great space, but used to be a lot more experimental. Yeah, money has. I mean, it's. It's wonderful. But, you know.
+Bravo, I think. That's different.
 
-Well, we do have one last question. We do have one last question, though, that I'd like to get to. I know Cynthia has probably been waiting for a little bit now. My question. My question keeps changing, actually. The discussion is really wonderful and I'm really happy to be here. And in talking about commercial spaces and other kinds of spaces, as people know, who know me, know that. I basically avoided the gallery scene most of my career and showed it through SIGGRAPH and IZEA and various organizations. But those aren't so available to new media people who cross boundaries right now because they are so much looking for the bleeding edge that I find myself, even though I'm still in leadership roles in those organizations because I like finding out what's being developed.
+## Davonte Bradley [01:36:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5778s)
+
+That's very different. I'm incredibly shocked by this revelation, but good. Good on her.
+
+## Lee Musgrave [01:36:26](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5786s)
+
+Sorry, I can't. I might have it here. I'm the name of the organization. Well,
+
+## Roz Dimon [01:36:34](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5794s)
+
+It is interesting. I mean, the whole it's we could spend a whole session probably on it. But the way the art scene is changing and, you know, alternative spaces versus commercial galleries. And that's why they exactly they're called commercial galleries. And sure, you can see some good work. But most of the most adventurous work is going to be in those places like, you know, a lot of us remember the alternative museum and in New York, you know, on Prince Street. I think it was. And some great stuff was going on. There and, you know, more funding for nonprofits. There's a one. I mean, the space where expressionism is showing the Arts Center, which in Southampton is a wonderful space. They've got some great shows. And I'm sure that the expression of the show will also be great. But it's a big topic, of course.
+
+Yeah.
+
+## Patrick Lichty [01:37:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5838s)
+
+And New Museum used to be a lot more experimental than it was and then it is now. I mean, it's still a great space, but used to be a lot more experimental.
+
+## Roz Dimon [01:37:26](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5846s)
+
+Yeah, money has. I mean, it's. It's wonderful. But, you know.
+
+## Unattributed [01:37:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5852s)
+
+Well, we do have one last question.
+
+## Davonte Bradley [01:37:35](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5855s)
+
+We do have one last question, though, that I'd like to get to. I know Cynthia has probably been waiting for a little bit now.
+
+## Unattributed [01:37:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5863s)
+
+My question.
+
+## Cynthia Beth Rubin [01:37:44](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5864s)
+
+My question keeps changing, actually. The discussion is really wonderful and I'm really happy to be here. And in talking about commercial spaces and other kinds of spaces, as people know, who know me, know that. I basically avoided the gallery scene most of my career and showed it through SIGGRAPH and IZEA and various organizations. But those aren't so available to new media people who cross boundaries right now because they are so much looking for the bleeding edge that I find myself, even though I'm still in leadership roles in those organizations because I like finding out what's being developed.
 
 I've gone back to. What I see. Lee and Greg doing this is this in and out of the computer. Now, having been trained as a painter and putting things in and out of the computer. So this is mostly become now just an observation of how wonderful that is. But it does bring me a little bit in some of what you're talking about. I was recently part of a discussion here in New Haven where I live about cultural equity and it included poets and writers as well as visual artists. And the people who organize it was wonderful. It was one of the best events. But tackling the issue of cultural equity when people need access to materials is still a really big challenge. So I just want to say I wrote to the director of cultural affairs and said we have to work with television stations and get artists residencies and television stations and various companies that have something.
 
-So I just any responses on that. Just want to say. I'm going to turn a little bit of that. Now, this was it was really great. So I'm just going to shut up. You're fine. You're fine. Thank you. Okay. Yeah. And thank you for coming. Yeah. Good to see you. Yeah. My dear friend. Yes. I mean, I know I've known many of the people here for a very long time. And we I'm not sure you're the oldest person. But I was actually going to comment on that because I was curious myself after he said. I was like, is that actually the case or. I'm going to tell you because I'm not ashamed of it.
+So I just any responses on that. Just want to say. I'm going to turn a little bit of that. Now, this was it was really great. So I'm just going to shut up.
+
+## Unattributed [01:39:35](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5975s)
+
+You're fine.
+
+## Patrick Lichty [01:39:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5976s)
+
+You're fine.
+
+## Unattributed [01:39:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5976s)
+
+Thank you.
+
+## Cynthia Beth Rubin [01:39:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5977s)
+
+Okay.
+
+## Patrick Lichty [01:39:39](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5979s)
+
+Yeah. And thank you for coming. Yeah.
+
+## Cynthia Beth Rubin [01:39:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5982s)
+
+Good to see you.
+
+## Roz Dimon [01:39:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5983s)
+
+Yeah. My dear friend.
+
+## Cynthia Beth Rubin [01:39:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5985s)
+
+Yes. I mean, I know I've known many of the people here for a very long time. And we I'm not sure you're the oldest person.
+
+## Davonte Bradley [01:39:53](https://www.youtube.com/watch?v=mA3da8lu0iU&t=5993s)
+
+But I was actually going to comment on that because I was curious myself after he said. I was like, is that actually the case or.
+
+## Unattributed [01:40:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6001s)
+
+I'm going to tell you because I'm not ashamed of it.
+
+## Cynthia Beth Rubin [01:40:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6006s)
 
 Maybe you are. But I did see the show at the Brooklyn Museum in 1968. Oh, good. How did you like it? I loved it. Well, actually, I was working at the Brooklyn Museum and the gift shop at the time. And so I could go every day as I went to lunch. I would see a different part of it. Yeah. I really don't remember it that well. I just remember, you know, being thrilled with it. And who knows what led. I mean, there are a lot of things to talk about how I got into the computer in the early 80s. I mean, the mechanical things that happened and made me pull Greg into it, too.
 
-But maybe seeing the Eat Show had a lot to do with it. It made me open. Think about it this way. I was born during World War Two. Okay. You beat me. All right, folks. I think we can kind of wrap up the Q&A session a little bit because there are a couple of things, a couple people actually wanted to share before the meeting inevitably came to its conclusion.
+But maybe seeing the Eat Show had a lot to do with it. It made me open.
 
-Jan Swinburne has something that she wanted to share with us. It looks like an event that's going to be conducted over Twitch. I'm not sure if you want to speak a little bit about that. Hi, everyone. Just a quick plug. It's coming up on Sunday. It's Queering Sound. One of the streams that I work in is kind of the visual experimental arts.
+## Lee Musgrave [01:40:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6054s)
 
-I'm sorry? 45 minutes. Oh. Okay. Okay. All right. So, yes, I just wanted to let people know that I've got a couple of videos coming up, and it's a really wonderful organization. And if anyone is interested, I can paste in the details in the chat here and now. And if you're into it, that's cool. And that's basically the plug for that group, Rhythome DC.
+Think about it this way. I was born during World War Two.
 
-And they're a wonderful organization. So I just wanted to support them as well. The artists usually end up donating their funds to various charitable causes as well. So here you go. Let's see if I can paste this in. Okay. Where's your info? Yep. And just so you guys know, I will actually, because I haven't been doing this as much as I should have, but I'm going to share, like, the chat log on Discord. So it will be available as a downloadable file so that, you know, any links or anything that are shared, you can consult after the meeting. I would encourage you guys to share stuff like that to the Facebook group, too. Yep. As well. You know, we've got a bunch of channels, Facebook group, the Discord, all that stuff. You know, you could all feel free to share your own personal sort of events and what you have going on to the group there as well.
+## Cynthia Beth Rubin [01:40:58](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6058s)
 
-And there, you know, that's going to be also visible to other people. Speaking of things that people have things to share, Colin. Yeah. So I just wanted to put something out there. Actually, a client of mine, a design client of mine popped in. I invited her into the chat. She was the one who came to the meeting. And she actually, you know, is a, I guess a VP or something of a small liberal arts college on Long Island. She wanted me to put it out there that they're actually looking for a chair for their interactive computer graphics program. And, you know, if you guys, anyone's interested or know a colleague who may be interested, you know, she asked me if I'd pass that on, put that out there. I could, you know, if you shoot me a contact directly, I'll send you the details about the institution and the program, but they're looking for, yeah, interactive computer graphics chair, as well as adjuncts and also instructors for their film and video programs.
+Okay. You beat me.
 
-So she likes what we're doing here with Techspressionism. And yeah, you guys know anyone looking to jump into an academic position and have an interest in Long Island. Just, you know, drop me a line. All right. That's it. All right. And there's one more thing that I believe Darcy wanted to share before, before we wrap things up. I think she had a VR space that she's got.
+## Davonte Bradley [01:41:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6066s)
 
-Yes, no, I get that right. Yeah, I just wanted to say that I have a VR space that's actually a big art exhibition. It was created for BRC VR 2020 and it's still up. We've added a bunch of things to it. We've got a composer that we're working with now who's putting some spatial sound into some of these 3D sculptures. We thought it would be fun since I had horses all my life to put some horses in there so we can ride horses around in this VR world and fly around and look at art on horseback if we want to.
+All right, folks. I think we can kind of wrap up the Q&A session a little bit because there are a couple of things, a couple people actually wanted to share before the meeting inevitably came to its conclusion. Jan Swinburne has something that she wanted to share with us. It looks like an event that's going to be conducted over Twitch.
+
+I'm not sure if you want to speak
+
+## Jan Swinburne [01:41:35](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6095s)
+
+A little bit about that. Hi, everyone. Just a quick plug. It's coming up on Sunday. It's Queering Sound. One of the streams that I work in is kind of the visual experimental arts. I'm sorry?
+
+## Unattributed [01:41:53](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6113s)
+
+45 minutes. Oh.
+
+## Jan Swinburne [01:41:56](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6116s)
+
+Okay. Okay. All right. So, yes, I just wanted to let people know that I've got a couple of videos coming up, and it's a really wonderful organization. And if anyone is interested, I can paste in the details in the chat here and now. And if you're into it, that's cool. And that's basically the plug for that group, Rhythome DC.
+
+And they're a wonderful organization. So I just wanted to support them as well. The artists usually end up donating their funds to various charitable causes as well. So here you go. Let's see if I can paste this in. Okay. Where's your info?
+
+## Davonte Bradley [01:42:57](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6177s)
+
+Yep. And just so you guys know, I will actually, because I haven't been doing this as much as I should have, but I'm going to share, like, the chat log on Discord. So it will be available as a downloadable file so that, you know, any links or anything that are shared, you can consult after the meeting.
+
+## Colin Goldberg [01:43:15](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6195s)
+
+I would encourage you guys to share stuff like that to the Facebook group, too. Yep. As well. You know, we've got a bunch of channels, Facebook group, the Discord, all that stuff. You know, you could all feel free to share your own personal sort of events and what you have going on to the group there as well. And there, you know, that's going to be also visible to other people.
+
+## Davonte Bradley [01:43:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6217s)
+
+Speaking of things that people have things to share, Colin.
+
+## Colin Goldberg [01:43:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6222s)
+
+Yeah. So I just wanted to put something out there. Actually, a client of mine, a design client of mine popped in. I invited her into the chat. She was the one who came to the meeting. And she actually, you know, is a, I guess a VP or something of a small liberal arts college on Long Island. She wanted me to put it out there that they're actually looking for a chair for their interactive computer graphics program. And, you know, if you guys, anyone's interested or know a colleague who may be interested, you know, she asked me if I'd pass that on, put that out there. I could, you know, if you shoot me a contact directly, I'll send you the details about the institution and the program, but they're looking for, yeah, interactive computer graphics chair, as well as adjuncts and also instructors for their film and video programs.
+
+So she likes what we're doing here with Techspressionism. And yeah, you guys know anyone looking to jump into an academic position and have an interest in Long Island. Just, you know, drop me a line.
+
+## Unattributed [01:44:46](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6286s)
+
+All right. That's it.
+
+## Davonte Bradley [01:44:49](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6289s)
+
+All right. And there's one more thing that I believe Darcy wanted to share before, before we wrap things up. I think she had a VR space that she's got. Yes, no, I get that right.
+
+## Darcy Gerbarg [01:45:07](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6307s)
+
+Yeah, I just wanted to say that I have a VR space that's actually a big art exhibition. It was created for BRC VR 2020 and it's still up. We've added a bunch of things to it. We've got a composer that we're working with now who's putting some spatial sound into some of these 3D sculptures. We thought it would be fun since I had horses all my life to put some horses in there so we can ride horses around in this VR world and fly around and look at art on horseback if we want to.
 
 So we could organize an event with Techspressionism and people could just sign up and come and see it. I don't know if they're interested or people can just contact me individually and we could set up a time to come see it. It's kind of hard to find anything in all space VR unless you've been there once.
 
-But I'm happy to help anybody come visit who would like to visit. All right. And I want to add that I just did an interview, Techspressionism interview with Darcy and it's at Techspressionism.com. So please go check it out. Please do. It was a lot of fun. Thank you very much. Thank you. Thanks so much for joining us on EGROWZ. That was a lot of fun. It was fun. Very interesting. Yeah. It was fun. Yeah. And Darcy I would encourage you and anyone else who wants to organize an event to reach out to whoever's involved with this thing to use the Facebook group and other things. If you want to create an event that people could then register for and all have it be a public thing. Those platforms are good because once they're posted there the information is posted there it could be shared you know and it's accessible sort of you know it's not what do you call it like it doesn't there's another there's another platform that I have an art exhibition and it's a little more traditional it's still vr and that's called art gate which is an organization that is really for galleries to be able to have virtual reality galleries also in alt space but it's a different completely different group in different world and the gallery spaces are a little more traditional but there are more and more of these kinds of opportunities for people who do want to make art and vr and who want to show their work at vr nice awesome oh and one other thing I wanted to put out there to the group and this is something that I set up a little while ago is I created a an essays page on the site that right now just has anne's essay for the nft now show but there's a link to a forum like if any of you guys write and you're interested in contributing some sort of writing piece you know like my vision for the southampton art center show is to have some sort of a printed piece you know like paul dj spooky you know is encouraging me to try to develop it into a book project I don't know if the timeline really like is it's if that's realistic but it could certainly be like a catalog whether it's you know a smaller catalog that's print on demand or printed you know but one component of that I'd really like to see if we can make happen is an anthology of essays you know dealing with Techspressionism as something viewed from a first person standpoint that is you know I had a really interesting conversation with one of the artists you know the other day yesterday actually and he was saying how you know this experience of like meeting up online and interacting with other artists has changed his practice or you know informed sort of like the way that he's been going through the process of like you know creating his own work and you know I think that's really interesting and I think that's really interesting you know and like really like you know one of my main goals with this project is to bring the term into common usage and I feel like that there's no shortage of visual content out there I mean you know on the Instagram feed like if you search on the hashtag there's a constant stream of people tagging their images with Techspressionism but what there is a scarcity of is like you know intelligent writing around the topic which I think is a really important thing to do and I think that's you know we would all benefit from and certainly everyone's viewpoint is as valid as anyone else's I mean that's kind of my I agree I agree colin as I'm working on a few things when we initially you know discuss this thing you know a few weeks ago and that sort of thing is you know as possibly coming after south hampton I really think that you know your idea for you know pulling it forward to south hampton you know I think would really be a synergy that you know pulls things together you know in a in a in a much greater impact and that sort of thing so yeah I also agree and I mean the thing is that there's a book called art and theory from 1900 to 2000 there's another one there's a shorter one you know that's into the 2000s but the thing is that you know if you look at a lot of artists you know they're the ones who basically theorize their own you know their own you know their own movements and you know you have people like malevich and kim dinsky and you know all you know you know just talking about you know what they're doing and the thing is I think this is really a golden opportunity you know for us to you know frame ourselves within you know the scaffold with history and I think that's you know and you know and that's and that's the thing and you know be you know have paul miller in that in that in that you know hopefully maybe you know this is just an amazing amazing opportunity for all of us I think you're gonna have to be careful in the writing not to intimidate people it's art is already intimidating to the masses as it is now you're throwing in a lot of technical things it has a tendency to frighten people well I mean the thing is that I mean if you look at a lot of these a lot of these books you know and I mean you know they all have different configurations you know I mean the thing is that there are you know their essays written from a first you know from a first person perspective there's written things from a an academic perspective there's ones written almost from a you know almost an alliterative you know perspective and I think the thing is that you know with southampton and the fall show that's coming up and that sort of things I really think that with you know showing that it's showing the breadth of Techspressionist and that sort of thing is I, I really think that, you know, the idea of having as many different sorts of voices is going to, it would be really a rich thing.
+But I'm happy to help anybody come visit who would like to visit.
 
-Yeah. I think, I think that this is a way to break what Lee just said, kind of break through that wall where people do have perceptions of what technology-based artists do or don't do. And just in today's examples, I mean, and, and through all of our salons, there's a real personal aesthetic that each one of us has, but we're using technology. And I think this is a way to demystify or deprogram people from thinking that it's something too technical to understand, or that there's no soul to the artwork. Sure. This is why Disney called his department Imagineering.
+## Unattributed [01:46:00](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6360s)
 
-That's what it was. It was all computers in there. Everything they showed me was, was a computer one way or the other, but the sign on the door said Imagineering. Sometimes you just have to reframe something just so that, you know, people would have come to it with a different perspective. It's like make it more approachable or accessible. And it's literally just a case of just rebranding it to something that they're more familiar with so that they have that reference point.
+All right.
 
-But yeah, absolutely. I think you'd be able to reach that point pretty easily with people under 30. But if you're talking about major collectors, you're going to have a hard time. Right. I, I sort of want to, I just want to toss this out there, but I think it's a good point. But I, my feeling in a sense is the opposite. I think that we need to remystify the use of technology and art, because I think the masses kind of see it as basically as entertainment. You know, that's what they're, they're seeing all the really cool 3d animations and all that kind of stuff. And I think it actually needs to be remystified rather than demystified.
+## Roz Dimon [01:46:00](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6360s)
 
-That's, that's my thought. I mean, part of this whole thing for me is that when, when I was at Bowling Green with you, you know, as a graduate advisor, I saw that digital art had become a term that, you know, included Pixar and grand theft auto and things like that, where I couldn't identify with it anymore as an artist and also being trained as a painter initially, you know, using a computer as one component of my work, but it's not how I define my work. So to me, expressionism is something where, you know, technology touches the work, but it's not that the work is about technology necessarily. It might be, you know what I mean? But, but I think it's, you know, it's, it's, it's, I'm not going to say it's an arbitrary term. It's sort of, you know, this portmanteau or whatever, but in a sense, it's something that it's something that needs to be filled in that digital art and new media art.
+And I want to add that I just did an interview, Techspressionism interview with Darcy and it's at Techspressionism.com. So please go check it out.
 
-Don't, don't scratch that itch for me in the same way that, you know, they, they don't really satisfy. I think a lot of what's out there, you know, that's just my take on it. I think, I think, I think something that's very interesting is, is that there's a, you know, there, there's a, there's a fluxes fest every year, you know, in the United States. Well, actually it was in South America last year. And the thing is, is that, you know, while their historians argue that, you know, fluxes died with matureness in 1972 is the fact that, you know, the tradition and the, the sets of practices, you know, still live on. And I think this is exactly what we're, we, you know, who we are with, to expressionism, you know? So in other words, you know, this is sort of like, you know, what X, what is expressionism now, you know, in the, in, in the age of, in the age of, in the age of high technology, you know what I mean?
+## Unattributed [01:46:11](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6371s)
 
-So, yeah. Well, I see your work coming up in Google alerts. Cause I have Google alerts set up for Techspressionism and Techspressionists. So every time Google indexes anything with those terms, Oh, there's Patrick. It's in the title of a new one of his pieces. You know what I mean? This is a, this is an SEO opportunity for all of us. Yeah. I'm, I'm, you know, I'm, I'm, I'm, I'm, I'm, I'm rolling with the SEO, my man. I'm rolling with it.
+Please do. It was a lot of fun.
 
-All that being said though, sorry. Don't mean to cut you off. Sorry. No, you should read my essay that I wrote while I was at bowling green on, 3d animation and the aesthetics of denial. You might find it interesting in this regard. Yeah. Sorry. Plugging. Send me a link. I will. Absolutely. All right, folks. We're actually a, a little bit over, our projected, our time sitting at 4 0 2 PM. Yeah. The discussion has been great. This was very lively. Thank you so much. Yeah. It can, it can keep going. It's just that, you know, we want to wrap it up at around two hours. So that being said, thank you for stopping by. Thank you for the wonderful presentations, Lee and Greg. And then from the rest of you with your questions, with, with the discussion and comments about the presentations, all wonderful.
+## Roz Dimon [01:46:12](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6372s)
 
-And this, the space would not be what it is without you guys. So very much. Yeah. Really good conversations. Yep. So we'll, we'll give ourselves a round of applause. Thank you. And we'll close things out. So you Dava. Yep. You're welcome. Bye everybody. See ya. Bye. Bye. Thank you. Dava. Yep.
+Thank you very much. Thank you. Thanks so much for joining us on EGROWZ. That was a lot of fun. It was fun. Very interesting.
+
+## Darcy Gerbarg [01:46:16](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6376s)
+
+Yeah. It was fun.
+
+## Colin Goldberg [01:46:17](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6377s)
+
+Yeah. And Darcy I would encourage you and anyone else who wants to organize an event to reach out to whoever's involved with this thing to use the Facebook group and other things. If you want to create an event that people could then register for and all have it be a public thing. Those platforms are good because once they're posted there the information is posted there it could be shared you know and it's accessible sort of you know it's not what do you call it like it doesn't there's
+
+## Darcy Gerbarg [01:46:52](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6412s)
+
+Another there's another platform that I have an art exhibition and it's a little more traditional it's still vr and that's called art gate which is an organization that is really for galleries to be able to have virtual reality galleries also in alt space but it's a different completely different group in different world and the gallery spaces are a little more traditional but there are more and more of these kinds of opportunities for people who do want to make art and vr and who want to show their work at vr
+
+## Colin Goldberg [01:47:24](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6444s)
+
+Nice awesome oh and one other thing I wanted to put out there to the group and this is something that I set up a little while ago is I created a an essays page on the site that right now just has anne's essay for the nft now show but there's a link to a forum like if any of you guys write and you're interested in contributing some sort of writing piece you know like my vision for the southampton art center show is to have some sort of a printed piece you know like paul dj spooky you know is encouraging me to try to develop it into a book project I don't know if the timeline really like is it's if that's realistic but it could certainly be like a catalog whether it's you know a smaller catalog that's print on demand or printed you know but one component of that I'd really like to see if we can make happen is an anthology of essays you know dealing with Techspressionism as something viewed from a first person standpoint that is you know I had a really interesting conversation with one of the artists you know the other day yesterday actually and he was saying how you know this experience of like meeting up online and interacting with other artists has changed his practice or you know informed sort of like the way that he's been going through the process of like you know creating his own work and you know I think that's really interesting and I think that's really interesting you know and like really like you know one of my main goals with this project is to bring the term into common usage and I feel like that there's no shortage of visual content out there I mean you know on the Instagram feed like if you search on the hashtag there's a constant stream of people tagging their images with Techspressionism but what there is a scarcity of is like you know intelligent writing around the topic which I think is a really important thing to do and I think that's you know we would all benefit from and certainly everyone's viewpoint is as valid as anyone else's I mean that's kind of my
+
+## Patrick Lichty [01:49:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6558s)
+
+I agree I agree colin as I'm working on a few things when we initially you know discuss this thing you know a few weeks ago and that sort of thing is you know as possibly coming after south hampton I really think that you know your idea for you know pulling it forward to south hampton you know I think would really be a synergy that you know pulls things together you know in a in a in a much
+
+## Unattributed [01:49:43](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6583s)
+
+Greater
+
+## Patrick Lichty [01:49:44](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6584s)
+
+Impact and that sort of thing so yeah I also agree and I mean the thing is that there's a book called art and theory from 1900 to 2000 there's another one there's a shorter one you know that's into the 2000s but the thing is that you know if you look at a lot of artists you know they're the ones who basically theorize their own you know their own you know their own movements and you know you have people like malevich and kim dinsky and you know all you know you know just talking about you know what they're doing and the thing is I think this is really a golden opportunity you know for us to you know frame ourselves within you know the scaffold with history and I think that's you know and you know and that's and that's the thing and you know be you know have paul miller in that in that in that you know hopefully maybe you know this is just an amazing amazing opportunity for all of us I think
+
+## Lee Musgrave [01:50:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6645s)
+
+You're gonna have to be careful in the writing not to intimidate people it's art is already intimidating to the masses as it is now you're throwing in a lot of technical things it has
+
+## Patrick Lichty [01:51:01](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6661s)
+
+A tendency to frighten people well I mean the thing is that I mean if you look at a lot of these a lot of these books you know and I mean you know they all have different configurations you know I mean the thing is that there are you know their essays written from a first you know from a first person perspective there's written things from a an academic perspective there's ones written almost from a you know almost an alliterative you know perspective and I think the thing is that you know with southampton and the fall show that's coming up and that sort of things I really think that with you know showing that it's showing the breadth of Techspressionist and that sort of thing is I, I really think that, you know, the idea of having as many different sorts of voices is going to, it would be really a rich thing.
+
+## Michael Pierre Price [01:51:54](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6714s)
+
+Yeah. I think, I think that this is a way to break what Lee just said, kind of break through that wall where people do have perceptions of what technology-based artists do or don't do. And just in today's examples, I mean, and, and through all of our salons, there's a real personal aesthetic that each one of us has, but we're using technology. And I think this is a way to demystify or deprogram people from thinking that it's something too technical to understand, or that there's no soul to the artwork.
+
+## Lee Musgrave [01:52:40](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6760s)
+
+Sure. This is why Disney called his department Imagineering. That's what it was. It was all computers in there. Everything they showed me was, was a computer one way or the other, but the sign on the door said Imagineering.
+
+## Davonte Bradley [01:52:59](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6779s)
+
+Sometimes you just have to reframe something just so that, you know, people would have come to it with a different perspective. It's like make it more approachable or accessible. And it's literally just a case of just rebranding it to something that they're more familiar with so that they have that reference point.
+
+But yeah, absolutely.
+
+## Unattributed [01:53:21](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6801s)
+
+I think you'd be
+
+## Lee Musgrave [01:53:23](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6803s)
+
+Able to reach that point pretty easily with people under 30. But if you're talking about major collectors, you're going to have a hard time. Right.
+
+## Gregory Little [01:53:37](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6817s)
+
+I, I sort of want to, I just want to toss this out there, but I think it's a good point. But I, my feeling in a sense is the opposite. I think that we need to remystify the use of technology and art, because I think the masses kind of see it as basically as entertainment. You know, that's what they're, they're seeing all the really cool 3d animations and all that kind of stuff. And I think it actually needs to be remystified rather than demystified.
+
+That's, that's my thought.
+
+## Colin Goldberg [01:54:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6843s)
+
+I mean, part of this whole thing for me is that when, when I was at Bowling Green with you, you know, as a graduate advisor, I saw that digital art had become a term that, you know, included Pixar and grand theft auto and things like that, where I couldn't identify with it anymore as an artist and also being trained as a painter initially, you know, using a computer as one component of my work, but it's not how I define my work. So to me, expressionism is something where, you know, technology touches the work, but it's not that the work is about technology necessarily. It might be, you know what I mean? But, but I think it's, you know, it's, it's, it's, I'm not going to say it's an arbitrary term. It's sort of, you know, this portmanteau or whatever, but in a sense, it's something that it's something that needs to be filled in that digital art and new media art.
+
+Don't, don't scratch that itch for me in the same way that, you know, they, they don't really satisfy. I think a lot of what's out there, you know, that's just my take on it.
+
+## Patrick Lichty [01:55:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6903s)
+
+I think, I think, I think something that's very interesting is, is that there's a, you know, there, there's a, there's a fluxes fest every year, you know, in the United States. Well, actually it was in South America last year. And the thing is, is that, you know, while their historians argue that, you know, fluxes died with matureness in 1972 is the fact that, you know, the tradition and the, the sets of practices, you know, still live on. And I think this is exactly what we're, we, you know, who we are with, to expressionism, you know? So in other words, you know, this is sort of like, you know, what X, what is expressionism now, you know, in the, in, in the age of, in the age of, in the age of high technology,
+
+## Colin Goldberg [01:55:42](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6942s)
+
+You know what I mean? So, yeah. Well, I see your work coming up in Google alerts. Cause I have Google alerts set up for Techspressionism and Techspressionists. So every time Google indexes anything with those terms, Oh, there's Patrick. It's in the title of a new one of his pieces. You know what I mean? This is a, this is an SEO opportunity for all of us.
+
+## Unattributed [01:56:03](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6963s)
+
+Yeah. I'm,
+
+## Patrick Lichty [01:56:06](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6966s)
+
+I'm, you know, I'm, I'm, I'm, I'm, I'm, I'm rolling with the SEO, my man. I'm rolling with it.
+
+## Davonte Bradley [01:56:14](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6974s)
+
+All that being said though, sorry. Don't mean to cut you off. Sorry.
+
+## Gregory Little [01:56:19](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6979s)
+
+No, you should read my essay that I wrote while I was at bowling green on, 3d animation and the aesthetics of denial. You might find it interesting in this regard. Yeah. Sorry. Plugging.
+
+## Colin Goldberg [01:56:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6992s)
+
+Send me a link. I will. Absolutely.
+
+## Davonte Bradley [01:56:36](https://www.youtube.com/watch?v=mA3da8lu0iU&t=6996s)
+
+All right, folks. We're actually a, a little bit over, our projected, our time sitting at 4 0 2 PM.
+
+## Patrick Lichty [01:56:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7005s)
+
+Yeah.
+
+## Davonte Bradley [01:56:45](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7005s)
+
+The discussion has been great.
+
+## Unattributed [01:56:47](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7007s)
+
+This was very lively.
+
+## Patrick Lichty [01:56:49](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7009s)
+
+Thank you so much. Yeah.
+
+## Davonte Bradley [01:56:50](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7010s)
+
+It can, it can keep going. It's just that, you know, we want to wrap it up at around two hours. So that being said, thank you for stopping by. Thank you for the wonderful presentations, Lee and Greg. And then from the rest of you with your questions, with, with the discussion and comments about the presentations, all wonderful.
+
+And this, the space would not be what it is without you guys. So very much.
+
+## Unattributed [01:57:18](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7038s)
+
+Yeah. Really good conversations. Yep.
+
+## Davonte Bradley [01:57:23](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7043s)
+
+So we'll, we'll give ourselves a round of applause.
+
+## Lee Musgrave [01:57:27](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7047s)
+
+Thank you.
+
+## Davonte Bradley [01:57:28](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7048s)
+
+And we'll close things out. So you Dava. Yep.
+
+## Unattributed [01:57:32](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7052s)
+
+You're welcome.
+
+## Gregory Little [01:57:33](https://www.youtube.com/watch?v=mA3da8lu0iU&t=7053s)
+
+Bye everybody. See ya. Bye. Bye. Thank you. Dava. Yep.
