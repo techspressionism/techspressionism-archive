@@ -2369,16 +2369,16 @@ def build_actions_and_cite(entry, link_to=None):
     dl_select = download_select_html(entry)
     if link_to is None:
         read_actions = ('<div class="read-actions" id="read-actions" data-pagefind-ignore>'
-                         '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>'
-                         '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button></div>')
+                         '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>'
+                         '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button></div>')
         watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
                     f'<button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; '
                     f'{dl_select}</p>')
     else:
         target = e(link_to)
         read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
-                         f'<a class="read-btn" href="{target}">Read transcript</a>'
-                         f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a></div>')
+                         f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a>'
+                         f'<a class="read-btn" href="{target}">Read transcript</a></div>')
         watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
                     f'<a href="{e(transcript_pdf_href(entry))}">Print transcript (PDF)</a> &#47;&#47; '
                     f'{dl_select}</p>')
