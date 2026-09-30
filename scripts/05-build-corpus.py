@@ -775,19 +775,25 @@ def process_session(session, artists, vocab_terms, review_rows):
         print(f"{label(session)}: no usable transcript source ({source}), skipping corpus build")
         return None
 
-    # turns the machine left Unattributed can be settled by hand (TextReview: "Who is speaking?" -> data/speaker-fixes/<slug>.json)
+    # turns the machine left Unattributed can be settled by hand (TextReview: "Who is speaking?" -> data/speaker-fixes/<slug>.json).
+    # A fix with "override": true also replaces an already-attributed turn's speaker, not just a blank one -- used
+    # by scripts/import-edited-transcript.py for a volunteer editor's attribution correction (e.g. the machine/an
+    # earlier pass named the wrong person), not just filling in an Unattributed gap.
     fixes_path = ROOT / "data" / "speaker-fixes" / f"{slug(session)}.json"
     if fixes_path.exists():
         by_hand = json.loads(fixes_path.read_text()).get("fixes", [])
         n_fixed = 0
         for seg in segments:
-            if seg.get("speaker") or seg.get("start") is None:
+            if seg.get("start") is None:
                 continue
             for f in by_hand:
-                if f.get("speaker") and abs(float(seg["start"]) - float(f["t"])) <= 1.5:
-                    seg["speaker"] = f["speaker"]
-                    n_fixed += 1
-                    break
+                if not f.get("speaker") or abs(float(seg["start"]) - float(f["t"])) > 1.5:
+                    continue
+                if seg.get("speaker") and not f.get("override"):
+                    continue
+                seg["speaker"] = f["speaker"]
+                n_fixed += 1
+                break
         if n_fixed:
             print(f"  {n_fixed} unattributed turn(s) set by hand (data/speaker-fixes)")
 

@@ -648,6 +648,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
 .read-btn:hover { background:#5f5f5f; border-color:#5f5f5f; }
+@media (max-width:44.99rem) { .read-btn, .watch-btn { padding:.55rem .5rem; font-size:.88rem; border-width:1.5px; } }   /* phone: less chunky, per Colin 2026-09-30 -- still a real tap target (about 38-40px tall with this padding+line-height), just not as tall as the desktop size */
 .js .read-actions { display:flex; gap:.6rem; }   /* scrolls with the rest of the content, per Colin -- no longer locked to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
@@ -665,6 +666,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .print-btn { font:inherit; font-size:inherit; color:#000; background:none; border:none; text-decoration:underline; cursor:pointer; padding:0; }
 .print-btn:hover, .print-btn:focus-visible { color:var(--accent); }
 .watch-yt a { color:#000; text-decoration:underline; }   /* sitewide links skip the underline and rely on the accent color instead, but these are recolored to plain black (matching this line's surrounding text/buttons) -- without it they were indistinguishable from plain text now that this line mixes links, a button, and plain "//" separators */
+.dl-select { margin-left:.3rem; padding:.1rem .3rem; font:inherit; font-size:.95rem; color:#000; background:#fff; border:1px solid var(--line); border-radius:.25rem; }
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
 .watch-next ul { list-style:none; margin:0; padding:0; max-height:calc(100vh - 6rem); overflow-y:auto; scrollbar-width:thin; border-top:1px solid var(--line); }
@@ -2071,10 +2073,34 @@ def build_watch_next(entry, siblings):
     return f'<aside class="watch-next" data-pagefind-ignore><h2>All {e(info["plural"])}</h2><ul>' + "".join(rows) + "</ul></aside>"
 
 
+def hhmmss_full(seconds):
+    """Always H:MM:SS with the hour present and everything zero-padded (unlike hhmmss(), which drops a
+    leading 0 hour) -- so a downloaded transcript's turn timecodes parse back unambiguously via
+    import-edited-transcript.py regardless of a recording's length."""
+    seconds = int(seconds or 0)
+    h, rem = divmod(seconds, 3600)
+    m, s = divmod(rem, 60)
+    return f"{h:02d}:{m:02d}:{s:02d}"
+
+
+EDITOR_INSTRUCTIONS = (
+    "This transcript includes a timecode before each speaker's name, e.g. [00:06:12] Name. "
+    "These are for reference only (to locate a passage in the recording) and will not appear on the "
+    "archive website. In the TRANSCRIPT section below: edit the text freely -- fix wording, punctuation, "
+    "or errors -- and correct a speaker's name if it's wrong. Please do not change or remove the "
+    "timecodes themselves, and please keep each turn's paragraph breaks as they are. The Synopsis and "
+    "Participants sections above are included for context only -- they are not editable here; edits made "
+    "there will not be applied. To submit your edits, save/export this as the TXT format and send that "
+    "file back.")
+
+
 def transcript_report_blocks(entry):
-    """The content of a recording's downloadable transcript (DOCX/PDF) and the printed page, as plain content
-    blocks -- [(kind, text)], kind one of "title"/"meta"/"h2"/"speaker"/"p" -- independent of any markup format,
-    consumed by both write_docx() and write_pdf()."""
+    """The content of a recording's downloadable transcript (DOCX/PDF/TXT), as plain content blocks --
+    [(kind, text)], kind one of "title"/"meta"/"note"/"h2"/"speaker"/"p" -- independent of any markup
+    format, consumed by write_docx()/write_pdf()/write_txt(). Every turn gets its own [H:MM:SS] Name
+    heading (not merged across consecutive same-speaker turns, per Colin 2026-09-30): the timecode is
+    also how a downloaded-and-edited TXT copy is matched back to the corpus by
+    scripts/import-edited-transcript.py, so every turn needs one, not just the first of a run."""
     blocks = [("title", entry_heading(entry))]
     date = entry.get("date_recorded")
     when = f"{'Published' if date_is_estimate(entry) else 'Recorded'} {fmt_date(date)}" if date else ""
@@ -2085,6 +2111,7 @@ def transcript_report_blocks(entry):
         mod = f" · moderated by {entry['moderator']}"
     if when or mod:
         blocks.append(("meta", f"{when}{mod}".lstrip(" ·")))
+    blocks.append(("note", EDITOR_INSTRUCTIONS))
     reviewed = load_synopsis(entry)
     if reviewed:
         blocks.append(("h2", "Synopsis"))
@@ -2095,12 +2122,9 @@ def transcript_report_blocks(entry):
         blocks.append(("p", ", ".join(people)))
     blocks.append(("h2", "Transcript"))   # "Cite this session" removed here per Colin 2026-09-22 -- the citation is for the web page, not a document meant to be read/printed
     all_unattributed = not any(seg.get("speaker") for seg in entry["segments"])
-    prev_speaker = object()
     for seg in entry["segments"]:
         speaker = seg.get("speaker") or ("Transcript" if all_unattributed else "Unattributed")
-        if speaker != prev_speaker:
-            blocks.append(("speaker", speaker))
-            prev_speaker = speaker
+        blocks.append(("speaker", f"[{hhmmss_full(seg.get('start'))}] {speaker}"))
         for para in (seg.get("text") or "").split("\n\n"):
             para = para.strip()
             if para:
@@ -2127,6 +2151,7 @@ def write_docx(blocks, path):
     styled = {
         "title": lambda t: _docx_paragraph(t, bold=True, size="36", space_after=160),
         "meta": lambda t: _docx_paragraph(t, italic=True, size="20", color="595959", space_after=280),
+        "note": lambda t: _docx_paragraph(t, italic=True, size="19", color="595959", space_after=280),
         "h2": lambda t: _docx_paragraph(t, bold=True, size="26", space_after=140, space_before=400),   # extra space above each section heading, per Colin 2026-09-22
         "speaker": lambda t: _docx_paragraph(t, bold=True, size="21", space_after=60, space_before=240),   # extra space above each new speaker turn, per Colin 2026-09-22
         "p": lambda t: _docx_paragraph(t, size="21", space_after=160),
@@ -2234,6 +2259,7 @@ def write_pdf(blocks, path):
     styled = {
         "title": (16, (0, 0, 0), 6, 0, True),
         "meta": (10, (90, 90, 90), 8, 0, False),
+        "note": (9.5, (90, 90, 90), 8, 0, False),
         "h2": (13, (0, 0, 0), 5, 5, True),
         "speaker": (11, (0, 0, 0), 2, 4, True),
         "p": (10.5, (20, 20, 20), 4, 0, False),
@@ -2248,6 +2274,19 @@ def write_pdf(blocks, path):
         pdf.ln(after * 0.3)
     path.parent.mkdir(parents=True, exist_ok=True)
     pdf.output(str(path))
+
+
+def write_txt(blocks, path):
+    """Plain-text transcript download -- the same content as the DOCX/PDF, in the format
+    scripts/import-edited-transcript.py expects back: every block on its own line (an "h2" block
+    prefixed "## "), separated by one blank line, each turn starting with a bare
+    "[H:MM:SS] Speaker Name" line. This is the format an editor should send back with corrections."""
+    lines = []
+    for kind, text in blocks:
+        lines.append(("## " if kind == "h2" else "") + text)
+        lines.append("")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
 def build_participants_and_flags(entry):
@@ -2298,6 +2337,22 @@ def build_participants_and_flags(entry):
     return speakers_html, flags_html
 
 
+def download_select_html(entry):
+    """"Download transcript as" format picker (PDF/DOCX/TXT), per Colin 2026-09-30: self-serve for anyone,
+    including a volunteer editor -- all three formats carry the same content (timecodes + speaker names +
+    editor instructions), so the TXT one downloaded here is exactly the file scripts/import-edited-transcript.py
+    expects back. Each option's real target lives in data-href (not value) so nest() -- which only rewrites
+    href/src/action/data-href, never a bare value -- still turns it into the right ../relative address."""
+    opts = "".join(f'<option data-href="transcripts/{slug(entry)}.{ext}">{label}</option>'
+                    for ext, label in (("pdf", "PDF"), ("docx", "DOCX"), ("txt", "TXT (for editors)")))
+    return ('<span class="dl-select-wrap">Download transcript as '
+            f'<select class="dl-select" data-pagefind-ignore aria-label="Download transcript as">'
+            f'<option value="" selected>choose a format…</option>{opts}</select></span>'
+            "<script>(function(){var s=document.currentScript.previousElementSibling.querySelector('select');"
+            "s.addEventListener('change',function(){var o=s.selectedOptions[0];if(o&&o.dataset.href)location.href=o.dataset.href;});"
+            "})();</script>")
+
+
 def build_actions_and_cite(entry, link_to=None):
     """The read-actions buttons, "Watch on YouTube // Print // Download" line, and "Cite this session" box --
     shared between the individual recording page and a category page's featured section, per Colin 2026-09-22.
@@ -2311,22 +2366,22 @@ def build_actions_and_cite(entry, link_to=None):
     plain/printable version)."""
     url = entry["url"]
     citation_html, cite_data = build_citation(entry)
-    docx_href, pdf_href = e(transcript_docx_href(entry)), e(transcript_pdf_href(entry))
+    dl_select = download_select_html(entry)
     if link_to is None:
         read_actions = ('<div class="read-actions" id="read-actions" data-pagefind-ignore>'
                          '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button>'
                          '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button></div>')
         watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
                     f'<button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; '
-                    f'Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>')
+                    f'{dl_select}</p>')
     else:
         target = e(link_to)
         read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
                          f'<a class="read-btn" href="{target}">Read transcript</a>'
                          f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a></div>')
         watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
-                    f'<a href="{pdf_href}">Print transcript (PDF)</a> &#47;&#47; '
-                    f'Download transcript (<a href="{docx_href}">.DOCX</a> &#47; <a href="{pdf_href}">PDF</a>)</p>')
+                    f'<a href="{e(transcript_pdf_href(entry))}">Print transcript (PDF)</a> &#47;&#47; '
+                    f'{dl_select}</p>')
     cite_section = (f'<section class="cite" data-pagefind-ignore><h2>Cite this session</h2>'
                      f'<div data-cite="{e(cite_data)}"><blockquote class="cite-text" translate="no">{citation_html}</blockquote>'
                      f'<div class="cite-actions"><button type="button" class="copy-cite">Copy citation</button>{cite_format_select_html()}</div></div></section>')
@@ -3939,6 +3994,10 @@ def transcript_pdf_href(entry):
     return f"transcripts/{slug(entry)}.pdf"
 
 
+def transcript_txt_href(entry):
+    return f"transcripts/{slug(entry)}.txt"
+
+
 def jpeg_size(path):
     """(width, height) of a JPEG, read from its header; None if unreadable."""
     try:
@@ -4196,6 +4255,7 @@ def write_site_files(corpus):
         blocks = transcript_report_blocks(entry)
         write_docx(blocks, SITE_DIR / "transcripts" / f"{slug(entry)}.docx")
         write_pdf(blocks, SITE_DIR / "transcripts" / f"{slug(entry)}.pdf")
+        write_txt(blocks, SITE_DIR / "transcripts" / f"{slug(entry)}.txt")
     csv_src = ROOT / "data" / "recordings.csv"
     if csv_src.exists():
         shutil.copy2(csv_src, SITE_DIR / "data" / "recordings.csv")

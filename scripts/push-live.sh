@@ -38,6 +38,7 @@ step "3/6  Rollback snapshot"
 SNAPLINE="$(scripts/snapshot-release.sh "live-$SHORT" 2>&1 | tail -1)"; print "$SNAPLINE"
 SNAPTAG="$(print -r -- "$SNAPLINE" | sed -n 's/^Snapshot \([^ ]*\) saved.*/\1/p')"
 [[ -n "$SNAPTAG" ]] || die "snapshot failed"
+scripts/backup-corpus.sh 2>&1 | sed 's/^/  /'   # dated corpus.json safeguard copy, local + WP Engine; never blocks the push
 
 step "4/6  Rehearsal (nothing copied yet)"
 WPE_INSTALL="$INSTALL" scripts/deploy-wpengine.sh > /tmp/push-live-rehearsal.log 2>&1 || { tail -5 /tmp/push-live-rehearsal.log; die "rehearsal failed (is the WP Engine key unlocked?)"; }
