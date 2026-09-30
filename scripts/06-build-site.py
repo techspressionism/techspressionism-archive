@@ -648,7 +648,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .watch-btn:hover { background:#d60000; border-color:#d60000; }
 .read-btn { background:#767676; border-color:#767676; }   /* gray: just open the transcript */
 .read-btn:hover { background:#5f5f5f; border-color:#5f5f5f; }
-@media (max-width:44.99rem) { .read-btn, .watch-btn { padding:.55rem .5rem; font-size:.88rem; border-width:1.5px; } }   /* phone: less chunky, per Colin 2026-09-30 -- still a real tap target (about 38-40px tall with this padding+line-height), just not as tall as the desktop size */
+@media (max-width:44.99rem) { .read-btn, .watch-btn { padding:.55rem .5rem; font-size:.7rem; letter-spacing:normal; border-width:1.5px; } }   /* phone: less chunky, per Colin 2026-09-30 -- still a real tap target (about 38-40px tall with this padding+line-height), just not as tall as the desktop size. Font small enough (and letter-spacing dropped) that "Watch with transcript" fits on one line at this width instead of wrapping to two, per Colin 2026-09-30 */
 .js .read-actions { display:flex; gap:.6rem; }   /* scrolls with the rest of the content, per Colin -- no longer locked to the bottom edge of the pinned video */
 .js .transcript { display:none; scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 4.6rem); }
 .js .layout.reading .transcript { display:block; }
