@@ -62,11 +62,11 @@ And the group or movement or whatever you want to call it has spread largely thr
 
 ## Colin Goldberg [01:21](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=81s)
 
-And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randy Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So,
+And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randy Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So, The floor is yours, Randi.
 
-## Randi Matushevitz [02:08](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=128s)
+## Randi Matushevitz [02:09](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=129s)
 
-The floor is yours, Rand Okay, thank you, Colin. So, what I wanna… say, first of all, is welcome, and thank you all for participating in our Curation Techspressionism 2026 Los Angeles and Beyond. As you know, Colin mentioned it's at Lacta, and Lacta is… been a gallery specializing in digital art in Los Angeles for nearly 20 years. It is truly the only venue for a broad spectrum Digital and interactive, immersive art experience, you know, probably not like Dataland, but for artists to show monthly and highlight solo shows and group shows. What's exciting about this show is it's the largest show we've had on the West Coast.
+Okay, thank you, Colin. So, what I wanna… say, first of all, is welcome, and thank you all for participating in our Curation Techspressionism 2026 Los Angeles and Beyond. As you know, Colin mentioned it's at Lacta, and Lacta is… been a gallery specializing in digital art in Los Angeles for nearly 20 years. It is truly the only venue for a broad spectrum Digital and interactive, immersive art experience, you know, probably not like Dataland, but for artists to show monthly and highlight solo shows and group shows. What's exciting about this show is it's the largest show we've had on the West Coast.
 
 And especially to be in Los Angeles, and to reach this community during the SIGGRAPH week. It's a highlight for us. And I'll be talking about this dual show experience that we're having, which is also with the DAC community. So, just to say a little about what's exciting, we have 37 artists, a couple are in teams. So that leaves us with 34 prints. 17 videos on 7 monitors, a monitor highlighting the Urgench shows that were in Uzbekistan, and a DAC collaboration monitor. Something, just a little bit about The thoughts behind putting this show together is, in our minds, it was a testament to our camaraderie, to our collective spirit that defines this community of artists.
 
@@ -350,7 +350,7 @@ And I'm very proud of it as well.
 
 Thanks, Victor. Cynthia DiDonato.
 
-## Allen Hirsh [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
+## Cynthia DiDonato [53:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3219s)
 
 I just want to say thank you again to the curators and those who worked on the catalog. But I also want to say you made me feel as though I was there. For the.
 
@@ -358,7 +358,7 @@ I just want to say thank you again to the curators and those who worked on the c
 
 Good.
 
-## Allen Hirsh [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
+## Cynthia DiDonato [53:53](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=3233s)
 
 And… That… is a tremendous, it represents a tremendous effort on all your parts. So again, thank you so much.
 
@@ -666,7 +666,7 @@ Really, really cool. Great to see, you know, Techspressionism getting spread to 
 
 And it'll basically be sort of, like, on a first-come, first-served basis, you know, like, so if you want to show up, like 1145 or something, then we can start, you know, a queue going of… who wants to share and stuff like that. And then based on how many people want to share, that'll kind of determine the timeframe. But I would say probably, you know, five to 10 minutes, hopefully we'll get a bunch of people sharing. You know, and if… if anybody wants to step up to moderate that, that would be welcome. Otherwise, I guess I'll moderate it since I came up with the idea, as the rule goes, supposedly. So that being said, I think we're going to bring this recording to a close. Oh, Cynthia.
 
-## Allen Hirsh [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
+## Cynthia DiDonato [01:26:25](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5185s)
 
 Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. As we know, Cynthia Beth Rubin, a number of moderators and artists have.
 
@@ -674,7 +674,7 @@ Yeah, I just wanted to plug the Uzbekistan videos that are on Techspressionism. 
 
 Okay.
 
-## Allen Hirsh [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
+## Cynthia DiDonato [01:26:38](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=5198s)
 
 In participating in videos where, the artists. Shared their artwork and their process with Makerspace participants. I have to say, I've been looking at a number of the videos myself that I didn't get a chance to see earlier. They are very well done. So please. Check them out and I think you'll find rather interesting information about their processes. Thank you.
 
