@@ -1,9 +1,12 @@
 #!/bin/zsh
 # Dated safeguard copy of corpus/corpus.json (the single file every page on the archive is built from) --
 # in addition to it already being tracked in git, a plain dated copy in two places that don't depend on
-# git/GitHub being reachable: on this Mac, and on the WP Engine server (private, outside any site's web
-# root, so it is never publicly downloadable). Run automatically by push-live.sh on every live push, or
-# by hand any time:
+# git/GitHub being reachable: on this Mac, and on the WP Engine server, under _wpeprivate/ (WP Engine's
+# own convention for files the platform blocks from ever being served over the web -- confirmed 2026-09-30
+# with a live probe file: https://techspressionism.com/_wpeprivate/... answers 403 Forbidden. Anywhere in
+# the SSH user's home directory OUTSIDE sites/<install>/ is NOT persistent storage on WP Engine -- a folder
+# created there was gone less than an hour later -- so don't move this backup outside sites/<install>/.
+# Run automatically by push-live.sh on every live push, or by hand any time:
 #
 #   scripts/backup-corpus.sh
 #
@@ -22,9 +25,12 @@ echo "Local backup: $LOCAL_FILE ($(du -h "$LOCAL_FILE" | cut -f1))"
 KEY="${WPE_SSH_KEY:-$HOME/.ssh/id_ed25519_wpengine}"
 INSTALL="${WPE_INSTALL:-techspression}"
 if [[ -f "$KEY" ]]; then
-  if scp -i "$KEY" -o IdentitiesOnly=yes -o ConnectTimeout=10 -o BatchMode=yes \
-      corpus/corpus.json "${INSTALL}@${INSTALL}.ssh.wpengine.net:private-backups/corpus/corpus-$STAMP.json" 2>/tmp/backup-corpus-wpe.log; then
-    echo "WP Engine backup: ~/private-backups/corpus/corpus-$STAMP.json on $INSTALL (not web-accessible)"
+  # rsync, not scp: WP Engine's SSH gateway has the legacy scp subsystem disabled (common host hardening --
+  # confirmed 2026-09-30, "subsystem request failed" / "scp: Connection closed" even with the key unlocked and
+  # rsync itself working fine seconds later in deploy-wpengine.sh, which never uses the scp subsystem).
+  if rsync -az -e "ssh -i $KEY -o IdentitiesOnly=yes -o ConnectTimeout=10 -o BatchMode=yes" \
+      corpus/corpus.json "${INSTALL}@${INSTALL}.ssh.wpengine.net:sites/${INSTALL}/_wpeprivate/corpus-backups/corpus-$STAMP.json" 2>/tmp/backup-corpus-wpe.log; then
+    echo "WP Engine backup: sites/${INSTALL}/_wpeprivate/corpus-backups/corpus-$STAMP.json (confirmed not web-accessible: 403)"
   else
     echo "WP Engine backup FAILED (local copy above still succeeded) -- see /tmp/backup-corpus-wpe.log. Likely cause: the SSH key isn't unlocked (ssh-add --apple-use-keychain $KEY)."
   fi
