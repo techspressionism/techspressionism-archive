@@ -43,7 +43,7 @@ Much the moment recording started. Yeah, yeah.
 
 ## Colin Goldberg [01:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=104s)
 
-Well, comic relief here. So Malavika is an artist whose practice includes mixed media, digital collage and digital art tapestry and other fiber art. She received her Mfa. And Bfa. From A university in India. I'll let her pronounce it and at that university she was awarded the National Scholarship by the Government of India, the Ministry of Human Resource Development, and she did her training under Reten Mazumdar in 2012 Malavik was awarded Paula Krasner Grant.
+Well, comic relief here. So Malavika is an artist whose practice includes mixed media, digital collage and digital art tapestry and other fiber art. She received her Mfa. And Bfa. From A university in India. I'll let her pronounce it and at that university she was awarded the National Scholarship by the Government of India, the Ministry of Human Resource Development, and she did her training under Reten Mazumdar in 2012 Malavik was awarded Pollock-Krasner Grant.
 
 Which is also a grant that I received. So that's something we have in common. And she received a senior fellowship from the Ccrt Ministry of culture, Government of India and she founded this organization collaborative art space in August of 2021. And it is an international art organization that conducts collaborative art projects. So without further ado, I'm going to hand the microphone off to Malavika, and she's going to talk a little bit more about this project, and then move into introducing the work of the students. So, Malavika, this, the floor is yours.
 
@@ -175,7 +175,7 @@ Yes.
 
 Absolutely.
 
-## Allen Hirsh [18:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1113s)
+## Cynthia DiDonato [18:33](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1113s)
 
 I particularly enjoy the piece with the musicians. I'm enjoying the fact that the music that is emanating from the person playing the Indian. Drum, or whatever it is, I think it looks like a drum, is sending out peace symbols and trying to show harmony, and I think that's quite important for all of us to see today, particularly, as Colin said, there's a connection of people different countries within the piece. If I understand what you said earlier.
 
@@ -291,7 +291,7 @@ Thank you.
 
 Thank you, sir.
 
-## Allen Hirsh [27:22](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1642s)
+## Cynthia DiDonato [27:22](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1642s)
 
 I agree, and I'm fascinated with the concept of the chains holding back the dreamer. Very powerful image.
 
@@ -323,7 +323,7 @@ Really nice.
 
 Thank you.
 
-## Allen Hirsh [28:21](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1701s)
+## Cynthia DiDonato [28:21](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1701s)
 
 And are we meant to see this girl here? But then the girl in the second image, as 2 separate pieces. Are you showing us the building of the final piece.
 
@@ -331,7 +331,7 @@ And are we meant to see this girl here? But then the girl in the second image, a
 
 No, ma'am, those are 2 completely different pieces.
 
-## Allen Hirsh [28:40](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1720s)
+## Cynthia DiDonato [28:40](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1720s)
 
 Thank you. They're both wonderful.
 
@@ -447,7 +447,7 @@ That expression is here also involved.
 
 Yeah, I thought that was curious as a form to see it twice coming from India. I just wondered if it if it's just serendipitous, or is there something that it means, you know, underneath it? I don't know.
 
-## lee day [36:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2167s)
+## Lee Day [36:07](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2167s)
 
 It's funny. I had the same reaction to it being a mountain as well. In the 1st one I thought of Mount Fuji and Cinderella dancing over Mount Fuji.
 
@@ -455,7 +455,7 @@ It's funny. I had the same reaction to it being a mountain as well. In the 1st o
 
 Yeah.
 
-## Allen Hirsh [36:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2179s)
+## Cynthia DiDonato [36:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2179s)
 
 I was seeing it as a road or a path, her journey to where she plans to go, and I really like the what appears to be a thread in her hand that somehow she's responsible for bringing this to fruition.
 
@@ -553,7 +553,7 @@ So we end up our students presentation here. Thank you. Everyone for asking the 
 
 Thanks, thanks so much. Malavika. I also had the thought while these presentations were going on, that just, you know, the students ability to articulate. You know what the work is about in English is really remarkable. You know, it made me think about how I'm not fluent in any other language. And you know I mean, most American high school students study another language, but I don't think ever get to the point where they can really speak you know, in such a way that it just sounds like you know their native language. And you know, I think initially, I just sort of took that for granted. Oh, they're explaining their work and everything. But just the fact that it's basically, you know, in another language that isn't their language that they probably, you know, learned initially. It's pretty. It's pretty amazing. So and you know, I wanted to thank you for organizing this Exhibition and project, you know, especially you know, bringing students into the mix. I think it's really refreshing to see the work done by students where there's really no other, you know. Kind of agenda. When the work is made. It's really just pure creativity, I think. In terms of you know, it's just kind of different. And just showing how you know this idea to Expressionism has touched people. You know, in India. I think it's pretty great. So I definitely want to thank you. And you know, if I don't know if anyone in the Zoom has any general questions, comments, either for Malavika or anyone else. Just jump on in, Cynthia.
 
-## Allen Hirsh [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
+## Cynthia DiDonato [46:19](https://www.youtube.com/watch?v=htDS7UsZjyA&t=2779s)
 
 Yes, I very much enjoyed the presentations. I had a question for any and all of them. What were the challenges of collaborating on a piece together or pieces. I know artists tend to want to express themselves. And then when you're working with someone else. How do you come together and find a piece that you both enjoy. So I was wondering about those challenges. If you could speak to that.
 
@@ -653,7 +653,7 @@ Great and you know those watercolors were just unbelievable. I mean some of thos
 
 Yeah.
 
-## lee day [59:51](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3591s)
+## Lee Day [59:51](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3591s)
 
 I was wondering, is it? Is it also rendering out 3D. Models.
 
@@ -661,7 +661,7 @@ I was wondering, is it? Is it also rendering out 3D. Models.
 
 No, but if you render like you like what you did, you can export it as an Obj file or Glv.
 
-## lee day [01:00:06](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3606s)
+## Lee Day [01:00:06](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3606s)
 
 Okay.
 
@@ -673,7 +673,7 @@ That's dangerous for us.
 
 Cool.
 
-## Allen Hirsh [01:00:13](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3613s)
+## Cynthia DiDonato [01:00:13](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3613s)
 
 You're saying the 3D piece is moving to another. You move to another piece of software to create that. And that when you put the line drawing in. Maybe the second item that we saw in the list of 3 is what the AI does, and then from there you take it to another piece of software to create 3D.
 
@@ -681,7 +681,7 @@ You're saying the 3D piece is moving to another. You move to another piece of so
 
 No, it just you just click the 3D model and it generates a 3D model out of the final render.
 
-## Allen Hirsh [01:00:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3644s)
+## Cynthia DiDonato [01:00:44](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3644s)
 
 Oh, that's amazing!
 
@@ -857,7 +857,7 @@ I thought you had volunteered the last one that you're gonna.
 
 But it's probably okay.
 
-## Allen Hirsh [01:20:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4829s)
+## Cynthia DiDonato [01:20:29](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4829s)
 
 I'm gay, I'm gay.
 
@@ -869,7 +869,7 @@ Yeah, it's probably good.
 
 Okay? Well, yeah, I mean, you know, like that could be a way that you know, the people who have been there as regulars could share some of the work and also introduce the Co working group to a wider audience. You know not only the people in the Zoom, but since these things are recorded, you know, that might open it up to some people watching the salon on YouTube and get some new artists down in there. So. And I really appreciate what you 2 have done to organize that as an ongoing event. So yeah, I mean, that's a couple of months out, so we don't need to decide on it.
 
-## Allen Hirsh [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
+## Cynthia DiDonato [01:21:10](https://www.youtube.com/watch?v=htDS7UsZjyA&t=4870s)
 
 I think it's a great idea.
 

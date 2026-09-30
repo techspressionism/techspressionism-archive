@@ -161,7 +161,7 @@ And I media for the final output and I'm going to be talking more about that who
 
 ## Colin Goldberg [09:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=585s)
 
-I wanted to add there's registration links to Anne's talk as well as the other talks that Helen Harris is running through the Paula Krasner house page at Techspressionism.com as well as the other salons that are going to be coming up
+I wanted to add there's registration links to Anne's talk as well as the other talks that Helen Harris is running through the Pollock-Krasner house page at Techspressionism.com as well as the other salons that are going to be coming up
 
 ## Roz Dimon [10:06](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=606s)
 

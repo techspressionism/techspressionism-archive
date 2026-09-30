@@ -25,7 +25,7 @@ SRC = ROOT / "private" / "archive-checklist.txt"
 SNAPSHOT = ROOT / "private" / "notes-synced.json"      # the item texts written to the note last time: only these can count as "removed by Colin"
 TITLE = "Archive: To Do List"
 OLD_TITLES = {"Archive: To Do List": "Techspressionism Archive To Do List", "Archive: Review": "Archive Review", "Archive: Decisions": "Archive Decisions"}     # notes renamed 26 Sep 2026 ("Archive: <purpose>"): found under the old name once, then renamed
-PHASE_LINES = [      # one sentence per phase, at the top of every note (Colin, 26 Sep 2026)
+PHASE_LINES = [      # one sentence per phase; shown once under that phase's own heading in the To Do List only (Colin, 2026-09-30 -- was repeated at the top of every note before that)
     "Phase 1 (archive and SEO): get the archive itself right before anything moves: search-engine setup, transcript and artist-page quality, and the search and page design.",
     "Phase 2 (redirects): put the archive live at techspressionism.com/archive and redirect the old WordPress video pages to their new archive pages.",
     "Phase 3 (stabilise and enrich): after launch, keep the archive healthy and grow it: permanent DOI, YouTube captions, the TSedit review tool, speaker naming and steady fixes.",
@@ -88,10 +88,12 @@ def nice(t):
 def build_html(phases):
     e = html.escape
     out = [f"<h1>{e(TITLE)}</h1>",
-           f'<p>Staging: <a href="{STAGING}">{STAGING}</a><br>Live: <a href="{LIVE}">{LIVE}</a></p>',
-           "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)]
+           f'<p>Staging: <a href="{STAGING}">{STAGING}</a><br>Live: <a href="{LIVE}">{LIVE}</a></p>']
     for ph in phases:
         out.append(f"<h2>Phase {ph['n']} - {e(nice(ph['title']))}</h2>")
+        n = int(ph["n"])
+        if 1 <= n <= len(PHASE_LINES):
+            out.append(f"<p><i>{e(PHASE_LINES[n - 1])}</i></p>")
         out.append("<h3>Open items</h3>")
         if ph["open"]:
             last, items = None, []
@@ -216,7 +218,7 @@ def parse_review():
 
 def review_html(intro, secs):
     e = html.escape
-    out = [f"<h1>{e(REVIEW_TITLE)}</h1>", "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)] + [f"<p>{e(l)}</p>" for l in intro]
+    out = [f"<h1>{e(REVIEW_TITLE)}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
     for title, items in secs:
         out.append(f"<h2>{e(title)}</h2>")
         out.append("<ul>" + "".join(f"<li>{e(i)}</li>" for i in items) + "</ul>" if items else "<p>Nothing open.</p>")
@@ -260,17 +262,15 @@ def write_review():
         REVIEW_SNAPSHOT.write_text(json.dumps(sorted(i.strip() for _, items in secs for i in items)))
 
 
-DEC_SRC = ROOT / "private" / "archive-decisions.txt"
-DEC_SNAPSHOT = ROOT / "private" / "notes-synced-decisions.json"
-DEC_TITLE = "Archive: Decisions"
-
 # ---- answer notes: items with an ANSWER: line Colin types into the note (master files private/archive-*.txt) --------------------------------------
+# Consolidated 2026-09-30 (Colin: too many separate archive notes): Decisions, Techspressionism Mishearings and
+# Interview 1 Turns merged into one "Archive: Open Questions" note (private/archive-open-questions.txt), item
+# ids keeping their original D/I prefix -- "prefix" here is a regex fragment, not a literal string, so it can be
+# an alternation. TSedit Plan retired outright (the tool is built; its one live thread, deployment, is D19 in the
+# merged file); Artist Pages and One-Turn Artists were already-dead TOC entries with no source file.
 ANSWER_NOTES = [
-    {"title": DEC_TITLE, "src": ROOT / "private" / "archive-decisions.txt", "snap": ROOT / "private" / "notes-synced-decisions.json", "prefix": "D", "head": "ARCHIVE DECISIONS"},
-    {"title": "Archive: Techspressionism Mishearings", "src": ROOT / "private" / "archive-mishearings.txt", "snap": ROOT / "private" / "notes-synced-mishearings.json", "prefix": "M", "head": "ARCHIVE MISHEARINGS"},
-    {"title": "Archive: Interview 1 Turns", "src": ROOT / "private" / "archive-interview1.txt", "snap": ROOT / "private" / "notes-synced-interview1.json", "prefix": "I", "head": "ARCHIVE INTERVIEW 1"},
+    {"title": "Archive: Open Questions", "src": ROOT / "private" / "archive-open-questions.txt", "snap": ROOT / "private" / "notes-synced-openquestions.json", "prefix": "(?:D|I)", "head": "ARCHIVE OPEN QUESTIONS"},
     {"title": "Archive: Broken Artist Links", "src": ROOT / "private" / "archive-brokenlinks.txt", "snap": ROOT / "private" / "notes-synced-brokenlinks.json", "prefix": "L", "head": "ARCHIVE BROKEN LINKS"},
-    {"title": "Archive: TSedit Plan", "src": ROOT / "private" / "archive-tsedit-plan.txt", "snap": ROOT / "private" / "notes-synced-tsedit.json", "prefix": "P", "head": "ARCHIVE TSEDIT PLAN"},
 ]
 
 
@@ -301,7 +301,7 @@ def parse_answer_note(cfg):
 
 def answer_note_html(cfg, intro, items):
     e = html.escape
-    out = [f"<h1>{e(cfg['title'])}</h1>", "".join(f"<p>{e(l)}</p>" for l in PHASE_LINES)] + [f"<p>{e(l)}</p>" for l in intro]
+    out = [f"<h1>{e(cfg['title'])}</h1>"] + [f"<p>{e(l)}</p>" for l in intro]
     open_items = [i for i in items if i["status"] != "x"]
     if not open_items:
         out.append("<p>Nothing waiting for you.</p>")
@@ -364,13 +364,8 @@ NOTE_GUIDE = [       # (title, what it is for)
     (TOC_TITLE, "This list: every archive note and what it is for."),
     ("Archive: To Do List", "The master checklist for all four phases: what is open, in order, with my recommendations under each phase. Remove an item when it is done and it is marked done everywhere."),
     ("Archive: Review", "The UI/UX and transcript review: design problems, optimisation ideas, transcript fixes and search items, most important first."),
-    ("Archive: Decisions", "Questions only you can answer. Type your answer after ANSWER: under each one; it is read at the next sync and the item is removed once acted on."),
-    ("Archive: Techspressionism Mishearings", "Every place the transcript may have misheard Techspressionism / Techspressionist, with the sentence, recording, time and speaker. Type the corrected word after ANSWER, or leave it blank to skip."),
-    ("Archive: Interview 1 Turns", "The turns in Interview 1 with no speaker named, with times. Type who is speaking."),
+    ("Archive: Open Questions", "Questions only you can answer, across the whole project (decisions, Interview 1's unnamed turns, and anything else). Type your answer after ANSWER: under each one; it is read at the next sync and the item is removed once acted on."),
     ("Archive: Broken Artist Links", "Artist links from the artist index that no longer work. Type the new address, skip or remove."),
-    ("Archive: TSedit Plan", "The plan for TSedit, the private invite-only review and edit web app. Approve or change each part."),
-    ("Archive: Artist Pages", "Every artist with a page in the archive, sorted by last name, with a link to their own archive page. Add a website URL after a name (or a correction) and it's read back in and verified before adding."),
-    ("Archive: One-Turn Artists", "Artists with a page who speak exactly once, total, across the whole archive -- the strongest signal for a name that might be a mistake. Check each against its one recording."),
     (CHANGELOG_TITLE, "Every push to the live site, numbered with 001 the first and the newest on top: what changed each time, and the snapshot to go back to (say: revert live to 00N)."),
 ]
 EXTRA_GUIDE = [
@@ -393,9 +388,8 @@ def write_static_notes():
     import sys
     sys.path.insert(0, str(ROOT / "scripts"))
     import changelog
-    phases = "".join(f"<p>{html.escape(l)}</p>" for l in PHASE_LINES)
     for title, body in ((TOC_TITLE, toc_html()), (CHANGELOG_TITLE, changelog.render_html())):
-        write_note(body.replace("</h1>", "</h1>" + phases, 1), title)
+        write_note(body, title)
 
 
 def main():

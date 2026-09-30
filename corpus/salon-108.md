@@ -46,7 +46,7 @@ It was first referred to as a movement by Wired in 2014.
 
 ## Colin Goldberg [00:39](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=39s)
 
-And in 2020, I initiated the formation of an artist group around the idea with fellow artists Oz Van Rosen, Steve Miller, and Patrick Lichty, as well as art historian Helen Harrison, who served as director of the Paula Krasner House and Study Center.
+And in 2020, I initiated the formation of an artist group around the idea with fellow artists Oz Van Rosen, Steve Miller, and Patrick Lichty, as well as art historian Helen Harrison, who served as director of the Pollock-Krasner House and Study Center.
 
 ## Randi Matushevitz [00:55](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=55s)
 
