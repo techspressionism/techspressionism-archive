@@ -1,0 +1,125 @@
+{
+  "0": {
+    "title": "Archive Beta Feedback",
+    "description": "",
+    "labelPlacement": "top_label",
+    "descriptionPlacement": "below",
+    "subLabelPlacement": "below",
+    "button": {
+      "type": "text",
+      "text": "Send feedback",
+      "imageUrl": "",
+      "conditionalLogic": null
+    },
+    "fields": [
+      {
+        "type": "name",
+        "id": 1,
+        "label": "Your name (optional)",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "nameFormat": "simple",
+        "inputs": [
+          {
+            "id": "1.3",
+            "label": "Name",
+            "name": ""
+          }
+        ],
+        "description": "Leave blank if you'd rather be anonymous.",
+        "descriptionPlacement": "below",
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "email",
+        "id": 2,
+        "label": "Your email (optional)",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "emailConfirmEnabled": false,
+        "description": "Only if you're OK with us following up on what you report.",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "text",
+        "id": 3,
+        "label": "Which page or recording were you on?",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "large",
+        "allowsPrepopulate": true,
+        "inputName": "page",
+        "description": "Paste the address if you have it, or just describe it (e.g. \"Salon 42\" or \"the search page\").",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "textarea",
+        "id": 4,
+        "label": "What did you try to do, and what happened?",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "large",
+        "useRichTextEditor": false,
+        "maxLength": "",
+        "description": "Searching for something, reading a transcript, looking up an artist, trying to cite a quote — whatever you were doing. Tell us what worked, what was confusing, or what broke.",
+        "descriptionPlacement": "above",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "textarea",
+        "id": 5,
+        "label": "Anything else?",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "useRichTextEditor": false,
+        "description": "Ideas, things you liked, things you'd want different — anything at all.",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      }
+    ],
+    "version": "2.7.4",
+    "id": 1,
+    "enableHoneypot": true,
+    "enableAnimation": false,
+    "limitEntries": false,
+    "scheduleForm": false,
+    "requireLogin": false,
+    "useCurrentUserAsAuthor": true,
+    "confirmations": {
+      "5f8a1b2c3d4e6": {
+        "id": "5f8a1b2c3d4e6",
+        "name": "Default Confirmation",
+        "isDefault": true,
+        "type": "message",
+        "message": "Thank you for testing the archive! Your feedback goes straight to Colin and the team building it.",
+        "disableAutoformat": false,
+        "pageId": "",
+        "url": "",
+        "queryString": "",
+        "event": "",
+        "conditionalLogic": []
+      }
+    },
+    "notifications": []
+  },
+  "version": "2.7.4"
+}
