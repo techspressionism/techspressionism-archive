@@ -787,6 +787,8 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 .cat-main > .cat-intro-more p { color:var(--fg); max-width:44rem; margin:.6rem 0 0; line-height:1.55; }
 .cat-cta { display:block; width:100%; margin:0 0 1.5rem; padding:18px 25px; box-sizing:border-box; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; font-weight:400; text-align:center; text-decoration:none; color:#fff; background:var(--accent); border:1px solid transparent; border-radius:0; }   /* matches techspressionism.com's own WPBakery "RESERVE YOUR SPOT" button exactly (bg #FF0000, white Lato 400 16px, padding 18px 25px, square corners, full width), per Colin 2026-09-27 */
 .cat-cta:hover, .cat-cta:focus-visible { background:#cc0000; color:#fff; text-decoration:none; }
+.cat-cta-lead { margin:0 0 .6rem; font-size:.95rem; color:var(--fg); }   /* one-line context above the salon category page's TOP "Attend the next Salon" button, e.g. "Salons are free and open to all." -- Colin 2026-10-01 */
+.rec-cta { margin:1.2rem 0 1.5rem; }   /* "Attend the next Salon" on a Salon recording page -- same .cat-cta button reused so it reads as the identical button everywhere, per Colin 2026-10-01: one below the video (before the synopsis/transcript) and, since Salon transcripts run long, one repeated at the end of the transcript for readers who scroll all the way through */
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
 .cat-latest .cat-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* extra room from the text on both sides, per Colin (matches h1 .h1-sep) */
 .cat-latest .cat-title-link { color:inherit; }   /* plain text, not a link -- the video and the sidebar list are how you get to the recording */
@@ -1008,7 +1010,7 @@ body.home.searching main { max-width:60rem; }
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
   .cite-actions, .transcript-toggle, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
-  .sitefoot, .player-box, .vsearch, .vscope, button { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
+  .sitefoot, .player-box, .vsearch, .vscope, button, .rec-cta { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
   .vd-extra { display:block !important; }   /* the collapsed remainder of a long Video Description -- always shown for print, same reasoning as the transcript above */
   .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
@@ -1058,6 +1060,7 @@ PAGE_TMPL = """<!doctype html>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
 {read_actions}
+{salon_cta_top}
 {synopsis}
 {description}
 {speakers}
@@ -1071,6 +1074,7 @@ PAGE_TMPL = """<!doctype html>
 <button type="button" class="transcript-toggle" id="transcript-toggle" aria-expanded="false" aria-controls="transcript" data-pagefind-ignore>Read transcript</button>
 <div class="transcript" id="transcript">
 {segments}
+{salon_cta_bottom}
 </div>
 </div>
 </div>
@@ -2477,6 +2481,7 @@ def build_session_page(entry, siblings=()):
         moderator = f'<span class="mod-line"> &middot; interviewed by {e(entry["interviewer"])}</span>'
     curator = f'<span class="mod-line"> &middot; curated by {e(entry["curator"])}</span>' if entry.get("curator") else ""
     read_actions, watch_yt, cite_section = build_actions_and_cite(entry)
+    salon_cta = SALON_REC_CTA if stype == "salon" else ""
 
     return PAGE_TMPL.format(
         title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
@@ -2507,6 +2512,8 @@ def build_session_page(entry, siblings=()):
         description=description_html(entry),
         flags=flags_html,
         read_actions=read_actions,
+        salon_cta_top=salon_cta,
+        salon_cta_bottom=salon_cta,
         watch_yt=watch_yt,
         cite_section=cite_section,
         segments="\n".join(seg_html),
@@ -3410,6 +3417,23 @@ CATEGORY_CTA = {
     "salon": '<a class="cat-cta" href="https://techspressionism.com/salon/">ATTEND THE NEXT SALON</a>',
 }
 
+# The same CTA repeated right under the page title/intro, above the list of recordings -- a visitor to
+# /salon/ who never scrolls to the bottom still sees it. Same button text/style as CATEGORY_CTA (just one
+# line of context ahead of it), per Colin 2026-10-01: "the one prominent button on the page," recognizable
+# wherever it appears, so this intentionally doesn't introduce a different look (no arrow, no inline-link
+# styling) even though his own example copy had one.
+CATEGORY_CTA_TOP = {
+    "salon": ('<p class="cat-cta-lead">Salons are free and open to all.</p>'
+               '<a class="cat-cta" href="https://techspressionism.com/salon/">ATTEND THE NEXT SALON</a>'),
+}
+
+# Same button again, for an individual Salon recording page (not interviews/roundtables/presentations --
+# Colin, 2026-10-01: "individual salon recording pages... matter more" since that's where search/YouTube/
+# shared-link traffic actually lands). Reused on both build_session_page() placements: directly below the
+# video (before the synopsis/transcript) and again after the full transcript, for a reader who scrolls all
+# the way through a long Salon session.
+SALON_REC_CTA = '<a class="cat-cta rec-cta" href="https://techspressionism.com/salon/" data-pagefind-ignore>ATTEND THE NEXT SALON</a>'
+
 
 def build_category_page(stype, entries):
     """A landing page for one recording type (Salon/Interview/Roundtable/Presentation): its most recent recording,
@@ -3445,6 +3469,7 @@ def build_category_page(stype, entries):
     body = f"""<div class="catpage-grid">
 <div class="cat-main">
 {CATEGORY_INTRO.get(stype, "")}
+{CATEGORY_CTA_TOP.get(stype, "")}
 <section class="cat-featured">
 {build_player(featured)}
 <h1 class="cat-latest"><span class="cat-eyebrow">{e(eyebrow)} {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
