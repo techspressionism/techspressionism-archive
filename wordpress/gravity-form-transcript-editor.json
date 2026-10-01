@@ -1,0 +1,149 @@
+{
+  "0": {
+    "title": "Volunteer Transcript Edit",
+    "description": "",
+    "labelPlacement": "top_label",
+    "descriptionPlacement": "below",
+    "subLabelPlacement": "below",
+    "button": {
+      "type": "text",
+      "text": "Send my edited transcript",
+      "imageUrl": "",
+      "conditionalLogic": null
+    },
+    "fields": [
+      {
+        "type": "name",
+        "id": 1,
+        "label": "Your name",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "medium",
+        "nameFormat": "simple",
+        "inputs": [
+          {
+            "id": "1.3",
+            "label": "Name",
+            "name": ""
+          }
+        ],
+        "description": "So we know who to credit and can ask a quick question if needed.",
+        "descriptionPlacement": "below",
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "email",
+        "id": 2,
+        "label": "Your email",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "medium",
+        "emailConfirmEnabled": false,
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "text",
+        "id": 3,
+        "label": "Which recording did you edit?",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "medium",
+        "description": "e.g. \"Salon 42\" or \"Interview 6\" — whatever you downloaded.",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "fileupload",
+        "id": 4,
+        "label": "Your edited transcript (.txt)",
+        "adminLabel": "",
+        "isRequired": true,
+        "size": "medium",
+        "allowedExtensions": "txt",
+        "multipleFiles": false,
+        "maxFiles": 1,
+        "maxFileSize": 5,
+        "description": "The same .txt file you downloaded, with your edits. Please don't change or remove the timecode lines (e.g. [00:06:12] Name) — they're how we match your edits back to the recording.",
+        "descriptionPlacement": "above",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "textarea",
+        "id": 5,
+        "label": "Anything we should know?",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "useRichTextEditor": false,
+        "description": "Passages you weren't sure about, speakers you couldn't identify, anything unusual.",
+        "descriptionPlacement": "below",
+        "inputs": null,
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      },
+      {
+        "type": "checkbox",
+        "id": 6,
+        "label": "Credit",
+        "adminLabel": "",
+        "isRequired": false,
+        "allowsPrepopulate": false,
+        "choices": [
+          {
+            "text": "Credit my name as an editor of this transcript (otherwise your edits are applied anonymously).",
+            "value": "Credit me",
+            "isSelected": false,
+            "price": ""
+          }
+        ],
+        "inputs": [
+          {
+            "id": "6.1",
+            "label": "Credit my name as an editor of this transcript (otherwise your edits are applied anonymously).",
+            "name": ""
+          }
+        ],
+        "formId": 1,
+        "pageNumber": 1,
+        "visibility": "visible"
+      }
+    ],
+    "version": "2.7.4",
+    "id": 1,
+    "enableHoneypot": true,
+    "enableAnimation": false,
+    "limitEntries": false,
+    "scheduleForm": false,
+    "requireLogin": false,
+    "useCurrentUserAsAuthor": true,
+    "confirmations": {
+      "5f8a1b2c3d4e7": {
+        "id": "5f8a1b2c3d4e7",
+        "name": "Default Confirmation",
+        "isDefault": true,
+        "type": "message",
+        "message": "Thank you! Your edits will be reviewed and applied to the archive — we'll follow up if we have any questions.",
+        "disableAutoformat": false,
+        "pageId": "",
+        "url": "",
+        "queryString": "",
+        "event": "",
+        "conditionalLogic": []
+      }
+    },
+    "notifications": []
+  },
+  "version": "2.7.4"
+}

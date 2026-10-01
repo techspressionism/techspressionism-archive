@@ -2083,15 +2083,21 @@ def hhmmss_full(seconds):
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 
-EDITOR_INSTRUCTIONS = (
-    "This transcript includes a timecode before each speaker's name, e.g. [00:06:12] Name. "
-    "These are for reference only (to locate a passage in the recording) and will not appear on the "
-    "archive website. In the TRANSCRIPT section below: edit the text freely -- fix wording, punctuation, "
-    "or errors -- and correct a speaker's name if it's wrong. Please do not change or remove the "
-    "timecodes themselves, and please keep each turn's paragraph breaks as they are. The Synopsis and "
-    "Participants sections above are included for context only -- they are not editable here; edits made "
-    "there will not be applied. To submit your edits, save/export this as the TXT format and send that "
-    "file back.")
+def editor_instructions():
+    """The note printed near the top of every downloadable transcript (all three formats). The submission line
+    points at data/site-config.json "editor_submit_url" (the Volunteer Transcript Edit page, wordpress/transcript-
+    editor-page.html) once Colin has set it -- same pattern as suggest_url for the correction form -- and falls
+    back to generic wording before that."""
+    submit = (SITE_CONFIG.get("editor_submit_url") or "").strip()
+    how = (f'send it back using the form at {submit}.' if submit else 'save/export this as the TXT format and send that file back.')
+    return (
+        "This transcript includes a timecode before each speaker's name, e.g. [00:06:12] Name. "
+        "These are for reference only (to locate a passage in the recording) and will not appear on the "
+        "archive website. In the TRANSCRIPT section below: edit the text freely -- fix wording, punctuation, "
+        "or errors -- and correct a speaker's name if it's wrong. Please do not change or remove the "
+        "timecodes themselves, and please keep each turn's paragraph breaks as they are. The Synopsis and "
+        "Participants sections above are included for context only -- they are not editable here; edits made "
+        f"there will not be applied. To submit your edits, {how}")
 
 
 def transcript_report_blocks(entry):
@@ -2111,7 +2117,7 @@ def transcript_report_blocks(entry):
         mod = f" · moderated by {entry['moderator']}"
     if when or mod:
         blocks.append(("meta", f"{when}{mod}".lstrip(" ·")))
-    blocks.append(("note", EDITOR_INSTRUCTIONS))
+    blocks.append(("note", editor_instructions()))
     reviewed = load_synopsis(entry)
     if reviewed:
         blocks.append(("h2", "Synopsis"))
