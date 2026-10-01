@@ -4,7 +4,7 @@ file with extension and size, and flags which session folders have an
 accompanying .vtt or .txt transcript already sitting alongside the media.
 
 Usage:
-    python3 scripts/inventory-local-video.py "~/Dropbox (Personal)/TS ARCHIVE VIDEO/SALON"
+    python3 scripts/inventory-local-video.py "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/SALON"
 """
 import csv
 import json

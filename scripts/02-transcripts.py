@@ -30,7 +30,7 @@ INVENTORY_PATH = ROOT / "data" / "local-video-inventory.json"
 CAPTIONS_DIR = ROOT / "raw" / "captions"
 OUT_DIR = ROOT / "raw" / "transcripts"
 WHISPER_DIR = ROOT / "raw" / "whisper"  # Stage 3 output, kept apart so re-running Stage 2 can't clobber it
-LOCAL_SALON_DIR = Path.home() / "Dropbox (Personal)" / "TS ARCHIVE VIDEO" / "SALON"   # moved from ~/Documents/~TECHSPRESSIONISM/VIDEO 2026-10-01
+LOCAL_SALON_DIR = Path.home() / "Dropbox (Personal)" / "TS VIDEO" / "TS VIDEO ARCHIVE" / "SALON"   # moved from ~/Documents/~TECHSPRESSIONISM/VIDEO 2026-10-01, restructured under TS VIDEO/ same day
 OVERRIDES_PATH = ROOT / "data" / "transcript-source-overrides.json"
 SOURCE_OVERRIDES = {k: v for k, v in json.loads(OVERRIDES_PATH.read_text()).items() if k != "_comment"} \
     if OVERRIDES_PATH.exists() else {}

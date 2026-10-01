@@ -64,8 +64,12 @@ CAPTIONS_DIR = ROOT / "raw" / "captions"
 AUDIO_CACHE_DIR = ROOT / "raw" / "audio"
 OUT_DIR = ROOT / "raw" / "whisper"
 REJECTED_DIR = OUT_DIR / "rejected"
-LOCAL_VIDEO_DIR = Path.home() / "Dropbox (Personal)" / "TS ARCHIVE VIDEO"   # moved here from ~/Documents/~TECHSPRESSIONISM/VIDEO 2026-10-01 (Colin): now the canonical drop
-                                                                             # location for new source material, shared with collaborators via Dropbox instead of Tailscale/AppleShare
+LOCAL_VIDEO_DIR = Path.home() / "Dropbox (Personal)" / "TS VIDEO" / "TS VIDEO ARCHIVE"   # moved here from ~/Documents/~TECHSPRESSIONISM/VIDEO 2026-10-01 (Colin): now the canonical
+                                                                                          # drop location for new source material, shared with collaborators via Dropbox instead of
+                                                                                          # Tailscale/AppleShare. Restructured under TS VIDEO/TS VIDEO ARCHIVE/ later the same day so
+                                                                                          # only the archive-relevant subfolders (SALON/ROUNDTABLE/INTERVIEWS/PRESENTATIONS) are in the
+                                                                                          # folder shared with a collaborator -- non-archive material (QUANTOPIA, PROMO, etc.) stays
+                                                                                          # directly under TS VIDEO/, a sibling, not inside this path.
 LOCAL_FOLDERS = {"salon": "SALON", "interview": "INTERVIEWS", "roundtable": "ROUNDTABLE"}
 MEDIA_EXTS = [".m4a", ".mp4", ".mov", ".mp3"]  # in order of preference
 DURATION_TOLERANCE = 0.01  # fraction of the video's length, plus 2 s
