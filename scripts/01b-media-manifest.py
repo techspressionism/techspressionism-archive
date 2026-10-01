@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-LOCAL_VIDEO = Path.home() / "Documents" / "~TECHSPRESSIONISM" / "VIDEO"
+LOCAL_VIDEO = Path.home() / "Dropbox (Personal)" / "TS ARCHIVE VIDEO"   # moved from ~/Documents/~TECHSPRESSIONISM/VIDEO 2026-10-01
 
 
 def tilde(path):
