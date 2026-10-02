@@ -775,7 +775,7 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 /* Category landing pages (site/salons/, /interviews/, /roundtables/, /presentations/): featured + recent + full list.
    Mobile: .cat-main and .cat-list simply stack in document order (featured video, recent strip, then the full list) --
    no extra CSS needed for that. Desktop: a two-column grid, the list acting as a sidebar, same breakpoint as everywhere else. */
-.catpage-grid .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
+.catpage-grid .cat-kicker, .side .cat-kicker { margin:0 0 .6rem; font-size:.85rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:#000; }   /* black, lighter (Lato regular, not the inherited Kanit italic 700/800 -- Kanit has no lighter weight loaded); beats .person h1/h2 on specificity, not just source order */
 .cat-kicker.cat-recent-label { font-size:1.1rem; margin-bottom:1.2rem; }   /* "Recent Salons" etc.: bigger than "All Salons" and "Summary", which share the base .cat-kicker size, and more room before the thumbnail row */
 .cat-featured { margin:0 0 1.5rem; }
 .cat-main > .cat-intro-hr { border:none; border-top:2px solid var(--accent); margin:0 0 1.2rem; }   /* red rule below the category intro text, per Colin 2026-09-27 (moving /interviews/ and /salon/ content here before those old pages redirect) */
@@ -788,6 +788,7 @@ section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:
 .cat-cta { display:block; width:100%; margin:0 0 1.5rem; padding:18px 25px; box-sizing:border-box; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; font-weight:400; text-align:center; text-decoration:none; color:#fff; background:var(--accent); border:1px solid transparent; border-radius:0; }   /* matches techspressionism.com's own WPBakery "RESERVE YOUR SPOT" button exactly (bg #FF0000, white Lato 400 16px, padding 18px 25px, square corners, full width), per Colin 2026-09-27 */
 .cat-cta:hover, .cat-cta:focus-visible { background:#cc0000; color:#fff; text-decoration:none; }
 .cat-cta-lead { margin:0 0 .6rem; font-size:.95rem; color:var(--fg); }   /* one-line context above the salon category page's TOP "Attend the next Salon" button, e.g. "Salons are free and open to all." -- Colin 2026-10-01 */
+.side .cat-recent-label { margin-top:2rem; }
 .rec-cta { margin:1.2rem 0 1.5rem; }   /* "Attend the next Salon" on a Salon recording page -- same .cat-cta button reused so it reads as the identical button everywhere, per Colin 2026-10-01: one below the video (before the synopsis/transcript) and, since Salon transcripts run long, one repeated at the end of the transcript for readers who scroll all the way through */
 .catpage-grid .cat-latest { margin:2rem 0 .2rem; padding-top:1rem; border-top:1px solid var(--accent); font-size:1.35rem; font-weight:700; text-transform:uppercase; color:#000; }   /* "LATEST SALON // TITLE": black uppercase, only the // is red, a red rule above (same specificity trick as .cat-kicker, beats .person h1); font-weight:700 not the h1 default 800 -- lighter, per Colin; margin-top gives room between the video and this rule */
 .cat-latest .cat-sep { color:var(--accent); font-weight:400; margin:0 .35em; }   /* extra room from the text on both sides, per Colin (matches h1 .h1-sep) */
@@ -1010,7 +1011,7 @@ body.home.searching main { max-width:60rem; }
 @media print {
   header.site, .stickyheader, #search, .wpstrip, .read-actions, .watch-yt,
   .cite-actions, .transcript-toggle, .right .watch-next, aside.cat-list, .para-foot, a.suggest, .syn-more,
-  .sitefoot, .player-box, .vsearch, .vscope, button, .rec-cta { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
+  .sitefoot, .player-box, .vsearch, .vscope, button, .rec-cta, .rec-recent { display:none !important; }   /* the video player prints as a blank black rectangle (browsers don't render an <iframe>'s video content on paper) -- hiding it saves a wasted page's worth of space */
   .js .transcript { display:block !important; }   /* normally hidden until "Read transcript"/"Watch with transcript" is clicked -- always shown for print, regardless of on-screen state */
   .vd-extra { display:block !important; }   /* the collapsed remainder of a long Video Description -- always shown for print, same reasoning as the transcript above */
   .side { position:static !important; overflow:visible !important; max-height:none !important; padding:0 !important; }
@@ -1060,13 +1061,14 @@ PAGE_TMPL = """<!doctype html>
 <span data-pagefind-meta="topic:{topic_meta}" hidden></span>
 </p>
 {read_actions}
-{salon_cta_top}
 {synopsis}
 {description}
 {speakers}
 {flags}
 {watch_yt}
 {cite_section}
+{recent_salons}
+{salon_cta_top}
 {footer}
 </div>
 <div class="right">
@@ -2482,6 +2484,12 @@ def build_session_page(entry, siblings=()):
     curator = f'<span class="mod-line"> &middot; curated by {e(entry["curator"])}</span>' if entry.get("curator") else ""
     read_actions, watch_yt, cite_section = build_actions_and_cite(entry)
     salon_cta = SALON_REC_CTA if stype == "salon" else ""
+    # every type (Colin 2026-10-02): same strip, same spot (after the cite box, before the CTA and footer) as its category page
+    recent = [x for x in sorted(siblings, key=list_order) if x is not entry][:3]
+    recent_html = ""
+    if recent:
+        recent_html = (f'<div class="rec-recent" data-pagefind-ignore><h2 class="cat-kicker cat-recent-label">Recent {e(TYPES[stype]["plural"])}</h2>\n'
+                       f'<ul class="cat-recent">' + "".join(recent_card_html(x) for x in recent) + '</ul></div>')
 
     return PAGE_TMPL.format(
         title=e(f"{label(entry)} — {entry.get('session_title') or 'Untitled'}"),
@@ -2512,6 +2520,7 @@ def build_session_page(entry, siblings=()):
         description=description_html(entry),
         flags=flags_html,
         read_actions=read_actions,
+        recent_salons=recent_html,
         salon_cta_top=salon_cta,
         salon_cta_bottom=salon_cta,
         watch_yt=watch_yt,
@@ -3429,9 +3438,9 @@ CATEGORY_CTA_TOP = {
 
 # Same button again, for an individual Salon recording page (not interviews/roundtables/presentations --
 # Colin, 2026-10-01: "individual salon recording pages... matter more" since that's where search/YouTube/
-# shared-link traffic actually lands). Reused on both build_session_page() placements: directly below the
-# video (before the synopsis/transcript) and again after the full transcript, for a reader who scrolls all
-# the way through a long Salon session.
+# shared-link traffic actually lands). Reused on both build_session_page() placements: below the "Cite this
+# session" box and the Recent Salons strip (moved down from just under the video, Colin 2026-10-02), and
+# again after the full transcript, for a reader who scrolls all the way through a long Salon session.
 SALON_REC_CTA = '<a class="cat-cta rec-cta" href="https://techspressionism.com/salon/" data-pagefind-ignore>ATTEND THE NEXT SALON</a>'
 
 
