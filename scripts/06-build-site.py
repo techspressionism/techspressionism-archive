@@ -827,7 +827,6 @@ html.sent-hl .para.active .tx { background:none; }   /* only the sentence being 
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; position:sticky; top:calc(var(--title-h, 0px) + 1rem); max-height:calc(100vh - var(--title-h, 0px) - 2rem); overflow:auto; overflow-x:hidden; scrollbar-width:thin; padding-right:2.5rem; }   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
   .player-box { position:sticky; top:0; z-index:5; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }   /* was static -- per Colin 2026-09-22, should stay pinned to the top of .side while scrolling within it, same as it already does on mobile (there against the whole page, since .side itself doesn't have its own scroll box below 64rem) */
-  .js .read-actions { position:sticky; top:var(--player-h, 56.25vw); z-index:4; background:var(--bg); }   /* Colin 2026-09-29: stays onscreen right under the pinned video as .side scrolls, not just above the fold once */
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
@@ -3417,20 +3416,11 @@ CATEGORY_INTRO = {
 # name text, so it keeps working if the session is ever retitled.
 CATEGORY_FEATURED_OVERRIDE = {"roundtable": 1}
 
-# A full-width call-to-action button below "Recent ..." and above the About-the-archive footer, keyed by
-# stype -- styled to match techspressionism.com's own WPBakery "RESERVE YOUR SPOT" button (same colors,
-# padding, font) so it reads as one brand crossing from the archive back to the main site. Colin, 2026-09-27:
-# the Salon page gets one sending visitors to techspressionism.com/salon/ to RSVP for the next Salon on Zoom
-# (techspressionism.com's own homepage button already points there too, confirmed live).
-CATEGORY_CTA = {
-    "salon": '<a class="cat-cta" href="https://techspressionism.com/salon/">ATTEND THE NEXT SALON</a>',
-}
-
-# The same CTA repeated right under the page title/intro, above the list of recordings -- a visitor to
-# /salon/ who never scrolls to the bottom still sees it. Same button text/style as CATEGORY_CTA (just one
-# line of context ahead of it), per Colin 2026-10-01: "the one prominent button on the page," recognizable
-# wherever it appears, so this intentionally doesn't introduce a different look (no arrow, no inline-link
-# styling) even though his own example copy had one.
+# The salon category page's "Attend the next Salon" call-to-action, styled to match techspressionism.com's own
+# WPBakery "RESERVE YOUR SPOT" button (same colors, padding, font) so it reads as one brand crossing from the
+# archive back to the main site (Colin 2026-09-27; sends visitors to techspressionism.com/salon/ to RSVP on
+# Zoom). Sits below the featured recording and the "About Salons" intro, above the Recent strip (Colin
+# 2026-10-02), with one line of context ahead of it. Same text/style as SALON_REC_CTA on recording pages.
 CATEGORY_CTA_TOP = {
     "salon": ('<p class="cat-cta-lead">Salons are free and open to all.</p>'
                '<a class="cat-cta" href="https://techspressionism.com/salon/">ATTEND THE NEXT SALON</a>'),
@@ -3477,22 +3467,21 @@ def build_category_page(stype, entries):
     recent_section = f'<h2 class="cat-kicker cat-recent-label">Recent {e(info["plural"])}</h2>\n{recent_html}' if recent_html else ""
     body = f"""<div class="catpage-grid">
 <div class="cat-main">
-{CATEGORY_INTRO.get(stype, "")}
-{CATEGORY_CTA_TOP.get(stype, "")}
 <section class="cat-featured">
 {build_player(featured)}
 <h1 class="cat-latest"><span class="cat-eyebrow">{e(eyebrow)} {e(info['label'])}</span> <span class="cat-sep">//</span> <span class="cat-title-link">{e(topic)}</span></h1>
 <p class="d">{e(when)}{by}</p>
+{read_actions}
+<a class="transcript-toggle" href="{slug(featured)}.html?read=1" data-pagefind-ignore>Read transcript</a>
 {excerpt}
 {speakers_html}
 {flags_html}
-{read_actions}
-<a class="transcript-toggle" href="{slug(featured)}.html?read=1" data-pagefind-ignore>Read transcript</a>
 {watch_yt}
 {cite_section}
 </section>
+{CATEGORY_INTRO.get(stype, "")}
+{CATEGORY_CTA_TOP.get(stype, "")}
 {recent_section}
-{CATEGORY_CTA.get(stype, "")}
 {FOOTER}
 </div>
 <aside class="cat-list"><h2>All {e(info['plural'])} ({len(ordered)})</h2><ul class="sessions">{rows}</ul></aside>
