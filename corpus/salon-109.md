@@ -568,7 +568,7 @@ Awesome. Alright. Anybody else? I mean, is there anybody who was not an artist p
 
 Anyone?
 
-## Lee Musgrave [01:04:42](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3882s)
+## Lisa Sutton [01:04:42](https://www.youtube.com/watch?v=w8IHfgE2veI&t=3882s)
 
 I'll ask a question. I'm curious about… up. How each of you thinks about the way… changing technology, Has affected what you're doing. Like, as your computer ages, and you… maybe you buy new peripherals, and then… then your cord… your cords change, or whatever, and then you have to throw all that stuff out and get something new, and… and. I'm just curious what your experience has been over time with what you're doing, especially when you're mixing analog and digital.
 
@@ -596,7 +596,7 @@ Anyway, I hope that gives a little perspective to people, from those of us who'v
 
 Thanks.
 
-## Lee Musgrave [01:12:07](https://www.youtube.com/watch?v=w8IHfgE2veI&t=4327s)
+## Lisa Sutton [01:12:07](https://www.youtube.com/watch?v=w8IHfgE2veI&t=4327s)
 
 I was wondering, also, As you get… More… working with other people, cooperative work, and, collaborative work, as you get, exhibitions or,. Installations, things like that. As you start showing these things on a larger scale, how has the technology evolved for you? Has it given you, like, a kick in the pants, like, oh, okay, now I gotta get a new computer because I've got a you know, project this on a building or something, you know? So, I'm curious about the… the… how technology has pushed into what you're doing.
 

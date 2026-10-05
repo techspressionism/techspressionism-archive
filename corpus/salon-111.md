@@ -682,7 +682,7 @@ Hi, everybody. I've been involved with Techspression via these videos for about 
 
 Okay, well, looking forward to seeing you, and if there's another time that fits people's schedules that's better, you know, send us an email and we'll see if there's another group. Lisa Sutton is next here.
 
-## Lee Musgrave [01:16:02](https://www.youtube.com/watch?v=Yg62EAcZAPc&t=4562s)
+## Lisa Sutton [01:16:02](https://www.youtube.com/watch?v=Yg62EAcZAPc&t=4562s)
 
 Yeah, I agree with everything everyone has said. Just showing up. Keeps you in action. And I think… who was it that said you're in a dedicated time zone… time… time and space where you can tell the family, no, no, no, sorry, I'm… I'm working, right? And… I think… Being able to see what everyone is doing and discuss the technology, the workflow. How we integrate technology with analog and what we're doing in our careers, the different shows that people are having. It's a fabulous community, and I highly recommend it.
 
@@ -728,7 +728,7 @@ So.
 
 Great. Okay, then wonderful. Lisa. Yes.
 
-## Lee Musgrave [01:22:17](https://www.youtube.com/watch?v=Yg62EAcZAPc&t=4937s)
+## Lisa Sutton [01:22:17](https://www.youtube.com/watch?v=Yg62EAcZAPc&t=4937s)
 
 Yeah, another thing I wanted to. You reminded me that. Just the idea of integrating technology into your life, into your art, a lot of people think of that as a kind of a side thing. Oh, yeah, well, you do your art, and then you take a photograph of it, right? Like, it's separate. But in this group, it's not at all separate. And, and I really appreciate that because a lot of times people give you this feeling like you're cheating, right? If you're cheating. And we're not it's not about.
 
