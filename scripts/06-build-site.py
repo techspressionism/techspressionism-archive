@@ -2569,9 +2569,9 @@ INDEX_TMPL = """<!doctype html>
 <div id="intro-block">
 {browse}
 <p class="intro">The Techspressionism Video Archive is a searchable, citable video archive of recordings related to Techspressionism published from {first_year}&ndash;{latest_year}.
-This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.
-<a href="about.html">More about the archive and how to cite it.</a></p>
-<p class="intro">The archive includes transcripts of Techspressionist <a href="salons.html">salons</a>, artist <a href="interviews.html">interviews</a>,
+The Archive can serve as a research tool for scholars, historians, and anyone with an interest in Techspressionism.
+<a href="about.html">More about the Archive and how to cite it.</a></p>
+<p class="intro">The Archive includes transcripts of Techspressionist <a href="salons.html">salons</a>, artist <a href="interviews.html">interviews</a>,
 <a href="roundtables.html">roundtable discussions</a>, and artist <a href="presentations.html">presentations</a>.
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
