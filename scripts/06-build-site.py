@@ -868,6 +868,21 @@ body.searching .search-sort { display:block; }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
 #search .pagefind-ui__form::before { display:none; }
+.browse { margin:1.6rem 0 1.2rem; }
+.browse-h { margin:0 0 .8rem; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-size:.85rem; font-weight:400; letter-spacing:.06em; text-transform:uppercase; color:#000; }
+.browse-grid { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }   /* 2x2 on phone and tablet, 4-up from the desktop breakpoint */
+@media (min-width:64rem) { .browse-grid { grid-template-columns:repeat(4,minmax(0,1fr)); } }
+.browse-card { display:block; height:100%; color:inherit; text-decoration:none; border:1px solid var(--line); border-radius:.4rem; overflow:hidden; background:#fff; }
+.browse-card:hover, .browse-card:focus-visible { border-color:var(--accent); text-decoration:none; }
+.browse-card img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; background:#ddd; }
+.bc-name { display:block; margin:.6rem .7rem .15rem; font-family:"Kanit",sans-serif; font-style:italic; font-weight:800; font-size:1.05rem; line-height:1.15; text-transform:uppercase; color:var(--accent); }
+.bc-count { color:var(--muted); font-weight:700; }
+@media (max-width:44.99rem) { .bc-name { font-size:.8rem; } }   /* phone: keeps "PRESENTATIONS · 9" on one line in a half-width card */
+.bc-latest { display:block; margin:0 .7rem .7rem; font-size:.82rem; line-height:1.3; color:var(--fg); }
+body.home:not(.searching) header.site .browse-links { visibility:hidden; height:0 !important; margin:0 !important; padding:0 !important; overflow:hidden; }   /* on the home page the category links now sit at the bottom of the intro block (.home-links), after the cards and intro text (Colin 2026-10-05); the header copy stays in the layout at zero height only because the tablet title-width lock above measures its width -- while searching it comes back as the usual category links under the search box */
+.home-links { display:flex; flex-wrap:wrap; justify-content:center; gap:.3rem .8rem; margin:1.4rem 0 .4rem; font-size:1.05rem; }
+.home-links .bsep { color:var(--fg); font-weight:700; }
+.home-links a { color:var(--accent); }
 body.searching #intro-block { display:none; }   /* while searching, the results come first */
 #search .filters-toggle { display:none; width:100%; margin:.6rem 0 .2rem; padding:.45rem .9rem; border:1px solid var(--line); border-radius:1.2rem; background:var(--card); color:var(--fg); font:inherit; font-size:.95rem; cursor:pointer; align-items:center; justify-content:space-between; }
 #search .filters-toggle:hover { border-color:var(--accent); }
@@ -2547,6 +2562,7 @@ INDEX_TMPL = """<!doctype html>
 <div class="stickyheader" id="stickytitle">{sticky_header}</div>
 <main>
 <div id="intro-block">
+{browse}
 <p class="intro">The Techspressionism Video Archive is a searchable, citable transcript archive of recorded video related to Techspressionism published from {first_year}&ndash;{latest_year}.
 This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.
 <a href="about.html">More about the archive and how to cite it.</a></p>
@@ -2554,6 +2570,7 @@ This is a research tool intended for scholars, historians, and anyone with an in
 <a href="roundtables.html">roundtable discussions</a>, and artist <a href="presentations.html">presentations</a>.
 <strong>Transcripts are machine-generated and contain errors</strong>: <strong>verify every quote against the recording before citing.</strong></p>
 <p class="intro">Built in Python with Claude Code. As of {as_of}, {n_recordings} recordings have been processed, with a running total of {hours:,} hours transcribed.</p>
+{home_links}
 </div>
 <div id="artist-hit" data-pagefind-ignore hidden></div>
 <div class="search-sort" data-pagefind-ignore><label>Sort by <select id="sort-select" aria-label="Sort search results by">
@@ -3567,6 +3584,33 @@ def build_artists_page(corpus):
     return add_seo(html_page, "artists.html", seo)
 
 
+def build_browse_row(corpus):
+    """The home page's "Browse the archive" row: one card per recording type, each showing the newest recording of
+    that type by date_recorded (NOT by number: the numbering does not follow the calendar for presentations),
+    linking to the category page. Static HTML, no JS. Where several recordings share the newest date, the lowest
+    number wins (Presentations 5/7/8 are all 2026-07-12; #5 is the one Colin names as the newest)."""
+    cards = []
+    for t, info in TYPES.items():
+        entries = [x for x in corpus if x.get("type", "salon") == t and x.get("date_recorded")]
+        if not entries:
+            continue
+        latest = max(entries, key=lambda x: (x["date_recorded"], -int(x["number"])))
+        title = latest.get("session_title") or "Untitled"
+        try:
+            when = datetime.date.fromisoformat(latest["date_recorded"][:10]).strftime("%b %Y")
+        except ValueError:
+            when = latest["date_recorded"][:4]
+        count = sum(1 for x in corpus if x.get("type", "salon") == t)
+        alt = e("Latest " + info["label"] + ": " + title)
+        thumb = (f'<img src="thumbnails/{e(latest["video_id"])}.jpg" alt="{alt}" width="640" height="360" loading="lazy">'
+                 if (THUMBNAILS_SRC_DIR / f"{latest['video_id']}.jpg").exists() else "")
+        cards.append(f'<li><a class="browse-card" href="{info["plural"].lower()}.html">{thumb}'
+                     f'<span class="bc-name">{e(info["plural"])} <span class="bc-count">&middot; {count}</span></span>'
+                     f'<span class="bc-latest">Latest: {e(title)} &middot; {e(when)}</span></a></li>')
+    return ('<section class="browse" data-pagefind-ignore><h2 class="browse-h">Browse the archive</h2>'
+            '<ul class="browse-grid">' + "".join(cards) + '</ul></section>') if cards else ""
+
+
 def build_index(corpus):
     """The home page: search first, a link to each category's own landing page -- no per-category listing lives
     here any more (Colin, 2026-09-22: those were reachable in place via a query-string URL, which he ruled out
@@ -3592,6 +3636,8 @@ def build_index(corpus):
         hours=hours,
         as_of=as_of,
         n_recordings=len(corpus),
+        browse=build_browse_row(corpus),
+        home_links=build_browse_links(corpus).replace('class="browse-links"', 'class="browse-links home-links"'),
         watch_lead_in=WATCH_LEAD_IN,
         header=build_header(corpus, "", h1=True),
         sticky_header=build_header(corpus, "", sid="-sticky", strip="sticky"),
