@@ -12,6 +12,8 @@ Second source, for recordings with no local file: the featured image of the reco
 "/video/..." page that embeds it), found in the WordPress export (WP_EXPORT below) and fetched one at a time, politely, into
 raw/og-wp/. One that is not exactly 1200x630 is scaled to fit inside 1200x630 on white, never cropped. A featured image shared by
 several recordings (a generic one) is flagged in the report: it is not specific to that recording.
+Hand-made pictures: a recording listed in data/og-image-overrides.json ({"<video id>": "why"}) keeps whatever is already in
+assets/og/<video id>.jpg; the collector skips it, so a picture made by hand is never overwritten by the folder's own file.
 Last resort: the recording's YouTube thumbnail (assets/thumbnails), fitted the same way. Everything is reported in review/og-image-report.csv (type, number, title, video id, source, note).
 """
 import csv
@@ -36,6 +38,7 @@ PAT = re.compile(r"_(WP|WS|FB)\.(jpe?g|png)$", re.I)
 RANK = {"WP": 0, "WS": 1, "FB": 2}
 WP_EXPORT = Path.home() / "Downloads" / "techspressionism.WordPress.2026-09-22.xml"
 WP_CACHE = ROOT / "raw" / "og-wp"
+OVERRIDES = json.load(open(ROOT / "data" / "og-image-overrides.json")) if (ROOT / "data" / "og-image-overrides.json").exists() else {}
 W, H = 1200, 630
 
 
@@ -105,6 +108,9 @@ def main():
     for s in sessions:
         head = [s["type"], s["number"], s.get("session_title") or s.get("interviewee") or "", s["video_id"]]
         dest = OUT / f"{s['video_id']}.jpg"
+        if s["video_id"] in OVERRIDES and dest.exists():
+            report.append(head + ["hand-made (kept)", OVERRIDES[s["video_id"]]])
+            continue
         cands = []
         for root in m.local_search_roots(s):
             if not root.is_dir():

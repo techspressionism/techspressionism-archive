@@ -102,7 +102,7 @@ It would always be my decision who got in or who didn't, and in this anonymous w
 
 Yeah, so it's, 6 weeks, twice a week, and then I'm gonna talk a little bit extra. And then since then. Oh, that's mine. Since then, we've actually gotten a Knight grant, which is a Techspressionism grant, which has given us a lot of new capabilities, and we also, like I said before, we are now part of a museum called the Institute of Contemporary Art. We're inside of their art and research program. And they've taken over a lot of expenses, and also raise the amount of money that we give to the guests and to the artists.
 
-To participate, and they pay that. And then after that, what has also happened is that I always envisioned to have a shared studio program. So, cha and Carolina are going to talk about that. And… and I just want to say I'm super excited. That, Techspressionism, that we're having, like, a closer relationship, because we've been having a relationship for a while. Renata was a guest for us. And cha been a part of Techspressionism for a lot. We've been talking for a long time, and so it's just awesome that we've kind of gotten the, we've gone ahead and, you know.
+To participate, and they pay that. And then after that, what has also happened is that I always envisioned to have a shared studio program. So, cha and Carolina are going to talk about that. And… and I just want to say I'm super excited. That, Techspressionism, that we're having, like, a closer relationship, because we've been having a relationship for a while. Renata was a guest for us. And cha's been a part of Techspressionism for a lot. We've been talking for a long time, and so it's just awesome that we've kind of gotten the, we've gone ahead and, you know.
 
 Gotten married a little bit. Alright.
 
@@ -110,61 +110,59 @@ Gotten married a little bit. Alright.
 
 So cool. Thank you, Ariel. We're gonna take questions at the end for everybody. I'd like cha to, do you have a screen share that you're gonna do as well? To get ready to explain his residency and talk about the role of the guest, how easy it is to apply? And tell us where you're, zooming in from, cha. Thank you very much.
 
-## Unattributed [15:36](https://www.youtube.com/watch?v=pMRthFj7aw4&t=936s)
+## cha [15:36](https://www.youtube.com/watch?v=pMRthFj7aw4&t=936s)
 
-Cha:): Thank you, Tommy, and thank you, everybody, for being here today. Cha:): I'm zooming in from… Miami Beach, Florida.
+Thank you, Tommy, and thank you, everybody, for being here today. I'm zooming in from… Miami Beach, Florida.
 
-Cha:): And I… the first time I encountered a Loop Art Critique was… Cha:): an open call on… on Instagram. Cha:): Ariel, not shortly before that, had mistaken me for another artist and sent a message to me. Cha:): And….
+And I… the first time I encountered a Loop Art Critique was… an open call on… on Instagram. Ariel, not shortly before that, had mistaken me for another artist and sent a message to me. And….
 
-Cha:): when she… put out the open call, I checked it out, and I thought, this is great. Cha:): All I have to do is submit 5 images.
+When she… put out the open call, I checked it out, and I thought, this is great. All I have to do is submit 5 images.
 
-Cha:): So it was very easy to apply. Cha:): And I loved it. And the fact that…. Cha:): that I became, as a resident of Loop Art Critique, functioning as a residency, I became… Cha:): part of Ariel's artwork.
+So it was very easy to apply. And I loved it. And the fact that…. That I became, as a resident of Loop Art Critique, functioning as a residency, I became… part of Ariel's artwork.
 
 ## Tommy Mintz [16:50](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1010s)
 
 Ariel, can you stop sharing? I think we have your screen up still, I'm so sorry. I think we didn't get cha screen yet.
 
-## Unattributed [17:06](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1026s)
+## cha [17:06](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1026s)
 
-Cha:): And I just thought that was a really beautiful thing.
+And I just thought that was a really beautiful thing.
 
 ## Tommy Mintz [17:10](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1030s)
 
 Cool, thank you.
 
-## Unattributed [17:11](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1031s)
+## cha [17:11](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1031s)
 
-Cha:): to be participating in this… in this thing, which I wasn't even sure exactly what it was yet, but the fact that it was an artwork. Cha:): And that, participating, I was part of the artwork. Cha:): In other words, the Loop Art Critique really… Cha:): It exists, but it exists in the best way. Cha:): As the artists who… who come… And… share their art. Cha:): And put together a show, and talked to each other.
+To be participating in this… in this thing, which I wasn't even sure exactly what it was yet, but the fact that it was an artwork. And that, participating, I was part of the artwork. In other words, the Loop Art Critique really… it exists, but it exists in the best way. As the artists who… who come… And… share their art. And put together a show, and talked to each other.
 
-Cha:): So it's very easy to apply. I encourage everybody to do that in the future. You can apply as many times as you like. We have Cha:): Quite a few artists who are… Cha:): Who have applied multiple times, and have come back and spent more time with us, and we love that.
+So it's very easy to apply. I encourage everybody to do that in the future. You can apply as many times as you like. We have quite a few artists who are… who have applied multiple times, and have come back and spent more time with us, and we love that.
 
-Cha:): So I was in Loop Art Critique 2, and… Cha:): shortly after that, Ariel invited me… asked me if I would come and substitute for her in one of the critiques, and I said, well, sure, I'd love to. Cha:): And then not long after that. Cha:): She asked me to help out a little more… Cha:): And I had the idea that I would be the official Cha:): Documentary photographer, because part of my art practice is, using the screenshot.
+So I was in Loop Art Critique 2, and… Shortly after that, Ariel invited me… asked me if I would come and substitute for her in one of the critiques, and I said, well, sure, I'd love to. And then not long after that. She asked me to help out a little more… and I had the idea that I would be the official Documentary photographer, because part of my art practice is, using the screenshot.
 
-Cha:): So now… Well, it's almost 3 years later. Cha:): I'm still working as a documentary photographer, for Loop Art Critique. Cha:): And… also as a critique leader, which I love. Cha:): I've really found a home here. I'm… Cha:): pain… I would say I'm painfully shy, which… Cha:): I'm just kind of realizing what that means, the pain, but… Cha:): So, in Loop Art Critique, under the guise of an avatar, Cha:): I've had the wonderful opportunity to Cha:): Meet artists from around the world, and share time and space with them.
+So now… Well, it's almost 3 years later. I'm still working as a documentary photographer, for Loop Art Critique. And… also as a critique leader, which I love. I've really found a home here. I'm… pain… I would say I'm painfully shy, which… I'm just kind of realizing what that means, the pain, but… so, in Loop Art Critique, under the guise of an avatar, I've had the wonderful opportunity to meet artists from around the world, and share time and space with them.
 
-Cha:): Which is just a priceless… a priceless thing. Cha:): So the… the… when Loop Art Critique functions as a… as a… as an art residency. Cha:): One of its many functions… Cha:): We do these series of critiques. Cha:): That lead up to a final group show. Cha:): And so the critiques function as, you know, your typical art critique, but they also work Cha:): As a way to build a… Cha:): Small or micro-community over a short period of time, if it works out well, to the point where Cha:): Everybody gets to know each other a little better.
+Which is just a priceless… a priceless thing. So the… the… when Loop Art Critique functions as a… as a… as an art residency. One of its many functions… we do these series of critiques. That lead up to a final group show. And so the critiques function as, you know, your typical art critique, but they also work as a way to build a… small or micro-community over a short period of time, if it works out well, to the point where everybody gets to know each other a little better.
 
-Cha:): And it's comfortable enough With each other, that they're able to work together to create A final show. Cha:): And that's what we're looking at here. This is the… Cha:): exhibition hub space is kind of what we're… we're calling it. The thing about Loop Art Critique is we're making it up as we go along in a lot of things. I mean, we didn't know what this. Cha:): what this… type of space. Cha:): Is or was, but it's kind of settled into an exhibition hub space.
+And it's comfortable enough With each other, that they're able to work together to create A final show. And that's what we're looking at here. This is the… Exhibition hub space is kind of what we're… we're calling it. The thing about Loop Art Critique is we're making it up as we go along in a lot of things. I mean, we didn't know what this. What this… type of space. Is or was, but it's kind of settled into an exhibition hub space. Which is home to a number of portals which lead out to, individual Verses for each of the artists in the… in the space. So I'll just… go around and show you which are the portals. Not all of these objects are portals. But you click one, and you end up… In a verse.
 
-Cha:): Which is home to a number of portals which lead out to, individual Cha:): Verses for each of the artists in the… in the space. Cha:): So I'll just… go around and show you which are the portals. Not all of these objects are portals. Cha:): But you click one, and you end up… In a verse.
+And we'll just click into… One here.
 
-Cha:): And we'll just click into… One here.
+The key guacamomas, unaware of their former state.
 
-Audio shared by cha:): The key guacamomas, unaware of their former state.
+Which for which they both receive several. There was a time when the key were the forest. Not of the forest. Mr. The forest. Things like… Can I ask her about.
 
-Audio shared by cha:): Which for which they both receive several. Audio shared by cha:): There was a time when the key were the forest. Not of the forest. Cha:): Mr. Audio shared by cha:): the forest. Audio shared by cha:): Things like… Can I ask her about.
+Or something.
 
-Audio shared by cha:): Or something.
+After some time, the key forgot themselves. This is… this is a work by… into the world and its new ways. Which were now just… the ways. I work about… Kind of… speculative anthropology. Astrological.
 
-Audio shared by cha:): After some time, the key forgot themselves. Cha:): This is… this is a work by… audio shared by cha:): Into the world and its new ways. Audio shared by cha:): Which were now just… the ways. Cha:): I work about… Kind of… speculative anthropology. Cha:): Astrological.
+And objects are placed around this space. And when you approach, He's interesting. And audio is triggered. There are only 4 events during which a key's interred self becomes apparent.
 
-Cha:): And objects are placed around this space. Cha:): And when you approach, He's interesting. Cha:): And audio is triggered. Audio shared by cha:): There are only 4 events during which a key's interred self becomes apparent.
+They're nice at home.
 
-Audio shared by cha:): They're nice at home.
+Another interesting facet of the group of artists is that They're each… our guest juror each has their… their own taste, I guess. So we get s- we get… A group of artists that are… In a sense, curated. So… Dependent upon who the juror happens to be.
 
-Cha:): Another interesting facet of the group of artists is that They're each… Cha:): Our guest juror each has their… their own taste, I guess. Cha:): So we get s- we get… Cha:): A group of artists that are… In a sense, curated. Cha:): So… Dependent upon who the juror happens to be.
-
-Cha:): Well, I think that's… I think that's it for me.
+Well, I think that's… I think that's it for me.
 
 ## Tommy Mintz [24:38](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1478s)
 
@@ -182,9 +180,9 @@ My button stopped working. Am I muted still?
 
 Nope, can hear you now.
 
-## Unattributed [25:07](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1507s)
+## cha [25:07](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1507s)
 
-Cha:): Wonderful.
+Wonderful.
 
 ## Tommy Mintz [25:08](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1508s)
 
@@ -260,9 +258,9 @@ Makes sense.
 
 I just got here yesterday, so it's a… I have a new Wi-Fi relationship, and… It's like, it was kind of complicated to date, so, yeah, I'm not sure. Maybe it's too heavy, GALINA space?
 
-## Unattributed [32:51](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1971s)
+## cha [32:51](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1971s)
 
-Cha:): Yeah, it might be.
+Yeah, it might be.
 
 ## Carolina Kleine Samson [32:52](https://www.youtube.com/watch?v=pMRthFj7aw4&t=1972s)
 
@@ -330,7 +328,7 @@ Yeah, I have… oh, here I entered the studio, and I want to mention that many o
 
 So now I have some pieces, some… some of my pieces are… related to painting the screen and recycling files. So, you can see that there, and, like, I, I wanna mention something that is related to the graphic design, that is, like, I don't know, we are kind of using everything in here. I'm gonna type something,.
 
-So the idea is to use the tools that we have here. For example, I'm typing on the cha, and I'm creating an object. Here, so… I'm… I'm kind of, using, like, putting information inside Loop, and then I'm, like, taking a screenshot of the information, and voila! The flyer is, is made. So…
+So the idea is to use the tools that we have here. For example, I'm typing on the chat, and I'm creating an object. Here, so… I'm… I'm kind of, using, like, putting information inside Loop, and then I'm, like, taking a screenshot of the information, and voila! The flyer is, is made. So…
 
 ## Tommy Mintz [39:17](https://www.youtube.com/watch?v=pMRthFj7aw4&t=2357s)
 
@@ -358,7 +356,7 @@ Yes.
 
 Okay. So, I was selected by, Joey Zaza to participate in DMRAM, Newfound Verse, an art critic group within the Loop Art Critic Residency program. The six-week residency took place from September 8, 2025, through November 23, 2025. We met every Monday and Thursday from 12 to 3 p.m. In the Critic Club, where we engaged in group discussions, artistic feedback, and critical conversations. Through… around our work. So, also, Nina Sobell was… in our group, prompt expression, some… So I… I'm glad I took many screenshots and selfies.
 
-So, cha, Ariel, and Carolina were our mentors, especially chaa was always there. Throughout the residency, they guided us through the program and supported us throughout the creative process. During the first sessions, we became familiar with the tools and features of the verse. We learned how to upload and incorporate texts, images, and emojis, as well as how to use the pen tool. We also learned how to navigate the verse. Including how to move, explore, and fly through the virtual environment. So this is one of the sessions that we were playing around with pens and uploading huge emojis and converting text to objects in the wares. And that's me, that's my avatar. So, in each session, artists uploaded their artwork to the verse, and other participants engaged in an open conversation about the work.
+So, chaa, Ariel, and Carolina were our mentors, especially chaa was always there. Throughout the residency, they guided us through the program and supported us throughout the creative process. During the first sessions, we became familiar with the tools and features of the verse. We learned how to upload and incorporate texts, images, and emojis, as well as how to use the pen tool. We also learned how to navigate the verse. Including how to move, explore, and fly through the virtual environment. So this is one of the sessions that we were playing around with pens and uploading huge emojis and converting text to objects in the wares. And that's me, that's my avatar. So, in each session, artists uploaded their artwork to the verse, and other participants engaged in an open conversation about the work.
 
 The discussions were non-judgmental and supportive, focusing on positive feedback throughout the observations and constructive dialogue. This created a safe and encouraging environment for Artist to share their work, exchange ideas, and learn from one another. So that's me, and I uploaded my artworks. And took a selfie in front of it.
 
@@ -372,9 +370,9 @@ I also created several GLB artworks based on my own hand drawings, this process 
 
 So, as an optional final project, each participant was invited to create their own verse using XR Creator Studio. I created my verse, inspired by a real mystical location in western Iran called the Throne of SALON, Taqtes, or Layman. This project allowed me to connect my artistic practice with plays rich in history, mythology, and mystery, and to reinterpret it through a contemporary virtual environment. So we're going to visit my Verse later. Also, my piece titled Alchemist's Dream. I made that, image myself, so… is minted and listed in Mona Gallery on Object.com as part of the Dream Ram Neof Angel Bertz exhibition.
 
-So this is, the poster of the Madward exhibition, and the title was, suggested by, Michael. And, it's official poster… This is the main hall, which we are going to visit. After, after a couple of minutes… and this is the GLB I made through the 6 weeks residency, and it's the portal to my birth. So… I'm gonna stop sharing my Google Slide, and I'm going to put the link in the… cha. And if you can find my, Portal, you can go, through my portal, or I can share my verse, so we can go directly to my verse.
+So this is, the poster of the Madward exhibition, and the title was, suggested by, Michael. And, it's official poster… This is the main hall, which we are going to visit. After, after a couple of minutes… and this is the GLB I made through the 6 weeks residency, and it's the portal to my birth. So… I'm gonna stop sharing my Google Slide, and I'm going to put the link in the… Chat. And if you can find my, Portal, you can go, through my portal, or I can share my verse, so we can go directly to my verse.
 
-So I'm sharing, the main hall. Great to see you too, Sina! I encourage everyone to also visit Nina's verse. So I, put the link to the main hall in the cha. If anyone wants to join, I recommend to use Chrome. And log in. If it's difficult, I can just put my verse, I don't know which one.
+So I'm sharing, the main hall. Great to see you too, Sina! I encourage everyone to also visit Nina's verse. So I, put the link to the main hall in the chat. If anyone wants to join, I recommend to use Chrome. And log in. If it's difficult, I can just put my verse, I don't know which one.
 
 Are you going into the main hall?
 
@@ -460,17 +458,17 @@ I have a guest.
 
 I think that's the avatar of someone visiting. Is it Carolina? No.
 
-## Unattributed [57:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3438s)
+## cha [57:18](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3438s)
 
-Cha:): Ariel.
+Ariel.
 
 ## Tommy Mintz [57:19](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3439s)
 
 One else in their head. It might have been me. I might… I'm not sure if my avatar still.
 
-## Unattributed [57:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3444s)
+## cha [57:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3444s)
 
-Cha:): I mean, Ariel.
+I mean, Ariel.
 
 ## Sahar Moussavi [57:25](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3445s)
 
@@ -530,7 +528,7 @@ I made one video that I was really happy with, and I liked it so well that now I
 
 That talks about her drawings. It's quite comprehensive. Louise Bourgeois lived on the Lower West Side for a long time, and she hosted a Sunday SALON in her home every Sunday for her students and for other artists who were invited to come and have a drink and present work in a very non… Judgmental and nurturing kind of environment, and that's exactly what I found. Here, in this SALON, you can come on Sundays between 12 and 2 p.m. Eastern, or 5 and 7 p.m. Eastern.
 
-And cha will be here, and I will be here at the 5pm SALON. We see a couple… a GLB file of cha here, the green Sonriza, which is part of a really large series he's done. I think he's done hundreds of them. And to the right, you see five works by SAHAR. This is what I mean about putting a JPEG into the space. She's just uploaded these photos, and you can enlarge them. I don't know if it's not working here, but there's a way to…
+And cha will be here, and I will be here at the 5pm SALON. We see a couple… a GLB file of chaos here, the green Sonriza, which is part of a really large series he's done. I think he's done hundreds of them. And to the right, you see five works by SAHAR. This is what I mean about putting a JPEG into the space. She's just uploaded these photos, and you can enlarge them. I don't know if it's not working here, but there's a way to…
 
 ## Sahar Moussavi [01:03:27](https://www.youtube.com/watch?v=pMRthFj7aw4&t=3807s)
 
@@ -634,9 +632,9 @@ Thank you.
 
 Copy. You can export one first.
 
-## Unattributed [01:18:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4728s)
+## cha [01:18:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4728s)
 
-Cha:): Yeah.
+Yeah.
 
 ## Ariel Baron-Robbins [01:18:48](https://www.youtube.com/watch?v=pMRthFj7aw4&t=4728s)
 
@@ -650,9 +648,9 @@ Oh.
 
 But I will say, it's pretty amazing from going to not… that's what I said in the comments, from going to not, you know, being able to make a GLB to this, you know, and that's one thing I forgot to highlight, was that you know, sort of the kind of educational sort of aspect of Loop, which is… I didn't want to, like, recreate this hierarchical, like. Way of educating, because, like, in my mind, as a professor, my… I would have just loved, loved to have like, all the students learn from each other, you know, and… and I, you know, could, you know, give them projects, but then they could, you know, also participate in a… this is, like, the, like, you know, wonderful… feeling that you were, you know, like, mythical, classroom, right? Which doesn't really exist. I'm sorry. Not at least at the colleges I've gotten to teach at. It's… it's… you have to have this hierarchy, even if you don't want it. So, like, I was like, well, this… I definitely don't want… Loop to be like that, so… The best thing about it is that it's not student-teacher at all, you know? These are all adults. You know, we're all adults, you know, and we're all learning from each other, nobody… some of us have particular knowledge about GLBs, or how to export this, and then we can help each other, and it's all very, like, From individual, and from peer-to-peer, and a very horizontal learning space. One thing that we always do, and this is probably what I'm doing instinctually, is that when anybody mentions anything that is, like, an article, or a YouTube video, or a new program, or something.
 
-Is… usually it's in the cha. Even if it's not, I'll write it in the cha, because I want… so they might just say it in passing, but I want everyone else to know about it, right? So I just, like, go online really quickly, find the app, put it in the chat, and then we also do that in the Discord. So that way, during the critiques, if people want to go back and look through the notes, and they're like, somebody mentioned this amazing interview or article, their app.
+Is… usually it's in the chat. Even if it's not, I'll write it in the chat, because I want… so they might just say it in passing, but I want everyone else to know about it, right? So I just, like, go online really quickly, find the app, put it in the chat, and then we also do that in the Discord. So that way, during the critiques, if people want to go back and look through the notes, and they're like, somebody mentioned this amazing interview or article, their app.
 
-They can find it always written down. And that's kind of, like, another way of… of doing this. Because it's hard during a feedback session sometimes to take notes. So we kind of think about it as, you know, that's one of the things, like, one of us is there to kind of guide the critique, but our time there, or… or introduce a critique game, or just let people talk, but one of the things that we do there is, you know, we do contribute to critiques sometimes, but a lot of times we're just recording things down in the Discord, in the cha, and stuff like that. So there is an educational kind of thing, but it's coming from these, like… I always thought it's really interesting, we have People from all over the world, right? And each of them have their own little resources that they draw from.
+They can find it always written down. And that's kind of, like, another way of… of doing this. Because it's hard during a feedback session sometimes to take notes. So we kind of think about it as, you know, that's one of the things, like, one of us is there to kind of guide the critique, but our time there, or… or introduce a critique game, or just let people talk, but one of the things that we do there is, you know, we do contribute to critiques sometimes, but a lot of times we're just recording things down in the Discord, in the chat, and stuff like that. So there is an educational kind of thing, but it's coming from these, like… I always thought it's really interesting, we have People from all over the world, right? And each of them have their own little resources that they draw from.
 
 Very, very, very different, you know? From somebody that's in the east coast of the United States. So that's also, like, a thing that I think is really fun.
 
@@ -758,17 +756,17 @@ Cha?
 
 Oh.
 
-## Unattributed [01:31:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5484s)
+## cha [01:31:24](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5484s)
 
-Cha:): Yeah, definitely, I think…
+Yeah, definitely, I think…
 
 ## Galina Shevchenko [01:31:26](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5486s)
 
 I'm too, GALIMA here.
 
-## Unattributed [01:31:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5489s)
+## cha [01:31:29](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5489s)
 
-Cha:): Yeah, definitely. You are a very good example, GALINA. How about you? Nice to see you.
+Yeah, definitely. You are a very good example, GALINA. How about you? Nice to see you.
 
 ## Galina Shevchenko [01:31:35](https://www.youtube.com/watch?v=pMRthFj7aw4&t=5495s)
 
