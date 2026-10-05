@@ -868,8 +868,8 @@ body.searching .search-sort { display:block; }
 /* the header search box replaces the widget's own input; the results live inside the widget's form, so hide only the input row */
 #search .pagefind-ui__search-input, #search .pagefind-ui__search-clear { display:none; }
 #search .pagefind-ui__form::before { display:none; }
-.browse { margin:1.6rem 0 1.2rem; }
-.browse-h { margin:0 0 .8rem; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-size:.85rem; font-weight:400; letter-spacing:.06em; text-transform:uppercase; color:#000; }
+.browse { margin:0 0 1.2rem; }
+.browse-h { margin:0 0 .8rem; text-align:center; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-size:.85rem; font-weight:400; letter-spacing:.06em; text-transform:uppercase; color:#000; }
 .browse-grid { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }   /* 2x2 on phone and tablet, 4-up from the desktop breakpoint */
 @media (min-width:64rem) { .browse-grid { grid-template-columns:repeat(4,minmax(0,1fr)); } }
 .browse-card { display:block; height:100%; color:inherit; text-decoration:none; border:1px solid var(--line); border-radius:.4rem; overflow:hidden; background:#fff; }
@@ -2563,7 +2563,7 @@ INDEX_TMPL = """<!doctype html>
 <main>
 <div id="intro-block">
 {browse}
-<p class="intro">The Techspressionism Video Archive is a searchable, citable transcript archive of recorded video related to Techspressionism published from {first_year}&ndash;{latest_year}.
+<p class="intro">The Techspressionism Video Archive is a searchable, citable video archive of recordings related to Techspressionism published from {first_year}&ndash;{latest_year}.
 This is a research tool intended for scholars, historians, and anyone with an interest in Techspressionism.
 <a href="about.html">More about the archive and how to cite it.</a></p>
 <p class="intro">The archive includes transcripts of Techspressionist <a href="salons.html">salons</a>, artist <a href="interviews.html">interviews</a>,
@@ -3506,7 +3506,7 @@ def build_category_page(stype, entries):
 
     page = canonical_url(f"{info['plural'].lower()}/")
     desc = lib_seo.clip_text(f"{'A featured' if override_num is not None else 'The most recent'} Techspressionism {info['label']} and the full archive of "
-                              f"{len(ordered)}, every one a searchable, citable transcript.")
+                              f"{len(ordered)} recordings, each with a searchable, citable transcript.")
     head = build_header(NAV_CORPUS, "", video_scope=True)
     sticky_head = build_header(NAV_CORPUS, "", sid="-sticky", strip="sticky", video_scope=True)
     ld = lib_seo.about_graph(base=canonical_url(""), brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, page_url=page, description=desc,
@@ -4215,7 +4215,7 @@ def seo_for_home(corpus):
         ld = lib_seo.home_graph(base=page, brand=BRAND, org_name=ORG_NAME, org_url=ORG_URL, description=desc, first_year=st["first"],
                                 last_year=st["last"], csv_url=canonical_url("data/recordings.csv"), license_url=SITE_CONFIG.get("license_url") or "",
                                 doi=SITE_CONFIG.get("zenodo_doi") or "", youtube_channel=SITE_CONFIG.get("youtube_channel_url") or "")
-    return dict(title=f"{BRAND}: Searchable Transcript Archive", social_title=BRAND, description=desc,
+    return dict(title=f"{BRAND}: Watch and Search Salons, Interviews & More", social_title=BRAND, description=desc,
                 url=page, image=default_share_image()[0] if page else "", image_size=default_share_image()[1], og_type="website", jsonld=ld, meta=[],
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
@@ -4250,7 +4250,7 @@ def add_seo(page_html, filename, seo):
                              discovery=([("sitemap", "application/xml", canonical_url("sitemap.xml"), "Sitemap"),
                                          ("alternate", "text/plain", canonical_url("llms.txt"), "llms.txt: Markdown index of the archive for AI tools")]
                                         if canonical_base() else ()),
-                             image_alt=seo.get("image_alt") or (SITE_CONFIG.get("og_image_alt") or "Techspressionism Video Archive: a searchable, citable transcript archive of Techspressionism video" if seo["image"] else ""), og_extra=seo.get("og_extra", ()))
+                             image_alt=seo.get("image_alt") or (SITE_CONFIG.get("og_image_alt") or "Techspressionism Video Archive: a searchable, citable video archive of Techspressionism salons, interviews, roundtables and presentations" if seo["image"] else ""), og_extra=seo.get("og_extra", ()))
     page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
     if "sitefoot" not in page_html:
         page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
@@ -4266,7 +4266,7 @@ def build_collab_page():
     repo = "https://github.com/techspressionism/techspressionism-archive"
     body = f"""<h1>Techspressionism Archive — Collaborator Brief for Michael</h1>
 <p class="meta">30 September 2026 &middot; Colin Goldberg</p>
-<p>This project is the Techspressionism Video Archive: a searchable, citable transcript archive of 148 Techspressionism
+<p>This project is the Techspressionism Video Archive: a searchable, citable video archive of 148 Techspressionism
 Zoom salons, interviews, roundtables and presentations, built as a static site. Staging:
 <a href="https://techspressionism.github.io/techspressionism-archive/" target="_blank" rel="noopener">techspressionism.github.io/techspressionism-archive</a>.
 Live: <a href="https://techspressionism.com/archive/" target="_blank" rel="noopener">techspressionism.com/archive</a>.</p>
@@ -4390,7 +4390,7 @@ def build_about(corpus):
     desc = lib_seo.clip_text("What the Techspressionism Video Archive contains, how its transcripts are made and how accurate they are, "
                              "how to cite a passage, and where to download the data.")
     body = f"""<h1>About the {e(BRAND)}</h1>
-<p>The {e(BRAND)} is a searchable, citable transcript archive of the recorded video published on the Techspressionism YouTube channel.
+<p>The {e(BRAND)} is a searchable, citable video archive of the recordings published on the Techspressionism YouTube channel.
 It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
 <a href="salons.html">salons</a>, {tn.get('interview', 0)} artist <a href="interviews.html">interviews</a>,
 {tn.get('roundtable', 0)} <a href="roundtables.html">roundtables</a> and {tn.get('presentation', 0)} <a href="presentations.html">presentations</a>.
