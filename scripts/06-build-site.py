@@ -871,11 +871,16 @@ body.searching .search-sort { display:block; }
 .browse { margin:0 0 1.2rem; }
 .browse-h { margin:0 0 .8rem; text-align:center; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; font-size:.85rem; font-weight:400; letter-spacing:.06em; text-transform:uppercase; color:#000; }
 .browse-grid { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }   /* 2x2 on phone and tablet, 4-up from the desktop breakpoint */
-@media (min-width:64rem) { .browse-grid { grid-template-columns:repeat(4,minmax(0,1fr)); } }
+@media (min-width:64rem) {
+  .browse-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
+  .browse { position:relative; left:50%; width:min(60rem, 92vw); transform:translateX(-50%); }   /* wider than the 44rem intro column so the four cards are a readable size (Colin 2026-10-05) */
+}
 .browse-card { display:block; height:100%; color:inherit; text-decoration:none; border:1px solid var(--line); border-radius:.4rem; overflow:hidden; background:#fff; }
 .browse-card:hover, .browse-card:focus-visible { border-color:var(--accent); text-decoration:none; }
 .browse-card img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; background:#ddd; }
 .bc-name { display:block; margin:.6rem .7rem .15rem; font-family:"Kanit",sans-serif; font-style:italic; font-weight:800; font-size:1.05rem; line-height:1.15; text-transform:uppercase; color:var(--accent); }
+.bc-meta { white-space:nowrap; }   /* "// 30 VIDEOS" wraps as one piece on a narrow card, never splitting the number from the word */
+.bc-sep { color:#000; }
 .bc-count { color:var(--muted); font-weight:700; }
 @media (max-width:44.99rem) { .bc-name { font-size:.8rem; } }   /* phone: keeps "PRESENTATIONS · 9" on one line in a half-width card */
 .bc-latest { display:block; margin:0 .7rem .7rem; font-size:.82rem; line-height:1.3; color:var(--fg); }
@@ -3605,7 +3610,7 @@ def build_browse_row(corpus):
         thumb = (f'<img src="thumbnails/{e(latest["video_id"])}.jpg" alt="{alt}" width="640" height="360" loading="lazy">'
                  if (THUMBNAILS_SRC_DIR / f"{latest['video_id']}.jpg").exists() else "")
         cards.append(f'<li><a class="browse-card" href="{info["plural"].lower()}.html">{thumb}'
-                     f'<span class="bc-name">{e(info["plural"])} <span class="bc-count">&middot; {count}</span></span>'
+                     f'<span class="bc-name">{e(info["plural"])} <span class="bc-meta"><span class="bc-sep">//</span> <span class="bc-count">{count} {"video" if count == 1 else "videos"}</span></span></span>'
                      f'<span class="bc-latest">Latest: {e(title)} &middot; {e(when)}</span></a></li>')
     return ('<section class="browse" data-pagefind-ignore><h2 class="browse-h">Browse the archive</h2>'
             '<ul class="browse-grid">' + "".join(cards) + '</ul></section>') if cards else ""
