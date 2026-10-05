@@ -1,5 +1,5 @@
 {
-  "source_dir": "~/Documents/~TECHSPRESSIONISM/VIDEO/SALON",
+  "source_dir": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/SALON",
   "sessions": {
     "02": {
       "dir_name": "SALON_02",
@@ -1579,10 +1579,40 @@
           "kind": null
         },
         {
+          "path": "SALON_108/RECORDINGS/GMT20260716-160623_Recording.cc.vtt",
+          "ext": "vtt",
+          "size_bytes": 94435,
+          "kind": "closed_captions"
+        },
+        {
+          "path": "SALON_108/RECORDINGS/GMT20260716-160623_Recording.m4a",
+          "ext": "m4a",
+          "size_bytes": 60461895,
+          "kind": null
+        },
+        {
           "path": "SALON_108/RECORDINGS/GMT20260716-160623_Recording.transcript.vtt",
           "ext": "vtt",
           "size_bytes": 103373,
           "kind": "transcript"
+        },
+        {
+          "path": "SALON_108/RECORDINGS/GMT20260716-160623_Recording_2048x1152.mp4",
+          "ext": "mp4",
+          "size_bytes": 824217846,
+          "kind": null
+        },
+        {
+          "path": "SALON_108/RECORDINGS/GMT20260716-160623_Recording_gallery_2048x1152.mp4",
+          "ext": "mp4",
+          "size_bytes": 787138892,
+          "kind": null
+        },
+        {
+          "path": "SALON_108/RECORDINGS/GMT20260716-160623_RecordingnewChat.txt",
+          "ext": "txt",
+          "size_bytes": 7980,
+          "kind": "chat_log"
         },
         {
           "path": "SALON_108/SALON_108_HD.jpg",
@@ -1634,22 +1664,106 @@
         }
       ],
       "has_transcript": true,
-      "has_closed_captions": false,
-      "has_chat_log": false
+      "has_closed_captions": true,
+      "has_chat_log": true
     },
     "109": {
       "dir_name": "SALON_109",
       "files": [
         {
+          "path": "SALON_109/RECORDINGS/GMT20260806-160521_Recording.cc.vtt",
+          "ext": "vtt",
+          "size_bytes": 98013,
+          "kind": "closed_captions"
+        },
+        {
+          "path": "SALON_109/RECORDINGS/GMT20260806-160521_Recording.m4a",
+          "ext": "m4a",
+          "size_bytes": 62991297,
+          "kind": null
+        },
+        {
           "path": "SALON_109/RECORDINGS/GMT20260806-160521_Recording.transcript.vtt",
           "ext": "vtt",
           "size_bytes": 115252,
           "kind": "transcript"
+        },
+        {
+          "path": "SALON_109/RECORDINGS/GMT20260806-160521_Recording_2560x1440.mp4",
+          "ext": "mp4",
+          "size_bytes": 1206685698,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/RECORDINGS/GMT20260806-160521_Recording_gallery_2560x1440.mp4",
+          "ext": "mp4",
+          "size_bytes": 996592080,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/RECORDINGS/GMT20260806-160521_RecordingnewChat.txt",
+          "ext": "txt",
+          "size_bytes": 13831,
+          "kind": "chat_log"
+        },
+        {
+          "path": "SALON_109/SALON_109_HD.jpg",
+          "ext": "jpg",
+          "size_bytes": 235757,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_HD.pdf",
+          "ext": "pdf",
+          "size_bytes": 63880889,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_IG.jpg",
+          "ext": "jpg",
+          "size_bytes": 168221,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_IG.pdf",
+          "ext": "pdf",
+          "size_bytes": 55047793,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_MC.jpg",
+          "ext": "jpg",
+          "size_bytes": 167928,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_MC.pdf",
+          "ext": "pdf",
+          "size_bytes": 55253660,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_WP.jpg",
+          "ext": "jpg",
+          "size_bytes": 101982,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_WP.pdf",
+          "ext": "pdf",
+          "size_bytes": 52143907,
+          "kind": null
+        },
+        {
+          "path": "SALON_109/SALON_109_open_mic.jpg",
+          "ext": "jpg",
+          "size_bytes": 3539992,
+          "kind": null
         }
       ],
       "has_transcript": true,
-      "has_closed_captions": false,
-      "has_chat_log": false
+      "has_closed_captions": true,
+      "has_chat_log": true
     },
     "11": {
       "dir_name": "SALON_11",
@@ -1711,13 +1825,317 @@
       "dir_name": "SALON_110",
       "files": [
         {
+          "path": "SALON_110/RECORDINGS/GMT20260903-160648_Recording.cc.vtt",
+          "ext": "vtt",
+          "size_bytes": 87777,
+          "kind": "closed_captions"
+        },
+        {
+          "path": "SALON_110/RECORDINGS/GMT20260903-160648_Recording.m4a",
+          "ext": "m4a",
+          "size_bytes": 58863572,
+          "kind": null
+        },
+        {
           "path": "SALON_110/RECORDINGS/GMT20260903-160648_Recording.transcript.vtt",
           "ext": "vtt",
           "size_bytes": 104397,
           "kind": "transcript"
+        },
+        {
+          "path": "SALON_110/RECORDINGS/GMT20260903-160648_Recording_2836x1544.mp4",
+          "ext": "mp4",
+          "size_bytes": 1247651442,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/RECORDINGS/GMT20260903-160648_Recording_gallery_2836x1544.mp4",
+          "ext": "mp4",
+          "size_bytes": 1105943703,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/RECORDINGS/GMT20260903-160648_RecordingnewChat.txt",
+          "ext": "txt",
+          "size_bytes": 11422,
+          "kind": "chat_log"
+        },
+        {
+          "path": "SALON_110/SALON_109_IG.pdf",
+          "ext": "pdf",
+          "size_bytes": 55047793,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_HD.jpg",
+          "ext": "jpg",
+          "size_bytes": 141142,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_HD.pdf",
+          "ext": "pdf",
+          "size_bytes": 20005197,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_IG.jpg",
+          "ext": "jpg",
+          "size_bytes": 105834,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_IG.pdf",
+          "ext": "pdf",
+          "size_bytes": 13240704,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_MC.jpg",
+          "ext": "jpg",
+          "size_bytes": 105764,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_MC.pdf",
+          "ext": "pdf",
+          "size_bytes": 13351817,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_WP.jpg",
+          "ext": "jpg",
+          "size_bytes": 74146,
+          "kind": null
+        },
+        {
+          "path": "SALON_110/SALON_110_WP.pdf",
+          "ext": "pdf",
+          "size_bytes": 12962713,
+          "kind": null
         }
       ],
       "has_transcript": true,
+      "has_closed_captions": true,
+      "has_chat_log": true
+    },
+    "111": {
+      "dir_name": "SALON_111",
+      "files": [
+        {
+          "path": "SALON_111/HD_montage.psd",
+          "ext": "psd",
+          "size_bytes": 15821176,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/IG_montage.psd",
+          "ext": "psd",
+          "size_bytes": 10926668,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/MASHUP/Salon_111_IG.png",
+          "ext": "png",
+          "size_bytes": 3038522,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/MASHUP/Salon_111_WS.png",
+          "ext": "png",
+          "size_bytes": 3057500,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/MASHUP/salon_111_HD.png",
+          "ext": "png",
+          "size_bytes": 2969963,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_Recording.cc.vtt",
+          "ext": "vtt",
+          "size_bytes": 91374,
+          "kind": "closed_captions"
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_Recording.m4a",
+          "ext": "m4a",
+          "size_bytes": 59788231,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_Recording.transcript.vtt",
+          "ext": "vtt",
+          "size_bytes": 109326,
+          "kind": "transcript"
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_Recording_2426x1516.mp4",
+          "ext": "mp4",
+          "size_bytes": 792428103,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_Recording_gallery_2426x1516.mp4",
+          "ext": "mp4",
+          "size_bytes": 733405608,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/RECORDINGS/GMT20261001-160724_RecordingnewChat.txt",
+          "ext": "txt",
+          "size_bytes": 12284,
+          "kind": "chat_log"
+        },
+        {
+          "path": "SALON_111/SALON_111_HD.jpg",
+          "ext": "jpg",
+          "size_bytes": 93855,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_HD.pdf",
+          "ext": "pdf",
+          "size_bytes": 29279893,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_HD_MONTAGE.jpg",
+          "ext": "jpg",
+          "size_bytes": 259587,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_HD_MONTAGE.pdf",
+          "ext": "pdf",
+          "size_bytes": 30315916,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_IG.jpg",
+          "ext": "jpg",
+          "size_bytes": 173162,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_IG.pdf",
+          "ext": "pdf",
+          "size_bytes": 15681555,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_IG_MONTAGE.jpg",
+          "ext": "jpg",
+          "size_bytes": 208847,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_IG_MONTAGE.pdf",
+          "ext": "pdf",
+          "size_bytes": 19986406,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_WP.jpg",
+          "ext": "jpg",
+          "size_bytes": 48703,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_WP.pdf",
+          "ext": "pdf",
+          "size_bytes": 431488,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_WP_montage.jpg",
+          "ext": "jpg",
+          "size_bytes": 120521,
+          "kind": null
+        },
+        {
+          "path": "SALON_111/SALON_111_WP_montage.pdf",
+          "ext": "pdf",
+          "size_bytes": 16212779,
+          "kind": null
+        }
+      ],
+      "has_transcript": true,
+      "has_closed_captions": true,
+      "has_chat_log": true
+    },
+    "112": {
+      "dir_name": "SALON_112",
+      "files": [
+        {
+          "path": "SALON_112/Lee_Image.png",
+          "ext": "png",
+          "size_bytes": 2446659,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/Lee_Image_HD.jpg",
+          "ext": "jpg",
+          "size_bytes": 125410,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/Lee_Image_IG.jpg",
+          "ext": "jpg",
+          "size_bytes": 125579,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/Lee_Image_WP.jpg",
+          "ext": "jpg",
+          "size_bytes": 56307,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/Lee_Image_upscaled.png",
+          "ext": "png",
+          "size_bytes": 12426008,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_HD.jpg",
+          "ext": "jpg",
+          "size_bytes": 183408,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_HD.pdf",
+          "ext": "pdf",
+          "size_bytes": 21563664,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_IG.jpg",
+          "ext": "jpg",
+          "size_bytes": 173256,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_IG.pdf",
+          "ext": "pdf",
+          "size_bytes": 15668851,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_WP.jpg",
+          "ext": "jpg",
+          "size_bytes": 84683,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/SALON_112_WP.pdf",
+          "ext": "pdf",
+          "size_bytes": 9442386,
+          "kind": null
+        }
+      ],
+      "has_transcript": false,
       "has_closed_captions": false,
       "has_chat_log": false
     },

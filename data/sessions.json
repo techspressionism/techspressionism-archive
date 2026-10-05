@@ -5258,6 +5258,126 @@
     }
   },
   {
+    "video_id": "Yg62EAcZAPc",
+    "url": "https://www.youtube.com/watch?v=Yg62EAcZAPc",
+    "type": "salon",
+    "number": 111,
+    "title_raw": "Techspressionist Salon 111 // Talking About Co-Working",
+    "session_title": "Talking About Co-Working",
+    "date_recorded": "2026-10-01",
+    "date_published": "2026-10-05",
+    "duration_seconds": 5625,
+    "thumbnail": "https://i.ytimg.com/vi/Yg62EAcZAPc/maxresdefault.jpg",
+    "moderator": "Cynthia Beth Rubin and Cynthia DiDonato",
+    "speakers": [
+      {
+        "name": "Susan Lynn Detroy",
+        "country": null,
+        "start_seconds": 602,
+        "start_display": "00:10:02"
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": 840,
+        "start_display": "00:14:00"
+      },
+      {
+        "name": "Karen LaFleur",
+        "country": null,
+        "start_seconds": 1095,
+        "start_display": "00:18:15"
+      },
+      {
+        "name": "Lee Musgrave",
+        "country": null,
+        "start_seconds": 1317,
+        "start_display": "00:21:57"
+      },
+      {
+        "name": "Mary Ahern",
+        "country": null,
+        "start_seconds": 1468,
+        "start_display": "00:24:28"
+      },
+      {
+        "name": "Bob Prata",
+        "country": null,
+        "start_seconds": 1794,
+        "start_display": "00:29:54"
+      },
+      {
+        "name": "Dimitrije Martinovic",
+        "country": null,
+        "start_seconds": 2077,
+        "start_display": "00:34:37"
+      },
+      {
+        "name": "Michael Woodruff",
+        "country": null,
+        "start_seconds": 2250,
+        "start_display": "00:37:30"
+      },
+      {
+        "name": "Allen Hirsh",
+        "country": null,
+        "start_seconds": 2455,
+        "start_display": "00:40:55"
+      },
+      {
+        "name": "Stephen Paré",
+        "country": null,
+        "start_seconds": 2743,
+        "start_display": "00:45:43"
+      },
+      {
+        "name": "cha",
+        "country": null,
+        "start_seconds": 2893,
+        "start_display": "00:48:13"
+      },
+      {
+        "name": "Sahar Moussavi",
+        "country": null,
+        "start_seconds": 3246,
+        "start_display": "00:54:06"
+      },
+      {
+        "name": "Marya Triandafellos",
+        "country": null,
+        "start_seconds": 3410,
+        "start_display": "00:56:50"
+      },
+      {
+        "name": "Cynthia Beth Rubin",
+        "country": null,
+        "start_seconds": 3652,
+        "start_display": "01:00:52"
+      },
+      {
+        "name": "Cynthia DiDonato",
+        "country": null,
+        "start_seconds": 3900,
+        "start_display": "01:05:00"
+      }
+    ],
+    "transcript_source": "zoom-transcript",
+    "flags": [],
+    "notes": [
+      "date_recorded_manually_overridden:date: final Salon 111 graphic ('THURSDAY OCTOBER 1, 2026', SALON_111_HD_MONTAGE.jpg) and the Zoom recording's own timestamp (GMT20261001); moderators: the video description lists both for the introductory remarks and they co-created Co-Working and ran the session (Zoom transcript) -- to be confirmed by Colin Goldberg; audio_shared_as_presenter: Cynthia Beth Rubin plays the artists' pre-recorded presentations through her screen share, so Zoom labels them 'Audio shared by Cynthia Beth Rubin' -- they are attributed to the presenter whose slot (video description times) they fall in",
+      "moderator_manually_overridden:date: final Salon 111 graphic ('THURSDAY OCTOBER 1, 2026', SALON_111_HD_MONTAGE.jpg) and the Zoom recording's own timestamp (GMT20261001); moderators: the video description lists both for the introductory remarks and they co-created Co-Working and ran the session (Zoom transcript) -- to be confirmed by Colin Goldberg; audio_shared_as_presenter: Cynthia Beth Rubin plays the artists' pre-recorded presentations through her screen share, so Zoom labels them 'Audio shared by Cynthia Beth Rubin' -- they are attributed to the presenter whose slot (video description times) they fall in",
+      "audio_shared_as_presenter_manually_overridden:date: final Salon 111 graphic ('THURSDAY OCTOBER 1, 2026', SALON_111_HD_MONTAGE.jpg) and the Zoom recording's own timestamp (GMT20261001); moderators: the video description lists both for the introductory remarks and they co-created Co-Working and ran the session (Zoom transcript) -- to be confirmed by Colin Goldberg; audio_shared_as_presenter: Cynthia Beth Rubin plays the artists' pre-recorded presentations through her screen share, so Zoom labels them 'Audio shared by Cynthia Beth Rubin' -- they are attributed to the presenter whose slot (video description times) they fall in"
+    ],
+    "audio_shared_as_presenter": true,
+    "transcript_quality": {
+      "word_count": 12444,
+      "duration_seconds": 5625,
+      "words_per_minute": 132.7,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
     "video_id": "JZFDck9gwH8",
     "url": "https://www.youtube.com/watch?v=JZFDck9gwH8",
     "type": "interview",
@@ -6359,7 +6479,7 @@
     ],
     "interviewee": "cari ann shim sham",
     "interviewer": "Colin Goldberg",
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/CARI ANN/GMT20240930-160751_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/INTERVIEWS/CARI ANN/GMT20240930-160751_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 10350,
@@ -6401,7 +6521,7 @@
     ],
     "interviewee": "Sasha Stiles",
     "interviewer": "Colin Goldberg",
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/SASHA/GMT20250506-140813_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/INTERVIEWS/SASHA/GMT20250506-140813_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 13000,
@@ -6443,7 +6563,7 @@
     ],
     "interviewee": "Claudia Hart",
     "interviewer": "Colin Goldberg",
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/CLAUDIA/GMT20251208-162418_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/INTERVIEWS/CLAUDIA/GMT20251208-162418_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 12385,
@@ -6485,7 +6605,7 @@
     ],
     "interviewee": "Carla Gannis",
     "interviewer": "Colin Goldberg",
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/INTERVIEWS/CARLA/GMT20260921-130856_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/INTERVIEWS/CARLA/GMT20260921-130856_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 11187,
@@ -7234,7 +7354,7 @@
     "notes": [
       "date_recorded_from:techspressionism.com"
     ],
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/ROUNDTABLE/ROUNDTABLE_5/GMT20250627-161427_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/ROUNDTABLE/ROUNDTABLE_5/GMT20250627-161427_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 8900,
@@ -7294,7 +7414,7 @@
     "notes": [
       "date_recorded_from:techspressionism.com"
     ],
-    "local_transcript": "~/Documents/~TECHSPRESSIONISM/VIDEO/ROUNDTABLE/ROUNDTABLE_6/RECORDINGS/GMT20250916-180718_Recording.transcript.vtt",
+    "local_transcript": "~/Dropbox (Personal)/TS VIDEO/TS VIDEO ARCHIVE/ROUNDTABLE/ROUNDTABLE_6/RECORDINGS/GMT20250916-180718_Recording.transcript.vtt",
     "transcript_source": "zoom-transcript",
     "transcript_quality": {
       "word_count": 11468,

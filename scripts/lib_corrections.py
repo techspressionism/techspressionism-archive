@@ -136,6 +136,11 @@ def correct_names_in_text(text, candidates, auto_threshold, review_threshold, se
                 last_sim = SequenceMatcher(None, span_words[-1].strip(".,!?;:'").lower(), nlow[-1]).ratio()
                 if last_sim < 0.45:
                     ratio = min(ratio, review_threshold - 0.01)
+        # a very short single-word name (a handle like "cha") must be a near-exact hit: at the 0.72 strong-prior
+        # threshold it rewrote ordinary words -- "empty chair" and "in the chat" became "cha" (Salon 111, 2026-10-05)
+        short_weak = is_single_token and len(name) <= 4 and ratio < 0.95
+        if short_weak:
+            continue
         if ratio >= auto_threshold and (single_token_auto_ok or not is_single_token):
             original = text[start:end]
             # a matched span that's itself a recognized, correctly-spelled word/phrase (an artist index entry or

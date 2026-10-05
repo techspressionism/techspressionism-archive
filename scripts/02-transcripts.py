@@ -39,7 +39,9 @@ TIME_RE = re.compile(r"(\d{2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}\.\d
 TAG_RE = re.compile(r"<[^>]+>")
 FILLER_RE = re.compile(r"\buh+\b[,]?\s*|\bum+\b[,]?\s*", re.IGNORECASE)
 BRACKET_MARKER_RE = re.compile(r"\[[^\]]+\]")
-SPEAKER_PREFIX_RE = re.compile(r"^([A-Za-z][\w .'\-*]{0,60}):\s(.*)$", re.DOTALL)
+# the optional "(: )" group allows a display name that ends in an emoticon ("cha :)" in Salons 110/111), which otherwise
+# fails to parse and leaves "cha :): ..." as unattributed text
+SPEAKER_PREFIX_RE = re.compile(r"^([A-Za-z][\w .'\-*]{0,60}?(?: ?:[)(])?):\s(.*)$", re.DOTALL)
 
 
 def vtt_time_to_seconds(t):

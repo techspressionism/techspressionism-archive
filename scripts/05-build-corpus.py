@@ -306,7 +306,14 @@ def normalize_speaker_name(raw_name, session_speakers, artists):
         if ratio > best[0]:
             best = (ratio, name)
 
-    return best[1] if best[0] >= NORMALIZE_THRESHOLD else raw_name
+    if best[0] >= NORMALIZE_THRESHOLD:
+        # a Zoom name that is itself a different real person in the artist index (a different last name from the
+        # session speaker it resembles) is not merged into that speaker: "Stephen Carpenter" was being folded into
+        # the presenter "Stephen Pare" in Salon 111
+        if raw_name.lower() in {a["name"].lower() for a in artists} and raw_name.split()[-1].lower() != best[1].split()[-1].lower():
+            return raw_name
+        return best[1]
+    return raw_name
 
 
 def yaml_scalar(value):
@@ -478,8 +485,21 @@ def segments_from_zoom(session, artists, vocab_terms):
 
     known_terms = build_known_terms(session, vocab_terms, artists)
     segments = []
+    # Opt-in per session (data/manual-overrides.json "audio_shared_as_presenter"): when a host plays artists'
+    # pre-recorded presentations through their own screen share, Zoom labels the speech "Audio shared by <host>".
+    # Normally the sharer IS the presenter, so the label is just stripped; here each contiguous run of shared audio
+    # belongs to the presenter whose slot (the session's timed speaker list) it starts in. Salon 111, 2026-10-05.
+    slots = sorted((s["start_seconds"], s["name"]) for s in session.get("speakers", []) if s.get("start_seconds") is not None)
+    shared_presenter = None
+    prev_shared = False
     for cue in data["cues"]:
         speaker = normalize_speaker_name(cue["speaker"], session.get("speakers", []), artists) if cue["speaker"] else None
+        is_shared = bool(cue["speaker"]) and cue["speaker"].startswith(AUDIO_SHARED_PREFIX)
+        if session.get("audio_shared_as_presenter") and is_shared:
+            if not prev_shared:
+                shared_presenter = next((n for t0, n in reversed(slots) if t0 <= cue["start"]), None)
+            speaker = shared_presenter or speaker
+        prev_shared = is_shared
         text = capitalize_known_terms(cue["text"], known_terms)
         if segments and segments[-1]["speaker"] == speaker:
             # Zoom's cue boundaries are its own internal processing chunks,
