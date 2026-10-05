@@ -875,14 +875,12 @@ body.searching .search-sort { display:block; }
   .browse-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
   .browse { position:relative; left:50%; width:min(60rem, 92vw); transform:translateX(-50%); }   /* wider than the 44rem intro column so the four cards are a readable size (Colin 2026-10-05) */
 }
-.browse-card { display:block; height:100%; color:inherit; text-decoration:none; border:1px solid var(--line); border-radius:.4rem; overflow:hidden; background:#fff; }
+.browse-card { container-type:inline-size; display:block; height:100%; color:inherit; text-decoration:none; border:1px solid var(--line); border-radius:.4rem; overflow:hidden; background:#fff; }
 .browse-card:hover, .browse-card:focus-visible { border-color:var(--accent); text-decoration:none; }
 .browse-card img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; background:#ddd; }
-.bc-name { display:block; margin:.6rem .7rem .15rem; font-family:"Kanit",sans-serif; font-style:italic; font-weight:800; font-size:1.05rem; line-height:1.15; text-transform:uppercase; color:var(--accent); }
-.bc-meta { white-space:nowrap; }   /* "// 30 VIDEOS" wraps as one piece on a narrow card, never splitting the number from the word */
+.bc-name { display:block; margin:.6rem .7rem .15rem; white-space:nowrap; font-family:"Kanit",sans-serif; font-style:italic; font-weight:800; font-size:min(1.05rem, calc((100cqw - 1.4rem) * .072)); line-height:1.15; text-transform:uppercase; color:var(--accent); }
 .bc-sep { color:#000; }
 .bc-count { color:var(--muted); font-weight:700; }
-@media (max-width:44.99rem) { .bc-name { font-size:.8rem; } }   /* phone: keeps "PRESENTATIONS · 9" on one line in a half-width card */
 .bc-latest { display:block; margin:0 .7rem .7rem; font-size:.82rem; line-height:1.3; color:var(--fg); }
 body.home:not(.searching) header.site .browse-links { visibility:hidden; height:0 !important; margin:0 !important; padding:0 !important; overflow:hidden; }   /* on the home page the category links now sit at the bottom of the intro block (.home-links), after the cards and intro text (Colin 2026-10-05); the header copy stays in the layout at zero height only because the tablet title-width lock above measures its width -- while searching it comes back as the usual category links under the search box */
 .home-links { display:flex; flex-wrap:wrap; justify-content:center; gap:.3rem .8rem; margin:1.4rem 0 .4rem; font-size:1.05rem; }
