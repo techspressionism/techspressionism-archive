@@ -2568,7 +2568,7 @@ INDEX_TMPL = """<!doctype html>
 <main>
 <div id="intro-block">
 {browse}
-<p class="intro">The Techspressionism Video Archive is a searchable, citable video archive of recordings related to Techspressionism published from {first_year}&ndash;{latest_year}.
+<p class="intro">The Techspressionism Video Archive is a searchable, citable archive of recordings related to Techspressionism published from {first_year}&ndash;{latest_year}.
 The Archive can serve as a research tool for scholars, historians, and anyone with an interest in Techspressionism.
 <a href="about.html">More about the Archive and how to cite it.</a></p>
 <p class="intro">The Archive includes transcripts of Techspressionist <a href="salons.html">salons</a>, artist <a href="interviews.html">interviews</a>,
@@ -4255,7 +4255,7 @@ def add_seo(page_html, filename, seo):
                              discovery=([("sitemap", "application/xml", canonical_url("sitemap.xml"), "Sitemap"),
                                          ("alternate", "text/plain", canonical_url("llms.txt"), "llms.txt: Markdown index of the archive for AI tools")]
                                         if canonical_base() else ()),
-                             image_alt=seo.get("image_alt") or (SITE_CONFIG.get("og_image_alt") or "Techspressionism Video Archive: a searchable, citable video archive of Techspressionism salons, interviews, roundtables and presentations" if seo["image"] else ""), og_extra=seo.get("og_extra", ()))
+                             image_alt=seo.get("image_alt") or (SITE_CONFIG.get("og_image_alt") or "Techspressionism Video Archive: a searchable, citable archive of Techspressionism salons, interviews, roundtables and presentations" if seo["image"] else ""), og_extra=seo.get("og_extra", ()))
     page_html = page_html.replace("</head>", google_tag_snippet() + tags + "\n</head>", 1)
     if "sitefoot" not in page_html:
         page_html = page_html.replace("</main>", FOOTER + "\n</main>", 1)
@@ -4271,7 +4271,7 @@ def build_collab_page():
     repo = "https://github.com/techspressionism/techspressionism-archive"
     body = f"""<h1>Techspressionism Archive — Collaborator Brief for Michael</h1>
 <p class="meta">30 September 2026 &middot; Colin Goldberg</p>
-<p>This project is the Techspressionism Video Archive: a searchable, citable video archive of 148 Techspressionism
+<p>This project is the Techspressionism Video Archive: a searchable, citable archive of 148 Techspressionism
 Zoom salons, interviews, roundtables and presentations, built as a static site. Staging:
 <a href="https://techspressionism.github.io/techspressionism-archive/" target="_blank" rel="noopener">techspressionism.github.io/techspressionism-archive</a>.
 Live: <a href="https://techspressionism.com/archive/" target="_blank" rel="noopener">techspressionism.com/archive</a>.</p>
@@ -4395,7 +4395,7 @@ def build_about(corpus):
     desc = lib_seo.clip_text("What the Techspressionism Video Archive contains, how its transcripts are made and how accurate they are, "
                              "how to cite a passage, and where to download the data.")
     body = f"""<h1>About the {e(BRAND)}</h1>
-<p>The {e(BRAND)} is a searchable, citable video archive of the recordings published on the Techspressionism YouTube channel.
+<p>The {e(BRAND)} is a searchable, citable archive of the recordings published on the Techspressionism YouTube channel.
 It holds {st['n']} recordings, {st['hours']} hours in all, made between {st['first']} and {st['last']}: {tn.get('salon', 0)} Techspressionist
 <a href="salons.html">salons</a>, {tn.get('interview', 0)} artist <a href="interviews.html">interviews</a>,
 {tn.get('roundtable', 0)} <a href="roundtables.html">roundtables</a> and {tn.get('presentation', 0)} <a href="presentations.html">presentations</a>.
