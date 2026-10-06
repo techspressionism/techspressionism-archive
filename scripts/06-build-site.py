@@ -1392,6 +1392,21 @@ PLAYER_JS = """<script>
     place(smooth ? 'smooth' : 'auto');
     setTimeout(function () { place('auto'); }, smooth ? 700 : 150);
   }
+  // Desktop (1024px+) no longer pins the video, so a watch control in the left column (participants, synopsis, screen shares,
+  // Watch with transcript) or arriving on a time can start playback while the video is scrolled out of sight. revealVideo()
+  // scrolls it back into view and holds the page's follow-the-spoken-text scrolling (which would drag it away again) until the
+  // reader next scrolls. Phone and tablet pin the video, so nothing is needed there. (Colin 2026-10-06)
+  var followPause = false;
+  function desktopLayout() { return window.innerWidth >= 1024; }
+  function revealVideo() {
+    var vb = document.getElementById('player-box');
+    if (!vb || !desktopLayout()) return false;
+    followPause = true;
+    var h = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--title-h')) || 0, r = vb.getBoundingClientRect();
+    if (r.top >= h && r.bottom <= window.innerHeight) return true;
+    window.scrollTo({ top: Math.max(0, r.top + window.pageYOffset - h - 16), behavior: 'smooth' });
+    return true;
+  }
   function reading(on, scroll) {
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
@@ -1442,7 +1457,7 @@ PLAYER_JS = """<script>
     btn.addEventListener('click', function () { reading(true, true); if (typeof preload === 'function') preload(); });
     var wbtn = document.getElementById('watch-btn');
     if (wbtn) wbtn.addEventListener('click', function () {     // open the transcript AND start the video: the transcript then scrolls along with it
-      openTranscript();
+      if (desktopLayout()) { reading(true, false); revealVideo(); } else openTranscript();
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
@@ -1453,14 +1468,15 @@ PLAYER_JS = """<script>
         var wi = 0;
         for (var wk = 0; wk < starts.length; wk++) if (starts[wk] <= wat + 0.5) wi = wk;
         forced = wi; mark(wi); holdUntil = Date.now() + 2200;
-        centerTurn(paras[wi], false);
+        if (!revealVideo()) centerTurn(paras[wi], false);
         ensureFreshPlayer(Math.max(0, wat - lead));
-      } else { ensureFreshPlayer(); if (TOUCH_STACKED) barBelowVideo(); }
+      } else { revealVideo(); ensureFreshPlayer(); if (TOUCH_STACKED) barBelowVideo(); }
     }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
       var id = location.hash.slice(1), el = id && document.getElementById(id);
       if (el && document.getElementById('transcript').contains(el)) {
-        reading(true, false); centerTurn(el, false);
+        reading(true, false);
+        if (!(autoplay && revealVideo())) centerTurn(el, false);      // desktop "watch" from a search result: show the video, not just the passage
         if (autoplay) {                      // "watch" from a search result, if the browser allows the video to start
           autoplay = false;
           if (cited) setTimeout(startCited, 300);
@@ -1687,7 +1703,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; closeParaCite();
     reading(true, false); holdUntil = Date.now() + 2200;
     forced = i; mark(i);
-    centerTurn(paras[i], true);
+    if (!revealVideo()) centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   });
   window.tvaPlayAt = function (at) {      // "Search only this video" results: play from that moment, the transcript following along
@@ -1705,10 +1721,10 @@ PLAYER_JS = """<script>
       place('smooth'); setTimeout(function () { place('auto'); }, 700); setTimeout(function () { place('auto'); }, 1500);
       return;
     }
-    centerTurn(paras[i], true);
+    if (!revealVideo()) centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   };
-  ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); }, { passive: true }); });
+  ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); followPause = false; }, { passive: true }); });
   function mark(i, follow) {
     if (citedMode || i === active) return;
     if (active >= 0) paras[active].classList.remove('active');
@@ -1808,7 +1824,7 @@ PLAYER_JS = """<script>
     return rect ? rect.top + rect.height / 2 : null;
   }
   function followSpoken(t) {
-    if (Date.now() - lastUser < 3000 || Date.now() < holdUntil) return;
+    if (followPause || Date.now() - lastUser < 3000 || Date.now() < holdUntil) return;
     var y = spokenY(active, t);
     if (y === null) return;
     var top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
@@ -2331,7 +2347,7 @@ def build_participants_and_flags(entry):
             if not starts:
                 return ""
             t = starts[0]
-            return (f'<a class="turn-t" href="{slug(entry)}.html?watch=1&amp;at={int(t)}" title="Watch from {hhmmss(t)}">'
+            return (f'<a class="turn-t syn-t" href="{slug(entry)}.html?watch=1&amp;at={int(t)}" data-t="{int(t)}" title="Watch from {hhmmss(t)}">'
                     f'&#9654; {hhmmss(t)}</a> ')
         sp_items = "".join(
             f'<li data-pagefind-filter="speaker:{facet(name)}">{turn_pill(starts)}{participant_name(name, "name")}'
