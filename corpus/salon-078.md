@@ -339,9 +339,9 @@ Thanks.
 
 ## Michael Price [01:09:18](https://www.youtube.com/watch?v=fEzz3PiADrU&t=4158s)
 
-Cynthia. Didinato.
+Cynthia DiDonato.
 
-## Allen Hirsh [01:09:22](https://www.youtube.com/watch?v=fEzz3PiADrU&t=4162s)
+## Cynthia DiDonato [01:09:22](https://www.youtube.com/watch?v=fEzz3PiADrU&t=4162s)
 
 Hello, everyone. I'm zooming in from North Providence, Rhode Island. I have to say I enjoyed every presentation today thoroughly. It's incredible to see the breath and width Of text and image. And I thank you all for your presentations. I have a comment I wanted to make to. Seth. I love that you're involved with this participatory artistic venture. That has an educational aspect. I'm a retired English teacher. I have a tremendous love of language, and when I heard that you're using your you use your app with an educational E educational institution. So I thought.
 
@@ -355,7 +355,7 @@ That was really nice to see. Especially middle schoolers, who have a pretty good
 
 It's very nice to see something in the schools that kids actually like around around Texas poetry. And if they can be my hat for anything else that's great.
 
-## Allen Hirsh [01:12:26](https://www.youtube.com/watch?v=fEzz3PiADrU&t=4346s)
+## Cynthia DiDonato [01:12:26](https://www.youtube.com/watch?v=fEzz3PiADrU&t=4346s)
 
 II loved middle school students as well because they were so willing to try and be adventurous, whereas high school students would learn to keep quiet and not really venture. So I think that age group really benefits from working with your app. So thank you.
 
@@ -463,7 +463,7 @@ But it. It helps them follow along when we're moving really fast. If English is 
 
 ## Colin Goldberg [01:30:00](https://www.youtube.com/watch?v=fEzz3PiADrU&t=5400s)
 
-Awesome? Thanks so much. And your it just made me think also about the fact that, you know, we early on had been doing this sort of artist interview artists piece of the project which was sort of inspired by interview magazine world kind of idea of like artists, you know, interviewing other artists versus a journalist interviewing an artist, and we haven't really done any in a long time, or there hasn't been very much that you know happening in terms of it being published on the site. But I'm happy to post, you know, interviews. If any of you guys want to interview each other, just do a zoom recording, you know. The reason it popped into my head is that now, you know, with close captioning, I realize The entire transcript can also be exported as a text document which makes you know that whole process have another Facet in terms of you know the ability to have a written transcript, but certainly it'd be cool to pick up on that I don't think we've done any since the South and show. I think the last one might have been Frank Chillett.
+Awesome? Thanks so much. And your it just made me think also about the fact that, you know, we early on had been doing this sort of artist interview artists piece of the project which was sort of inspired by interview magazine world kind of idea of like artists, you know, interviewing other artists versus a journalist interviewing an artist, and we haven't really done any in a long time, or there hasn't been very much that you know happening in terms of it being published on the site. But I'm happy to post, you know, interviews. If any of you guys want to interview each other, just do a zoom recording, you know. The reason it popped into my head is that now, you know, with close captioning, I realize The entire transcript can also be exported as a text document which makes you know that whole process have another Facet in terms of you know the ability to have a written transcript, but certainly it'd be cool to pick up on that I don't think we've done any since the South and show. I think the last one might have been Frank Gillette.
 
 ## Renata Janiszewska [01:31:12](https://www.youtube.com/watch?v=fEzz3PiADrU&t=5472s)
 

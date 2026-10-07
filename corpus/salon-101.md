@@ -36,9 +36,9 @@ languages: ["en"]
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=l9TiCHiOgpQ&t=2s)
 
-Hi everyone, my name is Colin Goldberg, and I'm a Techspressionist. Today is December 4th, 2025, and we're here at the Techspressionist Salon Number 101. This is an open call, sort of situation, or open mic, as we like to call it, where artists can just jump in and share what they're doing. It could be, like a planned presentation, or just kind of an impromptu thing. So we have a bunch of artists in the lineup. Right now, we're gonna have, Renady Janiszewska start us off, and then we have Bill Rogers.
+Hi everyone, my name is Colin Goldberg, and I'm a Techspressionist. Today is December 4th, 2025, and we're here at the Techspressionist Salon Number 101. This is an open call, sort of situation, or open mic, as we like to call it, where artists can just jump in and share what they're doing. It could be, like a planned presentation, or just kind of an impromptu thing. So we have a bunch of artists in the lineup. Right now, we're gonna have, Renata Janiszewska start us off, and then we have Bill Rogers.
 
-We have Michael Pierre Price. Clayton Campbell, Tommy Mintz, and Sahar Mousavi. And then, if we have more time, if there's anyone that would like to present, after this current lineup, you know, just, put up the raise hand tool and, you know, start to add people to the queue. So, before we jump into the first presentation, if everybody who is not presenting could please please mute yourselves.
+We have Michael Pierre Price. Clayton Campbell, Tommy Mintz, and Sahar Moussavi. And then, if we have more time, if there's anyone that would like to present, after this current lineup, you know, just, put up the raise hand tool and, you know, start to add people to the queue. So, before we jump into the first presentation, if everybody who is not presenting could please please mute yourselves.
 
 And then we will, get going. So the first artist that is going to be presenting is our, fearless Instagram curator, Renani Yanishevska, who's, devoted a ton of time and energy to this community, really helping to you know, keep this presence on social media going, and also, sourcing artists and finding lots of great artists to be added to the Artist Index. So, for all of those of you who are on here who are new to the community, or anyone watching on YouTube, if you want to, have your work seen by Renata.
 
@@ -52,7 +52,7 @@ I curated the show in Southampton, and, you know, there's been a number of other
 
 Thank you, Colin.
 
-Hi, I'm Renate Anushevska, and I'm coming to you today from Lion's Head, Ontario, Canada. I'm going to show you some completed projects from this year. The first one is called the Lumen Suite, and it was made upon request for the ISAEA 2025 Media Arts Symposium held in Seoul. The curator was Johyun Ahn. She's an artist on our Techspressionist Artists Index, and a graphic designer. With this exhibition titled Creative Graphics, she created a space where fine art and graphic design could meet.
+Hi, I'm Renate Anushevska, and I'm coming to you today from Lion's Head, Ontario, Canada. I'm going to show you some completed projects from this year. The first one is called the Lumen Suite, and it was made upon request for the ISAEA 2025 Media Arts Symposium held in Seoul. The curator was Yeohyun Ahn. She's an artist on our Techspressionist Artists Index, and a graphic designer. With this exhibition titled Creative Graphics, she created a space where fine art and graphic design could meet.
 
 Since the venue was the Museum of Calligraphy. Which is found inside the Seoul Arts Center, I decided to make works that contain glyphs, or Roman alphabet letter forms. I showed 30 paintings in this Lumen Suite, and they were displayed via a slideshow on a TV monitor, wall-mounted in portrait orientation. And when I mention the glyphs or the characters, you can see the Y's… Here… and… you can see my pointer. Okay, and then zeros, there's an elongated zero here, and a couple of zeros there.
 

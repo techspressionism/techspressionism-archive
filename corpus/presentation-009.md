@@ -527,7 +527,7 @@ He wasn't intoxicated just for the point of he didn't drink and paint at the sam
 
 ## Colin Goldberg [01:25:21](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5121s)
 
-There's Vernaida, Vernaida Light is the last one that I see on there.
+There's Vernaida, Verneda Lights is the last one that I see on there.
 
 ## Joyce Raimondo [01:25:29](https://www.youtube.com/watch?v=8aQDDA-u0io&t=5129s)
 

@@ -98,7 +98,7 @@ And I've enjoyed it a lot. I continue to do it. I call them my half lights. So t
 
 Next up is Sahar. Hi Sahar. Hi Michael. Good to see you. Hi. Looking forward to seeing what you have to show us today. Good to see you too. Thanks. I will turn off my video to share my screen because I'm sharing from my phone. Can you see mine? Not yet. Is it connected? Yes. Yeah. It's getting there.
 
-Okay. So... This is all's going to be up to your hands. It's all up to you. We're going We're on the initial screen here, but we're seeing something. Okay. Okay, we're starting to get there. Okay. Okay, now we are. Okay, so I'm Sahar Mousadi. I'm Zooming from Iran, and I want to present some of my black and white pieces tonight.
+Okay. So... This is all's going to be up to your hands. It's all up to you. We're going We're on the initial screen here, but we're seeing something. Okay. Okay, we're starting to get there. Okay. Okay, now we are. Okay, so I'm Sahar Moussavi. I'm Zooming from Iran, and I want to present some of my black and white pieces tonight.
 
 I will start with some of my hand drawing black and white. I know it's it takes patience, but I just wanted to include them because I like them and I used to draw these drawings with a black pen and it was meditative and it helped me to focus. So I will go to my photos. I usually take car light photos at night and I try to find some shapes and objects in these photos by moving my camera or just taking the photos while I'm driving or the car is moving and I found that when I convert these photos to black and white, it changes to a new material. So I use this new material in my pieces as the main element or as part of a collage. For example, this is actually an original photo that I took when I was in the UK. So I took this photo and I used it as a model for my piece and then I added another layer of black and white in Photoshop and then I used the same photo for the next piece in black and white.
 
@@ -216,7 +216,7 @@ Yeah. And you only know if you open it and if you open it, you ruin the work. Ex
 
 Hey, Patrick. It's good. Here haven't seen you a while. What have you got for us today? I got a couple of interesting things. One is a point of view I should probably at least go on. Welcome to lovely Winona State. Let's see here. I'm going to do a reflection, which I think is kind of interesting. Let's see here. Let me do the share.
 
-Let's see here. Go to desktop. And let's see here. Of course. Let's see here. Finishing up some stuff for Isaiah. And my Nagin sends her her best. So network conditions and time, of course, are hard over in Iran, as we know. So what I want to do is I want to show a couple things. This is a work of mine from 1995.
+Let's see here. Go to desktop. And let's see here. Of course. Let's see here. Finishing up some stuff for Isaiah. And my Negin sends her her best. So network conditions and time, of course, are hard over in Iran, as we know. So what I want to do is I want to show a couple things. This is a work of mine from 1995.
 
 And this what does this have to do with monochrome? It has to do with the fact that after 2000, between my really engaging in being a serious artist in about 92, 93, but I was starting to do it about 90. A lot of my work was really incredibly colorful. This was, of course, using. If anybody remembers. These are some of my favorite pieces of art. If anybody remembers Kai's power tools.
 

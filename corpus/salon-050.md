@@ -57,7 +57,7 @@ I think I think that it would give a lot better chance to have more of a convers
 
 ## Roz Dimon [05:14](https://www.youtube.com/watch?v=zj79kXJHdFU&t=314s)
 
-Okay, so that sounds good. So, the reason. I don't know. I thought I would go for that. I'll go first, just because then I don't have to think about my presentation when I'm thinking about everybody else's. But before I go do mine. I am going to screen share with Nagin's piece because she is everybody seeing this. Yeah.
+Okay, so that sounds good. So, the reason. I don't know. I thought I would go for that. I'll go first, just because then I don't have to think about my presentation when I'm thinking about everybody else's. But before I go do mine. I am going to screen share with Negin's piece because she is everybody seeing this. Yeah.
 
 Okay, so I don't. I had. She on. No huge time zone difference. And she unfortunately didn't feel that she could stay up tonight. And I said, What can I show what you had in the exhibit so this is actually my picture. And the reason I wanted to do it and preview is so that I could zoom in a little bit, and you can see how it looks.
 
@@ -467,7 +467,7 @@ Thanks. That was really great. And great idea to do a directory. We can talk abo
 
 Okay. Okay. So I am a digital artist. I mean, I started doing digital art with iPhone and iPad about 2015. And before that, I did... I did entirely like photographic work, infrared photography and printmaking that was based in the natural world and transfer prints. So my thoughts about when I was doing digital work, when I wanted to make it hard copy, I immediately thought of... Initially thought of canvas prints, which is... Are you seeing these?
 
-## Allen Hirsh [01:04:37](https://www.youtube.com/watch?v=zj79kXJHdFU&t=3877s)
+## Cynthia DiDonato [01:04:37](https://www.youtube.com/watch?v=zj79kXJHdFU&t=3877s)
 
 Yes.
 
@@ -511,7 +511,7 @@ Patrick are you there? Can you unmute? We're not hearing you Patrick.
 
 ## Patrick Lichty [01:11:38](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4298s)
 
-Okay. Yeah. I just, I, I didn't sign up. I wanted to share one thing is, is that when Nagin and I did the, through the mesh show over at Nimi, it was a really good experience. And I think it was a really good experience. And Cyprus. The one thing I've been really interested in photogrammetry and I just wanted to bring out one piece real quick. And just because lighting probably won't be able to see it very well. But I've been doing 3D scans of environments with LIDAR and that sort of thing. And then basically taking them to the point where I make these impossible perspectives of them. In other words, This is a street scene in Cyprus in Old Town. But the thing is that if you actually weren't at the spot to see it you'd be about two feet inside a wall about ten feet up. And then so basically I didn't oil painting from that particular piece and that sort of thing.
+Okay. Yeah. I just, I, I didn't sign up. I wanted to share one thing is, is that when Negin and I did the, through the mesh show over at Nimi, it was a really good experience. And I think it was a really good experience. And Cyprus. The one thing I've been really interested in photogrammetry and I just wanted to bring out one piece real quick. And just because lighting probably won't be able to see it very well. But I've been doing 3D scans of environments with LIDAR and that sort of thing. And then basically taking them to the point where I make these impossible perspectives of them. In other words, This is a street scene in Cyprus in Old Town. But the thing is that if you actually weren't at the spot to see it you'd be about two feet inside a wall about ten feet up. And then so basically I didn't oil painting from that particular piece and that sort of thing.
 
 So now on one hand there's this digital component but then there's this painting component. And you know that comes from it and the one thing is that you know I love the fact that you know you can get the get these really amazing images and I love the way that the you know that the scanner the like the iPad scanners work because they're just really imperfect really glitchy but also on the other hand that word that works really well for painting so you know so anyway I just wanted to share that real quick and you know it's a it's canvas as well and
 
@@ -549,9 +549,9 @@ Did I stop sharing my screen?
 
 ## Roz Dimon [01:15:27](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4527s)
 
-Yes. Okay, great. So it's great. So Cynthia Donata, and please make sure that you're muted if you're not actually speaking. I'm hearing a little background from somebody.
+Yes. Okay, great. So it's great. So Cynthia DiDonato, and please make sure that you're muted if you're not actually speaking. I'm hearing a little background from somebody.
 
-## Allen Hirsh [01:15:39](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4539s)
+## Cynthia DiDonato [01:15:39](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4539s)
 
 Yes. Thank you. I enjoyed all of the presentations. Very interesting and inspiring. I have a failure. I had printed up one of my digital images and I wanted to affix it to this box panel. And I used a special adhesive spray, maybe Krylon. And as you can see, if I hold it in the light, it bubbled up eventually. So I think maybe Tommy's suggestion of the traditional spray is the right one. I think it's a good idea. So I think maybe the transfer ease might work on a box panel. Tommy?
 
@@ -561,7 +561,7 @@ Yeah, wood?
 
 Sure. Yeah, yeah. I think it would transfer to wood and then you can put a clear overcoat on it.
 
-## Allen Hirsh [01:16:21](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4581s)
+## Cynthia DiDonato [01:16:21](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4581s)
 
 Yeah. All right. I'm going to try that. I also wanted to ask Vernada about where does one get vegan leather?
 
@@ -587,7 +587,7 @@ Great thank you.
 
 They have a sample book that you can order. I got samples from them. Yeah. Yeah. Colin
 
-## Allen Hirsh [01:18:07](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4687s)
+## Cynthia DiDonato [01:18:07](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4687s)
 
 And then sasha I just wanted to say one thing it's contrado limited in london yeah and
 
@@ -595,7 +595,7 @@ And then sasha I just wanted to say one thing it's contrado limited in london ye
 
 You can you can order their sample book which I did but the sample books the sample book is not as fresh as applying your own artwork which I always super saturate because you have to account for the absorption into the fabric right so it doesn't look pale it does compare with your work and you selecting your own fabric it was I did the sample book and it wasn't happening because they use a print that I'm not interested in seeing and I would never use myself and so I lost interest right away and not only that but the absorption factor was just off the charts so when I do my own I'm very happy what
 
-## Allen Hirsh [01:18:58](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4738s)
+## Cynthia DiDonato [01:18:58](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4738s)
 
 About how do you hang it on the back of the vegan leather what do you put on the back to hang it on the 3m 3m
 
@@ -609,7 +609,7 @@ It's expensive so we need to start a google doc and have everybody put this info
 
 ## Colin Goldberg [01:20:31](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4831s)
 
-Yeah I just wanted to well two things one I wanted to make a brief announcement that I think is very exciting so at the end of the southampton art center show as some of you know and some of you participated in there was a panel hampton's tech week that tommy and giovanna and paul miller participated in as artists and it was moderated by christian paul and I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that paul who's the new media curator at the whitney also with the new school and so I reached out to her to thank her for participating in the panel and asked her if she had received a catalog and she had not but she you know said she really enjoyed the show she's known many of the artists for many years so I did send it send a catalog to her at the whitney and also I asked her if she would be interested in having a conversation about expressionism possibly with helen harris and I said okay I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that do you have one more question at the porthouse for in the polo house just that's do you have one more question at the porth dollars in and the porth fall at the porth dollars in and the porth dollars in and the porth dollars in and the porth dollars Expressionism in early October.
+Yeah I just wanted to well two things one I wanted to make a brief announcement that I think is very exciting so at the end of the southampton art center show as some of you know and some of you participated in there was a panel hampton's tech week that tommy and giovanna and paul miller participated in as artists and it was moderated by Christiane Paul and I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that paul who's the new media curator at the whitney also with the new school and so I reached out to her to thank her for participating in the panel and asked her if she had received a catalog and she had not but she you know said she really enjoyed the show she's known many of the artists for many years so I did send it send a catalog to her at the whitney and also I asked her if she would be interested in having a conversation about expressionism possibly with helen harris and I said okay I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that be a little bit more in depth on that so I'm going to be a little bit more in depth on that do you have one more question at the porthouse for in the polo house just that's do you have one more question at the porth dollars in and the porth fall at the porth dollars in and the porth dollars in and the porth dollars in and the porth dollars Expressionism in early October.
 
 It's going to be a closed conversation because I thought all the logistics around trying to actually run a webinar, never having done it before, and also it's expensive to license the webinar Zoom package. It's just going to be conducted as maybe a trial run of what Michael Price was proposing as far as a roundtable. And I thought it could be sort of presented as a curator's conversation.
 

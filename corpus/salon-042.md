@@ -143,7 +143,7 @@ Yep.
 
 ## Roz Dimon [08:21](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=501s)
 
-Tell me if, feel free to guide me, Davo. You're the one. Yeah. I'm going to go ahead and start. And Morgan Spalter.
+Tell me if, feel free to guide me, Davo. You're the one. Yeah. I'm going to go ahead and start. Anne Morgan Spalter.
 
 ## Davonte Bradley [08:30](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=510s)
 
@@ -185,7 +185,7 @@ Who's that? Mary Ann?
 
 ## Roz Dimon [11:59](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=719s)
 
-Mary Ann Strandle. Titled streaming flowers to slash brain acrylic on 3D lenticular media. And you maybe can't see this, but they really have a certain kind of opaque and vibrancy and translucency really is the word I guess. Always get those words mixed up. And there's another one streaming flowers one blue.
+Mary Ann Strandell. Titled streaming flowers to slash brain acrylic on 3D lenticular media. And you maybe can't see this, but they really have a certain kind of opaque and vibrancy and translucency really is the word I guess. Always get those words mixed up. And there's another one streaming flowers one blue.
 
 ## Colin Goldberg [12:28](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=748s)
 
@@ -237,7 +237,7 @@ This one, this was created in a software called Krita. And it's combined two ver
 
 ## Roz Dimon [15:22](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=922s)
 
-Great. Brandon Gillis is right beneath Davos Peace. And it's titled 182 Interacting Squares for Annie and Joseph. We know who they are, Albers obviously. 3D sculpture interactive art. And maybe Colin could add more. They're quite mysterious looking. Yeah.
+Great. Brandon Gellis is right beneath Davos Peace. And it's titled 182 Interacting Squares for Annie and Joseph. We know who they are, Albers obviously. 3D sculpture interactive art. And maybe Colin could add more. They're quite mysterious looking. Yeah.
 
 ## Colin Goldberg [15:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=945s)
 
@@ -265,7 +265,7 @@ And I wanted to make a note also that Renata is one of the founders of the Canad
 
 ## Roz Dimon [19:11](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1151s)
 
-Great. The next piece is Tor Borwell. It's titled Flunky Flux. It's a video. United States 2022.
+Great. The next piece is Tor Burwell. It's titled Flunky Flux. It's a video. United States 2022.
 
 ## Colin Goldberg [19:26](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1166s)
 
@@ -277,7 +277,7 @@ All right. There you go. It certainly is the future.
 
 ## Roz Dimon [20:20](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1220s)
 
-Next we have Aldofino Corino. And this is titled RIMM, R-I-M-M, Oil and Enamel Painted Print, United States 2020.
+Next we have Adelfino Corino. And this is titled RIMM, R-I-M-M, Oil and Enamel Painted Print, United States 2020.
 
 ## Davonte Bradley [20:36](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=1236s)
 
@@ -491,7 +491,7 @@ Yeah. So maybe if you could read them. I know the countries. I'm not 100% sure o
 
 So we have Tomas Vavia, Squared Sun. Digital Monocast. I think these are going to be the combination that they're in. Yeah. Brazil, 2018. It's wonderful how international this is. And then we have PLY, Ply 300, Untitled. I guess Ply 300 is the artist's name. Mixed Media, United Kingdom, 2022. Right here.
 
-Sahar, Nusavi, certainly seen online. I know some of us have. The Black Heart. Digital Monocast.
+Sahar Moussavi, certainly seen online. I know some of us have. The Black Heart. Digital Monocast.
 
 ## Unattributed [39:21](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2361s)
 
@@ -541,7 +541,7 @@ You're welcome. Thank you. Thank you, Roz. Thank you, Sahar. Nice to see you. Yo
 
 ## Roz Dimon [41:26](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2486s)
 
-And the next three are Hayide Jamshidai. I hope I'm saying the name correctly. James, can you get on over here so we can just see for a minute? Doing a great job. Digital Arts Cinema 4D Afghanistan.
+And the next three are Hayede Jamshidi. I hope I'm saying the name correctly. James, can you get on over here so we can just see for a minute? Doing a great job. Digital Arts Cinema 4D Afghanistan.
 
 ## Stephanie Sydney [41:42](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2502s)
 
@@ -553,7 +553,7 @@ Hi,
 
 ## Hayede Jamshidi [41:45](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2505s)
 
-I'm Hayide Jamshidai. And I made this piece in 2020 when I was in lockdown. So I started to learn new softwares and I feel I'm in a strange and unfamiliar situation. So I imagined a person that is in a, I don't know, planet, in a strange planet that is seeing a strange and unfamiliar object. And he don't know and he don't know what is it. Is it man-handed or not? Is it a nature object?
+I'm Hayede Jamshidi. And I made this piece in 2020 when I was in lockdown. So I started to learn new softwares and I feel I'm in a strange and unfamiliar situation. So I imagined a person that is in a, I don't know, planet, in a strange planet that is seeing a strange and unfamiliar object. And he don't know and he don't know what is it. Is it man-handed or not? Is it a nature object?
 
 So yeah, I made it. Sorry about my English.
 
@@ -575,7 +575,7 @@ And I love the title of In the Middle of Nowhere. I think we all know how that f
 
 ## Roz Dimon [42:56](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2576s)
 
-In the Middle of Nowhere. And then I'm sorry, I may not say the name correctly. Tikwa or Tikowai Kuitenbrauer. Sticks and Bones Digital Monoprint on Aluminum. The Netherlands. Yes.
+In the Middle of Nowhere. And then I'm sorry, I may not say the name correctly. Tikwa or Tikoi Kuitenbrouwer. Sticks and Bones Digital Monoprint on Aluminum. The Netherlands. Yes.
 
 ## Davonte Bradley [43:10](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2590s)
 
@@ -691,7 +691,7 @@ And below that we have Guillermo.
 
 ## Roz Dimon [49:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2980s)
 
-Guillermo Arias-Mondi from the Canary Islands. The title is 100921. It's a digital monoprint on aluminum.
+Guillermo Arismendi from the Canary Islands. The title is 100921. It's a digital monoprint on aluminum.
 
 ## Colin Goldberg [49:56](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=2996s)
 
@@ -699,7 +699,7 @@ And I don't believe Guillermo is on the Zoom. But he has a very large body of wo
 
 ## Roz Dimon [50:25](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3025s)
 
-Cool. And we have Lucy Kraljkova. Grandpa's Watch, Inherited. Digital Collage, Czech Republic, 2020.
+Cool. And we have Lucie Králíková. Grandpa's Watch, Inherited. Digital Collage, Czech Republic, 2020.
 
 ## Lucie Králíková [50:36](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3036s)
 
@@ -769,7 +769,7 @@ And I think his Instagram has a link to his link tree, which I will also paste i
 
 ## Roz Dimon [56:40](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3400s)
 
-The next is Philippe Ormiere. His piece is called Ceté Couché de Soleil Magique. Digital monoprint on aluminum, France, 2021.
+The next is Philippe Ormières. His piece is called Ceté Couché de Soleil Magique. Digital monoprint on aluminum, France, 2021.
 
 ## Colin Goldberg [56:58](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3418s)
 
@@ -853,7 +853,7 @@ Bernardo Mugrower, and John
 
 ## Roz Dimon [01:02:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3766s)
 
-Steven, Victor Acevedo, Skywater, Dove Woman, AKA Giovanna Sun, Sue Beyer, Mark Petruvanos, Le Chat Noir, Lee Schnever, Prince Bernoullia, Vicente Rivera, Michael Poluconis, Michael Borras, AKA Sistame, France. Well, they're all from different countries. Sean, let's see. Yes, Sean Mitt, Stephanie Sydney, Nezrin Solomay, Karen LaFleur, Randy Musischewitz, Janice Randenburg-Lee, TinTan23x, Jan Swinbur, Frederick Pons, Diana Diavola, Lee Day, Susan Wong, Nina Sobell, Dana Jones, N3T4, Sanjin Lee, Cynthia DiDonato, Reese Schroeder, Sarah Song, and Andy Wolman, and Colin Goldberg.
+Steven, Victor Acevedo, Skywater, Dove Woman, AKA Giovanna Sun, Sue Beyer, Mark Petruvanos, Le Chat Noir, Lee Schnever, Prince Bernoullia, Vicente Rivera, Michael Paulukonis, Michael Borras, AKA Sistame, France. Well, they're all from different countries. Sean, let's see. Yes, Sean Mitt, Stephanie Sydney, Nezrin Solomay, Karen LaFleur, Randy Musischewitz, Janice Randenburg-Lee, TinTan23x, Jan Swinburne, Frédéric Pons, Diana Diavola, Lee Day, Susan Wong, Nina Sobell, Dana Jones, N3T4, Seungjin Lee, Cynthia DiDonato, Reese Schroeder, Sarah Song, and Andy Wauman, and Colin Goldberg.
 
 ## James Dawson [01:03:49](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=3829s)
 
@@ -1117,7 +1117,7 @@ Patrick, okay.
 
 ## Patrick Lichty [01:25:41](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5141s)
 
-Yeah, yeah, yeah. I have a piece in there called The Martin for Nagin, which is a poem that I actually wrote for Nagin at the Sabian. And a few years ago. And so it's basically, there's several types of generative adversarial networks or machine learning systems. And what I did is that I basically took stanzas of the poem and put them into the system.
+Yeah, yeah, yeah. I have a piece in there called The Martin for Negin, which is a poem that I actually wrote for Negin Ehtesabian. And a few years ago. And so it's basically, there's several types of generative adversarial networks or machine learning systems. And what I did is that I basically took stanzas of the poem and put them into the system.
 
 And this is what it generated. And I didn't put any text over it. And the background music is, actually one of the first musical tracks I've published in probably about 10 years. So, and it's all my own work.
 
@@ -1203,7 +1203,7 @@ Thousands of vibrantly huge particles explode and implode in a state of flux, co
 
 Quick aside, I don't think I gave the title of Michael Rees's, but I didn't see his label. It says Synth Cell 009, Stream, Thing, Rooster. Love that title. Inflated. Polyprop. Polyvinyl. Tablet. Artist. Author. Act. 120 by 120 by 120, 2018. Just wanted to give him the title of this piece. Moving on.
 
-Thank you very much. Diana Marcella, A Star is Born, Digital on Aluminum, 2022. Is Diana with us?
+Thank you very much. Diane Marsella, A Star is Born, Digital on Aluminum, 2022. Is Diana with us?
 
 ## Michael Pierre Price [01:34:52](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5692s)
 
@@ -1223,7 +1223,7 @@ That is Diane Marsella. Yes. Sorry. I'm not sure I gave that name correctly. Nin
 
 ## Nina Sobell [01:35:59](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5759s)
 
-Hi. Hi, everybody. I'm really delighted to be here. And I just want to say that Roz introduced me to the group. And I was part of her code show in 1995 at Rego Maresca Gallery. And I'm going to be part of her handshake, her digital handshake, with Nina Yankovic, my friend Nina Yankovic. Really? Yeah. And when I was looking at Nina Yankovic's work, I noticed that her work about Emmy Noether brought to mind my interest in equilibrium and black holes and balance and ebb and flow. And I'm going to be interviewing her and she's going to be interviewing me. And as I said, on Roz's digital handshake. And these.
+Hi. Hi, everybody. I'm really delighted to be here. And I just want to say that Roz introduced me to the group. And I was part of her code show in 1995 at Rego Maresca Gallery. And I'm going to be part of her handshake, her digital handshake, with Nina Yankowitz, my friend Nina Yankowitz. Really? Yeah. And when I was looking at Nina Yankowitz's work, I noticed that her work about Emmy Noether brought to mind my interest in equilibrium and black holes and balance and ebb and flow. And I'm going to be interviewing her and she's going to be interviewing me. And as I said, on Roz's digital handshake. And these.
 
 These were. Oh, and the one on the left, Alice Null. I started this in 2014. And I was thinking about the origins of our universe and looking up at the sky and taking pictures of the blackness. And speaking of Lee Schnaiberg was saying the early phones gave way to glitchism. And I pushed and I pulled and I went to the extreme. It was the exposure and difference and everything. And I was excited to see these images be revealed from the blackness of the night that I was taking photographs of. And I looked it up online or I read an article, but I discovered that Patrick Lichty was one of the originators from the Chicago School of Glitchism. And whatever. And then years later, now I find out that he's part of tech. He was one of the founders of expressionism. And anyway, making a long story short, I'll read.
 
@@ -1285,7 +1285,7 @@ We're trying to find a way to watch a ship. Don't fall.
 
 ## Mary Ann Strandell [01:42:01](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6121s)
 
-Okay, so we're going into the third and final room of the show. And I think we'll just start right here with Darcy Garbage.
+Okay, so we're going into the third and final room of the show. And I think we'll just start right here with Darcy Gerbarg.
 
 ## Roz Dimon [01:42:12](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=6132s)
 
@@ -1437,7 +1437,7 @@ He was, but I think he had to leave early. Yeah. I think Clive had to leave. He 
 
 ## Roz Dimon [01:58:12](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=7092s)
 
-Nice. We're moving on to the back wall here, but very visible from the front. Mary Buchever, treatments one through, I believe, 11. Paper Inc. US 2003. Mary, are you with us?
+Nice. We're moving on to the back wall here, but very visible from the front. Mary Boochever, treatments one through, I believe, 11. Paper Inc. US 2003. Mary, are you with us?
 
 ## Colin Goldberg [01:58:29](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=7109s)
 

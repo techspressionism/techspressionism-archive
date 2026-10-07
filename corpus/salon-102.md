@@ -465,7 +465,7 @@ Even within those narrow parameters, which don't always work, There's this very 
 
 Great, thank you. Cynthia, I think I see your hand up, and I saw Judith, I believe,'s hand up also?
 
-## Allen Hirsh [01:31:44](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5504s)
+## Cynthia DiDonato [01:31:44](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5504s)
 
 Should I speak first, or did… Go ahead. Shall I speak first?
 
@@ -473,11 +473,11 @@ Should I speak first, or did… Go ahead. Shall I speak first?
 
 Yep, sure.
 
-## Allen Hirsh [01:31:52](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5512s)
+## Cynthia DiDonato [01:31:52](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5512s)
 
 Okay. First of all, I want to thank all of you for the presentations that you have made. Today, science needs to be seen as important in our world as we presently know it. Now, as an educator, I think it's fantastic to see that you are sharing the concept… scientific concepts, but using things that the average person might relate to. I think using erotica. To, explain scientific processes. Make it real for people, and I can't say enough about how wonderful that is. And I do appreciate what you've done, all of you. I presently am involved in a science and art collaboration for the second time with a postdoc at Woods Hole.
 
-Institute? And, involving the albatross and how wind shapes the movement of the albatross through dynamic saw… sawing. And I love the fact that I've gotten some ideas from you, for my own project. So, I can't say enough. I would also mention that Karen Leflur and Cynthia Bess Rubin are also working on science and art projects, and I know when, I get off here, and the recording is on, I'll be listening to it again. Thank you.
+Institute? And, involving the albatross and how wind shapes the movement of the albatross through dynamic saw… sawing. And I love the fact that I've gotten some ideas from you, for my own project. So, I can't say enough. I would also mention that Karen LaFleur and Cynthia Beth Rubin are also working on science and art projects, and I know when, I get off here, and the recording is on, I'll be listening to it again. Thank you.
 
 ## Heidi Boisvert [01:33:23](https://www.youtube.com/watch?v=VxS9DBtseCE&t=5603s)
 

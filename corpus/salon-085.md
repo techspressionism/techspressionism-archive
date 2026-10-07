@@ -58,7 +58,7 @@ And then we work, and we come back on at the end of the hour, and we share our w
 
 So. Anyway, you're interested in another time, and you want some help setting it up. That's possible to do. I think those of us who've been doing it on Tuesdays. Now it's it'd be hard for us to make a second one. Cynthia, did you have anything you wanted to add?
 
-## Allen Hirsh [03:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=235s)
+## Cynthia DiDonato [03:55](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=235s)
 
 Just wanna say that we're very encouraging and welcoming to people, even though some of us have met often, we certainly very much enjoy others to attend. And if there is an issue with a language Cynthia is always willing to use Google translate so please don't let the fact that you're uncomfortable speaking in English, stop you from joining us because we do very much enjoy having people of a variety of places in the world, and I'll end my comment.
 
@@ -292,7 +292,7 @@ Yes.
 
 I want to go to the next slide. But I don't know how.
 
-Okay. So I grew up during the Iran Iraq War, which lasted from 1980 to 1988, and Iran was under heavy sanctions, and when I went to school we did not have like Fancy stationery or toys, and I think Heather and Nagin know what I'm talking about. Everything was low quality, and we used the notebooks given to us by the school, and every student had the same stationery, and each family was given a coupon to provide food and weekly. And then suddenly there was ceasefire and everything changed, and we were part of the world after a year, like we were playing with Barbados.
+Okay. So I grew up during the Iran Iraq War, which lasted from 1980 to 1988, and Iran was under heavy sanctions, and when I went to school we did not have like Fancy stationery or toys, and I think Heather and Negin know what I'm talking about. Everything was low quality, and we used the notebooks given to us by the school, and every student had the same stationery, and each family was given a coupon to provide food and weekly. And then suddenly there was ceasefire and everything changed, and we were part of the world after a year, like we were playing with Barbados.
 
 And so some impossible happens suddenly. And is, the video is playing. It's not. Okay.
 
@@ -734,7 +734,7 @@ Note. If they're all still images, you could export a Pdf. And do that.
 
 No, I don't want to do that. Okay, let me. See.
 
-## Allen Hirsh [01:00:06](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3606s)
+## Cynthia DiDonato [01:00:06](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=3606s)
 
 Usually you press F. 5. If you're in Powerpoint, it takes you out to the show.
 
@@ -1162,7 +1162,7 @@ I just wanna vote for printing on Vinyl. I did it years ago when I was in a show
 
 Okay. Well, are we going to? Oh, Cynthia, yeah.
 
-## Allen Hirsh [01:25:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5157s)
+## Cynthia DiDonato [01:25:57](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5157s)
 
 Yes, I very much enjoyed your presentation, Annette, and I really enjoyed the concept of mixing 3D. With 2D. And what do you use to create your 3D. Objects.
 
@@ -1170,7 +1170,7 @@ Yes, I very much enjoyed your presentation, Annette, and I really enjoyed the co
 
 I've been. Well, I've used a variety of different programs. But currently, I'm using cinema 4 d. Which is kind of requiring me to step up my lighting and rendering skills. So I'm kind of working on that right now. But at the beginning Photoshop had a 3 g element incorporated in it, and I use that I use dimensions. I use sketchup but I finally settled on cinema 4 day, because it has the most broad features.
 
-## Allen Hirsh [01:26:52](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5212s)
+## Cynthia DiDonato [01:26:52](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5212s)
 
 Thank you. Curve. Yeah.
 
@@ -1184,7 +1184,7 @@ Okay. So are people.
 
 ## Roz Dimon [01:28:06](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5286s)
 
-I think Michael has a question. Michael Pierre Bryce.
+I think Michael has a question. Michael Pierre Price.
 
 ## Michael Pierre Price [01:28:11](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5291s)
 
@@ -1234,7 +1234,7 @@ Asking it. Yes, miss. Oh, maybe this.
 
 Can you? Do you see a web page.
 
-## Allen Hirsh [01:30:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5450s)
+## Cynthia DiDonato [01:30:50](https://www.youtube.com/watch?v=OdbOncqxQ7s&t=5450s)
 
 Yes.
 

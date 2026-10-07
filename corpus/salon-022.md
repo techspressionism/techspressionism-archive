@@ -32,7 +32,7 @@ And then after the second Q&A session for the second presentation, then it's kin
 
 That being said, I think I can go ahead and introduce our presenters for the day. I think we'll have Nina Kuo and Lauren Kozer going first if that's all right with them. Wait one second. So Lauren Kozer is a Chinese American New York-based multi-faceted animator, painter, musician, and multimedia artist. As an architect and artist, his animation works use random manipulations to explore a world of hitherto unseen shapes and structural possibilities.
 
-Lauren Kozer partners with Nina Kuo. And Nina Kuo is a Chinese American painter, photographer, sculptor, author, video artist, and activist who lives in New York City. Her work examines the role of women, feminism, and identity in Asian American art. And we have Emma Ann Johnson, who is an artist based in Brooklyn, New York, whose practice includes 2D work, animation, and lighting and stage design.
+Lauren Kozer partners with Nina Kuo. And Nina Kuo is a Chinese American painter, photographer, sculptor, author, video artist, and activist who lives in New York City. Her work examines the role of women, feminism, and identity in Asian American art. And we have Emma Anne Johnson, who is an artist based in Brooklyn, New York, whose practice includes 2D work, animation, and lighting and stage design.
 
 All right. That was a mouthful on my part. I apologize. All right. So that being said, Nina, Lauren, are you ready to present? Sure. Can you hear us? Yep. We can hear you just fine.
 

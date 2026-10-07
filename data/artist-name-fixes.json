@@ -13,5 +13,705 @@
     "pattern": "\\bLarry Acres\\b",
     "replacement": "Larry Akers",
     "seen": 1
+  },
+  {
+    "pattern": "\\b(?:Nagin|Nagina|Najeen|Nageen|Negin)[,.]?\\s+(?:Etesabian|Etisabian|Itasabian|Tasabian|Estasabian|Ehtrsabian)\\b",
+    "replacement": "Negin Ehtesabian",
+    "seen": 7
+  },
+  {
+    "pattern": "\\bNagin at (?:the )?(?:Ta)?sabian\\b",
+    "replacement": "Negin Ehtesabian",
+    "seen": 2
+  },
+  {
+    "pattern": "\\b(?:Nagina|Nagin|Najeen|Nageen|Negeen)\\b",
+    "replacement": "Negin",
+    "seen": 112
+  },
+  {
+    "pattern": "\\bAngela[,.]?\\s+Ferrariolo\\b",
+    "replacement": "Angela Ferraiolo",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bEmma[,.]?\\s+Ann[,.]?\\s+Johnson\\b",
+    "replacement": "Emma Anne Johnson",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Nechvatall\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Necvital\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Necbatal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Nechtetal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+NeckVetal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Neckfatal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Necktal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Nechtol\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Nekvital\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Nakvatal\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJoseph[,.]?\\s+Neckpital\\b",
+    "replacement": "Joseph Nechvatal",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bPhilippe[,.]?\\s+Ormiere\\b",
+    "replacement": "Philippe Ormières",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAnne[,.]?\\s+Shapiro\\b",
+    "replacement": "Ann Shapiro",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bFrederick[,.]?\\s+Pons\\b",
+    "replacement": "Frédéric Pons",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Boras\\b",
+    "replacement": "Michael Borras",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Boraz\\b",
+    "replacement": "Michael Borras",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMikael[,.]?\\s+Boras\\b",
+    "replacement": "Michael Borras",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSahar[,.]?\\s+Mousavi\\b",
+    "replacement": "Sahar Moussavi",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bSahar[,.]?\\s+Mosavi\\b",
+    "replacement": "Sahar Moussavi",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bSahar[,.]?\\s+Mousadi\\b",
+    "replacement": "Sahar Moussavi",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSahar[,.]?\\s+Nusavi\\b",
+    "replacement": "Sahar Moussavi",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMalavika[,.]?\\s+Mandel[,.]?\\s+Andrew\\b",
+    "replacement": "Malavika Mandal Andrew",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAnayas[,.]?\\s+Chaturvedi\\b",
+    "replacement": "Anya Chaturvedi",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Beth[,.]?\\s+Ruben\\b",
+    "replacement": "Cynthia Beth Rubin",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Bath[,.]?\\s+Rubin\\b",
+    "replacement": "Cynthia Beth Rubin",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Beth[,.]?\\s+Reuben\\b",
+    "replacement": "Cynthia Beth Rubin",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Bess[,.]?\\s+Rubin\\b",
+    "replacement": "Cynthia Beth Rubin",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Beth[,.]?\\s+Irvin\\b",
+    "replacement": "Cynthia Beth Rubin",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Didinato\\b",
+    "replacement": "Cynthia DiDonato",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Adidonado\\b",
+    "replacement": "Cynthia DiDonato",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Diadonado\\b",
+    "replacement": "Cynthia DiDonato",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCynthia[,.]?\\s+Donata\\b",
+    "replacement": "Cynthia DiDonato",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRandy[,.]?\\s+Matushevitz\\b",
+    "replacement": "Randi Matushevitz",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bRandy[,.]?\\s+Matashevitz\\b",
+    "replacement": "Randi Matushevitz",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRandy[,.]?\\s+Matsuchevitz\\b",
+    "replacement": "Randi Matushevitz",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Janiczewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Yanniszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Yanaszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bRenada[,.]?\\s+Yaniszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenady[,.]?\\s+Janiszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenati[,.]?\\s+Anaszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Anishevska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Yanashewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bRenada[,.]?\\s+Yanaszewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Yanishevska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenadi[,.]?\\s+Anisewska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRenata[,.]?\\s+Yannishawska\\b",
+    "replacement": "Renata Janiszewska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAdrita[,.]?\\s+Purkite\\b",
+    "replacement": "Adrita Purkait",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bBrandon[,.]?\\s+Gillis\\b",
+    "replacement": "Brandon Gellis",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bBrandon[,.]?\\s+Gallus\\b",
+    "replacement": "Brandon Gellis",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bChristian[,.]?\\s+Paul\\b",
+    "replacement": "Christiane Paul",
+    "seen": 9
+  },
+  {
+    "pattern": "\\bChristiana[,.]?\\s+Paul\\b",
+    "replacement": "Christiane Paul",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bIrshad[,.]?\\s+Fatahian\\b",
+    "replacement": "Ershad Fatahian",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bLee[,.]?\\s+Schnadberg\\b",
+    "replacement": "Lee Schnaiberg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bLee[,.]?\\s+Schneiber\\b",
+    "replacement": "Lee Schnaiberg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bLee[,.]?\\s+Schneiberg\\b",
+    "replacement": "Lee Schnaiberg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRobert[,.]?\\s+A[,.]?\\s+Rips\\b",
+    "replacement": "Robert A. Ripps",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRobert[,.]?\\s+A\\.[,.]?\\s+Rips\\b",
+    "replacement": "Robert A. Ripps",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bShiran[,.]?\\s+Tashova\\b",
+    "replacement": "Shirin Tashova",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAlan[,.]?\\s+Kennard\\b",
+    "replacement": "Alan Kinnard",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAnd[,.]?\\s+Morgan[,.]?\\s+Spalter\\b",
+    "replacement": "Anne Morgan Spalter",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bDarcy[,.]?\\s+Gerbark\\b",
+    "replacement": "Darcy Gerbarg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bDarcy[,.]?\\s+Garbage\\b",
+    "replacement": "Darcy Gerbarg",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bDarcy[,.]?\\s+Garbag\\b",
+    "replacement": "Darcy Gerbarg",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bDarcy[,.]?\\s+Gabar\\b",
+    "replacement": "Darcy Gerbarg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJan[,.]?\\s+Swinbur\\b",
+    "replacement": "Jan Swinburne",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bKaren[,.]?\\s+Lefleur\\b",
+    "replacement": "Karen LaFleur",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bKaren[,.]?\\s+Leflur\\b",
+    "replacement": "Karen LaFleur",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bKaren[,.]?\\s+LaCleure\\b",
+    "replacement": "Karen LaFleur",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bOz[,.]?\\s+Van[,.]?\\s+Rozen\\b",
+    "replacement": "Oz Van Rosen",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAnnette[,.]?\\s+Wingtrub\\b",
+    "replacement": "Annette Weintraub",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMary[,.]?\\s+Ann[,.]?\\s+Strandle\\b",
+    "replacement": "Mary Ann Strandell",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSteven[,.]?\\s+Carpenter\\b",
+    "replacement": "Stephen Carpenter",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTommy[,.]?\\s+Mints\\b",
+    "replacement": "Tommy Mintz",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bTony[,.]?\\s+Mintz\\b",
+    "replacement": "Tommy Mintz",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTommy[,.]?\\s+Mince\\b",
+    "replacement": "Tommy Mintz",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bTor[,.]?\\s+Borwell\\b",
+    "replacement": "Tor Burwell",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAndrea[,.]?\\s+Bonacheta\\b",
+    "replacement": "Andrea Bonaceto",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bFrank[,.]?\\s+Chillette\\b",
+    "replacement": "Frank Gillette",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bFrank[,.]?\\s+Chillett\\b",
+    "replacement": "Frank Gillette",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bGuillermo[,.]?\\s+Arias\\-Mondi\\b",
+    "replacement": "Guillermo Arismendi",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bHayide[,.]?\\s+Jamshidai\\b",
+    "replacement": "Hayede Jamshidi",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bLucy[,.]?\\s+Kralikova\\b",
+    "replacement": "Lucie Králíková",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bLucy[,.]?\\s+Kraljkova\\b",
+    "replacement": "Lucie Králíková",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMark[,.]?\\s+Peclavanos\\b",
+    "replacement": "Mark Pechlivanos",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMark[,.]?\\s+Peclavonos\\b",
+    "replacement": "Mark Pechlivanos",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMarcos[,.]?\\s+Peclevanos\\b",
+    "replacement": "Mark Pechlivanos",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Pierre[,.]?\\s+Bryce\\b",
+    "replacement": "Michael Pierre Price",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Peer[,.]?\\s+Price\\b",
+    "replacement": "Michael Pierre Price",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bPatrick[,.]?\\s+Lickety\\b",
+    "replacement": "Patrick Lichty",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bPatrick[,.]?\\s+Licky\\b",
+    "replacement": "Patrick Lichty",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bPatrick[,.]?\\s+Lipty\\b",
+    "replacement": "Patrick Lichty",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bPatrick[,.]?\\s+Linty\\b",
+    "replacement": "Patrick Lichty",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bPatrick[,.]?\\s+Licktie\\b",
+    "replacement": "Patrick Lichty",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTasneem[,.]?\\s+Bashir\\b",
+    "replacement": "Tassneen Bashir",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bVernetta[,.]?\\s+Lights\\b",
+    "replacement": "Verneda Lights",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bBernada[,.]?\\s+Lights\\b",
+    "replacement": "Verneda Lights",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bVernaida[,.]?\\s+Light\\b",
+    "replacement": "Verneda Lights",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bBernado[,.]?\\s+Lights\\b",
+    "replacement": "Verneda Lights",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bKathleen[,.]?\\s+Gobrowski\\b",
+    "replacement": "Kathleen Dobrowsky",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMary[,.]?\\s+Buchever\\b",
+    "replacement": "Mary Boochever",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Reeve\\b",
+    "replacement": "Michael Rees",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bYuga[,.]?\\s+Zhou\\b",
+    "replacement": "Yuge Zhou",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bBeth[,.]?\\s+Giacomo\\b",
+    "replacement": "Beth Giacummo",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bLindsay[,.]?\\s+Kakoposka\\b",
+    "replacement": "Lindsay Kokoska",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSungjin[,.]?\\s+Lee\\b",
+    "replacement": "Seungjin Lee",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSanjin[,.]?\\s+Lee\\b",
+    "replacement": "Seungjin Lee",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSteven[,.]?\\s+Paré\\b",
+    "replacement": "Stephen Paré",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bStephen[,.]?\\s+Paray\\b",
+    "replacement": "Stephen Paré",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bStephen[,.]?\\s+Perret\\b",
+    "replacement": "Stephen Paré",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bAndy[,.]?\\s+Wolman\\b",
+    "replacement": "Andy Wauman",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCarl[,.]?\\s+Aganis\\b",
+    "replacement": "Carla Gannis",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCarla[,.]?\\s+Danis\\b",
+    "replacement": "Carla Gannis",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bCarla[,.]?\\s+Ganas\\b",
+    "replacement": "Carla Gannis",
+    "seen": 2
+  },
+  {
+    "pattern": "\\bColleen[,.]?\\s+Goldberg\\b",
+    "replacement": "Colin Goldberg",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bDiana[,.]?\\s+Marcella\\b",
+    "replacement": "Diane Marsella",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMichael[,.]?\\s+Poluconis\\b",
+    "replacement": "Michael Paulukonis",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bGalina[,.]?\\s+Schveenko\\b",
+    "replacement": "Galina Shevchenko",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bRoman[,.]?\\s+Vrasko\\b",
+    "replacement": "Roman Verostko",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bSherry[,.]?\\s+Carter\\b",
+    "replacement": "Sherry Karver",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bSherry[,.]?\\s+Kava\\b",
+    "replacement": "Sherry Karver",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bKeta[,.]?\\s+Shah\\b",
+    "replacement": "Kedar Shah",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bMargaret[,.]?\\s+Jelinski\\b",
+    "replacement": "Margaret Dolinsky",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bNina[,.]?\\s+Savell\\b",
+    "replacement": "Nina Sobell",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bNina[,.]?\\s+Savelle\\b",
+    "replacement": "Nina Sobell",
+    "seen": 3
+  },
+  {
+    "pattern": "\\bNina[,.]?\\s+Yankovic\\b",
+    "replacement": "Nina Yankowitz",
+    "seen": 6
+  },
+  {
+    "pattern": "\\bNina[,.]?\\s+Jankowicz\\b",
+    "replacement": "Nina Yankowitz",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAldofino[,.]?\\s+Corino\\b",
+    "replacement": "Adelfino Corino",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAdelfina[,.]?\\s+Perino\\b",
+    "replacement": "Adelfino Corino",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bAdrian[,.]?\\s+Wartzel\\b",
+    "replacement": "Adrienne Wortzel",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTikowai[,.]?\\s+Kuitenbrauer\\b",
+    "replacement": "Tikoi Kuitenbrouwer",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTikoi[,.]?\\s+Keitenbroer\\b",
+    "replacement": "Tikoi Kuitenbrouwer",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bJohyun[,.]?\\s+Ahn\\b",
+    "replacement": "Yeohyun Ahn",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bHugh[,.]?\\s+Messi\\b",
+    "replacement": "Huw Messie",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bLily[,.]?\\s+Kostryva\\b",
+    "replacement": "Lily Kostrzewa",
+    "seen": 1
   }
 ]

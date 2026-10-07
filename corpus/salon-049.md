@@ -311,7 +311,7 @@ And so that's just for me. That's adding technology. To the artwork and one of t
 
 You David and yeah I mean I agree you know to me or I sort of hear your sentiment. You know it's digital art is one segment nfts or one segment. And I'll tell you something. But honestly, NFTs, I just see as a distribution mechanism. It's not art or not art. It's a distribution mechanism. Like it's a contract, right? I don't know that there's necessarily anything really other than that attached to it, other than each individual's sort of associations with the term, what it means. But intrinsically, it's a smart contract on the blockchain.
 
-I saw something, I think it was actually Christiana Paul retweeted something about vFriends, like is vFriends art or not? And I think her verdict was it's not. And again, that's like, is... Yeah. Yeah. Is this particular painting art or not? It's a subjective call. I feel like what this whole NFT phenomenon does is it makes people talk about art. Even if this is crap, it's not art. At least they're talking about what's not art. That's better than just talking about what's on the grocery list.
+I saw something, I think it was actually Christiane Paul retweeted something about vFriends, like is vFriends art or not? And I think her verdict was it's not. And again, that's like, is... Yeah. Yeah. Is this particular painting art or not? It's a subjective call. I feel like what this whole NFT phenomenon does is it makes people talk about art. Even if this is crap, it's not art. At least they're talking about what's not art. That's better than just talking about what's on the grocery list.
 
 So I feel like that's probably... A good thing for everyone. Let's see, Tommy, I don't think you've shared yet.
 

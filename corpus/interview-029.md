@@ -871,7 +871,7 @@ Yes!
 
 ## Colin Goldberg [44:56](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2696s)
 
-And Joseph NeckVetal, like…
+And Joseph Nechvatal, like…
 
 ## Claudia Hart [44:58](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2698s)
 
@@ -911,7 +911,7 @@ Yes.
 
 ## Colin Goldberg [46:17](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2777s)
 
-Where I met Patrick, and it was actually Joseph Nechvatall that recommended that place to me, because he said, you know, I have this friend and colleague, Greg Little, who teaches there, and then, you know, I found out two things. One, it was a full ride situation, so if you got into the program, it was a scholarship. But also, they had this relationship with Silicon Graphics, where, you know, it was the largest undergraduate digital art program in the country at that point.
+Where I met Patrick, and it was actually Joseph Nechvatal that recommended that place to me, because he said, you know, I have this friend and colleague, Greg Little, who teaches there, and then, you know, I found out two things. One, it was a full ride situation, so if you got into the program, it was a scholarship. But also, they had this relationship with Silicon Graphics, where, you know, it was the largest undergraduate digital art program in the country at that point.
 
 ## Claudia Hart [46:42](https://www.youtube.com/watch?v=4kHuGtuLoSY&t=2802s)
 

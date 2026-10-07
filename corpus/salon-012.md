@@ -173,7 +173,7 @@ Or they don't think that's important or they're not. They don't value that very 
 
 And so, you know, I don't know what that means. I don't know if I would ever show these works in a place that didn't have that kind of support. They would just, you know, flip and flop and look terrible after a little while. I mean, maybe not so terrible. But you know what I'm talking about. I absolutely do. Yeah. Having done a lot of. When they're tuned, that's when you love it. You just, wow. That's the cat's pajamas.
 
-So let's see here. What is the real world correlate for the large pink, or is there one? Why are they surrounded in plastic for protection? I think that was Vernetta. Lights, right? And so the real world correlate. Can you be a little. Can you elaborate on that a little bit? I'm not sure what you mean by that. Well, I wanted. I want to know whether or not you had any.
+So let's see here. What is the real world correlate for the large pink, or is there one? Why are they surrounded in plastic for protection? I think that was Verneda Lights, right? And so the real world correlate. Can you be a little. Can you elaborate on that a little bit? I'm not sure what you mean by that. Well, I wanted. I want to know whether or not you had any.
 
 Image in mind. As you created a sculpture. Inflatable. Okay. That's a, you know, that's a great question. And the way that I work is that I dive in. And I just keep trying. And so it's like stabbing in the dark. You know, I didn't have an initial image in my mind that I was going to realize. I knew that I would do. You know, a couple of things were given. And I knew I would do that. You know, they had to have photos because I don't really, I mistrust.
 

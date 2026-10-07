@@ -159,7 +159,7 @@ And, and, and I'm like, oh yeah. Or when I broke a monitor and it is recently I 
 
 Beveled pieces with a light that keeps on changing color all the time. So it's a little bit annoying, but every once in a while I've done some. Some. Pano pieces. With them. And that's another, that's one of the ones that I get a response from that. It reminds them of a, of a broken monitor. And, and that piece to me really had that broken monitor color. Scheme, which I thought was really fun.
 
-So, yeah, I really enjoyed those. And thanks. Thank you. And I waited a long time for that glitch on the screen. And that of course is from the influence. Of I think it's Sherry. Sherry Kava has done. Things with glitch screens. And so thank you for your inspiration. One of the reasons I love this group. Well, wonderful. Wow. And Tommy.
+So, yeah, I really enjoyed those. And thanks. Thank you. And I waited a long time for that glitch on the screen. And that of course is from the influence. Of I think it's Sherry. Sherry Karver has done. Things with glitch screens. And so thank you for your inspiration. One of the reasons I love this group. Well, wonderful. Wow. And Tommy.
 
 And Lee, I, I see all you guys in here. I think all three of you. Have worked. That's really relevant to this topic as far as. Using the hardware and software, different sort of ways that they might not have been intended to. Just putting that out there. Yeah. Well, I hope Sherry wants to show soon. I'd love to show a couple of pieces that I did shoot.
 

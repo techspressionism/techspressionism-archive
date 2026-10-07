@@ -67,7 +67,7 @@ In 1978, Ann Bean and I collaborated on her piece Silent Conversations, telepath
 
 ## Unattributed [06:46](https://www.youtube.com/watch?v=iQL826mqyFg&t=406s)
 
-Nina Savelle has been intrigued by the idea of being able to capture the admittance of electrical impulses by the brain and transposing them into a graphic image since 1973. She began to collaborate with systems engineer Michael Trivich. On the monitor, two people were able to see the physical as well as mental image. They were able to create one composite brainwave drawing in real time.
+Nina Sobell has been intrigued by the idea of being able to capture the admittance of electrical impulses by the brain and transposing them into a graphic image since 1973. She began to collaborate with systems engineer Michael Trivich. On the monitor, two people were able to see the physical as well as mental image. They were able to create one composite brainwave drawing in real time.
 
 Savelle was determined to devise a noncompetitive creative environment geared to home TV viewers who could create an active rather than passive TV viewing experience and enhance their ability to communicate. Dr. Barry Sturman of the Supplemental Veterans Administration Hospital in California offered access to equipment.
 
@@ -155,7 +155,7 @@ Telepathic drawings in which we communicated non-verbally, creating a heightened
 
 ## Unattributed [23:08](https://www.youtube.com/watch?v=iQL826mqyFg&t=1388s)
 
-Nina Savelle has been intrigued by the idea of being able to capture the emittance of electrical impulses by the brain and transposing them into a graphic image since 1973. She began to collaborate with systems engineer Michael Trivich. On the monitor, two people were able to see their physical as well as mental image. They were able to create one composite brainwave drawing in real time.
+Nina Sobell has been intrigued by the idea of being able to capture the emittance of electrical impulses by the brain and transposing them into a graphic image since 1973. She began to collaborate with systems engineer Michael Trivich. On the monitor, two people were able to see their physical as well as mental image. They were able to create one composite brainwave drawing in real time.
 
 Savelle was determined to devise a non-competitive creative environment geared to home TV viewers who could create an active rather than passive TV viewing experience and enhance their ability to communicate. Dr. Barry Sturman of the Sepulveda Veterans Administration Hospital in California offered access to equipment.
 

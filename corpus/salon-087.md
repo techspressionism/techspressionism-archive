@@ -62,7 +62,7 @@ So we'll just wait for those to propagate.
 
 And we will start.
 
-With the Green Sun. By Sahar Mousavi, and you'll see there's a link here, and that means that it is on sale at object dot com. So if you click on that link, it'll take you to object where you can buy this work. So, Sahar. Would you like to speak.
+With the Green Sun. By Sahar Moussavi, and you'll see there's a link here, and that means that it is on sale at object dot com. So if you click on that link, it'll take you to object where you can buy this work. So, Sahar. Would you like to speak.
 
 ## Sahar Moussavi [13:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=836s)
 
@@ -112,7 +112,7 @@ But this is an earth tree sky, and just a little journey, exploring the sort of 
 
 Thank you. Yeah. And we should say that when you are in the space, you can click on this button, and it takes you to the other world. So do try that. It's really exciting. Next up. Thank you so much, Lucy. Let's give Lucy a hand. Everyone. Lucy's been working in the loop space extensively, was in The loop. Art critique Alright. Who do we have here? We have Cynthia. Overdressed Cynthia. Can we hear from you.
 
-## Allen Hirsh [21:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1275s)
+## Cynthia DiDonato [21:15](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=1275s)
 
 We certainly can. Hello, everyone. Thank you. Joey and Carrie Ann and Colin, for making this experience happen for Techspressionism. I'm zooming in from North Providence, Rhode Island, Rhode Island is the smallest state in the Union, located on the east coast of the United States. We are home to the Rhode Island School of Design. And I'll talk about my work. 1st of all, let me say this about my work. I'm fascinated by the nature of reality. To that end I create, seen and unseen mindscapes and landscapes Overdressed, is part of a continuing 2D sculptural series that began in 2014. It continues to the present.
 
@@ -134,11 +134,11 @@ All right. We have timber, tapestry. Vanity, Avila, are you here?
 
 I really love this work. You can really get up into it and see the details here. It reminds me of abalone and shell and crustacean and very see Oriented work. Yeah, some of the detail and the work in the exhibition is just fantastic. And I can't say enough. The quality of the artist coming from the Techspressionism Community. It's just it's like world class down to the down to the pixel and it's why I need so much time to sit with the exhibition and just really take it in and get into some of the detail. And so on.
 
-Night swatch by Adrian Wartzel. Yeah, Adrian is on the zoom. I'm not sure if going to speak or not. Would you like to speak, Adrian? 2 min.
+Night swatch by Adrienne Wortzel. Yeah, Adrian is on the zoom. I'm not sure if going to speak or not. Would you like to speak, Adrian? 2 min.
 
 It might be. Are they coming.
 
-Annette? Are you with us today? Annette? Ghosted artifacts, zigzags, twists, and turns by Annette Wingtrub.
+Annette? Are you with us today? Annette? Ghosted artifacts, zigzags, twists, and turns by Annette Weintraub.
 
 Him.
 
@@ -208,7 +208,7 @@ The wind blows in every direction. Sherry Karver. Yeah. Sherry's I don't believe
 
 This is an actual, unaltered photograph, not created using Photoshop or any algorithm. The little squares that arbitrarily appear reflect how our technological world interacts with and affect people and the environment itself. It seems we are in an uncertain period in our history, where things are disintegrating and fragmenting on many levels, politically, socially, psychologically, and environmentally. This is what my work represents. Yet I see the beauty and hopefulness within the chaos.
 
-This series is printed as dye sublimation on metal, a very archival process in small editions. I've chosen to use metal rather than printing on paper, because the metal substrate shines through the surface, adding another visual layer of depth. The industrial feel of the metal works well with contemporary digital technology and the glitches that occur. Thank you. Sherry Carter. Thank you. Sherry. Wonderful series.
+This series is printed as dye sublimation on metal, a very archival process in small editions. I've chosen to use metal rather than printing on paper, because the metal substrate shines through the surface, adding another visual layer of depth. The industrial feel of the metal works well with contemporary digital technology and the glitches that occur. Thank you. Sherry Karver. Thank you. Sherry. Wonderful series.
 
 I'm a pixel by Una Renata. One of our mountain artists with AI. How many times a week. I mean, I should know the answer. Yeah, they've been working with AI video for some time around. Sort of, I mean before some of the kind of like the stable diffusion models and lumos were kind of blowing up. It's always kind of fascinating to see what some of this technology is doing easy. They were a great artist. They hadn't kind of been working in VR and all sorts of technologies and such and AI, and very, very heavy in the blockchain.
 
@@ -260,7 +260,7 @@ So that's how the form has come up, and I have given the title of all the meanin
 
 Thank you. That's wonderful. I love that you're connecting into animals.
 
-This is Robert A. Rips. I know Robert's here. Did you want to speak about this? Hi! Sure.
+This is Robert A. Ripps. I know Robert's here. Did you want to speak about this? Hi! Sure.
 
 ## Robert A. Ripps [43:44](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2624s)
 
@@ -294,7 +294,7 @@ It's not about explaining or understanding. My art is about feeling. I try to ev
 
 Thank you. Thank you so much. It's beautiful. I can see the movement in there happening.
 
-Karen, Lefleur, Fanwaves.
+Karen LaFleur, Fanwaves.
 
 ## Karen LaFleur [47:08](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=2828s)
 
@@ -386,7 +386,7 @@ Up, Tommy. All right. Here we are, with Downside up and through by Judith Jacobs
 
 Judith, are you with us?
 
-## Allen Hirsh [55:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3356s)
+## Cynthia DiDonato [55:56](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=3356s)
 
 She was not able to be here. Carrie.
 
@@ -522,7 +522,7 @@ Thank you.
 
 ## cari ann shim sham [01:14:53](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4493s)
 
-Yeah, we want to do that, too. We're coming back over here. Woo! Woo! Woo! Are you getting dizzy? This is 1916. Detrius by Lee Schnadberg. Isley here.
+Yeah, we want to do that, too. We're coming back over here. Woo! Woo! Woo! Are you getting dizzy? This is 1916. Detrius by Lee Schnaiberg. Isley here.
 
 ## Lee Schnaiberg [01:15:10](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=4510s)
 
@@ -888,11 +888,11 @@ The apps I use to instruct my piece are snapseed X story, Z. Clip to comic iPad,
 
 Thank you so much. I can look at that bird all day long. And I have been lately. Thank you. Yeah. All right.
 
-We have help by Kathleen Gobrowski.
+We have help by Kathleen Dobrowsky.
 
 Kathleen, are you here? Would you like to speak?
 
-Maybe they stepped away, but they might have stepped away. So we'll come back if they if they come back and this work by. It's called head Study, 2020 by Adelfina Perino.
+Maybe they stepped away, but they might have stepped away. So we'll come back if they if they come back and this work by. It's called head Study, 2020 by Adelfino Corino.
 
 Really stunning work.
 
@@ -916,7 +916,7 @@ And then up above us.
 
 Here we go. We have chapter 3.
 
-Bye, Galina Schveenko! Hi!
+Bye, Galina Shevchenko! Hi!
 
 ## Galina Shevchenko [02:03:17](https://www.youtube.com/watch?v=RFWaEX_2QPk&t=7397s)
 

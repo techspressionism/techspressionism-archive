@@ -224,7 +224,7 @@ Everything is just so open-ended. Like, who knows where you'll actually end up. 
 
 Yes. Though we do have several pretty faces in here. I will say that. I see you, Sue. On a pragmatic note, is there anyone in here that does want to present for the next one, two weeks from now? So I could. I slacked a couple of weeks ago. That's fine. But it ended up being a good conversation. Michael, did you have any interest? Yeah. I'd be happy to. But Colin, if there's some that haven't presented at all or something, put priority to that. But sure. I'd be happy to.
 
-I saw somebody. One of the newcomers I think light up. Yeah. My name is Lily Kostryva. I would like to present next time too. Okay. Cool. Yeah, we will get you in. Do you have like a site or some link that you could paste in the chat? Okay. Let me do it right now. That way I can add you to the artist index as well.
+I saw somebody. One of the newcomers I think light up. Yeah. My name is Lily Kostrzewa. I would like to present next time too. Okay. Cool. Yeah, we will get you in. Do you have like a site or some link that you could paste in the chat? Okay. Let me do it right now. That way I can add you to the artist index as well.
 
 Robert, would you like to get added to the artist index? Yeah, please. Okay, cool. Cool. There'll be another Vermonter in there with me now. Is it Vermonter, Vermontian? It is a Vermonter. I've officially traded in my New York plates and my license, and I am no longer a New Yorker. Unlike me, you know, I'm a mass hole from Massachusetts. So once a mass hole in Vermont, always a mass hole. I have a son who's the son of a mass hole. Maybe his kid might be a Vermonter.
 

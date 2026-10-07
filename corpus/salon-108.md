@@ -62,7 +62,7 @@ And the group or movement or whatever you want to call it has spread largely thr
 
 ## Colin Goldberg [01:21](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=81s)
 
-And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randy Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So, The floor is yours, Randi.
+And I think now we're up to around 85,000 posts on Instagram using the hashtag. So that's how a lot of the artists have been sourced and discovered is through the use of the hashtag. So this show is going on right now at LACDA, which is the Los Angeles Center for Digital Art. And there are three, exhibition curators slash organizers, and these will be the moderators of today's salon. And they are Randi Matushevitz. Lucy Boyd-Wilson, and Victor Acevedo. So, without further ado, I'm going to, pass the mic on to Randy, and, I'll let her take it from here. So, The floor is yours, Randi.
 
 ## Randi Matushevitz [02:09](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=129s)
 
@@ -236,15 +236,15 @@ Alan Hirsch.
 
 Bill Rogers. And Maria Trianda Fellows.
 
-So on the far wall, the other side of the cube. The monitor on the left is Cynthia Beth Rubin, paired with Michael Woodruff and Mark Chavez and Ina Conradi. And the other monitor on the right is Audrey Phillips and Randy Matashevitz. And again photos for each Cynthia Beth Rubin's work. Michael Woodruff. Mark Shepherd and Ina Kanradi They work together as a team.
+So on the far wall, the other side of the cube. The monitor on the left is Cynthia Beth Rubin, paired with Michael Woodruff and Mark Chavez and Ina Conradi. And the other monitor on the right is Audrey Phillips and Randi Matushevitz. And again photos for each Cynthia Beth Rubin's work. Michael Woodruff. Mark Shepherd and Ina Kanradi They work together as a team.
 
 And this one is Audrey Phillips. And Randy's piece.
 
-And these 2 monitors are on the other wall of the cube. The one on the left is Cynthia DiDonato and Karen Le Fleur. And the right-hand monitor has Nagin Itasabian and Patrick Lichty, who also work as an artist team, and Victor Acevedo. Here's a photo of Cynthia DiDonato piece, Dancers. And Karen LaFleur.
+And these 2 monitors are on the other wall of the cube. The one on the left is Cynthia DiDonato and Karen Le Fleur. And the right-hand monitor has Negin Ehtesabian and Patrick Lichty, who also work as an artist team, and Victor Acevedo. Here's a photo of Cynthia DiDonato piece, Dancers. And Karen LaFleur.
 
-Nagina Itasabian and Patrick Lichty. And Victor Acevedo. So I'm just so glad that we got to see some live shots during the show where everything was actually animated. But these are at least photos of each video artwork on the monitors. And the next segment is going to be showing a little bit about the New Media Expressionist Architectures Exhibition Experiment, which we also call the DAT Collaborations. DAC stands for Digital Artist Community, and it's a SIGGRAPH subgroup. And this is the poster.
+Negin Ehtesabian and Patrick Lichty. And Victor Acevedo. So I'm just so glad that we got to see some live shots during the show where everything was actually animated. But these are at least photos of each video artwork on the monitors. And the next segment is going to be showing a little bit about the New Media Expressionist Architectures Exhibition Experiment, which we also call the DAT Collaborations. DAC stands for Digital Artist Community, and it's a SIGGRAPH subgroup. And this is the poster.
 
-Curated by Joshua Dickinson, Tuna Bora, Gustavo Rincon, and Randy Matushevitz, and there are six collaboration projects. The collaborators were put together by Gustavo and Joshua. And each group consists of an expressionist artist and an audio music composer and technologist. So…. For showing on the monitor at Lacta, each project has a clip of two and a half minutes, and the total runtime on that monitor is 15 and a half minutes. And here's a photo.
+Curated by Joshua Dickinson, Tuna Bora, Gustavo Rincon, and Randi Matushevitz, and there are six collaboration projects. The collaborators were put together by Gustavo and Joshua. And each group consists of an expressionist artist and an audio music composer and technologist. So…. For showing on the monitor at Lacta, each project has a clip of two and a half minutes, and the total runtime on that monitor is 15 and a half minutes. And here's a photo.
 
 Of… Somebody listening with the headphones. Yeah, all the monitors have headphones attached. And this piece that we're looking at is the team that Cynthia Beth Rubin was part of this team. This piece is called Ambient Ocean. Okay, I have a trailer video where each each of the collaboration projects shows just 20 seconds. So this plays for two and a half minutes. And I want to warn you that the title. The title screens go go past very quickly, and only 2 seconds. So read fast and don't blink and don't miss the titles. So Okay.
 
@@ -542,7 +542,7 @@ Mmh.
 
 ## Lucy Boyd-Wilson [01:06:55](https://www.youtube.com/watch?v=RSGBYaBbWgg&t=4015s)
 
-Yeah, and I'll start, and I know Randy and Victor and Annette can also speak. The team that I was in, I have two composers. Yes, Stephen Paray. Steven Ferre is one, and Yue Hao Gao. So it was just wonderful working with them, by Zoom over the weeks, and, so that, that was our team. I was doing the visuals and the sort of technical. Stuff, making it interactive. And Steven and Weihao were doing the music. Very different types of music. So it was very interesting, you know, combining, combining that.
+Yeah, and I'll start, and I know Randy and Victor and Annette can also speak. The team that I was in, I have two composers. Yes, Stephen Paré. Steven Ferre is one, and Yue Hao Gao. So it was just wonderful working with them, by Zoom over the weeks, and, so that, that was our team. I was doing the visuals and the sort of technical. Stuff, making it interactive. And Steven and Weihao were doing the music. Very different types of music. So it was very interesting, you know, combining, combining that.
 
 But yeah, anybody else want to talk about their Teams. Victor.
 

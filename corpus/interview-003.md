@@ -343,7 +343,7 @@ Right.
 
 So I went home at night and I made this. I made this painting that measures like just absolute nonsense. And let's see. Oh, I don't think I have the end. We're working on the, we're, John Markin, the programmer who works with me, we're rolling this up and we're bringing it back to life. But it's an interactive bar chart that is just full of crazy sounds and flags and noses and buttons. And you interact with the entire piece. That's coming soon. I'll share it with the text questions group.
 
-Intelligent agent. Which was run by Patrick lifting. Who's part of our group and one of the founders. Oh, yeah. No founders. He actually was, you know, early on a real player, huge player. And this is the first issue of intelligent agent also co-produced with him with Christian Paul, who is the adjunct curator of digital media at the Whitney for many years. Amazing woman as well. And beyond the zero is about the world's greatest bar chart. And I dug this up recently because it's really fun to look back. And I mean, it wasn't like this was online at the time.
+Intelligent agent. Which was run by Patrick lifting. Who's part of our group and one of the founders. Oh, yeah. No founders. He actually was, you know, early on a real player, huge player. And this is the first issue of intelligent agent also co-produced with him with Christiane Paul, who is the adjunct curator of digital media at the Whitney for many years. Amazing woman as well. And beyond the zero is about the world's greatest bar chart. And I dug this up recently because it's really fun to look back. And I mean, it wasn't like this was online at the time.
 
 ## Unattributed [35:29](https://www.youtube.com/watch?v=DJDMQvtiOQU&t=2129s)
 

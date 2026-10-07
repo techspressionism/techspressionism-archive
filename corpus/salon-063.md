@@ -241,7 +241,7 @@ Especially in big institutions like art museums. But now we have. Moma showing. 
 
 I think I'm not a hundred percent sure. I think it's Gregory still sharing his screen. Yeah. You're on the screen. Thank you. Sorry about that. That's okay. I have a couple of announcements. There's a. A symposium on Saturday, March the 18th. And the title is AI and the lens and screen arts symposium.
 
-And it's at the school of visual arts. Theater in New York, but it's going to be a zoom event and tickets are free. And there's a huge. Big long. Piece of writing, describing what some of the themes are and who some of the speakers will be. And to obtain all the information, you simply go to Carla. Danis's.
+And it's at the school of visual arts. Theater in New York, but it's going to be a zoom event and tickets are free. And there's a huge. Big long. Piece of writing, describing what some of the themes are and who some of the speakers will be. And to obtain all the information, you simply go to Carla Gannis's.
 
 Instagram page. And she came to a couple of our meetings. She's a prof in New York and also very, very active in the digital with making digital art. And so it's Carla dot Gannis G a N N I S. And it's just a simple event, bright sign up. And the symposium goes, I believe from 10 AM in the morning. Until 8 PM in the evening. So there'll probably be something for everyone. Who's interested in. The direction that. Things are going for, for all of us who work in the digital realm with AI. My next door neighbor is a writer and he writes scientific articles. For journals and magazines.
 

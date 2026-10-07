@@ -201,7 +201,7 @@ Number one space is embedded in the. Domain of spirit to this is a six dimension
 
 Affirmation of that sort of visual metaphor, that graphical metaphor for interpreting. How perception and consciousness operate spontaneously as we perceive the world. So that was that was very influential. You need to wrap up. Oh, okay. So I'm going to go fast. This is an important book. Digital Visions.
 
-There's a piece by Darcy Gerbark. This tile piece. This further affirmation that the M.C. Escher tessellation was alive and well in the digital domain. These are this is a piece called Two Philosophers. Let's go through it later was put on the cover. It's 1991, but the pieces from 89. These are newsletters.
+There's a piece by Darcy Gerbarg. This tile piece. This further affirmation that the M.C. Escher tessellation was alive and well in the digital domain. These are this is a piece called Two Philosophers. Let's go through it later was put on the cover. It's 1991, but the pieces from 89. These are newsletters.
 
 The community was important. LAC graph was quite active. These are the newsletters piece in there. A lot of information that was dispersed and then culminating. This is the last slide. All of that decade of 1980 is my personal development. My. My personal development and my interface with the community.
 

@@ -27,7 +27,7 @@ Michael Pierre Price, I hit continue. Sounded good to me.
 
 ## Michael Pierre Price [00:06](https://www.youtube.com/watch?v=k1kO0JSzqc8&t=6s)
 
-Michael Pierre Price, Welcome. This is another in the ongoing Techspressionist artist interview series. Today is June 17 2021. My name is Michael Peer Price and I'm a Techspressionist artist out of Phoenix, Arizona. I specialize in abstract algorithmic and surrealist art. Today I'm pleased to interview Tommy Mintz. Let me start by highlighting a bit of Tommy's background. Tommy Mintz grew up in New York City's West Village in the 1980s and 90s.
+Michael Pierre Price, Welcome. This is another in the ongoing Techspressionist artist interview series. Today is June 17 2021. My name is Michael Pierre Price and I'm a Techspressionist artist out of Phoenix, Arizona. I specialize in abstract algorithmic and surrealist art. Today I'm pleased to interview Tommy Mintz. Let me start by highlighting a bit of Tommy's background. Tommy Mintz grew up in New York City's West Village in the 1980s and 90s.
 
 Tommy now lives in Chelsea with his wife, kids and cats and is currently an assistant professor of photography at CUNY Kingsborough Community College in Brooklyn. Here in an MFA for the Texas State University of Texas. He graduated from the University of Texas in 2005 and a BA from Queens College in 2005 and a BA from Sarah Lawrence College in 1999.
 

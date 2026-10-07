@@ -51,7 +51,7 @@ Come in person if you can. Come on the… The 8th is gonna be huge, and the 11th
 
 That's great, Erin, thank you. It's always cool to have a live show like that, so I think that's gonna be a really fun salon to look forward to, so thanks. All right, so today's topic is reimagining the artist with a specialization in generative AI, and this topic had been suggested, At last month's After Party by Verneda Lights, and she's going to be presenting first. And I'm gonna read just a little bit of her bio, because it's pretty impressive.
 
-Bernada Lights is a polymath artist, writer, and retired physician whose practice resides at the intersection of art, technology, and cultural memory. A graduate of Ren Mawr College, she earned her MD from the University of Pennsylvania Perlman School of Medicine. And later completed an MBA at Strayer University. Expanding her interdisciplinary reach into emerging technologies, she holds certification in generative AI from the Johns Hopkins University Whiting School of Engineering.
+Verneda Lights is a polymath artist, writer, and retired physician whose practice resides at the intersection of art, technology, and cultural memory. A graduate of Ren Mawr College, she earned her MD from the University of Pennsylvania Perlman School of Medicine. And later completed an MBA at Strayer University. Expanding her interdisciplinary reach into emerging technologies, she holds certification in generative AI from the Johns Hopkins University Whiting School of Engineering.
 
 A cultural griot of the Gullah Geechee Nation, Brenada grounds her artistic practice in the preservation of ancestral memory, oral history, and diasporic identity. Identifying as a Techspressionist, she engages artificial intelligence as a collaborator in multimodal reasoning. Integrating text, image synthesis, narrative worldbuilding, and digital painting to explore identity, spirituality, and speculative futures. Her AI-driven projects have received international validation.
 
@@ -171,7 +171,7 @@ Thank you. My honor.
 
 ## Michael Pierre Price [32:18](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1938s)
 
-Oh, okay, so, moving along to our next presenter. Renata Yanishevska, Renata, up to you now.
+Oh, okay, so, moving along to our next presenter. Renata Janiszewska, Renata, up to you now.
 
 ## Renata Janiszewska [32:30](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=1950s)
 
@@ -293,7 +293,7 @@ Yeah, the animations are powerful.
 
 Yeah, yeah. Thanks, Collin.
 
-## Allen Hirsh [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
+## Cynthia DiDonato [01:01:48](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3708s)
 
 Black and white, Colin.
 
@@ -301,13 +301,13 @@ Black and white, Colin.
 
 That was cool, yeah.
 
-## Allen Hirsh [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
+## Cynthia DiDonato [01:01:52](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3712s)
 
 Beautiful.
 
 ## Michael Pierre Price [01:01:54](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3714s)
 
-Okay, we have one more presenter, Sahar Mosavi, and it looks like, I guess, Renita, you're gonna be.
+Okay, we have one more presenter, Sahar Moussavi, and it looks like, I guess, Renita, you're gonna be.
 
 ## Verneda Lights [01:02:01](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3721s)
 
@@ -327,7 +327,7 @@ Yes.
 
 ## Verneda Lights [01:02:20](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=3740s)
 
-Okay. So this is, from Sahar Mousavi. Sahar is one of our members that lives in Iran. And we have a beautiful artwork here. She's been creating art for a long time, and… she experiments also with converting her or collaborating with the AI to expand upon the work that she created earlier in her life. So, here she states, in this art series, I leveraged VizCom AI, an AI engine tailored for product designers. To transform my hand-drawn sketches into various rendered images. Utilizing my original artwork as style references, the AI engine generated new interpretations frequently in the form of 3D renders. So here we go.
+Okay. So this is, from Sahar Moussavi. Sahar is one of our members that lives in Iran. And we have a beautiful artwork here. She's been creating art for a long time, and… she experiments also with converting her or collaborating with the AI to expand upon the work that she created earlier in her life. So, here she states, in this art series, I leveraged VizCom AI, an AI engine tailored for product designers. To transform my hand-drawn sketches into various rendered images. Utilizing my original artwork as style references, the AI engine generated new interpretations frequently in the form of 3D renders. So here we go.
 
 Here we have the original image. And we see the various ways in which the AI picks up on the colors… and the shapes, and interprets.
 

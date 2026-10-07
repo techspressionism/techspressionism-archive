@@ -123,7 +123,7 @@ They had the anniversary of the first day of the war. And a lot of cities put th
 
 So... Anyway, it was my idea to come up with the war thing and then it evolved into a revolution. So... They are very much... I wouldn't even say two sides of the same coin. But the coin kind of has revolution and conflict kind of inherent in it. Yeah. Okay. Well, I'll stop sharing so the next person can go. All right. Well, thank you so much, Cheryl. Oh, you're welcome. My pleasure. And keep up the work with practice and everything. You'll get to where you want to be. You just have to keep going. Yeah.
 
-All right. Does anyone have any questions or questions? Or comments, praise for Cheryl? Yes, no, maybe so. Cynthia, the other Cynthia that we have, Cynthia Beth Irvin, she says great depth in that image. Also, she's waving at you. Oh, this is also kind of a general note to everyone. The tools that we use, it's a perpetual learning process. You never stop learning. Like, you just keep going.
+All right. Does anyone have any questions or questions? Or comments, praise for Cheryl? Yes, no, maybe so. Cynthia, the other Cynthia that we have, Cynthia Beth Rubin, she says great depth in that image. Also, she's waving at you. Oh, this is also kind of a general note to everyone. The tools that we use, it's a perpetual learning process. You never stop learning. Like, you just keep going.
 
 There is a good enough, but you're always trying to be better than that good enough, I feel. Or at least that's for me anyway. But I think that speaks to a lot of other people as well where, you know, you're in a constant state of progression and growth and even change with your practice in art. So, yeah.
 

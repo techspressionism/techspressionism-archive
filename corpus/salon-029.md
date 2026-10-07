@@ -54,7 +54,7 @@ But Helen actually made the suggestion that the initial definition used the word
 
 So with the addition of Patrick, who was teaching in Abu Dhabi at the time, this core group effectively became Techspressionism's founders when we met and came to a consensus on the definition of the term. Shortly after the first salon, Patrick suggested a set of revisions to the original manifesto, resulting in version two, which is the text currently posted on the website.
 
-And in October of 2020, the Techspressionist Visual Artist Index was established, which is a curated text that was published by the Texas Art Institute for the first time in the United States. It's a curated selection of artists primarily located through their use of the hashtag Techspressionism on Instagram. The first artist to be added to the index was Marcos Peclevanos, one of the artists in this show. He's been followed by a growing international selection of artists, now including over 270 artists from 40 different countries around the world. On January 5th, the Techspressionism YouTube channel launched containing recordings of our salons, starting with salon number eight, and a new Techspressionist artist interview series initiated by artist Roz Dimon, whose work is included in this exhibition.
+And in October of 2020, the Techspressionist Visual Artist Index was established, which is a curated text that was published by the Texas Art Institute for the first time in the United States. It's a curated selection of artists primarily located through their use of the hashtag Techspressionism on Instagram. The first artist to be added to the index was Mark Pechlivanos, one of the artists in this show. He's been followed by a growing international selection of artists, now including over 270 artists from 40 different countries around the world. On January 5th, the Techspressionism YouTube channel launched containing recordings of our salons, starting with salon number eight, and a new Techspressionist artist interview series initiated by artist Roz Dimon, whose work is included in this exhibition.
 
 On February 1st, Techspressionism.com began a strategic partnership with German technology firm Kunstmatrix Technologies AG, which is the technology platform that this show is being hosted on today. On April 15th, Techspressionism CoLab, the first group exhibition of Techspressionism artworks opened during salon number 15. This ongoing project, initiated and curated by our moderator Davo, was inspired by the idea of notable collaborations like Warhol and Basquiat, as well as the collaborative spirit of the jazz tradition, which Basquiat also drew inspiration from. The project involves two artists passing a digital file back and forth to result in a collaborative piece. You can see the two different CoLab shows on the website at Techspressionism.com slash exhibitions. On February 1st, Techspressionism.com opened a new exhibition called The!
 
@@ -772,7 +772,7 @@ That process intrigues me. And I hear all of you saying that's exactly what a lo
 
 ## Davonte Bradley [01:38:19](https://www.youtube.com/watch?v=ADjcjvSQViE&t=5899s)
 
-Thank you. Absolutely. Thank you, Lee. And again, my apologies to our other Lee, because I forgot that we had two. So, sorry. All right. So, Alan Kennard. All right, Alan, you with us?
+Thank you. Absolutely. Thank you, Lee. And again, my apologies to our other Lee, because I forgot that we had two. So, sorry. All right. So, Alan Kinnard. All right, Alan, you with us?
 
 ## Alan Kinnard [01:38:46](https://www.youtube.com/watch?v=ADjcjvSQViE&t=5926s)
 
@@ -866,7 +866,7 @@ Thank you so much.
 
 ## Davonte Bradley [01:50:58](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6658s)
 
-All right, thank you, Nagin.
+All right, thank you, Negin.
 
 ## Colin Goldberg [01:51:00](https://www.youtube.com/watch?v=ADjcjvSQViE&t=6660s)
 

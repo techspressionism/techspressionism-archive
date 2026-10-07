@@ -289,7 +289,7 @@ But it was nice to see. Absolutely. And nice to see someone taking the time to c
 
 All right. So next up, we have Lily. So Lily, if you're here, can you hear me? Yes, no, maybe so. Lily, are you there? Are you talking about me? Yeah, are you going to present your art? Yeah, you can just do some presentation. Oh, okay. I didn't actually prepare. I didn't know I should be. I didn't know nobody ever told me. Oh, I'm sorry. I thought someone was going to tell me. I thought someone was going to tell me. Someone said that you wanted to present today. So my apologies for that point. Yeah.
 
-You know what? There was an artist, Lindsay Kakoposka. She had emailed me, but I don't think she's in the chat. But she came in. She was a Canadian artist that wanted to present today. She emailed me, but I don't think she's here. So we might be able to have some more time for Moritz. So see, so there's a little bit of miscommunication there. So my bad.
+You know what? There was an artist, Lindsay Kokoska. She had emailed me, but I don't think she's in the chat. But she came in. She was a Canadian artist that wanted to present today. She emailed me, but I don't think she's here. So we might be able to have some more time for Moritz. So see, so there's a little bit of miscommunication there. So my bad.
 
 Sorry for putting you on the spot, Lily. One quick question for Moritz. Yeah. Where in Germany are you based? You're muted, Moritz. You're muted. In Frankfurt, just in the center of Germany. So. Also beneficial when I try to visit my American friends from time by time. Actually, not in the pandemic, but before I was regularly flying over and because of the airport, very, very nice in that regard.
 

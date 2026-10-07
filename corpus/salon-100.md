@@ -212,9 +212,9 @@ And it's a great way of showing, mostly my video, long-form format in a singular
 
 Good afternoon. This is Patrick, and we're talking about the piece we did called The House on the Water. It expands on our Google Earth work about being a part to being together in an uncertain state. So, the next piece is, this… the body of work has to do with,. Pieces that were generated, a lot of the time, and some of them seen here as arriving in Uzbekistan, from… pieces relating to our, our lives together and apart. At this time, a lot of them created while we were spending time in Germany. Here's Lee Day, and. Ursula and Licker, I… you know, basically doing us a fantastic solid, putting the work up in Uzbekistan. Unfortunately, we weren't able to make it.
 
-So, once again, it's sort of a good metaphor about our, you know, being there or being not, or not. So, the work in itself, The House on the Water expands on this Googled Earth. Work that we did that had to do with, our having to be together in third spaces. Now that we're together. We have these bodies of work that were generated partially in our time in Germany now is… are being fulfilled in, in Winona, having to do with, a lot of them having to do with ideas of water. There's a metaphor in Persian culture talking about being in an uncertain state as we go forward through immigration and naturalization, that… you know, there's, living on a house on the water, almost like, being on a shifting sand. So we have 3 different, kind of movements within this particular piece, and… we'll get into that in a moment. One is a metaphor of the water goddess Anahita, which Nagin, first worked on, and a lot of this built from.
+So, once again, it's sort of a good metaphor about our, you know, being there or being not, or not. So, the work in itself, The House on the Water expands on this Googled Earth. Work that we did that had to do with, our having to be together in third spaces. Now that we're together. We have these bodies of work that were generated partially in our time in Germany now is… are being fulfilled in, in Winona, having to do with, a lot of them having to do with ideas of water. There's a metaphor in Persian culture talking about being in an uncertain state as we go forward through immigration and naturalization, that… you know, there's, living on a house on the water, almost like, being on a shifting sand. So we have 3 different, kind of movements within this particular piece, and… we'll get into that in a moment. One is a metaphor of the water goddess Anahita, which Negin, first worked on, and a lot of this built from.
 
-What's interesting about this is that the central piece… Can you give me the next slide? Is, actually an illustration of Nagin's that was brought into Meshi AI, and was turned into this amazing 3D, figure that was then brought into New Art City, and then we created, these images also from other, pieces that were created from other metaphors that we had. So this particular set of works had to do with, my having seen, Caspar Friedrich's, romantic work in Weimar, and, basically what, Goethe wanted to wanted him to do was basically create a skylight, but he didn't. So the thing is, is that I wanted to, look at my ideas of neoromanticism and expressionism in regards to climate change, AI, and this idea of the sublime.
+What's interesting about this is that the central piece… Can you give me the next slide? Is, actually an illustration of Negin's that was brought into Meshi AI, and was turned into this amazing 3D, figure that was then brought into New Art City, and then we created, these images also from other, pieces that were created from other metaphors that we had. So this particular set of works had to do with, my having seen, Caspar Friedrich's, romantic work in Weimar, and, basically what, Goethe wanted to wanted him to do was basically create a skylight, but he didn't. So the thing is, is that I wanted to, look at my ideas of neoromanticism and expressionism in regards to climate change, AI, and this idea of the sublime.
 
 So, there was a quick, transition there with, one of the AI generations of this house that we have on the water, that basically wound up going from the first movement into the second movement into this third set of images. Which combined, you know, this idea of the sky atlas along with the goddess, and then the, that looks over the house floating over the water. So the thing is, is that, this is almost like a second version, because the first version didn't come in. And, we're very grateful for the, TV media that was, shown with, our, the local coverage and also Lee Day. We're very grateful also to Sharin and everybody for helping put the work, together because it had to be, reprinted in Uzbekistan. And, and also, just, you know, so many thanks to everybody who, helped us put the… put the work, you know, together, and get it there, and get it up on the wall. And, you know, thanks for Cynthia for having us, and, in this particular, piece. And… that's our story, and we're staying with it, so thank you.
 
@@ -236,7 +236,7 @@ Okay. I think… That's covering all of our artists. Before we move on to the ne
 
 ## Roz Dimon [50:35](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3035s)
 
-Oh, wait, no, we have Stephen Perret. Oh, sorry! I knew someone was missing, and I'm…
+Oh, wait, no, we have Stephen Paré. Oh, sorry! I knew someone was missing, and I'm…
 
 ## Cynthia Beth Rubin [50:41](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=3041s)
 
@@ -334,7 +334,7 @@ All right, hello everybody, good morning, good afternoon, good evening. I'm just
 
 And these were compiled together by Michael Woodruff. Michael, I'm glad you talked a little bit about it in your presentation. And the resulting reel is a little less than 8 minutes.
 
-In the exhibition, this was the setup. There was a high-definition monitor mounted on the wall. The… small rectangles on the left side of the monitor. These were thumbnails and names of each of the artists showing in the… in the reel. For the exhibition, it was decided that it should be presented silently. Of course, the image artwork had no audio, and the 15-second video clips, the audio had a wide range, so it just made more sense to present it silently. And at the reception, there was a larger projection set up, also showing the digital reel. While it was presented silently in the exhibition, we thought that we're here on Zoom, it would be great to have music with it, and Stephen Perret composed the music for the full 8 minutes yesterday, in one day, so that is really impressive, and right now.
+In the exhibition, this was the setup. There was a high-definition monitor mounted on the wall. The… small rectangles on the left side of the monitor. These were thumbnails and names of each of the artists showing in the… in the reel. For the exhibition, it was decided that it should be presented silently. Of course, the image artwork had no audio, and the 15-second video clips, the audio had a wide range, so it just made more sense to present it silently. And at the reception, there was a larger projection set up, also showing the digital reel. While it was presented silently in the exhibition, we thought that we're here on Zoom, it would be great to have music with it, and Stephen Paré composed the music for the full 8 minutes yesterday, in one day, so that is really impressive, and right now.
 
 I'm gonna play it.
 
@@ -392,7 +392,7 @@ And… Okay, so… and it's really, to go back to what I said in the introductio
 
 So, Cynthia, since I've been talking, Cynthia DiDonato, do you want to give a plug for Tuesday co-working?
 
-## Allen Hirsh [01:14:18](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4458s)
+## Cynthia DiDonato [01:14:18](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=4458s)
 
 Absolutely. Every Tuesday, we gather together on Zoom, to… share our work after we've had about… approximately about an hour to work on whatever it is we need to work on. Some of us are creating new works, some of us are collaborating, some of us are doing whatever artists need to do. Sometimes a call for art comes up, and we share that call with one another, and we perhaps might ask for some input on our work. It's a very friendly group, and we welcome anyone who'd like to join us. There is a link on the Techspressionist site for co-working. If you just click on that link, you can register, and we'd be happy to have you join us.
 
@@ -576,7 +576,7 @@ Yeah, and Michael set up a spreadsheet so we could say who was going to be where
 
 Hmm.
 
-## Allen Hirsh [01:28:44](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=5324s)
+## Cynthia DiDonato [01:28:44](https://www.youtube.com/watch?v=XpQRmDG0f5s&t=5324s)
 
 I just wanted to add one more comment. I want to thank Steven for, you know, at short notice, adding his music to the video that Michael so beautifully put together. I thought the music was very complimentary to the video, Steven, and thank you very much.
 

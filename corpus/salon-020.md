@@ -625,7 +625,7 @@ I'm not sure. I'm not sure. I'm not sure. That's always nice.
 
 ## Davonte Bradley [01:29:10](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5350s)
 
-Right. Right. Right. You have a question from Nagin.
+Right. Right. Right. You have a question from Negin.
 
 ## Unattributed [01:29:18](https://www.youtube.com/watch?v=Hhm4t38sjUA&t=5358s)
 

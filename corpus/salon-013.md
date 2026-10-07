@@ -36,7 +36,7 @@ That is also the thing I forgot.
 
 Thanks, Davo. Yes, I thought it would be nice to, even though we do have a fairly nice representation of women and other countries in our Artist Index, I just thought it'd be nice to salute the International Women's Art History Month. And as a woman who is been working in this field for 38 years, I mean I started in 1984 when my own paintings filled up with pixels, I like to see, I like to salute those who have been in this industry and some of the young new people who I'm seeing on the Artist Index, which is what we focus on because after all this is the Techspressionism salon. So all the artists who are presenting today are in the Artist Index and we are going to be starting in March. So if you're interested in getting into the work, we're going to be starting with, it doesn't really matter who goes first depending on who wants to, but we are represented quite widely across the world by Negin Ehtesabian from Iran.
 
-Where's Nagin? Maybe just raise your hand so people see you. Do I see? Oh, there you are. I couldn't even see. There's Nagin. And also Nagin and I actually ended up, we did an early collaboration in the first series that Davonte is curating and we're looking forward to seeing that. Yay. And Diane Marsella is going to be speaking. She is located in, I think, Diane where are you? Maybe you can, in Nashville?
+Where's Negin? Maybe just raise your hand so people see you. Do I see? Oh, there you are. I couldn't even see. There's Negin. And also Negin and I actually ended up, we did an early collaboration in the first series that Davonte is curating and we're looking forward to seeing that. Yay. And Diane Marsella is going to be speaking. She is located in, I think, Diane where are you? Maybe you can, in Nashville?
 
 ## Diane Marsella [02:41](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=161s)
 
@@ -48,7 +48,7 @@ Great. And also Sue Beyer will be speaking today from Melbourne and we really ap
 
 You know, it's much more than wallpaper here. So it's really different personalities and I'm sure we'll be seeing that today. And with that, here's to women in technology. Oh, I want to say one more thing about that. Often in the past, women in technology have been, you know, lagged quite far behind when in terms of being recognized in fields, especially of art and science. Now that is changing a lot and I'm hoping that these doors that are opening right now for people and others who, wow, here's hats off to Beeple man. Wow. Incredible. But that it'll also open to people across the rainbow spectrum. Maybe this is a door that's going to open a lot more than than than just what we're seeing today. I mean, I think that's what we've seen, but maybe a new kind of reality for artists and even for new collectors to come into the scene that aren't just the two percent at the top.
 
-I mean, people don't realize this, but Alice Gee was one of the early filmmakers and no one even knows her name today. So, you know, we want to remember those who started it and who are continuing it. So with that said, here's to women and here's to the men too. Everybody, actually, but because of this month, we're celebrating women. And does anybody want to volunteer to start? Remember, don't get nervous. Just, you know, it's a fun space we have here where we do serious stuff. But, Nagin, could you maybe start or would you rather someone else start? You're because you're in Iran or either, Sue, I'm just thinking time wise and make sure you unmute.
+I mean, people don't realize this, but Alice Gee was one of the early filmmakers and no one even knows her name today. So, you know, we want to remember those who started it and who are continuing it. So with that said, here's to women and here's to the men too. Everybody, actually, but because of this month, we're celebrating women. And does anybody want to volunteer to start? Remember, don't get nervous. Just, you know, it's a fun space we have here where we do serious stuff. But, Negin, could you maybe start or would you rather someone else start? You're because you're in Iran or either, Sue, I'm just thinking time wise and make sure you unmute.
 
 ## Sue Beyer [05:23](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=323s)
 
@@ -176,7 +176,7 @@ All right. If anyone if there are no further questions, I think we can go right 
 
 ## Roz Dimon [24:54](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1494s)
 
-It's either going to be Diane Marsella. Diane, can you go next? And I think that Nagin, thank you. That was wonderful. Really. Thank you. Thank you so much. And you can stop your share. So that might be good. If you can share.
+It's either going to be Diane Marsella. Diane, can you go next? And I think that Negin, thank you. That was wonderful. Really. Thank you. Thank you so much. And you can stop your share. So that might be good. If you can share.
 
 ## Negin Ehtesabian [25:12](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1512s)
 
@@ -192,7 +192,7 @@ I'm ready. I have to tell you, though, I wish I had gone first because I don't t
 
 ## Unattributed [25:35](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1535s)
 
-Nagin's work.
+Negin's work.
 
 ## Diane Marsella [25:36](https://www.youtube.com/watch?v=b4hmMbnUuKE&t=1536s)
 

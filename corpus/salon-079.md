@@ -229,7 +229,7 @@ And this is a tree in the mountain that I go to, where there's a squirrel that I
 
 ## Renata Janiszewska [51:21](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=3081s)
 
-Thank you so much, Lee. That was a beautiful presentation. I really enjoyed all the variety of Types of work you've been doing. We're going to have a final presentation from another artist in the school of Rogue Panel. Cynthia, Beth Ruben.
+Thank you so much, Lee. That was a beautiful presentation. I really enjoyed all the variety of Types of work you've been doing. We're going to have a final presentation from another artist in the school of Rogue Panel. Cynthia Beth Rubin.
 
 ## Cynthia Beth Rubin [51:41](https://www.youtube.com/watch?v=AXCiQqjVHyA&t=3101s)
 

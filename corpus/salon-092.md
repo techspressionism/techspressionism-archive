@@ -101,7 +101,7 @@ Alright. Well, I didn't understand that, but apparently we have captioning enabl
 
 ## Systaime [21:20](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=1280s)
 
-Yeah, I fight through circuit on the digital throne. You know. I recycle my waste. Yeah, I'm in the business. I make dirt clean. Bro. Call me finesse. I smoke motherboards, put the chip in my life. I am Michael Boraz, also known as Systaime. Since the mid 1990s I have explored the digital realm, relentlessly questioning our hyper-connected society and its absurdities. My artistic journey, positioned at the intersection of art and technology, has led me to experiment with diverse media and techniques as technology evolves.
+Yeah, I fight through circuit on the digital throne. You know. I recycle my waste. Yeah, I'm in the business. I make dirt clean. Bro. Call me finesse. I smoke motherboards, put the chip in my life. I am Michael Borras, also known as Systaime. Since the mid 1990s I have explored the digital realm, relentlessly questioning our hyper-connected society and its absurdities. My artistic journey, positioned at the intersection of art and technology, has led me to experiment with diverse media and techniques as technology evolves.
 
 Early in my career I played a key role in the French trash touch, a movement marked by a raw, provocative aesthetic that sought to deconstruct established codes. This period embraced a Diy approach, where mashups, collages, and sampling repurposed visual and sound fragments from the web and obsolete objects challenging our relationship with media and technology. With the rise of generative AI, a new era of digital art emerged. AI, now accessible without extensive technical know-how offers unprecedented creative possibilities. For me. AI is an additional tool in my palette. It automates, tasks, generates endless variations, and helps explore new forms. Yet artistic intent remains paramount.
 
@@ -397,7 +397,7 @@ I'm going down into the cave, and I don't know if there's gonna be a monster dow
 
 Romante.
 
-## Allen Hirsh [01:15:23](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4523s)
+## Cynthia DiDonato [01:15:23](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4523s)
 
 All right.
 
@@ -441,7 +441,7 @@ And there are lots of lessons like this in art history. Domier comes to mind imm
 
 Alright. Do we have any other questions from the audience, or Cynthia?
 
-## Allen Hirsh [01:21:45](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4905s)
+## Cynthia DiDonato [01:21:45](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=4905s)
 
 1st of all, let me say it's been a wonderful salon. The concept of breaking AI has come through with each of the presenters, and the breaking suggested to me experimentation, trying to make it the artist's own work rather than what the AI might necessarily produce. And I'm hearing that from the artists that are presenting. But I do have a question for sustain. In your presentation you mentioned that AI involves collage.
 
@@ -455,7 +455,7 @@ Proge du collage.
 
 In a strange way that might explain the make the shadow man that showed up in Collins illustration.
 
-## Allen Hirsh [01:24:09](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5049s)
+## Cynthia DiDonato [01:24:09](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5049s)
 
 Yeah, but Colin didn't put the man there. If I understand.
 
@@ -463,7 +463,7 @@ Yeah, but Colin didn't put the man there. If I understand.
 
 We didn't.
 
-## Allen Hirsh [01:24:13](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5053s)
+## Cynthia DiDonato [01:24:13](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5053s)
 
 The stain.
 
@@ -471,7 +471,7 @@ The stain.
 
 He didn't. Consciously. He didn't consciously put the man there. But maybe AI is to the point where it can read between the lines, so to speak, of what Colin is really thinking about.
 
-## Allen Hirsh [01:24:26](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5066s)
+## Cynthia DiDonato [01:24:26](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5066s)
 
 True, however, I think, sustain mentioned that he cuts out if I and he can correct me, he cuts out elements or shapes that he likes and then marries them to another landscape, if you will, or view, or with other characters. And so that collage technique is, I think, very interesting to me, and very powerful.
 
@@ -517,7 +517,7 @@ Mercy!
 
 ## Colin Goldberg [01:31:19](https://www.youtube.com/watch?v=bdzAVjhHPaw&t=5479s)
 
-Yeah, awesome. I hope you return. And I hope this opens the door to many more non English, speaking non primarily English, speaking people. Cause, you know, we embrace diversity around here. Just a quick note about the next salon. It's going to be. The April salon is going to be on April 3rd Thursday, as always, from noon to 1 30, and it's going to be a hybrid salon coming from the Cape Cod Museum of Art. And that's a collaboration with the Museum and the director, Benton Jones, who recently, you know, host. They hosted an exhibition of 2 Techspressionist artists work Renata, Yanashewska, and Karen LaFleur. So this next salon is going to be taking place as a hybrid event at the Museum, and here on Zoom, and it's going to be basically talking a little bit about Renata and Karen's show.
+Yeah, awesome. I hope you return. And I hope this opens the door to many more non English, speaking non primarily English, speaking people. Cause, you know, we embrace diversity around here. Just a quick note about the next salon. It's going to be. The April salon is going to be on April 3rd Thursday, as always, from noon to 1 30, and it's going to be a hybrid salon coming from the Cape Cod Museum of Art. And that's a collaboration with the Museum and the director, Benton Jones, who recently, you know, host. They hosted an exhibition of 2 Techspressionist artists work Renata Janiszewska, and Karen LaFleur. So this next salon is going to be taking place as a hybrid event at the Museum, and here on Zoom, and it's going to be basically talking a little bit about Renata and Karen's show.
 
 But also I'm going to speak a little bit about the history of Techspressionism for the live audience of the Museum, and Tommy Mintz, who curated the show in Brooklyn, who's also curating a show that's going to be opening in Chelsea, in Manhattan. Right around the same time. It's going to be the following salon. Actually, the June salon will be in New York. He's going to be coming on and talking a little bit about these exhibitions. So it should be a really good
 

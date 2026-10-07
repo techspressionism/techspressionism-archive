@@ -635,7 +635,7 @@ Tell her I'll trade her one of her good monitors for this one if she wants it fo
 
 ## Roz Dimon [01:08:21](https://www.youtube.com/watch?v=fFUTukSn4gw&t=4101s)
 
-This is for Sherry Carter. I love it. That was it. I'll play it one more time. It's so short. But at the end I'm saying this is for Sherry Carter. I was thinking of Tommy Mintz too. And anyway, it just was kind of a funny thing. Oh, let's go back. Oh, don't I even know how to go back? Yes. Here we go.
+This is for Sherry Karver. I love it. That was it. I'll play it one more time. It's so short. But at the end I'm saying this is for Sherry Karver. I was thinking of Tommy Mintz too. And anyway, it just was kind of a funny thing. Oh, let's go back. Oh, don't I even know how to go back? Yes. Here we go.
 
 There you go. End of commercial break. That's awesome, Roz. Sherry, I hope you liked that. Thank you. And Tommy, thank you. There you go.
 
@@ -983,7 +983,7 @@ Oh. So we are actually right at. 3 58 PM. So we're right here at the, the end of
 
 Oh, I wanted to say one quick thing also Davo before. Yeah. Close is that. So next salon. I know that we had one person scheduled and then there was another person that wants to present or wanted to present as a heart. You'd been scheduled to present at the next salon. But the next salon. We're actually going to be doing the online opening for the. The, the, the group exhibition text fashion is in 2021, which was, you know, kind of. The, the seed of a lot of this stuff. We've been around that long when the call for entry went out through. Call for entry.org over well over a year ago.
 
-There was like, you know, 1200 pieces submitted. Through that. And that was a lot of the basis for people. You know, starting to use the hashtag and getting the word out through this open call. And anyway, the, the show, which is Pat. Patrick. Licky and I are Coke have been co-curating is basically. You know, You know, That's how we've been able to get back into the online space and really pretty much, you know, It is now the artist list is online on the site under exhibitions and it's going to open up at the next salon, which will be two weeks from today.
+There was like, you know, 1200 pieces submitted. Through that. And that was a lot of the basis for people. You know, starting to use the hashtag and getting the word out through this open call. And anyway, the, the show, which is Pat. Patrick Lichty and I are Coke have been co-curating is basically. You know, You know, That's how we've been able to get back into the online space and really pretty much, you know, It is now the artist list is online on the site under exhibitions and it's going to open up at the next salon, which will be two weeks from today.
 
 And we're still trying to get your son to work that out with Davos for us. How we're going to show that many pieces in an online opening but it's going to be interesting there's artists from 26 countries represented in the exhibition and you know it'll be our first real sort of survey of artists using technology as a means of emotional you know expression of emotional content so I think that's exciting and then we will resume the sort of artist presentation format in the first salon in november and I believe we have two artists booked for that already sahar and then an artist I know she goes by sky water I'm
 

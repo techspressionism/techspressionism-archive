@@ -118,7 +118,7 @@ Expected to die
 
 ## Susan Detroy [12:55](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=775s)
 
-Except for the pet. But I did a number of those, and the piece that you see on the right. Some of you will recognize Cynthia. Beth Ruben actually helps me. Get some high resolution piece, and that I just finished yesterday for one of the people that was for one of the supporters, and she's totally Loves it. And so we're gonna look at that. And so that brings us up to now, and I think that's the end of my presentation. Okay.
+Except for the pet. But I did a number of those, and the piece that you see on the right. Some of you will recognize Cynthia Beth Rubin actually helps me. Get some high resolution piece, and that I just finished yesterday for one of the people that was for one of the supporters, and she's totally Loves it. And so we're gonna look at that. And so that brings us up to now, and I think that's the end of my presentation. Okay.
 
 ## Roz Dimon [13:35](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=815s)
 
@@ -204,7 +204,7 @@ And in just 5 weeks, some of them I just checked. They're down 75% and others ar
 
 Which is cool. It's great to see writing be appreciated in that way. It doesn't mean that you're going to just kind of write articles and sell it for that much you need to market it and have interesting content. But people are working through. How do you build new publishing ways in Web 3, so that can be books. So Tashin put out a book on nfts which created a big buzz. They were working that for about 2 years. It's a hardcover book. It's 850, I think, for a copy. And then there's certain artist versions that are $4,000 per book. So that's kind of how a larger publisher is sort of approaching the space individuals are creating Zines or creating Pdfs and just kind of selling them on a variety of different platforms. And there's just platforms that need to be built.
 
-So if anyone has a passion for publishing or whatever there's like big opportunities. In most of sort of the industries. Other things people are doing are working with the physical. So how do you kind of maybe sell a digital version. And do you sell a physical work? Along with that? We brought a work the other day from an artist called Hugh Messi, who works with stitch, like automated stitching, and then combining those Stitches into like a video. And that artist is sending along one of these like automated stitched frames from that animation to collectors of that work.
+So if anyone has a passion for publishing or whatever there's like big opportunities. In most of sort of the industries. Other things people are doing are working with the physical. So how do you kind of maybe sell a digital version. And do you sell a physical work? Along with that? We brought a work the other day from an artist called Huw Messie, who works with stitch, like automated stitching, and then combining those Stitches into like a video. And that artist is sending along one of these like automated stitched frames from that animation to collectors of that work.
 
 There was another artist, Anna Lucia and Phoebe Hess, that combined for creating a scarf. So you go onto the platform. You feed in audio content. It converts that audio content into a graphical design that's output onto a scarf. So you're creating individual kind of generative fashion. So fashion is, and physical's are kind of an interesting area to explore. There's also the concept of like prams and how? Who is kind of the Creator. So the artist can maybe create code that creates imagery, and then the collector can go in and tweak that to get an output that they're interested in. So if you're looking at, something's gonna hang on your wall, and you really want to get in there and like dial it into just what you're looking for, those kinds of concepts of artists and collector coming together to create work. And how that kind of plays back and forth.
 
@@ -404,7 +404,7 @@ You know, it's something that happens through conscious choice and effort. And I
 
 Thank you, Colin. Cynthia, you have to give your hand up.
 
-## Allen Hirsh [01:18:37](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=4717s)
+## Cynthia DiDonato [01:18:37](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=4717s)
 
 Yes, following Colin's remarks and Renaita's remarks, which certainly get at the issues about artists. I think. Unfortunately, many artists are not respected regarding the value of their work. And I think this starts with education. Schools do not all have art programs, nor do they want to support them. Or do they understand that the creative is embedded in art and then can open up into other areas of life that are so important that to create is a human skill that can transform the world, and unfortunately, on schools do not do enough worldwide.
 
@@ -438,7 +438,7 @@ Then artists could survive and maybe someday we'll get there. I'm not seeing it.
 
 ## Renata Janiszewska [01:24:35](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5075s)
 
-Thank you very much. We have Cynthia, Beth Reuben next, and then Ross has her hand up after Cynthia.
+Thank you very much. We have Cynthia Beth Rubin next, and then Ross has her hand up after Cynthia.
 
 ## Cynthia Beth Rubin [01:24:42](https://www.youtube.com/watch?v=EoF3pT-iZSg&t=5082s)
 

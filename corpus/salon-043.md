@@ -35,7 +35,7 @@ At the same time we have Madonna and people have teamed up to make a pretty amaz
 
 I'm not going to be saying too much in between because we got to get going here. But I might just say a comment, and then go on to the next and we'll hold questions to the end of course feel free to check to be in the chat room but I think that's the fair way to proceed. So, first we have. So, first we have. Anne Spalter.
 
-Thank you Nina Sobell. Great to see you Cynthia Beth Rubin. Alright, Vernetta Lights. Karen LaFleur. Renata Janiszewska. Darcy Garbage. Najeen Estasabian. Najeen. I know that Giovanna alias Doug woman Giovanna son. It was beautiful piece we have to at least acknowledge that has been a great piece to lead this with. Thank you so much. And Cynthia D Donato.
+Thank you Nina Sobell. Great to see you Cynthia Beth Rubin. Alright, Verneda Lights. Karen LaFleur. Renata Janiszewska. Darcy Gerbarg. Negin Ehtesabian. Negin. I know that Giovanna alias Doug woman Giovanna son. It was beautiful piece we have to at least acknowledge that has been a great piece to lead this with. Thank you so much. And Cynthia D Donato.
 
 Great. That's great. We had to have a few people. We started with you had to unfortunately drop out but we're just so excited about this so without further ado, let's start with and Spalding. And then we have Walter who's going to share her screen. Thank you so much.
 
@@ -335,11 +335,11 @@ Again, I wanna say thank you to Roz for creating this event. And if you have any
 
 ## Roz Dimon [59:47](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3587s)
 
-Thank you so much, Renata. I really appreciated your emphasis on process. Gets into the whole means to the end and I think that's somehow also equated with the feminine. Thank you. Darcy Garbage. Oh, did you?
+Thank you so much, Renata. I really appreciated your emphasis on process. Gets into the whole means to the end and I think that's somehow also equated with the feminine. Thank you. Darcy Gerbarg. Oh, did you?
 
 ## Darcy Gerbarg [01:00:08](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3608s)
 
-Hi Roz, it's actually Darcy Garbag.
+Hi Roz, it's actually Darcy Gerbarg.
 
 ## Roz Dimon [01:00:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3610s)
 
@@ -355,7 +355,7 @@ Sorry about that.
 
 ## Darcy Gerbarg [01:00:43](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3643s)
 
-I'm Darcy Garbag, an artist who straddles two... I don't think you're seeing this. Let me try this again. Yes, but it's not working.
+I'm Darcy Gerbarg, an artist who straddles two... I don't think you're seeing this. Let me try this again. Yes, but it's not working.
 
 ## Unattributed [01:01:08](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3668s)
 
@@ -429,7 +429,7 @@ Thank you. I'm showing paintings on canvas with AR enhancements.
 
 Thank you. Thank you so much. Yes, we can do. Even though most of you are muted. It's fine to clap. These have been really wonderful. It's interesting that women were actually called computers in the early days of NASA. All the people in the back room were women and they were called computers. To see what women are really doing right now is pretty awesome.
 
-Nagin, coming to us from, where are you, Nagin? Are you in Saudi Arabia? Hi. Iran. Iran's too.
+Negin, coming to us from, where are you, Negin? Are you in Saudi Arabia? Hi. Iran. Iran's too.
 
 ## Karen LaFleur [01:06:15](https://www.youtube.com/watch?v=KyBLFghq4N0&t=3975s)
 
@@ -707,7 +707,7 @@ Okay, I'll add you to the chat if you'd like.
 
 ## Patrick Lichty [01:40:52](https://www.youtube.com/watch?v=KyBLFghq4N0&t=6052s)
 
-I have an exhibition announcement. Is that, and Cynthia and Nagin are on the jury of Edmond. I'm just about to put out the final choice for the International Digital Media and Artists. So if you want to send me the link, I'll send you the link. But yeah, so we've got about, we've got about 13 or 14 expressionists, Techspressionists in the show. So we've got a very large representation show. We've got about, and actually the thing is, there's only about 19 or 20 physical artists. And so, Techspressionism is a sizable group. It's a sizable number.
+I have an exhibition announcement. Is that, and Cynthia and Negin are on the jury of Edmond. I'm just about to put out the final choice for the International Digital Media and Artists. So if you want to send me the link, I'll send you the link. But yeah, so we've got about, we've got about 13 or 14 expressionists, Techspressionists in the show. So we've got a very large representation show. We've got about, and actually the thing is, there's only about 19 or 20 physical artists. And so, Techspressionism is a sizable group. It's a sizable number.
 
 And we've got a ton of our video work and that sort of thing. So I want to thank everybody who put work in the mix. So in other words, there's more stuff coming.
 

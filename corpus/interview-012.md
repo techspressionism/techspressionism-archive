@@ -563,7 +563,7 @@ Virtual reality, which is, you know, running through another wave of popularity 
 
 ## Patrick Lichty [29:33](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1773s)
 
-Yeah, exactly. And then you have some interesting people like Brenda Laurel and then Nicole Stinger and Marcus Novak. And, you know, it's like, you know, these are, yeah, I think these are people we should. Margaret Jelinski. Well, you know, you know something? She is, she's our next interview too.
+Yeah, exactly. And then you have some interesting people like Brenda Laurel and then Nicole Stinger and Marcus Novak. And, you know, it's like, you know, these are, yeah, I think these are people we should. Margaret Dolinsky. Well, you know, you know something? She is, she's our next interview too.
 
 ## Gregory Little [29:56](https://www.youtube.com/watch?v=m6ca8UoF49M&t=1796s)
 

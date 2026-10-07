@@ -45,7 +45,7 @@ Expressionists presented the world from a subjective perspective, distorting it 
 
 Techspressionism Digital and Beyond included the works of over 90 artists working with technology from more than 20 countries around the world, including Afghanistan, Australia, Belgium, Brazil, Canada, the Canary Islands, the Czech Republic, France, Germany, Hong Kong, India, Iran, Italy, Netherlands, Peru, Puerto Rico, Russia, Taiwan, Turkey, Uganda, Ukraine, and the United States.
 
-Notable contemporary artists featured in the exhibition, as defined by Wikipedia, included Victor Acevedo, Suzanne Anker, Frank Gillette, Clive Holden, Patrick Lichty, Chalda Maloff, Paul D. Miller, aka DJ Spooky, Steve Miller, Joseph Neckfatal, Michael Rees, Christine Schooley, Nina Sobell, Anne Spalter, and Nina Yankovic.
+Notable contemporary artists featured in the exhibition, as defined by Wikipedia, included Victor Acevedo, Suzanne Anker, Frank Gillette, Clive Holden, Patrick Lichty, Chalda Maloff, Paul D. Miller, aka DJ Spooky, Steve Miller, Joseph Nechvatal, Michael Rees, Christine Schooley, Nina Sobell, Anne Spalter, and Nina Yankowitz.
 
 I'm going to close this monologue by saying thank you to all of you who participated in this event. I hope you enjoyed it. I'm going to end this monologue, hopefully it wasn't too long, with a short drone fly-through video of the exhibition shot by my friend Joanna Steidle, who's a drone artist and fellow Techspressionist.
 
@@ -99,7 +99,7 @@ But they present themselves as an object we may be used to in terms of art histo
 
 Yeah. That's really great. We know that working with digital media is very important. It's very important to think about what we're seeing in art in terms of how we would sound as important as this work. It's very important to think about what we're seeing in art in terms of how we would sound as this work. It's very important to think about what we know as art and what we would sound as if we were working on this new issue of art. It's very important to think about what we know as art and what we would sound as if we were working on this new issue of art.
 
-Technologies as a tool. I'm using a few screenshots from the virtual tour of the Expressionism show here and one thing I also would like to highlight is that we're seeing so different media. So in the center here we have Michael Reeve's augmented reality work relating to sculptural work and then we have many many different forms of print screen-based work etc.
+Technologies as a tool. I'm using a few screenshots from the virtual tour of the Expressionism show here and one thing I also would like to highlight is that we're seeing so different media. So in the center here we have Michael Rees's augmented reality work relating to sculptural work and then we have many many different forms of print screen-based work etc.
 
 Here and I think that work does not always necessarily make a statement about the digital medium. It goes beyond it. So one of my questions as a curator would be where do we draw the lines here because medium specificity is so important to me as a curator in making crucial distinctions between works. I am all for building art historical connections and I think it is very important to see abstract digital work in the context of Expressionism.
 
@@ -117,7 +117,7 @@ Awesome well, thank you so much for the slides and the discussion so far, so tha
 
 Should there be boundaries? Is there a some way of determining how much subject subjectivity is injected into the ultimate image or the ultimate work of art whether or not the technology is contributing to that. I mean you could think of certain well like for example in your exhibition Colin you had printmakers.
 
-Printmaking is a technology it's not a digital technology but it could be but the kind of technology that was I guess primarily the foregrounded in the show was digital technology and some of it animated as well. In fact in your fly-through you showed Nina Jankowicz's two-panel animation and you could only do that digitally. That there's no other way but could she have achieved the same kind of image result using a different technology? That's also another question is this technologically specific or can it be translated into other media?
+Printmaking is a technology it's not a digital technology but it could be but the kind of technology that was I guess primarily the foregrounded in the show was digital technology and some of it animated as well. In fact in your fly-through you showed Nina Yankowitz's two-panel animation and you could only do that digitally. That there's no other way but could she have achieved the same kind of image result using a different technology? That's also another question is this technologically specific or can it be translated into other media?
 
 Yeah I think you raise a little
 

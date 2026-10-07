@@ -28,7 +28,7 @@ So that gave rise to this project. And this is our second one. The first one was
 
 So we have in this particular collaboration, there are seven pairings. You would think that also would mean there's 14 artists, but no, there's actually 13 artists. And because there was a little bit of, well, things happened as they do sometimes. And one pairing ended up getting paired off with two people, which there was nothing wrong with that. I thought that was actually pretty interesting to see what kind of work this same artist did with two other artists. So we'll get into that.
 
-But yeah. And with that, I think I can go ahead and start going into the exhibition, which is done virtually using a platform called Kunstmatrix. Which we have a digital partnership. And the name of this titled by Brandon Gallus is A Calling For Utopia. Who also he's the one that's responsible for, you know, actually how the exhibition itself looks. And he also did the write-up. So I'm going to give him his credit where credit is due, even though he doesn't feel like he's done a whole lot. So I'm putting you on the spot, Brandon. Take that praise.
+But yeah. And with that, I think I can go ahead and start going into the exhibition, which is done virtually using a platform called Kunstmatrix. Which we have a digital partnership. And the name of this titled by Brandon Gellis is A Calling For Utopia. Who also he's the one that's responsible for, you know, actually how the exhibition itself looks. And he also did the write-up. So I'm going to give him his credit where credit is due, even though he doesn't feel like he's done a whole lot. So I'm putting you on the spot, Brandon. Take that praise.
 
 All right, let's go ahead and enter the exhibition. So first off, we'll see kind of an overview of the room here. I might be able to make this full screen.
 
@@ -38,7 +38,7 @@ Ah, yes, all right, cool. All right, and
 
 ## Davonte Bradley [04:28](https://www.youtube.com/watch?v=cYU7eKBcCto&t=268s)
 
-We have our seven pairings here. A few of these are not, well, not a few, but there are actually members of, or one artist here who at least did a, was part of the project from the first time, and that's Nagin. But this is all seven of our groups, our pairings, and the write-up, which I'm not sure if you guys want me to read from it, but I'll go ahead and narrate this. The Calling for Utopia.
+We have our seven pairings here. A few of these are not, well, not a few, but there are actually members of, or one artist here who at least did a, was part of the project from the first time, and that's Negin. But this is all seven of our groups, our pairings, and the write-up, which I'm not sure if you guys want me to read from it, but I'll go ahead and narrate this. The Calling for Utopia.
 
 There seems to always be so much duress in the world. To cope, heal, and respond, artists often seek to create romantic notions of reality, fantasies, and wishes of utopia. The ability for artists to speak to others across physical and virtual spaces encourages new opportunities for dynamic and meaningful collaborations and explorations. The artwork presented in this exhibition serendipitously comes together as a series of idealized realities. Our Techspressionist artists harness mixed media and digital art to address concerns of ecology and conservation. Others have developed rich photographic compilations, considering real-time, virtual, and digital. Re-envisioned worlds, and some explore the coexistence of the digital and natural worlds. We are presenting work that questions social, political, and cultural norms through international, collaborative, and hopeful eyes.
 
@@ -740,11 +740,11 @@ You all
 
 ## Davonte Bradley [01:06:12](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3972s)
 
-Right our next up we havebes we have going to havearazally we have negeen and brandon's I believe yes yep yes like
+Right our next up we havebes we have going to havearazally we have Negin and brandon's I believe yes yep yes like
 
 ## Brandon S Gellis [01:06:23](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3983s)
 
-That up we have negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original parallel or horizontally may I share my screen for a moment and share the original composition and
+That up we have Negin and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original parallel or horizontally may I share my screen for a moment and share the original composition and
 
 ## Unattributed [01:06:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3994s)
 
@@ -752,7 +752,7 @@ Then
 
 ## Brandon S Gellis [01:06:34](https://www.youtube.com/watch?v=cYU7eKBcCto&t=3994s)
 
-We can talk about that yeah and then later on I'll update it on the website yeah thank you me and negeen and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original composition and then we can talk about that yeah and then later on I'll update it on the website yeah thank you And Nagin, do you want to jump in first and talk?
+We can talk about that yeah and then later on I'll update it on the website yeah thank you me and Negin and brandon's I believe yes yep yes if I if I may I made a mistake when placing these parallel or horizontally may I share my screen for a moment and share the original composition and then we can talk about that yeah and then later on I'll update it on the website yeah thank you And Negin, do you want to jump in first and talk?
 
 ## Negin Ehtesabian [01:06:47](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4007s)
 
@@ -764,7 +764,7 @@ Oh, okay.
 
 ## Brandon S Gellis [01:06:50](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4010s)
 
-Well, so Nagin and I, I have to be honest, like this was really great, Davo, that you set this up. This is, Nagin and I have formed a really, really beautiful friendship and collaboration, and we're already, we've been talking since working on this about next stage collaborations and also bringing in Nagin's partner into that as well. And so that's been really fantastic.
+Well, so Negin and I, I have to be honest, like this was really great, Davo, that you set this up. This is, Negin and I have formed a really, really beautiful friendship and collaboration, and we're already, we've been talking since working on this about next stage collaborations and also bringing in Negin's partner into that as well. And so that's been really fantastic.
 
 So we designed these as when you put them together in the frame that they would make virtually a perfect square. And so there are four pieces. They're extremely, can everyone see what's on my screen?
 
@@ -774,11 +774,11 @@ Thank you.
 
 ## Brandon S Gellis [01:07:30](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4050s)
 
-They're extremely inorganic in their posturing, but very organic in their composition and their thinking. And so we started talking about just general idea of conservation and species that are being harmed by people. And it came together from a series of conversations we had about different topics of interest to us and things we care about in our own countries. And I'm in Wyoming in the U.S. And Nagin currently, if I'm correct, Nagin is in Tehran in Iran, formerly in the U.S. And I'm in the UAE.
+They're extremely inorganic in their posturing, but very organic in their composition and their thinking. And so we started talking about just general idea of conservation and species that are being harmed by people. And it came together from a series of conversations we had about different topics of interest to us and things we care about in our own countries. And I'm in Wyoming in the U.S. And Negin currently, if I'm correct, Negin is in Tehran in Iran, formerly in the U.S. And I'm in the UAE.
 
-And I started talking about my concerns about animal life in our oceans and in our river systems. I'm married to an ecology-based scientist. And I've been doing a lot of work around the use of plastics in the natural landscape and how it's affecting different species. So that's really where I started from. And so I made the very top one to start. And then, Nagin augmented that one significantly. And then she made the second one. And I augmented that.
+And I started talking about my concerns about animal life in our oceans and in our river systems. I'm married to an ecology-based scientist. And I've been doing a lot of work around the use of plastics in the natural landscape and how it's affecting different species. So that's really where I started from. And so I made the very top one to start. And then, Negin augmented that one significantly. And then she made the second one. And I augmented that.
 
-And then I think I made the third one. And then she augmented that, if that's correct. I'm having trouble remembering. And Nagin made the fourth one. Yeah, go ahead.
+And then I think I made the third one. And then she augmented that, if that's correct. I'm having trouble remembering. And Negin made the fourth one. Yeah, go ahead.
 
 ## Negin Ehtesabian [01:08:57](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4137s)
 
@@ -786,7 +786,7 @@ I think we made one half work done. Yes. And we sweep the work. And then we fini
 
 ## Brandon S Gellis [01:09:07](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4147s)
 
-Thank you. Yes. So we each created one. We each then augmented another. Yes. So that's four pieces. So I'm going to stop talking for now. And I'll let Nagin jump in about this.
+Thank you. Yes. So we each created one. We each then augmented another. Yes. So that's four pieces. So I'm going to stop talking for now. And I'll let Negin jump in about this.
 
 ## Negin Ehtesabian [01:09:21](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4161s)
 
@@ -796,7 +796,7 @@ And the cause of that has not yet been announced. So they think maybe it is him.
 
 ## Brandon S Gellis [01:10:33](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4233s)
 
-And if I remember correctly, Nagin, you sent me a lot of the information from the media about the flamingos. And part of it was that they were migrating through and then they were poisoned ultimately, inadvertently but recklessly. Yes.
+And if I remember correctly, Negin, you sent me a lot of the information from the media about the flamingos. And part of it was that they were migrating through and then they were poisoned ultimately, inadvertently but recklessly. Yes.
 
 ## Negin Ehtesabian [01:10:50](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4250s)
 
@@ -824,7 +824,7 @@ It is fine. And going forward, if you are actually interested in participating i
 
 So if you feel like you have to break it up or break it down to make it work, you might not actually have to do that. Just keep it all in one and we'll try to work something out. Like with C and Michael's, this was a triptych and I wasn't exactly sure how it was going to work because I wasn't sure how thick the borders were going to be for the frame.
 
-And just the grid structure that the platform has, I wasn't sure, but ended up working out, I think, fairly well. And yeah, just a little going forward. Does anybody have any questions for Brandon or Nagin? Scrolling through the chat and I don't think there's a lot of praise as usual. There's definitely a lot of praise in the chat.
+And just the grid structure that the platform has, I wasn't sure, but ended up working out, I think, fairly well. And yeah, just a little going forward. Does anybody have any questions for Brandon or Negin? Scrolling through the chat and I don't think there's a lot of praise as usual. There's definitely a lot of praise in the chat.
 
 Poetic work. Gives a scroll painting feeling. The aesthetic is very cohesive. It has a lot of synergy. It's very It has a calligraphic feeling. A narrative that flows. And under the sea, unnatural, but beautiful and scary. Yeah. Yeah. And I guess you wouldn't be able to get like the full breadth of the experience looking at them side to side like this.
 
@@ -832,7 +832,7 @@ But this version will not be the final version. So just keep that in mind if you
 
 ## Michael Pierre Price [01:16:08](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4568s)
 
-I appreciate that a heavy subject can be dealt with in a beautiful artistic manner. I don't think they need to be oppositional to one another. So I appreciate the success of this approach of this collaboration. So thanks to Brennan and Nagin for this. I think these would be perfect for any number of environmental organizations to utilize because these are stunning. So thank
+I appreciate that a heavy subject can be dealt with in a beautiful artistic manner. I don't think they need to be oppositional to one another. So I appreciate the success of this approach of this collaboration. So thanks to Brennan and Negin for this. I think these would be perfect for any number of environmental organizations to utilize because these are stunning. So thank
 
 ## Unattributed [01:16:51](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4611s)
 
@@ -840,11 +840,11 @@ You.
 
 ## Davonte Bradley [01:17:03](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4623s)
 
-With what we have, I'm trying to give like a closer look of what's actually in these because there's little details that you wouldn't be able to necessarily get. But there's, I think this text, right? Nagin? Are those words? Yes.
+With what we have, I'm trying to give like a closer look of what's actually in these because there's little details that you wouldn't be able to necessarily get. But there's, I think this text, right? Negin? Are those words? Yes.
 
 ## Brandon S Gellis [01:17:20](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4640s)
 
-Okay, so those are words. Oh, Nagin, you're muted.
+Okay, so those are words. Oh, Negin, you're muted.
 
 ## Negin Ehtesabian [01:17:27](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4647s)
 
@@ -884,7 +884,7 @@ I apologize.
 
 ## Brandon S Gellis [01:18:44](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4724s)
 
-I might actually have to reload it. I apologize. I have to leave to go to class. But thank you, everyone. And thank you very much, Davo and Nagin and Colin.
+I might actually have to reload it. I apologize. I have to leave to go to class. But thank you, everyone. And thank you very much, Davo and Negin and Colin.
 
 ## Negin Ehtesabian [01:18:50](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4730s)
 
@@ -912,7 +912,7 @@ Yes.
 
 ## Davonte Bradley [01:19:11](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4751s)
 
-All right. That's all I wanted to get a closer look at. Sorry for spending extra time with that. But thank you very much, Nagin. And I was also going to thank Brandon, but he had to bounce.
+All right. That's all I wanted to get a closer look at. Sorry for spending extra time with that. But thank you very much, Negin. And I was also going to thank Brandon, but he had to bounce.
 
 ## Unattributed [01:19:22](https://www.youtube.com/watch?v=cYU7eKBcCto&t=4762s)
 

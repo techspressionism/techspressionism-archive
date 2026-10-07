@@ -133,7 +133,7 @@ You can create that, and whenever you're singing, it's music reactive. To the vi
 
 And it's… We're only gonna hit 1,000 people there, so it's gonna… The fun and the future of OIC design is a conference that I'm hosting where we invite industry design folks to join us and talk about the intersection of AI design and culture. And that's it.
 
-Dang. So, our next speaker… I love… you know, we're just going to order about 7 minutes. You chose this destiny? Tasneem Bashir is a game designer, educator, and visual artist that is dedicated to creating upbeat, interactive experiences. Gameplay and representative stories. She explores the intersections of play, education, and exuberance through a femme, South Asian, and Muslim lens. She is currently a professor of game design at CCNY, and actively develops games as part of her studio, Pineapple Staircase. Please welcome.
+Dang. So, our next speaker… I love… you know, we're just going to order about 7 minutes. You chose this destiny? Tassneen Bashir is a game designer, educator, and visual artist that is dedicated to creating upbeat, interactive experiences. Gameplay and representative stories. She explores the intersections of play, education, and exuberance through a femme, South Asian, and Muslim lens. She is currently a professor of game design at CCNY, and actively develops games as part of her studio, Pineapple Staircase. Please welcome.
 
 Yeah. So, absolutely.
 

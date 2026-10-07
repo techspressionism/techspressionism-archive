@@ -258,7 +258,7 @@ Yeah.
 
 ## Roz Dimon [16:54](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1014s)
 
-But I think other people do, too. Nagain has a question. She can go first. Do you want to talk first, Nagin? Oh, I don't know. Looked like she had a question, maybe not. You know, the large tile-looking piece that… I can't remember the name of it, where it went around the corner, and you were standing in front of it?
+But I think other people do, too. Nagain has a question. She can go first. Do you want to talk first, Negin? Oh, I don't know. Looked like she had a question, maybe not. You know, the large tile-looking piece that… I can't remember the name of it, where it went around the corner, and you were standing in front of it?
 
 ## Ann Shapiro [17:14](https://www.youtube.com/watch?v=3JOMa_JYp9s&t=1034s)
 

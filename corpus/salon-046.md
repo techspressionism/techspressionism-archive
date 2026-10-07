@@ -57,9 +57,9 @@ I don't think we actually got the device audio there, Patrick. Oh good.
 
 Well, you know what? No, actually it's fine. That's great because it was really loud. So the graphics are probably what matter actually. So this is inside the Laird Norton building. So as I said, it's a nice big space. There's Colin's contribution there, a vector or gesture. This is John Ramey and that's Mina Chan, who's at MICA in Maryland.
 
-And so Malavika, we haven't gotten your work up yet, but there it is. And let's see, there's Carter and let's see here. And let's see here, okay. And Nagin's work here. One thing that I thought was really kind, our director, Davin Heckmans, one of my academic partners in the department. And we had a great group of jurors.
+And so Malavika, we haven't gotten your work up yet, but there it is. And let's see, there's Carter and let's see here. And let's see here, okay. And Negin's work here. One thing that I thought was really kind, our director, Davin Heckmans, one of my academic partners in the department. And we had a great group of jurors.
 
-We had Brandon Gellis, who's another Techspressionist. Of course, my wife and partner in all things, Nagin Etesabian. And who actually has really been super throughout this entire process. Really stood behind me a lot on this and I'm really incredibly grateful. These two pieces are from Plant Bot Genomics. These are a couple of mutated cabbages that danced to Party Rock and let's see here.
+We had Brandon Gellis, who's another Techspressionist. Of course, my wife and partner in all things, Negin Ehtesabian. And who actually has really been super throughout this entire process. Really stood behind me a lot on this and I'm really incredibly grateful. These two pieces are from Plant Bot Genomics. These are a couple of mutated cabbages that danced to Party Rock and let's see here.
 
 ## Colin Goldberg [09:37](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=577s)
 
@@ -73,7 +73,7 @@ I didn't know they were in the show. Oh, there you go. Yeah, yeah, yeah. They're
 
 Yeah, that's great. Yeah, yeah. Plant Bot Genomics. Sure, exactly. And then Isabel Urias, who did these nice big prints. And so another shot of the year. I don't have anything of the pieces up front, like we have Joseph DeLapp and, of course, Cynthia Beth, that we don't have up yet. And let's see here. Another shot. There's Tommy's piece. There's one of Tommy's two pieces, actually. Thank you much, Mr. Mintz. And this is the main hall where we had Tommy's 24-foot banner.
 
-And actually, believe it or not, from that rendering that I did. Oh, by the way, just back to the judges. Cynthia Beth Rubin, Nagin. Wade Waller-Cern from Transfer Gallery in Los Angeles, and now head of Gray Area. Brandon. And is that four? And, oh, and of course, Roger Boulay, who's our gallery director as well. So that's, you know, fantastic.
+And actually, believe it or not, from that rendering that I did. Oh, by the way, just back to the judges. Cynthia Beth Rubin, Negin. Wade Waller-Cern from Transfer Gallery in Los Angeles, and now head of Gray Area. Brandon. And is that four? And, oh, and of course, Roger Boulay, who's our gallery director as well. So that's, you know, fantastic.
 
 And the other thing I do want to say is that we had people from the Midwest Music Fest, you know, my academic partner. On graphics and families of folks that we know in the area. And we're getting some support from the Winona State Foundation and the Minnesota Maritime Art Museum. And really, I think the one thing that has been, and we also just met with the lead directors of IDMA just looked at what we're doing and I think I think two things that I kind of say is that first just absolutely thrilled that so many people have been willing to come together on an ad hoc basis and put in and do just give so much help. To put something like this and the IDMA directors looked and they just looked at the website which you will see just in a minute and they said, my god, we have never done anything like this.
 
@@ -419,7 +419,7 @@ I do
 
 ## Colin Goldberg [50:11](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3011s)
 
-See that there is something in the chat from one of the artists, Azra Kani, I think. Is that a female artist, Nagin?
+See that there is something in the chat from one of the artists, Azra Kani, I think. Is that a female artist, Negin?
 
 ## Negin Ehtesabian [50:21](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=3021s)
 
@@ -631,7 +631,7 @@ Let's see here. Let's go back. Let's go back to the gallery. Let's see here. Hav
 
 ## Roz Dimon [01:11:14](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4274s)
 
-I think Nagin showed us these when you were away.
+I think Negin showed us these when you were away.
 
 ## Unattributed [01:11:16](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4276s)
 
@@ -643,7 +643,7 @@ You know what she did?
 
 ## Patrick Lichty [01:11:18](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=4278s)
 
-She said that. You know they're wonderful. I'm so sorry. Anyway, I just blanked. So that's all right. I'm just kind of going down through the Marzan and then anybody else we should talk about? So, Sue Byers piece is algorithmic. Is kind of interesting. This is a landscape that's all done as kind of an HTML table piece that loads in live on a browser, which is kind of interesting. We've got this set up with iPads, and then actually for one of our pieces, we've got Irshad Fatahian, so kill so you don't get killed. This is actually also an NFT, where you have something orbiting around, I guess, perhaps Mars. But the one thing I really like about his work is that he...
+She said that. You know they're wonderful. I'm so sorry. Anyway, I just blanked. So that's all right. I'm just kind of going down through the Marzan and then anybody else we should talk about? So, Sue Byers piece is algorithmic. Is kind of interesting. This is a landscape that's all done as kind of an HTML table piece that loads in live on a browser, which is kind of interesting. We've got this set up with iPads, and then actually for one of our pieces, we've got Ershad Fatahian, so kill so you don't get killed. This is actually also an NFT, where you have something orbiting around, I guess, perhaps Mars. But the one thing I really like about his work is that he...
 
 You know, he takes these classic elements and, you know, works them, juxtaposes them with the classic book of the king, the Persian book of the kings, the Shahnaneh, and I think they're really humorous, actually. And I think last one of the other pieces we have is Farnisdor Gar, who I don't know, is it... Being that actually Winona is a fairly religious town, I thought this was very interesting, very Catholic, actually. So I thought it was a very interesting piece that, you know, she's dealing with the notion of the icon and a little bit with the kind of like the gangsta pixel glasses and kind of owning this person. I'm not exactly sure what's going on here, but...
 
@@ -803,7 +803,7 @@ Well I just wanted to thank you Patrick for you know putting this together for h
 
 ## Patrick Lichty [01:23:57](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5037s)
 
-One more thing actually so to kind of front load you know kind of you know let's just say let's all meet let's all meet around this next year is that the next the next show is going to be called wild media okay so in other words the idea of like rewilding spaces or then how can we how can we you know you know it do the look at the notion of wild or wilding or the notion of ferality you know in media you know what is what is media in the wild or what is media that represents you know something that we're you know interested in as a species is possibly rewilding our environment so I put that forth and I think I thank everybody so much for your time and I as and as always I'm deeply deeply grateful to my wife and partner of all thing in all things Nagin Etisabian for all her amazing amazing help in this project and everything everything else doesn't need to be said so thank you thank you thank
+One more thing actually so to kind of front load you know kind of you know let's just say let's all meet let's all meet around this next year is that the next the next show is going to be called wild media okay so in other words the idea of like rewilding spaces or then how can we how can we you know you know it do the look at the notion of wild or wilding or the notion of ferality you know in media you know what is what is media in the wild or what is media that represents you know something that we're you know interested in as a species is possibly rewilding our environment so I put that forth and I think I thank everybody so much for your time and I as and as always I'm deeply deeply grateful to my wife and partner of all thing in all things Negin Ehtesabian for all her amazing amazing help in this project and everything everything else doesn't need to be said so thank you thank you thank
 
 ## Cynthia Beth Rubin [01:25:20](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5120s)
 

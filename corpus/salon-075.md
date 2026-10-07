@@ -374,7 +374,7 @@ And it's international. Lucy has a spotlight that they've put out for her on Ins
 
 ## Colin Goldberg [54:46](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3286s)
 
-Is that Beth Giacomo that's still the point person there? So she's a really good person also just in terms of exhibition ideas. She's one of the... I think she might have a few more. I think she might actually be the main person behind getting museum accreditation for Mocha Long Island, which is in the same township as Mocha Lights and Patchogue, but it was an art space there. And it recently did get museum accreditation. And I was part of a four-person show there initially. But I think if... She would certainly be receptive to exhibition proposals and things like that.
+Is that Beth Giacummo that's still the point person there? So she's a really good person also just in terms of exhibition ideas. She's one of the... I think she might have a few more. I think she might actually be the main person behind getting museum accreditation for Mocha Long Island, which is in the same township as Mocha Lights and Patchogue, but it was an art space there. And it recently did get museum accreditation. And I was part of a four-person show there initially. But I think if... She would certainly be receptive to exhibition proposals and things like that.
 
 Especially if you've been involved with Mocha Lights in the past. So definitely you could drop her a line. She's on Instagram.
 
@@ -384,7 +384,7 @@ Did you say her name again?
 
 ## Colin Goldberg [55:38](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3338s)
 
-It's Beth Giacomo. That's G-I-A-C-U-M-M-O.
+It's Beth Giacummo. That's G-I-A-C-U-M-M-O.
 
 ## Susan Detroy [55:44](https://www.youtube.com/watch?v=UwkMNkLGZ6Q&t=3344s)
 

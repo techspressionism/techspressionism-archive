@@ -72,7 +72,7 @@ You might need to stop the share and then reshare. There should be a little chec
 
 Okay. Stop share. Stop share screen. Yeah, I tried it before. I practiced a few times and it always went. It says my microphone is off. It says my microphone is off when I go to screen share.
 
-## Allen Hirsh [11:31](https://www.youtube.com/watch?v=pxavr84wDJs&t=691s)
+## Cynthia DiDonato [11:31](https://www.youtube.com/watch?v=pxavr84wDJs&t=691s)
 
 Renata, is it possible the microphone is off on the iPad?
 
@@ -294,7 +294,7 @@ With the Techspressionist of name and I think the sensibilities that
 
 ## Unattributed [34:51](https://www.youtube.com/watch?v=pxavr84wDJs&t=2091s)
 
-We all have in our own unique ways. One of the things recently that I was reading. Thanks to Patrick. Lickety
+We all have in our own unique ways. One of the things recently that I was reading. Thanks to Patrick Lichty
 
 ## Michael Pierre Price [35:03](https://www.youtube.com/watch?v=pxavr84wDJs&t=2103s)
 
@@ -552,7 +552,7 @@ And maybe you can let us know when it's opening up and how we can see it and all
 
 ## Patrick Lichty [01:05:38](https://www.youtube.com/watch?v=pxavr84wDJs&t=3938s)
 
-Yeah, definitely. Okay. So, yeah, I'm curating a show called Weird Media. We have about 90 artists in it, about 15 Techspressionists. It's at the Laird Norton building in Winona. And Nagin and I are working on the materials. There'll be a catalog and an online thing. And let's see here. Let me get the URL out here just for the call to works.
+Yeah, definitely. Okay. So, yeah, I'm curating a show called Weird Media. We have about 90 artists in it, about 15 Techspressionists. It's at the Laird Norton building in Winona. And Negin and I are working on the materials. There'll be a catalog and an online thing. And let's see here. Let me get the URL out here just for the call to works.
 
 It's going to be idmagallery.org. Probably up by the end of next week and next week, middle of the next week. And it's open. It's open from the 24th to the 26th. And in the beautiful Laird Norton building, we have a performance going on at Broken Records. And we're also going to have, we're also building a partnership with the Minnesota Maritime Art Museum, which actually has a very nice early 20th century collection, including some expressionists. And I think... I think in the long term, it might be very interesting to discuss the idea of maybe talking to them about water-centric work that Techspressionists are involved with, that this might be something that they may be interested in. They say, in other words, I met with the... Basically, I was just with the director right now.
 
@@ -560,9 +560,9 @@ And we were talking about, you know, how we can hook up with... You know, with t
 
 I'm hoping maybe we might have a couple, you know, a couple short things online before. But let's see here. Is that... Might be able to actually show you the website in two weeks. And give you a view, give you a full view of what's going on. But anyway. Nice. Yeah. So anyway, we're... And I'm really, really happy that...
 
-Number one, I'm really happy that I was able to... You know, support the project by including, you know, a bunch of Techspressionists. And I'm really happy to the Techspressionists who... You know, when... I think I mentioned... And I know Nagin mentioned it. And we're, you know, got on the call and put your stuff in. And the one thing is, is that I did actually give, you know, the Techspressionists, you know, a lot of consideration. Because I, you know, I wanted to... You know what you were saying? And beyond? Yeah. You know, and so the thing is, is that, okay.
+Number one, I'm really happy that I was able to... You know, support the project by including, you know, a bunch of Techspressionists. And I'm really happy to the Techspressionists who... You know, when... I think I mentioned... And I know Negin mentioned it. And we're, you know, got on the call and put your stuff in. And the one thing is, is that I did actually give, you know, the Techspressionists, you know, a lot of consideration. Because I, you know, I wanted to... You know what you were saying? And beyond? Yeah. You know, and so the thing is, is that, okay.
 
-You know, this is... This isn't a huge showing. But it's another nice-sized exhibition, you know, where we have some more Techspressionists in it. And I'm hoping that, you know, we can just keep, you know, putting down the stepping stones, right? Absolutely. Absolutely. That's awesome. Okay. Very cool. Very cool. Thank you, Patrick. And let's see here. This is the third one. This is the fourth one at Winona State. The first one was curated by Christian Paul. The last one was Mark American. I'm doing this one.
+You know, this is... This isn't a huge showing. But it's another nice-sized exhibition, you know, where we have some more Techspressionists in it. And I'm hoping that, you know, we can just keep, you know, putting down the stepping stones, right? Absolutely. Absolutely. That's awesome. Okay. Very cool. Very cool. Thank you, Patrick. And let's see here. This is the third one. This is the fourth one at Winona State. The first one was curated by Christiane Paul. The last one was Mark American. I'm doing this one.
 
 ## Colin Goldberg [01:09:29](https://www.youtube.com/watch?v=pxavr84wDJs&t=4169s)
 
@@ -592,7 +592,7 @@ But probably, yeah, I haven't really thought how I would make it available. It w
 
 Gotcha. Gotcha. Thank you. Does anyone else have any questions for any of the artists who presented today? Just shout it out if you have anything. Or if you just have a topic of conversation.
 
-## Allen Hirsh [01:13:12](https://www.youtube.com/watch?v=pxavr84wDJs&t=4392s)
+## Cynthia DiDonato [01:13:12](https://www.youtube.com/watch?v=pxavr84wDJs&t=4392s)
 
 I have a question for Alice. I was wondering... What Alice's next step is, given what he's shown us today. Where he plans to go next. What his next photograph might be. Is he still on?
 
@@ -612,7 +612,7 @@ And... I want to... Kind of commemorate it. By learning more about GIMP. So I ca
 
 I definitely have a deep appreciation for life thus far. And... That's my next move.
 
-## Allen Hirsh [01:14:57](https://www.youtube.com/watch?v=pxavr84wDJs&t=4497s)
+## Cynthia DiDonato [01:14:57](https://www.youtube.com/watch?v=pxavr84wDJs&t=4497s)
 
 I think that sounds like a remarkable project. That will benefit many, many people.
 
@@ -620,7 +620,7 @@ I think that sounds like a remarkable project. That will benefit many, many peop
 
 Thank you.
 
-## Allen Hirsh [01:15:06](https://www.youtube.com/watch?v=pxavr84wDJs&t=4506s)
+## Cynthia DiDonato [01:15:06](https://www.youtube.com/watch?v=pxavr84wDJs&t=4506s)
 
 I look forward to seeing it.
 

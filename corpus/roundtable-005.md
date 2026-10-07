@@ -52,7 +52,7 @@ Thanks so much. And would you mind telling us a little bit about the curator of 
 
 ## ChatGPT [01:05](https://www.youtube.com/watch?v=BphNOUbReFs&t=65s)
 
-Of course, the curator of the exhibition is Yuga Zhou. She's a talented video artist herself, based in Chicago, and her work often explores themes of urban life and the immigrant experience she's known for creating immersive video installations, and has been featured in various prestigious venues. Her curatorial eye really brings out the best in Techspressionist art, making this exhibition extra special.
+Of course, the curator of the exhibition is Yuge Zhou. She's a talented video artist herself, based in Chicago, and her work often explores themes of urban life and the immigrant experience she's known for creating immersive video installations, and has been featured in various prestigious venues. Her curatorial eye really brings out the best in Techspressionist art, making this exhibition extra special.
 
 ## Colin Goldberg [01:32](https://www.youtube.com/watch?v=BphNOUbReFs&t=92s)
 

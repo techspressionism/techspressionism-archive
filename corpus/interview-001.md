@@ -355,7 +355,7 @@ Yeah, it's kind of a textbook name. Yeah. Yeah.
 
 ## Colin Goldberg [36:16](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2176s)
 
-And he kind of defined it so that it was a social sculpture as human activity that strives to structure and shape society or the environment. And that the central idea of a social sculptor is an artist who creates structures in society using language, thoughts, actions, and objects. So this is actually an idea that was introduced to me by another artist member of ours, Joseph Nechtol, who is really a pioneer in digital art and new media art. Good artist. And he related this idea of social sculpture to me when we were living near each other down in the Lower East Side of Manhattan. And it always kind of stuck with me in the sense of how artists can be activists.
+And he kind of defined it so that it was a social sculpture as human activity that strives to structure and shape society or the environment. And that the central idea of a social sculptor is an artist who creates structures in society using language, thoughts, actions, and objects. So this is actually an idea that was introduced to me by another artist member of ours, Joseph Nechvatal, who is really a pioneer in digital art and new media art. Good artist. And he related this idea of social sculpture to me when we were living near each other down in the Lower East Side of Manhattan. And it always kind of stuck with me in the sense of how artists can be activists.
 
 ## Roz Dimon [37:06](https://www.youtube.com/watch?v=JZFDck9gwH8&t=2226s)
 

@@ -754,7 +754,7 @@ Japan. Japan. Japan. And what language is that? Japanese? No, No, I think in Jap
 
 ## Roz Dimon [01:36:40](https://www.youtube.com/watch?v=e5dH26wP9gk&t=5800s)
 
-You know, there's something Nagin and I have talked about a little bit in talking between New York and Iran. And it's something to do with, in my study of iconography, the Theotokos. It's called the icon of bright sorrow. Sorrow. And she said that in her culture, there's, I might be saying this wrong thinking, but something to do with that, a brightness and sorrow.
+You know, there's something Negin and I have talked about a little bit in talking between New York and Iran. And it's something to do with, in my study of iconography, the Theotokos. It's called the icon of bright sorrow. Sorrow. And she said that in her culture, there's, I might be saying this wrong thinking, but something to do with that, a brightness and sorrow.
 
 And there's also some Greek word for your gut. It's not even your soul or your heart. And I'm going to look it up, but it's something that's deep in your gut. Is this thing that I think Devo brought up so beautifully. That's what, that paradox, you see it in art. It's suffering pieces and yet they're beautiful. And that paradox, I mean, it's that terrible place of loss and yet understanding the beauty of life where I think I know my own most important works have probably sprung from that space.
 

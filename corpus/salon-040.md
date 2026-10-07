@@ -87,7 +87,7 @@ I think it's probably from 2017. And I wasn't, keeping track. And this, this is 
 
 Awesome. Thank you, Susan. Any, okay. I think we'll probably hold questions until everyone's presented and then just sort of open it up. Okay. So, Cynthia, you're up next.
 
-## Allen Hirsh [11:35](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=695s)
+## Cynthia DiDonato [11:35](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=695s)
 
 It's installing a plug-in. Sorry for the delay. Can everyone see the piece? Yes.
 
@@ -95,7 +95,7 @@ It's installing a plug-in. Sorry for the delay. Can everyone see the piece? Yes.
 
 Okay.
 
-## Allen Hirsh [12:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=724s)
+## Cynthia DiDonato [12:04](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=724s)
 
 This is a piece that's hot off the press that uses collage. I've made it in the last two weeks. It's called Turbulence. There's a call for art, an international one, called Below the Surface. It's art that deals with exploring the ocean and its issues. And it follows Below the Surface 1, which is a Synergy project in Rhode Island. Because it's a project that's really important to us. It's about the relationship between the art league of Rhode Island, of which I am a member, and Woods Hole. And so I decided to work on this piece. And it started with two photographs of textures.
 
@@ -105,7 +105,7 @@ I think it's metal, actually. And then between placing the two pieces of metal a
 
 And so there it is.
 
-## Allen Hirsh [13:32](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=812s)
+## Cynthia DiDonato [13:32](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=812s)
 
 My second piece that I wanted to show you is called Tree Talk. And this is another collage technique I use that involves another piece of software called iColorama, which allows me to take a picture of trees. And then it segments the tree image into separate areas. For example, this brown area is one area. And as you can see, it runs right through the piece. Then there's another segment here and another segment here and at the bottom. And I'm able to bring in textures from my digital art that I've already created and then put it inside. So it's a total collage technique as well.
 
@@ -635,7 +635,7 @@ If you want to have an obscure joke, say, well, who was he? Well, he's your uncl
 
 ## Renata Janiszewska [01:14:19](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4459s)
 
-Colin, I have a question. I have a question for Nagin. Sure. Yeah. Nagin, I saw your piece a few times in photographs in the gallery, but I didn't really know how big it was. Can you tell us the dimensions, please?
+Colin, I have a question. I have a question for Negin. Sure. Yeah. Negin, I saw your piece a few times in photographs in the gallery, but I didn't really know how big it was. Can you tell us the dimensions, please?
 
 ## Negin Ehtesabian [01:14:38](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4478s)
 
@@ -687,7 +687,7 @@ So nine hours, nine hours. Yeah, it's just something I'd like to see at some poi
 
 ## Colin Goldberg [01:17:44](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4664s)
 
-Yeah, I think, you know, I definitely think that makes sense. I'm concerned if we, you know, change the time up, you know, on an ongoing basis, it's going to be hard for people to know, you know, that this is happening at a specific time on a specific day of the week. But I think that, you know, we can definitely accommodate it in a variety of ways. And I do agree with this idea, you know, certainly. And I was thinking about it, too, that it might be interesting for people. Like, I think that the best way for something like this to work would be if you, Cynthia, wanted to organize a bunch of people or if Nagin wanted to organize a bunch of people, that you would basically be the organizer or the person who's putting it together would be the moderator for that particular salon, you know, and that way it wouldn't be like, here's my idea, Davo, like you have to run it.
+Yeah, I think, you know, I definitely think that makes sense. I'm concerned if we, you know, change the time up, you know, on an ongoing basis, it's going to be hard for people to know, you know, that this is happening at a specific time on a specific day of the week. But I think that, you know, we can definitely accommodate it in a variety of ways. And I do agree with this idea, you know, certainly. And I was thinking about it, too, that it might be interesting for people. Like, I think that the best way for something like this to work would be if you, Cynthia, wanted to organize a bunch of people or if Negin wanted to organize a bunch of people, that you would basically be the organizer or the person who's putting it together would be the moderator for that particular salon, you know, and that way it wouldn't be like, here's my idea, Davo, like you have to run it.
 
 You know what I mean? It would be more like you're putting an event together. And that could be done either within the existing salon time framework or outside of it, you know, and I started thinking like, wow, wouldn't it be interesting if there is a salon for people who spoke French or German? And then there's a bunch of people who are all speaking that language. I mean, it wouldn't have to be at the same salon. It's just a Zoom meeting. You know what I mean?
 
@@ -711,7 +711,7 @@ Yeah, I think that I'm happy to facilitate by doing the recording and publishing
 
 ## Cynthia Beth Rubin [01:22:10](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4930s)
 
-OK, I will file it away to do something with Francophone Africa, but slowly. And maybe, Nagin, you could think about doing something. It would be great to see Iranian artists. I would love that.
+OK, I will file it away to do something with Francophone Africa, but slowly. And maybe, Negin, you could think about doing something. It would be great to see Iranian artists. I would love that.
 
 ## Colin Goldberg [01:22:29](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=4949s)
 
@@ -761,7 +761,7 @@ I do have a Russian artist Facebook friend, and when he posted paintings on Face
 
 ## Colin Goldberg [01:26:34](https://www.youtube.com/watch?v=Z-RFTbQ7GF8&t=5194s)
 
-But so I'm just going to share my screen here. So this is a piece that I've been working on for a long time. This is the landing page for the show that just went up. And the Russian artist, Mounth, and this is one of Andy Thomas's NFTs at the top, there's Nagin's piece, which was selected by the Arts Center as a featured image. And this is actually the Russian artist Mounth, his piece here. And then we have Verneda.
+But so I'm just going to share my screen here. So this is a piece that I've been working on for a long time. This is the landing page for the show that just went up. And the Russian artist, Mounth, and this is one of Andy Thomas's NFTs at the top, there's Negin's piece, which was selected by the Arts Center as a featured image. And this is actually the Russian artist Mounth, his piece here. And then we have Verneda.
 
 And Randy. The bottom. So those are the pieces that were selected as key art images by the Arts Center. And then Mounth, whose work we're looking at now. All of the artist links are live. So this is his piece here. And there's also links to his website and Instagram. And initially he actually had said he wanted to donate any proceeds to people who needed more than him. And then I got a message from him again. Saying he actually was most likely going to be trying to leave the country and probably would need it. So it's, you know, I feel like it's something it's one thing to see this stuff on the news, but it's another thing to get a DM over Instagram from an artist in Kyiv right now.
 

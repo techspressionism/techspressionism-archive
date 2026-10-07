@@ -17,7 +17,7 @@ flags:
 
 ## Colin Goldberg [00:03](https://www.youtube.com/watch?v=htDS7UsZjyA&t=3s)
 
-Hi, everyone. My name is Colin Goldberg, and I am zooming in from Vermont, U.S.A. And we're here at the 88th text Salon, and the theme of this salon is education, and we have a special guest, moderate moderator here, Malavika. Mandel Andrew, who is here with us from India, with a bunch of her students. And basically, the idea of this salon is the students that she's been working with have created collaborative artworks by passing digital file back and forth together. And that's something that originated from an activity in this text. Freshness community that was spearheaded by an artist named Davonte Bradley, Aka Davo, and we did a couple collaborative exhibitions using that format. And it's very exciting that Malavika has taken that idea and brought it to India. And she actually is the 1st Techspressionist artist listed in the artist index from India, and also co-founder of the Indian node along with Goba Kumar. So I'm good.
+Hi, everyone. My name is Colin Goldberg, and I am zooming in from Vermont, U.S.A. And we're here at the 88th text Salon, and the theme of this salon is education, and we have a special guest, moderate moderator here, Malavika Mandal Andrew, who is here with us from India, with a bunch of her students. And basically, the idea of this salon is the students that she's been working with have created collaborative artworks by passing digital file back and forth together. And that's something that originated from an activity in this text. Freshness community that was spearheaded by an artist named Davonte Bradley, Aka Davo, and we did a couple collaborative exhibitions using that format. And it's very exciting that Malavika has taken that idea and brought it to India. And she actually is the 1st Techspressionist artist listed in the artist index from India, and also co-founder of the Indian node along with Goba Kumar. So I'm good.
 
 Oh.
 
@@ -71,7 +71,7 @@ The exhibition for both the created, both created during both the batches sorry,
 
 And any combination you can think of. Winning entries are chosen through online voting, and all artworks are exhibited online. The details of all the ever mentioned. What I explained are available on our website, collaborativeartspace.com. Let me come to today's presentation today. Collaborative art space presents the 4th edition of our interschool expressionist, collaborative art project created by our young artist. The expressionism coined in 2011 by artist Colin Goldberg. It means an artistic approach in which technology is utilized as a mean to express emotional experience. It's a 21st century artistic and social movement exploring the intersection of technology and expressionism. In interschool expressionist, collaborative project. 2 young artists from different institutions have worked together to create 2 collaborative and one individual artwork on the theme of dreams.
 
-Let me start the presentation. Our 1st group who are presenting today is Keta Shah and Vivansh. Osla. Hey, Darsa, you are there.
+Let me start the presentation. Our 1st group who are presenting today is Kedar Shah and Vivansh. Osla. Hey, Darsa, you are there.
 
 ## Kedar Shah [10:13](https://www.youtube.com/watch?v=htDS7UsZjyA&t=613s)
 
@@ -187,7 +187,7 @@ Yes. Thank you.
 
 ## Malavika Mandal Andrew [19:23](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1163s)
 
-So now I'm going to the next group. The next group who are presenting today is Anayas Chaturvedi, and Drew Gurg.
+So now I'm going to the next group. The next group who are presenting today is Anya Chaturvedi, and Drew Gurg.
 
 ## Anya Chaturvedi [19:36](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1176s)
 
@@ -353,7 +353,7 @@ I just wanna comment that it's really interesting from a point of view of iconog
 
 ## Malavika Mandal Andrew [29:31](https://www.youtube.com/watch?v=htDS7UsZjyA&t=1771s)
 
-So our next group who is presenting is Adrita Purkite and Aisha Malu.
+So our next group who is presenting is Adrita Purkait and Aisha Malu.
 
 Are you there?
 
@@ -841,7 +841,7 @@ Which I wouldn't save. Of course they have to go back and do it themselves.
 
 Well, thanks again. Thanks so much, Cynthia, and you know, thanks a lot to Malavika, especially for organizing this salon and bringing students in from India. I think it's really special. You know. And I appreciate all of you guys who came into the zoom. We're coming into 1 30 now. So I'm gonna stop the recording momentarily. But you're all welcome to come hang out at the after party. Actually have to drive about 2 h to take my daughter to a dentist appointment immediately after stopping the recording. So I'm gonna have to jump.
 
-But you guys are welcome to hang out and chat. I do know that the next salon, the next 2 salons the subjects, have been decided upon, so we don't need to come up with ideas for that. The December salon is going to be Renata, Yanaszewska, and Karen LaFleur introducing Mariniana, which is their exhibition at the Cape Cod Museum of art. It's a 2 person show that, I believe is opening this month, and they're going to be down there, as far as I know, in December, to give artist talks and stuff like that. So that show is actually also on the Techspressionism site. There's a micro site there under the exhibitions tab, so you could check out their trailer, which is amazing, and an online catalog. And then the January salon, I believe, is going to be moderated by Cynthia Beth Rubin.
+But you guys are welcome to hang out and chat. I do know that the next salon, the next 2 salons the subjects, have been decided upon, so we don't need to come up with ideas for that. The December salon is going to be Renata Janiszewska, and Karen LaFleur introducing Mariniana, which is their exhibition at the Cape Cod Museum of art. It's a 2 person show that, I believe is opening this month, and they're going to be down there, as far as I know, in December, to give artist talks and stuff like that. So that show is actually also on the Techspressionism site. There's a micro site there under the exhibitions tab, so you could check out their trailer, which is amazing, and an online catalog. And then the January salon, I believe, is going to be moderated by Cynthia Beth Rubin.
 
 I think, or maybe also with Cynthia D. Donato, I don't know but it's going to be the Co. Working group, Cynthia, is that? Are we still on with that? For with you guys. Work from the working group.
 

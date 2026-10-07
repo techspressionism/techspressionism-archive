@@ -25,7 +25,7 @@ The three distinguished guests today, I will introduce them by reading a short b
 
 And has contributed essays to leading journals and major exhibition catalogs. She has taught at the School of Visual Arts and Stony Brook University, lectured widely, and hosted Art Waves on WLIU 88.3 FM. She's also the author of five art world mystery novels. Next is Catherine Mason. Who was born in Australia, raised in the US, and trained in Britain. She holds a History of Art degree from Birkbeck and a Master's in Museums and Gallery Management from City University.
 
-A leading historian of computer art and digital art since the Cash Project in 2022, she has authored A Computer in the Art Room, co-edited White Heat, Cold Logic. And most recently published Creative Simulations. She's recently become a visiting research and knowledge exchange fellow in the Department of Computing at Goldsmiths at the University of London. Our third guest, Angela Ferrariolo, is a systems artist focused on open-endedness, self-organization, morphogenesis, and adapted processes. Sorry, adaptive processes.
+A leading historian of computer art and digital art since the Cash Project in 2022, she has authored A Computer in the Art Room, co-edited White Heat, Cold Logic. And most recently published Creative Simulations. She's recently become a visiting research and knowledge exchange fellow in the Department of Computing at Goldsmiths at the University of London. Our third guest, Angela Ferraiolo, is a systems artist focused on open-endedness, self-organization, morphogenesis, and adapted processes. Sorry, adaptive processes.
 
 She has held a residency at the Intelligent Engineering Lab at Sokha University in Tokyo. And lectured for School of XX Coax in Weimar. Her professional background includes roles at RKO, H2O Studios, Westwood Studios, and Electronic Arts. Her work has been exhibited internationally in numerous venues. Based in New York City. She co-chairs visual and studio arts at Sarah Lawrence College, where she founded the computational arts program in new genres, and is developing projects in adaptive systems and open-ended evolution.
 
@@ -233,7 +233,7 @@ You know, Ed Harris' movie has a soundtrack, which is a fine thing, but it's lik
 
 ## Angela Ferraiolo [40:29](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=2429s)
 
-Right, true, yeah. Awesome. There used to be a separation between… okay, well, that's a different talk altogether. But I did want to mention some recent… Harold Cohen's show at the Whitney, curated by Christian Paul, especially, I think, was, like, for me, that was a real moment, you know, in the curation of electronic art. So, but there is recent interest in trying to figure out, like, what is happening here. And you see curators trying to situate, computational artworks, generative art, things like that, with a longer lineage of, art making.
+Right, true, yeah. Awesome. There used to be a separation between… okay, well, that's a different talk altogether. But I did want to mention some recent… Harold Cohen's show at the Whitney, curated by Christiane Paul, especially, I think, was, like, for me, that was a real moment, you know, in the curation of electronic art. So, but there is recent interest in trying to figure out, like, what is happening here. And you see curators trying to situate, computational artworks, generative art, things like that, with a longer lineage of, art making.
 
 So, I did want to mention these, like, more recent exhibitions, and then I thought, I'm sorry I have to leave, but some ideas we could talk about might be, like, what is Techspressionism separate from, like, a purely generative art or computational art? Have these exhibitions helped establish a lineage, for this artwork… this… this approach? And, what are the ways that we might reconcile the physicality of painting, the materiality of painting, with the immaterial aspects of computers? For me, it all comes together in process, but there might be other ways that people can reconcile these two seemingly different approaches.
 
@@ -373,7 +373,7 @@ We have a question from Greg.
 
 ## Greg Garvey [53:05](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3185s)
 
-I think Steven Carpenter was first? If he wants to go first?
+I think Stephen Carpenter was first? If he wants to go first?
 
 ## Renata Janiszewska [53:11](https://www.youtube.com/watch?v=7zk9GzgaLvs&t=3191s)
 

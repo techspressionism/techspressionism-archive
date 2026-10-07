@@ -26,7 +26,7 @@ Great. Thank you very much, Michael, and I'm very happy to be part of this groun
 
 We were established in 1981 for that purpose. As the Techspressionists are acutely aware, the mediums that artwork can manifest is rapidly changing and evolving, and like libraries. We, too, must reinvent ourselves to maintain relevance. In 2022 we had our 1st exhibition dedicated to digitally created artworks in an exhibition titled Pixels. This is when I was 1st introduced to the Techspressionist community of artists.
 
-And that was through one of your members, Karen LaFleur and Karen proposed an exhibition of her own work. Moving image artwork. In a collaborative exhibition generated between Cape Cod based Karen, Lafleur, and Canadian-based Renada Yanaszewska, Titled Mariniana. The interrupted wave which took place from November 21, st 2024 to February 9, th 2025. Right here in our 90 seat Auditorium. It received recognition from Artscope Magazine. I actually have a copy here, got front page recognition and a 6 page article by Lee Roscoe, who's here with us today also.
+And that was through one of your members, Karen LaFleur and Karen proposed an exhibition of her own work. Moving image artwork. In a collaborative exhibition generated between Cape Cod based Karen, Lafleur, and Canadian-based Renata Janiszewska, Titled Mariniana. The interrupted wave which took place from November 21, st 2024 to February 9, th 2025. Right here in our 90 seat Auditorium. It received recognition from Artscope Magazine. I actually have a copy here, got front page recognition and a 6 page article by Lee Roscoe, who's here with us today also.
 
 So thank you for that recognition. And we're fortunate to have Karen and Renata with us in person here today. In fact, Renata flew in just yesterday from Lions head. Canada Jana Shefska, Sorry is a new media artist. Her video works, feature, animation, loops, digital paintings and music. She composes herself using custom brushes. She expresses themes of biodegeneration, altered perception and feminism. Karen LaFleur moving image artwork explores the interplay between interior and exterior worlds with a focus on adaptability. She reveals vulnerabilities and complex relationships and highlights, resiliencies in her ever shifting landscapes.
 
@@ -164,7 +164,7 @@ Thank you, Tommy. We'll be showing up next. I think it's Renata coming up next, 
 
 Okay, that's the whole thing.
 
-Hello! I'm Renata Yanniszewska, and I'm very happy to be here. Thank you, Benton, and thank you to the museum staff for hosting us for our show in Chicago, which starts at the end of April, we made a catalog which is available on the website expressionism.com. Yes, it was sharing
+Hello! I'm Renata Janiszewska, and I'm very happy to be here. Thank you, Benton, and thank you to the museum staff for hosting us for our show in Chicago, which starts at the end of April, we made a catalog which is available on the website expressionism.com. Yes, it was sharing
 
 ## Michael Pierre Price [36:02](https://www.youtube.com/watch?v=PrrvyUZvD5k&t=2162s)
 

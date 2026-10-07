@@ -1101,7 +1101,7 @@ Thank you, absolutely. All right, so, can you tell us, us viewers in the future,
 
 Well, the big one that's coming up… I'm a busy artist at the Whitney, this semester. My life is in semesters because I teach, and I'm actually… teaching or working with a group of high school students, so they're… I'm shouting out for them first, but they're having a big show, in December, or late November. I… yeah, my dates… if I don't have my calendar in front of me, it's all, yeah, a blur. And then I'm gonna be in the show at the Whitney, the Art Court Show, and it's a 25-year.
 
-Wow. Anniversary of… Art exploring, you know, network-based culture, the net art term, and Christian Paul, who is the curator at the Whitney who supports these kind of practices, has…
+Wow. Anniversary of… Art exploring, you know, network-based culture, the net art term, and Christiane Paul, who is the curator at the Whitney who supports these kind of practices, has…
 
 ## Colin Goldberg [01:08:47](https://www.youtube.com/watch?v=Q-4Co29bgiM&t=4127s)
 
