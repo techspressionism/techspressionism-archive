@@ -406,7 +406,7 @@ Namely, to tell them that I am one of them. And this suggested A fictional chara
 
 Beautiful. I love it. Big cat lover! Here. I, too, am the cat.
 
-Thank you so much. This is herbidden flowers. I imagine Tasabi and Likti. I'm not sure if they're here with us today. Or if Patrick's here, I'm not sure Patrick wants to speak to this. If they are here beautiful work.
+Thank you so much. This is herbidden flowers. I imagine Ehtesabian and Lichty. I'm not sure if they're here with us today. Or if Patrick's here, I'm not sure Patrick wants to speak to this. If they are here beautiful work.
 
 Renada.
 

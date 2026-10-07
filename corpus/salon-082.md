@@ -370,7 +370,7 @@ The images were really fascinating, though.
 
 Well, I can say without apology. I've been using mid journey for a few years now, and it's a tool. It's also a collaborator at times. I really enjoy. Really using it to generate. I mean, for every 500 images I generate, I might use 3. So it's very time consuming right now. But I'll pick it up and put it down. And I have been using 3D. Lately. There's a free animation software that I was given the URL for, and I completely went into that. I was drawing with objects.
 
-And then I was making the objects into a scene like we did for Saberiana. And then I would go into my scene, or I had to light it a certain way and background. And then I'd photograph it and use those and sometimes feed those through the AI, but mostly just working within that world of space where you get to look at it from all 360 degrees. It's I. Honestly, it's, I think, that in about 10 years we'll all be in 3D spaces for our work all the time. It'll just be the norm.
+And then I was making the objects into a scene like we did for Mariniana. And then I would go into my scene, or I had to light it a certain way and background. And then I'd photograph it and use those and sometimes feed those through the AI, but mostly just working within that world of space where you get to look at it from all 360 degrees. It's I. Honestly, it's, I think, that in about 10 years we'll all be in 3D spaces for our work all the time. It'll just be the norm.
 
 And this is just the beginning. It's good to be getting the hands dirty a little bit.
 

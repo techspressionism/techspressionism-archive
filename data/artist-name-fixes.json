@@ -713,5 +713,25 @@
     "pattern": "\\bLily[,.]?\\s+Kostryva\\b",
     "replacement": "Lily Kostrzewa",
     "seen": 1
+  },
+  {
+    "pattern": "\\bthat to Sabian\\b",
+    "replacement": "Negin Ehtesabian",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bmcgean\\b",
+    "replacement": "Negin",
+    "seen": 1
+  },
+  {
+    "pattern": "\\bTasabi and Likti\\b",
+    "replacement": "Ehtesabian and Lichty",
+    "seen": 1
+  },
+  {
+    "pattern": "\\b(?:Mariana|Mariniano|Marigniana|Marinea|Saberiana)\\b",
+    "replacement": "Mariniana",
+    "seen": 10
   }
 ]
