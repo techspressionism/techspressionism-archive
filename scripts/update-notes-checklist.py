@@ -1,23 +1,29 @@
 #!/usr/bin/env python3
-"""Write the archive's open items into the macOS Notes note "Techspressionism Archive To Do List" (iCloud, so it shows on every device).
+"""Keep the archive's notes in step with the archive, as sections of ONE Apple Note: the existing note "TECHSPRESSIONISM" (iCloud, so it
+shows on every device), under its "ARCHIVE" heading.
 
-Source: private/archive-checklist.txt (the master checklist). The note has the two archive links under the title, then for each phase its
-open items followed by the recommendations. Done items are left out. Re-running replaces the note's text; it creates the note if it is missing.
+The note is shared: Colin and other chats (Claude, GPT) add their own sections to it. This script only ever writes the part between the
+"ARCHIVE" heading (with its line of dashes) and the line "-- end of ARCHIVE ..." that it maintains itself; everything else in the note is
+carried through untouched, and after every write it checks that the text outside that part is unchanged (and restores the note if not).
+It refuses to write if the note has attachments (a rewrite would drop them). Other material goes in its own section BELOW the end line.
 
-    python3 scripts/update-notes-checklist.py           # first read the note and apply Colin's edits to the master list, then rewrite the note
+Inside ARCHIVE the sections are labelled "Archive: <name>": TOC, To Do List, Review, Open Questions, Broken Artist Links, One-Turn Artists
+(a fixed snapshot) and Changelog. Same two-way behaviour as before (an item Colin deletes is marked done, an ANSWER: line he types is read
+back), now read from and written to those sections:
+
+    python3 scripts/update-notes-checklist.py           # first read the note and apply Colin's edits to the master lists, then rewrite the sections
     python3 scripts/update-notes-checklist.py --pull    # only read the note and apply his edits (no rewrite)
 
-The same is done for a second note, "Archive Review" (master: private/archive-review.txt, snapshot private/notes-synced-review.json): its items
-come from the UI/UX and transcript review, in sections, open items only.
-
-Two-way, so nothing he does in the note is lost: an item he deleted from the note is marked done ([x]) in the master list; a line he added
-that is not in the master list is printed (Claude then files it under the right phase). Only run this on the Mac where Notes is signed in.
+Masters: private/archive-checklist.txt (To Do List), archive-review.txt, archive-open-questions.txt, archive-brokenlinks.txt, the push log.
+Only run this on the Mac where Notes is signed in.
 """
 import html
+import hashlib
 import json
 import re
 import subprocess
 import tempfile
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -35,21 +41,232 @@ STAGING = "https://techspressionism.github.io/techspressionism-archive/"
 LIVE = "https://techspressionism.com/archive/"
 
 
+# ---- the hub note ---------------------------------------------------------------------------------------------------------------------
+HUB_TITLE = "TECHSPRESSIONISM"
+HUB_ID_FILE = ROOT / "private" / "notes-hub-id.txt"       # the Notes id of the one TECHSPRESSIONISM note that has the ARCHIVE heading (several notes share that title)
+HUB_BACKUPS = ROOT / "private" / "notes-backup"
+HUB_HASH_FILE = ROOT / "private" / "notes-hub-lasthash.txt"     # hash of the ARCHIVE content written last time: an unchanged archive is not rewritten into the note
+ARCHIVE_HEAD = "ARCHIVE"
+END_KEY = "—— end of ARCHIVE"
+END_MARK = END_KEY + ": the sections above are rewritten by the archive sync; add your own sections below this line ——"
+PENDING = {}          # section title -> (html, on_success): collected during a run, written to the note in one go by flush_hub()
+
+AS_COMMON = '''
+on writeFile(path, txt)
+    set fh to open for access (POSIX file path) with write permission
+    set eof of fh to 0
+    write txt to fh as «class utf8»
+    close access fh
+end writeFile
+'''
+AS_READ = '''
+on run argv
+    set noteId to item 1 of argv
+    with timeout of 300 seconds
+        tell application "Notes"
+            set n to note id noteId
+            my writeFile(item 2 of argv, plaintext of n)
+            my writeFile(item 3 of argv, body of n)
+            return (count of attachments of n) as string
+        end tell
+    end timeout
+end run
+''' + AS_COMMON
+AS_WRITE = '''
+on run argv
+    set noteId to item 1 of argv
+    with timeout of 600 seconds
+        set theBody to read (POSIX file (item 2 of argv)) as «class utf8»
+        tell application "Notes"
+            set body of (note id noteId) to theBody
+            return "ok"
+        end tell
+    end timeout
+end run
+'''
+AS_FIND = '''
+with timeout of 300 seconds
+tell application "Notes"
+    tell account "iCloud"
+        set out to ""
+        repeat with n in (notes whose name is "%s")
+            if (plaintext of n) contains "%s" then set out to out & (id of n) & linefeed
+        end repeat
+        return out
+    end tell
+end tell
+end timeout
+'''
+
+
+class HubError(Exception):
+    pass
+
+
+def _osa(script, *args, timeout=700):
+    r = subprocess.run(["osascript", "-e", script, *args], capture_output=True, text=True, timeout=timeout)
+    if r.returncode != 0:
+        raise HubError((r.stderr or r.stdout).strip()[:300])
+    return r.stdout.strip()
+
+
+def hub_id():
+    if HUB_ID_FILE.exists() and HUB_ID_FILE.read_text().strip():
+        return HUB_ID_FILE.read_text().strip()
+    ids = [x.strip() for x in _osa(AS_FIND % (HUB_TITLE, ARCHIVE_HEAD)).splitlines() if x.strip()]
+    if len(ids) != 1:
+        raise HubError(f"expected exactly one note titled {HUB_TITLE} with an {ARCHIVE_HEAD} heading, found {len(ids)}")
+    HUB_ID_FILE.write_text(ids[0] + "\n")
+    return ids[0]
+
+
+class Hub:
+    """The TECHSPRESSIONISM note as read from Notes: plain text, HTML, attachment count."""
+    def __init__(self):
+        self.id = hub_id()
+        with tempfile.TemporaryDirectory() as d:
+            pp, hp = str(Path(d) / "plain.txt"), str(Path(d) / "body.html")
+            self.attachments = int(_osa(AS_READ, self.id, pp, hp) or 0)
+            self.plain = Path(pp).read_text(encoding="utf-8")
+            self.html = Path(hp).read_text(encoding="utf-8")
+
+    def region_bounds(self):
+        """(plain-text lines, index of the first line after the ARCHIVE divider, index of the end-marker line or None)."""
+        lines = self.plain.split("\n")
+        starts = [i for i in range(len(lines) - 1) if lines[i].strip() == ARCHIVE_HEAD and re.fullmatch("—{3,}", lines[i + 1].strip())]
+        if len(starts) != 1:
+            raise HubError(f'the note must have exactly one "{ARCHIVE_HEAD}" heading followed by a line of dashes (found {len(starts)})')
+        first = starts[0] + 2
+        ends = [i for i in range(first, len(lines)) if lines[i].strip().startswith(END_KEY)]
+        return lines, first, (ends[0] if ends else None)
+
+    def region_lines(self):
+        lines, first, end = self.region_bounds()
+        return lines[first:end] if end is not None else lines[first:]
+
+    def outside_text(self):
+        lines, first, end = self.region_bounds()
+        keep = lines[:first] + (lines[end + 1:] if end is not None else [])
+        return [l.strip() for l in keep if l.strip()]
+
+
+_HUB = None
+
+
+def get_hub(fresh=False):
+    global _HUB
+    if _HUB is None or fresh:
+        _HUB = Hub()
+    return _HUB
+
+
 def read_note(title):
-    old = OLD_TITLES.get(title, title)
-    r = subprocess.run(["osascript", "-e", READ % (title, title, old, old)], capture_output=True, text=True, timeout=350)
-    return r.stdout
+    """The text of one section ("Archive: <name>") of the ARCHIVE area, heading line included; empty if the section is not there yet."""
+    try:
+        lines = get_hub().region_lines()
+    except HubError as e:
+        print("could not read the note:", e)
+        return ""
+    heads = set(SECTION_ORDER)
+    out, on = [], False
+    for l in lines:
+        t = l.strip()
+        if t in heads:
+            if on:
+                break
+            on = (t == title)
+        if on:
+            out.append(l)
+    return "\n".join(out)
 
 
-def write_note(body_html, title):
-    old = OLD_TITLES.get(title, title)
+def write_note(body_html, title, on_success=None):
+    """Queue one section's HTML; flush_hub() writes them all into the note at the end of the run."""
+    PENDING[title] = (body_html, on_success)
+    return True
+
+
+def demote(h):
+    """A generated note (h1 title, h2 headings, h3 sub-headings) becomes a section: h2 title, h3 headings, bold sub-heading lines."""
+    h = re.sub(r"<h3>(.*?)</h3>", r"<p><b>\1</b></p>", h)
+    h = re.sub(r"<h2>(.*?)</h2>", r"<h3>\1</h3>", h)
+    return re.sub(r"<h1>(.*?)</h1>", r"<h2>\1</h2>", h)
+
+
+def _region_in_html(html):
+    m = list(re.finditer(r"<div>(?:<[^>]+>)*" + ARCHIVE_HEAD + r"(?:</[^>]+>)*(?:<br>)?</div>\s*<div>(?:<[^>]+>)*—{3,}(?:</[^>]+>)*(?:<br>)?</div>", html))
+    if len(m) != 1:
+        raise HubError(f"could not find the {ARCHIVE_HEAD} heading and dashes in the note's HTML ({len(m)} matches)")
+    start = m[0].end()
+    e = re.search(r"<div>(?:<[^>]+>)*" + re.escape(END_KEY) + r"[^<]*(?:</[^>]+>)*(?:<br>)?</div>", html[start:])
+    if e:
+        return start, start + e.end()
+    if re.sub(r"<[^>]+>|\s|&nbsp;", "", html[start:]):
+        raise HubError("there is content after the ARCHIVE heading but no end-of-ARCHIVE line: refusing to overwrite it")
+    return start, len(html)
+
+
+def _set_body(hub_id_, html):
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
-        f.write(body_html)
+        f.write(html)
         path = f.name
-    r = subprocess.run(["osascript", "-e", SCRIPT % (path, title, title, old, old)], capture_output=True, text=True, timeout=650)
-    Path(path).unlink(missing_ok=True)
-    print(f"{title}:", (r.stdout or r.stderr).strip())
-    return r.returncode == 0
+    try:
+        _osa(AS_WRITE, hub_id_, path)
+    finally:
+        Path(path).unlink(missing_ok=True)
+
+
+def flush_hub():
+    """Write every queued section into the note between the ARCHIVE divider and the end line; leave the rest of the note as it is."""
+    if not PENDING:
+        return False
+    missing = [t for t in SECTION_ORDER if t not in PENDING]
+    if missing:
+        print("not writing the note: no content for", missing)
+        return False
+    managed = "\n<div><br></div>\n".join(demote(PENDING[t][0]) for t in SECTION_ORDER)
+    digest = hashlib.sha256(managed.encode("utf-8")).hexdigest()
+    if "--dry-run" not in __import__("sys").argv and HUB_HASH_FILE.exists() and HUB_HASH_FILE.read_text().strip() == digest:
+        try:
+            get_hub(fresh=True).region_bounds()
+            print(f"{HUB_TITLE} note: ARCHIVE area already up to date, not rewritten")
+            PENDING.clear()
+            return True
+        except HubError:
+            pass          # the note's ARCHIVE area is not as expected: fall through to the normal write, which reports the problem
+    try:
+        hub = get_hub(fresh=True)
+        real = hub.attachments - hub.html.count("<table")          # a table counts as an attachment in Notes but survives a rewrite; images and files do not
+        if real > 0:
+            raise HubError(f"the note has {real} attachment(s) (image or file); a rewrite would drop them. Move them to another note or tell Claude.")
+        start, end = _region_in_html(hub.html)
+        new_html = hub.html[:start] + "\n" + managed + "\n<div>" + END_MARK + "</div>\n" + hub.html[end:]
+        if "--dry-run" in __import__("sys").argv:
+            Path("/tmp/hub_new.html").write_text(new_html, encoding="utf-8")
+            print(f"dry run: would write {len(new_html)} characters into the note (saved to /tmp/hub_new.html); the note was not touched")
+            PENDING.clear()
+            return False
+        before_outside = hub.outside_text()
+        HUB_BACKUPS.mkdir(parents=True, exist_ok=True)
+        (HUB_BACKUPS / time.strftime("hub-%Y%m%d-%H%M%S.html")).write_text(hub.html, encoding="utf-8")
+        for old in sorted(HUB_BACKUPS.glob("hub-*.html"))[:-20]:
+            old.unlink()
+        _set_body(hub.id, new_html)
+        after = get_hub(fresh=True)
+        if after.outside_text() != before_outside:
+            _set_body(hub.id, hub.html)
+            raise HubError("the text outside the ARCHIVE area changed during the write: the note was restored from the copy taken just before (kept in private/notes-backup/)")
+    except HubError as e:
+        print("TECHSPRESSIONISM note NOT updated:", e)
+        PENDING.clear()
+        return False
+    HUB_HASH_FILE.write_text(digest + "\n")
+    for _, cb in PENDING.values():
+        if cb:
+            cb()
+    print(f"{HUB_TITLE} note: ARCHIVE area updated ({len(SECTION_ORDER)} sections)")
+    PENDING.clear()
+    return True
 
 
 def parse():
@@ -124,19 +341,6 @@ def item_texts(phases):
     return out
 
 
-READ = '''
-with timeout of 300 seconds
-tell application "Notes"
-    tell account "iCloud"
-        if (count of (notes whose name is "%s")) > 0 then return plaintext of (first note whose name is "%s")
-        if (count of (notes whose name is "%s")) > 0 then return plaintext of (first note whose name is "%s")
-        return ""
-    end tell
-end tell
-end timeout
-'''
-
-
 def pull():
     """Compare the note with the master list. Returns (marked done, new lines)."""
     note = read_note(TITLE)
@@ -167,27 +371,6 @@ def pull():
     for t in new:
         print("  NEW:", t[:160])
     return gone, new
-
-
-SCRIPT = '''
-with timeout of 600 seconds
-set theBody to read (POSIX file "%s") as «class utf8»
-tell application "Notes"
-    tell account "iCloud"
-        if (count of (notes whose name is "%s")) > 0 then
-            set body of (first note whose name is "%s") to theBody
-            return "updated"
-        else if (count of (notes whose name is "%s")) > 0 then
-            set body of (first note whose name is "%s") to theBody
-            return "updated (renamed)"
-        else
-            make new note at default folder with properties {body:theBody}
-            return "created"
-        end if
-    end tell
-end tell
-end timeout
-'''
 
 
 REVIEW_SRC = ROOT / "private" / "archive-review.txt"
@@ -258,8 +441,8 @@ def pull_review():
 
 def write_review():
     intro, secs = parse_review()
-    if write_note(review_html(intro, secs), REVIEW_TITLE):
-        REVIEW_SNAPSHOT.write_text(json.dumps(sorted(i.strip() for _, items in secs for i in items)))
+    snap = json.dumps(sorted(i.strip() for _, items in secs for i in items))
+    write_note(review_html(intro, secs), REVIEW_TITLE, lambda: REVIEW_SNAPSHOT.write_text(snap))
 
 
 # ---- answer notes: items with an ANSWER: line Colin types into the note (master files private/archive-*.txt) --------------------------------------
@@ -354,22 +537,27 @@ def pull_answer_note(cfg):
 
 def write_answer_note(cfg):
     intro, items = parse_answer_note(cfg)
-    if write_note(answer_note_html(cfg, intro, items), cfg["title"]):
-        cfg["snap"].write_text(json.dumps([i["id"] for i in items if i["status"] != "x"]))
+    snap = json.dumps([i["id"] for i in items if i["status"] != "x"])
+    write_note(answer_note_html(cfg, intro, items), cfg["title"], lambda: cfg["snap"].write_text(snap))
 
 
 TOC_TITLE = "Archive: TOC"
 CHANGELOG_TITLE = "Archive: Changelog"
+ONE_TURN_TITLE = "Archive: One-Turn Artists"
+ONE_TURN_SRC = ROOT / "private" / "archive-one-turn-artists.txt"
+SECTION_ORDER = [TOC_TITLE, TITLE, REVIEW_TITLE, "Archive: Open Questions", "Archive: Broken Artist Links", ONE_TURN_TITLE, CHANGELOG_TITLE]
 NOTE_GUIDE = [       # (title, what it is for)
-    (TOC_TITLE, "This list: every archive note and what it is for."),
+    (TOC_TITLE, "This list: every section of the ARCHIVE area of this note and what it is for."),
     ("Archive: To Do List", "The master checklist for all four phases: what is open, in order, with my recommendations under each phase. Remove an item when it is done and it is marked done everywhere."),
     ("Archive: Review", "The UI/UX and transcript review: design problems, optimisation ideas, transcript fixes and search items, most important first."),
     ("Archive: Open Questions", "Questions only you can answer, across the whole project (decisions, Interview 1's unnamed turns, and anything else). Type your answer after ANSWER: under each one; it is read at the next sync and the item is removed once acted on."),
     ("Archive: Broken Artist Links", "Artist links from the artist index that no longer work. Type the new address, skip or remove."),
+    (ONE_TURN_TITLE, "A fixed snapshot (28 September 2026, not updated): artists with a page who speak exactly once in the whole archive, to check each against its one recording."),
     (CHANGELOG_TITLE, "Every push to the live site, numbered with 001 the first and the newest on top: what changed each time, and the snapshot to go back to (say: revert live to 00N)."),
 ]
 EXTRA_GUIDE = [
-    "Sync: all these notes are kept in step with the archive by Claude. It reads your answers and removed items first, then rewrites the notes. It runs at the start of a session, after every push, and when you say 'sync notes' or 'check my note'.",
+    "Where this is: the sections here are the 'Archive: ...' sections inside the ARCHIVE area of the TECHSPRESSIONISM note (everything between ARCHIVE and the 'end of ARCHIVE' line). Material from other chats or by hand goes in its own section BELOW that end line: a heading, a line of dashes, then the content (plain paragraphs and bullets; no attachments or images in this note, the sync cannot rewrite a note that has them).",
+    "Sync: the archive sections are kept in step with the archive by Claude. It reads your answers and removed items first, then rewrites only the ARCHIVE area. It runs at the start of a session, after every push, and when you say 'sync notes' or 'check my note'.",
     "Files on your Desktop: Techspressionism-Archive-Checklist.txt (the checklist as plain text), Yoast-video-redirects-LIVE.csv, Yoast-video-redirects-STAGING.csv (do not use publicly), Yoast-listing-page-redirects-OPTIONAL.csv, Archive-UI-UX-and-Transcript-Review.txt.",
     "Addresses: live https://techspressionism.com/archive/ ; staging https://techspressionism.github.io/techspressionism-archive/",
 ]
@@ -378,17 +566,27 @@ EXTRA_GUIDE = [
 def toc_html():
     e = html.escape
     out = ["<h1>" + e(TOC_TITLE) + "</h1>"]
-    out += [f"<p><b>{e(t)}</b><br>{e(d)}</p>" for t, d in NOTE_GUIDE]
+    out += [f"<p><b>{e(t)}</b> - {e(d)}</p>" for t, d in NOTE_GUIDE]      # one line each: a line equal to a section title would be taken for that section's start
     out += [f"<p>{e(x)}</p>" for x in EXTRA_GUIDE]
     return "\n".join(out)
 
 
+def one_turn_html():
+    e = html.escape
+    lines = ONE_TURN_SRC.read_text(encoding="utf-8").splitlines()
+    out = [f"<h1>{e(ONE_TURN_TITLE)}</h1>", "<p><i>Snapshot of 28 September 2026; not updated automatically.</i></p>"]
+    items = [l for l in lines if " \u2014 http" in l]
+    out += [f"<p>{e(l)}</p>" for l in lines if " \u2014 http" not in l]
+    out.append("<ul>" + "".join(f"<li>{e(l)}</li>" for l in items) + "</ul>")
+    return "\n".join(out)
+
+
 def write_static_notes():
-    """Notes that are only generated (no answers to read back): the table of contents and the changelog."""
+    """Sections that are only generated (no answers to read back): the table of contents, the one-turn snapshot and the changelog."""
     import sys
     sys.path.insert(0, str(ROOT / "scripts"))
     import changelog
-    for title, body in ((TOC_TITLE, toc_html()), (CHANGELOG_TITLE, changelog.render_html())):
+    for title, body in ((TOC_TITLE, toc_html()), (ONE_TURN_TITLE, one_turn_html() if ONE_TURN_SRC.exists() else "<h1>" + html.escape(ONE_TURN_TITLE) + "</h1><p>Nothing here.</p>"), (CHANGELOG_TITLE, changelog.render_html())):
         write_note(body, title)
 
 
@@ -408,9 +606,10 @@ def main():
         if cfg["src"].exists():
             write_answer_note(cfg)
     phases = parse()
-    if write_note(build_html(phases), TITLE):
-        SNAPSHOT.write_text(json.dumps(sorted(item_texts(phases))))
+    snap = json.dumps(sorted(item_texts(phases)))
+    write_note(build_html(phases), TITLE, lambda: SNAPSHOT.write_text(snap))
     write_static_notes()
+    flush_hub()
 
 
 if __name__ == "__main__":
