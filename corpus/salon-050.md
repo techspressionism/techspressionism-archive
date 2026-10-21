@@ -563,7 +563,7 @@ Sure. Yeah, yeah. I think it would transfer to wood and then you can put a clear
 
 ## Cynthia DiDonato [01:16:21](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4581s)
 
-Yeah. All right. I'm going to try that. I also wanted to ask Vernada about where does one get vegan leather?
+Yeah. All right. I'm going to try that. I also wanted to ask Verneda about where does one get vegan leather?
 
 ## Verneda Lights [01:16:33](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4593s)
 
@@ -573,7 +573,7 @@ And because she's Jewish as well as Latinx. And Contrado did a fantastic job of 
 
 ## Renata Janiszewska [01:17:50](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4670s)
 
-Vernada can you tell us how Contrado is spelled please?
+Verneda can you tell us how Contrado is spelled please?
 
 ## Verneda Lights [01:17:54](https://www.youtube.com/watch?v=zj79kXJHdFU&t=4674s)
 

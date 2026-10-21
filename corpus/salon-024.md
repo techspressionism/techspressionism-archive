@@ -237,7 +237,7 @@ I use vertical loom, which because at Bombay, we have a space problem. So I have
 
 ## Davonte Bradley [46:57](https://www.youtube.com/watch?v=fEWi09zryY0&t=2817s)
 
-Okay. And then we have question from Vernada a little bit later. Okay. She wants to know if you could say a little bit more about the piece that had the woven piece that was like blue and gold. And if you could speak a little bit more about your inspiration and, you know, thoughts on that particular piece.
+Okay. And then we have question from Verneda a little bit later. Okay. She wants to know if you could say a little bit more about the piece that had the woven piece that was like blue and gold. And if you could speak a little bit more about your inspiration and, you know, thoughts on that particular piece.
 
 ## Malavika Mandal Andrew [47:24](https://www.youtube.com/watch?v=fEWi09zryY0&t=2844s)
 

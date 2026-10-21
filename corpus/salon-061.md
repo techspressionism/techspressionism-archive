@@ -65,7 +65,7 @@ Venture. It tells a story in the story that it tells is that the conversation is
 
 So within it, you see the various manifestations of how the butterfly is. And then you see the butterfly dreams itself to be and to be becoming. But then as the butterfly forms, it becomes transformed and co-mingled, mixed DNA wise with the human. And at the end, there's both human and butterfly. So then we have the paradigm. Is the caterpillar dreaming of becoming a butterfly and a human? Or is the human dreaming of becoming a butterfly and a caterpillar? So I'm going to share the screen and the story for you.
 
-Can you see? Yep. Okay. Thank you. Thank you. Thank you. All right. That's it. Beautiful. Thank you. Awesome. Thank you, Vernada. So I think maybe what we'll do as far as comments or discourse goes is we'll have everyone do their presentations, and then we can sort of open it up for people to ask the artist who presented questions sort of at a group level, just so it doesn't get sort of backed up. So thank you, Vernada.
+Can you see? Yep. Okay. Thank you. Thank you. Thank you. All right. That's it. Beautiful. Thank you. Awesome. Thank you, Verneda. So I think maybe what we'll do as far as comments or discourse goes is we'll have everyone do their presentations, and then we can sort of open it up for people to ask the artist who presented questions sort of at a group level, just so it doesn't get sort of backed up. So thank you, Verneda.
 
 All right. Great. Next up is Tim Fabian.
 

@@ -59,7 +59,7 @@ Andrea, who I mentioned early on, I just reached out to him recently. A piece, a
 
 ## Davonte Bradley [08:24](https://www.youtube.com/watch?v=sfMxOAC97Yo&t=504s)
 
-Yeah, I remember that, too. It's crazy. All right. Thank you for that. And again, that link is in the chat. If you have that pulled up, you can go ahead and click that. If you are a viewer on YouTube. Well, we'll see. All right. Moving right along with Bernada.
+Yeah, I remember that, too. It's crazy. All right. Thank you for that. And again, that link is in the chat. If you have that pulled up, you can go ahead and click that. If you are a viewer on YouTube. Well, we'll see. All right. Moving right along with Verneda.
 
 ## Verneda Lights [08:49](https://www.youtube.com/watch?v=sfMxOAC97Yo&t=529s)
 
@@ -99,7 +99,7 @@ Money happened.
 
 ## Davonte Bradley [12:10](https://www.youtube.com/watch?v=sfMxOAC97Yo&t=730s)
 
-Yeah, that. All right. Thank you, Vernetta. All right.
+Yeah, that. All right. Thank you, Verneda. All right.
 
 ## Renata Janiszewska [12:18](https://www.youtube.com/watch?v=sfMxOAC97Yo&t=738s)
 

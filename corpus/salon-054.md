@@ -417,7 +417,7 @@ Okay.
 
 ## Michael Pierre Price [47:26](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2846s)
 
-Let's see. Hey, Davo. Can I ask Vernada a question? Yeah, sure. So Vernada, good
+Let's see. Hey, Davo. Can I ask Verneda a question? Yeah, sure. So Verneda, good
 
 ## Cynthia DiDonato [47:37](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=2857s)
 
@@ -545,7 +545,7 @@ All right, Cynthia.
 
 ## Cynthia DiDonato [57:15](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3435s)
 
-Well, first of all, I want to say if Michael and Vernetta get together and Max, I would love to join. All right.
+Well, first of all, I want to say if Michael and Verneda get together and Max, I would love to join. All right.
 
 ## Michael Pierre Price [57:24](https://www.youtube.com/watch?v=NFt4AfP-aRA&t=3444s)
 

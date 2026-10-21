@@ -23,7 +23,7 @@ languages: ["en"]
 
 ## Colin Goldberg [00:02](https://www.youtube.com/watch?v=8x8eIkbpHws&t=2s)
 
-Hello, my name is Colin Goldberg, and today is Friday, February 3, 2023. That's 2-3-2-3. I'm here today with artist Verneda Lights, and we're going to be having a little conversation, and I'm going to start out with some general questions. Vernada, could you tell us a little bit about your background, such as where you were born, where you live and practice now, and your cultural influences?
+Hello, my name is Colin Goldberg, and today is Friday, February 3, 2023. That's 2-3-2-3. I'm here today with artist Verneda Lights, and we're going to be having a little conversation, and I'm going to start out with some general questions. Verneda, could you tell us a little bit about your background, such as where you were born, where you live and practice now, and your cultural influences?
 
 ## Verneda Lights [00:28](https://www.youtube.com/watch?v=8x8eIkbpHws&t=28s)
 
@@ -367,7 +367,7 @@ And of course there are many who don't care. They just want to make money. You k
 
 ## Colin Goldberg [01:03:20](https://www.youtube.com/watch?v=8x8eIkbpHws&t=3800s)
 
-All right. Well, that's certainly a great question. And I think that's something worth heading towards. So I appreciate your time today, Vernada. And look forward to seeing more of your work. And also to our collaboration. Which has been shaping up a little bit with the journal. More will be revealed when we're with regards to that. But.
+All right. Well, that's certainly a great question. And I think that's something worth heading towards. So I appreciate your time today, Verneda. And look forward to seeing more of your work. And also to our collaboration. Which has been shaping up a little bit with the journal. More will be revealed when we're with regards to that. But.
 
 Absolutely.
 

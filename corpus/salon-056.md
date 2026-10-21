@@ -43,7 +43,7 @@ flags:
 
 Hello, my name is Colin Goldberg and welcome to the Techspressionist Salon Number 56. Today is Wednesday, November 9th, and the theme of tonight's salon is cultural influences. And that was suggested by Giovanna, who's here with us tonight. And the way it's going to work is, you know, if you're interested in presenting your work, please use the reactions button at the bottom of the Zoom grid window to raise your hand. And I will call on artists in the order that I see them in the queue there.
 
-And again, it does not need to be any kind of real formal presentation. Although if you did create a formal presentation. That's great, too. You're more than welcome to share your screen and pull work up either off your desktop or off the web or whatever you so choose. You know, and the topic of cultural influences is also, you know, quite widely open to interpretation. So without further ado, I see on the top of my list is Vernada. So Vernada, do you want to kick us off?
+And again, it does not need to be any kind of real formal presentation. Although if you did create a formal presentation. That's great, too. You're more than welcome to share your screen and pull work up either off your desktop or off the web or whatever you so choose. You know, and the topic of cultural influences is also, you know, quite widely open to interpretation. So without further ado, I see on the top of my list is Verneda. So Verneda, do you want to kick us off?
 
 ## Verneda Lights [01:23](https://www.youtube.com/watch?v=I7-nXjL2koA&t=83s)
 
@@ -667,7 +667,7 @@ I'll try to be as brief as possible here.
 
 ## Michael Pierre Price [01:37:45](https://www.youtube.com/watch?v=I7-nXjL2koA&t=5865s)
 
-Yeah, Vernetta, I... It's interesting because the little anecdote that Colin shared about what his grandma said to him, you know, about trying to cut corners to do something immediately in, I think, a lot of indigenous cultures. And I know for my Ojibwe connection, because it's oral tradition, there's a really, really different way of saying it. There's a really different way of teaching and learning.
+Yeah, Verneda, I... It's interesting because the little anecdote that Colin shared about what his grandma said to him, you know, about trying to cut corners to do something immediately in, I think, a lot of indigenous cultures. And I know for my Ojibwe connection, because it's oral tradition, there's a really, really different way of saying it. There's a really different way of teaching and learning.
 
 It's very intimate. It's teacher to student directly. Where Western culture, we've gotten used to the power of written language. And you can learn at a distance that way. With oral traditions, the history comes through from your teacher to you. And then, if you teach, then you carry that on. But you do it from a new vantage point because you're a different human being than your teacher was and that teacher. And so there's a continuity. But it's a living thing. It's not the dead script from...
 

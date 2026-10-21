@@ -55,7 +55,7 @@ Verneda Lights is a polymath artist, writer, and retired physician whose practic
 
 A cultural griot of the Gullah Geechee Nation, Brenada grounds her artistic practice in the preservation of ancestral memory, oral history, and diasporic identity. Identifying as a Techspressionist, she engages artificial intelligence as a collaborator in multimodal reasoning. Integrating text, image synthesis, narrative worldbuilding, and digital painting to explore identity, spirituality, and speculative futures. Her AI-driven projects have received international validation.
 
-She was twice selected to present at the Yale Ultraspace Symposium 2023-2024, where her acclaimed AI narrative project, Caterpillar Dreams, a speculative meditation on transformation and consciousness, was later published in the Yale Ultraspace printed volume. Her AI artworks were also featured in Merely Random, a 6-month immersive exhibition at Art in Space Gallery. Welcome, Bernada. I look forward to your presentation.
+She was twice selected to present at the Yale Ultraspace Symposium 2023-2024, where her acclaimed AI narrative project, Caterpillar Dreams, a speculative meditation on transformation and consciousness, was later published in the Yale Ultraspace printed volume. Her AI artworks were also featured in Merely Random, a 6-month immersive exhibition at Art in Space Gallery. Welcome, Verneda. I look forward to your presentation.
 
 ## Verneda Lights [04:32](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=272s)
 
@@ -235,7 +235,7 @@ Wow, Renata, that's spectacular. Yeah, wow. I think we're… I'm hoping we'll ha
 
 ## Colin Goldberg [47:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=2825s)
 
-Hey, what's up, Michael? Thank you for, taking the moderation role, and thanks, Vernada, for that great introduction to the topic. Renat, I really enjoyed Checking out that work, too. So yeah, you know, AI, is something that, I started experimenting with, I guess, with text, as far as generating text. It might have been, I don't know, 2021 or something like that. When ChatGPT first came out, I started asking it to write haikus. For me, and then I was posting, like, an image out of my archive, one of my old art images, and I would try to give it a prompt that related to the image, and then, post the image with the… The AI, and I started tagging them, with the hashtag Daily AIHiku. And then, you know, I went on with that for a while until I kind of… you know, that was… that was spent, that… that idea. But then, you know, I guess I resumed using it when I started playing around with Midjourney, and I've been using AI, to create the graphics for all of our salons, the sort of promo graphics. I'm just gonna share my screen here and kind of jump into some of this stuff, I want to share, so… can you guys see my screen okay?
+Hey, what's up, Michael? Thank you for, taking the moderation role, and thanks, Verneda, for that great introduction to the topic. Renat, I really enjoyed Checking out that work, too. So yeah, you know, AI, is something that, I started experimenting with, I guess, with text, as far as generating text. It might have been, I don't know, 2021 or something like that. When ChatGPT first came out, I started asking it to write haikus. For me, and then I was posting, like, an image out of my archive, one of my old art images, and I would try to give it a prompt that related to the image, and then, post the image with the… The AI, and I started tagging them, with the hashtag Daily AIHiku. And then, you know, I went on with that for a while until I kind of… you know, that was… that was spent, that… that idea. But then, you know, I guess I resumed using it when I started playing around with Midjourney, and I've been using AI, to create the graphics for all of our salons, the sort of promo graphics. I'm just gonna share my screen here and kind of jump into some of this stuff, I want to share, so… can you guys see my screen okay?
 
 Yeah. Okay, cool. So… I scrolled back, if you go to our salon page, which is just Techspressionism.com slash salon, you can see we're on number 103, and I scrolled all the way down to… 51, which is 2022. I think that's our first salon that was dedicated to the topic of AI, and right around that time is when I started actually using AI, these might have been, collages from some stock photography, but this one, I believe, was a mid-journey generated image.
 
@@ -457,7 +457,7 @@ So, I like to play around. Amongst the ones that, you know, that I use, I have a
 
 ## Michael Pierre Price [01:18:05](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4685s)
 
-Lee… Lee, to follow up on Vernada's point. I mean, look at your work. I mean, look at the innovative way you use a camera, and most people use it for taking family photos, and so I think AI allows you to Expand beyond what most people use AI these days for, which is, you know, very photographic-looking sorts of images, novelty, but it's… it's within a pretty narrow Bandwidth that a lot of the AI gets geared towards, and I think artists are the ones that push the envelope. I mean, just take a look at what was done today.
+Lee… Lee, to follow up on Verneda's point. I mean, look at your work. I mean, look at the innovative way you use a camera, and most people use it for taking family photos, and so I think AI allows you to Expand beyond what most people use AI these days for, which is, you know, very photographic-looking sorts of images, novelty, but it's… it's within a pretty narrow Bandwidth that a lot of the AI gets geared towards, and I think artists are the ones that push the envelope. I mean, just take a look at what was done today.
 
 I mean, most of the work you saw today, you're not gonna find on the homepage of Midjourney or some of the other, you know, AI, Websites, because we're sort of at the far end of the bell curve of how we're using these tools.
 
@@ -475,7 +475,7 @@ Yeah. Colin has his hand raised, but Cynthia's also raising her hand, so I'll go
 
 ## Cynthia Beth Rubin [01:19:24](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4764s)
 
-Okay, I know that early on, Renata, you were, trying to overcome racial biases within AI. Yes. So this is a question for you, and also for Renata, because I noticed that Renata, in the piece she showed us had some Asian A number of Asian characters, and a couple, dark-skinned people that I don't know, African American, African origin, whatever. And I hadn't seen that very much before. So this is kind of a question for both of you. Are you finding that AI is more open to, racial… more… more open racially?
+Okay, I know that early on, Verneda, you were, trying to overcome racial biases within AI. Yes. So this is a question for you, and also for Renata, because I noticed that Verneda, in the piece she showed us had some Asian A number of Asian characters, and a couple, dark-skinned people that I don't know, African American, African origin, whatever. And I hadn't seen that very much before. So this is kind of a question for both of you. Are you finding that AI is more open to, racial… more… more open racially?
 
 ## Verneda Lights [01:20:10](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=4810s)
 
@@ -631,7 +631,7 @@ You're welcome.
 
 ## Michael Pierre Price [01:36:22](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5782s)
 
-Well, I think we're at kind of a closing point. So I went on… I want to thank today's presenters, Renada, Renata, Colin, and Sahar. And for the good questions. Thanks, everybody.
+Well, I think we're at kind of a closing point. So I went on… I want to thank today's presenters, Verneda, Renata, Colin, and Sahar. And for the good questions. Thanks, everybody.
 
 ## Bob Prata [01:36:37](https://www.youtube.com/watch?v=QT6X7WrTTmA&t=5797s)
 

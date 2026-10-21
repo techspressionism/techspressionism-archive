@@ -1407,6 +1407,13 @@ PLAYER_JS = """<script>
     window.scrollTo({ top: Math.max(0, r.top + window.pageYOffset - h - 16), behavior: 'smooth' });
     return true;
   }
+  function revealVideoSoon() {      // a link with a #t... address: the browser's own jump to that passage can land after the first scroll, so repeat once the page has settled (unless the reader has started scrolling)
+    if (!revealVideo()) return false;
+    var again = function () { if (!lastUser) revealVideo(); };
+    if (document.readyState === 'complete') setTimeout(again, 250);
+    else window.addEventListener('load', function () { setTimeout(again, 150); setTimeout(again, 1000); });
+    return true;
+  }
   function reading(on, scroll) {
     layout.classList.toggle('reading', on);
     btn.setAttribute('aria-expanded', String(on));
@@ -1461,6 +1468,13 @@ PLAYER_JS = """<script>
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
+    // Desktop shows the video, not the passage, for a "watch" link with a #t... address. The browser jumps to that address by itself once the page
+    // has loaded, which would carry the page far down the transcript, so the address is set aside for now and put back a little later.
+    var hashId = location.hash.slice(1), origHref = location.href;
+    if (autoplay && hashId && desktopLayout()) {
+      try { history.replaceState(null, '', location.pathname + location.search); } catch (e) {}
+      window.addEventListener('load', function () { setTimeout(function () { try { history.replaceState(null, '', origHref); } catch (e) {} }, 1500); });
+    }
     if (/[?&]watch=1(&|$)/.test(location.search)) setTimeout(function () {    // arrived from a category page's "Watch with transcript" (no at=) or an artist page's WATCH (at= their words): same as pressing it here (deferred so the player code below has finished setting up)
       var wa = qs.get('at'), wat = wa !== null ? parseFloat(wa) : NaN;
       reading(true, false);
@@ -1473,10 +1487,11 @@ PLAYER_JS = """<script>
       } else { revealVideo(); ensureFreshPlayer(); if (TOUCH_STACKED) barBelowVideo(); }
     }, 0);
     function fromHash() {                    // a search result or shared link points at a moment: open the transcript there
-      var id = location.hash.slice(1), el = id && document.getElementById(id);
+      var id = hashId || location.hash.slice(1), el = id && document.getElementById(id);
+      hashId = '';
       if (el && document.getElementById('transcript').contains(el)) {
         reading(true, false);
-        if (!(autoplay && revealVideo())) centerTurn(el, false);      // desktop "watch" from a search result: show the video, not just the passage
+        if (!(autoplay && revealVideoSoon())) centerTurn(el, false);      // desktop "watch" from a search result: show the video, not just the passage
         if (autoplay) {                      // "watch" from a search result, if the browser allows the video to start
           autoplay = false;
           if (cited) setTimeout(startCited, 300);
@@ -1538,7 +1553,7 @@ PLAYER_JS = """<script>
   }
   document.addEventListener('click', function (ev) {
     var c = ev.target.closest && ev.target.closest('.continue-btn');
-    if (c) { stopAt = null; c.hidden = true; if (c.closest('.para-cite')) closeParaCite(); if (player) tryPlay(); return; }
+    if (c) { stopAt = null; c.hidden = true; if (c.closest('.para-cite')) closeParaCite(); revealVideo(); if (player) tryPlay(); return; }
     var b = ev.target.closest && ev.target.closest('.copy-cite');
     if (b && navigator.clipboard) {
       ev.preventDefault();
@@ -1857,7 +1872,11 @@ PLAYER_JS = """<script>
     if (hint && !hint.hidden && st === 1 && !player.isMuted()) hint.hidden = true;
     if (stopAt !== null && playing && t >= stopAt) {         // the cited text is over: stop, and offer to carry on
       player.pauseVideo(); stopAt = null;
-      if (continueBtn) continueBtn.hidden = false;
+      if (continueBtn) {
+        continueBtn.hidden = false;
+        var cc = continueBtn.closest('.cite-card');
+        if (cc && desktopLayout()) { followPause = true; cc.scrollIntoView({ behavior: 'smooth', block: 'center' }); }      // desktop: the video is not pinned, so bring the citation card and its Continue button into view
+      }
       return;
     }
     if (forced !== null) {

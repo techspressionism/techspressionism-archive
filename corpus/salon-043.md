@@ -185,7 +185,7 @@ That's really the point.
 
 ## Roz Dimon [33:40](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2020s)
 
-Okay, we'll talk some more later. Thank you so much. Verneda Lights, so glad Vernada could be with us. Found your art very interesting at the show and I'll just say, yeah, I liked it when you said something y'all or something. I come from the South and I've heard that the South, y'all is now a cool word to use. I don't know if you've heard that Vernada, but the reason it is, it used to be very uncool, but now it's genderless. So y'all is the way, take it away.
+Okay, we'll talk some more later. Thank you so much. Verneda Lights, so glad Verneda could be with us. Found your art very interesting at the show and I'll just say, yeah, I liked it when you said something y'all or something. I come from the South and I've heard that the South, y'all is now a cool word to use. I don't know if you've heard that Verneda, but the reason it is, it used to be very uncool, but now it's genderless. So y'all is the way, take it away.
 
 ## Verneda Lights [34:10](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2050s)
 
@@ -197,7 +197,7 @@ I can't hear it all. I don't know if anyone else can hear it. Anyone else is hav
 
 ## Roz Dimon [34:23](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2063s)
 
-Little bit. If you can make it a little louder, Vernada, that'd be great.
+Little bit. If you can make it a little louder, Verneda, that'd be great.
 
 ## Verneda Lights [34:27](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2067s)
 
@@ -245,7 +245,7 @@ And I'll stop right there.
 
 ## Roz Dimon [43:58](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2638s)
 
-Thank you, Vernetta. What an interesting background with the poetry as well and medical. It's an interesting alliance. Thank you so much.
+Thank you, Verneda. What an interesting background with the poetry as well and medical. It's an interesting alliance. Thank you so much.
 
 ## Verneda Lights [44:09](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2649s)
 
@@ -277,7 +277,7 @@ Yeah. Should be there.
 
 ## Roz Dimon [45:03](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2703s)
 
-Vernetta, go ahead. Are you doing all right there, Karen? Yeah, I'm doing fine. I'm doing fine.
+Verneda, go ahead. Are you doing all right there, Karen? Yeah, I'm doing fine. I'm doing fine.
 
 ## Karen LaFleur [45:11](https://www.youtube.com/watch?v=KyBLFghq4N0&t=2711s)
 

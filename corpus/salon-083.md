@@ -162,7 +162,7 @@ So there was. I'm. If Karen denotes something. Steve, I think, denotes A very av
 
 ## Colin Goldberg [28:04](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1684s)
 
-Right on. Well, you know, every every name or word has its own individual personal connotation. So I just wanted to add a little footnote there, so you know no feathers are ruffled out there in the ether, or you know. What have you so? Alright! Let me. Just see. To Istan Vernada.
+Right on. Well, you know, every every name or word has its own individual personal connotation. So I just wanted to add a little footnote there, so you know no feathers are ruffled out there in the ether, or you know. What have you so? Alright! Let me. Just see. To Istan Verneda.
 
 ## Verneda Lights [28:33](https://www.youtube.com/watch?v=ekZHtu7TM9Q&t=1713s)
 

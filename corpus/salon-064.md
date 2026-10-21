@@ -334,7 +334,7 @@ And of course, you know, Photoshop and any kind of layering program, you can tur
 
 ## Unattributed [58:46](https://www.youtube.com/watch?v=hyYpGwwt2G0&t=3526s)
 
-Indeed. Great question. Vernetta. Thanks. Yeah. Well, any, any other questions? Yeah. I have another question. Sure. Okay. Well, do you find in dealing with multiple views of reality, have you ever encountered the creation of a picture where phenomenologically you could say you had projected into the future or captured something that hadn't happened yet? Or, you know, what are some of the things that you've seen in the past?
+Indeed. Great question. Verneda. Thanks. Yeah. Well, any, any other questions? Yeah. I have another question. Sure. Okay. Well, do you find in dealing with multiple views of reality, have you ever encountered the creation of a picture where phenomenologically you could say you had projected into the future or captured something that hadn't happened yet? Or, you know, what are some of the things that you've seen in the past?
 
 I mean, I think I've found like a, a quasi crystal ball type function for what you're doing or do the layers just remain static in time? If that's making sense.
 

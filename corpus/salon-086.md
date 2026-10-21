@@ -306,7 +306,7 @@ Honestly, you know, I think that the inspiration for the piece was probably subc
 
 Described their work as about paint. It wasn't about something that was preconceived and it was a reflection of their own potentially mental or emotional state at that time. So kind of when I talk a little bit in the book about the idea of automatic drawing, which is what this surrealism did and most of these pieces were done in that sort of fashion where I started out and just without real aim or discrete inspiration. And they just kept coming back and forth. Kind of evolved from, you know, the process. So.
 
-Colin, are you able to answer a question from Vernetta? She has her hand up. Oh, no. No, I don't have a question. I put my hand up to discuss my artwork when everyone is finished. Okay. Okay. Thank you, Vernetta, for clarifying that. So, yeah, we are going to go over time because this is a special hybrid event and a very unique one.
+Colin, are you able to answer a question from Verneda? She has her hand up. Oh, no. No, I don't have a question. I put my hand up to discuss my artwork when everyone is finished. Okay. Okay. Thank you, Verneda, for clarifying that. So, yeah, we are going to go over time because this is a special hybrid event and a very unique one.
 
 Colin, is that it for you? Yeah. Let me just stop my share. Yep. That's it for me.
 

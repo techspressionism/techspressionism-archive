@@ -46,7 +46,7 @@ Take it away. Alright, thank you, Colin, and thank you everyone who's here. Real
 
 And I'm really asking, floating questions. I really want to ask how artistic practice can illuminate question and reimagine the signals and the manipulative forces that bind us, because I feel like as Techspressionists, as people who touch media, make media, can parse media, we are in a unique position. So, everyone I've invited today is someone who really blows me away with the amount of activism that is present in their work and social consciousness, and you all approach it in different and courageous ways, and I'm very grateful to hear from all of you.
 
-I would like to, ask, Vernada to go first, if that's cool. Verneda Lights is a visual artist, photographer, performance poet, author, retired physician, and griot of South Carolina's… oh, I'm gonna.
+I would like to, ask, Verneda to go first, if that's cool. Verneda Lights is a visual artist, photographer, performance poet, author, retired physician, and griot of South Carolina's… oh, I'm gonna.
 
 ## Verneda Lights [02:24](https://www.youtube.com/watch?v=1cuvfkJw3rs&t=144s)
 
@@ -62,7 +62,7 @@ I'm like, GET!
 
 ## Erin Ko [02:27](https://www.youtube.com/watch?v=1cuvfkJw3rs&t=147s)
 
-Okay, nation! Goa, people! Body of work, I think that's so cool, and I hope you speak on this. Her body of work spans from digital traditional fine art and surface pattern design. Her most recent work focuses on traditional and abstract portraiture as a tool for storytelling and stress management and caregiving situations. And her work has been exhibited at Albrecht Kemper Museum of Art, Edward M. Kennedy Institute, and Harlem Fine Arts Show. Please take it away, Bernada.
+Okay, nation! Goa, people! Body of work, I think that's so cool, and I hope you speak on this. Her body of work spans from digital traditional fine art and surface pattern design. Her most recent work focuses on traditional and abstract portraiture as a tool for storytelling and stress management and caregiving situations. And her work has been exhibited at Albrecht Kemper Museum of Art, Edward M. Kennedy Institute, and Harlem Fine Arts Show. Please take it away, Verneda.
 
 ## Verneda Lights [02:56](https://www.youtube.com/watch?v=1cuvfkJw3rs&t=176s)
 

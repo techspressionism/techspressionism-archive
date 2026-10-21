@@ -305,7 +305,7 @@ I don't know if I'm going to be able to do that because these are still fairly s
 
 ## Renata Janiszewska [53:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3185s)
 
-Go. Thank you, Michael. One thing that I'm always really impressed by is how much you can cram into a very small canvas. Michael and I have had numerous discussions about the limitations of these engines in terms of how they work. And I think that's one of the things that I've been really impressed by is how much of a part of the resolution that they can achieve at the moment. Yeah. Before we open up to discussion, Vernada was going to go next.
+Go. Thank you, Michael. One thing that I'm always really impressed by is how much you can cram into a very small canvas. Michael and I have had numerous discussions about the limitations of these engines in terms of how they work. And I think that's one of the things that I've been really impressed by is how much of a part of the resolution that they can achieve at the moment. Yeah. Before we open up to discussion, Verneda was going to go next.
 
 ## Michael Pierre Price [53:40](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3220s)
 
@@ -337,7 +337,7 @@ Thank you.
 
 ## Renata Janiszewska [01:01:02](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3662s)
 
-Thank you, Vernada. Echoing some of the concerns that Michael raised earlier.
+Thank you, Verneda. Echoing some of the concerns that Michael raised earlier.
 
 ## Unattributed [01:01:09](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3669s)
 
@@ -349,7 +349,7 @@ Well, I agree with Michael.
 
 ## Michael Pierre Price [01:01:14](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3674s)
 
-Yeah, and I'm glad that Vernada brought that up as well. And I'm not suggesting anything malicious. Yeah. I mean I'm not saying that it can't be as well, but I think this notion of bias that we're not thinking about can be very infective across all forms of artwork and in every aspect of our lives. And I know sometimes people hate hearing that. But darn it. You know? We can do better. And we just need to be consciously aware of that as artists what our own experiences and biases are. We can't negate them. But we can be conscious of that and then hopefully act responsibly.
+Yeah, and I'm glad that Verneda brought that up as well. And I'm not suggesting anything malicious. Yeah. I mean I'm not saying that it can't be as well, but I think this notion of bias that we're not thinking about can be very infective across all forms of artwork and in every aspect of our lives. And I know sometimes people hate hearing that. But darn it. You know? We can do better. And we just need to be consciously aware of that as artists what our own experiences and biases are. We can't negate them. But we can be conscious of that and then hopefully act responsibly.
 
 ## Verneda Lights [01:02:14](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=3734s)
 
@@ -523,7 +523,7 @@ Oh, no. Renata, go ahead.
 
 ## Cynthia DiDonato [01:22:05](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=4925s)
 
-You talked about the cautionary tale. You had an example of the cautionary tale, Michael. And I think the cautionary tale is for AI period that we need as Vernetta pointed out a, we need a watchdog that we need to be our own watchdog, whether it's our art or our what's happening in our society. Given the. Potential. Of AI.
+You talked about the cautionary tale. You had an example of the cautionary tale, Michael. And I think the cautionary tale is for AI period that we need as Verneda pointed out a, we need a watchdog that we need to be our own watchdog, whether it's our art or our what's happening in our society. Given the. Potential. Of AI.
 
 We have to, we have to some way. Ferret out what works, what doesn't work, where it is reflecting things that are not positive with things that drag down our society. So it's, it's, it's got to be watched in so many areas, not just in art, but in medicine. You know, politics. Commercials, what have you. It's so easy to turn on the machine and make something happen. And who's that without giving any thought to where it comes from, why it exists and who's at the helm.
 
@@ -541,7 +541,7 @@ And that is, that is such a base assumption. Yeah. In other words, so what, what
 
 ## Colin Goldberg [01:23:53](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5033s)
 
-I think, you know, seeing Vernetta's images, it made me think. I think how the images themselves are an interesting artistic commentary on the bias that is, you know, it would be, it would be a good idea for a show, you know, for, for people to put together images that illustrate bias that are AI generated images. I mean, really like to me, the best way to, to, to show somebody something is just to show them a picture of it. Right. You know, you show them, Hey, here, here's what happens when you type in dog and came out cat. And then you type in this and people are like, huh. You know, and it's like, it doesn't require any further verbal or, or, or written explanation. People just look at it and say, you know what, that's, that's, that's whack.
+I think, you know, seeing Verneda's images, it made me think. I think how the images themselves are an interesting artistic commentary on the bias that is, you know, it would be, it would be a good idea for a show, you know, for, for people to put together images that illustrate bias that are AI generated images. I mean, really like to me, the best way to, to, to show somebody something is just to show them a picture of it. Right. You know, you show them, Hey, here, here's what happens when you type in dog and came out cat. And then you type in this and people are like, huh. You know, and it's like, it doesn't require any further verbal or, or, or written explanation. People just look at it and say, you know what, that's, that's, that's whack.
 
 ## Michael Pierre Price [01:24:41](https://www.youtube.com/watch?v=xTm1wXYzdCI&t=5081s)
 

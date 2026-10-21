@@ -201,7 +201,7 @@ Thank you.
 
 ## Renata Janiszewska [27:43](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1663s)
 
-Thank you very much for sharing with us today, Vernetta. Jaime Bautista is our next presenter.
+Thank you very much for sharing with us today, Verneda. Jaime Bautista is our next presenter.
 
 ## Jaime Bautista [27:52](https://www.youtube.com/watch?v=ACwcZ2XHb9E&t=1672s)
 

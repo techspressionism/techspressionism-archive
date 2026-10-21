@@ -718,7 +718,7 @@ Okay.
 
 ## Davonte Bradley [01:00:00](https://www.youtube.com/watch?v=sbMbH55efqM&t=3600s)
 
-But I guess I can, oh, well, nevermind. We got one in the queue. Vernada.
+But I guess I can, oh, well, nevermind. We got one in the queue. Verneda.
 
 ## Unattributed [01:00:09](https://www.youtube.com/watch?v=sbMbH55efqM&t=3609s)
 

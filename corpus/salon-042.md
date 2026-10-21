@@ -1063,7 +1063,7 @@ And I taught myself the paint box by creating art on it and, got hired by this c
 
 ## Colin Goldberg [01:21:20](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4880s)
 
-Thanks Dalton. And, before we move on to Vernetta, I realized that there's just a couple of people, that are in the, I saw, shared in the chat Reese Schroeder, who's in the real as well as, Stephanie Sydney, and Giovanna. I just want to make sure that anyone that's present, gets the opportunity to introduce themselves. So, Stephanie, I see you're on there. So do you want to start?
+Thanks Dalton. And, before we move on to Verneda, I realized that there's just a couple of people, that are in the, I saw, shared in the chat Reese Schroeder, who's in the real as well as, Stephanie Sydney, and Giovanna. I just want to make sure that anyone that's present, gets the opportunity to introduce themselves. So, Stephanie, I see you're on there. So do you want to start?
 
 ## Stephanie Sydney [01:21:46](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=4906s)
 
@@ -1131,7 +1131,7 @@ Thank you, Patrick.
 
 ## Roz Dimon [01:26:35](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5195s)
 
-So now we're moving across in the second room to Vernada Weitz, her piece called Falling. Very dramatic photo montage. Is Vernada with us? Yes, I'm here.
+So now we're moving across in the second room to Verneda Weitz, her piece called Falling. Very dramatic photo montage. Is Verneda with us? Yes, I'm here.
 
 ## Verneda Lights [01:26:47](https://www.youtube.com/watch?v=QcotNCjBuIQ&t=5207s)
 

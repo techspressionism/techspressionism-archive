@@ -1179,7 +1179,7 @@ Another iteration. Right? Yeah. And the challenge. The challenge is, Rene, is th
 
 ## Allen Hirsh [02:42:59](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9779s)
 
-Well, I agree with everything that Bernada mentioned. And, Michael, I understand your feelings, and why they have to be that way. So I'm hoping, you know, that either there's a soft opening, or that the opening is postponed. Again. We don't know how many people have already submitted to Tommy. Even that would be. That would be interesting and indicative. I would think of where we're going with this. And I certainly do not wanna put something out that I'm not proud of simply to be ready for December thirtieth.
+Well, I agree with everything that Verneda mentioned. And, Michael, I understand your feelings, and why they have to be that way. So I'm hoping, you know, that either there's a soft opening, or that the opening is postponed. Again. We don't know how many people have already submitted to Tommy. Even that would be. That would be interesting and indicative. I would think of where we're going with this. And I certainly do not wanna put something out that I'm not proud of simply to be ready for December thirtieth.
 
 ## Michael Price [02:43:36](https://www.youtube.com/watch?v=e58ctMQ-ccc&t=9816s)
 
