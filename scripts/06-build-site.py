@@ -690,6 +690,7 @@ main.watch-page { max-width:84rem; }
 .side { display:contents; }   /* narrow: lets the sticky player stay pinned while the whole transcript scrolls */
 .stickyheader { display:none; position:fixed; top:0; left:0; right:0; z-index:40; }
 .stickyheader.on { display:block; }
+@media (max-height:520px) and (max-width:63.99rem) { .stickyheader, .stickyheader.on { display:none !important; } }   /* a phone held sideways: the slim site bar over the pinned video would take a third of the screen */
 .stickyheader header.site { padding-top:1rem; padding-bottom:2.2rem; }   /* more bottom padding than top -- per Colin 2026-09-22, the menu links sat too tight against the scrollable content right below the sticky header; 1.25rem still wasn't enough. Both widened again later that day -- the home link/language selector sat too tight against the top of the sticky bar */
 .player-box { position:sticky; top:var(--title-h, 0px); z-index:20; background:#000; margin:0 -1.25rem 1rem; }
 .pin-bar { display:none; }
@@ -727,6 +728,7 @@ a.vs-watch .vs-word { letter-spacing:.05em; font-size:.8rem; }
   .pin-bar[aria-expanded="true"] { opacity:0; pointer-events:none; }   /* header showing: the strip disappears, the video slides up under the header */
 }
 .player-frame { position:relative; aspect-ratio:16/9; background:#000; }
+.player-frame { width:min(100%, calc(48vh * 16 / 9)); margin:0 auto; }   /* stacked layout: the pinned video takes at most about half the screen height, so a phone held sideways or a short tablet still shows the transcript below it (black bars at the sides) */
 .player-frame iframe, .player-frame img { position:absolute; inset:0; width:100%; height:100%; border:0; object-fit:cover; }
 .player-frame .poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:#000; cursor:pointer; }
 .player-frame .bigplay { position:absolute; left:50%; top:50%; width:4.2rem; height:4.2rem; margin:-2.1rem 0 0 -2.1rem; border-radius:50%; background:rgba(240,240,240,.92); display:flex; align-items:center; justify-content:center; transition:transform .15s; }
@@ -827,6 +829,9 @@ html.sent-hl .para.active .tx { background:none; }   /* only the sentence being 
   .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(24rem,1fr); gap:2.5rem; align-items:start; }
   .side { display:block; padding-right:2.5rem; }   /* desktop: the left column (video included) scrolls with the page -- not pinned, and no scroll box of its own (Colin 2026-10-05: a pinned video was a usability problem). Phone/tablet below 64rem keep the pinned video. */   /* padding-right: breathing room against this column's OWN scrollbar (it scrolls independently, sticky), not the browser's -- per Colin 2026-09-22, 1.25rem still wasn't enough. overflow-x:hidden avoids a second, horizontal scrollbar now that content is inset from the right edge */
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }   /* was static -- per Colin 2026-09-22, should stay pinned to the top of .side while scrolling within it, same as it already does on mobile (there against the whole page, since .side itself doesn't have its own scroll box below 64rem) */
+  .layout.reading .side { align-self:stretch; }   /* with the transcript open the left column runs the whole length of the transcript, so the video can stay pinned beside it (Colin 2026-10-21: the video must stay in view while the transcript plays) */
+  .layout.reading .player-box { position:sticky; top:calc(var(--title-h, 0px) + .75rem); z-index:20; }
+  .player-frame { width:min(100%, calc((100vh - var(--title-h, 0px) - 2rem) * 16 / 9)); }   /* desktop: never taller than the window, so the pinned video is always whole */
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
   .js .layout.reading .watch-next { display:none; }
@@ -1392,26 +1397,40 @@ PLAYER_JS = """<script>
     place(smooth ? 'smooth' : 'auto');
     setTimeout(function () { place('auto'); }, smooth ? 700 : 150);
   }
-  // Desktop (1024px+) no longer pins the video, so a watch control in the left column (participants, synopsis, screen shares,
-  // Watch with transcript) or arriving on a time can start playback while the video is scrolled out of sight. revealVideo()
-  // scrolls it back into view and holds the page's follow-the-spoken-text scrolling (which would drag it away again) until the
-  // reader next scrolls. Phone and tablet pin the video, so nothing is needed there. (Colin 2026-10-06)
+  // A link that points at a moment (?watch=1&at=, a shared #t... address): put the sentence being spoken at that moment in the middle of the
+  // screen, and keep it there while the page settles -- web fonts and the video player change the height of everything above the transcript
+  // after the first placement, and a video the browser will not start by itself has no playback to bring the text back. Stops at the first
+  // scroll, wheel or key press by the reader, and after a few seconds. Desktop only; narrower screens use centerTurn.
+  function settleOn(i, t) {
+    if (!paras[i]) return;
+    if (window.innerWidth < 1024) { centerTurn(paras[i], false); return; }
+    var t0 = Date.now(), done = false;
+    function place() {
+      if (done || lastUser || Date.now() - t0 > 6000) { done = true; return; }
+      var now = t, k = i;
+      if (ready && player && player.getPlayerState && player.getPlayerState() === 1) { now = player.getCurrentTime(); for (var q = 0; q < starts.length; q++) if (starts[q] <= now + 0.5) k = q; }      // playing: follow the video, not the moment first asked for
+      var y = typeof spokenY === 'function' ? spokenY(k, now) : null;
+      if (y === null) { centerTurn(paras[k], false); return; }
+      var top = (bar && bar.classList.contains('on')) ? bar.offsetHeight : 0, d = y - (top + window.innerHeight) / 2;
+      if (Math.abs(d) > 40) window.scrollBy(0, d);
+    }
+    place();
+    [150, 500, 1200, 2500, 4500].forEach(function (ms) { setTimeout(place, ms); });
+    window.addEventListener('load', function () { setTimeout(place, 100); });
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { setTimeout(place, 50); });
+  }
+  // Desktop (1024px+): with the transcript open the video is pinned beside it (CSS .layout.reading .player-box), so it stays in sight
+  // while the transcript plays. With the transcript closed it scrolls with the page, so a watch control that starts playback there
+  // first scrolls it back into view. revealVideo() is that step; it returns true on desktop. (Colin 2026-10-06, pinned again 2026-10-21)
   var followPause = false;
   function desktopLayout() { return window.innerWidth >= 1024; }
   function revealVideo() {
     var vb = document.getElementById('player-box');
     if (!vb || !desktopLayout()) return false;
-    followPause = true;
+    if (layout.classList.contains('reading')) return true;
     var h = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--title-h')) || 0, r = vb.getBoundingClientRect();
     if (r.top >= h && r.bottom <= window.innerHeight) return true;
     window.scrollTo({ top: Math.max(0, r.top + window.pageYOffset - h - 16), behavior: 'smooth' });
-    return true;
-  }
-  function revealVideoSoon() {      // a link with a #t... address: the browser's own jump to that passage can land after the first scroll, so repeat once the page has settled (unless the reader has started scrolling)
-    if (!revealVideo()) return false;
-    var again = function () { if (!lastUser) revealVideo(); };
-    if (document.readyState === 'complete') setTimeout(again, 250);
-    else window.addEventListener('load', function () { setTimeout(again, 150); setTimeout(again, 1000); });
     return true;
   }
   function reading(on, scroll) {
@@ -1468,8 +1487,8 @@ PLAYER_JS = """<script>
       if (typeof ensureFreshPlayer === 'function') ensureFreshPlayer();
     });
     var autoplay = /[?&]play=1(&|$)/.test(location.search);
-    // Desktop shows the video, not the passage, for a "watch" link with a #t... address. The browser jumps to that address by itself once the page
-    // has loaded, which would carry the page far down the transcript, so the address is set aside for now and put back a little later.
+    // A "watch" link with a #t... address: the browser would jump to that address by itself once the page has loaded and land the passage at the
+    // very top edge, so the address is set aside for now (the page places the passage mid-screen itself) and put back a little later.
     var hashId = location.hash.slice(1), origHref = location.href;
     if (autoplay && hashId && desktopLayout()) {
       try { history.replaceState(null, '', location.pathname + location.search); } catch (e) {}
@@ -1480,9 +1499,9 @@ PLAYER_JS = """<script>
       reading(true, false);
       if (!isNaN(wat)) {
         var wi = 0;
-        for (var wk = 0; wk < starts.length; wk++) if (starts[wk] <= wat + 0.5) wi = wk;
+        for (var wk = 0; wk < starts.length; wk++) if (starts[wk] <= wat + 0.99) wi = wk;      // the address carries the whole second of the turn's start (164 for a turn that starts at 164.6)
         forced = wi; mark(wi); holdUntil = Date.now() + 2200;
-        if (!revealVideo()) centerTurn(paras[wi], false);
+        settleOn(wi, wat);
         ensureFreshPlayer(Math.max(0, wat - lead));
       } else { revealVideo(); ensureFreshPlayer(); if (TOUCH_STACKED) barBelowVideo(); }
     }, 0);
@@ -1491,15 +1510,22 @@ PLAYER_JS = """<script>
       hashId = '';
       if (el && document.getElementById('transcript').contains(el)) {
         reading(true, false);
-        if (!(autoplay && revealVideoSoon())) centerTurn(el, false);      // desktop "watch" from a search result: show the video, not just the passage
-        if (autoplay) {                      // "watch" from a search result, if the browser allows the video to start
-          autoplay = false;
-          if (cited) setTimeout(startCited, 300);
+        var hp = el.closest('.para') || el, ha = parseFloat(qs.get('at')), auto = autoplay, isCited = cited;
+        autoplay = false;
+        setTimeout(function () {      // (after the player code further down has set up its turn list)
+          var hi = -1, k;
+          if (!isNaN(ha)) for (k = 0; k < starts.length; k++) if (starts[k] <= ha + 0.99) hi = k;      // the address carries the whole second of the turn's start
+          if (hi < 0) hi = paras.indexOf(hp);
+          if (hi < 0) for (k = 0; k < paras.length; k++) if (el.compareDocumentPosition(paras[k]) & Node.DOCUMENT_POSITION_FOLLOWING) { hi = k; break; }      // the address is on a heading above its turn
+          if (hi >= 0) settleOn(hi, isNaN(ha) ? starts[hi] : ha); else centerTurn(el, false);      // the passage goes to the middle of the screen; on desktop the video is pinned beside it
+          if (!auto) return;
+          if (hi >= 0) { forced = hi; mark(hi); holdUntil = Date.now() + 2200; }      // a "watch" link: the passage is marked at once, even where the browser will not start the video by itself
+          if (isCited) setTimeout(startCited, 300);      // "watch" from a search result, if the browser allows the video to start
           else {
-            var para = el.closest('.para') || el.parentElement.querySelector('.para'), pill = para && para.querySelector('a.pill');
+            var pill = hi >= 0 && paras[hi].querySelector('a.pill');
             if (pill) setTimeout(function () { pill.click(); }, 300);
           }
-        }
+        }, 0);
       }
     }
     fromHash();
@@ -1696,7 +1722,11 @@ PLAYER_JS = """<script>
     cb.setAttribute('aria-expanded', 'true');
     if (card.scrollIntoView) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   });
-  box.querySelector('.poster').addEventListener('click', function () { ensureFreshPlayer(); });
+  box.querySelector('.poster').addEventListener('click', function () {
+    ensureFreshPlayer();
+    var r = box.getBoundingClientRect();      // a short screen (a phone held sideways): the video may be only partly in view when tapped, so bring all of it up
+    if (r.bottom > window.innerHeight || r.top < 0) window.scrollTo({ top: Math.max(0, r.top + window.pageYOffset - (parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--title-h')) || 0)), behavior: 'smooth' });
+  });
   document.addEventListener('click', function (ev) {
     var a = ev.target.closest && ev.target.closest('a.pill');
     if (!a || failed || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button) return;   // no player: the link opens YouTube
@@ -1718,7 +1748,7 @@ PLAYER_JS = """<script>
     stopAt = null; citedMode = false; closeParaCite();
     reading(true, false); holdUntil = Date.now() + 2200;
     forced = i; mark(i);
-    if (!revealVideo()) centerTurn(paras[i], true);
+    centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   });
   window.tvaPlayAt = function (at) {      // "Search only this video" results: play from that moment, the transcript following along
@@ -1736,7 +1766,7 @@ PLAYER_JS = """<script>
       place('smooth'); setTimeout(function () { place('auto'); }, 700); setTimeout(function () { place('auto'); }, 1500);
       return;
     }
-    if (!revealVideo()) centerTurn(paras[i], true);
+    centerTurn(paras[i], true);
     ensureFreshPlayer(at);
   };
   ['wheel', 'touchmove', 'keydown'].forEach(function (n) { window.addEventListener(n, function () { lastUser = Date.now(); followPause = false; }, { passive: true }); });
@@ -1784,7 +1814,7 @@ PLAYER_JS = """<script>
   // Follow along: while the video plays, the part being spoken is kept vertically centred in the view. The paragraph carries its sentences'
   // start times (data-st); the spot inside the current sentence is worked out from how far through it the video is, and the page glides
   // so that spot sits in the middle of the space beside/below the video. A reader who scrolls is left alone for a few seconds.
-  var models = new WeakMap(), remaining = 0, gliding = false, holdUntil = 0;
+  var models = new WeakMap(), remaining = 0, gliding = false, glideAt = 0, holdUntil = 0;
   var ABBR = { 'mr.': 1, 'mrs.': 1, 'ms.': 1, 'dr.': 1, 'st.': 1, 'vs.': 1, 'etc.': 1, 'e.g.': 1, 'i.e.': 1, 'no.': 1, 'jr.': 1, 'sr.': 1, 'prof.': 1 };
   var CLOSERS = String.fromCharCode(34, 39, 8221, 8217, 41, 93), ENDERS = '.?!' + String.fromCharCode(8230);
   function endsSentence(w) {
@@ -1848,10 +1878,12 @@ PLAYER_JS = """<script>
     // recording starts near the top of the text). If it is out of sight (the reader scrolled away, or the video jumped), it is brought back to the middle.
     if (y <= center && y >= top) { remaining = 0; return; }
     remaining = y - center;
-    if (!gliding) { gliding = true; requestAnimationFrame(glide); }
+    if (gliding && Date.now() - glideAt > 1500) gliding = false;      // a glide frame that never came (page was in the background) must not block the next one
+    if (!gliding) { gliding = true; glideAt = Date.now(); requestAnimationFrame(glide); }
   }
   function glide() {
     if (Math.abs(remaining) < 1) { remaining = 0; gliding = false; return; }
+    glideAt = Date.now();
     var step = remaining * 0.2;
     if (Math.abs(step) < 1) step = remaining;
     window.scrollBy(0, step);
@@ -1879,6 +1911,7 @@ PLAYER_JS = """<script>
       }
       return;
     }
+    if ((st === -1 || st === 5) && t < 1 && active >= 0) return;      // the video has not started (a phone that waits for a tap): keep the passage a link marked, instead of going back to the first turn
     if (forced !== null) {
       if (t >= starts[forced] || t < starts[forced] - lead - 2) forced = null; else return;   // hold the clicked paragraph through the lead-in
     }

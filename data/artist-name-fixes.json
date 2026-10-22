@@ -738,5 +738,10 @@
     "pattern": "\\b(?:Vernada|Vernetta|Vernaida)\\b|(?<!Verneda )\\bBernada\\b",
     "replacement": "Verneda",
     "seen": 62
+  },
+  {
+    "pattern": "\\bC Moses\\b|\\bc c moses\\b|(?<=We also have )see Moses|(?<=I go by )see Moses",
+    "replacement": "Cee Moses",
+    "seen": 4
   }
 ]
