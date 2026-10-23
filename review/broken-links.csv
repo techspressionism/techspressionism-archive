@@ -1,52 +1,21 @@
 person,kind,address,problem,checked
-Michael Strevens,website,http://michaelstrevens.com,HTTP 404,2026-10-22
-Tim Fabian,instagram,http://www.instagram.com/pittsburghpanoramas,profile not found,2026-10-22
-Tikoi Kuitenbrouwer,website,https://artistikoi.com/,[Errno 65] No route to host,2026-10-22
-Akira Ohiso,instagram,https://instagram.com/akiraohiso/,profile not found,2026-10-22
-Andrew Kotlinski,instagram,https://instagram.com/andykotlinski,profile not found,2026-10-22
-Data_m0sh,instagram,https://instagram.com/data_m0sh/,profile not found,2026-10-22
-DJ Monetise,instagram,https://instagram.com/dj.monetise,profile not found,2026-10-22
-Incaiko,instagram,https://instagram.com/incaiko.art,profile not found,2026-10-22
-Kat Evans,instagram,https://instagram.com/katevansartist19/,profile not found,2026-10-22
-Ian Rogers,instagram,https://instagram.com/kenneth_ian_rogers,profile not found,2026-10-22
-Kristy Johnson,instagram,https://instagram.com/kikikaboodle/,profile not found,2026-10-22
-Le Chat Noir,instagram,https://instagram.com/lechatn0ir__/,profile not found,2026-10-22
-Marc Maurer,instagram,https://instagram.com/marcmaurer.eth/,profile not found,2026-10-22
-Michael Farmer,instagram,https://instagram.com/mikefarmerart/,profile not found,2026-10-22
-Nata Hening Putra,instagram,https://instagram.com/natahening_putra,profile not found,2026-10-22
-Natalia Recalde,instagram,https://instagram.com/nnatalia.recalde,profile not found,2026-10-22
-Vibeke Kidmose,instagram,https://instagram.com/vkidmose,profile not found,2026-10-22
-exhibition: Cyberiana,exhibition page,https://techspressionism.com/cyberiana/,HTTP 404,2026-10-22
-IJWBAA,website,https://wannabelabs.com/,parked domain (redirects to the registrar's /lander page),2026-10-22
-Prïnce Magnølïa,instagram,https://www.instagram.com/999prince_magnolia999/,profile not found,2026-10-22
-André Oliveira Cebola,instagram,https://www.instagram.com/andreoliveira.cebola/,profile not found,2026-10-22
-Andy Wauman,instagram,https://www.instagram.com/andywauman/,profile not found,2026-10-22
-Arian Qalandaran,instagram,https://www.instagram.com/arianvisions/,profile not found,2026-10-22
-Ben Red,instagram,https://www.instagram.com/benred089/,profile not found,2026-10-22
-Tor Burwell,instagram,https://www.instagram.com/burwell_design/,profile not found,2026-10-22
-Fantom,instagram,https://www.instagram.com/c0rrup73d_l0v3/,profile not found,2026-10-22
-Chanee Choi,instagram,https://www.instagram.com/chaneec_studio/,profile not found,2026-10-22
-Django,instagram,https://www.instagram.com/d14_n90/,profile not found,2026-10-22
-Dalton Portella,instagram,https://www.instagram.com/dalton.nft/,profile not found,2026-10-22
-Ellen K. Levy,instagram,https://www.instagram.com/eklevy1/,profile not found,2026-10-22
-Nkolo Ntyam,instagram,https://www.instagram.com/eyoofficiel/,profile not found,2026-10-22
-Fluidbodiez,instagram,https://www.instagram.com/fluidbodiez/,profile not found,2026-10-22
-Frédéric Pons,instagram,https://www.instagram.com/fmotiondesign/,profile not found,2026-10-22
-Fizer Neico,instagram,https://www.instagram.com/fn_arthletiks/,profile not found,2026-10-22
-Joanna Steidle,instagram,https://www.instagram.com/hamptonsdroneimages/,profile not found,2026-10-22
-Hoanowe,instagram,https://www.instagram.com/hoanowe/,profile not found,2026-10-22
-Jonathan Tramond,instagram,https://www.instagram.com/jyp_photographie/,profile not found,2026-10-22
-Klara Kopi,instagram,https://www.instagram.com/klara_kopi/,profile not found,2026-10-22
-meta,instagram,https://www.instagram.com/m_e__t___a/,profile not found,2026-10-22
-Peter Borges,instagram,https://www.instagram.com/maj.oof/,profile not found,2026-10-22
-Mihal Esmaeili,instagram,https://www.instagram.com/mihal_esmaeili/,profile not found,2026-10-22
-Elle Clayton,instagram,https://www.instagram.com/please_look_at_the_pictures/,profile not found,2026-10-22
-Dimitrije Martinovic,instagram,https://www.instagram.com/polk_vox/,profile not found,2026-10-22
-Rafael Draga,instagram,https://www.instagram.com/rafaeldraga/,profile not found,2026-10-22
-Scott Oppenheim,instagram,https://www.instagram.com/scottopp/,profile not found,2026-10-22
-Santiago Echeverry,instagram,https://www.instagram.com/sechevere/,profile not found,2026-10-22
-Stephen Carpenter,instagram,https://www.instagram.com/stephen_c.art/,profile not found,2026-10-22
-SUDO,instagram,https://www.instagram.com/sudorootla/,profile not found,2026-10-22
-Vytas Gaizutis,instagram,https://www.instagram.com/vytas_gaizutis/,profile not found,2026-10-22
-Zouhair El Helou AKA fractalogist,instagram,https://www.instagram.com/zhr.hlu,profile not found,2026-10-22
-Void-Sign,social,https://www.youtube.com/@Void-Sign-SG,HTTP 404,2026-10-22
+Michael Strevens,website,http://michaelstrevens.com,HTTP 404,2026-10-23
+Tim Fabian,instagram,http://www.instagram.com/pittsburghpanoramas,profile not found,2026-10-23
+Data_m0sh,instagram,https://instagram.com/data_m0sh/,profile not found,2026-10-23
+Kat Evans,instagram,https://instagram.com/katevansartist19/,profile not found,2026-10-23
+exhibition: Cyberiana,exhibition page,https://techspressionism.com/cyberiana/,HTTP 404,2026-10-23
+IJWBAA,website,https://wannabelabs.com/,parked domain (redirects to the registrar's /lander page),2026-10-23
+André Oliveira Cebola,instagram,https://www.instagram.com/andreoliveira.cebola/,profile not found,2026-10-23
+Andy Wauman,instagram,https://www.instagram.com/andywauman/,profile not found,2026-10-23
+Tor Burwell,instagram,https://www.instagram.com/burwell_design/,profile not found,2026-10-23
+Chanee Choi,instagram,https://www.instagram.com/chaneec_studio/,profile not found,2026-10-23
+Django,instagram,https://www.instagram.com/d14_n90/,profile not found,2026-10-23
+Jonathan Tramond,instagram,https://www.instagram.com/jyp_photographie/,profile not found,2026-10-23
+Peter Borges,instagram,https://www.instagram.com/maj.oof/,profile not found,2026-10-23
+Mihal Esmaeili,instagram,https://www.instagram.com/mihal_esmaeili/,profile not found,2026-10-23
+Elle Clayton,instagram,https://www.instagram.com/please_look_at_the_pictures/,profile not found,2026-10-23
+Rafael Draga,instagram,https://www.instagram.com/rafaeldraga/,profile not found,2026-10-23
+Santiago Echeverry,instagram,https://www.instagram.com/sechevere/,profile not found,2026-10-23
+Stephen Carpenter,instagram,https://www.instagram.com/stephen_c.art/,profile not found,2026-10-23
+SUDO,instagram,https://www.instagram.com/sudorootla/,profile not found,2026-10-23
+Void-Sign,social,https://www.youtube.com/@Void-Sign-SG,HTTP 404,2026-10-23
