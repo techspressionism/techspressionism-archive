@@ -70,6 +70,9 @@ def e(s):
 # Hidden unless data/site-config.json sets suggest_url, so nothing changes on the site until that is set.
 SITE_CONFIG = json.loads((ROOT / "data" / "site-config.json").read_text()) if (ROOT / "data" / "site-config.json").exists() else {}
 # Merged/removed artist pages: old id -> new id (or null for the artist index). See data/artist-redirects.json.
+# Recordings discussed in The Techspressionist Journal: slug -> [{title, url}]. See data/journal-mentions.json.
+JOURNAL_MENTIONS = {k: v for k, v in json.loads((ROOT / "data" / "journal-mentions.json").read_text()).items() if k != "_comment"} \
+    if (ROOT / "data" / "journal-mentions.json").exists() else {}
 ARTIST_REDIRECTS = {k: v for k, v in json.loads((ROOT / "data" / "artist-redirects.json").read_text()).items() if k != "_comment"} \
     if (ROOT / "data" / "artist-redirects.json").exists() else {}
 SUGGEST_MAX = 1200  # characters of the passage carried in the address; a longer one is cut at a word boundary
@@ -749,10 +752,12 @@ div.para-foot a.pill .pause-word, div.para-foot a.pill svg.i-pause { display:non
 .layout.is-playing .para.active div.para-foot a.pill .pause-word { display:block; letter-spacing:.05em; font-size:.8rem; }
 .layout.is-playing .para.active div.para-foot a.pill svg.i-pause { display:block; }
 .synopsis { margin:.2rem 0 1rem; }
-section.synopsis h2, section.video-desc h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin; margin-bottom widened .3rem->.8rem for more room before the synopsis text, per Colin */
+section.synopsis h2, section.video-desc h2, section.journal-mentions h2 { margin:1.2rem 0 .8rem; padding-top:1.75rem; border-top:1px solid var(--accent); font-size:1.1rem; font-weight:400; font-family:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-style:normal; letter-spacing:.02em; text-transform:uppercase; color:#000; }   /* explicit margin/border/padding + the extra "section." for specificity -- .person h2 (same specificity, later in the stylesheet) was silently winning the cascade on all of these; font-size matches "Recent Salons" (.cat-kicker.cat-recent-label), per Colin; margin-bottom widened .3rem->.8rem for more room before the synopsis text, per Colin */
 .synopsis .syn-text { margin:0; line-height:1.55; }
 .synopsis .syn-help { margin:0 0 .6rem; font-size:.85rem; color:var(--muted); }   /* one short line under the Synopsis heading: how the links work (Colin 2026-09-24) */
 .video-desc { margin:.2rem 0 1rem; }
+.journal-mentions ul { margin:0 0 1rem; padding:0; list-style:none; line-height:1.55; }
+.journal-mentions a { color:inherit; text-decoration:underline; text-decoration-color:var(--accent); text-underline-offset:2px; }
 .video-desc .vd-text p { margin:0 0 .7rem; line-height:1.55; }
 .video-desc .vd-text a { color:inherit; text-decoration:underline; text-decoration-color:var(--muted); text-underline-offset:2px; overflow-wrap:anywhere; }
 .video-desc .vd-extra[hidden] { display:none; }   /* long descriptions: everything after the cutoff sentence is hidden until Read more, rather than a CSS clamp -- so the cut always lands at the end of a sentence, never mid-line or mid-sentence */
@@ -2601,7 +2606,7 @@ def build_session_page(entry, siblings=()):
         curator=curator,
         url=e(url),
         speakers=speakers_html,
-        synopsis=video_description_html(entry) + synopsis_html(entry),
+        synopsis=journal_mentions_html(entry) + video_description_html(entry) + synopsis_html(entry),
         description=description_html(entry),
         flags=flags_html,
         read_actions=read_actions,
@@ -3938,6 +3943,15 @@ def split_at_sentence(text, target_chars):
     if cut >= len(text) - 1:
         return text, ""
     return text[:cut].rstrip(), text[cut:].lstrip()
+
+
+def journal_mentions_html(entry):
+    """"In the Journal": links to Techspressionist Journal issues that discuss this recording, above the video description."""
+    items = JOURNAL_MENTIONS.get(slug(entry))
+    if not items:
+        return ""
+    rows = "".join(f'<li>Discussed in <a href="{e(m["url"])}">{e(m["title"])}</a></li>' for m in items)
+    return f'<section class="journal-mentions" data-pagefind-ignore><h2>In the Journal</h2><ul>{rows}</ul></section>'
 
 
 def video_description_html(entry):
