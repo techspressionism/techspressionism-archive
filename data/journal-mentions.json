@@ -1,18 +1,39 @@
 {
   "_comment": "Recordings discussed in The Techspressionist Journal. Recording slug -> list of {title, url}; shown as 'In the Journal' on that recording's page.",
-  "salon-059": [
-    {"title": "TSJ Issue 001: AI Slop in Art", "url": "https://techspressionism.com/journal/ai-slop/"}
+  "interview-002": [
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
   ],
-  "salon-067": [
-    {"title": "TSJ Issue 001: AI Slop in Art", "url": "https://techspressionism.com/journal/ai-slop/"}
+  "interview-025": [
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
+  ],
+  "salon-059": [
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
   ],
   "roundtable-001": [
-    {"title": "TSJ Issue 001: AI Slop in Art", "url": "https://techspressionism.com/journal/ai-slop/"}
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
   ],
   "interview-028": [
-    {"title": "TSJ Issue 001: AI Slop in Art", "url": "https://techspressionism.com/journal/ai-slop/"}
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
   ],
   "interview-030": [
-    {"title": "TSJ Issue 001: AI Slop in Art", "url": "https://techspressionism.com/journal/ai-slop/"}
+    {
+      "title": "TSJ Issue 001: AI Slop in Art",
+      "url": "https://techspressionism.com/journal/ai-slop/"
+    }
   ]
 }
