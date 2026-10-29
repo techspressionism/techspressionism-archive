@@ -2467,13 +2467,14 @@ def build_actions_and_cite(entry, link_to=None):
     them to act on; Print transcript links straight to the downloadable PDF (the generated file already is the
     plain/printable version)."""
     url = entry["url"]
+    sub = subscribe_link_html()
     citation_html, cite_data = build_citation(entry)
     dl_select = download_select_html(entry)
     if link_to is None:
         read_actions = ('<div class="read-actions" id="read-actions" data-pagefind-ignore>'
                          '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>'
                          '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button></div>')
-        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; {sub}'
                     f'<button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; '
                     f'{dl_select}</p>')
     else:
@@ -2481,7 +2482,7 @@ def build_actions_and_cite(entry, link_to=None):
         read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
                          f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a>'
                          f'<a class="read-btn" href="{target}">Read transcript</a></div>')
-        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; {sub}'
                     f'<a href="{e(transcript_pdf_href(entry))}">Print transcript (PDF)</a> &#47;&#47; '
                     f'{dl_select}</p>')
     cite_section = (f'<section class="cite" data-pagefind-ignore><h2>Cite this session</h2>'
@@ -4309,8 +4310,21 @@ def seo_for_home(corpus):
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
 
+def subscribe_url():
+    """The channel's subscribe link: ?sub_confirmation=1 opens YouTube's subscribe prompt on arrival (Claude, 2026-10-29, for
+    the YouTube subscriber initiative). site-config youtube_subscribe_url overrides it; set it to "" to drop every Subscribe link."""
+    return SITE_CONFIG.get("youtube_subscribe_url", "https://www.youtube.com/@techspressionism?sub_confirmation=1")
+
+
+def subscribe_link_html(trail=" &#47;&#47; "):
+    """'Subscribe on YouTube' for the Watch on YouTube line, followed by the line's own separator; empty when switched off."""
+    u = subscribe_url()
+    return f'<a href="{e(u)}" target="_blank" rel="noopener">Subscribe on YouTube</a>{trail}' if u else ""
+
+
 FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
-          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
+          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a>'
+          + (f' &middot; {subscribe_link_html(trail="")}' if subscribe_url() else '') + '</footer>')
 
 
 def google_tag_snippet():
