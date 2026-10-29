@@ -669,6 +669,7 @@ section.seg { padding:.9rem 0; border-top:1px solid var(--line); }
 .print-btn { font:inherit; font-size:inherit; color:#000; background:none; border:none; text-decoration:underline; cursor:pointer; padding:0; }
 .print-btn:hover, .print-btn:focus-visible { color:var(--accent); }
 .watch-yt a { color:#000; text-decoration:underline; }   /* sitewide links skip the underline and rely on the accent color instead, but these are recolored to plain black (matching this line's surrounding text/buttons) -- without it they were indistinguishable from plain text now that this line mixes links, a button, and plain "//" separators */
+@media (max-width:30rem) { .watch-yt { font-size:.8rem; } .watch-yt .sub-yt { display:none; } }   /* a phone: "Subscribe" alone and slightly smaller type, so the Watch / Subscribe / Print / Download line stays at two rows (iPhone SE to Plus widths) */
 .dl-select { margin-left:.3rem; padding:.1rem .3rem; font:inherit; font-size:.95rem; color:#000; background:#fff; border:1px solid var(--line); border-radius:.25rem; }
 @media (max-width:63.99rem) { .layout.reading .para, .layout.reading h3.para-time, .layout.reading .seg-head { scroll-margin-top:calc(var(--title-h, 0px) + var(--player-h, 56.25vw) + 1rem); } }
 .watch-next { display:none; }
@@ -2467,13 +2468,14 @@ def build_actions_and_cite(entry, link_to=None):
     them to act on; Print transcript links straight to the downloadable PDF (the generated file already is the
     plain/printable version)."""
     url = entry["url"]
+    sub = subscribe_link_html(short=True)
     citation_html, cite_data = build_citation(entry)
     dl_select = download_select_html(entry)
     if link_to is None:
         read_actions = ('<div class="read-actions" id="read-actions" data-pagefind-ignore>'
                          '<button type="button" class="watch-btn" id="watch-btn" aria-controls="transcript">Watch with transcript</button>'
                          '<button type="button" class="read-btn" id="read-btn" aria-expanded="false" aria-controls="transcript">Read transcript</button></div>')
-        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; {sub}'
                     f'<button type="button" class="print-btn" id="print-btn">Print transcript (PDF)</button> &#47;&#47; '
                     f'{dl_select}</p>')
     else:
@@ -2481,7 +2483,7 @@ def build_actions_and_cite(entry, link_to=None):
         read_actions = (f'<div class="read-actions" data-pagefind-ignore>'
                          f'<a class="watch-btn" href="{target}{"&amp;" if "?" in target else "?"}watch=1">Watch with transcript</a>'
                          f'<a class="read-btn" href="{target}">Read transcript</a></div>')
-        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; '
+        watch_yt = (f'<p class="watch-yt" data-pagefind-ignore><a href="{e(url)}">Watch on YouTube</a> &#47;&#47; {sub}'
                     f'<a href="{e(transcript_pdf_href(entry))}">Print transcript (PDF)</a> &#47;&#47; '
                     f'{dl_select}</p>')
     cite_section = (f'<section class="cite" data-pagefind-ignore><h2>Cite this session</h2>'
@@ -4309,8 +4311,23 @@ def seo_for_home(corpus):
                 alternates=[("text/plain", canonical_url("llms.txt") or "llms.txt", "llms.txt")], video_embed="")
 
 
+def subscribe_url():
+    """The channel's subscribe link: ?sub_confirmation=1 opens YouTube's subscribe prompt on arrival (Claude, 2026-10-29, for
+    the YouTube subscriber initiative). site-config youtube_subscribe_url overrides it; set it to "" to drop every Subscribe link."""
+    return SITE_CONFIG.get("youtube_subscribe_url", "https://www.youtube.com/@techspressionism?sub_confirmation=1")
+
+
+def subscribe_link_html(trail=" &#47;&#47; ", short=False):
+    """'Subscribe on YouTube' for the Watch on YouTube line, followed by the line's own separator; empty when switched off.
+    short: the words ' on YouTube' sit in a span that a narrow phone hides (CSS .sub-yt), so the line does not grow a row."""
+    u = subscribe_url()
+    label = 'Subscribe<span class="sub-yt"> on YouTube</span>' if short else 'Subscribe on YouTube'
+    return f'<a href="{e(u)}" target="_blank" rel="noopener">{label}</a>{trail}' if u else ""
+
+
 FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
-          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a></footer>')
+          '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a>'
+          + (f' &middot; {subscribe_link_html(trail="")}' if subscribe_url() else '') + '</footer>')
 
 
 def google_tag_snippet():
