@@ -1149,7 +1149,10 @@ def build_citation(entry):
         head = f"{series}, &ldquo;{title},&rdquo; {when}."
     else:
         head = f"{series}, &ldquo;{title}.&rdquo;"
-    html = f'{head} <em>{BRAND}</em>. <span class="doi">[DOI pending Zenodo deposit]</span>'
+    doi = SITE_CONFIG.get("zenodo_doi") or ""
+    doi_html = (f'<a href="https://doi.org/{e(doi)}">https://doi.org/{e(doi)}</a>.' if doi
+                else '[DOI pending Zenodo deposit]')   # concept DOI: resolves to the latest archived version
+    html = f'{head} <em>{BRAND}</em>. <span class="doi">{doi_html}</span>'
     chicago_plain = re.sub(r"<[^>]+>", "", html).replace("&ldquo;", '"').replace("&rdquo;", '"').replace("&amp;", "&")
     who = participants_line(entry) or series_name(entry)   # no one named speaker for most sessions (several presenters); the series name is a more honest stand-in than "Unidentified speaker"
     data = json.dumps({"speaker": who, "series": series_name(entry), "topic": entry.get("session_title") or "Untitled",

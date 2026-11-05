@@ -1,5 +1,7 @@
 # Techspressionism Video Archive
 
+[![DOI](https://zenodo.org/badge/1364354822.svg)](https://doi.org/10.5281/zenodo.23990824)
+
 A searchable, citable transcript archive of the Techspressionism YouTube channel. See [archive_claude_code_spec.txt](archive_claude_code_spec.txt) for the full build spec.
 
 **Guide for readers and editors: [docs/Techspressionism-Archive-Manual.md](docs/Techspressionism-Archive-Manual.md).** Parts of this README date from the first build and may be out of date.
@@ -17,7 +19,7 @@ Pipeline has been run across all 99 known Salon videos. Still working through me
 | 4 — Name correction | Run across all 99 sessions | `scripts/04-correct-names.py` + `scripts/04a-parse-artist-index.py`. ~940 auto-corrections applied; `review/name-candidates.csv` is the raw hit list, **`review/name-candidates-summary.csv`** collapses it to ~250 unique patterns to actually work from (run `scripts/dedupe-review-queue.py` after a rebuild). `data/review-suppressions.json` = hand-curated always-false-positive pairs; recurring real manglings promoted into `data/vocabulary.json`. Note: `data/artists.json` was hand-cleaned of location/nickname junk in names -- re-running `04a` needs a fresh WordPress export (the one used is no longer on disk) and its parser fix will reproduce the clean output. |
 | 5 — Corpus format | Run across all 99 sessions | `scripts/05-build-corpus.py` -> `corpus/salon-NNN.md` + `corpus/corpus.json` (mirror, now carries `speakers` with resolved country + raw location, and `languages`). |
 | 6 — Search interface | Built | `scripts/06-build-site.py` -> `site/` (static, Pagefind). Full-text search; filters for type/year/speaker/country; every result deep-links to the transcript segment and the exact video second. Preview: `python3 scripts/06-build-site.py && (cd site && python3 -m http.server)`. Not yet deployed -- hosting undecided (private repo + free GitHub Pages don't mix; options are Pro, going public, or Netlify/Cloudflare Pages). |
-| 7 — Citation/deposit | Citation blocks done; deposit pending | Each transcript page renders a paste-ready citation (with a "Copy" button). `CITATION.cff` (GitHub "Cite this repository") and `.zenodo.json` are in place. The repo is public and has a CC BY 4.0 `LICENSE`; the deposit waits on the Zenodo account link -- see "Depositing to Zenodo" below. |
+| 7 — Citation/deposit | Citation blocks done; deposited on Zenodo | Each transcript page renders a paste-ready citation (with a "Copy" button). `CITATION.cff` (GitHub "Cite this repository") and `.zenodo.json` are in place. Deposited on Zenodo: concept DOI 10.5281/zenodo.23990824 (all versions; v1.0 is 10.5281/zenodo.23990825). Each new GitHub release archives a new version -- see "Depositing to Zenodo" below. |
 
 ## Setup
 

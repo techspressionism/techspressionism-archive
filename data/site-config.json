@@ -23,7 +23,7 @@
   "youtube_subscribe_url": "https://www.youtube.com/@techspressionism?sub_confirmation=1",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "license_name": "CC BY 4.0",
-  "zenodo_doi": "",
+  "zenodo_doi": "10.5281/zenodo.23990824",
   "allow_ai_training_crawlers": true,
   "list_at_bottom": [
     "presentation-009"
