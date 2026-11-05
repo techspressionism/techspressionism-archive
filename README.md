@@ -17,7 +17,7 @@ Pipeline has been run across all 99 known Salon videos. Still working through me
 | 4 — Name correction | Run across all 99 sessions | `scripts/04-correct-names.py` + `scripts/04a-parse-artist-index.py`. ~940 auto-corrections applied; `review/name-candidates.csv` is the raw hit list, **`review/name-candidates-summary.csv`** collapses it to ~250 unique patterns to actually work from (run `scripts/dedupe-review-queue.py` after a rebuild). `data/review-suppressions.json` = hand-curated always-false-positive pairs; recurring real manglings promoted into `data/vocabulary.json`. Note: `data/artists.json` was hand-cleaned of location/nickname junk in names -- re-running `04a` needs a fresh WordPress export (the one used is no longer on disk) and its parser fix will reproduce the clean output. |
 | 5 — Corpus format | Run across all 99 sessions | `scripts/05-build-corpus.py` -> `corpus/salon-NNN.md` + `corpus/corpus.json` (mirror, now carries `speakers` with resolved country + raw location, and `languages`). |
 | 6 — Search interface | Built | `scripts/06-build-site.py` -> `site/` (static, Pagefind). Full-text search; filters for type/year/speaker/country; every result deep-links to the transcript segment and the exact video second. Preview: `python3 scripts/06-build-site.py && (cd site && python3 -m http.server)`. Not yet deployed -- hosting undecided (private repo + free GitHub Pages don't mix; options are Pro, going public, or Netlify/Cloudflare Pages). |
-| 7 — Citation/deposit | Citation blocks done; deposit pending | Each transcript page renders a paste-ready citation (with a "Copy" button). `CITATION.cff` (GitHub "Cite this repository") and `.zenodo.json` are in place. The actual Zenodo deposit needs the repo public + a Zenodo account linked -- see "Depositing to Zenodo" below. |
+| 7 — Citation/deposit | Citation blocks done; deposit pending | Each transcript page renders a paste-ready citation (with a "Copy" button). `CITATION.cff` (GitHub "Cite this repository") and `.zenodo.json` are in place. The repo is public and has a CC BY 4.0 `LICENSE`; the deposit waits on the Zenodo account link -- see "Depositing to Zenodo" below. |
 
 ## Setup
 
@@ -91,11 +91,9 @@ university new-media collection) is worth considering as a second home.
 
 ## Licensing
 
-Everything here is intended as **CC BY 4.0**, matching techspressionism.com.
-This needs Colin's explicit confirmation that it extends to the transcripts
-(they are recordings of participants' own words) before a `LICENSE` file is
-added and the deposit is made. `CITATION.cff` and `.zenodo.json` already
-declare `CC-BY-4.0`.
+Everything here is released under **CC BY 4.0** (see `LICENSE`), matching
+techspressionism.com. `CITATION.cff` and `.zenodo.json` declare `CC-BY-4.0`.
+The recordings themselves stay on YouTube, where all of them are public.
 
 ## Repository structure
 
