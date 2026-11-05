@@ -126,9 +126,11 @@ def main():
                     size = Image.open(p).size
                 except Exception:
                     continue
-                cands.append((size != (W, H), RANK[mt.group(1).upper()], str(p), p))
+                # a file carrying the recording's own number (SALON_112_WP.jpg) beats an unnumbered one in the same folder
+                # (Lee_Image_WP.jpg in SALON_112 is the bare artwork, without the title and date)
+                cands.append((size != (W, H), not num, RANK[mt.group(1).upper()], str(p), p))
         if cands:
-            _, _, _, best = sorted(cands)[0]
+            *_, best = sorted(cands)[0]
             with Image.open(best) as im:
                 fit_to_frame(im).save(dest, "JPEG", quality=90, optimize=True, progressive=True)
             report.append(head + ["local file", best.name])

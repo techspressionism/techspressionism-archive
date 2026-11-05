@@ -136,6 +136,11 @@ def correct_names_in_text(text, candidates, auto_threshold, review_threshold, se
                 last_sim = SequenceMatcher(None, span_words[-1].strip(".,!?;:'").lower(), nlow[-1]).ratio()
                 if last_sim < 0.45:
                     ratio = min(ratio, review_threshold - 0.01)
+                # an ordinary English word in the surname's place needs a close spelling match too: "Karen talked" scored
+                # 0.72 against "Karen LaFleur" (last word 0.46) and was rewritten twice in Salon 112 (2026-11-05)
+                last_word = span_words[-1].strip(".,!?;:'\u2019").lower()
+                if last_word != nlow[-1] and last_word in _ordinary_words() and last_sim < 0.7:
+                    ratio = min(ratio, review_threshold - 0.01)
         # a very short single-word name (a handle like "cha") must be a near-exact hit: at the 0.72 strong-prior
         # threshold it rewrote ordinary words -- "empty chair" and "in the chat" became "cha" (Salon 111, 2026-10-05)
         short_weak = is_single_token and len(name) <= 4 and ratio < 0.95
@@ -148,6 +153,12 @@ def correct_names_in_text(text, candidates, auto_threshold, review_threshold, se
             # that happens to share a name's ending word ("be an artist" vs. Salon 109's own "Beau Tardy Artist")
             # gets silently rewritten into that name. Found and fixed 2026-09-22 after Colin's own correction of
             # that exact line kept reverting on rebuild.
+            # a possessive keeps its 's: "Karen LaFleur's perspective" was being rewritten to "Karen LaFleur perspective"
+            # (Salon 112, 2026-11-05)
+            possessive = re.search(r"['\u2019]s$", original)
+            if possessive:
+                end -= len(possessive.group())
+                original = text[start:end]
             if original.lower() != name.lower() and original.strip(".,!?;:").lower() not in known_good:
                 text = text[:start] + name + text[end:]
                 corrections.append({"session": session_number, "original": original, "corrected": name, "ratio": round(ratio, 2), "cue_start": cue_start})

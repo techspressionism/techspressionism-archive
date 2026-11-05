@@ -2009,7 +2009,7 @@
         {
           "path": "SALON_111/SALON_111_HD_MONTAGE.pdf",
           "ext": "pdf",
-          "size_bytes": 30315916,
+          "size_bytes": 30379326,
           "kind": null
         },
         {
@@ -2099,6 +2099,30 @@
           "kind": null
         },
         {
+          "path": "SALON_112/RECORDINGS/GMT20261105-170945_Recording.cc.vtt",
+          "ext": "vtt",
+          "size_bytes": 79561,
+          "kind": "closed_captions"
+        },
+        {
+          "path": "SALON_112/RECORDINGS/GMT20261105-170945_Recording.m4a",
+          "ext": "m4a",
+          "size_bytes": 56236390,
+          "kind": null
+        },
+        {
+          "path": "SALON_112/RECORDINGS/GMT20261105-170945_Recording.transcript.vtt",
+          "ext": "vtt",
+          "size_bytes": 94677,
+          "kind": "transcript"
+        },
+        {
+          "path": "SALON_112/RECORDINGS/GMT20261105-170945_RecordingnewChat.txt",
+          "ext": "txt",
+          "size_bytes": 12629,
+          "kind": "chat_log"
+        },
+        {
           "path": "SALON_112/SALON_112_HD.jpg",
           "ext": "jpg",
           "size_bytes": 183408,
@@ -2135,9 +2159,9 @@
           "kind": null
         }
       ],
-      "has_transcript": false,
-      "has_closed_captions": false,
-      "has_chat_log": false
+      "has_transcript": true,
+      "has_closed_captions": true,
+      "has_chat_log": true
     },
     "12": {
       "dir_name": "SALON_12",

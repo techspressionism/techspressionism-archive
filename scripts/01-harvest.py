@@ -382,7 +382,7 @@ FLAG_FOR_FIELD = {
     "moderator": "moderator_missing",
     "session_title": "session_title_unparseable",
     "number": "session_number_unparseable",
-    "speakers": "speaker_index_missing",
+    "speakers": ("speaker_index_missing", "speaker_index_partially_unparseable"),   # a hand-written speaker list settles both
 }
 
 
@@ -402,9 +402,10 @@ def apply_overrides(session, overrides):
         if key == "source":
             continue
         session[key] = value
-        clear_flag = FLAG_FOR_FIELD.get(key)
-        if clear_flag and clear_flag in session["flags"]:
-            session["flags"].remove(clear_flag)
+        clear_flags = FLAG_FOR_FIELD.get(key) or ()
+        for clear_flag in ([clear_flags] if isinstance(clear_flags, str) else clear_flags):
+            if clear_flag in session["flags"]:
+                session["flags"].remove(clear_flag)
         session["notes"].append(f"{key}_manually_overridden:{source}")
 
 

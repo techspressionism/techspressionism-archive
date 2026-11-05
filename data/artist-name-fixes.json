@@ -743,5 +743,10 @@
     "pattern": "\\bC Moses\\b|\\bc c moses\\b|(?<=We also have )see Moses|(?<=I go by )see Moses",
     "replacement": "Cee Moses",
     "seen": 4
+  },
+  {
+    "pattern": "\\bSAHAR\\b",
+    "replacement": "Sahar",
+    "seen": 4
   }
 ]

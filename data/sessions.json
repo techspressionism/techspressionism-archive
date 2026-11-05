@@ -5378,6 +5378,61 @@
     }
   },
   {
+    "video_id": "5I6BswegIss",
+    "url": "https://www.youtube.com/watch?v=5I6BswegIss",
+    "type": "salon",
+    "number": 112,
+    "title_raw": "Techspressionist Salon 112 // Perception",
+    "session_title": "Perception",
+    "date_recorded": "2026-11-05",
+    "date_published": "2026-11-05",
+    "duration_seconds": 5185,
+    "thumbnail": "https://i.ytimg.com/vi/5I6BswegIss/maxresdefault.jpg",
+    "moderator": "Lee Schnaiberg",
+    "speakers": [
+      {
+        "name": "Karen LaFleur",
+        "country": null,
+        "start_seconds": 191,
+        "start_display": "00:03:11"
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": 1044,
+        "start_display": "00:17:24"
+      },
+      {
+        "name": "Lee Schnaiberg",
+        "country": null,
+        "start_seconds": 2805,
+        "start_display": "00:46:45"
+      },
+      {
+        "name": "Keana Sears",
+        "country": null,
+        "start_seconds": 3732,
+        "start_display": "01:02:12"
+      }
+    ],
+    "transcript_source": "zoom-transcript",
+    "flags": [],
+    "notes": [
+      "date_recorded_manually_overridden:date: Salon 112 graphic ('THURSDAY NOVEMBER 5, 2026', SALON_112_HD.jpg), the video description ('Recorded November 5, 2026') and the Zoom recording's own timestamp (GMT20261105); moderator: the video description ('Moderated by Lee Schnaiberg'), written mid-sentence so Stage 1 does not parse it, and she runs the session (Zoom transcript); speakers: the description's index, with 'KE Visuals' (Keana Sears's studio name) dropped from the country field it was parsed into; audio_shared_as_presenter: Lee Schnaiberg plays Karen LaFleur's pre-recorded presentation and her own videos through her screen share, so Zoom labels them 'Audio shared by Lee Schnaiberg' -- they are attributed to the presenter whose slot (video description times) they fall in",
+      "moderator_manually_overridden:date: Salon 112 graphic ('THURSDAY NOVEMBER 5, 2026', SALON_112_HD.jpg), the video description ('Recorded November 5, 2026') and the Zoom recording's own timestamp (GMT20261105); moderator: the video description ('Moderated by Lee Schnaiberg'), written mid-sentence so Stage 1 does not parse it, and she runs the session (Zoom transcript); speakers: the description's index, with 'KE Visuals' (Keana Sears's studio name) dropped from the country field it was parsed into; audio_shared_as_presenter: Lee Schnaiberg plays Karen LaFleur's pre-recorded presentation and her own videos through her screen share, so Zoom labels them 'Audio shared by Lee Schnaiberg' -- they are attributed to the presenter whose slot (video description times) they fall in",
+      "speakers_manually_overridden:date: Salon 112 graphic ('THURSDAY NOVEMBER 5, 2026', SALON_112_HD.jpg), the video description ('Recorded November 5, 2026') and the Zoom recording's own timestamp (GMT20261105); moderator: the video description ('Moderated by Lee Schnaiberg'), written mid-sentence so Stage 1 does not parse it, and she runs the session (Zoom transcript); speakers: the description's index, with 'KE Visuals' (Keana Sears's studio name) dropped from the country field it was parsed into; audio_shared_as_presenter: Lee Schnaiberg plays Karen LaFleur's pre-recorded presentation and her own videos through her screen share, so Zoom labels them 'Audio shared by Lee Schnaiberg' -- they are attributed to the presenter whose slot (video description times) they fall in",
+      "audio_shared_as_presenter_manually_overridden:date: Salon 112 graphic ('THURSDAY NOVEMBER 5, 2026', SALON_112_HD.jpg), the video description ('Recorded November 5, 2026') and the Zoom recording's own timestamp (GMT20261105); moderator: the video description ('Moderated by Lee Schnaiberg'), written mid-sentence so Stage 1 does not parse it, and she runs the session (Zoom transcript); speakers: the description's index, with 'KE Visuals' (Keana Sears's studio name) dropped from the country field it was parsed into; audio_shared_as_presenter: Lee Schnaiberg plays Karen LaFleur's pre-recorded presentation and her own videos through her screen share, so Zoom labels them 'Audio shared by Lee Schnaiberg' -- they are attributed to the presenter whose slot (video description times) they fall in"
+    ],
+    "audio_shared_as_presenter": true,
+    "transcript_quality": {
+      "word_count": 10928,
+      "duration_seconds": 5185,
+      "words_per_minute": 126.5,
+      "bracket_marker_count": 0,
+      "low_confidence_flag": false
+    }
+  },
+  {
     "video_id": "JZFDck9gwH8",
     "url": "https://www.youtube.com/watch?v=JZFDck9gwH8",
     "type": "interview",

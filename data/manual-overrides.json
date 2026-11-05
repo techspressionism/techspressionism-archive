@@ -65,5 +65,37 @@
     "moderator": "Cynthia Beth Rubin and Cynthia DiDonato",
     "source": "date: final Salon 111 graphic ('THURSDAY OCTOBER 1, 2026', SALON_111_HD_MONTAGE.jpg) and the Zoom recording's own timestamp (GMT20261001); moderators: the video description lists both for the introductory remarks and they co-created Co-Working and ran the session (Zoom transcript) -- confirmed by Colin Goldberg 2026-10-07; audio_shared_as_presenter: Cynthia Beth Rubin plays the artists' pre-recorded presentations through her screen share, so Zoom labels them 'Audio shared by Cynthia Beth Rubin' -- they are attributed to the presenter whose slot (video description times) they fall in",
     "audio_shared_as_presenter": true
+  },
+  "5I6BswegIss": {
+    "date_recorded": "2026-11-05",
+    "moderator": "Lee Schnaiberg",
+    "speakers": [
+      {
+        "name": "Karen LaFleur",
+        "country": null,
+        "start_seconds": 191,
+        "start_display": "00:03:11"
+      },
+      {
+        "name": "Michael Pierre Price",
+        "country": null,
+        "start_seconds": 1044,
+        "start_display": "00:17:24"
+      },
+      {
+        "name": "Lee Schnaiberg",
+        "country": null,
+        "start_seconds": 2805,
+        "start_display": "00:46:45"
+      },
+      {
+        "name": "Keana Sears",
+        "country": null,
+        "start_seconds": 3732,
+        "start_display": "01:02:12"
+      }
+    ],
+    "source": "date: Salon 112 graphic ('THURSDAY NOVEMBER 5, 2026', SALON_112_HD.jpg), the video description ('Recorded November 5, 2026') and the Zoom recording's own timestamp (GMT20261105); moderator: the video description ('Moderated by Lee Schnaiberg'), written mid-sentence so Stage 1 does not parse it, and she runs the session (Zoom transcript); speakers: the description's index, with 'KE Visuals' (Keana Sears's studio name) dropped from the country field it was parsed into; audio_shared_as_presenter: Lee Schnaiberg plays Karen LaFleur's pre-recorded presentation and her own videos through her screen share, so Zoom labels them 'Audio shared by Lee Schnaiberg' -- they are attributed to the presenter whose slot (video description times) they fall in",
+    "audio_shared_as_presenter": true
   }
 }
