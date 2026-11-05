@@ -11,6 +11,8 @@ type: dataset
 authors:
   - family-names: Goldberg
     given-names: Colin
+    orcid: "https://orcid.org/0009-0000-9536-3784"
+    affiliation: Techspressionism
 repository-code: "https://github.com/techspressionism/techspressionism-archive"
 url: "https://techspressionism.com/"
 license: CC-BY-4.0
