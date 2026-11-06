@@ -3830,7 +3830,7 @@ def seo_display_name(name):
 def title_for_entry_meta(entry):
     """The name/heading to use in the <title> tag: entry_heading() as-is, UNLESS this is a salon/roundtable with
     2+ speakers and one participant clearly stands out as search-worthy (artist_prominence()) -- then that
-    person's name leads, since that's what people actually search for, not a topic or an unordered roster.
+    person's name is added AFTER the salon's own name (was first until 2026-11-06), since that's what people actually search for.
     When the existing session_title is itself just a name list, it's dropped entirely rather than repeating the
     lead name a second time. An interview leads with its (display-name) interviewee first, same reasoning, ahead
     of the "Techspressionist Artist Interview Series #N" series text rather than after it -- that series text is
@@ -3851,9 +3851,11 @@ def title_for_entry_meta(entry):
     topic = (entry.get("session_title") or "").strip()
     real_topic = topic and not _is_namelist_title(topic) and lead.lower() not in topic.lower()
     lead = seo_display_name(lead)
+    # Recording first, artist after (Colin, 2026-11-06: a browser tab that starts with an artist's name reads as that artist's page,
+    # e.g. Salon 112 showed "Karen LaFleur"). The most-searched participant is still named, just after the salon.
     if not real_topic:
-        return f"{lead} — {series}"
-    return f"{lead} — {series}: {topic}"
+        return f"{series} — {lead}"
+    return f"{series}: {topic} — {lead}"
 
 
 SYNOPSES_DIR = ROOT / "data" / "synopses"
