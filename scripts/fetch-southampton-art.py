@@ -139,7 +139,7 @@ def strip_wiki(s):
 
 
 def infobox_field(wt, name):
-    m = re.search(r"\|\s*" + name + r"\s*=\s*(.*?)(?=\n\s*\||\n\}\})", wt, re.S)
+    m = re.search(r"\|[ \t]*" + name + r"[ \t]*=[ \t]*(.*?)(?=\n\s*\||\n\}\})", wt, re.S)
     return m.group(1).strip() if m else ""
 
 
@@ -166,7 +166,7 @@ def birth_from_wikitext(wt, lead_text=""):
             elif not y and not place:
                 p = re.search(r"\bin ([A-Z][^;]+)$", inside)
                 place = p.group(1).strip(" ,.") if p else ""
-    if place and (len(place) > 80 or not re.search(r"[A-Za-z]", place)):
+    if place and (len(place) > 80 or "|" in place or "=" in place or not re.search(r"[A-Za-z]", place)):
         place = ""
     return year, place
 
