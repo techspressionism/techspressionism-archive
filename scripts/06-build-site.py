@@ -3248,7 +3248,20 @@ def build_person_page(p):
     for kind, text in (("website", "Website"), ("instagram", "Instagram"), ("wikipedia", "Wikipedia"), ("nft", "NFT"), ("twitter", "Twitter")):
         for u in p["links"].get(kind, [])[:2]:
             links.append(f'<a href="{e(u)}" target="_blank" rel="noopener">{text} &#8599;</a>')
-    parts = [f'<h1>{e(p["name"])}</h1>']
+    parts = []
+    work = SOUTHAMPTON_ART.get(p["id"])
+    if work and (SOUTHAMPTON_ART_DIR / work["file"]).exists():    # their work in the Southampton show, linked to its exhibition page
+        (SITE_DIR / "artist-images").mkdir(exist_ok=True)
+        shutil.copy2(SOUTHAMPTON_ART_DIR / work["file"], SITE_DIR / "artist-images" / f'art-{work["file"]}')
+        w_, h_ = jpeg_size(SOUTHAMPTON_ART_DIR / work["file"]) or (1200, 1200)
+        cap_ = work.get("caption") or ""
+        parts.append(f'<figure class="person-artwork"><a href="{e(work["profile"])}" target="_blank" rel="noopener">'
+                     f'<img src="artist-images/art-{e(work["file"])}" width="{w_}" height="{h_}" alt="{e(cap_ or "Work by " + p["name"])}"></a>'
+                     + (f'<figcaption>{e(cap_)}</figcaption>' if cap_ else '') + '</figure>')
+    parts.append(f'<h1>{e(p["name"])}</h1>')
+    born = WIKI_BIRTHS.get(p["id"])
+    if born and (born.get("year") or born.get("place")):
+        parts.append(f'<p class="born">Born {e(", ".join(x for x in (born.get("year"), born.get("place")) if x))}</p>')
     if p.get("location"):
         parts.append(f'<p class="where">{e(p["location"])}</p>')
     if p.get("aliases"):
@@ -3386,6 +3399,10 @@ main.person:has(.person-cols.has-photo) { max-width:66rem; }   /* room for the p
 .about-artist .wiki-credit { margin-top:.2rem; }
 main.person.category { max-width:84rem; }   /* wider: the category pages' two-column featured+list grid needs the room the plain person/about layout doesn't */
 .person h1 { margin:.2rem 0 .1rem; font-size:2.2rem; }
+.person-artwork { margin:0 0 1.2rem; }
+.person-artwork img { display:block; max-width:100%; width:auto; height:auto; max-height:34rem; }
+.person-artwork figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); }
+.person .born { margin:0 0 .2rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
@@ -3926,6 +3943,11 @@ if _ap.is_dir():
     for _f in sorted(_ap.glob("*.json")):
         _d = json.loads(_f.read_text())
         ARTIST_PROFILES[_d["artist_id"]] = _d
+# the artist's work in the Southampton exhibition, shown at the top of their page, and the birth year / place from Wikipedia under the name
+# (Colin 2026-11-08; both written by scripts/fetch-southampton-art.py, pictures in assets/southampton-art/)
+SOUTHAMPTON_ART_DIR = ROOT / "assets" / "southampton-art"
+SOUTHAMPTON_ART = json.loads((ROOT / "data" / "southampton-art.json").read_text()) if (ROOT / "data" / "southampton-art.json").exists() else {}
+WIKI_BIRTHS = json.loads((ROOT / "data" / "wikipedia-births.json").read_text()) if (ROOT / "data" / "wikipedia-births.json").exists() else {}
 VIDEO_DESCRIPTIONS = {}
 _vd = ROOT / "data" / "video-descriptions.json"
 if _vd.exists():
