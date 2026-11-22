@@ -3109,6 +3109,24 @@ def person_key(name):
     return re.sub(r"\s+", " ", re.sub(r"[^a-z ]", " ", s)).strip()
 
 
+ARTIST_INDEX_URL = "https://techspressionism.com/artists/"
+
+
+def _index_names():
+    """Everyone on the Techspressionist Visual Artist Index (data/artists.json), by person_key(), so an archive
+    artist page can link back to the Index only for people actually listed there (Colin, 2026-11-22: cross-link
+    the Index and the Archive both ways)."""
+    path = ROOT / "data" / "artists.json"
+    return {person_key(a["name"]) for a in json.loads(path.read_text())} if path.exists() else set()
+
+
+INDEX_NAMES = _index_names()
+
+
+def in_artist_index(p):
+    return any(person_key(n) in INDEX_NAMES for n in [p["name"]] + p.get("aliases", []))
+
+
 NO_ARTIST_PAGE = {"chatgpt"}        # a voice heard in a recording that is not a person with an artist page
 
 
@@ -3279,6 +3297,8 @@ def build_person_page(p, variant=False):
     for kind, text in (("website", "Website"), ("instagram", "Instagram"), ("wikipedia", "Wikipedia"), ("nft", "NFT"), ("twitter", "Twitter")):
         for u in p["links"].get(kind, [])[:2]:
             links.append(f'<a href="{e(u)}" target="_blank" rel="noopener">{text} &#8599;</a>')
+    if in_artist_index(p):       # back to the Artist Index on techspressionism.com (Colin 2026-11-22), same tab: it's the same site
+        links.append(f'<a href="{ARTIST_INDEX_URL}">Artist Index &#8599;</a>')
     parts = []
     portrait = PORTRAIT_SLOT if variant else portrait_figure(p)
     if portrait:                       # the B&W square headshot: first thing on the page, name and details below (Colin 2026-11-21)
@@ -3533,6 +3553,8 @@ CATEGORY_INTRO = {
         '<a href="https://techspressionism.com/wp-content/uploads/2021/01/Techspressionist_Interview_Series_Suggested_Format_1.2.pdf">format</a>. '
         'These videos are also published to the <a href="https://www.youtube.com/channel/UCIu-35fUEUTDDhRqa5z6zXQ">'
         'Techspressionism YouTube Channel.</a></p>'
+        '<p class="intro cat-intro">Meet more artists of the movement in the '
+        '<a href="https://techspressionism.com/artists/">Techspressionist Visual Artist Index</a>.</p>'
         '<hr class="cat-intro-hr">'
     ),
     "salon": (
@@ -4401,6 +4423,7 @@ def subscribe_link_html(trail=" &#47;&#47; ", short=False):
 
 
 FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
+          '<a href="https://techspressionism.com/artists/">Artist Index</a> &middot; '
           '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a>'
           + (f' &middot; {subscribe_link_html(trail="")}' if subscribe_url() else '') + '</footer>')
 
