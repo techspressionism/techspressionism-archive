@@ -3309,7 +3309,6 @@ def build_person_page(p, variant=False):
         parts.append(f'<p class="facts">{facts_html}</p>')
     if portrait:                       # headshot on the left, name and details in a block to its right (Colin 2026-11-22)
         parts[head_at:] = ['<div class="person-head">' + portrait + '<div class="person-info">' + "".join(parts[head_at:]) + '</div></div>']
-    parts += artwork                   # with a headshot on top, the artwork comes after the name and details, centred (Colin 2026-11-22)
     wiki = WIKI.get(p["id"])
     mine = ARTIST_PROFILES.get(p["id"])
     if mine and mine.get("bio"):      # the artist's own words (approved by the archive's editor), credited as such
@@ -3323,6 +3322,7 @@ def build_person_page(p, variant=False):
                      f'<p class="note wiki-credit">Source: <a href="{e(wiki["url"])}" target="_blank" rel="noopener">Wikipedia, &ldquo;{e(wiki["title"])}&rdquo;</a>, '
                      f'text available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. '
                      f'Retrieved {when.day} {when.strftime("%B %Y")}.</p></section>')
+    parts += artwork                   # with a headshot on top, the artwork comes after the name, details and "About this artist", centred (Colin 2026-11-22)
     if exhibitions:
         rows = []
         for slug, credits in exhibitions.items():
@@ -3453,8 +3453,8 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person-info { flex:1 1 auto; min-width:0; }
 .person-info h1 { margin-top:0; }
 .person-info .facts { margin-bottom:0; }
-.person-head + .person-artwork { text-align:center; }
-.person-head + .person-artwork img { margin:0 auto; }
+.person-head ~ .person-artwork { text-align:center; }
+.person-head ~ .person-artwork img { margin:0 auto; }
 @media (max-width:640px) { .person-head { display:block; } .person-head .person-portrait { margin:0 0 1.1rem; } }
 .person .born { margin:0 0 .2rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
