@@ -3468,6 +3468,17 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person-artwork img { display:block; max-width:100%; width:auto; height:auto; max-height:34rem; }
 .person-artwork figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); }
 .person .born { margin:0 0 .2rem; }
+/* with a headshot: the name, details, links and counts sit in a column to the right of it; the Southampton artwork,
+   centered with its caption, and everything else run full width below (Colin 2026-11-22). Floats, not a grid, so the
+   portrait pages the review tool writes (same markup, plus an inline style) get it from this stylesheet too. */
+@media (min-width:40rem) {
+  .person .person-portrait { float:left; margin:.35rem 2.4rem 1.6rem 0; }
+  .person .person-portrait ~ h1 { margin-top:0; }
+}
+.person .person-portrait ~ :not(h1, .born, .where, .links, .facts, style, script) { clear:both; }
+.person .person-portrait ~ .person-artwork { margin:2rem auto 1.4rem; text-align:center; }
+.person .person-portrait ~ .person-artwork img { margin:0 auto; }
+.person .person-portrait ~ .person-artwork figcaption { max-width:40rem; margin-left:auto; margin-right:auto; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
 .person h2 { font-size:1.25rem; margin:2rem 0 .6rem; border-top:1px solid var(--accent); padding-top:1rem; }
