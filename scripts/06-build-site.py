@@ -3301,8 +3301,6 @@ def build_person_page(p, variant=False):
         links.append(f'<a href="{ARTIST_INDEX_URL}">Artist Index &#8599;</a>')
     parts = []
     portrait = PORTRAIT_SLOT if variant else portrait_figure(p)
-    if portrait:                       # the B&W square headshot: first thing on the page, name and details below (Colin 2026-11-21)
-        parts.append(portrait)
     artwork = []
     work = SOUTHAMPTON_ART.get(p["id"])
     if work and (SOUTHAMPTON_ART_DIR / work["file"]).exists():    # their work in the Southampton show, linked to its exhibition page
@@ -3316,6 +3314,7 @@ def build_person_page(p, variant=False):
     if not portrait:                   # no headshot: the Southampton artwork stays at the top, as before
         parts += artwork
         artwork = []
+    head_at = len(parts)
     parts.append(f'<h1>{e(p["name"])}</h1>')
     born = WIKI_BIRTHS.get(p["id"])
     if born and (born.get("year") or born.get("place")):
@@ -3328,7 +3327,9 @@ def build_person_page(p, variant=False):
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
         parts.append(f'<p class="facts">{facts_html}</p>')
-    parts += artwork                   # with a headshot on top, the artwork comes after the name and details
+    if portrait:                       # headshot on the left, name and details in a block to its right (Colin 2026-11-22)
+        parts[head_at:] = ['<div class="person-head">' + portrait + '<div class="person-info">' + "".join(parts[head_at:]) + '</div></div>']
+    parts += artwork                   # with a headshot on top, the artwork comes after the name and details, centred (Colin 2026-11-22)
     wiki = WIKI.get(p["id"])
     mine = ARTIST_PROFILES.get(p["id"])
     if mine and mine.get("bio"):      # the artist's own words (approved by the archive's editor), credited as such
@@ -3467,6 +3468,14 @@ main.person.category { max-width:84rem; }   /* wider: the category pages' two-co
 .person-artwork { margin:0 0 1.2rem; }
 .person-artwork img { display:block; max-width:100%; width:auto; height:auto; max-height:34rem; }
 .person-artwork figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); }
+.person-head { display:flex; align-items:flex-start; gap:1.6rem; margin:0 0 1.6rem; }   /* headshot left, name and details right (Colin 2026-11-22) */
+.person-head .person-portrait { flex:0 0 auto; margin:0; }
+.person-info { flex:1 1 auto; min-width:0; }
+.person-info h1 { margin-top:0; }
+.person-info .facts { margin-bottom:0; }
+.person-head + .person-artwork { text-align:center; }
+.person-head + .person-artwork img { margin:0 auto; }
+@media (max-width:640px) { .person-head { display:block; } .person-head .person-portrait { margin:0 0 1.1rem; } }
 .person .born { margin:0 0 .2rem; }
 .person .where { color:var(--muted); margin:0 0 .8rem; }
 .person .links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:0 0 1.5rem; }
