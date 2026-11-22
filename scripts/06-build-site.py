@@ -3109,24 +3109,6 @@ def person_key(name):
     return re.sub(r"\s+", " ", re.sub(r"[^a-z ]", " ", s)).strip()
 
 
-ARTIST_INDEX_URL = "https://techspressionism.com/artists/"
-
-
-def _index_names():
-    """Everyone on the Techspressionist Visual Artist Index (data/artists.json), by person_key(), so an archive
-    artist page can link back to the Index only for people actually listed there (Colin, 2026-11-22: cross-link
-    the Index and the Archive both ways)."""
-    path = ROOT / "data" / "artists.json"
-    return {person_key(a["name"]) for a in json.loads(path.read_text())} if path.exists() else set()
-
-
-INDEX_NAMES = _index_names()
-
-
-def in_artist_index(p):
-    return any(person_key(n) in INDEX_NAMES for n in [p["name"]] + p.get("aliases", []))
-
-
 NO_ARTIST_PAGE = {"chatgpt"}        # a voice heard in a recording that is not a person with an artist page
 
 
@@ -3297,8 +3279,6 @@ def build_person_page(p, variant=False):
     for kind, text in (("website", "Website"), ("instagram", "Instagram"), ("wikipedia", "Wikipedia"), ("nft", "NFT"), ("twitter", "Twitter")):
         for u in p["links"].get(kind, [])[:2]:
             links.append(f'<a href="{e(u)}" target="_blank" rel="noopener">{text} &#8599;</a>')
-    if in_artist_index(p):       # back to the Artist Index on techspressionism.com (Colin 2026-11-22), same tab: it's the same site
-        links.append(f'<a href="{ARTIST_INDEX_URL}">Artist Index &#8599;</a>')
     parts = []
     portrait = PORTRAIT_SLOT if variant else portrait_figure(p)
     artwork = []
