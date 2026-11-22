@@ -66,7 +66,8 @@ PERSON_MERGES = {
     "Giovanna Sun": ["Dubwoman aka Giovanna Sun"],
     "Paul D. Miller aka DJ Spooky that Subliminal Kid": ["Paul D. Miller aka DJ Spooky"],
     "Reese Schroeder": ["Wiliam Reese Schroeder"],
-    "Jan Swinburne": ["Jan Swinbume"],   # "rn" misread as "m" somewhere in a WP export source (a bare, dataless stub record)
+    "Jan Swinburne": ["Jan Swinbume"],
+    "Cristina Ballesteros": ["Cristina Inciarte"],   # Inciarte is her maiden name; Ballesteros her married name (Colin 2026-11-21)   # "rn" misread as "m" somewhere in a WP export source (a bare, dataless stub record)
 }
 
 

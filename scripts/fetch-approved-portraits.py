@@ -11,6 +11,8 @@ ROOT = Path(__file__).resolve().parent.parent
 API = "https://techspressionism.com/wp-json/ts-portraits/v1/approved"
 OUT_JSON = ROOT / "data" / "artist-portraits.json"
 OUT_DIR = ROOT / "assets" / "artist-portraits"
+# artist pages that were merged into another one (same person, two names): a portrait published on the old id moves along
+MOVED = {"cristina-inciarte": "cristina-ballesteros"}   # maiden / married name (Colin 2026-11-21)
 
 
 def get(url):
@@ -28,6 +30,7 @@ def main():
     old = json.loads(OUT_JSON.read_text()) if OUT_JSON.exists() else {}
     new = {}
     for pid, a in sorted(approved.items()):
+        pid = MOVED.get(pid, pid)
         f = OUT_DIR / f"{pid}.jpg"
         same = old.get(pid, {}).get("opt") == a["opt"] and old.get(pid, {}).get("recording") == a["recording"] and f.exists()
         if not same:
