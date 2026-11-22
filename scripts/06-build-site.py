@@ -3245,7 +3245,8 @@ def portrait_figure(p):
            f'{e(SITE_CONFIG.get("organization_name") or "Techspressionism")}, '
            f'<a href="{e(lic_url)}" target="_blank" rel="noopener">{e(lic)}</a>, via YouTube')
     return (f'<figure class="person-portrait"><img src="artist-images/portrait-{e(pr["file"])}" width="{PORTRAIT_W}" height="{PORTRAIT_H}" '
-            f'alt="Portrait of {e(p["name"])}"><figcaption>{cap}</figcaption></figure>')
+            f'alt="Black-and-white portrait of {e(p["name"])}, still from {e(series_name(en))} ({e((en.get("date_recorded") or "")[:4])})">'
+            f'<figcaption>{cap}</figcaption></figure>')
 
 
 PORTRAIT_SLOT = "<!--ts-portrait-slot-->"
