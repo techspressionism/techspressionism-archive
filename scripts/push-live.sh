@@ -29,6 +29,7 @@ RUN="$(curl -s "https://api.github.com/repos/$REPO/actions/runs?head_sha=$SHA&pe
 print "commit $SHORT is on GitHub and its staging deploy succeeded"
 
 step "2/6  Production build"
+print "Pulling the portraits published in the review tool..."; python3 scripts/fetch-approved-portraits.py || die "could not read the published portraits; stopping so the push does not remove them"
 TVA_CANONICAL_BASE="$BASE" python3 scripts/06-build-site.py > /tmp/push-live-build.log 2>&1 || { tail -20 /tmp/push-live-build.log; die "build failed"; }
 grep -q "<link rel=\"canonical\" href=\"$BASE/\">" site/index.html || die "built home page does not carry the production canonical address"
 [[ -f site/sitemap.xml && -f site/llms.txt && -f site/pagefind/pagefind.js ]] || die "build is missing sitemap.xml, llms.txt or the search index"
