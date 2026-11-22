@@ -3223,7 +3223,37 @@ def archive_moment_pill(ent, seconds):
             f'<span class="watch-word">WATCH</span>{PILL_SVG}{pill_time(seconds)}</a>')
 
 
-def build_person_page(p):
+def portrait_figure(p):
+    """The artist's black-and-white square headshot, a still from a recording in this archive (data/artist-portraits.json,
+    made by scripts/make-portraits.py), with a very small caption linking to that moment of the public recording and
+    the licence (Colin 2026-11-21)."""
+    pr = PORTRAITS.get(p["id"])
+    if not pr or not (PORTRAIT_DIR / pr["file"]).exists():
+        return ""
+    (SITE_DIR / "artist-images").mkdir(exist_ok=True)
+    shutil.copy2(PORTRAIT_DIR / pr["file"], SITE_DIR / "artist-images" / f'portrait-{pr["file"]}')
+    en = next((x for x in NAV_CORPUS if slug(x) == pr["recording"]), None)
+    if en is None:
+        return ""
+    t = max(0, int(pr["t"]))
+    href = f"https://www.youtube.com/watch?v={en['video_id']}&t={t}s"
+    lic_url = SITE_CONFIG.get("license_url") or "https://creativecommons.org/licenses/by/4.0/"
+    lic = SITE_CONFIG.get("license_name") or "CC BY 4.0"
+    # Wikimedia Commons attribution style (author, licence, "via" source), with the exact watch moment so the still can be cited
+    cap = (f'{e(p["name"])}, still from <a href="{e(href)}" target="_blank" rel="noopener">{e(series_name(en))} '
+           f'({e(fmt_date(en.get("date_recorded")))}) at {pill_time(t)}</a>. '
+           f'{e(SITE_CONFIG.get("organization_name") or "Techspressionism")}, '
+           f'<a href="{e(lic_url)}" target="_blank" rel="noopener">{e(lic)}</a>, via YouTube')
+    return (f'<figure class="person-portrait"><img src="artist-images/portrait-{e(pr["file"])}" width="{PORTRAIT_W}" height="{PORTRAIT_H}" '
+            f'alt="Portrait of {e(p["name"])}"><figcaption>{cap}</figcaption></figure>')
+
+
+PORTRAIT_SLOT = "<!--ts-portrait-slot-->"
+
+
+def build_person_page(p, variant=False):
+    """variant=True: the page as it looks once a portrait is published from the review tool on the site (the ts-portraits
+    plugin): no Wikipedia picture, and a slot the plugin fills with the approved headshot and its caption."""
     labels = p["exhibition_labels"]
     def count_link(n, one, many, anchor):
         return f'<a href="#{anchor}">{n:,} {one if n == 1 else many}</a>'
@@ -3249,15 +3279,22 @@ def build_person_page(p):
         for u in p["links"].get(kind, [])[:2]:
             links.append(f'<a href="{e(u)}" target="_blank" rel="noopener">{text} &#8599;</a>')
     parts = []
+    portrait = PORTRAIT_SLOT if variant else portrait_figure(p)
+    if portrait:                       # the B&W square headshot: first thing on the page, name and details below (Colin 2026-11-21)
+        parts.append(portrait)
+    artwork = []
     work = SOUTHAMPTON_ART.get(p["id"])
     if work and (SOUTHAMPTON_ART_DIR / work["file"]).exists():    # their work in the Southampton show, linked to its exhibition page
         (SITE_DIR / "artist-images").mkdir(exist_ok=True)
         shutil.copy2(SOUTHAMPTON_ART_DIR / work["file"], SITE_DIR / "artist-images" / f'art-{work["file"]}')
         w_, h_ = jpeg_size(SOUTHAMPTON_ART_DIR / work["file"]) or (1200, 1200)
         cap_ = work.get("caption") or ""
-        parts.append(f'<figure class="person-artwork"><a href="{e(work["profile"])}" target="_blank" rel="noopener">'
-                     f'<img src="artist-images/art-{e(work["file"])}" width="{w_}" height="{h_}" alt="{e(cap_ or "Work by " + p["name"])}"></a>'
-                     + (f'<figcaption>{e(cap_)}</figcaption>' if cap_ else '') + '</figure>')
+        artwork.append(f'<figure class="person-artwork"><a href="{e(work["profile"])}" target="_blank" rel="noopener">'
+                       f'<img src="artist-images/art-{e(work["file"])}" width="{w_}" height="{h_}" alt="{e(cap_ or "Work by " + p["name"])}"></a>'
+                       + (f'<figcaption>{e(cap_)}</figcaption>' if cap_ else '') + '</figure>')
+    if not portrait:                   # no headshot: the Southampton artwork stays at the top, as before
+        parts += artwork
+        artwork = []
     parts.append(f'<h1>{e(p["name"])}</h1>')
     born = WIKI_BIRTHS.get(p["id"])
     if born and (born.get("year") or born.get("place")):
@@ -3270,6 +3307,7 @@ def build_person_page(p):
         parts.append(f'<p class="links">{"".join(links)}</p>')
     if facts_html:
         parts.append(f'<p class="facts">{facts_html}</p>')
+    parts += artwork                   # with a headshot on top, the artwork comes after the name and details
     wiki = WIKI.get(p["id"])
     mine = ARTIST_PROFILES.get(p["id"])
     if mine and mine.get("bio"):      # the artist's own words (approved by the archive's editor), credited as such
@@ -3369,6 +3407,8 @@ def build_person_page(p):
         photo = (f'<aside class="person-photo"><figure><img src="artist-images/{e(up.name)}" width="{w_}" height="{h_}" alt="Picture of {e(p["name"])}" loading="lazy">'
                  f'<figcaption>Picture provided by the artist</figcaption></figure></aside>')
         body = f'<div class="person-cols has-photo">{photo}<div class="person-main">\n{body}\n</div></div>'
+    elif portrait:
+        pass                           # the headshot replaces the Wikipedia picture (Colin 2026-11-21)
     elif img and (lib_wikipedia.IMG_DIR / f"{p['id']}.jpg").exists():      # a freely licensed Wikipedia picture: left column on desktop, on top on a phone
         w_, h_ = jpeg_size(lib_wikipedia.IMG_DIR / f"{p['id']}.jpg") or (640, 640)
         author = re.sub(r"\s+", " ", img.get("author") or "").strip()
@@ -3399,6 +3439,10 @@ main.person:has(.person-cols.has-photo) { max-width:66rem; }   /* room for the p
 .about-artist .wiki-credit { margin-top:.2rem; }
 main.person.category { max-width:84rem; }   /* wider: the category pages' two-column featured+list grid needs the room the plain person/about layout doesn't */
 .person h1 { margin:.2rem 0 .1rem; font-size:2.2rem; }
+.person-portrait { margin:0 0 1.1rem; width:14rem; max-width:62vw; }   /* the headshot: first on the page, flush with the text's left edge */
+.person-portrait img { display:block; width:100%; height:auto; aspect-ratio:1/1; }
+.person-portrait figcaption { margin-top:.35rem; font-size:.6rem; line-height:1.3; color:var(--muted); }   /* a small photo caption, well under body size */
+.person-portrait figcaption a { color:inherit; text-decoration:underline; }
 .person-artwork { margin:0 0 1.2rem; }
 .person-artwork img { display:block; max-width:100%; width:auto; height:auto; max-height:34rem; }
 .person-artwork figcaption { margin-top:.4rem; font-size:.75rem; line-height:1.35; color:var(--muted); }
@@ -3945,6 +3989,9 @@ if _ap.is_dir():
         ARTIST_PROFILES[_d["artist_id"]] = _d
 # the artist's work in the Southampton exhibition, shown at the top of their page, and the birth year / place from Wikipedia under the name
 # (Colin 2026-11-08; both written by scripts/fetch-southampton-art.py, pictures in assets/southampton-art/)
+PORTRAIT_DIR = ROOT / "assets" / "artist-portraits"      # B&W square headshots from the recordings (scripts/make-portraits.py)
+PORTRAIT_W, PORTRAIT_H = 1080, 1080      # square, clean crop (Colin 2026-11-21 evening)
+PORTRAITS = json.loads((ROOT / "data" / "artist-portraits.json").read_text()) if (ROOT / "data" / "artist-portraits.json").exists() else {}
 SOUTHAMPTON_ART_DIR = ROOT / "assets" / "southampton-art"
 SOUTHAMPTON_ART = json.loads((ROOT / "data" / "southampton-art.json").read_text()) if (ROOT / "data" / "southampton-art.json").exists() else {}
 WIKI_BIRTHS = json.loads((ROOT / "data" / "wikipedia-births.json").read_text()) if (ROOT / "data" / "wikipedia-births.json").exists() else {}
@@ -4685,6 +4732,14 @@ def main():
     for pp in LISTED:                                   # only artists heard or named in the recordings have a page
         write_page(f"artist/{pp['id']}", add_seo(add_robots(build_person_page(pp), f"artist-{pp['id']}.html"),
                                                  f"artist-{pp['id']}.html", seo_for_person(pp)), 2)
+    # the with-portrait version of every artist page, for the review tool's Publish button (uploaded to the plugin, never deployed as is)
+    VARIANT_DIR = ROOT / "site-variants"
+    VARIANT_DIR.mkdir(exist_ok=True)
+    for pp in LISTED:
+        v = add_seo(add_robots(build_person_page(pp, variant=True), f"artist-{pp['id']}.html"), f"artist-{pp['id']}.html", seo_for_person(pp))
+        if 'rel="icon"' not in v:
+            v = v.replace("</head>", favicon_tags() + "</head>", 1)
+        (VARIANT_DIR / f"{pp['id']}.html").write_text(nest(v, 2))
     listed_ids = {pp["id"] for pp in LISTED}
     for old_id, new_id in ARTIST_REDIRECTS.items():
         if old_id not in listed_ids:                    # never shadow a real page with a stale redirect entry
@@ -4692,7 +4747,8 @@ def main():
     (SITE_DIR / "data").mkdir(exist_ok=True)      # the names the home page's search checks a query against, to put an artist's own page first
     (SITE_DIR / "data" / "artists-search.json").write_text(json.dumps([
         {"n": pp["name"], "a": pp.get("aliases") or [], "u": f"artist/{pp['id']}/", "l": pp.get("location") or "", "r": len(pp["speaks"]), "m": len(pp["mentions"]),
-         "i": f"artist-images/{pp['id']}.jpg" if (WIKI.get(pp["id"]) or {}).get("image") else ""} for pp in LISTED], ensure_ascii=False, separators=(",", ":")))
+         "i": (f"artist-images/portrait-{PORTRAITS[pp['id']]['file']}" if pp["id"] in PORTRAITS and (PORTRAIT_DIR / PORTRAITS[pp["id"]]["file"]).exists()
+               else f"artist-images/{pp['id']}.jpg" if (WIKI.get(pp["id"]) or {}).get("image") else "")} for pp in LISTED], ensure_ascii=False, separators=(",", ":")))
     write_site_files(corpus)
     print(f"{len(LISTED)} artist pages (people heard or named in the recordings; {len(PEOPLE)} in the directory)")
     if AUTO_PRESENTATION_SLUGS:

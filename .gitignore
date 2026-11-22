@@ -7,3 +7,4 @@ __pycache__/
 .venv-diar/
 private/
 review/techspressionism-suspects.csv
+site-variants/
