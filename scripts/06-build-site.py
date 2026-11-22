@@ -837,6 +837,7 @@ html.sent-hl .para.active .tx { background:none; }   /* only the sentence being 
   .player-box { position:static; margin:0 0 1rem; border-radius:.4rem; overflow:hidden; }   /* was static -- per Colin 2026-09-22, should stay pinned to the top of .side while scrolling within it, same as it already does on mobile (there against the whole page, since .side itself doesn't have its own scroll box below 64rem) */
   .layout.reading .side { align-self:stretch; }   /* with the transcript open the left column runs the whole length of the transcript, so the video can stay pinned beside it (Colin 2026-10-21: the video must stay in view while the transcript plays) */
   .layout.reading .player-box { position:sticky; top:calc(var(--title-h, 0px) + .75rem); z-index:20; }
+  .layout.reading .right { position:sticky; top:calc(var(--title-h, 0px) + .75rem); max-height:calc(100vh - var(--title-h, 0px) - 1.5rem); overflow-y:auto; overscroll-behavior:contain; padding-right:.75rem; }   /* desktop, transcript open: the transcript is its own scrolling pane beside the pinned video, and the auto-follow scrolls only this pane, so the page content under the video stays put (Colin 2026-11-22) */
   .player-frame { width:min(100%, calc((100vh - var(--title-h, 0px) - 2rem) * 16 / 9)); }   /* desktop: never taller than the window, so the pinned video is always whole */
   .para, .seg-head, h3.para-time, .js .transcript { scroll-margin-top:1.5rem; }
   .js .watch-next { display:block; }
@@ -1400,6 +1401,8 @@ PLAYER_JS = """<script>
     var turn = (el.closest && el.closest('.para')) || el;
     if (window.innerWidth < 1024) { turn.scrollIntoView(smooth ? { block: 'center', behavior: 'smooth' } : undefined); return; }
     function place(behavior) {
+      var pn = txPane();
+      if (pn) { var b = txBand(); pn.scrollTo({ top: Math.max(0, pn.scrollTop + turn.getBoundingClientRect().top - (b.top + b.bottom) / 2), behavior: behavior }); return; }
       var h = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--title-h')) || 0;
       window.scrollTo({ top: Math.max(0, turn.getBoundingClientRect().top + window.pageYOffset - (h + (window.innerHeight - h) / 2)), behavior: behavior });
     }
@@ -1420,8 +1423,8 @@ PLAYER_JS = """<script>
       if (ready && player && player.getPlayerState && player.getPlayerState() === 1) { now = player.getCurrentTime(); for (var q = 0; q < starts.length; q++) if (starts[q] <= now + 0.5) k = q; }      // playing: follow the video, not the moment first asked for
       var y = typeof spokenY === 'function' ? spokenY(k, now) : null;
       if (y === null) { centerTurn(paras[k], false); return; }
-      var top = (bar && bar.classList.contains('on')) ? bar.offsetHeight : 0, d = y - (top + window.innerHeight) / 2;
-      if (Math.abs(d) > 40) window.scrollBy(0, d);
+      var b = txBand(), d = y - (b.top + b.bottom) / 2;
+      if (Math.abs(d) > 40) txScrollBy(d);
     }
     place();
     [150, 500, 1200, 2500, 4500].forEach(function (ms) { setTimeout(place, ms); });
@@ -1433,6 +1436,18 @@ PLAYER_JS = """<script>
   // first scrolls it back into view. revealVideo() is that step; it returns true on desktop. (Colin 2026-10-06, pinned again 2026-10-21)
   var followPause = false;
   function desktopLayout() { return window.innerWidth >= 1024; }
+  // Desktop with the transcript open: the transcript column is its own scrolling pane (CSS .layout.reading .right), so following
+  // the spoken words scrolls only that pane and the page beside the pinned video stays still (Colin 2026-11-22). txPane() is that
+  // pane when it is in use, else null (the window scrolls, as before); txBand() is the part of the screen the transcript shows in.
+  var rightCol = document.querySelector('.layout > .right');
+  function txPane() { return (rightCol && desktopLayout() && layout.classList.contains('reading') && rightCol.scrollHeight > rightCol.clientHeight + 1) ? rightCol : null; }
+  function txBand() {
+    var barH = (bar && bar.classList.contains('on')) ? bar.offsetHeight : 0, pn = txPane();
+    if (!pn) return { top: barH, bottom: window.innerHeight };
+    var r = pn.getBoundingClientRect();
+    return { top: Math.max(r.top, barH), bottom: Math.min(r.bottom, window.innerHeight) };
+  }
+  function txScrollBy(d) { var pn = txPane(); if (pn) pn.scrollBy(0, d); else window.scrollBy(0, d); }
   function revealVideo() {
     var vb = document.getElementById('player-box');
     if (!vb || !desktopLayout()) return false;
@@ -1881,8 +1896,8 @@ PLAYER_JS = """<script>
     if (followPause || Date.now() - lastUser < 3000 || Date.now() < holdUntil) return;
     var y = spokenY(active, t);
     if (y === null) return;
-    var top = window.innerWidth < 1024 ? Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0) : (bar && bar.classList.contains('on') ? bar.offsetHeight : 0);
-    var center = (top + window.innerHeight) / 2;
+    var band = window.innerWidth < 1024 ? { top: Math.max(box.getBoundingClientRect().bottom, btn ? btn.getBoundingClientRect().bottom : 0), bottom: window.innerHeight } : txBand();
+    var top = band.top, center = (band.top + band.bottom) / 2;
     // Scrolling starts only once the spoken part has reached the middle: until then it simply moves down the screen by itself (the first turn of a
     // recording starts near the top of the text). If it is out of sight (the reader scrolled away, or the video jumped), it is brought back to the middle.
     if (y <= center && y >= top) { remaining = 0; return; }
@@ -1895,7 +1910,7 @@ PLAYER_JS = """<script>
     glideAt = Date.now();
     var step = remaining * 0.2;
     if (Math.abs(step) < 1) step = remaining;
-    window.scrollBy(0, step);
+    txScrollBy(step);
     remaining -= step;
     requestAnimationFrame(glide);
   }
