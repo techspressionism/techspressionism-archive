@@ -3146,6 +3146,11 @@ def load_people(corpus):
             k = person_key(n)
             if k and k not in PERSON_BY_NORM:
                 PERSON_BY_NORM[k] = p
+    for p in PEOPLE:       # then under the spelling the transcripts use (data/speaker_aliases.json), when nobody has it yet: Index "Beau Tardy Artist" = speaker "Beau Tardy"
+        for n in [p["name"]] + p.get("aliases", []):
+            k = person_key(lib_speakers.canonical_name(n) or "")
+            if k and k not in PERSON_BY_NORM:
+                PERSON_BY_NORM[k] = p
         for kind in list(p["links"]):               # links found broken or parked are left out (listed in review/broken-links.csv)
             p["links"][kind] = [u for u in p["links"][kind] if status.get(u, {}).get("status") not in ("broken", "parked")]
     # who has an interview video of their own (the person interviewed, not the interviewer)
