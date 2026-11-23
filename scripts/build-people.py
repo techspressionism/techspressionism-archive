@@ -68,6 +68,9 @@ PERSON_MERGES = {
     "Reese Schroeder": ["Wiliam Reese Schroeder"],
     "Jan Swinburne": ["Jan Swinbume"],
     "Greg Garvey": ["Gregory Patrick Garvey"],   # one person, two Index entries; Colin 2026-11-22: "just Greg Garvey"
+    "Caro Ramonde": ["Carolina Ramonde"],   # Colin 2026-11-22
+    "Adrianne Wortzel": ["Adrienne Wortzel"],   # spelling as on Wikipedia (Colin 2026-11-22)
+    "Cee Moses": ['Carmen "Payasa" Moses', "Carmen Payasa Moses"],   # Colin 2026-11-22
     "Cristina Ballesteros": ["Cristina Inciarte"],   # Inciarte is her maiden name; Ballesteros her married name (Colin 2026-11-21)   # "rn" misread as "m" somewhere in a WP export source (a bare, dataless stub record)
 }
 
