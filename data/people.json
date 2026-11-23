@@ -2693,17 +2693,9 @@
   {
    "id": "greg-garvey",
    "name": "Greg Garvey",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "gregory-patrick-garvey",
-   "name": "Gregory Patrick Garvey",
-   "aliases": [],
+   "aliases": [
+    "Gregory Patrick Garvey"
+   ],
    "location": "Hamden, USA",
    "links": {
     "website": [
