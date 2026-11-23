@@ -12,7 +12,7 @@ API = "https://techspressionism.com/wp-json/ts-portraits/v1/approved"
 OUT_JSON = ROOT / "data" / "artist-portraits.json"
 OUT_DIR = ROOT / "assets" / "artist-portraits"
 # artist pages that were merged into another one (same person, two names): a portrait published on the old id moves along
-MOVED = {"cristina-inciarte": "cristina-ballesteros"}   # maiden / married name (Colin 2026-11-21)
+MOVED = {"cristina-inciarte": "cristina-ballesteros", "gregory-patrick-garvey": "greg-garvey", "carolina-ramonde": "caro-ramonde", "adrienne-wortzel": "adrianne-wortzel", "carmen-payasa-moses": "cee-moses"}   # maiden / married name (Colin 2026-11-21)
 
 
 def get(url):

@@ -2693,17 +2693,9 @@
   {
    "id": "greg-garvey",
    "name": "Greg Garvey",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "gregory-patrick-garvey",
-   "name": "Gregory Patrick Garvey",
-   "aliases": [],
+   "aliases": [
+    "Gregory Patrick Garvey"
+   ],
    "location": "Hamden, USA",
    "links": {
     "website": [
@@ -5552,9 +5544,10 @@
    "reels": []
   },
   {
-   "id": "carmen-payasa-moses",
-   "name": "Carmen \"Payasa\" Moses",
+   "id": "cee-moses",
+   "name": "Cee Moses",
    "aliases": [
+    "Carmen \"Payasa\" Moses",
     "Carmen Moses"
    ],
    "location": "Augusta, USA",
@@ -5566,16 +5559,6 @@
      "https://instagram.com/payasaart/"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "cee-moses",
-   "name": "Cee Moses",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
@@ -6650,17 +6633,9 @@
   {
    "id": "caro-ramonde",
    "name": "Caro Ramonde",
-   "aliases": [],
-   "location": "",
-   "links": {},
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "carolina-ramonde",
-   "name": "Carolina Ramonde",
-   "aliases": [],
+   "aliases": [
+    "Carolina Ramonde"
+   ],
    "location": "Montevideo, Uruguay",
    "links": {
     "website": [
@@ -9151,7 +9126,9 @@
   {
    "id": "adrianne-wortzel",
    "name": "Adrianne Wortzel",
-   "aliases": [],
+   "aliases": [
+    "Adrienne Wortzel"
+   ],
    "location": "Astoria, USA",
    "links": {
     "website": [
@@ -9164,16 +9141,6 @@
      "https://en.wikipedia.org/wiki/Adrianne_Wortzel"
     ]
    },
-   "ts_profile": "",
-   "exhibitions": {},
-   "reels": []
-  },
-  {
-   "id": "adrienne-wortzel",
-   "name": "Adrienne Wortzel",
-   "aliases": [],
-   "location": "",
-   "links": {},
    "ts_profile": "",
    "exhibitions": {},
    "reels": []
