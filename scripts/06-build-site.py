@@ -4434,7 +4434,10 @@ def subscribe_link_html(trail=" &#47;&#47; ", short=False):
 FOOTER = ('<footer class="sitefoot" data-pagefind-ignore><a href="about.html">About the archive and how to cite it</a> &middot; '
           '<a href="https://techspressionism.com/artists/">Artist Index</a> &middot; '
           '<a href="data/recordings.csv">Recordings (CSV)</a> &middot; <a href="llms.txt">llms.txt</a>'
-          + (f' &middot; {subscribe_link_html(trail="")}' if subscribe_url() else '') + '</footer>')
+          + (f' &middot; {subscribe_link_html(trail="")}' if subscribe_url() else '')
+          # "Cite this archive" with the Zenodo concept DOI (Colin 2026-11-24): its own line under the links, so academics see a citable DOI on every page
+          + (f'<br><span class="cite-archive">Cite this archive: <a href="https://doi.org/{e(SITE_CONFIG["zenodo_doi"])}">doi:{e(SITE_CONFIG["zenodo_doi"])}</a></span>'
+             if SITE_CONFIG.get("zenodo_doi") else '') + '</footer>')
 
 
 def google_tag_snippet():
@@ -4628,6 +4631,7 @@ Verify every quotation against the recording before citing it.</p>
 Every search result offers a ready-made citation with a Copy Citation button. The form is:</p>
 <p class="cite-example">{ex_cite}</p>
 <p>The example uses {e(ex_title)}; each recording page also shows its own citation line.</p>
+{f'<p>To cite the archive as a whole, cite its permanent deposit: Goldberg, Colin. <em>{e(BRAND)}</em>. Zenodo. <a href="https://doi.org/{e(SITE_CONFIG["zenodo_doi"])}">https://doi.org/{e(SITE_CONFIG["zenodo_doi"])}</a>.</p>' if SITE_CONFIG.get("zenodo_doi") else ''}
 <h2>Data and reuse</h2>
 <ul>
 <li><a href="data/recordings.csv">recordings.csv</a>: every recording with its title, dates, YouTube address and duration.</li>
