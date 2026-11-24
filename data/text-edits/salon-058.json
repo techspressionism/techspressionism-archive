@@ -1,0 +1,14 @@
+{
+    "edits": [
+        {
+            "t": 3.12,
+            "old": "Welcome, welcome, welcome to our Techspress virtual salon. I'm your moderator, Davonte Bradley, and joining me today are at the moment about 24 other glorious artists. There could be more that trickle in, but if it's your first time here, I bid you welcome. And you don't have to be shy, but you don't have to speak up if you don't want to. I'm not going to force you, unless you want us to.",
+            "new": "Welcome, welcome, welcome to our Techspressionist virtual salon. I'm your moderator, Davonte Bradley, and joining me today are at the moment about 24 other glorious artists. There could be more that trickle in, but if it's your first time here, I bid you welcome. And you don't have to be shy, but you don't have to speak up if you don't want to. I'm not going to force you, unless you want us to.",
+            "by": "Claude (for Colin Goldberg)",
+            "at": "2026-11-24 18:42",
+            "note": "Speech recognition misheard \"Techspressionism\"/\"Techspressionist\".",
+            "status": "approved",
+            "id": "41061f0154"
+        }
+    ]
+}

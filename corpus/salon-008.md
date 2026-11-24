@@ -197,7 +197,7 @@ Just let the other members know where you're calling in from and stuff.
 
 ## Giovanna Sun [11:14](https://www.youtube.com/watch?v=lxunnn1tM5M&t=674s)
 
-Yeah, sure. I'm from New York. I'm an artist curator. Also I found ARPOD. ARPOD is a mobile app you can download to showcase your art. We produce AR and VR gallery. I also like to let all of you know that our office. We have a lot of work to do. We can actually do physical art shows. As a member of a tech prescient that you're welcome to join that we have a lot of art fair this year.
+Yeah, sure. I'm from New York. I'm an artist curator. Also I found ARPOD. ARPOD is a mobile app you can download to showcase your art. We produce AR and VR gallery. I also like to let all of you know that our office. We have a lot of work to do. We can actually do physical art shows. As a member of Techspressionism that you're welcome to join that we have a lot of art fair this year.
 
 I go into send my contact to the chat. Okay. Okay.
 

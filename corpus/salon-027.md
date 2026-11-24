@@ -297,7 +297,7 @@ So, and that was part of the expire series that, that work, that was called fall
 
 I don't know what else to call it, but I'll just call it the fall series. This is a few of the works from that series. There's of course, there are other works in the aspire series as well. And there's other works in the fall series. So I'm just trying to give a snapshot of like what, what more or less the, the rest of the series kind of looks like.
 
-And one of these, you might actually recognize from the Facebook group, the one on the top left, is it worth it? That's actually the banner for the movement on Facebook. I think it's the text fresh and this page is where it is.
+And one of these, you might actually recognize from the Facebook group, the one on the top left, is it worth it? That's actually the banner for the movement on Facebook. I think it's the Techspressionism page, and this page is where it is.
 
 ## Unattributed [01:14:31](https://www.youtube.com/watch?v=QrGxzCL_ScA&t=4471s)
 

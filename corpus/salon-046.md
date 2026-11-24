@@ -819,7 +819,7 @@ Of catalogs I'll give the obligatory little marketing push that we now have our 
 
 ## Unattributed [01:25:43](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5143s)
 
-Also available at textfreshenism.com
+Also available at techspressionism.com
 
 ## Colin Goldberg [01:25:46](https://www.youtube.com/watch?v=xo2ql3MgJlw&t=5146s)
 

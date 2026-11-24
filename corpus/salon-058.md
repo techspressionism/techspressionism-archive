@@ -42,7 +42,7 @@ languages: ["en"]
 
 ## Davonte Bradley [00:03](https://www.youtube.com/watch?v=7zhZis1d3po&t=3s)
 
-Welcome, welcome, welcome to our Techspress virtual salon. I'm your moderator, Davonte Bradley, and joining me today are at the moment about 24 other glorious artists. There could be more that trickle in, but if it's your first time here, I bid you welcome. And you don't have to be shy, but you don't have to speak up if you don't want to. I'm not going to force you, unless you want us to.
+Welcome, welcome, welcome to our Techspressionist virtual salon. I'm your moderator, Davonte Bradley, and joining me today are at the moment about 24 other glorious artists. There could be more that trickle in, but if it's your first time here, I bid you welcome. And you don't have to be shy, but you don't have to speak up if you don't want to. I'm not going to force you, unless you want us to.
 
 But anyway, so how this works, or how it's been working for the past couple of salons that we have, we've been having a kind of a show and tell plus discussion around a particular topic. Two weeks ago, our topic was nightmares, and we had several artists share work that was either concerning. The idea of nightmares or the art that was kind of about a nightmare scenario that we went that they went through. And so the natural follow up to that is dreams and dreams, as defined by Merriam Webster, are a series of thoughts, images or emotions occurring during sleep or possibly an experience of waking life, having the characteristics of a dream.
 

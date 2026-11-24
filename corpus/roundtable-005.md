@@ -44,7 +44,7 @@ Okay, great. So ChatGPT the exhibition that's brought us all together is a show 
 
 ## ChatGPT [00:24](https://www.youtube.com/watch?v=BphNOUbReFs&t=24s)
 
-Absolutely. The exhibition is called for text reference artists, and it's currently being shown at 150 mediastream in Chicago. It features the works of the 4 of you, Colin Goldberg, Renata Janiszewska, Karen LaFleur, and Jan Swinburne. The exhibition is displayed on a stunning 150 foot led wall, creating an immersive digital art experience. It's a fantastic showcase of how technology and art come together. And it's great to see all of you contributing to it.
+Absolutely. The exhibition is called Four Techspressionist Artists, and it's currently being shown at 150 mediastream in Chicago. It features the works of the 4 of you, Colin Goldberg, Renata Janiszewska, Karen LaFleur, and Jan Swinburne. The exhibition is displayed on a stunning 150 foot led wall, creating an immersive digital art experience. It's a fantastic showcase of how technology and art come together. And it's great to see all of you contributing to it.
 
 ## Colin Goldberg [00:56](https://www.youtube.com/watch?v=BphNOUbReFs&t=56s)
 

@@ -731,7 +731,7 @@ And I've already got lost in that black hole scenario. So I like came out of it.
 
 ## Colin Goldberg [01:30:39](https://www.youtube.com/watch?v=t0JhtlP3olQ&t=5439s)
 
-About you first heard about the text rushes and through skojo right over on clubhouse or something like that was that how you got connected to the group or I've met skojo on clubhouse and actually it was his brain.
+About you first heard about Techspressionism through skojo right over on clubhouse or something like that was that how you got connected to the group or I've met skojo on clubhouse and actually it was his brain.
 
 ## Unattributed [01:30:52](https://www.youtube.com/watch?v=t0JhtlP3olQ&t=5452s)
 

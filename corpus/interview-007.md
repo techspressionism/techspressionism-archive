@@ -1083,7 +1083,7 @@ That's, you know, that's the God in you that I see in you, Roz, that I would hop
 
 ## Roz Dimon [01:36:38](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5798s)
 
-I love what you're saying. We'll have more conversation. We'll have more conversations. But going back to the ant and the indigenous, is that we also have to remember and brings it kind of back to tech Techspressionism, the community that you know, the ant as brilliant as each one of us can be, there is a collective humanity, and how we work together and treat each other and, and how we share what we're learning. And it's not just the great and mighty Creator, but it's also those ants, they survived all these years, because they worked. They worked together somehow in some incredible way.
+I love what you're saying. We'll have more conversation. We'll have more conversations. But going back to the ant and the indigenous, is that we also have to remember and brings it kind of back to Techspressionism, the community that you know, the ant as brilliant as each one of us can be, there is a collective humanity, and how we work together and treat each other and, and how we share what we're learning. And it's not just the great and mighty Creator, but it's also those ants, they survived all these years, because they worked. They worked together somehow in some incredible way.
 
 ## Michael Pierre Price [01:37:14](https://www.youtube.com/watch?v=XLRoHnYg1dA&t=5834s)
 

@@ -34,7 +34,7 @@ Hi. My name is Michael Pierre Price. I'm an artist out of Phoenix, Arizona. Toda
 
 What's also important to remember is that we're talking about all of this unfolding prior to the Internet. As we know it, there was no web at that point. That we had access to and could use one of the things. I think we're lucky enough in this expressionism. Community is the wealth of artists who can speak to these early days of technology. And we're presenting the origin salon in actually 2 parts, one today. And then in the following February salon on the 6th of February.
 
-I want to personally thank Steve Miller for sharing his insights with me. While I was formulating this concept of the Origin Salon, because Steve relayed to me that we should really see this as an important historical record, not only of the artist who will be presenting, but also contextually, as a prehistory of Techspressionism. And it's really neat, because I think those early days are now reflected into today's text artists worldwide, who are using things like augmented reality. VR AI nfts web 3 and much more.
+I want to personally thank Steve Miller for sharing his insights with me. While I was formulating this concept of the Origin Salon, because Steve relayed to me that we should really see this as an important historical record, not only of the artist who will be presenting, but also contextually, as a prehistory of Techspressionism. And it's really neat, because I think those early days are now reflected into today's Techspressionist artists worldwide, who are using things like augmented reality. VR AI nfts web 3 and much more.
 
 So without further ado, Steve, I'd like to welcome you as our 1st presenter today.
 

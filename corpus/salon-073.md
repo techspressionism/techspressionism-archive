@@ -165,7 +165,7 @@ All right. Is there anyone else who wants to share.
 
 ## Kristen Doner [43:35](https://www.youtube.com/watch?v=oimOOlyY0BY&t=2615s)
 
-I might like to show a little bit of my work. I'm new to the group so I'd really like to see if I, if I measure up. If I fit in. Kristen, it's wonderful to see you here I'm, I'm the one who welcomed you to text preciousness. Thank you. And I'm so thrilled that you shown up please share your work. Thank you. Let's see, I can show.
+I might like to show a little bit of my work. I'm new to the group so I'd really like to see if I, if I measure up. If I fit in. Kristen, it's wonderful to see you here I'm, I'm the one who welcomed you to Techspressionism. Thank you. And I'm so thrilled that you shown up please share your work. Thank you. Let's see, I can show.
 
 I'll just show a few pieces. Yeah, that'll give Tommy time to see if he can put his piece together. See, I'll bring this over here. Now I'm not sure how to share a screen. Okay at the bottom. Are you on a computer or laptop. I'm on a laptop. Okay at the bottom you should see a menu if you touch the screen with mouse or finger, and you should see a green rectangle says sure. Sure. Okay.
 

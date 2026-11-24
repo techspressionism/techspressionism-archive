@@ -26,7 +26,7 @@ flags:
 
 ## Unattributed [00:02](https://www.youtube.com/watch?v=dJbRASddqhg&t=2s)
 
-Hello, hello, hello, and welcome to our 33rd Textfreshism Virtual Salon. I am your host and moderator, Davonte Bradley. Joining me is Colin, who coined the term Textfreshism. Nina, David, and Lindsay are presenters for today, and our wonderful audience of other artists and art appreciators. It's going to be a great day, I think. We are, this is our last virtual salon for the year.
+Hello, hello, hello, and welcome to our 33rd Techspressionism Virtual Salon. I am your host and moderator, Davonte Bradley. Joining me is Colin, who coined the term Techspressionism. Nina, David, and Lindsay are presenters for today, and our wonderful audience of other artists and art appreciators. It's going to be a great day, I think. We are, this is our last virtual salon for the year.
 
 That's exciting. We've been at this for a full year now, or actually a little over a full year now, and we started during the pandemic of last year, and we're still in a pandemic, but it's okay. We're artists. We'll keep going. We'll keep creating. And, I don't know. Happy holidays. Happy holidays. Yes. I'm sorry. My wife had to remind me to let everyone know happy holidays, because we have a lot during this month at the end of the year. So many, actually. But if you are celebrating right now, happy holidays.
 

@@ -1308,7 +1308,9 @@ function citeDateLong(p) { if (!p.y) return ""; if (!p.m) return String(p.y); re
 function citeDateMla(p) { if (!p.y) return ""; if (!p.m) return String(p.y); return (p.d ? p.d + " " : "") + CITE_MONTHS_MLA[p.m] + " " + p.y; }
 function citeToday() { var d = new Date(); return d.getDate() + " " + CITE_MONTHS_MLA[d.getMonth() + 1] + " " + d.getFullYear(); }
 function citeIsPerson(n) { return n && !/^Unidentified/i.test(n) && !/\d/.test(n) && n.indexOf(",") < 0 && n.indexOf(" and ") < 0 && n.indexOf("&") < 0; }   /* a series name ("Techspressionist Salon 110", the CFS's fallback "author" for a whole-session citation with no single named speaker) always has a digit; a real person's name never does */
+function citeLegalName(n) { return String(n).replace(/ +aka .*$/i, "").trim(); }   /* "Paul D. Miller aka DJ Spooky that Subliminal Kid" -> "Paul D. Miller": the name-splitting formats (APA, BibTeX, RIS) would otherwise take "Kid" as the surname and every other word as an initial */
 function citeApaName(n) {
+  n = citeLegalName(n);
   var t = n.trim().split(/ +/);
   if (!citeIsPerson(n) || t.length < 2) return n.trim();
   return t[t.length - 1] + ", " + t.slice(0, -1).map(function (x) { return x.charAt(0).toUpperCase() + "."; }).join(" ");
@@ -1322,13 +1324,13 @@ function citeFormats(i) {
   var mla = who + '. "' + title + '." ' + pub + ", " + (p.y ? citeDateMla(p) + ", " : "") + (ts ? ts + ", " : "") + url + ". Accessed " + citeToday() + ".";
   var apa = citeApaName(who) + " " + (p.y ? "(" + citeDateLong(p).replace(/^([A-Za-z]+) ([0-9]+), ([0-9]+)$/, "$3, $1 $2").replace(/^([A-Za-z]+) ([0-9]+)$/, "$2, $1") + ")" : "(n.d.)") +
     ". " + title + (ts ? " [Video transcript excerpt, " + ts + "]" : " [Video]") + ". " + pub + ". " + url;
-  var last = (who.trim().split(/ +/).pop() || "tva").toLowerCase().replace(/[^a-z]/g, "") || "tva";
+  var whoL = citeLegalName(who), last = (whoL.split(/ +/).pop() || "tva").toLowerCase().replace(/[^a-z]/g, "") || "tva";
   var bib = ["@misc{" + last + (p.y || "nd") + (ts ? "t" + Math.floor(i.seconds || 0) : "") + ",",
-    "  author = {" + citeBibEsc(who) + "},", "  title = {" + citeBibEsc(title) + "},",
+    "  author = {" + citeBibEsc(whoL) + "},", "  title = {" + citeBibEsc(title) + "},",
     "  howpublished = {" + pub + ", streaming video},"].concat(p.y ? ["  year = {" + p.y + "},"] : [], p.m ? ["  month = {" + CITE_MONTHS_LONG[p.m].slice(0, 3).toLowerCase() + "},"] : [],
     (ts ? ["  note = {Transcript passage at " + ts + (p.y ? "; recorded " + citeDateLong(p) : "") + "},"] : []),
     ["  url = {" + url + "}", "}"]).join(CITE_NL);
-  var ris = ["TY  - VIDEO", "AU  - " + (citeIsPerson(who) ? (who.trim().split(/ +/).length > 1 ? who.trim().split(/ +/).pop() + ", " + who.trim().split(/ +/).slice(0, -1).join(" ") : who) : who),
+  var ris = ["TY  - VIDEO", "AU  - " + (citeIsPerson(whoL) ? (whoL.split(/ +/).length > 1 ? whoL.split(/ +/).pop() + ", " + whoL.split(/ +/).slice(0, -1).join(" ") : whoL) : whoL),
     "TI  - " + title, "T2  - " + pub].concat(p.y ? ["PY  - " + p.y, "DA  - " + p.y + "/" + (p.m ? String(p.m).padStart(2, "0") : "") + "/" + (p.d ? String(p.d).padStart(2, "0") : "") + "/"] : [],
     (ts ? ["N1  - Transcript passage at " + ts] : []),
     ["UR  - " + url, "ER  - "]).join(CITE_NL);

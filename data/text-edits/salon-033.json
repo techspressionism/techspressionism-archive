@@ -1,0 +1,14 @@
+{
+    "edits": [
+        {
+            "t": 2.24,
+            "old": "Hello, hello, hello, and welcome to our 33rd Textfreshism Virtual Salon. I am your host and moderator, Davonte Bradley. Joining me is Colin, who coined the term Textfreshism. Nina, David, and Lindsay are presenters for today, and our wonderful audience of other artists and art appreciators. It's going to be a great day, I think. We are, this is our last virtual salon for the year.",
+            "new": "Hello, hello, hello, and welcome to our 33rd Techspressionism Virtual Salon. I am your host and moderator, Davonte Bradley. Joining me is Colin, who coined the term Techspressionism. Nina, David, and Lindsay are presenters for today, and our wonderful audience of other artists and art appreciators. It's going to be a great day, I think. We are, this is our last virtual salon for the year.",
+            "by": "Claude (for Colin Goldberg)",
+            "at": "2026-11-24 18:42",
+            "note": "Speech recognition misheard \"Techspressionism\"/\"Techspressionist\".",
+            "status": "approved",
+            "id": "e537e4a410"
+        }
+    ]
+}
